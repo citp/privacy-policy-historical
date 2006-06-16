@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fusemail.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212131433id_/http%3A//www.fusemail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusemail.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616101751id_/http%3A//www.fusemail.com/privacy.html) for the most accurate reproduction.*
 
-# FuseMail, the Business Email Hosting Services Provider
+# Email Hosting - FuseMail, the Business Email Hosting Services Provider
 
 |  _(Adopted August 8th, 2003)_  
 _(Updated May 15th, 2005)_
