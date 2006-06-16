@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the commercialappeal.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216203848id_/http%3A//www.commercialappeal.com/mca/home/article/0%2C1426%2CMCA_435_1660485%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercialappeal.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616200520id_/http%3A//www.commercialappeal.com/mca/home/article/0%2C1426%2CMCA_435_1660485%2C00.html) for the most accurate reproduction.*
 
 # commercialappeal.com - Memphis, TN
 
-  
-Privacy Policy
+### October 27, 2003
 
- **October 28, 2003**
-
- **For The Commercial Appeal / commercialappeal.com**
+**For The Commercial Appeal / commercialappeal.com**
 
 The Commercial Appeal / commercialappeal.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At commercialappeal.com we intend to give you as much control as possible over your personal information. 
+
+Advertisement   
+
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. 
 
@@ -56,4 +56,5 @@ At any time while assessing our site, any user while online may "opt-out" of fur
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without our express written permission is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [copeland@commercialappeal.com](mailto:copeland@commercialappeal.com). To link to the full Terms of Use Agreement pertaining to use of our site, please **[click here](http://www.commercialappeal.com/mca/home/article/0,1426,MCA_435_1660473,00.html)**. 
+The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without our express written permission is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [copeland@commercialappeal.com](mailto:copeland@commercialappeal.com). To link to the full Terms of Use Agreement pertaining to use of our site, please **[click here](http://www.commercialappeal.com/mca/home/article/0,1426,MCA_435_1660473,00.html)**.   
+
