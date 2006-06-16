@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davesdaily.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214070932id_/http%3A//www.davesdaily.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesdaily.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617015904id_/http%3A//www.davesdaily.com/privacy.htm) for the most accurate reproduction.*
 
 # Dave's Daily - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 We respect your privacy, and we want you to feel comfortable using the DavesDaily web site. Therefore, we are providing you with this privacy policy so you can better understand how we collect information about you, what we do with your information, and who, other than DavesDaily.com may also receive your information.
 
-CyberClicks, Inc. d/b/a DavesDaily.com does collect certain personally identifiable information that may be used to provide you with customized services, content, networking opportunities, industry information and/or advertisements. Personally identifiable information is collected when you register to receive certain DavesDaily.com services, products or offers. DavesDaily.com may also request personally identifiable information when the user elects to participate in other DavesDaily.com affiliated or sponsored programs, including, but not limited to, sweepstakes, contests, and/or other such promotions.
+Socially Blog, Inc. d/b/a DavesDaily.com does collect certain personally identifiable information that may be used to provide you with customized services, content, networking opportunities, industry information and/or advertisements. Personally identifiable information is collected when you register to receive certain DavesDaily.com services, products or offers. DavesDaily.com may also request personally identifiable information when the user elects to participate in other DavesDaily.com affiliated or sponsored programs, including, but not limited to, sweepstakes, contests, and/or other such promotions.
 
 DavesDaily.com may share the collected personally identifiable information with a sponsor or other third party that may be interested in serving you. DavesDaily.com will request and verify your consent before any personally identifiable information is provided to sponsors or third parties. You may also inform DavesDaily.com at any time not to share your personally identifiable information with third parties by sending an e-mail message to dave@davesdaily.com and requesting that your personally identifiable information not be released to third parties.
 
