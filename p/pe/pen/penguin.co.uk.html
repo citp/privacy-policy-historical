@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the penguin.co.uk privacy policy that was archived on 2005-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051218092703id_/http%3A//www.penguin.co.uk/static/html/uk/copyright/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the penguin.co.uk privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616045234id_/http%3A//www.penguin.co.uk/static/html/uk/copyright/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Penguin UK - Privacy Policy</title>
@@ -15,7 +15,39 @@ GeoDomainCode = 83;
 CoreSetOid = 590614;
 //--></script>
 
-<script language="Javascript" src="/static/misc/uk/javascript/readersnavjs.js"></script>
+<script language="javascript">
+// FUNCTION FOR EMAIL REACTION UPDATE MY DETAILS POP UP
+function openWindowEmailReaction(theURL, theName, width, height) {
+        window.open(theURL , ""+theName+"" ,"width=" + width + ",height="+ height + ",toolbar=no,directories=0,menubar=no,status=no,resizable=0,location=0,scrollbars=1,copyhistory=0,alwaysRaised=yes")
+        return false;
+}
+
+// FUNCTION TO CONTROL BG AND STYLE OF QUICK NEWSLETTER FORM FIELD
+var FFbg = '#FFFFFF'
+var FFbc = '#1E3C78'
+var oldval = "";
+
+function FieldHi(obj){
+	blurred=false;
+    if (obj.style.backgroundColor == "")
+	{
+	   oldval = obj.value;
+	   Presets = new Array("email_address")
+	   if (obj.value == "email address" ){
+	   		obj.value=''
+	   	}
+	   obj.style.backgroundColor = FFbg;
+	   obj.style.borderColor = FFbc;
+	}
+    else {
+    	if (obj.value == ""){obj.value = oldval}
+    	obj.style.backgroundColor = "";
+		obj.style.borderColor = "";
+	}
+}
+
+</script>
+<script language="Javascript" src="/nf/shared/nfcommon.js/0,,,00.js"></script>
 <table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
   <tbody><tr>
 	<td align="left" valign="middle" height="62" width="206"><a href="http://www.penguin.co.uk" target="_top"><img src="/static/images/uk/topnav_penguinlogo.gif" width="206" height="51" alt="Penguin UK" border="0"></a></td>
@@ -91,27 +123,25 @@ CoreSetOid = 590614;
   </tr>
 </tbody></table>
 
-
-
-
-
 <table width="100%" height="38" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
 	<tbody><tr>
 		<td width="80" valign="bottom" bgcolor="#E3EDF2" height="18"><img src="/static/images/uk/spacer.gif" width="80" height="18" border="0" alt=""></td>
     	<td width="50%" bgcolor="#E3EDF2"><img src="/static/images/uk/spacer.gif" width="1" height="18" border="0" alt=""></td>
-		<td valign="bottom" height="18" width="515">
-			<table width="512" border="0" cellspacing="0" cellpadding="0">
+		<td valign="bottom" height="18" width="524">
+			<table width="524" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
 					<td width="2" bgcolor="#666666"><img src="/static/images/uk/spacer.gif" alt="" width="2" height="18"></td>
-					<td width="100" class="topnavlink" bgcolor="#FF6600" valign="center" align="left"><a href="http://www.penguin.co.uk" target="_top" class="topnavlink">home</a></td>
+					<td width="85" class="topnavlink" bgcolor="#FF6600" valign="center" align="left"><a href="http://www.penguin.co.uk" target="_top" class="topnavlink">home</a></td>
 					<td width="2" bgcolor="#666666"><img src="spacer.gif" width="2"></td>
-					<td width="100" class="topnavhighlight" style="BACKGROUND-COLOR: #cccccc" valign="center"><a class="topnavhighlight" href="/static/cs/uk/0/advancedsearch/advancedsearch.html">find a book</a></td>
+					<td width="85" class="topnavhighlight" style="BACKGROUND-COLOR: #cccccc" valign="center"><a class="topnavhighlight" href="/static/cs/uk/0/browse/browse.html">find a book</a></td>
 					<td width="2" bgcolor="#666666"><img src="/static/images/uk/spacer.gif" alt="" width="2"></td>
-					<td width="100" class="topnavhighlight" style="BACKGROUND-COLOR: #cccccc" valign="center"><a class="topnavhighlight" href="/static/cs/uk/0/competition/index.html">free stuff</a></td>
+					<td width="85" class="topnavhighlight" style="BACKGROUND-COLOR: #cccccc" valign="center"><a class="topnavhighlight" href="/static/cs/uk/0/competition/index.html">free stuff</a></td>
 					<td width="2" bgcolor="#666666"><img src="/static/images/uk/spacer.gif" alt="" width="2"></td>
-					<td width="100" class="topnavhighlight" style="BACKGROUND-COLOR: #cccccc" valign="center"><a class="topnavhighlight" href="/static/cs/uk/0/children/index.html">for children</a></td>
+					<td width="85" class="topnavhighlight" style="BACKGROUND-COLOR: #cccccc" valign="center"><a class="topnavhighlight" href="/static/cs/uk/0/children/index.html">for children</a></td>
 					<td width="2" bgcolor="#666666"><img src="/static/images/uk/spacer.gif" alt="" width="2"></td>
-					<td width="100" class="topnavhighlight" valign="center" style="BACKGROUND-COLOR: #cccccc"><a class="topnavhighlight" href="/static/cs/uk/0/aboutus/faq.html">about penguin</a></td>
+					<td width="85" class="topnavhighlight" valign="center" style="BACKGROUND-COLOR: #cccccc"><a class="topnavhighlight" href="/static/cs/uk/0/aboutus/faq.html">about penguin</a></td>
+					<td width="2" bgcolor="#666666"><img src="spacer.gif" alt="" width="2"></td>
+					<td width="85" class="topnavhighlight" valign="center" style="BACKGROUND-COLOR: #cccccc"><a class="topnavhighlight" href="http://gs12.globalsuccessor.com/fe/tpl_penguin01.asp" target="_blank">careers</a></td>
 					<td width="2" bgcolor="#666666"><img src="spacer.gif" alt="" width="2"></td>
 				</tr>
 			</tbody></table>
@@ -144,15 +174,13 @@ CoreSetOid = 590614;
 	<tr>
 		<td width="80" bgcolor="#ff6600" height="18"><img src="/static/images/uk/spacer.gif" width="80" height="18" border="0" alt=""></td>
 		<td width="50%" align="right" valign="top" bgcolor="#ff6600"><img src="/static/images/uk/topnav_select.gif" alt="" width="61" height="20" border="0"></td>
-		<td align="left" valign="top" bgcolor="#ff6600" colspan="2" class="topnavlink">  <a href="/static/cs/uk/0/penguinauthors/index.html" class="topnavlink">authors</a> | <a href="/nf/Events/EventSearchProc/1,,,00.html" class="topnavlink">events diary</a> | <a href="/static/cs/uk/0/extracts/index.html" class="topnavlink">extracts</a> | <a href="/static/cs/uk/0/giftselector/index.html" class="topnavlink">gift selector</a> | <a href="/static/cs/uk/0/inconversation/index.html" class="topnavlink">interviews</a> | <a href="http://readers.penguin.co.uk" class="topnavlink">readers' groups</a></td>
+		<td align="left" valign="top" bgcolor="#ff6600" colspan="2" class="topnavlink">&nbsp;&nbsp;<a href="/static/cs/uk/0/penguinauthors/index.html" class="topnavlink">authors</a> | <a href="http://www.penguin.co.uk/nf/Events/EventSearchProc/1,,,00.html" class="topnavlink">events diary</a> | <a href="/static/cs/uk/0/extracts/index.html" class="topnavlink">extracts</a> | <a href="/static/cs/uk/0/articles/offershop/index.html" class="topnavlink">offers</a> | <a href="/static/cs/uk/0/inconversation/index.html" class="topnavlink">interviews</a> | <a href="http://readers.penguin.co.uk" class="topnavlink">readers' groups</a> | <a href="http://thepenguinpodcast.blogs.com" class="topnavlink" target="_blank">podcast</a></td>
 		<td colspan="2" bgcolor="#ff6600"><img src="/static/images/uk/spacer.gif" width="1" height="1" alt=""></td>
 	</tr>
 	<tr>
 		<td colspan="7" bgcolor="#ffffff" height="1"><img src="/static/images/uk/spacer.gif" height="1" alt=""></td>
 	</tr>
 </tbody></table>
-
-
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
@@ -308,7 +336,7 @@ function unhighlight(item_before, item_after)
 			<tr>
 				<td width="2" bgcolor="#cccccc"><img src="/static/images/uk/spacer.gif" width="2"></td>
 				<td width="5" bgcolor="#ffffff"><img src="/static/images/uk/spacer.gif" width="5"></td>
-				<td id="item5" class="navitems" bgcolor="#ffffff" valign="middle" height="15"><a href="/nf/Theme/ThemePage/0,,767826_98,00.html" class="navitems" onmouseover="highlight('item4','item6')" onmouseout="unhighlight('item4','item6')">biography</a></td>
+				<td id="item5" class="navitems" bgcolor="#ffffff" valign="middle" height="15"><a href="/static/cs/uk/0/biography/index.html" class="navitems" onmouseover="highlight('item4','item6')" onmouseout="unhighlight('item4','item6')">biography</a></td>
 			</tr>
 			<tr>
 				<td width="2" bgcolor="#cccccc"><img src="/static/images/uk/spacer.gif" width="2"></td>
@@ -317,7 +345,7 @@ function unhighlight(item_before, item_after)
 			<tr>
 				<td width="2" bgcolor="#cccccc"><img src="/static/images/uk/spacer.gif" width="2"></td>
 				<td width="5" bgcolor="#ffffff"><img src="/static/images/uk/spacer.gif" width="5"></td>
-				<td id="item7" class="navitems" bgcolor="#ffffff" valign="middle" height="15"><a href="/nf/Theme/ThemePage/0,,767831_97,00.html" class="navitems" onmouseover="highlight('item6','item8')" onmouseout="unhighlight('item6','item8')">business</a></td>
+				<td id="item7" class="navitems" bgcolor="#ffffff" valign="middle" height="15"><a href="/static/cs/uk/0/business/index.html" class="navitems" onmouseover="highlight('item6','item8')" onmouseout="unhighlight('item6','item8')">business</a></td>
 			</tr>
 			<tr>
 				<td width="2" bgcolor="#cccccc"><img src="/static/images/uk/spacer.gif" width="2"></td>
@@ -390,7 +418,7 @@ function unhighlight(item_before, item_after)
 			<tr>
 				<td width="2" bgcolor="#cccccc"><img src="/static/images/uk/spacer.gif" width="2"></td>
 				<td width="5" bgcolor="#ffffff"><img src="/static/images/uk/spacer.gif" width="5"></td>
-				<td id="item23" class="navitems" bgcolor="#ffffff" valign="middle" height="15"><a href="/nf/Theme/ThemePage/0,,772795_90,00.html" class="navitems" onmouseover="highlight('item22','item24')" onmouseout="unhighlight('item22','item24')">history</a></td>
+				<td id="item23" class="navitems" bgcolor="#ffffff" valign="middle" height="15"><a href="/static/cs/uk/0/history/index.html" class="navitems" onmouseover="highlight('item22','item24')" onmouseout="unhighlight('item22','item24')">history</a></td>
 			</tr>
 			<tr>
 				<td width="2" bgcolor="#cccccc"><img src="/static/images/uk/spacer.gif" width="2"></td>
@@ -546,7 +574,7 @@ function unhighlight(item_before, item_after)
 			<tr>
 				<td class="copyright"> 
 <hr noshade="" align="center" width="480" size="1">
-<div align="center">© 1995 - 2005 PENGUIN BOOKS LTD, 80 Strand, London, WC2R 
+<div align="center">© 1995 - 2006 PENGUIN BOOKS LTD, 80 Strand, London, WC2R 
   0RL<br>
  <a href="/static/html/uk/copyright/index.html" class="set4">TERMS AND CONDITIONS</a> | <a href="/static/html/uk/copyright/privacy.html" class="set4">PRIVACY POLICY</a></div>
 </td></tr>
