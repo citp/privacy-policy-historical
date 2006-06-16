@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellopeter.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218015029id_/http%3A//www.hellopeter.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellopeter.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616184956id_/http%3A//www.hellopeter.com/privacy.asp) for the most accurate reproduction.*
 
 # hellopeter.com - Free service line containing comments on good and bad service experiences.
 
