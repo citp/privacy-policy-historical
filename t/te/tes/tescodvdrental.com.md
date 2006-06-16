@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescodvdrental.com privacy policy that was archived on 2005-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051110055823id_/http%3A//www.tescodvdrental.com/visitor/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescodvdrental.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616104724id_/http%3A//www.tescodvdrental.com/visitor/privacy_policy.html) for the most accurate reproduction.*
 
 # Tesco DVD Rentals - the easiest way to rent DVDs
 
