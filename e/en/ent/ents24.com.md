@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ents24.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214141805id_/http%3A//www.ents24.com/web/content/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ents24.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616033634id_/http%3A//www.ents24.com/web/content/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Ents24 collects information about you when your register for an account, and the
 
 **Other Information.** Ents24 automatically receives and records information from your browser including your IP address and the page you requested. 
 
-**Cookies.** [Read further information here about Ents24's use of cookies.](https://web.archive.org/web/20051214141805id_/http%3A//www.ents24.com/web/content/Cookies.html)
+**Cookies.** [Read further information here about Ents24's use of cookies.](https://web.archive.org/web/20060616033634id_/http%3A//www.ents24.com/web/content/Cookies.html)
 
 ## Sharing of Information
 
@@ -35,5 +35,3 @@ If you would like us to completely delete your personal details from our server,
 ## Enquiries
 
 If you have any questions about our privacy policy, please . 
-
-|   | 
