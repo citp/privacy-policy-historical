@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cbs13.com privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108055520id_/http%3A//cbs13.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs13.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616185928id_/http%3A//cbs13.com/privacy) for the most accurate reproduction.*
 
-# CBS 13/UPN 31: Sacramento's Source For Breaking News, Weather and Traffic: Privacy
+# cbs13.com - Privacy
 
 **EFFECTIVE DATE** : The most recent version of this Privacy Policy, as revised, is effective as of March 29, 2004.
 
