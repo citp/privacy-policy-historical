@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcafeepartnerincentives.com privacy policy that was archived on 2005-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050505220905id_/http%3A//www.mcafeepartnerincentives.com/redirect.asp%3FAssest%3D59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcafeepartnerincentives.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616062544id_/http%3A//www.mcafeesecurity.com/uk/privacy.htm%3Fwt.mc_n%3Duk_privacy%26wt.mc_t%3Dext_li_con%26cid%3D10482) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
