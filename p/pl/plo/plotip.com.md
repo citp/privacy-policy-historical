@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plotip.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222050846id_/http%3A//www.plotip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plotip.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616133752id_/http%3A//plotip.com/privacy.php) for the most accurate reproduction.*
 
 # Plot IP - Privacy Policy
 
