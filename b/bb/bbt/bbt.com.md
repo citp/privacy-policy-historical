@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbt.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210105102id_/http%3A//www.bbandt.com/about/privacyandsecurity/consumerprivacynotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbt.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616051230id_/http%3A//www.bbt.com/bbt/about/privacyandsecurity/consumerprivacynotice.html) for the most accurate reproduction.*
 
 # BB&T - Consumer Privacy Notice
 
@@ -7,7 +7,7 @@ The BB&T Corporate Family includes many types of financial services providers, s
 Back to top
 
 **BB &T Corporation Consumer Privacy Notice**  
-Our Consumer Privacy Notice tells you the kind of information we collect about you, with whom we share it, and how we protect it responsibly. The Notice applies to consumers who obtain financial products or services for personal, family, or household purposes. The examples that you will find throughout this Notice are for purposes of illustration only and should not be considered a complete description of our information practices. In addition, we may not collect or disclose all of the categories of information described in this Notice in every transaction.  
+Our Consumer Privacy Notice tells you the kind of information we collect about you, with whom we share it, and how we protect it responsibly. The Notice applies to consumers who obtain financial products or services for personal, family, or household purposes. The examples that you will find throughout this Notice are for purposes of illustration only and should not be considered a complete description of our information practices. In addition, we may not collect or disclose all of the categories of information described in this Notice in every transaction.   
 Back to top
 
 **Categories of information we may collect**  
