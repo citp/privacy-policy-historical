@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231130238id_/http%3A//www.leerburg.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616022737id_/http%3A//www.leerburg.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
