@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaspowered.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210175602id_/http%3A//www.gaspowered.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaspowered.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616173139id_/http%3A//gaspowered.com/privacy.php) for the most accurate reproduction.*
 
-# Gas Powered Games
+# Gas Powered Games -- Privacy Policy
 
 GAS POWERED GAMES PRIVACY STATEMENT
 
@@ -8,7 +8,7 @@ Last updated: March 17, 2005
 
 **OUR PRIVACY COMMITMENT**
 
-[](http://www.esrb.org/)
+[](http://www.esrb.org/confirm/gaspowerg-confirmation.jsp)
 
 Gas Powered Games respects the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us.
 
@@ -70,7 +70,7 @@ We collect several types of personally identifiable information about our guests
 
 ### Children
 
-We don't collect any personal information from children 13 and younger.
+We don't knowingly collect any personal information from children 13 and younger.
 
 ### Information You Provide to Us
 
