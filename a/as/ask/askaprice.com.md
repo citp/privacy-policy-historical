@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230082032id_/http%3A//www.askaprice.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616182001id_/http%3A//www.askaprice.com/privacy.asp) for the most accurate reproduction.*
 
-# New cars and car leasing quotes | Free, no-obligation service
+# Car Leasing & New Cars | FREE QUOTES FROM UK CAR DEALERS
 
 Askaprice is committed to protecting your privacy. We will only use the information that we collect about you lawfully and in accordance with the Data Protection Act of 1998. 
 
