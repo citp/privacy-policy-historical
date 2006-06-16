@@ -1,17 +1,9 @@
-> *The following text is extracted and transformed from the frontlineplacement.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214231936id_/http%3A//frontlineplacement.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontlineplacement.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616183503id_/http%3A//frontlineplacement.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Frontline Placement Technologies - Automated Replacement Technology
 
-December
-
-  * 1-2 MASPA
-  * 7-9 Savannah, GA
-  * 7-9 TASPA
-
-
-
   
-[](https://web.archive.org/web/20051214231936id_/http%3A//frontlineplacement.com/press/Patent_151_Press_Release.pdf) | 
+[](https://web.archive.org/web/20060616183503id_/http%3A//frontlineplacement.com/press/Patent_151_Press_Release.pdf) | 
 
 Privacy Policy 
 
