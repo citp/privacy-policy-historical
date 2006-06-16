@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familytime.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225093124id_/http%3A//www.familytime.com/asp/PrivacyStatement.asp%3FUserID%3D%26Key%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familytime.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616193954id_/http%3A//www.familytime.com/asp/PrivacyStatement.asp%3FUserID%3D%26Key%3D) for the most accurate reproduction.*
 
 # Welcome to FamilyTime
 
