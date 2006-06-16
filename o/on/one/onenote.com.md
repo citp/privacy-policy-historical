@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onenote.com privacy policy that was archived on 2004-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040831033318id_/http%3A//office.microsoft.com/en-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onenote.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616221015id_/http%3A//office.microsoft.com/en-us/privacy.aspx) for the most accurate reproduction.*
 
 # Microsoft Office Online Privacy Statement
 
-This document was last updated February 7, 2003.
+This document was last updated April 14, 2005.
 
 At Microsoft ® we understand that purchasing services online involves a great deal of trust on your part. We take this trust very seriously and make it a priority to protect the confidentiality of the personally identifiable information ("PII") you provide to us. (PII includes information that can be linked to you as a specific individual, such as your name, address, phone number, or e-mail address.) Sometimes we need information to provide services that you request, and this Privacy Statement explains what information we will collect and how we will use it. By using this site, you consent to the information practices described in this Privacy Statement.
 
@@ -26,7 +26,7 @@ Office 2003 collects PII when you:
 
 ### Post to one of the Office 2003 Communities
 
-Office 2003 provides online communities where you can get answers to your questions about Office or post answers to other users' questions. When you first post to an Office community, Office will ask you to provide a screen name and e-mail address. All community users can see anything you post, including your screen name. Office also records the communities that you belong to and a score based on the number of users that you have helped. You have the option of publishing your e-mail address and community membership information to others on the system, although you are not required to do so.
+Office 2003 provides online communities where you can get answers to your questions about Office or post answers to other users' questions. When you first post to an Office community, Office will ask you to provide a screen name and e-mail address. All community users can see anything you post, including your screen name and IP address. Office also records the communities that you belong to and a score based on the number of users that you have helped. You have the option of publishing your e-mail address and community membership information to others on the system, although you are not required to do so.
 
 ### Submit a Rating
 
@@ -34,7 +34,7 @@ You have the opportunity to rate some content in Office  2003, such as posts to 
 
 ### Use one of the Office 2003 self-paced interactive courses
 
-When you complete one of the Office 2003 self-paced training courses, Office creates a file for you that keeps track of the courses that you have completed. This allows Office to show you which courses you have already completed. This information is not made available to other Office customers or to any third-parties.
+While you are taking one of the Office 2003  self-paced training courses, Office creates a file for you that keeps track of the lessons that you have completed. This allows Office to show you which lessons you have already completed. This information is not made available to other Office customers or to any third parties.
 
 ### Sign up for the Office Marketplace (US Only)
 
@@ -129,15 +129,13 @@ We want you to feel confident about using Microsoft Office  2003 to store and sh
 
 We may occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top of the Privacy Statement. For material changes to this Privacy Statement or how Microsoft Office  2003 will use your PII, we will notify you either by placing a prominent notice on the home page of our Web site or by directly sending you a notification. We encourage you to periodically review this Privacy Statement to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this Privacy Statement and any updates.
 
-If you have questions about our Privacy Statement, please [e-mail](mailto:tow-priv@microsoft.com?subject=Office%202003%20Privacy%20Question) us.
+If you have questions about our Privacy Statement, please [contact us](http://go.microsoft.com/?linkid=2352271).
 
 ### Contact information
 
-Microsoft welcomes your comments regarding this Privacy Statement. If you believe that Microsoft has not adhered to this Privacy Statement, please contact us by [e-mail](mailto:tow-priv@microsoft.com?subject=Office%202003%20Privacy%20Question) or postal mail and we will use commercially reasonable efforts to promptly determine and remedy the problem.
+Microsoft welcomes your comments regarding this Privacy Statement. If you believe that Microsoft has not adhered to this Privacy Statement, please [contact us](http://go.microsoft.com/?linkid=2352271) via the Internet or postal mail and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
 Microsoft Office 2003 Privacy  
 One Microsoft Way  
 Redmond, WA 98052  
 USA
-
-You can also send us an e-mail at [tow-priv@microsoft.com](mailto:tow-priv@microsoft.com?subject=Office%202003%20Privacy%20Question).
