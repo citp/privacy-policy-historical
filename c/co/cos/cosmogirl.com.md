@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmogirl.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228123324id_/http%3A//www.cosmogirl.com/aboutus/0%2C%2C7d23xc06%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmogirl.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616200149id_/http%3A//www.cosmogirl.com/aboutus/0%2C%2C7d23xc06%2C00.html) for the most accurate reproduction.*
 
 # CosmoGIRL! Terms of Use and Privacy Policy
 
@@ -20,9 +20,9 @@ The Magazines endeavor to maintain the security and integrity of personal inform
 
 To subscribe to our newsletters, you must be over the age of thirteen, and we ask for your e-mail and your zip code. When you sign up for those portions of our sites that require registration, we ask for a bit more: your first name, birth date, zip or postal code, and what country you live in. This information is for internal use only and will not be distributed or sold to any parties outside the Magazines except as described in this policy. Newsletter subscribers generally get two emails per month. We might also send out e-mails to users to announce special offers, services and announcements from our site and/or our advertisers. We may also use any personal information you send for marketing and promotional purposes and we may share your personal information with third parties who may choose to contact you to promote their own goods and services. If you want us to stop sharing your personal information with third parties in this way, click on the links below:  
 [CosmoGIRL.com Third Party Mailings](http://www.cosmogirl.com/magazine/ezine/spc/0,,621263_627604,00.html)  
-[Seventeen.com Third Party Mailings](http://www.seventeen.com/newsletter/spc/0,,631551_631687,00.html)
+
 
 You can opt out of the newsletters at any time by clicking on the links below:  
 [CosmoGIRL.com E-Zine](http://www.cosmogirl.com/magazine/ezine/spc/0,,621263_623954,00.html)  
 [CosmoGIRL.com Club 2024 Newsletter](http://www.cosmogirl.com/getreal/2024/spc/0,,621260_624131,00.html)  
-[Seventeen.com Newsletter](http://www.seventeen.com/newsletter/spc/0,,631551_632784,00.html)
+
