@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wanderlist.com privacy policy that was archived on 2005-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051109223129id_/http%3A//www.wanderlist.com/policy/info_usage.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderlist.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616035417id_/http%3A//www.wanderlist.com/policy/info_usage.cgi) for the most accurate reproduction.*
 
 # w a n d e r l i s t - Privacy & Information Usage Policy
+
+| 
 
 **created on September 6th, 1998**  
 **updated on July 1st, 2004**
@@ -18,4 +20,4 @@
   11. This document will be accessible from every page in the **wanderlist** root web site and will be updated as new and better practices with regard to information usage are discovered. 
   12. Feedback on this policy is encouraged. Please direct your comments or any questions you may have to [webmaster@wanderlist.com](mailto:webmaster@wanderlist.com). 
 
- | 
+ 
