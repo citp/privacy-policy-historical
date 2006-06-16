@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realsoftware.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231225721id_/http%3A//www.realsoftware.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realsoftware.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616065457id_/http%3A//www.realsoftware.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | REALbasic 2005
+# Privacy Policy | REALbasic 2006
 
 This privacy policy covers REAL Software Inc.'s treatment of personally identifiable information that we collect when you are on our site. This policy also applies to REAL Software's treatment of any personally identifiable information that our business partners share with us. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage.
 
