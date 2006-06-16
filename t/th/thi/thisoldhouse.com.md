@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thisoldhouse.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214063335id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/thisoldhouse%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisoldhouse.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617013508id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/thisoldhouse%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # This Old House Privacy Policy
 
-  |  |   |    
+  |  |  |   |    
 **PRIVACY NOTICE** |    
   
 **Table of Contents** |    
@@ -14,6 +14,11 @@
 * How You can Access or Correct Information
 * Special Note for Parents
 * How to Contact Us
+| 
+
+[European Union Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_eu.cgi/thisoldhouse?dnp_source=E)   
+[Canada Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/privacy_centralized_caneu.cgi/thisoldhouse?dnp_source=E)
+
 |    
   
 This is the Privacy Policy for the United States of America. 
@@ -27,7 +32,7 @@ Through Time Inc. publications, websites, and other media, you can order product
 
 At some Time Inc. sites and through certain promotions, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. 
 
-For certain promotions, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the promotion.s activities and offerings. 
+For certain promotions, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the promotion's activities and offerings. 
 
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider. 
 
@@ -98,7 +103,7 @@ To protect your privacy and security, we will take reasonable steps to help veri
 **Special Note for Parents**  
 The site you are visiting is one of the Time Inc. general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.  |    
   
-_**Changes to this Notice**_ This Notice may be changed by Time Inc. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.  |    
+**Changes to this Notice** This Notice may be changed by Time Inc. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.  |    
   
 **How to Contact Us**  
 If you have any questions or concerns about the Time Inc. Privacy Notice or its implementation please contact us via email by [clicking here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/load_email.jsp&MSRSMAG=TH) or at the following address:
@@ -111,4 +116,4 @@ Tampa, Florida 33612-6408
 [http://www.thisoldhouse.com](http://www.thisoldhouse.com/)
 
 | back to top  
-|  This Privacy Notice was revised 11/03/2005. 
+|  This Privacy Notice was revised 12/14/2005.
