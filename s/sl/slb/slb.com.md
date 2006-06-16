@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slb.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217170511id_/http%3A//www.slb.com/content/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slb.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616162519id_/http%3A//www.slb.com/content/about/privacy.asp) for the most accurate reproduction.*
 
 # Schlumberger, Schlumberger General Website Privacy Statement
 
@@ -39,7 +39,7 @@ Schlumberger may use "cookies" in connection with operation of its websites. Coo
 The use of cookies is common in the industry, and they are used at most major websites. Cookies will not be used to pass any information from your computer except the specific information placed into the cookie from one participating Schlumberger website when the cookie is retrieved by another participating Schlumberger web site. You may wish to adjust your Web browser to inform you whenever a cookie is to be used, or to reject all cookies automatically. However, if you elect not to accept cookies, some parts of the website may not function properly or permit access. For more information on cookies, see <http://www.cookiecentral.com/faq.htm> and <http://www.privacychoices.com/>. 
 
 Contact Information  
-Customers should direct comments or questions regarding this statement to their Schlumberger representative; employees to their Personnel representative; all other inquiries should be directed [via this form](https://web.archive.org/web/20051217170511id_/http%3A//www.slb.com/content/contact/contact_inquiry.asp?recipientCode=email.contact.website.feedback&context=Privacy+Statement+Comment&referringURL=content/about/privacy.asp&). 
+Customers should direct comments or questions regarding this statement to their Schlumberger representative; employees to their Personnel representative; all other inquiries should be directed [via this form](https://web.archive.org/web/20060616162519id_/http%3A//www.slb.com/content/contact/contact_inquiry.asp?recipientCode=email.contact.website.feedback&context=Privacy+Statement+Comment&referringURL=content/about/privacy.asp&). 
 
 _Last updated: Version 1.4 October 10, 2002_  
 
