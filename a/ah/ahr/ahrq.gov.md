@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222024856id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616090011id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
 
-# AHRQ Privacy Policy Notice
+# Health Care: AHRQ Privacy Policy Notice
 
 **Thank you for visiting the Agency for Healthcare Research and Quality (AHRQ) Web site and for reviewing our Privacy Policy.**
 
