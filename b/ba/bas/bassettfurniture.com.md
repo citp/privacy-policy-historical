@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bassettfurniture.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219222149id_/http%3A//www.bassettfurniture.com/PrivacyStatement/tabid/76/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bassettfurniture.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616211453id_/http%3A//www.bassettfurniture.com/PrivacyStatement/tabid/76/Default.aspx) for the most accurate reproduction.*
 
 # Bassett Furniture > Privacy Statement
 
