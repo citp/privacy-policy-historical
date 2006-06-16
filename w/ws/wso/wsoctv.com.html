@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wsoctv.com privacy policy that was archived on 2005-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051222235606id_/http%3A//www.wsoctv.com/station/1919490/detail.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wsoctv.com privacy policy that was archived on 2006-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060617013415id_/http%3A//www.wsoctv.com/station/1919490/detail.html) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>WSOCTV.com - WSOC-TV - Privacy Policy</title>
@@ -14,6 +14,8 @@
 <meta name="WT.cg_s" content="WSOC-TV">
 <meta name="WT.ti" content="Privacy Policy">
 <meta name="DCSext.mtype" content="detail">
+<meta name="DCSext.ib_coid" content="1919490">
+<meta name="DCSext.ib_pool" content="">
 <link rel="stylesheet" type="text/css" href="/stylesheet/style.css">
 <script type="text/javascript" src="/javascript/script.js"></script>
 <!-- begin Rev Sci code -->
@@ -30,11 +32,17 @@ if (typeof rsinetsegs != "undefined") {
 }
 </script>
 <!-- end Rev Sci code -->
-<script type="text/javascript">
+
+			<!-- set ad zone  -->
+			<script type="text/javascript" src="http://www.wsoctv.com/js/6807715/script.js"></script>
+		<script type="text/javascript">
 			var rnd = new Date();
 			rnd = rnd.getTime();
 		</script><script type="text/javascript">
-		var pageProps={coid:1919490,envhost:"www.wsoctv.com"};
+		var pageProps= {
+			time: {hr:"9",hr_p:"09",hr24:"21",hr24_p:"21",min:"34",sec:"14",mer:"pm",tz:"EDT",mon:"6",mon_p:"06",date:"16",date_p:"16",yr:"2006",day:"6"},coid:1919490,
+			envhost:"www.wsoctv.com",sectionname:"WSOC-TV",sectiontag:"station",sectionpath:"/station/"
+		};
 	</script>
 </head>
 <!--stopindex--><body>
@@ -46,74 +54,44 @@ if (typeof rsinetsegs != "undefined") {
   
   
 <script language="javascript">
-
 		var IBS_action = "http://search.wsoctv.com/query.html";
-
 		
-
 		var YP_action = "http://ad.doubleclick.net/clk;7347509;8704162;o%3Fhttp://www.wsoctv.com/yellowpages/";
-
 		
-
 		  var OV_action = "/osearch/detail.html?on=5&fn=10&Partner=ibs_kwsearch&type=char&Keywords=";
-
 		
-
-
 
       /**
-
         * Changes form action attribute value based on which searches
-
         * are present for the current site.
-
         */
-
 		function doSubmit(form, action) {
-
 			form.action = action;
-
 			if (!form) {}
-
 		
-
 			/* monkey with the query values if YP search */
-
 			else if (action == YP_action) {
-
-				if (YP_action.substr(YP_action.length-1) == "=") /* append query terms if YP_action is setup for it */
-
+				if (YP_action.substr(YP_action.length-1) == "=") { /* append query terms if YP_action is setup for it */
 					YP_action += escape(form.elements.qt.value);
-
-				document.location.href = YP_action;
-
+				}
+				
+						document.location.href = YP_action;
+					
 			}
-
 		
-
 			 /* Create URL for the Overture Search */
-
 			else if (action == OV_action) {
-
 				document.location.href = OV_action + escape(form.elements.qt.value);
-
 			}
-
 		
-
 			 else {
-
 				form.submit();
-
 			}
-
 		}
-
 	</script><div class="ibssearchform"><table cellpadding="0" cellspacing="0" border="0" width="100%"><form name="IBSSearchForm" class="formInline" action="http://search.wsoctv.com/query.html"></form><input type="hidden" name="la" value="en"><input type="hidden" name="mkt" value=""><input type="hidden" name="heading" value=""><tbody><tr><td align="right" width="15"><div class="searchtext"><span class="medium">Search&nbsp;</span></div></td><td width="15"><div class="searchinput"><input type="text" name="qt" value="" size="13" class="xsmall" style="width: 154px; height: 20px; font: 10px verdana; background: url(&quot;http://images.ibsys.com/sh/images/sponsors/yahoo/toolbar_pwrlogo_faded.gif&quot;) no-repeat rgb(255, 255, 255);"></div></td><td valign="bottom" nowrap="nowrap" align="left"><a href="#" onclick="doSubmit(document.forms.IBSSearchForm, IBS_action); return false;"><img src="http://images.ibsys.com/char-structure/images/structures/buttons/button_keyword.gif" alt="Search IBS" border="0" align="top"></a>
-
 											&nbsp;<a href="#" onclick="doSubmit(document.forms.IBSSearchForm, OV_action); return false;"><img src="http://images.ibsys.com/char-structure/images/structures/buttons/button_web.gif" alt="Search the Web" border="0" align="top"></a>
-
-											&nbsp;<a href="#" onclick="doSubmit(document.forms.IBSSearchForm, YP_action); return false;"><img src="http://images.ibsys.com/char-structure/images/structures/buttons/button_yellowpages.gif" alt="Yellow Pages" border="0" align="top"></a></td></tr></tbody></table></div>
+											&nbsp;<a href="#" onclick="doSubmit(document.forms.IBSSearchForm, YP_action); return false;"><img src="http://images.ibsys.com/char-structure/images/structures/buttons/button_yellowpages.gif" alt="Yellow Pages" border="0" align="top"></a>
+											&nbsp;<a href="#" onclick="document.location.href='http://www.wsoctv.com/events/form.html?col=cox&amp;qt='+document.IBSSearchForm.qt.value+'||mediatype:cimevent||sitekey:char&amp;charset=iso-8859-1&amp;name=cimrestaurant&amp;fields=name:url2,category,start_date,end_date,location,venue';"><img src="http://images.ibsys.com/char-structure/images/structures/buttons/button_events.gif" border="0" align="top"></a></td></tr></tbody></table></div>
   
   
 
@@ -149,7 +127,7 @@ function switchSearchBrandStyles() {
 <div class="medium"><a href="/emailnewsletters/">Sign up for E-News</a></div>
 </div></div></td></tr></tbody></table></div></div></div>
   
-</div></td></tr></tbody></table></div><div class="commerceNav"><table cellpadding="0" cellspacing="0" border="0" width="100%" class="top"><tbody><tr><td valign="top"><div class="navbutton"><a href="/houseandhome/">Home&nbsp;&amp;&nbsp;Garden</a></div></td><td valign="top"><div class="navbutton"><a href="/automotive/">Auto</a></div></td><td valign="top"><div class="navbutton"><a href="/24hours/" style="color:#FFFFFF;background-color:#000;">24 hours for Children</a></div></td><td valign="top"><div class="navbutton"><a href="/holidays/" style="color:#FFFFFF;background-color:#FF0000;">Holidays</a></div></td><td valign="top"><div class="navbutton"><a href="/money/">Money</a></div></td><td valign="top"><div class="navbutton"><a href="/shopping/">Shopping</a></div></td><td valign="top"><div class="navbutton"><a href="/technology/">Tech</a></div></td><td valign="top"><div class="navbutton"><a href="/employment/">Jobs</a></div></td><td valign="top"><div class="navbutton"><a href="/dating/">Dating</a></div></td><td valign="top"><div class="navbutton"><a href="http://www.localsolutionsnetwork.com/expert/expert.cfm?cfapp=8">WSOC-TV&nbsp;Experts</a></div></td></tr></tbody></table></div><div class="marketplaceNav"><table cellpadding="0" cellspacing="0" border="0" width="100%" class="top"><tbody><tr><td valign="top"><div class="navbutton"><a href="/gocarolinas/">GoCarolinas</a></div></td><td valign="top"><div class="navbutton"><a href="/family/">9 Family Focus</a></div></td><td valign="top"><div class="navbutton"><a href="/events/">Events</a></div></td><td valign="top"><div class="navbutton"><a href="/atthemovies/">Movies</a></div></td><td valign="top"><div class="navbutton"><a href="/entertainment/">Entertainment</a></div></td><td valign="top"><div class="navbutton"><a href="/restaurants/">Restaurants</a></div></td><td valign="top"><div class="navbutton"><a href="/food/">Food</a></div></td><td valign="top"><div class="navbutton"><a href="/travelgetaways/">Travel</a></div></td><td valign="top"><div class="navbutton"><a href="/education/">Education</a></div></td><td valign="top"><div class="navbutton"><a href="/community/">Community</a></div></td></tr></tbody></table></div><div class="MainNav"><table cellpadding="0" cellspacing="0" border="0" width="100%" class="top"><tbody><tr><td valign="top"><div class="navbutton"><a href="/">Home</a></div></td><td valign="top"><div class="navbutton"><a href="/news/">News</a></div></td><td valign="top"><div class="navbutton"><a href="/weather/">Weather</a></div></td><td valign="top"><div class="navbutton"><a href="/traffic/">Traffic</a></div></td><td valign="top"><div class="navbutton"><a href="/sports/">Sports</a></div></td><td valign="top"><div class="navbutton"><a href="/action9/">Action 9</a></div></td><td valign="top"><div class="navbutton"><a href="/health/">Health &amp; Wellness</a></div></td><td valign="top"><div class="navbutton"><a href="/specialreports/">Special&nbsp;Reports</a></div></td><td valign="top"><div class="navbutton"><a href="/tvlistings/">Programming</a></div></td><td valign="top" class="on"><div class="navbutton"><a href="/station/">About WSOC-TV</a></div></td><td valign="top"><div class="navbutton"><a href="/action64/">Action 64</a></div></td></tr></tbody></table></div><!-- end header --><table cellpadding="0" cellspacing="10" border="0" width="100%" id="tmp10"><tbody><tr><td valign="top" id="tmp10td1" colspan="2"><table cellpadding="0" cellspacing="0" border="0" width="100%" id="tmp10table"><tbody><tr><td valign="top"><div id="theta" class="pageContainer">
+</div></td></tr></tbody></table></div><div class="commerceNav"><table cellpadding="0" cellspacing="0" border="0" width="100%" class="top"><tbody><tr><td valign="top"><div class="navbutton"><a href="/wirelessnews/">wsoctv mobile</a></div></td><td valign="top"><div class="navbutton"><a href="/houseandhome/">Home&nbsp;&amp;&nbsp;Garden</a></div></td><td valign="top"><div class="navbutton"><a href="/nascar/">NASCAR</a></div></td><td valign="top"><div class="navbutton"><a href="/automotive/" style="color:#FFFFFF;background-color:#61B74C;">Autobuynet</a></div></td><td valign="top"><div class="navbutton"><a href="/gimmethemike/" style="color:#fff;background-color:#D79305;">Gimme The Mike!</a></div></td><td valign="top"><div class="navbutton"><a href="/money/">Money</a></div></td><td valign="top"><div class="navbutton"><a href="/localexperts/">WSOC-TV&nbsp;Experts</a></div></td></tr></tbody></table></div><div class="marketplaceNav"><table cellpadding="0" cellspacing="0" border="0" width="100%" class="top"><tbody><tr><td valign="top"><div class="navbutton"><a href="/gocarolinas/">GoCarolinas</a></div></td><td valign="top"><div class="navbutton"><a href="/family/">9 Family Focus</a></div></td><td valign="top"><div class="navbutton"><a href="/events/">Events</a></div></td><td valign="top"><div class="navbutton"><a href="/atthemovies/">Movies</a></div></td><td valign="top"><div class="navbutton"><a href="/entertainment/">Entertainment</a></div></td><td valign="top"><div class="petchannel"><a href="/pets/"><img src="http://images.ibsys.com/char-structure/images/sponsors/petchannel/paw3.gif" width="76" height="18" border="0" alt=""></a></div></td><td valign="top"><div class="navbutton"><a href="/restaurants/">Restaurants</a></div></td><td valign="top"><div class="navbutton"><a href="/food/">Food</a></div></td><td valign="top"><div class="navbutton"><a href="/travelgetaways/">Travel</a></div></td><td valign="top"><div class="navbutton"><a href="/education/">Education</a></div></td><td valign="top"><div class="navbutton"><a href="/community/">Community</a></div></td></tr></tbody></table></div><div class="MainNav"><table cellpadding="0" cellspacing="0" border="0" width="100%" class="top"><tbody><tr><td valign="top"><div class="navbutton"><a href="/">Home</a></div></td><td valign="top"><div class="navbutton"><a href="/news/">News</a></div></td><td valign="top"><div class="navbutton"><a href="/weather/">Weather</a></div></td><td valign="top"><div class="navbutton"><a href="/traffic/">Traffic</a></div></td><td valign="top"><div class="navbutton"><a href="/sports/">Sports</a></div></td><td valign="top"><div class="navbutton"><a href="/action9/">Action 9</a></div></td><td valign="top"><div class="navbutton"><a href="/health/">Health &amp; Wellness</a></div></td><td valign="top"><div class="navbutton"><a href="/specialreports/">Special&nbsp;Reports</a></div></td><td valign="top"><div class="navbutton"><a href="/politics/">Vote 2006</a></div></td><td valign="top"><div class="navbutton"><a href="/tvlistings/">Programming</a></div></td><td valign="top" class="on"><div class="navbutton"><a href="/station/">About WSOC-TV</a></div></td><td valign="top"><div class="navbutton"><a href="/action64/">Action 64</a></div></td></tr></tbody></table></div><!-- end header --><table cellpadding="0" cellspacing="10" border="0" width="100%" id="tmp10"><tbody><tr><td valign="top" id="tmp10td1" colspan="2"><table cellpadding="0" cellspacing="0" border="0" width="100%" id="tmp10table"><tbody><tr><td valign="top"><div id="theta" class="pageContainer">
   
     
       
@@ -161,13 +139,13 @@ function switchSearchBrandStyles() {
 		if (typeof segQS == 'undefined')segQS='';
 		if (typeof adid == 'undefined')adid='false';
 		
-		document.write("<scr" + "ipt language='javascript1.1' type='text/javascript' src='http://ad.doubleclick.net/adj/ibs.char.station/;kw=station+banner1"+segQS+";comp="+adid+";ad=true;dcopt=ist;tile="+dcadposition+";pgtype=detail;sz=728x90;ord="+rnd+"?'></scr"+"ipt>");
-		</script><script language="javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/ibs.char.station/;kw=station+banner1;comp=false;ad=true;dcopt=ist;tile=1;pgtype=detail;sz=728x90;ord=1580472029229?"></script><script type="text/javascript">
+		document.write("<scr" + "ipt language='javascript1.1' type='text/javascript' src='http://ad.doubleclick.net/adj/ibs.char.station/"+adZone+";kw=station+banner1"+segQS+";comp="+adid+";ad=true;dcopt=ist;tile="+dcadposition+";pgtype=detail;sz=728x90;ord="+rnd+"?'></scr"+"ipt>");
+		</script><script type="text/javascript">
 			if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
-			  document.write("<a href='http://ad.doubleclick.net/jump/ibs.char.station/;kw=station+banner1"+segQS+";comp="+adid+";ad=true;dcopt=ist;tile="+dcadposition+";pgtype=detail;sz=728x90;ord="+rnd+"?' target='_top'>");
-			  document.write("<img src='http://ad.doubleclick.net/ad/ibs.char.station/;kw=station+banner1"+segQS+";comp="+adid+";ad=true;dcopt=ist;tile="+dcadposition+";pgtype=detail;sz=728x90;ord="+rnd+"?' width='728' height='90' border='0' alt='' /></a>");
+			  document.write("<a href='http://ad.doubleclick.net/jump/ibs.char.station/"+adZone+";kw=station+banner1"+segQS+";comp="+adid+";ad=true;dcopt=ist;tile="+dcadposition+";pgtype=detail;sz=728x90;ord="+rnd+"?' target='_top'>");
+			  document.write("<img src='http://ad.doubleclick.net/ad/ibs.char.station/"+adZone+";kw=station+banner1"+segQS+";comp="+adid+";ad=true;dcopt=ist;tile="+dcadposition+";pgtype=detail;sz=728x90;ord="+rnd+"?' width='728' height='90' border='0' alt='' /></a>");
 			}
-		</script><noscript><a href="http://ad.doubleclick.net/jump/ibs.char.station/;kw=station+banner1;ad=true;dcopt=ist;tile=1;pgtype=detail;sz=728x90;ord=123456789?"><img src="http://ad.doubleclick.net/ad/ibs.char.station/;kw=station+banner1;ad=true;dcopt=ist;tile=1;pgtype=detail;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript><!-- End Ad tag: banner1--></td></tr></tbody></table></div>
+		</script><noscript><a href="http://ad.doubleclick.net/jump/ibs.char.station/national;kw=station+banner1;ad=true;dcopt=ist;tile=1;pgtype=detail;sz=728x90;ord=123456789?"><img src="http://ad.doubleclick.net/ad/ibs.char.station/national;kw=station+banner1;ad=true;dcopt=ist;tile=1;pgtype=detail;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript><!-- End Ad tag: banner1--></td></tr></tbody></table></div>
   
 </div></td></tr></tbody></table></td></tr><tr><td valign="top" class="container1"><div class="spanningcolumncap"><span class="breadcrumbs"><span class="brdcrmbhome"><a href="/" class="spancolcaphome">HOME</a>&nbsp;|&nbsp;</span><span class="brdcrmbsect"><a class="spancolcapsection" href="/station/">WSOC-TV</a></span></span></div><div class="storytools"><span class="email"><a href="javascript:popUp('http://cf.wsoctv.com/char/sh/toafriend/index.cfm?page=http://www.wsoctv.com/station/1919490/detail.html','width=450,height=225');"><img src="http://images.ibsys.com/2001/0126/435593.gif" width="22" height="12" border="" alt="">Email This Story</a></span><span class="divider">&nbsp;&nbsp;</span><span class="print"><a href="#" onclick="javascript:popUp('/print/1919490/detail.html', 'width=460,height=400,scrollbars'); return false;" target="_new"><img src="http://images.ibsys.com/2001/0126/435601.gif" width="22" height="12" border="" alt=""> Print This Story</a></span></div><div id="story" class="pageContainer">
 
@@ -184,13 +162,13 @@ function switchSearchBrandStyles() {
 		if (typeof segQS == 'undefined')segQS='';
 		if (typeof adid == 'undefined')adid='false';
 		
-		document.write("<scr" + "ipt language='javascript1.1' type='text/javascript' src='http://ad.doubleclick.net/adj/ibs.char.station/;kw=station+square"+segQS+";comp="+adid+";ad=true;tile="+dcadposition+";pgtype=detail;sz=300x250;ord="+rnd+"?'></scr"+"ipt>");
-		</script><script language="javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/ibs.char.station/;kw=station+square;comp=false;ad=true;tile=2;pgtype=detail;sz=300x250;ord=1580472029229?"></script><script type="text/javascript">
+		document.write("<scr" + "ipt language='javascript1.1' type='text/javascript' src='http://ad.doubleclick.net/adj/ibs.char.station/"+adZone+";kw=station+square"+segQS+";comp="+adid+";ad=true;tile="+dcadposition+";pgtype=detail;sz=300x250;ord="+rnd+"?'></scr"+"ipt>");
+		</script><script type="text/javascript">
 			if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
-			  document.write("<a href='http://ad.doubleclick.net/jump/ibs.char.station/;kw=station+square"+segQS+";comp="+adid+";ad=true;tile="+dcadposition+";pgtype=detail;sz=300x250;ord="+rnd+"?' target='_top'>");
-			  document.write("<img src='http://ad.doubleclick.net/ad/ibs.char.station/;kw=station+square"+segQS+";comp="+adid+";ad=true;tile="+dcadposition+";pgtype=detail;sz=300x250;ord="+rnd+"?' width='300' height='250' border='0' alt='' /></a>");
+			  document.write("<a href='http://ad.doubleclick.net/jump/ibs.char.station/"+adZone+";kw=station+square"+segQS+";comp="+adid+";ad=true;tile="+dcadposition+";pgtype=detail;sz=300x250;ord="+rnd+"?' target='_top'>");
+			  document.write("<img src='http://ad.doubleclick.net/ad/ibs.char.station/"+adZone+";kw=station+square"+segQS+";comp="+adid+";ad=true;tile="+dcadposition+";pgtype=detail;sz=300x250;ord="+rnd+"?' width='300' height='250' border='0' alt='' /></a>");
 			}
-		</script><noscript><a href="http://ad.doubleclick.net/jump/ibs.char.station/;kw=station+square;ad=true;tile=1;pgtype=detail;sz=300x250;ord=123456789?"><img src="http://ad.doubleclick.net/ad/ibs.char.station/;kw=station+square;ad=true;tile=1;pgtype=detail;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript><!-- End Ad tag: square--></td></tr></tbody></table></div>
+		</script><noscript><a href="http://ad.doubleclick.net/jump/ibs.char.station/national;kw=station+square;ad=true;tile=1;pgtype=detail;sz=300x250;ord=123456789?"><img src="http://ad.doubleclick.net/ad/ibs.char.station/national;kw=station+square;ad=true;tile=1;pgtype=detail;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a></noscript><!-- End Ad tag: square--></td></tr></tbody></table></div>
   
   
     
@@ -200,65 +178,28 @@ function switchSearchBrandStyles() {
     
       
   
-<span id="index3448064"><div class="articlelink"><a href="http://ad.doubleclick.net/clk;14134734;8704162;c?http://www.realtor.com/FindNeig/default.asp?gate=ibs_char&amp;source=a10088?gate=ibs_char&amp;source=a10088" target="_blank" class="iconed">Research Any U.S. Neighborhood</a></div><div class="articlelink"><a href="http://ad.doubleclick.net/clk;22179454;8704162;j?http://www.classesusa.com/clickcount.cfm?nsid=80&amp;gid=ibsys&amp;cid=char" target="_blank" class="iconed">Get-Ahead Strategies You Don't Know</a></div></span>
+<span id="index3448064"><div class="articlelink item"><a href="http://ad.doubleclick.net/clk;22179454;8704162;j?http://www.wsoctv.com/classesusa/8826131/detail.html" target="_blank" class="iconed">6 Sizzling Jobs To Check Out</a></div><div class="articlelink item"><a href="http://ad.doubleclick.net/clk;30034238;8704162;y?http://ibs.smartmoney.com/dealoftheday/index.cfm?story=20060612&amp;nav=ibs&amp;ibshatkey=char" target="_blank" class="iconed">Great Last-Minute Dad's Day Gifts</a></div></span>
   
   
   
-<span id="index3448290"><div class="Story"><h1 class="Headline">
-
-</h1><div class="StoryBody"><!--startindex-->
-<table border="0" cellpadding="1" cellspacing="0" hspace="0" vspace="0" width="110">
- 
-<tbody><tr>
- 
-<td bgcolor="#000066">
- 
-<table border="0" cellpadding="6" cellspacing="0" hspace="0" vspace="0" width="100%">
- 
-<tbody><tr>
- 
-<td bgcolor="#dcdcdc">
-  
-<a target="_blank" href="http://ad.doubleclick.net/clk;21564207;8704162;c?http://www.wsoctv.com/saralee/4880786/detail.html">
-  
-<img alt="Sara Lee 9" border="0" height="310" hspace="5" id="5224498" src="http://images.ibsys.com/2005/1101/5224498.jpg" vspace="5" width="110">
-</a>
- 
-<div align="right" class="xsmall" style="padding-right:5px;">
-AP Image
-</div>
- 
-<div class="small">
- 
-<b>
-<a target="_blank" href="http://ad.doubleclick.net/clk;21564207;8704162;c?http://www.wsoctv.com/saralee/4880786/detail.html">
-Recipes you can cook with your kids.
-</a>
-</b>
- 
-</div>
- 
-</td>
- 
+<span id="index3448290"><span class="teaser"><table cellpadding="1" cellspacing="0" border="0" width="110" hspace="0" vspace="0">
+	<tbody><tr>
+	<td>
+<table cellpadding="2" cellspacing="0" border="0" width="100%" hspace="0" vspace="0">
+			<tbody><tr>
+				<td bgcolor="#000000"> 
+					<a target="_blank" href="http://ad.doubleclick.net/clk;30628728;8704162;l?http://www.wsoctv.com/automotive"><img src="http://images.ibsys.com/2006/0615/9377215.jpg" width="115" height="375" alt="Auto" id="9377215" border="0" hspace="0" vspace="0"></a></td>
+			</tr>
+		</tbody></table></td>
 </tr>
- 
-</tbody></table>
- 
-</td>
- 
-</tr>
- 
-</tbody></table>
- 
-<!--stopindex--><div class="Copyright"></div></div><br clear="all" class="StoryBR" id="StoryBR3537433"></div>
-</span>
+</tbody></table> <br clear="all"></span><br></span>
   
   <div id="sw3448057"><div class="titlebar0"><span>... At The Bottom</span></div><div class="sectionwidget0">
   
     
       
   
-<span id="index3537925"><div class="articlelink"><a href="http://ad.doubleclick.net/clk;14135303;8704162;v?http://wsoc-tvhealth.ip2m.com/index.cfm?pt=itemDetail&amp;Item_ID=120587&amp;site_cat_id=87" target="_blank" class="iconed">Creative Spark Fuels Active Sex Life</a></div><div class="articlelink"><a href="http://ad.doubleclick.net/clk;16354301;8704162;y?http://clk.atdmt.com/LPG/go/ntrgimed0020000034lpg/direct/01/?http://ibs.theloanpage.com/tools/home-value.aspx?siteid=ibs-char" target="_blank" class="iconed">Get Prices Of Local Home Sales</a></div></span>
+<span id="index3537925"><div class="articlelink item"><a href="http://ad.doubleclick.net/clk;14134734;8704162;c?http://finance.move.com/homefinance/realestatenews/newhomebuyers/REJO_BuilderShow.asp?gate=ibs_char&amp;source=a12518" target="_blank" class="iconed">Simple Home Design Trends</a></div><div class="articlelink item"><a href="http://ad.doubleclick.net/clk;30034238;8704162;y?http://ibs.smartmoney.com/dealoftheday/index.cfm?story=20060614&amp;nav=ibs&amp;ibshatkey=char" target="_blank" class="iconed">Complaining Saves You Money</a></div></span>
   
 </div></div>
 </div></div></td><td valign="top" class="sw3447953" width="50%"><div id="sw3447953"><div class="titlebar0"><span>Sponsor</span></div><div class="sectionwidget0">
@@ -273,25 +214,20 @@ Recipes you can cook with your kids.
 		if (typeof segQS == 'undefined')segQS='';
 		if (typeof adid == 'undefined')adid='false';
 		
-		document.write("<scr" + "ipt language='javascript1.1' type='text/javascript' src='http://ad.doubleclick.net/adj/ibs.char.station/;kw=station+sky1+1919490"+segQS+";comp="+adid+";ad=true;tile="+dcadposition+";pgtype=detail;sz=120x300;ord="+rnd+"?'></scr"+"ipt>");
-		</script><script language="javascript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/ibs.char.station/;kw=station+sky1+1919490;comp=false;ad=true;tile=3;pgtype=detail;sz=120x300;ord=1580472029229?"></script><script type="text/javascript">
+		document.write("<scr" + "ipt language='javascript1.1' type='text/javascript' src='http://ad.doubleclick.net/adj/ibs.char.station/"+adZone+";kw=station+sky1+1919490"+segQS+";comp="+adid+";ad=true;tile="+dcadposition+";pgtype=detail;sz=120x300;ord="+rnd+"?'></scr"+"ipt>");
+		</script><script type="text/javascript">
 			if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
-			  document.write("<a href='http://ad.doubleclick.net/jump/ibs.char.station/;kw=station+sky1+1919490"+segQS+";comp="+adid+";ad=true;tile="+dcadposition+";pgtype=detail;sz=120x300;ord="+rnd+"?' target='_top'>");
-			  document.write("<img src='http://ad.doubleclick.net/ad/ibs.char.station/;kw=station+sky1+1919490"+segQS+";comp="+adid+";ad=true;tile="+dcadposition+";pgtype=detail;sz=120x300;ord="+rnd+"?' width='120' height='300' border='0' alt='' /></a>");
+			  document.write("<a href='http://ad.doubleclick.net/jump/ibs.char.station/"+adZone+";kw=station+sky1+1919490"+segQS+";comp="+adid+";ad=true;tile="+dcadposition+";pgtype=detail;sz=120x300;ord="+rnd+"?' target='_top'>");
+			  document.write("<img src='http://ad.doubleclick.net/ad/ibs.char.station/"+adZone+";kw=station+sky1+1919490"+segQS+";comp="+adid+";ad=true;tile="+dcadposition+";pgtype=detail;sz=120x300;ord="+rnd+"?' width='120' height='300' border='0' alt='' /></a>");
 			}
-		</script><noscript><a href="http://ad.doubleclick.net/jump/ibs.char.station/;kw=station+sky1+1919490;ad=true;tile=1;pgtype=detail;sz=120x300;ord=123456789?"><img src="http://ad.doubleclick.net/ad/ibs.char.station/;kw=station+sky1+1919490;ad=true;tile=1;pgtype=detail;sz=120x300;ord=123456789?" width="120" height="300" border="0" alt=""></a></noscript><!-- End Ad tag: sky1--></td></tr></tbody></table></div>
+		</script><noscript><a href="http://ad.doubleclick.net/jump/ibs.char.station/national;kw=station+sky1+1919490;ad=true;tile=1;pgtype=detail;sz=120x300;ord=123456789?"><img src="http://ad.doubleclick.net/ad/ibs.char.station/national;kw=station+sky1+1919490;ad=true;tile=1;pgtype=detail;sz=120x300;ord=123456789?" width="120" height="300" border="0" alt=""></a></noscript><!-- End Ad tag: sky1--></td></tr></tbody></table></div>
   
 </div></div></td></tr></tbody></table></div></div></div>
   
-</div><img src="http://images.ibsys.com/sh/images/structures/misc/spacer.gif" width="300" height="1" alt="" id="container2spacer"></td></tr></tbody></table><!-- begin footer --><div align="center" class="sectionwidget0"><a href="#top" class="Headline">Back To Top</a></div><div class="small" align="center"><div id="footer" class="pageContainer">
-  
-  
-<div class="ibsbug"><a href="http://www.ibsys.com/"><img src="http://images.ibsys.com/2002/1226/1856694.gif" width="132" height="20" border="" alt="Part Of The IBS Network"></a></div>
-
-</div><br clear="all"><div align="center">
+</div><img src="http://images.ibsys.com/sh/images/structures/misc/spacer.gif" width="300" height="1" alt="" id="container2spacer"></td></tr></tbody></table><!-- begin footer --><div align="center" class="sectionwidget0"><a href="#top" class="Headline">Back To Top</a></div><div class="small" align="center"><br clear="all"><div id="footerImages" align="center"><span id="coxFooterBug"><img onload="fixPngImage(this);" src="http://images.ibsys.com/sh/images/coxlogo/sitelogobug.png" width="70" height="30" border="0" alt="Cox Television"></span><span id="ibsFooterBug"><a href="http://www.ibsys.com"><img onload="fixPngImage(this);" url="http://www.ibsys.com/" src="http://images.ibsys.com/sh/images/ib_footer-logo/ib_footer.png" width="132" height="20" border="0" alt="Part Of The IBS Network"></a></span></div><br clear="all"><div align="center">
 		
-		© 2005,
-		<a href="http://www.wsoctv.com/">WSOC</a>. <br><a href="/station/1919490/detail.html">Click here for the privacy policy</a>, <a href="/station/1919491/detail.html">By using this site, you accept the terms of our Visitor Agreement</a>.<br><a href="http://www.wsoctv.com/station/2065235/detail.html">WSOC/WAXN EEO Information</a>&nbsp;<a href="/advertise/">Click here for advertising information.</a><br></div><br><a class="sitemap" href="/sitemap/">Site Map</a><br><br></div><!-- begin Rev Sci code (dm_client) -->
+		© 2006,
+		<a href="http://www.wsoctv.com/">WSOC</a>. <br><a href="/station/1919490/detail.html">Click here for the privacy policy</a>, <a href="/station/1919491/detail.html">By using this site, you accept the terms of our Visitor Agreement</a>.<br><a href="http://www.wsoctv.com/station/2065235/detail.html">WSOC/WAXN EEO Information</a>&nbsp;<a href="/advertise/">Click here for advertising information.</a><br><a href="/ib/">See All Internet Broadcasting Sites</a><br></div><br><a class="sitemap" href="/sitemap/">Site Map</a><br><br></div><!-- begin Rev Sci code (dm_client) -->
 <script type="text/javascript" src="http://www.wsoctv.com/js/4230798/script.js"></script>
 
 
@@ -376,7 +312,7 @@ else
 //var gDcsId="dcskoovmr01e5h6qlnsvvv4ea_334h"; <----Example
 
 if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
-	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
+	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wti"+"d."+"js"+"'></SCR"+"IPT>");
 }
 //-->
 </script>
@@ -396,8 +332,8 @@ if (typeof dcsTag == "function") dcsTag();
 </noscript>
 
 <!--
-Time: 18:51:53 EST
-Date: 12/22/2005
+Time: 21:34:14 EDT
+Date: 6/16/2006
 XSL File: index.xsl
 Browser Type: 
 Page Type: detail
