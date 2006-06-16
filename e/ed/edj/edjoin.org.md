@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the edjoin.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305220832id_/http%3A//www.edjoin.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edjoin.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616201601id_/http%3A//edjoin.org/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# ED-JOIN Privacy Statement
+
+ ED-JOIN Privacy Statement
 
 **Overview**
 
-ED-JOIN is committed to respecting the privacy of our users. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to all of our Web sites ([www.edjoin.org](http://www.edjoin.org/) and [www.edjoinadmin.org](http://www.edjoinadmin.org/) ). By using the ED-JOIN web site, you consent to the policies and practices described in this Statement.
+ED-JOIN is committed to respecting the privacy of our users. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to all of our Web sites ([www.edjoin.org](http://www.edjoin.org/) and [ edjoinJobs](http://edjoinjobs/) ). By using the ED-JOIN web site, you consent to the policies and practices described in this Statement.
 
 Your data will be stored and processed in the United States. If you access the ED-JOIN web site from outside the United States, your usage of the site constitutes consent to the transfer of your data out of your country and to the United States.
 
@@ -28,7 +30,7 @@ We may use your contact information in order to send you e-mail or other communi
 
 We do not disclose to third parties your personal information, combined personal and demographic information or information about your use of a ED-JOIN Web site (such as the areas you visit or the services you access), except as set forth in the following subparagraphs.
 
-  1. Educational organizations in California to whom you submit your job applications will have access to all of the information provided in your ED-JOIN job application as well as any attachments to your application. You’re age, gender and ethnicity information however is available only in aggregate form and is not viewable in connection to your individual job applications. These organizations may contact you using the contact information you provide on your job application.
+  1. Educational organizations in California to whom you submit your job applications will have access to all of the information provided in your ED-JOIN job application as well as any attachments to your application. You’re age, gender and ethnicity information however is available only in aggregate form and is not viewable in connection to your individual job applications. These organizations may contact you using the contact information you provide on your job application. 
   2. Educational organizations in California who use the ED-JOIN system to post jobs also have the ability to search the job applications in the ED-JOIN system. In addition, the California Teacher Recruitment Centers and the CalTeach organization can search the online applications as well as view aggregate information about the users of the ED-JOIN system. These entities may contact you using any of the contact information provided in your ED-JOIN profile or online application.
 
 
@@ -61,10 +63,10 @@ ED-JOIN is not intended for children under 13 years of age. We do not knowingly 
 
 **Changes to Privacy Statement**
 
-If we decide to change our Privacy Statement for ED-JOIN, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about ED-JOIN's Privacy Statement, please feel free to email us at [edjoin@sccoe.org](mailto:edjoin@sccoe.org) or call us at (888) 456-1468 and speak to one of our representatives.
+If we decide to change our Privacy Statement for ED-JOIN, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. If at any time, you have questions or concerns about ED-JOIN's Privacy Statement, please feel free to email us at [edjoin_helpdesk@sbcss.k12.ca.us](mailto:edjoin_helpdesk@sbcss.k12.ca.us) or call us at 800-398-9580 (from 7:30 a.m. to 4:30 p.m PST, Monday to Friday) and speak to one of our representatives .
 
 **Contact Information**
 
-ED-JOIN is owned by CCSESA (California County Superintendents Educational Services Association). The site is hosted and maintained by Santa Clara County Office of Education. We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [edjoin@sccoe.org](mailto:edjoin@sccoe.org) or call us at (888) 456-1468.
+ED-JOIN is owned by CCSESA (California County Superintendents Educational Services Association). The site is hosted and maintained by San Joaquin County Office of Education. We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [ edjoin_helpdesk@sbcss.k12.ca.us](mailto:edjoin_helpdesk@sbcss.k12.ca.us) or call us at 800-398-9580 (from 7:30 a.m. to 4:30 p.m PST, Monday to Friday).
 
-Thank you for using ED-JOIN.org.
+Thank you for using EDJOIN.
