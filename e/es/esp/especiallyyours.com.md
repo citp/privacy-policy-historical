@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the especiallyyours.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218102723id_/http%3A//www.especiallyyours.com/help_privacy.asp%3Fmscssid%3D%26adsrc%3D%26cid%3D5%26did%3D51) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the especiallyyours.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616030257id_/http%3A//especiallyyours.com/help_privacy.asp%3Fmscssid%3D%26adsrc%3D%26cid%3D5%26did%3D51) for the most accurate reproduction.*
 
 # Especially Yours: Privacy & Security
 
@@ -13,9 +13,9 @@ Customers who request printed catalogs or place orders through our web site shou
 **Catalog Mailing List**  
 You may request a copy of our catalog through our Internet site by providing the information required on the catalog request form. We will then send you a copy of our current catalog and add you to our catalog mailing list.
 
-Periodically, we may make our catalog mailing list available to carefully screened companies we believe offer products or services which may be of interest to our customers. If you would prefer not to have your name shared with such companies, you may instruct us not to make it available by contacting our Customer Service department at 800-748-6910. If you tell us to do this, we will flag your customer record with a code indicating you do not wish to have your name provided to other companies and we will honor this request without hesitation. However, please note that it may take a number of weeks before any mailings initiated prior to your request are processed and delivered. As a matter of policy, we do not disclose the names of companies to which we have provided names. Nor do we disclose the names of organizations from whom we may have acquired names for our own marketing purposes.
+Periodically, we may make our catalog mailing list available to carefully screened companies we believe offer products or services which may be of interest to our customers. If you would prefer not to have your name shared with such companies, you may instruct us not to make it available by contacting our Customer Service department at 1-800-748-6910. If you tell us to do this, we will flag your customer record with a code indicating you do not wish to have your name provided to other companies and we will honor this request without hesitation. However, please note that it may take a number of weeks before any mailings initiated prior to your request are processed and delivered. As a matter of policy, we do not disclose the names of companies to which we have provided names. Nor do we disclose the names of organizations from whom we may have acquired names for our own marketing purposes.
 
-If you do not wish to receive ANY catalogs from Especially Yours, you may also instruct us to remove your name from our catalog mailing list by contacting our Customer Service department at 800-748-6910.
+If you do not wish to receive ANY catalogs from Especially Yours, you may also instruct us to remove your name from our catalog mailing list by contacting our Customer Service department at 1-800-748-6910.
 
 **Mail Preference Service**  
 For your information, the Direct Marketing Association has established a Mail Preference Service for consumers who do not wish to receive unsolicited mailings from companies and organizations with whom they do not have a relationship. By adding your name to this list, companies that subscribe to this service will know not to send unsolicited advertising material to you. Most reputable catalog and direct mail companies use this service in order to avoid spending money for advertising which will not be appreciated.
@@ -42,7 +42,7 @@ We would be pleased to answer any questions you may have. You may contact us in 
 
       E-mail: CustomerService@EspeciallyYours.com
 
-      Phone: 800-748-6910
+      Phone: Order Toll Free 24 hours a day 1-800-748-6910
 
       Mail to:  
             Especially Yours  
