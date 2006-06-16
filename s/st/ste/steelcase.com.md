@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230055001id_/http%3A//steelcase.com/na/cnav.aspx%3Ff%3D10033) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616224513id_/http%3A//www.steelcase.com/na/privacy_policy_cnav.aspx%3Ff%3D10033) for the most accurate reproduction.*
 
 # Steelcase - Privacy Policy - Privacy Policy
 
