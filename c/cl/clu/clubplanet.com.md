@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubplanet.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228122634id_/http%3A//clubplanet.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubplanet.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616200922id_/http%3A//clubplanet.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Clubplanet - club listings, guest lists, nightlife, new years, new years eve, clubbing, nightclubs | nightlife, nightlife style, night club, new years, new years eve, nite club, nightclub, nightclubs, clubbing, night club promotions, club dance, club search, dance clubs, bar, party, techno, rave, free games, special event, tickets
 
