@@ -1,26 +1,60 @@
-> *The following text is extracted and transformed from the installshield.com privacy policy that was archived on 2005-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051003230526id_/http%3A//www.installshield.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the installshield.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616191914id_/http%3A//www.macrovision.com/company/about/legal/legal_and_privacy.shtml) for the most accurate reproduction.*
 
-# InstallShield - Privacy Policy
+# Legal | Legal and Privacy Notices
 
-[](https://web.archive.org/company/default.asp)
+### Information Collection
 
-| 
+Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, a company or home, postal or other physical address, other contact information, title, birth date, gender, occupation, industry, personal or product interests, other information when needed to provide a service you requested.
 
-Dear Web Site Visitor,
+When you browse our website, you do so anonymously, unless you have previously indicated that you wish Macrovision to remember your login and password. We don't collect personal information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there. But we do not link your IP address to any personal information unless you have logged in to our website. Like many other commercial websites, the Macrovision website may use a standard technology called a "cookie" to collect information about how you use the site. Please go to "Cookies and Tracking Information" below for more information.
 
-Welcome to our Web site. Our privacy policy is outlined in a few simple words below, words that don't require you to have a law degree.
+Macrovision collects personal information when you register with Macrovision for a Macrovision account, when you use certain Macrovision products or services, when you register to attend a seminar or participate in an online survey, when you ask to be included in an email or other mailing list, other product promotions, or when you submit your information to Macrovision for any other reason. From time to time, Macrovision receives personal information from business partners and vendors. Macrovision only uses such information if it has been collected in accordance with acceptable privacy practices consistent with this Policy and applicable laws.
 
-Simply put, your privacy is our policy. And we will do everything we can to protect your trust.
+Access to certain Macrovision web pages requires a login and a password. The use of those web pages, and the information or programs downloadable from those sites, may be governed by a written agreement between your employer and Macrovision. Your personal information may be retained by Macrovision to verify compliance with the agreement, log software licenses granted, to track software downloaded from those pages, or track usage of other applications available on those pages.
 
-We are a fifteen-year-old global software development tools company. We request your contact and profile information to market, support, update, and communicate with you about our products and services - in the most efficient manner possible.
+### Notice
 
-We do not sell, rent, or give your information to any 3rd party. And we do not use your information for any purpose outside the scope of communicating with you in the most efficient manner. 
+When personal information is collected, we will inform you at the point of collection the purpose for the collection. Macrovision does not intend to transfer your personal information to third parties without your consent, except under the limited conditions described under the discussion entitled "Information Sharing and Disclosure" below.
 
-We request your contact, profile, and system information so that we can route your request to the appropriate team more efficiently. We track service and support communications so that we can provide you with the highest levels of service. We will protect and manage your information the same way we protect and manage our own company's property and information.
+If you choose to provide us with your personal information, we may transfer that information, within Macrovision or to Macrovision's third party service providers, including across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
 
-We also email new product information, tips and tricks, training class schedules, a monthly newsletter, and other related information to our current and future customers. Not all of the information we send to you may be relevant to you at a given moment. However, we go to great lengths to make sure that when we send information, it is appropriate for the vast majority of you, our customers. At any time, you may request removal of your email address and any other information from our database - we honor every request and update our database weekly.
+We will always give you the opportunity to "opt out" of receiving direct marketing or market research information. This means we assume you have given us your consent to collect and use your information in accordance with this Policy unless you take affirmative action to indicate that you do not consent, for instance by clicking or checking the appropriate option or box at the point of collection. In some cases, when applicable, we will provide you with the opportunity to "opt in." This means we will require your affirmative action to indicate your consent before we use your information for purposes other than the purpose for which it was submitted.
 
-Please continue to contact us with your comments, concerns, and ideas.
+### Cookies and Tracking Technology
 
-|   |   
----|---|---|---
+A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Some parts of Macrovision's website may use cookies to track user traffic patterns. We do this in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information.
+
+If you prefer not to receive cookies while browsing our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of Macrovision's website if you do so. You do not need to have cookies turned on to use/navigate through many parts of our website, except access to certain of Macrovision's web pages require a login and password.
+
+### How We Use Information Collected
+
+Macrovision uses information for several general purposes: to fulfill your requests for certain products and services, to personalize your experience on our website, to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners, and to better understand your needs and provide you with better services. We may also use your information to send you, or to have our business partners send you, direct marketing information or contact you for market research.
+
+### Information Sharing and Disclosure
+
+Because Macrovision is a global company, your personal information may be shared with other Macrovision offices or subsidiaries around the world. All such entities are governed by this Privacy Policy and/or are bound by the appropriate confidentiality and data transfer agreements.
+
+Your personal information is never shared outside Macrovision without your permission, except under conditions explained below. Inside Macrovision, data is stored in controlled servers with limited access. Your information may be stored and processed in the United States or any other country where Macrovision, its subsidiaries, affiliates or agents are located.
+
+Macrovision may send your personal information to other companies or people under any of the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of Macrovision to provide a product or service to you (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or we want to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners. We will also disclose your personal information if required to do so by law, to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our websites.
+
+### Data Security
+
+Your Macrovision account information is password-protected for your privacy and security. Macrovision safeguards the security of the data you send us with physical, electronic, and managerial procedures. In certain areas of our websites, Macrovision uses industry-standard SSL-encryption to enhance the security of data transmissions. While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
+
+### Third Party Websites
+
+Macrovision's website contains links to other sites. Macrovision does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
+
+### Changes to this Privacy Policy
+
+Macrovision will amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make that information available by posting a notice on this site.
+
+### Inquiries or Suggestions
+
+If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at legal@Macrovision.com.
+
+This document was last updated December 19, 2002.
+
+All contents are Copyright © 2002-2003 Macrovision Corporation. All rights reserved.  
+Legal and Privacy Notices.
