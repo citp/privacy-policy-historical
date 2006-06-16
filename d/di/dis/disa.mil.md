@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disa.mil privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220060551id_/http%3A//www.disa.mil/info/secpriv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disa.mil privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617013809id_/http%3A//www.disa.mil/info/secpriv.html) for the most accurate reproduction.*
 
 # DISA Security, Privacy and Accessibility Notice
 
@@ -20,4 +20,4 @@ Security, Privacy and Accessibility Notice
 
 8\. Cookie Disclaimer - DISA does not use persistent cookies (persistent tokens that pass information back and forth from the client machine to the server). DISA may use session cookies (tokens that remain active only until you close your browser) in order to make the site easier to use. The Department of Defense DOES NOT keep a database of information obtained from these cookies. 
 
-**Disclaimer for External Links** _The appearance of hyperlinks on this page does not constitute endorsement (by the Federal Government, Department of Defense, the Defense Information Systems Agency) of linked web sites or the information, products or services contained therein. For other than authorized activities such as military exchanges and Morale, Welfare and Recreation sites, the Defense Information Systems Agency and the National Communications System do not exercise any editorial control over the information you may find at linked locations. External links are provided consistent with the stated purpose of this DoD web site._
+**Disclaimer for External Links** _The appearance of hyperlinks on this page does not constitute endorsement (by the Federal Government, Department of Defense, the Defense Information Systems Agency) of linked web sites or the information, products or services contained therein. For other than authorized activities such as military exchanges and Morale, Welfare and Recreation sites, the Defense Information Systems Agency does not exercise any editorial control over the information you may find at linked locations. External links are provided consistent with the stated purpose of this DoD web site._
