@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc27.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227005845id_/http%3A//www2.abc27.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc27.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616075143id_/http%3A//www2.abc27.com/external.hrb%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # abc27 - Privacy Statement
 
