@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clothingattesco.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222151840id_/http%3A//www.clothingattesco.com/ManagedStorage/Renderers/Core/Clear.aspx%3Fp%3DPrivacy.ascx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothingattesco.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616211149id_/http%3A//www.clothingattesco.com/ManagedStorage/Renderers/Core/Clear.aspx%3Fp%3DPrivacy.ascx) for the most accurate reproduction.*
 
 # Clothing at Tesco
 
@@ -14,17 +14,11 @@ We may collect additional information in connection with your participation in a
 
 **Access to Clubcard information**
 
-We will access the information recorded through the use of your Clubcard (should you provide us with your Clubcard number) to help us improve our service to you and to make our communications more relevant.
+We will access the information recorded through the use of your Clubcard (should you provide us with your Clubcard number) to help us improve our service to you and to make our communications more relevant. 
 
-**Use of your information and your preferences**  
-We will use your information to provide you with clothing news and offers and other related news and offers that may be of interest to you by email and to personalise this email service. We will also use your contact details to communicate with you by email or post. We may use your Clubcard information (should you provide it) to consider your shopping preferences in order to make our communications to you more relevant.  
+**Use of your information and your preferences**
 
-
-We like to hear your views to help us improve our service. From time to time, we may contact you by email or post to ask your opinions.  
-Please note that there may be instances where it is necessary for us to communicate with you, in any event, for administrative or operational reasons relating to our service.
-
-**Disclosures of your information**  
-Your information may be passed to and used by all Tesco group companies (including successors in title to our business) and any suppliers that process data on our behalf both in the UK and abroad. We may also use and disclose your information to approved third party agencies for the specific purposes of running or improving the website and/or email programme in which case the information will be managed only by approved personnel.
+We will use your information to provide you with clothing news and offers and other related news and offers that may be of interest to you by email and to personalise this email service. We will also use your contact details to communicate with you by email or post. We may use your Clubcard information (should you provide it) to consider your shopping preferences in order to make our communications to you more relevant. 
 
   
 **Other web sites**
