@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kutv.com privacy policy that was archived on 2005-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050409172445id_/http%3A//kutv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kutv.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617010525id_/http%3A//kutv.com/privacy) for the most accurate reproduction.*
 
-# KUTV: Privacy
+# kutv.com - Privacy
 
-Privacy Policy **EFFECTIVE DATE** : The most recent version of this Privacy Policy, as revised, is effective as of March 29, 2004.
+**EFFECTIVE DATE** : The most recent version of this Privacy Policy, as revised, is effective as of March 29, 2004.
 
 This Privacy Policy applies to certain web sites which are owned and/or operated by or on behalf of CBS Broadcasting Inc., UPN, VTSG (Viacom Television Stations Group), King World Productions, Inc. and/or other affiliated entities controlled by, or under common control with, such parties (each such web site being individually referred to herein as the “Web Site”). If you have arrived at this Privacy Policy by “clicking” on an authorized link from a Web Site, then this Privacy Policy applies to such Web Site, and the individual entity which owns and/or operates the particular Web Site from which you “clicked” to this Privacy Policy via an authorized link shall be referred to herein as “Sponsor,” "we" or "us." Sponsor respects the privacy of its users, and this Privacy Policy explains what information we collect on our Web Site and how we use such information. Please read this Privacy Policy carefully. In addition, please review the Terms of Use posted at the Web Site, which governs your use of the Web Site. Your use of our Web Site indicates to us that you have read and accepted our privacy practices, as outlined in this Privacy Policy and our Terms of Use. 
 
@@ -22,7 +22,7 @@ In addition, please note that this Privacy Policy does not apply to any informat
 
 **IP Addresses** : An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from our Web Site, our servers log the visitor’s IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, to report aggregate information to our business partners or to audit the number of visits to different pages on our Web Site. Please note that some services within our Web Site, such as certain message boards, may display IP addresses along with the message poster’s name and message.
 
- **Cookies** : Cookies are information files that our Web Site may place on your computer to provide extended functionality and to personalize your experience at our Web Site. We may use cookies for a number of purposes. For example, we may use cookies to track usage patterns on the Web Site and we may use cookies when we conduct polls and sweepstakes to limit multiple responses and registrations. Or, we may use cookies to record registration and personalization information, enabling you to save your user name and password. We do not store any PII in cookies, but we may link the cookie to any information we collect. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of the Web Site will not operate correctly if you disable cookies. You should consult with your browser’s provider/manufacturer if you have any questions regarding disabling cookies.
+ **Cookies** : Cookies are information files that our Web Site may place on your computer to provide extended functionality and to personalize your experience at our Web Site. We may use cookies for a number of purposes. For example, we may use cookies to track usage patterns on the Web Site and we may use cookies when we conduct polls and sweepstakes to limit multiple responses and registrations. Or, we may use cookies to record registration and personalization information, enabling you to save your user name and password. We do not store any PII in cookies, but we may link the cookie to any information we collect. You may occasionally get cookies from our advertisers, which is standard in the internet industry. We do not control these cookies, and these cookies are not subject to our privacy policy. Visitors to our web site should check the privacy policy of the advertiser to see whether and how it uses cookies. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of the Web Site will not operate correctly if you disable cookies. You should consult with your browser’s provider/manufacturer if you have any questions regarding disabling cookies.
 
  **Sponsor’s Use and Disclosure of Collected Information**
 
@@ -32,22 +32,13 @@ In addition, please note that this Privacy Policy does not apply to any informat
 
  **Other Third Parties** : Sponsor may disclose anonymous, aggregated user statistics to third parties for a variety of purposes. For example, we may disclose how many individuals visited certain areas of our Web Site, or how many men or women receive our newsletter. Sponsor does not rent, sell or otherwise disclose your PII to third parties unless disclosed to you at the time such information is collected or unless you otherwise give consent, other than in the following limited circumstances: 
 
-* Legal action. Sponsor may disclose information about its users, including PII, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web Site and applicable laws, or to protect against misuse or unauthorized use of our Web Site. Sponsor may also disclose user information whenever we believe disclosure is necessary to limit our legal liability, to protect or defend our rights or property or protect the safety, rights or property of our users.
-* Corporate change. Sponsor may sell, transfer or otherwise disclose user information, including PII, to a successor entity in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change respecting the Web Site.
-
- **Security**
-
 Sponsor takes steps to secure the data you submit to us, including limiting the number of people who have physical access to our user data. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, Sponsor cannot ensure or warrant the security of any information you transmit to Sponsor and you do so at your own risk. 
 
-**Consent to Transfer**
-
 The Web Site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
-
- **Acceptance / Changes to Privacy Policy**
 
 By using the Web Site, you agree to the terms of this   
 Privacy Policy. Sponsor reserves the right to modify, alter or otherwise update this Privacy Policy at any time in its sole discretion. We will post any changes here, so be sure to check back from time to time. However, we will only use the PII you provide to the Web Site in a manner consistent with this Privacy Policy, unless you give us your consent.
 
- **Contact Us**
-
 If you have any questions, comments or concerns about our Privacy Policy, please contact us at the address provided on the Web Site from which you “clicked” via an authorized link to arrive at this Privacy Policy.
+
+(© MMV, CBS Broadcasting, Inc. All Rights Reserved.)
