@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the theiia.org privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014015636id_/http%3A//www.theiia.org/iia/index.cfm%3Fdoc_id%3D2507) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiia.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616061922id_/http%3A//www.theiia.org/iia/index.cfm%3Fdoc_id%3D2507) for the most accurate reproduction.*
 
 # The IIA Privacy Policy - The Institute of Internal Auditors (IIA)
+
+| 
 
 #### INTRODUCTION
 
@@ -50,7 +52,7 @@ If you voluntarily provide The IIA with personally identifiable information, The
 
 #### RIGHT OF ACCESS
 
-The IIA is dedicated to providing reasonable access to members and others who want to review their personal information maintained by The IIA and correct any inaccuracies therein. Members may view and update their data by accessing the Member Profile, available upon logging in to [www.theiia.org/profile](http://www.theiia.org/profile). Nonmembers may verify and/or change their data by e-mailing [custserv@theiia.org](mailto:custserv@theiia.org) or by writing Customer Service, The IIA, 247 Maitland Ave., Altamonte Springs, Fla. 32701, USA. The IIA, however, is not responsible for verifying the continued accuracy of either member or nonmember information.
+The IIA is dedicated to providing reasonable access to members and others who want to review their personal information maintained by The IIA and correct any inaccuracies therein. Members may view and update their data by accessing the Member Profile, available upon logging in to [www.theiia.org/iia/profile](http://www.theiia.org/iia/profile). Nonmembers may verify and/or change their data by e-mailing [custserv@theiia.org](mailto:custserv@theiia.org) or by writing Customer Service, The IIA, 247 Maitland Ave., Altamonte Springs, Fla. 32701, USA. The IIA, however, is not responsible for verifying the continued accuracy of either member or nonmember information.
 
 #### SECURITY
 
