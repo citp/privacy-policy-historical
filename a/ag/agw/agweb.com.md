@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agweb.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221172247id_/http%3A//www.agweb.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agweb.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616072039id_/http%3A//www.agweb.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
