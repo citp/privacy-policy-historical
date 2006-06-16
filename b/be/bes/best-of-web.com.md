@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-of-web.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217135736id_/http%3A//www.best-of-web.com/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-of-web.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616141115id_/http%3A//best-of-web.com/privacy_statement.shtml) for the most accurate reproduction.*
 
 # 
 
