@@ -1,40 +1,102 @@
-<!--The following is the downloaded HTML source of the flightaware.com privacy policy that was archived on 2005-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051218173830id_/http%3A//flightaware.com/about/privacy.rvt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flightaware.com privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616191151id_/http%3A//flightaware.com/about/privacy.rvt) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+<html><head>
   <!-- 	Attention!
   	You must agree with FlightAware's Terms of Use at http://flightaware.com/about/termsofuse.rvt 
-  	Copyright 2005 FlightAware, LLC. All Rights Reserved. -->
-  <title>FlightAware &gt; About &gt; Privacy Policy</title>
-  <link rel="stylesheet" href="/include/default.css" type="text/css">
+  	Copyright 2006 FlightAware.  All Rights Reserved. -->
+  <title>FlightAware &gt; About FlightAware &gt; Privacy Policy</title>
+  <link rel="stylesheet" href="/include/fa.css" type="text/css">
+  <script type="text/javascript" src="/include/fa.js"></script>
   <meta name="description" content="Free Flight Tracker: Tracking, Status, Maps, and Graphs for Private (General Aviation) IFR flights, Commercial (Airline) flights, and airports.">
   <meta name="keywords" content="flight tracker tracking status map airport">
-  <script type="text/javascript" language="JavaScript" src="/include/livesearch.js"></script>
-  <script type="text/javascript" language="JavaScript"><!--
-	function DoLoginBox() { var res = document.getElementById("Login"); res.style.display = "block";
-	document.login.flightaware_username.focus(); }
-	function XLoginBox() { document.getElementById("Login").style.display = "none" }
-  // --></script>
  </head>
- <body>
-  <div id="Login"><form name="login" action="/account/session.rvt" method="post"><table><tbody><tr><td align="right" class="login" style="font-size: x-small">[<a href="/account/forgot.rvt">Forgot User/Pass</a>]</td><td align="right" class="login" style="font-size: x-small; text-align: right">[<a href="javascript:XLoginBox()">Close</a>]</td></tr><tr><td class="login" align="left"><input type="hidden" name="mode" value="login">Username</td><td class="login" align="left"><input size="12" type="text" name="flightaware_username"></td></tr><tr><td align="left" class="login">Password</td><td align="left" class="login"><input size="12" type="password" name="flightaware_password"></td></tr><tr><td colspan="2" class="login" style="text-align: center"><input type="submit" value="Login!"></td></tr></tbody></table></form></div> 
-  <table width="100%">
-  <tbody><tr>
-   <td align="left" style="font-size: x-small" width="25%">2005-12-18 12:38PM EST</td>
-   <td align="center" style="font-size: x-small" width="30%"></td>
-   <td align="right" width="55%" style="font-size: x-small">
-<strong><a href="/account/manage.rvt?mode=register">Free Registration</a></strong> (<a href="/about/account_types.rvt">Why Register?</a>) &nbsp;&nbsp;&nbsp; <strong><a href="javascript:DoLoginBox()">Login</a></strong>
-</td></tr><tr>
-	<td align="left" style="font-size: x-small" width="15%"></td>
-        <td colspan="2" align="right" style="font-size: x-small" width="85%"><strong><a href="/live/">Live Tracking</a></strong> | <a href="/analysis/">Analysis</a> | <a href="http://discussions.flightaware.com/">Discussions</a> | <a href="/mobile/">Mobile</a> | <a href="/about/faq.rvt">Frequently Asked Questions</a> | <a href="/news/">News</a> | <a href="/about/">About</a></td></tr>
-         </tbody></table>
-	 <table cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr class="mainBar">
+ <body onload="preloadImages();">
+<div id="topContainer">
+  <table id="topContent">
+   <tbody><tr>
+    <td rowspan="2" width="160" style="padding-left: 5px;">
+     <a href="/"><img src="http://flightaware.com/images/logo.png" width="160" height="60" alt="FlightAware" border="0"></a>
+    </td>
+    <td id="topSlogan">
+     <img src="/images/live_flight_tracking.gif" id="LiveFlightTracking" alt="Live Flight Tracking" height="22" width="170">
+    </td>
+    <td rowspan="2" width="90" id="topLinks">
+     <a href="/about/account_types.rvt">Registration</a><br><a onclick="DoLoginBox(); return false" href="/account/login.rvt">Login</a><br><a href="/about/faq.rvt">Questions/Answers</a><br><a href="/about/merchandise/">Cool Merchandise</a>
+    </td>
+  </tr>
+  <tr>
+   <td id="topText"> 
+    <div id="headerText"><div id="topTextLinks"> <a href="/account/manage.rvt?mode=register">Free Registration</a> (<a href="/about/account_types.rvt">Why Register?</a>)</div> |
+	<a onclick="DoLoginBox(); return false" href="/account/login.rvt">Login</a> | Friday 03:11PM EDT</div>
+    <div id="LoginBox">	
+		<form name="login" action="/account/session.rvt" method="post">
+		<input type="hidden" name="mode" value="login">
 
-         <td class="mainBar" width="100%">
-&nbsp;<a class="mainBar" href="/">FlightAware</a> &gt; <a class="mainBar" href="/about/">About</a> &gt; Privacy Policy
-</td></tr>
-     </tbody></table>
+	 	<label for="flightaware_username">Username</label>
+		<input size="12" type="text" name="flightaware_username">
+
+	 	<label for="flightaware_password">Password</label>
+		<input size="12" type="password" name="flightaware_password">
+		<input type="submit" value="Login!"></form><br>
+	<a href="/account/manage">New Registration</a> (It's free!) |  <a href="/account/forgot.rvt">Forgot Username/Password</a> | <a href="javascript:NoLoginBox()">Cancel</a> 
+	</div>
+   </td>
+  </tr>
+ </tbody></table>
+</div>
+<table cellspacing="5" cellpadding="0" width="99%" border="0"><tbody><tr>
+	<td style="padding: 0; margin: 0;" valign="top"><div id="navBar">
+<span title="Live Flight and Airport Tracking"><a onmouseover="changeImages( 'lt','/images/nav/ltover.gif');return true" onmouseout="changeImages( 'lt','/images/nav/lt.gif');return true" href="/live/"><img src="/images/nav/lt.gif" alt="Live Flight Tracking" name="lt" height="29" width="170" border="0"></a></span>
+<span title="Statistics, Analysis, and IFR Pilot Resources"><a onmouseover="changeImages( 'stats','/images/nav/statsover.gif');return true" onmouseout="changeImages( 'stats','/images/nav/stats.gif');return true" href="/analysis/"><img src="/images/nav/stats.gif" alt="Statistics" name="stats" height="29" width="170" border="0"></a></span>
+<span title="FlightAware Commercial Data Services"><a onmouseover="changeImages( 'commserv','/images/nav/commservover.gif');return true" onmouseout="changeImages( 'commserv','/images/nav/commserv.gif');return true" href="/commercial/"><img src="/images/nav/commserv.gif" alt="Commercial Services" name="commserv" height="29" width="170" border="0"></a></span>
+<span title="Discussion Forums and FlightAware Community"><a onmouseover="changeImages( 'disc','/images/nav/discover.gif');return true" onmouseout="changeImages( 'disc','/images/nav/disc.gif');return true" href="http://discussions.flightaware.com/"><img src="/images/nav/disc.gif" alt="Discussions" name="disc" height="29" width="170" border="0"></a></span>
+<span title="FlightAware News and Media Information"><a onmouseover="changeImages( 'news','/images/nav/newsover.gif');return true" onmouseout="changeImages( 'news','/images/nav/news.gif');return true" href="/news/"><img src="/images/nav/news.gif" alt="News &amp; Media" name="news" height="29" width="170" border="0"></a></span>
+<span title="Airport Information and Aviation Resources"><a onmouseover="changeImages( 'res','/images/nav/resover.gif');return true" onmouseout="changeImages( 'res','/images/nav/res.gif');return true" href="/resources/"><img src="/images/nav/res.gif" alt="Resources" name="res" height="29" width="170" border="0"></a></span>
+<span title="About FlightAware"><a onmouseover="changeImages( 'about','/images/nav/aboutover.gif');return true" onmouseout="changeImages( 'about','/images/nav/aboutover.gif');return true" href="/about/"><img src="/images/nav/aboutover.gif" alt="About FlightAware" name="about" height="29" width="170" border="0"></a></span>
+<span title="Contact FlightAware"><a onmouseover="changeImages( 'contact','/images/nav/contactover.gif');return true" onmouseout="changeImages( 'contact','/images/nav/contact.gif');return true" href="/about/contact.rvt"><img src="/images/nav/contact.gif" alt="Contact" name="contact" height="30" width="170" border="0" style="margin-bottom: 0px;"></a></span>
+</div>
+ <div class="bodyDivider"></div><table width="170" border="0" cellspacing="0" cellpadding="0" bgcolor="#e1e1e1" id="trackBox" style="font-size: 12px;">
+  
+<tbody><tr>
+   <td class="trackBox" style="height: 110px">
+    <h2>Flight Tracker</h2>
+    <form name="track" action="/live/form.rvt">
+     <label for="tail">Flight/Tail #:</label>
+     <input class="Text" name="ident" type="text" style="width: 70px;" value="">
+     <input class="Submit" type="image" value="Track Any Flight" style="width: 115px; height: 18px;" src="/images/track/track-any-flight.gif">
+    </form>
+   </td>
+  </tr>
+  <tr>
+   <td class="trackBox" style="height: 130px;">
+    <br>
+    <form class="trackForm" name="searchform" action="/live/form.rvt" onsubmit="return checkPrefix()" style="padding-top: 5px; padding-bottom: 5px;">
+     <input type="hidden" name="ident_prefix" value="">
+     <input class="Text" id="livesearch" name="q" onfocus="javascript:liveSearchInit();" onkeypress="liveSearchStart()" autocomplete="off" type="text" style="text-align: center; width: 150px; font-size: 9px; margin-left: 0.5em;" value="Enter Airline Name Here"><br>
+     <label for="ident_suffix">Flight Number:</label>
+     <input class="Text" name="ident_suffix" type="text" style="width: 40px;" value="">
+     <input class="Submit" type="image" value="Track Commercial Flight" style="width: 152px; height: 18px;" src="/images/track/track-commercial-flight.gif"><br>
+     <div><a href="/live/findflight_route.rvt">Don't know the flight number?</a></div>
+   </form>
+  <div id="LSResult"></div>
+ <form style="padding: 0;" action="" onsubmit="alert('Do not press enter; type in your query and the results to your search will pop-up automatically; you then must select one before continuing.');" name="AirportQueryForm"> <div id="AirportQuery"></div></form>
+  <div id="AirportQueryResult"></div></td></tr>
+ <tr>
+
+   <td class="trackBox" style="border: 0; height: 80;">
+   <form class="trackForm" name="airport" action="/live/form.rvt" onsubmit="return checkAirportPrefix()" style="border-bottom: none; margin-bottom: 0;">
+    <label for="airport">Airport Code:</label>
+    <input class="Text" name="airport" type="text" style="width: 55px;" value="">
+    <input class="Submit" type="image" value="View Airport Activity" style="width: 133px; height: 18px;" src="/images/track/view-airport-activity.gif"><br>
+    <div><a href="javascript:DoAirportBox()">Don't know the airport code?</a></div>
+   </form>
+
+  </td>
+ </tr>
+</tbody></table>
+</td><td width="100%" valign="top" rowspan="2" height="600">
+<div id="BodyNav"><h2><a href="/">FlightAware</a> &gt; <a href="/about/">About FlightAware</a> &gt; Privacy Policy</h2></div><div id="bodyHeader"><h2><img src="/images/o-tdz.png" alt="icon" height="9" width="11">Privacy Policy</h2></div><div id="Body">
 
 
 <p>
@@ -43,115 +105,95 @@ to honoring the privacy of our members and visitors.
 </p>
 
 
+<h3>What information does FlightAware receive and how do we use it?</h3>
 <p>
- <strong>What information does FlightAware receive and how do we use it?</strong>
- </p><div class="indent">
-   When you register for FlightAware and other FlightAware services, we ask you for your name,
-   contact information, preferences, and personal profile information. This information lets us provide
-   personalized services and communicate separately with you. We also use aggregated information about
-   the use of our services to evaluate our users' preferences, improve our programming, and facilitate
-   third-party reporting of Internet usage. 
-
-  <p>
-   Like most web sites, we use small bits of data called cookies stored on users' computers to simulate a
-   continuous connection. Cookies let us "remember" information about your preferences and passwords and
-   allow you to move within our service without reintroducing yourself. Recent versions of browsers let
-   you easily see and control cookies. FlightAware and its advertisers may also use cookies to
-   determine on an anonymous basis which advertisements users have seen and how users responded to them,
-   but don't use such cookies to collect personally identifiable information unless you give us
-   permission to do so.  Similarly, FlightAware and its advertisers may use small pieces of code
-   called "web beacons" or "clear gifs" to collect anonymous advertising metrics and to deliver cookies
-   related to such advertisements. 
-  </p>
- </div>
-<p></p>
-
+  When you register for FlightAware and other FlightAware services, we ask you for your name,
+  contact information, preferences, and personal profile information. This information lets us provide
+  personalized services and communicate separately with you. We also use aggregated information about
+  the use of our services to evaluate our users' preferences, improve our programming, and facilitate
+  third-party reporting of Internet usage. 
+</p>
 <p>
- <strong>May I choose what information I disclose?</strong>
- </p><div class="indent">
-  While we need certain information to register you as a unique user and let you access personalized services,
-  some contact and optional information is not required and may be given at your discretion.
- </div>
-<p></p>
+  Like most web sites, we use small bits of data called cookies stored on users' computers to simulate a
+  continuous connection. Cookies let us "remember" information about your preferences and passwords and
+  allow you to move within our service without reintroducing yourself. Recent versions of browsers let
+  you easily see and control cookies. FlightAware and its advertisers may also use cookies to
+  determine on an anonymous basis which advertisements users have seen and how users responded to them,
+  but don't use such cookies to collect personally identifiable information unless you give us
+  permission to do so.  Similarly, FlightAware and its advertisers may use small pieces of code
+  called "web beacons" or "clear gifs" to collect anonymous advertising metrics and to deliver cookies
+  related to such advertisements. 
+</p>
 
+<h3>May I choose what information I disclose?</h3>
 <p>
- <strong>What if I need to review or change the personal information I previously disclosed?</strong>
- </p><div class="indent">
-  We encourage FlightAware members to update and edit their personal information and keep it current. You
-  can easily correct or update your personal information at any time via our Profile page.
- </div>
-<p></p>
+ While we need certain information to register you as a unique user and let you access personalized services,
+ some contact and optional information is not required and may be given at your discretion.
+</p>
 
+<h3>What if I need to review or change the personal information I previously disclosed?</h3>
 <p>
- <strong>What kind of security is used to protect my information?</strong>
- </p><div class="indent">
+ We encourage FlightAware members to update and edit their personal information and keep it current. You
+ can easily correct or update your personal information at any time via our Profile page.
+</p>
+
+<h3>What kind of security is used to protect my information?</h3>
+<p>
   We store all user information in secure databases protected via a variety of access controls. This data is
   accessed only for the purposes specified in this privacy statement.
- </div>
-<p></p>
+</p>
 
+<h3>What information is made to other FlightAware users?</h3>
 <p>
- <strong>What information is made to other FlightAware users?</strong>
- </p><div class="indent">
-  When contributing to the FlightAware public discussions, it is inherent in the form of communication that
-  your unique user name is revealed to identify yourself.  All other information in your profile
-  is optional, but will be displayed if you have entered such information and not specifically
-  asked that it is not displayed.
- </div>
-<p></p>
+ When contributing to the FlightAware public discussions, it is inherent in the form of communication that
+ your unique user name is revealed to identify yourself.  All other information in your profile
+ is optional, but will be displayed if you have entered such information and not specifically
+ asked that it is not displayed.
+</p>
 
+<h3>Who has access to my information?</h3>
 <p>
-<strong>Who has access to my information?</strong>
- </p><div class="indent">
-  We do not share personally identifiable data with other companies (apart from
-  those acting as our agents in providing our service to you, who agree to use
-  it only for that purpose), except as necessary to fulfill a transaction you
-  have requested, or unless you otherwise give us permission to do so. FlightAware
-  may also share such information in response to legal process, such as a court
-  order or subpoena.
- </div>
-<p></p>
+ We do not share personally identifiable data with other companies (apart from
+ those acting as our agents in providing our service to you, who agree to use
+ it only for that purpose), except as necessary to fulfill a transaction you
+ have requested, or unless you otherwise give us permission to do so. FlightAware
+ may also share such information in response to legal process, such as a court
+ order or subpoena.
+</p>
 
+<h3>What about other companies featured on FlightAware?</h3>
 <p>
- <strong>What about other companies featured on FlightAware?</strong>
- </p><div class="indent">
-  We will not reveal any information about you to any company featured on
-  FlightAware.  However, a featured company may define user criteria that they are interested
-  in and by choosing to evaluate an advertisement, the featured company will know
-  that you meet the defined criteria.
- </div>
-<p></p>
+ We will not reveal any information about you to any company featured on
+ FlightAware.  However, a featured company may define user criteria that they are interested
+ in and by choosing to evaluate an advertisement, the featured company will know
+ that you meet the defined criteria.
+</p>
 
+<h3>What about children's information?</h3>
 <p>
- <strong>What about children's information?</strong>
- </p><div class="indent">
-  Children under the age of thirteen years old may not register for FlightAware or use any FlightAware
-  services that require personally identifiable information. 
- </div>
-<p></p>
+ Children under the age of thirteen years old may not register for FlightAware or use any FlightAware
+ services that require personally identifiable information. 
+</p>
 
+<h3>What about the privacy issues with tracking private aircraft?</h3>
 <p>
- <strong>What about the privacy issues with tracking private aircraft?</strong>
- </p><div class="indent">
   For that question, see <a href="/about/faq.rvt#privacy">the privacy section of our FAQ.</a>
- </div>
-<p></p>
+</p>
 
+<h3>Who can I contact if I have any questions regarding my privacy?</h3>
 <p>
- <strong>Who can I contact if I have any questions regarding my privacy?</strong>
- </p><div class="indent">
-  Please contact us <a href="mailto:contact-privacy-1134927510@flightaware.com">contact us via e-mail</a> with any questions or comments.  For
+  Please contact us <a href="mailto:contact-privacy-1150485111@flightaware.com">contact us via e-mail</a> with any questions or comments.  For
 
   other contact, please refer to the <a href="/about/contact.rvt">contact us</a> page.
- </div>
-<p></p>
+</p>
 
-  <hr>
-  <p align="center">
-   <font size="-2">
-   [<a href="/about/termsofuse.rvt">Terms Of Use</a>] [<a href="/about/privacy.rvt">Privacy</a>]<br>
-   © 2005 FlightAware. All Rights Reserved.</font>
-  </p>
+  </div>
+  </td></tr></tbody></table>
+        <div id="Footer">
+    © 2006 FlightAware
+    | <a href="/about/termsofuse.rvt">Terms Of Use</a>
+    | <a href="/about/privacy.rvt">Privacy</a>
+   </div>
  
 
 </body></html>
