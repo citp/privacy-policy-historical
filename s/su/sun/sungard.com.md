@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sungard.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220021058id_/http%3A//www.sungard.com/Company_Info/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sungard.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616045043id_/http%3A//sungard.com/Company_Info/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,8 +6,11 @@
 SunGard is committed to maintaining your confidence and trust, and accordingly maintains the following Privacy Policy to protect the personal information you provide online. To make this notice easy to find, we make it available on our homepage and at every point that personally identifiable information may be requested. Questions regarding this policy should be directed to +1 800-825-2518.
 
 **Collection and Use of Information**  
-SunGard will only collect your personal information  (such as your name, address, or telephone number) if  you provide it voluntarily. If you do not want this information to be collected by us, please do not submit it.  SunGard will not retain your personal information longer than is necessary for the purpose for which it is collected.  
+SunGard will only collect your personal information  (such as your name, address, or telephone number) if  you provide it voluntarily. If you do not want this information to be collected by us, please do not submit it.  SunGard will not retain your personal information longer than is necessary for the purpose for which it is collected.
+
 In addition, in the course of using our site we automatically track certain information about you. This information includes the URL that you just came from (whether this URL is on our site or not), which URL you go to next (whether this URL is on our site or not), what browser you are using, and your IP address. Many sites automatically collect this information.
+
+We also employ the use of cookies to assist us in this process.  A cookie is a small piece of computer code that enables web servers to identify users.  Cookies do not store any information that you have provided to our site.  They are simply identifiers.  You have the ability to delete cookie files from your hard drive at any time or avoid cookies by configuring your browser to reject them or to notify you when a cookie is being placed on your hard drive.
 
 We only use the information which is provided through our site to help us improve our services to you, to provide you with the products you have requested, to inform you about additional products or services that may be of interest to you, for marketing purposes and for other internal purposes. SunGard occasionally hires other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending mail and processing event registration.  SunGard will only provide these companies with the information they need to deliver the service, and they are prohibited from using that information for any other purpose.  Other than what is described, SunGard does not sell, trade or rent your personal information to others outside of SunGard companies and their advertising and promotional agencies and consultants.  If you do not wish to receive this information, please contact us on +1 800-825-2518.
 
