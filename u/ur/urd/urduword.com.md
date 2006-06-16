@@ -1,41 +1,45 @@
-> *The following text is extracted and transformed from the urduword.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212085239id_/http%3A//www.urduword.com/About/Privacy_Statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urduword.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616175447id_/http%3A//www.urduword.com/privacy.php) for the most accurate reproduction.*
 
-# UrduWord.com - About - Privacy Statement
+# UrduWord.com - Privacy Policy
 
-| 
+This document describes the privacy policy of **UrduWord.com**. We can be reached via e-mail at [webmaster@urduword.com](mailto:webmaster@urduword.com) (email) or [ http://www.urduword.com/contact.php](http://www.urduword.com/contact.php) (web). If you feel that this site is not following its stated information policy, please contact us immediately using te methods provided above.
 
-Please visit our sponsors. Advertisements open in new window  
+## Information We Collect
 
+UrduWord.com collects minimal information from users. The information's usage is detailed in this privacy policy.
 
-This privacy statement discloses the privacy practices for _UrduWord.com_ website.
+We collect aggregate information on what pages visitors generally visit within our website. Page visit information is not personally identifiable and is not stored, rented or shared with a third-party.
 
-| **Information Collection and Use**  
----  
-| _UrduWord.com_ collects information from users at several different points on our website, whose details and usage information is elucidated in this privacy statement. We respect our users' privacy and will not use the information in ways other than specified here, unless we are required to do so by law or we believe that it is in the best of interests for us to (1) protect and defend our, and our general users', rights (2) prevent the misuse or unauthorized use of UrduWord.com.  
-  **Contact Forms (General, Urgent, Feedback, Requests, Error Reports)**  
----  
-| In order to contact us, users are asked to specify some information about themselves. Here, the required information includes **_name_** and **_e-mail address_**. The optional information includes **_designation/company_** and **_website_**. The feedback form also asks the user the **_source_** from where he/she found out about _UrduWord.com_. All this information is only used to better understand our users' queries and is **not stored, sold, rented, or shared** with a third-party. The optional e-mail address for Requests is only stored to _automatically inform_ the user when the request is fulfilled and is not shared with third-party. The _aggregate_ of sources specified by our users is used to obtain a general idea of which form of publicity best works for _UrduWord.com_ and is not used for personal identification purposes.  
-  **Cookies**  
----  
-| A cookie is a piece of data stored on the user’s hard drive containing information about the user. **We do not use any cookies on our website.**
+We do not collect email addresses of our visitors, except if they are in communication with us or have subscribed to the email subscription service.  Email addresses and messages are kept confidential and are not stored, rented or shared with a third-party.
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. This information is only used to link our website to our advertisers and is not used for personal identification purposes.  
-  
-  **Log Files**  
----  
-| We use IP addresses to analyze trends, administer the site, and gather broad demographic information for aggregate use. **IP addresses are not linked to personally identifiable information.**
+A cookie is a piece of data stored on the user's computer tied to information about the user. We do not set any cookies. Some of our advertisement providers may set cookies; please refer to section "Third-Party Advertising" for more information.
 
-Likewise, we gather and analyze information such as words looked-up, web-browser used, time of access, and pages-accessed for _aggregate_ use. **Logged information is not linked to personally identifiable information.**  
-  
-  **Sharing**  
----  
-| We only share **aggregated** information such as visits-per-day with our advertisers. **This is not linked to any personal information that can identify any individual person.**  
-  **Web Links**  
----  
-| This website contains links to other sites. Please be aware that we _UrduWord.com_ are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. **This privacy statement applies solely to information collected by this website.**  
-  **Tell Your Friends About UrduWord.com**  
----  
-| If a user elects to use our referral service for informing a friend about our site, we ask them for the friends' name and email address. _UrduWord.com_ will automatically send the friend a one-time email inviting them to visit the site. _UrduWord.com_ uses this information for the **sole purpose of sending this one-time email**.  
-  **Daily UrduWord - E-Mail Subscription**  
----  
-| The _Daily UrduWord - E-mail Subscription_ only asks the user's e-mail address. This e-mail address is **used to send automated e-mails** and is **not sold, rented, or shared** with a third-party. _UrduWord.com_ may e-mail subscribers to inform them about changes to the system that may affect their subscription.
+## Our Use and Disclosure of Information
+
+We respect our users' privacy and will not use the information in ways other than specified herein, unless we are required to do so by law or we believe that it is in the best of interests for us to (1) protect and defend our and our general users' rights, (2) prevent the misuse or unauthorized use of UrduWord.com.
+
+The information we collect is used for internal review and is then discarded.  Information is not shared with other organizations for commercial purposes.
+
+## Security Measures
+
+We have standard software and hardware measures to protect collected information.  We generally do not request sensitive information from our users.
+
+Advertising fees are collected through PayPal's secure servers.  Credit card processing is handled by PayPal, and Advertisers' credit card details are never sent to, viewed by, or stored by UrduWord.com.  PayPal's privacy policy is available at [ http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside). 
+
+## Third-Party Advertising
+
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and browser version. For further information, consult the privacy policies of:  
+[http://www.valueclick.com/privacy.html](http://www.valueclick.com/privacy.html&Title=ValueClick%20Consumer%20Privacy%20Policy)   
+[http://www.befree.com/privacy.htm](http://www.befree.com/privacy.htm&Title=BeFree%20Privacy%20Policy)   
+[http://www.cj.com/privacy.jsp](http://www.cj.com/privacy.jsp&Title=CJ%20Privacy%20Policy)   
+<http://www.google.com/privacy.html>
+
+## Contacting Us
+
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail or web message at the addresses in the beginning of this privacy policy.
+
+Upon request, we provide site visitors with access to any unique identifier information that we maintain about them, transaction information, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them.
+
+## Policy Changes
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.
