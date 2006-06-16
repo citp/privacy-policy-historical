@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ciol.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216220546id_/http%3A//www.ciol.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciol.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616195654id_/http%3A//ciol.com/company/privacy) for the most accurate reproduction.*
 
-# 
+# CIOL IT Unlimited
 
-**Privacy Statement for Cyber India Online Limited**
+**Privacy Statement for CyberMedia India Online Limited**
 
-Cyber India Online Limited has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
+CyberMedia India Online Limited has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
 **Information Automatically Logged  
 **We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you, and to gather broad demographic information. 
@@ -47,7 +47,7 @@ Demographic and profile data is also collected at our site.
 This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
 **External Links  
-**This site contains links to other sites. Cyber India Online Limited is not responsible for the privacy practices or the content of such Web sites.
+**This site contains links to other sites. CyberMedia India Online Limited is not responsible for the privacy practices or the content of such Web sites.
 
 **Public Forums  
 **This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
@@ -58,20 +58,21 @@ This information is shared with advertisers on an aggregate basis. We use this d
 **Choice/Opt-Out  
 **Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us .
 
-You can send email to [webmaster@ciol.com](mailto:webmaster@ciol.com)
+You can send email to [webmasterciol@cybermedia.co.in](mailto:webmasterciol@cybermedia.co.in)
 
 **Data Quality/Access  
 **This site gives users the following options for changing and modifying information previously provided
 
-You can send email to [webmaster@ciol.com](mailto:webmaster@ciol.com)
+You can send email to [webmasterciol@cybermedia.co.in](mailto:webmasterciol@cybermedia.co.in)
 
 You can send mail to the following postal address
 
-Cyber India Online Limited  
-402, 4th Floor, MBC  
-134, Infantry Road  
-Bangalore  
-India 560001
+CyberMedia India Online Limited  
+#302,3rd Floor,  
+# 73, Shree Complex,St.John's Road  
+(opp RBANMS Ground)  
+Bangalore - 560 042  
+India 
 
 **Contacting the Web Site  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmaster@ciol.com](mailto:webmaster@ciol.com)
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmasterciol@cybermedia.co.in](mailto:webmasterciol@cybermedia.co.in)
