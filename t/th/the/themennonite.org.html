@@ -1,0 +1,307 @@
+<!--The following is the downloaded HTML source of the themennonite.org privacy policy that was archived on 2006-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616151238id_/http%3A//themennonite.org/php/privacy.php) for the most accurate reproduction.-->
+
+<html><!-- #BeginTemplate "/Templates/main.dwt" --><!-- DW6 --><head>
+<!-- #BeginEditable "doctitle" -->
+<title>The Mennonite -- News, articles and discussion resources to serve Mennonite Church USA</title><!-- #EndEditable -->
+<script src="../Templates/findDOM.js"></script>
+<script>
+var menuTop = 45;
+var menuLeft = 400;
+
+var domSMenu = null;
+var oldDomSMenu = null;
+var t = 0;
+var lDelay = 10;
+var lCount = 0;
+var pause = 100;
+
+function popMenu(menuNum) { 
+   if (isDHTML) {
+      t = 2;
+      if (oldDomSMenu) { 
+         oldDomSMenu.visibility = 'hidden';
+         oldDomSMenu.zIndex = '0';
+         t = 2;
+         lCount = 0;
+      }
+	  
+      var idMenu = 'menuHead';
+      var domMenu = findDOM(idMenu,0);
+      var idMenuOpt = 'menuHead' + menuNum;
+      var domMenuOpt = findDOM(idMenuOpt,0);
+
+      var idSMenu = 'menu' + menuNum;
+      var domSMenu = findDOM(idSMenu,1);
+	
+	  
+   if (isID || isAll) {
+         var menuLeft = (domMenu.offsetLeft) + (domMenuOpt.offsetLeft) ;
+         var menuTop = (domMenu.offsetTop) + (domMenu.offsetHeight) -1;
+         } 
+ 
+<!-- if (isLayers) { var menuLeft = document.layers[idMenu].layers[idMenuOpt].pageX - 1 ;  var menuTop = domMenu.pageY + domMenu.clip.height - 124; } -->
+
+
+      if (oldDomSMenu != domSMenu) { 
+         domSMenu.left = menuLeft;
+         domSMenu.top = menuTop;
+         domSMenu.visibility = 'visible';
+         domSMenu.zIndex = '100';
+         oldDomSMenu = domSMenu;
+      }
+      else { oldDomSMenu = null; }
+   }
+   else { return null; }
+}
+
+function delayHide() {
+   if ((oldDomSMenu) && (t == 0)) {
+         oldDomSMenu.visibility = 'hidden';
+         oldDomSMenu.zIndex = '0';
+         oldDomSMenu = null;
+         lCount = 0;
+         return false;
+   }
+   if (t == 2) { lCount = 0; return false; }
+   if (t == 1) {
+         lCount = lCount + 1;
+         if (lDelay <= lCount) { t = 0; }
+         if (lDelay >= lCount) { setTimeout('delayHide(' + t + ')',pause); }
+   }
+}
+
+
+</script>
+
+<link rel="stylesheet" href="../style/tmenno.css" type="text/css">
+
+ 
+</head>
+
+<body bgcolor="#FAF5E5" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="770" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="10"><img src="../g/global/spacer.gif" width="10" height="10"></td>
+    <td><img src="../g/global/spacer.gif" width="760" height="10"></td>
+  </tr>
+  <tr> 
+    <td width="10"><img src="../g/global/spacer.gif" width="10" height="10"></td>
+    <td> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td align="left" bgcolor="#008065" width="193" height="36"> <a href="../index.php"><img src="../g/global/header_logo.gif" width="193" height="36" alt="The Mennonite" border="0"></a></td>
+          <form action="http://themennonite.lightsky.com/php/general.search.php"></form>
+            <td align="right" bgcolor="#008065" height="36" width="567">
+			<!-- #BeginEditable "search" -->
+              
+<input type="text" name="keyword" value="">
+<input border="0" type="image" src="../g/global/search.gif" width="52" height="20" align="middle" name="search"> &nbsp;			  <!-- #EndEditable -->
+              </td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="57" bgcolor="#CC9900"><img src="../g/global/8.jpg" width="760" height="58"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" height="19">
+           
+          </td>
+        </tr>
+      </tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" height="10">
+        <tbody><tr> 
+          <td><img src="../g/global/spacer.gif" width="500" height="10"></td>
+        </tr>
+      </tbody></table>
+        <table width="760" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+          <td valign="top" width="630"><!-- #BeginEditable "content" -->
+<table width="620" border="0" cellspacing="0" cellpadding="0" class="content">
+  <tbody><tr> 
+                <td> <img src="../g/global/headers/privacy.policy.gif" width="620" height="26" alt="Privacy Policy"> 
+                  <p>Our postal address is:<br>
+        <i>The Mennonite</i><br>
+        1700 S. Main Street<br>
+        Goshen, IN 46526</p>
+                  <img src="../g/global/headers/what.info.gif" width="620" height="22" alt="What Information We Collect"> 
+                  <h4>As you use <i>The Mennonite</i>.org Web site:</h4>
+      <h4>We collect:</h4>
+      <ul>
+        <li> Only the IP addresses, but not the e-mail address of visitors to 
+          our site.</li>
+        <li>The email addresses of those who communicate with us via email.</li>
+        <li>Aggregate information on what pages Web site users access or visit.</li>
+        <li>User-specific information on what pages Web site users access or visit, 
+          the time they visit and the duration of their stay.</li>
+      </ul>
+      <h4>We use this information to:</h4>
+      <ul>
+        <li> Improve the content and usability of our Web site.</li>
+        <li> Complete and authenticate online transactions.</li>
+      </ul>
+      <p>We do NOT share this information with other organizations for commercial 
+        purposes.</p>
+                  <img src="../g/global/headers/as.subscribe.gif" width="620" height="22" alt="As You Subscribe or Donate"> 
+                  <h4>We collect:</h4>
+      <ul>
+        <li> Your name, email address, address, phone number and fax number.</li>
+        <li>For gift subscriptions we collect your information as well as the 
+          name and address of your gift recipient.<br>
+        </li>
+      </ul>
+      <h4>We use this information to:</h4>
+      <ul>
+        <li> Add your contact and mailing information to our subscription database.</li>
+        <li> Send you a receipt of your donation for your tax records.</li>
+      </ul>
+                  <img src="../g/global/headers/as.subscribe.topic.gif" width="620" height="22" alt="As You Subscribe to Topicmail"> 
+                  <h4> We collect:</h4>
+      <ul>
+        <li> Your email address and other information that's required when you 
+          sign-up.</li>
+      </ul>
+      <h4>We use this information to:</h4>
+      <ul>
+        <li> Increase our own awareness of who the users of this service may be.</li>
+        <li> Occasionally contact users who do not subscribe to the print version 
+          of <i>The Mennonite</i>.</li>
+      </ul>
+                  <img src="../g/global/headers/security.gif" width="620" height="22" alt="Security"> 
+                  <p>All subscription orders or donations made to <em>The Mennonite</em> online 
+        using your credit card, occur on a secure transaction server. </p></td>
+  </tr>
+</tbody></table>
+<!-- #EndEditable -->
+          </td>
+          <td width="10"><img src="../g/global/spacer.gif" width="10" height="10"></td>
+          <td width="120" valign="top"> 
+            <a href="/php/banner.php?ban_id=69"><img src="/g/ads/ban_id_69.jpg" vspace="5" width="120" border="0"></a>            <p> 
+              <!-- banner aleady displayed -->            </p>
+          </td>
+        </tr>
+      </tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" height="10">
+        <tbody><tr> 
+          <td><img src="../g/global/spacer.gif" width="500" height="10"></td>
+        </tr>
+      </tbody></table>
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="10">
+        <tbody><tr> 
+          <td>
+            <!-- no bottom banner found -->          </td>
+        </tr>
+      </tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" height="10">
+        <tbody><tr> 
+          <td><img src="../g/global/spacer.gif" width="500" height="10"></td>
+        </tr>
+      </tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="1" height="10" bgcolor="#008065">
+        <tbody><tr> 
+          <td> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" height="10" bgcolor="#008065">
+              <tbody><tr> 
+                <td bgcolor="#FFFFFF"> 
+                  <div class="small" align="center"><a href="magazine.php" class="tiny">The 
+                    magazine</a> | <a href="discuss.php" class="tiny">Discussion 
+                    resources</a> | <a href="email.php" class="tiny">TM 
+                    TopicMail</a> | <a href="subscription.php" class="tiny">Subscription 
+                    services</a> | <a href="submissions.php" class="tiny">Content 
+                    submissions</a> | <a href="about.php" class="tiny">About 
+                    <i>The Mennonite</i></a> | <a href="contact.php" class="tiny">Contact 
+                    us</a> | <a href="../index.php" class="tiny">Home</a></div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+      <div align="center"><br>
+        <span class="footer">© 2002 The Mennonite. All Rights Reserved. <br>
+        Second and fourth banner photos © CLEO Photography and fifth banner 
+        photo © Debra B. Turnrose. <br>
+        Please read our <a href="privacy.php">Privacy Policy</a>. <br>
+        Web site design: <a href="http://www.lightsky.com">LightSky Design Studio</a> 
+        </span></div>
+    </td>
+  </tr>
+</tbody></table>
+<!-- #BeginEditable "navigation" -->
+<div id="menuHead" style=""> 
+  <table cellpadding="0" cellspacing="0" border="0" width="760" height="19">
+    <tbody><tr> 
+      <td valign="top" height="19"><img src="../g/green.gif" id="menuHead1" width="1" height="19" border="0"><a href="../php/magazine.php" onmouseout="t = 1; delayHide()" onmouseover="popMenu(1)"><img src="../g/global/mag.gif" width="83" height="19" border="0" alt="the magazine"></a><img src="../g/green.gif" id="menuHead2" width="1" height="19" border="0"><a href="../php/discuss.php" onmouseout="t = 1; delayHide()" onmouseover="popMenu(2)"><img src="../g/global/disc.gif" width="130" height="19" border="0" alt="discussion resources"></a><img id="menuHead3" src="../g/green.gif" width="1" height="19" border="0"><a href="../php/email.php" onmouseout="t = 1; delayHide()" onmouseover="popMenu(3)"><img src="../g/global/top.gif" width="83" height="19" border="0" alt="tm topicmail"></a><img src="../g/green.gif" id="menuHead4" width="1" height="19" border="0"><a href="../php/subscription.php" onmouseout="t = 1; delayHide()" onmouseover="popMenu(4)"><img src="../g/global/subs.gif" width="133" height="19" border="0" alt="subscription services"></a><img src="../g/green.gif" id="menuHead5" width="1" height="19" border="0"><a href="../php/submissions.php" onmouseout="t = 1; delayHide()" onmouseover="popMenu(5)"><img src="../g/global/subm.gif" width="123" height="19" border="0" alt="content submissions"></a><img src="../g/green.gif" id="menuHead6" width="1" height="19" border="0"><a href="../php/about.php" onmouseout="t = 1; delayHide()" onmouseover="popMenu(6)"><img src="../g/global/abou.gif" width="123" height="19" border="0" alt="about the mennonite"></a><img src="../g/green.gif" id="menuHead7" width="1" height="19" border="0"><a href="../php/contact.php" onmouseout="t = 1; delayHide()" onmouseover="popMenu(7)"><img src="../g/global/cont.gif" height="19" border="0" width="78" alt="contact us"></a></td>
+    </tr>
+  </tbody></table>
+</div>
+<!-- #EndEditable -->
+<div id="menu1" class="menuStyle" style="left: 16px"> <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="magazine.current.php">Current 
+  issue</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="magazine.back.issues.php">Back 
+  issues</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="magazine.research.index.php">Research 
+  index</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="magazine.advertise.php">Advertise</a><br>
+</div>
+<div id="menu2" class="menuStyle"> <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="discuss.guides.php">Discussion 
+  guides</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="discuss.links.php">Links</a><br>
+</div>
+<div id="menu3" class="menuStyle"> <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="email.sign.up.php">Sign 
+  up</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="email.account.php">Modify 
+  account</a><br>
+</div>
+<div id="menu4" class="menuStyle"> <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="subscription.individual.php">Subscriptions</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="subscription.group.php">Group 
+  subscriptions</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="subscription.gift.php">Gift 
+  subscriptions</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="subscription.student.php">Student 
+  subscriptions</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="subscription.audio.php">Audio 
+  subscriptions</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="subscription.sample.php">Trial 
+  issue</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="subscription.address.php">Change 
+  address</a><br>
+</div>
+<div id="menu5" class="menuStyle"> <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="contact.letter.to.editor.php">Readers 
+  Say</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="submissions.record.php">For 
+  the Record</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="submissions.story.php">Story 
+  ideas</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="submissions.guidelines.php">Contributor 
+  guidelines</a><br>
+</div>
+<div id="menu6" class="menuStyle"> <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="about.board.php">Board</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="about.staff.php">Staff</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="about.history.php">History</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="about.donations.php">Donations</a> <br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="about.financial.php">Financial Statements</a> <br>
+</div><div id="menu7" class="menuStyle"> <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="contact.information.php">Contact 
+  information</a><br>
+  <img src="../g/global/grline.gif" width="150" height="1"><br>
+  <a class="menuLink" onmouseout="t = 1; delayHide()" onmouseover="t = 2;" onclick="t = 0; delayHide();" href="contact.letter.to.editor.php">Letter 
+  to the editor</a></div>
+<!-- #EndTemplate -->
+</body></html>
