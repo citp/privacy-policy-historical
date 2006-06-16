@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pigsback.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215032609id_/http%3A//www.pigsback.com/members/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pigsback.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616131047id_/http%3A//pigsback.com/members/privacy.asp) for the most accurate reproduction.*
 
 # P i g s b a c k.com - Privacy Policy
 
