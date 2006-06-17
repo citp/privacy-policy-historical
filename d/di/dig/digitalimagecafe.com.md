@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalimagecafe.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207012110id_/http%3A//www.digitalimagecafe.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalimagecafe.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617104223id_/http%3A//digitalimagecafe.com/privacy.asp) for the most accurate reproduction.*
 
-# Digital Image Cafe
+# Digital Image Cafe: Digital Photography, Photo Contests, and More
 
 **PRIVACY POLICY**
 
@@ -30,7 +30,7 @@ DigitalImageCafe.Com does not share your personal information with third parties
 
 **How to Unsubscribe from Newsletters**
 
-If you'd rather not receive news and updates via e-mail, simply: Send a blank email with the subject line "Remove" to [webmaster@DigitalImageCafe.Com](mailto:webmaster@DigitalImageCafe.Com) , or send a letter to Customer Service, Varicom Computer Consulting, 4038 Stonehurst, Pearland, TX 77584.
+If you'd rather not receive news and updates via e-mail, simply: Send a blank email with the subject line "Remove" to [webmaster@digitalimagecafe.com](mailto:webmaster@digitalimagecafe.com) , or send a letter to Customer Service, Four Elements Incorporated, 1240 Whitehall Ct, Lake Zurich, IL 60047.
 
 **Children and Privacy**
 
@@ -40,4 +40,4 @@ DigitalImageCafe.Com encourages parents and guardians to spend time with their c
 
 It is important to note that DigitalImageCafe.Com contains links to sites other than DigitalImageCafe.Com, and that those sites may not follow the same privacy policies as DigitalImageCafe.Com. For instance, if you click on an advertisement on DigitalImageCafe.Com, this will take you away from DigitalImageCafe.Com and to an entirely different site. This can include links from advertisers, content providers and partners who may use DigitalImageCafe.Com's logo and/or style as a result of a co-branding agreement. These sites may send their own cookies to you, and may collect data and make uses of it that DigitalImageCafe.Com would not.
 
-DigitalImageCafe.Com reserves the right to change this policy at any time by notifying users of the existence of a revised privacy policy. You can e-mail us with any further questions at [digitalimagecafe@buildyourweb.com](mailto:digitalimagecafe@buildyourweb.com). 
+DigitalImageCafe.Com reserves the right to change this policy at any time by notifying users of the existence of a revised privacy policy. You can e-mail us with any further questions at [info@digitalimagecafe.com](mailto:info@digitalimagecafe.com). 
