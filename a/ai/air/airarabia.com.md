@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airarabia.com privacy policy that was archived on 2005-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051026024636id_/http%3A//www.airarabia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airarabia.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617130830id_/http%3A//www.airarabia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # AirArabia » Privacy Policy
 
@@ -26,6 +26,6 @@ Where you have given consent to use your personal data we may use this to advise
 
 air arabia may pass your data to third parties in order to facilitate related transactions to your journey such as car hire or hotel accommodation.
 
-## Use of “cookies”:
+## Use of cookies:
 
-“Cookies” are pieces of data stored by your browser provided by air arabia in order for us to identify your computer and your email address. These enable air arabia to give a more personalised service on any future bookings. They do not store personal information. Cookies can be deleted from your hard drive according to the procedures of your equipment and software. 
+Cookies are pieces of data stored by your browser provided by air arabia in order for us to identify your computer and your email address. These enable air arabia to give a more personalised service on any future bookings. They do not store personal information. Cookies can be deleted from your hard drive according to the procedures of your equipment and software. 
