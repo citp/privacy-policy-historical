@@ -1,17 +1,27 @@
-<!--The following is the downloaded HTML source of the estara.com privacy policy that was archived on 2005-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051220070554id_/http%3A//www.estara.com/aboutus/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the estara.com privacy policy that was archived on 2006-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060617234758id_/http%3A//estara.com/company/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>eStara, Inc. Privacy Policy</title>
-
+<title>eStara: Privacy Statement</title>
 <base href="http://www.estara.com/">
+<link rel="stylesheet" type="text/css" href="http://www.estara.com/newestara.css">
 
-<link rel="stylesheet" type="text/css" href="http://www.estara.com/estara.css">
+
+<link rel="stylesheet" href="menutheme/theme.css" type="text/css">
+
 
 <script type="text/javascript" src="http://as00.estara.com/as/InitiateCall2.jsp?accountid=200008070000"></script>
+<script type="text/javascript" src="http://as00.estara.com/jscommon/ac/AC_RunActiveContent.js"></script>
+<script type="text/javascript" src="http://as00.estara.com/jscommon/ac/AC_Flash.js"></script>
+<script type="text/javascript" src="//as00.estara.com/fs/lr.php?accountid=200008070000"></script>
+
+<meta name="keywords" content="Click to Call, internet calling, web call back, Push to Talk, live chat, voice chat, softphone, click and call, online sales tools, interactive marketing">
+<meta name="description" content="Let online customers talk to call center agents with just the click of a button.">
 
 <script type="text/javascript">
-var MM_contentVersion = 5;
+//<!--
+var MM_FlashCanPlay = false;
+var MM_contentVersion = 6;
 var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
 if ( plugin ) {
 		var words = navigator.plugins["Shockwave Flash"].description.split(" ");
@@ -28,18 +38,17 @@ else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0
 	document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n'); //FS hide this from IE4.5 Mac by splitting the tag
 	document.write('on error resume next \n');
 	document.write('MM_FlashCanPlay = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & MM_contentVersion)))\n');
-	document.write('</SCR' + 'IPT\> \n');
+	document.write('<\/SCR' + 'IPT\> \n');
 }
+//-->
+</script>
 
-var preloadedImages = preloadImages(	'images/tab_left.gif',
-					'images/tab_left_on.gif',
-					'images/tab_middle.gif',
-					'images/tab_middle_on.gif',
-					'images/tab_right.gif',
-					'images/tab_right_on.gif',
-					'images/tab_wc_left_on.gif',
-					'images/tab_wc_middle_on.gif',
-					'images/tab_wc_right_on.gif');
+<script type="text/javascript">
+function change_language()
+{
+  var l = document.languageform.language.options[document.languageform.language.selectedIndex].value;
+  document.location.href = 'http://www.estara.com/' + l + '/company/privacy.php';
+}
 
 function preloadImages()
 {
@@ -48,107 +57,67 @@ function preloadImages()
   if (document.images) {
     for (var i = 0; i < preloadImages.arguments.length; i++) {
       imageArray[i] = new Image();
-      imageArray[i].src = 'http://www.estara.com/' + preloadImages.arguments[i];
+      imageArray[i].src = 'http://www.estara.com/images/' + preloadImages.arguments[i];
     }
   }
 
   return imageArray;
 }
 
-function changeImages() 
+function changeImages()
 {
   if (document.images)
     for (var i = 0; i < changeImages.arguments.length; i += 2)
       document[changeImages.arguments[i]].src = changeImages.arguments[i + 1];
 }
 
-var flashanimationclicked = false;
-function onclickFlashAnimation(flashid)
+function toggle_div(divid)
 {
-  flashanimationclicked = true;
-  webVoicePop('AuthorizeURL=http://as00.estara.com/leads/authorizeurl.php?accountid=200008070000','Template=846');}
-
-function change_on(elt)
-{
-  document.getElementById(elt).height = '33';
-  document[elt + '_left'].src = 'images/tab_left_on.gif';
-  document.getElementById(elt + '_middle').style.background = 'url(images/tab_middle_on.gif)';
-  document[elt + '_right'].src = 'images/tab_right_on.gif';
+  var mydiv = document.getElementById('navitem' + divid);
+  var mydivimage = document.getElementById('navitemimage' + divid);
+  if (mydiv.style.display == 'none') {
+    mydiv.style.display = '';
+    mydivimage.src = 'images/new_arrow_down.gif';
+  } else {
+    mydiv.style.display = 'none';
+    mydivimage.src = 'images/new_arrow_right.gif';
+  }
 }
 
-function change_off(elt)
-{
-  document.getElementById(elt).height = '28';
-  document[elt + '_left'].src = 'images/tab_left.gif';
-  document.getElementById(elt + '_middle').style.background = 'url(images/tab_middle.gif)';
-  document[elt + '_right'].src = 'images/tab_right.gif';
-}
-
-function change_wc_on(elt)
-{
-  document.getElementById(elt).height = '44';
-  document[elt + '_left'].src = 'images/tab_wc_left_on.gif';
-  document.getElementById(elt + '_middle').style.background = 'url(images/tab_wc_middle_on.gif)';
-  document[elt + '_right'].src = 'images/tab_wc_right_on.gif';
-}
-
-function change_wc_off(elt)
-{
-  document.getElementById(elt).height = '39';
-  document[elt + '_left'].src = 'images/tab_wc_left.gif';
-  document.getElementById(elt + '_middle').style.background = 'url(images/tab_wc_middle.gif)';
-  document[elt + '_right'].src = 'images/tab_wc_right.gif';
-}
+var preloadedNavItemImages = preloadImages('new_arrow_down.gif', 'new_arrow_right.gif');
 </script>
-
-<meta name="keywords" content="Click to Call, internet calling, web call back, Push to Talk, live chat, voice chat, softphone, click and call, online sales tools, interactive marketing">
-<meta name="description" content="Let online customers talk to call center agents with just the click of a button.">
 </head>
 
-<body topmargin="0" marginheight="0" style="margin: 0" bgcolor="white">
+<body style="margin: 0px; background-color: #fff;">
 <center>
-<table width="755" cellspacing="0" cellpadding="0" border="0">
-
-
+<table width="752" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td width="755" height="64" valign="center" class="boldtext">
-<form class="nospace" name="languageform">
-<table width="755" style="height: 64" cellspacing="0" cellpadding="0" border="0">
+<td colspan="3"><img src="images/clear.gif" width="1" height="10" alt=""></td>
+</tr>
+
+<tr>
+<td rowspan="3" width="220" align="center" valign="middle"><img src="images/clear.gif" width="220" height="1" alt=""><br><a href="index.php"><img src="images/new_logo.gif" width="141" height="64" alt="eStara" border="0"></a></td>
+<td colspan="2" bgcolor="white" align="right" class="toptext">
+<form class="nospace" name="languageform" action="javascript:;">
+<table cellspacing="0" cellpadding="0" border="0" align="right">
 <tbody><tr>
-<td rowspan="2" width="142" height="47" align="center" valign="bottom" style="background-image:url(images/topbg1.gif)"><a href="index.php?referrer=%2Faboutus%2Fprivacy.php"><img src="images/logo.gif" width="106" height="47" border="0"></a></td>
-
-<td width="613" height="33" align="right" style="background-image:url(images/topbg2.gif)">
-<a class="boldtext" href="site_map.php">Site Map</a>
-
+<td class="toptext">
+<a class="toptext" href="company/sitemap.php">Site Map</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a class="boldtext" href="aboutus/about_contact.php">Contact Us</a>
-
+<a class="toptext" href="company/contactus.php">Contact Us</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<script type="text/javascript">
-function change_language()
-{
-  var l = document.languageform.language.options[document.languageform.language.selectedIndex].value;
-  document.location.href = '/' + l + '/aboutus/privacy.php';
-}
-</script>
-
-<select name="language" class="normaltext" onchange="change_language();">
+Language:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td>
+<select name="language" class="toptext" onchange="change_language();">
 
 <option value="en" selected="">English
-</option><option value="es">Español
+</option><option value="es">Español (España)
 </option><option value="fr">Français
 
 </option></select>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </td>
-</tr>
-
-<tr>
-<td width="613" height="31"><script type="text/javascript" src="http://as00.estara.com/webcare/webevents/webeventjs.php?accountid=200008070000&amp;Template=267&amp;screenresvar=4&amp;colordepthvar=5&amp;browservar=6&amp;osvar=7"></script>
-<noscript><img src="http://as00.estara.com/webcare/webevents/webevent.php?accountid=200008070000&amp;Template=267" border="0"></noscript></td>
 </tr>
 </tbody></table>
 </form>
@@ -156,171 +125,616 @@ function change_language()
 </tr>
 
 <tr>
-<td width="755" height="44" align="right" valign="bottom">
+<td rowspan="2" width="1"><img src="images/clear.gif" width="1" height="68" alt=""></td>
+<td width="531"><img src="images/clear.gif" width="531" height="1" alt=""></td>
+</tr>
+
+<tr>
+<td align="left" valign="bottom">
+
+
+<script type="text/javascript" src="JSCookMenu.js"></script>
+<script type="text/javascript" src="menutheme/theme.js"></script>
+<script type="text/javascript">
+
+
+document.writeln('<table width="527" cellspacing="0" cellpadding="0" border="0">');
+document.writeln('<tr>');
+document.writeln('<tr>');
+document.writeln('<td><span id="topmenu" style="z-index: 10;"><\/span><\/td>');
+document.writeln('<\/tr>');
+document.writeln('<\/table>');
+
+var topmenu =
+[
+
+
+    [null, '<table cellspacing="0" cellpadding="0" border="0"><tr><td height="9"><img src="images/clear.gif" width="1" height="9"/><\/td><\/tr><tr><td><img id="enterpriseleft" src="images/new_menuleft.gif" width="10" height="26"/><\/td><td width="50" height="26" align="center" id="enterprisetext" background="images/new_menumiddle.gif" class="menutext">Enterprise<\/td><td><img id="enterpriseright" src="images/new_menumiddle.gif" width="10" height="26"/><\/td><\/tr><\/table>', 'http://www.estara.com/enterprise/', null, 'enterprise',
+
+
+        [null, 'Online&nbsp;Sales&nbsp;Conversions', 'http://www.estara.com/enterprise/onlinesales.php', null, null
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'Website&nbsp;Abandonment', 'http://www.estara.com/enterprise/websiteabandonment.php', null, null
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'Customer&nbsp;Service', 'http://www.estara.com/enterprise/customerservice.php', null, null
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'Lead&nbsp;Generation', 'http://www.estara.com/enterprise/leadgeneration.php', null, null
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'Integrated&nbsp;Media', 'http://www.estara.com/enterprise/integrated.php', null, null
+
+
+        ],
+
+
+    ],
+
+
+    [null, '<table cellspacing="0" cellpadding="0" border="0"><tr><td height="9"><img src="images/clear.gif" width="1" height="9"/><\/td><\/tr><tr><td width="1"><img src="images/clear.gif" width="1" height="1"/><\/td><td><img id="localmedialeft" src="images/new_menumiddle.gif" width="10" height="26"/><\/td><td width="50" height="26" align="center" id="localmediatext" background="images/new_menumiddle.gif" class="menutext">Local&nbsp;Media<\/td><td><img id="localmediaright" src="images/new_menumiddle.gif" width="10" height="26"/><\/td><\/tr><\/table>', 'http://www.estara.com/localmedia/', null, 'localmedia',
+
+
+        [null, 'Pay&nbsp;per&nbsp;Call&nbsp;Solutions', 'http://www.estara.com/localmedia/paypercall.php', null, null
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'Call&nbsp;Tracking', 'http://www.estara.com/localmedia/calltracking.php', null, null
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'Revenue&nbsp;Models', 'http://www.estara.com/localmedia/revenuemodels.php', null, null
+
+
+        ],
+
+
+    ],
+
+
+    [null, '<table cellspacing="0" cellpadding="0" border="0"><tr><td height="9"><img src="images/clear.gif" width="1" height="9"/><\/td><\/tr><tr><td width="1"><img src="images/clear.gif" width="1" height="1"/><\/td><td><img id="productsleft" src="images/new_menumiddle.gif" width="10" height="26"/><\/td><td width="50" height="26" align="center" id="productstext" background="images/new_menumiddle.gif" class="menutext">Products<\/td><td><img id="productsright" src="images/new_menumiddle.gif" width="10" height="26"/><\/td><\/tr><\/table>', 'http://www.estara.com/products/', null, 'products',
+
+
+        [null, 'Click&nbsp;to&nbsp;Call', 'http://www.estara.com/products/clicktocall.php', null, null
+
+
+            , [null, 'Overview', 'http://www.estara.com/products/clicktocall.php', null, null],
+
+
+        _cmSplit
+
+
+            , [null, 'Product&nbsp;Features', 'http://www.estara.com/products/ctcfeatures.php', null, null],
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'Call&nbsp;Tracking', 'http://www.estara.com/products/calltracking.php', null, null
+
+
+            , [null, 'Overview', 'http://www.estara.com/products/calltracking.php', null, null],
+
+
+        _cmSplit
+
+
+            , [null, 'How&nbsp;it&nbsp;Works', 'http://www.estara.com/products/howitworks.php', null, null],
+
+
+        _cmSplit
+
+
+            , [null, 'We\'ve&nbsp;Got&nbsp;Your&nbsp;Numbers', 'http://www.estara.com/products/numbers.php', null, null],
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'Click&nbsp;to&nbsp;Chat', 'http://www.estara.com/products/textchat.php', null, null
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'Integrated&nbsp;Media&nbsp;Solutions', 'http://www.estara.com/products/integrated.php', null, null
+
+
+        ],
+
+
+    ],
+
+
+    [null, '<table cellspacing="0" cellpadding="0" border="0"><tr><td height="9"><img src="images/clear.gif" width="1" height="9"/><\/td><\/tr><tr><td width="1"><img src="images/clear.gif" width="1" height="1"/><\/td><td><img id="customersleft" src="images/new_menumiddle.gif" width="10" height="26"/><\/td><td width="50" height="26" align="center" id="customerstext" background="images/new_menumiddle.gif" class="menutext">Customers<\/td><td><img id="customersright" src="images/new_menumiddle.gif" width="10" height="26"/><\/td><\/tr><\/table>', 'http://www.estara.com/customers/', null, 'customers',
+
+
+        [null, 'View&nbsp;All', 'http://www.estara.com/customers/', null, null
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'View&nbsp;by&nbsp;Industry', 'http://www.estara.com/customers/vertical.php', null, null
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'View&nbsp;by&nbsp;Case&nbsp;Study', 'http://www.estara.com/customers/casestudy.php', null, null
+
+
+        ],
+
+
+    ],
+
+
+    [null, '<table cellspacing="0" cellpadding="0" border="0"><tr><td height="9"><img src="images/clear.gif" width="1" height="9"/><\/td><\/tr><tr><td width="1"><img src="images/clear.gif" width="1" height="1"/><\/td><td><img id="technologyleft" src="images/new_menumiddle.gif" width="10" height="26"/><\/td><td width="50" height="26" align="center" id="technologytext" background="images/new_menumiddle.gif" class="menutext">Technology<\/td><td><img id="technologyright" src="images/new_menumiddle.gif" width="10" height="26"/><\/td><\/tr><\/table>', 'http://www.estara.com/technology/', null, 'technology',
+
+
+        [null, 'eStara\'s&nbsp;VoIP&nbsp;Platform', 'http://www.estara.com/technology/voipplatform.php', null, null
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'WebCare', 'http://www.estara.com/technology/webcare.php', null, null
+
+
+        ],
+
+
+    ],
+
+
+    [null, '<table cellspacing="0" cellpadding="0" border="0"><tr><td height="9"><img src="images/clear.gif" width="1" height="9"/><\/td><\/tr><tr><td width="1"><img src="images/clear.gif" width="1" height="1"/><\/td><td><img id="companyleft" src="images/new_menumiddle_company.gif" width="10" height="26"/><\/td><td width="50" height="26" align="center" id="companytext" background="images/new_menumiddle_company.gif" class="menutext">Company<\/td><td><img id="companyright" src="images/new_menumiddle_company.gif" width="10" height="26"/><\/td><\/tr><\/table>', 'http://www.estara.com/company/', null, 'company',
+
+
+        [null, 'Newsroom', 'http://www.estara.com/newsroom/pressarchives.php', null, null
+
+
+            , [null, 'Media&nbsp;Coverage', 'http://www.estara.com/newsroom/pressarchives.php', null, null],
+
+
+        _cmSplit
+
+
+            , [null, 'Press&nbsp;Releases', 'http://www.estara.com/newsroom/pressreleases.php', null, null],
+
+
+        _cmSplit
+
+
+            , [null, 'Analyst&nbsp;Highlights', 'http://www.estara.com/newsroom/analysthighlights.php', null, null],
+
+
+        _cmSplit
+
+
+            , [null, 'Upcoming&nbsp;Events', 'http://www.estara.com/newsroom/events.php', null, null],
+
+
+        _cmSplit
+
+
+            , [null, 'Speaking&nbsp;Requests', 'http://www.estara.com/newsroom/speakingrequest.php', null, null],
+
+
+        _cmSplit
+
+
+            , [null, '', '', null, null],
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'Resource&nbsp;Center', 'http://www.estara.com/resourcecenter/', null, null
+
+
+            , [null, 'White&nbsp;Papers', 'http://www.estara.com/resourcecenter/whitepapers.php', null, null],
+
+
+        _cmSplit
+
+
+            , [null, 'Case&nbsp;Studies', 'http://www.estara.com/resourcecenter/casestudies.php', null, null],
+
+
+        _cmSplit
+
+
+            , [null, 'Data&nbsp;Sheets', 'http://www.estara.com/resourcecenter/datasheets.php', null, null],
+
+
+        _cmSplit
+
+
+            , [null, 'Analyst&nbsp;Reports', 'http://www.estara.com/resourcecenter/analystreports.php', null, null],
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'About&nbsp;Us', 'http://www.estara.com/company/', null, null
+
+
+            , [null, 'Management&nbsp;Team', 'http://www.estara.com/company/management.php', null, null],
+
+
+        _cmSplit
+
+
+            , [null, 'Company&nbsp;Timeline', 'http://www.estara.com/company/timeline.php', null, null],
+
+
+        _cmSplit
+
+
+            , [null, 'Employment', 'http://www.estara.com/company/employment.php', null, null],
+
+
+        ],
+
+
+        _cmSplit,
+
+
+        [null, 'Contact&nbsp;Us', 'http://www.estara.com/company/contactus.php', null, null
+
+
+        ],
+
+
+    ],
+
+
+    [null, '<table cellspacing="0" cellpadding="0" border="0"><tr><td width="1"><img src="images/clear.gif" width="1" height="1"/><\/td><td><img id="webcareleft" src="images/new_menuleft_wc.gif" width="10" height="35"/><\/td><td width="81" height="35" align="center" id="webcaretext" background="images/new_menubackground_wc.gif" class="menutextwc"><img src="images/new_menuicon_wc.gif" width="13" height="13"/><br />WebCare&nbsp;Tools<\/td><td><img id="webcareright" src="images/new_menuright_wc.gif" width="10" height="35"/><\/td><\/tr><\/table>', 'https://webcare.estara.com/', null, ,
+
+
+    ],
+
+
+];
+
+var preloadedTopMenuImages = preloadImages('new_menuleft_enterprise.gif', 'new_menumiddle_enterprise.gif', 'new_menuleft_enterprise_down.gif', 'new_menumiddle_enterprise_down.gif', 'new_menumiddle_localmedia.gif', 'new_menumiddle_localmedia_down.gif', 'new_menumiddle_products.gif', 'new_menumiddle_products_down.gif', 'new_menumiddle_customers.gif', 'new_menumiddle_customers_down.gif', 'new_menumiddle_technology.gif', 'new_menumiddle_technology_down.gif', 'new_menumiddle_company.gif', 'new_menumiddle_company_down.gif');
+
+function hide_flash()
+{
+  if (document.getElementById && document.getElementById('topflash'))
+    document.getElementById('topflash').innerHTML = '<img src="images/new_home_right.gif" width="531" height="138" alt=""/>';
+}
+
+
+function enterprise_on()
+{
+    document.getElementById('enterpriseleft').src = 'images/new_menuleft_enterprise.gif';
+    document.getElementById('enterprisetext').style.background = 'url(http://www.estara.com/images/new_menumiddle_enterprise.gif)';
+    document.getElementById('enterpriseright').src = 'images/new_menumiddle_enterprise.gif';
+}
+function enterprise_down()
+{
+    document.getElementById('enterpriseleft').src = 'images/new_menuleft_enterprise_down.gif';
+    document.getElementById('enterprisetext').style.background = 'url(http://www.estara.com/images/new_menumiddle_enterprise_down.gif)';
+    document.getElementById('enterpriseright').src = 'images/new_menumiddle_enterprise_down.gif';
+}
+function enterprise_off()
+{
+    document.getElementById('enterpriseleft').src = 'images/new_menuleft.gif';
+    document.getElementById('enterprisetext').style.background = 'url(http://www.estara.com/images/new_menumiddle.gif)';
+    document.getElementById('enterpriseright').src = 'images/new_menumiddle.gif';
+}
+
+function localmedia_on()
+{
+    document.getElementById('localmedialeft').src = 'images/new_menumiddle_localmedia.gif';
+    document.getElementById('localmediatext').style.background = 'url(http://www.estara.com/images/new_menumiddle_localmedia.gif)';
+    document.getElementById('localmediaright').src = 'images/new_menumiddle_localmedia.gif';
+}
+function localmedia_down()
+{
+    document.getElementById('localmedialeft').src = 'images/new_menumiddle_localmedia_down.gif';
+    document.getElementById('localmediatext').style.background = 'url(http://www.estara.com/images/new_menumiddle_localmedia_down.gif)';
+    document.getElementById('localmediaright').src = 'images/new_menumiddle_localmedia_down.gif';
+}
+function localmedia_off()
+{
+    document.getElementById('localmedialeft').src = 'images/new_menumiddle.gif';
+    document.getElementById('localmediatext').style.background = 'url(http://www.estara.com/images/new_menumiddle.gif)';
+    document.getElementById('localmediaright').src = 'images/new_menumiddle.gif';
+}
+
+function products_on()
+{
+    document.getElementById('productsleft').src = 'images/new_menumiddle_products.gif';
+    document.getElementById('productstext').style.background = 'url(http://www.estara.com/images/new_menumiddle_products.gif)';
+    document.getElementById('productsright').src = 'images/new_menumiddle_products.gif';
+}
+function products_down()
+{
+    document.getElementById('productsleft').src = 'images/new_menumiddle_products_down.gif';
+    document.getElementById('productstext').style.background = 'url(http://www.estara.com/images/new_menumiddle_products_down.gif)';
+    document.getElementById('productsright').src = 'images/new_menumiddle_products_down.gif';
+}
+function products_off()
+{
+    document.getElementById('productsleft').src = 'images/new_menumiddle.gif';
+    document.getElementById('productstext').style.background = 'url(http://www.estara.com/images/new_menumiddle.gif)';
+    document.getElementById('productsright').src = 'images/new_menumiddle.gif';
+}
+
+function customers_on()
+{
+    document.getElementById('customersleft').src = 'images/new_menumiddle_customers.gif';
+    document.getElementById('customerstext').style.background = 'url(http://www.estara.com/images/new_menumiddle_customers.gif)';
+    document.getElementById('customersright').src = 'images/new_menumiddle_customers.gif';
+}
+function customers_down()
+{
+    document.getElementById('customersleft').src = 'images/new_menumiddle_customers_down.gif';
+    document.getElementById('customerstext').style.background = 'url(http://www.estara.com/images/new_menumiddle_customers_down.gif)';
+    document.getElementById('customersright').src = 'images/new_menumiddle_customers_down.gif';
+}
+function customers_off()
+{
+    document.getElementById('customersleft').src = 'images/new_menumiddle.gif';
+    document.getElementById('customerstext').style.background = 'url(http://www.estara.com/images/new_menumiddle.gif)';
+    document.getElementById('customersright').src = 'images/new_menumiddle.gif';
+}
+
+function technology_on()
+{
+    document.getElementById('technologyleft').src = 'images/new_menumiddle_technology.gif';
+    document.getElementById('technologytext').style.background = 'url(http://www.estara.com/images/new_menumiddle_technology.gif)';
+    document.getElementById('technologyright').src = 'images/new_menumiddle_technology.gif';
+}
+function technology_down()
+{
+    document.getElementById('technologyleft').src = 'images/new_menumiddle_technology_down.gif';
+    document.getElementById('technologytext').style.background = 'url(http://www.estara.com/images/new_menumiddle_technology_down.gif)';
+    document.getElementById('technologyright').src = 'images/new_menumiddle_technology_down.gif';
+}
+function technology_off()
+{
+    document.getElementById('technologyleft').src = 'images/new_menumiddle.gif';
+    document.getElementById('technologytext').style.background = 'url(http://www.estara.com/images/new_menumiddle.gif)';
+    document.getElementById('technologyright').src = 'images/new_menumiddle.gif';
+}
+
+function company_on()
+{
+    document.getElementById('companyleft').src = 'images/new_menumiddle_company.gif';
+    document.getElementById('companytext').style.background = 'url(http://www.estara.com/images/new_menumiddle_company.gif)';
+    document.getElementById('companyright').src = 'images/new_menumiddle_company.gif';
+}
+function company_down()
+{
+    document.getElementById('companyleft').src = 'images/new_menumiddle_company_down.gif';
+    document.getElementById('companytext').style.background = 'url(http://www.estara.com/images/new_menumiddle_company_down.gif)';
+    document.getElementById('companyright').src = 'images/new_menumiddle_company_down.gif';
+}
+function company_off()
+{
+    document.getElementById('companyleft').src = 'images/new_menumiddle_company.gif';
+    document.getElementById('companytext').style.background = 'url(http://www.estara.com/images/new_menumiddle_company.gif)';
+    document.getElementById('companyright').src = 'images/new_menumiddle_company.gif';
+}
+
+function webcare_on()
+{
+    document.getElementById('webcareleft').src = 'images/new_menuleft_wc_webcare.gif';
+    document.getElementById('webcaretext').style.background = 'url(http://www.estara.com/images/new_menubackground_wc_webcare.gif)';
+    document.getElementById('webcareright').src = 'images/new_menuright_wc_webcare.gif';
+}
+function webcare_down()
+{
+    document.getElementById('webcareleft').src = 'images/new_menuleft_wc_webcare_down.gif';
+    document.getElementById('webcaretext').style.background = 'url(http://www.estara.com/images/new_menubackground_wc_webcare_down.gif)';
+    document.getElementById('webcareright').src = 'images/new_menuright_wc_webcare_down.gif';
+}
+function webcare_off()
+{
+    document.getElementById('webcareleft').src = 'images/new_menuleft_wc.gif';
+    document.getElementById('webcaretext').style.background = 'url(http://www.estara.com/images/new_menubackground_wc.gif)';
+    document.getElementById('webcareright').src = 'images/new_menuright_wc.gif';
+}
+
+cmDraw ('topmenu', topmenu, 'hbr', cmmenutheme, 'menutheme', '');
+</script><table width="527" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+</tr><tr>
+<td><span id="topmenu" style="z-index: 10;"></span></td>
+</tr>
+</tbody></table>
+
+<noscript>
+
+<table cellspacing="0" cellpadding="0" border="0" width="527">
+<tr>
+<td colspan="24" height="9"><img src="images/clear.gif" width="1" height="9" alt=""/></td>
+<td rowspan="2" style="cursor: pointer; cursor: hand;" onclick="location.href = 'https://webcare.estara.com/';"><img src="images/new_menuleft_wc.gif" alt=""/></td>
+<td width="81" align="center" rowspan="2" style="cursor: pointer; cursor: hand; background: url(images/new_menubackground_wc.gif);" onclick="location.href = 'https://webcare.estara.com/';"><a class="menutextwc" href="https://webcare.estara.com/"><img src="images/new_menuicon_wc.gif" alt="" border="0"/><br />WebCare&nbsp;Tools</a></td>
+<td rowspan="2" style="cursor: pointer; cursor: hand;" onclick="location.href = 'https://webcare.estara.com/';"><img src="images/new_menuright_wc.gif" alt=""/></td>
+</tr>
+
+<tr>
+
+
+<td style="cursor: pointer; cursor: hand;" onclick="location.href = 'http://www.estara.com/enterprise/';"><img src="images/new_menuleft.gif" alt=""/></td>
+<td width="50" align="center" style="cursor: pointer; cursor: hand; background: url(images/new_menumiddle.gif);" onclick="location.href = 'http://www.estara.com/enterprise/';"><a class="menutext" href="enterprise">Enterprise</a></td>
+<td style="cursor: pointer; cursor: hand;" onclick="location.href = 'http://www.estara.com/enterprise/';"><img src="images/new_menumiddle.gif" alt=""/></td>
+
+
+<td width="1"><img src="images/clear.gif" width="1" height="1" alt=""/></td>
+
+
+<td style="cursor: pointer; cursor: hand;" onclick="location.href = 'http://www.estara.com/localmedia/';"><img src="images/new_menumiddle.gif" alt=""/></td>
+<td width="50" align="center" style="cursor: pointer; cursor: hand; background: url(images/new_menumiddle.gif);" onclick="location.href = 'http://www.estara.com/localmedia/';"><a class="menutext" href="localmedia">Local&nbsp;Media</a></td>
+<td style="cursor: pointer; cursor: hand;" onclick="location.href = 'http://www.estara.com/localmedia/';"><img src="images/new_menumiddle.gif" alt=""/></td>
+
+
+<td width="1"><img src="images/clear.gif" width="1" height="1" alt=""/></td>
+
+
+<td style="cursor: pointer; cursor: hand;" onclick="location.href = 'http://www.estara.com/products/';"><img src="images/new_menumiddle.gif" alt=""/></td>
+<td width="50" align="center" style="cursor: pointer; cursor: hand; background: url(images/new_menumiddle.gif);" onclick="location.href = 'http://www.estara.com/products/';"><a class="menutext" href="products">Products</a></td>
+<td style="cursor: pointer; cursor: hand;" onclick="location.href = 'http://www.estara.com/products/';"><img src="images/new_menumiddle.gif" alt=""/></td>
+
+
+<td width="1"><img src="images/clear.gif" width="1" height="1" alt=""/></td>
+
+
+<td style="cursor: pointer; cursor: hand;" onclick="location.href = 'http://www.estara.com/customers/';"><img src="images/new_menumiddle.gif" alt=""/></td>
+<td width="50" align="center" style="cursor: pointer; cursor: hand; background: url(images/new_menumiddle.gif);" onclick="location.href = 'http://www.estara.com/customers/';"><a class="menutext" href="customers">Customers</a></td>
+<td style="cursor: pointer; cursor: hand;" onclick="location.href = 'http://www.estara.com/customers/';"><img src="images/new_menumiddle.gif" alt=""/></td>
+
+
+<td width="1"><img src="images/clear.gif" width="1" height="1" alt=""/></td>
+
+
+<td style="cursor: pointer; cursor: hand;" onclick="location.href = 'http://www.estara.com/technology/';"><img src="images/new_menumiddle.gif" alt=""/></td>
+<td width="50" align="center" style="cursor: pointer; cursor: hand; background: url(images/new_menumiddle.gif);" onclick="location.href = 'http://www.estara.com/technology/';"><a class="menutext" href="technology">Technology</a></td>
+<td style="cursor: pointer; cursor: hand;" onclick="location.href = 'http://www.estara.com/technology/';"><img src="images/new_menumiddle.gif" alt=""/></td>
+
+
+<td width="1"><img src="images/clear.gif" width="1" height="1" alt=""/></td>
+
+
+<td style="cursor: pointer; cursor: hand;" onclick="location.href = 'http://www.estara.com/company/';"><img src="images/new_menumiddle.gif" alt=""/></td>
+<td width="50" align="center" style="cursor: pointer; cursor: hand; background: url(images/new_menumiddle.gif);" onclick="location.href = 'http://www.estara.com/company/';"><a class="menutext" href="company">Company</a></td>
+<td style="cursor: pointer; cursor: hand;" onclick="location.href = 'http://www.estara.com/company/';"><img src="images/new_menumiddle.gif" alt=""/></td>
+
+
+<td width="1"><img src="images/clear.gif" width="1" height="1" alt=""/></td>
+</tr>
+
+<tr>
+<td height="1"><img src="images/clear.gif" width="1" height="1" alt=""/></td>
+</tr>
+</table>
+
+</noscript>
+
+
+</td>
+</tr>
+
+<tr>
+<td colspan="3" align="left">
+
+<script type="text/javascript">
+var preloadedNavBarImages = preloadImages('new_company_navbar_onbg.gif');
+
+function openflashwindow(filename)
+{
+  var url = 'http://www.estara.com/flashwindow.php?filename=' + filename;
+  var windowname = 'flashwindow';
+  var features = 'width=527,height=300,menubar=no,toolbar=no,directories=no,scrollbars=no,status=no,left=100,top=100,resizable=no';
+  window.open(url, windowname, features);
+}
+</script>
+
+<table width="752" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td width="219"><img src="images/new_company_left.gif" width="219" height="114" alt=""></td>
+<td width="2"><img src="images/clear.gif" width="1" height="1" alt=""></td>
+<td width="531" height="114" style="background: url(images/new_company_right.gif);" class="header">&nbsp;&nbsp;Company<br><img src="images/clear.gif" width="1" height="8" alt=""></td>
+</tr>
+
+<tr>
+<td height="2" colspan="3"><img src="images/clear.gif" width="1" height="2" alt=""></td>
+</tr>
+
+<tr>
+<td class="navbar" height="26" colspan="3" style="background-image: url(images/new_company_navbar.gif);">
 <table cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
 
-							
-<td valign="bottom">
-<table id="home" cellspacing="0" cellpadding="0" border="0" style="height: 28; cursor: pointer; cursor: hand;" onmouseover="change_on('home');" onmouseout="change_off('home');" onclick="location.href = 'http://www.estara.com/index.php?referrer=%2Faboutus%2Fprivacy.php';">
-<tbody><tr>
-<td width="12"><img name="home_left" src="images/tab_left.gif" width="12"></td>
-<td align="center" id="home_middle" style="background-image:url(images/tab_middle.gif)"><a class="tabtext" href="index.php?referrer=%2Faboutus%2Fprivacy.php">Home</a></td>
-<td width="11"><img name="home_right" src="images/tab_right.gif" width="11"></td>
+<td style="cursor: pointer; cursor: hand;" onclick="document.location.href = 'http://www.estara.com/newsroom/pressarchives.php';" id="navbar1" onmouseover="document.getElementById('navbar1').style.background = 'url(http://www.estara.com/images/new_company_navbar_onbg.gif)';" onmouseout="document.getElementById('navbar1').style.background = '';">&nbsp;&nbsp;&nbsp;<a class="navbar" href="newsroom/pressarchives.php">Newsroom</a>&nbsp;&nbsp;&nbsp;</td><td><img src="images/white.gif" width="1" height="26" alt=""></td><td style="cursor: pointer; cursor: hand;" onclick="document.location.href = 'http://www.estara.com/resourcecenter/';" id="navbar2" onmouseover="document.getElementById('navbar2').style.background = 'url(http://www.estara.com/images/new_company_navbar_onbg.gif)';" onmouseout="document.getElementById('navbar2').style.background = '';">&nbsp;&nbsp;&nbsp;<a class="navbar" href="resourcecenter/">Resource Center</a>&nbsp;&nbsp;&nbsp;</td><td><img src="images/white.gif" width="1" height="26" alt=""></td><td style="cursor: pointer; cursor: hand;" onclick="document.location.href = 'http://www.estara.com/company/management.php';" id="navbar3" onmouseover="document.getElementById('navbar3').style.background = 'url(http://www.estara.com/images/new_company_navbar_onbg.gif)';" onmouseout="document.getElementById('navbar3').style.background = '';">&nbsp;&nbsp;&nbsp;<a class="navbar" href="company/management.php">Management Team</a>&nbsp;&nbsp;&nbsp;</td><td><img src="images/white.gif" width="1" height="26" alt=""></td><td style="cursor: pointer; cursor: hand;" onclick="document.location.href = 'http://www.estara.com/company/timeline.php';" id="navbar4" onmouseover="document.getElementById('navbar4').style.background = 'url(http://www.estara.com/images/new_company_navbar_onbg.gif)';" onmouseout="document.getElementById('navbar4').style.background = '';">&nbsp;&nbsp;&nbsp;<a class="navbar" href="company/timeline.php">Company Timeline</a>&nbsp;&nbsp;&nbsp;</td><td><img src="images/white.gif" width="1" height="26" alt=""></td><td style="cursor: pointer; cursor: hand;" onclick="document.location.href = 'http://www.estara.com/company/employment.php';" id="navbar5" onmouseover="document.getElementById('navbar5').style.background = 'url(http://www.estara.com/images/new_company_navbar_onbg.gif)';" onmouseout="document.getElementById('navbar5').style.background = '';">&nbsp;&nbsp;&nbsp;<a class="navbar" href="company/employment.php">Employment</a>&nbsp;&nbsp;&nbsp;</td><td><img src="images/white.gif" width="1" height="26" alt=""></td><td style="cursor: pointer; cursor: hand;" onclick="document.location.href = 'http://www.estara.com/company/contactus.php';" id="navbar6" onmouseover="document.getElementById('navbar6').style.background = 'url(http://www.estara.com/images/new_company_navbar_onbg.gif)';" onmouseout="document.getElementById('navbar6').style.background = '';">&nbsp;&nbsp;&nbsp;<a class="navbar" href="company/contactus.php">Contact Us</a>&nbsp;&nbsp;&nbsp;</td><td><img src="images/white.gif" width="1" height="26" alt=""></td>
 </tr>
 </tbody></table>
 </td>
-
-							
-<td valign="bottom">
-<table id="servicesandproducts" cellspacing="0" cellpadding="0" border="0" style="height: 28; cursor: pointer; cursor: hand;" onmouseover="change_on('servicesandproducts');" onmouseout="change_off('servicesandproducts');" onclick="location.href = 'http://www.estara.com/services/';">
-<tbody><tr>
-<td width="12"><img name="servicesandproducts_left" src="images/tab_left.gif" width="12"></td>
-<td align="center" id="servicesandproducts_middle" style="background-image:url(images/tab_middle.gif)"><a class="tabtext" href="services/">Services &amp; Products</a></td>
-<td width="11"><img name="servicesandproducts_right" src="images/tab_right.gif" width="11"></td>
 </tr>
 </tbody></table>
-</td>
 
-							
-<td valign="bottom">
-<table id="customers" cellspacing="0" cellpadding="0" border="0" style="height: 28; cursor: pointer; cursor: hand;" onmouseover="change_on('customers');" onmouseout="change_off('customers');" onclick="location.href = 'http://www.estara.com/services/customers.php';">
+<table width="752" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td width="12"><img name="customers_left" src="images/tab_left.gif" width="12"></td>
-<td align="center" id="customers_middle" style="background-image:url(images/tab_middle.gif)"><a class="tabtext" href="services/customers.php">Customers</a></td>
-<td width="11"><img name="customers_right" src="images/tab_right.gif" width="11"></td>
-</tr>
-</tbody></table>
-</td>
+<td width="2" bgcolor="#ddddde"><img src="images/clear.gif" width="2" height="1" alt=""></td>
 
-							
-<td valign="bottom">
-<table id="estaraxtras" cellspacing="0" cellpadding="0" border="0" style="height: 28; cursor: pointer; cursor: hand;" onmouseover="change_on('estaraxtras');" onmouseout="change_off('estaraxtras');" onclick="location.href = 'http://www.estara.com/services/xtras.php';">
-<tbody><tr>
-<td width="12"><img name="estaraxtras_left" src="images/tab_left.gif" width="12"></td>
-<td align="center" id="estaraxtras_middle" style="background-image:url(images/tab_middle.gif)"><a class="tabtext" href="services/xtras.php">eStara Xtras</a></td>
-<td width="11"><img name="estaraxtras_right" src="images/tab_right.gif" width="11"></td>
-</tr>
-</tbody></table>
-</td>
+<td width="7"><img src="images/clear.gif" width="7" height="1" alt=""></td>
 
-							
-<td valign="bottom">
-<table id="estaratechnology" cellspacing="0" cellpadding="0" border="0" style="height: 28; cursor: pointer; cursor: hand;" onmouseover="change_on('estaratechnology');" onmouseout="change_off('estaratechnology');" onclick="location.href = 'http://www.estara.com/services/technology.php';">
-<tbody><tr>
-<td width="12"><img name="estaratechnology_left" src="images/tab_left.gif" width="12"></td>
-<td align="center" id="estaratechnology_middle" style="background-image:url(images/tab_middle.gif)"><a class="tabtext" href="services/technology.php">eStara Technology</a></td>
-<td width="11"><img name="estaratechnology_right" src="images/tab_right.gif" width="11"></td>
-</tr>
-</tbody></table>
-</td>
-
-							
-<td valign="bottom">
-<table id="company" cellspacing="0" cellpadding="0" border="0" style="height: 28; cursor: pointer; cursor: hand;" onmouseover="change_on('company');" onmouseout="change_off('company');" onclick="location.href = 'http://www.estara.com/aboutus/';">
-<tbody><tr>
-<td width="12"><img name="company_left" src="images/tab_left.gif" width="12"></td>
-<td align="center" id="company_middle" style="background-image:url(images/tab_middle.gif)"><a class="tabtext" href="aboutus/">Company</a></td>
-<td width="11"><img name="company_right" src="images/tab_right.gif" width="11"></td>
-</tr>
-</tbody></table>
-</td>
+<td width="528" valign="top">
 
 
-<td valign="bottom">
-<table id="webcaretoolsentrance" cellspacing="0" cellpadding="0" border="0" style="height: 39; cursor: pointer; cursor: hand;" onmouseover="change_wc_on('webcaretoolsentrance');" onmouseout="change_wc_off('webcaretoolsentrance');" onclick="location.href = 'https://webcare.estara.com/';">
-<tbody><tr>
-<td width="12"><img name="webcaretoolsentrance_left" src="images/tab_wc_left.gif" width="12"></td>
-<td align="center" id="webcaretoolsentrance_middle" style="background-image:url(images/tab_wc_middle.gif)"><a class="tabtext" href="https://webcare.estara.com/">WebCare Tools<br>Entrance</a></td>
-<td width="24"><img name="webcaretoolsentrance_right" src="images/tab_wc_right.gif" width="24"></td>
-</tr></tbody></table></td></tr></tbody></table></td></tr>
+<div class="parentnavbar">&nbsp;<a class="parentnavbar" href="index.php">HOME</a> &gt; <a class="parentnavbar" href="company/index.php">COMPANY</a> &gt; <a class="parentnavbar" href="company/privacy.php">PRIVACY STATEMENT AND ONLINE MERCHANT POLICIES</a></div>
 
 
-<tr>
-<td align="left">
-
-<table width="755" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td rowspan="2" width="1" height="12"><img src="images/topleftcorner1.gif" width="1" height="12"></td>
-
-<td rowspan="2" width="13" height="12" bgcolor="#F0F7FC"><img src="images/topleftcorner3.gif" width="13" height="12"></td>
-
-<td colspan="4" width="741" height="1" bgcolor="#91AFC4"><img src="images/clear.gif" width="741" height="1"></td>
-</tr>
-
-<tr>
-<td width="131" height="11" bgcolor="#95B9D1"><img src="images/clear.gif" width="131" height="1"></td>
-
-<td width="1" height="11" bgcolor="#91AFC4"><img src="images/clear.gif" width="1" height="1"></td>
-
-<td colspan="1" width="608" height="11"><img src="images/clear.gif" width="608" height="1"></td>
-
-<td width="1" height="11" bgcolor="#91AFC4"><img src="images/clear.gif" width="1" height="1"></td>
-</tr>
-
-<tr>
-<td width="1" bgcolor="#91AFC4"><img src="images/clear.gif" width="1" height="1"></td>
-
-<td colspan="2" width="144" bgcolor="#F0F7FC" valign="top">
-
-
-<div><a href="javascript:webVoicePop('AuthorizeURL=http://as00.estara.com/leads/authorizeurl.php?accountid=200008070000','Template=846');"><img src="images/ptt_small.gif" border="0"></a></div>
-
-<div><img src="images/ptt_bg.gif" width="144" height="11"></div>
+<div class="pageheader">Privacy Statement and Online Merchant Policies<br><img src="images/new_separator_pageheader.gif" width="528" height="2" alt=""></div>
 
 
 
-
-
-
-
-
-
-<br>
-
-<div class="sidebarheader">Quote</div>
-
-
-<div class="sidebarbold">"96% of 'high-spenders' (&gt;$500/six months) use online voice-based services for customer contact."</div>
-
-<div class="sidebartext" align="right">--Jupiter Research</div>
-
-
-
-<br>
-
-<form name="emailform" method="post" action="aboutus/alerts_thanks.php" onsubmit="if (document.emailform.email.value == 'email address') document.emailform.email.value = ''; return true;">
-<table width="100%" cellspacing="5" cellpadding="0" border="0">
-<tbody><tr>
-<td class="sidebarheader">eStara Newsletter</td>
-</tr>
-
-<tr>
-<td align="center"><input type="text" style="font-size: 10px; width: 95%;" name="email" value="email address" size="13" onfocus="document.emailform.email.value = '';"></td>
-
-</tr>
-
-<tr>
-<td align="center"><input type="submit" style="background: #F6F6F2; color: 
-#000000; cursor: hand; font-size: 10px;" value="Sign me up!"></td>
-</tr>
-</tbody></table>
-</form>
-
-
-<br>
-
-</td>
-
-<td width="1" bgcolor="#91AFC4"><img src="images/clear.gif" width="1" height="1"></td>
-
-<td width="608" valign="top">
-
-<div class="pageheader"></div>
-
-
-<div class="pagebody" align="left">
-<b>eStara Privacy Statement</b> <br>eStara Inc. ("eStara") is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for the eStara website located at <a class="boldlink" href="http://www.estara.com/">http://www.estara.com/</a> ("the Site"). 
+<div class="pagebody"><p><strong>eStara Privacy Statement</strong> <br>eStara Inc. ("eStara") is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for the eStara website located at <a class="boldlink" href="http://www.estara.com/"><font face="Helvetica" color="#0071b8">http://www.estara.com/</font></a> ("the Site"). </p>
 <p class="COPY"><a href="http://www.truste.org/ivalidate.php?url=www.estara.com&amp;sealid=101"><img src="/images/clickseal-nobox-aliased2white.gif" align="right" border="0"></a> TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because eStara wants to demonstrate its commitment to your privacy, it has agreed to disclose its information gathering practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, eStara has agreed to notify you of: 
 </p><ol>
 <li class="COPY">What personally identifiable information of yours or third party personally identifiable information is collected from you through the Site 
@@ -332,67 +746,480 @@ function change_language()
 </li><li class="COPY">How you can correct any inaccuracies in the information. </li></ol>
 <p class="COPY">eStara has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this Site. 
 </p><p class="COPY">eStara is committed to the highest degree of privacy of visitors to our Site. eStara adheres to the Safe Harbor Principles promulgated by the United States Department of Commerce to comply with European Union privacy protection requirements. We will keep any and all information collected at this Site strictly confidential and will not sell, trade or otherwise convey the identity, address or any other information, including personally identifiable information, regarding its users or viewers to outside parties. The information we collect is used to disseminate information directly to users who have requested such information and to improve the content of our Site and our web voice service. It is not shared with other organizations for commercial purposes. 
-</p><p class="COPY"><b>Security</b></p>
-<p class="COPY">The security of your personal information is important to us.&nbsp; When you enter sensitive information (such as credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL).&nbsp; To learn more about SSL, click <a class="boldlink" href="http://www.nwfusion.com/details/473.html" target="_blank">here</a>.</p>
+</p><p class="COPY"><b>Online Merchant Policies</b></p>
+<p class="COPY">All sales are final.</p>
+<p class="COPY">The customer will receive email confirmation of all online payments.</p>
+<p class="COPY"><b>Security</b></p>
+<p class="COPY">The security of your personal information is important to us.&nbsp; When you enter sensitive information (such as credit card number) on our order forms, we encrypt that information using secure socket layer technology (SSL).&nbsp; To learn more about SSL, click <a class="boldlink" href="http://www.nwfusion.com/details/473.html" target="_blank"><font face="Helvetica" color="#0071b8">here</font></a>.</p>
 <p class="COPY">We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.&nbsp; No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.&nbsp; Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
-<p class="COPY">If you have any questions about security on our Web site, you can email us at <a class="boldlink" href="mailto:marketing@estara.com">marketing@estara.com</a>.</p>
+<p class="COPY">If you have any questions about security on our Web site, you can email us at <a class="boldlink" href="mailto:marketing@estara.com"><font face="Helvetica" color="#0071b8">marketing@estara.com</font></a>.</p>
 <p class="COPY"><b>Statistical Information About Your Visit</b> <br>When you visit our website, our computers may automatically collect statistics about your visit. This information does not identify you personally, but rather about a visit to our site. We may monitor statistics such as how many people visit our site, the user's IP address, which pages people visit, from which domains our visitors come and which browsers people use. We use these statistics about your visit for aggregation purposes only. These statistics are used to help us improve the performance of our Web site. 
-</p><p class="COPY"><b>eStara Surveys</b> <br>eStara may offer Push to Talk users and website visitors the choice to participate in online surveys. The survey tool gives eStara real-time insight into the needs and interests of Push to Talk users via a short online questionnaire. The purpose of the online survey is to better serve eStara customers and web site visitors. The information collected through the surveys is not sold or used for any explicit commercial purpose. 
+</p><p class="COPY"><b>eStara Surveys</b> <br>eStara may offer Click to Call users and website visitors the choice to participate in online surveys. The survey tool gives eStara real-time insight into the needs and interests of Click to Call users via a short online questionnaire. The purpose of the online survey is to better serve eStara customers and web site visitors. The information collected through the surveys is not sold or used for any explicit commercial purpose. 
 </p><p class="COPY"><b>Browser Information</b> <br>As is standard practice for most websites, eStara analyzes its website logs to improve the value of its Site and web voice service. These files automatically log such information as this includes IP addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and #of clicks. Our website logs do not contain, nor are they tied to, any personally identifiable information about any of our Site visitors. 
-</p><p class="COPY"><b>Cookies</b> <br>eStara uses a Session ID cookie solely to faciliate efficient site navigation and improve your experience on the eStara website. In addition, cookies are used to store calling information if you elect to make a "Talk by Phone" call using Push to Talk, solely for the purpose of connecting the Push to Talk calls. We do link the information we store in cookies to any personally identifiable information you submit while on our site. 
+</p><p class="COPY"><b>Cookies</b> <br>eStara uses a Session ID cookie solely to faciliate efficient site navigation and improve your experience on the eStara website. In addition, cookies are used to store calling information if you elect to make a "Talk by Phone" call using Click to Call, solely for the purpose of connecting the Click to Call ctransactions.&nbsp; We do link the information we store in cookies to any personally identifiable information you submit while on our site. 
 </p><p class="COPY"><b>Web Beacons</b> <br>eStara may also use electronic images (known as Web Beacons or "single-pixel GIF") in accordance with TRUSTe "best practices" guidelines for Web Beacon use. Web Beacons are used by a wide variety of online companies to aggregate data about site traffic, generate unique visitors counts, and to understand how website visitors use various online services. eStara uses Web Beacons in the following ways: 
 </p><ol>
 <li class="COPY">eStara uses web beacons to conduct research on behalf of certain customers on their web sites and also for auditing purposes. 
-</li><li class="COPY">Information recorded through these web beacons is used to report aggregate information about eStara Push to Talk users to our customers. This aggregate information may include demographic and usage information. 
-</li><li class="COPY">When conducting research eStara's practice is to encourage our customers to disclose the presence of these web beacons on their pages in their privacy policies and state what choices are available to users regarding the collection and use of this information. You may choose to opt-out of eStara using this information for this research. Please contact <a class="boldlink" href="mailto:marketing@estara.com">marketing@estara.com</a> to opt-out. </li></ol>
+</li><li class="COPY">Information recorded through these web beacons is used to report aggregate information about eStara Click to Call users to our customers. This aggregate information may include demographic and usage information. 
+</li><li class="COPY">When conducting research eStara's practice is to encourage our customers to disclose the presence of these web beacons on their pages in their privacy policies and state what choices are available to users regarding the collection and use of this information. You may choose to opt-out of eStara using this information for this research. Please contact <a class="boldlink" href="mailto:marketing@estara.com"><font face="Helvetica" color="#0071b8">marketing@estara.com</font></a> to opt-out. </li></ol>
 <p class="COPY"><b>Links to Other Sites</b> <br>This web site contains links to other sites. Please be aware that eStara is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Site. 
 </p><p class="COPY"><b>eStara Alerts</b> <br>eStara maintains several email lists to keep individuals informed about eStara, breaking events, upcoming dates and other issues related to eStara. Individuals must affirmatively request to join our mailing list. We do not sell, rent, loan, trade or lease the addresses on our lists or any additional contact information collected on the Site to anyone. In addition, our databases are restricted to authorized eStara staff. 
 </p><p class="COPY"><b>Information Collection and Use</b> <br>The Site includes several forms which ask the user for contact information, including name, company name, e-mail address, zip code and phone number. 
 </p><p class="COPY">When you are on our Site and are asked for personally identifiable information, you are sharing that information with eStara alone, unless otherwise stated. The use of this information is for a particular internal purpose (such as employment opportunities), which is specifically stated. The only contact (typically phone or email) the user will receive from the site is to follow up on business inquiries regarding our web voice services, respond to feedback, respond to requests for information or respond to a submitted resume. Typically when following up with business inquiries we supplement your information with business entity verification information (like Dun and Bradstreet) as well as other publicly available sources of information. 
-</p><p class="COPY">eStara provides Push To Talk voice links and email links located on our Site's Contact Us page and elsewhere to allow you to contact us directly with any questions or comments you may have. We read all messages sent in and try to respond promptly. This information is used to reply directly to your questions or comments. We may also use your comments to improve the Site. 
-</p><p class="COPY">eStara provides its web voice services to third parties for use on their websites. eStara is not responsible for the information collection practices of these third parties' websites. When you utilize our web voice services from these third party websites we collect only non-personally identifying information such as your browser type and IP address.
-</p><p class="COPY"><strong>Newsletters</strong><br>If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.&nbsp; Out of respect for your privacy, we provide you a way to unsubscribe.&nbsp; Please see the “Choice and Opt-out” section.
-</p><p class="COPY"><b>Choice/Opt-Out</b> <br>Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or emailing us at <a class="boldlink" href="mailto:marketing@estara.com">marketing@estara.com</a>. 
-</p><p class="COPY"><b>Update Information</b> <br>eStara does not store user and/or customer information online or make it available for online update except for authorized users of our customer service portal. As a result, you will not be able to actively update your information. If you would like to update your information, please contact an eStara representative at <a class="boldlink" href="mailto:marketing@estara.com">marketing@estara.com</a> or submit an eStara Alerts form. 
+</p><p class="COPY">eStara provides Click to Call voice links and email links located on our Site's Contact Us page and elsewhere to allow you to contact us directly with any questions or comments you may have. We read all messages sent in and try to respond promptly. This information is used to reply directly to your questions or comments. We may also use your comments to improve the Site. 
+</p><p class="COPY">eStara provides its web voice services to third parties for use on their websites. eStara is not responsible for the information collection practices of these third parties' websites. When you utilize our web voice services from these third party websites we collect only non-personally identifying information such as your browser type and IP address. 
+</p><p class="COPY"><strong>Newsletters</strong><br>If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.&nbsp; Out of respect for your privacy, we provide you a way to unsubscribe.&nbsp; Please see the “Choice and Opt-out” section. 
+</p><p class="COPY"><b>Choice/Opt-Out</b> <br>Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or emailing us at <a class="boldlink" href="mailto:marketing@estara.com"><font face="Helvetica" color="#0071b8">marketing@estara.com</font></a>. 
+</p><p class="COPY"><b>Update Information</b> <br>eStara does not store user and/or customer information online or make it available for online update except for authorized users of our customer service portal. As a result, you will not be able to actively update your information. If you would like to update your information, please contact an eStara representative at <a class="boldlink" href="mailto:marketing@estara.com"><font face="Helvetica" color="#0071b8">marketing@estara.com</font></a> or submit an eStara Alerts form. 
 </p><p><b>Notification of Changes</b> <br>If we decide to change our privacy policy, we will post those changes on our Site so users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If, in addition, we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. However, if you have opted out of all communication with the site, or deleted/deactivated your contact information, then you will not be contacted. Nor will your personal information be used in this new manner. </p>
 <p><strong>Special Cases <br></strong>It is eStara policy not to use or share the personal information about users of our services in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. However, eStara may disclose personal information about users, or information regarding your use of our services, for any reason if, in our sole discretion, the information is required to prevent the abuse of our services, to comply with governmental or legal requests for such information or to identify, contact, or bring legal action against someone who may be using eStara services in an attempt to harass a third party or otherwise violate acceptable use of our services. </p>
-<p>A more detailed explanation about how we safeguard your personal information is described below. If you have any additional questions, please don't hesitate to let us know by emailing us at <a class="boldlink" href="mailto:marketing@estara.com">marketing@estara.com</a>. </p>
+<p>A more detailed explanation about how we safeguard your personal information is described below. If you have any additional questions, please don't hesitate to let us know by emailing us at <a class="boldlink" href="mailto:marketing@estara.com"><font face="Helvetica" color="#0071b8">marketing@estara.com</font></a>. </p>
 <p><b>Disclaimer</b> <br>Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. </p>
-<p class="COPY">If you have any questions or concerns regarding this statement, you should first contact eStara by emailing at <a class="boldlink" href="mailto:marketing@estara.com">marketing@estara.com</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <a class="boldlink" href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a>. TRUSTe will serve as a liaison with the Site to resolve your concerns. However, please understand the TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site.</p>
-<p class="COPY"><strong>Effective Date:</strong>&nbsp; Through December 31, 2005</p>
+<p class="COPY">If you have any questions or concerns regarding this statement, you should first contact eStara by emailing at <a class="boldlink" href="mailto:marketing@estara.com"><font face="Helvetica" color="#0071b8">marketing@estara.com</font></a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <a class="boldlink" href="http://www.truste.org/consumers/watchdog_complaint.php"><font face="Helvetica" color="#0071b8">http://www.truste.org/consumers/watchdog_complaint.php</font></a>. TRUSTe will serve as a liaison with the Site to resolve your concerns. However, please understand the TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site.</p>
+<p class="COPY"><strong>Effective Date:</strong>&nbsp; Through December 31, 2006</p>
 <p class="COPY"><strong>Physical Address</strong>: eStara Inc., 1821 Michael Faraday Drive, Suite 100,&nbsp;Reston, VA&nbsp; 20190</p></div>
 
-
+<br>
 </td>
 
-<td width="1" bgcolor="#91AFC4"><img src="images/clear.gif" width="1" height="1"></td>
-</tr>
-</tbody></table>
 
-</td>
-</tr>
+<td width="9"><img src="images/clear.gif" width="9" height="1" alt=""></td>
+
+<td width="200" valign="top">
+<table width="200" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><td height="20"><img src="images/clear.gif" width="1" height="20" alt=""></td></tr>
+
 
 <tr>
-<td width="755" height="38">
+<td><a href="javascript:webVoicePop('AuthorizeURL=http://as00.estara.com/leads/authorizeurl.php?accountid=200008070000','Template=846');"><img src="images/new_company_ptt.gif" width="200" height="51" alt="" border="0"></a></td>
+</tr>
+
+<tr><td height="2"><img src="images/clear.gif" width="1" height="2" alt=""></td></tr>
+
+<tr>
+<td><a href="javascript:webVoicePop('AuthorizeURL=http://as00.estara.com/leads/authorizeurl.php?accountid=200008070000','Template=846');"><img src="images/new_ct_button2.gif" width="200" height="48" alt="" border="0"></a></td>
+</tr>
+
+
+<tr><td height="3"><img src="images/clear.gif" width="1" height="3" alt=""></td></tr>
+
+<tr>
+<td width="200" height="26" style="cursor: pointer; cursor: hand; background: url(images/new_company_resourcecenter.gif);" onclick="document.location.href = 'http://www.estara.com/resourcecenter/';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="sidebartext" href="resourcecenter/">Resource Center</a></td>
+</tr>
+
+
+<tr><td height="2"><img src="images/clear.gif" width="1" height="2" alt=""></td></tr>
+
+<tr>
+<td class="subheader" height="41" style="background-image: url(images/new_company_subheader.gif);">&nbsp;&nbsp;Company<br><img src="images/clear.gif" width="1" height="5" alt=""></td>
+</tr>
+
+
+<tr>
+<td>
+
+
 <table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr><td width="1" height="16" bgcolor="#0E528E"><img src="images/clear.gif" width="1" height="1" border="0"></td>
+<tbody><tr>
+<td class="navitem" width="200" height="29" style="cursor: pointer; cursor: hand; background-image: url(images/new_company_navitem.gif);" onclick="toggle_div('60');">
+<img src="images/clear.gif" width="25" height="1" alt="">Management Bios&nbsp;&nbsp;&nbsp;&nbsp;<img id="navitemimage60" src="images/new_arrow_down.gif" width="9" height="10" alt="">
+</td>
+</tr>
+</tbody></table>
 
-<td width="753" height="16" bgcolor="#195C9F">&nbsp;</td>
+<div id="navitem60" class="navitemsub" style="display: ;">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr>
+<td width="200" height="10" style="background: url(images/new_navitemsub_background.gif);"><img src="images/clear.gif" width="1" height="10" alt=""></td>
+</tr>
 
-<td width="1" height="16" bgcolor="#0E528E"><img src="images/clear.gif" width="1" height="1" border="0"></td>
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td width="25" align="center"></td>
+<td width="170"><a class="navitemsub" href="company/management.php#jf">John Federman, Chief Executive Officer</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td colspan="3"><img src="images/clear.gif" width="1" height="5" alt=""></td>
+</tr>
+
+
+<tr>
+<td width="25" align="center"></td>
+<td width="170"><a class="navitemsub" href="company/management.php#js">Joe Siegrist, Chief Technology Officer</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td colspan="3"><img src="images/clear.gif" width="1" height="5" alt=""></td>
+</tr>
+
+
+<tr>
+<td width="25" align="center"></td>
+<td width="170"><a class="navitemsub" href="company/management.php#bt">Brad Timchuk, Senior VP of Sales and Business Development</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td colspan="3"><img src="images/clear.gif" width="1" height="5" alt=""></td>
+</tr>
+
+
+<tr>
+<td width="25" align="center"></td>
+<td width="170"><a class="navitemsub" href="company/management.php#cj">Cid Jenkins, VP of Business Development</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td colspan="3"><img src="images/clear.gif" width="1" height="5" alt=""></td>
+</tr>
+
+
+<tr>
+<td width="25" align="center"></td>
+<td width="170"><a class="navitemsub" href="company/management.php#nl">Nancy Liberman, Senior Director of Marketing</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" height="10" style="background: url(images/new_navitemsub_background.gif);"><img src="images/clear.gif" width="1" height="10" alt=""></td>
 </tr>
 
 <tr>
-<td width="1" height="22" bgcolor="#91AFC4"><img src="images/clear.gif" width="1" height="1" border="0"></td>
-
-<td height="22" class="normaltext" align="center"><font color="#949494">© 2003-2005, eStara, Inc. All Rights Reserved - <a class="normaltext" href="aboutus/privacy.php"><font color="#949494">Privacy Statement</font></a></font></td>
-<td width="1" height="22" bgcolor="#91AFC4"><img src="images/clear.gif" width="1" height="1" border="0"></td>
+<td width="200" height="4"><img src="images/new_navitemsub_bottom.gif" width="200" height="4" alt=""></td>
 </tr>
 </tbody></table>
+</div>
+
+
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td class="navitem" width="200" height="29" style="cursor: pointer; cursor: hand; background-image: url(images/new_company_navitem.gif);" onclick="toggle_div('30');">
+<img src="images/clear.gif" width="25" height="1" alt="">Product Data Sheets&nbsp;&nbsp;&nbsp;&nbsp;<img id="navitemimage30" src="images/new_arrow_right.gif" width="9" height="10" alt="">
+</td>
+</tr>
+</tbody></table>
+
+<div id="navitem30" class="navitemsub" style="display: none;">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr>
+<td width="200" height="10" style="background: url(images/new_navitemsub_background.gif);"><img src="images/clear.gif" width="1" height="10" alt=""></td>
+</tr>
+
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td width="25" align="center"><a href="resourcecenter/download.php?resource=10"><img src="images/mini_pdf.gif" width="15" height="15" alt="" border="0"></a></td>
+<td width="170"><a class="navitemsub" href="resourcecenter/download.php?resource=10">Click to Call Data Sheet</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td colspan="3"><img src="images/clear.gif" width="1" height="5" alt=""></td>
+</tr>
+
+
+<tr>
+<td width="25" align="center"><a href="resourcecenter/download.php?resource=11"><img src="images/mini_pdf.gif" width="15" height="15" alt="" border="0"></a></td>
+<td width="170"><a class="navitemsub" href="resourcecenter/download.php?resource=11">Call Tracking Data Sheet</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td colspan="3"><img src="images/clear.gif" width="1" height="5" alt=""></td>
+</tr>
+
+
+<tr>
+<td width="25" align="center"><a href="resourcecenter/download.php?resource=12"><img src="images/mini_pdf.gif" width="15" height="15" alt="" border="0"></a></td>
+<td width="170"><a class="navitemsub" href="resourcecenter/download.php?resource=12">Click to Call Technology</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td colspan="3"><img src="images/clear.gif" width="1" height="5" alt=""></td>
+</tr>
+
+
+<tr>
+<td width="25" align="center"><a href="resourcecenter/download.php?resource=7"><img src="images/mini_pdf.gif" width="15" height="15" alt="" border="0"></a></td>
+<td width="170"><a class="navitemsub" href="resourcecenter/download.php?resource=7">WebCare Data Sheet</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td colspan="3"><img src="images/clear.gif" width="1" height="5" alt=""></td>
+</tr>
+
+
+<tr>
+<td width="25" align="center"><a href="resourcecenter/download.php?resource=14"><img src="images/mini_pdf.gif" width="15" height="15" alt="" border="0"></a></td>
+<td width="170"><a class="navitemsub" href="resourcecenter/download.php?resource=14">Build or Buy? Data Sheet</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td colspan="3"><img src="images/clear.gif" width="1" height="5" alt=""></td>
+</tr>
+
+
+<tr>
+<td width="25" align="center"><a href="resourcecenter/download.php?resource=15"><img src="images/mini_pdf.gif" width="15" height="15" alt="" border="0"></a></td>
+<td width="170"><a class="navitemsub" href="resourcecenter/download.php?resource=15">Enterprise Solutions Data Sheet</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td colspan="3"><img src="images/clear.gif" width="1" height="5" alt=""></td>
+</tr>
+
+
+<tr>
+<td width="25" align="center"><a href="resourcecenter/download.php?resource=16"><img src="images/mini_pdf.gif" width="15" height="15" alt="" border="0"></a></td>
+<td width="170"><a class="navitemsub" href="resourcecenter/download.php?resource=16">Click to Chat Data Sheet</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td colspan="3"><img src="images/clear.gif" width="1" height="5" alt=""></td>
+</tr>
+
+
+<tr>
+<td width="25" align="center"><a href="resourcecenter/download.php?resource=17"><img src="images/mini_pdf.gif" width="15" height="15" alt="" border="0"></a></td>
+<td width="170"><a class="navitemsub" href="resourcecenter/download.php?resource=17">Local Media Solutions Data Sheet</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" height="10" style="background: url(images/new_navitemsub_background.gif);"><img src="images/clear.gif" width="1" height="10" alt=""></td>
+</tr>
+
+<tr>
+<td width="200" height="4"><img src="images/new_navitemsub_bottom.gif" width="200" height="4" alt=""></td>
+</tr>
+</tbody></table>
+</div>
+
+
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td class="navitem" width="200" height="29" style="cursor: pointer; cursor: hand; background-image: url(images/new_company_navitem.gif);" onclick="toggle_div('10');">
+<img src="images/clear.gif" width="25" height="1" alt="">White Papers&nbsp;&nbsp;&nbsp;&nbsp;<img id="navitemimage10" src="images/new_arrow_right.gif" width="9" height="10" alt="">
+</td>
+</tr>
+</tbody></table>
+
+<div id="navitem10" class="navitemsub" style="display: none;">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody><tr>
+<td width="200" height="10" style="background: url(images/new_navitemsub_background.gif);"><img src="images/clear.gif" width="1" height="10" alt=""></td>
+</tr>
+
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td width="25" align="center"><a href="resourcecenter/form.php?resource=1"><img src="images/mini_pdf.gif" width="15" height="15" alt="" border="0"></a></td>
+<td width="170"><a class="navitemsub" href="resourcecenter/form.php?resource=1">Click to Call White Paper</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" style="background: url(images/new_navitemsub_background.gif);">
+<table width="200" cellspacing="0" cellpadding="0" border="0" align="center">
+
+
+<tbody><tr>
+<td colspan="3"><img src="images/clear.gif" width="1" height="5" alt=""></td>
+</tr>
+
+
+<tr>
+<td width="25" align="center"><a href="resourcecenter/form.php?resource=2"><img src="images/mini_pdf.gif" width="15" height="15" alt="" border="0"></a></td>
+<td width="170"><a class="navitemsub" href="resourcecenter/form.php?resource=2">Call Tracking White Paper</a></td>
+<td width="5"><img src="images/clear.gif" width="5" height="1" alt=""></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+
+
+<tr>
+<td width="200" height="10" style="background: url(images/new_navitemsub_background.gif);"><img src="images/clear.gif" width="1" height="10" alt=""></td>
+</tr>
+
+<tr>
+<td width="200" height="4"><img src="images/new_navitemsub_bottom.gif" width="200" height="4" alt=""></td>
+</tr>
+</tbody></table>
+</div>
+
+
+</td>
+</tr>
+
+
+<tr><td height="20"><img src="images/clear.gif" width="1" height="20" alt=""></td></tr>
+</tbody></table>
+</td>
+
+
+<td width="4"><img src="images/clear.gif" width="4" height="1" alt=""></td>
+
+<td width="2" bgcolor="#ddddde"><img src="images/clear.gif" width="2" height="1" alt=""></td>
+</tr>
+</tbody></table>
+
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="752" height="18" colspan="3" style="background: url(images/new_company_bottomborder.gif);" class="copyrighttext">© 1999-2006, eStara, Inc.  All Rights Reserved - <a class="copyrighttext" href="company/privacy.php">Privacy Statement and Online Merchant Policies</a></td>
+</tr>
+
+<tr>
+<td colspan="3">
+
+<script type="text/javascript" src="http://as00.estara.com/webcare/webevents/webeventjs.php?accountid=200008070000&amp;Template=1555&amp;var1=company&amp;screenresvar=4&amp;colordepthvar=5&amp;browservar=6&amp;osvar=7"></script><noscript><img src="http://as00.estara.com/webcare/webevents/webevent.php?accountid=200008070000&amp;Template=1555&amp;var1=company" border="0" alt="" /></noscript>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-381123-5";
+urchinTracker();
+</script>
 </td>
 </tr>
 </tbody></table>
 </center>
+
 
 
 </body></html>
