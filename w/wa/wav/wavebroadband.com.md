@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the wavebroadband.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206142542id_/http%3A//www.wavebroadband.com/sub.php%3Fart%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavebroadband.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618011220id_/http%3A//wavebroadband.com/art.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
-# Wave Broadband
+# Wave Broadband ~ Privacy Statement
+
+| 
+
+## Privacy Statement
 
 At Wave Broadband we take your privacy seriously and we want you to know our policies. This Notice will give you an overview of those policies and how we will apply them in specific situations.
 
@@ -92,3 +96,5 @@ Time Period During Which We Retain Personally Identifiable Information. The Cabl
 Access to Our Records About You. Under the Cable Act, cable subscribers have the right to inspect our records that contain personally identifiable information about them and to have a reasonable opportunity to correct any errors in such information. If you wish to exercise this right, please notify us at the local Wave Broadband office specified on your bill, and we will contact you to arrange a mutually convenient time during our regular business hours.
 
 Your Rights Under the Cable Act. The Cable Act provides you with a cause of action for damages, attorneys' fees and costs in Federal District Court if we violate the Cable Act’s limitations on the collection, disclosure, and retention of personally identifiable information about you.
+
+|  
