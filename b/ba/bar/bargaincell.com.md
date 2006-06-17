@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargaincell.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221163857id_/http%3A//www.bargaincell.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargaincell.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617035926id_/http%3A//www.bargaincell.com/privacy.cfm) for the most accurate reproduction.*
 
 # BargainCell.com - Your Privacy
 
@@ -18,7 +18,7 @@ We may also use the information we collect to occasionally notify you about impo
 
 [BargainCell.com](http://www.bargaincell.com/) is committed to protecting the information we receive from you. Our site encrypts your credit card number and other personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your PC to our servers.
 
-  
+   [](https://www.scanalert.com/RatingVerify?ref=www.bargaincell.com)   
 **Typos and Omissions**
 
 While we try very hard to ensure the accuracy of the information we provide, we are not responsible for vendor availability, typographical errors, technical inaccuracies, product pricing errors or omissions. BargainCell.com has the right to cancel any orders placed for any product listed at an incorrect price or shown with incorrect information, whether due to typographical error or otherwise and whether or not your order was accepted or your credit card charged. Upon any such cancellation, if your credit card has already been charged for the purchase, BargainCell.com will promptly issue a full credit to your account.
