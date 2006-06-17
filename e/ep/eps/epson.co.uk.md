@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212154708id_/http%3A//www.epson.co.uk/corporate/details/EUL_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617091216id_/http%3A//www.epson.co.uk/corporate/details/EUL_privacy.htm) for the most accurate reproduction.*
 
 # EPSON privacy policy
 
@@ -34,8 +34,10 @@ Alternatively, you can e-mail any questions/comments using [this form](https://w
 
 If you would like to view Epson's privacy and customer protection policy, please click the links below to download the relevant files:-
 
-  * [EMEA Customer Information Protection Policy.pdf](https://web.archive.org/web/20051212154708id_/http%3A//www.epson.co.uk/corporate/details/EMEA_Customer_Information_Protection_Policy.pdf)
-  * [EMEA standard Privacy Policy Web Tel.pdf](https://web.archive.org/web/20051212154708id_/http%3A//www.epson.co.uk/corporate/details/Appendix1_EMEA_standard_Privacy_Policy_Web_Tel.pdf)
+  * [EMEA Customer Information Protection Policy.pdf](https://web.archive.org/web/20060617091216id_/http%3A//www.epson.co.uk/corporate/details/EMEA_Customer_Information_Protection_Policy.pdf)
+  * [EMEA standard Privacy Policy Web Tel.pdf](https://web.archive.org/web/20060617091216id_/http%3A//www.epson.co.uk/corporate/details/Appendix1_EMEA_standard_Privacy_Policy_Web_Tel.pdf)
+  * [Standard Transfer Agreement for EU countries](https://web.archive.org/web/20060617091216id_/http%3A//www.epson.co.uk/corporate/details/Standard_transfer_agreement_Epson_for_EU_countries.pdf)
+  * [Standard Transfer Agreement for NON EU countries](https://web.archive.org/web/20060617091216id_/http%3A//www.epson.co.uk/corporate/details/Standard_transfer_agreement_Epson_for_non_EU_countries.pdf)
 
 |   
 ---|---
