@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the travelgrove.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123032615id_/http%3A//www.travelgrove.com/html/bottom_bar/privacy_policy.php%3FidReferral%3D%26adid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelgrove.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617133913id_/http%3A//travelgrove.com/html/bottom_bar/privacy_policy.php%3FidReferral%3D%26adid%3D) for the most accurate reproduction.*
 
 # Travelgrove Privacy Policy
 
-**We only store any of your personal information at Travelgrove if you choose to.**  
-
+### We only store personal information at Travelgrove if you choose to.
 
 We currently store users' email addresses who have chosen to sign up for our newsletter. We are NOT selling or sharing this information with any third parties and use the newsletter to promote our "Grovezine - Fresh Picked Weekly Deals". Anybody signing up, can unsubscribe from our newsletter and we do not allow double sign ups in order to eliminate spamming and mail bombing. We also run a travel forum, which stores your email address for validation purposes. We do NOT send out any promotional materials to users signing up to the forums unless they select that they want to receive a newsletter. 
 
