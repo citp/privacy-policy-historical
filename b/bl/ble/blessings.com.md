@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blessings.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229015042id_/http%3A//blessings.com/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blessings.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617080743id_/http%3A//blessings.com/priv.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -12,7 +12,7 @@ When you enter a Blessings contest, on-line or in the store, the personal inform
 
 When communicating with Blessings electronically we collect customer information including e-mail address and any information that a customer volunteers. All forms allow the customer to choose to NOT receive promotional offers by email or direct mail.
 
-You may receive periodic e-mail notifications from us about new products, services or upcoming events. If you prefer not to receive such mailings, please let us know by requesting 'Do Not Send Email Please". Send the email to [blessingscm@blessings.com](mailto:blessingscm@blessings.com) or call us at 1-800-567-5918. Be sure to include your exact phone number and address.
+You may receive periodic e-mail notifications from us about new products, services or upcoming events. If you prefer not to receive such mailings, please let us know by requesting 'Do Not Send Email Please". Send the email to [blessingscm@blessings.com](mailto:blessingscm@blessings.com) or call us at 1-800-567-5918. Be sure to include your exact phone number and address.
 
 When you supply us with your address either on line or in the store we will send you periodic mailings as mentioned above. These mailings will contain a special offer, discount coupon, or information about an upcoming community event.
 
@@ -31,6 +31,6 @@ For more information, questions or concerns please contact:
 Stuart Cameron  
 Blessings Christian Marketplace.  
 3155 Howard Ave.  
-Windsor On. N8X 4Y8.   
-[blessingscm@blessings.com](mailto:blessingscm@blessings.com)     
+Windsor On. N8X 4Y8.   
+[blessingscm@blessings.com](mailto:blessingscm@blessings.com)    
  
