@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216034236id_/http%3A//simplestar.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617171547id_/http%3A//simplestar.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Simple Star - Copyright and trademark information
+# Simple Star - Privacy
 
 |  | 
 
 ### **Simple Star Privacy and Legal Information**
 
-[Terms of service](https://web.archive.org/web/20051216034236id_/http%3A//simplestar.com/legal/tos.php)  
-[Privacy policy](https://web.archive.org/web/20051216034236id_/http%3A//simplestar.com/legal/privacy.php)  
-[Copyright and trademark information](https://web.archive.org/web/20051216034236id_/http%3A//simplestar.com/legal/copyright.php)  
-[Software end user license agreement](https://web.archive.org/web/20051216034236id_/http%3A//simplestar.com/legal/eula.php)  
+[Terms of service](https://web.archive.org/web/20060617171547id_/http%3A//simplestar.com/legal/tos.php)  
+[Privacy policy](https://web.archive.org/web/20060617171547id_/http%3A//simplestar.com/legal/privacy.php)  
+[Copyright and trademark information](https://web.archive.org/web/20060617171547id_/http%3A//simplestar.com/legal/copyright.php)  
+[Software end user license agreement](https://web.archive.org/web/20060617171547id_/http%3A//simplestar.com/legal/eula.php)  
 [Online Store terms and conditions](https://store.simplestar.com/cgi-bin/pages/tac)  
 
 
@@ -89,4 +89,4 @@ If we ever include children under the age of 13 as part of our intended site aud
 >  privacy@simplestar.com  
 > 
 
-Please note that these addresses are for privacy and security matters only. If you are looking for help purchasing, installing, or using our products, please contact us through our [support center](http://support.simplestar.com/).  |  | 
+Please note that these addresses are for privacy and security matters only. If you are looking for help purchasing, installing, or using our products, please contact us through our [support center](http://support.simplestar.com/?group=Default).  |  | 
