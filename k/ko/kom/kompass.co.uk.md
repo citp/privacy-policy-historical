@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kompass.co.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231160848id_/http%3A//www.kompass.co.uk/info/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kompass.co.uk privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617195253id_/http%3A//kompass.co.uk/info/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy :: Kompass UK
 
