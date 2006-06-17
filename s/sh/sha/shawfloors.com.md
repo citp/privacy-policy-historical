@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shawfloors.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306093359id_/http%3A//www.shawfloors.com/aboutShaw/FooterIndex/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawfloors.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617133749id_/http%3A//shawfloors.com/aboutShaw/FooterIndex/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Shaw Floors: Privacy Policy
 
