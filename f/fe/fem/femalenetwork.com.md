@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femalenetwork.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215000155id_/http%3A//www.femalenetwork.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femalenetwork.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617150017id_/http%3A//www.femalenetwork.com/about/privacy) for the most accurate reproduction.*
 
 # FemaleNetwork.com | My life. My community.
 
