@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaboard.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222201427id_/http%3A//www.indiaboard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaboard.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618003453id_/http%3A//indiaboard.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Indiaboard.com Free Classifieds for Indians
 
@@ -7,7 +7,7 @@
   
 **Welcome to Indiaboard.com!**
 
- **Privacy Statement:**
+ ** _Privacy Statement_**
 
 **No Part of this can be reproduced in any format without the written permission from us.**
 
@@ -31,15 +31,27 @@ We always use industry-standard encryption technologies when transferring and re
 
 Other Web Sites
 
-| 
-
+|  | [ BharathAutomobiles.com](http://www.bharathautomobiles.com/)  
+---|---  
+|   
+|   
+|   
+  
 Training and Jobs
 
-| 
-
-Temple Services  
+|  | [MSys Inc](http://www.msysinc.com/)  
+---|---  
+|   
+|   
+|   
   
----|---|---  
+Temple Services
+
+|  | [TempleTrips.com](http://www.templetrips.com/)  
+---|---  
+|   
+|   
+|   
   
 |  |   
 ---  
@@ -52,4 +64,18 @@ Temple Services
   
  * Your own private email box to avoid Spam; You have full control of your ads and profile. You can create hotlist of ads  
   
- * Saved Search feature allows you to get automatic emails on matching ads instantly!
+ * Email Alerts feature allows you to get automatic emails on matching ads instantly!  
+  
+|   
+---  
+  
+| 
+
+**[Real Estate for NRI](https://web.archive.org/web/20060618003453id_/http%3A//indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=394&offset=0&lpp=25&cattype=a&number=25&parent=0)s**  
+  
+  
+---  
+  
+**[Room Mate and](https://web.archive.org/web/20060618003453id_/http%3A//indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=118&offset=0&lpp=25&cattype=a&number=2&parent=0)[ accommodation.](https://web.archive.org/web/20060618003453id_/http%3A//indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=118&offset=0&lpp=25&cattype=a&number=2&parent=0)**  
+  
+**[For Sale](https://web.archive.org/web/20060618003453id_/http%3A//indiaboard.com/mojoClassified.cgi?mojo=1&cat_b=13&parent=0&number=3&cattype=b&trace=)**
