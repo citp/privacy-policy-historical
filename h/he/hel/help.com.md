@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the help.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224013554id_/http%3A//www.cnet.com/html/aboutcnet/editorial/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the help.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618011908id_/http%3A//www.cnetnetworks.com/editorial/privacy.html%3Ftag%3Drev.ft) for the most accurate reproduction.*
 
-# CNET Networks | Editorial | Privacy Policy
+# CNET Networks | Editorial | Privacy Policy.html?tag=rev.ft
 
 | 
 
@@ -92,7 +92,6 @@ Registration management [e-mail request]: [mailto:privacy@cnet.com](mailto:priv
 Download.com users: <http://download.com.com/1320-20-3.html>  
 Download.com listings: <http://upload.com.com/>  
 Download.com newsletters: <http://nl.download.com/login.sc?brand=download>  
-_Computer Shopper_ magazine: [https://secure.cnchost.com/www.zmcirc.com/cgi/custsvc/](https://secure.cnchost.com/www.zmcirc.com/cgi/custsvc/customer.cgi?id=login&icode=shpr)  
 CNET Advantage: <http://cma.zdnet.com/texis/cnet/showlogin.html>  
 Internet Services listings: <http://webservices.cnet.com/html/postprocess/contactformIAc.asp>  
 ChannelOnline: <http://channelonline.com/us/>  
@@ -117,7 +116,7 @@ E-mail newsletters: <http://nl.com.com/acct_login.jsp?brand=mysimon>
 **Release 1.0**  
 Contact Us: <http://www.release1-0.com/general/contactus.cfm>
 
-**Shopper.com**  
+**CNET Shopper.com**  
 E-mail newsletters: <http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa>
 
 **TechRepublic**  
@@ -143,4 +142,6 @@ Any modifications to our privacy practices will be reflected first within this a
 None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
 
 **Questions, Comments**  
-Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent via e-mail below or to our corporate offices at 235 Second Street, San Francisco, CA 94105, Attention: Legal Department. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information.
+Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent to our corporate offices at 235 Second Street, San Francisco, CA 94105, Attention: Legal Department. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information.
+
+Effective date: September 10, 2005
