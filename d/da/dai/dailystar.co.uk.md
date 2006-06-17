@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailystar.co.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212100756id_/http%3A//www.dailystar.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailystar.co.uk privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617021637id_/http%3A//www.dailystar.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Daily Star: Simply The Best 7 Days A Week
 
@@ -22,8 +22,9 @@ We will collect information about you when you register to use the service. This
 When you use the Site and register with your personal details we may automatically issue your computer with a small piece of code (a "cookie"). Cookies are files we transfer to your computer's hard disk. We can use cookies to show us how you are using our Site and to collect demographic or statistical information about user behaviour. They allow us to analyse the popularity of the Site and to better manage and improve the service we provide to you. We also use as servers (such as advertising banners) to serve the advertisements that you see on the pages of our web site. You may also be issued with a cookie as part of this process. The information practices of those websites linked to our website are not covered by this privacy policy. We encourage our users to be aware when they leave our site, to read the privacy policies of each and every website that collects personally identifiable information.
 
 **3\. How Will We Use The Information We Collect About You?**  
-In order to use the Site you are required to register by providing personal information about yourself. As part of the registration process we may ask you to provide some limited personal information about yourself such as your name, address, telephone number and e-mail address. We will use the personal information you provide:  
-* To log users' interest in the website.
+In order to use the Site you are required to register by providing personal information about yourself. As part of the registration process we may ask you to provide some limited personal information about yourself such as your name, address, telephone number and e-mail address. We will use the personal information you provide:   
+* To log users' interest in the website.   
+* To keep you informed of special offers or promotions from Northern and Shell or Express Newspapers that may be of interest to you. If you would prefer not to receive such mailings, please write to Internet Development Department, The Northern & Shell Building, Number 10 Lower Thames Street, London, EC3R 6EN. 
 
 **4\. Will We Share Your Information With Anyone Else?**  
 Any personal information that you provide to us will be used for the purpose stated at the time we request it. We will not sell your personal information to direct marketing companies or other such organisations.
