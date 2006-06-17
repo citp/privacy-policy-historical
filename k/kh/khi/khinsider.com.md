@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the khinsider.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218003839id_/http%3A//www.khinsider.com/other/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khinsider.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617201159id_/http%3A//www.khinsider.com/other/privacy.shtml) for the most accurate reproduction.*
 
-# KHInsider.com - Kingdom Hearts 2 News, Information, Media, Screenshots, Videos and More -- Kingdom Hearts 2 -- Chain of Memories -- Guides, Walkthroughs, More
+# KHInsider.com - Kingdom Hearts 2 / 3 News, Information, Screenshots, Strategy Guide, Walkthrough, Media, Passion, Videos and More -- Kingdom Hearts 2 -- Kingdom Hearts Insider -- Chain of Memories -- Guides, Walkthroughs, More
 
 KHInsider.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site, KHInsider.com.com. KHInsider.com is a web site for General Audiences, including adolescent, teen's or adults and no content will ever disclose any information or picture that is not appropriate for ALL audiences. We urge you to beware of Chat rooms, Forums and/or any other device that allows fans to post their own comment because KHInsider.com has no means of filtering out content of that nature. 
 
