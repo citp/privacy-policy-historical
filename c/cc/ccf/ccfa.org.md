@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccfa.org privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222233352id_/http%3A//www.ccfa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccfa.org privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617030032id_/http%3A//ccfa.org/privacy) for the most accurate reproduction.*
 
 # CCFA.org: Privacy
 
@@ -30,7 +30,7 @@ We encourage you to note the following safeguards as to the information, service
 [](http://content.ccfa.org/site/pp.asp?c=hwKTJbN0JwF&b=307412&nav=right)  
 [](https://www.kintera.org/site/apps/ka/rg/register.asp?c=hwKTJbN0JwF&b=386055&en=7pIJKQPnF9JLIPPnH7LFJLNoG9KML3MIKhJLIYOxFbJJIQOsFiI1G&nav=right)
 
-[](http://www.ucandcrohns.org/)
+[](https://web.archive.org/chapters/walks)
 
 |   
 ---  
@@ -41,7 +41,7 @@ We encourage you to note the following safeguards as to the information, service
   
   
   
-[](http://www.prometheuslabs.com/)  
+[](http://www.salix.com/)  
   
 [](https://web.archive.org/pharmasponsors)  
   
