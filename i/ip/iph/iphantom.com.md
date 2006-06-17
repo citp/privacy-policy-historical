@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212152330id_/http%3A//www.iphantom.com/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphantom.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617211748id_/http%3A//iphantom.com/privacyStatement.html) for the most accurate reproduction.*
 
 # Phantom Technologies
 
@@ -13,7 +13,7 @@ Phantom Technologies LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is 
   
 ---|---  
   
-If you have questions or concerns regarding this statement, you should first contact our support team at support@iphantom.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact our support team at support@iphantom.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Welcome to the online Privacy Statement page for the iPhantom.com website. We take your privacy seriously and are committed to protecting your personal information while using our website.
 
@@ -57,14 +57,16 @@ We do not automatically log personal data nor do we link information automatical
 
 We do not partner with or have special relationships with any ad server companies. 
 
-We collect the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information, customer support, and/or order processing information. Order processing information that is collected through our website includes mailing and billing addresses, credit card information, and contact information such as email and phone number that are used strictly for order confirmation purposes.   
+We collect the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information, customer support, and/or order processing information. Order processing information that is collected through our website includes mailing and billing addresses, credit card information, and contact information such as e-mail and phone number that are used strictly for order confirmation purposes. 
+
+If you choose to use our referral service to tell a friend about our products, we will ask you for your friend’s name and e-mail address. We will automatically send your friend a one-time e-mail inviting him or her to visit our site for more information regarding the products. The e-mail will include a purchase code that may be used to receive a discount through the referral program. Phantom Technologies LLC or does not store the names or e-mail addresses acquired through this referral program. The name and e-mail address are used for the sole purpose of sending this one-time e-mail. The e-mail will include a unique code that is used for receiving the referral discount and for tracking the success of our referral program.   
   
 Return to the top  
 **Use of your Personal Information**  
   
 We use personal information for order processing and customer support. 
 
-Persons who supply us with their telephone numbers or email address on-line for order processing will receive telephone or email contact from us with information regarding orders they have placed on-line. 
+Persons who supply us with their telephone numbers or e-mail address on-line for order processing will receive telephone or e-mail contact from us with information regarding orders they have placed on-line. 
 
 The information we collect is not shared with other organizations for commercial purposes. 
 
@@ -101,7 +103,7 @@ Return to the top
   
 Examples of current businesses that we may offer joint or co-branded products are Freescale Semiconductor Inc.
 
-We do not exchange or share consumers' personal information with our joint or co-branded affiliates.   
+We do not exchange or share consumers' personal information with our joint or CO-branded affiliates.   
   
 Return to the top  
 **Enforcement of this Privacy Policy**  
