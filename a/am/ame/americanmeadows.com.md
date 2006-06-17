@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanmeadows.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211061040id_/http%3A//www.americanmeadows.com/priv_security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmeadows.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617072415id_/http%3A//www.americanmeadows.com/priv_security.cfm) for the most accurate reproduction.*
 
 # American Meadows - New privacy and Security Statement
 
@@ -8,7 +8,7 @@ AmericanMeadows.com
 Privacy and Security Statements   
 
 
-We at American Meadows have been selling only the finest, freshest seed for over 20 years. Our retail location, The Vermont Wildflower Farm, was founded in 1981, so we are veteran retailers, and have a healthy respect for customer service, privacy and security, whether a sale is made in person or on the internet. (If you'd prefer to order by phone, fax, or mail, go to [How to Order](https://web.archive.org/web/20051211061040id_/http%3A//www.americanmeadows.com/howto.cfm).) 
+We at American Meadows have been selling only the finest, freshest seed for over 20 years. Our retail location, The Vermont Wildflower Farm, was founded in 1981, so we are veteran retailers, and have a healthy respect for customer service, privacy and security, whether a sale is made in person or on the internet. (If you'd prefer to order by phone, fax, or mail, go to [How to Order](https://web.archive.org/web/20060617072415id_/http%3A//www.americanmeadows.com/howto.cfm).) 
 
 **Security for your order OnLine.** We understand that many customers have concerns about using their credit cards online, and we have invested in the finest security programming for our website to assure you.   
 
