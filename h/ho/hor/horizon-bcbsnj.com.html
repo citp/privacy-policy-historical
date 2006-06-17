@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the horizon-bcbsnj.com privacy policy that was archived on 2005-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051225163936id_/http%3A//horizon-bcbsnj.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the horizon-bcbsnj.com privacy policy that was archived on 2006-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060617200000id_/http%3A//horizon-bcbsnj.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Horizon BCBSNJ - Privacy Policy</title>
@@ -26,12 +26,13 @@ function qtPhysicianDirectory(){
 
 }
 
+</script>
 
-
+<script language="javascript">
 
 members_qt = new Array("#ffffff", "#000000", 0, 154, 139,
 	"Rates", "redir/qt_members.asp?pageto=members_rates.asp&pagefrom=privacy_policy.asp&sectionto=members&sectionfrom=", "",
-	"Pharmacy Services", "http://bcbsnj.myhealthyhorizon.com/topic/pharmacyservices.jhtml?urlSection=members", "",
+	"Pharmacy Services", "pharmacy.asp", "",
 	"Provider Directory", "javascript:qtPhysicianDirectory();", "",
 	"Downloadable Forms", "redir/qt_members.asp?pageto=members_forms_download.asp&pagefrom=privacy_policy.asp&sectionto=members&sectionfrom=", ""
 );
@@ -45,23 +46,23 @@ brokers_qt = new Array("#ffffff", "#000000", 3, 154, 139,
 
 providers_qt = new Array("#ffffff", "#000000", 0, 154, 139,
 	"Online Services",	"redir/qt_providers.asp?pageto=providers_online.asp&pagefrom=privacy_policy.asp&sectionto=providers&sectionfrom=",	"",
-	"Pharmacy	Services",	"http://bcbsnj.myhealthyhorizon.com/topic/pharmacyservices.jhtml?urlSection=members",	""
+	"Pharmacy Services",	"pharmacy.asp",	""
 );
 
 group_qt = new Array("#ffffff", "#000000", 0, 154, 139,
 	"Online Services",	"redir/qt_group.asp?pageto=group_online_services.asp&pagefrom=privacy_policy.asp&sectionto=group&sectionfrom=",	"",
-	"Pharmacy Services", "http://bcbsnj.myhealthyhorizon.com/topic/pharmacyservices.jhtml?urlSection=members", "",
+	"Pharmacy Services", "pharmacy.asp", "",
 	"Coverage Options", "redir/qt_group.asp?pageto=members_presale_coverage.asp&pagefrom=privacy_policy.asp&sectionto=group&sectionfrom=", ""
 );
 
 aboutus_qt = new Array("#ffffff", "#000000", 0, 154, 139,
-	"Pharmacy Services", "http://bcbsnj.myhealthyhorizon.com/topic/pharmacyservices.jhtml?urlSection=members", "",
+	"Pharmacy Services", "pharmacy.asp", "",
 	"Provider Directory", "javascript:qtPhysicianDirectory();", "",
 	"Careers", "redir/qt_aboutus.asp?pageto=aboutus_jobs.asp&pagefrom=privacy_policy.asp&sectionto=aboutus&sectionfrom=", ""
 );
 
 global_qt = new Array("#ffffff", "#000000", 0, 154, 139,
-	"Pharmacy Services", "http://bcbsnj.myhealthyhorizon.com/topic/pharmacyservices.jhtml?urlSection=members", "",
+	"Pharmacy Services", "pharmacy.asp", "",
 	"Provider Directory", "javascript:qtPhysicianDirectory();", "",
 	"Careers", "redir/qt_global.asp?pageto=aboutus_jobs.asp&pagefrom=privacy_policy.asp&sectionto=aboutus&sectionfrom=", ""
 );
@@ -91,7 +92,7 @@ buildMenu("global_quick_tools", global_qt);
 			<tbody><tr align="right">
 				<td class="nav">
 					<a class="nav" href="#" onclick="physicianDirectory();">Provider Directory</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-					<a class="nav" href="http://www.bcbsnj.com/newsroom2.asp?urlSection=aboutus">News Room</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+					<a class="nav" href="newsroom/index.asp">News Room</a> &nbsp;&nbsp;|&nbsp;&nbsp;
 					<a class="nav" href="aboutus.asp?urlSection=aboutus">About Us</a> &nbsp;&nbsp;|&nbsp;&nbsp;
 					<a class="nav" href="horizon_links.asp">Horizon Links</a> &nbsp;&nbsp;|&nbsp;&nbsp;
 					<a class="nav" href="site_map.asp">Site Map</a> &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -248,7 +249,7 @@ buildMenu("global_quick_tools", global_qt);
 	<td align="right"><a href="javascript:showMenu('global_quick_tools');" onmouseover="showMenu('global_quick_tools'), stopTimer();" onmouseout="startTimer();"><img src="images/quick_tools.gif" width="139" height="20" alt="" border="0" name="global_quick_tools_link"></a></td>
 	<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
 	<td align="right"><span class="search">Search &nbsp;</span></td>
-	<form method="post" action="/keyword_search.asp?urlSection=&amp;pagefrom=privacy_policy.asp"></form>
+	<form method="post" name="search_form" action="/keyword_search.asp?urlSection="></form>
 	<td>
 	<!--- <div><input type="text" value="ie" size="8" style="font: 16px 'courier new'; width: 90px; height: 27px; border: 3px inset #DDD;"></div>  --->
 	
@@ -274,10 +275,12 @@ buildMenu("global_quick_tools", global_qt);
 
 
 <table border="0" cellpadding="0" cellspacing="0" align="center">
-	<tbody><tr>
-			<td bgcolor="#0066CC" valign="top"><!-- photo -->
-			<!--<img src="images/party.jpg" width="78" height="76">--><img src="images/party.jpg" width="78" height="76"></td>
-			<td rowspan="2" valign="top" align="left">
+	
+	
+		<tbody><tr>
+				<td bgcolor="#0066CC" valign="top"><!-- photo -->
+				<!--<img src="images/party.jpg" width="78" height="76">--><img src="images/party.jpg" width="78" height="76"></td>
+				<td rowspan="2" valign="top" align="left">
 			
 				<table border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
@@ -304,12 +307,11 @@ buildMenu("global_quick_tools", global_qt);
 					  </tbody></table>
 				
 				</td>
-				</tr> 
-				
-				<tr> 
-				<td><img src="images/trans.gif" width="20" height="1"></td>
-				<td align="left" valign="top" width="520">
-
+			</tr> 
+			<tr> 
+					<td><img src="images/trans.gif" width="20" height="1"></td>			
+					<td align="left" valign="top" width="520">
+	
 
 				<table border="0" cellpadding="0" cellspacing="0"> 
 				<tbody><tr>
@@ -993,7 +995,9 @@ including its Horizon Mercy Medicaid line of business</p>
 				</td>
 				</tr>
 				<tr> 
-					<td bgcolor="#0066CC" valign="bottom"><img src="images/tilebackground_left_bar_bottom.gif" width="79"></td>
+					
+						<td bgcolor="#0066CC" valign="bottom"><img src="images/tilebackground_left_bar_bottom.gif" width="79"></td>
+						
 				</tr>
 				
 			   
