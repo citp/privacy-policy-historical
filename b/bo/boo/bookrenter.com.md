@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookrenter.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221135509id_/http%3A//www.bookrenter.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookrenter.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617230757id_/http%3A//www.bookrenter.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # BookRenter.com ::
 
@@ -25,7 +25,7 @@ On some pages, you can submit information about other people. For example, if yo
   * School Information 
 
 **The Way We Use Your Information**   
-When you place an order, we use your personal information to process and fulfill your order and to notify you of your order status. Occasionally, we may use your email address to deliver information regarding important changes to our website, new services, and special offers that might be of interest. If you would rather not receive this type of information, please visit the [Mailing List Page](https://web.archive.org/web/20051221135509id_/http%3A//www.bookrenter.com/newsletter.php) to manage your subscriptions. 
+When you place an order, we use your personal information to process and fulfill your order and to notify you of your order status. Occasionally, we may use your email address to deliver information regarding important changes to our website, new services, and special offers that might be of interest. If you would rather not receive this type of information, please visit the [Mailing List Page](https://web.archive.org/web/20060617230757id_/http%3A//www.bookrenter.com/newsletter.php) to manage your subscriptions. 
 
 We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. We use return email addresses to answer the email we receive. Such addresses are not used for any other purposes and are not shared with any third parties. 
 
@@ -47,7 +47,7 @@ BookRenter.com may provide aggregate statistics about our customers, sales, traf
 BookRenter.com releases personal account information, in good faith, when such release is believed to be logically necessary. This includes situations to comply with the law, enforce or apply the terms of any of our user agreements, and protect the rights, property and safety of BookRenter.com, our customers, and affected third parties. 
 
 **Unsubscribing from Our email List**  
-You may choose not to receive any additional email communications. BookRenter.com completely respects this right and if you only wish to receive basic communications regarding your order status and tracking, you can visit our [Mailing List Page](https://web.archive.org/web/20051221135509id_/http%3A//www.bookrenter.com/newsletter.php) to do so. 
+You may choose not to receive any additional email communications. BookRenter.com completely respects this right and if you only wish to receive basic communications regarding your order status and tracking, you can visit our [Mailing List Page](https://web.archive.org/web/20060617230757id_/http%3A//www.bookrenter.com/newsletter.php) to do so. 
 
 **Your Password**  
 BookRenter.com suggests that you keep your password private and avoid disclosing it to any third parties. If others have access to your password, the possibility exists that your personal information could be accessed and compromised. 
