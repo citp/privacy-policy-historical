@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218135645id_/http%3A//www.thegrocerygame.com/index.cfm%3Ffunction%3Dtext%26method%3Dprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrocerygame.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617192816id_/http%3A//www.thegrocerygame.com/index.cfm%3Ffunction%3Dtext%26method%3Dprivacy_statement) for the most accurate reproduction.*
 
 # Coupons, Grocery Coupons - TheGroceryGame.com
 
