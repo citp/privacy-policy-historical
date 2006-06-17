@@ -1,153 +1,95 @@
-> *The following text is extracted and transformed from the debshops.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623025529id_/http%3A//www.debshops.com/home/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debshops.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617231312id_/http%3A//www.debshops.com/home/Privacy.asp) for the most accurate reproduction.*
 
-# Debshops.com Fashion
+# Young Women and Teen Fashions, Prom Dresses and More - DEBShops.com
 
-  
-[](https://web.archive.org/Home/default.asp) [](https://web.archive.org/Home/Contact.asp)   
-| [](https://web.archive.org/fashion/)  
----  
-|  C'mon and get groovy, girl.  Check out our funky fashions in junior and plus styles.   
-[](https://web.archive.org/info)  
-|  Where is DEB? What is DEB? Get all of these answers and more.   
-[](https://web.archive.org/StoreLocator)  
-|  So, you want to see it all? Use our handy - dandy - fancy - shmancy locator and find a DEB near you.   
-|    
-  
-**debshops.com Privacy Policy** **
+1\. **General**  
+At debshops.com, we respect and understand our customers concerns about privacy and we take all reasonable steps to ensure that your personal information is handled in a safe and responsible manner. Because of our respect and understanding of your rights, we have developed this policy which discloses the privacy practices of debshops.com and describes the information we collect about you during your use of our site and what use we may make of that information. 
 
-1\. General.
+It is important to remember that by using our site, you agree to the terms of this policy. Because the technology in this area is expanding and improving at such a rapid pace, we suggest that you refer to this policy on a regular basis as it may change in order to allow debshops.com to take advantage of any technological advances or for business purposes or legal reasons. 
 
-**
+This Privacy Policy is incorporated into and subject to the terms of the Website Use Agreement. In the event of a conflict between the terms of the Privacy Policy and the Website Use Agreement, the latter will control. 
 
-At debshops.com, we respect and understand our customers concerns about privacy and we take all reasonable steps to ensure that your personal information is handled in a safe and responsible manner. Because of our respect and understanding of your rights, we have developed this policy which discloses the privacy practices of debshops.com and describes the information we collect about you during your use of our site and what use we may make of that information.
+Deb Shops Inc. is the sole operator of this website and is the only entity that collects and maintains personal information. For questions or comments concerning our Privacy Policy, contact Customer@debshops.com or write to Customer Service, Deb Shops Inc., 9401 Blue Grass Road, Philadelphia, PA 19114. 
 
-It is important to remember that by using our site, you agree to the terms of this policy. Because the technology in this area is expanding and improving at such a rapid pace, we suggest that you refer to this policy on a regular basis as it may change in order to allow debshops.com to take advantage of any technological advances or for business purposes or legal reasons.
+2\. **Information We Collect**  
+We collect your information in different areas of our site. The exact information collected varies depending on the area you are using. 
 
-This Privacy Policy is incorporated into and subject to the terms of the Website Use Agreement. In the event of a conflict between the terms of the Privacy Policy and the Website Use Agreement, the latter will control.
+When you order products from our site, we must know your name, e-mail address, mailing address, credit card number and expiration date and tracking information from checks or money orders. This information is necessary to allow us to process your order and notify you of your order’s status. 
 
-Deb Shops Inc. is the sole operator of this website and is the only entity that collects and maintains personal information. For questions or comments concerning our Privacy Policy, contact Customer@debshops.com or write to Customer Service, Deb Shops Inc., 9401 Blue Grass Road, Philadelphia, PA 19114.
+When you request a catalogue or other information, we must know your name, mailing address and e-mail address in order for us to properly forward your requested information. In addition, we may request additional information. However, such information will be purely optional and does not have to be answered in order to allow you to continue to use our site. 
 
-**
+When you participate in a contest or other promotional activity, we must know your name, mailing address and e-mail address so we can properly administer the contest and notify winners. 
 
-2\. Information We Collect.
+In our online registration form, we require you to provide us with your full name, birthdate, e-mail address, a password and a screen name (collectively, the "Registration Information"). We also request that you provide us with other personal information. Again, submission of this information is purely optional and refusal will still allow you to continue using our site. 
 
-**
+In the course of using our site, we automatically track certain information about you. This information includes the URL that you just came from (whether this URL is on our site or not), which URL you go to next (whether this URL is on our site or not), what browser you are using, and your Internet Protocol (IP) address. Many sites automatically collect this information. In addition, we use cookies on certain pages of our site. Among other functions, cookies allow you to enter your password less frequently during a session. Cookies can also help us provide information which is targeted to your interests. Cookies are stored on your hard drive, not on our site. Most cookies are "session cookies," meaning that they are automatically deleted at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may be required to reenter your password more frequently during a session. 
 
-We collect your information in different areas of our site. The exact information collected varies depending on the area you are using.
+If you choose to post messages on our bulletin boards or leave feedback for other users you must submit the registration information. We collect the information in order to allow us to keep track of exactly who posts messages or feedback. It is necessary for us to have this information in order to allow us to assist a third party in enforcing a claimed property right or in case we must defend ourselves against, or assist a third party in bringing, a claim of defamation, or any action, against a person who has posted a message or who has left feedback on the website. 
 
-When you order products from our site, we must know your name, e-mail address, mailing address, credit card number and expiration date and tracking information from checks or money orders. This information is necessary to allow us to process your order and notify you of your order’s status.
+If you choose to post works of art or poems (collectively, the "Artwork") on our site, you must submit the Registration Information. This information is required to allow us to monitor who posts Artwork on our site and is necessary to allow us to assist a third party in enforcing their claimed property rights in the Artwork. 
 
-When you request a catalogue or other information, we must know your name, mailing address and e-mail address in order for us to properly forward your requested information. In addition, we may request additional information. However, such information will be purely optional and does not have to be answered in order to allow you to continue to use our site.
+If you send us personal correspondences, such as e-mails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file specific to you. 
 
-When you participate in a contest or other promotional activity, we must know your name, mailing address and e-mail address so we can properly administer the contest and notify winners.
+There may be other forms and sources of information we collect about you, depending on how you use the site. 
 
-In our online registration form, we require you to provide us with your full name, birthdate, e-mail address, a password and a screen name (collectively, the "Registration Information"). We also request that you provide us with other personal information. Again, submission of this information is purely optional and refusal will still allow you to continue using our site.
+3\. **Our Use of Your Information**  
+We internally use personally identifiable information to improve our services, to statistically analyze site usage, to improve our content and to customize our site’s content and layout. We believe these uses allow us to improve our site and better tailor it to meet our users’ needs. 
 
-In the course of using our site, we automatically track certain information about you. This information includes the URL that you just came from (whether this URL is on our site or not), which URL you go to next (whether this URL is on our site or not), what browser you are using, and your Internet Protocol (IP) address. Many sites automatically collect this information. In addition, we use cookies on certain pages of our site. Among other functions, cookies allow you to enter your password less frequently during a session. Cookies can also help us provide information which is targeted to your interests. Cookies are stored on your hard drive, not on our site. Most cookies are "session cookies," meaning that they are automatically deleted at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may be required to reenter your password more frequently during a session.
+We may also use personally identifiable information to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners and promotions. If you supply us with your e-mail address, you may receive occasional e-mail from us announcing product information, promotional events, or updates to our website. If you supply us with your mailing address, you may receive periodic mailings from us, including catalogs. If you do not wish to receive such mailings, please send us an e-mail to Customer@Debshops.com indicating your e-mail address or mailing address as applicable. 
 
-If you choose to post messages on our bulletin boards or leave feedback for other users you must submit the registration information.  We collect the information in order to allow us to keep track of exactly who posts messages or feedback.  It is necessary for us to have this information in order to allow us to assist a third party in enforcing a claimed property right or in case we must defend ourselves against, or assist a third party in bringing, a claim of defamation, or any action, against a person who has posted a message or who has left feedback on the website.
+We use your e-mail address and, in rare situations your mailing address or phone number, to contact you regarding administrative notices from time to time. 
 
-If you choose to post works of art or poems (collectively, the "Artwork") on our site, you must submit the Registration Information. This information is required to allow us to monitor who posts Artwork on our site and is necessary to allow us to assist a third party in enforcing their claimed property rights in the Artwork.
+We use information in the file we maintain about you, and other information we obtain from your current and past activities on the site, to resolve disputes, troubleshoot problems and enforce our Website Use Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple screen names or aliases. 
 
-If you send us personal correspondences, such as e-mails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file specific to you.
+4\. **Our Disclosure of Your Information**  
+We do not sell, rent or in any way share any personally identifiable information about you to any third party outside of debshops.com, its parent, affiliates, subsidiaries, operating companies and other related entities. We do aggregate personally identifiable information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. Certain information, to the extent we have received it from you, such as your password, credit card number and bank account number, are not disclosed in aggregate at all. 
 
-There may be other forms and sources of information we collect about you, depending on how you use the site.
+Throughout the site, if you choose to register, you are identified by your screen name. Even if your screen name is not your email address, your screen name can be used to identify your activities throughout the site. We cooperate with all law enforcement inquires and with all third parties to enforce their intellectual property or other rights. 
 
-**
+We offer features on our site where we will, by necessity, need to provide some of your information to the third party offering such goods or services. Before you use the service you should evaluate whether you will accept the terms and conditions of the third party service. We are not responsible for how such third parties collect and use your information. 
 
-3\. Our Use of Your Information.
+Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Further, we can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. 
 
-**
+5\. **Control of Your Password**  
+You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password as detailed below. 
 
-We internally use personally identifiable information to improve our services, to statistically analyze site usage, to improve our content and to customize our site’s content and layout. We believe these uses allow us to improve our site and better tailor it to meet our users’ needs.
+6\. **Reviewing and Changing Your Personally Identifiable Information**  
+Once you register, you will be able to review and change much of your personally identifiable information at our site, including: Your screen name and email address. If you change your screen name we keep track of your old screen name(s) and your new screen name. You may also change your name, address, city, state, zip code, country, primary phone number, secondary phone number, fax number, gender, and your credit card number and expiration date, if you supplied one. Once posted, you cannot change or remove any Artwork or any other public postings made on our site. 
 
-We may also use personally identifiable information to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners and promotions. If you supply us with your e-mail address, you may receive occasional e-mail from us announcing product information, promotional events, or updates to our website. If you supply us with your mailing address, you may receive periodic mailings from us, including catalogs. If you do not wish to receive such mailings, please send us an e-mail to [Customer@Debshops.com](mailto:Customer@Debshops.com) indicating your e-mail address or mailing address as applicable.
+Upon your request, we will remove your credit card number and credit card expiration date from our databases. To make this request, e-mail us at Webmaster@Debshops.com or notify us through mail by sending your request to 
 
-We use your e-mail address and, in rare situations your mailing address or phone number, to contact you regarding administrative notices from time to time.
+Webmaster  
+Deb Shops Inc.  
+9401 Blue Grass Road  
+Philadelphia, PA 19114
 
-We use information in the file we maintain about you, and other information we obtain from your current and past activities on the site, to resolve disputes, troubleshoot problems and enforce our Website Use Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple screen names or aliases.
+We will retain in our files some information that you have requested us to remove. We retain this information for very limited purposes, such as to resolve disputes, troubleshoot problems and enforce our Website Use Agreement. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests. 
 
-**
+Please promptly update your information if it changes. 
 
-4\. Our Disclosure of Your Information.
+7\. **Third Party Collectors of Information**  
+Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are other users, merchants or advertisers on our system or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. To the extent that we use third party merchants and advertisers, they adhere to their own privacy customs and policies. Since we do not control the privacy policies of third parties, you are subject to the privacy customs and policies of that third party. We encourage you to ask questions before you disclose your personal information to others. 
 
-**
+8\. **Security**  
+We use industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers. When you place an order, access your account information or send us personally identifying data, that information moves in to a secure server. This security device encrypts all information you input before sending it, protecting your information from unauthorized access. However, "perfect security" does not exist on the Internet. 
 
-We do not sell, rent or in any way share any personally identifiable information about you to any third party outside of debshops.com, its parent, affiliates, subsidiaries, operating companies and other related entities. We do aggregate personally identifiable information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. Certain information, to the extent we have received it from you, such as your password, credit card number and bank account number, are not disclosed in aggregate at all.
+9\. **A Note To Parents and Children 13 and Younger**  
+Except as provided below, we do not knowingly collect personally identifiable information from children 13 years old or younger without prior verifiable parental consent. Before a user who is 13 years or younger is allowed to complete this registration process we ask that they provide us with their parent's e-mail address and phone number. This is the minimum information necessary to allow us to properly receive parental consent in the manner provided below. Once we obtain parental consent, a child will be asked to submit information at different areas of our site, as outlined above, and that information is used just as all the information we collect is used, see paragraphs 2 and 3. 
 
-Throughout the site, if you choose to register, you are identified by your screen name. Even if your screen name is not your email address, your screen name can be used to identify your activities throughout the site. We cooperate with all law enforcement inquires and with all third parties to enforce their intellectual property or other rights.
+Parents may revoke their consent at any time and refuse to allow further collection or use of their child’s information. Further, parents may review and have us delete any information submitted by their child. We are prohibited from conditioning a child’s participation in an activity on the child’s disclosing more personal information than is reasonably necessary. 
 
-We offer features on our site where we will, by necessity, need to provide some of your information to the third party offering such goods or services. Before you use the service you should evaluate whether you will accept the terms and conditions of the third party service. We are not responsible for how such third parties collect and use your information.
+It is possible that we will collect a child’s name and e-mail address for purposes of entering a child in a contest or similar promotional activity. However, in any such situation, we would also collect the parent’s e-mail address so that we could notify the parent of the child’s entry in the contest. The information collected in these cases would be used only for purposes of the particular contest and will be deleted when the particular promotion is completed. Similarly, we would collect information and would contact the parent in the event that a child subscribes to our on-line newsletter. In either case, the parent has the right to have their child’s information deleted from our database and prevent us from contacting their child in the future. Finally, we may collect a child’s e-mail address in order to allow us to respond to a one-time request from your child. The child’s information is deleted after we respond to this one-time request. 
 
-Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Further, we can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private.
+In the event that there is a material change in the collection, use or disclosure policy we will send the parent an e-mail message alerting them of this change and requesting their consent to continue to collect their child’s information. 
 
-****
+10\. **Obtaining Parental Consent**  
+In order to obtain parental consent, we will ask a child for their parent’s e-mail address and phone number. If the parent has an e-mail address, we will ask for parental consent to collect the child’s information via an e-mail message, along with a follow-up message or telephone call to confirm that the parent in fact did consent to collection of their child’s information. If the parent does not have an e-mail address, we will obtain parental consent by calling the parent on the telephone, following the child’s attempt to submit information to us. 
 
-**5\. Control of Your Password.**
+11\. **Contacting the Website**  
+If you have any questions about this Privacy Policy, the practices of this Website or dealing or dealing with this Website, you can contact 
 
-You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password as detailed below.
-
-****
-
-**6\. Reviewing and Changing Your Personally Identifiable Information.**
-
-Once you register, you will be able to review and change much of your personally identifiable information at our site, including: Your screen name and email address. If you change your screen name we keep track of your old screen name(s) and your new screen name. You may also change your name, address, city, state, zip code, country, primary phone number, secondary phone number, fax number, gender, and your credit card number and expiration date, if you supplied one. Once posted, you cannot change or remove any Artwork or any other public postings made on our site.
-
-Upon your request, we will remove your credit card number and credit card expiration date from our databases. To make this request, e-mail us at [Webmaster@Debshops.com](mailto:Webmaster@Debshops.com) or notify us through mail by sending your request to
-
-> > Webmaster  
->  Deb Shops Inc.  
->  9401 Blue Grass Road  
->  Philadelphia, PA 19114
-
-We will retain in our files some information that you have requested us to remove. We retain this information for very limited purposes, such as to resolve disputes, troubleshoot problems and enforce our Website Use Agreement. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
-
-Please promptly update your information if it changes.
-
-****
-
-**7\. Third Party Collectors of Information.**
-
-Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are other users, merchants or advertisers on our system or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. To the extent that we use third party merchants and advertisers, they adhere to their own privacy customs and policies. Since we do not control the privacy policies of third parties, you are subject to the privacy customs and policies of that third party. We encourage you to ask questions before you disclose your personal information to others.
-
-**
-
-8\. Security.
-
-**
-
-We use industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers. When you place an order, access your account information or send us personally identifying data, that information moves in to a secure server. This security device encrypts all information you input before sending it, protecting your information from unauthorized access. However, "perfect security" does not exist on the Internet.
-
-**
-
-9\. A Note To Parents and Children 13 and Younger.
-
-**
-
-Except as provided below, we do not knowingly collect personally identifiable information from children 13 years old or younger without prior verifiable parental consent. Before a user who is 13 years or younger is allowed to complete this registration process we ask that they provide us with their parent's e-mail address and phone number. This is the minimum information necessary to allow us to properly receive parental consent in the manner provided below. Once we obtain parental consent, a child will be asked to submit information at different areas of our site, as outlined above, and that information is used just as all the information we collect is used, see paragraphs 2 and 3.
-
-Parents may revoke their consent at any time and refuse to allow further collection or use of their child’s information. Further, parents may review and have us delete any information submitted by their child. We are prohibited from conditioning a child’s participation in an activity on the child’s disclosing more personal information than is reasonably necessary.
-
-It is possible that we will collect a child’s name and e-mail address for purposes of entering a child in a contest or similar promotional activity. However, in any such situation, we would also collect the parent’s e-mail address so that we could notify the parent of the child’s entry in the contest. The information collected in these cases would be used only for purposes of the particular contest and will be deleted when the particular promotion is completed. Similarly, we would collect information and would contact the parent in the event that a child subscribes to our on-line newsletter. In either case, the parent has the right to have their child’s information deleted from our database and prevent us from contacting their child in the future. Finally, we may collect a child’s e-mail address in order to allow us to respond to a one-time request from your child. The child’s information is deleted after we respond to this one-time request.
-
-In the event that there is a material change in the collection, use or disclosure policy we will send the parent an e-mail message alerting them of this change and requesting their consent to continue to collect their child’s information.
-
-**
-
-10\. Obtaining Parental Consent.
-
-**
-
-In order to obtain parental consent, we will ask a child for their parent’s e-mail address and phone number. If the parent has an e-mail address, we will ask for parental consent to collect the child’s information via an e-mail message, along with a follow-up message or telephone call to confirm that the parent in fact did consent to collection of their child’s information. If the parent does not have an e-mail address, we will obtain parental consent by calling the parent on the telephone, following the child’s attempt to submit information to us.
-
-****
-
-**11\. Contacting the Website**.
-
-If you have any questions about this Privacy Policy, the practices of this Website or dealing or dealing with this Website, you can contact
-
-> > Webmaster  
->  Deb Shops Inc.  
->  9401 Blue Grass Road  
->  Philadelphia, PA 19114  
->  [Webmaster@Debshops.com](mailto:Webmaster@Debshops.com)
+Webmaster  
+Deb Shops Inc.  
+9401 Blue Grass Road  
+Philadelphia, PA 19114  
+[Webmaster@Debshops.com](mailto:webmaster@debshops.com)
