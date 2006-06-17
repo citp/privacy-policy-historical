@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211110056id_/http%3A//zarca.com/onlinesurveys/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617231034id_/http%3A//zarca.com/onlinesurveys/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Zarca Interactive is a leading provider of online surveys
 
-|  |  | [](https://web.archive.org/web/20051211110056id_/http%3A//zarca.com/index.html) |  |  |   
+|  |  | [](https://web.archive.org/web/20060617231034id_/http%3A//zarca.com/index.html) |  |  |   
 ---|---|---|---|---|---  
 |  | 
 
