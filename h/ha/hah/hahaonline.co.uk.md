@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hahaonline.co.uk privacy policy that was archived on 2005-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051014005145id_/http%3A//www.hahaonline.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hahaonline.co.uk privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617172814id_/http%3A//www.hahaonline.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # : Ha! Ha! Bar & Canteen : Lounge Bars and Restaurants in the UK :
 
