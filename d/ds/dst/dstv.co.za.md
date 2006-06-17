@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dstv.co.za privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210064205id_/http%3A//www.dstv.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dstv.co.za privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617202011id_/http%3A//www.dstv.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # DStv - Privacy Policy
 
 **MULTICHOICE AFRICA (PTY) LTD ("MULTICHOICE")**
 
   1. MultiChoice Africa ("MultiChoice") believes in protecting the personal information it collects from individuals that access or use ("users") the website situated at http://www.dstv.com ("the DStv website"). 
-  2. By accessing the DStv website, users agree to be bound by the privacy policy effective at the time of such access. This privacy policy forms part of the MultiChoice website [terms and conditions.](https://web.archive.org/web/20051210064205id_/http%3A//www.dstv.com/terms_conditions.aspx)
+  2. By accessing the DStv website, users agree to be bound by the privacy policy effective at the time of such access. This privacy policy forms part of the MultiChoice website [terms and conditions.](https://web.archive.org/web/20060617202011id_/http%3A//www.dstv.com/terms_conditions.aspx)
   3. MultiChoice reserves the right in its sole discretion to amend this privacy policy from time to time. In this event, MultiChoice will post the revised policy on the DStv website. Each time a user accesses the DStv website, the user agrees to be bound by the policy posted on the DStv website at the time. 
   4. MultiChoice will take all reasonable steps to use or disclose users' personal information only in the manner allowed by this policy. 
   5. In clauses 14, 15 and 22 "MultiChoice" includes companies in the Naspers/MIH Group of companies ("MultiChoice's affiliates"). 
