@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218030609id_/http%3A//invitationconsultants.com/dprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617204950id_/http%3A//www.invitationconsultants.com/dprivacy.asp) for the most accurate reproduction.*
 
 # Invitation Consultants Customer Service
 
@@ -111,4 +111,4 @@ Fax 813-879-4478
 [CustomerService@invitationconsultants.com](mailto:CustomerService@invitationconsultants.com)   
 
 
-[Back to Main Customer Service Page](https://web.archive.org/web/20051218030609id_/http%3A//invitationconsultants.com/oinfo.asp)   
+[Back to Main Customer Service Page](https://web.archive.org/web/20060617204950id_/http%3A//www.invitationconsultants.com/oinfo.asp)   
