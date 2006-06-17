@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the campaignmonitor.com privacy policy that was archived on 2005-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050624123503id_/http%3A//www.campaignmonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaignmonitor.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617111939id_/http%3A//www.campaignmonitor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Campaign Monitor
-
-  
-
 
 ## Privacy Statement
 
@@ -19,7 +16,7 @@ Your email address is used to only send you information that you have requested.
 
 ### Subscriber Lists, Campaign Content and Campaign Reports
 
-Campaign Monitor ensures that all subscriber lists, email content and reports remain private and confidential. Campaign Monitor may scan the content of your campaigns to ensure it complies with our [Terms of Use](https://web.archive.org/terms/) — to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. Campaign Monitor will not sell, rent, loan or invite external access to a customer's contact lists. Nor will Campaign Monitor themselves use customer's contact lists for any purpose.
+Campaign Monitor ensures that all subscriber lists, email content and reports remain private and confidential. Campaign Monitor may scan the content of your campaigns to ensure it complies with our [Terms of Use](https://web.archive.org/web/20060617111939id_/http://www.campaignmonitor.com/terms/) — to protect against defamatory, inaccurate, abusive, obscene, profane, or threatening material that is racially or ethnically offensive. Campaign Monitor will not sell, rent, loan or invite external access to a customer's contact lists. Nor will Campaign Monitor themselves use customer's contact lists for any purpose.
 
 ### Communications from the Site
 
