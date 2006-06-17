@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baja.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222225724id_/http%3A//www.baja.com/pany/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baja.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617155609id_/http%3A//www.baja.com/pany/privacy.htm) for the most accurate reproduction.*
 
 # baja.com / privacy statement
 
@@ -67,8 +67,8 @@ Although we make every effort to preserve your privacy as described above we may
 
  **[ok then!](http://www.baja.com/)**
 
-Last updated July 11 -2002  
+Last updated July 11 -2005  
   
    
   
-[ ](http://publicidad.baja.com/progs/redirect.cgi?AD=baja_group)
+[ ](http://www.baja.com/)
