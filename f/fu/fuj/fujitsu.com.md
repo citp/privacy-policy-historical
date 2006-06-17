@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujitsu.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221140855id_/http%3A//www.fujitsu.com/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujitsu.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617021441id_/http%3A//www.fujitsu.com/global/privacy) for the most accurate reproduction.*
 
 # Fujitsu privacy policy : FUJITSU
 
