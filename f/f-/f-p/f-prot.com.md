@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the f-prot.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231134128id_/http%3A//www.f-prot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f-prot.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617122531id_/http%3A//www.f-prot.com/privacy.html) for the most accurate reproduction.*
 
 # F-Prot Antivirus for Windows, Linux, BSD, Exchange, AIX, Solaris and DOS | F-Prot AVES - anti-spam and anti-virus e-mail filtering service
 
