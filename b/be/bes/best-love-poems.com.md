@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-love-poems.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228124626id_/http%3A//www.best-love-poems.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-love-poems.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617141527id_/http%3A//www.best-love-poems.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -6,18 +6,18 @@
 
 ### : love & romance
 
-  * [love poems](https://web.archive.org/web/20051228124626id_/http%3A//www.best-love-poems.com/love_poems.html)
-  * [love quotes](https://web.archive.org/web/20051228124626id_/http%3A//www.best-love-poems.com/love_quotes.htm)
-  * [best poems](https://web.archive.org/web/20051228124626id_/http%3A//www.best-love-poems.com/best_love_poems.html)
-  * [send flowers](https://web.archive.org/web/20051228124626id_/http%3A//www.best-love-poems.com/send_flowers.html)
-  * [find your love](https://web.archive.org/web/20051228124626id_/http%3A//www.best-love-poems.com/find_love.html)
-  * [web resources](https://web.archive.org/web/20051228124626id_/http%3A//www.best-love-poems.com/love_sites.html)
+  * [love poems](https://web.archive.org/web/20060617141527id_/http%3A//www.best-love-poems.com/love_poems.html)
+  * [love quotes](https://web.archive.org/web/20060617141527id_/http%3A//www.best-love-poems.com/love_quotes.htm)
+  * [best poems](https://web.archive.org/web/20060617141527id_/http%3A//www.best-love-poems.com/best_love_poems.html)
+  * [send flowers](https://web.archive.org/web/20060617141527id_/http%3A//www.best-love-poems.com/send_flowers.html)
+  * [find your love](https://web.archive.org/web/20060617141527id_/http%3A//www.best-love-poems.com/find_love.html)
+  * [web resources](https://web.archive.org/web/20060617141527id_/http%3A//www.best-love-poems.com/love_sites.html)
 
 
 
 ### : poems & quotes
 
-  * [love, romance](https://web.archive.org/web/20051228124626id_/http%3A//www.best-love-poems.com/index.html)
+  * [love, romance](https://web.archive.org/web/20060617141527id_/http%3A//www.best-love-poems.com/index.html)
   * [friendship, family](http://www.friendship-poems.com/)
   * [fun, humor](http://www.poems-and-quotes.com/funny/)
   * [sadness, depression](http://www.poems-and-quotes.com/sad/)
@@ -31,7 +31,7 @@
 
 | 
 
-This privacy statement discloses the privacy policy of Poems & Quotes. Questions regarding this statement should be sent [here](https://web.archive.org/web/20051228124626id_/http%3A//www.best-love-poems.com/contact.html).
+This privacy statement discloses the privacy policy of Poems & Quotes. Questions regarding this statement should be sent [here](https://web.archive.org/web/20060617141527id_/http%3A//www.best-love-poems.com/contact.html).
 
 ## Information Collection and Use
 
