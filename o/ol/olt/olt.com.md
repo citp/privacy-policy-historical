@@ -1,145 +1,79 @@
-> *The following text is extracted and transformed from the olt.com privacy policy that was archived on 1999-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991129035000id_/http%3A//www.mail.com/mailcom/privacypolicy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olt.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617224720id_/http%3A//www.olt.com/main/home/privacysecurity.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# OnLine Taxes respects your privacy - Please read our Privacy/Security Policy.
 
-[](https://www.truste.org/validate/4596)
+ OnLine Taxes Privacy Policy 
 
-The TRUSTe seal verifies that Mail.com is a member of the TRUSTe Program and the company and this privacy statement are in compliance with TRUSTe's privacy principles. 
+* * *
 
-**About TRUSTe**
+**
 
-When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected; the organization collecting the information; how the information is used, and with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information under the website's control; and how you can correct any inaccuracies in the information. 
+(Effective January 5, 2004)
 
-Questions regarding this statement should be directed to Mail.com by e-mail to [privacydirector@mail.com](mailto:privacydirector@mail.com). 
+**
 
-If Mail.com has not responded to your inquiry within five business days or your inquiry has not been satisfactorily addressed, please contact TRUSTe ([http://www.truste.org](http://www.truste.org/)). 
+On-Line Taxes, Inc. (we, us) recognize your need for the appropriate protection and management of your personally identifiable information ("Personal Information") that we may acquire in connection with your use of our web site (the "Web Site"), tax preparation software (the "Software"), and the services offered on our web site (the "Services"). Accordingly, we have instituted this privacy policy ("Privacy Policy") to inform you how we collect, use, and store your Personal Information.
 
-**Overview**
-
-At Mail.com, we respect your privacy. We do collect information from you, but it is our policy and priority to ensure that all personal information remains private and secure. To earn your trust and confidence in the Internet and in Mail.com, we are disclosing our privacy practices and the uses of the information we gather. 
-
-To protect your privacy, Mail.com: 
-
-  * Will not release personal identifying information about you without first obtaining your consent, unless required to do so by law 
-  * Will not knowingly use personal identifying information from children younger than 13 without parental consent 
-  * Will inform you when we change our privacy policy, either by e-mail, newsletter or via a link on your Welcome Page when you log in
+ ** _Acceptance of and Changes to Privacy Policy  
+_**  
 
 
+This Privacy Policy is a part of and subject to the On-Line Taxes User Agreement and the On-Line taxes Professional Tax Preparer User Agreement (each, the "Agreement"). Accordingly, when you click the "I Agree" button, or access or use the Web Site, Software, or the Services, you agree that you have read, understand, and agree that we can collect, use, and disclose your information in accordance with this Privacy Policy. If you do not agree or are not comfortable with any part of this Privacy Policy, you should indicate that you do not agree to the Agreement (including this Privacy Policy) and you may not use the Web Site, Software, or the Services.
 
-These links provide detailed information on our privacy practices:   
+When you receive notification of a change in our Privacy Policy, you should review the new Privacy Policy carefully to make sure you understand our practices and procedures.
 
-
-  1. What general information does Mail.com collect and how is it used?
-  2. What personal information does Mail.com collect and how is it used?
-  3. What are cookies and how does Mail.com use them?
-  4. How do third-party advertisers use my information?
-  5. How does Mail.com protect the privacy of children younger than 13?
-  6. How can I access, change or delete information about myself?
-  7. How may I protect my privacy on the Internet and within Mail.com?
-
-Mail.com reserves the right to amend this Privacy Statement at any time without prior notice, and only the current Privacy Statement may be deemed effective. 
-
-**1\. What _general_ information does Mail.com collect about me and how is it used?**   
-When you visit Mail.com, we collect some basic information about your computer, such as: 
-
-  * IP address (your computer's unique signature)
-  * Operating system (e.g., Windows 95)
-  * Browser software (e.g., Microsoft Internet Explorer, Netscape)
-  * Internet Service Provider (e.g., Earthlink, Bell Atlantic)
-  * Other numeric codes used to identify a computer
-
-The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit Mail.com. In addition, like many other sites with paid advertising, we disclose some of this _aggregate_ information to advertisers to inform them of the number of people who have seen and clicked on their advertisements. 
-
-**2\. What _personal_ information does Mail.com collect about me and how is it used?**   
-During the Mail.com signup process, we ask you to supply personal information, including your first name, last name, address, birth date and an alternate e-mail address. We also ask if you would like to receive promotional material from our sponsors and great offers from our partners. 
-
-Once you are a member, Mail.com may ask you to update your personal information from time to time. We use this information to personalize our services which include e-mail, calendar, member surveys, and customer service. We also use this information, in aggregate, to better target advertising banners and make the content more relevant to each member. 
-
-**Communication**   
-As a new member, you will find a welcome letter waiting for you when you first log into your new mailbox. 
-
-Established members will receive: 
-
-  * **A periodic gift.** Occasionally, we are able to offer you some really great deals from companies offering free gifts, services or coupons. We pass these gifts on to you, but out of respect for your privacy, we allow members to unsubscribe from these promotions by sending an e-mail to [stopgifts@mail.com](mailto:stopgifts@mail.com).
-  * **A periodic newsletter and service announcements.** The newsletter contains general information about your e-mail account and interesting news from the internet. The service announcements contain information regarding updates to our services, features, or products. Newsletters are mailed not more than once per week. Members are not able to unsubscribe from the newsletter or service announcements. 
+ ** _Information Collection and Use of Personal Information  
+_**  
 
 
+We collect Personal Information from you for the purpose of providing the Web Site, Software, and Services. Further, we use your Personal Information to allow you to prepare and file tax returns, collect your tax refund, and use the other Services that we offer.
 
-If you do not log in for a prolonged period of time, we may use your alternate e-mail address and home address to insure that you receive important news about your Mail.com account or other information that you have requested. 
+**Tax Information** – We collect the information that you provide to us when you complete and file any tax return using the Software and the Services. This information includes, but is not limited to: your name, social security number, address, income, dependents, and other financial information. We may also use this information to contact you regarding your use of the Services. Further, if you make a claim for a refund under the limited warranty in the Agreement, we will use any Personal Information that you have provided in order to evaluate your claim.
 
-Mail.com cooperates with law enforcement agencies to identify those who use our services for illegal activities. We reserve the right to release information about members who we believe are in violation of our user agreement, even without a subpoena, warrant or court order. We also reserve the right to report to law enforcement agencies any activities that we reasonably believe to be unlawful. 
+You may review and change this Personal Information at any time before the IRS or state taxing authority accepts your tax return by simply logging on to the Web Site and accessing your tax return. After the IRS or state taxing authority accepts your tax return, you cannot change the Personal Information contained in that tax return. However, you may access that tax return through your account on the Web Site up until October 20 of the next tax year following acceptance by the applicable taxing authority.
 
-**Credit Cards**   
-If you sign up for premium services, Mail.com will use your credit card number in order to provide you with the services that you request. Information collected by Mail.com is encrypted using SSL technology and is stored on secure servers. Credit card transactions are processed by an established financial institution. Access to credit card information at Mail.com is restricted to authorized staff only, in a manner consistent with or exceeding industry standards. 
+**Registration Information** – When you register to use the Software and the Services or simply register to receive the On-Line Taxes newsletter, we collect your name and email address to provide you with the On-Line Taxes newsletter. To be removed from the newsletter list, simply click the "unsubscribe" link on the On-Line Taxes newsletter. If you register to use the Services and the Software, we will also use this information to provide you with customer service. Please contact On-Line Taxes Customer Service if you believe that you have provided On-Line Taxes with an incorrect email address or to change your email address.
 
-Remember that third-party vendors also sell products and services via advertising on Mail.com and their policies may differ from those of Mail.com. 
+**Financial Information** – We collect credit card, banking, and other financial information ("Financial Information") from you in order to allow you to pay to use the Software and Services and, in some cases, to receive your tax refund via direct deposit. You will know when we are collecting Financial Information from you, because you will provide it to us via the Web Site. At times, however, we will obtain relevant information that we need from third-parties. For example, if you choose to pay with a credit card, you will need to provide us with your credit card information. As another example, if you choose to receive your refund through direct deposit, you must provide us with your bank information. We do not use Financial Information for anything other than to process transactions. If you would like to review or request changes to your Financial Information, please contact On-Line Taxes Customer Service and we will allow you to review your Financial Information and we will make any changes that we believe are applicable.
 
-**3\. What are cookies and how does Mail.com use them?**   
-Mail.com requires each member to enable cookies to login and use our services. 
+ ** _Disclosure of Personal Information  
+_**
 
-**What is a Cookie?**   
-A cookie is a very small text file placed on your hard drive - with your permission - by a web server. 
+We will generally not disclose your Personal Information to unaffiliated third-parties. Specifically, we do not sell or rent your Personal Information to third-party advertisers, "spammers", or anyone else who we know will use it for their own advertising or marketing purposes. We will, however, disclose your Personal Information under the limited circumstances listed below:
 
-**Why do we use Cookies?**   
-_Identification:_ We use cookies to identify you uniquely. For example, this allows us to pre-populate your e-mail address on the login page. 
+**Tax Returns.** When you prepare and file a tax return using the Software and Services, that tax return, and the Personal Information that you include in it, will be provided to the taxing authority with whom the tax return is filed. The IRS and any applicable state taxing authority will use this information to process your return. In addition, each year the IRS analyzes data from tax returns to monitor tax-filing trends, improve its processes, prevent fraud, and promote its services. The IRS currently requires that all returns filed through the Free File program (including those filed through the Services) indicate that they originated from the Free File program, and may use that information consistent with IRS rules governing the collection and use of taxpayer data. On-Line Taxes does not control and takes no responsibility for IRS use of Personal Information.
 
-_Tracking and Maintaining Session info:_ Once you have logged in, we use the cookie to distinguish between your mail session and that of the many other people using our service. For example: After you have written a message and you go to your Inbox, we need to display your Inbox and not somebody else's. Setting cookies is currently the best method of maintaining session information over the web. Mail.com may allow advertisers or partners to set cookies, however, only if they agree to abide by our privacy rules and policies. 
+**Third-Party Providers.** If you ask us to do so, we may disclose certain Personal Information to third-party service providers who help us maintain the Web Site, Software, or the Services through the Web Site. For example, Santa Barbara Bank and Trust provides refund anticipation loans and "pay from refund" services. If you request either of these services, we will disclose the Personal Information contained in your tax return to them so that they can process and evaluate your request for these services. We will also disclose your Financial Information to the institutions and companies who will process your payment for the Services. Where possible, we will take reasonable steps to ensure that these third-party service providers are obligated to protect your Personal Information on our behalf.
 
-**Are cookies secure?**   
-A cookie cannot contain program code, so it cannot be used as a virus nor can it be used to extract data from your system. When a cookie is set, only the server which set the cookie can access the information in that cookie. The use of cookies allows Mail.com to provide a higher level of security for your e-mail account. 
+**Tell-A-Friend.** If you use our referral service to inform a friend about our Web Site, we will ask you for your friend’s name and email address. We will contact your friend using our Web Site and use your name and email address to inform your friend that you referred them to us.
 
-**How do I change the way my browser handles cookies?**   
-Most browsers allow three options for handling cookies: 
+**Emergencies and Disclosure Required by Law.** We reserve the right to disclose your Personal Information without your consent to prevent an emergency, to protect or enforce our rights, to protect or enforce the rights of a third-party, as required or permitted by law (including, without limitation, to comply with a subpoena or court order), in response to an inquiry or request from regulatory authorities, or to protect against fraud. You should note that the taxing authorities frequently request information regarding our users’ use of the Software and Services, and we comply with such requests.
 
-  * Accept all cookies
-  * Warn before accepting a cookie
-  * Reject all cookies
+ ** _SSL and Data Security  
+_**
 
-Our web-based mail service will not function unless your browser is set to accept cookies. Instructions for enabling and disabling cookies can be found through the help menu on most browsers. If you have continued trouble changing your cookie settings, you may contact our support site for additional help. 
+Our Web Site uses Secure Socket Layer (SSL) encryption using a Verisign certificate to protect Personal Information. We restrict access to our users’ information that we keep in our offices. Only employees who need such information to perform a specific job are granted access to it.
 
-**4\. How do third-party advertisers use my information?**   
-As a Mail.com Member, you may, at the time of sign up and during subsequent use of our services, request to receive information from select third party sponsors. This information is a good way to learn about special offers on the web. In order to provide you with your requested services, we may share some of your information such as name and e-mail address with third party sponsors. 
+We cannot and do not act as insurers of the security of your Personal Information, particularly when it is transmitted over the Internet. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorized third-party access or other acts of third-parties, or acts or omissions beyond our reasonable control.
 
-You may request that e-mail be sent to your Mail.com account containing promotional offers, editorial content, or calendar reminders at any time. If you have requested such e-mail and you have not logged into your account for a prolonged period of time, we may forward the requested information to your alternate e-mail address. Mail.com will not disclose your alternate e-mail address to any third parties without your permission. 
+ ** _Non-Personal Information_**
 
-All promotional e-mails that you request through Mail.com will include a removal procedure which will allow you to discontinue receiving further e-mail offers. i.e., you can change your mind about receiving further e-mails at a later date. 
+We collect information from you that cannot be easily used to personally identify you in most cases, such as your browser type, the URL of the previous web site you visited, and your IP address ("Non-Personal Information"). We use IP addresses to analyze trends, administer the Web Site, track a user’s movement, and gather broad demographic information for aggregate use. Further, our server is hosted by IBM, and IBM monitors traffic for the purposes of maintaining the security of our Web Site. We may set an indicator (cookie) on your computer to assist in gathering the information. The indicator will expire the next day and become inactive.
 
-If you receive an e-mail from a third party stating that it is associated with Mail.com, yet you do not recall asking for the information, please follow the third party's removal procedures. If this procedure is not successful, please forward the e-mail with a summary of your experience to [privacydirector@mail.com](mailto:privacydirector@mail.com). 
+The IRS requires that your IP address be linked to your Personal Information. Accordingly, we treat your IP address as "Personal Information" and will protect it as such, as outlined in this Privacy Policy. In addition, in an attempt to detect fraud, we provide your IP address to the applicable taxing authority when you file your tax return using the Services.
 
-Additionally, be aware that when you click on ad banners, you may be brought to other sites not operated by Mail.com. You are responsible for information you provide these sites. We recommend that you review the privacy policy of any site that requests personal information. 
+ ** _A Note About Children’s Privacy_**
 
-**5\. How does Mail.com protect the privacy of children younger than 13?**   
-We believe that it's especially important to protect children's privacy online. 
+The Web Site, Software, and Services are intended for users ages eighteen and older. Individuals under eighteen years old are not allowed to use the Web Site, Software, or Services. Accordingly, we will not knowingly collect or use any Personal Information from individuals we know to be under the age of eighteen. In addition, if notified, we will delete any Personal Information in our database that originates from anyone under the age of eighteen. However, a parent or guardian may input data for a taxpayer under the age of eighteen.
 
-**Note:** _Mail.com defines "children" as minors younger than 13._
+ ** _Better Business Bureau_**
 
-Mail.com does ask that children under 13 get their parent's permission to sign up for a new account. We administrate this by asking the parent to click on a box saying it's O.K. for the child to use the service after entering their registration information. 
+Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine ® Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine ®. Further information about this program is available at [www.bbbonline.org](http://www.bbbonline.org/).
 
-All general information collected from children is used only for statistical analysis, feedback and those purposes described in the signup process. We actively block the transmission of children's personal information to advertising third parties, regardless of whether children request promotional opportunities through us. 
+  
+**_Customer Support_**
 
-There are a number of emerging standards in the area of children's privacy that will affect how we process a child's profile information in the future. Through our participation in TRUSTe, Mail.com is monitoring these changes and will continue to redesign its systems so as to comply with these new requirements. 
+If you have any questions or concerns, you can contact our [Customer Service Department](https://web.archive.org/web/20060617224720id_/http%3A//www.olt.com/main/home/service.asp).
 
-**6\. How do I access, change or delete information about myself?**   
-Your personal information can be accessed, or changed by selecting "My account" then "Personal Info" in the navigation bar on the left, once you are logged in. If you would like to close your account and delete your personal information from our online servers, you can send an e-mail to [support@mail.com](mailto:support@mail.com) and follow the process to close an account. 
+  
 
-If, at any time, you would like to stop receiving promotional materials from Mail.com or promotional e-mails from third parties (which you signed up for), then follow the removal procedures at the end of the e-mail. If this is not successful, please contact us at [privacydirector@mail.com](mailto:privacydirector@mail.com). 
-
-**7\. How may I protect my privacy on the Internet and within Mail.com?**
-
-  1. **Know the risks.**   
-If you provide your e-mail address to public domains such as chat rooms or newsgroups, or you provide it to websites which don't respect your privacy, you may begin to receive unsolicited e-mail. Unsolicited e-mail is also known as spam. Although Mail.com has strict rules prohibiting spam and we do block certain known groups from sending unsolicited messages to Mail.com members, it is generally a good idea to provide your e-mail address only to people or groups that you trust. 
-  2. **Educate yourself.**   
-Look for a privacy statement on every site you visit on the Web, and search for information on how to protect your privacy. Start with TRUSTe, an independent, nonprofit initiative dedicated to building users' trust and confidence in the Internet. 
-  3. **Tell your children: "Never talk to strangers!"**   
-Teach children not to give out their names or other personal information. Tell them never to fill out online registration forms without your knowledge and consent. 
-  4. **Use complex passwords.**   
-If your password is simple, it is also simple for a hacker to break it and gain access to your e-mail account or other private areas. To protect your privacy, you should use complex passwords consisting of very long and awkward keystroke combinations. This makes the hacker's job much more difficult. 
-
-We send reminders of your account passwords only after the appropriate security questions have been answered. NEVER GIVE YOUR PASSWORD TO ANYONE. If someone claiming to represent Mail.com in an e-mail or chat room asks for your Mail.com password, DO NOT RESPOND. The only time we ask for your password is via a web page, when you need to access our system (such as the login screen). Please help us keep our records current by updating your personal information when it changes. You can access your personal information by selecting "My Account, Personal Information" from the navigation bar on the left, when you're logged into your account. 
-
-
-
-
-This privacy policy is part of our User Agreement and you agree to be bound by all of its terms and conditions. 
-
-Last updated 10/1/99 
