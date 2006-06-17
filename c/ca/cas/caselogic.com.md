@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caselogic.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228132233id_/http%3A//www.caselogic.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caselogic.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617032654id_/http%3A//www.caselogic.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
 
 # Case Logic - CD, MP3, DVD, Laptop Cases, and more
 
@@ -6,7 +6,7 @@
 
 ### Our Privacy Policy
 
-Last Updated: 7/14/05; We understand and share your concern about privacy. We want to assure you that Case Logic and its vendors respect your privacy and treat your personal information with the highest commercially reasonable standards of safety, security and confidentiality. To better protect your privacy, We provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to [help@online.caselogic.com](mailto:help@online.caselogic.com). 
+Last Updated: 7/14/05; We understand and share your concern about privacy. We want to assure you that Case Logic and its vendors (collectively, "Case Logic" or "We" or "Our") respect your privacy and treat your personal information with the highest commercially reasonable standards of safety, security and confidentiality. To better protect your privacy, We provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you have questions regarding this Policy, you may direct them to [help@online.caselogic.com](mailto:help@online.caselogic.com). 
 
   * What information does Case Logic collect?
   * Our use of your information
