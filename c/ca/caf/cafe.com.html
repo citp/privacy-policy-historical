@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cafe.com privacy policy that was archived on 2005-03-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050307115052id_/http%3A//www.cafe.com/index.php%3Fd%3Dfooter%26p%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cafe.com privacy policy that was archived on 2006-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060617172113id_/http%3A//cafe.com/index.php%3Fd%3Dfooter%26p%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>Cafe.com Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -7,7 +7,68 @@
 <meta name="description" content="Cafe.com's Privacy Policy"> 
 
 
+
 <link rel="stylesheet" type="text/css" href="bodyStyles.css" title="bodyStyles">
+
+<style type="text/css">
+<!--
+#sponsorAdDiv {position:absolute; height:1; width:1px; top:0; left:0;}
+-->
+</style>
+
+<script type="text/javascript">
+
+/******************************************
+* DHTML Ad Box (By Matt Gabbert at http://www.nolag.com)
+* Visit http://www.dynamicdrive.com/ for full script
+* This notice must stay intact for use
+******************************************/
+
+adTime=7;  // seconds ad reminder is shown
+chanceAd=1; // ad will be shown 1 in X times (put 1 for everytime)
+
+var ns=(document.layers);
+var ie=(document.all);
+var w3=(document.getElementById && !ie);
+var calunit=ns? "" : "px"
+adCount=0;
+function initAd(){
+	if(!ns && !ie && !w3) return;
+	if(ie)		adDiv=eval('document.all.sponsorAdDiv.style');
+	else if(ns)	adDiv=eval('document.layers["sponsorAdDiv"]');
+	else if(w3)	adDiv=eval('document.getElementById("sponsorAdDiv").style');
+	randAd=Math.ceil(Math.random()*chanceAd);
+        if (ie||w3)
+        adDiv.visibility="visible";
+        else
+        adDiv.visibility ="show";
+	if(randAd==1) showAd();
+}
+function showAd(){
+if(adCount<adTime*10){adCount+=1;
+	if (ie){documentWidth  =truebody().offsetWidth/2+truebody().scrollLeft-20;
+	documentHeight =truebody().offsetHeight/2+truebody().scrollTop-20;}	
+	else if (ns){documentWidth=window.innerWidth/2+window.pageXOffset-20;
+	documentHeight=window.innerHeight/2+window.pageYOffset-20;} 
+	else if (w3){documentWidth=self.innerWidth/2+window.pageXOffset-20;
+	documentHeight=self.innerHeight/2+window.pageYOffset-20;} 
+	adDiv.left=documentWidth-200+calunit;adDiv.top =documentHeight-200+calunit;
+	setTimeout("showAd()",100);}else closeAd();
+}
+function closeAd(){
+if (ie||w3)
+adDiv.display="none";
+else
+adDiv.visibility ="hide";
+}
+
+function truebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+onload=initAd;
+//End-->
+</script>
 
 </head>
 <body marginheight="0" marginwidth="0">
@@ -44,12 +105,29 @@
     <td class="border" width="1"><img height="23" alt="" src="images/spacer.gif" width="1"></td>
     <td class="menubgcolor" align="middle" width="121"><a class="plain" 5);"="" href="index.php?d=about_us">About Us</a></td>
     <td class="border" width="1"><img height="23" alt="" src="images/spacer.gif" width="1"></td>
-        <!-- Atomz Search HTML for Cafe.com -->
-<form method="get" action="http://search.atomz.com/search/"></form>
-<input type="hidden" name="sp-a" value="sp10029361">
-<input type="hidden" name="sp-p" value="all">
-<input type="hidden" name="sp-f" value="Windows-1252">
-    <td class="menubgcolor" width="539" align="right"><nobr><input size="20" name="sp-q">&nbsp;<input type="submit" value="Site Search">&nbsp;</nobr>
+<!--Atomz Search HTML for Cafe.com
+<form method="get" action="http://search.atomz.com/search/">
+<input type=hidden name="sp-a" value="sp10029361">
+<input type=hidden name="sp-p" value="all">
+<input type=hidden name="sp-f" value="Windows-1252">
+    <TD class=menubgcolor width="539" align=right><nobr><input size=20 name="sp-q">&nbsp;<input type=submit value="Site Search">&nbsp;</nobr>
+-->
+
+
+<!-- SiteSearch Google -->
+<form method="get" action="http://www.google.com/custom" target="google_window"></form>
+<input type="hidden" name="domains" value="www.cafe.com">
+<input type="hidden" name="sitesearch" value="www.cafe.com" checked="checked">
+<input type="hidden" name="client" value="pub-9103390608612678">
+<input type="hidden" name="forid" value="1">
+<input type="hidden" name="ie" value="ISO-8859-1">
+<input type="hidden" name="oe" value="ISO-8859-1">
+<input type="hidden" name="cof" value="GALT:#999999;GL:1;DIV:#CC3333;VLC:660000;AH:center;BGC:FFFFFF;LBGC:FF9900;ALC:0000FF;LC:0000FF;T:333333;GFNT:999999;GIMP:999999;LH:30;LW:132;L:http://www.cafe.com/images/logo_cafe.gif;S:http://www.cafe.com;FORID:1;">
+<input type="hidden" name="hl" value="en">
+    <td class="menubgcolor" width="539" align="right"><nobr><input type="text" name="q" size="20" maxlength="255" value="">&nbsp;<input type="submit" name="sa" value="Site Search"></nobr>
+<!-- SiteSearch Google -->
+
+
     </td>
     
   </tr>
@@ -87,7 +165,7 @@ Personal information you provide in connection with the account registration pro
   </tr>
   <tr>
     <td nowrap="" align="center">
-    <a href="index.php?d=footer&amp;p=copyright">© 2001-2005 Cafe.com®, Inc.</a>
+    <a href="index.php?d=footer&amp;p=copyright">© 2001-2006 Cafe.com®, Inc.</a>
      | 
     <a href="index.php?d=footer&amp;p=subscriber_agreement">Subscriber&nbsp;Agreement</a>
      | 
