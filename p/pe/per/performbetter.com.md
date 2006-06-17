@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performbetter.com privacy policy that was archived on 2005-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050510082312id_/http%3A//www.performbetter.com/catalog/matriarch/switch.asp_Q_PageID_E_41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performbetter.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617020725id_/http%3A//performbetter.com/catalog/matriarch/switch.asp_Q_PageID_E_41) for the most accurate reproduction.*
 
 # Perform Better: on-line catalog of plyometric, strength training, speed training, weight lifting and functional training equipment.
 
