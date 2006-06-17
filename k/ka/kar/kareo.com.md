@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211052340id_/http%3A//www.kareo.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617210251id_/http%3A//www.kareo.com/company/policies/privacy) for the most accurate reproduction.*
 
 # Kareo - Privacy Policy
 
@@ -20,7 +20,7 @@ How we protect your personal information
 
   * You do not have to give us any personal information to visit the product information portion of our web site. No personally identifying information (such as your name, e-mail address, or Social Security number) will be collected unless you choose to provide that information to us.
   * Kareo collects personal information when you sign up for a trial or paid subscription to the Kareo service. When you sign up, we ask for your name, email address, phone number, and your company's demographic and financial information.
-  * When you sign up for a paid subscription, we will ask you for your credit card information to be sent to us via fax. This information is kept secure in a fire-proof, locked vault on Kareo premises.
+  * When you sign up for a paid subscription, we will ask you for your credit card or bank account information. This information is kept secure on our computer systems using industry-standard encryption on the data. The only personnel at Kareo with access to your payment information are those with the responsibility for billing you for our services. They protect their access to the system with password-protected, encrypted keys.
   * Kareo automatically receives and records information on our server logs from your browser, including your IP address and the page you request.
   * Kareo uses information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting. 
 
@@ -68,18 +68,18 @@ Kareo may update this policy at any time for any reason. If there are any signif
   If you have questions or suggestions you can contact us at: 
 
 Kareo Support - Privacy Policy  
-13891 Newport Ave  
-Suite 225  
-Tustin, CA 92780  
+1201 Dove Street  
+Suite 600  
+Newport Beach, CA 92660  
 [privacy@kareo.com](mailto:privacy@kareo.com)  
 
 
 **Last Updated**
 
-  This policy was last updated on April 11, 2005. 
+  This policy was last updated on April 27, 2006. The last change was an update of the Kareo mailing address, and an update of the way that Kareo stores your credit card or bank account information. 
 
 |  |    
   
+[](https://www.kareo.com/account_signup)  
   
-  
-© Copyright 2005 Kareo, Inc. All Rights Reserved 
+© 2006 Kareo, Inc. All Rights Reserved
