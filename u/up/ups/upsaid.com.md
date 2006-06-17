@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the upsaid.com privacy policy that was archived on 2005-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051128235513id_/http%3A//www.upsaid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsaid.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617184444id_/http%3A//upsaid.com/privacy.php) for the most accurate reproduction.*
 
 # Upsaid : Privacy policy
 
-| | |   
----|---|---  
-**Privacy policy** |  |  | **Registration information**  
+|  | **Registration information**  
 Upsaid requires specific information from registered members as they sign up. This information is limited to: First name, age, gender, and e-mail address.
 
 How Upsaid uses this information: The First Name, Age, and Gender are only gathered for demographic and statistical purposes, helping us get to know and understand our users.  
@@ -31,5 +29,4 @@ _When posting a comment:_ when a visitor posts a comment on any of the Upsaid jo
 
 The puropse of this is to prevent spamming or flooding. The user has the possibility to block IPs from posting comments on his /her entries, or from signing his / her guestbook. 
 
-If you have any further questions regarding our privacy policy, please send an  
-e-mail to [webmaster@upsaid.com](mailto:webmaster@upsaid.com)
+If you have any further questions regarding our privacy policy, please send an e-mail to [webmaster@upsaid.com](mailto:webmaster@upsaid.com) .
