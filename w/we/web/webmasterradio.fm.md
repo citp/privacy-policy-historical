@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210103758id_/http%3A//webmasterradio.fm/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617215045id_/http%3A//webmasterradio.fm/privacy.php) for the most accurate reproduction.*
 
 # Free Internet Radio, just load Webmaster Radio 24/7
 
