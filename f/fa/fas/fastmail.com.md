@@ -1,10 +1,31 @@
-> *The following text is extracted and transformed from the fastmail.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308173231id_/http%3A//fastweb.monster.com/fastweb/content/aboutus/privacy.ptml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastmail.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617172120id_/http%3A//fastmail.com/fastweb/about/privacy%3Fid%3D) for the most accurate reproduction.*
 
 # FastWeb: Privacy Policy — Your Privacy Rights
 
+|  |  |   
+---|---|---  
+| Benefits of FastWeb  
+---  
+• | Largest source of local, national and college-specific scholarships  
+• | Personalized scholarship matching  
+• | Search and compare colleges that are right for you  
+• | Find colleges with scholarship money for you  
+• | Tools and tips to help you pay for college  
+• | Jobs and internships for students  
+[](https://web.archive.org/ib/nl_df-1f)  
   
-|    
+Return User Login
+
+| Email: |   
+---|---  
+Password: |   
+|  |   
 | 
+
+[](https://web.archive.org/printer/about/privacy?id=)
+
+  
+
 
 At FastWeb, we share your concerns about privacy. Since an essential function of this site is performing customized scholarship, admission and job searches largely based upon the information you input, we want you to understand what types of information we are collecting and what may happen to that information. Our privacy policy covers these areas: 
 
@@ -67,7 +88,7 @@ If you have any questions about security issues at our site, please send an e-ma
 
   5. **HOW YOU CAN UPDATE YOUR INFORMATION**
 
-You can update your personal information by clicking [here](https://web.archive.org/fastweb/all/update/update.ptml?ID=), by clicking on the "Update Profile" link on the FastWeb site, or by following the instructions included in any e-mail message you receive from FastWeb. Users who are experiencing problems with updating their information should contact us at [CustomerService@FastWeb.com](mailto:CustomerService@fastweb.com), and we will try to resolve your problems. 
+You can update your personal information by clicking [here](https://web.archive.org/fastweb/my/update/index?id=), by clicking on the "Update Profile" link on the FastWeb site, or by following the instructions included in any e-mail message you receive from FastWeb. Users who are experiencing problems with updating their information should contact us at [CustomerService@FastWeb.com](mailto:CustomerService@fastweb.com), and we will try to resolve your problems.
 
   6. **OTHER PROVISIONS**
 
@@ -79,7 +100,7 @@ _Other_ \--In the event that FastWeb sells, assigns or transfers some or all of 
 
 _Links to Other Sites_ \--This site contains links to other sites. Please be aware that FastWeb does not exercise control over the information, products, services or policies of third party companies accessible through our site. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every third party site. This Privacy Policy applies solely to the information collected by this site. 
 
-_Choice/Opt-out_ \--FastWeb users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site. You may opt-out from receiving specified types of communications from FastWeb by clicking [here](https://web.archive.org/fastweb/all/misc/privacy-prefs.ptml?ID=). FastWeb will only communicate with you according to your instructions. If you have any questions relating to opting-out, please contact us at [CustomerService@FastWeb.com](mailto:CustomerService@fastweb.com), and we will try to answer your questions. 
+_Choice/Opt-out_ \--FastWeb users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site. You may opt-out from receiving specified types of communications from FastWeb by clicking [here](https://web.archive.org/fastweb/my/update/privacy?id=). FastWeb will only communicate with you according to your instructions. If you have any questions relating to opting-out, please contact us at [CustomerService@FastWeb.com](mailto:CustomerService@fastweb.com), and we will try to answer your questions. 
 
 
 
@@ -90,6 +111,4 @@ Your privacy is important to FastWeb. If you have questions about any of the pro
 
 Update effective January 21, 2004.
 
-|    
-|    
-
+| 
