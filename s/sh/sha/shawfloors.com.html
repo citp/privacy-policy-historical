@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shawfloors.com privacy policy that was archived on 2005-03-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050306093359id_/http%3A//www.shawfloors.com/aboutShaw/FooterIndex/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shawfloors.com privacy policy that was archived on 2006-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060617133749id_/http%3A//shawfloors.com/aboutShaw/FooterIndex/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Shaw Floors: Privacy Policy</title>
@@ -791,11 +791,85 @@ dcsTag(gTagPath);
 </noscript>
 
 <!-- HEADER -->
-<table width="100%" height="52" border="0" cellspacing="0" cellpadding="0">
+<script language="JavaScript">
+	function navCatalogs(){		
+		document.location.href = navcatalogs.catalog[navcatalogs.catalog.selectedIndex].value;	
+	}
+</script>
+<table width="750" height="52" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td bgcolor="#FFFFFF" height="52" valign="top" align="left"><a href="/index.asp"><img src="/img/assets/3591/shawlogo.jpg" width="314" height="52" alt="Shaw: Where Great Floors Begin" border="0"></a></td>
-		<td bgcolor="#FFFFFF" height="52" valign="top" align="left"><img src="/img/assets/3591/spacer.gif" width="124" height="52" alt="" border="0"></td>
-		<td bgcolor="#FFFFFF" height="52" valign="top" align="right"></td>	</tr></tbody></table>
+		<td height="52">
+			<table width="477" height="52" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td bgcolor="#FFFFFF" height="52" valign="top" align="left"><a href="/index.asp"><img src="/img/assets/3591/shawlogo.jpg" width="314" height="52" alt="Carpet" border="0"></a></td>
+					<td height="52"><img src="/img/assets/3591/spacer.gif" width="163" height="52" alt="" border="0"></td> <!-- spacer -->
+				</tr>
+			</tbody></table>
+		</td>	
+		<td height="52" align="right">
+			<table width="100" height="42" border="0" cellspacing="0" cellpadding="1">
+				<tbody><tr>
+					<td>			
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td align="right" valign="bottom" height="20"><img src="/img/assets/3737/sitesearch.gif" border="0"></td>
+								<td height="20"><form name="gs" method="GET" action="http://search.shawinc.com/search">&nbsp;</form></td>
+							</tr>
+							<tr>
+								<td valign="middle" height="22" align="right">					
+										<input type="hidden" name="site" value="Shawfloors_All">
+										<input type="hidden" name="output" value="xml_no_dtd">
+										<input type="hidden" name="client" value="Shawfloors_Frontend">
+										<input type="hidden" name="proxystylesheet" value="Shawfloors_Frontend">
+										<input type="text" name="q" size="13" maxlength="256" value="">
+								</td><td>
+								</td><td valign="middle" align="left" height="22">									
+										<img src="/img/assets/3737/btnGoSmall.gif" border="0" onclick="JavaScript:document.gs.submit();">					
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>	
+		<td height="52">
+			<table width="17" height="52" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>					
+					<td height="52" colspan="2"><img src="/img/assets/3591/spacer.gif" width="17" height="52" alt="" border="0"></td>  
+				</tr>
+			</tbody></table>
+		</td>	
+		<td height="52" align="right">
+			<table width="128" height="42" border="0" cellspacing="0" cellpadding="1">
+				<tbody><tr>
+					<td><form name="navcatalogs">
+						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>								
+								<td valign="bottom" colspan="5" height="20"><img src="/img/assets/3737/browsecatalogs.gif" border="0"></td>				
+							</tr>
+							<tr>
+								<td width="1"></td>
+								<td valign="middle" align="left" height="22" width="70px">
+									<select name="catalog">
+										<option value="/FloorChoices/Carpet/CarpetCatalog.asp">Carpet</option>
+										<option value="/FloorChoices/AreaRugs/RugCatalog.asp">Area Rugs</option>
+										<option value="/FloorChoices/Hardwood/HardwoodCatalog.asp">Hardwood</option>
+										<option value="/FloorChoices/Laminate/LaminateCatalog.asp">Laminate</option>
+										<option value="/FloorChoices/Ceramics/CeramicsCatalog.asp">Ceramic</option>
+									</select>				
+								</td><td>
+								</td><td width="3"></td>
+								<td valign="middle" height="22" align="left">							
+									<img src="/img/assets/3737/btnGoSmall.gif" border="0" onclick="navCatalogs();">
+								</td> 						 
+							</tr>
+						</tbody></table>
+					</form></td>				
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table> 
 <!-- END HEADER -->
 
 
@@ -836,26 +910,26 @@ function fwLoadMenus() {
   
   // How to Choose 
   window.fw_menu_2 = new Menu("root",152,16,"Verdana, Arial, Helvetica, sans-serif",11,"#2A164C","#ffffff","#F7F7E7","#A67C60");
-  fw_menu_2.addMenuItem("At The Store","location='/ShoppingExperience/AtTheStore.asp'");fw_menu_2.addMenuItem("Where to Buy Flooring","location='/ShoppingExperience/WhereToBuy.asp'");fw_menu_2.addMenuItem("Installation","location='/ShoppingExperience/Installation.asp'");fw_menu_2.addMenuItem("The Shaw Advantage","location='/aboutShaw/ShawAdvantage.asp'");fw_menu_2.addMenuItem("Star Assurance","location='/ShoppingExperience/5StarSystem.asp'");fw_menu_2.addMenuItem("Special Features","location='/ShoppingExperience/SpecialFeatures.asp'");
+  fw_menu_2.addMenuItem("At The Store","location='/ShoppingExperience/AtTheStore.asp'");fw_menu_2.addMenuItem("Where to Buy Flooring","location='/ShoppingExperience/WhereToBuy.asp'");fw_menu_2.addMenuItem("Installation","location='/ShoppingExperience/Installation.asp'");fw_menu_2.addMenuItem("The Shaw Advantage","location='/aboutShaw/ShawAdvantage.asp'");fw_menu_2.addMenuItem("Star Assurance","location='/ShoppingExperience/5StarSystem.asp'");fw_menu_2.addMenuItem("Special Features","location='/ShoppingExperience/SpecialFeatures.asp'");fw_menu_2.addMenuItem("ApplyForCredit","location='/ShoppingExperience/ApplyForCredit.asp'");
   fw_menu_2.hideOnMouseOut=true;
   
   
   // Floor Care 
   window.fw_menu_3 = new Menu("root",170,16,"Verdana, Arial, Helvetica, sans-serif",11,"#2A164C","#ffffff","#F7F7E7","#A67C60");
-  fw_menu_3.addMenuItem("Carpet Care","location='/FloorCare/CarpetCare.asp'");fw_menu_3.addMenuItem("Area Rug Care","location='/FloorCare/AreaRugCare.asp'");fw_menu_3.addMenuItem("Ceramic Care","location='/FloorCare/CeramicCare.asp'");fw_menu_3.addMenuItem("Hardwood Care","location='/FloorCare/HardwoodsCare.asp'");fw_menu_3.addMenuItem("Laminate Care","location='/FloorCare/LaminateCare.asp'");fw_menu_3.addMenuItem("WarrantyRegistration","location='/FloorCare/WarrantyRegistration.asp'");
+  fw_menu_3.addMenuItem("Carpet Care","location='/FloorCare/CarpetCare.asp'");fw_menu_3.addMenuItem("Area Rug Care","location='/FloorCare/AreaRugCare.asp'");fw_menu_3.addMenuItem("Ceramic Care","location='/FloorCare/CeramicCare.asp'");fw_menu_3.addMenuItem("Hardwood Care","location='/FloorCare/HardwoodsCare.asp'");fw_menu_3.addMenuItem("Laminate Care","location='/FloorCare/LaminateCare.asp'");fw_menu_3.addMenuItem("Warranty Registration","location='/FloorCare/WarrantyRegistration.asp'");
   fw_menu_3.hideOnMouseOut=true;
    
       
   // About Shaw 
   window.fw_menu_4 = new Menu("root",180,16,"Verdana, Arial, Helvetica, sans-serif",11,"#2A164C","#ffffff","#F7F7E7","#A67C60");
-  fw_menu_4.addMenuItem("Shaw Introductions","location='/aboutShaw/Introductions.asp'");fw_menu_4.addMenuItem("Shaw Labels and Links","location='/aboutShaw/LabelsandLinks.asp'");fw_menu_4.addMenuItem("Contact Shaw","location='/aboutShaw/Contact_Shaw.asp'");fw_menu_4.addMenuItem("Shaw International","location='/AboutShaw/Introductions/International.asp'");fw_menu_4.addMenuItem("Transport and Distribution","location='/aboutShaw/TransportDistribution.asp'");fw_menu_4.addMenuItem("Career Opportunities","location='/aboutShaw/Employment.asp'");fw_menu_4.addMenuItem("Shaw Commercial","location='/aboutShaw/CommercialContract.asp'");fw_menu_4.addMenuItem("For Dealers","location='/aboutShaw/ForDealers.asp'");
+  fw_menu_4.addMenuItem("Shaw Introductions","location='/aboutShaw/Introductions.asp'");fw_menu_4.addMenuItem("Shaw Labels and Links","location='/aboutShaw/LabelsandLinks.asp'");fw_menu_4.addMenuItem("Contact Shaw","location='/aboutShaw/Contact_Shaw.asp'");fw_menu_4.addMenuItem("Shaw International","location='/AboutShaw/Introductions/International.asp'");fw_menu_4.addMenuItem("Transport and Distribution","location='/aboutShaw/TransportDistribution.asp'");fw_menu_4.addMenuItem("Career Opportunities","location='/aboutShaw/Employment.asp'");fw_menu_4.addMenuItem("Specified Commercial","location='/aboutShaw/CommercialContract.asp'");fw_menu_4.addMenuItem("For Dealers","location='/aboutShaw/ForDealers.asp'");
   fw_menu_4.hideRadius="yes";
   fw_menu_4.hideOnMouseOut=true;
 
       
   // News
   window.fw_menu_5 = new Menu("root",152,16,"Verdana, Arial, Helvetica, sans-serif",11,"#2A164C","#ffffff","#F7F7E7","#A67C60");
-  fw_menu_5.addMenuItem("Press Releases","location='/News/PressReleases.asp'");fw_menu_5.addMenuItem("Recall Information","location='/News/Recall_alert.asp'");fw_menu_5.addMenuItem("Site Map","location='/News/SiteMap.asp'");
+  fw_menu_5.addMenuItem("Advertisements","location='/News/Advertisements.asp'");fw_menu_5.addMenuItem("Press Releases","location='/News/PressReleases.asp'");fw_menu_5.addMenuItem("Site Map","location='/News/SiteMap.asp'");
   fw_menu_5.hideOnMouseOut=true;
   fw_menu_5.hideOnMouseOut=true;   
 
@@ -890,54 +964,55 @@ fw_menu_1.restoreParam = 'restore_img.gif'
    </div>
   </div>
 </div>
-<div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(166, 124, 96); width: 156px; height: 105px;">
-  <div id="menuLite2" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 103px; width: 154px; background-color: rgb(166, 124, 96);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg2" style="position: absolute; left: 1px; top: 1px; height: 102px; width: 153px; background-color: rgb(166, 124, 96);">
+<div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(166, 124, 96); width: 156px; height: 122px;">
+  <div id="menuLite2" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 120px; width: 154px; background-color: rgb(166, 124, 96);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg2" style="position: absolute; left: 1px; top: 1px; height: 119px; width: 153px; background-color: rgb(166, 124, 96);">
 <div id="menuItem10" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText10" style="position:absolute;left:11;top:1;color:#2A164C;">At The Store&nbsp;</div>
 <div id="menuItemHilite10" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">At The Store&nbsp;</div></div><div id="menuItem11" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText11" style="position:absolute;left:11;top:1;color:#2A164C;">Where to Buy Flooring&nbsp;</div>
 <div id="menuItemHilite11" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Where to Buy Flooring&nbsp;</div></div><div id="menuItem12" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText12" style="position:absolute;left:11;top:1;color:#2A164C;">Installation&nbsp;</div>
 <div id="menuItemHilite12" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Installation&nbsp;</div></div><div id="menuItem13" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText13" style="position:absolute;left:11;top:1;color:#2A164C;">The Shaw Advantage&nbsp;</div>
 <div id="menuItemHilite13" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">The Shaw Advantage&nbsp;</div></div><div id="menuItem14" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText14" style="position:absolute;left:11;top:1;color:#2A164C;">Star Assurance&nbsp;</div>
 <div id="menuItemHilite14" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Star Assurance&nbsp;</div></div><div id="menuItem15" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText15" style="position:absolute;left:11;top:1;color:#2A164C;">Special Features&nbsp;</div>
-<div id="menuItemHilite15" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Special Features&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItemHilite15" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Special Features&nbsp;</div></div><div id="menuItem16" style="position: absolute; left: 0px; top: 102px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText16" style="position:absolute;left:11;top:1;color:#2A164C;">ApplyForCredit&nbsp;</div>
+<div id="menuItemHilite16" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">ApplyForCredit&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
 <div id="menuLayer3" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(166, 124, 96); width: 174px; height: 105px;">
   <div id="menuLite3" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 103px; width: 172px; background-color: rgb(166, 124, 96);" onmouseout="mouseoutMenu();">
 	 <div id="menuFg3" style="position: absolute; left: 1px; top: 1px; height: 102px; width: 171px; background-color: rgb(166, 124, 96);">
-<div id="menuItem16" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText16" style="position:absolute;left:11;top:1;color:#2A164C;">Carpet Care&nbsp;</div>
-<div id="menuItemHilite16" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Carpet Care&nbsp;</div></div><div id="menuItem17" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText17" style="position:absolute;left:11;top:1;color:#2A164C;">Area Rug Care&nbsp;</div>
-<div id="menuItemHilite17" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Area Rug Care&nbsp;</div></div><div id="menuItem18" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText18" style="position:absolute;left:11;top:1;color:#2A164C;">Ceramic Care&nbsp;</div>
-<div id="menuItemHilite18" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Ceramic Care&nbsp;</div></div><div id="menuItem19" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText19" style="position:absolute;left:11;top:1;color:#2A164C;">Hardwood Care&nbsp;</div>
-<div id="menuItemHilite19" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Hardwood Care&nbsp;</div></div><div id="menuItem20" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText20" style="position:absolute;left:11;top:1;color:#2A164C;">Laminate Care&nbsp;</div>
-<div id="menuItemHilite20" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Laminate Care&nbsp;</div></div><div id="menuItem21" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText21" style="position:absolute;left:11;top:1;color:#2A164C;">WarrantyRegistration&nbsp;</div>
-<div id="menuItemHilite21" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">WarrantyRegistration&nbsp;</div></div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItem17" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText17" style="position:absolute;left:11;top:1;color:#2A164C;">Carpet Care&nbsp;</div>
+<div id="menuItemHilite17" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Carpet Care&nbsp;</div></div><div id="menuItem18" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText18" style="position:absolute;left:11;top:1;color:#2A164C;">Area Rug Care&nbsp;</div>
+<div id="menuItemHilite18" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Area Rug Care&nbsp;</div></div><div id="menuItem19" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText19" style="position:absolute;left:11;top:1;color:#2A164C;">Ceramic Care&nbsp;</div>
+<div id="menuItemHilite19" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Ceramic Care&nbsp;</div></div><div id="menuItem20" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText20" style="position:absolute;left:11;top:1;color:#2A164C;">Hardwood Care&nbsp;</div>
+<div id="menuItemHilite20" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Hardwood Care&nbsp;</div></div><div id="menuItem21" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText21" style="position:absolute;left:11;top:1;color:#2A164C;">Laminate Care&nbsp;</div>
+<div id="menuItemHilite21" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Laminate Care&nbsp;</div></div><div id="menuItem22" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 170px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText22" style="position:absolute;left:11;top:1;color:#2A164C;">Warranty Registration&nbsp;</div>
+<div id="menuItemHilite22" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Warranty Registration&nbsp;</div></div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
 <div id="menuLayer4" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(166, 124, 96); width: 184px; height: 139px;">
   <div id="menuLite4" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 137px; width: 182px; background-color: rgb(166, 124, 96);" onmouseout="mouseoutMenu();">
 	 <div id="menuFg4" style="position: absolute; left: 1px; top: 1px; height: 136px; width: 181px; background-color: rgb(166, 124, 96);">
-<div id="menuItem22" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText22" style="position:absolute;left:11;top:1;color:#2A164C;">Shaw Introductions&nbsp;</div>
-<div id="menuItemHilite22" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Shaw Introductions&nbsp;</div></div><div id="menuItem23" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText23" style="position:absolute;left:11;top:1;color:#2A164C;">Shaw Labels and Links&nbsp;</div>
-<div id="menuItemHilite23" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Shaw Labels and Links&nbsp;</div></div><div id="menuItem24" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText24" style="position:absolute;left:11;top:1;color:#2A164C;">Contact Shaw&nbsp;</div>
-<div id="menuItemHilite24" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Contact Shaw&nbsp;</div></div><div id="menuItem25" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText25" style="position:absolute;left:11;top:1;color:#2A164C;">Shaw International&nbsp;</div>
-<div id="menuItemHilite25" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Shaw International&nbsp;</div></div><div id="menuItem26" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText26" style="position:absolute;left:11;top:1;color:#2A164C;">Transport and Distribution&nbsp;</div>
-<div id="menuItemHilite26" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Transport and Distribution&nbsp;</div></div><div id="menuItem27" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText27" style="position:absolute;left:11;top:1;color:#2A164C;">Career Opportunities&nbsp;</div>
-<div id="menuItemHilite27" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Career Opportunities&nbsp;</div></div><div id="menuItem28" style="position: absolute; left: 0px; top: 102px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText28" style="position:absolute;left:11;top:1;color:#2A164C;">Shaw Commercial&nbsp;</div>
-<div id="menuItemHilite28" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Shaw Commercial&nbsp;</div></div><div id="menuItem29" style="position: absolute; left: 0px; top: 119px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText29" style="position:absolute;left:11;top:1;color:#2A164C;">For Dealers&nbsp;</div>
-<div id="menuItemHilite29" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">For Dealers&nbsp;</div></div>	  <div id="focusItem4" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItem23" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText23" style="position:absolute;left:11;top:1;color:#2A164C;">Shaw Introductions&nbsp;</div>
+<div id="menuItemHilite23" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Shaw Introductions&nbsp;</div></div><div id="menuItem24" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText24" style="position:absolute;left:11;top:1;color:#2A164C;">Shaw Labels and Links&nbsp;</div>
+<div id="menuItemHilite24" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Shaw Labels and Links&nbsp;</div></div><div id="menuItem25" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText25" style="position:absolute;left:11;top:1;color:#2A164C;">Contact Shaw&nbsp;</div>
+<div id="menuItemHilite25" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Contact Shaw&nbsp;</div></div><div id="menuItem26" style="position: absolute; left: 0px; top: 51px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText26" style="position:absolute;left:11;top:1;color:#2A164C;">Shaw International&nbsp;</div>
+<div id="menuItemHilite26" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Shaw International&nbsp;</div></div><div id="menuItem27" style="position: absolute; left: 0px; top: 68px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText27" style="position:absolute;left:11;top:1;color:#2A164C;">Transport and Distribution&nbsp;</div>
+<div id="menuItemHilite27" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Transport and Distribution&nbsp;</div></div><div id="menuItem28" style="position: absolute; left: 0px; top: 85px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText28" style="position:absolute;left:11;top:1;color:#2A164C;">Career Opportunities&nbsp;</div>
+<div id="menuItemHilite28" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Career Opportunities&nbsp;</div></div><div id="menuItem29" style="position: absolute; left: 0px; top: 102px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText29" style="position:absolute;left:11;top:1;color:#2A164C;">Specified Commercial&nbsp;</div>
+<div id="menuItemHilite29" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Specified Commercial&nbsp;</div></div><div id="menuItem30" style="position: absolute; left: 0px; top: 119px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 180px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText30" style="position:absolute;left:11;top:1;color:#2A164C;">For Dealers&nbsp;</div>
+<div id="menuItemHilite30" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">For Dealers&nbsp;</div></div>	  <div id="focusItem4" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
 <div id="menuLayer5" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; background-color: rgb(166, 124, 96); width: 156px; height: 54px;">
   <div id="menuLite5" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 52px; width: 154px; background-color: rgb(166, 124, 96);" onmouseout="mouseoutMenu();">
 	 <div id="menuFg5" style="position: absolute; left: 1px; top: 1px; height: 51px; width: 153px; background-color: rgb(166, 124, 96);">
-<div id="menuItem30" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText30" style="position:absolute;left:11;top:1;color:#2A164C;">Press Releases&nbsp;</div>
-<div id="menuItemHilite30" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Press Releases&nbsp;</div></div><div id="menuItem31" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText31" style="position:absolute;left:11;top:1;color:#2A164C;">Recall Information&nbsp;</div>
-<div id="menuItemHilite31" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Recall Information&nbsp;</div></div><div id="menuItem32" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText32" style="position:absolute;left:11;top:1;color:#2A164C;">Site Map&nbsp;</div>
-<div id="menuItemHilite32" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Site Map&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItem31" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText31" style="position:absolute;left:11;top:1;color:#2A164C;">Advertisements&nbsp;</div>
+<div id="menuItemHilite31" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Advertisements&nbsp;</div></div><div id="menuItem32" style="position: absolute; left: 0px; top: 17px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText32" style="position:absolute;left:11;top:1;color:#2A164C;">Press Releases&nbsp;</div>
+<div id="menuItemHilite32" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Press Releases&nbsp;</div></div><div id="menuItem33" style="position: absolute; left: 0px; top: 34px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; width: 152px; height: 16px; background-color: rgb(247, 247, 231); visibility: inherit; cursor: pointer;"><div id="menuItemText33" style="position:absolute;left:11;top:1;color:#2A164C;">Site Map&nbsp;</div>
+<div id="menuItemHilite33" style="position:absolute;left:11;top:1;top:1;color:#ffffff;visibility:hidden;">Site Map&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
@@ -979,6 +1054,10 @@ fw_menu_1.restoreParam = 'restore_img.gif'
     <!-- News Button --> 
     <td class="Rule" width="1" height="33" valign="top"><img src="/img/assets/3591/NavDividers.gif" width="1" height="33" alt="" border="0"></td> 
     <td class="Rule" width="86" height="33" valign="top"><a href="/News/News.asp" onmouseout="FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_5,543,86);MM_swapImage('News','','/img/assets/3591/NavNewsRollover.jpg',1)"><img name="News" border="0" src="/img/assets/3591/NavNews.jpg" width="86" height="33"></a></td> 
+    <!-- Dealer Locator Button -->      
+    <td class="Rule" width="1" height="33" valign="top"><img src="/img/assets/3591/NavDividers.gif" width="1" height="33" alt="" border="0"></td> 
+    <td class="Rule" width="86" height="33" valign="top"><a href="/ShoppingExperience/WhereToBuy.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Dealer','','/img/assets/3591/NavPreDealersOver.jpg',1)"><img name="Dealer" border="0" src="/img/assets/3591/NavPreDealers.jpg" width="86" height="33"></a></td> 
+  
     <td class="Rule" width="1" height="33" valign="top"><img src="/img/assets/3591/NavDividers.gif" width="1" height="33" alt="" border="0"></td> 
     <td class="Rule" width="100%" height="33" valign="top"><img src="/img/assets/3591/spacer.gif" width="100" height="33" alt="" border="0"></td> 
   </tr> 
@@ -1017,7 +1096,8 @@ fw_menu_1.restoreParam = 'restore_img.gif'
 <div class="subNavL1"><a href="/aboutShaw/Contact_Shaw.asp" class="subNavL1">Contact Shaw</a></div>
 <div class="subNavL1"><a href="/aboutShaw/TransportDistribution.asp" class="subNavL1">Transport and Distribution</a></div>
 <div class="subNavL1"><a href="/aboutShaw/Employment.asp" class="subNavL1">Career Opportunities</a></div>
-<div class="subNavL1"><a href="/aboutShaw/CommercialContract.asp" class="subNavL1">Shaw Commercial</a></div>
+<div class="subNavL1"><a href="/aboutShaw/EqualEmploymentOpportunityStatement.asp" class="subNavL1">Equal Employment Opportunity Statement</a></div>
+<div class="subNavL1"><a href="/aboutShaw/CommercialContract.asp" class="subNavL1">Specified Commercial</a></div>
 <div class="subNavL1"><a href="/aboutShaw/ForDealers.asp" class="subNavL1">For Dealers</a></div>
 
 		</td>
@@ -1083,10 +1163,10 @@ fw_menu_1.restoreParam = 'restore_img.gif'
 				<img src="/img/assets/3591/spacer.gif" width="10" height="6" alt="" border="0"><br>
 				<img src="/img/assets/3591/shortcts.gif" width="101" height="25" border="0">
 				<div><b>Global Links</b><br>
-					<a href="/ShoppingExperience/WhereToBuy.asp">Where to Buy Flooring</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="6" alt="" border="0"><br><a href="/aboutShaw/Contact_Shaw.asp">Contact Shaw</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="6" alt="" border="0"><br><a href="/News/Recall_alert.asp">Recall Information</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="6" alt="" border="0"><br><a href="/News/SiteMap.asp">Site Map</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="6" alt="" border="0"><br><a href="/aboutShaw/Employment.asp">Career Opportunities</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="6" alt="" border="0"><br>	
+					<a href="/ShoppingExperience/WhereToBuy.asp">Where to Buy Flooring</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="6" alt="" border="0"><br><a href="/aboutShaw/Contact_Shaw.asp">Contact Shaw</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="6" alt="" border="0"><br><a href="/aboutShaw/Employment.asp">Career Opportunities</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="6" alt="" border="0"><br><a href="/AboutShaw/LabelsandLinks/InsideOut.asp">Inside Out - Shaw's Indoor/Outdoor Carpet Collection</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="6" alt="" border="0"><br>	
 
 					<br><b>Related Links</b>
-				<img src="/img/assets/3591/spacer.gif" width="100" height="2" alt="" border="0"><br><a href="/aboutShaw/LabelsandLinks.asp">Shaw Labels and Links</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="3" alt="" border="0"><br><img src="/img/assets/3591/spacer.gif" width="100" height="2" alt="" border="0"><br><a href="/FloorChoices/FloorChoices.asp">Floor Choices</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="3" alt="" border="0"><br><img src="/img/assets/3591/spacer.gif" width="100" height="2" alt="" border="0"><br><a href="/AboutShaw/ForDealers/DealerLocator.asp">Dealer Locator Update &amp; Request Form</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="3" alt="" border="0"><br><img src="/img/assets/3591/spacer.gif" width="100" height="2" alt="" border="0"><br><a href="/AboutShaw/Introductions/ShawMissionStatement.asp">Shaw's Mission, Vision, Values, and Principles</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="3" alt="" border="0"><br><img src="/img/assets/3591/spacer.gif" width="100" height="2" alt="" border="0"><br><a href="/AboutShaw/ForDealers/Logos.asp">Downloadable Logos</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="3" alt="" border="0"><br>
+				<img src="/img/assets/3591/spacer.gif" width="100" height="2" alt="" border="0"><br><a href="/aboutShaw/LabelsandLinks.asp">Shaw Labels and Links</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="3" alt="" border="0"><br><img src="/img/assets/3591/spacer.gif" width="100" height="2" alt="" border="0"><br><a href="/FloorChoices/FloorChoices.asp">Floor Choices</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="3" alt="" border="0"><br><img src="/img/assets/3591/spacer.gif" width="100" height="2" alt="" border="0"><br><a href="/AboutShaw/ForDealers/DealerLink.asp">Shawfloors.com Link</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="3" alt="" border="0"><br><img src="/img/assets/3591/spacer.gif" width="100" height="2" alt="" border="0"><br><a href="/aboutShaw/ForDealers/DealerBrochures.asp">Dealer Brochures</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="3" alt="" border="0"><br><img src="/img/assets/3591/spacer.gif" width="100" height="2" alt="" border="0"><br><a href="/AboutShaw/ForDealers/DealerLocator.asp">Dealer Locator Update &amp; Request Form</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="3" alt="" border="0"><br><img src="/img/assets/3591/spacer.gif" width="100" height="2" alt="" border="0"><br><a href="/AboutShaw/Introductions/ShawMissionStatement.asp">Shaw's Mission, Vision, Values, and Principles</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="3" alt="" border="0"><br><img src="/img/assets/3591/spacer.gif" width="100" height="2" alt="" border="0"><br><a href="/AboutShaw/ForDealers/Logos.asp">Downloadable Logos</a><br><img src="/img/assets/3591/spacer.gif" width="10" height="3" alt="" border="0"><br>
 					<img src="/img/assets/3591/spacer.gif" width="10" height="2" alt="" border="0">
 				</div>
 			</div>
@@ -1109,7 +1189,7 @@ fw_menu_1.restoreParam = 'restore_img.gif'
 		<td bgcolor="#FFFFFF" valign="top" align="left">
 			<div class="footer"><br>
 				Privacy Policy- <a href="/aboutShaw/FooterIndex/TermsOfUse.asp">Terms and Conditions</a><br>
-				© Copyright 2003, Shaw Industries, Inc., a <a href="http://www.berkshirehathaway.com">Berkshire Hathaway</a> Company<br><br>
+				© Copyright 2003-2006, Shaw Industries Group, Inc., a <a href="http://www.berkshirehathaway.com">Berkshire Hathaway</a> Company<br><br>
 
 
 
