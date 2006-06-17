@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2005-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051206035747id_/http%3A//carsguide.news.com.au/news/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617163341id_/http%3A//carsguide.news.com.au/privacy) for the most accurate reproduction.*
 
-# Used car search Australia - Privacy information - Used car buying - CARSguide
+# Privacy policy - CARSguide
 
 News Interactive (News) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
 
@@ -9,16 +9,9 @@ We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in
   
 **Personal Information**
 
-News Interactive (News) collects your personal information to assist us in providing the goods or services you have requested, to process your competition entries, and to improve our products and services. We or any of our Australian related companies may be in touch by any means (including email or SMS) to let you know about goods, services, or promotions which may be of interest to you. We may also share your information with other persons or entities who assist us in providing our services, running competitions or with other companies who provide prizes for competitions or reader offers. This company is part of a global media and entertainment company. We would like to share your information with these overseas-related companies so that they can contact you with special offers. If you would prefer us not to, please contact our privacy officer at:
+We collect personal information when we provide our services to you. Generally we will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information. 
 
-Privacy Officer  
-News Interactive  
-02 9288 3000  
-Level 3  
-2 Holt Street  
-Surry Hills 2010
-
-You can gain access to your personal information by contacting our privacy officer.
+We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents. 
 
   
 **Use of Information**
