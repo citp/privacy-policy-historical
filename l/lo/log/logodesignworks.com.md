@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the logodesignworks.com privacy policy that was archived on 2005-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050525140259id_/http%3A//www.logodesignworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodesignworks.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618013838id_/http%3A//logodesignworks.com/privacy.htm) for the most accurate reproduction.*
 
 # Site Privacy Information
-
-**Privacy Policy**
 
 We want users to our website to be aware of what information we collect on this site, what we do with it and under what circumstances, if any, we disclose it.
 
@@ -16,14 +14,10 @@ The information collected by the server is only used for statistical purposes an
 
 This site does NOT collect cookies. Registration is NOT required to enter the site unless you are a customer.
 
-We require information from the user on our project profile form that the user has to fill up after placing an order. A user must provide information such as name, email, contact address etc. We do NOT collect financial information such as credit card numbers, expiration date etc for processing our orders. That information would be taken by PAYPAL for processing our orders. Please read [PAYPAL's privacy policy](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside) to know more about it. The site also features a lot of products that could be bought through Amazon.com. If you purchase through Amazon.com and would like to know their privacy policy, click [here](http://www.amazon.com/exec/obidos/tg/browse/-/468496/ref=ac_blrb/104-7318753-0486364).
+We require information from the user on our project profile form that the customer has to fill up after placing an order. A customer must provide information such as name, email, contact address etc. We do NOT collect financial information such as credit card numbers, expiration date etc for processing our orders on our website. That information would be taken by PAYPAL and/or 2Checkout for processing our orders. Please read PAYPAL's and/or 2Checkout's privacy policy. The site also features a lot of products that could be bought through Amazon.com.
 
-The user/customers details will be held in confidence and will NOT be given to any 3rd part with out the prior consent of the customer. We would however reserve the right to publish any comment/feedback/testimonial from the customer on our website or other promotional items.
+The user/customers details will be held in confidence and will NOT be given to any 3rd part with out the prior consent of the customer. We would however reserve the right to publish any design/comment/feedback/testimonial from the customer on our website or other promotional items.
 
 We publish a newsletter (ezine) and would NEVER sell or share my subscriber's email addresses.
 
 In case of any changes to our privacy policy, We will post those changes to this privacy statement.
-
-We are committed to resolving disputes within 24-48 hours. If any problems arise, users may contact us by email or chat found in the [contact](https://web.archive.org/web/20050525140259id_/http%3A//www.logodesignworks.com/contact.htm) page.
-
-[See S..Pam Alerts](https://web.archive.org/web/20050525140259id_/http%3A//www.logodesignworks.com/alerts.htm)
