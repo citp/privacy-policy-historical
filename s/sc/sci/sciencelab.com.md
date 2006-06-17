@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencelab.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220083238id_/http%3A//www.sciencelab.com/data/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencelab.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617210258id_/http%3A//sciencelab.com/data/privacy-policy.htm) for the most accurate reproduction.*
 
 # SCIENCELAB.COM - Privacy Policy
 
