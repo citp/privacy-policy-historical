@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business-in-a-box.com privacy policy that was archived on 2005-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050908033328id_/http%3A//www.business-in-a-box.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-in-a-box.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617225802id_/http%3A//business-in-a-box.com/privacy/index.html) for the most accurate reproduction.*
 
 # Business-in-a-Box by Envision SBS / Privacy Policy
 
@@ -52,7 +52,7 @@ You also have a significant role in protecting your information. No one can see 
 
 **ENFORCEMENT**
 
-If for some reason you believe ENVISION has not adhered to these principles, please notify us by [contacting us](https://web.archive.org/web/20050908033328id_/http%3A//www.business-in-a-box.com/company/contact.html), and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+If for some reason you believe ENVISION has not adhered to these principles, please notify us by [contacting us](https://web.archive.org/web/20060617225802id_/http%3A//business-in-a-box.com/company/contact.html), and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
 
 **CUSTOMER PROFILES**
 
