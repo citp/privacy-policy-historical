@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bookrenter.com privacy policy that was archived on 2005-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051221135509id_/http%3A//www.bookrenter.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookrenter.com privacy policy that was archived on 2006-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060617230757id_/http%3A//www.bookrenter.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.-->
 
 <html><head>
 <link rel="shortcut icon" href="/favicon.ico">
@@ -446,13 +446,12 @@ makeCM.prototype.onclck=function(m){ //Changed v4.06
 <body leftmargin="0" topmargin="0" rightmargin="0" bottomargin="0" marginwidth="0" marginheight="0">
 
 
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-134262-1";
 urchinTracker();
 </script>
-
 <script type="text/javascript" language="JavaScript 1.2">
 <!--
 
@@ -647,14 +646,13 @@ function checkOrderTrackingCheckboxes(theForm, mode)
    return true;
 }
 
-function checkPackingSlipCheckboxes(theForm, params)
+function checkPackingSlipCheckboxes(theForm, orderid)
 {
 	var returnid ="";
 	var checkCount = 0;
 	var element;
 	var controlIndex;
 	var numberOfControls = theForm.length;
-   var newUrl;
    for (controlIndex = 0; controlIndex < numberOfControls; controlIndex++)
    
    {
@@ -664,24 +662,19 @@ function checkPackingSlipCheckboxes(theForm, params)
          if (element.checked == true)
          {
 	         ++checkCount;
-	         newUrl += element.name+"="+element.value+"&";
 	         returnid = element.name.substring(element.name.lastIndexOf("[")+1);
 	         returnid = returnid.substring(0,returnid.lastIndexOf("]"));
          }
       }
-      else if (element.name != null && element.type != "button" && element.name != 'mode')
-      	newUrl += element.name+"="+element.value;
    }
-   newUrl += params
-   if (checkCount == 0) {
-   	theForm.mode.value='noselection';
-   	theForm.submit();
+
+   if (checkCount == 1) {
+	window.open("returns.php?mode=print&orderid="+orderid+"&returnid="+returnid,'PRINT_RETURN_SLIP','width=820,height=760,toolbar=no,status=no,scrollbars=yes,resizable=no,menubar=yes,location=no,direction=no');
+	return true;
+   } else {
+	alert ("You must tick exactly one checkbox before viewing packing slip");
+	return false;
    }
-   else if (checkCount > 1)
-   	theForm.submit();
-   else
-   	window.open("returns.php?"+newUrl+"&returnid="+returnid,'PRINT_RETURN_SLIP','width=700,height=600,toolbar=no,status=no,scrollbars=yes,resizable=no,menubar=yes,location=no,direction=no');
-   return true;
 }
 
 function checkReturnCheckboxes(theForm) {
@@ -913,13 +906,130 @@ function bookmarkSite(title, url){
 <td class="VertMenuBox"> 
  <table border="0" cellpadding="5" cellspacing="0" width="100%">
  <tbody><tr> 
- <td><center>
-<img src="/skin1/images/clickto.gif" width="135" height="154" border="0" usemap="#clicknav">
-<map name="clicknav">
-  <area shape="rect" coords="34,66,124,92" href="pages.php?pageid=21">
-  <area shape="rect" coords="37,98,131,150" href="search.php">
-</map>
-</center>
+ <td><script language="JavaScript">
+
+function submitSearchFrm() {
+	var frm = document.productsearchform;
+
+	if (frm.search_for.value == "") {
+		alert ("Please enter the search phrase");
+		return false;
+	}
+
+	var search_substring = document.getElementById("search_substring");
+	var search_productcode = document.getElementById("search_productcode");
+
+	if (frm.search_by[0].checked) {
+		// Search by Keyword
+		search_substring.value = frm.search_for.value;
+		search_productcode.value = "";
+	} else {
+		// Search by ISBN
+		search_substring.value = "";
+
+		var isbn = frm.search_for.value;
+		isbn = isbn.replace(/-/g,'');
+		isbn = isbn.replace(/ /g,'');
+		search_productcode.value = isbn;
+	}
+
+	return true;
+}
+
+</script>
+<table border="0" cellpadding="1" cellspacing="0">
+<form method="POST" action="search.php" name="productsearchform" onsubmit="return submitSearchFrm();"></form>
+<input type="hidden" name="posted_data[substring]" value="" id="search_substring">
+<input type="hidden" name="posted_data[productcode]" value="" id="search_productcode">
+<tbody><tr>
+	<td align="center" colspan="2" class="LeftMenuBody"><i>Search For A Book To Save Up To 65%!</i></td>
+</tr>
+<tr>
+	<td colspan="2"><hr width="100%" size="1" noshade=""></td>
+</tr>
+<tr>
+	<td valign="middle" align="center" colspan="2"><input type="text" size="16" name="search_for" value="" style="width: 95%;"></td>
+</tr>
+<tr valign="middle">
+	<td nowrap="" class="LeftMenuBody" valign="middle"><input type="radio" name="search_by" value="keyword" checked="">Keyword</td>
+	<td nowrap="" valign="middle"><table border="0" cellpadding="0" cellspacing="0" valign="middle"><tbody><tr valign="middle"><td nowrap="" class="LeftMenuBody"><input type="radio" name="search_by" value="productcode">ISBN</td><td><img src="/skin1/images/spacer.gif" width="2" height="1" alt="" border="0"></td><td><a href="javascript:void(0);" onclick="javascript:window.open('popup_info.php?action=isbn','eCheck','width=600,height=460,toolbar=no,status=no,scrollbars=yes,resizable=no,menubar=no,location=no,direction=no');" title="Open a new window" class="SmallNote"><img src="/skin1/images/btn_question.gif" width="11" height="11" alt="?" border="0"></a></td></tr></tbody></table></td>
+</tr>
+<tr>
+	<td colspan="2" align="center"><a href="javascript: if (submitSearchFrm()) document.productsearchform.submit();void(0);"><img src="/skin1/images/btn_search.gif" width="83" height="28" alt="Search" border="0"></a></td>
+</tr>
+<tr>
+	<td colspan="2" align="center"><a href="search.php"><u>Advanced search</u></a></td>
+</tr>
+
+</tbody></table>
+<br>
+<table border="0" cellpadding="2" cellspacing="0" width="100%">
+<form method="GET" action="home.php"></form>
+<tbody><tr>
+	<td class="LeftMenuBody">Category:</td>
+</tr>
+<tr>
+	<td><select name="cat" style="width: 95%;" onchange="this.form.submit();">
+<option value="">All</option>
+<option value="190">Antiques &amp; Collectibles</option>
+<option value="232">Architecture</option>
+<option value="36">Art</option>
+<option value="988">Bibles</option>
+<option value="44">Biography &amp; Autobiography</option>
+<option value="50">Business &amp; Economics</option>
+<option value="1086">Cinema</option>
+<option value="73">Computers</option>
+<option value="5">Cooking</option>
+<option value="135">Crafts &amp; Hobbies</option>
+<option value="90">Education</option>
+<option value="121">Family &amp; Relationships</option>
+<option value="141">Fantasy</option>
+<option value="43">Fiction</option>
+<option value="397">Folklore</option>
+<option value="52">Foreign Language Study</option>
+<option value="1744">Gay &amp; Lesbian</option>
+<option value="107">Health &amp; Fitness</option>
+<option value="65">History</option>
+<option value="22">Home Improvement</option>
+<option value="2028">Horror</option>
+<option value="37">Humor</option>
+<option value="3">Juvenile</option>
+<option value="181">Language Arts</option>
+<option value="274">Law</option>
+<option value="130">Literature</option>
+<option value="326">Mathematics</option>
+<option value="71">Medical</option>
+<option value="97">Military</option>
+<option value="56">Miscellaneous</option>
+<option value="533">Multicultural</option>
+<option value="91">Mystery</option>
+<option value="14">Nature</option>
+<option value="77">New Age</option>
+<option value="41">Performing Arts</option>
+<option value="156">Pets</option>
+<option value="80">Philosophy</option>
+<option value="24">Photography</option>
+<option value="1">Poetry</option>
+<option value="95">Political Science</option>
+<option value="123">Psychology</option>
+<option value="57">Reference</option>
+<option value="48">Religion</option>
+<option value="104">Romance</option>
+<option value="20">Science</option>
+<option value="650">Science Fiction</option>
+<option value="10">Self-Help</option>
+<option value="51">Social Science</option>
+<option value="588">Spanish</option>
+<option value="11">Sports &amp; Recreation</option>
+<option value="363">Study Aids</option>
+<option value="62">Technology</option>
+<option value="184">Transportation</option>
+<option value="19">Travel</option>
+<option value="565">Western</option>
+</select></td>
+</tr>
+
+</tbody></table>
 </td></tr>
  </tbody></table>
 </td></tr>
@@ -944,7 +1054,7 @@ function bookmarkSite(title, url){
  <td><table border="0" cellpadding="0" cellspacing="0" width="100%">
 
 <form action="https://www.bookrenter.com/include/login.php" method="post" name="authform"></form>
-<input type="hidden" name="xid" value="f6e2d9534b73d7224d2eff2c993507ba">
+<input type="hidden" name="xid" value="6dac8ff85b05f932340cdd014809db67">
  <tbody><tr>
 <td class="VertMenuItems">
 <font class="VertMenuItems">Username</font><br>
@@ -1143,11 +1253,9 @@ Sunnyvale, CA 94088
 </td></tr>
 </tbody></table><br>
 <center>
-<img src="/skin1/images/rentselltrade.gif" width="148" height="225" border="0" usemap="#buttons">
+<img src="/skin1/images/rent.gif" width="148" height="70" border="0" usemap="#buttons">
 <map name="buttons">
   <area shape="rect" coords="4,3,144,67" href="pages.php?pageid=1">
-  <area shape="rect" coords="3,81,144,143" href="pages.php?pageid=3">
-  <area shape="rect" coords="5,157,142,220" href="pages.php?pageid=2">
 </map>
 </center>
 <br>
@@ -1169,7 +1277,7 @@ Sunnyvale, CA 94088
 <td>
 <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
 	<tbody><tr height="22">
-		<td class="Bottom" align="center">&nbsp;&nbsp;Copyright © 2005 BookRenter.com, LLC</td>
+		<td class="Bottom" align="center">&nbsp;&nbsp;Copyright © 2005-2006 BookRenter.com, LLC</td>
 		<td class="Bottom" align="center">&nbsp;|&nbsp;</td>
 		<td class="Bottom" align="center"><a href="/pages.php?pageid=44">Site Map</a></td>
 		<td class="Bottom" align="center">&nbsp;|&nbsp;</td>
