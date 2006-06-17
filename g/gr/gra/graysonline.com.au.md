@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graysonline.com.au privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228163743id_/http%3A//www.graysonline.com.au/help/AU/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graysonline.com.au privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617173628id_/http%3A//www.graysonline.com.au/help/AU/privacy.asp) for the most accurate reproduction.*
 
 # GraysOnline
 
@@ -33,6 +33,10 @@ As stated above, we will also collect information about the bids you submit for 
 If you send us correspondence we may also collect this and keep it on your account file. 
 
 The GraysOnline server automatically collects additional information about your use of our service. This information can be described as "navigational data" and comprises: browser type; IP address; the URL you come from and go to; links to other sites you click on; the pages you view on our site and time spent on it; cookies; your domain type and service provider. It is standard for many sites to collect this type of information in order to enable them to monitor usage of a site and improve site content and navigation. 
+
+When a GraysOnline web page is requested and viewed, that request is logged on our servers with information including the IP address of the computer that requested the page. An IP (Internet Protocol) address is a unique string of numbers that identifies a computer or server on the Internet. These numbers are normally shown in groups separated by periods. Your IP address is stored in our bidder database whenever you place a bid, and may be used for various purposes including:-   
+\- To increase the level of customer security. IP addresses can be used to validate your bids.   
+\- Diagnose service or system problems reported by our users that may be associated with IP addresses controlled by a specific Internet Service Provider (ISP) 
 
 **5\. Where will my personal information be used?**  
 Personal information such as contact details and billing information is collected in order that we can efficiently process your bids at online auctions. 
@@ -78,4 +82,4 @@ We may amend our Online Auctions Privacy Statement if further privacy legislatio
 
 These amendments will take effect from the time of posting and you should check back from time to time for any such amendments.
 
-[Click here](https://web.archive.org/web/20051228163743id_/http%3A//www.graysonline.com.au/help/AU/auction_rules.asp) to read the complete Bidders Agreement. 
+[Click here](https://web.archive.org/web/20060617173628id_/http%3A//www.graysonline.com.au/help/AU/auction_rules.asp) to read the complete Bidders Agreement. 
