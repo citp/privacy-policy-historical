@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygradebook.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218094843id_/http%3A//www.fen.com/resources/privacyStatement.html%3Fadd%3DMygradebook) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygradebook.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617044128id_/http%3A//www.fen.com/resources/privacyStatement.html%3Fadd%3DMygradebook) for the most accurate reproduction.*
 
 # Fen.com - Privacy Statement
 
@@ -6,7 +6,7 @@
 
 Privacy Statement: (Revised January, 2005) 
 
-Family Education Network is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about their children's personal information and safety. We want you to know about and understand the measures we have taken to keep Family Education Network a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information. Please note that your use of this Site is also subject to the [Terms of Use](https://web.archive.org/web/20051218094843id_/http%3A//www.fen.com/resources/agreeDisclaim.html?add=Mygradebook) (of which this privacy statement is a part) posted on this site. 
+Family Education Network is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about their children's personal information and safety. We want you to know about and understand the measures we have taken to keep Family Education Network a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information. Please note that your use of this Site is also subject to the [Terms of Use](https://web.archive.org/web/20060617044128id_/http%3A//www.fen.com/resources/agreeDisclaim.html?add=Mygradebook) (of which this privacy statement is a part) posted on this site. 
 
 We encourage our visitors to read through and understand our privacy statement. We may update it from time to time to address new issues or reflect changes on our site. Please refer to this privacy statement regularly. Family Education Network reserves the right to revise this privacy statement at any time and such revisions shall be effective immediately upon notice thereof. Notice may be given by any means including, but not limited to, posting the revised privacy statement on this site. Any use of our site by you subsequent to such notice shall be deemed to constitute acceptance by you of such revision. 
 
