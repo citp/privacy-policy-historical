@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iacr.org privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223145213id_/http%3A//www.iacr.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iacr.org privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617103741id_/http%3A//www.iacr.org/privacy.html) for the most accurate reproduction.*
 
 # IACR privacy policy
 
@@ -28,4 +28,4 @@ This site contains links to other sites. The IACR is not responsible for the pri
 
 * * *
 
-[ [IACR home page](https://web.archive.org/web/20051223145213id_/http%3A//index.html) ] [© IACR](https://web.archive.org/web/20051223145213id_/http%3A//copyright.html)
+[ [IACR home page](https://web.archive.org/web/20060617103741id_/http%3A//index.html) ] [© IACR](https://web.archive.org/web/20060617103741id_/http%3A//copyright.html)
