@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rgemonitor.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226132429id_/http%3A//www.rgemonitor.com/component/option%2Cstatic/inc%2Cprivacy/Itemid%2C95) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rgemonitor.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617234322id_/http%3A//www.rgemonitor.com/component/option%2Cstatic/inc%2Cprivacy/Itemid%2C95) for the most accurate reproduction.*
 
 # RGE - RGE Monitor Privacy Policy and Conditions
 
