@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230175814id_/http%3A//www.rydges.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618000531id_/http%3A//rydges.com/privacy.asp) for the most accurate reproduction.*
 
-# Rydges Hotels And Resorts | Subscriptions
+# Privacy policy for Rydges Hotels and Resorts
 
 Amalgamated Holdings Limited (AHL) is committed to ensuring your personal information is protected. AHL understands and appreciates you are concerned about your privacy and about the confidentiality and security of information we may collect about you. This Privacy Policy Statement will explain how we go about treating your personal information.
 
