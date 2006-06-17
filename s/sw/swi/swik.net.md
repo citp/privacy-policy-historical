@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swik.net privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215001451id_/http%3A//swik.net/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swik.net privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618000525id_/http%3A//swik.net/%3Fprivacy) for the most accurate reproduction.*
 
 # SWiK Privacy Policy - SWiK
 
@@ -74,3 +74,6 @@ Seattle, Washington 98104
 Acceptance of privacy policy 
 
 Your use of our sites is subject to this Privacy Policy. BY USING OUR SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the policy has been modified since you last reviewed it. Your continued use of any portion of our sites following posting of the updated Privacy Policy will constitute your acceptance of the changes.
+
+  
+
