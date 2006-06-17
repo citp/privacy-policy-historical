@@ -1,243 +1,144 @@
-<!--The following is the downloaded HTML source of the emergencyreporting.com privacy policy that was archived on 2005-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051218070823id_/http%3A//emergencyreporting.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emergencyreporting.com privacy policy that was archived on 2006-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060617130133id_/http%3A//emergencyreporting.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-    <title>Why Choose Emergency Reporting</title>
+    <title>Privacy Statement</title>
 	<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l r (nz 1 vz 1 lz 0 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot;  l r (n 0 s 0 v 0 l 0))">
 	<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline EN v2.0&quot; l gen true for &quot;http://www.emergencyreporting.com&quot; r (nz 1 vz 1 lz 0 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.emergencyreporting.com&quot; r (n 0 s 0 v 0 l 0))">
 	<link rel="shortcut icon" href="http://www.emergencyreporting.com/ers.ico" type="image/x-icon">
 	<link rel="stylesheet" type="text/css" href="includes/style.css">
-	<script language="javascript">
-		function opener(loc,name)
-		{
-		s=window.open(loc, name, 'toolbar=no,directories=no,menubar=yes,status=yes,scrollbars=yes,resizable=yes,width=440,height=380,left=300,top=50')
-		s.focus()
-		}
-</script>
-	<script>
-	//Preload Images
-	image1 = new Image();
-	image1.src = "images/what_is_ER_link2.jpg";
-	image2 = new Image();
-	image2.src = "images/why_chose_ER_link2.jpg";
-	image3 = new Image();
-	image3.src = "images/products_link2.jpg";
-	image4 = new Image();
-	image4.src = "images/testimonial_link2.jpg";
-	image5 = new Image();
-	image5.src = "images/about_us_link2.jpg";
-	image6 = new Image();
-	image6.src = "images/support_link2.jpg";
-
-	function checkForm(){
-		err = '';
-		if (document.fs1.login.value=='')
-			err = err + 'You must enter a login.\n';
-		if (document.fs1.password.value=='')
-			err = err + 'You must enter a password.\n';
-		if (err!=''){
-			alert(err)
-			return false;
-		}
-		else
-			return true;
-	}
-	
-	function warning(){
-	 	if (document.fs1.docookie.checked==true){
-		alert('Be sure you understand the security issues before enabling this feature.');}
-	}
-	function checkthis()
-	{
-	    if (document.fs1.docookie.checked == false)
-	    {	
-			deleteCookie('ersLogin','','');			
-			deleteCookie('ersPWD','','');
-	    }
-		else
-		{
-						x = document.fs1.login.value;
-			y = document.fs1.password.value;
-			setCookie('ersLogin', x, new Date(Date.UTC(2025, 11, 28, 10, 30, 5)), '', '', '');
-			setCookie('ersPWD', y, new Date(Date.UTC(2025, 11, 28, 10, 30, 5)), '', '', '');
-		}
-	}
-	
-	
-	/*
-	  name - name of the desired cookie
-	  return string containing value of specified cookie or null
-	  if cookie does not exist
-	*/
-	function getCookie(name) {
-	  var dc = document.cookie;
-	  var prefix = name + "=";
-	  var begin = dc.indexOf("; " + prefix);
-	  if (begin == -1) {
-	    begin = dc.indexOf(prefix);
-	    if (begin != 0) return null;
-	  } else
-	    begin += 2;
-	  var end = document.cookie.indexOf(";", begin);
-	  if (end == -1)
-	    end = dc.length;
-	  return unescape(dc.substring(begin + prefix.length, end));
-	}
-	
-	
-	/*
-	   name - name of the cookie
-	   value - value of the cookie
-	   [expires] - expiration date of the cookie
-	     (defaults to end of current session)
-	   [path] - path for which the cookie is valid
-	     (defaults to path of calling document)
-	   [domain] - domain for which the cookie is valid
-	     (defaults to domain of calling document)
-	   [secure] - Boolean value indicating if the cookie transmission requires
-	     a secure transmission
-	   * an argument defaults when it is assigned null as a placeholder
-	   * a null placeholder is not required for trailing omitted arguments
-	*/	
-	function setCookie(name, value, expires, path, domain, secure) {
-	  curCookie = name + "=" + escape(value) +
-	      ((expires) ? "; expires=" + expires.toGMTString() : "") +
-	      ((path) ? "; path=" + path : "") +
-	      ((domain) ? "; domain=" + domain : "") +
-	      ((secure) ? "; secure" : "");
-	  document.cookie = curCookie;
-	}
-	
-	/*
-	   name - name of the cookie
-	   [path] - path of the cookie (must be same as path used to create cookie)
-	   [domain] - domain of the cookie (must be same as domain used to
-	     create cookie)
-	   path and domain default if assigned null or omitted if no explicit
-	     argument proceeds
-	*/
-	function deleteCookie(name, path, domain) {
-	  if (getCookie(name)) {
-	    document.cookie = name + "=" +
-	    ((path) ? "; path=" + path : "") +
-	    ((domain) ? "; domain=" + domain : "") +
-	    "; expires=Thu, 01-Jan-70 00:00:01 GMT";
-	  }}
-	function checkForm(){
-		err = '';
-		if (document.fs1.lname.value == '')
-			err = err + 'Name is a required field.\n';
-		if (document.fs1.agency.value == '')
-			err = err + 'Agency is a required field.\n';
-		if (document.fs1.phone.value == '')
-			err = err + 'Phone Number is a required field.\n';
-		if (document.fs1.email.value == '')
-			err = err + 'Email is a required field.\n';
-		if (verifyEmail(document.fs1.email.value) != true)
-			err = err + 'The email address appears to be invalid.\n';
-		if (err != ''){
-			alert(err);
-			return false;
-		}
-		else
-			return true;
-	}
-	
-	
-	function verifyEmail(s) {
-		var i = 1;
-		var sLength = s.length;
-
-		// look for @
-		while ((i < sLength) && (s.charAt(i) != "@"))
-		{ i++ }
-
-		if ((i >= sLength) || (s.charAt(i) != "@"))
-			return false;
-		else
-			i += 2;
-		// look for .
-		while ((i < sLength) && (s.charAt(i) != "."))
-		{ i++ }
-
-		// there must be at least one character after the .
-		if ((i >= sLength - 1) || (s.charAt(i) != "."))
-			return false;
-		else
-			return true;
-	}
-	</script>
 </head>
 <body>
-<table align="center" width="780" cellspacing="0" cellpadding="0" border="0" background="images/top_bar_bg.jpg" style="border-left: 1px solid black; border-right: 1px solid black;">
-<tbody><tr>
-	<td height="87">&nbsp;&nbsp;&nbsp;</td>
-	<td><a href="http://www.emergencyreporting.com"><img src="images/er-logo.gif" width="272" height="87" border="0" align="absmiddle" alt="Emergency Reporting Logo"></a></td>
-	<td colspan="3" height="87">&nbsp;&nbsp;
-	<!--
-		<SPAN STYLE="color:red"><B><CENTER>ATTENTION!</CENTER></B>
-		The Emergency Reporting System will be offline Thursday October 20, 
-						2005 at 9:00 am PST for scheduled maintenance and upgrades.  
-						Estimated downtime is 20 minutes.  Thank you for your patience.</SPAN>
-	-->
-	<!--
-		<SPAN STYLE="color:red"><B><CENTER>ATTENTION!</CENTER></B>
-		If you are having trouble logging in, please <A HREF='dns_error.asp' TARGET='_blank'>click here</A>.</SPAN>
-	-->
-	</td>
-	<td colspan="3" align="right">
-		<table cellspacing="0" cellpadding="0" border="0" style="margin-right: 17;">
-   		<form action="https://secure.emergencyreporting.com/ers/default.asp" method="POST" name="fs1" onsubmit="return checkForm();"></form>
-		<input type="hidden" name="formhere" value="YES">
-		<tbody><tr>
-   			<td colspan="3" valign="middle" align="right" style="padding-top: 11;"><img src="images/login.jpg" width="30" height="18" border="0" align="absmiddle">&nbsp;
-   			   <input type="text" name="login" value="" height="18" style="background: url('images/login_field.jpg') no-repeat fixed; border-width: 0; width: 130; height: 18; padding-left: 4; padding-right: 4; font-size: 11;">
-   			</td>
-   		</tr>
-   		<tr>
-   			<td colspan="3" valign="middle" align="right"><img src="images/password.jpg" width="54" height="18" border="0" align="absmiddle">&nbsp;
-   			   <input type="password" name="password" value="" height="18" style="background: url('images/pass_field.jpg') no-repeat fixed; border-width: 0; width: 130; height: 18; padding-left: 4; padding-right: 4; font-size: 11;">
-   			</td>
-   		</tr>
-   		<tr>
-   			<td align="right">   			   			   
-   			   <font style="font-size: 11;">Remember&nbsp;my&nbsp;password&nbsp;</font>
-   			</td>
-   			<td>
-   			   <input onclick="checkthis(); warning()" type="checkbox" name="docookie" value="TRUE" style="width: 10px;">
-   			</td>
-   			<td align="right" valign="bottom" style="padding-left: 20;">
-   			   <input type="image" src="images/login_button.jpg" onclick="checkthis()">
-   			</td>
-   		</tr>
-		
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table><table cellspacing="0" cellpadding="0" align="center" width="780" style="border-left: 1px solid black; border-right: 1px solid black;">
-<tbody><tr>
-	<td background="images/nav_bar_bg.jpg" width="100%"></td>
-	<td><a href="demo.asp"><img onmouseout="this.src='images/request_demo_link.jpg'" onmouseover="this.src='images/request_demo_link2.jpg'" src="images/request_demo_link.jpg" width="97" height="29" border="0" alt="Request A Demo"></a></td>
+<script>
+function checkForm(){
+err = '';
+if (document.fs1.login.value=='')
+	err = err + 'You must enter a login.\n';
+if (document.fs1.password.value=='')
+	err = err + 'You must enter a password.\n';
+if (err!=''){
+	alert(err)
+	return false;
+}
+else
+	return true;
+}
+</script>
+<div align="center">
+	<table cellpadding="0" cellspacing="3" border="0" width="699">
 	
-	<td><a href="whatiser.asp"><img onmouseout="this.src='images/what_is_ER_link.jpg'" onmouseover="this.src='images/what_is_ER_link2.jpg'" src="images/what_is_ER_link.jpg" width="90" height="29" border="0" alt="What is Emergency Reporting"></a></td>
-	<td><a href="whychooseer.asp"><img onmouseout="this.src='images/why_chose_ER_link.jpg'" onmouseover="this.src='images/why_chose_ER_link2.jpg'" src="images/why_chose_ER_link.jpg" width="111" height="29" border="0" alt="Why Choose Emergency Reporting"></a></td>
-	<td><a href="products.asp"><img onmouseout="this.src='images/products_link.jpg'" onmouseover="this.src='images/products_link2.jpg'" src="images/products_link.jpg" width="67" height="29" border="0" alt="Products"></a></td>
-	<td><a href="faq.asp"><img onmouseout="this.src='images/faq1.gif'" onmouseover="this.src='images/faq2.gif'" src="images/faq1.gif" border="0" alt="FAQ"></a></td>
-	<td><a href="testimonials.asp"><img onmouseout="this.src='images/testimonial_link.jpg'" onmouseover="this.src='images/testimonial_link2.jpg'" src="images/testimonial_link.jpg" width="86" height="29" border="0" alt="Testimonials"></a></td>
-	<td><a href="aboutus.asp"><img onmouseout="this.src='images/about_us_link.jpg'" onmouseover="this.src='images/about_us_link2.jpg'" src="images/about_us_link.jpg" width="68" height="29" border="0" alt="About Us"></a></td>
-	<td><a href="support.asp"><img onmouseout="this.src='images/support_link.jpg'" onmouseover="this.src='images/support_link2.jpg'" src="images/support_link.jpg" width="65" height="29" border="0" alt="Support"></a></td>
-</tr>
-</tbody></table>
-<table width="780" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#F3F3F3" style="border-left: 1px solid black; border-right: 1px solid black;">
-<tbody><tr>
-	<td width="100%" align="left" valign="top" style="padding: 10;">
-		<img src="images/tit-privacystatement.gif" alt="" width="156" height="17" border="0">
-		<hr width="100%" size="4" noshade="" color="#000000">
-		<div style="font-size: 11; margin-left: 6;">
-				<table cellspacing="0" cellpadding="4">
+	<tbody><tr>
+	<!--Navigation-->
+	<td valign="top" style="background: #CCCCCC;">
+		<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td><img src="graphics/nav-top.gif" alt="" width="172" height="5" border="0"></td>
+		</tr>
+		<tr>
+			<td><a href="default.asp"><img src="graphics/nav-home.gif" alt="" width="172" height="29" border="0"></a></td>
+		</tr>
+		<tr>
+			<td><a href="whychooseer.asp"><img src="graphics/nav-why-choose-ER.gif" alt="" width="172" height="30" border="0"></a></td>
+		</tr>
+		<tr>
+			<td><a href="products.asp"><img src="graphics/nav-products.gif" alt="" width="172" height="29" border="0"></a></td>
+		</tr>
+		<tr>
+			<td><a href="FAQ.asp"><img src="graphics/nav-faq.gif" alt="" width="172" height="29" border="0"></a></td>
+		</tr>
+		<tr>
+			<td><a href="testimonials.asp"><img src="graphics/nav-testimonials.gif" alt="" width="172" height="29" border="0"></a></td>
+		</tr>
+		<tr>
+			<td><a href="aboutus.asp"><img src="graphics/nav-about-us.gif" alt="" width="172" height="27" border="0"></a></td>
+		</tr>
+		<tr>
+			<td><a href="customapplications.asp"><img src="graphics/nav-custom-applications.gif" alt="" width="172" height="30" border="0"></a></td>
+		</tr>
+		<tr>
+			<td><a href="support.asp"><img src="graphics/nav-support.gif" alt="" width="172" height="33" border="0"></a></td>
+		</tr>
+		<tr>
+			<td><img src="graphics/nav-bottom.gif" alt="" width="172" height="6" border="0"></td>
+		</tr>
+		</tbody></table>
+			
+		<table width="172" cellspacing="0" style="border-top: 3px solid white;">
+		<tbody><tr>
+			<td style="background: #CCCCCC; padding: 10px;">
+				<table cellspacing="0" cellpadding="0" border="0" width="100%">
+		   		<form action="https://secure.emergencyreporting.com/default.asp" method="POST" name="fs1" onsubmit="return checkForm();"></form>
+				<input type="hidden" name="formhere" value="YES">
 				<tbody><tr>
-					<td valign="top">
-					</td><td style="padding-right: 20px;">						
+		   			<td style="color: #666666; font-size: 10px;"><strong>Login:</strong><br>
+		   			   <input type="text" name="login" value="" height="18" style="width: 100%; height: 18; font-size: 11;">
+		   			</td>
+		   		</tr>
+		   		<tr>
+		   			<td style="color: #666666; font-size: 10px; padding-top: 5px;"><strong>Password:</strong><br>
+		   			   <input type="password" name="password" value="" height="18" style="width: 100%; height: 18; font-size: 11;">
+		   			</td>
+		   		</tr>
+		   		<tr>
+		   			<td align="right" valign="bottom">
+		   			   <input type="image" onmouseover="this.src='graphics/login_button2.gif'" onmouseout="this.src='graphics/login_button1.gif'" src="graphics/login_button1.gif">
+		   			</td>
+		   		</tr>
+				
+				<tr>
+					<td align="center">
+						<!--<A STYLE="color: #666666; font-size: 10px;" HREF="forgotpassword.asp">Forgot your password?</A>-->
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
+		<div style="border-top: 3px solid white; border-bottom: 3px solid white;"><img src="ImageUploads/RandomAd-AdPath-7.gif" width="172"></div></td>
+	<!--END Navigation-->
+	<!--BEGIN home page main-->
+	<td style="border: 1px solid #CECECE; border-top: 3px solid #CECECE; padding-left: 12px; padding-top: 12px;" width="100%" valign="top">
+<div style="float: right; padding-right: 10px; color: #666666;">
+<a href="mailto:info@emergencyreporting.com">info@emergencyreporting.com</a><br>
+<img src="graphics/transparent.gif" alt="" width="1" height="4" border="0"><br>
+Toll free U.S: 1-866-773-7678 <br>
+<img src="graphics/transparent.gif" alt="" width="1" height="4" border="0"><br>
+International: 1-360-647-6003
+</div>
+<img src="graphics/logo.gif" alt="" width="244" height="49" border="0">
+<hr width="100%" size="3" noshade="" color="#000000">
+<div class="pagetitle">
+	<div style="float: right; padding-right: 10px;"><a href="#qqq" onclick="history.back();"><img src="graphics/back.gif" alt="" width="37" height="16" border="0"></a></div>
+	Privacy Statement
+</div>
+	<table cellspacing="0" cellpadding="0" border="0" style="margin-top: 10px;">
+	<tbody><tr>
+		<td>			
+			<div style="font-size: 10px; margin-left: 6px;">
+				<!--Begin Sub Nav-->
+				<div style="float: right; margin-left: 16px; margin-right: 10px; margin-top: 4px; margin-bottom: 4px;">
+					<table cellspacing="0" cellpadding="0" border="0">
+					<tbody><tr>
+						<td><a href="demo.asp"><img src="graphics/free-trial-sub.gif" alt="" width="180" height="60" border="0"></a></td>
+					</tr>
+					<tr>
+						<td style="background: #F8F8F8" onmouseover="this.style.background='#ffffff'" onmouseout="this.style.background='#F8F8F8'"><a href="Technical-Specs.asp"><img src="graphics/Technical-Specs.gif" alt="Technical Specs" width="180" border="0"></a></td>
+					</tr>
+					<tr>
+						<td style="background: #F8F8F8" onmouseover="this.style.background='#ffffff'" onmouseout="this.style.background='#F8F8F8'"><a href="Company-Background.asp"><img src="graphics/Company-Background.gif" alt="Company-Background" width="180" border="0"></a></td>
+					</tr>
+					<tr>
+						<td style="background: #F8F8F8" onmouseover="this.style.background='#ffffff'" onmouseout="this.style.background='#F8F8F8'"><a href="Top-22-Benefits.asp"><img src="graphics/Top-22-Benefits.gif" alt="Top 22 Benefits" width="180" border="0"></a></td>
+					</tr>
+					<tr>
+						<td><img src="graphics/bottom-sub.gif" alt="" width="180" height="3" border="0"></td>
+					</tr>
+					</tbody></table>
+					<br>
+				</div>
+				<!--END Sub Nav-->
+				<!--Begin News App-->
+				<div class="newsbody">			
 						Emergency Reporting respects your privacy and takes great care to safeguard information in 
 						our possession. Emergency Reporting does not share customer information without permission, 
 						unless we are legally required to.  We restrict access to your information 
@@ -248,59 +149,35 @@
 						are required to keep your information secure and confidential. 
 						<br><br>
 						For more information about our privacy policy, call us toll free at: 1-866-773-7678 or by email at <a href="mailto:info@emergencyreporting.com">info@emergencyreporting.com</a>.
-					</td>
-				</tr>
-				</tbody></table>
-				
-		</div>
-	</td>
-	<td valign="top" style="padding: 20px;">
-		<table width="172" cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>
-			<td width="6"><img src="images/info_top-left.jpg" width="6" height="24" border="0" alt=""></td>
-			<td background="images/info_top_bg.jpg" width="160" height="24" style="padding-left: 4;"><strong>Contact Us</strong></td>
-			<td width="6"><img src="images/info_top-right.jpg" width="6" height="24" border="0" alt=""></td>
-		</tr>
-		<tr>
-			<td colspan="3" width="172" valign="top" bgcolor="#FFFFFF" style="border-left: solid #959595 1px; border-right: solid #959595 1px; padding-left: 10;  padding-right: 10; padding-top: 4;">
-			    <span style="font-size: 11;">
-				<strong>1-866-773-7678</strong><br>
-				<a style="font-size: 10px;" href="mailto:info@emergencyreporting.com">info@emergencyreporting.com</a>
-				</span>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="3"><img src="images/info_bottom.jpg" width="172" height="6" border="0" alt=""></td>
-		</tr>
-		</tbody></table><br>
-		<br>
-		<table width="172" cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>
-			<td width="6"><img src="images/info_top-left.jpg" width="6" height="24" border="0" alt=""></td>
-			<td background="images/info_top_bg.jpg" width="160" height="24" style="padding-left: 4px;"><strong>Customer Comment</strong></td>
-			<td width="6"><img src="images/info_top-right.jpg" width="6" height="24" border="0" alt=""></td>
-		</tr>
-		<tr>
-			<td colspan="3" valign="top" bgcolor="#FFFFFF" style="width: 140px; border-left: solid #959595 1px; border-right: 1px solid #959595; padding: 10px; font-size: 11px;">
-				<p><em>"We contacted Emergency reporting to explore their internet based reporting system. After just a few weeks of trial reporting and working with representatives from MBI and Emergency Reporting, we were convinced our department was entering into an agreement with two highly trained and professional corporations focused on customer service. The continued support from MBI and Emergency Reporting made this critical change in our operations a pleasurable experience for our department."</em> <br><br><strong>Donald G. Bennett, Fire Chief</strong><br>Fairfield Fire Department <br>Fairfield, OH </p>
-				
-			</td>
-		</tr>
-		<tr>
-			<td colspan="3"><img src="images/info_bottom.jpg" width="172" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-			
-		<div align="center"><br><img src="graphics/visa1.jpg" alt="Visa" border="0"><br>
-		<img src="graphics/mc1.jpg" alt="MasterCard" border="0"></div>
+					
+						</div>
+						<hr noshade="" color="#000000">
+
+				<!--End News App-->			
+			</div>
+		</td>
+	</tr>
+	</tbody></table>
 	</td>
 </tr>
 </tbody></table>
-<table align="center" width="780" height="21" cellspacing="0" cellpadding="0" border="0" style="border-left: 1px solid black; border-right: 1px solid black;">
-<tbody><tr>
-	<td background="images/bottom.jpg" width="780" height="21" align="center" style="font-size: 10px;">© 2005 Reporting Systems Inc. | <a style="font-size: 10px;" href="support.asp">Contact Us</a> | <a style="font-size: 10px;" href="privacy.asp">Privacy Statement</a> | <a style="font-size: 10px;" href="links.asp">Links</a></td>
-</tr>
-</tbody></table>
+
+	<table align="center" width="699" cellspacing="0" cellpadding="4" border="0" style="margin-top: 3px;">
+	<tbody><tr>
+		<td style="font-size: 10px; background: #B1B1B1; color: white;">© 2003 - 2006 Reporting Systems Inc.</td>
+		<td style="font-size: 10px; background: #B1B1B1; color: white;" align="right"><a style="font-size: 10px; color: white;" href="support.asp">Contact Us</a> | <a style="font-size: 10px; color: white;" href="privacy.asp">Privacy Statement</a> | <a style="font-size: 10px; color: white;" href="links.asp">Links</a></td>
+	</tr>
+	</tbody></table>
+</div>
+
+<!-- DBH: Google Analytics -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-135122-1";
+urchinTracker();
+</script>
+<!-- DBH: END Google Analytics -->
+
 
 
 </body></html>
