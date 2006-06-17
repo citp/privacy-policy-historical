@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tattoojoy.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217092107id_/http%3A//tattoojoy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattoojoy.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617193407id_/http%3A//tattoojoy.com/privacy.php) for the most accurate reproduction.*
 
 # TattooJoy.com - Privacy Statement
 
