@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229055332id_/http%3A//www.agriculture.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agriculture.gov.au privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617034958id_/http%3A//agriculture.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement - Agriculture Portal
 
