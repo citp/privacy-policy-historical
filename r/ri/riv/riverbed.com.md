@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riverbed.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231064611id_/http%3A//riverbed.com/company/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverbed.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617175028id_/http%3A//www.riverbed.com/company/privacy_policy.php) for the most accurate reproduction.*
 
 # Riverbed Technology - Company
 
