@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsac.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212124642id_/http%3A//www.lsac.org/LSAC.asp%3Furl%3D/lsac/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsac.org privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617221344id_/http%3A//lsac.org/LSAC.asp%3Furl%3D/lsac/privacy-policy.asp) for the most accurate reproduction.*
 
 # Law School Admission Council :: LSAC.org
 
@@ -17,7 +17,7 @@ LSAC.org collects two types of personally identifying information from users: pe
 ****
 
 **Personal Data**  
-Personal data is collected when users voluntarily provide data to LSAC.org; for example, when registering for our services or purchasing our products. LSAC’s primary activity is the collection and dissemination, to law schools and researchers, of data about persons interested in applying to law school. This activity is designed to streamline and improve the law school admission process for both applicants and schools. Data collection and dissemination is the heart of what we do. LSAC’s _Data Retention and Confidentiality_ policy is available by _[clicking here](https://web.archive.org/web/20051212124642id_/http%3A//www.lsac.org/LSAC.asp%3Furl%3D/LSAC.asp?url=/lsac/data-retention-policy.asp)_.
+Personal data is collected when users voluntarily provide data to LSAC.org; for example, when registering for our services or purchasing our products. LSAC’s primary activity is the collection and dissemination, to law schools and researchers, of data about persons interested in applying to law school. This activity is designed to streamline and improve the law school admission process for both applicants and schools. Data collection and dissemination is the heart of what we do. LSAC’s _Data Retention and Confidentiality_ policy is available by _[clicking here](https://web.archive.org/web/20060617221344id_/http%3A//lsac.org/LSAC.asp%3Furl%3D/LSAC.asp?url=/lsac/data-retention-policy.asp)_.
 
 **
 
@@ -73,6 +73,6 @@ This statement and the policies outlined herein are not intended to and do not c
 
 **
 
-USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO [THE TERMS AND CONDITIONS OF USE](https://web.archive.org/web/20051212124642id_/http%3A//www.lsac.org/LSAC.asp%3Furl%3D/LSAC.asp?url=/lsac/terms-and-conditions.asp) AND PRIVACY POLICY OF THE LAW SCHOOL ADMISSION COUNCIL'S LSAC.org WEB SITE.
+USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO [THE TERMS AND CONDITIONS OF USE](https://web.archive.org/web/20060617221344id_/http%3A//lsac.org/LSAC.asp%3Furl%3D/LSAC.asp?url=/lsac/terms-and-conditions.asp) AND PRIVACY POLICY OF THE LAW SCHOOL ADMISSION COUNCIL'S LSAC.org WEB SITE.
 
 **  
