@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the playgirltv.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212135007id_/http%3A//www.playgirltv.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgirltv.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618010243id_/http%3A//playgirltv.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Playgirl - Entertainment For Women: Privacy Policy
+# PLAYGIRL - Privacy Policy
 
 Privacy Policy
 
-Trans Digital Media Privacy Policy
-
   
+**Trans Digital Media Privacy Policy**  
 TRANS DIGITAL MEDIA has created this privacy policy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering, use and dissemination practices for this Web site (the "Web site"). By using or accessing this Web site, you signify your assent to our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE WEB SITE. 
 
 **Personal and Non-Personal Information**  
