@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zeenews.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208184629id_/http%3A//zeenews.com/contacts/privatepolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeenews.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617161927id_/http%3A//zeenews.com/privatepolicy.asp) for the most accurate reproduction.*
 
-# Private Policy
+# Untitled Document
 
 [http://www.zeenews.com](http://www.zeenews.com/) wants to make your experience online satisfying and safe. Our data collection policies allow you to choose how much information to provide us and to control how we use whatever information you tell us. Our goal is to provide you with a robust experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have.
 
