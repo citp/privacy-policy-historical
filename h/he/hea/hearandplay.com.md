@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217115407id_/http%3A//www.hearandplay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618012727id_/http%3A//www.hearandplay.com/privacy.html) for the most accurate reproduction.*
 
 # HearandPlay.com - Customer Support Center
 
@@ -7,7 +7,7 @@
 This is the web site of **Hear and Play Music**.
 
 Our postal address is   
-**P.O. BOX 91355** **LONG BEACH, CA 90809**
+**P.O. Box 91355** **Long Beach, CA 90809**
 
 We can be reached via e-mail at [ webmaster@hearandplay.com](mailto:webmaster@hearandplay.com)  
 or you can reach us by telephone at 562-981-3005 / 562-981-3105
