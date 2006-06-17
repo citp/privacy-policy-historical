@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219013535id_/http%3A//www.donorschoose.org/locale0/about.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617220532id_/http%3A//www.donorschoose.org/locale0/about.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # About
 
@@ -41,7 +41,7 @@ Or e-mail us at [info@donorschoose.org](mailto:info@donorschoose.org).
 We are always glad to hear your questions or comments. 
 
 _A Note to Parents_  
-Use of the Site by children (permitted under the [Terms of Use](https://web.archive.org/web/20051219013535id_/http%3A//www.donorschoose.org/locale0/about.php?page=legal) with parental consent and supervision) does not require disclosure of any personal information about the child, and DC does not wish or intend for any child to provide personally identifiable data to DC through use of the Site. 
+Use of the Site by children (permitted under the [Terms of Use](https://web.archive.org/web/20060617220532id_/http%3A//www.donorschoose.org/locale0/about.php?page=legal) with parental consent and supervision) does not require disclosure of any personal information about the child, and DC does not wish or intend for any child to provide personally identifiable data to DC through use of the Site. 
 
    
   
