@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aboutkidshealth.ca privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108034054id_/http%3A//www.aboutkidshealth.ca/disclamer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutkidshealth.ca privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617091955id_/http%3A//www.aboutkidshealth.ca/disclamer.asp) for the most accurate reproduction.*
 
-# AboutKidsHealth | Privacy Policy
+# AboutKidsHealth: Privacy Policy
 
 The AboutKidsHealth Web Site Privacy Policy
 
