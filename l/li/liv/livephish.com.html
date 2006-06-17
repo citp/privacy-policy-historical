@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the livephish.com privacy policy that was archived on 2005-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231061559id_/http%3A//www.livephish.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livephish.com privacy policy that was archived on 2006-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060617170208id_/http%3A//www.livephish.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>livephish.com | PRIVACY POLICY</title>
@@ -50,6 +50,15 @@ body{
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 10px;
 	color: #000000;
+	margin-left: 10px;
+}
+
+
+.songTitle {
+	font-family: Tahoma,Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	font-weight: 500;
 	margin-left: 10px;
 }
 
@@ -147,9 +156,17 @@ p {
 	font-size: 9px;
 	color: #FFFFFF;
 }
-.buy {
+.buy1 {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+
+.buy2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
 	font-weight: bold;
 	color: #000000;
 	text-decoration: none;
@@ -285,7 +302,7 @@ function calcExp(inDate) {
 	var cDate = new Date(inDate)
 	var agt=navigator.userAgent.toLowerCase();
 	// Adjust date to local time for IE 
-	if (agt.indexOf("msie") != -1) cDate.setHours(cDate.getHours() - (cDate.getTimezoneOffset()/60))
+	cDate.setHours(cDate.getHours() - (cDate.getTimezoneOffset()/60))
 	mm = dDate(cDate.getMonth() + 1)
 	dd = dDate(cDate.getDate())
 	yy = cDate.getYear()
@@ -319,6 +336,7 @@ function dDate(inVal) {
 
 <div align="center">
 <!-- TOP NAV and RADIO -->
+<form name="searchSongs" action="/search/default.asp" method="post">
 <table width="730" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
 			<td width="445">
@@ -343,7 +361,7 @@ function dDate(inVal) {
 				<table width="730" border="0" cellspacing="0" cellpadding="0">
 					<tbody><tr><td width="203"><a href="#" onclick="loginCmd('login')"><img src="/images/inside_login.gif" alt="LOGIN" height="28" width="78" border="0" class="roll"></a><a href="http://www.livephish.com/pb/myaccount.asp"><img src="/images/inside_stash.gif" alt="" height="28" width="78" border="0" class="roll"></a><a href="http://www.livephish.com/faq.asp"><img src="/images/inside_faq.gif" alt="" height="28" width="43" border="0" class="roll"></a></td>
 						<td align="right" width="216"><img src="/images/inside_search.gif" alt="" height="28" width="79" border="0"></td>
-						<td align="right" width="159"><div id="insideSearch"><form name="searchSongs" action="/search/default.asp" method="post"><input type="text" name="song" size="24" style="font-size:10px;height:17px;"></form></div></td><td align="right" width="140"><input type="image" src="/images/search_btn.gif" alt="SEARCH" height="28" width="139" border="0"></td>
+						<td align="right" width="159"><div id="insideSearch"><input type="text" name="song" size="24" style="font-size:10px;height:17px;"></div></td><td align="right" width="140"><input type="image" src="/images/search_btn.gif" alt="SEARCH" height="28" width="139" border="0"></td>
 					</tr>
 				</tbody></table>
 			</td>
@@ -352,7 +370,6 @@ function dDate(inVal) {
 		<td><img src="/images/nav_wrap_spacer.gif" alt="image" width="730"></td>
 		</tr>
 </tbody></table>
-
 <!-- END TOP NAV and RADIO -->
 
 
@@ -503,7 +520,7 @@ If you have any questions or concerns about the LivePhish.com online policy for 
 </td>
 </tr>
 </tbody></table>
-</div>
+</form></div>
 <p align="center" class="footer">
 © Phish<br>
 <a class="footer" href="http://www.livephish.com/terms.asp">TERMS OF USE</a> |
