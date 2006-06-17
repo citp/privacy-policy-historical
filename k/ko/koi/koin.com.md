@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koin.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229070912id_/http%3A//www.koin.com/koin/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koin.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617233322id_/http%3A//koin.com/koin/privacypolicy.asp) for the most accurate reproduction.*
 
 # KOIN.com
 
