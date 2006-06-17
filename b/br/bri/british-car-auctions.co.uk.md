@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the british-car-auctions.co.uk privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222021612id_/http%3A//www.british-car-auctions.co.uk/main.asp%3Fpage%3D1670) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the british-car-auctions.co.uk privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617070819id_/http%3A//www.british-car-auctions.co.uk/Default.aspx%3Fpage%3D1670) for the most accurate reproduction.*
 
 # Privacy Policy
-
-| 
-
-**BCA's Privacy Policy**
 
 BCA's privacy policy is to respect and protect the privacy of visitors to the BCA web site and subscribers to any email updates from the web site. This policy statement tells you how we collect information from you and how we use it. It will assist you in making informed decisions when using our site and our services.
 
