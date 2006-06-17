@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219205556id_/http%3A//www.latrobe.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617173049id_/http%3A//www.latrobe.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - La Trobe University
 
@@ -44,4 +44,4 @@ Content Approved by: La Trobe Legal Services
 Page maintained by: [Web Administrator](mailto:t.galloway@latrobe.edu.au)  
 Last Updated: 
 
-15 December, 2005
+5 June, 2006
