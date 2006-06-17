@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210161039id_/http%3A//bronto.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617173200id_/http%3A//bronto.com/terms/privacy) for the most accurate reproduction.*
 
 # Email Marketing Software from Bronto: Privacy Policy
 
@@ -26,7 +26,5 @@ We, and some of our partners who provide some of the services and products on ou
 
 **Changes to Privacy Policy**   
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this Privacy Policy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site's Privacy Policy page to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site's Privacy Policy page periodically. 
-
-© 2002-2005 Bronto Software, Inc. All Rights Reserved. 
 
 Last Updated: March 4, 2003 
