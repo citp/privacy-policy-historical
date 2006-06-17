@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cashedge.com privacy policy that was archived on 2005-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051125102056id_/http%3A//cashedge.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashedge.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617033012id_/http%3A//cashedge.com/privacy.html) for the most accurate reproduction.*
 
 # CashEdge
 
-[](https://web.archive.org/web/20051125102056id_/http%3A//cashedge.com/index.html)[](https://web.archive.org/web/20051125102056id_/http%3A//cashedge.com/loginSign/index.html)
+[](https://web.archive.org/web/20060617033012id_/http%3A//cashedge.com/index.html)[](https://web.archive.org/web/20060617033012id_/http%3A//cashedge.com/loginSign/index.html)
 
 Your privacy and security are of the utmost importance to CashEdge, and we are committed to safeguarding any information that you share with us. In order to provide our Services, we must obtain certain personal information from you regarding your accounts and financial relationships. Our pledge is to keep this information secure and to use it only as you so authorize. 
 
@@ -41,13 +41,13 @@ _We collect only such information as you knowingly provide to us or specifically
 
   * CashEdge will keep your personal and account information accurate and up to date. You can access, review and update your personal information at any time by clicking on **“Profile”**. You will not be able to make changes to your third party accounts at financial institutions through CashEdge. For any problems or to update your Profile you can notify us at [privacy@CashEdge.com](mailto:privacy@cashedge.com).   
 
-  * If you wish to discontinue your use of the services, you can unsubscribe at any time by clicking on the "Unsubscribe From Service Feature" from the Profile Tab or, by writing at CashEdge Inc., 692 Tasman Drive, Milpitas, CA 95035. 
+  * If you wish to discontinue your use of the services, you can unsubscribe at any time by clicking on the "Unsubscribe From Service Feature" from the Profile Tab or, by writing at CashEdge Inc., 2841 Junction Ave, Suite 101, San Jose, CA 95134-1921. 
 
 
 
 **Security Measures that CashEdge has put in place to protect your information:**
 
-  * CashEdge has multiple levels of security, designed especially by us. In that we take every precaution to protect your information, when you submit sensitive information, that information is encrypted and protected with the strongest encryption software available. Your information is protected both online and off-line using technologic and physical measures. For information on the specifics of our Security Architecture, please see [CashEdge's Security Policy](https://web.archive.org/web/20051125102056id_/http%3A//cashedge.com/security.html). 
+  * CashEdge has multiple levels of security, designed especially by us. In that we take every precaution to protect your information, when you submit sensitive information, that information is encrypted and protected with the strongest encryption software available. Your information is protected both online and off-line using technologic and physical measures. For information on the specifics of our Security Architecture, please see [CashEdge's Security Policy](https://web.archive.org/web/20060617033012id_/http%3A//cashedge.com/security.html). 
   * The use of “ Cookies” is an industry standard that refers to pieces of information that a Web site transfers to your computer’s hard disk for record keeping purposes. By storing information about your preferences on a particular site, many major Web sites use cookies to provide useful features for their customers. In our case we use “Cookies” to maintain session information for logged in members and to prevent the need for re-entry of login information. The “Cookies” used by CashEdge are present only when you are in session- they are deleted when you log off. CashEdge does not use “persistent” cookies (that is, cookies that remain after you log off) to store any personal information on a browser. If you attempt to disable the session cookies you will no longer be able to access the CashEdge service. 
   * CashEdge places your personal and financial information on a secure portion of our Web site. Your CashEdge login name is always encrypted. Your CashEdge Password is one-way encrypted (this type of encryption prevents us from deciphering your CashEdge password). Your Financial Institution User IDs and Passwords are encrypted using your CashEdge password (this means that until you log in to CashEdge and provide us with your password, CashEdge cannot decrypt the User ID and Password for your third party accounts). Neither our software, nor that of our employees can decode this information at any time. 
   * Your CashEdge password is your private key into your account. You must never share it with anyone and you should change it periodically. You can change your password at any time by clicking on **“Profile”**. PLEASE REMEMBER that if you forget your password, we can reset your CashEdge account, but you will have to re-enter your User ID's and Passwords for financial institutions, as we do not have access to this information. 
@@ -62,7 +62,7 @@ _We collect only such information as you knowingly provide to us or specifically
 
 
 
-The information and materials contained in these pages are subject to change. You can review this policy and any updates at any time by going to the Privacy Policy. If at some point in the future there is a change to our information usage practices that affect your personally identifiable information, we will notify you by email of the relevant changes. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use. You can choose to opt-out at any time by notifying us either by writing to us at CashEdge, Inc., 692 Tasman Drive, Milpitas CA 95035. Or by sending us e-mail at [privacy@CashEdge.com](mailto:privacy@cashedge.com). 
+The information and materials contained in these pages are subject to change. You can review this policy and any updates at any time by going to the Privacy Policy. If at some point in the future there is a change to our information usage practices that affect your personally identifiable information, we will notify you by email of the relevant changes. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use. You can choose to opt-out at any time by notifying us either by writing to us at CashEdge, Inc., 2841 Junction Ave, Suite 101, San Jose, CA 95134-1921. Or by sending us e-mail at [privacy@CashEdge.com](mailto:privacy@cashedge.com). 
 
 By participating in the BBBOnLine and TRUSTe Privacy Program, we have made a commitment to meet these programs’ strict requirements regarding how we treat your personal and financial information. 
 
@@ -70,6 +70,9 @@ CashEdge has been certified by TRUSTe, Thawte, and BBBOnLine to help promote the
 
 Further information about BBBOnLine, TRUSTe and Thawte is available at [www.bbbonline.org](http://www.bbbonline.org/), [www.TRUSTe.org](http://www.truste.org/) and [www.thawte.com](http://www.thawte.com/)
 
-If you have questions or concerns regarding this statement, you should first contact Privacy Questions, CashEdge Inc., 692 Tasman Drive, Milpitas, CA 95035 Or [privacy@CashEdge.com](mailto:privacy@CashEdge.com). If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process (http://truste.org/consumers/watchdog_complaint.php)](http://truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Privacy Questions, CashEdge Inc., 2841 Junction Ave, Suite 101, San Jose, CA 95134-1921 Or [privacy@CashEdge.com](mailto:privacy@CashEdge.com). If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process (http://truste.org/consumers/watchdog_complaint.php)](http://truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve your concerns. 
 
-[Back to Homepage](https://web.archive.org/web/20051125102056id_/http%3A//cashedge.com/index.html)
+[Back to Homepage](https://web.archive.org/web/20060617033012id_/http%3A//cashedge.com/index.html)
+
+[  
+](http://www.bbbonline.org/cks.asp?id=7102000115631)
