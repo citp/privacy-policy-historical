@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231220733id_/http%3A//www.samaritanspurse.org/Giving_Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samaritanspurse.org privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617110536id_/http%3A//www.samaritanspurse.org/Giving_Privacy.asp) for the most accurate reproduction.*
 
 # SP: Privacy Policy
 
@@ -32,10 +32,10 @@ Samaritan's Purse is committed to ensuring the security of your personal informa
 
 Removing your name from our mailing list 
 
-Our Web site gives you the opportunity to remove your name from our mailing list so that you do not receive any future communications from our ministry. If you desire to remove your name, use our [Contact Us form](https://web.archive.org/web/20051231220733id_/http%3A//www.samaritanspurse.org/ContactUs_Index.asp)
+Our Web site gives you the opportunity to remove your name from our mailing list so that you do not receive any future communications from our ministry. If you desire to remove your name, use our [Contact Us form](https://web.archive.org/web/20060617110536id_/http%3A//www.samaritanspurse.org/ContactUs_Index.asp)
 
-If you determine that information in our database is inaccurate or it has changed, you may modify the previously provided information by using our [Contact Us form](https://web.archive.org/web/20051231220733id_/http%3A//www.samaritanspurse.org/ContactUs_Index.asp)
+If you determine that information in our database is inaccurate or it has changed, you may modify the previously provided information by using our [Contact Us form](https://web.archive.org/web/20060617110536id_/http%3A//www.samaritanspurse.org/ContactUs_Index.asp)
 
 Contacting Us 
 
-If you have comments or questions about our privacy policy, please use our [Contact Us form](https://web.archive.org/web/20051231220733id_/http%3A//www.samaritanspurse.org/ContactUs_Index.asp)
+If you have comments or questions about our privacy policy, please use our [Contact Us form](https://web.archive.org/web/20060617110536id_/http%3A//www.samaritanspurse.org/ContactUs_Index.asp)
