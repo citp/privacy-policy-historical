@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bcbsfl.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160500id_/http%3A//www.bcbsfl.com/index.cfm%3Ffuseaction%3Ddisclaimers.sitePrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbsfl.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617065104id_/http%3A//www.bcbsfl.com/index.cfm%3Ffuseaction%3Ddisclaimers.sitePrivacyStatement) for the most accurate reproduction.*
 
 # BCBSF - Internet Privacy Statement
 
-Welcome to Blue Cross and Blue Shield of Florida, Inc.'s (BCBSF) Internet website. At BCBSF, we strive to earn your continued respect and trust every day. We want you to understand how we collect, use, and protect the confidentiality of personal information. This statement pertains to information collected from you via this website (www.bcbsfl.com). You may receive other privacy notices from BCBSF, its affiliates, or its subsidiaries from time to time related to privacy and confidentiality of personal information, and such privacy notices may govern the treatment of information collected via this website as well. If you provide any information through this Internet site that relates to an individual's health condition or the provision of health care to an individual or payment therefore, the [HIPAA Notice of Privacy Practices](https://web.archive.org/web/20051212160500id_/http%3A//www.bcbsfl.com/index.cfm?fuseaction=siteHIPAA.home) shall govern the manner in which we handle such information.
+Welcome to Blue Cross and Blue Shield of Florida, Inc.'s (BCBSF) Internet website. At BCBSF, we strive to earn your continued respect and trust every day. We want you to understand how we collect, use, and protect the confidentiality of personal information. This statement pertains to information collected from you via this website (www.bcbsfl.com). You may receive other privacy notices from BCBSF, its affiliates, or its subsidiaries from time to time related to privacy and confidentiality of personal information, and such privacy notices may govern the treatment of information collected via this website as well. If you provide any information through this Internet site that relates to an individual's health condition or the provision of health care to an individual or payment therefore, the [HIPAA Notice of Privacy Practices](https://web.archive.org/web/20060617065104id_/http%3A//www.bcbsfl.com/index.cfm?fuseaction=siteHIPAA.home) shall govern the manner in which we handle such information.
 
 ### Collecting and Using Personal Information
 
@@ -36,12 +36,12 @@ BCBSF may provide links to other websites. Please be aware that once you leave o
 
 ### Changes to this Internet Privacy Statement
 
-The foregoing Internet Privacy Statement is effective as of January 1, 2002. BCBSF may change this statement periodically without notice. Changes to our Internet Privacy Statement will be noted here so that you can be informed about the privacy protections we provide. This statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party. We changed this policy to specifically refer to and reference the [HIPAA Notice of Privacy Practices](https://web.archive.org/web/20051212160500id_/http%3A//www.bcbsfl.com/index.cfm?fuseaction=siteHIPAA.home) on May 08, 2003.
+The foregoing Internet Privacy Statement is effective as of January 1, 2002. BCBSF may change this statement periodically without notice. Changes to our Internet Privacy Statement will be noted here so that you can be informed about the privacy protections we provide. This statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party. We changed this policy to specifically refer to and reference the [HIPAA Notice of Privacy Practices](https://web.archive.org/web/20060617065104id_/http%3A//www.bcbsfl.com/index.cfm?fuseaction=siteHIPAA.home) on May 08, 2003.
 
 ### Related Information
 
-For more information related to your use of this website, please refer to our [Terms of Use](https://web.archive.org/web/20051212160500id_/http%3A//www.bcbsfl.com/index.cfm?fuseaction=disclaimers.siteTermsofUse).
+For more information related to your use of this website, please refer to our [Terms of Use](https://web.archive.org/web/20060617065104id_/http%3A//www.bcbsfl.com/index.cfm?fuseaction=disclaimers.siteTermsofUse).
 
-For general information about how we protect and disclose information to third parties, please refer to our [Gramm-Leach-Bliley Act Privacy Notice](https://web.archive.org/web/20051212160500id_/http%3A//www.bcbsfl.com/index.cfm?fuseaction=disclaimers.siteGLBStatement).
+For general information about how we protect and disclose information to third parties, please refer to our [Gramm-Leach-Bliley Act Privacy Notice](https://web.archive.org/web/20060617065104id_/http%3A//www.bcbsfl.com/index.cfm?fuseaction=disclaimers.siteGLBStatement).
 
 If you have any questions or comments regarding these notices, please contact us at the Customer Service Number listed on your BCBSF Member ID Card.
