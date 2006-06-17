@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the diabetesselfmanagement.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228194701id_/http%3A//www.diabetesselfmanagement.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesselfmanagement.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617222456id_/http%3A//www.diabetesselfmanagement.com/privacy.cfm) for the most accurate reproduction.*
 
 # Diabetes Self-Management - Web Site Privacy Policy
 
 This is the privacy policy ("Privacy Policy") for the Diabetes Self-Management Web site (the "Site"). The Site is made available by R.A. Rapaport Publishing, Inc. This Privacy Policy sets forth our policies regarding the collection, use and disclosure of certain information relating to your use of the Site. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy. 
 
-This Privacy Policy is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/web/20051228194701id_/http%3A//www.diabetesselfmanagement.com/terms.cfm), which govern your use of the Site in general.
+This Privacy Policy is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/web/20060617222456id_/http%3A//www.diabetesselfmanagement.com/terms.cfm), which govern your use of the Site in general.
 
 **Age Requirement for Use of Site:** This Site is not intended for use by persons under the age of 18 years old. You must be 18 years old or older to provide any personal information to the Site, or to us through the Site.
 
