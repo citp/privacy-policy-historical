@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212115436id_/http%3A//www.carters.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618013512id_/http%3A//www.carters.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
-# Carters Privacy Policy
+# Privacy Policy - Carter's
 
 **Privacy Policy**  
 This Privacy Policy describes how The William Carter Company, a subsidiary of Carter's, Inc. ("Carter's," "we" or "us") protects, collects and uses your personally identifying information. By visiting our website, you accept the practices described in this Privacy Policy. We will post an announcement of any changes to this Privacy Policy on our website prior to those changes taking effect. Any information of yours that we collected before such changes take effect will be secured as described in the most recent version of the Privacy Policy. 
