@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the 999dice.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407233203id_/http%3A//www.999network.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 999dice.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617043701id_/http%3A//www.999network.com/privacy) for the most accurate reproduction.*
 
 # Network - 999 Network
 
-**1\. General**
+### Privacy Policy
+
+#### 1\. General
 
 1.1 We are committed to our protection of your privacy. No information collected by us on the site will be sold, rented or loaned except as expressly stated in the Privacy Policy and consented to by you.
 
 1.2 We will use all reasonable endeavours to ensure that all personal information given to us through the site will only be held and used with care and in accordance with the Privacy Policy and the Data Protection Act 1998.
 
-**2\. Use of Information**
+#### 2\. Use of Information
 
 2.1 We will not collect any information about individuals, except where it is specifically and knowingly provided, for example, at the time of registration. This data is referred to in the Privacy Policy as 'personal information'.
 
@@ -18,7 +20,7 @@
 
 2.4 At every point on the site where such personal information is collected, we give you the option to tell us if you do not want your personal information to be used in the way. If at any later stage you decide you would rather not receive such information please contact us immediately by email on 
 
-**3\. 'Cookies'**
+#### 3\. 'Cookies'
 
 3.1 We use "cookies" on the site. Cookies are small text files on your computer.
 
@@ -26,7 +28,7 @@
 
 3.3 If you do not want to accept a cookie when you visit our site you should be able to change the settings on your browser to disable this function. Alternatively, please contact your Internet Service Provider.
 
-**4\. Links to other sites**
+#### 4\. Links to other sites
 
 4.1 We may from time to time establish relationships with other companies or organisations that will enable you to access the websites of such companies or organisations directly from our site.
 
@@ -38,7 +40,7 @@
 
 4.5 When you click through to these sites you leave the area controlled by us. We cannot accept responsibility for any issues arising in connection with either the third party's use of your data, the site content or the services offered to you by these sites.
 
-**5\. Your Rights**
+#### 5\. Your Rights
 
 5.1 In addition to these policies your personal information is protected in the UK by the Data Protection Act 1998.
 
@@ -50,7 +52,7 @@
 
 5.5 We cannot guarantee that when, subject to first receiving your consent, we transfer your personal information to third parties in other jurisdictions, such jurisdictions operate an adequate or equivalent level of data protection as prevails in England & Wales.
 
-**6\. Policy Changes**
+#### 6\. Policy Changes
 
 6.1 Any changes to the privacy policy made by us will be posted here and will take effect immediately. The policy was last updated on 25th October 2002.
 
