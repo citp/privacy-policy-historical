@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the hostdepartment.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230180457id_/http%3A//www.hostdepartment.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostdepartment.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618000151id_/http%3A//www.hostdepartment.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Host Department: Privacy Policy
 
 _Providing premium web hosting and free web hosting to over one million websites world wide - "A Five Star Web Hosting Provider"_
 
-|  | 
-
+|  |  |   
+---  
+  
 |  | Privacy Policy  
 ---|---  
   
