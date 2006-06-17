@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the exclaimer.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224162442id_/http%3A//www.exclaimer.com/US/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclaimer.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617042317id_/http%3A//exclaimer.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Exchange Disclaimer - add disclaimer to Exchange 2000 / 2003
+# Exclaimer - Privacy
+
+|  Privacy
+
+| 
 
 **Statement of intent**
 
@@ -10,4 +14,8 @@ By entering your details in the fields requested, you enable Exclaimer Ltd to pr
 
 **Changes to this Privacy Policy**
 
-Exclaimer may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
+Exclaimer may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.   
+
+
+|   
+---|---
