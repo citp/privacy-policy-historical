@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klwines.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213202909id_/http%3A//www.klwines.com/privacy-english.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klwines.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617124303id_/http%3A//www.klwines.com/privacy-english.asp) for the most accurate reproduction.*
 
 # K and L Wine Merchants - Privacy Policy
 
@@ -55,7 +55,7 @@ Shopping with klwines.com is absolutely safe -- you never have to worry about cr
 
 We use the latest encryption technology to keep your personal information safe. All your ordering information -- including your name, address, and credit card number -- is encrypted using a secure server for maximum security. Your credit card and billing information cannot be read as it travels to our ordering system. To ensure that your information is even more secure, once we receive your credit card information, we store it on a server that isn't accessible from the Internet. 
 
-Credit card transactions are handled by a third-party financial institution, which receives the credit card number and other personal identifying information only to verify the credit card numbers and process transactions. If you feel more comfortable doing so, you are welcome to call in your credit card information and complete your purchase by phone. (For details, see the [Payment Options](https://web.archive.org/web/20051213202909id_/http%3A//www.klwines.com/payment_options.asp) section of our Help Center.) 
+Credit card transactions are handled by a third-party financial institution, which receives the credit card number and other personal identifying information only to verify the credit card numbers and process transactions. If you feel more comfortable doing so, you are welcome to call in your credit card information and complete your purchase by phone. (For details, see the [Payment Options](https://web.archive.org/web/20060617124303id_/http%3A//www.klwines.com/payment_options.asp) section of our Help Center.) 
 
 How do I change, update, or correct personally identifiable information about myself? 
 
