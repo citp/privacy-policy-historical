@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the canadianbusinessdirectory.ca privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223092507id_/http%3A//www.canadianbusinessdirectory.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianbusinessdirectory.ca privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617224502id_/http%3A//canadianbusinessdirectory.ca/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - canadianbusinessdirectory.ca
 
   |  |  **  
-  [Home Page](https://web.archive.org/index.php?PHPSESSID=0838c8477f1eb39821f5375f81778652)
+  [Home Page](https://web.archive.org/index.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
 
-  [Browse By Location](https://web.archive.org/provincedir.php?PHPSESSID=0838c8477f1eb39821f5375f81778652)
+  [Browse By Location](https://web.archive.org/provincedir.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
 
-  [Browse By Categories](https://web.archive.org/categories.php?PHPSESSID=0838c8477f1eb39821f5375f81778652)
+  [Browse By Categories](https://web.archive.org/categories.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
 
-  [Search](https://web.archive.org/search.php?PHPSESSID=0838c8477f1eb39821f5375f81778652)
+  [Search](https://web.archive.org/search.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
 
-  [Advertise With Us](https://web.archive.org/advertise.php?PHPSESSID=0838c8477f1eb39821f5375f81778652)
+  [Advertise With Us](https://web.archive.org/advertise.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
 
-  [Contact Us](https://web.archive.org/contact.php?PHPSESSID=0838c8477f1eb39821f5375f81778652)
+  [Contact Us](https://web.archive.org/contact.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
 
-  [Your Account](https://web.archive.org/login.php?PHPSESSID=0838c8477f1eb39821f5375f81778652)
+  [Your Account](https://web.archive.org/login.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
 
-  [Business Tools](https://web.archive.org/business-tools.php?PHPSESSID=0838c8477f1eb39821f5375f81778652)
+  [Business Tools](https://web.archive.org/business-tools.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
 
-  [Latest Additions](https://web.archive.org/latest-companies.php?PHPSESSID=0838c8477f1eb39821f5375f81778652)
+  [Latest Additions](https://web.archive.org/latest-companies.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
 
-  [Link To Us](https://web.archive.org/linking.php?PHPSESSID=0838c8477f1eb39821f5375f81778652)
+  [Link To Us](https://web.archive.org/linking.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
 
   Add To Favorites
 
