@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2005-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051105065919id_/http%3A//www.novinite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617161826id_/http%3A//www.novinite.com/privacy.html) for the most accurate reproduction.*
 
 # Sofia News Agency - Privacy
+
+  
+» PRIVACY
+
+**Novinite.com (Sofia News Agency) takes your privacy extremely seriously.  
+Please read the following to learn more about our privacy policy. **
 
 **What this Privacy Policy Covers**
 
@@ -8,16 +14,22 @@ This Privacy Policy covers Novinite.com (Sofia News Agency) treatment of persona
 
 **Information Collection and Use**
 
-We collect personal information from you through:  
-\- the use of the registration form for Sofia Morning News service,  
-\- the use of the registration form for News Alert,  
-\- the forms for sending news to a friend,   
-\- every time you e-mail us your details.  
-When you register with Тhe News services or when you send news to a friend, we ask ONLY for email address and name. Once you register with Novinite.com (Sofia News Agency) and sign in to our services or you send news to a friend, your name and e-mail address are not anonymous to us. 
+We collect personal information from you through: 
+
+  * the use of the registration forms  
+
+  * the forms for sending news to a friend  
+
+  * every time you e-mail us your details  
+
+
+Once you register with Novinite.com (Sofia News Agency) and sign in to our services or you send news to a friend, the information you entered is not anonymous to us. 
 
 **Information Sharing and Disclosure**
 
-Novinite.com (Sofia News Agency) staff treats your e-mail address as strictly confidential information. Novinite.com (Sofia News Agency) will NOT sell or rent your personally identifiable information to anyone in any case and any price and will not use your name and e-mail address for any other purposes than the purposes of the news services. 
+Novinite.com (Sofia News Agency) staff treats your e-mail address as strictly confidential information. Novinite.com (Sofia News Agency) will NOT sell or rent your personally identifiable information to anyone in any case and any price and will not use your name and e-mail address for any other purposes than the purposes of the site services. 
+
+The opinions posted on the forum and emails sent to the editor are public and are viewable by anyone on the Internet. This information may be indexed by global Internet search engines (e.g. Google, Yahoo, Altavista, etc.) 
 
 **Cookies**
 
@@ -29,4 +41,4 @@ Given that the Internet is a global environment, using the Internet to collect a
 
 **Questions or Suggestions**
 
-If you have questions or suggestions concerning your personal information or any queries with regard to these practices, please contact us by e-mail at [privacy@novinite.com](mailto:privacy@novinite.com). 
+If you have questions or suggestions concerning your personal information or any queries with regard to these practices, please contact us by e-mail at [novinite@novinite.com](mailto:novinite@novinite.com). 
