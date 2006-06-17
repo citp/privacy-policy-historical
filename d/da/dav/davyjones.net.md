@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davyjones.net privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230231554id_/http%3A//www.davyjones.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davyjones.net privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617220956id_/http%3A//davyjones.net/privacy.html) for the most accurate reproduction.*
 
 # DavyJones.net User Agreement and Privacy Policy
 
@@ -30,6 +30,6 @@ The materials used and displayed on DavyJones.net , including but not limited to
 
 This information is not stored on our website, and thus we provide no method of updating customers' personal and identifying information on our website. We do, however, maintain the confidentiality of this information to the best of our ability, and do not sell, share, or trade this information with any third parties in any way.
 
-Contacting the Web Site. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [DavyJonesEmail@aol.com](mailto:DavyJonesEmail@aol.com).
+Contacting the Web Site. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20060617220956id_/http%3A//davyjones.net/contact.html). 
 
 Effective as of July 27, 2004
