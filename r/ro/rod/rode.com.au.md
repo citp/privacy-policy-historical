@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rode.com.au privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224114807id_/http%3A//www.rode.com.au/%3Fpagename%3DPrivacy_Policy%26PHPSESSID%3D9ccc237eeeb03f76c3e702ff0852a34f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rode.com.au privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617190923id_/http%3A//rode.com.au/%3Fpagename%3DPrivacy_Policy%26PHPSESSID%3D74bb92f914958f6d161d2921ba4f33b6) for the most accurate reproduction.*
 
 # RØDE Microphones > Privacy_Policy
 
