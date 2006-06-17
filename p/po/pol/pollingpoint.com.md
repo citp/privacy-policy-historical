@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollingpoint.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231194511id_/http%3A//pollingpoint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollingpoint.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617125128id_/http%3A//pollingpoint.com/privacy.html) for the most accurate reproduction.*
 
 # PollingPoint | A Nationwide Network of Millions of People Inspiring Public Debate
 
@@ -84,7 +84,7 @@ You may contact PollingPoint via Polimetrix at:
 364 University Avenue  
 Palo Alto, CA 94301
 
-**Phone:** (650) 462-8019   
+  
 **Fax:** (650) 462-8422
 
 For inquiries about PollingPoint, please e-mail: [help@pollingpoint.com.](mailto:help@pollingpoint.com)
