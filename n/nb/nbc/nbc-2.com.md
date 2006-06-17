@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the nbc-2.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221151709id_/http%3A//nbc-2.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc-2.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617232606id_/http%3A//nbc-2.com/privacy.shtml) for the most accurate reproduction.*
 
 # NBC2 Online - Privacy Policy
 
-**Privacy Statement for NBC2**
+** Privacy Statement for NBC2**
 
-Waterman Broadcasting Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **http://www.nbc-2.com.**
+Waterman Broadcasting Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **[http://www.nbc-2.com](http://www.nbc-2.com/).**
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and to gather broad demographic information (e.g. geographic region from where you access the site.)
 
 Our site's registration form(s) require users to give us their email address.  On occasion, optional demographic information may also be provided, at the discretion of the user (zip code, age, or income level). We use information from the registration form to send users information about our company and promotional material from some of our partners. The information is used to contact the visitor when necessary and shared with advertisers on an aggregate basis. Users may opt-out at anytime.
+
+Viewers who email comments to our web sites may have those comments recorded and maintained in public files as a requirement by the Federal Communications Commission.
 
 This site contains links to other sites.  Waterman Broadcasting Corporation is not responsible for the privacy practices or the content of such Web sites.
 
