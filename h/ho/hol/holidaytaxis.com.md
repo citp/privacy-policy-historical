@@ -1,31 +1,32 @@
-> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212032726id_/http%3A//www.holidaytaxis.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617065617id_/http%3A//www.holidaytaxis.com/about/privacy.php) for the most accurate reproduction.*
 
-# Holiday Taxis provide airport transfer, airport taxi service, limousine hotel transfers and minibus shuttles. Book online at HolidayTaxis.com
+# Holiday Taxis | Airport Transfers | Airport Taxi| Minibus & Limousines
 
-|  |  |  |  |  | NEWS...  
+|  |  |  |  |  |   
 ---  
+NEWS...  
 [> Holiday Taxis News](https://web.archive.org/news/index.php "Holiday Taxis News")  
-[> Testimonials](https://web.archive.org/about/testimonials.php "Testimonials")  
+[> Customer Testimonials](https://web.archive.org/about/testimonials.php "Testimonials")  
 [> Shuttle Airport Transfers](https://web.archive.org/about/shuttle-airport-transfers.php "Shuttle Airport Transfers")  
 |  |  |   
 ---|---|---  
   
-[Home](https://web.archive.org/index.php "Home page") | [How to Book](https://web.archive.org/about/how.php "How to book") | [Destinations](https://web.archive.org/destinations.php "Destinations") | [About Us](https://web.archive.org/about/aboutus.php "About Us") | [FAQ](https://web.archive.org/about/faq.php "FAQ") | [Contact Us](https://web.archive.org/about/contact.php "Contact Us") | [Guides](https://web.archive.org/resorts/ "Guides") | [UK Partners](https://web.archive.org/partners.php "UK Partners") | [Jobs](https://web.archive.org/jobs.php "Jobs")  
+[Home](https://web.archive.org/index.php "Home page") | [How to Book](https://web.archive.org/about/how.php "How to book") | [Destinations](https://web.archive.org/destinations.php "Destinations") | [FAQ](https://web.archive.org/about/faq.php "FAQ") | [Contact Us](https://web.archive.org/about/contact.php "Contact Us") | [Guides](https://web.archive.org/resorts/ "Guides") | [UK Partners](https://web.archive.org/partners.php "UK Partners") | [Jobs](https://web.archive.org/jobs/ "Jobs") | [UK transfers](https://web.archive.org/uk-quickquote.php "UK Quickquote")  
   
 |   
 |  |  |  [](https://web.archive.org/login.php "Travel agents log in")  
 ---  
 [](https://web.archive.org/salesagents/newagent/ "New agents sign up")  
-[](https://web.archive.org/about/testimonials.php "Customer testimonials")  
 [](https://secure.holidaytaxis.com/secure/bookings/bookingview.php "Booking confirmation")  
+[](https://web.archive.org/uk-quickquote.php)  
 | Quickquote  
 ---  
-Select an destination  
+Select a destination  
 Select an airport  
 Select a resort  
 Date of travel  
 Note:  Please enter the exact date of arrival to ensure that you are quoted the correct rate as different seasons operate different prices.  
-  
+---  
 |   
 ---  
 |  | Privacy Policy  
@@ -49,7 +50,7 @@ Your Consent
 By using the Holiday Taxis Web site, you consent to the collection and use of this information by Holiday Taxis in the ways outlined above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of the information that we collect, how we use it and in what circumstances we disclose it.  
 |  |   
 ---|---|---  
-[Sitemap](https://web.archive.org/sitemap.php) | [Press Related Articles](https://web.archive.org/about/pressindex.php) | [About Us](https://web.archive.org/about/aboutus.php) | [Privacy Policy](https://web.archive.org/about/privacy.php) | [Terms & Conditions](https://web.archive.org/about/terms.php)  
+[Sitemap](https://web.archive.org/sitemap.php) | [Press Articles](https://web.archive.org/about/pressindex.php) | [About Us](https://web.archive.org/about/aboutus.php) | [Privacy Policy](https://web.archive.org/about/privacy.php) | [Terms & Conditions](https://web.archive.org/about/terms.php) | [Shuttle Transfers](http://www.shuttletransfers.com/)  
 
 
-#### [Copyright © 2004 Holiday Taxis - Offers Water Ski Airport Taxis Helicopter Transfer](http://www.holidaytaxis.com/)
+#### [Copyright © 2006 Holiday Taxis, Airport Taxi, Minibus & Shuttle Transfers ](http://www.holidaytaxis.com/)
