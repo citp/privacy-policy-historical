@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groworganic.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224180012id_/http%3A//www.groworganic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groworganic.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617152636id_/http%3A//www.groworganic.com/privacy.html) for the most accurate reproduction.*
 
 # GrowOrganic: Respecting your Privacy
 
