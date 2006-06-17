@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teleflora.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225073458id_/http%3A//www.teleflora.com/securityprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teleflora.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617221008id_/http%3A//teleflora.com/securityprivacy.asp) for the most accurate reproduction.*
 
 # teleflora.com
 
