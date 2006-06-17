@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cruisemates.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210075725id_/http%3A//cruisemates.com/articles/about/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisemates.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617020105id_/http%3A//www.cruisemates.com/articles/about/privacy_policy.cfm) for the most accurate reproduction.*
 
 # About CruiseMates.com
 
   
-PRIVACY POLICY  
+  
 A guarantee of confidentiality concerning personal information conveyed by CruiseMates Readers.
 
 * * *
@@ -58,7 +58,7 @@ All the data you provide to Cruisemates is protected to ensure both its privacy 
 Cruisemates uses cookies when you register and login to CruiseMates. These cookies allow us to remember you as you visit pages in our site, so that you don't need to re-enter your password many times. These cookies do NOT track your movements in any other location other than the CruiseMates website. In addition, they do not register any personal information while tracking in CruiseMates. In other words, if your married but go to our singles cruising area, we will NOT be able to ascertain your individual identity.    [More on Cookies?](https://web.archive.org/articles/about/help.cfm#cookies)
 
 **Newsletter Opt-in / Opt-out Policy:**  
-If you wish to be a CruiseMates member but do not wish to receive any newsletter e-mailings about special features and offers, you can OPT-OUT of our mailing list by following the instructions contained in our newsletter. This is the only way to opt-out. It works, and it is private. If you have a problem opting out, please contact [Customer Service](https://web.archive.org/web/20051210075725id_/http%3A//cruisemates.com/articles/about/custsvc.cfm).
+If you wish to be a CruiseMates member but do not wish to receive any newsletter e-mailings about special features and offers, you can OPT-OUT of our mailing list by following the instructions contained in our newsletter. This is the only way to opt-out. It works, and it is private. If you have a problem opting out, please contact [Customer Service](https://web.archive.org/web/20060617020105id_/http%3A//www.cruisemates.com/articles/about/custsvc.cfm).
 
 We reserve the right to place advertising related information into our newsletter which you will see as a subscriber to our newsletter, but we promise to keep it to a minimum and always include "Opt-out" information with the newsletter. We may send out a "dedicated" email advertisement to companies that wish to contact people with an interest in cruising, but these emails will always contain opt out information.
 
@@ -66,10 +66,10 @@ We reserve the right to place advertising related information into our newslette
 Should we ever have the need to update our records, including those of people who have opted out of our newsletter subscription, we reserve the right to contact everyone who has ever registered with CruiseMates for the purposes of re-authentication of your subscription status at least once every two years. If you have no interest in hearing from us, please simply opt out of our email messages once again. Opting opt is simple and painless. 
 
 **To change, update or correct User Profile:**  
-Go to our "[Help](https://web.archive.org/web/20051210075725id_/http%3A//cruisemates.com/articles/about/help.cfm)" area of cruisemates and look the words "How can I change my Personal Profile?" for the information on how to update your personal profile. If you have a problem please contact [Customer Service](https://web.archive.org/web/20051210075725id_/http%3A//cruisemates.com/articles/about/custsvc.cfm). 
+Go to our "[Help](https://web.archive.org/web/20060617020105id_/http%3A//www.cruisemates.com/articles/about/help.cfm)" area of cruisemates and look the words "How can I change my Personal Profile?" for the information on how to update your personal profile. If you have a problem please contact [Customer Service](https://web.archive.org/web/20060617020105id_/http%3A//www.cruisemates.com/articles/about/custsvc.cfm). 
 
 **Other Questions:**  
-If you have other questions about CruiseMates or this Privacy Policy, please contact us at [Customer Service](https://web.archive.org/web/20051210075725id_/http%3A//cruisemates.com/articles/about/custsvc.cfm).
+If you have other questions about CruiseMates or this Privacy Policy, please contact us at [Customer Service](https://web.archive.org/web/20060617020105id_/http%3A//www.cruisemates.com/articles/about/custsvc.cfm).
 
 * * *
 
