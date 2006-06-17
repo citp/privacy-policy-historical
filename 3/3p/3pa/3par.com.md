@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3par.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219013134id_/http%3A//www.3par.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3par.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617044836id_/http%3A//www.3par.com/privacy.html) for the most accurate reproduction.*
 
 # 3PARdata, Inc.
 
