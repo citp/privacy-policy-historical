@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-junkie.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220115309id_/http%3A//www.e-junkie.com/ej/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-junkie.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617054956id_/http%3A//www.e-junkie.com/ej/privacy.php) for the most accurate reproduction.*
 
-# Ejunkie - privacy policy
+# Ejunkie - Privacy Policy
 
 **PRIVACY POLICY**
 
@@ -77,5 +77,4 @@ Optional registration for site promotions, newsletters, member access areas and 
 SECURITY AND TERMS OF USE  
 This site has stringent security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-By using our site you consent to the collection and use of information as specified in this policy. Should we decide to alter our Privacy Policy, this page will be updated to reflect those changes in order to keep our visitors in the know.  
-
+By using our site you consent to the collection and use of information as specified in this policy. Should we decide to alter our Privacy Policy, this page will be updated to reflect those changes in order to keep our visitors in the know.
