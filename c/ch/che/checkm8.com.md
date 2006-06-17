@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the checkm8.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205051218id_/http%3A//checkm8.com/modules.php%3Fname%3DNews%26file%3Darticle%26sid%3D33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkm8.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617235818id_/http%3A//checkm8.com%3Fsection%3D27) for the most accurate reproduction.*
 
-# :: CheckM8 Inc :: - Privacy Policy
+# CheckM8 - Rich Media and Online Ad Technology
 
-**CheckM8 is committed to the right of Internet consumer privacy. CheckM8 technology services do not require the collection of any personal data from viewers. However, in order to provide the most enhanced end-user experience, CheckM8 uses nonessential cookies.**
+**PRIVACY POLICY**
 
-A cookie is a unique computer identifier that by no means intrudes on the users anonymity to CheckM8, nor is required for the operation and/or serving of CheckM8 advertisements. The acceptance and removal of cookies is controllable from standard web browsers. The following details the principles for the collection and utilization of information by CheckM8 in strict confidence of our online privacy policy: 
+ **
+
+\- Last Updated 1/7/06 -
+
+**
+
+ **Overview**
+
+CheckM8 is committed to the right of Internet consumer privacy. CheckM8 technology services do not require the collection of any personal data from viewers. However, in order to provide the most enhanced end-user experience, CheckM8 utilizes cookies. A cookie is a unique computer identifier that by no means intrudes on the users' anonymity to CheckM8, nor is required for the operation and/or serving of CheckM8 advertisements. The acceptance and removal of cookies is controllable from standard web browsers, whereby users can easily adjust their cookie filtering sensitivity related to CheckM8 due to our P3P-compliance. The following details the principles for the collection and utilization of information by CheckM8 in strict confidence of our online privacy policy: 
 
 **Collection of Internet Consumer Data**
 
@@ -18,7 +26,17 @@ CheckM8 uses collected consumer data information for the sole purposes of provid
 
 **Accordance of Internet Consumer Data**
 
-CheckM8 cookie usage and ad delivery and reporting data upholds full compliance to the Network Advertising Initiative definition of Non-Personally Identifiable Information (Non-PII) and Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995. This means that none of the data can be correlated to any individual Internet consumer, and therefore it cannot be applied for profiling purposes. 
+CheckM8 cookie usage and ad delivery and reporting data upholds full compliance to the Network Advertising Initiative definition of Non-Personally Identifiable Information (Non-PII) and the Safe Harbor agreement under Directive 95/46/EC with the European Union. This means that none of the data can be correlated to any individual Internet consumer, and therefore it cannot be applied for profiling purposes. 
 
-CheckM8, Inc. reserves the right to modify this privacy policy statement at any time without notice. As such, and for the sake of ease for interested parties to keep up-to-date with the policy, a Last Updated denotation will be clearly posted whenever modified.   
+CheckM8, Inc. reserves the right to modify this privacy policy statement at any time without notice. As such, and for the sake of ease for interested parties to keep up-to-date with the policy, a Last Updated denotation will be clearly posted whenever modified. Please address any questions or concerns to: [privacy@checkm8.com](mailto:privacy@checkm8.com). 
+
+| | 
+
+**Testimonials**
+
+"CheckM8 enables our local newspaper sites to offer rich media to their advertisers, with quick turnaround times and simple implementation. Our newspaper sites are using CheckM8's RMM to offer the most popular rich media formats, with more efficiency than what it takes for us to create these internally."
+
+**Vikki Neil, Director of Online Marketing for the E.W. Scripps Company**
+
+  
 
