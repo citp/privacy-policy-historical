@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harney.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228171418id_/http%3A//www.harney.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harney.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617194708id_/http%3A//www.harney.com/privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy
 
