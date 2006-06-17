@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108214608id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617182653id_/http%3A//tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
 
 # The Tennis Recruiting Network
-
-“Ranking players by graduation date is a huge help for coaches. Thanks for doing this.” 
-
-_\- Coach of Big Ten Women's Tennis Team       _
 
 Your privacy is important to Sirius Software, Inc. and TennisRecruiting.net ("TennisRecruiting"). This Privacy Policy defines privacy aspects specific to the TennisRecruiting.net Website and affiliated websites owned by TennisRecruiting and its subsidiaries. TennisRecruiting has created this policy to demonstrate our firm commitment to privacy. This statement describes the information practices at TennisRecruiting websites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. 
 
