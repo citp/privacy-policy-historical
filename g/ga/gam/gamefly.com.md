@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231232317id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617103604id_/http%3A//www.gamefly.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Video Game Rentals: Rent or Buy PS2, Xbox, Xbox 360, GameCube, GBA, DS, PSP Games
 
@@ -91,7 +91,7 @@ In some instances, we may have an arrangement with a promotional partner or reta
 
 _Legal and Business Transfers_
 
-We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, GameFly's customer information may be transferred to our successor or assign. 
+We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to local, state, or federal law enforcement or other government officials in connection with an investigation of fraud, theft, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, GameFly's customer information may be transferred to our successor or assign. 
 
 _Aggregate Information_
 
@@ -123,8 +123,15 @@ You are solely responsible for safeguarding your GameFly e-mail login and passwo
 
 **How do I ask a question or file a complaint? (Contact Information)**
 
-If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact [support@gamefly.com](https://web.archive.org/help/contactus.asp). 
+If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact [support@gamefly.com](https://web.archive.org/help/contactus.asp) or call 1-888-986-6400. 
 
-For complaints, you can also contact ESRB Privacy Online directly at [www.esrb.org](http://www.esrb.org/) or by regular mail at 317 Madison Avenue, 22nd Floor, New York, NY 10017. 
+GameFly is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy_wc_hotline.asp>.
 
-This Privacy Policy was last updated on October 7, 2005. 
+ESRB  
+Attn.: Privacy Online Program  
+317 Madison Avenue, 22nd Floor  
+New York, NY 10017  
+212-759-0700  
+[privacyinfo@esrb.org](mailto:privacyinfo@esrb.org)
+
+This Privacy Policy was last updated on March 20, 2006. 
