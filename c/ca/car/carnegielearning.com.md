@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the carnegielearning.com privacy policy that was archived on 2004-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040523201004id_/http%3A//www.carnegielearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnegielearning.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618002951id_/http%3A//www.carnegielearning.com/privacy_statement.cfm) for the most accurate reproduction.*
 
-# Carnegie Learning :: Privacy
+# Carnegie Learning, Inc. :: Privacy Statement
 
-|  |   
----  
-  
-|  **Privacy Statement** Last Updated: Feburary 23rd, 2001  
+|  [](https://web.archive.org/web/20060618002951id_/http%3A//www.carnegielearning.com/index.cfm) |   
+---|---  
+| [](https://web.archive.org/web/20060618002951id_/http%3A//www.carnegielearning.com/approach.cfm) | [](https://web.archive.org/web/20060618002951id_/http%3A//www.carnegielearning.com/products.cfm) | [](https://web.archive.org/web/20060618002951id_/http%3A//www.carnegielearning.com/services.cfm) | [](https://web.archive.org/web/20060618002951id_/http%3A//www.carnegielearning.com/yourstate.cfm) | [](http://k12.carnegielearning.com/) | [](https://web.archive.org/web/20060618002951id_/http%3A//www.carnegielearning.com/success.cfm) | [](https://web.archive.org/web/20060618002951id_/http%3A//www.carnegielearning.com/resources.cfm) | [](https://web.archive.org/web/20060618002951id_/http%3A//www.carnegielearning.com/company.cfm)  
+---|---|---|---|---|---|---|---  
+| 
+
+|  **Privacy Statement**  
+Last Updated: Feburary 23, 2001  
 ---  
 We will notify our members when we make any significant changes to our Privacy Policy that affect the use of any personally identifiable information we collect. We will not make use of any personally identifiable information which Carnegie Learning, Inc. gathered from individual members or visitors prior to any such significant change in our Privacy Policy without first obtaining the member's or visitor's consent for any new uses. In addition, Carnegie Learning, Inc. reserves the right to make non-significant changes to our Privacy Policy that will not affect Carnegie Learning's use of a user's personally identifiable information at any time without any notice to you other than posting any such changes in a revised Privacy Policy on the Carnegie Learning website. We encourage you to periodically review our Privacy Policy to be sure you are familiar with the most current version. The Policy will include the most recent date in which any revision has been made.  
 **Information Collected by Carnegie Learning, Inc.**
@@ -65,7 +69,7 @@ The Carnegie Learning websites contain links to other websites recommended by Ca
   8.  _INFORMATION COLLECTED BY CARNEGIE LEARNING THROUGH IP ADDRESS AND COOKIES_
 
 _IP Address_  
-Your IP address is a number that is assigned by your ISP (Internet Service Provider) to your computer to identify its location. We may use your IP address to help diagnose problems with our server and to administer our websites. We also sometimes use IP addresses to communicate with members and possibly even ban those members who are not complying with our [Terms of Service.](https://web.archive.org/terms_of_use)
+Your IP address is a number that is assigned by your ISP (Internet Service Provider) to your computer to identify its location. We may use your IP address to help diagnose problems with our server and to administer our websites. We also sometimes use IP addresses to communicate with members and possibly even ban those members who are not complying with our [Terms of Service.](https://web.archive.org/web/20060618002951id_/http%3A//www.carnegielearning.com/terms_of_use.cfm)
 
 _Cookies_  
 Our site may use a feature of your browser to set a "cookie" on your computer. Cookies are small packets of information that a website stores on your computer. The Carnegie Learning websites can then read the cookies whenever you visit. We may use cookies to save your password so you don't have to re-enter it each time you visit our site, to deliver content specific to your interests, and to track the pages you've visited. These cookies allow us to use the information we collect to customize your Carnegie Learning experience so that your visit to Carnegie Learning is as relevant and as valuable to you as possible. 
@@ -101,4 +105,7 @@ Carnegie Learning, Inc. uses industry-standard tools, such as firewalls, to ensu
 If you have questions about this Privacy Policy or anything else about Carnegie Learning, Inc., you can contact us at the following email address: [ webmaster@carnegielearning.com](mailto:webmaster@carnegielearning.com)
 
 
+  
+  
+  
 
