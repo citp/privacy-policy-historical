@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231182155id_/http%3A//www.nafsa.org/legal_information/privacy_policy.pg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617055458id_/http%3A//www.nafsa.org/legal_information/privacy_policy.pg) for the most accurate reproduction.*
 
 # NAFSA: Association of International Educators - Privacy Policy
 
@@ -12,7 +12,7 @@ Most data NAFSA collects are used only to help NAFSA better serve its members. I
 
 ### From General Visitors
 
-NAFSA does not collect any information from visitors browsing its Web site. Visitors to the public areas of NAFSA's Web site browse anonymously. Only aggregate data -- such as the number of hits per page \-- are collected. Aggregate data are only used for internal and marketing purposes and do not provide any personally identifying information.
+NAFSA does not collect any information from visitors browsing its Web site. Visitors to the public areas of NAFSA's Web site browse anonymously. Only aggregate data -- such as the number of hits per page -- are collected. Aggregate data are only used for internal and marketing purposes and do not provide any personally identifying information.
 
 ### From NAFSA Members, Conference Registrants, and Other Visitors
 
@@ -37,12 +37,12 @@ When members or visitors provide credit card account information to NAFSA or its
 
 ## How Does NAFSA Use Cookies?
 
-Cookies are files that contain information created by a web server that can be stored on a visitor's hard disk for use either during a particular session ("per-session" cookie) or for future use ("persistent" cookie). NAFSA uses cookies only to facilitate automated activity, and to store and track passwords. Cookies are not used to disseminate significant information about visitors over the Internet or to analyze any information that visitors have knowingly or unknowingly provided. Visitors may instruct their Internet browsers to opt out of accepting a "persistent" cookie and rather accept only a "per-session" cookie, but will need to login each time they visit the site to enjoy the full benefits. If the visitor declines the attachment of any cookie, the visitor may not have access to the full benefits of the website. Registration enables the site to better determine members' interest areas and provide the most relevant information.
+Cookies are files that contain information created by a Web server that can be stored on a visitor's hard disk for use either during a particular session ("per-session" cookie) or for future use ("persistent" cookie). NAFSA uses cookies only to facilitate automated activity, and to store and track passwords. Cookies are not used to disseminate significant information about visitors over the Internet or to analyze any information that visitors have knowingly or unknowingly provided. Visitors may instruct their Internet browsers to opt out of accepting a "persistent" cookie and rather accept only a "per-session" cookie, but will need to login each time they visit the site to enjoy the full benefits. If the visitor declines the attachment of any cookie, the visitor may not have access to the full benefits of the Web site. Registration enables the site to better determine members' interest areas and provide the most relevant information.
 
 ## What Privacy Issues Arise With Links To Other Sites?
 
-This Web site contains links to other web sites. NAFSA has no control over and is not responsible for the privacy policies or content of such sites.
+This Web site contains links to other Web sites. NAFSA has no control over and is not responsible for the privacy policies or content of such sites.
 
 ## Questions?
 
-Please contact us by e-mailing to [webmaster@nafsa.org](mailto:webmaster@nafsa.org?subject=Privacy%20Policy%3A%20Web%20Inquiry).
+Please contact us by e-mailing to [webmaster@nafsa.org](mailto:webmaster@nafsa.org?subject=Privacy%20Policy%3A%20Web%20Inquiry). 
