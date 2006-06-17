@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kareo.com privacy policy that was archived on 2005-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051211052340id_/http%3A//www.kareo.com/company/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kareo.com privacy policy that was archived on 2006-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060617210251id_/http%3A//www.kareo.com/company/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<title>Kareo  - Privacy Policy</title>
@@ -10,7 +10,11 @@
 			<style type="text/css"></style>
 			<!-- javascript externals //-->
 			<script language="JavaScript" src="/includes/js/kareo.js" type="text/javascript"></script>
-			<script src="/includes/js/__utm.js" type="text/javascript"></script><script language="JavaScript1.5">_ujv='1.5';</script>
+			<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+            <script type="text/javascript">
+            _uacct = "UA-31941-1";
+            urchinTracker();
+            </script>
 		<!-- javascript internals //-->
 	</head>
 	<body onload="preload('nav_products','nav_support','nav_customers','nav_news','btn_signin','btn_learn','btn_try','btn_signup');">
@@ -23,46 +27,57 @@
 								<td align="left">
 									
 <div id="header">
-	<table cellspacing="0" cellpadding="0" border="0">
-		<form action="/" method="get"></form>
-		<input type="hidden" id="action" value="search">
-		<tbody><tr>
-			<td><a href="https://www.kareo.com/login" id="Header1_LoginLink" class="textBlue11">Login</a>&nbsp;&nbsp;&nbsp;</td>
-			
-			<td><a href="/company/" class="textBlue11">About Us</a>&nbsp;&nbsp;&nbsp;</td>
-			<td><a href="/contact/" class="textBlue11">Contact Info</a>&nbsp;&nbsp;&nbsp;</td>
-			
-				<td class="bgDotVert_3x1"><img src="/images/1x1.gif" width="1" height="1" alt="spacer"></td>
-				<td><span class="textGray11">&nbsp;&nbsp;&nbsp;Search&nbsp;&nbsp;&nbsp;</span></td>
-				<td><input type="text" id="search" name="search" size="15" maxlength="50" class="search-box" style="vertical-align: middle; margin: 0 0 0 0; font-size: 8pt; width: 150px;">
-				<input type="image" id="btnSearch" src="/images/btn_arrow.gif" style="vertical-align: middle;"></td>
-			
-		</tr>
-		
-	</tbody></table>
-</div>
+    <div id="Header1_Expando" style="height: 50px;"></div>
+	<h1><a href="http://www.kareo.com" id="Header1_HomeLink"><span>Kareo | <em>On-Demand Revenue Cycle Automation</em></span></a></h1>
+	
+	<p class="contact_info">
+		<span>1-888-77-KAREO<br>
+		(Call: 1-888-775-2736)<br></span>
+		<a href="mailto:sales@kareo.com" class="email">sales@kareo.com</a>
+	</p>
+	
+	<form action="/" method="get">
+	    <ul class="info">
+		    <li><a href="https://www.kareo.com/login" id="Header1_LoginLink">Login</a></li>
+		    
+		    <li><a href="http://www.kareo.com/company" id="Header1_AboutUsLink">About us</a></li>
+		    <li><a href="http://www.kareo.com/contact" id="Header1_ContactLink">Contact Info</a></li>
+	    </ul>
 
-<div id="Header1_Expando" style="height: 50px;"></div>
-<!-- begin tagline //-->
-<img src="/images/logo_tagline.gif" width="749" height="46" usemap="#home" alt="Kareo. 888-775-2736."><br>
-<div id="linkSales"><a href="mailto:sales@kareo.com" class="textBlue11">sales@kareo.com</a></div>
-<!-- end tagline //-->
-<map name="home">
-	<area shape="RECT" coords="20,3,137,41" href="/" alt="">
-</map>
+        
+		<fieldset>
+			<legend>Search the Site</legend>
+			<label for="search">Search</label>
+			<input type="hidden" id="Hidden1" value="search">
+			<input type="text" id="search" name="search" maxlength="50">
+			<input type="image" id="btnSearch" src="/images/btn_arrow.gif">
+		</fieldset>
+		
+	</form>
+	
+</div>
 									
 									
-<!-- begin main navigation //-->
-<table cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td><a href="/products/" id="Maintabbar1_ProductTab" onmouseover="rollover('nav_products','over')" onmouseout="rollover('nav_products','off')"><img src="/images/nav_products.gif" id="Maintabbar1_ProductImage" name="nav_products" width="108" height="21" alt="products"></a></td>
-		<td><a href="/support/" id="Maintabbar1_SupportTab" onmouseover="rollover('nav_support','over')" onmouseout="rollover('nav_support','off')"><img src="/images/nav_support.gif" id="Maintabbar1_SupportImage" name="nav_support" width="101" height="21" alt="customer service and support"></a></td>
-		<td><a href="/customers/" id="Maintabbar1_CustomersTab" onmouseover="rollover('nav_customers','over')" onmouseout="rollover('nav_customers','off')"><img src="/images/nav_customers.gif" id="Maintabbar1_CustomersImage" name="nav_customers" width="101" height="21" alt="customer profiles"></a></td>
-		<td><a href="/news/" id="Maintabbar1_NewsTab" onmouseover="rollover('nav_news','over')" onmouseout="rollover('nav_news','off')"><img src="/images/nav_news.gif" id="Maintabbar1_NewsImage" name="nav_news" width="101" height="21" alt="news releases"></a></td>
-	</tr>
-</tbody></table>
-<!-- end main navigation //-->
-<img src="/images/1x1o.gif" width="770" height="11" alt="orange bar"><br>
+<!-- Begin primary_navigation -->
+<div id="primary_navigation">
+	<ul>
+		<li id="Maintabbar1_ProductTab" class="item_10"><a href="http://www.kareo.com/products/" id="Maintabbar1_ProductTabLink" title="products"><span>Products</span></a></li>
+		<li id="Maintabbar1_SupportTab" class="item_20"><a href="http://www.kareo.com/support" id="Maintabbar1_SupportTabLink" title="customer service and support"><span>Support</span></a></li>
+		<li id="Maintabbar1_CustomersTab" class="item_30"><a href="http://www.kareo.com/customers/" id="Maintabbar1_CustomersTabLink" title="customer profiles"><span>Customers</span></a></li>
+		<li id="Maintabbar1_NewsTab" class="item_40"><a href="http://www.kareo.com/news/" id="Maintabbar1_NewsTabLink" title="news releases"><span>News</span></a></li>
+		
+		</ul>
+</div>	<!-- End primary_navigation -->
+
+
+<style type="text/css">
+    #primary_navigation {
+        padding-bottom: 11px;
+	    background: url(/images/primary_navigation_bg.gif) no-repeat 0 100%;
+	    height: 1%;	/* IE Hack */
+        }
+</style>
+
 									
 									
 <div id="bc-bar">
@@ -99,7 +114,7 @@
 		</p><ul class="textGray11" style="margin-left:25px;margin-top:5px">
 		<li>You do not have to give us any personal information to visit the product information portion of our web site. No personally identifying information (such as your name, e-mail address, or Social Security number) will be collected unless you choose to provide that information to us.</li>
 		<li>Kareo collects personal information when you sign up for a trial or paid subscription to the Kareo service. When you sign up, we ask for your name, email address, phone number, and your company's demographic and financial information.</li>
-		<li>When you sign up for a paid subscription, we will ask you for your credit card information to be sent to us via fax. This information is kept secure in a fire-proof, locked vault on Kareo premises.</li>
+		<li>When you sign up for a paid subscription, we will ask you for your credit card or bank account information. This information is kept secure on our computer systems using industry-standard encryption on the data. The only personnel at Kareo with access to your payment information are those with the responsibility for billing you for our services.  They protect their access to the system with password-protected, encrypted keys.</li>
 		<li>Kareo automatically receives and records information on our server logs from your browser, including your IP address and the page you request.</li>
 		<li>Kareo uses information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting. </li>
 		</ul>
@@ -172,15 +187,15 @@
 	
 	<p class="textGray11">
 		Kareo Support - Privacy Policy<br>
-		13891 Newport Ave<br>
-		Suite 225<br>
-		Tustin, CA 92780<br>
+		1201 Dove Street<br>
+		Suite 600<br>
+		Newport Beach, CA 92660<br>
 		<a href="mailto:privacy@kareo.com">privacy@kareo.com</a><br>
 	</p>
 	
 	<p class="textGray11">
 		<b>Last Updated</b><br>&nbsp;<br>
-		This policy was last updated on April 11, 2005.
+		This policy was last updated on April 27, 2006. The last change was an update of the Kareo mailing address, and an update of the way that Kareo stores your credit card or bank account information.
 	</p>
 	
 </div>
@@ -194,42 +209,46 @@
 												<img src="/images/1x1g.gif" width="226" height="10"><br>
 												<div id="sub">
 													<ul>
-														<div class="sub"><li><a href="/company/policies"><b>Policies</b></a></li></div>
-<div class="sub"><li><a id="on" href="/company/policies/privacy">&nbsp;&nbsp;&nbsp;<img src="/images/icon_arrow_light.gif">&nbsp;<b>Privacy Policy</b></a></li></div>
-<div class="sub"><li><a href="/company/policies/security">&nbsp;&nbsp;&nbsp;<img src="/images/icon_arrow.gif">&nbsp;Security Policy</a></li></div>
-<div class="sub"><li><a href="/company/jobs"><b>Jobs</b></a></li></div>
-<div class="sub"><li><a href="/company/jobs/senior-systems-engineer">&nbsp;&nbsp;&nbsp;<img src="/images/icon_arrow.gif">&nbsp;Senior Systems Engineer</a></li></div>
-<div class="sub"><li><a href="/company/jobs/software-support-specialist">&nbsp;&nbsp;&nbsp;<img src="/images/icon_arrow.gif">&nbsp;Software Support Specialist</a></li></div>
+														<li><a href="/company/policies">Policies</a>
+<ul>
+<li><a class="on" href="/company/policies/privacy">Privacy Policy</a></li>
+<li><a href="/company/policies/security">Security Policy</a></li>
+</ul>
+</li>
+<li><a href="/company/jobs">Jobs</a>
+<ul>
+<li><a href="/company/jobs/vp-support">VP of Customer Support</a></li>
+<li><a href="/company/jobs/software-support-specialist">Software Support Specialist</a></li>
+<li><a href="/company/jobs/data-interface-engineer">Data Interface Engineer</a></li>
+</ul>
+</li>
 
 													</ul>
-													<br>
-													<br>
-													<br>
-													<br>
-													<br>
-													<br>
-													<br>
-													<br>
-													<br>
-													<br>
 												</div>
+												<a href="https://www.kareo.com/account_signup" id="OrderCenterBanner1_bannerLink" class="banner_ad"><img id="OrderCenterBanner1_bannerImage" src="/images/btn_signupnow_trykareo.jpg" border="0"></a>
+
 											</td>
 										</tr>
 									</tbody></table>
 									
 							<div id="footer">
 								
-								<div id="left-links">
-									<a href="/" class="textWhite10">Home</a>|<a href="/products" class="textWhite10">Products</a>|<a href="/support" class="textWhite10">Support</a>|<a href="/customers" class="textWhite10">Customers</a>|<a href="/news" class="textWhite10">News</a>|<a href="/company" class="textWhite10">About Us</a>|<a href="/contact" class="textWhite10">Contact Info</a>
-								</div>
+								<ul id="footer_navigation">
+									<li><a href="http://www.kareo.com" id="Footer1_HomeLink">Home</a> |</li>
+									<li><a href="http://www.kareo.com/products" id="Footer1_ProductsLink">Products</a> |</li>
+									<li><a href="http://www.kareo.com/support" id="Footer1_SupportLink">Support</a> |</li>
+									<li><a href="http://www.kareo.com/customers" id="Footer1_CustomersLink">Customers</a> |</li>
+									<li><a href="http://www.kareo.com/news" id="Footer1_NewsLink">News</a> |</li>
+									<li><a href="http://www.kareo.com/company" id="Footer1_CompanyLink">About Us</a> |</li>
+									<li><a href="http://www.kareo.com/contact" id="Footer1_ContactLink">Contact Info</a></li>
+								</ul>
 								
-								<div id="right-links">
-									<a href="/company/policies/privacy" class="textWhite10">Privacy Policy</a>|<a href="/company/policies/security" class="textWhite10">Security Policy</a>
-								</div>
+								<ul id="policies">
+									<li><a href="/company/policies/privacy">Privacy Policy</a> |</li>
+									<li><a href="/company/policies/security">Security Policy</a></li>
+								</ul>
 							</div>
-							<div id="copyright">
-								<span class="textGray10">© Copyright 2005 Kareo, Inc. All Rights Reserved </span>
-							</div>
+							<p id="copyright">© 2006 Kareo, Inc. All Rights Reserved</p>
 								</td>
 							</tr>
 						</tbody></table>
