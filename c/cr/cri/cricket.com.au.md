@@ -1,38 +1,55 @@
-> *The following text is extracted and transformed from the cricket.com.au privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220015658id_/http%3A//www.cricket.com.au/%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricket.com.au privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618233936id_/http%3A//cricket.com.au/%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy
 
-CRICKET AUSTRALIA PRIVACY POLICY (at 7 July 2005)
+CRICKET AUSTRALIA PRIVACY POLICY (at 8 March 2006)
 
-This privacy policy relates to the collection of personal information by Cricket Australia.
+We respect your privacy and are committed to protecting your personal information. This document sets out our policy on how we will manage your personal information.
 
-Cricket Australia respects your privacy and is committed to protecting your personal information. This document sets out our policies on collection, storage, use and disclosure of personal information.
+Personal information is information or an opinion (including information or an opinion forming part of a database) from which it is possible to determine your identity. Examples of personal information include your name, postal address, telephone number and email address.
 
-This policy does not apply to third party suppliers, (sponsors, licensees and other partners) who carry out specialised activities for us. However, whilst your personal information may be supplied to these third parties to enable them to perform their agreed activities, we ensure that they are aware of their obligations under the Privacy Act.
+We collect personal information about you in a number of ways, including:  
+• directly from you, for example, when you provide information to us by phone, email, in an application form or through our web sites (including cricket.com.au and crichit.com.au); and  
+• from third parties, such as the State and Territory cricket associations.
 
-The type of personal information we may collect from you generally comprises name, address, age group, gender, contact details (including phone, fax and email) and information, collected for the following purposes, in the course of our business:  
-• personal information of participants in cricket matches and cricket competitions played under our auspices;  
-• personal information of participants in corporate hospitality and events, so that we can analyse our market and, unless advised otherwise, for direct marketing purposes;  
-• personal information of participants in our coaching clinics to contact in the event of an emergency, for insurance purposes and, unless advised otherwise, for direct marketing purposes;  
-• personal information of individuals who receive priority notice of ticket sales, so that we can provide that notice;  
-• personal information of subscribers to our on-line newsletters, so that we can service those subscribers and, unless advised otherwise, for marketing purposes; and  
-• personal information of customers of our on-line shop, so that we can service those customers and, unless advised otherwise, for marketing purposes.  
-Where possible, at the time we collect personal information we:  
-• advise the individual of the relevant purpose;  
-• obtain the individual’s consent to the proposed use of their personal information; and  
-• give the individual the option to opt out of receiving offers, invitations or other information.
+We and the State and Territory cricket associations to whom we disclose your personal information in accordance with this Privacy Policy, may use your personal information in order to:  
+• verify your identity;  
+• develop, run, administer and market competitions, programs, activities and other events relating to cricket and other sports;  
+• market products, services, merchandise and special offers made available by us or the State and Territory cricket associations or our respective corporate partners, licensees, suppliers and sponsors;  
+• administer and manage our respective web sites and provide you with access to those web sites;  
+• keep you informed of news and information (such as advance notice of ticket sales) relating to cricket and other sports, including by distributing newsletters, publications and other communication via various mediums;  
+• research and develop new competitions, programs, activities and other events relating to cricket and other sports; and  
+• research and develop new products, services and merchandise relating to cricket and other sports.  
+If you do not wish to receive our newsletters, publications and other communications, please contact us (our contact details are set out below).
 
-We take steps to make sure that personal information is stored securely. These steps include:  
-• storing paper records in a physically secure place;  
-• using appropriate access controls in relation to our information systems; and  
-• storing electronic information in a protected secure database which is unreachable via the internet;
+In some circumstances we may collect:  
+• information about your health; or  
+• other sensitive information about you (for example, information about your racial or ethnic origin).  
+We may use health information about you to ensure that cricket programs in which you participate are run safely and in accordance with any special health needs you may have and for insurance purposes.  
+In addition, we may use de-identified health information and other sensitive information to carry out research, to prepare submissions to government or a government body or to plan events and activities. De-identified information is information which has been aggregated or otherwise de-identified so that it cannot be used to identify you or any other individual.
 
-We use the personal information we collect and store for the purposes we have either advised or for which we have obtained consent.
+We may disclose your personal information to:  
+• the various State and Territory cricket associations;  
+• organisations (other than the State and Territory cricket associations) involved in cricket and sporting programs and initiatives in Australia;  
+• companies that we have engaged to carry out functions and activities on our behalf;  
+• our professional advisers, including our accountants, auditors and lawyers;  
+• our insurers;  
+• the Australian Institute of Sport; and  
+• otherwise as required or authorised by law.
 
-We also carry out research using personal information from time to time, in order to improve our business and our products and services. The analysis is carried out using aggregated information, not information relating to specific individuals.
+When you visit our web sites, our systems may record certain information about your use of those web sites (such as which web pages you visit and the time and date of your visit). We use this information to help analyse and improve the performance of our web sites.
 
-We may also use certain personal information from time to time, where lawful to do so, to communicate with customers and potential customers about product or service offerings in which they may be interested. However, each time we contact a customer in this way, we ask whether they wish not to receive any further such communications. If a customer advises us that they do not wish to receive communications of that nature, we comply with that request.
+In addition, we may use “cookies” on our web sites. Cookies are small text files that help a web site to remember your preferences and improve your experience of using that web site. Using cookies is standard practice for most large web sites. In some cases, the cookies that we use may collect some personal information about you. We will treat this information in the same way as other personal information we collect about you. If you prefer, you may be able to disable cookies on your internet browser. However, if you do so, you will not be able to enjoy the enhanced user experience that our cookies offer.
 
-Except as described in this policy or when legally required to do so we will not disclose or share your personal information.
+We have engaged Nielsen NetRatings to help analyse how our web sites are used. This analysis is performed using data collected from the web sites. However, this information is not intended to and will generally not include any personal information. If you would prefer that Nielsen NetRatings do not collect even any anonymous data about how you use our web sites, you can opt-out by visiting the following web page: **<http://www.netratings.com/privacy.jsp?section=leg_scs>**
 
-For further information about Cricket Australia’s use of personal information, or if at any time your details change or you would like to request access to the information we have collected about you or if you do not wish to receive offers or other information, please contact Cricket Australia’s Privacy Officer by emailing [privacy@cricket.com.au.](mailto:privacy@cricket.com.au).
+We may also collect Internet Protocol (IP) addresses relating to you when you access and use the web sites. IP addresses are assigned to computers on the internet to uniquely identify them within the global network of computers which makes up the internet. We may collect and manage IP addresses for internet session management and security purposes.
+
+We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. However, we rely on the accuracy of personal information as provided to us both directly and indirectly.  
+If you find that the personal information we hold about you is inaccurate, incomplete or out-of-date, please contact us immediately (our contact details are set out below) and we will take reasonable steps to ensure that it is corrected.
+
+Subject to some exceptions provided by law, you have the right to access your personal information. For security purposes, if you would like to access personal information that we hold about you, we require you to put your request in writing. If we do not allow you access to any part of the personal information we hold about you, we will tell you why. We will not charge you for lodging a request to access your personal information, but we may charge you for our reasonable costs in supplying you with access to this information.
+
+If you have any questions in relation to this Privacy Policy, you can write to our Privacy Officer at 60 Jolimont Street, Jolimont, VIC, 3002 or send an email to **[privacy@cricket.com.au](mailto:privacy@cricket.com.au)**.
+
+From time to time, we may need to change this Privacy Policy to reflect our changing business practices. We may change the Privacy Policy at any time by posting the changed Privacy Policy on our www.cricket.com.au web site and by posting a notice to all users on the homepage of that web site stating that a change has occurred.
