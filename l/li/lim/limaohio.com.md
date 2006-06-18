@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limaohio.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217045718id_/http%3A//staging.lima.mhe.viapointe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limaohio.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618182524id_/http%3A//staging.lima.mhe.viapointe.com/privacy.html) for the most accurate reproduction.*
 
 # Freedom Interactive Media Online Privacy Policy
 
