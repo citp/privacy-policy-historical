@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myemoticons.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231103631id_/http%3A//www.myemoticons.com/privacy/my_emoticons_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myemoticons.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618145451id_/http%3A//myemoticons.com/privacy/my_emoticons_privacy.htm) for the most accurate reproduction.*
 
 # Emoticons : privacy policy for free emoticons and smileys
 
-| [](http://www.myemoticons.com/)[](http://www.mydisplayimage.com/)[](http://www.myemailemoticons.com/) |   |   
+[](https://web.archive.org/web/20060618145451id_/http%3A//myemoticons.com/)[](http://www.mydisplayimage.com/)[](http://www.myemailemoticons.com/) |   |   
 MyEmoticons privacy policy 
 
 **Introduction**   
