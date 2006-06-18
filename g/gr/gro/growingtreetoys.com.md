@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growingtreetoys.com privacy policy that was archived on 2005-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050830004537id_/http%3A//www.growingtreetoys.com/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growingtreetoys.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618213838id_/http%3A//www.growingtreetoys.com/security.php) for the most accurate reproduction.*
 
 # Growing Tree Toys - privacy and security
 
@@ -24,6 +24,6 @@ Growing Tree Toys will not sell, trade, rent or give individually identifying in
 
 **Will I receive unsolicited e-mail from Growing Tree Toys?**
 
-Growing Tree Toys sends email confirmations of orders to all customers that place an order. In addition, Growing Tree Toys periodically may contact customers by email with updates regarding the web site. If customers would like to receive emails or the newsletter from the Growing Tree, they should check the appropriate box on the order form. 
+Growing Tree Toys sends email confirmations of orders to all customers that place an order. In addition, Growing Tree Toys periodically may contact customers by email with updates regarding the web site. If customers would like to receive emails or the newsletter from Growing Tree Toys, they should check the appropriate box on the order form. 
 
 **< Back to previous page**
