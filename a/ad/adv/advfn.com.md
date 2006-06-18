@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advfn.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230040545id_/http%3A//www.advfn.com/p.php%3Fpid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advfn.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618083740id_/http%3A//www.advfn.com/p.php%3Fpid%3Dprivacy) for the most accurate reproduction.*
 
 # ADVFN - ##Privacy Policy
 
@@ -10,7 +10,7 @@ We use this information to enable us to improve the Services we provide, for sta
 
 We are required by the Data Protection Act 1984 and 1998 to follow strict procedures to protect customer information. Any disclosure of personal details will only be made in accordance with current legislation and it's interpretation by case law from time to time. 
 
-We may use this information to tell you about changes to ADVFN, our partners or let you know about our Service. If you do not wish to receive this information you may email us at support@advfn.com. 
+We may use this information to tell you about changes to ADVFN and let you know about our Service. If you do not wish to receive this information you may email us at help@advfn.com. 
 
 **What about 'cookies'?**
 
