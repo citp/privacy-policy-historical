@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pitpass.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214145950id_/http%3A//www.pitpass.com/src/static/pitpass_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitpass.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618094127id_/http%3A//www.pitpass.com/src/static/pitpass_privacy.php) for the most accurate reproduction.*
 
-# pitpass - the latest, hottest F1 & A1 GP news
+# pitpass - the latest, hottest F1 & A1GP news
 
 At **pitpass** we take privacy issues relating to users of our web site extremely seriously. We respect your personal information and will hold that information as required by Data Protection legislation.
 
