@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swgas.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217144751id_/http%3A//www.swgas.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swgas.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618055547id_/http%3A//www.swgas.com/about/privacy.php) for the most accurate reproduction.*
 
 # SWG / Privacy Policy
 
@@ -69,6 +69,6 @@ Southwest Gas Corporation Web Site Privacy Policy**
 
 (Last updated on November 09, 2004) 
 
-[](https://web.archive.org/web/20051217144751id_/http%3A//www.swgas.com/index.php)  
+[](https://web.archive.org/web/20060618055547id_/http%3A//www.swgas.com/index.php)  
   
 ---|---
