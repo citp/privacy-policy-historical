@@ -1,24 +1,18 @@
-> *The following text is extracted and transformed from the infoedge.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220063642id_/http%3A//www.infoedge.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoedge.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618103236id_/http%3A//infoedge.com/privacy.asp) for the most accurate reproduction.*
 
 # InfoEdge: Privacy Statement and Practices
 
 **We do not, under any circumstances, sell or trade any information about our customers with any third party**
 
-Your visit to the InfoEdge Web Site, like most visits to most eCommerce websites, logs certain information about the origin of your entry, navigation through the site, time spent on pages, and exit pages. This information is analyzed by us to improve the overall utility and usability of our site for future visitors. 
+InfoEdge, like most websites, places a cookie on your machine enabling us to log certain information about the origin of your entry, navigation through the site, and exit pages. This information is used to create a more personal experience and to improve the overall utility and usability of our site for future visitors. If you do not wish to accept cookies, you may disable this on your web browser using its security options. The functionality of our website will not be diminished, except that we will not be able to customize your views. 
 
-To access certain content and complete certain actions, this site requires contact information to be submitted. In the case of the shopping cart, this information is required in order to complete a transaction and to support customer service efforts. Other forms, such as the Email Newsletter, Contact/Question form, and Sample Page Signup, collect information so we can communicate with our customers and analyze the popularity and utility of products within our site. 
+To access content on our site, you may be required to submit contact information so that we may communicate with you regarding your interest in our research. If you do not wish to hear from us, simple use the UNSUBSCRIBE page to request removal from our database. You may also write to us with your remove request: 
 
-This information is held in strictest confidence and is not resold for any reason whatsover. 
-
-Moreover, we do not want to contact you if you dont wish to be contacted. The easiest way to tell us not to contact you is to visit [this page](https://web.archive.org/email/er2.asp), and give us the email address to remove from our lists. You may also write to us with your remove request: 
-
-**InfoEdge  
+InfoEdge   
 Attn: Customer Service   
 PO Box 391619   
-Cambridge, MA 02139**
+Cambridge, MA 02139 
 
-or email us at [Jill.Whitney@InfoEdge.com](mailto:Jill.Whitney@InfoEdge.com?subject=Name%20Remove)
+Your information is held in strictest confidence in a secure environment and is never resold for any reason whatsover. 
 
-The InfoEdge Web site contains links to other sites. InfoEdge is not responsible for the privacy, practices or contents of those sites. 
-
-If you have any questions or comments about this Privacy Policy please e-mail us at [Jill.Whitney@InfoEdge.com](mailto:Jill.Whitney@InfoEdge.com)
+The Directory of Top Computer Executives is published by Applied Computer Research. While InfoEdge sells the Directory, we are not in any way involved in its creation. Our customer data is NOT included in the Directory. The contact information in the Directory is compiled through extensive telephone surveys conducted by Applied Computer Research. 
