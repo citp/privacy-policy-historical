@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231134843id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618034134id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
 
 # Commerce Bank - Privacy Policy
 
   
 **Privacy & Security**  
-Commerce Bancorp, Inc., consists of a number of related companies called affiliates. These affiliated companies consist of the Commerce Banks, Commerce Capital Markets, Inc., Commerce Insurance Services, Inc., in the state of New York, insurance services are offered through Commerce Insurance Brokerage Services, and Commerce Insurance Brokerage Services/New York, Inc.; in Massachusetts, Commerce Insurance Brokerage Services. In order to bring you the financial products and services you want and expect, information about current and former customers is shared among the Commerce-affiliated companies. 
+Commerce Bancorp, Inc., consists of a number of related companies called affiliates. These affiliated companies consist of the Commerce Banks, Commerce Capital Markets, Inc., Commerce Insurance Services, Inc., In the state of New York, insurance services are offered through Commerce Insurance Brokerage Services, and Commerce Insurance Brokerage Services/New York, Inc. In order to bring you the financial products and services you want and expect, information about current and former customers is shared among the Commerce-affiliated companies. 
 
 This notice provides detail about the information we collect and disclose, and explains how we handle privacy as it relates to you and your accounts. 
 
@@ -22,8 +22,8 @@ Remember that cellular, mobile and cordless phones are not secure. Neither is el
 **Crime Prevention**  
 Commerce Bank takes crime prevention very seriously. For your convenience, the links below go to practical, expert advice. 
 
-**Important Information For Opening A New Account**  
-Commerce complies with Section 326 of the USA Patriot Act. This law requires that we verify certain personal information while processing your account application. 
+**Important Information About Procedures for Opening a New Account**  
+To help the government fight the funding of terrorism and money laundering activities, Federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. What this means for you: When you open an account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask you to send a copy of your driver's license or other identifying documents. 
 
 **Information We Collect**  
 We collect **non-public, personal** information about you to help serve your financial needs, provide customer service, offer new products or services, and fulfill legal and regulatory requirements. These types of **non-public, personal** information may include: 
@@ -61,7 +61,7 @@ All of our Internet forms and pages with customer or other sensitive information
 Although we provide data encryption and other types of protection to maintain the security of our customers' information, there are certain security, corruption, transmission error and access-availability risks associated with using open networks such as the Internet. Should you decide at any time that you prefer not to use our online services, please [visit any store](http://bank.commerceonline.com/information/branch_locations/index.cfm) or call us at 1-888-751-9000. 
 
 **How We Handle E-Mail**  
-Our website does not require you to disclose any personal identifying information. If, however, you choose to contact us via e-mail, please keep in mind that your e-mail address, and any other information your e-mail header shows about you, such as your name or organization, will be revealed to us in the e-mail. We pledge, however, that when you communicate with us via e-mail, we will use that information only to respond to the inquiry and provide accurate information to any questions. Your e-mail address will not be sold, nor will it be shared with others outside of Commerce unless we are compelled to do so by law. 
+Our website does not require you to disclose any personal identifying information. If, however, you choose to contact us via e-mail, please keep in mind that your e-mail address, and any other information your e-mail header shows about you, such as your name or organization, will be revealed to us in the e-mail. We pledge, however, that when you communicate with us via e-mail, we will use that information only to respond to the inquiry, provide accurate information to any questions, and in certain instances, assist in the resetting of passwords. Your e-mail address will not be sold, nor will it be shared with others outside of Commerce unless we are compelled to do so by law. 
 
 We want to be very clear: we will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us. 
 
