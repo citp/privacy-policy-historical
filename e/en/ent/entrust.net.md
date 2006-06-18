@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2005-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051028043155id_/http%3A//www.entrust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618080107id_/http%3A//www.entrust.com/privacy) for the most accurate reproduction.*
 
 # Entrust Resources: Entrust Web Site Privacy Statement
 
