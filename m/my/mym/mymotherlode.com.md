@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymotherlode.com privacy policy that was archived on 2005-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051120092714id_/http%3A//mymotherlode.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymotherlode.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618041459id_/http%3A//mymotherlode.com/Privacy) for the most accurate reproduction.*
 
 # MyMotherLode.com Privacy Policy
 
