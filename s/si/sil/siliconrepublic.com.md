@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconrepublic.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217182500id_/http%3A//www.siliconrepublic.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconrepublic.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618193728id_/http%3A//www.siliconrepublic.com/privacy/index.html) for the most accurate reproduction.*
 
 # SiliconRepublic.com: Ireland's technology news service providing Irish tech news & analysis
 
@@ -38,7 +38,7 @@ You can be assured that our internal routines do not allow unauthorised access t
 A user can electronically forward a news story to someone else by clicking the link at the bottom of a story. The user provides a valid email address for both the sender and the recipient in order to ensure that the service functions properly and to inform the recipient who sent the story. There is also an option to include a name, which is only used for the email salutation. None of this information is used for any other purpose. 
 
 6\. Irish Data Protection Commissioner  
-Further information on your data privacy rights are available on the website of the Irish Data Protection Commissioner. <http://www.dataprivacy.ie/2.htm#Your%20Rights>
+Further information on your data privacy rights are available on the website of the Irish Data Protection Commissioner. <http://www.dataprotection.ie/>
 
 7\. Surveys & Competitions   
 From time-to-time our site requests information from users via surveys or competitions. Participation in these surveys or competitions is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and delivery address), and demographic information (such as address, age and income level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.   
