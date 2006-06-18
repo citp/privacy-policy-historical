@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epson-europe.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217234547id_/http%3A//www.epson-europe.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson-europe.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618063511id_/http%3A//www.epson-europe.com/privacy.htm) for the most accurate reproduction.*
 
 # EPSON Europe - privacy policy
 
