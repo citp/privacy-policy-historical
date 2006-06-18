@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224035450id_/http%3A//www.party411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618152301id_/http%3A//party411.com/privacy.html) for the most accurate reproduction.*
 
 # Party411 Privacy Policy
 
@@ -20,7 +20,7 @@
 • [Sign-In Boards and](http://www.party411.com/custom-signin.html)  
     [Sign-In Books](http://www.party411.com/sign-in-books.html)  
 • [Centerpieces](http://www.party411.com/custom-centerpieces.html)  
-• [Favors, Accessories](https://web.archive.org/web/20051224035450id_/http%3A//www.party411.com/custom-favors.html)  
+• [Favors, Accessories](https://web.archive.org/web/20060618152301id_/http%3A//party411.com/custom-favors.html)  
     [and more!](http://party411.makesparties.com/)  
 • [Custom Party Plans](http://www.party411.com/partyhelp.html)  
 • [Creations for You](http://www.party411.com/custom)
@@ -57,13 +57,13 @@
 
 |  | 
 
-## _Privacy Policy_
+## _ Privacy Policy_
 
 **411Unlimited, LLC.** , has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.party411.com](http://www.party411.com/). 
 
 Our site uses cookies to keep track of the city you are from, and only during the current website visit. 
 
-Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20051224035450id_/http%3A//www.party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
+Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20060618152301id_/http%3A//party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
 
 This site contains links to other sites. **Party411.com** is not responsible for the privacy practices or the content of such Web sites. 
 
@@ -108,7 +108,7 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact    411Unlimited, LLC.  4925 Galaxy Parkway, Suite I, Cleveland, Ohio, 44128, USA   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact    411Unlimited, LLC.  4949 Galaxy Parkway, Suite G, Cleveland, Ohio, 44128, USA   
 [mail@party411.com](mailto:mail@party411.com)  
 216-514-8411   
   
