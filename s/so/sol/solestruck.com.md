@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solestruck.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217074443id_/http%3A//www.solestruck.com/assistance.do%3Fpage%3DPrivacySecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solestruck.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618114821id_/http%3A//solestruck.com/assistance.do%3Fpage%3DPrivacySecurity) for the most accurate reproduction.*
 
 # Solestruck Customer Assistance - Free Shipping on Qualified Orders and Free Returns.
 
@@ -40,4 +40,5 @@ P.O. Box 80069
 Portland, Oregon 97280  
   
 Or call us at any time toll-free at 1-800-494-1270.  
-The examples contained in our privacy notice are illustrations only, and are not intended to be exhaustive.
+The examples contained in our privacy notice are illustrations only, and are not intended to be exhaustive.  
+[ ](http://www.solestruck.com/)
