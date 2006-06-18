@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210103325id_/http%3A//ibackup.com/policy_new.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618153955id_/http%3A//ibackup.com/policy_new.htm) for the most accurate reproduction.*
 
 # Privacy Policy of IBackup
 
@@ -58,7 +58,7 @@ You can go to **My Profile** option after successful logging in and correct info
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: Attn: Privacy Management for IBackup   
 PRO SOFTNET CORP.   
 21300 victory Blvd   
-Suite 1230   
+Suite 690  
 Woodland Hills, CA 91367   
 [privacy@ibackup.com](mailto:privacy@ibackup.com)  
    
