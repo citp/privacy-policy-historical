@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perthmint.com.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231131529id_/http%3A//www.perthmint.com.au/gc/help/help_layout.asp%3Furl%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perthmint.com.au privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618084644id_/http%3A//www.perthmint.com.au/gc/help/help_layout.asp%3Furl%3D2) for the most accurate reproduction.*
 
 # 
 
