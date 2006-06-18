@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelagentcentral.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219134023id_/http%3A//www.travelagentcentral.com/travelagentcentral/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelagentcentral.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618052707id_/http%3A//www.travelagentcentral.com/travelagentcentral/static/staticHtml.jsp%3FfileName%3D/sitewide/privacy/privacy.jsp) for the most accurate reproduction.*
 
-# Travel Agent Central - Privacy Policy
+# Privacy Policy - Travel Agent Central
 
 When accessing www.questex.com or any other Questex Media Group site, you agree to the terms of the Questex online privacy policy, as outlined below. If you do not agree to these terms, please do not use these sites. 
 
