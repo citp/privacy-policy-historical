@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spicejet.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219015812id_/http%3A//www.spicejet.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicejet.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619003949id_/http%3A//www.spicejet.com/privacy.asp) for the most accurate reproduction.*
 
 # SpiceJet - Privacy Policy
 
@@ -18,6 +18,8 @@
 |  | [travel agencies](http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=AG&sid=)  
 |  | about us    
 |  | travel tips  
+|  | investors   
+|  | spice offers  
 |  |   
 ---  
 |   
