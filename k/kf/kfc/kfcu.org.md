@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfcu.org privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220120624id_/http%3A//www.kfcu.org/information.news/history/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfcu.org privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618070656id_/http%3A//kfcu.org/information.news/history/privacy.html) for the most accurate reproduction.*
 
 # KFCU - About KFCU - Privacy Policy
 
