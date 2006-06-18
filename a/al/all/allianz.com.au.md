@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221042220id_/http%3A//allianz.com.au/allianz/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618203959id_/http%3A//www.allianz.com.au/allianz/Privacy.html) for the most accurate reproduction.*
 
 # Privacy | Allianz Australia
 
@@ -80,9 +80,11 @@ Allianz aims to ensure that your personal information is accurate, up to date an
 
 If you believe that the privacy of your personal information at Allianz has been interfered with, you may lodge a complaint by contacting us on 1300 360 529 EST 9am – 5pm, Mon-Fri or in writing to Corporate Compliance, Allianz Australia Limited, GPO Box 4049, Sydney, NSW, 2001. Your complaint will be managed and resolved through our internal Privacy Complaint Procedure.
 
-If, however, you are not satisfied with the way Allianz has handled your complaint you may contact the Privacy Compliance Committee of the Insurance Ombudsman Service Limited ("IOS") that can determine complaints against insurers. The IOS is a company that is independent of insurers.
+If however, you are not satisfied with the way Allianz has handled your complaint you may contact the Office of the Federal Privacy Commissioner ("OFPC") on 
 
-Where appropriate the Privacy Compliance Committee may refer your complaint directly to the Federal Privacy Commissioner if the complaint relates to non-insurance matters and is outside the scope of the IOS's authority.
+1300 363 392
+
+.
 
 ## Website Privacy Statement
 
