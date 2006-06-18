@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secure-tunnel.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230042726id_/http%3A//www.secure-tunnel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure-tunnel.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618041319id_/http%3A//www.secure-tunnel.com/privacy.htm) for the most accurate reproduction.*
 
 # Secure-Tunnel. Safe and Secure Servers.
 
@@ -23,6 +23,6 @@ Secure-Tunnel does not knowingly solicit personal information from children or s
 
 Secure-Tunnel website contains links to other sites. Secure-Tunnel does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.  
   
-_Before purchasing any plan, please read the_ _[Terms & Conditions](https://web.archive.org/web/20051230042726id_/http%3A//www.secure-tunnel.com/terms.htm). _  
+_Before purchasing any plan, please read the_ _[Terms & Conditions](https://web.archive.org/web/20060618041319id_/http%3A//www.secure-tunnel.com/terms.htm). _  
   
  
