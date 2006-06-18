@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbspro.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219023321id_/http%3A//herbspro.com/xq/asp/qx/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbspro.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618074748id_/http%3A//herbspro.com/xq/asp/qx/privacy.htm) for the most accurate reproduction.*
 
 # Herbs Pro - Alternative herbal medicine -Privacy Policy Statement
 
