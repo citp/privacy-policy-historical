@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbtnuggets.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224042345id_/http%3A//www.cbtnuggets.com/html/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbtnuggets.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618221610id_/http%3A//www.cbtnuggets.com/html/help/privacy.html) for the most accurate reproduction.*
 
 # CBT Nuggets: Privacy Statement for CBT Nuggets, Inc
 
