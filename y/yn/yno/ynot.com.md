@@ -1,10 +1,22 @@
-> *The following text is extracted and transformed from the ynot.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404150305id_/http%3A//www.ynot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ynot.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618041755id_/http%3A//www.ynot.com/privacy.php) for the most accurate reproduction.*
 
 # YNOT.com :: The Ultimate Adult Webmaster Resource Site
 
   
+|   
+---  
+|  |   
+| 
+
+[**Channel69Content**](http://ads.ynot.com/adserver/click.php?id=617_181&sessid=1150603684&cookie=1150603684)  
+Tired of the same old amateur content? Well, at Channel69 we specialize in all the hard to find niches your traffic wants! Whether its Hardcore Body Builders, Big Clits Big Lips, Huge Fake Tits, BBW’s, Trannies, Ethnic Gay, Hot Oil Sex, Mature Kinks, or Mega Butts, we got your niche needs covered! With over 39 straight, & 7 gay, streaming products to choose from, we got something for everyone! Prices starting at only $99/month!!   
   
-|  |  |   
+---  
+[](http://ads.ynot.com/adserver/click.php?id=617_181&sessid=1150603684&cookie=1150603684)  
+[](http://ads.ynot.com/adserver/click.php?id=617_181&sessid=1150603684&cookie=1150603684)  
+[](http://ads.ynot.com/adserver/click.php?id=617_181&sessid=1150603684&cookie=1150603684)  
+  
+|  |   
 ---  
 |  |   
 | 
@@ -25,7 +37,7 @@ We do not sell, trade, or rent your personal information to others. We may provi
   2. enforce or apply the terms of any of our user agreements, or
   3. protect the rights, property or safety of our users, products and/or any third parties.
 
-Our site’s [registration form](https://web.archive.org/web/20050404150305id_/http%3A//www.ynot.com/user.php?op=check_age&module=NS-NewUser) (for chat board use) requires users to give us contact information (name, email address, etc). We use the contact information from the [registration form](https://web.archive.org/web/20050404150305id_/http%3A//www.ynot.com/user.php?op=check_age&module=NS-NewUser) to send users information needed to maintain their accounts and to notify users of news about our company. Users may [opt-out of receiving mailings](https://web.archive.org/web/20050404150305id_/http%3A//www.ynot.com/modules.php?op=modload&name=pnTresMailer&file=index) (other than those required for account administration) at the time they create their accounts or at any later date (see the choice/opt-out section below). 
+Our site’s [registration form](https://web.archive.org/web/20060618041755id_/http%3A//www.ynot.com/user.php?op=check_age&module=NS-NewUser) (for chat board use) requires users to give us contact information (name, email address, etc). We use the contact information from the [registration form](https://web.archive.org/web/20060618041755id_/http%3A//www.ynot.com/user.php?op=check_age&module=NS-NewUser) to send users information needed to maintain their accounts and to notify users of news about our company. Users may [opt-out of receiving mailings](https://web.archive.org/web/20060618041755id_/http%3A//www.ynot.com/modules.php?op=modload&name=pnTresMailer&file=index) (other than those required for account administration) at the time they create their accounts or at any later date (see the choice/opt-out section below). 
 
 This site contains links to other sites. YNOT.com is not responsible for the privacy practices or the content of such web sites.  
   
@@ -43,13 +55,13 @@ Our online surveys do not record any identifying information.
 
 This site make its chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-When you post to our board(s) your IP will be recorded and will be visible to the administrator and moderators of this site. In addition, viewers will be able to look at your ’profile’. You have the ability to select what info is available for public viewing. You can change what info is displayed with your Profile at the [My Profile](https://web.archive.org/web/20050404150305id_/http%3A//www.ynot.com/user.php) area. You can change what info is displayed with your [Profile](https://web.archive.org/web/20050404150305id_/http%3A//www.ynot.com/index.php?name=PNphpBB2&file=profile&mode=viewprofile&u=1417) at the [My Profile](https://web.archive.org/web/20050404150305id_/http%3A//www.ynot.com/user.php) area. Note that any info you make available to the public *may* be picked up by search engine spiders. YNOT takes steps to curtail this via META tags and/or robots.txt but cannot control individual spider compliance with industry standards in correctly using the provided tags.
+When you post to our board(s) your IP will be recorded and will be visible to the administrator and moderators of this site. In addition, viewers will be able to look at your ’profile’. You have the ability to select what info is available for public viewing. You can change what info is displayed with your Profile at the [My Profile](https://web.archive.org/web/20060618041755id_/http%3A//www.ynot.com/user.php) area. You can change what info is displayed with your [Profile](https://web.archive.org/web/20060618041755id_/http%3A//www.ynot.com/index.php?name=PNphpBB2&file=profile&mode=viewprofile&u=1417) at the [My Profile](https://web.archive.org/web/20060618041755id_/http%3A//www.ynot.com/user.php) area. Note that any info you make available to the public *may* be picked up by search engine spiders. YNOT takes steps to curtail this via META tags and/or robots.txt but cannot control individual spider compliance with industry standards in correctly using the provided tags.
 
 To help curb ’mining’ of email addresses from our chat board(s) by promoters, your email address is NOT displayed with your post. Email addresses are not displayed anywhere on YNOT and are not accessible for other users to contact you. Instead users can contact you through YNOT's Private Message feature. Only registered users that are logged in have access to this feature.  
   
 **Adult Webmaster Directory:**
 
-The [Adult Webmaster Directory](https://web.archive.org/web/20050404150305id_/http%3A//www.ynot.com/modules.php?op=modload&name=Members_List&file=index) uses info gathered from the Chat-board Profile. See info on Public Forums (above) to manage what is displayed.  
+The [Adult Webmaster Directory](https://web.archive.org/web/20060618041755id_/http%3A//www.ynot.com/modules.php?op=modload&name=Members_List&file=index) uses info gathered from the Chat-board Profile. See info on Public Forums (above) to manage what is displayed.  
   
 **Security:**
 
@@ -61,7 +73,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 Users may change their options for receiving news/promotions in the following ways.
 
-  1. Visit [My Profile](https://web.archive.org/web/20050404150305id_/http%3A//www.ynot.com/user.php) and edit the info.
+  1. Visit [My Profile](https://web.archive.org/web/20060618041755id_/http%3A//www.ynot.com/user.php) and edit the info.
   2. If you are unable to make the edit, [contact support]() (include your id)
 
   
@@ -71,7 +83,7 @@ Users may change their options for receiving news/promotions in the following wa
 This site gives users the following options for changing and modifying information previously provided.  
 
 
-  1. Visit [My Profile](https://web.archive.org/web/20050404150305id_/http%3A//www.ynot.com/user.php) and edit the info.
+  1. Visit [My Profile](https://web.archive.org/web/20060618041755id_/http%3A//www.ynot.com/user.php) and edit the info.
   2. If you are unable to make the edit, [contact support]() (include your login id or screen name)
 
   
@@ -80,7 +92,7 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-[VP of Webmaster Resources](https://web.archive.org/web/20050404150305id_/http%3A//www.ynot.com/modules.php?op=modload&name=YN_Support&file=index)   
+[VP of Webmaster Resources](https://web.archive.org/web/20060618041755id_/http%3A//www.ynot.com/modules.php?op=modload&name=YN_Support&file=index)   
 YNOT Network, LP.   
   
 Once again, welcome to YNOT! You have made a great business decision to visit us. We hope you make the most of your experience here and choose to be a long time member. Should you ever have any questions, suggestions or problems, please [contact us](https://web.archive.org/modules.php?op=modload&name=YN_Support&file=index). 
