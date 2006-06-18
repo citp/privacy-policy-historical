@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the servicechannel.com privacy policy that was archived on 2005-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050824211111id_/http%3A//www.servicechannel.com/sc/login/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicechannel.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618181642id_/http%3A//servicechannel.com/sc/login/privacy_policy.htm) for the most accurate reproduction.*
 
-# www.servicechannel.com
-
-**  
-Privacy Policy**
+# ServiceChannel
 
 ServiceChannel currently uses, VeriSign, which is among the best secure server software (SSL) available today for secure service transactions. It encrypts client facility maintenance information transmitted through the ServiceChannel website, including company and contact information, service requests and work history, reports, proposals and invoices. VeriSign scrambles information transmitted to and from the ServiceChannel web site, which information can be decoded once it reaches the user’s browser. 
 
@@ -21,8 +18,4 @@ ServiceChannel’s network of sites may contain links to partners, advertisers, 
 
 ServiceChannel may edit this policy from time to time. If we make any substantial changes, we will notify you by posting a prominent announcement on this page. 
 
-To view the “Terms of Use” agreement in its entirety, please click [here](http://www.servicechannel.com/sc/login/sagreement.htm) if you are a property owner/facility manager and [here](http://www.servicechannel.com/sc/login/pagreement.htm) if you are a service contractor. In the event of any conflict between this Privacy statement and our Terms of Use Agreement, the Terms of Use Agreement will govern. 
-
-|  |   |   
----|---  
- 
+To view the “Terms of Use” agreement in its entirety, please click [here](http://www.servicechannel.com/sc/login/sagreement.htm) if you are a property owner/facility manager and [here](http://www.servicechannel.com/sc/login/pagreement.htm) if you are a service contractor. In the event of any conflict between this Privacy statement and our Terms of Use Agreement, the Terms of Use Agreement will govern.
