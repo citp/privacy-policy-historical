@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lashback.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123102959id_/http%3A//www.lashback.com/legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashback.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618115914id_/http%3A//lashback.com/legal_privacy.htm) for the most accurate reproduction.*
 
 # LASHBACK: The Unsubscribe Authority.
 
