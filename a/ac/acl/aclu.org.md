@@ -1,24 +1,8 @@
-> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2005-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051115120459id_/http%3A//www.aclu.org/info/info.cfm%3FID%3D17024%26c%3D248) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618143728id_/http%3A//www.aclu.org/info/18864res20050401.html) for the most accurate reproduction.*
 
-# American Civil Liberties Union : <font color="#FFFFFF">Online Privacy Statement</font>
+# American Civil Liberties Union : Online Privacy Statement
 
-|    
-
-
-   
-
-[](http://www.aclu.org/news/NewsPrint.cfm?ID=17024&c=248)  
-   [](http://www.aclu.org/news/newsemail.cfm?ID=17024&c=248)
-
-| 
-
-|    
-|     
-  
-
-
-Online Privacy Statement  
-EFFECTIVE AS OF: APRIL 1, 2005
+Online Privacy Statement (4/1/2005)
 
 The American Civil Liberties Union and the ACLU Foundation (collectively, "ACLU") are committed to protecting the personal information that you provide to us when using the ACLU Site. This Online Privacy Statement describes how we treat all user data collected during your visit to the ACLU Site, both anonymous data and personally-identifying data.
 
@@ -48,7 +32,7 @@ We use Long-term Cookies only when you select a "remember" option on the ACLU Si
 
 We use Session Cookies whenever you visit the ACLU Site to run the Site's interactive applications, such as the shopping cart. Session Cookies last only as long as your session on the ACLU Site. They expire when the session ends and are not written onto your computer's hard drive. We also use Session Cookies in e-mails containing the HTML-format ACLU online newsletter. If you select "text-only" format for the online newsletter, it will not contain any Session Cookies.
 
-How We Use The Data We Collect **** **  
+How We Use The Data We Collect **  
 **We use anonymous data to identify the source of user traffic (for example, umich.edu, or aol.com), but we are not able to use this data to identify individual users. We use data on which sections of the ACLU site are most visited, so that we can evaluate the popularity of our different Web pages and continue to improve the ACLU Site. We do not link any anonymous data with the Personal Data you provide to us.
 
 We use your Personal Data for various purposes:
@@ -56,7 +40,7 @@ We use your Personal Data for various purposes:
 * To fulfill the request for which you specifically provided the data; 
 * To send you our e-mail newsletter, ACLU Online, or action alerts, if you have not opted out of receiving that information; 
 * To personalize the content that you see based on the activities and products that you have selected on the ACLU Site; 
-* To allow you to set and [change user preferences](https://www.aclu.org/team/Subscribe.cfm); 
+* To allow you to set and [change user preferences](https://secure.aclu.org/site/SPageServer?pagename=login_change_subscriptions); 
 * To allow you to renew your membership in the ACLU; 
 * To offer you other ways to support the ACLU, including, in some limited cases, solicitations for additional contributions; 
 * To confirm your contribution to the ACLU.  
@@ -76,9 +60,9 @@ Finally, we may disclose and use Personal Data regardless of where you reside in
 Except as described in this Online Privacy Statement, we will not share your Personal Data with any third party unless we first notify you and offer you an appropriate choice to consent to such further use, for example, through an opt-out or opt-in request. 
 
 Your Ability to Choose  
-When you provide us with your Personal Data on the ACLU Site, you can let us know that you do not wish to receive our online newsletter, ACLU Online, or any e-mailed action alerts by un-checking the subscription request boxes on the form you are completing, by un-checking the subscription request boxes on our [User Preference Page](https://www.aclu.org/team/Subscribe.cfm) or by contacting us via postal mail sent to Webmaster, 125 Broad Street, 18th Floor, New York, New York, 10004. 
+When you provide us with your Personal Data on the ACLU Site, you can let us know that you do not wish to receive our online newsletter, ACLU Online, or any e-mailed action alerts by un-checking the subscription request boxes on the form you are completing, by un-checking the subscription request boxes on our [User Preference Page](https://secure.aclu.org/site/SPageServer?pagename=login_change_subscriptions) or by contacting us via postal mail sent to Webmaster, 125 Broad Street, 18th Floor, New York, New York, 10004. 
 
-If you are signing up as a donor/member on the ACLU Site, you can opt out of having your Personal Data shared with Sharing Organizations on the online form you are filling out or thereafter by filling out the [ACLU Feedback Page](https://www.aclu.org/feedback/feedback.cfm) or by contacting the Membership Department via postal mail sent to Membership Department, 125 Broad Street, 18th Floor, New York, New York, 10004. 
+If you are signing up as a donor/member on the ACLU Site, you can opt out of having your Personal Data shared with Sharing Organizations on the online form you are filling out or thereafter by filling out the [No-Exchange of Name Form](https://secure.aclu.org/site/SSurvey?SURVEY_ID=2861&ACTION_REQUIRED=URI_ACTION_USER_REQUESTS) or by contacting the Membership Department via postal mail sent to Membership Department, 125 Broad Street, 18th Floor, New York, New York, 10004. 
 
 Again, please remember that if you are a non-U.S. resident, we will not use your Personal Data beyond the purpose for which it was originally collected regardless of whether you check or un-check a box.
 
@@ -89,14 +73,7 @@ Security
 The Personal Data we collect about you is stored on a secure, password protected server. We use industry-standard encryption technologies with respect to the receipt and transfer of Personal Data you submit to us on the ACLU Site and only authorized personnel have access to your information. Nevertheless, despite our best efforts, no transmission over the Internet can be guaranteed to be 100% secure. 
 
 Updating Your Data  
-To update your Personal Data or to make corrections, you can do so by using our [User Preference Page](https://www.aclu.org/team/Subscribe.cfm), or by sending us the update via postal mail sent to Membership Department, 125 Broad Street, 18th Floor, New York, NY 10004.
+To update your Personal Data or to make corrections, you can do so by using our [User Preference Page](https://secure.aclu.org/site/SPageServer?pagename=login_change_subscriptions), or by sending us the update via postal mail sent to Membership Department, 125 Broad Street, 18th Floor, New York, NY 10004.
 
 Comments and Questions  
-If you have any questions, comments or concerns about this Online Privacy Statement or our data collection practices or to request that we delete your Personal Data, you can fill out the [ACLU Feedback Page](https://www.aclu.org/feedback/feedback.cfm), or send us your questions or comments via postal mail sent to Webmaster, American Civil Liberties Union, 125 Broad Street, 18th Floor, New York, New York 10004.
-
-|    
-  
----|---|---  
-  
-   
-| 
+If you have any questions, comments or concerns about this Online Privacy Statement or our data collection practices or to request that we delete your Personal Data, you can fill out the [ACLU Feedback Page](http://www.aclu.org/contact/general), or send us your questions or comments via postal mail sent to Webmaster, American Civil Liberties Union, 125 Broad Street, 18th Floor, New York, New York 10004.
