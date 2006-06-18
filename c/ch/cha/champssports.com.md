@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the champssports.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218015936id_/http%3A//www.champssports.com/champs/index.jsp%3FpageId%3DchampsCustSrvc%26catId%3Dcs_hc_88127%26pageType%3DdetailLevel2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the champssports.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618021149id_/http%3A//www.champssports.com/champs/index.jsp%3FpageId%3DchampsCustSrvc%26catId%3Dcs_hc_88127%26pageType%3DdetailLevel2) for the most accurate reproduction.*
 
 # Champs Sports: Customer Service
 
-[ ](https://web.archive.org/champs/index.jsp?pageId=offer)  
+[ ](https://web.archive.org/champs/index.jsp?pageId=champsSearchResults&firstTime=yes&SearchTerm=champs+basic+tee)  
 | 
 
 |   
 ---  
   
-  
-
-Champs Privacy Policy
-
-|   |    
+  Champs Privacy Policy  |   |    
 ---|---  
 **Security, Privacy and Site Information**  
    
@@ -96,6 +92,6 @@ If you can't find answers to your questions here, please [contact us](https://we
   
 |  [ Store Locator ](https://web.archive.org/champs/index.jsp?pageId=champsStoreLoc) |  [ Events ](https://web.archive.org/champs/index.jsp?pageId=champsEvents) |  [ Job Opportunities ](http://ww2.champssports.com/2002/chs1129a/index.html) |  [ Feedback ](https://web.archive.org/champs/index.jsp?pageId=champsFeedback) |  [ Customer Service ](https://web.archive.org/champs/index.jsp?pageId=champsCustSrvc) |  [ Site Map ](https://web.archive.org/champs/content/Champs/index.html) |  [ About Us ](http://www.footlocker-inc.com/Website2003/HomepageChampsLink.htm) |  [ Privacy Policy ](https://web.archive.org/champs/index.jsp?pageId=champsCustSrvc&catId=cs_hc_88127&pageType=detailLevel2)  
 ---|---|---|---|---|---|---|---  
-©1998 - 2005 Footlocker.com, Inc. All rights reserved.   
+©1998 - 2006 Footlocker.com, Inc. All rights reserved.   
   
 Prices subject to change without notice. Products shown may not be available in our stores. ( [ more info ](https://web.archive.org/champs/index.jsp?pageId=champsCustSrvc&catId=ch_hc_98175&pageType=detailLevel2) ) 
