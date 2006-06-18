@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the maurices.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230220624id_/http%3A//maurices.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maurices.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618092659id_/http%3A//www.maurices.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # maurices.com - Privacy Statement
 
 ### POLICIES - Privacy Statement
 
-**[Legal Statement](https://web.archive.org/web/20051230220624id_/http%3A//maurices.com/company/legal.cfm)  |  [Return Policy](https://web.archive.org/web/20051230220624id_/http%3A//maurices.com/company/return.cfm)  |  [Whistleblower Policy](https://web.archive.org/web/20051230220624id_/http%3A//maurices.com/company/whistleblower.cfm)**
+**[Legal Statement](https://web.archive.org/web/20060618092659id_/http%3A//www.maurices.com/company/legal.cfm)  |  [Return Policy](https://web.archive.org/web/20060618092659id_/http%3A//www.maurices.com/company/return.cfm)  |  [Whistleblower Policy](https://web.archive.org/web/20060618092659id_/http%3A//www.maurices.com/company/whistleblower.cfm)**
 
 **maurices** is committed to protecting the privacy of our web page users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes of assisting your search activities. We do not disclose information about your personal information that you provide to any outside parties.
 
@@ -27,4 +27,4 @@ _Will **maurices** send me unsolicited e-mails?_
 No. Unless you sign up to receive information on our web site, or in one of our stores, you will only receive an e-mail from us when you have e-mailed a specific question or comment to **maurices**. If at any time you do not want to continue to receive information, please contact us.
 
 _What about sales flyers and other mail from **maurices**?_  
-Unless you have signed up in our stores or on our web site to receive our promotional material through the mail, we will not send you unsolicited mailings ([click here to sign up](https://web.archive.org/web/20051230220624id_/http%3A//maurices.com/member/register.cfm?CFID=1967764&CFTOKEN=18257097&return=/company/privacy.cfm)). If you have signed up, and decide that you do not want to continue to receive these mailings, [click here to unsubscribe](https://web.archive.org/web/20051230220624id_/http%3A//maurices.com/member/unsubscribe.cfm?CFID=1967764&CFTOKEN=18257097&return=/company/privacy.cfm).
+Unless you have signed up in our stores or on our web site to receive our promotional material through the mail, we will not send you unsolicited mailings ([click here to sign up](https://web.archive.org/web/20060618092659id_/http%3A//www.maurices.com/member/register.cfm?CFID=2777090&CFTOKEN=60462705&return=/company/privacy.cfm)). If you have signed up, and decide that you do not want to continue to receive these mailings, [click here to unsubscribe](https://web.archive.org/web/20060618092659id_/http%3A//www.maurices.com/member/unsubscribe.cfm?CFID=2777090&CFTOKEN=60462705&return=/company/privacy.cfm).
