@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoax-slayer.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218000918id_/http%3A//www.hoax-slayer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoax-slayer.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618081345id_/http%3A//www.hoax-slayer.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,5 +30,7 @@ In order to use some services provided on the Hoax-Slayer site it might be neces
 Like many other webmasters, I use a service that records raw statistical information such as the number of visitors to the Hoax-Slayer site, what pages are the most popular and system information such as the operating system and browser used by visitors. The stats service I use on this site is provided by [StatCounter.com](http://www.statcounter.com/). In order to gather this information, StatCounter may send a cookie to your computer. Any information collected is solely for statistical purposes and is not used to identify individuals in any way.
 
 The Hoax-Slayer Newsletter and website uses advertising to generate revenue. I would never knowingly include advertisements that promote fraudulent products or companies. However, it should be understood that I am in no way responsible for the conduct or reliability of advertisers.
+
+I also participate in a limited number of affiliate marketing programs. The site and newsletter may include reviews or recommendations for carefully chosen affiliate products. For more details, you can view the [Hoax-Slayer Affiliate Marketing Policy](http://www.hoax-slayer.com/affiliate-marketing-policy.html).
 
 As an Internet user, online privacy is an important issue for me, in respect to both my privacy and yours. If you have any concerns, comments, or questions regarding this Privacy Policy, please email me via the [Hoax-Slayer Contact Form](http://www.hoax-slayer.com/submit-material.html).
