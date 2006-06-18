@@ -1,445 +1,644 @@
-<!--The following is the downloaded HTML source of the cbs3.com privacy policy that was archived on 2003-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031004181035id_/http%3A//kyw.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cbs3.com privacy policy that was archived on 2006-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060618225237id_/http%3A//cbs3.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<title>CBS 3: Privacy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- templateok --><head>
 
-<base href="http://kyw.com/">
+<!--<meta http-equiv="content-type" content="text/html; charset=utf-8" />-->
 
-<link rel="stylesheet" href="http://kyw.com/resources_kyw_stylesheet.css" type="text/css">
-<meta name="description" content="">
-<meta name="keywords" content="">
-<meta name="content-language" content="en"> 
-<meta name="robots" content="index,follow"> 
-<meta name="revisit-after" content="1 day">
+
+
+
+	
+	
+	
+		 
+			
+			
+				<title>kyw.com - Privacy</title> 
+			
+		 
+	
+		
+	
+	
+
+
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
-<script language="JavaScript" type="text/javascript" src="http://kyw.com/resources_detect.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://kyw.com/vlaunch">
-<!--
-vlaunch = no_externals;
-// -->
-</script>
-<script language="javascript">
-<!-- Begin
-var submitcount=0;
-function validate()
-{
-   if (submitcount != 0)
-   {
-     alert("You have already submitted a search.");
-     return false;
-   }
-   var frm = document.search;
-   var errs = "";
-   if (frm.SearchableText.value == "") { errs += "\n   SearchableText" }
-   if (!errs)
-   {
-     submitcount++;
-     return true;
-   }
-   else
-   {
-     msg = "You must input a search term to search this site.\n"
-     alert(msg);
-     return false;
-   }
+<meta http-equiv="expires" content="-1">
+<meta http-equiv=" pragma" content="no-cache">
+<meta name="author" content="CBS">
+
+
+	
+
+
+
+
+<meta id="keywords" name="keywords" content="">
+
+<meta name="copyright" content="2006">
+
+<link rel="stylesheet" type="text/css" href="http://static.viacomlocalnetworks.com/css/screen.css" media="screen, projection">
+<link rel="stylesheet" type="text/css" href="http://static.viacomlocalnetworks.com/css/print.css" media="print, handheld">
+
+<script type="text/javascript" src="http://static.viacomlocalnetworks.com/js/cbs.js"></script>
+<script type="text/javascript" src="http://static.viacomlocalnetworks.com/js/progLayout.js"></script>
+<script type="text/javascript" src="http://static.viacomlocalnetworks.com/js/ads.js"></script>
+
+<!--remove-->
+<!--timestamp-->
+<!--Sun, 18 Jun 2006 18:52:36 EDT-->
+<!--end timestamp-->
+<!--/remove-->
+
+
+
+
+
+<link href="http://cbs3.com/privacy/resources_rss.xml" rel="alternate" type="application/rss+xml" title="rss">
+
+
+
+
+<style type="text/css">
+@import url("http://static.viacomlocalnetworks.com/kyw/blue.css");
+body {
+font-size: 10px;
 }
-//  End -->
+</style>
+
+
+<script type="text/javascript">
+var SiteName = "kyw.dayport.com";
+var VLNFlag = 0;
+var VLNParent = "";
+
+mCompany = "kyw";
+var SiteName = mCompany + ".dayport.com";
+var VLNFlag = 0;
+var VLNParent = "";
+
+function LaunchSyndicateArticle(ArtId,template,CustId,ContId,CatID)
+{
+  var SiteRegExp = new RegExp('@' + SiteName.replace(/\//g,"\\/"),"gi");
+  var ArtString=ArtId.toString().replace(SiteRegExp,"");
+  var Customer_ID="";
+  var Contract_ID="";
+  var Category_ID="";  
+  var TemplateFile="";
+  var URLstring="";
+//  var ParentFile="";
+
+  kWidth = 764;
+  kHeight = 449;
+  var winName = "VideoViewer";
+  var page;
+
+URLstring = "&PreloadContract_DefID=1&Contract_DefID=2";
+
+if ((template!= '') && (typeof template!= "undefined")) {
+TemplateFile = '&tf='+template;
+}else{
+TemplateFile = '&tf=video_player.tpl';
+}
+
+
+if ((CatID != '') && (typeof CatID != "undefined")) {	
+	switch(CatID) {
+		case "14":
+			URLstring = "&PreloadContract_DefID=1&Contract_DefID=5";
+			break;		
+		default:
+			URLstring = "";
+	} 
+}
+
+	if ((CustId != '') && (typeof CustId != "undefined"))
+        {
+          if (CustId.charAt(0) == "-")
+            Customer_ID = '&ExCust='+CustId.slice(1);
+          else      
+            Customer_ID = '&Customer_ID='+CustId;
+        }
+        
+        if ((ContId != '') && (typeof ContId != "undefined") && (ContId == "0"))
+		Contract_ID = '&NoAds=true';
+	else if ((ContId != '') && (typeof ContId != "undefined")) 
+		Contract_ID = '&Contract_ID='+ContId;  	
+	
+	if ((CatID != '') && (typeof CatID != "undefined"))
+		Category_ID = '&Category_ID='+CatID;
+	else
+		Category_ID = '&Category_ID=5';
+	
+	page = "http://kyw.dayport.com/viewer/viewerpage.php?Art_ID=" + ArtString + TemplateFile + URLstring + Customer_ID + Contract_ID + Category_ID;
+
+  var xPosition = screen.width/2-(kWidth/2);
+  var yPosition = screen.height/2-(kHeight/2);
+  var Params = "height=" + kHeight + ",width=" + kWidth + ",left=" + xPosition + ",top=" + yPosition + ",screenX=" + xPosition + ",screenY=" + yPosition;
+
+  var kWin=window.open(page,winName,Params); 
+  kWin.opener = self;
+  kWin.focus();
+
+}
+
+
 </script>
-<script language="JavaScript" src="http://kyw.com/privacy/resources_display_ads.js">
-</script>
 
 
-<script language="JavaScript1.2" src="http://kywimg.dayport.com/js/functions.js"></script>
 
+  
+		
+		<script language="JavaScript">var oassitepage='kyw.com/privacy/privacy';</script>
+		
+		<script language="Javascript">
+			OAS_url = 'http://oas.vtsgonline.com/RealMedia/ads/'; 
+			OAS_sitepage = oassitepage;
+		  OAS_rn = '001234567890'; 
+		  OAS_rns ='1234567890'; 
+			OAS_rn = new String (Math.random());
+		  OAS_rns = OAS_rn.substring (2, 11); 
+		</script>
+		
+		<script language="JavaScript">
+		<!--
+			_version=10;
+		//-->	
+		</script>
+		
+		
+		<script language="JavaScript1.1">
+		<!--
+			_version=11;
+		//-->	
+		</script>
+		
+		<script language="JavaScript">
+		<!--
+		  function OAS_AD (OAS_pos) {
+		    var OAS_Position = OAS_pos;
+		    if (_version == 11) {
+		 			OAS_RICH(OAS_pos);
+		    }
+		    else if (_version < 11) {
+					OAS_NORMAL(OAS_pos);
+		    }
+		  }
+		
+		  function OAS_RICH(Position) { 
+				document.write('<SCRIPT LANGUAGE="Javascript1.1" SRC="' + OAS_url + 'adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + Position + '"><\/SCRIPT>');	  	
+		  }
+		
+			function OAS_NORMAL(Position) {
+		  	document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + Position + '">');
+				document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + Position + '"><\/A>');
+		  }
+		
+		//-->
+		</script>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+@import url("http://static.viacomlocalnetworks.com/css/story.css");
+</style>
 </head>
-<body marginheight="2" marginwidth="2" leftmargin="2" topmargin="2">
 
-<script language="javascript">content_title='PUT+PAGE+NAME+HERE';content_group='Privacy;kyw.com';</script>
+<body class="storypage">
 
 
-<!-- BEGIN WEBSIDESTORY CODE v8.0.5 (11up) -->
-<!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
-<script language="javascript" id="_hbc">
-var _acct="DM5307031CNM78EN3;DM5307034LFA78EN3";	//account number(s)
-var _pn=content_title; //page name(s)
-var _mlc=content_group; //multi-level content category
-var _seg=""; // visitor segmentation
-var _cmp=""; // campaign id
-var _gp="";  // campaign goal
-var _cmpn="";// campaign id in query
-var _gpn=""; // campaign goal in query
-var _fnl=""; // funnels
-var _pec=""; // error codes
-var _fv="";  // form validation function name
-var _dcmp="";// dynamic campaign
-var _dcmpn="";//dynamic campaign in query
-var _hra=""; // response attribute
-var _hcn=""; // conversion
-var _hcv=""; // conversion value
-var _hlt=""; // lead tracking
-var _hla=""; // lead attribute
-var _hqsr="";// response attribute in referrer query
-var _hqsp="";// response attribute in query
-var _hc1=""; // custom 1
-var _hc2=""; // custom 2
-var _hc3=""; // custom 3
-var _hc4=""; // custom 4
-var _cid=""; // customer id
-var _cp="null"; // campaign
-var _cpd=""; // campaign domain
-var _pndef="title"; //default page name
-var _ctdef="full"; //default content category
-var _dlf="n"; //download filter
-var _elf="n"; //exit link filter
-var _epg="n"; //event page identifier
-var _gn="ehg-viacom.hitbox.com",_mn="we88"; //gateway & machine name
-</script><script language="javascript1.1" defer="" src="http://kyw.com/resources_hbe11up.js">
+<!--shared body here-->
+
+<!-- START Hitbox-->
+<script language="javascript">accID='DM5307031CNM78EN3';</script>
+
+
+
+
+<script language="javascript">content_group='/privacy;/kyw.com/privacy;/kyw.com/privacy';content_title='Privacy';</script>
+ 
+<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+<script language="javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-viacom.hitbox.com";
+
+//BEGIN EDITABLE SECTION
+//CONFIGURATION VARIABLES
+hbx.acct=accID + ';DM5307034LFA78EN3;DM5507269ICE78EN3';//ACCOUNT NUMBER(S)
+hbx.pn=hbxStrip(content_title);//PAGE NAME(S)
+hbx.mlc=content_group;//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="title";//DEFAULT PAGE NAME
+hbx.ctdef="current";//DEFAULT CONTENT CATEGORY
+
+//OPTIONAL PAGE VARIABLES
+//ACTION SETTINGS
+hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
+hbx.lt="auto";//LINK TRACKING
+hbx.dlf="n";//DOWNLOAD FILTER
+hbx.dft="n";//DOWNLOAD FILE NAMING
+hbx.elf="n";//EXIT LINK FILTER
+
+hbx.cp="null";//LEGACY CAMPAIGN
+
+//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
+</script><script language="javascript1.1" src="http://cbs3.com/content/content/file_file_173111616">
 </script><script language="javascript">if(navigator.appName!='Netscape'&&parseInt(
 navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
-<img src="http://ehg-viacom.hitbox.com/HG?hc=we88&amp;cd=1&amp;hv=6&amp;ce=u&amp;hb=DM5307031CNM78EN3&amp;n=PUT+PAGE+NAME+HERE&amp;vcon=CONTENT+CATEGORY&amp;seg=&amp;cmp=&amp;gp=&amp;fnl=&amp;pec=&amp;dcmp=&amp;ra=&amp;gn=&amp;cv=&amp;ld=&amp;la=&amp;c1=&amp;c2=&amp;c3=&amp;c4=" border="0" width="1" height="1">
+<img src="http://ehg-viacom.hitbox.com/HG?hc=we09&amp;cd=1&amp;hv=6&amp;ce=u&amp;hb=DM5307031CNM78EN3&amp;n=PUT+PAGE+NAME+HERE&amp;vcon=CONTENT+CATEGORY&amp;seg=&amp;cmp=&amp;gp=&amp;fnl=&amp;pec=&amp;dcmp=&amp;ra=&amp;gn=&amp;cv=&amp;ld=&amp;la=&amp;c1=&amp;c2=&amp;c3=&amp;c4="
+     border="0" width="1" height="1">
 </noscript><!--//-->
 <!-- END WEBSIDESTORY CODE  -->
-<div align="center">
-
-<table width="762" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td colspan="3">
-<a href="http://www.kyw.com"><img src="http://images.viacomlocalnetworks.com/images_image_125095640" width="762" height="80" vspace="0" hspace="0" border="0"></a><br clear="all">
-</td></tr>
-<tr><td colspan="3">
-<table width="762" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td>
-<img src="http://images.viacomlocalnetworks.com/images_image_125095654" width="17" height="90" border="0"><br clear="all">
-</td><td width="728">
-<script language="Javascript">
-leaderboard();
-</script>
-</td><td>
-<img src="http://images.viacomlocalnetworks.com/images_image_125095909" width="17" height="90" border="0"><br clear="all">
-</td></tr>
-</tbody></table>
-</td></tr>
-<tr><td colspan="3" height="10" bgcolor="#000099">
-<img src="http://images.viacomlocalnetworks.com/images_image_125135731" width="762" height="8" border="0"><br clear="all">
-</td></tr>
-<tr><td width="130" align="center" valign="top" background="http://images.viacomlocalnetworks.com/images_image_125135753">
-
-<table width="120" cellpadding="0" cellspacing="1" border="0" align="center" bgcolor="#000099">
-<tbody><tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/homepage/" class="sitenav" target="_top">Homepage</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/news/" class="sitenav" target="_top">Top Stories</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/newstips/" class="sitenav" target="_top">E-Mail News Tips</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/schoolclosings/" class="sitenav" target="_top">School Closings</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/topvideos/" class="sitenav" target="_top">Video</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/special/" class="sitenav" target="_top">Special Reports</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/bios/" class="sitenav" target="_top">News Team Bios</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/weather/" class="sitenav" target="_top">Weather</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/traffic/" class="sitenav" target="_top">Traffic</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/links/" class="sitenav" target="_top">Links</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/schedules/" class="sitenav" target="_top">What's On TV?</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/radio/" class="sitenav" target="_top">KYW Newsradio 1060</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/health/" class="sitenav" target="_top">Health</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/consumer/" class="sitenav" target="_top">Consumer</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/finance/" class="sitenav" target="_top">Finance</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/sports/" class="sitenav" target="_top">Sports</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/perspectives%20/" class="sitenav" target="_top">Perspectives</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/water/" class="sitenav" target="_top">Water Cooler </a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/entertainment/" class="sitenav" target="_top">Entertainment</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/album/" class="sitenav" target="_top">CBS 3 Photo Album</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/lottery/" class="sitenav" target="_top">Lottery Numbers</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/cbs/" class="sitenav" target="_top">CBS Shows</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/hdtv/" class="sitenav" target="_top">HDTV</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/about/" class="sitenav" target="_top">Inside CBS 3</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/birthdays/" class="sitenav" target="_top">Baby's Birthday</a>
-</td></tr>
-<tr><td bgcolor="#000066" class="sitenav">
-&nbsp;<a href="http://kyw.com/feedback/" class="sitenav" target="_top">Contact CBS 3</a>
-</td></tr>
-<tr>
-<form method="get" action="http://kyw.com/homepage/resources_search_results.html" class="formstyle" target="_top" name="search" onsubmit="return validate()"></form>
-<td bgcolor="#000099" align="center">
-<input type="hidden" name="sections" value="all">
-<input type="text" size="7" name="SearchableText"><input type="submit" value="find"><br><a href="http://kyw.com/homepage/resources_advanced_search_criteria.html" target="_top" class="sitenav">Advanced Search</a>
-</td></tr>
-</tbody></table><br>
 
-<span><a href="http://www.drphil.com" target="_blank">
-<img src="http://images.viacomlocalnetworks.com/images_image_111162847" width="120" height="60" vspace="2" border="0"></a><br clear="all">
-
-<table width="120" cellpadding="0" cellspacing="1" border="0" align="center" bgcolor="#ffffff"><tbody><tr><td align="center" bgcolor="#003399" class="sitenav">&nbsp;<a href="http://kyw.com/newstips" class="sitenav"><b>Click here with<br>News Tips<br>or call us at<br>(800)223-TIPS</b></a></td></tr></tbody></table>
-
-<img src="http://images.viacomlocalnetworks.com/images_image_112162420" width="120" height="21" vspace="0" hspace="0" border="0"><br clear="all">
-<table width="120" cellpadding="0" cellspacing="2" border="0" bgcolor="#000066">
-<tbody><tr><td align="left" bgcolor="#000099" class="quicklinks">
-• <a href="/links/" class="quicklinks"><b>Links</b></a><br>
-
-• <a href="http://kyw.com/perspectives%20/" class="quicklinks"><b>Larry Mendte's Perspective</b></a><br>
-
-• <a href="http://www.parenfaire.com" class="quicklinks"><b>Pennsylvania Renaissance Faire</b></a><br>
-
-• <a href="http://cbs.marketwatch.com/" class="quicklinks"><b>CBS MarketWatch</b></a><br>
-
-• <a href="/content/local_story_128115251.html" class="quicklinks"><b>Ask The Vet</b></a><br>
-
-• <a href="http://tgardnerfinancial.com" class="quicklinks"><b>Financial Expert Tim Gardner</b></a><br>
-
-• <a href="http://www.drloriv.com/cbs3.asp" class="quicklinks"><b>Trash or Treasure</b></a><br>
-
-• <a href="/horoscopes/" class="quicklinks"><b>Daily Horoscopes</b></a><br>
-
-</td></tr>
-</tbody></table>
-<img src="http://images.viacomlocalnetworks.com/images_image_031190923" width="120" height="2" vspace="0" hspace="0" border="0"><br><br>
-
-<img src="http://images.viacomlocalnetworks.com/images_image_112163612" width="120" height="21" vspace="0" hspace="0" border="0"><br clear="all">
-<table width="120" cellpadding="0" cellspacing="2" border="0" bgcolor="#000066">
-<tbody><tr><td align="left" bgcolor="#000099" class="quicklinks">
-• <a href="http://www.temple.edu/cla/" target="_blank" class="quicklinks"><b>CBS 3/Temple University Mayoral Election Poll</b></a><br>
-• <a href="http://kyw.com/content/local_story_265173602.html" target="_blank" class="quicklinks"><b>CBS 3 Meteorologists To Visit Local Schools</b></a><br>
-• <a href="http://www.nmco.org/gallery/mc/jordan-tamela.html" target="_blank" class="quicklinks"><b>Nation's Missing Children Organization: Tamela Jordan</b></a><br>
-• <a href="http://www.ticketmaster.com/venue/16463" target="_blank" class="quicklinks"><b>Dr. Phil Tickets</b></a><br>
-• <a href="http://www.pspca.org/" target="_blank" class="quicklinks"><b>Pennsylvania S.P.C.A. Adopt A Pet</b></a><br>
-</td></tr>
-</tbody></table>
-<img src="http://images.viacomlocalnetworks.com/images_image_031190923" width="120" height="2" vspace="0" hspace="0" border="0"><br><br>
-<a href="http://www.cbs.com/primetime/amazing_race5/" target="_blank"><img src="http://images.viacomlocalnetworks.com/images_267425267" width="120" height="60" vspace="2" border="0"></a><br clear="all">
-
-<a href="http://www.aliandjack.com/" target="_blank"><img src="http://images.viacomlocalnetworks.com/images_image_254174825" width="120" height="60" vspace="2" border="0"></a><br clear="all">
-
-<a href="http://kyw.com/content/local_story_234100849.html"><img src="http://images.viacomlocalnetworks.com/images_image_007160605 " width="120" height="60" vspace="2" border="0"></a><br clear="all">
-</span>
-
-</td><td width="502" align="center" valign="top" class="page">
-
-
-<!--END HEADER-->
-
-
-<table width="100%" cellpadding="4" cellspacing="0" border="0">
-
-
-
-<tbody><tr><td class="standard" valign="top">
-<span class="headline">Privacy Statement - KYW</span>
-
-
-
-<br><br>
-
-<table width="180" cellpadding="1" cellspacing="1" border="0" align="left">
-<tbody><tr><td valign="top" class="features">
-<img src="http://kyw.com/icon_email.gif" width="20" height="14" align="absmiddle"> <a href="javascript:void(0)" onclick="window.open('http://kyw.com/privacy/local_story_880660846_html/resources_story_email','','resizable=yes,height=370,width=340,scrollbars=no,tollbars=no')"><b>Email This Story</b></a><br>  
-<img src="http://kyw.com/icon_print.gif" width="20" height="14" align="absmiddle"> <a href="http://kyw.com/privacy/local_story_880660846_html/resources_storyPrintableView" target="_blank"><b>Print This Story</b></a>
-</td></tr>
-
-
-
-
-
-
-
-</tbody></table>
-
-
-
-<span class="standard"><p><i>(Updated 07/03/01)</i><br>We take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the cbs.com Privacy Coordinator by email at <a href="mailto:privacy@cbs.com">privacy@cbs.com</a>. You may also send inquiries by mail to: </p>
-<p><b>Privacy Coordinator
-CBS.com (555/13)
-524 West 57th Street
-New York, New York 10019</b></p>
-<p>We reserve the right to change our policy from time to time as we deem appropriate in our sole discretion.</p>
-<p><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>KINDS OF INFORMATION</b></font></p>
-<p>There are two kinds of information web sites can obtain about you:</p>
-<p><b>Aggregate Information</b>: Aggregate Information is anonymous data that web sites use to diagnose problems on the sites’ servers, administer the sites, and to help improve the quality of the Web pages. It may be your domain name (i.e. "XYZ.com") or your IP address. </p>
-<p><b>Personally Identifiable Information</b>: Personally Identifiable Information is any information that personally identifies you. It can be your first and last name, your email address, your home address, or your telephone number. Sometimes this personal information is needed when you order products online or subscribe to an email newsletter. Other times, web sites collect this information to help target advertising and marketing. </p>
-<p>We collect Aggregate Information – such as your IP address (a number that’s automatically assigned to your computer whenever you’re surfing the Internet), browser type (e.g., Netscape or Internet Explorer), and domain (e.g., "XYZ.com"). We do this in the background so it does not interrupt your cruising speed. We use this information to help diagnose problems with our servers, to administer our site, and to gather broad demographic information. We share Aggregate Information with third parties for advertising and promotional purposes.  None of this information is connected with Personally Identifiable Information. So, when you enter our site, you are anonymous and will remain that way unless you choose otherwise. </p>
-<p><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>COOKIES</b></font></p>
-<p>We use cookies to remember your zip code so that you can maintain a customized view of CBS.com showing your city’s CBS-TV affiliate Web site. We may also use cookies when we conduct polls, surveys, chat rooms and contests to limit multiple responses and registrations. </p>
-<p>We will never use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. We do not use information transferred through cookies for any promotional or marketing purposes.</p>
-<p>You may occasionally get cookies from our advertisers and our vendors. We do not control these cookies, and these cookies are not subject to our privacy policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry.</p>
-<p>Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the polls, surveys, contest, and game areas, will not function properly if you do so. </p>
-<p><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>SURVEYS AND REGISTRATION FORMS</b></font> </p>
-<p>Sometimes we post surveys and registration forms in which we ask for Personally Identifiable Information. Here are some ways we might use that information: 
-</p><ul>
-<li type="1">To send you information about CBS and this Web site</li>
-<li type="1">To give to our content partners, who may send you promotional material</li>
-<li type="1">To give to our advertisers, who may send you information about their products and services</li></ul>
-The choice is yours – you do not have to answer surveys or register for newsletters or service. If you choose to answer the survey or complete the registration, we will tell you on the survey or registration form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates.<p></p>
-<p><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>CONTESTS AND SWEEPSTAKES</b></font></p>
-<p>From time to time we run contests and sweepstakes in which we ask for Personally Identifiable Information such as your name, email address or telephone number. That's so we can let you know if you win. Sometimes we request additional Personally Identifiable Information such as your age, gender, and income level. And once in a while - though not often - we require this additional information in exchange for allowing you to enter the contest. Here are some of the ways we might use the information that we collect: 
-</p><ul>
-<li type="1">To notify you if you are a winner</li>
-<li type="1">To send you information about CBS and our site</li>
-<li type="1">To give to content partners, who may send you promotional email</li>
-<li type="1">To give to advertisers, who may send you emails about their products and services</li></ul>
-We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with third parties unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by us and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates.<p></p>
-<p>If you win one of our contests or sweepstakes, we will not publish your name, hometown, or other Personally Identifiable Information on the Site unless you give us your permission. </p>
-<p><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>OPT OUT</b></font></p>
-<p>If we ask you for Personally Identifiable Information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don’t want us to share the information or if you don’t want to receive promotional and/or marketing information about products, services, and offerings from CBS and/or any third parties. Let us know and we will use your name and address only to tell you if you win a contest. </p>
-<p><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>SUBPOENAS AND LAW ENFORCEMENT AGENCIES</b></font></p>
-<p>We reserve the right to cooperate with government and law enforcement agencies engaged in investigations of activities that are, or are believed to be, illegal.  Further, we may share your Personally Identifiable Information with such agencies if we believe that a crime or any act that endangers the health and safety of others may have been or may be committed.  We may also share your Personally Identifiable Information in response to an appropriate subpoena. </p>
-<p><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>COMMUNITY AND PUBLIC AREAS</b></font></p>
-<p>Information posted to message boards or chat areas is available to the general public.  Please use caution when posting any such information.  Users under the age of 18 should be particularly careful not to provide any personally identifying information while using chat rooms or message boards. We reserve the right to, but are not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. Please see our Terms of Service for additional information.</p>
-<p><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>FEEDBACK AND EMAIL</b></font></p>
-<p>On every page there is a link to a "feedback" or "email" form so you can comment, complaint, make suggestions, and ask questions.  Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way.  We may also track your browser type and referring URL to better diagnose technical issues you may be having.  We do not share this information with third parties and we will use it only to answer your correspondence.</p>
-<p><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>CBS-TV AFFILIATES</b></font></p>
-<p>CBS.com has a unique relationship with some of our CBS Television affiliates. If you are interested in local information, we will give you the option to choose a local affiliate or enter a zip code. We asked for this information so that your view of the site could be “branded” to your local CBS Television affiliate, or to any other CBS-Television affiliate you choose. You'll see their logo at the top of your screen. </p>
-<p>Some of our affiliates provide their own content, such as local news stories. This content may be mixed with the content we produce. And some affiliates sell ads or run contests that will appear on their branded sites only.</p>
-<p>We are not responsible for content or contests posted by our affiliates or for the use of any information that an affiliate may collect.</p>
-<p>We use reasonable efforts to require that all content on our site conforms to our privacy policy. But we do not control, and we are not responsible for, the content or privacy policies of our affiliates. </p>
-<p><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>LINKS TO OTHER SITES</b></font></p>
-<p>When you visit our site, you may be directed to other sites outside our service. For example, if you click on a banner advertisement, you will leave our site. This includes links to sites operated by advertisers, sponsors and partners that may use our logo as part of an agreement with us. These other sites may send their own cookies to users, collect data, or solicit personal information. These other sites are not subject to our privacy policy and we are not responsible for the privacy policies for these other sites, nor for the use of any information that these sites may collect. </p>
-<p><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>CBS STORE</b></font></p>
-<p>The CBS Store uses a third-party fulfillment house to accept orders for CBS products purchased online. Names, street addresses, and financial information are required to complete these orders, and may also be used to contact customers about their orders or for billing questions when necessary. However, neither CBS nor the fulfillment house shares this information with third parties. </p>
-<p><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>DELETING OR MODIFYING YOUR INFORMATION</b></font></p>
-<p>If you've given us personally identifiable information in the past and then have second thoughts or want to update it, here are your choices:</p>
-<p>Email to <a href="mailto:privacy@cbs.com">privacy@cbs.com</a>.</p>
-<p>Regular mail to:</p>
-<p><b>Privacy Coordinator
-CBS.com (555/13)
-524 West 57th Street
-New York, New York 10019</b></p>
-<p>Although it is not always possible to remove or modify information in the databases, we will make reasonable efforts to do so. If you've given us information for one of those third parties we mentioned above and we've already passed it on, we cannot delete or change the information. </p>
-<p><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>SECURITY OF PRIVATE INFORMATION</b></font></p>
-<p>Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at CBS, to protect your information from theft, misuse and alteration.</p>
-</span>
-
-
-
-
-
-</td></tr>
-
-
-
-</tbody></table><br>
-
-
-<table width="470" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td>
-<img src="http://images.viacomlocalnetworks.com/images_image_112155346" width="470" height="19" vspace="0" hspace="0"><br clear="all">
-</td></tr>
-<tr><td bgcolor="#ccccff" align="left" class="standardhp">
-<script src="http://kyw.dayport.com/syndicate/archive/5/?Category_ID=5&amp;Limit=10&amp;Offset=0&amp;nc=1"></script>
-</td></tr>
-<tr><td>
-<img src="http://images.viacomlocalnetworks.com/images_image_022142334" width="470" height="5" vspace="0" hspace="0"><br clear="all">
-</td></tr>
-</tbody></table><br>
-
-<br><div class="standardsm" align="center">
-MMIII, Viacom Internet Services Inc. , All Rights Reserved<br>
-<a href="http://kyw.com/advertising/">Advertise</a>  |   
-<a href="http://kyw.com/copyright">Copyright</a>  |   
-<a href="http://kyw.com/privacy">Privacy</a><br>
-<a href="http://www.viacomlocalnetworks.com">Viacom Local Networks</a> | 
-<a href="http://www.zope.com">Zope Corp.</a>
-</div><br>
-
-<!--START FOOTER--></td>
-<td class="right-column" align="center" valign="top" width="130" background="http://images.viacomlocalnetworks.com/images_image_125135753">
-
-<iframe src="http://www.viacomlocalnetworks.com/stuff/local_file_181180258" width="120" height="120" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"></iframe>
-<noscript>
-<a href="http://www.samsungusa.com/showcase/popup.html"><img src="http://images.viacomlocalnetworks.com/images_image_181102113" width="120" height="120" border="0"></a><br clear="all">
-</noscript>
-<table width="120" height="6" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td><span></span></td></tr>
-</tbody></table>
-<!-- Creative for 120 x 600 format -->
-<script type="text/javascript" language="JavaScript">
-<!--
-         google_ad_client = 'viacom_120x600';
-         google_ad_width = 120;
-         google_ad_height = 600;
-         google_ad_format = '120x600_sln';
-         google_safe = 'high';
-// -->
-</script>
-<script type="text/javascript" language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-<noscript>
-    <img height="1" width="1" border="0" src="http://pagead2.googlesyndication.com/pagead/imp.gif?client=ca-viacom_120x600&amp;event=noscript" />
-</noscript>
-<span>
-<a href="http://kyw.com/content/local_story_182151509.html">
-<img src="http://images.viacomlocalnetworks.com/images_image_184152752" width="120" height="60" vspace="2" border="0"></a><br clear="all">
-
-<a href="http://kyw.com/content/local_story_163134752.html"><img src="http://images.viacomlocalnetworks.com/images_image_163154914 " alt="" height="60" width="120" border="0" vspace="2"></a><br clear="all">
-
-<a href="http://www.kyw1060.com/" target="_blank"><img src="http://images.viacomlocalnetworks.com/images_872709620" border="0" vspace="2"></a><br clear="all">
-
-<a href="http://www.kyw.com/instantinfo"><img src="http://images.viacomlocalnetworks.com/images_image_150174109 " width="120" height="60" vspace="2" border="0"></a><br clear="all">
-
-<a href="http://www.teachinphilly.org/"><img src="http://images.viacomlocalnetworks.com/images_image_267135120" width="120" height="60" vspace="2" border="0"></a><br clear="all"></span>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><a href="http://www.cbsnews.com" target="_blank"><img src="http://images.viacomlocalnetworks.com/images_image_031194042" width="120" height="40" border="0" vspace="1"></a><br>
-<a href="http://www.cbs.com" target="_blank"><img src="http://images.viacomlocalnetworks.com/images_image_031194102" width="120" height="40" border="0" vspace="1"></a><br>
-</td></tr>
-<tr><td colspan="3"><img src="http://images.viacomlocalnetworks.com/images_image_125135731" width="762" height="8" border="0"><br clear="all"></td></tr>
-</tbody></table><br>
+<!-- END Hitbox-->
+
+
+<div id="sub">
+<div id="wrap">
+
+
+	<div class="subsearchupdated">
+		<h1><a href="http://cbs3.com"><span class="ir">CBS 3 - Philadelphia's Source For Breaking News, Weather, Traffic and Sports: Privacy</span></a></h1>
+		<div style="float:right">
+			<form id="searchform" action="http://search.kyw.com/" method="get">
+				<b>Search</b>					
+				<input name="__LOGIC" value="1511" type="hidden">
+
+				<select name="section" onclick="this.options[selectedIndex].value;">
+					<option value="News">News</option>
+					<option value="Video">Video</option>
+					<option value="The Web">The Web</option>
+					<option value="Restaurants">Dining</option>
+				        <option value="Yellow Pages">Yellow Pages</option>
+				</select>
+				<input name="SearchString" type="text" class="tbox" id="searchbox" value="" onfocus="if (this.value == this.defaultValue) this.value = ''" onblur="if (this.value == '') this.value = this.defaultValue">
+				<input type="submit" onclick="document.forms['searchform'].submit();" style="width:23px;" value="Go">		
+			</form>
+		</div>
+	</div>
+	<div class="cleaner">&nbsp;</div>
+
+
+<div class="outer">
+<div class="inner">
+
+<div id="left">
+<div class="menu">
+
+<ul id="textsizer">
+<li><a href="#" name="&amp;lid=textsizer" onclick="setFontSize('default'); return false;" title="Small Size Font (default)" id="tdefault"><span class="ir">A</span></a></li>
+<li><a href="#" name="&amp;lid=textsizer" onclick="setFontSize('medium'); return false;" title="Medium Size Font" id="tmedium"><span class="ir">A+</span></a></li>
+<li><a href="#" name="&amp;lid=textsizer" onclick="setFontSize('large'); return false;" title="Large Size Font" id="tlarge"><span class="ir">A++</span></a></li>
+</ul>
+
+<div class="drawer" id="saveit">
+<h3><a href="#" name="&amp;lid=saveit_drawer" onclick="moveDrawer('popit',this,Drawer.RIGHT)"><strong>Save It</strong> <span id="savedCount">0</span></a></h3>
+<div id="popit" class="drawer-right">
+<div id="savedItems">
+<script type="text/javascript">document.write(clippingsHTML())</script>
+</div>
+</div>
+</div>
+
+
+
+<dl id="primarynav">
+<dd style="height:23px" id="navwirelessdd"><a href="http://cbs3.com/wireless" id="navwireless" style="margin-left:0px;padding-left: 0px"><img src="http://static.viacomlocalnetworks.com/images/wireless/nav_wireless.gif" style="height:23px;width:90px;margin:0;padding:0;border: none;"></a></dd>
+<dd><a href="http://cbs3.com/" name="&amp;lid=nav_home" id="navmain">Home</a></dd>
+<dd><a href="http://cbs3.com/local" name="&amp;lid=nav_local" id="navlocal">Local News</a></dd>
+<dd><a href="http://cbs3.com/national" name="&amp;lid=nav_usworld" id="navworld">U.S. &amp; World</a></dd>
+<dd><a href="http://cbs3.com/weather" name="&amp;lid=nav_weather" id="navweather">Weather</a></dd>
+<dd><a href="http://cbs3.com/traffic" name="&amp;lid=nav_traffic" id="navtraffic">Traffic</a></dd>
+<dd><a href="http://cbs3.com/sports" name="&amp;lid=nav_sports" id="navsports">Sports</a></dd>
+<dd><a href="http://cbs3.com/business" name="&amp;lid=nav_business" id="navbusiness">Business</a></dd>
+<dd><a href="http://cbs3.com/consumer" name="&amp;lid=nav_consumer" id="navconsumer">Consumer</a></dd>
+<dd><a href="http://cbs3.com/health" name="&amp;lid=nav_health" id="navhealth">Health</a></dd>
+<dd><a href="http://cbs3.com/entertainment" name="&amp;lid=nav_entertainment" id="naventertainment">Entertainment</a></dd>
+<dd><a href="http://cbs3.com/food" name="&amp;lid=nav_food" id="navfood">Food</a></dd>
+<dd><a href="http://cbs3.com/pets" name="&amp;lid=nav_pets" id="navpets">Pets</a></dd>
+<dd><a href="http://cbs3.com/watercooler" name="&amp;lid=nav_cooler" id="navcooler">Water Cooler</a></dd>
+</dl>
+
+<div id="secondarynav">
+<dl>
+<dt>Seen on CBS 3</dt>
+<dd><a href="http://cbs3.com/links">Links &amp; Numbers</a></dd>
+<dd><a href="http://cbs3.com/specialreports">Special Reports</a></dd>
+<dd><a href="http://cbs3.com/investigations">I-Team Investigations</a></dd>
+<dd><a href="http://cbs3.com/consumer">3 On Your Side</a></dd>
+<dd><a href="http://cbs3.com/video/?cid=225">Woman's View</a></dd>
+<dd><a href="http://cbs3.com/video/?cid=223">Community Cam</a></dd>
+<dd><a href="http://cbs3.com/eye">Eye On Philadelphia</a></dd>
+<dd><a href="http://cbs3.com/babysbirthday">Baby's Birthday</a></dd>
+<dd><a href="http://cbs3.com/lottery">Lottery Results</a></dd>
+<dd><a href="http://cbs3.com/bios">News Team</a></dd>
+<dd><a href="http://cbs3.com/programming">TV Schedule</a></dd>
+</dl>
+<dl>
+<dt>Services</dt>
+<dd><a href="http://www.careerbuilder.com/?lr=CBCBS_KYW&amp;siteid=cbs_KYW001">Careers</a></dd>
+<dd><a href="http://kyw.viacom.bizrate.com/index__rf--kyw000.html">Shopping</a></dd>
+<dd><a href="http://www.match.com/viacom/index.aspx?channel=kyw">Dating</a></dd>
+<dd><a href="http://tripadvisor.kyw.com/">Travel</a></dd>
+<dd><a href="http://kyw.autobytel.com">Autos</a></dd>
+<dd><a href="http://www.livingchoices.com/home/search.aspx?refer=vcomkyw&amp;mid=6160">Real Estate</a></dd>
+<dd><a href="http://search.kyw.com/?__LOGIC=1511&amp;HOSTNAME=search.kyw.com&amp;vzmkcode=viacom_kyw&amp;vzaidcode=&amp;SearchString=&amp;CITY=Philadelphia&amp;STATE=PA&amp;section=Yellow+Pages">Yellow Pages</a></dd>
+<dd><a href="http://search.kyw.com/?__LOGIC=1511&amp;section=Restaurants&amp;SearchString=&amp;zipcode=&amp;resthood=Any&amp;location=area">Restaurants</a></dd>
+<dd><a href="http://www.movietickets.com/default.asp?afid=kyw">Movie Listings</a></dd>
+<dd><a href="http://microsite.coupons.com/gmsa/sighub.asp?PID=12022&amp;zid=df16&amp;nid=21">Coupons</a></dd>
+
+</dl>
+<dl>
+<dt>Lifestyle</dt>
+<dd><a href="http://www.yourlookyourlife.com/kyw">Beauty &amp; Style</a></dd>
+<dd><a href="http://realfamiliesrealfun.com/kyw">Family</a></dd>
+<dd><a href="http://www.yourbabytoday.com/kyw">New Baby</a></dd>
+</dl>
+<dl>
+<dt>Collections</dt>
+<dd><a href="http://cbs3.com/video">Video</a></dd>
+<dd><a href="http://cbs3.com/slideshows">Slideshows</a></dd>
+<!--<dd><a href="" tal:attributes="href string:${here/portal_url}/webcams">Webcams</a></dd>-->
+</dl>
+<dl>
+<dt>In Our Area</dt>
+<dd><a href="http://cbs3.com/calendar">Community Calendar</a></dd>
+<!--<dd><a href="" tal:attributes="href string:${here/portal_url}/locallinks">Local Links</a></dd>-->
+<dd><a href="http://cbs3.com/contests">Contests</a></dd>
+</dl>
+
+
+	
+		<script language="JavaScript"> 
+		<!--
+		OAS_AD('Left1'); 
+		//--> 
+		</script><script language="Javascript1.1" src="http://oas.vtsgonline.com/RealMedia/ads/adstream_jx.ads/kyw.com/privacy/privacy/1240849285@Left1"></script>
+	
+	
+
+<dl>
+<dt>Other Ways to Get News</dt>
+<dd><a href="http://reg.cbs3.com">Newsletters &amp; Alerts</a></dd>
+<dd><a href="http://cbs3.com/xml">XML Feeds</a></dd>
+</dl>
+<dl>
+<dt>About Us</dt>
+<dd><a href="http://cbs3.com/info">Station Info</a></dd>
+<dd><a href="http://cbs3.com/contact">Contact Us</a></dd>
+<dd><a href="http://cbs3.com/press">Press Releases</a></dd>
+<dd><a href="http://cbs3.com/jobs">Jobs</a></dd>
+</dl>
+<dl>
+<dt>Our Partners</dt>
+<dd><a href="http://www.cbsnews.com">CBSnews.com</a></dd>
+<dd><a href="http://www.cbs.com">CBS.com</a></dd>
+</dl>
 
 </div>
+
+
+</div>
+</div>
+
+<!-- END HEADER -->
+
+<div id="middle">
+        
+<div id="bread">
+
+
+	
+	
+		<h1 class="stitle"><a href="http://cbs3.com/privacy">Privacy</a></h1>
+	
+
+
+
+
+
+</div>
+
+
+
+<div class="block" id="story" style="border-right:none;">
+
+
+
+<p class="storynote"><img src="http://static.viacomlocalnetworks.com/img/clock2.gif" width="10" height="10" alt="clock"> May 27, 2005 9:15 am US/Eastern</p>
+
+<h1>Privacy Policy </h1>
+
+
+
+
+
+<div id="reporting">
+
+<dl>
+<dt class="clipping"><script type="text/javascript">writeClipImg("Privacy Policy ", "http://cbs3.com/privacy/privacy_story_147091802.html/privacy_story_147091802.html", "saveit");</script><strong>Save It</strong></dt>
+<dt><img src="http://static.viacomlocalnetworks.com/img/story_email_icon.gif" width="10" height="10" alt="Email this Article"> <a href="mailto:?subject=Privacy Policy &amp;body=http://cbs3.com/privacy/privacy_story_147091802.html" title="Email this Article">E-mail It</a></dt>
+<dt><img src="http://static.viacomlocalnetworks.com/img/story_print_icon.gif" width="10" height="10" alt="Print this Article"> <a href="javascript:print()" title="Print this Article">Print It</a></dt>
+</dl>
+</div>
+
+
+
+
+        	
+<p>
+
+
+<b>EFFECTIVE DATE</b>:  The most recent version of this Privacy Policy, as revised, is effective as of March 29, 2004.<br><br>This Privacy Policy applies to certain web sites which are owned and/or operated by or on behalf of CBS Broadcasting Inc., UPN, VTSG (Viacom Television Stations Group), King World Productions, Inc. and/or other affiliated entities controlled by, or under common control with, such parties (each such web site being individually referred to herein as the “Web Site”). If you have arrived at this Privacy Policy by “clicking” on an authorized link from a Web Site, then this Privacy Policy applies to such Web Site, and the individual entity which owns and/or operates the particular Web Site from which you “clicked” to this Privacy Policy via an authorized link shall be referred to herein as “Sponsor,” "we" or "us." Sponsor respects the privacy of its users, and this Privacy Policy explains what information we collect on our Web Site and how we use such information. Please read this Privacy Policy carefully. In addition, please review the Terms of Use posted at the Web Site, which governs your use of the Web Site. Your use of our Web Site indicates to us that you have read and accepted our privacy practices, as outlined in this Privacy Policy and our Terms of Use. <br><br><b>Applicability</b><br><br>Please note that this Privacy Policy only applies to Web Sites owned and/or operated by or for Sponsor, and upon which Sponsor has placed a “link” which, when “clicked”, transfers you to this Privacy Policy. It is not applicable to the individual web sites owned, sponsored or operated by or for any independent television or radio stations affiliated with Sponsor. While on our Web Site, you may encounter links to these or other web sites or online material. If you "click" on a link to such a third party, the "click" takes you off our Web Site and to a third party’s web site, which is beyond Sponsor’s control. These other web sites may set their own cookies, collect data, and/or have their own privacy policies. This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected by any other web site or offline by Sponsor (unless otherwise specifically stated or disclosed by Sponsor), its corporate affiliates, broadcast affiliates, licensees or any other company, and we encourage you to review the privacy policy of any other web site you visit.<br><br>In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in any chat rooms, message boards, or similar web pages. You should keep in mind that whenever you publicly disclose information about yourself online – for example, via message boards or chat rooms – that information could be collected and used by people that you do not know. In addition, certain message boards and similar user forums may display IP addresses (as defined below) along with the message poster’s name and message. Sponsor bears no responsibility for any action or policies of any third parties who collect any information users may disclose on the message boards, chat areas or other user forums, if any, on the Web Site. <br><br><b>Information Sponsor Collects</b><br><br><b>Personally Identifiable Information</b>: Personally identifiable information is information that could reasonably be used to identify you personally (such as your name, address, birth date or e-mail address), which we refer to in this Privacy Policy as "PII." Generally, you may browse our Web Site without providing us with PII.  However, there may be times when we ask you to provide us with certain PII, such as when you choose to register with our Web Site and/or for newsletters or choose to participate in an online contest, sweepstakes, survey or voting procedure. We may also ask you to provide us with demographic information or information regarding your interests, hobbies or similar information. Sponsor reserves the right, at any time, to add features to our Web Site that require you to register or otherwise provide PII, including credit card information, or to require registration to access our Web Site. You can choose not to provide certain information, but then you may not be able to take advantage of or participate in some of the Web Site’s features. We may combine the information we collect with information available from other sources, including information received from promotional partners or other third parties. We may provide you the opportunity to e-mail a friend an article, electronic greeting card or other special feature from our Web Site. The e-mail addresses you supply us for those activities will be used to send the requested e-mail and will not be used to send you or your friend any other e-mail communications.<br><br><b>The Web Site does not knowingly collect PII from children under thirteen (13) years of age</b>: This is not a web site directed to children under the age of 13, and Sponsor does not knowingly collect any information from children under 13 years of age at the Web Site. If you are under 13 years of age, do not send any information about yourself to Sponsor. If Sponsor discovers that a child under the age of 13 has provided the Web Site with PII, Sponsor will delete that child’s PII from its system. <br><br><b>Anonymous Information</b>: When you visit the Web Site, our web servers automatically collect web site usage information. Web site usage information is anonymous information that describes how our visitors use and navigate our Web Site, and it includes the number and frequency of visitors to each web page and the length of their stays. We collect the anonymous information automatically sent to us by your web browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Web Site, and IP address. We also may determine what technology is available through your browser in order to serve you the most appropriate version of a web page. For example, we may determine that you have installed a version of Flash, and we will then send you the appropriate Flash version of the web page rather than an HTML page. <br><br><b>IP Addresses</b>: An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from our Web Site, our servers log the visitor’s IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, to report aggregate information to our business partners or to audit the number of visits to different pages on our Web Site. Please note that some services within our Web Site, such as certain message boards, may display IP addresses along with the message poster’s name and message.<br><br><b>Cookies</b>: Cookies are information files that our Web Site may place on your computer to provide extended functionality and to personalize your experience at our Web Site. We may use cookies for a number of purposes. For example, we may use cookies to track usage patterns on the Web Site and we may use cookies when we conduct polls and sweepstakes to limit multiple responses and registrations. Or, we may use cookies to record registration and personalization information, enabling you to save your user name and password. We do not store any PII in cookies, but we may link the cookie to any information we collect. You may occasionally get cookies from our advertisers, which is standard in the internet industry. We do not control these cookies, and these cookies are not subject to our privacy policy.  Visitors to our web site should check the privacy policy of the advertiser to see whether and how it uses cookies. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of the Web Site will not operate correctly if you disable cookies. You should consult with your browser’s provider/manufacturer if you have any questions regarding disabling cookies.<br><br><b>Sponsor’s Use and Disclosure of Collected Information</b><br><br><b>Sponsor</b>: Sponsor may use your PII to provide the information or content you have requested, to contact you or to fulfill prizes in connection with a contest or sweepstakes, to contact you about Sponsor programs, products, features or services, or for other purposes disclosed at the time of collection. We may also use your PII to contact you regarding your use of our Web Site or changes to our Privacy Policy, Terms of Use or other policy or terms that affect you and your use of our Web Site. If you e-mail someone else an article, electronic greeting card or other special feature from our Web Site, we will use the information you provide about someone else to send that person the requested e-mail. Sponsor may use information collected about our users to improve the content and navigation of our Web Site, or for other internal purposes.<br><br><b>Third parties providing services on our behalf</b>: Sponsor may employ other companies and individuals to perform functions on its behalf. Examples may include hosting the Web Site, sending communications on our behalf, hosting message boards or other user forums, analyzing data, providing marketing assistance, creating, hosting and/or running contests/sweepstakes/games and providing customer service. These third parties may have access to our users’ PII in order to provide these services to us or on our behalf, but they are not permitted to use it for other purposes.<br><br><b>Other Third Parties</b>: Sponsor may disclose anonymous, aggregated user statistics to third parties for a variety of purposes. For example, we may disclose how many individuals visited certain areas of our Web Site, or how many men or women receive our newsletter. Sponsor does not rent, sell or otherwise disclose your PII to third parties unless disclosed to you at the time such information is collected or unless you otherwise give consent, other than in the following limited circumstances: <br><br></p><li>Legal action. Sponsor may disclose information about its users, including PII, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web Site and applicable laws, or to protect against misuse or unauthorized use of our Web Site. Sponsor may also disclose user information whenever we believe disclosure is necessary to limit our legal liability, to protect or defend our rights or property or protect the safety, rights or property of our users.</li> <br><br><li>Corporate change. Sponsor may sell, transfer or otherwise disclose user information, including PII, to a successor entity in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change respecting the Web Site.</li><br><br><b>Security</b><br><br>Sponsor takes steps to secure the data you submit to us, including limiting the number of people who have physical access to our user data. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, Sponsor cannot ensure or warrant the security of any information you transmit to Sponsor and you do so at your own risk. <br><br><b>Consent to Transfer</b><br><br>The Web Site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.<br><br><b>Acceptance / Changes to Privacy Policy</b><br><br>By using the Web Site, you agree to the terms of this <br>Privacy Policy. Sponsor reserves the right to modify, alter or otherwise update this Privacy Policy at any time in its sole discretion. We will post any changes here, so be sure to check back from time to time. However, we will only use the PII you provide to the Web Site in a manner consistent with this Privacy Policy, unless you give us your consent.<br><br><b>Contact Us</b><br><br>If you have any questions, comments or concerns about our Privacy Policy, please contact us at the address provided on the Web Site from which you “clicked” via an authorized link to arrive at this Privacy Policy.<br><br>
+<p></p>
+
+<p class="storynote">(© MMV, CBS Broadcasting, Inc. All Rights Reserved.)</p>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="nopadblock">
+<script type="text/javascript" src="http://context3.kanoodle.com/cgi-bin/context.cgi?id=80968703&amp;db=context&amp;query=localtarget:pa%20-%20philadelphia&amp;cgroup=kywros&amp;format=table5&amp;width=100%&amp;fillcolor=ffffff&amp;titlecolor=ffffff&amp;linkcolor=3140ad&amp;newtarget=1&amp;numresults=5&amp;fontsize=12&amp;title=1&amp;nologo=0">
+</script>
+</div><br>
+
+
+
+</div><!--middle-->
+
+<div id="right">
+
+
+
+<div class="block" id="video">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="14" valign="top"><div style="background:#fff url(http://static.viacomlocalnetworks.com/img/swatches.gif) 0px -40px no-repeat !important;">&nbsp;</div></td><td valign="top">
+
+<a href="http://cbs3.com/video" style="font-family:georgia, serif; font-size:14px; color:#444;"><img src="http://static.viacomlocalnetworks.com/kyw/img/logo_small.gif" alt="CBS 3 - Philadelphia's Source For Breaking News, Weather, Traffic and Sports"> Video&nbsp;</a>
+
+</td><td valign="top"><div align="right" style="padding: 0px 0px 10px 0px"><a href="#" style="font-size:10px; color:#444; font-weight: bold;">
+	
+		<script language="JavaScript"> 
+		<!--
+		OAS_AD('Position1'); 
+		//-->
+		</script><script language="Javascript1.1" src="http://oas.vtsgonline.com/RealMedia/ads/adstream_jx.ads/kyw.com/privacy/privacy/1240849285@Position1"></script>
+	 
+  
+
+
+</a></div></td></tr></tbody></table>
+			
+<!-- wrap flash -->
+<div style="margin:0 -10px -10px -10px;">
+<div id="flashcontent_video">
+You need the latest Flash player to view CBS 3 - Philadelphia's Source For Breaking News, Weather, Traffic and Sports video content.
+<br>
+<a href="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">Click here</a> to download.
+<br><br>
+Click here to <a href="?detectflash=false">bypass this detection</a> if you already have the latest Flash Player.
+</div>
+<script type="text/javascript">
+// <![CDATA[
+	var fo = new FlashObject('http://cbs3.com/content/file_file_150112948', 'Main', '310', '350', 7, '#ffffff');
+	fo.addParam('allowScriptAccess', 'sameDomain');
+	fo.addParam('wmode', 'opaque');
+	fo.addVariable('CBS_configPath', 'http://cbs3.com/content/file_file_229133816');
+
+
+
+
+fo.addVariable('CBS_categoryID', '5');
+
+
+
+fo.write('flashcontent_video');
+	// ]]>
+	</script>
+	</div><!-- flash wrap -->
+</div>
+
+
+	<div class="nopadblock" id="bigad">
+		<h4>Advertisement</h4>
+		
+			<script language="JavaScript"> 
+			<!--
+			OAS_AD('Right1'); 
+			//--> 
+			</script><script language="Javascript1.1" src="http://oas.vtsgonline.com/RealMedia/ads/adstream_jx.ads/kyw.com/privacy/privacy/1240849285@Right1"></script>
+		
+		
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><!--right-->
+
+<div class="cleaner">&nbsp;</div>
+
+</div><!--inner-->
+</div><!--outer-->
+
+
+<div id="footer" class="wide">
+<ul id="footnav">
+<li><a href="http://cbs3.com/advertise">Advertise</a></li>
+<li><a href="http://cbs3.com/copyright">Copyright</a></li>
+<li><a href="http://cbs3.com/privacy">Privacy Policy</a></li>
+<li><a href="http://cbs3.com/eeo">EEO Public File</a></li>
+<li><a href="http://www.v-chip.org/" target="_blank">A Parent's Guide to TV Ratings</a></li>
+<li><a href="http://www.cbslocal.com">CBS Television Stations Digital Media</a></li>
+<li><a href="http://cbs3.com/resources_spidermap/">Site Map</a></li>
+</ul>
+<p id="copyright">© MMVI, CBS Broadcasting Inc. All Rights Reserved.</p>
+</div>
+
+	
+		<script language="JavaScript"> 
+		<!--
+		OAS_AD('Position3'); 
+		//--> 
+		</script><script language="Javascript1.1" src="http://oas.vtsgonline.com/RealMedia/ads/adstream_jx.ads/kyw.com/privacy/privacy/1240849285@Position3"></script>
+	
+	
+
+
+
+</div><!--wrap-->
+</div><!--sub-->
+
+
+
+
+
+
+
 
 
 </body></html>
