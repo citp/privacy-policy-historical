@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runehq.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226035424id_/http%3A//runehq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runehq.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618150716id_/http%3A//runehq.com/privacy.php) for the most accurate reproduction.*
 
 # RuneHQ.com: Privacy Info
 
