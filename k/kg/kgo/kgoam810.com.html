@@ -1,82 +1,88 @@
-<!--The following is the downloaded HTML source of the kgoam810.com privacy policy that was archived on 2005-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051221174611id_/http%3A//kgoam810.com/article.asp%3Fid%3D49819) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kgoam810.com privacy policy that was archived on 2006-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060618043416id_/http%3A//www.kgoam810.com/article.asp%3Fid%3D49819) for the most accurate reproduction.-->
 
-<html><head><script language="JAVASCRIPT" src="/jsfiles/incDynamicMenus.htm"></script><style type="text/css"><!--
-.MainNav {font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: bold;text-transform: uppercase;color: #001763;	text-decoration: none;	text-align: right;}
-.MainNavHover {font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: bold;color: #AE46D9;text-decoration: none;text-align: right;}
-.SubMenu {font-family: Tahoma, Verdana, Arial;font-size: 10px;font-weight: bold;text-transform: uppercase;color: #0C3783;background-color: #FDFDD3;padding-top: 2px;padding-right: 3px;padding-bottom: 2px;padding-left: 3px;}
-.SubMenuHover {font-family: Tahoma, Verdana, Arial;font-size: 10px;font-weight: bold;text-transform: uppercase;color: #FFFFFF;background-color: #0C3783;padding-top: 2px;padding-right: 3px;padding-bottom: 2px;padding-left: 3px;}
-//--></style>
+<html><head><script language="javascript">
+	function getOnAirHeightSize()
+	{
+		if (document.images['onAirImage'].height>74)
+			document.images['onAirImage'].height=74
+	}
+</script>
+
+<script language="JAVASCRIPT" src="/jsfiles/incDynamicMenus.js"></script><script language="JAVASCRIPT" src="/jsfiles/incDynamicMenusLogic.js"></script>
 
 <script language="JAVASCRIPT" type="text/JavaScript">
 /************************************
  BUILD THE DATA ARRAYS FOR THE MENUS
 ************************************/
 // Menu Item Object
-function objMenuItem(sHTML, sURL) {
+function objMenuItem(sHTML, sURL, sTarget) {
+	if (sTarget == null) sTarget = "";
+
 	this.sHTML = sHTML;
 	this.sURL = sURL;
+	this.sTarget = sTarget;
 }
-// Create the Menu Arrays
+// Create the Menu Arrays 
+//****NOTE: ***** if you are using incMenuArrayScheduled.asp use subBuildScheduledMenuArrays() instead
 var aryMenu1 = new Array();
-aryMenu1[0] = new objMenuItem('personalities','/complexpersonalities.asp');
-aryMenu1[1] = new objMenuItem('programming','/complexprogramming.asp');
-aryMenu1[2] = new objMenuItem('features','/coupons.asp');
-aryMenu1[3] = new objMenuItem('news','/sectional.asp?id=2428');
-aryMenu1[4] = new objMenuItem('contests','/sectional.asp?id=2539');
-aryMenu1[5] = new objMenuItem('events/community','/sectional.asp?id=3243');
-aryMenu1[6] = new objMenuItem('listener services','/stationinfo.asp');
+aryMenu1[0] = new objMenuItem('personalities','/complexpersonalities.asp','');
+aryMenu1[1] = new objMenuItem('programming','/complexprogramming.asp','');
+aryMenu1[2] = new objMenuItem('features','/coupons.asp','');
+aryMenu1[3] = new objMenuItem('news','/sectional.asp?id=2428','');
+aryMenu1[4] = new objMenuItem('contests','/sectional.asp?id=2539','');
+aryMenu1[5] = new objMenuItem('events/community','/sectional.asp?id=3243','');
+aryMenu1[6] = new objMenuItem('listener services','/stationinfo.asp','');
 var aryMenu1_1 = new Array();
-aryMenu1_1[0] = new objMenuItem('Archives','/Article.asp?PT=Archive&id=49920');
-aryMenu1_1[1] = new objMenuItem('E-Mail KGO','/Article.asp?id=73851');
-aryMenu1_1[2] = new objMenuItem('Ed\'s Mailbox','/djadditionalinformation.asp?djid=3571');
-aryMenu1_1[3] = new objMenuItem('Hear The Mayors','/Article.asp?id=87141');
-aryMenu1_1[4] = new objMenuItem('Host Forum','Article.asp?id=146977');
-aryMenu1_1[5] = new objMenuItem('Len Tillem Answers','/Article.asp?id=52526');
-aryMenu1_1[6] = new objMenuItem('Listen Live','/listenlive.asp');
-aryMenu1_1[7] = new objMenuItem('Personalities','/complexpersonalities.asp');
-aryMenu1_1[8] = new objMenuItem('Photo Gallery','/sectional.asp?id=3770');
-aryMenu1_1[9] = new objMenuItem('Program Schedule','/complexprogramming.asp');
-aryMenu1_1[10] = new objMenuItem('Program Summaries','/programsummaries.asp');
-aryMenu1_1[11] = new objMenuItem('Upcoming Guests','/upcomingguests.asp');
+aryMenu1_1[0] = new objMenuItem('Archives','/Article.asp?PT=Archive&id=49920','');
+aryMenu1_1[1] = new objMenuItem('E-Mail KGO','/Article.asp?id=73851','');
+aryMenu1_1[2] = new objMenuItem('Ed\'s Mailbox','/djadditionalinformation.asp?djid=3571','');
+aryMenu1_1[3] = new objMenuItem('Hear The Mayors','/Article.asp?id=87141','');
+aryMenu1_1[4] = new objMenuItem('Host Forum','Article.asp?id=230519','');
+aryMenu1_1[5] = new objMenuItem('Len Tillem Answers','Article.asp?id=52526','');
+aryMenu1_1[6] = new objMenuItem('Listen Live','/listenlive.asp','');
+aryMenu1_1[7] = new objMenuItem('Personalities','/complexpersonalities.asp','');
+aryMenu1_1[8] = new objMenuItem('Photo Gallery','Article.asp?PT=Photo+Gallery&id=52445','');
+aryMenu1_1[9] = new objMenuItem('Program Schedule','/complexprogramming.asp','');
+aryMenu1_1[10] = new objMenuItem('Program Summaries','/programsummaries.asp','');
+aryMenu1_1[11] = new objMenuItem('Upcoming Guests','/upcomingguests.asp','');
 var aryMenu1_2 = new Array();
-aryMenu1_2[0] = new objMenuItem('Archives','/Article.asp?PT=Archive&id=49920');
-aryMenu1_2[1] = new objMenuItem('Listen Live','/listenlive.asp');
-aryMenu1_2[2] = new objMenuItem('Program Schedule','/complexprogramming.asp');
-aryMenu1_2[3] = new objMenuItem('Program Summaries','/programsummaries.asp');
-aryMenu1_2[4] = new objMenuItem('Upcoming Guests','upcomingguests.asp');
+aryMenu1_2[0] = new objMenuItem('Archives','/Article.asp?PT=Archive&id=49920','');
+aryMenu1_2[1] = new objMenuItem('Listen Live','/listenlive.asp','');
+aryMenu1_2[2] = new objMenuItem('Program Schedule','/complexprogramming.asp','');
+aryMenu1_2[3] = new objMenuItem('Program Summaries','/programsummaries.asp','');
+aryMenu1_2[4] = new objMenuItem('Upcoming Guests','upcomingguests.asp','');
 var aryMenu1_3 = new Array();
-aryMenu1_3[0] = new objMenuItem('Advertisers/Coupons','/coupons.asp');
-aryMenu1_3[1] = new objMenuItem('About This site','/stationinfo.asp');
-aryMenu1_3[2] = new objMenuItem('Editorials','/sectional.asp?id=4103');
-aryMenu1_3[3] = new objMenuItem('EEO','/EEO.asp');
-aryMenu1_3[4] = new objMenuItem('Home Buyers Guide','/bayareahomes.asp');
-aryMenu1_3[5] = new objMenuItem('Flight Tracker','http://www.kgoam810.com/frameset.asp?f=http://www.flightview.com/TravelTools/default.asp');
-aryMenu1_3[6] = new objMenuItem('Host Forum','Article.asp?id=154481');
-aryMenu1_3[7] = new objMenuItem('Jobs','/rcjobs.asp');
-aryMenu1_3[8] = new objMenuItem('KGO Shop','http://www.kgoam810.com/goout.asp?u=http://media.radcity.net/kgo/kgoshop/KGOShop.html');
-aryMenu1_3[9] = new objMenuItem('Legal Resource Center','http://kgo.lawinfo.com/');
-aryMenu1_3[10] = new objMenuItem('Radio Disney SuperTeacher Award','/Article.asp?id=52186');
-aryMenu1_3[11] = new objMenuItem('Recycling Facts','/Article.asp?id=52530');
+aryMenu1_3[0] = new objMenuItem('Advertisers/Coupons','/coupons.asp','');
+aryMenu1_3[1] = new objMenuItem('Editorials','/sectional.asp?id=4103','');
+aryMenu1_3[2] = new objMenuItem('EEO','/EEO.asp','');
+aryMenu1_3[3] = new objMenuItem('Home Buyers Guide','/bayareahomes.asp','');
+aryMenu1_3[4] = new objMenuItem('Flight Tracker','http://www.kgoam810.com/frameset.asp?f=http://www.flightview.com/TravelTools/default.asp','');
+aryMenu1_3[5] = new objMenuItem('Host Forum','Article.asp?id=154481','');
+aryMenu1_3[6] = new objMenuItem('Jobs','/rcjobs.asp','');
+aryMenu1_3[7] = new objMenuItem('Legal Resource Center','http://kgo.lawinfo.com/','');
+aryMenu1_3[8] = new objMenuItem('Radio Disney SuperTeacher Award','/Article.asp?id=52186','');
+aryMenu1_3[9] = new objMenuItem('Recycling Facts','/Article.asp?id=52530','');
 var aryMenu1_4 = new Array();
-aryMenu1_4[0] = new objMenuItem('Business','/Article.asp?id=85990');
-aryMenu1_4[1] = new objMenuItem('Cal','/goout.asp?u=http://calbears.ocsn.com/sports/m-footbl/cal-m-footbl-body.html');
-aryMenu1_4[2] = new objMenuItem('News','/sectional.asp?id=2428');
-aryMenu1_4[3] = new objMenuItem('Ski Reports','http://dyn.onthesnow.com/media/kgoam/kgoam/ski/');
-aryMenu1_4[4] = new objMenuItem('Traffic','http://www.kgoam810.com/frameset.asp?f=http://media.radcity.net/kgo/traffic.htm');
-aryMenu1_4[5] = new objMenuItem('Weather','/weather.asp');
+aryMenu1_4[0] = new objMenuItem('Business','/Article.asp?id=85990','');
+aryMenu1_4[1] = new objMenuItem('Cal','/goout.asp?u=http://calbears.ocsn.com/sports/m-footbl/cal-m-footbl-body.html','');
+aryMenu1_4[2] = new objMenuItem('News','/sectional.asp?id=2428','');
+aryMenu1_4[3] = new objMenuItem('News Tips - Contact us','Article.asp?id=220524','');
+aryMenu1_4[4] = new objMenuItem('Ski Reports','http://dyn.onthesnow.com/media/kgoam/kgoam/ski/','');
+aryMenu1_4[5] = new objMenuItem('Traffic','http://www.kgoam810.com/frameset.asp?f=http://media.radcity.net/kgo/traffic.htm','');
+aryMenu1_4[6] = new objMenuItem('Weather','/weather.asp','');
 var aryMenu1_5 = new Array();
-aryMenu1_5[0] = new objMenuItem('Contests','/sectional.asp?id=2539');
-aryMenu1_5[1] = new objMenuItem('Listener Club','/els/elsLoginFrm.asp');
-aryMenu1_5[2] = new objMenuItem('Rules','/Article.asp?id=51752');
-aryMenu1_5[3] = new objMenuItem('Shop-O-Ree','/sectional.asp?id=3892');
+aryMenu1_5[0] = new objMenuItem('Contests','/sectional.asp?id=2539','');
+aryMenu1_5[1] = new objMenuItem('Listener Club','/els/elsLoginFrm.asp','');
+aryMenu1_5[2] = new objMenuItem('Rules','/Article.asp?id=51752','');
+aryMenu1_5[3] = new objMenuItem('Shop-O-Ree','/sectional.asp?id=3892','');
 var aryMenu1_6 = new Array();
-aryMenu1_6[0] = new objMenuItem('COMMUNITY CALENDAR','/community/communitycalendar.asp');
-aryMenu1_6[1] = new objMenuItem('KGO COMMUNITY CORNER','/sectional.asp?id=4154');
-aryMenu1_6[2] = new objMenuItem('KGO EVENT CALENDAR','/sectional.asp?id=3243');
+aryMenu1_6[0] = new objMenuItem('COMMUNITY CALENDAR','/community/communitycalendar.asp','');
+aryMenu1_6[1] = new objMenuItem('KGO COMMUNITY CORNER','/sectional.asp?id=4154','');
+aryMenu1_6[2] = new objMenuItem('KGO EVENT CALENDAR','/sectional.asp?id=3243','');
 var aryMenu1_7 = new Array();
-aryMenu1_7[0] = new objMenuItem('Advertise on KGO','/advertiseonkgo.asp');
-aryMenu1_7[1] = new objMenuItem('Station Information','/stationinfo.asp');
+aryMenu1_7[0] = new objMenuItem('Advertise on KGO','/article.asp?id=51495','');
+aryMenu1_7[1] = new objMenuItem('Station Information','/article.asp?id=51541','');
 
 </script>
 
@@ -89,38 +95,44 @@ aryMenu1_7[1] = new objMenuItem('Station Information','/stationinfo.asp');
 <script src="http://an.tacoda.net/an/11728/slf.js" language="JavaScript"></script><script language="JavaScript">TCDA("cc=ntn; dt");</script>
 <title>KGO-AM 810 NewsTalk</title>
 <meta name="description" content="KGO-AM 810 NewsTalk, San Francisco sports events, contests, concerts, clubs and more!">
-<meta name="keywords" content="KGO-AM 810 NewsTalk, newstalk radio, 810, kgo 810, 810 am, kgo-am, news talk radio, radio, radio stations, San Francisco radio, San Francisco stations, news events, talk radio, news radio, contests, San Francisco contests, radio contests, dr. bill wattenburg, christine craft, kgo morning news, ronn owens, paul harvey, dr. dean edell, pete wilson, gene burns, bernie ward, ray taliaferro, joanie greggains, john hamilton, john rothman, bob brinker, len tillem, karel, michael finney">
+<meta name="keywords" content="KGO-AM 810 NewsTalk, newstalk radio, 810, kgo 810, 810 am, kgo-am, news talk radio, radio, radio stations, San Francisco radio, San Francisco stations, news events, talk radio, news radio, contests, San Francisco contests, radio contests, dr. bill wattenburg, christine craft, kgo morning news, ronn owens, paul harvey, dr. dean edell, pete wilson, gene burns, bernie ward, ray taliaferro, joanie greggains, john hamilton, john rothman, bob brinker, len tillem, karel, michael finney, Listener Club">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
 <link href="/stylesheets/sectional1.css" rel="stylesheet" type="text/css" id="sectional1">
 <link href="/stylesheets/article1.css" rel="stylesheet" type="text/css" id="article1">
 <link href="/stylesheets/weather.css" rel="stylesheet" type="text/css" id="weather">
 <link href="/udf/styles.css" rel="stylesheet" type="text/css" id="AllPagesStyles">
+<link href="/stylesheets/nav.css" rel="stylesheet" type="text/css" id="NavStyles">
 </head>
-<body onload="funPositionMenus();" class="Body"><div id="Layer1" style="position:absolute; left:50%; margin-left:-40px; width:300px; top:80px; height:19px; z-index:15; visibility: visible;"> 
+
+<body onload="funPositionMenus();getOnAirHeightSize();" class="Body"><div id="Layer1" style="position:absolute; left:50%; margin-left:-40px; width:300px; top:80px; height:19px; z-index:15; visibility: visible;"> 
   <table><tbody><tr><td><font class="text2"><a href="/article.asp?id=51526"><img src="/images/trans.gif" width="30" height="20" border="0"></a></font></td></tr></tbody></table>
 </div>
 
 <table width="940" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#00CC00">
   <tbody><tr> 
-    <td width="214" align="right" valign="top"><img src="/Images/advertisement-white.gif" width="16" height="89"></td>
-    <td width="728" align="right" valign="top"><a target="_blank" href="/ad/click.asp?adID=29226&amp;adRunID=39081"><img src="http://images.radcity.net/5151/1240353.jpg" border="0" alt="Ronn Owens"></a></td>
+      <td width="36" align="right" valign="top"><img src="/Images/advertisement-white.gif" width="16" height="89"></td>
+    <td width="728" align="right" valign="top">
+   <a target="_blank" href="/ad/click.asp?adID=29227&amp;adRunID=39082"><img src="http://images.radcity.net/5151/1240354.jpg" border="0" alt="Pete Wilson"></a> </td>
     <td rowspan="2" align="left" valign="top"><img src="/Images/advertisement-white.gif" width="16" height="89"></td>
     <td rowspan="2" align="left" valign="top">
-   	<a target="_blank" href="/ad/click.asp?adID=24239&amp;adRunID=33716"><img src="http://images.radcity.net/ads/ss/adc_disease_160x600.gif" border="0" alt=""></a>
-	<a href="/goout.asp?u=http://www.abcradio.com" target="_new"><img src="/images/abcradiocom_120.gif" border="0" alt="ABC Radio" width="160" height="70"></a>
- 
+   	<a target="_blank" href="/ad/click.asp?adID=36574&amp;adRunID=46899"><img src="http://images.radcity.net/5151/1456134.gif" border="0" alt="Spare The Air"></a>
+   	<a href="/goout.asp?u=http://www.abcradio.com" target="_new"><img src="/images/abcradiocom_120.gif" border="0" alt="ABC Radio" width="160" height="70"></a>
     </td>
   </tr>
+   
   <tr> 
     <td colspan="2" align="left" valign="top">
 <table width="764" height="190" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td class="cHeaderback"><table width="764" height="190" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
+         <tbody><tr> 
           <td width="225" rowspan="2" align="left" valign="top"><a href="/home.asp"><img src="/images/g_logo.gif" width="225" height="190" border="0" alt="Home"></a></td>
           
+			 
 	<script language="Javascript">
 	<!--
 	function ValidateKeyForm()
@@ -136,11 +148,14 @@ aryMenu1_7[1] = new objMenuItem('Station Information','/stationinfo.asp');
 	//-->
 	</script>
 <td colspan="2" align="right" valign="top" class="cKeywordback"><table width="200" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="right"><form method="get" action="/KeywordSearch.asp" name="formKeyForm" onsubmit="return ValidateKeyForm();"><input type="hidden" name="search" value="1"><input name="keyword" type="text" class="cKeywordInputField" size="17" style="background-color:transparent;"></form></td><td width="26"><input type="image" onmouseover="this.src='/images/g_keyword_button_on.gif'" onmouseout="this.src='/images/g_keyword_button_off.gif'" height="38" src="/images/g_keyword_button_off.gif" border="0"></td></tr></tbody></table></td>
+        
         </tr>
         <tr> 
-          
-          
+        <td>
+             
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr>
 <form action="/els/elsLoginPrc.asp" method="POST" name="elsNavLogin" id="els" onsubmit="return valNavLogin();"></form>
+
 <input type="hidden" value="" name="fldDestination">
 <input type="hidden" value="" name="Action">
  
@@ -201,58 +216,66 @@ function navPass()
 //-->
 </script>
 
+	 <table cellspacing="0" cellpadding="0" border="0">
+	 <tbody><tr><td valign="top">
+	  <table border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td width="66" align="left" valign="top" height="77"><a href="/complexshowdj.asp?DJID=13535"><img src="http://images.radcity.net/5151/299216.jpg" width="56" hspace="0" vspace="0" border="0" alt="Karel" class="cOnairphoto" name="onAirImage"></a></td>
+          <td width="170" align="left" valign="top" class="cOnairtext"><span class="cOnairlink"><a class="cOnairlink" href="/complexshowdj.asp?DJID=13535">Karel</a></span><br>
+             7:00pm - 10:00pm<br> <span class="cOnairlink"><a class="cOnairlink" href="mailto:showcomments@karelchannel.com"> Send E-Mail</a></span> </td>
+          <td align="left" valign="top" class="cOnairtext"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="top"><span class="cOnairlink">Dr. Bill Wattenburg</span></td></tr>
+			<tr><td class="cOnairlink">  10:00PM - 12:00AM</td></tr></tbody></table></td>
+        </tr>
+      </tbody></table>
+     </td></tr>
+     			 <tr><td valign="top">   <table width="349" border="0" cellspacing="0" cellpadding="0"> <tbody><tr><td align="right" valign="top"><a href="/listenlive.asp" onmouseover="document.sub_listen.src='/images/button_listen_on.gif'" onmouseout="document.sub_listen.src='/images/button_listen_off.gif'"><img src="/images/button_listen_off.gif" width="95" height="24" border="0" alt="LISTEN LIVE" name="sub_listen"></a><a href="/Article.asp?PT=Archive&amp;id=49920" onmouseover="document.sub_archive.src='/images/button_archive_on.gif'" onmouseout="document.sub_archive.src='/images/button_archive_off.gif'"><img src="/images/button_archive_off.gif" width="92" height="23" border="0" alt="ARCHIVE" name="sub_archive"></a></td>  </tr></tbody></table> </td></tr>
+   
+  
+     </tbody></table>
 	
-	<table border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td width="66" align="left" valign="top"><a href="/showdj.asp?DJID=3517"><img src="http://images.radcity.net/5151/74678.jpg" class="cOnairphoto" border="0" alt="Ronn Owens"></a></td>
-                <td width="170" align="left" valign="top" class="cOnairtext">                
-                <table border="0" width="90" cellpadding="0" cellspacing="0">
-                <tbody><tr><td><a class="cOnairlink" href="/showdj.asp?DJID=3517">Ronn Owens</a></td></tr></tbody></table>
-                  9:00am - 12:00pm<br>
-                 <a class="cOnairlink" href="mailto:EmailRonn@aol.com"> Send E-Mail </a>
-                </td><td align="left" valign="top" class="cOnairtext"><span class="cOnairlink">The Noon News</span><br>
-                  12:00PM - 12:45PM</td>
-              </tr>
-            </tbody></table> 
 
-            <table width="349" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td align="right" valign="bottom"><a href="/listenlive.asp" onmouseover="document.sub_listen.src='/images/button_listen_on.gif'" onmouseout="document.sub_listen.src='/images/button_listen_off.gif'"><img src="/images/button_listen_off.gif" width="95" height="24" border="0" alt="LISTEN LIVE" name="sub_listen"></a><a href="/Article.asp?PT=Archive&amp;id=49920" onmouseover="document.sub_archive.src='/images/button_archive_on.gif'" onmouseout="document.sub_archive.src='/images/button_archive_off.gif'"><img src="/images/button_archive_off.gif" width="92" height="23" border="0" alt="ARCHIVE" name="sub_archive"></a></td>
-              </tr>
-            </tbody></table></td>
+              
+        </td>
           <td align="left" valign="bottom" background="/images/art_weather_back.gif" class="cWeatherback"> 
             <table width="157" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
+              <tbody><tr> <td valign="top">
                 
-                <td align="left" valign="top" class="cWeathertext"><img src="http://www.radcity.net/weather/images/standard/AC-12.gif" width="26" height="26" border="0" alt="Light Rain" class="weatherPhoto">
+                </td><td align="left" valign="top" class="cWeathertext"><img src="http://www.radcity.net/weather/images/standard/AC-33.gif" width="26" height="26" border="0" alt="Clear" class="weatherPhoto">
 <br>
                   San Fran <br>
-                  56º<br>
+                  60º<br>
                   <a class="cWeatherlink" href="/weather1.asp#ANCH">Details</a></td>
                 <td width="1"><img src="/images/g_weather_divider.gif" width="1" height="70"></td>
 	 
 
-                <td align="left" valign="top" class="cWeathertext"><img src="http://www.radcity.net/weather/images/standard/AC-6.gif" width="26" height="26" border="0" alt="Mostly Cloudy" class="weatherPhoto">
+               
+               <td valign="top">
+      		 
+                </td><td align="left" valign="top" class="cWeathertext"><img src="http://www.radcity.net/weather/images/standard/AC-34.gif" width="26" height="26" border="0" alt="Mostly Clear" class="weatherPhoto">
 <br>
                   San Jose<br>
-                  60º<br>
+                  70º<br>
                   <a class="cWeatherlink" href="/weather.asp#ANCH">Details</a></td>
                 <td width="1"><img src="/images/g_weather_divider.gif" width="1" height="70"></td>
                 
 	 
 
+      		 
+      		 <td valign="top">
+      		 
 	 
 	 
-                <td align="left" valign="top" class="cWeathertext"><img src="http://www.radcity.net/weather/images/standard/AC-8.gif" width="26" height="26" border="0" alt="OVERCAST" class="weatherPhoto">
+                </td><td align="left" valign="top" class="cWeathertext"><img src="http://www.radcity.net/weather/images/standard/AC-33.gif" width="26" height="26" border="0" alt="Clear" class="weatherPhoto">
 <br>
                   Oakland <br>
-                  57º<br>
+                  62º<br>
                   <a class="cWeatherlink" href="/weather3.asp#ANCH">Details</a></td>
               
 	 
 	 
 	 
 
+      		 
               </tr>
             </tbody></table>
             <img src="/images/trans.gif" width="12" height="6"><a href="/goout.asp?u=http://media.radcity.net/kgo/traffic.htm"><img src="/images/button_traffic.gif" width="157" height="13" border="0" alt="KGO TRAFFIC"></a><img src="/images/trans.gif" width="12" height="12"></td>
@@ -279,137 +302,142 @@ function navPass()
 					// Function That Initiates the Menus
 					funCreateNavigation();
 					-->
-					</script><table id="table1" border="0" bordercolor="#000000" cellpadding="0" cellspacing="0" width="10"><tbody><tr><td width="10">
-<div id="div1_1" class="MainNav" onmouseover="funShowSub('1_1');" onmouseout="funDelayHideSub('1_1');" onclick="document.location='/complexpersonalities.asp';" style="cursor:pointer" width="10"><layer name="layer1_1" width="10"><img name="NavImg1_1" id="NavImg1_1" src="http://www.kgoam810.com/images/g_nav_personalities_off.gif" border="0"></layer></div>
-<div id="div1_2" class="MainNav" onmouseover="funShowSub('1_2');" onmouseout="funDelayHideSub('1_2');" onclick="document.location='/complexprogramming.asp';" style="cursor:pointer" width="10"><layer name="layer1_2" width="10"><img name="NavImg1_2" id="NavImg1_2" src="http://www.kgoam810.com/images/g_nav_programming_off.gif" border="0"></layer></div>
-<div id="div1_3" class="MainNav" onmouseover="funShowSub('1_3');" onmouseout="funDelayHideSub('1_3');" onclick="document.location='/coupons.asp';" style="cursor:pointer" width="10"><layer name="layer1_3" width="10"><img name="NavImg1_3" id="NavImg1_3" src="http://www.kgoam810.com/images/g_nav_features_off.gif" border="0"></layer></div>
-<div id="div1_4" class="MainNav" onmouseover="funShowSub('1_4');" onmouseout="funDelayHideSub('1_4');" onclick="document.location='/sectional.asp?id=2428';" style="cursor:pointer" width="10"><layer name="layer1_4" width="10"><img name="NavImg1_4" id="NavImg1_4" src="http://www.kgoam810.com/images/g_nav_news_off.gif" border="0"></layer></div>
-<div id="div1_5" class="MainNav" onmouseover="funShowSub('1_5');" onmouseout="funDelayHideSub('1_5');" onclick="document.location='/sectional.asp?id=2539';" style="cursor:pointer" width="10"><layer name="layer1_5" width="10"><img name="NavImg1_5" id="NavImg1_5" src="http://www.kgoam810.com/images/g_nav_contests_off.gif" border="0"></layer></div>
-<div id="div1_6" class="MainNav" onmouseover="funShowSub('1_6');" onmouseout="funDelayHideSub('1_6');" onclick="document.location='/sectional.asp?id=3243';" style="cursor:pointer" width="10"><layer name="layer1_6" width="10"><img name="NavImg1_6" id="NavImg1_6" src="http://www.kgoam810.com/images/g_nav_events_off.gif" border="0"></layer></div>
-<div id="div1_7" class="MainNav" onmouseover="funShowSub('1_7');" onmouseout="funDelayHideSub('1_7');" onclick="document.location='/stationinfo.asp';" style="cursor:pointer" width="10"><layer name="layer1_7" width="10"><img name="NavImg1_7" id="NavImg1_7" src="http://www.kgoam810.com/images/g_nav_listenerservices_off.gif" border="0"></layer></div>
+					</script><table id="table1" cellpadding="0" cellspacing="0" class="navMainNavTable"><tbody><tr>
+<td class="MainNavBG">
+<div id="div1_1" class="MainNav" onmouseover="funShowSub('1_1');" onmouseout="funDelayHideSub('1_1');" onclick="document.location='/complexpersonalities.asp';" style="cursor:pointer"><img name="NavImg1_1" id="NavImg1_1" src="https://web.archive.org/images/g_nav_personalities_off.gif" border="0"></div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_2" class="MainNav" onmouseover="funShowSub('1_2');" onmouseout="funDelayHideSub('1_2');" onclick="document.location='/complexprogramming.asp';" style="cursor:pointer"><img name="NavImg1_2" id="NavImg1_2" src="https://web.archive.org/images/g_nav_programming_off.gif" border="0"></div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3" class="MainNav" onmouseover="funShowSub('1_3');" onmouseout="funDelayHideSub('1_3');" onclick="document.location='/coupons.asp';" style="cursor:pointer"><img name="NavImg1_3" id="NavImg1_3" src="https://web.archive.org/images/g_nav_features_off.gif" border="0"></div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_4" class="MainNav" onmouseover="funShowSub('1_4');" onmouseout="funDelayHideSub('1_4');" onclick="document.location='/sectional.asp?id=2428';" style="cursor:pointer"><img name="NavImg1_4" id="NavImg1_4" src="https://web.archive.org/images/g_nav_news_off.gif" border="0"></div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_5" class="MainNav" onmouseover="funShowSub('1_5');" onmouseout="funDelayHideSub('1_5');" onclick="document.location='/sectional.asp?id=2539';" style="cursor:pointer"><img name="NavImg1_5" id="NavImg1_5" src="https://web.archive.org/images/g_nav_contests_off.gif" border="0"></div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_6" class="MainNav" onmouseover="funShowSub('1_6');" onmouseout="funDelayHideSub('1_6');" onclick="document.location='/sectional.asp?id=3243';" style="cursor:pointer"><img name="NavImg1_6" id="NavImg1_6" src="https://web.archive.org/images/g_nav_events_off.gif" border="0"></div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_7" class="MainNav" onmouseover="funShowSub('1_7');" onmouseout="funDelayHideSub('1_7');" onclick="document.location='/stationinfo.asp';" style="cursor:pointer"><img name="NavImg1_7" id="NavImg1_7" src="https://web.archive.org/images/g_nav_listenerservices_off.gif" border="0"></div>
 </td></tr></tbody></table>
 <style type="text/css"><!--
-#sub1_1 {position:absolute; width:130; z-index:1; visibility:hidden;}
+#sub1_1 {position:absolute; width:124.2; z-index:5001; visibility:hidden;}
 //--></style>
-<div id="sub1_1" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_1');" style="top: 344px; left: 289px;"><layer name="sub1_1" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_1');">
-<table id="table1_1" border="0" bordercolor="#666666" cellpadding="0" cellspacing="0" width="130"><tbody><tr><td>
-<div id="div1_1_2" class="SubMenu" width="130" onmouseover="funShowSub('1_1_2');" onmouseout="funDelayHideSub('1_1_2');" onclick="document.location='/Article.asp?PT=Archive&amp;id=49920';" style="cursor:pointer"><layer name="layer1_1_2" width="130">Archives</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_1_3" class="SubMenu" width="130" onmouseover="funShowSub('1_1_3');" onmouseout="funDelayHideSub('1_1_3');" onclick="document.location='/Article.asp?id=73851';" style="cursor:pointer"><layer name="layer1_1_3" width="130">E-Mail KGO</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_1_4" class="SubMenu" width="130" onmouseover="funShowSub('1_1_4');" onmouseout="funDelayHideSub('1_1_4');" onclick="document.location='/djadditionalinformation.asp?djid=3571';" style="cursor:pointer"><layer name="layer1_1_4" width="130">Ed's Mailbox</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_1_5" class="SubMenu" width="130" onmouseover="funShowSub('1_1_5');" onmouseout="funDelayHideSub('1_1_5');" onclick="document.location='/Article.asp?id=87141';" style="cursor:pointer"><layer name="layer1_1_5" width="130">Hear The Mayors</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_1_6" class="SubMenu" width="130" onmouseover="funShowSub('1_1_6');" onmouseout="funDelayHideSub('1_1_6');" onclick="document.location='Article.asp?id=146977';" style="cursor:pointer"><layer name="layer1_1_6" width="130">Host Forum</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_1_7" class="SubMenu" width="130" onmouseover="funShowSub('1_1_7');" onmouseout="funDelayHideSub('1_1_7');" onclick="document.location='/Article.asp?id=52526';" style="cursor:pointer"><layer name="layer1_1_7" width="130">Len Tillem Answers</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_1_8" class="SubMenu" width="130" onmouseover="funShowSub('1_1_8');" onmouseout="funDelayHideSub('1_1_8');" onclick="document.location='/listenlive.asp';" style="cursor:pointer"><layer name="layer1_1_8" width="130">Listen Live</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_1_9" class="SubMenu" width="130" onmouseover="funShowSub('1_1_9');" onmouseout="funDelayHideSub('1_1_9');" onclick="document.location='/complexpersonalities.asp';" style="cursor:pointer"><layer name="layer1_1_9" width="130">Personalities</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_1_10" class="SubMenu" width="130" onmouseover="funShowSub('1_1_10');" onmouseout="funDelayHideSub('1_1_10');" onclick="document.location='/sectional.asp?id=3770';" style="cursor:pointer"><layer name="layer1_1_10" width="130">Photo Gallery</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_1_11" class="SubMenu" width="130" onmouseover="funShowSub('1_1_11');" onmouseout="funDelayHideSub('1_1_11');" onclick="document.location='/complexprogramming.asp';" style="cursor:pointer"><layer name="layer1_1_11" width="130">Program Schedule</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_1_12" class="SubMenu" width="130" onmouseover="funShowSub('1_1_12');" onmouseout="funDelayHideSub('1_1_12');" onclick="document.location='/programsummaries.asp';" style="cursor:pointer"><layer name="layer1_1_12" width="130">Program Summaries</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_1_13" class="SubMenu" width="130" onmouseover="funShowSub('1_1_13');" onmouseout="funDelayHideSub('1_1_13');" onclick="document.location='/upcomingguests.asp';" style="cursor:pointer"><layer name="layer1_1_13" width="130">Upcoming Guests</layer></div>
+<div id="sub1_1" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_1');" style="top: 350px; left: 147px;"><layer name="sub1_1" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_1');">
+<table id="table1_1" class="SubMenuTable" cellpadding="0" cellspacing="0" width="124.2"><tbody><tr><td class="SubMenuBG">
+<div id="div1_1_2" class="SubMenu" width="124.2" onmouseover="funShowSub('1_1_2');" onmouseout="funDelayHideSub('1_1_2');" onclick="document.location='/Article.asp?PT=Archive&amp;id=49920';" style="cursor:pointer">Archives</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_3" class="SubMenu" width="124.2" onmouseover="funShowSub('1_1_3');" onmouseout="funDelayHideSub('1_1_3');" onclick="document.location='/Article.asp?id=73851';" style="cursor:pointer">E-Mail KGO</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_4" class="SubMenu" width="124.2" onmouseover="funShowSub('1_1_4');" onmouseout="funDelayHideSub('1_1_4');" onclick="document.location='/djadditionalinformation.asp?djid=3571';" style="cursor:pointer">Ed's Mailbox</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_5" class="SubMenu" width="124.2" onmouseover="funShowSub('1_1_5');" onmouseout="funDelayHideSub('1_1_5');" onclick="document.location='/Article.asp?id=87141';" style="cursor:pointer">Hear The Mayors</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_6" class="SubMenu" width="124.2" onmouseover="funShowSub('1_1_6');" onmouseout="funDelayHideSub('1_1_6');" onclick="document.location='Article.asp?id=230519';" style="cursor:pointer">Host Forum</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_7" class="SubMenu" width="124.2" onmouseover="funShowSub('1_1_7');" onmouseout="funDelayHideSub('1_1_7');" onclick="document.location='Article.asp?id=52526';" style="cursor:pointer">Len Tillem Answers</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_8" class="SubMenu" width="124.2" onmouseover="funShowSub('1_1_8');" onmouseout="funDelayHideSub('1_1_8');" onclick="document.location='/listenlive.asp';" style="cursor:pointer">Listen Live</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_9" class="SubMenu" width="124.2" onmouseover="funShowSub('1_1_9');" onmouseout="funDelayHideSub('1_1_9');" onclick="document.location='/complexpersonalities.asp';" style="cursor:pointer">Personalities</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_10" class="SubMenu" width="124.2" onmouseover="funShowSub('1_1_10');" onmouseout="funDelayHideSub('1_1_10');" onclick="document.location='Article.asp?PT=Photo+Gallery&amp;id=52445';" style="cursor:pointer">Photo Gallery</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_11" class="SubMenu" width="124.2" onmouseover="funShowSub('1_1_11');" onmouseout="funDelayHideSub('1_1_11');" onclick="document.location='/complexprogramming.asp';" style="cursor:pointer">Program Schedule</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_12" class="SubMenu" width="124.2" onmouseover="funShowSub('1_1_12');" onmouseout="funDelayHideSub('1_1_12');" onclick="document.location='/programsummaries.asp';" style="cursor:pointer">Program Summaries</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_1_13" class="SubMenu" width="124.2" onmouseover="funShowSub('1_1_13');" onmouseout="funDelayHideSub('1_1_13');" onclick="document.location='/upcomingguests.asp';" style="cursor:pointer">Upcoming Guests</div>
 </td></tr></tbody></table></layer></div>
 <style type="text/css"><!--
-#sub1_2 {position:absolute; width:130; z-index:1; visibility:hidden;}
+#sub1_2 {position:absolute; width:117.30000000000001; z-index:5001; visibility:hidden;}
 //--></style>
-<div id="sub1_2" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_2');" style="top: 360px; left: 289px;"><layer name="sub1_2" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_2');">
-<table id="table1_2" border="0" bordercolor="#666666" cellpadding="0" cellspacing="0" width="130"><tbody><tr><td>
-<div id="div1_2_2" class="SubMenu" width="130" onmouseover="funShowSub('1_2_2');" onmouseout="funDelayHideSub('1_2_2');" onclick="document.location='/Article.asp?PT=Archive&amp;id=49920';" style="cursor:pointer"><layer name="layer1_2_2" width="130">Archives</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_2_3" class="SubMenu" width="130" onmouseover="funShowSub('1_2_3');" onmouseout="funDelayHideSub('1_2_3');" onclick="document.location='/listenlive.asp';" style="cursor:pointer"><layer name="layer1_2_3" width="130">Listen Live</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_2_4" class="SubMenu" width="130" onmouseover="funShowSub('1_2_4');" onmouseout="funDelayHideSub('1_2_4');" onclick="document.location='/complexprogramming.asp';" style="cursor:pointer"><layer name="layer1_2_4" width="130">Program Schedule</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_2_5" class="SubMenu" width="130" onmouseover="funShowSub('1_2_5');" onmouseout="funDelayHideSub('1_2_5');" onclick="document.location='/programsummaries.asp';" style="cursor:pointer"><layer name="layer1_2_5" width="130">Program Summaries</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_2_6" class="SubMenu" width="130" onmouseover="funShowSub('1_2_6');" onmouseout="funDelayHideSub('1_2_6');" onclick="document.location='upcomingguests.asp';" style="cursor:pointer"><layer name="layer1_2_6" width="130">Upcoming Guests</layer></div>
+<div id="sub1_2" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_2');" style="top: 367px; left: 147px;"><layer name="sub1_2" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_2');">
+<table id="table1_2" class="SubMenuTable" cellpadding="0" cellspacing="0" width="117.30000000000001"><tbody><tr><td class="SubMenuBG">
+<div id="div1_2_2" class="SubMenu" width="117.30000000000001" onmouseover="funShowSub('1_2_2');" onmouseout="funDelayHideSub('1_2_2');" onclick="document.location='/Article.asp?PT=Archive&amp;id=49920';" style="cursor:pointer">Archives</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_2_3" class="SubMenu" width="117.30000000000001" onmouseover="funShowSub('1_2_3');" onmouseout="funDelayHideSub('1_2_3');" onclick="document.location='/listenlive.asp';" style="cursor:pointer">Listen Live</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_2_4" class="SubMenu" width="117.30000000000001" onmouseover="funShowSub('1_2_4');" onmouseout="funDelayHideSub('1_2_4');" onclick="document.location='/complexprogramming.asp';" style="cursor:pointer">Program Schedule</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_2_5" class="SubMenu" width="117.30000000000001" onmouseover="funShowSub('1_2_5');" onmouseout="funDelayHideSub('1_2_5');" onclick="document.location='/programsummaries.asp';" style="cursor:pointer">Program Summaries</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_2_6" class="SubMenu" width="117.30000000000001" onmouseover="funShowSub('1_2_6');" onmouseout="funDelayHideSub('1_2_6');" onclick="document.location='upcomingguests.asp';" style="cursor:pointer">Upcoming Guests</div>
 </td></tr></tbody></table></layer></div>
 <style type="text/css"><!--
-#sub1_3 {position:absolute; width:130; z-index:1; visibility:hidden;}
+#sub1_3 {position:absolute; width:200; z-index:5001; visibility:hidden;}
 //--></style>
-<div id="sub1_3" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_3');" style="top: 376px; left: 289px;"><layer name="sub1_3" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_3');">
-<table id="table1_3" border="0" bordercolor="#666666" cellpadding="0" cellspacing="0" width="130"><tbody><tr><td>
-<div id="div1_3_2" class="SubMenu" width="130" onmouseover="funShowSub('1_3_2');" onmouseout="funDelayHideSub('1_3_2');" onclick="document.location='/coupons.asp';" style="cursor:pointer"><layer name="layer1_3_2" width="130">Advertisers/Coupons</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_3_3" class="SubMenu" width="130" onmouseover="funShowSub('1_3_3');" onmouseout="funDelayHideSub('1_3_3');" onclick="document.location='/stationinfo.asp';" style="cursor:pointer"><layer name="layer1_3_3" width="130">About This site</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_3_4" class="SubMenu" width="130" onmouseover="funShowSub('1_3_4');" onmouseout="funDelayHideSub('1_3_4');" onclick="document.location='/sectional.asp?id=4103';" style="cursor:pointer"><layer name="layer1_3_4" width="130">Editorials</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_3_5" class="SubMenu" width="130" onmouseover="funShowSub('1_3_5');" onmouseout="funDelayHideSub('1_3_5');" onclick="document.location='/EEO.asp';" style="cursor:pointer"><layer name="layer1_3_5" width="130">EEO</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_3_6" class="SubMenu" width="130" onmouseover="funShowSub('1_3_6');" onmouseout="funDelayHideSub('1_3_6');" onclick="document.location='/bayareahomes.asp';" style="cursor:pointer"><layer name="layer1_3_6" width="130">Home Buyers Guide</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_3_7" class="SubMenu" width="130" onmouseover="funShowSub('1_3_7');" onmouseout="funDelayHideSub('1_3_7');" onclick="document.location='http://www.kgoam810.com/frameset.asp?f=http://www.flightview.com/TravelTools/default.asp';" style="cursor:pointer"><layer name="layer1_3_7" width="130">Flight Tracker</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_3_8" class="SubMenu" width="130" onmouseover="funShowSub('1_3_8');" onmouseout="funDelayHideSub('1_3_8');" onclick="document.location='Article.asp?id=154481';" style="cursor:pointer"><layer name="layer1_3_8" width="130">Host Forum</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_3_9" class="SubMenu" width="130" onmouseover="funShowSub('1_3_9');" onmouseout="funDelayHideSub('1_3_9');" onclick="document.location='/rcjobs.asp';" style="cursor:pointer"><layer name="layer1_3_9" width="130">Jobs</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_3_10" class="SubMenu" width="130" onmouseover="funShowSub('1_3_10');" onmouseout="funDelayHideSub('1_3_10');" onclick="document.location='http://www.kgoam810.com/goout.asp?u=http://media.radcity.net/kgo/kgoshop/KGOShop.html';" style="cursor:pointer"><layer name="layer1_3_10" width="130">KGO Shop</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_3_11" class="SubMenu" width="130" onmouseover="funShowSub('1_3_11');" onmouseout="funDelayHideSub('1_3_11');" onclick="document.location='http://kgo.lawinfo.com/';" style="cursor:pointer"><layer name="layer1_3_11" width="130">Legal Resource Center</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_3_12" class="SubMenu" width="130" onmouseover="funShowSub('1_3_12');" onmouseout="funDelayHideSub('1_3_12');" onclick="document.location='/Article.asp?id=52186';" style="cursor:pointer"><layer name="layer1_3_12" width="130">Radio Disney SuperTeacher Award</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_3_13" class="SubMenu" width="130" onmouseover="funShowSub('1_3_13');" onmouseout="funDelayHideSub('1_3_13');" onclick="document.location='/Article.asp?id=52530';" style="cursor:pointer"><layer name="layer1_3_13" width="130">Recycling Facts</layer></div>
+<div id="sub1_3" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_3');" style="top: 384px; left: 147px;"><layer name="sub1_3" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_3');">
+<table id="table1_3" class="SubMenuTable" cellpadding="0" cellspacing="0" width="200"><tbody><tr><td class="SubMenuBG">
+<div id="div1_3_2" class="SubMenu" width="200" onmouseover="funShowSub('1_3_2');" onmouseout="funDelayHideSub('1_3_2');" onclick="document.location='/coupons.asp';" style="cursor:pointer">Advertisers/Coupons</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3_3" class="SubMenu" width="200" onmouseover="funShowSub('1_3_3');" onmouseout="funDelayHideSub('1_3_3');" onclick="document.location='/sectional.asp?id=4103';" style="cursor:pointer">Editorials</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3_4" class="SubMenu" width="200" onmouseover="funShowSub('1_3_4');" onmouseout="funDelayHideSub('1_3_4');" onclick="document.location='/EEO.asp';" style="cursor:pointer">EEO</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3_5" class="SubMenu" width="200" onmouseover="funShowSub('1_3_5');" onmouseout="funDelayHideSub('1_3_5');" onclick="document.location='/bayareahomes.asp';" style="cursor:pointer">Home Buyers Guide</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3_6" class="SubMenu" width="200" onmouseover="funShowSub('1_3_6');" onmouseout="funDelayHideSub('1_3_6');" onclick="document.location='http://www.kgoam810.com/frameset.asp?f=http://www.flightview.com/TravelTools/default.asp';" style="cursor:pointer">Flight Tracker</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3_7" class="SubMenu" width="200" onmouseover="funShowSub('1_3_7');" onmouseout="funDelayHideSub('1_3_7');" onclick="document.location='Article.asp?id=154481';" style="cursor:pointer">Host Forum</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3_8" class="SubMenu" width="200" onmouseover="funShowSub('1_3_8');" onmouseout="funDelayHideSub('1_3_8');" onclick="document.location='/rcjobs.asp';" style="cursor:pointer">Jobs</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3_9" class="SubMenu" width="200" onmouseover="funShowSub('1_3_9');" onmouseout="funDelayHideSub('1_3_9');" onclick="document.location='http://kgo.lawinfo.com/';" style="cursor:pointer">Legal Resource Center</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3_10" class="SubMenu" width="200" onmouseover="funShowSub('1_3_10');" onmouseout="funDelayHideSub('1_3_10');" onclick="document.location='/Article.asp?id=52186';" style="cursor:pointer">Radio Disney SuperTeacher Award</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3_11" class="SubMenu" width="200" onmouseover="funShowSub('1_3_11');" onmouseout="funDelayHideSub('1_3_11');" onclick="document.location='/Article.asp?id=52530';" style="cursor:pointer">Recycling Facts</div>
 </td></tr></tbody></table></layer></div>
 <style type="text/css"><!--
-#sub1_4 {position:absolute; width:130; z-index:1; visibility:hidden;}
+#sub1_4 {position:absolute; width:151.8; z-index:5001; visibility:hidden;}
 //--></style>
-<div id="sub1_4" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_4');" style="top: 392px; left: 289px;"><layer name="sub1_4" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_4');">
-<table id="table1_4" border="0" bordercolor="#666666" cellpadding="0" cellspacing="0" width="130"><tbody><tr><td>
-<div id="div1_4_2" class="SubMenu" width="130" onmouseover="funShowSub('1_4_2');" onmouseout="funDelayHideSub('1_4_2');" onclick="document.location='/Article.asp?id=85990';" style="cursor:pointer"><layer name="layer1_4_2" width="130">Business</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_4_3" class="SubMenu" width="130" onmouseover="funShowSub('1_4_3');" onmouseout="funDelayHideSub('1_4_3');" onclick="document.location='/goout.asp?u=http://calbears.ocsn.com/sports/m-footbl/cal-m-footbl-body.html';" style="cursor:pointer"><layer name="layer1_4_3" width="130">Cal</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_4_4" class="SubMenu" width="130" onmouseover="funShowSub('1_4_4');" onmouseout="funDelayHideSub('1_4_4');" onclick="document.location='/sectional.asp?id=2428';" style="cursor:pointer"><layer name="layer1_4_4" width="130">News</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_4_5" class="SubMenu" width="130" onmouseover="funShowSub('1_4_5');" onmouseout="funDelayHideSub('1_4_5');" onclick="document.location='http://dyn.onthesnow.com/media/kgoam/kgoam/ski/';" style="cursor:pointer"><layer name="layer1_4_5" width="130">Ski Reports</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_4_6" class="SubMenu" width="130" onmouseover="funShowSub('1_4_6');" onmouseout="funDelayHideSub('1_4_6');" onclick="document.location='http://www.kgoam810.com/frameset.asp?f=http://media.radcity.net/kgo/traffic.htm';" style="cursor:pointer"><layer name="layer1_4_6" width="130">Traffic</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_4_7" class="SubMenu" width="130" onmouseover="funShowSub('1_4_7');" onmouseout="funDelayHideSub('1_4_7');" onclick="document.location='/weather.asp';" style="cursor:pointer"><layer name="layer1_4_7" width="130">Weather</layer></div>
+<div id="sub1_4" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_4');" style="top: 401px; left: 147px;"><layer name="sub1_4" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_4');">
+<table id="table1_4" class="SubMenuTable" cellpadding="0" cellspacing="0" width="151.8"><tbody><tr><td class="SubMenuBG">
+<div id="div1_4_2" class="SubMenu" width="151.8" onmouseover="funShowSub('1_4_2');" onmouseout="funDelayHideSub('1_4_2');" onclick="document.location='/Article.asp?id=85990';" style="cursor:pointer">Business</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_4_3" class="SubMenu" width="151.8" onmouseover="funShowSub('1_4_3');" onmouseout="funDelayHideSub('1_4_3');" onclick="document.location='/goout.asp?u=http://calbears.ocsn.com/sports/m-footbl/cal-m-footbl-body.html';" style="cursor:pointer">Cal</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_4_4" class="SubMenu" width="151.8" onmouseover="funShowSub('1_4_4');" onmouseout="funDelayHideSub('1_4_4');" onclick="document.location='/sectional.asp?id=2428';" style="cursor:pointer">News</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_4_5" class="SubMenu" width="151.8" onmouseover="funShowSub('1_4_5');" onmouseout="funDelayHideSub('1_4_5');" onclick="document.location='Article.asp?id=220524';" style="cursor:pointer">News Tips - Contact us</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_4_6" class="SubMenu" width="151.8" onmouseover="funShowSub('1_4_6');" onmouseout="funDelayHideSub('1_4_6');" onclick="document.location='http://dyn.onthesnow.com/media/kgoam/kgoam/ski/';" style="cursor:pointer">Ski Reports</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_4_7" class="SubMenu" width="151.8" onmouseover="funShowSub('1_4_7');" onmouseout="funDelayHideSub('1_4_7');" onclick="document.location='http://www.kgoam810.com/frameset.asp?f=http://media.radcity.net/kgo/traffic.htm';" style="cursor:pointer">Traffic</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_4_8" class="SubMenu" width="151.8" onmouseover="funShowSub('1_4_8');" onmouseout="funDelayHideSub('1_4_8');" onclick="document.location='/weather.asp';" style="cursor:pointer">Weather</div>
 </td></tr></tbody></table></layer></div>
 <style type="text/css"><!--
-#sub1_5 {position:absolute; width:130; z-index:1; visibility:hidden;}
+#sub1_5 {position:absolute; width:89.7; z-index:5001; visibility:hidden;}
 //--></style>
-<div id="sub1_5" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_5');" style="top: 408px; left: 289px;"><layer name="sub1_5" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_5');">
-<table id="table1_5" border="0" bordercolor="#666666" cellpadding="0" cellspacing="0" width="130"><tbody><tr><td>
-<div id="div1_5_2" class="SubMenu" width="130" onmouseover="funShowSub('1_5_2');" onmouseout="funDelayHideSub('1_5_2');" onclick="document.location='/sectional.asp?id=2539';" style="cursor:pointer"><layer name="layer1_5_2" width="130">Contests</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_5_3" class="SubMenu" width="130" onmouseover="funShowSub('1_5_3');" onmouseout="funDelayHideSub('1_5_3');" onclick="document.location='/els/elsLoginFrm.asp';" style="cursor:pointer"><layer name="layer1_5_3" width="130">Listener Club</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_5_4" class="SubMenu" width="130" onmouseover="funShowSub('1_5_4');" onmouseout="funDelayHideSub('1_5_4');" onclick="document.location='/Article.asp?id=51752';" style="cursor:pointer"><layer name="layer1_5_4" width="130">Rules</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_5_5" class="SubMenu" width="130" onmouseover="funShowSub('1_5_5');" onmouseout="funDelayHideSub('1_5_5');" onclick="document.location='/sectional.asp?id=3892';" style="cursor:pointer"><layer name="layer1_5_5" width="130">Shop-O-Ree</layer></div>
+<div id="sub1_5" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_5');" style="top: 418px; left: 147px;"><layer name="sub1_5" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_5');">
+<table id="table1_5" class="SubMenuTable" cellpadding="0" cellspacing="0" width="89.7"><tbody><tr><td class="SubMenuBG">
+<div id="div1_5_2" class="SubMenu" width="89.7" onmouseover="funShowSub('1_5_2');" onmouseout="funDelayHideSub('1_5_2');" onclick="document.location='/sectional.asp?id=2539';" style="cursor:pointer">Contests</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_5_3" class="SubMenu" width="89.7" onmouseover="funShowSub('1_5_3');" onmouseout="funDelayHideSub('1_5_3');" onclick="document.location='/els/elsLoginFrm.asp';" style="cursor:pointer">Listener Club</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_5_4" class="SubMenu" width="89.7" onmouseover="funShowSub('1_5_4');" onmouseout="funDelayHideSub('1_5_4');" onclick="document.location='/Article.asp?id=51752';" style="cursor:pointer">Rules</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_5_5" class="SubMenu" width="89.7" onmouseover="funShowSub('1_5_5');" onmouseout="funDelayHideSub('1_5_5');" onclick="document.location='/sectional.asp?id=3892';" style="cursor:pointer">Shop-O-Ree</div>
 </td></tr></tbody></table></layer></div>
 <style type="text/css"><!--
-#sub1_6 {position:absolute; width:130; z-index:1; visibility:hidden;}
+#sub1_6 {position:absolute; width:138; z-index:5001; visibility:hidden;}
 //--></style>
-<div id="sub1_6" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_6');" style="top: 424px; left: 289px;"><layer name="sub1_6" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_6');">
-<table id="table1_6" border="0" bordercolor="#666666" cellpadding="0" cellspacing="0" width="130"><tbody><tr><td>
-<div id="div1_6_2" class="SubMenu" width="130" onmouseover="funShowSub('1_6_2');" onmouseout="funDelayHideSub('1_6_2');" onclick="document.location='/community/communitycalendar.asp';" style="cursor:pointer"><layer name="layer1_6_2" width="130">COMMUNITY CALENDAR</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_6_3" class="SubMenu" width="130" onmouseover="funShowSub('1_6_3');" onmouseout="funDelayHideSub('1_6_3');" onclick="document.location='/sectional.asp?id=4154';" style="cursor:pointer"><layer name="layer1_6_3" width="130">KGO COMMUNITY CORNER</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_6_4" class="SubMenu" width="130" onmouseover="funShowSub('1_6_4');" onmouseout="funDelayHideSub('1_6_4');" onclick="document.location='/sectional.asp?id=3243';" style="cursor:pointer"><layer name="layer1_6_4" width="130">KGO EVENT CALENDAR</layer></div>
+<div id="sub1_6" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_6');" style="top: 435px; left: 147px;"><layer name="sub1_6" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_6');">
+<table id="table1_6" class="SubMenuTable" cellpadding="0" cellspacing="0" width="138"><tbody><tr><td class="SubMenuBG">
+<div id="div1_6_2" class="SubMenu" width="138" onmouseover="funShowSub('1_6_2');" onmouseout="funDelayHideSub('1_6_2');" onclick="document.location='/community/communitycalendar.asp';" style="cursor:pointer">COMMUNITY CALENDAR</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_6_3" class="SubMenu" width="138" onmouseover="funShowSub('1_6_3');" onmouseout="funDelayHideSub('1_6_3');" onclick="document.location='/sectional.asp?id=4154';" style="cursor:pointer">KGO COMMUNITY CORNER</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_6_4" class="SubMenu" width="138" onmouseover="funShowSub('1_6_4');" onmouseout="funDelayHideSub('1_6_4');" onclick="document.location='/sectional.asp?id=3243';" style="cursor:pointer">KGO EVENT CALENDAR</div>
 </td></tr></tbody></table></layer></div>
 <style type="text/css"><!--
-#sub1_7 {position:absolute; width:130; z-index:1; visibility:hidden;}
+#sub1_7 {position:absolute; width:131.1; z-index:5001; visibility:hidden;}
 //--></style>
-<div id="sub1_7" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_7');" style="top: 440px; left: 289px;"><layer name="sub1_7" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_7');">
-<table id="table1_7" border="0" bordercolor="#666666" cellpadding="0" cellspacing="0" width="130"><tbody><tr><td>
-<div id="div1_7_2" class="SubMenu" width="130" onmouseover="funShowSub('1_7_2');" onmouseout="funDelayHideSub('1_7_2');" onclick="document.location='/advertiseonkgo.asp';" style="cursor:pointer"><layer name="layer1_7_2" width="130">Advertise on KGO</layer></div>
-<div style="background-color:#FFFFFF"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
-<div id="div1_7_3" class="SubMenu" width="130" onmouseover="funShowSub('1_7_3');" onmouseout="funDelayHideSub('1_7_3');" onclick="document.location='/stationinfo.asp';" style="cursor:pointer"><layer name="layer1_7_3" width="130">Station Information</layer></div>
+<div id="sub1_7" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_7');" style="top: 452px; left: 147px;"><layer name="sub1_7" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_7');">
+<table id="table1_7" class="SubMenuTable" cellpadding="0" cellspacing="0" width="131.1"><tbody><tr><td class="SubMenuBG">
+<div id="div1_7_2" class="SubMenu" width="131.1" onmouseover="funShowSub('1_7_2');" onmouseout="funDelayHideSub('1_7_2');" onclick="document.location='/article.asp?id=51495';" style="cursor:pointer">Advertise on KGO</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_7_3" class="SubMenu" width="131.1" onmouseover="funShowSub('1_7_3');" onmouseout="funDelayHideSub('1_7_3');" onclick="document.location='/article.asp?id=51541';" style="cursor:pointer">Station Information</div>
 </td></tr></tbody></table></layer></div>
 <noscript><a href="/complexpersonalities.asp">personalities</a><br>
 <a href="/complexprogramming.asp">programming</a><br>
@@ -422,11 +450,11 @@ function navPass()
 <a href="/Article.asp?id=73851">E-Mail KGO</a><br>
 <a href="/djadditionalinformation.asp?djid=3571">Ed's Mailbox</a><br>
 <a href="/Article.asp?id=87141">Hear The Mayors</a><br>
-<a href="Article.asp?id=146977">Host Forum</a><br>
-<a href="/Article.asp?id=52526">Len Tillem Answers</a><br>
+<a href="Article.asp?id=230519">Host Forum</a><br>
+<a href="Article.asp?id=52526">Len Tillem Answers</a><br>
 <a href="/listenlive.asp">Listen Live</a><br>
 <a href="/complexpersonalities.asp">Personalities</a><br>
-<a href="/sectional.asp?id=3770">Photo Gallery</a><br>
+<a href="Article.asp?PT=Photo+Gallery&id=52445">Photo Gallery</a><br>
 <a href="/complexprogramming.asp">Program Schedule</a><br>
 <a href="/programsummaries.asp">Program Summaries</a><br>
 <a href="/upcomingguests.asp">Upcoming Guests</a><br>
@@ -436,20 +464,19 @@ function navPass()
 <a href="/programsummaries.asp">Program Summaries</a><br>
 <a href="upcomingguests.asp">Upcoming Guests</a><br>
 <a href="/coupons.asp">Advertisers/Coupons</a><br>
-<a href="/stationinfo.asp">About This site</a><br>
 <a href="/sectional.asp?id=4103">Editorials</a><br>
 <a href="/EEO.asp">EEO</a><br>
 <a href="/bayareahomes.asp">Home Buyers Guide</a><br>
 <a href="http://www.kgoam810.com/frameset.asp?f=http://www.flightview.com/TravelTools/default.asp">Flight Tracker</a><br>
 <a href="Article.asp?id=154481">Host Forum</a><br>
 <a href="/rcjobs.asp">Jobs</a><br>
-<a href="http://www.kgoam810.com/goout.asp?u=http://media.radcity.net/kgo/kgoshop/KGOShop.html">KGO Shop</a><br>
 <a href="http://kgo.lawinfo.com/">Legal Resource Center</a><br>
 <a href="/Article.asp?id=52186">Radio Disney SuperTeacher Award</a><br>
 <a href="/Article.asp?id=52530">Recycling Facts</a><br>
 <a href="/Article.asp?id=85990">Business</a><br>
 <a href="/goout.asp?u=http://calbears.ocsn.com/sports/m-footbl/cal-m-footbl-body.html">Cal</a><br>
 <a href="/sectional.asp?id=2428">News</a><br>
+<a href="Article.asp?id=220524">News Tips - Contact us</a><br>
 <a href="http://dyn.onthesnow.com/media/kgoam/kgoam/ski/">Ski Reports</a><br>
 <a href="http://www.kgoam810.com/frameset.asp?f=http://media.radcity.net/kgo/traffic.htm">Traffic</a><br>
 <a href="/weather.asp">Weather</a><br>
@@ -460,8 +487,8 @@ function navPass()
 <a href="/community/communitycalendar.asp">COMMUNITY CALENDAR</a><br>
 <a href="/sectional.asp?id=4154">KGO COMMUNITY CORNER</a><br>
 <a href="/sectional.asp?id=3243">KGO EVENT CALENDAR</a><br>
-<a href="/advertiseonkgo.asp">Advertise on KGO</a><br>
-<a href="/stationinfo.asp">Station Information</a><br>
+<a href="/article.asp?id=51495">Advertise on KGO</a><br>
+<a href="/article.asp?id=51541">Station Information</a><br>
 </noscript>
 				</td>
               </tr>
@@ -478,15 +505,16 @@ function navPass()
               <tr> 
                 <td colspan="2" align="right" valign="top">
                      <br>
+                     
 	<table width="135" border="0" cellspacing="0" cellpadding="2">
 		<tbody><tr>
                 <td class="cOursponsortext">
 					 
 			 
-					<a target="_blank" href="/ad/click.asp?adID=29224&amp;adRunID=39079"><img src="http://images.radcity.net/5151/1240088.jpg" border="0" alt="American Red Cross"></a>
-<a target="_blank" href="/ad/click.asp?adID=18382&amp;adRunID=25884"><img src="http://images.radcity.net/5151/835330.gif" border="0" alt="Mancini's Sleepworld"></a>
-<a target="_blank" href="/ad/click.asp?adID=26587&amp;adRunID=36327"><img src="http://images.radcity.net/5151/1142223.jpg" border="0" alt="Moskowitz, Nixdorf &amp; Ciu LLP"></a>
-<a target="_blank" href="/ad/click.asp?adID=23387&amp;adRunID=31168"><img src="http://images.radcity.net/5151/1034683.jpg" border="0" alt="Terramar Financial"></a>
+					<a target="_blank" href="/ad/click.asp?adID=35147&amp;adRunID=45400"><img src="http://images.radcity.net/5152/1333991.jpg" border="0" alt="Window Broker"></a>
+<a target="_blank" href="/ad/click.asp?adID=30990&amp;adRunID=40953"><img src="http://images.radcity.net/5151/891822.jpg" border="0" alt="Toyota 101"></a>
+<a target="_blank" href="/ad/click.asp?adID=35883&amp;adRunID=46167"><img src="http://images.radcity.net/5151/1435060.jpg" border="0" alt="American Cancer Society"></a>
+<a target="_blank" href="/ad/click.asp?adID=18372&amp;adRunID=25874"><img src="http://images.radcity.net/5151/902303.jpg" border="0" alt="Baby Super"></a>
 
 				</td>
 					</tr>
@@ -495,16 +523,15 @@ function navPass()
                 </td>
               </tr>
             </tbody></table></td>
-          <td width="479" rowspan="2" align="left" valign="top" background="/images/art_contentback.gif" bgcolor="#FFFFFF">
-          <table width="479" border="0" cellspacing="0" cellpadding="0">
+          <td width="468" rowspan="2" align="left" valign="top" background="/images/art_contentback.gif">
+          <table width="468" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr> 
-                <td width="6" rowspan="2"><img src="/images/art1_ad_left.gif" width="6" height="87"></td>                
-                <td height="65" align="center" bgcolor="#000000">                
+                <td width="6" rowspan="2"><img src="/images/art1_ad_left.gif" width="6"></td>                
+                <td align="center" bgcolor="#7493c2">                
                 <table width="468" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
                 <td><table border="0" align="center" cellpadding="0" cellspacing="0">
                     <tbody><tr> 
-                      <td width="13" align="left" valign="top"><img src="/images/art_ticker_left.gif" width="13" height="19"></td>
                       <td align="left" valign="bottom"> 
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="370" height="18" id="ticker_fl" align="middle">
                           <param name="allowScriptAccess" value=" always">
@@ -515,18 +542,15 @@ function navPass()
                           <param name="bgcolor" value="#7493c2">
                           <embed src="http://abcnews.go.com/flash/ticker/ticker_fl.swf" quality="high" bgcolor="#7493c2" width="370" height="18" name="ticker_fl" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object>
 </td>
-                      <td width="13" align="left" valign="top"><img src="/images/art_ticker_right.gif" width="13" height="19"></td>
                     </tr>
                   </tbody></table></td>
               </tr>
-              <tr>
-                <td><a target="_blank" href="/ad/click.asp?adID=26841&amp;adRunID=36590"><img src="http://images.radcity.net/5151/1152405.gif" border="0" alt="Forever Lawn Inc."></a></td>
-              </tr>
+             
             </tbody></table>
                  </td>
         </tr>
         <tr> 
-          <td height="3" align="left" valign="top"><img src="/images/art1_ad_bottom.gif" width="473" height="3"></td>
+          <td height="3" align="left" valign="top" bgcolor="#ACB66B"><img src="/images/trans.gif" width="469" height="3"></td>
         </tr>
       </tbody></table>
       <table width="479" border="0" cellspacing="0" cellpadding="0">
@@ -560,7 +584,8 @@ function navPass()
                     </tr>
                   </tbody></table>
 
-              <table width="454" border="0" cellspacing="0" cellpadding="0">
+              <table border="0" cellspacing="0" cellpadding="0">
+            
               <tbody><tr> 
                 <td align="left" valign="top"><a href="/emailthispage.asp" onmouseover="document.sub_emailthispage.src='/images/g_button_emailthispage_on.gif'" onmouseout="document.sub_emailthispage.src='/images/g_button_emailthispage_off.gif'"><img src="/images/g_button_emailthispage_off.gif" width="152" height="22" border="0" alt="EMAIL THIS PAGE TO A FRIEND" name="sub_emailthispage"></a><a href="javascript:window.print()" onmouseover="document.sub_printhtispage.src='/images/g_button_printhtispage_on.gif'" onmouseout="document.sub_printhtispage.src='/images/g_button_printhtispage_off.gif'"><img src="/images/g_button_printhtispage_off.gif" name="sub_printhtispage" width="109" height="22" border="0" alt="PRINT THIS PAGE"></a><a href="/article.asp?id=49710" onmouseover="document.sub_phonenumbers.src='/images/g_button_phonenumbers_on.gif'" onmouseout="document.sub_phonenumbers.src='/images/g_button_phonenumbers_off.gif'"><img src="/images/g_button_phonenumbers_off.gif" width="119" height="22" border="0" alt="ON-AIR PHONE NUMBER" name="sub_phonenumbers"></a></td>
               </tr>
@@ -578,21 +603,40 @@ function navPass()
               <tr> 
                 <td width="2" align="left" valign="top" background="/images/g_abcnews_leftback.gif"><img src="/images/trans.gif" width="2" height="2"><img src="/images/trans.gif" width="2" height="2"></td>
                 <td width="447" height="135" align="center" valign="top" class="cHeadlinescontentback"> 
-                  <table width="435" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="50%" align="left" valign="top"><a class="csecHeadline" href="http://abcnews.go.com/Entertainment/story?id=1428837&amp;CMP=OTC-RSSFeeds0312" target="_blank">SIR ELTON GETS MARRIED</a><br><span class="csecText">Pop star wed his partner of 11 years, legitimizing britain's most famous gay couple</span><br><img src="/images/trans.gif" width="5" height="5"><br></td><td><img src="/images/trans.gif" width="15" height="10"></td><td width="50%" align="left" valign="top"><a class="csecHeadline" href="http://abcnews.go.com/Sports/wireStory?id=1428716&amp;CMP=OTC-RSSFeeds0312" target="_blank">PUERTA BANNED FOR EIGHT YEARS FOR DOPING</a><br><span class="csecText">Argentine tennis player mariano puerta is banned for eight years for doping</span><br><img src="/images/trans.gif" width="5" height="5"><br></td></tr><tr><td width="50%" align="left" valign="top"><a class="csecHeadline" href="http://abcnews.go.com/Politics/wireStory?id=1428853&amp;CMP=OTC-RSSFeeds0312" target="_blank">JUDGE RESIGNS OVER SECRET SURVEILLANCE</a><br><span class="csecText">Judge resigns from intelligence court apparently in protest to secret domestic surveillance program</span><br><img src="/images/trans.gif" width="5" height="5"><br></td><td><img src="/images/trans.gif" width="15" height="10"></td><td width="50%" align="left" valign="top"><a class="csecHeadline" href="http://abcnews.go.com/US/wireStory?id=1428884&amp;CMP=OTC-RSSFeeds0312" target="_blank">NYC TRANSIT STRIKE SLOWS CITY FOR SECOND DAY</a><br><span class="csecText">Nyc enters its second day of a transit strike as new court hearing is set for 9:30 a.m. et</span><br><img src="/images/trans.gif" width="5" height="5"><br></td></tr><tr><td width="50%" align="left" valign="top"><a class="csecHeadline" href="http://abcnews.go.com/International/wireStory?id=1428386&amp;CMP=OTC-RSSFeeds0312" target="_blank">WITNESS RECOUNTS TORTURE BY SADDAM REGIME</a><br><span class="csecText">Saddam hussein's trial resumes; witness recounts grisly details of torture, killing by regime</span><br><img src="/images/trans.gif" width="5" height="5"><br></td><td><img src="/images/trans.gif" width="15" height="10"></td><td width="50%" align="left" valign="top"><a class="csecHeadline" href="http://abcnews.go.com/GMA/Technology/story?id=1426348&amp;CMP=OTC-RSSFeeds0312" target="_blank">EVERYONE WILL NEED ONE BY 2009</a><br><span class="csecText">If senate approves bill, all tvs must be digital or have digital converter by 2009</span><br><img src="/images/trans.gif" width="5" height="5"><br></td></tr><tr><td width="50%" align="left" valign="top"></td></tr></tbody></table></td>
+                  <table width="435" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="50%" align="left" valign="top"><a class="csecHeadline" href="http://abcnews.go.com/Sports/wireStory?id=2089588&amp;CMP=OTC-RSSFeeds0312" target="_blank">EDMONTON FORCES GAME 7 IN STANLEY CUP</a><br><span class="csecText">Down 3-1 in series, edmonton beats carolina 4-0 to force game 7 of stanley cup finals</span><br><img src="/images/trans.gif" width="5" height="5"><br></td><td><img src="/images/trans.gif" width="15" height="10"></td><td width="50%" align="left" valign="top"><a class="csecHeadline" href="http://abcnews.go.com/Technology/wireStory?id=2089521&amp;CMP=OTC-RSSFeeds0312" target="_blank">ENCRYPTION CAN SAVE DATA IN LAPTOP LAPSES</a><br><span class="csecText">Encryption and security policies are simple tools to reduce risks of data thefts from laptops</span><br><img src="/images/trans.gif" width="5" height="5"><br></td></tr><tr><td width="50%" align="left" valign="top"><a class="csecHeadline" href="http://abcnews.go.com/US/wireStory?id=2089485&amp;CMP=OTC-RSSFeeds0312" target="_blank">5 TEENS DIE IN NEW ORLEANS SHOOTING</a><br><span class="csecText">5 teens killed in shooting on new orleans street; most violent crime reported since katrina</span><br><img src="/images/trans.gif" width="5" height="5"><br></td><td><img src="/images/trans.gif" width="15" height="10"></td><td width="50%" align="left" valign="top"><a class="csecHeadline" href="http://abcnews.go.com/US/wireStory?id=2089605&amp;CMP=OTC-RSSFeeds0312" target="_blank">2 HURT AFTER 500-FOOT FALL OFF MOUNT HOOD</a><br><span class="csecText">2 climbers seriously injured after falling 500 feet off oregon mountain; 3rd climber walks away</span><br><img src="/images/trans.gif" width="5" height="5"><br></td></tr><tr><td width="50%" align="left" valign="top"><a class="csecHeadline" href="http://abcnews.go.com/International/wireStory?id=2089364&amp;CMP=OTC-RSSFeeds0312" target="_blank">OVER 2 DOZEN KILLED DESPITE IRAQ SECURITY</a><br><span class="csecText">String of blasts by insurgents kills at least 27 in baghdad despite move to boost security</span><br><img src="/images/trans.gif" width="5" height="5"><br></td><td><img src="/images/trans.gif" width="15" height="10"></td><td width="50%" align="left" valign="top"><a class="csecHeadline" href="http://abcnews.go.com/US/wireStory?id=2089369&amp;CMP=OTC-RSSFeeds0312" target="_blank">5 TEENS DIE IN BIG EASY STREET SHOOTING</a><br><span class="csecText">5 teens killed in shooting on new orleans street; most violent crime reported since katrina</span><br><img src="/images/trans.gif" width="5" height="5"><br></td></tr><tr><td width="50%" align="left" valign="top"><a class="csecHeadline" href="http://abcnews.go.com/WNT/Science/story?id=2088932&amp;page=1&amp;CMP=OTC-RSSFeeds0312" target="_blank">SPACE SHUTTLE A GO FOR JULY 1 LAUNCH</a><br><span class="csecText">Despite dissent, officials apparently decide importance of mission outweighs risk</span><br><img src="/images/trans.gif" width="5" height="5"><br></td><td><img src="/images/trans.gif" width="15" height="10"></td><td width="50%" align="left" valign="top"><a class="csecHeadline" href="http://abcnews.go.com/International/wireStory?id=2089577&amp;CMP=OTC-RSSFeeds0312" target="_blank">2 U.S. TROOPS SOUGHT AMID ABDUCTION REPORT</a><br><span class="csecText">U.s. troops search for soldiers in 'triangle of death' south of baghdad; paper reports abduction</span><br><img src="/images/trans.gif" width="5" height="5"><br></td></tr><tr><td width="50%" align="left" valign="top"></td></tr></tbody></table></td>
                 <td width="5" align="left" valign="top" background="/images/g_abcnews_rightback.gif"><img src="/images/trans.gif" width="5" height="5"></td>
               </tr>
               <tr> 
                 <td colspan="3" align="left" valign="top"><img src="/images/g_abcheadlines_bottom.gif" width="454" height="7"></td>
               </tr>
             </tbody></table>
+             
                   <table width="454" border="0" cellspacing="0" cellpadding="0">
+                    
                     <tbody><tr> 
                       <td align="left" valign="top"><img src="/images/trans.gif" width="10" height="10"></td>
                     </tr>
+              
                   </tbody></table></td>
               </tr>
-            </tbody></table></td>
-          <td align="left" valign="top" class="cRightback"><table width="145" border="0" cellspacing="0" cellpadding="0">
+            </tbody></table>
+			          
+            <table cellspacing="0" cellpadding="0" border="0">
+                   <tbody><tr>
+                <td><a target="_blank" href="/ad/click.asp?adID=30989&amp;adRunID=40952"><img src="http://images.radcity.net/5151/891823.jpg" border="0" alt="Toyota 101"></a></td>
+              </tr>
+                  
+                    <tr> 
+                      <td align="left" valign="top"><img src="/images/trans.gif" width="10" height="10"></td>
+                    </tr>
+            </tbody></table>
+                      
+           
+          
+            </td>
+          <td align="left" valign="top" class="cRightback">
+          
+          <table width="145" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr> 
                 <td><a href="/coupons.asp" onmouseover="document.sub_5.src='/images/g_button_advertisers_on.gif'" onmouseout="document.sub_5.src='/images/g_button_advertisers_off.gif'"><img src="/images/g_button_advertisers_off.gif" width="145" height="47" alt="KGO ADVERTISERS" border="0" name="sub_5"></a></td>
               </tr>
@@ -611,6 +655,7 @@ function goMain() {
 </td>
               </tr>
             </tbody></table>
+              
             <table width="147" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr> 
                 <td class="cStocksback">
@@ -639,7 +684,8 @@ function goMain() {
         </tr>
         <tr><form action="/home.asp" method="post" target="_top" id="siteIndexForm" name="siteIndexForm"></form> 
           <td align="right" valign="bottom" class="cRightback">
-          	<select name="u" class="cgSiteIndex" onchange="submit();"><option>Site Index</option><option value="/complexpersonalities.asp">personalities</option><option value="/Article.asp?PT=Archive&amp;id=49920">&nbsp;&nbsp;&nbsp;&nbsp;• Archives</option><option value="/Article.asp?id=73851">&nbsp;&nbsp;&nbsp;&nbsp;• E-Mail KGO</option><option value="/djadditionalinformation.asp?djid=3571">&nbsp;&nbsp;&nbsp;&nbsp;• Ed's Mailbox</option><option value="/Article.asp?id=87141">&nbsp;&nbsp;&nbsp;&nbsp;• Hear The Mayors</option><option value="Article.asp?id=146977">&nbsp;&nbsp;&nbsp;&nbsp;• Host Forum</option><option value="/Article.asp?id=52526">&nbsp;&nbsp;&nbsp;&nbsp;• Len Tillem Answers</option><option value="/listenlive.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Listen Live</option><option value="/complexpersonalities.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Personalities</option><option value="/sectional.asp?id=3770">&nbsp;&nbsp;&nbsp;&nbsp;• Photo Gallery</option><option value="/complexprogramming.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Program Schedule</option><option value="/programsummaries.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Program Summaries</option><option value="/upcomingguests.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Upcoming Guests</option><option value="/complexprogramming.asp">programming</option><option value="/Article.asp?PT=Archive&amp;id=49920">&nbsp;&nbsp;&nbsp;&nbsp;• Archives</option><option value="/listenlive.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Listen Live</option><option value="/complexprogramming.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Program Schedule</option><option value="/programsummaries.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Program Summaries</option><option value="upcomingguests.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Upcoming Guests</option><option value="/coupons.asp">features</option><option value="/coupons.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Advertisers/Coupons</option><option value="/stationinfo.asp">&nbsp;&nbsp;&nbsp;&nbsp;• About This site</option><option value="/sectional.asp?id=4103">&nbsp;&nbsp;&nbsp;&nbsp;• Editorials</option><option value="/EEO.asp">&nbsp;&nbsp;&nbsp;&nbsp;• EEO</option><option value="/bayareahomes.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Home Buyers Guide</option><option value="http://www.kgoam810.com/frameset.asp?f=http://www.flightview.com/TravelTools/default.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Flight Tracker</option><option value="Article.asp?id=154481">&nbsp;&nbsp;&nbsp;&nbsp;• Host Forum</option><option value="/rcjobs.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Jobs</option><option value="http://www.kgoam810.com/goout.asp?u=http://media.radcity.net/kgo/kgoshop/KGOShop.html">&nbsp;&nbsp;&nbsp;&nbsp;• KGO Shop</option><option value="http://kgo.lawinfo.com/">&nbsp;&nbsp;&nbsp;&nbsp;• Legal Resource Center</option><option value="/Article.asp?id=52186">&nbsp;&nbsp;&nbsp;&nbsp;• Radio Disney SuperTeacher Award</option><option value="/Article.asp?id=52530">&nbsp;&nbsp;&nbsp;&nbsp;• Recycling Facts</option><option value="/sectional.asp?id=2428">news</option><option value="/Article.asp?id=85990">&nbsp;&nbsp;&nbsp;&nbsp;• Business</option><option value="/goout.asp?u=http://calbears.ocsn.com/sports/m-footbl/cal-m-footbl-body.html">&nbsp;&nbsp;&nbsp;&nbsp;• Cal</option><option value="/sectional.asp?id=2428">&nbsp;&nbsp;&nbsp;&nbsp;• News</option><option value="http://dyn.onthesnow.com/media/kgoam/kgoam/ski/">&nbsp;&nbsp;&nbsp;&nbsp;• Ski Reports</option><option value="http://www.kgoam810.com/frameset.asp?f=http://media.radcity.net/kgo/traffic.htm">&nbsp;&nbsp;&nbsp;&nbsp;• Traffic</option><option value="/weather.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Weather</option><option value="/sectional.asp?id=2539">contests</option><option value="/sectional.asp?id=2539">&nbsp;&nbsp;&nbsp;&nbsp;• Contests</option><option value="/els/elsLoginFrm.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Listener Club</option><option value="/Article.asp?id=51752">&nbsp;&nbsp;&nbsp;&nbsp;• Rules</option><option value="/sectional.asp?id=3892">&nbsp;&nbsp;&nbsp;&nbsp;• Shop-O-Ree</option><option value="/sectional.asp?id=3243">events/community</option><option value="/community/communitycalendar.asp">&nbsp;&nbsp;&nbsp;&nbsp;• COMMUNITY CALENDAR</option><option value="/sectional.asp?id=4154">&nbsp;&nbsp;&nbsp;&nbsp;• KGO COMMUNITY CORNER</option><option value="/sectional.asp?id=3243">&nbsp;&nbsp;&nbsp;&nbsp;• KGO EVENT CALENDAR</option><option value="/stationinfo.asp">listener services</option><option value="/advertiseonkgo.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Advertise on KGO</option><option value="/stationinfo.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Station Information</option></select>
+          	<table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+<td><select name="u" class="cgSiteIndex" onchange="submit();"><option>Site Index</option><option value="/complexpersonalities.asp">personalities</option><option value="/Article.asp?PT=Archive&amp;id=49920">&nbsp;&nbsp;&nbsp;&nbsp;• Archives</option><option value="/Article.asp?id=73851">&nbsp;&nbsp;&nbsp;&nbsp;• E-Mail KGO</option><option value="/djadditionalinformation.asp?djid=3571">&nbsp;&nbsp;&nbsp;&nbsp;• Ed's Mailbox</option><option value="/Article.asp?id=87141">&nbsp;&nbsp;&nbsp;&nbsp;• Hear The Mayors</option><option value="Article.asp?id=230519">&nbsp;&nbsp;&nbsp;&nbsp;• Host Forum</option><option value="Article.asp?id=52526">&nbsp;&nbsp;&nbsp;&nbsp;• Len Tillem Answers</option><option value="/listenlive.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Listen Live</option><option value="/complexpersonalities.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Personalities</option><option value="Article.asp?PT=Photo+Gallery&amp;id=52445">&nbsp;&nbsp;&nbsp;&nbsp;• Photo Gallery</option><option value="/complexprogramming.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Program Schedule</option><option value="/programsummaries.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Program Summaries</option><option value="/upcomingguests.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Upcoming Guests</option><option value="/complexprogramming.asp">programming</option><option value="/Article.asp?PT=Archive&amp;id=49920">&nbsp;&nbsp;&nbsp;&nbsp;• Archives</option><option value="/listenlive.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Listen Live</option><option value="/complexprogramming.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Program Schedule</option><option value="/programsummaries.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Program Summaries</option><option value="upcomingguests.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Upcoming Guests</option><option value="/coupons.asp">features</option><option value="/coupons.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Advertisers/Coupons</option><option value="/sectional.asp?id=4103">&nbsp;&nbsp;&nbsp;&nbsp;• Editorials</option><option value="/EEO.asp">&nbsp;&nbsp;&nbsp;&nbsp;• EEO</option><option value="/bayareahomes.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Home Buyers Guide</option><option value="http://www.kgoam810.com/frameset.asp?f=http://www.flightview.com/TravelTools/default.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Flight Tracker</option><option value="Article.asp?id=154481">&nbsp;&nbsp;&nbsp;&nbsp;• Host Forum</option><option value="/rcjobs.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Jobs</option><option value="http://kgo.lawinfo.com/">&nbsp;&nbsp;&nbsp;&nbsp;• Legal Resource Center</option><option value="/Article.asp?id=52186">&nbsp;&nbsp;&nbsp;&nbsp;• Radio Disney SuperTeacher Award</option><option value="/Article.asp?id=52530">&nbsp;&nbsp;&nbsp;&nbsp;• Recycling Facts</option><option value="/sectional.asp?id=2428">news</option><option value="/Article.asp?id=85990">&nbsp;&nbsp;&nbsp;&nbsp;• Business</option><option value="/goout.asp?u=http://calbears.ocsn.com/sports/m-footbl/cal-m-footbl-body.html">&nbsp;&nbsp;&nbsp;&nbsp;• Cal</option><option value="/sectional.asp?id=2428">&nbsp;&nbsp;&nbsp;&nbsp;• News</option><option value="Article.asp?id=220524">&nbsp;&nbsp;&nbsp;&nbsp;• News Tips - Contact us</option><option value="http://dyn.onthesnow.com/media/kgoam/kgoam/ski/">&nbsp;&nbsp;&nbsp;&nbsp;• Ski Reports</option><option value="http://www.kgoam810.com/frameset.asp?f=http://media.radcity.net/kgo/traffic.htm">&nbsp;&nbsp;&nbsp;&nbsp;• Traffic</option><option value="/weather.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Weather</option><option value="/sectional.asp?id=2539">contests</option><option value="/sectional.asp?id=2539">&nbsp;&nbsp;&nbsp;&nbsp;• Contests</option><option value="/els/elsLoginFrm.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Listener Club</option><option value="/Article.asp?id=51752">&nbsp;&nbsp;&nbsp;&nbsp;• Rules</option><option value="/sectional.asp?id=3892">&nbsp;&nbsp;&nbsp;&nbsp;• Shop-O-Ree</option><option value="/sectional.asp?id=3243">events/community</option><option value="/community/communitycalendar.asp">&nbsp;&nbsp;&nbsp;&nbsp;• COMMUNITY CALENDAR</option><option value="/sectional.asp?id=4154">&nbsp;&nbsp;&nbsp;&nbsp;• KGO COMMUNITY CORNER</option><option value="/sectional.asp?id=3243">&nbsp;&nbsp;&nbsp;&nbsp;• KGO EVENT CALENDAR</option><option value="/stationinfo.asp">listener services</option><option value="/article.asp?id=51495">&nbsp;&nbsp;&nbsp;&nbsp;• Advertise on KGO</option><option value="/article.asp?id=51541">&nbsp;&nbsp;&nbsp;&nbsp;• Station Information</option><option value="/aboutthissite.asp">About This Site</option></select></td></tr></tbody></table>
           </td>
         </tr>
       </tbody></table></td>
@@ -651,8 +697,8 @@ function goMain() {
       <table width="764" height="58" border="0" align="center" cellpadding="0" cellspacing="0">
         <tbody><tr> </tr>
         <tr> 
-          <td width="366" align="left" valign="top"><img src="/images/art_bottom_logo.gif" width="366" height="39"></td>
-          	<td align="left" valign="top" class="cartCopyrightback"><span class="Copyright">Copyright © 2005 ABC Radio Incorporated and <a class="Copyright" href="Javascript:displayNotice();">MediaSpan</a><br><a class="Copyright" target="_blank" href="http://www.mediaspanonline.com/poweredby/default.asp?d=www.kgoam810.com">Powered by MediaSpan Online</a><script language="Javascript">
+          <td width="366" align="left" valign="top" bgcolor="#2B6EB3"><img src="/images/art_bottom_logo.gif" width="366" height="39"></td>
+          	<td align="left" valign="top" class="cartCopyrightback"><span class="Copyright">Copyright © 2006 ABC Radio Incorporated and <a class="Copyright" href="Javascript:displayNotice();">MediaSpan</a><br><a class="Copyright" target="_blank" href="http://www.mediaspanonline.com/poweredby/default.asp?d=www.kgoam810.com">Powered by MediaSpan Online</a><script language="Javascript">
 <!--
 function displayNotice() {
 	noteWin = window.open("http://mediaspanonline.com/PopUpCopyrightNotice.asp?d=www.kgoam810.com", "noteWindow", "location=no,status=no,toolbar=no,menubar=no,width=520,height=500,scrollbars=yes,resizable=yes");
@@ -662,10 +708,12 @@ function displayNotice() {
 </script></span><br><span class="CopyrightLink"><a class="CopyrightLink" href="/article.asp?id=49820">TERMS OF USE</a><img src="/images/trans.gif" width="10" height="5"><a class="CopyrightLink" href="/article.asp?id=49819">Privacy Policy / Your California Privacy Rights</a></span></td>
 	<!--include file="incStatTags.txt"-->
 	
-        </tr>
+           </tr>
       </tbody></table></td>
   </tr>
 </tbody></table>
-</td></tr></tbody></table>
+</td>
+</tr>
+</tbody></table>
 
-</body></html>
+</td></tr></tbody></table></body></html>
