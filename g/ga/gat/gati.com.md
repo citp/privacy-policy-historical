@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gati.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229063535id_/http%3A//www.gati.com/Privacy_Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gati.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618020101id_/http%3A//gati.com/Privacy_Policy.jsp) for the most accurate reproduction.*
 
 # G A T I --> Privacy Policy
 
