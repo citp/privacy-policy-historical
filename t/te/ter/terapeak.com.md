@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218031516id_/http%3A//terapeak.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618083303id_/http%3A//terapeak.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Terapeak: eBay Marketplace Research
 
