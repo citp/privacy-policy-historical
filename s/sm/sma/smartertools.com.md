@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the smartertools.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231205652id_/http%3A//smartertools.com/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartertools.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618212920id_/http%3A//www.smartertools.com/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# SmarterTools Inc. Privacy Policy
+# SmarterTools Inc.
 
 * * *
 
 This privacy policy has been created to show the integrity of SmarterTools and its level of commitment to the privacy of customer and non-customer information.
 
-SmarterTools does not, has not, and does not intend to release any customer information to any third-parties. All information collected by SmarterTools is used solely for internal purposes (marketing, informational notices, etc.).
+SmarterTools does not release any identifying personal information about our customers apart from license verification, validation and upgrade services to registered partners of SmarterTools. All personal information collected by SmarterTools is used solely for internal purposes (marketing, informational notices, etc.).
 
-Our postal address is:  
+Our postal address is:
+
 SmarterTools Inc.  
-6135 N 7th Street  
-Phoenix, AZ 85014
+1903 W. Parkside Lane  
+Suite 106  
+Phoenix, AZ 85027
 
 We can be reached via e-mail at [ sales@smartertools.com](mailto:sales@smartertools.com) or you can reach us toll-free by telephone at 877.357.6278
 
@@ -25,6 +27,6 @@ With respect to Ad Servers: We do not partner with or have special relationships
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access or correct this information by sending an email to [ sales@smartertools.com](mailto:sales@smartertools.com).
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a security icon that appears in the visitor's browser. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site 
+With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a security icon that appears in the visitor's browser. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site. 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
