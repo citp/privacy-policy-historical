@@ -1,10 +1,41 @@
-> *The following text is extracted and transformed from the movavi.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215110213id_/http%3A//movavi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movavi.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618032228id_/http%3A//movavi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **MOVAVI.COM: PRIVACY POLICY**
 
 At MOVAVI, your security and privacy is of the utmost importance to us. We take the following steps to protect your personal information: 
+
+**INFORMATION COLLECTED**
+
+MOVAVI collects information provided by you by the following methods on this website; 
+
+  * **Subscription to MOVAVI email newsletter**
+
+By opting to receive this communication, MOVAVI will send you regular emails containing relevant product information, product upgrade information, and any special offers that we think may be relevant to you. 
+
+If at any time you wish to unsubscribe from these communications, please follow the unsubscribe information contained in the emails, or email privacy@movavi.com with your request to be removed from our mailing list. 
+
+  * **Trial software download form**
+
+By downloading any trial software from this website, MOVAVI reserves the right to request information from you. 
+
+If you do NOT wish to be contacted by MOVAVI after the trial download, then you can opt-out of any subsequent communications on the trial download page. In this case MOVAVI will keep your information on record but will not contact you unless you have another interaction with us where you change your communication preference. 
+
+If you do wish to be contacted by MOVAVI after the trial download, then MOVAVI will send you emails relating to upgrade information about that product, and any other information that is relevant to that trial download. If at any time you wish to unsubscribe from these communications, please follow the unsubscribe information contained in the emails, or email privacy@movavi.com with your request to be removed from our mailing list. 
+
+  * **Order process**
+
+Credit card information in encrypted during the ordering process and is deleted as soon as your order is completed. All other personal information (name, address and product ordered) is held to assist delivery of goods (if applicable), and product registration. 
+
+During the order process you have the opportunity to opt-in to receive email communications from MOVAVI. 
+
+If you do not want to be contacted, MOVAVI will keep your information on record but will not contact you unless you have another interaction with us where you change your communication preference. 
+
+If you do wish to be contacted, MOVAVI will send you emails relating to upgrade information about that product, and any other information that is relevant to that trial download. If at any time you wish to unsubscribe from these communications, please follow the unsubscribe information contained in the emails, or email privacy@movavi.com with your request to be removed from our mailing list. 
+
+
+
 
 **PERSONAL INFORMATION**
 
