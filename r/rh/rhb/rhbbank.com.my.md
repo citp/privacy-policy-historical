@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhbbank.com.my privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218020301id_/http%3A//rhbbank.com.my/generalinfo/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhbbank.com.my privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618132529id_/http%3A//rhbbank.com.my/generalinfo/privacy.shtm) for the most accurate reproduction.*
 
 # RHB BANK > Privacy
 
