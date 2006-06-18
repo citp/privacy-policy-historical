@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206172119id_/http%3A//wbal.com/about/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618055755id_/http%3A//www.wbal.com/privacy.asp) for the most accurate reproduction.*
 
-# WBAL Radio - Internet Privacy Policy
+# WBAL Radio - Maryland's NEWS TALK SPORTS Station
 
 WBAL Radio's Internet site, http://wbal.com, complies with the following Privacy Policy. 
 
@@ -12,4 +12,5 @@ While we will seek to require third parties with whom we have agreements to foll
 
 Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other posters or parties.
 
-Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet.
+Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet.  
+
