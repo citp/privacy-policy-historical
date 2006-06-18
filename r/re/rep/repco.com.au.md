@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repco.com.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231214508id_/http%3A//www.repco.com.au/security/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repco.com.au privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618074622id_/http%3A//repco.com.au/security/privacypolicy.html) for the most accurate reproduction.*
 
 # Repco Corporation Limited - Privacy Policy
 
@@ -14,7 +14,7 @@ Disclaimer
 
 While Repco has endeavoured to ensure that all information provided on Repco Internet websites is accurate and up to date, Repco takes no responsibility for any error or omission relating to this information. To the maximum extent permitted by law, Repco will not be liable for any cost, loss or damage suffered by you through your use of Repco's Internet websites or Repco's failure to provide access to these Internet websites or information updates.
 
-Use of the website is governed by the Repco website [Terms and Conditions](https://web.archive.org/web/20051231214508id_/http%3A//www.repco.com.au/security/termcondtions.html) of Use. 
+Use of the website is governed by the Repco website [Terms and Conditions](https://web.archive.org/web/20060618074622id_/http%3A//repco.com.au/security/termcondtions.html) of Use. 
 
   
 Online Privacy Policy
@@ -31,7 +31,7 @@ Other than stated in the preceding, no attempt is made to identify users or thei
 
 Repco endeavors to use and disclose your personal information only in limited circumstances. Repco will do so if it is necessary to protect any copyright or intellectual property in the material in the website, or if it is necessary to enforce the Repco website 
 
-[Terms and Conditions](https://web.archive.org/web/20051231214508id_/http%3A//www.repco.com.au/security/termcondtions.html) of Use.
+[Terms and Conditions](https://web.archive.org/web/20060618074622id_/http%3A//repco.com.au/security/termcondtions.html) of Use.
 
 Cookies
 
