@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modells.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221073054id_/http%3A//www.modells.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbody_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modells.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618083958id_/http%3A//www.modells.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbody_privacy_txt) for the most accurate reproduction.*
 
 # Modell's Helpdesk
 
@@ -16,7 +16,7 @@ GSI Commerce Solutions, Inc. has created this privacy policy to inform you of th
 
 
 
-If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email at customersupport@modells.com or by phone at 1-866-835-9129.
+If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email at [customersupport@modells.com](mailto:customersupport@modells.com?%20subject=Privacy%20Policy%20Questions) or by phone at 1-866-835-9129.
 
 Your IP address, browser and reference site domain name are logged every time you visit our site. This data is used strictly for the analysis of load information and maximizing the efficiency of our servers. Except as provided in this privacy policy, we will not share this data with anyone in any way.
 
@@ -49,15 +49,15 @@ You can correct account data by clicking on "Manage My Account" within the Help 
 
 **  Receiving Promotions/Opt-Out **
 
-From time to time, we will contact you about sales, special offers and new site features if you agreed to be included in our email lists when you completed a purchase transaction with us. To customize the information you want to receive from us, simply sign on and select the specific information you wish to receive. To cancel our free emails, you can unclick the "I would like to receive emails about special promotions" box each time you make a purchase. You can also respond to any promotional email we send you, placing "REMOVE" in your subject line to discontinue email service. You can also send an email to customersupport@modells.com or call us toll-free at1-866-835-9129 and inform us that you want to unsubscribe to our email list. 
+From time to time, we will contact you about sales, special offers and new site features if you agreed to be included in our email lists when you completed a purchase transaction with us. To customize the information you want to receive from us, simply sign on and select the specific information you wish to receive. To cancel our free emails, you can unclick the "I would like to receive emails about special promotions" box each time you make a purchase. You can also respond to any promotional email we send you, placing "REMOVE" in your subject line to discontinue email service. You can also send an email to [customersupport@modells.com](mailto:customersupport@modells.com?%20subject=Privacy%20Policy%20Questions) or call us toll-free at1-866-835-9129 and inform us that you want to unsubscribe to our email list. 
 
-In addition to being able to call our customer service department, you may also email us at customersupport@modells.com. When you email us, your emails are stored within our system so that we may refer to previous emails from you as needed so that we may properly address your questions and concerns. Except as provided in this privacy policy, the information you provide to our customer service department is not shared with anyone without your consent.
+In addition to being able to call our customer service department, you may also email us at [customersupport@modells.com](mailto:customersupport@modells.com?%20subject=Privacy%20Policy%20Questions). When you email us, your emails are stored within our system so that we may refer to previous emails from you as needed so that we may properly address your questions and concerns. Except as provided in this privacy policy, the information you provide to our customer service department is not shared with anyone without your consent.
 
 **  Entering contests/sweepstakes**
 
 Whenever we run a contest or sweepstakes relating to our site, it will be accompanied with the rules of the contest/sweepstakes. The rules for each contest/sweepstakes will also detail how the information gathered from you for entry into the contest/sweepstakes will be used. You will find the rules for each contest/sweepstakes by clicking the "rules" link accompanying each contest/sweepstakes. Additionally, we will post if this information will be shared with anyone in addition to those persons and entities provided for in this Privacy Policy, such as a third party sponsoring or managing the contest/sweepstakes. 
 
-We may also contact you with promotional offers if you have entered one of our contests or sweepstakes. If you choose not to receive this free service when you enter a contest or sweepstakes, it will not affect your chances of winning. You can also opt out of this free service by unclicking the "I would like to receive emails about special promotions" box associated with each contest or sweepstakes, replying to any email and placing "REMOVE" in your subject line or notifying us that you want to unsubscribe to our free email services via email customersupport@modells.com or telephone 1-866-835-9129.
+We may also contact you with promotional offers if you have entered one of our contests or sweepstakes. If you choose not to receive this free service when you enter a contest or sweepstakes, it will not affect your chances of winning. You can also opt out of this free service by unclicking the "I would like to receive emails about special promotions" box associated with each contest or sweepstakes, replying to any email and placing "REMOVE" in your subject line or notifying us that you want to unsubscribe to our free email services via email [customersupport@modells.com](mailto:customersupport@modells.com?%20subject=Privacy%20Policy%20Questions) or telephone 1-866-835-9129.
 
 Users of this web site have the opportunity to e-mail product pages to their friends. In order to accomplish this, you must provide to us your friend's names and e-mails addresses. We only use your friend's information to send them the product pages you requested that they receive. 
 
@@ -93,4 +93,4 @@ If we are going to use your personally identifiable information in a manner diff
 
 **  Questions about our Policies**
 
-If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email at customersupport@modells.com or by phone at 1-866-835-9129.
+If you have any questions regarding your privacy or any of our policies, please contact our Customer Service Department by email at [customersupport@modells.com](mailto:customersupport@modells.com?%20subject=Privacy%20Policy%20Questions) or by phone at 1-866-835-9129.
