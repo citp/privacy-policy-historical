@@ -1,0 +1,102 @@
+> *The following text is extracted and transformed from the inkednation.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618035501id_/http%3A//www.inkednation.com/s/s.cfm%3Ft%3D9) for the most accurate reproduction.*
+
+# Tattoo Community - inkednation.com
+
+**Privacy Statement**
+
+  * What information this site collects/tracks
+  * How this site uses the information it collects/tracks
+  * With whom this site shares the information it collects/tracks
+  * How this policy applies to links in this site
+  * Use of cookies on the site
+  * This site's policy on correcting, updating or removing personal information.
+  * Changes in our privacy policy
+  * Security of your personal information
+  * E-mail Choice/Opt-out policy
+  * Methods of contacting the Site
+
+
+
+Please contact us with questions regarding this statement. 
+
+**About us and the Information We Collect**
+
+This site is an online community designed to provide an easy way for our members to meet each other on the Web. To accomplish this, our members create their own unique profiles and our matching technology provides them matches based on their pre-selected criteria. In order to do this, we must ask for certain personal information. None of the information we gather can be used by the public (visitors, other members, or anyone not employed by this site to identify specific individuals. 
+
+All visitors to our site may browse the site, search the ads and view any articles or features our site has to offer without entering any personal information. 
+
+**Information Collected/Tracked by this site**
+
+This site gathers two types of information: information users submit to us and information not directly submitted by users. 
+
+**Information submitted to this site:**
+
+There are two types of user-submitted information we collect: Public and Private. We define Public information as personal information that may be displayed on the site, such as gender, age and height, but cannot be linked to a particular user. Private information is defined as any information that allows others to contact a user other than through this site or allows the collection of information about the user other than what is displayed on the site. 
+
+Public: To accomplish our goal of bringing compatible people together, we must gather personal information, which may or may not include: customer-specified site username, gender, age, ethnic background, appearance, religion, income range, occupation, preference/lifestyle information and general geographic location. Much of this information is optional, and meant to be seen by members and visitors to the site but cannot be used to identify a specific member by name, address, etc. 
+
+Private: This information is gathered from members and guests who apply for the various services our site offers. This information includes, but is not limited to: address, first name, last name, birthdate, credit card number or checking account information for payment submitted to our associated processors, a user-specified password, address, zip code and telephone number. 
+
+**Forums, Surveys, and Contests:**
+
+The discussion forums are for topic group discussion, picture posts, and poll voting, for all of which participation is completely voluntary and the user therefore has a choice whether or not to disclose any information. From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is also completely voluntary and the user therefore has a choice whether or not to disclose this information. 
+
+**Information not Directly Submitted by Users to this site:**
+
+Aggregate: This is information we collect that is not personally identifiable, such as browser type and IP address. This information is gathered for all users to the site. 
+
+**Use of Information Obtained by this site**
+
+**Information users submit to this site:**
+
+Public: Public information supplied by the user is intended to be viewed by visitors to the site. This information is used by visitors for searching and matching purposes. Public information cannot be used to identify a specific member by name, address, etc. 
+
+Private: We primarily use Email addresses submitted by members to verify enrollment. We may also use a user's email address to send news regarding our site, but the user may choose not to receive email of this type by contacting us. Email addresses may also be used in private correspondence with the user for customer service issues. Financial information that is collected is used to bill the user for products and services. All other private information submitted by the user is confidential and will not be disclosed except as required by law or to protect members of this site. All private information can be updated or deleted by the user at any time. 
+
+**Forums, Surveys, and Contests:**
+
+Forum information is posted on the site. Contact and other information collected for contests will be used to notify the winners and award prizes. Survey information collected will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+
+**Information that users do not submit to us:**
+
+Aggregate: We use your server, IP address, and browser-type related information in the general administration of our website. 
+
+**Sharing of the Information this Site Gathers/Tracks**
+
+Except where you are expressly informed otherwise or as described immediately below, we do not sell, rent, share, trade or give away any of your personal information. 
+
+**Links**
+
+This site contains links to other websites. Please be aware that this site is not responsible for the privacy practices of other Web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+
+**Use of Cookies**
+
+A cookie is a piece of text data stored on the user's hard drive containing information stored by a particular website. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects cookies they will not be able to fully use our website. Cookies are tiny pieces of saved textual infomation on your computer that your Internet Browser passes back to our site, they are not and can not be executable programs. We do not and will not use cookies to collect private information from any user! Why, because it is impossible for a simple piece of textual data, a cookie, to do your computer any harm whatsoever. It is impossible for a cookie to collect your personal data, impossible for a cookie to scan your computer, impossible for a cookie to "spy" on you, and impossible for a cookie to know of any other sites you have been to and what you did on those sites. It's just a simple piece ot text data like "this is simple piece of text data" saved as a text file on your computer. It is a complete myth that a site's use of cookies are in any way harmful to your computer. It is also impossible for our website to use the cookies saved on your computer from another website other than our own. Why, because a website never "reads" the cookies on your computer in the first place, that is impossible. In fact web sites can't read anything on your computer at all, that is impossible. Your own Internet Browser is what passes cookies it (the browser) saved for a particular web-site back to that exact site when you browse any page on that exact site. Your Internet Browser never passes back cookies saved on your computer to any site that was not the exact same site that your Internet Browser saved the cookie for in the first place. 
+
+**Correcting/Updating or Removing Information**
+
+This site gives users several options for modifying or removing their information from our database please visit the My Account page. 
+
+**Changes in Our Privacy Policy**
+
+If we change our privacy policy, we will prominently post a link to those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner, and we will then use information in accordance with the privacy policy under which the information was collected. 
+
+**Security**
+
+This site takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. 
+
+When our registration/order process asks users to enter sensitive information (such as a credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. 
+
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example a billing clerk or a customer service representative) are granted access to personally identifiable information. 
+
+If you have any questions about the security at our website, please contact us. 
+
+**Email Choice/Opt-out**
+
+Our users are given the opportunity to 'opt-out' of having information used for purposes not directly related to our site at the point where we ask for the information. 
+
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by following the instructions contained in the email or by logging-in and changing their email options in the My Account section of the site. 
+
+**Contacting the Web Site**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us. 
