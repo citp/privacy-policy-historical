@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinevolunteering.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231133329id_/http%3A//www.onlinevolunteering.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinevolunteering.org privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618021642id_/http%3A//onlinevolunteering.org/about/privacy.htm) for the most accurate reproduction.*
 
 # UNV Online Volunteering
 
@@ -65,24 +65,6 @@ If we decide to change our Privacy Statement, we will post those changes here, s
 
 | 
 
-  
+**OV Newsletter**
 
-
-## Online Volunteering Update
-
-This twice-monthly email update provides practical tips for both volunteers and organizations on how to make the most of online volunteering. [Join](https://web.archive.org/membership/join.php) to subscribe if you are not yet an OV Service member.
-
-[](https://web.archive.org/membership/join.php)  
-
-[Terms and Conditions](https://web.archive.org/about/terms.htm)
-
- 
-
-  [ ](http://www.unvolunteers.org/)
-
-The United Nations Volunteers Programme (UNV) is the volunteer arm of the United Nations. UNV manages this Online Volunteering service.
-
-Learn more about [UN Volunteers](https://web.archive.org/about/index.htm)
-
-  
-
+To receive our newsletter with monthly tips, news and experience reports, [join](https://web.archive.org/membership/join.php) the Online Volunteering service. 
