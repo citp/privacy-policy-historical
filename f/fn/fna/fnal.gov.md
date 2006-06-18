@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnal.gov privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223101733id_/http%3A//www.fnal.gov/pub/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnal.gov privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618093036id_/http%3A//www.fnal.gov/pub/disclaim.html) for the most accurate reproduction.*
 
 # Fermilab Disclaimer
 
@@ -13,7 +13,7 @@ Unauthorized attempts to defeat or circumvent security features, to use the syst
 
 The public is authorized to read all pages that are not protected by password or other access controls, whether or not those pages were intended for the general public's interests. 
 
-Fermilab policy and rules for computing, including appropriate use, may be found at <http://www.fnal.gov/cd/main/cpolicy.html>
+Fermilab policy and rules for computing, including appropriate use, may be found at <http://security.fnal.gov/policies/cpolicy.html>
 
 * * *
 
