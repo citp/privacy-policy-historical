@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226050804id_/http%3A//www.superdrug.com/superdruglegal.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618112032id_/http%3A//www.superdrug.com/superdruglegal.php%23privacy) for the most accurate reproduction.*
 
 # Superdrug - Legal Notices
 
@@ -10,7 +10,7 @@ To the extent permitted by applicable laws, Superdrug accepts no liability for a
 Links - Superdrug may from time to time provide links that will enable you to access the websites of third parties directly from this site. Such third party sites are not under the control of Superdrug and, unless otherwise stated, Superdrug has no relationship with the third party and no contribution is made by Superdrug to the content of such websites. When you click through to these sites you leave the area controlled by Superdrug so we cannot therefore accept responsibility for any issues arising in connection with either the third party's use of your data, the site content or the services offered to you by these sites.
 
 **COPYRIGHT**  
-**© 2004 Superdrug Stores plc - all rights reserved.**
+**© 2006 Superdrug Stores plc - all rights reserved.**
 
 Unless indicated to the contrary, all materials on this website including design, text, graphics and photographs are the copyright of Superdrug.
 
