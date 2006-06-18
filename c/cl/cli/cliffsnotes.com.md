@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cliffsnotes.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228105938id_/http%3A//www.cliffsnotes.com/WileyCDA/Section/id-106261.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cliffsnotes.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619012940id_/http%3A//www.cliffsnotes.com/WileyCDA/Section/id-106261.html) for the most accurate reproduction.*
 
 # CliffsNotes::Privacy Policy
 
@@ -47,10 +47,6 @@ Our CliffsNotes.com poll is a voluntary feature that is provided to entertain an
 **What information is collected when a user submits a question to "Ask Cliff"?**
 
 "Ask Cliff" is a voluntary feature that allows our site visitors to send in questions about studying, taking tests, and getting through school. When users submit questions to "Ask Cliff," they are required to provide their names and e-mail addresses along with their questions. The user's name and e-mail information is not shared with anyone expect for the Wiley editorial team who reviews and answers select questions. Not all submitted questions will be answered. Some questions and answers will be posted to our "Ask Cliff" page, but these postings never identify the person who submitted the question — either by name or e-mail address. Although users under 13 may submit questions to "Ask Cliff," their questions as written will never be posted publicly on the "Ask Cliff" page.
-
-**What information is collected when a user enters a Cliffsnotes.com sweepstakes?**
-
-Our sweepstakes are operated and hosted by a COPPA-compliant marketing agency. Please [click here](http://www.alloy.com/home/privacypolicy/) to review our current marketing agency's privacy policy.
 
 **What information is collected when a user submits a query to CliffsNotes or Wiley customer care?**
 
