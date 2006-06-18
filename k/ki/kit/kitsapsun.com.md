@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitsapsun.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214192046id_/http%3A//kitsapsun.com/bsun/home/text/0%2C2403%2CBSUN_19081_24251%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitsapsun.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618124544id_/http%3A//kitsapsun.com/bsun/home/text/0%2C2403%2CBSUN_19081_24251%2C00.html) for the most accurate reproduction.*
 
 # kitsapsun.com
 
