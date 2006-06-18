@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the firstbanknigeria.com privacy policy that was archived on 2005-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050611073644id_/http%3A//firstbanknigeria.com/resources/r_ppolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstbanknigeria.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618105720id_/http%3A//www.firstbanknigeria.com/resources/pola/pola_ppolicy.asp) for the most accurate reproduction.*
 
-# :::: First Bank of Nigeria Plc - Resources - Privacy Policy ::::
+# FirstBank | Resources | Policy Statements - Privacy Policy
 
+**Related Links**  
+---  
+**Quick Links**  
+**ATM/Branch Locator**  
+  
 **What this Privacy Policy Covers:**
 
 This Privacy Policy covers First Bank of Nigeria Plc's treatment of personally identifiable information that you submit through First Bank of Nigeria Plc web site, and the use of First Bank of Nigeria Plc's on-line/website services and contents (which on-line/website services and contents are hereinafter jointly called "the Service"). This policy does not apply to the practices of companies or subsidiaries that are affiliated to First Bank of Nigeria Plc. All subsidiaries have separate Privacy Policies. 
 
-** Privacy Policy:** ****
+**Privacy Policy:**
 
 **Information Collection & Use**
 
@@ -33,6 +38,5 @@ First Bank of Nigeria Plc may amend this policy from time to time. If we make an
 
 **Questions or Suggestions**
 
-If you have questions or suggestions complete a "[contact us](file:///C:/Documents%20and%20Settings/adefunke.ajala.HO-SSD401/My%20Documents/My%20Webs/fbn/resources/rc_contactus.htm)" form.
-
+If you have questions or suggestions complete a "contact us" form.  
  
