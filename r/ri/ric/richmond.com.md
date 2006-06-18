@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richmond.com privacy policy that was archived on 2005-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051127144448id_/http%3A//www.richmond.com/aboutus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richmond.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618111056id_/http%3A//www.richmond.com/aboutus/privacy.cfm) for the most accurate reproduction.*
 
 # Richmond.com / Privacy Statement
 
