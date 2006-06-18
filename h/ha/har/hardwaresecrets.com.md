@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwaresecrets.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217074141id_/http%3A//www.hardwaresecrets.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwaresecrets.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618024944id_/http%3A//hardwaresecrets.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hardware Secrets
 
@@ -31,32 +31,3 @@ HardwareSecrets.com periodically conducts contests and sweepstakes. If you choos
 ### Changes to the HardwareSecrets.com Privacy Policy
 
 This Privacy Policy may be modified from time to time. If there are changes, those changes are effective immediatly.
-
-| 
-
-| Latest News  
----  
-| **[Palit announces Radeon X1600 Pro cards](https://web.archive.org/news/744)  
-December 16, 2005 - 3:33 PM**  
----  
-**[Imation sells furry USB drives in Japan](https://web.archive.org/news/741)  
-December 15, 2005 - 7:03 PM**  
-**[Alliance try to simplify HD networks](https://web.archive.org/news/740)  
-December 15, 2005 - 12:03 PM**  
-**[Nvidia to acquire ULi for USD 52 million](https://web.archive.org/news/737)  
-December 14, 2005 - 1:04 PM**  
-**[GeCube launches AGP X1300 and X1600](https://web.archive.org/news/732)  
-December 13, 2005 - 1:12 PM**  
-**[Toshiba delays HD DVD due to AACS](https://web.archive.org/news/731)  
-December 13, 2005 - 11:26 AM**  
-**[Wireless USB hub design unveiled](https://web.archive.org/news/729)  
-December 12, 2005 - 3:21 PM**  
-**[Scythe releases renewed Samurai cooler](https://web.archive.org/news/728)  
-December 12, 2005 - 1:15 PM**  
-**[Creative counters iPod with Zen Vision:M](https://web.archive.org/news/724)  
-December 9, 2005 - 5:01 AM**  
-**[ATI releases Catalyst 5.12, readies 5.13](https://web.archive.org/news/723)  
-December 8, 2005 - 4:10 PM**  
-.:: [More News](https://web.archive.org/news/) ::.  
-  
-[](http://www.hardwaresecrets.com/adsnew/adclick.php?bannerid=47&zoneid=17&source=&dest=http%3A%2F%2Fhardwaresecrets.shopping.com%2FxCH-computers%7Elinkin_id-3067820)
