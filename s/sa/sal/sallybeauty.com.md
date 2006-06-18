@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sallybeauty.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210181908id_/http%3A//www.sallybeauty.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sallybeauty.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618032253id_/http%3A//www.sallybeauty.com/privacy.asp) for the most accurate reproduction.*
 
 # SallyBeauty.com
 
-This Privacy Policy governs only the privacy practices related to the personal information collected through the Sally Beauty website. California residents: click here to read [Your California Privacy Rights](https://web.archive.org/web/20051210181908id_/http%3A//www.sallybeauty.com/calprivacy.asp).
+This Privacy Policy governs only the privacy practices related to the personal information collected through the Sally Beauty website. California residents: click here to read [Your California Privacy Rights](https://web.archive.org/web/20060618032253id_/http%3A//www.sallybeauty.com/calprivacy.asp).
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name, if any, and collects the date and time of visit, the client IP address, and referring site. If you have registered as a ProCard holder, the site will recognize your number if you choose to enter it into the site.
 
