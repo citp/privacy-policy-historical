@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessday.co.za privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214083712id_/http%3A//www.businessday.co.za/services/privacy.aspx%3FPage%3DBD4P61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessday.co.za privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618133739id_/http%3A//www.businessday.co.za/services/privacy.aspx%3FPage%3DBD4P61) for the most accurate reproduction.*
 
 # Business Day - News Worth Knowing
 
@@ -17,12 +17,27 @@
  Opinion & Analysis  
 [ \- Comment & Analysis](http://www.businessday.co.za/opinion/comment.aspx?Page=BD4P993&MenuItem=BD4P993)  
 [ \- The Bottom Line](http://www.businessday.co.za/opinion/bottomline.aspx?Page=BD4P25&MenuItem=BD4P25)  
+[  \- Management &   
+   Leadership](http://www.businessday.co.za/specialist/ManagementAndLeadership.aspx?Page=BD4P87346&MenuItem=BD4P87346)  
  Classic Business Day  
 [ \- Transcripts](http://transcripts.businessday.co.za/?MenuItem=s0)  
 [ \- SME Scene](http://sasfin.businessday.co.za/?MenuItem=s1)  
 [ Special Reports ](http://www.businessday.co.za/specialreports/index.aspx?Page=BD4P29&MenuItem=BD4P29)  
 [ Arts & Leisure](http://www.businessday.co.za/news/leisure.aspx?Page=BD4P30&MenuItem=BD4P30)  
+[ \- The Tourist](http://www.businessday.co.za/specialist/tourist.aspx?Page=BD4P87023)  
+[ The Weekender](http://www.businessday.co.za/weekender/weekenderhome.aspx?Page=BD4P67770&MenuItem=BD4P67770)  
   
+  
+---  
+ Specialist Sections  
+[ \- Health News](http://www.businessday.co.za/specialist/healthnews.aspx?Page=BD4P93575)  
+[ \- SA Exporter](http://www.businessday.co.za/specialist/saexporter.aspx?Page=BD4P49&MenuItem=BD4P49)  
+[ \- Real Business](http://www.realbusiness.co.za/)  
+[ \- Motor News](http://www.businessday.co.za/specialist/motornews.aspx?Page=BD4P36&MenuItem=BD4P36)  
+[ \- Homefront](http://www.businessday.co.za/specialist/homefront.aspx?Page=BD4P43&MenuItem=BD4P43)  
+[ \- Property](http://www.businessday.co.za/specialist/property.aspx?Page=BD4P44&MenuItem=BD4P44)  
+[ \- Technology @ Work](http://www.businessday.co.za/specialist/technology.aspx?Page=BD4P45&MenuItem=BD4P45)  
+[ \- Auctions](http://www.businessday.co.za/specialist/auctions.aspx?Page=BD4P1283&MenuItem=BD4P1283)  
   
   
 ---  
