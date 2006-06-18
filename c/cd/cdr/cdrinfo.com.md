@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230194043id_/http%3A//cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618205957id_/http%3A//cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
 
 # Privacy Statement for CdrInfo.com
 
@@ -50,6 +50,8 @@ CD DVD Duplicators** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.a
 ---  
 [ **Primera DVD / CD  
 Duplicators** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.primera.com%2f)  
+[ **Primera Europe, CD / DVD  
+Duplizierer und Drucker** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.primeraeurope.com%2f)  
 [ **DVD CD Duplicators  
 MF Digital** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.mfdigital.com%2f "MF Digital, industry leader of duplication solutions")  
 [ **CD DVD Duplication  
@@ -59,4 +61,8 @@ Disc Copiers/Printers** ](https://web.archive.org/Sections/Ads/TextLinkRedirecto
 [ **CD Duplicators  
 DVD Duplicators by Disc Makers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.discmakers.com%2fduplicators "CD Duplicators - DVD Duplicators by Disc Makers")  
 [ **RPA - CD & DVD  
-Duplication Equipment** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.riverproaudio.co.uk%2f "RPA - CD & DVD Duplication Equipment")
+Duplication Equipment** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.riverproaudio.co.uk%2f "RPA - CD & DVD Duplication Equipment")  
+[ **Blank DVDs  
+from Disc Makers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.discmakers.com%2fshop%2f "Blank DVDs from Disc Makers")  
+[ **AVI to DVD** ](http://www.vso-software.fr/products/convert_x_to_dvd "AVI to DVD")   
+[ **burning software** ](http://www.vso-software.fr/ "burning software")
