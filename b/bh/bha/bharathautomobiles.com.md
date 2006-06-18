@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharathautomobiles.com privacy policy that was archived on 2005-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050929180603id_/http%3A//www.bharathautomobiles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharathautomobiles.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618221132id_/http%3A//www.bharathautomobiles.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to BharathAutomobiles.com! India's No 1 Auto Portal
 
