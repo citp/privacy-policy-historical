@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the macgamestore.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224071816id_/http%3A//www.macgamestore.com/information.php%3FTopic%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macgamestore.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618133144id_/http%3A//macgamestore.com/information.php%3FTopic%3DPrivacy) for the most accurate reproduction.*
 
 # MacGameStore: Information - Privacy
 
-Macgamestore.com (MGS) respects your personal privacy. This policy covers the following topics: 
+MacGameStore.com (MGS) respects your personal privacy. This policy covers the following topics: 
 
-Which information is collected by MGS   
+Which information is collected by MGS  
 How your information is used   
 How and why cookies are used 
 
@@ -20,7 +20,7 @@ All information entered in the MGS store strictly confidential. The MGS Store us
 
 **Computer Information**
 
-While you use the IMG website, your IP address and information about your web browser is recorded. This information is used for website statistics, browser and network compatibility, and security. 
+While you use the MGS website, your IP address and information about your web browser is recorded. This information is used for website statistics, browser and network compatibility, and security. 
 
 **Opt In - Opt Out**
 
