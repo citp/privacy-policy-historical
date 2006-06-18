@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010191256id_/http%3A//www.hystersisters.com/vb2/view.php%3Fs%3D%26pg%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618135846id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
 
-# Hyster Sisters
+# Hyster Sisters Privacy Policy - Hysterectomy Information and Support - HysterSisters
 
   
+
+
 **We respect your privacy!**
 
 Any personal information you give to the Hyster Sisters website will be held with the utmost care, and will not be used in ways that you have not consented. A more detailed explanation about how we safeguard your personal information is described below. Personal information is information about a person that includes identifying information about that person.
 
-We do not actively submit pages with usernames to search engines, but they are sometimes picked up by a small number of them. If you have a username that is your actual full name, it may be possible to search for your name and find it affiliated with HysterSisters. This is why, during registration, we warn members *not* to register with an identifiable username. We have no control over search engine results.
+***We do not actively submit pages with usernames to search engines, but they are picked up by a number of them. If you have a username that is your actual full name, it may be possible to search for your name and find it affiliated with HysterSisters. This is why, during registration, we warn members *not* to register with an identifiable username. We have no control over search engine results.
 
 **Revisions to the Privacy Policy**
 
@@ -43,7 +45,7 @@ The information you provide in your posts may be summarized at a non-personal le
 
 **Your identity**
 
-The Hyster Sisters website takes precaution in helping you to maintain your privacy within the membership. Although your email address is verified as you join, the email addresses are hidden and are not viewable by members.
+HysterSisters.com is a public website. The Hyster Sisters website takes precaution in helping you to maintain your privacy within the membership. Although your email address is verified as you join, the email addresses are hidden and are not viewable by members.
 
 We ask that you are careful that you do not provide your email address nor your exact location in order to maintain safety while you use the Hyster Sisters website. Although Zip Codes are collected for use in the database for local news emails, they are not displayed publicly. Be safe! Be smart! Do not give your phone number, address, hospital, and other personal info in public forums.
 
@@ -51,4 +53,12 @@ We ask that you are careful that you do not provide your email address nor your 
 
 The Hyster Sisters website retains the right to provide any information we know about you to legal authorities in the event of legal action arising from your online activity.
 
-Updated Privacy Policy August 19, 2004
+Updated Privacy Policy Feburary 1, 2006
+
+***Clarification added regarding search engine spiders indexing HS for search engine results.
+
+Page Created at 06-08-2003 - 06:00 AM, Last Modified 07-04-2005 - 10:36 AM 
+
+  
+  
+
