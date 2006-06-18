@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the cmswatch.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225055832id_/http%3A//www.cmswatch.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmswatch.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618172640id_/http%3A//www.cmswatch.com/Privacy) for the most accurate reproduction.*
 
 # CMS Watch Privacy Policy -- CMS Watch
 
 [](http://www.cmswatch.com/)
 
-[ ](http://www.cmswatch.com/CMS/Report/)
+[ ](http://www.cmswatch.com/Search/Report/)
 
-August, 2005:
+May, 2006:
 
-  * Objective reviews of 31 CMS products
-  * Avoid common pitfalls & negotiate a good price 
-  * Optional Enterprise Edition for large, multisite projects
+  * Objective reviews of 28 Enterprise Search products
+  * Detailed analysis of costs, benefits, and technical choices 
 
 
 
@@ -29,20 +28,20 @@ Keep getting the **real** story via our monthly newsletter
 
 Quoted
 
-"Webmasters hoping that everyone in their company is going to start writing well-structured XML documents because it makes life easier for the webmaster are doomed to disappointment."
+"When you have end-user, customer-facing applications, my own personal belief is that's just not an area in which open source is going to play."
 
-\--Mark Baker, Senior Consultant 
+\--Andrew Morton, Co-maintainer of the Linux kernel 
 
   
 
 
-[](http://www.cmswatch.com/CMS)
+[](http://www.cmswatch.com/Portal)
 
 This Week's Featured Channel
 
-[Web Content Management](http://www.cmswatch.com/CMS)
+[Enterprise Portals](http://www.cmswatch.com/Portal)
 
-Often shortened to "WCM" or "CMS," Web Content Management refers to the discipline and technologies around managing content for publication via the web.
+Enterprise portals provide a window into enterprise applications and content.
 
 [Home](http://www.cmswatch.com/)
 
@@ -58,13 +57,13 @@ Last updated: April 19, 2005
 
 Technology Report Excerpt
 
-[_The Enterprise Search Report_ looks at... Storage Considerations](http://www.cmswatch.com/Search/Report)
+[_The CMS Report_ looks at... Vignette Portal's system requirements](http://www.cmswatch.com/CMS/Report)
 
-"Nevertheless, storage is a key consideration. The number of documents and the average size of the documents increase each year. Electronic mail can pose special challenges because a mail message can include an attachment that may be several megabytes in size. An example is a short message containing a PowerPoint deck or an Adobe Portable Document Format of a 16 page four-color brochure. A good rule of thumb is to plan to increase storage capacity for a search system by 50 percent each year. The search architecture should accommodate plug-and-play storage devices. Mirroring, RAID technology, and clusters are storage approaches that a search system requires. Loss of an index means that a new index must be built from ground zero if a current back up or fail-over mirror is not available." 
+"Compared to other portals, Vignette Portal has broad support for operating systems, databases, Web servers, and application servers. While it is based on J2EE, in theory it will work with everything that the application server supports. Note, however, that not all platforms are certified by Vignette’s support arm, and the company may not have much experience with your particular configuration." 
 
-(p. 84)
+(p. 188)
 
-[More about _The Enterprise Search Report_](http://www.cmswatch.com/Search/Report)
+[More about _The CMS Report_](http://www.cmswatch.com/CMS/Report)
 
   
   
