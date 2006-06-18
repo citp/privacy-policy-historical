@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookshires.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210063010id_/http%3A//www.brookshires.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookshires.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618215744id_/http%3A//www.brookshires.com/privacy.asp) for the most accurate reproduction.*
 
 # Brookshire's - Privacy Policy
 
