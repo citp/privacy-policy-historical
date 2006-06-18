@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checksure.biz privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231233321id_/http%3A//www.checksure.biz/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksure.biz privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618052641id_/http%3A//www.checksure.biz/privacy.htm) for the most accurate reproduction.*
 
 # Terms and Conditions
 
@@ -24,7 +24,7 @@ We sometimes use an Internet device called a cookie to store login or other info
 
 For certain services, we will allow you to have an ID or password stored in a cookie. We do not store payment details in cookies. 
 
-[_View Cookie Policy_](https://web.archive.org/web/20051231233321id_/http%3A//www.checksure.biz/cookies.htm)  
+[_View Cookie Policy_](https://web.archive.org/web/20060618052641id_/http%3A//www.checksure.biz/cookies.htm)  
 
 
 **Security of personal information**
