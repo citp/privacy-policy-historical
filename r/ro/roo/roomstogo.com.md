@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomstogo.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222175214id_/http%3A//www.roomstogo.com/index.cfm%3Ffuseaction%3DprivacyStatement%26from%3DBNav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomstogo.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618101502id_/http%3A//www.roomstogo.com/index.cfm%3Ffuseaction%3DprivacyStatement%26from%3DBNav) for the most accurate reproduction.*
 
 # Furniture Retailer - Home & Contemporary Online Furniture Shopping :: Rooms To Go :
 
@@ -15,17 +15,17 @@ Privacy Statement
 Registration
 
   
-Our site's registration form requires users to give us contact information (like their name and e-mail address) and financial information (like their account or credit card numbers). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor during business hours for either customer service support or any order-processing questions we may have. The customer will also be contacted to confirm the delivery date and time. We also may use registration information to provide customers with opportunities to purchase other products or services that we believe may be of interest to them. Users may opt-out of receiving e-mail marketing communications; see the [choice/opt-out](https://web.archive.org/web/20051222175214id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=choiceOptOut) section. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services. Unique identifiers are collected to verify the user's identity and for use as account numbers in our record system. 
+Our site's registration form requires users to give us contact information (like their name and e-mail address) and financial information (like their account or credit card numbers). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the visitor during business hours for either customer service support or any order-processing questions we may have. The customer will also be contacted to confirm the delivery date and time. We also may use registration information to provide customers with opportunities to purchase other products or services that we believe may be of interest to them. Users may opt-out of receiving e-mail marketing communications; see the [choice/opt-out](https://web.archive.org/web/20060618101502id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=choiceOptOut) section. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services. Unique identifiers are collected to verify the user's identity and for use as account numbers in our record system. 
 
 Ordering / Purchasing
 
   
-Our site uses an order form for customers to request information, products, and services. We collect visitors' contact information (like their e-mail address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customers' contact information is also used to contact the visitor during business hours for either customer service support or any order processing questions we may have. The customer will also be contacted to confirm the delivery date and time. We may use this information to provide customers with opportunities to purchase other products or services that we believe may be of interest to them. Users may opt-out of receiving future e-mail marketing communications; see the [choice/opt-out](https://web.archive.org/web/20051222175214id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=choiceOptOut) section. Financial information that is collected is used to check the users' qualifications and bill the user for products and services. Unique identifiers are collected from web site visitors to verify the user's identity and for use as account numbers in our record system. 
+Our site uses an order form for customers to request information, products, and services. We collect visitors' contact information (like their e-mail address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customers' contact information is also used to contact the visitor during business hours for either customer service support or any order processing questions we may have. The customer will also be contacted to confirm the delivery date and time. We may use this information to provide customers with opportunities to purchase other products or services that we believe may be of interest to them. Users may opt-out of receiving future e-mail marketing communications; see the [choice/opt-out](https://web.archive.org/web/20060618101502id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=choiceOptOut) section. Financial information that is collected is used to check the users' qualifications and bill the user for products and services. Unique identifiers are collected from web site visitors to verify the user's identity and for use as account numbers in our record system. 
 
 Safeguarding Your Information
 
   
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Security enhancements were implemented to protect our most valuable asset, our customers. We have taken precautions and have invested in technology that will help keep your transaction safe. When you use the Rooms To Go Credit Card or another credit card to make a purchase at roomstogo.com, we use Secure Socket Layering (SSL) to encrypt your personal credit information, including your credit card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. See the [security](https://web.archive.org/web/20051222175214id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=security) section. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Security enhancements were implemented to protect our most valuable asset, our customers. We have taken precautions and have invested in technology that will help keep your transaction safe. When you use the Rooms To Go Credit Card or another credit card to make a purchase at roomstogo.com, we use Secure Socket Layering (SSL) to encrypt your personal credit information, including your credit card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. See the [security](https://web.archive.org/web/20060618101502id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=security) section. 
 
 Resume Submissions
 
@@ -35,12 +35,12 @@ Our site uses a form for vistors' to submit an online resume. We collect visitor
 Choice / Opt-Out
 
   
-Our site provides users the opportunity to opt-out of receiving e-mail marketing communications from us and our partners at the point where we request information about the visitor. See the [choice/opt-out](https://web.archive.org/web/20051222175214id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=choiceOptOut) section. 
+Our site provides users the opportunity to opt-out of receiving e-mail marketing communications from us and our partners at the point where we request information about the visitor. See the [choice/opt-out](https://web.archive.org/web/20060618101502id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=choiceOptOut) section. 
 
 Correct And Update Your Information
 
   
-We provide several different methods for you to change or modify the information you give us. See the [correct and update](https://web.archive.org/web/20051222175214id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=correctUpdate) section. 
+We provide several different methods for you to change or modify the information you give us. See the [correct and update](https://web.archive.org/web/20060618101502id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=correctUpdate) section. 
 
 Links To Other Sites
 
@@ -70,6 +70,6 @@ We may share user information in the event that it is necessary to respond to an
 Contact Us
 
   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, see the [Contacting the Site](https://web.archive.org/web/20051222175214id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=contactingTheSite) section. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, see the [Contacting the Site](https://web.archive.org/web/20060618101502id_/http%3A//www.roomstogo.com/index.cfm?fuseaction=contactingTheSite) section. 
 
 _This privacy statement was updated on June 24, 2004._
