@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factmagazine.co.uk privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220155750id_/http%3A//www.factmagazine.co.uk/da/21814) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factmagazine.co.uk privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618215852id_/http%3A//www.factmagazine.co.uk/da/21814) for the most accurate reproduction.*
 
 # Privacy Policy: Fact Magazine
 
