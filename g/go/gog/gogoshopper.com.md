@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogoshopper.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211154356id_/http%3A//www.gogoshopper.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogoshopper.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618181420id_/http%3A//www.gogoshopper.com/privacy.htm) for the most accurate reproduction.*
 
 # GoGoShopper.com Privacy Statement
 
@@ -21,4 +21,4 @@ Note: We do have an online site statistical tool: addfreestats. This information
 
 If you join our mailing list or submit a freebie to us, or in any way we are informed of your email address: 
 
-We may enter the information you send into our electronic database. You may also be contacted by us for additional information. We do disclose your email to any thirt party. We promise that. 
+We may enter the information you send into our electronic database. You may also be contacted by us for additional information. We do not disclose your email to any third party. We promise that. 
