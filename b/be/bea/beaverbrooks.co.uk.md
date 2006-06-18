@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the beaverbrooks.co.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231173458id_/http%3A//beaverbrooks.co.uk/index.cfm%3Fevent%3DshowPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaverbrooks.co.uk privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618061423id_/http%3A//www.beaverbrooks.co.uk/index.cfm%3Fevent%3DshowPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Beaverbrooks the Jewellers
 
 The following statement explains our policy regarding the personal information we collect about you.
 
   1. **Statement of intent**  
-From time to time, you will be asked to submit personal information about yourself (e.g. name and Email address etc) in order to receive or use services on our website. Such services include newsletters, diary reminders and email bulletins. 
+From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services on our website. Such services include newsletters, diary reminders and email bulletins. 
 
 By entering your details in the fields requested, you enable **Beaverbrooks the Jewellers Ltd** and its service providers to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy. Our services are designed to give you the information that you want to receive. **Beaverbrooks the Jewellers Ltd** will act in accordance with current legislation and aim to meet current Internet best practice.
 
@@ -28,7 +28,7 @@ When you supply any personal information to **Beaverbrooks the Jewellers Ltd** (
 We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met, or, in the case of a personalised service, such as online billing, you no longer wish to continue your registration as a personalised user. Where personal information is held for people who are not yet registered but have taken part in other **Beaverbrooks the Jewellers Ltd** services (e.g. information requests), that information will be held only as long as necessary to ensure that the service is run smoothly. We will ensure that all personal information supplied is held securely, in accordance with the Data Protection Act 1998.
 
   5. **Access to your personal information**  
-You have the right to request a copy of the personal information **Beaverbrooks the Jewellers Ltd** holds about you and to have any inaccuracies corrected. (We charge £10 for information requests.) Please address requests to the Data Protection Officer, Beaverbrooks the Jewellers Ltd, 
+You have the right to request a copy of the personal information **Beaverbrooks the Jewellers Ltd** holds about you and to have any inaccuracies corrected. Please address requests to the Data Protection Officer, Beaverbrooks the Jewellers Ltd, 
   6. **Users 16 and under**  
 If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to **Beaverbrooks the Jewellers Ltd** website. Users without this consent are not allowed to provide us with personal information.
 
