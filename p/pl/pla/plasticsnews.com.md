@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the plasticsnews.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220204649id_/http%3A//www.plasticsnews.com/subscriber/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticsnews.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618081642id_/http%3A//plasticsnews.com/subscriber/privacy.html) for the most accurate reproduction.*
 
 # Plastics News - Privacy Policy
 
 [](https://web.archive.org/subscriber/headlines.phtml)  
-|   | 
+[](http://www.npe.org/ads/009) |   | 
 
 _PlasticsNews.com_ , _PlasticsEncounter.com_ and _PlasticsNews.com/China_ are the Web sites of _Plastics News_ , a publication of Crain Communications Inc. Our postal address is 1725 Merriman Road, Akron, OH 44313, USA. We can be reached by e-mail at [webmaster@plasticsnews.com](mailto:webmaster@plasticsnews.com) or by telephone at 330-865-6212. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
 
