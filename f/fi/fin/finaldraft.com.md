@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finaldraft.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231221305id_/http%3A//www.finaldraft.com/company/policies-privacy.php4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finaldraft.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618163503id_/http%3A//finaldraft.com/company/policies-privacy.php4) for the most accurate reproduction.*
 
 # Policies - Privacy
 
