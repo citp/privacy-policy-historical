@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the wbshop.com privacy policy that was archived on 2005-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml%3Fcid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbshop.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618233153id_/http%3A//www.wbshop.com/content.xml%3Fcid%3Dprivacy) for the most accurate reproduction.*
 
 # WBShop.com – Exclusive Warner Bros. merchandise from Harry Potter, Tweety, Taz, Batman, Superman, Scooby-Doo, and more - Privacy Policy
 
 ### Privacy Policy
 
-  * [The Information We Collect](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#collect)
-  * [How We Use the Information](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#use)
-  * [Third-Party Sites and Sponsors](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#sponsors)
-  * [Cookies](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#cookies)
-  * [Our Commitment to Security](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#commitment)
-  * [How You Can Access or Correct Information](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#access)
-  * [Special Note for Parents](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#parents)
-  * [Notification of Updates](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#updates)
-  * [How to Contact Us](https://web.archive.org/web/20051124035841id_/http%3A//www.wbshop.com/content.xml?cid=privacy#contact)
+  * [The Information We Collect](https://web.archive.org/web/20060618233153id_/http%3A//www.wbshop.com/content.xml?cid=privacy#collect)
+  * [How We Use the Information](https://web.archive.org/web/20060618233153id_/http%3A//www.wbshop.com/content.xml?cid=privacy#use)
+  * [Third-Party Sites and Sponsors](https://web.archive.org/web/20060618233153id_/http%3A//www.wbshop.com/content.xml?cid=privacy#sponsors)
+  * [Cookies](https://web.archive.org/web/20060618233153id_/http%3A//www.wbshop.com/content.xml?cid=privacy#cookies)
+  * [Our Commitment to Security](https://web.archive.org/web/20060618233153id_/http%3A//www.wbshop.com/content.xml?cid=privacy#commitment)
+  * [How You Can Access or Correct Information](https://web.archive.org/web/20060618233153id_/http%3A//www.wbshop.com/content.xml?cid=privacy#access)
+  * [Special Note for Parents](https://web.archive.org/web/20060618233153id_/http%3A//www.wbshop.com/content.xml?cid=privacy#parents)
+  * [Notification of Updates](https://web.archive.org/web/20060618233153id_/http%3A//www.wbshop.com/content.xml?cid=privacy#updates)
+  * [How to Contact Us](https://web.archive.org/web/20060618233153id_/http%3A//www.wbshop.com/content.xml?cid=privacy#contact)
 
 
 
