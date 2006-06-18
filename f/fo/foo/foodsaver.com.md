@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodsaver.com privacy policy that was archived on 2005-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051104221056id_/http%3A//www.foodsaver.com/privacypolicy.ad2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodsaver.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619003831id_/http%3A//www.jardendirect.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Jarden Direct Privacy Policy
 
