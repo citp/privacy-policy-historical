@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giantmag.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223004843id_/http%3A//www.giantmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantmag.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618081247id_/http%3A//giantmag.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Giant Magazine — The Ultimate Entertainment Magazine
 
