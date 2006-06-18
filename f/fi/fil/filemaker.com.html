@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the filemaker.com privacy policy that was archived on 2005-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228044537id_/http%3A//www.filemaker.com/company/legal/notice/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the filemaker.com privacy policy that was archived on 2006-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060618021520id_/http%3A//filemaker.com/company/legal/notice/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>FileMaker Inc. - FileMaker</title>
@@ -7,7 +7,7 @@
 <link href="../../../../favicon.ico" rel="SHORTCUT ICON" title="external:/favicon.ico">
 
 
-<meta content="Tue, 27 Dec 2005 02:04:42 -0320" name="date">
+<meta content="Wed, 17 May 2006 000:57:13 -0380" name="date">
 
 <script language="JavaScript" src="../../../javascript/javascript.js" type="text/javascript"> </script>
 <script language="JavaScript">
@@ -77,11 +77,33 @@ var gIndex=0;
 var DCS=new Object();
 var WT=new Object();
 var DCSext=new Object();
-var gDomain="192.35.50.78";
+var gDomain="www80.filemaker.com";
 var gDcsId="";
 // Add customizations here
 //WT.sp="@@SPLITVALUE@@";
-
+//MultiTrack module
+function dcsMultiTrack(){
+	if (arguments.length%2==0){
+		for (var i=0;i<arguments.length;i+=2){
+	if (arguments[i].indexOf('WT.')==0){
+		WT[arguments[i].substring(3)]=
+	arguments[i+1]; 
+	} 
+	else if (arguments[i].indexOf('DCS.')==0){
+		DCS[arguments[i].substring(4)]=
+		arguments[i+1]; 
+	} 
+	else if (arguments[i].indexOf('DCSext.')==0){
+		DCSext[arguments[i].substring(7)]=
+		arguments[i+1]; 
+		} 
+	} 
+	var dCurrent=new Date();
+	DCS.dcsdat=dCurrent.getTime();
+	dcsTag(); 
+	} 
+} 
+//End MultiTrack Mod
 function dcsVar(){
 	var dCurrent=new Date();
 	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
@@ -116,11 +138,9 @@ function dcsVar(){
 		}
 	}
 }
-
 function A(N,V){
 	return "&"+N+"="+dcsEscape(V);
 }
-
 function dcsEscape(S){
 	if (typeof(RE)!="undefined"){
 		var retStr = new String(S);
@@ -133,7 +153,6 @@ function dcsEscape(S){
 		return escape(S);
 	}
 }
-
 function dcsCreateImage(dcsSrc){
 	if (document.images){
 		gImages[gIndex]=new Image;
@@ -144,7 +163,6 @@ function dcsCreateImage(dcsSrc){
 		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
 	}
 }
-
 function dcsMeta(){
 	var myDocumentElements;
 	if (document.all){
@@ -170,7 +188,6 @@ function dcsMeta(){
 		}
 	}
 }
-
 function dcsTag(){
 	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
 	for (N in DCS){
@@ -191,16 +208,14 @@ function dcsTag(){
 	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
 		P=P.substring(0,2040)+"&WT.tu=1";
 	}
-
 	dcsCreateImage(P);
 }
-
 dcsVar();
 dcsMeta();
 dcsTag();
 //-->
 </script>
-<noscript><img border="0" name="DCSIMG" width="1" height="1" src="http://192.35.50.78/njs.gif?dcsuri=/nojavascript&WT.js=No"></noscript><!-- END OF Data Collection Server TAG -->	
+<noscript><img border="0" name="DCSIMG" width="1" height="1" src="http://www80.filemaker.com/njs.gif?dcsuri=/nojavascript&WT.js=No"></noscript><!-- END OF Data Collection Server TAG -->	
 <!--Global Navigation-->
 <div id="bodyContent">
 <a name="top" id="top"></a>
@@ -254,11 +269,8 @@ dcsTag();
         <li><a href="/products/fms/">Server 8</a></li>
         <li><a href="/products/fmsa/">Server 8 Advanced</a></li>
         <li><a href="/products/fmm/">Mobile 8</a></li>
-        <li><a href="/products/7/">FileMaker 7 products </a></li>
         <li><a href="/products/third_party.html">Ready-made solutions</a></li>
-        <!--      <li><a href="/products/third_party.html">Third-party products</a></li>
-        <li><a href="/support/upgrade/index.html">Upgrade</a></li>-->
-      </ul>
+             </ul>
     </li>
     <li class="submenu" style="display: inline; list-style: none; position: static;"><a href="/solutions/">solutions</a>
       <ul>
@@ -331,13 +343,14 @@ if (SAFARI){document.write('<style>ul#globalMain li.submenuLast ul li a,ul#globa
  
 
 <div class="Rsidebar">
-<p><a href="https://www.truste.org/ivalidate.php?url=www.filemaker.com" target="_blank"><img align="right" border="0" height="73" src="../../../images/logos/truste_verify.gif" width="91"></a>FileMaker, Inc.,
-("FileMaker") is a licensee of the TRUSTe Privacy Program. TRUSTe
-is an independent, nonprofit organization whose mission is to build
-users' trust and confidence in the Internet by promoting the use of
-fair information practices. Because FileMaker wants to demonstrate
-our commitment to your privacy, we have agreed to disclose our
-information privacy practices for compliance review by TRUSTe.</p>
+<p><a href="../../../images/logos/clickseal.gif"><img align="right" border="0" height="73" src="../../../images/logos/clickseal.gif" width="91"></a>FileMaker,
+Inc., ("FileMaker") is a licensee of the TRUSTe Privacy Program.
+TRUSTe is an independent, nonprofit organization whose mission is
+to build users' trust and confidence in the Internet by promoting
+the use of fair information practices. Because FileMaker wants to
+demonstrate our commitment to your privacy, we have agreed to
+disclose our information privacy practices for compliance review by
+TRUSTe.</p>
 
 <p>The TRUSTe trustmark reflects our promise to tell you what
 personal information we collect; the types of companies we may
@@ -351,9 +364,10 @@ in the information.</p>
 use, or disclosure of your personal information, please email us at
 <a href="mailto:privacy@filemaker.com">privacy@filemaker.com</a>.
 If FileMaker doesn't respond or your inquiry hasn't been addressed
-to your satisfaction, please visit the <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">TRUSTe website</a> for contact information. This
-certification applies to all sites under the filemaker.com domain.
-However, any communications to TRUSTe must be in English.</p>
+to your satisfaction, please visit the <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">TRUSTe
+website</a> for contact information. This certification applies to
+all sites under the filemaker.com domain. However, any
+communications to TRUSTe must be in English.</p>
 
 <p>Disclaimer: The TRUSTe program covers only information that is
 collected through this Web site, and does not cover information
@@ -463,7 +477,7 @@ with the FileMaker Customer Privacy Policy. FileMaker may
 occasionally share your personal contact information with carefully
 selected companies, to keep you informed about related products and
 services. If you do not want to receive promotional information
-from FileMaker or other companies and wish to opt-out, visit the <a href="../../opt_out.html">FileMaker Communications Web Page</a>.</p>
+from FileMaker or other companies and wish to opt-out, visit the <a href="/company/opt_out">FileMaker Communications Web Page</a>.</p>
 
 <p>FileMaker works with other companies that help us provide
 FileMaker products and services to you, and we may provide your
@@ -507,7 +521,7 @@ Service</a>.</p>
 
 <p>If you receive communications about FileMaker-related products
 and services and wish to opt-out, visit the FileMaker
-Communications Web Page at <a href="../../opt_out.html">http://www.filemaker.com/company/opt_out.html</a>,
+Communications Web Page at <a href="/company/opt_out">http://www.filemaker.com/company/opt_out.html</a>,
 send an e-mail to <a href="mailto:remove@filemaker.com">remove@filemaker.com</a> or call
 our Customer Service department at toll-free (800) 325-2747.</p>
 
@@ -623,7 +637,7 @@ please contact us at:</p>
 <br clear="all">
 </h1></div>
 <!--Footer-->
-<div id="footer">Copyright © 1994-2005, FileMaker, Inc.
+<div id="footer">Copyright © 1994-2006, FileMaker, Inc.
   <ul>
     <li><a href="/company/legal/index.html">Legal</a></li>
     <li><a href="/company/legal/notice/privacy.html">Privacy Policy</a></li>
