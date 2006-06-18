@@ -1,462 +1,559 @@
-<!--The following is the downloaded HTML source of the afvclub.com privacy policy that was archived on 2005-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051220032810id_/http%3A//www.afvclub.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the afvclub.com privacy policy that was archived on 2006-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060618234856id_/http%3A//www.afvclub.com/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>privacy policy</title>
-<title>Armed Forces Vacation Club</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="keywords" content=""><meta name="description" content=""><meta name="robots" content="index,follow"><link href="tools/style.css" type="text/css" rel="stylesheet"></head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>Armed Forces Vacation Club</title>
+
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta name="WT.ti" content="Privacy Policy">
+	<meta name="WT.cg_n" content="Policy">
+
+</head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><a name="top"></a>
+<!-- START OF SDC Advanced Tracking Code -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime: 2005/09/22 12:07:59 $ -->
+<script language="Javascript"><!--
+var gService = false;
+var gTimeZone = -5;
+// Code section for Enable First-Party Cookie Tracking
+function dcsCookie(){
+	if (typeof(dcsOther)=="function"){
+		dcsOther();
+	}
+	else if (typeof(dcsPlugin)=="function"){
+		dcsPlugin();
+	}
+	else if (typeof(dcsFPC)=="function"){
+		dcsFPC(gTimeZone);
+	}
+}
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
+		}
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	for (var i=0;i<aCookie.length;i++){
+		var aCrumb=aCookie[i].split("=");
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsGetIdCrumb(name,crumb){
+	var cookie=dcsGetCookie(name);
+	var id=cookie.substring(0,cookie.indexOf(":lv="));
+	var aCrumb=id.split("=");
+	for (var i=0;i<aCrumb.length;i++){
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsFPC(offset){
+	if (typeof(offset)=="undefined"){
+		return;
+	}
+	var name=gFpc;
+	var dCur=new Date();
+	dCur.setTime(dCur.getTime()+(dCur.getTimezoneOffset()*60000)+(offset*3600000));
+	var dExp=new Date(dCur.getTime()+315360000000);
+	var dSes=new Date(dCur.getTime());
+	if (document.cookie.indexOf(name+"=")!=-1){
+		var id=dcsGetIdCrumb(name,"id");
+		var lv=parseInt(dcsGetCrumb(name,"lv"));
+		var ss=parseInt(dcsGetCrumb(name,"ss"));
+		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+			return;
+		}
+		WT.co_f=id;
+		var dLst=new Date(lv);
+		dSes.setTime(ss);
+		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			dSes.setTime(dCur.getTime());
+			WT.vt_f_s="1";
+		}
+		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+			WT.vt_f_d="1";
+		}
+	}
+	else{
+		var tmpname=name+"_TMP=";
+		document.cookie=tmpname+"1";
+		if (document.cookie.indexOf(tmpname)!=-1){
+			document.cookie=tmpname+"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
+			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+				WT.co_f=gWtId;
+			}
+			else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+				WT.co_f=gTempWtId;
+				WT.vt_f="1";
+			}
+			else{
+				WT.co_f="2";
+				var cur=dCur.getTime().toString();
+				for (var i=2;i<=(32-cur.length);i++){
+					WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+				}
+				WT.co_f+=cur;
+				WT.vt_f="1";
+			}
+			if (typeof(gWtAccountRollup)=="undefined"){
+				WT.vt_f_a="1";
+			}
+			WT.vt_f_s="1";
+			WT.vt_f_d="1";
+		}
+		else{
+			WT.vt_f="2";
+			WT.vt_f_a="2";
+			return;
+		}
+	}
+	WT.co_f=escape(WT.co_f);
+	WT.vt_sid=WT.co_f+"."+dSes.getTime();
+	var expiry="; expires="+dExp.toGMTString();
+	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+}
+
+// Code section for Use the new first-party cookie generated with this tag.
+var gFpc="WT_FPC";
+var gWtId="";
+var gTempWtId="";
+var gConvert=true;
+
+// Code section for Set the First-Party Cookie domain
+var gFpcDom=".afvclub.com";
+
+function dcsAdv(){
+	dcsFunc("dcsET");
+	dcsFunc("dcsCookie");
+	dcsFunc("dcsAdSearch");
+	dcsFunc("dcsTP");
+}
+
+//-->
+</script>
+<!-- END OF SDC Advanced Tracking Code -->
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime: 2005/10/21 15:53:12 $ -->
+<script language="Javascript"><!--
+gVersion="1.0";
+//-->
+</script>
+<script language="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</script>
+<script language="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</script>
+<script language="Javascript1.3"><!--
+gVersion="1.3";
+if (window.ActiveXObject){
+	var gFV="";
+	for (var gVer=2;gVer<=10;gVer++){
+		try{
+			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
+			if (gFlash){
+				gFV=gVer+".0";
+				break;
+			}
+		}
+		catch(e){
+		}
+	}
+}
+//-->
+</script>
+<script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script>
+<script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script>
+<script language="JavaScript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+
+var gDomain="sdc.rci.com";
+var gDcsId="dcsqvt6s8z93uck8dimor640a_3e1p";
+
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
+	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
+}
+//-->
+</script><script language="JavaScript" src="https://sdc.rci.com/dcsqvt6s8z93uck8dimor640a_3e1p/wtid.js"></script>
+<script language="Javascript"><!--
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=document.title;
+	}
+	WT.js="Yes";
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+	if (document.body&&document.body.addBehavior){
+		document.body.addBehavior("#default#clientCaps");
+		if (document.body.connectionType){
+			WT.ct=document.body.connectionType;
+		}
+		document.body.addBehavior("#default#homePage");
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	if (parseInt(navigator.appVersion)>3){
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+		}
+		else if (navigator.appName=="Netscape"){
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+		}
+	}
+	WT.fi="No";
+	if (window.ActiveXObject){
+		if ((typeof(gFV)!="undefined")&&(gFV.length>0)){
+			WT.fi="Yes";
+			WT.fv=gFV;
+		}
+	}
+	else if (navigator.plugins&&navigator.plugins.length){
+		for (var i=0;i<navigator.plugins.length;i++){
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+				WT.fi="Yes";
+				WT.fv=navigator.plugins[i].description.split(" ")[2];
+				break;
+			}
+		}
+	}
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+		if (gQP.length>0){
+			for (var i=0;i<gQP.length;i++){
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+				if (pos!=-1){
+					var front=DCS.dcsqry.substring(0,pos);
+					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+					DCS.dcsqry=front+end;
+				}
+			}
+		}
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
+		}
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var elems;
+	if (document.all){
+		elems=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		elems=document.getElementsByTagName("meta");
+	}
+	if (typeof(elems)!="undefined"){
+		for (var i=1;i<=elems.length;i++){
+			var meta=elems.item(i-1);
+			if (meta.name){
+				if (meta.name.indexOf('WT.')==0){
+					WT[meta.name.substring(3)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCSext.')==0){
+					DCSext[meta.name.substring(7)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCS.')==0){
+					DCS[meta.name.substring(4)]=meta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+function dcsFunc(func){
+	if (typeof(window[func])=="function"){
+		window[func]();
+	}
+}
+
+dcsVar();
+dcsMeta();
+dcsFunc("dcsAdv");
+dcsTag();
+//-->
+</script>
+
+<noscript>
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://sdc.rci.com/dcsqvt6s8z93uck8dimor640a_3e1p/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+</noscript>
+<!-- END OF SmartSource Data Collector  TAG -->	
+<map name="utilities">
+<area shape="rect" coords="0,0,60,23" href="register.asp" alt="Register">
+<area shape="rect" coords="60,0,106,23" href="http://www.rcihnresorts.com/RT_partners/CDA/RT_partners_index.jsp?ID=afv" alt="Login">
+<area shape="rect" coords="106,0,174,23" href="about.asp" alt="About Us">
+<area shape="rect" coords="174,0,246,23" href="contact.asp" alt="Contact Us">
+</map>
+
+
+<map name="footer">
+<area shape="rect" coords="375,0,452,13" href="privacy.asp" alt="Privacy Policy">
+<area shape="rect" coords="452,0,530,13" href="terms.asp" alt="Terms of Use">
+</map>
+
+<map name="partners">
+<area shape="rect" coords="25,20,90,80" href="http://www.uscg.mil/mwr/" target="_blank" alt="US Coast Guard">
+<area shape="rect" coords="180,20,245,80" href="http://www.armymwr.com/portal/travel/travelresources/" target="_blank" alt="US Army MWR">
+<area shape="rect" coords="245,20,310,80" href="http://www.mwr.navy.mil/" target="_blank" alt="Navy MWR">
+<area shape="rect" coords="310,20,420,80" href="http://www-p.afsv.af.mil/" target="_blank" alt="USAF Services">
+
+</map>
+
+<link href="styles.css" rel="stylesheet" type="text/css">
 
 
 
 
-	
-	
-	
-	
-	
-	
 
 
-<body>
-	<div id="container">
-		<div id="banner"><table border="0" cellpadding="0" cellspacing="0" align="center">
-			<tbody><tr>
-				<td><img src="images/headerimage_1.jpg" border="0"></td>
-				<td><img src="images/headerimage_2.jpg" border="0"></td>
-				<td><a href="buyone.asp"><img src="images/afvclogo.gif" border="0"></a></td>
-				<td><img src="images/headerimage_3.jpg" border="0"></td>
-				<td><img src="images/headerimage_4.jpg" border="0"></td>
-			</tr>
-		</tbody></table></div>
+<div class="nosubnav">
+<table border="0" cellpadding="0" cellspacing="0" width="770">
+<tbody><tr>
+  <td><a href="default.asp"><img src="images/logo_afvc.gif" alt="Armed Forces Vacation Club" width="300" height="64" border="0"></a></td>
+  <td valign="top" align="right"><img src="images/utilities.gif" width="246" height="23" usemap="#utilities" border="0"></td>
+</tr>
+</tbody></table><!--BEGIN Main Navigation Tabs-->
+<table border="0" cellpadding="0" cellspacing="0" height="43" width="770">
+  <tbody><tr>
+   <td width="5"><img src="images/spacer.gif" width="5" height="43"></td>
+   <td width="40"><img src="images/nav_start.jpg" width="40" height="43"></td>
 
-		<div id="sidebar-a">
-		<a href="ProgramInformation.asp"><img src="images/left_menua_start.gif" border="0" alt="How Did it Start?" class="menuoption"></a><br>
-		<a href="policies_proc.asp#1"><img src="images/left_menua_eligible.gif" border="0" alt="Am I Eligible?" class="menuoption"></a><br>
-		<a href="policies_proc.asp#4"><img src="images/left_menua_reservation.gif" border="0" alt="How do I Make a Reservation?" class="menuoption"></a><br>
-		<a href="policies_proc.asp#6"><img src="images/left_menua_cancel.gif" border="0" alt="What if I Have to Cancel?" class="menuoption"></a><br>
-		<a href="search.asp"><img src="images/left_menua_search.gif" border="0" alt="Search for Available Resort Condos" class="menuoption"></a><br>
-		<a href="ClubOpportunities.asp"><img src="images/left_menua_other.gif" border="0" alt="Other AFVC Travel Opportunities" class="menuoption"></a><br>
-		<a href="Installations.asp"><img src="images/left_menua_installation.gif" border="0" alt="Installation Information" class="menuoption"></a><br>
-		<a href="DesiNotes.asp"><img src="images/left_menua_family.gif" border="0" alt="Can Family and Friends Participate?" class="menuoption"></a><br>
-		<a href="testimonials.asp"><img src="images/left_menua_testimonial.gif" border="0" alt="What are AFVC Users Saying?" class="menuoption"></a><br>
-		<a href="faq.asp"><img src="images/left_menua_faq.gif" border="0" alt="Frequently Asked Questions" class="menuoption"></a><br>
-		<a href="ContactUs.asp"><img src="images/left_menua_emailus.gif" border="0" alt="E-Mail Us" class="menuoption"></a><br>
-		<a href="default.asp"><img src="images/left_menua_home.gif" border="0" alt="Home" class="menuoption"></a><br>
-		<a href="Site%20Map.asp"><img src="images/left_menua_sitemap.gif" border="0" alt="Site Map" class="menuoption"></a><br>
-		<img src="images/left_menua_discounts.gif" border="0" alt="Click on a logo for discounts and savings for AFVC members" class="menuoption"><br>
-		<a href="http://www.avis.com/members/A555093.html" target="_blank"><img src="images/140x58_Avis.gif" border="0" alt="AVIS" class="menuoption" hspace="4"></a><br>
-		<a href="http://www.cendantcarrental.com/budget/assoc/index.html?V053901" target="_blank"><img src="images/140x58_Budget.gif" border="0" alt="Budget" class="menuoption" hspace="4"></a><br>
-		<a href="hoteldisc.asp"><img src="images/140x58_CendantHotels_AFVC.gif" border="0" alt="Budget" class="menuoption" hspace="4"></a><br>
-		<br>
-		</div>
+   <td width="39"><a href="default.asp"><img src="images/nav_home.jpg" width="39" height="43" border="0"></a></td>
 
-		<div id="sidebar-b">
-		<div id="sidebar-newsletter">
-		<h1 align="center">AFVC Specials</h1>
-		Sign up to receive AFVC Special Deals
-		<p><img src="images/BlueAndPointy.png" border="0" alt="Newsletter Signup" align="absmiddle"> <a href="newsletter.asp">Send me email specials!</a></p>
-		</div>
-			
-		<a href="priceinfo.asp"><img src="images/PriceInfo.gif" border="0" alt="Price Change" class="menuoption"></a><br>	
-		<a href="gascard.asp"><img src="images/AFVC_gas_index-banner_v2.gif" border="0" alt="Gas Up &amp; Go" class="menuoption"></a><br>	
-		<a href="buyone.asp"><img src="images/save100_147x140.gif" border="0" alt="Buy One" class="menuoption"></a><br>
-		<a href="http://www.chooseacottage.co.uk/partners/AFV/index.asp" target="_blank"><img src="images/afv_banner.jpg" border="0" alt="cottages" class="menuoption"></a><br>
-		<a href="http://www.fairfieldgetaways.com/c64p1239" target="_blank"><img src="images/125x125_AXVA_32_129.gif" border="0" alt="williamsburg" class="menuoption"></a><br>
-		<!-- a href=""><img src="images/125x125_FFR_animated.gif" border="0" alt="Special Package Pricing" class="menuoption" /></a><br / -->
-		</div>
+   <td width="40"><img src="images/nav_between.jpg" width="40" height="43"></td>
 
-		<div id="top_menu">
-			<img src="images/top_menua_separator.gif" border="0">
-			<a href="http://www.chooseacottage.co.uk/partners/AFV/index.asp" target="_blank"><img src="images/top_menua_cottages.gif" border="0" alt="Cottages" class="topmenu"></a>
-			<img src="images/top_menua_separator.gif" border="0">
-			<a href="hoteldisc.asp"><img src="images/top_menua_hotels.gif" border="0" alt="Hotels" class="topmenu"></a>
-			<img src="images/top_menua_separator.gif" border="0">
-			<a href="autoservices.asp"><img src="images/top_menua_auto.gif" border="0" alt="Auto Services" class="topmenu"></a>
-			<img src="images/top_menua_separator.gif" border="0">
-			<a href="cruises.asp"><img src="images/top_menua_cruises.gif" border="0" alt="Cruises" class="topmenu"></a>
-			<img src="images/top_menua_separator.gif" border="0">
-			<a href="http://www.offdutytravelersadvantage.com/" target="blank"><img src="images/top_menua_travel.gif" border="0" alt="Travel Services" class="topmenu"></a>
-			<img src="images/top_menua_separator.gif" border="0">
-		</div>
-		
-		<div id="content">
+   <td width="96"><a href="vacationrr.asp"><img src="images/nav_vacationrr.jpg" width="108" height="43" border="0"></a></td>
+
+   <td width="40"><img src="images/nav_between.jpg" width="40" height="43"></td>
+
+   <td width="52"><a href="specialoffers.asp"><img src="images/nav_specialoffers.jpg" width="52" height="43" border="0"></a></td>
+
+   <td width="40"><img src="images/nav_between.jpg" width="40" height="43"></td>
+
+   <td width="70"><a href="travelres.asp"><img src="images/nav_travelres.jpg" width="70" height="43" border="0"></a></td>
+
+   <td width="40"><img src="images/nav_between.jpg" width="40" height="43"></td>
+
+   <td width="38"><a href="help.asp"><img src="images/nav_help.jpg" width="38" height="43" border="0"></a></td>
+
+   <td width="40"><img src="images/nav_between.jpg" width="40" height="43"></td>
+
+   <td width="34"><a href="faqs.asp"><img src="images/nav_faqs.jpg" width="34" height="43" border="0"></a></td>
+
+   <td width="40"><img src="images/nav_end.jpg" width="40" height="43"></td>
+
+   <td valign="top" align="center" width="*"><a href="signup.asp"><img src="images/btn_signup_special.jpg" alt="Sign-Up for Special Deals" width="142" height="40" border="0"></a></td>
+  </tr>
+</tbody></table>
+<!--END Main Navigation Tabs-->
+
+<!--BEGIN Sub-Navigation Links-->
+<div class="subnavnone"><!--test link1 | test link2 | test link3 | test link 4 | test link5 | test link26 | test link7 | test link 8--></div>
+<!--END Sub-Navigation Links-->
+<div class="breadcrumbs"><a href="default.asp">Home</a> &gt; <b>Privacy Policy</b></div>
 
 
-<p align="center"><strong><font face="Century Gothic" color="#333399" size="6">Privacy Policy</font></strong> 
-            
-           
-           
-           
-            
-                 
-             
-            </p>
-<p>We at the <strong>Armed Forces Vacation Club (AFVC)</strong> and 
-<strong>        <span class="body2bold">Resort Condominiums International, LLC</span>,</strong> and 
-the family of companies owned by Cendant Corporation, Our parent company 
-(collectively referred to as "RCI," "We," "Us," or "Our") recognize the 
-importance of protecting the privacy of certain information or data collected 
-about Our users, prospective users or other customers (collectively referred to 
-as "Users," "You," or "Your"). This Privacy Policy discloses what information We 
-gather, how We use it, and how to correct or change it. At RCI, it is Our 
-intention to give You an understanding about how We collect Your information and 
-the use We make of it in the course of Our business. </p>
-<p><br>
-</p><p>
-</p><p><b>
-</b></p><center><b>Your California Privacy Rights</b></center><br>Under California Law, 
-California residents have the right to request in writing from businesses with 
-whom they have an established business relationship, (1) a list of the 
-categories of personal information, such as name, address, e-mail address, and 
-the type of services provided to the customer, that a business has disclosed to 
-third parties (including affiliates that are separate legal entities) during the 
-immediately preceding calendar year for the third parties' direct marketing 
-purposes, and (2) the names and addresses of all such third parties. To request 
-the above information, please e-mail us at: <b><a href="mailto:feedback@afvclub.com">feedback@afvclub.com</a></b> or write to 
-us at: <b>AFVC Customer Service, 9998 North Michigan Road, Carmel, IN 46032 </b>with 
-a reference to California Disclosure Information.<br><br>We will respond to such 
-written requests within 30 days following receipt at the e-mail or mailing 
-address stated above. If we receive your request at a different e-mail or 
-mailing address, we will respond within a reasonable period of time, but not to 
-exceed 150 days from the date received. Please note that we are only required to 
-respond to each customer once per calendar year. 
-<p></p>
-<p><br>
-</p><p><strong></strong>
 
-  
-      </p><div class="vtTitleCurveTD1Bg"><strong>Information Collection 
-&amp; Use</strong>   </div>
-  
+<!--BEGIN Body-->
+<div class="container2">
+<p><img src="images/title_privacy.gif" alt="Privacy Policy"></p>
 
-          RCI collects two (2) types of information about its 
-            Users: 1) personally identifiable information that users provide 
-            through optional, voluntary registration on Our Web Sites ("Personal 
-            Information"); and 2) aggregated (non-personally identifiable) 
-            information ("Aggregate Information") that RCI gathers through 
-            aggregated tracking, mainly by tallying Web page views throughout 
-            Our Web Sites. Such information enables Us to tailor Our content to 
-            fit Our Users' needs better and to help Our advertisers understand 
-            Our audience. 
-            <p>RCI also collects general business information relating to 
-            employees, contractors, shareholders, resort managers and other 
-            individuals. However, this privacy policy does not outline in detail 
-            the use of contractor and employee information. 
-            </p><p>RCI only collects Personal Information that is necessary for 
-            business purposes. We collect Personal Information by specifically 
-            requesting it from You. Generally this occurs when You enroll in an 
-            RCI Exchange Program, register on one of Our Web Sites, request 
-            information from Us, participate in activities on Our Web Sites, 
-            such as promotional offers and sweepstakes. At such times, you give 
-            contact information such as name, postal address, e-mail address, 
-            and telephone number. When You purchase products and/ or services 
-            from Us, we will note, for example, your contact information, credit 
-            card information, the type of services or products ordered or 
-            purchased, and the date of the order or purchase. When other 
-            information such as, gender, age range, number of children, and 
-            product and/or service preferences, and related transactional 
-            information You may provide to us by any means, including but not 
-            limited to through Our Web-sites and through third parties, by 
-            e-mail, telephone, fax or mail, is associated with Personal 
-            Information, this other information also becomes Personal 
-            Information for purposes of this Privacy Policy. Personal 
-            Information does not include the name, title or business address or 
-            telephone number of an employee of an organization, or the name, 
-            address or telephone number of a person that is available in a 
-            public telephone directory. 
-</p>
-<p><br>
-</p><p>
+<p>We at the <i>Armed Forces Vacation Club</i> (AFVC) and Resort Condominiums International, LLC, and the family of companies owned by Cendant Corporation, Our parent company (collectively referred to as "RCI," "We," "Us," or "Our") recognize the importance of protecting the privacy of certain information or data collected about Our users, prospective users or other customers (collectively referred to as "Users," "You," or "Your"). This Privacy Policy discloses what information We gather, how We use it, and how to correct or change it. At RCI, it is Our intention to give You an understanding about how We collect Your information and the use We make of it in the course of Our business.
 
-      </p><div class="vtTitleCurveTD1Bg"><strong>Usage 
-tracking</strong> </div>
 
-          <span class="body2bold">Use of Internet Protocol ("IP") 
-            Addresses</span>. An IP address is a unique number that is 
-            automatically assigned to Your computer whenever you're surfing the 
-            Internet so that Your computer can be identified by the main 
-            computers, known as "Web servers," that "serve up" Web pages. This 
-            allows Us to identify and gather general information and data about 
-            You, such as the Web pages You view. 
-            <p>RCI collects IP addresses for the purposes of system 
-            administration, to report aggregated information to Our business 
-            partners, and to audit the use of Our Web Site. When Users request 
-            pages from RCI's Web Sites, Our servers log the Users IP addresses. 
-            We do not normally link IP addresses to anything personally 
-            identifiable, which means that a Users session will be logged, but 
-            the User will remain anonymous to Us. We can and will use IP 
-            addresses to identify a User when We feel it is necessary to enforce 
-            compliance with Our Web Site terms of use or terms of service or to 
-            protect Our service, site, Users or others. 
-    </p>
-<p><br>
-</p><p><strong>Use of Cookies</strong><br>
-  
-          <span class="body2bold">What are cookies?</span> 
-            Cookies are small pieces of information that a Web site sends to 
-            Your computer for record-keeping purposes, which information is 
-            stored in a file on Your computer. Cookies make Web-surfing easier 
-            for You by saving Your preferences so that We can use the saved 
-            information to facilitate Your use of Our Web site when You return 
-            to the site. Cookies do not tell Us Your individual identity unless 
-            You have chosen to provide it to Us, nor does Your accepting a 
-            cookie in any way gives Us access to Your computer. We never save 
-            passwords or credit card information in cookies. The use of cookies 
-            is an industry standard, and as such, You'll find that most major 
-            Web sites use them. 
-            </p><p>By showing how and when Users use a site, cookies help Us see 
-            which areas are popular and which are not. Many improvements and 
-            updates to the site are based on such data as total number of 
-            visitors and pages viewed. This information is most easily tracked 
-            with cookies. We use the information from cookies to provide 
-            services better tailored to Our Users' needs. 
-            </p><p>Most cookies expire after a defined period of time, or You can 
-            delete Your cookie file at any time. Most browsers are initially set 
-            up to accept cookies. You can reset Your browser to refuse all 
-            cookies or indicate when a cookie is being sent. However, note that 
-            some parts of RCI's services will not function properly or may be 
-            considerably slower if You refuse cookies. For example, without 
-            cookies, You will not be able to set personalized preferences, 
-            and/or may have difficulty completing marketing transactions. 
-            </p><p>RCI have two (2) primary uses for its cookies. First, We use them 
-            to specify a user's preferences. For example, users can specify 
-            keywords across several categories or markets so You don't have to 
-            tell Us repeatedly about Your travel preferences. Second, We use 
-            cookies to track users Web site usage trends and patterns. This 
-            helps Us understand Our users needs better and improve areas of 
-            RCI's services that Our Users find valuable. While both of these 
-            activities depend on the use of cookies, You have the option of 
-            disabling the cookies via Your browser preferences. 
-            </p><p>You may occasionally get cookies from Our advertisers. RCI do not 
-            control these cookies and these cookies may not follow the rules we 
-            have set for our own cookies. The use of advertising cookies sent by 
-            third-party servers is standard in the Internet industry. 
-        </p>
-<p><br>
-</p><p>
+</p><h3>Your California Privacy Rights</h3>
 
-      </p><div class="vtTitleCurveTD1Bg"><strong>Uses Of Personal 
-Information</strong>   </div>
-  
-          As a general rule, RCI does not, and will not, do the 
-            following with Your Personal Information: (1) sell or rent Your 
-            Personal Information; (2) use the Personal Information We collect 
-            and store to make decisions about granting or extending consumer 
-            credit unless You submit a separate credit application and authorize 
-            Us to use or disclose this information; or (3) act as a consumer 
-            reporting agency, or furnish information about any User's credit 
-            worthiness, credit standing, credit capacity, character, general 
-            reputation, personal characteristics or mode of living to any 
-            consumer reporting agency. 
-            <p>We will use and disclose Your Personal Information to others as 
-            stated in this RCI Privacy Policy. We may use Personal Information 
-            in many ways, including sending You information on products and/or 
-            services, special deals, promotions. We may share your Personal 
-            Information with third parties so that these third parties can send 
-            you promotional materials. We may use Personal Information to 
-            complete transactions requested by you (such as your purchase of a 
-            product or service offered on Our Web sites), or to send You 
-            administrative communications either about Your membership with us 
-            or about features of our Web sites, including any future changes to 
-            this Privacy Policy. We may use Personal Information to notify 
-            sweepstakes winners and award prizes, to monitor site traffic or 
-            personalize the site, and to send emails. We also use Your Personal 
-            Information for internal quality assurance purposes. 
-            </p><p>We may supplement the Personal Information you submitted to us 
-            with information from third party sources. For example, We purchase 
-            marketing data from third parties and add it to our existing user 
-            database, to better target our marketing and to provide pertinent 
-            offers in which We think you would be interested. When we associate 
-            this information with Personal Information you have provided to Use, 
-            this other information also becomes Personal Information for 
-            purposes of this Privacy Policy. 
-            </p><p>Usually, RCIand RCI's business partners use Your information to 
-            operate the Web Sites and to deliver services. RCI also use Your 
-            information to inform You about other products and/or services 
-            available from RCI. </p>
-<p><br>
-</p><p>
+<p>Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us at: feedback@afvclub.com or write to us at: AFVC Customer Service, 9998 North Michigan Road, Carmel, IN 46032 with a reference to California Disclosure Information.
 
-      </p><div class="vtTitleCurveTD1Bg"><strong>Information Sharing and 
-Disclosure</strong>   
+</p><p>We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
+
+
+</p><h3>Information Collection &amp; Use </h3>
+<p>RCI collects two (2) types of information about its Users: 1) personally identifiable information that users provide through optional, voluntary registration on Our Web Sites ("Personal Information"); and 2) aggregated (non-personally identifiable) information ("Aggregate Information") that RCI gathers through aggregated tracking, mainly by tallying Web page views throughout Our Web Sites. Such information enables Us to tailor Our content to fit Our Users' needs better and to help Our advertisers understand Our audience.
+RCI also collects general business information relating to employees, contractors, shareholders, resort managers and other individuals. However, this privacy policy does not outline in detail the use of contractor and employee information.
+
+</p><p>RCI only collects Personal Information that is necessary for business purposes. We collect Personal Information by specifically requesting it from You. Generally this occurs when You enroll in an RCI Exchange Program, register on one of Our Web Sites, request information from Us, participate in activities on Our Web Sites, such as promotional offers and sweepstakes. At such times, you give contact information such as name, postal address, e-mail address, and telephone number. When You purchase products and/ or services from Us, we will note, for example, your contact information, credit card information, the type of services or products ordered or purchased, and the date of the order or purchase. When other information such as, gender, age range, number of children, and product and/or service preferences, and related transactional information You may provide to us by any means, including but not limited to through Our Web-sites and through third parties, by e-mail, telephone, fax or mail, is associated with Personal Information, this other information also becomes Personal Information for purposes of this Privacy Policy. Personal Information does not include the name, title or business address or telephone number of an employee of an organization, or the name, address or telephone number of a person that is available in a public telephone directory.
+
+
+</p><h3>Usage tracking</h3>
+<p>Use of Internet Protocol ("IP") Addresses. An IP address is a unique number that is automatically assigned to Your computer whenever you're surfing the Internet so that Your computer can be identified by the main computers, known as "Web servers," that "serve up" Web pages. This allows Us to identify and gather general information and data about You, such as the Web pages You view.
+
+</p><p>RCI collects IP addresses for the purposes of system administration, to report aggregated information to Our business partners, and to audit the use of Our Web Site. When Users request pages from RCI's Web Sites, Our servers log the Users IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a Users session will be logged, but the User will remain anonymous to Us. We can and will use IP addresses to identify a User when We feel it is necessary to enforce compliance with Our Web Site terms of use or terms of service or to protect Our service, site, Users or others.
+
+
+</p><h3>Use of Cookies</h3>
+<p>What are cookies? Cookies are small pieces of information that a Web site sends to Your computer for record-keeping purposes, which information is stored in a file on Your computer. Cookies make Web-surfing easier for You by saving Your preferences so that We can use the saved information to facilitate Your use of Our Web site when You return to the site. Cookies do not tell Us Your individual identity unless You have chosen to provide it to Us, nor does Your accepting a cookie in any way gives Us access to Your computer. We never save passwords or credit card information in cookies. The use of cookies is an industry standard, and as such, You'll find that most major Web sites use them.
+
+</p><p>By showing how and when Users use a site, cookies help Us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to Our Users' needs.
+
+</p><p>Most cookies expire after a defined period of time, or You can delete Your cookie file at any time. Most browsers are initially set up to accept cookies. You can reset Your browser to refuse all cookies or indicate when a cookie is being sent. However, note that some parts of RCI's services will not function properly or may be considerably slower if You refuse cookies. For example, without cookies, You will not be able to set personalized preferences, and/or may have difficulty completing marketing transactions.
+
+</p><p>RCI have two (2) primary uses for its cookies. First, We use them to specify a user's preferences. For example, users can specify keywords across several categories or markets so You don't have to tell Us repeatedly about Your travel preferences. Second, We use cookies to track users Web site usage trends and patterns. This helps Us understand Our users needs better and improve areas of RCI's services that Our Users find valuable. While both of these activities depend on the use of cookies, You have the option of disabling the cookies via Your browser preferences.
+
+</p><p>You may occasionally get cookies from Our advertisers. RCI do not control these cookies and these cookies may not follow the rules we have set for our own cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry.
+
+
+</p><h3>Uses Of Personal Information</h3>
+<p>As a general rule, RCI does not, and will not, do the following with Your Personal Information: (1) sell or rent Your Personal Information; (2) use the Personal Information We collect and store to make decisions about granting or extending consumer credit unless You submit a separate credit application and authorize Us to use or disclose this information; or (3) act as a consumer reporting agency, or furnish information about any User's credit worthiness, credit standing, credit capacity, character, general reputation, personal characteristics or mode of living to any consumer reporting agency.
+</p><p>We will use and disclose Your Personal Information to others as stated in this RCI Privacy Policy. We may use Personal Information in many ways, including sending You information on products and/or services, special deals, promotions. We may share your Personal Information with third parties so that these third parties can send you promotional materials. We may use Personal Information to complete transactions requested by you (such as your purchase of a product or service offered on Our Web sites), or to send You administrative communications either about Your membership with us or about features of our Web sites, including any future changes to this Privacy Policy. We may use Personal Information to notify sweepstakes winners and award prizes, to monitor site traffic or personalize the site, and to send emails. We also use Your Personal Information for internal quality assurance purposes.
+
+</p><p>We may supplement the Personal Information you submitted to us with information from third party sources. For example, We purchase marketing data from third parties and add it to our existing user database, to better target our marketing and to provide pertinent offers in which We think you would be interested. When we associate this information with Personal Information you have provided to Use, this other information also becomes Personal Information for purposes of this Privacy Policy.
+
+</p><p>Usually, RCIand RCI's business partners use Your information to operate the Web Sites and to deliver services. RCI also use Your information to inform You about other products and/or services available from RCI.
+
+
+
+</p><h3>Information Sharing and Disclosure</h3>
+<p>As a general rule, We will not disclose Your Personal Information that you submit to Us in a manner that connects You with the Personal Information, except when We have Your permission or under special circumstances, such as when We believe in good faith that the law requires it or under the circumstances described below. The following describes some of the ways that Your Personal Information may be disclosed.
+</p><p>Business Partners &amp; Sponsors: RCI provides Personal Information to resort operators in order to facilitate a booking that You have requested or to generate leads to timeshare developers in connection with their offers to sell timeshares to You. Otherwise RCI does not routinely disclose Personal Information, except where it is necessary to provide you with a service that You have requested such as (1) to make bookings for your travel with airlines or (2) to respond to Your inquiry for further information about mini-vacations at resorts (which are offered by timeshare developers), where a tour of the resorts is either required or requested of You by the timeshare developers. RCI may also disclose some or all of Your Personal Information to business partners or sponsors. Many promotions offer opportunities to request additional information from sponsors. By requesting such information, You give RCI permission to transfer Your Personal Information to the sponsor so they can fulfill Your request.
+
+</p><p>Third Party &amp; Aggregate Data : From time to time, You may be offered the opportunity to receive materials or special offers from third parties. If You opt to receive information from these third parties, RCI will share Your name, e-mail address and other Personal Information with such third parties. Under confidentiality agreements with third party service providers, RCI may match Personal Information with third party data. Also, RCI may keep track of what portions of the Web site users are visiting and other user statistics, and aggregate this information to help Us create a better experience for users of Our Web site. This is done in order to describe Our viewers and services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+
+</p><p>Other: RCI may disclose Personal Information and/or account information if required to do so by law, court order or as requested by a governmental or law enforcement authority or in special cases when We have reason to believe that disclosing this Personal Information is otherwise necessary or advisable (regardless of whether You have "opted out" from having Your Personal Information shared). Situations may include: to perform, maintain or enforce contracts formed between Us and our members and/or customers, to protect the rights or properties of RCI, Our members or others, or when We have reason to believe that disclosing the information is necessary or advisable, including but not limited to, the following situations: to identify, contact or bring legal action against someone who may be violating RCI's terms of use or terms of service, or may be causing or threatening to cause injury or damage to or interference with (either intentionally or unintentionally) any of RCI's rights or properties, or the rights or properties of RCI's employees, or customers ,other RCI users, or anyone else that could be harmed by such activities. Further, RCI may disclose Personal Information or access account information for administrative and other purposes that We deem necessary, in Our sole discretion, to maintain, service, and improve Our Web site, information, products and/or services.
+
+</p><h3>How can You control the usage of Your Personal Information?</h3>
+<p>In case You change Your mind about Personal Information that you have provided to us, or some Personal Information is out of date, is inaccurate, or otherwise changes (such as Your zip code or e-mail address), We will try to provide a way to correct, update, or remove such Personal Information that You give Us, as further described below. We also give You the opportunity to control the communications We direct to You by offering. Users the opportunity to "opt out" of receiving communications from RCI and/or having Personal Information shared with parties outside RCI. If a User wishes to update, correct or otherwise change Personal Information or objects to any usage provided herein for any reason, he/she may e-mail the requested change to: feedback@afvclub.com .
+
+
+
+
+</p><h3>What happens when You link to a third party Web site?</h3>
+<p>You should be aware that when You are on RCI's Web Sites You could hyperlink or be directed to other Web sites that are beyond Our control and/or outside Our service. For example, if You "click" on a banner advertisement or a RCI search result, the "click" may transfer You off the RCI Web Sites. Once you link to a third party web site and leave our Web Site, your interaction with these third party web sites will no longer be governed by our Terms of Use or Privacy Policy. These third party web sites may have separate privacy and data collection practices, and security measures. These other Web sites may include Web sites of advertisers, timeshare developers, resort operators, sponsors and partners that may use RCI's logo as part of a co-branding agreement, although the use of such logo(s) does not imply any endorsement by RCI of the material, content, products, services or information on or at such sites or any association with their operators. These other Web sites may send their own cookies to users and members, collect data, or solicit personal information.
+</p><p>RCI does not control such Web sites, and, therefore, is not responsible for their contents or the hyperlinks or advertising they choose to place on such Web sites; accordingly, your use of these third party sites is at your own risk and are subject to the terms of use and policies set forth at such sites. RCI's inclusion of hyperlinks to these third party Web sites do not imply any endorsement of the material on such Web sites or any association with their owners or operators. Given that we have no control over such Web sites, RCI has no responsibility or liability for the practices, policies and security measures implemented by such third parties on their Web sites. We encourage you to contact these third parties to ask questions about their terms of use, privacy practices, policies and security measures before disclosing Personally Identifiable Information on linked web sites. RCI's policy does not extend to anything that is inherent in the operation of the Internet, which is beyond RCI's control.
+
+</p><p>Please keep in mind that whenever You give out information online (for example, via message boards or chat) that information can be collected and used by people You don't know. While RCI strives to protect their Users' Personal Information and privacy, We cannot guarantee the security of any information You disclose online, and You disclose such information at Your own risk.
+
+
+
+
+
+</p><h3>How We secure Your Personal Information from others using the RCI Web Sites?</h3>
+<p>The security of all information associated with Our Users is an important concern to Us. We reasonable exercise care in providing secure transmission of Your information from Your computer to Our servers. Unfortunately, given that we do not control transmissions or traffic over the Internet or through third party communication service providers, we cannot guarantee or warrant the security of such transmission or your Personal Information. Your use of the Internet and our Web Site, including your transmission of Information to us, is at Your own risk. Notwithstanding, once We receive Your transmission, RCI uses industry standard efforts designed to safeguard Your Personal Information, such as firewalls and Secure Socket Layers. However, "perfect security" does not exist on the Internet.
+
+
+
+
+</p><h2>Your Acceptance of these Terms</h2>
+<p>By using Our Web Sites, You signify Your agreement with RCI's Privacy Policy. IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DO NOT USE OUR WEB SITES. RCI reserves the right, in its sole discretion, to modify, alter or otherwise update this Privacy Policy ("Revised Policy") at any time without prior notice. Such Revised Policy shall be effective immediately upon posting, and shall govern your rights and our obligations with respect to the use, disclosure and protection of your Information as of such posting. You should check this Policy periodically for, and read carefully, any such Revised Policy if you are concerned about how your Information will be used and before continuing on with your use of this Web Site. Your continued use of the <i>Armed Forces Vacation Club</i> Web Site following the posting of changes to these terms will mean You accept those changes.
+</p></div>
+
+
+
+<!--END Body-->
+
+
+
+
+<!--BEGIN Footer-->
+<img src="images/spacer.gif" height="6" width="770"><br>
+<div class="footer"><img src="images/footer.gif" alt="Copyright 2006 Armed Forces Vacation Club. All Right Reserved" usemap="#footer" border="0" width="530" height="13"></div>
+
 </div>
-          As a general rule, We will not disclose Your Personal 
-            Information that you submit to Us in a manner that connects You with 
-            the Personal Information, except when We have Your permission or 
-            under special circumstances, such as when We believe in good faith 
-            that the law requires it or under the circumstances described below. 
-            The following describes some of the ways that Your Personal 
-            Information may be disclosed. 
-            <p><strong><span class="body2bold">Business Partners &amp; Sponsors</span>:</strong> 
-            RCI provides Personal Information to resort operators in order to 
-            facilitate a booking that You have requested or to generate leads to 
-            timeshare developers in connection with their offers to sell 
-            timeshares to You. Otherwise RCI does not routinely disclose 
-            Personal Information, except where it is necessary to provide you 
-            with a service that You have requested such as (1) to make bookings 
-            for your travel with airlines or (2) to respond to Your inquiry for 
-            further information about mini-vacations at resorts (which are 
-            offered by timeshare developers), where a tour of the resorts is 
-            either required or requested of You by the timeshare developers. RCI 
-            may also disclose some or all of Your Personal Information to 
-            business partners or sponsors. Many promotions offer opportunities 
-            to request additional information from sponsors. By requesting such 
-            information, You give RCI permission to transfer Your Personal 
-            Information to the sponsor so they can fulfill Your request. 
-            </p><p><span class="body2bold"><strong>Third 
-Party &amp; Aggregate Data</strong>    </span>: 
-            From time to time, You may be offered the opportunity to receive 
-            materials or special offers from third parties. If You opt to 
-            receive information from these third parties, RCI will share Your 
-            name, e-mail address and other Personal Information with such third 
-            parties. Under confidentiality agreements with third party service 
-            providers, RCI may match Personal Information with third party data. 
-            Also, RCI may keep track of what portions of the Web site users are 
-            visiting and other user statistics, and aggregate this information 
-            to help Us create a better experience for users of Our Web site. 
-            This is done in order to describe Our viewers and services to 
-            prospective partners, advertisers, and other third parties, and for 
-            other lawful purposes. 
-            </p><p><span class="body2bold"><strong>Other</strong></span>: RCI may disclose Personal 
-            Information and/or account information if required to do so by law, 
-            court order or as requested by a governmental or law enforcement 
-            authority or in special cases when We have reason to believe that 
-            disclosing this Personal Information is otherwise necessary or 
-            advisable (regardless of whether You have "opted out" from having 
-            Your Personal Information shared). Situations may include: to 
-            perform, maintain or enforce contracts formed between Us and our 
-            members and/or customers, to protect the rights or properties of 
-            RCI, Our members or others, or when We have reason to believe that 
-            disclosing the information is necessary or advisable, including but 
-            not limited to, the following situations: to identify, contact or 
-            bring legal action against someone who may be violating RCI's terms 
-            of use or terms of service, or may be causing or threatening to 
-            cause injury or damage to or interference with (either intentionally 
-            or unintentionally) any of RCI's rights or properties, or the rights 
-            or properties of RCI's employees, or customers ,other RCI users, or 
-            anyone else that could be harmed by such activities. Further, RCI 
-            may disclose Personal Information or access account information for 
-            administrative and other purposes that We deem necessary, in Our 
-            sole discretion, to maintain, service, and improve Our Web site, 
-            information, products and/or services. 
-  </p>
-<p><br>
-</p><p>
-
-      </p><div class="vtTitleCurveTD1Bg"><strong>How can You control the 
-usage of Your Personal Information?</strong>        
-       </div>
-          In case You change Your mind about Personal Information that you 
-have provided to us, or some Personal Information is out of date, is inaccurate, 
-or otherwise changes (such as Your zip code or e-mail address), We will try to 
-provide a way to correct, update, or remove such Personal Information that You 
-give Us, as further described below. We also give You the opportunity to control 
-the communications We direct to You by offering. Users the opportunity to "opt 
-out" of receiving communications from RCI and/or having Personal Information 
-shared with parties outside RCI. If a User wishes to update, correct or 
-otherwise change Personal Information or objects to any usage provided herein 
-for any reason, he/she may e-mail the requested change to: <a href="mailto:feedback@afvclub.com">feedback@afvclub.com</a>        
-                      
-                      
-                          
-                       
-                       
-                      
-                     
-                    
-                        
-                     
-                      
-              . 
-
-<p><br>
-</p><p><strong></strong>
-
-      </p><div class="vtTitleCurveTD1Bg"><strong>What happens when You 
-link to a third party Web site?</strong>         
-       </div>
-          You should be aware that when You are on RCI's Web 
-            Sites You could hyperlink or be directed to other Web sites that are 
-            beyond Our control and/or outside Our service. For example, if You 
-            "click" on a banner advertisement or a RCI search result, the 
-            "click" may transfer You off the RCI Web Sites. Once you link to a 
-            third party web site and leave our Web Site, your interaction with 
-            these third party web sites will no longer be governed by our Terms 
-            of Use or Privacy Policy. These third party web sites may have 
-            separate privacy and data collection practices, and security 
-            measures. These other Web sites may include Web sites of 
-            advertisers, timeshare developers, resort operators, sponsors and 
-            partners that may use RCI's logo as part of a co-branding agreement, 
-            although the use of such logo(s) does not imply any endorsement by 
-            RCI of the material, content, products, services or information on 
-            or at such sites or any association with their operators. These 
-            other Web sites may send their own cookies to users and members, 
-            collect data, or solicit personal information. 
-            <p>RCI does not control such Web sites, and, therefore, is not 
-            responsible for their contents or the hyperlinks or advertising they 
-            choose to place on such Web sites; accordingly, your use of these 
-            third party sites is at your own risk and are subject to the terms 
-            of use and policies set forth at such sites. RCI's inclusion of 
-            hyperlinks to these third party Web sites do not imply any 
-            endorsement of the material on such Web sites or any association 
-            with their owners or operators. Given that we have no control over 
-            such Web sites, RCI has no responsibility or liability for the 
-            practices, policies and security measures implemented by such third 
-            parties on their Web sites. We encourage you to contact these third 
-            parties to ask questions about their terms of use, privacy 
-            practices, policies and security measures before disclosing 
-            Personally Identifiable Information on linked web sites. RCI's 
-            policy does not extend to anything that is inherent in the operation 
-            of the Internet, which is beyond RCI's control. 
-            </p><p>Please keep in mind that whenever You give out information online 
-            (for example, via message boards or chat) that information can be 
-            collected and used by people You don't know. While RCI strives to 
-            protect their Users' Personal Information and privacy, We cannot 
-            guarantee the security of any information You disclose online, and 
-            You disclose such information at Your own risk. 
-      </p>
-<p><br>
-</p><p>
-
-      </p><div class="vtTitleCurveTD1Bg"><strong>How We secure Your 
-Personal Information from others using the RCI Web Sites?</strong>       
-           </div>
-  
-          The security of all information associated with Our 
-            Users is an important concern to Us. We reasonable exercise care in 
-            providing secure transmission of Your information from Your computer 
-            to Our servers. Unfortunately, given that we do not control 
-            transmissions or traffic over the Internet or through third party 
-            communication service providers, we cannot guarantee or warrant the 
-            security of such transmission or your Personal Information. Your use 
-            of the Internet and our Web Site, including your transmission of 
-            Information to us, is at Your own risk. Notwithstanding, once We 
-            receive Your transmission, RCI uses industry standard efforts 
-            designed to safeguard Your Personal Information, such as firewalls 
-            and Secure Socket Layers. However, "perfect security" does not exist 
-            on the Internet. 
-<p><br>
-</p><p>
-
-      </p><div class="vtTitleCurveTD1Bg"><strong>YOUR ACCEPTANCE OF 
-THESE TERMS</strong>    </div>
-          <span class="body2bold">By 
-using Our Web Sites, You signify Your agreement with 
-            RCI's Privacy Policy. IF YOU DO NOT AGREE WITH THIS POLICY, 
-            PLEASE DO NOT USE OUR WEB SITES. RCI reserves the right, in 
-            its sole discretion, to modify, alter or otherwise update this Privacy 
-            Policy ("Revised Policy") at any time without prior notice. Such 
-            Revised Policy shall be effective immediately upon posting, and 
-            shall govern your rights and our obligations with respect to 
-            the use, disclosure and protection of your Information as of 
-            such posting. You should check this Policy periodically for, and read 
-            carefully, any such Revised Policy if you are concerned about how 
-            your Information will be used and before continuing on with your 
-            use of this Web Site. Your continued use of the Armed Forces Vacation 
-            Club Web Site following the posting of changes to these terms will 
-            mean You accept those changes.</span> 
-            <p></p>
 
 
-
-
-</div></div></body></html>
+</body></html>
