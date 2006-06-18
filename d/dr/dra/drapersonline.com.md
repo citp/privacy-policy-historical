@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drapersonline.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308192846id_/http%3A//www.drapersonline.com/nav%3Fpage%3Ddrapersjobs.legal.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drapersonline.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618190058id_/http%3A//www.drapersonline.com/nav%3Fpage%3Ddrapersjobs.legal.privacy) for the most accurate reproduction.*
 
-# Drapers Jobs
+# Drapersonline - the leading business magazine for the UK fashion industry. Jobs, news, trends
 
 **Privacy Policy**  
 
