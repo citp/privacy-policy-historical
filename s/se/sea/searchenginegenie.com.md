@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the searchenginegenie.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219103011id_/http%3A//www.searchenginegenie.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginegenie.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618132625id_/http%3A//www.searchenginegenie.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy search engine optimization SEO marketing search engine genie
 
-[Home](https://web.archive.org/web/20051219103011id_/http%3A//www.searchenginegenie.com/index.html) » Privacy Policy
+[SEO Home](http://www.searchenginegenie.com/) » Privacy Policy
 
 **Search Engine Privacy Policy: -**
 
