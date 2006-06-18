@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paytrust.com privacy policy that was archived on 2005-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051208064244id_/http%3A//www.paytrust.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paytrust.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618230607id_/http%3A//paytrust.com/privacy.shtml) for the most accurate reproduction.*
 
 # Paytrust : Paytrust Privacy and Security Guarantee
 
@@ -52,7 +52,6 @@ You can update or correct your contact information relating to your Paytrust acc
 
   * Visiting www.Paytrust.com   
 Sign in to the Bill Center and click the Profile button. Then click the Personal Information link and edit your information as needed. 
-  * Contacting Paytrust Customer Support at 1-800-PAYTRUST (729-8787) 
   * Sending a request via fax: 1-877-329-7298 
   * Sending a request via US mail to the following postal address:   
       Paytrust   
