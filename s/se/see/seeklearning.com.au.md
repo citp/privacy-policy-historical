@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the seeklearning.com.au privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220211831id_/http%3A//seeklearning.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeklearning.com.au privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618173832id_/http%3A//seeklearning.com.au/privacy.asp) for the most accurate reproduction.*
 
-# Seek Learning Australia - Privacy Statement
+# Privacy Statement - SEEK Learning Australia
 
-  1. **SEEK Learning Australia’s commitment to maintaining your privacy**  
+  1. **SEEK Learning Australia's commitment to maintaining your privacy**  
 The SEEK Learning Australia Privacy Statement has been created because we value our users and recognise their right to keep personal information private. This statement discloses our information gathering and dissemination practices for the SEEK Learning Australia site. 
 
   2. **Collecting information on SEEK Learning Australia visitors**  
 SEEK Learning Australia collects information on our site visitors collectively including which sections of the site are most frequently visited, how often and for how long. This data is always used as aggregated, non-personal information. SEEK Learning Australia utilises this information to improve and enhance our services by monitoring the areas on the site which are most popular to you. This aggregated information may be shared with SEEK Learning Australia partners to provide them with an overview of how SEEK Learning Australia visitors use the site. This is done for the purposes of providing you with the best online career management services.
 
 _IP Addresses_  
-SEEK Learning Australia’s web servers gather your IP address to assist with the diagnosis of problems or support issues with our services. Again, information is gathered in aggregate only and cannot be traced to an individual user.
+SEEK Learning Australia's web servers gather your IP address to assist with the diagnosis of problems or support issues with our services. Again, information is gathered in aggregate only and cannot be traced to an individual user.
 
 _Cookies & Applets_  
 SEEK Learning Australia utilises cookies to provide you with a better user experience. These cookies and applets allow you to utilise specific services such as accessing free demonstration training courses.
