@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bleachportal.net privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217153522id_/http%3A//www.bleachportal.net/bleach/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachportal.net privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618164712id_/http%3A//bleachportal.net/bleach/main/privacy_policy) for the most accurate reproduction.*
 
-# Bleach Portal » No Better Bleach Source Than This!
+# Bleach Portal » Jump into the Bleach Anime/Manga with Bleach Portal!
 
 #### Privacy Policy:
 
