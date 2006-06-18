@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellmycar.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213234010id_/http%3A//www.sellmycar.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmycar.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618163443id_/http%3A//www.sellmycar.com/privacy.aspx) for the most accurate reproduction.*
 
 # Visitors Agreement - SellMyCar.com
 
@@ -18,7 +18,7 @@ Demographic information and site usage data is also collected on our sites. We u
 
 **Email Services** \- If you take advantage of any email notification features on our sites, you will receive email updates as described in the service. The SellMyCar.com website provides users the opportunity to opt-out of receiving communications from our partners and us. Users can remove their personal information from the database of a particular site by sending a request by email to 
 
-[by clicking here ](https://web.archive.org/web/20051213234010id_/http%3A//www.sellmycar.com/contactus.aspx), by typing, "unsubscribe" in a response to the email received. 
+[by clicking here ](https://web.archive.org/web/20060618163443id_/http%3A//www.sellmycar.com/contactus.aspx), by typing, "unsubscribe" in a response to the email received. 
 
   
 **Order Forms** \- Our sites use forms for you to request information, products and services. We collect financial information to bill you for the products and services you indicate. (See "Your Security" below for more on how we safeguard your financial information and social security information.) We collect social security information to provide credit check, loan application and similar services. We collect contact information, unique identifiers and demographic information for the purposes described in "Registration" above. See "Disclosure" for more information on when we provide your information to third party business partners. 
@@ -38,7 +38,7 @@ SellMyCar.com may contract with outside companies to administer our mailing list
 **Correct or Update** \- You can change or update your personal information for a particular ad, such as the SellMyCar.com.   
 **Contacting Us** \- If at any time you feel that the SellMyCar.com website has not adhered to this policy, email us at 
 
-[ by clicking here ](https://web.archive.org/web/20051213234010id_/http%3A//www.sellmycar.com/contactus.aspx)and we'll do our best to determine any problem and quickly respond. If you have questions or concerns about our privacy policy, please contact us at [by clicking here ](https://web.archive.org/web/20051213234010id_/http%3A//www.sellmycar.com/contactus.aspx). And check this page periodically for changes in our privacy policy. 
+[ by clicking here ](https://web.archive.org/web/20060618163443id_/http%3A//www.sellmycar.com/contactus.aspx)and we'll do our best to determine any problem and quickly respond. If you have questions or concerns about our privacy policy, please contact us at [by clicking here ](https://web.archive.org/web/20060618163443id_/http%3A//www.sellmycar.com/contactus.aspx). And check this page periodically for changes in our privacy policy. 
 
 This SellMyCar.com, Inc., privacy policy does not extend to any information that is inherent in the operation of the Internet, and therefore beyond the control on SellMyCar.com, Inc., and is not to be applied in any manner contrary to applicable law or governmental regulation. We reserve the right at our discretion to make changes to this policy at any time. 
 
