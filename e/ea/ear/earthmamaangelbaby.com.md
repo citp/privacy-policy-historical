@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthmamaangelbaby.com privacy policy that was archived on 2005-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050828100206id_/http%3A//www.earthmamaangelbaby.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthmamaangelbaby.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618043725id_/http%3A//earthmamaangelbaby.com/privacy.html) for the most accurate reproduction.*
 
 # Earth Mama Angel Baby Privacy Policy
 
@@ -33,8 +33,8 @@ If you have questions about this policy please contact us at [email us](mailto:s
 
 Customer Service  
 Earth Mama Angel BabyTM  
-3959 SW Halcyon Road  
-Tualatin, OR 97062
+9866 SE Empire Court • Clackamas, OR 97015  
+
 
   
 We consider any information that could reasonably be used to identify you personally as personally identifiable information, but is not limited to:
