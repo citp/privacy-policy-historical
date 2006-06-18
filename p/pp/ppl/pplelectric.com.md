@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215040232id_/http%3A//www.pplweb.com/privacy%2Bpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618181325id_/http%3A//www.pplweb.com/privacy%2Bpolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### **PPL Web Site Privacy Policy**
 
-PPL Corporation and its affiliates, PPL Electric Utilities Corporation; PPL Gas Utilities Corporation; PPL EnergyPlus, LLC; PPL Global, LLC; PPL Generation, LLC; PPLSolutions, LLC; PPL Telcom, LLC; PPL Broadband, LLC; and PPL Spectrum, Inc. (collectively, "PPL"), have developed this Privacy Policy for the benefit of the Users of its family of Web sites (collectively, the "Site") to demonstrate our serious commitment to protecting privacy on this Site. The following material summarizes PPL's personal data gathering and distribution practices for [/](http://www.pplweb.com/) and any other Web sites owned and maintained by PPL Corporation or an affiliate. PPL reserves the right to change this policy at any time and to contact Users regarding their account status, the User Agreement, and this Privacy Policy. 
+PPL Corporation and its affiliates, PPL Electric Utilities Corporation; PPL Gas Utilities Corporation; PPL EnergyPlus, LLC; PPL Global, LLC; PPL Generation, LLC; PPLSolutions, LLC; PPL Telcom, LLC; PPL Broadband, LLC; and PPL Spectrum, Inc. (collectively, "PPL"), have developed this Privacy Policy for the benefit of the Users of its family of Web sites (collectively, the "Site") to demonstrate our serious commitment to protecting privacy on this Site. The following material summarizes PPL's personal data gathering and distribution practices for _pplweb.com_  and any other Web sites owned and maintained by PPL Corporation or an affiliate. PPL reserves the right to change this policy at any time and to contact Users regarding their account status, the User Agreement, and this Privacy Policy. 
 
 Please read the following to understand PPL's views and practices regarding privacy and how they may pertain to users of this Site as they make full use of its many offerings.
 
