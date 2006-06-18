@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sportsvite.com privacy policy that was archived on 2005-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051124152626id_/http%3A//www.sportsvite.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportsvite.com privacy policy that was archived on 2006-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060618145111id_/http%3A//sportsvite.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
   
@@ -8,11 +8,19 @@
    : 
     Privacy Policy
   </title>
-    <link rel="stylesheet" href="/css/sv_main.css" type="text/css">
-    <link rel="stylesheet" href="/css/sv_new.css" type="text/css">
-    <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+
+   
+    <link rel="stylesheet" type="text/css" href="/css/v2/sv_main.css">
+	<link rel="STYLESHEET" type="text/css" href="/css/v2/global-withnav.css">
+	<link rel="STYLESHEET" type="text/css" href="/css/v2/2column.css">  
+	
+	<link rel="STYLESHEET" type="text/css" href="/css/v2/forms.css"> 
+	<link rel="STYLESHEET" type="text/css" href="/css/v2/variable-width.css"> 
+	
+	
+	<link rel="shortcut icon" type="image/ico" href="/favicon.ico">	  
   
-    
+
   
      
   
@@ -90,9 +98,210 @@
 	}
 	//-->
 	</script>
+	
+	
+	
+	<script language="JavaScript">
+	<!--
+	function toggleFormContentBlock(div_name,toggle_field,prompt_body_not_present,prompt_body_present,isInit) {
+	
+		var div_top = document.getElementById(div_name + "_top");
+		var div_sub = document.getElementById(div_name + "_content");
+		var link_name = document.getElementById(div_name + "_link");
+			
+		var currentToggleFieldVal = toggle_field.value;
+		
+		if ( (currentToggleFieldVal==null) || (currentToggleFieldVal=='') ){
+			currentToggleFieldVal=0;		
+		}
+		
+		
+		
+		//not the initialization, so base the display on a user's click (i.e., it's a true toggle)
+		if (isInit==null) {
+			
+			
+			
+			if (currentToggleFieldVal==0) 
+			{
+				div_sub.style.display="block";
+				link_name.innerHTML = prompt_body_present;
+				toggle_field.value=1;  //we are using the dyna-displayed field(s), so set the toggle field to true
+			} 
+			else if (currentToggleFieldVal==1) 
+			{
+				// hide it
+				div_sub.style.display="none";
+				link_name.innerHTML = prompt_body_not_present;
+				toggle_field.value=0;  //we are using the dyna-displayed field(s), so set the toggle field to true			
+			}	
+			
+		} else {
+			
+			
+			
+			//we are in the initialization, so base the display on what the current toggle field value is
+
+			
+			if (currentToggleFieldVal==1) 
+			{
+				div_sub.style.display="block";
+				link_name.innerHTML = prompt_body_present;
+				toggle_field.value=1;  //we are using the dyna-displayed field(s), so set the toggle field to true
+			} 
+			else if (currentToggleFieldVal==0) 
+			{
+				// hide it
+				div_sub.style.display="none";
+				link_name.innerHTML = prompt_body_not_present;
+				toggle_field.value=0;  //we are using the dyna-displayed field(s), so set the toggle field to true			
+			}
+		
+		} 
+		
+		
+	}	
+	
+	//-->
+	</script>	
 
 
+	
+	
+	
+	
+	
+	<script language="JavaScript">
+	<!--
+	
+	
+	  /**
+	   * Reuse this all over
+	   *
+	   * usage:  toggleVisibility('LayerName','hidden','hidden','hidden')
+	   *         toggleVisibility('LayerName','show','visible','visible')
+	   *
+	   **/
+	 function toggleVisibility(id, NNtype, IEtype, WC3type) {
+	    if (document.getElementById) {
+	        eval("document.getElementById(id).style.visibility = \"" + WC3type + "\"");
+	    } else {
+	        if (document.layers) {
+	            document.layers[id].visibility = NNtype;
+	        } else {
+	            if (document.all) {
+	                eval("document.all." + id + ".style.visibility = \"" + IEtype + "\"");
+	            }
+	        }
+	    }
+	}
+	
+	
+	
+	
+	function toggleOptionalContentBlock(div_name,prompt_body_not_present,prompt_body_present) {
+	
+		var div_top = document.getElementById(div_name + "_top");
+		var div_sub = document.getElementById(div_name + "_content");
+		var link_name = document.getElementById(div_name + "_link");
+			
+		
+		if (div_sub.style.display=="none") 
+		{
+			div_sub.style.display="inline";
+			link_name.innerHTML = prompt_body_present;
+			
+		} 
+		else if (div_sub.style.display=="inline") 
+		{
+			// hide it
+			div_sub.style.display="none";
+			link_name.innerHTML = prompt_body_not_present;
+						
+		}	
+			
+		
+		
+		
+	}	
+	
+	//-->
+	</script>		
+	
+	
+	
+	<script language="JavaScript">
+	<!--
 
+        /****
+         *
+         * parent_field  :  name of the parent field that invokes the toggle
+         * 
+         * child_block : name of the child block
+         *
+         ****/
+	function toggleChildFormFieldBlock(parent_field,child_block) {
+	
+
+		
+
+                var parent_field_value = parent_field.value;
+		
+		        if ( (parent_field_value==null) || (parent_field_value=='') ){
+			      currentToggleFieldVal=-1;		
+		        }
+		
+                var child = document.getElementById(child_block);
+
+                
+                //check current value of the parent_field
+                if (parent_field_value==-1) {
+                    //parent_field is "" or null (field not present):
+                    
+                    
+                    //hide the child block
+                    child.style.display="none";
+
+                    //disable the child fields?  If not here---  need to make sure Server-Side knows to ignore them.  It logicially should if the parent has not value.  The decision tree logic must be know client side as well as server side. 
+
+                } else {
+                    //parent_field has a value:
+                  
+                    
+                    //show the child block
+                    child.style.display="block"; 
+
+                    //enable the child fields -- server-side needs to know to not ignore them somehow (based on fact that parent has a value) 
+
+
+                }
+		
+	}	
+	
+	//-->
+	</script>	
+	
+	
+	
+
+<script language="JavaScript">
+<!-- Begin
+function disableForm(theform) {
+	if (document.all || document.getElementById) {
+		for (i = 0; i < theform.length; i++) {
+			var tempobj = theform.elements[i];
+			if (tempobj.type.toLowerCase() == "submit" || tempobj.type.toLowerCase() == "reset")
+				tempobj.disabled = true;
+		}
+
+		return true;
+	} else {
+
+		return false;
+   }
+}
+//  End -->
+</script>
   
   </head>
   
@@ -114,6 +323,9 @@
 
 
 <body>
+
+
+
 
   <!-- Browser message --> 
   <!--
@@ -149,55 +361,71 @@
   </script>
 
   
-<table width="756" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td valign="top" width="756">
+  
+  
+  
+  
+  
+<!-- Start pagecontainer -->  
+<div id="pagecontainer">
+  
 
-    
-    
-        
-          
+
+
+
+
+
+
+
+
+  
+<!-- start left frame -->
+<div id="frame" style="float:left">
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 
+                 
 		  
 		  
 		  
 		  
 		  
-		  
-		  
-		  
-		  
-        
+<div id="pagequote">
+"Even if you are on the right track, you'll get run over if you just sit there."  -Will Rogers
+</div>
 
-
-
-
-
-
-
-
-<table width="100%" height="52" border="0" cellpadding="0" cellspacing="0" class="nav_box">
-
-		<tbody><tr>
 		
-          <td width="134" valign="top">
-		  	<a href="/">
-		 	 	<img src="/images/sv_logo_smaller.gif" width="134" height="45" border="0" class="logo" alt="Sportsvite: Making it easy for people to organize and play sports!">
-			</a>
-		  </td>
-		  
-		  <td width="20"><img src="/images/shim.gif" width="20" height="1"></td>
-		  
-		  
-		  
-		  <td width="240" class="quotes"><center>"Courage is resistance to fear, mastery of fear, not absence of fear."  -Mark Twain</center></td>
-		  
-		  <td width="10"><img src="/images/shim.gif" width="10" height="1"></td>
-		  
-		  <td width="352" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-		      <tbody><tr><td width="1" height="5"><img src="/images/shim.gif" width="1" height="5"></td></tr>
-		      <tr>
-		        <td>
-					<div align="right"><img src="/images/topnav_arrow.gif" width="7" height="7"> 
+
+
+
+
+
+
+<!-- Start Page Header -->
+
+
+
+
+
+
+
+
+
+                 
+                 
+                 
+                 
 					
 						<!-- if (authenticated) -->
 				        
@@ -206,106 +434,107 @@
 				        <!-- if !(authenticated) -->
 				        
 				        
-				        <a href="/account/login" class="toplinks">Login</a> 
-							<span class="toplinks">|</span>
-						<a href="/account/register" class="toplinks">Sign Up</a> 
-						<span class="toplinks">|</span> 
-							<a href="/faq" class="toplinks">Help</a>
-							<span class="toplinks">|</span>
-						<a href="/inviteothers" class="toplinks">Invite</a>
-							
+						
+						<div id="header">
+						
+							<div id="headerlogo" onclick="location.href='/';" style="cursor: pointer;">&nbsp;</div>
+						
+								<div id="toolbox">
+									<ul>
+										<li><a href="/account/login" class="loginlink">Login</a></li>
+										<li><a href="/account/register" class="signuplink">Sign Up</a></li>
+										<li><a href="/faq" class="helplink">Help</a></li>
+										<li><a href="/inviteothers" class="inviteplayerlink">Invite</a></li>
+									</ul>
+								</div>
+						</div> 
+						
 						
 				        
 					    <!-- end if -->
 					
-					
-						
-						
-					</div></td>
-		      </tr>
-		    </tbody></table></td>
-
-		  
-		 
-		   
-        </tr>
-        
-        
-        <tr>
-        
-		   <td colspan="5" width="100%" valign="bottom"><table width="100%" height="18" border="0" cellpadding="0" cellspacing="0">
-	         <tbody><tr>
-	              <td height="18" class="nav_td"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-	                <tbody><tr>
-	                  <td width="20%" id="siteNavigation"><div align="center"><span class="main_nav"><a href="/">Home</a></span></div></td>
-	                  <td width="1"><div align="center"><img src="/images/topnav_divider.gif" width="1" height="7" class="divider_spacing"></div></td>
-	                  <td width="20%" id="siteNavigation"><div align="center"><span class="main_nav"><a href="/games/organize">Games</a></span></div></td>
-	                  <td width="1"><div align="center"><img src="/images/topnav_divider.gif" width="1" height="7" class="divider_spacing"></div></td>
-	                  <td width="20%" id="siteNavigation"><div align="center"><span class="main_nav"><a href="/players/searchplayers">Players</a></span></div></td>
-	                  <td width="1"><div align="center"><img src="/images/topnav_divider.gif" width="1" height="7" class="divider_spacing"></div></td>
-	                  <td width="20%" id="siteNavigation"><div align="center"><span class="main_nav"><a href="/teams/searchteams">Teams</a></span></div></td>
-	                  <td width="1"><div align="center"><img src="/images/topnav_divider.gif" width="1" height="7" class="divider_spacing"></div></td>
-	                  <td width="20%" id="siteNavigation"><div align="center"><span class="main_nav"><a href="/frontoffice/myprofile">My Profile</a></span></div></td>
-	                </tr>
-	              </tbody></table></td>
-	         </tr>
-	          </tbody></table></td>
-          
-        </tr>
-        
-        <!-- size brace -->
-        <tr>
-          <td width="134"><img src="/images/shim.gif" width="134" height="1"></td>
-          <td width="20"><img src="/images/shim.gif" width="20" height="1"></td>
-          <td width="240"><img src="/images/shim.gif" width="240" height="1"></td>
-          <td width="10"><img src="/images/shim.gif" width="10" height="1"></td>
-          <td width="352"><img src="/images/shim.gif" width="352" height="1"></td>
-        </tr>
-        
-        
-</tbody></table>
+					                 
+                 
+                 
+<!-- /End Page Header -->
 
 
 
-		
-      
-     </td>
-</tr>   
+<!-- Start ad banner leaderboard -->
+
+
+<div id="header_leaderboard">
+	<div class="banner">
+	
+	<!-- BEGIN RICH-MEDIA NETWORK CODE -->
+	<script language="JavaScript">
+	rnum=Math.round(Math.random() * 100000); ts=String.fromCharCode(60);
+	if (window.self != window.top) { nf='' } else { nf='NF/' };
+	
+	document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad12807a.cgi/v=2.1S/sz=728x90A/'+rnum+'/NI/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+	
+	</script><script src="http://www.burstnet.com/cgi-bin/ads/ad12807a.cgi/v=2.1S/sz=728x90A/84919/NI/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad12807a-map.cgi/ns/v=2.1S/sz=728x90A/" target="_top">
+	<img src="http://www.burstnet.com/cgi-bin/ads/ad12807a.cgi/ns/v=2.1S/sz=728x90A/" border="0" alt="Click Here"></a>
+	</noscript>
+	<!-- END BURST CODE -->
+	
+	</div>
+</div>
+<!-- /End ad banner leaderboard -->
 
 
 
-<tr>
-  <td width="1" height="8"><img src="/images/shim.gif" width="1" height="8"></td>
-</tr>
-
+<!-- Start MainNav -->
   
-  <tr>
-    <td height="100%" valign="top">
-    
-    
-		          
-		        
-		            
-		  		    
-		            
-		  		    
-		  		    
-		  		    
-		  		    
-		  		    
-		  		    
-		  		    
-		  		    
-		  		    
-		  		   
-		          
+
+        
+        
+        
+        
+        
+        
+	   	   	   	   	   
+  
+
+
+
+
+
+<div id="headernav">
+	<ul>
+		<li class=""><a href="/" class="">home</a></li>
+		<li class=""><a href="/games/organize" class="">games</a></li>
+		<li class=""><a href="/players/searchplayers" class="">players</a></li>
+		<li class=""><a href="/teams/searchteams" class="">teams</a></li>
+		<li class=""><a href="/locations/searchmap" class="">locations</a></li>
+		<li class=""><a href="/frontoffice/myprofile" class="">my profile</a></li>
+	</ul>
+</div>
+
+
+
+
+
+
+
+<!-- /End MainNav -->
+
+
+
+
+
+
+<!-- Start SubNav -->
+
+
+        
+        
+        
+ 	   	   	   
+
  
-    <table width="100%" border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td width="100%" class="subNav_buffer">&nbsp;</td>
-        <td class="subNav_buffer" width="100%" height="17"><img src="/images/shim.gif" width="100%" height="1"></td>
-      </tr>
-    </tbody></table>
+<div id="headersubnav">
+</div>
    
 
 
@@ -320,27 +549,36 @@
 
 
       
-		        <!-- start outer content border -->
-      <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td valign="top" class="mainbody"><table width="98%" height="100%" border="0" align="right" cellpadding="0" cellspacing="0">
-        
-        
-        
-          <!-- page title -->
-          <tbody><tr>
-            <td class="sub_title">Privacy Policy</td>
-          </tr>
-          <!-- end page title -->
-          
-          <!-- start main content TR -->
-          <tr>
-            <td height="100%" valign="top" class="contentbox">
-            
-		          <!-- page content here -->
-		          
+<!-- /End SubNav -->
 
 
+
+
+
+
+	
+	
+	<!-- single column content -->
+	<div id="innercontent">
+	<table width="777" border="0" cellpadding="0" cellspacing="0">
+	  <tbody><tr><td valign="top">
+	    
+	    	
+	    
+
+
+  
+
+ 
+    
+<div id="navlessheading">
+	<div id="navlessheadingtitle">Privacy Policy</div>
+</div>
+<!-- /End Content Heading NoNav -->
+
+
+
+<br clear="all"><!-- without this little <br /> NS6 and IE5PC do not stretch the frame div down to encopass the content DIVs -->
 
 
 
@@ -351,8 +589,6 @@
   <tbody><tr>
     
     <td>
-      <br>
-
 Sportsvite is committed to protecting the privacy of Sportsvite users. Following is the Sportsvite privacy statement outlining our policies governing the collection and use of registered user information. If you have any questions regarding this policy, please contact Sportsvite at support@sportsvite.com.
 <br><br>
 <b>Information Collection &amp; Use</b><br>
@@ -387,51 +623,82 @@ Sportsvite reserves the right to make changes to this privacy statement. Any mat
   </tr>
 
 </tbody></table>
-		          <!-- end page content -->
-		          
-		    </td>
-          </tr>
-          <!-- end main content border TR -->
-          
-          
-          
-          
-        </tbody></table></td>
-      </tr>
-    </tbody></table>
-    <!-- end outer border -->
-    
-    
-    </td>
-  </tr>
+	  </td></tr>
+	</tbody></table>
+	</div>
+	<!-- /end single column content -->
 
+	
+	
+	
+	
+	
+	<br clear="all"><!-- without this little <br /> NS6 and IE5PC do not stretch the frame div down to encopass the content DIVs -->
 
-
-
-        
-        
-
- 
-    
-
-  <tr>
-    <td height="10"><img src="/images/shim.gif" width="1" height="10"></td>
-  </tr>
-  <tr>
-    <td height="8" class="footer_divider"><img src="/images/shim.gif" width="1" height="8"></td>
-  </tr>
-  <tr>
-    <td valign="top" class="footer_td"><a href="/about" class="footer">About</a> - <a href="/privacy" class="footer">Privacy</a> - <a href="/terms" class="footer">Terms</a> - <a href="/contact" class="footer">Contact</a> - <a href="/findstuff" class="footer">Find Players &amp; Teams</a> - <a href="/rules" class="footer">Sports Rules</a> <br>
-      Copyright © 2005 Sportsvite </td>
-  </tr>
-  <tr>
-    <td height="2"><img src="/images/shim.gif" width="1" height="2"></td>
-  </tr>
-
-
-
-    </tbody></table>
-  
+	
+	
+	
+<!-- start Footer -->	
 	
 
+<div id="footer">
+	<div id="footernav"><a href="/pressbox">Press Box</a>  |  <a href="/about">About</a>  |  <a href="/privacy">Privacy</a>  |  <a href="/terms">Terms</a>  |  <a href="/contact">Contact</a>  |  <a href="/findstuff">Find Players &amp; Teams</a>  <!-- |  <a href="/rules">Sports Rules</a> --></div>
+	<div id="footercopyright">© 2005-2006 Sportsvite, Inc.  All Rights Reserved.   </div>
+</div>
+<!-- /end Footer -->
+
+
+
+</div>
+<!-- /end NEW FRAME -->
+
+  
+
+
+
+
+
+
+<!-- start right side outer column --
+<div id="rightcontent" style="float:right;vertical-align:top;">
+
+	
+	<div id="innercontent">  
+	<table width="190" border="0" cellpadding="0" cellspacing="0">
+	  <tr><td valign="top">
+	    <t i l e s : insert attribut e="content_rightcolumn"/>
+	  </td></tr>
+	</table>
+	</div>
+	
+
+</div>
+-- /end right side outer column -->
+  
+
+
+
+
+
+
+</div>
+<!-- /End pagecontainer -->
+
+  
+
+
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-410955-2";
+urchinTracker();
+</script>
+  
+  
+  
+  
+
+
+	    
+         
 </body></html>
