@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uchospitals.edu privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210223021id_/http%3A//www.uchospitals.edu/visitor/privacy/notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uchospitals.edu privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618135444id_/http%3A//uchospitals.edu/visitor/privacy/notice.html) for the most accurate reproduction.*
 
 # University of Chicago Hospitals: Notice of Privacy Practices
 
