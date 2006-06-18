@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idiotsguides.com privacy policy that was archived on 2005-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051015024520id_/http%3A//idiotsguides.com/static/cs/us/603/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idiotsguides.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618141616id_/http%3A//idiotsguides.com/static/cs/us/603/privacy.html) for the most accurate reproduction.*
 
 # Complete Idiot's Guides
 
@@ -12,7 +12,7 @@ For inquiries about our online privacy policy, or other web site related questio
 >  375 Hudson Street  
 >  New York, NY 10014 
 > 
-> We can be reached via e-mail at [online@us.penguingroup.com](https://web.archive.org/web/20051015024520id_/http%3A//idiotsguides.com/static/cs/us/603/online@us.penguingroup.com)
+> We can be reached via e-mail at [online@us.penguingroup.com](https://web.archive.org/web/20060618141616id_/http%3A//idiotsguides.com/static/cs/us/603/online@us.penguingroup.com)
 > 
 > Or you can reach us by telephone at 212-366-2000 
 
