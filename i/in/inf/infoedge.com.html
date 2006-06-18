@@ -1,112 +1,7 @@
-<!--The following is the downloaded HTML source of the infoedge.com privacy policy that was archived on 2005-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051220063642id_/http%3A//www.infoedge.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infoedge.com privacy policy that was archived on 2006-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060618103236id_/http%3A//infoedge.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-US"><head>
-<script type="text/javascript">
-
-/***********************************************
-* Contractible Headers script- © Dynamic Drive (www.dynamicdrive.com)
-* This notice must stay intact for legal use. Last updated Oct 21st, 2003.
-* Visit http://www.dynamicdrive.com/ for full source code
-***********************************************/
-
-var enablepersist="off" //Enable saving state of content structure using session cookies? (on/off)
-var collapseprevious="yes" //Collapse previously open content when opening present? (yes/no)
-
-if (document.getElementById){
-document.write('<style type="text/css">')
-document.write('.switchcontent{display:none;}')
-document.write('</style>')
-}
-
-function getElementbyClass(classname){
-ccollect=new Array()
-var inc=0
-var alltags=document.all? document.all : document.getElementsByTagName("*")
-for (i=0; i<alltags.length; i++){
-if (alltags[i].className==classname)
-ccollect[inc++]=alltags[i]
-}
-}
-
-function contractcontent(omit){
-var inc=0
-while (ccollect[inc]){
-if (ccollect[inc].id!=omit)
-ccollect[inc].style.display="none"
-inc++
-}
-}
-
-function expandcontent(cid){
-if (typeof ccollect!="undefined"){
-if (collapseprevious=="yes")
-contractcontent(cid)
-document.getElementById(cid).style.display=(document.getElementById(cid).style.display!="block")? "block" : "none"
-}
-}
-
-function revivecontent(){
-contractcontent("omitnothing")
-selectedItem=getselectedItem()
-selectedComponents=selectedItem.split("|")
-for (i=0; i<selectedComponents.length-1; i++)
-document.getElementById(selectedComponents[i]).style.display="block"
-}
-
-function get_cookie(Name) {
-var search = Name + "="
-var returnvalue = "";
-if (document.cookie.length > 0) {
-offset = document.cookie.indexOf(search)
-if (offset != -1) {
-offset += search.length
-end = document.cookie.indexOf(";", offset);
-if (end == -1) end = document.cookie.length;
-returnvalue=unescape(document.cookie.substring(offset, end))
-}
-}
-return returnvalue;
-}
-
-function getselectedItem(){
-if (get_cookie(window.location.pathname) != ""){
-selectedItem=get_cookie(window.location.pathname)
-return selectedItem
-}
-else
-return ""
-}
-
-function saveswitchstate(){
-var inc=0, selectedItem=""
-while (ccollect[inc]){
-if (ccollect[inc].style.display=="block")
-selectedItem+=ccollect[inc].id+"|"
-inc++
-}
-
-document.cookie=window.location.pathname+"="+selectedItem
-}
-
-function do_onload(){
-getElementbyClass("switchcontent")
-if (enablepersist=="on" && typeof ccollect!="undefined")
-revivecontent()
-}
-
-
-if (window.addEventListener)
-window.addEventListener("load", do_onload, false)
-else if (window.attachEvent)
-window.attachEvent("onload", do_onload)
-else if (document.getElementById)
-window.onload=do_onload
-
-if (enablepersist=="on" && document.getElementById)
-window.onunload=saveswitchstate
-
-</script><style type="text/css">.switchcontent{display:none;}</style>
 <title>
 
 
@@ -125,143 +20,152 @@ InfoEdge: Privacy Statement and Practices
 
 <link rel="stylesheet" href="/main_inc/iestyle.css" type="text/css">
 
+</head><body>
 
-</head>
-<body bgcolor="#c4c4c4" text="#000000" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
-
-<table border="0" align="left" cellspacing="0" cellpadding="0" width="760" height="100%" bgcolor="#FFFFFF">
+<table border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td height="80" colspan="3" valign="top">
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-<!--
-<td width="450" height="100" rowspan="2"><A href="/index.asp"><center><font size="12">|*| InfoEdge |*|</font><br><font size="1">Offering Select IT And Business Management Research</center></font></a></td>
-!-->
-		<td><a href="/index.asp"><img src="/images/IE_Logo_G.gif" height="75" width="256" border="0" hspace="4" vspace="0"><br><font size="1">&nbsp;&nbsp;&nbsp;Offering Select IT And Business Management Research</font></a></td>
-		<td>
-			<table border="0" width="100%" cellpadding="0" cellspacing="0">
+		<td colspan="3" valign="top">
+			<table border="0" width="760" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td align="right"><a href="mailto:research@infoedge.com" class="menu2"><font size="+1">research@infoedge.com</font></a><font size="+1"><br>800.544.7337&nbsp;|&nbsp;617.628.0481</font></td>
+					<td class="subtext"><a href="/index.asp"><img src="/images/IE_Logo_G.gif" height="75" width="256" alt="InfoEdge Logo"><div>Offering Select IT And Business Management Research</div></a></td>
+					<td>
+						<table border="0" width="100%" cellpadding="0" cellspacing="0">
+							<tbody><tr>
+								<td align="right"><a href="mailto:research@infoedge.com" class="menuheading">research@infoedge.com</a><div class="menuheading">800.544.7337&nbsp;|&nbsp;617.628.0481</div></td>
+							</tr>
+							<tr>
+								<td align="right">
+									<table border="0">
+<form action="/searchprods.asp" method="POST"></form>
+										<tbody><tr>
+											<td align="right"><input name="keyword" value="" size="30"></td>
+											<td align="right"><input type="image" name="Go" src="/images/buttons/search5.gif" value="Search"></td>
+
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							<tr>
+								<td align="right">
+									<table class="nav" cellpadding="0" cellspacing="0" width="350">
+										<tbody><tr>
+											<td><a class="topmenusmall" onmouseover="style.backgroundColor='#9295b2';" onmouseout="style.backgroundColor='#525252'" href="/index.asp">Home Page</a></td>
+											<td><a class="topmenusmall" onmouseover="style.backgroundColor='#9295b2';" onmouseout="style.backgroundColor='#525252'" href="/faq.asp">About Us</a></td>
+											<td><a class="topmenusmall" onmouseover="style.backgroundColor='#9295b2';" onmouseout="style.backgroundColor='#525252'" href="/questions.asp">Contact | Questions</a></td>
+											<td><a class="topmenusmall" onmouseover="style.backgroundColor='#9295b2';" onmouseout="style.backgroundColor='#525252'" href="/shopping/shopaddtocart.asp">Shopping Cart</a></td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
 				</tr>
 				<tr>
-					<td align="right"><form action="/searchprods.asp" method="POST">
-
-<table border="0">
-	<tbody><tr>
-		<td align="right"><input name="keyword" value="" size="30"></td>
-		<td align="right"><input type="image" height="21" width="58" border="0" value="Go" name="Go" src="/images/buttons/search5.gif"></td>
-	</tr>
-
-</tbody></table>
-</form></td>
+					<td colspan="2" class="darkline"></td>
 				</tr>
 				<tr>
-					<td align="right"><table cellpadding="0" cellspacing="0" width="350" height="5" bgcolor="#525252" border="2" bordercolor="#525252">
-	<tbody><tr>
-		<td><font size="-2"><a class="topmenu" onmouseover="style.backgroundColor='#9295b2';" onmouseout="style.backgroundColor='#525252'" href="/index.asp">Home Page</a></font></td>
-		<td><font size="-2"><a class="topmenu" onmouseover="style.backgroundColor='#9295b2';" onmouseout="style.backgroundColor='#525252'" href="/faq.asp">About Us</a></font></td>
-		<td><font size="-2"><a class="topmenu" onmouseover="style.backgroundColor='#9295b2';" onmouseout="style.backgroundColor='#525252'" href="/questions.asp">Contact | Questions</a></font></td>
-		<td><font size="-2"><a class="topmenu" onmouseover="style.backgroundColor='#9295b2';" onmouseout="style.backgroundColor='#525252'" href="/shopping/shopaddtocart.asp">Shopping Cart</a></font></td>
-	</tr>
-</tbody></table>
-</td>
+					<td colspan="2">
+						<table class="nav2" border="0" width="100%" cellspacing="3" cellpadding="2">
+							<tbody><tr>
+								<td class="menu" onmouseover="style.backgroundColor='#82a0a4';" onmouseout="style.backgroundColor='#9295b2'">
+									<a class="topmenu" href="/whatsnew.asp">Recent Reports</a>
+								</td>
+								<td class="menu" onmouseover="style.backgroundColor='#82a0a4';" onmouseout="style.backgroundColor='#9295b2'">
+									<a class="topmenu" href="/infocenters.asp">Information Centers</a>
+								</td>
+								<td class="menu" onmouseover="style.backgroundColor='#82a0a4';" onmouseout="style.backgroundColor='#9295b2'">
+									<a class="topmenu" href="/freeresearch.asp">Free Research</a>
+								</td>
+								<td class="menu" onmouseover="style.backgroundColor='#82a0a4';" onmouseout="style.backgroundColor='#9295b2'">
+									<a class="topmenu" href="/email/email_master_temp.asp">Research Newsletters</a>
+								</td>
+								<td class="menu" onmouseover="style.backgroundColor='#82a0a4';" onmouseout="style.backgroundColor='#9295b2'">
+									<a class="topmenu" href="/search_adv.asp">Advanced Search</a>
+								</td>
+								<td class="menu" onmouseover="style.backgroundColor='#82a0a4';" onmouseout="style.backgroundColor='#9295b2'">
+									<a class="topmenu" href="/all_categories.asp">Browse Categories</a>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
 				</tr>
 			</tbody></table>
 		</td>
-	</tr>
-	<tr>
-		<td colspan="2" height="4" bgcolor="#525252"></td>
-	</tr>
-	<tr>
-		<td colspan="2"><table border="0" bgcolor="#CCCCCC" width="100%" cellspacing="3" cellpadding="2">
-	<tbody><tr>
-		<td class="menu" onmouseover="style.backgroundColor='#82a0a4';" onmouseout="style.backgroundColor='#9295b2'">
-			<center><a class="topmenu" href="/recent_promotions.asp">Recent Promotions</a></center>
-		</td>
-		<td class="menu" onmouseover="style.backgroundColor='#82a0a4';" onmouseout="style.backgroundColor='#9295b2'">
-			<center><a class="topmenu" href="/search_adv.asp">Product Search</a></center>
-		</td>
-		<td class="menu" onmouseover="style.backgroundColor='#82a0a4';" onmouseout="style.backgroundColor='#9295b2'">
-			<center><a class="topmenu" href="/infocenters.asp">Information Centers</a></center>
-		</td>
-		<td class="menu" onmouseover="style.backgroundColor='#82a0a4';" onmouseout="style.backgroundColor='#9295b2'">
-			<center><a class="topmenu" href="/allproviders.asp">Research Providers</a></center>
-		</td>
-		<td class="menu" onmouseover="style.backgroundColor='#82a0a4';" onmouseout="style.backgroundColor='#9295b2'">
-			<center><a class="topmenu" href="/email/email_master_temp.asp">Research Newsletters</a></center>
-		</td>
-		<td class="menu" onmouseover="style.backgroundColor='#82a0a4';" onmouseout="style.backgroundColor='#9295b2'">
-			<center><a class="topmenu" href="/all_categories.asp">Browse Categories</a></center>
-		</td>
-	</tr>
-</tbody></table></td>
-	</tr>
-</tbody></table>
-
+		<td bgcolor="#c4c4c4" rowspan="3" valign="top">
 
 		</td>
 	</tr>
 	<tr valign="top">
+		<td rowspan="2" valign="top">
+			<table width="760" border="0" cellspacing="4" cellpadding="4">
+				<tbody><tr align="left">
+					<td colspan="2" class="headline">&nbsp;♦&nbsp;
 
-
-			<td width="80%" rowspan="2" valign="top">
-				<table width="100%" border="0" cellspacing="4" cellpadding="4">
-					<tbody><tr align="left">
-						<td colspan="2" class="headline">&nbsp;♦&nbsp;
 
 INFOEDGE: PRIVACY STATEMENT AND PRACTICES
 
+
 						</td>
 					</tr>
 				</tbody></table>
-				<table width="100%" border="0" cellspacing="4" cellpadding="4">
+				<table width="760" border="0" cellspacing="4" cellpadding="4">
 					<tbody><tr>
 						<td>
 
-<!-- main page content goes under this line -->
-<b>We do not, under any circumstances, sell or trade any information about our customers with any third party</b>
-<p>Your visit to the InfoEdge Web Site, like most visits to most eCommerce websites, logs certain information about the origin of your entry, navigation through the site, time spent on pages, and exit pages.  This information is analyzed by us to improve the overall utility and usability of our site for future visitors.
 
-</p><p>To access certain content and complete certain actions, this site requires contact information to be submitted.  In the case of the shopping cart, this information is required in order to complete a transaction and to support customer service efforts.  Other forms, such as the Email Newsletter, Contact/Question form, and Sample Page Signup, collect information so we can communicate with our customers and analyze the popularity and utility of products within our site.
-</p><p> This information is held in strictest confidence and is not resold for any reason whatsover.
-</p><p>Moreover, we do not want to contact you if you dont wish to be contacted.  The easiest way to tell us not to contact you is to visit <a href="/email/er2.asp">this page</a>, and give us the email address to remove from our lists.  You may also write to us with your remove request:
-</p><p><b>InfoEdge
+<!-- main page content goes under this line -->
+<b>We do not, under any circumstances, sell or trade any information about our customers with any third party </b>
+<p>InfoEdge, like most  websites, places a cookie on your machine enabling us to log certain information about the origin of your entry, navigation through the site, and exit pages. This information is used to create a more personal experience and to improve the overall utility and usability of our site for future visitors. If you do not wish to accept cookies, you may disable this on your web browser using its security options. The functionality of our website will not be diminished, except that we will not be able to customize your views.
+</p><p>To access content on our site, you may be required to submit contact information so that we may communicate with you regarding your interest in our research. If you do not wish to hear from us, simple use the UNSUBSCRIBE page to request removal from our database. You may also write to us with your remove request:
+</p><p>InfoEdge
 <br>Attn: Customer Service
 <br>PO Box 391619
-<br>Cambridge, MA 02139</b>
-</p><p>or email us at <a href="mailto:Jill.Whitney@InfoEdge.com?subject=Name Remove">Jill.Whitney@InfoEdge.com</a>
-</p><p>The InfoEdge Web site contains links to other sites. InfoEdge is not responsible for the privacy,  practices or contents of those sites.
-</p><p>If you have any questions or comments about this Privacy Policy please e-mail us at <a href="mailto:Jill.Whitney@InfoEdge.com">Jill.Whitney@InfoEdge.com</a>
+<br>Cambridge, MA 02139
+</p><p>Your information is held in strictest confidence in a secure environment and is never resold for any reason whatsover.
+</p><p>The Directory of Top Computer Executives is published by Applied Computer Research. While InfoEdge sells the Directory, we are not in any way involved in its creation. Our customer data is NOT included in the Directory. The contact information in the Directory is compiled through extensive telephone surveys conducted by Applied Computer Research.
 <!-- main page content ends above this line -->
-						</p></td>
-					</tr>
-				</tbody></table>
-		<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="white">
-					<tbody><tr>
-						<td><hr size="2"></td>
-					</tr>
-					<tr height="21">
-						<td colspan="2" bgcolor="#ffffff" align="center" height="21">
-							<a href="/index.asp">home</a>&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-							<a href="/sitemap.asp">site map</a>&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-							<a href="/faq.asp">about us</a>&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-							<a href="/privacy.asp">privacy statement</a>&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-							<a href="/questions.asp">contact us</a>&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-							<a href="/links.asp">our link partners</a>
-						</td>
-					</tr>
-					<tr>
-						<td colspan="2" align="center">
-						<br>Entire contents ©2005 InfoEdge. All Rights Reserved.
+					</p></td>
+				</tr>
+			</tbody></table>
+			<table border="0" cellpadding="0" cellspacing="0" width="760">
+				<tbody><tr>
+					<td><hr></td>
+				</tr>
+				<tr>
+					<td>
+						<table class="nav3">
+							<tbody><tr>
+								<td><a class="topmenu" href="/maintopic/topic_AT.asp?c1=nav&amp;source=footer">Advanced Technolgies</a> | <a class="topmenu" href="/maintopic/topic_EM.asp?c1=nav&amp;source=footer">Executive Management</a> | <a class="topmenu" href="/maintopic/topic_FR.asp?c1=nav&amp;source=footer">Finance</a> | <a class="topmenu" href="/maintopic/topic_GS.asp?c1=nav&amp;source=footer">Geography Specific</a> | <a class="topmenu" href="/maintopic/topic_HD.asp?c1=nav&amp;source=footer">Hardware</a> | <a class="topmenu" href="/maintopic/topic_HR.asp?c1=nav&amp;source=footer">Human Resources</a> | <a class="topmenu" href="/maintopic/topic_IV.asp?c1=nav&amp;source=footer">Industry Verticals</a> | <a class="topmenu" href="/maintopic/topic_IT.asp?c1=nav&amp;source=footer">Information Technology</a> | <a class="topmenu" href="/maintopic/topic_OU.asp?c1=nav&amp;source=footer">Outsourcing</a> | <a class="topmenu" href="/maintopic/topic_SM.asp?c1=nav&amp;source=footer">Sales And Marketing</a> | <a class="topmenu" href="/maintopic/topic_SW.asp?c1=nav&amp;source=footer">Software</a> | <a class="topmenu" href="/maintopic/topic_TC.asp?c1=nav&amp;source=footer">Telecommunications</a> | <a class="topmenu" href="/maintopic/topic_VC.asp?c1=nav&amp;source=footer">Vendor Specific</a> | <a class="topmenu" href="/maintopic/topic_WB.asp?c1=nav&amp;source=footer">Web</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td><hr></td>
+				</tr>
+				<tr>
+					<td colspan="2" align="center">
+						<a href="/index.asp">home</a>&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+						<a href="/sitemap.asp">site map</a>&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+						<a href="/faq.asp">about us</a>&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+						<a href="/privacy.asp">privacy statement</a>&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+						<a href="/allproviders.asp">research providers</a>&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+						<a href="/questions.asp">contact us</a>&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+						<a href="/all_categories.asp">categories</a>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2" align="center">
+						<br>Entire contents ©2006 InfoEdge. All Rights Reserved.
 						<br>Email: <a href="mailto:research@infoedge.com">research@infoedge.com</a>
 						<br>
 						<br>
 						<br>
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
 </tbody></table>
 <script type="text/javascript">
 	document.write('<'+'script type="text/javascript" src="'+document.location.protocol+'//stats2.clicktracks.com/cgi-bin/ctasp-server.cgi?i=Zl8IFDrFqV5KVK"><'+'/script>');
@@ -274,5 +178,6 @@ if (typeof(valid) + '' != 'undefined') {tlitrack();}
 //-->
 </script>
 <!-- ConversionRuler.com end -->
+
 
 </body></html>
