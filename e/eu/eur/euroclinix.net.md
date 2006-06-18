@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euroclinix.net privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205191023id_/http%3A//www.euroclinix.net/others.cfm%3Fcategory%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroclinix.net privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618123139id_/http%3A//euroclinix.net/others.cfm%3Fcategory%3DPrivacy) for the most accurate reproduction.*
 
 # euroClinix.net - Privacy
 
