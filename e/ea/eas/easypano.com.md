@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the easypano.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220060332id_/http%3A//easypano.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypano.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618093424id_/http%3A//www.easypano.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Virtual Tour Software, Panorama Software and Photo Stitch Software Developer: Easypano
+# Virtual Tour Software, Panorama Software and Photo Stitching Software Developer: Easypano
 
-[Panoweaver 4.00](https://web.archive.org/panoweaver400_gallery.html)  
-[Tourweaver 1.30](https://web.archive.org/tourweaver125_gallery.html)  
-[Additional Products](https://web.archive.org/panoweaver300_gallery.html)  
+[Panoweaver 4.00](http://www.easypano.com/panorama-gallery.html)  
+[Tourweaver 1.30](http://www.easypano.com/virtual-tour-gallery.html)  
+[Additional Products](http://www.easypano.com/panorama-gallery-300.html)  
 
 
 | 
