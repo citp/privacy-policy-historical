@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223151640id_/http%3A//www.owlpages.com/index.php%3Ffile%3Dstatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owlpages.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618021911id_/http%3A//www.owlpages.com/index.php%3Ffile%3Dstatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-The following discloses the information gathering and dissemination practices for this Web site: [The Owl Pages ](https://web.archive.org/web/20051223151640id_/http%3A//www.owlpages.com/index.php)
+The following discloses the information gathering and dissemination practices for this Web site: [The Owl Pages ](https://web.archive.org/web/20060618021911id_/http%3A//www.owlpages.com/index.php)
 
 **Cookies**  
 This Site uses cookies to make sure you don't see the same ad repeatedly.
