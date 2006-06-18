@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layersmagazine.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160658id_/http%3A//www.layersmagazine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layersmagazine.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618230417id_/http%3A//www.layersmagazine.com/privacy.php) for the most accurate reproduction.*
 
 # Layers Magazine | Privacy policy - The How-To Magazine for Everything Adobe
 
@@ -10,7 +10,7 @@ The KW Media Group Companies believe that information personal to you be respect
 The information we collect about you, such as your name, address, phone number, email address and credit card information comes from you during the registration or purchasing process.
 
 **Information we disclose to third parties**   
-Unless you expressly direct us to do so, we will not disclose personal information about you to third parties for their own marketing purposes. We share personal information about you with third patties (that is, people and companies that are not affiliated with us) only as necessary to provide you with our products and services and as otherwise permitted by law.
+Unless you expressly direct us to do so, we will not disclose personal information about you to third parties for their own marketing purposes. We share personal information about you with third parties (that is, people and companies that are not affiliated with us) only as necessary to provide you with our products and services and as otherwise permitted by law.
 
 **Information we share within our corporate family**  
 We are permitted by law to share information about our experiences and transactions with you (such as your payment history and types of services and /or products you purchased from us) within our family of companies, presently consisting of kW Media Group, Inc., kW Computer Training, Inc., Mac Design Magazine, Inc., the National Association of Photoshop Professionals, Inc. and NAPP Publishing, Inc. We do sometimes share this information in order to best serve you.
@@ -21,9 +21,10 @@ We restrict access to personal information about you (including credit card and 
 **The KW Media Group companies**  
 This privacy policy applies to and is provided on behalf of all of the companies in the kW Media Group family of companies. These companies are:
 
-kW Media Group, Inc.  
-kW Computer Training, Inc.  
-kW Management Holdings, Inc.  
-Mac Design Magazine, Inc.  
-National Association of Photoshop Professionals, Inc.  
-NAPP Publishing, Inc.
+[KW Media Group, Inc.](http://www.kwmediagroup.com/)  
+[Adobe Photoshop Seminar Tours](http://www.photoshopseminars.com/)  
+[MacLive Conference](http://www.maclive.com/)  
+[National Association of Photoshop Professionals, Inc.](http://www.photoshopuser.com/)  
+[Photoshop Elements Techniques Newsletter](https://web.archive.org/web/20060618230417id_/http%3A//www.layersmagazine.com/www.photoshopelementsuser.com)  
+[Scott Kelby Books](http://www.scottkelbybooks.com/)  
+[Photoshop Videos](http://www.photoshopvideos.com/)
