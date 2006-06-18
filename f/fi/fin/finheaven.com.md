@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finheaven.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224044732id_/http%3A//www.finheaven.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finheaven.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618192910id_/http%3A//www.finheaven.com/privacy.php) for the most accurate reproduction.*
 
 # FinHeaven & Co >> Privacy Policy
 
@@ -25,4 +25,4 @@ This site makes chat rooms and message boards, available to its users. Please re
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20051224044732id_/http%3A//contact.php).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20060618192910id_/http%3A//contact.php).
