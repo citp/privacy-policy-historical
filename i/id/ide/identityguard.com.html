@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the identityguard.com privacy policy that was archived on 2005-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051213204425id_/http%3A//www.identityguard.com/gs/english/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the identityguard.com privacy policy that was archived on 2006-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060618101924id_/http%3A//www.identityguard.com/gs/english/Privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Identity Guard®</title>
@@ -180,7 +180,35 @@ alert ("The site is temporarily unavailable due to scheduled maintenance. We apo
         <td width="9%" bgcolor="#000063" class="menulinks" onmouseover="mOvr(this,'#576198');" onmouseout="mOut(this,'#000063');"><a href="../../gs/english/Affiliate_Program.asp" title="Affiliates"><span class="menulinks">Affiliates</span></a></td>
 		
         <td width="10%" bgcolor="#000063" class="menulinks" onmouseover="mOvr(this,'#576198');" onmouseout="mOut(this,'#000063');"><a href="../../gs/english/Contact.asp" title="Contact Us"><span class="menulinks">Contact Us</span></a></td>
-        <td width="24%" bgcolor="#000063" class="menulinks">&nbsp;</td>
+	
+	
+		<script language="JavaScript">
+		<!--
+			var strHref = document.location.href;
+			strHref = strHref.toLowerCase()
+			if (strHref.indexOf('lm_fraudprotect') < 0 && strHref.indexOf('lm_cardregistry') < 0 && strHref.indexOf('lm_creditreport') < 0)
+			{
+				var langindex = strHref.indexOf('english');
+				if (langindex != -1)
+				{
+					strHref = strHref.substring(0, langindex) +  'spanish' + strHref.substring(langindex + 7);
+				}
+				document.write("<td width=\"10%\" bgcolor=\"#000063\" class=\"menulinks\" onMouseOver=\"mOvr(this,'#576198');\" onMouseOut=\"mOut(this,'#000063');\">");
+				document.write('<a title="Español" href="JavaScript:Español" onClick="top.location.href=');
+				document.write("'");
+				document.write(strHref);
+				document.write("'");
+				document.write(';return false;"><span class="menulinks">Español</A></td>');			
+			}
+			else
+			{
+				document.write("<td width=\"10%\" bgcolor=\"#000063\" class=\"menulinks\">&nbsp;</td>");			
+			}
+		//-->
+		</script><td width="10%" bgcolor="#000063" class="menulinks" onmouseover="mOvr(this,'#576198');" onmouseout="mOut(this,'#000063');"><a title="Español" href="JavaScript:Español" onclick="top.location.href='https://web.archive.org/web/20060618101924id_/http%3a//www.identityguard.com/gs/spanish/privacy.asp';return false;"><span class="menulinks">Español</span></a></td>	
+		<td width="14%" bgcolor="#000063" class="menulinks">&nbsp;</td> 
+	          
+        
 		</tr>
 		</tbody></table>
 		</td>
@@ -190,7 +218,7 @@ alert ("The site is temporarily unavailable due to scheduled maintenance. We apo
 		<td colspan="2"><img src="images/spacer.gif" width="10" height="1"></td>
 	</tr>
 </tbody></table>
-	
+
 	<!-- Left Nav Follows - Next Table -->
 	 <table width="760" border="0" cellspacing="0" cellpadding="0">
  <tbody><tr>
@@ -231,7 +259,7 @@ alert ("The site is temporarily unavailable due to scheduled maintenance. We apo
   </tr>
 	</tbody></table>
 	   
-   <style>IMG.right {float:right}</style>
+   <!--Ektron CMS Content Block--><style>IMG.right {float:right}</style>
 
 <table>
 <tbody>
@@ -328,7 +356,7 @@ alert ("The site is temporarily unavailable due to scheduled maintenance. We apo
 </tr>
 </tbody>
 </table>
-   
+<!--/Ektron CMS Content Block-->   
 	<table width="540" border="0" cellspacing="0" cellpadding="0"> 
 	    
   <tbody><tr>
@@ -386,7 +414,11 @@ document.write(strHome + 'Home</a>&nbsp;| ');
 document.write(strAffiliate);
 //-->
 </script>|&nbsp;<a onclick="append_qs(this.href, sQS_LF);return false;" class="Inter" href="/gs/english/Affiliate_Program.asp">Affiliate&nbsp;Program</a><br>
-<a onclick="append_qs(this.href, sQS_LF);return false;" href="/gs/english/Privacy.asp">Privacy&nbsp;Policy</a>&nbsp;| <a class="Inter" onclick="append_qs(this.href, sQS_LF);return false;" href="/gs/english/Faq.asp">FAQ</a>&nbsp;| <a class="Inter" onclick="append_qs(this.href, sQS_LF);return false;" href="/gs/english/Policies.asp">Policies</a>&nbsp;| <a class="Inter" onclick="append_qs(this.href, sQS_LF);return false;" href="/gs/english/Contact.asp">Contact&nbsp;Us</a>&nbsp;|&nbsp; <a class="Inter" onclick="append_qs(this.href, sQS_LF);return false;" href="/state/site-index.asp">Site&nbsp;Index</a> </td>
+<a onclick="append_qs(this.href, sQS_LF);return false;" href="/gs/english/Privacy.asp">Privacy&nbsp;Policy</a>&nbsp;| <a class="Inter" onclick="append_qs(this.href, sQS_LF);return false;" href="/gs/english/Faq.asp">FAQ</a>&nbsp;| <a class="Inter" onclick="append_qs(this.href, sQS_LF);return false;" href="/gs/english/Policies.asp">Policies</a>&nbsp;| <a class="Inter" onclick="append_qs(this.href, sQS_LF);return false;" href="/gs/english/Contact.asp">Contact&nbsp;Us</a> 
+
+&nbsp;|&nbsp;<a class="Inter" onclick="append_qs(this.href, sQS_LF);return false;" href="/state/site-index.asp">Site&nbsp;Index</a>&nbsp;
+
+ </td>
 <td><img height="30" alt="VeriSign logo" src="/gs/english/images/logo_verisign_sm.gif" width="59" border="0"></td>
 </tr>
 
