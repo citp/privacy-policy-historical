@@ -1,87 +1,54 @@
-> *The following text is extracted and transformed from the nbarizona.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212152704id_/http%3A//www.nbarizona.com/AboutNBA/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbarizona.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619012623id_/http%3A//nbarizona.com/AboutNBA/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # About NBA
 
-Privacy is one of the most important services we provide our customers. The safeguarding of your information is a priority to us. This is true whether we are working with networks, paper files or computers. We look for ways to increase the security of your information that you entrust with us. As we do this, we also intend to provide the best possible financial products and services for your needs. We want to tell you more about how we protect your information and encourage you to read the following. If you have any questions, please contact your local branch or office location.
+National Bank of Arizona values your trust and respects your expectation of privacy. As such, we are committed to maintaining the confidentiality of your personal financial information. This document outlines our privacy policy for visitors to our web site, as well as for consumers who have a continuing relationship with us, such as a deposit account, loan, or safe deposit box.
 
-This Customer Privacy Policy only applies to individuals and families. It does not apply to any other type of client, for example businesses or corporations.
+**Visitors to Our Web Site**  
+Visitors to our web site remain anonymous, unless they register for a service or otherwise elect to disclose their identity to us. Although we do not collect personal financial information about persons who simply visit our site, we do collect certain limited information about visitors, such as their IP address (a numeric address assigned automatically to computers when they access the Internet). We also may place “cookies” on a computer to track a visitor’s use of our web site. A cookie is a piece of data that is stored on your hard drive. It takes up very little room on your system and helps us to customize our site and make its navigation easier for you. We sometimes use cookies to help estimate the number of visitors to our site and to determine which areas are the most popular. Unless you register with us for a service (such as our online banking service), the cookie does not provide us with any personally identifying information about you, such as your name or address. 
 
-We refer in this policy several times to "customer information." This means the data you give us to open various accounts at your request, such as name, address, Social Security number, telephone number, income and asset information. It also includes your experience with National Bank and our affiliates regarding your accounts, loans, and other banking services. Additionally, "customer information" includes information that was gathered via credit reporting bureaus, identity and check review agencies, and the like.
+**Our Collection and Use of Information About You**  
+We may collect nonpublic personal information about you in order to understand your needs, administer our business, process transactions, and provide you with products and services. We obtain nonpublic personal information about you from the following sources:
 
-National Bank uses your customer information to provide the products and services you request. We also use your customer information to provide products and services from our affiliates and various third parties as permitted by law.
+  * Information we receive from you on applications or other forms (such as your name, address, social security number, assets and income);
+  * Information about your transactions with us, our affiliates, or others (such as your account balance, payment history, parties to transactions, and credit usage); and 
+  * Information we receive from a consumer reporting agency (such as your creditworthiness and credit history).
 
-Our affiliates include banks, insurers, financial advisors and various electronic companies. We are allowed to share certain credit information with our affiliates, such as account history and customer experience ( i.e. “ experience Experience i Information ”). Additional (“Non-Experience Information”) application information, consumer report information and information from other sources about you can be shared with our affiliates unless you tell us otherwise.
 
-We may also use companies that are not our affiliates to perform services on our behalf. Such companies may be given customer information to enable them to perform these services. All companies hired to perform services on our behalf are prohibited from disclosing or using the information in any manner other than to provide the products and services requested by our customers. Examples of these companies include ATM switchers, data processors and check printing companies.
 
-At times we become aware of companies that offer products and services that may be of interest to you. If so, we may share your customer information, including Experience Information with these companies for purposes of marketing their products or services to you. 
+**Our Disclosure of Information**  
+We may disclose all of the information we collect, as described above, to other financial institutions with whom we have joint marketing agreements, such as securities broker-dealers, insurance agents and card issuers, so that they can market goods and services to you. We also may disclose:
 
-**INFORMATION SECURITY**
+  * Some of this information, such as your name and address, to companies that perform marketing and other services on our behalf (e.g., to companies that assist us with mailings).
+  * Information regarding our experience and transactions with you with financial service providers, such as financial institutions, securities broker-dealers and insurance agents, with which we are related by common ownership or affiliated by corporate control, so that they may offer or provide additional services to you. We also may share other information we obtain about you with those companies (e.g., information from applications and credit reports), unless you notify us before the information is initially communicated that you do not want us to share that information. You can tell us not to share such information by writing to us at National Bank of Arziona, 6001 North 24th Street, Phoenix, AZ 85016 or by calling us at 1-866-299-3342. 
+  * Information about your accounts and transactions: (a) where it is necessary or helpful to effect, process or confirm your transactions; (b) to verify the existence, history and condition of your account for credit reporting agencies; (c) to comply with legal process, such as subpoenas and court orders; (d) to law enforcement authorities if we believe a crime has been committed; (e) if you give us your consent; and f) as otherwise permitted by law. 
 
-Only employees who need access to customer information to perform their jobs are authorized to access customer information. We maintain physical, electronic, and procedural security measures to safeguard information.
 
-We may send you e-mail offers for our products and services, or those of our affiliates and other companies we work with. Included with each e-mail are directions you can follow to discontinue any further e-mail offers from us. We don't share e-mail addresses with other companies for them to market their own products and services to you. Included with each e-mail are directions you can follow to discontinue any further e-mail offers from us.
 
-If any of your accounts with National Bank or our affiliates has a Vermont billing address, we will automatically treat your account as if you had checked boxes (1) and (4) on the attached My Privacy Choices form had directed us not to share your information with our affiliates and o rganizations outside the National Bank family. . If you do not want to receive direct mail offers for National Bank or if you prefer that we do not contact you on the telephone select choices (2) and/or (3), please call our Customer toll-free line at 1-866-299-3342 between 8:00 a.m. and 6:00 p.m. (Mountain Time) Monday through Saturday.
+We do not disclose nonpublic personal information about our current or former customers to unaffiliated third parties except as set forth in this policy. 
 
-**FORMER CUSTOMERS OF NATIONAL BANK**
+**State Rights**  
+Depending on where you live, you may have additional privacy protections under some state laws. For example, certain state laws may restrict the types of information we may disclose about you, limit the parties with whom we may share such information, or require us to provide you with additional notices or opt-out rights. We will comply with applicable state laws before sharing non-public personal information about you. We may do this by sending a separate notice of those rights to you.
 
-National Bank provides the same privacy services for customer information provided by applicants and former customers as it provides for existing customers.
+**Maintaining Accurate Information**  
+We have procedures in place that help us to maintain the accuracy of the personal financial information that we collect. Please write to us at National Bank of Arizona, 6001 North 24th Street, Phoenix, AZ 85016, contact your branch of account, or call us at 1-866-299-3342, if you believe that our information about you is incomplete, out-of-date, or incorrect. If you are an online banking customer, visit our website at www.nbarizona.com to review and correct information about yourself, such as a change in your name, address or e-mail address. 
 
-National Bank offers a wide range of financial products and services to help you meet your needs and achieve your financial goals. We recognize, however, that you may want to choose how we contact you. 
+**Information Security**  
+We restrict access to nonpublic personal information about you to those employees who have a need to know such information (e.g., to process your transactions or provide services to you). We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information.
 
-**Offers for Products and Services of Other Companies**
+**Links to Other Web Sites**  
+Our web site may feature links to third party web sites that offer goods, services or information. Some of these sites may appear as windows-within-windows at this site. When you click on one of these links, you will be leaving our site and will no longer be subject to this policy. We are not responsible for the information collection practices of the other web sites that you visit and urge you to review their privacy policies before you provide them with any personally identifiable information. Third party sites may collect and use information about you in a way that is different from this policy. 
 
-If you prefer that we not share personal information about you with companies and organizations outside the National Bank family (“Third P arties” ) , you may call our Customer Service toll-free line indicated in the “How to C ontact Us” section below and direct us not to share your information (“ opt out” ) . 
+**Services and Advertisements by Third Parties**  
+Third parties may offer services from time to time at our web site. If you provide them with information, their use of that information will be subject to their privacy policy, if any, and will not be subject to this policy. If you accept third party goods or services advertised at our web site, the third party may be able to identify that you have a relationship with us (e.g., if the offer was only made through our site).
 
-C hoosing to opt out of the sharing of personal information with T hird P arties may limit opportunities for you to receive product and service information that may interest you. 
+**Minors**  
+We feel strongly about protecting the privacy of children and teenagers. As such, we do not knowingly collect personally identifiable information from minors through our web site. 
 
-**Offers for National Bank Products and Services**
+**Changes to this Policy**  
+We may amend (add to, delete, or change) the terms of this Privacy Policy from time to time by posting a notice of the change (or an amended Privacy Policy) at this website. If required by law, we will send you a notice of the change. Your continued use of our web site or any on-line service following notification will constitute your agreement to the revised Policy.
 
-Direct Mail Offers* 
+**Questions**  
+If you have any questions regarding this Policy, you can call us at 1-866-299-3342 or write to us at National Bank of Arizona, 6001 North 24th Street, Phoenix, AZ 85016.
 
-If you prefer not to receive direct mail offers for National Bank products and services, you may call our Customer Service toll-free line indicated in the “How to Contact Us” section below and direct us to discontinue sending direct mail offers to the address held in our file. 
-
-Choosing to opt out from receiving direct mail may limit opportunities for you to receive offers about National Bank products and services that may be of value to you.
-
-####  Telephone Offers 
-
-If you prefer that we do not contact you on the telephone to offer you National Bank products and services, you may provide us with the specific telephone number(s) you do not want to be contacted at by calling our Customer Service toll-free line indicated in the “How to Contact Us” section below, or by talking to a customer representative at a banking center or your client relationship manager.
-
-Choosi ng not to hear from u s may limit opportunities for you to learn about National Bank products and services that may be of value to you. 
-
-If you prefer that we not share N on-E xperience I nformation (a pplication Information, consumer report information and information from outside sources) about you within the National Bank family of companies, you may call our Customer Service toll-free line indicated in the “How to Contact Us” section below and direct us not to share this information.
-
-Choosing to opt out of the sharing of Non-Experience Information with our affiliates may limit opportunities for you to receive product and service information that may interest you. 
-
-During the normal course of doing business we will continue to share Experience Information as well as o ther g eneral i nformation , as permitted by law, among our companies in order to service your accounts and better meet your financial needs. 
-
-National Bank Customer Service Representatives are available to receive your privacy choices on National Bank’s specially dedicated toll-free line at 1-866-299-3342 between 8:00 a.m. and 6:00 p.m. (Mountain Time) Monday through Saturday. Our Customer Service Representatives will verify your identity, enter your choices in National Bank’s do-not-call/share/ direct mail list and will ensure that your choices are honored with regard to all your information, including the addresses and telephone numbers in our file. 
-
-If you have already talked with one of our Customer Service Representatives and explained your choices, you do not need to take any further action . We will continue to honor your choices. If you have not already contacted our Customer Service or if you want to change your choices, please call one of our Customer Service Representatives as indicated above.   If you have already talked with one of our Customer Service Representatives and explained your choices, you do not need to call or send us anything . We will continue to honor your choices If you have not already contacted Customer Service or if you want to change your choices, you can notify us by calling our Customer Service toll-free line at 1-866-299-3342 between 8:00 am and 8:00 pm (Mountain Time) Monday through Saturday . Or, if you prefer, indicate your choices by marking the boxes below and returning the completed form to: 
-
-My Privacy Choices   
-P.O. Box 26127   
-Salt Lake City UT 84126-0127 
-
-Please do not send the form to your local branch or office. 
-
-MY PRIVACY CHOICES 
-
-Offers for Products and Services of Other Companies
-
-(_____) (1) Do not disclose customer information about me to other companies for the purpose of sending me offers for their products and services.
-
-**Offers for National Bank of Arizona Products and Services**
-
-_Direct Mail Offers_
-
-(_____) (2) Do not send me direct mail offers for National Bank's products and services.
-
-_Telephone Offers_
-
-(_____) (3) Do not contact me by telephone to offer me National Bank's products and services. 
-
-* “Direct mail” means items mailed to you for the express purpose of offering products and/or services. It does not include promotional items included with your regular account statements.
-
-Rev. 05/05 
+Effective 06/01/06
