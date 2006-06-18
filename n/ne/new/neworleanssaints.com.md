@@ -1,12 +1,22 @@
-> *The following text is extracted and transformed from the neworleanssaints.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220140021id_/http%3A//neworleanssaints.com/custompage.cfm%3Fpageid%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neworleanssaints.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618105215id_/http%3A//neworleanssaints.com/custompage.cfm%3Fpageid%3D116) for the most accurate reproduction.*
 
 # NewOrleansSaints.com - The Official Web Site Of The New Orleans Saints
 
-**New Orleans Saints Website Privacy Policy (Last Updated: 8/15/05)**
+[](http://www.truste.org/ivalidate.php?url=www.neworleanssaints.com&sealid=101)
+
+**New Orleans Saints Website Privacy Policy (Last Updated: 3/29/06)**
 
 This privacy policy applies to the NewOrleansSaints' website located at www.NewOrleansSaints.com (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
 The Website is operated by EATELWEB on behalf of the New Orleans Saints (collectively, the "Saints", "we", "our", or "us"). EATELWEB does not own any information submitted through this website and cannot use this information for its own purposes.
+
+New Orleans Saints is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.NewOrleansSaints.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact **Vicky Neumeyer, VP/General Counsel at New Orleans Saints; 5800 Airline Drive; Metairie, LA 70003**. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
+
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.
+
+This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
@@ -83,7 +93,7 @@ Other Promotional Offers: We may send offers to you on behalf of our marketing p
 
 Audience and Traffic Measurement Services: Audience and Traffic Measurement Services allow us to collect anonymous traffic and behavior information from our Website by monitoring anonymous visitor activity. Although advertisers or other companies do not have access to the Website cookies, the Website's traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Other companies' use of their cookies is subject to their own privacy policies, not this one.
 
-Business Transfers: In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer.
+Business Transfers: In the event that all or substantially all of our assets are sold or transferred to another party, or another transaction occurs in which your personally identifiable information is one of the business assets transferred, all personally identifiable information that has been collected and saved may be one of the business assets we transfer. **Please refer to "Your acceptance of the privacy policy and notification of changes to the policy" section below**.
 
 Administrative or Legal Process: Your personal information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights, or protect the rights of other users of this website.
 
@@ -111,7 +121,7 @@ By using this Website, you signify your agreement to the terms of our privacy po
 
 **CORRECTING/UPDATING PERSONAL INFORMATION**
 
-If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt-out message in an email, or by emailing us at comments@saints.nfl.com.
+If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt-out message in an email, or by emailing us at comments@saints.nfl.com. **We will respond to your request within 10-20 business days**.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
