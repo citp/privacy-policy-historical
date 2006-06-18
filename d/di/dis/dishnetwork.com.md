@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishnetwork.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231072526id_/http%3A//www.dishnetwork.com/content/aboutus/privacy_notice/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishnetwork.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618074819id_/http%3A//dishnetwork.com/content/aboutus/privacy_notice/index.shtml) for the most accurate reproduction.*
 
 # DISH Network -- Subscriber Privacy Notice
 
