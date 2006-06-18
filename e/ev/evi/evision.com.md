@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evision.com privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201102940id_/http%3A//www.evision.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evision.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618223149id_/http%3A//www.evision.com/common/pages/privacy.aspx) for the most accurate reproduction.*
 
-# 
+# eVision - Privacy Policy
 
 eVision values its customers and respects their privacy. We collect customer information to process your order and to communicate with you about our products, services, contests, surveys, and promotions. eVision recognizes that it must maintain and use customer information responsibly. This policy describes the personal information we collect about you, why we collect it, and how we use it. If you have any questions about our privacy policy, please contact one of our Customer Service Representatives by emailing us at [ customerservice@evision.com ](mailto:customerservice@evision.com).
 
@@ -22,7 +22,7 @@ In order to provide the lowest possible prices, eVision contracts with trusted v
 
 **_How do I remove my information from email or postal mailing lists?_**
 
-If you prefer not to receive information from us, either through email or postal mail, please log-in to your eVision account and visit the [ Account Info](https://web.archive.org/web/20051201102940id_/http%3A//www.evision.com/profile.aspx) page.
+If you prefer not to receive information from us, either through email or postal mail, please log-in to your eVision account and visit the [Account Info](https://web.archive.org/web/20060618223149id_/http%3A//www.evision.com/common/pages/profile.aspx) page.
 
 Please note: Such requests may take up to 6-8 weeks to become effective. In addition, if you ask to remove your name and address from our email or postal mailing lists, we will maintain your name in a "do not mail" file to ensure that we can honor your request. Also, when you make a purchase, we will send you email to confirm your order and we may also need to contact you via phone, postal mail, or email if we have other questions regarding your order.
 
