@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the janubaba.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214145157id_/http%3A//www.janubaba.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janubaba.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618083853id_/http%3A//www.janubaba.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # 
 
-If you need more information about Janubaba, please [Contact Us](https://web.archive.org/web/20051214145157id_/http%3A//www.janubaba.com/contactus.asp)
+If you need more information about Janubaba, please [Contact Us](https://web.archive.org/web/20060618083853id_/http%3A//www.janubaba.com/contactus.asp)
 
 Any personal information you ("You"/"Member") give us is treated confidentially and held with care and security. 
 
@@ -49,4 +49,4 @@ Janubaba reserves the right to change this Statement, and/or any part thereof, a
 ** This site contains links to other sites. **Janubaba** is not responsible for the privacy practices or the content of such Web sites.
 
 **Contacting the Web Site  
-** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [Contact Us](https://web.archive.org/web/20051214145157id_/http%3A//www.janubaba.com/contactus.asp)
+** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [Contact Us](https://web.archive.org/web/20060618083853id_/http%3A//www.janubaba.com/contactus.asp)
