@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229170406id_/http%3A//www.rockwelltrading.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618120147id_/http%3A//www.rockwelltrading.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Futures Trading Systems - How to start trading successfully with e-mini trading systems.
 
