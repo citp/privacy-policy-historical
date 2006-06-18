@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followfollow.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223164809id_/http%3A//www.followfollow.com/feedback/loadpriv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followfollow.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618071737id_/http%3A//www.followfollow.com/feedback/loadpriv.asp) for the most accurate reproduction.*
 
 # FollowFollow.com - the definitive Rangers website. Independent news and stats from footymad.net
 
