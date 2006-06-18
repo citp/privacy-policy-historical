@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pimsleur.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212052138id_/http%3A//www.simonsays.com/content/feature.cfm%3Fsid%3D33%26feature_id%3D1610) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pimsleur.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618031001id_/http%3A//www.simonsays.com/content/feature.cfm%3Fsid%3D33%26feature_id%3D1610) for the most accurate reproduction.*
 
-# Simonsays.com > SimonSays > SimonSays Privacy Policy
+# Simon & Schuster: SimonSays: SimonSays Privacy Policy
 
 **Privacy Policy  
 **  
-SimonSays.com ("Site," "us,"or "we") is maintained by Simon & Schuster Online, 1230 Avenue of the Americas, New York, NY, 10020, and is a member of the Simon & Schuster family of companies. We can be reached by e-mail at [privacyadministrator@simonandschuster.com](mailto:privacyadministrator@simonandschuster.com).
+SimonSays.com ("Site," "us,"or "we") is maintained by Simon & Schuster Digital, 1230 Avenue of the Americas, New York, NY, 10020, and is a member of the Simon & Schuster family of companies. We can be reached by e-mail at [privacyadministrator@simonandschuster.com](mailto:privacyadministrator@simonandschuster.com).
 
 Your privacy is very important to us. Because we gather certain types of personally identifiable information ("Personal Information") from users of our Site and for various Simon & Schuster activities, operational and business purposes, we feel you should know how we collect, use, disclose, manage, and store the Personal Information that you may provide to us. This Privacy Policy is a part of the Site's [Terms of Use Agreement](http://www.simonsays.com/content/feature.cfm?sid=33&feature_id=1630), which is binding on all Site users. This Policy applies only to the Personal Information collected by Simon & Schuster and does not cover any such information collected by its corporate parent(s), affiliates, or any other company, unless specifically stated. 
 
@@ -16,7 +16,7 @@ Residents of the State of California, under a new provision of the California Ci
 If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (e-mail or postal mail). You may contact us in two ways. Send e-mail to Privacy Administrator at [privacyadministrator@simonandschuster.com](mailto:privacyadministrator@simonandschuster.com). 
 
 Alternatively, you may contact Simon & Schuster at:  
-Simon & Schuster Online  
+Simon & Schuster Digital  
 1230 Avenue of the Americas, 11th Floor  
 New York, NY 10020  
 Attn: Your California Privacy Rights c/o Privacy Administrator
@@ -37,7 +37,7 @@ Simon & Schuster recognizes the importance of protecting the privacy of visitors
 
  We consider the following to be Personal Information: your name, street address, phone number, credit card information and e-mail address. Personal Information is used by Simon & Schuster to process your online purchases, to inform you about our products and services, to fulfill sweepstakes and rebate offers, to improve the products and services we offer, and otherwise to better meet the needs and preferences of Simon & Schuster customers. We share your Personal Information with our operational service providers, the specialists that provide internal support to Simon & Schuster's and the Site's operations including maintenance, management, storage, disposal of Personal Information and/or fulfillment of various sweepstakes, rebate offers, services and your online purchases. Operational Service Providers who have access to your Personal Information are required to protect it in a manner that is consistent with this Privacy Policy by for example, not using the information for any purpose other than to carry out the services they are performing for us. 
 
-We may share your Personal Information with our corporate parent, Viacom Inc. and affiliated entities primarily for business and operational purposes. On occasion, we may share your Personal Information with Viacom-related corporate entities for promotional and marketing purposes. We will inform you when we conduct cross-promotional events between our various companies, and you will have the right to Opt-out of such use. 
+We may share your Personal Information with our corporate parent, CBS and affiliated entities primarily for business and operational purposes. On occasion, we may share your Personal Information with CBS-related corporate entities for promotional and marketing purposes. We will inform you when we conduct cross-promotional events between our various companies, and you will have the right to Opt-out of such use. 
 
 We also may disclose your Personal Information to comply with court orders or subpoenas or when required to do so by law. We may also disclose such data in cooperation with a law enforcement or government request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Use Agreement](http://www.simonsays.com/content/feature.cfm?sid=33&feature_id=1630), or to comply with legal or regulatory obligations. In addition, we may transfer information to a third party in the event of corporate restructuring (e.g., a sale, merger or other transfer of assets). Finally, we may share Personal Information with unrelated third parties (for example, our promotional partners) for their own direct marketing purposes. In such instances, you will have the opportunity to opt-out as described in the Section entitled: Data Sharing With Third Parties. 
 
@@ -76,7 +76,7 @@ We are not responsible for the data collection practices of any sites linked to 
 **CHILDREN'S PRIVACY**  
 Visitors to this Site may participate in many activities without providing any Personal Information. However, certain activities or features may require the submission of Personal Information from children and in these circumstances, we will follow the requirements of the Children's Online Privacy Protection Act ("COPPA"). We will use Personal Information that children provide to respond to their requests, e.g., to provide them with our newsletters, to participate in a game, sweepstakes or contest, or to respond to their requests about our books or products. We will not condition children's participation in an online activity on the disclosure of more information than is reasonably necessary to participate in the activity. We do not share children's information with outside third parties not bound by this Privacy Policy, or otherwise inconsistent with the requirements of COPPA. If you are a Parent or Legal Guardian and would like to review any Personal Information that we have collected online from your child, have this information deleted, and/or request that there be no further collection or use of your child's information or if you have questions about these information practices, you may contact us at:
 
- Simon & Schuster Online   
+ Simon & Schuster Digital  
 1230 Avenue of the Americas, 11th Floor   
 New York, New York, 10020   
 ATTN: Privacy Administrator   
