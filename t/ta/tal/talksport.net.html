@@ -1,0 +1,519 @@
+<!--The following is the downloaded HTML source of the talksport.net privacy policy that was archived on 2006-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060619001157id_/http%3A//www2.talksport.net/utilities/privacy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>talksport</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta http-equiv="imagetoolbar" content="no">
+    <meta name="keywords" content="talksport,radio,uk,sport">
+    <meta name="description" content="talkSPORT broadcasts on 1089/1053 AM to all of the UK.">
+    <meta name="author" content="UTV Internet - Design: Cora Teague. Development: Frankie Martin, Stuart Harland, Nibu Abraham, Gavin O'Hara">
+    <link href="/css/outer_layout.css" rel="stylesheet" type="text/css">
+		<link href="/css/internal_layout.css" rel="stylesheet" type="text/css">
+		<link href="/css/text.css" rel="stylesheet" type="text/css">
+		<link href="/css/content.css" rel="stylesheet" type="text/css">
+		<script language="JavaScript" src="/javascript/radio.js" type="text/JavaScript"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+
+/***********************************************
+* Pausing up-down scroller- © Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+function pausescroller(content, divId, divClass, delay){
+this.content=content //message array content
+this.tickerid=divId //ID of ticker div to display information
+this.delay=delay //Delay between msg change, in miliseconds.
+this.mouseoverBol=0 //Boolean to indicate whether mouse is currently over scroller (and pause it if it is)
+this.hiddendivpointer=1 //index of message array for hidden div
+document.write('<div id="'+divId+'" class="'+divClass+'" style="position: relative; overflow: hidden"><div class="innerDiv" style="position: absolute; width: 100%" id="'+divId+'1">'+content[0]+'</div><div class="innerDiv" style="position: absolute; width: 100%; visibility: hidden" id="'+divId+'2">'+content[1]+'</div></div>')
+var scrollerinstance=this
+if (window.addEventListener) //run onload in DOM2 browsers
+window.addEventListener("load", function(){scrollerinstance.initialize()}, false)
+else if (window.attachEvent) //run onload in IE5.5+
+window.attachEvent("onload", function(){scrollerinstance.initialize()})
+else if (document.getElementById) //if legacy DOM browsers, just start scroller after 0.5 sec
+setTimeout(function(){scrollerinstance.initialize()}, 5000)
+}
+
+// -------------------------------------------------------------------
+// initialize()- Initialize scroller method.
+// -Get div objects, set initial positions, start up down animation
+// -------------------------------------------------------------------
+
+pausescroller.prototype.initialize=function(){
+this.tickerdiv=document.getElementById(this.tickerid)
+this.visiblediv=document.getElementById(this.tickerid+"1")
+this.hiddendiv=this.hiddendiv=document.getElementById(this.tickerid+"2")
+this.visibledivtop=parseInt(pausescroller.getCSSpadding(this.tickerdiv))
+this.getinline(this.visiblediv, this.hiddendiv)
+this.hiddendiv.style.visibility="visible"
+var scrollerinstance=this
+this.tickerdiv.onmouseover=function(){scrollerinstance.mouseoverBol=1}
+this.tickerdiv.onmouseout=function(){scrollerinstance.mouseoverBol=0}
+setTimeout(function(){scrollerinstance.animateup()}, this.delay)
+}
+
+
+// -------------------------------------------------------------------
+// animateup()- Move the two inner divs of the scroller up and in sync
+// -------------------------------------------------------------------
+
+pausescroller.prototype.animateup=function(){
+var scrollerinstance=this
+if (parseInt(this.hiddendiv.style.top)>(this.visibledivtop+5)){
+this.visiblediv.style.top=parseInt(this.visiblediv.style.top)-5+"px"
+this.hiddendiv.style.top=parseInt(this.hiddendiv.style.top)-5+"px"
+setTimeout(function(){scrollerinstance.animateup()}, 50)
+}
+else{
+this.getinline(this.hiddendiv, this.visiblediv)
+this.swapdivs()
+setTimeout(function(){scrollerinstance.setmessage()}, this.delay)
+}
+}
+
+// -------------------------------------------------------------------
+// swapdivs()- Swap between which is the visible and which is the hidden div
+// -------------------------------------------------------------------
+
+pausescroller.prototype.swapdivs=function(){
+var tempcontainer=this.visiblediv
+this.visiblediv=this.hiddendiv
+this.hiddendiv=tempcontainer
+}
+
+pausescroller.prototype.getinline=function(div1, div2){
+div1.style.top=this.visibledivtop+"px"
+div2.style.top=Math.max(div1.parentNode.offsetHeight, div1.offsetHeight)+"px"
+}
+
+// -------------------------------------------------------------------
+// setmessage()- Populate the hidden div with the next message before it's visible
+// -------------------------------------------------------------------
+
+pausescroller.prototype.setmessage=function(){
+var scrollerinstance=this
+if (this.mouseoverBol==1) //if mouse is currently over scoller, do nothing (pause it)
+setTimeout(function(){scrollerinstance.setmessage()}, 100)
+else{
+var i=this.hiddendivpointer
+var ceiling=this.content.length
+this.hiddendivpointer=(i+1>ceiling-1)? 0 : i+1
+this.hiddendiv.innerHTML=this.content[this.hiddendivpointer]
+this.animateup()
+}
+}
+
+pausescroller.getCSSpadding=function(tickerobj){ //get CSS padding value, if any
+if (tickerobj.currentStyle)
+return tickerobj.currentStyle["paddingTop"]
+else if (window.getComputedStyle) //if DOM2
+return window.getComputedStyle(tickerobj, "").getPropertyValue("padding-top")
+else
+return 0
+}
+
+</script>
+  </head>
+  <body>
+    
+	<div id="layout-pane2">
+
+<div style="float:auto;" id="layout-column2">
+				
+			<script language="JavaScript" src="http://ad.doubleclick.net/adj/talksport/home;tile=1;sz=120x600;ord=70554.7511577606?"></script>
+            <noscript>
+            <A HREF="http://ad.doubleclick.net/jump/talksport/home;tile=1;sz=120x600;ord=70554.7511577606?" TARGET="_blank">
+            <IMG style="padding-bottom:2px;" SRC="http://ad.doubleclick.net/ad/talksport/home;tile=1;sz=120x600;ord=70554.7511577606?" WIDTH="120" HEIGHT="600" BORDER="0" ALT=""></IMG></A>
+            </noscript>
+			<table height="0px"><tbody><tr><td></td></tr></tbody></table>
+					
+				
+			<script language="JavaScript" src="http://ad.doubleclick.net/adj/talksport/a120;tile=1;sz=120x120;ord=53342.4019813538?"></script>
+            <noscript>
+            <A HREF="http://ad.doubleclick.net/jump/talksport/a120;tile=1;sz=120x120;ord=53342.4019813538?" TARGET="_blank">
+            <IMG SRC="http://ad.doubleclick.net/ad/talksport/a120;tile=1;sz=120x120;ord=53342.4019813538?" WIDTH="120" HEIGHT="120" BORDER="0" ALT=""></IMG></A>
+            </noscript>	
+			
+				
+			<script language="JavaScript" src="http://ad.doubleclick.net/adj/talksport/b120;tile=1;sz=120x120;ord=57951.8616199493?"></script>
+            <noscript>
+            <A HREF="http://ad.doubleclick.net/jump/talksport/b120;tile=1;sz=120x120;ord=57951.8616199493?" TARGET="_blank">
+            <IMG SRC="http://ad.doubleclick.net/ad/talksport/b120;tile=1;sz=120x120;ord=57951.8616199493?" WIDTH="120" HEIGHT="120" BORDER="0" ALT=""></IMG></A>
+            </noscript>	
+
+</div>
+		
+	<div style="float:left;" id="layout-pane">
+		<div id="layout-column1">
+			<!-- BoF Top Banners -->	
+			<img src="/images/worldcup/wclive.gif">		
+			<!-- EoF Top Banners -->
+			<div id="content-pane" style="padding-top:1px;">
+	
+	<!-- main container -->
+
+
+	<!--<div id="wrapper">
+		
+		<div id="wrapper2">
+			<div id="TSBannerLeft" style="float:left;">
+		
+			</div>
+		
+			<div id="UTVBanner" style="float:inherit;padding-top:14px;">
+				
+				
+				
+				<table><tr><td>
+			<SCRIPT LANGUAGE="JavaScript" SRC="http://ad.doubleclick.net/adj/talksport/home;tile=1;sz=468x60;ord=28956.2463760376?" ></SCRIPT>
+            <NOSCRIPT>
+            <A HREF="http://ad.doubleclick.net/jump/talksport/home;tile=1;sz=468x60;ord=28956.2463760376?" TARGET="_blank">
+            <IMG SRC="http://ad.doubleclick.net/ad/talksport/home;tile=1;sz=468x60;ord=28956.2463760376?" WIDTH="468" HEIGHT="60" BORDER="0" ALT=""></IMG></A>
+            </NOSCRIPT>
+				</td></tr></table>
+				
+			</div>
+		</div>
+-->
+
+
+
+		<div id="wrapper_wc">
+		<div id="wrapper_wc1" style="float:right;">
+		
+
+		<table>
+
+		        <tbody><tr>
+		            <td height="1"></td>
+		        </tr>
+		        
+		        	
+				<tr><td align="left">
+					<table border="0" cellpadding="0" cellspacing="0" width="468" height="60"><tbody><tr><td valign="top" align="left">
+								<script language="JavaScript" src="http://ad.doubleclick.net/adj/talksport/home;tile=1;sz=468x60;ord=30194.8010921478?"></script>
+								<noscript>
+								<A HREF="http://ad.doubleclick.net/jump/talksport/home;tile=1;sz=468x60;ord=30194.8010921478?" TARGET="_blank">
+								<IMG SRC="http://ad.doubleclick.net/ad/talksport/home;tile=1;sz=468x60;ord=30194.8010921478?" WIDTH="468" HEIGHT="60" BORDER="0" ALT=""></A>
+								</noscript>
+					</td></tr></tbody></table>
+				</td></tr>
+		        
+		        <tr>
+		            <td height="1"></td>
+		        </tr>
+		        <tr>
+		            <td align="right">
+		                <table width="468" border="0" cellpadding="0" cellspacing="0">
+		                    <tbody><tr>
+		                        <td><a target="_blank" href="http://www.budgetvaninsurance.com/englandvanclub/"><img src="/images/worldcup/budget_wc.gif" border="0"></a></td>
+		                        
+		                        <td><a target="_blank" href="http://www.oldlions.co.uk/"><img src="/images/worldcup/carlsberg_wc.gif" border="0"></a></td>
+		                        
+		                        <td><a target="_blank" href="http://www.ford.co.uk/"><img src="/images/worldcup/ford_wc.gif" border="0"></a></td>
+		                        
+		                        <td><a target="_blank" href="http://www.marsbelieve.com/"><img src="/images/worldcup/mars_wc.gif" border="0"></a></td>
+		                        
+		                        <td><a target="_blank" href="http://www.nationwide.co.uk/sponsorship/default.htm"><img src="/images/worldcup/nationwide_wc.gif" border="0"></a></td>
+		                       
+		                        <td><a target="_blank" href="http://www.surewildestfan.co.uk/"><img src="/images/worldcup/sure_wc.gif" border="0"></a></td>
+		                        
+		                    </tr>
+		                </tbody></table>
+		                
+		            </td>
+		        </tr>
+		        
+		        <tr>
+		            <td class="txtWhite75" align="right"><!--Official talkSPORT Partners for the 2006 FIFA World Cup Germany &trade;--></td>
+		        </tr>
+		       
+		    </tbody></table>
+		
+		</div>
+		</div>
+
+
+		<!-- start main wrapper -->
+		
+		<div style="background-image:url('/images/layout/back_repeater.gif'); background-repeat:repeat-y ">
+			<div id="leftBlockWrap" style="height:100% ">
+			<div id="leftcol">
+				<div id="leftcolImg" style="background-image:url('/images/shows/Default_On_Air.jpg');">
+					<div style="padding-top:150px;padding-left:3px;">
+						<table><tbody><tr><td>
+						<a href="http://www.talksport.net/talksport-live.asx" target="_blank"><img src="/images/images/listen.jpg" alt="talkSPORT: listen live" name="listenlive" width="94" height="28" border="0" id="listenlive"></a><br>
+						</td></tr></tbody></table></div>
+					</div>					
+					
+
+
+
+<div id="navcontainer">
+	<ul class="navlist">
+		
+		<li><a title="HOME" href="/index.asp?a=1">HOME</a></li>
+		
+	</ul>
+</div>
+<div id="navcontainerWC">
+	<ul class="navlistWC">		
+		<li><a title="WORLD CUP FEVER" href="/inside/inside.asp?a=17">WORLD CUP FEVER</a></li>
+		<li><a title="WORLD CUP NEWS" href="/worldcupnews/worldcupnews.asp?a=16">WORLD CUP NEWS</a></li>
+		<li><a href="/worldcuppreview/worldcuppreview.asp?a=20" title="MATCH PREVIEWS">MATCH PREVIEWS</a></li>
+		
+		
+		<li><a href="/worldcupreport/worldcupreport.asp?a=21" title="MATCH REPORTS">MATCH REPORTS</a></li>
+		
+		
+		<li><a href="http://ad.uk.doubleclick.net/clk;35992387;13425104;j?http://www.talksport.net/photocomp/photos.asp?a=22" title="EYES ON GERMANY">EYES ON GERMANY</a></li>
+
+		<li><a href="/forum/forum_detail.asp?a=23&amp;type=feature&amp;id=100639" title="YOU WHAT?">YOU WHAT?</a></li>
+		
+		
+		<li><a href="/guidetogermany/berlin.asp?a=18" title="GUIDE TO GERMANY">GUIDE TO GERMANY</a></li>
+</ul>
+</div>
+<div id="navcontainer">
+	<ul class="navlist">
+		<li><a title="talkSPORT CARD" target="_new" href="https://www.talksportcard.co.uk">talkSPORT CARD</a></li>
+		<li><a title="PRESENTERS" href="/presenters/presenters.asp?a=2&amp;b=0">PRESENTERS</a></li>
+		
+		<li><a title="WHAT'S ON talkSPORT" href="/whatson/talksporttoday.asp?a=3">WHAT'S ON talkSPORT</a></li>
+						
+		<li><a title="SPORTS NEWS" href="/sportsnews/sportsnews.asp?a=4">SPORTS NEWS</a></li>
+		
+		<li><a title="WIN STUFF" href="/competitions/competitions.asp?a=5">WIN STUFF</a></li>
+		
+		<li><a title="LISTEN TO US" href="/listen/listentous.asp?a=6&amp;listen_id=99983">LISTEN TO US</a></li>
+		
+		<li><a title="talkSPORT FORUM" href="/forum/forum.asp?a=7">talkSPORT FORUM</a></li>
+		
+		<li><a title="talkSPORT REVIEWS" href="/reviews/reviews.asp?a=12">talkSPORT REVIEWS</a></li>
+		
+		<li><a title="talkSPORT TIPS" href="/tips/tips.asp?a=13">talkSPORT TIPS</a></li>
+		
+		<li><a title="GALLERY" href="/gallery/gallery.asp?a=8">GALLERY</a></li>
+		
+		<li><a title="NEWLETTER" href="/newsletter/newsletter.asp?a=9">NEWSLETTER</a></li>
+		
+		
+		<li><a title="NEWLETTER" href="/pressoffice/pressoffice.asp?a=15">PRESS OFFICE</a></li>
+		
+		
+		<li><a title="DESKTOPS ALERTS" target="_blank" href="http://download.skinkers.com/downloadpages/talksport/" onclick="document.getElementById('navListOnPage').style.color = '#FFFFFF'; this.style.color = '#F0E438'">DESKTOP ALERTS</a></li>
+		
+		<li><a title="ADVERTISE WITH US" href="/advertise/advertise.asp?a=10">ADVERTISE WITH US</a></li>
+		
+		<li><a title="CONTACT US" href="/utilities/contact_us.asp?a=11">CONTACT US</a></li>
+		
+	</ul>
+
+</div>
+
+
+
+
+
+
+
+<div id="navcontainer2">
+	<ul class="navlist2">
+		<li><a title="talkSPORT SHOP" style="border-top:1px solid white;" target="_new" href="http://www.talksportshop.co.uk/">talkSPORT SHOP</a></li>
+		<!--<li><a title="talkSPORT TRAVEL" href="">talkSPORT TRAVEL</a></li>
+		<li><a title="talkSPORT MOBILE" href="">talkSPORT MOBILE</a></li>
+		<li><a title="BETTING TIPS" href="" target="_blank?a=15">BETTING TIPS</a></li>
+		<li><a title="LOVE FILMS" target="_new" href="http://www.lovefilm.com/talksport.php">LOVEFiLM</a></li>-->
+	</ul>
+</div>
+<div id="filler">
+    <img border="0" src="/images/layout/leftimage.jpg">
+</div>
+<div id="navcontainer3"><span style="color:#FFFFFF ">talkSPORT POLL</span></div>
+<form name="frmVote" method="post" action="/utilities/poll_action.asp">
+	<input name="redir" type="hidden" value="/utilities/privacy.asp">
+	<input name="qs" type="hidden" value="">
+	<div id="navcontainerVote">
+		<table cellpadding="0" cellspacing="0" width="100%" border="0">
+			
+				<input name="poll_id" type="hidden" value="100002">
+				<tbody><tr><td style="padding-left:3px " colspan="2">Q. Who will win the World Cup?</td></tr>
+				
+						<tr>
+							<td width="1%" align="left" valign="top"><input checked="" type="radio" name="rdoPoll" value="100010"></td>
+							<td align="left" valign="middle">England</td>
+						</tr>
+						
+						<tr>
+							<td width="1%" align="left" valign="top"><input type="radio" name="rdoPoll" value="100011"></td>
+							<td align="left" valign="middle">Brazil</td>
+						</tr>
+						
+						<tr>
+							<td width="1%" align="left" valign="top"><input type="radio" name="rdoPoll" value="100012"></td>
+							<td align="left" valign="middle">Holland</td>
+						</tr>
+						
+						<tr>
+							<td width="1%" align="left" valign="top"><input type="radio" name="rdoPoll" value="100013"></td>
+							<td align="left" valign="middle">Portugal</td>
+						</tr>
+						
+						<tr>
+							<td width="1%" align="left" valign="top"><input type="radio" name="rdoPoll" value="100014"></td>
+							<td align="left" valign="middle">Argentina</td>
+						</tr>
+						
+						<tr>
+							<td width="1%" align="left" valign="top"><input type="radio" name="rdoPoll" value="100203"></td>
+							<td align="left" valign="middle">Italy</td>
+						</tr>
+						
+						<tr>
+							<td width="1%" align="left" valign="top"><input type="radio" name="rdoPoll" value="100204"></td>
+							<td align="left" valign="middle">Spain</td>
+						</tr>
+						
+						<tr>
+							<td width="1%" align="left" valign="top"><input type="radio" name="rdoPoll" value="100205"></td>
+							<td align="left" valign="middle">Germany</td>
+						</tr>
+						
+						<tr>
+							<td width="1%" align="left" valign="top"><input type="radio" name="rdoPoll" value="100206"></td>
+							<td align="left" valign="middle">France</td>
+						</tr>
+						
+						<tr>
+							<td width="1%" align="left" valign="top"><input type="radio" name="rdoPoll" value="100215"></td>
+							<td align="left" valign="middle">Czech Republic</td>
+						</tr>
+						
+					<tr><td style="padding-top:8px " valign="top" class="voteButton" colspan="2" align="center"><a style="color:#000000; font-size:10px " href="javascript:document.frmVote.submit();">VOTE</a></td></tr>
+				
+			<tr><td style="padding-top:8px " colspan="2" align="center"><a style="color:#FFFFFF " class="txtWhite" href="/forum/forum_detail.asp?type=poll&amp;id=100002">view poll »</a></td></tr>
+			
+		</tbody></table>
+	</div>	
+</form>
+<div id="filler">&nbsp;</div>
+				</div>		
+			
+				<div id="wrapper3" style="float:left;">
+					<div>				
+						<div id="TSBannerBackMid" style="vertical-align:middle"> 
+							<div style="padding-top:5px;">
+								<form action="/search/search.asp" method="post" name="frmSearch">
+								<div style="float:right;">
+									<div id="buttonPaddingRight" class="txtBlack60bold" style="float:left;">
+									<a href="javascript:valid_search_form(document.forms['frmSearch'])">SEARCH</a>
+									</div>
+								</div>
+								<div id="paddingtopright" style="float:right;padding-right:3px;">
+								<input type="text" class="textBoxGrey100" name="searchtext" value="enter keyword">
+								
+								</div></form>	
+						
+							<div class="paddingTop5" style="float:right; ">
+								<span class="txtBlack60">SEARCH SITE</span>&nbsp;
+							</div>	
+						</div>
+					</div>
+					
+						<div id="TSBannerOnAir">
+						
+						
+										
+						
+						 	
+							<script type="text/javascript">
+							var pausecontent2=new Array()
+							pausecontent2[0]='<table cellspacing=0 cellpadding=0 border=0><tr><td valign="middle"><img src="/images/layout/onairnow.jpg">&nbsp;&nbsp;&nbsp;</td><td valign="middle">Mike Mendoza</td></tr></table>'
+							pausecontent2[1]='<table cellspacing=0 cellpadding=0 border=0><tr><td valign="middle"><img src="/images/layout/next.jpg">&nbsp;&nbsp;&nbsp;</td><td valign="middle">The Sports Breakfast </td></tr></table>'
+							</script>
+
+							<script type="text/javascript">
+							new pausescroller(pausecontent2, "pscroller2", "txtYellow90BOLD", 6000)
+							</script><div id="pscroller2" class="txtYellow90BOLD" style="position: relative; overflow: hidden"><div class="innerDiv" style="position: absolute; width: 100%; top: 0px;" id="pscroller21"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="middle"><img src="/images/layout/onairnow.jpg">&nbsp;&nbsp;&nbsp;</td><td valign="middle">Mike Mendoza</td></tr></tbody></table></div><div class="innerDiv" style="position: absolute; width: 100%; visibility: visible; top: 25px;" id="pscroller22"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="middle"><img src="/images/layout/next.jpg">&nbsp;&nbsp;&nbsp;</td><td valign="middle">The Sports Breakfast </td></tr></tbody></table></div></div>						
+						
+
+						
+						
+						
+						
+						<!-- on Air now text...--></div>
+					</div>		
+				</div>
+		
+		<!-- start internal content -->
+		
+			<div id="mainContentWrap">
+				<div class="contentRule"></div>
+				<div class="contentTitle">
+					<div style="float:left" id="paddingLeft10">
+						<div class="txtWhiteBold100">PRIVACY &amp; COOKIES POLICY</div>
+					</div>
+				</div>
+				<div style="border-bottom:1px solid #0857C1; height:1px "></div>
+				<table style="padding-left:5px " width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td valign="top" id="paddingTop5">
+							<div style="padding-bottom:15px;padding-top:5px  " class="txtGray75">At talkSPORT, we respect your privacy. Here's our promise (dated February 2006):<br><br>The talkSPORT website (part of talkSPORT Ltd) treats your privacy seriously. In general, we use the personal information that we collect from you to identify personal preferences and match your needs with relevant services and features on our website. NOTE this policy only applies to the talkSPORT website and not to the companies, individuals, organisations or other websites to which there are links. </div>					
+							<div style="padding-bottom:15px "><p class="txtBlue70Bold"> 1. Consent</p><br><p class="txtGray75"> Your use of this website signifies your consent to us collecting and using personal information about you as specified below in accordance with this Policy. Should we choose to change our Policy for any reason, the changes will be posted on this website, so that you are always kept informed of how we collect and use your personal information, and when we may disclose it. </p><br><p class="txtBlue70Bold"> 2. How Do We Collect Information About You and How Is It Used? </p><br><p><span class="txtBlue70Bold">2.1</span> <span class="txtGray75">You may provide personal information by telephone, online registration, e-mail, automatically by your Internet browser, or by post when communicating with us.</span> </p><br><p><span class="txtBlue70Bold">2.2</span> <span class="txtGray75">Our primary reason for collecting data is to personalize your visits to our web site and recommend products or services to you. We may also use the information to help us develop the design and layout of our web site to ensure that our sites are as useful and enjoyable as possible.</span></p><br><p><span class="txtBlue70Bold">2.3</span> <span class="txtGray75">If you enter a competition, send us an email, submit a review or comment we will ask for your name, address, telephone number and e-mail address. </span></p><br><p><span class="txtBlue70Bold">2.4</span><span class="txtGray75">We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic by using cookies (see Para 4). This enables us to monitor accessibility of our service, and helps us to develop and improve our service in response to customer requirements. </span></p><br><p><span class="txtBlue70Bold">2.5</span><span class="txtGray75">It may be that some of the personal information you give us (for instance about your lifestyle or health) is sensitive personal data within the meaning of the Data Protection Act 1998. Any such information will only be disclosed with your express consent.</span></p><br><p><span class="txtBlue70Bold">2.6</span><span class="txtGray75">We may use personal information collected about you to let you know about new products or services, functionality changes to our web site or changes to our terms and conditions of use.</span></p><br><p class="txtBlue70Bold">3. How do we protect your Information? </p><br><p><span class="txtGray75">talkSPORT is serious about guarding the security of your personal details. We have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the Data Protection Act 1998. This means that sometimes we may ask you for proof of identity before disclosing any personal information to you. </span></p><br><p class="txtBlue70Bold">4. Cookies </p><br><p><span class="txtGray75">A cookie is a piece of information, like a tag, that is stored on your computer's hard drive by your web browser when you visit a site. As with may other on line services, talkSPORT uses cookies to gather certain usage information such as how and when pages in our site are visited, and by how many people. You can set your browser to refuse cookies or show when a cookie is being set up without affecting your use of most of the features of the talkSPORT site. </span></p><br><p class="txtBlue70Bold">5. Third Parties </p><br><p class="txtBlue70Bold">THIRD PARTY COMPANIES </p><br><p><span class="txtGray75">Information collected by cookies are used to provide summative statistics about our customers, and other site information to third parties. Cookies do not include any personally identifiable information.</span></p><br><p><span class="txtGray75">We use DoubleClick to serve advertising. DoubleClick use cookies to restrict the amount of popups you get, and ensure that you see a wide range of banner ads. If you would like more information about this practice and to know your choices about not having this information used by this company, please click here. <a href="http://www.doubleclick.net/us/corporate/privacy">http://www.doubleclick.net/us/corporate/privacy</a>. </span></p><br><p>Your audio player (Windows Media Player, Win Amp, etc.) may also have a privacy policy attached to it. We advise you to read it. Some players do report anonymous statistics back to their creators.</p><br><p><span class="txtBlue70Bold">NOTE</span>  <span class="txtGray75">Third party Internet sites that you can link to through talkSPORT.net are not covered by our privacy policy and security policy, so we urge you to be careful when you enter any personal information on line. talkSPORT accepts no responsibility or liability for these sites.</span></p><br><p class="txtBlue70Bold">6. Disclosures </p><br><p><span class="txtGray75">talkSPORT has a responsibility to keep your information confidential and we take all reasonable care to prevent any unauthorised access to your personal data. We do not disclose information that you may give, such as name, address, telephone number or e-mail address to any outside companies. However, talkSPORT reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users.</span></p><br><p class="txtBlue70Bold">7. Contacting Us </p><br><p><span class="txtGray75">If you have any questions or concerns about our use of your personal information please contact us by completing the 'contact us' section of the website.</span></p></div>					
+						</td>
+					</tr>		
+				</tbody></table>
+			</div>
+	
+		<!-- end internal content -->
+
+							</div>
+							<!-- start right column -->
+							<!-- end right column -->
+							<div style="clear:both ">&nbsp;</div>
+						</div>
+						<!-- end main wrapper -->
+						<!-- start footer -->
+						<div id="footer">
+							<center>
+								<table width="760px" cellpadding="0" cellspacing="0">
+								<tbody><tr><td style="border-top:1px solid black;" align="center"><p><a title="About talkSPORT" target="_self" href="/about/about.asp">About talkSPORT</a> | <a title="Advertise With Us" target="_self" href="/advertise/advertise.asp?a=10">Advertise with us</a> | <a title="Jobs" target="_self" href="/jobs/jobs.asp">Jobs</a> <!--| <a title="Press Office" target="_self" href="">Press Office</a> -->| <a title="Contact Us" target="_self" href="/utilities/contact_us.asp">Contact Us</a> | <a title="Terms of Use" target="_self" href="/utilities/terms.asp">Terms of Use</a> | <a title="Privacy" target="_self" href="/utilities/privacy.asp">Privacy &amp; Cookies Policy</a> | © Copyright talkSPORT 2006</p></td></tr>
+								<tr><td align="center"><p>talkSPORT is not responsible for the content of external internet sites</p></td></tr>
+								<tr><td align="center"><br><a href="http://www.utvplc.com/radio.asp?sub=au&amp;sublk=cst&amp;fursublk=ra" target="_new"><img border="0" src="/images/images/utvradio.jpg"></a></td></tr>				
+							</tbody></table>
+							</center>
+						</div>
+						<!-- end footer -->
+					</div>
+					<!-- end main container -->
+        </div>
+      </div>
+			<!--
+			'//skyscaper
+			<div id="layout-column2">
+        <img src="/images/adverts/banner_SS.gif" alt="banner ad thing" /><br />     
+      </div>
+			-->
+    </div>
+
+
+<!------- utarget Ad code ------------->
+<script language="JavaScript">
+var now = new Date();
+var nIndex = now.getTime();
+document.write('<s' + 'cript src="http://www.utarget.co.uk/scriptinject.aspx?h=486&nocache=' + nIndex + '">');
+document.write('</' + 's' + 'cript>');
+</script><script src="http://www.utarget.co.uk/scriptinject.aspx?h=486&amp;nocache=1580440455578"></script>
+<!--------- utarget Ad code Ends --------------->
+
+
+</body></html>
