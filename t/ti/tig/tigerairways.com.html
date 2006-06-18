@@ -1,0 +1,1801 @@
+<!--The following is the downloaded HTML source of the tigerairways.com privacy policy that was archived on 2006-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060618191130id_/http%3A//tigerairways.com/home/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="en">
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="imagetoolbar" content="false">
+	<meta http-equiv="distribution" content="global">
+ 	<meta http-equiv="resource-type" content="document">
+
+	<meta name="ROBOTS" content="index, follow">
+
+
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+
+	<title>Tiger Airways - Privacy</title>
+
+	<style type="text/css" media="all">
+		@import "../css/bookmag.css";
+		@import "../css/tiger.css";
+	</style>
+
+	<script src="../js/rollover.js" type="text/javascript"></script>
+	<script src="../js/utilities.js" type="text/javascript"></script>
+
+
+</head>
+
+<body>
+
+
+<div id="page">
+
+	<div id="content">
+
+
+<script language="JavaScript">
+
+var newwindow;
+
+function infowindow(url)
+{
+	newwindow=window.open(url,'name','height=450,width=500');
+	if(window.focus){newwindow.focus()}
+}
+
+function jumpto(formObj){
+
+	theValue = formObj.options[formObj.selectedIndex].value;
+	firstChar = theValue.charAt(0);
+
+	if (firstChar == "/") {
+		fullURL = "http://www.tigerairways.com/home/";
+		//alert("You will be redirected to >> " + fullURL);
+		window.location=fullURL;
+	} else {
+		formObj.options[formObj.selectedIndex].selected = true;
+		theValue = "../home/lang" + theValue + ".php";
+		//alert("You will be redirected to >> " + theValue);
+		window.location=theValue;
+	}
+}
+
+</script>
+
+		<div id="masthead">
+
+			<div id="logo">
+				<a href="/home"><img src="../img/common/logo.gif" width="175" height="70" border="0" alt="Tiger Airways"></a><img src="../img/common/spacer_80.gif" width="80" height="72" border="0"><a href="javascript:infowindow('/home/bt.php');"><img src="../img/common/bt_info_logo.gif" width="190" height="72" border="0" alt="We're moving to Budget Terminal!"></a>
+			</div>
+			
+			<div id="lang"><form id="langselect" action=""><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><img src="../img/common/anim-langsel.gif" alt="Choose language" width="110" height="25"></td><td>
+      <select onchange="jumpto(this);">
+	     <option value="/sg" selected="selected">English</option>
+	     <option value="-cn">中文（简体）</option>
+	     <option value="-id">Bahasa Indonesia</option>
+	     <option value="-th">ไทย</option>
+       <option value="-vn">Tiếng Việt</option>
+	     <option value="-ph">Filipino</option>
+      </select></td></tr></tbody></table></form></div>
+      <br clear="all">
+		
+    </div>
+		<div id="menu">
+			<div id="MenuPos" style="position:relative; width: 749px; height:23px;"><img src="../img/nav/navmap.gif" width="749" height="23"></div>
+			<div id="textMenu">
+			</div>
+		</div>
+
+
+
+<div id="omnibar">
+			<div id="tabbers">
+				<img class="imgOvered" src="../img/bookmag/tab-flight-on.gif" width="100" border="0" height="19" alt="Find a flight"><a href="http://www.octopustravel-asia.com/rs/tiger/index.htm"><img class="imgOver" src="../img/bookmag/tab-hotel-off.gif" width="100" border="0" height="19" alt="Find hotels" hsrc="../img/bookmag/tab-hotel-off_o.gif"></a><a href="../promotions/hertz.php"><img class="imgOver" src="../img/bookmag/tab-car-off.gif" width="100" border="0" height="19" alt="Car Rentals" hsrc="../img/bookmag/tab-car-off_o.gif"></a><br>
+			</div>
+			<div id="container">
+				<div id="bookmagContainer">
+				<img src="../img/bookmag/spc.gif" width="1" height="14" alt=""><br>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+//////////////////////////////////////////////////////////////////////////////
+//    Copyright� 2000 - 2005 Navitaire Inc.  All rights reserved.           //
+//                                                                          //
+//    This source code is protected by copyright law and international      //
+//    treaties.  Unauthorized reproduction, distribution or alteration      //
+//    of this source code, or any portion of it, may result in severe       //
+//    civil and criminal penalties and will be prosecuted to the maximum    //
+//    extent possible under the law.                                        //
+//                                                                          //
+//  Skylights 7.2a-AK                                    www.navitaire.com  //
+//////////////////////////////////////////////////////////////////////////////
+-->
+
+
+
+<script type="text/javascript">
+<!--
+var oDay;
+var oMonth;
+var oYear;
+var rDay;
+var rMonth;
+var rYear;
+var sector1_o				= '';
+var sector1_d				= '';
+var sector2_o				= '';
+var sector2_d				= '';
+var swap_icon_ok			= true;
+var calendarWindow			= null;
+var sector_2_month_index 	= 1;
+var sector_2_day_index  	= 1;
+var sector_2_range_index  	= 0;
+
+	var sector_2_org_prev		= -1;
+	var sector_2_des_prev		= -1;
+	var sector_2_m_prev			= 1;
+	var sector_2_d_prev			= 1;
+	var sector_2_r_prev			= sector_2_range_index;
+
+
+var Dests = new Array ('BKK','CNX','DAD','DRW','CAN','HAK','HAN','HDY','SGN','KBV','MFM','CRK','PDG','HKT','SZX','SIN',0);
+var sBKK = 'Bangkok Intl';
+var sCNX = 'Chiang Mai';
+var sDAD = 'Danang';
+var sDRW = 'Darwin';
+var sCAN = 'Guangzhou';
+var sHAK = 'Haikou';
+var sHAN = 'Hanoi';
+var sHDY = 'Hat Yai';
+var sSGN = 'Ho Chi Minh City';
+var sKBV = 'Krabi';
+var sMFM = 'Macau';
+var sCRK = 'Manila (Clark)';
+var sPDG = 'Padang';
+var sHKT = 'Phuket';
+var sSZX = 'Shenzhen';
+var sSIN = 'Singapore';
+
+	var aBKK	= new Array('SIN',	0);
+	var aCNX	= new Array('SIN',	0);
+	var aDAD	= new Array('SIN',	0);
+	var aDRW	= new Array('SIN',	0);
+	var aCAN	= new Array('SIN',	0);
+	var aHAK	= new Array('SIN',	0);
+	var aHAN	= new Array('SIN',	0);
+	var aHDY	= new Array('SIN',	0);
+	var aSGN	= new Array('SIN',	0);
+	var aKBV	= new Array('SIN',	0);
+	var aMFM	= new Array('CRK','SIN',	0);
+	var aCRK	= new Array('MFM','SIN',	0);
+	var aPDG	= new Array('SIN',	0);
+	var aHKT	= new Array('SIN',	0);
+	var aSZX	= new Array('SIN',	0);
+	var aSIN	= new Array('BKK','CNX','DAD','DRW','CAN','HAK','HAN','HDY','SGN','KBV','MFM','CRK','PDG','HKT','SZX',	0);
+
+function checkChildren()
+{
+	var adults	= 0;
+  	var adults_select = document.search_form.ADULT;
+  	adults = adults_select.options[adults_select.selectedIndex].value;
+
+  	var children	= 0;
+  	var children_select = document.search_form.CHILD;
+  	if ( children_select )
+		{
+		children = children_select.options[children_select.selectedIndex].value;
+		}
+
+		if ( (adults  / children) < 1 )
+		{
+		alert("\nFor this promotion, each child must be accompanied by one adult.\n");
+		document.search_form.CHILD.options.value = adults_select.options[adults_select.selectedIndex].value;
+		return false;
+		}
+ 	return true;
+}
+
+function init()
+{
+	var origBox		= document.search_form.sector1_o;
+	var destBox		= document.search_form.sector1_d;
+	var origIndex	= origBox.selectedIndex;
+	var destIndex	= destBox.selectedIndex;
+	if ( document.dest1Form.dIndex.value != "zz" )
+	{
+		destIndex	= document.dest1Form.dIndex.value;
+	}
+	else
+	{
+		document.dest1Form.dIndex.value = destIndex;
+	}
+
+	change_sector_2_fields( '', true );
+	if (document.search_form.travel_type[1].checked)
+	{
+		swap_icon('calendar_2', 'frozen'); swap_icon_ok	= false;
+	}
+	 defaultStatus	= 'Tiger Airways Online Booking';
+	changeOrigDestList(origBox, destBox, 'To', true, 1, '', '' );
+
+}
+
+
+
+function changeOrigDestList(origBox, destBox, labelDest, fromOnload, whichSector, labelOpenJaw, preferredDest)
+{
+	if (!document.images)
+	{
+		return;
+	}
+
+	var origIndex	= eval(origBox.selectedIndex);
+	var destIndex;
+	var initDest	= 0;
+	if ( whichSector == 1 ) {
+		destIndex	= document.dest1Form.dIndex.value;
+	}
+	else
+	{
+		destIndex	= eval(destBox.selectedIndex);
+		initDest	= document.dest2Form.dIndex.value;
+	}
+	var orig     	= origBox.options[ origIndex ].value;
+	var dest     	= destBox.options[ destIndex ].value;
+
+  if ( orig == "aCAN" || orig == "aHAK" || orig == "aSZX" )
+	{
+  alert("\nPlease note that all fares are quoted in Singapore Dollars (SGD).\n\n注: 票价以新币来计算。\n\n(If you cannot see the text above, please set your browser encoding to UTF-8)\n");
+	}	
+	
+	if (orig != "XXX")
+	{
+		orig						= eval(orig);
+		destBox.length				= 1;
+		var newDest					= new Option(labelDest);
+		destBox.options[0]			= newDest;
+		destBox.options[0].value	= "XXX";
+
+
+		for (var i = 0; i < orig.length - 1; i++)
+		{
+			if ( orig[i] != "" )
+			{
+				destBox.length += 1;
+					destBox.options[destBox.length - 1]
+						= new Option( eval('s' + orig[i]) + " (" + orig[i] + ")" );					destBox.options[destBox.length - 1].value = orig[i];
+
+					if ( dest == destBox.options[destBox.length - 1].value )
+					{
+						initDest = destBox.length - 1
+					}
+			}
+		}
+
+		if (fromOnload == true)
+		{
+			origBox.selectedIndex = origIndex;
+			destBox.selectedIndex = destIndex;
+			if (whichSector == 1)
+			{
+				document.dest1Form.dIndex.value = destIndex;
+			}
+		}
+		else
+		{
+				destBox.selectedIndex	= ( initDest > destBox.options.length - 1)
+									? destBox.options.length - 1 : initDest;
+			if (whichSector == 1)
+			{
+				document.dest1Form.dIndex.value = initDest;
+			}
+			else
+			{
+				document.dest2Form.dIndex.value = initDest;
+			}
+		}
+	}
+	else
+	{
+		refillDestList( destBox, labelDest, labelOpenJaw);
+	}
+
+
+}	
+
+
+
+function refillDestList(destBox, labelDest, unusedOption)
+{
+	var destValue				= destBox.options[ destBox.selectedIndex ].value;
+	destBox.length				= 1;
+	destBox.options[0]			= new Option(labelDest);
+	destBox.options[0].value	= "XXX";
+	var i						= 1;
+	var selIndex				= 0;
+
+	if ( unusedOption )
+	{
+		destBox.length				+= 1;
+		var newOption				= new Option( unusedOption );
+		destBox.options[i]			= newOption;
+		destBox.options[i].value	= "XXX";
+		i++;
+	}
+
+	for(var j = 0; j < (Dests.length - 1); j++)
+	{
+		destBox.length += 1;
+			var newOption = new Option(eval('s' + Dests[j]) + " (" + Dests[j] + ")");		destBox.options[i + j]		= newOption;
+		destBox.options[i + j].value	= Dests[j];
+		if(destValue == Dests[j])
+		{
+			selIndex				= i + j;
+		}
+   	}
+
+	destBox.selectedIndex = selIndex
+
+}	
+
+
+
+function defaultOpenJawRoute(origBox, destBox, origBox2, destBox2, ojaw_flag){
+
+	if (! document.images)
+	{
+		return;
+	}
+
+
+	var origIndex	= eval(origBox.selectedIndex);
+	var destIndex	= eval(destBox.selectedIndex);
+	var orig     	= origBox.options[ origIndex ].value;
+	var dest     	= destBox.options[ destIndex ].value;
+	var userFirst	= ojaw_flag.value;
+
+
+	if (document.search_form.travel_type[0].checked == true)
+	{
+		if (userFirst == "true")
+		{
+
+			if ((origIndex != 0) && (destIndex != 0))
+			{
+				for (var i = 0; i <= origBox2.length-1; i++)
+				{
+					if (origBox2.options[ i ].value  == 'a' + dest)
+					{
+						origBox2.selectedIndex = i;
+					}
+				}
+				changeOrigDestList(origBox2, destBox2, 'To', false, 2, '------------');
+				for (var i = 0; i <= destBox2.length-1; i++)
+				{
+					if ('a' + destBox2.options[ i ].value  ==  orig)
+					{
+						destBox2.selectedIndex = i;
+						document.dest2Form.dIndex.value = i;
+					}
+				}
+			   ojaw_flag.value = "false";
+			}
+		}
+
+	}
+	else
+	{
+		ojaw_flag.value = "true"
+
+	}
+
+}	
+
+
+
+function setPassengerTypes()
+{	var paxTypes = "";
+
+			var paxTypeSelect = document.search_form.ADULT;
+			var paxTypeADULTNum
+				= paxTypeSelect.options[paxTypeSelect.selectedIndex].value;
+			var paxTypeADULTCode	= "ADULT";
+			paxTypes = paxTypes + paxTypeADULTNum
+						+ paxTypeADULTCode;
+			
+			var paxTypeSelect = document.search_form.CHILD;
+			var paxTypeCHILDNum
+				= paxTypeSelect.options[paxTypeSelect.selectedIndex].value;
+			var paxTypeCHILDCode	= "CHILD";
+			paxTypes = paxTypes + paxTypeCHILDNum
+						+ paxTypeCHILDCode;
+				document.search_form.pT.value = paxTypes;
+
+}	
+
+
+
+function submit_SB_Form()
+{
+	captureDates();
+
+	if( window.calendarWindow )
+	{
+		window.calendarWindow.close();
+	}
+
+	sector1_o	= document.search_form.sector1_o.options[document.search_form.sector1_o.selectedIndex].value;
+	sector1_d	= document.search_form.sector1_d.options[document.search_form.sector1_d.selectedIndex].value;
+	if ( sector1_o.length > 3 )
+	{
+		sector1_o	= sector1_o.substring(1,4);
+	}
+
+	if ( rDay != 0 && rMonth != 0 && rYear != 0 )
+	{
+		sector2_o = sector1_d;
+		sector2_d = sector1_o;
+	}
+	else
+	{
+		sector2_o = "XXX";
+		sector2_d = "XXX";
+	}
+
+	if (checkCities() && checkDate() && checkPassenger() && enforceMaxPax() && finalDate() )
+	{
+		document.search_form.m1.value		= "" + oYear + oMonth + oDay + sector1_o + sector1_d;
+
+		if( (sector2_o == "XXX") || (sector2_d == "XXX") )
+		{
+			document.search_form.m2.value	= "";
+			document.search_form.nom.value	= "1";
+		}
+		else
+		{
+			document.search_form.m2.value	= "" + rYear + rMonth + rDay + sector2_o + sector2_d;
+			document.search_form.nom.value	= "2";
+		}
+
+		setPassengerTypes();
+
+		var s1r	= document.search_form.sector_1_range;
+		if (s1r && s1r.options.length > 0)
+		{
+			document.search_form.m1DP.value = ( s1r.options[s1r.selectedIndex].value.substring(0,2) );
+			document.search_form.m1DO.value = ( s1r.options[s1r.selectedIndex].value.substring(2,4) );
+		}
+
+		var s2r	= document.search_form.sector_2_range;
+		if (s2r && s2r.options.length > 0)
+		{
+			document.search_form.m2DP.value = ( s2r.options[s2r.selectedIndex].value.substring(0,2) );
+			document.search_form.m2DO.value = ( s2r.options[s2r.selectedIndex].value.substring(2,4) );
+		}
+
+		document.dest1Form.dIndex.value	= document.search_form.sector1_d.selectedIndex;
+		document.search_form.submit();
+	}
+}
+
+
+
+function captureDates()
+{
+	oDay 	= document.search_form.sector_1_d.options[document.search_form.sector_1_d.selectedIndex].value
+	oMonth	= document.search_form.sector_1_m.options[document.search_form.sector_1_m.selectedIndex].value.substring(0,2)
+	oYear	= document.search_form.sector_1_m.options[document.search_form.sector_1_m.selectedIndex].value.substring(2,6)
+	rDay	= document.search_form.sector_2_d.options[document.search_form.sector_2_d.selectedIndex].value
+	rMonth	= document.search_form.sector_2_m.options[document.search_form.sector_2_m.selectedIndex].value.substring(0,2)
+	rYear	= document.search_form.sector_2_m.options[document.search_form.sector_2_m.selectedIndex].value.substring(2,6)
+}
+
+
+
+function change_sector_2_fields( whichDot, fromOnload )
+{
+	var roundtrip;
+
+	
+	if (whichDot == 0)
+	{
+		roundtrip = true
+	}
+	else if ( !whichDot && document.search_form.travel_type[0].checked == true )
+	{
+		roundtrip = true
+	}
+	else
+	{
+		roundtrip = false
+	}
+
+	if (roundtrip == true)
+	{
+		if (fromOnload != true)
+		{
+
+			var temp_m = document.search_form.sector_1_m.selectedIndex + 1;
+			var temp_d = document.search_form.sector_1_d.selectedIndex + 1;
+			if ( ( sector_2_month_index < temp_m ) ||
+				 (( sector_2_month_index == temp_m) &&
+				 ( sector_2_day_index < temp_d)))
+			{
+				document.search_form.sector_2_m.selectedIndex = temp_m;
+				document.search_form.sector_2_d.selectedIndex = temp_d;
+			}
+			else
+			{
+				document.search_form.sector_2_m.selectedIndex = sector_2_month_index;
+				document.search_form.sector_2_d.selectedIndex = sector_2_day_index;
+			}
+		}
+
+		swap_icon_ok = true;
+
+		if (document.images.calendar_2) {
+			swap_icon('calendar_2', 'cold');
+		}
+	}
+	else
+	{
+		
+		sector_2_month_index = document.search_form.sector_2_m.selectedIndex;
+		if (sector_2_month_index == 0)
+		{
+			sector_2_month_index = 1;
+		}
+
+		sector_2_day_index  = document.search_form.sector_2_d.selectedIndex;
+		if (sector_2_day_index == 0)
+		{
+			sector_2_day_index = 1;
+		}
+
+		document.search_form.sector_2_m.selectedIndex = 0;
+		document.search_form.sector_2_d.selectedIndex = 0;
+
+		if (document.images.calendar_2) {
+			swap_icon('calendar_2', 'frozen');
+		}
+
+		swap_icon_ok = false;
+	}
+}
+
+
+
+
+function doYouWantRoundTrip( origBox, destBox )
+{
+	var origIndex	= eval(origBox.selectedIndex)
+	var destIndex	= eval(destBox.selectedIndex)
+
+	if (origBox.selectedIndex != 1)
+	{
+		sector_2_org_prev = origBox.selectedIndex;
+	}
+	if (destBox.selectedIndex != 1)
+	{
+		sector_2_des_prev = destBox.selectedIndex;
+	}
+
+	if ( document.search_form.travel_type[1].checked && origIndex != 1
+		&& destIndex != 1 )
+	{
+		if (confirm("\nOh! Did you want to fly Round Trip?\n"))
+		{
+			document.search_form.travel_type[0].checked = true;
+			document.search_form.travel_type[1].checked = false;
+			change_sector_2_fields( 0, false )
+		}
+		else
+		{
+			document.search_form.travel_type[0].checked = false;
+			document.search_form.travel_type[1].checked = true;
+			change_sector_2_fields( 1, false )
+		}
+	}
+	else if ( document.search_form.travel_type[0].checked && origIndex == 1
+		&& destIndex == 1 )
+	{
+		if (confirm("\nNo return date or flight? Okay. Should we switch\nyour settings to \'One Way\', then?\n"))
+		{
+			document.search_form.travel_type[0].checked = false;
+			document.search_form.travel_type[1].checked = true;
+			change_sector_2_fields( 1, false )
+		}
+		else
+		{
+			if (sector_2_org_prev == -1)
+			{
+				for (i = 0; i<origBox.length; i++)
+				{
+					if (origBox.options[i].value == sector2_o)
+					{
+						sector_2_org_prev = i;
+					}
+				}
+			}
+			if (origBox.selectedIndex == 1)
+			{
+				origBox.selectedIndex = sector_2_org_prev;
+			}
+
+			changeOrigDestList(origBox, destBox, 'To', false, 2, '------------', '');
+
+			if (sector_2_des_prev == -1)
+			{
+				for (i = 0; i < destBox.length; i++)
+				{
+					if (destBox.options[i].value == sector2_d)
+					{
+						sector_2_des_prev = i;
+					}
+				}
+			}
+			destBox.selectedIndex = sector_2_des_prev;
+		}
+	}
+} 
+
+
+
+
+function enforceMaxPax()
+{
+		var paxTotal = 0;
+				var paxSelect	= document.search_form.ADULT;
+				paxTotal		= eval(paxTotal)
+					+ eval(paxSelect.options[paxSelect.selectedIndex].value);
+					
+				var paxSelect	= document.search_form.CHILD;
+				paxTotal		= eval(paxTotal)
+					+ eval(paxSelect.options[paxSelect.selectedIndex].value);
+					
+		if (paxTotal > 9)
+		{
+			alert("\nYou are allowed a maximum of " +9 + " passengers\nper booking online. If your party is larger\nthan this, please contact our call center.\n");
+			return false;
+		}
+		else
+		{
+			return true;
+		}}
+
+
+
+function correctDay(dayToSelect,mkt,monthText)
+{
+	var i		= 27;
+	var okay 	= true;
+
+	if (mkt == 1)
+	{
+		while (eval(document.search_form.sector_1_d.options[i].value) != dayToSelect)
+		{
+			i++;
+		}
+		alert("\nYour departure date is invalid.\n" + monthText + " has only " + dayToSelect + " days.")
+		document.search_form.sector_1_d.options.selectedIndex = i
+		okay = false;
+		captureDates();
+	}
+	else if (mkt == 2)
+	{
+		while (eval(document.search_form.sector_2_d.options[i].value) != dayToSelect)
+		{
+			i++;
+		}
+		alert("\nYour return date is invalid.\n" + monthText + " has only " + dayToSelect + " days.")
+		document.search_form.sector_2_d.options.selectedIndex = i;
+		captureDates();
+		okay = false;
+	}
+
+	return okay;
+}
+
+
+
+
+
+
+function finalDate()
+{
+	var okay	= true;
+
+	return okay;
+}
+
+
+
+function checkDate()
+{
+	var okay = true;
+	var oMonthYear= '' + oYear + oMonth;
+	var rMonthYear= '' + rYear + rMonth;
+
+	if ( ! checkCalendarDate("1",oDay,oMonth,oYear) )
+	{
+		okay = false;
+	}
+	if ( ! checkCalendarDate("2",rDay,rMonth,rYear) )
+	{
+		okay = false;
+	}
+	if ( oDay < 19 && oMonthYear <=200606 )
+	{
+		alert("\nThe date you selected has already passed.\n\nClick OK to reset your date selection.\n");
+		document.search_form.sector_1_d.options.selectedIndex =18;
+		captureDates();
+		okay = false;
+	}
+
+
+
+	if ( ( rDay < oDay && rMonthYear <= oMonthYear ) || rMonthYear < oMonthYear )
+	{
+		if ( rDay != 0 && rMonth != 0 )
+		{
+			alert("\nPlease make sure that your return date\nis not earlier than your outbound date.\n\nClick OK to reset your return date.\n")
+			document.search_form.sector_2_d.options.selectedIndex
+				= eval(document.search_form.sector_1_d.options.selectedIndex) + 1;
+			document.search_form.sector_2_m.options.selectedIndex
+				= eval(document.search_form.sector_1_m.options.selectedIndex) + 1;
+			captureDates();
+			okay = false;
+		}
+	}
+	else if ( ( sector2_o == 'XXX' || sector2_d == 'XXX' )
+		&& ( rMonth != 0 || rDay != 0 ) )
+	{
+		alert("\nYou have entered a round trip return date, but you have\nnot entered a complete city pair for the return flight.\nPlease choose both cities.\n");
+		okay = false;
+	}
+	
+			
+	
+	if (document.search_form.mode.value != "UOBFREE") {
+	
+	document.search_form.mode.value = "";
+	
+		if (document.search_form.travel_type[1].checked)
+		{
+			if ( (oDay >= 1  && oMonthYear >= 200608) && (oDay <= 28  && oMonthYear <= 200610) )
+			{
+				document.search_form.mode.value = "DISC_40OFF";
+			}
+		}
+		else
+		{
+			if ( ( (oDay >= 1  && oMonthYear >= 200608) && (oDay <= 28  && oMonthYear <= 200610) ) && ( (rDay >= 1  && rMonthYear >= 200608) && (rDay <= 28  && rMonthYear <= 200610) ) )
+			{
+				document.search_form.mode.value = "DISC_40OFF";
+			}
+		}
+		
+	}
+	
+	return okay;
+	
+}	
+
+
+
+function checkCalendarDate(mkt,day,month,year)
+{
+	var okay = true;
+	var isLeapYear = ( year % 4 == 0 && ( year % 100 != 0 || year % 400 == 0 ) )
+		? true : false;
+
+	if ( month == 2 && day > 29 && isLeapYear )
+	{
+		okay = correctDay(29,mkt,"This year, February")
+	}
+	else if ( month == 2 && day > 28 && !isLeapYear)
+	{
+		okay = correctDay(28,mkt,"This year, February")
+	}
+	else if ( month == 4 && day > 30 )
+	{
+		okay = correctDay(30,mkt,"April")
+	}
+	else if ( month == 6 && day > 30 )
+	{
+		okay = correctDay(30,mkt,"June")
+	}
+	else if ( month == 9 && day > 30 )
+	{
+		okay = correctDay(30,mkt,"September")
+	}
+	else if ( month == 11 && day > 30 )
+	{
+		okay = correctDay(30,mkt,"November")
+	}
+
+	return okay;
+}
+
+
+
+function checkCities()
+{
+	
+
+	if (sector1_o == 'XXX')
+	{
+		alert ("\nPlease select the city you will be departing from.\n");
+		okay = false;
+	}
+	else if (sector1_d == 'XXX')
+	{
+		alert ("\nPlease choose your destination.\n");
+		okay = false;
+	}
+	else if ( ( sector2_o == 'XXX' && sector2_d != 'XXX' )
+		|| ( sector2_o != 'XXX' && sector2_d == 'XXX' ) )
+	{
+		alert ("\nYour returning city pair is incomplete. Please\nchoose two cities or clear the selected one.\n");
+		okay = false;
+
+	}
+
+	else
+	{
+		okay = true;
+	}
+
+	return okay;
+
+}  
+
+
+
+function checkPassenger()
+{
+	var totalPax		= 0;
+	var adults			= 0;
+			var paxTypeSelect = document.search_form.ADULT;
+			totalPax += paxTypeSelect.options[paxTypeSelect.selectedIndex].value;adults = paxTypeSelect.options[paxTypeSelect.selectedIndex].value
+			
+			var paxTypeSelect = document.search_form.CHILD;
+			totalPax += paxTypeSelect.options[paxTypeSelect.selectedIndex].value;
+			
+	if ( totalPax <= 0 )
+	{
+		alert("\nYou must enter at least one passenger.\n");
+		return false;
+	}
+
+	var infants			= 0;
+	var infant_select	= document.search_form.INFANT;
+
+	if ( infant_select )
+	{
+		infants			= infant_select.options[infant_select.selectedIndex].value;
+	}
+
+	if ( (adults  / infants) < 1 )
+	{
+		alert("\nEach infant must be accompanied by one adult.\n");
+		return false;
+	}
+
+	return true;
+}
+
+
+
+function askAboutRoundTrip( returnOptionField, fromOpenJaw )
+{
+
+	var returnOptionFieldIndex = returnOptionField.options.selectedIndex
+
+	if (document.search_form.sector_2_d.selectedIndex != 0)
+	{
+		sector_2_d_prev = document.search_form.sector_2_d.selectedIndex;
+	}
+	if (document.search_form.sector_2_m.selectedIndex != 0)
+	{
+		sector_2_m_prev = document.search_form.sector_2_m.selectedIndex;
+	}
+
+	if (document.search_form.travel_type[1].checked)
+	{
+		if (confirm("\nOh! Did you want to fly Round Trip?\n"))
+		{
+			document.search_form.travel_type[0].checked = true;		
+			document.search_form.travel_type[1].checked = false;	
+			change_sector_2_fields( 0, false );
+			returnOptionField.selectedIndex = returnOptionFieldIndex;
+		}
+		else
+		{
+			document.search_form.travel_type[0].checked = false;	
+			document.search_form.travel_type[1].checked = true;		
+			returnOptionField.selectedIndex = 0;
+		}
+	}
+
+	
+
+	else if ( document.search_form.travel_type[0].checked
+		&& returnOptionField.selectedIndex == 0 )
+	{
+		if (confirm("\nNo return date or flight? Okay. Should we switch\nyour settings to \'One Way\', then?\n"))
+		{
+			document.search_form.travel_type[0].checked = false;	
+			document.search_form.travel_type[1].checked = true;		
+			change_sector_2_fields( 1, false );
+		}
+		else
+		{
+			if (document.search_form.sector_2_d.selectedIndex == 0)
+			{
+				document.search_form.sector_2_d.selectedIndex = sector_2_d_prev;
+			}
+			if (document.search_form.sector_2_m.selectedIndex == 0)
+			{
+				document.search_form.sector_2_m.selectedIndex = sector_2_m_prev;
+			}
+		}
+	}
+}	
+
+
+
+function reconcile_dates()
+{
+	captureDates();
+	if ( rDay != 0 )
+	{
+		if ( ( rMonth < oMonth && rYear == oYear ) || rYear < oYear )
+		{
+			document.search_form.sector_2_m.options.selectedIndex
+				= document.search_form.sector_1_m.options.selectedIndex + 1;
+			document.search_form.sector_2_d.options.selectedIndex
+				= document.search_form.sector_1_d.options.selectedIndex + 1;
+		}
+		else if ( rDay < oDay && rMonth == oMonth && rYear == oYear )
+		{
+			document.search_form.sector_2_d.options.selectedIndex
+				= document.search_form.sector_1_d.options.selectedIndex + 1;
+		}
+	}
+}
+	function open_calendar(sector)
+	{
+		if ( document.search_form.travel_type[0].checked || sector == 1 )
+		{
+			if ( window.calendarWindow && ! calendarWindow.closed )
+			{
+				calendarWindow.focus();
+			}
+			else
+			{
+				calendarWindow 	= window.open("http://127.0.0.1:80/skylights/cgi-bin/skylights.cgi?module=SB&page=CALENDAR&language=EN&mode=&sid=&form_name=search_form","calendar","width=250,height=251,toolbar=0,status=0,location=0,menubar=0,scrollbars=0,resizable=0");
+				document.calForm.month_selected.value
+					= document.search_form['sector_' + sector + '_m'].selectedIndex - sector + 1;
+				document.calForm.sector.value 	= sector;
+			}
+		}
+	}
+
+if (document.images)
+{
+		calendar_1_icon_cold		= new Image();
+		calendar_1_icon_cold.src 	= '../img/bookmag/b-cal-c-up.gif';
+		calendar_1_icon_warm		= new Image();
+		calendar_1_icon_warm.src	= '../img/bookmag/b-cal-c-dn.gif';
+		calendar_1_icon_hot			= new Image();
+		calendar_1_icon_hot.src		= '../img/bookmag/b-cal-c-dn.gif';
+		calendar_1_icon_frozen		= new Image();
+		calendar_1_icon_frozen.src	= '../img/bookmag/b-cal-c-xx.gif';
+		calendar_2_icon_cold		= new Image();
+		calendar_2_icon_cold.src 	= '../img/bookmag/b-cal-c-up.gif';
+		calendar_2_icon_warm		= new Image();
+		calendar_2_icon_warm.src	= '../img/bookmag/b-cal-c-dn.gif';
+		calendar_2_icon_hot			= new Image();
+		calendar_2_icon_hot.src		= '../img/bookmag/b-cal-c-dn.gif';
+		calendar_2_icon_frozen		= new Image();
+		calendar_2_icon_frozen.src	= '../img/bookmag/b-cal-c-xx.gif';
+}
+
+
+
+function swap_icon(icon_name, icon_state)
+{
+	if (document.images)
+	{
+		if ( icon_name == 'calendar_1' || swap_icon_ok )
+		{
+			icon = eval(icon_name + "_icon_" + icon_state + ".src");
+			if (icon)
+			{
+				document.images[icon_name].src = icon;
+			}
+		}
+	}
+}
+
+-->
+</script>
+
+			<!--
+			<STYLE TYPE='text/css'>
+				td 		{ font-family:verdana, Arial, Helvetica, sans-serif; font-size:8pt; }
+				.SBform { width:200; font-family:verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal; color: #000000; }
+				.SBrange{ width:165; font-family:verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal; color: #000000; }
+				.SBday	{ width:40px; font-family:verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal; color: #000000; }
+				.SBmonth{ width:120px; font-family:verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal; color: #000000; }
+				.SBpax 	{ width:100px; font-family:verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal; color: #000000; }
+				body	{ font-family: Arial, Helvetica; color: black; font-size : 12px; }
+			</STYLE>
+			-->
+
+			<script language="JavaScript">
+			<!-- HIDE
+		        function image_swap(icon_name, icon_state)
+		        {
+		            if (document.images)
+		            {
+		                myImage = eval(icon_name + "_" + icon_state + ".src");
+		                document.images[icon_name].src = myImage;
+		            }
+		        }
+
+				if (document.images)
+				{
+					b_search_dn         = new Image();
+					b_search_dn.src     = '../img/bookmag/get-flights-over.gif';
+					b_search_up         = new Image();
+					b_search_up.src     = '../img/bookmag/get-flights-on.gif';
+				}
+			//STOP HIDING -->
+			</script>
+		
+
+
+
+
+<script type="text/javascript">
+<!--
+	//init() to be called from a central onload trigger in 'utilities.js'
+	//window.onload = init;
+-->
+</script>
+
+	<!--- Change this to 10.223.8.225 for internal testing - Mark. --->
+	<form name="search_form" method="post" action="http://booking.tigerairways.com/skylights/cgi-bin/skylights.cgi" class="f_compact" target="_top">
+
+	<table border="0" cellpadding="0" cellspacing="0" width="560">
+	
+	<tbody><tr valign="top">
+
+	<td class="SBcol0" width="4%"><img src="../img/bookmag/spc.gif" width="8" height="1" alt=""><br><img src="../img/bookmag/spc.gif" width="1" height="111" alt=""><br></td>
+
+	<td class="SBcol1" width="30%">
+
+		<table border="0" cellpadding="0" cellspacing="0" id="f_t1">
+			<tbody><tr valign="middle">
+				<td class="f_radio" align="left">
+					<input type="radio" name="travel_type" onclick="change_sector_2_fields( 0, false );" checked="checked" class="f_radio">
+				</td>
+				<td class="f_text">	
+Round Trip
+				</td>
+				<td class="f_text">	
+					<img src="../img/bookmag/spc.gif" width="6" height="1" alt=""><br>
+				</td>
+				<td class="f_radio">
+					<input type="radio" name="travel_type" onclick="change_sector_2_fields( 1, false )" class="f_radio">
+				</td>
+				<td class="f_text">
+One Way
+				</td>
+			</tr>
+		</tbody></table>
+
+	<img src="../img/bookmag/spc.gif" width="1" height="10" alt=""><br>
+
+		<table border="0" cellpadding="0" cellspacing="0" id="f_t2">
+			<tbody><tr>
+				<td>
+
+					<select name="sector1_o" size="1" onchange="changeOrigDestList(document.search_form.sector1_o, document.search_form.sector1_d, 'To', false, 1);" class="SBform" width="195">
+<option value="XXX" selected="selected">From</option>
+
+			<option value="aBKK">Bangkok Intl (BKK)</option>
+			<option value="aCNX">Chiang Mai (CNX)</option>
+			<option value="aDAD">Danang (DAD)</option>
+			<option value="aDRW">Darwin (DRW)</option>
+			<option value="aCAN">Guangzhou (CAN)</option>
+			<option value="aHAK">Haikou (HAK)</option>
+			<option value="aHAN">Hanoi (HAN)</option>
+			<option value="aHDY">Hat Yai (HDY)</option>
+			<option value="aSGN">Ho Chi Minh City (SGN)</option>
+			<option value="aKBV">Krabi (KBV)</option>
+			<option value="aMFM">Macau (MFM)</option>
+			<option value="aCRK">Manila (Clark) (CRK)</option>
+			<option value="aPDG">Padang (PDG)</option>
+			<option value="aHKT">Phuket (HKT)</option>
+			<option value="aSZX">Shenzhen (SZX)</option>
+			<option value="aSIN">Singapore (SIN)</option>
+					</select>
+	
+				</td>
+			</tr>
+		</tbody></table>
+
+	<img src="../img/bookmag/spc.gif" width="1" height="20" alt=""><br>
+
+		<table border="0" cellpadding="0" cellspacing="0" id="f_t3">
+			<tbody><tr>
+				<td>
+
+					<select name="sector1_d" size="1" onchange="document.dest1Form.dIndex.value=this.selectedIndex;" class="SBform" width="195">
+
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+					<option value="XXX">To</option><option value="BKK">Bangkok Intl (BKK)</option><option value="CNX">Chiang Mai (CNX)</option><option value="DAD">Danang (DAD)</option><option value="DRW">Darwin (DRW)</option><option value="CAN">Guangzhou (CAN)</option><option value="HAK">Haikou (HAK)</option><option value="HAN">Hanoi (HAN)</option><option value="HDY">Hat Yai (HDY)</option><option value="SGN">Ho Chi Minh City (SGN)</option><option value="KBV">Krabi (KBV)</option><option value="MFM">Macau (MFM)</option><option value="CRK">Manila (Clark) (CRK)</option><option value="PDG">Padang (PDG)</option><option value="HKT">Phuket (HKT)</option><option value="SZX">Shenzhen (SZX)</option><option value="SIN">Singapore (SIN)</option></select>
+				</td>
+			</tr>
+		</tbody></table>
+
+	</td><!-- /SBcol1 -->
+
+	<!-- 2delete -->
+
+
+
+	<!-- /2delete -->
+
+	<td class="SBcol0" width="2%"><img src="../img/bookmag/spc.gif" width="8" height="1" alt=""><br></td>
+
+
+	<td class="SBcol2" width="30%" align="center">
+
+		<table border="0" cellpadding="0" cellspacing="0" id="f_t4">
+			<tbody><tr>
+				<td colspan="3"><img src="../img/bookmag/spc.gif" width="1" height="8" alt=""><br></td>
+			</tr>
+			<tr>
+				<td colspan="3" align="left">
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="">
+<tbody><tr>
+	<td colspan="3"><span class="f_head_dep">Departure date:</span></td>
+</tr>
+<tr>
+	<td></td>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr valign="top">
+			<!-- td nowrap="nowrap" align=left>
+				<font face='Verdana,Arial,Helvetica' size=1 color=#000000>
+
+</font></td>
+			<td>&nbsp;</td -->
+			<td nowrap="nowrap" valign="top">
+
+
+	
+	<select class="SBdate1" name="sector_1_d" onchange="reconcile_dates()">
+<option value="01">01</option>
+<option value="02">02</option>
+<option value="03">03</option>
+<option value="04">04</option>
+<option value="05">05</option>
+<option value="06">06</option>
+<option value="07">07</option>
+<option value="08">08</option>
+<option value="09">09</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19" selected="selected">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+
+	</select>
+
+
+	<!-- img src='../images/dot.gif' width='' height='1' / -->
+	<img src="../img/bookmag/spc.gif" width="3" height="1" align="top">
+
+
+
+
+
+	<select class="SBmonth1" name="sector_1_m" onchange="reconcile_dates()">
+<option value="062006" selected="selected">Jun 2006</option>
+<option value="072006">Jul 2006</option>
+<option value="082006">Aug 2006</option>
+<option value="092006">Sep 2006</option>
+<option value="102006">Oct 2006</option>
+<option value="112006">Nov 2006</option>
+<option value="122006">Dec 2006</option>
+<option value="012007">Jan 2007</option>
+<option value="022007">Feb 2007</option>
+
+	</select>
+
+
+
+
+
+			</td>
+			<td>&nbsp;</td>
+			<td valign="top">
+
+			</td>
+		</tr>
+	</tbody></table>
+</td>
+	<td></td>
+</tr>
+<tr>
+	<td colspan="3"></td>
+</tr>
+</tbody></table>
+
+
+	
+				</td>
+			</tr>
+			<tr>
+				<td colspan="3"><img src="../img/bookmag/spc.gif" width="1" height="16" alt=""><br></td>
+			</tr>
+			<tr>
+				<td colspan="3" align="left">
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="">
+<tbody><tr>
+	<td colspan="3"><span class="f_head_ret">Returning date:</span></td>
+</tr>
+<tr>
+	<td></td>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr valign="top">
+			<!-- td nowrap="nowrap" align=left>
+				<font face='Verdana,Arial,Helvetica' size=1 color=#000000>
+
+</font></td>
+			<td>&nbsp;</td -->
+			<td nowrap="nowrap" valign="top">
+
+
+	
+	<select class="SBdate1" name="sector_2_d" onchange="askAboutRoundTrip(this)">
+<option value="00">--</option>
+<option value="01">01</option>
+<option value="02">02</option>
+<option value="03">03</option>
+<option value="04">04</option>
+<option value="05">05</option>
+<option value="06">06</option>
+<option value="07">07</option>
+<option value="08">08</option>
+<option value="09">09</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19" selected="selected">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+
+	</select>
+
+
+	<!-- img src='../images/dot.gif' width='' height='1' / -->
+	<img src="../img/bookmag/spc.gif" width="3" height="1" align="top">
+
+
+
+
+
+	<select class="SBmonth1" name="sector_2_m" onchange="askAboutRoundTrip(this)">
+<option value="000000">-------</option>
+<option value="062006" selected="selected">Jun 2006</option>
+<option value="072006">Jul 2006</option>
+<option value="082006">Aug 2006</option>
+<option value="092006">Sep 2006</option>
+<option value="102006">Oct 2006</option>
+<option value="112006">Nov 2006</option>
+<option value="122006">Dec 2006</option>
+<option value="012007">Jan 2007</option>
+<option value="022007">Feb 2007</option>
+
+	</select>
+
+
+
+
+
+			</td>
+			<td>&nbsp;</td>
+			<td valign="top">
+
+			</td>
+		</tr>
+	</tbody></table>
+</td>
+	<td></td>
+</tr>
+<tr>
+	<td colspan="3"><!-- img src='../images/SB/dot.gif' width=1 height=5 --></td>
+</tr>
+</tbody></table>
+
+
+				</td>
+			</tr>
+		</tbody></table>
+
+	</td><!-- /SBcol2 -->
+
+	<td class="SBcol0" width="2%"><img src="../img/bookmag/spc.gif" width="8" height="1" alt=""><br></td>
+
+	<td class="SBcol3" width="30%" valign="top">
+
+
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+						<td colspan="6"><img src="../img/bookmag/spc.gif" width="1" height="8" alt=""><br></td>
+				</tr>
+				<tr>
+						<td align="center" class="f_text">Adults</td>
+						<td align="center" class="f_text"></td>
+						<td align="center" class="f_text">Children</td>
+						<td align="center" class="f_text"></td>
+						<td align="center" class="f_text">Infants</td>
+						<td align="center" class="f_text"></td>
+				</tr>
+				<tr>
+
+
+						<td align="center">
+							<select name="ADULT" size="1" class="paxList">
+<option value="1">1 </option><option value="2">2 </option><option value="3">3 </option><option value="4">4 </option><option value="5">5 </option><option value="6">6 </option><option value="7">7 </option><option value="8">8 </option><option value="9">9 </option>
+							</select>
+						</td>
+						<td></td>
+
+						<td align="center">
+							<select name="CHILD" size="1" class="paxList">
+<option value="0">0 </option><option value="1">1 </option><option value="2">2 </option><option value="3">3 </option><option value="4">4 </option><option value="5">5 </option><option value="6">6 </option><option value="7">7 </option><option value="8">8 </option><option value="9">9 </option>
+							</select>
+						</td>
+						<td></td>
+
+
+
+				<td align="center">
+					<select name="INFANT" size="1" class="paxList" width="90">
+<option value="0">0 </option><option value="1">1 </option><option value="2">2 </option><option value="3">3 </option><option value="4">4 </option><option value="5">5 </option><option value="6">6 </option><option value="7">7 </option><option value="8">8 </option><option value="9">9 </option>
+					</select></td>
+				<td></td>
+
+
+
+				</tr>
+				<tr>
+				
+
+						
+						<td align="center">
+							<font face="Arial,arial,Helvetica" size="1" color="#000000">
+&nbsp;
+							</font>
+						</td>
+						<td></td>
+
+						
+						<td align="center">
+							<font face="Arial,arial,Helvetica" size="1" color="#000000">
+2 to 11<br>years
+							</font>
+						</td>
+						<td></td>
+
+
+
+				<td align="center">
+					<font face="Arial,arial,Helvetica" size="1" color="#000000">
+2 to 23<br>months
+					</font>
+				</td>
+				<td></td>
+
+				
+				
+				</tr>
+			</tbody></table>
+
+	
+		<img src="../img/bookmag/spc.gif" width="1" height="4" alt=""><br>
+
+	
+
+	
+
+	
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td valign="center" align="center">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="../images/dot.gif" width="1" height="10"></td>
+				</tr>
+				<tr>
+					<td align="center">
+						<a href="javascript:submit_SB_Form()" onmouseover="image_swap('b_search', 'dn' ),
+								window.status='Click to search for flights'; return true" onmouseout="image_swap('b_search', 'up' )">
+						<img src="../img/bookmag/get-flights-on.gif" name="b_search" width="130" height="20" border="0" alt="Search for Flights"></a></td>
+				</tr>
+			</tbody></table>
+	</td>
+				</tr>
+			</tbody></table>
+	
+	
+			<input type="hidden" name="oP" value="">
+			<input type="hidden" name="pT" value="">
+			<input type="hidden" name="nom" value="">
+			<input type="hidden" name="pM" value="0">
+			<input type="hidden" name="tc" value="1">
+			<input type="hidden" name="sid" value="">
+			<input type="hidden" name="language" value="EN">
+			<input type="hidden" name="mode" value="">
+			<input type="hidden" name="module" value="SB">
+			<input type="hidden" name="page" value="SELECT">
+			<input type="hidden" name="openjaw_flag" value="true">
+	
+
+	
+
+			<input type="hidden" name="m1" value="">
+			<input type="hidden" name="m1DP" value="1">
+			<input type="hidden" name="m1DO" value="1">
+
+			<input type="hidden" name="m2" value="">
+			<input type="hidden" name="m2DP" value="1">
+			<input type="hidden" name="m2DO" value="1">
+
+		
+		<form name="calForm">
+
+			<input type="hidden" name="month_selected" value="">
+			<input type="hidden" name="sector" value="">
+			<input type="hidden" name="dNow" value="19">
+			<input type="hidden" name="mNow" value="06">
+			<input type="hidden" name="yNow" value="2006">
+			<input type="hidden" name="dMax" value="">
+			<input type="hidden" name="mMaxToDisplay" value="9">
+		</form>
+	
+		<form name="dest1Form">
+			<input type="hidden" name="dIndex" value="0">
+		</form>
+	
+		<form name="dest2Form">
+			<input type="hidden" name="dIndex" value="zz">
+		</form>
+
+
+	</td><!-- /SBcol3 -->
+
+	<td class="SBcol0" width="2%"><img src="../img/bookmag/spc.gif" width="8" height="1" alt=""><br></td>
+
+	</tr><!--- /Added this line specifically for KIDSFREE promo - Mark. --->
+	<!---<tr><td colspan=7 align=center>For Kids Fly FREE promotion, please <b>only</b> use banner link below.</td></tr>--->
+	</tbody></table>
+
+
+
+
+					<img src="../img/bookmag/bookingbg-bot.gif" width="560" height="6" alt=""><br>
+				</form></div>
+			</div><!-- /container -->
+			<div id="qlinks">
+				<div class="box">
+					<a href="../home/subscribe.php" title="Sign up for email offers"><img src="../img/common/ql-signup.gif" width="164" height="42" alt="Sign up for email offers from Tiger Airways" border="0"></a><br>
+				</div>
+				<div class="box">
+					<a href="../../skylights/cgi-bin/skylights.cgi?module=C3" title="Change/View a booking"><img src="../img/common/ql-change.gif" width="164" height="42" alt="Change or view your booking online" border="0"></a><br>
+				</div>
+				<div class="box">
+					<a href="../flight/flight-schedules.php" title="Flight schedules"><img src="../img/common/ql-flight.gif" width="164" height="42" alt="Flight schedules" border="0"></a><br>
+				</div>
+			</div>
+			<br clear="all">
+		</div><!-- /omnibar -->
+
+
+		<div id="contentBox">
+
+			<h2>Privacy Policy</h2>
+
+
+			<p>
+				This Privacy Policy statement outlines Tiger Airways' policy and responsibility in relation to the collection, processing and disclosure of your Customer Data. PART A refers to our general policy and PART B addresses Customer Data issues specific to usage on our 'websites'.
+			</p>
+
+
+
+			<h4>PART A - General Customer Data Privacy Policy Statement</h4>
+
+
+			<h4>
+				1.  Types Of Customer Data
+			</h4>
+
+			<p>
+				The types of Customer Data that Tiger Airways collects depends on the circumstances of collection and on the nature of the service requested or transaction undertaken. There are two broad categories of Customer Data we collect at Tiger Airways:
+			</p>
+			<p>
+				Individual 'Customer Data' which is personal information that links back to an individual e.g. name, address, phone number, email address and credit card information
+				Behavioral Data e.g. number of passengers flown, hits to website. This is stored purely for analytical purposes, and is entirely anonymous.  This information will not be stored to your customer record, and will only be aggregated for statistical analysis so that we can better  understand our customer profile and improve our service offering
+			</p>
+
+
+
+			<h4>
+				2. Purpose For Collection, Processing And Disclosure
+			</h4>
+
+			<p>
+				<b>Collection</b><br>
+				It is our policy not to ask you for Customer Data that we don't need or won't use.  Some of the purposes that we commonly use for collection are:
+			</p>
+			<p>
+				Providing services to you such as processing a transaction e.g. making a booking.
+				Marketing and communicating with you in relation to products and services offered by Tiger Airways, our airline and service partners, as well as our appointed agents
+				Safety, security and legal compliance
+				Processing and Disclosure
+			</p>
+			<p>
+				We may disclose your Customer Data to third parties, such as, our travel and freight service providers or travel-related businesses, partner airlines (if any), airport management, security personnel and other carriers for the purpose of processing your travel arrangements.  We may disclose your Customer Data to law enforcement agencies and government for security, customs and immigration purposes.
+				In addition, Tiger Airways may disclose Customer Data to our lawyers and legal advisors for establishing, exercising or defending our legal rights. We will also reserve the right to share your Customer Data in the event of an emergency that threatens the life, health or security of an individual.
+			</p>
+
+
+
+			<h4>
+				3. Transfer Of Information Overseas
+			</h4>
+
+			<p>
+				Our Head Office is based in Singapore. Customer Data may be transmitted to data storage facilities where we keep our central records.  Your personal information is transferred for us to perform our contract with you. The Customer Data may also be transferred to our offices in other countries in connection with our performance of the contract with you. It may also be transferred to third party partners including hotels or tour operators as necessary in connection with your third party arrangements.
+			</p>
+
+
+			<h4>
+				4. Consent
+			</h4>
+
+			<p>
+				Where possible, we adopt an 'opt-in' policy for attaining customer consent.  Express written consent will be sought from you wherever possible when collecting your Customer Data e.g. signing a form or checking a box. We also acknowledge that in the course of performing servicing functions such as making a booking, that this information by nature of the task will need to be captured. In such instances, consent will be implied e.g. you inform us that you have a specific allergy or health condition.
+			</p>
+			<p>
+				In addition, you are able to withdraw your express consent at any time by contacting Tiger Airways (see Section 10)or amending your Customer Data by logging on to your website account. (Note: this service only applies to customers who have registered through our 'websites').
+			</p>
+			<p>
+				We will not seek consent for 'behavioral data' as this is not linked to a customer record. For more information on collection and usage of Customer Data obtained from our 'websites', please refer to Part B
+			</p>
+
+
+			<h4>
+				5. Access
+			</h4>
+			<p>
+				Tiger Airways may, upon your written request to us (see Section 10) allow you to view the personal Customer Data we have stored on you.  We reserve the right to charge an administrative fee for this service. On receipt we will acknowledge your request and will give you an estimate of when we are able to respond to your request.  In certain circumstances, Tiger Airways reserves the right to deny you access to your personal Customer Data and will provide an explanation.
+			</p>
+			<h4>
+				6. Retention
+			</h4>
+			<p>
+				We will retain your Customer Data for as long as it is necessary to fulfill the purpose for which it was collected, or as required by relevant laws.
+			</p>
+			<h4>
+				7. Accuracy
+			</h4>
+			<p>
+				We need your help to keep your data up to date. You can inform us of changes in your Customer Data by contacting us and putting it in writing (see Section 10).
+			</p>
+			<p>
+				If you are a registered website user, you may log onto your website account.  Tiger Airways may also request Customer Data updates from you from time to time.
+			</p>
+			<h4>
+				8. Security Safeguards
+			</h4>
+			<p>
+				Tiger Airways takes the security and protection of your Customer Data very seriously and has security safeguards in place to store and transmit data through our systems.  If a customer has not taken reasonable care to ensure the confidentiality of his or her Customer Data, Tiger Airways will not be liable for any misuse caused. If you have any concerns about security, you should contact us (See Section 10).
+			</p>
+			<h4>
+				9. Updates To The Privacy Policy Statement
+			</h4>
+			<p>
+				We will amend this Privacy Policy statement from time to time and the updated versions will be posted to our website and date stamped so that you are aware of when the Privacy Policy was last updated.
+			</p>
+			<p>
+				Subject to applicable laws, the prevailing language of the Privacy Policy will be English. In the event of any inconsistency in interpretation between the English version and any translation of the Privacy Policy, this Privacy Policy statement in English will prevail.
+			</p>
+			<h4>
+				10. Contact Us
+			</h4>
+			<p>
+				If you have comments or questions about this Privacy Policy statement, please contact us at Tiger Airways Private Limited, Changi Airport Post Office, PO Box 82, Singapore, 918143.
+			</p>
+
+
+
+			<h4>
+				PART B - Privacy Policy Statement For Customer Data Collected Through Our Websites
+			</h4>
+
+			<h4>
+				1. Security Safeguards
+			</h4>
+			<p>
+				We take the protection of your Customer Data on our website very seriously.
+			</p>
+			<p>
+				All Customer Data collected through our 'websites', e.g. www.tigerairways.com is protected by a secure server.  In addition, SSL (Secure Socket Layer) ensures secure transmission of data from the internet to our systems.
+			</p>
+			<h4>
+				2.  Clickstream Data
+			</h4>
+			<p>
+				In order to improve online experience, we may track online behavior or click stream data to  advance your use of our web pages and track referrals from other websites. Such data will not be stored to your customer record, and will only be aggregated for statistical analysis.
+			</p>
+			<h4>
+				3.  Links To Other Websites
+			</h4>
+			<p>
+				We may provide you with links to other websites for your convenience and information.  Whilst we will protect your Customer Data on Tiger Airways' websites, we cannot control the policies of other sites we may link to, or the use of any Customer Data you may share with them. Please note that our Privacy Policy statement does not cover these other websites, and we would recommend that you are apprised of their specific policies.
+			</p>
+			<h4>
+				4. Minors
+			</h4>
+			<p>
+				Tiger Airways cannot distinguish the age of persons who access and use its websites. If a minor (according to applicable laws) has provided us with Customer Data without parental or guardian consent, the parent or guardian should contact us (see Section 10 of Part A) to remove the relevant customer data and unsubscribe them.
+			</p>
+
+
+		</div>
+
+
+		<div id="footer">
+
+			<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr valign="top">
+				<td width="52%">
+
+					<p class="footnav">
+						<a href="../home/privacy.php">Privacy</a>
+						&nbsp;·&nbsp;
+						<a href="../home/conditions-of-carriage.php">Conditions of Carriage</a>
+						&nbsp;·&nbsp;
+						<a href="../home/terms-of-use.php">Website Terms of Use</a>
+						&nbsp;·&nbsp;
+						<a href="../home/sitemap.php">Sitemap</a>
+						&nbsp;
+					</p>
+					<p class="foottext">
+						All Rights Reserved
+						&nbsp;·&nbsp;
+
+						2006 © Tiger Airways Pte Ltd
+						&nbsp;
+					</p><a href="../home/250406.xml"><img src="../img/bookmag/spc.gif" border="0"></a>
+
+				</td>
+
+				<td width="16%">
+					<a href="Javascript:verisign();"><img src="../img/common/verisign-logo.gif" border="0" width="134" height="61" alt="Verisign"></a>
+				</td>
+				<td width="16%">
+					<img src="../img/common/l-visa.gif" width="130" height="55" alt="Visa" border="0">
+				</td>
+				<td width="16%">
+					<img src="../img/common/l-navitaire.gif" width="130" height="55" alt="Visa" border="0">
+				</td>
+
+
+			</tr></tbody></table>
+
+		</div>
+
+
+
+	</div><!-- /content -->
+
+</div><!-- /page -->
+
+
+	<script type="text/javascript">var currentPage=1; function Go(){return}</script>
+	<script type="text/javascript" src="../js/RelativePositioned_var.js"></script>
+	<script type="text/javascript" src="../js/menu132_compact.js"></script>
+	<noscript>Please activate Javascript for easierrr navigation.</noscript>
+
+
+
+<div style="position: absolute; visibility: visible; background-color: rgb(102, 102, 102); z-index: 101; width: 299px; height: 23px; top: 97px; left: 309px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 65px; height: 23px; padding-left: 0px; padding-top: 0px; left: 0px; top: 0px;"><img src="../../../img/nav/home-this.gif" name="Menu1i" style="width: 65px; height: 23px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 90px; height: 23px; padding-left: 0px; padding-top: 0px; left: 65px; top: 0px;"><img src="../../../img/nav/flight-off.gif" name="Menu2i" style="width: 90px; height: 23px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 86px; height: 23px; padding-left: 0px; padding-top: 0px; left: 155px; top: 0px;"><img src="../../../img/nav/about-off.gif" name="Menu3i" style="width: 86px; height: 23px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 58px; height: 23px; padding-left: 0px; padding-top: 0px; left: 241px; top: 0px;"><img src="../../../img/nav/help-off.gif" name="Menu4i" style="width: 58px; height: 23px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(102, 102, 102); z-index: 102; width: 607px; height: 21px; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 96px; height: 19px; padding-left: 0px; padding-top: 0px; left: 1px; top: 1px;"><img src="../../../img/nav/sub/2-flight.gif" name="Menu2_1i" style="width: 96px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 76px; height: 19px; padding-left: 0px; padding-top: 0px; left: 97px; top: 1px;"><img src="../../../img/nav/sub/2-destinations.gif" name="Menu2_2i" style="width: 76px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 102px; height: 19px; padding-left: 0px; padding-top: 0px; left: 173px; top: 1px;"><img src="../../../img/nav/sub/2-useful.gif" name="Menu2_3i" style="width: 102px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 65px; height: 19px; padding-left: 0px; padding-top: 0px; left: 275px; top: 1px;"><img src="../../../img/nav/sub/2-fare.gif" name="Menu2_4i" style="width: 65px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 124px; height: 19px; padding-left: 0px; padding-top: 0px; left: 340px; top: 1px;"><img src="../../../img/nav/sub/2-onboardm.gif" name="Menu2_5i" style="width: 124px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 142px; height: 19px; padding-left: 0px; padding-top: 0px; left: 464px; top: 1px;"><img src="../../../img/nav/sub/2-onboardf.gif" name="Menu2_6i" style="width: 142px; height: 19px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(102, 102, 102); z-index: 102; width: 298px; height: 21px; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 46px; height: 19px; padding-left: 0px; padding-top: 0px; left: 1px; top: 1px;"><img src="../../../img/nav/sub/3-news.gif" name="Menu3_1i" style="width: 46px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 78px; height: 19px; padding-left: 0px; padding-top: 0px; left: 47px; top: 1px;"><img src="../../../img/nav/sub/3-facts.gif" name="Menu3_2i" style="width: 78px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 45px; height: 19px; padding-left: 0px; padding-top: 0px; left: 125px; top: 1px;"><img src="../../../img/nav/sub/3-fleet.gif" name="Menu3_3i" style="width: 45px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 58px; height: 19px; padding-left: 0px; padding-top: 0px; left: 170px; top: 1px;"><img src="../../../img/nav/sub/3-careers.gif" name="Menu3_4i" style="width: 58px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 69px; height: 19px; padding-left: 0px; padding-top: 0px; left: 228px; top: 1px;"><img src="../../../img/nav/sub/4-contact.gif" name="Menu3_5i" style="width: 69px; height: 19px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(102, 102, 102); z-index: 102; width: 413px; height: 21px; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 96px; height: 19px; padding-left: 0px; padding-top: 0px; left: 1px; top: 1px;"><img src="../../../img/nav/sub/4-group.gif" name="Menu4_1i" style="width: 96px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 114px; height: 19px; padding-left: 0px; padding-top: 0px; left: 97px; top: 1px;"><img src="../../../img/nav/sub/4-how.gif" name="Menu4_2i" style="width: 114px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 79px; height: 19px; padding-left: 0px; padding-top: 0px; left: 211px; top: 1px;"><img src="../../../img/nav/sub/4-website.gif" name="Menu4_3i" style="width: 79px; height: 19px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: pointer; color: rgb(0, 0, 0); font-family: verdana; font-size: 9px; font-weight: normal; font-style: normal; text-align: center; width: 122px; height: 19px; padding-left: 0px; padding-top: 0px; left: 290px; top: 1px;"><img src="../../../img/nav/sub/4-info.gif" name="Menu4_4i" style="width: 122px; height: 19px;"></div></div></body></html>
