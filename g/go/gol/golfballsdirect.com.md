@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfballsdirect.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220012101id_/http%3A//www.golfballsdirect.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfballsdirect.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618130120id_/http%3A//golfballsdirect.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # GolfBallsDirect.Com
 
