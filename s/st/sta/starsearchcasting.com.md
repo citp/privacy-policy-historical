@@ -1,23 +1,27 @@
-> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230194836id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618164605id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Audition, Modeling Jobs, Actress, Talent Search, fitness model, female model, young model, entertainment book, black models
+# Audition, Star Search, Movie Auditions, Actor, Model, Hollywood, Sexy Model, female models, Latin model, singers, talent search, lingerie model
 
 |   
   
 ## Featured Talent  
   
 ---  
-[ ](http://vickiwolfrum.starsearchcasting.com/)  
-Jamie   
+[ ](http://tyquansmith.starsearchcasting.com/)  
+Tyquan   
+  
+## [Success Stories](https://web.archive.org/testimonials.php)  
+  
+---  
   
 Who is online  
 
 
   
-419 Guests   
-32 Members 
+583 Guests   
+28 Members 
 
-Total Members: 136,903
+Total Members: 163,297
 
 **Star Search Casting, Inc.'s Privacy Policy**
 
@@ -27,10 +31,16 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 | 
 
+**2,498** members have been contacted for work in the last week! 
+
 | 
 
 ## Stars on Star Search  
   
 ---  
-[ ](http://alexialei.starsearchcasting.com/)  
-Alexia 
+[ ](http://frankavila.starsearchcasting.com/)  
+Frank  
+  
+## [Did you know?](https://web.archive.org/php/did_you_know.php)  
+  
+---
