@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spicejet.com privacy policy that was archived on 2005-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219015812id_/http%3A//www.spicejet.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spicejet.com privacy policy that was archived on 2006-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060619003949id_/http%3A//www.spicejet.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -35,6 +35,7 @@ urchinTracker();
 .inputfield{BORDER-RIGHT: #9C9999 1px solid; BORDER-TOP: #9C9999 1px solid; BORDER-LEFT: #9C9999 1px solid; BORDER-BOTTOM: #9C9999 1px solid;}
 .copy {font-family: verdana; color: #F85800; font-size: 10px;}
 </style>
+
 
 </head>
 
@@ -72,7 +73,7 @@ background-color: #FEBF86;
 
 <script type="text/javascript">
 
-var defaultMenuWidth="130px" //set default menu width.
+var defaultMenuWidth="145px" //set default menu width.
 
 var linkset=new Array()
 //SPECIFY MENU SETS AND THEIR LINKS. FOLLOW SYNTAX LAID OUT
@@ -85,6 +86,16 @@ linkset[0]+='<a href="javascript:showShops()"><img src="images/bulls.gif" width=
 linkset[1]='<a href="general-air-travel-faq.asp"><img src="images/bulls.gif" width="6" height="12" border="0">&nbsp;faqs</a>'
 linkset[1]+='<a href="charter.asp"><img src="images/bulls.gif" width="6" height="12" border="0">&nbsp;citizen’s charter</a>'
 linkset[1]+='<a href="tnc.asp"><img src="images/bulls.gif" width="6" height="12" border="0">&nbsp;terms of carriage</a>'
+
+linkset[2]='<a href="sharePattern.asp"><img src="images/bulls.gif" width="6" height="12" border="0">&nbsp;shareholding pattern</a>'
+linkset[2]+='<a href="code-of-conduct.asp"><img src="images/bulls.gif" width="6" height="12" border="0">&nbsp;code of conduct</a>'
+linkset[2]+='<a href="contactInfo.asp"><img src="images/bulls.gif" width="6" height="12" border="0">&nbsp;contact information</a>'
+
+linkset[3]='<a href="ads.asp"><img src="images/bulls.gif" width="6" height="12" border="0">&nbsp;spice sbi card</a>'
+//linkset[3]+='<a href="sbi_faqs.asp"><img src="images/bulls.gif" width="6" height="12" border="0">&nbsp;sbi faqs</a>'
+//linkset[3]+='<a href="code-of-conduct.asp"><img src="images/bulls.gif" width="6" height="12" border="0">&nbsp;code of conduct</a>'
+//linkset[3]+='<a href="contactInfo.asp"><img src="images/bulls.gif" width="6" height="12" border="0">&nbsp;contact information</a>'
+
 ////No need to edit beyond here
 
 var ie5=document.all && !window.opera
@@ -195,7 +206,7 @@ function ShowVerisign()
 			<td colspan="5">
 				<table cellpadding="0" cellspacing="0" border="0" width="780">
 					<tbody><tr><td border="0">
-						<a href="http://www.spicejet.com/"> <img src="images/logo.gif" width="780" height="51" border="0" alt="India's most economical and affordable airlines."></a></td>
+						<a href="http://www.spicejet.com/"> <img src="images/logo.gif" width="780" height="64" border="0" alt="India's most economical and affordable airlines."></a></td>
 					</tr>
 				</tbody></table>
 			</td>
@@ -262,6 +273,8 @@ function ShowVerisign()
 						<td width="20"><img src="images/spacer.gif" width="20" height="1"></td>
 						<td width="14"><img src="images/bull.gif" width="6" height="12"></td>
 						<td width="114"><a href="http://book.spicejet.com/skylights/cgi-bin/skylights.cgi?module=FL&amp;sid=" onmouseover="window.status='Click here to lookup information on daily flights';return true;" onmouseout="window.status='';return true;" class="link">flight status</a></td>
+						<!--<td width=114><a href="http://www.spicejet.com/Flightstatus.asp" onmouseover="window.status='Click here to lookup information on daily flights';return true;" onmouseout ="window.status='';return true;" class=link>flight status</a></td>-->
+
 					</tr>
 					<tr><td><img src="images/spacer.gif" width="1" height="6"></td></tr>
 					<tr><td colspan="3" bgcolor="#F85800"><img src="images/spacer.gif" width="1" height="1"></td></tr>
@@ -337,7 +350,25 @@ function ShowVerisign()
 						
 					</tr>
 					
+					<tr><td><img src="images/spacer.gif" width="1" height="6"></td></tr>
+					<tr><td colspan="3" bgcolor="#F85800"><img src="images/spacer.gif" width="1" height="1"></td></tr>
+					<tr><td><img src="images/spacer.gif" width="1" height="6"></td></tr>
+					<tr>
+						<td width="20"><img src="images/spacer.gif" width="20" height="1"></td>
+						<td width="14"><img src="images/bull.gif" width="6" height="12"></td>
+						<td width="114" id="abtLinks"><a style="cursor:pointer" onmouseover="showmenu(event,linkset[2])" onmouseout="delayhidemenu()" ;return="" true;"="" class="link">investors&nbsp;<img src="images/more.gif" width="15" height="9"></a></td>
+					</tr>
 					
+					<tr><td><img src="images/spacer.gif" width="1" height="6"></td></tr>
+					<tr><td colspan="3" bgcolor="#F85800"><img src="images/spacer.gif" width="1" height="1"></td></tr>
+					<tr><td><img src="images/spacer.gif" width="1" height="6"></td></tr>
+					<tr>
+						<td width="20"><img src="images/spacer.gif" width="20" height="1"></td>
+						<td width="14"><img src="images/bull.gif" width="6" height="12"></td>
+						<td width="114" id="abtLinks"><a style="cursor:pointer" onmouseover="showmenu(event,linkset[3])" onmouseout="delayhidemenu()" ;return="" true;"="" class="link">spice offers<img src="images/more.gif" width="15" height="9"></a></td>
+
+					</tr>
+
 					<tr><td><img src="images/spacer.gif" width="1" height="6"></td></tr>
 					<tr><td colspan="3" bgcolor="#F85800"><img src="images/spacer.gif" width="1" height="1"></td></tr>
 					<tr><td><img src="images/spacer.gif" width="1" height="1"></td></tr>
@@ -477,7 +508,33 @@ function ShowVerisign()
 	</tbody></table>
 
 </div>
-
+<!-- track -->
+<script language="Javascript"><!--
+aw=window; aatd=aw.top.document; aasd=aw.self.document; aajs="1.0"; aan=navigator;
+aar=escape(aasd.referrer); aap=escape(aw.self.location.href); aasd.cookie="ac=1";
+aac=2; if(aasd.cookie) aac=1; aaf=2; if(self!=top) aaf=1;
+if(aaf==1) {aafr=escape(aw.top.location.href);if(aafr==aar) aar=escape(aatd.referrer)}
+else aafr=""; aant=2; if(aan.appName.substring(0,2)=="Mi") aant=1;
+aad=new Date(); aalt=aad.getTimezoneOffset();
+//--></script>
+<script language="Javascript1.1"><!--
+aajs="1.1";aaj=2;if(aan.javaEnabled()) aaj=1;
+//--></script>
+<script language="Javascript1.2"><!--
+aajs="1.2";aas=screen;if(aant==1) aacol=aas.colorDepth; else aacol=aas.pixelDepth;
+aaw=aas.width;aah=aas.height;
+//--></script>
+<script language="Javascript1.3"><!--
+aajs="1.3";
+//--></script>
+<script language="Javascript"><!--
+aa="<img border=0 alt='' src='http://www.gangavalli.net/sj_stats/aa.php";
+aa+="?anident=ADDRESS_PARAMETERS_ALL&anr=" + aar + "&anp="+aap + "&anf="+aaf + "&anfr="+aafr + "&anjs="+aajs + "&anc="+aac + "&anj="+aaj;
+aa+="&ancol="+aacol + "&anwt="+aaw + "&anh="+aah + "&anlt="+aalt + "'>"; aasd.write(aa);
+//--></script><img border="0" alt="" src="http://www.gangavalli.net/sj_stats/aa.php?anident=ADDRESS_PARAMETERS_ALL&amp;anr=&amp;anp=https%3A//web.archive.org/web/20060619003949id_/http%253A//www.spicejet.com/privacy.asp&amp;anf=2&amp;anfr=&amp;anjs=1.3&amp;anc=1&amp;anj=2&amp;ancol=24&amp;anwt=800&amp;anh=600&amp;anlt=0"><noscript>
+<img border=0 alt='' src='http://www.gangavalli.net/sj_stats/aa.php?anident=ADDRESS_PARAMETERS_ALL'>
+</noscript>
+<!-- track -->
 
 
 </body></html>
