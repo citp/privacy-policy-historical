@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212131514id_/http%3A//www.interaction-design.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618082536id_/http%3A//interaction-design.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Interaction-Design.org: A site about HCI, Usability, UI Design, User Experience, Information Architecture and more..
 
-[](http://www.interaction-design.org/ "Interaction-Design.org: A site about HCI, Usability, UI Design, User Experience, Information Architecture and more..")
+[](http://interaction-design.org/ "Interaction-Design.org: A site about HCI, Usability, UI Design, User Experience, Information Architecture and more..")
 
 Your privacy is respected.
 
@@ -18,7 +18,7 @@ If you have any questions regarding privacy, please [contact me](https://web.arc
 
 ### Random Tip
 
-Would you like a daily [quote](https://web.archive.org/quote/) related to interaction design?
+Go ahead and link to a page on this site, we will NEVER change our URLs
 
  
 
@@ -26,8 +26,8 @@ Would you like a daily [quote](https://web.archive.org/quote/) related to intera
 
 ###  Copyright Notice
 
-This page/work is copyright of [Mads Soegaard](http://www.interaction-design.org/references/authors/mads_soegaard.html) and Interaction-Design.org through the Creative Commons Attribution-ShareAlike Licence. 
+This page/work is copyright of Interaction-Design.org through the Creative Commons Attribution-ShareAlike Licence. 
 
-Permission to make digital/hard copy of part or all of this work for personal, classroom, and commercial use is granted without fee provided that appropriate credit is given (i.e. that the author's name, the title of this publication/article/web page, its URL and its date clearly appear) and that derivative works are also made available through the Creative Commons Attribution-ShareAlike Licence. See [the copyright page](http://www.interaction-design.org/about/copyright.html) for full details or click the 'how to cite' link above for info on how to cite this publication/article/web page.
+Permission to make digital/hard copy of part or all of this work for personal, classroom, and commercial use is granted without fee provided that appropriate credit is given (i.e. that the author's name, the title of this publication/article/web page, its URL and its date clearly appear) and that derivative works are also made available through the Creative Commons Attribution-ShareAlike Licence. See [the copyright page](http://interaction-design.org/about/copyright.html) for full details or click the 'how to cite' link above for info on how to cite this publication/article/web page.
 
  
