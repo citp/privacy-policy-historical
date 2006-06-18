@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the cedars-sinai.edu privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219235600id_/http%3A//www.cedars-sinai.edu/5237.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedars-sinai.edu privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618194444id_/http%3A//www.cedars-sinai.edu/5237.html) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
 | 
 
-[Website Privacy Policy](https://web.archive.org/web/20051219235600id_/http%3A//www.cedars-sinai.edu/5237.html)  
+[Website Privacy Policy](https://web.archive.org/5237.html)  
   
 ---  
   
-[HIPAA Privacy Practices](https://web.archive.org/web/20051219235600id_/http%3A//www.cedars-sinai.edu/6913.html)  
+[HIPAA Privacy Practices](https://web.archive.org/6913.html)  
   
   
 | 
@@ -17,12 +17,13 @@ Website Privacy Policy
 
 The Cedars-Sinai Health System ("CSHS") website is owned and operated by Cedars-Sinai Health System. This Privacy Policy ("Privacy Policy") describes how we collect information from you or about you online through our website at [www.cedars-sinai.edu](https://web.archive.org/) ("website"), why we collect this information, how we will use or disclose this information and how you may update or delete identifiable information about you from our records. By accessing, browsing and/or using our website, you are deemed to accept the terms of this Privacy Policy. If you are not willing to accept the terms of this Privacy Policy, please do not use our website. 
 
-This Privacy Policy does not apply to our information collection and use policy or practices offline.  This information is available on the [HIPAA Privacy Practices](https://web.archive.org/web/20051219235600id_/http%3A//www.cedars-sinai.edu/6913.html) page. 
+This Privacy Policy does not apply to our information collection and use policy or practices offline.  This information is available on the [HIPAA Privacy Practices](https://web.archive.org/6913.html) page. 
 
 Information Collection and Use
 
   
-The information we gather generally can be categorized as either anonymous or personally identifiable. 
+The information we gather generally can be categorized as either anonymous or personally identifiable.   
+
 
 Anonymous (or sometimes referred to as "aggregate") information is information that cannot be traced back to a specific individual. For example, we know how many times our site and certain portions of our site is visited, but we do not know the names, e-mail addresses or gender of our visitors unless they specifically provide that information. We use this anonymous information to obtain a better understanding of how visitors use our website and to make decisions on how to improve it. Each time a visitor comes to our site, we collect some information in an effort to improve the overall quality of your online experience. We collect the visitor's domain name (e.g. whether the user is logged on from yahoo.com, aol.com etc), referral data (e.g., the address of the last URL a user visited prior to clicking through to our website), and browser and platform type (e.g., a Netscape browser on a Macintosh platform). In addition to collecting these types of information, CSHS collects aggregate queries for internal reporting. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our site (e.g. tracking where traffic comes from, how traffic flows within our site, etc.). 
 
@@ -69,7 +70,8 @@ Disclosures Required to Investigate Complaints or to Law Enforcement Officials
   
 CSHS may use personal information collected or in its possession to contact users in connection with their inappropriate use of our website, noncompliance with our Terms and Conditions, or in connection with a complaint filed about their use of our site by another user. 
 
-CSHS also may disclose your personal information to another party, such as law enforcement officials, to comply with legal requirements, court orders, government or law enforcement agency requests, to protect or defend CSHS, or where we perceive an immediate danger of death or serious physical injury to someone as a result of activity on our site. Our disclosures may occur under circumstances where we may not be authorized to advise you of such action. 
+CSHS also may disclose your personal information to another party, such as law enforcement officials, to comply with legal requirements, court orders, government or law enforcement agency requests, to protect or defend CSHS, or where we perceive an immediate danger of death or serious physical injury to someone as a result of activity on our site. Our disclosures may occur under circumstances where we may not be authorized to advise you of such action.   
+
 
 Changes to Our Privacy Policy
 
@@ -83,7 +85,8 @@ If you wish to delete or correct your personally identifiable information obtain
 
   * Send a written request to: Webmaster, Cedars-Sinai Health System, 8700 Beverly Blvd., SSB-3, Los Angeles, CA 90048 
   * Send an electronic request to: webmaster@cshs.org 
-  * [Submit](https://www.cedars-sinai.edu//contact_us/contact_us.asp?to_email=webmaster@cshs.org&to_group=other) an electronic request. 
+  * [Submit](https://www.csmc.edu//contact_us/contact_us.asp?to_email=webmaster@cshs.org&to_group=other) an electronic request.   
+
   * Call 1-800-CEDARS-1 and submit a verbal request. 
 
 
@@ -95,6 +98,6 @@ Should you have any questions regarding this privacy statement, the practices of
 
 * * *
 
-© Copyright 2000-2004 Cedars-Sinai Health System.   
+© Copyright 2000-2006 Cedars-Sinai Health System.   
 All rights reserved.  
-[Privacy Policy](https://web.archive.org/web/20051219235600id_/http%3A//www.cedars-sinai.edu/5237.html) [Terms and Conditions](https://web.archive.org/web/20051219235600id_/http%3A//www.cedars-sinai.edu/5238.html)
+[Privacy Policy](https://web.archive.org/5237.html) [Terms and Conditions](https://web.archive.org/5238.html)
