@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shwedream.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214154511id_/http%3A//www.shwedream.com/index.php%3Faction%3Dprivacy%26PHPSESSID%3D9fc85f0e8ec41191d3ace110b71b2982) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shwedream.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618150620id_/http%3A//shwedream.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Myanmar Entertainment | Shwe Dream Myanmar Community
 
