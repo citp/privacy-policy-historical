@@ -1,16 +1,21 @@
-> *The following text is extracted and transformed from the justmommies.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230064130id_/http%3A//www.justmommies.com/tos.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmommies.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618095101id_/http%3A//www.justmommies.com/tos.shtml) for the most accurate reproduction.*
 
 # Terms of Service
 
-**Board Guidelines:**
+| 
+
+Welcome to Justmommies.com! We are an online community for mothers created in April 2003.Anyone using our site is responsible for abiding by our terms of service. Justmommies terms of service may be updated at any time. Users are responsible for reviewing our terms of service. 
 
 Our message boards are free for all registered users. You may read our boards without registering but in order to post or private message you must be registered. We would like our boards to be a safe place for people to post. We would like to avoid censorship, however, there are times when it will be necessary. Please read our guidelines for what is unacceptable. We reserve the right to remove any posts we believe are against our terms of service. 
 
+|   
+---|---  
+  
 **Signature Guidelines:  **  
 Policy changes for August 2, 2005:   
 Justmommies has signature guidelines restricting signatures to 600x600 pixels. The reason this is set is because of load time on our pages. Huge signatures slow down the time pages load quite dramatically. We are requesting that signatures please stay within these guidelines. 
 
-Signature can contain any number of images, tickers, blinkies, etc. however, they must stay within 600 pixels x 600 pixels total size. 
+Signature can contain any number of images, tickers, blinkies, etc. however, they must stay within 600 pixels x 600 pixels total size.
 
 **Business Signatures** :   
 **All business links must be sponsored links.  **  
@@ -25,7 +30,7 @@ Signature can contain any number of images, tickers, blinkies, etc. however, the
 
 Use vulgar language, any derogatory racial or religious comments, or any content that is illegal. We do not allow profanity on our forums. This includes disguised profanity. For example, the word b**ch is considered the same as posting the actual word. Any posts containing profanity will be edited or removed.
 
-Post links to pornographic material. We do not allow pictures or links to pictures with nudity.
+Post links to pornographic material. We do not allow pictures or links to pictures with nudity. _(Exclusions include pictures of birth stories or pictures for educational purposes, must have prior approval from a moderator before posting)_
 
 Attack other members through posts on the board, email or private messages. We do not allow name calling, harassment or personal insults. You may express opposing view points but we want our members to feel safe from abuse. Please take the time to read your posts before you hit the post button and make sure that your posts are worded in a respectful nature. Posts that are not respectful, rude or insulting to other members will be removed.
 
@@ -51,15 +56,15 @@ Although we do moderate our forums, we are not liable for any advice given via o
 
 Justmommies reserves the right to suspend members accounts who repeatedly violate our terms of service. 
 
-**Copyright: **
+**Copyright:**
 
-All material on justmommies.com is copyrighted.  Do not reprint or reproduce any material for website or public use without permission from the owners of this site.  You can reprint articles or pdf files for personal use.
+All material on justmommies.com is copyrighted.  Do not reprint or reproduce any material for website or public use without permission from the owners of this site.  You can reprint articles or pdf files for personal use. 
 
-**Disclaimer: **
+**Disclaimer:**
 
 We are not doctors or health professionals.  Any material on justmommies.com is for information and entertainment purposes only.  Material on our site should not take the place of a doctor or qualified professional. 
 
-**Liability: **
+**Liability:**
 
 We are not responsible for any third party transactions via advertisers or affiliates associated with justmommies.com.  If you have had an unsatisfactory transaction please resolve this directly with the vendor.  If you have had an unethical experience with one of our advertisers or affiliates please email us at [email@justmommies.com](mailto:email@justmommies.com) and we will review the complaint and may remove them from our site.  
 
@@ -81,6 +86,6 @@ Although we strive to protect your personal privacy, there are events in which w
 
 Thank you for reviewing our terms of service.  Please check back periodically to see if there are any changes. If you have any questions concerning our terms of service or privacy policy please contact us at [email@justmommies.com](mailto:email@justmommies.com)
 
-Sincerely,
+Sincerely, 
 
 Justmommies.com
