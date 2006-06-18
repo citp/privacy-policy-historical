@@ -1,32 +1,20 @@
-> *The following text is extracted and transformed from the st-patricks-day.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217192546id_/http%3A//www.st-patricks-day.com/about.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the st-patricks-day.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618222039id_/http%3A//www.st-patricks-day.com/about.asp%23privacy) for the most accurate reproduction.*
 
 # www.St-Patricks-Day.com
 
-  
+**ABOUT US  
+**  
 St-Patricks-Day.com may be just another day in the year, but it is also synonymous with Ireland and possibly the strongest Irish brand in existence. St. Patrick's Day is a time when the whole world becomes Irish and in particular the Irish diaspora thinks of visiting the ol' sod & "the folks back home", and quite possibly... the best time for selling & enhancing your brand internationally. 
 
-Now in its 7th year, St-Patricks-Day.com, the number one ranking information website for this internationally famous day, has been relaunched as a perfect vehicle for companies aiming to capitalise on the world-wide media exposure of the "Irish".
+Now in its 9th year, St-Patricks-Day.com, the number one ranking information website for this internationally famous day, has been relaunched as a perfect vehicle for companies aiming to capitalise on the world-wide media exposure of the "Irish".
 
 The objective of St-Patricks-Day.com is to become the world's largest online resource for Irish nationals and Irish diaspora with the bulk of the audience being Irish Americans, Irish Diaspora and people interested in Ireland.
 
-If you would like to discuss Advertising, Marketing, PR & Sales promotion opportunities... then please write to:  
-**  
-St. Patrick's Day Internet Promotions**  
-152 Chorley New Rd  
-Heaton, Bolton  
-Greater Manchester BL1 4NX  
-United Kingdom
-
-or Email us at: [info@st-patricks-day.com](mailto:info@st-patricks-day.com)
+Email Us re. Advertising, Marketing, PR & Sales promotion opportunities at [info@st-patricks-day.com](mailto:info@st-patricks-day.com)
 
   
-**ADVERTISE WITH ST-PATRICKS-DAY.COM** St. Patrick's Day is one of the strongest Irish brands in existence and an extremely generic Irish domain name, targeting almost 70 million people world-wide claiming Irish heritage.
-
-This enormous market enables us to deliver highly targeted and focused advertising campaigns on your behalf. As part of our newly developed website, we are offering a wide range of advertising opportunities. Please send all advertising inquiries to [advertising@st-patricks-day.com](mailto:pd@st-patricks-day.com).
-
-Remember... specifically tailored packages increase your sales & enhance your brand.
-
- **PRIVACY POLICY  
+  
+**PRIVACY POLICY  
 **St-Patricks-Day.com Internet Promotions is committed to protecting our users privacy. To that end, we offer this statement to inform our users of how we define, gather and utilize personal information.  
 **  
 ** St-Patricks-Day.com Internet Promotions reserves the right, at our sole discretion, to change, modify or otherwise alter this policy at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof. Please review this policy periodically. Your continued usage of the St-Patricks-Day.com website following the posting of changes and/or modifications will constitute your acceptance of the revised privacy policy. For your information, this page was last updated on July 28th 2001.
