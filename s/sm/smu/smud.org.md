@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222210444id_/http%3A//smud.org/legal/general.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smud.org privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618075221id_/http%3A//smud.org/legal/general.html) for the most accurate reproduction.*
 
 # Sacramento Municipal Utility District | Privacy Statement
 
@@ -130,7 +130,7 @@ Identity of the requesting parent will be verified by SMUD using your account nu
 
 Cookies may be used for remembering user input on interactive pages, such as games.
 
-SMUD [Children's Online Privacy Policy](https://web.archive.org/web/20051222210444id_/http%3A//smud.org/legal/children.html).
+SMUD [Children's Online Privacy Policy](https://web.archive.org/web/20060618075221id_/http%3A//smud.org/legal/children.html).
 
 ### Security statement
 
