@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nshss.org privacy policy that was archived on 2005-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051126104827id_/http%3A//www.nshss.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nshss.org privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618170258id_/http%3A//nshss.org/privacy.asp) for the most accurate reproduction.*
 
 # The National Society of High School Scholars
 
-Privacy Policy
+Privacy Policy  of The National Society of High School Scolars 
 
 This is the web site of **The National Society of High School Scholars**.  
 
@@ -17,7 +17,7 @@ We can be reached via e-mail at [ webmaster@nshss.org](mailto:webmaster@nshss.or
 or you can reach us by telephone at 866-343-1800  
 
 
-**We do not sell, lease, or share member information with anyone outside of the NSHSS organization.  
+With respect to sharing member information: NSHSS does not sell member information. NSHSS shares member information only with partnering organizations, educational associations, colleges and/or universities. **  
 **
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address. We collect only the domain name, but not the e-mail address of visitors to our Web page.  
