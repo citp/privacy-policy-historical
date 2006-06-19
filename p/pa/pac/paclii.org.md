@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paclii.org privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221055727id_/http%3A//www.paclii.org/paclii/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paclii.org privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620011515id_/http%3A//paclii.org/paclii/privacy.html) for the most accurate reproduction.*
 
 # PacLII - About PacLII: Privacy Policy
 
@@ -21,6 +21,8 @@ PacLII's privacy policies are based on respect for international standards of in
 PacLII also monitors whether any robots attempt to index these databases in disregard of this Standard, and takes steps to exclude any that do so from any access to PacLII.
 
 **B3.** PacLII users should note that there are legal limitations on the use, publication and dissemination of some personal information contained in PacLII databases. 
+
+**B4.** If any person considers that any case in a PacLII database may contain information which it should not include, PacLII suggests that they should contact the Registrar of the Court or Tribunal concerned, setting out the reasons why there is information in a case which should not be published. The Court or Tribunal is then in a position to inform all previous recipients of the case of any matters that need to be changed. 
 
 **PacLII reserves the right to exclude access to its databases by users or sites that are in apparent breach of any such legal requirements.**
 
