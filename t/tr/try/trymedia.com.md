@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trymedia.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228142917id_/http%3A//www.trymedia.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trymedia.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619223922id_/http%3A//trymedia.com/privacy.shtml) for the most accurate reproduction.*
 
 # Trymedia Systems: Privacy
 
@@ -12,11 +12,11 @@ Trymedia Systems collects the domain name and/or IP address (i.e., the location 
 **Choice / Opt-Out**  
 It is up to you whether or not you provide your contact information to Trymedia Systems. Once you have provided Trymedia Systems with your contact information, it may send communications regarding its products and services, the Site or otherwise, as noted above. Trymedia Systems provides you with the opportunity, at any time, to opt-out of receiving such communications, and/or to request the removal or your contact or other information from Trymedia System's database, by indicating your desire to opt-out:
 
-1\. [Contact us](https://web.archive.org/web/20051228142917id_/http%3A//www.trymedia.com/corporate/contact_us_optout.shtml) or   
+1\. [Contact us](https://web.archive.org/web/20060619223922id_/http%3A//trymedia.com/corporate/contact_us_optout.shtml) or   
 2\. By mail to the postal address located below 
 
 **Correct / Update Information**  
-If any of the contact or other information you have provided to Trymedia Systems changes or is incorrect, you may [notify Trymedia Systems](https://web.archive.org/web/20051228142917id_/http%3A//www.trymedia.com/corporate/contact_us_optout.shtml) of your new correct information. 
+If any of the contact or other information you have provided to Trymedia Systems changes or is incorrect, you may [notify Trymedia Systems](https://web.archive.org/web/20060619223922id_/http%3A//trymedia.com/corporate/contact_us_optout.shtml) of your new correct information. 
 
 **General Compliance with Laws**  
 You shall comply with all applicable laws, statutes, ordinances and regulations pertaining to your use of the Site. 
@@ -34,8 +34,4 @@ San Francisco, CA 94015
 
 If you have any problems using the Site, please send an e-mail to our webmaster at [webmaster@trymedia.com](mailto:webmaster@trymedia.com)
 
-|   |   
-  
-© 2020 Trymedia Systems Inc. All Rights Reserved.  
-ActiveMARK, the ActiveMARK Logo, Trymedia and the Trymedia Logo are the property of Trymedia Systems Inc.  
-All other logos and copyrights are used with permission and are the property of their respective owners.
+|   | 
