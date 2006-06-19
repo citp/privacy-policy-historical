@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennlive.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212044751id_/http%3A//www.pennlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennlive.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619100126id_/http%3A//www.pennlive.com/privacypolicy) for the most accurate reproduction.*
 
 # PennLive.com: Privacy Policy
 
