@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212155450id_/http%3A//www.conservatives.com/tile.do%3Fdef%3Dprivacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619192229id_/http%3A//www.conservatives.com/tile.do%3Fdef%3Dprivacy.page) for the most accurate reproduction.*
 
 # Conservative Party - Conservatives.com Privacy Policy
 
@@ -47,7 +47,7 @@ Join and Donate
 
 In addition to the information from site registration we need additional information if you wish to donate money or join. This includes payment information (such as your credit card number and expiry date) and personal information that we must collect to abide by legal and voluntary codes of conduct (such as the constituency in which you are registered to vote). This information may be used for user analysis, user-profiling and contacting visitors.
 
-If you donate more than £5,000 to the Party via the website, we are obliged under the Political Parties Elections and Referendums Act 2000 to report such a donation to the Electoral Commission, who will publish the fact that you have made a donation over £5,000. For more information, please see [http://www.electoralcommission.gov.uk/](https://web.archive.org/web/20051212155450id_/http%3A//www.conservatives.com/redir.cfm?ref=http://www.electoralcommission.gov.uk/)
+If you donate more than £5,000 to the Party via the website, we are obliged under the Political Parties Elections and Referendums Act 2000 to report such a donation to the Electoral Commission, who will publish the fact that you have made a donation over £5,000. For more information, please see [http://www.electoralcommission.gov.uk/](https://web.archive.org/web/20060619192229id_/http%3A//www.conservatives.com/redir.cfm?ref=http://www.electoralcommission.gov.uk/)
 
 Under the Political Party Elections and Referendums Act 2000 (PPERA) you must be on the electoral register in the UK excluding the Channel Islands and the Isle of Man in order to make a donation of more than £200.
 
