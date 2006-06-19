@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803001720id_/http%3A//www.epam.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619194147id_/http%3A//epam.com/privacy.htm) for the most accurate reproduction.*
 
-# EPAM - offshore software development from Russia, software services outsourcing
+# Offshore Software Development Outsourcing to Russia, Hungary, Ukraine, Belarus
 
 |   
 
 
-Print version [](https://web.archive.org/web/20040803001720id_/http%3A//www.epam.com/privacy-pv.htm)
+Print version [](https://web.archive.org/web/20060619194147id_/http%3A//epam.com/privacy-pv.htm)
 
-|  |  |  |   
-[Home](http://www.epam.com/) / Privacy Policy
+|  |  |  | 
+
+  
+  
+
 
 Privacy Policy
 
@@ -21,7 +24,7 @@ By accessing this site you agree to the terms of the EPAM Privacy Policy outline
 
 Collection of information
 
-EPAM does not collect any personally identifiable information about you other than the information that you affirmatively choose to submit to us (such as your name, e-mail address, street address and company name) when you choose to download reports, request information online, subscribe to EPAM newsletters, etc. 
+EPAM does not collect any personally identifiable information about you other than the information that you affirmatively choose to submit to us (such as your name, e-mail address, street address and company name) when you choose to Downloads, request information online, subscribe to EPAM newsletters, etc. 
 
 We do recognize and collect the IP address, browser type, ISP, referring/exit pages, platform type, date/time stamp, number of clicks, domain name and country/state. 
 
