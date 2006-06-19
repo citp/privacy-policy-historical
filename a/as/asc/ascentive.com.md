@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the ascentive.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228170006id_/http%3A//www.ascentive.com/trust) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascentive.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619023807id_/http%3A//www.ascentive.com/trust) for the most accurate reproduction.*
 
 # Trust & Privacy
 
   * [Home](http://www.ascentive.com/)
   *     [Products](http://www.ascentive.com/products/)  
   * [Download](http://www.ascentive.com/download/)  
-  * [Contact Us](http://www.ascentive.com/contact/)  
-  * [Privacy](http://www.ascentive.com/trust/)  
   * [Revenue Partners](http://www.ascentive.com/partners/)  
   * [Support Center](http://www.ascentive.com/support/new/index.phtml)
+  * [Privacy](http://www.ascentive.com/trust/)  
+  * [Contact Us](http://www.ascentive.com/contact/)  
+  * [Careers](http://www.ascentive.com/careers/)  
 
   
   
