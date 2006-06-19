@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportdiver.com privacy policy that was archived on 2004-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040214013120id_/http%3A//www.sportdiver.com/article_content.jsp%3FID%3D8222) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportdiver.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619114831id_/http%3A//www.sportdiver.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
 
 # Sport Diver Magazine - Privacy Policy
 
@@ -34,8 +34,28 @@ We aggregate data on users' home servers for internal review purposes, in order 
 
 World Publications, LLC cannot and does not control the acts of the users of its web site's services or monitor the accuracy of postings by such users. All users should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, or other forum or public area of this site, that information might be collected, circulated, and used by others.
 
-In the event that you encounter any user who is improperly collecting or using information about you or other users, please e-mail [info@worldpub.net.](mailto:info@worldpub.net)
+In the event that you encounter any user who is improperly collecting or using information about you or other users, please e-mail [info@worldpub.net.](mailto:info@worldpub.net)  Occasionally, we make portions of our subscriber list available to carefully screened companies that offer products and services we think may be of interest to you. If you do not want to receive these offers, please advise us:
 
+Magazine Name  | US Cust. Serv. Phone Number |  CAN/FOR Cust. Serv.Phone Number  | Cust. Serv.E-MAIL Addresses­­   
+---|---|---|---  
+Boating Life | 1-800-453-8877| 1-386-447-2373 | [Boatnglife@palmcoastd.com](mailto:Boatnglife@palmcoastd.com)  
+Caribbean Travel & Life | 1-800-588-1689| 1-386-447-6301 | [Caribbean@palmcoastd.com](mailto:Caribbean@palmcoast.com)  
+Cruising World | 1-866-436-2461| 1-386-246-3402 | [cruising@palmcoastd.com](mailto:cruising@palmcoastd.com)  
+Fly Fishing in Salt Waters | 1-877-566-5833| 1-386-447-2590 | [Flyinsalt@palmcoastd.com](mailto:Flyinsalt@palmcoastd.com)  
+Garden Design | 1-800-513-0848| 1-386-447-2491 | [Garden@palmcoastd.com](mailto:Garden@palmcoastd.com)  
+KiteBoarding | 1-877-228-0027| 1-386-447-6307 | [Kiteboard@palmcoastd.com](mailto:Kiteboard@palmcoastd.com)  
+Marlin | 1-800-879-0483| 1-386-447-2380 | [Marlin@palmcoastd.com](mailto:marlin@palmcoastd.com)  
+PADI | 1-888-333-7234| 1-386-447-2535 | [pdsmember@palmcoastd.com](mailto:pdsmember@palmcoastd.com)  
+Power Cruising | 1-866-298-5645|   
+| [powercruising@palmcoastd.com](mailto:powercruising@palmcoastd.com)  
+Sailing World | 1-866-436-2460 | 1-386-246-3401 | [sailing@palmcoastd.com](mailto:sailing@palmcoastd.com)  
+Saveur | 1-877-717-8925| 1-386-447-2592 | [Saveur@palmcoastd.com](mailto:Saveur@palmcoastd.com)  
+Sport Diver | 1-800-879-0478| 1-386-447-2382 | [pdsmember@palmcoastd.com](mailto:pdsmember@palmcoastd.com)  
+Sport Fishing | 1-800-879-0496| 1-386-447-2383 | [Sportfish@palmcoastd.com](mailto:sportfish@palmcoastd.com)  
+Wakeboarding | 1-800-879-0486 | 1-386-447-2386 | [Wakeboard@palmcoastd.com](mailto:wakeboard@palmcoastd.com)  
+WaterSki | 1-800-879-0495| 1-386-447-2392 | [Waterski@palmcoastd.com](mailto:waterski@palmcoastd.com)  
+WindSurfing | 1-800-879-0480| 1-386-447-2393 | [Windsurf@palmcoastd.com](mailto:windsurf@palmcoastd.com)  
+  
 **Requesting Available Information:**
 
 If you want to find out what information World Publications, LLC has in its database about you, please write World Publications, LLC at the address aboveor e-mail [info@worldpub.net.](mailto:info@worldpub.net) Please include your name, e-mail address, and other information in the same format that you originally supplied to World Publications, LLC, so we can be more certain of matching your request to the correct information.
