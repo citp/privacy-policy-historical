@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sultan-center.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214104953id_/http%3A//www.sultan-center.com/default.aspx%3FpageId%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sultan-center.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619191528id_/http%3A//sultan-center.com/default.aspx%3FpageId%3D11) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,4 +12,5 @@ By using this site, you are agreeing to the terms and conditions of this Privacy
 
 _*TSC may disclose personal information in response to subpoena, court order of a specific request by a law enforcement agency, or as required by law._
 
+  
 | 
