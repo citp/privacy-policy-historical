@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210160437id_/http%3A//www.potbelly.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619054747id_/http%3A//www.potbelly.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Potbelly Privacy Policy
 
@@ -35,13 +35,19 @@ Our site may contain links to other sites whose information practices may be dif
 To enhance your experience with our site may use "cookies." Cookies are text files we plac
 
 e in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.  
-We may use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
+We may use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.  
+
+
+**Children's Privacy Policy**  
+Our site is not intended for use by children under the age of 13. Potbelly does not knowingly request or collect personal information from children under the age of 13.
 
 **Our Commitment to Security**  
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
-**  
-How to Contact Us**  
-If you have any questions or concerns about the Potbelly online policy for this site or its implementation you may contact us at privacy@potbelly.com.
+**How to Contact Us**  
+If you have any questions or concerns about the Potbelly online policy for this site, its implementation or your personal information, you may contact us at privacy@potbelly.com.
+
+**Changes in Our Privacy Policy**  
+We may change our policy from time to time. Please check our policy frequently for changes.
 
 |  | 
