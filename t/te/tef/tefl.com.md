@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tefl.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229030746id_/http%3A//www.tefl.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tefl.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619130852id_/http%3A//www.tefl.com/home/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy - TEFL.com
 
@@ -47,29 +47,29 @@ Fax/Voicemail (UK) +44 (0)20 7691 7074
   
 [ **How much in...** ](http://www.tefl.com/home/col_survey.html)  
 Check your daily living costs Worldwide!  
-**81 cities in 56 countries**  
+**100 cities in 69 countries**  
   
-**Get the latest TEFL.com jobs direct to your desktop via our[RSS](http://www.tefl.com/syndicate/jobs.rdf?8f14724fd705c9a3be43cfeb85b0445a "RSS 1.0")feed **  
-[What's this?](https://web.archive.org/home/rss.html)
+**Get the latest TEFL.com jobs direct to your desktop via our[RSS](http://www.tefl.com/syndicate/jobs.rdf?cc833007b44f71682befa83fed5bf7d4 "RSS 1.0")feed **  
+[What's this?](https://web.archive.org/home/rss.html?tefl_session=cc833007b44f71682befa83fed5bf7d4)
 
 [](http://www.tefl.com/jobprompt/)
 
   
 **ELT Bookshop**  
 ---  
- **A Training Course for TEFL** by _Peter Hubbard_
+ **Principles of Language Learning and Teaching** by _H Douglas Brown_
 
-This is an excellent, comprehensive coverage of the methods of TESL/TEFL teaching! Perfect for anyone teaching TEFL but unable to attend a full training course. Also useful for teachers in the field.
-
-  
-Order from [UK](http://www.amazon.co.uk/exec/obidos/redirect?tag=teflprofession04%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=0194327108%2526tag=teflprofession04%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0194327108%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) | [US](http://www.amazon.com/exec/obidos/redirect?tag=teflprofession01%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0194327108%2526tag=teflprofession01%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0194327108%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) | [Canada](http://www.amazon.ca/exec/obidos/redirect?tag=teflcom-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.ca/gp/redirect.html%253fASIN=0194327108%2526tag=teflcom-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0194327108%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2)
-
-**The Phonology of English as an International Language: New Models, New Norms, New Goals (Oxford Applied Linguistics S.)** by _Jennifer Jenkins_
-
-Academically stimulating, pedagogically useful Dr. Jenkins adds to the Standard English and Core English debate with this very useful study of the pronunciation of English as international lingua franca. By taking what is actually comprehensible, rather than measuring pronunciation against often unattainable, so-called native speaker standards, Jenkins offers a way into establishing an international standard of English, not only in the area of phonology, but with immense possibilities for grammar and lexis.  
-On the practical side, Jenkins' work should at last liberate English language classrooms from the tyranny of RP and GA pronunciation and allow teachers to get on with the essential task of preparing learners for international communication.Linguists, applied linguists, EL teachers and teacher educators can all benefit enormously from this excellent work.
+How do people learn a second language? For almost two decades, Principles of Language Learning and Teaching has been recognized as an exceptional guide to the theoretical foundations of language teaching. The fourth edition offers an overview of the study of Second Language Acquisition, while acting as a reference for the growing storehouse of research, subfields, and specializations of SLA. Features include: Topics on constructivist approaches to SLA, emotional intelligence, the critical period hypothesis, language aptitude, strategies-based instruction (SBI), and more. Additional diagrams and charts to make this edition more accessible, offering visual reference and support for key points. Updated chapter-ending vignettes to provide information on various pedagogical applications and implications of second language research. Improved end-of-chapter activities designed explicitly for in-class group work, pair work, whole-class discussion, and individual self-study. Revised and updated end-of-chapter suggestions for further reading.
 
   
-Order from [UK](http://www.amazon.co.uk/exec/obidos/redirect?tag=teflprofession04%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=0194421643%2526tag=teflprofession04%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0194421643%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) | [US](http://www.amazon.com/exec/obidos/redirect?tag=teflprofession01%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0194421643%2526tag=teflprofession01%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0194421643%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) | [Canada](http://www.amazon.ca/exec/obidos/redirect?tag=teflcom-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.ca/gp/redirect.html%253fASIN=0194421643%2526tag=teflcom-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0194421643%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) [Find more ELT books](http://www.tefl.com/home/booksearch.html?cat=ELT "click to search the TEFL.com Bookshop")  
+Order from [UK](http://www.amazon.co.uk/exec/obidos/redirect?tag=teflprofession04%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=0130178160%2526tag=teflprofession04%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0130178160%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) | [US](http://www.amazon.com/exec/obidos/redirect?tag=teflprofession01%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0130178160%2526tag=teflprofession01%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0130178160%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) | [Canada](http://www.amazon.ca/exec/obidos/redirect?tag=teflcom-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.ca/gp/redirect.html%253fASIN=0130178160%2526tag=teflcom-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0130178160%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2)
+
+**Discussions A-Z Intermediate Teacher's Book: A Resource Book of Speaking Activities (Cambridge Copy Collection)** by _Adrian Wallwork_
+
+ **I am not sure what I would have done without it**  
+EFL resource books are not cheap on a Chinese salary, but this one has proved itself an invaluable investment that I have dipped into again and again for my oral English classes.
+
+  
+Order from [UK](http://www.amazon.co.uk/exec/obidos/redirect?tag=teflprofession04%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.co.uk/gp/redirect.html%253fASIN=0521559812%2526tag=teflprofession04%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0521559812%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) | [US](http://www.amazon.com/exec/obidos/redirect?tag=teflprofession01%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.com/gp/redirect.html%253fASIN=0521559812%2526tag=teflprofession01%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0521559812%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) | [Canada](http://www.amazon.ca/exec/obidos/redirect?tag=teflcom-20%26link_code=xm2%26camp=2025%26creative=165953%26path=http://www.amazon.ca/gp/redirect.html%253fASIN=0521559812%2526tag=teflcom-20%2526lcode=xm2%2526cID=2025%2526ccmID=165953%2526location=/o/ASIN/0521559812%25253FSubscriptionId=1M0JT8XVJ7GNVD2YBVR2) [Find more ELT books](http://www.tefl.com/home/booksearch.html?cat=ELT "click to search the TEFL.com Bookshop")  
   
 
