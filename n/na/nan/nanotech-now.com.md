@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213202501id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619052437id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@
 [ ](https://web.archive.org/products/)  
 [ ](https://web.archive.org/directory.htm)  
 [ ](https://web.archive.org/Press_Kit/)  
-[ ](https://web.archive.org/next-events.htm)  
+[ ](https://web.archive.org/events-2006.htm)  
 [ ](https://web.archive.org/nanotechnology-art-gallery.htm)  
 [ ](https://web.archive.org/interviews.htm)  
 [ ](https://web.archive.org/best_of.htm)  
@@ -21,9 +21,16 @@
 [ ](https://web.archive.org/advertise.htm)  
 [ ](https://web.archive.org/accounts/)  
   
-[](https://web.archive.org/banners/track.pl?banner_id=47)
+[](https://web.archive.org/banners/track.pl?banner_id=47)  
+  
+---  
+| 
 
-[Home](https://web.archive.org/web/20051213202501id_/http%3A//www.nanotech-now.com/) > Privacy
+[](https://web.archive.org/banners/track.pl?banner_id=81)
+
+|   
+  
+[Home](https://web.archive.org/web/20060619052437id_/http%3A//www.nanotech-now.com/) > Privacy
 
 **Privacy Notice:**
 
@@ -47,6 +54,11 @@ We use these summary statistics to help us make our site more useful to visitors
 
 |  |   
 ---  
+[](https://web.archive.org/products/technologymonitoring/)  
+|  Highly tailored technology monitoring service   
+ [Learn More](https://web.archive.org/products/technologymonitoring/) |   
+|   
+   
 [](https://web.archive.org/products/nanonewsnow/)  
 |  Keep up with the rapid changes in nanotech   
  [Learn More](https://web.archive.org/products/nanonewsnow/) |   
@@ -65,8 +77,9 @@ We use these summary statistics to help us make our site more useful to visitors
  [Learn More](https://web.archive.org/NanoStrategies.htm) |   
    
 [](https://web.archive.org/products/newsdigest/)  
-  |  The latest news from around the world, free   
-  
+  |  The latest news from around the world, free.  
+  Sponsor:   
+  [](https://web.archive.org/banners/track.pl?banner_id=83)   
 |   
    
   | [Additional Products](https://web.archive.org/products/) |   
