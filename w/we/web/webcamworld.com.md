@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcamworld.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228033605id_/http%3A//webcamworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamworld.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619222618id_/http%3A//webcamworld.com/privacy.html) for the most accurate reproduction.*
 
 # webcamworld.com : Privacy Statement
 
@@ -143,4 +143,4 @@ Contacting the Web Site
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact administrators via the contact form found at <http://webcamworld.com/contacts.html>
 
   
-[](http://cgi.webcamworld.com/redirect.cgi/privacyd)
+
