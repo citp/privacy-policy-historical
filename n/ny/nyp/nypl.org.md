@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nypl.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212110245id_/http%3A//www.nypl.org/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nypl.org privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619235328id_/http%3A//www.nypl.org/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ Examples of ways in which the Library might use cookies would be to customize co
 If you are concerned about the use of cookies, the Library suggests that you explore your browser's options to notify you whenever a cookie is set, or to disallow cookies altogether. Users should be aware, however, that prohibiting the use of cookies may restrict the user's access to certain types of content or features.
 
 **Children**  
-Parents should remind their children to ask their permission before providing personal information to any Website or purchasing any products or services online. The Library urges all parents to participate in their children's exploration of the Internet and to teach them about protecting their personal information while online. For further information, see [A Safety Net for the Internet: A Parent's Guide](https://web.archive.org/web/20051212110245id_/http%3A//www.nypl.org/legal/safety.cfm).
+Parents should remind their children to ask their permission before providing personal information to any Website or purchasing any products or services online. The Library urges all parents to participate in their children's exploration of the Internet and to teach them about protecting their personal information while online. For further information, see [A Safety Net for the Internet: A Parent's Guide](https://web.archive.org/web/20060619235328id_/http%3A//www.nypl.org/legal/safety.cfm).
 
 **Promotional E-mail, Newsletter, and List-Serve Policy and "Opt-In/Opt-Out" Elections**  
 If you give permission, the Library may use personally identifiable information you submit for promotional purposes. For example, on occasion the Library may wish to send e-mails to inform users of new exhibitions or other events we think might be of interest to them. You will not receive such communications unless you have willingly provided the personal information required. In some cases, you will be required to "opt-in" by joining a newsgroup or mailing list. If you do "opt-in," you will always have the option to "opt-out" at any time by "unsubscribing" to that particular list.
