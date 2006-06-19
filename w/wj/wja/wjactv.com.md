@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjactv.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227102715id_/http%3A//www.wjactv.com/station/1953458/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjactv.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619144346id_/http%3A//www.wjactv.com/station/1953458/detail.html) for the most accurate reproduction.*
 
 # WJACTV.com - WJAC-TV - Privacy Policy
 
@@ -6,11 +6,11 @@ Effective date: 2/6/03
 
 We respect the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by WJAC, Inc., d/b/a WJAC-TV ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to:
 
-Michael P. Zahurak  
+James Edwards  
 WJAC-TV  
-1949 Old Hickory Lane  
+49 Old Hickory Lane  
 Johnstown, PA 15905  
-[mike.zahurak@cox.com](mailto:mike.zahurak@cox.com)
+[jim.edwards@coxtv.com](mailto:jim.edwards@coxtv.com)
 
  **CHILDREN'S PRIVACY**
 
