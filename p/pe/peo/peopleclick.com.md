@@ -1,37 +1,27 @@
-> *The following text is extracted and transformed from the peopleclick.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223224637id_/http%3A//www.peopleclick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleclick.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619190621id_/http%3A//www.peopleclick.com/privacy) for the most accurate reproduction.*
 
 # Staffing management solutions, affirmative action software, and contingent workforce management at Peopleclick
 
-  * **Who is the organization collecting the information?**
-  * **What personally identifiable information is collected and methods of collection?**
-  * **How is this information used?**
-  * **With whom will this information be shared?**
-  * **What choices are available to you regarding the collection, use and distribution of the information?**
-  * **What security procedures are in place to protect against the loss, misuse or alteration of this information?**
-  * **How can you correct any inaccuracies in this information?**
+Peopleclick provides web-based service software to recruit and manage our client's permanent and contract workforce, as well as integrated EEO software and expertise in affirmative action and diversity planning. In providing the above listed services, Peopleclick may have access to certain personally identifiable information. Personal data that may be maintained by Peopleclick on behalf of our clients include, but is not limited to names, contact information, CV or resume, data of birth, national insurance numbers, social security numbers, salary, and race and ethnic origin.
 
+Peopleclick takes technical, contractual, administrative and physical steps to protect against unauthorized access to and disclosure of individually identifiable information. If, during their employment, Peopleclick employees acquire confidential or proprietary information belonging to Peopleclick or its clients, such information will be handled in confidence and may not be disclosed to unauthorized third parties. Peopleclick employees are also responsible for the internal security of such information.
 
+Peopleclick provides information and training to all employees who have access to data maintained on behalf of Peopleclick clients. Employees who would violate Peopleclick's security and safe maintenance of data policies are subject to discipline including termination.
 
-If you have questions or concerns regarding this statement, you should contact [privacy@peopleclick.com](mailto:privacy@peopleclick.com) by email. 
+Data maintained by Peopleclick is protected by computer security mechanisms including firewalls, encryption, monitoring software, data segmentation and passwords.
 
-**Who is Peopleclick?**  
-Peopleclick is the leading global Total Workforce Acquisition provider for salaried, hourly and contingent workers. We deliver solutions that help companies attract, acquire and deploy a diverse and productive workforce. Peopleclick empowers clients to radically simplify, improve and measure their workforce acquisition lifecycle, while integrating affirmative action and diversity goals into their hiring processes. 
+Aggregate information of Peopleclick client data, not containing any individually identifiable information, may be provided to Peopleclick clients or prospects or disclosed in Peopleclick literature.
 
-**Collection methods and information collected**  
-Peopleclick maintains various contact forms to collect information from Users for purposes in which the User has expressed interest. Examples of vehicles in which Peopleclick would collect information are candidate registration for employment opportunities, seminar registration, request for product/service offerings, contest registration, opt-in email updates, and other marketing campaigns in support of special events or promotions. Information collected may include contact and geographic information such as name, email and mailing address. At any time, a User can opt-out of receiving future updates to originally requested information. 
+A visitor to www.peopleclick.com or one of our hosted web sites, who is not seeking employment and not expressing an interest in purchasing products or services, is not required to reveal any individually identifiable information such as name, address or telephone number.
 
-Information collected from the User also is used to notify the winners and award prizes. 
+Peopleclick may record information that is not individually identifiable about how people access our Web sites. This information includes IP addresses (or the DNS name associated with it), which web site you are visiting Peopleclick from and what Web software you're using. This information is used in the aggregate to administer our system and make improvements to our site.
 
-**With whom will this information be shared?**  
-Peopleclick does not sell, trade or transfer User Information with third parties. However, User Information may be shared with business partners or specific organizations for marketing, advertising or product/service offerings. 
+Peopleclick may use cookies in conjunction with hosting career sites for some of our clients. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. We use these cookies to maintain the context of a candidate's interaction with a company's career site. You can choose whether or not to accept cookies by changing the settings of your browser. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.
 
-**What choices are available to you regarding the collection, use and distribution of the information?**  
-At any time, a User can request to be removed from updates, mailings and other marketing vehicles the User had expressed prior interest in receiving. When a User requests to receive information via a specific medium, an explanation of how to be removed from the same medium will be provided. 
+The Peopleclick.com Web site may contain links to other Web sites. Peopleclick is not responsible for the privacy practices or the content of such Web sites.
 
-**What security procedures are in place to protect against the loss, misuse or alteration of this information?**  
-The accuracy and security of User Information is very important to Peopleclick. Every precaution is taken to protect User Information collected throughout Peopleclick's website and other provided forms of contact or registration forms. This includes the transmission of such data as well as the storage of it. 
+An individual wishing to review or update personal data maintained in the Peopleclick system should initially contact the third party company to whom they have indicated an interest in employment. If the third party company is unable or unwilling to resolve the discrepancy, the individual should contact the Peopleclick Data Security Officer.
 
-The transmission of data to Peopleclick's website is protected by using Secure Socket Layer Protocol, better known as SSL. This technology encrypts data during transmission to protect it from being exposed while in transit through the Internet. Many layers of security protect the storage of data collected by Peopleclick. From a physical standpoint, our data centers are within world-class facilities that provide 24-hour protection through surveillance cameras, armed guards and security token access and biometric access controls. On the system side, our servers are protected with the latest firewall technologies and stringent access controls. Peopleclick servers are continually updated with the latest security patches and monitored 24 hours a day through intrusion detection systems for any suspicious activity. 
+Peopleclick is committed to cooperating with the EU Data Protection Authorities or their authorized representatives as an Independent third party recourse mechanism for any individual who believes their personal data protection has been violated.
 
-**How can you correct any inaccuracies in this information?**  
-Please email [webmaster@peopleclick.com](mailto:webmaster@peopleclick.com) for any change in information or inaccuracies. 
+The United States Federal Trade Commission is the statutory body that has jurisdiction to hear any claims against the organization regarding possible unfair or deceptive practices and violations of laws or regulations governing privacy.
