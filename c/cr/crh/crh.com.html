@@ -1,0 +1,1444 @@
+<!--The following is the downloaded HTML source of the crh.com privacy policy that was archived on 2006-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060619103845id_/http%3A//www.crh.com/crhcorp/siteservices/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html lang="en"><head>
+<title>CRH - Privacy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!--script language="javascript" src="/crhcorp/siteware/a_service.js" type="text/javascript"-->
+<script language="JavaScript">
+
+// accessible popup window
+
+var newWin = null; 
+function popUp(strURL, strType, strHeight, strWidth) { 
+ if (newWin != null && !newWin.closed) 
+   newWin.close(); 
+ var strOptions=""; 
+ if (strType=="console") 
+   strOptions="resizable,height="+ 
+     strHeight+",width="+strWidth; 
+ if (strType=="fixed") 
+   strOptions="status,height="+ 
+     strHeight+",width="+strWidth; 
+ if (strType=="fixedscroll") 
+   strOptions="status,scrollbars,screenX=300,left=300,screenY=200,top=50,height="+ 
+     strHeight+",width="+strWidth; 
+ if (strType=="elastic") 
+   strOptions="scrollbars,"+ 
+     "resizable,height="+ 
+     strHeight+",width="+strWidth; 
+ if (strType=="print_access")
+   strOptions="scrollbars,menubar,status,resizable,height="+strHeight+",width="+strWidth; 
+ newWin = window.open(strURL, 'newWin', strOptions); 
+ newWin.focus(); 
+}
+
+
+
+
+// bookmark function
+
+var urlAddress = "http://www.crh.ie";
+var pageName = "CRH";
+
+ function addToFavorites()
+ {
+  if (window.external)
+  {
+   window.external.AddFavorite(urlAddress,pageName)
+  }
+  else
+  { 
+   alert("Sorry! Your browser doesn't support this function.");
+  }
+ }
+
+
+
+
+// email to a friend
+
+
+function EmailLink(){
+window.location = "mailto:"+"?subject=CRH Website" + "&body=" + "I thought this link might interest you:  " + document.title + "  " + location.href;
+}
+
+
+
+// rollover functions & preload & layers (board)
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+
+function MM_showHideLayers() { //v3.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+
+
+
+// presentations popoup
+
+function launch4(str_url, int_width, int_height, str_name) {
+	var winX = (screen.width - int_width) / 2;
+	var winY = (screen.height - int_height) / 2;
+	str_WinParams = 'height=' + int_height +',width=' + int_width + ',top=0,left=' + winX + ',menubar=1,toolbar=1,scrollbars=1,resizable=1,status=1,toolbar=1';
+	win = window.open(str_url, str_name, str_WinParams);
+	if ((parseInt(navigator.appVersion) >= 4)|| (navigator.appName = 'Netscape')) { win.window.focus(); }
+}
+
+
+
+// FAQs toggle function
+
+function toggleDiv(_id){_oDivStyle=document.getElementById(_id).style;(_oDivStyle.display=='block')?_oDivStyle.display='none':_oDivStyle.display='block';
+}
+
+
+
+// rotating images rsponsibility landing page
+
+var interval = 10.5; // delay between rotating images (in seconds)
+var random_display = 1; // 0 = no, 1 = yes
+interval *= 1000;
+
+var image_index = 0;
+image_list = new Array();
+image_list[image_index++] = new imageItem("/crhcorp/images/img1.gif");
+image_list[image_index++] = new imageItem("/crhcorp/images/img2.gif");
+image_list[image_index++] = new imageItem("/crhcorp/images/img3.gif");
+image_list[image_index++] = new imageItem("/crhcorp/images/img4.gif");
+image_list[image_index++] = new imageItem("/crhcorp/images/img5.gif");
+image_list[image_index++] = new imageItem("/crhcorp/images/img6.gif");
+image_list[image_index++] = new imageItem("/crhcorp/images/img7.gif");
+image_list[image_index++] = new imageItem("/crhcorp/images/img8.gif");
+var number_of_image = image_list.length;
+function imageItem(image_location) {
+this.image_item = new Image();
+this.image_item.src = image_location;
+}
+function get_ImageItemLocation(imageObj) {
+return(imageObj.image_item.src)
+}
+function generate(x, y) {
+var range = y - x + 1;
+return Math.floor(Math.random() * range) + x;
+}
+function getNextImage() {
+if (random_display) {
+image_index = generate(0, number_of_image-1);
+}
+else {
+image_index = (image_index+1) % number_of_image;
+}
+var new_image = get_ImageItemLocation(image_list[image_index]);
+return(new_image);
+}
+function rotateImage(place) {
+var new_image = getNextImage();
+document[place].src = new_image;
+var recur_call = "rotateImage('"+place+"')";
+setTimeout(recur_call, interval);
+}
+
+
+
+
+// home page random top banner
+
+var theImages = new Array()
+
+//Random-loading images
+theImages[0] = '/crhcorp/images/tb_home1.jpg' // replace with names of images
+theImages[1] = '/crhcorp/images/tb_home2.jpg' // replace with names of images
+theImages[2] = '/crhcorp/images/tb_home3.jpg' // replace with names of images
+theImages[3] = '/crhcorp/images/tb_home4.jpg' // replace with names of images
+theImages[4] = '/crhcorp/images/tb_home5.jpg' // replace with names of images
+
+var j = 0
+var p = theImages.length;
+var preBuffer = new Array()
+
+for (i = 0; i < p; i++){
+preBuffer[i] = new Image()
+preBuffer[i].src = theImages[i]
+}
+var whichImage = Math.round(Math.random()*(p-1));
+
+function showImage(){
+if(whichImage==0){
+document.write('<img src="'+theImages[whichImage]+'" border=0 width=770 height=120>');
+}
+else if(whichImage==1){
+document.write('<img src="'+theImages[whichImage]+'" border=0 width=770 height=120>');
+}
+else if(whichImage==2){
+document.write('<img src="'+theImages[whichImage]+'" border=0 width=770 height=120>');
+}
+else if(whichImage==3){
+document.write('<img src="'+theImages[whichImage]+'" border=0 width=770 height=120>');
+}
+else if(whichImage==4){
+document.write('<img src="'+theImages[whichImage]+'" border=0 width=770 height=120>');
+}
+else if(whichImage==5){
+document.write('<img src="'+theImages[whichImage]+'" border=0 width=770 height=120>');
+}
+
+}
+
+
+
+</script>
+<style type="text/css">
+
+.hide {OVERFLOW: hidden; WIDTH: 0px; POSITION: absolute; HEIGHT: 0px}
+
+body {
+margin: 2px 0 0 0;
+padding: 2px 0 0 0;
+font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+font-size: 70%;
+line-height: 120%;
+background-color: #fff;
+}
+
+ul.nomarg {margin: 0 0 0 25px;}
+
+
+img {
+border: none;
+}
+
+th {
+color: #666666;
+font-size: 70%;
+voice-family: "\"}\""; 
+voice-family:inherit;
+font-size: 100%;
+font-weight:normal;
+}
+
+th.hd, th.blueboxhead {
+font-weight:bold;
+border-bottom: 1px solid #F0EADB;
+
+border-top: 1px solid #F0EADB;
+padding: 3px;
+}
+
+th.hd3 {
+border-bottom: 1px solid #68C1D5;
+font-weight:bold;
+padding: 3px;
+}
+
+th.hd2 {
+border-top: 1px solid #68C1D5;
+font-weight:bold;
+padding: 3px;
+}
+
+th.hdsmall {
+border-top: 1px solid #68C1D5;
+font-weight:bold;
+padding: 3px;
+font-size: 60%;
+voice-family: "\"}\""; 
+voice-family:inherit;
+font-size: 90%;
+}
+
+td {
+font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+color: #666666;
+font-size: 70%;
+voice-family: "\"}\""; 
+voice-family:inherit;
+font-size: 100%;
+}
+
+pre {
+font-family: Courier New;
+color: #666666;
+font-size: 70%;
+voice-family: "\"}\""; 
+voice-family:inherit;
+font-size: 100%;
+}
+
+h1 {
+margin: 0;
+padding: 0;
+}
+
+h2, h3 {
+font-size: 100%;
+font-weight: bold;
+padding: 0;
+margin: 0;
+}
+
+input, select {
+color: #333;
+margin: 0;
+padding: 1px;
+font-size: 100%;
+border: 1px solid #7F9DB9;
+}
+
+input.search {
+color: #333;
+margin: 0;
+padding: 1px;
+font-size: 100%;
+border: 1px solid #A5ACB2;
+}
+
+input.search_go {
+margin: 0;
+padding: 0;
+border: none;
+}
+
+input.button {
+font-size: 100%;
+border: 1px solid #7F9DB9; 
+color: #333;
+background-color:#E0E5EB;
+}
+
+td.header {
+
+
+
+
+
+
+
+background-color:#F2EEE6;
+color:#00314C;
+
+
+font-weight: bold;
+font-size: 120%;
+padding: 5px;
+}
+
+td.border {
+border-top:1px solid #E0E5EB;
+border-bottom:1px solid #E0E5EB;
+border-left:1px solid #E0E5EB;
+border-right:1px solid #E0E5EB;
+}
+
+td.border_col_left {
+border-left:1px solid #E0E5EB;
+border-right:1px solid #E0E5EB;
+padding: 16px;
+}
+
+td.border_col_left_headers {
+border-left:1px solid #E0E5EB;
+border-right:1px solid #E0E5EB;
+padding:0 16px 16px 16px;
+}
+
+td.border_col_mid {
+border-right:1px solid #E0E5EB;
+padding:16px;
+}
+
+td.border_col_right {
+border-right:1px solid #E0E5EB;
+padding:16px;
+}
+
+td.border_intro {
+border-bottom:1px solid #E0E5EB;
+border-left:1px solid #E0E5EB;
+border-right:1px solid #E0E5EB;
+padding:0 16px 16px 16px;
+}
+
+td.border_intro_holding {
+border-left:1px solid #E0E5EB;
+border-right:1px solid #E0E5EB;
+padding:0 16px 16px 16px;
+}
+
+td.border_content {
+border-left:1px solid #E0E5EB;
+border-right:1px solid #E0E5EB;
+padding:0 16px 16px 16px;
+}
+
+td.border_related {
+border-right:1px solid #E0E5EB;
+padding:0 16px 16px 16px;
+}
+
+td.line {
+
+
+
+
+
+
+border-bottom: 3px solid #4785AC;
+
+
+
+
+
+
+}
+
+td.line_logo {
+border-bottom: 3px solid #4785AC;
+}
+
+td.tb {
+padding: 5px;
+}
+
+td.topbar {
+padding: 0 0 5px 0;
+}
+
+td.home_topbox {
+padding: 16px;
+background-color: #DCE6F0;
+background-image: url(/crhcorp/images/home_corner_box_topleft.gif);
+background-repeat: no-repeat;
+line-height: 150%;
+}
+
+td.home_leftbox {
+padding: 14px;
+background-image: url(/crhcorp/images/bg_home.gif);
+border: 1px solid #E0E5EB; 
+line-height: 150%;
+}
+
+td.home_rightbox {
+padding: 14px;
+background-image: url(/crhcorp/images/bg_homeright.jpg);
+border: 1px solid #E0E5EB; 
+line-height: 150%;
+}
+
+td.home_rightbox2 {
+padding: 14px;
+background-color: #F4F5F7;
+border: 1px solid #E0E5EB; 
+line-height: 150%;
+}
+
+
+td.rel_left{
+background-color: #F4F5F7;
+border-left: 1px solid #E0E5EB; 
+border-top: 1px solid #E0E5EB; 
+border-bottom: 1px solid #E0E5EB; 
+}
+
+td.rel_right{
+background-color: #F4F5F7;
+border-right: 1px solid #E0E5EB; 
+border-top: 1px solid #E0E5EB; 
+border-bottom: 1px solid #E0E5EB;
+}
+
+td.rel_bottom{
+background-color: #F4F5F7;
+border-right: 1px solid #E0E5EB; 
+border-left: 1px solid #E0E5EB; 
+border-bottom: 1px solid #E0E5EB;
+padding: 2px;
+}
+
+td.rel_r_nobottom{
+background-color: #F4F5F7;
+border-right: 1px solid #E0E5EB; 
+border-top: 1px solid #E0E5EB; 
+}
+
+td.rel_l_nobottom{
+background-color: #F4F5F7;
+border-left: 1px solid #E0E5EB; 
+border-top: 1px solid #E0E5EB; 
+}
+
+/* table styles*/
+ .tblline {
+
+background-color : #D19A19;
+}
+
+.tblline2
+ {
+	background-color : #7BC791;
+}
+
+ .tbllinepale
+ {
+	background-color : #E4E9F6;
+}
+ .tblgrey 
+{
+	background-color : #f5f5f5;
+}
+
+
+span.rel {
+font-weight:bold;
+
+
+
+
+
+
+
+color:#00314C;
+
+
+}
+
+
+td.ir_head {
+color: #00314F;
+font-weight:bold;
+}
+
+td.ir_bluebg {
+background-color: #FBF2DD;
+}
+
+span.ir_dblue {
+color: #00314F;
+}
+
+span.home_headline {
+color: #666;
+font-weight:bold;
+font-size: 110%;
+}
+
+span.home_text {
+color: #666;
+font-size: 105%;
+}
+
+span.home_price,span.ir_price {
+color: #4686AC;
+font-weight:bold;
+}
+
+span.ir_black {
+color: #333;
+font-weight:bold;
+}
+
+span.hd_normal {
+font-weight: normal;
+}
+
+ul.sitemap { 
+list-style-type:none;
+margin-left:0;	
+padding-left:0;
+}
+
+li.lev1 {
+margin: 5px 0 5px 0;	
+padding: 5px 0 5px 0;
+}
+
+li.lev2{
+margin-left:20px;	
+padding-left:20px;
+}
+
+td.divider{
+
+
+
+
+
+
+
+background-color: #F2EEE6;
+
+
+
+
+
+
+
+}
+
+td.nav {
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+td.nav_3 {
+padding-top: 2px;
+padding-bottom: 2px;
+}
+
+td.nav_4 {
+padding-top: 2px;
+padding-bottom: 2px;
+}
+
+td.breadcrumb {
+color: #666666;
+font-weight:bold;
+padding-top: 8px;
+padding-bottom: 8px;
+}
+
+span.txt {
+color: #666666;
+}
+
+span.header {
+
+
+color: #ECBF56;
+
+
+font-weight: bold;
+font-size: 120%;
+}
+
+hr {
+color: #666;
+height:1px;
+margin:0;
+padding:0;
+}
+
+li {
+
+
+
+
+
+
+color: #4785AC;
+
+
+
+
+
+
+}
+
+li.lev1 {
+color: #666;
+padding: 0;
+list-style:inherit;
+list-style-position:inside;
+list-style-type:none;
+}
+
+li.lev1 {
+color: #666;
+font-weight: normal;
+}
+
+th.lf {
+font-size:22px;
+}
+
+td.txt_lf{
+font-size:20px;
+}
+
+span.txt_lf {
+font-size:20px;
+}
+
+input.txt_lf {
+font-size:20px;
+}
+
+select.txt_lf, textarea.txt_lf, input.txt_lf { 
+font-size: 20px;
+}
+
+
+/* divs for tabs on press release & presentations & financial highlights page */
+
+
+#tabs {
+width: 560px;
+border-bottom: 1px solid #ECBF56;
+}
+
+#tabs_press {
+width: 396px;
+border-bottom: 1px solid #C43E30;
+}
+
+#tabs_ir {
+width: 560px;
+border-bottom: 1px solid #ECBF56;
+}
+
+#tabs, #tabs_press,#tabs_ir {
+float:left;background:#FFFFFF;position:relative;margin:0;padding:0;
+}
+
+#tabs ul, #tabs_press ul, #tabs_ir ul {
+margin:0;padding:0;list-style-type:none;display:inline;background:#FFF;font-weight:normal;font-size:100%;
+}
+
+#tabs ul li, #tabs_press ul li{
+margin:0;padding:3px 0;float:left;width:50px;
+}
+
+#tabs_ir ul li{
+margin:0;padding:3px 0;float:left;width:185px;
+}
+
+#tabs ul li a, #tabs_press ul li a, #tabs_ir ul li a {
+background:#transparent;
+display:block;
+padding:4px 11px;
+text-decoration:none;
+font-size:100%;
+
+
+
+
+
+
+
+color:#00314C;
+
+
+}
+}
+
+#tabs ul li.nav3 a, #tabs_press ul li.nav3 a,#tabs_ir ul li.nav3 a  {
+background:transparent;
+display:inline;
+padding:4px 11px;
+text-decoration:none;
+font-size:100%;
+
+
+
+
+
+
+
+color:#00314C;
+
+
+}
+
+#tabs ul li.nav3 a:hover, #tabs ul li.nav3a a, #tabs ul li.nav3a a:hover, #tabs_press ul li.nav3 a:hover, #tabs_press ul li.nav3a a, #tabs_press ul li.nav3a a:hover,#tabs_ir ul li.nav3 a:hover, #tabs_ir ul li.nav3a a, #tabs_ir ul li.nav3a a:hover, {
+display:inline;
+padding:4px 11px; 
+text-decoration:none; 
+font-size:100%;
+font-weight:bold; 
+
+
+
+
+
+
+
+background-color:#F2EEE6;
+color:#00314C;
+
+
+}
+
+
+/* styles for tables with alternate bg colours */
+
+table.press thead td,
+table.press thead th {background:#fff;}
+ 
+table.press tbody tr td,
+table.press tbody tr th {
+;
+
+background-color:#F5F3EF;
+
+
+
+padding: 3px;
+}
+ 
+table.press tbody tr.alternateBGColor td,
+table.press tbody tr.alternateBGColor th {
+;
+
+background-color:#F2EEE6;
+
+
+
+padding: 3px;
+}
+
+
+
+/* divs for faq toggle function */
+
+
+#faqlist dl {
+margin:10px 0 10px 0;
+}
+
+#faqlist dt {
+border-top:1px solid #329fb6;
+background-color: #F3F9F9;
+padding 0;
+margin: 0;
+}
+
+#faqlist dd {
+margin: 3px 0 10px 2px;
+padding: 3px 0 10px 2px;
+display:none;
+}
+
+
+
+/* all link styles */
+
+a.faqs, a.faqs:link, a.faqs:visited  {
+font-weight: bold;
+font-size: 102%;
+color:#666;
+text-decoration: none;
+}
+
+a.faqs:hover {
+color:#329fb6;
+text-decoration: none;
+}
+
+a, a:link, a:visited {
+
+
+
+
+
+
+color: #4785AC;
+
+
+
+
+
+
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+a.nav, a.nav:link, a.nav:visited, a.nav2, a.nav2:link, a.nav2:visited  {
+color: #666666;
+text-decoration: none;
+}
+
+a.nav:hover, a.nav2:hover {
+color: #47585C;
+text-decoration: underline;
+}
+
+a.nav2a, a.nav2a:link, a.nav2a:visited  {
+color: #00314F;
+text-decoration: none;
+}
+
+a.nav2a:hover {
+color: #00314F;
+text-decoration: underline;
+}
+
+a.nav3, a.nav3:link, a.nav3:visited  {
+
+
+
+
+
+
+color: #4785AC;
+
+
+
+
+
+
+text-decoration: none;
+}
+
+a.nav3:hover {
+
+
+
+
+
+
+color: #4785AC;
+
+
+
+
+
+
+text-decoration: underline;
+}
+
+a.nav3a, a.nav3a:link, a.nav3a:visited  {
+
+
+
+
+
+
+color: #4785AC;
+
+
+
+
+
+
+font-weight: bold;
+text-decoration: none;
+}
+
+a.nav3a:hover {
+
+
+
+
+
+
+color: #4785AC;
+
+
+
+
+
+
+text-decoration: none;
+}
+
+a.nav4, a.nav4:link, a.nav4:visited  {
+
+
+
+
+
+
+color: #4785AC;
+
+
+
+
+
+
+text-decoration: none;
+padding-left:5px;
+}
+
+a.nav4:hover {
+
+
+
+
+
+
+color: #4785AC;
+
+
+
+
+
+
+text-decoration: underline;
+padding-left:5px;
+}
+
+a.nav4a, a.nav4a:link, a.nav4a:visited  {
+
+
+
+
+
+
+color: #4785AC;
+
+
+
+
+
+
+font-weight: normal;
+text-decoration: underline;
+padding-left:5px;
+}
+
+a.nav4a:hover {
+
+
+
+
+
+
+color: #4785AC;
+
+
+
+
+
+
+font-weight: normal;
+text-decoration: underline;
+padding-left:5px;
+}
+
+a.breadcrumb, a.breadcrumb:link, a.breadcrumb:visited  {
+color: #666666;
+font-weight:normal;
+text-decoration: none;
+}
+
+a.breadcrumb:hover {
+color: #47585C;
+font-weight:normal;
+text-decoration: underline;
+}
+
+a.services, a.services:link, a.services:visited  {
+color: #666666;
+text-decoration: none;
+}
+
+a.services:hover {
+color: #47585C;
+text-decoration: underline;
+}
+
+
+a.home_box, a.home_box:link, a.home_box:visited  {
+color: #666;
+font-size: 105%;
+line-height:150%;
+text-decoration: none;
+}
+
+a.home_box:hover {
+text-decoration: underline;
+}
+
+
+a.home_rightbox, a.home_rightbox:link, a.home_rightbox:visited  {
+color: #666;
+text-decoration: none;
+}
+
+a.home_rightbox:hover {
+text-decoration: underline;
+}
+
+
+
+/* divs for board of directors */
+
+div#page { 
+position:relative; 
+width:390px; 
+margin:0 auto; 
+} 
+
+#molloy,#hill,#wittstock,#lee,#doyle,#hartery,#jong,#kennedy,#mcgowan,#neill,#obrien,#oconnor,#wproef{position:absolute; left:120px; top:15px; z-index:1; visibility: hidden;}
+
+#mahoney {position:absolute; left:120px; top:15px; z-index:1; visibility: visible;}
+
+#mahoney_pic{position:absolute; left:0px; top:15px; z-index:2; visibility: visible;}
+
+#molloy_pic,#hill_pic,#wittstock_pic,#lee_pic,#doyle_pic,#hartery_pic,#jong_pic,#kennedy_pic,#mcgowan_pic,#neill_pic,#obrien_pic,#oconnor_pic,#wproef_pic {position:absolute; left:0px; top:15px; z-index:1; visibility: hidden;}
+
+
+</style>
+
+</head>
+
+<body onload="MM_preloadImages('/crhcorp/images/nav_about_over.gif','/crhcorp/images/nav_about.gif','/crhcorp/images/nav_divisions_over.gif','/crhcorp/images/nav_divisions.gif','/crhcorp/images/nav_ir_over.gif','/crhcorp/images/nav_ir.gif','/crhcorp/images/nav_media_over.gif','/crhcorp/images/nav_media.gif','/crhcorp/images/nav_directory_over.gif','/crhcorp/images/nav_directory.gif','/crhcorp/images/nav_responsibility_over.gif','/crhcorp/images/nav_responsibility.gif')">
+<a name="top"></a>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td align="center">
+	
+	
+<table width="770" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr align="right" valign="middle">
+<td class="topbar">
+
+   
+<!-- site services starts -->
+   
+
+<table width="0" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td>
+
+<a href="#maincontent" accesskey="M"><img src="/siteware/cleardot.gif" height="1" width="1" alt="Skip to main content" border="0"></a><a href="#mainnav" accesskey="N"><img src="/siteware/cleardot.gif" height="1" width="1" alt="Skip to main navigation" border="0"></a><a href="#sectionnav" accesskey="L"><img src="/siteware/cleardot.gif" height="1" width="1" alt="Skip to section navigation" border="0"></a><a href="/crhcorp/siteservices/" accesskey="S"><img src="/siteware/cleardot.gif" height="1" width="1" alt="Skip to site services" border="0"></a>
+
+<a class="services" href="/crhcorp/">Home</a>&nbsp; | &nbsp;<a class="services" href="/crhcorp/siteservices/alert/">Stay Informed</a> &nbsp;|&nbsp; <a class="services" href="/crhcorp/siteservices/downloads/">Download Library</a>&nbsp; | &nbsp;<a class="services" href="/crhcorp/siteservices/sitemap/">Site Map</a>&nbsp; | <a class="services" href="/crhcorp/siteservices/contacts/">Contacts</a></td><td>&nbsp;&nbsp;</td><td><table border="0" cellspacing="0" cellpadding="0">
+<form onsubmit="javascript: return checkrequired2(document.searchform.freesearch.value)" action="/crhcorp/siteservices/search" method="get" name="searchform"></form>      
+<tbody><tr><td><input class="search" type="TEXT" name="freesearch" value="Search this site" style="width: 130px" size="15" onclick="this.value=''"></td><td>&nbsp;<input class="search_go" type="image" alt="Search" src="/crhcorp/images/go.gif" align="absMiddle" border="0" name="image"><nobr></nobr></td>
+</tr>
+
+</tbody></table></td>
+</tr>
+</tbody></table>
+
+  
+<!-- site services ends -->
+
+   
+</td>
+</tr>
+<tr>
+<td valign="top"><a name="mainnav"></a>
+
+	
+<!-- logo and top nav starts -->
+	
+
+<table width="770" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="59" class="line_logo"><a href="/crhcorp/"><img src="/crhcorp/images/logo.gif" border="0" alt="CRH logo and link to home page" title="CRH logo and link to home page" width="59" height="59"></a></td>
+<td width="15"><img src="/siteware/shim.gif" width="15" height="8" border="0" alt=""></td>
+<td width="696" class="line"><a href="/crhcorp/about/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','/crhcorp/images/nav_about_over.gif',1)"><img src="/crhcorp/images/nav_about.gif" alt="About CRH" name="Image11" width="97" height="59" border="0"></a><a href="/crhcorp/divisions/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','/crhcorp/images/nav_divisions_over.gif',1)"><img src="/crhcorp/images/nav_divisions.gif" alt="Our Divisions" name="Image12" width="101" height="59" border="0"></a><a href="/crhcorp/ir/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','/crhcorp/images/nav_ir_over.gif',1)"><img src="/crhcorp/images/nav_ir.gif" alt="Investor Relations" name="Image13" width="133" height="59" border="0"></a><a href="/crhcorp/media/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image14','','/crhcorp/images/nav_media_over.gif',1)"><img src="/crhcorp/images/nav_media.gif" alt="News &amp; Media" name="Image14" width="102" height="59" border="0"></a><a href="/crhcorp/responsibility/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','/crhcorp/images/nav_responsibility_over.gif',1)"><img src="/crhcorp/images/nav_responsibility.gif" alt="Our Responsibility" name="Image15" width="129" height="59" border="0"></a><a href="/crhcorp/group/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','/crhcorp/images/nav_directory_over.gif',1)"><img src="/crhcorp/images/nav_directory.gif" alt="Group Directory" name="Image16" width="134" height="59" border="0"></a></td>
+</tr>
+</tbody></table>
+
+	
+<!-- logo and top nav ends -->
+
+</td>
+</tr>
+<tr>
+<td height="16" valign="top"><img src="/siteware/shim.gif" width="1" height="16" border="0" alt=""></td>
+</tr>
+<tr>
+<td valign="top">
+
+
+<!-- table for left nav and content starts -->
+
+	
+<table width="770" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="155" valign="top" align="left"><a name="sectionnav"></a><!-- shows only 2nd level for siteservices -->
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="155">
+<tbody><tr>
+<td><img src="/siteware/shim.gif" width="1" height="20" border="0" alt=""></td>
+</tr>
+
+
+<tr>
+<td><img src="/crhcorp/images/nav_divider.gif" border="0" alt=""></td>
+</tr>
+
+<tr>
+<td class="nav">
+<a href="/crhcorp/siteservices/downloads/" class="nav2">Download Library</a>
+</td>
+</tr>
+
+
+<tr>
+<td><img src="/crhcorp/images/nav_divider.gif" border="0" alt=""></td>
+</tr>
+
+<tr>
+<td class="nav">
+<a href="/crhcorp/siteservices/alert/" class="nav2">Stay Informed</a>
+</td>
+</tr>
+
+
+<tr>
+<td><img src="/crhcorp/images/nav_divider.gif" border="0" alt=""></td>
+</tr>
+
+<tr>
+<td class="nav">
+<a href="/crhcorp/siteservices/search" class="nav2">Search</a>
+</td>
+</tr>
+
+
+<tr>
+<td><img src="/crhcorp/images/nav_divider.gif" border="0" alt=""></td>
+</tr>
+
+<tr>
+<td class="nav">
+<a href="/crhcorp/siteservices/contacts/" class="nav2">Contacts</a>
+</td>
+</tr>
+
+
+<tr>
+<td><img src="/crhcorp/images/nav_divider.gif" border="0" alt=""></td>
+</tr>
+
+<tr>
+<td class="nav">
+<a href="/crhcorp/siteservices/disclaimer/" class="nav2">Disclaimer</a>
+</td>
+</tr>
+
+
+<tr>
+<td><img src="/crhcorp/images/nav_divider.gif" border="0" alt=""></td>
+</tr>
+
+<tr>
+<td class="nav">
+<a href="/crhcorp/siteservices/privacy/" class="nav2a">Privacy</a>
+</td>
+</tr>
+
+
+<tr>
+<td><img src="/crhcorp/images/nav_divider.gif" border="0" alt=""></td>
+</tr>
+
+<tr>
+<td class="nav">
+<a href="/crhcorp/siteservices/sitemap/" class="nav2">Site Map</a>
+</td>
+</tr>
+
+
+<tr>
+<td><img src="/crhcorp/images/nav_divider.gif" border="0" alt=""></td>
+</tr>
+
+<tr>
+<td class="nav">
+<a href="/crhcorp/siteservices/accessibility/" class="nav2">Accessibility</a>
+</td>
+</tr>
+
+<tr>
+<td><img src="/crhcorp/images/nav_divider.gif" border="0" alt=""></td>
+</tr>
+</tbody></table>
+
+
+
+<br>
+<br>
+<table border="0" cellpadding="0" cellspacing="0" width="155">
+
+
+
+
+
+<tbody><tr>
+<td><img src="/siteware/shim.gif" width="1" height="20" border="0" alt=""></td>
+</tr>
+<tr>
+<td><img src="/crhcorp/images/print.gif" border="0" alt="Print Page (opens in a new window)"><a class="services" href="/crhcorp/siteservices/privacy/?t=print" target="_blank" onclick="javascript:popUp(this.href,'print');return false;" title="Print Page (opens in a new window)">Print Page</a></td>
+</tr>
+<tr>
+<td><img src="/crhcorp/images/email.gif" border="0" alt="Email Us"><a class="services" href="mailto:mail@crh.com">Email Us</a></td>
+</tr>
+<tr>
+<td><img src="/crhcorp/images/bookmark.gif" border="0" alt="Bookmark Page - JavaScript required"><a class="services" href="javascript:addToFavorites()">Bookmark Page</a></td>
+</tr>
+
+</tbody></table></td>
+<td valign="top" width="14"><img src="/siteware/shim.gif" width="14" height="1" border="0" alt=""></td>
+<td width="601" valign="top" align="left">
+	
+
+<!-- table for banner, breadcrumbtrail and content starts -->
+
+
+<table width="601" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td valign="top">
+
+
+
+
+
+
+
+
+
+
+
+<img src="/crhcorp/images/tb_siteservices.jpg" border="0" alt="Site Services">
+
+
+
+
+
+</td>
+</tr>
+<tr>
+<td class="breadcrumb" valign="top">
+
+
+
+
+
+
+
+
+
+<a class="breadcrumb" href="/crhcorp/">Home</a> <img alt="" src="/crhcorp/images/arrow.gif"> <a class="breadcrumb" href="/crhcorp/siteservices/">Site Services</a> <img alt="" src="/crhcorp/images/arrow.gif"> Privacy
+
+
+
+
+
+
+</td>
+</tr>
+<tr>
+<td valign="top"><a name="maincontent"></a>
+<table width="601" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td><img src="/crhcorp/images/top_left_corner.gif" alt="" border="0" width="601" height="17"></td>
+</tr>
+<tr>
+<td class="border_col_left_headers" width="601" valign="top">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td class="header">
+
+
+
+
+
+
+
+
+
+Privacy
+
+
+
+
+
+
+
+
+
+</td>
+</tr>
+<tr>
+<td><br>
+<b>Use of Information</b><br>
+Investis Limited ("we") will not collect any information about individuals, except where it is specifically and knowingly provided by them.  Examples of such information are:<p>Your name<br>
+Your mobile telephone number<br>
+Your email address<br>
+Your occupation</p><p>The information collected will be used to send you the information you have requested and to provide information that may be useful to you.</p><p>We may share non-personal aggregate statistics (group) data about our site visitors' traffic patterns with partners or other parties.  However, we do not sell or share any information about individual users.</p><p>"<strong>Cookies</strong>"<br>
+We do not use cookies on the site.</p><p><strong>Your rights</strong><br>
+In addition to the company’s safeguards, your personal data is protected in the UK by the Data Protection Act.  This provides amongst other things that the data we hold about you should be processed lawfully and fairly.  It should be accurate, relevant and not excessive.  The information should be kept up to date, where necessary, and not retained for longer than is necessary.  It should be kept securely to prevent unauthorised access by other people.  You have the right to see what is held about you and correct any inaccuracies online.  You can do this by using the "login" link at the beginning of the Alerting Service page.</p><p><strong>Policy changes</strong><br>
+Any changes to this policy will be posted here.</p><p><strong>Security</strong><br>
+Investis Limited treats all the data held with the utmost care and security.  Any details you give will remain completely confidential.
+<br></p></td>
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+<tr>
+<td><img src="/crhcorp/images/bottom_right_corner_wide.gif" alt="" border="0" width="601" height="17"></td>
+</tr>
+</tbody></table>
+
+
+</td>
+</tr>
+</tbody></table>
+
+	
+<!-- table for banner, breadcrumbtrail and content ends -->	 
+
+
+</td>
+</tr>
+</tbody></table>
+
+	
+<!-- table for left nav and content ends -->
+
+		
+</td>
+</tr>
+<tr>
+<td height="16" valign="top"><img src="/siteware/shim.gif" width="1" height="16" border="0" alt=""></td>
+</tr>
+<tr>
+<td class="border" height="26" colspan="3" align="right" valign="middle"><span class="small"><a class="services" href="/crhcorp/siteservices/accessibility/">Accessibility</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a class="services" href="/crhcorp/siteservices/privacy/">Privacy</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a class="services" href="/crhcorp/siteservices/disclaimer/">Disclaimer</a>&nbsp;&nbsp;&nbsp;</span> </td>
+</tr>
+</tbody></table>
+
+
+
+</td>
+  </tr>
+</tbody></table>
+
+
+
+
+
+
+
+<!-- Investor information delivered by Investis -->
+<!-- www.investis.com --></body></html>
