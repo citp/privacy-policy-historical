@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blahdvd.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210070801id_/http%3A//www.blahdvd.com/blah/help.aspx%3Fmode%3Dlegal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blahdvd.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619171243id_/http%3A//www.blahdvd.com/Blah/help.aspx%3Fmode%3Dlegal) for the most accurate reproduction.*
 
-# Shop @ BlahDVD for the cheapest DVDs Films Movies Music CDs UK
+# BlahDVD.com: Shop online for the cheapest DVDs, CDs, Video Games, Music Downloads & MP3 Players
 
 **Privacy & Security**
 
