@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellfire.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218073134id_/http%3A//sellfire.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellfire.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620011700id_/http%3A//sellfire.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -21,12 +21,6 @@ _This website is not lawfully accessible to persons under the age of 18 or who a
 **VIEWING AND/OR USE AND/OR COMMUNICATION IS CONSTRUED AS ACCEPTANCE OF THE TERMS OF THIS POLICY**
 
 Acceptance of the terms of this Privacy Policy is a portion of the consideration required for your right to visit the website.  If you do not accept these terms, you have no right to visit this site and you are fraudulently using this site.
-
-**A NOTE TO CALIFORNIA RESIDENTS (ONLINE PRIVACY PROTECTION ACT OF 2003 --OPPA)**
-
-It is the intent of the Privacy Policy to comply with the California Act.  Various provisions throughout this Privacy Policy address requirements of the act.  In summary, you must presume that we collect electronic information from all visitors.  If you purchase a product or service via this website (and thereby become covered by the Act),  you thereby allow the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties.  There is no way you can modify this information and you have no right to do so.  Under the terms of the purchase agreement, you have no right to view or receive any information about our database.  In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in insure that the website is releasing information to the correct party.  Other provisions of the OPPA may exempt this website from complying.  While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information.  (You should know that merchant service providers do not allow us access to your credit card information.) 
-
-This Privacy Policy also is subject to change without notice.  You are required to read it prior to using the website.  By interacting with the website you agree to the terms and conditions of the Privacy Policy.  By using the website or purchasing a product through this website, you waive the right to use state or federal court systems to address complaints and, instead, agree to use the American Arbitration Association located in a city and county specified herein.
 
 **ABOUT THE PERSONAL INFORMATION THIS WEBSITE COLLECTS AND HOW IT IS USED**
 
@@ -66,7 +60,7 @@ Unless otherwise specified in the survey, you must assume that any information p
 
 **INFORMATION OBTAINED FROM ELECTRONIC MEANS AND 'COOKIES'**
 
-Many websites, including this one, collect information about your computer, your email address, your IP address.  You must assume that your web-viewing or web-use activity is monitored, tracked, and information collected.  This information is not usually of a personal nature, but it may help define your viewing habits and product preferences even though the website may or may not have any idea who you are.
+Many websites, including this one, collect information about your computer, your email address, your IP address.  You must assume that your web-viewing or web-use activity is monitored, tracked, and information collected.  This information is not usually of a personal nature, but it may help define your viewing habits and product preferences even though the website may or may not have any idea who you are.
 
 "Cookies" is web jargon for bits of computer code placed on your hard drive.  Websites use this to keep you 'logged in', to keep track of search criteria, to monitor use, to password protect use of the site or use of products sold by the site.  Cookies can also be used to obtain information about your computer configuration or your use of your computer.
 
@@ -74,7 +68,7 @@ Cookies can be used to electronically gather information about you.  Again, it 
 
 **HOW INFORMATION MAY BE USED**
 
-The use of information as described below may or may not be how information that is collected is customarily used by this site.  While actual use of any information collected may be used quite conservatively, you must assume that it is not.  You must assume that information collected is shared with other persons or entities for commercial purposes.  You must assume this as you make your decision whether or not to view or interact with this website.  This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information.  This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with.
+The use of information as described below may or may not be how information that is collected is customarily used by this site.  While actual use of any information collected may be used quite conservatively, you must assume that it is not.  You must assume that information collected is shared with other persons or entities for commercial purposes.  While this is uncommon in practice, you must assume that it is as you make your decision whether or not to view or interact with this website.  This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information.  This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with.
 
 **INFORMATION THAT IS NOT SHARED**
 
@@ -94,15 +88,13 @@ This website takes measures to protect its data that contains information relate
 
 **QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS**
 
-You may direct questions, comments or reports to: Paul Barton, DBA W. Paul Barton Associates, 8783 River Watch, Baldwinsville, NY  13027.  Phone 315-635-2730; e-mail selfi3k@twcny.rr.com ****
-
-**REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**
+You may direct questions, comments or reports to: **PAUL BARTON, DBA W. PAUL BARTON ASSOCIATES, 8783 RIVER WATCH, BALDWINSVILLE, NY 13027, PHONE 315-635-2730; EMAIL** **[ mailto:SELFI3K@TWCNY.RR.COM](mailto:SELFI3K@TWCNY.RR.COM)**
 
 This Privacy Policy is dynamic.  It will continually change.  You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes.  Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification.  Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.
 
 **LATEST UPDATE**
 
-This Privacy Policy was last updated on:  July 1, 2004
+This Privacy Policy was last updated on:  **11/02/03**
 
 **COPYRIGHT**
 
@@ -120,7 +112,7 @@ The prevailing party shall be reimbursed by the other party for any and all cost
 
 **JURISDICTION AND VENUE**
 
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified.  (Syracuse, Onondaga County, NY, USA).   In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified.  **(SYRACUSE, ONONDAGA COUNTY, NY, USA. )**  In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
 
 **APPLICABLE LAW**
 
@@ -128,4 +120,4 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 
 **COPYRIGHT AND LICENSE  **
 
-This "Privacy Policy" is copyrighted 2003 - 2004 by [http://www.internet-law-compliance.com ](http://www.internet-law-compliance.com%20%20/) Mining Gold Corporation and IP Management, LLC and is fully licensed for use by this website.  If you wish to lawfully use this Privacy Policy on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information or this website.
+This "Privacy Policy" is copyrighted by Mining Gold Corporation and IP Management, LLC and is fully licensed for use by this website.  If you wish to lawfully use this Privacy Policy on your website, contact[ support@internetlawcompliance.com](mailto:support@npcinfo.com) for licensing information or this website.
