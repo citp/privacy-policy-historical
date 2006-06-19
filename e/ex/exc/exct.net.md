@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the exct.net privacy policy that was archived on 2005-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050515022302id_/http%3A//email.exacttarget.com/company-privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exct.net privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619123618id_/http%3A//email.exacttarget.com/company-privacy-policy.asp) for the most accurate reproduction.*
 
 # Company: Privacy Policy
 
 #### Privacy at ExactTarget
 
-ExactTarget is committed to protecting the privacy of our web site visitors and clients. We uphold the highest industry standards in online privacy and permission marketing. For more information on how ExactTarget enforces permission email marketing with our clients, please see our [Anti-spam policy](https://web.archive.org/web/20050515022302id_/http%3A//email.exacttarget.com/company-anti-spam-policy.asp).
+ExactTarget is committed to protecting the privacy of our web site visitors and clients. We uphold the highest industry standards in online privacy and permission marketing. For more information on how ExactTarget enforces permission email marketing with our clients, please see our [Anti-spam policy](https://web.archive.org/web/20060619123618id_/http%3A//email.exacttarget.com/company-anti-spam-policy.asp).
 
 #### Security and Privacy
 
-ExactTarget's web site uses security measures to protect against the loss, misuse, and alteration of the information under our control. We store the information in a database in a secure environment at our data center.
+ExactTarget's web site uses security measures to protect against the loss, misuse, and alteration of the information under our control. We store the information in a database in a secure environment at our data center
 
-We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you e-mails based on your requesting information.
+We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you e-mails based on your requesting information
 
 #### Choice Opt-in
 
@@ -26,6 +26,14 @@ There is an optional section of our web site where input forms require your name
 
 You may review and change your information with us at any time by clicking on the "modify profile" link or similar found at the bottom of emails sent via our system, or by contacting us at [privacy@exacttarget.com](mailto:privacy@exacttarget.com)
 
+#### Web Beacons
+
+In order to determine a user’s ability to receive HTML email in addition to whether or not an email has been opened, ExactTarget includes a “web beacon” in a majority of the HTML email messages we send. A web beacon (actually a small .gif image) is activated when an HTML email is opened via a request for the image on our servers. 
+
+This capability helps ExactTarget send email in a format users can read and enables ExactTarget, and our clients that use the functionality, to track the aggregate number of emails opened. The web beacon does not collect any personally identifiable information. Users that do not want to receive email messages with web beacons can choose to receive their emails in text (non-HTML) format.
+
+We also use, and provide our clients with, the capability to track when a URL has been clicked inside of an email message sent by our system. We use this functionality to track which links were clicked and in what quantity, as well as the aggregate number of links clicked. This click tracking functionality does not collect any personally identifiable information.
+
 #### Cookies
 
 Client-side cookies are used to verify the login status of customers using products or services linked directly with our website. Usage of a cookie is in no way linked to any personally identifiable information while on our site. If a user rejects the cookie, they may still use our site; however, the user may not be able to access all areas of our site.
@@ -38,7 +46,7 @@ ExactTarget is not responsible for the privacy practices or the content of any o
 
 ExactTarget will notify its members and users via email if we make any changes to our privacy policy. Any new policy will be posted on our site at least one week prior to its taking effect. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner.
 
-Privacy Policy Effective Date: November 10, 2003
+Privacy Policy Effective Date: June 15, 2006
 
 If you have any questions about this privacy statement or this web site, please contact us at: [privacy@exacttarget.com](mailto:privacy@exacttarget.com) .
 
@@ -46,15 +54,13 @@ If you have any questions about this privacy statement or this web site, please 
 
 #### Safe Harbor Data Privacy Notice
 
-ExactTarget, Inc. ("ExactTarget") adheres to the Safe Harbor Principles published by the U.S. Department of Commerce (the "Safe Harbor Principles") with respect to personal information (as defined below) it receives from the European Union.
-
-This notice outlines our general policy and practices for implementing the Safe Harbor Principles, including the type of information to which this notice applies, how we use personal information, and the choices individuals have regarding our use of, and their ability to correct, that personal information. If there is any conflict between the policies in this notice and the Safe Harbor Principles, the Safe Harbor Principles will govern.
-
+ExactTarget, Inc. ("ExactTarget") adheres to the Safe Harbor Principles published by the U.S. Department of Commerce (the "Safe Harbor Principles") with respect to personal information (as defined below) it receives from the European Union.  
+This notice outlines our general policy and practices for implementing the Safe Harbor Principles, including the type of information to which this notice applies, how we use personal information, and the choices individuals have regarding our use of, and their ability to correct, that personal information. If there is any conflict between the policies in this notice and the Safe Harbor Principles, the Safe Harbor Principles will govern.  
 This notice applies to all personal information we handle, including on-line (except as noted below), off-line, and manually processed data. For purposes of this notice, "personal information" means data that:
 
-  * is transferred from the European Union to the United States;
-  * is recorded in any form; and
-  * is about, or pertains to, a specific individual who is identified in, or is identifiable from, the data.
+  * is transferred from the European Union to the United States; 
+  * is recorded in any form; and 
+  * is about, or pertains to, a specific individual who is identified in, or is identifiable from, the data. 
 
 
 
@@ -70,13 +76,13 @@ We notify individuals about the personal information we collect from them, how w
 
 We do not disclose personal information to third parties, except when one or more of the following conditions is true:
 
-  * We have the individual's permission to make the disclosure;
-  * The disclosure is permitted by law or mandatory professional standards;
-  * The disclosure is reasonably related to the sale or other disposition of all or part of our business or assets;
-  * The personal information to be disclosed is publicly available;
-  * The party to whom the disclosure is made controls, is controlled by, or is under common control with ExactTarget;
-  * The disclosure is reasonably necessary for the establishment or maintenance of legal claims; or
-  * The disclosure is to persons or entities for whom we are providing services, provided the disclosure is consistent with the purpose for which the personal information was obtained.
+  * We have the individual's permission to make the disclosure; 
+  * The disclosure is permitted by law or mandatory professional standards; 
+  * The disclosure is reasonably related to the sale or other disposition of all or part of our business or assets; 
+  * The personal information to be disclosed is publicly available; 
+  * The party to whom the disclosure is made controls, is controlled by, or is under common control with ExactTarget; 
+  * The disclosure is reasonably necessary for the establishment or maintenance of legal claims; or 
+  * The disclosure is to persons or entities for whom we are providing services, provided the disclosure is consistent with the purpose for which the personal information was obtained. 
 
 
 
@@ -114,13 +120,12 @@ Direct Marketing Association
 1111 19th Street, NW - Suite 1100  
 Washington, DC 20036
 
-Email: [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)
-
 **For further information, please contact us.**
 
 ExactTarget, Inc.  
-47 S. Meridian Street  
-Suite 400  
+20 North Meridian Street  
+Suite 200  
 Indianapolis, Indiana 46204  
 USA  
+Phone: (317) 423-3928  
 Fax: (317) 396-1592
