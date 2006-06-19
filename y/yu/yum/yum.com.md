@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yum.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210174022id_/http%3A//yum.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yum.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619072111id_/http%3A//www.yum.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Yum! Brands, Inc.
 
