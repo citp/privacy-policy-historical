@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ncirl.ie privacy policy that was archived on 2005-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051025214212id_/http%3A//www.ncirl.ie/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncirl.ie privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619204440id_/http%3A//www.ncirl.ie/inside.asp%3FpageId%3D1053%26sectionId%3D0%26level%3D1) for the most accurate reproduction.*
 
-# National College of Ireland - Privacy
+# National College of Ireland - - Privacy Statement
 
-you are here: [home](https://web.archive.org/web/20051025214212id_/http%3A//www.ncirl.ie/default.asp) » **privacy**
+you are here: [home](http://www.ncirl.ie/default.asp) » **privacy statement**
 
 ## 1\. INTRODUCTION
 
@@ -55,12 +55,12 @@ In general, you can visit our website on the Internet without telling us who you
 
 Personal Data means any data related to a person that allows that person to be identified such as your name, age, telephone number, e-mail and mailing address ("Personal Data"). We would like to collect, maintain and use your Personal Data to: 
 
-  * Fulfil our obligations under any registration contract and any other contract between you and the NCI.
-  * Ask your opinions on our services and conduct surveys
-  * Facilitate and process your searches and requests for information on our programmes and services
-  * Provide you with the latest information, including events in which you may be interested
-  * Improve our services for you
-  * Conduct prize draws, contests and other promotional offers
+  * Fulfil our obligations under any registration contract and any other contract between you and the NCI. 
+  * Ask your opinions on our services and conduct surveys 
+  * Facilitate and process your searches and requests for information on our programmes and services 
+  * Provide you with the latest information, including events in which you may be interested 
+  * Improve our services for you 
+  * Conduct prize draws, contests and other promotional offers 
 
 
 
@@ -72,8 +72,8 @@ We collect data about you in several ways. For example, we might ask for your co
 
 Here are some of the most typical examples of how we collect your personal data.
 
-  * When you fill out an enquiry form online, we will keep a record of your name, address data, query, etc
-  * When you fill out an application to jour our newsletter, we will keep a record of your name, address details, etc. We will also keep a record of any programme specific interests to enable us to send you newsletters and updates that would most likely interest you.
+  * When you fill out an enquiry form online, we will keep a record of your name, address data, query, etc 
+  * When you fill out an application to jour our newsletter, we will keep a record of your name, address details, etc. We will also keep a record of any programme specific interests to enable us to send you newsletters and updates that would most likely interest you. 
 
 
 
@@ -89,9 +89,9 @@ Personal Data may be disclosed to sub-contracting 3Ps to enable the performance 
 
 Personal Data may be disclosed to 3Ps to enable compliance with legal obligations to which NCI is subject. If Personal Data is disclosed to 3Ps to enable them to provide services for, on behalf of, or under our direction, then we will take measures to ensure that the 3Ps comply with our own privacy policy, and that such recipients: 
 
-  * Do not use the Personal Data for any other purposes than those permitted
-  * Obtain and process Personal Data only on condition that they protect that Personal Data from unauthorised use and adopt and comply with similarly stringent policies and terms on Personal Data protection and use
-  * Comply strictly with applicable laws
+  * Do not use the Personal Data for any other purposes than those permitted 
+  * Obtain and process Personal Data only on condition that they protect that Personal Data from unauthorised use and adopt and comply with similarly stringent policies and terms on Personal Data protection and use 
+  * Comply strictly with applicable laws 
 
 
 
@@ -103,9 +103,9 @@ We intend to protect your Personal Data and to maintain its quality. We will use
 
 How we protect your data
 
-  * We limit access to your Personal Data. Only those employees who need to come into contact with that data, to provide products and services to you, will do so.
-  * We have physical, electronic, and procedural safeguards that comply with regulations to protect your Personal Data
-  * We allow for your account data to be password protected
+  * We limit access to your Personal Data. Only those employees who need to come into contact with that data, to provide products and services to you, will do so. 
+  * We have physical, electronic, and procedural safeguards that comply with regulations to protect your Personal Data 
+  * We allow for your account data to be password protected 
 
 
 
