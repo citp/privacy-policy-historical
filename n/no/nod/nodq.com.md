@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nodq.com privacy policy that was archived on 2005-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051028162902id_/http%3A//nodq.com/vault/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nodq.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619054117id_/http%3A//nodq.com/privacy.shtml) for the most accurate reproduction.*
 
-# NoDQ.com > Vault > Privacy Policy
+# NoDQ.com > Privacy Policy
 
-  |  **[NoDQ.com](https://web.archive.org/) > [Vault](https://web.archive.org/vault/) > Privacy Policy**
+|    |  **[NoDQ.com](https://web.archive.org/) > Privacy Policy**
 
 At NoDQ.com and our network of websites, we do everything we possibly can to respect your online privacy. In attempts to further make your experience at NoDQ.com more enjoyable, we provide you with our privacy statement. 
 
@@ -14,4 +14,4 @@ We are not responsible for any personal information you decide to make public th
 
 We at NoDQ.com thank you for using our services, and hope to continue to provide you with A+ class service as long as we are able to! 
 
-|   
+|    | 
