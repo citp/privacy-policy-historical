@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ononesoftware.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225123007id_/http%3A//ononesoftware.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ononesoftware.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619045413id_/http%3A//ononesoftware.com/policies.html) for the most accurate reproduction.*
 
 # onOne Software
 
