@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jukeboxalive.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224010406id_/http%3A//jukeboxalive.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jukeboxalive.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619175238id_/http%3A//jukeboxalive.com/privacy.shtml) for the most accurate reproduction.*
 
 # JukeBoxAlive: Listen to Online Music for free and upload music
 
