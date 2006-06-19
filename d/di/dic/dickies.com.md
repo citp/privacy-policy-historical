@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219141716id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619025842id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
 
 # Dickies® ~ Privacy Policy
 
@@ -98,49 +98,45 @@ All individuals submitting unsolicited ideas agree to the following:**
 PRIVACY SUPPORT   
 If you have any further inquires related to this privacy policy, please contact us with your request at [customerservice@dickies.com](mailto:customerservice@dickies.com)
 
-Return  |   Dickies500 Photo Pick Up  
+Return  |   Summer Wear  
 ---  
-|  [](https://web.archive.org/web/redirect.asp?target=http%3A%2F%2Fwww%2Epictureu%2Ecom%2Fweb%5Fstore%2Fdisclaimer%2Ecgi%3FPhotogID%3DDTMS%26amp%3BBatchID%3D01)  
-[](https://web.archive.org/web/redirect.asp?target=http%3A%2F%2Fwww%2Epictureu%2Ecom%2Fweb%5Fstore%2Fdisclaimer%2Ecgi%3FPhotogID%3DDTMS%26amp%3BBatchID%3D01) |   
-  What's New  
+| [](https://web.archive.org/wc2/category_whatsnew.asp)  
+|   
+  What's New in June  
 ---  
 | 
 
-CONTESTS
+TOP STORIES
 
-[](https://web.archive.org/web/news/2005_awoty_winner.asp)
-
-The American Worker of the Year Winner  
-[ [read more](https://web.archive.org/web/news/2005_awoty_winner.asp) ] 
+2006 Dickies 500 Race for the Riches!  
+[ [read more](https://web.archive.org/web/news/top_stories.asp#Dickies500) ]
 
 TOP STORIES
 
-[](https://web.archive.org/web/news/top_stories.asp#dickies500)
+[](https://web.archive.org/web/redirect.asp?target=http%3A%2F%2Fwww%2Eworkeroftheyear%2Ecom%2F)
 
-And the winner is . . .  
-[ [read more](https://web.archive.org/web/news/top_stories.asp#dickies500) ] 
-
-TOP STORIES
-
-[](https://web.archive.org/web/PBR/default.asp)
-
-Dickies DuraBullfighter News  
-[ [read more](https://web.archive.org/web/PBR/default.asp) ] 
+The nominations are all in!  
+[ [read more](https://web.archive.org/web/news/top_stories.asp#AWOTYSearch) ]
 
 NEWS STAND
 
-"US Weekly" - Pink says she's a Dickies girl at heart  
+"US WEEKLY" and "PEOPLE" both snapped Britney and Kevin in Dickies  
 [ [read more](https://web.archive.org/web/news/magazines.asp) ]
 
 MUSIC
 
-"Meet the Barkers" star Travis Barker  
+Trick Daddy in a gray Dickies matched set  
 [ [read more](https://web.archive.org/web/news/music.asp) ]
 
 MOVIES
 
-Watch for Dickies in these upcoming releases  
+"The Break Up," starring Jennifer Aniston and Vince Vaughn  
 [ [read more](https://web.archive.org/web/news/movies.asp) ]
+
+TV
+
+VH1's "Best Week Ever" Paul Scheer wearing Dickies  
+[ [read more](https://web.archive.org/web/news/tv.asp) ]
 
 PauseResume **::** [More News](https://web.archive.org/web/news/default.asp)
 
