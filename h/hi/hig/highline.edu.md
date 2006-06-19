@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222004428id_/http%3A//www.highline.edu/home/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619112123id_/http%3A//www.highline.edu/home/policy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Highline Community College
 
- 
+ [Home](https://web.archive.org/web/20060619112123id_/http%3A//www.highline.edu/home/home.htm) > Privacy Policy
 
   * Introduction
   * Information collected and how it is used
@@ -38,12 +38,12 @@ Thank you for visiting the Highline Community College Web site and reviewing our
 
   * Information Collected and How it is Used 
   * Personal Information and Choice 
-  * Public Access to Information
+  * Public Access to Information 
   * Nondisclosure of Certain Personal Information 
-  * Cookies
-  * Security
-  * Disclaimer 
-  * Contact Information
+  * Cookies 
+  * Security 
+  * Disclaimer
+  * Contact Information 
 
 
 
@@ -55,11 +55,11 @@ Top of page
 
 **Information Collected and How it is Used**
 
-**Information collected if you only browse this site.**  
+**Information collected if you only browse this site.**   
 If you do nothing during your visit to our Web site but browse, read pages, or download information, we will gather and store certain information about your visit. This information does not identify you personally. We automatically collect and store the following information about your visit:
 
   1. The Internet Protocol Address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet Protocol Address to direct Internet traffic to you. This address can be translated to determine the domain name of your service provider (for example, _xcompany.com_ or _yourschool.edu_ ); 
-  2. The type of browser and operating system you used; 
+  2. The type of browser and operating system you used;
   3. The date and time you visited this site; 
   4. The Web pages or services you accessed at this site; and 
   5. The Web site you visited prior to coming to this Web site. 
@@ -73,7 +73,7 @@ The information we automatically collect or store is logged and used by Highline
 
   * The e-mail address, and contents of e-mail, for those who communicate with us via e-mail. 
   * Information volunteered in response to a survey. 
-  * Information volunteered through an on-line form for any other purpose.
+  * Information volunteered through an on-line form for any other purpose. 
 
 
 
@@ -111,13 +111,13 @@ Top of page
 
 In the State Of Washington, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by state government. At the same time, there are exceptions to the public's right to access public records that serve various needs including the privacy of individuals. Exceptions are provided by both state and federal laws. 
 
-All of the information collected at this site becomes public records that may be subject to inspection and copying by members of the public, unless an exemption in law exists. Statue [RCW 42.17. 260(1)](http://search.leg.wa.gov/wslrcw/RCW%20%2042%20%20TITLE/RCW%20%2042%20.%2017%20%20CHAPTER/RCW%20%2042%20.%2017%20.260.htm) states that: 
+All of the information collected at this site becomes public records that may be subject to inspection and copying by members of the public, unless an exemption in law exists. Statue RCW 42.17. 260(1) states that: 
 
 > Each agency, in accordance with published rules, shall make available for public inspection and copying all public records, unless the record falls within the specific exemptions of subsection (6) of this section [RCW 42.17.260(6)], RCW 42.17.310, 42.17.315, or other statute which exempts or prohibits disclosure of specific information or records. To the extent required to prevent an unreasonable invasion of personal privacy interests protected by RCW 42.17.310 and 42.17.315, an agency shall delete identifying details in a manner consistent with RCW 42.17.310 and 42.17.315 when it makes available or publishes any public record; however, in each case, the justification for the deletion shall be explained fully in writing.
 
 In the event of a conflict between this Privacy Notice and the Public Records Act or other law governing the agency’s disclosure of records, the Public Records Act or other applicable law will control.
 
-The complete Revised Code of Washington (RCW) is available at: <http://wsl.leg.wa.gov/wsladm/rcw.cfm>
+The complete Revised Code of Washington (RCW) is available at: [ http://wsl.leg.wa.gov/wsladm/rcw.cfm](http://wsl.leg.wa.gov/wsladm/rcw.cfm)
 
 Top of page
 
@@ -129,9 +129,9 @@ You may be required to provide certain personal information when you use the Web
 
 When using the applications, the following laws and regulations may prevent Highline Community College from disclosing the personal information about you except for directory information. Only directory information can be released without student's authorization. Students must sign a release in order to have any other information disclosed or to withhold all information. Education information may be released to other institutions that have requested the records and in which the student seeks or intends to enroll. Information may be released to a third party without student's consent if an emergency situation exists or if information is requested officially by means of a subpoena, court order or legal report. Additionally, Congress requires student information to be released to military recruiters if officially requested. Directory information may include student's name, address, telephone number, date and place of birth, major fields of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, the most recent previous educational agency or institution attended by the student, and other similar information.
 
-  * [Family Educational Rights and Privacy Act of 1974 (FERPA)](http://www4.law.cornell.edu/uscode/unframed/20/1232g.html)  
-Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act.
-  * [RCW 42.17.310](http://search.leg.wa.gov/pub/textsearch/ViewRoot.asp?Action=Html&Item=15&X=815105327&p=1) (a) exempts the following from public inspection and copying: (a) Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients; 
+  * Family Educational Rights and Privacy Act of 1974 (FERPA)  
+Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act. 
+  * [RCW 42.17.310](http://apps.leg.wa.gov/rcw/default.aspx) (a) exempts the following from public inspection and copying: (a) Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients; 
 
 
 
@@ -141,7 +141,7 @@ Highline Community College may require you to provide certain personal informati
 
 In addition to the previously identified laws and regulations, the following applies:
 
-  * [RCW 42.17.310](http://search.leg.wa.gov/pub/textsearch/ViewRoot.asp?Action=Html&Item=15&X=815105327&p=1) (ss) exempts the following from public inspection and copying: (ss) Credit card numbers, debit card numbers, electronic check numbers, card expiration dates, or bank or other financial account numbers supplied to an agency for the purpose of electronic transfer of funds, except when disclosure is expressly required by law.
+  * [RCW 42.17.310 ](http://apps.leg.wa.gov/rcw/default.aspx)(ss) exempts the following from public inspection and copying: (ss) Credit card numbers, debit card numbers, electronic check numbers, card expiration dates, or bank or other financial account numbers supplied to an agency for the purpose of electronic transfer of funds, except when disclosure is expressly required by law. 
 
 
 
@@ -173,7 +173,7 @@ Top of page
 
 **Registration Appointment**
 
-Highline Community College may require you to provide certain personal information in order to obtain your registration appointment information over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display your registration appointment information over the Web, and you will have to obtain your registration appointment information address in person. Contact Registration at (206) 878-3710 ext. 3243 or [registrar@highline.edu](mailto:registrar@highline.edu) for more information.
+Highline Community College may require you to provide certain personal information in order to obtain your registration appointment information over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display your registration appointment information over the Web, and you will have to obtain your registration appointment information address in person. Contact Registration at (206) 878-3710 ext. 3243 or [ registrar@highline.edu](mailto:registrar@highline.edu) for more information. 
 
 Top of page
 
@@ -191,7 +191,7 @@ Top of page
 
 **Student PIN Change**
 
-Highline Community College may require you to provide certain personal information in order to change your personal identification number over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to change your PIN over the Web, and you will have to change your PIN in person. Contact Registration at (206) 878-3710 ext. 3243 or [registrar@highline.edu](mailto:registrar@highline.edu) for more information.
+Highline Community College may require you to provide certain personal information in order to change your personal identification number over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to change your PIN over the Web, and you will have to change your PIN in person. Contact Registration at (206) 878-3710 ext. 3243 or [ registrar@highline.edu](mailto:registrar@highline.edu) for more information.
 
 Top of page
 
@@ -213,9 +213,9 @@ Highline Community College may require you to provide certain personal informati
 
 In addition to the previously identified laws and regulations, the following apply:
 
-  * [RCW 42.17.310](http://search.leg.wa.gov/pub/textsearch/ViewRoot.asp?Action=Html&Item=15&X=815105327&p=1) (l) exempts the following from public inspection and copying: (l) Any library record, the primary purpose of which is to maintain control of library materials, or to gain access to information, which discloses or could be used to disclose the identity of a library user.
+  * [RCW 42.17.310](http://apps.leg.wa.gov/rcw/default.aspx) (l) exempts the following from public inspection and copying: (l) Any library record, the primary purpose of which is to maintain control of library materials, or to gain access to information, which discloses or could be used to disclose the identity of a library user. 
     * For the purposes of this regulation, Highline’s workstation and network logs that collect and retain information concerning information resources accessed shall be considered library records.
-  * Highline Community College Library  [Policy on the Privacy of Library Records](http://flightline.highline.edu/libraryadmin/a_policies/privacy.html).
+  * Highline Community College Library [ Policy on the Privacy of Library Records](http://flightline.highline.edu/libraryadmin/a_policies/privacy.html).
   * 50 U.S.C. 1861 et seq.. Under the Foreign Intelligence Surveillance Act, ("FISA"), the FBI may obtain an ex parte (without a formal hearing) court order allowing access to the records of library patrons.
 
 
@@ -232,7 +232,7 @@ Top of page
 
 **Review and Correction of Personally Identifiable Information**
 
-You can review any personally identifiable information that Highline Community College collects about you by using the information in the Contact Information section at the end of this Notice. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting a written request that credibly shows the inaccuracy. We will take reasonable steps to verify your identity before granting access or making corrections ([RCW 43.105.310](http://search.leg.wa.gov/pub/textsearch/ViewRoot.asp?Action=Html&Item=1&X=815134736&p=1)).
+You can review any personally identifiable information that Highline Community College collects about you by using the information in the Contact Information section at the end of this Notice. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting a written request that credibly shows the inaccuracy. We will take reasonable steps to verify your identity before granting access or making corrections ([RCW 43.105.310](http://apps.leg.wa.gov/rcw/default.aspx)).
 
 Top of page
 
@@ -270,7 +270,7 @@ Top of page
 
 * * *
 
-** Highline Community College Contact Information**  
+**Highline Community College Contact Information**  
 
 
 You may contact Highline Community College as follows:
@@ -283,8 +283,8 @@ To review your personal information, or request correction of your personal info
 >  2400 S. 240th Street  
 >  Des Moines, WA 98198  
 > (206)-878-3710 ext. 3559  
-> Fax: (206)-870-3780  
-> [briverma@highline.edu](mailto:briverma@highline.edu)
+> Fax: (206)-870-3780   
+>  [briverma@highline.edu](mailto:briverma@highline.edu)
 
 To offer comments about Highline Community College's Web site or about the information presented in this Privacy Notice:
 
@@ -294,6 +294,4 @@ To offer comments about Highline Community College's Web site or about the infor
 >  Des Moines, WA 98198  
 > (206)-878-3710 ext. 6106  
 >  Fax: (206)-870-3744  
-> [webmaster@highline.edu](mailto:webmaster@highline.edu)
-
-Top of page
+> [ webmaster@highline.edu](mailto:webmaster@highline.edu)
