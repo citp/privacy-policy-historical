@@ -1,15 +1,11 @@
-> *The following text is extracted and transformed from the cursors-4u.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219095037id_/http%3A//www.cursors-4u.com/fatp/pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cursors-4u.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619055154id_/http%3A//www.cursors-4u.com/fatp/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Cursors-4U.com does not collect any type of information related to your personal life. The only information we collect are statistics of our web site which relate to the number of visitors we get, and e-mail addresses and names that you give us which we use to reply to your questions/comments. 
 
-We only collect information that you yourself when you wish to contact us. When you contact us, you yourself provide an e-mail that is meant for reponse purposesly only. We not house or collect there e-mail addresses. 
+Third Partied services that are in used by Cursors-4U.com may collect other information but not personal information such as credit card numbers and bank account numbers. These services which we use are [Google Adsense](http://google.com/adsense), [Fastclick](http://www.fastclick.com/), and [Yahoo](http://www.publisher.yahoo.com/). The above are advertisement firms which Cursors-4U.com uses to fund it's project and server bills. Please refer to their website for more information on their privicy policy. 
 
-From time to time, we will use the data that our system has collected to better serve. These data, do not include any of your personal information. Information such as where you live, your phone number, or social security number. We do not have the resources or power to collect these unwanted items. We only collect information that is provided by the system. Information such as unique hits, page views, and demographics. However we will not sell or grant rights to any other site to this information. 
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
-
-Third Partied services that are in used by Cursors-4U.com may collect other information but not information such as credit card numbers and bank account numbers. Cursors-4U.com also displays advertisement that may collect personal information but not information such as credit card numbers and bank account numbers.
+We also use a 3rd party personal service called [ Statcounter](http://www.statcounter.com/) which is a website tracking service. The service will drop a cookie which will help us determine different demographics of our visitors as well as other statistics. The cookie does not collect personal information and is only used on our site. It will not affect your browsing in any ways. 
 
 If you have any further question regarding your privacy please contact us. 
