@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the twoplustwo.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231214453id_/http%3A//www.twoplustwo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twoplustwo.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619195307id_/http%3A//twoplustwo.com/privacy.html) for the most accurate reproduction.*
 
 # Two Plus Two Publishing - Privacy Policy
+
+Please [read](http://forumserver.twoplustwo.com/security.html) this important security announcement. 
 
 ## Customer Privacy Policy
 
