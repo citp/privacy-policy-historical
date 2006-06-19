@@ -1,51 +1,50 @@
-> *The following text is extracted and transformed from the cogcon.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605182940id_/http%3A//www.earobics.com/privacy/policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cogcon.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619062051id_/http%3A//www.earobics.com/privacy/policy.cfm) for the most accurate reproduction.*
 
 # Cognitive Concepts Privacy Statement
 
-Cognitive Concepts is firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this web site: www.earobics.com. 
+Cognitive Concepts, Inc. and Houghton Mifflin Company recognize the importance of protecting the information that we collect from customers during the process of purchasing a product, or registering for a service, newsletter, or membership area of a Houghton Mifflin Company site. Depending on the nature of the site, we may collect first and last names; home or school address; e-mail address; credit card or other billing information; fax or telephone number; and other information appropriate to the purpose for which it is being collected. It is our policy to use this information, or information acquired through user postings at our sites, for internal business purposes only, and we maintain appropriate security measures to keep this information private. Gathering this information helps us develop websites and products to match your interests. We may share this information with vendors providing contractual services to us, such as (by way of example only and not of limitation) hosting services, tech support, credit card processors, and database managers.
 
-We use your IP address to help diagnose problems with our server, and to monitor Web site traffic. We also use your IP address to help identify you and your shopping cart and to gather broad demographic information.
+You should be aware that personal information, such as your name or e-mail address, that you voluntarily disclose on bulletin boards or in chat areas could be collected and disclosed by other users with access to those sites. Houghton Mifflin Company cannot take any responsibility for such collection or disclosure.
 
-Our site uses cookies to keep track of your shopping cart. We may also use cookies to deliver content specific to your interests.
+Occasionally, we use "cookies" to store pertinent user information during a session. Cookies are small pieces of information that are stored in a designated file on your computer. Houghton Mifflin only uses cookies for the purpose of holding information during online sessions (for example, to hold answers to online quizzes for short-term storage, or to create an ID for use in a multiple-session assessment). We may also use cookies to track links from an affiliate's websites to our websites. This information is used only for the purpose of tracking commissions that may become due to an affiliate if you purchase a product or service from one of our sites.
 
-This site contains links to other sites. Cognitive Concepts is not responsible for the privacy practices or the content of such Web sites.
+In most cases, users can review and update or request changes to their information by logging into their account or e-mailing the divisional administrator listed at the end of our Children's Privacy Policy. If you have any questions about the Houghton Mifflin privacy policy, please contact Collin Earnst at 617-351-5020. The effective date of this privacy policy is June 30, 2004. Houghton Mifflin Company reserves the right to change this privacy policy without notice to users of or visitors to our websites.
 
-This site provides order forms for you to request information, products and services. We use the contact information from order forms to send orders and information about future products and services. We may also use the contact information to get in touch with you about an order or technical support issue. You may opt-out of receiving future mailings; see the Choice/Opt-Out section below.
+**Children's On-line Privacy Information**
 
-Our online surveys ask you for contact information (like your email address) and demographic information (like your zip code or age). We use demographic information for marketing planning purposes. We may use contact data from surveys to send you information about our products and services. You may opt-out of receiving future mailings; see the Choice/Opt-Out section below.
+The following paragraphs summarize Houghton Mifflin's policy regarding the collection and use of personal information about children.
 
-We run sweepstakes on this site and require you to supply contact information (like your email address) and demographic information (like your zip code, age or income level) in order to participate. We use contact data from contests to notify winners and we may use it to send you information on our products and services. You may opt-out of receiving future mailings; see the Choice/Opt-Out section below. 
+_Types of personal information collected_ : Under the Children's Online Privacy Protection Act, "personal information" is defined as individually identifiable information, such as a first and last name; a home or other physical address including street name and city or town; an e-mail address; a telephone number; a Social Security number; or persistent identifiers such as customer or processor serial numbers held in a cookie, where the identifier is associated with individually identifiable information. Cookies are small pieces of information that are stored in a designated file on a user's computer. Houghton Mifflin usually does not collect personal information as defined under the Children's Online Privacy Protection Act. We collect and use only as much information about a child as necessary for the activity, and do not condition participation in any online activity on the disclosure of more personal information than is reasonably necessary. Occasionally, we use cookies to store pertinent user information during a session.
 
-## Public Forums
+_Use of personal information_ : We use the information we collect from children only for internal business purposes, and/or to give credit to children for work they have created. We contact children by e-mail only in response to their requests for information or assistance. Houghton Mifflin uses cookies solely for the purpose of holding information during online sessions (for example, to hold answers to online quizzes for short-term storage, or to create an ID for use in a multiple-session assessment). If, however, a child voluntarily discloses personal information, such as a name or e-mail address, on bulletin boards or in chat areas that are accessible to other users, then such information could be collected and disclosed by others. Houghton Mifflin cannot take any responsibility for such collection or disclosure.
 
-This site makes chat rooms, forums, message boards, and/or news groups available to you. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information.
+_Involvement of parents_ : In accordance with the provisions of the Children's Online Privacy Protection Act, we will notify parents when collecting personal information from children, and will seek parental consent before collecting, using, or disclosing certain personal information from children. Parents may review and have deleted their child's personal information, and may refuse to permit further collection or use of their child's information by contacting the Houghton Mifflin representatives listed below. Parents may consent to our collection and use of their child's personal information without consenting to the disclosure of that information to others.
 
-## Security
+_How to get in touch with Houghton Mifflin_ : The following list has the names, addresses, and phone numbers of the individuals operating websites for the various divisions and subsidiaries of Houghton Mifflin Company.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Cognitive Concepts has designated staffers responsible for the maintenance and protection of demographic and contact information. The information collected is stored on a secure non-public area of the web server while it is being collected, then moved to our internal systems on a regular basis. 
+**Division** : Cognitive Concepts, Inc.  
+**Name** : Chris Otto  
+**Title** : Director of Marketing  
+**Address** : 909 Davis Street  
+Evanston, Illinois 60201  
+**Telephone Number** : (847)-570-6473  
+**Email Address** : [Chris_Otto@hmco.com](mailto:Chris_Otto@hmco.com)
 
-## Children's Guidelines
+**Division** : Great Source  
+**Name** : Carl Saslow  
+**Title** : Director of Information Technology  
+**Address** : 181 Ballardvale Street  
+Wilmington, Massachusetts 01887  
+**Telephone Number** : (978)-661-1300  
+**Email Address** : [Carl_Saslow@hmco.com](mailto:Carl_Saslow@hmco.com)
 
-Cognitive Concepts, as a maker of children's software, has made every effort to protect the privacy of children visiting the web site. In activities on the site geared towards children:
+**Division** : Corporate IT  
+**Name** : Chris Hogg  
+**Title** : Director, Web Services  
+**Address** : 222 Berkeley Street, 5th Floor  
+Boston, Massachusetts 02116-3764  
+**Email Address** : [Chris_Hogg@hmco.com](mailto:Chris_Hogg@hmco.com)
 
-  1. WE DO NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity.  Without parental consent, we will only use contact information to respond directly to a child's request; it will not be used for other purposes without prior parental consent.
-  2. WE DO NOT collect personally identifiable offline contact information without prior parental consent.
-  3. WE DO NOT distribute to third parties any personally identifiable information without prior parental consent.
-  4. WE DO NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.
-  5. WE DO NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
+Cognitive Concepts, Inc. is a wholly owned subsidiary of Houghton Mifflin Company.
 
-
-
-## Choice/Opt-Out
-
-You always have the opportunity to opt-out of receiving our communications at the point where we request your contact information. 
-
-If you wish to remove your contact information from our database and not receive future communications from us, click here and follow the instructions for removing your name. [www.earobics.com/privacy/](http://www.cogcon.com/privacy/)
-
-## Correct/Update
-
-Cognitive Concepts is putting together a way for you to update, correct, and otherwise modify your contact information once you have provided it. For more information on this effort, visit [www.earobics.com/privacy/](http://www.cogcon.com/privacy/)
-
-## Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at [webmaster@earobics.com](https://web.archive.org/web/20040605182940id_/http%3A//www.earobics.com/privacy/webmaster@cogcon.com).
+|  
