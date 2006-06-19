@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220015224id_/http%3A//www.dealsdirect.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619091910id_/http%3A//www.dealsdirect.com.au/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statements - Deals Direct Australia
 
@@ -84,7 +84,7 @@ Once your transaction is finalised, both the electronic and hard-copy informatio
 
 If you would like more information about the way we manage personal information which we hold about you, or are concerned that we may have breached your privacy, please contact us by email, fax or post: 
 
-**Email** : [privacy@dealsdirect.com.au](mailto:privacy@dealsdirect.com.au)  
+**Email us[ _here_](http://www.dealsdirect.com.au/contact_us.php)**  
 **Fax:** 02 9737 0121   
 **Post** : The Privacy Officer, DealsDirect, PO BOX 6520, SILVERWATER NSW 2126 
 
