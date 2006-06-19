@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstmediaworks.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225032855id_/http%3A//firstmediaworks.com/article.asp%3Fid%3D109540) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstmediaworks.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619231623id_/http%3A//www.firstmediaworks.com/article.asp%3Fid%3D109540) for the most accurate reproduction.*
 
 # MediaSpan Online Services
 
