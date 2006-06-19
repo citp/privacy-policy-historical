@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the m3forum.net privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213211845id_/http%3A//www.m3forum.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m3forum.net privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619082542id_/http%3A//www.m3forum.com/privacy.shtml) for the most accurate reproduction.*
 
 # BMW M3 Forum, Auto Information Exchange for BMW Enthusiasts!
 
