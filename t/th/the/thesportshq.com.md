@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesportshq.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222012756id_/http%3A//www.thesportshq.com/secure/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportshq.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619235150id_/http%3A//thesportshq.com/secure/en/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
