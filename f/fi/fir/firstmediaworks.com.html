@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firstmediaworks.com privacy policy that was archived on 2005-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051225032855id_/http%3A//firstmediaworks.com/article.asp%3Fid%3D109540) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstmediaworks.com privacy policy that was archived on 2006-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060619231623id_/http%3A//www.firstmediaworks.com/article.asp%3Fid%3D109540) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -17,19 +17,12 @@
 
 <!-- ******** STYLESHEETS ******** -->
 <link href="/stylesheets/allpages.css" rel="stylesheet" type="text/css" id="AllPagesStyles">
-<link href="/stylesheets/banner.css" rel="stylesheet" type="text/css" id="BanerStyles">
-<link href="/stylesheets/header.css" rel="stylesheet" type="text/css" id="HeaderStyles">
 <link href="/stylesheets/nav.css" rel="stylesheet" type="text/css" id="NavStyles">
-<!--<link href="/stylesheets/search_inside.css" rel="stylesheet" type="text/css" id="SearchStyles">-->
-<link href="/stylesheets/content.css" rel="stylesheet" type="text/css" id="ContentStyles">
-<link href="/stylesheets/inside.css" rel="stylesheet" type="text/css" id="InsideStyles">
-<!--<link href="/stylesheets/sponsor.css" rel="stylesheet" type="text/css" id="SponsorStyles">-->
-<link href="/stylesheets/headline.css" rel="stylesheet" type="text/css" id="HeadlineStyles">
-<link href="/stylesheets/poll.css" rel="stylesheet" type="text/css" id="PollAdsStyles">
-<link href="/stylesheets/footer.css" rel="stylesheet" type="text/css" id="FooterStyles">
-<link href="/stylesheets/framework.css" rel="stylesheet" type="text/css" id="FrameworkStyles">
-<link href="/stylesheets/channelcontentbar.css" rel="stylesheet" type="text/css" id="ChannelcontentbarStyles">
 <!-- ******** Javascript ******** -->
+<script language="javascript">
+var tempString;
+		tempString='';
+</script>
 
 <script language="JAVASCRIPT" src="/jsfiles/incDynamicMenus.js"></script>
 <script language="JAVASCRIPT" type="text/JavaScript">
@@ -44,7 +37,8 @@ function objMenuItem(sHTML, sURL, sTarget) {
 	this.sURL = sURL;
 	this.sTarget = sTarget;
 }
-// Create the Menu Arrays
+// Create the Menu Arrays 
+//****NOTE: ***** if you are using incMenuArrayScheduled.asp use subBuildScheduledMenuArrays() instead
 var aryMenu1 = new Array();
 aryMenu1[0] = new objMenuItem('Home','/default.asp','');
 aryMenu1[1] = new objMenuItem('Products/Services','/sectional.asp?id=5538','');
@@ -65,6 +59,29 @@ aryMenu1_2[2] = new objMenuItem('Listener Research & Metrics','/Article.asp?id=1
 aryMenu1_2[3] = new objMenuItem('Games and NTR Opportunities','/Article.asp?id=115142','');
 aryMenu1_2[4] = new objMenuItem('Network Advertising','/Article.asp?id=115520','');
 aryMenu1_2[5] = new objMenuItem('Training/Support','/Article.asp?id=115427','');
+var aryMenu2 = new Array();
+aryMenu2[0] = new objMenuItem('Home/About','/default.asp?c=1','');
+aryMenu2[1] = new objMenuItem('Products','/sectional.asp?id=5538&c=2','');
+aryMenu2[2] = new objMenuItem('News','/sectional.asp?id=7822&c=3','');
+aryMenu2[3] = new objMenuItem('Events','/Article.asp?id=180781&c=4','');
+aryMenu2[4] = new objMenuItem('Contact Us','/contactus.asp?c=5','');
+var aryMenu2_1 = new Array();
+aryMenu2_1[0] = new objMenuItem('Bios','/Article.asp?id=115744&c=1','');
+aryMenu2_1[1] = new objMenuItem('Career Opportunities','/Article.asp?id=115718&c=1','');
+aryMenu2_1[2] = new objMenuItem('Backgrounder','/Article.asp?id=115747&c=1','');
+aryMenu2_1[3] = new objMenuItem('Client Partners','/sectional.asp?id=7823&c=1','');
+var aryMenu2_2 = new Array();
+aryMenu2_2[0] = new objMenuItem('Content Management','/Article.asp?id=176346&c=2','');
+aryMenu2_2[1] = new objMenuItem('Streaming','/Article.asp?id=176364&c=2','');
+aryMenu2_2[2] = new objMenuItem('Custom Website Design','/Article.asp?id=115113&c=2','');
+aryMenu2_2[3] = new objMenuItem('Relationship Management','/Article.asp?id=115122&c=2','');
+aryMenu2_2[4] = new objMenuItem('Podcasting','/Article.asp?id=176362&c=2','');
+aryMenu2_2[5] = new objMenuItem('Classifieds','/Article.asp?id=176365&c=2','');
+aryMenu2_2[6] = new objMenuItem('Advertising','/Article.asp?id=115520&c=2','');
+aryMenu2_2[7] = new objMenuItem('Network Revenue','/Article.asp?id=176374&c=2','');
+aryMenu2_2[8] = new objMenuItem('Consumer Relationship & Loyalty Management','/Article.asp?id=176375&c=2','');
+aryMenu2_2[9] = new objMenuItem('Promotional and Fan Frenzy Sports Games','/Article.asp?id=115142&c=2','');
+aryMenu2_2[10] = new objMenuItem('Training/Support','/Article.asp?id=115427&c=2','');
 
 </script>
 
@@ -75,10 +92,26 @@ function MM_reloadPage(init) { // RELOADS THE WINDOW IF NAV 4 RESIZED
   else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
 }
 MM_reloadPage(true);
+function swapit(imgName)
+{
+
+//getElementById is not work in netscape
+//var oImage = document.getElementById(imgName);
+var oImage= document.images[imgName];
+
+oImage.src = oImage.src.replace(/-o(ff|n)/, (/-on/.test(oImage.src)) ? '-off' : '-on');
+
+return false;
+}
+function seeFrameLabel()
+{
+	
+}
 </script>
 
 
-<script language="javascript">
+<script language="javascript" type="text/javascript">
+/* <![CDATA[ */
 var gnFlashVersion = 0;
 var gbFlashAsked = false;
 var gbFlashEnabled = false;
@@ -104,7 +137,7 @@ function funTestFlashPlugin(nRequiredVersion, bAskDownload) {
 					gbFlashEnabled = false;
 				}
 				else if (windows) {
-					document.writeln('<SC'+'RIPT LANGUAGE="VBScript">');
+					document.writeln('<sc'+'ript language="vbscript">');
 					document.writeln('on error resume next');
 					document.writeln('gbFlashEnabled = false');
 					document.writeln('call subVBGetFlashVersion()');
@@ -118,7 +151,7 @@ function funTestFlashPlugin(nRequiredVersion, bAskDownload) {
 					document.writeln('	end if');
 					document.writeln(' Next');
 					document.writeln('end sub');
-					document.writeln('</SC'+'RIPT>');
+					document.writeln('</sc'+'ript>');
 					if (nRequiredVersion > gnFlashVersion) gbFlashEnabled = false;
 				}
 				else if (appVr.indexOf("Mac")!= -1) {
@@ -155,235 +188,184 @@ function funPromptForFlash(nRequiredVersion){
 	}
 }
 
+/* ]]> */
 </script>
 
 
 </head>
-<body class="body" onload="funPositionMenus();" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+<body class="body" onload="showMenu('Navigation',getImgX('positionObj')-5);funPositionMenus();" onresize="showMenu('Navigation',getImgX('positionObj')-5);funPositionMenus();" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
 
 
-<div id="SiteAlignment" align="center"><a name="top"></a>
-<table class="bodyTable" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-	 <td><table class="bodyEmbeddedTable" border="0" cellspacing="0" cellpadding="0">
-		 <tbody><tr>
-			<td class="bodyEmbeddedTableLeft"><!--BANNER_TOP--><!--LEADERBOARD-->
-			 <table border="0" cellpadding="0" cellspacing="0" class="headerBackground">
-		<!--
-		**************
-			HEADER
-		**************
-		-->
-				<tbody><tr>
-				 <td><table cellspacing="0" cellpadding="0" width="600" border="0">
-<tbody>
-<tr valign="top" align="left">
-<td valign="top" align="left"><a href="/default.asp"><img height="113" alt="home page" src="/images/header.gif" width="956" border="0"></a></td></tr></tbody></table>
-
-</td>
-				</tr>
-			 </tbody></table>
-			 <table border="0" cellpadding="0" cellspacing="0" class="contentBackground">
-				<tbody><tr>
-				 <td><table border="0" cellpadding="0" cellspacing="0" class="contentTable">
-					 <tbody><tr>
-		<!--
-		******************
-			LEFT COLUMN	
-		******************
-		-->
-						<td class="contentLeft"><!--
-						*************************************
-		 				* Main Navigation / Left Navigation *
-		 				*************************************
-		  				--><table border="0" cellpadding="0" cellspacing="0" class="navMainTable">		
-		 					<tbody><tr>
-							 <td class="navBackground"><table border="0" cellpadding="0" cellspacing="0" class="navTable">
-								 <tbody><tr>
-				 					<td colspan="3" class="navTopCapBg"><table border="0" cellpadding="0" cellspacing="0">
-					 					<tbody><tr>
-										 <td class="navTableTitle"></td>
-										 <td class="navTopCapRight"><img src="/images/trans.gif" width="1" height="1"></td>
-										</tr>
-									</tbody></table></td>
-								 </tr>
-								 <tr>
-				 					<td class="navTableLeft"><img src="/images/trans.gif" width="1" height="1"></td>
-									<td class="navTableCenter"><script language="JAVASCRIPT">
-										<!--
-										// Function That Initiates the Menus
-										funCreateNavigation();
-										//-->
-										</script><noscript><a href="/default.asp">Home</a><br>
-<a href="/sectional.asp?id=5538">Products/Services</a><br>
-<a href="/sectional.asp?id=5539">News</a><br>
-<a href="/Article.asp?id=117595">Events</a><br>
-<a href="/contactus.asp">Contact Us</a><br>
-<a href="/Article.asp?id=109541">About MediaSpan</a><br>
-<a href="/Article.asp?id=115747">Backgrounder</a><br>
-<a href="/Article.asp?id=115754">FAQs</a><br>
-<a href="/Article.asp?id=115718">Career Opportunities</a><br>
-<a href="/Article.asp?id=115744">Executive Team</a><br>
-<a href="http://www.mediaspangroup.com" target="_blank">MediaSpan Corporate</a><br>
-<a href="/Article.asp?id=115113">Custom Website Design</a><br>
-<a href="/Article.asp?id=115122">Consumer Relationship Marketing</a><br>
-<a href="/Article.asp?id=115128">Listener Research & Metrics</a><br>
-<a href="/Article.asp?id=115142">Games and NTR Opportunities</a><br>
-<a href="/Article.asp?id=115520">Network Advertising</a><br>
-<a href="/Article.asp?id=115427">Training/Support</a><br>
-</noscript>
-									</td>
-									<td class="navTableRight"><img src="/images/trans.gif" width="1" height="1" border="0"></td>
-								 </tr>
-								 <tr>
-				 					<td colspan="3" class="navBottomCapBg"><table border="0" cellpadding="0" cellspacing="0">
-					 					<tbody><tr>
-										 <td class="navTableFooter"><img src="/images/trans.gif" width="1" height="1"></td>
-										 <td class="navBottomCapRight"><img src="/images/trans.gif" width="1" height="1"></td>
-										</tr>
-									</tbody></table></td>
-								 </tr>
-								</tbody></table></td>
-							</tr>
-						 </tbody></table>
-						<!--
-						**********
-						* Search *
-						**********
-						-->
-		<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td><img src="/images/press_title.gif" border="0"></td>
+<center>
+ <table width="955" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr align="left" valign="top">
+	 <td width="258" align="left"><a href="/default.asp?c=1"><img src="/images/g-logo.gif" width="237" height="90" alt="Home Page" border="0" name="positionObj"><br>
+	<table cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr> 	
 	
-	</tr>
-	<tr><td><table border="0" cellspacing="0" width="100%" cellpadding="0">
-		<tbody><tr><td class="pollTableLeft"><img src="/images/trans.gif" width="1" height="1"></td><td class="PressReleasesLink"><div class="healinePressReleasesDiv"><a href="/Article.asp?id=114003&amp;spid=109540" class="healinePressReleases">September 21, 2005</a></div><a href="/Article.asp?id=114003&amp;spid=109540" class="PressReleasesLink">MediaSpan Consolidates its Online Business Units
+	<td width="19" valign="top"><img src="/images/g-nav-page-on.gif" width="19" height="35"></td>
+	
+	<td valign="top">
+	
+	<script language="JAVASCRIPT">
+			<!--
+			// Function That Initiates the Menus
+			funCreateNavigation(2);
+			//-->
+			</script>
+	<script language="JAVASCRIPT"><!--
+// Function That Initiates the Sub-Menus
+funCreateSubNavs(2, "2");
+//-->
+</script>
+</td></tr></tbody></table>
+		<table width="258" border="0" cellspacing="0" cellpadding="0">
+		 <tbody><tr>
+			<td align="right" valign="top"><img src="/images/trans.gif" width="258" height="32"></td>
+		 </tr>
+		 <tr>
+			<td align="right" valign="top"><table width="230" border="0" cellspacing="0" cellpadding="0">
+		 		<tbody><tr align="left" valign="top">
+				 <td colspan="3"><a href="/sectional.asp?id=7822&amp;c=3"><img src="/images/i-subhead-news.gif" width="230" height="19" border="0" alt="News"></a></td>
+				</tr>
+		 		<tr align="left" valign="top">
+				 <td width="2" class="cgDivisionColor"><img src="/images/trans.gif" width="2" height="214"></td>
+				 <td width="206" class="cgDivisionBoxGradientTop"><table width="226" border="0" cellspacing="0" cellpadding="0">
+					 <tbody><tr>
+				 		<td align="left" valign="top" class="cgDivisionBoxGradientBottom">
+						
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		
+		<tbody><tr>
+			<td align="left" valign="top">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="pollTableLeft"><img src="/images/trans.gif" width="1" height="1"></td><td class="PressReleasesLink"><div class="healinePressReleasesDiv"><a href="/Article.asp?c=3&amp;id=177132&amp;spid=5463" class="cgBoxHeadlines">February 21, 2006</a></div><a href="/Article.asp?c=3&amp;id=177132&amp;spid=5463" class="Text">MediaSpan Introduces New Web Products and 
+Ad Network for Local Newspapers</a></td><td class="pollTableRight"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr></tbody></table>
+		<br></td></tr>
+		
+		<tr>
+			<td align="left" valign="top">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="pollTableLeft"><img src="/images/trans.gif" width="1" height="1"></td><td class="PressReleasesLink"><div class="healinePressReleasesDiv"><a href="/Article.asp?c=3&amp;id=176389&amp;spid=5463" class="cgBoxHeadlines">February 6, 2006</a></div><a href="/Article.asp?c=3&amp;id=176389&amp;spid=5463" class="Text">MediaSpan Online Services Enters Partnership With Eonstreams to Create Exclusive Audio Streaming Solution for Local Broadcasters</a></td><td class="pollTableRight"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr></tbody></table>
+		<br></td></tr>
+		
+		<tr>
+			<td align="left" valign="top">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="pollTableLeft"><img src="/images/trans.gif" width="1" height="1"></td><td class="PressReleasesLink"><div class="healinePressReleasesDiv"><a href="/Article.asp?c=3&amp;id=176392&amp;spid=5463" class="cgBoxHeadlines">October 24, 2005</a></div><a href="/Article.asp?c=3&amp;id=176392&amp;spid=5463" class="Text">MediaSpan Study Finds that Interaction with Radio Station Websites Growing
+via Podcasts and Streaming Music</a></td><td class="pollTableRight"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr></tbody></table>
+		<br></td></tr>
+		
+		<tr>
+			<td align="left" valign="top">
+		<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="pollTableLeft"><img src="/images/trans.gif" width="1" height="1"></td><td class="PressReleasesLink"><div class="healinePressReleasesDiv"><a href="/Article.asp?c=3&amp;id=114003&amp;spid=5463" class="cgBoxHeadlines">September 21, 2005</a></div><a href="/Article.asp?c=3&amp;id=114003&amp;spid=5463" class="Text">MediaSpan Consolidates its Online Business Units
 To Encourage Integration of Offline and Online 
-Marketing Programs</a></td><td class="pollTableRight"><img src="/images/trans.gif" width="1" height="1"></td></tr>
-<tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr>
-<tr><td class="pollTableLeft"><img src="/images/trans.gif" width="1" height="1"></td><td class="PressReleasesLink"><div class="healinePressReleasesDiv"><a href="/Article.asp?id=114004&amp;spid=109540" class="healinePressReleases">September 1, 2005</a></div><a href="/Article.asp?id=114004&amp;spid=109540" class="PressReleasesLink">MediaSpan Online Services / First MediaWorks Provides Hurricane Relief Support for Radio Industry</a></td><td class="pollTableRight"><img src="/images/trans.gif" width="1" height="1"></td></tr>
-<tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr>
-
-		</tbody></table>
-	</td>
-	</tr>
+Marketing Programs at 4,500 Media Properties</a></td><td class="pollTableRight"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr></tbody></table>
+		<br></td></tr>
+		
 	</tbody></table>
 		
 						</td>
-		<!--
-		**********************
-			MIDDLE COLUMN
-		**********************
-		-->
-						<td class="contentCenter"><table border="0" cellpadding="0" cellspacing="0" class="insideMainTable">
-		 					<tbody><tr>
-							 <td class="insideBackground"><table border="0" cellpadding="0" cellspacing="0" class="insideTable">
-			  					 <tbody><tr>
-				 					<td colspan="3" class="insideTopCapBg">
-									 <table border="0" cellpadding="0" cellspacing="0">
-					 					<tbody><tr>
-										 <td class="insideTableTitle">Privacy Policy</td>
-										 <td class="insideTopCapRight"><img src="/images/trans.gif" width="1" height="1"></td>
-										</tr>
-									 </tbody></table></td>
-								 </tr>
-			  					 <tr>
-				 					<td class="insideTableLeft"><img src="/images/trans.gif" width="1" height="400"></td>
-									<td class="insideTableCenter" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-					 					<tbody><tr>
-										 <td><font class="Text"><br>
-<font class="Text"><p><strong>MediaSpan Online Services' Privacy Statements </strong></p><p>MediaSpan Online Services has created this privacy statement in order to demonstrate our firm commitment to protecting the privacy and security of personal information about our customers and others who visit our Web site. </p><p>The following discloses our information gathering and dissemination practices for the MediaSpan Online Services Web site, mediaspanonline.com. If you have any questions or concerns that are not answered by this statement, please send e-mail to <a href="mailto:info@mediaspanonline.com">info@mediaspanonline.com</a>. MediaSpan Online Services collects information throughout our Web site, including site statistics, domain names, and/or IP addresses to help diagnose problems with our server and to administer our Web site. </p><p>MediaSpan Online Services retains the content of e-mail you send us, your e-mail address, and our responses in order to handle any follow-up questions you may have. Our site's registration forms may require you to give us contact information (like your name, postal, and e-mail address) and financial information (like your bank account or credit card numbers). We use the contact information from these forms, as appropriate in the normal course of our business, to send requested information about our company, products or services, or to contact you when necessary. Financial information that is collected is used to bill you for products and services that you request. </p><p>This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Only authorized MediaSpan Online Services employees are permitted to have access to your personal information and such access is limited by need. Under no circumstances will MediaSpan Online Services sell any personally identifiable information to any third party for any reason. We may, however, share personal information with our business partners for the sole purpose of delivering products and services that you have requested. We may also release specific personal information to comply with valid legal processes such as criminal investigations, search warrants, subpoenas, or court orders. This site contains links to other Web sites. MediaSpan Online Services is not responsible for the privacy practices or the content of such web sites. If you have any reason to believe that your personal information retained by MediaSpan Online Services is incorrect, please send e-mail to <a href="mailto:info@mediaspanonline.com">info@mediaspanonline.com</a>. Your concern will be investigated and, if appropriate, our records will be updated. Alternatively, you can use the appropriate link on e-mailed marketing materials for immediate correction of your information.</p><p>&nbsp;<br></p></font>
-<br><font class="SubText"></font>
-<br>
-									 </font></td>
-									</tr>
-								</tbody></table></td>
-								<td class="insideTableRight"><img src="/images/trans.gif" width="1" height="1"></td>
-							 </tr>
-			  				 <tr>
-			 					<td colspan="3" class="insideBottomCapBg"><table border="0" cellpadding="0" cellspacing="0">
-				 					<tbody><tr>
-									 <td class="insideTableFooter"></td>
-									 <td class="insideBottomCapRight"><img src="/images/trans.gif" width="1" height="1"></td>
-									</tr>
-								</tbody></table></td>
-							 </tr>
-						 </tbody></table></td>
-						</tr>
-					 </tbody></table>
-					</td>
-	<!--
-	**********************
-		RIGHT COLUMN
-	**********************
-	-->
-					<td class="contentRight">
-					<!--
-					********************
-					* Page Sponsorship *
-					********************
-					-->
-					
-					<!--
-					********************
-					* ELS / Club Login *
-					********************
-					-->
-
-					<!--
-					************
-					* Tile Ads *
-					************
-					-->
-
-					</td>
-				 </tr>
-				</tbody></table></td>
-			</tr>
-		 </tbody></table>
-		 <table border="0" cellpadding="0" cellspacing="0" class="footerBackground">
-	<!--
-	**************
-		FOOTER
-	**************
-	-->
-			<tbody><tr>
-			 <td><table border="0" cellpadding="0" cellspacing="0" class="footerTable">
-	 			 <tbody><tr>
-					<td class="footerRow1"><img src="/images/trans.gif" width="1" height="1">
-</td>
-				 </tr>
-				 <!--BANNER_BOTTOM-->
-	 			 <tr>
-					<td class="footerRow2">
-					<!--
-					**************
-					* Site Index *
-					**************
-					--><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><form action="/default.asp" method="post" target="_top" id="siteIndexForm" name="siteIndexForm"></form>
-<td><select name="u" class="footerSiteIndex" onchange="submit();"><option>Site Map</option><option value="/default.asp">Home</option><option value="/sectional.asp?id=5538">Products/Services</option><option value="/Article.asp?id=115113">&nbsp;&nbsp;&nbsp;&nbsp;• Custom Website Design</option><option value="/Article.asp?id=115122">&nbsp;&nbsp;&nbsp;&nbsp;• Consumer Relationship Marketing</option><option value="/Article.asp?id=115128">&nbsp;&nbsp;&nbsp;&nbsp;• Listener Research &amp; Metrics</option><option value="/Article.asp?id=115142">&nbsp;&nbsp;&nbsp;&nbsp;• Games and NTR Opportunities</option><option value="/Article.asp?id=115520">&nbsp;&nbsp;&nbsp;&nbsp;• Network Advertising</option><option value="/Article.asp?id=115427">&nbsp;&nbsp;&nbsp;&nbsp;• Training/Support</option><option value="/sectional.asp?id=5539">News</option><option value="/Article.asp?id=117595">Events</option><option value="/contactus.asp">Contact Us</option><option value="/Article.asp?id=109541">About MediaSpan</option><option value="/Article.asp?id=115747">&nbsp;&nbsp;&nbsp;&nbsp;• Backgrounder</option><option value="/Article.asp?id=115754">&nbsp;&nbsp;&nbsp;&nbsp;• FAQs</option><option value="/Article.asp?id=115718">&nbsp;&nbsp;&nbsp;&nbsp;• Career Opportunities</option><option value="/Article.asp?id=115744">&nbsp;&nbsp;&nbsp;&nbsp;• Executive Team</option><option value="http://www.mediaspangroup.com">&nbsp;&nbsp;&nbsp;&nbsp;• MediaSpan Corporate</option><option value="/aboutthissite.asp">About This Site</option></select></td></tr></tbody></table>
-					</td>
-				 </tr>
-	 			 <tr>
-					<td class="footerCopyright">
-					<!--
-					*************
-					* Copyright *
-					*************
-					--><div class="footerCopyrightLinks"><a href="http://www.mediaspangroup.com" target="_blank" class="footerCopyrightLinks">Copyright © 2005 MediaSpan</a> </div><a href="/default.asp" class="footerCopyrightLinks">Powered by MediaSpan Online Services</a><br><a class="footerCopyrightLinks" href="/article.asp?id=109540">PRIVACY POLICY</a><!--future stat tag code goes here-->
-</td>
-				 </tr>
-			</tbody></table></td>
-			</tr>
-		 </tbody></table></td>
-	 </tr>
-	</tbody></table></td>
-			<td class="bodyEmbeddedTableRight"><!--SKYSCRAPER--></td>
+					 </tr>
+			 </tbody></table></td>
+				 <td width="2" class="cgDivisionColor"><img src="/images/trans.gif" width="2" height="214"></td>
+				</tr>
+		 		<tr align="left" valign="top">
+				 <td colspan="3" class="cgDivisionColor"><img src="/images/trans.gif" width="210" height="2"></td>
+				</tr>
+		</tbody></table></td>
+		 </tr>
+		</tbody></table>		</a></td>
+	 <td width="7"><img src="/images/trans.gif" width="7" height="100"></td>
+	 <td width="670"><table width="670" border="0" cellspacing="0" cellpadding="0">
+		 <tbody><tr>
+			<td align="left" valign="top">
+<table width="670" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr align="right" valign="top">
+				 <td><table width="121" border="0" cellspacing="0" cellpadding="0">
+					 <tbody><tr align="left" valign="top">
+						<td colspan="7"><img src="/images/trans.gif" width="100" height="24"></td>
+					 </tr>
+					 <tr align="left" valign="top">
+						<td width="22"><a href="http://www.mediaspangroup.com" target="_new" onmouseover="javascript: swapit('image1');" onmouseout="javascript: swapit('image1');"><img name="image1" src="/images/i-ms-nav-corp-off.gif" width="22" height="22" border="0"></a></td>
+						<td width="11"><img src="/images/trans.gif" width="11" height="22"></td>
+						<td width="22"><a href="http://www.mediaspanonline.com/" target="_new" onmouseover="javascript: swapit('image2');" onmouseout="javascript: swapit('image2');"><img name="image2" src="/images/i-ms-nav-Mediaonline-off.gif" width="22" height="22" border="0"></a></td>
+						<td width="11"><img src="/images/trans.gif" width="11" height="22"></td>
+						<td width="22"><a href="http://www.mediaspannetwork.com/" target="_new" onmouseover="javascript: swapit('image3');" onmouseout="javascript: swapit('image3');"><img name="image3" src="/images/i-ms-nav-network-off.gif" width="22" height="22" border="0"></a></td>
+						
+						<td width="11"><img src="/images/trans.gif" width="11" height="22"></td>
+						<td width="22"><a href="http://www.harrisbaseview.com/" target="_new" onmouseover="javascript: swapit('image4');" onmouseout="javascript: swapit('image4');"><img name="image4" src="/images/i-ms-nav-software-off.gif" width="22" height="22" border="0"></a></td>
+					 </tr>
+					</tbody></table></td>
+				 <td width="140"><a href="/contactus.asp"><img src="/images/g-contact-phone.gif" width="140" height="54" alt="Contact us" border="0"></a></td>
+				</tr>
+			 </tbody></table></td>
+		 </tr>
+		 <tr>
+			<td align="left" valign="top"><img src="/images/i-line-top.jpg" width="670" height="7"></td>
+		 </tr>
+		 <tr>
+			<td align="left" valign="top"><img src="/images/trans.gif" width="670" height="10"></td>
+		 </tr>
+		 <tr>
+		 
+			<td align="left" valign="top" height="45" background="/images/i-pagetitle-bg-1.jpg">
+		
+<table width="670" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+				 <td class="PageTitles">Privacy Policy</td>
+				</tr>
+			 </tbody></table></td>
+		 </tr>
+		 <tr>
+			<td align="left" valign="top"><img src="/images/trans.gif" width="670" height="20"></td>
 		 </tr>
 		</tbody></table>
-	
+		<table width="670" border="0" cellspacing="0" cellpadding="0">
+		 <tbody><tr>
+			<td align="left" valign="top" class="Text"><font class="Text"><p><strong>MediaSpan Online Services' Privacy Statements </strong></p><p>MediaSpan Online Services has created this privacy statement in order to demonstrate our firm commitment to protecting the privacy and security of personal information about our customers and others who visit our Web site. </p><p>The following discloses our information gathering and dissemination practices for the MediaSpan Online Services Web site, mediaspanonline.com. If you have any questions or concerns that are not answered by this statement, please send e-mail to <a href="mailto:info@mediaspanonline.com">info@mediaspanonline.com</a>. MediaSpan Online Services collects information throughout our Web site, including site statistics, domain names, and/or IP addresses to help diagnose problems with our server and to administer our Web site. </p><p>MediaSpan Online Services retains the content of e-mail you send us, your e-mail address, and our responses in order to handle any follow-up questions you may have. Our site's registration forms may require you to give us contact information (like your name, postal, and e-mail address) and financial information (like your bank account or credit card numbers). We use the contact information from these forms, as appropriate in the normal course of our business, to send requested information about our company, products or services, or to contact you when necessary. Financial information that is collected is used to bill you for products and services that you request. </p><p>This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Only authorized MediaSpan Online Services employees are permitted to have access to your personal information and such access is limited by need. Under no circumstances will MediaSpan Online Services sell any personally identifiable information to any third party for any reason. We may, however, share personal information with our business partners for the sole purpose of delivering products and services that you have requested. We may also release specific personal information to comply with valid legal processes such as criminal investigations, search warrants, subpoenas, or court orders. This site contains links to other Web sites. MediaSpan Online Services is not responsible for the privacy practices or the content of such web sites. If you have any reason to believe that your personal information retained by MediaSpan Online Services is incorrect, please send e-mail to <a href="mailto:info@mediaspanonline.com">info@mediaspanonline.com</a>. Your concern will be investigated and, if appropriate, our records will be updated. Alternatively, you can use the appropriate link on e-mailed marketing materials for immediate correction of your information.</p><p>&nbsp;<br></p></font>
+<br><font class="SubText"></font>
 
-</div>
-
+</td>
+			
+			
+							 </tr>
+		</tbody></table></td>
+	 <td width="10"><img src="/images/trans.gif" width="10" height="100"></td>
+	</tr>
+ </tbody></table>
+ <table width="955" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr align="left" valign="top">
+	 <td colspan="3"><img src="/images/trans.gif" width="955" height="10"></td>
+	</tr>
+	<tr align="left" valign="top">
+	 <td><img src="/images/trans.gif" width="28" height="7"></td>
+	 <td width="897"><img src="/images/f-line-bottom.jpg" width="897" height="7"></td>
+	 <td><img src="/images/trans.gif" width="30" height="7"></td>
+	</tr>
+	<tr align="left" valign="top">
+	 <td width="28"><img src="/images/trans.gif" width="28" height="28"></td>
+	 <td width="897"><table width="897" border="0" cellspacing="0" cellpadding="0">
+		 <tbody><tr align="left" valign="top">
+			<td colspan="3"><img src="/images/trans.gif" width="897" height="11"></td>
+		 </tr>
+		 <tr align="left" valign="top">
+			<td width="293" rowspan="2"><img src="/images/trans.gif" width="293" height="7"></td>
+			<td width="78" rowspan="2"><img src="/images/g-logo-footer.gif" width="78"></td>
+			<td width="526"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><form action="/default.asp" method="post" target="_top" id="siteIndexForm" name="siteIndexForm"></form>
+<td><select name="u" class="SiteIndex" onchange="submit();"><option>Site Index</option><option value="/default.asp?c=1">Home/About</option><option value="/Article.asp?id=115744&amp;c=1">&nbsp;&nbsp;&nbsp;&nbsp;• Bios</option><option value="/Article.asp?id=115718&amp;c=1">&nbsp;&nbsp;&nbsp;&nbsp;• Career Opportunities</option><option value="/Article.asp?id=115747&amp;c=1">&nbsp;&nbsp;&nbsp;&nbsp;• Backgrounder</option><option value="/sectional.asp?id=7823&amp;c=1">&nbsp;&nbsp;&nbsp;&nbsp;• Client Partners</option><option value="/sectional.asp?id=5538&amp;c=2">Products</option><option value="/Article.asp?id=176346&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Content Management</option><option value="/Article.asp?id=176364&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Streaming</option><option value="/Article.asp?id=115113&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Custom Website Design</option><option value="/Article.asp?id=115122&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Relationship Management</option><option value="/Article.asp?id=176362&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Podcasting</option><option value="/Article.asp?id=176365&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Classifieds</option><option value="/Article.asp?id=115520&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Advertising</option><option value="/Article.asp?id=176374&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Network Revenue</option><option value="/Article.asp?id=176375&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Consumer Relationship &amp; Loyalty Management</option><option value="/Article.asp?id=115142&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Promotional and Fan Frenzy Sports Games</option><option value="/Article.asp?id=115427&amp;c=2">&nbsp;&nbsp;&nbsp;&nbsp;• Training/Support</option><option value="/sectional.asp?id=7822&amp;c=3">News</option><option value="/Article.asp?id=180781&amp;c=4">Events</option><option value="/contactus.asp?c=5">Contact Us</option><option value="/aboutthissite.asp">About This Site</option></select></td></tr></tbody></table></td>
+		 </tr>
+		 <tr align="left" valign="top">
+			<td class="Copyright"><div class="CopyrightLink"><a href="http://www.mediaspangroup.com" target="_blank" class="CopyrightLink">Copyright © 2006 MediaSpan</a> </div><a href="/default.asp" class="CopyrightLink">Powered by MediaSpan Online Services</a><br><a class="CopyrightLink" href="/article.asp?id=109540">PRIVACY POLICY</a><!--future stat tag code goes here-->
+			</td>
+		 </tr>
+		</tbody></table></td>
+	 <td width="30"><img src="/images/trans.gif" width="30" height="28"></td>
+	</tr>
+ </tbody></table>
+ </center>
+ 
 
 
 <!--INCLUDE FILE="els/inc_elsparams.asp"-->
