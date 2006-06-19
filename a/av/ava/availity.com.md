@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the availity.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226070500id_/http%3A//www.availity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the availity.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619183245id_/http%3A//availity.com/privacy.htm) for the most accurate reproduction.*
 
 # Availity Privacy Policy
 
@@ -8,7 +8,7 @@
   
 Commitment to Confidentiality 
 
-Confidentiality is a top priority at Availity, L.L.C. ("Availity"). The purpose of this Privacy Statement is to inform you of information that is collected about you and how such information may be used. If you have questions or concerns regarding this statement, you should [contact us](https://web.archive.org/web/20051226070500id_/http%3A//www.availity.com/contact_home.htm "Contact Us").
+Confidentiality is a top priority at Availity, L.L.C. ("Availity"). The purpose of this Privacy Statement is to inform you of information that is collected about you and how such information may be used. If you have questions or concerns regarding this statement, you should [contact us](https://web.archive.org/web/20060619183245id_/http%3A//availity.com/contact_home.htm "Contact Us").
 
 At Availity we are very aware of your privacy concerns. In fact, we share your concerns and will not solicit personal information from you as you tour our site, though you may provide that information voluntarily. If you do elect to provide personal information to us, in no case will we sell, license, or transmit that information outside of Availity for any reason, unless you authorize us to do so. At times, we may request personal information from you through our site in order to deliver requested materials to you, respond to your questions, or deliver a product or service, and we will use your information for such purposes. If you provide an e-mail address, we may send you information via e-mail regarding Availity and/or third parties.
 
@@ -30,13 +30,13 @@ The Availity marketing web site and transaction gateway contains links to other 
 
 Security 
 
-Availity is committed to managing information transaction exchanges using state-of-the-art security systems and encryption technology which are designed so that data traveling through the Availity® Gateway is inaccessible to those who are not otherwise entitled to the information. Network and data security is fundamental to Availity. Our security and registration processes are designed to be compliant with evolving State and Federal regulations such as the [Health Insurance Portability and Accountability Act (HIPAA)](https://web.archive.org/web/20051226070500id_/http%3A//www.availity.com/hipaa_home.htm "HIPAA Information").
+Availity is committed to managing information transaction exchanges using state-of-the-art security systems and encryption technology which are designed so that data traveling through the Availity® Gateway is inaccessible to those who are not otherwise entitled to the information. Network and data security is fundamental to Availity. Our security and registration processes are designed to be compliant with evolving State and Federal regulations such as the [Health Insurance Portability and Accountability Act (HIPAA)](https://web.archive.org/web/20060619183245id_/http%3A//availity.com/hipaa_home.htm "HIPAA Information").
 
 Part of the Availity value to the health care community is helping to establish accurate information exchange. Availity does provide some level of data validation by performing health plan-specific edits, in addition to those that participating health plans may evoke, to ensure the highest degree of accuracy and turn-around time as possible. These edits are not a manipulation of any medical, financial, or other data, and Availity does not otherwise manipulate the data values.
 
 Availity provides a connection through which information passes and has no ownership interest in the data passing through our gateway. Our commitment to health care providers, health plans, and others is the secure movement of accurate health care information from one customer to another. The Availity Gateway allows providers, health plans, and other health care stakeholders to communicate without the need to fully convert their other applications or to cede any control of access to their databases or their database content.
 
-A listing of [HIPAA-related links](https://web.archive.org/web/20051226070500id_/http%3A//www.availity.com/reference_hipaa.htm "HIPAA Reference Page") is available for more information.
+A listing of [HIPAA-related links](https://web.archive.org/web/20060619183245id_/http%3A//availity.com/reference_hipaa.htm "HIPAA Reference Page") is available for more information.
 
   
 Correct/Update 
