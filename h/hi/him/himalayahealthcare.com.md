@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the himalayahealthcare.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123144409id_/http%3A//www.himalayahealthcare.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himalayahealthcare.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619124724id_/http%3A//himalayahealthcare.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Liv.52,Pure herbs,Ayurvedic products India,Herbal health care,Herbal care India,Himalaya herbal healthcare,Herbal medicines India,Ayurvedic herbs India,Alternative medicines India,Herbal products India,Natural herbal remedies India
 
