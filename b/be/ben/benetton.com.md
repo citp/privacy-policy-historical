@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benetton.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228170717id_/http%3A//www.benetton.com/html/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benetton.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619055450id_/http%3A//www.benetton.com/html/privacy/index.shtml) for the most accurate reproduction.*
 
 # United Colors of Benetton - Privacy
 
