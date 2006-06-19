@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paymentservicenetwork.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012050738id_/http%3A//www.paymentservicenetwork.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymentservicenetwork.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619183108id_/http%3A//www.paymentservicenetwork.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Your online payment service for paying rent to landlords, lodging to bed and breakfast or association dues.
 
