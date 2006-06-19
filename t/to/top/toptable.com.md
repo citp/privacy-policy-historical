@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2005-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050320043148id_/http%3A//www.toptable.com/feature.cfm%3FfID%3D8%26fromnav%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619135150id_/http%3A//toptable.co.uk/feature.cfm%3FfID%3D8%26lid%3D95) for the most accurate reproduction.*
 
-# privacy statement - toptable.co.uk
+# privacy statement - Online UK and London Restaurants Booking and Guide from toptable.co.uk
 
-Privacy Statement  
 By providing your personal details to us, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This privacy statement is incorporated into, and part of, the Terms and Conditions, which govern your use of the site in general. We will use your information for the purposes set out in paragraph 5 below. You will have an opportunity to unsubscribe whenever we communicate with you. To unsubscribe from toptable.co.uk communications please send an email to [info@toptable.co.uk](mailto:info@toptable.co.uk) with 'unsubscribe' in the subject box. 
 
 We may need to update this privacy statement from time to time. We recommend that you regularly check this page to ensure that you have read the most recent version. 
