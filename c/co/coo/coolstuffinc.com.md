@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolstuffinc.com privacy policy that was archived on 2005-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051202072139id_/http%3A//www.coolstuffinc.com/main_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolstuffinc.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619053836id_/http%3A//www.coolstuffinc.com/main_privacy.php) for the most accurate reproduction.*
 
-# Magic the Gathering Cards and Singles at CoolStuffInc.com
+# Magic the Gathering Cards - Board Games - Minatures - Supplies at CoolStuffInc.com.
 
   
 **Information We Collect and How We Use It  
