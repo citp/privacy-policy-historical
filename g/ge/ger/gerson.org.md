@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gerson.org privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223223534id_/http%3A//www.gerson.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerson.org privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619220131id_/http%3A//gerson.org/privacy.asp) for the most accurate reproduction.*
 
-# 
+# The Gerson Institute - Alternative Cancer Treatment
 
 This privacy notice discloses the privacy practices for (www.gerson.org). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
