@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210160030id_/http%3A//techreport.com/page.x%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619211751id_/http%3A//www.techreport.com/page.x%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
 
 # The Tech Report
 
@@ -6,19 +6,19 @@
 
 [](https://web.archive.org/reviews/)
 
-[Chipset Serial ATA and RAID performance compared](https://web.archive.org/reviews/2005q4/chipset-raid/index.x?pg=1)  
+[Computex 2006](https://web.archive.org/etc/2006q2/computex/index.x?pg=1)  
   
-[The Tech Report's Christmas 2005 giveaway](https://web.archive.org/etc/2005q4/giveaway/index.x)  
+[Western Digital's Raptor WD1500ADFD hard drive](https://web.archive.org/reviews/2006q2/raptor-wd1500/index.x?pg=1)  
   
-[DFI's LANParty UT RDX200 CD-DR motherboard](https://web.archive.org/reviews/2005q4/dfi-rdx200/index.x?pg=1)  
+[GeForce 7600 cards go head to head](https://web.archive.org/reviews/2006q2/geforce-7600s/index.x?pg=1)  
   
-[TR's system guide](https://web.archive.org/etc/2005q4/system-guide/index.x?pg=1)  
+[NVIDIA's GeForce 7950 GX2 graphics card](https://web.archive.org/reviews/2006q2/geforce-7950-gx2/index.x?pg=1)  
   
-[Abit's Fatal1ty AN8 SLI motherboard](https://web.archive.org/reviews/2005q4/abit-fatal1ty-an8sli/index.x?pg=1)  
+[AMD's Socket AM2 processors](https://web.archive.org/reviews/2006q2/socket-am2/index.x?pg=1)  
   
-[VIA's K8T900 chipset](https://web.archive.org/reviews/2005q4/via-k8t900/index.x?pg=1)  
+[Seagate's Barracuda 7200.10 hard drive](https://web.archive.org/reviews/2006q2/barracuda-7200.10/index.x?pg=1)  
   
-[Asus' A8N32-SLI Deluxe motherboard](https://web.archive.org/reviews/2005q4/asus-a8n32-sli/index.x?pg=1)  
+[GeForce 7900 series graphics cards compared](https://web.archive.org/reviews/2006q2/geforce-7900s/index.x?pg=1)  
   
 **[More...](https://web.archive.org/reviews/)** | 
 
@@ -65,18 +65,18 @@ damage@techreport.com
 
 | 
 
-[The Tech Report's Christmas 2005 giveaway](https://web.archive.org/redir_comments.x?id=9113)  
+[Friday night topic: Colonizing space?](https://web.archive.org/redir_comments.x?id=10194)  
   
-[Chipset Serial ATA and RAID performance compared](https://web.archive.org/redir_comments.x?id=9124)  
+[We could use a Conroe](https://web.archive.org/redir_comments.x?id=10184)  
   
-[Spring 2006 target steady for PlayStation 3 launch](https://web.archive.org/redir_comments.x?id=9130)  
+[Vista Premium requirements to steepen by June '07](https://web.archive.org/redir_comments.x?id=10177)  
   
-[Poll time: Primary voice telecommunication](https://web.archive.org/redir_comments.x?id=9122)  
+[Poll: How far have you overclocked your CPU?](https://web.archive.org/redir_comments.x?id=10182)  
   
-[Dell to intro 30" LCD monitor?](https://web.archive.org/redir_comments.x?id=9109)  
+[Computex 2006](https://web.archive.org/redir_comments.x?id=10189)  
   
-[Friday Night Topic: Reality TV revisited](https://web.archive.org/redir_comments.x?id=9133)  
+[NVIDIA faces AGP, inventory hurdles](https://web.archive.org/redir_comments.x?id=10160)  
   
-[AMD introduces new interactive roadmap](https://web.archive.org/redir_comments.x?id=9123)  
+[Analyst says Intel shares are 'dead money'](https://web.archive.org/redir_comments.x?id=10159)  
   
 **[More...](https://web.archive.org/)**
