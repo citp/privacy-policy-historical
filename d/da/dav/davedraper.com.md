@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davedraper.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220202633id_/http%3A//davedraper.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davedraper.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619164152id_/http%3A//davedraper.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IronOnline Privacy Policy
 
@@ -75,7 +75,7 @@ Laree Draper Dave Draper's IronOnline P. O. Box 1335 Aptos, CA 95001 831-466-918
 by Dave Draper, $24.95   
 Well written and motivating ** **  
 **[ORDER](http://davedraper.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=DDI&Product_Code=BISS&Category_Code=B)   
-[More Info ](https://web.archive.org/web/20051220202633id_/http%3A//davedraper.com/brother-iron-book-excerpt.html)**  
+[More Info ](https://web.archive.org/web/20060619164152id_/http%3A//davedraper.com/brother-iron-book-excerpt.html)**  
 —** ******
 
 ****STELLA'S KITCHEN**  
