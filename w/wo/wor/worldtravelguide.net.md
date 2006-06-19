@@ -1,68 +1,94 @@
-> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412185803id_/http%3A//www.worldtravelguide.net/includes/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619081105id_/http%3A//www.worldtravelguide.net/privacy.ehtml) for the most accurate reproduction.*
 
-# Columbus Privacy Policy
+# Privacy Policy - World Travel Guide
 
-Privacy Policy
+[](http://www.worldtravelguide.net/privacy.ehtml?)    [](http://www.guidemondialdevoyage.com/privacy.ehtml?)    [](http://www.guiamundialdeviajes.com/privacy.ehtml?)    [](http://www.derreisefuehrer.com/privacy.ehtml?)
 
-Columbus Publishing Ltd (CPL) is committed to protecting the privacy of the users of our websites and the overall integrity of the internet. To that end, we are disclosing here any issues related to privacy in the collection by CPL of personally identifiable information from users of our websites.
+|   | [Country Guides](http://www.worldtravelguide.net/country/ "Country Guides")  
+---|---  
+  | [City Guides](http://cityguide.travel-guides.com/city/ "City Guides")  
+  | [Airport Guides](http://www.worldairportguide.com/airport/ "Airport Guides")  
+  | [Attraction Guides](http://worldtouristattractions.travel-guides.com/attraction/ "Attraction Guides")  
+  | [Event Guides](http://www.worldeventsguide.com/ "World Events Guide")  
+  | [Tour Guides](http://www.worldtravelguide.net/tour/ "Tour Guides")  
+  | [Cruise Guides](http://cruise.travel-guides.com/cruise/ "Cruise Guides")  
+  | [World Clock](https://web.archive.org/clock/ "World Clock")  
+  | [Weather Guides](http://weather.travel-guide.com/weather/ "Weather Guides")  
+  | [Appendices](https://web.archive.org/appendices/ "Appendices")  
+  | [News](https://web.archive.org/news/ "News")  
+  | [Link to Us](https://web.archive.org/link_to_us.ehtml "Link to Us")  
+Travel Centre  
+  | [Travel Insurance](https://web.archive.org/travel_centre/redirect.ehtml?i=travel_insurance&url=http://www.preferential.co.uk/ "Travel Insurance")  
+  | [Car Hire](https://web.archive.org/travel_centre/redirect.ehtml?i=car_hire&url=http://www.beneluxcar.com/ "Car Hire")  
+  | [Brochures](https://web.archive.org/travel_centre/redirect.ehtml?i=brochures&url=/brochures/ "Brochures")  
+  | [Video](https://web.archive.org/travel_centre/redirect.ehtml?i=video&url=http://www.worldtravelguide.net/videos/index.ehtml "Video")  
+   
+  
+## 1\. Introduction
 
-We have adopted a set of information management guidelines that serve as the basis for our customer and advertiser relationships. These have been developed to comply with the Data Protection Act 1998. We take note of advice published from time to time by the Information Commissioner. Accordingly, guidelines are subject to change and any such changes to our privacy policy will be posted on this page without notification. 
+### 1.1
 
-Questions regarding this statement should be directed to [adsales@columbus-group.co.uk](mailto:adsales@columbus-group.co.uk)
+We are committed to protecting the privacy of visitors to the web site in accordance with the Data Protection Act 1998 (the "Act").
 
-For information on the Data Protection Act 1998 and the Information Commissioner please follow this link. [www.dataprotection.gov.uk](https://web.archive.org/web/20030412185803id_/http%3A//www.worldtravelguide.net/includes/www.dataprotection.gov.uk)
+### 1.2
 
-A summary of the measures taken by CPL to protect our users' privacy is as follows: 
+This privacy policy explains how we may collect personal data and how we use the information we may collect about you.
 
-  * We do not provide or sell your details to third parties unless you have specifically requested that we do so, in order that these advertisers and/or third parties can offer you information, goods and services that may be of interest to you. 
-  * We reserve the right to disclose information about member usage and demographics to advertisers and partners, but in anonymous aggregate form only. CPL will not reveal your personal identity in connection with the disclosure of such information. 
-  * We may contact users by email with updates about our website and its services. All our email correspondence includes an unsubscribe option. 
+## 2\. Information collected and retained by the Administrators
 
-What personally identifiable information do we collect about you?
+### 2.1
 
-We collect information on our users in two ways: through cookies, and through registration. For more information about cookies, please see below.
+We collect personal information about you from personal details provided by yourself in relation to the Services we offer to Users. We do not collect any sensitive personal information such as information on your racial or ethnic origins, political opinions, religious beliefs, trade union affiliations, sexual life, health or criminal history.
 
-We may require users to provide us with a name, email address, postal address, postcode, gender and date of birth in order to register for access to certain services. We may also ask for other non-mandatory demographic information from subscribers, including number of children and occupation. This information is stored by us and our data processors (see below).
+## 3\. Use of information by the Administrators
 
-Following registration we will employ a registration cookie to recognise a subscriber and his or her access privileges on our websites, as well as to track site usage. 
+### 3.1
 
-We may also collect personal information from you through your use of enquiry and feedback forms and every time you email us your details.
+We collect information which is necessary to:  
+**3.1.1** provide the Services to you;  
+**3.1.2** notify you of your Service order status; and  
+**3.1.3** carry out internal administration and analysis.
 
-We also log IP addresses, or the location of your computer on the internet, for systems administration and troubleshooting purposes. We occasionally use IP addresses to track a user's session, but do not link IP addresses to personally identifiable information. 
+### 3.2
 
-What do we do with the information collected?
+We can also use that information to enhance your visit to our web site by:  
+**3.2.1** telling you about new products, new services and special offers;  
+**3.2.2** tailoring your experience to your preferred choice of activities; and  
+**3.2.3** informing you of changes in our web site.
 
-We may perform statistical analyses of user behaviour in order to measure relative consumer interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or 'clicked' their advertising banners. In performing these statistical analyses, we will disclose information to third parties only in aggregate form. Personal information on individual subscribers will not be provided to any third party if you object.
+### 3.3
 
-We may periodically send you email updates on our websites and services offered by CPL and its advertisers. If you wish to opt out of receiving such information from us, please use the unsubscribe option included in all our email correspondence or send an email to [adsales@columbus-group.co.uk](mailto:adsales@columbus-group.co.uk) stating that you would prefer not to receive such mailings.
+By providing us with your personal information, you consent to us (and where relevant, our subsidiaries, affiliates and trusted partners) using (including collecting, storing and processing) your personal information. We will of course inform you of any changes to Privacy policy and you will have the opportunity to opt out of those changes which affect you.
 
-We will also use your information to target banner and box advertising on the site so you will see advertising that may be more relevant to you. You will never be targeted as an individual, but as a larger demographic group of similar users. This use of your personal information is contractual to the use of our websites. If you do not wish your information to be used in this way then you will be unable to use those areas of our websites that require registration. 
+## 4\. Accessing and amending your personal information
 
-With whom do we share the information we collect?
+We will process your personal data for the purposes set out in clause 3 above. If however, you have any queries or requests in relation to Data Protection please notify our Data Protection Compliance Officer at: Media House, Azalea Drive, Swanley, Kent BR8 8HU, United Kingdom
 
-We will not sell, trade or rent your personal information to others unless you have given us your permission. With your permission we will only share the information with carefully chosen, reputable and trustworthy third parties. Also, we may provide aggregate statistics on our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.
+## 5\. Disclosure to Third Parties
 
-We will provide subscribers a summary of all personal information that we process on them upon request. We will charge £50 for such requests. To make such a request, send an email to [adsales@columbus-group.co.uk](mailto:adsales@columbus-group.co.uk) and include the email address that you registered with along with your full postal address and postcode.
+### 5.1
 
-We are not responsible for the content or the privacy policies of Web sites to which our sites may link.
+We may disclose your information to necessary third parties to enable us to provide you with the Services. By requesting us to provide you with the Services you consent to this disclosure.
 
-We may employ external companies to act on our behalf as data processors for internal business purposes. Data processors will abide by the Privacy Policy detailed here and will not disclose personal details to any other organisations or use data other than for purposes required by us. This use of your personal details is contractual to the use of our websites. 
+### 5.2
 
-Cookies
+We also reserve the right to access and disclose to third parties your information to comply with applicable laws including but not limited to disclosure in accordance with the Act, the Regulation of Investigatory Powers Act 2000 and lawful authority requests, to safeguard the proper operation of our systems and to protect ourselves and our clients.
 
-What is a cookie?
+## 6\. Protection of personal information
 
-A cookie is a small, numeric text file that is stored by your browser on your computer's hard drive. Any information you provide to us is held securely on our web servers and not on your machine. 
+We use our reasonable endeavours, to ensure proper storage and careful disclosure of your personal information in order that nothing improper happens to your private information. These security measures mean that we may occasionally have to ask you for proof of identity before we are able to disclose personal information to you.
 
-Why do we use cookies?
+## 7\. External Web Sites
 
-Cookies make it possible for us to identify registered users without needing to ask for registration details every time you access one of our sites. Using cookies makes accessing our sites more convenient as you don't need to remember you username and password each time you enter.
+This privacy policy only applies to this web site. The web site may contain links to external web sites, some of which are displayed within a World Travel Guide Website Service frame. Please note that we are not responsible for the privacy practices of other web sites. We recommend that you check the privacy policy of any other web sites you may visit through the web site. The inclusion of links to such web sites does not imply any endorsement of the material on such sites nor any association with their owners or operators. If you have any complaints relating to such sites, please contact them directly.
 
-We may also use cookies to track registered or unregistered users as they travel through the site - for instance, we might use cookies to count the total number of unique users who are accessing the site over a particular period of time, or to ensure that you don't see a particular advert more than once. This information is only shared with third parties in aggregate form. The use of cookies in this way helps to make our systems more efficient.
+## 8\. Opt-In
 
-Opting to have an automatic login cookie on your computer's hard drive will allow you to bypass login screens, unless you have cookies disabled in your browser. Firewalls set up by your company network may prohibit the use of browser cookies.
+If you tick an opt-in box the Administrators will provide your information to selected third parties. We or they may contact you by mail, telephone or e-mail to let you know about services and products which may be of interest to you. You have the right to ask for a copy of the information held by us about you in our records in return for the payment of a small fee. You also have the right to correct any inaccuracies in the information.
+
+## 9\. Use of Cookies
+
+This website uses cookies. Cookies are small pieces of text that are written to your hard drive to store information about your use of the World Travel Guide Website Service. You have the right to refuse cookies (please see your web browser's help file for information on doing this), but by doing so you may disrupt the performance of the World Travel Guide Website Service or make it inoperable to you. 
 
   
-None of the information supplied by you can be viewed by other users of our websites.
-
-Please direct all general questions to [adsales@columbus-group.co.uk](mailto:adsales@columbus-group.co.uk)
+| 
