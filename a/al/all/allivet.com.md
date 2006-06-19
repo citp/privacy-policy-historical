@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allivet.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210055402id_/http%3A//www.allivet.com/terms_privacy.asp%3FID%3D106) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allivet.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619130452id_/http%3A//www.allivet.com/terms_privacy.asp%3FID%3D106) for the most accurate reproduction.*
 
 # Pet Medications | Veterinary Supplies | Pet Flea Control | Equine Supplements & Medications | Pet Vitamins
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20051210055402id_/http%3A//www.allivet.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20060619130452id_/http%3A//www.allivet.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
