@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226031934id_/http%3A//www.websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619184701id_/http%3A//www.websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,6 +67,6 @@ Postal Mail: Web Marketing Place
                       St. Louis, MO 63119  
 Telephone: 314-842-1446
 
-Copyright ©2001-2005 Website Marketing Plan .com (Web Marketing Place LLC) and Bobette Kyle. All rights reserved.
+Copyright ©2001-2006 Website Marketing Plan .com (Web Marketing Place LLC) and Bobette Kyle. All rights reserved.
 
 ###  [Web Marketing Place LLC](http://www.webmarketingplace.com/), 8050 Watson Road, Suite 315, St. Louis, MO 63119
