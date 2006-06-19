@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231075932id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619151016id_/http%3A//scriptlance.com/privacy.shtml) for the most accurate reproduction.*
 
-# ScriptLance.com - custom freelance programming, web designers, job listings and more...
+# ScriptLance.com Custom Freelance Programming. Outsource web projects to programmers and designers.
 
 | |    THE 20 LATEST PROJECTS  
 ---|---  
-[Cartoon Illustration](http://www.scriptlance.com/projects/1136014722.shtml)  
+[Translate Text](http://www.scriptlance.com/projects/1150729472.shtml)  
 ---  
-[Salon Menu Re-design](http://www.scriptlance.com/projects/1136014137.shtml)  
-[Nightlife Events Site](http://www.scriptlance.com/projects/1136013761.shtml) [](http://www.scriptlance.com/featured.shtml)  
-[Buying Unfinished Php Scripts](http://www.scriptlance.com/projects/1136012167.shtml)  
-[Advanced Mailing List App.](http://www.scriptlance.com/projects/1136011218.shtml)  
-[Php Employee Database Site](http://www.scriptlance.com/projects/1136010588.shtml)  
-[Proxy List 20000 +](http://www.scriptlance.com/projects/1136009946.shtml)  
-[Move My Linux Server](http://www.scriptlance.com/projects/1136009748.shtml)  
-[Thirty 200 Word Articles](http://www.scriptlance.com/projects/1136008934.shtml)  
-[Setup Shopcartdx_v4.29](http://www.scriptlance.com/projects/1136008232.shtml)  
-[Recipe Site Clone Components](http://www.scriptlance.com/projects/1136006348.shtml)  
-[Datring Script](http://www.scriptlance.com/projects/1136005616.shtml)  
-[Script Installation](http://www.scriptlance.com/projects/1136005034.shtml)  
-[Mambo/phpesp Member Integratio](http://www.scriptlance.com/projects/1136002787.shtml)  
-[Closed Bid Project](http://www.scriptlance.com/projects/1136002725.shtml)  
-[Server Admin](http://www.scriptlance.com/projects/1136002373.shtml)  
-[Logo Design For Travel Agency](http://www.scriptlance.com/projects/1136000306.shtml)  
-[Html Formatting - Xhtml 1.0](http://www.scriptlance.com/projects/1135999070.shtml)  
-[Sell Domain](http://www.scriptlance.com/projects/1135997439.shtml)  
-[Cd Rom Audio Content](http://www.scriptlance.com/projects/1135995069.shtml)  
+[Clone Of A Web Site](http://www.scriptlance.com/projects/1150728769.shtml)  
+[Text Link Exchange](http://www.scriptlance.com/projects/1150728119.shtml)  
+[Flash Game And Animation](http://www.scriptlance.com/projects/1150727509.shtml)  
+[News Site Development](http://www.scriptlance.com/projects/1150727241.shtml) [](http://www.scriptlance.com/featured.shtml)  
+[Subdomains And Cloaking Script](http://www.scriptlance.com/projects/1150727041.shtml)  
+[Simple Menu - Urgent](http://www.scriptlance.com/projects/1150726548.shtml)  
+[Custom Oscommerce](http://www.scriptlance.com/projects/1150726518.shtml)  
+[Flash Cards Needed](http://www.scriptlance.com/projects/1150726498.shtml)  
+[Update/redesign Webpage](http://www.scriptlance.com/projects/1150726335.shtml)  
+[C++ Ocx Expert Needed](http://www.scriptlance.com/projects/1150726173.shtml)  
+[Data Import Script](http://www.scriptlance.com/projects/1150726125.shtml)  
+[Onlines Games](http://www.scriptlance.com/projects/1150725265.shtml)  
+[Auto Page Generator (rssg) Mod](http://www.scriptlance.com/projects/1150722909.shtml)  
+[Login Script Useing Ccbill](http://www.scriptlance.com/projects/1150722830.shtml)  
+[Adbrite Clone](http://www.scriptlance.com/projects/1150721839.shtml)  
+[Mailing App/software/script](http://www.scriptlance.com/projects/1150721207.shtml)  
+[Search For Tags](http://www.scriptlance.com/projects/1150721012.shtml) [](http://www.scriptlance.com/featured.shtml)  
+[Specialised Site Spider](http://www.scriptlance.com/projects/1150720967.shtml)  
+[Web Design & Development](http://www.scriptlance.com/projects/1150720480.shtml)  
 | 
 
 ##  Privacy Statement for ScriptLance.com 
