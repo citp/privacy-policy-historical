@@ -1,0 +1,544 @@
+<!--The following is the downloaded HTML source of the uploading.com privacy policy that was archived on 2006-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060619210017id_/http%3A//uploading.com/privacy.php) for the most accurate reproduction.-->
+
+<html><head>
+<title>Uploading.com - The best file hosting  service!</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="Cache-Control" content="no-cache">
+
+<!-- google_ad_section_start -->
+
+<meta name="revisit-after" content="7 days">
+<meta name="robots" content="index, follow, all">
+<meta name="keywords" content="hosting, webhosting, webspace, webserver, backup, file exchange, bandwidth, free download, free downloads, free upload, upload, uploading, download, downloads, mp3, movies, music, videos, shareware, remote desktop, file synchronization, flirt, download movies, spyware remover, firewall software download, chatroom, file transfer, software downloads, file sharing, music downloads, webcam, file mirroring, free software downloads, photoshop, paint shop, download, music downloading, toolbar, playlist, music, kiss tips, file recovery, toner cartridge, edonkey, emule, spyware free download, Singles, ecards, free download, free video, digital photos, free music, photos, video download">
+<meta name="description" content="Uploading.com - The best file hosting service! Uploading.com provides free web space for your documents, pictures, music and movies.">
+
+<!-- google_ad_section_end -->
+
+<link href="http://67.15.237.55/css/style.css" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript">
+
+document.domain = 'uploading.com';
+
+function m_sales()
+ {
+    var str = "<a href=\"mail";
+    document.write(str);
+    str = "to:sale";
+    document.write(str);
+    str = "s@uploading.com\"";
+    document.write(str);
+    str = "class=blue><b>sale";
+    document.write(str);
+    str = "s@uplo";
+    document.write(str);
+    str = "ading.com</b></a>";
+    document.write(str);
+ }
+
+
+function m_abuse()
+ {
+   var str = "<a href=\"mail";
+   document.write(str);
+   str = "to:abus";
+   document.write(str);
+   str = "e@uploading.com\" ";
+   document.write(str);
+   str = "class=blue><b>abus";
+   document.write(str);
+   str = "e@uplo";
+   document.write(str);
+   str = "ading.com</b></a>";
+   document.write(str);
+ }
+
+
+function m_abuse1()
+ {
+   var str = "<a href=\"mail";
+   document.write(str);
+   str = "to:abus";
+   document.write(str);
+   str = "e@uploading.com\" ";
+   document.write(str);
+   str = "class=white><b>abus";
+   document.write(str);
+   str = "e@uplo";
+   document.write(str);
+   str = "ading.com</b></a>";
+   document.write(str);
+ }
+
+
+function m_support()
+ {
+   var str = "<a href=\"mail";
+   document.write(str);
+   str = "to:supp";
+   document.write(str);
+   str = "ort@uploading.com\" ";
+   document.write(str);
+   str = "class=blue><b>su";
+   document.write(str);
+   str = "pport@uplo";
+   document.write(str);
+   str = "ading.com</b></a>";
+   document.write(str);
+ }
+
+
+function m_support1()
+ {
+   var str = "<a href=\"mail";
+   document.write(str);
+   str = "to:supp";
+   document.write(str);
+   str = "ort@uploading.com\" ";
+   document.write(str);
+   str = "style=\"color:white\"><b>su";
+   document.write(str);
+   str = "pport@uplo";
+   document.write(str);
+   str = "ading.com</b></a>";
+   document.write(str);
+ }
+
+
+function m_admin()
+ {
+   var str = "<a href=\"mail";
+   document.write(str);
+   str = "to:admin";
+   document.write(str);
+   str = "@uploading.com\" ";
+   document.write(str);
+   str = "class=blue><b>a";
+   document.write(str);
+   str = "dmin@uplo";
+   document.write(str);
+   str = "ading.com</b></a>";
+   document.write(str);
+ }
+
+
+ function postupload()
+ {
+    postIt();
+ }
+
+
+function checkMail(email)
+{
+var filter  = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+if (filter.test(email))
+{
+return false;
+}
+else
+{
+return true;
+}
+}
+
+
+function check_types()
+{
+
+  if (document.uploadform.file_p.value == "") // select file
+   {
+     alert("Select file");
+     return false;
+   }
+   
+   
+/*
+  if (document.uploadform.fromemail.value == "") // from email
+   {
+     alert("You have not indicated your email address.");
+     return false;
+   } else
+  if (checkMail(document.uploadform.fromemail.value))
+   {
+     alert("You have indicated an invalid email address.”");
+     return false;
+   }
+
+  if (document.uploadform.toemail.value != "") // to email
+   {
+     if (checkMail(document.uploadform.toemail.value))
+      {
+        alert("The receiver’s address appears to be invalid");
+        return false;
+      }
+   }
+
+  if (!document.uploadform.ter.checked) // terms
+   {
+     alert("You must accept our terms of service.");
+     return false;
+   }
+  */
+  return true;
+}
+
+
+function upprogress()
+ {
+   if (percentage < 100)
+    {
+      document.progressform.submit();
+      setTimeout('upprogress()',5000);
+      prog_en = true;
+    }
+ }
+
+
+function limitText(limitField, limitCount, limitNum) {
+if (limitField.value.length > limitNum) {
+limitField.value = limitField.value.substring(0, limitNum);
+} else {
+limitCount.value = limitNum - limitField.value.length;
+}
+}
+
+
+function Check()
+{
+  if (is_sub) return false;
+
+if ((document.form1.link.value == "") || (document.form1.link.value == "http://www.uploading.com?get="))
+{
+alert("Enter the correct link.");
+return false;
+}
+if (document.form1.name.value == "")
+{
+alert("Enter your name.");
+return false;
+}
+if (document.form1.email.value == "")
+{
+alert("Enter you email address.");
+return false;
+}
+if (checkMail(document.form1.email.value))
+{
+alert("You have entered an invalid email address.");
+return false;
+}
+if (document.form1.desc.value == "")
+{
+alert("Describe the issue.");
+return false;
+}
+
+document.form1.submit();
+is_sub = true;
+return true;
+}
+</script><script language="JavaScript1.2" type="text/javascript">
+var percentage = 0;
+var status = "Download initialization";
+var progress ='';
+var time_elapsed = '00:00:00';
+var speed = '0 KB/sec';
+var downloadurl='';
+var filedel='';
+var filename='';
+var filesize='';
+var trnsfrd='';
+var one_progress = false;
+var prog_en = false;
+
+function SendDataToFlashMovie(per)
+{
+   try {
+   document.progress_bar.SetVariable("/:percentage", per);
+   } catch(e)
+   {
+   one_progress = true;
+   document.getElementById("progressbar1").innerHTML = "<b>Uploading.. " + per +"%</b>";
+   }
+}
+
+var percentage = '0';
+var progress = "Unknown";
+var time_elapsed = "Unknown";
+var speed = "Unknown";
+var status = "Upload initialization";
+var downloadurl = 'http://';
+
+function updateprogress()
+{
+ try {
+      document.getElementById("details1").innerHTML = progress;
+      document.getElementById("details2").innerHTML = time_elapsed + ' - ' + speed;
+      document.getElementById("statusdetails").innerHTML = 'Uploading';
+      SendDataToFlashMovie(percentage);
+      document.title = 'Uploading ' + percentage + '%';
+   if (percentage==100)
+    {
+      document.getElementById("upwait").style.display = '';
+    }
+ } catch (e) {};
+}
+
+
+function uploaddone()
+{
+ try {
+        document.getElementById('downloadurl').innerHTML = downloadurl;
+        document.getElementById('downloadhref').href = downloadurl;
+
+        document.getElementById('filedel').innerHTML = filedel;
+        document.getElementById('filedelhref').href = filedel;
+
+        document.getElementById('filename').innerHTML = filename;
+        document.getElementById('filesize').innerHTML = filesize;
+
+        document.getElementById("details1").innerHTML = progress;
+        document.getElementById("details2").innerHTML = time_elapsed + ' - ' + speed;
+
+        document.getElementById("statusdetails").innerHTML = '';
+        document.getElementById("uploadlocation1").style.display = '';
+        document.getElementById("uploadlocation2").style.display = '';
+        document.getElementById("uploadinfo").style.display = 'none';
+        document.getElementById("progressbar2").style.display = 'none';
+        document.getElementById("helpwindow").style.display = 'none';
+        document.getElementById("upwait").style.display = 'none';
+
+        if (one_progress)
+         {
+           document.getElementById("progressbar1").innerHTML = "<b>Uploading Done</b>";
+         }
+
+        SendDataToFlashMovie(100);
+        document.title = 'Uploading Done';
+        percentage = 101;
+ } catch (e) {};
+}
+
+
+function uploaderror(msg)
+ {
+ try {
+   document.getElementById('uploadwindow1').style.display= 'none';
+   document.getElementById('uploadwindow2').style.display= 'none';
+   document.getElementById('progressbar1').style.display= 'none';
+   document.getElementById('progressbar2').style.display= 'none';
+   document.getElementById("uploadlocation1").style.display = 'none';
+   document.getElementById("uploadlocation2").style.display = 'none';
+   document.getElementById("helpwindow").style.display = 'none';
+   document.getElementById("uploaderror").style.display = '';
+   document.getElementById("uperror").innerHTML = msg;
+ } catch (e) {};
+ }
+
+</script></head>
+
+
+
+
+
+<body>
+
+<!-- google_ad_section_start(weight=ignore) -->
+
+<!-- header -->
+<table cellpadding="0" cellspacing="0" align="center" width="721">
+<tbody><tr><td colspan="2" background="http://67.15.237.55/imgs/top/index2_03_02.jpg" width="721" height="29" style="background-repeat: no-repeat;">
+<div style="padding-left:420px;padding-top:5px">
+<a class="t_11" style="color: FFFFCC;" href="javascript:window.external.AddFavorite('http://www.uploading.com', 'Uploading.com - The best file hosting service!')"><b>Add bookmark</b></a>
+<a href="javascript:this.setHomePage('http://www.uploading.com')" class="t_11" style="behavior:url(#default#homepage); color: FFFFCC; margin-left: 15px;"><b>Set as homepage</b>
+</a></div><a href="javascript:this.setHomePage('http://www.uploading.com')" class="t_11" style="behavior:url(#default#homepage); color: FFFFCC; margin-left: 15px;">
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/en/"><img src="http://67.15.237.55/imgs/top/index2_03_04.jpg" border="0" width="361" height="87"></a>
+</td>
+<td valign="bottom" width="360" height="87" style="padding-bottom:5px;padding-right:5px;background-repeat: no-repeat;" background="http://67.15.237.55/imgs/top/index2_03_05.jpg">
+
+<table cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+<td colspan="2">
+
+
+<table cellpadding="0" cellspacing="1">
+<form action="search.php" method="get"></form>
+<tbody><tr>
+<td align="center" valign="top" style="padding-top:3px" nowrap="">
+<b>Search at Uploading:</b><br> <span style="font-size:7pt">version <font color="red"><b>2.0</b></font>: updated</span>
+</td>
+<td valign="top" nowrap="">
+<input type="text" name="q" value="" class="inp" style="width:140px;margin:0px;padding:0px;">
+<input type="image" style="margin-bottom:-2px;" src="http://67.15.237.55/imgs/but_find.gif" border="0" name="go" value="1">
+</td>
+</tr>
+
+</tbody></table>
+
+
+</td>
+</tr>
+<tr>
+<td>
+<a href="top.php" class="blue"><b>Uploading Top Files</b></a>
+</td>
+<td align="right" style="padding-right:5px">
+<table cellpadding="2" cellspacing="0"><tbody><tr>
+<td><a href="http://www.uploading.com/en/privacy.php"><img src="http://67.15.237.55/imgs/f_1.gif" border="0" width="21" height="14" alt="EN"></a></td>
+<td><a href="http://www.uploading.com/de/privacy.php"><img src="http://67.15.237.55/imgs/f_2.gif" border="0" width="21" height="14" alt="DE"></a></td>
+<td><a href="http://www.uploading.com/fr/privacy.php"><img src="http://67.15.237.55/imgs/f_3.gif" border="0" width="21" height="14" alt="FR"></a></td>
+<td><a href="http://www.uploading.com/pt/privacy.php"><img src="http://67.15.237.55/imgs/f_4.gif" border="0" width="21" height="14" alt="PT"></a></td>
+<td><a href="http://www.uploading.com/es/privacy.php"><img src="http://67.15.237.55/imgs/f_5.gif" border="0" width="21" height="14" alt="ES"></a></td>
+<td><a href="http://www.uploading.com/it/privacy.php"><img src="http://67.15.237.55/imgs/f_6.gif" border="0" width="21" height="14" alt="IT"></a></td>
+<td><a href="http://www.uploading.com/ru/privacy.php"><img src="http://67.15.237.55/imgs/f_7.gif" border="0" width="21" height="14" alt="RU"></a></td>
+</tr></tbody></table>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-top:7px;">
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="728" height="40" align="center" style="border-bottom:1px solid #585858">
+<tbody><tr>
+  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="banners.php" class="ma"><b>Banners</b></a></td>
+<td align="center" valign="bottom"><font color="#585858">|</font></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;" nowrap=""><a href="adv.php" class="ma"><b>Advertise with us</b></a></td>
+<td align="center" valign="bottom"><font color="#585858">|</font></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="abuse.php" class="ma" nowrap=""><b>Report abuse</b></a></td>
+<td align="center" valign="bottom"><font color="#585858">|</font></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="contact.php" class="ma"><b>Contact us</b></a></td>
+<td align="center" valign="bottom"><font color="#585858">|</font></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="privacy.php" class="ma"><b>Privacy policy</b></a></td>
+<td align="center" valign="bottom"><font color="#585858">|</font></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;" nowrap=""><a href="terms.php" class="ma"><b>Terms of service</b></a></td>
+<td align="center" valign="bottom"><font color="#585858">|</font></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;"><a href="faq.php" class="ma"><b>FAQ</b></a></td>
+<td align="center" valign="bottom"><font color="#585858">|</font></td>
+  <td align="center" valign="bottom" style="padding-bottom:5px;" nowrap=""><a href="account.php" class="ma"><b>Account Login</b></a></td>
+</tr>
+</tbody></table>
+
+
+
+
+<!-- google_ad_section_end(weight=ignore) -->
+
+<!-- google_ad_section_start -->
+
+<table cellpadding="0" cellspacing="0" border="0" width="700" align="center">
+<tbody><tr>
+<td width="180" align="left" valign="top" style="text-align: justify;">
+
+</td>
+<td valign="top" style="padding-top:10px; text-align: justify;">
+<p style="font: bold 14px Tahoma; margin: 0px; margin-left: 30px;">Confidentiality at Uploading.com</p>
+<img src="http://67.15.237.55/imgs/p_10.gif" width="520" height="25"><br>
+
+
+<ul>
+<li><b>IP-address registration</b><br>
+Our web server is not able to read our user's domain or email info. In order to keep track of visitors and to identify our users Uploading.com registers IP addresses.<br>
+<br>
+</li><li><b>Collecting email addresses.</b><br>
+Our service collects email addresses belonging to senders and receivers with the sole purpose of registering users and keeping track of the number of people visiting. We do not disclose personal information to people who have no direct connection to Uploading.com. We reserve the right to send you newsletters and information about service changes
+<br>
+
+
+<br>
+</li><li><b>Exceptions for Non-Disclosure Agreement.</b><br>
+We may disclose your personal information in cases when it is required by law that we defend our rights. Your information shall also be disclosed in cases when such information is harmful/potentially harmful or can pose a threat for a person’s physical safety. The disclosure of personal information may be required by court or law enforcement officials.<br>
+<br>
+</li><li><b>Using Cookies</b><br>
+Uploading.com uses cookies only to save user's settings and only in cases when they officially allow doing so.<br>
+
+
+<br>
+</li><li><b>File transfer safety</b><br>
+We accept all the possible security measures on our servers in order to prevent the loss of data, inaccurate use of information, as well as file damage. Files saved for transferring are available for viewing only to Uploading.com representatives or via the link that is given to the user who uploaded the file. Files saved on our server are deleted automatically after a certain period of time.<br>
+<br>
+</li><li><b>Advertising through intermediaries</b><br>
+Ads on our website are presented by advertising intermediaries. These companies are free to use information concerning your visiting our website and other web pages (excluding your personal info, such as name, address, email address and phone number) with the purpose of advertising products and services that would interest you most as a perspective customer.<br>
+<br>
+</li><li><b>Intermediarie's cookies</b><br>
+Advertising intermediaries are able to detect your browser’s unique cookies while advertising.<br>
+</li></ul>
+<br></td>
+</tr>
+</tbody></table>
+
+
+
+<!-- google_ad_section_end -->
+
+<!-- google_ad_section_start(weight=ignore) -->
+
+<!-- footer -->
+<table cellpadding="0" cellspacing="0" align="center" width="721">
+<tbody><tr>
+  <td background="http://67.15.237.55/imgs/foot.gif" width="721" height="65">
+<table width="100%" border="0" height="100%">
+<tbody><tr>
+<td>
+<div style="color: 707070; font-size: 10px; margin-left: 65px;">
+Copyright 2005 Uploading.com. All right reserved.
+</div>
+</td>
+<td valign="bottom" style="padding-right:100px;padding-bottom:15px">
+<a href="wsignup.php"><b>$Webmasters$</b></a>
+</td>
+</tr>
+</tbody></table>
+  </td>
+</tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+<center>
+<!-- etracker sedo CODE 2.0.0 -->
+<map name="mse">
+<area shape="RECT" alt="Sedo - Buy and Sell Domain Names and Websites" target="_blank" href="http://www.sedo.com" coords="1,1,100,40">
+<area shape="RECT" alt="project info: uploading.com" target="_blank" href="http://www.sedo.com/search/details.php4?domain=uploading.com" coords="1,70,100,80">
+<area shape="RECT" alt="Statistics for project uploading.com" target="_blank" href="http://www.sedotracker.com/soverview.php?domain=uploading.com" coords="1,82,100,92">
+<area shape="RECT" alt="etracker� web controlling instead of log file analysis" target="_blank" href="http://www.etracker.de" coords="1,100,100,120">
+</map>
+<script language="JavaScript">
+var et_server="www.sedotracker.com/cnt.php";var et_sw,et_sc="na";var et_pl,tmp;
+if(navigator.appName=='Netscape'||navigator.appName=='Opera'){for(i=0;i<
+navigator.plugins.length;++i)et_pl+=navigator.plugins[i].name+';';et_pl=
+escape(et_pl);}function et_eC(param){var et_ref=escape(document.referrer);
+if(typeof(top.document)=="object")et_ref=escape(top.document.referrer);
+if(et_ref!="")et_ref="&ref="+et_ref;et_sw="&swidth="+et_sw;et_sc=
+"&scolor="+et_sc;if(et_pl!="")et_pl="&p="+et_pl;tc=new Date();
+document.write("<img border='0' alt='' width='100' height='120' usemap='#mse' "+
+"src='http://"+et_server+"?java=y&tc="+tc.getTime()+"&et="+param+
+"&bp=1&easy=1"+et_sw+et_sc+et_ref+et_pl+"'>");}</script>
+<script type="text/javascript1.2">et_sw=screen.width;et_sc=navigator.
+appName!='Netscape'?screen.colorDepth:screen.pixelDepth;</script>
+<script type="text/javascript">et_eC('lgKCbx');</script><img border="0" alt="" width="100" height="120" usemap="#mse" src="http://www.sedotracker.com/cnt.php?java=y&amp;tc=1582146356705&amp;et=lgKCbx&amp;bp=1&amp;easy=1&amp;swidth=800&amp;scolor=24&amp;p=undefined">
+
+<!-- etracker sedo CODE NOSCRIPT -->
+<noscript>
+<img border="0" width="100" height="120" alt="" usemap="#mse" src="http://www.sedotracker.com/cnt.php?et=lgKCbx&java=n&et_easy=1&bp=1">
+</noscript>
+<!-- etracker sedo CODE END -->
+</center>
+
+<!-- google_ad_section_end(weight=ignore) -->
+
+</body></html>
