@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petrolprices.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230034633id_/http%3A//www.petrolprices.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petrolprices.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619214118id_/http%3A//www.petrolprices.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PetrolPrices.com
 
@@ -10,8 +10,8 @@ PetrolPrices.com may be required to revise this Privacy Policy in the future to 
 
 ## When you access PetrolPrices.com
 
-  * PetrolPrices.com uses [cookies](https://web.archive.org/web/20051230034633id_/http%3A//www.petrolprices.com/privacy-full.html) to store and collect information about your usage of the site in order to enhance your online experience and to help us improve the quality of our services.
-  * When you access PetrolPrices.com, your computer automatically sends us information such as the URL on our site you have visited, your [IP address](https://web.archive.org/web/20051230034633id_/http%3A//www.petrolprices.com/privacy-full.html), your browser type and language, and the date and time of your request.
+  * PetrolPrices.com uses [cookies](https://web.archive.org/web/20060619214118id_/http%3A//www.petrolprices.com/privacy-full.html) to store and collect information about your usage of the site in order to enhance your online experience and to help us improve the quality of our services.
+  * When you access PetrolPrices.com, your computer automatically sends us information such as the URL on our site you have visited, your [IP address](https://web.archive.org/web/20060619214118id_/http%3A//www.petrolprices.com/privacy-full.html), your browser type and language, and the date and time of your request.
   * If you perform a search on PetrolPrices.com, your searches are logged and may be used internally, so as to better personalise our service to you. 
 
 
@@ -19,8 +19,8 @@ PetrolPrices.com may be required to revise this Privacy Policy in the future to 
 ## When you Subscribe to PetrolPrices.com
 
   * **Your personal details will never be passed onto any other companies or third parties including affiliates and will never be added to any third party mailing lists or databases.**
-  * PetrolPrices.com collects [personal information](https://web.archive.org/web/20051230034633id_/http%3A//www.petrolprices.com/privacy-full.html) when you register on the site. Your information will be stored confidentially by us and only used by PetrolPrices.com and sites owned by Fubra Ltd in order to provide you with access to our products, services and information that we believe will interest you.
-  * Fubra Limited (trading as PetrolPrices.com) may also use information about our users in statistical aggregate form. This is [non personal information](https://web.archive.org/web/20051230034633id_/http%3A//www.petrolprices.com/privacy-full.html) but simply refers to information such as number of registrations, traffic patterns and site user trends.
+  * PetrolPrices.com collects [personal information](https://web.archive.org/web/20060619214118id_/http%3A//www.petrolprices.com/privacy-full.html) when you register on the site. Your information will be stored confidentially by us and only used by PetrolPrices.com and sites owned by Fubra Ltd in order to provide you with access to our products, services and information that we believe will interest you.
+  * Fubra Limited (trading as PetrolPrices.com) may also use information about our users in statistical aggregate form. This is [non personal information](https://web.archive.org/web/20060619214118id_/http%3A//www.petrolprices.com/privacy-full.html) but simply refers to information such as number of registrations, traffic patterns and site user trends.
   * If you register for our email alert service, your preferences including location and type of fuel you are interested in are logged in order to update you with the most relevant information.
 
 
