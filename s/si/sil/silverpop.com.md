@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the silverpop.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231230114id_/http%3A//www.silverpop.com/about/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverpop.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619191540id_/http%3A//silverpop.com/about/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Silverpop
 
 **Effective Date: 8/1/2005**
 
-Silverpop has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Because we gather important information from our customers and visitors, we have established this Statement as a means to communicate our information gathering and dissemination practices. Visitors and customers can update their personal information by visiting our personal preference page at <http://www.silverpop.com/preferences/>.
+[](http://www.truste.org/ivalidate.php?url=www.silverpop.com&sealid=101)Silverpop has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Because we gather important information from our customers and visitors, we have established this Statement as a means to communicate our information gathering and dissemination practices. Visitors and customers can update their personal information by visiting our personal preference page at <http://www.silverpop.com/preferences/>.
 
  **Information Collection and Usage**  
 
@@ -65,6 +65,6 @@ Atlanta, GA 30339
 
 Phone: 678-247-0500
 
-[](https://www.truste.org/ivalidate.php?url=www.silverpop.com)Silverpop is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site [http://www.silverpop.com](http://www.silverpop.com/).  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+[Silverpop is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site ](https://www.truste.org/ivalidate.php?url=www.silverpop.com)[http://www.silverpop.com](http://www.silverpop.com/).  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact the Chief Privacy Officer at the contact address above or via [privacy@silverpop.com](mailto:privacy@silverpop.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> .  TRUSTe will then serve as a liaison with us to resolve your concerns.
