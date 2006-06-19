@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statistics.gov.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212145958id_/http%3A//www.statistics.gov.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statistics.gov.uk privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619212624id_/http%3A//www.statistics.gov.uk/privacy.asp) for the most accurate reproduction.*
 
 # National Statistics Online - privacy - copyright statement
 
