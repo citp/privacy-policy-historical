@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingchaos.co.uk privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215000256id_/http%3A//www.weddingchaos.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingchaos.co.uk privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619124401id_/http%3A//www.weddingchaos.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Wedding Chaos - Privacy Policy
 
