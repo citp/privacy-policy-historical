@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blair.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212150624id_/http%3A//www.blair.com/webapp/wcs/stores/servlet/GeneralDisplayView%3Fpage%3Dprivacy%26catalogId%3D10001%26storeId%3D10001%26langId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blair.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619190740id_/http%3A//www.blair.com/webapp/wcs/stores/servlet/LandingPageView%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D10001%26landingNavigation%3Dtrue%26landingPage%3DStaticPages/privacy) for the most accurate reproduction.*
 
 # Blair.com
 
@@ -21,10 +21,10 @@ While shopping on the Blair.com site, you may be requested to provide informatio
 
 If you provide us with a mailing address when placing an order, you may receive Blair catalogs that we feel might interest you. We may also provide your name and address to other quality companies whose products you may find of interest. If you would rather not receive offers from other companies, please send your full name, address and customer number to: 
 
-                 Blair Corporation  
-                 Mail Preference Service  
-                 220 Hickory St.  
-                 Warren, PA 16366
+                 Blair Corporation  
+                 Mail Preference Service  
+                 220 Hickory St.  
+                 Warren, PA 16366
 
 Information you include in your personal Blair.com "My Account," such as credit card numbers and friends' addresses, remains in your "My Account" section and is only used to process your order and to make your Blair.com shopping experience quicker and more enjoyable. 
 
