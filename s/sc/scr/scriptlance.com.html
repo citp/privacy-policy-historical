@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the scriptlance.com privacy policy that was archived on 2005-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231075932id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scriptlance.com privacy policy that was archived on 2006-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060619151016id_/http%3A//scriptlance.com/privacy.shtml) for the most accurate reproduction.-->
 
 <html><head>
-<title>ScriptLance.com - custom freelance programming, web designers, job listings and more...</title>
-<!-- Find expert freelance programmers and designers at the prices you want to pay. Post your project and freelancers will compete for your business, you choose the price you want to pay. Get programming done for your site in perl/cgi, php, java, asp, plus web design, search engine optimization, marketing, writing, job listings and so much more. -->
-<meta name="keywords" content="programming, freelance programming, jobs, job listings, c programming, java programming, html programming, database programming, custom programming, programmers, computer programmer, freelance programmer, marketing, writing, free java script, perl script, cgi script, vb script, php script, free cgi script, asp script, free script, free php script, cgi, perl, asp, java, javascript, c/c++, php, php4, php5, flash, xml, python, cold fusion, cfml, script, scripts, cgi-bin, bin, active server pages, macromedia, mysql, sql, mssql, pgsql, postgresql, oracle, dbm, database, systems, language, custom, modification, idea, ideas, system, community, freelance, business, businesses, job, professional, professionals, program, working, free, cheap, working, cgi, link, manage, unix, windows, designers, html, webmaster, webmasters, jimmy, computer, server, host, site, amazing, bouncer, ssi, module, free cgi, rene, trescases">
-<meta name="description" content="Find expert freelance programmers and designers at the prices you want to pay. Post your projects and programmers will place bids, you choose the price you want. Get programming done for your site in perl/cgi, php, java, asp, plus web design and so much more.">
+<title>ScriptLance.com Custom Freelance Programming. Outsource web projects to programmers and designers.</title>
+<!-- Outsource your projects to freelance programmers and designers at cheap prices. Freelancers will compete for your business. Get programming done for your site in php, mysql, xml, perl/cgi, javascript, asp, plus web design, search engine optimization, marketing, writing, job listings and so much more. -->
+<meta name="keywords" content="programming, freelance, programmers, outsource, outsourcing, jobs, job listings, c programming, java programming, html programming, database programming, custom programming, computer programmer, freelance programmer, marketing, writing, java script, perl script, cgi script, vb script, php script, free cgi script, asp script, script, free php script, cgi, perl, asp, java, javascript, c/c++, php, php4, php5, flash, xml, python, cold fusion, cfml, script, scripts, cgi-bin, bin, active server pages, macromedia, mysql, sql, mssql, pgsql, postgresql, oracle, database, systems, language, custom, modification, community, business, businesses, job, professional, professionals, program, working, cheap, link, manage, unix, windows, designers, html, webmaster, webmasters, computer, server, host, site, module">
+<meta name="description" content="Outsource your projects to freelance programmers and designers at cheap prices. Freelancers will compete for your business. Get programming done for your site in php, mysql, xml, perl/cgi, javascript, asp, plus web design, search engine optimization, marketing, writing, job listings and so much more.">
 <link rel="stylesheet" href="/st.css">
 <link rel="alternate" type="application/rss+xml" title="Scriptlance Projects" href="http://www.scriptlance.com/cgi-bin/freelancers/rss_projects.cgi">
 <script language="Javascript">
@@ -25,37 +25,78 @@ if ( end == -1 )
     end = document.cookie.length;
 return unescape( document.cookie.substring(len,end) );
 }
-
+function getElementById(id)
+{
+    if (document.getElementById && document.getElementById(id))
+	return document.getElementById(id);
+    else if (document.id)
+    	return document.id;
+    else if (document.all)
+   	return document.all.id;
+    else
+	return null;
+}
 function FillName()
 {
-var uname = GetCookie('username');
-if (! uname)
-    uname = GetCookie('f_username');
-if (uname)
-    document.login.username.value = uname;
+var username = GetCookie('username');
+var f_username = GetCookie('f_username');
+var password = GetCookie('password');
+var f_password = GetCookie('f_password');
+var logindiv = getElementById('login');
+if (username && password)
+    logindiv.innerHTML = "<table><tr><td>Welcome, <b>" + username + "</b><br><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/buyers.cgi?manage=1' class=ml>Manage Account</a></li><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/buyers.cgi?new=project' class=ml>Post Project</a></li><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/jobs.cgi' class=ml>Post Job Listing</a></li><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/buyers.cgi?logout=1' class=ml>Logout</a></li></td></tr></table>";
+if (f_username && f_password)
+{
+    logindiv.innerHTML += "<table><tr><td>Welcome, <b>" + f_username + "</b><br><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/freelancers.cgi?manage=1' class=ml>Manage Account</a></li><li><a href='https://www.scriptlance.com/programmers/projects.shtml' class=ml>View Projects</a></li><li><a href='https://www.scriptlance.com/cgi-bin/freelancers/freelancers.cgi?logout=1' class=ml>Logout</a></li></td></tr></table>";
+    if (! username || ! password)
+   	logindiv.innerHTML += "<br><table><tr><td><a href='https://www.scriptlance.com/cgi-bin/freelancers/buyers.cgi?login=1'>Login as Webmaster...</a></td></tr></table>";
+}
+else if (username && password)
+    logindiv.innerHTML += "<br><table><tr><td><a href='https://www.scriptlance.com/cgi-bin/freelancers/freelancers.cgi?login=1'>Login as Programmer...</a></td></tr></table>";
+else
+{
+    if (username)
+	uname = username;
+    else if (f_username)
+	uname = f_username;
+    else
+	uname = '';
+    logindiv.innerHTML =  
+	"    <form method=POST action=https://www.scriptlance.com/cgi-bin/freelancers/auto_login.cgi name=login>" +
+	"<table cellspacing=0 cellpadding=0>" +
+	"	<tr><td height=9 colspan=3></td></tr>" +
+	"        <tr><td align=right width=64 class=pa>Login: &nbsp; </td><td colspan=2><input type=text name=username class=go1 value='" + uname + "'></td></tr>" +
+	"        <tr><td align=right width=64 class=pa>Password: &nbsp; </td><td><input type=password name=password class=go2></td><td><input type=image src=/images/buttons/m16.gif width=30 height=19 name=submit value=Login></td></tr>" +
+	"        <tr><td width=64></td><td colspan=2><input type=checkbox name=remember_me value=1> Remember me</td></tr>" +
+	"</table>"+
+	"    </form>" +
+	"<table>" +
+	"<TR><TD align=right ><IMG height=8 hspace=5 src=/images/m18.gif width=8> <A class=ml  href=https://www.scriptlance.com/cgi-bin/freelancers/freelancers.cgi?forgot=find>Forgot password?</A> <IMG height=8 hspace=5 src=/images/m99.gif width=8> <A class=ml href=https://www.scriptlance.com/cgi-bin/freelancers/auto_login.cgi?logout=1>Logout</A></TD></TR>" +
+	"</table>";
+}
 }
 </script></head>
 
- 
+
 
 <body topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0" onload="FillName()">
-<form method="GET" action="/cgi-bin/freelancers/search.cgi">
  <table cellspacing="0" cellpadding="0" height="100%" width="100%">
    <tbody><tr><td valign="top" class="bg2">
-        <table cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+         <table cellspacing="0" cellpadding="0" bgcolor="#ffffff">
          <tbody><tr><td><a href="/"><img src="/images/m01.gif" width="166" height="104" border="0"></a><img src="/images/m02.gif" width="181" height="104"><img src="/images/m03.jpg" width="167" height="104"></td>
              <td>
               <table cellspacing="0" cellpadding="0">
+<form method="GET" action="/cgi-bin/freelancers/search.cgi"></form>
                <tbody><tr><td colspan="3"><img src="/images/m11.jpg" width="261" height="19"></td></tr>
                <tr><td colspan="3"><img src="/images/m12.gif" width="261" height="53"></td></tr>
                <tr><td><img src="/images/m13.gif" width="69" height="31"></td><td bgcolor="#196ADB" width="122"><input type="text" name="keywords" class="go"></td><td bgcolor="#196ADB" width="70">&nbsp;<input type="image" src="/images/m04.gif" alt="Search" width="47" height="18" border="0" value="Go" name="submit"></td></tr>
                <tr><td colspan="3" height="1"></td></tr>
-              </tbody></table>
-             </td>
-         </tr>
 		 <input type="hidden" name="showstatus" value="open">
 		 <input type="hidden" name="desc" value="1">
-		 
+
+				</tbody></table>
+             </td>
+         </tr>
         </tbody></table>
 
         <table cellspacing="0" cellpadding="0" bgcolor="#ffffff">
@@ -69,18 +110,7 @@ if (uname)
               <table cellspacing="0" cellpadding="0">
                <tbody><tr><td><img src="/images/m14.gif" width="31" height="20"></td><td background="/images/m15.gif" width="154" height="20" class="me">&nbsp; &nbsp; &nbsp; MEMBER LOGIN</td></tr>
                <tr><td colspan="2" background="/images/m25.gif" width="185">
-                    <table cellspacing="0" cellpadding="0">
-		<form method="POST" action="/cgi-bin/freelancers/auto_login.cgi" name="login"></form>
-                     <tbody><tr><td height="9" colspan="3"></td></tr>
-                     <tr><td align="right" width="64" class="pa">Login: &nbsp; </td><td colspan="2"><input type="text" name="username" class="go1"></td></tr>
-                     <tr><td align="right" width="64" class="pa">Password: &nbsp; </td><td><input type="password" name="password" class="go2"></td><td><input type="image" src="/images/buttons/m16.gif" width="30" height="19" name="submit" value="Login"></td></tr>
-                     <tr><td width="64"></td><td colspan="2"><input type="checkbox" name="remember_me" value="1"> Remember me</td></tr>
-                     <tr><td height="13" colspan="3"></td></tr>
-                     <tr><td align="right" colspan="3"><img src="/images/m18.gif" width="8" height="8" hspace="5"> <a href="/cgi-bin/freelancers/freelancers.cgi?forgot=find" class="ml">Forgot password?</a> <img src="/images/m99.gif" width="8" height="8" hspace="5"> <a href="/cgi-bin/freelancers/auto_login.cgi?logout=1" class="ml">Logout</a>
-					 </td></tr>
-                     <tr><td height="13" colspan="3"></td></tr>
-		
-                    </tbody></table>
+ <div id="login">    <form method="POST" action="https://www.scriptlance.com/cgi-bin/freelancers/auto_login.cgi" name="login"><table cellspacing="0" cellpadding="0">	<tbody><tr><td height="9" colspan="3"></td></tr>        <tr><td align="right" width="64" class="pa">Login: &nbsp; </td><td colspan="2"><input type="text" name="username" class="go1" value=""></td></tr>        <tr><td align="right" width="64" class="pa">Password: &nbsp; </td><td><input type="password" name="password" class="go2"></td><td><input type="image" src="/images/buttons/m16.gif" width="30" height="19" name="submit" value="Login"></td></tr>        <tr><td width="64"></td><td colspan="2"><input type="checkbox" name="remember_me" value="1"> Remember me</td></tr></tbody></table>    </form><table><tbody><tr><td align="right"><img height="8" hspace="5" src="/images/m18.gif" width="8"> <a class="ml" href="https://www.scriptlance.com/cgi-bin/freelancers/freelancers.cgi?forgot=find">Forgot password?</a> <img height="8" hspace="5" src="/images/m99.gif" width="8"> <a class="ml" href="https://www.scriptlance.com/cgi-bin/freelancers/auto_login.cgi?logout=1">Logout</a></td></tr></tbody></table></div>
                    </td></tr>
                <tr><td colspan="2"><img src="/images/m26.gif" width="185" height="6"></td></tr>
                <tr><td height="5" colspan="2"></td></tr>
@@ -97,7 +127,8 @@ if (uname)
 </li><li><a href="/featured.shtml" class="ml">Featured Projects</a>
 </li><li><a href="/certified.shtml" class="ml">Certified Members</a>
 </li><li><a href="/referrals.shtml" class="ml">Affiliate Program</a>
-</li><li><a href="/hosting" class="ml">Web Hosting</a> <small><i>New!</i></small>
+</li><li><a href="/hosting" class="ml">Web Hosting</a>
+</li><li><a href="/egold_exchange_service.shtml" class="ml">E-Gold Exchange</a> <small><i>New</i></small>
 
 </li></td></tr>
 </tbody></table>
@@ -111,26 +142,26 @@ if (uname)
                <tbody><tr><td><img src="/images/m23.gif" width="31" height="20"></td><td background="/images/m15.gif" width="154" height="20" class="me">&nbsp;&nbsp;&nbsp;THE 20 LATEST PROJECTS</td></tr>
               </tbody></table>
 <table cellspacing="1" cellpadding="2" width="100%">
-<tbody><tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1136014722.shtml">Cartoon Illustration</a> <img src="/images/urgent2.gif" width="14" height="14" border="0"></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1136014137.shtml">Salon Menu Re-design</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1136013761.shtml">Nightlife Events Site</a> <a href="http://www.scriptlance.com/featured.shtml"><img src="/images/featured2.gif" width="16" height="13" border="0"></a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1136012167.shtml">Buying Unfinished Php Scripts</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1136011218.shtml">Advanced Mailing List App.</a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1136010588.shtml">Php Employee Database Site</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1136009946.shtml">Proxy List 20000 +</a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1136009748.shtml">Move My Linux Server</a> <img src="/images/urgent2.gif" width="14" height="14" border="0"></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1136008934.shtml">Thirty 200 Word Articles</a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1136008232.shtml">Setup Shopcartdx_v4.29</a> <img src="/images/urgent2.gif" width="14" height="14" border="0"></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1136006348.shtml">Recipe Site Clone Components</a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1136005616.shtml">Datring Script</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1136005034.shtml">Script Installation</a> <img src="/images/urgent2.gif" width="14" height="14" border="0"></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1136002787.shtml">Mambo/phpesp Member Integratio</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1136002725.shtml">Closed Bid Project</a> <img src="/images/urgent2.gif" width="14" height="14" border="0"></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1136002373.shtml">Server Admin</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1136000306.shtml">Logo Design For Travel Agency</a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1135999070.shtml">Html Formatting  - Xhtml 1.0</a></td></tr>
-<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1135997439.shtml">Sell Domain</a></td></tr>
-<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1135995069.shtml">Cd Rom Audio Content</a></td></tr>
+<tbody><tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1150729472.shtml">Translate Text</a> <img src="/images/urgent2.gif" width="14" height="14" border="0"></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1150728769.shtml">Clone Of A Web Site</a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1150728119.shtml">Text Link Exchange</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1150727509.shtml">Flash Game And Animation</a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1150727241.shtml">News Site Development</a> <a href="http://www.scriptlance.com/featured.shtml"><img src="/images/featured2.gif" width="16" height="13" border="0"></a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1150727041.shtml">Subdomains And Cloaking Script</a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1150726548.shtml">Simple Menu - Urgent</a> <img src="/images/urgent2.gif" width="14" height="14" border="0"></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1150726518.shtml">Custom Oscommerce</a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1150726498.shtml">Flash Cards Needed</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1150726335.shtml">Update/redesign Webpage</a> <img src="/images/urgent2.gif" width="14" height="14" border="0"></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1150726173.shtml">C++ Ocx Expert Needed</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1150726125.shtml">Data Import Script</a> <img src="/images/urgent2.gif" width="14" height="14" border="0"></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1150725265.shtml">Onlines Games</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1150722909.shtml">Auto Page Generator (rssg) Mod</a> <img src="/images/urgent2.gif" width="14" height="14" border="0"></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1150722830.shtml">Login Script Useing Ccbill</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1150721839.shtml">Adbrite Clone</a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1150721207.shtml">Mailing App/software/script</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1150721012.shtml">Search For Tags</a> <a href="http://www.scriptlance.com/featured.shtml"><img src="/images/featured2.gif" width="16" height="13" border="0"></a></td></tr>
+<tr><td class="dt1"><a href="http://www.scriptlance.com/projects/1150720967.shtml">Specialised Site Spider</a></td></tr>
+<tr><td class="dt2"><a href="http://www.scriptlance.com/projects/1150720480.shtml">Web Design &amp; Development</a></td></tr>
 </tbody></table>
 
               <table cellspacing="0" cellpadding="0" width="100%">
@@ -257,7 +288,7 @@ Contacting the Web Site
                    <td width="183" height="66" bgcolor="#ffffff" valign="top"> 
                     <br>
                     <table cellspacing="0" cellpadding="0">
-                     <tbody><tr><td>Copyright © 2001 - 2005<br><b><a href="http://www.r3n3.com" class="ml3">R3N3 Internet Services</a></b></td></tr>
+                     <tbody><tr><td>Copyright © 2001 - 2006<br><b><a href="http://www.r3n3.com" class="ml3">R3N3 Internet Services</a></b></td></tr>
                      <tr><td>Powered by: <a href="http://www.smarterscripts.com"><img src="/images/m41.gif" width="15" height="16" border="0" hspace="5" align="absmiddle"></a><a href="http://www.smarterscripts.com" class="ml3">Smarter Scripts</a></td></tr>
                     </tbody></table>
                    </td>
@@ -282,6 +313,14 @@ Contacting the Web Site
         </tbody></table>
    </td></tr>
   </tbody></table>
+
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-294433-1";
+urchinTracker();
+</script>
+
+
  
- 
-</form></body></html>
+</body></html>
