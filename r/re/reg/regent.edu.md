@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regent.edu privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214095830id_/http%3A//www.regent.edu/general/legal/privacy_notice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regent.edu privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619060752id_/http%3A//www.regent.edu/general/legal/privacy_notice.cfm) for the most accurate reproduction.*
 
 # Regent University -> Privacy Notice
 
