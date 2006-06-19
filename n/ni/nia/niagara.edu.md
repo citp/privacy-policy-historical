@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niagara.edu privacy policy that was archived on 2005-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050826002206id_/http%3A//www.niagara.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niagara.edu privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619114914id_/http%3A//www.niagara.edu/privacy.htm) for the most accurate reproduction.*
 
 # Niagara University - Privacy Statement
 
