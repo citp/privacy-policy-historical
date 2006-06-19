@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skincarerx.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216070734id_/http%3A//skincarerx.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skincarerx.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619214454id_/http%3A//skincarerx.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SkinCareRx Privacy Policy
 
@@ -24,7 +24,7 @@ We reserve the right to disclose information to Government agencies for the inve
 
 **Security Information**
 
-For information on our security certificate and security guarantee, please refer to our [security information](https://web.archive.org/web/20051216070734id_/http%3A//skincarerx.com/securityrx.html) page.
+For information on our security certificate and security guarantee, please refer to our [security information](https://web.archive.org/web/20060619214454id_/http%3A//skincarerx.com/securityrx.html) page.
 
 **Newsletter Subscription**
 
@@ -32,11 +32,11 @@ We offer a monthly newsletter subscription to our customers.  This newsletter m
 
 **Terms of Use**
 
-For information on our site's terms of use, please refer to our [terms of use](https://web.archive.org/web/20051216070734id_/http%3A//skincarerx.com/disclaimer.html) page.
+For information on our site's terms of use, please refer to our [terms of use](https://web.archive.org/web/20060619214454id_/http%3A//skincarerx.com/disclaimer.html) page.
 
 **Questions**
 
-Please direct all questions to our [contact us](https://web.archive.org/web/20051216070734id_/http%3A//skincarerx.com/contactus.html) page or write:
+Please direct all questions to our [contact us](https://web.archive.org/web/20060619214454id_/http%3A//skincarerx.com/contactus.html) page or write:
 
 SkinCareRx, LLC  
 ATTN: Privacy Department  
