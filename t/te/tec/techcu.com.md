@@ -1,114 +1,84 @@
-> *The following text is extracted and transformed from the techcu.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220203716id_/http%3A//www.techcu.com/Resources/About_Tech_CU/Privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcu.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619231827id_/http%3A//www.techcu.com/Resources/About_Tech_CU/Privacy/privacy) for the most accurate reproduction.*
 
 # Tech CU - resources - about_tech_cu - privacy - Privacy Policy
 
 .
 
-Effective Date: 7/21/2004  
+**What this policy covers:**
 
+This policy covers “non-public personal information.” This means personally identifiable information that is not available publicly that Technology Credit Union obtains about you in the course of providing services to you. It does not cover information that we or other entities obtain from public sources such as telephone directories or county real property records. It does not cover information that is not identified with any individual member, such as a statement that a certain number of our members have auto loans with us. In this policy, the term “member” refers to both current and former members, and also refers to non-member joint owners of accounts and non-member guarantors on loans.
 
-Whether you are a current or former Technology Credit Union member, or just visiting us online, we understand and respect your right to privacy. We are committed to protecting all of your personally identifiable information that you have entrusted to us.  
-Privacy of Member and Former Member Information 
+**Where we collect information about you:**
 
-_What this policy covers:_  
-This policy covers "non-public personal information." This means personally identifiable information that Technology Credit Union and our affiliate, Tech CU Financial Services, Inc. (including the Car Store), obtain about you in the course of providing services to you, our members and former members. It does not cover information that we or other entities obtain from public sources such as telephone directories or county real property records. It does not cover information that is not identified with any individual member or former member, such as a statement that a specified number of our members have auto loans with us, or a statement that the average combined account balance of our membership is a specified dollar amount. In this policy, the term "member" refers to both current and former members.
-
-Topics   
-
-
-  * [Where we collect information about you](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#collect)
-  * [Selling Information](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#Selling)
-  * [Third parties to whom we may disclose information about you](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#parties)
-  * [Specific examples of third parties to whom we disclose information](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#examples)
-  * [Do third parties share or sell information?](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#vendors)
-  * [Our maintenance of the privacy and security of your information](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#maintenance)
-  * [Our right to change this policy](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#change)
-  * [Opting Out](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#Opting)
-  * [Can I opt out from receiving disclosures?](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#disclosures)
-  * [Personal Information Accuracy](http://www.techcu.com/templates/content_ln.aspx?NRMODE=Published&NRORIGINALURL=%2fResources%2fAbout_Tech_CU%2fPrivacy%2fprivacy%2ehtml&NRNODEGUID=%7bC172AA5E-F308-410F-BD48-B919B64B1DA9%7d&NRCACHEHINT=NoModifyGuest#Info)
+  * From information that you provide to us in person, in writing (such as applications for our services), or through the Internet; 
+  * From information obtained through your transactions and experiences with us; 
+  * From information we receive from nonaffiliated third parties about their transactions and experiences with you; 
+  * From third parties we ask to verify information you have provided on your applications for our services, such as employers or other creditors; 
+  * From third parties with whom we have arrangements to provide services to you, such as financial institutions whose ATMs you use, merchants who accept your Credit Union debit card, mortgage lenders, or vehicle dealers; 
+  * From cookies on our website; 
+  * From third parties we contract with to help us develop our field of membership and the marketing penetration of our services; 
+  * From consumer reporting agencies such as credit bureaus.
 
 
 
-**Where we collect information about you.**  
-Sources from which we collect information about you include:
+**Types of information we collect and may disclose about you to third parties:**
 
-  * Your applications for our products and services; 
-  * Consumer reporting agencies such as credit bureaus and agencies that report checking account abuses; 
-  * Third parties we ask to verify information you have provided on your applications for our services, such as current and past employers or other creditors; 
-  * Third parties with whom we have arrangements to provide services to you, such as financial institutions whose ATM's you use, merchants who accept your Credit Union credit and/or debit card, mortgage lenders, or vehicle dealers. 
-  * Our affiliates where we collect information such as account balances, payment history, parties to transactions, and credit card usage. 
+We may disclose any information we have collected about you to third parties. The types of information we collect and may disclose about you include but are not limited to your name, your address, your social security number, your date of birth, your transaction history with us, your assets, and your income.
 
+**Information sharing with third parties for the purpose of conducting our business with you:**
 
+We may disclose information about you as required or allowed by law. Examples of general circumstances under which we may disclose information about you include but are not limited to:
 
-**Selling Information **
-
-We do not sell any of your personal information to other parties or direct marketers. However, under certain circumstances we do share selected information about you as described in the next paragraph. 
-
-**Third parties to whom we may disclose information about you**
-
-We may disclose to third parties any information that we collect about you, including but not limited to your name, your address, your social security number, your date of birth, your transaction history with us, your assets and your income.
-
-**We may disclose information about you under the following general circumstances:**
-
-  * To the extent necessary to provide services that you request; 
-  * To the extent necessary to conduct our business; 
-  * To our internal and external auditors, to our legal advisors, to our insurers, and to our regulatory agencies such as the California Department of Financial Institutions or the National Credit Union Administration; 
-  * If we are required to do so by law, such as when we receive a court order, levy, subpoena, or other validly issued legal process; 
-  * If you give us written permission. 
+  * When necessary to provide services that you request; 
+  * When necessary to conduct our business; 
+  * When the information is provided to a third party providing services to us, such as data processing, printing services, mailing services, and marketing services; 
+  * When necessary to our external auditors, to legal advisors, to our insurers, and to our regulatory agencies such as the National Credit Union Administration or California Department of Financial Institutions; 
+  * If required to do so by law, such as when we receive a court order, levy, subpoena, or other validly issued legal process; 
+  * When the information is provided to a consumer reporting agency in accordance with the Fair Credit Reporting Act; 
+  * If you give us written permission.
 
 
 
-The Credit Union or Tech CU Financial Services, Inc. (including the Car Store) may disclose information about you to third parties that sell their own products or services. Although we do not guarantee the products or services of any third party, we select third parties to which we give information about you carefully, and believe the products or services they offer may be of interest to you. Examples of third parties to whom we may give information about members include financial planners, Financial Advisors, and companies that sell various types of insurance.
+Furthermore, we may also disclose information about you to other nonaffiliated third parties not described in this notice as permitted by law.
 
-We will generally disclose only your name, address and telephone number. We may give lists of members who fall within certain categories, such as a range of ages, income, account balances, or home ownership, so that third parties can target their promotions to members who are likely to be interested in and qualified for the offered products or services. 
-
-We never give your specific financial information, account numbers, personal identification (social security number, driver's license, etc), or PINs to third parties selling their own products or services to you. You can prohibit us from disclosing information about you to third parties selling their own products and services, and prohibit the Credit Union and Tech CU Financial Services, Inc. (including the Car Store) from exchanging information (other than transaction and experience information) about you, by following the instructions in the Opting Out section below. Once a third party has information about you, however, they may continue to contact you. You should contact the third party directly if you wish to be excluded from their contact lists.
-
-**Specific examples of third parties to whom we may disclose information**
-
-Following are some specific examples of the types of third parties to whom we may disclose information to::
+**Specific examples of types of third parties to whom we disclose information as described above include but are not limited to:**
 
   * Credit bureaus; 
-  * Third party vendors that assist us with providing or marketing member services, such as check printers, mortgage lenders, mail houses, plastic card processors, credit life and disability insurance providers, collateral appraisers, vehicle dealers participating in our dealer loan programs, bill payment service providers, credit bureaus, eFunds (Qualifile), and other electronic service providers upon your (member) initiated request; 
-  * Third parties with whom we have joint marketing arrangements; 
-  * Third parties who are involved in your transactions, such as the Federal Reserve and other financial institutions that process your checks, automated clearinghouse (ACH) transactions and ATM transactions; 
-  * Third parties whose services are necessary to meet our business needs, such as the Department of Motor Vehicles, companies that insure collateral you have pledged as security for Credit Union loans, and debt collectors. 
+  * Third-party vendors that assist us with providing or marketing Credit Union services to our members, such as check printers, mail houses, plastic card processors, credit life and disability insurance providers, collateral appraisers, and vehicle dealers participating in our dealer loan programs; 
+  * If you apply for or have a Tech CU credit card, to the third party financial institution that provides our private label credit card program; 
+  * Third parties involved in processing your Credit Union transactions, such as the Federal Reserve and other financial institutions that process your checks, ACH transactions, and ATM and Point of Sale transactions; 
+  * Third parties whose involvement in your transactions with us is necessary to meet our business needs, such as the Department of Motor Vehicles, companies that insure collateral you pledge as security for Credit Union loans, and debt collectors.
 
 
 
-**Do third party vendors share or sell information about me?**
+**Our disclosure of information to joint marketing partners:**
 
-When we share information with a third party , we take every precaution to ensure that your information is protected. All third parties that offer their services or products to a Technology Credit Union member must agree in writing to our privacy standards.
+We may share information about our members with joint marketing partners. Joint marketing partners are other financial organizations with whom we partner to jointly sponsor, endorse, or offer financial products or services such as insurance agents, credit card companies, and securities broker-dealers. We never give these joint marketing partners your Credit Union account numbers. When we share information with joint marketing partners, they agree to keep your information confidential and to disclose and use it only for purposes of marketing and providing the products and services to which Tech CU and the partner agree in compliance with all applicable privacy laws. You have the right to opt out of our information sharing with joint marketing partners as explained below in the section entitled “Privacy Elections.” However, if you apply for or maintain a product or service we offer with a joint marketing partner, we and that partner will share information about you as needed to establish and administer the product or service.
+
+ **Other information disclosure and use:**
+
+We do not share information regarding our members with any affiliates or third parties except as explained above. If we enter into an agreement to promote the products or services of a third party who is not a joint marketing partner, we do so in a way that we maintain control of member information. The third party will receive non-public personal information about you only if you give us permission to release the information by requesting the product or service, or if you release the information directly to the third party when you become their customer. 
+
+**Information regarding former members and other former customers:**
+
+We disclose information about you only as permitted or required by law. Subject to these limits, we may disclose any information we have about former members and other former customers in accordance with the privacy practices described in this Policy.
 
 **Our maintenance of the privacy and security of your information:**
 
-We restrict access to non-public personal information about you to persons who have a need to know the information to provide products and services for you or to meet our reasonable business needs. Credit Union staff, management and volunteers are trained to keep member information strictly confidential. If we release information about you to third parties, they must sign agreements to keep your information confidential unless certain conditions are met. For example, they are permitted to disclose information about you if necessary to provide products and services to you, if ordered to do so by a court, if necessary to conduct their own business, or if you give them permission. We maintain physical, electronic and procedural safeguards that comply with federal regulation to guard your non-public personal information.
+We restrict access to non-public personal information about you to persons who have the need to know the information to provide products and services to you or meet our reasonable business needs. Our employees may also access your information to exercise our rights under the law or pursuant to any agreement with you. Credit Union staff, management, and volunteers are trained to keep member information strictly confidential. 
+
+When appropriate and necessary to protect your privacy, we require third parties to whom we release information about you to agree in writing to limit their use and disclosure of information about you to purposes that we authorize and to maintain appropriate information security policies and procedures in compliance with all applicable privacy laws. 
+
+We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your non-public personal information.
 
 **Our right to change this policy:**
 
-This policy is effective July 1, 2001. We can change this policy by notifying you in writing. If a new policy will be subject to opt-out rights, we will give you at least 30 days advance notice before the new policy goes into effect, and we will disclose means by which you can opt out of disclosure of non-public personal information.
+This policy is effective December 1, 2005 and replaces our previous Privacy Policy. We can change this policy as our business needs or practices change or as the law requires by notifying you in writing. If we revised our Privacy Policy, we will provide our active members with copies of our new Privacy Policy at that time.
 
-**Opting Out:**
+**Privacy elections:**
 
-If you do not want us to give information about you to third parties who are selling their own products or services, you can opt out at any time by:
+You can opt out of our information sharing with joint marketing partners at any time. To do so, please either complete the form we mailed to you, [complete our online form](https://webbranch.techcu.com/onlineapps/optout.asp) or call our toll-free number (800) 553-0880. If you have joint accounts, an opt-out election by one of you will apply to all of you. Your election will apply to all accounts linked to the social security/taxpayer ID number you provide. We will send you an annual notice of your opt-out rights, but once we have your request on file, we will leave it as you have most recently sent it to us unless you send us new instructions. Please note that even if you opt out, we will continue to share your information to conduct our business as described above, to the extent permitted by law.
 
-  * Calling (408) 451-9111 or (800) 553-0880 (outside the 408 area code) 
-  * Completing a form at any [Technology Credit Union branch](http://www.techcu.com/resources/locations/branches.htm "Technology Credit Union Branch"). 
-  * Completing the following [secure online form](https://webbranch.techcu.com/onlineapps/optout.asp "secure online form")
+(Notice Provided Pursuant to the Gramm-Leach-Bliley Act)
 
-
-
-It generally takes 1 week to implement an opt-out request on our computer system. If you later decide you no longer want to opt out, you can let us know by calling, writing, or by sending an email to us.
-
-**Can I opt out from receiving disclosures?**
-
-You cannot opt out of disclosure of information about you as described in this section.
-
-**Personal Information Accuracy**
-
-We make every effort to ensure the accuracy of your personal information you provide us. If you identify an error, or need to change or update your current information, please notify us so we can promptly update our records. You may report any errors by:
-
-  * Calling (408) 451-9111 or (800) 553-0880 (outside the 408 area code) 
-  * Sending us a secure email through [Online Banking](https://webbranch.techcu.com/ "Online Banking")
-
-
+Revised 12/05
