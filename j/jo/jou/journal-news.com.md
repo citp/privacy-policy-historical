@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journal-news.com privacy policy that was archived on 2005-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051118155020id_/http%3A//www.journal-news.com/service/content/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journal-news.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619150237id_/http%3A//www.journal-news.com/service/content/services/privacypolicy.html) for the most accurate reproduction.*
 
 # Journal-News.com: Privacy Policy
 
@@ -57,7 +57,7 @@ We use cookies to help us tailor our site to your needs, to deliver a better, mo
 
 **OPTING OUT**
 
-If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email us by [using this form](https://web.archive.org/web/20051118155020id_/http%3A//www.journal-news.com/service/content/services/notification.html). 
+If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email us by [using this form](https://web.archive.org/web/20060619150237id_/http%3A//www.journal-news.com/service/content/services/notification.html). 
 
 If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an email newsletter or by going back to our site). 
 
