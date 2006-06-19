@@ -1,10 +1,19 @@
-> *The following text is extracted and transformed from the primagames.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220213031id_/http%3A//www.primagames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primagames.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619203219id_/http%3A//www.primagames.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Prima Games
 
-|  | 
-
-[](https://web.archive.org/ads.php?ID=109)
+|   
+  **Membership:** |   
+---|---  
+  **[Login](https://web.archive.org/login/) / [Logout](https://web.archive.org/login/?Action=RC)**  
+  **[Profile](https://web.archive.org/account/) / [Register](https://web.archive.org/register/)**  
+  
+  **Shopping:**  
+  **[Cart](http://www.digitalriver.com/dr/v2/ec_MAIN.Entry11?SP=10034&PN=0&xid=70912) / [Check Out](https://www.digitalriver.com/dr/v2/ec_MAIN.Entry10?xid=70912&sp=10035&PN=1&V1=1)**  
+  **[Order History](http://www.digitalriver.com/dr/v2/ec_main.entry11?xid=70912&sp=10343&pn=1)**  
+  **[FAQ](http://www.digitalriver.com/dr/v2/ec_MAIN.Entry11?SP=10107&PN=1&xid=70912)**  
+|   
+| 
 
 The policies below are applicable to the primagames.com website and the Prima eguide store (collectively the "Prima Games Website"), produced and maintained by Prima Games and its vendors (collectively "Prima Games"). Prima Games is strongly committed to protecting the privacy of users of its interactive products and services. Throughout cyberspace, we want to contribute to providing a safe and secure environment for users, and in particular, ensure that kids' information is protected. If you don't find your concern addressed here, feel free to contact us by e-mail at [websupportent@primagames.com](mailto:websupportent@primagames.com) or phone 800-733-3000.
 
@@ -91,4 +100,8 @@ Questions regarding this statement should be directed to [websupportent@primagam
 User's information is not currently sold or rented or used for purposes other than as described in the "How We Use The Information" section. If we decide to sell, rent, or use your information for purposes not disclosed (and not in order to cooperate with local, provincial or national officials or otherwise to comply with applicable laws or to protect the rights and property of us or our users, sponsors, providers, or licensors), we will announce such plan and ask you to "opt in". If you wanted to share your personal information, you would have respond. In the absence of such a response, your information would not be shared with anyone other than us.
 
 |  |    
+
+
+[](https://web.archive.org/ads.php?ID=107)
+
 | 
