@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageuppeople.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209093721id_/http%3A//www.pageup.com.au/content.asp%3FstaticID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageuppeople.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619035420id_/http%3A//www.pageuppeople.com/content.asp%3FstaticID%3Dprivacy) for the most accurate reproduction.*
 
 # PageUp - PageUp Privacy and Security Statement
 
@@ -72,7 +72,7 @@ PageUp Pty Ltd
 GPO Box 4752UU  
 MELBOURNE VIC 3001
 
-Phone: +61 3 9629-3777  
+Phone: +61 3 9602 3300  
 Fax: +61 3 9923-6112
 
  Back to top
