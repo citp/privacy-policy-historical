@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movietickets.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220081247id_/http%3A//www.movietickets.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietickets.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619224605id_/http%3A//www.movietickets.com/privacy.asp) for the most accurate reproduction.*
 
 # MovieTickets.com. For the online purchase of movie tickets. Privacy Policy.
 
@@ -14,80 +14,81 @@ Please note that your Information will be stored and processed on our computers 
 
 If you have any questions, send an email to [feedback@movietickets.com](mailto:feedback@movietickets.com).
 
-**Overview**
+Overview
 
 Your Privacy is very important to us. As part of the normal operation of our services we collect and, in some cases, may disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information.
 
 As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the Privacy Policy, you expressly consent to our use and disclosure of your personally identifiable information.
 
-**Information Collection, Use, Sharing and Disclosure**
+Information Collection, Use, Sharing and Disclosure
 
-We use your IP address to help diagnose problems with our server and to administer our website and services. Through customer surveys, subscriptions, and newsletter registration, our site may request users to give us contact, demographic and/or financial information (such as their name, locale, gender, age, income level and email address). The demographic information is used, among other things, to enhance user experience so we can be more content specific. The contact information is used to notify users of new services and content, as well as for surveys and newsletters. Our site may use an order form for customers to subscribe to our for-pay services. We collect contact information (like e-mail address) and financial information (like account or credit card numbers). Contact information from the order form is used to send billing invoices. Contact information is also used to get in touch with the subscribers when necessary. Users may opt-out of receiving future communications; see the choice/opt-out section below. Financial information that is collected is used among other things, to bill the user for products and services for in-house statistics, advertising and marketing target information. ShowTimes Direct collects the user's zip code to provide specific theatre show times in his or her area. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Information collected during MovieTickets.com subscriber registration is used for, among other things, in-house statistics, marketing target information, and advising clients of MovieTickets.com news and information. This site contains links to other sites. MovieTickets.com is not responsible for the privacy practices or the content of such websites or any website from which you may have linked to MovieTickets.com.
+We use your IP address to help diagnose problems with our server and to administer our website and services. Through customer surveys, subscriptions, and newsletter registration, our site may request users to give us contact, demographic and/or financial information (such as their name, locale, gender, age, income level and email address). The demographic information is used, among other things, to enhance user experience so we can be more content specific. The contact information is used to notify users of new services and content, as well as for surveys and newsletters. Our site may use an order form for customers to subscribe to our for-pay services. We collect contact information (like e-mail address) and financial information (like account or credit card numbers). Contact information from the order form is used to send billing invoices. Contact information is also used to get in touch with the subscribers when necessary. Users may opt-out of receiving future communications; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services and for in-house statistics. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Information collected during MovieTickets.com subscriber registration is used for, among other things, in-house statistics, marketing target information, and advising clients of MovieTickets.com news and information. This site contains links to other sites. MovieTickets.com is not responsible for the privacy practices or the content of such websites or any website from which you may have linked to MovieTickets.com.
 
 MovieTickets.com is committed to protecting your privacy online. Please read this privacy policy to fully understand how we will make use of the personal information you share with us. MovieTickets.com collects certain personal information in order to provide you with customized services, content, and advertisements. Some personal information is gathered when you register to receive certain MovieTickets.com products or services. We may disclose to third parties certain aggregate information contained in your registration data or related data, provided that, such information will NOT include personally identifying information, except as specifically authorized by you or in the good faith belief that such action is reasonably necessary to comply with the law, legal process, or to enforce the terms of service. In addition, we may provide your personally identifiable and personal financial information to third parties if you provide prior consent to the exchange of the information. MovieTickets.com will also use your personal information for the purposes of providing you with any services to which you subscribe, and any service-related activities such as collecting subscription fees from you for those services, and notifying you or contacting you regarding any problem with, or the expiration of, such services. In this regard, it may be necessary for MovieTickets.com to disclose your personal information to one or more agents and contractors of MovieTickets.com and their subcontractors, but such agents, contractors, and subcontractors will be required to agree to use the information obtained from MovieTickets.com only for these purposes. We recommend that you do not divulge your password to anyone. MovieTickets.com will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your MovieTickets.com account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, MovieTickets.com cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. MovieTickets.com reserves the right to change this statement at any time by posting revisions on the MovieTickets.com web site. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of us.
 
-We may run contests on our site in which we ask visitors for contact information (such as their name and email address) and demographic information (such as their zip code, age, and/or income level). The user's contact information is used to contact the visitor when necessary, such as if they win a contest or to notify users of upcoming contests. There are three primary types of contests: (1.) We host solely and all information that is collected stays in-house. (2.) We may share address information with third party for shipping purposes. (3.) In some rare instances, a third party may host the contest and all information is then shared. In our contest registration, we give our users the opportunity to sign up for the MovieTickets.com newsletter. However, users may opt-out of receiving future mailings by selecting the "unsubscribe" link at the bottom of the newsletter. MovieTickets.com products and services are directed at an adult market, and therefore this site is intended for use by adults only. MovieTickets.com encourages parents to take an active role in their children's use of the Internet, and to inform them of the dangers of providing information about themselves over the Internet. Children of any age should always ask a parent for permission before sending personal information to anyone online. No information should be submitted to or posted on this web site by users under 18 years of age without the consent of their parent or guardian. Children are not eligible to use our services and we ask that minors (under the age of 18) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with your parents or guardians.
+We may run contests on our site in which we ask visitors for contact information (such as their name and email address) and demographic information (such as their zip code, age, and/or income level). The user's contact information is used to contact the visitor when necessary, such as if they win a contest or to notify users of upcoming contests. There are three primary types of contests: (1.) We host solely and all information that is collected stays in-house. (2.) We may share address information with third party for shipping purposes. (3.) In some rare instances, a third party may host the contest and all information is then shared. For customer inquiries about our information sharing practices please write to MovieTickets.com, Customer Service, 2255 Glades Road, Suite 221A, Boca Raton, FL 33431. In our contest registration, we give our users the opportunity to sign up for the MovieTickets.com newsletter. However, users may opt-out of receiving future mailings by selecting the "unsubscribe" link at the bottom of the newsletter. MovieTickets.com products and services are directed at an adult market, and therefore this site is intended for use by adults only. MovieTickets.com encourages parents to take an active role in their children's use of the Internet, and to inform them of the dangers of providing information about themselves over the Internet. Children of any age should always ask a parent for permission before sending personal information to anyone online. No information should be submitted to or posted on this web site by users under 18 years of age without the consent of their parent or guardian. Children are not eligible to use our services and we ask that minors (under the age of 18) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with your parents or guardians.
 
 Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government, law enforcement agencies or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your information that they collect from our Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private.
 
-**Children**
+Children
 
 Users that MovieTickets.com knows to be under the age of 13 are hereby required to provide the e-mail address of their parent or guardian to [ webmaster@movietickets.com](mailto:webmaster@movietickets.com) so that MovieTickets.com may alert the parent or guardian of their child's use of this web site. The parent or guardian must consent to MovieTickets.com's collection of their child's personal information. A known child user will be restricted from providing personal information until such consent is received. No information collected from users known to be under age 13 will be used for any marketing or promotional purposes outside MovieTickets.com. If MovieTickets.com collects personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Policy Act of 1998 (U.S.C. 6501 et seq.).
 
-**Advertisements**
+Advertisements
 
 Ads appearing on this web site are delivered to you by either (a) one of our web advertising partners or (b) by us. Information about your visit to this site, such as the number of times you have viewed an ad, your browser type (for example, Netscape or Internet Explorer), the type of computer operating system you use (Macintosh or Windows, for instance) and whether or not you responded to the ad delivered, (but not your name, address, phone number or other personal information), is used to serve advertisements to you on this site. We may use your zip code or geographical location information to serve advertisements to this site. In the course of serving advertisements to this site, our third party advertiser may place or recognize a unique cookie on your browser. Users may opt-out of receiving future mailings; see the choice/opt-out section below. We aggregate (gather up data across all user accounts) personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally, unless you have provided us with your prior written consent to disclose of such personally identifiable information. Certain information, such as your name, email address, password, credit card number, and bank account number, are never disclosed to marketing advertisers.
 
 This site may use its own proprietary ad serving system. However, this site may use and allow for third party ad serving systems (i.e.: Double-click, Mediaplex, Atlas, Zedo, etc.). Third party ad serving systems are approved at the site's discretion. The site and its third party servers collect and store anonymous data, typically through the use of cookies.
 
-**Public Forums**
+Public Forums
 
-This site contains message boards, and/or news groups available to its users. We request users to give us contact information, such as name, email, address, occupation, and interests to be a registered bulletin board user. This information is optional and not necessary to post messages. This information may be used by the administrator to send the user email notices. However, users may opt-out of receiving future mailings; see the choice/opt-out section below. Please remember that any information that is disclosed in these areas becomes public information and users should exercise caution when deciding to disclose personal information.
+This site may contain message boards, and/or news groups available to its users. We request users to give us contact information, such as name, email, address, occupation, and interests to be a registered bulletin board user. This information is optional and not necessary to post messages. This information may be used by the administrator to send the user email notices. However, users may opt-out of receiving future mailings; see the choice/opt-out section below. Please remember that any information that is disclosed in these areas becomes public information and users should exercise caution when deciding to disclose personal information.
 
-**Security**
+Security
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We use Secure Shell to access our servers remotely, and all server sessions are encrypted. We protect the secure areas of our site (including our databases and intranet) by using a commercial firewall.
 
-**Choice/Opt-Out - Your Ability to Opt-Out and Remove Your Information**
+Choice/Opt-Out - Your Ability to Opt-Out and Remove Your Information
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service:
 
-> 1\. Users can send email to [customerservice@movietickets.com](mailto:customerservice@movietickets.com)  
->  2\. Users can visit the following URL: <https://www.movietickets.com/myaccount.asp>  
->  3\. Users can send mail to the following postal address: 
->
->> **MovieTickets.com  
->  Customer Service  
-> 2255 Glades Road, Suite 221A  
-> Boca Raton, FL 33431**
-> 
-> 4\. Users can call the following telephone number: (561) 998-8000 
+  * Users can send email to [customerservice@movietickets.com](mailto:customerservice@movietickets.com)
+  * Users can visit the following URL: https://www.movietickets.com/myaccount.asp
+  * Users can send mail to the following postal address:  
+ **MovieTickets.com  
+Customer Service  
+2255 Glades Road, Suite 221A  
+Boca Raton, FL 33431**
+  * Users can call the following telephone number: (561) 998-8000
 
-**Correct/Update - Your Ability to Update Your Information**
+
+
+Correct/Update - Your Ability to Update Your Information
 
 This site gives users the following options for changing and modifying information previously provided.
 
-> 1\. Users can email [customerservice@movietickets.com](mailto:customerservice@movietickets.com)  
->  2\. Users can visit: <https://www.movietickets.com/myaccount.asp>  
->  3\. Users can send mail to the following postal address: 
->
->> **MovieTickets.com  
->  Customer Service  
-> 2255 Glades Road, Suite 221A  
-> Boca Raton, FL 33431**
-> 
-> 4\. Users can call the following telephone number: (310) 393-9999 
+  * Users can email [customerservice@movietickets.com](mailto:customerservice@movietickets.com)
+  * Users can visit: https://www.movietickets.com/myaccount.asp
+  * Users can send mail to the following postal address:  
+ **MovieTickets.com  
+Customer Service  
+2255 Glades Road, Suite 221A  
+Boca Raton, FL 33431**
+  * Users can call the following telephone number: (310) 393-9999
+
+
 
 This policy may change from time to time so please check back periodically.
 
-**Contacting the Website**
+Contacting the Website
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-> **MovieTickets.com, Inc.  
->  2255 Glades Road, Suite 221A  
->  Boca Raton, FL 33431**
+**MovieTickets.com  
+Customer Service  
+2255 Glades Road, Suite 221A  
+Boca Raton, FL 33431**
 
 or email us at [feedback@movietickets.com](mailto:feedback@movietickets.com). 
