@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dhl-usa.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401084455id_/http%3A//www.dhl-usa.com/About/Privacy.asp%3Fnav%3DAboutDHLUSA/CompanyInfo/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhl-usa.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619115230id_/http%3A//www.dhl-usa.com/About/Privacy.asp%3Fnav%3DPrivacy) for the most accurate reproduction.*
 
-# DHL - Privacy Policy
+# DHL: Privacy Policy
 
 DHL is committed to preserving the privacy of users of our web sites. Any information about you that we collect is used purely to improve the services we offer to you, and to make our web site's content and services easier to use and more appropriate to you. We may use this information, with your permission, to contact you with information about updates to our web site or other marketing information. DHL does not sell, trade, or rent any information about specific customers to third parties for marketing purposes. 
 
@@ -34,11 +34,7 @@ DHL designed web-based shipping applications, to provide our customers the most 
   * Passwords. It is your responsibility to ensure that your user ID and password are secure. If you choose the Remember Password option to streamline the login process, your login information will be stored on your system and anyone with access to it can use your DHL web services. DHL employees do not have access to your password. 
   * Shipment and Receiver Data. DHL will not disclose your address book to other parties. 
 
-Systems on Customer Premises
-
 Thousands of DHL customers use DHL shipping systems such as LIBRA and EasyShip to send shipments each day. When these systems are installed at a customer's premises, they may contain the customer's profile and shipment data. We encourage customers concerned about the security of the information contained on these systems to protect them by using physical access controls.
-
-Consent
 
 Your use of the DHL-USA web site signifies your acceptance of DHL's Privacy Policy. DHL reserves the right to modify, add, or remove portions of this policy at its discretion at any time. Please check back frequently to be informed of any changes.
 
