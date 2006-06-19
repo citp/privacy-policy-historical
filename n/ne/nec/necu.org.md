@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the necu.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305041454id_/http%3A//www.necu.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the necu.org privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619214820id_/http%3A//www.necu.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Summary
-
+  
 At Northeast Credit Union we are committed to protecting   
-your privacy. 
-
-We recognize that preserving your trust includes protecting your privacy. The Board of Directors, management and staff of Northeast Credit Union considers this a priority. You should know that the information you provide us with consists of private personal information. We do not share any information with third parties other than what is necessary to provide you with the services or products you have requested, or is required by law, or to protect ourselves against fraud. If you have any questions about our policy, please contact a member service representative at 603-436-1847 or toll-free at 1-888-436-1847.
+your privacy.
 
   
-Privacy Notice
+We recognize that preserving your trust includes protecting your privacy. The Board of Directors, management and staff of Northeast Credit Union considers this a priority. You should know that the information you provide us with consists of private personal information. We do not share any information with third parties other than what is necessary to provide you with the services or products you have requested, or is required by law, or to protect ourselves against fraud. If you have any questions about our policy, please contact a member service representative at 603-436-1847 or toll-free at 1-888-436-1847.
 
 Northeast Credit Union's single purpose is to provide you with financial products and services to meet your financial goals. We intend to offer you diverse financial services including competitive products made available by our strategic relationships with other institution or service providers. We believe these are the reasons you do business with Northeast Credit Union. We also believe you do your financial business with us because we have a strong history of protecting our members' privacy.
 
@@ -60,7 +57,7 @@ Contacting Northeast Credit Union
 
 If you have questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:
 
-Tony Popielarz, AVP Marketing 
+Lisa Morrissette, AVP Marketing 
 
 Northeast Credit Union  
 100 Borthwick Ave.  
@@ -79,7 +76,7 @@ At Northeast Credit Union we are committed to protecting your privacy.
 
 We have created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for our web site:
 
-| Visitors to the Northeast Credit Union web site will remain anonymous. We do not collect personal identifying information about our visitors to our site.  
+|  | Visitors to the Northeast Credit Union web site will remain anonymous. We do not collect personal identifying information about our visitors to our site.  
 ---|---  
 | We use your IP address to help diagnose problems with our server, and to administer our web site. Our servers collect standard identifying information about visitors to the site, such as date and time visited, IP address, city, state, and country. This information is used to compile standard statistics on site usage.  
 | We use cookies for our loan calculators, as well as to deliver content specific to your interests.  
@@ -93,7 +90,7 @@ Contacting Northeast Credit Union
 
 If you have questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: 
 
-Tony Popielarz, AVP Marketing
+Lisa Morrissette, AVP Marketing
 
 Northeast Credit Union  
 100 Borthwick Ave.  
