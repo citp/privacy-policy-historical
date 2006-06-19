@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mosw.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204110451id_/http%3A//mosw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mosw.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620012851id_/http%3A//mosw.com/privacy.html) for the most accurate reproduction.*
 
 # Muncinsky Ondrej Software: Privacy Policy
 
@@ -14,4 +14,4 @@ With respect to security: We have appropriate security measures in place in our 
 
 Provided by **Ondrej Muncinsky** (Czech Republic). Sold by **2CheckOut.com Inc.** (Ohio, USA). 
 
-© 2003 Ondrej Muncinsky. All rights reserved.
+© 2005 Ondrej Muncinsky. All rights reserved.
