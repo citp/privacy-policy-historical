@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the michaelbaisden.com privacy policy that was archived on 2005-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050728154743id_/http%3A//abcradio.com/privacypolicy2005.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelbaisden.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619103019id_/http%3A//abcradio.go.com/story%3Fid%3D212) for the most accurate reproduction.*
 
-# ABC Radio Network, Inc. || Privacy Policy / Your California Rights
+# Privacy Policy/Your California Privacy Policy Rights
 
-**Effective Date: January 1, 2005  
+**Effective Date: January 1, 2006  
 ABC Radio Network, Inc. Privacy Policy**
 
 For over 75 years, The Walt Disney Company has taken great pride in the relationships that it has developed with its guests. In keeping with this tradition, ABC Radio Network, Inc. is dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
@@ -102,15 +102,7 @@ A. 6 You may be able to access and update the contact information you gave us on
 
 **Q. 7 How will you know if we amend this Privacy Policy?**
 
-A. 7 We may amend this Privacy Policy at any time. If we amend this Privacy Policy to permit material changes in the way we collect, use and/or share your personal information, we will notify you of such changes by sending you an e-mail at the last e-mail address that you provided to us, and/or by prominently posting notice of the changes on our web site(s). Any such material changes to this Privacy Policy will be effective thirty (30) calendar days following either our dispatch of an e-mail notice to you or our posting of notice of the changes on our web site(s). Any such material changes to this Privacy Policy may affect our use and sharing of personal information that you provided to us before our notification to you of the changes. If you do not wish to permit material changes in our collection, use or sharing of your personal information that you have provided to us before the effective date of such changes, you must so notify us before the effective date. Please be advised, however, that, regardless of whether you provide such notice to us, the changes to this Privacy Policy will apply to any personal information that you provide to us on or after the effective date of such changes.
-
-**Q. 8 Information Gathered Offline**
-
-A. 8 The discussion in this A8 applies only to personally identifiable information that you provide to us offline for the purpose of obtaining a product or service primarily for personal, family or household purposes. We may collect this type of personally identifiable information by telephone, mail or other means. We may use this information in a variety of ways. For example, we may use this information to send you promotional materials, and we may share this information with other members of The Walt Disney Family of Companies and other companies so that they can send you promotional materials. We also may use this information for purposes other than sending you promotional materials. For example, we may use this information to process orders requested by you, or to respond to you if you contact us for help. In each instance, our collection, use and sharing of this information will be in accordance with all applicable laws. Finally, from time to time, we may offer you the opportunity to opt-out of certain communications based upon contact information that you provide us offline.
-
-**Q. 9 Do California residents have special rights?**
-
-A. 9 Beginning on January 1, 2005, **California Civil Code Section 1798.83** permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [**caprivacy.abcrn.newmedia@abcrn.com**](mailto:%20caprivacy.abcrn.newmedia@abcrn.com) or write us at:
+A. 9 As of January 1, 2005, **California Civil Code Section 1798.83** permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [**caprivacy.abcrn.newmedia@abcrn.com**](mailto:%20caprivacy.abcrn.newmedia@abcrn.com) or write us at:
 
 ABC Radio Network, Inc.  
 Attention: California Privacy Compliance  
