@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcwb.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305041538id_/http%3A//www.pcwb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcwb.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619134759id_/http%3A//www.pcwb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -26,7 +26,7 @@ Any personal information we collect from you will be used in accordance with the
 
 (2) To carry out security checks (this may involve passing your details to a credit reference agency, who will check details we give them against public and private databases and may keep a record of that check to use in future security checks - this helps to protect you and us from fraudulent transactions).
 
-We are a subsidiary of Dixons Group plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting of data, monitoring how customers use our site and issuing our emails for us.
+We are a subsidiary of DSG International Plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting of data, monitoring how customers use our site and issuing our emails for us.
 
 We would also like to inform you of various promotions, goods and services that may be of interest to you. You may be contacted by post, email, telephone or such other means as we regard as appropriate.
 
@@ -36,7 +36,7 @@ We would also like to inform you of various promotions, goods and services that 
 
 (2) You can ask us not to send you future marketing communications. To do this, simply email database@pcwb.com with your request.
 
-(3) You also have the right to request a copy of any personal information we hold about you. Email your request to database@pcwb.com. There may be a charge for this service.
+(3) You also have the right to request a copy of any personal information we hold about you. Email your request to database@pcwb.com. There will be a charge of £10 for this service.
 
 **Other Websites**
 
