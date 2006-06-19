@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtools.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220124230id_/http%3A//www.virtools.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtools.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619113109id_/http%3A//www.virtools.com/privacy.asp) for the most accurate reproduction.*
 
 # Virtools Privacy Statement
 
@@ -17,8 +17,7 @@ If you wish to be removed from our mailing lists, please write to:
 or send a letter to:
 
 **Virtools SA**  
-93 rue Vieille du Temple  
-75003 Paris, France
-
-Tel: +33/ 1 42 71 46 86  
+36 rue du Chemin Vert   
+75011 Paris  
+France ****Tel: +33/ 1 42 71 46 86  
 Fax: +33/ 1 42 71 86 53
