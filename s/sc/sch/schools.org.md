@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schools.org privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223031022id_/http%3A//schools.org/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schools.org privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619031412id_/http%3A//schools.org/legal/privacy.asp) for the most accurate reproduction.*
 
 # Schools Financial Credit Union | 1-916-569-5400
 
