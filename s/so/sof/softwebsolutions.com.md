@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softwebsolutions.com privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418082415id_/http%3A//www.softwebsolutions.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwebsolutions.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619051001id_/http%3A//softwebsolutions.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Priya SoftWEB Solutions
+# Softweb Solutions - Offshore software development, outsourcing offshore services
 
 This online privacy policy discloses SoftWeb Solutions's online information gathering practices and describes the usage of the information gathered on this Web site. Personal Information Collection and Use
 
@@ -8,9 +8,9 @@ The only personally identifiable information collected on this site is submitted
 
 **Contact Us**
 
-We collect your contact information through our 'Contact' form so that we can respond to your requests. We may keep this information in a database. You may bypass the form submission if you wish by using the email address provided and by using your personal mail application to submit your request.  
-**  
-Apply for a job**
+We collect your contact information through our 'Contact' form so that we can respond to your requests. We may keep this information in a database. You may bypass the form submission if you wish by using the email address provided and by using your personal mail application to submit your request.
+
+**Apply for a job**
 
 When applying for a job using the online form. The data you submit is stored in a secure database. We have taken careful measures to ensure the integrity and security of your data. It is stored behind a firewall and is only accessible by using a secure ID and password, which is distributed to Human Resources or Web site staff members who need it to do their jobs. SoftWeb Solutions will not share email addresses or contact information we collect through our Web site with any third parties unless required by law.
 
@@ -30,4 +30,4 @@ SoftWebSolutions.com includes links to Web sites of other companies. We do not l
 
 We have taken careful measures to ensure the integrity and security of your data. It is stored behind a firewall and is only accessible by using a secure ID and password that is distributed to staff members who need it to do their jobs. Acceptance of SoftWeb Solutions's Online Privacy Policy
 
-By using this site, you agree to SoftWeb Solutions's online privacy policy. If you do not agree to this policy, please do not use this site. We may change or modify this policy without notice, please check back periodically. 
+By using this site, you agree to SoftWeb Solutions's online privacy policy. If you do not agree to this policy, please do not use this site. We may change or modify this policy without notice, please check back periodically.
