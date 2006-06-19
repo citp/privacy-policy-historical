@@ -1,16 +1,35 @@
-> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403114453id_/http%3A//www.wizards.com/company/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620001513id_/http%3A//wizards.com/default.asp%3Fx%3Dprivacystatement) for the most accurate reproduction.*
 
 # WIZARDS WEB SITE PRIVACY STATEMENT
 
-_Last modified November 20, 2004_
+_Last modified January 19, 2006_
 
 ### WELCOME! 
 
-The Wizards of the Coast Web site brings you the coolest information about the world of Wizards and provides a first hand look at our games. If you are a parent or guardian and are interested in knowing more about Wizard's policy regarding the online collection of information from children, we recommend reviewing the Note To Parents below. 
+[](https://web.archive.org/leaving.asp?url=http://www.esrb.org/confirm/wizards-confirmation.jsp&origin=company_privacystatement)The Wizards of the Coast Web site brings you the coolest information about the world of Wizards and provides a first hand look at our games. If you are a parent or guardian and are interested in knowing more about Wizard's policy regarding the online collection of information from children, we recommend reviewing the Note To Parents below. 
 
 Wizards respects the privacy rights of its online visitors and is committed to providing you with a secure online environment. We have adopted an Online Privacy Policy ("Privacy Policy") that guides how we collect, store and use the information you provide us online. 
 
-### What does this Privacy Policy apply to?
+This Privacy Statement and the certification seal located to your right confirms that Wizards is a valid licensee and participating member in the Entertainment Software Rating Board’s Privacy Online Program: ESRB Privacy Online. To protect your privacy, we have voluntarily undertaken this privacy initiative and all our Web sites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB. 
+
+Whenever you visit a Web site that displays the ESRB Privacy Online certification seal, you can expect to be notified of: 
+
+  * Exactly what personal information may be collected; 
+  * The consequences, if any, resulting from your refusal to provide personal information; 
+  * Who, if anyone, is collecting your personal information;
+  * How this information may be used, including, with whom, if anyone, it might be shared; 
+  * Whether a company uses cookies or tracks IP Addresses to collect information; 
+  * What choices you have with regard to the use of your personal information;
+  * How a company ensures data security, quality, and integrity; 
+  * How you can access and, if necessary, change the personal information a company collects and maintains; 
+  * Where and how to ask questions or file complaints; and, 
+  * Whether and how information is collected from Children under 13. 
+
+
+
+If you have any questions, complaints, or comments regarding our privacy statement or policies, please contact the Privacy Policy Administrator at webregistration@wizards.com. For complaints, you can also contact ESRB Privacy Online directly at (212) 759-0700 or by regular mail at 317 Madison Avenue, 22nd Floor, New York, NY 10017. 
+
+### What does this Privacy Policy apply to? 
 
 This privacy policy applies to the following websites operated by Wizards:
 
@@ -32,7 +51,7 @@ This privacy policy applies to the following websites operated by Wizards:
 
 
 
-Please note that this privacy policy applies only to information submitted and collected online through the website(s) listed above, and does not apply to information that may be collected by Wizards offline. In addition, this privacy policy applies only to sites maintained by Wizards and not to websites maintained by other companies or organizations to which we link. Wizards is therefore not responsible for the content or activities provided on such sites.
+Please note that this privacy policy applies only to information submitted and collected online through the website(s) listed above, and does not apply to information that may be collected by Wizards offline. In addition, this Privacy Policy applies only to sites operated by Wizards from its offices within the State of Washington, United States of America ("US"), and not to Web sites operated by our international affiliates (e.g., Wizards UK) or other companies or organizations to which we link. When you link to any other sites from Wizards' US Web site, this policy no longer applies and Wizards does not control the activities of those sites.
 
 ### What information does Wizards collect? 
 
@@ -81,7 +100,7 @@ The demographic information (e.g., age and gender) you provide us is collected b
 
 ### With whom does Wizards share my personal information?
 
-From time to time, Wizards may employ and share its customers' personal information with entities who use it solely to provide support for the internal operations of the Wizards website (e.g., online product fulfillment, email services, or technical support). These entities will not use your personal information for any other purpose, and have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us.
+Wizards may share your personal information with outside entities hired to assist with internal website support operations (e.g., online product fulfillment, email services, or technical support). These websites will not use your personal information for any other purpose, and have agreed to maintain confidentiality, surveys, security, and integrity of all the personal information they obtain from us. Wizards employs the following entities for internal website support: 
 
 We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability.
 
@@ -139,7 +158,11 @@ Wizards may collect personal information from users over 12 and under 18 ("teena
 
 Wizards may collect and store personal information about children under 13 ("children" or "child") if it submitted by way of our registration form and with the parent's verifiable consent. To determine who is younger than 13 years old and whether parental consent is required, we ask all users who wish to register to submit their date of birth. Those users that indicate they are under 13 years of age are directed to a Parental Consent Form. If given verifiable permission from a parent, Wizards may collect and store the following types of personal information about a child under 13: name, email address, mailing address, parent's or guardian's name, and parent's or guardian's email address. Wizards may also collect demographic information about a child such as the child's date of birth, gender, and other preferences; and, combine such information with the child's personal information. Wizards will only collect this information if it is voluntarily submitted to us by the child or parent and provided with the parent's signed permission. We do not gather personal information about a child through the use of passive collection mechanisms such as cookies. For more information on how we use cookies and other information collection tools, please see our section on cookies (provided above).
 
-The information that a child provides on his/her registration form may be used to: (a) allow the child to participate in activities on our site (e.g., contests); and, (b) allow us to send the child promotional materials, including information about new products, contests, features and enhancements, special offers, and other events of interest. We may also use the information for our internal marketing and demographic studies, so that we can constantly improve the products and services we provide our visitors and to better meet their needs. 
+The information that a child provides on his/her registration form may be used to: (a) allow the child to participate in activities on our site (e.g., contests); and, (b) allow us to send the child promotional materials, including information about new products, contests, features and enhancements, special offers, and other events of interest.
+
+Wizards may share kids' personal information with outside entities hired to assist with internal website support operations (e.g., online product fulfillment, email services, or technical support). These websites will not use kids' personal information for any other purpose, and have agreed to maintain confidentiality, surveys, security, and integrity of all the personal information they obtain from us. 
+
+We may also use the information for our internal marketing and demographic studies, so that we can constantly improve the products and services we provide our visitors and to better meet their needs. 
 
 Please note that we are prohibited from conditioning a child's participation in an activity - like contests - on the child's disclosure of more personal information than is reasonably necessary to participate in the activity. To read about the steps Wizards takes to protect the confidentiality, security, and integrity of children's personal information, please see our section on "Safeguarding your personal information" (above). 
 
@@ -149,8 +172,9 @@ In some instances, certain portions of our site (e.g., electronic postcards) wil
 
 Any personal information that a child provides to our website(s) for purposes of registration is collected by Wizards. Wizards contact information is as follows:
 
-Wizards of the Coast  
-Attention: Web Registration  
+  
+Attention: M.Creel  
+Web Registration   
 P.O. Box 707  
 Renton, WA 98057  
 (425) 204-5900
@@ -174,3 +198,6 @@ A parent who has already given Wizards permission to collect and use his or her 
 We will be happy to honor your request. 
 
 Back to start of Wizards Privacy Statement.
+
+  
+
