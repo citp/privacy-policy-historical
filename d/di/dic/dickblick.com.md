@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214090819id_/http%3A//www.dickblick.com/customerservice/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickblick.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619114624id_/http%3A//www.dickblick.com/customerservice/privacy) for the most accurate reproduction.*
 
 # Security and Privacy
 
