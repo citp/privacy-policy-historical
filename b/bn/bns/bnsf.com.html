@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bnsf.com privacy policy that was archived on 2005-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210061123id_/http%3A//www.bnsf.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bnsf.com privacy policy that was archived on 2006-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060619060842id_/http%3A//www.bnsf.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>BNSF.com</title>
@@ -297,7 +297,7 @@
           <div class="formFieldContainer">
             <div class="formFieldPos">
                       <!-- SEARCH STARTS -->
-          <form name="f" action="http://search.bnsf.com/search" method="get" target="_blank">
+          <form name="f" action="http://wwwsearch.bnsf.com/search" method="get" target="search">
           <input type="text" name="q" value="" class="homeSearch" onfocus="clearSearchBox();">
           <input type="image" onclick="blur();" src="/images/subpage_button_arrow.png" alt="Submit" title="Submit" align="bottom">
           <input name="webServeTestProduction" value="Test Production Index" type="hidden">
@@ -305,6 +305,7 @@
           <input name="proxystylesheet" value="www_prod" type="hidden">
           <input name="output" value="xml_no_dtd" type="hidden">
           <input name="site" value="www_prod" type="hidden">
+		  <input type="hidden" name="access" value="p">
           </form>
           <!-- SEARCH ENDS -->
 
@@ -365,8 +366,9 @@
  var formElements = null;
  var applicationData = null;
  var correlationId = null;
+ // b361450 06/15/06: removed WebTracker.formData |
  new WebTracker( projectName,
-                 WebTracker.title | WebTracker.formData | WebTracker.linkCount | WebTracker.pageName | WebTracker.availWidth | WebTracker.availHeight | WebTracker.colorDepth | WebTracker.lang | WebTracker.statusText,
+                 WebTracker.title | WebTracker.linkCount | WebTracker.pageName | WebTracker.availWidth | WebTracker.availHeight | WebTracker.colorDepth | WebTracker.lang | WebTracker.statusText,
                  formElements,
                  applicationData,
                  correlationId,
@@ -441,11 +443,12 @@
 <span class="noPrint">
   <a href="/sitetermsofuse.html" target="_blank">Terms of Use</a>&nbsp;&nbsp;/&nbsp;&nbsp;
   <a href="/privacy_policy.html">Privacy Policy</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="/tools/contacts.html">Contact Us</a>&nbsp;&nbsp;/&nbsp;&nbsp;
-  <a href="/sitemap.html">Site Map</a>
+  <a href="/aboutbnsf/contacts.html">Contact Us</a>&nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="/sitemap.html">Site Map</a>&nbsp;&nbsp;/&nbsp;&nbsp;
+  <a href="/aboutbnsf/feedback.html">Feedback</a>
   <br>
 </span>
-© 2005 BNSF Railway Company. All Rights Reserved.</span><br>
+© 2006 BNSF Railway Company. All Rights Reserved.</span><br>
 <img src="/images/spacer.gif" width="1" height="8" alt="" border="0"><br>
 </span>
 <!-- FOOTER ENDS -->
