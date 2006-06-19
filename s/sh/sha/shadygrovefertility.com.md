@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadygrovefertility.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226045031id_/http%3A//shadygrovefertility.com/privacy_notice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadygrovefertility.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619134015id_/http%3A//shadygrovefertility.com/privacy_notice.cfm) for the most accurate reproduction.*
 
 # IVF and infertility treatment -- Shady Grove Fertility
 
