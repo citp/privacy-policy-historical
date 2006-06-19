@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marshallsonline.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219215112id_/http%3A//www.marshallsonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marshallsonline.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619085031id_/http%3A//www.marshallsonline.com/privacy.asp) for the most accurate reproduction.*
 
 # Marshalls - Privacy and Security Policy
 
-| 
+|  | 
 
-Welcome to **marshallsonline.com** (the “Website”), the website for **Marshalls** , a division of The TJX Companies, Inc. (“TJX”). Marshalls, TJX and its affiliates are the “TJX Businesses.” This Privacy and Security Policy applies to and is a part of the Website which is also governed by the Website's [_Terms of Use_](https://web.archive.org/web/20051219215112id_/http%3A//www.marshallsonline.com/legal.asp). If any of the terms of this Privacy and Security Policy directly conflict with the Website Terms of Use, the terms of this Privacy and Security Policy shall apply and control. 
+Welcome to **marshallsonline.com** (the “Website”), the website for **Marshalls** , a division of The TJX Companies, Inc. (“TJX”). Marshalls, TJX and its affiliates are the “TJX Businesses.” This Privacy and Security Policy applies to and is a part of the Website which is also governed by the Website's [_Terms of Use_](https://web.archive.org/web/20060619085031id_/http%3A//www.marshallsonline.com/legal.asp). If any of the terms of this Privacy and Security Policy directly conflict with the Website Terms of Use, the terms of this Privacy and Security Policy shall apply and control. 
 
 Marshalls wants to make your experience online convenient and safe. We want you to know what information we collect, how we may use that information, how we protect that information, and how we share that information. Personal information is information about an identifiable individual, which includes name, address, e-mail address, telephone number, and other information that is identifiable to you, as more particularly defined by privacy legislation. By using the Website, or by providing us with your personal information at our stores, in our promotions and in other ways when you interact with us, you signify your assent to the conditions stated in this Privacy and Security Policy and the Terms of Use. This Privacy and Security Policy does not apply to information about our employees or to information provided to us in connection with employment opportunities. 
 
@@ -111,7 +111,7 @@ We reserve the right to modify our Privacy and Security Policy by updating this 
 
 This statement was last updated as of March 28, 2005. 
 
-©2005 Marshalls. All rights reserved. 
+©2006 Marshalls. All rights reserved. 
 
-|    
----|---
+|   
+---|---|---
