@@ -1,27 +1,13 @@
-> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231215329id_/http%3A//www.synovus.com/index.cfm%3FcatID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619102749id_/http%3A//synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.*
 
 # Synovus
 
-  
-|   
----  
-12/31/05 4:44 PM  
-**Synovus**  
-SNV: | **$27.01** |  0.00 |  0.00%  
-**TSYS**  
-TSS: | **$19.79** |  0.00 |  0.00%  
-**Dow Jones**  
-**10,717.50** |  0.00 |  0.00%  
-Buy Synovus Stock  
-Synovus Privacy Policy
+**_2006  
+Our Customer Covenant and Privacy Policy   
+_Synovus **
 
-* * *
-
-_2005  
-Our Customer Covenant and Privacy Policy  
-Synovus_
-
-__Our Customer Covenant__
+**  
+__Our Customer Covenant__**
 
 **_We pledge to serve every customer with the highest levels of sincerity, fairness, courtesy, respect and gratitude, delivered with unparalleled responsiveness, expertise, efficiency and accuracy. We are in business to create lasting relationships, and we will treat our customers like we want to be treated. We will offer the finest personal service and products delivered by caring team members who take 100% responsibility for meeting the needs of each customer._**
 
@@ -34,7 +20,7 @@ Our most important asset is our customers' trust. Keeping information about you 
 **Here is a brief summary of our privacy policy**
 
   1. We have never sold and will never sell information about you to others for their independent use. 
-  2. We will keep any information you provide to us safe. 
+  2. We have incorporated policies and procedures designed to keep any information you provide us safe. 
   3. We will limit the collection and use of information about you to the minimum we believe is required to deliver superior service. 
   4. We will limit use of information about you to authorized team members, trained in the proper handling of customer information. This means only team members whom we determine need to know information to provide products and services to you will be allowed access. 
   5. In addition to restricting access to information about you, we also maintain physical, electronic and procedural safeguards that comply with applicable legal and regulatory standards to keep this information private and secure. 
@@ -69,11 +55,12 @@ We may share all the information that we collect as follows:
   * To companies that perform marketing services on our behalf, for example, financial companies such as banks and insurance companies; non-financial companies such as direct marketers and mail houses; and others such as membership groups or to other financial institutions under joint marketing agreements, such as insurance companies, banks and securities broker-dealers. 
   * To unrelated companies - such as retailers, airlines, non-profit organizations, etc. - which may provide you with special offers related to their products and services. 
   * For identification purposes to protect your accounts and guard against unauthorized access. 
-  * Only in accordance with the principles stated in this covenant. 
+  * Only in accordance with the principles stated in this covenant.
 
 
 
-_We will not, however, sell or provide information about you to telemarketing companies for their independent use._ We will also not use or share - internally or externally - personally identifiable medical information for any purpose other than underwriting or administering your insurance policy, claim or account, or as disclosed to you when the information is collected or to which you consent. We will comply with applicable state and local laws that may restrict the types of information we may share about you or require us to provide you with additional notices.
+  
+We will comply with applicable state and local laws that may restrict the types of information we may share about you or require us to provide you with additional notices.
 
 **You have choices regarding information disclosure**
 
@@ -132,18 +119,18 @@ Please note: Third parties may have access to information about you, which they 
 
 If you have any questions regarding our privacy policies or procedures, please contact the compliance officer of the appropriate Synovus company where you are a customer. If you are a customer of more than one Synovus company or if you have multiple accounts with us, you may receive more than one notice.
 
-**June 2005. This covenant supersedes any previous privacy statement issued. We reserve the right to modify or add to the policy at any time.**
+**June 2006. This covenant supersedes any previous privacy statement issued. We reserve the right to modify or add to the policy at any time.**
 
 This privacy policy is being provided on behalf of the following companies who provide Synovus financial services*:
 
 Athena Service Corporation (Athens, GA)  
-Athens First Bank & Trust Co.  
+AFB&T (Athens, GA)  
 Bank of Coweta (Newnan, GA)  
 The Bank of Nashville (Nashville, TN)  
 Bank of North Georgia (Alpharetta, GA)  
 Bank of Pensacola  
 The Bank of Tuscaloosa  
-CB&T Bank of Russell County (Phenix City, AL)  
+CB&T Bank of East Alabama (Phenix City, AL)  
 CB&T Bank of Middle Georgia (Warner Robins, GA)  
 Citizens & Merchants State Bank (Douglasville, GA)  
 The Citizens Bank (Ft. Valley, GA)  
@@ -161,6 +148,7 @@ First Coast Community Bank (Fernandina Beach, FL)
 First Commercial Bank (Birmingham, AL)  
 First Commercial Bank Huntsville  
 First Community Bank of Tifton  
+First Florida Bank (Naples)  
 First Nation Bank (Covington, GA)  
 First National Bank of Jasper  
 First State Bank and Trust Company (Valdosta, GA)  
@@ -170,7 +158,6 @@ Merit Leasing Corporation (Tucker, GA)
 The National Bank of South Carolina  
 The National Bank of Walton County (Monroe, GA)  
 Peachtree National Bank (Peachtree City, GA)  
-Peoples Bank (Palm Harbor, FL)  
 Sea Island Bank (Statesboro, GA)  
 Security Bank and Trust Company (Albany, GA)  
 Sterling Bank (Montgomery, AL)  
@@ -179,8 +166,6 @@ Synovus Bank of Jacksonville (Jacksonville, FL)
 Synovus Bank of Tampa Bay (St. Petersburg, FL)  
 Tallahassee State Bank  
 Trust One Bank (Memphis, TN)  
-United Bank and Trust Company (St. Petersburg, FL)  
-United Bank of the Gulf Coast (Sarasota, FL)  
 Vanguard Bank & Trust (Valparaiso, FL)  
 Creative Financial Group, LTD.  
 GLOBALT, Inc.  
@@ -193,5 +178,3 @@ Synovus Mortgage Corp.
 Synovus Securities, Inc.
 
 _* Some products and services offered by these companies may be subject to separate privacy policies. This policy will apply to your relationships with these companies unless you are notified otherwise._
-
-This policy will also apply automatically to new companies acquired by Synovus during the period covered by this Privacy Policy.
