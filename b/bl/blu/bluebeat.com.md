@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluebeat.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214224457id_/http%3A//www.bluebeat.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebeat.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619101212id_/http%3A//bluebeat.com/support/privacy) for the most accurate reproduction.*
 
-# BlueBeat.com - privacy
+# BlueBeat.com - Privacy
 
 #### Last Updated March 17, 2005
 
@@ -24,7 +24,7 @@ We also use "cookies" - that is, small text files placed on a user's computer ha
 
   2. ##### Personally identifiable information:
 
-In certain areas of the BlueBeat web site - for example, when registering to become an BlueBeat member - we require that you provide us with personally identifiable information (including, for example, first name, surname, street address, email address, telephone number, username, password and, when applicable, credit card information and billing address).
+In certain areas of the BlueBeat web site - for example, when registering to become an BlueBeat member - we require that you provide us with personally identifiable information (including possibly, for example, first name, surname, street address, email address, telephone number, username, password and, when applicable, credit card information and billing address).
 
 Your username will be how you are identified to other members within the service (see "Submissions and Postings" and "Forum" sections of the BlueBeat Terms of Use), so please choose accordingly.
 
