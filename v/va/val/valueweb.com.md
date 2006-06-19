@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valueweb.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214192452id_/http%3A//valueweb.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueweb.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619212218id_/http%3A//valueweb.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # 
 
