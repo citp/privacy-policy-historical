@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the valottery.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229232147id_/http%3A//valottery.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valottery.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619102431id_/http%3A//valottery.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Official Home of the Virginia Lottery
 
   
-The Virginia Lottery respects the privacy of every person visiting our website. If you have questions after reviewing our Privacy Policy, we encourage you to [contact us](https://web.archive.org/web/20051229232147id_/http%3A//valottery.com/contactus.asp).
+The Virginia Lottery respects the privacy of every person visiting our website. If you have questions after reviewing our Privacy Policy, we encourage you to [contact us](https://web.archive.org/web/20060619102431id_/http%3A//valottery.com/contactus.asp).
 
 The Virginia Lottery will not collect any personal information about you (i.e., your name, address, telephone number, or email address) unless you provide it to us voluntarily. If you have access to the Internet, your computer automatically has an Internet Protocol ("IP") address. We use IP addresses to gather information to track the number of visitors to our website and to identify our most popular pages so we can improve site content. 
 
@@ -39,4 +39,4 @@ For your convenience the Virginia Lottery website may provide links to other sit
 
 The Virginia Lottery does not warrant the accuracy, reliability or timeliness of any information published on the Virginia Lottery website or any site to which we link, nor endorse any content, viewpoint, product or service linked from this system and shall not be liable for any loss caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at his or her own risk.
 
-To offer comments about the Virginia Lottery website or about the information presented in this Privacy Statement you may [contact us](https://web.archive.org/web/20051229232147id_/http%3A//valottery.com/contactus.asp).
+To offer comments about the Virginia Lottery website or about the information presented in this Privacy Statement you may [contact us](https://web.archive.org/web/20060619102431id_/http%3A//valottery.com/contactus.asp).
