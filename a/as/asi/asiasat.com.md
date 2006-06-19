@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiasat.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228205826id_/http%3A//www.asiasat.com/eng/06_others/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiasat.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619194138id_/http%3A//www.asiasat.com/eng/06_others/privacy.html) for the most accurate reproduction.*
 
 # Asia Satellite | Privacy Policy
 
