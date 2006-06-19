@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230112824id_/http%3A//www.vtac.edu.au/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtac.edu.au privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619110450id_/http%3A//www.vtac.edu.au/general/privacy.html) for the most accurate reproduction.*
 
 # VTAC:General:Privacy
 
@@ -37,7 +37,7 @@ Using the results received from the VCAA, VTAC calculates an ENTER or notional E
 
 While current and previous Year 12 results are stored on a national database, this information can only be accessed, by the Director (or nominee) of any state-based tertiary admission centre if you initiate an application for tertiary study within that state. 
 
-The [Grade Point Average (GPA)](https://web.archive.org/web/20051230112824id_/http%3A//www.vtac.edu.au/nony12/gpa.html) will be used as stated under each published course or institutional selection mode. .
+The [Grade Point Average (GPA)](https://web.archive.org/web/20060619110450id_/http%3A//www.vtac.edu.au/nony12/gpa.html) will be used as stated under each published course or institutional selection mode. .
 
 ## Who has access to your information?
 
