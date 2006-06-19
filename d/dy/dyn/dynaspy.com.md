@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynaspy.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228193759id_/http%3A//www.dynaspy.com/privacy.php%3FosCsid%3D019b5580154714ee50f1517ef519dbeb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynaspy.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619150513id_/http%3A//www.dynaspy.com/privacy.php%3FosCsid%3De8dd999f7804e7dbba035a52ddd3cd74) for the most accurate reproduction.*
 
 # Welcome to DynaSpy. We offer spy camera, nanny cam, covert cameras, hidden camera, and more at DynaSpy.com
 
