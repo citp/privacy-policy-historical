@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretgeek.net privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretgeek.net privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,21 +23,32 @@ If you have any concerns about this privacy policy, please contact me.
   
 
 
-[Add or view comments about this page](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/Comments_privacy.asp)
+[Add or view comments about this page](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/Comments_privacy.asp)
 
-|  [ Get Currency Symbol](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/GetCurrencySymbol.asp)  
-[ Amazon Refers](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/amazon_ref.asp)  
-[ Kitchen Kanban](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/kitchenKanban.asp)  
-[ Check-In Watcher](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/checkinWatcher.asp)  
-[ Ruby, Netwar, Admin, Icons and Ajax](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/picks_20051208.asp)  
-[ Game of life](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/gameoflife_.asp)  
+|  [ .Net Gospels](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/netgospels.asp)  
+[ Collation Is Evil](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/collation.asp)  
+[ 6 Code Documentation Tools](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/documentools.asp)  
+[ Visual Poetry Studio 2005](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/visual_poetry_studio.asp)  
+[ Why Worry? (Ajax Edition)](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/why_worry_ajax.asp)  
+[ Marketing Weasels Who Write Code](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/weasel_code.asp)  
+[ Generics: ReDim for C#](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/generic_redim_csharp.asp)  
+[ Speed for SQL](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/sqlprompt_anim.asp)  
+[ Why Worry? (for programmers)](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/why_worry.asp)  
+[ Stop Bein So Fat!](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/damn_fat.asp)  
+[ The EzyFridge](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/ezyfridge.asp)  
+[ New Aussie Tax Calculator](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/tax_may06.asp)  
+[ How Iif works and why](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/iif_function.asp)  
+[ Featuritis and TimeSnapper 2.0](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/timesnapper_2_featuritis.asp)  
+[ garbled messages at gmail](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/gmail_garble.asp)  
+[ secretSneak: wscg 3.0](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/wscg_sneak.asp)  
 
 
 * * *
 
-[ TimeSnapper.com ](http://timesnapper.com/)  
-[ Best of secretGeek](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/bestof.asp)  
-[ Archives](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/blogarchive.asp)  
+[ TimeSnapper.com      ](http://timesnapper.com/ "TimeSnapper -- Automated Screenshot Journal")  
+[ Top 10 SecretGeek articles](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/bestof.asp)  
+[ Archives](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/blogarchive.asp)  
+[ Thai Erawan, Brisbane Restaurant](http://thaierawan.com.au/ "Thai Erawan, Brisbane Restaurant, delicious thai food in paddington")  
 
 
 * * *
@@ -46,9 +57,10 @@ If you have any concerns about this privacy policy, please contact me.
 
 [ World's 2nd Simplest Code Generator](http://secretgeek.net/w2scg.asp)  
 [ Gradient Maker](http://secretgeek.net/GradientMaker.asp)  
-[ How to be depressed](https://web.archive.org/web/20051212151117id_/http%3A//secretgeek.net/depression_is_easy.asp)  
-[ You are not inadequate.](http://secretgeek.net/inadequate.asp)  
+[ How to be depressed](https://web.archive.org/web/20060619122656id_/http%3A//secretgeek.net/depression_is_easy.asp)  
+[ You are not inadequate.](http://secretgeek.net/inadequate.asp)
 
+[](http://www.larkware.com/)
 
 * * *
 
@@ -63,7 +75,9 @@ If you have any concerns about this privacy policy, please contact me.
 
 ## Linkblog
 
-## [del.icio.us](http://del.icio.us/) / [secretGeek](http://del.icio.us/secretGeek)
+## [del.icio.us](http://del.icio.us/) / [my del.icio.us](http://del.icio.us/secretGeek)
+
+[](http://www.linkedin.com/pub/1/269/591)
 
 * * *
 
