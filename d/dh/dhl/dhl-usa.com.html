@@ -1,19 +1,42 @@
-<!--The following is the downloaded HTML source of the dhl-usa.com privacy policy that was archived on 2005-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050401084455id_/http%3A//www.dhl-usa.com/About/Privacy.asp%3Fnav%3DAboutDHLUSA/CompanyInfo/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dhl-usa.com privacy policy that was archived on 2006-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060619115230id_/http%3A//www.dhl-usa.com/About/Privacy.asp%3Fnav%3DPrivacy) for the most accurate reproduction.-->
 
-<html><head>
-		<title>DHL - Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+		<title>DHL: Privacy Policy</title>
 		<meta name="keywords" content="dhl, airborne, airborne express, airborne-express, airbourne, airborn, shipping, shipment, overnight, express, freight, transportation, logistics, aircourier, Sky Courier, mail, air cargo, carrier, warehousing, tracking, delivery, package, distribution, same-day, next-day, second-day, Lightship, Libra, Flight-Ready, air express">
 		<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
 		
-<link rel="styleSheet" href="http://www.dhl-usa.com/css/ns4.css" type="text/css">
+
+<link rel="styleSheet" href="http://www.dhl-usa.com/css/dhl_style_common_nn.css" type="text/css">
+
 
 		<script language="javascript" src="http://www.dhl-usa.com/js/utilHover.js" type="text/javascript"></script>
 		<script language="javascript" src="http://www.dhl-usa.com/js/utilCommon.js" type="text/javascript"></script>
 		<script language="javascript" type="text/javascript">
-			<!--
+			//<!--
 			//sub:WritePrivacyHTML()
-
+			var isNN4 = document.layers;
+			function fnTopMenuSel(mPos)
+			{
+				document.mainNav1.src = "http://www.dhl-usa.com/images" + "/menu" + mPos + ".gif";
+			}
+			
+				function CheckForKeyPressLeft13(e) {
+				        var keyChar = String.fromCharCode(e.which);
+				        if(keyChar.charCodeAt(0) == 13 && e.target.name == 'txtPassword')
+				        {
+				
+				            submitLoginRequest();
+				        }
+				}
+			
+			
+			function SwapImage(name,path)
+			{	
+						
+				document[name].src = path;
+	
+   			}
 			// load all hover image objects
 			loadImages("http://www.dhl-usa.com/images");
 		
@@ -32,10 +55,122 @@
 			}
 
 			
+			function PopNewWindow(strURL)
+			{	
+			settings = "left=20,top=20,height=500,width=600,scrollbars=yes,status=yes,location=no,toolbar=yes,resizable=yes"
+			nWin = window.open(strURL,"Win",settings);
+			nWin.focus();
+			}
 			
-			//-->
+			function PopMi3NewWindow(strURL)
+			{	
+			settings = "left=20,top=20,height=600,width=830,scrollbars=yes,status=yes,location=no,toolbar=yes,resizable=yes"
+			nWin = window.open(strURL,"Win",settings);
+			nWin.focus();
+			}
+			
+			function PopCustServWindow(strURL)
+			{	
+			settings = "left=20,top=20,height=600,width=830,scrollbars=yes,status=yes,location=no,toolbar=yes,resizable=yes"
+			nWin = window.open(strURL,"Win",settings);
+			nWin.focus();
+			}
+			function PopDemoWindow()
+			{	
+			var path = "http://www.dhl-usa.com"
+		
+		//	settings = "left=20,top=20,height=530,width=795,scrollbars=no,status=yes,location=yes,toolbar=yes,resizable=yes"
+			settings = "left="+((screen.width/2)- 397.5)+", top="+((screen.height/2) - 265)+",height=530,width=795,scrollbars=no,status=no,location=no,toolbar=no,resizable=no"
+			
+			nWin = window.open(path + "/home/demo/index.asp","Win",settings);
+			nWin.focus();
+			}
+			function PopEEFDemoWindow()
+			{	
+			var path = "http://www.dhl-usa.com"
+		
+		//	settings = "left=20,top=20,height=530,width=795,scrollbars=no,status=yes,location=yes,toolbar=yes,resizable=yes"
+			settings = "left="+((screen.width/2)- 397.5)+", top="+((screen.height/2) - 265)+",height=530,width=795,scrollbars=no,status=no,location=no,toolbar=no,resizable=no"
+			
+			nWin = window.open(path + "/demo/fileSedDemo/eefDemo.asp","Win",settings);
+			nWin.focus();
+			}
+			//New script added
+			// change this to modify the amount of time (in milliseconds) before the popup appears 
+	
+	
+    
+    function getCookie(name){
+        var pos = document.cookie.indexOf(name);
+        if(pos == -1){return false;}
+        var start = pos + name.length + 1;
+        var end = document.cookie.indexOf(';',start);
+        if(end == -1){
+            end = document.cookie.length;
+        }
+        var value = document.cookie.substring(start, end);
+        return unescape(value);
+    }
+    
+    function setCookie(name, value){
+        var theCookie = name+"=" + value + "; ";
+        document.cookie = theCookie;
+    }
+
+   // function timeOutPop(timeout) {
+		//setTimeout("popup_window()",timeout); 
+    //}
+
+    function popup_window() {
+        if (getCookie('timeout') != 1) {
+            webVoicePop('Template=27170');
+            setCookie('timeout',1);
+        }
+    }
+
+    function btn_popup_window() {
+        webVoicePop('Template=59695');
+        setCookie('timeout',1);
+    }
+
+			//End of new script
+			//-->SSSS
 		</script>
 		
+	<script language="Javascript">
+	<!--
+	gVersion="1.0";
+	//-->
+	</script>
+	<script language="Javascript1.1"><!--
+	gVersion="1.1";
+	//-->
+	</script>
+	<script language="Javascript1.2"><!--
+	gVersion="1.2";
+	var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+	//-->
+	</script>
+	<script language="Javascript1.3"><!--
+	gVersion="1.3";
+	//-->
+	</script>
+	<script language="Javascript1.4"><!--
+	gVersion="1.4";
+	//-->
+	</script>
+	<script language="Javascript1.5"><!--
+	gVersion="1.5";
+	//-->
+	</script>
+	<script language="Javascript"><!--
+	var gDcsId = "dcslh1x9yoifwzzw4fisxq75d_1h5m";
+	//-->
+	</script>
+	<script language="javascript" src="http://www.dhl-usa.com/js/utilDatacollection.js" type="text/javascript"></script>
+	<noscript>
+	<img BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcslh1x9yoifwzzw4fisxq75d_1h5m/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+	</noscript>	
 	<script language="javascript" type="text/javascript">
 	<!--
 	function init(){
@@ -43,79 +178,458 @@
 	//-->
 	</script> 
 	
-	</head>
+	<script type="text/javascript" src="http://www.dhl-usa.com/fsrscripts/triggerParams.js"></script> 
+	<script type="text/javascript" src="http://www.dhl-usa.com/fsrscripts/stdLauncher.js"></script> 
+	<script type="text/javascript">Poll();</script>	
 	
-	<body onload="init();DrawFooterTable()" onresize="if (document.layers){document.location.reload();}" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" bgcolor="#ffffff">
+	</head>
+		
+	<body onload="init();" onresize="if (document.layers){document.location.reload();}" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" bgcolor="#ffffff">
 		<a name="top"></a>
 	
-	<!-- START Top Navigation Informational -->
-	<table border="0" cellpadding="0" cellspacing="0" width="780">
-		<tbody><tr>
-			<td valign="top">
-				<table border="0" cellpadding="0" cellspacing="0" width="162">
-					<tbody><tr>
-						<td><a href="http://www.dhl-usa.com/home/home.asp" onmouseover="window.status='Home';return true;" onmouseout="window.status='';return true;" tabindex="-1"><img src="http://www.dhl-usa.com/images/graphic_ablogo_croped.gif" alt="Home" width="155" height="63" border="0"></a></td>
-						<td rowspan="2" background="http://www.dhl-usa.com/images/utility-ls_top-splice.gif"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="77" border="0"></td>
-					</tr>
-					<tr>
-		<td><img src="http://www.dhl-usa.com/images/log_in_new.gif" usemap="#login" width="155" height="14" border="0"><map name="login" tabindex="-1"><area href="https://sso.dhl-usa.com/sso/Login_main.asp" coords="0,0,62,12" onmouseover="setTimeout('window.status=\'Log In\'', 1);return true;" onmouseout="window.status='';return true;" tabindex="-1"><area href="https://sso.dhl-usa.com/SSO/Register.asp?hdnSiteID=0" coords="65,0,154,12" onmouseover="setTimeout('window.status=\'New User Registration\'', 1);return true;" onmouseout="window.status='';return true;" tabindex="-1"></map></td>
-	</tr>
-				</tbody></table>
-			</td>
-			<td valign="top">
-				<table border="0" cellpadding="0" cellspacing="0" width="618" bgcolor="#ffffff">
-					<tbody><tr>
-						
-	<td align="left" valign="bottom"><img src="http://www.dhl-usa.com/images/topnav_off.gif" usemap="#topnav" width="604" height="17" border="0"><map name="topnav" tabindex="-1"><area href="https://sso.dhl-usa.com/sso/login_main.asp?hdnSiteID=1" coords="14,0,61,15" onmouseover="setTimeout('window.status=\'Ship\'', 1);return true;" onmouseout="window.status='';return true;" tabindex="-1"><area href="http://track.dhl-usa.com/TrackByNbr.asp" coords="62,0,122,15" onmouseover="setTimeout('window.status=\'Track\'', 1);return true;" onmouseout="window.status='';return true;" tabindex="-1"><area href="http://www.dhl-usa.com/TransitTimes/USTTimeStart.asp" coords="123,0,234,15" onmouseover="setTimeout('window.status=\'Transit Times\'', 1);return true;" onmouseout="window.status='';return true;" tabindex="-1"><area href="http://www.dhl-usa.com/ratecalculator/HandlerServlet?client=RATE_DISPLAY" coords="236,0,294,15" onmouseover="setTimeout('window.status=\'Rates\'', 1);return true;" onmouseout="window.status='';return true;" tabindex="-1"><area href="javascript:document.frmClientTime.submit()" coords="296,0,364,15" onmouseover="setTimeout('window.status=\'Pickups\'', 1);return true;" onmouseout="window.status='';return true;" tabindex="-1"><area href="http://sbw.dhl-usa.com/Locations/USLocnsStart.asp" coords="367,0,454,15" onmouseover="setTimeout('window.status=\'Locations\'', 1);return true;" onmouseout="window.status='';return true;" tabindex="-1"><area href="http://sbw.dhl-usa.com/SupplyOrder/SupplyOrderInfo.asp" coords="456,0,544,15" onmouseover="setTimeout('window.status=\'Supplies\'', 1);return true;" onmouseout="window.status='';return true;" tabindex="-1"><area href="https://sso.dhl-usa.com/sso/login_main.asp?hdnSiteID=2" coords="546,0,603,15" onmouseover="setTimeout('window.status=\'Billing\'', 1);return true;" onmouseout="window.status='';return true;" tabindex="-1"></map></td>
+	<script type="text/javascript">
+	var timer;
+	var selection;
+	selection=0;
+	function requestHide()
+	{
+		timer = setTimeout("lMainNav()", 250);
+	}
+	function keepMenu()
+	{
+		clearTimeout(timer);
+	}
+	function hMainNav(mPos)
+	{
+		document.mainNav1.src = "http://www.dhl-usa.com/images" + "/menu" + mPos + ".gif";
+		if (!isNN4)
+		{
+		 document.getElementById("subMenu" + mPos).style.visibility = "visible";
+		}
+    }
+    function hSubNav(mPos, sPos)
+	{
+		if (!isNN4)
+		{
+			document.getElementById("subMenu" + mPos + "_" + sPos + "a").className = "pL10_darkGrey";
+			document.getElementById("subMenu" + mPos + "_" + sPos + "b").className = "whiteText";
+		}
+	}
+
+	function lSubNav(mPos, sPos)
+	{
+		if (!isNN4)
+		{
+			document.getElementById("subMenu" + mPos + "_" + sPos + "a").className = "pL10_lightGrey";
+			document.getElementById("subMenu" + mPos + "_" + sPos + "b").className = "redText";
+		}
+	}
+
+	function lMainNav()
+	{
+		switch(selection)
+		{	
+			case 5:
+				document.mainNav1.src = "http://www.dhl-usa.com/images" + "/menu5.gif";
+				break;
+			case 4:
+				document.mainNav1.src = "http://www.dhl-usa.com/images" + "/menu4.gif";
+				break;
+			case 3:
+				document.mainNav1.src = "http://www.dhl-usa.com/images" + "/menu3.gif";
+				break;
+			case 2:
+				document.mainNav1.src = "http://www.dhl-usa.com/images" + "/menu2.gif";
+				break;
+			case 1:
+				document.mainNav1.src = "http://www.dhl-usa.com/images" + "/menu1.gif";
+			
+				break;
+			default:
+				document.mainNav1.src = "http://www.dhl-usa.com/images" + "/menu0.gif";
+		}
+		if (!isNN4)
+		{
+			document.getElementById("subMenu1").style.visibility = "hidden";
+			document.getElementById("subMenu2").style.visibility = "hidden";
+			document.getElementById("subMenu3").style.visibility = "hidden";
+			document.getElementById("subMenu4").style.visibility = "hidden";
+			document.getElementById("subMenu5").style.visibility = "hidden";
+		}
+	}
+	function winStatus(iTag)
+	{
+		switch(iTag)
+		{	
+			case 1:
+				window.status = 'Ship';
+				break;
+			case 2:
+				window.status = 'Track';
+				break;
+			case 3:
+				window.status = 'Services';
+				break;
+			case 4:
+				window.status = 'About DHL';
+				break;
+			case 5:
+				window.status = 'Help';
+				break;
+			default:
+				break;
+		}
+	}
+	</script>
+
+	<map name="mainnav">
+		<area href="http://www.dhl-usa.com/shipping/shipstart.asp?nav=PrepareShip" alt="Ship" coords="0,0,84,23" onmouseover="lMainNav(); hMainNav(1); keepMenu(); setTimeout('winStatus(1)',1); return true;" onmouseout="requestHide(); window.status = ''; return true;" shape="rect" tabindex="1">
+		<area href="http://track.dhl-usa.com/TrackByNbr.asp?nav=TrackBynumber" alt="Track" coords="85,0,168,23" onmouseover="lMainNav(); hMainNav(2); keepMenu(); setTimeout('winStatus(2)',1); return true;" onmouseout="requestHide(); window.status = ''; return true;" shape="rect" tabindex="1">
+		<area href="http://www.dhl-usa.com/solutions/serviceshome.asp?nav=Services" alt="Services" coords="167,0,252,23" onmouseover="lMainNav(); hMainNav(3); keepMenu(); setTimeout('winStatus(3)',1); return true;" onmouseout="requestHide(); window.status = ''; return true;" shape="rect" tabindex="1">
+		<area href="http://www.dhl-usa.com/About/AboutusHome.asp?nav=AboutDHL" alt="About DHL" coords="253,0,336,23" onmouseover="lMainNav(); hMainNav(4); keepMenu(); setTimeout('winStatus(4)',1); return true;" onmouseout="requestHide(); window.status = ''; return true;" shape="rect" tabindex="1">
+		<area href="http://www.dhl-usa.com/ussvcs/help_landing.asp?nav=Help" alt="Help" coords="337,0,420,23" onmouseover="lMainNav(); hMainNav(5); keepMenu(); setTimeout('winStatus(5)',1); return true;" onmouseout="requestHide(); window.status = ''; return true;" shape="rect" tabindex="1">
+	</map>
+
 	
-						<td rowspan="3" align="right" valign="bottom"><img src="http://www.dhl-usa.com/images/topnav_r_taskn.gif" width="11" height="63" border="0"></td>
-						<td rowspan="4" background="http://www.dhl-usa.com/images/dropshadow.gif" align="right" valign="bottom"><img src="http://www.dhl-usa.com/images/blank.gif" width="3" height="63" border="0"></td>
-					</tr>
-					<tr>
-						<td align="left"><img src="http://www.dhl-usa.com/images/topnav_btnstrip_taskn.gif" width="604" height="18" border="0"></td>
-					</tr>
-					<tr>
-						<td align="left" style="background-image:url(http://www.dhl-usa.com/images/topnav_red_taskn.gif)"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="28" border="0"></td>
-					</tr>
-					<tr>
-						
-						<td colspan="2" background="http://www.dhl-usa.com/images/topnav_gry_splice.gif" align="right" valign="bottom"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="14" border="0"></td>
-						
-					</tr>
-				</tbody></table>
-			</td>
+	
+	<span style="position:absolute; left:251px; top:58px; width:168px; padding:1px; background-color:#999999; visibility:hidden; z-index:1500;" id="subMenu1">
+	<table border="0" cellpadding="4" cellspacing="0" width="100%" class="lightGrey">
+		<tbody><tr>
+			<td class="pL10_lightGrey" id="subMenu1_1a" onmouseover="hSubNav(1, 1); keepMenu();" onmouseout="lSubNav(1, 1); requestHide()"><a href="https://sso.dhl-usa.com/sso/login_main.asp?hdnSiteId=1&amp;nav=Login" style="text-decoration:none;" id="subMenu1_1b" onmouseover="window.status='Prepare a shipment';return true;" onmouseout="window.status='';return true;">» Prepare a shipment</a></td>
+		</tr>
+		<tr>
+			<td class="pL10_lightGrey" id="subMenu1_2a" onmouseover="hSubNav(1, 2); keepMenu();" onmouseout="lSubNav(1, 2); requestHide()"><a href="http://www.dhl-usa.com/ratecalculator/HandlerServlet?CLIENT=RATES_REQUEST_DISPLAY&amp;nav=GetRates" style="text-decoration:none;" id="subMenu1_2b" onmouseover="window.status='Get rates';return true;" onmouseout="window.status='';return true;">» Get rates</a></td>
+		</tr>
+		<tr>
+			<td class="pL10_lightGrey" id="subMenu1_3a" onmouseover="hSubNav(1, 3); keepMenu();" onmouseout="lSubNav(1, 3); requestHide()"><a href="http://sbw.dhl-usa.com/SchedulePickup/SchedulePickupInfo.asp?nav=SbcPickup" style="text-decoration:none;" id="subMenu1_3b" onmouseover="window.status='Schedule a pickup';return true;" onmouseout="window.status='';return true;">» Schedule a pickup</a></td>
+		</tr>
+		<tr>
+			<td class="pL10_lightGrey" id="subMenu1_4a" onmouseover="hSubNav(1, 4); keepMenu();" onmouseout="lSubNav(1, 4); requestHide()"><a href="http://sbw.dhl-usa.com/Locations/USLocnsStart.asp?nav=DropOff" style="text-decoration:none;" id="subMenu1_4b" onmouseover="window.status='Find drop-off locations';return true;" onmouseout="window.status='';return true;">» Find drop-off locations</a></td>
+		</tr>
+		<tr>
+			<td class="pL10_lightGrey" id="subMenu1_5a" onmouseover="hSubNav(1, 5); keepMenu();" onmouseout="lSubNav(1, 5); requestHide()"><a href="http://www.dhl-usa.com/TransitTimes/USTTimeStart.asp?nav=TransitTimes" style="text-decoration:none;" id="subMenu1_5b" onmouseover="window.status='View transit times';return true;" onmouseout="window.status='';return true;">» View transit times</a></td>
+		</tr>
+		<tr>
+			<td class="pL10_lightGrey" id="subMenu1_6a" onmouseover="hSubNav(1, 6); keepMenu();" onmouseout="lSubNav(1, 6); requestHide()"><a href="http://sbw.dhl-usa.com/SupplyOrder/SupplyOrderList.asp?nav=OrderSupplies" style="text-decoration:none;" id="subMenu1_6b" onmouseover="window.status='Order supplies';return true;" onmouseout="window.status='';return true;">» Order supplies</a></td>
+		</tr>
+		<tr>
+			<td class="pL10_lightGrey" id="subMenu1_7a" onmouseover="hSubNav(1, 7); keepMenu();" onmouseout="lSubNav(1, 7); requestHide()"><a href="http://www.dhl-usa.com/ITC/IntTradeCenter.asp?nav=IntTradeCenter" style="text-decoration:none;" id="subMenu1_7b" onmouseover="window.status='International Trade Center';return true;" onmouseout="window.status='';return true;">» International Trade Center</a></td>
+		</tr>
+		<tr>
+			<td class="pL10_lightGrey" id="subMenu1_8a" onmouseover="hSubNav(1, 8); keepMenu();" onmouseout="lSubNav(1, 8); requestHide()"><a href="https://prepaidshipping.dhl-usa.com/landing.asp?nav=PrepaidShip" style="text-decoration:none;" id="subMenu1_8b" onmouseover="window.status='Prepaid shipping';return true;" onmouseout="window.status='';return true;">» Prepaid shipping</a></td>
+		</tr>
+		<tr>
+			<td class="pL10_lightGrey" id="subMenu1_9a" onmouseover="hSubNav(1, 9); keepMenu();" onmouseout="lSubNav(1, 9); requestHide()"><a href="http://www.dhl-usa.com/solutions/express.asp?nav=USServices" style="text-decoration:none;" id="subMenu1_9b" onmouseover="window.status='About DHL delivery services';return true;" onmouseout="window.status='';return true;">» About DHL delivery services</a></td> 
 		</tr>
 	</tbody></table>
-	<!-- END Top Navigation Informational -->
-
-	<!-- START Body -->
-	<table border="0" cellspacing="0" cellpadding="0" width="780" bgcolor="#ffffff">
+	</span>
+	<span style="position:absolute; left:336px; top:58px; width:168px; padding:1px; background-color:#999999; visibility:hidden; z-index:1500;" id="subMenu2">
+	<table border="0" cellpadding="4" cellspacing="0" width="100%" class="lightGrey">
 		<tbody><tr>
-			<td width="162" valign="top" style="background-image:url(http://www.dhl-usa.com/images/l-nav_splice-whi.gif)"><table border="0" cellpadding="0" cellspacing="0" width="162" background="http://www.dhl-usa.com/images/blank.gif"><tbody><tr><td colspan="4" width="155"><a onmouseover="window.status='Customer Service'; return true;" onmouseout="window.status=''; return true;" tabindex="-1" href="http://www.dhl-usa.com/custserv/CustServHome.asp?nav=CustomerService"><img src="http://www.dhl-usa.com/images/l-nav_custserv-off.gif" width="155" height="18" border="0"></a></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr><td colspan="4" width="155"><a onmouseover="window.status='Domestic Services'; return true;" onmouseout="window.status=''; return true;" tabindex="-1" href="http://www.dhl-usa.com/USSvcs/USSvcsHome.asp?nav=USServices"><img src="http://www.dhl-usa.com/images/l-nav_usservice-off.gif" width="155" height="18" border="0"></a></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr><td colspan="4" width="155"><a onmouseover="window.status='International Services'; return true;" onmouseout="window.status=''; return true;" tabindex="-1" href="http://www.dhl-usa.com/IntlSvcs/IntlSvcsHome.asp?nav=InternationalService"><img src="http://www.dhl-usa.com/images/l-nav_intlserv-off.gif" width="155" height="18" border="0"></a></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr><td colspan="4" width="155"><a onmouseover="window.status='Small Business Center'; return true;" onmouseout="window.status=''; return true;" tabindex="-1" href="http://www.dhl-usa.com/sbc/smbiz.asp?nav=sb"><img src="http://www.dhl-usa.com/images/l-nav_SBCenter-off.gif" width="155" height="18" border="0"></a></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr><td colspan="4" width="155"><a onmouseover="window.status='Technology Tools'; return true;" onmouseout="window.status=''; return true;" tabindex="-1" href="http://www.dhl-usa.com/TechTools/TechToolsHome.asp?nav=TechnologyTools"><img src="http://www.dhl-usa.com/images/l-nav_techtools-off.gif" width="155" height="18" border="0"></a></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr><td colspan="4" width="155"><a onmouseover="window.status='About DHL'; return true;" onmouseout="window.status=''; return true;" tabindex="-1" href="http://www.dhl-usa.com/About/AboutusHome.asp?nav=AboutDHLUSA"><img src="http://www.dhl-usa.com/images/l-nav_aboutus-whi.gif" width="155" height="18" border="0"></a></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr><td width="13" bgcolor="#ffffff" valign="top"><img src="http://www.dhl-usa.com/images/graphic-arrow-down.gif" width="11" height="11" hspace="1"></td><td colspan="2" width="141" bgcolor="#ffffff"><a onmouseover="window.status='Company Information'; return true;" onmouseout="window.status=''; return true;" class="lnkLeftNav2Red" tabindex="-1" href="http://www.dhl-usa.com/Company/CompanyInfo.asp?nav=AboutDHLUSA/CompanyInfo">Company Information</a></td><td width="1" bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="1"></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr bgcolor="#ffffff" valign="top"><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="128"><a onmouseover="window.status='Welcome'; return true;" onmouseout="window.status=''; return true;" class="lnkLeftNav3" tabindex="-1" href="http://www.dhl-usa.com/Company/Subsidiaries.asp?nav=AboutDHLUSA/CompanyInfo/Welcome">Welcome</a></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="1"></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr bgcolor="#ffffff" valign="top"><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="128"><a onmouseover="window.status='DHL Facts'; return true;" onmouseout="window.status=''; return true;" class="lnkLeftNav3" tabindex="-1" href="http://www.dhl-usa.com/Company/facts.asp?nav=AboutDHLUSA/CompanyInfo/AirborneFacts">DHL Facts</a></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="1"></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr bgcolor="#ffffff" valign="top"><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="128"><a onmouseover="window.status='Press Room'; return true;" onmouseout="window.status=''; return true;" class="lnkLeftNav3" tabindex="-1" href="http://www.dhl-usa.com/company/pressroom.asp?nav=AboutDHLUSA/CompanyInfo/PressRoom">Press Room</a></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="1"></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr bgcolor="#ffffff" valign="top"><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="128"><a onmouseover="window.status='History'; return true;" onmouseout="window.status=''; return true;" class="lnkLeftNav3" tabindex="-1" href="http://www.dhl-usa.com/Company/History.asp?nav=AboutDHLUSA/CompanyInfo/History">History</a></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="1"></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr bgcolor="#ffffff" valign="top"><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="128"><a onmouseover="window.status='Awards'; return true;" onmouseout="window.status=''; return true;" class="lnkLeftNav3" tabindex="-1" href="http://www.dhl-usa.com/Company/Awards.asp?nav=AboutDHLUSA/CompanyInfo/Awards">Awards</a></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="1"></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr bgcolor="#ffffff" valign="top"><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="128"><a onmouseover="window.status='Environment'; return true;" onmouseout="window.status=''; return true;" class="lnkLeftNav3" tabindex="-1" href="http://www.dhl-usa.com/About/Environment.asp?nav=AboutDHLUSA/CompanyInfo/Env">Environment</a></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="1"></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr bgcolor="#ffffff" valign="top"><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="4"><img src="http://www.dhl-usa.com/images/graphic-arrow-chevron.gif" width="9" height="5" hspace="2"></td><td width="128"><a onmouseover="window.status='Privacy Policy'; return true;" onmouseout="window.status=''; return true;" class="lnkLeftNav3Red" tabindex="-1" href="http://www.dhl-usa.com/about/privacy.asp?nav=AboutDHLUSA/CompanyInfo/Privacy">Privacy Policy</a></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="1"></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr bgcolor="#ffffff" valign="top"><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="13"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td width="128"><a onmouseover="window.status='Copyright'; return true;" onmouseout="window.status=''; return true;" class="lnkLeftNav3" tabindex="-1" href="http://www.dhl-usa.com/about/copyright.asp?nav=AboutDHLUSA/CompanyInfo/Copyright">Copyright</a></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="1"></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr><td width="13" bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td colspan="2" width="141" bgcolor="#ffffff"><a onmouseover="window.status='Investor Relations'; return true;" onmouseout="window.status=''; return true;" class="lnkLeftNav2" tabindex="-1" href="http://www.dhl-usa.com/Investor/InvestorRltns.asp?nav=AboutDHLUSA/InvestorRelations">Investor Relations</a></td><td width="1" bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="1"></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr><td width="13" bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td colspan="2" width="141" bgcolor="#ffffff"><a onmouseover="window.status='Careers'; return true;" onmouseout="window.status=''; return true;" class="lnkLeftNav2" tabindex="-1" href="http://www.dhl-usa.com/HR/jobshome.asp?nav=AboutDHLUSA/Careers">Careers</a></td><td width="1" bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="1"></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr><td width="13" bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td colspan="2" width="141" bgcolor="#ffffff"><a onmouseover="window.status='Site Map'; return true;" onmouseout="window.status=''; return true;" class="lnkLeftNav2" tabindex="-1" href="http://www.dhl-usa.com/about/sitemap.asp?nav=AboutDHLUSA/Sitemap">Site Map</a></td><td width="1" bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="1"></td><td bgcolor="#ffffff"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr><tr><td bgcolor="#FFE88A"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td bgcolor="#FFE88A"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td bgcolor="#FFE88A"><img src="http://www.dhl-usa.com/images/blank.gif" width="128" height="1"></td><td bgcolor="#FFE88A"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="1"></td><td bgcolor="#FFFFFF"><img src="http://www.dhl-usa.com/images/blank.gif" width="7" height="1"></td></tr></tbody></table>
+			<td class="pL10_lightGrey" id="subMenu2_1a" onmouseover="hSubNav(2, 1); keepMenu();" onmouseout="lSubNav(2, 1); requestHide();"><a href="http://track.dhl-usa.com/TrackByNbr.asp?nav=TrackBynumber" style="text-decoration:none;" id="subMenu2_1b" onmouseover="window.status='Track by number';return true;" onmouseout="window.status='';return true;">» Track by number</a></td>
+		</tr>
+		<tr>
+			<td class="pL10_lightGrey" id="subMenu2_2a" onmouseover="hSubNav(2, 2); keepMenu();" onmouseout="lSubNav(2, 2); requestHide();"><a href="http://track.dhl-usa.com/TrackByRef.asp?nav=TrackByRef" style="text-decoration:none;" id="subMenu2_2b" onmouseover="window.status='Track by reference';return true;" onmouseout="window.status='';return true;">» Track by reference</a></td>
+		</tr>
+		<tr>
+			<td class="pL10_lightGrey" id="subMenu2_3a" onmouseover="hSubNav(2, 3); keepMenu();" onmouseout="lSubNav(2, 3); requestHide();"><a href="http://sigpod.dhl-usa.com/SigByNbr.asp?nav=TrackBySig" style="text-decoration:none;" id="subMenu2_3b" onmouseover="window.status='Get delivery signature';return true;" onmouseout="window.status='';return true;">» Get delivery signature</a></td>
+		</tr>
+		<tr>
+			<td class="pL10_lightGrey" id="subMenu2_4a" onmouseover="hSubNav(2, 4); keepMenu();" onmouseout="lSubNav(2, 4); requestHide();"><a href="http://track.dhl-usa.com/TrackDHLSameDay.asp?nav=TrackSameDay" style="text-decoration:none;" id="subMenu2_4b" onmouseover="window.status='Track DHL Same Day service';return true;" onmouseout="window.status='';return true;">» Track DHL Same Day service</a></td>
+		</tr>
+	</tbody></table>
+	</span>
 
-	<form name="frmClientTime" action="http://sbw.dhl-usa.com/SchedulePickup/SchedulePickupInfo.asp" method="post"><input type="hidden" name="ClientTime" value="1707"></form>
-	<script language="javascript" type="text/javascript">
-		function getClientTime() {
-			var dteNow	= new Date();
-			var strHour	= dteNow.getHours();
-			var strMin	= dteNow.getMinutes();
-				
-			// Convert numbers to strings
-			strHour	+= "";
-			strMin	+= "";
-			if (strHour.length != 2){
-				strHour = "0" + strHour;
-			}
-			if (strMin.length != 2){
-				strMin = "0" + strMin;
-			}
-			return strHour + strMin;
+	<span style="position:absolute; left:419px; top:58px; width:168px; padding:1px; background-color:#999999; visibility:hidden; z-index:1500;" id="subMenu3">
+	<table border="0" cellpadding="4" cellspacing="0" width="100%" class="lightGrey">
+		
+		<tbody><tr>
+			<td class="pL10_lightGrey" id="subMenu3_1a" onmouseover="hSubNav(3, 1); keepMenu();" onmouseout="lSubNav(3, 1); requestHide();"><a href="http://www.dhl-usa.com/solutions/express.asp?nav=dhlExp" style="text-decoration:none;" id="subMenu3_1b" onmouseover="window.status='DHL Express';return true;" onmouseout="window.status='';return true;">» DHL Express</a></td>
+		</tr>
+		
+		<tr>
+				<!--<td class="pL10_lightGrey" id="subMenu3_2a" onmouseover="hSubNav(3, 2); keepMenu();" onmouseout="lSubNav(3, 2); requestHide();"><a href="http://www.dhl-usa.com/solutions/danzas.asp?nav=dhlDanzas" style="text-decoration:none;" id="subMenu3_2b" onMouseOver="window.status='DHL Danzas Air &amp; Ocean';return true;" onMouseOut="window.status='';return true;">» DHL Danzas Air &amp; Ocean</a></td>-->
+				<td class="pL10_lightGrey" id="subMenu3_2a" onmouseover="hSubNav(3, 2); keepMenu();" onmouseout="lSubNav(3, 2); requestHide();"><a href="http://www.dhl-usa.com/solutions/GlobalFreightForwarding.asp?nav=dhlGF" style="text-decoration:none;" id="subMenu3_2b" onmouseover="window.status='DHL Global Forwarding';return true;" onmouseout="window.status='';return true;">» DHL Global Forwarding</a></td>
+		</tr>
+		
+		<tr>
+				<td class="pL10_lightGrey" id="subMenu3_3a" onmouseover="hSubNav(3, 3); keepMenu();" onmouseout="lSubNav(3, 3); requestHide();"><a href="http://www.dhl-usa.com/solutions/solutions.asp?nav=dhlSol" style="text-decoration:none;" id="subMenu3_3b" onmouseover="window.status='DHL Solutions';return true;" onmouseout="window.status='';return true;">» DHL Solutions</a></td>
+		</tr>
+		<tr>
+			<td class="pL10_lightGrey" id="subMenu3_4a" onmouseover="hSubNav(3, 4); keepMenu();" onmouseout="lSubNav(3, 4); requestHide();"><a href="http://www.dhl-usa.com/TechTools/TechToolsHome.asp?nav=TechnologyTools" style="text-decoration:none;" id="subMenu3_4b" onmouseover="window.status='Technology Tools';return true;" onmouseout="window.status='';return true;">» Technology Tools</a></td>
+		</tr>
+		<tr>
+			<td class="pL10_lightGrey" id="subMenu3_5a" onmouseover="hSubNav(3, 5); keepMenu();" onmouseout="lSubNav(3, 5); requestHide();"><a href="http://www.dhl-usa.com/sbc/sbcHome.asp?nav=sb" style="text-decoration:none;" id="subMenu3_5b" onmouseover="window.status='Small Business Center';return true;" onmouseout="window.status='';return true;">» Small Business Center</a></td>
+		</tr>
+		
+	</tbody></table>
+	</span>
+
+	<span style="position:absolute; left:504px; top:58px; width:168px; padding:1px; background-color:#999999; visibility:hidden; z-index:1500;" id="subMenu4">
+	<table border="0" cellpadding="4" cellspacing="0" width="100%" class="lightGrey">
+		<tbody><tr>
+			<td class="pL10_lightGrey" id="subMenu4_1a" onmouseover="hSubNav(4, 1); keepMenu();" onmouseout="lSubNav(4, 1); requestHide();"><a href="http://www.dhl-usa.com/Company/CompanyInfo.asp?nav=companyInfo" style="text-decoration:none;" id="subMenu4_1b" onmouseover="window.status='Company information';return true;" onmouseout="window.status='';return true;">» Company information</a></td>
+		</tr>
+		<tr>
+		  <td class="pL10_lightGrey" id="subMenu4_2a" onmouseover="hSubNav(4, 2); keepMenu();" onmouseout="lSubNav(4, 2); requestHide();"><a href="http://www.dhl-usa.com/Investor/InvestorRltns.asp?nav=InvestorRelations" style="text-decoration:none;" id="subMenu4_2b" onmouseover="window.status='Investor relations';return true;" onmouseout="window.status='';return true;">» Investor relations</a></td>
+		</tr>
+		<tr>
+		  <td class="pL10_lightGrey" id="subMenu4_3a" onmouseover="hSubNav(4, 3); keepMenu();" onmouseout="lSubNav(4, 3); requestHide();"><a href="http://www.dhl-usa.com/company/pressroom.asp?nav=PressRoom" style="text-decoration:none;" id="subMenu4_3b" onmouseover="window.status='Newsroom';return true;" onmouseout="window.status='';return true;">» Newsroom</a></td>
+		</tr>
+		<tr>
+		  <td class="pL10_lightGrey" id="subMenu4_4a" onmouseover="hSubNav(4, 4); keepMenu();" onmouseout="lSubNav(4, 4); requestHide();"><a href="http://www.dhl-usa.com/HR/jobshome.asp?nav=Careers" style="text-decoration:none;" id="subMenu4_4b" onmouseover="window.status='Working at DHL';return true;" onmouseout="window.status='';return true;">» Working at DHL</a></td>
+		</tr>
+	</tbody></table>
+	</span>
+
+	<span style="position:absolute; left:504px; top:58px; width:168px; padding:1px; background-color:#999999; visibility:hidden; z-index:1500;" id="subMenu5">
+	<table border="0" cellpadding="4" cellspacing="0" width="100%" class="lightGrey">
+		<tbody><tr>
+		  <td class="pL10_lightGrey" id="subMenu5_1a" onmouseover="hSubNav(5, 1); keepMenu();" onmouseout="lSubNav(5, 1); requestHide();"><a href="http://www.dhl-usa.com/CustServ/How2Ship.asp?nav=HowToShip" style="text-decoration:none;" id="subMenu5_1b" onmouseover="window.status='How to get started shipping';return true;" onmouseout="window.status='';return true;">» How to get started shipping</a></td>
+		</tr>
+		<tr>
+		  <td class="pL10_lightGrey" id="subMenu5_2a" onmouseover="hSubNav(5, 2); keepMenu();" onmouseout="lSubNav(5, 2); requestHide();"><a href="http://www.dhl-usa.com/IntlSvcs/ShipPrepHome.asp?nav=InternationalService" style="text-decoration:none;" id="subMenu5_2b" onmouseover="window.status='How to ship internationally';return true;" onmouseout="window.status='';return true;">» How to ship internationally</a></td>
+		</tr>
+		<tr>
+		  <td class="pL10_lightGrey" id="subMenu5_3a" onmouseover="hSubNav(5, 3); keepMenu();" onmouseout="lSubNav(5, 3); requestHide();"><a href="http://www.dhl-usa.com/help/getaccount.asp?nav=Getaccount" style="text-decoration:none;" id="subMenu5_3b" onmouseover="window.status='Get an account';return true;" onmouseout="window.status='';return true;">» Get an account</a></td>
+		</tr>
+		<tr>
+		  <td class="pL10_lightGrey" id="subMenu5_4a" onmouseover="hSubNav(5, 4); keepMenu();" onmouseout="lSubNav(5, 4); requestHide();"><a href="http://www.dhl-usa.com/help/payforshipment.asp?nav=payforship" style="text-decoration:none;" id="subMenu5_4b" onmouseover="window.status='Pay for your shipment';return true;" onmouseout="window.status='';return true;">» Pay for your shipment</a></td>
+		</tr>
+		<tr>
+		  <td class="pL10_lightGrey" id="subMenu5_5a" onmouseover="hSubNav(5, 5); keepMenu();" onmouseout="lSubNav(5, 5); requestHide();"><a href="http://www.dhl-usa.com/help/findserviceinfo.asp?nav=FindServInfo" style="text-decoration:none;" id="subMenu5_5b" onmouseover="window.status='Find service information';return true;" onmouseout="window.status='';return true;">» Find service information</a></td>
+		</tr>
+		<tr>
+		  <td class="pL10_lightGrey" id="subMenu5_6a" onmouseover="hSubNav(5, 6); keepMenu();" onmouseout="lSubNav(5, 6); requestHide();"><a href="http://www.dhl-usa.com/CustServ/FAQHome.asp?nav=FAQ" style="text-decoration:none;" id="subMenu5_6b" onmouseover="window.status='FAQ';return true;" onmouseout="window.status='';return true;">» FAQ</a></td>
+		</tr>
+		<tr>
+		  <td class="pL10_lightGrey" id="subMenu5_7a" onmouseover="hSubNav(5, 7); keepMenu();" onmouseout="lSubNav(5, 7); requestHide();"><a href="http://www.dhl-usa.com/IntlSvcs/IntlTools.asp?nav=Inttools" style="text-decoration:none;" id="subMenu5_7b" onmouseover="window.status='Tools';return true;" onmouseout="window.status='';return true;">» Tools</a></td>
+		</tr>
+		<tr>
+		  <td class="pL10_lightGrey" id="subMenu5_8a" onmouseover="hSubNav(5, 8); keepMenu();" onmouseout="lSubNav(5, 8); requestHide();"><a href="http://www.dhl-usa.com/custserv/contactus.asp?nav=ContactUs" style="text-decoration:none;" id="subMenu5_8b" onmouseover="window.status='Contact DHL';return true;" onmouseout="window.status='';return true;">» Contact DHL</a></td>
+		</tr>
+	</tbody></table>
+	</span>
+	
+	
+	<table cellpadding="0" cellspacing="0" border="0" width="773" bgcolor="#ffcc00">
+		<tbody><tr>
+			<td colspan="5" height="2"><img src="http://www.dhl-usa.com/images/spacer.gif" width="1" height="2" alt=""></td>
+		</tr>
+		<tr valign="top">
+		  <td colspan="5" align="right">
+		  <table border="0" cellpadding="0" cellspacing="0">
+		  <tbody><tr valign="top">
+		    <td>
+		    <a href="http://www.dhl-usa.com/custserv/contactus.asp?nav=ContactUs" class="blacktext" tabindex="1" onmouseover="window.status='Contact Us';return true;" onmouseout="window.status='';return true;">Contact Us</a> &nbsp;|&nbsp; 
+		    <a href="http://www.dhl-usa.com/About/Sitemap.asp?nav=Sitemap" class="blacktext" tabindex="1" onmouseover="window.status='Sitemap';return true;" onmouseout="window.status='';return true;">Sitemap</a>
+		    </td>
+		    <td><img src="http://www.dhl-usa.com/images/spacer.gif" width="17" height="32" alt=""></td>
+		  </tr>
+		  </tbody></table>
+		  </td>
+		</tr>
+		<tr bgcolor="#ffcc00">
+			<td width="14"><img src="http://www.dhl-usa.com/images/spacer.gif" width="14" height="1" alt=""></td>
+			
+				<td width="139"><a href="http://www.dhl-usa.com/home/Home.asp" tabindex="1"><img src="http://www.dhl-usa.com/images/dhl_logo.gif" width="139" height="22" alt="" border="0" onmouseover="window.status='Home';return true;" onmouseout="window.status='';return true;"></a></td>
+			
+			<td width="98"><img src="http://www.dhl-usa.com/images/spacer.gif" width="98" height="1" alt=""></td>
+			<td width="423"><img src="http://www.dhl-usa.com/images/menu0.gif" border="0" width="423" height="26" alt="Menu" usemap="#mainnav" name="mainNav1" id="mainNav1"></td>
+			<td width="99"><img src="http://www.dhl-usa.com/images/spacer.gif" width="99" height="1" alt=""></td>
+		</tr>
+		<tr>
+			<td colspan="5" height="24"><img src="http://www.dhl-usa.com/images/spacer.gif" width="1" height="24" alt=""></td>
+		</tr>
+	</tbody></table>
+	<table cellpadding="0" cellspacing="0" border="0" width="773">
+		<tbody><tr bgcolor="#cc0000">
+		
+			<td rowspan="2" width="336"><img src="http://www.dhl-usa.com/images/spacer.gif" width="1" height="40" alt=""></td>
+			<td width="437" align="right">
+		
+			<table cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>				
+			  <td class="whiteText"><a href="http://www.dhl-usa.com/home/Home.asp" class="whiteText" tabindex="1" onmouseover="window.status='Home';return true;" onmouseout="window.status='';return true;">DHL USA Home</a></td>			
+			  <td width="10"><img src="http://www.dhl-usa.com/images/spacer.gif" width="10" height="29" alt=""></td>
+			  <td><img src="http://www.dhl-usa.com/images/g_arrow_white.gif" width="5" height="9" alt=""></td>
+			  <td><div class="pL5"><a href="http://www.dhl.com/publish/g0/en.high.html?main_index=yes" class="whiteText" tabindex="1" onmouseover="window.status='DHL Global';return true;" onmouseout="window.status='';return true;">DHL Global</a></div></td>
+			  <td width="17"><img src="http://www.dhl-usa.com/images/spacer.gif" width="17" height="26" alt=""></td>
+			</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#ffffff" height="11"><img src="http://www.dhl-usa.com/images/blank.gif" height="11" width="1" border="0" alt=""></td>
+		</tr>
+	</tbody></table>
+
+
+<!-- START Body -->
+<table border="0" cellspacing="0" cellpadding="0" width="773">
+<tbody><tr valign="top">
+  <td width="168" bgcolor="#ffcc00" class="bodytext">
+		<script type="text/javascript">
+			
+			selection=0; 
+		</script>
+		<table border="0" cellpadding="0" cellspacing="0" bgcolor="#ffcc00"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" width="168"><script language="javascript">
+		function shippingPref()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "sp";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.hdnSiteID.value = "1";
+		document.authnavlink.submit();
 		}
-		document.frmClientTime.ClientTime.value = getClientTime();
-	</script>
-	</td>
-			<!-- Content starts here -->
-			<td width="615" valign="top">
+		function BillAccount()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "1";
+		document.authnavlink.hdnSiteID.value = "2";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.submit();
+		}
+	</script><script language="javascript">
+		function shippingPref()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "sp";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.hdnSiteID.value = "1";
+		document.authnavlink.submit();
+		}
+		function BillAccount()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "1";
+		document.authnavlink.hdnSiteID.value = "2";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.submit();
+		}
+	</script><script language="javascript">
+		function shippingPref()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "sp";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.hdnSiteID.value = "1";
+		document.authnavlink.submit();
+		}
+		function BillAccount()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "1";
+		document.authnavlink.hdnSiteID.value = "2";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.submit();
+		}
+	</script><script language="javascript">
+		function shippingPref()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "sp";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.hdnSiteID.value = "1";
+		document.authnavlink.submit();
+		}
+		function BillAccount()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "1";
+		document.authnavlink.hdnSiteID.value = "2";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.submit();
+		}
+	</script><script language="javascript">
+		function shippingPref()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "sp";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.hdnSiteID.value = "1";
+		document.authnavlink.submit();
+		}
+		function BillAccount()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "1";
+		document.authnavlink.hdnSiteID.value = "2";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.submit();
+		}
+	</script><script language="javascript">
+		function shippingPref()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "sp";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.hdnSiteID.value = "1";
+		document.authnavlink.submit();
+		}
+		function BillAccount()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "1";
+		document.authnavlink.hdnSiteID.value = "2";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.submit();
+		}
+	</script><script language="javascript">
+		function shippingPref()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "sp";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.hdnSiteID.value = "1";
+		document.authnavlink.submit();
+		}
+		function BillAccount()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "1";
+		document.authnavlink.hdnSiteID.value = "2";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.submit();
+		}
+	</script><script language="javascript">
+		function shippingPref()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "sp";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.hdnSiteID.value = "1";
+		document.authnavlink.submit();
+		}
+		function BillAccount()
+		{
+		var path
+		path = document.authnavlink.hdnSSOpath.value;
+		document.authnavlink.hdnOption.value = "1";
+		document.authnavlink.hdnSiteID.value = "2";
+		document.authnavlink.action = path + "/sso/authhomepage.asp";
+		document.authnavlink.submit();
+		}
+	</script><tbody><tr><td bgcolor="#ffcc00"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td bgcolor="#ffcc00"><img src="http://www.dhl-usa.com/images/blank.gif" width="13" height="1"></td><td bgcolor="#ffcc00"><img src="http://www.dhl-usa.com/images/blank.gif" width="128" height="1"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
+</td>
+  <td width="10"><img src="http://www.dhl-usa.com/images/blank.gif" width="10" height="1"></td>
+  <!-- Content starts here -->
+  <td width="578" class="bodytext">
 <noscript>
 	<table border="0" cellpadding="0" cellspacing="0" width="615" bgcolor="#ffffff">
 		<tr>
@@ -132,99 +646,70 @@
 	</table>
 </noscript>
 
-	<table border="0" cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr>
-			<td rowspan="1000"><img src="http://www.dhl-usa.com/images/blank.gif" width="15" height="1"></td>
-			<td><img src="http://www.dhl-usa.com/images/blank.gif" width="25" height="10"></td>
-			<td><img src="http://www.dhl-usa.com/images/blank.gif" width="560" height="1"></td>
-			<td rowspan="1000"><img src="http://www.dhl-usa.com/images/blank.gif" width="15" height="1"></td>
-		</tr>
-		<tr>
-			<td colspan="2"><a href="http://www.dhl-usa.com/About/AboutusHome.asp?nav=AboutDHLUSA" class="lnkTitleLg">About DHL</a>:&nbsp;<a href="../Company/CompanyInfo.asp?nav=AboutDHLUSA/CompanyInfo" class="lnkTitleMd">Company Information</a>&nbsp;&gt;&nbsp;<font class="txtTitleMd">Privacy Policy</font></td>
-		</tr>
-		<tr>
-			
-			<td><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="15"></td>
-		</tr>
-		<tr>
-			<td><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="15"></td>
-		</tr>
-		<tr>
-			<td colspan="2"><div class="txtTitlePage">Privacy Policy</div></td>
-		</tr>
-		<tr>
-			<td colspan="4">
-				<table>
-					<tbody><tr>
-						<td><img src="http://www.dhl-usa.com/images/blank.gif" width="15" height="15"></td>
-					</tr>
-					<tr>
-						<td class="txtContent" colspan="2"><p>DHL is committed to preserving the privacy of users of our web sites. Any information about you that we collect is used purely to improve the services we offer to you, and to make our web site's content and services easier to use and more appropriate to you. We may use this information, with your permission, to contact you with information about updates to our web site or other marketing information. DHL does not sell, trade, or rent any information about specific customers to third parties for marketing purposes. </p><p class="txtTitleMd">Web Site Security</p><p>Certain areas of the DHL web sites including, but not limited to, DHL Ship and Web Shipping, require registration and are password protected. Information obtained from users of these areas may also be used for DHL's marketing purposes. DHL provides a right of access and rectification of personal data under the applicable legislation.</p><p>Your usage of DHL's web site may be tracked to help us continue to improve the site, for problem solving purposes, or as a part of an aggregate profile of usage of the site. Your individual usage information will not be shared with outside parties.</p><p class="txtTitleMd">Tracking</p><p>As part of the shipping process, information about individual shipments, including a digital facsimile of the consignee's signature, is available through public tracking functions by entry of the waybill number or shipment reference number. While extensive shipment status information is provided, shipper and receiver information is kept to the minimum necessary to identify and track the shipment. </p><p class="txtTitleMd">Cookies</p><p>Cookies are small text files sent by a web site to the user's browser that are stored on the user's hard drive. In order to improve performance and support registration and customization of certain web applications, portions of our site use cookies. DHL does not use cookies to examine your computer.</p><p class="txtTitleMd">Clear Gifs</p><p>A clear gif is a small graphic file (1x1 pixels) that is included in the web page being displayed. By virtue of its existence on specific pages, DHL can acquire additional information on how visitors who have received a targeted promotional campaign are making use of the DHL-USA.com web site. DHL shares this information with a reputable third-party marketing company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics.</p><p class="txtTitleMd">Third Parties</p><p>Sections of DHL-USA.com, such as eCourier and Online Billing, include transactions hosted by third parties. When you leave DHL-USA.com to visit or use one of these sites, information identifying you as a DHL customer is passed to the third party. Secure Socket Layer (SSL) privacy protocol is used to insure your transaction privacy. DHL is not responsible or liable for the independent privacy policies of third party sites.</p><p class="txtTitleMd">Web-Based Shipping</p><p>DHL designed web-based shipping applications, to provide our customers the most timely, accurate, and easy-to-use online shipping in the transportation industry. While increasing your convenience, we have also incorporated security features to protect your personal shipping information. </p><ul><li><font class="txtContentBold">Data Encryption.</font>  SSL encryption is used to protect the information you enter when using the Ship Exchange site.</li><li><font class="txtContentBold">Passwords.</font> It is your responsibility to ensure that your user ID and password are secure. If you choose the Remember Password option to streamline the login process, your login information will be stored on your system and anyone with access to it can use your DHL web services. DHL employees do not have access to your password. </li><li><font class="txtContentBold">Shipment and Receiver Data.</font>  DHL will not disclose your address book to other parties. </li> <p></p><p class="txtTitleMd">Systems on Customer Premises</p><p>Thousands of DHL customers use DHL shipping systems such as LIBRA and EasyShip to send shipments each day. When these systems are installed at a customer's premises, they may contain the customer's profile and shipment data. We encourage customers concerned about the security of the information contained on these systems to protect them by using physical access controls.</p><p class="txtTitleMd">Consent</p><p>Your use of the DHL-USA web site signifies your acceptance of DHL's Privacy Policy. DHL reserves the right to modify, add, or remove portions of this policy at its discretion at any time.  Please check back frequently to be informed of any changes.</p></ul></td>
-					</tr>
-					<tr>
-						<td><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="15"></td>
-					</tr>
-				</tbody></table>	
-			</td>
-		</tr>
+	<table border="0" cellpadding="0" cellspacing="0" width="490">
+			<tbody><tr>
+				<td><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="15"></td>
+			</tr>
+			<tr valign="top">
+			<td class="pageheaderBlack">Privacy Policy</td>
+			</tr>
+			<tr>
+				<td><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="15"></td>
+			</tr>
+			<tr>
+				<td class="headerRegular"><p>DHL is committed to preserving the privacy of users of our web sites. Any information about you that we collect is used purely to improve the services we offer to you, and to make our web site's content and services easier to use and more appropriate to you. We may use this information, with your permission, to contact you with information about updates to our web site or other marketing information. DHL does not sell, trade, or rent any information about specific customers to third parties for marketing purposes. </p><p class="headerBlack">Web Site Security</p><p>Certain areas of the DHL web sites including, but not limited to, DHL Ship and Web Shipping, require registration and are password protected. Information obtained from users of these areas may also be used for DHL's marketing purposes. DHL provides a right of access and rectification of personal data under the applicable legislation.</p><p>Your usage of DHL's web site may be tracked to help us continue to improve the site, for problem solving purposes, or as a part of an aggregate profile of usage of the site. Your individual usage information will not be shared with outside parties.</p><p class="headerBlack">Tracking</p><p>As part of the shipping process, information about individual shipments, including a digital facsimile of the consignee's signature, is available through public tracking functions by entry of the waybill number or shipment reference number. While extensive shipment status information is provided, shipper and receiver information is kept to the minimum necessary to identify and track the shipment. </p><p class="headerBlack">Cookies</p><p>Cookies are small text files sent by a web site to the user's browser that are stored on the user's hard drive. In order to improve performance and support registration and customization of certain web applications, portions of our site use cookies. DHL does not use cookies to examine your computer.</p><p class="headerBlack">Clear Gifs</p><p>A clear gif is a small graphic file (1x1 pixels) that is included in the web page being displayed. By virtue of its existence on specific pages, DHL can acquire additional information on how visitors who have received a targeted promotional campaign are making use of the DHL-USA.com web site. DHL shares this information with a reputable third-party marketing company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics.</p><p class="headerBlack">Third Parties</p><p>Sections of DHL-USA.com, such as eCourier and Online Billing, include transactions hosted by third parties. When you leave DHL-USA.com to visit or use one of these sites, information identifying you as a DHL customer is passed to the third party. Secure Socket Layer (SSL) privacy protocol is used to insure your transaction privacy. DHL is not responsible or liable for the independent privacy policies of third party sites.</p><p class="headerBlack">Web-Based Shipping</p><p>DHL designed web-based shipping applications, to provide our customers the most timely, accurate, and easy-to-use online shipping in the transportation industry. While increasing your convenience, we have also incorporated security features to protect your personal shipping information. </p><ul><li>Data Encryption. SSL encryption is used to protect the information you enter when using the Ship Exchange site.</li><li>Passwords. It is your responsibility to ensure that your user ID and password are secure. If you choose the Remember Password option to streamline the login process, your login information will be stored on your system and anyone with access to it can use your DHL web services. DHL employees do not have access to your password. </li><li>Shipment and Receiver Data.  DHL will not disclose your address book to other parties. </li> <p></p><p class="headerBlack">Systems on Customer Premises</p><p>Thousands of DHL customers use DHL shipping systems such as LIBRA and EasyShip to send shipments each day. When these systems are installed at a customer's premises, they may contain the customer's profile and shipment data. We encourage customers concerned about the security of the information contained on these systems to protect them by using physical access controls.</p><p class="headerBlack">Consent</p><p>Your use of the DHL-USA web site signifies your acceptance of DHL's Privacy Policy. DHL reserves the right to modify, add, or remove portions of this policy at its discretion at any time.  Please check back frequently to be informed of any changes.</p></ul></td>
+			</tr>
 	</tbody></table>
 </td>
-			<!-- Content ends here -->
-			<td width="3" background="http://www.dhl-usa.com/images/splice_page-end.gif"><img src="http://www.dhl-usa.com/images/blank.gif" width="3"></td>
-		</tr>
-	</tbody></table>
-	<!-- END Body -->
+  <!-- Content ends here -->
+  <td width="17"><img src="http://www.dhl-usa.com/images/blank.gif" alt="" width="17" height="1"></td>
+</tr>
+</tbody></table>
+<!-- END Body -->
 
-	<!-- START Footer Informational -->
-	<table border="0" cellspacing="0" cellpadding="0" width="780">
+	<!-- START Footer Task -->
 	
-	<tbody><tr>
-		<td class="clrRedDk" height="20" valign="top" width="777" align="right"><table border="0" cellspacing="0" cellpadding="0" width="777" height="20">
-	<tbody><tr><td bgcolor="#FFE88A" height="13" width="155"><img src="http://www.dhl-usa.com/images/blank.gif" width="13"></td>
-		<td align="right" width="622"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="20"></td>
-	</tr>
-	</tbody></table></td>
-
-			<td width="3" height="20" valign="top" style="background-image:url(http://www.dhl-usa.com/images/splice_page-end.gif)"><img src="http://www.dhl-usa.com/images/blank.gif" width="3" height="1"></td>
+	<table border="0" cellspacing="0" cellpadding="0" width="773">
+	
+		<tbody><tr>
+		<td width="168" bgcolor="#ffcc00"><img src="http://www.dhl-usa.com/images/spacer.gif" width="168" height="45"></td>
+		<td width="10"><img src="http://www.dhl-usa.com/images/spacer.gif" width="10" height="45" alt=""></td>
+		<td width="578"><img src="http://www.dhl-usa.com/images/spacer.gif" width="1" height="45" alt=""></td>
+		<td width="17"><img src="http://www.dhl-usa.com/images/spacer.gif" width="1" height="45" alt=""></td>
+		</tr>
+		
+		<!--<tr>			<td width="168" bgcolor="#ffcc00"><img src="http://www.dhl-usa.com/images/spacer.gif" width="1" height="45" alt></td>			<td width="10"><img src="http://www.dhl-usa.com/images/spacer.gif" width="10" height="45" alt></td>			<td width="578"><img src="http://www.dhl-usa.com/images/spacer.gif" width="578" height="45" alt></td>			<td width="17"><img src="http://www.dhl-usa.com/images/spacer.gif" width="17" height="45" alt></td>		</tr>-->
+		
+		<tr>
+			
+			<td width="168" bgcolor="#ffcc00"><img src="http://www.dhl-usa.com/images/spacer.gif" width="168" height="1"></td>
+			<td width="10"><img src="http://www.dhl-usa.com/images/spacer.gif" width="10" alt=""></td>
+			
+			<td width="578"><div class="footer">
+	    
+    <a href="http://www.dhl.com/publish/g0/en.high.html?main_index=yes" color="#cc0000" onmouseover="window.status='DHL Global';return true;" onmouseout="window.status='';return true;">DHL Global</a>&nbsp; |
+    &nbsp;<a href="http://www.dhl-usa.com/About/AboutusHome.asp?nav=AboutDHL" color="#cc0000" onmouseover="window.status='About DHL';return true;" onmouseout="window.status='';return true;">About DHL</a>&nbsp; |
+    &nbsp;<a href="http://www.dhl-usa.com/company/pressroom.asp?nav=PressRoom" color="#cc0000" onmouseover="window.status='Newsroom';return true;" onmouseout="window.status='';return true;">Newsroom</a>&nbsp; |
+    &nbsp;<a href="http://www.dhl-usa.com/CustServ/ContactUs.asp?nav=ContactUs" color="#cc0000" onmouseover="window.status='Contact';return true;" onmouseout="window.status='';return true;">Contact</a>&nbsp; |
+    &nbsp;<a href="http://www.dhl-usa.com/About/Sitemap.asp?nav=Sitemap" color="#cc0000" onmouseover="window.status='Sitemap';return true;" onmouseout="window.status='';return true;">Sitemap</a>&nbsp; |
+    &nbsp;<a href="http://www.dhl-usa.com/About/Privacy.asp?nav=Privacy" color="#cc0000" onmouseover="window.status='Privacy Policy';return true;" onmouseout="window.status='';return true;">Privacy Policy</a>
+    <br>
+	<a href="http://www.dhl-usa.com/about/copyright.asp?nav=Copyright" style="color:#000000;" onmouseover="window.status='Copyright';return true;" onmouseout="window.status='';return true;">Copyright © 2006 DHL International, Ltd. All Rights Reserved.</a>
+	</div></td>
+			<td width="17"><img src="http://www.dhl-usa.com/images/blank.gif" width="17" height="1"></td>
 		</tr>
 		<tr>
-			<td bgcolor="#cc0000" height="20" valign="top" width="777"><img src="http://www.dhl-usa.com/images/blank.gif" width="1" height="15">
 			
-    <a href="http://www.dhl-usa.com/About/Copyright.asp?nav=AboutDHLUSA/CompanyInfo/Copyright" class="lnkFooter" onmouseover="window.status='Copyright';return true;" onmouseout="window.status='';return true;" tabindex="-1"><b>©&nbsp;DHL</b></a><font color="#ffffff" size="1">&nbsp;&nbsp;|&nbsp;&nbsp;</font>
-    <a href="http://www.dhl-usa.com/About/Privacy.asp?nav=AboutDHLUSA/CompanyInfo/Privacy" class="lnkFooter" onmouseover="window.status='Privacy Policy';return true;" onmouseout="window.status='';return true;" tabindex="-1"><b>Privacy Policy</b></a><font color="#ffffff" size="1">&nbsp;&nbsp;|&nbsp;&nbsp;</font>
-    <a href="http://www.dhl-usa.com/CustServ/ContactUs.asp?nav=CustomerService/ContactUs" class="lnkFooter" onmouseover="window.status='Contact Us';return true;" onmouseout="window.status='';return true;" tabindex="-1"><b>Contact Us</b></a><font color="#ffffff" size="1">&nbsp;&nbsp;|&nbsp;&nbsp;</font>
-    <a href="http://www.dhl-usa.com/About/Sitemap.asp?nav=AboutDHLUSA/Sitemap" class="lnkFooter" onmouseover="window.status='Site Map';return true;" onmouseout="window.status='';return true;" tabindex="-1"><b>Site Map</b></a><font color="#ffffff" size="1">&nbsp;&nbsp;|&nbsp;&nbsp;</font>
-    <a href="http://www.dhl.com/main_index.html" class="lnkFooter" onmouseover="window.status='Global Home';return true;" onmouseout="window.status='';return true;" tabindex="-1"><b>DHL Global/Corporate Information</b></a><font color="#ffffff" size="1">&nbsp;&nbsp;|&nbsp;&nbsp;</font>
-    <a href="http://www.dhl-usa.com/home/home.asp" class="lnkFooter" onmouseover="window.status='Home';return true;" onmouseout="window.status='';return true;" tabindex="-1"><b>Home</b></a></td>
-	
-			<td width="3" height="20" valign="top" style="background-image:url(http://www.dhl-usa.com/images/splice_page-end.gif)"><img src="http://www.dhl-usa.com/images/blank.gif" width="3" height="1"></td>
+			<td width="168" bgcolor="#ffcc00"><img src="http://www.dhl-usa.com/images/spacer.gif" width="1" height="5" alt=""></td>
+			<td width="10"><img src="http://www.dhl-usa.com/images/spacer.gif" width="10" height="5" alt=""></td>
+			
+			<td width="578"><img src="http://www.dhl-usa.com/images/spacer.gif" width="578" height="5" alt=""></td>
+			<td width="17"><img src="http://www.dhl-usa.com/images/spacer.gif" width="17" height="5" alt=""></td>
 		</tr>
+		
 	</tbody></table>
 	
-		<layer id="PositionLayer" width="780"></layer>
-		<script language="javascript" type="text/javascript">
-		function DrawFooterTable() {
-			var objLayer = document.layers["PositionLayer"];
-			var intPageHeight = parseInt(window.innerHeight);
-			var intTopHeight = parseInt(objLayer.top);
-			var intTableHeight = intPageHeight - intTopHeight + 12;
-			
-			if (intTableHeight > 12) {
-				var strTableHTML = "";
-				strTableHTML =  '<table border="0" width="780" height="' + intTableHeight + '" cellpadding="0" cellspacing="0">';
-				strTableHTML += '<tr><td class="clrMrn" width="777"><spacer type="block" width="777" height="' + intTableHeight + '"></td>';
-				strTableHTML += '<td width="3" style="background-image:url(http://www.dhl-usa.com/images/splice_page-end.gif)"><spacer type="block" width="3" height="1"></td>';
-				strTableHTML += '</tr></table>';
-				objLayer.document.open();
-				objLayer.document.write(strTableHTML);
-				objLayer.document.close();
-				objLayer.top = intTopHeight - 0;
-				objLayer.visibility = "show";
-			}
-		}
-		</script>
-	
-	<!-- END Footer Informational -->
+	<!-- END Footer Task -->
 
 	
 	
