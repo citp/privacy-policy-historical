@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chuckpalahniuk.net privacy policy that was archived on 2005-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050214050825id_/http%3A//www.chuckpalahniuk.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chuckpalahniuk.net privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619204648id_/http%3A//chuckpalahniuk.net/privacy) for the most accurate reproduction.*
 
 # The Cult - ChuckPalahniuk.net
 
@@ -28,11 +28,11 @@ This Site has security measures in place to protect against the loss, misuse and
 
 **Choice/Opt-Out:**
 
-We may send communications regarding services, the Site or otherwise. You can opt-out of receiving such communications by indicating your desire to opt-out in an email sent to [webmaster@chuckpalahniuk.net](https://web.archive.org/web/20050214050825id_/http://chuckpalahniuk.net/privacy/webmaster@chuckpalahniuk.net).
+We may send communications regarding services, the Site or otherwise. You can opt-out of receiving such communications by indicating your desire to opt-out in an email sent to [webmaster@chuckpalahniuk.net](mailto:webmaster@chuckpalahniuk.net).
 
 **Correct/Update:**
 
-If any of your registration information changes or is incorrect, especially your email, please email us at [webmaster@chuckpalahniuk.net](https://web.archive.org/web/20050214050825id_/http://chuckpalahniuk.net/privacy/webmaster@chuckpalahniuk.net) with your correct information.
+If any of your registration information changes or is incorrect, especially your email, please email us at [webmaster@chuckpalahniuk.net](mailto:webmaster@chuckpalahniuk.net) with your correct information.
 
 **Certain Third Party Transactions:**
 
@@ -40,4 +40,4 @@ We may disclose personal information to third parties we engage to provide servi
 
 **Contacting the Web Site:**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact our Web Site Administrator at [ webmaster@chuckpalahniuk.net](https://web.archive.org/web/20050214050825id_/http://chuckpalahniuk.net/privacy/webmaster@chuckpalahniuk.net) or A Writer's Cult, LLC, PO Box 290, Jericho, NY 11753-0290, USA.
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact our Web Site Administrator at [ webmaster@chuckpalahniuk.net](mailto:webmaster@chuckpalahniuk.net) or A Writer's Cult, LLC, PO Box 290, Jericho, NY 11753-0290, USA.
