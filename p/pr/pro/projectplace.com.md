@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the projectplace.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220073432id_/http%3A//www.projectplace.com/terms/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectplace.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619113216id_/http%3A//www.projectplace.com/terms/privacy_statement.html) for the most accurate reproduction.*
 
 # Projectplace - Privacy Statement
 
-  * ### [Privacy Statement](http://www.projectplace.com/terms/privacy_statement.html)
+  * ### [Terms & Conditions](http://www.projectplace.com/terms.html)
 
+  * [Security Policy](http://www.projectplace.com/terms/security_policy.html)
+  * [Privacy Statement](http://www.projectplace.com/terms/privacy_statement.html)
+  * [Terms of Use](http://www.projectplace.com/terms/termsofuse.html)
+  * [Customer Agreement](http://www.projectplace.com/terms/agreement.html)
+  * [Legal Disclaimer](http://www.projectplace.com/terms/disclaimer.html)
 
 |  | 
 
