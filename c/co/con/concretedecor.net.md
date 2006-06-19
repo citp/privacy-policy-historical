@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concretedecor.net privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217105011id_/http%3A//www.concretedecor.net/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concretedecor.net privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619221922id_/http%3A//www.concretedecor.net/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Concrete Decor and PaintPro Magazine Publishers
 
@@ -64,7 +64,7 @@ We are committed to resolving disputes within 24-48 hours. If problems arise, us
   
 If site users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-e-mail: bmikkelsen@protradepub.com  
+e-mail: [bmikkelsen@protradepub.com](mailto:bmikkelsen@protradepub.com)  
 Tel: 541-341-3390 
 
 or by writing to: 
