@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ugandajobline.com privacy policy that was archived on 2005-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050829210019id_/http%3A//www.ugandajobline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugandajobline.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619031627id_/http%3A//www.ugandajobline.com/privacy.php) for the most accurate reproduction.*
 
-# UgandaJobline|
+# Uganda Jobline |Top jobs, resumes & career resources across Uganda
 
 **Privacy Policy**
 
