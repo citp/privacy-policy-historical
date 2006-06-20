@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219225027id_/http%3A//www.upack.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620050850id_/http%3A//www.upack.com/about/privacy.asp) for the most accurate reproduction.*
 
 # ABF U-Pack Moving Privacy Policy
 
@@ -37,4 +37,4 @@ We practice permission marketing. If you would like to remove yourself from rece
 **Toll Free: 1-800-355-1696**  
   
 ABF®, ABF Freight System, Inc.®, U-Pack®, ABF U-Pack Moving®, and "You pack, we drive, you save®"  
-are all registered trademarks and the property of ABF Freight System, Inc., headquartered in Fort Smith, Arkansas. All rights reserved. Last Modified: 08/11/2005 5:35:29 PM 
+are all registered trademarks and the property of ABF Freight System, Inc., headquartered in Fort Smith, Arkansas. All rights reserved. Last Modified: 08/11/2005 6:35:29 PM 
