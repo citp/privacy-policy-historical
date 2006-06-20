@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipe4living.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229201450id_/http%3A//recipe4living.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipe4living.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620054829id_/http%3A//recipe4living.com/privacy.asp) for the most accurate reproduction.*
 
 # Recipe4Living.com - Privacy Policy
 
@@ -48,6 +48,8 @@ Individuals under 18 years of age are not permitted to participate in obtaining 
 
 **Third-Party Links**  
 Recipe4Living.com does not endorse, nor is Recipe4Living.com responsible for the accuracy of, the privacy policies and/or terms and conditions of each of the advertisers and/or third parties accessible through the Recipe4Living.com Website. The entities that advertise and/or place banner ads at Recipe4Living.com are independent third parties and not affiliated with Recipe4Living.com.
+
+We allow advertisers and other third parties to place cookies onto your computer when you visit this Website. These cookies are placed to keep track of the web searches you make while visiting this Website, as well as your web surfing behavior on this Website and other websites you may visit later on. That information is used to anonymously customize ads to you on other websites you visit, and/or to keep track of your response to each ad. None of these third parties are able to use this information to identify you personally. One such company is AlmondNet. If you'd like to know more about AlmondNet's privacy practices, please [click here](http://www.almondnet.com/privacy.aspx?miid=7&artid=49). 
 
 **Acceptance of this Privacy Policy**  
 By using this Website including, without limitation, signing up for offers and/or continuing to receive information from Recipe4Living.com, you agree to the Recipe4Living.com Privacy Policy. We reserve the right, at our discretion, to change, modify, add, and/or remove portions of this Privacy Policy at any time. All changes will take effect immediately upon their posting on our Website. Please check this page periodically for changes. Your continued use of Recipe4Living.com or acceptance of our e-mails following the posting of changes to this Privacy Policy will mean that you accept any and all such changes and agree to continue receiving directing marketing from us and other third party companies. If you do not agree to the terms of this Privacy Policy, please unsubscribe at the bottom of our e-mail. If you have questions about this Privacy Policy, please contact us at:
