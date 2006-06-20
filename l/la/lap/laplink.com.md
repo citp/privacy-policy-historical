@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217123851id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620071701id_/http%3A//laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
 
 # Laplink Software Inc. Privacy Policy
 
@@ -58,8 +58,8 @@ Visitors who decide they no longer wish to receive our product mailings or promo
 
 
 Laplink Software Inc.  
-10210 NE Points Drive, Suite 400  
-Kirkland, WA 98033  
+14335 NE 24th Street, Suite 201  
+Bellevue, WA 98007  
 USA  
 Phone: 425.952.6000  
 Fax: 425.952.6002  
@@ -99,8 +99,8 @@ Cookies also help us to better understand general visitor interests and patterns
 Please feel free to write, call or send us an e-mail message with any questions or comments you have about our privacy policies!
 
 Laplink Software Inc.  
-10210 NE Points Drive, Suite 400  
-Kirkland, WA 98033  
+14335 NE 24th Street, Suite 201  
+Bellevue, WA 98007  
 USA  
 Phone: 425.952.6000  
 Fax: 425.952.6002  
