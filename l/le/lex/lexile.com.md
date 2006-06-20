@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305110643id_/http%3A//www.lexile.com/DesktopDefault.aspx%3Fview%3Ded%26tabindex%3D0%26tabid%3D1%26tabpageid%3D213) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620144249id_/http%3A//lexile.com/DesktopDefault.aspx%3Fview%3Ded%26tabindex%3D0%26tabid%3D1%26tabpageid%3D213) for the most accurate reproduction.*
 
 # The Lexile Framework for Reading
 
