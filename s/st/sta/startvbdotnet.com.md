@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startvbdotnet.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215041758id_/http%3A//www.startvbdotnet.com/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startvbdotnet.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620081150id_/http%3A//www.startvbdotnet.com/site/privacy.aspx) for the most accurate reproduction.*
 
 # Startvbdotnet.com Privacy Statement
 
@@ -42,4 +42,4 @@ Please note that we review our privacy practices from time to time, and that suc
 
 _**Questions?**_
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with Startvbdotnet website, please feel free to [contact us](https://web.archive.org/web/20051215041758id_/http%3A//www.startvbdotnet.com/site/contact.aspx). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with Startvbdotnet website, please feel free to [contact us](https://web.archive.org/web/20060620081150id_/http%3A//www.startvbdotnet.com/site/contact.aspx). 
