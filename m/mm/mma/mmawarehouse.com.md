@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmawarehouse.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123055400id_/http%3A//www.mmawarehouse.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmawarehouse.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620031649id_/http%3A//www.mmawarehouse.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MMA Warehouse.com
 
@@ -12,4 +12,4 @@ We will never send you unsolicited email. Any e-mails we do send with news or pr
 
 Please contact us if you have any questions concerning this policy. Thank you!
 
-For any **SECURITY** concerns, please see our [About Us](https://web.archive.org/web/20051123055400id_/http%3A//www.mmawarehouse.com/info.html) page.
+For any **SECURITY** concerns, please see our [About Us](https://web.archive.org/web/20060620031649id_/http%3A//www.mmawarehouse.com/info.html) page.
