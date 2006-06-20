@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellstar.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202164354id_/http%3A//www.wellstar.org/legal/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellstar.org privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620165805id_/http%3A//www.wellstar.org/legal/privacy_policy.asp) for the most accurate reproduction.*
 
 # Wellstar Health System
 
