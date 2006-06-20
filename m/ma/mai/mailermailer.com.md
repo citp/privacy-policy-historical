@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailermailer.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231121526id_/http%3A//www.mailermailer.com/privacypolicy.mlm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailermailer.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620042719id_/http%3A//www.mailermailer.com/privacypolicy.mlm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,7 +54,7 @@ Last Update: 19-May-2004
 
 [](http://www.cauce.org/)
 
-Copyright 2001-2005 MailerMailer LLC.   
+Copyright 2001-2006 MailerMailer LLC.   
 Email newsletter, newsletter templates, email marketing, list management, and email list hosting. 
 
 |  |  [About Us](https://web.archive.org/aboutus/index.mlm) | | |  [Privacy Policy](https://web.archive.org/privacypolicy.mlm) | | |  [Anti-Spam](https://web.archive.org/antispam.mlm)  
