@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickability.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229230301id_/http%3A//www.clickability.com/misc/317.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickability.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620112724id_/http%3A//www.clickability.com/misc/317.html) for the most accurate reproduction.*
 
 # Clickability -- web content management software-as-a-service
 
@@ -19,7 +19,7 @@ Jeff Freund
 ---|---|---  
   
 [](https://web.archive.org/contact/491.html)  
-[](https://web.archive.org/misc/1856477.html)  
+[](https://web.archive.org/contact/1856477.html)  
 
 
 | 
