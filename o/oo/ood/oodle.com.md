@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225072253id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oodle.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620190448id_/http%3A//www.oodle.com/info/privacy) for the most accurate reproduction.*
 
 # Oodle Privacy
 
-| 
+|  | 
 
 Your privacy is important to us, so Oodle has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy applies to our web sites, including our publicly accessible web sites located at [oodle.com](https://web.archive.org/) (the "Sites"). This Privacy Policy may be updated from time to time. You can always review the most current version at [http://www.oodle.com/info/privacy/](https://web.archive.org/info/privacy/). By using the Sites, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Sites and this Privacy Policy, the Terms of Use control. 
 
@@ -25,7 +25,7 @@ Registration is required to place a listing through our service or to use other 
 
 Registered users may choose to receive a copy of our newsletter or receive other mailings from us regarding our service or the Sites. You may opt-out of receiving future mailings as part of the registration process. 
 
-You can review and change your Personally Identifiable Information or password at any time by going to our "My Oodle" page at [http:/www.oodle.com/my/](https://web.archive.org/my/). 
+You can review and change your Personally Identifiable Information or password at any time by going to our "My Oodle" page at [http://www.oodle.com/my/](https://web.archive.org/my/). 
 
 ## Cookies
 
@@ -68,4 +68,6 @@ If we merge with or are acquired by another company, the resulting combined comp
 
 ## More Questions?
 
-If you have any questions about this Privacy Policy or want to report abuse, please contact us at [abuse@oodle.com](mailto:abuse@oodle.com). 
+If you have any questions about this Privacy Policy or want to report abuse, please contact us at [abuse@oodle.com](mailto:abuse@oodle.com).   
+  
+---|---
