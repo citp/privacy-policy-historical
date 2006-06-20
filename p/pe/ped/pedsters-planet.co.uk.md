@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pedsters-planet.co.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212114017id_/http%3A//www.pedsters-planet.co.uk/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedsters-planet.co.uk privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620080259id_/http%3A//www.pedsters-planet.co.uk/help/privacy.htm) for the most accurate reproduction.*
 
 # Pedsters Planet : Privacy Policy
 
