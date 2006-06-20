@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sircon.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212233932id_/http%3A//www.sircon.com/resources/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sircon.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620224640id_/http%3A//www.sircon.com/resources/privacy.jsp) for the most accurate reproduction.*
 
 # Sircon Corporation -- Privacy Statement
 
-Updated: February 8, 2005 
+Updated: April 27, 2006
 
 ## Collection of your Personal Information 
 
@@ -10,7 +10,7 @@ The Site may collect certain information about your visit, such as the name of t
 
 ## Use of your Personal Information 
 
-The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized. In support of these uses, Sircon may use personal information to provide you with more effective customer service, to improve the Site and any related Sircon products or services. We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, with your permission, we may send you information about other Sircon products and services. Sircon may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Sircon or the Site; (b) protect and defend the rights or property of Sircon and our family of Web Services and Sites; or (c) act in urgent circumstances to protect the personal safety of Sircon employees or agents, users of Sircon products or services, or members of the public. 
+The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized. In support of these uses, Sircon may use personal information to provide you with more effective customer service, to improve the Site and any related Sircon products or services. We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, we may send you information about other Sircon products and services. Sircon may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Sircon or the Site; (b) protect and defend the rights or property of Sircon and our family of Web Services and Sites; or (c) act in urgent circumstances to protect the personal safety of Sircon employees or agents, users of Sircon products or services, or members of the public. 
 
 ## Control of your Personal Information 
 
@@ -26,7 +26,7 @@ We use cookies on this Site to ensure the integrity of the registration process 
 
 ## Enforcement of this Privacy Statement 
 
-If you have questions regarding this statement, you should contact Sircon and info@sircon.com. 
+If you have questions regarding this statement, you should contact Sircon and [info@sircon.com](mailto:info@sircon.com). 
 
 ## Changes to this Statement 
 
