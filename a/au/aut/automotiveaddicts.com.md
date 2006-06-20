@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotiveaddicts.com privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108053846id_/http%3A//www.automotiveaddicts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotiveaddicts.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620072718id_/http%3A//automotiveaddicts.com/privacy.html) for the most accurate reproduction.*
 
 # Automotive Addicts
 
