@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chemistry.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212155949id_/http%3A//www.chemistry.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemistry.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620111610id_/http%3A//chemistry.com/help/privacy.aspx) for the most accurate reproduction.*
 
-# Chemistry – Find an Enduring Relationship Based on Compatibility and Chemistry
+# Chemistry - Find an Enduring Relationship Based on Compatibility and Chemistry
 
 **Chemistry Privacy Policy**
 
@@ -42,4 +42,4 @@ If at any point we decide to use particular personally identifiable information 
 **How You Can Access and Update Your Email Preferences, Personal Information and Public Information**  
 We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Site, at anytime by going to the Account Settings or My Profile section of the Site. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Site. We thank you for your patience. Please note that changing or deleting your information through the "Account Settings" or "My Profile" section of the Site, or otherwise opting-out of receipt of email communications from Chemistry, will only change or delete the data in our database for purposes of future activities on the Site and for managing future communications from Chemistry. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy. 
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can mail us at: Privacy Officer, Chemistry, c/o Match.com Legal Department, P.O. Box 940889, Plano, TX 75094. 
+If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can mail us at: Privacy Officer, Chemistry, c/o Chemistry.com Legal Department, P.O. Box 25304, Dallas, TX 75225. 
