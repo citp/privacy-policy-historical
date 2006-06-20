@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothernature.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215145437id_/http%3A//www.mothernature.com/Help_Desk/index.cfm/type/privacy_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothernature.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620074143id_/http%3A//www.mothernature.com/Help_Desk/index.cfm/type/privacy_security) for the most accurate reproduction.*
 
 # MotherNature's Healthy Living Help Desk
 
@@ -6,8 +6,8 @@
 
 Free Catalog
 
-[](https://web.archive.org/Help_Desk/pages/index.cfm/page/CatalogRequest/irfr/www1)   
-MotherNature.com's Catalog Is Here! [Click Here](https://web.archive.org/Help_Desk/pages/index.cfm/page/CatalogRequest/irfr/www1) to Get Your Free Copy Today.  
+[](https://web.archive.org/Help_Desk/pages/index.cfm/page/CatalogRequest/irfr/www1/192.168.168.21)   
+MotherNature.com's Catalog Is Here! [Click Here](https://web.archive.org/Help_Desk/pages/index.cfm/page/CatalogRequest/irfr/www1/192.168.168.21) to Get Your Free Copy Today.  
 
 
 Newsletter Sign Up
