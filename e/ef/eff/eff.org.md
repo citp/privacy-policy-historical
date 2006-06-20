@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214010219id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620082421id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
 
 # EFF: EFF Privacy Policy
 
@@ -9,9 +9,9 @@ In this policy, "EFF" refers to EFF staff, board members, cooperating attorneys,
 EFF does not sell or rent donor information under any circumstances, and we do not share information without prior consent except as compelled by law. (See discussion below.) 
 
 **Information Gathered by EFF's Site**  
-For visitors to our website, we may, but generally do not, log standard technical information, such as the numerical Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; and the Internet address of the website from which you linked directly to our site. Circumstances in which we temporarily log standard technical information include conducting site testing, diagnosis of technical problems, and defending against attacks on the site. We generally do log the date and time users access our site on an anonymous basis. For more information on EFF's position on data logging, see our [Best Practices for Online Service Providers](https://web.archive.org/web/20051214010219id_/http://www.eff.org/policy/%C3%93http://www.eff.org/osp/%C3%93). 
+For visitors to our website, we may, but generally do not, log standard technical information, such as the numerical Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; and the Internet address of the website from which you linked directly to our site. Circumstances in which we temporarily log standard technical information include conducting site testing, diagnosis of technical problems, and defending against attacks on the site. We generally do log the date and time users access our site on an anonymous basis. For more information on EFF's position on data logging, see our [Best Practices for Online Service Providers](https://web.archive.org/web/20060620082421id_/https://www.eff.org/policy/%C3%93http://www.eff.org/osp/%C3%93). 
 
-We do not use persistent cookies on this site unless you log into the Action Center or use "Remember Me" or other similar functionality. We may use session cookies from time to time. Session cookies expire when you close your browser. You can set your browser to refuse cookies, and use [Tor](https://web.archive.org/web/20051214010219id_/http://www.eff.org/policy/%C3%93http://tor.eff.org%C3%93) if you wish to keep your IP number and other technical information anonymous. 
+We do not use persistent cookies on this site unless you log into the Action Center or use "Remember Me" or other similar functionality. We may use session cookies from time to time. Session cookies expire when you close your browser. You can set your browser to refuse cookies, and use [Tor](https://web.archive.org/web/20060620082421id_/https://www.eff.org/policy/%C3%93http://tor.eff.org%C3%93) if you wish to keep your IP number and other technical information anonymous. 
 
 In addition, EFF collects and retains information you submit to us. It is up to you whether to submit information to us, and how much information to provide. If you choose to become an EFF member or register for the EFF Action Center, we ask for your name, title, email address, city, state, postal code, country of residence, and phone number, and we may invite you to select a password. For online donors and shoppers, we also ask for your credit card number. We also maintain records of our members' use of the Action Center, and you may wish to indicate your particular interests in your Action Center profile. If you use the EFF Shop, you are asked to provide personal information, such as a shipping address, necessary to complete your transaction. 
 
@@ -67,13 +67,24 @@ Although we make good faith efforts to store information collected by EFF in a s
 
 _Updated Oct. 6, 2005_
 
+* * *
+
+## About EFF's Search Function
+
+EFF uses Google for search functionality on www.eff.org. To protect your privacy, EFF proxies search requests to Google with a special CGI script on our server, thus hiding your IP address and your Google cookie (if any) from Google's servers. 
+
 | 
 
-Search
+Search eff.org
+
+**Powered by**   
+[](http://google.com/)
+
+» [About EFF's search](https://web.archive.org/google_search.html)  
+
 
 Contents
 
-[EFF in the News](https://web.archive.org/press/)  
 [miniLinks](https://web.archive.org/minilinks/)  
 [Awards](https://web.archive.org/awards/)  
 [EFF Victories](https://web.archive.org/legal/victories/)  
@@ -103,15 +114,16 @@ Topics
 [CAPPS II](https://web.archive.org/Privacy/cappsii/)  
 [Censorship](https://web.archive.org/Censorship/)  
 [Copyright Law](https://web.archive.org/IP/)  
-[Digital Rights Management](https://web.archive.org/IP/DRM/)  
+[Digital Rights Management (DRM)](https://web.archive.org/IP/DRM/)  
 [DMCA](https://web.archive.org/IP/DMCA/)  
 [Domain names](https://web.archive.org/Infrastructure/DNS_control)  
 [E-voting](https://web.archive.org/Activism/E-voting/)  
+[Fair Use](https://web.archive.org/IP/fairuse/)  
 [File-sharing](https://web.archive.org/share/)  
 [Filtering](https://web.archive.org/Censorship/Censorware/)  
 [FTAA](https://web.archive.org/IP/FTAA/)  
 [Intellectual Property](https://web.archive.org/IP/)  
-[International](https://web.archive.org/IP/WIPO/)  
+[International](https://web.archive.org/global/)  
 [Internet governance](https://web.archive.org/Infrastructure/DNS_control/ICANN_IANA_IAHC/)  
 [ISP legalities](https://web.archive.org/legal/ISP_liability/)  
 [Licensing/UCITA](https://web.archive.org/IP/UCITA_UCC2B/)  
@@ -123,7 +135,6 @@ Topics
 [Reverse engineering](https://web.archive.org/IP/Emulation/)  
 [RFID](https://web.archive.org/Privacy/Surveillance/RFID/)  
 [Spam](https://web.archive.org/spam/)  
-[States](https://web.archive.org/State_and_local/)  
 [Surveillance](https://web.archive.org/Privacy/Surveillance/)  
 [USA PATRIOT Act](https://web.archive.org/patriot/)  
 [Wireless](https://web.archive.org/Infrastructure/Wireless_cellular_radio/)  
