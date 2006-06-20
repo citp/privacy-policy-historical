@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221043314id_/http%3A//www.geico.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620101851id_/http%3A//www.geico.com/privacy.htm) for the most accurate reproduction.*
 
 # GEICO Insurance Privacy Policy
 
@@ -56,15 +56,15 @@ Please see our [ Internet Security Policy](https://web.archive.org/security.htm)
   
 
 
-### ADDITIONAL INFORMATION FOR OUR WEBSITE USERS
+### ADDITIONAL INFORMATION FOR OUR WEB SITE USERS
 
-GEICO collects information in three categories when you visit our website. GEICO stores information collected by general browsing, when you request a quotation, and when you request policyholder service transactions in a secure environment behind our firewall.
+GEICO collects information in three categories when you visit our Web site. GEICO stores information collected by general browsing, when you request a quotation, and when you request policyholder service transactions in a secure environment behind our firewall.
 
-When you are browsing the website for general information, browsing patterns are stored in our database for review. GEICO reviews customer web browsing patterns to enable us to enhance pages of particular interest to you.
+When you are browsing the Web site for general information, browsing patterns are stored in our database for review. GEICO reviews customer web browsing patterns to enable us to enhance pages of particular interest to you.
 
 When you complete a request for an on-line auto policy quote, information is collected to help us offer you proper coverage. Your information is also used to determine if you qualify for any of our many discounts. If you have recently completed an on-line auto policy quotation, your session data will remain in our quotation system database for 90 days. If you have shown interest in obtaining a quote in the past you may receive a courtesy reminder when your current policy approaches the renewal date.
 
-GEICO may place a small text file called a "cookie", on your computer’s hard-drive to identify you when you return to our website. No personal information is stored in the cookie.
+GEICO may place a small text file called a "cookie", on your computer’s hard-drive to identify you when you return to our web site. No personal information is stored in the cookie.
 
 This website provides some links to third-party websites that are not owned by GEICO. GEICO has no control over their privacy practices and assumes no responsibility in connection with your use of their websites. We recommend that you check the privacy policy of any website before you provide any personally identifiable information.
 
