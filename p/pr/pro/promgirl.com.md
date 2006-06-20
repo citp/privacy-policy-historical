@@ -1,12 +1,28 @@
-> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231040405id_/http%3A//www.promgirl.com/info/policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620035538id_/http%3A//www.promgirl.com/info/policies%23privacy) for the most accurate reproduction.*
 
-# Prom Dresses at PromGirl.com: Policies
+# Policies
 
-If for any reason you are not completely satisfied with your purchase, you may return or exchange your merchandise within **5 days of receipt for a refund** , less shipping costs and restocking fees, based on the original form of payment.  Exchanges are subject to item availability.  Sale items and orders paid for by paypal or money order can be exchanged only. _Please Note:_ Any returns or exchanges postmarked after 5 days of your receipt date and/or missing a return authorization number will be returned to you at your shipping expense.  
+**Policies**
 
-**Important note: There are no returns, exchanges or cancellations on special order merchandise.   Sale items may be exchanged for size only based on availability.  Stay up tape, lingerie, cosmetics, and visors will not be accepted for return.**
+[**Return and Exchange Policy**](http://www.promgirl.com/info/policies#Return)  
+[ **Telephone Orders**](http://www.promgirl.com/info/policies#Telephone)  
+[ **Fax Orders**](http://www.promgirl.com/info/policies#Fax)  
+[ **Money Orders**](http://www.promgirl.com/info/policies#MO)  
+[ **Delivery Times**](http://www.promgirl.com/info/policies#Delivery)  
+[ **Shipping**](http://www.promgirl.com/info/policies#Shipping)  
+[ **Payment Methods**](http://www.promgirl.com/info/policies#Payment)  
+[ **Security**](http://www.promgirl.com/info/policies#security)  
+[ **Privacy Policy**](http://www.promgirl.com/info/policies#Privacy)  
+[ **Cookies**](http://www.promgirl.com/info/policies#Cookies)  
 
-The goods must be returned in original condition. We have 100% inspection on merchandise leaving the warehouse. Returns are inspected upon receipt. Items must not have been worn, washed, altered and have all originals tags attached. Items with snags, rips, make-up stains, odors (i.e. cigarette smoke) or other damages will result in the item being returned to you. _Please Note:_ If you do not accept the item being returned to you, we will charge you 50% of the value of the item, plus shipping charges, as a restocking fee.
+
+**Return and Exchange policy**
+
+If for any reason you are not completely satisfied with your purchase, you may return or exchange your merchandise within **5 days of receipt for a refund** , less shipping costs and restocking fees, based on the original form of payment.  Exchanges are subject to item availability.  Sale items and orders paid for by paypal or money order can be exchanged only. _Please Note:_ Any returns or exchanges postmarked after 5 days of your receipt date and/or missing a return authorization number will be returned to you at your shipping expense.  
+
+**Important note: There are no returns, exchanges or cancellations on custom made, final sales, or  sale merchandise.  Sale items may be exchanged for size only based on availability.  Stay up tape, lingerie, cosmetics, and visors will not be accepted for return.**
+
+The goods must be returned in original condition. We have 100% inspection on merchandise leaving the warehouse. Returns are inspected upon receipt. Items must not have been worn, washed, altered and have all originals tags attached and in original packaging. Items with snags, rips, make-up stains, odors (i.e. cigarette smoke) or other damages will result in the item being returned to you. _Please Note:_ If you do not accept the item being returned to you, we will charge you 50% of the value of the item, plus shipping charges, as a restocking fee.
 
 There is a 10% restocking fee for all single dress returns and exchanges.  Returns of two or more dresses have restocking fees as followed.
 
@@ -18,7 +34,7 @@ five or more dresses - 40%
 
 There is a 20% restocking fee for all non dress returns and exchanges. 
 
-For questions, please contact our customer care department at 1-888-THE PROM (843 7766) between 10 AM and 5 PM EST Mon-Fri or email us at [returns@promgirl.com.](mailto:returns@promgirl.com)
+For questions, please email us at [returns@promgirl.com](mailto:returns@promgirl.com), do not call for a return authorization.  All requests must be done through our site at [www.promgirl.com/returns](http://www.promgirl.com/returns) or by emailing returns@promgirl.com
 
 [\- top of page -](http://www.promgirl.com/info/policies#top)
 
