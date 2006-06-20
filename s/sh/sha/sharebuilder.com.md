@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharebuilder.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228203505id_/http%3A//www.sharebuilder.com/sharebuilder/Home/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharebuilder.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620162519id_/http%3A//www.sharebuilder.com/sharebuilder/Home/Privacy.asp) for the most accurate reproduction.*
 
 # ShareBuilder: Privacy Policy
 
@@ -49,7 +49,7 @@ ShareBuilder also uses the services of Coremetrics to provide additional trackin
 **What are my opt out rights?**   
 You may choose to not receive information about new products and services from ShareBuilder, as well as other information that we provide for the educational benefit of our customers. To do so, simply click on Account Profile on the web site and amend your Email Preferences to check the box stating that you do not wish to receive such information. Even if you choose to "opt out", you will continue to receive notifications concerning transaction activity in your account, account statements, tax information and other matters relevant to your brokerage account or required by law. Your opt out election will remain in effect until you amend your Email Preferences by checking the box stating "Yes, please keep me up to date." In the case of joint accounts, your election to opt in or out covers all persons listed on the account. 
 
-If you would like to deactivate our ability to analyze your browsing behavior through the use of Coremetrics' web analytics services or wish to find out more about Coremetrics, including its privacy policy, **[click here](https://web.archive.org/web/20051228203505id_/http%3A//www.sharebuilder.com/sharebuilder/Home/CoremetricsOptOut.asp)**. 
+If you would like to deactivate our ability to analyze your browsing behavior through the use of Coremetrics' web analytics services or wish to find out more about Coremetrics, including its privacy policy, **[click here](https://web.archive.org/web/20060620162519id_/http%3A//www.sharebuilder.com/sharebuilder/Home/CoremetricsOptOut.asp)**. 
 
 **Maintenance of accurate information.**   
 We strive to insure that the personal information we maintain about you is accurate, current, and complete. We will respond to your requests to correct inaccurate information in a timely manner. If you ever find that your personal or account information is incomplete, inaccurate or not current, you should update your Account Profile by clicking on that link on the web site or, if appropriate, by contacting Customer Care through the Customer Care link on the web site. 
