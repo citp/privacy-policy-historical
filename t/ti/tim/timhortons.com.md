@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timhortons.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221043210id_/http%3A//timhortons.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timhortons.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620105844id_/http%3A//timhortons.com/en/privacy.html) for the most accurate reproduction.*
 
 # timhortons
 
