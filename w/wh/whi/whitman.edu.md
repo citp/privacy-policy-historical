@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221184300id_/http%3A//www.whitman.edu/pieces/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620145814id_/http%3A//www.whitman.edu/pieces/privacy.cfm) for the most accurate reproduction.*
 
 # Statement of Privacy
 
@@ -51,4 +51,4 @@ If you have any questions about the security at our web site, you can send an em
 If a person's personal information (such as address or phone number) changes we will endeavor to provide a way to correct, or update that user's personal data. Send corrections to [Whitman Webteam](mailto:webteam@whitman.edu).
 
 **How to contact us with questions or comments**  
-You can reach us through one of the following [contacts](https://web.archive.org/web/20051221184300id_/http%3A//www.whitman.edu/pieces/comments.html) or through the [Office of Communication](mailto:communication@whitman.edu). 
+You can reach us through one of the following [contacts](https://web.archive.org/web/20060620145814id_/http%3A//www.whitman.edu/pieces/comments.html) or through the [Office of Communication](mailto:communication@whitman.edu). 
