@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nokiaforbusiness.com privacy policy that was archived on 2005-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050625202346id_/http%3A//nokia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiaforbusiness.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620054441id_/http%3A//www.nokia.com/nokia/0%2C8764%2C642%2C00.html) for the most accurate reproduction.*
 
 # Nokia - Privacy Policy
 
 ---  
   
-**Privacy Policy of "www.nokia.com" (this "Site")**
+**Privacy Policy of "www.europe.nokia.com" (this "Site")**
 
 This Privacy Policy is applicable to this Site and not necessarily to other Nokia sites on the World Wide Web pages. When leaving this Site, please read the privacy policy applicable to the site you are visiting. **If you do not agree with this Privacy Policy, please do not use this Site.**
 
