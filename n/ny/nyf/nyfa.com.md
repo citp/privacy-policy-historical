@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyfa.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213235839id_/http%3A//www.nyfa.com/film/about_us/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfa.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620084035id_/http%3A//www.nyfa.com/film/about_us/policy.htm) for the most accurate reproduction.*
 
 # New York Film Academy-Film and Acting School-Contact
 
