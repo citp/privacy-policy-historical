@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the laplink.com privacy policy that was archived on 2005-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217123851id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the laplink.com privacy policy that was archived on 2006-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060620071701id_/http%3A//laplink.com/siteinfo/default.asp) for the most accurate reproduction.-->
 
 <html><head></head><body bgcolor="#ffffff" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" vlink="#666666" link="#ff3300" alink="#666666"><a name="TOP"></a>
 
@@ -62,7 +62,7 @@ function world(sURL) {
 		</option><option value="/it/">Italy
 		</option><option value="/es/">Spain
 		</option><option value="/uk/">United Kingdom
-		</option><option value="/" selected="">United States
+		</option><option value="/default.asp" selected="">United States
 		</option><option value="/world/africa.asp">(sales) Africa 
 		</option><option value="/world/americas.asp">(sales) Americas 
 		</option><option value="/world/asia.asp">(sales) Asia 
@@ -192,8 +192,8 @@ oCMenu.level[1].arrowHeight=7
 
 //EXAMPLE SUB LEVEL[2] PROPERTIES - You have to spesify the properties you want different from LEVEL[1] OR LEVEL[0] - If you want all items to look the same just remove this
 oCMenu.level[2]=new cm_makeLevel() //Add this for each new level (adding one to the number)
-oCMenu.level[2].width=150
-oCMenu.level[2].height=20
+oCMenu.level[2].width=124
+oCMenu.level[2].height=18
 oCMenu.level[2].borderX=1
 oCMenu.level[2].borderY=1
 oCMenu.level[2].offsetX=0
@@ -211,18 +211,20 @@ myCoolMenu.makeMenu(name, parent_name, text, link, target, width, height, regIma
 oCMenu.makeMenu('top0','','&nbsp;Home','/default.asp','')
 	
 oCMenu.makeMenu('top1','','&nbsp;Products','/buy/')
-	oCMenu.makeMenu('sub10','top1','<img src="/images/new_wb/Box_orng.gif">Laplink Gold 12','/products/llgold/overview.asp')
-		oCMenu.makeMenu('sub100','sub10','<img src="/images/new_wb/Box_orng.gif">Individual','/products/llgold/overview.asp')
-		oCMenu.makeMenu('sub101','sub10','<img src="/images/new_wb/Box_orng.gif">Enterprise','/products/corporate/overview.asp')
-	oCMenu.makeMenu('sub11','top1','<img src="/images/new_wb/Box_orng.gif">PCmover','/products/pcmover/overview.asp')
-	oCMenu.makeMenu('sub12','top1','<img src="/images/new_wb/Box_orng.gif">ShareDirect','/products/sharedirect/overview.asp')
-	oCMenu.makeMenu('sub13','top1','<img src="/images/new_wb/Box_orng.gif">Laplink Everywhere','/products/lle/overview.asp')
+	oCMenu.makeMenu('sub10','top1','<img src="/images/new_wb/Box_orng.gif">Laplink Gold 12','/llgold/')
+		oCMenu.makeMenu('sub200','sub10','<img src="/images/new_wb/Box_orng.gif">Individual','/llgold/')
+		oCMenu.makeMenu('sub202','sub10','<img src="/images/new_wb/Box_orng.gif">Enterprise','/products/corporate/overview.asp')
+	oCMenu.makeMenu('sub11','top1','<img src="/images/new_wb/Box_orng.gif">PCmover','/pcmover/')
+	oCMenu.makeMenu('sub12','top1','<img src="/images/new_wb/Box_orng.gif">PCdefense','/pcdefense/')
+	oCMenu.makeMenu('sub13','top1','<img src="/images/new_wb/Box_orng.gif">Laplink Everywhere','/lle/')
 	oCMenu.makeMenu('sub14','top1','<img src="/images/new_wb/Box_orng.gif">FileMover','/products/filemover/overview.asp')
-	oCMenu.makeMenu('sub15','top1','<img src="/images/new_wb/Box_orng.gif">PDAsync 3','/products/PDAsync/overview.asp')
-	oCMenu.makeMenu('sub16','top1','<img src="/images/new_wb/Box_orng.gif">Laplink Controller','/products/controller/overview.asp')
-	oCMenu.makeMenu('sub17','top1','<img src="/images/new_wb/Box_orng.gif">Laplink V for DOS','/products/LLV/overview.asp')
+	oCMenu.makeMenu('sub15','top1','<img src="/images/new_wb/Box_orng.gif">ShareDirect','/sharedirect/')
+	oCMenu.makeMenu('sub21','top1','<img src="/images/new_wb/Box_orng.gif">DoubleView','/doubleview/')
+	oCMenu.makeMenu('sub16','top1','<img src="/images/new_wb/Box_orng.gif">PDAsync 3','/pdasync/')
+	oCMenu.makeMenu('sub17','top1','<img src="/images/new_wb/Box_orng.gif">Laplink Controller','/products/controller/overview.asp')
+	oCMenu.makeMenu('sub18','top1','<img src="/images/new_wb/Box_orng.gif">Laplink V for DOS','/products/LLV/overview.asp')
 	// oCMenu.makeMenu('sub18','top1','<img src="/images/new_wb/Box_orng.gif">Laplink Secure VNC','/products/vnc/overview.asp')
-	oCMenu.makeMenu('sub19','top1','<img src="/images/new_wb/Box_orng.gif">Laplink Gold 11.5','/products/llgold115/overview.asp')
+	oCMenu.makeMenu('sub19','top1','<img src="/images/new_wb/Box_orng.gif">Laplink Gold 11.5','/llgold115/')
 	oCMenu.makeMenu('sub20','top1','<img src="/images/new_wb/Box_orng.gif">Laplink Cables','/products/cables/overview.asp')
 	//	oCMenu.makeMenu('sub200','sub20','<img src="/images/new_wb/Box_orng.gif">Cables Overview','/products/cables/overview.asp')
 	//	oCMenu.makeMenu('sub202','sub20','<img src="/images/new_wb/Box_orng.gif">Cable FAQs','/products/cables/faq.asp')
@@ -247,7 +249,7 @@ oCMenu.makeMenu('top2','','&nbsp;Solutions','')
 		oCMenu.makeMenu('sub302','sub30','<img src="/images/new_wb/Box_orng.gif">Tutorials','/tutorials/')
 		// oCMenu.makeMenu('sub303','sub30','<img src="/images/new_wb/Box_orng.gif">Updates/Drivers','/support/updates')
 		oCMenu.makeMenu('sub304','sub30','<img src="/images/new_wb/Box_orng.gif">Live Help','/mysupport/mychat.asp')
-		oCMenu.makeMenu('sub305','sub30','<img src="/images/new_wb/Box_orng.gif">Online Antivirus Scanner','/scan/')		
+		oCMenu.makeMenu('sub305','sub30','<img src="/images/new_wb/Box_orng.gif">Laplink Security Center','/securitycenter/')		
 		
 	oCMenu.makeMenu('sub31','top3','<img src="/images/new_wb/Box_orng.gif">Enterprise','/support/enterprise.asp')
 		oCMenu.makeMenu('sub310','sub31','<img src="/images/new_wb/Box_orng.gif">Support Home','/support/enterprise.asp')
@@ -284,8 +286,9 @@ oCMenu.makeMenu('top5','','&nbsp;Company','/aboutus/','')
 
 //Leave this line - it constructs the menu
 oCMenu.construct()		
-</script><div class="clLevel0border" id="oCMenu_top0_0" style="z-index: 2; clip: rect(0px, 126px, 20px, 0px); width: 126px; height: 20px; left: 20px; top: 70px; visibility: visible;"><div class="clLevel0" id="oCMenu_top0" style="z-index: 4; clip: rect(0px, 124px, 18px, 0px); width: 124px; height: 18px; left: 1px; top: 1px;">&nbsp;Home</div></div><div class="clLevel0border" id="oCMenu_top1_0" style="z-index: 3; clip: rect(0px, 126px, 20px, 0px); width: 126px; height: 20px; left: 145px; top: 70px; visibility: visible;"><div class="clLevel0" id="oCMenu_top1" style="z-index: 5; clip: rect(0px, 124px, 18px, 0px); width: 124px; height: 18px; left: 1px; top: 1px;">&nbsp;Products</div></div><div class="clLevel0border" id="oCMenu_top2_0" style="z-index: 4; clip: rect(0px, 126px, 20px, 0px); width: 126px; height: 20px; left: 270px; top: 70px; visibility: visible;"><div class="clLevel0" id="oCMenu_top2" style="z-index: 6; clip: rect(0px, 124px, 18px, 0px); width: 124px; height: 18px; left: 1px; top: 1px;">&nbsp;Solutions</div></div><div class="clLevel0border" id="oCMenu_top3_0" style="z-index: 5; clip: rect(0px, 126px, 20px, 0px); width: 126px; height: 20px; left: 395px; top: 70px; visibility: visible;"><div class="clLevel0" id="oCMenu_top3" style="z-index: 7; clip: rect(0px, 124px, 18px, 0px); width: 124px; height: 18px; left: 1px; top: 1px;">&nbsp;Support</div></div><div class="clLevel0border" id="oCMenu_top4_0" style="z-index: 6; clip: rect(0px, 126px, 20px, 0px); width: 126px; height: 20px; left: 520px; top: 70px; visibility: visible;"><div class="clLevel0" id="oCMenu_top4" style="z-index: 8; clip: rect(0px, 124px, 18px, 0px); width: 124px; height: 18px; left: 1px; top: 1px;">&nbsp;Online Stores</div></div><div class="clLevel0border" id="oCMenu_top5_0" style="z-index: 7; clip: rect(0px, 126px, 20px, 0px); width: 126px; height: 20px; left: 645px; top: 70px; visibility: visible;"><div class="clLevel0" id="oCMenu_top5" style="z-index: 9; clip: rect(0px, 124px, 18px, 0px); width: 124px; height: 18px; left: 1px; top: 1px;">&nbsp;Company</div></div><div class="clLevel1border" id="oCMenu_1_0" style="z-index: 8; overflow: hidden;"><div class="clLevel1" id="oCMenu_sub10" style="z-index: 10; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a1_0" style="z-index: 38;"><img height="7" width="5" src="/images/new_wb/arrowOright.gif" alt=""></div><div class="clLevel1" id="oCMenu_sub11" style="z-index: 11; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub12" style="z-index: 12; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub13" style="z-index: 13; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub14" style="z-index: 14; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub15" style="z-index: 15; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub16" style="z-index: 16; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub17" style="z-index: 17; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub19" style="z-index: 18; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub20" style="z-index: 19; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a1_1" style="z-index: 40;"><img height="7" width="5" src="/images/new_wb/arrowOright.gif" alt=""></div><div class="clCMAbs" id="oCMenu_a1_2" style="z-index: 42;"><img height="7" width="5" src="/images/new_wb/arrowOright.gif" alt=""></div></div><div class="clLevel2border" id="oCMenu_2_0" style="z-index: 18; overflow: hidden;"><div class="clLevel2" id="oCMenu_sub100" style="z-index: 20; left: 1px; top: 1px;"></div><div class="clLevel2" id="oCMenu_sub101" style="z-index: 21; left: 1px; top: 1px;"></div><div class="clLevel2" id="oCMenu_sub223" style="z-index: 22; left: 1px; top: 1px;"></div><div class="clLevel2" id="oCMenu_sub224" style="z-index: 23; left: 1px; top: 1px;"></div><div class="clLevel2" id="oCMenu_sub305" style="z-index: 24; left: 1px; top: 1px;"></div></div>
+</script><div class="clLevel0border" id="oCMenu_top0_0" style="z-index: 2; clip: rect(0px, 126px, 20px, 0px); width: 126px; height: 20px; left: 20px; top: 70px; visibility: visible;"><div class="clLevel0" id="oCMenu_top0" style="z-index: 4; clip: rect(0px, 124px, 18px, 0px); width: 124px; height: 18px; left: 1px; top: 1px;">&nbsp;Home</div></div><div class="clLevel0border" id="oCMenu_top1_0" style="z-index: 3; clip: rect(0px, 126px, 20px, 0px); width: 126px; height: 20px; left: 145px; top: 70px; visibility: visible;"><div class="clLevel0" id="oCMenu_top1" style="z-index: 5; clip: rect(0px, 124px, 18px, 0px); width: 124px; height: 18px; left: 1px; top: 1px;">&nbsp;Products</div></div><div class="clLevel0border" id="oCMenu_top2_0" style="z-index: 4; clip: rect(0px, 126px, 20px, 0px); width: 126px; height: 20px; left: 270px; top: 70px; visibility: visible;"><div class="clLevel0" id="oCMenu_top2" style="z-index: 6; clip: rect(0px, 124px, 18px, 0px); width: 124px; height: 18px; left: 1px; top: 1px;">&nbsp;Solutions</div></div><div class="clLevel0border" id="oCMenu_top3_0" style="z-index: 5; clip: rect(0px, 126px, 20px, 0px); width: 126px; height: 20px; left: 395px; top: 70px; visibility: visible;"><div class="clLevel0" id="oCMenu_top3" style="z-index: 7; clip: rect(0px, 124px, 18px, 0px); width: 124px; height: 18px; left: 1px; top: 1px;">&nbsp;Support</div></div><div class="clLevel0border" id="oCMenu_top4_0" style="z-index: 6; clip: rect(0px, 126px, 20px, 0px); width: 126px; height: 20px; left: 520px; top: 70px; visibility: visible;"><div class="clLevel0" id="oCMenu_top4" style="z-index: 8; clip: rect(0px, 124px, 18px, 0px); width: 124px; height: 18px; left: 1px; top: 1px;">&nbsp;Online Stores</div></div><div class="clLevel0border" id="oCMenu_top5_0" style="z-index: 7; clip: rect(0px, 126px, 20px, 0px); width: 126px; height: 20px; left: 645px; top: 70px; visibility: visible;"><div class="clLevel0" id="oCMenu_top5" style="z-index: 9; clip: rect(0px, 124px, 18px, 0px); width: 124px; height: 18px; left: 1px; top: 1px;">&nbsp;Company</div></div><div class="clLevel1border" id="oCMenu_1_0" style="z-index: 8; overflow: hidden;"><div class="clLevel1" id="oCMenu_sub10" style="z-index: 10; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a1_0" style="z-index: 38;"><img height="7" width="5" src="/images/new_wb/arrowOright.gif" alt=""></div><div class="clLevel1" id="oCMenu_sub11" style="z-index: 11; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub12" style="z-index: 12; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub13" style="z-index: 13; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub14" style="z-index: 14; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub15" style="z-index: 15; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub21" style="z-index: 16; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub16" style="z-index: 17; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub17" style="z-index: 18; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub18" style="z-index: 19; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub19" style="z-index: 20; left: 1px; top: 1px;"></div><div class="clLevel1" id="oCMenu_sub20" style="z-index: 21; left: 1px; top: 1px;"></div><div class="clCMAbs" id="oCMenu_a1_1" style="z-index: 40;"><img height="7" width="5" src="/images/new_wb/arrowOright.gif" alt=""></div><div class="clCMAbs" id="oCMenu_a1_2" style="z-index: 42;"><img height="7" width="5" src="/images/new_wb/arrowOright.gif" alt=""></div></div><div class="clLevel2border" id="oCMenu_2_0" style="z-index: 20; overflow: hidden;"><div class="clLevel2" id="oCMenu_sub200" style="z-index: 22; left: 1px; top: 1px;"></div><div class="clLevel2" id="oCMenu_sub202" style="z-index: 23; left: 1px; top: 1px;"></div><div class="clLevel2" id="oCMenu_sub223" style="z-index: 24; left: 1px; top: 1px;"></div><div class="clLevel2" id="oCMenu_sub224" style="z-index: 25; left: 1px; top: 1px;"></div><div class="clLevel2" id="oCMenu_sub305" style="z-index: 26; left: 1px; top: 1px;"></div></div>
 <!-- END OF TOPNAV -->
+
 
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 	<tbody><tr>
@@ -348,8 +351,8 @@ oCMenu.construct()
 						</p></li><li><p>Click the opt-out link that you’ll find on each promotional e-mail.
 						</p></li><li><p>Mail us a short note to tell us you no longer wish to receive the promotional materials. For prompt handling of your request, remember to include your name, your full address and your e-mail address. Send your request to:<br>
 					</p><p>Laplink Software Inc.<br>
-					10210 NE Points Drive, Suite 400<br>
-					Kirkland, WA 98033<br>
+					14335 NE 24th Street, Suite 201<br>
+					Bellevue, WA 98007<br>
 					USA<br>
 					Phone: 425.952.6000<br>
 					Fax: 425.952.6002<br>	</p></li></ul>					
@@ -380,8 +383,8 @@ oCMenu.construct()
 					<br><p><b>How to get in touch with us</b></p>
 					<p>Please feel free to write, call or send us an e-mail message with any questions or comments you have about our privacy policies!</p>
 					<p>Laplink Software Inc.<br>
-					10210 NE Points Drive, Suite 400<br>
-					Kirkland, WA 98033<br>
+					14335 NE 24th Street, Suite 201<br>
+					Bellevue, WA 98007<br>
 					USA<br>
 					Phone: 425.952.6000<br>
 					Fax: 425.952.6002<br>
@@ -412,7 +415,7 @@ oCMenu.construct()
   </tr>
 	<tr>
 		<td>
-			<p class="smgray">Laplink is the expert in file transfer, remote access &amp; synchronization technology. For 22 years Laplink has been committed to providing instant<br>connectivity innovations. Copyright © 2005 Laplink Software, Inc. All rights reserved. <a href="/siteinfo/default.asp">Privacy statement</a>&nbsp;&nbsp;<a href="/siteinfo/legal.asp">Legal Statement</a>&nbsp;&nbsp;<a href="/siteinfo/salespolicies.asp">Sales &amp; Refunds Policy
+			<p class="smgray">Laplink is the expert in file transfer, remote access &amp; synchronization technology. For 23 years Laplink has been committed to providing instant<br>connectivity innovations. Copyright © 2006 Laplink Software, Inc. All rights reserved. <a href="/siteinfo/default.asp">Privacy statement</a>&nbsp;&nbsp;<a href="/siteinfo/legal.asp">Legal Statement</a>&nbsp;&nbsp;<a href="/siteinfo/salespolicies.asp">Sales &amp; Refunds Policy
       </a></p><a href="/siteinfo/salespolicies.asp">
       </a></td>
    </tr>
