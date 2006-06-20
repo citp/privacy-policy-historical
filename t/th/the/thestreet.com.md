@@ -1,13 +1,36 @@
-> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230180050id_/http%3A//www.thestreet.com/tsc/commerce/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestreet.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621001443id_/http%3A//www.thestreet.com/tsc/commerce/privacy/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Terms of Use
 
   
-|   
-**TheStreet.com, Inc. Privacy Policy**  
+
+
+Market Overview
+
+  
+
+
+[  
+](http://ad.doubleclick.net/clk;33483805;4639705;p?http://ad.doubleclick.net/click;h=v2|36B7|0|0|%2a|u;33317565;0-0;0;13055216;31-1|1;15662068|15679963|1;;%3fhttps://us.etrade.com/e/t/jumppage/viewjumppage?PageName=consolira50&SC=NPNC2H7&WT.mc_id=NPNC2H7)
+
+  
+  
+  
+[](http://www.thestreet.com/_tscleftnav/stocks/topten/index.html)
+
+[](http://find.thestreet.com/cgi-bin/texis/tscsection/?k=Celebrity%20Investor&sec=Celebrity%20Investor&ref=tscleftnav)
+
+[](http://www.thestreet.com/_tscleftnav/tsc/landingpages/goodlife/index.html)
+
+[RSS FEED](http://www.thestreet.com/_tscleftnav/tsc/rss)
+
+  
+|  |  **TheStreet.com, Inc. Privacy Policy**  
 **Last revised: August 25, 2005**
 
-TheStreet.com, Inc. shares your concern about the protection of your personal information online. This is our policy regarding the privacy of information we collect on our web sites. We have recently revised our policy. Please take some time to review the new version below. This Privacy Policy includes examples of the types of personal information we collect and the kinds of companies with whom we share such information. These examples are illustrative and should not be considered a complete inventory of our information collection, use and sharing practices. We will comply with applicable state laws that may restrict the types of information we may disclose about you or require us to provide you with additional notices.  | **Information Gathered and Tracked by TheStreet.com, Inc.**  
+TheStreet.com, Inc. shares your concern about the protection of your personal information online. This is our policy regarding the privacy of information we collect on our web sites. We have recently revised our policy. Please take some time to review the new version below. This Privacy Policy includes examples of the types of personal information we collect and the kinds of companies with whom we share such information. These examples are illustrative and should not be considered a complete inventory of our information collection, use and sharing practices. We will comply with applicable state laws that may restrict the types of information we may disclose about you or require us to provide you with additional notices. 
+
+| **Information Gathered and Tracked by TheStreet.com, Inc.**  
 ---  
   
 TheStreet.com, Inc. gathers two types of data about users: (a) personal information, which individual users provide (i) when registering as a member of _TheStreet.com_ , our free flagship site, (ii) when registering as a subscriber to one of our premium subscription services, and (iii) voluntarily at certain other points, such as contests or surveys; and (b) tracking information, which is automatically collected about all visitors to our sites. 
@@ -72,8 +95,6 @@ Some advertisements on our site are served by interactive advertising agency Ave
 The cookies and action tags utilized by Avenue A|Razorfish are served by Atlas, which is also an [aQuantive, Inc](http://www.aquantive.com/). company. If you would like to opt-out, which will prevent Avenue A|Razorfish from collecting any information from your use of the Internet, click [here](http://www.atlassolutions.com/privacy/optout/), and Atlas will change your cookie to one that does not contain a unique user ID number.
 
 
-
-
 **Use of the Information**  
 ---  
   
@@ -101,8 +122,6 @@ If you're a subscriber, we use your email address, postal address or fax number,
   * **Special Offers and Advertisements**  
 We may from time to time send you special offers and advertisements for products or services offered by third parties. We will not disclose any of your personal information to such third parties when we do this. If you do not wish to receive third party offers and advertisements, please change your settings on our Communication Preferences [page](https://secure2.thestreet.com/cap/selfserve/EmailPrefs.jsp), or contact our customer service department by email at [members@thestreet.com](mailto:members@thestreet.com), or by telephone at (866) 321-TSCM [8726], between the hours of 8:00 a.m. and 6:00 p.m. EST. 
 
-
-
 **Correcting and Updating the Information**  
 ---  
   
@@ -111,14 +130,10 @@ TheStreet.com offers to its members the ability to correct or update online the 
 **Security**  
 ---  
   
-TheStreet.com, Inc. limits access to personal information about you to those employees whom we determine need access to that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your personal information. However, no security system is impenetrable. We cannot guarantee the security of our servers, nor can we guarantee that information that users supply will not be intercepted while being transmitted to us over the Internet. 
-
-**Former Customers**  
+TheStreet.com, Inc. limits access to personal information about you to those employees whom we determine need access to that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your personal information. However, no security system is impenetrable. We cannot guarantee the security of our servers, nor can we guarantee that information that users supply will not be intercepted while being transmitted to us over the Internet.  **Former Customers**  
 ---  
   
-TheStreet.com, Inc. discloses personal information about former customers only in accordance with this Privacy Policy. 
-
-**Your Independent Relationships with Other Companies**  
+TheStreet.com, Inc. discloses personal information about former customers only in accordance with this Privacy Policy.  **Your Independent Relationships with Other Companies**  
 ---  
   
 Please note that this Privacy Policy will not apply to your independent relationships with other companies that from time to time may offer you products and services on TheStreet.com's sites. Those companies' privacy policies will govern how they collect, use and disclose personal information that you provide to them. 
