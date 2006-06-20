@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219121232id_/http%3A//spectorsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620170007id_/http%3A//spectorsoft.com/privacy.html) for the most accurate reproduction.*
 
 # SpectorSoft.com - Online Privacy Policy
 
-**Last Updated: April 1, 2004**
+**Last Updated: February 16, 2006**
 
-This privacy statement discloses the privacy practices for SpectorSoft Corporation websites including: www.spectorsoft.com, www.spectorcne.com, www.spectorpro.com, www.spector.com, www.eblaster.com, www.spectersoft.com, www.spectorpro.com, and www.spectorsoft.de.
+This privacy statement discloses the privacy practices for SpectorSoft Corporation websites including: www.spectorsoft.com, www.spectorcne.com, www.spector360.com, www.spectorpro.com, www.spector.com, www.eblaster.com, www.spectersoft.com, spectorsoft.co.uk, and www.spectorsoft.de.
 
 Because SpectorSoft wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. This web site has agreed to notify you of:
 
@@ -17,7 +17,7 @@ Because SpectorSoft wants to demonstrate its commitment to your privacy, it has 
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should first contact SpectorSoft Customer Service by E-mail at [info@spectorsoft.com](mailto:info@spectorsoft.com).
+If you feel that this company is not abiding by its posted privacy policy, you should first contact SpectorSoft Customer Service by E-mail at [info@spectorsoft.com](https://web.archive.org/products/productinquiry.asp).
 
 **Information Collection and Use**
 
@@ -57,7 +57,7 @@ If a user elects to use our referral service for informing a friend about our si
 
 Information collected by SpectorSoft is stored in secure operating environments that are not available to the public. All of our employees are dedicated to maintaining and upholding your privacy and security and are aware of our privacy and security policies. Unfortunately, no data transmission over the Internet can be guaranteed 100% secure. As a result, while we strive to protect your personal information, SpectorSoft cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Once we receive your transmission, we make our best efforts to ensure its security on our systems.
 
-The SpectorSoft web site purchase forms ask users to enter sensitive personal information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our purchase order form, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’.
+The SpectorSoft web site purchase forms ask users to enter sensitive personal information (such as credit card number and/or phone number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our purchase order form, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’.
 
 **Special Offers**
 
@@ -65,7 +65,7 @@ SpectorSoft customers will occasionally receive information on SpectorSoft produ
 
 **Correction/Updating Personal Information:**
 
-If a customer's personal information changes (such as your email), we will endeavor to provide a way to correct, update or remove that user’s personal information provided to us. This can be done emailing our [Customer Support](mailto:support@spectorsoft.com).
+If a customer's personal information changes (such as your email), we will endeavor to provide a way to correct, update or remove that user’s personal information provided to us. This can be done emailing our [Customer Support](https://web.archive.org/products/productinquiry.asp).
 
 **Opt-out and Discontinue**
 
