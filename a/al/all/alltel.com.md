@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltel.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214083345id_/http%3A//alltel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltel.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621010235id_/http%3A//alltel.com/privacy.html) for the most accurate reproduction.*
 
 # Alltel.com Privacy Statement
 
@@ -6,7 +6,7 @@
 
 [Download a PDF of our Privacy Statement.](https://web.archive.org/docs/privacy.pdf)
 
-[](http://www.adobe.com/products/acrobat/readstep2.html)
+[](http://ardownload.adobe.com/pub/adobe/reader/win/7x/7.0.8/enu/AdbeRdr708_en_US.exe)
 
 We limit the information collected about you to what is needed for conducting business and offering products and services that might be of interest to you. You may choose to provide individually identifiable information (such as name, address, telephone number or e-mail address) to Alltel in a number of ways through our Web site — by ordering a service from us, sending us e-mail, registering to receive news or public information or applying for a job.
 
@@ -21,7 +21,7 @@ We limit the information collected about you to what is needed for conducting bu
 
   * Use security techniques designed to protect customers' information from unauthorized access. See Information Security below. 
   * Collect, maintain and use customer information as necessary to provide the most helpful and targeted products and services to meet customers' needs (e.g. customer care or new products or services).
-  * Honor customers' requests to remove their names from our telephone or mail solicitation lists using reasonable efforts to delete the information from existing files. Just [contact us](https://web.archive.org/web/20051214083345id_/http%3A//alltel.com/contact_us.html).
+  * Honor customers' requests to remove their names from our telephone or mail solicitation lists using reasonable efforts to delete the information from existing files. Just [contact us](https://web.archive.org/web/20060621010235id_/http%3A//alltel.com/contact_us.html).
   * When undertaking projects with other companies, provide access to customer information with an understanding that our business partners will also treat the information with respect for privacy concerns.
 
 
@@ -35,10 +35,10 @@ A cookie is a small, encrypted data string our server writes to your hard drive 
 We have security measures in place to protect against the loss, misuse and alteration of information under our control. When you place an order, the information you submit is encrypted using the Secure Sockets Layer (SSL) protocol.
 
 **Value Added**  
-Because we appreciate the trust you have placed in us, we continually look for ways to enhance that business relationship. So from time to time, we may let you know about a product or service. Using the information you have provided to us, we strive to limit our offers to those we think you would appreciate receiving. We want every contact you have with us to be a positive experience. So if you would prefer not to receive these value-added services, offers and opportunities, just [contact us](https://web.archive.org/web/20051214083345id_/http%3A//alltel.com/contact_us.html).
+Because we appreciate the trust you have placed in us, we continually look for ways to enhance that business relationship. So from time to time, we may let you know about a product or service. Using the information you have provided to us, we strive to limit our offers to those we think you would appreciate receiving. We want every contact you have with us to be a positive experience. So if you would prefer not to receive these value-added services, offers and opportunities, just [contact us](https://web.archive.org/web/20060621010235id_/http%3A//alltel.com/contact_us.html).
 
 **Children**  
-Children should consult with their parents or guardian before furnishing any data to us. We believe that parents should supervise their children's on-line activities and may consider using one of a number of available parental control tools that provide a child-friendly, on-line environment and can prevent children from disclosing individually identifiable information without parental consent. If a child has provided individually identifiable information without the consent of a parent or guardian, that parent or guardian should just [contact us](https://web.archive.org/web/20051214083345id_/http%3A//alltel.com/contact_us.html) to request that the information be deleted from our records. Get more information about [parental controls](https://web.archive.org/personal/cs/parental_controls.html).
+Children should consult with their parents or guardian before furnishing any data to us. We believe that parents should supervise their children's on-line activities and may consider using one of a number of available parental control tools that provide a child-friendly, on-line environment and can prevent children from disclosing individually identifiable information without parental consent. If a child has provided individually identifiable information without the consent of a parent or guardian, that parent or guardian should just [contact us](https://web.archive.org/web/20060621010235id_/http%3A//alltel.com/contact_us.html) to request that the information be deleted from our records. Get more information about [parental controls](https://web.archive.org/personal/cs/parental_controls.html).
 
 **Links**  
 Alltel is not responsible for content or privacy policies of other sites. You should keep this in mind when accessing sites through links on Alltel's Web site.
