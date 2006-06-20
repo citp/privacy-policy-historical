@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceanconservancy.org privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211102226id_/http%3A//www.oceanconservancy.org/site/PageServer%3Fpagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanconservancy.org privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620022009id_/http%3A//www.oceanconservancy.org/site/PageServer%3Fpagename%3Dprivacy) for the most accurate reproduction.*
 
 # The Ocean Conservancy: Privacy Policy
 
