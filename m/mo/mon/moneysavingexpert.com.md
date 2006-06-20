@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230164656id_/http%3A//www.moneysavingexpert.com/cgi-bin/viewnews.cgi%3Fnewsid1101222301%2C49659%2C) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620021909id_/http%3A//www.moneysavingexpert.com/cgi-bin/viewnews.cgi%3Fnewsid1101222301%2C49659%2C) for the most accurate reproduction.*
 
-# MoneySavingExpert.com ad-free, free to use, Consumer Revenge!
+# MoneySavingExpert Privacy Policy | UK's only money saving expert
 
 **Money Saving Expert**
 
