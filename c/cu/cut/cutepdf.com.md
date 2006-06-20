@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutepdf.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217175713id_/http%3A//www.cutepdf.com/Info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutepdf.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620161039id_/http%3A//www.cutepdf.com/Info/privacy.asp) for the most accurate reproduction.*
 
 # CutePDF :: Company :: Privacy Policy
 
@@ -15,10 +15,10 @@ We use industry-standard efforts to safeguard the confidentiality of your transm
 **Use of Cookies**  
 Some of our pages use a feature of your browser called a "cookie." Cookies, by themselves, are not able to extract any personal information from you. This cookie automatically identifies your computer - but not you - to our servers when you visit our site. Unless you specifically tell us, Acro Software will never know who you are, even though we may assign your computer a cookie. Also, Acro Software's web sites can only read cookies created by Acro Software's web sites. Cookies allow us to personalize our site for you and to provide you with information that fits your needs and desires. For instance, once you register your product online, a cookie is written to your computer so that you will not need to type information in the future to obtain support.
 
-**As part of our commitment to personal privacy, none of our products contain any form of Adware or Spyware.**
+**As part of our commitment to personal privacy, none of our products contain any form of Spyware or Pop up Ads.**
 
 **Questions or Comments**  
-Acro Software Inc. knows that your privacy is very important to you. We welcome questions and comments regarding this policy, so feel free to [contact us](https://web.archive.org/web/20051217175713id_/http%3A//www.cutepdf.com/Info/contact.asp). Because technologies on the Internet change so quickly, Acro Software reserves the right to modify its Privacy Statement from time to time. More legal information can be found in Acro Software's [Legal notices Statement](https://web.archive.org/web/20051217175713id_/http%3A//www.cutepdf.com/Info/legal.asp).
+Acro Software Inc. knows that your privacy is very important to you. We welcome questions and comments regarding this policy, so feel free to [contact us](https://web.archive.org/web/20060620161039id_/http%3A//www.cutepdf.com/Info/contact.asp). Because technologies on the Internet change so quickly, Acro Software reserves the right to modify its Privacy Statement from time to time. More legal information can be found in Acro Software's [Legal notices Statement](https://web.archive.org/web/20060620161039id_/http%3A//www.cutepdf.com/Info/legal.asp).
 
   
    
