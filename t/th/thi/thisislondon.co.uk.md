@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2005-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051114034006id_/http%3A//www.thisislondon.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisislondon.co.uk privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620192934id_/http%3A//www.thisislondon.co.uk/privacy) for the most accurate reproduction.*
 
 # Our privacy policy | This is London
 
@@ -84,4 +84,4 @@ We may charge a small administration fee in relation to fulfilling a request for
 |   
 ---  
 |  Top of page |   
-[©2005 Associated New Media](http://www.anm.co.uk/) | [Terms](https://web.archive.org/homepagearticles/terms) | [Privacy policy](https://web.archive.org/homepagearticles/privacy)
+[©2006 Associated New Media](http://www.anm.co.uk/) | [Terms](https://web.archive.org/homepagearticles/terms) | [Privacy policy](https://web.archive.org/homepagearticles/privacy)
