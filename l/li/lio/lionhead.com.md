@@ -1,23 +1,7 @@
-> *The following text is extracted and transformed from the lionhead.com privacy policy that was archived on 2005-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051126173930id_/http%3A//www.lionhead.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lionhead.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620203016id_/http%3A//www.lionhead.com/privacy.html) for the most accurate reproduction.*
 
 # Lionhead Studios Privacy Statement
 
-  |  |  | 
-
-[](http://register.lionhead.com/)
-
-  
-
-
-  * [The Movies](https://web.archive.org/themovies/index.html)
-  * [Black & White 2](https://web.archive.org/bw2/index.html)
-  * [Fable : The Lost Chapters](https://web.archive.org/fabletlc/index.html)
-  * [Lionhead.com](https://web.archive.org/index.html)
-
-  
----  
-|   
-  
 LIONHEAD STUDIOS ONLINE PRIVACY STATEMENT
 
   
@@ -75,9 +59,9 @@ LSL does not share your personal information with outside third parties, save in
   
 **Can I choose how my personal information is used?** **How do I access and/or amend my personal information?**
 
-If for any reason you wish to view, amend or delete personal information collected about you simply visit the following URL: <http://www.lionhead.com/board/member.php?action=editprofile>.
+If for any reason you wish to view, amend or delete personal information collected about you simply visit the following URL: [http://register.lionhead.com](http://register.lionhead.com/).
 
-Alternatively, you may contact [webmaster@lionhead.com ](mailto:webmaster@lionhead.com) and we will be happy to review, update or remove information as appropriate.   
+Alternatively, you may contact [registration@lionhead.com](mailto:registration@lionhead.com) and we will be happy to review, update or remove information as appropriate.   
   
 **Does LSL collect personal information from children under 13?**
 
@@ -101,15 +85,4 @@ The LSL Web Sites are operated by Lionhead Studios Ltd from the United Kingdom .
 
 This Statement has been prepared in the English language. If translated into another language, the English language text shall in any event prevail. 
 
-For other terms relating to the use of any LSL Web Site, see LSL's Terms of Use.   
-  
-Last Updated: 01/31/2020 14:59:28    
-  
-| 
-
-© 2000-2005 Lionhead Studios Ltd.  
-Lionhead, Black & White, Fable, Fable:The Lost Chapters, The Movies and their respective  
-logos are registered or unregistered trademarks of Lionhead Studios Ltd. All rights reserved.   
-[Terms of Use](https://web.archive.org/terms.html) / [Privacy Policy](https://web.archive.org/privacy.html)  
-  
-|  
+For other terms relating to the use of any LSL Web Site, see LSL's Terms of Use. 
