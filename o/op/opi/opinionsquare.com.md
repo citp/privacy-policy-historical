@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opinionsquare.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215102334id_/http%3A//www.opinionsquare.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionsquare.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620103632id_/http%3A//www.opinionsquare.com/Privacy.aspx) for the most accurate reproduction.*
 
 # OpinionSquare – Take Surveys and Earn Cash and Prizes
 
