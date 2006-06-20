@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the clickability.com privacy policy that was archived on 2005-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051229230301id_/http%3A//www.clickability.com/misc/317.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clickability.com privacy policy that was archived on 2006-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060620112724id_/http%3A//www.clickability.com/misc/317.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>   
-    <title>Clickability -- web content management software-as-a-service</title>
-    <link rel="stylesheet" href="http://www.clickability.com/includes/styles5.css " type="text/css">
-   <link rel="SHORTCUT ICON" href="http://media.clickability.com/images/dot.ico">
-    <script>function checkSearch() {
+<title>Clickability -- web content management software-as-a-service</title>
+<link rel="stylesheet" href="http://www.clickability.com/includes/styles5.css " type="text/css">
+<link rel="SHORTCUT ICON" href="http://media.clickability.com/images/dot.ico">
+<script>function checkSearch() {
     if (!isValidSearch(document.SearchBox.keywords.value)) {
 		displayError("Please enter a valid search term.", document.SearchBox.keywords);
 		return false;
@@ -19,7 +19,9 @@ function checkEmail () {
 		displayError("Please enter a valid email address.", document.SignUp.address);
 		return false;
 	}else{
-	makePopup('','signupPop','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=250,height=150')
+	makePopup('','signupPop','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=250,height=150');
+if (!makePopup.opener)
+    makePopup.opener = self;
 }
 }
 
@@ -89,44 +91,49 @@ if(!is_aol6 && !is_aol3 && !is_aol4 && !is_aol5 && !is_compie) { popupWin.opener
 popupWin.focus();
 }
 </script>
-    <script>var clickTitle="Clickability -- Privacy Policy"; </script>
-
+	<script>var clickTitle="Clickability -- Privacy Policy"; </script>
 <script language="JavaScript"><!-- 
 image1 = new Image();
 image1.src = "http://media.clickability.com/designimages/sub_nav_arrow.gif";
 // --></script>
-
-
 </head>
-
 <body>
 
 
 <center>
+<table cellpadding="0" cellspacing="0" border="0" width="673">
+<tbody><tr><td colspan="2"><img src="http://media.clickability.com/designimages/spacer.gif" width="1" height="10" alt=""></td></tr>
+<tr>
+<td><a href="/"><img src="http://media.clickability.com/designimages/clickability-logo.gif" width="186" height="47" alt=" " title=" " border="0"></a></td>
+<td align="right"><br><a href="https://cms.clickability.com">Client Login</a> | <a href="/contact">Contact Us</a></td>
+</tr>
+<form name="subscribeForm" method="post" action="/s" onsubmit="if(!checkForm()){return false;}"></form>
+<input type="hidden" name="action" value="listSubscribe">
+<input type="hidden" value="927" name="subscribe">
+<input type="hidden" name="rurl" value="/press/newsletters/?confirmsignup=true">	
+<script language="Javascript" type="text/javascript">
+function checkForm(){
+	if(document.subscribeForm["email"].value == ""){
+	alert('Please enter your valid E-Mail Address');
+	return false;
+	}		
+	return true;
+}
+</script> 
+<tr valign="bottom">
+<td>
+&nbsp;<br>Simplify Your Life.
+</td><td align="right">
+<b>Sign up for our weekly<br>"Everybody's a Publisher":</b><br>
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td valign="center" nowrap=""><input name="email" style="border-width:1px" type="text" size="15" class="searchtext" value="email address" maxlength="100" onfocus="if(this.value=='email address') {this.value='';}" onblur="if(this.value=='') {this.value='email address';}"></td><td style="padding-top:2px;padding-left:6px;" nowrap=""><input type="image" src="http://media.clickability.com/designimages/btn_newsletter_signup2.gif"></td><td style="padding-top:3px;padding-left:2px;" nowrap="">&nbsp;or&nbsp;</td><td style="padding-top:2px;padding-left:2px;" nowrap=""><a href="http://feeds.feedburner.com/EverybodysAPublisher" border="0"><img src="http://media.clickability.com/designimages/rssicon.gif" width="38" height="18" alt="" title="" border="0"></a></td></tr>
+	</tbody></table></td>
+</tr>
 
-  <table cellpadding="0" cellspacing="0" border="0">
-     <tbody><tr><td colspan="2"><img src="http://media.clickability.com/designimages/spacer.gif" width="1" height="10" alt=""></td></tr>
-     <tr>
-        <td width="450"><a href="/"><img src="http://media.clickability.com/designimages/clickability-logo.gif" width="186" height="47" alt="" title="" border="0"></a></td>
-        <td align="right"><br><a href="https://cms.clickability.com">Client Login</a> | <a href="/contact">Contact Us</a></td>
-     </tr>
-     <tr>
-        <td>&nbsp;</td>
-        <td><img src="http://media.clickability.com/designimages/label_signup_newsletter.gif" width="155" height="14" alt="" title="" border="0"></td>
-     </tr>
-     <tr>
-        <td>
-        
-        Simplify Your Life.
-        </td>
-        <form name="SignUp" method="POST" action="/press/eap/sub?c=n" onsubmit="return checkEmail();"></form>
-        <td><input name="address" type="Text" value="Enter your email address" onfocus="if(this.value=='Enter your email address')this.value='';" onblur="if(this.value=='')this.value='Enter your email address';" class="signUp">&nbsp;<input type="image" src="http://media.clickability.com/designimages/btn_newsletter_signup.gif" align="middle"></td>
-        
-     </tr>
-     <tr><td colspan="2"><img src="http://media.clickability.com/designimages/spacer.gif" width="1" height="10" alt=""></td></tr>
-  </tbody></table>
-  
-  <style type="text/css">
+<tr><td colspan="2"><img src="http://media.clickability.com/designimages/spacer.gif" width="1" height="10" alt=""></td></tr>
+</tbody></table>
+
+<style type="text/css">
 	.navTable {width:673px;height:23px;background-color:#676773;border-top:solid 3px #000000;text-align:left;align:left;}
 	.subNav {width:130px;padding-left:4px;font-size:11px;text-align:left;align:left;line-height:23px;color:#ffffff;}	
 </style>
@@ -242,7 +249,7 @@ if (navigator.appVersion.indexOf("MSIE") != -1) {
 	DQM_subdesc2_0 = subnavStart+"Overview"+subnavEnd
 	DQM_subdesc2_1 = subnavStart+"In&#160;the&#160;News"+subnavEnd
 	DQM_subdesc2_2 = subnavStart+"Press&#160;Releases"+subnavEnd
-	DQM_subdesc2_3 = subnavStart+"Newsletters"+subnavEnd
+	DQM_subdesc2_3 = subnavStart+"Updates &amp; Ideas"+subnavEnd
 	DQM_subdesc2_4 = subnavLastStart+"Events"+subnavEnd
 	DQM_icon_index2_0 = 0
 	DQM_icon_index2_1 = 0
@@ -261,15 +268,18 @@ if (navigator.appVersion.indexOf("MSIE") != -1) {
 	DQM_subdesc3_0 = subnavStart+"About"+subnavEnd
 	DQM_subdesc3_1 = subnavStart+"Management"+subnavEnd
 	DQM_subdesc3_2 = subnavStart+"Board"+subnavEnd
-	DQM_subdesc3_3 = subnavLastStart+"Advisors"+subnavEnd
+	DQM_subdesc3_3 = subnavStart+"Advisors"+subnavEnd
+	DQM_subdesc3_4 = subnavLastStart+"Jobs"+subnavEnd
 	DQM_icon_index3_0 = 0
 	DQM_icon_index3_1 = 0
 	DQM_icon_index3_2 = 0
 	DQM_icon_index3_3 = 0
+	DQM_icon_index3_4 = 0
 	DQM_url3_0 = "/about"
 	DQM_url3_1 = "/about/management"
 	DQM_url3_2 = "/about/board"
 	DQM_url3_3 = "/about/advisors"
+	DQM_url3_4 = "/about/jobs"
 	
 	DQM_url4 = "/contact"	
 	DQM_sub_xy4 = "-111,29"
@@ -285,7 +295,7 @@ if (navigator.appVersion.indexOf("MSIE") != -1) {
 	DQM_url4_0 = "/contact"
 	DQM_url4_1 = "http://help.clickability.com/"
 	DQM_url4_2 = "/contact/491.html"
-	DQM_url4_3 = "/misc/1856477.html"
+	DQM_url4_3 = "/contact/1856477.html"
 
 
 /*-------------------- end sub-items!------------------------------*/
@@ -304,19 +314,19 @@ if (navigator.appVersion.indexOf("MSIE") != -1) {
 </tbody></table>
 
 
-  <table cellpadding="0" cellspacing="0" border="0" width="673">
-     <tbody><tr><td colspan="3"><img src="http://media.clickability.com/designimages/spacer.gif" width="1" height="1" alt=""></td></tr>
-     <tr>
-        <td bgcolor="#6A6B70" width="223">
-           <!-- left content -->
-           
-      
+<table cellpadding="0" cellspacing="0" border="0" width="673">
+<tbody><tr><td colspan="3"><img src="http://media.clickability.com/designimages/spacer.gif" width="1" height="1" alt=""></td></tr>
+<tr>
+<td bgcolor="#6A6B70" width="223">
+<!-- left content -->
+
+    
          <table cellpadding="0" cellspacing="0" border="0" width="223" bgcolor="#6A6B70">
             <tbody><tr>
                <td>               
 
                    
-                  <img src="http://media.clickability.com/designimages/img_right_bar_top2.gif" width="223" height="10" alt="" title="" border="0"><br>
+                  <img src="http://media.clickability.com/designimages/img_right_bar_top2.gif" width="223" height="10" alt=" " title=" " border="0"><br>
                   <table cellpadding="0" cellspacing="0" border="0" width="100%">
                      <tbody><tr>
                         <td><img src="http://media.clickability.com/designimages/spacer.gif" width="5" height="1" alt=""></td>
@@ -324,13 +334,14 @@ if (navigator.appVersion.indexOf("MSIE") != -1) {
                            
                  
             
-                               <div class="LayoutStory">
-          <div class="TextQuoteTitle">On deploying scalable interfaces for CMS's:</div>          "Ask yourself: What happens to my job and the job of the editors and
+               	<div class="LayoutStory">
+					<div class="TextQuoteTitle">On deploying scalable interfaces for CMS's:</div>
+				"Ask yourself: What happens to my job and the job of the editors and
 authors when the amount of content in the system increases two-fold?
 How about five-fold, or ten-fold, or fifty-fold?"<br><br><a href="http://www.cmswatch.com/Features/TopicWatch/FeaturedTopic/?feature_id=92">Interface Scalability</a><br><br>Jeff Freund<br><i>Clickability CTO</i><br><i>Featured in CMSWatch</i><br><br>
-          <br><br>
-                            </div>
-        
+		<br><br>
+							</div>
+
        
      
 
@@ -338,7 +349,7 @@ How about five-fold, or ten-fold, or fifty-fold?"<br><br><a href="http://www.cms
                         <td><img src="http://media.clickability.com/designimages/spacer.gif" width="7" height="1" alt=""></td>
                      </tr>
                   </tbody></table>    
-                  <img src="http://media.clickability.com/designimages/clickability_extended2.gif" width="223" height="10" alt="" title="" border="0"><br>                   
+                  <img src="http://media.clickability.com/designimages/clickability_extended2.gif" width="223" height="10" alt=" " title=" " border="0"><br>                   
 
    
 
@@ -353,8 +364,8 @@ How about five-fold, or ten-fold, or fifty-fold?"<br><br><a href="http://www.cms
 
 
 
-  <a href="/contact/491.html"><img src="http://media.clickability.com/designimages/left_bar_contact_us.gif" width="223" height="84" alt="" title="" border="0"></a><br>
-  <a href="/misc/1856477.html"><img src="http://media.clickability.com/designimages/left_nav_get_info.gif" width="223" height="57" alt="" title="" border="0"></a><br>
+  <a href="/contact/491.html"><img src="http://media.clickability.com/designimages/left_bar_contact_us.gif" width="223" height="84" alt=" " title=" " border="0"></a><br>
+  <a href="/contact/1856477.html"><img src="http://media.clickability.com/designimages/left_nav_get_info.gif" width="223" height="57" alt=" " title=" " border="0"></a><br>
 
 
                </td>
@@ -367,11 +378,11 @@ How about five-fold, or ten-fold, or fifty-fold?"<br><br><a href="http://www.cms
   
  
    
-         
-        </td>
-        <td><img src="http://media.clickability.com/designimages/spacer.gif" width="1" height="1" alt=""></td>
-        <td style="border-right: #C0C0C0 solid 1px;">
-  
+
+</td>
+<td><img src="http://media.clickability.com/designimages/spacer.gif" width="1" height="1" alt=""></td>
+<td style="border-right: #C0C0C0 solid 1px;">
+	
 
 						
 <div id="breadcrumbs">
@@ -386,9 +397,9 @@ How about five-fold, or ten-fold, or fifty-fold?"<br><br><a href="http://www.cms
 
 </div>
 
-           <!-- right content -->
-           
-      <div class="LayoutSubContent">
+<!-- right content -->
+
+    <div class="LayoutSubContent">
 
 
             
@@ -446,11 +457,11 @@ How about five-fold, or ten-fold, or fifty-fold?"<br><br><a href="http://www.cms
      <tr>
         <td colspan="3">
            <div class="LayoutFooter">
-              <a href="/press/newsletters">Newsletter Signups</a> |
+              <a href="/press/newsletters">Updates &amp; Ideas</a> |
               <a href="/misc/317.html">Privacy Policy</a> |
               <a href="/misc/545562.html">Site Map</a> |
-              <a href="/contact">Contact Us: 415-575-5125</a><br>
-              © 1999-2005 Clickability, Inc.
+              <a href="/contact">Contact Us</a><br>
+              © 1999-2006 Clickability, Inc.
            </div>
         </td>
      </tr>
@@ -482,13 +493,13 @@ urchinTracker();
 
 <script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="javascript1.1" type="text/javascript"> 
 <!-- 
-var aa=new Image(); var bb=new Image();function _dg(_d) {var _cs=""+document.cookie; var _c=",;expires=Sunday, November 26, 2006 4:12:44 AM GMT; path=/"; if(_cs.indexOf("di")==-1){ document.cookie="di=,"+_d+_c; return true; } var _i=_cs.indexOf("di"); var _j=_cs.indexOf(';',_i); var _ds=_cs.substring(_i+3,_j); if(_ds.indexOf(","+_d+",")==-1){ document.cookie="di="+_ds+_d+_c; return true; }  else{  return false; } }var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=317";_q+="&7=41892";_q+="&8="+escape(document.location);_q+="&9="+escape(_r);_q+="&10="+escape(document.title);_q+="&11="+escape(navigator.userAgent);_q+="&12="+escape((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+escape(js);_q+="&30="+(_dg(41892)?"0":"1");if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+escape((screen.width+'x'+screen.height));_q+="&17="+escape(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+escape(Math.random());_q+="&19="+_ti;aa.src="http://stats.clickability.com/t?"+_q;
+var aa=new Image(); var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=317";_q+="&7=41892";_q+="&8="+escape(document.location);_q+="&9="+escape(_r);_q+="&10="+escape(document.title);_q+="&11="+escape(navigator.userAgent);_q+="&12="+escape((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+escape(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+escape((screen.width+'x'+screen.height));_q+="&17="+escape(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+escape(Math.random());_q+="&19="+_ti;aa.src="http://stats.clickability.com/t?"+_q;
 bb.src="http://s.clickability.com/s?"+_q;
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
-function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=317";_qc+="&7=41892";_qc+="&18="+escape(Math.random());_qc+="&100="+a.href;_qc+="&101="+escape(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}var hasonload=false;if(((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;}//-->
+function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=317";_qc+="&7=41892";_qc+="&18="+escape(Math.random());_qc+="&100="+a.href;_qc+="&101="+escape(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://stats.clickability.com/t.gif?19=990&14=0&6=317&7=41892&18=0.8694316970578746">
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=317&7=41892&18=0.0969864825798844">
+<img width="1" height="1" src="http://stats.clickability.com/t.gif?19=990&14=0&6=317&7=41892&18=0.9682903397968806">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=317&7=41892&18=0.9641736074860668">
 </noscript>
 
 
