@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the openhire.com privacy policy that was archived on 2005-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050315090603id_/http%3A//www2.openhire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openhire.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621162209id_/http%3A//www.openhire.com/company/privacy.htm) for the most accurate reproduction.*
 
-# Hr Software at OpenHire: Human Resources Management, Applicant Tracking, Human Resource Management Software, Applicant Tracking System
+# 
 
-  
-Openhire.com is a wholly owned subsidiary of SilkRoad technology, inc. All policies of SilkRoad technology apply. OpenHire Inc. respects the privacy of every individual who visits our websites. This Privacy Policy outlines the information OpenHire Inc. may collect and how we may use that information. 
+## Privacy Statement
+
+Openhire.com is a wholly owned subsidiary of SilkRoad technology, inc. All policies of SilkRoad technology apply. OpenHire Inc. respects the privacy of every individual who visits our websites. This Privacy Policy outlines the information OpenHire Inc. may collect and how we may use that information.
 
 ### OpenHire Inc.'s Data Privacy Policy
 
@@ -54,3 +55,9 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 ### Your Consent
 
 By using the Openhire Business Service to submit your resumes and associated data to an OpenHire Inc. customer, you consent to the collection and use of the information described in this Privacy Policy in addition to the information captured in your profile.
+
+### Safe Harbor Enforcement
+
+OpenHire Inc. is certified as compliant with the U.S. Department of Commerce under the "Safe Harbor Agreement" with the European Union. OpenHire Inc.agrees to investigate and resolve individual complaints or disputes, and have procedures in place for resolution.
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:[openhire_support@silkroadtech.com](mailto:openhire_support@silkroadtech.com).
