@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the acefitness.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213020id_/http%3A//www.acefitness.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acefitness.org privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621175234id_/http%3A//www.acefitness.org/privacy.aspx) for the most accurate reproduction.*
 
 # American Council on Exercise (ACE)
 
 |  |  |   
 ---  
-| [](https://web.archive.org/aboutace/index.cfm) |  | [](https://web.archive.org/getfit/index.cfm) |  | [](https://web.archive.org/getcertified/index.cfm) |  | [](https://web.archive.org/careercenter/index.cfm) |  | [](https://web.archive.org/educationcenter/index.cfm) |  | [](https://web.archive.org/acestore/) |  | [](https://web.archive.org/calendar/index.cfm)  
----|---|---|---|---|---|---|---|---|---|---|---|---  
    
   
 |   
