@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the usshortcodes.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223154259id_/http%3A//www.usshortcodes.com/content/csc_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usshortcodes.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621205813id_/http%3A//usshortcodes.com/csc_privacy.html) for the most accurate reproduction.*
 
-# CSCA - Privacy Policy
-
-### Common Short Code Administrator (CSCA) Privacy Agreement
-
-* * *
+# Privacy Policy
 
 CSCA, the administrator of Common Short Codes in the United States, is sensitive to the privacy concerns of those that we serve. Therefore, we have developed state-of-the art privacy programs to ensure the security and protection of the data that we collect through the provision of our mission-critical services.
 
-Because CSCA gathers certain types of information about the users who visit the CSCA website located at [http://www.usshortcodes.com](http://www.usshortcodes.com/) (hereinafter referred to as "USSHORTCODES.COM"), we believe you should fully understand the terms and conditions surrounding the use of the information we collect. The following discloses our information gathering and dissemination practices for CSCA. Please review the following statement to understand how the information you provide to CSCA will be treated.
+Because CSCA gathers certain types of information about the users who visit the CSCA website located at [http://www.usshortcodes.com ](http://www.usshortcodes.com/) (hereinafter referred to as "USSHORTCODES.COM"), we believe you should fully understand the terms and conditions surrounding the use of the information we collect. The following discloses our information gathering and dissemination practices for CSCA. Please review the following statement to understand how the information you provide to CSCA will be treated.
 
 1\. Information CSCA Collects
 
 You are free to visit USSHORTCODES.COM without identifying yourself. However, if you would like more information regarding our products and services, you may be required to first register with CSCA. When you register, we will request certain business information, including your name, address, and email address. This information will enable CSCA to contact you regarding the products and services provided, as well as provides us with aggregate demographic data that CSCA uses to improve the services offered to users.
 
-In addition to registering for an account, you may also choose to apply to lease a Common Short Code ("CSC"). To participate in this service, you will be asked a series of questions relating to you, your company and your intended uses of a CSC, should your application be successful. 
+In addition to registering for an account, you may also choose to apply to lease a Common Short Code ("CSC"). To participate in this service, you will be asked a series of questions relating to you, your company and your intended uses of a CSC, should your application be successful.
 
 The CSCA may, from time to time, request personal information for purposes such as the provision of customer service, network management, surveys, offers of related services, and other exchanges of information.
 
@@ -22,7 +18,7 @@ Finally, CSCA gathers information about all users collectively, such as what are
 
 2\. What CSCA Does With the Information It Collects.
 
-In submitting data in an application for a CSC, you are hereby granting the CSCA, the CSC Registry, participating wireless carriers, and their respective designees and agents a license to use, copy, distribute, publish, and modify all of the data contained in Your CSC application or submitted thereafter (the "Data") for the purposes of implementing this and other related services, processing your application, notifying You of changes to the Service for archival purposes, and creating and using aggregate information about the use of CSCs wherein identifying information about You has been removed. 
+In submitting data in an application for a CSC, you are hereby granting the CSCA, the CSC Registry, participating wireless carriers, and their respective designees and agents a license to use, copy, distribute, publish, and modify all of the data contained in Your CSC application or submitted thereafter (the "Data") for the purposes of implementing this and other related services, processing your application, notifying You of changes to the Service for archival purposes, and creating and using aggregate information about the use of CSCs wherein identifying information about You has been removed.
 
 In order for the CSCA and the CSC Registry to comply with the rules and policies for the administration of CSCs (which may be updated from time to time), You consent to the disclosure by Registry to the CSCA or to participating carriers, or those acting on behalf of the CSCA or participating carriers, through an interactive accessible registration database or otherwise, the Data. In addition, you acknowledge that the application for a CSC identifies those fields and Data that will be publicly disclosed or made available through the Registry's website or otherwise. You further consent to the disclosure of any Data or other information to any governmental agency upon receipt of lawful process or in compliance with any law, or to protect the rights of the CSCA.
 
@@ -38,15 +34,15 @@ If you've set your browser to warn you before accepting cookies, you will receiv
 
 4\. User Options-Opt-Out
 
-From time to time, CSCA may notify its subscribers of new products, announcements, upgrades and updates. Users may opt out of receiving these future promotional mailings by sending an email with their name to: [webmaster@usshortcodes.com](mailto:webmaster@usshortcodes.com), or by contacting us at our mailing address:
+From time to time, CSCA may notify its subscribers of new products, announcements, upgrades and updates. Users may opt out of receiving these future promotional mailings by sending an email with their name to: [webmaster@usshortcodes.com ](mailto:webmaster@usshortcodes.com), or by contacting us at our mailing address:
 
-CSCA  
-c/o  
-NeuStar, Inc.  
-46000 Center Oak Plaza  
-Building X  
-Sterling, VA 20166  
-Attn: Legal 
+CSCA   
+c/o   
+NeuStar, Inc.   
+46000 Center Oak Plaza   
+Building X   
+Sterling, VA 20166   
+Attn: Legal
 
 CSCA reserves the right to send users email related to business practices and systems operations, such as outage notifications and quota warnings, even if the user has opted out of promotional mailings.
 
@@ -62,16 +58,10 @@ If CSCA changes this privacy statement, we will post those changes at http://www
 
 If you have any questions about this privacy statement or this Web site, please contact:
 
-Legal  
-CSCA  
-c/o Neustar, Inc.  
-46000 Center Oak Plaza  
-Building X  
-Sterling, VA 20166  
-email: [webmaster@usshortcodes.com](mailto:webmaster@usshortcodes.com)
-
-© 2005 Cellular Telecommunications & Internet Association. All rights Reserved. [Registrant Sublicense Agreement](https://web.archive.org/web/20051223154259id_/http%3A//www.usshortcodes.com/content/content/csc_subLeaseAgree.html "Registrant Sublicense Agreement")  |  [Privacy Policy](https://web.archive.org/web/20051223154259id_/http%3A//www.usshortcodes.com/content/content/csc_privacy.html "Privacy")
-
-The CSCA logo is a service mark of the Cellular Telecommunications & Internet Association. The NeuStar logo is a registered trademark of NeuStar, Inc.
-
-[](http://www.wow-com.com/ "CTIA Website")    [](http://www.neustar.biz/ "NeuStar Website")
+Legal   
+CSCA   
+c/o Neustar, Inc.   
+46000 Center Oak Plaza   
+Building X   
+Sterling, VA 20166   
+email: [webmaster@usshortcodes.com ](mailto:webmaster@usshortcodes.com)
