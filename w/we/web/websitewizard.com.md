@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitewizard.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214014716id_/http%3A//websitewizard.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitewizard.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622012344id_/http%3A//www.websitewizard.com/privacypolicy.html) for the most accurate reproduction.*
 
 # WebsiteWizard website builder > Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Implix realizes that you care how your information is processed and shared, and we appreciate your trust in us to do that carefully and sensibly. This notice describes our Privacy Policy. By visiting our website you are accepting and consenting to the practices described in this Privacy Policy. 
 
-Any personal information provided or acquired by Implix is controlled primarily by the Implix Company, 28 Rozewska Street, 81-055 Gdynia, Poland, hereinafter referred to as "Implix". 
+Any personal information provided or acquired by Implix is controlled primarily by the Implix sp. z o.o. Company, 26 Balladyny Street, 81-524 Gdynia, Poland, hereinafter referred to as "Implix". 
 
 Implix recognizes the importance of respecting the privacy of those who visit our website and choose to take advantage of the services we offer. 
 
