@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugbyworld.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224101713id_/http%3A//www.rugbyworld.com/Features/story_27813.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugbyworld.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621185241id_/http%3A//www.rugbyworld.com/Features/story_27813.shtml) for the most accurate reproduction.*
 
 # Rugby World Magazine Online
 
