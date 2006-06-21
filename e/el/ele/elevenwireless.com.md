@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the elevenwireless.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207101208id_/http%3A//www.elevenwireless.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elevenwireless.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621045516id_/http%3A//elevenwireless.com/default.aspx%3Ftabname%3Dprivacy) for the most accurate reproduction.*
 
-# Eleven Wireless | Company : Overview
-
-| 
+# Eleven Wireless > Privacy
 
 ### PRIVACY POLICY
 
@@ -81,10 +79,6 @@ If you have questions or suggestions, please [email us](mailto:support@elevenwir
 
 **Eleven Wireless Inc.**  
 Customer Care - Privacy Policy Issues  
-1631 NW Thurman Ave   
-Portland, OR 97211  
-(503) 222-4321  
-  
----  
-|  |   
----|---
+P.O. Box 3023  
+Portland, OR 97208  
+(503) 222-4321
