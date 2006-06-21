@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visi.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219014424id_/http%3A//home.visi.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visi.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621164613id_/http%3A//home.visi.com/about/privacy.html) for the most accurate reproduction.*
 
-# VISI.com | About VISI.com | Privacy Statement
+# VISI | About VISI | Privacy Statement
 
 | 
 
@@ -30,7 +30,7 @@ Effective January 14, 2003
 
 Users may request all changes by either: (a) sending an e-mail request to: [privacy@visi.com](mailto:privacy@visi.com) or (b) sending a letter via the U.S. Mail to:
 
-> **VISI.com**  
+> **VISI**  
 >  12 S. 6th St., Suite 630  
 >  Minneapolis, MN 55402
 
