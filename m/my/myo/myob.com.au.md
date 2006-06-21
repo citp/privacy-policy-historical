@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myob.com.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231020148id_/http%3A//myob.com/servlet/Satellite%3Fcid%3D1106022210664%26pagename%3DMYOB%252FPage%252FContentPageWithoutNav%26site%3Den_AU%26c%3DPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myob.com.au privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621063802id_/http%3A//myob.com/servlet/Satellite%3Fcid%3D1106022210664%26pagename%3DMYOB%252FPage%252FContentPageWithoutNav%26site%3Den_AU%26c%3DPage) for the most accurate reproduction.*
 
 # Privacy - MYOB Australia
 
@@ -58,7 +58,7 @@ Many useful services are currently available at MYOB websites and more services 
 
 #### Securing electronic communication
 
-Personal information that is submitted to MYOB websites it is protected both on and offline. MYOB web pages that request information or allow transaction processing use the Hypertext Transport Protocol Security (HTTPS) protocol (excluding Test Drive and Accountant updates) which allows data to be transmitted in an encrypted form known as Secure Sockets Layer (SSL) - visit [ Standard of Security ](http://www.ssl.com/ "Standard of Security") for details.
+Personal information that is submitted to MYOB websites it is protected both on and offline. MYOB web pages that request information or allow transaction processing use the Hypertext Transport Protocol Security (HTTPS) protocol (excluding Test Drive and Accountant updates) which allows data to be transmitted in an encrypted form known as Secure Sockets Layer (SSL) - visit [ secure ](http://www.ssl.com/ "secure") for details.
 
 You can confirm that any MYOB data-entry page is secure by checking that:
 
