@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the podfeed.net privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220015148id_/http%3A//www.podfeed.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podfeed.net privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621201125id_/http%3A//www.podfeed.net/privacy.asp) for the most accurate reproduction.*
 
-# Podfeed.net : Podcast directory, podcast reviews and podcasting resource
+# Podcast directory, podcast reviews and podcasting resource : Podfeed.net
 
 Podfeed.net works to protect the privacy of the individuals that visit and use. We do not target or willingly collect information on children under 13 years of age. You may visit and browse podfeed.net without providing any personal information at all. When adding a podcast you have the option to provide an email address, to which we will send a welcome email. However, providing an email address is not required. To access some areas of the site, registration is required.
 
@@ -28,4 +28,4 @@ If you have any questions or concerns about the podfeed.net privacy policy you m
 
 From time to time, we may update this privacy notice. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
-The Privacy Notice posted on this site was updated on or about May 17, 2005. 
+The Privacy Notice posted on this site was updated on or about January 17, 2006. 
