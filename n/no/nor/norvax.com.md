@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norvax.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230180554id_/http%3A//www.norvax.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norvax.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621180900id_/http%3A//norvax.com/privacy.html) for the most accurate reproduction.*
 
 # Norvax - Privacy Policy
 
@@ -6,8 +6,7 @@
 
 Norvax cares about your privacy and wants you to feel comfortable and secure in your use of our site. We urge you to read this notice explaining our online information practices. By visiting Norvax at www.norvax.com, you are accepting the practices described in this Privacy Notice. This site is optimized for usage Netscape 4.0 or higher and Internet Explorer 4.0 or higher. 
 
-**There are two types of information that we collect:**  
-
+**There are two types of information that we collect:**
 
   1. **Personal Information** \- this is "individually identifiable" information you provide to us. 
   2. **Aggregate Information** \- Standard web server/visitor traffic information, regarding overall Web site traffic patterns. Normally, web servers collect this type of basic information as part of their web log processes. We do not report on individual user sessions. 
