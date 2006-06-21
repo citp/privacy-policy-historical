@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the server.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215104325id_/http%3A//server.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the server.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621213912id_/http%3A//server.com/about/privacy.html) for the most accurate reproduction.*
 
 # Server.com Privacy Policy
 
