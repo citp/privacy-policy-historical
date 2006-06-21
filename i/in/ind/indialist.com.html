@@ -1,0 +1,322 @@
+<!--The following is the downloaded HTML source of the indialist.com privacy policy that was archived on 2006-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060621030227id_/http%3A//indialist.com/indian-classified/privacypolicy.shtml) for the most accurate reproduction.-->
+
+<html><head>
+<title>IndiaList.com</title>
+<link rel="stylesheet" href="indian-classifieds-css/indian-classifieds.css"></head>
+
+<body>
+
+<!-- Start of Header Table-->
+<script language="javascript" src="/indian-classified/indian-classifieds-js/ourpartners.js"></script>
+<table border="0" cellpadding="0" cellspacing="0" width="780" bgcolor="#FFFFFF">
+<tbody><tr>
+		<td valign="top" bgcolor="#FFFFFF"><img src="images/trans.gif" width="1" height="1"></td>
+		<td valign="bottom" align="right"><a href="http://www.indialist.com"><img border="0" src="images/india-list-logo.gif" width="263" height="54" alt="www.IndiaList.com" vspace="5" hspace="5"></a></td>
+		<td valign="top" align="right" width="600">
+		<div style="padding-left:55px;padding-top:2px;padding-bottom:28px;"><a href="javascript:indiaproperty()" class="footertext"><font color="#666666">IndiaProperty.com</font></a>&nbsp;&nbsp;<font class="footertext"><font color="#666666">|</font></font>&nbsp;&nbsp;<a href="javascript:clickjobs()" class="footertext"><font color="#666666">ClickJobs.com</font></a>&nbsp;&nbsp;<font class="footertext"><font color="#666666">|</font></font>&nbsp;&nbsp;<a href="javascript:bharatmatrimony()" class="footertext"><font color="#666666">BharatMatrimony.com</font></a><!--&nbsp;&nbsp;<font class="footertext"><font color="#666666">|</font></font>&nbsp;&nbsp;<a href="javascript:bloodbank()" class="footertext"><font color="#666666">BharatBloodBank.com</font></a>-->&nbsp;&nbsp;<br><img src="images/trans.gif" width="1" height="3"><br></div>
+		<table border="0" cellpadding="0" cellspacing="0">		
+		<!--<tr><td valign="top" colspan="11" width="100"><div><img src="images/trans.gif" width="100" height="15"></div></td></tr>-->
+		<tbody><tr>
+		<td valign="top" width="6"><img src="images/regfree-topcurve-01.gif" width="6" height="22"></td>
+		<td valign="middle" class="regfreebg" height="22"><a href="/indian-classified/search.php" class="toplinks">Search Classifieds</a></td>		
+		<td valign="top" width="6"><img src="images/regfree-topcurve-02.gif" width="6" height="22"></td>
+		<td valign="top" width="2"><img src="images/trans.gif" width="2" height="22"></td>
+		<td valign="top" width="6"><img src="images/adpost-topcurve-01.gif" width="6" height="22"></td>
+		<td valign="middle" class="postadbg" height="22"><a href="/indian-classified/postad.php" class="toplinks">Post Ad Free</a></td>		
+		<td valign="top" width="6"><img src="images/adpost-topcurve-02.gif" width="6" height="22"></td>
+		<td valign="top" width="2"><img src="images/trans.gif" width="2" height="22"></td>
+		<td valign="top" width="6"><img src="images/mylist-topcurve-01.gif" width="6" height="22"></td>
+		<td valign="middle" class="mylistbg" height="22"><a href="/indian-classified/member/myaccount.php" class="toplinks">My Classified</a></td>		
+		<td valign="top" width="6"><img src="images/mylist-topcurve-02.gif" width="6" height="22"></td>
+		<td valign="top" width="2"><img src="images/trans.gif" width="2" height="22"></td>
+		</tr>
+		</tbody></table>
+		</td>
+	</tr>
+	<tr bgcolor="#F2F2F2"><td valign="top" colspan="4"><img src="images/trans.gif" width="1" height="5"></td></tr>
+</tbody></table>
+
+<!-- End of Header Table-->
+
+<!-- Start of Top Search Table-->
+<script language="javascript" src="indian-classifieds-js/category-new.js"></script>
+<script language="javascript" src="indian-classifieds-js/citylist-new.js"></script>
+
+<script language="javascript">
+<!--
+	function CatSrch()
+	{
+		var CategorySrchForm = this.document.keysearch;
+
+	//if ( CategorySrchForm.AdDesc.value == "" )
+	//{
+	//	alert( "Please enter the keyword." );
+	//	CategorySrchForm.AdDesc.focus( );
+	//	return false;
+	//}
+
+		if ( CategorySrchForm.Category.selectedIndex == 0 )
+		{
+			alert( "Please select Category");
+			CategorySrchForm.Category.focus( );
+			return false;
+		}
+
+		if ( CategorySrchForm.SubCategory.selectedIndex == 0 )
+		{
+			alert( "Please select Sub Category");
+			CategorySrchForm.SubCategory.focus( );
+			return false;
+		}
+
+		if ( CategorySrchForm.ResidingState.selectedIndex == 0 )
+		{
+			alert( "Please select the State");
+			CategorySrchForm.ResidingState.focus( );
+			return false;
+		}
+
+		//if ( CategorySrchForm.City.selectedIndex == 0 )
+		//{
+		//	alert( "Please select the City");
+		//	CategorySrchForm.City.focus( );
+		//	return false;
+		//}
+
+
+	return true;
+	}
+	//-->
+</script>
+
+<table border="0" cellpadding="3" cellspacing="0" width="778" class="quicksearch">
+<form name="keysearch" action="keysearch_results.php?srart=1" method="post" onsubmit="return CatSrch()"></form>
+<tbody><tr>
+<td valign="middle" class="whiteheader"><font color="#000000">Search</font></td>
+<td valign="top" class="whiteheader"><input type="text" name="AdDesc" size="10" maxlength="200" class="addtextfiled" tabindex="1"></td>
+<td valign="top" class="whiteheader">
+	<select style="width:150px;font-family: MS Sans serif, Verdana, sans-serif;font-size : 8pt" name="Category" onchange="fillSelectFromArray(this.form.SubCategory, ((this.selectedIndex == -1) ? null : SubCat[this.selectedIndex-1]));">
+	<option value="0" selected=""> - Select Category - </option>
+	<option value="1">Apparels &amp; Accessories</option>
+	<option value="2">Astro Services</option>
+	<option value="3">Automobiles</option>
+	<option value="4">Beauty</option>
+	<option value="5">Books &amp; Magazines</option>
+	<option value="6">Business Opportunities</option>
+	<option value="7">Computer / Video Games</option>
+	<option value="8">Computers</option>
+	<option value="9">Domestic Services</option>
+	<option value="10">Education</option>
+	<option value="11">Electronics</option>
+	<option value="12">Financial Services</option>
+	<option value="13">Fitness &amp; Sports</option>
+	<option value="14">Food &amp; Beverages</option>
+	<option value="15">Health</option>
+	<option value="16">Household &amp; Office Products</option>
+	<option value="17">Jewellery</option>
+	<option value="18">Jobs</option>
+	<option value="19">Matrimony Services</option>
+	<option value="20">Mobile &amp; Telephone</option>
+	<option value="21">Music &amp; Entertainment</option>
+	<option value="22">Pets &amp; Pets Care</option>
+	<option value="23">Real Estate</option>
+	<option value="24">Security Services</option>
+	<option value="25">Tours, Travel &amp; Transport</option>
+	<option value="26">Miscellaneous</option>
+	</select>
+</td>
+
+<td valign="top" class="whiteheader">
+	<select style="width:190px;font-family: MS Sans serif, Verdana, sans-serif;font-size : 8pt" name="SubCategory" size="1">
+	<option value="0" selected=""> - Select Sub Category - </option>
+	</select>
+</td>
+
+<td valign="top" class="whiteheader">
+	<select style="width:130px;font-family: MS Sans serif, Verdana, sans-serif;font-size : 8pt" size="1" name="ResidingState" onchange="fillSelectFromArray(this.form.City, ((this.selectedIndex == -1) ? null : residingcity[this.selectedIndex-1]));">
+		<option value="0" selected=""> - Select State - </option>
+		<option value="1">Andaman &amp; Nicobar</option>
+		<option value="2">Andhra Pradesh</option>
+		<option value="3">Arunachal Pradesh</option>
+		<option value="4">Assam</option>
+		<option value="5">Bihar</option>
+		<option value="6">Chandigarh</option>
+		<option value="7">Chhattisgarh</option>
+		<option value="8">Dadra &amp; Nagar Haveli</option>
+		<option value="9">Daman &amp; Diu</option>
+		<option value="10">Delhi</option>
+		<option value="11">Goa</option>
+		<option value="12">Gujarat</option>
+		<option value="13">Haryana</option>
+		<option value="14">Himachal Pradesh</option>
+		<option value="15">Jammu &amp; Kashmir</option>
+		<option value="16">Jharkand</option>
+		<option value="17">Karnataka</option>
+		<option value="18">Kerala</option>
+		<option value="19">Lakshadeep</option>
+		<option value="20">Madhya Pradesh</option>
+		<option value="21">Maharashtra</option>
+		<option value="22">Manipur</option>
+		<option value="23">Meghalaya</option>
+		<option value="24">Mizoram</option>
+		<option value="25">Nagaland</option>
+		<option value="26">Orissa</option>
+		<option value="27">Pondicherry</option>
+		<option value="28">Punjab</option>
+		<option value="29">Rajasthan</option>
+		<option value="30">Sikkim</option>
+		<option value="31">Tamil Nadu</option>
+		<option value="32">Tripura</option>
+		<option value="33">Uttar Pradesh</option>
+		<option value="34">Uttaranchal</option>
+		<option value="35">West Bengal</option>
+	</select>
+</td>
+
+<td valign="top" class="whiteheader">
+	<select style="width:105px;font-family: MS Sans serif, Verdana, sans-serif;font-size : 8pt" name="City">
+		<option value="0" selected=""> - City - </option>
+	</select>
+</td>
+
+<td valign="middle" class="whiteheader"><input type="image" src="images/search-go-button.gif" width="35" height="19"></td>
+
+</tr>
+
+</tbody></table>
+
+
+<!-- End of Top Search Table-->
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td valign="top" width="180">
+		<!-- Start of Menu Table-->
+		<table border="0" cellpadding="4" cellspacing="0" width="180">
+<tbody><tr><td valign="top">
+	<div class="blackboldtxt" style="padding-left:7px;padding-top:7px;padding-bottom:5px;"><font color="#003E7B">Categories</font></div><font color="#003E7B">
+	</font><div style="padding-left:8px;padding-top:2px;padding-bottom:8px;"><font color="#003E7B"><a href="adsresult.php?Category=1&amp;cat=Apparels&amp;Accessories&amp;start=1" class="bluelink">Apparels and Accessories</a></font></div><a href="adsresult.php?Category=1&amp;cat=Apparels&amp;Accessories&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=1&amp;cat=Apparels&amp;Accessories&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=2&amp;cat=AstroServices&amp;start=1" class="bluelink">Astro Services</a></div><a href="adsresult.php?Category=2&amp;cat=AstroServices&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=2&amp;cat=AstroServices&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=3&amp;cat=Automobiles&amp;start=1" class="bluelink">Automobiles</a></div><a href="adsresult.php?Category=3&amp;cat=Automobiles&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=3&amp;cat=Automobiles&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=4&amp;cat=Beauty&amp;start=1" class="bluelink">Beauty</a></div><a href="adsresult.php?Category=4&amp;cat=Beauty&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=4&amp;cat=Beauty&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=5&amp;cat=Books&amp;Magazines&amp;start=1" class="bluelink">Books &amp; Magazines</a></div><a href="adsresult.php?Category=5&amp;cat=Books&amp;Magazines&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=5&amp;cat=Books&amp;Magazines&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=6&amp;cat=BusinessOpportunities&amp;start=1" class="bluelink">Business Opportunities</a></div><a href="adsresult.php?Category=6&amp;cat=BusinessOpportunities&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=6&amp;cat=BusinessOpportunities&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=7&amp;cat=Computer/VideoGames&amp;start=1" class="bluelink">Computer / Video Games</a></div><a href="adsresult.php?Category=7&amp;cat=Computer/VideoGames&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=7&amp;cat=Computer/VideoGames&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=8&amp;cat=Computers&amp;start=1" class="bluelink">Computers</a></div><a href="adsresult.php?Category=8&amp;cat=Computers&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=8&amp;cat=Computers&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=9&amp;cat=DomesticServices&amp;start=1" class="bluelink">Domestic Services</a></div><a href="adsresult.php?Category=9&amp;cat=DomesticServices&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=9&amp;cat=DomesticServices&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=10&amp;cat=Education&amp;start=1" class="bluelink">Education</a></div><a href="adsresult.php?Category=10&amp;cat=Education&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=10&amp;cat=Education&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=11&amp;cat=Electronics&amp;start=1" class="bluelink">Electronics</a></div><a href="adsresult.php?Category=11&amp;cat=Electronics&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=11&amp;cat=Electronics&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=12&amp;cat=FinancialServices&amp;start=1" class="bluelink">Financial Services</a></div><a href="adsresult.php?Category=12&amp;cat=FinancialServices&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=12&amp;cat=FinancialServices&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=13&amp;cat=Fitness&amp;Sports&amp;start=1" class="bluelink">Fitness &amp; Sports</a></div><a href="adsresult.php?Category=13&amp;cat=Fitness&amp;Sports&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=13&amp;cat=Fitness&amp;Sports&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=14&amp;cat=Food&amp;Beverages&amp;start=1" class="bluelink">Food &amp; Beverages</a></div><a href="adsresult.php?Category=14&amp;cat=Food&amp;Beverages&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=14&amp;cat=Food&amp;Beverages&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=15&amp;cat=Health&amp;start=1" class="bluelink">Health</a></div><a href="adsresult.php?Category=15&amp;cat=Health&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=15&amp;cat=Health&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=16&amp;cat=Household&amp;OfficeProducts&amp;start=1" class="bluelink">Household &amp; Office Products</a></div><a href="adsresult.php?Category=16&amp;cat=Household&amp;OfficeProducts&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=16&amp;cat=Household&amp;OfficeProducts&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=17&amp;cat=Jewellery&amp;start=1" class="bluelink">Jewellery</a></div><a href="adsresult.php?Category=17&amp;cat=Jewellery&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=17&amp;cat=Jewellery&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=18&amp;cat=Jobs&amp;start=1" class="bluelink">Jobs</a></div><a href="adsresult.php?Category=18&amp;cat=Jobs&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=18&amp;cat=Jobs&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=19&amp;cat=MatrimonyServices&amp;start=1" class="bluelink">Matrimony Services</a></div><a href="adsresult.php?Category=19&amp;cat=MatrimonyServices&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=19&amp;cat=MatrimonyServices&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=20&amp;cat=Mobile&amp;Telephone&amp;start=1" class="bluelink">Mobile &amp; Telephone</a></div><a href="adsresult.php?Category=20&amp;cat=Mobile&amp;Telephone&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=20&amp;cat=Mobile&amp;Telephone&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=21&amp;cat=Music&amp;Entertainment&amp;start=1" class="bluelink">Music and Entertainment</a></div><a href="adsresult.php?Category=21&amp;cat=Music&amp;Entertainment&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=21&amp;cat=Music&amp;Entertainment&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=22&amp;cat=Pets&amp;PetsCare&amp;start=1" class="bluelink">Pets &amp; Pets Care</a></div><a href="adsresult.php?Category=22&amp;cat=Pets&amp;PetsCare&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=22&amp;cat=Pets&amp;PetsCare&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=23&amp;cat=RealEstate&amp;start=1" class="bluelink">Real Estate</a></div><a href="adsresult.php?Category=23&amp;cat=RealEstate&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=23&amp;cat=RealEstate&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=24&amp;cat=SecurityServices&amp;start=1" class="bluelink">Security Services</a></div><a href="adsresult.php?Category=24&amp;cat=SecurityServices&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=24&amp;cat=SecurityServices&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=25&amp;cat=Tours,Travel&amp;Transport&amp;start=1" class="bluelink">Tours, Travel &amp; Transport</a></div><a href="adsresult.php?Category=25&amp;cat=Tours,Travel&amp;Transport&amp;start=1" class="bluelink">
+	</a><div style="padding-left:8px;padding-bottom:8px;"><a href="adsresult.php?Category=25&amp;cat=Tours,Travel&amp;Transport&amp;start=1" class="bluelink"></a><a href="adsresult.php?Category=26&amp;cat=Miscellaneous&amp;start=1" class="bluelink">Miscellaneous</a></div><a href="adsresult.php?Category=26&amp;cat=Miscellaneous&amp;start=1" class="bluelink">
+	</a></td></tr>
+</tbody></table>
+</td>
+
+<td valign="top" width="1" height="100%" bgcolor="#FFFFFF"><img src="images/whitebit.gif" width="1" height="7"></td>
+<td valign="top" width="1" height="100%" bgcolor="#EAEAEA"><img src="images/whitebit.gif" width="1" height="7"><img src="images/trans.gif" width="1" height="100%"></td>
+<td valign="top" width="1" height="100%" bgcolor="#FFFFFF"><img src="images/whitebit.gif" width="1" height="7"></td>
+		<!-- End of Menu Table-->
+	
+
+	<td valign="top" width="575">
+		<div style="padding-left:7px;padding-top:7px;">
+			<table border="0" cellpadding="0" cellspacing="0" width="575">
+			<tbody><tr><td valign="top" bgcolor="#FFFFFF" width="100%" colspan="2"><img src="images/trans.gif" width="100%" height="3"></td></tr>
+			<tr>
+				<td valign="middle" class="textsmall"><a href="/index.php" class="linktxt">Indian Classifieds</a> &gt;&gt; <font color="#EF6F1F"><b>Privacy Policy</b></font></td>
+			</tr>
+			<tr><td valign="top" bgcolor="#FFFFFF" width="100%" colspan="2"><img src="images/trans.gif" width="100%" height="10"></td></tr>
+			</tbody></table>
+	
+			<div style="padding-top:2px;">
+				<table cellspacing="0" cellpadding="4" border="0" width="575">
+				<tbody><tr>
+				<td valign="top">
+<p class="textsmall">
+IndiaList.com is committed to safeguarding your privacy online. The following policy acts as a guide inenabling you to understand how your personal information will be treated when you make use of the site. This policy may change from time to time. 
+
+</p><p class="textsmall">
+<b>What kind of personal information will be collected from you?</b>
+
+</p><p class="textsmall">
+When you register on IndiaList.com, personal data such as name, email id, address, phone number are required. On registration you will receive a unique user name that will give you complete access to IndiaList.com In addition we may ask you for personal information at other times, including (but not limited to) when you place ads or use other features of the IndiaList.com 
+
+</p><p class="textsmall">
+<b>How is your information used?</b>
+
+</p><p class="textsmall">
+IndiaList.com collects your personal information to provide you with a customized experience and to assist your navigation throughout the IndiaList.com 
+
+</p><p class="textsmall">
+<b>Who collects your information?</b>
+
+</p><p class="textsmall">
+The personal information you furnish to IndiaList.com will not be disclosed to anyone unless it is specifically stated otherwise. But some activities will, by their very nature, result in your personal information being revealed to other users. 
+
+</p><p class="textsmall">
+<b>With whom your information may be shared?</b>
+
+</p><p class="textsmall">
+IndiaList.com will not disclose your personal information except when we have your permission or under special circumstances.
+
+</p><p class="textsmall">
+IndiaList.com may disclose account information only when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Terms of Service of the IndiaList.com or may be causing injury to or interference to its rights or property, other users, or anyone else that could be harmed by such activities. IndiaList.com may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. 
+
+</p><p class="textsmall">
+The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
+
+</p><p class="textsmall">
+Other than the administrator of the IndiaList.com or other authorized personnel of IndiaList.com you are the only person who has access to your personal information. Your user registration is password-protected to prevent unauthorized access. 
+
+</p><p class="textsmall">
+We recommend that you do not divulge your password to anyone. IndiaList.com will never ask you for your password in an unsolicited phone call or in an unsolicited email. As an extra security precaution, you may want to logoff once you have completed a session in the IndiaList.com This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
+
+
+</p><p class="textsmall">
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, IndiaList.com cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+
+</p><p class="textsmall">
+<b>What else should you know about your online privacy?</b>
+
+</p><p class="textsmall">
+Please keep in mind that whenever you voluntarily disclose personal information online that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+
+
+
+				</p></td>
+				</tr>
+				</tbody></table>
+			</div>
+		</div>
+	</td>
+</tr>
+</tbody></table>
+<!-- Start of Footer Table-->
+
+<table border="0" cellpadding="0" cellspacing="0" width="780" bgcolor="#FFFFFF">
+	<tbody><tr bgcolor="#F2F2F2"><td valign="top" colspan="4"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+	<tr>
+		<td valign="top" bgcolor="#FFFFFF" class="smalltext">
+		<div style="padding-top:5px;padding-left:200px;padding-bottom:10px;padding-top:10px;"><a href="/indian-classified/termsconditions.shtml" class="footertext"><font color="#666666">Terms &amp; Conditions</font></a>&nbsp;<font class="normaltxt1"><font color="#93663C">|</font></font>&nbsp;<a href="/indian-classified/privacypolicy.shtml" class="footertext"><font color="#666666">Privacy Policy</font></a>&nbsp;<font class="normaltxt1"><font color="#93663C">|</font></font>&nbsp;<a href="/indian-classified/contactus.shtml" class="footertext"><font color="#666666">Contact Us</font></a>&nbsp;<font class="normaltxt1"><font color="#93663C">|</font></font>&nbsp;<a href="/indian-classified/faqs.shtml" class="footertext"><font color="#666666">FAQs</font></a>&nbsp;<font class="normaltxt1"><font color="#93663C">|</font></font>&nbsp;<a href="/indian-classified/sitemap.shtml" class="footertext"><font color="#666666">Site Map</font></a>&nbsp;<br><img src="/images/trans.gif" width="1" height="3"><br></div>
+		<div style="padding-top:5px;padding-left:100px;padding-bottom:10px;" class="footertext">Partners:<img src="&lt;?=$path?&gt;/images/trans.gif" alt="" width="7" height="1"><a class="footertext" href="http://www.bharatmatrimony.com" title="Indian Matrimonial" target="_blank">Matrimonial</a><img src="&lt;?=$path?&gt;/images/trans.gif" alt=" " width="5" height="1"><font class="normaltxt1"><font color="#93663C">|</font><img src="&lt;?=$path?&gt;/images/trans.gif" alt="" width="5" height="1"><a class="footertext" href="http://www.indiaautomobile.com" title="India Automobile" target="_blank">India Automobile</a><img src="&lt;?=$path?&gt;/images/trans.gif" alt=" " width="5" height="1"><font class="normaltxt1"><font color="#93663C">|</font><img src="&lt;?=$path?&gt;/images/trans.gif" alt="" width="5" height="1"><a class="footertext" href="http://www.clickjobs.com" title="India's Premium Jobs Portal" target="_blank">India Jobs</a></font><img src="&lt;?=$path?&gt;/images/trans.gif" alt=" " width="5" height="1"><font class="normaltxt1"><font color="#93663C">|</font></font><img src="&lt;?=$path?&gt;/images/trans.gif" alt="" width="5" height="1"><a class="footertext" href="http://www.indiaproperty.com" title="Comprehensive Property Portal" target="_blank">Properties In India</a><img src="&lt;?=$path?&gt;/images/trans.gif" alt="" width="5" height="1"><font class="normaltxt1"><font color="#93663C">|</font></font><img src="&lt;?=$path?&gt;/images/trans.gif" alt="" width="5" height="1"><a class="footertext" href="http://www.bharatbloodbank.com" title="Blood Bank" target="_blank">BharatBloodbank</a></font></div><font class="normaltxt1">
+		<div style="padding-top:5px;padding-left:210px;padding-bottom:10px;padding-top:10px;"><font class="smalltext"><font color="#999999">&nbsp;Copyright © IndiaList.com 2006. All rights reserved.<br></font></font></div>
+		</font></td>
+	</tr>
+</tbody></table>
+<!-- End of Footer Table-->
+
+</body></html>
