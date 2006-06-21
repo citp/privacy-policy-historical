@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the eventrebels.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210070425id_/http%3A//www.eventrebels.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventrebels.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622010003id_/https%3A//ww2.eventrebels.com/er/General/Policy.jsp) for the most accurate reproduction.*
 
-# EventRebels.com: Privacy Policy
+# EventRebels.com - The Online-Onsite Registration Company
 
-Privacy Policy 
+  
 
-EventRebels.com is committed to protecting the privacy of our users' personally identifiable information. To better protect the privacy of meeting or event registrants and of our clients (meeting planners), we provide this notice explaining our online information practices and the choices users can make about the way their information is used at the site. 
+
+EventRebels is committed to protecting the privacy of our users' personally identifiable information. To better protect the privacy of meeting or event registrants and of our clients (meeting planners), we provide this notice explaining our online information practices and the choices users can make about the way their information is used at the site. 
 
 ## Information Collection and Use
 
@@ -40,13 +41,13 @@ We may disclose personally identifiable information in response to legal process
 
 ## Choices/Opt-Out
 
-EventRebels.com may contact meeting planners to provide them with opportunities to purchase products or services that may be of interest to them. If meeting planners prefer not to receive marketing information from this site, just let us know by sending us an e-mail at privacy@eventrebels.com. 
+EventRebels may contact meeting planners to provide them with opportunities to purchase products or services that may be of interest to them. If meeting planners prefer not to receive marketing information from this site, just let us know by sending us an e-mail at privacy@eventrebels.com. 
 
 [We also may share meeting planners' personally identifiable information with select third parties to enable them to learn about other products or services that may be of interest to them. If meeting planners prefer not to receive marketing information from these third parties, just let us know by sending us an e-mail at privacy@eventrebels.com. 
 
 ## Cookies
 
-EventRebels.com uses "cookies" to enhance users experience with our site. Cookies are text files we place in a user's computer's browsers to store your preferences. We cannot use our cookies to determine any personally identifiable information about users. 
+EventRebels uses "cookies" to enhance users experience with our site. Cookies are text files we place in a user's computer's browsers to store your preferences. We cannot use our cookies to determine any personally identifiable information about users. 
 
 We use cookies to understand site usage, to personalize users' experience, and to improve the content and offerings on our site. For example, we may use cookies to personalize users' experience at our Web pages (e.g., to recognize you by name when you return to our site) and save password in password-protected areas. 
 
