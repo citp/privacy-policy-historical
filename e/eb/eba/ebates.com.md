@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebates.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213233703id_/http%3A//www.ebates.com/privacy.go) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebates.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621201428id_/http%3A//www.ebates.com/privacy.go) for the most accurate reproduction.*
 
 # Ebates Privacy Agreement
 
@@ -62,7 +62,7 @@ Ebates does not record any personal information passed from our members to our m
 
 ## 7\. Our policies on email
 
-Ebates does not support spamming by our members and we explicitly prohibit it in our[ member agreement](https://web.archive.org/web/20051219083919id_/http://www.ebates.com/ebatesterms.go). If you would like to report an incident of spamming, please [contact us.](https://web.archive.org/company_contact.jsp) We will investigate and take suitable action at our discretion.
+Ebates does not support spamming by our members and we explicitly prohibit it in our[ member agreement](https://web.archive.org/web/20060615204420id_/http://ebates.com/ebatesterms.go). If you would like to report an incident of spamming, please [contact us.](https://web.archive.org/company_contact.jsp) We will investigate and take suitable action at our discretion.
 
 We ourselves send out three kinds of emails. Our members may receive:   
 1\. email essential to the maintenance of your account (most commonly when we need your address to mail you a check);   
@@ -83,7 +83,7 @@ Periodically we may send you emails on new Ebates features or special offers. On
 
 You may also choose to what degree you would like us to contact you. When we ask for your account info, you may choose that we contact you with special offers, contact you about your orders, or not contact you for either.
 
-It is the member's responsibility to update and maintain accurate contact information in their account. You can make changes by visiting your [account page](https://web.archive.org/web/20051219083919id_/http://www.ebates.com/account_edit.go) and entering corrections. Email and street addresses that are entered into a member's personal profile page are the addresses that will be used for all contact including the mailing of Big Fat Checks. Ebates is not responsible for checks that are sent to incorrect addresses, if the address in question was the address listed in that member's account at the time of issuance.
+It is the member's responsibility to update and maintain accurate contact information in their account. You can make changes by visiting your [account page](https://web.archive.org/web/20060615204420id_/http://ebates.com/account_edit.go) and entering corrections. Email and street addresses that are entered into a member's personal profile page are the addresses that will be used for all contact including the mailing of Big Fat Checks. Ebates is not responsible for checks that are sent to incorrect addresses, if the address in question was the address listed in that member's account at the time of issuance.
 
 We will post all changes to this Privacy Agreement here at our site. Please check for revisions when you visit our site again so that you will always be aware of our policies and any changes that might occur.
 
