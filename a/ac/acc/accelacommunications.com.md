@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accelacommunications.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228173700id_/http%3A//www.accelacommunications.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accelacommunications.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621185452id_/http%3A//www.accelacommunications.com/company/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Accela Communications - Privacy Policy
 
@@ -43,6 +43,9 @@ tions also uses this information to track service selections, deliver specific c
 
 **Log files**   
 Accela Communications records Apache Web server logs in the extended log file format. We use server log data to help administer, analyze and measure access to our information products and services. We sometimes link personally identifiable information to log click-stream data to help better understand user's interests and behaviors. 
+
+**Third party ad server**   
+We use third-party advertising companies to serve ads when users visit our web site. These companies may use information (not including name, address, email address or telephone number) about visitors to the Website in order to provide advertisements about goods and services of interest to such visitors. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.com/us/about_doubleclick/privacy/default.asp).
 
 **Changes to this policy and notification of changes**  
 Accela Communications may occasionally update this Privacy Policy. The privacy policy will include the date that changes were last made to this document in a prominent location. Accela Communications encourages you to periodically review this Policy to be informed of how Accela Communications collects and uses collected information. 
