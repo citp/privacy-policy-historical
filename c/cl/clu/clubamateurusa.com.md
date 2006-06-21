@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clubamateurusa.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219151907id_/http%3A//clubamateurusa.com/preview/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubamateurusa.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621160119id_/http%3A//www.clubamateurusa.com/preview/privacy.htm) for the most accurate reproduction.*
 
-# ClubAmateurUSA.com Privacy Policy
+# Casey Black's ClubAmateurUSA - Privacy Policy
 
 **General Browsing**
 
