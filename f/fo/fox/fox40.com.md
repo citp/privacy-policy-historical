@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox40.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207042528id_/http%3A//fox40.trb.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox40.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621085343id_/http%3A//fox40.trb.com/go/services/privacy) for the most accurate reproduction.*
 
 # FOX40 KTXL | Privacy Policy
 
@@ -14,7 +14,7 @@ Like most Web sites, KTXL.com also collects information automatically and throug
 
 We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
 
-We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on KTXL.com to communicate with you regarding our [Terms of Service](https://web.archive.org/services/ktxl-terms.htmlstory) and privacy policy, products and services offered by KTXL.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
+We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on KTXL.com to communicate with you regarding our [Terms of Service](https://web.archive.org/services/ktxl-terms,0,7970922.htmlstory) and privacy policy, products and services offered by KTXL.com and other Tribune Company affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Tribune Company business units and affiliates, including for example our affiliated newspapers and entities in which Tribune Company has an ownership interest (collectively, "Affiliates"). This policy does not apply to any Affiliate's use of such information.
 
 Personally Identifiable Information collected by KTXL.com may also be used for other purposes including but not limited to site administration and troubleshooting. Certain third parties who provide technical support for the operation of our site (our Web hosting service and our newsletter provider, for example) may access such information.
 
@@ -30,6 +30,8 @@ KTXL.com expects its partners, advertisers and third-party affiliates to respect
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. KTXL.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
 
+A cookie gets entered by your Web browser into the "Cookies" folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the Site. We use persistent and session cookies to analyze and enhance your experience on the Site, and use third party ad technology to serve ads. The data that is collected is the property of KTXL.com, not the third party. We also allow third parties called ad networks or ad servers to serve ads to you on KTXL.com. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on KTXL.com. KTXL.com does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. KTXL.com maintains relationships with a number of third-party networks, including Doubleclick, Unicast, and Pointroll. Those parties that use cookies may offer you a way to opt out of ad targeting. You may find more information at the Web site of the individual ad network or the [ Network Advertising Initiative.](http://www.networkadvertising.org/consumer/opt_out.asp)
+
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of KTXL.com and this policy.
 
 **Children.**
@@ -42,8 +44,8 @@ We can be reached by contacting:
 
 **KTXL.com  
 4655 Fruitridge Road  
-Sacramento, CA  
-95820-5299**
+Sacramento, CA 95820-5299  
+E-mail: [Fox40Admin@Tribune.com](mailto:Fox40Admin@Tribune.com)**
 
   
 **Changes to this policy.**
