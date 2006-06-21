@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiologyonline.com privacy policy that was archived on 2005-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051127141759id_/http%3A//www.audiologyonline.com/our_company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiologyonline.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622002908id_/http%3A//www.audiologyonline.com/our_company/privacy.asp) for the most accurate reproduction.*
 
 # Audiology Online: Privacy Policy
 
