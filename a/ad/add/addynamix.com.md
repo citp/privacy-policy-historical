@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addynamix.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231161637id_/http%3A//www.addynamix.com/publishers/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addynamix.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621192142id_/http%3A//www.addynamix.com/publishers/privacy.html) for the most accurate reproduction.*
 
 # AdDynamix Network: Break the Limits...
 
@@ -28,7 +28,7 @@ Pennyweb, Inc. does not use any personally identifiable data about a client for 
 
 _Personally Identifiable Client Data - Opt-Out_ Because Pennyweb, Inc. is a strong proponent of online privacy we are committed to making sure that clear notice and choice is provided to all clients before any personally identifiable data are used for any purposes other than for what was originally intended. When a client joins Pennyweb, Inc.'s network and registers for Pennyweb, Inc.'s services, personally identifiable information is required as a part of doing business. Pennyweb, Inc.'s primary intent in collecting personally identifiable information is for use in administrative purposes including accounting and payouts.
 
-[View detailed information regarding Pennyweb, Inc. Data Collection practices.](https://web.archive.org/web/20051231161637id_/http%3A//www.addynamix.com/publishers/privacy2.html)
+[View detailed information regarding Pennyweb, Inc. Data Collection practices.](https://web.archive.org/web/20060621192142id_/http%3A//www.addynamix.com/publishers/privacy2.html)
 
 **Web Site Tracking**
 
