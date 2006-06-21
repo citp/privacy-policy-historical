@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the pixar.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212140701id_/http%3A//www.pixar.com/companyinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixar.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621153001id_/http%3A//www.pixar.com/companyinfo/privacy.html) for the most accurate reproduction.*
 
 # Pixar Online Privacy Policy
 
-|  | 
+[](https://web.archive.org/web/20060621153001id_/http%3A//www.pixar.com/companyinfo/about_us/overview.htm)  
+[](https://web.archive.org/web/20060621153001id_/http%3A//www.pixar.com/companyinfo/about_us/execs.htm)  
+[](https://web.archive.org/web/20060621153001id_/http%3A//www.pixar.com/companyinfo/about_us/contactus.html) |  | 
 
 Thank you for visiting Pixar.com. This Privacy Policy sets forth the online information practices of Pixar Animation Studios (“Pixar”), including:
 
@@ -15,7 +17,7 @@ Thank you for visiting Pixar.com. This Privacy Policy sets forth the online info
 
 SPECIAL POLICY WITH REGARD TO INFORMATION FROM CHILDREN UNDER THIRTEEN
 
-Pixar is especially sensitive to privacy issues concerning children. Pixar.com is not targeted specifically to children under the age of 13, and we do not knowingly collect personally-identifiable information from any child under the age of 13 without parental consent. When we discover that we have received such information, we delete it immediately and we do not use it or share it with third parties. 
+Pixar is especially sensitive to privacy issues concerning children. Pixar.com is not targeted specifically to children under the age of 13, and we do not knowingly collect personally-identifiable information from any child under the age of 13. If we discover that we have received such information, we delete it immediately and we do not use it or share it with third parties. 
 
 INFORMATION COLLECTION AND USE
 
@@ -66,4 +68,4 @@ We make every effort to have reasonable security procedures in place to protect 
 |   
   
   
-TM & © 1986-2005 Pixar. All Rights Reserved.
+TM & © 1986- 2020 Pixar. All Rights Reserved.
