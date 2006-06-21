@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatbird.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227195428id_/http%3A//www.whatbird.com/Privacy/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatbird.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621022842id_/http%3A//www.whatbird.com/Privacy/privacy_statement.aspx) for the most accurate reproduction.*
 
 # WhatBird Privacy | identify birds | bird watching | bird guide | species | north america
 
@@ -97,6 +97,6 @@ Privacy Compliance
 
 **
 
-There are no national laws or self-regulatory schemes applicable to our web site or Organization. There are no global or regional regulatory or self-regulatory schemes applicable to our web site or Organization. We cannot demonstrate that our privacy policy accords with the privacy  instrument. 
+There are no national laws or self-regulatory schemes applicable to our web site or Organization. There are no global or regional regulatory or self-regulatory schemes applicable to our web site or Organization. 
 
  
