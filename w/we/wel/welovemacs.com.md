@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the welovemacs.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230102230id_/http%3A//www.welovemacs.com/privstat.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welovemacs.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621085615id_/http%3A//www.welovemacs.com/privstat.html) for the most accurate reproduction.*
 
-# Privacy Statement, Apple Mac Products
+# Privacy Statement, Apple Mac and iPod Accessories
 
-[](http://us.st11.yimg.com/store1.yimg.com/I/lovemacs_1875_202080778)
+[](http://us.st11.yimg.com/us.st.yimg.com/I/lovemacs_1899_60442277)
+
+## Privacy Statement
 
 We, at **"We Love Macs"!** have designed our business practices to safeguard your privacy and be responsible for use of your personal information. In fact, protecting your privacy is the foundation of our "Customer For Life" commitment. 
-
-You can visit our website [ http://www.lovemacs.com](http://www.lovemacs.com/) without revealing who you are or providing any personal information about yourself. 
 
 In order to assist you with your on-line purchases, on our secured website [ http://www.welovemacs.com](http://www.welovemacs.com/) there will be times when we will need personal information from you, such as your name, home address, e-mail address or telephone number by which to reach you to confirm the information you have supplied us. 
 
