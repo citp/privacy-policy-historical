@@ -1,30 +1,12 @@
-> *The following text is extracted and transformed from the extremecfnm.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231034400id_/http%3A//www.adultxfun.com/index.php/about%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremecfnm.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621192044id_/http%3A//www.adultxfun.com/index.php/about%23privacy) for the most accurate reproduction.*
 
 # About CFNM Affiliation Program
-
-Latest News...
-
- **Members Message Board** \- 1st November 2005: With our commitment to improving the services we offer, we are proud to announce the launch of our members message board.
-
-This will allow like-minded people that have joined our sites to chat freely with each other and take part in a true CFNM community.
-
- **AdultXfun.com 2257 Statement** \- 22nd June 2005: AdultXfun.com 2257 Statement. We recommend our US Affiliates read this statment  
-AdultXfun.com is a European company and as such is bound by EU laws. The European community has developed a directive that was passed by the Council of Ministers in October 1995 and came into force in October 1998, obliging all member states to block the flow of personal data to states without adequate protection, subject to the derogations listed in Article 26. America maintained that self-regulation was a preferred approach to dealing with privacy issues. America is not in line with the European community on this subject. However all webmasters, as we are, should be bound by the laws that are in affect in whatever country you reside in, i.e. promo material used on websites must be compliant with your local laws. AdultXfun.com is bound by the EU law which is we are not allowed to issue personal information without adequate protection of that information. The new 2257 regulations do not allow us to comply without breaking EU laws. We will be seeking further clarification of our position with our legal council including the possibility of filing a TRO on behalf of our AdultXfun.com members. We are working on a number of ideas to assist our American friends, members and affiliates. Questions regarding this topic can be directed to affiliates@adultxfun.com
-
- **New Hosted Pages** \- 19th January 2005: AdultXFun now features a dedicated section of hosted pages. Why waste time offline designing your own pages, when you can pick and choose from our ever-growing selection. Each page has a distinctive look and feel and  
-captures the attention with great graphics and the key phrases that make us stand out from the crowd. [CLICK HERE](http://www.adultxfun.com/index.php/hosted)
-
-|    | 
-
-About Us
 
 AdultXFun is a well established adult entertainment company, with our main business running adult [websites](https://web.archive.org/index.php/websites). We pride ourselves on creating and offering some of the highest quality adult content on the Internet, you will not find our own content anywhere else, this is unique to us.
 
 We have invested a lot of time and money over the years to produce some of the most pleasing designs, we also run and maintain our own servers to make sure that everything runs snoothly, just as it should. By running our own hardware it eliminates a lot of problems that other adult companies may have to put up with.
 
 All of our sites are running 24 hours a day and 7 days a week, to guarantee this we have techincal staff continually monitoring the performance of our servers and sites. We are proud to say that we are a 24/7 company and hope you will agree with out statements when you visit one of our sites.
-
-Privacy Policy Statement
 
 For casual visitors to our website, we do **not** collect any information regarding domains, e-mail addresses, or any other personal details.
 
@@ -36,7 +18,7 @@ Persons who have supplied us with their telephone number online may receive call
 
 #### Our Privacy Statement
 
-Antarctic Dot Com Ltd. - and all associated websites - have created this statement in order to demonstrate our firm commitment to the privacy of our customers. The following discloses our information gathering and dissemination practices for our websites.
+AdultXFun.com - and all associated websites - have created this statement in order to demonstrate our firm commitment to the privacy of our customers. The following discloses our information gathering and dissemination practices for our websites.
 
 We use cookies to help maintain a consistent experience for our customers. Cookies are only used in a few sections of our site, specifically the online shop, this enables us to keep track of the products in your shopping cart. At no time is any personal information stored within a cookie.
 
@@ -66,8 +48,6 @@ If you do not wish to be placed on our mailing list please contact us via our [c
 
 If at any time you wish to contact us, please go to the [contact page](https://web.archive.org/index.php/contact). Here you will be able to contact us via on-line form, telephone, or mailing address.
 
-Warranty / Returns Policy
-
 We want you to feel confident when shopping with us. That is why our returns policy is very simple and straightforward.
 
 We want you to be satisfied with your purchase, if for whatever reason you are not you may return the product to us in its original condition. Any unopened CD, DVD or VHS tape in its original condition returned within 10 days of receipt of your order will receive a full refund.
@@ -90,6 +70,4 @@ We will notify you via e-mail of your refund once we have received the returned 
 
 **Need more information or assistance?**
 
-If you have any problems with your order, please don't hesitate to [contact us](https://web.archive.org/index.php/contact).   
-  
----|---|---
+If you have any problems with your order, please don't hesitate to [contact us](https://web.archive.org/index.php/contact). 
