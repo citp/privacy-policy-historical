@@ -1,21 +1,52 @@
-> *The following text is extracted and transformed from the windowsnetworking.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219125817id_/http%3A//www.windowsnetworking.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsnetworking.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621063235id_/http%3A//www.windowsnetworking.com/pages/privacy.asp) for the most accurate reproduction.*
 
-# Privacy statement
+# Privacy Policy
 
-In general, you can visit WindowsNetworking.com on the World Wide Web without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. This information is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site.
+## Introduction
 
-There are times, however, when we may need information from you, such as your name and address. When information is needed, we will try to let you know at the time of collection, how we will use the personal information. Usually, the personal information we collect is used only by us to respond to your inquiry or allow you to access specific account information. We will not make the e-mail addresses, of those who provide information, available to other organizations.
+We are committed to fair information practices and we respect the privacy and security of our users. Our goal is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, we sometimes collect information during your visits to understand what differentiates you from each of our millions of other users, and we may also ask you for personal information that enables us to give you access to some parts of our web site. We will not disclose your information to any person outside our organisation except as described in this Privacy Policy.
 
-If you register with one of our business partners, advertisers, or listed vendors on-line, they may use this information to provide you with custom information about Windows Networking, offering in support of your personal or business needs. A technology called cookies may be used to provide you with tailored information. A cookie is a tiny element of data that a web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may set your browser to notify you when you receive a cookie.
+To demonstrate our commitment to your privacy, we have prepared this statement disclosing our privacy practices. This statement describes what personal identifying information is collected, how and when we might use your information, how we protect your information, who has access to your information, and how you can correct any inaccuracies in the information.
 
-At times we may conduct on-line surveys to better understand the needs and profile of our visitors. When we conduct a survey, we will let you know how we will use the information at the time we collect information from you on the Internet.
+## Information Collected By Us
 
-WindowsNetworking.com may contain links to other sites such as government organizations and affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites.
+We collect certain information from and about our visitors in three ways: from our web server logs, by means of cookies, and directly from you.
 
-WindowsNetworking.com currently supports the proposed Online Privacy Protection Act, sponsored by Montana Senator Conrad Burns, and Oregon Senator Ron Wyden. We also support the Children's Online Privacy Protection Act that was passed by Congress in fall 1998.
+_Web server logs_. When you visit our Web sites, we may track information to administer the site and analyze its usage. Examples of information we may track include your internet protocol address, what kind of browser or computer you use, the number of links you click within the site, the state or country from which you accessed the site, the date and time of your visit, the name of your internet services provider, the last page you viewed before visiting our site, and the pages you viewed on the site.
 
-Microsoft, ISA Server, Internet Security and Information Server, Microsoft Exchange Server, Microsoft Outlook, Microsoft Visual Basic, Microsoft Windows, Microsoft Windows 95, Microsoft Windows 98, Microsoft Windows 2000, Microsoft Windows NT and Windows Server 2003 are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. All other trademarks are the property of their respective owners.
+_Cookies_. If your browser allows it, our web sites use cookies, which are small text files which you computer creates or modifies on instruction of the page opened in your browser. These are used to save your preferences and login information. You can reject cookies by changing your browser settings.
 
-Should you have any question about the privacy issues here at WindowsNetworking.com, please [contact us](mailto:info@windowsnetworking.com), and we will take measures to correct any problems.
+_Information from you_. Visitors can register to obtain access to some parts of our web site. When you register, we will ask you for some personal information. Some of the information requested will be required for registration, and some may be optional. Also, we may ask you to disclose personal information to enable us to provide assistance and information to you. 
+
+## Use Of And Access To Information
+
+_Security and confidentiality_. We use technical security measures to prevent the loss, misuse and alteration of information under our control and information about our subscribers and their web site usage is maintained in a secure environment. Information about our subscribers and their web site usage is not shared with third parties for marketing purposes. We do not disclose any information about any subscriber's usage of our web site except in specific cases, and we do not share information with any unaffiliated third parties for marketing purposes unless you expressly give us permission to do so.
+
+_Identifiable information_. We will share your personal data as required by law or by the order of any competent court or (semi-)governmental authority or in matters of public safety or policy. Under strict conditions of confidentiality we may share your personal data with agents and contractors who use it on our behalf or in connection with their relationship with us. We will also share your personal data as may be needed in connection with the enforcement of agreements.
+
+_Anonymous information_. We may provide summary statistics about our interests and preferences of visitors of our web site, traffic patterns and related site information. These statistics do not include personally identifiable information.
+
+## Other Information Supplied By You
+
+In some parts of our web site (such as chat rooms, forums, message boards or news groups) you can submit or contribute information. Please remember that any information disclosed in these areas is public. You should exercise caution when disclosing personal information in these areas. Don't disclose information in these public forums that might be considered confidential.
+
+## Promotional Messages
+
+You will not receive any promotional messages from us unless you opted to allow us to do so. If you don't want to receive promotional materials from us, you can opt out at any time. Please use our contact page to send us a message clearly stating that you wish to opt out and stop receiving promotional messages.
+
+TechGenix Ltd. - <http://www.techgenix.com/contactus.htm>
+
+## Updates And Corrections
+
+If you wish to update or correct your personal information, please use our contact page to send us a message clearly stating which changes you wish to make.
+
+## Privacy Policy Changes
+
+If our information practices change in a significant way, we will post and highlight the policy changes.
+
+_This privacy policy has last been updated on 26 April 2006._
 
 ## Featured Links*
+
+
+
