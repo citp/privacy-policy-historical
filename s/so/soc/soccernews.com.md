@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soccernews.com privacy policy that was archived on 2005-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050901111227id_/http%3A//www.soccernews.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccernews.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621222224id_/http%3A//www.soccernews.com/privacy.php) for the most accurate reproduction.*
 
-# Soccer News - Fresh Daily Soccer News. Soccer Tickets, Soccer Games, Soccer Bets etc.
+# Soccer News - Fresh Daily Soccer News. Soccer Tickets, Germany World Cup Tickets, Soccer Betting, Soccer Games etc.
 
-[](http://www.pokercs.com/_ccb50a4b0a8269b2b25408a0e17f8613/2)
+[ ](http://www.partypoker.com/index20100.htm?wm=2569903)
 
 |    
 |  |  |  Any information gathered from our visitors will never be resold or sent to a third party for commercial purposes. SOCCERNEWS.COM only collect information volunteered by the user, such as specific requests by users to join our message board. The information we collect is used for internal review only. It is used to improve the content of our Web page, used to notify users about updates to our Web site (but only if specificially requested to do so by the user).
@@ -19,10 +19,8 @@ These companies may use information (not including your name, address, email add
   
 | 
 
-Thursday September 01, 2005
-
 |   
   
 ---  
   
-**Rooney buries Newcastle.** Albert Luque from Spain made his debut for Newcaslte today. Newcastle started the game best, but when both Emre and Dyer had to leave the field in the 1st half due to injury, Man Utd slowly took over the game. Rooney scored the game`s 1st goal in the 66th minute after Boumsong failed to clear to ball. Just before full-time, Rooney hit an excellent pass for Van Nistelrooy who scored the second goal. Manchester Utd won 2-0.
+**Germany kick off the World Cup with 4-2 win.**  Hosts Germany won their first encounter in the World Cup against Costa Rica, in a game that produced six goals. Germany took the lead thanks to a wonderful shot just outside of the penalty box by Philip Lahm. Wanchope silenced the crowd a short moment later, when he scored the equaliser for Cost Rica. Then Miroslav Klose scored a brace to make it 3-1. Even when Costa Rica reduced to 3-2, Germany never looked threatened. Frings put the game in the books for Germany when he made it 4-2 in the 87th minute.
