@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cathaypacific.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231121017id_/http%3A//www.cathaypacific.com/intl/site/privacy/0%2C%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cathaypacific.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622005057id_/http%3A//www.cathaypacific.com/intl/site/privacy/0%2C%2C%2C00.html) for the most accurate reproduction.*
 
 # Cathay Pacific - Data Privacy and Security Policy
 
