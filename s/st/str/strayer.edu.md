@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strayer.edu privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229233209id_/http%3A//www.strayer.edu/default_page.cfm%3Fcont_id%3DA0AE3A6C-E766-459A-88E1D296202EEF2B) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strayer.edu privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621090301id_/http%3A//www.strayer.edu/default_page.cfm%3Fcont_id%3DA0AE3A6C-E766-459A-88E1D296202EEF2B) for the most accurate reproduction.*
 
 # Strayer University
 
