@@ -1,28 +1,9 @@
-> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230025602id_/http%3A//npdor.com/English/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621064830id_/http%3A//npdor.com/English/privacy.asp) for the most accurate reproduction.*
 
 # NPD Online Research - Making your opinions count
 
   
 Updated: December 2005
-
-**December 2005 Revision Highlights** **Introduced “NPD’s Commitment to Your Privacy”**  
-Simple, straightforward answers to some of your most commonly asked questions about how NPD protects your privacy.
-
-**Overall Language and Layout Improvement**  
-We have reorganized our privacy policy, simplified its language (explaining our policies in plain English rather than “lawyer-speak”) and made it easier to navigate.
-
-**Privacy Policy Change Notification Update**  
-If we change the way we use your Personally Identifiable Information from what is listed in this policy, we will notify you, in advance, to the e-mail address on record.
-
-**NPD’s Policy on Sharing Your Personally Identifiable Information**  
-NPD will not disclose your personally identifiable information to any third party unless you consent in advance, or for any of the following reasons:
-
-  1. to allow service providers (agents) retained by us to perform panel-related services on our behalf (e.g. sweepstakes fulfillment). These service providers receive this information on a strictly limited, confidential basis; they are required to keep the information confidential and to use it only for the purposes of providing the services that we have asked them to perform;
-  2. to comply with law, governmental requirement or legal process;
-  3. to protect our property and legal rights, including those of our partners and customers, when we believe that they are, or are at risk of, being misappropriated, interfered with, or injured; and
-  4. to facilitate co-sponsored surveys with strategic partners bound by this Privacy Policy.
-
-
 
 **About NPD**
 
@@ -56,7 +37,7 @@ We may from time to time change our privacy practices, but will notify you direc
 
  **Information Collected During Registration**
 
-In order to become a Member, participate in surveys and access certain portions of the NPD Online Research web site, you must first complete our Member registration process. This requires you to select a user name and password and give us contact information (e.g. e-mail address) and demographic information (e.g. zip/postal code, date of birth, income level). You may also be required to provide information concerning other relevant topics (e.g. your computer type and information about your Web usage). NPD does not collect your name and mailing address during our registration process. The only time we request this information is for incentive fulfillment (e.g. in order to mail checks to sweepstakes winners) or for specific surveys in which mail may need to be sent to panelists (e.g. product tests). In these instances, providing name and mailing address is always optional. 
+In order to become a Member, participate in surveys and access certain portions of the NPD Online Research web site, you must first complete our Member registration process. This requires you to select a password and give us contact information (e.g. e-mail address) and demographic information (e.g. zip/postal code, date of birth, income level). You may also be required to provide information concerning other relevant topics (e.g. your computer type and information about your Web usage). NPD does not collect your name and mailing address during our registration process. The only time we request this information is for incentive fulfillment (e.g. in order to mail checks to sweepstakes winners) or for specific surveys in which mail may need to be sent to panelists (e.g. product tests). In these instances, providing name and mailing address is always optional. 
 
 Your contact information is used to send you a welcome e-mail when you register, to notify you when there is a survey available, or for Member communications (for example, Sweepstakes Winners, birthday wishes or Member newsletters). 
 
@@ -68,7 +49,7 @@ At registration and in each communication with you thereafter, you may opt-out o
 
 **Correcting/Updating Your Information**
 
-We encourage our Members to keep their information as up-to-date as possible. To change your e-mail address, Member name, password, or make changes to the demographic and other profile information you provided during the registration process, please visit: http://www.npdor.com and log in. Once you log in, please visit ["Change My Info"](https://web.archive.org/web/20051230025602id_/http%3A//npdor.com/English/memberservices.asp). 
+We encourage our Members to keep their information as up-to-date as possible. To change your e-mail address, Member name, password, or make changes to the demographic and other profile information you provided during the registration process, please visit: http://www.npdor.com and log in. Once you log in, please visit ["Change My Info"](https://web.archive.org/web/20060621064830id_/http%3A//npdor.com/English/memberservices.asp). 
 
 **Sharing Your Personally Identifiable Information**
 
@@ -115,7 +96,7 @@ NPD employs physical, electronic and managerial protections and procedures to he
 
 **HOW TO UNSUBSCRIBE**
 
-Registration on our site and participation in our online surveys is voluntary. You can elect to remove your e-mail address from our mailing list at any time. Once it has been removed, you will no longer receive surveys or communications from us, or be entered in, or be eligible for, future Member sweepstakes. To unsubscribe, please log in at: http://www.npdor.com and visit ["Change My Info"](https://web.archive.org/web/20051230025602id_/http%3A//npdor.com/English/memberservices.asp). On the ["Change My Info"](https://web.archive.org/web/20051230025602id_/http%3A//npdor.com/English/memberservices.asp) page, click on "Unsubscribe" and follow the instructions. Please keep in mind that it may take up to ten business days to complete this process. 
+Registration on our site and participation in our online surveys is voluntary. You can elect to remove your e-mail address from our mailing list at any time. Once it has been removed, you will no longer receive surveys or communications from us, or be entered in, or be eligible for, future Member sweepstakes. To unsubscribe, please log in at: http://www.npdor.com and visit ["Change My Info"](https://web.archive.org/web/20060621064830id_/http%3A//npdor.com/English/memberservices.asp). On the ["Change My Info"](https://web.archive.org/web/20060621064830id_/http%3A//npdor.com/English/memberservices.asp) page, click on "Unsubscribe" and follow the instructions. Please keep in mind that it may take up to ten business days to complete this process. 
 
 **NOTIFICATION OF CHANGES**
 
