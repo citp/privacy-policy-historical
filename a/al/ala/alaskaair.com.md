@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210101829id_/http%3A//www.alaskaair.com/www2/help/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621191901id_/http%3A//www.alaskaair.com/www2/help/site/privacy.asp) for the most accurate reproduction.*
 
 # alaskaair.com Privacy Policy
 
@@ -35,7 +35,7 @@ The Alaska Airlines and Horizon Air web sites will in certain situations use [co
    
 Additionally, cookies and [action tags](http://www.alaskaair.com/www2/help/site/Cookies.asp "Action tags") from third party vendor web sites may be used to help us improve our web sites as well as offer goods or services. Action tags, may be used to anonymously identify you. At your request you may [opt out](http://www.atlasdmt.com/privacy/opting.asp "Opt out") of the use of these tags.  
    
-In addition to internal Alaska Airlines and Horizon Air transaction databases, your personal information can be stored in a My Account profile that you create. Additionally, if you have a Mileage Plan account, your information will be stored in both that system and the My Account system. The alaskaair.com Newsletter information is stored in our My Account system and with our third party newsletter vendor. You may view or update information related to your My Account profile and/or Mileage Plan account by accessing the respective sections of the web sites. However, you may not delete required fields. For questions related to updating or changing your account information, call alaskaair.com Web Support at 1-877-502-5357, or send [alaskaair.com Web Support an e-mail](https://www.alaskaair.com/www2/ssl/help/ContactUsForm.asp?mailtoName=Web%20Help%20Center&mailtoEmail=Support@Alaskaair.com "Web Support e-mail"). If you wish to change your preferences or unsubscribe from the alaskaair.com Newsletter e-mail, you may update your preferences in My Account or unsubscribe by following the link at the end of your alaskaair.com newsletter.  
+In addition to internal Alaska Airlines and Horizon Air transaction databases, your personal information can be stored in a My Account profile that you create. Additionally, if you have a Mileage Plan account, your information will be stored in both that system and the My Account system. The alaskaair.com Newsletter information is stored in our My Account system and with our third party newsletter vendor. You may view or update information related to your My Account profile and/or Mileage Plan account by accessing the respective sections of the web sites. However, you may not delete required fields. For questions related to updating or changing your account information, call Customer Care at 1-800-654-5669, or [send Customer Care an e-mail](https://www.alaskaair.com/www2/ssl/help/ContactUsForm.asp?mailtoName=Web%20Help%20Center&mailtoEmail=Support@Alaskaair.com "Customer Care e-mail"). If you wish to change your preferences or unsubscribe from the alaskaair.com Newsletter e-mail, you may update your preferences in My Account or unsubscribe by following the link at the end of your alaskaair.com newsletter.  
    
 Your My Account profile, if you create one, is protected from unauthorized use by a User ID and password that you create. It is your responsibility to protect that User ID and password. Alaska Airlines and/or Horizon Air will not be responsible for any lost, stolen or disclosed User IDs or passwords. Alaska Airlines and/or Horizon Air will never ask you for your password via e-mail, telephone or mail. The only time Alaska Airlines or Horizon Air will ask for your password is at a sign-in prompt from within an Alaska Airlines or Horizon Air domain (web address).  
    
@@ -69,7 +69,7 @@ Required fields are as follows: a unique User ID, password, and secret question 
    
 The only internal uses of personally identifiable information for children under 13 are internal operations of alaskaair.com, which include technical support and booking inquiries. For children under the age of 18, no information will be shared with our business partners.  
    
-A parent/guardian can delete their child’s My Account profile by replying to the notification e-mail they receive when their child applies for a My Account profile, or by calling our alaskaair.com Web Support at 1-877-502-5357, between 6:00 a.m. and 10:45 p.m. (PT) Monday through Friday or between 8:00 a.m. and 4:45 p.m. (PT) Saturday and Sunday.  
+A parent/guardian can delete their child’s My Account profile by replying to the notification e-mail they receive when their child applies for a My Account profile, or by calling our Customer Care at 1-800-654-5669, between 8:00 a.m. and 5:45 p.m. (PT) Monday through Friday.  
    
  **Government Disclosure**  
    
@@ -85,4 +85,4 @@ We reserve the right to modify our Privacy Policy at any time. In the event that
    
  **Privacy Policy Questions**  
    
-If you have questions about our policy, or need further assistance, contact alaskaair.com Web Support at 1-877-502-5357, or send [alaskaair.com Web Support an e-mail](https://www.alaskaair.com/www2/ssl/help/ContactUsForm.asp?mailtoName=Web%20Help%20Center&mailtoEmail=Support@Alaskaair.com "Web Support e-mail").
+If you have questions about our policy, or need further assistance, contact Customer Care at 1-800-654-5669, or [send Customer Care an e-mail](https://www.alaskaair.com/www2/ssl/help/ContactUsForm.asp?mailtoName=Web%20Help%20Center&mailtoEmail=Support@Alaskaair.com "Customer Care e-mail").
