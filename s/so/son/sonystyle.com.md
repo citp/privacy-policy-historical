@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the sonystyle.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225013929id_/http%3A//products.sel.sony.com/SEL/legal/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonystyle.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621042344id_/http%3A//products.sel.sony.com/SEL/legal/privacy.pdf) for the most accurate reproduction.*
 
 # 
 
-Online Privacy Policy
+ Privacy Policy
 Sony Electronics Inc.
                                                        Effective: June 2001
-                                                       Last Update: December 2004
+                                                       Last Update: March 2006
 Your Privacy
-At Sony we believe our online visitors have a right to know our practices regarding the
-information we may collect when you visit our Web sites and what type of information is
-collected. The guidelines contained herein apply only to your visit to the Web sites
-operated by or for Sony Electronics Inc. and the entities it controls (collectively, “SEL”).
-These sites include, but are not limited to, those that contain “sel.sony.com” and those
-that contain “sonystyle.com” in their URLs. Sites which are linked to/from these sites
-(including sites of other Sony affiliated companies (e.g., Sony Music Entertainment,
-Sony Pictures Entertainment, Sony Computer Entertainment America) and via banner
-ads) may have different policies; therefore, please review the privacy policy notices on
-those sites for details.
+At Sony, we believe you have a right to know what type of information we may collect when you interact
+with us and our practices with respect to that information. The guidelines contained herein apply only to
+information collected by or for Sony Electronics Inc. and the entities it controls (collectively, “SEL”). This
+includes, among other things, websites operated by or for SEL, most of which contain “sel.sony.com” or
+ “sonystyle.com” in their URLs. Sites which are linked to/from these sites (including sites of other
+Sony affiliated companies (e.g., Sony Music Entertainment, Sony Pictures Entertainment,
+Sony Computer Entertainment America) and via banner ads may have different policies; therefore,
+please review the privacy policy notices on those sites for details.
 While SEL does not generally require that you provide us with personally identifiable
-information in order to visit and use the SEL sites, please note that in order to participate
+information (for example, in order to visit and use the SEL sites), please note that in order to participate
 in some activities, it will be necessary for you to provide this information. If you choose
 not to provide it for those activities, you may not be able to participate in them.
 [Notice to California Residents – Your California Privacy Rights: If you are a
@@ -34,8 +32,8 @@ collects and/or stores information such as the visitor’s IP address/Domain nam
 combination and any referring sites. SEL may use several technologies to accomplish
 this. Examples of such technologies are cookies and Web beacons.
 When you visit SEL’s Web sites or advertisements appearing thereon, or use one or
-more of the SEL Web site services, we may use an industry-wide technology called
-"cookies" which stores certain information on your computer and which will allow us to
+more of the SEL Web site services, or receive emails from SEL we may use an industry-wide
+technology called "cookies" which stores certain information on your computer and which will allow us to
 
 
 customize your experience to better match your interests and preferences or to simply
@@ -50,7 +48,8 @@ usage and activities on our Web site. The information collected by SEL or reques
 from third parties through these Web beacons is in an aggregate, non-individually
 identifiable form and is used to find out more about users including demographic
 information and usage patterns for more accurate reporting and to improve the
-effectiveness of our marketing.
+effectiveness of our marketing. SEL may also itself use, or engage third parties to use, pixel
+tags or other technology to research or track your usage activities with respect to emails from us.
 SEL may ask you to provide “personal information”, meaning individually identifiable
 information such as your email address, name, mailing address, telephone number,
 social security number, credit card number, or persistent identifier (such as a customer
@@ -60,15 +59,15 @@ registration, or to order products and services using these sites. SEL may combi
 information you provide on our Web sites with information we may collect offline from
 you or from third parties so that we can more effectively tailor our site, services and
 offerings to you.
-SEL will not share the personal information you provide on the SEL Web sites
-with any other parties, except (a) to other affiliated Sony companies (i.e., (i) Sony
-Corporation, (ii) any company of which more than 50% of its outstanding shares are
+SEL will not share the personal information you provide with any other parties,
+except (a) to other affiliated Sony companies (i.e., (i) Sony Corporation,
+(ii) any company of which 50% or more of its outstanding shares are
 owned by Sony Corporation, directly or indirectly, and (iii) any company with the name
 “SONY” as a part of its trade name) who may want to contact you about products,
 services or other offerings that may be of interest to you (SEL and such affiliates being
 collectively referred to as “Sony”), (b) with your consent (see paragraph below), (c) as
 may be required by law or court order, (d) to persons or companies with whom SEL
-engages to carry out or provide support for the operations of the site or our business, or
+engages to carry out or provide support for the operations of the sites or our business, or
 (e) to appropriate third parties, including law enforcement or other government agencies,
 in connection with a criminal investigation, fraud prevention, or other legal action or if
 SEL reasonably believes it is necessary to do so to protect SEL, its customers, or the
@@ -97,16 +96,15 @@ For instructions on how to request changes to the personal information you have
 provided to SEL, please send an email to: Privacy@am.sony.com or write to us at:
 Sony Electronics Inc.
 Personal Information Management Office
-1 Sony Drive, MD T1-5
+1 Sony Drive, MD 1E4
 Park Ridge, New Jersey 07656.
 Use and Disclosure of Anonymous Aggregated Information
-SEL may also collect, aggregate and maintain anonymous information about the visitors
-to our Web sites, such as visitors hobbies, interests, purchasing habits, music
-preferences, and the like. This data can then be used to tailor SEL’s Web site content
-and advertising to deliver a better experience for our visitors. SEL may also share such
-aggregate information about our visitors with advertisers, business partners, sponsors,
-and other third parties; for example, to inform them about the percentage of male/female
-visitors or percentage of visitors within a particular age range.
+SEL may also collect, aggregate and maintain anonymous information about you, such as your hobbies,
+interests, purchasing habits, music preferences, and the like. This data can then be used to tailor SEL’s
+promotions, advertising, and communications to deliver a better experience for you. SEL may also share
+such aggregate information with advertisers, business partners, sponsors, and other third
+parties; for example, to inform them about the percentage of male/female visitors to our site or the
+percentage of visitors within a particular age range.
 Security
 SEL takes great care in maintaining the security of your personal information and in
 preventing unauthorized access to it through the use of appropriate technology and
@@ -127,29 +125,24 @@ identifiable information about you without the verifiable consent of your parent
 guardian, except as allowed by law. This may mean that you will be unable to
 participate in some activities on the sites without that verifiable consent. If a child under
 13 years of age wishes to participate in any SEL Web site activity, or wishes to take
-advantage of a product or service offering, available to children, and to do so
+advantage of a product or service offering available to children, and to do so
 necessitates the furnishing of any of the child’s personal information, please note the
 following:
-(i)     The names, addresses, telephone numbers, and email addresses of the operators
-         collecting or maintaining personal information from children through this Web site
+(i)     The name, address, telephone number, and email address of the operator
+        collecting or maintaining personal information from children through this Web site
 
 
-      are:
+      are as follows:
       Sony Electronics Inc.
-      1 Sony Drive
+      1 Sony Drive, MD 1E4
       Park Ridge, New Jersey 07656
-      Telephone: 201-930-4800
-      e-mail address: Privacy@am.sony.com
-      Sony Electronics e-Solutions Company LLC
-      155 Tice Boulevard
-      Woodcliff Lake, New Jersey 07677
       Telephone: 201-930-4800
       e-mail address: Privacy@am.sony.com
 (ii)  The types of personal information collected from children may include the name,
       email address, home address, telephone number and/or any other information
       reasonably necessary for the child to participate in a particular activity. This
       information may be collected directly and/or passively (e.g., through a web server
-      that automatically recognized and stores information such as a visitor’s IP
+      that automatically recognizes and stores information such as a visitor’s IP
       address/domain name combination).
 (iii) The information collected may be used for purposes such as fulfillment of a
       requested transaction, record keeping, marketing back to the child, or making it
@@ -174,7 +167,7 @@ following:
       Sony Electronics Inc.
       Personal Information Management Office
       1 Sony Drive
-      MD T1-5
+      MD 1E4
       Park Ridge, New Jersey 07656
 
 
@@ -196,26 +189,25 @@ If SEL desires to use a child’s information for purposes other than that for w
 parent/guardian consent was previously given, SEL will not do so without first getting the
 parent/guardian consent.
 Consent to Processing:
-By providing any personal information to the SEL Sites, all users, including without
-limitation users in the member states of the European Union, fully understand and
+By providing any personal information to SEL Sites, all persons, including without
+limitation persons in the member states of the European Union, fully understand and
 unambiguously consent to the collection and processing of such information in the
 United States of America.
- Policy Governs Use: Changes to Privacy Policy
+Policy Governs Use: Changes to Privacy Policy
 The terms of this policy will govern the use and any information collected while it is in
 place. SEL reserves the right to change this policy at any time, so please re-visit this
-page as often as you wish. In case of any material change, we will replace the "Privacy
-Policy" link on the home page of our sites with a link entitled "Updated Privacy Policy
-dated ____." Changes to this privacy policy are effective as of the stated "Last Update
-Date” and your continued use of this site on or after the Last Update date will constitute
-acceptance of, and agreement to be bound by, those changes.
+page as often as you wish. In case of any material change, we will change the "Last Update Date"
+in this privacy policy and/or post a notice on the site. Changes to this privacy policy are effective as
+of the stated "Last Update Date” and your continued use of this site on or after the Last Update Date
+will constitute acceptance of, and agreement to be bound by, those changes.
 Questions:
 If you have any questions or comments about our personal information practices or
-about this Privacy Statement, please feel free to send us an email at
+about this Privacy Policy, please feel free to send us an email at
 privacy@am.sony.com or write us at:
 Sony Electronics Inc.
 Personal Information Management Office
 1 Sony Drive
-MD T1-5
+MD 1E4
 Park Ridge, New Jersey 07656
 If you have questions regarding products or services, please click here for further
 information.
