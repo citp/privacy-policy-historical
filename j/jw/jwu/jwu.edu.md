@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the jwu.edu privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223044514id_/http%3A//jwu.edu/legal/webprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwu.edu privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621082006id_/http%3A//www.jwu.edu/legal/webprivacy.htm) for the most accurate reproduction.*
 
 # J&W legal | website privacy policy
 
   
-[legal notices](https://web.archive.org/web/20051223044514id_/http%3A//jwu.edu/legal/index.htm)
+[legal notices](https://web.archive.org/web/20060621082006id_/http%3A//www.jwu.edu/legal/index.htm)
 
 | 
 
-[](https://web.archive.org/web/20051223044514id_/http%3A//jwu.edu/)
+[](https://web.archive.org/web/20060621082006id_/http%3A//www.jwu.edu/)
 
 **Johnson & Wales University Website Privacy Policy**
 
 **Introduction**  
-It is the intent of Johnson & Wales University and its affiliates and agents ("JWU", "the University", "we" or "our") to comply in all material respects with all applicable privacy laws and, we are strongly committed to respecting and protecting your privacy. This Johnson & Wales University Privacy Policy ("Policy") applies to information that is collected through the website located at [www.jwu.edu](https://web.archive.org/web/20051223044514id_/http%3A//jwu.edu/) ("Site"). Please carefully read this Policy before using the Site and providing any Information (defined below) through the Site.
+It is the intent of Johnson & Wales University and its affiliates and agents ("JWU", "the University", "we" or "our") to comply in all material respects with all applicable privacy laws and, we are strongly committed to respecting and protecting your privacy. This Johnson & Wales University Privacy Policy ("Policy") applies to information that is collected through the website located at [www.jwu.edu](https://web.archive.org/web/20060621082006id_/http%3A//www.jwu.edu/) ("Site"). Please carefully read this Policy before using the Site and providing any Information (defined below) through the Site.
 
 **User Consent to Privacy Policy**  
 Any person accessing, browsing, or otherwise using the Site, either manually or via an automated device or program, shall be considered a "User." All Users are bound by the terms of this Policy. Users consent to the collection, use, and disclosure of personally identifiable User information and anonymous browsing information (collectively "Information") to the extent not prohibited by law. If you do not consent to this Policy, please do not access, browse, or use this Site. If you are more comfortable communicating with the University offline, feel free to contact us by mail or telephone using the contact information below.
