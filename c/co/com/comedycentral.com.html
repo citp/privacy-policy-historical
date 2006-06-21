@@ -1,7 +1,19 @@
-<!--The following is the downloaded HTML source of the comedycentral.com privacy policy that was archived on 2005-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051105053519id_/http%3A//www.comedycentral.com/help/privacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comedycentral.com privacy policy that was archived on 2006-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060621044419id_/http%3A//www.comedycentral.com/help/privacy.jhtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+
+<!-- MAG 20060612-->
+
+<!-- switch based on content type -->
+
+<!-- START: Title/Header meta Include -->	
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+<title>Comedy Central: </title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<!-- END: Header meta Include -->	
 
 <script language="JavaScript" type="text/javascript">var sections="&gateway=help&section_1=main";</script>
 
@@ -26,12 +38,14 @@ function writeCommunityModule(){};
 <script language="javascript" src="/shared/scripts/Media.js" type="text/javascript"></script>	
 <script language="javascript" src="/shared/scripts/detect_viewpoint.js" type="text/javascript"></script>
 
+<script type="text/javascript" src="/global/scripts/yeti/mtvi.js"></script>
+<script type="text/javascript" src="/global/scripts/yeti/searchstate.js"></script>
+
 <script language="javascript" type="text/javascript">
 var extraVals = '';
 extraVals = extraVals==""?extraVals:"&"+extraVals;
 var if_nt_Screen_Attr = screen.height + "x" + screen.width + "x" + screen.colorDepth;
 var if_nt_Flash = flashVersion;
-var if_nt_VPNT = VwptVETInstalled;
 
 var docURL = document.location + "";
 
@@ -43,26 +57,25 @@ var mep1;
 function setMep1(str){
 mep1 = str;
 }
-setMep1(sections + "&pageName=privacy.jhtml" + "&if_nt_login=" + if_nt_login + "&if_clientCode=" + if_clientCode + "&if_nt_userName=" + if_nt_userName + "&if_nt_bandwidth=" + if_nt_bandwidth + "&if_nt_Screen_Attr=" + if_nt_Screen_Attr + "&if_nt_zyg=" + if_nt_zyg + "&if_nt_span=" + if_nt_span + "&if_nt_demo=" + if_nt_demo + "&if_nt_era=" + if_nt_era + "&if_nt_Flash=" + if_nt_Flash + "&if_nt_VPNT=" + if_nt_VPNT + extraVals);
+setMep1(sections + "&pageName=privacy.jhtml" + "&if_nt_login=" + if_nt_login + "&if_clientCode=" + if_clientCode + "&if_nt_userName=" + if_nt_userName + "&if_nt_bandwidth=" + if_nt_bandwidth + "&if_nt_Screen_Attr=" + if_nt_Screen_Attr + "&if_nt_zyg=" + if_nt_zyg + "&if_nt_span=" + if_nt_span + "&if_nt_demo=" + if_nt_demo + "&if_nt_era=" + if_nt_era + "&if_nt_Flash=" + if_nt_Flash + extraVals);
 
 var bc="&if_nt_Browser_Combination=" + escape(window.navigator.userAgent);
 var Site='mtv'; var if_SiteID='2';
 
-</script>	
+</script>
 
 <script language="JavaScript" type="text/javascript" src="/shared/droplets/sectionsetupFiles/special_rep_calls.js"></script>
 
 <script type="text/javascript" src="/sitewide/scripts/rep.js"></script>	
 
 <script type="text/javascript">
-var remote_host = '63.123.36.10';
+var remote_host = '64.86.101.5';
 
 </script>
 
 <script type="text/JavaScript" src="/global/reporting/scripts/rep_object.js"></script>
 
 <script type="text/JavaScript" language="JavaScript">
-
 var omniCall = new ReportingCall(defaultCall);
 omniCall.siteName="ALLTRAFFIC:ComedyCentral";
 if((window.location.pathname.indexOf("/jokes/") != -1)){ 
@@ -89,6 +102,14 @@ if ( (ogt == "motherload") && (omniCall.section_1 == "about" || ocp == "feedback
 omniCall.channel = null;
 }
 
+if ( (ogt == "motherload") && (ocp == "index.jhtml" ) ) {
+omniCall.channel = null;
+}
+
+if ( (ogt == "motherload") && (ocp == "player.jhtml" ) ) {
+omniCall.channel = null;
+}
+
 if (mtvnParams.deepLink)
 omniCall.deepLink = mtvnParams.deepLink;
 
@@ -97,30 +118,17 @@ omniCall.OD_rollUp = "DETECT_PAGE";
 omniCall.channel = null;
 }
 
+try{
+//	MTVi.reporting.PartnerSearch.setTerms("");
+//	omniCall.partnerSearch=MTVi.reporting.PartnerSearch.getKeywords();
+omniCall.partnerSearch=MTVi.reporting.PartnerSearch.get("");
+}catch(e){}
+
 </script>
 
 <script language="JavaScript" src="/sitewide/scripts/omni_config.js"></script>
 
 <script type="text/JavaScript" language="JavaScript" src="/global/reporting/scripts/omni_functions.js"></script>
-
-<!-- START: Header Meta Include -->	
-
-<!-- Meta Tag Switch -->
-
-<!-- Page is NOT a COMEDIAN page -->
-
-<!-- ad path data check-->
-
-<!-- ad path data IS set: meta keywords set to adPathData -->
-
-<meta name="description" content="Comedy Central , Help">
-<meta name="keywords" content="Comedy Central , Help">	
-
-<!-- META tag param added to description and keywords tag -->
-
-<!-- END: Header Meta Include -->	
-
-<title>Comedy Central - Help</title>
 
 <link rel="stylesheet" href="/sitewide/styles/global.css" type="text/css">	
 
@@ -136,31 +144,24 @@ omniCall.channel = null;
 <script src="/sitewide/scripts/global.js" type="text/javascript"></script>
 
 <script language="javascript" src="/sitewide/scripts/os_detect.js"></script> 
-
 <script language="javascript" src="/shared/scripts/flash_detect.js"></script>
 <script language="javascript" src="/sitewide/scripts/detect_broadband.js"></script>
-
-<script>
+<script>	
 var userAgent = window.navigator.userAgent;	
-var isFirefox = (userAgent.indexOf("Firefox/") >=0) ? true : false;
-var firefoxVersion = userAgent.substring( (userAgent.indexOf("Firefox/") + 8), ((userAgent.indexOf("Firefox/") + 8) + (userAgent.length-1))).replace(/\./g, "");
-var firefoxMeetsRequirements = (firefoxVersion.indexOf("107") >=0) ? true : false;
-
+var isFirefox = checkFirefox().isFirefox;
+var firefoxVersion = checkFirefox().version;
+var firefoxMeetsRequirements = checkFirefox().meetsRequirements;
 var checkState=getBroadbandVideoState().state; // global state variable for page launch distinction	
-// if cookie not set 
-if((getCookie("motherloadEnabled")==null)||(getCookie("motherloadEnabled")==undefined))
-{
-if (checkState=="ok")setCookie('motherloadEnabled',true,'730'); // ie users must use motherload
-else if (checkState=="firefoxOk")setCookie('motherloadEnabled',false,'730'); // firfox 1.0.7 users must elect to use ML on the ML launch page
-else if(isMac)setCookie('motherloadEnabled',false,'730'); // global variable isMac set in /sitewide/scripts/os_detect.js ** set two year cookie to not launch motherload
-else setCookie('motherloadEnabled',false,'730');
-}//end if
-
+setMotherloadCookie();
 var motherloadEnabled = getCookie("motherloadEnabled"); // global variable for page launch distinction
+var activeXInstalled = isActiveXInstalled();
 </script>
 
 <script>
+/* set header flag for absolute paths to videos/flipbooks in launchMedia() call */
 window.hasCCHeader=true;
+/* Make sure no other site is pulling our site in via an iFrame */
+testWindowLocation();
 </script>
 
 </head>
@@ -171,18 +172,19 @@ window.hasCCHeader=true;
 
 <!-- Omniture Call -->
 <div style="display:none;">
-<script type="text/javascript" language="javascript" src="/global/reporting/scripts/s_code_remote.js"></script><img name="s_i_viacomedycentralrl" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/viacomedycentralrl/1/G.7-PD-R/s91384160152844?[AQB]&amp;ndh=1&amp;t=24/1/2020%204%3A26%3A38%201%200&amp;pageName=/help/main/privacy.jhtml&amp;g=https%3A//web.archive.org/web/20051105053519id_/http%253A//www.comedycentral.com/help/privacy.jhtml&amp;ch=help&amp;cc=USD&amp;h1=help/main/privacy.jhtml&amp;c4=0&amp;c21=ALLTRAFFIC%3AComedyCentral&amp;c25=-1&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script type="text/javascript" language="javascript" src="/global/reporting/scripts/s_code_remote.js"></script><img name="s_i_comedycentral" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/comedycentral/1/G.7-PD-R/s08763215053242?[AQB]&amp;ndh=1&amp;t=30/0/2020%207%3A58%3A39%204%200&amp;pageName=/help/main/undefined&amp;g=https%3A//web.archive.org/web/20060621044419id_/http%253A//www.comedycentral.com/help/privacy.jhtml&amp;cc=USD&amp;h2=help/main&amp;c4=0&amp;c25=-1&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 </div>
 
-<div style="display:none;"><iframe width="1" height="1" id="omniFrame" name="omniFrame"></iframe></div>
+<!-- this is for motherload reporting--- style=display:none causes firefox JS errors-->
+<div style="visibility:hidden;width:0px;height:0px"><iframe width="1" frameborder="0" height="1" id="omniFrame" name="omniFrame"></iframe></div>
 <!-- /body_element.jhtml -->
 
 <div align="center" style="width:750px;margin-top:4px;">
 
 <script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
-var ad = '<SCRIPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/index;comedycentral=ad;dcopt=ist;dcove=o;pagename=privacy;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';bps='+if_nt_bandwidth+';gateway=help;section_1=main;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';era='+if_nt_era+';bps='+if_nt_bandwidth+';fla='+if_nt_Flash+';sz=728x90;tile=1;ord=' + ord + '?"><\/SCRIPT>';
+var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/index;comedycentral=ad;dcopt=ist;dcove=o;pagename=privacy;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';bps='+if_nt_bandwidth+';gateway=help;section_1=main;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';era='+if_nt_era+';bps='+if_nt_bandwidth+';fla='+if_nt_Flash+';u=|comedycentral-ad|dcopt-ist|dcove-o|pagename-privacy|zyg-'+if_nt_zyg+'|span-'+if_nt_span+'|demo-'+if_nt_demo+'|bps-'+if_nt_bandwidth+'|gateway-help|section_1-main|zyg-'+if_nt_zyg+'|span-'+if_nt_span+'|demo-'+if_nt_demo+'|era-'+if_nt_era+'|bps-'+if_nt_bandwidth+'|fla-'+if_nt_Flash+';sz=728x90;tile=1;ord=' + ord + '?"><\/SCR' + 'IPT>';
 document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/index;comedycentral=ad;dcopt=ist;dcove=o;pagename=privacy;zyg=;span=;demo=;bps=;gateway=help;section_1=main;zyg=;span=;demo=;era=;bps=;fla=-1;sz=728x90;tile=1;ord=813816934280799500?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/index;comedycentral=ad;dcopt=ist;dcove=o;pagename=privacy;zyg=;span=;demo=;bps=;gateway=help;section_1=main;zyg=;span=;demo=;era=;bps=;fla=-1;u=|comedycentral-ad|dcopt-ist|dcove-o|pagename-privacy|zyg-|span-|demo-|bps-|gateway-help|section_1-main|zyg-|span-|demo-|era-|bps-|fla--1;sz=728x90;tile=1;ord=776678435505751200?"></script>
 
 </div>
 
@@ -193,8 +195,9 @@ document.write(ad);
 <div class="left">
 
 <div id="header_textAd">
-<div class="header_font" align="center" style="padding-top:2px;"><a href="/adsetup/http:www.comedycentral.com/motherload" class="nticker" target="_parent">Watch big, fast and free video on MotherLoad.</a>
-<br><br></div>	
+
+<div class="header_font" align="center" style="padding-top:2px;"><a href="http://ad.doubleclick.net/clk;30302849;8320611;x?http://www.u-starvin.com" target="_blank"> AD: Need food now? Make some cheesy Kraft Easy Mac Cups.</a><br><br></div>
+
 </div>	
 
 <div id="header_flashNav">	
@@ -237,6 +240,29 @@ m.showMedia();
 }
 </script><a href="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&amp;P5_Language=English"><img src="/sitewide/images/no_flash_alt/getFlash_topNav.gif" width="400" height="140" border="0"></a>
 
+<!-- SEO121905 -->
+<noscript>
+
+<a href="/tv_schedule/index.jhtml">tv schedule</a><a href="/shows/south_park/index.jhtml">10:00 PM South Park</a><a href="/shows/dog_bites_man/index.jhtml">10:30 PM Dog Bites Man</a><a href="/shows/the_daily_show/index.jhtml">11:00 PM The Daily Show with Jon Stewart</a><a href="/shows/the_colbert_report/index.jhtml">11:30 PM The Colbert Report</a>
+
+<a href="/shows/index.jhtml">shows</a><a href="/shows/dog_bites_man/index.jhtml">Dog Bites Man</a><a href="/shows/showbiz_show/index.jhtml">Showbiz Show</a><a href="/shows/the_daily_show/index.jhtml">The Daily Show</a><a href="/shows/the_colbert_report/index.jhtml">The Colbert Report</a><a href="/shows/mind_of_mencia/index.jhtml">Mind of Mencia</a>
+
+<a href="javascript:launchMedia({itemId:'70559', url:'/whats_new/', linkType:'video'})">videos</a><a href="javascript:launchMedia({ml_collection:'69576', url:'/whats_new/', linkType:'video'})">MotherLoad</a><a href="javascript:launchMedia({ml_collection:'24229', url:'/whats_new/', linkType:'video'})">The Daily Show Headline</a><a href="javascript:launchMedia({ml_collection:'69576', url:'/whats_new/', linkType:'video'})">Dog Bites Man</a><a href="javascript:launchMedia({ml_collection:'61514', url:'/whats_new/', linkType:'video'})">Showbiz Show</a><a href="javascript:launchMedia({ml_collection:'24983', url:'/whats_new/', linkType:'video'})">Colbert Report</a>
+
+<a href="/games/index.jhtml">games</a><a href="/sitewide/game_player/index.jhtml?game=69789">Redneck Games</a><a href="/sitewide/game_player/index.jhtml?game=69886">Showbiz: Brangelina</a><a href="/sitewide/game_player/index.jhtml?game=63782">Showbiz: Walk it Off</a><a href="/sitewide/game_player/index.jhtml?game=61017">Mencia Madness</a><a href="/sitewide/game_player/index.jhtml?game=14579">TDS NewsHunter 2</a>
+
+<a href="/timewasters/index.jhtml">timewasters</a><a href="http://ccinsider.comedycentral.com">Comedy Central Insider Blog</a><a href="/shows/test_pilots/index.jhtml">Test Pilots</a><a href="/newsletters/index.jhtml">Email Newsletters</a><a href="/whats_new/index.jhtml">What's New</a><a href="/rss/index.jhtml">RSS Feeds</a>
+
+<a href="/comedians/index.jhtml">comedians</a><a href="/comedians/browse/index.jhtml">Comedians A-Z</a><a href="/shows/the_clip_joint/index.jhtml">Clip Joint</a><a href="/shows/comedy_central_presents/index.jhtml">Comedy Central Presents</a><a href="/shows/comedy_central_records/index.jhtml">Comedy Central Records</a><a href="/shows/stand_up_nation_greg_giraldo/index.jhtml">Stand-Up Nation</a>
+
+<a href="/jokes/index.jhtml">jokes</a><a href="http://jokes.comedycentral.com/joke_of_day.aspx">Joke of the Day</a><a href="http://jokes.comedycentral.com/search/search.asp">Search Jokes</a><a href="/wireless/offering.jhtml?f=jokeoftheday.xml&fa=1&s=1">Jokes by Phone</a><a href="/members/newsletter_list.jhtml">Jokes by Mail</a><a href="http://jokes.comedycentral.com/submit/">Submit a Joke</a>
+
+<a href="/mobile/index.jhtml">mobile</a><a href="/mobile/ringtones/index.jhtml">Ringtones</a><a href="/mobile/wallpapers/index.jhtml">Wallpapers</a><a href="/mobile/text_alerts/index.jhtml">Text Alerts</a><a href="/mobile/games/index.jhtml">Games</a><a href="/mobile/video/index.jhtml">Video</a>
+
+<a href="/movies/index.jhtml">movies</a><a href="/movies/on_the_air/index.jhtml">On the Air</a><a href="/movies/deeper_into_movies/index.jhtml">Deeper Into Movies</a><a href="/movies/trailers_and_clips/index.jhtml">Trailers &amp; Clips</a><a href="/movies/index.jhtml">All Movies</a><a href="/events/clicksweeps/index.jhtml">Click Sweepstakes</a>
+
+</noscript>
+
 </div>
 <div id="search_field">
 <div class="" style="margin:16px 0px 0px 4px;">
@@ -263,20 +289,19 @@ document.searchComedy.submit();
 
 </div>
 <div class="right">
-
 <div id="header_shop">
 
-<div><a target="__newwin_" href="http://shop.comedycentral.com/entry.point?source=COM_AD:HP:505_SHOP&amp;location=/index.jhtml"><img src="/sitewide/images/shop/shopmodule_header.gif" width="177" height="27" alt="" border="0" style="margin-left:36px;"></a></div>
+<div><a target="__newwin_" href="http://shop.comedycentral.com/" rel="nofollow"><img src="/sitewide/images/shop/shopmodule_header.gif" width="177" height="27" alt="" border="0" style="margin-left:36px;"></a></div>
 <div class="buyNow_cartImg">
-<a target="__newwin_" href="http://shop.comedycentral.com/entry.point?source=COM_AD:HP:505_SHOP&amp;location=/index.jhtml"><img src="/sitewide/images/shop/shopmodule_cart.gif" width="36" height="52" alt="" border="0"></a></div>
+<a target="__newwin_" href="http://shop.comedycentral.com/" rel="nofollow"><img src="/sitewide/images/shop/shopmodule_cart.gif" width="36" height="52" alt="" border="0"></a></div>
 
-<div onmouseout="this.className='buyNow_module';" onmouseover="this.className='buyNow_module_over';" class="buyNow_module" onclick="window.open('http://shop.comedycentral.com/entry.point?entry=2099393&amp;source=COM_AD:2099393:905_DT1_module','newComedyWindow','');">
+<div onmouseout="this.className='buyNow_module';" onmouseover="this.className='buyNow_module_over';" class="buyNow_module" onclick="window.open('http://shop.comedycentral.com/Chappelle-s-Show--The-Lost-Episodes---Uncensored-DVDs_stcVVproductId5218512VVcatId426836VVviewprod.htm','newComedyWindow','');">
 <div class="section">
 <div class="buyNow_bannerLeft">
 <img style="margin-top:36px;" border="0" alt="" height="68" width="36" src="/sitewide/images/shop/shopmodule_bannerLeft.gif"></div>
 <div class="buyNow_bannerCenter">
-<img style="margin-top:11px;" border="0" height="75" width="75" src="/sitewide/header_footer/shop/images/DT-Beauty.gif" alt="UNCENSORED! Free Shipping!"><br>
-<img alt="" border="0" height="18" width="75" src="/sitewide/images/shop/shopmodule_ordernow.gif"><br>
+<img style="margin-top:11px;" border="0" height="75" width="75" src="/sitewide/header_footer/shop/images/chappelle.gif" alt="It's finally here, with an hour of never-aired bonus material! FREE Shipping!"><br>
+<img alt="" border="0" height="18" width="75" src="/sitewide/images/shop/shopmodule_buynow.gif"><br>
 </div>
 <div class="buyNow_bannerRight">
 <img style="margin-top:12px;" border="0" alt="" height="92" width="11" src="/sitewide/images/shop/shopmodule_bannerRight.gif"><br>
@@ -284,9 +309,9 @@ document.searchComedy.submit();
 </div>
 <div class="section_2">
 <div class="modPadding">
-<div class="buyNow_title">DRAWN TOGETHER: SEASON 1 DVD<br>
+<div class="buyNow_title">CHAPPELLE's SHOW: THE LOST EPISODES - UNCENSORED DVD<br>
 </div>
-<div class="buyNow_desc">UNCENSORED! Free Shipping!<br>$22.99<br>
+<div class="buyNow_desc">It's finally here, with an hour of never-aired bonus material! FREE Shipping!<br>$19.99<br>
 </div>
 </div>
 </div>
@@ -300,7 +325,7 @@ document.searchComedy.submit();
 <table width="750" id="container" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td width="10" style="padding:0px;" bgcolor="#72A5C5"><img src="/sitewide/images/spacer.gif" width="10" alt="" border="0"><br></td>
-<td width="740" align="left" valign="top">
+<td width="740" align="left" valign="top" class="pageContentBG">
 
 <div width="740" height="7" style="background-color:#72A5C5;"><img src="/help/images/extra_d1_top.gif" width="740" height="7" alt="" border="0"><br></div>
 
@@ -309,266 +334,118 @@ document.searchComedy.submit();
 <div id="content_duplex" style="width:574px;"><span class="text">
 <img src="/help/images/extra_privacy.gif" width="504" height="175" alt="" border="0" style="margin-left:6px;"><br><br>
 <div class="copy" style="padding:12px;">
-<span class="centralTitle">EFFECTIVE: August 4, 2005<br><br>PRIVACY POLICY/YOUR CALIFORNIA PRIVACY RIGHTS</span> 
-<br><br><span class="central">This is the official Privacy Policy for ComedyCentral.com, 
-the official website for Comedy Central, a cable television and internet 
-programming service (the "Comedy Central Site," "Site," "we," "us," and "our"). 
-The Comedy Central programming service is owned by Comedy Partners, a wholly-owned
-division of MTV Networks ("MTVN"), which is a division of Viacom International, Inc.
-(collectively, "Parent Companies"). This Privacy Policy governs only the personally
-identifiable information ("Personal Information") collected by this Site and does 
-not cover any such information collected for any other purpose, any other Comedy 
-Partners or MTVN programming service, or by its Parent Companies, corporate affiliates,
-or any other company, unless specifically stated. 
+<span class="centralTitle">COMEDY CENTRAL PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS</span> 
+<br><br><span class="central">This is the official privacy policy ("Privacy Policy") for ComedyCentral.com, the official website for Comedy Central, a cable television ("Comedy Central Channel") and Internet programming service ("Comedy Central Site," "Site," "we," "us," or "our"). The Comedy Central Channel and this Comedy Central Site are owned by Comedy Partners, a wholly-owned division of MTV Networks ("MTVN"), which is a division of Viacom International Inc. (collectively, "Parent Companies"). This Privacy Policy governs only the personally identifiable information ("Personal Information") collected by this Site and does not cover any such information collected in any other manner or for any other purpose, any other MTVN programming channel, MTVN's "Jobhunt" website, by the Parent Companies, corporate affiliates, or any other company, unless specifically stated.<br></span>
+<br><br><span class="central"><strong>Overview: This Privacy Policy is intended to explain our privacy practices and inform you as to: </strong>
+<ul>
+<li>The kinds of Personal Information we collect from users of the Site and how that information is collected;</li> 
+<li>How we use your Personal Information; </li>
+<li>The circumstances under which we disclose Personal Information to third parties; </li>
+<li>How you can access, update or delete any Personal Information collected about you by us; and</li>
+<li>The mechanisms we have implemented to protect your Personal Information.</li>
+</ul>
+<br></span>
+<br><br><span class="central">This Site is offered and made available only to users 13 years of age or older who reside in the United States of America, it territories and possessions ("U.S"). <strong>If you are not yet 13 years old, or do not reside in the U.S., please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information.</strong> This Privacy Policy is a part of the terms and conditions which are set forth in our <a href="/help/terms.jhtml"><u>Terms of Use Agreement</u></a>. Both the Privacy Policy and Terms of Use Agreement are legally binding on all users. We reserve the right to revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective to you immediately upon posting. Notice of material changes to either document will be posted on the Site's homepage. However, we encourage you to check this Privacy Policy and Terms of Use Agreement often for updates. We may also e-mail you about these changes.<br></span>
+<br><br><span class="central">We are committed to protecting our users' privacy. Keeping the Personal Information you share with us on the Site secure and ensuring your understanding of how we collect, use, disclose and maintain your Personal Information is important to us. We maintain reasonable physical, electronic and procedural safeguards to protect your information and while no data transmission over the Internet is 100% secure from intrusion, we have used and will continue to use commercially reasonable efforts to ensure the protection of your Personal Information. <br></span>
 
-If you do not agree with this Privacy Policy, please do not participate in
-the Site's online activities and services that require you to provide your Personal
-Information. (The type of Personal Information collected is listed below.) This 
-Privacy Policy is incorporated by reference as part of our <a href="/help/terms.jhtml">Terms of Use Agreement</a> 
-which sets forth the terms and conditions that you may access this Site. 
-Your continued participation on this Site indicates your acceptance of this 
-Privacy Policy and of the collection, use, disclosure, management, and storage
-of your Personal Information as described below. We may from time to time,
-transfer or merge any Personal Information collected off-line to our online 
-databases or store off-line information in an electronic format. We may also combine
-Personal Information we collect online with information available from other sources,
-including information received from our corporate affiliates, advertisers, sponsors,
-promotional partners, or marketing companies. This Privacy Policy covers all such Personal 
-Information and will remain in full force and effect as long as you are a user of the Site. 
-We reserve the right to revise this Privacy Policy at any time by updating this posting 
-without advance notice to you. Such revisions shall be effective to you immediately 
-upon posting. Therefore, we encourage you to check this Privacy Policy often. 
-<br></span> 
-<br><span class="central">We gather certain Personal Information that you provide to us, 
-some passively and some actively, and we want to ensure that all users of the Comedy Central 
-Site are aware of exactly how and for what purpose that your Personal Information is being 
-used. We believe that the information you provide to us is essential to your enjoyment and 
-successful use of the Comedy Central Site. Our collection of your Personal Information enables 
-us to provide you with a personalized web experience, and assists our sales team and advertisers
-in efficiently reaching an appropriate audience. The information we request is the minimum 
-we believe necessary to achieve this goal.<br></span> 
 <br>
 
 <span class="centralTitle"><u>YOUR CALIFORNIA PRIVACY RIGHTS</u></span> 
-<br><br><span class="central">Residents of the State of California that have an established business relationship with a company conducting business in California, under a new provision of the California Civil Code, have the right to request from that company a list of all third parties to which the company has disclosed Personal Information to during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an Opt-out or Opt-in choice for use of Personal Information by third parties (such as advertisers or certain affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. 
-
-ComedyCentral.com qualifies for the alternative option; it has a comprehensive privacy policy and provides you with details on how you may either Opt-out or Opt-in to the use of your Personal Information disclosed to third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
-
-If you are a California resident and have an established business relationship with us and wish to receive information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Send email requests to our Privacy Administrator at <a href="mailto:privacy@comedycentral.com"><strong>privacy@comedycentral.com</strong></a> or you may contact us via postal mail at: 
+<br><br><span class="central">Residents of the State of California, under a new provision of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if the company has a privacy policy that gives either an Opt-out or Opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. <br></span>
+<br><br><span class="central">ComedyCentral.com qualifies for the alternative option; it has a comprehensive privacy policy and provides you with details on how you may either Opt-out or Opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. <br></span>
+<br><br><span class="central">If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Send an email to the Privacy Administrator at <a href="mailto: privacy@comedycentral.com"><u>privacy@comedycentral.com</u></a>, or you may contact us via postal mail at: <br></span>
 <p>
-<strong>comedycentral.com<br>
+<strong>ComedyCentral.com<br>
 1775 Broadway<br>
-New York, NY, 10019<br>
-Attn: Your California Privacy Rights c/o Privacy Administrator </strong></p><p>
+New York, NY 10019<br>
+Attn: Your California Privacy Rights<br>
+c/o Privacy Administrator</strong></p>
 
-<strong>For requests sent via email, you must put the statement "Your California Privacy Rights" in the subject field of your email. All requests sent via postal mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request.</strong> For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) <strong>We will not accept requests via the telephone or by facsimile</strong>. We are not responsible for notices that are not labeled or sent properly, or do not have complete information. 
+<br><br><span class="central"><strong>All requests sent via postal mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request.</strong> For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) <strong>We will not accept requests via the telephone or by facsimile.</strong> We are not responsible for notices that are not labeled or sent properly, or do not have complete information. <br></span>
+<br><br><span class="central">To all other users of this Site, if you have other questions about this Privacy Policy, please contact our Privacy Administrator at <a href="mailto:privacy@comedycentral.com"><u>privacy@comedycentral.com</u></a> or:<br></span>
 
-To all other users of this Site, if you have other questions about this Privacy Policy, please contact our Privacy Administrator at <a href="mailto:privacy@comedycentral.com">privacy@comedycentral.com</a> or:</p><p>
-
-<strong>comedycentral.com<br>
+<p>
+<strong>ComedyCentral.com<br>
 1775 Broadway<br>
-New York, NY, 10019<br>
-Attn: Privacy Administrator</strong> <br>
-
- 
-<br>
+New York, NY 10019<br>
+Attn: Privacy Administrator</strong></p>
 
 <br><span class="centralTitle">GENERAL PRIVACY INFORMATION</span><br>
-<span class="central">This Site is offered and made available only to users 18 years of age 
-or older who reside in the United States of America (U.S.). If you are not yet 18 years old, 
-or do not reside in the United U.S., please discontinue using the Site immediately, or if, 
-for any reason, you do not agree with this Privacy Policy, please discontinue using the Site 
-immediately. This Site is designed and targeted to U.S. audiences and is governed by and 
-operated in accordance with the laws of the U.S. We make no representation that this Site 
-is operated in accordance with the laws of, or governed by, other nations. By your 
-participation in our Site activities, you certify that you are at least 18 years of age 
-and a resident of the U.S. If you are located in the European Union or elsewhere outside 
-of the U.S. and you participate in activities on this Site contrary to our policy that only 
-U.S. residents are eligible for certain activities, you do so at your own risk and initiative, 
-and are responsible for compliance with any applicable local laws. Please be aware that 
-any Personal Information you transfer to us will be transferred to the U.S and subject to 
-U.S. law. By using this Site, participating in any Site activities, and/or providing us 
-with your Personal Information, you consent to this transfer of Personal Information to 
-the U.S., and waive any claims that may arise under your own national laws.</span><br> 
-<br>
-<span class="central">All users of the Site are required to provide true, current, complete and 
-accurate Personal Information when prompted and we will reject and delete any entry that 
-we believe in good faith to be false, fraudulent, or inconsistent with this Privacy Policy.</span>
-<br> 
+<br><br><span class="central">This Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S. We make no representation that this Site is operated in accordance with the laws or governed by other nations. By your participation in our Site activities, you certify that you are at least 13 years of age and a resident of the U.S. If you are located in the European Union or elsewhere outside of the U.S. and you participate in activities on this Site contrary to our policy that only U.S. residents are eligible for certain activities, you do so at your own risk and initiative, and are responsible for compliance with any applicable local and national laws. Please be aware that any Personal Information you transfer to us will be transferred to the U.S and subject to U.S. law. By using this Site, participating in any Site activities, and/or providing us with your Personal Information, you consent to this transfer of Personal Information to the U.S., and waive any claims that may arise under your own local and national laws. All users of the Site are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false, fraudulent, or inconsistent with this Privacy Policy.<br></span> 
+<br><br><span class="central">Your continued participation on this Site indicates your acceptance of this Privacy Policy and of the collection, use, disclosure, management and storage of your Personal Information as described below. We may from time to time, transfer or merge any Personal Information collected off-line to our online databases or store off-line information in an electronic format. We may also combine Personal Information we collect online with information available from other sources, including information received from our corporate affiliates, marketing companies, or advertisers, promotional partners, and sponsors (collectively, "Advertisers"). This Privacy Policy covers all such Personal Information and will remain in full force and effect as long as you are a user of the Site or a participant in our features and activities.</span><br> <br> 
+<br><br><span class="central"><strong>Collection and Use of Personal Information:</strong> When we use the term "Personal Information" we mean information such as your first/middle initial or name and last name, street address, town or city, state, zip code, telephone number, instant-messenger nickname, blog or other personal website URL, date of birth, e-mail address and any other information that would allow someone to identify you or contact you. Personal Information also includes information about your personal preferences, survey responses and your transactions or relationship with us, if you have been a customer or you have provided this type of information to any of the MTVN family of companies. For example, if you order any of our various merchandise or goods ("Products"), in addition to your name and contact information, we will also collect and maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number, and information about your computer's internet address and web site which may have referred or directed you to the Site (e.g., the referring URL). Your credit card or debit card number is classified as Sensitive Personal Information and is collected via a secure transmission.<br> </span>
+<br><br><span class="central">We collect Personal Information about you when you visit the Site and input information, whether you are registering to use the Site, enrolling or signing up for features and functions, participating in promotions, ordering or purchasing Products or in the course of any other exchanges of information, transactions and activities. We may use the information we obtain from you, including Personal Information, to tailor your experience on the Site, to display content we think may be of interest to you, or to let us customize what you see when you visit the Site according to your preferences.<br> </span>
+<br><br><span class="central">It is your responsibility to give us current, complete, truthful, and accurate information and to keep the Personal Information that you provide us up to date. <strong>We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or you fail to update the information you give us.</strong><br> </span>
+<br><br><span class="central">You are solely responsible for maintaining the strict confidentiality of your user name and password and for any changes, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so. You, and not us, are solely responsible and liable for your activity, behavior, use and conduct on the Site and for any use of the Site or any other activity or conduct in connection with the Site, by any others who use your user name or password, unless and until you notify us that your user name or password may have been compromised, misappropriated or improperly taken, or used by another party. Bear in mind that when you submit information to us, it does not guarantee that we will permit you to use any or all of the features of functions of the Site.<br> </span>
 
-<br><span class="centralTitle">1. What data does Comedy Partners collect?<br>
-</span><span class="central">1. To access the Comedy Central Site, you do not have 
-to provide any Personal Information. However, certain features of the Comedy Central Site 
-do request Personal Information before granting access: </span></p><p>
+<br><br><span class="central">
+<p><strong>a. Collection of Personal Information During Registration.</strong> To register as member of ComedyCentral.com, you are required to select a user name and password, plus email address, gender, date of birth and zip code. Additional Personal Information requested during the registration process (but not required) may include, but is not limited to, first and last name, cable/satellite provider, ethnic information, and annual income. We will allow you to change your password, as well as any Personal Information or Sensitive Personal Information you have given us in order to keep this information current. Among other things, this information helps us securely identify you as a registered or permitted user of those features and functions. Certain Personal Information, such as your user name and date of birth, cannot be changed.<br><br>All member benefits are free. You will also have an option to subscribe to a selection of free email newsletters by opting-in on the registration page. If you are a registered user, you acknowledge, understand and hereby agree that you are giving us your consent to track activities and your use of the Site and its functions and features, in connection with your registration. You also agree to this Privacy Policy and our Terms of Use.</p>
+<p><strong>b. Collection of Personal Information During Registration or In Connection with Certain Features and Functions.</strong> During registration (and possibly at certain other times to enable your use of other features or functions or for security purposes), you will be required to provide us with certain information about you in order for us to allow you to use the features and functions of the Site, including chat rooms, message boards, electronic mail services, messaging services, auctions, shopping, registration and member profile pages.
+</p><ol><li>The "Submit a Joke" feature on this Site does not require you to be a registered member. You may share a joke with us by submitting your name, and email address.</li>
+<li>If you wish to participate in the chat features offered on this Site, you will be asked to create a nickname or pseudonym and password to be used when logging into the chat room as well as for your first and last name, e-mail address, gender, certification of age 18+, and zip code. Providing your real name is required and omitting this information in the registration form will not allow you to access the chat features. Your real name will not be disclosed to third parties, except for the circumstances detailed below in section (d). If you choose to post your real name, you acknowledge, understand and agree that we assume no responsibility for the collection, use or misuse of your name which would be publicly accessible information to other visitors to the Comedy Central Site.</li>
+<li>The Comedy Central Site maintains public message boards. Posting to these message boards requires you to register and provide your first and last name, e-mail address, gender, certification of age 18+, and zip code. Providing your real name is required and omitting this information in the registration form will not allow you to access the message board features. Your real name will not be disclosed to third parties, except for the circumstances detailed in the "Disclosure to Third Parties" section below. </li>
+<li>When posting to these message boards, we encourage you to do so under a nickname or pseudonym. If you choose to post your real name, you acknowledge, understand and agree that we assume no responsibility for the collection, use or misuse of your name which would be publicly accessible information to other visitors to the Comedy Central Site.</li>
+<li>The Comedy Central Site has a newsletter distributed via e-mail. If you choose to subscribe to this feature, you must provide a valid e-mail address. Your e-mail address will be used for the distribution of the newsletter and any promotions or marketing that we feel may be of interest to you and will not be divulged to any third party, with the exceptions as detailed below. To unsubscribe from our newsletter, please review our <a href="/help/faq.jhtml#whatnewsletters"><u>help section on newsletters</u></a>.</li>
+<li>Occasionally, we will request you to fill out a user survey. Such surveys are voluntary, but we hope that you will participate. User participation in surveys allows us to better understand the demographics and interests of our users. Your responses in combination with the responses of our other users help us to improve the Comedy Central Site and attract the valued sponsors and advertisers that help us bring you the features and activities you enjoy. If and when we choose to share user information collected from surveys, we will do so only in aggregate form such that a third party will not be able to identify any individual user.</li>
+<li>The Site has a newsletter distributed via e-mail. If you choose to subscribe to this feature, you must provide a valid e-mail address. Your e-mail address will be used for the distribution of the newsletter and any promotions or marketing that we feel may be of interest to you and will not be divulged to any third party, with the exceptions as detailed below in the Section titled "Disclosure to Third Parties." To unsubscribe from our newsletter(s), please review our <a href="/help/faq.jhtml#whatnewsletters"><u>help section on newsletters</u></a>. </li>
+<li>The Site collects the following Personal Information from interested persons that wish to submit questions to air on the "Too Late with Adam Carolla" late-night television show: first/last name, date of birth, telephone number, city, state, and an email address. Users are also asked to select a "Topic" and submit their question or comment. The producers of the program will contact a person whose question is under consideration for airing on the television show by telephone to verify the identity of the person submitting the question and get background information. Only persons who are 18 years of age or older are eligible to participate on the cable television show and any person that we or a producer believes is underage will be terminated from any participation in this feature. </li>
+</ol>
+<p></p>
+<p><strong>c. Collection of Personal Information In Connection with Contests and Sweepstakes.</strong> Membership in ComedyCentral.com is not always required to enter contests and sweepstakes. There may be a separate registration process which will require the submission of your first and last name, street address, city, state and zip code, email address, telephone number and age or date of birth. Additional Personal Information may be requested depending on the specific contest or sweepstakes, but submission of such information may be optional. The contest or sweepstakes entry page will provide the specific requirements. If you are identified as a winner, we will also request your Social Security Number for IRS reporting purposes if your prize is valued at $600.00 or more (U.S. dollars). We may disclose your Personal Information (except for SSN) collected from contests and sweepstakes entrants with Advertisers in connection with certain online contests and sweepstakes. In each such case, we will notify potential entrants when Personal Information will be supplied to a third party, and the identity of such third party, at the time entrant information is collected. You will have the opportunity to opt-in to special promotions or offers from our generous Advertisers.</p>
+<p><strong>d. Collection of Personal Information in Connection with Co-Branded Contests and Promotions with IFILM.</strong> Comedy Central may feature contests and special promotions in collaboration with IFILM (an MTVN affiliated Internet programming service) that will provide opportunities for viewers to submit original video programming for consideration to air on the Comedy Partners programming services and activities and/or be displayed or promoted on this Comedy Central Site or any other video distribution platforms. Submissions can be made either through IFILM's content-submission platform or via postal mail. Personal Information requested for the submission of videos may include name, home address, gender, date of birth, email address, telephone number, and other profile information. We also reserve the right to request additional Personal Information if your video clip, in whole or in part, is selected by Comedy Central as a finalist or winner of a contest or promotion. For additional information on video submission requirements, you must review the Official Rules and/or Additional Terms for the specific contest or promotion. </p>
+<p><strong>e. Use of Personal Information In Connection with Promotions and Offers; Opt Out Procedures.</strong> We may contact website users that have registered or participated in various events by email or text messaging to promote the Comedy Central Channel, this Site, or send offers for the purchase of goods or services that may be of interest to users of this Site. You may "opt out" of receiving marketing and promotional e-mails or text messages from us by using the opt-out mechanism that is contained in an email. However, we will continue to contact you via email for administrative or informational purposes, including follow-up messages regarding the administration of your account, contests you have entered or other transactions you have undertaken.</p> 
+<p>In the event that Comedy Central unknowingly sends an email or text message to a child (a person under the age of 13 years) who has registered on the Site in violation of the Site's Terms of Use Agreement, the child or the child's parent or legal guardian always have the right to unsubscribe from receiving future emails or text messages via the unsubscribe (opt-out) mechanism contained in the email or message, or to request termination of the child's registration on the Site. The same is true for the parent legal guardian of a minor (a person under the age of 18 years old). Click on "Delete My Account" listed under "Change Preferences" in the left hand nav.</p>
+<p><strong>f.	Sharing of Aggregate Information with Third Parties.</strong> Some of the aggregate customer data we collect may be shared with Advertisers, multiple system cable operators and other business partners of the Comedy Central Channel or MTVN, but we do not give any Personal Information to them as part of the relationship except as described in this Privacy Policy. Use of their tracking technology is subject to their own privacy policies. For more information about these third party servers and how to "opt out" of the ad-serving cookie, please <a href="/help/faq.jhtml#whatcookies"><u>click here</u></a>.</p><br></span> 
 
-a. If you wish to participate in the chat features offered on this Site, you will be 
-asked to create a nickname or pseudonym and password to be used when logging into 
-the chat room, as well as for your first and last name, e-mail address, gender, 
-certification of age 18+, and zip code for registration purposes. Providing your 
-real name is required and omitting this information in the registration form will 
-not allow you to access the chat features. Your real name will not be disclosed 
-to third parties, except for the circumstances detailed below in Section 3 under 
-"What information does the Site share with third parties?" If you choose to post 
-your real name, you acknowledge, understand and agree that we assume no responsibility 
-for the collection, use or misuse of your name which would be publicly accessible 
-information to other visitors to the Comedy Central Site. You will also be asked 
-whether you want to receive information about Comedy Central and Site updates via 
-e-mail. If you opt-in for this feature, you must provide a valid e-mail address during 
-the registration process.</p><p>
+<br><span class="centralTitle">Wireless Marketing Services and Promotional Opportunities (When Available).</span><br>
 
-b. The Comedy Central Site maintains public message boards. Posting to these message 
-boards requires you to register and provide your first and last name, e-mail address, 
-gender, certification of age 18+, and zip code. Providing your real name is required 
-and omitting this information in the registration form will not allow you to access the 
-message board features. Your real name will not be disclosed to third parties, except 
-for the circumstances detailed below in Section 3 under "What information does the Site 
-share with third parties?" When posting to these message boards, we encourage you to 
-do so under a nickname or pseudonym. If you choose to post your real name, you acknowledge, 
-understand and agree that we assume no responsibility for the collection, use or misuse 
-of your name which would be publicly accessible information to other visitors to the 
-Comedy Central Site.</p><p>
+<br><br><span class="central">Comedy Central may, in the future, provide its valued website users and viewers with the opportunity to register for special promotions, services, news, programming and information delivered via text messaging and other wireless devices such as mobile phones. Once available, users will be required to provide their consent to receive such information from Comedy Central, either by registering on this Site or via their wireless device. Such services and promotional opportunities are provided by MTVN affiliates for Comedy Central. The information requested as part of the online registration process is a user's telephone number or a wireless email address, but only if specifically requested, and the carrier's name. Optional information may be requested for specific promotions, such as a user's preferences regarding goods or services, choices of music or artists, or other similar survey information. Depending on the promotion, we may also collect an Internet email address or other information and, depending on the information collected, the user may also be required to confirm his or her agreement to the Comedy Central Site's Privacy Policy and Terms of Use Agreement.<br></span> 
+<br><br><span class="central">We caution that most wireless transmissions are not secured and there is a greater risk of an unknown third party's interception of messages or a user's Personal Information when using a wireless communications device.<br></span> 
+<br><br><span class="central">Users that register for Comedy Central's wireless marketing services acknowledge, understand and agree that they will be charged by the user's wireless carrier for all messages sent to the user from Comedy Central. Standard messaging rates will apply, unless noted otherwise. <strong>Under no circumstances will Comedy Central, its Parent Companies, or their corporate affiliates be responsible for any wireless email or text messaging charges incurred by a user or by a person that has access to a user's wireless device, telephone number, or email address.</strong> 
+<p><strong>a. Registration</strong>It is contemplated that there will be two registration methods provided for Comedy Central's wireless marketing services. Standard rate promotions will be subject to either the "single opt-in" or the "double-opt-in (Site/SMS)" method, at the discretion of Comedy Central depending on the type of promotion. Premium rate services will require the "double opt-in" (Site/SMS or SMS/SMS) method.
+</p><ol><li><strong>Single Opt-in Method:</strong> In response to a print, radio, television, Internet, or other promotional message, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. The user's voluntary submission of the designated word or code to Comedy Central will mean that the user has freely and affirmatively granted permission to Comedy Central to send text messages to him or her. Comedy Central will thank the user for his or her registration by sending a "Thank you" message. The user may terminate the service at any time by using the unsubscribe command in any text message from Comedy Central or by sending a text message to Comedy Central that says "STOP", "END", "CANCEL", "REMOVE", "UNSUBSCRIBE" or "QUIT". </li>
+<li><strong>Double Opt-in (Site/SMS) Method:</strong> In response to a print, radio, television, Internet, or other promotional message, users will be directed to this Site to start the registration process. The user must affirmatively consent to Comedy Central's sending of wireless messages to his or her designated wireless device by submitting a telephone number (or wireless email address, only if requested by Comedy Central) and by clicking the consent statement on the Comedy Central Site's registration page. The user must also agree to the Comedy Central Site's Privacy Policy and Terms of Use Agreement before the online registration process is completed. Comedy Central will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from Comedy Central to that particular telephone number (or wireless domain name when appropriate). The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of Comedy Central's wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the promotion. A user may respond to the "Confirmation" message at any time provided that Comedy Central may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while Comedy Central continues to offer the specific wireless marketing service.</li>
+<li><strong>Double Opt-in (SMS/SMS) Method:</strong> In response to a print, radio, television, Internet, or other promotional message, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. Comedy Central will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from Comedy Central to that particular telephone number (or wireless domain name when appropriate). The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of Comedy Central's wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the promotion. A user may respond to the "Confirmation" message at any time provided that Comedy Central may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while Comedy Central continues to offer the specific wireless marketing service. </li>
+</ol>
+<p></p>
+<p><strong>b. Termination of Wireless Services by User</strong> Regardless of which one of the above opt-in methods was used to register, users may revoke their consent to receive messages from Comedy Central by the following procedure: </p>
+<p>A user may cancel one or more services via his or her wireless device at any time by using the unsubscribe mechanism provided by Comedy Central at the time the message is sent, or by sending a text message that says "STOP", "END", "CANCEL", "REMOVE", "UNSUBSCRIBE" or "QUIT". Comedy Central will terminate the user's registration for the most recent wireless service sent to the user. Any of these words followed by the word "ALL" in the user's termination request will cancel all of the user's registered wireless services with Comedy Central. If the user unsubscribes from one or all of Comedy Central service(s) via his or her wireless device, the service(s) will be terminated immediately and will cancel the user's previous opt-in.</p>
+<p><strong>c. Termination of Wireless Services by COMEDY CENTRAL </strong>A user understands, acknowledges and agrees that Comedy Central may, at its sole discretion and without liability to any user, terminate its offer of any specific wireless marketing service or all wireless marketing services at any time without advance notice. Comedy Central may provide notice of terminations or changes in services on this Site.</p>
+<p><strong>d. Use of Information </strong>Comedy Central will not use a wireless telephone number, wireless or conventional Internet email address, or other information submitted for its wireless marketing services for any other purpose but to provide the service requested, unless we provide advance notice of any other use. We will not share this Personal Information with Advertisers or other third party marketers unless you opt-in to such disclosure. We will share this information with the operational service providers that assist us in delivering these wireless services to you and with corporate affiliates related to Comedy Central and MTVN. </p>
+<br></span> 
 
-c. The Comedy Central Site has a newsletter distributed via e-mail. If you choose to 
-subscribe to this feature, you must provide a valid e-mail address. Your e-mail address 
-will be used for the distribution of the newsletter and any promotions or marketing 
-that we feel may be of interest to you and will not be divulged to any third party, 
-with the exceptions as detailed below in Section 3 under "What Information does the 
-Site share with third parties?" To unsubscribe from our newsletter(s), please review 
-our help section on newsletters.</p><p>
+<br><br><span class="central"><strong>Cookies and Similar Technology:</strong> We use 'cookie' technology to collect data regarding your visits to the Site. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including: 
+<ul><li>Keeping count of your return visits to the Site or our Advertisers' or partners' sites; </li>
+<li>Accumulating and reporting aggregate, statistical information in connection with the Site; </li>
+<li>Determining which features users like best; and </li>
+<li>Saving your user name, your password or other information so you don't have to re- enter it each time you visit the Site. </li>
+</ul>
+<br></span>
 
-d. Occasionally, we will request you to fill out a user survey. Such surveys are voluntary, 
-but we hope that you will participate. User participation in surveys allows us to better 
-understand the demographics and interests of our users. Your responses in combination with 
-the responses of our other users help us to improve the Comedy Central Site and attract 
-the valued sponsors and advertisers that help us bring you the features and activities you 
-enjoy. If and when we choose to share user information collected from surveys, we will do 
-so only in aggregate form such that a third party will not be able to identify any individual user.</p><p>
+<br><br><span class="central">Although we may track the numbers of visitors to inform us on how best to update the Site and enhance the experience for all visitors, Personal Information is not extracted in this process. We use tracking information on an aggregated basis to help us operate the Site, enhance and improve our service, improve the look of the Site and display advertising and marketing information. You can choose to have your computer warn you each time a cookie or image tag is being sent, or you can choose to turn off all such devices. This is done through your browser. If you turn cookies off, you may not have access to many features at the Site that make your Internet experience more efficient and enjoyable - like the features mentioned above - and some of our other services will not function properly. <br></span>
+<br><br><span class="central">This Site may contain advertisements, references and links to other web sites and organizations. We may also use third parties to display or serve advertising on the Site and our web-based newsletters. Often these third party Advertisers employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules might apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other web sites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours. Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information. <strong>This Privacy Policy does not cover any use of Personal Information or Sensitive Personal Information that a third party Advertiser or ad server may collect from you.</strong> We encourage you to investigate and ask questions directly of them in this regard.<br></span>
+<br><br><span class="central"><strong>Postings:</strong> We respect the privacy of the contents of users' e-mail and other correspondence (collectively, "Postings"). However, we reserve the right to monitor, edit, and disclose your use of the Site, information pertaining to any Posting or its contents to a third party, if we believe such action is required by law or is necessary to protect and defend our rights, to enforce this Privacy Policy or our Terms of Use Agreement, or to protect the interests of our users, Advertisers, suppliers, operational service providers, and others.<br></span>
+<br><br><span class="central"><strong>Disclosure to Third Parties:</strong> We do not sell, rent, lease or disclose your Personal Information to unaffiliated entities or entities that are not our Advertisers, except in the limited circumstances listed below. When we plan to disclose your Personal Information to Advertisers, we ask for your consent ("Opt in") to do so, in which case their use of your information is subject to the Advertisers' own privacy policies. <br></span>
+<br><br><span class="central">We also offer co-branded services and features, which are events and/or Promotions that we put together with another company or our MTVN Affiliates ("Co-Branded Partner"). Such services and features may be hosted on the Site and/or on our Co-Branded Partner's website. We will share your Personal Information with our Co-Branded Partner and your voluntary use of or participation in a co-branded Promotion, service, feature or function, means that you opt-in and give your affirmative consent to both the Comedy Central Channel and/or Site and our Co-Branded Partner to collect and use your Personal Information provided during the Registered User registration process and/or for the specific co-branded feature or service for the fulfillment of the feature or service and for marketing purposes. If you wish to opt-out of a Co-Branded Partner's future use of your Personal Information for marketing purposes, you will need to contact the Co-Branded Partner directly. The Co-Branded Partner will be identified on the co-branded feature or service. <br></span>
+<br><br><span class="central">We also have the right to disclose your Personal Information to third parties for the purpose of administering and maintaining services on the Site. These third parties are called operational service providers, the specialists that provide internal support to operations and activities and/or for Site design, development, hosting and operations including maintenance, management, storage and/or fulfillment of our membership and e-mail clubs, various contests, sweepstakes, services, events and online stores (such as MTVN Direct Inc.). We use operational service providers to efficiently provide the full range of content, activities and membership services we bring to you and we request that our operational service providers also protect your privacy and not disclose your Personal Information or Sensitive Personal Information to third party marketers that are not associated with this Site or the Comedy Central Channel. Additionally, such providers are not to use your Personal Information or Sensitive Personal Information for their own marketing or promotional purposes.<br></span>
+<br><br><span class="central">We will make your Personal Information and Sensitive Personal Information available to non-affiliated third parties only in the following limited circumstances:
+<ul><li>When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process); </li>
+<li>If we believe your actions violate any law, regulation, our Terms of Use Agreement, Additional Terms, Rules, this Privacy Policy, or any of our guidelines for promotions, Product offerings or any other features or functions of the Comedy Central Site, or if you threaten the rights, property or safety of the Site, our Parent Companies, operational service providers, suppliers, Advertisers, other customers or users, or any other party; </li>
+<li>If, in our sole discretion, we believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries, to protect our business and assets, to defend our interests and/or to comply with our legal and regulatory obligations; or </li>
+<li>In the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us, or our Parent Companies. </li>
+</ul>
+<br></span>
 
-e. We may occasionally run contests, sweepstakes, or other promotions sponsored by our 
-advertisers, promotional partners and sponsors (collectively, "Advertisers"). To 
-participate in such activities, we will request that you submit your first/last name, 
-email address, age or birth date, and telephone number. If you are identified as a winner, 
-we may also request your postal mailing address to be used to deliver your prize(s) and 
-your Social Security Number for IRS reporting purposes if your prize is valued at $600.00 
-or more (U.S. dollars). We may disclose your Personal Information (except for SSN) collected 
-from contests and sweepstakes entrants with Advertisers in connection with certain online 
-contests and sweepstakes. In each such case, we will notify potential entrants when Personal 
-Information will be supplied to a third party, and the identity of such third party, at the 
-time entrant information is collected. Please see Section 3 under "What Information does the 
-Site share with third parties?" below for more details.</p><p> 
-
-f. If you contact us through the regular mail or via e-mail, we may keep a record of that 
-correspondence. Any Personal Information contained in your communication will not be used 
-for commercial purposes.</p><p>
-
-g. This Site collects the following Personal Information from interested persons that wish 
-to submit questions to air on the "Too Late with Adam Carolla" late-night television show: 
-first/last name, birth date, telephone number, city, state, and an email address. Users 
-are also asked to select a "Topic" and submit their question or comment. The producers of 
-the program will contact a person whose question is under consideration for airing on the 
-television show by telephone to verify the identity of the person submitting the question 
-and get background information. Only persons who are 18 years of age or older are eligible to 
-participate on the television show and any person that we or a producer believes is underage 
-will be terminated from any participation in this feature. </p><p>
-
-h. This Site will offer co-branded services and features, which are events and promotions 
-(for example, a contest) that Comedy Central puts together with another company 
-("Co-Branded Partner"). We will share your Personal Information with our Co-Branded Partner. 
-Your voluntary use and/or participation in a co-branded service or feature means that you 
-have given your affirmative consent to both Comedy Central and our Co-Branded Partner to 
-collect and use your Personal Information. If you wish to opt-out of a Co-Branded Partner's 
-future use of your Personal Information, you will need to contact the Co-Branded Partner directly.</p><p>
-
-i. When you order products from us, we also collect Personal Information from you. If you 
-order one of our products or services, we will collect and maintain your name, e-mail address, 
-billing address, shipping address, telephone number, product selections, credit card or other 
-payment information, order number, referring URL, IP address and a password. We collect this, 
-and other information, as disclosed in this policy, in order to fill your order, to communicate 
-with you about your order and to send you promotional materials. Before confirming your order, 
-you will have the opportunity to review the product order form and make changes and additions 
-to the information it contains. These changes will be automatically kept for future use. We 
-use good faith efforts not to provide third parties with access to your individual account 
-information, unless stated otherwise on the Site. We reserves the right to provide non-identifiable 
-consumer data to third parties including, but not limited to, general statistics about pages 
-viewed on our site, sales and other shopping information. </p><p>
-
-2. Certain non-Personal information is automatically collected from all visitors to the 
-Comedy Central Site. This data includes your IP address, your computer's operating system, and 
-the type of browser you use to surf the Internet. Your IP address tells us both your Internet 
-Service Provider ("ISP") and the general geographic location you are connecting from. We may 
-also use your IP address to track the date and time you accessed the Comedy Central Site, how 
-long you stayed on the Comedy Central Site, and what pages you visited. If you have configured 
-your browser with your e-mail address, this data may also be available to us.</p><p>
-
-3. We use cookies on this Site. A cookie is a file transferred from a website to the hard drive 
-of your computer so that the website may track your activities on the website. Cookies, by 
-themselves, do not let a website know any Personal Information about you, such as your real 
-name, address, etc., unless you previously provided that information at the website or have 
-set your preferences in your browser to provide that information. Cookie technology allows 
-us to keep track of your selections on the Comedy Central Site and to try to make sure that 
-you don't see the same ad repeatedly. Cookies are also used to deliver content specific to 
-your interests and to save your password so that you don't have to re-enter it each time you 
-visit the Comedy Central Site.
-<br><br>
-
-<br><span class="centralTitle">How do we protect the privacy of Children and Minors?</span><br><br>
-
-<span class="central">1. We believe that it is particularly important to protect the privacy of children and minors online. We define a "child" as any person under 13 years of age and a minor is defined as any person under the age of 18 years of age. We do not knowingly collect Personal Information from children or minors. You must be at least 18 years of age to participate in certain activities on this Site that require the submission of your Personal Information. If we unintentionally receive Personal Information from children under the age of 13, we will comply with the Children's Online Privacy Protection Act of 1998 ("COPPA") and reject and destroy such correspondence upon knowledge of such collection, except for the limited circumstances below. For more information about COPPA, please see the Federal Trade Commission's website: <a href="http://www.ftc.gov" target="_blank">www.ftc.gov</a>. Any false or fraudulent registration or entry from a child or minor will be deemed to be ineligible and will disqualify the child or minor from the receipt of a prize, benefit, or other participation.</span></p><p>
-
-2. Except to meet Federal Communications Commission ("FCC"), or other regulatory and legal purposes, we will not collect, use, store, or disclose any child's Personal Information to a third party without prior parental consent.</p><p>
- <br><br>
-
-<span class="centralTitle">How does the Site use your information?<br></span>
-<br>
-<span class="central">1. In addition to delivering the features and activities you have registered for, we use the non-Personal Information passively gathered when you visit this Site and the Personal Information that you voluntarily provide in several ways:<br>
-
-a. Your IP address is used to assist us in diagnosing problems with our server, to administer this Site and to provide general information to our Advertisers.<br>
-
-b. We may use the information you provide to perform statistical analyses of the collective characteristics and behavior of our users and to analyze how and where to invest our resources.<br>
-
-c. We may use Personal Information voluntarily provided by you for Comedy Channel's promotional and/or marketing purposes.<br>
-
-d. Demographic and profile data is used to tailor our users' experience at, directing users to content we think may be of interest to that user, and displaying content for which the user may have shown a preference.<br>
-
-e. Both our internal sales team and outside advertising firms may utilize the information you provide us in aggregate form to better tailor your experience on the Comedy Central Site. Without the data collected, we would not know what the most popular regions of the Comedy Central Site are, nor would Comedy Partners be able to measure which promotions are successful.
-</span><br><br>
-
-<br><span class="centralTitle">What information does the Site share with third parties?</span> <br>
-<span class="central">1. We do not sell, rent, lease or disclose your Personal Information to unaffiliated entities or entities that are not our Advertisers, except in limited circumstances. (See below) When we plan to disclose your Personal Information to Advertisers, we ask for your consent ("opt in") to do so, in which case their use of your Personal Information is subject to their own privacy policies. </span></p><p>
-
-2. We also have the right to disclose your Personal Information to third parties for the purpose of administering and maintaining services on the Site. These third parties are called operational service providers, the specialists that provide internal support to operations and activities and/or for Site design, development, hosting and operations including maintenance, management, storage and/or fulfillment of our membership and e-mail clubs, various contests, sweepstakes, services, events and online stores. We use operational service providers to efficiently provide the full range of content, activities and membership services we bring to you and we request that our operational service providers also protect your privacy and not disclose your Personal Information or sensitive Personal Information (such as credit card account numbers or social security numbers ("Sensitive Personal Information")) to third party marketers that are not associated with Comedy Central or the Site. Additionally, such providers are not to use your Personal Information or Sensitive Personal Information for their own marketing or promotional purposes.</p><p>
-
-3. In addition to sharing your Personal Information with our operational service providers, we will disclose your Personal Information and Sensitive Personal Information to others in the following limited circumstances: </p><p>
-
-a.	When we are compelled to do so by a law enforcement agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process);<br>
-b.	If we believe your actions violate any law, regulation, our Terms of Use Agreement, this Privacy Policy, or any of our guidelines for promotions, product offerings or any other features or functions of the Site, or if you threaten the rights, property or safety of the Site, its Parent Companies, its operational service providers, Advertisers, other customers or users, or any other party; <br>
-c.	If, in our sole discretion, we believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries, to protect our business and assets, to defend our interests and/or to comply with our legal and regulatory obligations; or <br>
-d.	In the event of a bankruptcy, or a merger, acquisition, joint venture or other business combination involving us, or our Parent Companies. 
-<br><br>
-
-<span class="centralTitle">How do I opt-out, remove, change, or modify my Personal Information?</span><br>
-<span class="central">You have the opportunity to opt-out of receiving commercial communications from us or terminating your registration at any time. To change or modify any Personal Information you have provided to us please do so through the member profile. To no longer receive newsletters from us, please review how to opt-out in our <a href="/help/help.html#unsubnewsletters">help section on newsletters</a>. To remove your name from the Comedy Central database entirely including, but not limited to, registration for comedycentral.com: Go to your <a href="/members/my_account.jhtml">member profile</a> and simply click on link that says, "Click here to un-register from comedycentral.com" and confirm. <br></span>
-
-<br><span class="centralTitle">The Site's Disclaimers</span> <br>
-<span class="central">1. All users should be aware while using any service where you publicly disclose Personal Information online voluntarily, including in chat areas, on message or bulletin boards, or through e-mail, that such information can be collected and used by others. If you use these services on the Comedy Central Site and voluntarily provide any information on our bulletin boards or in chat areas, you do so at your own risk. It is also possible that third parties may unlawfully intercept or access transmissions or private communications. We cannot make any representations regarding the security of such transfer of information.</span></p><p>
-
-2. We reserve the right to change or modify this Privacy Policy at any time by posting such changes on this page. You will be notified via e-mail of any material revisions to the Privacy Policy that will change the way your Personal Information is used or disclosed.
-<br><br> 
-
-<br><span class="centralTitle">Third Party Links.</span> <br>
-<span class="central">You should be aware that the Comedy Central Site contains links to outside web sites. We are not responsible for the privacy practices, business operations, or the content of such web sites. Our Site may contain advertisements, references and links to other web sites and organizations. We may also use third parties to display or serve advertising on the Site and our web-based newsletters. Often these third party Advertisers employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules might apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other web sites you encounter on the internet. The use of such technology by these third parties is within their control and not ours, and even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information and we encourage you to investigate and ask questions directly of them in this regard.<br></span>
-
-<br> <span class="centralTitle">Protection of Your Personal Information.</span> <br>
-<span class="central">We maintain reasonable standards of security and confidentiality and request the same of our operational service providers. In this regard we limit access by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes.<br></span>
-
-<br> <span class="centralTitle">Contacting Us</span> <br>
-<span class="central">If you have any questions about this Privacy Policy, please contact using the forms available <a href="http://www.comedycentral.com/help/help.jhtml">here</a>.</span></p><p>
-
-This Privacy Policy was last modified on August 4, 2005 and is effective immediately.</p><p>
-
-Copyright © MTV Networks, a division of Viacom International, Inc. 2005 - All Rights Reserved. Comedy Central is a registered trademark of Comedy Partners.</p><p>
+<br><br><span class="central"><strong>Security &amp; Protection of Personal Information:</strong> We maintain reasonable standards of security and confidentiality. However, for most Internet sites, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We conduct financial transactions via secured transmissions but may not always secure other parts of the site. We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our operational service providers follow the same policy. <br></span>
+<br><br><span class="central"><strong>Review, Update or Delete Your Personal Information:</strong> Generally, you may review, update or delete your Personal Information or Sensitive Personal Information collected by this Site. You may also correct factual inaccuracies. However, Personal Information that is necessary to check eligibility, such as date of birth or age cannot be deleted, but may be modified with sufficient verification of the correct information. Deletion of certain Personal Information, such as e-mail addresses, may result in suspension of your account. To remove your name from the Comedy Central database entirely including, but not limited to, registration for comedycentral.com: Go to your <a href="/members/join.jhtml"><u>member profile</u></a> and simply click on link that says, "Delete My Account" listed under "Change Preferences" in the left hand navigation. and confirm. You have the opportunity to opt-out of receiving commercial communications from us or terminating your registration at any time. To change or modify any Personal Information you have provided to us please do so through the member profile. To no longer receive newsletters from us, please review how to opt-out in our <a href="/help/faq.jhtml#whatnewsletters"><u>help section on newsletters</u></a>. If you wish to review Personal Information collected for contests and sweepstakes and you are not a member, you will need to contact the Site's Privacy Administrator via email with a request at <a href="mailto:privacy@comedycentral.com"><u>privacy@comedycentral.com</u></a> and be prepared to provide verification of your identity. Personal Information collected for a contest or sweepstakes entry is subject to corporate and regulatory recordkeeping requirements and will not be deleted upon a user's request unless the entrant is a child under the age of 13 years old.<br></span>
+<br><br><span class="central">Parents (including legal guardians) of children that registered on the site in violation of the Terms of Use Agreement who wish to terminate their child's membership must use their child's user name and password to gain direct access to the account, and go to your child's <a href="/members/join.jhtml"><u>member profile</u></a> and simply click on link that says, "Click here to un-register from comedycentral.com" and confirm or alternatively, a parent must provide verifiable identification that they are the parent of the membership-ineligible child. Children under the age of 13 that are unknowingly registered on the Site are in violation of our Terms of Use Agreement. We will not allow direct access to a user's account and Personal Information by any person without the account's user name and password. (Please see above for how to change account preferences.) If a parent does not have his or her child's user name or password, the parent will be required to send an email to the Privacy Administrator that includes the parent's name, address, telephone and email address, in addition to the child's name and email address as registered on the Site, plus the child's date of birth. Comedy Central will send a confirming email to the parent via the email address provided to verify that the parent wishes to terminate his or her child's account. The parent must then confirm by sending a reply email to the designated return address. Comedy Central will then terminate the child's account but will notify the child of the termination request via email and will identify the name, address and email address of the person making the request. <br></span>
+<br><br><span class="central">We reserve the right to deny access of a user account or Site features or activities to any user if we believe there is a question about the identity of the person trying to access the account. And if the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and a contact person for further inquiries. <br></span>
+<br><br><span class="central"><strong>Questions:</strong> If you have questions about our Privacy Policy, you can go directly to our <a href="http://www.comedycentral.com/help/faq.jhtml&quot;"><u>Frequently Asked Questions</u></a> section, which we hope will be helpful and is designed to answer many of your questions. If you cannot find the answer to a question related to our Privacy Policy or if you do not understand any of our information about how we collect, maintain, use or share your Personal Information, you may contact us directly by <a href="mailto: privacy@comedycentral.com"><u>clicking here</u></a>. <br></span>
+<br><br><span class="central"><strong>Sole Statement:</strong> This document is the sole statement of ComedyCentral.com's Privacy Policy with respect to this Site, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.<br></span>
+<br><br><span class="central">This Privacy Policy was last modified on April 28, 2006 and is effective immediately.<br></span>
+<br><br><span class="central">Copyright © MTV Networks, a division of Viacom International Inc. 2006 - All Rights Reserved. Comedy Central is a registered trademark of Comedy Partners.<br></span>
 <br><br><br>
-</p></span></div>
+</div>
 
 <!-- 160x600 Ad -->	
 <div id="ad_160x600">
@@ -576,12 +453,24 @@ Copyright © MTV Networks, a division of Viacom International, Inc. 2005 - All R
 
 <img src="/help/images/extra_d2.gif" width="160" height="15" alt="" border="0">
 <br>
-<div style="z-index:2500;">
+<div style="z-index:2500;"><droplet src="/adsetup/ad_units/includes/global_components.jhtml>
+
+<java>
+/**************************************************************************/
+/* Eventually, this module would ask what are my rules and key-values */
+/* These could be supplied either from sectionsetup or the logic layer from the admin */
+/* This would be the BIG SWITCH */
+/********************************************************************/
+</java>
+
+<droplet bean=" atg="" dynamo="" droplet="" switch"="">
+
+</droplet>
 
 <script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
-var ad = '<SCRIPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/index;comedycentral=ad;pagename=privacy;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';bps='+if_nt_bandwidth+';gateway=help;section_1=main;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';era='+if_nt_era+';bps='+if_nt_bandwidth+';fla='+if_nt_Flash+';sz=160x600;tile=2;ord=' + ord + '?"><\/SCRIPT>';
+var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/index;comedycentral=ad;pagename=privacy;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';bps='+if_nt_bandwidth+';gateway=help;section_1=main;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';era='+if_nt_era+';bps='+if_nt_bandwidth+';fla='+if_nt_Flash+';u=|comedycentral-ad|pagename-privacy|zyg-'+if_nt_zyg+'|span-'+if_nt_span+'|demo-'+if_nt_demo+'|bps-'+if_nt_bandwidth+'|gateway-help|section_1-main|zyg-'+if_nt_zyg+'|span-'+if_nt_span+'|demo-'+if_nt_demo+'|era-'+if_nt_era+'|bps-'+if_nt_bandwidth+'|fla-'+if_nt_Flash+';sz=160x600;tile=2;ord=' + ord + '?"><\/SCR' + 'IPT>';
 document.write(ad);
-</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/index;comedycentral=ad;pagename=privacy;zyg=;span=;demo=;bps=;gateway=help;section_1=main;zyg=;span=;demo=;era=;bps=;fla=-1;sz=160x600;tile=2;ord=813816934280799500?"></script>
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/index;comedycentral=ad;pagename=privacy;zyg=;span=;demo=;bps=;gateway=help;section_1=main;zyg=;span=;demo=;era=;bps=;fla=-1;u=|comedycentral-ad|pagename-privacy|zyg-|span-|demo-|bps-|gateway-help|section_1-main|zyg-|span-|demo-|era-|bps-|fla--1;sz=160x600;tile=2;ord=776678435505751200?"></script>
 </div>
 </div>
 </div>
@@ -608,8 +497,37 @@ document.write(ad);
 // NOT EVEN WHEN PUSHING LIVE
 var cachingTier = "long_lifers";
 </script>
+
+<div class="footer_search">
+
+<div style="width:400px;padding:10px 0 0 24px;">
+<form method="get" action="/search/search_index.jhtml" name="searchComedyAgain">
+<script type="text/javascript" language="javascript">function submitSearch(){document.searchComedyAgain.submit();}</script>
+<input type="hidden" name="searchtype" value="all">
+<input type="hidden" name="pagesize" value="3">
+<input type="hidden" name="sorttype" value="default">
+<table>
+<tbody><tr align="left" valign="top">
+<td align="left" valign="top"><img src="/images/search/search_cc_footer.jpg" width="166" height="21" hspace="0" vspace="0" border="0" align="bottom"></td>
+<td align="left" valign="top">&nbsp;<input name="searchterm" type="text" value="">&nbsp;<a href="javascript:submitSearch();"><u>Go</u></a></td>
+</tr>
+</tbody></table>
+</form>
+</div>
+</div>
+
 <table border="0" width="750" cellspacing="0" cellpadding="0">
-<tbody><tr><td width="750" colspan="2"><img src="/images/spacer.gif" width="750" height="10" border="0"></td></tr>
+<tbody><tr>
+<td width="750" colspan="2" align="center">
+
+<script language="JavaScript">if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.axel * 1000000000000000000;}
+var ad = '<SCR' + 'IPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/btm_banner;comedycentral=ad;dcopt=ist;dcove=o;pagename=privacy;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';bps='+if_nt_bandwidth+';gateway=help;section_1=main;zyg='+if_nt_zyg+';span='+if_nt_span+';demo='+if_nt_demo+';era='+if_nt_era+';bps='+if_nt_bandwidth+';fla='+if_nt_Flash+';pos=btm;!category=btm;!category=expand;u=|comedycentral-ad|dcopt-ist|dcove-o|pagename-privacy|zyg-'+if_nt_zyg+'|span-'+if_nt_span+'|demo-'+if_nt_demo+'|bps-'+if_nt_bandwidth+'|gateway-help|section_1-main|zyg-'+if_nt_zyg+'|span-'+if_nt_span+'|demo-'+if_nt_demo+'|era-'+if_nt_era+'|bps-'+if_nt_bandwidth+'|fla-'+if_nt_Flash+'|pos-btm|!category-btm|!category-expand;sz=728x90;tile=3;ord=' + ord + '?"><\/SCR' + 'IPT>';
+document.write(ad);
+</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/comedycentral.mtvi/btm_banner;comedycentral=ad;dcopt=ist;dcove=o;pagename=privacy;zyg=;span=;demo=;bps=;gateway=help;section_1=main;zyg=;span=;demo=;era=;bps=;fla=-1;pos=btm;!category=btm;!category=expand;u=|comedycentral-ad|dcopt-ist|dcove-o|pagename-privacy|zyg-|span-|demo-|bps-|gateway-help|section_1-main|zyg-|span-|demo-|era-|bps-|fla--1|pos-btm|!category-btm|!category-expand;sz=728x90;tile=3;ord=776678435505751200?"></script>
+
+</td>
+</tr>
+<tr><td width="750" colspan="2"><img src="/images/spacer.gif" width="750" height="10" border="0"></td></tr>
 <tr><td width="750" colspan="2"><img src="/images/footer/footer_line.gif" width="750" height="10" border="0"></td></tr>
 <tr align="center" valign="top">
 <td width="10"><img src="/sitewide/images/spacer.gif" width="10" alt="" border="0"></td>
@@ -619,18 +537,20 @@ var cachingTier = "long_lifers";
 <a href="/index.jhtml">Home</a> / 
 <a href="/help/help.jhtml">Help/FAQ</a> / 
 <a href="/help/privacy.jhtml">Privacy Policy - Your California Privacy Rights</a> / 
-<a href="/help/terms.jhtml">Terms and Conditions</a> / 
+<a href="/help/terms.jhtml">Terms &amp; Conditions</a> / 
 <a href="http://www.mtvncareers.com">Job Postings</a> / 
-<a href="http://press.comedycentral.com/mediakit/">Advertising</a> 
+<a href="/mediakit/">Advertising</a> / 
+<a href="/sitewide/sitemap/index.jhtml">Sitemap</a>
 <br>	
-Copyright © 1995-2005 Comedy Central. All rights Reserved<br>
+Copyright © 1995-2006 Comedy Central. All rights Reserved<br>
 </div>
 <img src="/sitewide/images/spacer.gif" width="740" height="40" alt="" border="0"><br>
 </div>
 </td>
 </tr>
 </tbody></table>
-<div style="display:none"></div>
+<div style="display:none">
+</div>
 
 
 
