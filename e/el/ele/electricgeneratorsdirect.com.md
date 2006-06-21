@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricgeneratorsdirect.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231174553id_/http%3A//www.electricgeneratorsdirect.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricgeneratorsdirect.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621104650id_/http%3A//www.electricgeneratorsdirect.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ Electric Generators Direct.com - Your Online Emergency Generator Superstore
 
@@ -47,7 +47,7 @@ Power Equipment Direct, Inc. websites contains links to other websites. Please n
 If you have any questions about this Privacy statement, the practices of this website, or your dealings with this website, you can contact: 
 
 Power Equipment Direct, Inc.   
-14136 Hunt Club Lane   
-Plainfield, IL 60544 
+1203 Remington Blvd.   
+Romeoville, IL 60446 
 
 You can also send an e-mail to [service@electricgeneratorsdirect.com](mailto:service@electricgeneratorsdirect.com). Thank you. 
