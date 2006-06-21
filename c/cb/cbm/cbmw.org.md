@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbmw.org privacy policy that was archived on 2005-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051126093447id_/http%3A//www.cbmw.org/site.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbmw.org privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621105858id_/http%3A//www.cbmw.org/site.php) for the most accurate reproduction.*
 
 # CBMW Site Information - Privacy Policy and Copyright Information
 
