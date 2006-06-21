@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hss.edu privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229232527id_/http%3A//www.hss.edu/About/Notice-of-Privacy-Practices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hss.edu privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621165924id_/http%3A//www.hss.edu/About/Notice-of-Privacy-Practices) for the most accurate reproduction.*
 
 # HSS - Notice of Privacy Practices
 
@@ -7,15 +7,15 @@ Effective Date: April 14, 2003
 Haga clic aquí para descargar el Aviso sobre prácticas de confidencialidad en español.
 
   
-Acrobat Reader is required. [Download](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/redirect.aspx?Link=http://www.adobe.com/products/acrobat/readstep2.html) the free Acrobat Reader from Adobe.
+Acrobat Reader is required. [Download](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/redirect.aspx?Link=http://www.adobe.com/products/acrobat/readstep2.html) the free Acrobat Reader from Adobe.
 
-  * [Notice Overview](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#Notice_Overview)
-  * [Who Will Follow The Practices In This Notice?](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#Who_Will_Follow_The_Practices_In_This_Notice)
-  * [Permissions Described In This Notice](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#Permissions_Described_In_This_Notice)
-  * [Important Summary Information](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#Important_Summary_Information)
-  * [What Health Information Is Protected](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#What_Health_Information_Is_Protected)
-  * [How We May Use And Disclose Your Health Information](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#How_We_May_Use_And_Disclose_Your_Health_Information)
-  * [Your Rights To Access And Control Your Health Information](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#Your_Rights_To_Access_And_Control_Your_Health_Information)
+  * [Notice Overview](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#Notice_Overview)
+  * [Who Will Follow The Practices In This Notice?](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#Who_Will_Follow_The_Practices_In_This_Notice)
+  * [Permissions Described In This Notice](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#Permissions_Described_In_This_Notice)
+  * [Important Summary Information](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#Important_Summary_Information)
+  * [What Health Information Is Protected](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#What_Health_Information_Is_Protected)
+  * [How We May Use And Disclose Your Health Information](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#How_We_May_Use_And_Disclose_Your_Health_Information)
+  * [Your Rights To Access And Control Your Health Information](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#Your_Rights_To_Access_And_Control_Your_Health_Information)
 
 
 
@@ -23,7 +23,7 @@ Acrobat Reader is required. [Download](https://web.archive.org/web/2005122923252
 
 This Notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully. 
 
-Respect for our patients' privacy has long been highly valued at Hospital for Special Surgery. Not only is it what our patients expect, it is the right way to conduct health care. As required by law, we will protect the privacy of health information that may reveal your identity and provide you with a copy of our notice which describes the health information privacy practices of our Hospital and its medical staff and affiliated health care providers when providing health care services for our Hospital. Our notice will be posted in our main entrance area and in other locations at the Hospital. You will also be able to obtain your own copy by accessing our website at [www.hss.edu](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/redirect.aspx?Link=http://www.hss.edu/), calling Health Information Management at 212.606.1254, or asking for one at the time of your next visit. 
+Respect for our patients' privacy has long been highly valued at Hospital for Special Surgery. Not only is it what our patients expect, it is the right way to conduct health care. As required by law, we will protect the privacy of health information that may reveal your identity and provide you with a copy of our notice which describes the health information privacy practices of our Hospital and its medical staff and affiliated health care providers when providing health care services for our Hospital. Our notice will be posted in our main entrance area and in other locations at the Hospital. You will also be able to obtain your own copy by accessing our website at [www.hss.edu](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/redirect.aspx?Link=http://www.hss.edu/), calling Health Information Management at 212.606.1254, or asking for one at the time of your next visit. 
 
 If you have any questions about this notice or would like further information, please contact the Privacy Officer at 212.774.7500.
 
@@ -48,7 +48,7 @@ This notice will explain the different types of permission we will obtain from y
 
 
 
-[Back to Top](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#top)
+[Back to Top](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#top)
 
 ## Important Summary Information
 
@@ -77,13 +77,13 @@ This notice will explain the different types of permission we will obtain from y
 
  **How to Learn About Special Protections for HIV, Alcohol, and Substance Abuse, Mental Health, and Genetic Information.** Special privacy protections apply to HIV-related information, alcohol and substance abuse treatment information, mental health information, and genetic information. Some parts of this general Notice of Privacy Practices may not apply to these types of information. If your treatment involves this information, you will be provided with special authorization forms in connection with the disclosure of such information by the Hospital. To request copies of these forms, please contact Health Information Management at (212) 606-1254.
 
- **How to Obtain a Copy of This Notice.** You have the right to a paper copy of this notice. You may request a paper copy at any time, even if you have previously agreed to receive this notice electronically. To do so, please call Health Information Management at (212) 606-1254. You may also obtain a copy of this notice from our website at [www.hss.edu](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/redirect.aspx?Link=http://www.hss.edu/) or by requesting a copy at your next visit.
+ **How to Obtain a Copy of This Notice.** You have the right to a paper copy of this notice. You may request a paper copy at any time, even if you have previously agreed to receive this notice electronically. To do so, please call Health Information Management at (212) 606-1254. You may also obtain a copy of this notice from our website at [www.hss.edu](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/redirect.aspx?Link=http://www.hss.edu/) or by requesting a copy at your next visit.
 
- **How to Obtain a Copy of Revised Notice.** We may change our privacy practices from time to time. If we do, we will revise this notice so you will have an accurate summary of our practices, and the revised notice will apply to all of your health information. We will post any revised notice in our admitting areas and other locations in the Hospital. You will also be able to obtain your own copy of the revised notice by accessing our website at [www.hss.edu](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/redirect.aspx?Link=http://www.hss.edu/), calling our Health Information Management office at (212) 606-1254, or asking for one at the time of your next visit. The effective date of the notice will always be noted in the cover and at the top outside corner of the each page. We are required to abide by the terms of the notice that is currently in effect.
+ **How to Obtain a Copy of Revised Notice.** We may change our privacy practices from time to time. If we do, we will revise this notice so you will have an accurate summary of our practices, and the revised notice will apply to all of your health information. We will post any revised notice in our admitting areas and other locations in the Hospital. You will also be able to obtain your own copy of the revised notice by accessing our website at [www.hss.edu](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/redirect.aspx?Link=http://www.hss.edu/), calling our Health Information Management office at (212) 606-1254, or asking for one at the time of your next visit. The effective date of the notice will always be noted in the cover and at the top outside corner of the each page. We are required to abide by the terms of the notice that is currently in effect.
 
  **How to File a Complaint.** If you believe your privacy rights have been violated, you may file a complaint with us or with the Secretary of the Department of Health and Human Services. To file a complaint with us, please contact the Privacy Officer at (212) 774-7500 or send a letter to the Hospital to the attention of the Privacy Officer. No one will retaliate or take action against you for filing a complaint.
 
-[Back to Top](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#top)
+[Back to Top](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#top)
 
 ## What Health Information Is Protected
 
@@ -187,7 +187,7 @@ We may use and disclose your health information if we have removed any informati
 
 While we will take reasonable steps to safeguard the privacy of your health information, certain disclosures of your health information may occur during or as an unavoidable result of our otherwise permissible uses or disclosures of your health information. For example, during the course of a treatment session, other patients in the treatment area may see, or overhear discussion of, your health information.
 
-[Back to Top](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#top)
+[Back to Top](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#top)
 
 ## Your Rights To Access And Control Your Health Information
 
@@ -240,7 +240,7 @@ We are not required to agree to your request for a restriction, and in some case
 
 You have the right to request that we communicate with you about your medical matters in a more confidential way by requesting that we communicate with you by alternative means or at alternative locations. For example, you may ask that we contact you at home instead of at work. To request more confidential communications, please write to Health Information Management, 535 East 70th Street, New York, NY 10021. We will not ask you the reason for your request, and we will try to accommodate all reasonable requests. Please specify in your request how or where you wish to be contacted, and how payment for your health care will be handled if we communicate with you through this alternative method or location.
 
-[Back to Top](https://web.archive.org/web/20051229232527id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#top)
+[Back to Top](https://web.archive.org/web/20060621165924id_/http://www.hss.edu/About/Notice-of-Privacy-Practices/About/Notice-of-Privacy-Practices#top)
 
   
  _Last Updated March 26, 2003_
