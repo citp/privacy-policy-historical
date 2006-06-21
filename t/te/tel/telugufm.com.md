@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telugufm.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606044650id_/http%3A//www.telugufm.com/modules/misc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telugufm.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621162722id_/http%3A//www.telugufm.com/modules/misc/privacy.aspx) for the most accurate reproduction.*
 
 # TeluguFM - Privacy Policy
 
