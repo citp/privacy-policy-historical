@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230102840id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621100626id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
 
-# ExpertRating - Online Certification and Skill Testing
+# ExpertRating - Online Certification and Employment Testing
 
   
-**Effective August/13th/2005**
+**Effective from August 13th/2005**
 
-Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org./). 
+Your privacy is important to us. By participating in the Council of Better Business Bureau's BBBOnLine Privacy Program we have made a commitment to meet the programs' strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/). 
 
 This privacy notice has been provided for you to understand how we use information and the choices that you can exercise for the collection and use of the information. Below, you can go through some of the important privacy practices adhered to by ExpertRating. 
 
@@ -27,7 +27,7 @@ Location of employer (optional)
 
 Credit card or PayPal account information (only collected at the time of purchase) 
 
-Information collection while recommending ExpertRating - When you recommend ExpertRating to anyone using the 'Suggest a Friend' page at [ www.expertrating.com/suggestmore.asp](https://web.archive.org/web/20051230102840id_/http%3A//www.expertrating.com/privacy/www.expertrating.com/suggestmore.asp), the website collects the following information from you: 
+Information collection while recommending ExpertRating - When you recommend ExpertRating to anyone using the 'Suggest a Friend' page at [ www.expertrating.com/suggestmore.asp](https://web.archive.org/suggestmore.asp), the website collects the following information from you: 
 
 Suggestor's name
 
