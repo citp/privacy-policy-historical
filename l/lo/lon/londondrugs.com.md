@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londondrugs.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231213756id_/http%3A//www.londondrugs.com/Cultures/en-US/Content/CorporateInfo/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londondrugs.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621063615id_/http%3A//www.londondrugs.com/Cultures/en-US/Content/CorporateInfo/PrivacyPolicy) for the most accurate reproduction.*
 
 # London Drugs
 
@@ -73,6 +73,9 @@ We may also send you a thank you letter following a purchase from certain of our
 
 **London Drugs Online Store  
 ** The information provided by you to make a purchase on London Drugs Online Store is collected by London Drugs Limited to process your online transaction. In order to protect you from a fraudulent transaction, London Drugs Limited may provide your personal information, including but not limited to your address and credit card information, with a reputable third party organization to perform an address verification. This address verification is intended to ensure that the "Bill to" address that you have provided matches your credit card address.
+
+**London Drugs Wish List  
+** The information provided by you to create your personal Wish List is collected and used by London Drugs Limited to publish and maintain your Wish List as part of the London Drugs Wish List on our londondrugs.com website. The information we will collect from you will include, but not be limited to your name, contact information, event date & Wish List items. Some of this information will be displayed as part of your Wish List and members of the public will be able to view it. London Drugs may also use this information if we need to contact you regarding the London Drugs Wish List, your personal Wish List and any related matters thereto, such as changes to or purchases made from your Wish List, to advise you of any fulfillment or delivery matters or for follow up service matters. By creating your Wish List, you expressly consent to the collection, use and disclosure of your personal information as set out above. 
 
 **Pharmacy  
 ** London Drugs has always been and will remain committed to keeping all your personal health information confidential.  We recognise and appreciate your expectation that we ensure your privacy and confidentiality is maintained at all times.  We take this responsibility extremely seriously.
@@ -255,5 +258,5 @@ If you have any concerns about privacy, confidentiality or our policies and proc
 
 We will continuously assess ourselves to ensure that customer privacy is respected.  We will conduct our business in a manner that meets the expectations of our customers in the many communities in which we do business.
 
-Updated June 2, 2005  
+Updated May 2, 2006  
 
