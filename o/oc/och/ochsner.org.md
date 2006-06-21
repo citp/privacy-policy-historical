@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215153322id_/http%3A//www.ochsner.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621215946id_/http%3A//www.ochsner.org/privacy) for the most accurate reproduction.*
 
-# Ochsner Clinic Foundation Medical Information Privacy Policy
+# Ochsner
 
-**Ochsner Clinic Foundation  
+**Ochsner Health System  
 Patient Privacy Statement**
 
 **Notice of Privacy Practices**
 
-The record of the medical care you receive at Ochsner Clinic Foundation – your medical information – has always been treated as personal and private. However, federal privacy laws that we are required to communicate to you now also govern this medical information. 
+The record of the medical care you receive at Ochsner – your medical information – has always been treated as personal and private. However, federal privacy laws that we are required to communicate to you now also govern this medical information. 
 
 There are circumstances under which we, as the provider of your health care, are permitted to use and disclose your medical information:
 
@@ -19,7 +19,7 @@ Entities to which we may disclose your medical information are funeral directors
 
 Except under special circumstances, you are entitled to view and/or copy your medical record. You have the right to amend your medical information if you have reason to believe it is incorrect or incomplete. You are entitled to receive a list of those entities or individuals to whom we may have disclosed your medical information. You are entitled to receive a paper copy of the full Notice of Privacy Practices. Finally, if you feel your privacy rights have been infringed, you may file a complaint, without fear of penalty, with our institution or with the Federal Government.
 
-**OCHSNER CLINIC FOUNDATION  
+**OCHSNER HEALTH SYSTEM  
 HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT  
 NOTICE OF PRIVACY PRACTICES**  
 Version: Number 2  
@@ -124,14 +124,14 @@ You have the following rights regarding medical information that we maintain abo
 To inspect and receive copies of medical information that may be used to make decisions about you, you must submit your request in writing to:
 
 > Supervisor, Release Of Information  
->  Ochsner Clinic Foundation  
+>  Ochsner Medical Center  
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
 or
 
 > Medical Release of Information  
->  Ochsner Clinic Foundation  
+>  Ochsner Health Center Bluebonnet  
 >  9001 Summa Avenue  
 >  Baton Rouge, LA 70809
 
@@ -144,7 +144,7 @@ We may deny your request to inspect and copy in certain very limited circumstanc
 To request an amendment, your request must be made in writing and submitted to:
 
 > Patient Relations Department  
->  Ochsner Clinic Foundation  
+>  Ochsner   
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
@@ -164,7 +164,7 @@ We may deny your request for an amendment if it is not in writing or does not in
 To request this list or accounting of disclosures, you must submit your request in writing to:
 
 > Patient Relations Department  
->  Ochsner Clinic Foundation  
+>  Ochsner   
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
@@ -177,7 +177,7 @@ _We are not required to agree to your request_. If we do agree, we will comply w
 To request restrictions, you must make your request in writing to:
 
 > Patient Relations Department  
->  Ochsner Clinic Foundation  
+>  Ochsner   
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
@@ -188,7 +188,7 @@ In your request, you must tell us (1) what information you want to limit; (2) wh
 To request confidential communications, you must make your request in writing to:
 
 > Patient Relations Department  
->  Ochsner Clinic Foundation  
+>  Ochsner   
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
@@ -199,7 +199,7 @@ We will not ask you the reason for your request. We will accommodate all reasona
 To obtain a paper copy of this notice, contact:
 
 > Patient Relations Department  
->  Ochsner Clinic Foundation  
+>  Ochsner   
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
@@ -214,7 +214,7 @@ We reserve the right to change this notice. We reserve the right to make the rev
 If you believe your privacy rights have been violated, you may file a complaint with our institution or with the Secretary of the Department of Health and Human Services. To file a complaint with Ochsner Clinic Foundation, contact:
 
 > Patient Relations Department  
->  Ochsner Clinic Foundation  
+>  Ochsner   
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
