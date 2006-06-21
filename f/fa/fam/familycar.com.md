@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the familycar.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212153947id_/http%3A//www.familycar.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familycar.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621201545id_/http%3A//familycar.com/privacy.htm) for the most accurate reproduction.*
 
-# Wheel Alignment A short course
+# Privacy Policy
+
+|  | 
 
 **Privacy Policy**
 
