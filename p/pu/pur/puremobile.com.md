@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the puremobile.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225225157id_/http%3A//www.puremobile.com/help_center.php%3Fsection%3Dterms%26question%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puremobile.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621154359id_/http%3A//puremobile.com/help.asp%3Fsection%3Dterms%26question%3D3) for the most accurate reproduction.*
 
-# PureMobile - Buy Unlocked GSM Cellular Phones & OEM Accessories
+# PureMobile - Help Page
 
 PureMobile is hosted using a private server where it hosts the PureMobile.com and PureMobile.ca Online Store pages, the online ordering system, and the order data.
 
