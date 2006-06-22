@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whitepages.ca privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212121603id_/http%3A//www.whitepages.ca/10002/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.ca privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622023241id_/http%3A//www.whitepages.ca/10002/privacy) for the most accurate reproduction.*
 
 # WhitePages.ca - Canadian Online Directory Assistance
 
-**LAST REVISION: 3/31/2005**  
+**LAST REVISION: 4/13/2006**  
 Privacy Policy Glossary
 
 [](http://www.truste.org/ivalidate.php?url=www.whitepages.ca&sealid=101) WhitePages.com respects your right to privacy and we are committed to protecting it. We believe it is a commitment crucial to our continued success as a trusted consumer brand. Accordingly, we abide by the following privacy principles for all the Personal Information we collect from you: 
@@ -20,7 +20,7 @@ As our business grows and changes, we expect to revise or enhance these policies
 
 If you want to add, edit or remove your listing from our database, please visit our [customer support page](http://www.whitepages.com/corporate/contact_us). If you have any other privacy related questions, you can view a longer version of our policy that provides a detailed discussion about each of the "Short Policy" statements. Click here to view our [Long Privacy Policy](https://web.archive.org/10002/privacy?policy=long). 
 
-You can also contact our Chief Privacy Officer, Rob Voce, by e-mail at [privacy@whitepages.com](mailto:privacy@whitepages.com) or by mail at 1301 Fifth Ave, Suite 1600, Seattle, WA 98101. 
+You can contact us by e-mail at [privacy@whitepages.com](mailto:privacy@whitepages.com). Or you can send mail to the WhitePages.com Inc. Privacy Committee at WhitePages.com Inc. Attn: Privacy Committee, 1301 Fifth Ave, Suite 1600, Seattle, WA 98101.
 
 **WhitePages.com Network's Short Privacy Policy**
 
@@ -51,20 +51,18 @@ NOTE: This privacy policy applies only to the privacy of users of the WhitePages
 
 "Contact Information" means information you have collected and saved using ContactsManager or MyInfo AddressBook. 
 
+"Cookies" means small files containing a string of characters which our servers send to your computer that uniquely identify your browser. 
+
 "Contacts" means the individuals and/or entities existing within Contact Information. 
 
-"Personally Identifiable Information" or "Personal Information" means your name, address, telephone number or other information which by its nature can identify you personally. Personally Identifiable Information does not mean the information found in our standard white page listing database which we make available to the general public. 
+"Personally Identifiable Information" or "Personal Information" or "PII" means your name, address, telephone number or other information which by its nature can identify you personally. Notwithstanding the foregoing, Personally Identifiable Information does not mean the information found in our standard white page listing database which we obtain from a third party and which we make available to the general public. 
 
 "Registration Information" means your name, e-mail address, and password. 
 
-"WhitePages.com" means WhitePages.com, Inc., a Washington corporation. 
+"Web Beacons" a pixel tag or a clear GIF that is attached to an e-mail or Web site that is used to monitor the behavior of the user visiting the Web site or viewing the e-mail. 
 
-"WhitePages.com Network" or "Sites" means the Web sites located at [www.whitepages.com](http://www.whitepages.com/), [www.whitepages.ca](http://www.whitepages.ca/), [www.411.com](http://www.411.com/), [www.phonenumber.com](http://www.phonenumber.com/) and Web sites that incorporate the content of www.whitepages.com. 
+"WhitePages.com" means WhitePages.com, Inc., a Delaware corporation. 
 
-"Your Information" means your Registration Information, Contacts and Contact Information. 
+"WhitePages.com Network" or "Sites" means the Web sites located at [www.whitepages.com](http://www.whitepages.com/), [www.whitepages.ca](http://www.whitepages.ca/), [www.411.com](http://www.411.com/), [www.phonenumber.com](http://www.phonenumber.com/), [www.whitepages411.com](http://www.whitepages411.com/) and the Web pages hosted by WhitePages.com that incorporate the content of www.whitepages.com. 
 
-[Back to top]   
-  
-Copyright © 1996-2005 WhitePages.ca. All rights reserved.   
-[Privacy Policy](https://web.archive.org/10002/privacy "Privacy policy"), [Legal Notice](https://web.archive.org/10002/legal_notice "Legal notice") and [Terms](https://web.archive.org/10002/terms "Terms") under which this service is provided to you.   
-[](https://web.archive.org/10002/privacy)    [](http://www.bbbonline.org/cks.asp?id=20104091129015251)
+[Back to top] 
