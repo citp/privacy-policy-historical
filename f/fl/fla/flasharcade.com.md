@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flasharcade.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214085348id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flasharcade.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622034352id_/http%3A//clevermedia.com/privacy.html) for the most accurate reproduction.*
 
 # CleverMedia : Privacy Policy
 
@@ -26,7 +26,7 @@ CleverMedia is required by law to provide you with the following information:
 * Here is a disclosure of the types of personal information we collect from children and how our site uses that information: We don't collect ANY information from children. 
 * Here is a disclosure in about whether the personal information we collect from children is shared with third parties, and, if so, how the third parties use the information: We don't collect ANY information from children or anyone else, so we don't have any information to share. 
 * Here is a disclosure in that parents have the right to review and delete any personal information your site previously collected from their child: We don't collect ANY information from children or anyone else, so we don't have any information that parents can review or delete. 
-* Here is the contact information for our website operator: [email us](http://clevermedia.com/emailform-general.html). See the bottom of this page for complete contact information. 
+* Here is the contact information for our website operator: [email us](http://clevermedia.com/email-feedback.html). See the bottom of this page for complete contact information. 
 
 **Privacy at the CleverMedia Shockwave Arcade:**
 
@@ -50,10 +50,10 @@ FlashArcade.com ads are served by BurstMedia. Read their privacy statement at <h
 
 **CONTACT INFORMATION**
 
-If you have any further questions, please [contact us](http://clevermedia.com/emailform-general.html).
+If you have any further questions, please [contact us](http://clevermedia.com/email.html).
 
 According to law, we must provide complete contact information in our privacy policay. This information is provided for privacy policy issues ONLY. If you use this to SPAM us or send us unsolicited mail or make unsolicited phone calls, we will take appropriate action.
 
-Email address: We have provided a link to a form where you can [email us](http://clevermedia.com/emailform-general.html). Use this form. However, because the law is unclear whether this is enough, we need to provide an email address here. Because SPAM software will search this page, pick up this email address, and SPAM us, we will provide a special email address only for privacy policy inquiries: privacy2(at)clevermedia(dot)com. Notice that I have replaced the @ symbol with (at) and the . with (dot) so that the email can't be harvested by spammers from this page. If anyone uses this special email address to send us SPAM, we will take appropriate action according to federal and state laws.
+Email address: We have provided a link to a form where you can [email us](http://clevermedia.com/email-feedback.html). Use this form. However, because the law is unclear whether this is enough, we need to provide an email address here. Because SPAM software will search this page, pick up this email address, and SPAM us, we will provide a special email address only for privacy policy inquiries: privacy2(at)clevermedia(dot)com. Notice that I have replaced the @ symbol with (at) and the . with (dot) so that the email can't be harvested by spammers from this page. If anyone uses this special email address to send us SPAM, we will take appropriate action according to federal and state laws.
 
 Mailing address: CleverMedia, 1022 N. Speer Blvd., Denver, CO 80204. Do not send us junk mail.
