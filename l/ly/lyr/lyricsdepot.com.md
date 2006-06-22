@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the lyricsdepot.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218093225id_/http%3A//www.lyricsdepot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsdepot.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623013045id_/http%3A//www.lyricsdepot.com/privacy.html) for the most accurate reproduction.*
 
-# Lyrics Depot - Over 50,000 Free Song Lyrics
+# Lyrics Depot - Privacy
 
-  
+**Link to Us**  
+Webmasters! Like this song? Add a link to our site. 
+
+**Bookmark**  
+Like the site? Bookmark Us and come back for all your lyrics needs. 
+
+|    
 At Lyrics Depot we care about providing you with tools and information to manage and protect your online privacy. We have developed this privacy policy to inform you about what information this web site collects, who may receive that information, what we may do with the information, and how long we keep it. While we have made every attempt to make this policy as clear as possible, if you have any further questions about it, please contact us:
 
 > Lyrics Depot  
