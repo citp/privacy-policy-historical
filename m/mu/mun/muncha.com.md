@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muncha.com privacy policy that was archived on 2005-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050923075540id_/http%3A//muncha.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muncha.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622210509id_/http%3A//muncha.com/policy.asp) for the most accurate reproduction.*
 
 # MUNCHA.COM : PRIVACY POLICY
 
