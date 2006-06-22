@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypayflex.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217204700id_/http%3A//www.payflex.com/mypayflex/default.asp%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypayflex.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622082848id_/http%3A//www.payflex.com/mypayflex/default.asp%3Fc%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ Types of Information We Collect
 
 **_
 
-We collect only the customer information necessary to consistently deliver responsive services. We collect information that helps serve your needs, provide high standards of customer service, and fulfill legal and regulatory requirements. The sources and types of information collected may include demographic, payroll, and banking data; Social Security or other identifying numbers, and other information we receive that is used in our administration service processing. We use this information to process transactions, respond to inquiries, and fulfill administrative services requirements. Failure to provide requested information may limit access to the services offered.
+We collect only the information necessary to consistently deliver responsive, high quality services, serve your needs, and fulfill legal and regulatory requirements. The sources and types of information collected may include demographic, payroll, and banking data, Social Security or other identifying numbers, email address as well as other information we receive that is used in our administration service processing. We use this information to process transactions, respond to inquiries, and fulfill administrative services requirements. Failure to provide requested information may limit access to the services offered.
 
 _**
 
