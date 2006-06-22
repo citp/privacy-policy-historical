@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peaks.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222023415id_/http%3A//www.peaks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peaks.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622224704id_/http%3A//www.peaks.com/privacy.html) for the most accurate reproduction.*
 
 # American Skiing Company | Privacy Policy
 
