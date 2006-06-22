@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230101132id_/http%3A//www.powerhouse-fitness.co.uk/store/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622215612id_/http%3A//powerhouse-fitness.co.uk/store/privacy.asp) for the most accurate reproduction.*
 
 # Powerhouse Fitness: Privacy Policy
 
-|  |  |   
+| 
+
+[ ](http://www.safebuy.org.uk/members/sport/member403111.htm)
+
+[ ](http://www.powerhouse-fitness.co.uk/store/terms.asp#security?)
+
+|  |  | 
+
+You are not logged in. [**Log in**](https://web.archive.org/web/20060622215612id_/http%3A//powerhouse-fitness.co.uk/store/customer_login.asp) or [**sign up**](https://web.archive.org/web/20060622215612id_/http%3A//powerhouse-fitness.co.uk/store/customer_newuser.asp) for special offers and downloads.   
+  
 ---|---  
   
   
@@ -67,9 +76,9 @@ Note that switching on cookies for Powerhouse-fitness will have no bearing on th
    
   |   |    
   
+[](http://www.powerhouse-fitness.co.uk/store/smart-tec.asp)  
 [](http://www.powerhouse-fitness.co.uk/store/product.asp?pf%5Fid=Horizon%5FParagon%5FII%5FTreadmill%5FCarbon&dept%5Fid=2)  
 [](http://www.powerhouse-fitness.co.uk/store/store_manufacturer.asp?manu_name=Bowflex)  
-[](http://www.powerhouse-fitness.co.uk/store/powertec-the-original-leverage-gym.asp)  
 [](http://www.powerhouse-fitness.co.uk/store/product.asp?pf%5Fid=Beny%5F808%5FOxbridge%5FFolding%5FRower&dept%5Fid=6)  
 [](http://www.powerhouse-fitness.co.uk/store/specials-infiniti.asp#Infiniti)  
   
