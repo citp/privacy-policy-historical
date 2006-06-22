@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2005-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051208050049id_/http%3A//www.cosmosmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmosmagazine.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622090304id_/http%3A//www.cosmosmagazine.com/privacy) for the most accurate reproduction.*
 
-# Cosmos magazine online subscription.
+# Privacy | COSMOS magazine
+
+  
+
 
 Luna Media Pty Ltd has a firm commitment to privacy in accordance with the Privacy Amendment (Private Sector) Act 2000, which took effect in December 2001.
 
@@ -49,14 +52,9 @@ If you have any questions about this privacy policy, any privacy related dealing
 Privacy manager  
 Luna Media Pty Ltd  
 Level 2, 25 Cooper Street  
-SURRY HILLS NSW 2010  
-
+SURRY HILLS NSW 2010
 
 Phone +61 2 9219 2500  
-Fax +61 2 9281 2360  
-
+Fax +61 2 9281 2360 
 
 Email: [privacy@lunamedia.com.au](mailto:privacy@lunamedia.com.au)
-
-  
-
