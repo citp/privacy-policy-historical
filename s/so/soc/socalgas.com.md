@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230003702id_/http%3A//www.socalgas.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socalgas.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623003509id_/http%3A//socalgas.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,14 +49,13 @@ To the extent the third party materials contain assertions of fact, recommendati
 
 
 **Claims of Infringement on Web site**  
-In the event that any visitor believes that its copyrights or trademarks are infringed by materials posted or stored on this Web site, they should email a "Notice of Infringement" to our representative at: info@sdge.com with a confirming copy faxed to: 858-654-1755. Any such Notice must provide the information required under the relevant provision of the Digital Millennium Copyright Act, 17 U.S.C. Section 512 (c)(3)(A) (or any successor thereto). As provided in that Act, any notification claiming  
-infringement that fails to comply substantially with the provisions above shall not be considered as providing "actual knowledge" or an "awareness of facts or circumstances from which infringing activity is apparent". Please provide a separate Notice each time you wish to report alleged acts of infringement. 
+In the event that any visitor believes that its copyrights or trademarks are infringed by materials posted or stored on this Web site, they should email a "Notice of Infringement" to our representative at: info@sdge.com with a confirming copy faxed to: 858-654-1755. Any such Notice must provide the information required under the relevant provision of the Digital Millennium Copyright Act, 17 U.S.C. Section 512 (c)(3)(A) (or any successor thereto). As provided in that Act, any notification claiming infringement that fails to comply substantially with the provisions above shall not be considered as providing "actual knowledge" or an "awareness of facts or circumstances from which infringing activity is apparent". Please provide a separate Notice each time you wish to report alleged acts of infringement. 
 
 **Revisions To Privacy Policy**   
 SoCalGas reserves the right, at any time, and without notice, to add to, change, modify or update this Privacy Policy by posting a revised policy on this Web site. Any revised Privacy Policy shall be effective immediately on posting. 
 
 **Questions Or Comments**   
 Please contact the SoCalGas Webmaster at  
-[webmaster@socalgas.com](mailto:webmaster@socalgas.com?Subject=Privacy%20Questions). 
+[webmaster@socalgas.com](mailto:webmaster@socalgas.com?Subject=SCG%20Privacy). 
 
 Please note, however, that information regarding these contacts or correspondence with SoCalGas may be retained in a file that is specific to you. 
