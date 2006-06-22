@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the philb.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220171522id_/http%3A//www.philb.com/privpol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philb.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622135846id_/http%3A//www.philb.com/privpol.htm) for the most accurate reproduction.*
 
 # 
 
 ---  
-[](http://www.philb.com/)[](https://web.archive.org/web/20051220171522id_/http%3A//www.philb.com/searchindex.htm)[](https://web.archive.org/web/20051220171522id_/http%3A//www.philb.com/designindex.htm)  
-[](https://web.archive.org/web/20051220171522id_/http%3A//www.philb.com/subjectindex.htm)[](https://web.archive.org/web/20051220171522id_/http%3A//www.philb.com/articlesindex.htm)[](https://web.archive.org/web/20051220171522id_/http%3A//www.philb.com/presentindex.htm)  
+[](http://www.philb.com/)[](https://web.archive.org/web/20060622135846id_/http%3A//www.philb.com/searchindex.htm)[](https://web.archive.org/web/20060622135846id_/http%3A//www.philb.com/designindex.htm)  
+[](https://web.archive.org/web/20060622135846id_/http%3A//www.philb.com/subjectindex.htm)[](https://web.archive.org/web/20060622135846id_/http%3A//www.philb.com/articlesindex.htm)[](https://web.archive.org/web/20060622135846id_/http%3A//www.philb.com/presentindex.htm)  
 [](http://www.philb.com/blog/blogger.html)[](http://www.philb.com/sitemap.htm) |  |  |   
   
 (Provided by [Atomz.com](http://www.atomz.com/)) |   |   |    
