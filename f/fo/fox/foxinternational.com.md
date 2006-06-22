@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxinternational.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231084506id_/http%3A//foxus.rsc03.net/servlet/website/ResponseForm%3FMQNlE1zwkpOHJRwhspJR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxinternational.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623001429id_/http%3A//foxus.rsc03.net/servlet/website/ResponseForm%3FMQNlE1zwkpOHJRwhspJR) for the most accurate reproduction.*
 
 # 20th Century Fox
 
