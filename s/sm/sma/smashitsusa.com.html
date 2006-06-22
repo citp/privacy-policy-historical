@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smashitsusa.com privacy policy that was archived on 2005-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051221062503id_/http%3A//www.smashitsusa.com/index.cfm%3FPage%3DInfo%26Subpage%3DPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smashitsusa.com privacy policy that was archived on 2006-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060622151515id_/http%3A//smashitsusa.com/index.cfm%3FPage%3DInfo%26Subpage%3DPrivacyPolicy) for the most accurate reproduction.-->
 
 <html><head>
 <title>SmasHitsUSA.com</title>
@@ -71,37 +71,52 @@ function initAll() {
 }
 //-->
 </script>
-
-<script language="JavaScript" type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
-
-<script language="JavaScript" type="text/javascript">
+<script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+<script type="text/javascript">
 <!--
+    function  _CF_checklogin(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
 
-function  _CF_checklogin(_CF_this)
-{
-	if  (!_CF_hasValue(_CF_this.Password, "PASSWORD" ))
-	{
-		if  (!_CF_onError(_CF_this, _CF_this.Password, _CF_this.Password.value, "enter password"))
-		{
-			return false;
-		}
-	}
+        //form element Email required check
+        if( !_CF_hasValue(_CF_this['Email'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "Email", _CF_this['Email'].value, "enter email");
+            _CF_error_exists = true;
+        }
 
-	if  (!_CF_hasValue(_CF_this.Email, "TEXT" ))
-	{
-		if  (!_CF_onError(_CF_this, _CF_this.Email, _CF_this.Email.value, "enter email"))
-		{
-			return false;
-		}
-	}
-
-	return true;
-}
+        //form element Password required check
+        if( !_CF_hasValue(_CF_this['Password'], "PASSWORD", false ) )
+        {
+            _CF_onError(_CF_this, "Password", _CF_this['Password'].value, "enter password");
+            _CF_error_exists = true;
+        }
 
 
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
 //-->
 </script>
-
 </head>
 <body bgcolor="ffffff" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" alink="0000FF" vlink="0000FF" link="0000FF">
 
@@ -165,16 +180,16 @@ document.write('<IFRAME WIDTH=460 HEIGHT=120 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE
 	</tr>
 	<tr>
 		<td width="195" bgcolor="FFFFFF"> 
-		<img src="http://images.smashitsusa.com/adbar/a_03.jpg" width="195" height="81" border="0"><br>
+		<img src="http://images.smashitsusa.com/adbar/a_02.jpg" width="195" height="81" border="0"><br>
 	</td>
 		<td width="318" bgcolor="FFFFFF" align="center"> 
-		<a href="/index.cfm?Page=Audio&amp;SubPage=Radio"><img src="http://images.smashitsusa.com/adbar/b_06.gif" width="318" height="81" border="0"></a><br>
+		<img src="http://images.smashitsusa.com/adbar/b_05.gif" width="318" height="81" border="0"><br>
 	</td>
 		<td width="235" bgcolor="FFFFFF" align="right">
 			<script language="JavaScript">
 function imgswap(primary, imgname1) { eval("document." + primary + ".src = '" + imgname1 + "'"); } 
 </script>
-<form name="login" action="/executeprocess.cfm?ProcessID=m_login" method="POST" onsubmit="return _CF_checklogin(this)"> 
+<form name="login" action="/executeprocess.cfm?ProcessID=m_login" method="post" onsubmit="return _CF_checklogin(this)">
 <table width="235" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
 		<td rowspan="4" width="80" valign="middle" align="right">
@@ -187,9 +202,10 @@ function imgswap(primary, imgname1) { eval("document." + primary + ".src = '" + 
 		<td width="125" align="right"><img src="http://images.smashitsusa.com/email_01.gif" width="40" height="10" border="0"></td>
 		<td rowspan="4" width="30" align="center" valign="middle"><input type="Image" name="Submit" src="http://images.smashitsusa.com/go_01.gif" width="23" height="67" border="0"></td>
 	</tr>
-	<tr><td width="125" align="right"><input type="Text" name="Email" style="font-weight:normal;font-size:10px;" size="17"></td></tr>
+	<tr><td width="125" align="right"><input name="Email" id="Email" type="text" size="17" style="font-weight:normal;font-size:10px;"></td></tr>
 	<tr><td width="125" align="right"><img src="http://images.smashitsusa.com/password_01.gif" width="63" height="11" border="0"></td></tr>
-	<tr><td width="125" align="right"><input type="Password" name="Password" style="font-weight:normal;font-size:10px;" size="17"></td> </tr>
+	<tr><td width="125" align="right"><input name="Password" id="Password" type="password" size="17" style="font-weight:normal;font-size:10px;"></td>
+</tr>
 </tbody></table>
 		</form></td>
 	</tr>
@@ -302,7 +318,7 @@ if(doc.cookie.indexOf('e=llo') <= 0 && doc.cookie.indexOf('2=o') > 0){
 doc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
 doc.write('/w/pop.cgi?sid=7705&m=2&v=1.7&u='+url+'&c='+bust+'"></scr'+'ipt>');
 doc.cookie='he=llo; path=/;';} // -->
-</script><script language="javascript" src="http://media.fastclick.net/w/pop.cgi?sid=7705&amp;m=2&amp;v=1.7&amp;u=https%3A//web.archive.org/web/20051221062503id_/http%253A//www.smashitsusa.com/index.cfm%253FPage%253DInfo%2526Subpage%253DPrivacyPolicy&amp;c=40"></script>
+</script><script language="javascript" src="http://media.fastclick.net/w/pop.cgi?sid=7705&amp;m=2&amp;v=1.7&amp;u=https%3A//web.archive.org/web/20060622151515id_/http%253A//smashitsusa.com/index.cfm%253FPage%253DInfo%2526Subpage%253DPrivacyPolicy&amp;c=40"></script>
 <script language="javascript"><!--
 var doc=document; if(doc.all && doc.getElementById){
 var url=escape(doc.location.href);var mjo=Math.floor(Math.random()*7777);
