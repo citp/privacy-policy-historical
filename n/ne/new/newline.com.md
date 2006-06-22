@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newline.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224181404id_/http%3A//www.newline.com/privacy/privacy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newline.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623000201id_/http%3A//www.newline.com/privacy/privacy1.html) for the most accurate reproduction.*
 
 # New Line Cinema Privacy Policy
 
@@ -67,10 +67,10 @@ To protect your privacy and security, we will take reasonable steps to help veri
 From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this notice so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
 **_How to Contact Us_  
-**If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may [contact us](https://web.archive.org/web/20051224181404id_/http%3A//www.newline.com/contactus.shtml).  
+**If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may [contact us](https://web.archive.org/web/20060623000201id_/http%3A//www.newline.com/contactus.shtml).  
 
 
 The privacy notice posted on this site was updated on or about August 17th, 2004.
 
   
-™ & © MMV New Line Productions, Inc. All rights reserved. [Terms of Use](http://www.newline.com/termsofuse/index.html)
+™ & © MMVI New Line Productions, Inc. All rights reserved. [Terms of Use](http://www.newline.com/termsofuse/index.html)
