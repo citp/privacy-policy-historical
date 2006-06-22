@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219012851id_/http%3A//ditech.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622113945id_/http%3A//ditech.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Home Loans - Home Equity Loans
+# ditech.com is known for Low Mortgage Rates and Being a Leader in the Home Loan Industry
 
 Privacy Policy
 
