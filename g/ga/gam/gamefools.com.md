@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamefools.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230014401id_/http%3A//www.gamefools.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefools.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622062731id_/http%3A//www.gamefools.com/privacy.php) for the most accurate reproduction.*
 
-# GameFools Game Download Directory - Privacy Policy
+# Free Downloadable Games - Download Games at Game Fools
 
-##  **GameFools Privacy Policies**
+##  **GameFools Privacy Policy**
 
 **Please read this document carefully before accessing the content on this web site.**
 
@@ -18,11 +18,15 @@ A cookie is a piece of data stored on the user's hard drive containing anonymous
 
 **Links**
 
-This web site contains links to other sites. Please be aware that GameFools is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
+This web site may contain links to other sites. Please be aware that GameFools is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
 
 **Newsletter**
 
 If a user wishes to subscribe to our newsletter we ask for contact information such as name and email address. This information will be used only for the purposes of our newsletter and will not be shared with any outside parties. Users who no longer wish to receive our newsletter may opt-out of receiving it by clicking on the link to do so in the body of the email. 
+
+**Purchases**
+
+If you make a purchase from us through our site, we will ask you to provide certain information, including your contact details (such as your name, address, telephone and email), and your billing information (such as your credit card number and the date that your card expires). We will use this information to process your transaction and to contact you regarding your purchase if necessary. We will share this information with our payment processor to the extent necessary to facilitate your purchase (for purposes such as customer service, verification, fulfillment and billing purposes). We will not sell or rent your personal billing information to any third party. 
 
 **Referral Service**
 
