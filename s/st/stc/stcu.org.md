@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stcu.org privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211063133id_/http%3A//www.stcu.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stcu.org privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622192057id_/http%3A//www.stcu.org/privacy.html) for the most accurate reproduction.*
 
 # STCU: Privacy Policy
 
@@ -66,5 +66,5 @@ What this means for you: When you open an account, we will ask for your name, ad
 
 ### Privacy Pledge Inquiries
 
-We reserve the right to change our Privacy Pledge in the future and will notify you of any changes as required by law. If you have any questions about our privacy practices contact us by calling (509) 326-1954 or 1-800-858-3750. You may also send us an e-mail at [info@stcu.org](mailto:info@stcu.org), or write to us at Spokane Teachers Credit Union, 1620 N. Signal Drive, Liberty Lake, WA 99019-9517.  
+We reserve the right to change our Privacy Pledge in the future and will notify you of any changes as required by law. If you have any questions about our privacy practices, contact us by calling (509) 326-1954 or (800) 858-3750. You may also send us an e-mail at [info@stcu.org](mailto:info@stcu.org), or write to us at Spokane Teachers Credit Union, 1620 N. Signal Drive, Liberty Lake, WA 99019-9517.  
 
