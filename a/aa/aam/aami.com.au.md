@@ -1,25 +1,24 @@
-> *The following text is extracted and transformed from the aami.com.au privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223141419id_/http%3A//www.aami.com.au/privacy_terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aami.com.au privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623000416id_/http%3A//www.aami.com.au/privacy_terms/privacy.asp) for the most accurate reproduction.*
 
 # AAMI - Security and Privacy Policy
 
-Print page
-
-1\. About this Security and Privacy Statement
+  
+| 1 | About this Security and Privacy Statement  
+---|---  
+  | 
 
 This website is owned and operated by or on behalf of Australian Associated Motor Insurers Limited ABN 92 004 791 744 (“AAMI”) and includes all web pages under the domain name “aami.com.au” and any other AAMI-branded web pages which include an authorised link to this Security and Privacy Statement (the “AAMI Website”).
 
 This Security and Privacy Statement explains our policy for handling personal information which you may provide to us as you access and interact with the AAMI Website. This Statement should be read in conjunction with:
 
-  * our brochure “[AAMI and Your Personal Information](http://www.aami.com.au/products/policy/privacy/pdf/AAMI_4109_Privacy_Brochure.pdf)”, which deals with our handling of personal information generally; and
-  * the AAMI [Website Terms of Use.](http://www.aami.com.au/privacy_terms/terms.asp)
-
-
-
 As the AAMI Website develops and as technology evolves, AAMI will continue to strive to provide you with better services. AAMI encourages you to review the AAMI Security and Privacy Statement periodically as it may be updated from time to time.
 
-In addition to the provisions of this Security and Privacy Statement, there may also be specific and additional privacy provisions which apply to certain parts of the AAMI Website. You should review such additional provisions where applicable and accessible via the AAMI Website.
-
-2\. Your Security and Privacy
+In addition to the provisions of this Security and Privacy Statement, there may also be specific and additional privacy provisions which apply to certain parts of the AAMI Website. You should review such additional provisions where applicable and accessible via the AAMI Website.  
+  
+  
+2 | Your Security and Privacy   
+---|---  
+  | 
 
 AAMI understands and appreciates that you, as an AAMI Website visitor, are concerned about your security, privacy and the confidentiality of information we may gain about you online. We at AAMI have always prided ourselves on playing a proactive role in the development of quality, best practice privacy policies for both our customer base and for individuals who provide us with information in relation to employment with AAMI.
 
@@ -32,13 +31,19 @@ Two of the four personal information promises in the current Charter are that:
 
 
 
-Whilst these promises apply to the AAMI Website with the same force as they do to all other AAMI activities, we have taken specific measures to respect your privacy and the security of any personal information you may provide to us while visiting the AAMI Website.
+Whilst these promises apply to the AAMI Website with the same force as they do to all other AAMI activities, we have taken specific measures to respect your privacy and the security of any personal information you may provide to us while visiting the AAMI Website.  
+  
+  
+3 | Emailing AAMI  
+---|---  
+  | 
 
-3\. Emailing AAMI
-
-Unless otherwise stated, when you send us an email, the contents of your email and your email address is retained by AAMI for only as long as it takes to respond to your inquiry unless you provide us with your permission to retain that information or where we believe there is a legal reason to retain the information for a longer period.
-
-4\. Information collected and how we use it
+Unless otherwise stated, when you send us an email, the contents of your email and your email address is retained by AAMI for only as long as it takes to respond to your inquiry unless you provide us with your permission to retain that information or where we believe there is a legal reason to retain the information for a longer period.  
+  
+  
+4 | Information collected and how we use it  
+---|---  
+  | 
 
 **4.1 General information**
 
@@ -80,23 +85,32 @@ Unless otherwise stated, when you send us an email, the contents of your email a
 > 
 > In instances where AAMI engages a third party recruitment agency to assist with our recruitment efforts, we will ensure that their privacy policy commitments compliment ours.
 
-**4.4 Third party sites**
+**4.4 Third Party Sites**
 
-> The AAMI Website may contain links to websites which are owned or operated by third parties independent of AAMI (“Third Party Websites”). Third Party Websites should contain their own privacy statements and, should you choose to access those Third Party Websites, they are responsible for informing you about their security and privacy practices.
+> The AAMI Website may contain links to websites which are owned or operated by third parties independent of AAMI (“Third Party Websites”). Third Party Websites should contain their own privacy statements and, should you choose to access those Third Party Websites, they are responsible for informing you about their security and privacy practices.  
+  
+  
+5 | Making an online payment to AAMI   
+---|---  
+  | 
 
-5\. Making an online payment to AAMI
+When you make a payment on our Website using your credit card, your credit card number is passed in a secure manner between the AAMI Website and third party payment providers, such as the issuer of your credit card. Your credit card number will be recorded in the AAMI mainframe computer system, and will not be transmitted over the Internet to credit card providers or payment providers. AAMI, and any payment providers will not store your credit card details on any web server. If your credit card number is stored, it will be only for AAMI or bank record keeping purposes, and then it will be stored with an even higher level of encryption.   
+  
+  
+6 | Cookies  
+---|---  
+  | 
 
-When you make a payment on our Website using your credit card, your credit card number is passed in a secure manner between the AAMI Website and third party payment providers, such as the issuer of your credit card. Your credit card number will be recorded in the AAMI mainframe computer system, and will not be transmitted over the Internet to credit card providers or payment providers. AAMI, and any payment providers will not store your credit card details on any web server. If your credit card number is stored, it will be only for AAMI or bank record keeping purposes, and then it will be stored with an even higher level of encryption.
-
-6\. Cookies
-
-The AAMI Website uses “cookies” as a fundamental part of its interaction with your Internet browser. Cookies enable AAMI to provide you with a superior and more customised service.
+The AAMI Website uses cookies as a fundamental part of its interaction with your Internet browser. Cookies enable AAMI to provide you with a superior and more customised service.
 
 A “cookie” is a small text file placed on your computer by our web server. A cookie can later be retrieved by the AAMI Website servers. Cookies are frequently used on websites and you can choose if and how a cookie will be accepted by configuring your preferences and options in your browser. Cookies do not alter the operation of your computer in any way.
 
-Cookies are used by the AAMI Website to enable the AAMI Website online insurance quotation and purchase processes. Most of the AAMI Website operates by use of cookies. Therefore, if you wish to make full use of the AAMI Website, it is recommended that you accept cookies. Cookies may also be used to record non-personalised information such as the date, time or duration of your visit, or the pages accessed, for website administration, statistical and maintenance purposes. Any such information will be aggregated and not attributed to individual users.
-
-7\. Use and disclosure of information
+Cookies are used by the AAMI Website to enable the AAMI Website online insurance quotation and purchase processes. Most of the AAMI Website operates by use of cookies. Therefore, if you wish to make full use of the AAMI Website, it is recommended that you accept cookies. Cookies may also be used to record non-personalised information such as the date, time or duration of your visit, or the pages accessed, for website administration, statistical and maintenance purposes. Any such information will be aggregated and not attributed to individual users.   
+  
+  
+7 |  Use and disclosure of information  
+---|---  
+  | 
 
 We collect personal information for the purposes of communicating with our customers, setting premiums appropriately, investigating and paying claims, providing products and services that meet our customers’ needs and compiling statistics. We may also use or disclose personal information we collect in relation to the AAMI Website or visitors to the AAMI Website:
 
@@ -114,9 +128,12 @@ We may provide personal information we collect through the AAMI Website to third
   * our service providers who assist us in providing the AAMI Website and our products and services (for example internet and technology service providers, mail houses, call centres, credit card and payment providers, and delivery companies); or
   * insurance reference service providers.
 
-
-
-8\. Access
+  
+  
+  
+8 |  Access   
+---|---  
+  | 
 
 If you have any queries about privacy, or if you wish to request access to any personal information which we hold about you please contact:
 
@@ -130,9 +147,12 @@ Prior to releasing this information, AAMI may require a written request or proof
 
 We respect your rights to review this information, and we will endeavour to provide information within a reasonable time, however, we are entitled to charge you a reasonable fee for access to this information.
 
-For information about how to obtain copies of documents such as policy information and claims documents, please see our brochure “[AAMI and Your Personal Information](http://www.aami.com.au/products/policy/privacy/pdf/AAMI_4109_Privacy_Brochure.pdf)”.
-
-9\. Acceptance and changes to Security and Privacy Statement
+For information about how to obtain copies of documents such as policy information and claims documents, please see our brochure “[AAMI and Your Personal Information](http://www.aami.com.au/products/policy/privacy/pdf/AAMI_4109_Privacy_Brochure.pdf)”.   
+  
+  
+9 |  Acceptance and changes to Security and Privacy Statement  
+---|---  
+  | 
 
 You acknowledge and accept that your use of the AAMI Website indicates your acceptance of the AAMI Website Terms of Use and the Security and Privacy Statement.
 
@@ -142,7 +162,3 @@ AAMI is under no obligation to specifically notify you of any variation to the S
 
 (C) Copyright 2000 Australian Associated Motor Insurers Limited  
 ABN 92 004 791 744 Version 2 - 21 December 2004
-
-  
-  ABN 92 004 791 744      AFSL 238173 |  |     
----|---|---
