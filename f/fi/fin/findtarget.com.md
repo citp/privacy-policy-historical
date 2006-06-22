@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findtarget.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227103959id_/http%3A//www.findtarget.com/privacyft.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findtarget.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622113452id_/http%3A//www.findtarget.com/privacyft.html) for the most accurate reproduction.*
 
 # Findtarget.com - Internet Meta Search Engine
 
