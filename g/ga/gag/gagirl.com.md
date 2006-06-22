@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gagirl.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224131548id_/http%3A//gagirl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gagirl.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622212002id_/http%3A//www.gagirl.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
