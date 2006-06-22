@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convertzone.com privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201202138id_/http%3A//www.convertzone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertzone.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622122115id_/http%3A//convertzone.com/privacy.htm) for the most accurate reproduction.*
 
 # Create PDF,convert PDF to TEXT,WORD DOC to PDF,HTML to PDF,RTF to PDF,XLS to PDF,PPT to PDF,support batch conversion
 
@@ -6,8 +6,6 @@
 
 | [ PDF](https://web.archive.org/#PdfConverters)|  [Word](https://web.archive.org/#WordConverters)| [Spreadsheet](https://web.archive.org/#SpreadsheetConverters)| [PowerPoint](https://web.archive.org/#PowerpointConverters)| [Database](https://web.archive.org/#DataBaseConverters)| [CAD](https://web.archive.org/#CADConverters)| [Email Chat&News](https://web.archive.org/#EmailChatNewsConverters)| [Audio](https://web.archive.org/#AudioConverters)| [Video](https://web.archive.org/#VideoConverters)| [Image](https://web.archive.org/#ImageConverters)| [Help](https://web.archive.org/#HelpConverters)| [XML](https://web.archive.org/#XMLConverters)  
 ---|---|---|---|---|---|---|---|---|---|---|---|---  
-[ **Most Popular Keywords**](https://web.archive.org/all/keywordspopular.htm)| [ **WinAVI Video Converter**](https://web.archive.org/all/go-winavi%20video%20converter-1-1.htm)| [ **DVDSanta**](https://web.archive.org/all/go-dvdsanta-1-1.htm)| [ **PDF to Word**](https://web.archive.org/all/go-pdf%20to%20word-1-1.htm)| [ PDF to Multi-Page Tiff](https://web.archive.org/all/go-abc%20amber%20pdf2image%20converter-1-1.htm)| [Document Converter](https://web.archive.org/document_converter/help.htm)| [Image Converter](https://web.archive.org/all/go-reaconverter%20pro-1-1.htm)| [PowerPoint to DVD](https://web.archive.org/all/go-powerpoint%20dvd%20burner-1-1.htm)| [Image to ICON](https://web.archive.org/all/go-image2ico-1-1.htm)| [PDF to JPG](https://web.archive.org/all/go-pdf%20to%20image%20converter-1-1.htm)  
----|---|---|---|---|---|---|---|---|---  
   
 ## Privacy Policy (Sept 3, 2000)
 
