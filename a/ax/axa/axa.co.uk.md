@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the axa.co.uk privacy policy that was archived on 2005-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050527124515id_/http%3A//www.axa.co.uk/security_privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axa.co.uk privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622044842id_/http%3A//www.axa.co.uk/security_privacy/index.html) for the most accurate reproduction.*
 
 # security and privacy - privacy statement
 
 ### Privacy Statement
 
-Any personal information you supply to AXA UK via this website will be treated in accordance with the Data Protection Act 1998. If you provide personal information via this website you will be told what the information you provide will be used for before the information is submitted to AXA UK.
+Any personal information you supply to AXA UK via this website will be treated in accordance with the Data Protection Act 1998 (including any further amendments) and the Privacy and Electronic Communications Regulations 2003. If you provide personal information via this website you will be told what the information you provide will be used for before the information is submitted to AXA UK.
 
 AXA UK maintains a list of visitors who have contacted us through the contact form on the website‚ recording only that information voluntarily supplied by the visitor. This will include name‚ email address‚ and the subject matter of the query. In addition‚ a visitor has the option of supplying a telephone number‚ policy number‚ and preferred contact time.
 
