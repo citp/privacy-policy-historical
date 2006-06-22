@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndp.ca privacy policy that was archived on 2005-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050830220422id_/http%3A//www.ndp.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndp.ca privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622204647id_/http%3A//www.ndp.ca/privacy) for the most accurate reproduction.*
 
 # NDP | ndp.ca - Web Site privacy policy
 
@@ -8,7 +8,7 @@ When visiting NDP.ca, your privacy is respected. Our policy is in strict complia
 
 Our Web site is hosted on servers that are managed by Web Networks, a third party service provider. Any personal information collected on our behalf by Web Networks such as server log data (see below), is managed in accordance with this privacy policy, and is protected by applicable law.
 
-If you have questions about your privacy that are not answered below, please don’t hesitate to e-mail us at [contact us](http://www.ndp.ca/url) or call 613.236.3613.
+If you have questions about your privacy that are not answered below, please don’t hesitate to e-mail us at [contact us](http://www.ndp.ca/contact) or call 613.236.3613.
 
 ### Online Donations
 
