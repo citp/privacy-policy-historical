@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdccu.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212131017id_/http%3A//sdccu.com/pages/privacypolicy_4.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdccu.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622202721id_/https%3A//www.sdccu.com/pages/privacypolicy_4.asp) for the most accurate reproduction.*
 
 # San Diego County Credit Union-Privacy Policy
 
@@ -116,7 +116,7 @@ If we decide to change this Policy, we will post those changes on our Homepage s
 **Children's Privacy**  
 Our Site is not intended for use by children. We do not knowingly market to, nor solicit data from, children.
 
-[Click here](https://web.archive.org/web/20051212131017id_/http%3A//sdccu.com/pages/sdccuLegal_5.asp) for further information on terms governing use of this Site.   
+[Click here](https://web.archive.org/web/20060622202721id_/https%3A//www.sdccu.com/pages/sdccuLegal_5.asp) for further information on terms governing use of this Site.   
   
   
   
