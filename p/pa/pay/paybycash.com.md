@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the paybycash.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205082217id_/http%3A//www.paybycash.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paybycash.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622034959id_/http%3A//paybycash.com/customer/privacy.php) for the most accurate reproduction.*
 
-# PayByCash
+# PayByCash™
 
-[Effective on May 20, 2004]
+[Last updated on February 8, 2005]
 
-This privacy statement covers the domain PAYBYCASH.COM. This statement demonstrates our commitment to our users' privacy. This statement covers the following topics, generally considered the most sensitive to users concerned about their privacy: 
+[](http://www.truste.org/ivalidate.php?url=www.paybycash.com&sealid=101)
+
+This privacy statement covers the domain **PAYBYCASH.COM**. This statement demonstrates our commitment to our users' privacy. This statement covers the following topics, generally considered the most sensitive to users concerned about their privacy:
 
   1. What personally identifiable information Internet Payment Solutions collects. 
   2. What personally identifiable information third parties collect through the Web site. 
@@ -19,16 +21,22 @@ This privacy statement covers the domain PAYBYCASH.COM. This statement demonstra
 
 PayByCash.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-  
-If users have questions or concerns regarding this statement, they should first contact Debora Higgins, Internet Payment Solutions Account Management Department by emailing [debbie@paybycash.com](mailto:debbie@paybycash.com?subject=Privacy%20Policy%20Concern). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If users have questions or concerns regarding this statement, they should first contact Debora Higgins, Internet Payment Solutions Account Management Department by emailing [debbie@paybycash.com](mailto:debbie@paybycash.com).
 
-### Information Collection and Use
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at: 
+
+<http://truste.org/consumers/watchdog_complaint.php>.
+
+TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+
+**Information Collection and Use:**  
+
 
 **Information Collection**  
 Internet Payment Solutions, Inc., is the sole owner of the information collected on PayByCash.com. Internet Payment Solutions, Inc., collects information from our users at several different points on our Web site. 
 
 **Registration**  
-In order to register for our service, to use an alternate (non-credit card) payment method to gain access to the content provided by one of the content providers we've partnered with, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address). 
+In order to register for our service, to use an alternate (non-credit card) payment method to gain access to the content provided by one of the content providers we've partnered with, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address).
 
 **Order**  
 We request information from the user on our order form. A user must provide contact information (such as name, email, and home address) and financial information (such as checking account information) if they wish to make their payments to us using electronic check processing (Virtual Check). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user. 
@@ -37,25 +45,22 @@ We request information from the user on our order form. A user must provide cont
 The information provided to us by the user is used only to secure that user's account on the content provider's (e.g., subscription online game) site that user is using PayByCash™ to subscribe to. The information is used only to ensure we can collect payment from the customer, and to contact the customer in the event there is a problem with their account, or to respond to customer inquiries. 
 
 **Cookies**  
-A cookie is a piece of data stored on the user’s computer tied to information about the user. PayByCash.com does set session cookies on your computer. These session cookies only hold data while you are actively using our site and expire once you leave our web site or when you close your browser. PayByCash does not set persistent cookies on your computer. PayByCash.com does not work with third party advertisers who will set a cookie on your computer. 
+A cookie is a piece of data stored on the user’s computer tied to information about the user. PayByCash.com does set session cookies on your computer. These session cookies only hold data while you are actively using our site and expire once you leave our web site or when you close your browser. We do not tie Personally Identifiable Information (PII) to session cookies. PayByCash does not set persistent cookies on your computer. PayByCash.com does not work with third party advertisers who will set a cookie on your computer. 
 
 **Profile**  
-We do not store information collected through third parties to create a profile of our users. A "profile" is stored information kept on individual users that details their viewing preferences. PayByCash.com does not use cookies nor in any way store information on the user's computer that could be used to build a customer profile. Internet Payment Solutions, Inc., uses log files only to track web site usage. These log files do not contain information that is tied to unique users or their use of our site. 
+We do not store information collected through third parties to create a profile of our users. A "profile" is stored information kept on individual users that details their viewing preferences. PayByCash.com does not use persistent cookies nor in any way store information on the user's computer that could be used to build a customer profile. Internet Payment Solutions, Inc., uses log files only to track web site usage. These log files do not contain information that is tied to unique users or their use of our site. 
 
-******Third Party Advertising**  
-PayByCash.com does not serve ads on its Web site and so no information about users or their behavior is developed or maintained by third-party advertisers. 
+**Third Party Advertising**  
+PayByCash.com does not serve ads on its Web site and so no information about users or their behavior is developed or maintained by third-party advertisers.
 
-This privacy statement covers the use of cookies by PayByCash.com only and does not cover the use of cookies by any of the business partners (content providers or merchant clients) with whom we've established relationships for purposes of providing alternate payment options to customers. 
+This privacy statement covers the use of cookies by PayByCash.com only and does not cover the use of cookies on sites operated by any of the business partners (content providers or merchant clients) with whom we've established relationships for purposes of providing alternate payment options to customers. 
 
 **Log Files**  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use.
 
-**Clear Gifs (Web Beacons/Web Bugs)**  
-Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. We do not employ clear gifs (a.k.a. Web Beacons/Web Bugs) to help us manage content on our site by informing us what content is effective. 
+**Communications from the Site:**  
 
-### Communications from the Site
 
-  
 **Service Announcements**  
 On rare occasions it is necessary to send out a strictly service-related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account, which will effectively remove them from the list of users to whom these communications are sent. However, these communications are not promotional in nature. 
 
@@ -66,9 +71,9 @@ We communicate with users on a regular basis to provide requested services and i
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
 
 **Third Party Advertisers**  
-Internet Payment Solutions, Inc., does not share Web site usage information about users with any third party for the purpose of targeting our Internet banner advertisements on this site and other sites. 
+Internet Payment Solutions, Inc., does not share Web site usage information about users with any third party for the purpose of targeting our Internet banner advertisements on this site and other sites.   
+These are the instances in which we will share users’ personal information:
 
-**These are the instances in which we will share users’ personal information:**  
 We share users personal information only with the business partner whose content the user is subscribing to by using Internet Payment Solutions, Inc, us as their alternate payment option. This information may consist of email address, name, address, or phone number. This is all information that the user has already agreed to provide to that business partner as part of that business partner's subscription registration process or the Terms of Service that governs the user's use of that business partner's service. 
 
 **Service Providers**  
@@ -78,22 +83,20 @@ We partner with other third parties to provide specific services (For example, a
 In the event Internet Payment Solutions, Inc., goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. Users will be notified via email and prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
 
 **Choice/Opt-out**  
-Out of respect for our users we do not send any promotional or marketing materials. 
-
+Out of respect for our users we do not send any promotional or marketing materials.   
 Users of our site will always be notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
 
 **Links**  
 This Web site contains links to other sites. Please be aware that we, Internet Payment Solutions, inc., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-### Security
-
+**Security**  
 This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
 
 When our registration/order form asks users to enter sensitive information (such as financial (checking account) information, that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’. [To learn more about SSL, follow this link: [How SSL Works](http://developer.netscape.com/tech/security/ssl/howitworks.html). (Use your browser's "back" button to return to this page) 
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees or contractors who need the information to perform a specific job (for example, our account management service representatives are granted access to personally identifiable information. Our employees or contractors must use password-protected screen-savers when they leave their desk unattended. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. At the time of hire and every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility. 
 
-If users have any questions about the security at our Web site, users can send an email to [operations@paybycash.com](mailto:operations@paybycash.com?subject=Web%20Security%20Question). 
+If users have any questions about the security at our Web site, users can send an email to [Operations@PayByCash.com](mailto:operations@paybycash.com). 
 
 **Supplementation of Information**  
 In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources (see "Bank Account Verification"). 
@@ -101,26 +104,25 @@ In order for this Web site to properly fulfill its obligation to users it is nec
 **Bank Account Verification**  
 To determine if users have provided valid bank account information and have funds available in their checking account, we will use the information they provide to contact their financial institution before processing their order. This is analogous to a credit card validation and authorization, and a corresponding check for available credit. 
 
-**Correcting/Updating/Deleting/Deactivating Personal Information**  
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can be done by emailing our Customer Support at [customerservice@paybycash.com](mailto:customerservice@paybycash.com?subject=Contact%20Info%20Update). 
+**Correcting/Updating Personal Information**  
+If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), we provide a way to correct or update users’ personally identifiable information. This can be done by emailing our Customer Support at [CustomerService@PayByCash.com](mailto:customerservice@paybycash.com). 
 
 **Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
-
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.   
 If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. 
 
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at: 
 
-Fax: 1-434-296-3187 
+**Fax:** 1-434-296-3187 
 
-Email: CustomerService@paybycash.com 
+**Email:** [CustomerService@PayByCash.com](mailto:customerservice@paybycash.com)
 
-Postal Address:  
+**Postal Address:**  
 Internet Payment Solutions, Inc.  
 AStec Center   
 2020 Avon Court, Suite 25  
 Charlottesville, VA 22902  
 USA 
 
-Via contact information found on our Web site at: http://www.paybycash.com/contact.htm 
+Via contact information found on our Web site at: [http://www.paybycash.com/company/contact_us.php](https://web.archive.org/web/20060622034959id_/http%3A//paybycash.com/company/contact_us.php)
