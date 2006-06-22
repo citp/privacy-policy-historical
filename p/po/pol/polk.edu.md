@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polk.edu privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226062258id_/http%3A//www.polk.edu/Policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polk.edu privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622090354id_/http%3A//www.polk.edu/Policy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
