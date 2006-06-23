@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursclothing.co.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231093923id_/http%3A//www.yoursclothing.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursclothing.co.uk privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623155227id_/http%3A//yoursclothing.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Yours Plus Size Clothing, Lingerie & Accessories
 
