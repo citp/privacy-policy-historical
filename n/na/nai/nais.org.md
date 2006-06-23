@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nais.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160209id_/http%3A//www.nais.org/about/index.cfm%3FItemnumber%3D145942) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nais.org privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623073917id_/http%3A//www.nais.org/about/index.cfm%3FItemnumber%3D145942) for the most accurate reproduction.*
 
-# National Association of Independent Schools (NAIS) - About NAIS - NAIS Privacy Statement
+# NAIS - About NAIS - NAIS Privacy Statement
 
   
 
@@ -61,7 +61,7 @@
 
 (a) You can e-mail [info@nais.org](mailto:info@nais.org). 
 
-(b) You can send mail to the following postal address: NAIS, 1620 L Street, NW, Suite 1100, Washington, DC 20036-Attention Communication.
+(b) You can send mail to the following postal address: NAIS, Attention Communication, 1620 L Street, NW, Suite 1100, Washington, DC 20036.
 
 (c) You can call the following telephone number: (202) 973-9700, and ask for the appropriate department.
 
