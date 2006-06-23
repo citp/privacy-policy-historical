@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hookup.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223013418id_/http%3A//www.hookup.com/modules.php%3Fname%3DTerms%26privacy%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookup.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623090418id_/http%3A//www.hookup.com/modules.php%3Fname%3DTerms%26privacy%3Dtrue) for the most accurate reproduction.*
 
-# Online Dating and Internet Personals Services for Singles :: HookUP.com
+# HookUP.com:: Online Dating Service | Free Online Dating | Adult Online Dating Service | Christian Dating Service | Online Dating Site | Internet Dating Service | Adult Online Dating | Free Adult Personals | Adult Personals | Adult Christian Personals | Si
 
 **HookUp.com Privacy Statement**
 
