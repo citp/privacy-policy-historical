@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyflowers.com.au privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228234042id_/http%3A//www.readyflowers.com.au/Home/pageid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyflowers.com.au privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623045337id_/http%3A//readyflowers.com.au/Home/pageid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Ready Flowers Australia - Fresh flowers delivered Australia wide same day.
 
