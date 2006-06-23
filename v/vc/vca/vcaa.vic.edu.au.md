@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vcaa.vic.edu.au privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217143936id_/http%3A//www.vcaa.vic.edu.au/vcaa/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcaa.vic.edu.au privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623144307id_/http%3A//www.vcaa.vic.edu.au/vcaa/footer/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement | Victorian Curriculum and Assessment Authority (VCAA)
+# None
 
 The Victorian Curriculum and Assessment Authority (VCAA) is a statutory authority established under the _Victorian Curriculum and Assessment Authority Act 2000_. All personal information collected by the VCAA is handled in accordance with the _Information Privacy Act 2000_. 
 
@@ -40,7 +40,7 @@ Victorian Curriculum and Assessment Authority
 East Melbourne  
 Victoria 3002 
 
-**Email:**[ privacy.vcaa@edumail.vic.gov.au](mailto:privacy.vcaa@edumail.vic.gov.au)
+**Email:** privacy.vcaa@edumail.vic.gov.au. 
 
 ###  Related Information
 
