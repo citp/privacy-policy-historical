@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230012110id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623154951id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.*
 
 # Trulia Real Estate Search - Privacy Policy
 
-**TRULIA PRIVACY POLICY  
+** TRULIA PRIVACY POLICY   
 (last updated September 22, 2005) **
 
 This policy describes the types of information Trulia gathers from its users of the Trulia Web site at www.trulia.com and how that information is used. Please read this policy carefully before you provide us with any personal information. If you have questions about this policy, please email us at privacy@trulia.com. 
