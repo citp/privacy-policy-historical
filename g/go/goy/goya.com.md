@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goya.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219070146id_/http%3A//www.goya.com/english/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goya.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623213837id_/http%3A//www.goya.com/english/privacy.html) for the most accurate reproduction.*
 
 # Goya Foods - Privacy Policy
 
-The largest Hispanic-owned food company in the United States, Goya employs more than 2,000 people worldwide. As evidence of the success of Goya Foods, Inc., today it operates more than 13 facilities throughout the U.S., Caribbean and Europe. Goya is dedicated to providing high-quality food and beverage products that meet and exceed the needs of its customers and their privacy on the Goya Foods website.
+|  | The largest Hispanic-owned food company in the United States, Goya employs more than 2,000 people worldwide. As evidence of the success of Goya Foods, Inc., today it operates more than 13 facilities throughout the U.S., Caribbean and Europe. Goya is dedicated to providing high-quality food and beverage products that meet and exceed the needs of its customers and their privacy on the Goya Foods website.
 
 **INFORMATION COLLECTION**  
 Any information collected by Goya Foods Inc. will be used only by Goya Foods Inc. to improve our products, services, and our website. Goya Foods Inc. also may direct website visitors to websites operated by third parties, though Goya Foods Inc. does not guarantee the security of any personal information disclosed on those sites.
@@ -11,9 +11,6 @@ Goya Foods Inc. may occasionally ask you to provide us with information such as 
 
 **REGISTRATION FORMS**  
 In our registration forms, Goya Foods Inc. may ask you for contact information, such as your email address or phone number, to communicate with you for daily operational and business reasons, to send you materials or information about Goya Foods Inc., to send you advertising or promotional materials regarding our business associates and partners.
-
-**COOKIES**  
-Goya Foods Inc. does not use cookies on its website, [www.goya.com](http://www.goya.com/). Cookies are a feature of your web browser that allow websites to transfer bits of information to your computer for record-keeping purposes. A cookie stored on your computer can be used to "remember" things like your password, or that you have already registered.
 
 **INTERNET PROTOCOL (IP) ADDRESSES**  
 An IP address is the unique number assigned to your server or Internet Service Provider; they generally do not identify you personally. Goya Foods Inc. does not keep track of the IP address you are using to access [www.goya.com](http://www.goya.com/).
@@ -34,3 +31,5 @@ Please address all mail to:
 100 Seaview Drive  
 Secaucus, NJ 07096  
 
+
+| 
