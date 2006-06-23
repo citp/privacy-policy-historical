@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the thinkprogress.org privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226222700id_/http%3A//www.americanprogressaction.org/site/pp.asp%3Fc%3DklLWJcP7H%26b%3D86391) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkprogress.org privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623041338id_/http%3A//www.americanprogressaction.org/site/pp.asp%3Fc%3DklLWJcP7H%26b%3D86391) for the most accurate reproduction.*
 
 # Privacy Policy - American Progress Action Fund
+
+_Last updated:   February 2, 2005_
 
 The American Progress Action Fund (APAF) is committed to protecting the privacy and security of both new and frequent visitors as well as our supporters and subscribers. Here is our online privacy policy for information collected through our website and through email lists.
 
 The American Progress Action Fund expects it may need to revise its privacy policy as it develops the features of its future site.  The American Progress Action Fund will make reasonable efforts to inform users of any changes, but the spirit of this policy will be maintained, and our policy not to sell, exchange, rent, trade, or give email lists to unaffiliated third parties will never be altered.
 
-Use of the American Progress Action Fund’s website is not restricted to registered users, and we expect to provide a robust experience to all users. 
+Use of the American Progress Action Fund's website is not restricted to registered users, and we expect to provide a robust experience to all users. 
 
 If you have any questions about our privacy policy, please fell free to email us at: [action@americanprogressaction.org](mailto:action@americanprogressaction.org)
 
@@ -21,7 +23,7 @@ From time to time, we may send you information from other like-minded organizati
 
 **If you sign up for one of our mailing lists:**
 
-The American Progress Action Fund is committed to providing timely updates to our users by email.  We will request information from you to enhance our ability to customize our communications with you so you get the information you want.  We will collect relevant contact information and enable you to self-select the type of information that you’d like to receive. You will be able to unsubscribe from communications you receive from us by following the directions included in each such communication.
+The American Progress Action Fund is committed to providing timely updates to our users by email.  We will request information from you to enhance our ability to customize our communications with you so you get the information you want.  We will collect relevant contact information and enable you to self-select the type of information that you'd like to receive. You will be able to unsubscribe from communications you receive from us by following the directions included in each such communication.
 
 **If you submit information to public areas of an APAF site:**
 
@@ -33,12 +35,12 @@ The American Progress Action Fund appreciates and will accept online contributio
 
 **Cookies:**
 
-A cookie is a small piece of information that a website can store on a computer and later use to recognize a user.  A purpose of  cookies is to enhance your ability to receive the information you want.  The American Progress Action Fund may use session cookies to enhance the experience of users.  A session cookie expires when a user closes the browser in which the American Progress Action Fund’s website was viewed.  As with all cookies, users can personalize their browser settings to reject session cookies.
+A cookie is a small piece of information that a website can store on a computer and later use to recognize a user.  A purpose of  cookies is to enhance your ability to receive the information you want.  The American Progress Action Fund may use session cookies to enhance the experience of users.  A session cookie expires when a user closes the browser in which the American Progress Action Fund's website was viewed.  As with all cookies, users can personalize their browser settings to reject session cookies.
 
   
 **IP Addresses and Log File Data:**
 
-IP addresses are ID numbers for the location of your computer or network on the internet.  Log files are recordings of the traffic to and from a server.  The American Progress Action Fund’s servers log IP addresses for systems administration and troubleshooting.   We track page hits in the aggregate to track the popularity of pages that people visit.  With that information we can improve the quality of the site.
+IP addresses are ID numbers for the location of your computer or network on the internet.  Log files are recordings of the traffic to and from a server.  The American Progress Action Fund's servers log IP addresses for systems administration and troubleshooting.   We track page hits in the aggregate to track the popularity of pages that people visit.  With that information we can improve the quality of the site.
 
 **Children's privacy:**
 
@@ -53,4 +55,4 @@ APAF has measures in place to protect against the loss, misuse and alteration of
   
 **Please Note:**
 
-The American Progress Action Fund plans to regularly update and add new features to our website.  Because of this, the American Progress Action Fund expects to revise its privacy policy as its site develops.  Such amendments will be posted in the privacy policy section of the site.  You can determine whether the privacy policy has been modified since your last visit by checking the “Last updated” legend at the top of the policy.  As stated above, the spirit of this policy will be maintained, and our policy never to sell, exchange, rent, trade, or give email lists to unaffiliated third parties will never be altered. The American Progress Action Fund links to other like-minded websites, but is not responsible for the content or the privacy policies of those websites.
+The American Progress Action Fund plans to regularly update and add new features to our website.  Because of this, the American Progress Action Fund expects to revise its privacy policy as its site develops.  Such amendments will be posted in the privacy policy section of the site.  You can determine whether the privacy policy has been modified since your last visit by checking the "Last updated" legend at the top of the policy.  As stated above, the spirit of this policy will be maintained, and our policy never to sell, exchange, rent, trade, or give email lists to unaffiliated third parties will never be altered. The American Progress Action Fund links to other like-minded websites, but is not responsible for the content or the privacy policies of those websites.
