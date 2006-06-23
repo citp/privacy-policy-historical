@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218015110id_/http%3A//www.invaluable.com/about/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623125819id_/http%3A//www.invaluable.com/about/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Invaluable > About Invaluable > Privacy Policy
 
@@ -121,3 +121,5 @@ We are registered under the Data Protection Act 1998 (registration number [X4318
 #### 9\. Links to third party sites 
 
 Our site contains links to other sites. Invaluable is not responsible for the privacy practices, or the content, of those web sites.
+
+**Please Note:** You are currently viewing the unstyled version of invaluable.com, this is because the web browser software you are using does not support CSS. Our website functions quite normally without its visual styling but to ensure you get the best experience please upgrade your software to a version that supports CSS. Please read more about [the technology](https://web.archive.org/help/Standards.asp) we use to deliver this website and the browsers that we recommend. Skip to the content of this page
