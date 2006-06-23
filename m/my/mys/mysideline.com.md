@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysideline.com privacy policy that was archived on 2005-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051030115830id_/http%3A//www.mysideline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysideline.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623091919id_/http%3A//mysideline.com/privacy.html) for the most accurate reproduction.*
 
 # NFL and College Basketball Tournament Office Pool Software - Turbo Tourney
 
