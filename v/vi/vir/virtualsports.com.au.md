@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualsports.com.au privacy policy that was archived on 2005-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051029225851id_/http%3A//www.virtualsports.com.au%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualsports.com.au privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624011857id_/http%3A//www.virtualsports.com.au%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # VirtualSPORTS - The Leaders in Australasian Fantasy Sports! Play Dream Team Fantasy Sports FREE
 
