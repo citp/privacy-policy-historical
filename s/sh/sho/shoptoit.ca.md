@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoptoit.ca privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228125311id_/http%3A//www.shoptoit.ca/ss/static/en/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptoit.ca privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623121017id_/http%3A//www.shoptoit.ca/ss/static/en/privacy.shtml) for the most accurate reproduction.*
 
-# shoptoit.ca - Search, Compare, then Buy from Online Canadian Stores
+# Shoptoit.ca - Search, Compare, then Buy from Online Canadian Stores
 
 _Last edited on: April 29, 2005_
 
