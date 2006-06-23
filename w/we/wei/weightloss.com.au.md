@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weightloss.com.au privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230233438id_/http%3A//www.weightloss.com.au/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightloss.com.au privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623202009id_/http%3A//www.weightloss.com.au/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Weightloss.com.au - Australia's premier weight loss website
 
-Privacy Policy.
+The weightloss.com.au Privacy Policy.
 
 Your privacy is important to us. That's why we invest in some of the latest security systems and commit to maintaining industry standards relating to your privacy.
 
@@ -10,7 +10,7 @@ It is important that you fully understand the way we obtain and use your persona
 
 Our web site has areas where you can provide personal information to identify yourself or the company you represent. We have developed this Privacy Policy to inform you of our policies and practices regarding such information.
 
-This document is the Privacy Policy of Ultimate Weightloss. It relates to the web pages and services available at Ultimate Weightloss Sites (www.weightloss.com.au). 
+This document is the Privacy Policy of Ultimate Weightloss. It relates to the web pages and services available at Ultimate Weightloss Sites, including www.weightloss.com.au. 
 
 Information Collection and Use.
 
@@ -28,9 +28,9 @@ You are able to opt-out of receiving communications from the site by checking th
 
 **Newsletter.**
 
-At some points on our site we provide an opt-in option that you can decidedly check if you'd like to request periodic issues of the insightful Ultimate Weightloss Newsletter. If you wish to subscribe to our newsletter, we ask for contact information such as name and email address.
+At some points on our site we provide an opt-in option that you can decidedly check if you'd like to request periodic issues of our popular Weightloss Newsletter. If you wish to subscribe to our newsletter, we ask for contact information such as name and email address.
 
-You can choose to unsubscribe at any time to our Newsletter either by using the unsubscribe links detailed in the Ultimate Weightloss Newsletter, or by typing your email address and checking the unsubscribe option of the Newsletter page. 
+You can choose to unsubscribe at any time to our Newsletter either by using the unsubscribe links detailed in the Weightloss Newsletter, or by typing your email address and checking the unsubscribe option of the Newsletter page. 
 
 **Credit Card Information.**
 
@@ -44,7 +44,7 @@ You can expect email from us in response to:
 
 
 
-  * Newsletters. By checking the opt-in box on our contact page or typing your email address and subscribing in the newsletter window clearly interprets your consent to receive newsletters. Newsletters are issued once every two months.
+  * Newsletters. By checking the opt-in box on our contact page or typing your email address and subscribing in the newsletter window clearly interprets your consent to receive newsletters. Newsletters are issued once every month.
 
 
 
@@ -92,3 +92,5 @@ Access to your personal information can be gained from the administration area a
 If you have any questions about this policy statement, the practices of our Sites, or your dealings with Ultimate Weightloss, please contact us Email: [info@weightloss.com.au](mailto:info@weightloss.com.au)
 
 Click [here to contact us](https://web.archive.org/contact.htm)
+
+Thank you for visiting weightloss.com.au.
