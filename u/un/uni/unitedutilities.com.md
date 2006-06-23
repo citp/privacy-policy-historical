@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219064839id_/http%3A//www.unitedutilities.com/%3FOBH%3D1854) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623234302id_/http%3A//www.unitedutilities.com/%3FOBH%3D1854) for the most accurate reproduction.*
 
 # United Utilities web site :: Data protection and privacy policy
 
 © Copyright 2005 United Utilities PLC
 
-### Copyright and trademark
+Copyright and trademark
 
 Copyright in this web site is owned by or licensed to United Utilities. Unless stated to the contrary, material in this web site is copyright to United Utilities. Reproduction is limited to the downloading to a local hard disk for your personal use. The content of the web site may not be copied or otherwise incorporated into or stored in any other web site, electronic retrieval system, publication or other work in any form without the prior written consent of United Utilities or in accordance with the Copyright, Designs and Patents Act 1988.
 
 The United Utilities corporate logo is a trademark of United Utilities. You may not use this mark without our express written permission.
 
-### Data protection and privacy policy
+Data protection and privacy policy
 
 United Utilities is a group of companies which includes United Utilities PLC, United Utilities Water PLC, United Utilities Electricity PLC, United Utilities Contract Solutions Limited, Vertex Data Science Limited, and Your Communications Limited. Further details of these companies can be found in the [About us](http://www.unitedutilities.com/?OBH=2&_ID=2&OBT=1) section of this web site. We, United Utilities, will process any personal information you provide to this site and have the relevant registrations in the United Kingdom under the Data Protection Act 1998. We will comply with the provisions of this Act, including in relation to the security of any personal information which we ask you to provide to us. We endeavour to take all reasonable steps to protect your personal information. However we cannot guarantee the security of data you disclose online over the internet. You should note that this web site is not encrypted and could be intercepted by third parties or electronically delivered to parties other than the addressee. Information about the security of the online services of this web site can be found [here](http://www.unitedutilities.com/?OBH=1504&_ID=729&OBT=1).
 
