@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cafepress.co.uk privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221100243id_/http%3A//www.cafepress.com/cp/info/help/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafepress.co.uk privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623142231id_/http%3A//www.cafepress.com/cp/info/help/privacy_policy.aspx) for the most accurate reproduction.*
 
 # CafePress.com : Help Desk : Privacy Policy
 
@@ -96,6 +96,6 @@ You will be notified when your Personal Information is collected by any third pa
 
 CafePress.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy policy covers the site www.cafepress.com. Because this Web Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact [privacy@cafepress.com](mailto:privacy@cafepress.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [TRUSTe WATCHDOG](https://www.truste.org/pvr.php?page=complaint). TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact [privacy@cafepress.com](mailto:privacy@cafepress.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [TRUSTe WATCHDOG](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 **top**
