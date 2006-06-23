@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dexmedia.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219003309id_/http%3A//www.dexmedia.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexmedia.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623161211id_/http%3A//www.dexmedia.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Dex Media, Inc. - Site Policies
 
@@ -28,7 +28,7 @@ Additional Uses \- We may also use information in our records to protect our cus
 
 Copyright 
 
-If you believe that your work has been copied and is accessible on this web site in a way that constitutes copyright infringement, you may notify Dex Media through its [Copyright Complaint Procedure](https://web.archive.org/web/20051219003309id_/http%3A//www.dexmedia.com/legal/copyright.html). 
+If you believe that your work has been copied and is accessible on this web site in a way that constitutes copyright infringement, you may notify Dex Media through its [Copyright Complaint Procedure](https://web.archive.org/web/20060623161211id_/http%3A//www.dexmedia.com/legal/copyright.html). 
 
 Sharing of Information 
 
