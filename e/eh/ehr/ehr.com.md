@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehr.com privacy policy that was archived on 2005-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050829005030id_/http%3A//www.ehr.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehr.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623141928id_/http%3A//ehr.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | eHR®.com
 
