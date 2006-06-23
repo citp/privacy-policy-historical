@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the standardchartered.com.hk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212142332id_/http%3A//www.standardchartered.com.hk/home/legal_data_main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.hk privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623060726id_/http%3A//standardchartered.com.hk/home/legal_data_main.html) for the most accurate reproduction.*
 
-# 
+# Standard Chartered (Hong Kong) Limited - Data Protection And Privacy PolicyData Protection And Privacy Policy
 
 [](http://www.standardchartered.com/)
 
-This Data Protection and Privacy Policy relates solely to personal information supplied by you on this Web Site. It is necessary for you to supply Standard Chartered Bank (HK) Ltd ("the Bank") with personal information on this Web Site in connection with the provision of the services you have requested or are about to request at this Web Site. Failure to supply such information may result in the Bank being unable to provide these services. 
+This Data Protection and Privacy Policy relates solely to personal information supplied by you on this Web Site. It is necessary for you to supply Standard Chartered Bank (Hong Kong) Limited ("the Bank") with personal information on this Web Site in connection with the provision of the services you have requested or are about to request at this Web Site. Failure to supply such information may result in the Bank being unable to provide these services. 
 
 The Bank respects the privacy of your personal information. The purposes for which any personal information provided by you to the Bank through this Web Site may be used will vary depending on the nature of the relationship which you as a data subject have with the Bank. Broadly, they may comprise all or any one of more or the following purposes :-
 
@@ -70,7 +70,7 @@ The Bank reserves the right to amend its prevailing Data Protection and Privacy 
 
 You have the right to ascertain the Bank's policies and practices in relation to personal data, to be informed of the kind of personal data held by the Bank and to check whether the Bank holds data about you. You also have the right to request correction of and, on payment of a fee, access to personal information about you held by us. In relation to consumer credit you also have the right to request to be informed which items of data are routinely disclosed to credit reference agencies and, in the event of default, to debt collection agencies, and to be provided with further information to enable the making of an access or correction request to the relevant credit reference agency or debt collection agency. If you wish to access or to ask for correction or deletion of any of your personal data held by us, or if you have any questions concerning our data protection and privacy policies and practices and kinds of personal data held, please contact our Data Protection Officer at: 
 
-**STANDARD CHARTERED BANK (HK) LTD  
+**STANDARD CHARTERED BANK (HONG KONG) LIMITED  
 GPO Box 21, Hong Kong**
 
-**COPYRIGHT © STANDARD CHARTERED PLC 2004. ALL RIGHTS RESERVED.**
+**COPYRIGHT © STANDARD CHARTERED PLC 2006. ALL RIGHTS RESERVED.**
