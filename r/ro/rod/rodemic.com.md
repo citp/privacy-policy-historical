@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rodemic.com privacy policy that was archived on 2005-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051127095735id_/http%3A//www.rodemic.com/%3Fpagename%3DPrivacy_Policy%26PHPSESSID%3Daa50f57768b6b28dae8ba58401b3bfd6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodemic.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623081346id_/http%3A//www.rodemic.com/%3Fpagename%3DPrivacy_Policy%26PHPSESSID%3D929e23ad5bd1b1a9239c51b6729150d1) for the most accurate reproduction.*
 
 # RØDE Microphones > Privacy_Policy
 
