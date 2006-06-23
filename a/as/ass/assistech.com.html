@@ -1,0 +1,532 @@
+<!--The following is the downloaded HTML source of the assistech.com privacy policy that was archived on 2006-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060623212807id_/http%3A//assistech.com/privacy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<title>Privacy Policy</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="robots" content="index, all">
+<meta name="revisit-after" content="10">
+<meta name="author" content="Oliveira Simoes">
+
+<script type="text/javascript">
+<!--
+/*****************************************
+* Dissolving Image Rollover- By Roy Whittle (http://www.javascript-fx.com/)
+* Featured on/available at http://www.dynamicdrive.com/
+* This notice must stay intact for use
+*****************************************/
+
+//Generate transition CSS (transition=0 to 23)
+document.write('<STYLE TYPE="text/css">.imgTrans{ filter:revealTrans(duration=0.4,transition=12) }</STYLE>');
+
+//Uncomment the next line for fading rollovers instead of dissolving:
+//document.write('<STYLE TYPE="text/css">.imgTrans{ filter:blendTrans(duration=0.4) }</STYLE>');
+
+var onImages=new Array();
+function Rollover(imgName, imgSrc)
+{
+	onImages[imgName] = new Image();
+	onImages[imgName].src = imgSrc;
+}
+
+function turnOn(imgName){ 
+	if(document.images[imgName].filters != null)
+		document.images[imgName].filters[0].apply();
+	document.images[imgName].offSrc = document.images[imgName].src;
+	document.images[imgName].src    = onImages[imgName].src;
+	if(document.images[imgName].filters != null)
+		document.images[imgName].filters[0].play();
+}
+
+function turnOff(imgName){ 
+	if(document.images[imgName].filters != null)
+		document.images[imgName].filters[0].stop();
+	document.images[imgName].src = document.images[imgName].offSrc;
+}
+
+//Specify name of participating images, plus paths to their onMouseover replacements:
+Rollover("selftests",  "images/selftests2.gif");
+Rollover("about", "images/about2.gif");
+Rollover("home", "images/home2.gif");
+Rollover("library", "images/library2.gif");
+Rollover("faq", "images/faq2.gif");
+Rollover("chat", "images/chat2.gif");
+Rollover("products", "images/products2.gif");
+Rollover("shipref", "images/shipref2.gif");
+
+--></script><style type="text/css">.imgTrans{ filter:revealTrans(duration=0.4,transition=12) }</style>
+
+
+<link rel="stylesheet" href="style1.css" type="text/css">
+
+<script type="text/javascript" src="textsizer.js">
+
+/***********************************************
+* Document Text Sizer- Copyright 2003 - Taewook Kang.  All rights reserved.
+* Coded by: Taewook Kang (http://www.txkang.com)
+* This notice must stay intact for use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+
+<script type="text/javascript"><!--
+function click() {
+	if (event.button==2) {
+	alert('Thank you for visiting Assistech, the one-stop solution for your hearing, visual, and mobility needs.');
+	}
+}
+//-->
+</script>
+
+<style type="text/css">
+
+#showimage{
+	position:absolute;
+	visibility:hidden;
+	border: 1px solid gray;
+}
+
+#dragbar{
+	cursor: hand;
+	cursor: pointer;
+	background-color: #E3F9F9;
+	min-width: 100px; /*NS6 style to overcome bug*/
+}
+
+#dragbar #closetext{
+	font-weight: bold;
+	margin-right: 1px;
+}
+</style>
+
+<script type="text/javascript"><!--
+/***********************************************
+* Image Thumbnail viewer- © Dynamic Drive (www.dynamicdrive.com)
+* Last updated Sept 26th, 03'. This notice must stay intact for use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var ie=document.all
+var ns6=document.getElementById&&!document.all
+
+function ietruebody(){
+	return (document.compatMode && document.compatMode!="BackCompat" && !window.opera)? document.documentElement : document.body
+}
+
+function enlarge(which, e, position, imgwidth, imgheight){
+	if (ie||ns6){
+		crossobj=document.getElementById? document.getElementById("showimage") : document.all.showimage
+		if (position=="center"){
+			pgyoffset=ns6? parseInt(pageYOffset) : parseInt(ietruebody().scrollTop)
+			horzpos=ns6? pageXOffset+window.innerWidth/2-imgwidth/2 : ietruebody().scrollLeft+ietruebody().clientWidth/2-imgwidth/2
+			vertpos=ns6? pgyoffset+window.innerHeight/2-imgheight/2 : pgyoffset+ietruebody().clientHeight/2-imgheight/2
+			if (window.opera && window.innerHeight) //compensate for Opera toolbar
+			vertpos=pgyoffset+window.innerHeight/2-imgheight/2
+			vertpos=Math.max(pgyoffset, vertpos)
+		}
+		else{
+			var horzpos=ns6? pageXOffset+e.clientX : ietruebody().scrollLeft+event.clientX
+			var vertpos=ns6? pageYOffset+e.clientY : ietruebody().scrollTop+event.clientY
+		}
+		crossobj.style.left=horzpos+"px"
+		crossobj.style.top=vertpos+"px"
+		
+		crossobj.innerHTML='<div align="right" id="dragbar"><span id="closetext" onClick="closepreview()">Close</span> </div><img src="'+which+'">'
+		crossobj.style.visibility="visible"
+		return false
+	}
+	else //if NOT IE 4+ or NS 6+, simply display image in full browser window
+	return true
+}
+
+function closepreview(){
+	crossobj.style.visibility="hidden"
+}
+
+function drag_drop(e){
+	if (ie&&dragapproved){
+		crossobj.style.left=tempx+event.clientX-offsetx+"px"
+		crossobj.style.top=tempy+event.clientY-offsety+"px"
+	}
+	else if (ns6&&dragapproved){
+		crossobj.style.left=tempx+e.clientX-offsetx+"px"
+		crossobj.style.top=tempy+e.clientY-offsety+"px"
+	}
+	document.onmouseup=stop
+	function stop(){
+		dragapproved=false;
+	}
+}
+
+function initializedrag(e){
+	if (ie&&event.srcElement.id=="dragbar"||ns6&&e.target.id=="dragbar"){
+		offsetx=ie? event.clientX : e.clientX
+		offsety=ie? event.clientY : e.clientY
+		
+		tempx=parseInt(crossobj.style.left)
+		tempy=parseInt(crossobj.style.top)
+		
+		dragapproved=true
+		document.onmousemove=drag_drop
+	}
+}
+
+function supervisor(){
+	if (event.button==2) {
+		click();
+	}
+	else{
+		initializedrag();
+	}
+}
+
+document.onmousedown=click;
+document.onmouseup=new Function("dragapproved=false");
+
+function MM_preloadImages() {
+    if (document.images) {
+        var imgFiles = MM_preloadImages.arguments;
+        if (document.preloadArray == null) {
+            document.preloadArray = new Array();
+        }
+        var i = document.preloadArray.length;
+        with (document) {
+            for (var j = 0; j < imgFiles.length; j++) {
+                if (imgFiles[j].charAt(0) != "#") {
+                    document.preloadArray[i] = new Image();
+                    document.preloadArray[i++].src = imgFiles[j];
+                }
+            }
+        }
+    }
+}
+//-->
+</script>
+
+</head>
+
+<body onload="MM_preloadImages('images/home.gif','images/about.gif','images/library.gif','images/chat.gif','images/faq.gif','images/products.gif','images/selftests.gif','images/shipref.gif')" background="images/bg.gif">
+
+<table border="0" cellpadding="0" cellspacing="0" width="750">
+  <tbody><tr>
+    <td width="750" colspan="4"><img border="0" src="images/banner.jpg" alt="Assistech Banner - Toll Free 866-674-3549" align="right" width="751" height="97"></td>
+  </tr>
+  <tr>
+    <td width="144">
+      <p align="center"><font size="1"><font face="Verdana">Adjust Text
+            Size: </font><a href="javascript:ts('body',1)"><img src="images/plus.gif" border="0" alt="Make Text Larger" width="9" height="9"></a>&nbsp;
+            <a href="javascript:ts('body',-1)"><img src="images/minus.gif" border="0" alt="Make Text Smaller" width="9" height="9"></a>&nbsp;</font></p></td>
+    <td width="17" valign="top" align="left" bgcolor="#FFFFFF"><img border="0" src="images/corner1.gif" width="13" height="13" alt="corner"></td>
+    <td bgcolor="#FFFFFF" valign="top" width="572"><img border="0" src="images/statusbar.gif" width="243" height="18"><font size="1">|
+      <a href="http://www.azhearing.com/cgi-bin/shopper.cgi?display=action&amp;template=PDGTemplates/Basket.html" title="View Shopping Cart">
+      View Cart</a> | <a href="refship.htm" title="Shipping &amp; Handling Policy">S/H Policy</a> | <a href="about.htm#contact" title="Contact Us">
+      Contact</a>
+      |&nbsp;&nbsp; <a href="portugues/index.htm"><img border="0" src="images/brazilflag2.gif" alt="Português" width="25" height="17"></a>
+      <a href="espanol/Default.htm"><img border="0" src="images/spainflag2.gif" alt="Español" width="25" height="16"></a>
+      <a href="francais/Default.htm"><img border="0" src="images/frenchflag2.gif" alt="Français" width="25" height="16"></a>
+      <a href="index.htm"><img border="0" src="images/usflag2.gif" alt="English" width="25" height="17"></a></font></td>
+    <td width="17" valign="top" align="right" bgcolor="#FFFFFF"><img border="0" src="images/corner2.gif" width="13" height="13" alt="corner"></td>
+  </tr>
+  <tr>
+    <td width="144" valign="top">
+      <p align="left"><br>
+      <a href="index.htm" onmouseover="turnOn('home');" onmouseout="turnOff('home');"><img id="home" class="imgTrans" src="images/home.gif" border="0" alt="Home Page" width="140" height="30"></a><br>
+
+      <a onmouseover="turnOn('about');" onmouseout="turnOff('about');" href="about.htm"><img id="about" class="imgTrans" src="images/about.gif" border="0" alt="Company Profile / Contact" width="140" height="30"></a><br>
+      
+      <a href="chat.htm" onmouseover="turnOn('chat');" onmouseout="turnOff('chat');"><img id="chat" class="imgTrans" src="images/chat.gif" border="0" alt="Chat" width="140" height="30"></a><br>
+      
+      <a onmouseover="turnOn('faq');" onmouseout="turnOff('faq');" href="faq.htm"><img id="faq" class="imgTrans" src="images/faq.gif" border="0" alt="Frequently Asked Questions" width="140" height="30"></a><br>
+      
+      <a href="library.htm" onmouseover="turnOn('library');" onmouseout="turnOff('library');"><img id="library" class="imgTrans" src="images/library.gif" border="0" alt="Articles, Newsletter, Flash Movies, Games and More" width="140" height="30"></a><br>
+      
+      <a href="products.htm" onmouseover="turnOn('products');" onmouseout="turnOff('products');"><img id="products" class="imgTrans" src="images/products.gif" border="0" alt="Our Complete Line of Products" width="140" height="30"></a><br>
+      <a href="test.htm" onmouseover="turnOn('selftests');" onmouseout="turnOff('selftests');"><img id="selftests" class="imgTrans" src="images/selftests.gif" border="0" alt="Free Hearing and Visual Tests" width="140" height="30"></a><br>
+      <a href="refship.htm" onmouseover="turnOn('shipref');" onmouseout="turnOff('shipref');"><img id="shipref" class="imgTrans" src="images/shipref.gif" border="0" alt="Shipping and Refund Policy" width="140" height="30"></a> </p>
+      <table border="0" width="100%" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td align="right"><table width="98%" border="0" cellspacing="0" cellpadding="5">
+              <tbody><tr> 
+                <td> 
+                  <table><tbody><tr> 
+         <td class="navelem"><form action="http://search.freefind.com/find.html" method="GET" target="_self">
+  
+<input type="HIDDEN" name="id" value="97437207">
+<input type="HIDDEN" name="pid" value="r">
+<input type="HIDDEN" name="mode" value="ALL"><input type="text" name="query" value="search..." style="width=90px;" onfocus="this.value=''" size="9" title="Search Box"> 
+                      <input type="image" src="images/go.jpg" name="I3" alt="Search this Site" width="18" height="18"><input type="radio" value="00540941442933ce" checked="" name="crid" tabindex="2"><font face="MS Sans Serif, News Gothic MT, Arial, Helvetica" size="1"><font color="#0000FF">This
+Site</font>&nbsp;&nbsp;</font><br>
+                              <input type="radio" name="crid" value="web" tabindex="3"><font face="MS Sans Serif, News Gothic MT, Arial, Helvetica" size="1" color="#0000FF">The
+Web</font></form></td> 
+         </tr><tr> 
+         <td class="navelem"></td> 
+         </tr><tr> 
+         <td class="navelem">
+          <table border="0" width="100%" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td width="50%"><a href="portugues/index.htm"><img border="0" src="images/brazilflag.gif" alt="This Site in Portuguese" width="40" height="29"></a></td>
+              <td width="50%"><a href="espanol/Default.htm"><img border="0" src="images/spainflag.gif" alt="This Site in Spanish" width="43" height="28"></a></td>
+            </tr>
+            <tr>
+              <td width="50%"><br>
+              </td>
+              <td width="50%"></td>
+            </tr>
+            <tr>
+              <td width="50%"><a href="francais/Default.htm"><img border="0" src="images/frenchflag.gif" alt="This Site in French" width="40" height="27"></a></td>
+              <td width="50%"><a href="index.htm"><img border="0" src="images/usflag.gif" alt="This Site in English" width="40" height="28"></a></td>
+            </tr>
+          </tbody></table>
+         </td> 
+         </tr></tbody></table>                </td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+      </tbody></table>
+    </td>
+    <td width="17" bgcolor="#FFFFFF">&nbsp;</td>
+    <td bgcolor="#FFFFFF" valign="top" width="572">
+      <table border="0" width="100%" bgcolor="#E3CFEB" cellspacing="0">
+              <tbody><tr>
+                <td width="100%" bgcolor="#FFFFFF">&nbsp;
+                  
+                </td>
+              </tr>
+              <tr>
+                <td width="100%" bgcolor="#FFFFFF">
+                  <h3>Privacy Policy</h3>
+                </td>
+              </tr>
+            </tbody></table>      
+      <table border="0" width="579" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td valign="top" width="411">
+      <table border="0" cellpadding="0" cellspacing="0" width="400">
+        <tbody><tr>
+          <td width="415" valign="top">
+          <p align="left"><font color="#000000">Unlike
+          some companies who sell their customer information to third parties,
+          we believe it is extremely important to keep our customer information
+          strictly confidential and for internal use only.&nbsp;</font></p>
+          <ul type="square">
+            <li>
+              <p align="left"><font color="#000000">We
+              do not share customer
+              information with outside parties except to the extent necessary to
+              complete an order.<br>
+              <br>
+              </font></p></li>
+            <li>
+              <p align="left"><font color="#000000">For
+              example, when an item is not available, we may send your shipping
+              information to our suppliers so they can fulfill your order.<br>
+              <br>
+              </font></p></li>
+            <li>
+              <p align="left"><font color="#000000">Return
+              email addresses are not used for any purpose other than to answer
+              emails we may receive or to send you a copy of our bi-monthly
+              newsletter.&nbsp;<br>
+              <br>
+              </font></p></li>
+            <li>
+              <p align="left"><font color="#000000">If
+              you do not wish to receive electronic mailings, you can have your name
+              removed from our internal
+              mailing list at any time. Removal instructions appear at
+              the bottom of each newsletter.</font></p></li>
+          </ul>
+          &nbsp;</td>
+        </tr>
+        <tr>
+          <td width="415" valign="top">
+          </td>
+        </tr>
+      </tbody></table>
+          </td>
+          <td width="19"><img border="0" src="images/b2.gif" width="10" height="10" alt="blank"></td>
+          <td bgcolor="#33CCCC" width="2"><img border="0" src="images/b2.gif" width="2" height="2" alt="blank"></td>
+          <td width="10"><img border="0" src="images/b2.gif" width="10" height="10" alt="blank"></td>
+          <td valign="top" width="127">	<table border="0" width="100%" bgcolor="#A75CBC" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="100%">
+                  <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td bgcolor="#33CCCC"><b><font size="1" face="verdana, arial" color="#000000">&nbsp;Website
+                        Tools</font></b></td>
+                      <td valign="top" align="right" bgcolor="#33CCCC"><img border="0" src="images/whcornr.gif" width="10" height="10" alt="corner"></td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+            <table border="0" width="100%" cellspacing="0" cellpadding="4">
+              <tbody><tr>
+                <td width="100%" bgcolor="#E3F9F9">
+<form action="http://search.freefind.com/find.html" method="GET" target="_self">
+  
+<font size="1" face="arial,helvetica">
+<input type="HIDDEN" name="id" value="97437207">
+<input type="HIDDEN" name="pid" value="r">
+<input type="HIDDEN" name="mode" value="ALL"></font><input type="text" name="query" value="search..." style="width=90px;" onfocus="this.value=''" size="9" title="Search Box"> 
+                      <input type="image" src="images/go.jpg" name="I3" alt="Search this Site" width="18" height="18"><font size="1" face="trebuchet" color="000000"><input type="radio" value="00540941442933ce" checked="" name="crid" tabindex="2"></font><font size="1" face="verdana, arial" color="#0000FF"><font face="MS Sans Serif, News Gothic MT, Arial, Helvetica" size="1">This
+Site&nbsp;&nbsp;</font><b><font color="#000000" face="MS Sans Serif, News Gothic MT, Arial, Helvetica" size="2"><br>
+                              <input type="radio" name="crid" value="web" tabindex="3"></font></b><font face="MS Sans Serif, News Gothic MT, Arial, Helvetica" size="1">The
+Web</font></font></form>
+
+                </td>
+              </tr>
+            </tbody></table>
+                       <table border="0" width="100%" bgcolor="#A75CBC" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="100%">
+                  <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td bgcolor="#33CCCC"><b><font size="1" face="verdana, arial" color="#F2E7F5">&nbsp;</font><font size="1" face="verdana, arial" color="#000000">Live
+                        Person</font></b></td>
+                      <td valign="top" align="right" bgcolor="#33CCCC"><img border="0" src="images/whcornr.gif" width="10" height="10" alt="corner"></td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+            <table border="0" width="100%" cellspacing="0" cellpadding="4">
+              <tbody><tr>
+                <td width="100%" bgcolor="#E3F9F9">
+                  <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                    <tbody><tr><td>
+                      
+                          <center><!-- BEGIN HumanClick Button Code --><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><a href="http://hc2.humanclick.com/hc/80232283/?cmd=file&amp;file=visitorWantsToChat&amp;site=80232283&amp;byhref=1" target="chat80232283" onclick="javascript:window.open('http://hc2.humanclick.com/hc/80232283/?cmd=file&amp;file=visitorWantsToChat&amp;site=80232283&amp;referrer='+escape(document.location),'chat80232283','width=472,height=320');return false;"><img src="http://hc2.humanclick.com/hc/80232283/?cmd=repstate&amp;site=80232283&amp;imageUrl=http://azhearing.com/images&amp;ver=1" name="hcIcon" border="0"></a></td></tr><tr><td align="center"></td></tr></tbody></table><!-- END HumanClick Button code --></center>
+
+                  
+
+                    </td><td></td></tr>
+                    <tr><td>
+                     
+                  
+                  
+                    </td><td></td></tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+            <table border="0" width="100%" bgcolor="#A75CBC" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="100%"><table border="0" width="100%" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td bgcolor="#33CCCC"><b><font size="1" face="verdana, arial" color="#F2E7F5">&nbsp;</font><font size="1" face="verdana, arial" color="#000000">Recommended</font></b></td>
+                      <td valign="top" align="right" bgcolor="#33CCCC"><img border="0" src="images/whcornr.gif" width="10" height="10" alt="corner"></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+            </tbody></table>
+            <table border="0" width="100%" cellspacing="0" cellpadding="4">
+              <tbody><tr>
+                <td width="100%" bgcolor="#E3F9F9">
+
+                  <font size="1"><a href="testimonials.htm" title="Unsolicited Customer Testimonials">Testimonials</a><br>
+                  <br>
+                  <a href="linkback.htm" title="Link Back to Us">Link Back to Us</a><br>
+                  <br>
+                  <a class="chlnk" style="cursor:hand" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://assistech.com');" title="Click here to make Assistech.com your Default Home Page"><font color="#0000FF">Click
+                  here to make Assistech.com your Default Home Page</font></a></font><br>
+                  <font size="1" face="verdana, arial" color="#913CAB"><br>
+                  <table border="0" cellspacing="0" cellpadding="0" style="margin: 5px 5px" align="center">
+                    <tbody><tr>
+                      <td height="24" align="center" style="font-family: Verdana; font-size: 8px"><img border="0" src="http://azhearing.com/images/secure.jpg" width="81" height="72" alt="Once in the shopping cart click to verify authenticity."></td>
+                    </tr>
+                  </tbody></table>
+                  </font>
+                  <p align="center"><a href="/paymentplan.htm"><img border="0" src="http://azhearing.com/images/promo.gif" alt="Learn about our Payment Plan!" width="100" height="102"></a></p>
+                  
+                  <p align="center">
+
+                  <font size="1" face="verdana, arial" color=""><b><a href="catalog.htm"><img border="0" src="images/catalog.jpg" alt="Get a Free Catalog" width="111" height="160"></a></b></font>
+                  
+                  </p>
+                  
+                </td>
+              </tr>
+            </tbody></table>
+            
+            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="100%">&nbsp;</td>
+              </tr>
+            </tbody></table>
+
+            </td>
+        </tr>
+      </tbody></table>
+      <div align="center">
+        <center>
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody><tr>
+          <td align="center" bgcolor="#33CCCC"><font face="verdana, helvetica, sans serif, arial" size="1">
+            <img border="0" src="images/b2.gif" width="2" height="2" alt="blank"></font></td>
+        </tr>
+        <tr>
+          <td align="center" bgcolor="#FFFFFF"><font face="verdana, helvetica, sans serif, arial" size="1"><a href="index.htm" title="Home Page">Home</a> <font color="#913CAB"> |
+            <a href="about.htm" title="Company Profile / Contact">About
+            Us</a> | <a href="chat.htm" title="Chat">Chat</a> | <a href="faq.htm" title="Frequently Asked Questions">FAQ</a> | <a href="library.htm" title="Articles, Newsletter, Flash Movies, Games and More">Library</a></font>
+            <font color="#913CAB">|</font> <a href="products.htm" title="Our Complete Line of Products">Products</a> <font color="#913CAB">|</font>
+            <a href="test.htm" title="Free Hearing and Visual Tests">Self-Tests</a> <font color="#913cab">|</font>  <a href="privacy.htm" title="Privacy Policy">Privacy Policy</a><br>
+            <img border="0" src="images/b2.gif" width="5" height="5" alt="blank"></font></td>
+        </tr>
+        <tr>
+          <td align="center" bgcolor="#FFFFFF"><br>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" bgcolor="#FFFFFF"><font face="verdana, helvetica, sans serif, arial" size="1">
+            <img border="0" src="images/b2.gif" width="5" height="5" alt="blank"><br>
+            </font><a href="products.htm" title="Our Complete Line of Products"><font size="+1" color="#CC3366">Online
+  Catalog</font></a></td>
+        </tr>
+      </tbody></table>
+        </center>
+      </div>
+    </td>
+    <td width="17" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="144"><font face="verdana, helvetica, sans serif, arial" size="1">
+            <img border="0" src="images/b2.gif" width="1" height="1" alt="blank"></font></td>
+    <td width="17" bgcolor="#FFFFFF" valign="bottom" align="left"><img border="0" src="images/corner3.gif" width="13" height="13" alt="corner"></td>
+    <td bgcolor="#FFFFFF" valign="top" width="572"><font face="verdana, helvetica, sans serif, arial" size="1">
+            <img border="0" src="images/b2.gif" width="1" height="1" alt="blank"></font></td>
+    <td width="17" bgcolor="#FFFFFF" valign="bottom" align="right"><img border="0" src="images/corner4.gif" width="13" height="13" alt="corner"></td>
+  </tr>
+  <tr>
+    <td width="144"></td>
+    <td width="17"></td>
+    <td valign="top" width="572"></td>
+    <td width="17"></td>
+  </tr>
+  <tr>
+    <td width="144"></td>
+    <td width="17"></td>
+    <td valign="top" width="572">
+      <p align="center"><img border="0" src="images/visa.gif" alt="We Accept Visa, Mastercard, Discover and American Express" width="214" height="50"></p></td>
+    <td width="17"></td>
+  </tr>
+  <tr>
+    <td width="144"><img border="0" src="images/b2.gif" width="144" height="9" alt="blank"></td>
+    <td width="17"><img border="0" src="images/b2.gif" width="17" height="9" alt="blank"></td>
+    <td valign="top" width="572">
+      <p align="center"> 
+          <font size="1">Copyright © 2006 Assistech Special Needs. All rights
+          reserved.</font> 
+      </p>
+    </td>
+    <td width="17"><img border="0" src="images/b2.gif" width="17" height="9" alt="blank"></td>
+  </tr>
+</tbody></table>
+<div id="showimage"></div>
+<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="http://hc2.humanclick.com/hc/80232283/x.js?cmd=file&amp;file=chatScript3&amp;site=80232283&amp;imageUrl=http://azhearing.com/images"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+
+
+
+</body></html>
