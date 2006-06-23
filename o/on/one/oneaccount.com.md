@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the oneaccount.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226061710id_/http%3A//www.oneaccount.com/onev3/hnav/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneaccount.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623113543id_/http%3A//www.oneaccount.com/onev3/hnav/privacy.html) for the most accurate reproduction.*
 
 # The One account - Privacy
 
 |   |   |    
 ---|---|---  
-|  | [Home](https://web.archive.org/web/20051226061710id_/http%3A//www.oneaccount.com/onev3/index.html)  
-|  |  [What is the _One account_?](https://web.archive.org/web/20051226061710id_/http%3A//www.oneaccount.com/onev3/toa/toa-landing.html)  
-|  |  [Is it right for me?](https://web.archive.org/web/20051226061710id_/http%3A//www.oneaccount.com/onev3/isit/toa-isitright.html)  
-|  | [Mortgage calculators](https://web.archive.org/web/20051226061710id_/http%3A//www.oneaccount.com/onev3/calculator/calculator-landing.shtml)  
-|  |  [Who can apply?](https://web.archive.org/web/20051226061710id_/http%3A//www.oneaccount.com/onev3/who/toa-who.shtml)  
-|  |  [Rates and fees](https://web.archive.org/web/20051226061710id_/http%3A//www.oneaccount.com/onev3/rates/toa-rates.shtml)  
-|  |  [_One account_   insurance](https://web.archive.org/web/20051226061710id_/http%3A//www.oneaccount.com/onev3/insurance/insurance-landing.html)  
-|  | [FAQs](https://web.archive.org/web/20051226061710id_/http%3A//www.oneaccount.com/onev3/faqs/toa-faqs.html)  
-|  | [Contact us](https://web.archive.org/web/20051226061710id_/http%3A//www.oneaccount.com/onev3/contact/contact-landing.shtml)  
+|  | [Home](https://web.archive.org/web/20060623113543id_/http%3A//www.oneaccount.com/onev3/index.html)  
+|  |  [What is the _One account_?](https://web.archive.org/web/20060623113543id_/http%3A//www.oneaccount.com/onev3/toa/toa-landing.html)  
+|  |  [Is it right for me?](https://web.archive.org/web/20060623113543id_/http%3A//www.oneaccount.com/onev3/isit/toa-isitright.html)  
+|  | [Mortgage calculators](https://web.archive.org/web/20060623113543id_/http%3A//www.oneaccount.com/onev3/calculator/calculator-landing.shtml)  
+|  |  [Who can apply?](https://web.archive.org/web/20060623113543id_/http%3A//www.oneaccount.com/onev3/who/toa-who.shtml)  
+|  |  [Rates and fees](https://web.archive.org/web/20060623113543id_/http%3A//www.oneaccount.com/onev3/rates/toa-rates.shtml)  
+|  |  [_One account_   insurance](https://web.archive.org/web/20060623113543id_/http%3A//www.oneaccount.com/onev3/insurance/insurance-landing.html)  
+|  | [FAQs](https://web.archive.org/web/20060623113543id_/http%3A//www.oneaccount.com/onev3/faqs/toa-faqs.html)  
+|  | [Contact us](https://web.archive.org/web/20060623113543id_/http%3A//www.oneaccount.com/onev3/contact/contact-landing.shtml)  
 |  |  |  |   
 ---|---|---  
-[Apply now](https://web.archive.org/web/20051226061710id_/http%3A//www.oneaccount.com/onev3/apply/apply-landing.shtml)  
+[Apply now](https://web.archive.org/web/20060623113543id_/http%3A//www.oneaccount.com/onev3/apply/apply-landing.shtml)  
 |  |   
 |  |  |   
 ---  
@@ -37,7 +37,7 @@ If you're going to run all your finances through the _One account_ , you need to
   
 We follow the letter of the UK Data Protection Act 1998.  
   
-|  | [ ](https://web.archive.org/web/20051226061710id_/http%3A//www.oneaccount.com/onev3/apply/apply-landing.shtml)  
+|  | [ ](https://web.archive.org/web/20060623113543id_/http%3A//www.oneaccount.com/onev3/apply/apply-landing.shtml)  
 ---  
-[ ](https://web.archive.org/web/20051226061710id_/http%3A//www.oneaccount.com/onev3/impinfo/importantinfo.shtml)  
+[ ](https://web.archive.org/web/20060623113543id_/http%3A//www.oneaccount.com/onev3/impinfo/importantinfo.shtml)  
  
