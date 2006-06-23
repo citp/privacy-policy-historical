@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the nycerome.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231024301id_/http%3A//www.nycerome.com/nycerome-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycerome.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623060344id_/http%3A//nycerome.com/nycerome-privacy.html) for the most accurate reproduction.*
 
 # Rome hotels, online reservation of hotels in Rome, Italy
 
 **Privacy policy**  
-No personal informations (credit card details, booking activity, email address, etc.) is provided to anyone beyond the vendor that the costumer designate.  
-Eur Travel by Real Time Sas and/or authorized third party to assemble personal data (name, e-mail etc.) and or/other informations (residence, nationality, etc.) inserted by the costumer when he makes an hotel booking or ask for informations by using nycerome.com.  
-Credit Card informations are transmitted to the requested hotel, in order to complete the reservation. We can utilize the given e-mail and e-mail address to contact the costumer and send all the necessary informations regarding services and requested products.   
+No personal information (credit card details, booking activity, email address, etc.) is provided to anyone beyond the vendor that the costumer designate.  
+nyceWorld Srl and/or authorized third party to assemble personal data (name, e-mail etc.) and or/other information (residence, nationality, etc.) inserted by the costumer when he makes a hotel booking or ask for information by using nycerome.com.  
+Credit Card information are transmitted to the requested hotel, in order to complete the reservation. We can utilize the given e-mail and e-mail address to contact the costumer and send all the necessary information regarding services and requested products.   
 The security of the information given by the customer to us is very important; we utilize a cryptographic system (SSL) during the booking request and other measures to protect the costumer sensible data from loss, abuse and alteration. nyceRome includes links to other sites: this site is not responsible in any way for the actions and security of these third parties who do not share with us any information regarding the customer. 
 
 **Conformably to the Italian privacy law**  
-The personal data of the customer are registered by Eur Travel by Real Time Sas conformably to art. 10 of the Italian Law 675/96, only for the aim of utilizing the reservation system, other services requested by the customer or accomplishing the relevant communications/notices.   
-Data will be given only to the addresses of the requests or reservations, to the hotels, or to a third party appointed to do this service in behalf of Eur Travel by Real Time Sas.  
+The personal data of the customer are registered by nyceWorld Srl conformably to art. 10 of the Italian Law 675/96, only for the aim of utilizing the reservation system, other services requested by the customer or accomplishing the relevant communications/notices.   
+Data will be given only to the addresses of the requests or reservations, to the hotels, or to a third party appointed to do this service in behalf of nyceWorld Srl.  
 The customer benefit from the rights of art. 13 Italian Law 675/96, furthermore the customer can in any moment request the cancellation of his data from the archive sending a simple written request, also by e-mail.   
-Owner / holder and responsible of the collection, preservation and treatment of the data is Eur Travel by Real Time Sas, Via Viterbo 8, 00197, Rome, Italy  
-The information presented on this page have a mere informative nature and do not constitute contractual bond, they do not give any legal power to the customer against Eur Travel by Real Time Sas except for what is foreseen by the Italian privacy law 675/96 .
+Owner / holder and responsible of the collection, preservation and treatment of the data is nyceWorld Srl, Via Fanny Tacchinardi, 19/a - 00168, Rome, Italy  
+The information presented on this page have a mere informative nature and do not constitute contractual bond, they do not give any legal power to the customer against nyceWorld Srl except for what is foreseen by the Italian privacy law 675/96 .
 
 * * *
 
