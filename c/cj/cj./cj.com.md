@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cj.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230165223id_/http%3A//www.cj.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cj.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623113317id_/http%3A//www.cj.com/privacy.jsp) for the most accurate reproduction.*
 
 # Online marketing solutions: performance-based affiliate programs & search marketing
 
@@ -42,27 +42,25 @@ In some cases, ValueClick receives and records partial email addresses of Intern
 
 The ValueClick Network may make any PII provided in responding to an advertisement available to the company sponsoring the advertisement, as well as to other trusted third parties in accordance with the terms of this privacy policy. As a result, you may receive information on additional products, services and offers that may be of interest to you. 
 
-The ValueClick Network and/or our marketing partners may enhance and/or merge PII about consumers who have opted-in to receive marketing communications with commercially-available third party data collected from other sources in an effort to ensure that the messages being sent to the consumer in online and/or offline marketing programs are relevant to their interests. In the event we enhance and/or merge such personally identifiable information with data collected from other sources, we will take reasonable steps to maintain the integrity and quality of that information. 
+The ValueClick Network and/or our marketing partners may enhance and/or merge PII about consumers who have opted-in to receive marketing communications with commercially-available third party data collected from other sources in an effort to ensure that the messages being sent to the consumer in online and/or offline marketing programs are relevant to their interests. In the event we enhance and/or merge such personally identifiable information with data collected from other sources, we will take reasonable steps to maintain the integrity and quality of that information.
 
-The ValueClick Network may share PII (including information that has been enhanced with information from other sources) with advertisers, third party marketers, our affiliated entities for their online and/or offline marketing programs or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, reorganization or liquidation of any of the ValueClick Network companies. While ValueClick strongly encourages clients and partners to adopt responsible approaches to online marketing, ValueClick is not responsible for the information practices of clients or their partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies, which may differ from ValueClick's policy. 
+The ValueClick Network may share PII (including information that has been enhanced with information from other sources) with advertisers, third party marketers, our affiliated entities for their online and/or offline marketing programs or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, reorganization or liquidation of any of the ValueClick Network companies. While ValueClick strongly encourages clients and partners to adopt responsible approaches to online marketing, ValueClick is not responsible for the information practices of clients or their partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies, which may differ from ValueClick's policy.
 
-The ValueClick Network may release account and any other personal information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our [Terms and Conditions](https://web.archive.org/terms.jsp) and other agreements; or protect the rights, property, or safety of ValueClick or others. This includes exchanging information with other companies and organizations for fraud protection. 
+The ValueClick Network may release account and any other personal information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our [Terms and Conditions](https://web.archive.org/terms.jsp) and other agreements; or protect the rights, property, or safety of ValueClick or others. This includes exchanging information with other companies and organizations for fraud protection.
 
 **III. CONSUMER CHOICE AND ACCESS**
 
 **A. Opting Out.**   
-Some ValueClick Cookies have an "opt-out" option. This process does not remove the ValueClick Cookie from your system; it simply replaces it with an opt-out Cookie that does not contain any unique identifiers. If this site provides such a process it is detailed below. 
+Some ValueClick Cookies have an "opt-out" option. This process does not remove the ValueClick Cookie from your system; it simply replaces it with an opt-out Cookie that does not contain any unique identifiers. If this site provides such a process it is detailed below.
 
 Some of ValueClick's Cookies do not have an "opt-out" option, yet you still have the option of blocking the use of Cookies by changing a setting in your Internet browser. Please see your browser supplier's Web site for details on how to do this. 
 
 This site does not maintain a process for an individual consumer to opt-out of a ValueClick ad serving Cookie. 
 
 **B. Accessing Consumer Information.**   
-Because they are not directed towards individual Internet users, most ValueClick Network sites do not maintain a process for an individual consumer to review and/or request changes to any PII collected. If this site provides such a process it is detailed below. 
+Because they are not directed towards individual Internet users, most ValueClick Network sites do not maintain a process for an individual consumer to review and/or request changes to any PII collected.
 
-Except as provided below, this site does not maintain a process for an individual consumer to access his/her PII. 
-
-Commission Junction empowers end users of its BSELECT product to access and modify their anonymous profile data through a Profile Control Panel. This control panel can be found at <http://www.yourcontrolpanel.com/mypage/pcp.html>. The panel displays the Web site and web page information incorporated into an end user's targeted recommendations. The Profile Control Panel allows users to remove individual records that they do not wish to have associated with their profile, remove all of the records in the profile, or opt-out of personalization entirely. Commission Junction requires that its marketing Customers also provide clear access to the Profile Control Panel. 
+Except as provided below, this site does not maintain a process for an individual consumer to access his/her PII.
 
 **IV. SECURITY**
 
@@ -76,7 +74,7 @@ The ValueClick Network may find it necessary or be legally obligated to update t
 
 **VI. CHILDREN'S PRIVACY AND SPAM**
 
-The ValueClick Network is very sensitive to the issue of children's privacy and makes every effort to protect the privacy of children using the Internet. ValueClick's Web site, products, and services are not developed for or directed at children. Children (persons under the age of 18) are not eligible to do business with us and we do not collect personal information from any person we actually know is under the age of 13. If you believe your child has provided the ValueClick Network with any personally identifiable data by registering at a ValueClick Web site, please email  to have them removed. 
+The ValueClick Network is very sensitive to the issue of children's privacy and makes every effort to protect the privacy of children using the Internet. ValueClick's Web site, products, and services are not developed for or directed at children. Children (persons under the age of 18) are not eligible to do business with us and we do not collect personal information from any person we actually know is under the age of 13. If you believe your child has provided the ValueClick Network with any personally identifiable data by registering at a ValueClick Web site, please contact us at <http://www.cj.com/about/contact.jsp> to have them removed. 
 
 The ValueClick Network is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701). It is our policy to prohibit the sending of unsolicited or "Spam" e-mail by ValueClick or any of its marketing partners. 
 
@@ -102,7 +100,7 @@ ValueClick, Inc. is a member of the Network Advertising Initiative ("NAI"). The 
 
 YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND OUR [TERMS AND CONDITIONS](https://web.archive.org/terms.jsp) (INCLUDING LIMITATIONS ON DAMAGES, AND ARBITRATION OF DISPUTES). YOU AGREE THAT COMMISSION JUNCTION'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE GREATER OF THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY COMMISSION JUNCTION OR $250 TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to Commission Junction with regard to: (a) the purposes for which such third party's personal data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais. 
 
-**CONTACT US** For more information or if you have questions or concerns regarding the ValueClick Network Privacy Policy, please email  or you can send correspondence to the following address: Privacy, Commission Junction, Inc., 530 East Montecito Street, Santa Barbara, CA 93103, USA. 
+**CONTACT US** For more information or if you have questions or concerns regarding the ValueClick Network Privacy Policy, please contact us at <http://www.cj.com/about/contact.jsp> or you can send correspondence to the following address: Privacy, Commission Junction, Inc., 530 East Montecito Street, Santa Barbara, CA 93103, USA. 
 
 **CLIENT PRIVACY**
 
@@ -154,13 +152,13 @@ ValueClick, Inc. is a member of the Network Advertising Initiative ("NAI"). The 
 
 YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND OUR [ADVERTISER TERMS OF USE](https://web.archive.org/asa_usd.jsp)* and [PUBLISHER TERMS OF USE](https://web.archive.org/psa.jsp)* (INCLUDING LIMITATIONS ON DAMAGES, AND ARBITRATION OF DISPUTES). YOU AGREE THAT COMMISSION JUNCTION'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY COMMISSION JUNCTION TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to Commission Junction with regard to: (a) the purposes for which such third party's personal data has been collected; (b) the intended recipients or categories of recipients of the third party's personal data; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais. 
 
-**IX. CONTACT US** For more information or if you have questions or concerns regarding the ValueClick Network Privacy Policy, please send an email to  or you can send correspondence to the following address: Privacy, Commission Junction, Inc., 530 East Montecito Street, Santa Barbara, CA 93103, USA. 
+**IX. CONTACT US** For more information or if you have questions or concerns regarding the ValueClick Network Privacy Policy, please contact us at <http://www.cj.com/about/contact.jsp> or you can send correspondence to the following address: Privacy, Commission Junction, Inc., 530 East Montecito Street, Santa Barbara, CA 93103, USA. 
 
   
 * The agreements linked from this page are to the standard agreements. If you have entered into a custom agreement with the Company, then the references here are to be interpreted as referring to such custom agreement. 
 
-_Posted March 11, 2005
+_Updated May 15, 2006
 
-Copyright © 2005, Commission Junction Inc. All rights reserved. 
+Copyright © 2006, Commission Junction Inc. All rights reserved. 
 
 _
