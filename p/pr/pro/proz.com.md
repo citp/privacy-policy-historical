@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229153549id_/http%3A//www.proz.com%3Fsp%3Dinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proz.com privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624004318id_/http%3A//www.proz.com%3Fsp%3Dinfo/privacy) for the most accurate reproduction.*
 
 # Translation services, translation jobs, and freelance translators
 
@@ -59,7 +59,7 @@ Members have full control over their personal information and the manner in whic
 **Log Files**
 
   
-ProZ.com uses IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. 
+ProZ.com uses IP addresses to analyze trends, administer the site, track user�s movement, and gather broad demographic information for aggregate use. 
 
 **Links**
 
@@ -91,7 +91,7 @@ ProZ.com stores this information for the sole purpose of sending this one-time e
   
 This website takes a number of precautions to protect members' information. When members submit sensitive information via the website, their information is protected both online and off-line. 
 
-All of members’ information is restricted in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. 
+All of members� information is restricted in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. 
 
 Also, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
