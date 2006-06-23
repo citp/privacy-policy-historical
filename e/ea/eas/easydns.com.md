@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easydns.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231012916id_/http%3A//www.easydns.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easydns.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623215130id_/http%3A//www.easydns.com/privacy.php3) for the most accurate reproduction.*
 
 # easyDNS Privacy Policy
 
@@ -8,7 +8,7 @@ Your easyDNS membership information:
 
 The information collected by easyDNS, including name, address, company name, email address, phone number and fax number, is used to validate the authenticity of requests made by individuals or organizations with respect to information contained in their easyDNS account, or in response to a lost password or lost user ID issue. We may also use the information to contact members with important system or account information, changes to services, and other important easyDNS updates. With the members permission we may also use the information to provide updates on new services and other special announcements. 
 
-The answers supplied to the secret questions selected during the sign up process are used to assist easyDNS members in the generation of new passwords during the automated password recovery process. The questions and answer pairs may also be used by easyDNS support staff to authenticate various requests by our members made directly via email and telephone. 
+The answers supplied to the secret questions selected during the sign up process may be used in concert with personal email addresses and phone numbers to assist easyDNS members in the generation of new passwords during the automated password recovery process. The questions and answer pairs may also be used by easyDNS support staff to authenticate various requests by our members made directly via email and telephone. 
 
 Personal information that exists within an easyDNS account will remain active until the member has requested that the account be deleted or until the account and the information contained within has been deleted during the routine deletion of dormant and unused easyDNS member accounts. 
 
