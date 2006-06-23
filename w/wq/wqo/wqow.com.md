@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wqow.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227023224id_/http%3A//www.wqow.com/station/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wqow.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623230051id_/http%3A//www.wqow.com/station/privacy.shtml) for the most accurate reproduction.*
 
 # WQOW Website Privacy Policy
 
@@ -61,7 +61,7 @@ In the event case of any conflict between the terms of this policy and the terms
   
 [](https://web.archive.org/weather/)
 
-_**Tonight**_
+_**Today**_
 
-Cloudy/Areas of Freezing Drizzle/Late-Night Fog, Low: 30  
-Wind: S 5-15
+A Delightful Friday!, High: 81  
+Wind: S-SE 5-10
