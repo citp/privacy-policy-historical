@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218194155id_/http%3A//www.cpap.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623163646id_/http%3A//www.cpap.com/privacy.shtml) for the most accurate reproduction.*
 
 # CPAP Machines and CPAP Masks for the Treament of Sleep Apnea
 
