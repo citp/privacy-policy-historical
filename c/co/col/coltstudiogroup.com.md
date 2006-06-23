@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coltstudiogroup.com privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201093815id_/http%3A//www.coltstudiogroup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coltstudiogroup.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623175538id_/http%3A//coltstudiogroup.com/privacy.aspx) for the most accurate reproduction.*
 
 # C O L T | welcome
 
