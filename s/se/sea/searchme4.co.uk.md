@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchme4.co.uk privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220030237id_/http%3A//www.searchme4.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchme4.co.uk privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623195516id_/http%3A//www.searchme4.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Results
 
