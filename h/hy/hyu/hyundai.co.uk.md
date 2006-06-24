@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundai.co.uk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218103132id_/http%3A//www.hyundai.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.co.uk privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624222144id_/http%3A//www.hyundai.co.uk/privacy) for the most accurate reproduction.*
 
 # Hyundai | Privacy
 
@@ -8,13 +8,13 @@ Hyundai Motor UK Ltd and its group companies take the privacy of your informatio
 
 From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services on our website. These services include newsletters and competitions, live chats and message boards and personalised services. We will also need personal information in order to supply other products and services or to help us identify you when you contact us. When we collect this information we will only do so over a secure connection. If you communicate with us by email over the internet you should be aware that the nature of the internet is such that unencrypted communication may not be secure and may pass through several different countries on route to us. Please do not email us with confidential or sensitive information such as your credit card details. We cannot accept responsibility for unauthorised access to your information that is outside our control. 
 
-We may combine this information with other information that we may hold about you if you are a RAC customer, or have made enquiries of us before. We may also obtain information from publicly available sources such as the electoral roll, or other third parties who have a legitimate basis on which to pass on your information.
+We may combine this information with other information that we may hold about you, or have made enquiries of us before. We may also obtain information from publicly available sources such as the electoral roll, or other third parties who have a legitimate basis on which to pass on your information.
 
 We will act in accordance with current legislation and we will provide a link to our Data Protection Notice every time we invite you to submit personal information to us. Our Data Protection Notice is given below.
 
-## RAC Data Protection Notice
+## Hyundai Motor UK Ltd Data Protection Notice
 
-Hyundai Motor UK Ltd will share the information you provide, together with other information, with our group companies*. We (RAC group companies) will use this for administration, marketing, customer services and profiling your purchasing preferences. We will disclose your information to our service providers and agents for these purposes. We may keep your information for a reasonable period to contact you about our services. For information about the way we use cookies and other web tracking devices please refer to section 2 in this privacy policy. 
+Hyundai Motor UK Ltd will share the information you provide, together with other information, with our group companies*. We will use this for administration, marketing, customer services and profiling your purchasing preferences. We will disclose your information to our service providers and agents for these purposes. We may keep your information for a reasonable period to contact you about our services. For information about the way we use cookies and other web tracking devices please refer to section 2 in this privacy policy. 
 
 We may transfer your information outside of the European Economic Area, for example to Asia. We will only do this where it is necessary for the conclusion, or performance of a contract between us, or that we enter into at your request, in your interest, or for administrative, or our own marketing purposes.
 
@@ -31,8 +31,6 @@ We offer motoring and travel related products such as breakdown services, hotel 
 ### Sensitive data
 
 By submitting data to us, you give us consent to use your sensitive personal data e.g. health data for your registration under the Motability Scheme (if appropriate), solely for the purposes for which you submit it.
-
-(*Hyundai Motor UK Ltd is part of RAC plc, which includes the Lex group of companies, and the British School of Motoring Limited.
 
 back to top
 
@@ -56,7 +54,7 @@ back to top
 
 * How to access your personal information 
 
-Please address requests to the Data Protection Compliance Manager, Hyundai Motor UK Ltd 17 Connaught Place, London W2 2EL. (Please note that a small fee of å£10.00 will be charged for dealing with these requests). If you believe that any of the data we hold about you is incorrect or being misused or want further information you may contact us at the above address.
+Please address requests to the Data Protection Compliance Manager, Hyundai Motor UK Ltd, St Johns Count, Easton Street, High Wycombe, Buckinghamshire HP11 1JX. (Please note that a small fee of £10.00 will be charged for dealing with these requests). If you believe that any of the data we hold about you is incorrect or being misused or want further information you may contact us at the above address.
 
 * Users aged 16 and under 
 
