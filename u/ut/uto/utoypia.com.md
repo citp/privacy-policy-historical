@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utoypia.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604042505id_/http%3A//utoypia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utoypia.com privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624033515id_/http%3A//www.utoypia.com/privacy.php) for the most accurate reproduction.*
 
 # uTOYpia - Privacy Policy
 
@@ -24,10 +24,6 @@ This notice applies to all information collected or submitted on the utoypia.com
 
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-We only use your e-mail address to send out promotional offers and sale information that relates directly to our store. We never share your e-mail address with any outside parties. 
-
-You can register with our website if you would like to receive updates on our new products and services. 
-
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
   
@@ -38,7 +34,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
   
 **Our Commitment To Children's Privacy:**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13. 
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18. 
 
   
 **How You Can Correct Your Information**
