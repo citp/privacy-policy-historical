@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheapflights.co.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214072613id_/http%3A//www.cheapflights.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.co.uk privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624132718id_/http%3A//www.cheapflights.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
 About Us  
 This is a privacy policy for Cheapflights Limited, a UK-registered company based in London. Our homepage is www.cheapflights.co.uk.
