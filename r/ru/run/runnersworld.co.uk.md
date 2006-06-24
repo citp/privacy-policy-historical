@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214183142id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624063541id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # Runner's World - Privacy Policy
 
@@ -6,19 +6,17 @@
   
 ---  
   
-Ten Of The Best: National Highlights
-
-| **22/1** | [Folksworth 15, Cambs](https://web.archive.org/events/viewevent.asp?EN=27953)  
+| **1/7** | [Dorney Dash 10K, Berks](https://web.archive.org/events/viewevent.asp?EN=32893)  
 ---|---  
-**5/2** | [Alsager 5, Cheshire](https://web.archive.org/events/viewevent.asp?EN=30046)  
-**5/2** | [Asics Watford Half-Marathon, Herts](https://web.archive.org/events/viewevent.asp?EN=28027)  
-**5/2** | [Blackmore Vale Half-Marathon, Dorset](https://web.archive.org/events/viewevent.asp?EN=27181)  
-**5/2** | [SiS Longleat 10K, Wilts](https://web.archive.org/events/viewevent.asp?EN=28031)  
-**11/2** | [London Valentines 10K Love Run, London](https://web.archive.org/events/viewevent.asp?EN=28039)  
-**12/2** | [Liversedge Half-Marathon, W Yorks](https://web.archive.org/events/viewevent.asp?EN=27257)  
-**12/2** | [Meon Valley Plod 19.5, Hants](https://web.archive.org/events/viewevent.asp?EN=27388)  
-**12/2** | [Wokingham Half-Marathon, Berks](https://web.archive.org/events/viewevent.asp?EN=28115)  
-**26/2** | [Great North West Half-Marathon, Lancs](https://web.archive.org/events/viewevent.asp?EN=29333)  
+**2/7** | [British 10K London Run, London](https://web.archive.org/events/viewevent.asp?EN=32893)  
+**2/7** | [Cranleigh 10K, Surrey](https://web.archive.org/events/viewevent.asp?EN=31667)  
+**9/7** | [Run Preston 10K, Lancs](https://web.archive.org/events/viewevent.asp?EN=32110)  
+**9/7** | [Thorpe Edge Festival 10K, W Yorks](https://web.archive.org/events/viewevent.asp?EN=29476)  
+**12/7** | [Reigate Priory Summer 10K, Surrey](https://web.archive.org/events/viewevent.asp?EN=29723)  
+**15/7** | [Port Lympne Rhino Challenge 10K, Kent](https://web.archive.org/events/viewevent.asp?EN=30480)  
+**16/7** | [London Chest Hospital 10K, London](https://web.archive.org/events/viewevent.asp?EN=31780)  
+**16/7** | [Pinewood 10K, Wilts](https://web.archive.org/events/viewevent.asp?EN=31999)  
+**22/7** | [Wetton & Manifold 10K, Derbs](https://web.archive.org/events/viewevent.asp?EN=30656)  
 | [More races](https://web.archive.org/entry)  
   
 [](https://web.archive.org/asicsonlineentrypod)  
