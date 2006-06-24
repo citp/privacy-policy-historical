@@ -1,0 +1,644 @@
+<!--The following is the downloaded HTML source of the pharmavoice.com privacy policy that was archived on 2006-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060624033958id_/http%3A//pharmavoice.com/supportnav/privacystatement.asp) for the most accurate reproduction.-->
+
+<html><!-- template.general.interface.asp --><head>
+<title> Privacy Statement</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Description" content="Privacy Statement">
+<meta name="Keywords" content="Privacy Statement">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<link rel="stylesheet" href="/css/default.css" type="text/css">
+
+<script language="JavaScript" src="/js/rollovertext.js" type="text/JavaScript"></script>
+<script language="JavaScript" src="/js/popup.js" type="text/JavaScript"></script>
+<script language="JavaScript" src="/js/banner.js"></script>
+<script language="javascript">
+
+//preload images
+
+//~~~~~~~~~~~~~~~~# ARROW ROLLOVER NAVIGATION ~~~~~~~~
+
+var imgIgnore = "";  //ignore this image
+imgOff=new Image()
+imgOff.src="/images/redRnd_arrow_yel.jpg";
+
+//arrow.gif - dynamic
+imgNavOn=new Image()
+imgNavOn.src="/images/redRnd_arrow_wht.jpg"
+
+//subarrow.gif - dynamic
+imgNavSubOn=new Image()
+imgNavSubOn.src="/images/redRnd_arrow_wht.jpg"
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+function logoff()
+{
+	document.logoff.action = document.location.href;
+	document.logoff.submit();
+}
+
+function loginSubmit()
+{
+
+	var p = document.location.href.toString();
+	if (p.substring(p.length-1, p.length)=="/") p += "default.asp";
+	document.login.action = p;
+	//alert(document.login.action);
+
+	if (document.login.txtusername.value.length==0) {
+		alert("Please enter your e-mail address.");
+		document.login.txtusername.focus();
+		return false;
+	}
+	if (document.login.txtpassword.value.length==0) {
+		alert("Please enter your password.");
+		document.login.txtpassword.focus();
+		return false;
+	}
+
+	document.login.submit();
+	return true;
+}
+
+var nav = window.Event ? true : false;
+if (nav) {
+   window.captureEvents(Event.KEYDOWN);
+   window.onkeydown = NetscapeEventHandler_KeyDown;
+} else {
+   document.onkeydown = MicrosoftEventHandler_KeyDown;
+}
+function NetscapeEventHandler_KeyDown(e) {
+  if (e.which == 13 && e.target.type == 'password' )  document.login.submit();
+}
+function MicrosoftEventHandler_KeyDown() {
+  if (event.keyCode == 13 && event.srcElement.type == 'password') document.login.submit();
+}
+
+function isPage(page){
+	var url = document.location.href.toString();
+	if (url.substring(url.length-1)=="/") url += "default.asp";
+	if (url.substring(url.length-4)==".com") url += "/default.asp";
+	var i = url.lastIndexOf("/") + 1;
+	return (url.substring(i).toLowerCase()==page.toLowerCase())?true:false;
+}
+
+</script>
+
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="5" marginheight="0" onload="init();">
+<table width="780" height="101" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="222" valign="top"><a href="/default.asp"><img src="/images/logo.gif" width="222" height="76" border="0"></a></td>
+    <td width="558" valign="top"><img src="/images/readThinkParticipate.gif" width="558" height="56" border="0"><div id="nav1" style="position:absolute; left:222px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer1'); stopTime()" onmouseout="startTime();"><img src="/images/nav/subscriptions_u.gif" alt="" border="0"></a></div><div id="nav2" style="position:absolute; left:305px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer2'); stopTime()" onmouseout="startTime();"><img src="/images/nav/editorial_u.gif" alt="" border="0"></a></div><div id="nav3" style="position:absolute; left:375px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer3'); stopTime()" onmouseout="startTime();"><img src="/images/nav/advertising_u.gif" alt="" border="0"></a></div><div id="nav4" style="position:absolute; left:455px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer4'); stopTime()" onmouseout="startTime();"><img src="/images/nav/reprints_u.gif" alt="" border="0"></a></div><div id="nav5" style="position:absolute; left:520px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer5'); stopTime()" onmouseout="startTime();"><img src="/images/nav/archives_u.gif" alt="" border="0"></a></div><div id="nav6" style="position:absolute; left:585px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer6'); stopTime()" onmouseout="startTime();"><img src="/images/nav/industry_u.gif" alt="" border="0"></a></div><div id="nav7" style="position:absolute; left:685px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer7'); stopTime()" onmouseout="startTime();"><img src="/images/nav/curIssue_u.gif" alt="" border="0"></a></div><div id="nav7" style="position:absolute; left:685px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer7'); stopTime()" onmouseout="startTime();"><img src="/images/nav/curIssue_u.gif" alt="" border="0"></a></div><div id="nav7" style="position:absolute; left:685px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer7'); stopTime()" onmouseout="startTime();"><img src="/images/nav/curIssue_u.gif" alt="" border="0"></a></div><div id="nav7" style="position:absolute; left:685px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer7'); stopTime()" onmouseout="startTime();"><img src="/images/nav/curIssue_u.gif" alt="" border="0"></a></div><div id="nav7" style="position:absolute; left:685px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer7'); stopTime()" onmouseout="startTime();"><img src="/images/nav/curIssue_u.gif" alt="" border="0"></a></div><div id="nav7" style="position:absolute; left:685px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer7'); stopTime()" onmouseout="startTime();"><img src="/images/nav/curIssue_u.gif" alt="" border="0"></a></div><div id="nav7" style="position:absolute; left:685px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer7'); stopTime()" onmouseout="startTime();"><img src="/images/nav/curIssue_u.gif" alt="" border="0"></a></div><div id="nav7" style="position:absolute; left:685px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer7'); stopTime()" onmouseout="startTime();"><img src="/images/nav/curIssue_u.gif" alt="" border="0"></a></div><div id="nav7" style="position:absolute; left:685px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer7'); stopTime()" onmouseout="startTime();"><img src="/images/nav/curIssue_u.gif" alt="" border="0"></a></div><div id="nav7" style="position:absolute; left:685px;top:55px;z-index:1;"><a href="#" onmouseover="hideAll();showLayer('layer7'); stopTime()" onmouseout="startTime();"><img src="/images/nav/curIssue_u.gif" alt="" border="0"></a></div></td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="780px" align="left">
+<tbody><tr><td width="20" height="20"><img width="20px" height="8" src="/images/x.gif"></td>
+<td width="610" valign="top">
+<!-- Content START -->
+
+<img src="../images/titles/privacy_legal_statement.gif" border="0">
+
+<p>Thank you for visiting <b>Pharma<font color="red">VOICE</font></b>.com, a PharmaLinx LLC site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices.</p>
+
+<p>We recognize the importance of protecting the privacy of your personally identifiable information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using personally identifiable information and your reasonable expectations of privacy. </p>
+<p>PharmaLinx LLC and its publications (<b>Pharma<font color="red">VOICE</font></b> and <font color="red"><b>VIEW</b></font>) respect the privacy of its visitors to its online sites. PharmaLinx only collects personally identifiable data such as your name, address, telephone number, e-mail address, month of birth, zip code, country, company name, company type, job function, and job title, when it is voluntarily submitted via this Website. PharmaLinx and/or its partner companies will use this information to comply with your request for information to be sent to the location as provided in your submission. We may also ask you for other information at other times, such as when you participate in our message boards, or when you order products from us. Whenever you provide personally identifiable information to us, we will make an effort to link to our privacy policy. See below about "cookies" and what other information is collected. From time to time, PharmaLinx may refer to that information to better understand your needs with regard to how we can improve our products and services. </p>
+<p><b>Pharma<font color="red">VOICE</font></b>.com uses the personally identifiable information you provide to us in several ways. Some examples follow. <br>
+  A user's personally identifiable information may be used by <b>Pharma<font color="red">VOICE</font></b>.com for editorial purposes such as to contact you as part of an online survey. Additionally, we may also use the information provided by you to: 1) contact you with legal notices, 2) to advise you of any material changes or additions to our service or terms and conditions, and 3) account status (including confirmation of registrations). If you do not wish to receive the foregoing and therefore unregister from the site, please <a href="../onlineregistration/cancel.asp">contact us</a> and ask to have your subscription canceled. Once your account has been deleted, you will no longer receive <b>Pharma<font color="red">VOICE</font></b> magazine or have access to certain areas of <b>Pharma<font color="red">VOICE</font></b>.com, however, you may reregister at any time. </p>
+<p>Finally, we reserve the right to send you offers and information about PharmaLinx LLC and its affiliates. However, if you no longer wish to receive the foregoing, please <a href="../onlineregistration/cancel.asp">contact us</a>  to request removal from this list. </p>
+<p>Further, if you told us in your account preferences that you would be interested in receiving e-mail from us, we may send you e-mails about <b>Pharma<font color="red">VOICE</font></b>.com products, promotions, or services, as well as on behalf of other companies. However, if you no longer wish to receive any of the foregoing, you may change your preferences for the future at any time by e-mailing <a class="email" href="mailto:feedback@pharmavoice.com">feedback@pharmavoice.com</a> and type “NO E-MAIL” in the subject line.<br>
+    <br>
+    This PharmaLinx Website uses information in aggregate form to track the total number of visitors to the site, the number of visitors to each page of the site, and the domain names of visitors' Internet service providers. No personally identifiable information is available in this process. Some PharmaLinx sites use a technology called "cookies." A cookie is a token that a server gives to your browser when you access a Website. Cookies are capable of storing many types of data. Cookies help provide additional functionality to the site or help PharmaLinx analyze site usage more accurately. For instance, the PharmaLinx server may set a cookie that keeps you from having to enter a password more than once during a visit to one of its sites. In all cases in which cookies are used, the cookie will not collect personally identifiable information except with your explicit permission.</p>
+<p>Cookies may also be used to provide our advertisers with targeted advertising opportunities, and advertising vendors that serve ads on our site may also use their own cookies.   <b>Pharma<font color="red">VOICE</font></b>.com uses DoubleClick to deliver its online ads. Like other online advertising vendors, DoubleClick uses cookies in order to, among other things, determine automatically whether you have seen a particular advertisement to avoid sending you duplicate advertisements. It also enables DoubleClick to serve you advertisements tailored to things you have shown interest in based on other sites you have visited. Some people are uncomfortable with these types of advertising cookies. If you are one of those people, you can easily "opt-out" of this feature. 
+
+You may choose not to accept any cookies from any party by changing the settings on your browser. Please be aware that this will disable any cookies delivered to your browser by any party, not just the cookies delivered by <b>Pharma<font color="red">VOICE</font></b>.com, DoubleClick, and or third-party vendors. 
+
+For more information about DoubleClick's use of cookies, and to "opt-out" of it cookies, visit <a href="http://www.privacychoices.org ">http://www.privacychoices.org</a> </p>
+
+
+<p>This PharmaLinx Website is not intended or designed to attract children under the age of 13. We do not collect personally identifiable data from any person we know to be under the age of 13.</p>
+<p>As a convenience to its visitors, PharmaLinx’s sites currently contain links to a number of sites that may offer useful information. The privacy policies and procedures described here do not apply to those sites. We do not control the privacy policies of our advertisers, sponsors or other sites or businesses to which we provide hyperlinks or access. Please visit the sites of these businesses to review their privacy policies. </p>
+<p>Any changes to PharmaLinx’s Internet Privacy Statement will be promptly communicated on this page.</p>
+<p>All information, including but not limited to text, graphics, and multimedia content contained within this PharmaLinx LLC Website is copyrighted. All rights reserved. No part of any PharmaLinx.com web site may be reproduced or transmitted in any form or by any means, electronic or mechanical including by photocopy, recording, or information storage and retrieval system,without permission in writing from PharmaLinx. For more information contact: PharmaLinx LLC, PO Box 327, Titusville, NJ 08560.</p>
+<p> <b>Pharma<font color="red">VOICE</font></b>, <font color="red"><b>VIEW</b></font>, <b>WebLinx</b>, <b>KnowledgeShare</b>, and <b>Read. Think. Participate.</b> are trademarks and service marks of PharmaLinx, LLC.</p>
+<p>&nbsp; </p>
+
+<!-- Content END-->
+</td>
+<td width="20"><img width="10px" height="2px" src="/images/x.gif"></td>
+<td width="120" valign="top" align="left">
+
+<!--RIGHT BANNER-->
+
+		<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr><td valign="top">
+		<!--SHOPPING CART BOX-->
+		
+		<!-- END SHOPPING CART BOX-->
+
+		<form name="search" action="/search/search.asp" method="post">
+			<table border="0" cellpadding="0" cellspacing="0" width="120">
+					<tbody><tr><td height="30" align="right" class="tablebackColor"><b>Search</b>&nbsp;&nbsp;</td>
+				</tr>
+					<tr>
+					<td align="left" class="tablebackColor" valign="middle">
+					    <table border="0" class="tablebackColor" cellpadding="1" cellspacing="1">
+						<tbody><tr>
+							<td valign="middle" width="100px" align="right">Entire Site</td>
+							<td valign="bottom" width="20px"><input name="CatType" type="radio" value="pharmavoice,pdf,html" checked=""></td>
+						</tr>
+						<tr>
+							<td valign="middle" width="100px" class="tablebackColor" align="right">Archives</td>
+							<td valign="bottom" width="20px" class="tablebackColor"><input name="CatType" type="radio" value="pdf,pharmavoice"></td>
+ 					    </tr>
+						</tbody></table>
+
+					</td>
+					</tr>
+					<tr>
+							<td align="center" class="tablebackColor"><img width="120px" height="1px" src="/images/seachLine.gif"></td>
+					</tr>
+
+					<tr>
+							<td align="center" class="tablebackColor"><img width="120" height="5" src="/images/x.gif"></td>
+					</tr>
+					<tr>
+					<td align="center" class="tablebackColor"><input type="text" onfocus="javascript:this.value=''" id="SearchString" name="SearchString" style="WIDTH: 110px; " value="Enter Key Words"></td>
+					</tr>
+
+					<tr>
+					<td align="right" valign="top" class="tablebackColor"><a href="#" onclick="javascript:document.search.submit();">
+					  <input name="SearchType" type="hidden" id="SearchType" value="1">
+					  <img src="/images/redSmall_arrow.gif" width="6" height="7" border="0">&nbsp;Go&nbsp;</a></td>
+					</tr>
+
+					<tr><td align="center" class="tablebackColor"><img src="/images/seachLine_bottom.gif" width="120" height="10"></td>
+					</tr>
+			</tbody></table>
+		</form>
+		</td></tr>
+
+		<tr><td><img width="120" height="10" src="/images/x.gif"></td></tr>
+
+		<tr>
+			<td>
+<form method="post" name="login">
+
+
+							<table border="0" cellpadding="0" cellspacing="0" width="120">
+								<tbody><tr><td colspan="2" class="yellowtablebackColor"><img height="4px" src="/images/x.gif"></td></tr>
+
+								<tr><td align="right" colspan="2" class="yellowtablebackColor"><b>Member Login</b>&nbsp;&nbsp;</td></tr>
+
+								<tr>
+								  <td align="center" colspan="2" class="yellowtablebackColor"><font color="red"></font></td>
+							  </tr>
+								<tr align="right">
+								  <td colspan="2" class="yellowtablebackColor">User E-mail&nbsp;&nbsp;</td>
+							  </tr>
+								<tr><td align="center" colspan="2" class="yellowtablebackColor"><input name="txtusername" onfocus="javascript:this.value=''" style="WIDTH: 110px" size="11" value=""></td></tr>
+
+								<tr align="right">
+								  <td colspan="2" class="yellowtablebackColor">Password&nbsp;&nbsp;</td>
+								</tr>
+
+								<tr><td align="center" colspan="2" class="yellowtablebackColor"><input name="txtpassword" type="password" style="WIDTH: 110px" onfocus="javascript:this.value=''" size="11"></td></tr>
+
+								<tr>
+									<td align="right" valign="top" class="yellowtablebackColor">
+								  </td><td align="right" valign="top" class="yellowtablebackColor">
+									    <input name="command" type="hidden" id="command" value="login">
+								    &nbsp;<a href="#" onclick="javascript:loginSubmit();"><img src="/images/redSmall_arrow.gif" width="6" height="7" border="0">&nbsp;<b>Enter</b></a>&nbsp;</td>
+								</tr>
+					<tr>
+							<td colspan="2" width="120" class="yellowtablebackColor" align="center"><img width="120px" height="1px" src="/images/seachLine.gif"></td>
+					</tr>
+
+					            <tr>
+									<td align="right" valign="top" class="yellowtablebackColor">
+								  </td><td height="37" align="right" valign="bottom" class="yellowtablebackColor"><a href="/security/forgotpassword.asp" onclick="return winControl(href, '460', '360', 'tools')"><img src="/images/redSmall_arrow.gif" width="6" height="7" border="0">&nbsp;Forgot Password</a>&nbsp;<br>
+									<a href="/onlineregistration/choices.asp"><img src="/images/redSmall_arrow.gif" width="6" height="7" border="0">&nbsp;Become a Member</a>&nbsp;
+								  </td>
+								</tr>
+
+								<tr><td colspan="2" width="120" align="left"><img src="/images/loginLine_bottom.gif" width="120" height="10"></td>
+								</tr>
+
+								<tr>
+									<td colspan="2" valign="top"><img width="120" height="1" src="/images/x.gif"></td>
+								</tr>
+				  </tbody></table>
+			  </form>
+			  
+
+		</td></tr>
+
+
+		<tr><td><img src="/images/x.gif" width="10" height="10"></td>
+		</tr>
+
+		<tr><td><script language="Javascript">
+  var axel = Math.random() + "";
+  var ord = axel * 1000000000000000000;
+</script><!-- begin ad tag  (tile=1 pos=1) -->
+<script language="JavaScript">
+if (isPage('default.asp'))
+document.write('<scr'+'ipt language="JavaScript" src="https://ad.doubleclick.net/adj/pharmavoice.tmus/homepage;tile=1;dcopt=ist;pos=1;sz=120x240;ord=' + ord + '?" ><\/scr'+'ipt>');
+else
+document.write('<scr'+'ipt language="JavaScript" src="https://ad.doubleclick.net/adj/pharmavoice.tmus/rest_of_pages;tile=1;dcopt=ist;pos=1;sz=120x240;ord=' + ord + '?" ><\/scr'+'ipt>');
+</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/pharmavoice.tmus/rest_of_pages;tile=1;dcopt=ist;pos=1;sz=120x240;ord=131903760310241760?"></script><noscript><a href="https://ad.doubleclick.net/jump/pharmavoice.tmus/rest_of_pages;tile=1;pos=1;sz=120x240;ord=123456789?" target="_blank"><img src="https://ad.doubleclick.net/ad/pharmavoice.tmus/rest_of_pages;tile=1;pos=1;sz=120x240;ord=123456789?" width="120" height="240" border="0" alt=""></a></noscript>
+<!-- End ad tag -->
+		</td>
+
+		</tr>
+
+		<tr><td><img src="/images/x.gif" width="10" height="10"></td>
+		</tr>
+		<tr>
+		  <td><!-- begin ad tag  (tile=2 pos=2) -->
+<script language="JavaScript">
+if (isPage('default.asp'))
+document.write('<scr'+'ipt language="JavaScript" src="https://ad.doubleclick.net/adj/pharmavoice.tmus/homepage;tile=2;pos=2;sz=120x240;ord=' + ord + '?" ><\/scr'+'ipt>');
+else
+document.write('<scr'+'ipt language="JavaScript" src="https://ad.doubleclick.net/adj/pharmavoice.tmus/rest_of_pages;tile=2;pos=2;sz=120x240;ord=' + ord + '?" ><\/scr'+'ipt>');
+</script><script language="JavaScript" src="https://ad.doubleclick.net/adj/pharmavoice.tmus/rest_of_pages;tile=2;pos=2;sz=120x240;ord=131903760310241760?"></script><noscript><a href="https://ad.doubleclick.net/jump/pharmavoice.tmus/rest_of_pages;tile=2;pos=2;sz=120x240;ord=123456789?" target="_blank"><img src="https://ad.doubleclick.net/ad/pharmavoice.tmus/rest_of_pages;tile=2;pos=2;sz=120x240;ord=123456789?" width="120" height="240" border="0" alt=""></a></noscript>
+<!-- End ad tag --></td>
+		  </tr>
+
+		</tbody></table>
+    </td></tr>
+<!--SUPPORT NAVIGATION-->
+<tr>
+<td width="20"><img width="20px" src="/images/x.gif"></td>
+<td align="center" colspan="3" class="supportdivider"><a href="/supportnav/privacystatement.asp" class="s1s">Privacy and Legal Statement</a>&nbsp;|&nbsp;<a href="/supportnav/sitemap.asp" class="s1s">Site Map</a>&nbsp;|&nbsp;<a href="/supportnav/aboutus.asp" class="s1s">About Us</a>&nbsp;|&nbsp;<a href="/supportnav/contactus.asp?contact=contactus" class="s1s">Contact Us</a>&nbsp;|&nbsp;<a href="/currentissue/views.asp" class="s1s">VIEWs</a>&nbsp;|&nbsp;<a href="http://www.knowledgeshareforums.com" class="s1s">KnowledgeShare Forums</a>&nbsp;|&nbsp;<a href="/weblinx" class="s1s">WebLinx WebSeminars</a>&nbsp;|&nbsp;<a href="/advertising/e-surveys.asp" class="s1s">E-Surveys</a> | <a href="http://www.pharmalinx.com" target="_blank" class="s1s">PharmaLinx.com</a></td>
+</tr>
+
+<tr>
+<td height="10" colspan="4"><img height="10" src="/images/x.gif">
+  </td>
+</tr>
+</tbody></table>
+<div id="layer1" style="position:absolute; left:222px; top:80px; z-index:3; border: 1px none #000000;visibility:hidden">
+    <table width="189" border="0" cellspacing="0" cellpadding="0">
+       <tbody><tr>
+       <td class="navbghor" width="188">
+       <table border="0" cellpadding="0" cellspacing="0">
+           <tbody><tr>
+           <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow2');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow1');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/onlineregistration/choices.asp"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow1"></a></td>
+             <td width="160" height="20" align="left" valign="middle"><a class="topnav" href="/onlineregistration/choices.asp" onmouseover="stopTime();" onmouseout="startTime();">Online Membership</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+          </tr>
+             <tr><td height="1"><img src="/images/x.gif" width="1" height="1"></td></tr>
+          <tr>
+           <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow2');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow2');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/printsubscription/choices.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow2"></a></td>
+             <td width="160" height="20" align="left" valign="middle"><a class="topnav" href="/printsubscription/choices.asp" onmouseover="stopTime()" onmouseout="startTime();">Print Subscription</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+          </tr>
+          <tr>
+            <td height="1"><img src="/images/x.gif" width="1" height="1"></td>
+         </tr>
+          <tr>
+            <td height="1"><img src="/images/x.gif" width="1" height="1"></td>
+         </tr>
+          <tr>
+            <td align="left" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow2');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow2');">
+            </td>
+         </tr>
+      </tbody></table>
+      </td>
+      </tr>
+   </tbody></table>
+ </div>
+<div id="layer2" style="position:absolute; left:310px; top:80px; height:38px; z-index:3; border: 1px none #000000;visibility:hidden">
+    <table width="189" border="0" cellspacing="0" cellpadding="0">
+       <tbody><tr>
+       <td class="navbghor" width="188">
+       <table border="0" style="HEIGHT: 120px" cellpadding="0" cellspacing="0">
+           <tbody><tr>
+           <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow3');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow3');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/editorial/editorialscope.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow3"></a></td>
+             <td valign="middle" align="left" width="160"><a href="/editorial/editorialscope.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Editorial Scope</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+          </tr>
+             <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+          <tr>
+           <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow4');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow4');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/editorial/articles.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow4"></a></td>
+             <td valign="middle" align="left" width="160"><a href="/editorial/articles.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Forums, Topics, and Articles</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+          </tr>
+          <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+          <tr>
+          <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow5');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow5');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/editorial/editorialcalendar.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow5"></a></td>
+             <td valign="middle" align="left" width="160"><a href="/editorial/editorialcalendar.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Editorial Calendar</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+          </tr>
+          <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+          <tr>
+          <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow6');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow6');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/editorial/waystocontribute.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow6"></a></td>
+             <td valign="middle" align="left" width="160"><a href="/editorial/waystocontribute.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Ways to Contribute</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+          </tr>
+          <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+          <tr>
+          <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow7');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow7');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/editorial/editorialguidelines.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow7"></a></td>
+             <td valign="middle" align="left" width="160"><a href="/editorial/editorialguidelines.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Editorial Guidelines</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+          </tr>
+          <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+          <tr>
+          <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow7');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow7');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/editorial/photoguidelines.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow7"></a></td>
+             <td valign="middle" align="left" width="160"><a href="/editorial/photoguidelines.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Photography Guidelines</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+          </tr>
+          <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+          <tr>
+          <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow8');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow8');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/supportnav/contactus.asp?contact=editor" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow8"></a></td>
+             <td width="160" height="15" align="left" valign="middle"><a href="/supportnav/contactus.asp?contact=editor" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Contact Editor</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+          </tr>
+      </tbody></table>
+      </td>
+      </tr>
+   </tbody></table>
+</div>
+<div id="layer3" style="position:absolute; z-index:3;left:384px; top:80px; height:38px; border: 1px none #000000;visibility:hidden">
+    <table width="189" border="0" cellspacing="0" cellpadding="0">
+       <tbody><tr>
+       <td class="navbghor" width="188">
+       <table border="0" style="HEIGHT: 80px" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+           <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow10');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow10');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/advertising/print.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow10"></a></td>
+             <td valign="middle" align="left" width="160"><a href="/advertising/print.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Print</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+          </tr>
+          <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+          <tr>
+          <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow11');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow11');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/advertising/online.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow11"></a></td>
+             <td valign="middle" align="left" width="160"><a href="/advertising/online.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Online</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+          </tr>
+          <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+          <tr>
+          <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow12');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow12');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/advertising/terms.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow12"></a></td>
+             <td valign="middle" align="left" width="160"><a href="/advertising/terms.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Terms and Conditions</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+          </tr>
+          <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+          <tr>
+          <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow13');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow13');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/supportnav/contactus.asp?contact=publisher" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow13"></a></td>
+             <td valign="middle" align="left" width="160"><a href="/supportnav/contactus.asp?contact=publisher" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Contact Publisher</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+          </tr>
+      </tbody></table>
+      </td>
+      </tr>
+   </tbody></table>
+</div>
+ <div id="layer4" style="position:absolute; z-index:3; left:463px; top:80px; height:38px;  border: 1px none #000000;visibility:hidden">
+     <table width="189" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+        <td class="navbghor" width="188">
+        <table border="0" style="HEIGHT: 40px" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+          <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow17');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow17');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/reprints/aboutreprints.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow17"></a></td>
+             <td valign="middle" align="left" width="160"><a href="/reprints/aboutreprints.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">About Reprints</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+           </tr>
+          <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+         <tr>
+          <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow16');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow16');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/reprints/searchreprints.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow16"></a></td>
+             <td valign="middle" align="left" width="160"><a href="/reprints/searchreprints.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Request  Quote</a></td>
+             </tr>
+             </tbody></table>
+          </td>
+        </tr>
+       </tbody></table>
+       </td>
+       </tr>
+    </tbody></table>
+ </div>
+ <div id="layer5" style="position:absolute; z-index:3; left:525px; top:80px; height:38px; border: 1px none #000000;visibility:hidden">
+     <table width="189" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+        <td class="navbghor" width="188">
+        <table border="0" style="HEIGHT: 40px" cellpadding="0" cellspacing="0">
+            <!--<tr>
+            <td align="left" WIDTH="188" CLASS="subleftnavTD" onMouseOver="this.style.background = 'white';imgOn('arrow18');" onMouseOut="this.style.background = '#F7F8CD';imgOut('arrow18');">
+              <table border="0" cellpadding="0" cellspacing="0" align="left" WIDTH="188">
+              <tr>
+              <td valign="middle" align="center" WIDTH="28"><a href="/archives/searcharchive.asp"  onMouseOver="stopTime();" onMouseOut="startTime();" ><img src="/images/redRnd_arrow_yel.jpg" border="0"/ name="arrow18"></a></td>
+              <td valign="middle" align="left" WIDTH="160"><a href="/archives/searcharchive.asp"  onMouseOver="stopTime();" onMouseOut="startTime();" class="topnav">Search Archives</a></td>
+              </tr>
+              </table>
+           </td>
+           </tr>
+              <tr><td  HEIGHT="1"><img src="/images/x.gif" HEIGHT="1"/></td></tr>-->
+           <tbody><tr>
+           <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow20');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow20');">
+              <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+              <tbody><tr>
+              <td valign="middle" align="center" width="28"><a href="/archives/aboutissues.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow20"></a></td>
+              <td width="160" height="20" align="left" valign="middle"><a href="/archives/aboutissues.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">About Back Issues</a></td>
+              </tr>
+              </tbody></table></td>
+           </tr>
+           <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+            <tr>
+          <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow19');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow19');">
+             <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+             <tbody><tr>
+             <td valign="middle" align="center" width="28"><a href="/archives/searcharchive.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow19"></a></td>
+             <td width="160" height="20" align="left" valign="middle"><a href="/archives/searcharchive.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Search  Archives</a></td>
+             </tr>
+             </tbody></table>
+            </td>
+           </tr>
+            <tr>
+              <td height="1" align="left"></td>
+         </tr>
+            <tr>
+              <td align="left" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow19');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow19');"><table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+                 <tbody><tr>
+                   <td valign="middle" align="center" width="28"><a href="/archives/browse_issues.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow19"></a></td>
+                   <td width="160" height="20" align="left" valign="middle"><a href="/archives/browse_issues.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Browse Back Issues</a></td>
+                 </tr>
+               </tbody></table></td>
+         </tr>
+            <tr>
+              <td height="1"></td>
+         </tr>
+       </tbody></table>
+       </td>
+       </tr>
+    </tbody></table>
+ </div>
+ <div id="layer6" style="position:absolute; z-index:3; left:591px; top:80px; height:38px; border: 1px none #000000;visibility:hidden">
+     <table width="189" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+        <td class="navbghor" width="188">
+        <table border="0" height="40" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+            <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow21');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow21');">
+              <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+              <tbody><tr>
+              <td valign="middle" align="center" width="28"><a href="/events/events.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow21"></a></td>
+              <td width="160" height="20" align="left" valign="middle"><a href="/events/events.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Event Calendar</a></td>
+              </tr>
+              </tbody></table>
+           </td>
+           </tr>
+              <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+         <tr>
+           <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow23');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow23');">
+              <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+              <tbody><tr>
+              <td valign="middle" align="center" width="28"><a href="http://www.knowledgeshareforums.com" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow23"></a></td>
+              <td width="160" height="20" align="left" valign="middle"><a href="/podcasts" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Podcasts</a></td>
+              </tr>
+              </tbody></table>
+           </td>
+        </tr>
+           <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+           <tr>
+           <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow23');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow23');">
+              <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+              <tbody><tr>
+              <td valign="middle" align="center" width="28"><a href="/weblinx" target="_blank" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow23"></a></td>
+              <td width="160" height="20" align="left" valign="middle"><a href="/weblinx" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">WebLinx WebSeminars</a></td>
+              </tr>
+              </tbody></table>
+           </td>
+           </tr>
+         <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+         <tr>
+           <td align="left" width="188" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow23');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow23');">
+              <table border="0" cellpadding="0" cellspacing="0" align="left" width="188">
+              <tbody><tr>
+              <td valign="middle" align="center" width="28"><a href="/golf" target="_blank" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow23"></a></td>
+              <td width="160" height="20" align="left" valign="middle"><a href="/golf" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">PharmaLinx Charity Golf Outing</a></td>
+              </tr>
+              </tbody></table>
+           </td>
+        </tr>
+       </tbody></table>
+       </td>
+       </tr>
+    </tbody></table>
+ </div>
+<div id="layer7" style="position:absolute; z-index:3; left:690px; top:80px; height:38px; border: 1px none #000000; visibility: hidden;">
+     <table width="140" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+        <td class="navbghor">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0" style="HEIGHT: 60px">
+            <tbody><tr>
+            <td align="left" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow24');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow24');">
+              <table border="0" cellpadding="0" cellspacing="0" align="left" width="100%">
+              <tbody><tr>
+              <td valign="middle" align="center" width="28"><a href="/currentissue/pharmavoice.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow24"></a></td>
+              <td valign="middle" align="left"><a href="/currentissue/pharmavoice.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">PharmaVOICE</a></td>
+              </tr>
+            </tbody></table>
+           </td>
+           </tr>
+          <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+           <tr>
+             <td align="left" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow25');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow25');">
+                <table border="0" cellpadding="0" cellspacing="0" align="left" width="100%">
+                <tbody><tr>
+                <td valign="middle" align="center" width="28"><a href="/currentissue/views.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow25"></a></td>
+                <td valign="middle" align="left"><a href="/currentissue/views.asp" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">VIEWs</a></td>
+                </tr>
+               </tbody></table>
+             </td>
+           </tr>
+              <tr><td height="1"><img src="/images/x.gif" height="1"></td></tr>
+           <tr>
+            <td align="left" class="subleftnavTD" onmouseover="this.style.background = 'white';imgOn('arrow26');" onmouseout="this.style.background = '#F7F8CD';imgOut('arrow26');">
+              <table border="0" cellpadding="0" cellspacing="0" align="left" width="100%">
+              <tbody><tr>
+              <td valign="middle" align="center" width="28"><a href="/currentissue/participate.asp" onmouseover="stopTime();" onmouseout="startTime();"><img src="/images/redRnd_arrow_yel.jpg" border="0" name="arrow26"></a></td>
+              <td valign="middle" align="left"><a href="/messageboard" onmouseover="stopTime();" onmouseout="startTime();" class="topnav">Discussion Boards</a></td>
+              </tr>
+            </tbody></table>
+           </td>
+           </tr>
+       </tbody></table>
+       </td>
+       </tr>
+  </tbody></table>
+</div>
+
+</body></html>
