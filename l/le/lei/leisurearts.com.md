@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the leisurearts.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/customer_support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisurearts.com privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624103547id_/http%3A//www.leisurearts.com/customer_support/privacy.asp) for the most accurate reproduction.*
 
 # Leisure Arts
 
 |   
 ---  
-**[Crafts& Needlework](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/crafts_needlework/)**  
-**[Cooking& Entertaining](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/cooking_entertaining/)**  
-**[Home& Garden](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/home_garden/)**  
-**[Scrapbooking](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/scrapbooking/)**  
+**[Crafts& Needlework](https://web.archive.org/web/20060624103547id_/http%3A//www.leisurearts.com/crafts_needlework/)**  
+**[Cooking& Entertaining](https://web.archive.org/web/20060624103547id_/http%3A//www.leisurearts.com/cooking_entertaining/)**  
+**[Home& Garden](https://web.archive.org/web/20060624103547id_/http%3A//www.leisurearts.com/home_garden/)**  
+**[Scrapbooking](https://web.archive.org/web/20060624103547id_/http%3A//www.leisurearts.com/scrapbooking/)**  
 **[Inspirational](http://www.leisurearts.com/search/default.asp?search=inspirational&x=16&y=15)**  
-**[Christmas](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/christmas/)**  
+**[Christmas](https://web.archive.org/web/20060624103547id_/http%3A//www.leisurearts.com/christmas/)**  
   
-**[Quick Tips](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/quick_tips/)**  
+**[Quick Tips](https://web.archive.org/web/20060624103547id_/http%3A//www.leisurearts.com/quick_tips/)**  
   
-**[New Releases](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/new_releases/)**  
-**[Store Locator](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/store_locator/)**  
-**[Commitment to Quality](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/customer_support/quality.asp)**  
-**[Let Us Hear From You](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/customer_support/)**  
-**[Corrections](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/customer_support/corrections.asp)**  
-**[Our Links](https://web.archive.org/web/20051215011917id_/http%3A//www.leisurearts.com/customer_support/links.asp)**  
+**[New Releases](https://web.archive.org/web/20060624103547id_/http%3A//www.leisurearts.com/new_releases/)**  
+**[Store Locator](https://web.archive.org/web/20060624103547id_/http%3A//www.leisurearts.com/store_locator/)**  
+**[Commitment to Quality](https://web.archive.org/web/20060624103547id_/http%3A//www.leisurearts.com/customer_support/quality.asp)**  
+**[Let Us Hear From You](https://web.archive.org/web/20060624103547id_/http%3A//www.leisurearts.com/customer_support/)**  
+**[Corrections](https://web.archive.org/web/20060624103547id_/http%3A//www.leisurearts.com/customer_support/corrections.asp)**  
+**[Our Links](https://web.archive.org/web/20060624103547id_/http%3A//www.leisurearts.com/customer_support/links.asp)**  
 **For Wholesale  
 inquiries visit  
 [business.leisurearts.com](http://business.leisurearts.com/)**  
@@ -31,7 +31,7 @@ Little Rock, AR 72223-9633
 Copyright © 2005  
 Leisure Arts, Inc.  
 All Rights Reserved.  
-[Privacy Policy](https://web.archive.org/web/20051215011917id_/http%3A//newce/untitled%20folder/privacy.asp)  
+[Privacy Policy](https://web.archive.org/web/20060624103547id_/http%3A//newce/untitled%20folder/privacy.asp)  
   
 | 
 
