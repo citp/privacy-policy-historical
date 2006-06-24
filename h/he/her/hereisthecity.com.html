@@ -1,0 +1,912 @@
+<!--The following is the downloaded HTML source of the hereisthecity.com privacy policy that was archived on 2006-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060624124415id_/http%3A//news.hereisthecity.com/pages/about_us/5.cntns) for the most accurate reproduction.-->
+
+<html><!-- InstanceBegin template="/Templates/siteTemp.dwt.php" codeOutsideHTMLIsLocked="false" --><head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Privacy Policy :: About Us :: Here Is The City News :: The Latest Business &amp; Financial Markets News And Views</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Privacy Policy. About Us. Here Is The City is commited to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private and is used only for the purposes as set forth herein. The following reflects our commitment to you.
+. Here Is The City News. The Latest Business &amp; Financial Markets News And Views">
+<meta name="keywords" content="london, news, business, banking, city, jobs, recruitment, graduate, bonuses, careers, diversity">
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<link href="/css/02css.css" rel="stylesheet" type="text/css">
+<link href="/css/pink_css.css" rel="stylesheet" type="text/css">
+
+
+
+<script language="JavaScript" type="text/JavaScript" src="http://news.hereisthecity.com/scripts/function.toggle.js"><!-- //--></script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+function changeObjectClass(obj, new_style) {
+    obj.className = new_style;
+}
+
+//-->
+</script>
+<script type="text/javascript" src="http://news.hereisthecity.com/scripts/tooltip.js"></script>
+<script language="javascript" src="http://news.hereisthecity.com/scripts/js.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+var site = 1;
+var notshow = 1;
+
+function switch2News() {
+	if (notshow == 1) {
+		switch2Careers();
+	}
+	else {
+		MM_swapImgRestore();
+		MM_swapImage('si1','','media/newsBut02.gif',1);
+		showmenu('menu0');
+		site = 0;
+	}
+}
+
+function switch2Careers() {
+	if (notshow == 2) {
+		switch2Jobs();
+	}
+	else {
+		MM_swapImgRestore();
+		MM_swapImage('si2','','media/careersBut02.gif',1);
+		showmenu('menu1');
+		site = 1;
+	}
+}
+
+function switch2Jobs() {
+	if (notshow == 2) {
+		switch2News();
+	}
+	else {
+		MM_swapImgRestore();
+		MM_swapImage('si3','','media/jobsBut02.gif',1);
+		showmenu('menu2');
+		site = 2;
+	}
+}
+
+/*function switch2Property() {
+	if (notshow == 3) {
+		switch2News();
+	}
+	else {
+		MM_swapImgRestore();
+		MM_swapImage('si3','','media/propertyBut02.gif',1);
+		showmenu('menu2');
+		site = 2;
+	}
+}*/
+
+/*function switch2Graduates() {
+	if (notshow == 4) {
+		switch2News();
+	}
+	else {
+		MM_swapImgRestore();
+		MM_swapImage('si4','','media/graduatesBut02.gif',1);
+		showmenu('menu3');
+		site = 3;
+	}
+}*/
+
+var seces;
+var timerID = null;
+var timerRunning = false;
+var delay = 1000;
+
+function InitializeSiteTimer()
+{
+	if (notshow != 5) {
+		// Set the length of the timer, in seconds
+		seces = 4;
+		StopTheSiteClock();
+		StartTheSiteTimer();
+	}
+}
+
+function StopTheSiteClock()
+{
+    if(timerRunning)
+        clearTimeout(timerID)
+    timerRunning = false;
+}
+
+function StartTheSiteTimer()
+{
+    if (seces==0)
+    {
+        StopTheSiteClock();
+        if (site == 0) {
+					switch2Careers();
+				} else if (site == 1) {
+					switch2Jobs();
+				} else {
+					switch2News();
+				}
+				
+				InitializeSiteTimer();
+    }
+    else
+    {
+        //self.status = seces
+        seces = seces - 1;
+        timerRunning = true;
+        timerID = self.setTimeout("StartTheSiteTimer()", delay)
+    }
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+</head>
+
+<body background="media/mainBg.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="window.focus();InitializeSiteTimer();seces=0;MM_preloadImages('media/newsBut02.gif','media/careersBut02.gif','media/propertyBut02.gif','media/jobsBut02.gif','media/graduatesBut02.gif','media/pink_submenu_select-hover.gif')" onclick="clMenu(event);">
+<table width="760" border="0" align="CENTER" cellpadding="0" cellspacing="8" bgcolor="#FFFFFF" class="maincell">
+	<tbody><tr>
+		<td colspan="3">
+			<table width="744" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td>
+						<table width="744" border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td width="272">
+									<table width="272" height="87" border="0" cellpadding="0" cellspacing="0">
+										<tbody><tr>
+											<td><img src="media/pink_logo.gif" width="272" height="67"></td>
+										</tr>
+										<tr>
+											<td height="20" class="datecell bg1">Saturday 24th June 2006</td>
+										</tr>
+								 </tbody></table>
+								</td>
+								<td valign="BOTTOM">
+									<table width="472" border="0" cellspacing="0" cellpadding="0">
+										<tbody><tr>
+										 <td align="CENTER">
+										 													<table border="0" cellspacing="0" cellpadding="0">
+													<form name="topsearchform" method="get" action="http://news.hereisthecity.com/search.cntns"></form>
+														<tbody><tr>
+															<td class="bodysmall">article search:&nbsp;&nbsp;</td>
+															<td valign="MIDDLE">
+																	<input name="q" type="text" id="q" value="" class="topsearchfield">
+																	<input name="sl" type="hidden" id="sl" value="1">
+														 </td>
+															<td valign="MIDDLE">
+																<a href="javascript: document.topsearchform.submit();" class="topsearchbutton">search</a>
+															</td>
+														</tr>
+													
+												</tbody></table>
+																					 </td>
+										</tr>
+										<tr>
+											<td height="4"><img src="media/blank.gif" width="10" height="4"></td>
+										</tr>
+										<tr>
+											<td height="12" align="RIGHT" valign="BOTTOM" background="media/pink_line.gif"><img src="media/news_name_top.gif" width="212" height="12"></td>
+										</tr>
+										<tr>
+											<td>
+												<table width="472" border="0" cellspacing="0" cellpadding="0">
+													<tbody><tr>
+														<td width="4" height="20" rowspan="2"><img src="media/blank.gif" width="4" height="20"></td>
+														<td width="10" height="20" background="media/siteButtonsBg.gif"><img src="media/blank.gif" width="10" height="20"></td>
+																												<!--<TD><A HREF="http://careers.hereisthecity.com" TARGET="_blank" onMouseOver="StopTheSiteClock();switch2Careers();" onMouseOut="InitializeSiteTimer();"><IMG SRC="media/careersBut01.gif" ALT="Here Is The City Careers" NAME="si2" HEIGHT="20" BORDER="0"></A></TD>-->
+														<td><a href="http://careers.hereisthecity.com" target="_blank" onmouseover="StopTheSiteClock();switch2Careers();" onmouseout="InitializeSiteTimer();"><img src="media/careersBut01.gif" alt="Here Is The City Careers" name="si2" height="20" border="0"></a></td>
+														<td><a href="http://careers.hereisthecity.com" target="_blank" onmouseover="StopTheSiteClock();switch2Jobs();" onmouseout="InitializeSiteTimer();"><img src="media/jobsBut01.gif" alt="Here Is The City Careers" name="si3" height="20" border="0"></a></td>
+																												<!--<TD><A HREF="http://property.hereisthecity.com" TARGET="_blank" onMouseOver="StopTheSiteClock();switch2Property();" onMouseOut="InitializeSiteTimer();"><IMG SRC="media/propertyBut01.gif" ALT="Here Is The City Property" NAME="si3" HEIGHT="20" BORDER="0"></A></TD>-->
+																												<!--<TD><A HREF="http://graduates.hereisthecity.com" TARGET="_blank" onMouseOver="StopTheSiteClock();switch2Graduates();" onMouseOut="InitializeSiteTimer();"><IMG SRC="media/graduatesBut01.gif" ALT="Here Is The City Graduates" NAME="si4" HEIGHT="20" BORDER="0"></A></TD>-->
+																												<td width="100%" align="RIGHT" valign="TOP" background="media/siteButtonsBg.gif"><img src="media/news_name_bottom.gif" height="20"></td>
+													</tr>
+													<tr>
+														<td height="20" colspan="5" valign="BOTTOM" class="siteinfocell"><img src="media/blank.gif" width="10" height="20">
+															
+															<!--<SPAN ID="menu0" STYLE="position:absolute; width:200px; height:16px; z-index:1; visibility: hidden;">
+															 <SPAN CLASS="body">Here Is The City News</SPAN>
+															</SPAN>
+															<SPAN ID="menu1" STYLE="position:absolute; width:200px; height:16px; z-index:1; visibility: hidden;">
+															 <SPAN CLASS="body">Here Is The City Careers</SPAN>
+															</SPAN>
+															<SPAN ID="menu2" STYLE="position:absolute; width:200px; height:16px; z-index:1; visibility: hidden;">
+																<SPAN CLASS="body">Here Is The City Property</SPAN>
+															</SPAN>
+															<SPAN ID="menu3" STYLE="position:absolute; width:200px; height:16px; z-index:1; visibility: hidden;">
+																<SPAN CLASS="body">Here Is The City Graduates</SPAN>
+															</SPAN>-->
+																<span id="menu0" style="position:absolute; width:420px; height:16px; z-index:1; visibility: hidden;">
+																 <span class="body"><a href="http://news.hereisthecity.com" target="_blank" class="body">The Latest News From The Financial Markets</a></span>
+																</span>
+																<span id="menu1" style="position:absolute; width:420px; height:16px; z-index:1; visibility: hidden;">
+																 <span class="body"><a href="http://careers.hereisthecity.com" target="_blank" class="body">Careers Articles, Salary Surveys and Career Guidance</a></span>
+																</span>
+																<span id="menu2" style="position:absolute; width:420px; height:16px; z-index:1; visibility: hidden;">
+																 <span class="body"><a href="http://careers.hereisthecity.com" target="_blank" class="body">100's Of Jobs, From The Top Recruiters, For The Top Firms</a></span>
+																</span>
+																												</td>
+													</tr>
+												</tbody></table>
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td height="4"><img src="media/blank.gif" width="10" height="4"></td>
+				</tr>
+				<tr>
+					<td class="headerinfocell">The Latest Business &amp; Financial Markets News And Views</td>
+				</tr>
+		 </tbody></table>
+		</td>
+  </tr>
+	<tr>
+		<td width="130" valign="TOP">
+			<table width="130" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td class="menucelltitlehighlight bg1" onmouseover="changeObjectClass(this,'menucelltitlehighlight bg2')" onmouseout="changeObjectClass(this,'menucelltitlehighlight bg1')"><a href="http://news.hereisthecity.com" class="menutexttitle">Home</a></td>
+	</tr>
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	<tr>
+		<td class="menucelltitle" onmouseover="changeObjectClass(this,'menucelltitle-hover')" onmouseout="changeObjectClass(this,'menucelltitle')">News</td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/news/business_news/index.cntns" class="menutext">Business News</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/news/it_news/index.cntns" class="menutext">IT News</a></td>
+	</tr>
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	<tr>
+		<td class="hlmenucelltitle" onmouseover="changeObjectClass(this,'hlmenucelltitle-hover')" onmouseout="changeObjectClass(this,'hlmenucelltitle')">Lifestyle</td>
+	</tr>
+	<tr>
+		<td class="hlmenucell" onmouseover="changeObjectClass(this,'hlmenucell-hover')" onmouseout="changeObjectClass(this,'hlmenucell')"><a href="http://news.hereisthecity.com/lifestyle/holidays/index.cntns" class="menutext">Holidays &amp; Breaks</a></td>
+	</tr>
+	<tr>
+		<td class="hlmenucell" onmouseover="changeObjectClass(this,'hlmenucell-hover')" onmouseout="changeObjectClass(this,'hlmenucell')"><a href="http://news.hereisthecity.com/lifestyle/book_reviews/index.cntns" class="menutext">Book Reviews</a></td>
+	</tr>
+	<tr>
+		<td class="hlmenucell" onmouseover="changeObjectClass(this,'hlmenucell-hover')" onmouseout="changeObjectClass(this,'hlmenucell')"><a href="http://news.hereisthecity.com/lifestyle/restaurant_reviews/index.cntns" class="menutext">Restaurant Reviews</a></td>
+	</tr>
+	<tr>
+		<td class="hlmenufoot"><img src="../media/blank.gif" widthj="1" height="1"></td>
+	</tr>
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	
+		
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	<tr>
+		<td align="CENTER"><a href="http://news.hereisthecity.com/agateway.cntns?aid=107&amp;mioid=102764&amp;ptid=10822538" border="0" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/N2121.Hereisthecitynews_diff/B1894170;abr=!ie4;abr=!ie5;dcadv=813227;sz=120x60;" border="0" title="Square Gain 04" alt="Square Gain 04"></a></td>
+	</tr>
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	
+		
+	<tr>
+		<td class="menucelltitle" onmouseover="changeObjectClass(this,'menucelltitle-hover')" onmouseout="changeObjectClass(this,'menucelltitle')">Features</td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/news/business_news/4764.cntns" class="menutext">Best Place To Work</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/news/business_news/5372.cntns" class="menutext">Bonus Approval Poll</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/news/business_news/5127.cntns" class="menutext">Boss Of The Year</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/news/business_news/5379.cntns" class="menutext">Diversity Survey</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/news/business_news/5525.cntns" class="menutext">Ethics Survey</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/news/business_news/5501.cntns" class="menutext">Job Satisfaction Poll</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/news/business_news/5667.cntns" class="menutext">Poll of Polls</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/news/business_news/5459.cntns" class="menutext">Offshoring Worry Index</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://www.bestrecruitmentawards.com" class="menutext" target="_blank">Recruitment Awards</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/news/business_news/5498.cntns" class="menutext">Slickest Interview Process</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/favorites/fun/index.cntns" class="menutext">Fun Stories</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/news/business_news/3462.cntns" class="menutext">Most Popular Stories</a></td>
+	</tr>
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	<tr>
+		<td class="menucelltitle" onmouseover="changeObjectClass(this,'menucelltitle-hover')" onmouseout="changeObjectClass(this,'menucelltitle')">Press Releases</td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/pages/press_releases/index.cntns" class="menutext">Latest Releases</a></td>
+	</tr>
+	<!--<TR>
+		<TD HEIGHT="8"><IMG SRC="../media/blank.gif" WIDTH="1" HEIGHT="8"></TD>
+	</TR>
+	<TR>
+		<TD CLASS="menucelltitle" onMouseOver="changeObjectClass(this,'menucelltitle-hover')" onMouseOut="changeObjectClass(this,'menucelltitle')">Forums</TD>
+	</TR>
+	<TR>
+		<TD CLASS="menucell" onMouseOver="changeObjectClass(this,'menucell-hover')" onMouseOut="changeObjectClass(this,'menucell')"><A HREF="http://news.hereisthecity.com/forums/offshoring/index.cntns" CLASS="menutext">Offshoring</A></TD>
+	</TR>-->
+	<!--<TR>
+		<TD HEIGHT="8"><IMG SRC="../media/blank.gif" WIDTH="1" HEIGHT="8"></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="8"><IMG SRC="../media/blank.gif" WIDTH="1" HEIGHT="8"></TD>
+	</TR>
+	<TR>
+		<TD ALIGN="CENTER">-->
+		
+		<!-- JOB SECTOR LISTINGS -->
+		
+			<!--<TABLE CELLSPACING="0" CELLPADDING="3" WIDTH="120" BORDER="0" STYLE="border-width: 1px; border-color: #FF91B9; border-style: solid;">
+				<TR><TD CLASS="bodysmallbold fontwhite" BGCOLOR="#FF91B9" ALIGN="CENTER">City Jobs</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Accountancy &amp; Finance</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Banking &amp; Global Custody Operations</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Compliance &amp; Legal</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Corporate Banking</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Corporate Finance</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Credit &amp; Risk</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Financial Services Sales &amp; Support</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Human Resources</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Information Technology</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Insurance</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Investment Management</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Languages</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Marketing</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Risk</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER" STYLE="border-bottom-width: 1px; border-bottom-color: #999; border-bottom-style: dashed;">Sales &amp; Trading</TD></TR>
+				<TR><TD CLASS="bodysmall" ALIGN="CENTER">Secretarial &amp; Office Support</TD></TR>
+			</TABLE>-->
+			
+		<!-- JOB SECTOR LISTINGS -->	
+			
+		<!--</TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="8"><IMG SRC="../media/blank.gif" WIDTH="1" HEIGHT="8"></TD>
+	</TR>-->
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	<tr>
+		<td class="menucelltitle" onmouseover="changeObjectClass(this,'menucelltitle-hover')" onmouseout="changeObjectClass(this,'menucelltitle')">Tools</td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/pages/tools/6.cntns" class="menutext">RSS Version</a></td>
+	</tr>
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	
+		
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	<tr>
+		<td align="CENTER"><a href="http://news.hereisthecity.com/agateway.cntns?aid=58&amp;mioid=17881&amp;ptid=10822538" border="0" target="_blank"><img src="http://news.hereisthecity.com/cntns_media/hitcn/me_104.gif" border="0" title="Fairplace #2" alt="Fairplace #2"></a></td>
+	</tr>
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	
+		
+	<tr>
+		<td class="menucelltitle" onmouseover="changeObjectClass(this,'menucelltitle-hover')" onmouseout="changeObjectClass(this,'menucelltitle')">About Us</td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/pages/about_us/1.cntns" class="menutext">About Us</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/pages/about_us/2.cntns" class="menutext">Advertising</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/pages/about_us/3.cntns" class="menutext">Syndication</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/pages/about_us/4.cntns" class="menutext">Terms &amp; Conditions</a></td>
+	</tr>
+	<tr>
+		<td class="menucell" onmouseover="changeObjectClass(this,'menucell-hover')" onmouseout="changeObjectClass(this,'menucell')"><a href="http://news.hereisthecity.com/pages/about_us/5.cntns" class="menutext">Privacy Policy</a></td>
+	</tr>
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	<tr>
+		<td class="menucelltitle" onmouseover="changeObjectClass(this,'menucelltitle-hover')" onmouseout="changeObjectClass(this,'menucelltitle')"><a href="http://news.hereisthecity.com/contact.cntns" class="menutexttitle">Contact Us</a></td>
+	</tr>
+	<!--<TR>
+		<TD CLASS="menucell" onMouseOver="changeObjectClass(this,'menucell-hover')" onMouseOut="changeObjectClass(this,'menucell')"><A HREF="http://news.hereisthecity.com/contact/general.cntns" CLASS="menutext">General</A></TD>
+	</TR>
+	<TR>
+		<TD CLASS="menucell" onMouseOver="changeObjectClass(this,'menucell-hover')" onMouseOut="changeObjectClass(this,'menucell')"><A HREF="http://news.hereisthecity.com/contact/advertising.cntns" CLASS="menutext">Advertising</A></TD>
+	</TR>
+	<TR>
+		<TD CLASS="menucell" onMouseOver="changeObjectClass(this,'menucell-hover')" onMouseOut="changeObjectClass(this,'menucell')"><A HREF="http://news.hereisthecity.com/contact/complaints.cntns" CLASS="menutext">Complaints</A></TD>
+	</TR>
+	<TR>
+		<TD CLASS="menucell" onMouseOver="changeObjectClass(this,'menucell-hover')" onMouseOut="changeObjectClass(this,'menucell')"><A HREF="http://news.hereisthecity.com/contact/comment.cntns" CLASS="menutext">Comment</A></TD>
+	</TR>-->
+	
+	
+	
+				 
+		
+			<tr>
+				<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+			</tr>
+			<tr>
+				<td align="CENTER">
+					<table width="130" border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td class="submenucellbordbot">
+								<table border="0" cellspacing="0" cellpadding="0">
+									<tbody><tr>
+										<td height="5" colspan="2"><img src="../media/blank.gif" width="1" height="5"></td>
+								 </tr>
+									<tr>
+										<td width="5"><img src="../media/blank.gif" width="5" height="1"></td>
+										<td class="submenutitlebg"><span class="submenutitle">Latest City Jobs</span></td>
+								 </tr>
+							 </tbody></table>
+						 </td>
+					 </tr>
+						<tr>
+							<td>
+								<table width="130" border="0" cellspacing="0" cellpadding="5" bgcolor="#F2F2F2">
+																				<tbody><tr>
+												<td align="left" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #999999;"><a href="http://careers.hereisthecity.com/jobs/function/accountancy_finance/73294.cntns" class="bodysmall" target="hitcc">Group Accountant</a></td>
+											</tr>
+																				<tr>
+												<td align="left" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #999999;"><a href="http://careers.hereisthecity.com/jobs/function/accountancy_finance/73293.cntns" class="bodysmall" target="hitcc">Business Analyst</a></td>
+											</tr>
+																				<tr>
+												<td align="left" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #999999;"><a href="http://careers.hereisthecity.com/jobs/function/accountancy_finance/73292.cntns" class="bodysmall" target="hitcc">Business Analyst</a></td>
+											</tr>
+																				<tr>
+												<td align="left" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #999999;"><a href="http://careers.hereisthecity.com/jobs/function/secretarial_office_support/73291.cntns" class="bodysmall" target="hitcc">Temporary Document Production?</a></td>
+											</tr>
+																				<tr>
+												<td align="left" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #999999;"><a href="http://careers.hereisthecity.com/jobs/function/secretarial_office_support/73290.cntns" class="bodysmall" target="hitcc">Legal Secretary in Tax</a></td>
+											</tr>
+																				<tr>
+												<td align="left" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #999999;"><a href="http://careers.hereisthecity.com/jobs/function/secretarial_office_support/73289.cntns" class="bodysmall" target="hitcc">Float secretary in Property (Contract)</a></td>
+											</tr>
+																				<tr>
+												<td align="left" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #999999;"><a href="http://careers.hereisthecity.com/jobs/function/secretarial_office_support/73288.cntns" class="bodysmall" target="hitcc">Calling all Corporate Legal Secretaries!</a></td>
+											</tr>
+																				<tr>
+												<td align="left" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #999999;"><a href="http://careers.hereisthecity.com/jobs/function/secretarial_office_support/73287.cntns" class="bodysmall" target="hitcc">Excellent Legal Secretary looking for part time?</a></td>
+											</tr>
+																				<tr>
+												<td align="left" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #999999;"><a href="http://careers.hereisthecity.com/jobs/function/secretarial_office_support/73286.cntns" class="bodysmall" target="hitcc">Legal Secretary in Tax</a></td>
+											</tr>
+																				<tr>
+												<td align="left" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #999999;"><a href="http://careers.hereisthecity.com/jobs/function/secretarial_office_support/73285.cntns" class="bodysmall" target="hitcc">Longing for Litigation?</a></td>
+											</tr>
+																		<tr><td class="bodysmall fontwhite" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #FFFFFF; background: #999999;"><a href="http://careers.hereisthecity.com/jobs/function/information_technology/index.cntns" style="color: #FFFFFF" target="hitcc">Latest IT Jobs</a></td></tr>
+									<tr><td class="bodysmall fontwhite" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #FFFFFF; background: #999999;"><a href="http://careers.hereisthecity.com/jobs/function/banking_global_custody_operations/index.cntns" style="color: #FFFFFF" target="hitcc">Latest Banking Jobs</a></td></tr>
+									<tr><td class="bodysmall fontwhite" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #FFFFFF; background: #999999;"><a href="http://careers.hereisthecity.com/jobs/function/accountancy_finance/index.cntns" style="color: #FFFFFF" target="hitcc">Latest Accountancy Jobs</a></td></tr>
+									<tr><td class="bodysmall fontwhite" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #FFFFFF; background: #999999;"><a href="http://careers.hereisthecity.com" style="color: #FFFFFF" target="hitcc">More City Jobs</a></td></tr>
+								</tbody></table>
+						 </td>
+					 </tr>
+					</tbody></table>
+				</td>
+			</tr>
+		
+		
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	<tr>
+		<td align="CENTER"><a href="http://news.hereisthecity.com/agateway.cntns?aid=57&amp;mioid=17874&amp;ptid=10822538" border="0" target="_blank"><img src="http://news.hereisthecity.com/cntns_media/hitcn/me_103.gif" border="0" title="HITCC Job Bank #2" alt="HITCC Job Bank #2"></a></td>
+	</tr>
+	
+		
+		<!--<TR>
+		<TD HEIGHT="8"><IMG SRC="../media/blank.gif" WIDTH="1" HEIGHT="8"></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="8"><IMG SRC="../media/blank.gif" WIDTH="1" HEIGHT="8"></TD>
+	</TR>
+	<TR>
+		<TD ALIGN="CENTER"><A HREF="agateway.cntns?aid=&mioid=&ptid=" TARGET="_blank" BORDER="0"><IMG SRC="/cntns_media/hitcn/" WIDTH="120" HEIGHT="240" BORDER="0"></A></TD>
+	</TR>-->
+	
+		
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+	<tr>
+		<td height="8"><img src="../media/blank.gif" width="1" height="8"></td>
+	</tr>
+</tbody></table>
+		</td>
+		<td colspan="2" valign="TOP">
+			<table width="606" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+					<td height="60"><a href="http://news.hereisthecity.com/agateway.cntns?aid=56&amp;mioid=17867&amp;ptid=10822538" border="0" target="_blank"><img src="http://news.hereisthecity.com/cntns_media/hitcn/me_102.gif" border="0" title="Macquarie" alt="Macquarie"></a></td>
+					<td width="8" height="60"><img src="media/blank.gif" width="8" height="60"></td>
+					<td width="130" height="60" align="CENTER"><object type="application/x-shockwave-flash" data="http://news.hereisthecity.com/cntns_media/hitcn/me_225.swf?ad_url=http%3A%2F%2Fnews.hereisthecity.com%2Fagateway.cntns%3Faid%3D94%26mioid%3D94618%26ptid%3D10822538" width="120" height="60" title="Generic PRO Banner"><param name="movie" value="http://news.hereisthecity.com/cntns_media/hitcn/me_225.swf?ad_url=http%3A%2F%2Fnews.hereisthecity.com%2Fagateway.cntns%3Faid%3D94%26mioid%3D94618%26ptid%3D10822538"><a href="http://news.hereisthecity.com/agateway.cntns?aid=94&amp;mioid=94620&amp;ptid=10822538" border="0" target="_blank"><img src="http://news.hereisthecity.com/cntns_media/hitcn/me_226.gif" border="0" title="Generic PRO Banner" alt="Generic PRO Banner"></a></object></td>
+				</tr>
+				<tr>
+					<td height="8" colspan="3"><img src="media/blank.gif" width="606" height="8"></td>
+				</tr>
+				<tr>
+					<td valign="TOP"><!-- InstanceBeginEditable name="content" -->
+						<h2 class="bg2">ABOUT US</h2>
+
+<h3>Privacy Policy</h3>
+			
+			
+<div id="contentheader">
+	<span class="bodysmall">27/05/2005</span>
+</div>
+		
+				
+		<!-- SUMMARY -->		
+		
+		<p id="contentsummary">Here Is The City is commited to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private and is used only for the purposes as set forth herein. The following reflects our commitment to you.
+</p>
+				
+		<!-- END SUMMARY -->
+		
+		
+		
+			<div id="contentbody">
+				
+<b>Information About All Here Is The City Visitors</b><br>In general we collect data about the areas of the sites and pages which are visited. We only aggregate this data and do not specifically target the trends of an individual. This information helps us to better serve you by determining which services and features are most useful to you. We may share this information with partners, but again this is only in aggregate form and individuals will not be able to be identified from the data.<br><br><b>Cookies</b><br>We do use cookies for the collection of visitor trends as described above. The cookie only identifies the computer being used to view the site and not the user, it does not contain any malicious code or allow itself to be used maliciously. By rejecting the cookie issued by the site your browsing experience will not be affected.<br><br><b>The Use &amp; Storage Of Personal Information</b><br>When you supply any personal information to Here Is The City (e.g. newsletter registration) we have legal obligations towards you in the way we handle that data. In general, any information you provide to Here Is The City will only be used inside our organisation and by it's service providers. It will never be supplied to anyone outside our organsation without your consent, unless we are obliged or permitted to by law.<br><b><br>Children</b><br>If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to the Here Is The City sites. Users without this consent are not allowed to provide us with personal information.<br><br><b>Changes To This Policy</b><br>If we decide to change our privacy policy we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions about or concerns about Here Is The City's privacy policy please feel free to e-mail us at <a href="mailto:privacy@hereisthecity.com">privacy@hereisthecity.com</a>.<br><br>Thankyou for using the Here Is The City sites.
+			
+			</div>
+
+<div id="contentfooter">
+
+
+		<p class="body" align="right"><a href="mailto:news@hereisthecity.com?subject=Comment%3A%20Privacy%20Policy" class="body">Has this story got your goat ? Have your say! Email us &gt;&gt;</a></p>
+
+		<p class="body" align="right"><a href="javascript: MM_openBrWindow('http://news.hereisthecity.com/emailfriend.cntns?id=5&amp;cid=6','hitcprint','toolbar=no,location=no,status=no,menubar=yes,scrollbars=yes,resizable=yes,width=560,height=410')" class="body">Click Here to E-Mail this article to a Friend &gt;&gt;</a></p>
+
+
+</div>
+		
+		<h4><b>Tools</b></h4>
+		<div id="contentlinks" style="text-align: center;">
+			<ul>
+				<li><a href="javascript: MM_openBrWindow('http://news.hereisthecity.com/emailfriend.cntns?id=5&amp;cid=6','hitcprint','toolbar=no,location=no,status=no,menubar=yes,scrollbars=yes,resizable=yes,width=560,height=410')" class="bodysmall"><img src="/media/email.gif" border="0" width="16" height="16"></a><a href="javascript: MM_openBrWindow('http://news.hereisthecity.com/emailfriend.cntns?id=5&amp;cid=6','hitcprint','toolbar=no,location=no,status=no,menubar=yes,scrollbars=yes,resizable=yes,width=560,height=410')" class="bodysmall">&nbsp;e-mail&nbsp;a&nbsp;friend</a></li>
+				<li><a href="javascript: MM_openBrWindow('http://news.hereisthecity.com/pages/about_us/print/5.cntns','hitcprint','toolbar=yes,location=no,status=no,menubar=yes,scrollbars=yes,resizable=yes,width=560,height=410')" class="bodysmall"><img src="/media/print.gif" border="0" width="16" height="16"></a><a href="javascript: MM_openBrWindow('http://news.hereisthecity.com/pages/about_us/print/5.cntns','hitcprint','toolbar=yes,location=no,status=no,menubar=yes,scrollbars=yes,resizable=yes,width=560,height=410')" class="bodysmall">&nbsp;print</a></li>
+				<li><a href="http://news.hereisthecity.com/pages/about_us/download/5.cntns" class="bodysmall"><img src="/media/download.gif" border="0" width="17" height="16"></a><a href="http://news.hereisthecity.com/pages/about_us/download/5.cntns" class="bodysmall">&nbsp;download</a></li>
+			</ul>
+		</div>
+				
+				
+		<h4><b>Related Content</b></h4>
+		<div id="contentlinks">
+			
+			<!-- CONTEXTUAL SEARCH -->
+				
+									<span class="bodysmall">There is no related content.</span><br>
+						
+			<!-- END CONTEXTUAL SEARCH -->
+							
+		</div>
+				
+				
+		<div id="contentbanner"><object type="application/x-shockwave-flash" data="http://news.hereisthecity.com/cntns_media/hitcn/me_279.swf?ad_url=http%3A%2F%2Fnews.hereisthecity.com%2Fagateway.cntns%3Faid%3D108%26mioid%3D102874%26ptid%3D10822538" width="468" height="60" title="Bank of America"><param name="movie" value="http://news.hereisthecity.com/cntns_media/hitcn/me_279.swf?ad_url=http%3A%2F%2Fnews.hereisthecity.com%2Fagateway.cntns%3Faid%3D108%26mioid%3D102874%26ptid%3D10822538"><a href="http://news.hereisthecity.com/agateway.cntns?aid=108&amp;mioid=102876&amp;ptid=10822538" border="0" target="_blank"><img src="http://news.hereisthecity.com/cntns_media/hitcn/me_280.gif" border="0" title="Bank of America" alt="Bank of America"></a></object></div>
+				
+				
+		<!-- HISTORICAL LINKS -->
+		
+				
+					<div>
+						
+														<div>
+									<h4><b>12 Months Ago</b></h4>
+									<div id="contentlinks">
+																						<span class="bodysmallbold fontwhite bg3">&nbsp;PAGE&nbsp;</span>&nbsp;<a href="http://news.hereisthecity.com/pages/about_us/1.cntns" class="bodysmall">About Us</a><br>
+																						<span class="bodysmallbold fontwhite bg3">&nbsp;PAGE&nbsp;</span>&nbsp;<a href="http://news.hereisthecity.com/pages/about_us/3.cntns" class="bodysmall">Syndication</a><br>
+																						<span class="bodysmallbold fontwhite bg3">&nbsp;PAGE&nbsp;</span>&nbsp;<a href="http://news.hereisthecity.com/pages/about_us/2.cntns" class="bodysmall">Advertising</a><br>
+																			</div>
+								</div>
+							
+													
+												
+					</div>
+		
+				
+		<!-- END HISTORICAL LINKS -->
+		
+				
+							 <!-- InstanceEndEditable --></td>
+										<td width="8"><img src="media/blank.gif" width="8" height="1"></td>
+					<td width="130" valign="TOP" class="submenubg bg1">
+						<table width="130" border="0" cellspacing="0" cellpadding="0">
+																<tbody><tr>
+										<td height="5"><img src="../media/blank.gif" width="1" height="5"></td>
+									 </tr>
+									<tr>
+										<td align="center">
+											<a href="http://news.hereisthecity.com/agateway.cntns?aid=91&amp;mioid=94147&amp;ptid=10822538" border="0" target="_blank"><img src="http://news.hereisthecity.com/cntns_media/hitcn/me_220.gif" border="0" title="Best Recruitment Awards" alt="Best Recruitment Awards"></a>										</td>
+									</tr>
+									
+									<tr>
+										<td height="5"><img src="../media/blank.gif" width="1" height="5"></td>
+									 </tr>
+									<tr>
+										<td align="center">
+											<a href="http://news.hereisthecity.com/agateway.cntns?aid=105&amp;mioid=101935&amp;ptid=10822538" border="0" target="_blank"><img src="http://news.hereisthecity.com/cntns_media/hitcn/me_271.gif" border="0" title="Global Company Directory" alt="Global Company Directory"></a>										</td>
+									</tr>
+									
+									<tr>
+										<td height="5"><img src="../media/blank.gif" width="1" height="5"></td>
+									 </tr>
+									<tr>
+										<td align="center">
+											<a href="http://news.hereisthecity.com/agateway.cntns?aid=64&amp;mioid=94138&amp;ptid=10822538" border="0" target="_blank"><img src="http://news.hereisthecity.com/cntns_media/hitcn/me_219.gif" border="0" title="Global Training Directory" alt="Global Training Directory"></a>										</td>
+									</tr>
+														
+																
+							<!--<TR>
+								<TD ALIGN="center">
+									<DIV STYLE="background-color: #FFF; margin: 5px 5px 0 5px; padding: 4px; border: 1px solid #000;"><A HREF="http://careers.hereisthecity.com/register.cntns" TARGET="_blank" CLASS="body">Click Here To Register For Job Alerts By Email</A></DIV>
+								</TD>
+							</TR>-->
+							
+																<tr>
+										<td height="5"><img src="../media/blank.gif" width="1" height="5"></td>
+									 </tr>
+									<tr>
+										<td align="center">
+											<a href="http://news.hereisthecity.com/agateway.cntns?aid=112&amp;mioid=103149&amp;ptid=10822538" border="0" target="_blank"><img src="http://news.hereisthecity.com/cntns_media/hitcn/me_290.gif" border="0" title="Joslin Rowe - Temping In Bromley" alt="Joslin Rowe - Temping In Bromley"></a>										</td>
+									</tr>
+														
+							<tr>
+								<td>
+																		
+									<!-- REGISTER RIGHT -->
+									
+									<table width="130" border="0" cellspacing="0" cellpadding="0">
+										<tbody><tr>
+											<td class="submenucellbordbot">
+												<table border="0" cellspacing="0" cellpadding="0">
+													<tbody><tr>
+														<td height="5" colspan="2"><img src="../media/blank.gif" width="1" height="5"></td>
+												 </tr>
+													<tr>
+														<td width="5"><img src="../media/blank.gif" width="5" height="1"></td>
+														<td class="submenutitlebg"><span class="submenutitle">Register</span></td>
+												 </tr>
+											 </tbody></table>
+										 </td>
+									 </tr>
+										<tr>
+											<td>
+												<table width="130" border="0" cellspacing="5" cellpadding="0">
+															<form name="registerform" method="post" action="http://news.hereisthecity.com/register.cntns"></form>
+													<tbody><tr>
+														<td class="bodysmall">Register yourself or a friend
+															for our free City News e-mail updates. Simply enter an e-mail
+															address	in the box below pick a list and press 'go'.</td>
+												 </tr>
+													<tr>
+														<td>
+																<input type="text" name="email_address" class="submenufield">
+														</td>
+												 </tr>
+												 <tr>
+												 	<td>
+												 		<select name="gid" class="submenufield">
+												 			<option value="39" selected="selected">Business News Alerts</option>
+															<option value="74">IT News Alerts</option>
+														</select>
+												 	</td>
+												 </tr>
+													<tr>
+														<td align="RIGHT"><input type="hidden" name="reg_single" value="1"><a href="javascript:document.registerform.submit();" class="submenubutton">go</a></td>
+												 </tr>
+												
+											 </tbody></table>
+										 </td>
+									 </tr>
+									</tbody></table>
+									
+									<!-- END REGISTER RIGHT -->
+										
+								</td>
+							 </tr>
+							 											<tr>
+												<td height="5"><img src="../media/blank.gif" width="1" height="5"></td>
+											 </tr>
+											<tr>
+												<td align="center">
+													<a href="http://news.hereisthecity.com/agateway.cntns?aid=74&amp;mioid=61796&amp;ptid=10822538" border="0" target="_blank"><img src="http://news.hereisthecity.com/cntns_media/hitcn/me_161.gif" border="0" title="Joslin Rowe - Temping Ad" alt="Joslin Rowe - Temping Ad"></a>												</td>
+											</tr>
+															 
+							 							<tr>
+								<td>
+																</td>
+							 </tr>
+						 							
+								
+							<tr>
+								<td>
+									<table width="130" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td class="submenucellbordbot">
+						<table border="0" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td height="5" colspan="2"><img src="../media/blank.gif" width="1" height="5"></td>
+						 </tr>
+							<tr>
+								<td width="5"><img src="../media/blank.gif" width="5" height="1"></td>
+								<td class="submenutitlebg"><span class="submenutitle">In This Section</span></td>
+						 </tr>
+					 </tbody></table>
+				 </td>
+			 </tr>
+				<tr>
+					<td>
+						<table width="130" border="0" cellspacing="0" cellpadding="5">
+														<tbody><tr>
+								<td class="bodysmall" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #FFFFFF;"><a href="http://news.hereisthecity.com/pages/about_us/1.cntns" class="bodysmall">About Us</a></td>
+							</tr>
+														<tr>
+								<td class="bodysmall" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #FFFFFF;"><a href="http://news.hereisthecity.com/pages/about_us/2.cntns" class="bodysmall">Advertising</a></td>
+							</tr>
+														<tr>
+								<td class="bodysmall" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #FFFFFF;"><a href="http://news.hereisthecity.com/pages/about_us/3.cntns" class="bodysmall">Syndication</a></td>
+							</tr>
+														<tr>
+								<td class="bodysmall" style="border-bottom-width: 1px; border-bottom-style: dashed; border-bottom-color: #FFFFFF;"><a href="http://news.hereisthecity.com/pages/about_us/4.cntns" class="bodysmall">Terms &amp; Conditions</a></td>
+							</tr>
+												 </tbody></table>
+				 </td>
+			 </tr>
+			</tbody></table>
+								</td>
+							</tr>
+												
+						
+							
+															<tr>
+										<td height="5"><img src="../media/blank.gif" width="1" height="5"></td>
+									 </tr>
+									<tr>
+										<td align="center">
+											<a href="http://news.hereisthecity.com/agateway.cntns?aid=89&amp;mioid=92460&amp;ptid=10822538" border="0" target="_blank"><img src="http://news.hereisthecity.com/cntns_media/hitcn/me_214.gif" border="0" title="The Vineyards - Knight International" alt="The Vineyards - Knight International"></a>										</td>
+									</tr>
+												
+												
+						         				
+         													<tr>
+										<td height="5"><img src="../media/blank.gif" width="1" height="5"></td>
+									 </tr>
+									<tr>
+										<td align="center">
+											<a href="http://news.hereisthecity.com/agateway.cntns?aid=66&amp;mioid=56291&amp;ptid=10822538" border="0" target="_blank"><img src="http://news.hereisthecity.com/cntns_media/hitcn/me_142.gif" border="0" title="NewsNow" alt="NewsNow"></a>										</td>
+									</tr>
+												 
+						 					 </tbody></table>
+				 </td>
+								</tr>
+			</tbody></table>
+		</td>
+	</tr>
+		<tr>
+		<td width="130" valign="TOP" class="bodysmall">
+			<p>© 2006 Entrepreneur Ltd.</p>
+			<p><a href="http://www.themediatank.com" target="_blank" class="bodysmall">Website design</a> and <a href="http://www.themediatank.com" target="_blank" class="bodysmall">website development</a> by <a href="http://www.themediatank.com" target="_blank" class="bodysmall">The Media Tank Limited</a></p>
+		</td>
+		<td width="468" height="60" valign="TOP"><a href="http://news.hereisthecity.com/agateway.cntns?aid=113&amp;mioid=103300&amp;ptid=10822538" border="0" target="_blank"><img src="http://news.hereisthecity.com/cntns_media/hitcn/me_291.gif" border="0" title="Citigroup Ethics Banner" alt="Citigroup Ethics Banner"></a></td>
+		<td width="130" height="60" align="CENTER" valign="TOP"><a href="http://news.hereisthecity.com/agateway.cntns?aid=93&amp;mioid=94311&amp;ptid=10822538" border="0" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/N2121.Hereisthecitynews_diff/B1816224;dcadv=813227;sz=120x60;" border="0" title="Squaregain 03" alt="Squaregain 03"></a></td>
+	</tr>
+	<tr>
+		<td colspan="3" align="CENTER" valign="MIDDLE" class="bodysmall">		 
+			<p>&nbsp;</p>
+			
+						
+								<p class="bodysmall">
+						<a href="http://news.hereisthecity.com" class="bodysmall">Home</a>&nbsp;|&nbsp;
+						<a href="http://news.hereisthecity.com/news/business_news/index.cntns" class="bodysmall">Business News</a>&nbsp;|&nbsp;
+						<a href="http://news.hereisthecity.com/reviews/book_reviews/index.cntns" class="bodysmall">Book Reviews</a>&nbsp;|&nbsp;
+						<a href="http://news.hereisthecity.com/reviews/restaurant_reviews/index.cntns" class="bodysmall">Restaurant Reviews</a>&nbsp;|&nbsp;
+						<a href="http://news.hereisthecity.com/fun/favorites/index.cntns" class="bodysmall">Fun Favorites</a>&nbsp;|&nbsp;
+						<a href="http://news.hereisthecity.com/pages/press_releases/index.cntns" class="bodysmall">Latest Press Releases</a>&nbsp;|&nbsp;
+						<a href="http://news.hereisthecity.com/pages/tools/6.cntns" class="bodysmall">RSS Information</a>
+					</p>
+					<p class="bodysmall">
+						<a href="http://news.hereisthecity.com/pages/about_us/1.cntns" class="bodysmall">About Us</a>&nbsp;|&nbsp;
+						<a href="http://news.hereisthecity.com/pages/about_us/2.cntns" class="bodysmall">Advertising</a>&nbsp;|&nbsp;
+						<a href="http://news.hereisthecity.com/pages/about_us/3.cntns" class="bodysmall">Syndication</a>&nbsp;|&nbsp;
+						<a href="http://news.hereisthecity.com/pages/about_us/4.cntns" class="bodysmall">Terms &amp; Conditions</a>&nbsp;|&nbsp;
+						<a href="http://news.hereisthecity.com/pages/about_us/5.cntns" class="bodysmall">Privacy Policy</a>&nbsp;|&nbsp;
+						<a href="http://news.hereisthecity.com/contact.cntns" class="bodysmall">Contact Us</a>&nbsp;|&nbsp;
+						<a href="http://news.hereisthecity.com/links/external_links/index.cntns" class="bodysmall">Links</a>
+					</p>
+					<p class="bodysmall">&nbsp;</p>
+					<p class="bodysmall"><a href="http://careers.hereisthecity.com" target="hitcc" class="bodysmall">Here Is The City Careers - A One-Stop Shop For Careers In Financial Markets - Jobs, Tips, Articles, Recruiters &amp; Salary Surveys</a></p>
+					<p class="bodysmall">&nbsp;</p>
+						
+						
+		</td>
+	</tr>
+	<tr>
+		<td valign="TOP" class="bodysmall">&nbsp;</td>
+		<td align="CENTER" valign="MIDDLE" class="bodysmall">
+			powered by: Contense v.3.0 - 
+			stable		</td>
+		<td align="CENTER" valign="TOP">&nbsp;</td>
+	</tr>
+</tbody></table>
+
+<!-- InstanceEnd -->
+
+</body></html>
