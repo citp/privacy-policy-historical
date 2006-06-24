@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the artvan.com privacy policy that was archived on 2005-09-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050923155504id_/http%3A//www.artvan.com/webapp/wcs/stores/servlet/StaticPageView%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D10001%26pageName%3DprivacyTerms.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artvan.com privacy policy that was archived on 2006-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060624225151id_/http%3A//www.artvan.com/webapp/wcs/stores/servlet/StaticPageView%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D10001%26pageName%3DprivacyTerms.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -9,6 +9,18 @@
 <link href="/wcsstore/ArtVan/css/globalStyle.css" rel="stylesheet" type="text/css">
 <script language="JavaScript" type="text/JavaScript" src="/wcsstore/ArtVan/javascript/globalScripts.js"></script>
 <title>Art Van Furniture</title>
+
+<script language="JavaScript">
+<!--
+function printLinks() {
+  linkEnum = new Enumerator(document.links);
+  for (linkEnum.moveFirst(); !linkEnum.atEnd(); linkEnum.moveNext()) {
+    alert(linkEnum.item());
+  }
+}
+// -->
+</script>
+
 </head>
 <body>
 <table width="770" cellpadding="0" cellspacing="0" class="mainTable">
@@ -45,8 +57,20 @@
 
 
 
+
 <script language="javascript">
 function submitForm(form){
+
+// Bob Buscemi 2005-08-03 Start change 
+	if (form.searchTerm.value == "Search value" ) {
+		form.searchTerm.value = "";
+	}
+// Bob Buscemi 2005-08-03 End change 
+
+// 2005-11-23 Bob Buscemi Start change
+form.description_searchTerm.value = form.searchTerm.value;
+// 2005-11-23 Bob Buscemi End change
+
 	form.submit();
 }
 </script>
@@ -57,167 +81,67 @@ function submitForm(form){
 <input type="hidden" name="langId" value="-1"> 
 <input type="hidden" name="pageSize" value="10"> 
 <input type="hidden" name="beginIndex" value="0">
-<input type="hidden" name="sType" value="SimpleSearch"> 
+<!-- input type="hidden" name="sType" value="SimpleSearch"/ --> 
+<input type="hidden" name="sType" value="AdvancedSearch"> 
 
 <input type="hidden" name="isPackage" value="true">
 <input type="hidden" name="isProduct" value="true">
 <input type="hidden" name="isItem" value="true">
 <input type="hidden" name="isBundle" value="true">
 
+<!-- Bob Buscemi 2005-10-18 Start change -->
+<input type="hidden" name="field5" value="C">
+<input type="hidden" name="field5Operator" value="EQUAL">
+<!-- Bob Buscemi 2005-10-18 End change -->
+
+<!-- Bob Buscemi 2005-08-03 Start change -->
+<input type="hidden" name="searchTermCaseSensitive" value="no">
+<input type="hidden" name="searchTermOperator" value="LIKE">
+<input type="hidden" name="searchType" value="ALL">
+<input type="hidden" name="searchTermScope" value="1">
+<input type="hidden" name="resultType" value="3">
+
+
+<!-- Bob Buscemi 2005-08-03 End change -->
+
+<!-- Bob Buscemi 2005-11-23 Start change -->
+<input type="hidden" name="description_searchTerm" value="">
+<!-- Bob Buscemi 2005-11-23 Start change -->
 
  
 <table border="0" width="770" height="70" cellpadding="2" cellspacing="0" class="headerMainTable">
 	<tbody><tr>
-		<td style="cursor:pointer; cursor:hand;" width="375" height="70" rowspan="1" align="left" onclick="goToURL('StoreHomePageView?langId=-1&amp;storeId=10001&amp;catalogId=10001'); return false;">
+		<td style="cursor:pointer; cursor:hand;" width="375" height="70" rowspan="3" align="left" valign="top" onclick="goToURL('StoreHomePageView?langId=-1&amp;storeId=10001&amp;catalogId=10001'); return false;">
 			<img style="width: 348px; height: 70px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/wcsstore/ArtVan/images/headerLogo.png', sizingMethod='scale')" src="/wcsstore/ArtVan/images/headerLogo.png" width="348" height="70" border="0" alt="">
 		</td>
-		<td class="headerTopRow" height="44">Shop&nbsp;&nbsp;
-             <select name="CatalogListSelect" onchange="MM_jumpMenu('parent',this,1)">
-                <option value="">--- Select Category ---</option>
-                <option value="StoreCatalogDisplay?storeId=10001&amp;catalogId=10001">All categories</option>
-                
-                       <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;top=Y&amp;categoryId=30000">
-                              Living Room</option>
-                       
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=30001">
-                                     Living Room: Fabric</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=30002">
-                                     Living Room: Leather</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=30003">
-                                     Living Room: Reclining Chairs</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=30004">
-                                     Living Room: Chairs and Rockers</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=30005">
-                                     Living Room: Tables</option>
-                              
-                       <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;top=Y&amp;categoryId=20000">
-                              Bedroom</option>
-                       
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=20001">
-                                     Bedroom: Master Bedroom</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=20002">
-                                     Bedroom: Youth Bedroom</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=20003">
-                                     Bedroom: Futons &amp; Daybeds</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=20004">
-                                     Bedroom: Metal Beds</option>
-                              
-                       <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;top=Y&amp;categoryId=25000">
-                              Dining</option>
-                       
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=25001">
-                                     Dining: Formal Dining Room</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=25002">
-                                     Dining: Dinettes</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=25003">
-                                     Dining: Solid Oak</option>
-                              
-                       <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;top=Y&amp;categoryId=47000">
-                              Entertainment Centers</option>
-                       
-                       <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;top=Y&amp;categoryId=46000">
-                              Home Office</option>
-                       
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=46001">
-                                     Home Office: Desks</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=46002">
-                                     Home Office: Desk Chairs</option>
-                              
-                       <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;top=Y&amp;categoryId=37000">
-                              Recliners</option>
-                       
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=30003">
-                                     Recliners: Reclining Chairs</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=37002">
-                                     Recliners: Lift Chairs</option>
-                              
-                       <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;top=Y&amp;categoryId=10000">
-                              Mattresses</option>
-                       
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=10001">
-                                     Mattresses: Utility Use</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=10002">
-                                     Mattresses: Premium</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=10006">
-                                     Mattresses: Super Premium</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=10007">
-                                     Mattresses: Ultra Premium</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=10008">
-                                     Mattresses: Ultra Premium Deluxe</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=10004">
-                                     Mattresses: Memory Foam</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=10003">
-                                     Mattresses: Adjustable</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=10005">
-                                     Mattresses: Frames</option>
-                              
-                       <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;top=Y&amp;categoryId=52000">
-                              Accents</option>
-                       
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=30005">
-                                     Accents: Tables</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=52001">
-                                     Accents: Clocks &amp; Curios</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=52002">
-                                     Accents: Area Rugs</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=52003">
-                                     Accents: Cedar Chests</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=52004">
-                                     Accents: Lamps</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=52005">
-                                     Accents: Fireplaces</option>
-                              
-                              <option value="CategoryDisplay?storeId=10001&amp;catalogId=10001&amp;categoryId=52006">
-                                     Accents: Accessories</option>
-                              
-         </select>	
-		
-		
-			or
-	
-			<select name="manufacturer" onchange="submitForm(document.CatalogSearchForm);">
-				<option value="" selected="">--- Select Vendor ---</option>
-				<option value="GAS">Amish</option>
-				<option value="BROY">Broyhill</option>
-				<option value="KK">King Koil</option>
-				<option value="LANE">Lane</option>
-				<option value="LZB">La-Z-Boy</option>
-				<option value="NAT">Natuzzi</option>
-				
-				<option value="SLY">Sealy</option>
-				<option value="SIM">Simmons</option>
-				<option value="SF">Stearns &amp; Foster</option>
-				
-			</select>
+
+	</tr>
+	<tr>
+		<td class="headerTopRowText">
+			<img src="/wcsstore/ArtVan/images/headerNavigation/spacer.gif" width="80" height="1" border="0" alt="">
+		</td>
+
+		<td class="headerTopRowText" height="10">
+			<input size="25" maxlength="30" name="searchTerm" type="text" style="background-color:#FFFFFF" value="Search value" onblur="if(this.value=='')this.value='Search value';" onfocus="if(this.value=='Search value')this.value='';">
+			
+	</td> <td class="headerTopRow" height="10">
+			<a href="javascript:submitForm(document.CatalogSearchForm)"><img src="/wcsstore/ArtVan/images/buttons/button_goSearch.gif" alt="Go" width="76" height="18" border="0"></a>
+			<!-- img src="/wcsstore/ArtVan/images/headerNavigation/spacer.gif" height="1" width="5" alt="" / -->
+		</td>				
+	</tr>
+	<tr>
+		<td class="headerTopRowText" height="10">
+			<img src="/wcsstore/ArtVan/images/headerNavigation/spacer.gif" width="80" height="1" border="0" alt="">
+		</td>
+		<td class="headerTopRowText" height="10" colspan="2">
+			<a href="AdvancedSearchView?storeId=10001&amp;catalogId=10001&amp;langId=-1"><img src="/wcsstore/ArtVan/images/buttons/button_advancedSearch.gif" alt="Advanced Search" width="132" height="26" border="0"></a>
 		</td>
 	</tr>
 	
 	
+	
 	<tr>
-		<td class="headerBottomRow" height="26" colspan="2">
+		<td class="headerBottomRow" height="26" colspan="4">
 			<!-- Header Navigation Area Start -->
 				<table border="0" cellpadding="0" cellspacing="0" width="345" height="26" class="headerBottomRow">
 				  <tbody><tr>	     
@@ -235,7 +159,14 @@ function submitForm(form){
 				   <td style="cursor:pointer; cursor:hand;" onclick="goToURL('StaticPageView?catalogId=10001&amp;pageName=roomPlanner.html'); return false;"><img style="" name="roomplanner" src="/wcsstore/ArtVan//images/headerNavigation/roomplanner.png" width="125" height="26" border="0" alt="Room Planner"></td>	
 				   <!-- Bob Buscemi 05-23-05 End change -->
 				   <td><img src="/wcsstore/ArtVan/images/headerNavigation/spacer.gif" width="1" height="26" border="0" alt=""></td>
+				  
+				  
+				  
+				  		
+				
 				  </tr>
+				  
+				  
 				</tbody></table>
 
 			<!-- Header Navigation Area Finish -->
@@ -341,7 +272,29 @@ function submitForm(form){
 
 
 
+
+
+
+
+
+
 	
+
+<!-- 2005-07-13 Bob Buscemi Start change -->
+<script language="JavaScript">
+// This function submits form the link to HSBC
+function submitHSBC()
+{
+	document.HSBC.submit();
+}
+
+function submitCatalogSearchForm()
+{
+	document.CatalogSearchForm1.submit();
+}
+
+</script>
+<!-- 2005-07-13 Bob Buscemi End change -->
 
 	
 	
@@ -350,6 +303,7 @@ function submitForm(form){
     	<td width="175" class="leftNavigationSpacer"><img src="/wcsstore/ArtVan/images/spacer.gif" width="1" height="1"></td>
 	</tr>
 	<tr>
+	
 		<td class="leftNavigationText">Are you in our delivery area?<br>
 			<form name="zipCodeValidation" method="post" onsubmit="return validateFieldLength(this.zipCode, 5, 10, 'Zip Codes');" action="ValidateZipCodeResultsView">
 				<input name="zipCode" type="text" onfocus="highlightField(this)" onblur="unHighlightField(this)" size="15">
@@ -358,9 +312,68 @@ function submitForm(form){
 				<input name="catalogId" type="hidden" value="10001">
 				<input name="langId" type="hidden" value="-1">
 			</form>
+			
+			<!-- 2005-07-13 Bob Buscemi Start change -->
+				<form name="HSBC" method="POST" action="https://www.esnapw.com/rses/ESnapServlet?MerchantNumberSent=40009&amp;MerchantReturnLink=http://www.artvan.com/">
+					<input type="hidden" name="ApplicantNameFirst" value="">
+					<input type="hidden" name="ApplicantNameLast" value="">
+					<input type="hidden" name="ApplicantStreet" value="">
+					<input type="hidden" name="ApplicantCity" value="">
+					<input type="hidden" name="ApplicantState" value="">
+					<input type="hidden" name="ApplicantZip" value="">
+					
+					
+					<input type="hidden" name="ApplicantEmail" value="">
+				</form>
+			<!-- 2005-07-13 Bob Buscemi End change -->
+			
+			
+			<!-- Lynn McCollom 2006-02-08 Start change -->
+			<form name="CatalogSearchForm1" method="post" action="CatalogSearchResultView">
+			<input type="hidden" name="storeId" value="10001">
+			<input type="hidden" name="catalogId" value="10001">
+			<input type="hidden" name="langId" value="-1">
+			<input type="hidden" name="pageSize" value="100">
+			<input type="hidden" name="beginIndex" value="0">
+			<input type="hidden" name="sType" value="AdvancedSearch">
+			
+			<input type="hidden" name="isPackage" value="true">
+			<input type="hidden" name="isProduct" value="true">
+			<input type="hidden" name="isItem" value="true">
+			<input type="hidden" name="isBundle" value="true">
+			
+			<input type="hidden" name="field5" value="C">
+			<input type="hidden" name="field5Operator" value="EQUAL">
+			
+			<input type="hidden" name="searchTermCaseSensitive" value="no">
+			<input type="hidden" name="searchTermOperator" value="LIKE">
+			<input type="hidden" name="searchType" value="ALL">
+			<input type="hidden" name="searchTermScope" value="1">
+			<input type="hidden" name="resultType" value="3">
+			<input type="hidden" name="manufacturer" value="EQ3">
+			
+			
+			
+			<input type="hidden" name="description_searchTerm" value="">
+			</form>
+<!-- Lynn McCollom 2006-02-08 End change -->
+			
 			<div class="leftNavigationText-Zip">Please enter your zip code</div>
 		</td>
 	</tr>
+	
+	<!-- Lynn McCollom Start change -->
+	<tr>
+    	<td width="175" class="leftNavigationSpacer"><img src="/wcsstore/ArtVan/images/spacer.gif" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td>
+		<a href="javascript:submitCatalogSearchForm()">
+		<img src="/wcsstore/ArtVan/images/eq3.jpg" width="126" height="126" border="0">
+			</a>
+		</td>
+	</tr>
+	<!-- Lynn McCollom End change -->
 	<!-- Bob Buscemi 05-23-05 Start change -->
 	<tr>
     	<td width="175" class="leftNavigationSpacer"><img src="/wcsstore/ArtVan/images/spacer.gif" width="1" height="1"></td>
@@ -368,19 +381,33 @@ function submitForm(form){
 	<tr>
 		<td>
 		<a href="StaticPageView?catalogId=10001&amp;pageName=roomPlanner.html">
-		<img src="/wcsstore/ArtVan/images/roomplanner.jpg" width="127" height="33" border="0">
+		<img src="/wcsstore/ArtVan/images/roomplanner.jpg" width="126" height="110" border="0">
 			</a>
 		</td>
 	</tr>
 	<!-- Bob Buscemi 05-23-05 End change -->
+	<!-- Bob Buscemi 12-02-05 Start change -->
+	<tr>
+	<td width="175" class="leftNavigationSpacer"><img src="/wcsstore/ArtVan/images/spacer.gif" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td>
+		<a href="ProductDisplay?catalogId=10001&amp;storeId=10001&amp;productId=810001000&amp;langId=-1">
+		<img src="/wcsstore/ArtVan/images/GIFTCARDS.jpg" width="128" height="61" border="0">
+		</a>
+		</td>
+	</tr>
+	<!-- Bob Buscemi 12-02-05 End change -->
 	<tr>
     	<td width="175" class="leftNavigationSpacer"><img src="/wcsstore/ArtVan/images/spacer.gif" width="1" height="1"></td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://www.esnapw.com/rses/ESnapServlet?MerchantNumberSent=40009&amp;MerchantReturnLink=http://www.artvan.com/">
-				<img src="/wcsstore/ArtVan/images/applyOnline.jpg" width="126" height="102" border="0">
-			</a>
+			<!-- 2005-07-13 Bob Buscemi Start change -->
+			
+			
+			<a href="javascript:submitHSBC()"><img src="/wcsstore/ArtVan/images/applyOnline.jpg" width="126" height="102" border="0"></a>
+			<!-- 2005-07-13 Bob Buscemi End change -->
 		</td>
 	</tr>
 	<tr>
