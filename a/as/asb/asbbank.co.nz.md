@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asbbank.co.nz privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223090324id_/http%3A//www.asbbank.co.nz/story859.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asbbank.co.nz privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624030202id_/http%3A//www.asbbank.co.nz/story859.asp) for the most accurate reproduction.*
 
-# ASB - Privacy Statement
+# Privacy Statement - ASB
 
-ASB Limited ("ASB") recognises the importance of safeguarding your personal and financial information. As an institution offering financial services ASB needs to obtain personal information about you in the course of providing our products and services. Because this information is confidential and important to you, we think it's important you know how we treat your information. 
+ASB Bank Limited ("ASB") recognises the importance of safeguarding your personal and financial information. As an institution offering financial services ASB needs to obtain personal information about you in the course of providing our products and services. Because this information is confidential and important to you, we think it's important you know how we treat your information. 
 
 ASB assures you that: 
 
@@ -17,7 +17,7 @@ We only use your personal information to:
 
 
 
-ASB will not sell your information to third parties. We may in the future contact you to inform you of new services and products available from ASB or the ASB Group of companies. If you do not wish to receive these offers kindly e-mail us at [FastNet Classic](mailto:custserv@asbbank.co.nz) and [Internet Access Terms](https://web.archive.org/web/20051223090324id_/http%3A//www.asbbank.co.nz/story6268.asp). 
+ASB will not sell your information to third parties. We may in the future contact you to inform you of new services and products available from ASB or the ASB Group of companies. If you do not wish to receive these offers kindly e-mail us at [FastNet Classic](mailto:custserv@asbbank.co.nz) and [Internet Access Terms](https://web.archive.org/web/20060624030202id_/http%3A//www.asbbank.co.nz/story6268.asp?). 
 
 To ensure full security you will need to take appropriate steps to ensure that your Internet browser is capable of supporting our website's encryption requirements. Most versions of Netscape Navigator or Microsoft Internet Explorer versions 5 and above will support our server authentication and data encryption technology. Our website does not collect personal identifying information about you except where specifically requested by you or us. 
 
@@ -36,7 +36,7 @@ Please also note that while the ASB website hyperlinks to various other websites
 Under the Privacy Act 1993 we advise that:   
 The ASB Website contains applications which collect personal information about you ("Information") so that ASB can offer you its products and services, process your application, carry out credit checks, verify your identity and monitor your ongoing credit-worthiness.   
 This Information is being collected and held by ASB, PO Box 35, Auckland 1015;   
-The intended recipients of the Information are ASB (which is part of ASB Group Limited), other members of the ASB Group of companies, other providers of credit, credit reference agencies, research and/or marketing firms engaged by ASB;   
+The intended recipients of the Information are ASB (which is part of the ASB Group), other members of the ASB Group of companies, other providers of credit, credit reference agencies, research and/or marketing firms engaged by ASB;   
 Failure to provide, or the supply of incorrect Information may result in your application being declined or services being withdrawn;   
 You have rights of access to, and correction of, Information. 
 
@@ -44,8 +44,15 @@ You have rights of access to, and correction of, Information.
 
 By using the ASB website you agree to authorise the following: 
 
-  * You agree that your Information held by ASB as part of ASB Group Limited may be used to advise you about other products and services;
+  * You agree that your Information held by ASB may be used by other companies within the ASB Group to advise you about other products and services;
   * You authorise ASB to obtain, use and disclose any and all your Information for the purposes set out above and you further authorise the release to ASB of any Information held by credit reference agencies and credit providers for the purposes set out above;
   * You authorise ASB to disclose Information held about you to other credit providers, credit reference agencies and any other party that is authorised by you from time to time.
+  * You authorise ASB's credit reference agency to:  
+i) Hold your personal information on its systems and use your personal information to provide its credit reporting services;  
+ii) Provide your personal information to its customers when they use its credit reporting services.
+  * You authorise ASB to use its credit reference agency in the future for purposes related to the provision of credit to you.
+  * You authorise:  
+i) ASB to give its credit reference agency information about any default in your payment obligations;  
+ii) ASB's credit reference agency to give information about your default to its other customers.
 
 
