@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the yeahbaby.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218045501id_/http%3A//www.yeahbaby.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeahbaby.com privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624202323id_/http%3A//www.yeahbaby.com/bottom-links.php%3Fpage%3D161) for the most accurate reproduction.*
 
 # Privacy Policy for YeahBaby.com
-
-### **Privacy Policy**
 
 YeahBaby, LLC, operator of YeahBaby.com, is committed to making your search for baby names and baby information as pleasant and successful as possible. Maintaining your privacy is part of that commitment. This privacy policy applies to the use by consumers of YeahBaby.Com and governs online data collection and usage by Yeahbaby.com. 
 
