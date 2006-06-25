@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lindsayolives.com privacy policy that was archived on 2005-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231072248id_/http%3A//www.lindsayolives.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lindsayolives.com privacy policy that was archived on 2006-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060625072034id_/http%3A//www.lindsayolives.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
         <title>Lindsay Olives --- Privacy Policy</title>
@@ -9,20 +9,58 @@
 </script>
 <script language="JavaScript">
 <!--
-
-
-
-
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
 //-->
 </script>
 </head>
 
-<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('navimg/topnav-media-over.gif','navimg/topnav-contactus-over.gif')">
  <!-- BEGIN TOP NAV TABLE -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0" background="home/navimg/topnav-bg.gif" bgcolor="#FFFFFF">
 <tbody><tr> <td rowspan="2" width="158"> 
@@ -33,7 +71,8 @@ function MM_preloadImages() { //v3.0
 	<td valign="bottom"><a href="news/index.html" target="_top" onclick="MM_nbGroup('down','group1','News','navimg/topnav-news-over.gif',1)" onmouseover="MM_nbGroup('over','News','navimg/topnav-news-over.gif','navimg/topnav-news-over.gif',1)" onmouseout="MM_nbGroup('out')"><img src="navimg/topnav-news.gif" alt="News from Lindsay Olives" name="News" border="0"></a></td>
 	<td valign="bottom" width="105"><a href="getlindsay/index.html" target="_top" onclick="MM_nbGroup('down','group1','FindLindsay','navimg/topnav-findlindsay-over.gif',1)" onmouseover="MM_nbGroup('over','FindLindsay','navimg/topnav-findlindsay-over.gif','navimg/topnav-findlindsay-over.gif',1)" onmouseout="MM_nbGroup('out')"><img src="navimg/topnav-findlindsay.gif" alt="Find Lindsay Olives" name="FindLindsay" border="0"></a></td>
 	<td valign="bottom"><a href="nutrition/index.html" target="_top" onclick="MM_nbGroup('down','group1','Nutrition','navimg/topnav-nutrition-down.gif',1)" onmouseover="MM_nbGroup('over','Nutrition','navimg/topnav-nutrition-over.gif','navimg/topnav-nutrition-over.gif',1)" onmouseout="MM_nbGroup('out')"><img src="navimg/topnav-nutrition.gif" alt="Nutrition" name="Nutrition" border="0"></a></td>
-	<td valign="bottom"><a href="media/index.html" target="_top" onclick="MM_nbGroup('down','group1','Media','navimg/topnav-media-over.gif',1)" onmouseover="MM_nbGroup('over','Media','navimg/topnav-media-over.gif','navimg/topnav-media-over.gif',1)" onmouseout="MM_nbGroup('out')"><img src="navimg/topnav-media.gif" alt="Media" name="Media" border="0"></a></td></tr>
+	<td valign="bottom"><a href="contactus/index.asp" target="_top" onclick="MM_nbGroup('down','group1','ContactUs','navimg/topnav-contactus-over.gif',1)" onmouseover="MM_nbGroup('over','ContactUs','navimg/topnav-contactus-over.gif','navimg/topnav-contactus-over.gif',1)" onmouseout="MM_nbGroup('out')"><img src="navimg/topnav-contactus.gif" alt="Contact Us at Lindsay Olives" name="ContactUs" border="0"></a></td>
+</tr>
   	<tr><td valign="top" height="50">&nbsp;</td>
 	<td valign="top" height="50"><a href="retailers/getlindsayolives.html" target="_top" onclick="MM_nbGroup('down','group1','Retailers','navimg/topnav-retailers-over.gif',1)" onmouseover="MM_nbGroup('over','Retailers','navimg/topnav-retailers-over.gif','navimg/topnav-retailers-over.gif',1)" onmouseout="MM_nbGroup('out')"><img src="navimg/topnav-retailers.gif" alt="Retailers" name="Retailers" border="0"></a></td>
 	<td valign="top" height="50"><a href="foodservice/index.asp" target="_top" onclick="MM_nbGroup('down','group1','FoodService','navimg/topnav-foodservice-over.gif',1)" onmouseover="MM_nbGroup('over','FoodService','navimg/topnav-foodservice-over.gif','navimg/topnav-foodservice-over.gif',1)" onmouseout="MM_nbGroup('out')"><img src="navimg/topnav-foodservice.gif" alt="Food Service" name="FoodService" border="0"></a></td>
@@ -41,7 +80,8 @@ function MM_preloadImages() { //v3.0
 	<td valign="top" height="50" width="105"><a href="exports/index.html" target="_top" onclick="MM_nbGroup('down','group1','Exports','navimg/topnav-exports-over.gif',1)" onmouseover="MM_nbGroup('over','Exports','navimg/topnav-exports-over.gif','navimg/topnav-exports-over.gif',1)" onmouseout="MM_nbGroup('out')"><img src="navimg/topnav-exports.gif" alt="Exports" name="Exports" border="0"></a></td>
 	<td valign="top" width="102"><a href="products/listofproducts.html" target="_top" onclick="MM_nbGroup('down','group1','OurProducts','navimg/topnav-ourproducts-over.gif',1)" onmouseover="MM_nbGroup('over','OurProducts','navimg/topnav-ourproducts-over.gif','navimg/topnav-ourproducts-over.gif',1)" onmouseout="MM_nbGroup('out')"><img src="navimg/topnav-ourproducts.gif" alt="Our Products" name="OurProducts" border="0"></a></td>
 	<td valign="top" height="50" width="74"><a href="http://mivasecure.abac.com/lindsayolive/merchant.mvc" onclick="MM_nbGroup('down','group1','OurStore','navimg/topnav-ourstore-over.gif',1)" onmouseout="MM_nbGroup('out')" onmouseover="MM_nbGroup('over','OurStore','navimg/topnav-ourstore-over.gif','navimg/topnav-ourstore-over.gif',1)" target="_parent"><img src="navimg/topnav-ourstore.gif" alt="Buy Lindsay Olies" name="OurStore" border="0"></a></td>
-	<td valign="top" height="50" width="100%"><a href="contactus/index.asp" target="_top" onclick="MM_nbGroup('down','group1','ContactUs','navimg/topnav-contactus-over.gif',1)" onmouseover="MM_nbGroup('over','ContactUs','navimg/topnav-contactus-over.gif','navimg/topnav-contactus-over.gif',1)" onmouseout="MM_nbGroup('out')"><img src="navimg/topnav-contactus.gif" alt="Contact Us at Lindsay Olives" name="ContactUs" border="0"></a></td></tr>
+	<td valign="top" height="50" width="100%"><a href="media/index.html" target="_top" onclick="MM_nbGroup('down','group1','Media','navimg/topnav-media-over.gif',1)" onmouseover="MM_nbGroup('over','Media','navimg/topnav-media-over.gif','navimg/topnav-media-over.gif',1)" onmouseout="MM_nbGroup('out')"><img src="navimg/topnav-media.gif" alt="Media" name="Media" border="0"></a></td>
+  	</tr>
 </tbody></table>
 <!-- END TOP NAV TABLE -->
 
