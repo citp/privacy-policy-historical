@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the choa.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214235816id_/http%3A//www.choa.org/default.aspx%3Fid%3D1564) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choa.org privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625134014id_/http%3A//www.choa.org/default.aspx%3Fid%3D1564) for the most accurate reproduction.*
 
 # Privacy - Children's Healthcare of Atlanta
-
- 
 
 ## Our Commitment To Privacy 
 
@@ -59,5 +57,3 @@ You can access all personal information that we collect online and maintain by c
 ## How To Contact Us
 
 Should you have other questions or concerns about these privacy policies send us an email at [choawebmaster@choa.org](mailto:choawebmaster@choa.org).
-
- 
