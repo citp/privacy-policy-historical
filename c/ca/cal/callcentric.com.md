@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the callcentric.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226211603id_/http%3A//www.callcentric.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callcentric.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625201112id_/http%3A//www.callcentric.com/privacy) for the most accurate reproduction.*
 
-# Callcentric - broadband phone service
+# Callcentric - Privacy Policy
 
 | **PRIVACY POLICY STATEMENT**  
 ---  
@@ -17,9 +17,7 @@ Callcentric will not disclose, share, transfer, sell or rent personally identifi
 
 Callcentric will not display or make publicly available, whether through online directories, customer lists or otherwise, the personally identifiable information collected. The exception to this is a listing within the Callcentric Directory which is available to all Callcentric customers. Customers may remove themselves from the Callcentric Directory by either selecting to not be included when signing up for the Callcentric service, or by logging into their account and removing themselves from the Callcentric Directory under the Preferences section at any time.
 
-Callcentric will not read, listen to or disclose to any third parties private e-mail, conversations, or other communications that are transmitted using Callcentric services except as required to ensure proper operation of services or as otherwise authorized by law.
-
-Callcentric do not use "cookies" or any other tracking technologies to collect information from users visiting our web site.   
+Callcentric will not read, listen to or disclose to any third parties private e-mail, conversations, or other communications that are transmitted using Callcentric services except as required to ensure proper operation of services or as otherwise authorized by law.   
   
   
   
@@ -52,4 +50,4 @@ Callcentric does not provide products or services for use or purchase by childre
 
 [_contact us_](http://www.callcentric.com/contact/) so that the information can be removed.  
   
-\--Updated Jul 29, 2005 
+\--Updated Dec 29, 2005 
