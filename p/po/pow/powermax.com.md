@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powermax.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231164556id_/http%3A//www.powermax.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powermax.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626010319id_/http%3A//powermax.com/home/privacy.html) for the most accurate reproduction.*
 
-# PowerMax Computers, Experts in Used, New, and Refurbished Macs and Mac Accessories
+# Privacy Policy
 
 Your privacy is extremely important to us. We realize how important peace of mind is to the web user, and to that end, we have included this information for your benefit.
 
@@ -11,3 +11,8 @@ PowerMax.com makes use of cookies to keep track of what you add to your shopping
 [](http://www.thawte.com/)
 
 E-commerce transactions on PowerMax.com are done in a secure, encrypted manner, certified by Thawte Digital Certificates. If you have any questions at all, please feel free to call us.
+
+PowerMax  
+6077A SW Lakeview Blvd.  
+Lake Oswego, OR 97035  
+
