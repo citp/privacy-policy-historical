@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantpresenter.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216074902id_/http%3A//www.instantpresenter.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpresenter.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625232957id_/http%3A//www.instantpresenter.com/privacy.asp) for the most accurate reproduction.*
 
 # InstantPresenter.com Privacy Policy
 
