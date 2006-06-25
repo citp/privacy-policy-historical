@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bankofamerica.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231222016id_/http%3A//www.bankofamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofamerica.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625105536id_/http%3A//www.bankofamerica.com/privacy) for the most accurate reproduction.*
 
 # Bank of America | Privacy & Security
 
 | |  | Summary of the Online Practices Privacy Policy  
 ---  
   
-The Online Practices Privacy Policy, effective July 1, 2004, explains how we may collect information from you online when you visit a Bank of America website. 
+The Bank of America Online Practices Privacy Policy, effective July 1, 2004, explains how we may collect information from you online when you visit a Bank of America website. 
 
 Customer information means personally identifiable information about a consumer.
 
@@ -41,5 +41,5 @@ Changes to the Online Practices Privacy Policy
   
 If we make changes to the Online Practices Privacy Policy or make any material changes to our online services, we will revise the Online Practices Privacy Policy to reflect such changes and revise the policy's effective date.  
   
-[View the full Online Practices Privacy Policy.](https://web.archive.org/web/20051231222016id_/http://www.bankofamerica.com/privacy/index.cfm?template=privacysecur_onlin)  
+[View the full Online Practices Privacy Policy.](https://web.archive.org/web/20060625105536id_/http://www.bankofamerica.com/privacy/index.cfm?template=privacysecur_onlin)  
 | 
