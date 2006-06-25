@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2005-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051205005210id_/http%3A//ancestry.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625065415id_/http%3A//www.ancestry.com/legal/Privacy.aspx) for the most accurate reproduction.*
 
-# Ancestry.com - Privacy Statement
+# 
 
 **This Privacy Statement was last updated on September 21, 2005.  
 If you have not reviewed it since that date, please do so.  
 You will not receive any other notice of changes to this statement.**
 
-Privacy Information for Ancestry.com   
+Privacy Information for Ancestry.com  
 MyFamily.com, Inc., operator of this site, recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this site. 
 
 **Overview**  
@@ -73,5 +73,3 @@ If you have any questions about this Privacy Statement, the practices of or your
 
 MyFamily.com, Inc.  
 360 W 4800 N Provo, UT 84604
-
-[Online Knowledge Base](http://ancestry.custhelp.com/)
