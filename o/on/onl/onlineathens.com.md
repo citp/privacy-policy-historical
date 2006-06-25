@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineathens.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227041402id_/http%3A//www.onlineathens.com/contactus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineathens.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625082151id_/http%3A//www.onlineathens.com/contactus/privacy.shtml) for the most accurate reproduction.*
 
 # Online Athens: Privacy Policy
 
