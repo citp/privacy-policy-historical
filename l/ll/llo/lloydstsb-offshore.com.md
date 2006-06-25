@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229070140id_/http%3A//lloydstsb-offshore.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625103248id_/http%3A//lloydstsb-offshore.com/Privacy) for the most accurate reproduction.*
 
 # Lloyds TSB Offshore
 
-[](http://secure-uk.imrworldwide.com/cgi-bin/a/ci_805442/et_2/cg_801344/pi_1004577/ai_831687) |   | 
+|   | 
 
 ## How your personal information is used by the Lloyds TSB Group*.
 
