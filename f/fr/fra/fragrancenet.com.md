@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218012257id_/http%3A//www.fragrancenet.com/f/net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625225320id_/http%3A//www.fragrancenet.com/f/net/privacy.html) for the most accurate reproduction.*
 
 # FragranceNet.com®- 1-800-PARFUMS - Online Since 1997 - Perfume, Cologne, Skincare, Candles at Deep Discounts
 
