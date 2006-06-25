@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231160046id_/http%3A//stepforth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepforth.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625034456id_/http%3A//www.stepforth.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Search Engine Placement and Optimization Services :: StepForth Placement Inc.
 
@@ -38,17 +38,17 @@ Internal data is shared through secured transmissions and maintained in secured 
 
 StepForth may hire certain outside contractors to perform services on our behalf (such as packaging and shipping). We will only provide those companies the personal information they need to complete the desired service. They are not permitted to use customer information for any other purpose.
 
-Information submitted to StepForth may be transferred across national boundaries to or from our staff or contractors in other countries. StepForth will only disclose information if required to do so by law, legal process or if in good faith it is deemed necessary for the public interest.
+Information submitted to StepForth may be transferred across national boundaries to or from our staff or contractors in other countries. StepForth will only disclose information if required to do so by law, legal process or if in good faith it is deemed necessary for the public interest.  
 
-  
+
 6\. Privacy Issues and Concerns & Altering or Correcting Information  
 StepForth has designated a Privacy Officer who is accountable for our compliance with this privacy policy and all applicable privacy laws. You may contact us at any time to review, alter or remove any personal information, withdraw your consent, or to ask us questions or challenge our privacy policy.
 
 > **Mail:**  
 >  Ross Dunn, Privacy Officer  
 >  StepForth Placement Inc.  
->  1358 Gladstone Ave.  
->  Victoria, BC V8R 1S1
+>  #208 - 26 Bastion Square  
+>  Victoria, BC V8W 1H9 
 > 
 > **Email:**   
 >  privacy@stepforth.com 
