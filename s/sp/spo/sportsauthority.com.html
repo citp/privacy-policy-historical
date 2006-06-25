@@ -1,14 +1,25 @@
-<!--The following is the downloaded HTML source of the sportsauthority.com privacy policy that was archived on 2005-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051211025227id_/http%3A//www.thesportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportsauthority.com privacy policy that was archived on 2006-06-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060625194422id_/http%3A//www.sportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
 	
 		<title>Sports Authority&nbsp;Helpdesk</title>
 		<script language="Javascript">
+function trimString (str) {
+  while (str.charAt(0) == ' ')
+    str = str.substring(1);
+  while (str.charAt(str.length - 1) == ' ')
+    str = str.substring(0, str.length - 1);
+  return str;
+}
+
+
 function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
 {
-    if (!validateEmail(document.emailForm.emailAddress.value))
+ var email = trimString(document.emailForm.emailAddress.value);
+
+    if (!validEmail(email))
 	{
         alert('Please enter a valid e-mail address.');
         return false;
@@ -113,7 +124,7 @@ if (document.images)
 
 <table width="775" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-	<td width="123" height="62" valign="middle" style="padding-left:10px;padding-right:12px;"><a href="/home/index.jsp?clickid=topnav_home_img"><img src="../images/tsalogo.jpg" alt="" border="0"></a></td>
+	<td width="123" height="62" valign="middle" style="padding-left:10px;padding-right:12px;"><a href="/home/index.jsp?clickid=topnav_home_img"><img src="http://TSA.imageg.net/images/tsalogo_new.jpg" alt="" border="0"></a></td>
 	<td align="left" valign="middle">
 	<table width="634" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
@@ -132,7 +143,7 @@ if (document.images)
 			<a href="/corp/index.jsp?page=storeLocator&amp;clickid=topnav_locator_txt" class="tnavlink">STORE LOCATOR</a></td>
 		</tr>
 		</tbody></table></td>
-		<td width="102" align="center"><!-- START SCANALERT CODE --><a target="_blank" href="//www.scanalert.com/RatingVerify?ref=www.sportsauthority.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.thesportsauthority.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;" align="absmiddle"></a><!-- END   SCANALERT CODE --></td>
+		<td width="102" align="center"><!-- START SCANALERT CODE --><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.thesportsauthority.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.thesportsauthority.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a><!-- END SCANALERT CODE --></td>
 		<td width="190" align="right" valign="middle" class="tnavtext" style="padding-right:10px;">&nbsp;&nbsp;<form name="search" action="/search/controller.jsp?clickid=topnav_search_img" method="get" style="display:inline;margin:0;"><span class="tnavlink" style="text-decoration:none;">Search&nbsp;</span><input name="kw" style="width:98px;position:relative;top:2px;">&nbsp;&nbsp;<input type="image" src="http://TSA.imageg.net/images/topnav_go.jpg" width="28" height="21" border="0" align="middle" cache=""><br></form></td>
 	</tr>
 	</tbody></table></td>
@@ -149,7 +160,7 @@ if (TransMenu.isSupported()) {
 
 var ms = new TransMenuSet(TransMenu.direction.down, 1, 0, TransMenu.reference.bottomLeft);
 
-	var menu1 = ms.addMenu(document.getElementById("exercise"));menu1.addItem("As Seen on TV!", "/category/index.jsp?categoryId=1985142&cp=2057738&clickid=hmp_exercisedrop_1");menu1.addItem("Boxing & Martial Arts", "/category/index.jsp?categoryId=710957&cp=2057738&clickid=hmp_exercisedrop_2");menu1.addItem("Exercise Equipment", "/category/index.jsp?categoryId=710956&cp=2057738&clickid=hmp_exercisedrop_3");menu1.addItem("Physical Education", "/category/index.jsp?categoryId=1267363&cp=2057738&clickid=hmp_exercisedrop_4");menu1.addItem("Running", "/category/index.jsp?categoryId=702279&cp=2057738&clickid=hmp_exercisedrop_5");menu1.addItem("Sports Medicine", "/category/index.jsp?categoryId=710547&cp=2057738&clickid=hmp_exercisedrop_6");menu1.addItem("Strollers & Child Carriers", "/category/index.jsp?categoryId=991371&cp=2057738&clickid=hmp_exercisedrop_7");menu1.addItem("Yoga / Pilates", "/category/index.jsp?categoryId=702281&cp=2057738&clickid=hmp_exercisedrop_8");
+	var menu1 = ms.addMenu(document.getElementById("exercise"));menu1.addItem("As Seen on TV!", "/category/index.jsp?categoryId=1985142&cp=2057738&clickid=hmp_exercisedrop_1");menu1.addItem("Boxing & Martial Arts", "/category/index.jsp?categoryId=710957&cp=2057738&clickid=hmp_exercisedrop_2");menu1.addItem("Exercise Equipment", "/category/index.jsp?categoryId=710956&cp=2057738&clickid=hmp_exercisedrop_3");menu1.addItem("Physical Education", "/category/index.jsp?categoryId=1267363&cp=2057738&clickid=hmp_exercisedrop_4");menu1.addItem("Running", "/category/index.jsp?categoryId=702279&cp=2057738&clickid=hmp_exercisedrop_5");menu1.addItem("Sports Medicine & Protective Gear", "/category/index.jsp?categoryId=710547&cp=2057738&clickid=hmp_exercisedrop_6");menu1.addItem("Strollers & Child Carriers", "/category/index.jsp?categoryId=991371&cp=2057738&clickid=hmp_exercisedrop_7");menu1.addItem("Yoga / Pilates / Toning", "/category/index.jsp?categoryId=702281&cp=2057738&clickid=hmp_exercisedrop_8");
 
 	//==================================================================================================
 	
@@ -158,7 +169,7 @@ var ms = new TransMenuSet(TransMenu.direction.down, 1, 0, TransMenu.reference.bo
 
 	//==================================================================================================
 	
-	var menu3 = ms.addMenu(document.getElementById("footwear"));menu3.addItem("Men's", "/category/index.jsp?categoryId=766039&cp=766034&clickid=hmp_footweardrop_1");menu3.addItem("Women's", "/category/index.jsp?categoryId=766040&cp=766034&clickid=hmp_footweardrop_2");menu3.addItem("Kids'", "/category/index.jsp?categoryId=766042&cp=766034&clickid=hmp_footweardrop_3");menu3.addItem("Infants'", "/category/index.jsp?categoryId=766043&cp=766034&clickid=hmp_footweardrop_4");
+	var menu3 = ms.addMenu(document.getElementById("footwear"));menu3.addItem("Men's", "/category/index.jsp?categoryId=766039&cp=766034&clickid=hmp_footweardrop_1");menu3.addItem("Womens", "/category/index.jsp?categoryId=766040&cp=766034&clickid=hmp_footweardrop_2");menu3.addItem("Kids'", "/category/index.jsp?categoryId=766042&cp=766034&clickid=hmp_footweardrop_3");
 
 	//==================================================================================================
 	
@@ -192,7 +203,7 @@ menu4.addItem("Wrestling","/category/index.jsp?categoryId=979690&cp=2057779&clic
 
 	//==================================================================================================
 	
-	var menu6 = ms.addMenu(document.getElementById("outdoor"));menu6.addItem("Boating / Watersports", "/category/index.jsp?categoryId=712859&cp=2057781&clickid=hmp_outdoordrop_1");menu6.addItem("Camping/Hiking", "/category/index.jsp?categoryId=713364&cp=2057781&clickid=hmp_outdoordrop_2");menu6.addItem("Climbing", "/category/index.jsp?categoryId=713071&cp=2057781&clickid=hmp_outdoordrop_3");menu6.addItem("Cycling", "/category/index.jsp?categoryId=713103&cp=2057781&clickid=hmp_outdoordrop_4");menu6.addItem("Electronics / Optics", "/category/index.jsp?categoryId=991053&cp=2057781&clickid=hmp_outdoordrop_5");menu6.addItem("Fishing", "/category/index.jsp?categoryId=716957&cp=2057781&clickid=hmp_outdoordrop_6");menu6.addItem("Hunting/Archery", "/category/index.jsp?categoryId=712508&cp=2057781&clickid=hmp_outdoordrop_7");menu6.addItem("Paintball/Airsoft", "/category/index.jsp?categoryId=712507&cp=2057781&clickid=hmp_outdoordrop_8");menu6.addItem("Patio/Deck Center", "/category/index.jsp?categoryId=1063924&cp=2057781&clickid=hmp_outdoordrop_9");menu6.addItem("Swimming/Pools", "/category/index.jsp?categoryId=712915&cp=2057781&clickid=hmp_outdoordrop_10");menu6.addItem("Water Recreation", "/category/index.jsp?categoryId=863840&cp=2057781&clickid=hmp_outdoordrop_11");menu6.addItem("Winter Recreation", "/category/index.jsp?categoryId=754008&cp=2057781&clickid=hmp_outdoordrop_12");		
+	var menu6 = ms.addMenu(document.getElementById("outdoor"));menu6.addItem("Boating / Watersports", "/category/index.jsp?categoryId=712859&cp=2057781&clickid=hmp_outdoordrop_1");menu6.addItem("Camping/Hiking", "/category/index.jsp?categoryId=713364&cp=2057781&clickid=hmp_outdoordrop_2");menu6.addItem("Canopies / Screen Rooms", "/category/index.jsp?categoryId=714752&cp=2057781&clickid=hmp_outdoordrop_3");menu6.addItem("Cycling", "/category/index.jsp?categoryId=713103&cp=2057781&clickid=hmp_outdoordrop_4");menu6.addItem("Electronics / Optics", "/category/index.jsp?categoryId=991053&cp=2057781&clickid=hmp_outdoordrop_5");menu6.addItem("Fishing", "/category/index.jsp?categoryId=716957&cp=2057781&clickid=hmp_outdoordrop_6");menu6.addItem("Hunting/Archery", "/category/index.jsp?categoryId=712508&cp=2057781&clickid=hmp_outdoordrop_7");menu6.addItem("Paintball/Airsoft", "/category/index.jsp?categoryId=712507&cp=2057781&clickid=hmp_outdoordrop_8");menu6.addItem("Patio/Deck Center", "/category/index.jsp?categoryId=1063924&cp=2057781&clickid=hmp_outdoordrop_9");menu6.addItem("Swimming/Pools", "/category/index.jsp?categoryId=712915&cp=2057781&clickid=hmp_outdoordrop_10");menu6.addItem("Water Recreation", "/category/index.jsp?categoryId=863840&cp=2057781&clickid=hmp_outdoordrop_11");menu6.addItem("Winter Recreation", "/category/index.jsp?categoryId=754008&cp=2057781&clickid=hmp_outdoordrop_12");		
 
 	//==================================================================================================
 	
@@ -208,11 +219,11 @@ menu4.addItem("Wrestling","/category/index.jsp?categoryId=979690&cp=2057779&clic
 
 	//==================================================================================================
 	
-	var menu10 = ms.addMenu(document.getElementById("accessories"));menu10.addItem("Accessories", "/category/index.jsp?categoryId=710537&cp=2067124&clickid=hmp_accessoriesdrop_1");menu10.addItem("Backpacks ", "/category/index.jsp?categoryId=1333609&cp=2067124&clickid=hmp_accessoriesdrop_2");menu10.addItem("Electronics / Optics", "/category/index.jsp?categoryId=991053&cp=2067124&clickid=hmp_accessoriesdrop_3");menu10.addItem("Hydration Packs", "/category/index.jsp?categoryId=1418540&cp=2067124&clickid=hmp_accessoriesdrop_4");menu10.addItem("Optics / Telescopes", "/category/index.jsp?categoryId=1395436&cp=2067124&clickid=hmp_accessoriesdrop_5");menu10.addItem("Sports Medicine", "/category/index.jsp?categoryId=710547&cp=2067124&clickid=hmp_accessoriesdrop_6");menu10.addItem("Sunglasses", "/category/index.jsp?categoryId=710551&cp=2067124&clickid=hmp_accessoriesdrop_7");menu10.addItem("Travel / Luggage", "/category/index.jsp?categoryId=710545&cp=2067124&clickid=hmp_accessoriesdrop_8");menu10.addItem("Watches", "/category/index.jsp?categoryId=710605&cp=2067124&clickid=hmp_accessoriesdrop_9");		
+	var menu10 = ms.addMenu(document.getElementById("accessories"));menu10.addItem("Accessories", "/category/index.jsp?categoryId=710537&cp=2067124&clickid=hmp_accessoriesdrop_1");menu10.addItem("Backpacks ", "/category/index.jsp?categoryId=1333609&cp=2067124&clickid=hmp_accessoriesdrop_2");menu10.addItem("Electronics / Optics", "/category/index.jsp?categoryId=991053&cp=2067124&clickid=hmp_accessoriesdrop_3");menu10.addItem("Hydration Packs", "/category/index.jsp?categoryId=1418540&cp=2067124&clickid=hmp_accessoriesdrop_4");menu10.addItem("Optics / Telescopes", "/category/index.jsp?categoryId=1395436&cp=2067124&clickid=hmp_accessoriesdrop_5");menu10.addItem("Sports Medicine & Protective Gear", "/category/index.jsp?categoryId=710547&cp=2067124&clickid=hmp_accessoriesdrop_6");menu10.addItem("Sunglasses", "/category/index.jsp?categoryId=710551&cp=2067124&clickid=hmp_accessoriesdrop_7");menu10.addItem("Travel / Luggage", "/category/index.jsp?categoryId=710545&cp=2067124&clickid=hmp_accessoriesdrop_8");menu10.addItem("Watches", "/category/index.jsp?categoryId=710605&cp=2067124&clickid=hmp_accessoriesdrop_9");		
 
 	//==================================================================================================
 	
-	var menu11 = ms.addMenu(document.getElementById("womens"));menu11.addItem("Apparel", "/category/index.jsp?categoryId=1312350&cp=865334&clickid=hmp_womensdrop_1");menu11.addItem("Cycling", "/category/index.jsp?categoryId=1241115&cp=865334&clickid=hmp_womensdrop_2");menu11.addItem("Fan Shop", "/category/index.jsp?categoryId=1443387&cp=865334&clickid=hmp_womensdrop_3");menu11.addItem("Footwear", "/category/index.jsp?categoryId=766040&cp=865334&clickid=hmp_womensdrop_4");menu11.addItem("Golf", "/category/index.jsp?categoryId=1443382&cp=865334&clickid=hmp_womensdrop_5");menu11.addItem("Gym", "/category/index.jsp?categoryId=1443377&cp=865334&clickid=hmp_womensdrop_6");menu11.addItem("Mom To Be", "/category/index.jsp?categoryId=1443383&cp=865334&clickid=hmp_womensdrop_7");menu11.addItem("Outdoor Sports", "/category/index.jsp?categoryId=1443380&cp=865334&clickid=hmp_womensdrop_8");menu11.addItem("Petite Size", "/family/index.jsp?categoryId=1450680&cp=865334&clickid=hmp_womensdrop_9");menu11.addItem("Pilates", "/category/index.jsp?categoryId=1985141&cp=865334&clickid=hmp_womensdrop_10");menu11.addItem("Plus Size", "/category/index.jsp?categoryId=1450517&cp=865334&clickid=hmp_womensdrop_11");menu11.addItem("Running/Walking", "/category/index.jsp?categoryId=1443376&cp=865334&clickid=hmp_womensdrop_12");menu11.addItem("Snow Sports", "/category/index.jsp?categoryId=1447047&cp=865334&clickid=hmp_womensdrop_13");menu11.addItem("Team Sports", "/category/index.jsp?categoryId=1443381&cp=865334&clickid=hmp_womensdrop_14");menu11.addItem("Tennis", "/category/index.jsp?categoryId=1443375&cp=865334&clickid=hmp_womensdrop_15");menu11.addItem("Water Sports", "/category/index.jsp?categoryId=1450433&cp=865334&clickid=hmp_womensdrop_16");menu11.addItem("Weekend Gear", "/category/index.jsp?categoryId=1241161&cp=865334&clickid=hmp_womensdrop_17");menu11.addItem("Yoga", "/category/index.jsp?categoryId=710961&cp=865334&clickid=hmp_womensdrop_18");		
+	var menu11 = ms.addMenu(document.getElementById("womens"));menu11.addItem("Apparel", "/category/index.jsp?categoryId=1312350&cp=865334&clickid=hmp_womensdrop_1");menu11.addItem("Cycling", "/category/index.jsp?categoryId=1241115&cp=865334&clickid=hmp_womensdrop_2");menu11.addItem("Fan Shop", "/category/index.jsp?categoryId=1443387&cp=865334&clickid=hmp_womensdrop_3");menu11.addItem("Footwear", "/category/index.jsp?categoryId=766040&cp=865334&clickid=hmp_womensdrop_4");menu11.addItem("Golf", "/category/index.jsp?categoryId=1443382&cp=865334&clickid=hmp_womensdrop_5");menu11.addItem("Gym", "/category/index.jsp?categoryId=1443377&cp=865334&clickid=hmp_womensdrop_6");menu11.addItem("Mom To Be", "/category/index.jsp?categoryId=1443383&cp=865334&clickid=hmp_womensdrop_7");menu11.addItem("Outdoor Sports", "/category/index.jsp?categoryId=1443380&cp=865334&clickid=hmp_womensdrop_8");menu11.addItem("Pilates", "/category/index.jsp?categoryId=1985141&cp=865334&clickid=hmp_womensdrop_9");menu11.addItem("Plus Size", "/category/index.jsp?categoryId=1450517&cp=865334&clickid=hmp_womensdrop_10");menu11.addItem("Running/Walking", "/category/index.jsp?categoryId=1443376&cp=865334&clickid=hmp_womensdrop_11");menu11.addItem("Snow Sports", "/category/index.jsp?categoryId=1447047&cp=865334&clickid=hmp_womensdrop_12");menu11.addItem("Team Sports", "/category/index.jsp?categoryId=1443381&cp=865334&clickid=hmp_womensdrop_13");menu11.addItem("Tennis", "/category/index.jsp?categoryId=1443375&cp=865334&clickid=hmp_womensdrop_14");menu11.addItem("Water Sports", "/category/index.jsp?categoryId=1450433&cp=865334&clickid=hmp_womensdrop_15");menu11.addItem("Weekend Gear", "/category/index.jsp?categoryId=1241161&cp=865334&clickid=hmp_womensdrop_16");menu11.addItem("Yoga", "/category/index.jsp?categoryId=710961&cp=865334&clickid=hmp_womensdrop_17");		
 
 	//==================================================================================================
 	
@@ -370,8 +381,6 @@ menu4.addItem("Wrestling","/category/index.jsp?categoryId=979690&cp=2057779&clic
 					<td><img src="../images/pixel.gif" width="5"></td>
 				</tr>
 				
-				
-				
 			</tbody></table>
 		</td>
 		<td>
@@ -509,7 +518,9 @@ menu4.addItem("Wrestling","/category/index.jsp?categoryId=979690&cp=2057779&clic
 
 				<!-- display is safety -->
 				<!-- section is privacy -->
+			 	<!-- Begin - Condition added for white space under PMO 40510-->
 			 	<br><br>
+				<!-- End - Condition added for white space under PMO 40510-->
 				</td>
 					
 			</tr>
@@ -607,6 +618,7 @@ function valForm(frm)
 						<span style="padding-top:5px;"><img src="http://TSA.imageg.net/images/footer_bullet.gif" width="6" height="6" alt="" border="0">&nbsp;<a href="/corp/index.jsp?page=storeLocator&amp;clickid=botnav_locator_txt" class="footertext">Store Locator</a></span><br>
 					</td>
 					<td width="120" valign="top" style="padding:13px 0 0 17px;" nowrap="">
+						<span style="padding-top:5px;"><img src="http://TSA.imageg.net/images/footer_bullet.gif" width="6" height="6" alt="" border="0">&nbsp;<a href="/groupsales/index.jsp?clickid=botnav_groupsales_txt" class="footertext">Group Sales</a></span><br>					
 						<span style="padding-top:5px;"><img src="http://TSA.imageg.net/images/footer_bullet.gif" width="6" height="6" alt="" border="0">&nbsp;<a href="/sitemap/index.jsp?clickid=botnav_sitemap_txt" class="footertext">Site Map</a></span><br>
 					</td>
 				</tr>
@@ -624,7 +636,7 @@ function valForm(frm)
 				</tr><tr>
 					<td colspan="3" class="footertext" style="padding-left:17px;">
 
-						©1999&nbsp;-&nbsp;2005&nbsp;&nbsp;*List price is for reference only.  No sales may have occurred at this price.&nbsp;**See product page for details.&nbsp;The products available through www.sportsauthority.com may vary from those appearing in Sports Authority stores. Contact your local store for specific product information.<br>
+						©1999&nbsp;-&nbsp;2006&nbsp;&nbsp;*List price is for reference only.  No sales may have occurred at this price.&nbsp;**See product page for details.&nbsp;The products available through www.sportsauthority.com may vary from those appearing in Sports Authority stores. Contact your local store for specific product information.<br>
 						<br><a href="javascript:void(window.open('../helpdesk/availabilityPop.jsp','promo','width=350,height=170,scrollbars=yes,resizable=no'))" class="footertext">Product Availability and Price</a>
 					</td>
 				</tr>
@@ -644,7 +656,7 @@ function valForm(frm)
 <!--/* You may give each page an identifying name, server, and channel on the next lines. */
 /* Custom Insight Variables */
 var s_pageName="helpdesk/index.jsp - safety - privacy" //Page Naming Convention
-var s_server="ashprd_webstore_ashprdapp04_1"
+var s_server="ashprd_webstore_ashprdapp01_2"
 var s_channel="Help Desk" //Global Category
 var s_pageType="" //Error Page (if applicable) 
 var s_prop1="" //Category Level 1
@@ -696,12 +708,17 @@ var s_eVar20="" //User ID
 /* Hierarchy Variables */
 var s_hier1="" //Breadcrumb path
 /********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************///-->
-</script><script language="JavaScript" src="/include/s_code_remote.js"></script><img name="s_i_gsictsa" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/gsictsa/1/G.7-Pd-R/s22628814412323?[AQB]&amp;ndh=1&amp;t=19/1/2020%2013%3A38%3A3%203%200&amp;pageName=helpdesk/index.jsp%20-%20safety%20-%20privacy&amp;g=https%3A//web.archive.org/web/20051212003701id_/http%3A//www.sportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt&amp;ch=Help%20Desk&amp;server=ashprd_webstore_ashprdapp04_1&amp;cc=USD&amp;v5=botnav_privacy_txt&amp;c13=botnav_privacy_txt&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+</script><script language="JavaScript" src="/include/s_code_remote.js"></script><img name="s_i_gsictsa" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/gsictsa/1/G.7-Pd-R/s23282559049457?[AQB]&amp;ndh=1&amp;t=19/1/2020%2013%3A38%3A0%203%200&amp;pageName=helpdesk/index.jsp%20-%20safety%20-%20privacy&amp;g=https%3A//web.archive.org/web/20060625194422id_/http%253A//www.sportsauthority.com/helpdesk/index.jsp%253Fdisplay%253Dsafety%2526subdisplay%253Dprivacy%2526clickid%253Dbotnav_privacy_txt&amp;ch=Help%20Desk&amp;server=ashprd_webstore_ashprdapp01_2&amp;cc=USD&amp;v5=botnav_privacy_txt&amp;c13=botnav_privacy_txt&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <!-- End SiteCatalyst code version: G.6. -->
 
 
 
 
+
+<!-- Start of New Pixel File -->
+
+
+<!-- End of New Pixel File -->
 
 	
 
