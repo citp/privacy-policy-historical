@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the downloadsquad.com privacy policy that was archived on 2005-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051001083728id_/http%3A//www.weblogsinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadsquad.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625232240id_/http%3A//www.weblogsinc.com/privacy) for the most accurate reproduction.*
 
-# Weblogs, Inc. Home Page - www.weblogsinc.com _
+# Weblogs, Inc.
 
 ## Weblogs, Inc. Privacy Statement
 
@@ -51,14 +51,3 @@ When Weblogs, Inc. makes changes to this privacy policy we will post those chang
 ## Contact Information
 
 If you have any questions regarding our privacy policy, please [contact us](https://web.archive.org/contact/).
-
-**Weblogs, Inc.**  
-2200 Colorado Avenue, Suite 729  
-Santa Monica, CA 90404  
-Phone: 310-828-8284  
-Fax: 310-861-0600
-
-**Weblogs, Inc.**  
-The Chrysler Building  
-132 East 43rd Street, Suite 1000  
-New York, New York 10017
