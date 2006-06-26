@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yotatech.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218223343id_/http%3A//www.yotatech.com/%7Ecorey/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotatech.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626040740id_/http%3A//www.yotatech.com/%7Ecorey/privacy.htm) for the most accurate reproduction.*
 
 # YotaTech Privacy Statement
 
