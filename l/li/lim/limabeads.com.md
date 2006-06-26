@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limabeads.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218154459id_/http%3A//www.limabeads.com/IsisTrade.php/view%7E/site/PrivacyPolicyView) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limabeads.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626190318id_/http%3A//www.limabeads.com/IsisTrade.php/view%7E/site/PrivacyPolicyView) for the most accurate reproduction.*
 
 # Lima Beads: Gemstone Beads - Semi precious gemstone beads. Huge selection including faceted, round, rondelle, pendants, and more
 
