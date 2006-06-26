@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the theonlinearticleplace.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231163340id_/http%3A//www.theonlinearticleplace.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonlinearticleplace.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626063643id_/http%3A//theonlinearticleplace.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy TheOnlineArticlePlace
+
+  
+[](http://www.ideal-article-submitter.com/)
 
 TheOnlineArticlePlace.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
