@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homechannelnews.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225183326id_/http%3A//www.homechannelnews.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homechannelnews.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626174035id_/http%3A//www.homechannelnews.com/privacy.cfm) for the most accurate reproduction.*
 
 # Home Channel News - Privacy Policy
 
