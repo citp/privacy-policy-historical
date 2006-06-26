@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219093528id_/http%3A//www.schwans.com/customerService/customerServicePrivacy.aspx%3Ftb%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwans.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626201128id_/http%3A//www.schwans.com/customerService/customerServicePrivacy.aspx%3Ftb%3D6) for the most accurate reproduction.*
 
 # Privacy Policy
 
