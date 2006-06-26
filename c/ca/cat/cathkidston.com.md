@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the cathkidston.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001181144id_/http%3A//cathkidston.com/ppolicy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cathkidston.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626143059id_/http%3A//www.cathkidston.com/privacy.phtml) for the most accurate reproduction.*
 
-# 
+# cath kidston
 
-The following provides details about our Privacy Policy. In general, we use the personal information and other data that we collect from you and process to fulfil orders, identify personal preferences and match your needs with relevant products and services provided by us. Should we, for any reason, elect to change our Policy, we will notify you of those changes here, so that you are always kept informed of how we collect and use the information. When you order a product from us, you will need to input your name, e-mail address, delivery address, credit or debit card number and start and expiry dates. Sometimes we may ask for your telephone number. This number may be given to our couriers. These details allow us to process your orders and to let you know the status of your order. 
+The following provides details about our Privacy Policy. In general, we use the personal information and other data that we collect from you and process to fulfil orders, identify personal preferences and match your needs with relevant products and services provided by us. Should we, for any reason, elect to change our Policy, we will notify you of those changes here, so that you are always kept informed of how we collect and use the information. When you order a product from us, you will need to input your name, e-mail address, delivery address, credit or debit card number and start and expiry dates. Sometimes we may ask for your telephone number. This number may be given to our couriers. These details allow us to process your orders and to let you know the status of your order
+
+Please be assured that we consider all the information you share with us totally private and confidential. At no point will we share, rent or sell your personal information without your consent. 
 
 How Do We Protect Your Information? 
 
@@ -12,6 +14,9 @@ Cookies
 
 A cookie is a piece of information that is stored on your computer's hard drive by your web browser. Cookies are used on this shopping site, but only to keep track of the contents of your shopping cart once you have selected an item. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use most of the features of our web site. Cath Kidston do not disclose buyers information to third parties.
 
-Customer Feedback and Complaints 
+Customer Feedback and Complaints  
 
-We welcome your questions and comments about privacy issues please e-mail [webmaster@cathkidston.co.uk](mailto:webmaster@cathkidston.co.uk)
+
+We welcome your questions and comments about privacy issues please e-mail 
+
+[webmaster@cathkidston.com](mailto:webmaster@cathkidston.com)
