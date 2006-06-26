@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iusd.org privacy policy that was archived on 2005-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051208052926id_/http%3A//www.iusd.org/bdpolicy/policies/3140.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iusd.org privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626152919id_/http%3A//www.iusd.org/bdpolicy/policies/3140.htm) for the most accurate reproduction.*
 
 # Board Policy 3140: Internet Privacy Policy
 
@@ -41,7 +41,7 @@
 >     * members of the California Interscholastic Federation (CIF)
 >   * Limited directory information may be shared as listed below unless the parent requests in writing that such information be kept confidential.
 >     * Name, address, and telephone number of high school juniors and seniors may be released to federal, state, and local government agencies and the military forces of the United States, public and private trade or professional schools.
->     * Name, parent name, school, birth date, grade level, address, and telephone numbers of pupils may be released to school-affiliated organizations, such as PTA, booster clubs, __ Irvine Public Schools Foundation, alumni associations _,_ and local law enforcement or public safety agencies.
+>     * Name, parent name, school, birth date, grade level, address and telephone numbers of pupils may be released to school-affiliated organizations, such as PTA, booster clubs, __ Irvine Public Schools Foundation, alumni associations _,_ and local law enforcement or public safety agencies.
 >     * Name, address, and age, as well as height and weight, of pupils participating in athletics and other school activities and pupils receiving scholastic or other honors and awards may be released to press, television, radio, or other news organizations, and the California Interscholastic Federation.
 >     * Other provisions of the law permit access to non-directory information in pupil records without parental consent, or student 18-years-of-age-or-over consent to the following:
 >       * school and district personnel with legitimate educational interest, as defined in district policy
