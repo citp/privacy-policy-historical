@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ambest.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221093016id_/http%3A//www.ambest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambest.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626041603id_/http%3A//www.ambest.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 Privacy Statement  
- _Last Updated September 27, 2002_
+ _Last Reviewed June 22, 2006_
 
 Protecting your privacy is an important issue to the A.M. Best Company. This privacy statement is not intended to replace, alter or modify terms in any existing license agreement between A.M. Best Company and/or its subsidiaries (collectively "A.M. Best") and a Licensee of products or services. In the event of an inconsistency between this privacy statement and an existing agreement, the license agreement shall remain in control unless specific written permission is obtained from A.M. Best.
 
@@ -80,3 +80,5 @@ If a user's personally identifiable information changes (such as zip code, phone
 
 **Contact Information**  
 If users have any questions or suggestions regarding our Privacy Policy, please contact us at [webmaster@ambest.com](mailto:webmaster@ambest.com).
+
+* * *
