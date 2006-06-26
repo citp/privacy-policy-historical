@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227014737id_/http%3A//www.guttmacher.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626181050id_/http%3A//guttmacher.org/about/privacy.html) for the most accurate reproduction.*
 
 # Guttmacher Institute: Privacy Policy
 
@@ -40,7 +40,7 @@ Consistent with Guttmacher Institute's overall privacy policy, the email address
 
 "IntelliContact will not send email messages on its own behalf to any of its client's subscriber lists at any time."
 
-Subscribers may remove themselves from any or all AGI email lists at any time by clicking on the "Manage your subscription" link at the bottom of a message.
+Subscribers may remove themselves from any or all Guttmacher Institute email lists at any time by clicking on the "Manage your subscription" link at the bottom of a message.
 
 AGI is doing its absolute best to protect your privacy while providing you with the most useful and timely information. If you have any questions or concerns regarding our privacy policy, please contact [info@guttmacher.org](mailto:info@guttmacher.org).
 
