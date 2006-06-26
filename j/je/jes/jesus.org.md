@@ -1,62 +1,66 @@
-> *The following text is extracted and transformed from the jesus.org privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123084606id_/http%3A//www.jesus.org/audiohelp/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesus.org privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626022623id_/http%3A//www.christianity.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
 
-# Crosswalk.com
+# christianity.com :: your portal to the christian web.
 
-Respecting Your Rights **The privacy policy below explains in detail how we collect and use information about our users. We take your privacy very seriously. We won't rent, sell, or loan any information about you. We only provide information in aggregate to our advertisers -- never individual information. You're safe with us.**   
+At Christianity.com we strive to bring you the most compelling Christian audio content available on the Internet. It is our goal to keep you, the listeners, completely satisfied with our site and what we have to offer. In order to keep up with the most current developments in the Christian community, we may occasionally need to disclose information about our listeners to select third-party vendors. Accordingly, what follows is a description of how we use the information we collect about you (collectively "Your Information").
 
+Information Disclosure   
+Christianity.com reserves the right to provide aggregate statistics about our customers, traffic patterns, and related site information to third-party vendors. Generally, these statistics will include no personal identifying information. Christianity.com may also release Your Information when we believe, in good faith, that such release is reasonably necessary to (i) comply with the law and law enforcement officials, (ii) enforce or apply the terms of our Terms of Use, or (iii) protect the rights, property, or safety of Christianity.com, our users, or others. Also, some or all of Your Information may be turned over to third-party vendors who assist us in fulfilling some of the functions of this Web site. Finally, we may provide Your Information to third parties if you authorize us to do so. 
 
-* * *
+Required Information   
+When you sign up for our Christianity.com email newsletter, we require your email address. This allows us to send the newsletter and notify you about changes and/or upgrades to our site. We may also use this information for basic research and development related to our site. Occasionally Christianity.com will pass this list to select vendors who we trust to provide products or services that may be of interest to our audience.
 
-Crosswalk.com takes your trust - and your right to privacy - very seriously. The following privacy policy outlines for your review the type of information we gather - and how we use it - from members, registered users and visitors of www.crosswalk.com and related areas (email newsletters, job search applications, and so on). 
+Voluntary Information
 
-**Crosswalk.com gathers two types of information:**
+**Special Offers**   
+From time-to-time, Christianity.com, its affiliated ministries and/or its affiliated radio stations are able to provide to you special offers of products and services. In the course of providing these offerings it is necessary to gather personally identifiable information such as your name, age, email address and telephone number. Your acceptance of these offers is completely voluntary, but if you do not correctly enter any information required, you may not receive the product or service offered. We may use this information: 
 
-  1. Registration data, which you provide directly in order to receive optional access to certain services or site areas and which may or may not require both demographic information (name, email address, zip code, age, and so on) and preference information (username, password, desired newsletters, and so on),   
-
-  2. Usage information, which is automatically provided by each user's browser for each page requested on our site (commonly referred to as web site log data).
-
-Registration Data   
-This data is analyzed and presented as appropriate to third parties such as advertisers only in an aggregate form, primarily for the purpose of supporting the free provision of content and services at crosswalk.com via the most appropriate and relevant advertising messaging possible. Select partners who provide individualized services such as CCNmail or Financial Passport to crosswalk.com users receive individual data as necessary to provide their services and only when such data is provided directly by our users. Crosswalk.com and said partners may only disclose to other third parties certain aggregate information contained in users' registration applications. Neither crosswalk.com nor partners will disclose any individual user's name, address, e-mail address or telephone number without such user's prior consent, except to the extent necessary or appropriate to comply with applicable laws or in legal proceedings where such information is relevant. 
-
-Crosswalk.com does not knowingly accept or use personal profile information from children 12 years old or younger. 
-
-Usage (Log) Data   
-We gather and analyze users' current Internet Protocol (IP) addresses -- an address typically assigned to individual browsers by your Internet Service Provider (ISP) -- to help with a variety of site management issues, none of which allow us to connect your IP address with your personal identity. For example, we use log data to: 
-
-  
-
-  * diagnose problems with our server,   
-
-  * evaluate the sources of our user traffic (ie. where site visitors clicked from to reach us),   
-
-  * determine traffic patterns through our site (to build better internal links and improve your ability to find what you want),   
-
-  * understand and optimize our site for the broadest selection of browser types (again, to improve your experience).
-
-Cookies   
-Our site uses cookies to improve our general recognition of repeat visitors and to simplify your experience while you're visiting us. Cookies are electronic "tags" we place on your browser to help our servers recognize you; while you're on our site, cookies help insure things like:   
+  * To ensure proper delivery of the product or service 
+  * To view statistics and conduct basic research 
+  * To send you information about Christianity.com 
+  * To give to select ministries on our site, who may send you promotional material 
+  * To give to select radio stations, who may send you promotional material 
+  * To give to our advertisers, who may send you information about their products and services 
 
 
-  * you don't see the same ads repeatedly,   
 
-  * you can get customized (ie. selected by you) information without having to ask for it every visit,   
+Contests and Sweepstakes   
+Christianity.com runs occasional contests and sweepstakes, in which we ask for personally identifiable information such as your name, age, email address, and telephone number. We may also request additional optional information such as gender, marital status, and income level. These contests are completely voluntary, and information given may be entered upon the discretion of the entrant. We may then use this information:
 
-  * you only have to log-in once - when it's even necessary - when you visit certain "members-only" areas,   
+  * To determine contest eligibility 
+  * To notify winners 
+  * To view statistics and conduct basic research 
+  * To send you information about Christianity.com 
+  * To give to select ministries on our site, who may send you promotional material 
+  * To give to our advertisers, who may send you information about their products and services 
 
-  * and so on.
 
-  
-Occasionally, our advertisers will also place cookies on your browser when you click on their ads from our site. This enables them to track the effectiveness of their ads. In most cases, cookies will only be placed when the ad is served to the page you're viewing. In no case will any advertiser receive specific registration data for any user as a result of cookies or any other agreement with crosswalk.com without your prior explicit consent. (note: accepting a cookie does not constitute consent for providing personal registration data). 
 
-Finally, cookies provide us with no information about who you are or where you go on the Internet when you are not at our site. 
+**Confirmed Opt-In**   
+Christianity.com acquires no personal or registration data about our users except what you explicitly and voluntarily provide (ie. opt-in). We reserve the right to use this information specifically for the purposes related to your registration and generally for any necessary future communication regarding your registration or status.
 
-Opt-In   
-Crosswalk.com acquires no personal or registration data about our users except what you explicitly and voluntarily provide (ie. opt-in). We reserve the right to use this information specifically for the purposes related to your registration and generally for any necessary future communication regarding your registration or status. 
+As part of your free subscription, from time to time we will deliver messages from our ministry and advertising partners that we believe would be of specific interest to you. If you would prefer not to receive these occasional messages we will discontinue them at your request.
 
-As part of your free subscription, from time to time we will deliver messages from our ministry and advertising partners that we believe would be of specific interest to you. If you would prefer not to receive these occasional messages we will discontinue them at your request. 
+What about Cookies?   
+"Cookies" are small pieces of information that are stored by your Web browser on your computer's hard drive. Occasionally our Web site may place cookies on your computer's hard drive, however, our cookies do not contain any personally identifying information. Most Web browsers automatically accept cookies, but it is possible to adjust your browser to prevent that from happening.
 
-Correcting and updating   
-User registration data can be corrected or updated by e-mailing our members services at registrar@crosswalk.com. Delete/Deactivate   
-To delete or deactivate an account, a user must send an email from the original email address that created the account to registrar@crosswalk.com and ask to be removed from our database.  |    
-  
+Links to Other Sites   
+When you visit Christianity.com you may be linked to other outside sites such as sites operated by advertisers, sponsors, and partners, which may use Christianity.com's logo as part of an agreement with Christianity.com. These other sites may send their own cookies to users, collect data, or solicit personal information. Consequently, these sites are not subject to the Christianity.com Privacy Policy and Christianity.com is not responsible for the privacy policies of these other sites, nor for the use of any information these sites may collect.
 
+Children's Privacy   
+Naturally the safety of children is very important to us. Christianity.com will not knowingly accept personal information from children under the age of 13 without obtaining parental consent. Such consent may be given when a parent fills out and signs the  [Christianity Parental Consent Form](https://web.archive.org/AboutUs/ParentalConsentForm.aspx), and then returns the form via United States mail or facsimile.
+
+If a parent wishes to refuse to permit collection or use of their child's information by Christianity.com, that parent can send an email to [portal@christianity.com](mailto:portal@christianity.com) to request deletion of their child's account.
+
+If you have any questions or comments regarding children's privacy at Christianity.com, please contact: 
+
+Director of Christianity.com   
+9401 Courthouse Road, Suite 300   
+Chesterfield, VA 23832   
+
+
+Your Consent   
+By using our Web site, you consent to the collection and use of Your Information by Christianity.com as set forth in this Privacy Policy. Christianity.com may at any time amend, modify, restate, or revise this Privacy Policy. We advise you to periodically visit this page to determine the current Privacy Policy that is in effect.
+
+Tell Us What You Think   
+We welcome your questions and comments about privacy. Please send a message via email to: [portal@christianity.com](mailto:portal@christianity.com). 
