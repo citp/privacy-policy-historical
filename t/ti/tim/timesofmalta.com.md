@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesofmalta.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231091927id_/http%3A//timesofmalta.com/core/document.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesofmalta.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626154319id_/http%3A//timesofmalta.com/core/document.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # The Times & The Sunday Times, Malta
 
