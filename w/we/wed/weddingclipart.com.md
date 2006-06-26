@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingclipart.com privacy policy that was archived on 2005-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051026201352id_/http%3A//weddingclipart.com/wca/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingclipart.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626065548id_/http%3A//weddingclipart.com/wca/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # Wedding Clipart: Clipart Images for Wedding Invitations
 
