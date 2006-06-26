@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adriatic.hr privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219165424id_/http%3A//www.adriatic.hr/zastita_privatnosti.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adriatic.hr privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626140719id_/http%3A//www.adriatic.hr/zastita_privatnosti.php) for the most accurate reproduction.*
 
 # Adriatic.hr - Privacy statement
 
