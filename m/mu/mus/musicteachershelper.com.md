@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musicteachershelper.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228080146id_/http%3A//www.musicteachershelper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicteachershelper.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626173816id_/http%3A//www.musicteachershelper.com/privacy) for the most accurate reproduction.*
 
-# Music Teacher's Helper is the Easiest Way to Manage your Private Music Studio
+# Music Teacher's Helper is the Easiest Way to Manage your Teaching Studio
 
 ## Your Privacy
 
@@ -8,7 +8,7 @@ Music Teacher's Helper is committed to protecting your privacy online. Our pledg
 
 ### Collecting and Using Your Information
 
-When you sign up with us, we ask for your name and email address. Music Teacher's Helper will not sell, exchange, or give your personal information collected online to a third party. We do not wish you send you any unwanted email, and have tried to make it easy for you to unsubscribe from any service you have requested. If you are receiving email announcements of our new features and updates, and wish to stop receiving them, you can reply to the email with the word "unsubscribe" in the text. 
+When you sign up with us, we ask for your name and email address. Music Teacher's Helper will not sell, exchange, or give your personal information collected online to a third party. We do not wish to send you any unwanted email, and have tried to make it easy for you to unsubscribe from any service you have requested. If you are receiving email announcements of our new features and updates, and wish to stop receiving them, you can reply to the email with the word "unsubscribe" in the text. 
 
 ### How We Recognize You
 
@@ -16,8 +16,8 @@ In general, you can visit Music Teacher's Helper.com without revealing any infor
 
 ### Cookies
 
-Cookies enhance your experience on certain parts of Music Teacher's Helper.com. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. Most browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can use most of the features of our site. 
+Cookies enhance your experience on certain parts of Music Teacher's Helper.com. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. Most browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can use most of the features of our site. Although session cookies are required to login to your account. 
 
 ### Send Us Your Feedback
 
-If you have concerns about your privacy with the Music Teacher's Helper Web site, please tell us by submitting an email to [support@musicteachershelper.com](mailto:support@musicteacherselper.com). We will make every reasonable effort to address your concerns. 
+If you have concerns about your privacy with the Music Teacher's Helper Web site, please tell us by submitting an email to support at music teachers helper dot com. We will make every reasonable effort to address your concerns. 
