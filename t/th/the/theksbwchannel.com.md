@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the theksbwchannel.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206134136id_/http%3A//www.theksbwchannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theksbwchannel.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626020933id_/http%3A//www.theksbwchannel.com/privacy) for the most accurate reproduction.*
 
 # TheKSBWChannel.com - Privacy
-
-  
-
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.TheKSBWChannel.com](http://www.theksbwchannel.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
 
