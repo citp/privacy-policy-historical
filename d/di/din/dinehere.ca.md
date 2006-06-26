@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinehere.ca privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227015240id_/http%3A//www.dinehere.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinehere.ca privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626075620id_/http%3A//dinehere.ca/privacy.asp) for the most accurate reproduction.*
 
 # dinehere.ca Privacy Policy
 
@@ -28,7 +28,7 @@ You may choose to provide us with personal information, as in e-mail with a comm
 
 To save you logging in every time you visit our web site, we place a little text file called a "cookie" on your hard drive.
 
-A cookie lets us store your profile information on your computer and let's our web site retrieve it when you visit our site. No other web site can use or view the cookie set by Metasun Software.
+A cookie lets us store your profile information on your computer and let's our web site retrieve it when you visit our site. No other web site can use or view the cookie set by us.
 
 ## Please Have Your Cookies Turned On
 
