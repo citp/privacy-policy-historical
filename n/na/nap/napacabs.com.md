@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napacabs.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222024551id_/http%3A//www.wine-club-central.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napacabs.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627115954id_/http%3A//wine-club-central.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at NapaCabs.com
 
