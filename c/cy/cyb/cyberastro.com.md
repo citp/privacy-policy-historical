@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212144736id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627071927id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
 
 # Free Indian Astrology Sites : Cyber Astro
 
@@ -114,5 +114,3 @@ Sector 32
 Gurgaon 122 002  
 Haryana  
 India
-
-gautam@ cyberastro.com
