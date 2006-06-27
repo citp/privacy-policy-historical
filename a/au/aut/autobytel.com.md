@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230013607id_/http%3A//www.autobytel.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627024734id_/http%3A//www.autobytel.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+PRIVACY POLICY
+
 **AUTOBYTEL CONSUMER PRIVACY AND SECURITY POLICY**
 
-**Date Last Revised: 09/13/2005**
+ **Date Last Revised: 6/20/2006**
 
 Autobytel Inc. ("Autobytel") understands your concern with privacy and the use of your personal information. Whether you submit a purchase request for a vehicle or simply browse through our website, we assure you that we are committed to protecting your personal privacy. 
 
@@ -34,7 +36,7 @@ Collected information is used to improve the content of our website, customize t
 
 **Personalization**
 
-Autobytel offers its users the advantage of personalization on our website by using cookies. (See Cookies below.) Personalized services are offered in designated areas of our website to users who register with us. Examples of personalization include providing information when prompted for services, the saving of favorite vehicle information in "My Garage," the recordation of used vehicle searches for easy updates, and the provision of service reminders and recall information for those users who request these options. 
+Autobytel offers its users the advantage of personalization on our website by using cookies. (See Cookies below.) Personalized services are offered in designated areas of our website to users who register with us. Examples of personalization include providing information when prompted for services, the saving of favorite vehicle information in "My Garage", the recordation of used vehicle searches for easy updates, and the provision of service reminders and recall information for those users who request these options. 
 
 Autobytel may track consumer interest in goods and services marketed to users who are members of the on-site personalization area. This information is used solely by Autobytel and its affiliated companies for business purposes. 
 
@@ -48,7 +50,7 @@ Similarly, Purchase Request or Finance Information transmitted to a dealer, manu
 
 **Other Uses**
 
-We also share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We also may aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. 
+We also share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We also may aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade, or rent your personal information to third parties for unknown reasons. 
 
 **Special Sections of Our Site**
 
@@ -66,15 +68,15 @@ In addition to our own internal uses of your information, we may provide your pe
   * To our advertiser clients solely to assess the effectiveness of ad campaigns we have provided for them; 
   * To contractors or service providers who may provide services or perform functions on our behalf, in which case those service providers may use your information only for the purposes provided and not disclose it to any third party except upon our direction; 
   * To enforce our rights or as required by law or order of a court or government agency; and 
-  * On occasion, unless you opt-out (as described below), to other third parties who may wish to send you e-mails or postal communications regarding services or products that you may find of interest. 
+  * On occasion, unless you opt-out (as described below), to other third parties who may wish to send you e-mails regarding services or products that you may find of interest or for other reasons that are disclosed to us and that we believe to be appropriate and consistent with our commitment to prevent abuse of your personal information. 
 
 
 
 **4\. Your Right To Opt Out of Communications From Us and Others**
 
-You always have the option of removing yourself from further marketing contact from us. If at any time you choose to opt out of any category of email, you can click on the remove link at the bottom of the e-mail. Alternatively, you may email Customer Service at consumercare@autobytel.com with the word "Remove" in the subject line and we will remove you from all further email and postal mail marketing communication within 5 business days. You may also opt-out at any time by [clicking here](https://web.archive.org/content/home/index.cfm?action=updateProfile)
+You always have the option of removing yourself from further marketing contact from us. If at any time you choose to opt out of any category of email, you can click on the remove link at the bottom of the e-mail. Alternatively, you may email Customer Service at consumercare@autobytel.com with the word "Remove" in the subject line and we will remove you from all further email and postal mail marketing communication within 5 business days. You may also opt-out at any time by [clicking here](https://web.archive.org/content/home/index.cfm?action=updateProfile). 
 
-In addition, those consumers who submit a purchase request or financing request to us are given the opportunity at the time they provide their information to decide what types of offerings of products or services they wish to receive or to opt-out. You may update those preferences at any time by clicking here. 
+In addition, those consumers who submit a purchase request or financing request to us are given the opportunity at the time they provide their information to decide what types of offerings of products or services they wish to receive or to opt-out. You may update those preferences at any time by [clicking here](https://web.archive.org/content/home/index.cfm?action=updateProfile). 
 
 In each case, even if you decide not to receive offers or other product or service information, Autobytel and its member dealers may use a phone number or email address that you have provided to contact you regarding your purchase request for a vehicle. Additionally, phone numbers may be used to conduct customer surveys regarding individual experiences with Autobytel-accredited dealers. Phone numbers are made available only to Autobytel, its affiliates and member dealers, lenders or manufacturers who receive your purchase request. 
 
@@ -104,14 +106,32 @@ We also place "web beacons" on the website on behalf of third parties. A web bea
 
 **8\. Changes or Revisions to This Policy**
 
-If we are going to use your personally identifying information in a manner different from that stated in our privacy policy at the time of collection, we will notify you via email. You will have a choice as to whether or not to allow us to use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+If we are going to use your personally identifying information in a manner different from that stated in our privacy policy at the time of collection, we will notify you via email. You will have a choice as to whether or not to allow us to use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will revise this policy and update the date displayed at the top of this policy to reflect that the policy has been changed. In some cases we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
 In the event Autobytel or its assets are acquired, such as through merger, acquisition or similar event, resulting in a change in ultimate control over customers' personal information (other than through an internal corporate reorganization or similar transaction), customers will be notified promptly of such change. We will make reasonable efforts to ensure that the acquirer of our customers' personal information respects the provisions of this privacy policy, although this may not be possible in certain legal settings (such as bankruptcy). 
 
 **9\. Questions or Concerns?**
 
-If you have any questions or concerns regarding privacy, security, opting-out of e-mail offers or understanding how your personal information is being used, please contact our Consumer Privacy Advocate at ABTPrivacy@autobytel.com. If you do not receive acknowledgment of your inquiry in a prompt fashion or within 10 days, or your inquiry has not been satisfactorily addressed, you may [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have any questions or concerns regarding privacy, security, opting-out of e-mail offers or understanding how your personal information is being used, please contact our Consumer Privacy Advocate at ABTPrivacy@autobytel.com. If you do not receive acknowledgment of your inquiry in a prompt fashion or within 10 days, or your inquiry has not been satisfactorily addressed, you may [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. NOTHING IN THIS PRIVACY AND SECURITY POLICY IS INTENDED TO CREATE OR PROVIDE ANY RIGHT OF ACTION FOR VIOLATION. THE SOLE REMEDY PROVIDED TO YOU IF YOU THINK YOUR RIGHTS UNDER THIS POLICY HAVE BEEN VIOLATED IS TO SEEK REDRESS THROUGH TRUSTE. 
 
 For any other issues, please contact our customer service department at consumercare@autobytel.com. Our mailing address is: 18872 MacArthur Boulevard, Irvine, CA 92612-1400. 
 
-For the Autobytel Usage Terms and Conditions please [click here](https://web.archive.org/content/home/help/index.cfm/action/terms). 
+For the Autobytel Usage Terms and Disclaimers please [click here](https://web.archive.org/content/home/help/index.cfm/action/terms). 
+
+|  | 
+
+[ ]()
+
+A D V E R T I S E M E N T 
+
+  
+  
+  
+|  | **CUSTOMER FEEDBACK**  
+---|---  
+|  **Why our customers love our dealers...**  
+"They followed up in what I thought was a timely manner and delivered what I felt was honest information." 
+
+_\- Doug F. (Dayton, Kentucky)_
+
+» [Read More Testimonials](https://web.archive.org/content/research/comments/index.cfm)
