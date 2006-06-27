@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210040018id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627035223id_/http%3A//www.artfact.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
 # ARTFACT : Your Complete Resource to Research, Price and Find Antiques & Art
 
 **ARTFACT PRIVACY POLICY**
 
-Artfact, Inc. (“Artfact”) is a Rhode Island Corporation whose controlling stockholder is ACK Software LLC (“ACK”), a Delaware Limited Liability Company based in Cambridge, Massachusetts.  Artfact and ACK provide database and software services to parties who participate in, or have an interest in the antiques, art, and traditional auction markets.
+Artfact, LLC (“Artfact”) is a Delaware Limited Liability Company based in Newton, Massachusetts.  Artfact provides database and software services to parties who participate in, or have an interest in the antiques, art, and traditional auction markets.
 
 Our policies have been developed with the recognition that Internet technologies and underlying business models are rapidly evolving.  Accordingly, our policies are subject to change. Any such changes will be posted on this page. If the changes represent a material departure from our current practices with respect to the use of personal information, the changes will be posted on this page thirty days prior to taking effect, and registered users will be notified as appropriate.
 
@@ -46,7 +46,7 @@ The help function on most browsers contains information on how to set your brows
 
 **2) HOW YOUR INFORMATION WILL BE USED**
 
-ACK Software uses personally identifiable information in a limited number of ways, in general falling into the following categories:
+Artfact uses personally identifiable information in a limited number of ways, in general falling into the following categories:
 
 _Usage Tracking for Business Development and Management_
 
@@ -60,7 +60,7 @@ As a service to auction houses, we keep track of communications between register
 
 _Subscription Billing_
 
-We charge fees for using our subscription level services. At present, these are Artfact Basic, Artfact Premium, and Artfact Professional subscriptions. To enable the purchase of these products, ACK Software collects and stores billing and credit card information. This information will be shared only with third parties who perform tasks required to complete the purchase transaction. Examples of such tasks include processing credit card payments for new subscriptions, subscription renewals and subscription upgrades. Please see Protection of Your Information for other relevant information.
+We charge fees for using our subscription level services. At present, these are Artfact Basic, Artfact Premium, and Artfact Professional subscriptions. To enable the purchase of these products, Artfact collects and stores billing and credit card information. This information will be shared only with third parties who perform tasks required to complete the purchase transaction. Examples of such tasks include processing credit card payments for new subscriptions, subscription renewals and subscription upgrades. Please see Protection of Your Information for other relevant information.
 
 You may view your entire transaction history, review each invoice processed, and review or update your Credit Card information through the secure Manage Account page.
 
@@ -116,12 +116,12 @@ As a dynamic and growing Site, ArtFact may contain links to other sites that are
 
 If you feel that we have not followed our privacy policy, or if you have any questions or concerns about the Artfact Privacy Policy or its implementation, please contact us by email at: [Bpeverill@artfact.com](mailto:bpeverill@artfact.com), or by mail at: 
 
-ACK Software LLC
+Artfact, LLC
 
 Attention: William M. Peverill
 
-2 Canal Park; 5th floor
+2 Newton Place 
 
-Cambridge, MA 02141.
+Newton, MA 02458.
 
-This policy document 1.30 was last revised September 25, 2004.
+This policy document 1.50 was last revised April 4, 2006.
