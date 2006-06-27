@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231080356id_/http%3A//cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627183311id_/http%3A//cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
 
 # Notices
-
-This website includes information about the Central Intelligence Agency. The notices which follow apply equally to all areas of this Web site.   
- 
 
 ###  Privacy Notice
 
@@ -15,9 +12,7 @@ The Central Intelligence Agency is committed to protecting your privacy and will
 > 
 > This gathering and storing of information is separate from the activity described as monitoring in our Security Notice. 
 > 
-> Information gathered automatically is used for only two purposes: site management and, in the case of suspected unauthorized activity, for law enforcement and possible criminal prosecution (see Security Notice). 
-> 
-> The Central Intelligence Agency Web site automatically logs visitor information from which summary statistics are created. We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas. 
+> Information gathered automatically is used for site management, compiling reports of usage statistics, and, in the case of suspected unauthorized activity, for law enforcement and possible criminal prosecution. 
 > 
 > The following are representative of the types of information automatically collected and stored about your visit: 
 > 
@@ -47,17 +42,17 @@ The Central Intelligence Agency is committed to protecting your privacy and will
 > 
 **If you send us an e-mail using our comment form:**
 > 
-> If you choose to submit a question or comment using our online form and provide us your name and e-mail or postal address, we will use that information only to respond to your question or comment.
+> Except as otherwise indicated, if you choose to submit a question or comment using our online form and provide us your name and e-mail or postal address, we will use that information only to respond to your question or comment.
 > 
 >   * We will not share your name, e-mail, or postal address with any third party, other than as described below in our Security notice.
 >   * We will not create individual profiles with the information that you have provided.
 >   * Under no circumstances will we give your name, e-mail, or postal address to any any private organization, commercial or otherwise.
 > 
-If you choose to offer information or assistance to the CIA in the pursuit of its foreign intelligence mission by using our online form, we will make appropriate inquiries to determine the accuracy of your information. In addition, we may share the information you provide with other appropriate entities to enable the CIA to carry out its legally authorized responsibilities. By providing information or assistance to the CIA through our online form, you expressly consent to these uses of the information you provide about yourself.
+If you choose to offer information or assistance to the CIA in the pursuit of its foreign intelligence mission by using our online form, we will make appropriate inquiries to determine the accuracy of your information. In addition, we may share the information you provide with other appropriate entities to enable the CIA to carry out its legally authorized responsibilities. By providing information or assistance to the CIA through our online form, you expressly consent to our use of whatever information you provide via our Web site.
 > 
 > **Privacy Act Statement:**
 > 
-> **Authorities:** 50 U.S.C. 403-1; 50 U.S.C. 403-3(d); 50 U.S.C. 403a-g.
+> **Authorities:** 50 U.S.C. 403-4; 50 U.S.C. 403-4a(d); 50 U.S.C. 403a-g.
 > 
 > **Principal Uses:** Information collected via the CIA Web site is used to: 1) process employment applications from individuals who choose to submit their resumes through the CIA's on-line resume form; 2) provide e-mail notifications of substantive updates to the CIA Web site to subscribers who request this service; and 3) provide information in response to comments or questions when a response is requested by the person submitting the comment or question; and 4) assist the CIA in the fulfillment of its foreign intelligence mission.
 > 
@@ -81,7 +76,7 @@ This system and related software and equipment are intended solely for the commu
 
 Unauthorized attempts to modify any information stored on this system, to defeat or circumvent security features, or to utilize this system for other than its intended purposes are prohibited and may result in criminal prosecution. 
 
-If monitoring reveals evidence of possible criminal activity, such evidence may be provided to law enforcement personnel. 
+If monitoring reveals evidence of possible criminal activity, such evidence may be provided to law enforcement personnel. In addition, if you send us information about a threat or comments that consitute or might constitute a threat, or your comments contain information about criminal activities, we may provide that and associated information to law enformecement and/or other appropriate authorities. 
 
 [Return to top] 
 
