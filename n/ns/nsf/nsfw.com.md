@@ -1,0 +1,66 @@
+> *The following text is extracted and transformed from the nsfw.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627202119id_/http%3A//nsfw.com/privacy) for the most accurate reproduction.*
+
+# Privacy Policy | NSFW | Not Safe For Work
+
+Privacy Policy
+
+Information About Our Organization and Websites 
+
+Modern information and communication technologies play a fundamental role in the activities of an organization like NSFW.com. Based in Los Angeles, California, and Ft. Lauderdale, Florida, our principal activity is providing web based entertainment and other online material deemed “NSFW” worthy.
+
+Providing Visitors With Anonymous Access 
+
+You can access our website homepage and browse our site without disclosing any of your personal or identifying information.
+
+The Services and Links Of Our Website 
+
+Our website enables you to openly communicate with other visitors or post information to be accessed by others. When you do so, other visitors may collect your data.
+
+Automatic Collection Of Information
+
+We automatically log generic user data by either site programming, or we link information automatically logged by such means with personal data about specific individuals. We do so for technical administration of the website and for enhanced customer administration.
+
+Data Collection and Purpose Specification
+
+We collect the personal data that you may volunteer while using our services. We collect name, gender, geographic location, and email address along with information concerning your employer or the organization you represent, your job title, and phone number. Additionally, personal and lifestyle details are also collected. Providing this information to us is strictly voluntary, and is used for technical and customer administration of our website. 
+
+We do not collect information about our visitors from other sources, such as public records or private organizations. We collect and use personal data for the additional purpose of distributing our opt-in newsletters and to send NSFW.com related announcement emails to the registered NSFW Community. 
+
+If we wish to use your personal data for a new purpose, we offer you the option of consenting at the first point of your personal data is input into our database.. 
+
+Children's Privacy
+
+We do not knowingly collect personal data from children since use of our websites by children is prohibited. We do not provide any information about our personal data practices in relation to children on our homepage, or at those sites on our website where we collect personal data.
+
+Disclosure and Visitor Choice
+
+We do not disclose your personal data to our subsidiaries or any other organizations.
+
+Confidentiality / Security
+
+We do not give visitors to our website the option of using a secure transmission method to send us their personal data. We have implemented security policies, rules, and technical measures to protect the personal data that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction, or accidental loss. 
+
+All employees and others who have access to, or are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data. We ensure that your personal data will not be disclosed to state institutions and authorities except if required by law or other regulation. 
+
+Privacy Compliance
+
+There are no national laws or self-regulatory schemes applicable to our website or organization. 
+
+There are no global or regional regulatory or self-regulatory schemes applicable to our website or organization. In order to demonstrate that our privacy policy accords with the above privacy instrument, we are voluntarily committed to a Self Assessment procedure. 
+
+Privacy Support
+
+If you have an inquiry or concern about our privacy policy, please contact [general@nsfw.com](mailto:general@nsfw.com)
+
+Blog Topics
+
+Media
+
+Our Friends
+
+  
+
+
+Reviews
+
+Submitted for the masterbatory enjoyment of the well informed adult consumer.
