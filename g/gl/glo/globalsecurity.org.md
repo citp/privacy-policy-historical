@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsecurity.org privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230044241id_/http%3A//www.globalsecurity.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsecurity.org privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627192421id_/http%3A//www.globalsecurity.org/privacy.htm) for the most accurate reproduction.*
 
 # GlobalSecurity.org - Reliable News and Security Information
 
@@ -18,3 +18,11 @@ The Internet domain (for example, "xcompany.com" if you use a private Internet a
 
 
 We use this information to help us make our site more useful to visitors-to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits.
+
+Third Party Advertising
+
+We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here ](http://www.networkadvertising.org/optout_nonppii.asp)
+
+Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
