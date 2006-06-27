@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223174929id_/http%3A//www.poise.com/general/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627030218id_/http%3A//www.poise.com/general/privacy.asp) for the most accurate reproduction.*
 
 # POISE - Privacy Policy
 
