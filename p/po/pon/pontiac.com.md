@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pontiac.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231050241id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pontiac.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627230109id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # GM - Privacy Statement
 
-**I. _About Privacy (effective October 1, 2005)_**
+**I. _About Privacy (effective January 1, 2006)_**
 
 Your privacy is important to General Motors Corporation (GM), as is your trust in GM products and services. We want you to know that the information you share with us will be treated with care.
 
@@ -98,7 +98,7 @@ If you have concerns or questions regarding GM's consumer privacy practices, ple
 **Changes**  
 We retain the right to change this Privacy Statement. We will post changes to this page in a timely manner.
 
-This statement is effective as of 10/1/2005.
+This statement is effective as of 1/1/2006.
 
 **Supplemental Privacy Information**  
 This information supplements the information provided in the GM Privacy Statement for U.S. Consumers.
@@ -136,7 +136,7 @@ __Privacy Inquiries__ \- If you have a question or concern about the privacy pra
   
 **III. _Your California Privacy Rights_
 
-2004 Disclosure
+2005 Disclosure
 
 **
 
@@ -155,6 +155,10 @@ GM may have shared the following categories of information with the affiliates l
   |   -   | Other non-credit related marketing profile information (including information you may have provided when expressing interest in, or during your purchase of, our products or services)  
   
 Our GM affiliates who may have received your information are as follows: 
+
+GMAC Bank  
+3710 Kennett Pike  
+Greenville, DE 19807
 
 GMAC Insurance  
 Personal Lines Group  
