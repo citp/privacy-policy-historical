@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topseos.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210192316id_/http%3A//www.topseos.com/option%2Ccom_flag/task%2CprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topseos.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627111635id_/http%3A//www.topseos.com/option%2Ccom_flag/task%2CprivacyPolicy) for the most accurate reproduction.*
 
-# Internet Marketing Strategy Unplugged - Search Engine Optimization &amp; Internet Marketing Services - Privacy Policy
+# Internet Marketing & Search Engine Optimization Services - Terms and Conditions
 
 ---  
 Updated:September 12, 2005 to incorporate release of contact information terms.  **Notification of Changes**  
