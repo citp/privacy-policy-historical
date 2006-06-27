@@ -1,8 +1,38 @@
-> *The following text is extracted and transformed from the computeruser.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216083755id_/http%3A//computeruser.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computeruser.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627084727id_/http%3A//www.computeruser.com/about/privacy.html) for the most accurate reproduction.*
 
 # ComputerUser Privacy Statement
 
-| | A D V E R T I S E M E N T S  
+|  |    
+---|---  
+  |   
+  
+* * *
+
+  
+  
+  | 
+
+Search these directories for your best solution:
+
+[Click here for ComputerTraining.](http://www.computertrainingschools.com/?computeruser) [Click here for self-paced Computer Training programs](http://www.careeracademy.com/) [Click for A+ Certification, Cisco Training, MCSE Certification, and MOUS exam info](http://www.trainingplanet.com/)
+
+[Online Degree Directory - Technology programs and more.](http://www.worldwidelearn.com/)
+
+[Computer Training & Certification A+, MCSE, Microsoft Office](http://www.netwind.com/)
+
+[Click here Professional, Trade, & Vocational Colleges & Training Programs](http://www.careerschoolguide.com/)
+
+[Career Training & Technical Degrees](http://www.careertrainingdirectory.com/)
+
+[Click here for Dial-Up Internet Access](http://www.dialup4less.com/)
+
+[Get info on Computer Training, IT Certification and Career Oriented Tech Schools.](http://www.computer-schools.info/)
+
+[MCSE, CCNA, CCNP Boot camp training](http://www.vibrantbootcamp.co.uk/)
+
+[Free Technical Support Community of 200,000 Users!](http://forums.techguy.org/)  
+  
+| A D V E R T I S E M E N T S  
 ---|---  
   |   
   
@@ -102,4 +132,4 @@ Please keep in mind that whenever you voluntarily disclose personal information 
   * [The EPIC Cookies Page](http://www.epic.org/privacy/internet/cookies/) \- definitions, links, and news. 
   * [How to Protect Your Privacy](http://www.ftc.gov/privacy/index.html) \- information from the Federal Trade Commission. 
 
-|  [](http://computeruser.com/ads/adclick.php?bannerid=143&zoneid=17&source=&dest=http%3A%2F%2Fwww.computeruser.com%2Fabout%2Ftopstop.html)
+|  [](http://www.computeruser.com/ads/adclick.php?bannerid=262&zoneid=17&source=&dest=http%3A%2F%2Fsel.as-us.falkag.net%2Fsel%3Fcmd%3Dlnk%26dat%3D150284%26opt%3D0)
