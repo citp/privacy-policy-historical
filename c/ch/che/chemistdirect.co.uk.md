@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chemistdirect.co.uk privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201085436id_/http%3A//www.chemistdirect.co.uk/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemistdirect.co.uk privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627202601id_/http%3A//www.chemistdirect.co.uk/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
