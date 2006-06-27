@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasty-angels.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221173439id_/http%3A//www.nasty-angels.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasty-angels.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627152729id_/http%3A//www.nasty-angels.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -18,6 +18,7 @@ Email address
 
 **The Way We Use Information:**   
 Is to ship product, send out verification of orders placed, and retrieve lost passwords.  
+We reserve the right to contact you by e-mail in order to inform you about status of your order and give some recommendations if your subscription fails.  
 **TOur Commitment To Data Security:**  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
