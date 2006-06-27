@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the cdwg.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221195527id_/http%3A//www.cdwg.com/webcontent/insideG/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdwg.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627233138id_/http%3A//www.cdwg.com/webcontent/insideG/privacy.asp) for the most accurate reproduction.*
 
 # CDW•G Privacy Pledge
 
-IMPORTANT NOTE: CDW Government, Inc. is a wholly-owned subsidiary of CDW Computer Centers, Inc. and CDWG.com follows the same privacy principles as CDW.com. Following is CDW.com's privacy pledge.
+Effective Date: June 29, 2004    Last revised: February 27, 2006
 
-Effective Date: June 29, 2004
-
-CDW•G is committed to protecting your privacy. That is because we base our business on the trust you place in us. This policy describes our practices regarding personal and account information collected through our Web site. In this policy, “personal and account information” means your name, company name, account number, address, telephone number, and e-mail address plus any other information that personally identifies you, including your industry, the number of employees at your company, and purchase history, or would permit us to contact you, and “we” and “us” means CDW•G as well as its affiliated companies.
+CDW.com is committed to protecting your privacy. That is because we base our business on the trust you place in us. This policy describes our practices regarding personal and account information collected through our Web site. In this policy, “personal and account information” means your name, company name, account number, address, telephone number, and e-mail address plus any other information that personally identifies you, including your industry, the number of employees at your company, and purchase history, or would permit us to contact you, and “we” and “us” means CDW.com as well as its affiliated companies.
 
 We reserve the right to modify this privacy policy from time to time; the effective date noted above will indicate the date that this policy was last updated. You should visit our Web site periodically to review any changes. 
 
@@ -18,12 +16,12 @@ The amount and type of information we collect from you depends on your activitie
 **When you browse our Web site**
 
   * IP address - We collect your IP address to measure our Web site traffic and to help provide a relevant shopping experience. 
-  * Referral Web site. If you come to our Web site via a link, we collect the location of the link that referred you. 
-  * Browser type. We collect information about the browser you are using to help optimize our Web site for visitors. 
-  * Movements through our Web site. We keep track of pages you visit to help provide you with a more personalized shopping experience. 
+  * Referral Web site - If you come to our Web site via a link, we collect the location of the link that referred you. 
+  * Browser type - We collect information about the browser you are using to help optimize our Web site for visitors. 
+  * Movements through our Web site - We keep track of pages you visit to help provide you with a more personalized shopping experience. 
 
 **When you make purchases through our Web site**  
-User name, password, e-mail address, secret question and answer to a secret question. 
+
 
   * We collect your name, address and payment information to process your order. However, you may provide credit card and purchase order numbers by telephone. 
   * We collect information contained in “cookies,” such as your purchases and log in data, to personalize your shopping experience. Your browser must be set to accept cookies if you wish to add items to a shopping cart. 
