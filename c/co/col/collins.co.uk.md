@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collins.co.uk privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231104316id_/http%3A//www.harpercollins.co.uk/legal/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collins.co.uk privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627115421id_/http%3A//www.harpercollins.co.uk/legal/privacypolicy.aspx) for the most accurate reproduction.*
 
-# HarperCollins Publishers
+# HarperCollins Publishers | Privacy Policy
 
 **Visitors to harpercollins.co.uk:** | During any visit to the HarperCollins website our server downloads the pages you wish to see along with something called a Cookie to your computer [if you need more information on a "Cookie" (see below)]. Cookies enable a website owner to do handy things like find out whether the user has previously visited the site. This happens on a repeat visit by checking to see, and finding, the cookie deposited there on the previous visit.  
 Cookies will not identify the user of a computer and can only record what areas of a site a computer has been used to visit. Anyone can set his or her computer so that cookies are not downloaded from the web site server, but most people are aware of cookies and do not block them out. If you object to HarperCollins Publishers Ltd ("Harpercollins"), or anyone else, using cookies you should set your computer to block them.   
