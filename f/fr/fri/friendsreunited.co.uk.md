@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendsreunited.co.uk privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212113611id_/http%3A//www.friendsreunited.co.uk/FriendsReunited.ASP%3FWCI%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsreunited.co.uk privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627113327id_/http%3A//friendsreunited.co.uk/FriendsReunited.ASP%3FWCI%3DPrivacy) for the most accurate reproduction.*
 
 # Friends Reunited - Privacy Policy
 
