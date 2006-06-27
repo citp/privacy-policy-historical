@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228215339id_/http%3A//www.fbi.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627190046id_/http%3A//www.fbi.gov/privacy.htm) for the most accurate reproduction.*
 
 # Federal Bureau of Investigation - Privacy Policy
 
@@ -30,8 +30,4 @@ You may volunteer to provide us personally-identifying information, for example 
   
   
 ---|---  
----  
-|   
----  
-  
-FBI.gov is an official site of the U.S. Federal Government, U.S. Department of Justice.
+---
