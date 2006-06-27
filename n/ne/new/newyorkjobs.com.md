@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkjobs.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231192513id_/http%3A//www.newyorkjobs.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkjobs.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627184040id_/http%3A//www.newyorkjobs.com/privacy.cfm) for the most accurate reproduction.*
 
 # New York Jobs - NewYorkJobs.com
 
