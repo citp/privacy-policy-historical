@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hormel.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231173558id_/http%3A//www.hormel.com/templates/corporate.asp%3Fcatitemid%3D75%26id%3D88) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hormel.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628013712id_/http%3A//hormel.com/templates/corporate.asp%3Fcatitemid%3D75%26id%3D88) for the most accurate reproduction.*
 
-# Privacy Policy
+# Hormel Foods - Knowledge - Privacy Policy
 
 This Web site is owned and operated by Hormel Foods Corporation. As a visitor to our Web site, we recognize that you may be concerned about any uses that we may make of the information that you may provide to us or that we may be collecting about you. To address your concerns, we have developed this Privacy Policy which is intended to inform you of the guidelines that we follow in this sensitive area. Of course, it may be necessary for us to update our Policy as changes are made in and to our Web site. Therefore, we recommend that you check the Policy from time to time.
 
