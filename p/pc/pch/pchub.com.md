@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchub.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227190505id_/http%3A//pchub.com/uph/content/policy_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchub.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627182335id_/http%3A//www.pchub.com/uph/content/policy_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PcHub.com
 
@@ -8,7 +8,7 @@
   
 ---  
   
-PcHub.com is the sole owner of the information collected on this site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  Usedpchub.com collects information from our users at several different points on our website.  
+PcHub.com is the sole owner of the information collected on this site.  We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.  pchub.com collects information from our users at several different points on our website.  
   
 ##### Registration  
   
@@ -16,7 +16,9 @@ In order to use the complete features of this website, a user must first complet
   
 ##### Order  
   
-We request information from the user on our order form.  Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date).  This information is used for billing purposes and to fill customer's orders.  If we have trouble processing an order, this contact information is used to get in touch with the user.   
+We request information from the user on our order form.  Here a user must provide contact information (like name and shipping address) This information is used for billing purposes and to fill customer's orders.  If we have trouble processing an order, this contact information is used to get in touch with the user. 
+
+We do not keep and have no way to have your financial information (like credit card number, expiration date). You give your financial information to the payment gateway (credit card processing company) to verify the credit card information.  
   
 ##### Cookies  
   
@@ -52,26 +54,20 @@ From time-to-time our site requests information from users via surveys or contes
   
 ##### Tell-A-Friend  
   
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address.  Usedpchub.com will automatically send the friend a one-time email inviting them to visit the site.  Usedpchub.com stores this information for the sole purpose of sending this one-time email.  All the information will be removed with immediate effect if the Remove Link in the email is clicked. If you feel any difficulty in this then Just drop a line to [webmaster@usedpchub.com](mailto:webmaster@usedpchub.com). We will remove it with immediate effect.  
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address.  Usedpchub.com will automatically send the friend a one-time email inviting them to visit the site.  pchub.com stores this information for the sole purpose of sending this one-time email.  All the information will be removed with immediate effect if the Remove Link in the email is clicked. If you feel any difficulty in this then Just drop a line to [webmaster@pchub.com](mailto:webmaster@pchub.com). We will remove it with immediate effect.  
   
 ##### Security  
   
 This website takes every precaution to protect our users' information.  When users submit sensitive information via the website, your information is protected both online and off-line. 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL.  While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.  To learn more about SSL, follow this link <http://www.usedpchub.com/uph/others/ssl.asp>.     
+When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL.  While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.  To learn more about SSL, follow this link <http://www.pchub.com/uph/others/ssl.asp>.     
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.  All of our users' information, not just the sensitive information mentioned above, is restricted in our offices.  Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.  Our employees must use password-protected screen-savers when they leave their desk.  When they return, they must re-enter their password to re-gain access to your information.  Furthermore, ALL employees are kept up-to-date on our security and privacy practices.  Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected.  Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
-If you have any questions about the security at our website, you can send an email to security@usedpchub.com.   
+If you have any questions about the security at our website, you can send an email to [management@pchub.com](mailto:management@pchub.com).   
   
 ##### Supplementation of Information  
   
-In order for this website to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources. 
-
-For example, to determine if our customers qualify for one of our credit cards, we use their name and social security number to request a credit report.  Once we determine a user's credit-worthiness, this document is destroyed. 
-
-(or) 
-
 In order for this website to enhance its ability to tailor the site to an individual's preference, we combine information about the purchasing habits of users with similar information from our partners to create a personalized user profile.  When a user makes a purchase from either of these two companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.   
   
 ##### Special Offers  
@@ -84,7 +80,7 @@ We also send the user site and service announcement updates. Members are not abl
   
 ##### Correction/Updating Personal Information:  
   
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us.  This can usually be done at the member information page or by emailing our Customer Support   
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us.  This can usually be done at the member information page or by emailing our Customer Support  [care@pcub.com](mailto:care@pcub.com)  
   
 ##### Choice/Opt-out   
   
