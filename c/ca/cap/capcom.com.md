@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the capcom.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227033256id_/http%3A//www.capcom.com/legal.xpml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capcom.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627080534id_/http%3A//www.capcom.com/legal.xpml) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **
 
-[](https://www.esrb.org/confirm/capcom-confirmation.htm)
+[](http://www.esrb.org/confirm/capcom-confirmation.jsp)
 
 **
 
