@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211192846id_/http%3A//www.ameinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ameinfo.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627050856id_/http%3A//www.ameinfo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AME Info
 
@@ -8,11 +8,11 @@
 
 ## Introduction
 
-AME Info FZ LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user�s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.ameinfo.com
+AME Info FZ LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.ameinfo.com
 
 Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact [Jeannette Vinke](http://www.ameinfo.com/cgi-bin/cms/feedback.cgi?g=Report;contact=1;employee=jeannette). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first [contact us](http://www.ameinfo.com/feedback/). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 AME Info keeps log files that include your IP address for statistic and logging of abuse purpose only. Log files are under no circumstances shared with any third party except if required by law or court order by a competent court.
 
@@ -71,7 +71,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 ### Send content to a colleague
 
-If you choose to use our referral service to tell a colleague about our site or a specific article, we will ask you for your friend�s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. AME Info FZ LLC does not store this information.
+If you choose to use our referral service to tell a colleague about our site or a specific article, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. AME Info FZ LLC does not store this information.
 
 If you have any questions about security or privacy on our website, please [contact us](https://web.archive.org/contact/) individually or as per the below contact details:
 
