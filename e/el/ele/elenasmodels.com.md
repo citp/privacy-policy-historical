@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elenasmodels.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231124136id_/http%3A//www.elenasmodels.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elenasmodels.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627143114id_/http%3A//www.elenasmodels.com/privacy.htm) for the most accurate reproduction.*
 
 # Elena's Models - beautiful russian girls. PRIVACY STATEMENT
 
@@ -10,6 +10,15 @@ Username|
 Password|   
 Remember me   
 [Forgot password?](https://web.archive.org/index.php?method=create_form&list=forgotpass)  
+  
+  
+
+
+BEFORE you sign-up  
+---  
+  
+**IS IT FOR REAL?**  
+Check what other users think about **[ElenasModels](http://www.elenasmodels.com/about/elenas.htm)**  
   
   
 
@@ -39,6 +48,30 @@ Not a Member?
 They made it happen!  
 ---  
   
+"I am confident that my husband is the person that I want to spend the rest of my life with."   
+(Anna, USA) 
+
+[](http://www.elenasmodels.com/testimonials.htm#story8)[  
+](http://www.elenasmodels.com/testimonials.htm#story8)
+
+* * *
+
+"Thank you for the happiness that we have found!"  
+(Irina and Thor, Norway) 
+
+[](http://www.elenasmodels.com/testimonials.htm#story50)[  
+](http://www.elenasmodels.com/testimonials.htm#story50)
+
+* * *
+
+"Our dream came true - we are husband and wife!"  
+(Anna and Joe, USA) 
+
+[](http://www.elenasmodels.com/testimonials.htm#story46)[  
+](http://www.elenasmodels.com/testimonials.htm#story46)
+
+* * *
+
 "Thank you so much for your service!"  
 (John and Svetlana, USA)
 
@@ -46,17 +79,10 @@ They made it happen!
 
 * * *
 
-"We were married in a castle in Wales!" (Mark and Zhenya, UK) 
+"We were married in a castle in Wales!"  
+(Mark and Zhenya, UK) 
 
 [ ](http://www.elenasmodels.com/testimonials.htm#story21)
-
-* * *
-
-"I am confident that my husband is the person that I want to spend the rest of my life with."   
-(Anna, USA) 
-
-[](http://www.elenasmodels.com/testimonials.htm#story8)[  
-](http://www.elenasmodels.com/testimonials.htm#story8)
 
 * * *
 
@@ -231,135 +257,135 @@ This web site contains links to other sites. Please be aware that Elena's Models
 
 * * *
 
-If you have any question about our privacy policy or the use of the information we collect from our users, please [ contact us](https://web.archive.org/web/20051231124136id_/http%3A//www.elenasmodels.com/contact.htm).
+If you have any question about our privacy policy or the use of the information we collect from our users, please [ contact us](https://web.archive.org/web/20060627143114id_/http%3A//www.elenasmodels.com/contact.htm).
 
 |  | 
 
 | This week NEW ladies  
 ---  
   
-| [](https://web.archive.org/index.php?ap=246303)  
+| [](https://web.archive.org/index.php?ap=379365)  
 ---  
-Galina, 34  
+Tatyana, 27  
   
-[](https://web.archive.org/index.php?ap=102807)  
+[](https://web.archive.org/index.php?ap=719276)  
 ---  
-Elena, 24  
+Olga, 23  
   
-[](https://web.archive.org/index.php?ap=961311)  
+[](https://web.archive.org/index.php?ap=326910)  
 ---  
-Aulya, 24  
+Violetta, 32  
   
-[](https://web.archive.org/index.php?ap=120903)  
+[](https://web.archive.org/index.php?ap=600361)  
 ---  
-Tanya, 23  
+Irina, 20  
   
-[](https://web.archive.org/index.php?ap=894243)  
+[](https://web.archive.org/index.php?ap=560690)  
 ---  
-Arina, 28  
+Angela, 19  
   
 | Featured listings  
 ---  
   
-| [](https://web.archive.org/index.php?ap=746408)  
+| [](https://web.archive.org/index.php?ap=636275)  
 ---  
-Julia, 20  
+Mariya, 22  
   
-[](https://web.archive.org/index.php?ap=10505)  
+[](https://web.archive.org/index.php?ap=366088)  
 ---  
-Natalia, 29  
+Svetlana, 32  
   
-[](https://web.archive.org/index.php?ap=387549)  
+[](https://web.archive.org/index.php?ap=894243)  
 ---  
-Vita, 25  
+Arina, 29  
   
-[](https://web.archive.org/index.php?ap=275315)  
+[](https://web.archive.org/index.php?ap=509495)  
 ---  
-Elena, 19  
+Yuliya, 31  
+  
+[](https://web.archive.org/index.php?ap=869050)  
+---  
+Anna, 25  
+  
+| Most popular girls  
+---  
+  
+| [](https://web.archive.org/index.php?ap=15849)  
+---  
+Nadezhda, 32  
+  
+[](https://web.archive.org/index.php?ap=285860)  
+---  
+Lena, 33  
+  
+[](https://web.archive.org/index.php?ap=13677)  
+---  
+Alena, 23  
+  
+[](https://web.archive.org/index.php?ap=696360)  
+---  
+Elena, 38  
+  
+[](https://web.archive.org/index.php?ap=372615)  
+---  
+Julia, 32  
+  
+[](https://web.archive.org/index.php?ap=2358)  
+---  
+Inna, 33  
+  
+[](https://web.archive.org/index.php?ap=383436)  
+---  
+Bella, 33  
+  
+[](https://web.archive.org/index.php?ap=492624)  
+---  
+Anastasia, 25  
   
 [](https://web.archive.org/index.php?ap=831628)  
 ---  
 Victoria, 29  
   
-| Most popular girls  
+[](https://web.archive.org/index.php?ap=436200)  
 ---  
+Tatyana, 32  
   
-| [](https://web.archive.org/index.php?ap=376214)  
+[](https://web.archive.org/index.php?ap=455869)  
 ---  
-Elena, 29  
+Tatiana, 29  
   
-[](https://web.archive.org/index.php?ap=12053)  
+[](https://web.archive.org/index.php?ap=598043)  
 ---  
-Svetlana, 35  
+Oksana, 28  
   
-[](https://web.archive.org/index.php?ap=114176)  
+[](https://web.archive.org/index.php?ap=400309)  
 ---  
-Elena, 27  
+Raissa, 27  
   
-[](https://web.archive.org/index.php?ap=672897)  
+[](https://web.archive.org/index.php?ap=977558)  
 ---  
-Olya, 37  
+Elena, 24  
   
-[](https://web.archive.org/index.php?ap=967396)  
+[](https://web.archive.org/index.php?ap=938939)  
 ---  
-Veronika, 23  
+Anna, 30  
   
-[](https://web.archive.org/index.php?ap=284106)  
+[](https://web.archive.org/index.php?ap=17003)  
 ---  
-Nastya, 23  
+Yana, 26  
   
-[](https://web.archive.org/index.php?ap=660703)  
+[](https://web.archive.org/index.php?ap=16263)  
 ---  
-Olga, 26  
-  
-[](https://web.archive.org/index.php?ap=707093)  
----  
-Biliana, 29  
+Natalia, 33  
   
 [](https://web.archive.org/index.php?ap=11674)  
 ---  
-Nataliya, 36  
+Nataliya, 37  
   
-[](https://web.archive.org/index.php?ap=298697)  
+[](https://web.archive.org/index.php?ap=634854)  
 ---  
-Tanya, 36  
+Anna, 30  
   
-[](https://web.archive.org/index.php?ap=364775)  
+[](https://web.archive.org/index.php?ap=660703)  
 ---  
-Olga, 30  
-  
-[](https://web.archive.org/index.php?ap=909085)  
----  
-Ekaterina, 26  
-  
-[](https://web.archive.org/index.php?ap=278416)  
----  
-Natalya, 24  
-  
-[](https://web.archive.org/index.php?ap=974263)  
----  
-Nadya, 21  
-  
-[](https://web.archive.org/index.php?ap=14265)  
----  
-Sveta, 38  
-  
-[](https://web.archive.org/index.php?ap=698873)  
----  
-Olesya, 27  
-  
-[](https://web.archive.org/index.php?ap=305228)  
----  
-Maria, 25  
-  
-[](https://web.archive.org/index.php?ap=294396)  
----  
-Juliana, 26  
-  
-[](https://web.archive.org/index.php?ap=141688)  
----  
-Iryna, 29  
-  
-[](https://web.archive.org/index.php?ap=815531)  
----  
-Natalya, 27
+Olga, 26
