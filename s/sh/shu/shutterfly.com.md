@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151144id_/http%3A//www.shutterfly.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627231802id_/http%3A//www.shutterfly.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # Shutterfly | Privacy policy
 
@@ -24,7 +24,6 @@ If you feel that Shutterfly is not abiding by our posted privacy policy, you sho
   * Keeping You Informed Through Email & Mail
   * Improving Your Site Experience With Technology such as Cookies
   * Providing Services Through Third Parties
-  * Safe Harbor
   * Abiding by the Law
   * Changes and Notification
   * Contact Us
@@ -91,10 +90,6 @@ Shutterfly shares Personal Information with carefully screened third-party servi
 
 Finally, Shutterfly may share very general information about our customers as a group with business partners, sponsors and other third parties. For example, we might say that a certain percentage of our customers live in California, while a different percentage live in New Jersey.
 
-##### Safe Harbor
-
-Shutterfly is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U.. For more information about the Safe Harbor program and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor Web site at <http://www.export.gov/safeharbor>.
-
 ##### Abiding by the Law
 
 Shutterfly may be required by law to disclose Personal Information to proper law enforcement authorities, even though you might have requested that we don’t share your information. This information may be necessary to identify, contact or bring legal action against anyone who may attempt to cause injury to another’s rights or property.
@@ -114,6 +109,6 @@ Shutterfly will do our utmost to keep all your information up to date when you p
 
 
 
-Updated 5/24/05
+Updated 4/26/06
 
 Go to top
