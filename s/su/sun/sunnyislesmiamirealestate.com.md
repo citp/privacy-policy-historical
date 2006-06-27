@@ -1,53 +1,35 @@
-> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224030536id_/http%3A//www.sunnyrealtyfl.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627124110id_/http%3A//sunnyislesmiamirealestate.com/Privacy.asp) for the most accurate reproduction.*
 
-# Miami real estate - Miami Beach real estate - Search Miami MLS
+# Real Estate & Mls in Miami, Sunny Isles, Fort Lauderdale, Preconstruction Investing in Condos
 
 |   
-[ **About Us**](http://www.sunnyrealtyfl.com/Aboutus.asp)   
-[ **Articles & News**](http://www.sunnyrealtyfl.com/Articles.asp)   
-[ **Search MLS**](http://www.sunnyrealtyfl.com/miami-mls.asp)   
-[ **Sell Your Property**   
-](http://www.sunnyrealtyfl.com/Sell_Your_Property.asp)[ **Top 50 Properties**](http://www.sunnyrealtyfl.com/Miami_Real_Estate_Search_Results.asp?OrderBy=Price&SortDir=Desc&SW1=1)   
-[ **Market Analysis**](http://www.sunnyrealtyfl.com/Market_Analysis.asp)   
-[ **Pre Construction**](http://www.sunnyrealtyfl.com/Pre_Construction.asp)   
-[ **Property Search**](http://www.sunnyrealtyfl.com/Property_Search.asp)   
-[ **Mortgage Center**](http://www.sunnyrealtyfl.com/Mortgage_Center.asp)   
-[ **Mortgage Calculator**](http://www.sunnyrealtyfl.com/Mortgage_Calculator.asp)   
-[ **Disclaimer**](http://www.sunnyrealtyfl.com/Disclaimer.asp)   
-[ **Your Privacy**](http://www.sunnyrealtyfl.com/Privacy.asp)   
-[ **Site Map**](http://www.sunnyrealtyfl.com/Site_Map.asp)   
-[ **Contact Us**](http://www.sunnyrealtyfl.com/ContactUs.asp)   
-[ **Newsletter**](http://www.sunnyrealtyfl.com/Newsletter.asp)   
-[ **Resources**](http://www.sunnyrealtyfl.com/Resources/index.asp)   
+  [ **About Us**](https://web.archive.org/Aboutus.asp)   
+  [ **Articles & News**](https://web.archive.org/Articles.asp)   
+  [ **Search MLS**](https://web.archive.org/miami-mls.asp)   
+  [ **Sell Your Property**](https://web.archive.org/Sell_Your_Property.asp)   
+  [ **Top 50 Properties**](https://web.archive.org/Top50Properties.asp?OrderBy=Price&SortDir=Asc&SW1=1)   
+  [ **Market Analysis**](https://web.archive.org/Market_Analysis.asp)   
+  [ **Pre-Construction**](https://web.archive.org/PreConstruction.asp)   
+  [ **Foreign Investors**](https://web.archive.org/Foreign-Investors.asp)   
+  [ **Property Search**](https://web.archive.org/Property_Search.asp)   
+  [ **Mortgage Center**](https://web.archive.org/Mortgage_Center.asp)   
+  [ **Mortgage Calculator**](https://web.archive.org/Mortgage_Calculator.asp)   
+  [ **Disclaimer**](https://web.archive.org/Disclaimer.asp)   
+  [ **Your Privacy**](https://web.archive.org/Privacy.asp)   
+  [ **Site Map**](https://web.archive.org/Site_Map.asp)   
+  [ **Contact Us**](https://web.archive.org/ContactUs.asp)   
+  [ **Newsletter**](https://web.archive.org/Newsletter.asp)   
+  [ **Resources**](https://web.archive.org/Resources/)   
 
 
-|  |  |   
----|---|---  
-|  |  _**Quick**_ _ ** MLS Search**_  
+|   
 ---  
-|  **Mls number** **  
-**  
----  
-**Building Name** **  
-**  
-**Property Type**  
-  
-**City**  
-  
-**Zip Code**  
-  
-**Minimum Price**  
-  
-     
-  
-  [ _Advanced Mls Search_](http://www.sunnyrealtyfl.com/miami-mls.asp)  
-|  |   
   
 |  |  |  |   |    
-**Your Privacy**  
+|  |  **Privacy Policy**  
 ---|---  
   |   
-[ SunnyRealtyFL.com](https://web.archive.org/) is committed to maintaining your confidence and trust. Your right to privacy and data security is a primary concern. That's why, when you visit SunnyRealtyFL.com, we help you maintain control over your data on the Internet. 
+We are committed to maintaining your confidence and trust. Your right to privacy and data security is a primary concern. That's why, when you visit SunnyRealtyFL.com, we help you maintain control over your data on the Internet. 
 
 **Specific types of information we ask for**
 
@@ -80,14 +62,17 @@ SunnyRealtyFL.com contain links to other websites that are not operated by Sunny
 
 **Contact SunnyRealtyFL.com**
 
-SunnyRealtyFL.com is the sole operator of the electronic web pages known as SunnyRealtyFL.com and are © Copyright 2004-2005 by SunnyRealtyFL.com. All rights reserved. If you would like to contact us for any reason regarding our privacy practices, please call, write, or email us at the following address: 
+SunnyRealtyFL.com is the sole operator of the electronic web pages known as SunnyRealtyFL.com and are Š Copyright 2004-2005 by SunnyRealtyFL.com. All rights reserved. If you would like to contact us for any reason regarding our privacy practices, please call, write, or email us at the following address: 
 
 **Mailing Address:**   
 SunnyRealtyFL.com.  
 177 Sunny Isles Blvd.  
 Sunny Isles Beach, FL 33160
 
- **Customer Care:**  
+ **Toll Free:**  
+1-877-368-2318
+
+**Customer Care:**  
 954-336-1016
 
 **Fax:**  
@@ -96,8 +81,6 @@ Sunny Isles Beach, FL 33160
 **General Feedback:** [ _feedback@SunnyRealtyFL.com ___](mailto:feedback@SunnyRealtyFL.com)
 
  _ _  
-Effective Date: 12/23/2005 __  
-|  |  |   
----|---  
-  
-
+Effective Date: 6/27/2006 __  
+|    
+| 
