@@ -1,45 +1,37 @@
-> *The following text is extracted and transformed from the usip.org privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229010132id_/http%3A//www.usip.org/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usip.org privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627213014id_/http%3A//www.usip.org/aboutus/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy: About Us: U.S. Institute of Peace
+# About USIP: Privacy Policy: United States Institute of Peace
 
-[](https://web.archive.org/aboutus/index.html)
+#### Privacy Policy
 
-Privacy Policy
+Thank you for visiting the United States Institute of Peace Web site. USIP takes the safeguarding of your personal information seriously.
 
-Thank you for visiting the United States Institute of Peace web site. The Institute takes the safeguarding of your personal information seriously.
+**Information Collected and Stored Automatically**
 
-**Information Collected and Stored Automatically**  
+We do not require you to provide any personal information to access and browse our Web site or to use most of our online services.
 
+_We do not collect personal information about our visitors unless you choose to provide this information to us via e-mail or by filling out an online form._
 
-WebTrends Live is used to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. It only collects aggregate data. For more information please see the [WebTrends Live privacy policy](http://www.webtrendslive.com/wtl_system/privacy_policy.htm).
+If you choose to provide us with personal information by sending us an e-mail, or by filling out a form with your personal information and submitting it through our Web site to register for an event, obtain a publication, or join a mailing list, we use that information only to fulfill your request or respond to your inquiry.
 
-The information we receive automatically from your visit depends upon what you do when visiting our site. If you visit our site to read or download information, such as a report or archived multimedia file we collect and store the following information about you:
+If you complete an online survey, USIP collects and stores responses anonymously. You are not required to complete any survey to use any feature of USIP's Web site.
 
-  * The name of the domain from which you access the Internet (for example, xcompany.com or youruniversity.edu);
-  * The date and time you access our site; 
-  * The type of browser and operating system used to access our site;
-  * The Internet address of the web site from which you linked directly to our site;
-  * What information you viewed during your visit to our web site; and
-  * The amount of time you spend on our web site.
-
-
-
-We use the information we collect to measure the number of visitors to the different sections of our site, find out what information is the most viewed, and help us make our web site more useful to visitors. We use the aggregate statistics to make improvements online, not to identify individual users.
+The date and time you access our site; how long you remained on our site; the domain from which you access the Internet; and the referring sites from which you linked to us are the types of information automatically collected and stored to measure the number of visitors to different sections of our site, find out what information is the most viewed, and to help us make our Web site more useful to visitors.
 
 **Cookies**  
-Our site uses "cookies," small files placed on your hard drive when you access a web site. We may use cookies to count the number and type of visitors to the different pages on our site. We don't use cookies to store individually--identifiable information, or to track your actions over time or across web sites. You can configure your browser to accept or decline cookies, or to alert you when cookies are in use. You don't have to accept cookies from us. Once your visit is completed and confirmed, you may delete any cookies from your hard drive.
+Our site **does not** use persistent cookies, which are small files that are stored on a user's hard drive and used to monitor web browsing activity. Instead, USIP automatically creates session cookies when you access our Web site that are automatically deleted once you close your browser window. Session cookies do not collect information from a user's hard drive, rather, they collect and store information in the form of a session.
 
-**Other Information Collected and Stored from E-mails and Web Forms**  
-We don't require you to provide any personal information to access and browse our web site or to use most of our online services. Please remember that the Institute never sells this information or rents it to anyone. However, information and materials you provide to the Institute may be subject to Privacy Act routine use disclosures, and to disclosure as otherwise required by law.
+**Links to Other Web sites**  
+Documents posted on this Web site may contain hypertext links or pointers to information created and maintained by other public and private organizations. These links and pointers are provided for visitors' convenience. A user is subject to that site's privacy policy upon leaving USIP's Web site.
 
-If you request a newsletter, catalog, or other materials to be sent by e-mail or postal mail, we collect personal information such as your name, e-mail and home addresses, and telephone number. We and our contractors store and use this information to process and verify requests and provide our products and services.
+## About USIP
 
-If you choose to provide us with personal information by sending us an e-mail, or by filling out a form with your personal information and submitting it through our web site to register for an event, obtain a publication, or join an Institute mailing list, we use that information only to fulfill your request or respond to your inquiry. We would share your e-mail with another federal government agency only if your inquiry related to that agency or if we were required to do so by law.
+## USIP Weekly Bulletin
 
-If you complete an online survey, the Institute collects and stores responses anonymously. We use this information to learn about you and our other users, and their technology preferences, to improve our web site and its design. You are not required to complete any survey to use any feature of the Institute's web site.
+Receive notices of USIP publications, events, and more via e-mail.
 
-**Links to Other Web Sites**  
-Documents posted on this web site may contain hypertext links or pointers to information created and maintained by other public and private organizations. These links and pointers are provided for visitors' convenience. The Institute does not control or guarantee the accuracy, relevance, timeliness, or completeness of any linked information.
+## Podcasting and News Feeds
 
-**Additional Security**  
-Additionally, for site security purposes and to ensure that this service remains available to all users, the Institute also employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information or otherwise cause damage.
+[](https://web.archive.org/events/podcast.rss)  [Subscribe](https://web.archive.org/events/podcast.rss) | [About](https://web.archive.org/podcasting.html)
+
+[](https://web.archive.org/headlines.rss)  [Subscribe](https://web.archive.org/headlines.rss) | [About](https://web.archive.org/rss_feed.html)
