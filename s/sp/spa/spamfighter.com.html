@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the spamfighter.com privacy policy that was archived on 2005-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219122609id_/http%3A//www.spamfighter.com/Info_Privacy_Statement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spamfighter.com privacy policy that was archived on 2006-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060628050347id_/http%3A//www.spamfighter.com/Info_Privacy_Statement.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>SPAMfighter Privacy Statement - SPAMfighter</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="imagetoolbar" content="no">
@@ -11,7 +11,11 @@
 <meta name="description" content="SPAMfighter ApS has created this privacy statement in order to demonstrate our sincere commitment to privacy. The following statement discloses the information gathering and dissemination practices for this web site.">
 <meta name="MSSmartTagsPreventParsing" content="true">
 <meta http-equiv="imagetoolbar" content="no">
-<link type="text/css" media="all" href="/CSS/base.css?now=2005121913239" rel="stylesheet">
+<link type="text/css" media="all" href="/CSS/base.css?now=" rel="stylesheet">
+<!--[if lte IE 6]>
+	<link type="text/css" media="all" href="/CSS/ielte6.css" rel="stylesheet" />
+<![endif]-->
+
 <script type="text/javascript">
 <!-- 
   window.onerror = null;
@@ -23,11 +27,9 @@
 
 <body>
 
-<div id="snow" style="height:100%;width:100%;padding:0px;background-image: url('../i/jul/snow.gif');">
-<div style="width:1px;height:20px"> </div>
+<!--div id="snow" style="height:100%;width:100%;padding:0px;background-image: url('../i/jul/snow.gif');"<div style="width:1px;height:20px"> </div>-->
 <div id="container">
 	<div id="header">
-		<img style="position:absolute;top:-17px;" src="../i/jul/top-snow.gif">
 		<div id="logo">
 			<h2><a href="Default.asp"><span>SPAMfighter</span></a></h2>
 		</div>
@@ -59,13 +61,16 @@
 		</div>
 		<div id="tab">
 			<a href="/VIRUSfighter/">
-				<img border="0" src="/i/jul/tabs-virus.gif" alt="Antivirus">
+				<img border="0" src="/i/tabs-virus.gif" alt="Antivirus">
+			</a>
+			<a href="/SPYWAREfighter/">
+				<img border="0" src="/i/tabs-spyware.gif" alt="">
 			</a>
 		</div>
 		<!--div id="tab2">		</div-->
 		
 		<div id="languageselect">
-			<form action="changelanguage.htm" method="post" id="lngform" name="lngform">
+			<form action="/Functions/ChangeLanguage.asp" method="post" id="lngform" name="lngform">
 				<script language="javascript" type="text/javascript">
 				<!--
 					function ChangeLang(what){
@@ -75,13 +80,16 @@
 				</script>
 				<label for="languageselectbox">Select language</label>
 				
-<select id="languageselectbox" onchange="ChangeLang(this)">
+<select id="languageselectbox" name="languageselectbox" onchange="ChangeLang(this)">
 					<option value="/Lang_DA/Info_Privacy_Statement.asp">Dansk</option>
 					<option value="/Lang_DE/Info_Privacy_Statement.asp">Deutsch</option>
+					<option value="/Lang_EL/Info_Privacy_Statement.asp">Ελληνικά</option>
 					<option value="/Info_Privacy_Statement.asp" selected="selected">English</option>
 					<option value="/Lang_ES/Info_Privacy_Statement.asp">Español</option>
 					<option value="/Lang_FR/Info_Privacy_Statement.asp">Français</option>
 					<option value="/Lang_IT/Info_Privacy_Statement.asp">Italiano</option>
+					<option value="/Lang_ZH/Info_Privacy_Statement.asp">中文（简体）</option>
+					<option value="/Lang_RU/Info_Privacy_Statement.asp">Русский</option>
 					<option value="/Lang_NL/Info_Privacy_Statement.asp">Nederlands</option>
 					<option value="/Lang_NO/Info_Privacy_Statement.asp">Norsk</option>
 					<option value="/Lang_FI/Info_Privacy_Statement.asp">Suomi</option>
@@ -91,16 +99,19 @@
 		</div>				
 		<div id="languageselectflag">
 		  
-<a href="/Info_Privacy_Statement.asp"><img src="/i/flags/us.gif" border="0" alt="English"></a>
-		  <a href="/Lang_DE/Info_Privacy_Statement.asp"><img src="/i/flags/de.gif" border="0" alt="Deutsch"></a>
-		  <a href="/Lang_ES/Info_Privacy_Statement.asp"><img src="/i/flags/es.gif" border="0" alt="Español"></a>
-		  <a href="/Lang_FR/Info_Privacy_Statement.asp"><img src="/i/flags/fr.gif" border="0" alt="Français"></a>
-		  <a href="/Lang_IT/Info_Privacy_Statement.asp"><img src="/i/flags/it.gif" border="0" alt="Italiano"></a>
-		  <a href="/Lang_NL/Info_Privacy_Statement.asp"><img src="/i/flags/nl.gif" border="0" alt="Nederlands"></a>
-		  <a href="/Lang_SV/Info_Privacy_Statement.asp"><img src="/i/flags/se.gif" border="0" alt="Svenska"></a>
-		  <a href="/Lang_NO/Info_Privacy_Statement.asp"><img src="/i/flags/no.gif" border="0" alt="Norsk"></a>
-		  <a href="/Lang_DA/Info_Privacy_Statement.asp"><img src="/i/flags/dk.gif" border="0" alt="Dansk"></a>
-		  <a href="/Lang_FI/Info_Privacy_Statement.asp"><img src="/i/flags/fi.gif" border="0" alt="Suomi" title="Suomi"></a>
+<a href="/Info_Privacy_Statement.asp"><img src="/i/flags/us.gif" border="0" title="English" alt="English"></a>
+		  <a href="/Lang_DE/Info_Privacy_Statement.asp"><img src="http://i.spamfighter.com/i/flags/de.gif" border="0" alt="Deutsch" title="Deutsch"></a>
+		  <a href="/Lang_ES/Info_Privacy_Statement.asp"><img src="http://i.spamfighter.com/i/flags/es.gif" border="0" alt="Español" title="Español"></a>
+		  <a href="/Lang_FR/Info_Privacy_Statement.asp"><img src="http://i.spamfighter.com/i/flags/fr.gif" border="0" alt="Français" title="Français"></a>
+		  <a href="/Lang_IT/Info_Privacy_Statement.asp"><img src="http://i.spamfighter.com/i/flags/it.gif" border="0" alt="Italiano" title="Italiano"></a>
+		  <a href="/Lang_EL/Info_Privacy_Statement.asp"><img src="http://i.spamfighter.com/i/flags/gr.gif" border="0" alt="Ελληνικά" title="Ελληνικά"></a>
+		  <a href="/Lang_ZH/Info_Privacy_Statement.asp"><img src="http://i.spamfighter.com/i/flags/cn.gif" border="0" alt="中文（简体）" title="中文（简体）"></a>
+		  <a href="/Lang_RU/Info_Privacy_Statement.asp"><img src="http://i.spamfighter.com/i/flags/ru.gif" border="0" alt="Русский" title="Русский"></a>
+		  <a href="/Lang_NL/Info_Privacy_Statement.asp"><img src="http://i.spamfighter.com/i/flags/nl.gif" border="0" alt="Nederlands" title="Nederlands"></a>
+		  <a href="/Lang_SV/Info_Privacy_Statement.asp"><img src="http://i.spamfighter.com/i/flags/se.gif" border="0" alt="Svenska" title="Svenska"></a>
+		  <a href="/Lang_NO/Info_Privacy_Statement.asp"><img src="http://i.spamfighter.com/i/flags/no.gif" border="0" alt="Norsk" title="Norsk"></a>
+		  <a href="/Lang_DA/Info_Privacy_Statement.asp"><img src="http://i.spamfighter.com/i/flags/dk.gif" border="0" alt="Dansk" title="Dansk"></a>
+		  <a href="/Lang_FI/Info_Privacy_Statement.asp"><img src="http://i.spamfighter.com/i/flags/fi.gif" border="0" alt="Suomi" title="Suomi"></a>
 		<div class="flagstart"></div>
 		</div>
 		
@@ -115,25 +126,25 @@
     
 <div class="column1">
 <h1>SPAMfighter Privacy Statement</h1>
-<p><font color="#ff0000"><font color="#000000"><font color="#ff0000"><font color="#000000">SPAMfighter ApS has created this privacy statement in order to demonstrate our sincere commitment to privacy. The following statement discloses the information gathering and dissemination practices for this web site. </font></font></font></font></p><font color="#ff0000"><font color="#000000"><font color="#ff0000"><font color="#000000">
-<p><font color="#ff0000"><font color="#000000">Logged Information<br>We log your IP address to help diagnose problems with our server and to administer our web site. This information is primarily used for general traffic tracking and security. </font></font></p><font color="#ff0000"><font color="#000000">
-<p><font color="#ff0000"><font color="#000000">Cookies<br>Our site uses cookies to track information about our visitors. That give us the possibility to learn from our users habit and patterns and again make our website and software even better.</font></font></p><font color="#ff0000"><font color="#000000">
-<p><font color="#ff0000"><font color="#000000">Order Forms<br>Our site provides order forms for you to buy products. When you place an order with us, we collect contact information (like your email address), and your credit card number. Contact information from the order forms is used only to get in touch with you when necessary. This includes sending you the product key and contacting you if there's a problem with your order. Financial information that is collected is used to bill you for the order and deleted right after use.</font></font></p><font color="#ff0000"><font color="#000000">
-<p><font color="#ff0000"><font color="#000000">Security<br>This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. This site provides a secure server for all credit card orders, securely encrypting all personal data with industry-standard methods. This site does not store credit card numbers for processed orders. </font></font></p><font color="#ff0000"><font color="#000000">
-<p><font color="#ff0000"><font color="#000000">Newsletter<br>We sign people up for our free newsletter by using the e-mail address used when downloading SPAMfighter. The email address you provide is used only to send you the free newsletter and keep track of your account.<br>Your email address will NEVER be shared with other companies!</font></font></p><font color="#ff0000"><font color="#000000">
-<p><font color="#ff0000"><font color="#000000">External Links<br>This site contains links to other sites. SPAMfighter ApS is not responsible for the privacy practices or the content of such web sites. </font></font></p><font color="#ff0000"><font color="#000000">
-</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></div><font color="#ff0000"><font color="#000000"><font color="#ff0000"><font color="#000000"><font color="#ff0000"><font color="#000000">
+<p>SPAMfighter ApS has created this privacy statement in order to demonstrate our sincere commitment to privacy. The following statement discloses the information gathering and dissemination practices for this web site. </p>
+<p>Logged Information<br>We log your IP address to help diagnose problems with our server and to administer our web site. This information is primarily used for general traffic tracking and security. </p>
+<p>Cookies<br>Our site uses cookies to track information about our visitors. That give us the possibility to learn from our users habit and patterns and again make our website and software even better. </p>
+<p>Order Forms<br>Our site provides order forms for you to buy products. When you place an order with us, we collect contact information (like your email address), and your credit card number. Contact information from the order forms is used only to get in touch with you when necessary. This includes sending you the product key and contacting you if there's a problem with your order. Financial information that is collected is used to bill you for the order and deleted right after use. </p>
+<p>Security<br>This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. This site provides a secure server for all credit card orders, securely encrypting all personal data with industry-standard methods. This site does not store credit card numbers for processed orders. </p>
+<p>Newsletter<br>We sign people up for our free newsletter by using the e-mail address used when downloading SPAMfighter. The email address you provide is used only to send you the free newsletter and keep track of your account.<br>Your email address will NEVER be shared with other companies! </p>
+<p>External Links<br>This site contains links to other sites. SPAMfighter ApS is not responsible for the privacy practices or the content of such web sites. </p>
+</div>
 
       <!--Article-End-->
-				</font></font></font></font></font></font></div><font color="#ff0000"><font color="#000000"><font color="#ff0000"><font color="#000000"><font color="#ff0000"><font color="#000000">
-			</font></font></font></font></font></font></div><font color="#ff0000"><font color="#000000"><font color="#ff0000"><font color="#000000"><font color="#ff0000"><font color="#000000">
+				</div>
+			</div>
 
 
 			<div id="footer">
 				<div class="cornerleft"></div>
 				<div class="cornerright"></div>
 			</div>	
-		</font></font></font></font></font></font></div><font color="#ff0000"><font color="#000000"><font color="#ff0000"><font color="#000000"><font color="#ff0000"><font color="#000000">
+		</div>
 
     <div id="be_a_spamfighter">
     <strong>Be all you can be, be a SPAMfighter</strong>
@@ -148,6 +159,9 @@
 				<li><a href="/Lang_ES/Info_Privacy_Statement.asp">Español</a></li>
 				<li><a href="/Lang_FR/Info_Privacy_Statement.asp">Français</a></li>
 				<li><a href="/Lang_IT/Info_Privacy_Statement.asp">Italiano</a></li>
+				<li><a href="/Lang_EL/Info_Privacy_Statement.asp">Ελληνικά</a></li>
+				<li><a href="/Lang_ZH/Info_Privacy_Statement.asp">中文（简体）</a></li>
+				<li><a href="/Lang_RU/Info_Privacy_Statement.asp">Русский</a></li>
 				<li><a href="/Lang_NL/Info_Privacy_Statement.asp">Nederlands</a></li>
 				<li><a href="/Lang_SV/Info_Privacy_Statement.asp">Svenska</a></li>
 				<li><a href="/Lang_NO/Info_Privacy_Statement.asp">Norsk</a></li>
@@ -156,35 +170,35 @@
 			</ul>
 		</div>
 	    
-	  <div id="textlanguages">
-	    <ul>
-	      <a href="Info_Privacy_Statement.asp">Privacy Statement</a>
+	  <div class="textlanguages">
+	    <ul><li>
+	      <a href="Info_Privacy_Statement.asp">Privacy Statement</a></li>
 	    </ul>
 		</div>
 		<div id="copyright">
 			<p>
-			Copyright SPAMfighter 2003-2005<br>
+			Copyright SPAMfighter 2003-2006<br>
 			All rights reserved.
 			</p>
 		</div>
-		<div id="textlanguages">
+		<div class="textlanguages">
 			<p>
-				<a href="product_sem.asp">Exchange Server Spam Filter</a> - <a href="Product_SMTP.asp">Mail Server Spam Filter</a> - <a href="http://www.euroinvestor.co.uk/">Stockquotes</a> - <a href="VIRUSfighter">Anti Virus software</a> - <a href="News_Show_Other.asp">Spam filter news</a> - <a href="Payment_Giftcard_frontpage.asp">Online Gift certificates</a>
+				<a href="product_sem.asp">Exchange Server Spam Filter</a> - <a href="Product_SMTP.asp">Mail Server Spam Filter</a> - <a href="http://www.euroinvestor.co.uk/">Stockquotes</a> - <a href="VIRUSfighter">Anti Virus software</a> - <a href="News_Show_Other.asp">Spam filter news</a> - <a href="Payment_Giftcard_frontpage.asp">Online Gift Certificate</a> - <a href="spywarefighter"> Spyware Remover</a><br><a href="block_spam.asp">Block Spam</a> - <a href="spam_blocker.asp">Spam Blocker</a> - <a href="anti_spam_software.asp">Anti Spam Software</a> - <a href="block_email_junk.asp">Block Email Junk</a> - <a href="http://www.spamfighter.com/sem_exchange_anti_spam.asp">Exchange anti spam</a> - <a href="http://www.spamfighter.com/sem_enterprise_spam_filter.asp">Enterprise Spam Filter</a> - <a href="http://www.spamfighter.com/sem_email_server_spam_filter.asp">Email Server Spam Filter</a> - <a href="http://www.oaksky.com">Spam and virus filter</a>
 			</p>
 		</div>
-</font></font></font></font></font></font></div><font color="#ff0000"><font color="#000000"><font color="#ff0000"><font color="#000000"><font color="#ff0000"><font color="#000000">
+<!--/div-->
 <!-- IndexTools Customization Code -->
 <!-- Remove leading // to activate custom variables -->
-<script language="Javascript">
+<script language="Javascript" type="text/javascript">
 //var DOCUMENTGROUP='';
 //var DOCUMENTNAME='';
 
 </script>
 <!-- End of Customization Code -->
 <!-- IndexTools Code v3.01 - All rights reserved -->
-<script language="javascript1.1" src="http://www.spamfighter.com/incJS/indextools.js"></script><noscript>
-<img src="http://stats.indextools.com/p.pl?a=1000420930560&js=no" width="1" height="1"></noscript><!--//-->
+<script language="javascript1.1" type="text/javascript" src="http://www.spamfighter.com/incJS/indextools.js"></script><noscript>
+<img src="http://stats.indextools.com/p.pl?a=1000420930560&amp;js=no" alt="" width="1" height="1" /></noscript><!--//-->
 <!-- End of IndexTools Code -->
 
 
-<!-- 0.078125 sec--></font></font></font></font></font></font></body></html>
+<!-- 0.125 sec--></body></html>
