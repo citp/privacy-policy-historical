@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fec.gov privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210064710id_/http%3A//www.fec.gov/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fec.gov privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628185015id_/http%3A//www.fec.gov/privacy.shtml) for the most accurate reproduction.*
 
 # FEC Website Privacy Policy
 
