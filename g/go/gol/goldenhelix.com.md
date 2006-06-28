@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231074518id_/http%3A//www.goldenhelix.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenhelix.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628034307id_/http%3A//www.goldenhelix.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Golden Helix, Inc. | Privacy Statement
 
-|  [](https://web.archive.org/web/20051231074518id_/http%3A//www.goldenhelix.com/about.html)  
+|  [](https://web.archive.org/web/20060628034307id_/http%3A//www.goldenhelix.com/about.html)  
 ---  
 | 
 
@@ -10,9 +10,9 @@ NEWS FLASH
   
 ---  
   
-HelixTree achieves GeneChip-compatible™ status with Affymetrix Microarray Platform. Sep. 14, 2005. [More...](https://web.archive.org/web/20051231074518id_/http%3A//www.goldenhelix.com/pressrelease9_14_05_Affymetrix.html)
+June 8, 2006 - Golden Helix, Inc. signs exclusive licensing agreement with Dr. Christoph Lange, Harvard School of Public Health. Now offering PBAT: Tools for Family Based Association Tests. [More...](https://web.archive.org/web/20060628034307id_/http%3A//www.goldenhelix.com/pbat.html)
 
-Affymetrix and Golden Helix collaborate to present a educational primer on SNP analyses with 100k GeneChip Mapping Arrays. Jul. 13, 2005. [More...](https://web.archive.org/web/20051231074518id_/http%3A//www.goldenhelix.com/affymetrix_genechip_compatible.html)  
+March 21, 2006 - Affymetrix & Golden Helix presented an educational primer on whole genome association studies with 500k GeneChip® Mapping Arrays™. [View...](https://web.archive.org/web/20060628034307id_/http%3A//www.goldenhelix.com/affymetrix_tutorial20060321/AffyGHIWebcast20060321.html)  
   
 |  |  | 
 
