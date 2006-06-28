@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorado.gov privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108032234id_/http%3A//www.colorado.gov/colorado/privacy-security-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorado.gov privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628185001id_/http%3A//www.colorado.gov/colorado/privacy-security-policy.html) for the most accurate reproduction.*
 
 # colorado.gov
 
