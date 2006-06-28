@@ -1,52 +1,163 @@
-<!--The following is the downloaded HTML source of the lp.org privacy policy that was archived on 2005-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051228090025id_/http%3A//lp.org/organization/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lp.org privacy policy that was archived on 2006-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060629014506id_/http%3A//www.lp.org/organization/privacy.shtml) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>National Libertarian Party </title>
+<html><head>
+<title>Official Website of the Libertarian National Committee</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
 <meta name="author" content="Libertarian Party">
 <meta name="keywords" content="libertarian, party, political party, united states, third party, laissez faire, free market, individual rights, non initiation of force, limited government, politics, liberty, personal responsibility">
 <meta name="description" content="The Libertarian Party is committed to America's heritage of freedom: individual liberty and personal responsibility; a free-market economy of abundance and prosperity; a foreign policy of non-intervention, peace, and free trade.">
 
-<link rel="stylesheet" type="text/css" href="/css/main.css">
+
+<link rel="stylesheet" type="text/css" href="/css/complete.css">
+
+<script type="text/javascript">
+
+function cdtime(container, targetdate){
+if (!document.getElementById || !document.getElementById(container)) return
+this.container=document.getElementById(container)
+this.currentTime=new Date()
+this.targetdate=new Date(targetdate)
+this.timesup=false
+this.updateTime()
+}
+
+cdtime.prototype.updateTime=function(){
+var thisobj=this
+this.currentTime.setSeconds(this.currentTime.getSeconds()+1)
+setTimeout(function(){thisobj.updateTime()}, 1000) //update time every second
+}
+
+cdtime.prototype.displaycountdown=function(baseunit, functionref){
+this.baseunit=baseunit
+this.formatresults=functionref
+this.showresults()
+}
+
+cdtime.prototype.showresults=function(){
+var thisobj=this
+
+
+var timediff=(this.targetdate-this.currentTime)/1000 //difference btw target date and current date, in seconds
+if (timediff<0){ //if time is up
+this.timesup=true
+this.container.innerHTML=this.formatresults()
+return
+}
+var oneMinute=60 //minute unit in seconds
+var oneHour=60*60 //hour unit in seconds
+var oneDay=60*60*24 //day unit in seconds
+var dayfield=Math.floor(timediff/oneDay)
+var hourfield=Math.floor((timediff-dayfield*oneDay)/oneHour)
+var minutefield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour)/oneMinute)
+var secondfield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour-minutefield*oneMinute))
+if (this.baseunit=="hours"){ //if base unit is hours, set "hourfield" to be topmost level
+hourfield=dayfield*24+hourfield
+dayfield="n/a"
+}
+else if (this.baseunit=="minutes"){ //if base unit is minutes, set "minutefield" to be topmost level
+minutefield=dayfield*24*60+hourfield*60+minutefield
+dayfield=hourfield="n/a"
+}
+else if (this.baseunit=="seconds"){ //if base unit is seconds, set "secondfield" to be topmost level
+var secondfield=timediff
+dayfield=hourfield=minutefield="n/a"
+}
+this.container.innerHTML=this.formatresults(dayfield, hourfield, minutefield, secondfield)
+setTimeout(function(){thisobj.showresults()}, 1000) //update results every second
+}
+
+function formatresults(){
+if (this.timesup==false){//if target date/time not yet met
+var displaystring=arguments[0]+ "&nbsp;" 
+}
+else{ //else if target date/time met
+var displaystring="Today!"
+}
+return displaystring
+}
+</script>
+
+
 </head>
 
-<body background="/images/bg_red.gif" bgcolor="#ffffff" text="#000000" link="#333366" vlink="#333366" alink="#333366" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0" rightmargin="0"><basefont face="Trebuchet MS, Verdana, Arial, Helvetica" size="3">
-
-<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td valign="top">
-
-
-<table width="100%" height="99" border="0" cellpadding="0" cellspacing="0"><tbody><tr height="98" valign="bottom"><td align="right" background="/images/headline.jpg"><img src="/images/title2.gif" width="300" height="60" alt="The Libertarian Party: The Party of Principle"><br><nobr><img src="/images/space.gif" width="40" height="1"><a href="http://www.lp.org/action/action.shtml" onmouseover="window.status='Action Items';return true" onmouseout="window.status='';return true"><img src="/images/menus/action.gif" border="0" alt="Action Items"></a><img src="/images/space.gif" width="3" height="1" alt=""><a onmouseover="window.status='Press Center';return true" onmouseout="window.status='';return true" href="http://www.lp.org/press.shtml"><img src="/images/menus/press.gif" border="0" alt="Press Center"></a><img src="/images/space.gif" width="3" height="1" alt=""><a onmouseover="window.status='Issues &amp; Positions';return true" onmouseout="window.status='';return true" href="http://www.lp.org/issues/issues.shtml"><img src="/images/menus/issues.gif" border="0" alt="Issues &amp; Positions"></a><img src="/images/space.gif" width="3" height="1" alt=""><a onmouseover="window.status='Organization';return true" onmouseout="window.status='';return true" href="http://www.lp.org/organization.shtml"><img src="/images/menus/organization.gif" border="0" alt="Organization"></a><img src="/images/space.gif" width="3" height="1" alt=""><a onmouseover="window.status='Liberty Store';return true" onmouseout="window.status='';return true" href="http://www.lp.org/store/store.shtml"><img src="/images/menus/store.gif" border="0" alt="Liberty Store"></a><img src="/images/space.gif" width="3" height="1" alt=""><a onmouseover="window.status='Members Only';return true" onmouseout="window.status='';return true" href="http://www.lp.org/members/members.shtml"><img src="/images/menus/members.gif" border="0" alt="Members Only"></a><img src="/images/space.gif" width="10" height="1" alt=""></nobr></td></tr>
+<body background="/images/bg.gif" bgcolor="#D6DADA" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="overflow-x:hidden ">
+<div align="center">
+<img src="/images/top.gif"><table width="780" height="26" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr align="left" valign="top">
+<td><img src="/images/top2l.gif"></td>
+<td>
+<table width="284" height="26" border="0" cellpadding="0" cellspacing="0" background="/images/countdown.gif">
+<tbody><tr align="left" valign="middle">
+<td><span class="style37">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Days Until General Election:</span></td>
+<td>
+<span class="style35"><div id="countdowncontainer">Today!</div>
+<script type="text/javascript">
+var futuredate=new cdtime("countdowncontainer", "November 7, 2006 00:00:00")
+futuredate.displaycountdown("days", formatresults)
+</script>
+</span></td>
+<td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+</tbody></table></td>
+</tr>
 </tbody></table>
 
-<table background="/images/bg_white.gif" bgcolor="#ffffff" width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr height="15">
-	<td width="15" background="/images/bg_white.gif" bgcolor="#ffffff"><img src="/images/corner1_white_ongreen.jpg" width="15" height="15" alt="" hspace="0" vspace="0" align="left"></td>
-	<td background="/images/bg_white.gif" bgcolor="#ffffff"><img src="/images/space.gif" width="1" height="15" align="left" hspace="0" vspace="0" alt=""></td>
-	<td width="15" background="/images/bg_white.gif" bgcolor="#ffffff"><img src="/images/corner2_white.jpg" width="15" height="15" alt="" hspace="0" vspace="0" align="right"></td>
-	</tr>
-	<tr valign="top">
-		<td width="15" background="/images/bg_white.gif" bgcolor="#ffffff">
-		<img src="/images/space.gif" width="15" height="1">
-		</td>
-		<td background="/images/bg_white.gif" bgcolor="#ffffff">
-			<font face="Arial, Helvetica" size="-1">
-	</font><table width="100%" border="0" cellpadding="8" cellspacing="0">
-				<tbody><tr valign="top">
-					<td width="140">
-						
-						<center><a href="/index.shtml"><img src="/images/menus/home.gif" border="0" alt="Home"></a></center><br><br>
+<table width="780" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr align="left" valign="top">
+<td><img src="/images/top3.gif"></td>
+<td>
+<!--** START NAVSTUDIO MENU TAGS (232836) **-->
+<div id="vqp_about" style="position:absolute;visibility:hidden;">****JavaScript based drop down DHTML menu generated by NavStudio. (OpenCube Inc. - http://www.opencube.com)****</div>
+<script language="JavaScript" vqptag="doc_level_settings" vqp_datafile0="lpmenu.js" vqp_uid0="232836">cdd__codebase = "/menu/";cdd__codebase232836 = "/menu/";</script>
+<script language="JavaScript" vqptag="datafile" src="/menu/lpmenu.js"></script><script language="JavaScript" vqptag="loader_sub" src="/menu/pbrowser_safari.js"></script><script vqptag="placement" vqp_menuid="232836" language="JavaScript">create_menu(232836)</script>
+<!--** END NAVSTUDIO MENU TAGS **-->
+</td>
+</tr>
+</tbody></table>
+<table width="780" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr align="left" valign="top">
+<td colspan="2"><img src="/images/mainfrag2.gif" hspace="0" vspace="0"></td>
+</tr>
+<tr align="left" valign="top">
+<td><img src="/images/mainlogo2.gif" width="185" height="76"></td>
+<td nowrap=""><!-- START ADCYCLE SSI MEDIA CODE for Secondary Pages -->
+<script language="javascript">
+<!-- /* © 2001 AdCycle.com All Rights Reserved.*/ 
+document.cookie="i4=4:6:1:1151545499:266|||||||||||||||||||||||||||||||||||; path=/; expires=Sat, 29-Jul-2006 01:44:59 GMT";
+// -->
+</script>
+<!-- START ADCYCLE  HTML CODE --><a href="http://www.lp.org/cgi-bin/adcycle/adclick.cgi?cid=4&amp;mid=6&amp;gid=3&amp;id=266" target="_top"><img src="http://www.lp.org/images/bannerlocal.gif" width="595" height="76" border="0" alt="Meet your local LP!"></a><br><!-- END ADCYCLE HTML CODE -->
 
-						<img src="/images/menus/additional.gif" width="140" height="23" alt="Additional Info"><br>
-							<table width="140" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
-								<tbody><tr>
-									<td align="center">
-										<table width="138" bgcolor="#ffffff" border="0" cellpadding="4" cellspacing="0">
-											<tbody><tr>
-												<td>
-												   
-    <b>›</b>&nbsp; <span class="nav_right_headlines"><a href="/organization/hq.shtml">The Libertarian Party is headquartered in Washington D.C.</a> - Click here for more information</span><br>
+<!-- END ADCYCLE CODE --></td>
+</tr>
+<tr align="left" valign="top">
+<td><a href="/"><img src="/images/mainhome.gif" width="185" height="33" border="0"></a></td>
+<td><img src="/images/mainfrag3.gif" width="595" height="33"></td>
+</tr>
+
+</tbody></table>
+<table width="780" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr align="left" valign="top"><td><img src="/images/bodytop.gif" width="780" height="25"></td>
+</tr>
+</tbody></table>
+
+
+
+
+
+                  <table width="780" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+                    <tbody><tr align="left" valign="top">
+                      <td width="150">
+                            <table width="150" border="0" cellspacing="0" cellpadding="0">
+ 					                            <tbody><tr>
+                            <td align="left" valign="top"><div style="padding-left:10px; padding-top:15px; padding-bottom:10px"><img src="/images/point_2.jpg" hspace="5"> <span class="style32">Additional Info</span>
+                                    <div style="padding-left:0px; padding-top:5px; padding-bottom:0px"><span class="style29">   
+    <b>›</b>&nbsp; <span class="nav_right_headlines"><a href="http://www.lp.org/organization/archives.shtml">LNC Meeting Archives</a> - Click here</span><br clear="all"></span>
+
+      <b>›</b>&nbsp; <span class="nav_right_headlines"><a href="/organization/hq.shtml">The Libertarian Party is headquartered in Washington D.C.</a> - Click here for more information</span><br>
       <b>›</b>&nbsp; <span class="nav_right_headlines"><a href="/lpnews/">Be sure to check the latest News for upcoming events of note to the Libertarian organization.</a> - Click here</span><br>
       <b>›</b>&nbsp; <span class="nav_right_headlines"><a href="/organization/states.shtml">Affiliate parties and local organizations exist for all fifty states</a> - </span><br>
       <b>›</b>&nbsp; <span class="nav_right_headlines"><a href="/organization/lncdirectory2.shtml">National E-mail Directory</a> - Click here</span><br>
@@ -65,45 +176,62 @@
       
       
 
-<br>																		</td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-							</tbody></table>
+<br></div>
+                            </div></td>
+                          </tr>
 
-<br><br>
+                          <tr>
+                            <td align="left" valign="top"><div align="center"><img src="/images/line_3.jpg" width="150" height="1"></div></td>
+                          </tr>					                            <tr>
+                            <td align="left" valign="top"><div style="padding-left:10px; padding-top:15px; padding-bottom:10px"><img src="/images/point_2.jpg" hspace="5"><span class="style32">Get Involved!</span>
+				<div style="padding-left:0px; padding-top:5px; padding-bottom:0px"><span class="style29"><!-- START ADCYCLE TEXT CODE for Text Ads--><script src="http://www.lp.org/cgi-bin/adcycle/adcycle.cgi?gid=4&amp;target=_top&amp;id=250"></script>
+<!-- END ADCYCLE CODE --></span>
+                                        
+                                    </div>
+                            </div></td>
+                          </tr>
 
-						<img src="/images/menus/search.gif" width="140" height="23" alt="Search"><br>
-							<table width="140" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
-								<tbody><tr>
-									<td align="center">
-										<table width="138" bgcolor="#ffffff" border="0" cellpadding="4" cellspacing="0">
-											<tbody><tr>
-												<td>
-												<font face="Trebuchet MS, Arial, Helvetica" size="-2" color="#000000"><b>
-		</b></font><center><font face="Trebuchet MS, Arial, Helvetica" size="-2" color="#000000"><b><form method="GET" action="http://www.lp.org/cgi-bin/search/exec/search.cgi">
-  <input type="text" name="search" value="" size="10">
-  <input type="submit" name="perform_search" value="Go">
-  <input type="hidden" name="skin" value="">
-</form><a onmouseover="window.status='Advanced Search';return true" onmouseout="window.status='';return true" href="http://www.lp.org/cgi-bin/search/exec/search.cgi">Advanced Search</a></b></font><center><font face="Trebuchet MS, Arial, Helvetica" size="-2" color="#000000"><b></b></font>												</center></center></td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-							</tbody></table>
+                          <tr>
+                            <td align="left" valign="top"><div align="center"><img src="/images/line_3.jpg" width="150" height="1"></div></td>
+                        </tr>
+						  <tr>
+                            <td align="left" valign="top"><br><br><center><!-- START ADCYCLE SSI MEDIA CODE for Left Nav -->
+<script language="javascript">
+<!-- /* © 2001 AdCycle.com All Rights Reserved.*/ 
+document.cookie="i5=6:20:1:1151545499:88|||||||||||||||||||||||||||||||||||; path=/; expires=Sat, 29-Jul-2006 01:44:59 GMT";
+// -->
+</script>
+<!-- START ADCYCLE  HTML CODE --><a href="http://www.lp.org/cgi-bin/adcycle/adclick.cgi?cid=6&amp;mid=20&amp;gid=5&amp;id=88" target="_top"><img src="http://www.lp.org/adimages/meetup.gif" width="140" height="200" border="0" alt="Click to Visit"></a><br><!-- END ADCYCLE HTML CODE -->
+
+<!-- END ADCYCLE CODE --></center><br><br>
+                                    
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top"><div align="center"><img src="/images/line_3.jpg" width="150" height="1"></div></td>
+                        </tr>
+
+                        <tr>
+                          <td align="left" valign="top" style="background-repeat:no-repeat; background-position:bottom "><div style="padding-left:19px; padding-top:10px; padding-bottom:0px"></div>
+                          </td>
+                        </tr>
+                      </tbody></table></td>
+                      <td width="1" bgcolor="BEBEBE" class="style7"><img src="/images/spacer.gif" width="1" height="1"></td>
+                      <td width="100%" class="style7"><table width="480" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                          <td align="left" valign="top"><div style="padding-left:10px; padding-top:10px; padding-bottom:0px">
+                            <table width="95%" border="0" cellspacing="0" cellpadding="0">
+                              <tbody><tr align="left" valign="top">
+                                <td width="8" height="8"><img src="/images/left_pic_1.jpg" width="8" height="8"></td>
+                                <td height="8" background="/images/pix_1.jpg" style="background-repeat:repeat-x; background-position:top "><img src="/images/spacer.gif" width="1" height="8"></td>
+                                <td width="8" height="8" align="right"><img src="/images/right_pic_1.jpg" width="8" height="8"></td>
+                              </tr>
+                              <tr align="left" valign="top">
+                                <td background="/images/pix_1.jpg" style="background-repeat:repeat-y; background-position:left ">&nbsp;</td>
+                                <td>
 
 
 
-					</td>
-
-					<td width="5" id="smalldots" align="center" background="/images/bg_white_dots8.gif"><img src="/images/space.gif" width="5" height="1"></td>
-
-
-					<td valign="top"><font face="Arial, Helvetica">
-	
-
-	
 
 <!-- BEGIN CONTENT MAIN -->
 <div align="left">
@@ -165,48 +293,51 @@
 
 
 <!-- END MAIN CONTENT -->
-		</font></td>
-					<td width="5" align="center" background="/images/bg_white_dots8.gif">
-					<img src="/images/space.gif" width="5" height="1">
-					</td>
-<!-- Begin Right Bar  -->
-					<td width="140">
 
 
 
-							<img src="/images/menus/actioncenter.gif" width="140" height="23" alt="Action Center"><br>
-		<table width="140" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0" background="">
-			<tbody><tr>
-				<td align="center">
-					<table width="138" bgcolor="#003366" border="0" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td>
-							<font face="Trebuchet MS, Arial, Helvetica" size="-1" color="#ffffff">
-							<a href="http://www.lp.org/action/info.shtml" onmouseover="window.status='Request Information';return true" onmouseout="window.status='';return true">
-							<img src="/images/action1_off.gif" width="138" height="20" name="action1" border="0" alt="Request Information"></a><br>
-							<a href="http://www.lp.org/members/join.shtml" onmouseover="window.status='Join the LP!';return true" onmouseout="window.status='';return true"><img src="/images/action2_off.gif" width="138" height="20" name="action2" border="0" alt="Join the LP!"></a><br><a href="http://www.lp.org/members/contribute.shtml" onmouseover="window.status='Contribute';return true" onmouseout="window.status='';return true"><img src="/images/action3_off.gif" width="138" height="20" alt="Contribute" name="action3" border="0"></a></font></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-<img src="/images/menus/actioncenterb.gif">
 
 
 
-					<br><br>
 
 
-						<img src="/images/menus/quicklinks.gif" width="140" height="23" alt="Quick Links"><br>
-							<table width="140" bgcolor="#000000" border="0" cellpadding="1" cellspacing="0">
-								<tbody><tr>
-									<td align="center">
-										<table width="138" bgcolor="#ffffff" border="0" cellpadding="4" cellspacing="0">
-											<tbody><tr>
-												<td>
-												   
-    <b>›</b>&nbsp; <span class="nav_right_headlines"><a href="http://www.lp.org/members/subscribe.shtml">Subscribe to our E-mail List</a> - Join Now!</span><br>
-      <b>›</b>&nbsp; <span class="nav_right_headlines"><a href="http://www.libertarianparty.net/action/action.shtml">Five Things that you can do today!</a> - Click Here</span><br>
+
+</td>                                <td background="/images/pix_1.jpg" style="background-repeat:repeat-y; background-position:right ">&nbsp;</td>
+
+
+                              </tr>
+                              <tr align="left" valign="top">
+                                <td width="8" height="8" valign="bottom"><img src="/images/left_pic_2.jpg" width="8" height="8"></td>
+                                <td height="8" background="/images/pix_1.jpg" style="background-repeat:repeat-x; background-position:bottom "><img src="/images/spacer.gif" width="1" height="8"></td>
+
+                                <td width="8" height="8" align="right"><img src="/images/right_pic_2.jpg" width="8" height="8"></td>
+                              </tr>
+                            </tbody></table>
+<br><br>							
+                          </div></td>
+                        </tr>
+                          
+							
+                          
+						  
+                        
+
+
+
+
+
+                      </tbody></table></td>
+                      <td width="1" bgcolor="BEBEBE" class="style7"><img src="/images/spacer.gif" width="1" height="1"></td>
+                      <td class="style7" width="150"><div style="padding-left:0px; padding-top:0px">
+                        <table width="142" border="0" cellspacing="0" cellpadding="0">
+                          <tbody><tr>
+                            <td align="left" valign="top">
+
+<div style="padding-left:5px; padding-top:15px; padding-bottom:10px"><img src="/images/point_2.jpg" hspace="5"> <span class="style32">Quick Links</span>
+                                    <div style="padding-left:0px; padding-top:5px; padding-bottom:0px"><span class="style29">   
+    <b>›</b>&nbsp; <span class="nav_right_headlines"><a href="http://www.lp.org/members/contribute2.shtml">Join the Liberty Pledge Club!</a> - Be one of our most valued supporters!</span><br>
+      <b>›</b>&nbsp; <span class="nav_right_headlines"><a href="http://www.lp.org/action/action.shtml">Things you can do today!</a> - visit the action center.</span><br>
+      <b>›</b>&nbsp; <span class="nav_right_headlines"><a href="http://www.lp.org/members/subscribe.shtml">Subscribe to our E-mail List</a> - Join Now!</span><br>
       
 
       
@@ -222,49 +353,67 @@
       
       
 
-<br>												</td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-							</tbody></table>					<br><br>
+<br></span>
+                                        
+                                    </div>
+                            </div></td>
+                          </tr>
+				 <tr>
+                            <td align="left" valign="top"><div align="center"><img src="/images/line_3.jpg" width="150" height="1"></div></td>
+                          </tr>
+					<tr>
+                            <td align="left" valign="top"><div style="padding-left:5px; padding-top:15px; padding-bottom:10px"><img src="/images/point_2.jpg" hspace="5"> <span class="style32">LP State Orgs</span>
+                                    <div style="padding-left:0px; padding-top:5px; padding-bottom:0px"><span class="style29"><!-- START ADCYCLE TEXT CODE for LP States-->
+<script src="http://www.lp.org/cgi-bin/adcycle/adcycle.cgi?gid=6&amp;target=_top&amp;id=238"></script>
+<!-- END ADCYCLE CODE --></span>
+                                        
+                                    </div>
+                            </div></td>
+                          </tr>
+
+                          <tr>
+                            <td align="left" valign="top"><div align="center"><img src="/images/line_3.jpg" width="150" height="1"></div></td>
+                          </tr>					                           
+				 <tr>
+                            <td align="left" valign="top"><div style="padding-left:10px; padding-top:15px; padding-bottom:10px"><img src="/images/point_2.jpg" hspace="5"> <span class="style32">Search LP.org</span>
+                                    <div style="padding-left:0px; padding-top:5px; padding-bottom:0px"><span class="style29"><font face="Trebuchet MS, Arial, Helvetica" size="-2" color="#000000"><b>
+		</b></font><center><font face="Trebuchet MS, Arial, Helvetica" size="-2" color="#000000"><b><form method="GET" action="http://www.lp.org/cgi-bin/search/exec/search.cgi">
+  <input type="text" name="search" value="" size="10">
+  <input type="submit" name="perform_search" value="Go">
+  <input type="hidden" name="skin" value="">
+</form><a onmouseover="window.status='Advanced Search';return true" onmouseout="window.status='';return true" href="http://www.lp.org/cgi-bin/search/exec/search.cgi">Advanced Search</a></b></font><center><font face="Trebuchet MS, Arial, Helvetica" size="-2" color="#000000"><b></b></font>	
+                                        
+                                    </center></center></span></div>
+                            </div></td>
+                          </tr>
+
+                          <tr>
+                            <td align="left" valign="top"><div align="center"><img src="/images/line_3.jpg" width="150" height="1"></div></td>
+                          </tr>
+
+                        </tbody></table>
+                        </div></td>
+                    </tr>
+  </tbody></table>
+</div>
+              
+            
+          
+        
+	
 
 
-					</td>
-				</tr>
-			</tbody></table><font face="Arial, Helvetica" size="-1">
-		</font></td>
-		<td width="15" background="/images/bg_white.gif" bgcolor="#ffffff">
-		<img src="/images/space.gif" width="1" height="200" align="left">
-		</td>
-	</tr>
-	<tr height="15">
-		<td width="15" background="/images/bg_white.gif" bgcolor="#ffffff">
-		<img src="/images/corner3_white.jpg" width="15" height="15" alt="" hspace="0" vspace="0" align="left">
-		</td>
-		<td background="/images/bg_white.gif" bgcolor="#ffffff">
-		<img src="/images/space.gif" width="1" height="15" align="left" hspace="0" vspace="0" alt="">
-		</td>
-		<td width="15" background="/images/bg_white.gif" bgcolor="#ffffff">
-		<img src="/images/corner4_white.jpg" width="15" height="15" alt="" hspace="0" vspace="0" align="right">
-		</td>
-	</tr>
-</tbody></table>
+<div align="center" style="padding-left:0px; padding-top:9px"><a href="#" class="style30" style="text-decoration:none ">Libertarian National Committee, Inc.</a><span class="style30"> © 2006 • </span><a href="http://www.lp.org/organization/privacy.shtml" class="style30" style="text-decoration:none ">Privacy Policy</a><span class="style30"><br> Paid for by the Libertarian National Committee -- 2600 Virginia Ave, N.W. Suite 200, Washington D.C. 20037<br>Content not authorized by any candidate or candidate committee</span></div>
 
-<br>
-
-<center><font face="Verdana, Arial, Helvetica" size="-2"><a href="http://www.lp.org" class="ondarkcopy"><font face="Verdana, Arial, Helvetica" size="-2">HOME</font></a> ||
-<a href="/organization/contact.shtml" class="ondark"><font face="Verdana, Arial, Helvetica" size="-2">CONTACT</font></a><br>
-Copyright © 1994-2005, the Libertarian Party except where otherwise noted. 
-All rights reserved worldwide.<br>
-<a href="/organization/privacy.shtml" class="ondarkcopy"><font face="Verdana, Arial, Helvetica" size="-2">PRIVACY POLICY 
-AND LEGAL TERMS</font></a></font></center>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-432479-1";
+urchinTracker();
+</script>
 
 
-<br>&nbsp;
-</td>
-</tr>
-</tbody></table>
+
 
 
 
