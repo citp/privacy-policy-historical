@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.nd.us privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210133122id_/http%3A//www.nd.gov/content.htm%3Fid%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.nd.us privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628184617id_/http%3A//www.nd.gov/content.htm%3Fid%3DPrivacy) for the most accurate reproduction.*
 
 # nd.gov: Official Portal for North Dakota State Government
 
@@ -27,7 +27,7 @@ To protect the information being gathered this site has security measures in pla
 
 Specific information regarding encryption, credit card information, social security numbers and cookies will be addressed on the pages that use this information.
 
-If you send an email from DiscoverND, the email address will be collected as a means to reply to you. We may forward your message to another agency for appropriate action.
+If you send an email from nd.gov, the email address will be collected as a means to reply to you. We may forward your message to another agency for appropriate action.
 
 ## Retention of Information:
 
@@ -35,4 +35,4 @@ The information collected on this site is retained in accordance with the Record
 
 ## Contact Information:
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20051210133122id_/http%3A//www.nd.gov/contactus.htm).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20060628184617id_/http%3A//www.nd.gov/contactus.htm).
