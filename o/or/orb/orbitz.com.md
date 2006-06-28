@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the orbitz.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217173855id_/http%3A//www.orbitz.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitz.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628203948id_/http%3A//www.orbitz.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
 
 # Orbitz: Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.orbitz.com&sealid=101)
 
-Effective March 12, 2005
+Effective May 20, 2006
 
 ## Orbitz® Privacy Policy
 
@@ -21,7 +21,7 @@ Your privacy is very important to Orbitz LLC ("we" or "us"). This Privacy Policy
 
 **Your California Privacy Rights**
 
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us at: customerservice@orbitz.com, or write to us at: Customer Service, Orbitz LLC, 200 South Wacker Drive, Suite 1900, Chicago, IL 60606 with a reference to California Disclosure Information. 
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us at: customerservice@orbitz.com, or write to us at: Customer Service, Orbitz LLC, 500 West Madison Avenue, Suite 1000, Chicago, IL 60661 with a reference to California Disclosure Information. 
 
 We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year. 
 
@@ -54,7 +54,7 @@ The remainder of this policy describes our Personal Information handling practic
 > 
 > **"Personal Information"** means any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred from the information. This includes, for example, name, e-mail and mailing address and telephone number, billing and account information, and other information incidental to providing Products or Services (including information about individuals traveling with you).
 > 
-> **"Products or Services"** means the airline travel, hotel accommodation, car rental, ground transportation, tours, theater tickets, attractions, travel insurance, care alerts, and other items available from the Site.
+> **"Products or Services"** means the airline travel, hotel accommodation, car rental, ground transportation, tours, theater tickets, attractions, travel insurance, OrbitzTLCSM Alerts, and other items available from the Site.
 > 
 > To **"Purchase"** means to book, reserve or purchase.
 > 
@@ -74,7 +74,7 @@ The remainder of this policy describes our Personal Information handling practic
 > 
 > **Other Travelers or Contacts**
 >
->> If you Purchase Products or Services for other travelers using your Member ID and password, or if you provide us with contact information of a third party for Care Alerts, you must make sure that you have the right to do so. By providing the Personal Information of another traveler, you represent that you have all necessary authority and/or have obtained all necessary consents from such person to enable us to collect, use and disclose his or her Personal Information as set forth in this Privacy Policy.
+>> If you Purchase Products or Services for other travelers using your Member ID and password, or if you provide us with contact information of a third party for OrbitzTLC Alerts, you must make sure that you have the right to do so. By providing the Personal Information of another traveler, you represent that you have all necessary authority and/or have obtained all necessary consents from such person to enable us to collect, use and disclose his or her Personal Information as set forth in this Privacy Policy.
 
 3\. 
 
@@ -110,15 +110,15 @@ _What Personal Information we collect_
 >> 
 >> If you Purchase Products or Services as a Guest, you must provide Personal Information to complete the booking (for example, name, phone number, billing information), as required by the travel service provider(s). You must also provide an e-mail address, so that we can send you our welcome e-mail and a confirmation of the Purchase. With the confirmation, we will provide you with a temporary password so that you can return to the Site if you wish to review information about your Purchase.
 > 
-> **When you use "Subscribe"**
+> **When you "Subscribe"**
 >
 >> When you become a Subscriber, we collect your name and email address, so that you may receive offers or promotions from Orbitz without becoming a Member or Guest.
 > 
-> **When you Purchase Air - Care Alert service**
+> **When you Purchase Air - OrbitzTLC Alert service**
 >
->> Our Care Alert service provides timely updates about your air travel arrangements. For example, changes in gate assignment or delays in departure or arrival time. Care Alerts are automatically sent to the email address that you provide with the air itinerary. You can choose to have the Care Alerts sent to a voice mobile phone in the booking process or to an alternate device (telephone, pager or other wireless device) in My Stuff. We will collect the e-mail address or the telephone number of the device to which we should send the information, and store it in My Stuff.
+>> Our OrbitzTLC Alert service provides timely updates about your air travel arrangements. For example, changes in gate assignment or delays in departure or arrival time. OrbitzTLC Alerts are automatically sent to the email address that you provide with the air itinerary. You can choose to have the OrbitzTLC Alerts sent to a voice mobile phone in the booking process or to an alternate device (telephone, pager or other wireless device) in My Stuff. We will collect the e-mail address or the telephone number of the device to which we should send the information, and store it in My Stuff.
 >> 
->> If you request that we direct a Care Alert to someone other than yourself, you need to provide in My Stuff, Personal Information about that other person, as necessary to send the requested Care Alert (e.g., that person's name and phone number or e-mail address).
+>> If you request that we direct a OrbitzTLC Alert to someone other than yourself, you need to provide in My Stuff, Personal Information about that other person, as necessary to send the requested OrbitzTLC Alert (e.g., that person's name and phone number or e-mail address).
 > 
 > **When you participate in contests, promotions, raffles, or sweepstakes**
 >
@@ -152,10 +152,10 @@ _How we use the information we collect_
 >   * To issue invoices, administer accounts, collect and process payments; 
 >   * To provide tips or guidance on how to use our Site, inform you of new features on our Site, or provide other information that may be of interest to users; 
 >   * To personalize the service we provide to you, tailor your experience at our Site to your interests and make more appropriate travel recommendations; 
->   * To send you e-mails, e-newsletters, personalized offers via direct messaging or other communications about our services, if you have subscribed to receive this information; 
+>   * To send you e-mails, e-newsletters, personalized offers via direct messaging or other communications about our services, if you have subscribed to receive this information or you have not advised us that you do not wish to receive such communications; 
 >   * To manage our Site, diagnose technical problems, improve content, and allocate the resources of our systems so that your experience with our Site is as efficient as possible; 
 >   * To process and track your transactions and to send you information about our and our affiliates' and business partners' products and services and other information and materials that may be of interest to you; 
->   * To develop, enhance, market, sell or provide Orbitz's Products or Services, or those of companies with which we have a commercial relationship, but only if you have granted us permission to do so; 
+>   * To develop, enhance, market, sell or provide Orbitz's Products or Services, or those of companies with which we have a commercial relationship, but only if you have granted us permission to do so or we are otherwise able to do so under applicable law; 
 >   * To evaluate credit standing and to match credit bureau or credit reporting agency information; to investigate, detect and protect Orbitz and other third parties against error, negligence, breach of contract, fraud, theft and other illegal activities; 
 >   * To effect a corporate transaction, in connection with the sale, merger, spin-off, or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business; 
 >   * To audit compliance with our policies and contractual obligations; 
@@ -205,7 +205,7 @@ _To whom we disclose Personal Information_
 > From time to time, we may disclose your Personal Information as follows:
 > 
 >   * To those travel service providers with which you make arrangements through our Site, for example, airlines, car rental, hotel, ground transportation, theater, attraction, or travel insurance. We provide them with the Personal Information needed to make and complete the purchase, booking, or reservation. 
->   * To organizations that perform services for or on behalf of Orbitz, for example to provide customer service, deliver tickets, ship items, process credit cards, for research, marketing, data processing, to measure the use of our Site, to facilitate usage by a Visitor, or to offer credit card services or evaluate your creditworthiness. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in other countries. Your Personal Information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to Orbitz, and under the instructions of Orbitz, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Policy. 
+>   * To organizations that perform services for or on behalf of Orbitz, for example to provide customer service, deliver tickets, ship items, process credit cards, for research, marketing, data processing, to measure the use of our Site, to facilitate usage by a Visitor, or to offer credit card services or evaluate your creditworthiness. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in countries outside the US and outside the European Economic Area ("EEA"). Your Personal Information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to Orbitz, and under the instructions of Orbitz, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Policy. By submitting your personal data, you agree to the transfer, storing and processing of your data outside the US and outside the EEA. 
 >   * We may collaborate with other companies to offer you additional Products or Services, for example, through sweepstakes, raffles, and promotions. We will share Personal Information that is necessary for these other companies to provide the Products or Services that you have requested. 
 > 
 > This policy will not cover the use of your Personal Information by these other companies. We encourage you to read a company's privacy policy before requesting any of its products or services. 
@@ -256,7 +256,7 @@ _How we retain and store Personal information_
 > 
 > **Third Parties' Personal Information**
 >
->> We will retain in your My Stuff folder the Personal Information of individuals for whom you have made reservations or to whom we have sent Care Alerts on your behalf. 
+>> We will retain in your My Stuff folder the Personal Information of individuals for whom you have made reservations or to whom we have sent OrbitzTLC Alerts on your behalf. 
 >> 
 >> You can access, modify, or delete these third parties' Personal Information at any time, as described in How to access, modify, or delete your Personal Information.
 >> 
@@ -330,9 +330,9 @@ _Changes to the Privacy Policy_
 
 > **Changes to the Privacy Policy and Changes in Ownership**
 > 
-> We may change or supplement this Privacy Policy from time to time. We may also undergo a change of ownership. We will post an appropriate notice of changes to the Privacy Policy and changes or ownership on our Site. Pirvacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the Site, as well as to existing information held by us. 
+> We may change or supplement this Privacy Policy from time to time. We may also undergo a change of ownership. We will post an appropriate notice of changes to the Privacy Policy and changes or ownership on our Site. Privacy Policy changes will apply to the information collected from the date we post the revised Privacy Policy to the Site, as well as to existing information held by us. 
 > 
-> If we decide to change this policy in a material way, we will obtain the necessary consents required under applicable privacy laws if we seek to collect, use or disclose Personal Information for purposes other than those to which consent has been obtained, unless otherwise required or permitted by law. If any proposed change is unacceptable to you, you may request that we remove your Personal Information (and/or that of other individuals for whom you made travel reservations or who have received your Care Alerts) from our records, as described in How to access, modify or delete your Personal Information.
+> If we decide to change this policy in a material way, we will obtain the necessary consents required under applicable privacy laws if we seek to collect, use or disclose Personal Information for purposes other than those to which consent has been obtained, unless otherwise required or permitted by law. If any proposed change is unacceptable to you, you may request that we remove your Personal Information (and/or that of other individuals for whom you made travel reservations or who have received your OrbitzTLC Alerts) from our records, as described in How to access, modify or delete your Personal Information.
 
 > Orbitz is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Orbitz wants to demonstrate its commitment to privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 > 
@@ -344,7 +344,7 @@ _Changes to the Privacy Policy_
 > ---|---  
 > Mailing address:| Chief Privacy Officer  
 >  Orbitz LLC  
->  200 South Wacker Drive, Suite 1900, Chicago, IL 60606  
+>  500 West Madison Avenue, Suite 1000, Chicago, IL 60661  
 > Telephone:| 888-656-4546 (within the United States)  
 >  701-280-5683 (Outside the United States).   
   
