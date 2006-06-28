@@ -1,11 +1,19 @@
-> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210130202id_/http%3A//www.bloginservice.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628045444id_/http%3A//www.bloginservice.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Blogin Service - Privacy Policy
 
   
+
+
+[](http://www.akashic-reading.com/)
+
   
-[](http://home.comcast.net/~wizardofwhimsy/index.html)   
   
+  
+
+
+[](http://www.bloginservice.com/cgi-bin/archives/webbbs_config.pl)
+
 |  | 
 
 **Your privacy is important to us.**
@@ -21,7 +29,7 @@
   * We do not give out the information to third parties! We do not share, sell, rent or barter any identifiable personal information to any third party without your permission. .
 
 
-  * Any individual or company may request to opt out of our electronic newsletters by sending an email directly to [contact@bloginservice.com](mailto:contact@bloginservice.com), or contacting the me by mail at the following address. Blogin Service, P.O. Box 90744, Houston, TX 77290-0744. We immediately honor all requests. People may also remove themselves from the Newsletter automatically by clicking on the link located on the bottom of each newsletter.
+  * Any individual or company may request to opt out of our electronic newsletters by sending an email directly to [contact@bloginservice.com](mailto:contact@bloginservice.com), or contacting the me by mail at the following address. Blogin Service, 5167 Toyon Lane, Paradise, CA 95969. We immediately honor all requests. People may also remove themselves from the Newsletter automatically by clicking on the link located on the bottom of each newsletter.
 
 **Surveys & Contests:**  
 
