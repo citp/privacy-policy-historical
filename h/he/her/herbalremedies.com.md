@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbalremedies.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212112939id_/http%3A//www.herbalremedies.com/privacypolicy.html%231) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalremedies.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628183356id_/http%3A//www.herbalremedies.com/privacypolicy.html%231) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,11 +51,11 @@ ___________________________________________
 225 N Wolcott  
 Casper, Wyoming 82601  
 e-mail us at[ information@herbalremedies.com.](mailto:hremedies@qwest.net)*   
-Fax us at: (1-307-577-6464) 
+Fax us at: (1-307-577-6464)   
+Other Email Addresses: [abuse@herbalremedies.com](mailto:hremedies@qwest.net) [help@herbalremedies.com](mailto:hremedies@qwest.net) [sales@herbalremedies.com](mailto:hremedies@qwest.net)  
   2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Friday from 10AM to 6PM MST). 
 
-  
-Back to Top  
+Back to Top   
 ___________________________________________
 
 ## Corrections/Updates/Removals
