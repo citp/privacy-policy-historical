@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gao.gov privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226180112id_/http%3A//www.gao.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gao.gov privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628190955id_/http%3A//www.gao.gov/privacy.html) for the most accurate reproduction.*
 
-# GAO: GAO Privacy and Security Notification
+# GAO Privacy and Security Notification
 
 This World Wide Web site is provided as a public service by the Government Accountability Office. The information contained on this site is public information. It may be freely distributed or copied.
 
