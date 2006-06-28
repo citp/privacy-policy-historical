@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mel.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214164130id_/http%3A//www.michigan.gov/som/0%2C1607%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mel.org privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628195740id_/http%3A//www.michigan.gov/som/0%2C1607%2C7-192-26914-2088--%2C00.html) for the most accurate reproduction.*
 
 # Michigan Privacy Policy
 
