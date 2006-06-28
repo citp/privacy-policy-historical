@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the pokerlistings.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217160530id_/http%3A//www.pokerlistings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerlistings.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629011513id_/http%3A//www.pokerlistings.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Poker Guide - PokerListings.com - Best Poker Online
 
-|   
----  
-| 
+### Privacy policy
 
 PokerListings.com respects your privacy. All information collected at this website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Pokerlistings.com will be held with the uttermost care, and will not be used in ways that you have not consented to. 
 
@@ -25,4 +23,4 @@ PokerListings.com reserves the right to replace this "privacy policy" at any tim
 
 Please email: info@pokerlistings.com with questions or comments. 
 
-| 
+PokerListings.com is made by poker players for poker players. Our ambition is to be the best online poker guide and directory totally independent from any poker room giving poker players objective information on all poker sites in the world. We provide extensive information on online poker rooms in our [poker room reviews](https://web.archive.org/poker-room-reviews), a great selection of [poker games](https://web.archive.org/poker-games), deep information on [poker rules](https://web.archive.org/poker-rules), all [online poker tournaments](https://web.archive.org/poker-tournaments) and much much more. In our directory categories all poker sites are ranked in real time, meaning that the most popular sites are on top. Please feel free to contact webmaster@pokerlistings.com if you miss any valuable poker content or information. 
