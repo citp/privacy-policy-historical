@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the tpww.net privacy policy that was archived on 2005-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051122181824id_/http%3A//www.tpww.net/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpww.net privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628040204id_/http%3A//www.tpww.net/misc/privacy.html) for the most accurate reproduction.*
 
-# tpww.net - [ privacy policy ]
+# TPWW.net - [ privacy policy ]
 
-**privacy statement**
-
+**[ privacy policy ]**  
 This policy is to show the privacy throughout our site. Once you click on a link or move to another site you will be subjected to a new policy.
 
  **Third Party Advertising**  
@@ -32,5 +31,5 @@ We do have a forum which allows people to have discussions. All information is o
 
 TPWW staff will never ask for personal information. Children under 13 years of age must have parent's permission. 
 
-**[[tpww.net](http://www.tpww.net/) | [send news/results](http://www.tpww.net/misc/sendresults.html) | [discuss](http://www.tpwwforums.com/) | [headlines](http://www.tpww.net/headlines/) ]**  
+**[[tpww.net](http://www.tpww.net/) | [forums](http://www.tpwwforums.com/) | [headlines](http://www.tpww.net/headlines/) ]**  
 
