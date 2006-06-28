@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbusiness.com privacy policy that was archived on 2005-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051204060353id_/http%3A//www.allbusiness.com/include/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbusiness.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629005624id_/http%3A//www.allbusiness.com/include/privacy.asp) for the most accurate reproduction.*
 
 # AllBusiness.com - Privacy Policy
 
@@ -24,7 +24,7 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 
 **How Do We Use the Information That You Provide to Us?**
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You have the opportunity to opt in, or opt out of specific types of communications on our [subscription management](https://web.archive.org/newsletter/landing.asp) page. You have the opportunity to opt-out any time you receive an email from us by using the link provided at the bottom of the email communication. You also may notify us at any time if you do not wish to receive these offers by emailing us at [customerservice@AllBusiness.com](mailto:customerservice@AllBusiness.com).
+Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You have the opportunity to opt in, or opt out of specific types of communications on our [subscription management](https://web.archive.org/newsletter/manage.asp?action=register&display=register&newsletter=all) page. You have the opportunity to opt-out any time you receive an email from us by using the link provided at the bottom of the email communication. You also may notify us at any time if you do not wish to receive these offers by .
 
 What Are Cookies?
 
@@ -40,15 +40,15 @@ We may enter into alliances, partnerships or other business arrangements with th
 
 Notice of New Services and Changes
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You have the opportunity to notify us of your desire not to receive these offers by sending us an email request at [customerservice@AllBusiness.com](mailto:customerservice@AllBusiness.com).
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You have the opportunity to notify us of your desire not to receive these offers by .
 
 How Do We Secure Information Transmissions?
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services, which are enabled by VeriSign, Inc. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact [customerservice@AllBusiness.com](mailto:customerservice@AllBusiness.com) if you have any questions or concerns.
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services, which are enabled by VeriSign, Inc. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please if you have any questions or concerns.
 
 How Can You Access and Correct Your Information?
 
-You can update your registration information online on our  page. You may also request access to all your personally identifiable information that we collect online and maintain in our database by emailing [customerservice@AllBusiness.com](mailto:customerservice@AllBusiness.com).
+You can update your registration information online on our [subscription management](https://web.archive.org/newsletter/manage.asp?action=register&display=register&newsletter=all) page. You may also request access to all your personally identifiable information that we collect online and maintain in our database by .
 
 Certain Disclosures
 
