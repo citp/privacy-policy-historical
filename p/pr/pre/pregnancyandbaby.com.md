@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pregnancyandbaby.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231202703id_/http%3A//coincide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancyandbaby.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629010740id_/http%3A//coincide.com/privacy.htm) for the most accurate reproduction.*
 
 # Coincide Media | Privacy policy
 
