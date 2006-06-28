@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegehumor.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225001822id_/http%3A//www.collegehumor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegehumor.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629005908id_/http%3A//www.collegehumor.com/privacy) for the most accurate reproduction.*
 
 # CollegeHumor.com
 
@@ -82,13 +82,13 @@ This Website uses cookies. A cookie is a small, removable data file that is stor
 
 
 
-You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your web browser settings. If you turn cookies off, you won't have access to many features that make your visit to this Website more efficient and enjoyable, and in some cases, some of our services will not function or will function with limited capability. However, you can still place orders over the telephone by contacting our customer service center at [CollegeHumor@yahoo.com](ilto:CollegeHumor@yahoo.com).
+You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your web browser settings. If you turn cookies off, you won't have access to many features that make your visit to this Website more efficient and enjoyable, and in some cases, some of our services will not function or will function with limited capability. However, you can still place orders over the telephone by contacting our customer service center at [content@collegehumor.com](mailto:content@collegehumor.com).
 
 **Children's Online Privacy**
 
 We do not knowingly collect personal information from children under the age of 18. This Website is not intended to solicit information of any kind from children under the age of 18 and we have made commercially reasonable efforts to design this Website to prevent our knowing acceptance of any such information.
 
-It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do so at [CollegeHumor@yahoo.com](ilto:CollegeHumor@yahoo.com).
+It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do so at [content@collegehumor.com](mailto:content@collegehumor.com).
 
 **Email Marketing Practices**
 
@@ -108,7 +108,7 @@ We want to communicate with you only if you want to hear from us.
 
 To modify or delete any or all of the personal information you have provided to us, please login and update your profile.
 
-You may unsubscribe from receiving emails, and other correspondence from us including, but not limited to, faxes and U.S. postal service mail, at any time by using the link, or by contacting us using the information, included at the bottom of each email communication. You may also unsubscribe by sending us an email at [CollegeHumor@yahoo.com](ilto:Collegehumor@yahoo.com).
+You may unsubscribe from receiving emails, and other correspondence from us including, but not limited to, faxes and U.S. postal service mail, at any time by using the link, or by contacting us using the information, included at the bottom of each email communication. You may also unsubscribe by sending us an email at [content@collegehumor.com](mailto:content@collegehumor.com).
 
 In some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms of Use Agreement, we may retain in our files information you have requested to remove. Further, your personal information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. 
 
@@ -128,7 +128,7 @@ Connected Ventures LLC
 New York , New York 10013  
 United States of America 
 
-We may be reached via email at [CollegeHumor@yahoo.com](ilto:Collegehumor@yahoo.com) or you may call us at 212-625-3567 ****
+We may be reached via email at [content@collegehumor.com](mailto:content@collegehumor.com) or you may call us at 212-625-3567 ****
 
 We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices. Please send us feedback pertaining to these matters or any other issue you may have with Connected Ventures or this Website.
 
