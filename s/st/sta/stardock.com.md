@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231080833id_/http%3A//www.stardock.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628115609id_/http%3A//www.stardock.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ##  Privacy Statement for Stardock.com
 
 **Stardock.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Stardock.com ](http://www.iconzone.com/) This policy is also applicable to Stardock's other Web sites, including but not limited to: [Stardock.net](http://www.stardock.net/), [WinCustomize.com](http://www.wincustomize.com/), [JoeUser.com](http://www.joeuser.com/), [Windowblinds.net](http://www.windowblinds.net/), [DesktopX.net](http://www.desktopx.net/), [GalCiv.com](http://www.galciv.com/), [PoliticalMachine.com](http://www.politicalmachine.com/), and [ObjectDesktop.net](http://www.objectdesktop.net/).
+
+_**WE DO NOT SHARE YOUR EMAIL ADDRESSES OR PERSONAL INFORMATION WITH ANYONE.**_
 
 ####  Information Automatically Logged
 
@@ -18,7 +20,7 @@ Our Site uses cookies to keep track of items in your shopping cart. Stardock.net
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
-Some customer data is shared with the advertising companies (i.e. whatever they have access to from setting in their cookies). 
+Some customer data is shared with the advertising companies (i.e. ONLY what they have access to from setting in your cookies). We do not allow advertisers to see any private information including email addresses, home addresses, phone numbers, or any other private information. 
 
 ####  Registration Forms
 
