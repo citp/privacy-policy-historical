@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fec.gov privacy policy that was archived on 2005-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210064710id_/http%3A//www.fec.gov/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fec.gov privacy policy that was archived on 2006-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060628185015id_/http%3A//www.fec.gov/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -38,22 +38,29 @@ document.write('<' + 'script language="JavaScript" type="text/javascript" src="'
 	<!-- top navigation cascading menu will appear in this area -->
 
 	<div class="fec_searchForm">
-		<form action="http://search.freefind.com/find.html" name="fec_searchForm" method="get" target="_self">
-		<span class="fec_submitBtn"><input type="image" src="/images/btn_search2.gif" alt="Search button" id="fec_submitBtn2"></span>
-		<input type="hidden" name="id" value="50985594">
-		<input type="hidden" name="pageid" value="r">
-		<input type="hidden" name="mode" value="ALL">
-		<input type="hidden" name="n" value="0">
-		<noscript><label for="fec_query">Search site for</label>: </noscript><input type="text" name="query" size="20" id="fec_query">
-		<span class="fec_submitBtn"><input type="image" src="/images/btn_search.gif" alt="Search button" id="fec_submitBtn"></span>
+		<form id="gs" name="gs" method="GET" action="http://search.fec.gov/search">
+			<span class="fec_submitBtn">
+				<input type="image" src="/images/btn_search2.gif" alt="Search button" id="fec_submitBtn2">
+			</span>
+			<input type="text" id="q" name="q" size="32" maxlength="256" value="">
+			<input type="hidden" name="ie" value="">
+			<input type="hidden" name="site" value="fecgov_collection">
+			<input type="hidden" name="output" value="xml_no_dtd">
+			<input type="hidden" name="client" value="fecgov_collection">
+			<input type="hidden" name="lr" value="">
+			<input type="hidden" name="proxystylesheet" value="fecgov_collection">
+			<input type="hidden" name="oe" value="">
+			<span class="fec_submitBtn">
+				<input type="image" src="/images/btn_search.gif" alt="Search button" id="fec_submitBtn">
+			</span>
 		</form>
 		<script language="javascript" type="text/javascript">
-		<!--
-			var q=document.forms[0].query,t='enter search here';q.value=t;
-			q.onfocus=function(){q.value=(q.value==t)?'':q.value;};
-			q.onblur=function(){q.value=(q.value=='')?t:q.value;};
-		// -->
-		</script>
+				<!--
+					var qq=document.forms[0].q,t='enter search here';qq.value=t;
+					qq.onfocus=function(){qq.value=(qq.value==t)?'':qq.value;};
+					qq.onblur=function(){qq.value=(qq.value=='')?t:qq.value;};
+				// -->
+		</script> 
 	</div>
 
 </div>
@@ -136,7 +143,7 @@ document.write('<' + 'script language="JavaScript" type="text/javascript" src="'
 		</li><li><a href="/press/foia.shtml">FOIA</a>
 		</li><li><a href="/firstgov.html" target="blank">FirstGov</a>
 		</li><li><a href="/privacy.shtml">Privacy</a>
-		</li><li><a href="/links.shtml">Links</a>
+		</li><li><a href="/links_files/Links.shtml">Links</a>
 		</li><li><a href="/elecfil/electron.shtml">eFiling</a>
 		</li><li><a href="/votregis/vr.shtml">Register To Vote</a>
 		
