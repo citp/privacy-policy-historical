@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rickperry.org privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214120001id_/http%3A//www.rickperry.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rickperry.org privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628184726id_/http%3A//www.rickperry.org/privacy) for the most accurate reproduction.*
 
 # Governor Rick Perry: Privacy Policy
 
