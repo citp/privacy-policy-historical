@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the journeyed.com privacy policy that was archived on 2005-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051210112818id_/http%3A//www.journeyed.com/aboutUs.asp%3FPID%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the journeyed.com privacy policy that was archived on 2006-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060628232200id_/http%3A//www.journeyed.com/aboutUs.asp%3FPID%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -56,11 +56,11 @@ var addVars = "";	// All Collective Vars
 					var theImages = new Array()
 					var theLinks = new Array()
 					
-					theImages[0] = '/banners/current/digitalTutors.gif'
-					theImages[1] = '/banners/current/bts_banner_468x60.GIF'
-										
-					theLinks[0] = '/department.asp?DID=digitalTutors&SKW=VPdt'
-					theLinks[1] = '/department.asp?DID=adobe&SKW=VPadobe'
+					theImages[0] = '/banners/current/bts_banner_468x60.GIF'
+					
+					theLinks[0] = '/department.asp?DID=adobe&SKW=VPadobe'
+					
+					
 					
 										
 					
@@ -74,15 +74,30 @@ var addVars = "";	// All Collective Vars
 					   preBuffer[i].src = theImages[i]
 					}
 					var whichImage = Math.round(Math.random()*(p-1));
-					function showImage(){
-					document.write('<A href="'+theLinks[whichImage]+'"><img src="'+theImages[whichImage]+'" border="0"></a>');
+					
+					//Define new target if image number is as defined below. -jmw
+					if (whichImage == 0)
+					{
+					var target = 'target="_blank"'
 					}
+					else {
+					var target = ''
+					}
+					
+					
+					function showImage()
+					
+						{
+						document.write('<A href="'+theLinks[whichImage]+'"'+target+'><img src="'+theImages[whichImage]+'" border="0"></a>');
+						}
+						
+					
 					
 					//  End -->
 					</script>
 					<script language="JavaScript">
 						showImage();
-					</script><a href="/department.asp?DID=adobe&amp;SKW=VPadobe"><img src="/banners/current/bts_banner_468x60.GIF" border="0"></a>
+					</script><a href="/department.asp?DID=adobe&amp;SKW=VPadobe" target="_blank"><img src="/banners/current/bts_banner_468x60.GIF" border="0"></a>
 
 			</td>
     <td>&nbsp;</td>
@@ -96,7 +111,7 @@ var addVars = "";	// All Collective Vars
 	</td>
     <td class="hdrDk" width="565" align="right">	<span class="hdrLinks">
 	
-	<a class="hdrLinks" href="/home.asp">Home</a> | 
+	<a class="hdrLinks" href="/home.asp">Home</a> |  
 	
 	<a class="hdrLinks" href="/cartView.asp">View Cart</a> | 
 	<a class="hdrLinks" href="/orderStatus.asp">Order Status</a>
@@ -134,7 +149,9 @@ var addVars = "";	// All Collective Vars
 			<option value="/home.asp">Shop by Department</option>
 			<option value="/home.asp">---</option>
 			<option value="/department.asp?DID=animation&amp;SKW=DPanimation">Animation</option>
-			<option value="/department.asp?DID=back2school&amp;SKW=DPbts">Holiday Gifts</option>
+			<!--
+			Removed per Allan F. 02/28/06 - SM
+			<option value="/department.asp?DID=back2school&SKW=DPbts">Holiday Gifts</option> -->
 			<option value="/search.asp?SKW=blowout">Blowout Specials</option>
 			
 			<option value="/department.asp?DID=bookstore&amp;SKW=DPbookstore">Bookstore</option>
@@ -149,8 +166,11 @@ var addVars = "";	// All Collective Vars
 			<option value="/department.asp?DID=engineering&amp;SKW=DPengineering">Engineering &amp; CAD</option>
 			
 			<option value="/department.asp?DID=games&amp;SKW=DPgames">Games</option>
+			
 			<option value="/department.asp?DID=hardware&amp;SKW=DPhardware">Hardware &amp; Accessories</option>
+			
 			<option value="/department.asp?DID=ipod&amp;SKW=DPipod">iPod</option>
+			
 			<option value="/department.asp?DID=k12&amp;SKW=DPk12">K-12</option>
 			
 			<option value="/department.asp?DID=math&amp;SKW=DPmath">Math &amp; Science</option>
@@ -159,6 +179,10 @@ var addVars = "";	// All Collective Vars
 			
 			<option value="/department.asp?DID=music&amp;SKW=DPmusic">Music &amp; Audio</option>
 			<option value="/search.asp?SKW=newproducts">New Products</option>
+			
+				<option value="/department.asp?DID=pc&amp;SKW=dppc">PC</option>
+				
+			
 			<option value="/department.asp?DID=programming&amp;SKW=DPprogramming">Programming</option>
 			<option value="/department.asp?DID=screenplay&amp;SKW=DPscreenplay">Screenplay</option>
 			<option value="/department.asp?DID=security&amp;SKW=DPsecurity">Security</option>
@@ -186,10 +210,12 @@ var addVars = "";	// All Collective Vars
 			
 			<option value="/department.asp?DID=adobe&amp;SKW=VPadobe">Adobe</option>
 			<option value="/department.asp?DID=alias&amp;SKW=VPalias">Alias</option>
-
+			
 			<option value="/department.asp?DID=autodesk&amp;SKW=VPautodesk">Autodesk</option>
+			
+			
 			<option value="/department.asp?DID=avid&amp;SKW=VPavid">Avid</option>
-			<option value="/department.asp?DID=cingular&amp;SKW=VPcingular">Cingular Wireless</option>
+			<!--<option value="/department.asp?DID=cingular&SKW=VPcingular">Cingular Wireless</option>-->
 			
 			<option value="/department.asp?DID=cisco&amp;SKW=VPcisco">Cisco</option>
 			
@@ -201,7 +227,12 @@ var addVars = "";	// All Collective Vars
 			<option value="/department.asp?DID=hp&amp;SKW=VPhp">HP</option>
 			
 			<option value="/department.asp?DID=macromedia&amp;SKW=VPmacromedia">Macromedia</option>
-			<option value="/department.asp?DID=microsoft&amp;SKW=VPmicrosoft">Microsoft</option>
+			<!--Added maudio for all per Allan F. -- SM -- 04/20/06 -->
+			<option value="/department.asp?DID=maudio&amp;SKW=vpmaudio">M-Audio</option>
+			
+			
+			<option value="/department.asp?DID=microsoft&amp;SKW=VPMicrosoft">Microsoft</option>
+			
 			
 			<option value="/department.asp?DID=ptc&amp;SKW=VPptc">PTC</option>
 			<option value="/department.asp?DID=solidworks&amp;SKW=VPsolidworks">SolidWorks</option>
@@ -228,7 +259,9 @@ var addVars = "";	// All Collective Vars
 			<option value="/search.asp?SKW=gift">Gift Certificates</option>
 			<option value="/genInfo.asp?PID=onlinePolicies">Online Store Policies</option>
 			<option value="/genInfo.asp?PID=purchaseRequirements">Purchase Requirements</option>
+			
 			<option value="/tools/SchoolQuoteRequest/default.asp?GEN2=103">School Quote Request</option>
+			
 			<option value="/genInfo.asp?PID=shipping">Shipping &amp; Handling</option>
 		  </select>
 		</td>
