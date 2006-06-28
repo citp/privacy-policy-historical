@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ufl.edu privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227032248id_/http%3A//www.webadmin.ufl.edu/policies/internet_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufl.edu privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629003748id_/http%3A//www.webadmin.ufl.edu/policies/internet_privacy) for the most accurate reproduction.*
 
 # University of Florida - Web Administration: Internet Privacy Policy
 
-#### Internet Privacy Policy
+### Internet Privacy Policy
 
 Thank you for visiting the University of Florida. Our policy is to collect no personally identifiable information about you when you visit our Web sites unless you affirmatively choose to make such information available to us. However, our Web servers do automatically recognize some non-personal information such as volume and timing of access as well as the Internet domain and IP address from which you accessed our sites.
 
