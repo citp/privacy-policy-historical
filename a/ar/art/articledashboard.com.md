@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articledashboard.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229203522id_/http%3A//www.articledashboard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articledashboard.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629005140id_/http%3A//www.articledashboard.com/privacy.php) for the most accurate reproduction.*
 
-# Article Dashboard Directory | Submit Articles | Search & Find Free Content | Author Submission
+# Article Dashboard Directory | Submit Articles | Search Find Free Content | Author Submission
 
 Article Dashboard Privacy Policy
 
