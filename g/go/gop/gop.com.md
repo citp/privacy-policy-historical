@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229131701id_/http%3A//www.gop.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628191548id_/http%3A//www.gop.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # GOP.com | Republican National Committee :: Privacy Policy
 
 |  |   
 ---  
 [](http://www.gop.com/default.aspx) |   
-THURSDAY | DECEMBER 29, 2005  |  |  |   
+WEDNESDAY | JUNE 28, 2006  |  |  |   
 |  |  |   
 [](http://www.gop.com/Issues/)[](http://www.gop.com/News/)[](http://www.gop.com/States/)[](https://www.gop.com/Secure/Signup.aspx)[](http://www.gop.com/RegisterToVote/)[](http://www.gop.com/LinkRedirect.aspx)[](http://www.gop.com/About/)[](http://www.gop.com/Teams/)[](http://www.gop.com/Blog/)  
 | 
@@ -111,13 +111,13 @@ Updated November 4, 2005
 ---  
 |   
 ---  
-| **Republican National Committee** | 310 First Street, SE | Washington, DC 20003  
+| **Republican National Committee** | 310 First Street, SE | Washington, D.C. 20003  
 p: 202.863.8500 | f: 202.863.8820 | e: [info@gop.com](mailto:info@gop.com)   
 [ PRIVACY POLICY](http://www.gop.com/PrivacyPolicy.aspx) | [ SITE MAP](http://www.gop.com/SiteMap.aspx)
 
 Paid for by the Republican National Committee  
 Not Authorized By Any Candidate Or Candidate Committee   
-www.GOP.com © 2005 Republican National Committee
+www.GOP.com © 2006 Republican National Committee
 
   
 |   
