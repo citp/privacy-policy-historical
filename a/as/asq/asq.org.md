@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asq.org privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213235822id_/http%3A//www.asq.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asq.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629010148id_/http%3A//www.asq.org/privacy-policy.html) for the most accurate reproduction.*
 
 # ASQ: About: ASQ's Privacy Policy
 
@@ -24,7 +24,7 @@ Online forms are available for customers to request information, products, and s
 
 **Control of your personal information**
 
-ASQ will not sell or share your e-mail address with other organizations. However, other information you share may be used to provide you with information from ASQ or selected organizations about products, services or activities that may be of interest to you. To receive this information you must “opt in” to receive it when you provide personal information on our Web site. 
+ASQ will not sell or share your e-mail address with other organizations. However, other information you share may be used to provide you with information from ASQ or selected organizations about products, services or activities that may be of interest to you. 
 
 We occasionally hire other companies to provide limited services on our behalf, including electronic newsletter delivery and the processing of event registrations. We will only provide those companies with the information they need to deliver the service, and they are prohibited from using that information for any other purpose. 
 
@@ -47,11 +47,11 @@ Within “My ASQ” you can:
 
 
 
-Some services offered on ASQ.org collect information that is not accessible via “My ASQ.” In such cases, you can access your personal information by contacting ASQ as described in the [Contact Us ](https://web.archive.org/contact-asq.html)section of the Web site. For example, if you wish to change your ASQ Section membership, you can review and edit your personal information by contacting one of our Customer Care representatives at 800-248-1946 or 414-272-8575.
+Some services offered on ASQ.org collect information that is not accessible via “My ASQ.” In such cases, you can access your personal information by contacting ASQ as described in the [Contact Us ](https://web.archive.org/customer-service/contact-asq/index.html)section of the Web site. For example, if you wish to change your ASQ Section membership, you can review and edit your personal information by contacting one of our Customer Care representatives at 800-248-1946 (United States and Canada only) or 414-272-8575.
 
 Call Center hours:
 
-Monday through Thursday: 7 a.m. - 6 p.m. Central Time  
+Monday through Thursday: 7 a.m. \- 5 p.m. Central Time  
 Friday: 7 a.m. and 5 p.m. Central Time   
 E-mail: _[help@asq.org](mailto:help@asq.org)_
 
