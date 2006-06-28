@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raf.mod.uk privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226193535id_/http%3A//www.raf.mod.uk/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raf.mod.uk privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628134458id_/http%3A//raf.mod.uk/info/privacy.html) for the most accurate reproduction.*
 
 # The Royal Air Force - Site Information and FAQs
 
@@ -7,9 +7,9 @@ Privacy Statement
 
 * * *
 
-The Royal Air Force website does not store or capture personal information, but merely logs the user's IP address which is automatically recognised by the web server. Our log files do not contain any personal information or information about which other sites you have visited.
+The Royal Air Force website does not store or capture personal information, but merely logs the user’s IP address which is automatically recognised by the web server. Our log files do not contain any personal information or information about which other sites you have visited. 
 
-We do not use cookies for collecting user information from the site and we will not collect any information about you except that required for system administration of the web server.
+We do not use cookies for collecting user information from the site and we will not collect any information about you except that required for system administration of the web server. 
 
 Other websites linked from this site do not necessarily follow the same policies. Further information on your rights under the Data Protection Act 1998 can be found on the Information Commissioner's website at <http://www.dataprotection.gov.uk/dpr/dpdoc.nsf>.
 
