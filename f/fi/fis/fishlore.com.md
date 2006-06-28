@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2005-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628130905id_/http%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for FishLore.com - Tropical Fish Information
-
-**FISHLORE.COM**  
-
 
 ## PRIVACY POLICY
 
@@ -60,14 +57,11 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 **Links:**  
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We **strongly** encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-© 2005 **FishLore.com** , All rights reserved.  
+© 2006 **FishLore.com - Tropical Fish Information** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
 
 * * *
 
-[Home](http://www.fishlore.com/) | [Contact Us](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/Contact.htm) | [Search](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/Search.htm) | [Aquarium Articles](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/AquariumArticles.htm) | [Aquarium Types](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/AquariumTypes.htm) | [Beginner's Guide](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/Beginners.htm) | [Aquarium Books](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/Books.htm) | [Fish Breeding](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/Breeding.htm) | [Aquarium Calculator](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/ConversionCalculator.htm) | [Fish Diseases](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/Disease_Main.htm) | [Fish FAQs](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/FishFAQs.htm) | [Aquarium Filtration](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/Aquarium_Equipment.htm) | [Fish Anatomy](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/FishAnatomy.htm) | [Fish Profiles](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/TropicalFishProfiles.htm) | [Fish Food](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/Food.htm) | [Forums](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/Forum) | [Fun & Games](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/FunAndGames.htm) | [Aquarium Maintenance](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/Maintenance.htm) | [Aquarium Magazines](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/Magazines.htm) | [Aquarium Plants](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/Plants.htm) | [Aquarium Water Chemistry](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/WaterChemistry.htm) | [Your Tanks](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/YourTanks.htm)
-
-© 2005 FishLore.com  
-Tropical Fish and Aquarium Information  
-[Deals, Specials, Offers & Coupons](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/Aquarium_Tropical_Fish_Deals.htm)  
-[SiteMap](https://web.archive.org/web/20051126201015id_/http%3A//fishlore.com/FishLore_SiteMap.htm)
+© 2006 FishLore.com  
+[Pet Coupons](http://www.fishlore.com/Aquarium_Tropical_Fish_Deals.htm)  
+[SiteMap](http://www.fishlore.com/FishLore_SiteMap.htm)
