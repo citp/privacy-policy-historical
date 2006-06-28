@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the babypips.com privacy policy that was archived on 2005-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051203210758id_/http%3A//www.babypips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babypips.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629014916id_/http%3A//babypips.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policye
+# Privacy Policy
 
 **BabyPips.com does not send SPAM or sell email addresses.**
+
+**We will NOT rent, trade, or release your name to _any_ third party for _any_ reason - ever. **
+
+**We respect YOUR email privacy and _hate spam with a passion._**
 
 BabyPips.com LLC ("BabyPips.com" or "babypips.com" or "we" or "us") is committed to protecting and respecting your privacy. This Privacy Statement sets out our privacy policy and explains what we do with the personal information that we collect from you. Please read the following to understand our practices regarding personal information and how they affect you as you use our features and services. This statement discloses our current privacy practices; if we make material changes to these practices, we will announce them. If you have any questions or concerns regarding this statement, you should contact babypips.com site coordinator at [legal@babypips.com](mailto:legal@babypips.com).
 
@@ -63,4 +67,4 @@ Many of our advertisers or partners link from our site to areas on their own sit
 **How Will You Know Whether BabyPips.com's Privacy Policy Has Changed?**   
 We may change this Privacy Statement at any time, but we will give notice of any material changes (or any notices that we are required to give you) on our websites and/or in email messages.
 
-Last Updated: October 27, 2005
+Last Updated: February 9, 2006 
