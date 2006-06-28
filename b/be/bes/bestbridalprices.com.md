@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestbridalprices.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214000940id_/http%3A//bestbridalprices.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbridalprices.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629010729id_/http%3A//www.bestbridalprices.com/privacy.html) for the most accurate reproduction.*
 
-# Wedding Dresses Wedding Gowns Bridal Dresses Gowns Maggie Sottero Bridesmaid Dresses - Best Bridal Prices -
+# BestBridalPrices.com Wedding Dresses | Bridal Dresses | Maggie Sottero Wedding Dresses | Bridesmaid Dresses | Wedding Gowns | Prom Dresses | Bridesmaid Gowns
 
 **Do you sell or trade customer names and addresses?**  
 We never sell, rent, or trade names, addresses, e-mail addresses, or any other customer information. Period. **What kind of information will I be asked for?**  
