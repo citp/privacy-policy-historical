@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tobook.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229161821id_/http%3A//www.tobook.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobook.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629010704id_/http%3A//www.tobook.com/privacy.asp) for the most accurate reproduction.*
 
 # tobook.com Hotel Guide -
 
@@ -26,4 +26,4 @@ We share aggregate statistics about our customers, traffic patterns, and reserva
 
 When you make a reservation on our site, your personal and credit card information are forwarded to the property in which you have reserved. The property will use this information to process your reservation. A representative of that property or one of our Customer Support representatives may contact you if there is a question about your reservation. 
 
-If you have any questions about this privacy statement or would like more information about our company, please [contact us](https://web.archive.org/web/20051229161821id_/http%3A//www.tobook.com/about.asp#contactus). 
+If you have any questions about this privacy statement or would like more information about our company, please [contact us](https://web.archive.org/web/20060629010704id_/http%3A//www.tobook.com/about.asp#contactus). 
