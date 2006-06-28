@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231001615id_/http%3A//www.eyeglasses.com/information/about/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628120152id_/http%3A//eyeglasses.com/information/about/privacy.page) for the most accurate reproduction.*
 
-# About eyeglasses.com
+# Privacy statement
 
 This confirms that Eyeglasses.com, Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for www.eyeglasses.com. 
 
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
-If you have questions or concerns regarding this statement, you should first contact the Eyeglasses.com, Inc.'s Privacy Protection Group by sending email to [privacy@eyeglasses.com](mailto:privacy@eyeglasses.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [www.truste.org](http://truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact the Eyeglasses.com, Inc.'s Privacy Protection Group by sending email to [privacy@eyeglasses.com](mailto:privacy@eyeglasses.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [www.truste.org](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 Eyeglasses.com, Inc., the owner of this website, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.eyeglasses.com. 
 
@@ -28,10 +28,15 @@ Eyeglasses.com, Inc. never uses cookies to retrieve information from your comput
 
 From time to time third party providers will utilize cookies through our site. This is done in an effort to increase our service and experience. It is never done to gain any information for use beyond your use of our site. 
 
+Our site uses a third-party JavaScript-based tracking service which uses cookies to track non-personally-identifiable information about visitors to our site. Only overall site usage is tracked for the purpose of determining which pages our customers find most useful. 
+
 Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the shopping area, will not function properly if you do so. 
 
 **Links to other sites**   
 Users should be aware that when they are on Eyeglasses.com, Inc. sites they could be directed to other sites that are beyond our control. There are links to other sites from Eyeglasses.com, Inc. sites that take you outside our service. For example, if you click on a link to an eye health-related site, the click takes you off the Eyeglasses.com, Inc. site. This includes links from sponsors and partners that may use Eyeglasses.com, Inc.'s logo as part of a co-branding agreement. These other sites may send their own cookies to users, collect data, or solicit personal information. Always be aware of where you end up. We cannot be responsible for your security on sites that are linked to ours. 
+
+**Service Providers**   
+We use other third parties to provide a credit card transaction service on our site. We will share billing information as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for any other purpose. 
 
 **Information we collect**   
 We collect several kinds of information from customers and Associates. All of the information we collect can be managed by the customer, meaning that the customer may enter their private area of the site at any time and change or delete their information. For example, we provide the convenience of securely storing credit card information for customer, but this is not a requirement to use the site or to purchase items. A customer can also select or deselect the notification options at will. **  
