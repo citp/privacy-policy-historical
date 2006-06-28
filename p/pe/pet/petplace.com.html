@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the petplace.com privacy policy that was archived on 2005-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051221155449id_/http%3A//www.petplace.com/Corporate/corpSiteTextHandler.asp%3Fcode%3DPrivacy%2BStatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petplace.com privacy policy that was archived on 2006-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060629005141id_/http%3A//www.petplace.com/privacy-Statement.aspx) for the most accurate reproduction.-->
 
-<html><head>
-	<title>PetPlace.com - Corporate</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<title>Pet Cats - Pet Turtles - Pet Rabbits</title>
+<meta name="keywords" content="Pet Cats, Pet Turtles, Pet Rabbits, Pet Anmials, Pet Puppies, Pet Rodents, Pet Hamsters, Pet Mice, Pet Dogs">
+<meta name="description" content="Pet Rabbits - PetPlace offers handy tips and guides for pet cats, pet turtles and a wide variety of other domesticated creatures.">
 
 <style type="text/css">
 
@@ -17,26 +19,29 @@ line-height:18px;font-weight: normal; padding: 0px; position: absolute; visibili
 .dynMenuLinkMain:hover {FONT-WEIGHT: bold;}
 </style>
 
-
-
 <script language="JavaScript">
+<!--
 	var winHeight, winWidth
-	
 	// this variables are often used in open window's method in the parameter list.
 	// it is assign like '...,height=' + winHeight + ',width=' + winWidth + ',...'
-	if ( window.screen ) {
-	// check where screen is a valid object.
-	winHeight = window.screen.availHeight;
-	winWidth = window.screen.availWidth;
+	if (window.screen) {
+		// check where screen is a valid object.
+		winHeight = window.screen.availHeight;
+		winWidth = window.screen.availWidth;
+	}	else {
+		// else set arbitrary values.
+		winHeight = 640;
+		winWidth = 480;
 	}
-	else {
-	// else set arbitrary values.
-	winHeight = 640;
-	winWidth = 480;
-	}
+//-->
 </script>
 <script language="JavaScript" src="/include/incJavaScriptUtilities.js" defer=""></script>
 <link rel="stylesheet" type="text/css" href="/css/default.css">
+
+<link rel="stylesheet" type="text/css" href="/modal/subModal.css">
+<script type="text/javascript" src="/modal/common.js"></script>
+<script type="text/javascript" src="/modal/subModal.js"></script>
+
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -53,9 +58,8 @@ urchinTracker();
 .MnuOptions A {color:#FFF;text-decoration:none}
 .MnuOptions A:hover {text-decoration:underline}
 </style>
-
 <script type="text/javascript">
-<!--
+
 function get_cookie(Name) {
 var search = Name + "="
 var returnvalue = ""
@@ -72,97 +76,131 @@ returnvalue=unescape(document.cookie.substring(offset, end))
 return returnvalue;
 }
 
-if (get_cookie("optindognewsletter")=="")
+
+
+if (get_cookie("fadedin")=="")
 {
 	if (window.addEventListener)
-		window.addEventListener("load", popupdognewsletter, false)
+		window.addEventListener("load", popunderSurvey, false)
 	else if (window.attachEvent)
-		window.attachEvent("onload", popupdognewsletter)
+		window.attachEvent("onload", popunderSurvey)
 	else if (document.getElementById)
-		window.onload=popupdognewsletter
+		window.onload=popunderSurvey
 }
 
-function popupdognewsletter()
+
+function popunderSurvey()
 {
-	
-	if (get_cookie("optindognewslettertrackopen")=="")
-	{
-		urchinTracker('/optins/dognewsletter/popup/open.aspx');
-		document.cookie="optindognewslettertrackopen=yes";
-	}
-	
-	hWnd = window.open("/mc/dog-newsletter-optin.aspx", "", "menubar=no,status=no,toolbar=no,width=400,height=220,scrollbars=no");
+	urchinTracker('/surveys/whydoyouloveyourdog?/popunderform/open.aspx');
+	hWnd = window.open("/mc/survey-form-pop.aspx?source=popunderform", "", "width=680,height=480,scrollbars=yes");
+
 	if (hWnd != null)
 	{
-		
-		urchinTracker('/optins/dognewsletter/popup/shown.aspx');
-		
-		document.cookie="optindognewsletter=yes";
+		urchinTracker('/surveys/whydoyouloveyourdog?/popunderform/shown.aspx');
+		document.cookie="fadedin=yes";
+		window.focus();
 	}
 }
 
-//-->
+
+function onClosePopWin() {
+	//__doPostBack(clientControlDoPostBack,'');
+}
+
+function popinSurvey()
+{
+	urchinTracker('/surveys/whydoyouloveyourdog?/popinform/open.aspx');
+	document.cookie="fadedin=yes";
+	initPopUp();
+	showPopWin('/mc/survey-form-pop.aspx?source=popinform', 680, 400, onClosePopWin);
+	urchinTracker('/surveys/whydoyouloveyourdog?/popinform/shown.aspx');
+}
 </script>
 
+<link rel="alternate" type="application/rss+xml" title="PetPlace.com" href="http://www.petplace.com/rss.aspx">
 </head>
 <body text="#000000" link="#000099" vlink="#000099" alink="#000099" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <div id="tooltip"></div>
 <div id="tooltip2" style="position:absolute;visibility:hidden"></div>
 
-<table width="776" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td colspan="2">
-<img src="/i/hdr_txt_bells.jpg" hspace="0" vspace="0" width="303" height="45" align="right" alt="Pet Place:Pet Care Information">
-<a href="/default.aspx">
-<img src="/i/hdr_lgo_xmas.jpg" style="margin-top:6px" width="256" height="35" border="0" align="left" alt="PetPlace.com"></a>
-<img src="/i/hdr_happy_holidays.jpg" style="margin-bottom:3px" hspace="0" vspace="0" width="185" height="45" border="0" align="right">
-</td>
-</tr>
-<tr><td colspan="2" bgcolor="#FFCC00"><img src="/images/trans.gif" width="1" height="6"></td></tr>
-<tr><td colspan="2"><img src="/images/trans.gif" width="1" height="1"></td></tr>
 
-<tr bgcolor="#5351A4">
-<td>
-<img src="/images/trans.gif" width="79" height="21"><a href="/default.aspx"><img src="/i/hdr_mnu_home.gif" width="56" height="21" border="0" alt="Puppies"></a><img src="/i/hdr_mnu_div.gif" width="1" height="21"><a href="/puppy-center/default.aspx"><img runat="server" src="/i/hdr_mnu_puppies.gif" width="72" height="21" border="0" alt="Puppies"></a><img runat="server" src="/i/hdr_mnu_div.gif" width="1" height="21"><a runat="server" href="/dogs.aspx"><img runat="server" src="/i/hdr_mnu_dogs.gif" width="52" height="21" border="0" alt="Dogs"></a><img runat="server" src="/i/hdr_mnu_div.gif" width="1" height="21"><a runat="server" href="/cats.aspx"><img runat="server" src="/i/hdr_mnu_cats.gif" width="48" height="21" border="0" alt="Cats"></a><img runat="server" src="/i/hdr_mnu_div.gif" width="1" height="21"><a runat="server" href="/fish.aspx"><img runat="server" src="/i/hdr_mnu_fish.gif" width="45" height="21" border="0" alt="Fish"></a><img runat="server" src="/i/hdr_mnu_div.gif" width="1" height="21"><a runat="server" href="/small-mammals.aspx"><img runat="server" src="/i/hdr_mnu_smallmammals.gif" width="117" height="21" border="0" alt="Small Mammals"></a><img runat="server" src="/i/hdr_mnu_div.gif" width="1" height="21"><a runat="server" href="/reptiles.aspx"><img runat="server" src="/i/hdr_mnu_reptiles.gif" width="74" height="21" border="0" alt="Reptiles"></a><img runat="server" src="/i/hdr_mnu_div.gif" width="1" height="21"><a runat="server" href="/birds.aspx"><img runat="server" src="/i/hdr_mnu_birds.gif" width="54" height="21" border="0" alt="Birds"></a><img runat="server" src="/i/hdr_mnu_div.gif" width="1" height="21"><a runat="server" href="/horses.aspx"><img runat="server" src="/i/hdr_mnu_horses.gif" width="64" height="21" border="0" alt="Horses"></a></td>
-</tr>
 
-<tr><td colspan="2"><img src="/images/trans.gif" width="1" height="1"></td></tr>
-</tbody></table>
-<table width="776" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="167" align="center" background="/i/hdr_bg.jpg" style="border-bottom:solid 1px #C0B481">
-<div style="color:#6C5E24;font-size:11px"><strong>Like this site?</strong></div>
-<div style="font-size:11px"><a href="/share-friend.aspx?">Tell-A-Friend</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="776" border="0" cellpadding="0" cellspacing="0"> 
+<tbody><tr><td colspan="3" bgcolor="#CCCCCC"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr><td colspan="3"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+<tr>
+<td width="167" align="center" valign="bottom" background="/i/hdr_bg.jpg" style="border-bottom:solid 1px #C0B481">
+<a href="default.aspx" id="ucHeader_A1" title="Pet Health Information - Pet Information">
+<img src="i/logo_smallbg.jpg" id="ucHeader_Img1" width="147" height="61" border="0" align="left" alt="PetPlace.com"></a>
 </td>
+
 <td width="473" height="62" background="/i/hdr_bg.jpg" style="height:62px;border-bottom:solid 1px #C0B481" align="center" valign="top">
 <img src="/i/hdr_schtxt.jpg" width="410" height="27">
 <table border="0" cellpadding="4" cellspacing="0">
 <form action="/search.aspx" method="get" name="frmSearch"></form>
 <tbody><tr>
-<td><input type="text" name="q" size="15" maxlength="300" style="font-family:Arial;font-size:12px;width:145px;height:20px" value=""></td>
+<td><input type="text" name="q" size="15" maxlength="300" style="font-family:Arial;font-size:12px;width:143px;height:20px" value=""></td>
 <td>
-<select size="1" name="c" style="font-family:Arial;font-size:12px;width:128px;height:18px">
+<select size="1" id="c" name="c" style="font-family:Arial;font-size:12px;width:128px;height:18px">
 <option value="0">All Animals</option>
-<option value="1">Dogs
-</option><option value="2">Cats
-</option><option value="3">Birds
-</option><option value="4">Horses
-</option><option value="5">Small Mammals
-</option><option value="6">Reptiles
-</option><option value="7">Fish
-</option><option value="8">Drug Library
-
-</option></select>
+<option value="1">Dogs</option>
+<option value="2">Cats</option>
+<option value="3">Birds</option>
+<option value="4">Horses</option>		
+<option value="5">Small Mammals</option>		
+<option value="6">Reptiles</option>		
+<option value="7">Fish</option>		
+<option value="8">Drug Library</option>		
+</select>	
 </td>
 <td><input type="image" src="/i/sch_go.gif" width="30" height="19" border="0" alt="Go"></td>
 </tr>
 
 </tbody></table>
 </td>
-<td width="136" align="center" background="/i/hdr_bg.jpg" style="border-bottom:solid 1px #C0B481;padding-right:5px">
-<a href="http://banmanpro.intelligent-content.com/banman.asp?ZoneID=25&amp;BannerID=269&amp;AdvertiserID=12&amp;CampaignID=58&amp;Task=Click&amp;Mode=TEXT" target="_blank"><img alt="Search for Adoptable Pets" src="/i/lgo_petfinder.gif" hspace="0" vspace="0" align="absmiddle" width="102" height="15" border="0"></a>
-<div style="font-size:11px"><a href="http://banmanpro.intelligent-content.com/banman.asp?ZoneID=25&amp;BannerID=268&amp;AdvertiserID=12&amp;CampaignID=58&amp;Task=Click&amp;Mode=TEXT" target="_blank">Search for Adoptable Pets</a></div>
+<td width="167" align="center" background="/i/hdr_bg.jpg" style="border-bottom:solid 1px #C0B481">
+<div style="color:#6C5E24;font-size:11px; text-align:center"><strong>Like this site?</strong></div>
+<div style="font-size:11px"><a href="/share-friend.aspx">Tell-A-Friend</a></div>
 </td>
+</tr>
+
+</tbody></table>
+
+<table width="776" border="0" cellpadding="0" cellspacing="0">
+<!--<tr>
+<td colspan="2">
+<a href="default.aspx" title="Pet Health Information - Pet Information">
+<img src="i/hdr_lgo.gif" width="254" height="49" border="0" align="left" alt="PetPlace.com" /></a><img src="i/hdr_txt.gif" width="296" height="49" align="right" alt="Pet Place:Pet Care Information" />
+</td>
+</tr>-->
+
+<tbody><tr id="ucHeader_trTopMenu" bgcolor="#5351A4">
+	<td>
+<img src="/images/trans.gif" width="79" height="21"><a href="/default.aspx"><img src="/i/hdr_mnu_home.gif" width="56" height="21" border="0" alt="Puppies"></a><img src="/i/hdr_mnu_div.gif" width="1" height="21"><a href="/puppy-center/default.aspx"><img src="/i/hdr_mnu_puppies.gif" width="72" height="21" border="0" alt="Puppies"></a><img src="/i/hdr_mnu_div.gif" width="1" height="21"><a href="/dogs.aspx"><img src="/i/hdr_mnu_dogs.gif" width="52" height="21" border="0" alt="Dogs"></a><img src="/i/hdr_mnu_div.gif" width="1" height="21"><a href="/cats.aspx"><img src="/i/hdr_mnu_cats.gif" width="48" height="21" border="0" alt="Cats"></a><img src="/i/hdr_mnu_div.gif" width="1" height="21"><a href="/fish.aspx"><img src="/i/hdr_mnu_fish.gif" width="45" height="21" border="0" alt="Fish"></a><img src="/i/hdr_mnu_div.gif" width="1" height="21"><a href="/small-mammals.aspx"><img src="/i/hdr_mnu_smallmammals.gif" width="117" height="21" border="0" alt="Small Mammals"></a><img src="/i/hdr_mnu_div.gif" width="1" height="21"><a href="/reptiles.aspx"><img src="/i/hdr_mnu_reptiles.gif" width="74" height="21" border="0" alt="Reptiles"></a><img src="/i/hdr_mnu_div.gif" width="1" height="21"><a href="/birds.aspx"><img src="/i/hdr_mnu_birds.gif" width="54" height="21" border="0" alt="Birds"></a><img src="/i/hdr_mnu_div.gif" width="1" height="21"><a href="/horses.aspx"><img src="/i/hdr_mnu_horses.gif" width="64" height="21" border="0" alt="Horses"></a></td>
+</tr>
+
+
+<tr><td colspan="2"><img src="/images/trans.gif" width="1" height="1"></td></tr>
+</tbody></table>
+<table width="776" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="147" background="/i/hdr_shadow_blu.gif"><img src="/i/hdr_shadow_blu.gif" width="6" height="6"></td>
+<td background="/i/hdr_shadow_gry.gif"><img src="/i/hdr_shadow_gry.gif" width="6" height="6"></td>
 </tr>
 </tbody></table>
 
@@ -170,83 +208,150 @@ function popupdognewsletter()
 <table width="776" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td valign="top" width="147">
-	<table width="147" border="0" cellpadding="2" cellspacing="0" class="Mnu">
-	<tbody><tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/MyPetPlace/mppMyPetPlace.asp?b=mnu">MyPet</a></td></tr>
-	<tr><td class="MnuGroup"><strong>Dogs</strong></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/dogs.aspx">Dog Library</a></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/dog-breed-library.aspx">Breed Library</a></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/dog-medical-library.aspx">Medical Library</a></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/dog-behavior-library.aspx">Behavior Library</a></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/dog-wellness-library.aspx">Wellness Library</a></td></tr>
-	<tr><td class="MnuGroup"><strong>Cats</strong></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/cats.aspx">Cat Library</a></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/cat-breed-library.aspx">Breed Library</a></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/cat-medical-library.aspx">Medical Library</a></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/cat-behavior-library.aspx">Behavior Library</a></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/cat-wellness-library.aspx">Wellness Library</a></td></tr>
-	<tr><td class="MnuGroup"><strong>Resources</strong></td></tr>
-	<!--<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle" /> <a href="/newsletters.aspx">Newsletters</a></td></tr>-->
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/Drug-Library.aspx">Drug Library</a></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="http://vetlocator.petplace.com/" target="_blank">Vet Locator</a></td></tr>
-	<tr><td class="MnuGroup"><strong>Shop and Save</strong></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a runat="server" href="http://www.petfooddirect.com/store/apc.asp?code=INC10&amp;target=affiliate.asp?AffiliateCode=PPPFD060305" target="_blank" onclick="javascript:urchinTracker('/bannerads/petfoodirect/petfoodmenu')">Pet Food</a></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a runat="server" href="http://www.nationalpetpharmacy.com/store/apc.asp?code=INCNPP10&amp;target=affiliate.asp?AffiliateCode=PPNPP060305" target="_blank" onclick="javascript:urchinTracker('/bannerads/petfoodirect/petmedsmenu')">Pet Meds</a></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a runat="server" href="http://www.petfooddirect.com/store/apc.asp?code=INC10&amp;target=affiliate.asp?AffiliateCode=PPPFD060305" target="_blank" onclick="javascript:urchinTracker('/bannerads/petfoodirect/petsuppliesmenu')">Pet Supplies</a></td></tr>
-	<tr><td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a runat="server" href="/PetInsurance/PetInsurance.asp">Pet Insurance</a></td></tr>
-	</tbody></table>
-<div runat="server" style="margin-bottom:10px;border:solid 1px #ccc;">
-<div class="SectionBox" align="center" style="border:none;border-bottom:solid 1px #ccc">
-	<h2>SITE SURVEY</h2>
-</div>
-<div align="center" style="padding-top:2px;padding-bottom:10px">
-Enter to WIN an<br>
-<strong>11x14 portrait</strong><br>
-<strong>of your pet</strong><br>
-<a href="javascript:openSurvey()">Take a Short Survey</a>
-</div>
-</div>
-<script language="javascript">
-	function openSurvey()
-	{
-		hWnd = window.open("http://www.surveymonkey.com/s.asp?u=404551558952", "", "menubar=no,status=no,toolbar=no,width=800,height=480,scrollbars=yes");
-	}
-</script>
-	<div style="margin-top:10px">
+
+
+	<table id="ucHeader_tblDefaultMenu" width="147" border="0" cellpadding="2" cellspacing="0" class="Mnu">
+	<tbody><tr>
+		<td bgcolor="#5351A4" style="padding:0px;"><img src="/images/trans.gif" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td class="MnuGroup"><strong>Dogs</strong></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/dogs.aspx">Dog Library</a></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/dog-breed-library.aspx">Breed Library</a></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/dog-medical-library.aspx">Medical Library</a></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/dog-behavior-library.aspx">Behavior Library</a></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/dog-wellness-library.aspx">Wellness Library</a></td>
+	</tr>
+	<tr>
+		<td class="MnuGroup"><strong>Cats</strong></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/cats.aspx">Cat Care Library</a></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/cat-breed-library.aspx">Breed Library</a></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/cat-medical-library.aspx">Medical Library</a></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/cat-behavior-library.aspx">Behavior Library</a></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/cat-wellness-library.aspx">Wellness Library</a></td>
+	</tr>
+	<tr>
+		<td class="MnuGroup"><strong>Resources</strong></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="bottom"> <a href="/MyPetPlace/mppMyPetPlace.asp?b=mnu">MyPet</a></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/petinsurance/pet-insurance.aspx">Pet Insurance</a></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/Drug-Library.aspx">Drug Library</a></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="http://vetlocator.petplace.com/" target="_blank">Vet Locator</a></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/feeds.aspx" title="RSS Headlines">RSS Headlines</a> <a href="/feeds.aspx" title="RSS Headlines"><img src="/i/feed-icon-12x12.gif" border="0" align="absmiddle" hspace="2" alt="RSS Headlines"></a></td>
+	</tr>
+	<tr>
+		<td class="MnuOptions"><img src="/i/ico_mnu.gif" align="absmiddle"> <a href="/surveys-list.aspx" title="Users' Stories">Users' Stories</a></td>
+	</tr>
+</tbody></table>
+
 	
+	
+	
+	
+	
+	
+	
+	
+	<div style="margin:0 10px">
+	<a href="http://www.surveymonkey.com/s.asp?u=25572077221" target="_blank">
+	<img src="/i/bnr_surveychoosedog.gif" alt="Choose Dog Survey" border="0" width="120" height="240"></a>
 	</div>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 </td>
 <td valign="top">
-	<table width="629" border="0" cellpadding="0" cellspacing="0">
-
-	<tbody><tr>
-	<td>
-		
-		<img src="/images/trans.gif" width="15" height="1">
-		
+	<table width="624" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td colspan="2"><img src="/images/trans.gif" width="1" height="4"></td></tr>
+	<tr>
+	<td width="15"><img src="/images/trans.gif" width="1" height="1"></td>
+	<td class="BreadCrumb">
+	&nbsp;	
 	</td>
+	</tr>
+	<tr><td colspan="2"><img src="/images/trans.gif" width="1" height="2"></td></tr>
+	<tr>
+	<td><img src="/images/trans.gif" width="15" height="1"></td>
 	<td valign="top">
 
 <script language="javascript" src="/include/incJavaToolTip.js" defer=""></script>
+<table width="614" border="0" cellpadding="5" cellspacing="0">
 
-<form method="get" action="corpSiteTextHandler.asp" name="form1">
-<!--<input type="hidden" name="TheCodeWasNotBlank" value="">-->
-<input type="hidden" name="hContinue" value="window.location = ''">
+<tbody><tr>
+<td style="padding-bottom:15px;padding-top:7px">
 
-<br><h1>Privacy Statement</h1><br>
-<table width="600" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td> 
-		<table width="100%" border="0" cellspacing="0" cellpadding="2">
-	<tbody><tr>
-		<td class="SectionBox">&nbsp;</td>
+		<td id="ucLibraryHeader_tdHeader" valign="top" class="LibraryHeader" width="1%" nowrap="nowrap" style="padding-top:7px">
+			<p style="margin:0 0 5px 0">Privacy Statement</p>
+			
+			
+			
+		</td>
+
+		
+		<td style="padding-bottom:5px">
+			<div style="padding-top:10px">
+			
+			</div>
+		</td>
 	</tr>
-	<tr> 
-		<td><img src="/images/trans.gif" width="1" height="15"></td>
-	</tr>
-	<tr> 
-		<td width="100%" bgcolor="#FFFFFF"> 
-		<font face="Arial, Helvetica, sans-serif" size="2">
-		At Intelligent Content Corp., the creators of PetPlace.com, we are committed to protecting the privacy of the users of our site and the security of the information they provide to us.<br><br>
+</tbody></table>
+</td>
+<td width="15" rowspan="3" style="padding:0px">&nbsp;</td>
+<td width="136" rowspan="3" style="padding:0px">&nbsp;</td>
+</tr>
+
+<tr>
+<td class="SectionBox"><img src="/images/trans.gif" width="1px" height="13px">
+</td>
+</tr>
+
+<tr>
+<td>At Intelligent Content Corp., the creators of PetPlace.com, we are committed to protecting the privacy of the users of our site and the security of the information they provide to us.<br><br>
 
 The only “personal information” (i.e. information that identifies an individual, such as a user’s full name or email address) that Intelligent Content Corp. will collect, through its PetPlace.com site, about our users is information that is voluntarily submitted by a user.<br><br>
 
@@ -272,24 +377,13 @@ Your acceptance of Intelligent Content Corporation’s Privacy Policy for the Pe
 
 <b>We would like to thank you for your patronage of our site and hope that you find our new offerings a valuable addition to our critically acclaimed educational content.</b>
 
-		</font>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-		<img src="/images/trans.gif" border="0" height="5" width="1">
-		</td>
-	</tr>
-	</tbody></table>
+
 </td>
 </tr>
 </tbody></table>
-</form>
-
 
 </td></tr>
 </tbody></table>
-
 </td>
 </tr>
 </tbody></table>
@@ -297,20 +391,19 @@ Your acceptance of Intelligent Content Corporation’s Privacy Policy for the Pe
 <div style="width:776px;background-color:#5553A7;color:#FFFFFF;text-align:center;font-size:13px;padding-top:5px;padding-bottom:5px;padding-right:0px;padding-left:0px;">
 PetPlace.com:
 <strong>
-<a href="/Corporate/corpSiteTextHandler.asp?code=About+Us" style="color:#FFFFFF">About Us</a> | 
-<a runat="server" href="/contact-us.aspx" style="color:#FFFFFF">Contact Us</a> |
-<a href="/Corporate/corpPartners.asp" style="color:#FFFFFF">Partners</a> |
-<a href="/press.aspx" style="color:#FFFFFF">Press</a>
+<a href="about-us.aspx" style="color:#FFFFFF">About Us</a> | 
+<a href="contact-us.aspx" style="color:#FFFFFF">Contact Us</a> |
+<a href="partners.aspx" style="color:#FFFFFF">Partners</a> |
+<a href="press.aspx" style="color:#FFFFFF">Press</a>
 </strong>
 </div>
-<div style="width:776px;text-align:center">© Copyright 1999-2005 Intelligent Content Corp., All Rights Reserved<br>
-Your use of this website constitues acceptance of our <a href="/Corporate/corpSiteTextHandler.asp?code=Privacy+Statement">Privacy policy</a> and <a href="/Corporate/corpSiteTextHandler.asp?code=Legal+Disclaimer">Legal terms</a>.<br>
-Pet Care Information - Pet Information - Pet Health Information<br>
-<a runat="server" href="/site-map.aspx">See the Site Map</a>
+<div style="width:776px;text-align:center">© Copyright 1999-2006 Intelligent Content Corp., All Rights Reserved<br>
+Your use of this website constitutes acceptance of our <a href="privacy-Statement.aspx">Privacy Statement</a> and <a href="legal-terms.aspx">Legal terms</a>.<br>
+<h1 style="color:black;font-size:12px;font-weight:normal">Pet Cats - Pet Turtles - Pet Rabbits</h1>
+<a href="site-map.aspx">See the Site Map</a>
 </div>
-<br><br>
-<!-- Begin Standard Footer -->
-<!--	v2.1.0025 --><br>
+<br>
+
 <!-- Weblinx web tools statistics hit counter code -->
 <script language="javascript" type="text/javascript">
 var data,nhp,ntz,rf,sr;document.cookie='__support_check=1';nhp='http';
@@ -329,18 +422,12 @@ screen.colorDepth+'&rs='+escape(screen.width+ ' x '+screen.height)+
 '&tz='+ntz.getTimezoneOffset()+'&je='+ navigator.javaEnabled()};
 document.write('<img border=0 hspace=0 '+
 'vspace=0 width=1 height=1 src="'+nhp+'://loc1.hitsprocessor.com/'+
-'statistics.asp?v=1&s=17&pl=1&acct=catscratch'+data+'">');</script><img border="0" hspace="0" vspace="0" width="1" height="1" src="https://loc1.hitsprocessor.com/statistics.asp?v=1&amp;s=17&amp;pl=1&amp;acct=catscratch&amp;an=Netscape&amp;ck=17&amp;rf=&amp;sl=undefined&amp;av=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;l=en-US&amp;pf=Linux%20x86_64&amp;pg=/web/20051221155449id_/http%253A//www.petplace.com/Corporate/corpSiteTextHandler.asp%253Fcode%253DPrivacy%252BStatement&amp;cd=24&amp;rs=800%20x%20600&amp;tz=0&amp;je=false">
+'statistics.asp?v=1&s=17&pl=1&acct=catscratch'+data+'">');</script><img border="0" hspace="0" vspace="0" width="1" height="1" src="https://loc1.hitsprocessor.com/statistics.asp?v=1&amp;s=17&amp;pl=1&amp;acct=catscratch&amp;an=Netscape&amp;ck=17&amp;rf=&amp;sl=undefined&amp;av=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;l=en-US&amp;pf=Linux%20x86_64&amp;pg=/web/20060629005141id_/http%253A//www.petplace.com/privacy-Statement.aspx&amp;cd=24&amp;rs=800%20x%20600&amp;tz=0&amp;je=false">
 <noscript>
 <img border=0 hspace=0 vspace=0 width=1 height=1 alt="" 
 src="http://loc1.hitsprocessor.com/stats-ns.asp?acct=catscratch&amp;v=1&pl=1&amp;s=17">
 </noscript>
 <!-- End Weblinx statistics web tools hit counter code -->
 
-
-
-
-<!-- Env: PRODUCTION -->
-
-<!-- End Standard Footer -->
 
 </body></html>
