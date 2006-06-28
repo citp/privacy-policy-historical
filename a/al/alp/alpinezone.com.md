@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217092952id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629015407id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
 
 # AlpineZone.com Privacy Policy
 
@@ -7,77 +7,96 @@
 **[ Latest Headlines](http://news.alpinezone.com/) **[](http://rss.alpinezone.com/news.php)  
   
 ---  
- [More than 1,500 Skiers and Riders Take Advantage of a Free Powder Day at Attitash](http://news.alpinezone.com/6936/) \- Dec 16, 2005 - 4:37 PM  
+ [250 Hikers to Climb Mount Washington in Support of Non-Profit Observatory...](http://news.alpinezone.com/9021/)  
+   12:24 PM \- Jun 26, 2006   
   
- [Attitash Instant Winter Scratch Tickets to Hit the Mount Washington Valley](http://news.alpinezone.com/6935/) \- Dec 16, 2005 - 4:35 PM  
+ [The Mount Washington Resort at Bretton Woods Finalizes Sale...](http://news.alpinezone.com/9020/)  
+    12:23 PM \- Jun 26, 2006   
   
- [Crotched Mountain Opens 100% Terrain with Full Coverage](http://news.alpinezone.com/6934/) \- Dec 16, 2005 - 4:35 PM  
+ [Jiminy Welcomes New Conference Sales Manager...](http://news.alpinezone.com/8978/)  
+    11:30 AM \- Jun 23, 2006   
   
- [Catamount Skiers and Riders to Enjoy Best Early Season Conditions Ever](http://news.alpinezone.com/6891/) \- Dec 14, 2005 - 4:36 PM  
+ [Spring Mountain Ski Area Soars into Summer with New Summer Adventures Program...](http://news.alpinezone.com/8961/)  
+    9:06 AM \- Jun 22, 2006   
   
- [New Jersey Transit Bus Service to Mountain Creek Resumes for 2005-06 Season](http://news.alpinezone.com/6890/) \- Dec 14, 2005 - 2:27 PM  
+ [Wednesdays are &quot;Wild&quot; at Wildcat Mountain with Tin Mountain Conservation Center...](http://news.alpinezone.com/8960/)  
+    9:06 AM \- Jun 22, 2006   
   
- [Live Music, Rail Jam and Telemark Demos at Whiteface This Weekend](http://news.alpinezone.com/6889/) \- Dec 14, 2005 - 1:56 PM  
+ [Arts Jubilee Concerts Highlight Summer Events at Cranmore...](http://news.alpinezone.com/8948/)  
+    11:59 AM \- Jun 20, 2006   
   
- [The Summit of Whiteface Opens for Skiing and Riding Today](http://news.alpinezone.com/6882/) \- Dec 14, 2005 - 12:56 PM  
+ [Stowe's Summer Attractions Open June 24...](http://news.alpinezone.com/8941/)  
+    3:42 PM \- Jun 19, 2006   
   
- [Learn to Turn for $39 at Loon Mountain, Waterville Valley and Cranmore](http://news.alpinezone.com/6867/) \- Dec 13, 2005 - 4:30 PM  
+ [Loon Mountain Slides into Summer with Its Annual Gelatin Jam July 1-2...](http://news.alpinezone.com/8940/)  
+    3:42 PM \- Jun 19, 2006   
   
- [Award Winning Safety Theme at Sunday River Encourages Guests to Go With The Flow](http://news.alpinezone.com/6866/) \- Dec 13, 2005 - 4:29 PM  
+ [Nutting Family Agrees to Purchase Seven Springs Mountain Resort...](http://news.alpinezone.com/8939/)  
+    2:40 PM \- Jun 19, 2006   
   
- [Gore Mountain Offers Fantastic Early Season](http://news.alpinezone.com/6865/) \- Dec 13, 2005 - 4:29 PM  
+ [Free Riding and Sliding at Attitash...](http://news.alpinezone.com/8938/)  
+    2:39 PM \- Jun 19, 2006   
   
   
   
 **[ Recent Discussions](http://forums.alpinezone.com/) **[](http://rss.alpinezone.com/forums.php)  
   
 ---  
- [Are you a 'chairlift...](http://forums.alpinezone.com/viewtopic.php?p=66922#66922&sid=8350d6c699960aacfa6c55af69a7f318)  
-   Dec 17, 2005 - 4:01 AM  
-   by [BeanoNYC](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1195&sid=8350d6c699960aacfa6c55af69a7f318)  
+ [Word Association Thr...](http://forums.alpinezone.com/showthread.php?t=8966&goto=newpost)  
+   3:13 PM \- Jun 22, 2006   
+    by Greg  
   
- [Wachusett 12/16/05](http://forums.alpinezone.com/viewtopic.php?p=66921#66921&sid=8350d6c699960aacfa6c55af69a7f318)  
-   Dec 17, 2005 - 1:25 AM  
-   by [Zand](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=460&sid=8350d6c699960aacfa6c55af69a7f318)  
   
- [I am taking the rest...](http://forums.alpinezone.com/viewtopic.php?p=66920#66920&sid=8350d6c699960aacfa6c55af69a7f318)  
-   Dec 16, 2005 - 10:51 PM  
-   by [cyrk007](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1113&sid=8350d6c699960aacfa6c55af69a7f318)  
+ [Talk Radio, What's Y...](http://forums.alpinezone.com/showthread.php?t=8562&goto=newpost)  
+    1:05 PM \- May 10, 2006   
+    by andyzee  
   
- [AAAGHHH!! the agony...](http://forums.alpinezone.com/viewtopic.php?p=66919#66919&sid=8350d6c699960aacfa6c55af69a7f318)  
-   Dec 16, 2005 - 10:45 PM  
-   by [cyrk007](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1113&sid=8350d6c699960aacfa6c55af69a7f318)  
   
- [What's the Coolest &...](http://forums.alpinezone.com/viewtopic.php?p=66917#66917&sid=8350d6c699960aacfa6c55af69a7f318)  
-   Dec 16, 2005 - 10:38 PM  
-   by [Npage148](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1332&sid=8350d6c699960aacfa6c55af69a7f318)  
+ [New way to steal car...](http://forums.alpinezone.com/showthread.php?t=9048&goto=newpost)  
+    4:19 PM \- Jun 28, 2006   
+    by ALLSKIING  
   
- [Catamount Dec 20th](http://forums.alpinezone.com/viewtopic.php?p=66916#66916&sid=8350d6c699960aacfa6c55af69a7f318)  
-   Dec 16, 2005 - 10:36 PM  
-   by [ALLSKIING](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1105&sid=8350d6c699960aacfa6c55af69a7f318)  
   
- [Girl in my office ju...](http://forums.alpinezone.com/viewtopic.php?p=66915#66915&sid=8350d6c699960aacfa6c55af69a7f318)  
-   Dec 16, 2005 - 10:23 PM  
-   by [Bumpsis](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=621&sid=8350d6c699960aacfa6c55af69a7f318)  
+ [The Funny Video Thre...](http://forums.alpinezone.com/showthread.php?t=8451&goto=newpost)  
+    11:36 PM \- Apr 28, 2006   
+    by BeanoNYC  
   
- [Vechicles](http://forums.alpinezone.com/viewtopic.php?p=66913#66913&sid=8350d6c699960aacfa6c55af69a7f318)  
-   Dec 16, 2005 - 10:14 PM  
-   by [Bumpsis](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=621&sid=8350d6c699960aacfa6c55af69a7f318)  
   
- [Need recommendation ...](http://forums.alpinezone.com/viewtopic.php?p=66912#66912&sid=8350d6c699960aacfa6c55af69a7f318)  
-   Dec 16, 2005 - 9:55 PM  
-   by [teachski](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=410&sid=8350d6c699960aacfa6c55af69a7f318)  
+ [Outdoor Gear Online...](http://forums.alpinezone.com/showthread.php?t=9022&goto=newpost)  
+    2:09 PM \- Jun 26, 2006   
+    by Zunnie4  
   
- [My Ski Boot Fitting ...](http://forums.alpinezone.com/viewtopic.php?p=66908#66908&sid=8350d6c699960aacfa6c55af69a7f318)  
-   Dec 16, 2005 - 9:28 PM  
-   by [Skiiboot](http://forums.alpinezone.com/profile.php?mode=viewprofile&u=1767&sid=8350d6c699960aacfa6c55af69a7f318)  
+  
+ [Hiking Clubs...](http://forums.alpinezone.com/showthread.php?t=3784&goto=newpost)  
+    9:53 AM \- May 2, 2005   
+    by skizilla  
+  
+  
+ [Hiking Suggestions?...](http://forums.alpinezone.com/showthread.php?t=9043&goto=newpost)  
+    11:11 AM \- Jun 28, 2006   
+    by UTAH_HIKER  
+  
+  
+ [Trailboss breaks 6,0...](http://forums.alpinezone.com/showthread.php?t=9045&goto=newpost)  
+    1:47 PM \- Jun 28, 2006   
+    by Greg  
+  
+  
+ [First time out for t...](http://forums.alpinezone.com/showthread.php?t=9035&goto=newpost)  
+    11:47 AM \- Jun 27, 2006   
+    by ALLSKIING  
+  
+  
+ [Your Official 2005-0...](http://forums.alpinezone.com/showthread.php?t=8059&goto=newpost)  
+    7:03 AM \- Mar 26, 2006   
+    by Greg  
   
   
    
 | 
 
   
-[Home](http://www.alpinezone.com/)  > ** AlpineZone.com Privacy Policy**
+[Home](http://www.alpinezone.com/)  > **AlpineZone.com Privacy Policy**
 
 **Introduction:**  
 We are committed to protecting your privacy at AlpineZone.com. We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We do not sell, share, or rent this information to others in any way that we have not mentioned in this statement. For more information, please click one of the links below:
@@ -100,11 +119,10 @@ Top
  
 
 **Email:**  
-There are three reasons for requesting your Email address:
+There are two reasons for requesting your Email address:
 
-  * **[E-Newsletter Subscription](http://www.alpinezone.com/newsletter.htm):** This is an opt-in newsletter which provides subscribers information we feel may interest Northeast mountain enthusiasts. We try to limit the mailing to 2-3 per month. Subscribers can unsubscribe from the E-Newsletter at any time from this [page](http://www.alpinezone.com/newsletter.htm) and each E-Newsletter mailing also has an unsubscribe link. **Subscription to the E-Newsletter is the only sales and marketing tool used to send Email regarding AlpineZone.com services or other information.**
-  * **[Forum Membership](http://forums.alpinezone.com/):** You must [register](http://forums.alpinezone.com/profile.php?mode=register) to post in the AlpineZone [Message Forums](http://forums.alpinezone.com/). The registration process requires the entry of a valid Email address. There is also forum functionality that can only be achieved via a valid Email address (e.g. watched topic and private message notification). The forum software does have a mass Email capability, but it has been our policy not to use it. If you are interested in receiving Emails regarding AlpineZone.com information and services, please subscribe to the [ E-Newsletter](http://www.alpinezone.com/newsletter.htm) in conjunction with a forum membership.
-  * **[Contest Entry](http://www.alpinezone.com/contest/):** At times, we run contests such as lift ticket giveaways. As part of the contest entry we need to collect personal information such as your name, forum username, Email address, mailing address, etc. This information is used to contact winners and for prize fulfillment. We do not contact contest entrants via Email for any reason not related to the contest itself. If you are interested in receiving Emails regarding AlpineZone.com information and services, please indicate you would like to join the AlpineZone.com [ E-Newsletter](http://www.alpinezone.com/newsletter.htm) when filling out the entry form.
+  * **[Forum Membership](http://forums.alpinezone.com/):** You must [register](http://forums.alpinezone.com/profile.php?mode=register) to post in the AlpineZone [Message Forums](http://forums.alpinezone.com/). The registration process requires the entry of a valid Email address. There is also forum functionality that can only be achieved via a valid Email address (e.g. watched topic and private message notification). You can opt to receive messages from the forum administrators in your User control Panel. Mass Emailing from the forum software is the only sales and marketing tool used to send Email regarding AlpineZone.com services or other information.
+  * **[Contest Entry](http://www.alpinezone.com/contest/):** At times, we run contests such as lift ticket giveaways. As part of the contest entry we need to collect personal information such as your name, forum username, Email address, mailing address, etc. This information is used to contact winners and for prize fulfillment. We do not contact contest entrants via Email for any reason not related to the contest itself.
 
 
 
@@ -118,7 +136,7 @@ Top
  
 
 **AlpineZone.com's affiliate services:**  
-AlpineZone.com has entered into and will continue to enter into partnerships and other affiliations with relevant vendors and service providers. Our [Gear](http://alpinezone.altrec.com/mpgate/Alpin4/shop/), [Lodging](http://lodging.alpinezone.com/) and [Merchandise](http://www.cafepress.com/alpinezone) sections are currently available through partnerships with Altrec.com, Worldres.com and CafePress.com, respectively. Their Privacy Policies are accessible below:
+AlpineZone.com has entered into and will continue to enter into partnerships and other affiliations with relevant vendors and service providers. Our [Gear](http://gear.alpinezone.com/), [Lodging](http://lodging.alpinezone.com/) and [Merchandise](http://www.cafepress.com/alpinezone) sections are currently available through partnerships with Altrec.com, Worldres.com and CafePress.com, respectively. Their Privacy Policies are accessible below:
 
 Top  
  
