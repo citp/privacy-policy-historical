@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the state.nj.us privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229082257id_/http%3A//www.state.nj.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.nj.us privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628185512id_/http%3A//www.state.nj.us/nj/privacy.html) for the most accurate reproduction.*
 
-# State of New Jersey | privacy notice
+# The Official Web Site for The State of New Jersey | Privacy Notice
 
   
 October 11, 2000 
@@ -8,7 +8,7 @@ October 11, 2000
 **State of New Jersey  
 Privacy Notice**
 
-_The following notices apply to all web sites of state agencies listed at[www.state.nj.us/deptserv.html](http://www.state.nj.us/deptserv.html) in the executive branch of state government other than independent state agencies._
+_The following notices apply to all web sites of state agencies listed at_ _[www.state.nj.us/nj/deptserv.html](http://www.state.nj.us/nj/deptserv.html) in the executive branch of state government other than independent state agencies._
 
 Thank you for visiting the State of New Jersey web site and reviewing our Privacy Notice. This statement addresses collection, use and security of and access to information that may be obtained through the use of the State of New Jersey web site. This notice covers the following topics:
 
@@ -28,9 +28,10 @@ Thank you for visiting the State of New Jersey web site and reviewing our Privac
 
 
 
-Section A. Information Collected and How it is Used  
+Section A. Information Collected and How it is Used
+
   
- **Information Collected and Stored Automatically**
+**Information Collected and Stored Automatically**
 
 If you do nothing during your visit but browse through the web site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
@@ -52,7 +53,8 @@ We use this information to help us make our site more useful to visitors - to le
 
 If you choose to provide us with personal information -- as in an e-mail to Governor or someone else, or by filling out a form with your personal information and submitting it to us through our web site -- we use that information to respond to your message and to help us get you the information you have requested. We may share the information you give us with another State of New Jersey government agency, department, office or entity, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or to give it to any private organizations. The State of New Jersey does not collect information for commercial marketing.
 
-Section B. Personal Information and Choice  
+Section B. Personal Information and Choice
+
   
 You may choose whether to provide personal information on-line. 
 
@@ -72,27 +74,32 @@ If you believe that your personal information is being used for a purpose other 
 
 We at the State of New Jersey are especially concerned about protecting children's privacy. We hope parents and teachers are involved in children's Internet explorations. It is particularly important for parents to guide their children when children are asked to provide personal information on line. The State of New Jersey homepage for kids encourages children to send email messages with their feedback and suggestions. We specifically ask children to get their parents' permission before providing any information on line -- at our site or any other site -- and hope parents will always be involved in those decisions. Most importantly, when children do provide information through the State of New Jersey web site, it is only used to enable us to respond to the writer, and not to create profiles of children
 
-Section C. Public Access to Information  
+Section C. Public Access to Information
+
   
 In the State of New Jersey, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by state government. At the same time, there are exceptions to the public's right to access public records that serve various needs including the privacy of individuals. Exceptions are provided by both state and federal laws. 
 
 All the information collected at this site becomes public records that may be subject to inspection and copying by members of the public, unless an exemption in law exists.
 
-Section D. Cookies  
-  
-The State of New Jersey uses cookies to customize and enhance your browsing experience. Cookies are simple text files stored on you computer by Internet web sites to help identify users and enhance customer service. Cookies created by using the State web site may contain personally identifying information such as user contact information consisting of name, address, phone number or e-mail address. The cookie feature is used only to store a randomly generated identifying tag on your computer and does not compromise your privacy or security.
+Section D. Cookies
 
-Section E. Security  
+  
+The State of New Jersey uses cookies to customize and enhance your browsing experience. Cookies are simple text files stored on you computer by Internet web sites to help identify users and enhance customer service. Cookies created by using the State web site may contain personally identifying information such as user contact information consisting of name, address, phone number or e-mail address. The cookie feature is used only to store a randomly generated identifying tag on your computer and does not compromise your privacy or security. 
+
+Section E. Security
+
   
 The State of New Jersey, as developer and manager of this web site has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession. 
 
-Section F. Disclaimer  
+Section F. Disclaimer
+
   
-The State web site and materials may contain hypertext or links to other Internet computer sites which are not owned, operated, controlled or reviewed by the State. These links are provided solely as a courtesy and convenience to you, the visitor. When you link to one of these sites, you are no longer on the State of New Jersey web site and this Privacy Notice will not apply. When you link to another web site, you are subject to the privacy policy of that new site.
+The State web site and materials may contain hypertext or links to other Internet computer sites which are not owned, operated, controlled or reviewed by the State. These links are provided solely as a courtesy and convenience to you, the visitor. When you link to one of these sites, you are no longer on the State of New Jersey web site and this Privacy Notice will not apply. When you link to another web site, you are subject to the privacy policy of that new site. 
 
 The State of New Jersey, its agencies, officers, or employees exercise no control over the organizations, views, accuracy, copyright or trademark compliance or the legality of the material contained on those servers and do not sponsor, endorse, or approve the information, content, products, materials, opinions or services contained on such external sites. The visitor proceeds to these external sites at their own risk. The State specifically disclaims any and all liability from damages which may result from the accessing of a third party site which is linked to the State of New Jersey web site, or from reliance upon any such information.
 
-Section G. Contact Information  
+Section G. Contact Information
+
   
 You may contact the State of New Jersey as follows: 
 
@@ -106,7 +113,7 @@ FAX: 609-633-8888
 
 To offer comments about the State of New Jersey web site, or about the information presented in this Privacy Notice:
 
-Communications and Creative Services  
+Web Digital Services  
 New Jersey Office of Information Technology  
 PO Box 212  
 Trenton, New Jersey 08625-0212  
