@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231223645id_/http%3A//acdsystems.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdsee.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628225541id_/http%3A//acdsee.com/privacy) for the most accurate reproduction.*
 
 # ACD Systems
-
-## ACD Systems Privacy Policy
 
 We are committed to protecting your privacy and the security of information you provide to us. **ACD Systems ("ACD") will not sell, rent, lease or disclose customer information to third parties unless required by law or unless you provide consent to such a disclosure.** Other terms of ACD's privacy policy are as follows:
 
@@ -48,7 +46,7 @@ No personally identifiable information is transmitted across the Internet when u
 
 ACD takes the protection of the personal information you provide very seriously. Personal information collected is stored in password-controlled servers with limited access. When passing information over the Internet through the ACDInTouch service, information is protected through the use of encryption, specifically through the use of the Secure Socket Layer (SSL) protocol. However, perfect security on the Internet does not yet exist and we cannot warrant that our transfer of data is impenetrable or invulnerable to hackers. Internal data is shared through secured transmissions and maintained in secured databases.
 
-ACD may hire certain outside contractors to perform services on our behalf (such as packaging & shipping). We will only provide those companies the personal information they need to complete the desired service. They are not permitted to use customer information for any other purpose.
+ACD may hire certain outside contractors to perform services or functions on our behalf (such as customer support, packaging & shipping). We will only provide those companies the personal information they need to complete the desired service. They are not permitted to use customer information for any other purpose and are obligated to keep your customer information confidential.
 
 Information submitted to ACD may be transferred across national boundaries to or from our staff in other countries. ACD will only disclose information if required to do so by law, legal process or if in good faith it is deemed necessary for the public interest.
 
@@ -58,9 +56,10 @@ At any time you may review, alter or remove any personal information, including 
 
 ACD Systems Ltd.  
 Privacy/Customer Service  
-Suite 180, 1150 NW 72 Ave.  
-Miami, FL 33126  
-USA
+PO Box 36  
+Saanichton,  
+British Columbia, V8M 2C3  
+Canada 
 
 If you have any questions or concerns regarding our online privacy policy or should you wish to withdraw your consent, contact us by e-mail at [privacy@acdsystems.com](mailto:privacy@acdsystems.com)
 
@@ -82,6 +81,6 @@ The client IP is necessary to establish the connection with ACD's server and is 
 
 When connecting with the ACDInTouch server, your application ID is used to uniquely identify your connection. This ID does not contain any personally identifiable information.
 
-Copyright © 2004 by ACD Systems Ltd. All rights reserved.
+Copyright © 2004 - 2006 by ACD Systems Ltd. All rights reserved.
 
 ACD, ACD Systems, ACDIntouch, and ACDSee are trademarks of ACD Systems Ltd. registered in Canada, the United States, and in other countries.
