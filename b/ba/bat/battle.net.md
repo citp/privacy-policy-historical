@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the battle.net privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210132226id_/http%3A//www.battle.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battle.net privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628083538id_/http%3A//www.blizzard.com/privacy.shtml) for the most accurate reproduction.*
 
-# Battle.net - Welcome to the Battle.net Web Site!
+# Blizzard Entertainment - On-Line Privacy Policy
 
-Blizzard Entertainment and its affiliate companies (collectively "Blizzard") respect the privacy of its on-line visitors and recognize the importance of providing a secure environment for them. We have adopted a company wide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how Blizzard safeguards the privacy of its on-line visitors and does not apply to information that may be collected by Blizzard off-line. Please note that when you link to other sites from a Blizzard website, this Privacy Policy does not apply to, and cannot control the activities on, those other sites. Also, this Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. 
+**Blizzard Entertainment® Online Privacy Policy**
 
-[](https://www.esrb.org/confirm/Blizzard-Confirmation.htm) This Privacy Policy and the certification seal located on this page confirms that Blizzard Entertainment is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB. 
-
-This Privacy Policy will tell you : 
+[](http://www.esrb.org/confirm/vivendi-confirmation.jsp) Blizzard Entertainment and its affiliate companies (collectively "Blizzard") respect the privacy of its on-line visitors and recognize the importance of providing a secure environment for them. We have adopted a company wide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how Blizzard safeguards the privacy of its on-line visitors and does not apply to information that may be collected by Blizzard off-line. Please note that when you link to other sites from a Blizzard website, this Privacy Policy does not apply to, and cannot control the activities on, those other sites. This Privacy Policy and the certification seal located on this page confirms that Blizzard Entertainment is a valid licensee and participating member in the [Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online](http://www.esrb.org/). To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB. This Privacy Policy will tell you: 
 
   * What personal identifying information we may collect
   * What other types of information we may collect
   * How your personal information may be used
   * Who is collecting your information
+  * With whom may your personal information be shared?
   * What choices you have regarding the collection, use, and distribution of your personal information
   * Whether we collect information from children
   * What cookies are and how we use them
@@ -21,9 +20,9 @@ This Privacy Policy will tell you :
   * What to do if you have a question or complaint
 
 **What personal information is collected?**  
-Blizzard only collects personal information on a voluntary basis. If an on-line visitor submits information to Blizzard, it will usually take the form of either: (1) the purchase of goods or services though our on-line stores, (2) product registration or registration for on-line game participation, (3) player match-up services, (4) message boards, (5) warranty registrations, (6) contest registrations, (7) a consumer complaint, and/or (8) surveys. Personal information collected may include your name, home address, phone number, and/or e-mail address. We do not require this information to use our products or gain access to our sites, however, you will not be able to utilize certain features that require registration or receive materials such as newsletters unless such information is provided. 
+Blizzard only collects personal information on a voluntary basis. If an on-line visitor submits information to Blizzard, it will usually take the form of either: (1) the purchase of goods or services though our on-line stores, (2) product registration or registration for on-line game participation, (3) player match-up services, (4) message boards, (5) warranty registrations, (6) contest registrations, (7) a consumer complaint, (8) surveys, and/or (9) newsletters. Personal information collected may include your name, home address, phone number, and/or e-mail address. We do not require this information to use our products or gain access to our sites, however, you will not be able to utilize certain features that require registration or receive materials such as newsletters unless such information is provided. 
 
-Visitors purchasing products or services through our on-line stores will be required to provide additional information such as a valid credit card number and expiration date. 
+Visitors purchasing products or services through our on-line stores will be required to provide additional information such as a valid credit card number, expiration date, and shipping and billing addresses.". 
 
 Please note that, depending on the Blizzard site that you are visiting, many of the activities listed above may not be available and, as such, personal information may not be collected. 
 
@@ -38,7 +37,7 @@ Lastly, we may use your personal information for internal marketing, profiling, 
 Please be advised that personal information submitted by individuals acting solely in a business capacity (e.g., personal information contained in job applicant's resume) is not subject to the uses set forth above or to any other practices stated in this Privacy Policy. 
 
 **Who is collecting your information?**  
-When you are asked for information while on a Blizzard site, you are sharing that information with Blizzard, its parent, and its [various affiliates and sister companies](https://web.archive.org/web/20051210132226id_/http%3A//www.battle.net/privacy2.shtml), unless specifically stated otherwise. As a result of this sharing, you may receive communications from any of Blizzard's affiliates. In addition, some services are provided in conjunction with partner companies. If your personal information is being collected by another company other than Blizzard, you will be notified at the time the information is collected. If you do not want your information shared, you can choose not to allow the transfer of information by not using that particular service or by not providing any information at that time. 
+When you are asked for information while on a Blizzard site, you are sharing that information with Blizzard, its parent, and its [various affiliates and sister companies](https://web.archive.org/web/20060628083538id_/http%3A//www.blizzard.com/privacy2.shtml), unless specifically stated otherwise. As a result of this sharing, you may receive communications from any of Blizzard's affiliates. In addition, some services are provided in conjunction with partner companies. If your personal information is being collected by another company other than Blizzard, you will be notified at the time the information is collected. If you do not want your information shared, you can choose not to allow the transfer of information by not using that particular service or by not providing any information at that time. 
 
 Please be aware that advertisers or websites with links to our sites may collect personal information about you. And remember, this Privacy Policy does not apply to, and cannot control the activities of, those other advertisers or websites. 
 
@@ -59,7 +58,7 @@ Blizzard allows you to control the way that we use personal identifying informat
 If at any time you wish to opt out of having your personal information shared with third parties and/or receiving information from Blizzard (via e-mail or postal mail) about new products, services, or promotions, you can do so. You may contact us at Blizzard Entertainment Privacy Policy, Attn: Opt-Out Administrator, 6080 Center Drive, Los Angeles, California 90045. You can also contact us by e-mailing us at [opt-out@blizzard.com](mailto:opt-out@blizzard.com). Please indicate what publications or services you no longer wish to receive so that we may better address your needs. 
 
 **What about Children?**  
-_Children Under 13_   
+_Children Under 13_  
 Once a child states that his/her age is under 13, we do not collect or store any personally identifiable information such as name, address, or email address. 
 
 _Note to Parents_  
@@ -72,7 +71,7 @@ Cookies are a feature of your Web browser that allows Web sites to transfer bits
 An Internet protocol ("IP") address is the unique number assigned to your server or Internet Service Provider ("ISP"). Blizzard may track such IP addresses for system administration, to report aggregate information, site tracking, or to prevent our servers from being abused. 
 
 **What do I do if I want to correct or delete my personal information?**  
-If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we delete such personal information, please contact Blizzard Entertainment Privacy Policy, Attention: Privacy Policy Administrator, at 6080 Center Drive, Los Angeles, California 90045. You can also contact us by e-mailing us at [privacyonline@blizzard.com](mailto:privacyonline@blizzard.com)
+If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we delete such personal information, please contact Blizzard Entertainment Privacy Policy, Attention: Privacy Policy Administrator, at 6080 Center Drive, Los Angeles, California 90045. You can also contact us by e-mailing us at [privacyonline@blizzard.com](mailto:privacy@blizzard.com). 
 
 **How secure is my personal information?**  
 Blizzard has taken steps to assure that all information collected will remain secure and in its original form, i.e. free from any alteration. As such, access to all personal information is strictly controlled. When credit card information is transmitted, for example, we use industry standard, SSL (secure sockets layer) encryption. In addition, we will take reasonable steps to assure that third parties to whom we transfer any data will provide sufficient protection of personal information. 
@@ -80,8 +79,15 @@ Blizzard has taken steps to assure that all information collected will remain se
 **What if I have a question or complaint?**  
 If you have any questions or wish to file a complaint, please feel free to e-mail us at [privacy@blizzard.com](mailto:privacy@blizzard.com) or send a letter addressed to Blizzard Entertainment Privacy Policy, Attention: Privacy Policy Administrator, at 6080 Center Drive, Los Angeles, California 90045. 
 
-For complaints, you may also contact ESRB Privacy Online directly at [www.esrb.org](http://www.esrb.org/) or by regular mail at 317 Madison Avenue, 22nd Floor, New York, NY 10017. By using this Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. 
+VUG is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactory addressed, please contact ESRB [here](http://www.esrb.org/privacy_wc_hotline.asp). 
 
-This Privacy Policy was last updated on January 29, 2003. 
+ESRB  
+Attn: Director, Privacy Online  
+317 Madison Avenue, 22nd Floor  
+New York, NY 10017  
+212-759-0700  
+[privacyinfo@esrb.org](mailto:privacyinfo@esrb.org)
 
-\- [RETURN TO BATTLE.NET](https://web.archive.org/) \- 
+By using this Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of the Blizzard website will signify your acceptance of these changes. 
+
+This Privacy Policy was last updated on March 23, 2006. 
