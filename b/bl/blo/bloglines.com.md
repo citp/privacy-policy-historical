@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the bloglines.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221050556id_/http%3A//bloglines.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloglines.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628130417id_/http%3A//www.bloglines.com/about/privacy) for the most accurate reproduction.*
 
 # Bloglines | Privacy Policy
 
 ## Privacy Policy
 
-Respecting users' privacy is a key value for Bloglines and it's parent company Ask Jeeves, Inc. As of July 19, 2005, Ask Jeeves has become a wholly-owned subsidiary of [IAC/InterActiveCorp](http://www.iac.com/) (NASDAQ: IACI), and thus, IAC now controls Bloglines’ privacy practices. 
-
-IAC's brands include some of the best companies on the Internet, and we are excited by the additional resources that IAC will be able to provide to Bloglines users. IAC has informed us that it does not plan to make any immediate changes to Bloglines' privacy practices. This means that the [Bloglines’ privacy policy](http://www.bloglines.com/about/privacy) will continue to remain in place; and IAC will treat users' personal information with the same respect, and subject to the same constraints, as apply under the current policy. If in the future IAC decides to revise Bloglines' privacy practices, those changes will be announced in the manner required by the privacy policy. To learn about personal information Bloglines collects and how it may be used, please read [Bloglines’ privacy policy.](http://www.bloglines.com/about/privacy)
+Respecting users' privacy is important to Bloglines. Read this page to learn about personal information that Bloglines collects and how it may be used. 
 
 If you have any questions please contact [Bloglines user support](http://www.bloglines.com/contact). 
 
