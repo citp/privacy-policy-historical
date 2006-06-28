@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bloglines.com privacy policy that was archived on 2005-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051221050556id_/http%3A//bloglines.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bloglines.com privacy policy that was archived on 2006-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060628130417id_/http%3A//www.bloglines.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Bloglines | Privacy Policy</title>
@@ -10,25 +10,81 @@
 <link rel="alternate" type="application/rss+xml" title="Bloglines: Top Declining Links" href="http://www.bloglines.com/rss/toplinks_dec">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <meta name="keywords" content="rss,atom,newsreader,feed,aggregator,syndication">
+<link rel="stylesheet" href="/css/r61/site.css" type="text/css">
+<!--[if IE 6]>
+<link rel="stylesheet" href="/css/r61/site_ie6.css" type="text/css" />
+<![endif]-->
 <style type="text/css" media="all">
-@import "/css/10192005.css";
 body {
   background:#fff;
   margin: 0;
   padding:0;
   color:#000;
   font:x-small/1.5em Verdana, Arial, Helvetica, sans-serif;
-  voice-family: "\"}\""; voice-family:inherit;
+  voice-family: "\"}\"";
+  voice-family:inherit;
   font-size: 69%;
-  }
+}
 </style>
+<script type="text/javascript" src="/js/r60/bl/hk.js"></script>
+<script type="text/javascript">
+function ct(li, id) {
+  if (li && li.href && id) {
+  if (li.wzup) return true;
+  var url = li.href;
+  li.href = "http://wzus.bloglines.com/r?t=a&d=us&s=bl&c=blen&ti=1&ai="+enc(id)+"&l=dir&o=0&sv=z6f537f59&ip=D1EDEEE6&u="+enc(url)+"";
+  li.wzup = 1;
+  }
+  return true;
+}
+function _RP5(p) {
+  return "http://wzus.bloglines.com/r?" + pob(p);
+}
+function pob(po) {
+  return h(po.baseparams)+"&pt="+enc(h(po.pt))+"&ex="+h(po.ex)+"&url="+enc(h(po.url))+"&u="+h(po.u);
+}
+function enc(s)
+{
+  return (typeof encodeURIComponent != "undefined") ? encodeURIComponent(s) : escape(s);
+}
+function h(v){return (v!=null&&v!=undefined)?v:"";}
+function pk5(li,p,i) {
+  if(li && li.href) {
+  if (li.wzup) return true;
+  if (!p.u)p.u=li.href;
+  var a=(i)?obj(i):li;
+  if (!p.pt)p.pt=ptxt(a);
+  li.href = _RP5(p);
+  li.wzup = 1;
+  }
+  return true;
+}
+function j_pk5(li, js_func, p,i) {
+  pk5(li, p, i);
+  if (!li.js) {
+  li.href = 'javascript:'+js_func+'(\''+li.href+'\')';
+  li.js = 1;
+  }
+  return true;
+}
+function ptxt(a)
+{
+  var pt="";
+  if (a.innerHTML) {
+  pt=a.innerHTML;
+  pt=pt.replace(/<\/?[^>]+>/ig, "");
+  pt=pt.replace(/&amp;/g, "&");
+  }
+  return pt;
+}
+</script>
 </head>
 <body>
 <script type="text/javascript">
-if( top.frames.length == 0 ) {
-  document.write( "<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><td align=\"left\">" );
-  document.write("<a href=\"/\"><img src=\"/images/blogo225x50.gif\" width=\"225\" height=\"50\" border=\"0\" alt=\"Bloglines\"/></a></td><td valign=\"top\" width=\"100%\">");
-}
+document.write( "<table width=\"100%\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"");
+document.write("><tr><td id=\"logo\" align=\"left\"" );
+if(top.frames.length > 0) document.write(" style=\"display:none\"");
+document.write("><a href=\"/\"><img src=\"/images/blogo225x50.gif\" width=\"225\" height=\"50\" border=\"0\" alt=\"Bloglines\"/></a></td><td valign=\"top\" width=\"100%\">");
 function doSearch()
 {
   var r = document.sform.r.value;
@@ -36,17 +92,17 @@ function doSearch()
   if( r == 2 )
   document.location.href = "/sub/" + q;
   else if( r == 3 )
-  document.location.href = "http://web.ask.com/web?o=10235&q=" + escape(q);
+  document.location.href = "/redir?q=ask-query&t=" + encodeURIComponent(q);
   else
-  document.location.href = "/search?t=1&r=" + r + "&q=" + escape(q);
+  document.location.href = "/search?t=1&r=" + r + "&q=" + encodeURIComponent(q);
 }
-</script><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left"><a href="/"><img src="/images/blogo225x50.gif" width="225" height="50" border="0" alt="Bloglines"></a></td><td valign="top" width="100%">
+</script><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td id="logo" align="left"><a href="/"><img src="/images/blogo225x50.gif" width="225" height="50" border="0" alt="Bloglines"></a></td><td valign="top" width="100%">
 <div class="header-content">
   <div class="logbar">
   <table width="100%" border="0" cellspacing="3" cellpadding="0">
-  <tbody><tr><td align="left">
-Welcome Guest</td><td align="right">
-<a target="_top" href="http://www.ask.com"><img src="/images/lang/default/AJ_Small.gif" border="0"></a> |
+  <tbody><tr><td align="left" id="welcomeBar">
+Welcome Guest</td><td align="right" id="actionBar">
+<a target="_top" href="/redir?q=ask-home&amp;logo=0&amp;s=ac&amp;p=/about/privacy&amp;o=10397"><img src="/redir?q=ask-icon" border="0"></a> |
 <a href="/register" target="_top">Register</a> |
 <a id="out" href="/help/faq">Help</a> |
 <a href="/login" target="_top">Log In</a>
@@ -54,22 +110,23 @@ Welcome Guest</td><td align="right">
   </tbody></table>
   </div>
   <div class="searchbar" align="right">
-  <form name="sform" action="javascript:doSearch()" method="get" style="margin-bottom:0; margin-top:0;">
-  <select name="r">
-  <option value="0">Search All Blogs</option>
-  <option value="1">Search My Subscriptions</option>
-  <option value="3">Search The Web</option>
-  <option value="2">Subscribe To URL</option>
-  </select>
+  <form name="sform" id="sform" action="/search" method="get">
+  <input type="hidden" name="s" value="">
   <input type="text" name="q">
+  <select name="what">
+  <option value="posts">Search for Posts</option>
+  <option value="feeds">Search for Feeds</option>
+  <option value="cite">Search for Citations</option>
+  <option value="web">Search the Web</option>
+  <option value="sub">Subscribe to URL</option>
+  </select>
   <input name="imageField" type="image" src="/images/gobtn.gif" class="goButton">
+  <a id="adv" href="http://www.bloglines.com/advsearch" onmousedown="return ct(this, 51003)">More Options</a>
   </form>
   </div>
 </div>
 <script type="text/javascript">
-if( top.frames.length == 0 ) {
-  document.write( "</td></tr></table>" );
-}
+document.write( "</td></tr></table>" );
 </script></td></tr></tbody></table>
 <div class="tabs">
   <ul>
@@ -82,6 +139,7 @@ if ( top.frames.length == 0 ) {
 </script><li><a href="/myblogs">My&nbsp;Feeds</a></li><li><a href="/myblogs?mode=2">My&nbsp;Blog</a></li><li><a href="/myblogs?mode=1">Clippings</a></li>
   <li><a href="/topblogs">Directory</a></li>
   <li><a href="/help/share">Share</a></li>
+  <li><a href="/search">Search </a></li>
   </ul>
 </div><div class="clear">&nbsp;</div>
 <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
@@ -93,23 +151,7 @@ if ( top.frames.length == 0 ) {
 </p><table width="90%" align="center">
 <tbody><tr><td>
 <h2>Privacy Policy</h2>
-Respecting users' privacy is a key value for Bloglines&nbsp;and it's parent
-company&nbsp;Ask Jeeves, Inc. As of July 19, 2005, Ask Jeeves has become a
-wholly-owned subsidiary of <a href="http://www.iac.com/">IAC/InterActiveCorp</a>
-(NASDAQ: IACI), and thus, IAC now controls Bloglines’ privacy practices.
-<p>
-IAC's brands include some of the best companies on the Internet, and we
-are excited by the additional resources that IAC will be able to provide to
-Bloglines users. IAC has informed us that it does not plan to make any
-immediate changes to Bloglines' privacy practices. This means that the
-<a href="http://www.bloglines.com/about/privacy">Bloglines’ privacy policy</a>
-will continue to remain in place; and IAC will treat users' personal
-information with the same respect, and subject to the same constraints, as
-apply under the current policy. If in the future IAC decides to revise
-Bloglines' privacy practices, those changes will be announced in the manner
-required by the privacy policy. To learn about personal information Bloglines
-collects and how it may be used, please read
-<a href="http://www.bloglines.com/about/privacy">Bloglines’ privacy policy.</a>
+<p>Respecting users' privacy is important to Bloglines. Read this page to learn about personal information that Bloglines collects and how it may be used.
 </p><p>
 If you have any questions please contact
 <a href="http://www.bloglines.com/contact">Bloglines user support</a>.
@@ -213,15 +255,17 @@ practices described in this Privacy Policy.
 <a href="/services/" target="_top">Services</a> |
 <a href="/about/privacy" target="_top">Privacy Policy</a> |
 <a href="/about/tos" target="_top">Terms of Service</a> |
-<a href="http://sp.ask.com/docs/ad/default.htm" target="_top">Advertise Here</a> |
 <a href="/contact" target="_top">Contact Us</a>
  |
 <a href="/about/jobs" target="_top"><font color="#FF0000">We're Hiring!</font></a>
 <br>
-Copyright © 2003-2005 Ask Jeeves, Inc. All rights reserved.
+Copyright © 2006 IAC Search &amp; Media. All rights reserved.
 </div>
-<img src="http://tm.ask.com/i/i.gif?t=i&amp;s=ac&amp;id=43220&amp;sv=&amp;p=/about/privacy&amp;o=10397&amp;ord=432879645">
+<span style="display:none">
+<img src="http://tm.ask.com/i/i.gif?t=i&amp;s=ac&amp;id=43220&amp;sv=&amp;p=/about/privacy&amp;o=10397&amp;ord=106706753">
+  <img src="http://wzus.bloglines.com/i/i.gif?t=v&amp;d=us&amp;s=bl&amp;c=blen&amp;l=dir&amp;o=0&amp;sv=z6f537f59&amp;p=/about/privacy&amp;ord=106706753" height="1" width="1" id="SessionTracker" \="">
+</span>
 
 
-<!-- 0.003:0 -->
+<!-- 0.004:0 -->
 </body></html>
