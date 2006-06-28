@@ -1,275 +1,543 @@
-<!--The following is the downloaded HTML source of the princetonecom.com privacy policy that was archived on 2000-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001202222100id_/http%3A//www.princetonecom.com/ecom/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the princetonecom.com privacy policy that was archived on 2006-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060629010459id_/http%3A//www.princetonecom.com/pecom/privacy.jsp) for the most accurate reproduction.-->
 
-<html><head>
-<title>Princeton eCom | About Us</title>
-<link rel="stylesheet" href="main.css" type="text/css">
-<meta name="keywords" content="EBPP, ecom, electronic, billing, 
-bill, presentment, internet, web, pay, by, phone, lockbox, balance 
-transfer utility, collections, ecollect, payment">
-<meta name="description" content="Princeton eCom offers 
-comprehensive, outsourced solutions for your electronic billing 
-needs.">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="JavaScript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+
+<title>Privacy</title>
+
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="copyright" content="all contents copyright 2005 Princeton eCom, all rights reserved.">
+<meta name="robots" content="all">
+<meta name="description" content="We are committed to protecting the privacy and information of our Web site users. To carry out this commitment, we have adopted this privacy policy to help protect your personal information.">
+
+
+<!-- 
+created - 02.15.05
+author - JK - http://www.temel.com/
+-->
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<script language="JavaScript1.2">
+
+// BULLET ROLLOVERS
+// ADD CLASS="IMGOVER" TO IMAGE SRC TAG
+// EXAMPLE: <img src="images/splash/circle_arrow.gif" width="25" height="25" border="0" alt=""  class="imgover" />
+ 
+function initRollovers() {
+ if (!document.getElementById) return
+ 
+ var aPreLoad = new Array();
+ var sTempSrc;
+ var aImages = document.getElementsByTagName('img');
+ 
+ for (var i = 0; i < aImages.length; i++) {  
+  if (aImages[i].className == 'imgover') {
+   var src = aImages[i].getAttribute('src');
+   var ftype = src.substring(src.lastIndexOf('.'), src.length);
+   var hsrc = src.replace(ftype, '_o'+ftype);
+ 
+   aImages[i].setAttribute('hsrc', hsrc);
+   
+   aPreLoad[i] = new Image();
+   aPreLoad[i].src = hsrc;
+   
+   aImages[i].onmouseover = function() {
+    sTempSrc = this.getAttribute('src');
+    this.setAttribute('src', this.getAttribute('hsrc'));
+   } 
+   
+   aImages[i].onmouseout = function() {
+    if (!sTempSrc) sTempSrc = this.getAttribute('src').replace('_o'+ftype, ftype);
+    this.setAttribute('src', sTempSrc);
+   }
+  }
+ }
+}
+ 
+function Test1(imgname,mtype)
+{
+   Imageobj = document[imgname];
+   var src = Imageobj.src;
+   var ftype = src.substring(src.lastIndexOf('.'), src.length);
+   var hsrc = src.replace(ftype, '_o'+ftype);
+   if (mtype == 1)
+   {
+      Imageobj.src = hsrc; 
+   }
+   else
+   {
+       sTempSrc = src.replace('_o'+ftype, ftype);
+       Imageobj.src = sTempSrc;
+   }
+}
+ 
+
+
+
+// Submit Button Rollover
+ 
 <!--
-<!-- hide this script from non-javascript-enabled browsers
-
-if (document.images) {
-sub_r03_c01_F1 = new Image(87,42); sub_r03_c01_F1.src = "./graphics/subnav/sub_r03_c01.gif";
-sub_r03_c01_F2 = new Image(87,42); sub_r03_c01_F2.src = "./graphics/subnav/sub_r03_c01_F2.gif";
-sub_r03_c04_F1 = new Image(75,42); sub_r03_c04_F1.src = "./graphics/subnav/sub_r03_c04.gif";
-sub_r03_c04_F2 = new Image(75,42); sub_r03_c04_F2.src = "./graphics/subnav/sub_r03_c04_F2.gif";
-sub_r03_c06_F1 = new Image(53,42); sub_r03_c06_F1.src = "./graphics/subnav/sub_r03_c06.gif";
-sub_r03_c06_F2 = new Image(53,42); sub_r03_c06_F2.src = "./graphics/subnav/sub_r03_c06_F2.gif";
-sub_r03_c10_F1 = new Image(54,42); sub_r03_c10_F1.src = "./graphics/subnav/sub_r03_c10.gif";
-sub_r03_c10_F2 = new Image(54,42); sub_r03_c10_F2.src = "./graphics/subnav/sub_r03_c10_F2.gif";
-sub_r03_c12_F1 = new Image(76,42); sub_r03_c12_F1.src = "./graphics/subnav/sub_r03_c12.gif";
-sub_r03_c12_F2 = new Image(76,42); sub_r03_c12_F2.src = "./graphics/subnav/sub_r03_c12_F2.gif";
-sub_r04_c01_F1 = new Image(382,22); sub_r04_c01_F1.src = "./graphics/subnav/sub_r04_c01.gif";
-sub_r04_c01_F2 = new Image(382,22); sub_r04_c01_F2.src = "./graphics/subnav/sub_r04_c01_F2.gif";
-sub_r04_c01_F3 = new Image(382,22); sub_r04_c01_F3.src = "./graphics/subnav/sub_r04_c01_F3.gif";
-sub_r04_c01_F4 = new Image(382,22); sub_r04_c01_F4.src = "./graphics/subnav/sub_r04_c01_F4.gif";
-sub_r04_c01_F5 = new Image(382,22); sub_r04_c01_F5.src = "./graphics/subnav/sub_r04_c01_F5.gif";
-sub_r04_c01_F6 = new Image(382,22); sub_r04_c01_F6.src = "./graphics/subnav/sub_r04_c01_F6.gif";
-sub_overview_F1 = new Image(139,29); sub_overview_F1.src = "./graphics/subnav/sub_overview.gif";
-sub_overview_F2 = new Image(139,29); sub_overview_F2.src = "./graphics/subnav/sub_overview_F2.gif";
-sub_management_F1 = new Image(139,28); sub_management_F1.src = "./graphics/subnav/sub_management.gif";
-sub_management_F2 = new Image(139,28); sub_management_F2.src = "./graphics/subnav/sub_management_F2.gif";
-sub_clients_F1 = new Image(139,27); sub_clients_F1.src = "./graphics/subnav/sub_clients.gif";
-sub_clients_F2 = new Image(139,27); sub_clients_F2.src = "./graphics/subnav/sub_clients_F2.gif";
-sub_partners_F1 = new Image(139,28); sub_partners_F1.src = "./graphics/subnav/sub_partners.gif";
-sub_partners_F2 = new Image(139,28); sub_partners_F2.src = "./graphics/subnav/sub_partners_F2.gif";
-sub_careers_F1 = new Image(139,24); sub_careers_F1.src = "./graphics/subnav/sub_careers.gif";
-sub_careers_F2 = new Image(139,24); sub_careers_F2.src = "./graphics/subnav/sub_careers_F2.gif";
-sub_directions_F1 = new Image(139,25); sub_directions_F1.src = "./graphics/subnav/sub_directions.gif";
-sub_directions_F2 = new Image(139,25); sub_directions_F2.src = "./graphics/subnav/sub_directions_F2.gif";
-sub_r13_c15_F1 = new Image(139,67); sub_r13_c15_F1.src = "./graphics/subnav/sub_r13_c15.gif";
-sub_r13_c15_F2 = new Image(139,67); sub_r13_c15_F2.src = "./graphics/subnav/sub_r13_c15_F2.gif";
-sub_r13_c15_F3 = new Image(139,67); sub_r13_c15_F3.src = "./graphics/subnav/sub_r13_c15_F3.gif";
-sub_r13_c15_F4 = new Image(139,67); sub_r13_c15_F4.src = "./graphics/subnav/sub_r13_c15_F4.gif";
-sub_r13_c15_F5 = new Image(139,67); sub_r13_c15_F5.src = "./graphics/subnav/sub_r13_c15_F5.gif";
-sub_r13_c15_F6 = new Image(139,67); sub_r13_c15_F6.src = "./graphics/subnav/sub_r13_c15_F6.gif";
-sub_r13_c15_F7 = new Image(139,67); sub_r13_c15_F7.src = "./graphics/subnav/sub_r13_c15_F7.gif";
+var submitRolls = new Object();
+function submitroll(src, oversrc, name)
+{
+this.src=src;
+this.oversrc=oversrc;
+this.name=name;
+this.alt="Search";
+this.write=submitroll_write;
+}
+function submitroll_write()
+{
+var thisform = 'document.forms[' + (document.forms.length - 1) + ']';
+submitRolls[this.name] = new Object();
+submitRolls[this.name].over = new Image();
+submitRolls[this.name].over.src = this.oversrc;
+submitRolls[this.name].out = new Image();
+submitRolls[this.name].out.src = this.src;
+document.write
+ (
+ '<A onMouseOver="if (document.images)document.images[\'' + this.name + "'].src=submitRolls['" + this.name + '\'].over.src"' + 
+ ' onMouseOut="if (document.images)document.images[\'' + this.name + "'].src=submitRolls['" + this.name + '\'].out.src"' + 
+ ' HREF="javascript:'
+ );
+if (this.sendfield)
+ {
+ if (! this.sendvalue)
+ this.sendvalue = 1;
+ document.write(thisform, ".elements['", this.sendfield, "'].value='", this.sendvalue, "';");
+ }
+document.write(thisform + '.submit();void(0);"');
+if (this.msg)document.write(' onClick="return confirm(\'' , this.msg, '\')"');
+document.write('>');
+document.write('<IMG SRC="' + this.src + '" ALT="' + this.alt + '" BORDER=0 NAME="' + this.name + '"');
+if (this.height)document.write(' HEIGHT=' + this.height);
+if (this.width)document.write(' WIDTH=' + this.width);
+if (this.otheratts)document.write(' ' + this.otheratts);
+document.write('></A>');
+if (this.sendfield)
+ {
+ document.write('<INPUT TYPE=HIDDEN NAME="' + this.sendfield + '">');
+ document.forms[document.forms.length - 1].elements[this.sendfield].value='';
+ }
 }
 
-/* Function that swaps images. */
+// image Preloader
+preloadimages()
 
-function di20(id, newSrc) {
-    var theImage = FWFindImage(document, id, 0);
-    if (theImage) {
-        theImage.src = newSrc;
-    }
+var myimages=new Array()
+function preloadimages(){
+for (i=0;i<preloadimages.arguments.length;i++){
+myimages[i]=new Image()
+myimages[i].src=preloadimages.arguments[i]
+}
+}
+preloadimages("/images/arrow_org.gif");
+
+
+// FORM BUTTON ROLLOVER
+function cssActive( buttonname)
+{
+  document.getElementsByName(buttonname)[0].style.backgroundColor = "#e45111";
 }
 
-/* Functions that track and set toggle group button states. */
-
-function FWFindImage(doc, name, j) {
-    var theImage = false;
-    if (doc.images) {
-        theImage = doc.images[name];
-    }
-    if (theImage) {
-        return theImage;
-    }
-    if (doc.layers) {
-        for (j = 0; j < doc.layers.length; j++) {
-            theImage = FWFindImage(doc.layers[j].document, name, 0);
-            if (theImage) {
-                return (theImage);
-            }
-        }
-    }
-    return (false);
+function cssInactive( buttonname)
+{
+  document.getElementsByName(buttonname)[0].style.backgroundColor = "#999999";
 }
 
-// stop hiding -->
-
-function MM_preloadImages() { //v2.0
-  if (document.images) {
-    var imgFiles = MM_preloadImages.arguments;
-    if (document.preloadArray==null) document.preloadArray = new Array();
-    var i = document.preloadArray.length;
-    with (document) for (var j=0; j<imgFiles.length; j++) if (imgFiles[j].charAt(0)!="#"){
-      preloadArray[i] = new Image;
-      preloadArray[i++].src = imgFiles[j];
-  } }
+// FUNCTION TO OPEN A CONSTRAINED WINDOW
+function openWin(URL) {
+newWindow=window.open(URL,"newwindow","width=380,height=315,status=no,scrollbars=yes,resizable=yes,location=0,menubar=0,toolbar=no");
+newWindow.focus();
 }
 
-function MM_swapImgRestore() { //v2.0
-  if (document.MM_swapImgData != null)
-    for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
-      document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
+function openFaqs(URL) {
+newFaqs=window.open(URL,"newwindow","width=480,height=375,status=no,scrollbars=yes,resizable=yes,location=0,menubar=0,toolbar=no");
+newFaqs.focus();
 }
 
-function MM_swapImage() { //v2.0
-  var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
-  for (i=0; i < (MM_swapImage.arguments.length-2); i+=3) {
-    objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
-    if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
-        (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
-      objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
-    obj = eval(objStr);
-    if (obj != null) {
-      swapArray[j++] = obj;
-      swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
-      obj.src = MM_swapImage.arguments[i+2];
-  } }
-  document.MM_swapImgData = swapArray; //used for restore
+
+//function that drives you to another page from a drop down list
+function urlMenu(that) {
+	theURL = that.options[that.selectedIndex].value; 
+
+	if (theURL) {
+		window.location = theURL;
+	}
 }
+
+
+
 //-->
 </script>
-</head>
-<body bgcolor="#c9c994" topmargin="0" marginheight="0" onload="MM_preloadImages('graphics/subnav/home_F2.gif','#953756492770')">
-<table border="0" cellpadding="0" cellspacing="0" width="600">
-  <tbody><tr> 
-    <td><img src="./graphics/subnav/shim.gif" width="22" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="65" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="6" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="75" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="9" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="48" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="5" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="1" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="9" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="54" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="12" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="76" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="1" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="78" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="35" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="104" height="1" border="0"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="1" height="1" border="0"></td>
-  </tr>
-  <tr> 
-    <td rowspan="2" colspan="6"><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.home','document.home','graphics/subnav/home_F2.gif','#953756492770')"><img name="home" src="graphics/subnav/home.gif" width="225" height="39" border="0" alt="Return to eCom home"></a></td>
-    <td rowspan="2" colspan="9"><img name="sub_r01_c07" src="graphics/subnav/sub_r01_c07.gif" width="271" height="39" border="0"></td>
-    <td rowspan="2"><img name="sub_r01_c16" src="graphics/lineanim.gif" width="104" height="39" border="0" alt="----------"></td>
-    <td><img src="./graphics/subnav/shim.gif" width="1" height="1" border="0"></td>
-  </tr>
-  <tr> 
-    <td><img src="./graphics/subnav/shim.gif" width="1" height="38" border="0"></td>
-  </tr>
-  <tr> 
-    <td colspan="2"><a href="about/./index.html" onmouseout="di20('sub_r03_c01','./graphics/subnav/sub_r03_c01.gif');di20('sub_r04_c01','./graphics/subnav/sub_r04_c01.gif');" onmouseover="di20('sub_r03_c01','./graphics/subnav/sub_r03_c01_F2.gif');di20('sub_r04_c01','./graphics/subnav/sub_r04_c01_F2.gif');"><img name="sub_r03_c01" src="graphics/subnav/sub_r03_c01.gif" width="87" height="42" border="0" alt="About Us"></a></td>
-    <td><img name="sub_r03_c03" src="graphics/subnav/sub_r03_c03.gif" width="6" height="42" border="0" alt="---"></td>
-    <td><a href="solutions/index.html" onmouseout="di20('sub_r03_c04','./graphics/subnav/sub_r03_c04.gif');di20('sub_r04_c01','./graphics/subnav/sub_r04_c01.gif');" onmouseover="di20('sub_r03_c04','./graphics/subnav/sub_r03_c04_F2.gif');di20('sub_r04_c01','./graphics/subnav/sub_r04_c01_F3.gif');"><img name="sub_r03_c04" src="graphics/subnav/sub_r03_c04.gif" width="75" height="42" border="0" alt="Solutions"></a></td>
-    <td><img name="sub_r03_c05" src="graphics/subnav/sub_r03_c05.gif" width="9" height="42" border="0"></td>
-    <td colspan="2"><a href="news/index.html" onmouseout="di20('sub_r03_c06','./graphics/subnav/sub_r03_c06.gif');di20('sub_r04_c01','./graphics/subnav/sub_r04_c01.gif');" onmouseover="di20('sub_r03_c06','./graphics/subnav/sub_r03_c06_F2.gif');di20('sub_r04_c01','./graphics/subnav/sub_r04_c01_F4.gif');"><img name="sub_r03_c06" src="graphics/subnav/sub_r03_c06.gif" width="53" height="42" border="0" alt="News"></a></td>
-    <td colspan="2"><img name="sub_r03_c08" src="graphics/subnav/sub_r03_c08.gif" width="10" height="42" border="0" alt="---"></td>
-    <td><a href="demo/index.html" onmouseout="di20('sub_r03_c10','./graphics/subnav/sub_r03_c10.gif');di20('sub_r04_c01','./graphics/subnav/sub_r04_c01.gif');" onmouseover="di20('sub_r03_c10','./graphics/subnav/sub_r03_c10_F2.gif');di20('sub_r04_c01','./graphics/subnav/sub_r04_c01_F5.gif');"><img name="sub_r03_c10" src="graphics/subnav/sub_r03_c10.gif" width="54" height="42" border="0" alt="Demo"></a></td>
-    <td><img name="sub_r03_c11" src="graphics/subnav/sub_r03_c11.gif" width="12" height="42" border="0" alt="---"></td>
-    <td><a href="contact/index.html" onmouseout="di20('sub_r03_c12','./graphics/subnav/sub_r03_c12.gif');di20('sub_r04_c01','./graphics/subnav/sub_r04_c01.gif');" onmouseover="di20('sub_r03_c12','./graphics/subnav/sub_r03_c12_F2.gif');di20('sub_r04_c01','./graphics/subnav/sub_r04_c01_F6.gif');"><img name="sub_r03_c12" src="graphics/subnav/sub_r03_c12.gif" width="76" height="42" border="0" alt="Contact Us"></a></td>
-    <td><img name="sub_r03_c13" src="graphics/subnav/sub_r03_c13.gif" width="1" height="42" border="0"></td>
-    <td colspan="3" bgcolor="#FF8000">&nbsp;</td>
-    <td><img src="./graphics/subnav/shim.gif" width="1" height="42" border="0"></td>
-  </tr>
-  <tr> 
-    <td colspan="12"><img name="sub_r04_c01" src="graphics/subnav/sub_r04_c01.gif" width="382" height="22" border="0"></td>
-    <td colspan="4">&nbsp;</td>
-    <td><img src="./graphics/subnav/shim.gif" width="1" height="22" border="0"></td>
-  </tr>
-  <tr> 
-    <td rowspan="2"><img name="sub_r06_c01" src="graphics/subnav/sub_r06_c01.gif" width="22" height="269" border="0"></td>
-    <td colspan="15" align="left" valign="top" height="1197"> 
-      <h1><br>
-        Privacy Statement </h1>
-      <p>We are committed to protecting the privacy and information of our Web 
-        site users. On account of this commitment, we have instituted this privacy 
-        policy to help protect your personal information. The purpose of this 
-        privacy policy is to inform you of what information is collected, how 
-        such information is used, and other related matters. </p>
-      <p>COLLECTION OF INFORMATION <br>
-        Our Web server automatically recognizes the Internet address (and specific 
-        domain) from which you are accessing our Web site. When you visit our 
-        site, we collect general information that does not identify you specifically 
-        but informs us of the pages visited, the areas of the Web site where you 
-        have spent the most time, and other Web sites you linked to while visiting 
-        our Web site. The above list is meant to be illustrative and not exclusive. 
-        This general information is only used in the aggregate so we can improve 
-        our services to you and other Web site users. </p>
-      <p>On certain Web pages, we will ask you when we need information that personally 
-        identifies you ("Personal Information") or allows us to contact you. If 
-        you choose not to register or provide Personal Information, you can still 
-        use most of our Web site but you will not be able to access areas that 
-        require registration.</p>
-      <p>HOW THE INFORMATION IS USED <br>
-        We use the information collected in various manners, including but not 
-        limited to responding to any queries regarding our services, emailing 
-        you with updates to our services, and providing more efficient services 
-        as further described. If you wish not to receive any email from us detailing 
-        our services or updates thereto, please notify us. We take all the collected 
-        general information, compile and analyze all the data, and modify our 
-        Web site so it better serves our users' needs. As an example, if we find 
-        that the majority of our users tend to go to a certain portion of our 
-        Web site, we will move such portion of the Web site closer to the home 
-        page or create a link directly to that portion of the Web site. This type 
-        of modification to the Web site will make your visit more efficient. </p>
-      <p>TRACKING <br>
-        We use cookies to help improve our services to you. A cookie is a small 
-        amount of data that is sent to your browser and stored on your computer's 
-        hard drive. Among other things, the cookie will help keep track of information 
-        you gave us so you will not have to reenter it each time you enter our 
-        Web site. </p>
-      <p>SECURITY <br>
-        We use certain standard efforts to authenticate users of our Web site; 
-        however; our authentication relies upon the degree to which user ID's 
-        and passwords are adequately protected. We do not guarantee the absolute 
-        security of our Web site due to the nature of the Internet. </p>
-      <p>SUBMITTED INFORMATION <br>
-        If a user of our Web site sends us any message or communication, such 
-        message or communication will be become our property and will not be returned. 
-        We shall have the right to use, reproduce, modify, adapt, publish, translate, 
-        distribute, and display such messages or communications, including the 
-        sender's name. </p>
-      <p>THIRD PARTY LINKS <br>
-        Our Web site permits you to link to third party Web sites. We not endorse 
-        any information posted on such third party Web sites nor the reliability 
-        or authenticity of any such posted information. We do not have any relationship 
-        with such third party Web sites other than permitting you to directly 
-        link to them for your convenience. Such third party Web sites may be governed 
-        by their own rules and regulations and we advise that you read and adhere 
-        to such rules and regulations when visiting such third party Web sites. 
-        We will have no liability whatsoever for any of your actions on such third 
-        party Web sites nor will we be liable for any information or data downloaded 
-        by you or any transaction entered into by you while visiting such third 
-        party Web sites. </p>
-      <p>GOVERNING LAW <br>
-        This privacy policy shall be governed by the laws of the State of New 
-        Jersey without regard to conflicts of law provisions. You agree to submit 
-        to the exclusive jurisdiction of the state and federal courts of the State 
-        of New Jersey. </p>
-      <p>MODIFICATIONS <br>
-        We encourage you to review this privacy from time to time, as it may be 
-        amended or updated by us at any time. If you have any questions about 
-        this policy or any amendments or updates, contact us at: </p>
-      <p>Princeton eCom Corporation <br>
-        650 College Road East <br>
-        Princeton, NJ 08540-6624 <br>
-        Phone: 1-800-PAYBILL <br>
-        Fax: (609) 606-3294 <br>
-        Email: <a href="mailto:marketing@princetonecom.com">marketing@princetonecom.com</a> 
-      </p>
-      </td>
-    <td height="1197"><img src="./graphics/subnav/shim.gif" width="1" height="40" border="0"></td>
-  </tr>
-  <tr> 
-    <td colspan="15"> 
-      <div align="center"> 
-        <hr>
-        <a href="index.html"> </a> 
-        <p><a href="index.html">Home </a>| <a href="about">About Us</a> | <a href="solutions">Solutions</a> 
-          | <a href="news">News</a> | <a href="demo">Demo</a> | <a href="contact">Contact 
-          Us</a> <br>
-        </p>
-        <h5>© Copyright 2000 Princeton eCom Corporation. All Rights Reserved<br>
-          <a href="privacy.html">Privacy Statement</a></h5>
-      </div>
-    </td>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table>
 
+
+</head>
+<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" class="page" onload="initRollovers()">
+
+<!-- TOP NAV -->
+<script language="JavaScript" '=""> 
+function validate() {
+if (document.searchForm.q.value.length < 1) {
+alert("Please enter a search text.");
+return false;
+}
+return true;
+}
+</script> 
+
+<table border="0" cellspacing="0" cellpadding="0" width="775">
+<tbody><tr>
+<td width="15" valign="top">
+<img src="/pecom/images/blank_pixel.gif" width="15" height="1" alt=""><br>
+</td>
+<td width="175" valign="top">
+
+<a href="/pecom/index.jsp"><img src="/pecom/images/topnav/ecom_logo.gif" width="175" height="86" border="0" alt="Princeton eCom - the smartest way to move money™"></a><br>
+
+</td>
+<td width="30" valign="top">
+<img src="/pecom/images/blank_pixel.gif" width="30" height="1" alt=""><br>
+</td>
+<td width="555" valign="top">
+<img src="/pecom/images/blank_pixel.gif" width="1" height="14" alt=""><br>
+
+	<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#D0CCC3">
+	<tbody><tr>
+	<td width="14" valign="top" bgcolor="#FFFFFF">
+	<img src="/pecom/images/blank_pixel.gif" width="14" height="1" alt=""><br>
+	</td>
+	<td width="5" valign="top">
+	<img src="/pecom/images/topnav/tab_search_left.gif" width="5" height="34" alt=""><br>
+	</td>
+	<td width="9" valign="top">
+	<img src="/pecom/images/blank_pixel.gif" width="9" height="1" alt=""><br>
+	</td>
+	<td width="100%" valign="middle" class="topnav">
+	» <a href="/pecom/about/news_events.jsp" class="topnav">News &amp; Events</a>&nbsp;&nbsp;&nbsp;&nbsp;» <a href="/pecom/careers/index.jsp" class="topnav">Careers</a>&nbsp;&nbsp;&nbsp;&nbsp;» <a href="/pecom/about/support.jsp" class="topnav">Client Support</a><br>
+	</td>
+	<td width="49" valign="top">
+	<img src="/pecom/images/topnav/search.gif" width="49" height="34" alt="Search"><br>
+	</td><form name="searchForm" action="/pecom/search.jsp" method="GET" onsubmit="return validate();"></form>
+	<td width="139" valign="middle">
+	<input name="q" size="15" maxlength="60" class="form" style="background-color: #F4EFE5">
+	</td>
+	<td width="38" valign="top">
+	<input type="image" src="/pecom/images/topnav/btn_go.gif" alt="Click to Search" value="submit"><br>
+	</td>
+	<td width="23" valign="top">
+	<img src="/pecom/images/blank_pixel.gif" width="23" height="1" alt=""><br>
+	</td>
+	</tr>
+	</tbody></table>
+	
+	<table border="0" cellspacing="0" cellpadding="0" width="555">
+	<tbody><tr>
+	<td width="64" valign="top">
+	
+	<a href="/pecom/index.jsp"><img src="/pecom/images/topnav/home.gif" width="64" height="38" alt="Home" border="0" class="imgover" hsrc="/pecom/images/topnav/home_o.gif"></a><br>
+	
+	</td>
+	<td width="1" valign="top">
+	<img src="/pecom/images/topnav/pipe.gif" width="1" height="38" alt=""><br>
+	</td>
+	<td width="86" valign="top">
+	
+	<a href="/pecom/about/index.jsp"><img src="/pecom/images/topnav/about.gif" width="86" height="38" alt="About Us" border="0" class="imgover" hsrc="/pecom/images/topnav/about_o.gif"></a><br>
+	
+	</td>
+	<td width="1" valign="top">
+	<img src="/pecom/images/topnav/pipe.gif" width="1" height="38" alt=""><br>
+	</td>
+	<td width="159" valign="top">
+	
+	<a href="/pecom/solutions/index.jsp"><img src="/pecom/images/topnav/solutions.gif" width="159" height="38" alt="Solutions &amp; Services" border="0" class="imgover" hsrc="/pecom/images/topnav/solutions_o.gif"></a><br>
+	
+	</td>
+	<td width="1" valign="top">
+	<img src="/pecom/images/topnav/pipe.gif" width="1" height="38" alt=""><br>
+	</td>
+	<td width="144" valign="top">
+	
+	<a href="/pecom/knowledge/index.jsp"><img src="/pecom/images/topnav/knowledge.gif" width="144" height="38" alt="Knowledge Center" border="0" class="imgover" hsrc="/pecom/images/topnav/knowledge_o.gif"></a><br>
+	
+	</td>	
+	<td width="1" valign="top">
+	<img src="/pecom/images/topnav/pipe.gif" width="1" height="38" alt=""><br>
+	</td>
+	<td width="98" valign="top">
+	
+	<a href="/pecom/contact/index.jsp"><img src="/pecom/images/topnav/contact.gif" width="98" height="38" alt="Contact Us" border="0" class="imgover" hsrc="/pecom/images/topnav/contact_o.gif"></a><br>
+	
+	</td>
+	</tr>
+	</tbody></table>	
+	
+</td>
+</tr>
+</tbody></table>
+<!-- / TOP NAV -->
+
+<!-- SIDE NAV & MAIN CONTENT -->
+<table border="0" cellspacing="0" cellpadding="0" width="775">
+<tbody><tr>
+<td width="167" valign="top" background="images/includes/side_rule.gif">
+
+<!-- SIDE NAV -->
+
+
+	
+	<img src="/pecom/images/leftnav/blnk_top.gif" width="167" height="24" alt=""><br>
+	<img src="/pecom/images/leftnav/blnk_bot.gif" width="167" height="23" alt=""><br>	
+		
+
+	
+
+<!-- / SIDE NAV -->
+
+</td>
+<td width="1" valign="top">
+<img src="images/blank_pixel.gif" width="1" height="32" alt="" border="0"><br>
+</td>
+<td valign="top" width="607">
+
+	<!-- header -->
+	<table border="0" cellspacing="0" cellpadding="0" width="607">
+	
+	<tbody><tr>
+	<td width="447" valign="top" colspan="3" bgcolor="#A2A76B">
+	<!-- Section Header -->
+	<img src="images/header/secthdr_privacy.gif" width="99" height="23" alt="Privacy"><br>
+	<!-- /Section Header -->
+	</td>
+	<td width="160" rowspan="3" valign="middle" align="center" bgcolor="#A2A76B" class="quote">
+	<!-- Quote -->
+	&nbsp;<br>
+	<!-- /Quote -->
+	</td>
+	</tr>
+	
+	<tr>
+	<td valign="top" colspan="3" align="right">
+	<!-- Section Image -->
+	<img src="images/header/brdcrmb_tr_pixel_generic.gif" width="9" height="1" alt=""><br>
+	<!-- /Section Image -->
+	</td>
+	</tr>
+	
+	<tr bgcolor="#CFD2B4">
+	<td valign="top">
+	<img src="images/header/brdcrmb_tl_generic.gif" width="17" height="19" alt=""><br>
+	</td>
+	<td valign="top" class="brdcrmb">
+	<img src="images/blank_pixel.gif" width="1" height="4" alt="" border="0"><br>
+	<!-- Breadcrumb -->
+	<a href="index.jsp" class="brdcrmb">Home</a> » Privacy<br>
+	<!-- /Breadcrumb -->
+	</td>
+	<td valign="top">
+	<img src="images/header/brdcrmb_tr_generic2.gif" width="6" height="19" alt=""><br>
+	</td>
+	</tr>
+	
+	<tr>
+	<td valign="top" bgcolor="#CFD2B4">
+	<img src="images/header/brdcrmb_bl_generic.gif" width="17" height="4" alt=""><br>
+	</td>
+	<td bgcolor="#CFD2B4">
+	<img src="images/blank_pixel.gif" width="424" height="1" alt="" border="0"><br>
+	</td>
+	<td valign="top" bgcolor="#CFD2B4">
+	<img src="images/header/brdcrmb_br_generic.gif" width="6" height="4" alt=""><br>
+	</td>
+	<td valign="top" bgcolor="#A2A76B">
+	<img src="images/header/quot_bl_generic.gif" width="10" height="4" alt=""><br>
+	</td>
+	</tr>
+	
+	</tbody></table>
+	<!-- /header -->
+	
+	<br>
+
+	<table border="0" cellspacing="0" cellpadding="0" width="607">
+	<tbody><tr>
+	<td width="446" valign="top">
+	
+		<!-- Pageheader -->
+		<table border="0" cellspacing="0" cellpadding="0" width="100%">
+		<tbody><tr>
+		<td width="18" valign="top">
+		<img src="images/blank_pixel.gif" width="18" height="1" alt=""><br>
+		</td>
+		<td width="100%" valign="middle" class="brdcrmb">
+		<img src="images/pgheaders/Privacy.gif" alt="Privacy Statement"><br>
+		</td>
+		</tr>
+		</tbody></table>		
+		<!-- / Pageheader -->
+	
+		<br>
+		
+		<!-- Content -->
+		<table border="0" cellspacing="0" cellpadding="0" width="100%">
+		<tbody><tr>
+		<td width="18" valign="top">
+		<img src="images/blank_pixel.gif" width="18" height="1" alt=""><br>
+		</td>
+		<td width="100%" valign="top" class="copy">
+		
+		<span class="lh14">We are committed to protecting the privacy and information of our Web site users. To carry out this commitment, we have adopted this privacy policy to help protect your personal information. The purpose of this privacy policy is to inform you of what information this Web site collects, how such information is used, and other related matters.<br><br> 
+		
+		<strong>Collection of Information</strong><br> 
+		Our Web server automatically recognizes the Internet address (and specific domain) from which you are accessing our Web site. When you visit our site, we collect general information that does not identify you specifically but informs us of the pages visited, the areas of the Web site where you have spent the most time, and other Web sites you linked to while visiting our Web site. The above list is meant to be illustrative and not exclusive. This general information is only used in the aggregate so we can improve our services to you and other Web site users.<br><br> 
+		
+		On certain Web pages, we will ask you when we need information that personally identifies you ("Personal Information") or allows us to contact you. If you choose not to register or provide Personal Information, you can still use most of our Web site but you will not be able to access areas that require registration.<br><br>
+		
+		<strong>How the Information is used</strong><br> 
+		We will protect the confidentiality of any personal information you share with us. We will not sell or share your personal identifiable information with any third party except as required by law. In addition, in the event our business or assets are sold or acquired, the information you provided may become the property of the new owner.<br><br>
+		
+		We use the information collected in various ways, including but not limited to responding to any queries regarding our services, emailing you with updates to our services, and providing more efficient services as further described. If you wish not to receive email from us detailing our services or updates, please notify us. We take all the collected general information, compile and analyze all the data, and modify our Web site so it better serves our users' needs. As an example, if we find that the majority of our users tend to go to a certain portion of our Web site, we will move such portion of the Web site closer to the home page or create a link directly to that portion of the Web site. This type of modification to the Web site will make your visit more efficient.<br><br> 
+		
+		<strong>Tracking</strong><br> 
+		We use cookies to help improve our services to you. A cookie is a small amount of data that is sent to your browser and stored on your computer's hard drive. Among other things, the cookie will help keep track of information you gave us so you will not have to reenter it each time you enter our Web site.<br><br> 
+		
+		<strong>Security</strong><br> 
+		We use certain standard efforts to authenticate users of our Web site; however; our authentication relies upon the degree to which user ID's and passwords are adequately protected. We do not guarantee the absolute security of our Web site due to the nature of the Internet.<br><br> 
+		
+		<strong>Submitted Information</strong><br> 
+		If a user of our Web site sends us any message or communication, such message or communication will become our property and will not be returned. We shall have the right to use, reproduce, modify, adapt, publish, translate, distribute, and display such messages or communications, including the sender's name.<br><br>
+		
+		<strong>Third Party Links</strong><br> 
+		Our Web site permits you to link to third party Web sites. We do not endorse any information posted on such third party Web sites nor the reliability or authenticity of any such posted information. We do not have any relationship with such third party Web sites other than permitting you to directly link to them for your convenience. Such third party Web sites may be governed by their own rules and regulations and we advise that you read and adhere to such rules and regulations when visiting such third party Web sites. We will have no liability whatsoever for any of your actions on such third party Web sites nor will we be liable for any information or data downloaded by you or any transaction entered into by you while visiting such third party Web sites.<br><br> 
+		
+		<strong>Governing Law</strong><br> 
+		This privacy policy shall be governed by the laws of the State of New Jersey without regard to conflicts of law provisions. You agree to submit to the exclusive jurisdiction of the state and federal courts of the State of New Jersey in any disputes concerning this Web site or any information you have provided.<br><br> 
+		
+		<strong>Modifications</strong><br>
+		We encourage you to review this privacy from time to time, as it may be amended or updated by us at any time. If you have any questions about this policy or any amendments or updates, contact us at:<br> 
+		Princeton eCom Corporation<br> 
+		650 College Road East<br> 
+		Princeton, NJ 08540-6624<br> 
+		Phone: (609) 606-3000<br>
+		Fax: (609) 606-3297<br> 
+		Email: <a href="mailto:legal@princetonecom.com" class="copylink">legal@princetonecom.com</a><br><br>
+		
+		<strong>Copyright Notices</strong><br> 
+		The works of authorship contained in this World Wide Website, including but not limited to all design, text, sound recordings and images ("Site Content"), are owned, except as otherwise expressly stated by Princeton eCom Corporation. Except as otherwise expressly stated herein, Site Content may not be copied, transmitted, displayed, performed, distributed (for compensation or otherwise), licensed, altered, framed, stored for subsequent use or otherwise used in whole or in part in any manner without Princeton eCom's prior written consent, except to the extent permitted by the Copyright Act of 1976 (17 U.S.C. § 107), as amended, and then, only with notices of Princeton eCom's proprietary rights.<br><br> 
+		
+		<strong>Trademark Notices</strong><br>
+		Princeton eCom and [sm] symbol identified in this site are service marks of Princeton eCom Corporation. All other featured products or services in this sites are the trademarks of their respective owners.</span>
+		<br><br>
+		
+		</td>
+		<td width="10" valign="top">
+		<img src="images/blank_pixel.gif" width="10" height="1" alt=""><br>
+		</td>
+		</tr>
+		</tbody></table>
+		<!--/content -->
+	
+	</td>
+	<td width="1" valign="top">
+	<img src="images/blank_pixel.gif" width="1" height="32" alt="" border="0"><br>
+	</td>
+	<td width="160" valign="top">
+	&nbsp;
+	</td>
+	</tr>
+	</tbody></table>
+	
+	<br>	
+	
+</td>
+</tr>
+</tbody></table>
+<!-- / SIDE NAV & MAIN CONTENT -->
+
+<img src="images/wht_pixel.gif" width="775" height="1" alt=""><br>
+<!-- BOT NAV -->
+<img src="/pecom/images/bot_rule.gif" width="775" height="3" alt=""><br>
+
+<table border="0" cellspacing="0" cellpadding="0" width="775">
+
+<tbody><tr>
+<td colspan="3" valign="top">
+<img src="/pecom/images/blank_pixel.gif" width="1" height="4" alt=""><br>
+</td>
+</tr>
+
+<tr>
+<td width="10" valign="top">
+<img src="/pecom/images/blank_pixel.gif" width="1" height="16" alt=""><br>
+</td>
+<td width="755" valign="middle" align="center" class="botnavpipe">
+
+<a href="/pecom/index.jsp" class="botnav">Home</a>
+&nbsp;|&nbsp;
+<a href="/pecom/about/index.jsp" class="botnav">About Us</a>
+&nbsp;|&nbsp;
+<a href="/pecom/solutions/index.jsp" class="botnav">Solutions &amp; Services</a>
+&nbsp;|&nbsp;
+<a href="/pecom/knowledge/index.jsp" class="botnav">Knowledge Center</a>
+&nbsp;|&nbsp;
+<a href="/pecom/contact/index.jsp" class="botnav">Contact Us</a>
+&nbsp;|&nbsp;
+<a href="/pecom/about/news_events.jsp" class="botnav">News &amp; Events</a>
+&nbsp;|&nbsp;
+<a href="/pecom/careers/index.jsp" class="botnav">Careers</a>
+&nbsp;|&nbsp;
+<a href="/pecom/about/support.jsp" class="botnav">Client Support</a>
+<br>
+</td>
+<td width="10" valign="top">
+<img src="/pecom/images/blank_pixel.gif" width="10" height="1" alt=""><br>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<img src="/pecom/images/blank_pixel.gif" width="1" height="16" alt=""><br>
+</td>
+<td valign="middle" align="center" class="botnavpipe">
+
+<span class="botnavoff">Privacy</span>
+&nbsp;|&nbsp;
+<a href="/pecom/legal.jsp" class="botnav">Legal</a>
+&nbsp;|&nbsp;
+<a href="/pecom/site_index.jsp" class="botnav">Site Index</a>
+
+&nbsp;&nbsp;&nbsp;
+<span class="botnavcopy">© Copyright 2005 Princeton eCom Corporation. All Rights Reserved.</span> <br>
+v.1.4
+</td>
+<td valign="top">
+<img src="/pecom/images/blank_pixel.gif" width="10" height="1" alt=""><br>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+<img src="/pecom/images/blank_pixel.gif" width="1" height="16" alt=""><br>
+</td>
+<td valign="middle" align="center" class="botnavpipe">
+
+</td>
+<td valign="top">
+<img src="/pecom/images/blank_pixel.gif" width="10" height="1" alt=""><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" valign="top">
+<img src="/pecom/images/blank_pixel.gif" width="1" height="4" alt=""><br>
+</td>
+</tr>
+
+</tbody></table>
+<!-- / BOT NAV -->
 
 
 
