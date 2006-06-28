@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214094140id_/http%3A//www.brent.gov.uk/www.nsf/24878f4b00d4f0f68025663c006c7944/d4eaf114ee6bb2fe80256bac003991c7%21OpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629004307id_/http%3A//www.brent.gov.uk/www.nsf/24878f4b00d4f0f68025663c006c7944/d4eaf114ee6bb2fe80256bac003991c7%21OpenDocument) for the most accurate reproduction.*
 
 # Privacy statement of the London Borough of Brent
 
-  
 **Information about our Organisation and Website** ****
 
 Our privacy policy covers The London Borough of Brent and its website. Should you have any queries about the site, you can contact us by writing to The Web Manager at The London Borough of Brent, Town Hall, Forty Lane, Wembley, Middlesex, United Kingdom, HA9 9HD, or by email at [_cit@brent.gov.uk_](mailto:cit@brent.gov.uk)
 
-**Accessing Brent's Website** ****
+**Accessing Brent’s Website** ****
 
 You can access our website home page and browse our site without disclosing your personal data, obtaining information about Brent Council services and activities. Our website enables you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect information about you.
 
