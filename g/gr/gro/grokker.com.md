@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grokker.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212141732id_/http%3A//www.groxis.com/service/grokker/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grokker.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628020612id_/http%3A//www.groxis.com/service/grokker/privacy.html) for the most accurate reproduction.*
 
 # Grokker's Privacy Promise
 
@@ -16,13 +16,13 @@ We receive and store certain types of information from your browser whenever you
 
 Our website automatically collects usage information, such as the numbers and frequency of visitors to our site and its components. Groxis only uses this data in aggregate form, and not in a manner that would identify you personally. This type of aggregate data tells us how often customers use parts of our website so that we can make improvements accordingly. We may provide such aggregate information to our partners about how our customers, collectively, use our site and their services so that they, too, may provide you with an optimal online experience. 
 
-email Communications  
+Email Communications  
 We often receive a confirmation when you open an email from Groxis if your computer supports this type of program. Groxis uses this confirmation to help us make emails more interesting and helpful. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. 
 
 What About Cookies?  
 Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. Groxis cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to identify you, your screen name or your email address. 
 
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you fully to take advantage of our websiteÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s features, some of which will not be available if cookies are declined. 
+Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you fully to take advantage of our websiteÃ¢â‚¬â„¢s features, some of which will not be available if cookies are declined. 
 
 Will Groxis Share Personal Information It Receives?  
 We neither rent nor sell your Personal Information to anyone. We share your Personal Information only with the subsidiaries that are under control of Groxis and as described below. 
