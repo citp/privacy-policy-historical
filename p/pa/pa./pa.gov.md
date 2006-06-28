@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pa.gov privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218150738id_/http%3A//www.state.pa.us/papower/cwp/view.asp%3Fa%3D3%26q%3D414879) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pa.gov privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628185814id_/http%3A//www.state.pa.us/papower/cwp/view.asp%3Fa%3D3%26q%3D414879) for the most accurate reproduction.*
 
 # PAPower: Pennsylvania PowerPort Privacy Policy
 
@@ -52,9 +52,7 @@ As a general rule, the Commonwealth does not disclose any personally identifiabl
 **Access**  
 Any personally identifiable information you enter in a user profile will be open and accessible to you for review and modification. If you have any questions or comments about the information presented in this Privacy Policy, you can contact the Commonwealth Office of Administration/Office for Information Technology as follows:
 
-> By Fax: 717-787-4523  
-> By Mail: 209 Finance Building, Harrisburg, PA 17120  
-> By Email: ra-technology@state.pa.us
+By Email: ra-oaitb@state.pa.us
 
 **Choice**  
 You may decline participation in any activity that asks for information (i.e., surveys or emails). Your choice to not participate will have no effect on your ability to access information on the Commonwealth’s web sites. 
@@ -77,4 +75,4 @@ Cookies created on your computer by using our web sites do not contain personall
 **Information Disclaimer  
 ** Information provided on the Commonwealth’s web sites is intended to allow the public immediate access to public information.  While all attempts are made to provide accurate, current and reliable information we recognize the possibility of human and/or mechanical error.  Therefore, the Commonwealth of Pennsylvania, its employees, officers and agencies expressly deny any warranty of the accuracy, reliability or timeliness of any information published by this system and shall not be held liable for any losses caused by reliance upon the accuracy, reliability or timeliness of such information.  Any person who relies upon such information obtained from this system does so at his or her own risk.  
 
-Content Last Modified on 1/16/2004 2:18:08 PM
+Content Last Modified on 2/27/2006 2:15:13 PM
