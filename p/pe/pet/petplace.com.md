@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petplace.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221155449id_/http%3A//www.petplace.com/Corporate/corpSiteTextHandler.asp%3Fcode%3DPrivacy%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petplace.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629005141id_/http%3A//www.petplace.com/privacy-Statement.aspx) for the most accurate reproduction.*
 
-# PetPlace.com - Corporate
+# Pet Cats - Pet Turtles - Pet Rabbits
 
 At Intelligent Content Corp., the creators of PetPlace.com, we are committed to protecting the privacy of the users of our site and the security of the information they provide to us.
 
