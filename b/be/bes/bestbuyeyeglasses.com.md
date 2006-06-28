@@ -1,113 +1,65 @@
-> *The following text is extracted and transformed from the bestbuyeyeglasses.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210053859id_/http%3A//www.bestbuyeyeglasses.com/Usersite/static_Info/Privacy_stat1.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbuyeyeglasses.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628170150id_/http%3A//www.bestbuyeyeglasses.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# custom eyeglasses, eye glasses,frames,sunglasses,frames,contact lenses
+# BestBuyEyeglasses.com - Privacy Policy
 
-**_BESTBUYEYEGLASSES.COM PRIVACY POLICY_ ******  
----  
   
-This privacy statement is for www.bestbuyeyeglasses.com disclosing its privacy practices. We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us. If you believe that BestBuyEyeglasses.com is not abiding by our posted privacy policy, please [contact us](https://web.archive.org/web/20051210053859id_/http%3A//www.bestbuyeyeglasses.com/Usersite/static_Info/contact.php).   
+
+
+###### Last updated: December 13, 2003
+
+BestBuyEyeglasses.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting BestBuyEyeglasses.com, you are accepting the practices described in this Privacy Policy. 
+
+######  What Personal Information About Customers Does BestBuyEyeglasses.com Gather? 
+
+The information we learn from customers helps us personalize and continually improve your shopping experience at BestBuyEyeglasses.com. Here are the types of information we gather. 
+
+Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our store, and communicating with you. 
+
+Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses BestBuyEyeglasses.com. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at BestBuyEyeglasses.com if we cannot recognize you, we want you to be aware that these tools exist. 
+
+E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from BestBuyEyeglasses.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. Information from Other Sources: We might receive information about you from other sources and add it to our account information. 
+
+What About Cookies? Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits. 
+
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of BestBuyEyeglasses.com's coolest features, and we recommend that you leave them turned on. 
+
+######  Does BestBuyEyeglasses.com Share the Information It Receives? 
+
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. At BestBuyEyeglasses.com we DO NOT share customer information with any third parties. The way we use your information is specified below. 
+
+Agents: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+
+Promotional Offers: Sometimes we send offers to selected groups of BestBuyEyeglasses.com customers on behalf of other businesses. When we do this, we DO NOT give that business your name and address. 
+
+Business Transfers: As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that BestBuyEyeglasses.com or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+
+Protection of BestBuyEyeglasses.com and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of BestBuyEyeglasses.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this DOES NOT include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy. 
+
+With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+
+######  How Secure Is Information About Me? 
+
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
+
+We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. It is important for you to protect against unauthorized access to your account and to your computer. Be sure to sign off when finished using a shared computer. 
+
+######  What Choices Do I Have? 
+
+As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of BestBuyEyeglasses.com features. 
+
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use such important features if you do not use cookies. 
+
+In addition, the Federal Trade Commission provides useful information about online privacy on its own Web site, Site Seeing on the Internet. <http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm>
+
+######  Children 
+
+BestBuyEyeglasses.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use BestBuyEyeglasses.com only with the involvement of a parent or guardian. 
+
+######  Conditions of Use, Notices, and Revisions 
+
+If you choose to visit BestBuyEyeglasses.com, your visit and any dispute over privacy is subject to this Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of New York. If you have any concern about privacy at BestBuyEyeglasses.com, please send us a thorough description to [service@bestbuyeyeglasses.com](mailto:service@bestbuyeyeglasses.com), and we will try to resolve it. 
+
+Our business changes constantly, and our Privacy Policy and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+
   
-Top   
-**_Information we collect_**  
-  
-BestBuyEyeglasses.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. BestBuyEyeglasses.com collects information from our users at several different points on our website.  
-  
-**_Membership_**  
-  
-When you make a purchase on our site, you automatically become a member. You provide the following information to BestBuyEyeglasses:   
-  
-· Your name   
-· Your e-mail address   
-· Your billing and shipping address   
-· Your telephone number   
-· The type of credit card you are using if applicable   
-· Your credit card number and expiration date, or other form of payment   
-  
-You choose your own member identification and password to use for all future purchases on the site. You choose whether or not you would like to receive electronic mailings from BestBuyEyeglasses.com (see "Catalog, Newsletters, Etc." below).  
-  
-Top   
-**_Order_**  
-  
-We request information from the user on our order form when making a purchase. Here is where a user must provide their contact information, like name and shipping address, and financial information, like credit card number and expiration date. This information is used for billing purposes and to fill the customer's order. If we have difficulty processing an order, this contact information is used to communicate with the customer.   
-  
-**_Cookies_**  
-  
-A cookie is a piece of data stored on the user's hard drive containing information about the user. We use both session and persistent cookies. Usage of a cookie from our site is in no way linked to any personally identifiable information. Cookies enable us to track and target the interests of our users in the aggregate by analyzing popular areas and products to enhance future experiences on our site.  
-  
-Top   
-**_Usage Tracking_**  
-  
-BestBuyEyeglasses.com's database tracks the traffic throughout our site. This information is used to compile overall statistics and is not recorded at an individual level. This includes IP (internet protocol) addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and # of clicks to analyze trends, administer the site, track user's movement in the aggregate. The statistics help us decide which products and services best serve our members and guests.  
-  
-Top  
-**_Aggregate Information_**  
-  
-BestBuyEyeglasses.com uses aggregate information from demographic surveys, traffic patterns and IP addresses to customize our site. Aggregate information is occasionally shared with partners of BestBuyeyeglasses.com to plan advertising or promotions. We do not share any personally identifiable information.  
-  
-**_Sharing_**  
-  
-BestBuyEyeglasses.com gives you access to third party partners to provide you with certain services that are detailed below. BestBuyeyeglasses.com will provide that third party with your transaction information and then that third party will collect additional information if needed to provide you with the requested service. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.  
-  
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.  
-  
-Top   
-**_Links_**  
-  
-This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by BestBuyeyeglasses.com.  
-  
-**_Catalog, Newsletters, Etc._**  
-  
-If a user wishes to subscribe to our catalog, newsletter, etc., we ask for contact information such as name, street address and email address to provide these communications. Out of respect for our users' privacy we provide a way to opt-out of these communications. Please see the choice and opt-out section below.  
-  
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send you an email. Generally, users may not opt-out of these communications, though you can deactivate your account. However, these communications are not promotional in nature.  
-  
-Top   
-**_Surveys & Sweepstakes_**  
-  
-From time to time, our site requests information from users via surveys or sweepstakes. Participation in these surveys or sweepstakes is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name, shipping address and email address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.  
-  
-**_Tell-A-Friend_**  
-  
-If a user elects to use our referral service for informing a friend about an item, we ask them for the friend's name and email address. BestBuyeyeglasses.com will automatically send the friend a one-time email inviting them to visit the site. We do store the friend's email and they have an option to opt-out in the communication.  
-  
-Top   
-**_Special request page_**  
-  
-Our customers can use the special request page to enquire about products that they cannot find on the website, such as, for example, special orders. Personal information is gathered during this process.  
-  
-Top   
-**_Security_**  
-  
-BestBuyEyeglasses.com takes every precaution to protect our users' information. When users submit sensitive information via our website, your information is protected both online and off-line.  
-  
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - Secure Socket Layers (SSLs). While on a secure page, such as our order form, a lock icon appears on the bottom of your Web browser. When you are not on a secure page, no lock icon will appear.   
-  
-While we use SSL encryption to protect sensitive information (like your credit card information) online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are fully informed about our security and privacy practices and updated as new policies are added or revised. They are regularly notified and/or reminded about the importance we place on privacy, and what they can do to ensure that our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment under restricted access.   
-  
-If you have any questions about the security at our website, you can send us an[Online Inquiry](mailto:customerservice@bestbuyeyeglasses.com).   
-  
-Top   
-**_Supplementation of Information_**  
-  
-In order for BestBuyEyeglasses.com to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from third party sources such as our affiliated websites. For example, in order for BestBuyEyeglasses.com to enhance our ability to tailor the site to an individual's preference, we combine information about the purchasing habits of users with similar information from our affiliated sites When a user makes a purchase from any of these companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.  
-  
-Top   
-**_Special Offers_**  
-  
-Established members will occasionally receive information on products, services, special offers and a newsletter. Out of respect for the privacy of our users, we present the option to not receive these types of communications.  
-  
-**_Correcting/Updating/Deleting/Deactivating_**  
-  
-If a user's personally identifiable information changes (such as your zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate that user's personally identifiable information provided to us. This can be done by using the unsubscribe feature in our communication or by sending us an[Online Inquiry](mailto:customerservice@bestbuyeyeglasses.com).   
-  
-**_Choice/Opt-Out_**  
-  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.  
-  
-Users who no longer wish to receive promotional materials may opt-out of receiving these communications by using the unsubscribe feature in our email or by visiting www.BestBuyEyeglasses.com  
-  
-When we update our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.  
-  
-If, however, we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. However, if you have opted out of all communication with the site, or deleted/deactivated your account, then you will not be contacted, nor will your personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.  
-  
-Top 
+
