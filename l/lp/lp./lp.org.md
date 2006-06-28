@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228090025id_/http%3A//lp.org/organization/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lp.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629014506id_/http%3A//www.lp.org/organization/privacy.shtml) for the most accurate reproduction.*
 
-# National Libertarian Party
+# Official Website of the Libertarian National Committee
 
   
 
