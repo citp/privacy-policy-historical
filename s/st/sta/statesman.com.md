@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the statesman.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230071409id_/http%3A//www.statesman.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statesman.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628225742id_/http%3A//www.statesman.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-LAST UPDATED: February 11, 2004 
+LAST UPDATED: March 17, 2006 
 
 We care about your privacy. We will not sell your name or email address to any third party advertisers without your permission. **Please read our privacy policy below for further details.**
 
@@ -25,7 +25,7 @@ CHILDREN'S PRIVACY
 
 **
 
-Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our site or to provide any other personally identifying information. If you’re under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number).
+Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our site or to provide any other personally identifying information. If you’re under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number). 
 
 Back to top **
 
@@ -37,11 +37,11 @@ The information we gather falls into two categories: (1) information (for exampl
 
 **Registration Information**. To make use of certain features on our site (such as to receive email newsletters, or post a classified ad) visitors need to register and to provide certain information as part of the registration process. We may also ask for information from those who buy products or services or conduct other transactions on our site. (We may ask, for example, for your name, email address, sex, age, zip code or credit card number, and we might request information on your interest in sports, personal finance, the performing arts, and the like.) The information you supply will help us to offer you more personalized features, to tailor our site to your interests and make them more useful to you, and to process e-commerce transactions. 
 
-The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don't supply the information we need, we may be unable to provide you with services we make available to other visitors to our site. And we can't send you email alerting you to a new service we're offering, or breaking news that may interest you if you don't tell us what you're interested in and give us your email address. Please see the "Shopping" section below to learn more about purchasing products or services on our site.
+The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don't supply the information we need, we may be unable to provide you with services we make available to other visitors to our site. And we can't send you email alerting you to a new service we're offering, or breaking news that may interest you if you don't tell us what you're interested in and give us your email address. Please see the "Shopping" section below to learn more about purchasing products or services on our site. 
 
 **Contests and Other Promotions.** From time to time, we may offer contests, sweepstakes or other promotions on our site. If you enter one of these promotions, you'll have to provide information about yourself (such as your name, address, telephone number and email address) so that we can contact you if you win. We may share this information with any wholly or majority-owned subsidiary of Cox Enterprises, Inc. and any co-sponsor of the promotion (we will identify any co-sponsor in the official rules for the promotion). If you don't want us to collect the information requested in the registration form or to provide it to any wholly or majority-owned subsidiary of Cox Enterprises, Inc. or contest co-sponsors, please do not enter the contest or sweepstakes. 
 
-**Email Newsletters.** We may also offer you the opportunity to subscribe to email newsletters on topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you may always unsubscribe later if you decide not to receive further mailings of the newsletter from us. See "Opting Out" below.
+**Email Newsletters.** We may also offer you the opportunity to subscribe to email newsletters on topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you may always unsubscribe later if you decide not to receive further mailings of the newsletter from us. See "Opting Out" below. 
 
 **Cookies**. To help make our sites more responsive to the needs of our visitors, we use a standard feature of browser software, called a "cookie," to assign each visitor a unique, random number, a sort of user ID, if you will, that resides on your computer. The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won't know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can't read unrelated data off your hard drive. Our advertisers and the third parties that provide products or services through our site may also assign their own cookies to your browser, a process that we don't control. 
 
@@ -63,7 +63,7 @@ DISCLOSURE OF INFORMATION
 
 **Vendors and Service Providers**. To make our sites more valuable to our visitors, we may offer some features in conjunction with other providers ("Provider Partners"). Our chat, email newsletters, email services and online classifieds for example, may be made available through cooperative arrangements with providers that specialize in operating such services. In some instances, our Provider Partners will have the same access to your information as we do. Their use of the information will be subject to the terms of their respective privacy policies, which you can find on their websites. 
 
-**Our Affiliates.** We may share the information that we collect from you with any wholly or majority-owned subsidiary of Cox Enterprises, Inc. so that we and they can provide you with products and services provided by these entities that we believe may be of interest to you.
+**Our Affiliates.** We may share the information that we collect from you with any wholly or majority-owned subsidiary of Cox Enterprises, Inc. so that we and they can provide you with products and services provided by these entities that we believe may be of interest to you. 
 
 **Statistical Information**. Much of the information we collect is in the form of aggregated statistics, such as the traffic that visits various pages within our sites, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally. We may use such aggregated information and disclose it to third parties as we see fit. 
 
@@ -75,7 +75,7 @@ Back to top ****
 
 **SHOPPING**
 
-When you are ready to make a purchase on our site, we will ask you to provide us with certain information, including your contact details (such as your name, address, telephone and email), and your billing information (such as your credit card number and the date that your card expires). We may also ask you to provide additional information such as unique identifiers (such as your date of birth), and registration information (login name and password). You will be able to review, update, or delete the information you have provided us (except, of course any information that we do not store) at any time by accessing your account on our site.
+When you are ready to make a purchase on our site, we will ask you to provide us with certain information, including your contact details (such as your name, address, telephone and email), and your billing information (such as your credit card number and the date that your card expires). We may also ask you to provide additional information such as unique identifiers (such as your date of birth), and registration information (login name and password). You will be able to review, update, or delete the information you have provided us (except, of course any information that we do not store) at any time by accessing your account on our site. 
 
 We will use the information you provide us to process your transaction and to contact you regarding your purchase if necessary. We will share this information with our Provider Partners to the extent necessary to facilitate your purchase (for purposes such as customer service, verification, fulfillment and billing purposes). We will not sell or rent your personal billing information to any third party. We may share non-financial information with our Provider Partners in accordance with this Privacy Policy. If you consent (for example, by checking a box or by some other means), we will make your information available to third parties so that they, we, or both may contact you directly regarding special offers, promotions, products or services that may be of interest to you. 
 
@@ -83,7 +83,7 @@ Back to top ****
 
 **OPTING OUT**
 
-If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email us by [using this form](https://web.archive.org/search/content/feedback/privacypolicy.html). 
+If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email us [using this form](http://www.statesman.com/search/content/feedback/privacypolicy.html). 
 
 If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an email newsletter or by going back to our site). 
 
@@ -101,6 +101,8 @@ Back to top ****
 
 **CHANGES TO THIS PRIVACY POLICY**
 
-A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.
+A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. 
 
 Back to top
+
+* * *
