@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sedo.co.uk privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218085431id_/http%3A//www.sedo.co.uk/about/policy.php%3Fpage%3Dprivacy_policy_e%26tracked%3D%26partnerid%3D%26language%3De) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sedo.co.uk privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628044203id_/http%3A//www.sedo.co.uk/about/policy.php%3Fpage%3Dprivacy_policy_e%26tracked%3D%26partnerid%3D%26language%3De) for the most accurate reproduction.*
 
 # Sedo - Policy
 
@@ -11,7 +11,7 @@ Sedo is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-
 
 [ ](http://www.truste.org/ivalidate.php?url=www.sedo.com&sealid=102)
 
-If you have questions or concerns regarding this statement, you should first contact Sedo's Privacy Department by emailing [privacy@sedo.co.uk](mailto:privacy@sedo.co.uk), calling +49 221.420758.26, or writing Sedo GmbH, Im Mediapark 6, 50670 Cologne, Germany. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liason with the Web site to resolve your concerns. For more information on TRUSTe, please go to [www.truste.org](http://www.truste.org/).
+If you have questions or concerns regarding this statement, you should first contact Sedo's Privacy Department by emailing [privacy@sedo.co.uk](mailto:privacy@sedo.co.uk), calling +49 221.34030.230, or writing Sedo GmbH, Im Mediapark 6, 50670 Cologne, Germany. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liason with the Web site to resolve your concerns. For more information on TRUSTe, please go to [www.truste.org](http://www.truste.org/).
 
 This site complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
@@ -35,7 +35,7 @@ Our Use of Your Information
 
 In general, you can browse a large portion of the site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to use our services, we may require you to provide contact and identity information, billing information, and other personal information as indicated on the forms throughout the site. You always have the option not to provide information by choosing not to use a particular service or feature.
 
-We provide you the opportunity to opt-out of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you register for a user account but do not wish to receive any additional marketing material from us you can indicate your preference on the registration form. If you no longer wish to receive our newsletter and promotional communications you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@sedo.co.uk](mailto:info@sedo.co.uk). In addition, we offer an opportunity to opt-out of receiving our newsletter on your account data page, or you may call us at +49 221.420758.26.
+We provide you the opportunity to opt-out of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you register for a user account but do not wish to receive any additional marketing material from us you can indicate your preference on the registration form. If you no longer wish to receive our newsletter and promotional communications you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [info@sedo.co.uk](mailto:info@sedo.co.uk). In addition, we offer an opportunity to opt-out of receiving our newsletter on your account data page, or you may call us at +49 221.34030.230.
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider so that you can make an informed choice as to whether or not to share your information with that party.
 
@@ -118,6 +118,6 @@ Im Mediapark 6
 50670 Cologne  
 Germany  
 ---|---  
-Telephone: | +49 221.420758.26  
-Facsimile: | +49 221.420758.291  
+Telephone: | +49 221.34030.230  
+Facsimile: | +49 221.34030.102  
 Email: | [privacy@sedo.co.uk](mailto:privacy@sedo.co.uk)
