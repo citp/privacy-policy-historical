@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2003-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030802042050id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629035642id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
 
 # AOPA Online - Privacy Policy Statement
 
-This is the web site of the **Aircraft Owners and Pilots Association**.  
+This is the Web site of the **Aircraft Owners and Pilots Association**.  
 
 
 Our postal address is  
@@ -17,7 +17,7 @@ We collect the domain name of visitors to our Web page (where possible). We also
 
 The information we collect is used to improve the content of our Web page, and is not shared with other organizations for commercial purposes.
 
-If you supply us with your e-mail address, you may receive periodic messages from AOPA and AOPA's Certified Products and Service providers with information on important legislative activities, your membership status and benefits or upcoming events. AOPA does not trade or sell e-mail addresses. If at any time you do not want to receive e-mails from AOPA, please let us know by e-mailing us at [memberassistance@aopa.org](mailto:memberassistance@aopa.org).
+If you supply us with your e-mail address, you may receive periodic messages from AOPA and AOPA's Member Products providers with information on important legislative activities, your membership status and benefits, or upcoming events. AOPA does not trade or sell e-mail addresses. If at any time you do not want to receive e-mails from AOPA, please let us know by e-mailing us at [memberassistance@aopa.org](mailto:memberassistance@aopa.org).
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending us e-mail at the above address.
 
