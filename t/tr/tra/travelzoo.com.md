@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226035439id_/http%3A//www.travelzoo.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelzoo.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629053712id_/http%3A//www.travelzoo.com/Privacy.htm) for the most accurate reproduction.*
 
 # Travelzoo - Privacy Statement
 
@@ -65,8 +65,3 @@ ATTN: Ralph Bartel, CEO
 590 Madison Avenue  
 21st Floor  
 New York, NY 10022_
-
-* * *
-
-Copyright © 2005 Travelzoo Inc. All rights reserved. - NASDAQ: [ TZOO](http://ir.travelzoo.com/quote.cfm) \- [Privacy Policy](http://www.travelzoo.com/Privacy.htm)   
-[Disclaimer](http://www.travelzoo.com/Disclaimer.htm)
