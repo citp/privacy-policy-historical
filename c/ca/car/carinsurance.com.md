@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230074016id_/http%3A//www.carinsurance.com/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carinsurance.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629030551id_/http%3A//www.carinsurance.com/PrivacySecurity.aspx) for the most accurate reproduction.*
 
-# CarInsurance.com - Privacy and Security
+# CarInsurance.com Statement of Privacy and Security
 
 | 
 
-This document was last updated October 3, 2005. 
+This document was last updated October 3, 2005.
 
-We are committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. We want to provide an effective, convenient comparative shopping environment. We appreciate your trust, and we treat your information with care and sensitivity. By using CarInsurance.com, you consent to the data practices described in this statement. This policy may change periodically, so please check back from time to time. For your information, the date of the last update to this Privacy Policy is stated at the top of this document. In addition to this Privacy Policy, your use of the site is also subject to our Terms of Use. 
+We are committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. We want to provide an effective, convenient comparative shopping environment. We appreciate your trust, and we treat your information with care and sensitivity. By using CarInsurance.com, you consent to the data practices described in this statement. This policy may change periodically, so please check back from time to time. For your information, the date of the last update to this Privacy Policy is stated at the top of this document. In addition to this Privacy Policy, your use of the site is also subject to our Terms of Use.
 
 We may collect the following nonpublic personal information:
 
@@ -27,7 +27,7 @@ We restrict access to nonpublic personal information about you to employees of C
 We provide a secure environment for your personal data and transactions on every page of our quoting and policy writing application, which is approved by Thawte.   
 Click the logo at the bottom of this page.
 
-**Here are the types of information we gather.**
+## Here are the types of information we gather. 
 
 Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. When you request a quote or purchase a policy on this site we ask for your personally identifiable information such as your name, phone number, address, e-mail address and social security number. 
 
@@ -39,7 +39,7 @@ Automatic Information: We receive this information from your computer when you v
 
 Information from Other Sources: We will receive information from those referring you to us. We will keep and update information necessary to provide comparative quotes and to service policies. We might receive information about you from other sources and add it to our account information. 
 
-**Here is how we use the information you provide.**
+## Here is how we use the information you provide.
 
  We use your personal information to create your quote. We transmit this information to participating service providers to quote and ultimately provide you with the services you select. 
 
@@ -57,15 +57,14 @@ At any point while completing the quote questionnaire you can navigate to previo
 
 If you do not want to receive e-mail or other mail from us, you may indicate this. Such an indication would include notices we might send out regarding changes in policies, such as changes to this Privacy Policy. The change will still govern, and it is your responsibility to review these policies for changes. You can choose not to receive this information by:
 
-  * Using our [online opt out form](http://www.carinsurance.com/optout.aspx) . 
+  * Using our [online opt out form](http://www.carinsurance.com/optout.aspx). 
   * Sending an e-mail to CustomerService@CarInsurance.com; or 
   * Calling 1-877-327-8728 
   * The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to easily retrieve your quote if you do not allow cookies. 
-  * The Federal Trade Commission provides useful information about online privacy on its own Web site [ http://www.ftc.gov/privacy/index.html](http://www.ftc.gov/privacy/index.html). 
 
 
 
-**Here is how we safeguard your information.**
+## Here is how we safeguard your information.
 
 Our systems are configured to provide privacy, integrity, and authentication in Internet communications. The security measures we have taken help ensure that your data is secure and encrypted, so that a third party cannot capture, read or access the information while it is in transit between your computer and our system. Some of the key features are outlined below. 
 
@@ -78,7 +77,7 @@ We limit internal access to our servers and require that our people adhere to hi
 
 It is important for you to protect against unauthorized access to your password and to your computer. Be sure to close all browser applications when finished using a shared computer. 
 
-**With whom we share this information.**
+## With whom we share this information.
 
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. We disclose information about you to the following people: 
 
@@ -92,14 +91,14 @@ Aggregate Information: CarInsurance.com shares the information you provided in a
 
 We release account and other personal information when we believe release is appropriate to comply with law, or to protect the rights, property, or safety of our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. We may also share information with other third parties to administer our business or provide additional related services, and as otherwise permitted or required by law. 
 
-**Our site has links to other web sites.**
+## Our site has links to other web sites.
 
 During your visit to our site, you may come across links that will take you to third-party Web sites. CarInsurance.com does not control the content of or the information collected from these third-party Web sites. These third-party Web sites are not subject to CarInsurance.com's Privacy Policy. Links to third-party sites do not constitute sponsorship, endorsement, or approval by CarInsurance.com of the content, policies, or practices of such sites. Therefore, we encourage you to review the privacy policies of these sites before you disclose your personal information to these other parties. 
 
-**Protecting Children**
+## Protecting Children
 
 CarInsurance.com does not sell products for purchase by children nor is this site intended for use by children. CarInsurance.com abides by the Children's On-Line Privacy Protection Act. 
 
-**Use, notices and revisions**
+## Use, notices and revisions
 
-If you choose to visit CarInsurance.com, your visit and any dispute over privacy is subject to this Policy and our [ Terms of Use](http://www.carinsurance.com/TermsOfUse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the state of Florida. If you have any concern about privacy at CarInsurance.com, please send us a thorough description to CustomerService@CarInsurance.com and we will try to resolve it. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+If you choose to visit CarInsurance.com, your visit and any dispute over privacy is subject to this Policy and our [Terms of Use](http://www.carinsurance.com/TermsOfUse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the state of Florida. If you have any concern about privacy at CarInsurance.com, please send us a thorough description to CustomerService@CarInsurance.com and we will try to resolve it. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
