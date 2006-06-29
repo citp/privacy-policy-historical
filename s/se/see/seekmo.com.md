@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the seekmo.com privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228045541id_/http%3A//seekmo.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekmo.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630012848id_/http%3A//seekmo.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Free downloads and online search tools from Seekmo
 
-|  | [Home](https://web.archive.org/web/20051228045541id_/http%3A//seekmo.com/Common/Navigation/#)  
+|  | [Home](https://web.archive.org/web/20060630012848id_/http%3A//seekmo.com/Common/Navigation/#)  
 ---  
-[Seekmo Search Assistant](https://web.archive.org/web/20051228045541id_/http%3A//seekmo.com/Common/Navigation/#)  
-[About Search Assistant](https://web.archive.org/web/20051228045541id_/http%3A//seekmo.com/Common/Navigation/#)  
-[Seekmo Privacy Center](https://web.archive.org/web/20051228045541id_/http%3A//seekmo.com/Common/Navigation/#)  
-[Privacy Policy](https://web.archive.org/web/20051228045541id_/http%3A//seekmo.com/Common/Navigation/#)  
-[EULA](https://web.archive.org/web/20051228045541id_/http%3A//seekmo.com/Common/Navigation/#)  
-[FAQ](https://web.archive.org/web/20051228045541id_/http%3A//seekmo.com/Common/Navigation/#)  
-[Customer Support](https://web.archive.org/web/20051228045541id_/http%3A//seekmo.com/Common/Navigation/#)  
-[Contact Us](https://web.archive.org/web/20051228045541id_/http%3A//seekmo.com/Common/Navigation/#)  
-[FAQ](https://web.archive.org/web/20051228045541id_/http%3A//seekmo.com/Common/Navigation/#)  
+[Seekmo Search Assistant](https://web.archive.org/web/20060630012848id_/http%3A//seekmo.com/Common/Navigation/#)  
+[About Search Assistant](https://web.archive.org/web/20060630012848id_/http%3A//seekmo.com/Common/Navigation/#)  
+[Seekmo Privacy Center](https://web.archive.org/web/20060630012848id_/http%3A//seekmo.com/Common/Navigation/#)  
+[Privacy Policy](https://web.archive.org/web/20060630012848id_/http%3A//seekmo.com/Common/Navigation/#)  
+[EULA](https://web.archive.org/web/20060630012848id_/http%3A//seekmo.com/Common/Navigation/#)  
+[FAQ](https://web.archive.org/web/20060630012848id_/http%3A//seekmo.com/Common/Navigation/#)  
+[Customer Support](https://web.archive.org/web/20060630012848id_/http%3A//seekmo.com/Common/Navigation/#)  
+[Contact Us](https://web.archive.org/web/20060630012848id_/http%3A//seekmo.com/Common/Navigation/#)  
+[FAQ](https://web.archive.org/web/20060630012848id_/http%3A//seekmo.com/Common/Navigation/#)  
   
 Quick Links
 
