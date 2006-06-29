@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231050230id_/http%3A//www.battleon.com/aq-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629071821id_/http%3A//www.battleon.com/aq-privacy.asp) for the most accurate reproduction.*
 
 # Adventure Quest RPG - PBW
 
@@ -13,7 +13,7 @@ Battle on!
 Artix   
   
    
-**PRIVACY POLICY** (REVISED MARCH 9, 2005)  
+**PRIVACY POLICY** (REVISED MARCH 17, 2006)  
   
 AdventureQuest (created and run by Artix Entertainment, LLC) provides family friendly entertainment to our users. We are committed to protecting the safety and security of its online visitors and are sensitive to our user's concerns about the safety of the personal information provided to us. We encourage all our users to read this Privacy Statement carefully in order to understand how any personal information collected about you is used. 
 
@@ -69,7 +69,17 @@ Message Boards
 The AdventureQuest message board is a place for users of the game to interact by posting messages. The message board must be signed up for separately from the game and is subject to TERMS OF USE.   
    
 Security and Credit Card Use   
-AdventureQuest does not process your payments directly. Instead we contract this service to PayPal. Founded in 1998, PayPal, an eBay Company, enables any individual or business with an email address to securely, easily and quickly send and receive payments online. To find our more about PayPal and its privacy and security policies, please click on the following link [www.paypal.com ](http://www.paypal.com/).   
+AdventureQuest does not process your payments directly. Instead we contract this service to other, secure companies.
+
+**PayPal**  
+Founded in 1998, PayPal, an eBay Company, enables any individual or business with an email address to securely, easily and quickly send and receive payments online. To find out more about PayPal and its privacy and security policies, please click on the following link [www.paypal.com ](http://www.paypal.com/). PayPal is our preferred method of payment. 
+
+**PayByCash  
+** Founded in 1998, PayByCash offers over 20 methods of payment, including cash and money order methods (additional fees may apply). To find out more about PayByCash and its privacy and security policies, please click on the following link <http://www.paybycash.com/>.
+
+**SlimCD  
+** Founded in 2001, SlimCD provides secure link merchant services for credit card payments. To find out more about SlimCD and its privacy and security policies, please click on the following link <http://www.slimcd.com/>  
+  
    
 KID'S PRIVACY POLICY   
 AdventureQuest encourages parents and legal guardians to spend time online with their children. We urge parents and legal guardians to instruct their children to never give out their personal information online without permission. We also recognize a special need to protect personal information obtained from children. In compliance with Children's Online Privacy Protection Act (“COPPA”), we have adopted the following policies regarding children under the age of 13 (“kids”):   
@@ -119,7 +129,7 @@ AdventureQuest reserves the right to change, modify, or revise this Privacy Poli
   
 Contacting AdventureQuest   
   
-If you need further assistance concerning our Privacy Policy or have any additional questions or comments about our Privacy Policy, please contact us at helpzard@battleon.com or write to us: 
+If you need further assistance concerning our Privacy Policy or have any additional questions or comments about our Privacy Policy, please contact us at aq.privacy@battleon.com or write to us: 
 
 **Member Services**  
 Artix Entertainment, LLC  
@@ -127,6 +137,8 @@ P.O. Box 2005
 Land O' Lakes, FL 34639  
 (813) 774-8493 
 
-Our office hours are Noon to 5pm EST Monday through Friday. It can take 3 business days to receive an email response from us because real people read each email. We do not have an automated email reponse system.  
+**Please Note: This number is for Privacy Policy purposes only.** Only call this number if you are calling in reference to our Privacy Policy. We do not take [orders](http://www.battleon.com/help/aq-payments-othermethods.asp) over the phone, nor provide [Technical Support](http://www.battleon.com/help/aq-technical.asp) over the phone. For any issue other than the Privacy Policy, such as [Billing Questions](http://www.battleon.com/help/aq-payments.asp) and [Account Recovery](http://www.battleon.com/help/aq-cantlogin.asp) questions, please visit the [Help Pages](http://www.battleon.com/help).
+
+Our office hours are Noon to 5pm EST Monday through Friday. It can take 3 business days to receive an email response from us because real people read each email. We do not have an automated email response system.  
   
  
