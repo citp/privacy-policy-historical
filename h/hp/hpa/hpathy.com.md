@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hpathy.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220201506id_/http%3A//www.hpathy.com/essentia/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpathy.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629212344id_/http%3A//hpathy.com/essentia/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Homeopathy 4 Everyone, Homeopathic Resource Center
 
-Your privacy is very important to us. Please contact us from our [Contact Us](https://web.archive.org/web/20051220201506id_/http%3A//www.hpathy.com/essentia/contactus.asp) page if you have any questions or comments about privacy, or how any information you send us may be used. [Hpathy.com](http://www.hpathy.com/) has created this statement to demonstrate our firm commitment to privacy. The following text discloses our information gathering practices for this Web site (Homeopathy for Everyone - Hpathy.com), and explains how the information is used, protected, and, in certain limited instances that do not violate your privacy, disseminated.
+Your privacy is very important to us. Please contact us from our [Contact Us](https://web.archive.org/web/20060629212344id_/http%3A//hpathy.com/essentia/contactus.asp) page if you have any questions or comments about privacy, or how any information you send us may be used. [Hpathy.com](http://www.hpathy.com/) has created this statement to demonstrate our firm commitment to privacy. The following text discloses our information gathering practices for this Web site (Homeopathy for Everyone - Hpathy.com), and explains how the information is used, protected, and, in certain limited instances that do not violate your privacy, disseminated.
 
 **Information Provided at Registration  
 **  
@@ -33,4 +33,4 @@ Your IP address may be used to help identify you and to gather broad demographic
 **If we are going to use your personal identifiable information in a manner different from that stated at the time of collection, we will notify you via e-mail. You will have a choice as to whether we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post the notice, we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
 **Contacting the Web Site  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, [Click Here to Contact Us](https://web.archive.org/web/20051220201506id_/http%3A//www.hpathy.com/essentia/contactus.asp)
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, [Click Here to Contact Us](https://web.archive.org/web/20060629212344id_/http%3A//hpathy.com/essentia/contactus.asp)
