@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the efrontier.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403220112id_/http%3A//www.efrontier.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efrontier.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629121402id_/http%3A//www.efrontier.com/efficient_frontier/privacy.htm) for the most accurate reproduction.*
 
-# Efficient Frontier - Privacy Policy
+# Efficient Frontier: Privacy Policy
+
+Privacy Policy
 
 Efficient Frontier, Inc. ["Efficient Frontier"] has established this Privacy Policy in order to demonstrate its firm commitment to privacy. The following policy is applicable to Efficient Frontier's information collecting, use and disclosure practices for the Efficient Frontier web site. Your use of this site tells us you have read and accept the practices outlined in this policy.
 
-This policy does not apply to the practices of companies that Efficient Frontier does not own or control or to people it does not employ or manage. 
-
+This policy does not apply to the practices of companies that Efficient Frontier does not own or control or to people it does not employ or manage.   
 Efficient Frontier’s policy regarding use of your individual identifying information supplied to us or collected via your visit to our web site covers these areas: 
 
 **Information Collection and Use**  
@@ -47,8 +48,7 @@ We employ a software technology called clear gifs that help us better manage con
 **Our Clients**  
 Efficient Frontier serves as an agent for each of its clients, in that we provide our services for the benefit of the client. Each of our clients uses our services to maximize their advertising campaign. Each client instructs us as to what types of data it would like us to collect on its behalf. This data may include search engine referral and purchase behavior and information. 
 
-**Efficient Frontier may track certain actions on clients' web sites,**  
-including web surfers visiting certain pages on the client’s sites or taking specific actions. We use persistent cookies and clear GIFs to determine activity at the client’s site. With respect to individuals who visit those sites as a result of clicking on a customer ad on a search engines, our ad server will place or read a unique tracking cookie on the computer and will use non-personal information about the browser and activity at this site (such as a web surfer's IP address, web pages which have been viewed by a web surfer, date and time) to track whether the referral results in a transaction, as defined by the customer. 
+Efficient Frontier may track certain actions on clients' web sites, including web surfers visiting certain pages on the client’s sites or taking specific actions. We use persistent cookies and clear GIFs to determine activity at the client’s site. With respect to individuals who visit those sites as a result of clicking on a customer ad on a search engines, our ad server will place or read a unique tracking cookie on the computer and will use non-personal information about the browser and activity at this site (such as a web surfer's IP address, web pages which have been viewed by a web surfer, date and time) to track whether the referral results in a transaction, as defined by the customer. 
 
 **Links**  
 This web site may contain links to other sites. Please be aware that Efficient Frontier is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
@@ -57,9 +57,9 @@ This web site may contain links to other sites. Please be aware that Efficient F
 Efficient Frontier has implemented generally accepted standards of technology security in order to protect information from loss, misuse and unauthorized access. Only employees who need the information to perform a specific job are granted access to personally identifiable information. 
 
 **Correction/Updating Personal Information**  
-If a user’s personally identifiable information changes (such as your zip code or email address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done by emailing [webmaster@efrontier.com](mailto:webmaster@efrontier.com). 
+If a user’s personally identifiable information changes (such as your zip code or email address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done by emailing webmaster@efrontier.com. 
 
-**Choice/Opt-out** Users who no longer wish to receive press releases, corporate announcements, or promotional materials may opt-out of receiving these communications by replying to that email with the word unsubscribe in the subject line of the emailed reply or email us at [webmaster@efrontier.com](mailto:webmaster@efrontier.com). 
+Choice/Opt-out Users who no longer wish to receive press releases, corporate announcements, or promotional materials may opt-out of receiving these communications by replying to that email with the word unsubscribe in the subject line of the emailed reply or email us at [webmaster@efrontier.com](mailto:webmaster@efrontier.com). 
 
 We encourage our clients to follow generally acceptable privacy standards. As a visitor to our site, you can deactivate our ability to analyze your behavior. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) 
 
@@ -67,6 +67,4 @@ We encourage our clients to follow generally acceptable privacy standards. As a 
 If we decide to change our privacy policy, we will make commercially reasonable efforts to post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. 
 
 **Contact Us**  
-If you have any questions or suggestions regarding our privacy policy, please contact us at [webmaster@efrontier.com](mailto:webmaster@efrontier.com).   
-  
-
+If you have any questions or suggestions regarding our privacy policy, please contact us at [webmaster@efrontier.com](mailto:webmaster@efrontier.com). 
