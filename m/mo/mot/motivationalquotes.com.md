@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the motivationalquotes.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207044727id_/http%3A//www.motivationalquotes.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivationalquotes.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629044227id_/http%3A//motivationalquotes.com/privacy.shtml) for the most accurate reproduction.*
 
 # Motivational Quotes Privacy Policy
 
 ### MotivationalQuotes.Com
 
-This web site is a project of [Sperience](http://www.sperience.net/).
+This web site is a project of [ubr](http://www.ubr.com/).
 
-You can contact Sperience at:  
-[webmaster@sperience.net](mailto:webmaster@sperience.com)  
+You can contact ubr at:  
+[webmaster@ubr.com](mailto:webmaster@ubr.com)  
 
 
 ### Privacy considerations
