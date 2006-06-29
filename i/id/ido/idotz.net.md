@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212135831id_/http%3A//www.idotz.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629031951id_/http%3A//www.idotz.net/privacy.html) for the most accurate reproduction.*
 
 # iDotz.Net - Domain Name Registrar: Cool Domains @ Great Prices!
 
@@ -47,7 +47,7 @@ iDotz.Net Certificate
      or a part of our business is acquired, sold or transferred to another business,  
      customer information may be a part of that acquisition, sale or transfer. 
 
- _Protection of iDotz.Net and Others_ : We may release account and other personal information when we are required to do so by law, court order or other government or law enforcement authority or regulatory agency, including ICANN; to enforce or apply our Services Agreement or other agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of BRS Media Inc., iDotz.Net, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+ _Protection of iDotz.Net and Others_ : We may release personally identifiable information and/or non-personally-identifiable account information if required to do so by law, subpoena, search warrant, court order or other government or law enforcement authority or regulatory agency, including ICANN; to enforce or apply our Services Agreement or other agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of BRS Media Inc., iDotz.Net, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
  If you do not want us to share personally identifiable information about you with our business partners or vendors, you may send us e-mail at 
 
