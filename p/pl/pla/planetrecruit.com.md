@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231181553id_/http%3A//planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630003044id_/http%3A//planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
 
 # PlanetRecruit: IT, Engineering and Management jobs from the UK's top recruitment agencies - Employment, careers, work
 
@@ -44,7 +44,6 @@ hotonline Limited ("hotonline") is strongly committed to protecting your privacy
   * remind us who you are and to access your member information (stored on our computers) in order to deliver a better and more personalised service;
   * record searches your have made whilst visiting our site;
   * collect anonymous data for direct marketing and promotional purposes;
-  * This site, www.planetrecruit.com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to: [http://www.engage.com/privacy](http://www.engage.com/privacy/).
   * hotonline also collects Internet Protocol ("IP") addresses. Your IP address is the address your web browser or email application automatically gives to the computer whose web page or email you are trying to access over the Internet.
   * IP addresses may be used for the system administration of our website and to gather broad demographic information, including to:
   * send you the most appropriate employment information based on geographic area or information derived from your IP address, and
@@ -56,7 +55,6 @@ hotonline Limited ("hotonline") is strongly committed to protecting your privacy
 
   * You may amend your personal details at any time or if you wish, remove your CV from the hotonline database. These options are available from the "My hotonline" page of our website.
   * You may unsubscribe to any employment, promotional or marketing information you have subscribed to receive from hotonline at any time, from the "My hotonline" page of our website.
-  * To opt out of the Engage anonymous targeted advertising information, go to: [www.engage.com/privacy.](http://www.engage.com/privacy/)
 
 
 
