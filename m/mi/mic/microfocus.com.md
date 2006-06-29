@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the microfocus.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227045505id_/http%3A//microfocus.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microfocus.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629031542id_/http%3A//microfocus.com/AboutMicroFocus/legal/Privacy.asp) for the most accurate reproduction.*
 
 # Micro Focus - Micro Focus and Your Privacy
-
-## Micro Focus and Your Privacy
 
 ## Privacy
 
