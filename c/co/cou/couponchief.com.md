@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponchief.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230085427id_/http%3A//couponchief.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponchief.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629021621id_/http%3A//www.couponchief.com/privacy.html) for the most accurate reproduction.*
 
 # Online Coupons, Coupon Codes, and Online Shopping Discounts and Deals from CouponChief.com
 
@@ -30,3 +30,5 @@ We may disclose information when legally required by law.
 **Notification of Changes**
 
 If we change any portion of this policy in the ongoing development of our Web site, these changes will be posted to our homepage. Under the circumstance that any change is made to the collection or distribution of personal information, we will notify you via email. However, we will use any information you provide (namely your email) under the privacy policy under which it was collected.
+
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at [service@couponchief.com](mailto:service@couponchief.com?subject=Privacy%20Statement%20feedback).
