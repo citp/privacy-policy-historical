@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219135405id_/http%3A//cardratings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629131859id_/http%3A//cardratings.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -48,11 +48,8 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 ##  Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-
-
-[ feedback@cardratings.com ](mailto:feedback@cardratings.com)
+If you have any questions or concerns about this privacy statement or related issues, please let us know your concerns by [contacting us](http://www.cardratings.com/contactfr.html). 
 
 * * *
 
-This privacy statement last updated on 8/12/03. 
+This privacy statement last updated on 2/12/06. U.S. Citizens for Fair Credit Card Terms, Inc. © 1998-2006 
