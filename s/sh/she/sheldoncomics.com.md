@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sheldoncomics.com privacy policy that was archived on 2005-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051125144736id_/http%3A//www.sheldoncomics.com/uminfo/um_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheldoncomics.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629081707id_/http%3A//www.sheldoncomics.com/uminfo/um_privacy_policy.html) for the most accurate reproduction.*
 
 # Comics.com Privacy Policy
 
 |  |  |  | 
 
-|  |  [](https://web.archive.org/whatsnew/) |  [](https://web.archive.org/) |  [](https://web.archive.org/categories/index.html) |  [](https://web.archive.org/editoons/) |  [](https://web.archive.org/columns) |  [](https://web.archive.org/crossword/) |  [](https://web.archive.org/store/index.html) |  [](https://web.archive.org/ecards/index.html) |   
----|---|---|---|---|---|---|---|---  
+|  |  [](https://web.archive.org/) |  [](https://web.archive.org/categories/index.html) |  [](https://web.archive.org/editoons/) |  [](https://web.archive.org/columns) |  [](https://web.archive.org/crossword/) |  [](https://web.archive.org/store/index.html) |  [](https://web.archive.org/ecards/index.html) |   
+---|---|---|---|---|---|---|---  
 |  |   
 |  | [](https://web.archive.org/uminfo/index.html)  
 ---  
