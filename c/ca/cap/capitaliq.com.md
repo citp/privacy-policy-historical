@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the capitaliq.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220053347id_/http%3A//www.capitaliq.com/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitaliq.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629021104id_/http%3A//capitaliq.com/main/privacy.asp) for the most accurate reproduction.*
 
-# Capital IQ
+# Capital IQ - Privacy Statement
 
 |  |  |  Contacting us via e-mail or registering for capitaliq.com reveals your e-mail address and any other information you include such as phone number and/or mailing address. We will use this information to help us process your registration, fulfill your request or respond to your inquiry. All of your personal information will be stored in a secure database in the United States of America. Access to this database is limited to authorized persons. 
 
