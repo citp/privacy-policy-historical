@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newenglandmoves.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209104412id_/http%3A//www.newenglandmoves.com/insurance/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newenglandmoves.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630001710id_/http%3A//www.newenglandmoves.com/insurance/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy applies to current and former customers of Coldwell Banker Residential Brokerage Insurance Agency. The following policies and procedures protect the privacy of your information, whether you are a current or former customer:
+This Privacy Policy applies to current and former customers of NRT Insurance Agency. The following policies and procedures protect the privacy of your information, whether you are a current or former customer:
 
 Categories of Information We May Collect
 
@@ -13,7 +13,7 @@ The collection of this information, often necessary to properly evaluate, mainta
 How We Use Your Information
 
 Sharing Information Outside of the Cendant Family of Companies  
-We may share all of the information we collect about you, as described above, with companies outside of the Cendant Family of Companies who perform marketing services on our behalf or with other financial institutions with which we have joint marketing agreements. We may also share information with companies outside of the Cendant Family of Companies as permitted by law, such as to respond to a subpoena or court order, to prevent fraud or to comply with an inquiry of by a government agency.
+We may share all of the information we collect about you, as described above, with companies outside of the Cendant Family of Companies who perform marketing services on our behalf or with other financial institutions with which we have joint marketing agreements. We may also share information with companies outside of the Cendant Family of Companies as permitted by law, such as to respond to a subpoena or court order, to prevent fraud or to comply with an inquiry by a government agency.
 
 We will not sell your personal information and we will not permit third parties, with whom we legally share your personal information, to sell, market, or resell your personal information.
 
@@ -23,7 +23,3 @@ We may share transaction and experience information about you, including identif
 Safeguarding Your Information
 
 Access to customer information is limited to personnel who need the information to perform their job responsibilities. We maintain physical, electronic and procedural safeguards that meet or exceed applicable regulations. We periodically review our security standards, procedures and technology to protect against unauthorized access to your confidential information.
-
-| 
-
-We will inform you of our privacy policy at least once a year, as long as you remain a customer with Coldwell Banker Residential Brokerage Insurance Agency. You may also request a copy by writing to: Coldwell Banker Residential Brokerage Insurance Agency, 1601 Trapelo Road, Waltham, MA 02451; attn: Legal Department
