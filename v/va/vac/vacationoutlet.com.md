@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the vacationoutlet.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219140806id_/http%3A//www.vacationoutlet.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationoutlet.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629110838id_/http%3A//www.vacationoutlet.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**800-690-2210**    Offer Code: 9NGJ-K1V   
+**800-690-2210**    Offer Code: 9NGJ-K1V 
+
+[](https://web.archive.org/promotion/vo/bigdeal/default.asp)  
   
 ---  
 |  |  |  |   
