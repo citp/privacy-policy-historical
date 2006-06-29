@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jackpot.com privacy policy that was archived on 2005-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050421003830id_/http%3A//www.jackpot.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackpot.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629065952id_/http%3A//www.jackpot.com/help/privacy.asp) for the most accurate reproduction.*
 
-# Jackpot.com Privacy Policy
+# Jackpot.com - Privacy Policy
 
 |   
 ---  
@@ -9,7 +9,7 @@
 
 The following applies only to California residents.
 
-Jackpot.com may, from time to time, share your personally identifiable information with unaffiliated third parties for their direct marketing purposes. As a California resident, you have a legal right to request and receive in writing or by email the names and addresses of all such third parties who received your personally identifiable information during the previous calendar year and a list of the types of personally identifiable information disclosed to such third parties. To request such information, send an email to [yourprivacy@jackpot.com](mailto:yourprivacy@jackpot.com) or write to California Privacy Information c/o Jackpot.com, 15260 Ventura Blvd, Suite 2000, Sherman Oaks, CA 91403 or fax to (888)269-3836. We will not honor such request more than once per calendar year.
+Jackpot.com may, from time to time, share your personally identifiable information with unaffiliated third parties for their direct marketing purposes. As a California resident, you have a legal right to request and receive in writing or by email the names and addresses of all such third parties who received your personally identifiable information during the previous calendar year and a list of the types of personally identifiable information disclosed to such third parties. To request such information, send an email to [yourprivacy@jackpot.com](mailto:yourprivacy@jackpot.com) or write to California Privacy Information c/o Jackpot.com, 2101 Rosecrans, Suite 2000, El Segundo, CA 90245 or fax to (888)269-3836. We will not honor such request more than once per calendar year.
 
 For more information on how your personally identifiable information is collected and used, please read our Privacy Policy.   
   
@@ -108,8 +108,8 @@ _Note that unsubscribing from one email list does not automatically unsubscribe 
 
 Presented by:  
 Jackpot.com  
-15260 Ventura Blvd, Suite 2000  
-Sherman Oaks, CA 91403  
+2101 Rosecrans, Suite 2000  
+El Segundo, CA 90245  
 [customerservice@jackpot.com](mailto:customerservice@jackpot.com)  
   
 ---|---  
