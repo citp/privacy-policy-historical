@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcps.org privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215044440id_/http%3A//www.mcps.org/policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcps.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629225607id_/http%3A//www.mcps.org/policy_statement.htm) for the most accurate reproduction.*
 
 # Montgomery County Public Schools
 
