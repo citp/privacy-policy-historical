@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229214815id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630002146id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
 
 # North Carolina General Assembly - Privacy Statement
 
@@ -24,6 +24,7 @@ Quick Links
   * [NC Constitution](https://web.archive.org/Legislation/constitution/ncconstitution.html)
   * [NC Session Laws](https://web.archive.org/gascripts/EnactedLegislation/ELTOC.pl?sType=Law)
   * [Legislative Publications](https://web.archive.org/LegislativePublications/)
+  * [NCGA Stormwater Water Collection Project](https://web.archive.org/cistern/web/index.html)
   * [State Government Site](https://web.archive.org/gascripts/redirects/ExitDisclaimer.pl?http://www.ncgov.com)
   * [Lobbyist Info](https://web.archive.org/gascripts/redirects/ExitDisclaimer.pl?http://www.secretary.state.nc.us/lobbyists/)
   * [Other Government Sites](https://web.archive.org/NCGAInfo/NCGAInfo.html#govtLinks)
@@ -71,7 +72,7 @@ The NCGA maintains e-mail lists, but only of those individuals or organizations 
 **Individuals must affirmatively request to be placed on our lists. Any personal information provided by such individuals will be used only to send the users such information.**
 
 We do not sell, rent, loan, trade, or lease the addresses on our lists to anyone. In addition, we configure our list server software to refuse to divulge the e-mail addresses of our list subscribers to anyone including other list subscribers.  
-Individuals wishing to unsubscribe their email address may do so at the following page: <http://www.ncleg.net/Calendars/calendarsbyemai/calendarsbyemai.html>
+Individuals wishing to unsubscribe their email address may do so at the following page: [Subscribe/Unsubscribe from the House & Senate Distribution List](https://web.archive.org/Calendars/PastCalendars/Calendars%20By%20Email.html)
 
 If you send us e-mail with a question or comment, we will use your e-mail address only to respond to you. We will store your e-mail, e-mail address, and a copy of our response for archival purposes only. We will archive such information only for the length of time necessary to fulfill these archival purposes. At the conclusion of such time, we will delete such archived information.
 
@@ -80,9 +81,9 @@ Unless you request that we delete any of the information you submitted when you 
 
 |  | Calendars  
 ---  
-[House](https://web.archive.org/Calendars/CurrentCalendars/CurrentHouseCalendar.pdf)| [[past cals]](https://web.archive.org/Calendars/house_/default.htm)  
-[Senate](https://web.archive.org/Calendars/CurrentCalendars/CurrentSenateCalendar.pdf)| [[past cals]](https://web.archive.org/Calendars/senate_/default.htm)  
-[Interim](https://web.archive.org/InterimCalendar/)| [[past cals]](https://web.archive.org/InterimCalendar/PublicInterimCalendar.pl?view=TOC)  
+[House](https://web.archive.org/Calendars/CurrentCalendars/CurrentHouseCalendar.pdf)| [[archive]](https://web.archive.org/gascripts/DocumentSites/browseDocSite.asp?nID=2&sFolderName=/House)  
+[Senate](https://web.archive.org/Calendars/CurrentCalendars/CurrentSenateCalendar.pdf)| [[archive]](https://web.archive.org/gascripts/DocumentSites/browseDocSite.asp?nID=2&sFolderName=/Senate)  
+[Legislative](https://web.archive.org/LegislativeCalendar/)| [[archive]](https://web.archive.org/LegislativeCalendar/LegislativeCalendar.pl?view=TOC)  
 Site Searches  
 [Bill Look-Up](https://web.archive.org/gascripts/BillLookUp/BillLookUp.pl)  
   
@@ -96,4 +97,5 @@ Site Searches
 [Bill Text](https://web.archive.org/gascripts/BillSearch/BillSearch.asp)  
 [](https://web.archive.org/LegLibrary/)  
 [](https://web.archive.org/gascripts/Redirects/ExitDisclaimer.pl?http://www.ncgov.com)  
-[](https://web.archive.org/ncgainfo/educational/educational.html)
+[](https://web.archive.org/ncgainfo/educational/educational.html)  
+[](https://web.archive.org/cistern/web/index.html)
