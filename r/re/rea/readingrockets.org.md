@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingrockets.org privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215165308id_/http%3A//www.readingrockets.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingrockets.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629034931id_/http%3A//readingrockets.org/privacy) for the most accurate reproduction.*
 
 # Reading Rockets : Privacy Policy
 
@@ -58,7 +58,7 @@ You can refuse cookies by turning them off in your browser. You do not need to h
 
 ## Information sharing and sites beyond Reading Rockets
 
-To make our site more valuable to our visitors, we offer some features in conjunction with other providers. Our online Store, for example, is made available through an affiliate arrangement with Yahoo.com. And, of course, our site includes links to plenty of other web sites whose privacy policies we don't control. Once you leave our server (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you're visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.
+To make our site more valuable to our visitors, we offer some features in conjunction with other providers. Our site also includes links to plenty of other web sites whose privacy policies we don't control. Once you leave our server (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you're visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.
 
 ## Acceptance of the Reading Rockets privacy policy
 
