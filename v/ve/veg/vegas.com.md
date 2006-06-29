@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151049id_/http%3A//www.vegas.com/about/privacy.html%3Fvc1%3D1%26vc2%3Dftr_txt_prv_3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegas.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629030422id_/http%3A//vegas.com/about/privacy.html%3Fvc1%3D1%26vc2%3Dftr_txt_prv_3) for the most accurate reproduction.*
 
-# VEGAS.com: Privacy Policy
+# VEGAS.com: About VEGAS.com: Privacy Policy
+
+**Privacy Policy**
 
 VEGAS.com takes the privacy of our site visitors and customers very seriously. On this page, we address what information we collect from you and how we use that information. If you have additional questions that are not answered here, **click here to contact us**. 
 
+**_Information we collect_**
+
 To better serve site visitors and customers, VEGAS.com collects two basic types of information from our customers:
 
-**Aggregate user and tracking information:** This information gives us insights on how our customers and site visitors use our site and our other products. This data is anonymous in nature and does not contain any personally identifiable information. We use this information to ensure that our website, e-mails and marketing efforts continue to appeal to our customers.
+  * **Personally identifiable information:** This is information that personally identifies one individual from another. This information is voluntarily provided to us by our customers and is used by us for the purpose of fulfilling requests, inquiries or travel service orders. **VEGAS.com does not rent or sell any of this information to anyone.**
+  * **Aggregate user and tracking information:** This information gives us insights on how our customers and site visitors use our site and our other products. This data is anonymous in nature and does not contain any personally identifiable information. We use this information to ensure that our website, e-mails and marketing efforts continue to appeal to our customers.
 
 **_Information we collect about you_**
 
@@ -109,7 +114,7 @@ Additionally, VEGAS.com may use your information, including personally identifia
   * In disclosures to law-enforcement agencies and/or credit card companies in cases of customer fraud or in other cases where an individual poses a threat to the interests of VEGAS.com or its customers. 
   * To resolve customer or credit card company disputes. 
 
-In some cases, we may choose to buy or sell assets. In these business transfers, customer information, including personally identifiable information, is typically one of the business assets that is transferred. Moreover, if Vegas.com, or substantially all of its assets were acquired, or in the unlikely event that VEGAS.com goes out of business or enters bankruptcy, customer information, including personally identifiable information, would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Vegas.com may continue to use your personally identifiable information as set forth in this policy.
+In some cases, we may choose to buy or sell assets. In these business transfers, customer information, including personally identifiable information, is typically one of the business assets that is transferred. Moreover, if VEGAS.com, or substantially all of its assets were acquired, or in the unlikely event that VEGAS.com goes out of business or enters bankruptcy, customer information, including personally identifiable information, would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Vegas.com may continue to use your personally identifiable information as set forth in this policy.
 
  ** _What you'll receive from VEGAS.com_**
 
