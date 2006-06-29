@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the outdoors.org privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220184303id_/http%3A//www.outdoors.org/about/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoors.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629185439id_/http%3A//outdoors.org/about/privacy-policy.cfm) for the most accurate reproduction.*
 
 # AMC: About the AMC - Privacy Policy
 
-**Privacy Policy**
-
- **Information Collected During Website Usage**  
+**Information Collected During Website Usage**  
 The Appalachian Mountain Club is committed to protecting your privacy. You can visit most portions of our website, www.outdoors.org, without telling us who you are or revealing any personal information. The only information we collect from all visits is the name of your internet service provider, the browser and type of machine you are using, the Website that referred you to us, the pages you request and the date and time you request them. This is standard logging information collected on all websites. We use this information to generate statistics and measure site activity to improve the usefulness of the site to our visitors.
 
  **Collection of personal information  
