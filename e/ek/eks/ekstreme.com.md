@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekstreme.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212113228id_/http%3A//ekstreme.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekstreme.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629113518id_/http%3A//ekstreme.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - eKstreme.com
 
@@ -6,7 +6,7 @@ Although eKstreme.com is a personal site, I do collect some information about th
 
 ## Browsing Pattern Information
 
-eKstreme.com uses [PHPCounter](https://web.archive.org/phplabs/phpcounter.php) to keep counts on the number of visitors I get.
+eKstreme.com uses [PHPCounter](https://web.archive.org/phpcounter/) to keep counts on the number of visitors I get.
 
 The information that gets collected is: Web browser and version, page requested, time of visit, referring link (if any), and the remote IP.
 
@@ -23,19 +23,6 @@ Most feedback I get relates to support of the scripts in [PHPLabs](https://web.a
 ### Guestbook
 
 The guestbook is also a means of people to add to the contents of eKstreme.com that is beyond my control. I keep an eye on the submissions and delete any posts that are not appropriate.
-
-### Tell-A-Friend
-
-The Tell-A-Friend feature allows you to send emails to yourself or to other people telling them about content found on eKstreme.com. The feature _does not_ save the names or addresses entered into the form.
-
-The feature automatically saves the IP address of each submission to help combat spam. It will automatically prevent sending of multiple emails within a short period of time.
-
-The other piece of information that the feature stores is the recommended page. This serves two purposes:
-
-  * Track how the feature is being used (and make sure that the feature is being used!).
-  * See which pages are most popular to being referred.
-
-
 
 ## Copyright
 
