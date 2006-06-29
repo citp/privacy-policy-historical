@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nytimes.com privacy policy that was archived on 2005-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051231170109id_/http%3A//nytimes.com/ref/membercenter/help/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nytimes.com privacy policy that was archived on 2006-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060629150954id_/http%3A//www.nytimes.com/ref/membercenter/help/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
@@ -20,7 +20,7 @@
 
 <meta name="cre" content="The New York Times">
 
-<meta name="edt" content="">
+<meta name="edt" content="The New York Times on the Web">
 
 <meta name="pdate" content="20020102">
 
@@ -99,6 +99,17 @@
 		return false;
 	}
 
+        function goToURL2(sel){
+        // This version only works for onChange events from select objects
+        // but the select object can have any name, unlike goToURL() which requires 
+        // the select object to be named "section"
+        
+                var selected = sel.selectedIndex;
+                var url = sel.options[selected].value;
+                if (url != "") document.location = url;
+                return false;
+        }
+
 	if (window.self != window.top) {
 		top.location.replace(window.location.href);
 	}
@@ -109,6 +120,7 @@
 	else {
 	document.write("<link rel='stylesheet' type='text/css'  href='http://graphics8.nytimes.com/css/membercenter.css'>");
 	}
+
 //-->
 </script><link rel="stylesheet" type="text/css" href="http://graphics8.nytimes.com/css/membercenter.css">
 <!--begin Tacoda-specific code -->
@@ -317,8 +329,9 @@ document.write("<link rel='stylesheet' type='text/css'  href='http://www.nytimes
 
 <nyt_text>
 <!--<i>Last Updated on November 20, 2003</i>
-<i>Last Updated on December 18, 2003</i>-->
-<i>Last Updated on November 14, 2005</i>
+<i>Last Updated on December 18, 2003</i>
+<i>Last Updated on November 14, 2005</i>-->
+<i>Last Updated on February 16, 2006</i>
 <p>
 The New York Times on the Web is a licensee of the <a href="#truste">TRUSTe</a> privacy program and TRUSTe  Children’s Privacy Program and is in compliance with TRUSTe privacy principles.  We also participate in the Council of Better Business Bureaus' <a href="#bbb">BBB<i>OnLine</i></a> Privacy Program, and comply with all BBB<i>OnLine</i> Privacy standards. 
 </p><p>This policy discloses the privacy practices for
@@ -373,10 +386,10 @@ In this Privacy Policy, you will find the answers to the following questions:</p
 <p><br><b><a name="a">What information does The New York Times on the Web gather/track about you?</a></b><a name="a">
 </a></p><p><a name="a"><b>Registration</b>: During a </a><a href="http://www.nytimes.com/auth/login">free registration</a> process prior to using the site, The New York Times on the Web requires that you supply a unique Member ID, e-mail address, and demographic information (country, zip code, year of birth, gender, household income, industry, and job title, <!--and subscription status to The New York Times newspaper-->).  You must agree to the terms of our <a href="http://www.nytimes.com/ref/membercenter/help/agree.html">Member Agreement</a>.  
 </p><p><b>Premium Products and Services from The New York Times on the Web</b>: While the majority of The New York Times on the Web is offered free of charge, we do charge fees for select premium content, products and services. 
-These products include TimesSelect, our Article Archive: 1996-Present, Article Archive: 1851-1995, Premium Crosswords and
-News Tracker (now a part of TimesSelect), among others.  To enable the purchase of these products (with the exception of the Article Archive: 1851-1995, see below), The New York Times on the Web collects and stores billing and credit card information.  This information will only be shared with third parties who perform tasks required to complete the purchase transaction.  Examples of this include fulfilling orders and processing credit card payments.  You may review and update your billing information, view your most recently purchased products and transaction history in the secured <a href="http://www.nytimes.com/purchasehistory">Purchase History</a>  area of the Member Center. 
+These products include TimesSelect, our Article Archive: 1981-Present, Article Archive: 1851-1980, Premium Crosswords and
+News Tracker (now a part of TimesSelect), among others.  To enable the purchase of these products (with the exception of the Article Archive: 1851-1980, see below), The New York Times on the Web collects and stores billing and credit card information.  This information will only be shared with third parties who perform tasks required to complete the purchase transaction.  Examples of this include fulfilling orders and processing credit card payments.  You may review and update your billing information, view your most recently purchased products and transaction history in the secured <a href="http://www.nytimes.com/purchasehistory">Purchase History</a>  area of the Member Center. 
 </p><p>
-The Article Archive: 1851-1995 is hosted by ProQuest through their ProQuest
+The Article Archive: 1851-1980 is hosted by ProQuest through their ProQuest
 Archiver service and all purchases are processed by ProQuest on behalf of
 The New York Times on the Web. ProQuest collects and stores billing and
 credit card information solely to process these purchases. This information
@@ -422,7 +435,7 @@ a list of these advertising agencies and their privacy policies.
 <b>Log Files</b>:
 Log data is only used in aggregate to analyze usage of our Web site.
 </p><p><br><b><a name="b">What does The New York Times on the Web do with the information it gathers/tracks?</a></b><a name="b">
-</a></p><p><a name="b"><b>Statistical Analysis and Banner Advertising</b>: The New York Times on the Web may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. We also use demographic and preference information to allow advertising banners on our Web site to be targeted, in aggregate, to the users for whom they are most pertinent.  This means that users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads.  In this statistical analyses and banner advertisement targeting, we will disclose information to third parties only in aggregate form.  Personal information about you as an individual subscriber will not be provided to any third party without your consent, except under the circumstances described in Compliance with Legal Process below.
+</a></p><p><a name="b"><b>Statistical Analysis and Banner Advertising</b>: The New York Times on the Web may perform statistical analyses of user behavior in order to measure interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. We also use demographic and preference information to allow advertising banners on our Web site to be targeted, in aggregate, to the users for whom they are most pertinent.  This means that users see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the ads.  In this statistical analyses and banner advertisement targeting, we will disclose information to third parties only in aggregate form.  The New York Times on the Web may also share personal information with The New York Times Company for analysis purposes, including analysis to improve customer relationships. Personal information about you as an individual subscriber will not be provided to any third party without your consent, except under the circumstances described in Compliance with Legal Process below.
 </a></p><p><a name="b"><b>E-Mail</b>: If you so elect at registration or in the </a><a href="http://www.nytimes.com/email">E-mail Preferences</a> section of our Member Center, The New York Times on the Web will periodically send you promotional e-mail about services offered by The New York Times on the Web and its advertisers. 
 Additionally,  the e-mail address provided by you at registration may be
 used by The New York Times on Web  to contact you regarding (1) account
@@ -509,7 +522,7 @@ still allowing access to the site.  To request a correction or cancellation, vis
 <tbody><tr>
 <td width="1" bgcolor="#CCCCCC"><img src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="40" alt=""></td>
 <td width="766" valign="middle">  
-<img src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="38" height="1" alt=""><a class="footer" href="/ref/membercenter/help/copyright.html">Copyright 2005</a>&nbsp;<a class="footer" href="http://www.nytco.com/">The New York Times Company</a> | <a class="footer" href="/ref/membercenter/help/privacy.html">Privacy Policy</a>
+<img src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="38" height="1" alt=""><a class="footer" href="/ref/membercenter/help/copyright.html">Copyright 2006</a>&nbsp;<a class="footer" href="http://www.nytco.com/">The New York Times Company</a> | <a class="footer" href="/ref/membercenter/help/privacy.html">Privacy Policy</a>
 </td>
 <td width="1" bgcolor="#CCCCCC"><img src="http://graphics8.nytimes.com/images/misc/spacer.gif" width="1" height="1" alt=""></td>
 </tr>	
@@ -526,7 +539,7 @@ still allowing access to the site.  To request a correction or cancellation, vis
 		<!-- SiteCatalyst code version: G.6.
 		Copyright 1997-2004 Omniture, Inc. More info available at
 		http://www.omniture.com --><script language="JavaScript"><!--
-		var s_account="nytmembercenter"
+		var s_account="nytmembercenter,nytimesglobal"
 		var s_pageName="/ref/membercenter/help/privacy.html"
 		var s_server=""
 		var s_channel="member center"
@@ -548,6 +561,7 @@ still allowing access to the site.  To request a correction or cancellation, vis
 		var s_prop15=""
 		var s_prop16=""
 		var s_prop17=""
+		var s_prop18=""
 		var s_campaign=""
 		var s_state=""
 		var s_zip=""
@@ -565,65 +579,27 @@ still allowing access to the site.  To request a correction or cancellation, vis
 		var s_eVar9=""
 		var s_eVar10=""
 		var s_code=' '//--></script>
-		<script language="JavaScript" src="http://graphics8.nytimes.com/js/s_code_1to1.js"></script>
+		<script language="JavaScript" src="http://graphics8.nytimes.com/js/s_code_combined.js"></script>
 		<script language="JavaScript"><!-- 
 		var s_wd=window,s_tm=new Date;if(s_code!=' '){s_code=s_dc(
 		s_account);if(s_code)document.write(s_code)}else
 		document.write('<im'+
 		'g src="http://std.o.nytimes.com/b/ss/'+s_account+'/1/G.6--FB/s'+s_tm.getTime()+'?[AQB]'
 		+'&j=1.0&[AQE]" height="1" width="1" border="0" alt="" />')
-		//--></script><img src="http://std.o.nytimes.com/b/ss/nytmembercenter/1/G.6--FB/s1580369784581?[AQB]&amp;j=1.0&amp;[AQE]" height="1" width="1" border="0" alt=""><script language="JavaScript"><!-- 
+		//--></script><img src="http://std.o.nytimes.com/b/ss/nytmembercenter,nytimesglobal/1/G.6--FB/s1580369785726?[AQB]&amp;j=1.0&amp;[AQE]" height="1" width="1" border="0" alt=""><script language="JavaScript"><!-- 
 		if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 		//--></script><noscript><img 
 		src="http://std.o.nytimes.com/b/ss/nytmembercenter/1/G.6--NS/0" 
 		height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 		<!-- End SiteCatalyst code version: G.6. -->
 		
+			
 
-		<!-- SiteCatalyst code version: G.5.
-		Copyright 1997-2003 Omniture, Inc. More info available at
-		http://www.omniture.com --><script language="JavaScript"><!--
-		var s_account="nytimesglobal"
-		var s_pageName="/ref/membercenter/help/privacy.html"
-		var s_server=""
-		var s_channel="member center"
-		var s_pageType=""
-		var s_prop1="index/reference"
-		var s_prop2="null"
-		var s_prop3=""
-		var s_prop4=""
-		var s_prop5=""
-		var s_prop6=""
-		var s_prop7=""
-		var s_prop8=""
-		var s_prop9=""
-		var s_prop10=""
-		var s_prop12=""
-		var s_prop13=""
-		var s_prop14=""
-		var s_prop15=""
-		var s_prop16=""
-		var s_prop17=""
-		var s_campaign=""
-		var s_state=""
-		var s_zip=""
-		var s_events=""
-		var s_products=""
-		var s_purchaseID=""
-		var s_eVar1=""
-		var s_eVar2=""
-		var s_eVar3=""
-		var s_eVar4=""
-		var s_eVar5=""
-		var s_eVar6=""
-		var s_eVar7=""
-		var s_eVar8=""
-		var s_eVar9=""
-		var s_eVar10=""
-		//--></script><script language="JavaScript" src="http://graphics8.nytimes.com/js/s_code_sampling.js"></script>
-		<!-- End SiteCatalyst code version: G.5. -->
-
-		
+			
+		<!-- Start UPT call -->
+		<img height="1" width="3" border="0" src="http:://up.nytimes.com/?d=0/27/20&amp;t=17&amp;s=0&amp;ui=&amp;r=http%3a%2f%2fwww%2etheknot%2ecom%2fpartners%2ejs&amp;u=www%2enytimes%2ecom%2fref%2fmembercenter%2fhelp%2fprivacy%2ehtml%3f">
+		<!-- End UPT call -->
+	
 		
 
 
