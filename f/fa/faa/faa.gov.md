@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215071654id_/http%3A//faa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629230149id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
 
 # Federal Aviation Administration - Privacy Policy
+
+|  | 
 
 **Our Commitment**  
 We respect your right to privacy and will protect it when you visit our website.
@@ -92,5 +94,13 @@ When FAA collects information from you online that is subject to the Privacy Act
 View our [Privacy Act Notices](http://cio.ost.dot.gov/DOT/OST/Documents/files/records.html).
 
 **Our Privacy Practices**  
-For more information or for comments and concerns on our privacy practices, please contact our Privacy Officer, Judy Street, by [email](https://web.archive.org/contact_faa/index.cfm?url=/privacy/index.cfm&mailto=9%2DAWA%2DABA%2DWEB%2DPRIVACY%2DPOLICY%2DCONTACT&subject=Privacy%20Concerns&sid=true) or by phone at (202) 267-9895. Also, DOT has conducted a Privacy Impact Assessment on some systems.   
+For more information or for comments and concerns on our privacy practices, please contact our Privacy Officer, Carla Mauney, by [email](https://web.archive.org/contact_faa/index.cfm?url=/privacy/index.cfm&mailto=Carla%2EMauney%40faa%2Egov&subject=Privacy%20Concerns&sid=true). Also, DOT has conducted a Privacy Impact Assessment on some systems.   
 View our [Privacy Impact Assessments](http://www.dot.gov/pia.html). 
+
+|  |  |   
+---  
+| faa.gov Tools |   
+|  |  | [Print this page](https://web.archive.org/privacy/index.cfm?print=go)  
+---|---  
+|  |  | [Email this page](https://web.archive.org/email_page/?title=Privacy%20Policy&pageurl=%2Fprivacy%2Findex%2Ecfm&sid=true)  
+---|---
