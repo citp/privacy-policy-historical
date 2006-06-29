@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerbids.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223152158id_/http%3A//www.biggerbids.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbids.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629035426id_/http%3A//biggerbids.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
