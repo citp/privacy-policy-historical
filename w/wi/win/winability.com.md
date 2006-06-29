@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the winability.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225110323id_/http%3A//www.winability.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winability.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629102420id_/http%3A//www.winability.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of WinAbility Software Corporation
+
+| 
 
 We respect your right to privacy. Any information gathered by WinAbility Software Corporation will be kept strictly confidential and will only be used or shared in ways for which you have specifically consented. Unless we have your express consent, we will not sell, rent or trade your personal information to any third party. We will take special care to protect the privacy and security of your information. 
 
@@ -19,7 +21,7 @@ If you opt-in to receive the notifications about the new releases of our product
   * ##  Request customer support, check your license for validity, or inquire about the available upgrades 
 
   
-Our web site may collect your name and email address, the registered name on your current license, the number of copies included in the license, the license key, and/or the order number that you have previously placed with us, as well as any comments you may enter into the contact form. We may use such information to determine your eligibility to receive the customer support and product upgrades, to check the validity of your current license to use our software, and to improve the quality of our products and web sites. It may also be stored in a cookie, on your computer (see below). 
+Our web site may collect your name and email address, the registered name on your current license, the number of copies included in the license, the license key, and/or the order number that you have previously placed with us, as well as any comments you may enter into the contact form. We may use such information to determine your eligibility to receive customer support and product upgrades, to check the validity of your current license to use our software, and to improve the quality of our products and web sites. It may also be stored in a cookie, on your computer (see below). 
 
 
   * ##  Web site and FTP site visits 
