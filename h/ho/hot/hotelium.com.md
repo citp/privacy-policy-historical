@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelium.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405184054id_/http%3A//www.destinux.com/normalpage.asp%3Fpage%3D462%26cid%3D10163) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelium.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629142354id_/http%3A//www.destinux.com/normalpage.asp%3Fpage%3D462%26cid%3D10163) for the most accurate reproduction.*
 
 # Destinux.com - You always find the best prices with us
 
@@ -20,7 +20,7 @@ In the course of operating the CITYLINE Services, we may collect two types of in
 
 Business contact information such as the name, title, business address, email address or telephone number of a business or professional person or an employee of an organization is not considered Personal Information. 
 
-**"Non-Personal Information"** is information of an anonymous nature, such as an [Internet Protocol Address (IP Address)](https://web.archive.org/web/20050405184054id_/http%3A//www.destinux.com/normalpage.asp?page=467), the domain used to access a CITYLINE Service, and the type and version of browser or operating system being used. Aggregate information, such as demographic statistics of our users (e.g. average age or geographical allocation of our users), number of visitors and average time spent on a CITYLINE Service, is also considered Non-Personal Information. Non-Personal Information is collected or derived by us in the course of operating the CITYLINE Services. For example, our Web servers may automatically collect Non-Personal Information which is provided through your browser or stored on a Cookie or through a Web Beacon when you choose to visit a CITYLINE Service. Non-Personal Information is used by CITYLINE as described here. 
+**"Non-Personal Information"** is information of an anonymous nature, such as an [Internet Protocol Address (IP Address)](https://web.archive.org/web/20060629142354id_/http%3A//www.destinux.com/normalpage.asp?page=467), the domain used to access a CITYLINE Service, and the type and version of browser or operating system being used. Aggregate information, such as demographic statistics of our users (e.g. average age or geographical allocation of our users), number of visitors and average time spent on a CITYLINE Service, is also considered Non-Personal Information. Non-Personal Information is collected or derived by us in the course of operating the CITYLINE Services. For example, our Web servers may automatically collect Non-Personal Information which is provided through your browser or stored on a Cookie or through a Web Beacon when you choose to visit a CITYLINE Service. Non-Personal Information is used by CITYLINE as described here. 
 
   
 
