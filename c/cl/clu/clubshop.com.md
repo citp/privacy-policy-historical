@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubshop.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212160118id_/http%3A//www.clubshop.com/manual/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubshop.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629033318id_/http%3A//www.clubshop.com/manual/policies/privacy.html) for the most accurate reproduction.*
 
 # The DHS Club Business Manual - Privacy Policy
 
