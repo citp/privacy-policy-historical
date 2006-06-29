@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the ishayoga.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212121319id_/http%3A//www.ishayoga.org/home/copyright.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishayoga.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629172218id_/http%3A//www.ishayoga.org/home/copyright.asp) for the most accurate reproduction.*
 
-# Isha Yoga for effortless living
+# Isha Yoga
 
 This is the web site of **Isha Foundation**. 
 
 Our postal address is   
-**10 Belcaro Circle  
-Nashville, TN 37215 USA**
+**191 Anthony Dr.  
+McMinnville, TN 37110 USA**
 
 We can be reached via e-mail at [info@ishafoundation.org](mailto:info@ishafoundation.org)  
-or you can reach us by telephone at (615)-665-3812 or from the numbers provided on our Contact Us page
+or you can reach us by telephone at 866-424-ISHA or from the numbers provided on our Contact Us page
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
