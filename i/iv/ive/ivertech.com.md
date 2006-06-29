@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the ivertech.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151419id_/http%3A//www.ivertech.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivertech.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629104226id_/http%3A//ivertech.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Ivertech - Privacy Policy
 
   
+
+
+#### Privacy Policy
+
 Ivertech protects your privacy. Ivertech will not sell, rent or give away your personal information to any third party.  Any information that you trust us with and give to us is protected and held with the utmost security. 
 
 You can be assured that you will never receive any unsolicited e-mails or postal mail from any third party as a result of information you have given to Ivertech. 
