@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the spainexchange.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221055732id_/http%3A//www.spainexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spainexchange.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629161916id_/http%3A//spainexchange.com/privacy-en.htm) for the most accurate reproduction.*
 
-# Privacy Statement for SpainExchange
-
-**Privacy Statement for SpainExchange**
+# SpainExchange.com Privacy Statement
 
 We have created this privacy statement to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for our Web site.
 
@@ -18,17 +16,17 @@ Our site's registration forms require users to give us contact information (like
 
 This site contains links to other sites. SpainExchange is not responsible for the privacy practices or the content of such Web sites. 
 
-**Public Chat**
+**Forums**
 
-This site makes chat rooms, Chat, and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+This site makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
 **Data Quality/Access**
 
-To change and modify any information previously provided to us, you can send an e-mail to [se@spainexchange.com](mailto:se@spainexchange.com)
+To change and modify any information previously provided to us, you can send an e-mail to [seinfo@spainexchange.com](mailto:seinfo@spainexchange.com)
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [Dori Kelsey](mailto:se@spainexchange.com). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [Dori Kelsey](mailto:seinfo@spainexchange.com). 
 
   
 
