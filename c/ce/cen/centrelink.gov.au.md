@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231190505id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrelink.gov.au privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629072320id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm) for the most accurate reproduction.*
 
 # Legal - Privacy & Security Statement
-
-[ ](https://web.archive.org/internet/internet.nsf/legal/index.htm)
-
-[LEGAL INFO](https://web.archive.org/web/20051231190505id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/index.htm "Legal Info"): [Disclaimer](https://web.archive.org/web/20051231190505id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/disclaimer.htm "Disclaimer") | [Privacy & Security Statement](https://web.archive.org/web/20051231190505id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy.htm "Privacy and Security Statement") | [Copyright](https://web.archive.org/web/20051231190505id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/copyright.htm "Copyright") | [Linking To Our Website](https://web.archive.org/web/20051231190505id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/linking.htm "Linking To Our Website") | [Your Rights](https://web.archive.org/web/20051231190505id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/your_rights.htm "Your Rights") | [Reviews and Appeals](https://web.archive.org/web/20051231190505id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/review_appeal.htm "Reviews and Appeals") | [Complaints](https://web.archive.org/web/20051231190505id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/complaints.htm "Complaints") | [Privacy and Your Personal Information](https://web.archive.org/web/20051231190505id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy_info.htm "Privacy and Your Personal Information") | [Freedom of Information](https://web.archive.org/web/20051231190505id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/foi.htm "Freedom of Information")
 
 Centrelink places great emphasis on maintaining and enhancing the privacy and security of your personal information. With a number of strong security measures in place and the continued development of our internet services, our main focus is on improving existing measures as well as keeping you informed about the latest developments.
 
@@ -77,7 +73,7 @@ We make no attempt to identify you in any way when you are in the public section
 
 
 
-For more detailed information about privacy in general please refer to [Privacy & Your Personal Information](https://web.archive.org/web/20051231190505id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy_info.htm) or ask Centrelink for a copy of the factsheet "Your Right to Privacy".
+For more detailed information about privacy in general please refer to [Privacy & Your Personal Information](https://web.archive.org/web/20060629072320id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/legal/privacy_info.htm) or ask Centrelink for a copy of the factsheet "Your Right to Privacy".
 
 ## Security Statement
 
@@ -85,7 +81,7 @@ Your personal information is protected by law. These laws prohibit any person fr
 
 Centrelink encrypts all messages between the browser running on your PC and Centrelink's computers when these messages are sent from the Secure Messages section of the website.
 
-The encryption process used by Centrelink is Secure Socket Layer (SSL). For SSL encryption to work, your browser must support SSL. Freely available browsers that support SSL include Netscape version 6.0 or later, Firefox version 1.0 or later and Microsoft Internet Explorer Version 4.0 or later. Go to our [Downloads](https://web.archive.org/web/20051231190505id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/site_help/downloads.htm) section of the site to get the latest version of these browsers.
+The encryption process used by Centrelink is Secure Socket Layer (SSL). For SSL encryption to work, your browser must support SSL. Freely available browsers that support SSL include Netscape version 6.0 or later, Firefox version 1.0 or later and Microsoft Internet Explorer Version 4.0 or later. Go to our [Downloads](https://web.archive.org/web/20060629072320id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/site_help/downloads.htm) section of the site to get the latest version of these browsers.
 
 While Centrelink endeavours to provide a secure internet environment, users should note that there are inherent risks associated with transmission of information via the internet. Centrelink provides alternative ways to obtain and provide information for those who do not wish to use public networks such as the internet. These include direct contact at a Customer Service Centre, telephone, facsimile or post. In some circumstances, the Centrelink security guidelines may also require us to send particular information by non-electronic means.
 
@@ -93,8 +89,4 @@ _Note:_ Any link to an external site is provided for your information and conven
 
 ## Further information?
 
-If you have any privacy or security concerns please visit your nearest [Centrelink Customer Service Centre](https://web.archive.org/web/20051231190505id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/contact_us/offices.htm) for advice.
-
-**Hint:** Did you find what you were looking for? You can also try the [A-Z list](https://web.archive.org/internet/internet.nsf/site_help/az.htm), [quick links](https://web.archive.org/internet/internet.nsf/site_help/quicklinks.htm), [search](https://web.archive.org/internet/internet.nsf/search/index.htm), [site help](https://web.archive.org/internet/internet.nsf/site_help/index.htm) or send us [feedback](https://secure.centrelink.gov.au/sims/sims_main.cfm) on how to make this a better website.
-
-[ return to top ]
+If you have any privacy or security concerns please visit your nearest [Centrelink Customer Service Centre](https://web.archive.org/web/20060629072320id_/http%3A//www.centrelink.gov.au/internet/internet.nsf/contact_us/offices.htm) for advice.
