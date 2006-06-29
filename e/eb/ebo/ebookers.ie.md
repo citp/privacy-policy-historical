@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228140848id_/http%3A//www.ebookers.ie/helpandinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629085916id_/http%3A//ebookers.ie/helpandinfo/privacy.html) for the most accurate reproduction.*
 
 # ebookers.ie -- Privacy Statement
 
@@ -31,7 +31,7 @@ We occasionally run competitions on our site. We may ask for personal informatio
 top ^
 
 Job Applications  
-There is a section of the website where you can [apply for a job](https://web.archive.org/web/20051228140848id_/http%3A//www.ebookers.ie/helpandinfo/info@ebookers.ie) with ebookers.ie. We collect personal information such as name and address to contact applicants in relation to their job application. We also ask for optional demographic information, which we use for recruitment purposes only. We do not share any of the above mentioned information with anyone else. 
+There is a section of the website where you can [apply for a job](https://web.archive.org/web/20060629085916id_/http%3A//ebookers.ie/helpandinfo/info@ebookers.ie) with ebookers.ie. We collect personal information such as name and address to contact applicants in relation to their job application. We also ask for optional demographic information, which we use for recruitment purposes only. We do not share any of the above mentioned information with anyone else. 
 
 top ^
 
