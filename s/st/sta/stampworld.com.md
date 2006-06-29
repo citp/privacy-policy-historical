@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stampworld.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219134619id_/http%3A//www.collectors.com/join/privacy.chtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stampworld.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629053804id_/http%3A//www.collectors.com/join/privacy.chtml) for the most accurate reproduction.*
 
 # Collectors.com -- The Ultimate Collectors Destination --
 
