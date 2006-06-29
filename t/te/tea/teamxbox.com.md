@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamxbox.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231091820id_/http%3A//corp.ign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamxbox.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629220644id_/http%3A//corp.ign.com/privacy.html) for the most accurate reproduction.*
 
 # IGN Entertainment
 
