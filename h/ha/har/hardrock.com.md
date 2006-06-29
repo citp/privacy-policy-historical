@@ -1,69 +1,80 @@
-> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2005-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050920135410id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629035358id_/http%3A//www.hardrock.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Hard Rock Information
 
   
-|  [Privacy Policy](https://web.archive.org/web/20050920135410id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp)   
-[Terms of Use](https://web.archive.org/web/20050920135410id_/http%3A//www.hardrock.com/corporate/policy/terms.asp)   
+|  [Privacy Policy](https://web.archive.org/web/20060629035358id_/http%3A//www.hardrock.com/privacy/privacy.asp)  
+[Safe Harbor](https://web.archive.org/web/20060629035358id_/http%3A//www.hardrock.com/privacy/safeharbor.asp)  
+[Terms of Use](https://web.archive.org/web/20060629035358id_/http%3A//www.hardrock.com/privacy/terms.asp)   
   
 | 
 
-**Information Collection and Use**   
-Hard Rock Cafe is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Hard Rock Cafe collects information from our users at several different points on our website. 
+We respect the privacy of every individual who visits this site. This Privacy Policy explains how www.HardRock.com (“Website”) collects and otherwise processes personally identifiable information (“Personal Information”). 
 
-**Registration**   
-In order to use portions of this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site or in our stores for which they have expressed interest. It is optional, but encouraged for the user to provide demographic information (such as income level and gender) and unique identifiers so we can provide a more personalized experience on our site. 
+You may choose to submit Personal Information (such as your name, address, e-mail address and telephone number) to us at several different points on our website. We collect and use Personal Information for business purposes only. We will not share this information in ways different from what is disclosed in this statement. If you have any questions about this Privacy Policy or the Website, please contact us at [customer_care@HardRock.com](mailto:customer_care@HardRock.com). 
 
-**Order**   
-We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+Who is collecting your information  
+The Website is owned and operated by Hard Rock Cafe International (USA), Inc. (“Hard Rock”). This Policy applies only to [www.hardrock.com](http://www.hardrock.com/). Hard Rock is the sole owner of the information collected on the Website. All websites operated by Hard Rock will adhere to this Policy.
 
-**Cookies**   
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.   
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
+FRANCHISEE WEBSITES   
+Many Hard Rock establishments are owned and operated by franchisees, who are independent businesspersons. Some franchisees also operate websites. Many, but not necessarily all, franchisee sites follow this privacy policy. Therefore, please review each site’s privacy policy. 
 
-**Sharing**   
-From time to time, we may share our user's contact information with our partner's, affiliates or advertisers. We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We partner with other parties to provide specific services. When the user signs up for these services, we will share names or other contact information that is necessary for the third parties to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
+LINKS   
+This Hard Rock Website contains links to other sites whose privacy policies may differ from those of Hard Rock. We cannot be responsible for the privacy policies and practices of other websites even if you access them using links from our Website. 
 
-**Tell-A-Friend**   
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Hard Rock Cafe will automatically send the friend a one-time email inviting them to visit the site. Hard Rock Cafe stores this information for the sole purpose of sending this one-time email. The friend may contact Hard Rock Cafe at webeditor@hardrock.com to request the removal of this information from their database. 
+WHAT INFORMATION WE COLLECT  
+Information on www.hardrock.com is gathered in two ways: (1) indirectly, i.e., certain anonymous information about all visitors, such as domain name, browser type and page views, which is collected through our site's technology and is not linked to individual identities (see “Cookies” below); and (2) directly, when you voluntarily submit Personal Information such as, first and last names, addresses and email addresses, on various pages of www.hardrock.com. When we collect this type of information, we will notify you as to why we are asking for information and how this information will be used. 
 
-**Links**   
-This web site contains links to other sites. Please be aware that we Hard Rock Cafe are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+COOKIES   
+Some information that we collect about subscribers is collected passively through the use of “cookies.” Cookies are small files of information, which save and retrieve information about your visit to HardRock.com - for example, how you entered and navigated our site, and what information was of interest to you. The cookies we use do not contain personally identifiable information. 
 
-**Newsletter**   
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. 
+SUBSCRIBERS/ORDERS   
+In order to use portions of this website, a user must first complete a registration form. If you wish to subscribe to any of the Hard Rock services or register for any of our Website programs, such as ‘All Access’ or ‘Pin Collectors Club’ (“Services”), we will need to collect certain Personal Information about you, such as your name, email address and contact details, and, if applicable, credit card payment information. This information is used to contact the user about the specific services on our site or in our stores for which they have expressed interest. For some Website services, you will be asked to provide a password and user identification. This information is collected to confirm eligibility for use of the online services and to establish the identity of the authorized user. 
 
-**Surveys & Contests**   
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+We also request information from the user on our order form. Here a user must provide contact details and financial information, such as credit card payment information. This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
 
-**Security**   
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.   
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.   
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.   
-If you have any questions about the security at our website, you can send an email to security@hardrock.com. 
+SURVEYS & CONTESTS   
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary. Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of the Website and other Hard Rock services. 
 
-**Supplementation of Information**   
-In order for this website to enhance its ability to tailor the site to an individual's preference, we combine information about the purchasing habits of users with similar information from our partners, CIS Technology & Alliance, to create a personalized user profile. When a user makes a purchase from either of these two companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences. 
+HOW WE USE YOUR INFORMATION AND WHO WE SHARE IT WITH   
+During the course of business, we may disclose Personal Information to third-party service providers who have been legally contracted to help us with these tasks, and are prohibited from using it for any other purpose. We may also need to disclose Personal Information where required by law, court order, or in connection with the sale or transfer of all or part of the business. 
 
-**Special Offers**   
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter from Hard Rock Cafe or our partners, affiliates, or advertisers. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
+CHOICE/OPT-OUT   
+Our users are given the opportunity to 'opt-out' of having their Personal Information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product or register for a service from us, but don't want any marketing material, can keep their email address off of our lists.
 
-**Site and Service Updates**   
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
+HARD ROCK –3RD PARTY DISCLOSURE POLICY   
+We may, under limited circumstances, send you offers for related products or services from affiliated Hard Rock companies or jointly offered by Hard Rock together with select third parties. These offers are sent only to those users who have not ‘opted-out’ of receiving marketing materials from Hard Rock. 
 
-**Correction/Updating Personal Information:**   
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. [Some sites may also provide telephone or postal mail options for updating or correcting personal information]. 
+CONSENT TO SHARING OF PERSONAL INFORMATION   
+As a global organization, data we collect may be transferred internationally throughout Hard Rock’s worldwide organization. Some of these foreign jurisdictions may not provide the same level of privacy protection as your local jurisdiction. By purchasing Services and submitting Personal Information through the Website, you consent to such transfers of your Personal Information. Without such consent, Hard Rock is not able to provide you with access to its online services. 
 
-**Protecting Children:**   
-Hard Rock Cafe takes special care to protect the safety and privacy of children. Our web sites are general audience sites. We do not permit anyone under the age of 13 to register with us. We also do not send email correspondence to anyone who tells us that they are under the age of 13. Children under the age of 13 should always ask their parents or guardians for permission before providing any personal information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the web. 
+PUBLIC FORUMS  
+This site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information you disclose in a public forum will be available to other visitors to our Website. To the extent you disclose your information to other parties, their use of the information will not be subject to this Privacy Policy. 
 
-**Choice/Opt-out**   
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.  
-Users who no longer wish to receive our e-mail newsletter or promotional materials from our partners may opt-out simply by clicking the unsubscribe link at the bottom of the e-mail. You may also unsubscribe at any time by e-mailing [customer_care@hardrock.com](mailto:customer_care@hardrock.com) . Type UNSUBSCRIBE in the subject line. We will update your records as soon as possible, but no later than 30 days from your request.  
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+CONDOMINIUM SUBMISSIONS   
+We request information from those users that are interested in receiving information about the Hard Rock Hotel Condominium Residences. Because these Residences are not owned, developed or sold by us or any of our affiliates, but rather by a third party developer, if you submit information to us for this purpose, we will collect the information, provide a copy of the information to the developer (so that they can contact you and follow up on your request) and retain a copy of the information for our records and use. This information shall be owned jointly by the third-party developer and us. Notwithstanding anything in this policy to the contrary, we will not monitor the developer’s use of this information and in no event will we be responsible for the developer’s use of the information, which may or may not be used consistent with the terms of this Privacy Policy. For example, if you want to opt out of further uses of your information by developer or update your information, you will need to contact the developer directly. If you do not want the information shared with the developer consistent with these conditions, do not submit your information for this purpose. To review the developer’s privacy policy, [click here](http://www.hardrockcondos.com/privacy-policy.html)
 
-**Notification of Changes**   
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+PROTECTING CHILDREN:  
+Hard Rock Cafe takes special care to protect the safety and privacy of children. For that reason, we never collect or maintain information at our website from those we actually know are under 13. Our websites are general audience sites. 
+
+HOW TO ACCESS AND UPDATE USER INFORMATION   
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by clicking the unsubscribe link at the bottom of the email or contacting [customer_care@hardrock.com](mailto:customer_care@hardrock.com). 
+
+We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below. In some cases we may need to use Personal Information obtained previously to verify your identity. 
+
+HOW WE ENSURE THE SECURITY OF YOUR DATA  
+When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. 
+
+We have also implemented additional technology, as well as policies and procedures to safeguard your privacy from unauthorized access or use and will continue to update these measures as new technology becomes available. 
+
+HOW TO CONTACT US   
+You may address all communications to Privacy Policy, Hard Rock Café International (USA), Inc., 6100 Old Park Lane, Orlando, FL. 32835, or e-mail [customer_care@hardrock.com](mailto:customer_care@hardrock.com). Please include your name, address and phone number or e-mail in all communications and state clearly the nature of your request.
+
+ENFORCEMENT  
+This website is compliant with the U.S. Commerce Department Safe Harbor provisions. In order to demonstrate that our privacy policy accords with the above privacy instrument, we are voluntarily committed to a Self Assessment procedure. If you feel that Hard Rock has not complied with the policies outlined in this privacy policy please contact us at [customer_care@hardrock.com](mailto:customer_care@hardrock.com), attention: Privacy Compliance. The Company will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the principles contained in this Policy. For complaints that cannot be resolved between the Company and the complainant, the Company has agreed to participate in the dispute resolution procedures of the American Arbitration Association (“AAA”) in accordance with its applicable commercial rules as well as the Safe Harbor Principles.   
+  
+CHANGES TO OUR PRIVACY POLICY   
+This privacy policy is effective as of November 1, 2005. If we make any changes our Policy, we will post the updated Policy, provided an updated homepage link, and may post other places we deem appropriate. Users who have authorized e-mail communication will be notified via e-mail of any material changes to the Policy. We will use Personal Information in accordance with the Privacy Policy under which it was collected. 
 
 **YOUR CALIFORNIA PRIVACY RIGHTS / NOTICE FOR CALIFORNIA RESIDENTS**  
 California residents who have provided personal information to Hard Rock may obtain information regarding Hard Rock's disclosures, if any, of personal information to 3rd parties for 3rd party direct marketing purposes. Requests must be submitted to the following address: Hard Rock Cafe International (USA), Inc., 6100 Old Park Lane, Orlando, FL 32835. Attn.: California Privacy. Within 30 days of receiving such a request, we will provide a California Privacy Disclosure, which will include a list of certain categories of personal information disclosed during the preceding calendar year to 3rd parties for their direct marketing purposes, along with the names and addresses of the 3rd parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.   
@@ -72,7 +83,7 @@ California residents who have provided personal information to Hard Rock may obt
 |   
 |  [](https://web.archive.org/corporate/)  
   
-[](https://web.archive.org/corporate/mission/)  
+[](https://web.archive.org/corporate/news/)  
 [](https://web.archive.org/corporate/management/)  
 [](https://web.archive.org/corporate/history/)  
 [](https://web.archive.org/corporate/press/default.aspx)  
