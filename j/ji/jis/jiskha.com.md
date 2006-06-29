@@ -1,45 +1,10 @@
-> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223082625id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiskha.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629222344id_/http%3A//www.jiskha.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Jiskha Homework Help - Legal: Privacy Policy
 
-|  **Subjects**   
-[Art](http://www.jiskha.com/art/)   
-[Business](http://www.jiskha.com/business/)   
-[Computers](http://www.jiskha.com/computers/)   
-[**English**](http://www.jiskha.com/english/)   
-[Foreign Languages](http://www.jiskha.com/foreign_languages/)   
-[Health](http://www.jiskha.com/health/)   
-[Home Economics](http://www.jiskha.com/home_economics/)   
-[**Mathematics**](http://www.jiskha.com/mathematics/)   
-[Music](http://www.jiskha.com/music/)   
-[Physical Education](http://www.jiskha.com/physical_education/)   
-[**Science**](http://www.jiskha.com/science/)   
-[**Social Studies**](http://www.jiskha.com/social_studies/)
-
-**Features**   
-[Contribute](http://www.jiskha.com/features/contribute/)   
-[Experts](http://www.jiskha.com/features/experts/)   
-[**Forum**](http://www.jiskha.com/features/forum/)   
-[Job Openings](http://www.jiskha.com/features/job_openings/)   
-[Homework Tips](http://www.jiskha.com/features/homework_tips/)   
-[Libraries.Jiskha](http://www.jiskha.com/libraries/)   
-[Link to Us](http://www.jiskha.com/features/link_to_us/)   
-[Reference](http://www.jiskha.com/features/reference/)   
-[School Supplies](http://www.jiskha.com/school_supplies/)   
-[Search](http://www.jiskha.com/search/)   
-[WebRing](http://www.jiskha.com/features/webring/)
-
-**Which school subject is hardest?** |   
----  
-| Math   
-| Science   
-| English   
-| Social Studies  
+|   
+---|---  
   
-[view results](http://www.jiskha.com/features/poll/)  
-  
-|  | 
-
 This is the website of **Jiskha Homework Help** located online at [http://www.jiskha.com](http://www.jiskha.com/). Jiskha Homework Help is abbreviated as "we" and "us" in the following privacy policy. 
 
 **Data Collection**
@@ -76,4 +41,6 @@ Thank you for taking the time to read this privacy policy. Jiskha Homework Help 
 
 [hip hop vinyl](http://www.irismika.com/english/)
 
-**[Submit your own essays and reports to Jiskha.com!](https://web.archive.org/features/contribute/)**
+**[Submit your own essays and reports to Jiskha.com!](http://www.jiskha.com/features/contribute/)**
+
+[**digital record pool**](http://www.worksessions.com/)
