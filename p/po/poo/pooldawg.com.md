@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pooldawg.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218163417id_/http%3A//www.pooldawg.com/shop/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pooldawg.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629080057id_/http%3A//www.pooldawg.com/shop/customer/help.php%3Fsection%3Dbusiness%26PHPSESSID%3Dd3511cbf9d50cadc674d66e8ebb49cb0) for the most accurate reproduction.*
 
 # - Help section
 
-[Pool Dawg](http://www.pooldawg.com/?PHPSESSID=a9e299630ce46743958ddece6a1f6bd1) :: Help zone
+[Pool Dawg](http://www.pooldawg.com/?PHPSESSID=cf28c5559bfb6214b3a214912d78d2be) :: Help zone
 
 |   Shipping & Customer Service  
 ---  
@@ -71,7 +71,7 @@ Special note: Warping once a cue is chalked is not considered a defect.
 
 **To process a return or exchange:**
 
-1\. Please call us at 866.843.3294 or email us at info@pooldawg.com. We will issue a UPS call tag upon hearing from you.  
+1\. Please call us at 866.843.3294 or email us at info@pooldawg.com. We will issue a UPS call tag upon hearing from you. **Please note tha twe cannot offer call tag service to countries outside of the United States**.  
 2\. Pack your product/s securely and in appropriate packaging. Damage to products due to poor packaging can affect your refund.  
 3\. Once we receive your product, we will process a credit to your credit card within 24hours of our evaluation of the product/s. Please allow additional time for the credit of your return to show up on your statement. Purchases made by check must wait for the original check to clear prior to receiving your money back. You can receive a store credit once the product returned is received and evaluated.  
 4\. If for some reason there is an error on our part with the shipping process we will arrange for the product to be picked up and returned to you at our expense.   
