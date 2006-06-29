@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the closetmaid.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231095741id_/http%3A//www.closetmaid.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the closetmaid.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629154112id_/http%3A//www.closetmaid.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # ClosetMaid - MAIN
 
-|  |   
----  
-| [](http://www.closetmaid.com/closet/index.cfm) | [](http://www.closetmaid.com/bedroom/index.cfm) | [](http://www.closetmaid.com/garage/index.cfm) | [](http://www.closetmaid.com/kitchen/index.cfm) | [](http://www.closetmaid.com/laundry/index.cfm) | [](http://www.closetmaid.com/bath/index.cfm)  
----|---|---|---|---|---  
-  
 |  Privacy Policy
 
 ClosetMaid respects the individuals who visit our website and/or receive our electronic communications. ClosetMaid will not share or sell a user's email address or other specific personal information for marketing purposes. This Privacy statement will explain what user information is collected, how the information is used, saved and protected. It will also explain how to correct or remove personal information from our records.  
