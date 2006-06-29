@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queendom.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212131110id_/http%3A//www.queendom.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queendom.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629052431id_/http%3A//www.queendom.com/about/privacy.html) for the most accurate reproduction.*
 
 # Queendom's Privacy Policy
 
@@ -55,6 +55,6 @@ Advertisers and other sites
 > Queendom.com is not responsible for the content or the privacy policies of any of the sites that we link to.   
   
   
-Copyright© 1996 - 2005 [QueenDom.Com](http://www.queendom.com/)TM  
+Copyright© 1996 - 2006 [QueenDom.Com](http://www.queendom.com/)TM  
   
 
