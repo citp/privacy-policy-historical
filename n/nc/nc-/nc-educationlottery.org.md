@@ -1,0 +1,24 @@
+> *The following text is extracted and transformed from the nc-educationlottery.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629201658id_/http%3A//www.nc-educationlottery.org/privacy_policy.aspx) for the most accurate reproduction.*
+
+# Privacy Policy - North Carolina Education Lottery
+
+---  
+  
+  
+
+
+Generally, our Internet Service Provider (ISP) automatically captures the following information during each visit to this website: your domain name, the date and time of your access, the pages of our website that your visited, the internet address and name of the page that referred you to our website, your current network internet address (IP address), brand of browser and version used to access our website, and the operating system you are using.  The information gathered is used to assist us in determining how to make our website more useful and accessible to visitors. The information is given to us in an aggregate form such that no single user is identified. 
+
+We may also retain any information that you voluntarily provide to us, such as your name, address, etc.  We collect information on individuals who communicate with us via email or who voluntarily submit forms on our website.  When you convey this information to us, you are authorizing us (and all third parties authorized by us) to use, transmit, disclose and store such information for all purposes necessary to consummate the transaction you have requested.  Further, your communicating with us by email is your acknowledgment that you agree to conduct business using email; however, the NCEL reserves the right to use the method of communication it deems best in interacting with you.  Your email address may be retained for further communication with you and for NCEL marketing purposes, such as promotional information, surveys, jackpot alerts and other internal uses.
+
+  Our site may use “cookies”, both persistent and non-persistent, to store information.  Cookies are small data files that can be stored on your computer system that contain information pertinent to our website.  The cookies will not contain personally identifiable information and in most instances are encrypted.
+
+## How the Information is Used
+
+Typically, the information automatically collected and voluntarily submitted is used to provide a more personal experience.  We strive to present you with the information, which is most pertinent to your specific needs.  We also use the information to operate and improve our website, to gather information about our products and services, to gather aggregate user and customer information, and to provide information about our products and services. As an example, we may send you an email that describes a product or service that we are offering. 
+
+Reasonable care will be utilized to ensure that the file(s) that may personally identify you are kept in a secured location.  The files and the data contained in these files are the sole property of the NCEL.  Information contained in these files may be routinely purged at the discretion of the NCEL.
+
+## More Information
+
+If you have questions about the practices of this website, or your interaction with the site, please contact us at: _[website@lotterync.net](mailto:website@lotterync.net)_. 
