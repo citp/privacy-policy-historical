@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workbook.com privacy policy that was archived on 2005-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051126003145id_/http%3A//www.workbook.com/legal/privacypolicy.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workbook.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629152820id_/http%3A//workbook.com/legal/privacypolicy.lasso) for the most accurate reproduction.*
 
 # Legal
 
