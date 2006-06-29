@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the f-secure.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218225204id_/http%3A//f-secure.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f-secure.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629073043id_/http%3A//www.f-secure.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # F-Secure : Welcome to F-Secure, Securing the Mobile Distributed Enterprise
 
