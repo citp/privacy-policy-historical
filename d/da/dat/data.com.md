@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the data.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230062406id_/http%3A//www.cmp.com/delivery/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629150518id_/http%3A//www.cmp.com/delivery/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -11,9 +11,9 @@
   
 ## CMP PRIVACY STATEMENT 
 
-_Last Updated: December 9, 2005 _
+_Last Updated: February 7, 2006 _
 
-CMP MEDIA LLC and its affiliates CME LLC, CMP HEALTHCARE MEDIA LLC and CMP HEALTHCARE MEDIA GROUP LLC (collectively referred to in this Privacy Statement as "we" or "CMP") recognize the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all other customers of our products and services. We created this policy with a fundamental respect for our customers' right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned by CMP. A current list of our publications, web sites, online webcasts, newsletters and trade shows can be found at [http://www.cmp.com/](http://www.cmp.com.com/).
+CMP MEDIA LLC and its affiliates CME LLC, CMP HEALTHCARE MEDIA LLC, CMP HEALTHCARE MEDIA GROUP LLC , Shorecliff Holdings LLC and CMP-Cybermedia LLC (collectively referred to in this Privacy Statement as "we" or "CMP") recognize the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all other customers of our products and services. We created this policy with a fundamental respect for our customers' right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned by CMP. A current list of our publications, web sites, online webcasts, newsletters and trade shows can be found at [http://www.cmp.com/](http://www.cmp.com.com/).
 
 **INFORMATION COLLECTION AND USE**  
 CMP collects information from our website users, subscribers and other customers. In this section of our Privacy Statement, we describe the type of information we collect and how we use it to provide better services to our customers.
@@ -57,7 +57,11 @@ For our internal purposes, we gather date, time, browser type, navigation histor
 We may combine demographic information supplied by a customer at registration with web site usage data to provide general profiles, in aggregate non-personally identifiable form, about our customers and their preferences in the content of the site and advertising. We may share this composite information with our advertisers and business affiliates to help them better understand our services. 
 
 **WITH WHOM YOUR INFORMATION IS SHARED**   
-When we have co-branded, customized, private label, "powered by" or sponsored products and services, or when we join with other parties to provide specific services (however, we do not share credit card information with such third parties), then, subject to the given customer's preferences (as described in the "Permission" section below), we may share (provide and receive) personal information with such third party. In particular, please note that, subject to the given customer's preferences (as described in the "Permission" section below), information collected in connection with online webcasts, such as at www.netseminar.com, will be shared with the sponsor of the particular webcast(s)/seminar(s). These sponsors will use the information according to their own privacy policies, and we urge participants to read those policies and be aware of their privacy practices before registering. 
+When we have co-branded, customized, private label, "powered by" or sponsored products and services, or when we join with other parties to provide specific services (however we do not share credit card information with such third parties), then we may share (provide and receive) personal information with such third party, subject to (other than with respect to users of Techonline.com and related sites) the customer's preferences (as described in the "Permission" section below).  In particular, please note that information collected in connection with online webcasts, such as at [www.netseminar.com](http://www.netseminar.com/), will be shared with the sponsor of the particular webcast(s)/seminar(s), subject to (other than with respect to users of Techonline.com and related sites) the given customer's preferences (as described in the "Permission" section below). 
+
+These sponsors will use the information according to their own privacy policies, and we urge participants to read those policies and be aware of their privacy practices before registering. 
+
+On Techonline.com and related sites, if a user affirmatively clicks through to access sponsored content or materials at those sites, that user's information may be shared with the sponsor. 
 
 In addition, at EEProductCenter.com and related sites, information may be shared with selected advertisers if a user affirmatively clicks through on a link/ad to such advertiser at those sites or in e-mails. 
 
@@ -71,7 +75,7 @@ We may share aggregate information, which is not personally identifiable, with o
 If your personally identifiable information changes (such as zip code), or if you no longer desire our product(s)/service(s), we provide a way to correct or update your personal data: you may either contact Customer Support for the applicable product or service or, to change your preferences, complete the "Feedback" page as described in the "Permission" section below.
 
 **PERMISSION**   
-Our customers are given the opportunity to choose whether to receive information from our affiliates and us not directly related to the product or service for which they registered (or which they otherwise agreed to receive). Customers also have the opportunity to choose whether to have personal information shared with third parties for marketing purposes. Instructions for how to exercise these choices are contained in e-mails sent by us, on our product websites and in each of our publications. Customers also can go to our "Feedback" page at any time, at <http://www.cmp.com/feedback/permission.jhtml> to change their preferences. In addition, for those customers that are California residents, you may have additional rights, as described in the "Your California Privacy Rights" section below. 
+Our customers are given the opportunity to choose whether to receive information from our affiliates and us not directly related to the product or service for which they registered (or which they otherwise agreed to receive). Other than the sharing of user information with certain sponsors by Techonline.com and related sites, as set forth in the "With Whom Your Information Is Shared" section above, Customers also have the opportunity to choose whether to have personal information shared with third parties for marketing purposes. Customers also can go to our "Feedback" page at any time, at <http://www.cmp.com/feedback/permission.jhtml> to change their preferences. In addition, for those customers that are California residents, you may have additional rights, as described in the "Your California Privacy Rights" section below. 
 
 Please note that we will endeavor to implement your permission requests within a reasonable time, although for a time you may continue to receive mailings, etc., transmitted based on information released prior to the implementation of your request. In addition, please note that even after such request is implemented, you will continue to receive information directly related to the product or service for which you registered (or which you otherwise agreed to receive), so you always are kept informed. 
 
@@ -81,10 +85,14 @@ CMP Media LLC
 600 Community Drive   
 Manhasset NY 11030 privacyrequests@cmp.com
 
-**SECURITY** We use reasonable precautions to protect our customers' personal information and to store it securely. Sensitive information that is transmitted to us online (such as credit card number) is encrypted and is transmitted to us securely. In addition, access to all of our customers' information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers on which we store personally identifiable information are kept in a secure environment. 
+**SECURITY  
+**We use reasonable precautions to protect our customers' personal information and to store it securely. Sensitive information that is transmitted to us online (such as credit card number) is encrypted and is transmitted to us securely. In addition, access to all of our customers' information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers on which we store personally identifiable information are kept in a secure environment. 
 
 **LINKS**   
 Our web sites contain links to other sites. CMP is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personally identifiable information. 
+
+**CHILDREN**  
+CMP websites are not directed at individuals under thirteen years of age, and CMP does not intend to collect any personally-identifiable information from such individuals.
 
 **NOTIFICATION and CHANGES**   
 If we change our Privacy Statement, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
