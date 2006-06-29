@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elicense.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224031351id_/http%3A//www.elicense.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elicense.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629061536id_/http%3A//elicense.com/privacy.asp) for the most accurate reproduction.*
 
 # ViaTech Technologies, Inc. - Privacy Policy
 
@@ -56,4 +56,4 @@ ViaTech Technologies, Inc.
 
 * * *
 
-© 2005 ViaTech Technologies, Inc. [Privacy Policy.](https://web.archive.org/privacy.asp)
+© 2006 ViaTech Technologies, Inc. [Privacy Policy.](https://web.archive.org/privacy.asp)
