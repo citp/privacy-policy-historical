@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news.com.au privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214224953id_/http%3A//www.news.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news.com.au privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629191804id_/http%3A//www.news.com.au/privacy) for the most accurate reproduction.*
 
 # NEWS.com.au | Privacy Policy
 
