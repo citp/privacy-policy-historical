@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weforum.org privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218204827id_/http%3A//www.weforum.org/site/homepublic.nsf/Content/Privacy%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weforum.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629195821id_/http%3A//www.weforum.org/site/homepublic.nsf/Content/Privacy%2BStatement) for the most accurate reproduction.*
 
 # World Economic Forum - Privacy Statement
 
