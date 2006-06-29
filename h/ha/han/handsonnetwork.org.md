@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212133248id_/http%3A//www.handsonnetwork.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629175224id_/http%3A//www.handsonnetwork.org/privacy-policy) for the most accurate reproduction.*
 
 # Hands On Network - Privacy Policy
+
+[Home](http://www.handsonnetwork.org/home/) :: Privacy Policy 
 
 Thank you for visiting HandsOnNetwork.org. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this website.
 
