@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the workbook.com privacy policy that was archived on 2005-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051126003145id_/http%3A//www.workbook.com/legal/privacypolicy.lasso) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the workbook.com privacy policy that was archived on 2006-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060629152820id_/http%3A//workbook.com/legal/privacypolicy.lasso) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Legal</title>
@@ -54,6 +54,7 @@ function addWorkbookItem() {
 		<div id="WBHEADER" class="legal">
 		<!-- BEGIN WB HEADER -->
 		
+
 		<!-- BEGIN NAVIGATION -->
 			<a href="/" target="_top"><img id="WORKBOOKLOGO" src="/img/shared/logo_top.png" border="0" alt="WORKBOOK" width="129" height="16"></a>
 			<ul id="SECTIONNAV">
@@ -89,13 +90,14 @@ function addWorkbookItem() {
 					<li class="last"><a href="/fine-art/sculpture-3D/" target="_top"><img src="/img/toolbar/btn_mnu03_sub04.png" width="82" height="24" border="0" alt="Sculpture and 3D"></a></li>
 				</ul>
 				<ul id="PHONEBOOKSUB">
-					<li><a href="/phonebook/search_process.lasso?p=1&amp;SP=955018" target="_top"><img src="/img/toolbar/btn_mnu04_sub011.png" width="86" height="24" border="0" alt="Search Results"></a></li>
+					<li><a href="/phonebook/search_process.lasso?p=&amp;SP=1210900" target="_top"><img src="/img/toolbar/btn_mnu04_sub011.png" width="86" height="24" border="0" alt="Search Results"></a></li>
 					<li><a href="/phonebook/free_listing.lasso" target="_top"><img src="/img/toolbar/btn_mnu05_sub05.png" width="68" height="24" border="0" alt="Free Listing"></a></li>
 					<li><a href="/phonebook/update_listing.lasso" target="_top"><img src="/img/toolbar/btn_mnu05_sub06.png" width="75" height="24" border="0" alt="Update Listing"></a></li>
 					<li><a href="/phonebook/assistance/" target="_top"><img src="/img/toolbar/btn_mnu04_sub012.png" width="107" height="24" border="0" alt="Directory Assistance"></a></li>
 					<li class="last"><a href="/phonebook/search_tips.lasso" target="_top"><img src="/img/toolbar/btn_mnu04_sub013.png" width="66" height="24" border="0" alt="Search Tips"></a></li>
 				</ul>
 				<ul id="ASSIGNMENTSUB">
+					<li><a href="/assignment/results.lasso" target="_top"><img src="/img/toolbar/btn_mnu01_sub07.png" width="86" height="24" border="0" alt="Search Results"></a></li>
 					<li><a href="/assignment/photographers/" target="_top"><img src="/img/toolbar/btn_mnu01_sub01.png" width="83" height="24" border="0" alt="Photographers"></a></li>
 					<li><a href="/assignment/illustrators/" target="_top"><img src="/img/toolbar/btn_mnu01_sub02.png" width="70" height="24" border="0" alt="Illustrators"></a></li>
 					<li><a href="/assignment/designers/" target="_top"><img src="/img/toolbar/btn_mnu01_sub03.png" width="59" height="24" border="0" alt="Designers"></a></li>
@@ -106,7 +108,7 @@ function addWorkbookItem() {
 					<li><a href="/advertise/" target="_top"><img src="/img/toolbar/btn_mnu05_sub011.png" width="85" height="24" border="0" alt="Advertising Info"></a></li>
 					<li><a href="/resources/adfinder/" target="_top"><img src="/img/toolbar/btn_mnu05_sub04.png" width="58" height="24" border="0" alt="TEMPALTTAG"></a></li>
 					<li><a href="/resources/bookstore/" target="_top"><img src="/img/toolbar/btn_mnu05_sub02.png" width="61" height="24" border="0" alt="Bookstore"></a></li>
-					<li><a href="/resources/events-contests/11/" target="_top"><img src="/img/toolbar/btn_mnu05_sub03.png" width="95" height="24" border="0" alt="Events &amp; Contests"></a></li>
+					<li><a href="/resources/events-contests/6/" target="_top"><img src="/img/toolbar/btn_mnu05_sub03.png" width="95" height="24" border="0" alt="Events &amp; Contests"></a></li>
 					<li class="last"><a href="/resources/mailing-lists/" target="_top"><img src="/img/toolbar/btn_mnu05_sub01.png" width="73" height="24" border="0" alt="Mailing Lists"></a></li>
 				</ul>
 			</div>
@@ -124,22 +126,30 @@ function addWorkbookItem() {
 
 
 <!-- last active section: "" -->
-
 <script type="text/javascript">
-	function validateSForm()
+<!-- 
+	function validateSForm(doAlert)
 	{
+		if(doAlert == null) { doAlert = true }
 		var gFormOK	= true;
 		var selEle	= document.getElementById('sType');
-		if(selEle != null)
+		if(selEle && selEle.value == '')
 		{
-			if(selEle.options[selEle.selectedIndex].value == '')
-			{
-				gFormOK	= false;
-				alert("You must select a section to search.");
-				return false;
+			gFormOK	= false;
+			if(doAlert) {
+				add_class($("sectionCell"), "alert");
+				$("sType").focus();
 			}
+			return false;
+		}
+		else 
+		{
+			remove_class($("sectionCell"), "alert");
+			$("atName").focus();
+			$("atName").select();
 		}
 
+		/*
 		if(document.getElementById('atName') != null)
 		{
 			if(document.getElementById('atName').value == '')
@@ -149,31 +159,33 @@ function addWorkbookItem() {
 				return false;
 			}
 		}
+		*/
 
 		return gFormOK;
 	}
-
+// -->
 </script>
-
 <form method="get" action="/home/search_process.lasso" class="simple" onsubmit="return validateSForm()">
+<input type="hidden" name="rememberSec" value="true" id="rememberSec">
 <table id="SEARCHTABLE" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td class="nopadding"><div id="advancedToggleSpacer"></div></td>
-		<td class="fcell" valign="middle">
+		<td class="fcell" id="sectionCell" valign="bottom">
 			<div style="margin-right: 10px;">
-				<select name="sType" id="sType">
+				<label for="sType" id="sectionAlert">Please select a section:</label>
+				<select name="sType" id="sType" onchange="validateSForm(false)">
 					<option value="">Where do you want to Search?</option>
-					<option value="ap">Assignment</option>
-					<option value="sk">Stock</option>
-					<option value="fa">Fine Art</option>
-					<option value="pb">Phonebook</option>
+					<option value="ap">Search in Assignment</option>
+					<option value="sk">Search in Stock</option>
+					<option value="fa">Search in Fine Art</option>
+					<option value="pb">Search in Phonebook</option>
 				</select>
 			</div>
 		</td>
-		<td class="fcell" valign="middle">
+		<td class="fcell" valign="bottom">
 			<div class="funit2"><input type="text" name="atName" id="atName"></div>
 		</td>
-		<td class="nopadding" valign="middle"><input style="width: 35px; height: 19px; border: none; margin-right: 2px; margin-left: 2px;" type="image" name="submit" src="/img/buttons/btn_find.png"><a href="#" style="width: 35px; height: 19px; border: none; margin-right: 2px; margin-left: 2px;" onclick="clearSearchForm(new Array());"><img src="/img/buttons/btn_clear.png" border="0" alt="clear search form"></a></td>
+		<td class="nopadding" valign="bottom"><input style="width: 35px; height: 19px; border: none; margin-right: 2px; margin-left: 2px;" type="image" name="submit" src="/img/buttons/btn_find.png"><a href="#" style="width: 35px; height: 19px; border: none; margin-right: 2px; margin-left: 2px;" onclick="clearSearchForm(new Array());"><img src="/img/buttons/btn_clear.png" border="0" alt="clear search form"></a></td>
 	</tr>
 </tbody></table>
 </form>
@@ -393,12 +405,15 @@ function addWorkbookItem() {
 					<li><a href="/resources/">Resources</a></li>
 					<li><a href="/resources/mailing-lists/">Mailing Lists</a></li>
 					<li><a href="/resources/bookstore/">Bookstore</a></li>
+					<li><a href="/mywb/">My Workbook</a></li>
 				</ul>
 				<ul id="FOOTSITEPAGES1">
 					<li><a href="/contact/">Contact Us</a> |</li>
 					<li><a href="/about/">About Us</a> |</li>
 					<li><a href="/help/">Help |</a></li>
-					<li><a href="/advertise/">Advertise</a> |</li>
+					<li><a href="/advertise/">Advertising Info</a> |</li>
+					<li><a href="/advertise/downloads/">Downloads</a> |</li>
+					
 					<li><a href="/account/summary.lasso">Your Account</a> |</li>
 					<li><a href="javascript:feedback('/legal/privacypolicy.lasso');">Feedback</a></li>
 
@@ -408,7 +423,7 @@ function addWorkbookItem() {
 					<li><a href="/legal/siteterms.lasso">Site Terms</a> |</li>
 					<li><a href="/legal/privacypolicy.lasso">Privacy Policy</a></li>
 				</ul>
-				<span id="FOOTCOPYRIGHT">Copyright © 2005 Workbook, Inc. All rights reserved.</span>
+				<span id="FOOTCOPYRIGHT">Copyright © 2006 Workbook, Inc. All rights reserved.</span>
 			</div>
 <!-- DEBUG CODE -->
 
