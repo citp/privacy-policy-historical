@@ -1,0 +1,1535 @@
+<!--The following is the downloaded HTML source of the brookings.edu privacy policy that was archived on 2006-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060629063439id_/https%3A//www.brookings.edu/about/privacy_policy.htm) for the most accurate reproduction.-->
+
+<html><head><title>Brookings Institution Privacy Policy </title><!-- in metadata tag with url request /about/privacy_policy.htm -->
+<!-- pagedef url is /about/privacy_policy.htm -->
+<!-- RIO Set to /rios/generic/c099dcd4749fff3f44092d340a1415cb.xml-->
+<meta name="bi_doccomp" content="Page">
+<meta name="bi_doctype" content="Generic">
+<meta name="bi_interactive" content="N/A">
+<meta name="bi_mediatype" content="Text">
+<meta name="bi_pagetype" content="Leaf 1">
+<meta name="bi_priority" content="Priority 10">
+<meta name="created_by" content="fdews">
+<meta name="created_date" content="1076b371951">
+<meta name="description" content="Brookings Institution Privacy Policy">
+<meta name="keywords" content="privacy,policy">
+<meta name="name" content="Brookings Privacy Policy">
+<meta name="published_date" content="">
+<script language="JavaScript1.2">
+<!-- //
+
+// BROWSER DETECTION
+	var bn = navigator.appName;
+	var ba = navigator.appVersion;
+	var bu = navigator.userAgent;
+	var bv = parseFloat(navigator.appVersion);
+	var IE = (bn == "Microsoft Internet Explorer");
+		var IE4 = (IE && bv >= 4 && ba.indexOf('MSIE 4.0;') < 0 && ba.indexOf('MSIE 4.01;') < 0);
+		var IE5 = (IE && bv >= 4 && ba.indexOf('MSIE 5') > 0);
+	var NS = (bn == "Netscape");
+		var NS4 = (NS && bv >= 4 && bv < 5);
+		var NS5 = (NS && bv >= 5);
+		var NS6 = (NS5 && bv >= 4 && bu.indexOf('Netscape6') > 0);
+
+// NS BROWSER SAFETY
+	if (document.layers) {origWidth = innerWidth; origHeight = innerHeight; onresize = reDo;}
+	function reDo() {if (innerWidth != origWidth || innerHeight != origHeight) location.reload();}
+
+// FLAGS
+	var menus = (NS4 || IE4) ? true : false;
+
+// NON-DHTML BACKUP MENU
+	function toggle(item){
+		top.location.href = "/" + item + "/";
+	}
+
+// LOAD IMAGES
+	if (document.images) {
+		arrow_up=new Image(); arrow_up.src="/images/nav/arrow_up.gif";
+		arrow_up_on=new Image(); arrow_up_on.src="/images/nav/arrow_up_on.gif";
+		arrow_down=new Image(); arrow_down.src="/images/nav/arrow_down.gif";
+		arrow_down_on=new Image(); arrow_down_on.src="/images/nav/arrow_down_on.gif";
+	}
+// -->
+</script>
+
+<script language="JavaScript1.2">
+<!-- //
+// DHTML MENU
+function toggle(item,state){
+	if (menus && IE4) {
+		// toggle menu for IE
+		menu = eval(item + "Menu");
+		menu.style.display = (menu.style.display == "none" ) ? "" : "none";
+		// toggle arrow for IE
+		if (state == "on") {
+			state = "_on";
+		}
+		if (menu.style.display == "none") {
+				document.images[item].src = eval("arrow_up" + state + ".src");
+		} else {
+				document.images[item].src = eval("arrow_down" + state + ".src");
+		}
+	} else if (menus && NS4) {
+		// toggle menu for NS
+		menu = eval("document." + item + "Menu");
+		if (menu.visibility == "hide") {
+			menu.visibility = "show";
+		}
+		else {
+			menu.visibility = "hide";
+		}
+		// toggle arrow for NS
+		image = eval("document." + item + "Toggle.document.images['" + item + "']");
+		if (menu.visibility == "hide") {
+			if (state == "on") {
+				image.src = arrow_up_on.src;
+			} else {
+				image.src = arrow_up.src;
+			}
+		} else {
+			if (state == "on") {
+				image.src = arrow_down_on.src;
+			} else {
+				image.src = arrow_down.src;
+			}
+		}
+		display();
+	} else {
+		// does not support dhtml
+		top.location.href = "/" + item + "/";
+	}
+}
+
+// STYLE SHEET
+document.write("<style type='text/css'>");
+if (menus && NS4) {
+	document.write(".navmenu {position:absolute; visibility:visible; left:7px;}");
+	document.write(".subnavmenu {position:absolute; visibility:hidden; left:7px;}");
+	document.write(".subnavmenu_on {position:absolute; visibility:visible; left:7px;}");
+	document.write(".nomenu {position:absolute; visibility:visible; left:7px;}")
+} else if (NS6) {
+	document.write(".subnavmenu {position:absolute; visibility:hidden}")
+} else if (menus && IE4) {
+	document.write(".subnavmenu {display: }")
+}
+document.write("<" + "/style>");
+
+// NETSCAPE DISPLAY FUNCTIONS
+function getindex(m) {
+	 if (menus && NS4) {
+		ind = null;
+		for (i=0; i<document.layers.length; i++) {
+			menu = document.layers[i];
+			if (menu.id == m) {
+				ind = i;
+				break;
+			}
+		}
+		return ind;
+	}
+}
+function display() {
+	 if (menus && NS4) {
+		nextmenu = document.layers[firstindex].pageY + document.layers[firstindex].document.height;
+		for (i=firstindex+1; i<document.layers.length; i++) {
+			menu = document.layers[i];
+			if (menu.visibility != "hide") {
+				menu.pageY = nextmenu;
+				nextmenu += menu.document.height;
+			}
+		}
+	}
+}
+
+// INIT FUNCTION
+function initmenus(){
+	if (menus && NS4) {
+		firstm = "homeToggle";
+		firstindex = getindex(firstm);
+		display();
+	} else if (IE4) {
+		divs = document.all.tags("div");
+		for (i=0; i<divs.length; i++) {
+			menu = divs(i);
+			if (menu.className == "subnavmenu") {menu.style.display = "none"};
+		}
+	}
+}
+
+// -->
+</script><style type="text/css"></style>
+
+<script language="JavaScript">
+<!-- //
+
+// TEMPORARY DATE SCRIPT (WILL BE SERVER-SIDE)
+var months = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
+var today = new Date();
+var monthname = months[today.getMonth()];
+var day = today.getDate();
+var year = thisyear(today);
+function thisyear(t) {
+	x = t.getYear();
+	var y = x % 100;
+	y += (y < 38) ? 2000 : 1900;
+	return y;
+}
+
+// -->
+</script>
+
+<script language="JavaScript1.2">
+function mailhide(Author_Name,Email_Account,Domain_Name,Suffix)
+{
+	var defAuthor="Brookings"
+	var defAccount="webmaster";
+	var defDomain="brookings";
+	var defSuffix="edu"
+	
+	if(!Author_Name) Author_Name=defAuthor;
+	if(!Email_Account) Email_Account=defName;
+	if(!Domain_Name) Domain_Name=defDomain;
+	if(!Suffix) Suffix=defSuffix;
+	
+	document.write('<a href=\"mailto:'+Email_Account+'@'+Domain_Name+'.'+Suffix+'\">');
+	document.write(Author_Name+'</a>');
+}
+function mailhide2(Email_Account,Domain_Name,Suffix,Title)
+{
+	
+	var defAccount="webmaster";
+	var defDomain="brookings";
+	var defSuffix="edu"
+	var defTitle = " ";
+	
+	
+	if(!Email_Account) Email_Account=defName;
+	if(!Domain_Name) Domain_Name=defDomain;
+	if(!Suffix) Suffix=defSuffix;
+	if(!Title) Title=defTitle;
+	
+	document.write('<a href=\"mailto:'+Email_Account+'@'+Domain_Name+'.'+Suffix+'?subject='+Title+'\">');
+	
+}
+
+function makenewwindow(newURL) {
+     var newwindow=null;
+     showURL="" + newURL;
+     newWindow = window.open(showURL,"new_window","toolbar=1,location=1,directories=0,status=1,menubar=0,scrollbars=1,resizable=1,copyhistory=1,width=600,height=300");
+     } 
+
+
+
+function makeNewWindow(newURL) {
+     var newwindow=null;
+     showURL="" + newURL;
+     newWindow = window.open(showURL,"new_window","toolbar=1,location=1,directories=0,status=1,menubar=0,scrollbars=1,resizable=1,copyhistory=1,width=600,height=300");
+     } 
+
+</script>
+
+<style type="text/css">
+//for survey form
+<!--
+ A.issue  {
+      color: #FFFFFF;
+      }
+ 
+ SPAN.nameplate {
+      position: absolute;
+      left: 140px;
+      top: 25px;
+      }
+ 
+ TD     {font-family: Arial,Helvetica,sans-serif;  font-size:10pt;}
+ TD.issue   {background-color:ffff00; font-weight:bold;}
+ TD.description {background-color:ffff99; font-size:7pt;}
+ TD.yeshead  {background-color:99cc66; font-size:8pt;}
+ TD.yes   {background-color:99cc66; font-size:8pt;}
+ TD.nohead  {background-color:cccc99; font-size:8pt;}
+ TD.no    {background-color:cccc99; font-size:8pt;}
+ TD.oldnohead  {background-color:ffcccc; font-size:8pt;}
+ TD.oldno    {background-color:ffcccc; font-size:8pt;}
+-->
+</style>
+
+<script language="JavaScript">
+//CPPE Registration Form
+
+function isNumber(theField)
+	{
+	oneDecimal = false
+	fldValue = theField.value
+	inputStr = "" + fldValue
+	for (var i = 0; i < inputStr.length; i++)
+		{
+		var oneChar = inputStr.charAt(i)
+			if (oneChar == "." && !oneDecimal)
+			{
+			oneDecimal = true
+			continue
+			}
+		if (oneChar < "0" || oneChar > "9")
+			{
+			alert ("This field accepts digits and a decimal point only!")
+			theField.value = eval(0)
+			theField.focus()
+			theField.select()
+			return(false)
+			break
+			}
+		}
+		return (true)
+	}
+
+
+function MakeArray(n) {
+        this.length = n;
+        return this;
+	}
+
+monthNames = new MakeArray(12);
+monthNames[1] = "January";
+monthNames[2] = "February";
+monthNames[3] = "March";
+monthNames[4] = "April";
+monthNames[5] = "May";
+monthNames[6] = "June";
+monthNames[7] = "July";
+monthNames[8] = "August";
+monthNames[9] = "September";
+monthNames[10] = "October";
+monthNames[11] = "November";
+monthNames[12] = "December";
+
+
+monthShortNames = new MakeArray(12);
+monthNames[1] = "Jan.";
+monthNames[2] = "Feb.";
+monthNames[3] = "Mar.";
+monthNames[4] = "Apr.";
+monthNames[5] = "May";
+monthNames[6] = "Jun.";
+monthNames[7] = "Jul.";
+monthNames[8] = "Aug.";
+monthNames[9] = "Sep.";
+monthNames[10] = "Oct.";
+monthNames[11] = "Nov.";
+monthNames[12] = "Dec.";
+
+
+dayNames = new MakeArray(7);
+dayNames[1] = "Sunday";
+dayNames[2] = "Monday";
+dayNames[3] = "Tuesday";
+dayNames[4] = "Wednesday";
+dayNames[5] = "Thursday";
+dayNames[6] = "Friday";
+dayNames[7] = "Saturday";
+
+
+function customDateString(oneDate) {
+        var theDay = dayNames[oneDate.getDay() + 1];
+        var theMonth = monthNames[oneDate.getMonth() + 1];
+        var theYear = oneDate.getFullYear();
+        return theDay + ", " + theMonth + " " + oneDate.getDate() + ", " + theYear;
+	}
+
+
+function formDateString(oneDate) {
+        var theDay = oneDate.getDay();
+        var formMonth = monthShortNames[oneDate.getMonth() + 1];
+        var theYear = oneDate.getFullYear();
+
+	}
+
+
+function setGsorcomp_toGov(which)
+	{
+		which.checked=1;
+	}
+
+
+function initGSLevel(which)
+	{
+		which.checked=1;
+	}
+
+
+function clearGovLevels(which)
+	{
+			for (var j=0; j<9; j++)
+			{
+				which[j].checked=0;
+			}
+	}
+
+
+function clearSubNos(which,wno1,wno2,wno3)
+	{
+				wno1.checked=0;
+				wno2.checked=0;
+				wno3.checked=0;
+	}
+
+
+function uncheckOpp(whichOpp)
+	{
+		whichOpp.checked=1;
+	}
+
+
+//  === Stop hiding script ======================================= -->
+</script>
+ 
+<script language="JavaScript">
+//for survey form 
+ var newWindow=null;
+ function makeNewWindow(newURL)
+  {
+  showURL="" + newURL
+  newWindow = window.open(showURL,"new_window","toolbar=1,location=1,directories=0,status=1,menubar=0,scrollbars=1,resizable=1,copyhistory=1,width=640,height=300")
+  }
+ 
+function clearSubYeses(which,wyes1,wyes2,wyes3)
+ {
+   for (var j=0; j<3; j++)
+   {
+    wyes1[j].checked=0;
+    wyes2[j].checked=0;
+    wyes3[j].checked=0;
+   }
+ }
+ 
+function clearSubNos(which,wno1,wno2,wno3)
+ {
+    wno1.checked=0;
+    wno2.checked=0;
+    wno3.checked=0;
+ }
+ 
+function uncheckOpp(whichOpp)
+ {
+  whichOpp.checked=1;
+ }
+ 
+</script>
+
+
+
+<script language="JavaScript">
+//for survey form
+<!-- Begin
+function popUp(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=1,menubar=0,resizable=0,width=720,height=520,left = 196,top = 162');");
+}
+// End -->
+</script>
+
+
+
+
+<style type="text/css">
+
+.brookings_alert_promo	{border: 1px solid #535353;width: 127px;}
+
+.promo_head		{font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;color: #99CCFF;background-color: #003366;}
+
+.promo_head div		{padding: 5px;padding-left: 5px;}
+
+.promo_text td		{font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;line-height: 12px;color: #000006;background-color: #D1DAE3;padding: 5px;}
+
+label			{font-weight: bold;color: #000000;}
+
+.promo_button:		{padding-top: 5px;}
+
+</style>
+	
+
+<script language="JavaScript">
+		
+function echeck(str) {
+	var at='@'
+	var dot='.'
+	var lat=str.indexOf(at)
+	var lstr=str.length
+	var ldot=str.indexOf(dot)
+	if (str.indexOf(at)==-1){
+		alert('Please enter a valid email address')
+		return false
+		}
+
+	if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+		alert('Please enter a valid email address')
+		return false
+		}
+
+	if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+		alert('Please enter a valid email address')
+		return false
+		}
+
+	if (str.indexOf(at,(lat+1))!=-1){
+		alert('Please enter a valid email address')
+		return false
+		}
+
+	if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+		alert('Please enter a valid email address')
+		return false
+		 }
+
+	if (str.indexOf(dot,(lat+2))==-1){
+		alert('Please enter a valid email address')
+		return false
+		}
+
+	if (str.indexOf(' ')!=-1){
+		alert('Please enter a valid email address')
+		return false
+		}
+
+	return true
+	}
+	
+
+function ValidateForm(){
+	var emailID=document.signup.email
+		
+	if ((emailID.value==null)||(emailID.value=='')){
+		alert('Please enter a valid email address')
+		emailID.focus()
+		return false
+		}
+
+	if (echeck(emailID.value)==false){
+		emailID.value=''
+		emailID.focus()
+		return false
+		}
+	return true
+	}
+</script><link rel="stylesheet" href="/styles/css/brookings.css" type="text/css"><meta content="0" http-equiv="EXPIRES"><meta content="no-cache" http-equiv="PRAGMA"></head><body style="background-repeat: repeat-x;" alink="#CC0000" vlink="#CC0000" link="#003366" text="#000000" bgcolor="#999999" background="/images/bg/page.gif" marginheight="13" marginwidth="7" topmargin="13" leftmargin="7">
+<a name="top"></a>
+<!-- ============= -->
+<table border="0" width="762" cellpadding="0" cellspacing="0"><tbody><tr valign="TOP"><td colspan="4">
+		<!-- ============= HEADER ============= -->
+			<table border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="TOP"><td align="RIGHT" width="154" rowspan="2"><a href="/default.htm"><img alt="The Brookings Institution" border="0" width="154" height="71" src="/images/logo/brookings.gif"></a>
+		</td><td bgcolor="#333333" width="1" nowrap="NOWRAP" rowspan="2"><img alt="" border="0" width="1" height="1" src="/images/px/x.gif"></td><td bgcolor="#333333" width="601" height="52" valign="MIDDLE">
+		<img src="/images/banner/default.gif" alt="" width="601" height="50" vspace="1"></td></tr><tr valign="TOP"><td bgcolor="#DDDDDD" width="601">
+			<table border="0" width="601" height="19" cellpadding="0" cellspacing="3"><tbody><tr><td width="6"><font face="Verdana" size="1"><br></font>
+					</td><td><font class="bc" face="Verdana" color="#333333" size="1">
+					   <a href="/index.htm">Brookings</a> &gt; </font>
+					</td></tr></tbody></table>
+		</td></tr></tbody></table>
+		<!-- ============= END HEADER ============= -->
+		</td><td bgcolor="#333333" width="1" nowrap="NOWRAP" rowspan="3"><img alt="" border="0" width="1" height="1" src="/images/px/x.gif"></td><td background="/images/shadow/rsb.gif" width="6" nowrap="NOWRAP" rowspan="3"><img alt="" border="0" width="6" height="155" src="/images/shadow/rsb_top.gif"></td></tr><tr valign="TOP"><td align="RIGHT" width="155" nowrap="NOWRAP"><img alt="" border="0" width="149" height="1" src="/images/px/333333.gif"></td><td bgcolor="#FFFFFF" background="/images/bg/hdots.gif" width="600" nowrap="NOWRAP" colspan="3">
+		   <img alt="" border="0" width="1" height="1" src="/images/px/x.gif"></td></tr><tr valign="TOP"><td background="/images/bg/lsb_rule.gif" width="155" nowrap="NOWRAP">
+			<!-- ============= LSB ============= -->
+			<!-- Current request url is /about/privacy_policy.htm -->
+<!-- Pagetype is basic-page --><div id="homeToggle" class="navmenu" style="top: 85px; left:7px;"> 
+<table border="0" cellspacing="0" cellpadding="0"> 
+  <tbody><tr>
+      <td width="6" nowrap=""><br> 
+  	</td> 
+		<td width="1" bgcolor="#333333" nowrap=""><br>
+		</td>
+		<td width="148" height="19" bgcolor="#EEEEEE" background="/images/bg/lsb.gif">
+      <font face="Verdana" size="1" color="#666666"> 
+<img src="/images/px/x.gif" alt="" width="10" height="5" border="0"> 
+  <script language="JavaScript"><!-- // 
+      document.write (monthname + ' ' + day + ', ' + year); 
+   // -->  
+  </script>January 31, 2020</font>
+ 	</td>
+	</tr> 
+	</tbody></table>
+	<table border="0" cellspacing="0" cellpadding="0"> 
+		<tbody><tr>
+			<td><a href="/default.htm"><img src="/images/nav/arrow_cap.gif" alt="" width="13" height="20" border="0"></a></td>
+  <td bgcolor="#FFFFFF">
+<a href="/default.htm"><img src="/images/nav/home.gif" alt="Home" width="142" height="20" border="0"></a></td>  	</tr>
+	</tbody></table> 
+</div>
+<div id="eventsToggle" class="navmenu"> 
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><a href="events/index.htm" onclick="toggle('events','');return false;"><img src="/images/nav/arrow_up.gif" alt="" name="events" width="13" height="20" border="0"></a></td><td bgcolor="#FFFFFF"><a href="/index/newsandevents.htm">
+<img src="/images/nav/events.gif" alt="News &amp; Events" width="142" height="20" border="0"></a></td>		</tr>
+	</tbody></table>
+</div>
+<div id="eventsMenu" class="subnavmenu">	<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td colspan="4"><img src="/images/rule/navrule.gif" alt="" width="155" height="1" border="0"></td></tr>
+		<tr valign="top">
+			<td width="6" nowrap=""><br>
+			</td>
+			<td width="1" bgcolor="#333333" nowrap=""><br>
+			</td>
+			<td width="140" bgcolor="#FFFFEE" nowrap="">
+			   <table border="0" cellspacing="3" cellpadding="0" width="140">
+				   <tbody><tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/comm/news/archive.htm">
+News Releases
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/calendar/200606.htm">
+Calendar of Events
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/comm/events/index.htm">
+Transcripts
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/comm/comm_hp.htm">
+Communications Office
+				   </a></font>
+				   </td>
+			  </tr>
+				  </tbody></table>
+			   </td>
+		       <td width="8" bgcolor="#FFFFEE" background="/images/bg/lsb_clip.gif"><br>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<div id="scholarsToggle" class="navmenu"> 
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><a href="scholars/index.htm" onclick="toggle('scholars','');return false;"><img src="/images/nav/arrow_up.gif" alt="" name="scholars" width="13" height="20" border="0"></a></td><td bgcolor="#FFFFFF"><a href="/index/scholars_byname.htm">
+<img src="/images/nav/scholars.gif" alt="Scholars" width="142" height="20" border="0"></a></td>		</tr>
+	</tbody></table>
+</div>
+<div id="scholarsMenu" class="subnavmenu">	<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td colspan="4"><img src="/images/rule/navrule.gif" alt="" width="155" height="1" border="0"></td></tr>
+		<tr valign="top">
+			<td width="6" nowrap=""><br>
+			</td>
+			<td width="1" bgcolor="#333333" nowrap=""><br>
+			</td>
+			<td width="140" bgcolor="#FFFFEE" nowrap="">
+			   <table border="0" cellspacing="3" cellpadding="0" width="140">
+				   <tbody><tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/index/scholars_byname.htm">
+Scholars by Name
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/index/scholars_byresearch.htm">
+Scholars by Issue
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/index/scholars_byprogram.htm">
+Scholars by Program
+				   </a></font>
+				   </td>
+			  </tr>
+				  </tbody></table>
+			   </td>
+		       <td width="8" bgcolor="#FFFFEE" background="/images/bg/lsb_clip.gif"><br>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<div id="researchToggle" class="navmenu"> 
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><a href="research/index.htm" onclick="toggle('research','');return false;"><img src="/images/nav/arrow_up.gif" alt="" name="research" width="13" height="20" border="0"></a></td><td bgcolor="#FFFFFF"><a href="/index/research.htm">
+<img src="/images/nav/research.gif" alt="Research" width="142" height="20" border="0"></a></td>		</tr>
+	</tbody></table>
+</div>
+<div id="researchMenu" class="subnavmenu">	<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td colspan="4"><img src="/images/rule/navrule.gif" alt="" width="155" height="1" border="0"></td></tr>
+		<tr valign="top">
+			<td width="6" nowrap=""><br>
+			</td>
+			<td width="1" bgcolor="#333333" nowrap=""><br>
+			</td>
+			<td width="140" bgcolor="#FFFFEE" nowrap="">
+			   <table border="0" cellspacing="3" cellpadding="0" width="140">
+				   <tbody><tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/data/brookings_taxonomy.xml?taxonomy=Business">
+Business
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/data/brookings_taxonomy.xml?taxonomy=Cities%20and%20Suburbs">
+Cities and Suburbs
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/data/brookings_taxonomy.xml?taxonomy=Defense">
+Defense
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/data/brookings_taxonomy.xml?taxonomy=Economics,%20Global">
+Economics, Global
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/data/brookings_taxonomy.xml?taxonomy=Economics,%20U.S.">
+Economics, U.S.
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/data/brookings_taxonomy.xml?taxonomy=Education">
+Education
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/data/brookings_taxonomy.xml?taxonomy=Environment%20and%20Energy">
+Environment and Energy
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/data/brookings_taxonomy.xml?taxonomy=Governance">
+Governance
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/data/brookings_taxonomy.xml?taxonomy=Politics,%20Global">
+Politics, Global
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/data/brookings_taxonomy.xml?taxonomy=Politics,%20U.S.">
+Politics, U.S.
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/data/brookings_taxonomy.xml?taxonomy=Science%20and%20Technology">
+Science and Technology
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/data/brookings_taxonomy.xml?taxonomy=Social%20Policy">
+Social Policy
+				   </a></font>
+				   </td>
+			  </tr>
+				  </tbody></table>
+			   </td>
+		       <td width="8" bgcolor="#FFFFEE" background="/images/bg/lsb_clip.gif"><br>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<div id="programsToggle" class="navmenu"> 
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><a href="programs/index.htm" onclick="toggle('programs','');return false;"><img src="/images/nav/arrow_up.gif" alt="" name="programs" width="13" height="20" border="0"></a></td><td bgcolor="#FFFFFF"><a href="/index/programs.htm">
+<img src="/images/nav/programs.gif" alt="Programs" width="142" height="20" border="0"></a></td>		</tr>
+	</tbody></table>
+</div>
+<div id="programsMenu" class="subnavmenu">	<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td colspan="4"><img src="/images/rule/navrule.gif" alt="" width="155" height="1" border="0"></td></tr>
+		<tr valign="top">
+			<td width="6" nowrap=""><br>
+			</td>
+			<td width="1" bgcolor="#333333" nowrap=""><br>
+			</td>
+			<td width="140" bgcolor="#FFFFEE" nowrap="">
+			   <table border="0" cellspacing="3" cellpadding="0" width="140">
+				   <tbody><tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/es/es_hp.htm">
+Economic Studies
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/fp/fp_hp.htm">
+Foreign Policy Studies
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/gs/gs_hp.htm">
+Governance Studies
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/metro">
+Metropolitan Policy
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/index/policycenters.htm">
+Policy Centers
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/index/projects.htm">
+Projects
+				   </a></font>
+				   </td>
+			  </tr>
+				  </tbody></table>
+			   </td>
+		       <td width="8" bgcolor="#FFFFEE" background="/images/bg/lsb_clip.gif"><br>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<div id="publicationsToggle" class="navmenu"> 
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><a href="publications/index.htm" onclick="toggle('publications','');return false;"><img src="/images/nav/arrow_up.gif" alt="" name="publications" width="13" height="20" border="0"></a></td><td bgcolor="#FFFFFF"><a href="/index/publications.htm">
+<img src="/images/nav/publications.gif" alt="Publications" width="142" height="20" border="0"></a></td>		</tr>
+	</tbody></table>
+</div>
+<div id="publicationsMenu" class="subnavmenu">	<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td colspan="4"><img src="/images/rule/navrule.gif" alt="" width="155" height="1" border="0"></td></tr>
+		<tr valign="top">
+			<td width="6" nowrap=""><br>
+			</td>
+			<td width="1" bgcolor="#333333" nowrap=""><br>
+			</td>
+			<td width="140" bgcolor="#FFFFEE" nowrap="">
+			   <table border="0" cellspacing="3" cellpadding="0" width="140">
+				   <tbody><tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/comm/policybriefs/archive.htm">
+Policy Briefs
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/index/analysisandcommentary.htm">
+Analysis &amp; Commentary
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="http://bookstore.brookings.edu/">
+Books
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/press/journals.htm">
+Journals
+				   </a></font>
+				   </td>
+			  </tr>
+				  </tbody></table>
+			   </td>
+		       <td width="8" bgcolor="#FFFFEE" background="/images/bg/lsb_clip.gif"><br>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<table border="0" cellspacing="0" cellpadding="0"> 
+  <tbody><tr>
+		<td colspan="3" height="1"><img src="/images/rule/navrule.gif" border="0"></td> 
+	</tr> 
+  <tr>
+      <td width="6" nowrap=""> 
+  	</td> 
+		<td width="1" bgcolor="#333333" nowrap="">
+		</td>
+		<td width="148" height="9" bgcolor="#EEEEEE" background="/images/bg/lsb.gif" valign="top">
+ 	</td>
+	</tr> 
+	</tbody></table>
+<div id="bookstoreToggle" class="navmenu"> 
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><a href="bookstore/index.htm" onclick="toggle('bookstore','');return false;"><img src="/images/nav/arrow_up.gif" alt="" name="bookstore" width="13" height="20" border="0"></a></td><td bgcolor="#FFFFFF"><a href="/press/bookstore.htm">
+<img src="/images/nav/bookstore.gif" alt="Book Store" width="142" height="20" border="0"></a></td>		</tr>
+	</tbody></table>
+</div>
+<div id="bookstoreMenu" class="subnavmenu">	<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td colspan="4"><img src="/images/rule/navrule.gif" alt="" width="155" height="1" border="0"></td></tr>
+		<tr valign="top">
+			<td width="6" nowrap=""><br>
+			</td>
+			<td width="1" bgcolor="#333333" nowrap=""><br>
+			</td>
+			<td width="140" bgcolor="#FFFFEE" nowrap="">
+			   <table border="0" cellspacing="3" cellpadding="0" width="140">
+				   <tbody><tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/press/books_index_page.htm">
+Browse
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/press/journals.htm">
+Journals
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/press/bestsellers.htm">
+Bestsellers
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/press/awards2.htm">
+Book Awards
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/press/about.htm#acquis">
+Manuscript Acquisition
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/press/about.htm#rights">
+Rights and Permission
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/press/about.htm">
+About the Press
+				   </a></font>
+				   </td>
+			  </tr>
+				  </tbody></table>
+			   </td>
+		       <td width="8" bgcolor="#FFFFEE" background="/images/bg/lsb_clip.gif"><br>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<div id="execedToggle" class="navmenu"> 
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><a href="execed/index.htm" onclick="toggle('execed','');return false;"><img src="/images/nav/arrow_up.gif" alt="" name="execed" width="13" height="20" border="0"></a></td><td bgcolor="#FFFFFF"><a href="/execed/">
+<img src="/images/nav/execed.gif" alt="Executive Education" width="142" height="20" border="0"></a></td>		</tr>
+	</tbody></table>
+</div>
+<div id="execedMenu" class="subnavmenu">	<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td colspan="4"><img src="/images/rule/navrule.gif" alt="" width="155" height="1" border="0"></td></tr>
+		<tr valign="top">
+			<td width="6" nowrap=""><br>
+			</td>
+			<td width="1" bgcolor="#333333" nowrap=""><br>
+			</td>
+			<td width="140" bgcolor="#FFFFEE" nowrap="">
+			   <table border="0" cellspacing="3" cellpadding="0" width="140">
+				   <tbody><tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/execed/programs_title.htm">
+Course List
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/execed/custom.htm">
+Custom Programs
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/execed/fellowships.htm">
+Fellowships
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/execed/leadership_certificate.htm">
+Certificate Program
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/execed/register.htm">
+Register
+				   </a></font>
+				   </td>
+			  </tr>
+				  </tbody></table>
+			   </td>
+		       <td width="8" bgcolor="#FFFFEE" background="/images/bg/lsb_clip.gif"><br>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<div id="aboutToggle" class="navmenu"> 
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><a href="about/index.htm" onclick="toggle('about','');return false;"><img src="/images/nav/arrow_up.gif" alt="" name="about" width="13" height="20" border="0"></a></td><td bgcolor="#FFFFFF"><a href="/index/about.htm">
+<img src="/images/nav/about.gif" alt="About Brookings" width="142" height="20" border="0"></a></td>		</tr>
+	</tbody></table>
+</div>
+<div id="aboutMenu" class="subnavmenu">	<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td colspan="4"><img src="/images/rule/navrule.gif" alt="" width="155" height="1" border="0"></td></tr>
+		<tr valign="top">
+			<td width="6" nowrap=""><br>
+			</td>
+			<td width="1" bgcolor="#333333" nowrap=""><br>
+			</td>
+			<td width="140" bgcolor="#FFFFEE" nowrap="">
+			   <table border="0" cellspacing="3" cellpadding="0" width="140">
+				   <tbody><tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/lib/history_hp.htm">
+History
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/ea/trustees.htm">
+Trustees
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/index/presidentswelcome.htm">
+President's Welcome
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/admin/annual_report.htm">
+Annual Report
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/ea/ea_hp.htm">
+Funding
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/admin/admin_hp.htm">
+Finance and Administration
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/its/its_hp.htm">
+Information Technology
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/lib/lib_hp.htm">
+Library
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/admin/employment.htm">
+Employment
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/comm/directions.htm">
+Directions
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/index/contactus.htm">
+Contact Us
+				   </a></font>
+				   </td>
+			  </tr>
+				   <tr valign="top">
+				      <td width="11" align="right"><font face="Verdana" size="1" class="sb">·
+				        </font>
+				      </td>
+				   	  <td><font face="Verdana" size="1" class="sb">
+                   <a href="/sitemap.htm">
+Site Map
+				   </a></font>
+				   </td>
+			  </tr>
+				  </tbody></table>
+			   </td>
+		       <td width="8" bgcolor="#FFFFEE" background="/images/bg/lsb_clip.gif"><br>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+<div id="pagecontent" class="nomenu">
+	<table border="0" cellspacing="0" cellpadding="0" width="154">
+   <tbody><tr>
+   <td colspan="2"><img src="/images/rule/navrule.gif" alt="" width="154" height="1" border="0"></td>
+		</tr>
+	</tbody></table><table border="0" cellspacing="0" cellpadding="0" height="150">
+		<tbody><tr valign="top">
+			<td width="6" nowrap=""><br>
+			</td>
+			<td width="1" bgcolor="#333333" nowrap=""><br>
+			</td>
+			<td width="148" bgcolor="#EEEEEE" background="/images/bg/lsb.gif"><br>
+			</td>
+		</tr>
+	</tbody></table><img src="/images/shadow/lsb.gif" alt="" width="154" height="6" border="0"><br>
+ </div>  
+
+
+
+			<!-- ============= END LSB ============= -->
+		</td><td bgcolor="#FFFFFF" width="453" nowrap="NOWRAP" rowspan="2">
+					<table border="0" width="453" cellpadding="0" cellspacing="13"><tbody><tr valign="TOP"><td>
+					<!-- ============= Start CENTER COLUMN ============= -->
+					<!--?xml version="1.0" encoding="ISO-8859-1" ?-->
+<!-- sStartComments = -->
+<!-- sStartComments = -->
+<!-- ================================= -->
+<!-- ========= BEGIN DOCUMENT ======== -->
+<!-- ================================= -->
+<!-- ================================= -->
+<!-- ========== END DOCUMENT ========= -->
+<!-- ================================= -->
+<font face="arial" size="-1">
+
+<h3>Brookings Institution Privacy Policy</h3>
+<i>Last Updated: December 12, 2005</i>
+
+<p><table border="0" cellspacing="0" cellpadding="3" bgcolor="#EEEEDD" style="border: 1px solid #BBBB99;" align="right" width="140"><tbody><tr><td bgcolor="#EEEEDD"><table border="0" cellspacing="4" cellpadding="0" align="right"><tbody><tr><td><font face="Verdana" size="1" color="#333333">See also <a href="/about/termsofuse.htm">Conditions and Terms of Use</a> for the Brookings Website</font><br>
+
+</td></tr></tbody></table></td></tr></tbody></table>
+The Brookings Institution values our visitors' private information and understands the need for security and trust surrounding such information. The following policy outlines the ways in which we collect, store, and use personally identifiable information in providing our products and services.</p>
+
+<p>Except for very limited exceptions further described in the remainder of this Privacy Policy, we do not share any personally identifiable information with third parties.</p>
+
+<h4>Information Collection &amp; Use</h4>
+<h5><i>Registration</i></h5>
+
+<p>In order to use certain parts of The Brookings Institution website, you may need to first complete a registration form to create a user name and/or password. During registration you may be required to give contact information. We may use this information to contact you about the services on our site in which you have expressed interest.</p>
+
+<h5><i>Online Orders</i></h5>
+<p>If you purchase a product or service, or choose to make a donation, we request certain personally identifiable information from you on our order forms. We encrypt this information using Secure Sockets Layer technology (SSL) and digital certificates from Verisign, Inc.</p>
+
+<p>We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.</p>
+
+<h5><i>Surveys</i></h5> 
+<p>Occasionally, we may provide you the opportunity to participate in surveys on our site. Participation in these surveys is completely voluntary. We use survey results to further improve this site and its content as well as to enhance our communications with you.</p>
+
+<p>We may use third-party service providers to conduct surveys. Those companies will be prohibited from using our users' personally identifiable information for any other purpose than what has been identified above. We will not share the personally identifiable information you provide through a survey with third parties unless we give you prior notice and a choice to opt out.</p>
+
+<h5><i>Tell a Friend/Forward to a Colleague</i></h5>
+<p>If you use referral services to tell a friend/colleague about our site or electronic newsletters, we will send your friend/colleague a one-time e-mail inviting him or her to visit the site. The Brookings Institution maintains this information in our database for the purpose of sending the referred e-mail and compiling aggregate statistics on the usefulness of our referral program. That address will be used for no other purpose—except in the case where that individual opts to subscribe to this or any other Brookings newsletter.</p> 
+
+<h4>Communications from the Site</h4>
+<h5><i>Newsletters and Products</i></h5>
+<p>If you wish to subscribe to our electronic newsletter(s) or receive other materials, we will use your e-mail address to send the requested materials. We always provide a way to unsubscribe or opt out. Please see the "Choice/Opt-out" section, below.</p>
+
+<h5><i>Customer Service and Profile</i></h5>
+<p>Based upon the personally identifiable information you provide us (i.e., your "profile"), we will send you a welcome e-mail to verify your enrollment when you subscribe to an electronic newsletter. </p>
+
+<p>In addition, we may store information that we collect through cookies, log files, transparent gifs, and other technologies to create a "profile" of your preferences.</p> 
+
+<h5><i>Choice/Opt-out</i></h5>
+<p>We provide you the opportunity to opt out of having your personally identifiable information used for any of these purposes.</p>
+
+<p>If you no longer wish to receive electronic newsletters and/or promotional communications, you may opt out of receiving them by following the instructions included in each newsletter or communication.</p>
+
+<h4>Information Sharing and Disclosure</h4>
+<h5><i>Aggregate Information (non-personally identifiable)</i></h5>
+
+<p>At times, we share aggregated demographic information about our user base with our partners. This information does not identify individual users. We do not link aggregate user data with personally identifiable information in these cases. </p>
+
+<h5><i>Personally identifiable information</i></h5>
+<p>We do not share personally identifiable information (your "profile") with third parties, except insofar as that information is required to fulfill a service, such as product fulfillment, that you have requested.</p>
+
+<h5><i>Agents</i></h5>
+
+<p>We use an outside shipping company to fulfill Brookings Bookstore orders, and a credit card processing company to bill you for goods and services you purchase from us. These companies do not retain, share, store, or use personally identifiable information for any other purposes.</p>
+
+<h5><i>Service Providers</i></h5>
+
+<p>We use third parties to provide fulfillment and processing functions on our site. When you register for products and/or services, we may share information as necessary for the third party to provide those services. </p>
+
+<p>These third parties are prohibited from using your personally identifiable information for any other purpose.</p>
+
+<h5><i>Legal Disclaimer</i></h5>
+
+<p>We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on the Brookings Institution. We further reserve the right to disclose or use your personally identifiable information for the purposes of collecting on debts owed in connection with the purchase of goods or services on this website.</p>
+
+<h4>Website Tools</h4>
+
+<h5><i>Log Files</i></h5>
+
+<p>Website visits generate certain information that is automatically stored in log files, including Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.</p> 
+
+<p>We use this information, which in itself does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site, and to gather demographic information about our user base as a whole. </p>
+
+<h5><i>Cookies</i></h5>
+
+<p>We may use both session ID cookies and/or persistent cookies. Both kinds are stored on the site visitor's hard drive.</p>
+
+<p>We set a persistent cookie that stores your passwords on your hard drive. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.</p>
+
+<p>If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited.</p>
+
+<h5><i>Transparent images and Web Beacons/Web Bugs</i></h5>
+
+<p>We may employ transparent images and Web Beacons (also referred to as Web Bugs) that help us better manage content on our site. Transparent images and Web Beacons are embedded invisibly on web pages.</p>
+
+<p>We may use transparent images in our HTML-based e-mails and newsletters to help us gauge the effectiveness of our electronic communications. If you would like to opt out of these, please see "Choice/Opt-out." You can also request to receive text-only electronic newsletters, which do not contain transparent images.</p>
+
+<p>Though we do not currently use Web Beacons in our e-mails, we reserve the right to do so at some future date. In that case, this Privacy Policy will be updated accordingly (see "Changes in this Privacy Statement," below).</p>
+
+<h4>Links to Other Sites</h4>
+
+<p>This Website contains links to other sites that are not owned or controlled by The Brookings Institution. We are not responsible for the privacy practices or the content of such other sites.</p> 
+
+<h4>Access to and Removal of Personally Identifiable Information</h4>
+
+<p>You may correct, update, delete or deactivate your personally identifiable information by  e-mailing us at <a href="mailto:communications@brookings.edu?Subject=Personally Identifiable Information">communications@brookings.edu</a>, or by contacting us by telephone or postal mail at the contact information listed below.</p>
+
+<h4>Security</h4>
+
+<p>The security of your sensitive personal information is important to us. We encrypt that information using Secure Sockets Layer technology (SSL) and digital certificates.</p>
+
+<h4>Changes in this Privacy Statement</h4>
+
+<p>We reserve the right to modify this privacy statement at any time. If we make material changes to this policy, we will notify you here, by e-mail, or by means of a notice on our home page.</p>
+
+<h4>Contact Us</h4> 
+
+<p>If you have any questions or suggestions regarding our privacy policy, please contact us at:</p> 
+
+<p><b>The Brookings Institution</b><br>
+1775 Massachusetts, Ave, NW<br>
+Washington, DC 20036<br>
+202-797-6000</p><!-- sSubTitle = -->
+
+					<!-- ============= END CENTER COLUMN ============= -->
+					</font></td></tr></tbody></table>
+		</td><td bgcolor="#FFFFFF" background="/images/bg/vdots.gif" width="1" nowrap="NOWRAP" rowspan="2"><br></td><td bgcolor="#FFFFFF" width="147" nowrap="NOWRAP" rowspan="2">
+			<table border="0" width="147" height="100%" cellpadding="0" cellspacing="0"><tbody><tr valign="TOP"><td><!-- ============= RSB ============= -->
+						<!-- ============= Search sliver ============= -->
+						<table bgcolor="#FFCC33" border="0" width="147" cellpadding="0" cellspacing="4">
+	<tbody><tr valign="top">
+		<td nowrap="NOWRAP" colspan="2">
+			<p><font class="bc">SEARCH BROOKINGS</font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<form action="http://search01.brookings.edu/search" method="GET" name="gs"></form>
+		<td>
+			<font size="-1"><input type="text" name="q" size="12" maxlength="256" value=""></font>
+			<input value="BI_PublicWeb" name="site" type="hidden">
+		   <input value="xml_no_dtd" name="output" type="hidden">
+		   <input value="BI_PublicWeb" name="client" type="hidden">
+			<input value="BI_PublicWeb" name="proxystylesheet" type="hidden">
+			<input value="UTF-8" name="oe" type="hidden">
+			<input value="5" name="numgm" type="hidden">
+			<input value="searchdate.description.bi_author.bi_doctype" name="getfields" type="hidden">
+			<input name="Submit" type="hidden" value="">
+		</td>
+		<td valign="bottom">
+			<a href="javascript:document.gs.submit()"><img border="0" width="24" height="18" src="/images/button/go.gif"></a>
+		</td>
+		
+	</tr>
+	<tr valign="top">
+		<td colspan="2">
+			<p><font class="sb">
+				<!-- Advanced Search -->
+				<a href="http://www.brookings.edu/search/advancedsearch.htm">Advanced Search</a>
+				&nbsp;&nbsp;&nbsp;
+				<a href="http://www.brookings.edu/search/searchhelp.htm">Help</a>
+			</font></p>
+		</td>
+	</tr>
+</tbody></table><br>
+						<!-- Related Content -->
+						 <!--RESEARCHCHECK>
+						<DYB_REGION HREF="/related_projects.htm" TYPE="related-query-rio" ALLOW_NESTING="true"></DYB_REGION>
+					 	<DYB_REGION HREF="/related_scholars.htm" TYPE="related-query-rio" ALLOW_NESTING="true"></DYB_REGION--><!--<DYB_REGION HREF="/data/relatedcontent.xml" TYPE="html-rio" ALLOW_NESTING="true"></DYB_REGION>--><!-- Shingles --><table align="CENTER" border="0" width="147" cellpadding="0" cellspacing="0"><tbody><tr><td border="0" width="146" height="4" src="/images/rule/rsbrule.gif">
+						</td></tr><tr><td align="CENTER">
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						</td></tr></tbody></table><!-- End Shingles --></td></tr><tr><td><!-- ============= ALERT RSB FOOTER ============= -->
+<!--						<DYB_REGION NAME="Subscribe Box" TYPE="subscribe-rio" ALLOW_NESTING="true"></DYB_REGION> -->
+								
+																						
+						<!-- ============= END ALERT RSB FOOTER ============= -->
+					</td></tr></tbody></table>
+		</td></tr></tbody></table>
+<!-- ============= FOOTER ============= -->
+<table border="0" width="763" cellpadding="0" cellspacing="0"><tbody><tr valign="TOP"><td width="154" nowrap="NOWRAP" rowspan="5"><br></td><td bgcolor="#333333" width="1" nowrap="NOWRAP" rowspan="3"><br></td><td bgcolor="#EEEEEE" background="/images/bg/hdots.gif" width="601" nowrap="NOWRAP"><img alt="" border="0" width="1" height="1" src="/images/px/x.gif"></td><td bgcolor="#333333" width="1" nowrap="NOWRAP" rowspan="3"><br></td><td background="/images/shadow/rsb.gif" width="6" nowrap="NOWRAP" rowspan="3"><br></td></tr><tr><td bgcolor="#CCCCCC" width="601" nowrap="NOWRAP">
+			<table border="0" cellpadding="0" cellspacing="2"><tbody><tr valign="TOP"><td align="RIGHT" width="20"><a href="#top"><img alt="" vspace="3" border="0" width="10" height="8" src="/images/button/arrow_top.gif"></a>
+					</td><td>
+						<font face="Verdana" color="#777777" size="1">
+		<a class="bc" href="#top">Top</a> |
+		<a class="bc" href="/index/research.htm">Research</a> |
+		<a class="bc" href="http://bookstore.brookings.edu">Bookstore</a> |
+		<a class="bc" href="/execed/cp_hp.htm">Executive Education</a> |
+		<a class="bc" href="/about/privacy_policy.htm">Privacy Policy</a> |
+		<a class="bc" href="/sitemap.htm">Site Map</a> |
+		<a class="bc" href="/find.htm">Search</a> |
+		<a class="bc" href="/default.htm">Home</a>
+						</font>
+					</td></tr></tbody></table>
+		</td></tr><tr valign="TOP"><td bgcolor="#333333" width="601"><img alt="" border="0" width="1" height="1" src="/images/px/x.gif"></td></tr><tr valign="TOP"><td width="609" colspan="4"><img alt="" border="0" width="609" height="6" src="/images/shadow/footer.gif"></td></tr><tr valign="TOP"><td width="609" colspan="4">
+<table border="0" width="609" cellpadding="0" cellspacing="5"> 
+<tbody><tr><td width="4"><br></td>
+<td><font class="footer" face="Verdana" color="#333333" size="2">
+The Brookings Institution, 1775 Massachusetts Ave., NW, Washington, DC 20036<br>(202) 797-6000 · Fax (202) 797-6004 · E-mail <script>mailhide('Brookings','webmaster','brookings','edu');</script><a href="mailto:webmaster@brookings.edu">Brookings</a></font></td></tr></tbody></table></td></tr></tbody></table>
+<!-- ============= END FOOTER ============= -->
+
+<script language="JavaScript1.2"><!-- //
+initmenus();
+// -->
+</script><!-- ============= -->
+
+
+</body></html>
