@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dol.gov privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221043009id_/http%3A//dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dol.gov privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629142318id_/http%3A//dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
 
-# Privacy and Security Statement
+# U.S. Department of Labor -- Privacy and Security Statement
 
-Thank you for visiting the Department of Labor (DOL) Web site and reviewing our privacy and security statement. DOL is strongly committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use and disclosure of personal information, DOL makes every effort to ensure compliance with applicable Federal law, including, but not limited to, [The Privacy Act of 1974](https://web.archive.org/cgi-bin/leave-dol.asp?exiturl=http://www.usdoj.gov/foia/privstat.htm&exitTitle=Department_of_Justice:_The_Privacy_Act_of_1974), [The Paperwork Reduction Act of 1995](https://web.archive.org/cgi-bin/leave-dol.asp?exiturl=http://www.cio.gov/archive/paperwork_reduction_act_1995.html&exitTitle=CIO_Council:_Paperwork_Reduction_Act), and [The Freedom of Information Act](https://web.archive.org/cgi-bin/leave-dol.asp?exiturl=http://www.usdoj.gov/oip/foia_updates/Vol_XVII_4/page2.htm&exitTitle=Department_of_Justice:_Freedom_of_Information_Act).
+Thank you for visiting the Department of Labor (DOL) Web site and reviewing our privacy and security statement. DOL is strongly committed to maintaining the privacy of your personal information and the security of our computer systems. With respect to the collection, use and disclosure of personal information, DOL makes every effort to ensure compliance with applicable federal law, including, but not limited to, [The Privacy Act of 1974](https://web.archive.org/cgi-bin/leave-dol.asp?exiturl=http://www.usdoj.gov/foia/privstat.htm&exitTitle=Department_of_Justice:_The_Privacy_Act_of_1974), [The Paperwork Reduction Act of 1995](https://web.archive.org/cgi-bin/leave-dol.asp?exiturl=http://www.cio.gov/archive/paperwork_reduction_act_1995.html&exitTitle=CIO_Council:_Paperwork_Reduction_Act), and [The Freedom of Information Act](https://web.archive.org/cgi-bin/leave-dol.asp?exiturl=http://www.usdoj.gov/oip/foia_updates/Vol_XVII_4/page2.htm&exitTitle=Department_of_Justice:_Freedom_of_Information_Act).
 
 As a general rule, the Department of Labor does not collect personally-identifying information about you when you visit our site, unless you choose to provide such information to us. The information we receive depends upon what you do when visiting our site.
 
-_If you respond to an on-line request for personal information:_
+_If you respond to an online request for personal information:_
 
 Generally, the information requested by the Department will be used to respond to your inquiry or to provide you with the service associated with the request. However, when this information is requested, the reasons for collecting it with a description of the Department's intended use of the information will be fully described in a customized "Privacy Notice." This Privacy Notice will either appear on the Web page collecting the information or be accessible through a link prominently displayed immediately preceding the information request.
 
@@ -30,7 +30,7 @@ Our Web site has many links to other sites. When you link to any of these sites,
 
 _Cookie Use Notice_
 
-The U.S. Department of Labor employs "cookies" to provide better service to its customers. The Department does not use cookies to collect any personally identifying information from users or to track user activities beyond our Web site. The Department does not maintain copies of cookies on our Web site after you leave our Web site. 
+The U.S. Department of Labor employs "cookies" to provide better service to its customers. The Department does not use cookies to collect any personally-identifying information from users or to track user activities beyond our Web site. The Department does not maintain copies of cookies on our Web site after you leave our Web site. 
 
 Cookies are small pieces of temporary data that are exchanged between a Web site and a user's computer which enable a "session," or "dialog," to be established between the two machines. With the session established, the Department is able to tailor its responses (i.e., identify and provide you with the information you want) and help you traverse our Web pages in the most efficient and effective manner possible. The session is often broken when the Department's server does not receive further requests from your computer or you simply exit your browser. 
 
