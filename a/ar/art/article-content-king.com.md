@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article-content-king.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229001934id_/http%3A//www.article-content-king.com/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3Dd16ea266445ad171a3b6a77a984fa413) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-content-king.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629210020id_/http%3A//www.article-content-king.com/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3D34dcdf0612b1609f5995b926d9260bf5) for the most accurate reproduction.*
 
 # privacy Article-Content-King.com
 
