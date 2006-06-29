@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearwire.com privacy policy that was archived on 2005-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051201124955id_/http%3A//www.clearwire.com/company/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearwire.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629023720id_/http%3A//clearwire.com/company/legal/privacy.htm) for the most accurate reproduction.*
 
 # Clearwire - Privacy Policy
 
