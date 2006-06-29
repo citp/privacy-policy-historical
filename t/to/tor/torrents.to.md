@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the torrents.to privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213204454id_/http%3A//www.torrents.to/static/privacy_copyright_policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrents.to privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629103640id_/http%3A//torrents.to/static/privacy_copyright_policies.html) for the most accurate reproduction.*
 
 # TORRENTS | TO | Your BitTorrent Search
 
-[Home](https://web.archive.org/ "torrents.to - home") [What is BitTorrent](https://web.archive.org/static/whatis/bittorrent.html "torrents.to - what is bittorrent")   
-[](http://www.torrents.to/static/feedback.html) One year ago it started with a few hundred users a day. Now there are about 20.000 surfers every day. We'd like to thank all of you for making this site such a success. [Tell us](https://web.archive.org/static/feedback.html) what's cool and what could be made better 
+We respect the privacy of our users and we are committed to protect their privacy. This policy describes the information we collect and how it is being used. If you have any questions about our privacy policy, please contact us. 
 
-**Privacy Policy**
+**Collected Information**  
+Unless required by law, we will not share the collected information.  
+We collect limited information that the browser made available while visiting the site, and that includes the access time, the link clicked, the referring URL, the browser type, cookies that might identify the browser, and the IP addresses while the users are on our web site. We use this information to improve our services. 
 
-We respect your privacy, and we want you to feel comfortable using the torrents.to website. Therefore, we are providing you with this privacy policy so you can better understand how we collect information about you, what we do with your information, and who, other than torrents.to may also receive your information. 
+**Third-party Advertisements**  
+Advertisements on this page are directed to and partly served by third-party providers who may collect information(Cookies, Browser, IP-Address etc) to improve their own service. This means that in addition to the limited information we collect, some of the information your browser supplies might be collected by our advertisers as well and used for their research. 
 
-**Use of Information**
+**Cookies**  
+A cookie is a small piece of data that is sent to a user's browser from a web server and is stored on with the browser locally. We only use the cookie to store your preferences. 
 
-Once we obtain your Information, it is added to a database used only by torrents.to. 
+**Policy Changes**  
+We reserve the rigth to change our privacy prolicy. Changes to our policy will be posted on this site, and notifications will be sent to our registered users. We will use information only in accordance with the Privacy Policy under which the information was collected unless we have received explicit authorization from the appropriate user(s) to do otherwise. 
 
-We may disclose your Information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our website. 
+  
+  
 
-Other than as stated in this Privacy Policy, we will not release your Information to unknown or unaffiliated third parties. 
-
-**Changes to Our Privacy Policy**
-
-As our subscribers' needs change, we may find it necessary to amend or revise this Privacy Policy. Any such revisions or additions will be posted on this page. Please re-visit this page from time to time to make sure that you are aware of any additions or revisions to this policy. If you have any concern about privacy, please send a thorough description via e-mail and we try to resolve it. 
 
 Reg. req'd  
 Public  
