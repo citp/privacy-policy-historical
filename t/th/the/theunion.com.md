@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theunion.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403180049id_/http%3A//www.theunion.com/section/MISC02) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theunion.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629022954id_/http%3A//www.theunion.com/section/MISC02) for the most accurate reproduction.*
 
 # The Union - Privacy Policy
 
