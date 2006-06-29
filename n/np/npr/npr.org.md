@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215074739id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630011654id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.*
 
 # NPR Linking and Privacy Policy
-
-Privacy Policy  
-Effective Date February 10, 2005
 
 At NPR Online, we recognize the importance of privacy to visitors of our Web site. This privacy policy explains what type of information is collected from you when you visit our Web site and how that information may be used. 
 
@@ -13,17 +10,6 @@ NPR collects personally-identifying information (such as your name, e-mail addre
 NPR asks visitors to provide certain personal information when they register for the NPR Discussions or Chat Forums, when they request a transcript and/or audio CD of NPR programs, when they e-mail a page of the NPR Web site to another person, when they make a purchase from the NPR Online Shop, and when they register for any online contests. NPR also may ask visitors to provide personal information in other limited circumstances specified at the time the information is gathered. Any information that you post when participating in the NPR Discussions or Chat Forums becomes public. 
 
 Like all other Web servers, NPR's Web server automatically creates log files for each visitor who accesses our site. These "access logs" allow us to make our site more useful to our visitors. The access logs do NOT record a visitor's name, address, phone number, credit card numbers, or any other personally-identifying information. Rather, they contain some or all of the following information: 
-
-  * The Internet Protocol Address (IP Address) of the machine which accessed our Web site.
-  * The date of the visit.
-  * The time of the visit.
-  * The path taken through our Web site.
-  * The browser being used.
-  * A list of files downloaded or viewed.
-  * The amount of time spent listening to RealAudio or Windows Media files.
-  * Any errors encountered.
-
-
 
 **Cookies**   
 NPR also uses 'cookies' to collect information. A cookie is a string of characters that can be written to a file on the user's hard drive when the user visits a Web site. Only the Web site that set the cookie can read it, and it can only be used as a record keeping device to store information that the site already has. It cannot, for example, be used to read other information from the user's hard drive. 
