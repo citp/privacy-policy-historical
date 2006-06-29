@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridastateparks.org privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222043303id_/http%3A//www.myflorida.com/myflorida/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridastateparks.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629085355id_/http%3A//www.myflorida.com/myflorida/privacy.html) for the most accurate reproduction.*
 
 # MyFlorida.com - Home Page
 
