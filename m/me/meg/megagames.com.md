@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2005-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051222193914id_/http%3A//megagames.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629070921id_/http%3A//www.megagames.com/policy.htm) for the most accurate reproduction.*
 
 # MegaGames - Privacy Statement
 
-|   
----  
-|  [](http://www.sagonet.com/) |  |   
----|---|---  
-  
+| 
+
 **Privacy Statement for MegaGames**
 
 > **MegaGames** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:  [**MegaGames** ](http://www.megagames.com/)
