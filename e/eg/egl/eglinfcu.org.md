@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2005-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051226120034id_/http%3A//eglinfcu.org/disclosures.asp%3Fdis%3D14%26nav%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630024647id_/http%3A//eglinfcu.org/disclosures.asp%3Fdis%3D14%26nav%3D1) for the most accurate reproduction.*
 
 # Eglin Federal Credit Union
 
@@ -31,4 +31,4 @@ www.eglinfcu.org
 1-800-367-6159  
 Member Services Ext. 1402
 
-[Back](https://web.archive.org/web/20051226120034id_/http%3A//eglinfcu.org/disclosures.asp?dis=1.1&nav=2)
+[Back](https://web.archive.org/web/20060630024647id_/http%3A//eglinfcu.org/disclosures.asp?dis=1.1&nav=2)
