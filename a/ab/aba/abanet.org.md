@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abanet.org privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227092643id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abanet.org privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630162931id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.*
 
 # American Bar Association
 
