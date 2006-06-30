@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sojo.net privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228224416id_/http%3A//www.sojo.net/index.cfm%3Faction%3Dabout_us.privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sojo.net privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630070202id_/http%3A//www.sojo.net/index.cfm%3Faction%3Dabout_us.privacy_statement) for the most accurate reproduction.*
 
 # Sojourners : About Us : Privacy Statement
 
@@ -6,8 +6,8 @@
 
 _Sojourners is committed to preserving your privacy and safeguarding your information online. The following statement describes the general information-gathering and usage practices of our website:_
 
-**Email Lists**   
-Sojourners will not sell, trade, or give away email addresses that are subscribed to our email publications, including SojoMail (our weekly email magazine) and our email discussion listserv without your consent. 
+**E-mail Lists**   
+Sojourners will not sell, trade, or give away e-mail addresses that are subscribed to our e-mail lists - such as SojoMail, our weekly e-mail newsletter - to any other organization or entity without your consent. 
 
 **Resource Catalog and Electronic Resources**   
 Orders for our online resources are processed on our own secure server. Sojourners does not sell or trade names or other personal data that we collect on our website nor do we maintain any credit card information. 
