@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219150739id_/http%3A//www.buyandsell.ie/PrivacyStatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630155138id_/http%3A//www.buyandsell.ie/PrivacyStatement.php) for the most accurate reproduction.*
 
 # Buy and Sell - Ireland's No.1 Free-Ads Paper to Buy and Sell Online
 
