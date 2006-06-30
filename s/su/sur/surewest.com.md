@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surewest.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212094921id_/http%3A//www.surewest.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surewest.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630101533id_/http%3A//surewest.com/legal/privacy.php) for the most accurate reproduction.*
 
 # SureWest - Privacy Policy
 
@@ -49,13 +49,15 @@ Cookies are a standard feature of web browser software that allow web servers to
 
 Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users to our website as they move from one page to another; this helps us improve our navigation and make it easier for you to find things. Web server logs allow us to count how many people visit our website and evaluate our website's visitor capacity. We do not use these technologies to capture your individual e-mail address or any personally identifying information about you, although they do permit us to display information or advertisements most likely to be of interest to you. 
 
-**Sharing information with affiliates**
+**  Sharing information with affiliates**
 
-We do not currently host advertising for outside companies on our website. However, we may decide sometime in the future to display notices or advertisements from outside companies on our website. In that event, we will take commercially reasonable measures to select product or service providers that appear to be responsible and afford privacy protections to their customers. However, we cannot make any representations about the practices and policies of these companies, and we do not warrant their products or services.
+Where not prohibited by law, and normally where a customer has accounts with more than one of our affiliates, we may share information across affiliates to better assist us in providing services to you.  With some affiliates, we may provide for written permission to do so in our contract with you.  Our contracts for some services may be somewhat more restrictive.  We seek to comply with all applicable laws, rules and regulations in this area.  
 
 **No sharing of information with third parties**
 
-We do not sell, trade or disclose to third parties any customer identifiable information derived from the registration for or use of our online services (including customer names and addresses) without your consent (except as required by subpoena, search warrant or other legal process, or in the case of imminent physical harm to yourself or others). When we use other agents, contractors or companies to perform services on our behalf, we will ensure that the company protects your customer identifiable information consistent with this policy.
+We do not sell, trade or disclose to third parties any customer identifiable information derived from the registration for or use of our online services (including customer names and addresses) without your consent (except as required by subpoena, search warrant or other legal process, or to help you in the case of potential harm to you or members of your household, or in other exceptional cases where we conclude in our discretion that such disclosure would be acceptable to you.)  Again, in some cases, our contracts for some services may be more restrictive.  When we use other agents, contractors or companies to perform services on our behalf, we advise them that they are to protect confidential information and not disclose it except in limited circumstances.  Again, we seek to comply with all applicable laws, rules and regulations in this area.
+
+Some of the pages on our site may contain links to other sites and to other companies.  When you click on those links, you will be connected to pages that are on another site, operated by another entity, and not subject to SureWest's site policies.  If you do business with one of these other companies, you will be providing information directly to that firm, and your relationship will be exclusively with that firm, not with SureWest.  Any information you provide to that firm will be subject to their information disclosure and other policies.  We cannot make any representations about the practices and policies of these companies, and we do not warrant their products or services.
 
 **Notice of new services and changes**
 
