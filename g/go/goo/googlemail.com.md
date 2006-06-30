@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googlemail.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231100905id_/http%3A//mail.google.com/mail/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googlemail.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630074739id_/http%3A//mail.google.com/mail/help/privacy.html) for the most accurate reproduction.*
 
 # Gmail Privacy Policy
 
@@ -23,7 +23,7 @@ The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we
 **Information sharing and onward transfer**
 
   * When you send email, Google includes information such as your email address and the email itself as part of that email. 
-  * We provide advertisers only aggregated non-personal information such as the number of times on of their ads was clicked. We do not sell, rent or otherwise share your personal information with any third parties except in the limited circumstances described in the [Google Privacy Policy](http://www.google.com/privacypolicy.html), such as when we believe we are required to do so by law. 
+  * We provide advertisers only aggregated non-personal information such as the number of times one of their ads was clicked. We do not sell, rent or otherwise share your personal information with any third parties except in the limited circumstances described in the [Google Privacy Policy](http://www.google.com/privacypolicy.html), such as when we believe we are required to do so by law. 
 
 **Your choices**
 
