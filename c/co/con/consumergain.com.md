@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the consumergain.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227185558id_/http%3A//www.consumergain.com/members/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumergain.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630020143id_/http%3A//consumergain.com/members/privacypolicy.php) for the most accurate reproduction.*
 
 # Consumer Gain
 
-ConsumerGain.com (the 'Site') is owned and managed by Member Source Media, LLC. Protecting your privacy is extremely important to us. We hope the information on this page will allow you to understand how we collect, use and protect the information that you provide to us. Please note that the ConsumerGain.com service is only available to U.S. Residents 18 years of age or older. ConsumerGain.com does not knowing collect and therefore is not responsible for information submitted to us by Persons under the age of 18. Any Changes to the Privacy policy will be immediately updated on this page. 
+**Effective Date: January 1st, 2006**
+
+ConsumerGain.com (the 'Site') is owned and managed by MemberSource Media, LLC. Protecting your privacy is extremely important to us. We hope the information on this page will allow you to understand how we collect, use and protect the information that you provide to us. Please note that the ConsumerGain.com service is only available to U.S. Residents 18 years of age or older. ConsumerGain.com does not knowingly collect and therefore is not responsible for information submitted to us by Persons under the age of 18. Any Changes to the Privacy policy will be immediately updated on this page. 
 
 **How do you collect personal information?**
 
