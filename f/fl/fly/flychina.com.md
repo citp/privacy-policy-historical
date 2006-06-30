@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305220217id_/http%3A//www.flychina.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630112723id_/http%3A//flychina.com/privacy.asp) for the most accurate reproduction.*
 
 # FlyChina Privacy Statement
 
@@ -81,4 +81,4 @@ Postal Address: 5300 NW 33 Ave, Ste 219, Ft Lauderdale, FL 33309, USA
   
  
 
-© 1997-2005   FlyChina Infotek, Inc.
+© 1997-2006   FlyChina Infotek, Inc.
