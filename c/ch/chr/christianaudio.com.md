@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianaudio.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231183817id_/http%3A//christianaudio.com/privacy.php%3FosCsid%3De44ae227934e7395d3b54b64bdd29e7c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianaudio.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630174701id_/http%3A//christianaudio.com/privacy.php%3FosCsid%3D964ab2ea471408e625f51385ae1602c8) for the most accurate reproduction.*
 
 # Christian Audio: Privacy Notice
 
