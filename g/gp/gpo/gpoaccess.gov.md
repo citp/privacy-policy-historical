@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpoaccess.gov privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220020425id_/http%3A//www.gpoaccess.gov/about/legal.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpoaccess.gov privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630160404id_/http%3A//www.gpoaccess.gov/about/legal.html%23privacy) for the most accurate reproduction.*
 
 # Legal Information
 
@@ -17,7 +17,7 @@ Government](http://bensguide.gpo.gov/)
   
 | 
 
-[Home Page](https://web.archive.org/web/20051220020425id_/http%3A//www.gpoaccess.gov/index.html) > [About the U.S. Government Printing Office](https://web.archive.org/web/20051220020425id_/http%3A//www.gpoaccess.gov/about/index.html) > Legal Information
+[Home Page](https://web.archive.org/web/20060630160404id_/http%3A//www.gpoaccess.gov/index.html) > [About the U.S. Government Printing Office](https://web.archive.org/web/20060630160404id_/http%3A//www.gpoaccess.gov/about/index.html) > Legal Information
 
 Permanent Public Access | Public Domain / Copyright Notice  
 Photo Credits and Copyright | Section 508 / Accessibility | Privacy | Security
@@ -32,15 +32,21 @@ GPO's permanent public access commitment is also met by bringing agency-dissemin
 
 ## Public Domain / Copyright Notice
 
-Information presented on _GPO Access_ is considered public information and may be distributed or copied unless otherwise specified. 
+Title 17, Section 105, United States Code, provides that: 
 
-Note: To assist users in finding official Government information, we provide links to other Web sites. Once users have left _GPO Access_ and entered another site, they are subject to the policies and legal notices on that site. 
+> _Copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise._
+
+The intent of the section is to place in the public domain all work of the United States Government, which is defined in 17 U.S.C. § 101 (1994) as work prepared by an officer or employee of the United States Government as part of the person’s official duties.
+
+By virtue of the foregoing, public documents can generally be reprinted without legal restriction. However, Government publications may contain copyrighted material which was used with permission of the copyright owner. Publication in a Government document does not authorize any use or appropriation of such copyright material without consent of the owner.
+
+Since the Government Printing Office serves merely as a printing and distribution agency for Government publications and has no jurisdiction over their content or subject matter, it is advisable to consult with the originating department or agency, or its successor, prior to reprinting any given publication. In those instances in which permission to reprint material from Government publications is granted, customary credit should be given to the Government department of agency which prepared the material. In addition, whenever a work is published consisting predominantly of work of the U.S. Government, the copyright notice (if any) must identify those parts of the work in which copyright is claimed per 17 U.S.C. § 403 (1994).
 
 [ Top ]
 
 ## Photo Credits and Copyright
 
-For many of the images on _GPO Access_ , GPO has purchased the right to use the image. GPO is licensed to use these images on a non-exclusive and non-transferable basis. All other rights to the image, including without limitation, copyright and all other rights, are retained by the owner of the images. These images are not in the public domain. For inquiries about images on _GPO Access_ please contact the _[GPO Access](https://web.archive.org/web/20051220020425id_/http%3A//www.gpoaccess.gov/contact.html)_[ User Support Team](https://web.archive.org/web/20051220020425id_/http%3A//www.gpoaccess.gov/contact.html). 
+For many of the images on _GPO Access_ , GPO has purchased the right to use the image. GPO is licensed to use these images on a non-exclusive and non-transferable basis. All other rights to the image, including without limitation, copyright and all other rights, are retained by the owner of the images. These images are not in the public domain. For inquiries about images on _GPO Access_ please contact the [GPO Contact Center](https://web.archive.org/web/20060630160404id_/http%3A//www.gpoaccess.gov/help/index.html). 
 
 [ Top ]
 
@@ -52,7 +58,7 @@ The U.S. Government Printing Office (GPO) has always had a commitment to accessi
 
 Currently, GPO is working to ensure that existing pages on _GPO Access_ are Section 508-compliant, and that future pages will be created specifically with these accessibility standards in mind.
 
-Feel free to contact us for any reason, especially if you encounter barriers to accessibility on any of our Web pages. With your help, we can work together to ensure that _GPO Access_ remains as accessible as possible. Please direct questions, comments, or recommendations regarding the accessibility of _GPO Access_ to __ the _[GPO Access](https://web.archive.org/web/20051220020425id_/http%3A//www.gpoaccess.gov/contact.html)_[ User Support Team](https://web.archive.org/web/20051220020425id_/http%3A//www.gpoaccess.gov/contact.html). 
+Feel free to contact us for any reason, especially if you encounter barriers to accessibility on any of our Web pages. With your help, we can work together to ensure that _GPO Access_ remains as accessible as possible. Please direct questions, comments, or recommendations regarding the accessibility of _GPO Access_ to __ the [GPO Contact Center](https://web.archive.org/web/20060630160404id_/http%3A//www.gpoaccess.gov/help/index.html). 
 
 More information about Section 508 can be found on: [http://www.section508.gov](http://frwebgate.access.gpo.gov/cgi-bin/leaving.cgi?from=exit.html&to=http://www.section508.gov&log=linklog). 
 
@@ -74,7 +80,7 @@ When users surf the _GPO Access_ Web site or hosted Federal Web sites, GPO colle
 
 We use these statistics to make improvements to _GPO Access_ , not to identify individual users or their searches. We do not enable cookies to monitor usage or to gather users’ personal information.
 
-View [examples](https://web.archive.org/web/20051220020425id_/http%3A//www.gpoaccess.gov/privexample.html) of statistical information that we collect.
+View [examples](https://web.archive.org/web/20060630160404id_/http%3A//www.gpoaccess.gov/privexample.html) of statistical information that we collect.
 
 **Information Collected via Correspondence with GPO**  
 Personal information submitted by a user in comments or questions via phone, fax, or e-mail is not distributed to parties outside of GPO. Identifying information, such as name, e-mail address, and phone or fax number, is used only for responding to users' comments or questions, and is not made available for other purposes.
@@ -94,7 +100,7 @@ GPO does not enable cookies to monitor usage or to gather users’ personal info
 **Definitions of Privacy Terms**
 
   * **Cookies** : Cookies are small pieces of information that Web servers or pages store on a user’s hard drive. There are two types of cookies: session cookies and persistent cookies. Both types of cookies allow Internet servers to "remember" specific information about a user. Web sites use them primarily to personalize their sites for individual users, to keep track of orders when users purchase products, and to target advertising toward users based on the information that they access. However, session cookies will "remember" that information for only as long as you explore a Web site during one "session", or visit to the Web site. Session cookies will not "remember" information about you when you return to the site for subsequent visits. However, persistent cookies will "remember" this information for more than one session. OMB has decided that persistent cookies should not be allowed on Government Web sites, except in "the most unusual of circumstances." GPO currently follows this recommendation.
-  * **Encryption** : Encryption technology ensures the protection of personal information via private, secure transactions. View [ encryption information](http://bookstore.gpo.gov/prf/encryption.html) for the U.S. Government Online Bookstore.
+  * **Encryption** : Encryption technology ensures the protection of personal information via private, secure transactions. View [ encryption information](http://bookstore.gpo.gov/help/ordering.jsp#guarantee) for the U.S. Government Online Bookstore.
 
 
 
@@ -106,11 +112,13 @@ Site security is the concept of monitoring network traffic to identify unauthori
 
 In the case that suspicious activity of this sort arises, a user's personal information may be tracked to identify a possible threat. This is the only reason that GPO will ever collect personal information and/or monitor user activity without asking permission or giving prior notice.
 
+**Note:** To assist users in finding official Government information, we provide links to other Web sites. Once users have left _GPO Access_ and entered another site, they are subject to the policies and legal notices on that site.
+
 [ Top ]
 
 * * *
 
 A service of the U.S. Government Printing Office.
 
-Last updated: September 27, 2003   
+Last updated: April 21, 2006   
 Page Name: http://www.gpoaccess.gov/about/legal.html
