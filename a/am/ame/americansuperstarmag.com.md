@@ -1,36 +1,41 @@
-> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2005-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051029045852id_/http%3A//www.americansuperstarmag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630033726id_/http%3A//www.americansuperstarmag.com/privacy.php) for the most accurate reproduction.*
 
-# American Superstar Magazine - The Ultimate Guide to the Superstar Life!
+# American Superstar Magazine™ | Entertainment News, Celebrities, Up-and-Coming Talent
 
-CBS is jumping ahead of the competition. The network has already given a 13-episode order to a comedy called "Class," about the lives of some former third-grade classmates who reconnect after 20 years. 
+American Superstar is searching for new faces and talent all across the country.
 
-The show comes from "Friends" co-creator David Crane and from Jeffrey Klarik, who created UPN's "Half & Half." 
+Please submit a profile so that we can learn a little more about you. [Click Here!](http://www.americansuperstarmag.com/reg.php)
 
-What would you do with supermodel Kate Moss if you had a contract with her?   
+"Lost" star Emilie de Ravin has married boyfriend Josh Janowicz. The couple, who have been dating since friends introduced them four years ago, tied the knot in Melbourne, in her native Australia, on Monday, June 26. 
+
+Emilie, who plays castaway Claire Littleton on the hit show, and Josh, who is also an actor, exchanged their vows in front of a small gathering of friends and family. The actress' publicist, Jeff Raymond, revealed it was a "small, intimate ceremony." It is not thought any of Emilie's "Lost" cast mates attended the nuptials. 
+
+Emilie, who wore a lacy Monique Lhuillier gown, has always insisted she wanted a small wedding. The 24-year-old said earlier this year: "I'd never have a large wedding. That's not the kind of person either of us are. We're both quite low-key people." 
+
+[More Hollywood Gossip](http://www.americansuperstarmag.com/hollywood_gossip.php)
+
+Which will be the best summer reality TV series?   
 
 
   
 
 
-_OCTOBER 28, 2005_
+_June 29, 2006_
 
-Singer Charlie Daniels, 69
+Filmmaker Ray Harryhausen, 86 
 
-Actor Dennis Franz, 61
+Baseball legend Harmon Killebrew, 70 
 
-Athlete Bruce Jenner, 56
+Actor Gary Busey, 62 
 
-Actress Daphne Zuniga, 43
+Actor/comic Richard Lewis, 57 
 
-Actress Lauren Holly, 42
+Singer Nicole Scherzinger, 28
 
-Actor Andy Richter, 39
+_In Memory..._
 
-Actress Julia Roberts, 38
-
-Singer Ben Harper, 36
-
-Actor Joaquin Phoenix, 31
+Producer Aaron Spelling  
+1923-2006
 
 | 
 
@@ -186,3 +191,7 @@ We may automatically track and collect your IP address, domain server, the type 
 
 
 Effective Date: August 1, 2005 
+
+| 
+
+[](http://www.americansuperstarclothing.com/)
