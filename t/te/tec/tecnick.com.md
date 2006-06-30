@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tecnick.com privacy policy that was archived on 2005-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051027075834id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tecnick.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630095824id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -29,7 +29,7 @@ A web surfer may choose to opt-out of receiving the benefits associated with our
 
 ### Personally Identifiable Consumer Data - Opt-Out
 
-Users can change or delete their personally-identifiable data simply using the [user area](https://web.archive.org/web/20051027075834id_/http%3A//www.tecnick.com/public/code/cp_edit_user.php) or sending an email to [info@tecnick.com](mailto:info@tecnick.com).
+Users can change or delete their personally-identifiable data simply using the [user area](https://web.archive.org/web/20060630095824id_/http%3A//www.tecnick.com/public/code/cp_edit_user.php) or sending an email to [info@tecnick.com](mailto:info@tecnick.com).
 
 ### Children&rsquo;s Privacy
 
@@ -39,4 +39,6 @@ Tecnick.com is very sensitive to the issue of children&rsquo;s privacy and makes
 
 For more information or if you have questions or concerns regarding Tecnick.com&rsquo;s Privacy Statement, please send an e-mail to [info@tecnick.com](mailto:info@tecnick.com). 
 
-[](https://web.archive.org/web/20051027075834id_/http%3A//www.tecnick.com/public/code/cp_dpage.php?aiocp_dp=aiocp_desc) [](http://validator.w3.org/check/referer) [](http://jigsaw.w3.org/css-validator/) [](http://www.w3.org/WAI/WCAG1AA-Conformance "Explanation of Level Double-A Conformance") [](http://www.sella.it/ "Banca Sella")
+  
+  
+
