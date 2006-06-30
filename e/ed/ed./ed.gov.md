@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ed.gov privacy policy that was archived on 2005-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051228122253id_/http%3A//www.ed.gov/notices/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed.gov privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630045738id_/http%3A//www.ed.gov/notices/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,12 +13,13 @@
 |  • [Offices](https://web.archive.org/about/offices/list/index.html?src=gu)  
 • [Publications](https://web.archive.org/about/pubs/intro/index.html?src=gu)  
 • [Budget](https://web.archive.org/about/overview/budget/index.html?src=gu)  
-• [Jobs](https://web.archive.org/about/jobs/open/edjobs.html?src=gu)  
+• [Jobs](https://web.archive.org/about/jobs/open/edhires/index.html?src=gu)  
 • [Contacts](https://web.archive.org/about/contacts/gen/index.html?src=gu)  
 |   
 | [Press Room](https://web.archive.org/news/landing.jhtml?src=gu) |   
 |  • [Fact Sheets](https://web.archive.org/news/opeds/factsheets/index.html?src=gu)  
 • [Speeches](https://web.archive.org/news/speeches/latest/index.html?src=gu)  
+• [Secretary Spellings](https://web.archive.org/news/staff/bios/spellings.html?src=gu)  
 |   
 | [Help](https://web.archive.org/help/landing.jhtml?src=gu) |   
 |  • [A-Z Index](https://web.archive.org/help/site/index/topics_az.jsp?src=gu)  
@@ -113,7 +114,7 @@ Our policy discloses the privacy practices for the ED website. But ED provides l
 7\. Questions?  
 
 
-If you have questions about this policy, please contact [webmaster@inet.ed.gov](mailto:webmaster@inet.ed.gov?subject=Re:%20ED.gov%20Privacy%20Policy).
+If you have questions about this policy, please contact [webmaster@ed.gov](mailto:webmaster@ed.gov?subject=Re:%20ED.gov%20Privacy%20Policy).
 
  TOP   
   
@@ -121,6 +122,6 @@ If you have questions about this policy, please contact [webmaster@inet.ed.gov](
 | [ ](https://web.archive.org/print/notices/privacy/index.html) |  [Printable view](https://web.archive.org/print/notices/privacy/index.html "Print this page") |  [ ](https://web.archive.org/sharePage.jsp?url=/%6E%6F%74%69%63%65%73%2F%70%72%69%76%61%63%79%2F%69%6E%64%65%78%2E%68%74%6D%6C) |  [Share this page](https://web.archive.org/sharePage.jsp?url=/%6E%6F%74%69%63%65%73%2F%70%72%69%76%61%63%79%2F%69%6E%64%65%78%2E%68%74%6D%6C "Send this page")  
 ---|---|---|---  
   
-Last Modified: 08/23/2004   
+Last Modified: 03/07/2006   
   
 | 
