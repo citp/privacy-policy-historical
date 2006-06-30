@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the framedestination.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227093634id_/http%3A//www.framedestination.com/infoPage.php%3Faction%3Ddisplay%26infoPageId%3D3%26PHPSESSID%3Dad40257797b2c9f353eb527a642f002f%26PHPSESSID%3Dad40257797b2c9f353eb527a642f002f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the framedestination.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630200900id_/http%3A//framedestination.com/infoPage.php%3Faction%3Ddisplay%26infoPageId%3D3%26PHPSESSID%3D3628781b1b16a8f817474e505352544b%26PHPSESSID%3D3628781b1b16a8f817474e505352544b) for the most accurate reproduction.*
 
 # Picture Frame Destination Quality Picture Frames Mats & Mounting Supplies
 
