@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reflexive.com privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216231632id_/http%3A//reflexive.com/index.php%3FPAGE%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflexive.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630053205id_/http%3A//reflexive.com/index.php%3FPAGE%3DPrivacy_Policy) for the most accurate reproduction.*
 
-# Untitled
+# Reflexive Arcade Privacy Policy
 
 **Reflexive Entertainment Privacy Policy**
 
@@ -28,7 +28,7 @@ Reflexive Entertainment, Inc. ("Reflexive") takes your privacy very seriously. P
 
 **·** Reflexive will not sell or rent your personally identifiable information to anyone. 
 
-**·** Unless you have agreed to recieve our newsletter, any names and email addresses you give us are NOT compiled into any type of mailing list, or otherwise used for any type of email solicitation. If you choose to receive these newsletters, but later decide you no longer want to receive them, you may request to be remove at any time by completeing the form at [arcade.reflexive.com/emailremove.aspx](http://arcade.reflexive.com/emailremove.aspx). 
+**·** Unless you have agreed to receive our newsletter, any names and email addresses you give us are NOT compiled into any type of mailing list, or otherwise used for any type of email solicitation. If you choose to receive these newsletters, but later decide you no longer want to receive them, you may request to be remove at any time by completeing the form at [arcade.reflexive.com/emailremove.aspx](http://arcade.reflexive.com/emailremove.aspx). 
 
 **·** Reflexive may send personally identifiable information about you to other companies or people when: 
 
