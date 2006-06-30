@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buyandsell.ie privacy policy that was archived on 2005-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219150739id_/http%3A//www.buyandsell.ie/PrivacyStatement.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buyandsell.ie privacy policy that was archived on 2006-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060630155138id_/http%3A//www.buyandsell.ie/PrivacyStatement.php) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="content-type" content="text/html;charset=UTF-8">
 
@@ -23,7 +23,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="/css/main.css" rel="stylesheet" type="text/css">
 
-<script language="JavaScript" src="/bs_v13.js"> </script>
+<script language="JavaScript" src="/bs_v17.js"> </script>
 <script language="JavaScript">
 function onImageRoll(aBaseName, aOn) {
   if (document.images) {
@@ -33,31 +33,39 @@ function onImageRoll(aBaseName, aOn) {
   }
   return true;
 }
-function imageRollSetDefault(aBaseName, aPutOn, aHide) {
+function imageRollSetDefault(aBaseName, aPutOn, aVisible) {
   if (!document.images) return false;
+  aCurrent = eval(aBaseName + "_def.src");
 
-  aActive = eval(aBaseName + "_def.src");
-  aInactive = eval(aBaseName + "_out.src");
+  if (aVisible)
+    document[aBaseName].style.visibility="visible"; else
+    document[aBaseName].style.visibility="hidden";
 
 
-  if (aHide)
-    document[aBaseName].style.visibility="hidden"; else
-    document[aBaseName].style.visibility="visible";
+  if ((aCurrent.indexOf('_on')>0)!=aPutOn) {
+    aFolder = aCurrent.slice(0, aCurrent.lastIndexOf('/'))+'/';
+    if (aPutOn)
+      aDef = aFolder+aBaseName+"_on.png"; else
+      aDef = aFolder+aBaseName+"_off.png";
+    eval(aBaseName + "_def.src = \""+aDef+"\"");
+    document[aBaseName].src = eval(aBaseName + "_def.src");
 
-  if ((aActive.indexOf('_on')>0)!=aPutOn) {
-    eval(aBaseName + "_def.src = \""+aInactive+"\"");
-    eval(aBaseName + "_out.src = \""+aActive+"\"");
+    aCurrentOvr = eval(aBaseName + "_ovr.src");
+    if (aCurrentOvr.indexOf('_ovron')>0 || aCurrentOvr.indexOf('_ovroff')>0) {
+      if (aPutOn)
+        aDef = aFolder+aBaseName+"_ovron.png"; else
+        aDef = aFolder+aBaseName+"_ovroff.png";
+      eval(aBaseName + "_ovr.src = \""+aDef+"\"");
+    }
   }
-  document[aBaseName].src = eval(aBaseName + "_def.src");
 }
 </script>
 
 </head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <div align="center">
-  
-  <table width="760" border="0" cellpadding="0" cellspacing="0" background="/images/skins/xmas_background.gif">
+    <table width="760" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr align="left" valign="top">
-      <td width="204"><a href="/index.php"><img src="/images/skins/xmas_logo.gif" alt="BuyandSell.ie" width="204" height="54" border="0"></a></td>
+      <td width="204"><a href="/index.php"><img src="/images/logo_buyandsell2.gif" alt="BuyandSell.ie" width="204" height="54" border="0"></a></td>
       <td width="556"><table width="556" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
             <td align="right"><a href="/index.php"><img src="/images/tab_free_ads_a.gif" alt="BuyandSell Free Ads" width="80" height="22" border="0"></a><img src="/images/vid.gif" width="9" height="22"><a href="http://shops.buyandsell.ie/"><img src="/images/tab_shops.gif" alt="Shops" width="71" height="22" border="0"></a><img src="/images/vid.gif" width="9" height="22"><a href="http://dating.buyandsell.ie"><img src="/images/tab_dating.gif" alt="Dating" width="70" height="22" border="0"></a><img src="/images/vid.gif" width="9" height="22" border="0"><a href="http://club.buyandsell.ie"><img src="/images/tab_club.gif" alt="BuyandSell Club" width="70" height="22" border="0"></a><img src="/images/vid.gif" width="9" height="55"></td>
@@ -65,7 +73,6 @@ function imageRollSetDefault(aBaseName, aPutOn, aHide) {
         </tbody></table></td>
     </tr>
   </tbody></table>
-
       <table width="760" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
       <td height="24" background="/images/bar_subnav.gif"><table width="760" height="24" border="0" cellpadding="0" cellspacing="0">
@@ -110,11 +117,11 @@ function imageRollSetDefault(aBaseName, aPutOn, aHide) {
                   <td><img src="/images/arrow_logout.gif" width="13" height="24"></td>
                         </tr>
               </tbody></table></td>
-                        <form action="browse.php"></form>
+            <form action="browse.php"></form>
             <td align="right" valign="middle">
 
               <table width="100" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
+                              <tbody><tr>
                   <td class="linksSubnavSec"><b>Search:</b>&nbsp;&nbsp;</td>
                   <td><input id="quicksearch" type="text" name="quicksearch" value="" style="height:19px; width:155px"></td>
                   <td>&nbsp;&nbsp;</td>
@@ -126,7 +133,7 @@ function imageRollSetDefault(aBaseName, aPutOn, aHide) {
                   <td>&nbsp;&nbsp;</td>
                   <td><input name="imageField" type="image" src="/images/button_subnav_go.gif" width="22" height="17" border="0"></td>
                 </tr>
-              </tbody></table></td>
+                            </tbody></table></td>
                     
             <td width="20">&nbsp;</td>
           </tr>
@@ -230,7 +237,7 @@ BuyandSell reserves the right in its sole discretion to amend this privacy polic
   </tbody></table>
   <table width="760" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr align="center">
-      <td height="40" colspan="3" class="textSmall">Copyright © 2005 B&amp;S Limited. All Rights Reserved. <br>
+      <td height="40" colspan="3" class="textSmall">Copyright © 2005,2006 B&amp;S Limited. All Rights Reserved. <br>
         <a href="/TermsAndConditions.php" class="linksFooterSmall">Terms &amp; Conditions</a> | <a href="/PrivacyStatement.php" class="linksFooterSmall">Privacy Statement</a>
          | <a href="/AboutCompany.php" class="linksFooterSmall">About Company</a>
          | <a href="/jobs/jobs.php" class="linksFooterSmall">Careers</a>
@@ -242,8 +249,6 @@ BuyandSell reserves the right in its sole discretion to amend this privacy polic
     </tr>
   </tbody></table>
 </div>
-
-
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td>
