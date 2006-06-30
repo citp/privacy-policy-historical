@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211181341id_/http%3A//www.dublincity.ie/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublincity.ie privacy policy that was archived on 2006-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060927051504id_/http%3A//www.dublincity.ie/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
