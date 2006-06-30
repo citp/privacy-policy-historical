@@ -1,15 +1,20 @@
-<!--The following is the downloaded HTML source of the lagalaxy.com privacy policy that was archived on 2005-03-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050306114307id_/http%3A//www.mlsnet.com/MLS/about/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lagalaxy.com privacy policy that was archived on 2006-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060630212436id_/http%3A//www.mlsnet.com/MLS/about/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>MLSnet.com - About - Privacy</title>
 
+<link rel="Shortcut Icon" href="/imgs/icons/mls.ico">
 <link rel="stylesheet" type="text/css" href="/css/global.css">
 <link rel="stylesheet" type="text/css" href="/css/content.css">
 <link rel="stylesheet" type="text/css" href="/css/mls.css">
 
 	
-<script type="text/javascript" src="/js/global.js"></script>
+<script type="text/javascript" src="/js/global.js"></script><script src="https://web.archive.org/web/20070208222358/http://ww2.mlsnet.com/shared/media/mplayer.js" type="text/javascript"></script>
+<script src="/js/util.js" type="text/javascript"></script>
+<script src="/js/cookie.js" type="text/javascript"></script>
+<script src="/js/mlsnet_player.js" type="text/javascript"></script>
+
 <script type="text/javascript" src="/js/dcads.js"></script>
 
 
@@ -25,33 +30,34 @@
 <div id="netNavHeader">
 <table height="35" border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr valign="top">
-		<td width="754">
-		<a href="http://www.mlsnet.com/MLS/"><img src="/mls/imgs/mlsnet_nav.gif" height="12"></a><br>
+		<td width="900">
+		<a href="http://www.mlsnet.com/MLS/"><img src="/mls/imgs/mlsnetNav.gif" height="12"></a><br>
 		<img src="/mls/imgs/networkNav.gif" usemap="#netNav">
 		<map name="netNav">
 		<area coords="0,0,58,23" title="CD Chivas USA" href="http://chivas.usa.mlsnet.com/MLS/cdc/">
 		<area coords="61,0,117,23" title="Colorado Rapids" href="http://www.coloradorapids.com" target="_blank">
 		<area coords="119,0,179,23" title="FC Dallas" href="http://fc.dallas.mlsnet.com/MLS/fcd/"> 
-		<area coords="181,0,248,23" title="Los Angeles Galaxy" href="http://la.galaxy.mlsnet.com/MLS/lag/">
-		<area coords="250,0,307,23" title="Real Salt Lake" href="http://real.saltlake.mlsnet.com/MLS/rsl/">
-		<area coords="308,0,359,23" title="San Jose Earthquakes" href="http://sanjose.earthquakes.mlsnet.com/MLS/sje/">
+		<area coords="181,0,235,23" title="Houston" href="http://houston.mlsnet.com/MLS/hou/">
+		<area coords="236,0,304,23" title="Los Angeles Galaxy" href="http://la.galaxy.mlsnet.com/MLS/lag/">
+		<area coords="305,0,359,23" title="Real Salt Lake" href="http://real.saltlake.mlsnet.com/MLS/rsl/">
 		<area coords="385,0,431,23" title="Chicago Fire" href="http://chicago.fire.mlsnet.com/MLS/chf/">
 		<area coords="432,0,487,23" title="Columbus Crew" href="http://columbus.crew.mlsnet.com/MLS/coc/"> 
 		<area coords="490,0,548,23" title="D.C. United" href="http://dcunited.mlsnet.com/MLS/dcu/">
 		<area coords="552,0,617,23" title="Kansas City Wizards" href="http://kc.wizards.mlsnet.com/MLS/kcw/">
-		<area coords="622,0,685,23" title="MetroStars" href="http://metrostars.mlsnet.com/MLS/met/"> 
-		<area coords="689,0,755,23" title="New England Revolution" href="http://www.revolutionsoccer.net" target="_blank">
+		<area coords="622,0,685,23" title="New England Revolution" href="http://www.revolutionsoccer.net" target="_blank">
+		<area coords="689,0,755,23" title="Red Bull New York" href="http://redbull.newyork.mlsnet.com/MLS/rbn/"> 
+		<area coords="760,0,899,23" title="Toronto FC" href="http://toronto.fc.mlsnet.com/MLS/t280/"> 
 		</map>
 		</td>
-		<td><div id="netNavTop"><!--<div id="netNavBot"></div>-->&nbsp;</div></td>
+		<td><div id="netNavTop">&nbsp;</div></td>
 	</tr>
 </tbody></table>
 </div>
 <table height="89" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top:1px solid #fff;">
 	<tbody><tr>
 		<td width="754">
-		<div id="headerMain">
-			<a href="http://www.mlsnet.com/MLS/index.jsp"><img src="/mls/imgs/header_logo.gif" id="headerLogo" alt="MLSnet.com"></a>
+		<div id="headerMain" style="background:url(http://www.mlsnet.com/mls/imgs/header_bg.jpg) no-repeat;">
+			<a href="http://www.mlsnet.com/MLS/index.jsp"><img src="http://www.mlsnet.com/imgs/x.gif" id="headerLogo" alt="MLSnet.com"></a>
 			<div id="global"><a href="http://www.mlsnet.com/MLS/index.jsp" style="color:#fff">English</a>&nbsp;<small>|</small>&nbsp;<a href="http://www.mlsnet.com/MLS/espanol/index.jsp" style="color:#fff">Español</a></div>
 		</div>
 		</td>
@@ -65,7 +71,8 @@
 <td width="30" class="search"><span style="color:#F3CF1E;"><strong>ALERT:</strong></span></td>
 <td width="410" class="search">
 	<script type="text/javascript">
-		var sourcefile = escape("/MLS/mls/components/news/alerts.xml"); 
+		var ranNum = Math.round( Math.random()*1000000000);
+		var sourcefile = escape("/mls/components/news/alerts.xml?num="+ranNum); 
 		var wait = 45;
 		document.write("<OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0' WIDTH='418' HEIGHT='15' id='alert_mls' ALIGN='left'>");
 		document.write("<PARAM NAME=movie VALUE='/flash/alert_news.swf?sourcefile="+sourcefile+"&wait="+wait+"'>");
@@ -73,13 +80,13 @@
 		document.write("<PARAM NAME=bgcolor VALUE=#006BB8>");
 		document.write("<EMBED src='/flash/alert_news.swf?sourcefile="+sourcefile+"&wait="+wait+"' quality=high bgcolor=#006BB8  WIDTH='418' HEIGHT='15' NAME='alert_mls' ALIGN='left' TYPE='application/x-shockwave-flash' PLUGINSPAGE='http://www.macromedia.com/go/getflashplayer'></EMBED>");
 		document.write("</OBJECT>");
-	</script><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="418" height="15" id="alert_mls" align="left"><param name="movie" value="/flash/alert_news.swf?sourcefile=/MLS/mls/components/news/alerts.xml&amp;wait=45"><param name="quality" value="high"><param name="bgcolor" value="#006BB8"><embed src="/flash/alert_news.swf?sourcefile=/MLS/mls/components/news/alerts.xml&amp;wait=45" quality="high" bgcolor="#006BB8" width="418" height="15" name="alert_mls" align="left" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object>
+	</script><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="418" height="15" id="alert_mls" align="left"><param name="movie" value="/flash/alert_news.swf?sourcefile=/mls/components/news/alerts.xml%3Fnum%3D669505501&amp;wait=45"><param name="quality" value="high"><param name="bgcolor" value="#006BB8"><embed src="/flash/alert_news.swf?sourcefile=/mls/components/news/alerts.xml%3Fnum%3D669505501&amp;wait=45" quality="high" bgcolor="#006BB8" width="418" height="15" name="alert_mls" align="left" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object>
 </td>
 
 
 <td align="right" class="search" style="color:#fff;"><strong>SEARCH:</strong> MLSnet.com</td>
 <td align="right" class="search">
-	<form id="search" name="search" action="/MLS/search.do"><input type="text" name="query" value="" size="22" style="font-size:9px;" maxlength="120">&nbsp;<input type="image" style="vertical-align:text-bottom;" src="/mls/imgs/btn_go.gif"><!--<input type="submit" class="btn2" value="GO" />-->
+	<form id="search" name="search" action="http://www.mlsnet.com/MLS/search.do"><input type="text" name="query" value="" size="22" style="font-size:9px;" maxlength="120">&nbsp;<input type="image" style="vertical-align:text-bottom;" src="http://www.mlsnet.com/mls/imgs/btn_go.gif">
 	<input type="hidden" name="ccontext" value="mls"><input type="hidden" name="cid" value="mls"></form>
 </td>
 
@@ -91,6 +98,10 @@
 		<tbody><tr valign="top">
 			<td width="120" rowspan="2" id="leftNav">
 						<ul id="nav">
+			<li>&nbsp;<a class="nav" title="World Cup 2006" href="http://www.mlsnet.com/MLS/mls/events/world_cup/2006/"><em>World Cup 2006</em></a></li>
+			<li>&nbsp;<a class="nav" title="Tickets" href="http://www.mlsnet.com/MLS/mls/tickets/"><em>Tickets</em></a></li>
+			<li>&nbsp;<a class="nav" title="Shop" href="http://www.mlsgear.com" target="_blank"><em>Shop</em></a></li>
+			<li>&nbsp;<a class="nav" title="Auctions" href="http://auction.mlsnet.com" target="_blank"><em>Auctions</em></a></li>
 			<li>&nbsp;<a class="nav" title="NEWS" href="http://www.mlsnet.com/MLS/news/">NEWS</a></li>
 			<li>&nbsp;<a class="nav" title="SCHEDULE" href="http://www.mlsnet.com/MLS/mls/schedule/">SCHEDULE</a></li>
 			<li>&nbsp;<a class="nav" title="SCOREBOARD" href="http://www.mlsnet.com/MLS/scoreboard/">SCOREBOARD</a></li>
@@ -99,22 +110,24 @@
 			<li>&nbsp;<a class="nav" title="TEAMS" href="http://www.mlsnet.com/MLS/mls/teams/">TEAMS</a></li>
 			<li>&nbsp;<a class="nav" title="PLAYERS" href="http://www.mlsnet.com/MLS/players/">PLAYERS</a></li>
 			<li>&nbsp;<a class="nav" title="SIGHTS &amp; SOUNDS" href="http://www.mlsnet.com/MLS/sights/">SIGHTS &amp; SOUNDS</a></li>
-			<li>&nbsp;<a class="nav" title="EVENTS" href="http://www.mlsnet.com/MLS/mls/events/">EVENTS</a></li>
-			<li>&nbsp;<a class="nav" title="HISTORY" href="http://www.mlsnet.com/MLS/history/">HISTORY</a></li>
+			<li>&nbsp;<a class="nav" title="Reserve Division" href="http://www.mlsnet.com/MLS/mls/reserve/">Reserve Division</a></li>
+			<li>&nbsp;<a class="nav" title="Competitions" href="http://www.mlsnet.com/MLS/mls/events/competitions/2006/">Competitions</a></li>
+			<li>&nbsp;<a class="nav" title="Events" href="http://www.mlsnet.com/MLS/mls/events/">EVENTS</a></li>
+			<li>&nbsp;<a class="nav" title="History" href="http://www.mlsnet.com/MLS/mls/history/">HISTORY</a></li>
 			<li>&nbsp;<a class="nav" title="YOUTH SOCCER" href="http://www.mlsnet.com/MLS/programs/">YOUTH SOCCER</a></li>
-			<li>&nbsp;<a class="nav" title="FANTASY" href="http://fantasygames.sportingnews.com/mls/fantasy/login.html" target="_blank"><em>FANTASY</em></a></li>
-			<li>&nbsp;<a class="nav" title="TICKETS" href="http://www.mlsnet.com/MLS/mls/tickets/"><em>TICKETS</em></a></li>
-			<li>&nbsp;<a class="nav" title="SHOP" href="http://www.mlsgear.com" target="_blank"><em>SHOP</em></a></li>
+			<li>&nbsp;<a class="nav" title="FANTASY" href="http://www.mlsnet.com/MLS/mls/fantasy/" target="_blank"><em>FANTASY</em></a></li>
+			<li>&nbsp;<a class="nav" title="Mobile" href="http://www.mlsnet.com/mobile"><em>Mobile</em></a></li>
 		</ul>
-		<div class="ad1"><script type="text/javascript"> writeAd(120,240,1) </script><ilayer id="DClayerFlat1" visibility="hidden" width="120" height="240"></ilayer><nolayer><iframe src="https://web.archive.org/web/20070208222309/http://ad.doubleclick.net/adi/mls.mlsnet/About;page=privacy;pos=1;sz=120x240;tile=1;ord=216269266?" width="120" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer></div>
-		<div class="ad3"><script type="text/javascript"> writeAd(120,90,1) </script><ilayer id="DClayerFlat2" visibility="hidden" width="120" height="90"></ilayer><nolayer><iframe src="https://web.archive.org/web/20070208222309/http://ad.doubleclick.net/adi/mls.mlsnet/About;page=privacy;pos=1;sz=120x90;tile=1;ord=216269266?" width="120" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer></div>
-		<div class="ad1"><script type="text/javascript"> writeAd(120,240,2) </script><ilayer id="DClayerFlat3" visibility="hidden" width="120" height="240"></ilayer><nolayer><iframe src="https://web.archive.org/web/20070208222309/http://ad.doubleclick.net/adi/mls.mlsnet/About;page=privacy;pos=2;sz=120x240;tile=2;ord=216269266?" width="120" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer></div>
+		<div class="ad1"><script type="text/javascript"> writeAd(120,240,1) </script><ilayer id="DClayerFlat1" visibility="hidden" width="120" height="240"></ilayer><nolayer><iframe src="https://web.archive.org/web/20070208222309/http://ad.doubleclick.net/adi/mls.mlsnet/About;page=privacy;pos=1;sz=120x240;tile=1;ord=727101412?" width="120" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer></div>
+		
+			<div class="ad1"><script type="text/javascript"> writeAd(120,240,2) </script><ilayer id="DClayerFlat2" visibility="hidden" width="120" height="240"></ilayer><nolayer><iframe src="https://web.archive.org/web/20070208222309/http://ad.doubleclick.net/adi/mls.mlsnet/About;page=privacy;pos=2;sz=120x240;tile=2;ord=727101412?" width="120" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer></div>
 		
 			</td>
 			<td height="5" colspan="2"></td>
 		</tr>
 		<tr valign="top">
 			<td width="630" id="content">
+				
 				<!--get /components/about/league/privacy.jsp -->
 				<div class="mlsHead"><img src="/imgs/logos/mls_header.gif" width="30" height="21" alt="" border="0" align="absmiddle"> l About MLS</div>
 <p>&nbsp;</p>
@@ -209,31 +222,63 @@ If we decide to make an important change to our Privacy Policy, we will post a n
 </p><p>
 
 			</p></td>
-			<td id="autoCol"><br></td>
+			<td id="autoCol">
+
+<div class="ad6"><script type="text/javascript"> writeAd(160,600,1) </script><ilayer id="DClayerFlat3" visibility="hidden" width="160" height="600"></ilayer><nolayer><iframe src="https://web.archive.org/web/20070208222309/http://ad.doubleclick.net/adi/mls.mlsnet/About;page=privacy;pos=1;sz=160x600;tile=1;ord=727101412?" width="160" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></nolayer></div>
+
+<div style="width:160px;background-color:#fff;margin:5px 0 0 5px;" align="center">
+	<!-- Soccer United Recovery Fund Button Code -->
+	<a href="http://www.soccerunitedrecoveryfund.org" title="Visit SoccerUnitedRecoveryFund.org for details" target="_blank"><img src="http://www.soccer.com/soccerunited/images/soccerUnited_button.png" width="140" height="70" border="0" alt="Visit Soccer United Recovery Fund for details"></a>
+	<!-- End Soccer United Recovery Fund Button Code -->
+</div>
+
+<br></td>
 		</tr>
 	</tbody></table>
 </div>	
 <div id="footer">
 
-<div style="background-color:#0A51A1;height:12px;margin:10px 0px;padding:2px;">
-<a style="color:#fff" href="http://www.mlsnet.com/MLS/about/">About MLS</a> <small>|</small> <a style="color:#fff" href="http://www.mlsnet.com/MLS/about/rules/">Rules of Soccer</a> <small>|</small> 
 
-<a style="color:#fff" href="http://www.mlsnet.com/MLS/about/partners.jsp">Official Partners</a> <small>|</small> <a style="color:#fff" href="/MLS/mls/about/licensees.jsp">Licensees</a> <small>|</small> <a style="color:#fff" href="http://www.mlsnet.com/MLS/about/jobs.jsp">Jobs</a> <small>|</small> <a style="color:#fff" href="http://www.mlsnet.com/MLS/help/">Help</a> <small>|</small> <a style="color:#fff" href="http://www.mlsnet.com/MLS/about/contact.jsp">Contact MLS</a>
+<div style="background-color:#0A51A1;height:12px;margin:10px 0px;padding:2px;">
+<a class="footer" href="http://www.mlsnet.com/MLS/about/">About MLS</a> <small>|</small> <a class="footer" href="http://www.mlsnet.com/MLS/about/rules/">Rules of Soccer</a> <small>|</small> 
+
+<a class="footer" href="http://www.mlsnet.com/MLS/about/partners.jsp">Official Partners</a> <small>|</small> <a class="footer" href="/MLS/mls/about/licensees.jsp">Licensees</a> <small>|</small> <a class="footer" href="http://www.mlsnet.com/MLS/about/jobs.jsp">Jobs</a> <small>|</small> <a class="footer" href="http://www.mlsnet.com/MLS/help/">Help</a> <small>|</small> <a class="footer" href="http://www.mlsnet.com/MLS/about/contact.jsp">Contact MLS</a>
 
 </div>
-<div style="width:759px;" class="small"><img src="/imgs/mls_logo_footer.gif" class="img3" align="left"><img src="/imgs/logos/germany06.jpg" align="right"><a href="http://www.sumworld.com" target="_blank"><img src="/imgs/logos/sum.jpg" align="right"></a><img src="/imgs/usa_logo_sm.gif" align="right">© 2005 MLS. MLS, Major League Soccer, the MLS logo, MLS team identifications, MLS Cup,  MLS All-Star Game, their designs, logos, uniform designs, color combinations  and slogans used on or in connection with this site are  trademarks, copyrighted designs and other forms of intellectual property of Major League Soccer, L.L.C., and may not be used, in whole or part, without the prior written consent of Major League Soccer, L.L.C. All Rights Reserved. USE OF THE WEBSITE SIGNIFIES YOUR AGREEMENT TO THE <a class="footer" href="http://www.mlsnet.com/MLS/about/terms.jsp">TERMS OF USE</a> AND <a class="footer" href="http://www.mlsnet.com/MLS/about/privacy.jsp">PRIVACY POLICY</a><br></div></div>
+<div style="width:759px;" class="small"><img src="http://www.mlsnet.com/imgs/mls_logo_footer.jpg" class="img3" align="left"><img src="http://www.mlsnet.com/imgs/logos/germany06.jpg" align="right"><a href="http://www.sumworld.com" target="_blank"><img src="http://www.mlsnet.com/imgs/logos/sum.jpg" align="right"></a><img src="http://www.mlsnet.com/imgs/usa_logo_sm.gif" align="right">© 2006 MLS. MLS, Major League Soccer, the MLS logo, MLS team identifications, MLS Cup,  MLS All-Star Game, their designs, logos, uniform designs, color combinations  and slogans used on or in connection with this site are  trademarks, copyrighted designs and other forms of intellectual property of Major League Soccer, L.L.C., and may not be used, in whole or part, without the prior written consent of Major League Soccer, L.L.C. All Rights Reserved. USE OF THE WEBSITE SIGNIFIES YOUR AGREEMENT TO THE <a style="color:#999;" href="http://www.mlsnet.com/MLS/about/terms.jsp">TERMS OF USE</a> AND <a style="color:#999;" href="http://www.mlsnet.com/MLS/about/privacy.jsp">PRIVACY POLICY</a><br></div>
+
+	<script type="text/javascript">
+	var _l = '1560592918'; // location_ext_id 
+	var _p = 1440; // period in minutes
+	var _f = 1; // frequency in period
+	var pub_click_url = '';
+	var _isaclick=1; 	
+	var _extra = (pub_click_url == "" ? "" : ( _isaclick ? "&aclick="+pub_click_url : "&pclick="+pub_click_url)); 
+	var _ta = (document.domain).split ("."); var psd = (_ta.length > 1 ? "." + _ta[_ta.length - 2] + "." + _ta[_ta.length - 1] : document.domain); var _cn = "LO" + _l + "="; var _call = document.cookie.indexOf (_cn); var _il = 1; var _tl = 0; var _ex; var _rnd = (new Date ()).getTime (); 
+	if (_call >= 0) { _pos = document.cookie.substring (_call).indexOf (';'); if (_pos > 0) _val = document.cookie.substring (_call + _cn.length, _call + _pos); else _val = document.cookie.substring (_call + _cn.length); 
+	if (_val.indexOf ('.') > 0) { _il = _val.substring (0, _val.indexOf ('.')); _ex = _val.substring (_val.indexOf ('.') + 1); _tl = _ex - (new Date ()).getTime (); } 
+	if (_tl <= 0) document.cookie = _cn + ";domain=" + psd + ";path=/;expires=" + (new Date ((new Date ()).getTime () - 1000000)).toGMTString () + ";"; } 
+	if (_il < _f || _tl <= 0) { var expiry = (new Date((new Date()).getTime()+_p*2*60*1000)).toGMTString(); 
+	if (document.cookie.indexOf(_cn) < 0 ) document.cookie=_cn+''+(1)+'.'+((new Date()).getTime()+_p*60*1000)+';domain='+psd+';path=/;expires='+expiry; else document.cookie=_cn+''+(_il-0+1)+'.'+_ex+';domain='+psd+';path=/;expires='+expiry; 
+	var _w = window.open('','','scrollbars=no,menubar=no,toolbar=no,location=no');
+	if (_w != null) _w.location.href="http://adopt.specificclick.net/adopt.sm?l="+_l + "&sz=pop&r=h&redir=1&rnd="+_rnd+_extra;
+	}
+	</script>
+</div>
 
 
 <!-- SiteCatalyst code version: G.5. Copyright 1997-2003 Omniture, Inc. More info available at http://www.omniture.com -->
 <script type="text/javascript">
 <!--
 	var s_account="mlsglobal,mlsnet";
-	var s_pageName="privacy";
+	var thisURL = document.location.pathname;
+	if (/^\/MLS/.test(thisURL)) thisURL = thisURL.slice(4);
+	var s_pageName=thisURL;
 	var s_server="";
 	var s_channel="About";
 	var s_pageType="";
 	var s_prop1="";
-	var s_prop2="";
+	var s_prop2="en";
 	var s_prop3="";
 	var s_prop4="";
 	var s_prop5="";
@@ -248,7 +293,7 @@ If we decide to make an important change to our Privacy Policy, we will post a n
 //-->
 </script>
 <div style="position:absolute;top;left:0;z-index:1000;width:1px;height:1px;clip:rect(0,1,1,0);">
-<script type="text/javascript" src="/js/s_code_remote.js"></script><img name="s_i_mlsglobal" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/mlsglobal,mlsnet/1/G.5-Pd-R/s03644547486278?[AQB]&amp;ndh=1&amp;t=24/1/2020%206%3A21%3A7%201%200&amp;pageName=privacy&amp;ch=About&amp;c24=mlsglobal%2Cmlsnet&amp;g=https%3A//web.archive.org/web/20050306114307id_/http%253A//www.mlsnet.com/MLS/about/privacy.jsp&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script type="text/javascript" src="/js/s_code_remote.js"></script><img name="s_i_mlsglobal" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/mlsglobal,mlsnet/1/G.5-Pd-R/s25987064995723?[AQB]&amp;ndh=1&amp;t=24/1/2020%2013%3A6%3A31%201%200&amp;pageName=/web/20060630212436id_/http%253A//www.mlsnet.com/MLS/about/privacy.jsp&amp;ch=About&amp;c2=en&amp;c24=mlsglobal%2Cmlsnet&amp;g=https%3A//web.archive.org/web/20060630212436id_/http%253A//www.mlsnet.com/MLS/about/privacy.jsp&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 </div>
 
 
