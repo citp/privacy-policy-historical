@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the credit.com privacy policy that was archived on 2005-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214233152id_/http%3A//credit.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the credit.com privacy policy that was archived on 2006-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060630052552id_/http%3A//credit.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>credit.com: privacy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
 
 <style>
 .ccomFormCell {
@@ -210,7 +212,7 @@ a:hover {
 	text-decoration: underline;
 }
 a:active {
-	color: #FFOOOO;
+	color: #FF0000;
 	text-decoration: underline;
 }
 .landing:link {
@@ -584,13 +586,13 @@ blockquote {
 .copyright {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: xx-small;
-	color: #999999;
+	color: #666666;
 	text-decoration: none;
 }
 .disclaimer {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 10px;
-	color: #000000;
+	color: #999999;
 	text-decoration: none;
 }
 /* ========== End of FOOTER ==========*/
@@ -695,6 +697,104 @@ function TabNext(obj,event,len,next_field) {
     }
   }
 }
+function openCard(theURL,local) {
+   	var arr=theURL.split('/');
+    var last=arr[arr.length-1];
+    var arr2=last.split('.');
+    last=arr2[0];
+    var arr3=last.split('?');
+    last=arr3[0];
+    var win;
+    if (!local) {
+    	theURL='http://www.credit.com'+theURL;
+    }
+    win=window.open(theURL,last,'width=800,height=600,scrollbars=1,location=yes');
+    win.focus();
+    return true;
+}
+
+  	function showDivWithFrame(id) {
+	   var box = document.getElementById(id);
+	   box.style.visibility="visible";
+	   var boxIframe = document.getElementById(id+"IFrame");
+	   boxIframe.style.display = "inline"; 
+	   
+	}	
+	
+  	function hideDivWithFrame(id) {
+	  var box = document.getElementById(id);
+	  box.style.visibility="hidden";
+      var boxIframe = document.getElementById(id+"IFrame");
+	  boxIframe.style.display = "none"; 
+	  
+	}    			
+	
+	function mouseCoords(ev){
+		ev = ev || window.event;
+		if(ev.pageX || ev.pageY){
+			return {x:ev.pageX, y:ev.pageY};
+		}
+		return {
+			x:ev.clientX + document.body.scrollLeft - document.body.clientLeft,
+			y:ev.clientY + document.body.scrollTop  - document.body.clientTop
+		};
+	}
+	
+	
+	function moveDivWithFrameToMouse(id,xOffset,yOffset,ev)
+	{
+        var pos = mouseCoords(ev);		
+        moveDivWithFrame(id,pos.x+xOffset,pos.y+yOffset,ev);		
+	}	
+	
+	function moveDivWithFrame(id,x,y)
+	{
+		var box = document.getElementById(id);
+		box.style.left=x;		
+		box.style.top=y;
+	    var boxIframe = document.getElementById(id+"IFrame");
+		boxIframe.style.left=x;		
+		boxIframe.style.top=y;				
+	}	
+			
+	function changeDivHTML(id, content) {
+		var box = document.getElementById(id);
+		box.innerHTML = content;
+	}
+	
+  function findPosX(obj)  {
+    var curleft = 0;
+    if(obj.offsetParent)
+        while(1) 
+        {
+          curleft += obj.offsetLeft;
+          if(!obj.offsetParent)
+            break;
+          obj = obj.offsetParent;
+        }
+    else if(obj.x)
+        curleft += obj.x;
+    return curleft;
+  }
+
+  function findPosY(obj)  {
+    var curtop = 0;
+    if(obj.offsetParent)
+        while(1)
+        {
+          curtop += obj.offsetTop;
+          if(!obj.offsetParent)
+            break;
+          obj = obj.offsetParent;
+        }
+    else if(obj.y)
+        curtop += obj.y;
+    return curtop;
+  }	
+  
+  function changeCreditRank(i) {
+     document.genForm.CREDITRANK[i].checked=true;
+  }
 </script>
 
 <link href="assets/css/stylesheet.css" rel="stylesheet" type="text/css">
@@ -720,7 +820,7 @@ function TabNext(obj,event,len,next_field) {
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/r/fico_score_watch" target="_blank" class="menu">Score Watch</a></td>
     </tr>
 	<tr> 
-      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/r/citi_monitoring" target="_blank" class="menu">Citi Credit Monitoring</a></td>
+      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/ufg/credit.com/truelink_monitor" class="menu">Credit Monitoring</a></td>
     </tr>
 	<tr> 
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/r/fico_deluxe" target="_blank" class="menu">FICO Deluxe</a></td>
@@ -733,9 +833,6 @@ function TabNext(obj,event,len,next_field) {
     </tr>
 	<tr> 
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/ufg/credit.com/truelink_single" class="menu">Single Credit Report</a></td>
-    </tr>
-	<tr> 
-      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/ufg/credit.com/truelink_monitor" class="menu">Credit Monitoring</a></td>
     </tr>
 </tbody></table>
 </div>
@@ -756,6 +853,9 @@ function TabNext(obj,event,len,next_field) {
 	<tr> 
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/ufg/credit.com/mortgage_refinance" class="menu">Home Equity Loans</a></td>
     </tr>
+	<tr> 
+      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/status" class="menu">Loan Status</a></td>
+    </tr>
 </tbody></table>
 </div>
 <div id="creditCards" onmouseover="showMenu('creditCards'); overMenu=true;" onmouseout="overMenu=false; hideMenu('creditCards');" style="position:absolute; left:209px; top:104px; width:175px; height:88px; z-index:3; visibility: hidden;"> 
@@ -767,6 +867,9 @@ function TabNext(obj,event,len,next_field) {
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/products/credit_cards/reward.jsp" class="menu">Reward Cards</a></td>
     </tr>
 	<tr> 
+      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/products/credit_cards/fairCredit.jsp" class="menu">Fair Credit</a></td>
+    </tr>
+	<tr> 
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/products/credit_cards/sub-prime.jsp" class="menu">Problem Credit</a></td>
     </tr>
 	<tr> 
@@ -776,7 +879,7 @@ function TabNext(obj,event,len,next_field) {
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/products/credit_cards/student.jsp" class="menu">Student Cards</a></td>
     </tr>
 	<tr> 
-      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/products/credit_cards/debit.jsp" class="menu">Pre-Paid Cards</a></td>
+      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/products/credit_cards/debit.jsp" class="menu">PrePaid Cards</a></td>
     </tr>
 	<tr> 
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/products/credit_cards/gas.jsp" class="menu">Gas Cards</a></td>
@@ -786,7 +889,7 @@ function TabNext(obj,event,len,next_field) {
 <div id="debtHelp" onmouseover="showMenu('debtHelp'); overMenu=true;" onmouseout="overMenu=false; hideMenu('debtHelp');" style="position:absolute; left:312px; top:104px; width:200px; height:71px; z-index:4; visibility: hidden;"> 
 <table width="175" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr> 
-      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/ufg/default/dcl" class="menu">Free Debt Consultation</a></td>
+      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/debt/debt-help.html" class="menu">Free Debt Consultation</a></td>
     </tr>
     <tr> 
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="#" onclick="openCard('/r/student_loan_consolidation');" class="menu">Student Loan Consolidation</a></td>
@@ -810,15 +913,15 @@ function TabNext(obj,event,len,next_field) {
     <tbody><tr> 
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/ufg/credit.com/mortgage_refinance?LP_LOAN_TYPE=PP_DEBTCON&amp;ERR=N&amp;POST=Y&amp;OPTIN=YES" class="menu">Debt Consolidation</a></td>
     </tr>
-	<tr> 
-      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/ufg/credit.com/mortgage" class="menu">Purchase Mortgage</a></td>
-    </tr>
     <tr> 
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/ufg/credit.com/mortgage_refinance?LP_LOAN_TYPE=PP_REFI&amp;ERR=N&amp;POST=Y&amp;OPTIN=YES" class="menu">Home Refinance</a></td>
     </tr>
     <tr> 
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/ufg/credit.com/mortgage_refinance?LP_LOAN_TYPE=PP_HOME_EQUITY&amp;ERR=N&amp;POST=Y&amp;OPTIN=YES" class="menu">Home Equity Loan</a></td>
     </tr>
+    <tr> 
+      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/r/mortgage_commercial" class="menu">Commercial Mortgage</a></td>
+    </tr>    
 	<tr> 
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="#" onclick="openCard('/r/home_purchase');" class="menu">Buying a Home</a></td>
     </tr>
@@ -839,7 +942,7 @@ function TabNext(obj,event,len,next_field) {
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="#" onclick="openCard('/r/dealix');" class="menu">New Car Price Quote</a></td>
     </tr>
 	<tr> 
-      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="#" onclick="openCard('/r/insurance_auto');" class="menu">Auto Insurance</a></td>
+      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="#" onclick="openCard('/r/zipinsure');" class="menu">Auto Insurance</a></td>
     </tr>
 	<tr> 
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';"><a href="/r/auto_refinance" class="menu">Auto Loan Refinance</a></td>
@@ -868,7 +971,7 @@ function TabNext(obj,event,len,next_field) {
 <div id="learning" onmouseover="showMenu('learning'); overMenu=true;" onmouseout="overMenu=false; hideMenu('learning');" style="position:absolute; left:620px; top:104px; width:190px; height:23px; z-index:7; visibility: hidden;">
 <table width="190" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr> 
-      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';" align="right"><a href="http://www.credit.com/c_home_c.htm" class="menu">Credit Basics</a></td>
+      <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';" align="right"><a href="/credit_information/" class="menu">Credit Information</a></td>
     </tr>
 	<tr> 
       <td nowrap="" class="tdMenu" onmouseover="this.className='tdMenuOver';" onmouseout="this.className='tdMenu';" align="right"><a href="/rs/" class="menu">Real Stories</a></td>
@@ -929,35 +1032,47 @@ function TabNext(obj,event,len,next_field) {
 </tbody></table>
 <table width="800" cellspacing="0" cellpadding="0">
   <tbody><tr> 
-    <td width="302" height="30" align="center" valign="top"> <p><br>
-      </p>
-      <p>&nbsp; </p>
+    <td width="302" height="30" align="center" valign="top"> <p>&nbsp;</p>
       <table width="275" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
-          <td height="224"> <span class="headerBlueSub2">Privacy Policy Topics 
-            </span> 
-            <ul>
-              <li><a href="#1">Our Commitment to Your Privacy</a></li>
-              <li><a href="#2">Your Consent to This Privacy Policy</a></li>
-              <li><a href="#3">Why We Collect Information</a></li>
-              <li><a href="#4">What Information We Keep and How Long We Keep It</a></li>
-              <li><a href="#5">How We Secure Your Information</a></li>
-              <li><a href="#6">Disclosure of Your Information</a></li>
-              <li><a href="#7">Children</a></li>
-              <li><a href="#8">Cookies</a></li>
-              <li><a href="#9">Protect and Verify Your Information</a></li>
-              <li><a href="#10">Applicable Web Sites</a></li>
-              <li><a href="#11">Questions About This Privacy Policy</a></li>
-              <li><a href="#12">Important Note Regarding non-U.S. Users and U.S. 
-                Law</a></li>
+          <td height="224"> <span class="headerBlueSub2">Here is what you will find 
+            in this policy statement: </span> <ul>
+              <li><a href="#1">What information we collect and how we collect it.</a></li>
+              <li><a href="#2">Non-personal information</a></li>
+              <li><a href="#3">Personal Information</a></li>
+              <li><a href="#4">Sensitive information</a></li>
+              <li><a href="#5">How Long We Keep Information</a></li>
+              <li><a href="#6">Why we need your e-mail address</a></li>
+              <li><a href="#7">What choices you have regarding the use of your information</a></li>
+              <li><a href="#8">Your Access to Personally Identifiable Information</a></li>
+              <li><a href="#9">Credit.com reserves the right to share your information 
+                including your e-mail address without your consent when:</a></li>
+              <li><a href="#10">Important Note Regarding non-U.S. Users and U.S. Law</a></li>
+              <li><a href="#11">Children</a></li>
+              <li><a href="#12">This policy statement applies to www.credit.com.</a></li>
+              <li><a href="#13">Privacy Policies and Service Providers</a></li>
+              <li><a href="#14">Your Consent to This Privacy Policy</a></li>
+              <li><a href="#15">Protect and Verify Your Personally 
+                Identifiable Information</a></li>
+              <li><a href="#16">Contact us</a></li>
+              <li><a href="#17">Security</a></li>
+              <li><a href="#18">Terms Used in this statement</a></li>
+              <li><a href="#19">Cookies</a></li>
+              <li><a href="#20">Encryption</a></li>
+              <li><a href="#21">Personally Identifiable Information</a></li>
+              <li><a href="#22">Secure Sockets Layer</a></li>
+              <li><a href="#23">Sensitive Information</a></li>
+              <li><a href="#24">SSL Certificate</a></li>
+              <li><a href="#25">Third party tacking mechanisms</a></li>
+              <li> <a href="#26">Web-beacons</a> </li>
             </ul></td>
         </tr>
       </tbody></table>
-      <p><br>
-      </p></td>
+      </td>
     <td width="20"></td>
     <td width="478" align="center" valign="top">
-    	<table width="478" border="0" cellspacing="0" cellpadding="0">
+    
+	<table width="478" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
           <td width="17" bgcolor="#333366"><img src="/assets/img/bar_blue_left.gif" width="15" height="25"></td>
           <td width="446" align="center" bgcolor="#333366"><h1>Credit.com Privacy Policy</h1></td>
@@ -966,275 +1081,340 @@ function TabNext(obj,event,len,next_field) {
       </tbody></table>
       <br>
       <table width="448" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td valign="top"><p>Updated as of March 3, 2005</p>
-            <p>The web site you entered is operated by Credit.Com, Inc. (“Credit.com”), 
-              which values your patronage and the trust you place in the company 
-              and its personnel. This Privacy Policy outlines the types of information 
-              that are collected by Credit.com on its web sites and how Credit.com 
-              uses and protects it. This policy applies only to Credit.com and 
-              to web sites operated by or on behalf of Credit.com. It does not 
-              apply to web sites that are owned by third parties, including web 
-              sites that link to Credit.com or that are linked from this web site 
-              (including web sites of lenders and others that have business relationships 
-              with Credit.com to provide loans and other consumer credit products 
-              and services to you). Credit.com is not responsible for the privacy 
-              practices of those third party web sites, which may differ from 
-              ours in significant ways. We encourage you to learn about the privacy 
-              policies of those web sites and the companies that operate them.</p>
-            <p><a href="http://www.truste.org/ivalidate.php?url=www.credit.com&amp;sealid=101"><img src="/assets/img/logo_truste_verify.gif" width="92" height="74" border="0" align="left"></a>Credit.com 
-              is a licensee of the TRUSTe® Privacy Program. TRUSTe is an independent, 
-              non-profit organization whose mission is to build users’ trust 
-              and confidence in the Internet by promoting the use of fair information 
-              practices. This privacy statement covers the sites described below 
-              in the section entitled <a href="#10">Applicable Web Sites</a>. 
-              Because Credit.com wants to demonstrate its commitment to your privacy, 
-              Credit.com has agreed to disclose its information practices and 
-              have its privacy practices reviewed for compliance by TRUSTe.</p>
-            <p>If you have questions or concerns regarding this statement, you 
-              should first contact Credit.com at the points of contact described 
-              below in the section entitled <a href="#12">Questions About This 
-              Privacy Policy</a>. If you do not receive acknowledgment of your 
-              inquiry or your inquiry has not been satisfactorily addressed, please 
-              contact J. Anthony Vittal, the General Counsel of Credit.com, by 
-              telephone at (415) 901-1561 or by e-mail at <a href="mailto:javittal@credit.com">javittal@credit.com</a>. 
-              If, after you have done these things, you still have not received 
-              acknowledgment of your inquiry or your inquiry has not been satisfactorily 
-              addressed, you should contact TRUSTe at <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a>. 
-              TRUSTe then will serve as a liaison with us to resolve your concerns.</p>
-            <p> If we decide to change our privacy policies or practices, we will 
-              post those changes to this Privacy Policy, the home page, and other 
-              places we deem appropriate, so that you are aware of what information 
-              we collect, how we use it, and under what circumstances, if any, 
-              we disclose it. We reserve the right to modify this Privacy Policy 
-              at any time, so please review it frequently. If we make materials 
-              changes to this Privacy Policy, we will notify you here, by e-mail, 
-              or by means of a notice on our home page.</p>
-            <p>The Credit.com Privacy Policy covers the following topics. You 
-              can jump directly to a topic of interest by clicking on the link 
-              below.</p>
-            <p><a name="1"></a></p>
-            <p class="headerBlueSub2">Our Commitment to Your Privacy</p>
-            <p>Credit.com is a California-based company and strongly supports 
-              the inalienable right of privacy guaranteed to all people by the 
-              California Constitution. While you may not be protected by the California 
-              Constitution, and although Credit.com is not a “financial 
-              institution” and therefore is not governed by the California 
-              Financial Information Privacy Act (Sections 4050 et seq. of the 
-              California Financial Code, commonly referred to as “S.B. 1”), 
-              Credit.com nonetheless is firmly committed to protecting your personal 
-              privacy. As part of that commitment, we communicate this Privacy 
-              Policy to every Credit.com employee, and we require that each Credit.com 
-              employee follow it. In addition, employee access to information 
-              about individual customers is limited to those authorized employees 
-              with a legitimate business reason to access the information, and 
-              then only on a “need-to-know” basis.</p>
-            <p><a href="#top">Return to top</a></p>
-            <p><a name="2"></a></p>
-            <p class="headerBlueSub2">Your Consent to This Privacy Policy</p>
-            <p>By using this web site, you represent to us that you are an adult 
-              under the laws of the place where you reside and that you agree 
-              with the terms of this Privacy Policy and with the Terms and Conditions 
-              applicable to the use of this web site. If you are not an adult 
-              under the laws of the place where you reside, or if you do not agree 
-              with any provision of this Privacy Policy or the Terms and Conditions, 
-              please do not use this web site, and do not provide any Personal 
-              Information to us.</p>
-            <p><a href="#top">Return to top</a></p>
-            <p><a name="3" id="3"></a></p>
-            <p class="headerBlueSub2">Why We Collect Information</p>
-            <p>Among its operations, Credit.com functions as a consumer credit 
-              intermediary, linking consumers with various consumer credit products 
-              and services. If you are applying for any of those products or services, 
-              Credit.com may collect the personal information you provide us to 
-              enroll you as a customer or to complete a transaction. In these 
-              circumstances, however, our principal role is to facilitate a relationship 
-              in which you provide your information directly to a third party 
-              B for instance, to apply for extension of credit, or to purchase 
-              a credit report or other credit-related products or services -- 
-              rather than to us. We collect information as a consumer credit intermediary 
-              to enable us to:</p>
-            <ul>
-              <li>Transmit the information to a third-party lender or service 
-                provider (subscribers) who process or provide applications for 
-                the product or service you request.</li>
-              <li> Communicate with you about your applications for products or 
-                services.</li>
-              <li> Confirm the acceptance and status of your request by e-mail.</li>
-              <li> Respond to your inquiries about the status and/or destination 
-                of your applications.</li>
-              <li> Identify the referring web site if you link to us from another 
-                web site.</li>
-              <li> Delete fictitious data from our systems, based on a customer 
-                identifier such as a home telephone number or e-mail address.</li>
-              <li> Handle accounting issues between us and our subscribers and 
-                affiliates, using a customer identifier such as a home telephone 
-                number or e-mail address, if the subscriber rejects your application.</li>
-              <li> Conduct market and demographic analyses on aggregated customer 
-                data, which does not identify individual customers.</li>
-              <li> Perform system and security monitoring, such as monitoring 
-                the IP addresses of incoming traffic to prevent abuse.</li>
-            </ul>
-            <p>Credit.com also provides consumer credit education services. To 
-              do so, we may collect your name and your e-mail address to enable 
-              us, if you desire, to send you e-mail newsletters and other information 
-              about our consumer education services and other programs.</p>
-            <p>In each of these circumstances, we will only collect and use the 
-              minimum information needed to accomplish the stated purpose, and 
-              only with your full knowledge and consent.</p>
-            <p><a href="#top">Return to top</a></p>
-            <p><a name="4"></a></p>
-            <p class="headerBlueSub2">What Information We Keep and How Long We Keep It</p>
-            <p>We keep aggregate anonymous click stream data indefinitely. This 
-              information does not include identifying information about any individual 
-              customer. This data includes information about the number of customers 
-              visiting this web site during a particular time period, the categories 
-              of products and services visited, the pages accessed by the customer, 
-              and the place from which each customer accessed our web site. This 
-              information helps us refine our offerings of products and services 
-              and the presentations of those offerings on our web site.</p>
-            <p>We keep individual page view information in our log files for 90 
-              days to enable us to better respond to the interests of each customer 
-              and for system and security monitoring. We keep aggregated page 
-              view data indefinitely.</p>
-            <p>We indefinitely keep information about you that is not personally 
-              identifiable financial information B information such as your name, 
-              your e-mail address, the products or services you order through 
-              our web site, and your answers to multiple choice questions B to 
-              enable us to communicate with you and for our internal analysis 
-              of the demographics of our customers. We give you the ability to 
-              opt out of future contact from us at any time.</p>
-            <p>We keep personally identifiable financial information about you 
-              that you furnish to us during your visit to our web site B information 
-              such as your Social Security account number, a bank account number, 
-              a credit card number, your mother's maiden name, and/or your drivers 
-              license number B to facilitate the completion of your transaction. 
-              We permanently delete this information from our systems after four 
-              business days.</p>
-            <p>If your personally identifiable financial information changes during 
-              that four-day period, or if you no longer desire our service, you 
-              may correct or delete your information by contacting us at the points 
-              of contact described below in the section entitled <a href="#11">Questions 
-              About This Privacy Policy</a> or by postal mail at the address shown 
-              below.</p>
-            <p>The identity of the organization collecting personally identifiable 
-              financial information about you is:</p>
-            <p> Credit.Com, Inc.<br>
-              550 15th Street, Suite 36B<br>
-              San Francisco, California 94103-5032<br>
-              (415) 901-1550</p>
-            <p><a href="#top">Return to top</a></p>
-            <p><a name="5"></a></p>
-            <p class="headerBlueSub2">How We Secure Your Information</p>
-            <p>Credit.com uses Secure Sockets Layer technology supporting up to 
-              128 bit encryption to prevent unauthorized parties from viewing 
-              or tampering with any personal information transmitted to or from 
-              Credit.com during your session. Secure Sockets Layer server authentication 
-              allows your browser to confirm a server's identity. Using standard 
-              techniques of public key cryptography, the authentication system 
-              verifies that the server's certificate and public ID are valid and 
-              have been issued by a certificate authority listed in the browser's 
-              list of trusted certificate authorities. Credit.com is registered 
-              with VeriSign®, the best-known certificate authority, and has 
-              obtained digital certificates from VeriSign® for www.credit.com 
-              and its subdomains and affiliated domains.</p>
-            <p>When you provide Credit.com with personal information, you do so 
-              over Secure Sockets Layer technology using a secure encrypted link 
-              between the computer you are using and our servers. When we transmit 
-              your personal information to the provider of the product or service 
-              you are ordering, we also do so over Secure Sockets Layer technology. 
-              Credit.com safeguards information about you in our possession according 
-              to established physical and electronic security procedures designed 
-              to prevent unauthorized access. We continually assess new information 
-              protection technology.</p>
-            <p><a href="#top">Return to top</a></p>
-            <p><a name="6"></a></p>
-            <p class="headerBlueSub2">Disclosure of Your Information</p>
-            <p>Credit.com does not provide your personally identifiable information 
-              to affiliated or unaffiliated companies for their independent use, 
-              except when we transmit the information to subscribers who process 
-              or provide applications for the product or service you request. 
-              Credit.com may legally disclose your personally identifiable information 
-              to unaffiliated third parties when the law requires our cooperation 
-              B for example, in response to a search warrant issued in connection 
-              with a fraud investigation, in response to a subpoena, or in response 
-              to a request by an authorized government regulator. If possible, 
-              we will attempt to comply with any legal request for our cooperation 
-              by eliminating all personally identifiable information before releasing 
-              our records. If that is not possible, before we provide your personally 
-              identifiable information to a third party as required by law, we 
-              will seek the issuance of a protective order by a court of competent 
-              jurisdiction compelling the third party to maintain the confidentiality 
-              of that information.</p>
-            <p><a href="#top">Return to top</a></p>
-            <p><a name="7"></a></p>
-            <p class="headerBlueSub2">Children</p>
-            <p>We do not knowingly solicit personal information from children 
-              or send them requests for non public personal information. If you 
-              have reached this point, you have represented to us that you are 
-              an adult under the laws of the place where you reside.</p>
-            <p><a href="#top">Return to top</a></p>
-            <p><a name="8" id="8"></a></p>
-            <p class="headerBlueSub2">Cookies</p>
-            <p> A cookie is a piece of data stored on your computer that is tied 
-              to information about you. We may use both session ID cookies and 
-              persistent cookies. For the session ID cookie, once you close your 
-              browser, the cookie simply terminates. A persistent cookie is a 
-              small text file stored on the hard drive of your computer for an 
-              extended period of time.</p>
-            <p>You may use our web sites even though you have set your computer's 
-              browser to reject cookies. The only drawback to rejecting cookies 
-              is that you will be limited in some areas and services of our web 
-              site.</p>
-            <p>You may be unable to order, apply for, or request products or services 
-              from our subscribers via our web sites if you have set your computer's 
-              browser to reject cookies. Thus, for you to access products or services 
-              offered by us or our subscribers through our web sites, we recommend 
-              that you set your computer's browser to accept cookies.</p>
-            <p>Some of the companies that offer products or services via our web 
-              sites, and some of the companies that route traffic to our web sites, 
-              may transmit cookies from their web sites to your computer. We have 
-              no access to or control over these cookies. Consequently, this Privacy 
-              Notice only covers our use of cookies and does not cover the use 
-              of cookies by any third parties.</p>
-            <p>We link the information we store in the session ID cookie on your 
-              computer to the information you submit while on our site, including 
-              any personally identifiable information, however, as noted above, 
-              the session ID cookie terminates when you close your browser.</p>
-            <p><a href="#top">Return to top</a></p>
-            <p><a name="9" id="9"></a></p>
-            <p class="headerBlueSub2">Protect and Verify Your Information</p>
-            <p>We urge you to take every precaution to protect your personal data, 
-              both on and off the Internet.</p>
-            <p><a href="#top">Return to top</a></p>
-            <p><a name="10" id="10"></a></p>
-            <p class="headerBlueSub2">Applicable Web Sites</p>
-            <p>This Privacy Policy applies to the following web sites: www.credit.com, 
-              www.yourcredit.com, www.personalcreditinformation.com, and others 
-              that may be added in the future.</p>
-            <p><a href="#top">Return to top</a></p>
-            <p><a name="11" id="11"></a></p>
-            <p class="headerBlueSub2">Questions About This Privacy Policy</p>
-            <p>If you have any questions or concerns about this Privacy Policy 
-              or our collection of information, please contact our customer service 
-              desk by toll-free telephone at (877) 273 4273 or by e-mail at <a href="mailto:privacy@credit.com">privacy@credit.com</a>.</p>
-            <p><a href="#top">Return to top</a></p>
-            <p><a name="12" id="12"></a></p>
-            <p class="headerBlueSub2">Important Note Regarding non-U.S. Users and U.S. Law</p>
-            <p>The laws and regulations of different countries impose different 
-              (and even conflicting) requirements on the use of the Internet and 
-              data protection. Credit.com is located in the United States of America, 
-              as are the servers that make this web site available worldwide. 
-              The laws of the State of California and, to the extent applicable, 
-              the United States of America, govern all matters relating to this 
-              web site. If you are located outside the United States of America, 
-              please note that any information you provide will be transferred 
-              to our servers in the United States of America and, by submitting 
-              your information, you authorize this transfer.</p>
-            <p><a href="#top">Return to top</a><br>
-            </p></td>
+        
+  <tbody><tr> 
+    <td valign="top"><h5>This statement was most recently updated as of February 21, 
+        2006 </h5>
+      <p>We take the privacy and security of your non-public sensitive information 
+        seriously, and think it is important that you understand:</p>
+      <ul>
+        <li> What information we collect, and how we collect it;</li>
+        <li> How we use information we collect;</li>
+        <li> Who we share information with;</li>
+        <li> What choices you have regarding the use of the information; and</li>
+        <li> The types of security we use to protect your information.</li>
+      </ul>
+      <p><a href="http://www.truste.org/ivalidate.php?url=www.credit.com&amp;sealid=101"><img src="/assets/img/clickseal.gif" width="92" height="74" border="0" align="left"></a>Credit.com 
+        is dedicated to protecting the privacy of our customers. Credit.com’s 
+        privacy policy and information practices have been independently certified 
+        for compliance by the TRUSTe® Privacy Program. Credit.com is a licensee 
+        of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization 
+        whose mission is to build users' trust and confidence in the Internet by promoting 
+        the use of fair information practices. This privacy statement covers the site 
+        www.Credit.com. Because this web site wants to demonstrate its commitment 
+        to your privacy, it has agreed to disclose its information practices and have 
+        its privacy practices reviewed for compliance by TRUSTe.</p>
+      <h3>What information we collect and how we collect it.<a name="1"></a></h3>
+      <p>We collect anonymous and personal information as a normal part of normal 
+        operations on this web site. We automatically collect anonymous non-personal 
+        information from every visitor to the site as do most other companies on their 
+        web sites. Credit.com also collects both public, and non-public <a href="#21">personally 
+        identifiable information</a>, and <a href="#4">sensitive information</a> if 
+        you request information about a product or service. </p>
+      <p><a href="#top">Return to top</a><a name="2"></a></p>
+      <h4>Non-personal information</h4>
+      <p>We automatically track and collect traffic data. Traffic data is information 
+        that does not identify you personally but may include your IP address, URL 
+        domain server and other similar types of information that help us administer 
+        our site, and improve our service offerings. We use <a href="#19">cookies</a>, 
+        <a href="#26">web-beacons</a> to track traffic data and customer transactions 
+        for accounting purposes. </p>
+      <p>No <a href="#4">sensitive information</a> is revealed in the collection and 
+        tracking process. We do share traffic and transactional information with our 
+        affiliates and service providers on an aggregate and anonymous basis for marketing 
+        and accounting purposes. </p>
+      <p><a href="#top">Return to top</a><a name="3"></a></p>
+      <h4>Personal Information</h4>
+      <p>In order for you to access many of the services offered on this site, you 
+        will be required to provide us with personal information like your contact 
+        information:</p>
+      <ul>
+        <li> Name</li>
+        <li> Street or postal address</li>
+        <li> <a href="#6">E-mail address</a></li>
+        <li> Phone number</li>
+      </ul>
+      <p>Personally identifiable contact information is similar to information that 
+        may be published in a phone book or directory. This information is used to 
+        identify you, complete transactions for services or products you request, 
+        facilitate requests for subsequent products or services; and for customer 
+        service fulfillment. Personal information is shared with service providers 
+        with your consent.</p>
+      <p>Personal information may also include other data that does not identify you 
+        personally such as:</p>
+      <ul>
+        <li> Your place of employment, employer, length of time you worked there; 
+        </li>
+        <li>Number of years you lived in your home or other information about your 
+          home;</li>
+        <li> Information about your credit history;</li>
+        <li> U.S citizenship;</li>
+        <li> military service;</li>
+        <li> Loan purpose and loan amount</li>
+      </ul>
+      <p>This information will be used to help us match you with the most appropriate 
+        service provider or product offering.</p>
+      <p><a href="#top">Return to top</a><a name="4"></a></p>
+      <h4>Sensitive information</h4>
+      <p>You may be required to provide personal, non-public, sensitive information 
+        so that service providers can determine your eligibility for some of the services 
+        offered on this website, such as your: </p>
+      <ul>
+        <li><a href="#6">E-mail address</a>;</li>
+        <li> Social security number;</li>
+        <li> Driver’s license number;</li>
+        <li> Bank account or routing number;</li>
+        <li> Date of Birth;</li>
+        <li> Debit or credit card number, expiration date and security code</li>
+      </ul>
+      <p>The sensitive information we collect in these circumstances is shared only 
+        with service providers in order to fulfill your request. Sensitive information 
+        is immediately <a href="#20">encrypted</a> and is only temporarily stored 
+        in our database before being permanently deleted. Credit.com shares your sensitive 
+        information with service providers only with your consent in order to fulfill 
+        your request. We do not sell, rent or otherwise share your personal, non-public 
+        sensitive information with third parties unless otherwise detailed in this 
+        policy statement.</p>
+      <p><a href="#top">Return to top</a><a name="5"></a></p>
+      <h3>How Long We Keep Information</h3>
+      <p>We keep some of the information we obtain from your interactions on our site:</p>
+      <ul>
+        <li> Non personal, non sensitive tracking and traffic data is stored in our 
+          log files for 90 days to enable us to better respond to the interests of 
+          each visitor to the site, and for system and security monitoring purposes. 
+        </li>
+        <li>Non-sensitive information such as personal information used for marketing, 
+          accounting and transactional purposes may be kept indefinitely.</li>
+        <li> Sensitive information that may be required to complete a transaction 
+          is deleted permanently from our systems after four business days.</li>
+        <li> Although returning users will find that some on-line forms will be automatically 
+          filled in with non-sensitive personally identifiable information, returning 
+          users will have to re-enter sensitive information when it is required for 
+          a transaction. Sensitive information is not stored longer than four days 
+          on our system. </li>
+      </ul>
+      <p><a href="#top">Return to top</a><a name="6"></a></p>
+      <h3>Why we need your e-mail address</h3>
+      <p>We use your e-mail address to:</p>
+      <ul>
+        <li> Confirm your identity;</li>
+        <li> Send you information on the status of your transaction;</li>
+        <li> Contact you if we need your assistance to complete the transaction;</li>
+        <li> Send you newsletters, and other customer related material.</li>
+      </ul>
+      <p>Credit.com has a zero tolerance policy for e-mail abuse. If you receive unsolicited 
+        e-mails from Credit.com please report it to us at <a href="mailto:privacy@credit.com">privacy@credit.com</a>. 
+        We are not responsible for communications you may receive from service providers.</p>
+      <p>We will never ask you to provide non-public or sensitive information in an 
+        e-mail. <strong>DO NOT RESPOND</strong> to an e-mail that appears to be from 
+        us requesting non-public or sensitive information the e-mail. Contact us immediately 
+        at (877) 273 4273 or by e-mail at <a href="mailto:privacy@credit.com">privacy@credit.com</a>.</p>
+      <p>We do not store e-mail addresses from correspondence sent to us. If you contact 
+        us by e-mail we will respond by email. Credit.com will not use or store your 
+        email address in our database from such correspondence. </p>
+      <p><a href="#top">Return to top</a><a name="7"></a></p>
+      <h3>What choices you have regarding the use of your information</h3>
+      <p><strong>E-mail correspondence.</strong> You may opt-out of e-mails in one 
+        of two ways:</p>
+      <ol>
+        <li> You may ‘uncheck’ the box next to the offer on the on-line 
+          form you compete, or</li>
+        <li> Click on the ‘unsubscribe hyperlink’ in the e-mail you receive.</li>
+      </ol>
+      <p>You will receive an e-mail confirming your decision to opt-out.</p>
+      <p><strong>Confirmations.</strong> You may not opt-out of these e-mail messages. 
+        They are designed to confirm your identity and your decision to enter into 
+        a transaction. Confirmation emails often contain important instructions about 
+        your transaction. If you do not wish to receive this confirmation e-mail do 
+        not sign up for services or products on this website.</p>
+      <p><a href="#top">Return to top</a><a name="8"></a></p>
+      <h3>Your Access to Personally Identifiable Information</h3>
+      <p>If you want to change or delete your personally identifiable information, 
+        including your e-mail address, or if you no longer are interested in a service 
+        found on this website, you may correct, update, delete or deactivate your 
+        personally identifiable information by contacting the service provider that 
+        processed your request. Information entered on the Credit.com website will 
+        be automatically updated each time you apply for a new or different service. 
+        (See <a href="#5">How Long We Keep Information</a>) </p>
+      <p><a href="#top">Return to top</a><a name="9"></a></p>
+      <h3>Credit.com reserves the right to share your information including your e-mail 
+        address without your consent when:</h3>
+      <ol>
+        <li> Ordered to do so by court order or subpoena; or</li>
+        <li> Cooperating with law enforcement investigations; or </li>
+        <li>We determine that any of your activities will harm the property, rights 
+          or users of Credit.com; or </li>
+        <li>To verify the integrity of the data collected; or </li>
+        <li>With our affiliated business partners for accounting purposes.</li>
+      </ol>
+      <p><a href="#top">Return to top</a><a name="10"></a></p>
+      <h3>Important Note Regarding non-U.S. Users and U.S. Law</h3>
+      <p>The laws and regulations of different countries and states impose different 
+        (and even conflicting) requirements on date protections and the use of the 
+        Internet. Credit.com is located in California, in the United States of America, 
+        as are the servers that make this web site available worldwide. The laws of 
+        the State of California and, the United States of America, govern all matters 
+        relating to this web site. If you provide information while using this site, 
+        you will be deemed to have authorized the transfer of your information to 
+        our servers in California. </p>
+      <p><a href="#top">Return to top</a><a name="11"></a></p>
+      <h3>Children</h3>
+      <p>We do not knowingly solicit personal information from children or send them 
+        requests for sensitive information. Although there are links to other sites 
+        that may offer services to persons under the age of 18, Credit.com does not 
+        offer any services for person under the age of 18. </p>
+      <p><a href="#top">Return to top</a><a name="12"></a></p>
+      <h3>This policy statement applies to www.credit.com.</h3>
+      <p>This policy applies only to the website <a href="http://www.credit.com">http://www.credit.com</a> 
+        and the users of the site. It does not apply to any other web site whether 
+        it is a site that you may link to, or a site that may link to this site. Credit.com 
+        is not responsible for the privacy practices on any other site or of any other 
+        entity or person. We encourage you to learn about the privacy policies of 
+        any site you visit and the companies that operate them. </p>
+      <p>This Policy is effective February 21, 2006 and replaces any prior policy 
+        we posted on our web site. We reserve the right to change this Policy and 
+        our e-mail practices at any time, so please review it frequently. When we 
+        do, we will post a revised statement on this site, and other places we deem 
+        appropriate so that you are aware of what information we collect, how we use 
+        it and under what circumstances, if any we disclose it.</p>
+      <p><a href="#top">Return to top</a><a name="13"></a></p>
+      <h3>Privacy Policies and Service Providers</h3>
+      <p>Because this privacy policy applies only to the Credit.com website it may 
+        be different than our service providers’ privacy policies. Credit.com 
+        urges you to review the privacy policies of every website you visit where 
+        you are required to share your personal information.</p>
+      <p><a href="#top">Return to top</a><a name="14"></a></p>
+      <h3>Your Consent to This Privacy Policy</h3>
+      <p>By using this web site, you represent to us that you are an adult under the 
+        laws of the place where you reside and that you agree with the terms of this 
+        privacy policy and with the Terms and Conditions posted on this site. If you 
+        are not an adult under the laws of the place where you reside, or if you do 
+        not agree with any provision of this policy or the Terms and Conditions, please 
+        do not use this web site, and do not provide any personal information to us.</p>
+      <p><a href="#top">Return to top</a><a name="15" id="15"></a></p>
+      <h3>Protect and Verify Your Personally Identifiable Information</h3>
+      <p>We urge you to take adequate precautions to protect your personally identifiable 
+        information, both on and off the Internet. (To learn more go to: <a href="http://onguardonline.gov/index.html" target="_blank">http://onguardonline.gov/index.html</a>).</p>
+      <p><a href="#top">Return to top</a><a name="16" id="16"></a></p>
+      <h3>Contact us</h3>
+      <p>If you have questions or concerns regarding this statement, you should first 
+        contact the legal department by telephone at (877) 273 4273, or by e-mail 
+        at <a href="mailto:privacy@credit.com">privacy@credit.com</a>, or by mail. 
+        If you do not receive acknowledgment of your inquiry or your inquiry has not 
+        been satisfactorily addressed, you should then contact TRUSTe at <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">http://www.truste.org/consumers/watchdog_complaint.php</a>. 
+        TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+      </p>
+      <blockquote> 
+        <p>Credit.Com, Inc.<br>
+          550 15th Street, Suite 37<br>
+          San Francisco, California 94103-5032<br>
+          (415) 901-1550</p>
+      </blockquote>
+      <p><a href="#top">Return to top</a><a name="17" id="17"></a></p>
+      <h3>Security </h3>
+      <p>Credit.com is a VeriSign® secured website and uses a VeriSign®<a href="#24"> 
+        SSL Certificate</a> for encryption. Customer data is securely transmitted 
+        by Credit.com to service providers through a combination of encryption techniques 
+        and other privacy protection measures. All sensitive information submitted 
+        through the Credit.com website is encrypted before it is stored in the Credit.com 
+        database. Encrypted sensitive information is deleted from the Credit.com database 
+        after several days.</p>
+      <p>Credit.com also maintains and enforces strict internal policies that prohibit 
+        employees or third parties from accessing or viewing your sensitive information.</p>
+      <p><a href="#top">Return to top</a><a name="18" id="18"></a></p>
+      <h3>Terms Used in This Statement</h3>
+      <h4>Cookies<a name="19"></a></h4>
+      <p>Credit.com uses cookies, or small text files, to enhance your interaction 
+        with the website. Some cookies are stored on your hard drive. You may reject 
+        or refuse cookies and still visit our web site. However if you reject cookies 
+        you may not be able to access all of the services on our web site. </p>
+      <p>Some of the companies that offer products or services via our web sites, 
+        and some of the companies that send visitors to our web site pass cookies 
+        to your computer. Please be aware that we have no control over cookies passed 
+        to you from other companies’ sites. </p>
+      <p>If you request information or purchase a product or service, you will be 
+        requested to enter personal, non-public information on our web site. Personal 
+        information is linked to the cookie stored on your computer so it will be 
+        easier for you to complete a transaction on your next visit to our web site. 
+        If you complete another transaction, you will have to re-enter sensitive and 
+        non-public information, because that type of information is not linked to 
+        cookies stored on your computer.</p>
+      <p><a href="#top">Return to top</a><a name="20" id="20"></a></p>
+      <h4>Encryption</h4>
+      <p>Credit.com uses encryption to secure personal information like names, phone 
+        numbers and credit card data. Encryption is a way to scramble data to make 
+        it unreadable to anyone other than the intended recipient. If it is intercepted 
+        by a third party while traveling over a network it cannot be read. Only the 
+        persons sending and receiving the encrypted data have a key to unscramble 
+        the data and make it readable. Encryption provides privacy for email, discussion 
+        group postings, and other communications as they move over networks. </p>
+      <p><a href="#top">Return to top</a><a name="21"></a></p>
+      <h4>Personally Identifiable Information</h4>
+      <p>Personally identifiable information is information collected from a website 
+        that is used to identify the person to who the information pertains. Personally 
+        identifiable information may include your name, address, phone numbers, e-mail 
+        address social security number, credit card information and other information 
+        that is unique to you. This type of information does not include information 
+        that is collected anonymously or for the purpose of tracking movement on our 
+        website that is not connected directly with you. </p>
+      <p>Personally identifiable information includes public information that is generally 
+        known or published like your name and contact information in a phone book 
+        or other public records and documents. It can also include non-public information 
+        like sensitive information.</p>
+      <p><a href="#top">Return to top</a><a name="22"></a></p>
+      <h4>Secure Sockets Layer </h4>
+      <p>Secure Sockets Layer, (‘SSL’) is the industry standard method 
+        for protecting web site communications by encrypting, or obscuring information 
+        and making it unreadable to everyone except the holders of the keys used to 
+        read the information. Credit.com uses the SSL protocol to capture personal, 
+        non-public information, such as your credit card numbers via the Internet.</p>
+      <p><a href="#top">Return to top</a><a name="23" id="23"></a></p>
+      <h4>Sensitive Information</h4>
+      <p>Sensitive information is personally identifiable information that is non-public 
+        like your social security number, credit card numbers, and other financial 
+        information.</p>
+      <p><a href="#top">Return to top</a><a name="24" id="24"></a></p>
+      <h4>SSL Certificate</h4>
+      <p>A SSL certificate, binds am entity to a pair of electronic keys that can 
+        be used to encrypt and sign digital information. A SSL Certificate makes it 
+        possible for you to verify that we have the right to use a given key, helping 
+        to prevent others from using phony keys to impersonate us. Used in conjunction 
+        with encryption, SSL Certificates provide a complete security solution, assuring 
+        the identity of one or all parties involved in any given transaction. For 
+        more information about our certificate, click on the VeriSign® logo on 
+        this page. </p>
+      <p><a href="#top">Return to top</a><a name="25" id="25"></a></p>
+      <h4>Third party tacking mechanisms</h4>
+      <p>We use third parties to verify the integrity of the information that you 
+        provide so we can confirm your identity. Third parties cannot associate this 
+        information with you and are prohibited from using the information for any 
+        other purpose it.</p>
+      <p><a href="#top">Return to top</a><a name="26" id="26"></a></p>
+      <h4>Web-beacons</h4>
+      <p>A web beacons is a tracking marker that is placed within a web page or in 
+        an e-mail message. Web beacons are invisible to your eye, and are used to 
+        monitor a computer which is accessing a particular web page or e-mail message 
+        and transfer the data to a server. Credit.com uses web beacons to:</p>
+      <ul>
+        <li>Count website visits to specific areas at the Credit.com website;</li>
+        <li> Track and account for transactional information on third party service 
+          provider websites; </li>
+        <li>Collect aggregate transactional data for accounting purposes;</li>
+        <li> Track statistics about:</li>
+        <ul>
+			<li>The IP address of the computer that fetched the web beacon </li>
+          <li>The URL of the page that the web Beacon is located on</li>
+          <li>The URL of the web beacon image </li>
+          <li> The time the web beacon was viewed </li>
+          <li>The type of browser that fetched the web beacon image</li>
+          <li> A previously set cookie value Return to the top</li>
+		  </ul>
+      </ul>
+      <p>©:, 2006 by Credit.com Inc.</p>
+      <p><a href="#top">Return to top</a> </p></td>
         </tr>
       </tbody></table> 
+<br>
 
     </td>
   </tr>
@@ -1259,22 +1439,24 @@ function TabNext(obj,event,len,next_field) {
       Us</a> <span class="navSpacer">| </span><a href="/contact.jsp" class="navWhite">Contact 
       Us</a> <span class="navSpacer">|</span> <a href="/affiliate/" class="navWhite">Affiliates</a> 
       <span class="navSpacer">|</span> <a href="/privacy.jsp" class="navWhite">Privacy 
-      Policy</a> <span class="navSpacer">|</span> <a href="/sitemap.jsp" class="navWhite">Site 
-      Map</a></td>
+      Policy</a> <span class="navSpacer">|</span> <a href="/terms.jsp" class="navWhite">Terms 
+      of Use</a> <span class="navSpacer">|</span> <a href="/sitemap.jsp" class="navWhite">Site Map</a></td>
     <td width="15" align="right"><img src="/assets/img/bar_blue_btmRight.gif" width="15" height="25"></td>
   </tr>
 </tbody></table>
+  
 <table width="800" border="0" cellspacing="0" cellpadding="3">
   <tbody><tr> 
-    <td align="center" class="copyright">© 2005 Credit.com, Inc. All rights 
-      reserved</td>
+    <td align="center" class="copyright"><p>© 2006 Credit.com, Inc. All rights 
+        reserved</p>
+      </td>
   </tr>
 </tbody></table>
 <table width="800" border="0" cellspacing="0" cellpadding="3">
   <tbody><tr> 
     <td align="center"> <table width="578" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr> 
-          <td align="center" width="200"><a href="/privacy.jsp"><img src="/assets/img/logo_truste_mark.gif" width="117" height="32" border="0"></a></td>
+          <td align="center" width="200"><a href="/privacy.jsp"><img src="/assets/img/finalmark.gif" border="0"></a></td>
           <td align="center" width="200"> <img src="/assets/img/logo_DBListed.gif" width="117" height="32"></td>
           <td align="center" width="150"><script src="https://seal.verisign.com/getseal?host_name=www.credit.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=NO"></script></td>
         </tr>
@@ -1287,7 +1469,7 @@ function TabNext(obj,event,len,next_field) {
       Credit Report</a> | <a href="/r/ploan_only_ccom_link">Personal Loan</a> 
       | <a href="/ufg/credit.com/gauto0j">Auto Loan</a> | <a href="/ufg/credit.com/cash_advance">Payday 
       Loan</a> | <a href="/products/credit_cards/index.jsp">Credit Card Offer</a> 
-      | <a href="/ufg/default/dcl">Debt Consolidation</a> <br>
+      | <a href="/debt/debt-help.html">Debt Consolidation</a> <br>
       <a href="#" onclick="openCard('/r/student_loan_consolidation');">Consolidate Student Loans</a> | <a href="/products/mortgage/home_refi.jsp">Mortgage 
       Refinancing</a> | <a href="/products/mortgage/home_eq.jsp">Home Loans</a> 
       | <a href="/products/security/index.jsp">Identity Theft Protection</a> | 
@@ -1303,7 +1485,6 @@ function TabNext(obj,event,len,next_field) {
 _uacct = "UA-99839-3";
 urchinTracker();
 </script>
-
 
 
 
