@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tvover.net privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221161456id_/http%3A//www.tvover.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvover.net privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630173514id_/http%3A//www.tvover.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | TVover.net
 
 TVover.net Privacy Policy
 
-This agreement was last updated on July 15, 2005. 
+This agreement was last updated on June 8, 2006. 
 
 TVover.net ("TVover.net" or "we") understands that your privacy is important to you. TVover.net is strongly committed to protecting your privacy and the personal information that you may provide as you access and use the materials on tvover.net (the "Site"). We are committed to making sure that your personal information is correct, that we use your information responsibly, and that we have strict standards of confidentiality and security for your information. 
 
@@ -15,6 +15,8 @@ This privacy policy only applies to transactions and activities in which you eng
 **Information We Collect and How We Use It.** At TVover.net, your privacy is our utmost concern, which is why we collect as little information about you as possible. We collect information when you voluntarily submit it to us. Throughout our site, we provide the opportunity to register for an event or conference, order a white paper, or participate in an online survey. When we collect this type of information, we will notify you as to why we are asking for information and how this information will be used. It is completely up to you whether or not you want to provide it. Some of our Site's registration, enrollment, account setup and other forms may ask users to give us contact information, unique personal identifiers, subject areas of interest and/or demographic information. We may use this data to tailor the visitor's experience at our Site. We sometimes aggregate demographic information, and the types of systems and browsers of users for internal purposes, so that we may better understand the user population of our Site, identify subject areas of interest, and determine whether the Site is designed to work with the computer settings of a majority of our visitors. TVover.net also may conduct user surveys on the Web, which usually are intended to provide TVover.net with information on a number of areas, such as user identity, user viewing habits, whether or not users found what they were searching for, whether the Site content is relevant to user needs, and the like. TVover.net uses the information gathered from such surveys to improve our web content, navigation, and overall visitor experience. 
 
 Any personal information that you provide, such as your name, address, e-mail address, phone number, subject areas of interest, etc., allows TVover.net to inform you about updates to the service and to notify you about other products and services offered by TVover.net that may be of interest to you. We will not sell, share, or rent or otherwise make available any of that information to other parties, except that we may disclose the information to third parties who perform services on our behalf in connection with the Site and have a need to access the information in connection with those services. In addition, TVover.net may disclose contact information for you in response to inquiries by bona-fide rights owners in connection with allegations of infringement of copyright or other proprietary rights arising from information that you have posted on the Site or otherwise provided to TVover.net. Individuals that subscribe to e-mail newsletters are given the opportunity to opt-out of promotions, news, and information at the time of sign up. Our Site also provides users the opportunity to opt-out of receiving communications from us at the points where we request information. You may also feel free to contact us as indicated below. 
+
+TVover.net will display data to other users on the Site from the various activities you participate in such as "My TV". This includes information that you submit to us such as the Internet TV you have commented on or added to "My TV". 
 
 We do not disclose your full name or email address nor do we sell it or make it available to any third party other than as outlined in more detail in this Privacy Policy, except in situations where required by law. 
 
@@ -56,9 +58,9 @@ We are serious in maintaining your privacy and creating a valuable resource for 
 
 Privacy and Security  
 TVover.net  
-2815 Liatris Lane   
-Charlotte, NC 28213  
-USA
+Erzgiessereistr. 19   
+80335 Munich  
+Germany
 
   All brand, company, and product names are trademarks or registered trademarks of their   
-  respective owners. © 2005 TVover.net. All rights reserved. [Privacy Policy](http://www.tvover.net/PrivacyPolicy.aspx)
+  respective owners. © 2006 TVover.net. All rights reserved. [Privacy Policy](http://www.tvover.net/PrivacyPolicy.aspx)  [Terms](http://www.tvover.net/Terms.aspx)
