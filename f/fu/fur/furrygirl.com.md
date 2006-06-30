@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furrygirl.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220215659id_/http%3A//www.furrygirl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furrygirl.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630021401id_/http%3A//www.furrygirl.com/privacy.html) for the most accurate reproduction.*
 
 # Furry Girl > Privacy
 
@@ -8,7 +8,7 @@ Following is my policy regarding your privacy if you come to my site. I apprecia
 
 * Use of Cookies 
 
-I do not use cookies on my site and do not track you or your email address in any way. I hate SPAM and you will not get any from me!
+I do not use cookies on my site and do not track you or your email address in any way.
 
 * Sale of Member Information
 
