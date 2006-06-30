@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smilecity.co.nz privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220015437id_/http%3A//smilecity.co.nz/page.asp%3Fgo%3Dprivacy%26u%3D%26c%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilecity.co.nz privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630210559id_/http%3A//www.smilecity.co.nz/page.asp%3Fgo%3Dprivacy%26u%3D%26c%3D) for the most accurate reproduction.*
 
 # Privacy Statement - SmileCity New Zealand
 
@@ -22,7 +22,7 @@ Demographic and profile data is only shared with SmileCity clients and advertise
 SmileCity has modern and robust security measures in place to protect the information you give to us from loss, misuse and alteration. We are constantly reviewing and upgrading these security measures to ensure the very best of protection to you.
 
 **Why does SmileCity record IP Addresses?**  
-When a user joins SmileCity, our computers may record their IP address. In the event that we detect fraud or abuse of our program or our Web site and computers, we may use the IP address of the offender to take action against them. Ultimately this ensures greater protection for you and your personal information.
+When a user joins SmileCity, our computers may record their IP address. In the event that we detect fraud or abuse of our programme or our Web site and computers, we may use the IP address of the offender to take action against them. Ultimately this ensures greater protection for you and your personal information.
 
 **What are cookies and why does SmileCity use them?**  
 A cookie is a piece of data stored on a user’s computer hard drive, containing information about that user. A cookie can only be accessed across the Internet by the Web site that placed it there. Cookies are used by the SmileCity Web site to add functionality and security.
@@ -41,10 +41,10 @@ We respect your time and attention. If you request to receive emails, we will ne
 **How can I stop SmileCity from sending me email?**  
 Each email we send to you contains a link at the very bottom allowing you to unsubscribe.
 
-To unsubscribe now, [click here](https://web.archive.org/web/20051220015437id_/http%3A//smilecity.co.nz/earn.asp?go=unsubscribe&u=&c=).
+To unsubscribe now, [click here](https://web.archive.org/web/20060630210559id_/http%3A//www.smilecity.co.nz/earn.asp?go=unsubscribe&u=&c=).
 
-**If you have received unwanted email sent from SmileCity,** or purporting to be sent from SmileCity, please [contact SmileCity](https://web.archive.org/web/20051220015437id_/http%3A//smilecity.co.nz/enquiry.asp?u=&c=).
+**If you have received unwanted email sent from SmileCity,** or purporting to be sent from SmileCity, please [contact SmileCity](https://web.archive.org/web/20060630210559id_/http%3A//www.smilecity.co.nz/enquiry.asp?u=&c=).
 
-**If you have any questions** about the privacy and permission practices of the SmileCity Web site or your dealings with SmileCity Ltd, please [contact SmileCity](https://web.archive.org/web/20051220015437id_/http%3A//smilecity.co.nz/enquiry.asp?u=&c=). We are committed to being of service to you and resolving any issues that may arise.
+**If you have any questions** about the privacy and permission practices of the SmileCity Web site or your dealings with SmileCity Ltd, please [contact SmileCity](https://web.archive.org/web/20060630210559id_/http%3A//www.smilecity.co.nz/enquiry.asp?u=&c=). We are committed to being of service to you and resolving any issues that may arise.
 
-This statement should be read in conjunction with the SmileCity [Terms of Service](https://web.archive.org/web/20051220015437id_/http%3A//smilecity.co.nz/page.asp?go=terms).
+This statement should be read in conjunction with the SmileCity [Terms of Service](https://web.archive.org/web/20060630210559id_/http%3A//www.smilecity.co.nz/page.asp?go=terms).
