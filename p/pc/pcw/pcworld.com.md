@@ -1,126 +1,223 @@
-> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2005-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051213233159id_/http%3A//www.pcworld.com/resource/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630135046id_/http%3A//www.pcworld.com/resource/privacy.asp) for the most accurate reproduction.*
 
 # PCWorld.com - Privacy Policy
 
 PCWorld.com Privacy Policy
 
-[](https://www.truste.org/validate/554)
+At PC World, we understand that privacy is important, and we've created this policy to give you information about how we collect and use personal information. Our policy is divided into three main sections: Section 1 describes how we collect and use data from users of the PC World Web site. Section 2 describes how we collect and use data from subscribers to the print and electronic editions of PC World magazine. And because PC World is owned by International Data Group (IDG) and is part of the IDG Publishing Network of technology publications, Section 3 presents the privacy policy for the IDG Publishing Network. 
 
-PCWorld.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because PC World.com wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this Website has agreed to answer the following questions: 
-
-  1. What information does PCWorld.com collect, and how is it used?
-  2. What are _cookies,_ and how are they used?
-  3. What are Clear GIFs, and how are they used?
-  4. What is PCWorld.com's relationship with the DoubleClick advertising network?
-  5. Does PCWorld.com share the information it collects with others?
-  6. How can I make changes to my personal information?
-  7. What else should I know about my privacy and PCWorld.com?
-  8. What security procedures are in place to protect the loss, misuse, or alteration of my information?
-  9. What about children? 
-  10. How will I be notified of changes to this privacy policy?
-  11. What is _PC World's_ print magazine subscriber privacy policy?
-
-
-
-If you have questions or concerns regarding this statement, please contact:
+We reevaluate this policy on an ongoing basis, and we value your feedback. If you have questions or concerns regarding our privacy policy, we ask that you contact us at:
 
 Customer Service  
-PC World.com  
+PC World Communications, Inc.  
 501 Second Street  
 San Francisco, CA 94107  
-e-mail: [webmaster@pcworld.com ](https://web.archive.org/web/20051213233159id_/http%3A//www.pcworld.com/resource/webmaster@pcworld.com)
+e-mail: [webmaster@pcworld.com ](https://web.archive.org/web/20060630135046id_/http%3A//www.pcworld.com/resource/webmaster@pcworld.com)
 
-If you do not receive acknowledgment of your inquiry, or your questions have not been satisfactorily addressed, you should then contact TRUSTe: <http://www.truste.org/users/users_watchdog.html>
+Please note that this privacy policy may change from time to time. We will post the new policy on this page, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, our Web site will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the bottom of the page.
 
-TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+1\. PC World Online Privacy Policy
 
-What information does PCWorld.com collect, and how is it used?
+PC World collects data, including personally identifying information, from people who use the PC World Web site. This section of our privacy policy explains how we collect and use this data. Please note that PC World subscriber data is maintained separately from data gathered from our online users. This means that users of the PC World Web site who also subscribe to PC World magazine, in either print or electronic form, should read both this section and Section 2 (PC World Subscriber Privacy Policy) in order to have a full understanding of our privacy practices.
 
-PCWorld.com collects personal identifying information such as your name, postal address, and e-mail address when you enter a contest or a sweepstakes, fill out a survey, and/or complete subscription registration for sites or services requiring such information.
+Information we collect and how we use it
 
-PCWorld.com will occasionally use some of the information we collect in the aggregate for marketing and promotional purposes. PCWorld.com will occasionally log visitors' IP addresses for the collection of aggregate information about site visitors and their interests. PCWorld.com does not link these IP addresses to personal identifying information such as a visitor's name and/or e-mail address.
+When you visit the PC World Web site, PC World collects several forms of usage data, including:
 
-What are _cookies,_ and how are they used?
-
-PCWorld.com will occasionally place a cookie on the visitor's hard drive in order to facilitate a user-friendly experience. Cookies are small files that contain information a Web site uses for tracking purposes. PCWorld.com uses the cookie information it receives to improve the efficiency of customer service for subscription-based sites, allowing subscribers to easily change addresses and add or cancel subscriptions by automatically verifying subscription status.
-
-PCWorld.com also uses cookies to enhance site content by compiling aggregate information about what specific sections and pages users visit. Advertisers or independent third parties who operate the servers on which the ads reside will occasionally also place cookies. Although PCWorld.com encourages third parties to adhere to appropriate privacy standards and policies, PCWorld.com is not responsible for the actions or policies of such parties.
-
-PCWorld.com also has a third party partnership with WebSite Story, which sets cookies that track Web usage of visitors. WebSite Story does not use the information for any other purpose than statistical information shared solely with PCWorld.com.
-
-Visitors to PCWorld.com may disable their cookies and retain full functionality of the PC World Website, with the exception of being unable to subscribe to or make changes to subscriptions to _PC World_ magazine through PCWorld.com.
-
-What are _Clear GIFs,_ and how are they used?
-
-Our Web pages contain electronic images (called "Clear GIF", "Single-Pixel Gif", or "Web Beacon") that allow us to count page views or to access cookies. In general, any electronic image viewed as part of a Web page, including an ad banner, can act as a _Clear GIF_. Typically, though, _Clear GIFs_ are very small (1-by-1 pixel size) files. They are often invisible on the Web page, but their presence can be easily detected within Internet Explorer by clicking on "View" and then on "Source." _Clear GIFs_ are so small in order not to use valuable space on the computer screen that is better used to display helpful content. We also include _Clear GIFs_ in HTML-formatted newsletters in order to count how many newsletters have been read. In addition, some advertising networks that serve ads on our Web site will occasionally use _Clear GIFs_ within banner advertisements. Our _Clear GIFs_ do not collect, gather, monitor or share any personal information about our Web site visitors; they are simply the technique we use to compile our anonymous, aggregated statistics about Web site usage.
-
-What is PCWorld.com's relationship with the DoubleClick advertising network?
-
-PCWorld.com has contracted with DoubleClick to serve all advertising on www.pcworld.com, both on the Web site itself and through its e-mail newsletters. When DoubleClick is serving ads, it recognizes certain types of non-personally identifiable information, such as a user's IP address, browser version or type, operating system, service provider, and time zone. DoubleClick also uses cookies to note the general content of the sites you visit over time in order to serve ads on this site and other sites.
-
-The pages that a user calls up on PCWorld.com and that are noted by Doubleclick are not connected with personally identifiable information collected either at PCWorld.com or elsewhere. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit <http://www.doubleclick.net/naiprivacy>.
-
-Does PCWorld.com share the information it collects with others?
-
-PC World will occasionally share some of the non-identifying visitor information it collects on the site in the aggregate with third parties for marketing and promotional purposes. However, PCWorld.com never shares personal identifying information with any third party, except in these cases:
-
-  * with the individual sponsor of a contest, promotion, or sweepstakes, and only if you as the participant specifically ask to receive additional information from a specific sponsor.
-  * with trusted third-party intermediaries such as subscription service bureaus, credit card companies, sweepstakes services companies, and banks, or third-party providers of PCWorld.com services that the user selects at our site. These intermediaries work with PC World under confidentiality agreements and do not have any independent right to share this information. When users choose to discontinue such services the user's personal information will be automatically deleted from the intermiediary's databases.
-  * with third party billing services for magazine subscriptions. Shared information includes credit card number and expiration date from subscribers who wish to pay for PC World print magazine subscriptions.
-  * Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
-
-
-
-PCWorld.com and its parent company IDG and sister IDG companies occasionally inform registered users and newsletter subscribers via e-mail of special deals, new products, and other third-party product and service offers that we believe they will find interesting. All such offers are carefully screened. PCWorld.com registered users and newsletter subscribers are given the option to choose whether they would like to receive such mailings upon registration and can change their choice at any time (see below). All mailings are sent by PC World and IDG, through their contracted e-mail delivery service. Under no circumstances is your e-mail address or other personally identifying information shared with the vendor of the third party products or services offered in the mailing. Furthermore, under no circumstances will PCWorld.com or its parent company mail information from known spammers, get-rich-quick sites, or pornographic sites.
-
-How can I make changes to my personal information?
-
-Subscribers to newsletter services can change or delete their personal identifying information by visiting the "[Subscription Changes](https://web.archive.org/resource/subservices.asp)" pages on PCWorld.com and clicking the appropriate Unsubscribe or Change Subscription buttons.
-
-We allow users to "opt out" of receiving mailings from PC World or its parent company IDG regarding special offers and deals from third parties. Users can opt out at the time their e-mail information is requested, or by sending e-mail to [webmaster@pcworld.com](mailto:webmaster@pcworld.com). For all other changes, please contact PCWorld.com at [webmaster@pcworld.com](mailto:webmaster@pcworld.com).
-
-What else should I know about my privacy and PCWorld.com?
-
-Please keep in mind that whenever you voluntarily disclose personal information online, regardless of the site--such as a user name or e-mail address in a chat or bulletin board area--you should be aware that the information provided can be collected and used by others.
-
-PCWorld.com sites contain links to other sites not owned or operated by PCWorld.com. PCWorld.com is not responsible for the privacy practices or the content of these sites.
-
-Also, PCWorld.com has several reputable partners (listed below) that produce co-branded services. Even though these partner services may have the look and feel of PCWorld.com, they are hosted by the partners and thus are not part of PCWorld.com. Consequently, please keep in mind that use of any personal information collected as part of the services listed below is governed by the partner's privacy policy, not PCWorld.com's. Please make sure to review our partners' privacy policies: You will find a link to these policies on all of the co-branded partner services pages. We are not responsible for the privacy practices of our partners. Current PCWorld.com partner sites are:
-
-| Partner | PCWorld.com Branded Service  
----|---  
-PriceGrabber | _PC World_ Product Finder  
-PC Pitstop | PC Pitstop  
+  1. Log data. Our servers automatically record certain information sent by your browser, such as your Web request, your Internet Protocol address, your referring URL, your browser type and language, and the date and time of your request. 
   
-In some cases, users will be referred to third-party sites from PCWorld.com. User information collected on these third-party sites or co-branded partner sites will occasionally be shared with PCWorld.com in aggregate form for internal tracking purposes, but is not linked to any personal information.
 
-What security procedures are in place to protect the loss, misuse, or alteration of my information?
+  2. Cookie data. When you visit the PC World Web site, PC World or one of our IDG affiliates or third-party partners may send one or more "cookies"—small files containing a string of characters—to your computer to identify you as a unique user. If you have registered with PC World, the information in your cookie is used to provide a more personalized experience on our site, for example by allowing you to customize portions of the site. If you haven't registered, the cookie identifies you as a unique user and helps ensure a smoother experience on the site, such as by limiting the number of times that you see certain subscription offers. If you have not registered on our site, we cannot link the user ID in the cookie with personal identifying information and data about you, such as your name or e-mail address.
+  
 
-Internally, PCWorld.com restricts access to personally identifiable information. Only employees who need the information in order to do their jobs have access to it. These employees are limited in number and are committed to our privacy and security policies. Credit card information is encrypted for security.
+  3. Traffic and advertising data. Other cookies without personally identifying information and data are used to enable PC World to gather and analyze site traffic and usage information, and to allow our advertising partners to manage the advertisements presented. These cookies sometimes work in conjunction with other techniques, such as clear GIFs or pixel tags; they do not contain personally identifying information, but they may gather information about what sites you have visited and use that information to determine which ads appear when you visit the PC World site. 
+  
 
-What about children?
 
-Children 18 years of age or under should not submit any information to PCWorld.com without a parent or guardian's consent. PCWorld.com does not market its newsletters or special offers to children under 18 years of age.
 
-How will I be notified of changes to this privacy policy?
+Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or you can use third-party anonymizer services to mask information in your cookies or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered on the PC World Web site.
 
-If PCWorld.com plans to use information collected from users in a manner different from that stated at the time of collection, it will directly contact users to obtain written or active e-mail consent prior to using their personal information. In some cases and with prior approval from TRUSTe, PCWorld.com will also post a notice on the site to obtain user consent.
+The aggregated information we collect is used for a number of purposes including the following :
 
-What is _PC World's_ print magazine subscriber privacy policy?
+  1. To improve the content and design of the PC World Web site. 
+  
 
-Subscribers to _PC World_ magazine are asked to provide postal addresses and e-mail addresses (e-mail is optional). Postal addresses, which are necessary to send each monthly issue, will be used to promote PC World and IDG products and services, and will occasionally be rented to selected outside firms for promotional purposes. Offers for which the names are rented are screened, and renters are required to target their offers carefully.
+  2. To enable our audit bureau to verify our claims of traffic to the site. .
+  
 
-E-Mail addresses of _PC World_ print subscribers will occasionally be used for PC World renewal promotions and for customer service purposes. These e-mail addresses can also be used to collect feedback for members of our editorial and research staffs to promote and develop PC World and IDG products and services. We allow users to opt-out of receiving e-mail from PC World Communications, Inc. when e-mail information is collected and with each e-mail use of the user's address. All mailings are sent by PC World and/or its contracted e-mail delivery services.
+  3. To help advertisers, potential advertisers or marketers assess the suitability of the site for their ad campaigns. 
+  
 
-_PC World_ print subscribers who do not want their names used in any of the above ways may write and ask to be removed from the promotion list. Requests should be sent to:
+  4. To help us understand more about the interests of our users, so that we can offer goods and services we believe may be of interest. 
+  
+
+
+
+Many portions of the PC World site can be used without registering or giving us any personal information such as (but not limited to) your name and e-mail address. However, PC World does collect personally identifying information regarding our online users, including in the following ways:
+
+  1. When you provide it to us, such as (but not limited to) by entering a contest, becoming a registered member, signing up for a newsletter or tutorial, or otherwise contacting us.
+  
+
+  2. When you provide it to a company that powers a portion of our site or provides a special feature, such as a contest registration, that appears on our site..
+  
+
+  3. When you provide information about yourself or your company to PC World in connection with a subscription order, or when you provide information to any other IDG Publishing Network affiliate, that information may be included in your PC World user record, if one exists. 
+  
+
+  4. If you have previously registered with another IDG Publishing Network affiliate and you begin to fill out certain forms on the PC World Web site, the site may recognize you and automatically complete the form, and this auto-fill data will then be included in your PC World user record.
+  
+
+  5. If you have provided information to PC World, from time to time we may enhance that information with other information that we collect from third-party sources. 
+  
+
+
+
+The personal information we collect may be used in a number of ways, including the following:
+
+  1. To improve the content of the PC World site, including by allowing PC World's editors to consult with readers.
+  
+
+  2. To communicate with users about registration and other customer service issues.
+  
+
+  3. To promote products and services of PC World, our parent company IDG, and our sibling IDG companies, as described in more detail below.
+  
+
+  4. To conduct research surveys on behalf of PC World, IDG, and its subsidiaries and affiliates.
+  
+
+
+
+Information sharing 
+
+PC World may share aggregated, nonpersonal information, such as Web site traffic figures, with third parties. This aggregated information does not identify you individually. We may share personal information with your consent or in order to provide products or services you have requested. In addition, by using the site you agree that we may also share personal information in any of the following circumstances:
+
+  * We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of PC World or our employees or customers.
+  
+
+  * We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfillment providers, who process information or perform services on our behalf.
+  
+
+  * If you submit personal information on a portion of our site that is operated by a third party, such as our price comparison service, we may share the information you submit with the third party, and the information may be used by that party as permitted under that party's privacy policy. PC World and its parent and affiliate companies are not responsible for the third party's actions or policies. Portions of the site operated by third parties normally include a "Powered by" logo naming the third party, or have forms that include links to the third party's privacy policy.
+  
+
+  * We may transfer personal information from your user record to your subscriber record, if one exists, provided that we also transfer any preferences you have set for how that personal information is used. Any information transferred to the subscriber database will be governed by Section 2 (PC World Subscriber Privacy Policy).
+  
+
+  * As part of the IDG Publishing Network, we share personal information with our parent company, IDG, for promotional and other purposes. Section 3 (IDG Publishing Network Privacy Policy) explains how the IDG Publishing Network uses this information.
+  
+
+  * We may share information with third parties for promotional purposes, as described below.
+  
+
+
+
+In addition, you should be aware that when you disclose personal information such as your name or e-mail address in a forum, blog comment, or other area that is publicly accessible by others, that information can be collected and used by others. PC World and its parent and affiliate companies are not responsible for any information that you provide in the above areas. 
+
+Use of data for promotions, and choices for personal information
+
+Postal addresses will be used to promote PC World and IDG companie's products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the postal address data is rented and/or licensed for use are screened and the users are required to target their offers carefully.
+
+When you provide your e-mail address to us, you agree to receive e-mail from PC World, its sibling IDG companies, and the IDG Publishing Network; however, you can unsubscribe from these e-mails at any time simply by clicking the unsubscribe link at the bottom of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully. 
+
+In addition, you may change your preferences regarding use of personal data by sending an e-mail to [webmaster@pcworld.com](mailto:webmaster@pcworld.com).
+
+If PC World or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
+
+2\. PC World Subscriber Privacy Policy
+
+PC World collects personally identifying information and data from people who subscribe to PC World magazine, whether in print or via an electronic edition. This section of our privacy policy explains how we collect and use subscriber information. Please note that PC World subscriber data is maintained separately from data gathered from our online users. This means that subscribers who also use the PC World Web site should read both this section and Section 1 (PC World Online Privacy Policy) in order to have a full understanding of our privacy practices.
+
+Information we collect and how we use it
+
+We collect personally identifying information regarding subscribers in three main ways:
+
+  * When you provide it to us, such as by ordering a subscription, entering a contest, signing up for a newsletter or otherwise contacting us.
+  
+
+  * When you provide information about yourself or your company to the PC World Web site or when you register for any other IDG Publishing Network products, your information may be included in your PC World subscriber record.
+  
+
+  * From time to time we may add other information that we collect from third-party sources to enhance the information that you provided to PC World.
+  
+
+
+
+When you subscribe to PC World, you must provide your postal address (for print subscribers) or e-mail address (for electronic edition subscribers), and you may choose to provide us with additional personal information, such as your telephone or fax number, and with demographic information, all of which becomes part of your subscription record. The data in your subscription record is used in a number of ways, including the following:
+
+  * To deliver your subscription.
+  
+
+  * To improve the content of PC World, including by allowing PC World's editors to consult with readers.
+  
+
+  * To notify subscribers about renewals and other customer service issues.
+  
+
+  * To help our audit bureau verify cumulative circulation and demographic statistics.
+  
+
+  * To conduct research surveys on behalf of PC World, IDG, and its subsidiaries and affiliates.
+
+
+
+Information sharing 
+
+PC World may share aggregated, nonpersonal information, such as total magazine circulation or circulation in a particular state or zip code, with third parties. This aggregated information does not identify you individually. We may share personal information with your consent or in order to provide products or services you have requested. We may also share personal information in any of the following circumstances:
+
+  * We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of PC World or our employees or customers.
+  
+
+  * We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfillment providers, who process information or perform services on our behalf.
+  
+
+  * We may transfer personal information from your subscriber record to our online user database, provided that we also transfer any preferences you have set for how that personal information is used. Any information transferred to the online user database will be governed by Section 1 (PC World Online Privacy Policy).
+  
+
+  * As part of the IDG Publishing Network, we share personal information with our parent company, IDG, for promotional and other purposes. Section 3 (IDG Publishing Network Privacy Policy) explains how the IDG Publishing Network uses this information.
+  
+
+  * We may share information with third parties for promotional purposes, as described below.
+
+
+
+Use of data for promotions, and choices for personal information
+
+Postal addresses will be used to promote PC World and IDG companies' products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the postal address data is rented and/or licensed for use are screened and the users are required to target their offers carefully.
+
+When you provide your e-mail address to us, you agree to receive promotional e-mail from PC World, its sibling IDG companies, and the IDG Publishing Network; however, you can unsubscribe from these e-mails at any time simply by clicking the unsubscribe link at the bottom of the e-mail. We allow you to opt out of receiving e-mail regarding third-party offers, both when e-mail information is collected and with each use of your address. If you do not opt out at the time your e-mail address is collected, or do not respond to the questions concerning how we may use your e-mail address, your address may be used for third-party offers. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.
+
+Subscribers who do not want their personal information used for third-party promotions may write and ask to be removed from such promotion lists. Requests should be sent to:
 
 PC World  
 Attn: Subscriber Services  
 P.O. Box 37571  
 Boone, IA 50037-0571  
-Or e-mail us at: [customer_service@pcworld.com ](mailto:customer_service@pcworld.com)
 
-Further notification of how to be removed from the mailing list can be found in each issue of _PC World_ magazine and in subscription order confirmations.
+
+If PC World or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
+
+3\. IDG Publishing Network Privacy Policy
+
+PC World is part of the IDG Publishing Network, a group of Web sites for the IDG family of technology publications. The policy below governs the use of personally identifying information collected by the IDG Publishing Network from registered members of sites that are part of the IDG Publishing Network and from subscribers to IDG publications. For information on PC World's privacy practices, please see Section 1 (PC World Online Privacy Policy) and Section 2 (PC World Subscriber Privacy Policy).
+
+IDG Publishing Network Privacy Policy
+
+Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on www.idg.com.
+
+About the IDG Publishing Network
+
+The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including PC World, Macworld, Computerworld, InfoWorld, CIO, CSO, Darwin, Game Pro, and Network World. The IDG Publishing Network is a growing collection of IDG Web sites that presently includes pcworld.com, macworld.com, maccentral.com, javaworld.com, playlistmag.com, cio.com, csoonline.com, computerworld.com, darwinmag.com, infoworld.com, and networkworld.com. A complete listing is available at www.idg.com.
+
+To access restricted content on any IDG Publishing Network Web site, you must be a member of the IDG Publishing Network. To become a member of the IDG Publishing Network, you need to provide certain information about yourself. Any of the IDG Publishing Network sites may use this identifying information for internal analytical and business development purposes and to send you e-mail. However, other forms of communication, including postal mail, may be directed to you pursuant to the specific privacy policy of the site to which you provided the information, as may be updated from time to time. 
+
+You can opt out of receiving further e-mail by clicking the appropriate links that appear at the bottom of any e-mail you receive. If you do not want to receive other types of communication, including as applicable, postal mail, from the editor and publisher of the site to which you provided the information, please refer to the site's privacy policy for the procedure to follow. 
+
+The IDG Publishing Network is intended for individuals age 13 and over. Personal information may not be provided by anyone under 13 years of age. Further no one under 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition no one under the age of 18 may conduct any transactions for the purposes of purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the IDG Publishing Network.
+
+If you have any questions or comments regarding the IDG Publishing Network or its use of information please send e-mail to IDGNetwork@idg.com or write to us at IDG Publishing Network, 3 Post Office Square, Boston, MA 02109.
+
+Last updated: May 3, 2006.
 
   
 
