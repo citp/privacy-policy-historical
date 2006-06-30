@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nus.org.uk privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214123834id_/http%3A//www.nusonline.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nus.org.uk privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630052608id_/http%3A//www.nusonline.co.uk/privacy) for the most accurate reproduction.*
 
 # nusonline.co.uk
 
@@ -54,8 +54,10 @@ If you have any questions about this privacy policy, or the use of your personal
 
 Data Protection Officer,  
 National Union of Students.,  
-461 Holloway Road,  
-London N7 6LJ 
+2nd Floor,  
+Cento 3,  
+Mandella Street,  
+London NW1 ODU 
 
 If you have any questions for NUS relating to privacy, please send them to this address. 
 
@@ -63,6 +65,4 @@ If you have any questions for NUS relating to privacy, please send them to this 
 
 If we decide to change this privacy policy, we would post such changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. 
 
-8 July 2002  All materials on this site are © National Union of Students. All rights reserved.  
----  
-Site owned and operated by NUS. For details see:[site credits](https://web.archive.org/credits)
+8 July 2002 
