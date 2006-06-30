@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2005-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051214060444id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalspec.com privacy policy that was archived on 2006-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060630053342id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.-->
 
 <html><head><title>GlobalSpec - Privacy Policy</title>
 	<link rel="stylesheet" type="text/css" href="http://www.globalspec.com/css/stylesheet.css">
 		
-		<script language="javascript">
+		<script language="javascript" type="text/javascript">
 		
 		<!-- // remove frames (ie6 cookie issue)
 		if ( self != parent)  {
@@ -17,7 +17,7 @@
 		//-->
 		</script>
 		
-	<script language="JavaScript">
+	<script language="JavaScript" type="text/javascript">
 	//<!--
 		// this string holds the javascript to execute when the page has finished loading
 		var m_OnLoadFunctions = "";
@@ -37,49 +37,51 @@
 		}
 	//-->
 	</script>
-	<script language="JavaScript" src="/js/WrapperFunctions_Normal.js"></script>
-<script language="JavaScript" src="/js/WrapperFunctions_Common.js"></script>
-<script language="JavaScript" src="/js/GS_strings.js"></script>
+	<script language="JavaScript" src="/js/WrapperFunctions_Normal.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/WrapperFunctions_Common.js" type="text/javascript"></script>
+<script language="JavaScript" src="/js/GS_strings.js" type="text/javascript"></script>
  </head>
 
 <body bgcolor="#ffffff">
 
 
 
-<table class="bannerArea" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="BannerArea">
 
-
-
-
-
-	
-	<td colspan="3" align="center" valign="top" width="100%">
-		<br>&nbsp;
+	<tbody><tr style="height:60px;">
 		
-		<a href="http://www.globalspec.com/"><img src="/pix/logos/GlobalSpecSearchEngineLogo.gif" width="208" height="55" border="0" alt="Go to GlobalSpec.com Home"></a>
+		<td align="left" valign="middle" nowrap="" width="1%" style="padding-left:5px;padding-right:5px;height:60px;" class="BannerArea">
+			
+			<a href="http://www.globalspec.com/"><img src="/pix/logos/GlobalSpecSearchEngineLogo.gif" width="208" height="55" border="0" alt="Go to GlobalSpec.com Home" style="margin-top:6px;margin-bottom:5px;"></a>
+			
+		</td>
+	
 		
-		<br>&nbsp;
-	</td>
+		<td align="center" valign="middle" width="40%" nowrap="" style="height:60px;" class="BannerArea">
+			
+		</td>
 	
-	
-	
-</tr>
-
-
-
-	<tr height="7" class="blueGrayBg"><td colspan="3"><img src="/pix/dot.gif" width="1" height="1"></td></tr>
-	<tr><td colspan="3">
-	<table class="bannerArea" width="100%" cellpadding="0" cellspacing="0" border="0">
-	
-	<tbody><tr class="blueGrayBg">
 		
-		<td align="center">
+		<td align="right" valign="top" width="25%" style="padding-top:8px;padding-left:5px;padding-right:5px;" class="BannerArea">
+			
+				<div><a target="_top" class="whiteLinksNoUnderline" href="http://www.globalspec.com/MyGlobalSpec/NewProfile?PostRegURLToGoTo=%2Fhelp%2Fprivacy">Free&nbsp;Registration</a>&nbsp;</div>
+			
+				<div style="font-size:x-small;"><a class="whiteLinksNoUnderline" href="http://www.globalspec.com/Engineering-Toolbar/install?frmtrk=seo">Download&nbsp;Engineering&nbsp;Toolbar</a></div>
+			
+			<div style="font-size:x-small;"><a class="whiteLinksNoUnderline" href="http://www.globalspec.com/">GlobalSpec&nbsp;Home</a></div>			
+		</td>
+	
+	</tr>
+
+
+
+<tr>
+	<td colspan="3">
+		
 		
 
 
-
-<script language="JavaScript">
+<script language="JavaScript" type="text/javascript">
 //<!--
 // preload images
 var goMouseOver = new Image();
@@ -101,41 +103,33 @@ var blueGoMouseUp = new Image();
 blueGoMouseUp.src = "/pix/buttons/HeaderGo_Out_blue.gif";
 
 
-	function DoSearchBoxSubmit() {
-		var gotoURL;
+// A version of DoSearchBoxSubmit that ascertains which petal to show based on the form.
+
+function DoSearchBoxSubmit() {			
+	var searchterm = document.FindIn.query.value;
+	
+	var gotoURL = "http://search.globalspec.com/Search?query=";		
+	
+	var show;
+	var radioButtons = document.FindIn.show;	
+
+	if (searchterm == "") {
+		alert("Please enter a search term");
+	} else {
 		
-		var searchterm = document.FindIn.query.value;
 	
-		if (searchterm == "") {
-			alert("Please enter a search term");
-		} else {
-			switch (document.FindIn.SearchMode.value) {
-	
-				case "Products":	gotoURL = "http://search.globalspec.com/ProductFinder/FindProducts?query=" + escape(searchterm); break;
-				case "Services":	gotoURL = "http://search.globalspec.com/ProductFinder/FindProducts?query=" + escape(searchterm) + "&mode=Services"; break;
-				case "Suppliers":	gotoURL = "http://www.globalspec.com/SpecSearch/SupplierByNameSearch?query=" + escape(searchterm); break;
-				case "FeaturedProducts":	gotoURL = "http://www.globalspec.com/FeaturedProducts/SearchResults?criteria=" + escape(searchterm); break;
-				case "SearchEngineTotal":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=total"; break;
-				case "SearchEnginePartNumbers": gotoURL = "http://part-numbers.globalspec.com/Search?query=" + escape(searchterm) + "&show=partnumbers"; break;
-				case "SearchEngineCompanySites":	gotoURL = "http://search.globalspec.com/Search?query=" + escape(searchterm) + "&show=companysites"; break;
-				case "SearchEngineAppNotes":	gotoURL = "http://application-notes.globalspec.com/Search?query=" + escape(searchterm) + "&show=appnotes"; break;
-				case "SearchEnginePatents":		searchterm = searchterm + buildExtraPatentSearchTerms(); gotoURL = "http://patents.globalspec.com/Search?query=" + escape(searchterm) + "&show=patents"; break;
-				case "SearchEngineStandards":	gotoURL = "http://engineering-standards.globalspec.com/Search?query=" + escape(searchterm) + "&show=standards"; break;
-				case "SearchEngineMaterials":	gotoURL = "http://material-properties.globalspec.com/Search?query=" + escape(searchterm) + "&show=materials"; break;
-				default: gotoURL = "http://search.globalspec.com/ProductFinder/FindProducts?query=" + escape(searchterm);
-				
-			}
-			
-			// append a URL parameter for tracking that indicates we are hitting the page
-			// from the search box in the skin
-			gotoURL = gotoURL + "&frmtrk=topnav";
-	
-			
-			
-						
-			top.location.href = gotoURL;
-		}
+
+	for(i=0; i < radioButtons.length; i++) {
+		if(radioButtons[i].checked) {
+			show = radioButtons[i].value;
+		}		
 	}
+
+	changeSearchLocation(show, searchterm);
+	}		
+}
+
+// This version of DoSearchBoxSubmit has the petal to show passed in.
 
 function buildExtraPatentSearchTerms() {
 	var extraStuff = "";
@@ -143,10 +137,6 @@ function buildExtraPatentSearchTerms() {
 		extraStuff = extraStuff + " patentauthor:" + document.FindIn.patentauthor.value;
 	}
 	return extraStuff;
-}
-
-function searchDropDownChange() {
-
 }
 
 
@@ -159,82 +149,202 @@ function searchModeKeyDown(evt) {
 	}
 	return true;
 }
+
+
+function showHide(id, on) {
+		var more=document.getElementById(id);
+		more.style.display=(on ? "inline" : "none");
+				
+		var qsLinkBox=document.getElementById("qsLinkBox");
+		var hideQsBox = document.getElementById("hideQsBox");
+		var form=document.getElementById("FindIn");		
+		var query = document.FindIn.query.value;
+				
+		if (on) {
+			
+			qsLinkBox.style.display="none";
+			hideQsBox.style.display="";
+		} else {
+			
+			qsLinkBox.style.display="";
+			hideQsBox.style.display="none";
+			form.reset();
+			document.FindIn.query.value = query;
+		}
+		
+		var searchBoxInnerDiv = document.getElementById("searchBoxInnerDiv");
+		searchBoxInnerDiv.style.borderTop = (on ? "solid black 1px;" : "none");
+		searchBoxInnerDiv.style.borderLeft = (on ? "solid black 1px;" : "none");
+		searchBoxInnerDiv.style.borderRight = (on ? "solid black 1px;" : "none");
+		//searchBoxInnerDiv.style.backgroundColor = (on ? "#AABFE2;" : "#4C699E;");
+		//searchBoxInnerDiv.className = (on ? "lightBlueBg" : "BannerArea");
+		
+		//var searchPromptBox = document.getElementById("searchPrompt");
+		//searchPromptBox.innerHTML = (on ? "Search:&nbsp;&nbsp;" : searchPromptText);
+
+}
+
+
+var defaultSearchInfo = "";
+
+function changeSearchInfo(searchType, isDefault, div) {
+	var searchInfoDiv = document.getElementById("SearchInfo");
+	var searchInfo;
+	
+	switch (searchType) {
+		case "total":
+			searchInfo = "Search the Web for engineering pages";
+			break;
+		case "appnotes":
+			searchInfo = "Search the Web for application notes";
+			break;
+		case "patents":
+			searchInfo = "Search the Web for patent information";
+			break;
+		case "standards":
+			searchInfo = "Search the Web for engineering standards";
+			break;
+		case "materials":
+			searchInfo = "Search the Web for information on material properties";
+			break;
+		case "partnumbers":
+			searchInfo = "Search the Web for information on part numbers";
+			break;
+		case "products":
+			searchInfo = "Search online vendor, manufacturer and supplier product catalogs";
+			break;
+		case "services":
+			searchInfo = "Search online service provider and consultant catalogs";
+			break;
+		case "prodannounce":
+			searchInfo = "Search supplier product announcements on GlobalSpec";
+			break;
+		case "thissite": //added for 'this site' searched - RH 3/20/2006
+			searchInfo = "Search  for engineering pages";
+			break;
+	}
+	
+	searchInfoDiv.innerHTML = searchInfo;
+	
+	if (isDefault) {
+		defaultSearchInfo = searchInfo;
+		
+		if (div != null) {
+			div.style.backgroundColor = "";
+		}
+	} else if (div != null) {
+		div.style.backgroundColor = "#F7F7F7";
+	}
+}
+
+function resetSearchInfo(div) {
+	var searchInfoDiv = document.getElementById("SearchInfo");
+	searchInfoDiv.innerHTML = defaultSearchInfo;
+
+	if (div != null) {
+		div.style.backgroundColor = "";
+	}
+}
+
+
+
+function changeSearchLocation(searchType, searchQuery) {
+	
+		var engWebURL = "http://search.globalspec.com/Search?query=";
+		var productFinderURL = "http://www.globalspec.com/ProductFinder/FindProducts?query=";
+		var productAnnouncementsURL = "http://www.globalspec.com/FeaturedProducts/SearchResults?criteria=";
+	
+		var gotoURL;
+		
+		// Depending on search type, we will be going to different URLs for the results
+		switch (searchType) {
+			case "total":
+			case "companysites":
+			case "appnotes":
+			case "patents":
+			case "standards":
+			case "materials":
+			case "partnumbers":
+			case "thissite":	//added for 'this site' searches - RH 3/20/2006
+				gotoURL = engWebURL + escape(searchQuery) + "&show=" + searchType;
+				break;
+			case "products":
+				gotoURL = productFinderURL + escape(searchQuery);				
+				break;
+			case "services":				
+				gotoURL = productFinderURL + escape(searchQuery) + "&mode=services";				
+				break;
+			case "prodannounce":
+				gotoURL = productAnnouncementsURL + escape(searchQuery);
+				break;
+			default:
+				gotoURL = engWebURL + escape (searchQuery) + "&show=total";
+				break;
+		}
+		
+		//alert(gotoURL);
+		location.href = gotoURL;
+}
+
 //-->
 </script>
 
 
-<table cellpadding="0" cellspacing="0" border="0">
-	<form name="FindIn" method="get" onsubmit="DoSearchBoxSubmit(); return false;"></form>
-	<tbody><tr>
-		<td align="center">
-			<table cellpadding="0" cellspacing="0" border="0" align="center">
-				<tbody><tr>
-				
-					<td>&nbsp;</td><td>&nbsp;</td><td><span class="smallContent">Limit your search to:</span></td>
-				
-				</tr>
-				<tr>
-				
-				<td align="right">Find:&nbsp;</td> 
-						
 
-						<td align="left" valign="middle" nowrap="">
-							
-							<input name="query" type="text" value="" size="30">
-								<img src="/pix/dot.gif" width="1" height="1" hspace="1">
+
+
+<table id="searchBoxOuterDiv" class="blueGrayBg" width="100%" cellpadding="0" cellspacing="0" border="0" style="padding-top:5px;"><tbody><tr><td align="center" nowrap=""> 
+	<form name="FindIn" id="FindIn" method="get" onsubmit="DoSearchBoxSubmit(); return false;" style="margin:0px;" action="">
+		<div style="width:560px;vertical-align:middle;text-align:left;" class="blueGrayBg">	
+		<div id="searchBoxInnerDiv" style="padding:5px;margin-bottom:4px;">	
+			<a href="#" onclick="showHide('moreOptions', false); return false;"><img id="hideQsBox" style="display:none;float:right;" src="/pix/buttons/CloseWindowRedX_text.gif" border="0" alt="Close"></a>
+			<span id="searchPrompt" class="boldContent" style="text-align:right;vertical-align:middle;margin-top:3px;font-size:13px;">				
+				Find:&nbsp;&nbsp;
+			</span>
+			<span style="text-align:left;vertical-align:middle;margin-right:1px;">
+				
+				<input name="query" id="query" type="text" value="" size="40">
+			</span>
+			<span style="text-align:left;vertical-align:middle;">
+				<input type="button" alt="Search now!" onclick="DoSearchBoxSubmit(); return false;" value="Search">&nbsp;&nbsp;				 				
+			</span>
+			<span id="qsLinkBox" style="text-align:left;vertical-align:middle;">
+				<a href="#" onclick="showHide('moreOptions', true); return false;" style="font-size:10px;">Advanced Search &gt;&gt;</a>	
+			</span>						
+		</div>		
+	<div style="position:relative;width:560px;z-index:99;">
+													
+		<div id="moreOptions" style="position:absolute;display:none;width:560px;margin-left:0px;margin-right:0px;margin-top:-9px;z-index:99;overflow:hidden;">
+			<div id="moreContent" style="padding-bottom:12px; padding-left:50px;padding-top:5px;text-align:left;border-left:1px solid black;border-right:1px solid black;border-bottom:1px solid black;" class="blueGrayBg">
+				<table cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr>
+						<td>
+							<table cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr onmouseover="changeSearchInfo('total', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="totalRadio" type="radio" name="show" value="total" onclick="changeSearchInfo('total', true, this.parentNode);" checked=""></td><td><label for="totalRadio" style="width:100%;padding-right:30px;display:block;">The Engineering Web<span class="sup">®</span></label></td></tr> <tr onmouseover="changeSearchInfo('products', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="productsRadio" type="radio" name="show" value="products" onclick="changeSearchInfo('products', true, this.parentNode);"></td><td><label for="productsRadio" style="width:100%;padding-right:30px;display:block;">Products &amp; Services</label></td></tr> <tr onmouseover="changeSearchInfo('partnumbers', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="partnumbersRadio" type="radio" name="show" value="partnumbers" onclick="changeSearchInfo('partnumbers', true, this.parentNode);"></td><td><label for="partnumbersRadio" style="width:100%;padding-right:30px;display:block;">Part Number Search</label></td></tr> <tr onmouseover="changeSearchInfo('appnotes', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="appnotesRadio" type="radio" name="show" value="appnotes" onclick="changeSearchInfo('appnotes', true, this.parentNode);"></td><td><label for="appnotesRadio" style="width:100%;padding-right:30px;display:block;">Application Notes</label></td></tr> <tr onmouseover="changeSearchInfo('materials', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="materialsRadio" type="radio" name="show" value="materials" onclick="changeSearchInfo('materials', true, this.parentNode);"></td><td><label for="materialsRadio" style="width:100%;padding-right:30px;display:block;">Material Properties</label></td></tr> <tr onmouseover="changeSearchInfo('patents', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="patentsRadio" type="radio" name="show" value="patents" onclick="changeSearchInfo('patents', true, this.parentNode);"></td><td><label for="patentsRadio" style="width:100%;padding-right:30px;display:block;">Patents</label></td></tr> <tr onmouseover="changeSearchInfo('standards', false, this);" onmouseout="resetSearchInfo(this);"><td><input id="standardsRadio" type="radio" name="show" value="standards" onclick="changeSearchInfo('standards', true, this.parentNode);"></td><td><label for="standardsRadio" style="width:100%;padding-right:30px;display:block;">Standards</label></td></tr>
+							</tbody></table>
 						</td>
-						<td align="left" valign="center" nowrap="">
-							
-							<select name="SearchMode" onchange="searchDropDownChange()" onkeydown="return searchModeKeyDown(event)" onkeyup="return searchDropDownChange(event)">
-<option value="Products" selected="">Products &amp; Suppliers</option>
-<option value="Services">Service Providers</option>
-<option value="Suppliers">A Company by Name</option>
-<option value="SearchEngineTotal">== THE ENGINEERING WEB ==</option>
-<option value="SearchEngineTotal">All Sites</option>
-<option value="SearchEngineAppNotes">Application Notes</option>
-<option value="SearchEngineMaterials">Material Properties</option>
-<option value="SearchEnginePartNumbers">Search By Part Number (Beta)</option>
-<option value="SearchEnginePatents">Patents</option>
-<option value="SearchEngineStandards">Standards</option>
-<option value="SearchEngineCompanySites">Supplier Web Sites</option>
-</select>
-						
-							<img src="/pix/dot.gif" width="1" height="1" hspace="1">
+						<td align="center" valign="top">
+							<div id="SearchInfo" style="margin-top:20px;border:solid #BEC2C2 1px;padding:5px;background-color:#F7F7F7;width:250px;height:45px;text-align:left;">Search the Web for engineering pages</div>
 						</td>
-					
-				</tr>
-
-				
-				
-				
-			</tbody></table>
-		</td>
-		
-		
-		<td nowrap="">
-			<img src="/pix/dot.gif" width="1" height="1" vspace="8"><br>
-			<img src="/pix/dot.gif" width="1" height="1" hspace="2">
-		
-			<input type="image" src="/pix/buttons/HeaderGo_Out.gif" alt="Search now!" border="0" onclick="DoSearchBoxSubmit(); return false;" onmouseover="this.src='/pix/buttons/HeaderGo_Over.gif'" onmouseout="this.src='/pix/buttons/HeaderGo_Out.gif'" onmousedown="this.src='/pix/buttons/HeaderGo_Down.gif'">
-		
-		</td>
-														
-		
-
-	</tr>
+					</tr>
+				</tbody></table>
+										
+			</div>		
+		</div>
+	</div>
 	
+		</div>
+	
+	
+	
+	</form>
+
+</td></tr></tbody></table> 
+<script language="JavaScript" type="text/javascript">changeSearchInfo('total', true, null);</script> 
+	</td>
+</tr>
 </tbody></table>
-		
-		</td>
-	</tr>
 
-	
-	<tr height="7" class="blueGrayBg"><td colspan="4"><img src="/pix/dot.gif" width="1" height="1" vspace="1"></td></tr>
-	
-	</tbody></table>
-	</td></tr>
-
-</tbody></table>
 
 <p class="headerGold">GlobalSpec Privacy Policy</p>
 
@@ -268,42 +378,40 @@ GlobalSpec has one primary goal: to help the engineering and technical community
 
 	
 	<br>
+	<hr width="90%">
+	<hr width="90%">
 	
-	
-		<hr width="90%">
-		<hr width="90%">
 	 
 			<table>
 				<tbody><tr>
 					<td align="left" colspan="2">
 						<a href="http://www.globalspec.com/" class="footerlinks">Home</a> 
 			            &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/AboutUs" class="footerlinks">About&nbsp;GlobalSpec</a>
-					    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/MediaKit" class="footerlinks">Media&nbsp;Kit</a>
+					    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/MediaKit" class="footerlinks">Advertise&nbsp;With&nbsp;Us</a>
 					    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/SiteMap" class="footerlinks">Site&nbsp;Map</a>
+					    &nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/SiteMap/Directory/" class="footerLinks">Top Categories</a>
 						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Help/TermsOfUse" class="footerlinks">Terms&nbsp;of&nbsp;Use</a>
-	          			&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Help/Privacy" class="footerlinks">Privacy&nbsp;Policy</a>
-				        &nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Information/LinkToOurSite" class="footerlinks">Link&nbsp;To&nbsp;Our&nbsp;Site</a>
+	          			&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Help/Privacy" class="footerlinks">Privacy&nbsp;Policy</a>				        
 						<br>
 					</td>
 				</tr>
 				<tr>
 					<td colspan="2" align="center">
-				    	
+						&nbsp; <a target="_blank" href="http://www.globalspec.com/Information/LinkToOurSite" class="footerlinks">Link&nbsp;To&nbsp;Our&nbsp;Site</a>
+				    	&nbsp; <span class="boldRedContent">|</span> &nbsp; 
 <a href="http://www.globalspec.com/Recommend/Supplier" target="_blank" class="footerlinks">Recommend&nbsp;a&nbsp;Supplier</a> 
- 
+ 				    	
 						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/Submit-Site" class="footerLinks">Submit a Site</a>
 						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a target="_blank" href="http://www.globalspec.com/Email/RecommendEmail" class="footerlinks">Recommend&nbsp;This&nbsp;Site</a>
-						&nbsp; <span class="boldRedContent">|</span> &nbsp; <a href="http://www.globalspec.com/Engineering-Toolbar/Install?frmtrk=footer" class="footerlinks">Download&nbsp;Engineering&nbsp;Toolbar</a>
+						
 					  	<br>
 					</td>
 		  	 	</tr>
-			</tbody></table>
+			</tbody></table>			
 		
-	
 
-	©1999-2005 GlobalSpec.&nbsp; All rights reserved.&nbsp; GlobalSpec, the GlobalSpec logo and SpecSearch are registered trademarks of GlobalSpec, Inc.&nbsp; 
-	<br>
-	The Engineering Search Engine, The Engineering Web, The Engineering Toolbar and DesignInfo are service marks of GlobalSpec, Inc.
+	©1999-2006 GlobalSpec.&nbsp; All rights reserved.&nbsp; GlobalSpec, the GlobalSpec logo, SpecSearch, The Engineering Search Engine and The Engineering<br> Web are registered trademarks of GlobalSpec, Inc. 
+	The Engineering Toolbar and DesignInfo are service marks of GlobalSpec, Inc.
 	<br>
 	No portion of this site may be copied, retransmitted, reposted, duplicated or otherwise used 
 	<br>
@@ -311,13 +419,7 @@ GlobalSpec has one primary goal: to help the engineering and technical community
 	
 	
 		&nbsp; 350 Jordan Rd, Troy, NY, 12180
-		
-    <a href="http://www.globalspec.com/SiteMap/Directory/"><img border="0" src="/pix/dot.gif"></a> 
-	<a href="http://search.globalspec.com/Search/WebSearch"><img border="0" src="/pix/dot.gif"></a> 
-
-		
-	<div style="text-align:right;"><a href="http://www.globalspec.com/Test/control?location=%2Fhelp%2Fprivacy" style="color:#DDDDDD;font-size:1em;" rel="nofollow">control</a></div>
- 
+	 
 
 </div>
 
