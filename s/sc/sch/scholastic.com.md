@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230153448id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630053525id_/http%3A//scholastic.com/privacy.htm) for the most accurate reproduction.*
 
 # Scholastic.com | Privacy Notice
 
@@ -73,4 +73,4 @@ Scholastic.com is owned and operated by Scholastic Inc., 557 Broadway New York, 
 
 The effective date of this Privacy Policy is December, 1998. 
 
-Most recently updated December, 2004. 
+Most recently updated December, 2004.
