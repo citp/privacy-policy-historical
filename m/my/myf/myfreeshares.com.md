@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2005-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051230030952id_/http%3A//www.myfreeshares.com/privicy.php%3Fref%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeshares.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630162027id_/http%3A//www.myfreeshares.com/privicy.php%3Fref%3D) for the most accurate reproduction.*
 
 # MyFreeShares - get paid just for being our member !
 
 active members :  
-37101  | 
+33212    
+  
+| 
 
 **Privacy Policy Statement  
 This is the web site of MyFreeShares.com.**
@@ -31,7 +33,6 @@ With respect to security: We always use industry-standard encryption technologie
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
 
-  
   
 
 
