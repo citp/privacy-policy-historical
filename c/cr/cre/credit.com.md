@@ -1,129 +1,269 @@
-> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214233152id_/http%3A//credit.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630052552id_/http%3A//credit.com/privacy.jsp) for the most accurate reproduction.*
 
 # credit.com: privacy
 
-Updated as of March 3, 2005
+##### This statement was most recently updated as of February 21, 2006 
 
-The web site you entered is operated by Credit.Com, Inc. (“Credit.com”), which values your patronage and the trust you place in the company and its personnel. This Privacy Policy outlines the types of information that are collected by Credit.com on its web sites and how Credit.com uses and protects it. This policy applies only to Credit.com and to web sites operated by or on behalf of Credit.com. It does not apply to web sites that are owned by third parties, including web sites that link to Credit.com or that are linked from this web site (including web sites of lenders and others that have business relationships with Credit.com to provide loans and other consumer credit products and services to you). Credit.com is not responsible for the privacy practices of those third party web sites, which may differ from ours in significant ways. We encourage you to learn about the privacy policies of those web sites and the companies that operate them.
+We take the privacy and security of your non-public sensitive information seriously, and think it is important that you understand:
 
-[](http://www.truste.org/ivalidate.php?url=www.credit.com&sealid=101)Credit.com is a licensee of the TRUSTe® Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites described below in the section entitled Applicable Web Sites. Because Credit.com wants to demonstrate its commitment to your privacy, Credit.com has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+  * What information we collect, and how we collect it;
+  * How we use information we collect;
+  * Who we share information with;
+  * What choices you have regarding the use of the information; and
+  * The types of security we use to protect your information.
 
-If you have questions or concerns regarding this statement, you should first contact Credit.com at the points of contact described below in the section entitled Questions About This Privacy Policy. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, please contact J. Anthony Vittal, the General Counsel of Credit.com, by telephone at (415) 901-1561 or by e-mail at [javittal@credit.com](mailto:javittal@credit.com). If, after you have done these things, you still have not received acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe then will serve as a liaison with us to resolve your concerns.
 
-If we decide to change our privacy policies or practices, we will post those changes to this Privacy Policy, the home page, and other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make materials changes to this Privacy Policy, we will notify you here, by e-mail, or by means of a notice on our home page.
 
-The Credit.com Privacy Policy covers the following topics. You can jump directly to a topic of interest by clicking on the link below.
+[](http://www.truste.org/ivalidate.php?url=www.credit.com&sealid=101)Credit.com is dedicated to protecting the privacy of our customers. Credit.com’s privacy policy and information practices have been independently certified for compliance by the TRUSTe® Privacy Program. Credit.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.Credit.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-Our Commitment to Your Privacy
+### What information we collect and how we collect it.
 
-Credit.com is a California-based company and strongly supports the inalienable right of privacy guaranteed to all people by the California Constitution. While you may not be protected by the California Constitution, and although Credit.com is not a “financial institution” and therefore is not governed by the California Financial Information Privacy Act (Sections 4050 et seq. of the California Financial Code, commonly referred to as “S.B. 1”), Credit.com nonetheless is firmly committed to protecting your personal privacy. As part of that commitment, we communicate this Privacy Policy to every Credit.com employee, and we require that each Credit.com employee follow it. In addition, employee access to information about individual customers is limited to those authorized employees with a legitimate business reason to access the information, and then only on a “need-to-know” basis.
-
-Return to top
-
-Your Consent to This Privacy Policy
-
-By using this web site, you represent to us that you are an adult under the laws of the place where you reside and that you agree with the terms of this Privacy Policy and with the Terms and Conditions applicable to the use of this web site. If you are not an adult under the laws of the place where you reside, or if you do not agree with any provision of this Privacy Policy or the Terms and Conditions, please do not use this web site, and do not provide any Personal Information to us.
+We collect anonymous and personal information as a normal part of normal operations on this web site. We automatically collect anonymous non-personal information from every visitor to the site as do most other companies on their web sites. Credit.com also collects both public, and non-public personally identifiable information, and sensitive information if you request information about a product or service. 
 
 Return to top
 
-Why We Collect Information
+#### Non-personal information
 
-Among its operations, Credit.com functions as a consumer credit intermediary, linking consumers with various consumer credit products and services. If you are applying for any of those products or services, Credit.com may collect the personal information you provide us to enroll you as a customer or to complete a transaction. In these circumstances, however, our principal role is to facilitate a relationship in which you provide your information directly to a third party B for instance, to apply for extension of credit, or to purchase a credit report or other credit-related products or services -- rather than to us. We collect information as a consumer credit intermediary to enable us to:
+We automatically track and collect traffic data. Traffic data is information that does not identify you personally but may include your IP address, URL domain server and other similar types of information that help us administer our site, and improve our service offerings. We use cookies, web-beacons to track traffic data and customer transactions for accounting purposes. 
 
-  * Transmit the information to a third-party lender or service provider (subscribers) who process or provide applications for the product or service you request.
-  * Communicate with you about your applications for products or services.
-  * Confirm the acceptance and status of your request by e-mail.
-  * Respond to your inquiries about the status and/or destination of your applications.
-  * Identify the referring web site if you link to us from another web site.
-  * Delete fictitious data from our systems, based on a customer identifier such as a home telephone number or e-mail address.
-  * Handle accounting issues between us and our subscribers and affiliates, using a customer identifier such as a home telephone number or e-mail address, if the subscriber rejects your application.
-  * Conduct market and demographic analyses on aggregated customer data, which does not identify individual customers.
-  * Perform system and security monitoring, such as monitoring the IP addresses of incoming traffic to prevent abuse.
-
-
-
-Credit.com also provides consumer credit education services. To do so, we may collect your name and your e-mail address to enable us, if you desire, to send you e-mail newsletters and other information about our consumer education services and other programs.
-
-In each of these circumstances, we will only collect and use the minimum information needed to accomplish the stated purpose, and only with your full knowledge and consent.
+No sensitive information is revealed in the collection and tracking process. We do share traffic and transactional information with our affiliates and service providers on an aggregate and anonymous basis for marketing and accounting purposes. 
 
 Return to top
 
-What Information We Keep and How Long We Keep It
+#### Personal Information
 
-We keep aggregate anonymous click stream data indefinitely. This information does not include identifying information about any individual customer. This data includes information about the number of customers visiting this web site during a particular time period, the categories of products and services visited, the pages accessed by the customer, and the place from which each customer accessed our web site. This information helps us refine our offerings of products and services and the presentations of those offerings on our web site.
+In order for you to access many of the services offered on this site, you will be required to provide us with personal information like your contact information:
 
-We keep individual page view information in our log files for 90 days to enable us to better respond to the interests of each customer and for system and security monitoring. We keep aggregated page view data indefinitely.
+  * Name
+  * Street or postal address
+  * E-mail address
+  * Phone number
 
-We indefinitely keep information about you that is not personally identifiable financial information B information such as your name, your e-mail address, the products or services you order through our web site, and your answers to multiple choice questions B to enable us to communicate with you and for our internal analysis of the demographics of our customers. We give you the ability to opt out of future contact from us at any time.
 
-We keep personally identifiable financial information about you that you furnish to us during your visit to our web site B information such as your Social Security account number, a bank account number, a credit card number, your mother's maiden name, and/or your drivers license number B to facilitate the completion of your transaction. We permanently delete this information from our systems after four business days.
 
-If your personally identifiable financial information changes during that four-day period, or if you no longer desire our service, you may correct or delete your information by contacting us at the points of contact described below in the section entitled Questions About This Privacy Policy or by postal mail at the address shown below.
+Personally identifiable contact information is similar to information that may be published in a phone book or directory. This information is used to identify you, complete transactions for services or products you request, facilitate requests for subsequent products or services; and for customer service fulfillment. Personal information is shared with service providers with your consent.
 
-The identity of the organization collecting personally identifiable financial information about you is:
+Personal information may also include other data that does not identify you personally such as:
 
-Credit.Com, Inc.  
-550 15th Street, Suite 36B  
-San Francisco, California 94103-5032  
-(415) 901-1550
+  * Your place of employment, employer, length of time you worked there; 
+  * Number of years you lived in your home or other information about your home;
+  * Information about your credit history;
+  * U.S citizenship;
+  * military service;
+  * Loan purpose and loan amount
 
-Return to top
 
-How We Secure Your Information
 
-Credit.com uses Secure Sockets Layer technology supporting up to 128 bit encryption to prevent unauthorized parties from viewing or tampering with any personal information transmitted to or from Credit.com during your session. Secure Sockets Layer server authentication allows your browser to confirm a server's identity. Using standard techniques of public key cryptography, the authentication system verifies that the server's certificate and public ID are valid and have been issued by a certificate authority listed in the browser's list of trusted certificate authorities. Credit.com is registered with VeriSign®, the best-known certificate authority, and has obtained digital certificates from VeriSign® for www.credit.com and its subdomains and affiliated domains.
-
-When you provide Credit.com with personal information, you do so over Secure Sockets Layer technology using a secure encrypted link between the computer you are using and our servers. When we transmit your personal information to the provider of the product or service you are ordering, we also do so over Secure Sockets Layer technology. Credit.com safeguards information about you in our possession according to established physical and electronic security procedures designed to prevent unauthorized access. We continually assess new information protection technology.
-
-Return to top
-
-Disclosure of Your Information
-
-Credit.com does not provide your personally identifiable information to affiliated or unaffiliated companies for their independent use, except when we transmit the information to subscribers who process or provide applications for the product or service you request. Credit.com may legally disclose your personally identifiable information to unaffiliated third parties when the law requires our cooperation B for example, in response to a search warrant issued in connection with a fraud investigation, in response to a subpoena, or in response to a request by an authorized government regulator. If possible, we will attempt to comply with any legal request for our cooperation by eliminating all personally identifiable information before releasing our records. If that is not possible, before we provide your personally identifiable information to a third party as required by law, we will seek the issuance of a protective order by a court of competent jurisdiction compelling the third party to maintain the confidentiality of that information.
+This information will be used to help us match you with the most appropriate service provider or product offering.
 
 Return to top
 
-Children
+#### Sensitive information
 
-We do not knowingly solicit personal information from children or send them requests for non public personal information. If you have reached this point, you have represented to us that you are an adult under the laws of the place where you reside.
+You may be required to provide personal, non-public, sensitive information so that service providers can determine your eligibility for some of the services offered on this website, such as your: 
 
-Return to top
+  * E-mail address;
+  * Social security number;
+  * Driver’s license number;
+  * Bank account or routing number;
+  * Date of Birth;
+  * Debit or credit card number, expiration date and security code
 
-Cookies
 
-A cookie is a piece of data stored on your computer that is tied to information about you. We may use both session ID cookies and persistent cookies. For the session ID cookie, once you close your browser, the cookie simply terminates. A persistent cookie is a small text file stored on the hard drive of your computer for an extended period of time.
 
-You may use our web sites even though you have set your computer's browser to reject cookies. The only drawback to rejecting cookies is that you will be limited in some areas and services of our web site.
-
-You may be unable to order, apply for, or request products or services from our subscribers via our web sites if you have set your computer's browser to reject cookies. Thus, for you to access products or services offered by us or our subscribers through our web sites, we recommend that you set your computer's browser to accept cookies.
-
-Some of the companies that offer products or services via our web sites, and some of the companies that route traffic to our web sites, may transmit cookies from their web sites to your computer. We have no access to or control over these cookies. Consequently, this Privacy Notice only covers our use of cookies and does not cover the use of cookies by any third parties.
-
-We link the information we store in the session ID cookie on your computer to the information you submit while on our site, including any personally identifiable information, however, as noted above, the session ID cookie terminates when you close your browser.
+The sensitive information we collect in these circumstances is shared only with service providers in order to fulfill your request. Sensitive information is immediately encrypted and is only temporarily stored in our database before being permanently deleted. Credit.com shares your sensitive information with service providers only with your consent in order to fulfill your request. We do not sell, rent or otherwise share your personal, non-public sensitive information with third parties unless otherwise detailed in this policy statement.
 
 Return to top
 
-Protect and Verify Your Information
+### How Long We Keep Information
 
-We urge you to take every precaution to protect your personal data, both on and off the Internet.
+We keep some of the information we obtain from your interactions on our site:
 
-Return to top
+  * Non personal, non sensitive tracking and traffic data is stored in our log files for 90 days to enable us to better respond to the interests of each visitor to the site, and for system and security monitoring purposes. 
+  * Non-sensitive information such as personal information used for marketing, accounting and transactional purposes may be kept indefinitely.
+  * Sensitive information that may be required to complete a transaction is deleted permanently from our systems after four business days.
+  * Although returning users will find that some on-line forms will be automatically filled in with non-sensitive personally identifiable information, returning users will have to re-enter sensitive information when it is required for a transaction. Sensitive information is not stored longer than four days on our system. 
 
-Applicable Web Sites
 
-This Privacy Policy applies to the following web sites: www.credit.com, www.yourcredit.com, www.personalcreditinformation.com, and others that may be added in the future.
-
-Return to top
-
-Questions About This Privacy Policy
-
-If you have any questions or concerns about this Privacy Policy or our collection of information, please contact our customer service desk by toll-free telephone at (877) 273 4273 or by e-mail at [privacy@credit.com](mailto:privacy@credit.com).
 
 Return to top
 
-Important Note Regarding non-U.S. Users and U.S. Law
+### Why we need your e-mail address
 
-The laws and regulations of different countries impose different (and even conflicting) requirements on the use of the Internet and data protection. Credit.com is located in the United States of America, as are the servers that make this web site available worldwide. The laws of the State of California and, to the extent applicable, the United States of America, govern all matters relating to this web site. If you are located outside the United States of America, please note that any information you provide will be transferred to our servers in the United States of America and, by submitting your information, you authorize this transfer.
+We use your e-mail address to:
 
-Return to top  
+  * Confirm your identity;
+  * Send you information on the status of your transaction;
+  * Contact you if we need your assistance to complete the transaction;
+  * Send you newsletters, and other customer related material.
 
+
+
+Credit.com has a zero tolerance policy for e-mail abuse. If you receive unsolicited e-mails from Credit.com please report it to us at [privacy@credit.com](mailto:privacy@credit.com). We are not responsible for communications you may receive from service providers.
+
+We will never ask you to provide non-public or sensitive information in an e-mail. **DO NOT RESPOND** to an e-mail that appears to be from us requesting non-public or sensitive information the e-mail. Contact us immediately at (877) 273 4273 or by e-mail at [privacy@credit.com](mailto:privacy@credit.com).
+
+We do not store e-mail addresses from correspondence sent to us. If you contact us by e-mail we will respond by email. Credit.com will not use or store your email address in our database from such correspondence. 
+
+Return to top
+
+### What choices you have regarding the use of your information
+
+**E-mail correspondence.** You may opt-out of e-mails in one of two ways:
+
+  1. You may ‘uncheck’ the box next to the offer on the on-line form you compete, or
+  2. Click on the ‘unsubscribe hyperlink’ in the e-mail you receive.
+
+
+
+You will receive an e-mail confirming your decision to opt-out.
+
+**Confirmations.** You may not opt-out of these e-mail messages. They are designed to confirm your identity and your decision to enter into a transaction. Confirmation emails often contain important instructions about your transaction. If you do not wish to receive this confirmation e-mail do not sign up for services or products on this website.
+
+Return to top
+
+### Your Access to Personally Identifiable Information
+
+If you want to change or delete your personally identifiable information, including your e-mail address, or if you no longer are interested in a service found on this website, you may correct, update, delete or deactivate your personally identifiable information by contacting the service provider that processed your request. Information entered on the Credit.com website will be automatically updated each time you apply for a new or different service. (See How Long We Keep Information) 
+
+Return to top
+
+### Credit.com reserves the right to share your information including your e-mail address without your consent when:
+
+  1. Ordered to do so by court order or subpoena; or
+  2. Cooperating with law enforcement investigations; or 
+  3. We determine that any of your activities will harm the property, rights or users of Credit.com; or 
+  4. To verify the integrity of the data collected; or 
+  5. With our affiliated business partners for accounting purposes.
+
+
+
+Return to top
+
+### Important Note Regarding non-U.S. Users and U.S. Law
+
+The laws and regulations of different countries and states impose different (and even conflicting) requirements on date protections and the use of the Internet. Credit.com is located in California, in the United States of America, as are the servers that make this web site available worldwide. The laws of the State of California and, the United States of America, govern all matters relating to this web site. If you provide information while using this site, you will be deemed to have authorized the transfer of your information to our servers in California. 
+
+Return to top
+
+### Children
+
+We do not knowingly solicit personal information from children or send them requests for sensitive information. Although there are links to other sites that may offer services to persons under the age of 18, Credit.com does not offer any services for person under the age of 18. 
+
+Return to top
+
+### This policy statement applies to www.credit.com.
+
+This policy applies only to the website [http://www.credit.com](http://www.credit.com/) and the users of the site. It does not apply to any other web site whether it is a site that you may link to, or a site that may link to this site. Credit.com is not responsible for the privacy practices on any other site or of any other entity or person. We encourage you to learn about the privacy policies of any site you visit and the companies that operate them. 
+
+This Policy is effective February 21, 2006 and replaces any prior policy we posted on our web site. We reserve the right to change this Policy and our e-mail practices at any time, so please review it frequently. When we do, we will post a revised statement on this site, and other places we deem appropriate so that you are aware of what information we collect, how we use it and under what circumstances, if any we disclose it.
+
+Return to top
+
+### Privacy Policies and Service Providers
+
+Because this privacy policy applies only to the Credit.com website it may be different than our service providers’ privacy policies. Credit.com urges you to review the privacy policies of every website you visit where you are required to share your personal information.
+
+Return to top
+
+### Your Consent to This Privacy Policy
+
+By using this web site, you represent to us that you are an adult under the laws of the place where you reside and that you agree with the terms of this privacy policy and with the Terms and Conditions posted on this site. If you are not an adult under the laws of the place where you reside, or if you do not agree with any provision of this policy or the Terms and Conditions, please do not use this web site, and do not provide any personal information to us.
+
+Return to top
+
+### Protect and Verify Your Personally Identifiable Information
+
+We urge you to take adequate precautions to protect your personally identifiable information, both on and off the Internet. (To learn more go to: <http://onguardonline.gov/index.html>).
+
+Return to top
+
+### Contact us
+
+If you have questions or concerns regarding this statement, you should first contact the legal department by telephone at (877) 273 4273, or by e-mail at [privacy@credit.com](mailto:privacy@credit.com), or by mail. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+
+> Credit.Com, Inc.  
+>  550 15th Street, Suite 37  
+>  San Francisco, California 94103-5032  
+>  (415) 901-1550
+
+Return to top
+
+### Security 
+
+Credit.com is a VeriSign® secured website and uses a VeriSign® SSL Certificate for encryption. Customer data is securely transmitted by Credit.com to service providers through a combination of encryption techniques and other privacy protection measures. All sensitive information submitted through the Credit.com website is encrypted before it is stored in the Credit.com database. Encrypted sensitive information is deleted from the Credit.com database after several days.
+
+Credit.com also maintains and enforces strict internal policies that prohibit employees or third parties from accessing or viewing your sensitive information.
+
+Return to top
+
+### Terms Used in This Statement
+
+#### Cookies
+
+Credit.com uses cookies, or small text files, to enhance your interaction with the website. Some cookies are stored on your hard drive. You may reject or refuse cookies and still visit our web site. However if you reject cookies you may not be able to access all of the services on our web site. 
+
+Some of the companies that offer products or services via our web sites, and some of the companies that send visitors to our web site pass cookies to your computer. Please be aware that we have no control over cookies passed to you from other companies’ sites. 
+
+If you request information or purchase a product or service, you will be requested to enter personal, non-public information on our web site. Personal information is linked to the cookie stored on your computer so it will be easier for you to complete a transaction on your next visit to our web site. If you complete another transaction, you will have to re-enter sensitive and non-public information, because that type of information is not linked to cookies stored on your computer.
+
+Return to top
+
+#### Encryption
+
+Credit.com uses encryption to secure personal information like names, phone numbers and credit card data. Encryption is a way to scramble data to make it unreadable to anyone other than the intended recipient. If it is intercepted by a third party while traveling over a network it cannot be read. Only the persons sending and receiving the encrypted data have a key to unscramble the data and make it readable. Encryption provides privacy for email, discussion group postings, and other communications as they move over networks. 
+
+Return to top
+
+#### Personally Identifiable Information
+
+Personally identifiable information is information collected from a website that is used to identify the person to who the information pertains. Personally identifiable information may include your name, address, phone numbers, e-mail address social security number, credit card information and other information that is unique to you. This type of information does not include information that is collected anonymously or for the purpose of tracking movement on our website that is not connected directly with you. 
+
+Personally identifiable information includes public information that is generally known or published like your name and contact information in a phone book or other public records and documents. It can also include non-public information like sensitive information.
+
+Return to top
+
+#### Secure Sockets Layer 
+
+Secure Sockets Layer, (‘SSL’) is the industry standard method for protecting web site communications by encrypting, or obscuring information and making it unreadable to everyone except the holders of the keys used to read the information. Credit.com uses the SSL protocol to capture personal, non-public information, such as your credit card numbers via the Internet.
+
+Return to top
+
+#### Sensitive Information
+
+Sensitive information is personally identifiable information that is non-public like your social security number, credit card numbers, and other financial information.
+
+Return to top
+
+#### SSL Certificate
+
+A SSL certificate, binds am entity to a pair of electronic keys that can be used to encrypt and sign digital information. A SSL Certificate makes it possible for you to verify that we have the right to use a given key, helping to prevent others from using phony keys to impersonate us. Used in conjunction with encryption, SSL Certificates provide a complete security solution, assuring the identity of one or all parties involved in any given transaction. For more information about our certificate, click on the VeriSign® logo on this page. 
+
+Return to top
+
+#### Third party tacking mechanisms
+
+We use third parties to verify the integrity of the information that you provide so we can confirm your identity. Third parties cannot associate this information with you and are prohibited from using the information for any other purpose it.
+
+Return to top
+
+#### Web-beacons
+
+A web beacons is a tracking marker that is placed within a web page or in an e-mail message. Web beacons are invisible to your eye, and are used to monitor a computer which is accessing a particular web page or e-mail message and transfer the data to a server. Credit.com uses web beacons to:
+
+  * Count website visits to specific areas at the Credit.com website;
+  * Track and account for transactional information on third party service provider websites; 
+  * Collect aggregate transactional data for accounting purposes;
+  * Track statistics about:
+    * The IP address of the computer that fetched the web beacon 
+    * The URL of the page that the web Beacon is located on
+    * The URL of the web beacon image 
+    * The time the web beacon was viewed 
+    * The type of browser that fetched the web beacon image
+    * A previously set cookie value Return to the top
+
+
+
+©:, 2006 by Credit.com Inc.
+
+Return to top
