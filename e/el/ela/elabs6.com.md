@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elabs6.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616002449id_/http%3A//www.emaillabs.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elabs6.com privacy policy that was archived on 2006-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060701124635id_/http%3A//www.emaillabs.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy policy - EmailLabs - Uptilt
 
