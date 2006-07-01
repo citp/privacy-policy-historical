@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox5dc.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615225735id_/http%3A//www.fox5dc.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox5dc.com privacy policy that was archived on 2006-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060701170942id_/http%3A//www.fox5dc.com/privacy.shtml) for the most accurate reproduction.*
 
 # fox5dc.COM | FOX5 - WTTG
 
