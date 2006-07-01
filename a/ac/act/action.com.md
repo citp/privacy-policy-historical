@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the action.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206210803id_/http%3A//uk.insight.com/static/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the action.com privacy policy that was archived on 2006-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060701223024id_/http%3A//uk.insight.com/static/privacy.php) for the most accurate reproduction.*
 
 # Insight - Privacy Statement
 
 This privacy policy applies to the website of:
 
-Insight Direct (UK) Limited  
-Technology Building, Insight Campus, Terry Street  
-Sheffield S9 2BU  
-GB  
+Insight (UK) Limited  
+Technology Building  
+Insight Campus  
+Terry Street  
+Sheffield  
+S9 2BU
+
 Tel: 0800 333 333  
-Email: [emarketing@uk.insight.com](mailto:emarketing@uk.insight.com)
+Email: [iukebusiness@uk.insight.com](mailto:iukebusiness@uk.insight.com)
 
 We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document.
 
@@ -22,8 +25,7 @@ We respect your privacy. This is why we have taken the time to disclose our info
   2. All data collected from you will be transmitted to servers where it will be processed.
   3. We confirm that any personal details, which you provide to us (or which are available on public registers) from which we can identify you, are held in accordance with our Data Protection Registration Notification. When you register your details with us, we consider the information you input as private.
   4. Collecting information provides specific benefits to our website visitors. Collecting your information will allow us to process your order and to better advise you of goods and services that may be of interest to you.
-  5. We use the information for the following purposes:  
-
+  5. We use the information for the following purposes:
     1. processing any order or enquiry from you  
 
     2. processing your interest in us, whether as a potential employee or customer or supplier  
@@ -46,6 +48,8 @@ We respect your privacy. This is why we have taken the time to disclose our info
 
     11. contacting our visitors for promotion of the site or products.  
 
+  
+
   6. In the event that your personal information is no longer used by us for the purposes outlined in these policies, we will delete it except insofar as it is necessary to retain such information to comply with other relevant or applicable law.
   7. In the event that your personal data becomes untrue, inaccurate, or incomplete, or in any event, you have the right to gain access to your personal data and may rectify the same.
   8. In the event that you do not wish to receive promotional e-mails from us, please write to us c/o The Data Protection Controller, Insight Direct (UK) Ltd at the address stated above, stating your full name, address, your e-mail address and your day time contact phone number and notify us that you no longer wish to receive promotional material from us.
@@ -61,7 +65,13 @@ We respect your privacy. This is why we have taken the time to disclose our info
 
 ## Security Measures
 
-For credit card transactions, Insight adds security by using Secure Sockets Layer (SSL) technology, with 128 bit encryption. This means that the credit card information you send is encrypted by your computer, and then decrypted again on our side, preventing others from accessing your private information in between. So, when using an SSL capable browser, shopping on Insight's web site is the safest kind of transaction possible with a credit card.
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All account information you use or supply on Insight's Web site when ordering or tracking products is completely secure. We use the most advanced encryption technology to protect you from unauthorised use of information supplied on our Web site.
+
+Secure Sockets Layer (SSL) is the industry standard security protocol used to encode sensitive information such as credit card numbers that pass between your personal computer and Insight's e-Commerce site. SSL works by creating a temporary shared "key" or session that lets only the computers on either end of a transmission scramble and unscramble information. The SSL transmission is indecipherable by any individuals or servers that relay the message between the sender and the receiver. When your web browser enters Insight's secure Web site, our server hosting the site acknowledges your web browser with a "server hello." In return, your browser responds with a "client hello." This communication allows for the browser and server to determine the level of encryption they both support and will use. Once "hellos" are exchanged, your browser will ask for Insight's "digital certificate." The certificate acts as our "commerce ID" to ensure you that the transactions are between you and Insight. Companies receive digital certificates from a Certificate Authority, such as RSA Data Security Inc. or VeriSign Inc. A Certificate Authority verifies a company's identification and then issues a unique certificate as proof of identity.
+
+Next, the browser and the server create a "master key." This master key is a codebook that both sides use to encode and decode transmissions. Only your browser and our server share that master key which is good only for that particular session. The unique key allows your browser and our server to exchange sensitive information in a way third parties can't understand.
+
+Once your transactions are complete and you leave our secure site, the master key you once held with the server becomes useless. When you re-enter the secure site, the hello, digital certificate and master key process start over again.
 
 ## Links Beyond Insight
 
@@ -75,6 +85,6 @@ Subscription Service: To subscribe to our Subscription Service, please visit [ww
 
 ## Deletions You Can Make
 
-Subscription Service: You can unsubscribe by either clicking on the one-click unsubscribe link at the bottom of our ePublications or by signing in to the [Subscription Service](http://uk.insight.com/apps/subscription/index.php) check the Box next to 'Subscription' and click the 'Remove' button.
+Subscription Service: You can unsubscribe by either clicking on the one-click unsubscribe link at the bottom of our ePublications or by signing in to the [Subscription Service](http://uk.insight.com/apps/subscription/index.php) check the box next to 'Subscription' and click the 'Remove' button.
 
 Please check back frequently to see any updates or changes to our privacy policy. 
