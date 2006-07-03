@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox5ny.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619174321id_/http%3A//fox5ny.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox5ny.com privacy policy that was archived on 2006-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060703211252id_/http%3A//www.fox5ny.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # WNYW-TV FOX 5 | Privacy Policy
 
