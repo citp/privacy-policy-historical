@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cellebrite.com privacy policy that was archived on 2005-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050804085515id_/http%3A//www.cellebrite.com/index.asp%3Fmainpage%3Dtpage%26id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellebrite.com privacy policy that was archived on 2006-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060706063720id_/http%3A//cellebrite.com/cellebrite-privacy-statement.asp) for the most accurate reproduction.*
 
-# Cellebrite Mobile Sync - Privacy
+# 
 
 Cellebrite has long recognized that individuals with whom we conduct business value their privacy. However, in order to conduct global business in this increasingly electronic economy, the collection of personal information is often necessary and desirable. It is Cellebrite's goal to balance the benefits of e-commerce with the right of individuals to prevent the misuse of their personal information. 
 
