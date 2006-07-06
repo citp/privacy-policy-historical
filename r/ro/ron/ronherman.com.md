@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ronherman.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614102805id_/http%3A//www.ronherman.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronherman.com privacy policy that was archived on 2006-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060706112237id_/http%3A//www.ronherman.com/privacy.aspx) for the most accurate reproduction.*
 
-# Ron Herman - Fred Segal - Juicy Couture - Rebel Yell - DaNang - True Religion - Seven For All Mankind
+# Ron Herman - Juicy Couture - Rebel Yell - DaNang - True Religion - Seven For All Mankind
 
 RonHerman.com is committed to ensuring the privacy and security of your personal information collected through the Site. The personal information you provide while creating or updating an account and at checkout (i.e. name, address, email address, telephone number, billing address, ship-to address and credit card information) is maintained in private files on our secure web server and on our internal systems. The Site currently does NOT use cookies to collect product and purchase information from the pages you access.
 
