@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annaslinens.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510134841id_/http%3A//www.annaslinens.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annaslinens.com privacy policy that was archived on 2006-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060707071815id_/http%3A//annaslinens.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Annas Linens - Privacy Policy
 
@@ -7,7 +7,7 @@ Privacy Policy Welcome to Adobe GoLive 6
 **Information collection and use  
 **
 
-Anna's Linens collects personal information when you register for email notifications. We collect your first name, last name, email address and zip code. This information is not publically available. We do not sale or rent your personal information to anyone. We use it to send you information about upcoming events at www.AnnasLinens.com or through one of our retail store locations. If you would like to subscribe or unsubscribe to the Anna's Linens email list, [click here](https://web.archive.org/web/20060510134841id_/http%3A//www.annaslinens.com/list.html).
+Anna's Linens collects personal information when you register for email notifications. We collect your first name, last name, email address and zip code. This information is not publically available. We do not sale or rent your personal information to anyone. We use it to send you information about upcoming events at www.AnnasLinens.com or through one of our retail store locations. If you would like to subscribe or unsubscribe to the Anna's Linens email list, [click here](https://web.archive.org/web/20060707071815id_/http%3A//annaslinens.com/list.html).
 
 Anna's Linens collects personal information at the time you make a purchase. The information collected is: Ship to and bill to name, address, phone and email address. Additional information collected is merchandise purchased and credit card type, number, and expiration date for processing your purchase. This information is used to process your order and ship the merchandise you ordered to you. This information is not publically available.
 
@@ -21,4 +21,4 @@ At Anna's Linens, we take security in your shopping experience seriously. We wan
 **Changes  
 **
 
-Anna's Linens may update this privacy policy. We will notify you of significant changes in the way we treat personal information by sending an email to the subscribers of www.AnnasLinens.com email list and post a link on the website. If you would like to subscribe or unsubscribe to the Anna's Linens email list, [click here](https://web.archive.org/web/20060510134841id_/http%3A//www.annaslinens.com/list.html).
+Anna's Linens may update this privacy policy. We will notify you of significant changes in the way we treat personal information by sending an email to the subscribers of www.AnnasLinens.com email list and post a link on the website. If you would like to subscribe or unsubscribe to the Anna's Linens email list, [click here](https://web.archive.org/web/20060707071815id_/http%3A//annaslinens.com/list.html).
