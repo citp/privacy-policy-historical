@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huffpost.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613201156id_/http%3A//huffpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huffpost.com privacy policy that was archived on 2006-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060707221414id_/http%3A//huffpost.com/privacy) for the most accurate reproduction.*
 
 # Terms and Conditions | The Huffington Post
 
