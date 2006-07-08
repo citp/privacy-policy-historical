@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelonly.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623073622id_/http%3A//www.travelonly.com/default/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelonly.com privacy policy that was archived on 2006-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060708214850id_/http%3A//www.travelonly.com/default/privacy) for the most accurate reproduction.*
 
 # 
 
