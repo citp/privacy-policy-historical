@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overlandagency.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614182955id_/http%3A//www.overlandagency.com/default.asp%3Fid%3D200) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overlandagency.com privacy policy that was archived on 2006-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060709203320id_/http%3A//overlandagency.com/default.asp%3Fid%3D200) for the most accurate reproduction.*
 
 # Overland Agency - Privacy Policy
 
@@ -44,7 +44,7 @@ Our website contains links to information on other websites. We do not have any 
 
  **Unsubscribing or Changing Your Account Information**
 
-If you have registered with Overland Agency, you may change your preferences or unsubscribe at any time by following the instructions provided [here](https://web.archive.org/web/20060614182955id_/http%3A//www.overlandagency.com/default.asp?id=250).
+If you have registered with Overland Agency, you may change your preferences or unsubscribe at any time by following the instructions provided [here](https://web.archive.org/web/20060709203320id_/http%3A//overlandagency.com/default.asp?id=250).
 
  **Your Consent**
 
