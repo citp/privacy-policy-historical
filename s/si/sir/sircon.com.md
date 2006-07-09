@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sircon.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620224640id_/http%3A//www.sircon.com/resources/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sircon.com privacy policy that was archived on 2006-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060709020553id_/http%3A//www.sircon.com/resources/privacy.jsp) for the most accurate reproduction.*
 
 # Sircon Corporation -- Privacy Statement
 
