@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myccpay.com privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426234747id_/http%3A//myccpay.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myccpay.com privacy policy that was archived on 2006-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060712233635id_/http%3A//www.myccpay.com/privacy.htm) for the most accurate reproduction.*
 
 # Total Card, Inc.
 
