@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stickyeyes.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414010806id_/http%3A//www.stickyeyes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickyeyes.com privacy policy that was archived on 2006-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060713000819id_/http%3A//www.stickyeyes.com/privacy.html) for the most accurate reproduction.*
 
 # Stickyeyes.com
 
