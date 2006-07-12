@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubcareinsurance.co.uk privacy policy that was archived on 2006-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060530031524id_/http%3A//www.clubcareinsurance.co.uk/Support/club-care-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubcareinsurance.co.uk privacy policy that was archived on 2006-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060712202043id_/http%3A//www.clubcareinsurance.co.uk/Support/club-care-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Club Care Insurance
 
