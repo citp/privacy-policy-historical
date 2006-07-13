@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idealaunch.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617232621id_/http%3A//idealaunch.com/default.asp__Q__Page__E__privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealaunch.com privacy policy that was archived on 2006-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060713140821id_/http%3A//idealaunch.com/default.asp__Q__Page__E__privacy) for the most accurate reproduction.*
 
 # ideaLaunch Search Engine Optimization Conversion Enhancement privacy
 
