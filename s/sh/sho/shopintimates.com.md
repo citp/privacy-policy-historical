@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopintimates.com privacy policy that was archived on 2006-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060521183746id_/http%3A//www.shopintimates.com/home/page.php%3Fpage%3Dinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopintimates.com privacy policy that was archived on 2006-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060713065640id_/http%3A//www.shopintimates.com/home/page.php%3Fpage%3Dinfo) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Retention and Access
 
 We will take reasonable steps to keep your Personal Information accurate, complete, current, and relevant to its intended use. We keep your Personal Information only as long as we need it for the reasons it was collected. When your Personal Information is no longer required for our purposes, we have procedures to destroy, delete, or erase it.
 
-Any information that ShopIntimates Singapore collects from visitors to this Web Site will be used, stored, or processed, in whole or in part, in SIngapore. The principal place in which we hold Personal Information is VBox 888378 Singapore 919191. All purchases from this Web Site are made in Singapore. 
+Any information that ShopIntimates Singapore collects from visitors to this Web Site will be used, stored, or processed, in whole or in part, in SIngapore. The principal place in which we hold Personal Information is 170 Upper Bukit Timah Road, #02-53 Bukit Timah Shopping Centre, Singapore 588179. All purchases from this Web Site are made in Singapore. 
 
 At your request, we will provide you with reasonable access to your Personal Information, so that you can review what we have stored and, if you choose, request corrections to it. After you request access, we will provide the Personal Information that you request as soon as practically possible and generally no later than 7 days following the request. If you wish to correct your Personal Information, please send us a written explanation of the particular information that you believe should be corrected. Where information will not or cannot be disclosed, we will tell you the reasons for non-disclosure. 
 
@@ -32,9 +32,9 @@ In the event of questions about (i) access to your Personal Information, (ii) ou
 
 privacy@shopintimates.com 
 
-Privacy Officer : Calvin Lim 
+Privacy Officer : Mabel Chan 
 
-VBox 888378 Singapore 919191 Singapore ACRA Business Registration No: 53058725D 
+170 Upper Bukit Timah Road, #02-53 Bukit Timah Shopping Centre, Singapore 588179. Singapore ACRA Business Registration No: 53058725D 
 
 Singapore
 
