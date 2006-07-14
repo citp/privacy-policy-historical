@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adsmarket.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202430id_/http%3A//www.adsmarket.com/Company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsmarket.com privacy policy that was archived on 2006-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060714232347id_/http%3A//adsmarket.com/company/privacy_policy.html) for the most accurate reproduction.*
 
-# AdsMarket.com | Company | Privacy Policy
+# AdsMarket.com | About Us | Privacy Policy
 
 AdsMarket is dedicated to protect your privacy. This statement explains our privacy practices for our site www.AdsMarket.com. We feel it is important that visitors are fully knowledgeable about the use of their personal information. By using our website and/or purchasing our product, you expressly consent to the terms of this policy.
 
