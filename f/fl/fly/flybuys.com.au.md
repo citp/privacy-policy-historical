@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the flybuys.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203232id_/http%3A//flybuys.com.au/information/privpol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flybuys.com.au privacy policy that was archived on 2006-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060714073024id_/http%3A//www.flybuys.com.au/information/privpol.asp) for the most accurate reproduction.*
 
 # Welcome to FlyBuys : Information
 
 | 
 
-|  [](https://web.archive.org/web/20060615203232id_/http%3A//flybuys.com.au/information/top)
+| 
 
-FlyBuys is changing the FlyBuys Policy on Information Privacy. This notice describes the changes that are being made. These changes will come into effect on 1 January 2006. You can call us on 13 1116, if you would like a full copy of the amended FlyBuys Policy on Information Privacy.
+FlyBuys has changed the FlyBuys Policy on Information Privacy. This notice describes the changes that are being made. These changes came into effect on 1 January 2006. You can call us on 13 1116, if you would like a full copy of the amended FlyBuys Policy on Information Privacy. 
 
 **What are the changes?**
 
