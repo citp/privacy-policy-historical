@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneclickdigital.com privacy policy that was archived on 2006-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060519102909id_/http%3A//oneclickdigital.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneclickdigital.com privacy policy that was archived on 2006-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060715180451id_/http%3A//oneclickdigital.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # 
 
