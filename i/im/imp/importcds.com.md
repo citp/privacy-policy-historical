@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the importcds.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516173219id_/http%3A//importcds.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the importcds.com privacy policy that was archived on 2006-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060715084128id_/http%3A//www.importcds.com/privacy.asp) for the most accurate reproduction.*
 
 # ImportCDs.com-Buy cheap CD,SACD,DVD,and Vinyl: Worlds largest selection of Music and Video!
 
@@ -47,9 +47,9 @@ Yes, you can change all your information by logging in to your account and updat
 
   
 • How can I start or stop receiving e-mail from you?  
-If you wish to stop receiving email from us, you can use our [contact form](https://web.archive.org/web/20060516173219id_/http%3A//importcds.com/ordered_from.asp) and put "unsubscribe" in the subject line.
+If you wish to stop receiving email from us, you can use our [contact form](https://web.archive.org/web/20060715084128id_/http%3A//www.importcds.com/ordered_from.asp) and put "unsubscribe" in the subject line.
 
   
 • Who can I contact if I have a question about my privacy?  
-You can contact us using our [contact form](https://web.archive.org/web/20060516173219id_/http%3A//importcds.com/ordered_from.asp) for more information.   
+You can contact us using our [contact form](https://web.archive.org/web/20060715084128id_/http%3A//www.importcds.com/ordered_from.asp) for more information.   
 
