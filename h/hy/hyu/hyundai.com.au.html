@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hyundai.com.au privacy policy that was archived on 2006-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060419211807id_/http%3A//hyundai.com.au/j_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hyundai.com.au privacy policy that was archived on 2006-07-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060716232703id_/http%3A//hyundai.com.au/j_privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Hyundai Motor Company Australia Pty Limited</title>
@@ -11,130 +11,131 @@
 				<script language="javascript" src="scripts/browsercheck.js"></script>
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<script language="javascript" src="includes/mm_script.js"></script>
 <script language="javascript">
-	function winOpen2(){
-
-		args = "width=600,height=300,location=0,menubar=0,resizable=0,scrollbars=0,status=0,titlebar=0,toolbar=0,hotkeys=0;"
-		window.open('tucson/index.asp','carWin',args);
+	function winOpen(url, width, height, scrollbars)
+	{
+		window.open(url, 'popup', 'width=' + width + ',height=' + height + ',location=0,menubar=0,resizable=0,scrollbars=' + scrollbars + ',status=0,titlebar=0,toolbar=0,hotkeys=0;');
 	}
 	
-	function winOpen3(){
+	function $(id)
+	{
+		if (typeof(id)!='string') return id;
+		
+		return document.getElementById
+			? document.getElementById(id) 
+			: document.all ? document.all(id) : null;
+	}
+	
+	function observeEvent(obj, evnt, fnc, capture)
+	{
+		obj = $(obj);	
+		if (obj.attachEvent) obj.attachEvent('on'+evnt, fnc);
+		else if (obj.addEventListener) obj.addEventListener(evnt, fnc, capture);
+	}
+	
+</script>
+<a name="top"></a>
+<dl id="mainNav" style="background-image:url(/images/bt_bg_img.gif);">
+	<dt>Main Navigation</dt>
+	<dd id="menu1"><a href="/newcars_intro.asp"><img src="/images/bt_new_cars.gif" alt="New Cars" id="new_cars" border="0"></a>
+		<dl>
+			<dt>New Cars</dt>
+			<dd><a href="/getz_intro.asp">Getz</a></dd>
+			<dd><a href="/accent/" target="_blank">Accent</a></dd>
+			<dd><a href="/elantra_intro.asp">Elantra</a></dd>
+			<dd><a href="http://hyundai.com.au/sonata" target="_blank">Sonata</a></dd>
+			<dd><a href="/tiburon_intro.asp">Tiburon</a></dd>
+			<dd><a href="/trajet_intro.asp">Trajet</a></dd>
+			<dd><a href="/tucson/index.asp" onclick="javascript:winOpen('/tucson/index.asp','600','300','0');return false;" target="_blank">Tucson</a></dd>
+			<dd><a href="/santafe/" target="_blank">Santa Fe</a></dd>
+			<dd><a href="/terracan_intro.asp">Terracan</a></dd>
+			<dd><a href="http://www.grandeur.com.au" target="_blank">Grandeur</a></dd>
+		</dl>
+	</dd>
+	<dd id="menu2"><a href="/fleetadvantage/"><img src="/images/bt_fleet.gif" alt="Fleet" border="0"></a></dd> 
+	<dd id="menu3">
+		<a href="/company_introduction.asp"><img src="/images/bt_our_company.gif" alt="Our Company" id="company" border="0"></a>
+		<dl>
+			<dt>Our Company</dt>
+			<dd><a href="/company_warranty.asp">Warranty</a></dd>
+			<dd><a href="/company_distribution.asp">Distribution</a></dd>
+			<dd><a href="/company_environment.asp">Environment</a></dd>
+			<dd><a href="/company_timeline.asp">Timeline</a></dd>
+			<dd><a href="/company_news.asp">News</a></dd>
+			<dd><a href="/company_events_sponsorship.asp">Sponsorship</a></dd>
+			<dd><a href="/company_concept.asp">Concept Cars</a></dd>
+			<dd><a href="http://www.hyundai-motor.com/" target="_blank">Hyundai Korea</a></dd>
+			<dd><a href="/awards.aspx">Awards</a></dd>
+		</dl>
+	</dd>
+	<dd id="menu4"><a href="/j_dealer_locator.asp"><img src="/images/bt_dealer_locator.gif" alt="Dealer Locator" border="0"></a></dd>
+	<dd id="menu5"><a href="/j_contact.asp"><img src="/images/bt_contact_us.gif" alt="Contact Us" border="0"></a></dd>
+</dl>
+<script type="text/javascript">
+	var delay = 500;
+	var mainNav = $('mainNav');
+	var els = mainNav.getElementsByTagName('a');
+	var timeouts = {};
 
-		args = "width=800,height=570,location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0;"
-		window.open('http://www.evolveddriving.com.au/','carWin',args);
+	for (var i=0; i<els.length; i++)
+	{
+		var link = els[i];
+		
+		observeEvent(link, 'mouseover', menuOver, false);
+		observeEvent(link, 'focus', menuOver, false);
+		observeEvent(link, 'mouseout', menuOut, false);
+		observeEvent(link, 'blur', menuOut, false);
+	}
+	
+	function menuOver()
+	{
+		var obj = eventTarget( arguments[0] || window.event );
+		if (obj.tagName=='IMG') obj = obj.parentNode;
+		
+		var dd = (obj.parentNode.parentNode==$('mainNav')) ? obj.parentNode : obj.parentNode.parentNode.parentNode;
+		
+		if (timeouts[dd.id]) { window.clearTimeout(timeouts[dd.id]); delete timeouts[dd.id]; }
+		
+		var subMenu = dd.getElementsByTagName('dl')[0];
+		
+		if (subMenu)
+			subMenu.style.display = 'block';
+	}
+	
+	function menuOut()
+	{
+		var obj = eventTarget( arguments[0] || window.event );
+		if (obj.tagName=='IMG') obj = obj.parentNode;
+		
+		var dd = (obj.parentNode.parentNode==$('mainNav')) ? obj.parentNode : obj.parentNode.parentNode.parentNode;
+		
+		var subMenu = dd.getElementsByTagName('dl')[0];
+		
+		if (subMenu)
+		{
+			if (timeouts[dd.id]) { window.clearTimeout(timeouts[dd.id]); }
+			timeouts[dd.id] = window.setTimeout(function() { subMenu.style.display = 'none'; }, delay );
+		}
+	}
+	
+	function eventTarget(evnt)
+	{
+		if (evnt.target) return evnt.target;
+		if (evnt.srcElement) return evnt.srcElement;
+
+		return null;
 	}
 </script>
-<div id="drop" style="position:absolute; left:110px; top:80px; width:120px; height:180px; z-index:100; visibility: hidden;"> 
-  <table width="100%" border="1" cellpadding="0" cellspacing="0" bordercolor="#93C0E2">
-    <!--<tr>
-      <td bgcolor="#AAD0E9"><a href="company_employ_overview.asp"><img src="images/employment_bt.gif" name="Image2" width="115" height="20" border="0" id="Image2" onMouseOver="MM_swapImage('Image2','','images/employment_roll.gif',1)" onMouseOut="MM_swapImgRestore()"></a></td>
-    </tr>-->
-    <tbody><tr>
-      <td bgcolor="#AAD0E9"><a href="company_warranty.asp"><img src="images/warranty_bt.gif" name="Image3" width="115" height="20" border="0" id="Image3" onmouseover="MM_swapImage('Image3','','images/warranty_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-    <tr>
-      <td bgcolor="#AAD0E9"><a href="company_distribution.asp"><img src="images/distribution_bt.gif" name="Image5" width="115" height="20" border="0" id="Image5" onmouseover="MM_swapImage('Image5','','images/distribution_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-		<tr>
-      <td bgcolor="#AAD0E9"><a href="company_environment.asp"><img src="images/environment_bt.gif" name="Image4" width="115" height="20" border="0" id="Image4" onmouseover="MM_swapImage('Image4','','images/environment_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-    <tr>
-      <td bgcolor="#AAD0E9"><a href="company_timeline.asp"><img src="images/timeline_bt.gif" name="Image6" width="115" height="20" border="0" id="Image6" onmouseover="MM_swapImage('Image6','','images/timeline_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-    <tr>
-      <td bgcolor="#AAD0E9"><a href="company_news.asp"><img src="images/news_bt.gif" name="Image7" width="115" height="20" border="0" id="Image7" onmouseover="MM_swapImage('Image7','','images/news_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-	<!--
-    <tr>
-      <td bgcolor="#AAD0E9"><a href="company_e10_ethanol.asp"><img src="images/e10_ethanol_bt.gif" name="Image1000" width="115" height="20" border="0" id="Image1000" onMouseOver="MM_swapImage('Image1000','','images/e10_ethanol_bt_roll.gif',1)" onMouseOut="MM_swapImgRestore()"></a></td>
-    </tr>
-    -->
-    <tr>
-      <td bgcolor="#AAD0E9"><a href="company_events_sponsorship.asp"><img src="images/events_bt.gif" name="Image8" width="115" height="20" border="0" id="Image8" onmouseover="MM_swapImage('Image8','','images/events_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-    <tr>
-      <td bgcolor="#AAD0E9"><a href="company_concept.asp"><img src="images/concept_bt.gif" name="Image9" width="115" height="20" border="0" id="Image9" onmouseover="MM_swapImage('Image9','','images/concept_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-    <tr>
-      <td bgcolor="#AAD0E9"><a href="http://www.hyundai-motor.com/" target="_blank"><img src="images/korea_bt.gif" name="Image10" width="115" height="20" border="0" id="Image10" onmouseover="MM_swapImage('Image10','','images/korea_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="closer" style="position:absolute; left:321px; top:85px; width:254px; height:240px; z-index:1; visibility: hidden;"><img src="images/spacer.gif" width="254" height="240" border="0" onmouseover="P7_autoLayers(0)"></div>
-<a name="top"></a>
-<div id="drop1" style="position:absolute; left:0px; top:25px; width:121px; height:198px; z-index:100; visibility: hidden;"> 
-  <table width="100%" border="1" cellpadding="0" cellspacing="0" bordercolor="#93C0E2">
-    <tbody><tr> 
-      <td bgcolor="#AAD0E9"><a href="getz_intro.asp"><img src="images/getz_dp_bt.gif" name="nc_getz" width="115" height="20" border="0" id="nc_getz" onmouseover="MM_swapImage('nc_getz','','images/getz_dp_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-    <tr> 
-      <td bgcolor="#AAD0E9"><a href="accent_intro.asp"><img src="images/accent_dp_bt.gif" name="nc_accent" width="115" height="20" border="0" id="nc_accent" onmouseover="MM_swapImage('nc_accent','','images/accent_dp_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-    <tr> 
-      <td bgcolor="#AAD0E9"><a href="elantra_intro.asp"><img src="images/elantra_dp_bt.gif" name="nc_elantra" width="115" height="20" border="0" id="nc_elantra" onmouseover="MM_swapImage('nc_elantra','','images/elantra_dp_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-    <!-- <tr> 
-      <td bgcolor="#AAD0E9"><a href="lavita_intro.asp"><img src="images/lavita_dp_bt.gif" name="nc_lavita" width="115" height="20" border="0" id="nc_lavita" onMouseOver="MM_swapImage('nc_lavita','','images/lavita_dp_bt_roll.gif',1)" onMouseOut="MM_swapImgRestore()"></a></td>
-    </tr> -->
-    <tr> 
-      <td bgcolor="#AAD0E9"><a href="javascript:winOpen3();"><img src="images/sonata_dp_bt.gif" name="nc_sonata" width="115" height="20" border="0" id="nc_sonata" onmouseover="MM_swapImage('nc_sonata','','images/sonata_dp_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-    <tr> 
-      <td bgcolor="#AAD0E9"><a href="tiburon_intro.asp"><img src="images/tiburon_dp_bt.gif" name="nc_tiburon" width="115" height="20" border="0" id="nc_tiburon" onmouseover="MM_swapImage('nc_tiburon','','images/tiburon_dp_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-    <tr> 
-      <td bgcolor="#AAD0E9"><a href="trajet_intro.asp"><img src="images/trajet_dp_bt.gif" name="nc_trajet" width="115" height="20" border="0" id="nc_trajet" onmouseover="MM_swapImage('nc_trajet','','images/trajet_dp_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-		<tr>
-			<td bgcolor="#AAD0E9"><a href="javascript:winOpen2();"><img src="images/tucson_dp_bt.gif" name="nc_tucson" width="115" height="20" border="0" id="nc_getz" onmouseover="MM_swapImage('nc_tucson','','images/tucson_dp_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-		</tr>
-    <tr> 
-      <td bgcolor="#AAD0E9"><a href="santafe_intro.asp"><img src="images/santafe_dp_bt.gif" name="nc_santafe" width="115" height="20" border="0" id="nc_santafe" onmouseover="MM_swapImage('nc_santafe','','images/santafe_dp_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-    <tr> 
-      <td bgcolor="#AAD0E9"><a href="terracan_intro.asp"><img src="images/terracan_dp_bt.gif" name="nc_terracan" width="115" height="20" border="0" id="nc_terracan" onmouseover="MM_swapImage('nc_terracan','','images/terracan_dp_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-    <tr> 
-      <td bgcolor="#AAD0E9"><a href="http://www.grandeur.com.au" target="_blank"><img src="images/grandeur_dp_bt.gif" name="nc_grandeur" width="115" height="20" border="0" id="nc_grandeur" onmouseover="MM_swapImage('nc_grandeur','','images/grandeur_dp_bt_roll.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="closer2" style="position:absolute; left:0px; top:25px; width:245px; height:240px; z-index:1; visibility: hidden;"><img src="images/spacer.gif" width="245" height="240" border="0" onmouseover="P7_autoLayers(0)"></div>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td background="images/bt_bg_img.gif"> <table width="90%" border="0" cellpadding="0" cellspacing="0" background="images/bt_bg_img.gif">
-        <tbody><tr> 
-          <td valign="bottom"><div align="left"><a href="newcars_intro.asp"><img src="images/bt_new_cars.gif" name="new_cars" width="74" height="25" border="0" id="new_cars" onmouseover="P7_autoLayers(0,'drop1','closer2')"></a></div></td>
-          <td><img src="images/bt_spacer.gif" width="1" height="25"></td>
-          <!--
-          <td valign="bottom"><div align="center"><a href="used_cars.asp"><img src="images/bt_used_cars.gif" width="76" height="25" border="0" onMouseOver="P7_autoLayers(0,'closer','')"></a></div></td>
-          <td><img src="images/bt_spacer.gif" width="1" height="25"></td>
-          -->
-          <td valign="bottom"><div align="center"><a href="/fleetadvantage/"><img src="images/bt_fleet.gif" width="48" height="24" border="0" onmouseover="P7_autoLayers(0,'closer','')"></a></div></td>
-          <td><img src="images/bt_spacer.gif" width="1" height="25"></td>
-          <td valign="bottom"><div align="center"><a href="company_introduction.asp"><img src="images/bt_our_company.gif" name="company" width="91" height="25" border="0" id="company" onmouseover="P7_Snap('company','closer',-70,25,'company','drop',0,25);P7_autoLayers(0,'drop','closer')"></a></div></td>
-          <td><img src="images/bt_spacer.gif" width="1" height="25"></td>
-          <td valign="bottom"><div align="center"><a href="j_dealer_locator.asp"><img src="images/bt_dealer_locator.gif" width="104" height="25" border="0" onmouseover="P7_autoLayers(0,'closer','')"></a></div></td>
-          <td><img src="images/bt_spacer.gif" width="1" height="25"></td>
-          <td valign="bottom"><div align="right"><a href="j_contact.asp"><img src="images/bt_contact_us.gif" width="69" height="25" border="0" onmouseover="P7_autoLayers(0,'closer','')"></a></div></td>
-        </tr>
-      </tbody></table>
-	</td>
-    
-  </tr>
-</tbody></table>
-
 <table width="100%" height="1" border="0" cellpadding="0" cellspacing="0" background="images/1px_line.gif">
   <tbody><tr> 
     <td><img src="images/1px_line.gif" width="2" height="1"></td>
   </tr>
 </tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-    <td bgcolor="#295C77"><a href="index.asp"><img src="images/sub_page_hdr_top.jpg" width="302" height="84" alt="Hyundai: Future Driven" border="0"></a></td>
-	</tr>
-</tbody></table>
+	<table id="header" width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td class="paddingbottom" rowspan="1"><div style="background: url(../images/sub_page_hdr_border.jpg) repeat-x; "><a href="http://www.hyundai.com.au"><img src="images/sub_page_hdr_top.jpg" width="302" height="84" alt="Hyundai: Future Driven" border="0"></a></div></td>
+		</tr>
+	</tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
     <td width="100%" align="right"><img src="images/sub_page_hdr_btm.jpg" width="769" height="11" alt="" border="0"></td>
@@ -204,7 +205,7 @@ in the appropriate locations herein. <br>
 	You are under no obligation to provide us with your personal information. If you choose to do so, it will be accepted as your consent for us to collect 
 	and use it as described below. If you do supply your personal information, or if you allow us to obtain it from you by the methods described below, 
 	we will treat your information as confidential in accordance with HMCA's Public Privacy Policy. A copy of that comprehensive policy can be obtained 
-	by e-mailing HMCA at: <a href="mailto:privacy@cyclecarriage.com.au?subject=Privacy Statement Inquiry">privacy@cyclecarriage.com.au</a><br>
+	by e-mailing HMCA at: <a href="mailto:privacy@hyundai.com.au ?subject=Privacy Statement Inquiry">privacy@hyundai.com.au</a><br>
 	<p align="right">[ <a href="#top">Top of Page</a> ]</p>
 	</td>
 </tr>
@@ -280,7 +281,7 @@ in the appropriate locations herein. <br>
 	<td>
 	<a name="marketing">Marketing and promotional material via e-mail</a><br>
 	We acknowledge and respect a user's choice to opt-out of HMCA marketing and promotional communication activities.  Should you decide you do not wish to receive 
-	marketing or promotional materials, via e-mail, please <a href="mailto:privacy@cyclecarriage.com.au?subject=Privacy Statement Inquiry">e-mail</a> us, being sure to include 
+	marketing or promotional materials, via e-mail, please <a href="mailto:privacy@hyundai.com.au?subject=Privacy Statement Inquiry">e-mail</a> us, being sure to include 
 	your full name, phone number and postal code.<br>
 	<p align="right">[ <a href="#top">Top of Page</a> ]</p>
 	</td>
@@ -288,10 +289,10 @@ in the appropriate locations herein. <br>
 <tr>
 	<td>
 	<a name="access">Accessing and Updating Information</a><br>
-	We need your help in making sure your personal information is correct on our systems.  Please <a href="mailto:privacy@cyclecarriage.com.au?subject=Privacy Statement Inquiry">e-mail</a> 
+	We need your help in making sure your personal information is correct on our systems.  Please <a href="mailto:privacy@hyundai.com.au?subject=Privacy Statement Inquiry">e-mail</a> 
 	us of any changes to your name, address, title, phone number, e-mail address or postal code.  You have rights to access your personal information held by us subject to the 
 	provisions of the Privacy Act 1988 (Cth).  If you would like more information about this, please contact our Privacy Officer by 
-	<a href="mailto:privacy@cyclecarriage.com.au?subject=Privacy Statement Inquiry">e-mail</a>, or posted mail to the address appearing at the end of this Privacy Statement.<br>
+	<a href="mailto:privacy@hyundai.com.au?subject=Privacy Statement Inquiry">e-mail</a>, or posted mail to the address appearing at the end of this Privacy Statement.<br>
 	<p align="right">[ <a href="#top">Top of Page</a> ]</p>
 	</td>
 </tr>
@@ -309,7 +310,7 @@ in the appropriate locations herein. <br>
 	<a name="update">Policy updates</a><br>
 	All updates to this policy will be posted here.  Last update: 20 October 2003.<br>
 	We will not separately notify you of changes to the policy.<br>
-	<br>Click <a href="HADAPrivacy.pdf" target="_blank">here</a> if you wish to download the latest version of the <a href="HADAPrivacy.pdf" target="_blank">HMCA Privacy Policy Statement</a> in PDF format.<br>
+	<br>Click <a href="privacy.pdf" target="_blank">here</a> if you wish to download the latest version of the <a href="privacy.pdf" target="_blank">HMCA Privacy Policy Statement</a> in PDF format.<br>
 	If you don't have Adobe Acrobat on your computer, click <a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">here</a> to download the reader.
 	<p align="right">[ <a href="#top">Top of Page</a> ]</p>
 	</td>
@@ -318,7 +319,7 @@ in the appropriate locations herein. <br>
 	<td>
 	<a name="questions">Have additional comments or questions?</a><br>
 	<br>Should you have any additional privacy comments or questions related to this 
-	privacy policy please contact us by <a href="mailto:privacy@cyclecarriage.com.au?subject=Privacy Policy Inquiry">e-mail</a>, or postal mail.
+	privacy policy please contact us by <a href="mailto:privacy@hyundai.com.au?subject=Privacy Policy Inquiry">e-mail</a>, or postal mail.
 	<br>The Privacy Officer<br>
 	Hyundai Motor Company Australia Pty Ltd<br>
 	Locked Bag 18<br>
