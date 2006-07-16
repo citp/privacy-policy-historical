@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panasonic.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615062700id_/http%3A//panasonic.net/site_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.net privacy policy that was archived on 2006-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060716042727id_/http%3A//panasonic.net/site_info/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Panasonic Global
 
