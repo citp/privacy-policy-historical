@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundai.com.au privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419211807id_/http%3A//hyundai.com.au/j_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.com.au privacy policy that was archived on 2006-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060716232703id_/http%3A//hyundai.com.au/j_privacy.asp) for the most accurate reproduction.*
 
 # Hyundai Motor Company Australia Pty Limited
 
@@ -27,7 +27,7 @@ At HMCA, we take care to respect your right to privacy and to fully comply with 
 [ Top of Page ]  
   
 Your consent  
-By using our website, you consent to the collection and use of this information by HMCA. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You are under no obligation to provide us with your personal information. If you choose to do so, it will be accepted as your consent for us to collect and use it as described below. If you do supply your personal information, or if you allow us to obtain it from you by the methods described below, we will treat your information as confidential in accordance with HMCA's Public Privacy Policy. A copy of that comprehensive policy can be obtained by e-mailing HMCA at: [privacy@cyclecarriage.com.au](mailto:privacy@cyclecarriage.com.au?subject=Privacy%20Statement%20Inquiry)
+By using our website, you consent to the collection and use of this information by HMCA. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You are under no obligation to provide us with your personal information. If you choose to do so, it will be accepted as your consent for us to collect and use it as described below. If you do supply your personal information, or if you allow us to obtain it from you by the methods described below, we will treat your information as confidential in accordance with HMCA's Public Privacy Policy. A copy of that comprehensive policy can be obtained by e-mailing HMCA at: [privacy@hyundai.com.au](mailto:privacy@hyundai.com.au%20?subject=Privacy%20Statement%20Inquiry)
 
 [ Top of Page ]  
   
@@ -71,12 +71,12 @@ HMCA provides access to other sites by way of hyperlinks from this web site. The
 [ Top of Page ]  
   
 Marketing and promotional material via e-mail  
-We acknowledge and respect a user's choice to opt-out of HMCA marketing and promotional communication activities. Should you decide you do not wish to receive marketing or promotional materials, via e-mail, please [e-mail](mailto:privacy@cyclecarriage.com.au?subject=Privacy%20Statement%20Inquiry) us, being sure to include your full name, phone number and postal code. 
+We acknowledge and respect a user's choice to opt-out of HMCA marketing and promotional communication activities. Should you decide you do not wish to receive marketing or promotional materials, via e-mail, please [e-mail](mailto:privacy@hyundai.com.au?subject=Privacy%20Statement%20Inquiry) us, being sure to include your full name, phone number and postal code. 
 
 [ Top of Page ]  
   
 Accessing and Updating Information  
-We need your help in making sure your personal information is correct on our systems. Please [e-mail](mailto:privacy@cyclecarriage.com.au?subject=Privacy%20Statement%20Inquiry) us of any changes to your name, address, title, phone number, e-mail address or postal code. You have rights to access your personal information held by us subject to the provisions of the Privacy Act 1988 (Cth). If you would like more information about this, please contact our Privacy Officer by [e-mail](mailto:privacy@cyclecarriage.com.au?subject=Privacy%20Statement%20Inquiry), or posted mail to the address appearing at the end of this Privacy Statement. 
+We need your help in making sure your personal information is correct on our systems. Please [e-mail](mailto:privacy@hyundai.com.au?subject=Privacy%20Statement%20Inquiry) us of any changes to your name, address, title, phone number, e-mail address or postal code. You have rights to access your personal information held by us subject to the provisions of the Privacy Act 1988 (Cth). If you would like more information about this, please contact our Privacy Officer by [e-mail](mailto:privacy@hyundai.com.au?subject=Privacy%20Statement%20Inquiry), or posted mail to the address appearing at the end of this Privacy Statement. 
 
 [ Top of Page ]  
   
@@ -90,14 +90,14 @@ Policy updates
 All updates to this policy will be posted here. Last update: 20 October 2003.  
 We will not separately notify you of changes to the policy.
 
-Click [here](https://web.archive.org/web/20060419211807id_/http%3A//hyundai.com.au/HADAPrivacy.pdf) if you wish to download the latest version of the [HMCA Privacy Policy Statement](https://web.archive.org/web/20060419211807id_/http%3A//hyundai.com.au/HADAPrivacy.pdf) in PDF format.  
+Click [here](https://web.archive.org/web/20060716232703id_/http%3A//hyundai.com.au/privacy.pdf) if you wish to download the latest version of the [HMCA Privacy Policy Statement](https://web.archive.org/web/20060716232703id_/http%3A//hyundai.com.au/privacy.pdf) in PDF format.  
 If you don't have Adobe Acrobat on your computer, click [here](http://www.adobe.com/products/acrobat/readstep2.html) to download the reader. 
 
 [ Top of Page ]  
   
 Have additional comments or questions?
 
-Should you have any additional privacy comments or questions related to this privacy policy please contact us by [e-mail](mailto:privacy@cyclecarriage.com.au?subject=Privacy%20Policy%20Inquiry), or postal mail.   
+Should you have any additional privacy comments or questions related to this privacy policy please contact us by [e-mail](mailto:privacy@hyundai.com.au?subject=Privacy%20Policy%20Inquiry), or postal mail.   
 The Privacy Officer  
 Hyundai Motor Company Australia Pty Ltd  
 Locked Bag 18  
