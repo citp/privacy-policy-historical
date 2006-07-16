@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the articleco.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617190320id_/http%3A//www.articleco.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleco.com privacy policy that was archived on 2006-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060716021925id_/http%3A//www.articleco.com/privacy.php) for the most accurate reproduction.*
 
 # Articles and Article Directory Submit Articles ArticleCo.com Article Software
 
-Articles & More at ArticleCo.com! - [Article Home](http://www.articleco.com/index.php)
+Articles & More at ArticleCo.com! - [Article Directory Home](http://www.articleco.com/index.php)
 
 **ArticleCo.com Privacy Policy**
 
@@ -36,7 +36,7 @@ ArticleCo.com does not knowingly collect or solicit Personally Identifiable Info
 
 **Contacting Us**
 
-We can be reached by using our online [contact form](https://web.archive.org/web/20060617190320id_/http%3A//www.articleco.com/contacts.php).
+We can be reached by using our online [contact form](https://web.archive.org/web/20060716021925id_/http%3A//www.articleco.com/contacts.php).
 
 **Changes to this Policy**
 
