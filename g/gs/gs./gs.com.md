@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615130732id_/http%3A//gs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gs.com privacy policy that was archived on 2006-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060717005313id_/http%3A//gs.com/privacy_policy) for the most accurate reproduction.*
 
 # Global Privacy Policy
 
