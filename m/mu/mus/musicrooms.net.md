@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicrooms.net privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616003012id_/http%3A//www.musicrooms.net/online/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicrooms.net privacy policy that was archived on 2006-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060717003906id_/http%3A//www.musicrooms.net/online/privacy.htm) for the most accurate reproduction.*
 
 # Musicrooms.net
 
@@ -36,7 +36,7 @@ Personally Identifiable Information—When visiting Musicrooms.net and signing u
 
  Should you have other questions or concerns about this privacy policy, please contact us by , email (
 
-[click here](https://web.archive.org/web/20060616003012id_/http%3A//www.musicrooms.net/online/uk-flavacontact.htm)).
+[click here](https://web.archive.org/web/20060717003906id_/http%3A//www.musicrooms.net/online/uk-flavacontact.htm)).
 
    **Advertising Sales Specific Terms and Conditions**
 
