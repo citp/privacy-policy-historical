@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the the-numbers.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613133149id_/http%3A//the-numbers.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-numbers.com privacy policy that was archived on 2006-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060716040455id_/http%3A//www.the-numbers.com/legal/privacy.html) for the most accurate reproduction.*
 
-# C:\My Documents\The Numbers\The Numbers Privacy Policy.do
+# 
 
 **_The Numbers Privacy Policy_**
 
-We at The Numbers are committed to protecting your online privacy.  This statement is a description of the policy that governs how we collect and use information on The Numbers site. If you have any questions, please contact us at 555 Bryant Street, Suite 601, Palo Alto, CA 94301. ****
+We at The Numbers are committed to protecting your online privacy.  This statement is a description of the policy that governs how we collect and use information on The Numbers site. If you have any questions, please contact us at 357 South Curson Avenue, #8K, Los Angeles, CA 90036. ****
 
 Please note that if you leave [www.the-numbers.com](http://www.the-numbers.com/) (including if you click on any of the banner ads), you will be traveling outside of The Numbers and your information will be subject to privacy policy of the site to which you have traveled.  Please also note that we may change this privacy policy from time to time—you should check it regularly for changes—but we will never sell or otherwise disclose your personally identifiable information to anyone else unless we are compelled to do so by law (see below). __
 
@@ -28,7 +28,7 @@ we receive and where what pages on The Numbers site are most popular (but we nev
 
 We may share this anonymous information with selected affiliates of The Numbers, but we will never disclose information that identifies you personally to anyone outside of The Numbers unless compelled by law (see below).
 
-2)  The Numbers also invites visitors to register via our online forms. You will need to register if you would like to participate in our polls or contests, **** submit reviews or receive our monthly e-mail newsletter. 
+2)  The Numbers also invites visitors to register via our online forms. You will need to register if you would like to participate in our forums, polls or contests, submit reviews or receive our monthly e-mail newsletter. 
 
 The only information you must provide if you choose to register is your e-mail address. We use this information for verification purposes; also, if you sign up for our monthly newsletter (see below), then we will send the newsletter to the e-mail address you give us here. We will not disclose your e-mail address to anyone else unless compelled by law (see below). ****
 
