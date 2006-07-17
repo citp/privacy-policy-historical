@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs4denver.com privacy policy that was archived on 2006-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060404053114id_/http%3A//cbs4denver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs4denver.com privacy policy that was archived on 2006-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060717192323id_/http%3A//cbs4denver.com/privacy) for the most accurate reproduction.*
 
 # cbs4denver.com - Privacy
 
