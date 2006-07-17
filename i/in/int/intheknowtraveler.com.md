@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intheknowtraveler.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622211344id_/http%3A//intheknowtraveler.com/%3Fpage_id%3D59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheknowtraveler.com privacy policy that was archived on 2006-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060717172203id_/http%3A//www.intheknowtraveler.com/%3Fpage_id%3D59) for the most accurate reproduction.*
 
 # Privacy Statement at In the Know Traveler
 
