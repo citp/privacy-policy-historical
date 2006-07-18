@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycollegeoptions.org privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425103158id_/http%3A//mycollegeoptions.org/Content/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycollegeoptions.org privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719010322id_/http%3A//mycollegeoptions.org/Content/Privacy.asp) for the most accurate reproduction.*
 
 # Free College Search For Entrance Admissions, Applications Process, Student Loans Financial Aid Criteria, Freshman SAT, ACT, PSAT Scores, Courses Offered and other University Background Information.
 
@@ -38,6 +38,6 @@ Lee's Summit, MO 64064
 **Research a College:**[For University Scholarships, College Grants, Admission Standards & College Courses Offered](https://web.archive.org/Content/CollegeSearch.asp)  
 **College Tips:**[How to Apply To College, University Admissions Standards, SAT Results & More!](https://web.archive.org/Content/CollegeTips.asp)  
 **For High School Students:**[Match Your Personal Goals, Interest, Academics, Co-curricular Activities, School Location Preferences With Accredited Colleges](https://web.archive.org/Content/ForStudents.asp)  
-**College Matching Survey:**[ College / University Profiles, Entrance Admission Standards, Student Loan Information According To Your Needs & Interests](https://web.archive.org/Content/loginperson.asp)  
+**College Matching Survey:**[ College / University Profiles, Entrance Admission Standards, Student Loan Information According To Your Needs & Interests](https://web.archive.org/Content/ForStudents.asp)  
 **FAQ:**[Your College Finder Locator Search Questions Answered](https://web.archive.org/Content/FAQ.asp)  
 **Help:**[Need Help To Find / Locate A University, Student Loans, View Your Personal Profile](https://web.archive.org/Content/StudentHelp.asp)
