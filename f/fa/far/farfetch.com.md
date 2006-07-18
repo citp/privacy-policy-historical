@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farfetch.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615233859id_/http%3A//farfetch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farfetch.com privacy policy that was archived on 2006-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060718210859id_/http%3A//www.farfetch.com/privacy.html) for the most accurate reproduction.*
 
 # FarFetch -=- Privacy
 
