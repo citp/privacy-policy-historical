@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mystarbucksvisit.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615043147id_/http%3A//mystarbucksvisit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystarbucksvisit.com privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719192933id_/http%3A//mystarbucksvisit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
