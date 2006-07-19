@@ -1,7 +1,80 @@
-> *The following text is extracted and transformed from the 247onlinenetwork.com privacy policy that was archived on 2006-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060204212922id_/http%3A//247onlinenetwork.com/privacy.php%3Fcityid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247onlinenetwork.com privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719081509id_/http%3A//www.247onlinenetwork.com/privacy.php%3Fcityid%3D0) for the most accurate reproduction.*
 
 # Privacy Statement provided by 247onlineNetwork
 
+  
+   **Canada:**  
+   Alberta  
+   British Columbia  
+   Manitoba  
+   New Brunswick  
+   Newfoundland and Labrador  
+   Nova Scotia  
+   Northwest Territories  
+   Nunavut  
+   Ontario  
+   Prince Edward Island  
+   Saskatchewan  
+   Yukon  
+  
+   **USA:**  
+   Alaska  
+   California  
+   Colorado  
+   Florida  
+   Georgia  
+   Hawaii  
+   Indiana  
+   Louisiana  
+   Massachusetts  
+   Maine  
+   North Carolina  
+   New York  
+   Pennsylvania  
+   Tennessee  
+   Texas  
+   Utah  
+   Virginia  
+   Vermont  
+   Washington  
+   Wisconsin  
+   West Virginia  
+   Wyoming  
+  
+   **Dominican Republic:**  
+   Puerto Plata  
+  
+   **Turks & Caicos:**  
+   Ambergris Cays  
+
+
+|  |  |   
+---|---|---  
+| 
+
+The 247onlineNetwork community website needs you!!!
+
+The 247onlineNetwork provides an excellent opportunity to create a career or a supplemental income with a fun and rewarding job that you control.
+
+With all the tools provided by the 247onlineNetwork, it is easy to generate revenue and best of all, you keep the cash!
+
+Do you: 
+
+  * want to play a role in your municipality?
+  * have contacts with members of the local business community?
+  * have a sales or journalism background (or want to get one!)?
+  * want to control your own hours and income?
+
+
+
+If you answered yes to any of the above, then contact the 247onlineNetwork by [CLICKING HERE](http://www.247onlinenetwork.com/contact_client.php?cityid=0&view=input&topic=1) and begin an exciting new career!
+
+|   
+|  |   
+  
+|   
+---  
+  
 **  
   
 Privacy Statement**
@@ -22,4 +95,33 @@ The ads appearing on this Web site may be delivered to you by a number of affili
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, a third-party advertiser may place or recognize a unique cookie on your browser. 
+In the course of serving advertisements to this site, a third-party advertiser may place or recognize a unique cookie on your browser.   
+  
+****  
+  
+**  
+Local Business, Services, News & Events Directory**
+
+* * *  
+  
+|  **Today's Quote**  
+
+
+**When the eagles are silent, the parrots begin to jabber.  
+-|- Sir Winston Churchill  
+**  
+  
+---  
+  
+Contents © Copyright 2005,2006, 247onlineNetwork, CommonTechnologies. All Rights reserved. Duplication or replication in whole, or in part of the contents of this Web site are strictly prohibited without the express written consent of [247onlineNetwork](http://www.247onlinenetwork.com/contact_client.php?cityid=0&view=input&topic=101).  View our [Privacy policy](https://web.archive.org/web/20060719081509id_/http%3A//www.247onlinenetwork.com/privacy.php?cityid=0).
+
+  
+[](http://www.mysql.com/)   [](http://www.php.net/)  
+  
+[](http://click.linksynergy.com/fs-bin/click?id=zyfmYAfJI2U&offerid=56689.10000135&subid=0&type=4)
+
+* * *
+
+[](http://www.247onlinenetwork.com/freelisting.php?cityid=0)
+
+* * *
