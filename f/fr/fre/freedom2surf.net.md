@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom2surf.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023249id_/http%3A//www.freedom2surf.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom2surf.net privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719135239id_/http%3A//www.freedom2surf.net/privacypolicy) for the most accurate reproduction.*
 
 # Freedom2surf - Privacy Policy
 
