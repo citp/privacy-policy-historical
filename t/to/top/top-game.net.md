@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top-game.net privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229181819id_/http%3A//www.top-game.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-game.net privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719043915id_/http%3A//www.top-game.net/privacy.html) for the most accurate reproduction.*
 
-# Online Games. Only the best flash games at Top-Game.net!
+# Flash Games. Only the best flash games at Top-Game.net!
 
 #### Information Collection and Use
 
