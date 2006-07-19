@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the where2getit.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617025408id_/http%3A//www.where2getit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the where2getit.com privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719082244id_/http%3A//where2getit.com/privacy) for the most accurate reproduction.*
 
-# Where2GetIt: Helping Consumers Find Where to Buy Online and Locally
+# Dealer Locator Solutions. Local Search, Maps and Driving Directions
 
 The where2getit name and reputation were built on a foundation of trust. Where2getit is committed to working with public policy organizations, industry groups and government institutions to understand and address privacy issues as they relate to visitors to our Website. This online privacy statement tells you about the information where2GetIt collects through the services available on our website, www.where2getit.com (the "Website"), how we use that information and how you can opt out of certain uses of information we may collect. If you have any questions about our privacy policy or our use of your information, you can email us at privacy@where2getit.com. 
 
