@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziglartraining.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620190009id_/http%3A//www.ziglartraining.com/information.php%3Finfo_id%3D3%3FosCsid%3Dd7ae6a8f003ce676a1444e8c5fb89adb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziglartraining.com privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719084509id_/http%3A//www.ziglartraining.com/information.php%3Finfo_id%3D3%3FosCsid%3Ddb458e3f3dab618af47e2e8b1a31b7ac) for the most accurate reproduction.*
 
 # Ziglar Training Systems
 
