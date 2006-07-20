@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the spoke.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414222359id_/http%3A//www.spoke.com/overview/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoke.com privacy policy that was archived on 2006-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060720130221id_/http%3A//www.spoke.com/products/products_privacy.html) for the most accurate reproduction.*
 
-# Spoke Software: Spoke's Philosophy on Privacy
+# Business Directory to Find People for Lead Generation and Company Research - Spoke.com
 
-Spoke's Philosophy on Privacy
+## Privacy Overview
+
+### Spoke's Philosophy on Privacy
 
 For both our enterprise deployments and on our public web site we believe privacy is not just a feature or a legal document; it is the philosophy on which we founded the company. Privacy permeates everything we build. This focus enables us to design software that we feel comfortable using and recommending to our colleagues and family. Spoke's software analyzes whom you know and how well and aggregates that information to facilitate connections. Allowing Spoke to discover this information for you requires assurances that Spoke will protect that information.
 
-[](https://www.truste.org/ivalidate.php?url=www.spoke.com&sealid=102)
+[](https://www.truste.org/ivalidate.html?url=www.spoke.com&sealid=102)
 
 At Spoke, our belief is that privacy is the ability to control your information. Spoke helps you connect with others through people you already know, and we give you numerous options to control your data.
 
@@ -20,4 +22,4 @@ At Spoke, our belief is that privacy is the ability to control your information.
 
 We believe in openness in our communications on privacy and the incorporation of feedback from our users. We invite you to join the discussion by sharing any comments or concerns with us [information@spoke.com](mailto:information@spoke.com).
 
- 
+[](https://web.archive.org/web/20060720130221id_/http%3A//www.spoke.com/products/products_privacy_next.html)
