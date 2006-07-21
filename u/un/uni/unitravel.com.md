@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitravel.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623023501id_/http%3A//www.unitravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitravel.com privacy policy that was archived on 2006-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060721034129id_/http%3A//www.unitravel.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Unitravel, Hotel reservation and accommodation worldwide. Online hotel booking with discount hotels and luxury accommodation
 
