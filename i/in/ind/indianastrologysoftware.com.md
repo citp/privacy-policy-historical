@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianastrologysoftware.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614151940id_/http%3A//indianastrologysoftware.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianastrologysoftware.com privacy policy that was archived on 2006-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060721204943id_/http%3A//www.indianastrologysoftware.com/privacy.php) for the most accurate reproduction.*
 
 # IndianAstrologySoftware.com :: Privacy Policy
 
@@ -19,4 +19,4 @@ We have security measures in place to attempt to protect against the loss, misus
 
 We may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
 
-If you have questions about this privacy policy or the practices of this site, please [contact us.](https://web.archive.org/web/20060614151940id_/http%3A//indianastrologysoftware.com/contact.php)
+If you have questions about this privacy policy or the practices of this site, please [contact us.](https://web.archive.org/web/20060721204943id_/http%3A//www.indianastrologysoftware.com/contact.php)
