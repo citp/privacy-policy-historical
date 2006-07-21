@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopaarons.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616200946id_/http%3A//shopaarons.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopaarons.com privacy policy that was archived on 2006-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060721091954id_/http%3A//shopaarons.com/privacy.aspx) for the most accurate reproduction.*
 
 # Aaron's Sales and Lease Ownership
 
