@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oocl.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627121427id_/http%3A//www.oocl.com/company_profile/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oocl.com privacy policy that was archived on 2006-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060721072947id_/http%3A//www.oocl.com/company_profile/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
 **Last Updated: 24 May 2002**
 
-This Privacy and Security Statement applies to this website which is owned and operated by Orient Overseas Container Line Limited ("OOCL") under the domain name [www.OOCL.com](https://web.archive.org/web/20060627121427id_/http%3A//www.oocl.com/default.htm) ("OOCL Website" or "Website).
+This Privacy and Security Statement applies to this website which is owned and operated by Orient Overseas Container Line Limited ("OOCL") under the domain name [www.OOCL.com](https://web.archive.org/web/20060721072947id_/http%3A//www.oocl.com/default.htm) ("OOCL Website" or "Website).
 
 As part of the normal operation of our services we collect and, in some cases, disclose information about you. OOCL understands and appreciates that you, as an OOCL Website and/or Service user, are concerned about your privacy and about the confidentiality and security of information we may collect from you online. OOCL is committed to safe guarding your privacy. This OOCL Privacy and Security Statement explains how information collected from you will be treated as you access and interact with the OOCL Website.
 
@@ -12,7 +12,7 @@ In addition to the provisions of this Privacy and Security Statement, there may 
 
 1\. Acceptance and changes to Privacy and Security Statement
 
-This Privacy and Security Statement is incorporated into and subject to the [Terms of Use](https://web.archive.org/web/20060627121427id_/http%3A//www.oocl.com/company_profile/terms_of_use.htm), which together is intended to constitute a single binding agreement of terms and conditions for your use of the Service and of this Website ("the Agreement"). This Privacy and Security Statement shall supplement the Terms of Use and, for the avoidance of doubt, terms defined therein shall have the same meanings in this Privacy and Security Statement unless the context indicates or requires otherwise. In the event of a conflict, the provisions of the Terms of Use will prevail. You acknowledge and accept that your use of and/or access to the OOCL Website and/or Service indicate your acceptance to the Agreement
+This Privacy and Security Statement is incorporated into and subject to the [Terms of Use](https://web.archive.org/web/20060721072947id_/http%3A//www.oocl.com/company_profile/terms_of_use.htm), which together is intended to constitute a single binding agreement of terms and conditions for your use of the Service and of this Website ("the Agreement"). This Privacy and Security Statement shall supplement the Terms of Use and, for the avoidance of doubt, terms defined therein shall have the same meanings in this Privacy and Security Statement unless the context indicates or requires otherwise. In the event of a conflict, the provisions of the Terms of Use will prevail. You acknowledge and accept that your use of and/or access to the OOCL Website and/or Service indicate your acceptance to the Agreement
 
 This is the current Privacy and Security Statement. It replaces any other Privacy and Security Statement for the OOCL Website published on OOCL Website to date. As the OOCL Website develops and as technology evolves, OOCL will continue to strive to provide you with better and more customized services and with a more effective web site. OOCL may at any time revise the Privacy and Security Statement by publishing the revised Privacy and Security Statement on the OOCL Website. You accept that by doing this, OOCL has provided you with sufficient notice of the changes. OOCL nevertheless encourages you to review the Privacy and Security Statement periodically because the Privacy and Security Statement may change from time to time.
 
