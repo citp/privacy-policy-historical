@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the ulsterbank.co.uk privacy policy that was archived on 2006-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060526085501id_/http%3A//www.ulsterbank.co.uk/ulster/ni/Privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulsterbank.co.uk privacy policy that was archived on 2006-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060724043326id_/http%3A//www.ulsterbank.co.uk/ni_global_options.asp%3Fid%3DGLOBAL/PRIVACY) for the most accurate reproduction.*
 
 # Ulster Bank: Privacy Policy
 
 ## Online Privacy Policy 
 
 This document sets out the Ulster Bank Group Privacy Policy for this site. If you have any objections to this policy, you should not access or use this site.   
-Ulster Bank Group (ULSTER BANK or we) respects your right to privacy in relation to your interactions with this website. Any information which is provided by you will be treated in accordance with the terms of the Data Protection Act 1998 with regard to the processing of personal data. 
+Ulster Bank Group (ULSTER BANK or we) respects your right to privacy in relation to your interactions with this website. Any information which is provided by you will be treated in accordance with the terms of the Data Protection (Amendment) Act 2003 with regard to the processing of personal data. 
 
 ## Individual Rights 
 
-Outlined below is our policy on key privacy issues as they relate to this site. In every case, we will let you know what we intend doing with that information before collecting it, so that you can decide whether or not to furnish that information to us. If at any time after giving us this information you decide that you no longer wish us to hold or use this information, or in the case that the information becomes out of date, you are free to notify us, and we will remove or rectify the information within a reasonable time. Please note that this policy statement applies only to this Web site and is not intended to reflect the policy of any outside sites linking to or from ulsterbank.com as well as ulsterbank.co.uk. If, at any time, you wish to contact us or have a question, you can reach us at the above website. 
+Outlined below is our policy on key privacy issues as they relate to this site. In every case, we will let you know what we intend doing with that information before collecting it, so that you can decide whether or not to furnish that information to us. If at any time after giving us this information you decide that you no longer wish us to hold or use this information, or in the case that the information becomes out of date, you are free to notify us, and we will remove or rectify the information within a reasonable time. Please note that this policy statement applies only to this Web site and is not intended to reflect the policy of any outside sites linking to or from ulsterbank.com as well as ulsterbank.ie. If, at any time, you wish to contact us or have a question, you can reach us at the above website. 
 
 ## Disclosures 
 
@@ -42,6 +42,4 @@ As is standard with almost all Websites, this site passively collects limited lo
 You should also be aware that where you link to another website from the ULSTER BANK website, that ULSTER BANK has no control over that website. Accordingly, ULSTER BANK cannot guarantee that the controller of that website will respect your privacy in the same manner as ULSTER BANK.   
 ULSTER BANK, its directors, employees, servants and agents, affiliates or other representatives and their respective parent and subsidiary companies, shall not be liable in respect of any claims, emergencies, demands, causes of action, damages, losses, expenses, including without limitation, reasonable attorney fees and costs of in accordance with this privacy policy and your consents. 
 
-ULSTER BANK reserves the right in its sole discretion to amend this privacy statement at any time, and you should regularly check this privacy statement for any
-
-[Back to previous page](https://web.archive.org/web/20060526085501id_/http%3A//www.ulsterbank.co.uk/ulster/ni/default.asp)
+ULSTER BANK reserves the right in its sole discretion to amend this privacy statement at any time, and you should regularly check this privacy statement for any amendments
