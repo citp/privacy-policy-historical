@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasbar.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414194825id_/http%3A//www.texasbar.com/Template.cfm%3FSection%3DPrivacy_Policy%26Template%3D/ContentManagement/ContentDisplay.cfm%26ContentID%3D4127) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasbar.com privacy policy that was archived on 2006-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060810102518id_/http%3A//www.texasbar.com/Template.cfm%3FSection%3DPrivacy_Policy%26Template%3D/ContentManagement/ContentDisplay.cfm%26ContentID%3D4127) for the most accurate reproduction.*
 
 # State Bar of Texas | TexasBar.com Privacy Statement
 
