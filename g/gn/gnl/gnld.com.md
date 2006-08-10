@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the gnld.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231063118id_/http%3A//www.gnld.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnld.com privacy policy that was archived on 2006-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060810070723id_/http%3A//www.gnld.com/privacypolicy.aspx%3FSTORE_ID%3D1%26NAV_CATEGORY_ID%3D3222%26CATEGORY_ID%3D3252) for the most accurate reproduction.*
 
-# GNLD Privacy Policy
-
-**Privacy Policy**
-
-* * *
+# GNLD: A Better Way of Life.
 
 GNLD recognizes the importance of protecting the privacy and security of information we may collect from you. The purpose of this policy is to inform you of how we handle information we may learn about you from your visit to our website.
 
