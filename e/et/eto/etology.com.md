@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etology.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616035318id_/http%3A//etology.com/help-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etology.com privacy policy that was archived on 2006-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060810074525id_/http%3A//www.etology.com/help-privacy.php) for the most accurate reproduction.*
 
 # Etology Privacy Policy
 
