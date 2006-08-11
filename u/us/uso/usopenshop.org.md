@@ -1,11 +1,17 @@
-> *The following text is extracted and transformed from the usopenshop.org privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408013015id_/http%3A//www.usopenshop.org/index.asp%3FPageAction%3DCustom%26ID%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usopenshop.org privacy policy that was archived on 2006-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060811201935id_/http%3A//www.usopenshop.org/index.asp%3FPageAction%3DCustom%26ID%3D2) for the most accurate reproduction.*
 
 # Privacy
 
-**  
+|  |  |  |  |   | 
+
+  
+**_PRIVACY POLICY_**  
+  
+---|---  
+  | **  
 Welcome  
 **  
-Welcome to (www.usta.com _)_. This site (the “Site”) is owned by the United States Tennis Association (the "USTA"). This Privacy Policy is designed to tell you about our practices regarding collection, use and disclosure of information that we may collect from and about you. Please be sure to read this entire Privacy Policy before using or submitting information to this Site. This Site is intended for use by residents of the United States. 
+Welcome to [www.ustashop.com](http://www.usta.com/). This site (the “Site”) is owned by the United States Tennis Association (the "USTA"). This Privacy Policy is designed to tell you about our practices regarding collection, use and disclosure of information that we may collect from and about you. Please be sure to read this entire Privacy Policy before using or submitting information to this Site. This Site is intended for use by residents of the United States. 
 
 **Your Consent  
 **  
@@ -13,7 +19,7 @@ By using this Site, you agree with the terms of this Privacy Policy. Whenever yo
 
 **About Children**
 
-The Site is a general audience site.  We do not knowingly collect any personal information from children under the age of thirteen on the Site.  If in the future, we collect personally identifiable information from children, we will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.).  The Internet offers children wonderful educational and entertainment resources.  Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience.  We encourage you to visit the Direct Marketing Association’s Web site (www.the-dma.org) and explore the Get CyberSavvy! Program as well as the GetNetWise Web site (www.getnetwise.org) to learn more about parental control tools.
+The Site is a general audience site.  We do not knowingly collect any personal information from children under the age of thirteen on the Site.  If in the future, we collect personally identifiable information from children, we will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.).  The Internet offers children wonderful educational and entertainment resources.  Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience.  We encourage you to visit the Direct Marketing Association�s Web site ([www.the-dma.org](http://www.the-dma.org/)) and explore the Get CyberSavvy! Program as well as the GetNetWise Web site ([www.getnetwise.org](http://www.getnetwise.org/)) to learn more about parental control tools.
 
 **Active Information Collection  
 **  
@@ -46,20 +52,20 @@ If you provide personally identifiable information to this Site, we may combine 
 
 We may disclose your personally identifiable information to third parties located in the United States and/or any other country:
 
-i. to our affiliates;  
-ii. to our sponsors;  
-iii. to other tennis related organizations;  
-iv. to select companies or organizations which we believe may offer products, services, materials or information of interest to visitors to this Site;  
-v. to third parties we use to support our business (including fulfillment services, technical support, delivery services, chat service providers, email service providers, forum service providers, advertisement sales and management services and financial institutions);  
-vi. in connection with the sale, assignment or other transfer of the business of this Site to which the information relates; or  
+i. to our affiliates;   
+ii. to our sponsors;   
+iii. to other tennis related organizations;   
+iv. to select companies or organizations which we believe may offer products, services, materials or information of interest to visitors to this Site;   
+v. to third parties we use to support our business (including fulfillment services, technical support, delivery services, chat service providers, email service providers, forum service providers, advertisement sales and management services and financial institutions);   
+vi. in connection with the sale, assignment or other transfer of the business of this Site to which the information relates; or   
 vii. where required by applicable laws, court orders or government regulations.  
 In addition, we will make full use of all information acquired through this Site that is not in personally identifiable form.
 
 **Third-Party Ad Serving & Audience and Traffic Measurement Services**
 
-The Site may use a third party network advertisers to serve the advertisements on the Site or may use a traffic measurement service to analyze the traffic on the Site.    Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited.  Third-party ad serving enables us to target advertisements to you for products or Web sites you might be interested in.  Although advertisers or other companies do not have access to the Site cookies, the Site’s advertisers, sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one.  
+The Site may use a third party network advertisers to serve the advertisements on the Site or may use a traffic measurement service to analyze the traffic on the Site.    Network advertisers are third parties that display advertisements based on your visits to this Site and other Web sites you have visited.  Third-party ad serving enables us to target advertisements to you for products or Web sites you might be interested in.  Although advertisers or other companies do not have access to the Site cookies, the Site�s advertisers, sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser. Cookies allow third party advertisers to show you advertisements or content you might be interested in. Other companies' use of their cookies is subject to their own privacy policies, not this one.  
 
-Please visit (http://www.networkadvertising.org/optout_nonppii.asp) in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use. 
+Please click here [ http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp)] in order to learn more about the information collection practices and "opt-out" procedures of third party ad servers we may use. 
 
 **Access and Correction  
 **  
@@ -71,11 +77,11 @@ We will take reasonable steps to protect your personally identifiable informatio
 
 **Links to Other Web Sites  
 **  
-You should be aware that when you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site’s logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies.  If you visit a Website that is linked to our Site, you should consult that site’s privacy policy before providing any personal information.
+You should be aware that when you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site�s logo as part of a co-branding agreement. These other Web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies.  If you visit a Website that is linked to our Site, you should consult that site�s privacy policy before providing any personal information.
 
 **Other Terms  
 **  
-Your use of this Site is subject to the Terms of Use [Insert link to Terms of Use]. If you choose to use this Site, your visit and any dispute over privacy and data collection is subject to this Privacy Policy and our Terms of Use including limitations on damages and application of the law of the State of New York.
+Your use of this Site is subject to the [Terms of Use](https://web.archive.org/index.asp?PageAction=Custom&ID=3). If you choose to use this Site, your visit and any dispute over privacy and data collection is subject to this Privacy Policy and our Terms of Use including limitations on damages and application of the law of the State of New York.
 
 **How to Contact Us  
 **  
@@ -85,8 +91,13 @@ United States Tennis Association
 Attention: Advanced Media Dept.  
 70 West Red Oak Lane, White Plains, NY 10604  
 (914) 696-7000  
-(feedback@usta.com)
+[feedback@usta.com](mailto:feedback@usta.com)
 
 **Changes to This Privacy Policy  
 **  
-If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on [4/21/02].
+If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated: [10/03].  
+  
+| 
+
+[](https://web.archive.org/web/20060811201935id_/http%3A//www.usopenshop.org/shoppingcartsoftware_help.asp)   
+
