@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justkidcostumes.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623221116id_/http%3A//www.justkidcostumes.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justkidcostumes.com privacy policy that was archived on 2006-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060811225058id_/http%3A//justkidcostumes.com/privacy.asp) for the most accurate reproduction.*
 
 # Halloween Costumes for your Infant, Toddler, Kids and Children
 
