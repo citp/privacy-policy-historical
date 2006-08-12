@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapid7.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222626id_/http%3A//rapid7.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapid7.com privacy policy that was archived on 2006-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060812025844id_/http%3A//rapid7.com/privacy.html) for the most accurate reproduction.*
 
 # Rapid7 - Vulnerability Management
 
