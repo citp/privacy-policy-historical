@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the starstyle.com privacy policy that was archived on 2006-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060413235337id_/http%3A//www.starstyle.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starstyle.com privacy policy that was archived on 2006-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060812114958id_/http%3A//www.starstyle.com/Privacy.aspx) for the most accurate reproduction.*
 
-# StarStyle - Contest
+# StarStyle - Privacy Policy
+
+Privacy Policy
 
 Last Updated December 27, 2005 
 
@@ -17,7 +19,7 @@ Starstyle.com respects the privacy of its users and we recognize that we must ma
 *  If you are under the age of 13, you are not permitted to submit any personal information to Starstyle.com. Starstyle.com is intended for users who are 13 years of age and older.  
 
 
-*  Third Party Advertising: The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising           partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name,           address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies,           and how to "opt-out", please click here: [ http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy)
+*  Third Party Advertising: The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies,and how to "opt-out", please click here: [ http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy)
 
 *  Third Party Cookies: in the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
