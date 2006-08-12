@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncirl.ie privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619204440id_/http%3A//www.ncirl.ie/inside.asp%3FpageId%3D1053%26sectionId%3D0%26level%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncirl.ie privacy policy that was archived on 2006-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060812042753id_/http%3A//www.ncirl.ie/inside.asp%3FpageId%3D1053%26sectionId%3D0%26level%3D1) for the most accurate reproduction.*
 
 # National College of Ireland - - Privacy Statement
 
