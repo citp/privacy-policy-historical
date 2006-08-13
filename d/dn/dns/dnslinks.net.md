@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dnslinks.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064918id_/http%3A//dnslinks.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnslinks.net privacy policy that was archived on 2006-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060813110021id_/http%3A//dnslinks.net/privacy.htm) for the most accurate reproduction.*
 
 # Bananic - Your One Stop Web Hosting Solution
 
-Upon signing up for Bananic's services, all customers agree to comply with Bananic's [**Terms of Use**](https://web.archive.org/web/20060615064918id_/http%3A//dnslinks.net/term.htm). The spirit of this policy is to ensure our customers are using Bananic 's services with due regard to the rights of other Internet users and in conformity with the requirements of Bananic's network environment. 
+Upon signing up for Bananic's services, all customers agree to comply with Bananic's [**Terms of Use**](https://web.archive.org/web/20060813110021id_/http%3A//dnslinks.net/term.htm). The spirit of this policy is to ensure our customers are using Bananic 's services with due regard to the rights of other Internet users and in conformity with the requirements of Bananic's network environment. 
 
 **For visitors** , we've structured our websites so that, in general, you can visit us on the web without identifying yourself or revealing any personal information. 
 
