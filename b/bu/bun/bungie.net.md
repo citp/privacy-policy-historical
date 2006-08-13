@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bungie.net privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613061212id_/http%3A//bungie.net/Help/NoticePage.aspx%3Fsection%3DPrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bungie.net privacy policy that was archived on 2006-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060813100330id_/http%3A//www.bungie.net/Help/NoticePage.aspx%3Fsection%3DPrivacyStatement) for the most accurate reproduction.*
 
 # Bungie.net : Help : Privacy Statement
 
@@ -17,7 +17,7 @@ The use of Bungie.net does not require you to disclose any personal information.
 
  
 
-Bungie.net uses the Microsoft® Passport Network to provide sign-in services. If you create a Passport at Bungie.net, you are simultaneously registering with the site and opening a Passport Network account. To learn more about the Passport service, the information stored by Passport, and how Passport uses and helps protect your personal information, please read the [Passport Network Privacy Statement](https://accountservices.passport.net/PPPrivacyStatement.srf?lc=1033?id=42917&ru=http%3a%2f%2fbungie.net%2fHelp%2fNoticePage.aspx%3fsection%3dPrivacyStatement).
+Bungie.net uses the Microsoft® Passport Network to provide sign-in services. If you create a Passport at Bungie.net, you are simultaneously registering with the site and opening a Passport Network account. To learn more about the Passport service, the information stored by Passport, and how Passport uses and helps protect your personal information, please read the [Passport Network Privacy Statement](https://accountservices.passport.net/PPPrivacyStatement.srf?lc=1033?id=42917&ru=http%3a%2f%2fwww.bungie.net%2fHelp%2fNoticePage.aspx%3fsection%3dPrivacyStatement).
 
  
 
@@ -113,7 +113,7 @@ Please keep in mind that if you directly disclose personally identifiable inform
 
  
 
-This Web site uses the Passport Network to provide sign-in and registration services. In order to sign in to this site using the Passport Network, you will be asked to type your e-mail address and a password. This same Passport Network sign-in allows you to access many other Passport Network participating sites and services. If you create an account with the Passport Network at this site, you are simultaneously registering with the Bungie Web sites and opening a Passport Network account. All of the registration information you provide will be stored the Bungie Web sites, and some or all of that information will also be stored by the Passport Network in your Passport Network profile. To learn more about the Passport Network service, the information stored in your Passport Network profile, and how the Passport Network uses and helps to protect your personal information, please read the Passport Network privacy statement by [following this link](https://accountservices.passport.net/PPPrivacyStatement.srf?lc=1033?id=42917&ru=http%3a%2f%2fbungie.net%2fHelp%2fNoticePage.aspx%3fsection%3dPrivacyStatement).
+This Web site uses the Passport Network to provide sign-in and registration services. In order to sign in to this site using the Passport Network, you will be asked to type your e-mail address and a password. This same Passport Network sign-in allows you to access many other Passport Network participating sites and services. If you create an account with the Passport Network at this site, you are simultaneously registering with the Bungie Web sites and opening a Passport Network account. All of the registration information you provide will be stored the Bungie Web sites, and some or all of that information will also be stored by the Passport Network in your Passport Network profile. To learn more about the Passport Network service, the information stored in your Passport Network profile, and how the Passport Network uses and helps to protect your personal information, please read the Passport Network privacy statement by [following this link](https://accountservices.passport.net/PPPrivacyStatement.srf?lc=1033?id=42917&ru=http%3a%2f%2fwww.bungie.net%2fHelp%2fNoticePage.aspx%3fsection%3dPrivacyStatement).
 
  
 
