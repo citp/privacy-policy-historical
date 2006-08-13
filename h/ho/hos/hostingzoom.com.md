@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostingzoom.com privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421145747id_/http%3A//hostingzoom.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingzoom.com privacy policy that was archived on 2006-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060813140959id_/http%3A//www.hostingzoom.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Hosting Zoom - Privacy Policy
 
@@ -204,7 +204,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 Hosting Zoom  
 Attention: Privacy Officer  
-11205 Bellaire Blvd., Suite B-27  
+11205 Bellaire Blvd., Suite B-28  
 Houston, TX 77072
 
 **10\. Access to Personally Identifiable Information.**
