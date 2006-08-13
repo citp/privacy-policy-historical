@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spankwire.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622052235id_/http%3A//www.spankwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spankwire.com privacy policy that was archived on 2006-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060813121930id_/http%3A//spankwire.com/privacy) for the most accurate reproduction.*
 
 # Spankwire.com » Internet Porn News for the Masses
 
