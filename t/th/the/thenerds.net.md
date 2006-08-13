@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenerds.net privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613211018id_/http%3A//thenerds.net/index.php%3Fpage%3Dcustomer%26a%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenerds.net privacy policy that was archived on 2006-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060813120123id_/http%3A//thenerds.net/index.php%3Fpage%3Dcustomer%26a%3Dprivacy) for the most accurate reproduction.*
 
 # TheNerds.net
 
