@@ -1,61 +1,72 @@
-> *The following text is extracted and transformed from the sunandski.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613062102id_/http%3A//sunandski.com/page.cfm%3FPageID%3D94) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunandski.com privacy policy that was archived on 2006-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060813145354id_/http%3A//www.sunandski.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Sun and Ski Sports - Your Privacy
+# Water Skis, Snowboards, Camp @ Sun and Ski Sports, Wakeboards, Bikes and more
 
-| | 
+### Privacy Policy
 
-Thank you for reviewing our policies regarding any personal information you may choose to provide at our website. We take your privacy very seriously and carefully protect any and all information entrusted to us. We only collect information that helps us serve you better and that you voluntarily provide. We do not share your information with anyone else unless you've approved of such sharing in advance.
+**What information do we collect?**
 
-Privacy Policy Guideline
+  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
+  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
+  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
 
-Sun & Ski Sports respects your online time and privacy. 
+  
+ **How do we use your information?**
 
-Sun & Ski Sports is committed to respecting your privacy and recognizing your need for appropriate protection and management of personally identifiable information you share with us (the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our web site, how we use such information, and the choices you have regarding our use of and your ability to review and correct the information. This policy applies only to users accessing our web site from the United States.
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-As a part of our commitment to your privacy, Sun & Ski Sports supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information regarding rental, sale or exchange with other marketers; (2) honor customers' requests not to share their information with other marketers; and (3) honor customers' requests not to receive mail, telephone or other solicitations from Sun & Ski Sports.
+  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To allow us to better service you in responding to your customer service requests.
+  * To quickly process your transactions.
+  * To administer a contest, promotion, survey or other site feature.
+  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
-**Collecting Information About You**
+  
+ **How do we protect visitor information?**
 
- ****
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
-In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. We may track the Internet domain address from which people visit us and analyze this data for trends and statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are.
+ **Do we use "cookies"?**
 
-There may be times (such as when you subscribe to a service, register to receive catalogs, or to participate in contests, sweepstakes or promotions, etc.) at which we ask you to provide certain information about yourself, such as your name, shipping/billing address, telephone number, email address, birth date, gender, occupation, personal interests, etc.  Whether or not to provide such information is completely your own choice. If you choose not to provide the information we request however, you may be unable to access certain services, offers and content on our web site or featured in our direct marketing communication.
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard dritve through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**Using Information About You**
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-We use the personally identifiable information you provide for internal purposes such as subscription or registration, analyzing trends and statistics, informing you of our new products, services and offers, etc. From time to time we might establish a business relationship with other persons or entities that we deem trustworthy and whose privacy policies are consistent with ours. In many cases we might share, sell, or rent information, including personally identifiable information about you, that will enable such persons or entities to contact you regarding products and services that may be of interest to you.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
-We may combine information you give us online, in our stores or through our multiple points of contact to serve you better. We use that combined information to enhance and personalize your shopping experience with us and to communicate with you by mail, and in certain cases via email, about our products and events that may be of interest to you.
+ **Do we disclose the information we collect to outside parties?**
 
-Although unlikely, in certain instances we may disclose your personally identifiable information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Sun & Ski Sports or to others. Sun & Ski Sports also may disclose your personally identifiable information when we believe the law requires it.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Retail Concepts, Inc.. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
-**Editing, Updating, Correcting and Deleting Information About You**
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us or from our Select Partners, please let us know by calling us at 281-340-5000 or by sending us an email, at info@sunandski.com. Please be sure to include your email address, full name, and specifically what information you do not want to receive. If you would like to update or correct your email address, street address or other personal information with us, please contact us the same way.
+ **How can you opt-out, remove or modify information you have provided to us?**
 
-_Please note that sometimes these requests may take up to 6-8 weeks to be effective, particularly if we are removing your name from postal mailings._
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
 
-Please remember, if you delete certain information, you may not be able to continue to purchase products or access other portions of our web site without entering additional information.
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
-**Security**
+ **Third party links**
 
-We use sophisticated encryption and authentication tools to protect the security of your personal information that you share with us. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee or warrant the security of any information you transmit to or from our web site; and you do so at your own risk. Once we receive your transmission, we will do our best to protect its security on our systems.
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
-**Links to Third Party Sites**
+ **Changes to our policy**
 
-Our web site may contain links to web sites operated and maintained by third parties over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any personal information on such site.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 6, 2003.**
 
-**Policy Changes**
+ **Questions and feedback**
 
-If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our web site. Those changes will go into effect on the date posted in the notice. The new policy will apply to all current and past users of our web site and will replace any prior policies which are inconsistent.
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
-**Your Feedback**
+ **Online Policy Only**
 
-To help us improve our privacy policy and practice, please give us your feedback. You may email us, at info@sunandski.com, or write to us at the following address:
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-Sun & Ski Sports
+ **Terms and Conditions**
 
-4001 Greenbriar, Ste 100
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20060813145354id_/http%3A//www.sunandski.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
-Stafford, TX  77477
+ **Your consent**
+
+By using our site, you consent to our privacy policy.
