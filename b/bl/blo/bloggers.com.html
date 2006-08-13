@@ -1,0 +1,145 @@
+<!--The following is the downloaded HTML source of the bloggers.com privacy policy that was archived on 2006-08-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060813092936id_/http%3A//bloggers.com/privacidad) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>BLOGGERS.COM - Blogs Of The World</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="robots" content="index,follow">
+	<meta name="description" content="Blogs Directory">
+	<meta name="keywords" content="blogs, weblogs, rss, agregador"> 
+	<meta name="language" content="en">
+	
+	<style type="text/css" media="screen">
+		@import url(http://bloggers.com/style.css);
+	</style>
+
+<script language="javascript" type="text/javascript">
+
+var RequestObject = false; // XMLHttpRequest Object
+var Backend = 'http://bloggers.com/check.php'; // Backend url
+window.setInterval("update_timer()", 60000); // update the data every 20 mins
+
+
+if (window.XMLHttpRequest) // try to create XMLHttpRequest
+	RequestObject = new XMLHttpRequest();
+
+if (window.ActiveXObject)	// if ActiveXObject use the Microsoft.XMLHTTP
+	RequestObject = new ActiveXObject("Microsoft.XMLHTTP");
+
+
+/*
+* onreadystatechange function
+*/
+function ReqChange() {
+
+	// If data received correctly
+	if (RequestObject.readyState==4) {
+	
+		// if data is valid
+		if (RequestObject.responseText.indexOf('invalid') == -1) 
+		{ 	
+			// getting the response
+			 var msgs = RequestObject.responseText.split('|');
+		
+
+			// Tell the reader the everything is done
+			document.getElementById("online").innerHTML = " | "+msgs[0]+" online users";
+			
+		}
+		else {
+			// Tell the reader that there was error requesting data
+			document.getElementById("online").innerHTML = "X";
+		}
+	}
+	
+}
+
+
+/*
+* Main AJAX RSS reader request
+*/
+function AJAXRequest() {
+
+	// change the message to Checking online ...
+	document.getElementById("online").innerHTML = " | Ajax request..";
+	
+	// Prepare the request
+	RequestObject.open("GET", Backend , true);
+	// Set the onreadystatechange function
+	RequestObject.onreadystatechange = ReqChange;
+	// Send
+	RequestObject.send(null); 
+}
+
+/*
+* Timer
+*/
+function update_timer() {
+	AJAXRequest();
+}
+
+
+</script></head>
+
+
+
+<body onload="AJAXRequest();">		  
+<div id="page">
+
+		<div id="topsection">
+		  <a href="http://bloggers.com/"><img src="http://bloggers.com/images/logo.png" alt="Bloggers.com - World Wide Blogs"></a>
+				
+	  </div>
+
+		<div id="navmenu1">
+			<h1 class="invisible">Main Menu</h1>
+			<ul>
+			<li><a href="http://bloggers.com/" title="Home">Home</a></li>
+			<li><a href="http://bloggers.com/directory/" title="All the blogs">Directory</a></li>
+			<li><a href="http://bloggers.com/wp/" title="News &amp; Announcements">Our Blog</a></li>
+			<li><a href="http://bloggers.com/tutorials/" title="Tutorials">Tutorials</a></li>
+			<li><a href="http://bloggers.com/chat/" title="Chat">Chat</a></li>
+			<li><a href="http://bloggers.com/zeitgeist/" title="Zeitgeist de bloggers!">Zeitgeist</a></li>
+			<li><a href="http://bloggers.com/contact/" title="Send your comments">Contact Us</a></li>
+			</ul>
+		</div>
+	<div id="topheader">
+			<span id="sectleft"><a href="http://bloggers.com/directory/" title="Directorio"><strong>312</strong> registered blogs! </a><span id="online"> |  online users</span> <a href="http://bloggers.com/chat/">Live Chat!</a></span>
+			<span id="sectright">
+			<strong>1. -</strong> <a href="http://bloggers.com/weblog/">What is a weblog?</a>.  <strong>2. -</strong><a href="http://bloggers.com/crear/">Create Your Blog</a>.   <strong>3. -<a href="http://bloggers.com/registro/">Sign Up!</a></strong>
+						
+			</span>
+		</div>	
+
+
+<div id="breadsection">
+  <a href="http://bloggers.com/">Home</a> » <a href="http://bloggers.com/privacidad/">Privacy Policy</a>
+</div>
+
+<div id="innercontent">
+	<h2>Privacy</h2>
+		<p>
+	<strong>Our Privacy police is simple</strong>
+	</p><p>We believe that your data is very important to you. For that reason we won't sell your name, email or any information to anyone. We won't share any capture data with anyone. That's it.</p>
+	<p>We use the registration data with the purpose of classify and show this information in the format of a Internet directory. Your personal information won't be sell or shared in any way with other entities, your information is yours and Bloggers.com respect that right. </p>
+	<p>If you want to delete your account, drop us a line -using our <a href="http://bloggers.com/contacto/">Contact Form</a>- and your weblog, and any related information about you, will be erased from our database without hesitation. </p>
+	<p>&nbsp;</p>
+</div>
+<div id="footer">
+<br><br>
+
+  <p><br><a href="http://bloggers.com/privacidad/">Privacy</a> | <a href="http://bloggers.com/condiciones/">Terms of Use</a></p>
+			
+  <p>
+    <!-- fin lowersub -->
+  </p>
+			
+  </div>
+
+</div>
+
+
+
+
+
+</body></html>
