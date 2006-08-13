@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelfish.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615101416id_/http%3A//www.travelfish.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelfish.org privacy policy that was archived on 2006-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060813132237id_/http%3A//www.travelfish.org/privacy.php) for the most accurate reproduction.*
 
 # Travelfish privacy statement
 
@@ -46,7 +46,7 @@ This site uses cookies and sessions to track user activity across the site and t
 
 **How to Contact Us**
 
-If you have any questions or concerns about the Travelfish online policy you may [contact us](https://web.archive.org/web/20060615101416id_/http%3A//www.travelfish.org/contact.php?PHPSESSID=a2499b5ed5c14795428134b0707e2c58) through our contact page.
+If you have any questions or concerns about the Travelfish online policy you may [contact us](https://web.archive.org/web/20060813132237id_/http%3A//www.travelfish.org/contact.php?PHPSESSID=3084b0bcb9645951a741b67881daa459) through our contact page.
 
 If you wish to write to us, you can contact us at:   
 **Travelfish Pty Ltd.**  
