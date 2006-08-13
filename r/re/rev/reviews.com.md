@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reviews.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619042304id_/http%3A//reviews.com/privacy/privacy_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviews.com privacy policy that was archived on 2006-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060813064417id_/http%3A//reviews.com/privacy/privacy_privacy.cfm) for the most accurate reproduction.*
 
-# Reviews.com
+# Computing Reviews, the leading online review service for computing literature.
 
 |  | Overview |   
 ---|---  
