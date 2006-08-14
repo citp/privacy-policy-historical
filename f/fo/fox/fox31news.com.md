@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox31news.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231094330id_/http%3A//www.fox31news.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox31news.com privacy policy that was archived on 2006-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060814043242id_/http%3A//www.fox31news.com/privacy.shtml) for the most accurate reproduction.*
 
 # Welcome to FOX31.com | KDVR - FOX 31 Denver - Clear. Credible. Complete.
 
