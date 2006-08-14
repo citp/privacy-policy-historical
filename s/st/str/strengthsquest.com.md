@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the strengthsquest.com privacy policy that was archived on 2005-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051221202235id_/http%3A//www.strengthsquest.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strengthsquest.com privacy policy that was archived on 2006-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060814045429id_/http%3A//www.strengthsquest.com/privacy.asp) for the most accurate reproduction.*
 
 # STRENGTHSQUEST: Privacy Policy
 
 **PRIVACY POLICY**
-
-**_Privacy Statement_**
 
 Protection of personal privacy has always been a hallmark of The Gallup Organization. Since its inception in 1935, Gallup has maintained the anonymity of each survey respondent unless express consent to the release of a respondent's personal information or individual responses has been provided by that respondent. In a like manner, Gallup protects the identity of individuals who access its Web sites. Please read the following policy for further details as to the types of information collected through Gallup Web sites, including personal information, and how it is treated. 
 
@@ -22,7 +20,7 @@ Other types of indirectly collected information are stored in "cookies." Cookies
 
 We may use third-party advertising companies to serve ads on our behalf. These companies may use cookies and action tags to measure advertising effectiveness.  Any information that these third parties collect via cookies and action tags is completely anonymous.
 
-**_Information Collected Directly_**
+ ** _Information Collected Directly_**
 
 Gallup also collects information that is voluntarily provided by site visitors, such as a name or an e-mail address. When Gallup collects this type of information, we will notify you as to why we are asking for the information and how it will be used. It is entirely your decision to provide the requested information. Such personal data is collected when a site visitor registers with a site or requests Web services. This information is kept totally confidential, and will be used only to contact you. You may choose to have this information removed at any time. Gallup will never barter, trade, or sell access to our database of registered users. 
 
