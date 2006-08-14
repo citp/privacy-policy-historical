@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the jamesray.com privacy policy that was archived on 2005-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051219191015id_/http%3A//jamesray.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jamesray.com privacy policy that was archived on 2006-08-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060814183056id_/http%3A//jamesray.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>
 James Ray International
-::  Create wealth in all areas of your life: Financial, Relational, Intellectual, Physical and Spiritual.  Practical results through spiritual growth.
+| Help zone
+|  Create wealth in all areas of your life: Financial, Relational, Intellectual, Physical and Spiritual.  Practical results through spiritual growth.
 </title>
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/JamesRayInternational">
 <link rel="alternate" type="application/rdf+xml" title="RSS" href="http://feeds.feedburner.com/JamesRayInternational">
 <link rel="service.feed" type="application/atom+xml" title="Atom" href="http://feeds.feedburner.com/JamesRayInternational">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content=" Create absolute Harmonic Wealth in all areas of your life -- financially, relationally, intellectually, physically and spiritually.  Balance is bogus!  Only harmony yields happiness and real wealth...">
-<meta name="keywords" content=" harmonic wealth, create wealth, spiritual growth, motivational quotes, motivational speakers, inspirational sayings, inspirational quotations, inspirational quote, quotable quotes, gnosticism, kabala, kabbalah, shamanism, practical mystic, harmony, spiritual balance, life balance, harmonic wealth, creating wealth, success, success coaching">
+<meta name="description" content="Create absolute Harmonic Wealth in all areas of your life -- financially, relationally, intellectually, physically and spiritually.  Balance is bogus!  Only harmony yields happiness and real wealth...">
+<meta name="keywords" content="harmonic wealth, create wealth, spiritual growth, motivational quotes, motivational speakers, inspirational sayings, inspirational quotations, inspirational quote, quotable quotes, gnosticism, kabala, kabbalah, shamanism, practical mystic, harmony, spiritual balance, life balance, harmonic wealth, creating wealth, success, success coaching">
 <link rel="stylesheet" href="/skin1/skin1.css">
 <link rel="stylesheet" href="/skin1/style.css">
 <script language="JavaScript" src="/skin1/common.js" type="text/javascript"></script><style type="text/css">
@@ -21,52 +22,111 @@ James Ray International
 </head>
 <body>
 <script type="text/javascript" language="JavaScript 1.2">
-  
-function browser_identificator() {
-var x, browser, version, screen_x, screen_y;
-var isPlugins = '';
-	version = "0";
-	isDOM		= document.getElementById?true:false;
-	isJava      = navigator.javaEnabled();
-	isStrict    = document.compatMode=='CSS1Compat';
-	if(window.opera && isDOM) {
-		browser = "Opera";
-		version = "5";
-		if(window.print)
-			version = "6";
-		if((navigator.userAgent.indexOf("Opera 7") >= 0 || navigator.userAgent.indexOf("Opera/7") >= 0))
-			version= "7";
-		
-	}
-	if(!(window.opera && isDOM) && document.all && document.all.item) {
-		browser = 'MSIE';
-		version = navigator.userAgent.replace(/^.*MSIE.(\d+).*$/, "$1");
-	}
-	if(navigator.appName=="Netscape" && !isDOM) {
-		browser = 'NN';
-		version = navigator.userAgent.replace(/^.*Mozilla.(\d+).*$/, "$1");
-		if(version != '')
-			version = "4";
-	}
-	if(navigator.appName=="Netscape" && isDOM) {
-		if(navigator.userAgent.indexOf("Safari") >= 0) {
-			browser = 'Safari';
-			version = navigator.userAgent.replace(/^.*Safari.(\d+).*$/, "$1");
+<!--
+
+//
+// Enviroment identificator
+//
+var localIsDOM = document.getElementById?true:false;
+var localIsJava = navigator.javaEnabled();
+var localIsStrict = document.compatMode=='CSS1Compat';
+var localPlatform = navigator.platform;
+var localVersion = "0";
+var localBrowser = "";
+if(window.opera && localIsDOM) {
+	localBrowser = "Opera";
+	if(navigator.userAgent.search(/^.*Opera.([\d.]+).*$/) != -1)
+		localVersion = navigator.userAgent.replace(/^.*Opera.([\d.]+).*$/, "$1");
+	else if(window.print)
+		localVersion = "6";
+	else
+		localVersion = "5";
+} else if(document.all && document.all.item)
+	localBrowser = 'MSIE';
+if(navigator.appName=="Netscape") {
+	if(!localIsDOM) {
+		localBrowser = 'Netscape';
+		localVersion = navigator.userAgent.replace(/^.*Mozilla.([\d.]+).*$/, "$1");
+		if(localVersion != '')
+			localVersion = "4";
+	} else if(navigator.userAgent.indexOf("Safari") >= 0)
+		localBrowser = 'Safari';
+	else if(navigator.userAgent.indexOf("Netscape") >= 0)
+		localBrowser = 'Netscape';
+	else if(navigator.userAgent.indexOf("Firefox") >= 0)
+		localBrowser = 'Firefox';
+	else 
+		localBrowser = 'Mozilla';
+	
+}
+if(navigator.userAgent.indexOf("MSMSGS") >= 0)
+	localBrowser = "WMessenger";
+else if(navigator.userAgent.indexOf("e2dk") >= 0)
+	localBrowser = "Edonkey";
+else if(navigator.userAgent.indexOf("Gnutella") + navigator.userAgent.indexOf("Gnucleus") >= 0)
+	localBrowser = "Gnutella";
+else if(navigator.userAgent.indexOf("KazaaClient") >= 0)
+	localBrowser = "Kazaa";
+
+if(localVersion == '0' && localBrowser != '') {
+	var rg = new RegExp("^.*"+localBrowser+".([\\d.]+).*$");
+	localVersion = navigator.userAgent.replace(rg, "$1");
+}
+var localIsCookie = ((localBrowser == 'Netscape' && localVersion == '4')?(document.cookie != ''):navigator.cookieEnabled);
+
+//
+// Opener/Closer HTML block
+//
+function visibleBox(id,skipOpenClose) {
+	elm1 = document.getElementById("open"+id);
+	elm2 = document.getElementById("close"+id);
+	elm3 = document.getElementById("box"+id);
+
+	if(!elm3)
+		return false;
+
+	if (skipOpenClose) {
+		elm3.style.display = (elm3.style.display == "")?"none":"";
+	} else if(elm1) {
+		if (elm1.style.display == "") {
+			elm1.style.display = "none";
+			if(elm2)
+				elm2.style.display = "";
+			elm3.style.display = "none";
 		} else {
-			browser = 'Mozilla';
-			version = navigator.userAgent.replace(/^.*Mozilla.(\d+).*$/, "$1");
+			elm1.style.display = "";
+			if(elm2)
+				elm2.style.display = "none";
+			elm3.style.display = "";
 		}
 	}
-	for(x = 0; x < navigator.plugins.length; x++)
-		isPlugins += (isPlugins == ''?"":"|")+navigator.plugins[x].name.replace(/\s/g, "+").replace(/&/, " ");
-	isPlatform = navigator.platform;
-	isCookie	= ((browser == 'NN' && version == '4')?(document.cookie != ''):navigator.cookieEnabled);
-	screen_x = screen.width;
-	screen_y = screen.height;
-	return (isDOM?"Y":"N")+(isStrict?"Y":"N")+(isJava?"Y":"N")+"|"+browser+"|"+version+"|"+isPlatform+"|"+(isCookie?"Y":"N")+"|"+screen_x+"|"+screen_y+"|"+isPlugins;
 }
-  
-  </script>
+
+//
+// URL encode
+//
+function urlEncode(url) {
+	return url.replace(/\s/g, "+").replace(/&/, "&amp;").replace(/"/, "&quot;")
+}
+
+//
+// Substitute
+//
+function substitute(lbl) {
+var x, rg;
+	for(x = 1; x < arguments.length; x+=2) {
+		if(arguments[x] && arguments[x+1]) {
+			rg = new RegExp("\\{\\{"+arguments[x]+"\\}\\}", "gi");
+			lbl = lbl.replace(rg,  arguments[x+1]);
+			rg = new RegExp('~~'+arguments[x]+'~~', "gi");
+			lbl = lbl.replace(rg,  arguments[x+1]);
+		}
+	}
+	return lbl;
+}
+
+-->
+</script>
 <table width="740" style="height: 100%; border: 1px solid #666666; background-color: #EAE5DA;" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr>
 <td><a href="http://jamesray.com"><img src="/skin1/images/header-01b.jpg" width="740" height="96" alt="James Ray International :: Create wealth in all areas of your life: Financial, Relational, Intellectual, Physical and Spiritual.  Practical results through spiritual growth." border="0"></a></td>
@@ -80,160 +140,67 @@ var isPlugins = '';
 <table width="100%" style="height: 100%;" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr valign="top">
 <td width="160" style="background: url(/skin1/images/nav-left-bg.gif);"><img src="/skin1/images/nav-left-top.gif" width="160" height="38" alt=""><br>
-<br>
+<a href="http://jamesray.com/thesecret"><img src="/skin1/images/thesecret/navad-secret.gif" width="160" border="0" alt="What is The Secret?"></a><br><br>
 <a href="http://jamesray.com/events/free-seminars.php"><img src="/skin1/images/navad-caw.gif" width="160" height="60" border="0" alt="See James Ray live in your area!"></a><br><br>
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr> 
 <td><div id="masterdiv">
 <a href="http://jamesray.com/index.php" onmouseover="MM_swapImage('Image11','','/skin1/images/nav-home-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-home.gif" alt="James Ray Home Page" name="Image11" border="0" id="Image11"></a><br>
 <a href="http://blog.jamesray.com" onmouseover="MM_swapImage('Image9','','/skin1/images/nav-whats_new-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-whats_new.gif" alt="What's New at James Ray International" name="Image9" width="160" height="20" border="0" id="Image9"></a><br>
-<a href="http://jamesray.com/events" onmouseover="MM_swapImage('Image4','','/skin1/images/nav-events-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-events.gif" alt="James Ray Live Events" name="Image4" width="160" height="20" border="0" id="Image4"></a><br>
-<span class="submenu">
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://thepowertowin.com?partner=jamesray.com" target="_blank">The Power to Win</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/events/creating-wealth-experience.php">Creating Wealth</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/events/quantum-leap.php">Quantum Leap</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/events/practical-mysticism.php">Practical Mysticism</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/events/spiritual-warrior.php">Spiritual Warrior</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/events/modern-magick.php">Modern Magick</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/events">About the Curriculum</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/events/event-dates.php">Event Schedule</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/events/free-seminars.php">Free Seminars</a><br>
+<a href="http://jamesray.com/events" onmouseover="MM_swapImage('Image4','','/skin1/images/nav-events-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-events.gif" alt="James Ray Live Events" name="Image4" width="160" height="20" border="0" id="Image4"></a>
+<span class="submenu">          <div class="submenu_on"><a href="http://thepowertowin.com?partner=jamesray.com" target="_blank">The Power to Win</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/events/creating-wealth-experience.php">Creating Wealth</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/events/quantum-leap.php">Quantum Leap</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/events/practical-mysticism.php">Practical Mysticism</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/events/spiritual-warrior.php">Spiritual Warrior</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/events/modern-magick.php">Modern Magick</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/events">About the Curriculum</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/events/event-dates.php" style="color: #FE0000;">Event Schedule</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/events/free-seminars.php">Free Seminars</a></div>
 </span>
-<a href="http://jamesray.com/products" onmouseover="MM_swapImage('Image1','','/skin1/images/nav-store-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-store.gif" alt="Purchase James Ray Products" name="Image1" width="160" height="20" border="0" id="Image1"></a><br>
-<span class="submenu">
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/products/science-of-success.php">The Science of Success<br>
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="" border="0"><span style="text-decoration:none;">
-&nbsp; </span>Learning System</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/products/success-certain-coaching.php">Success Certain<br>
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="" border="0"><span style="text-decoration:none;">
-&nbsp; </span>Coaching</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/products/million-dollar-mindset.php">Million Dollar Mindset</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/products/practical-package.php">The Practical Package</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/products/success-coaching.php">One-on-One Coaching</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/products/practical-spirituality.php">Practical Spirituality</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/products/science-of-success-ebook.php">The Science of Success<br>
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="" border="0"><span style="text-decoration:none;">
-&nbsp; </span>Book</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/products/readers-edge.php">The Reader's Edge®</a><br>
+<a href="http://jamesray.com/products" onmouseover="MM_swapImage('Image1','','/skin1/images/nav-store-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-store.gif" alt="Purchase James Ray Products" name="Image1" width="160" height="20" border="0" id="Image1"></a>
+<span class="submenu">          <div class="submenu_on"><a href="http://jamesray.com/products/science-of-success.php">The Science of Success Learning System</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/products/success-certain-coaching.php">Success Certain Coaching</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/products/million-dollar-mindset.php">Million Dollar Mindset</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/products/practical-package.php">The Practical Package</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/products/practical-spirituality.php">Practical Spirituality</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/products/science-of-success-ebook.php">The Science of Success Book</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/products/collapse-the-world.php">Collapse the World</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/products/quantum-creations.php">Quantum Creations DVD</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/products/the-secret.php">The Secret DVD</a></div>
 </span>
-<a href="http://jamesray.com/products/success-coaching.php" onmouseover="MM_swapImage('Image2','','/skin1/images/nav-coaching-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-coaching.gif" alt="Success Coaching" name="Image2" width="160" height="20" border="0" id="Image2"></a><br>
-<a href="http://jamesray.com/resources" onmouseover="MM_swapImage('Image3','','/skin1/images/nav-resources-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-resources.gif" alt="Free Resources - Ezine, Newsletters, Quotes" name="Image3" width="160" height="20" border="0" id="Image3"></a><br>
-<span class="submenu">
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/resources/e-coaching.php">E-Coaching</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/resources/ezine.php">Weekly E-Zine</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/resources/thoughts-of-power.php">Daily Quotes</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/resources/wisdom">eCards</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/resources/success-quiz.php">Success Quiz</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/resources/multimedia.php">Audio and Video</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/resources/free-articles.php">Free Articles</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://warrior.jamesray.com/viewforum.php?f=10">Open Discussion</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/resources/reading-list.php">Suggested Reading List</a><br>
+<a href="http://jamesray.com/resources" onmouseover="MM_swapImage('Image3','','/skin1/images/nav-resources-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-resources.gif" alt="Free Resources - Ezine, Newsletters, Quotes" name="Image3" width="160" height="20" border="0" id="Image3"></a>
+<span class="submenu">          <div class="submenu_on"><a href="http://jamesray.com/resources/e-coaching.php">E-Coaching</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/resources/ezine.php">Weekly E-Zine</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/resources/thoughts-of-power.php">Daily Quotes</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/resources/wisdom">eCards</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/resources/success-quiz.php">Success Quiz</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/resources/multimedia.php">Audio and Video</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/resources/free-articles.php">Free Articles</a></div>
+<div class="submenu_on"><a href="http://warrior.jamesray.com/viewforum.php?f=10">Open Discussion</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/resources/reading-list.php">Suggested Reading List</a></div>
 </span>
-<a href="http://jamesray.com/partner/welcome.php" onmouseover="MM_swapImage('Image8','','/skin1/images/nav-affiliate-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-affiliate.gif" alt="Earn Money with the Affiliate Program" name="Image8" border="0" id="Image8"></a><br>
-<span class="submenu">
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/partner">Sign In</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/partner/register.php">Become an Affiliate</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/partner/more-info.php">Learn More</a><br>
+<a href="http://jamesray.com/partner/welcome.php" onmouseover="MM_swapImage('Image8','','/skin1/images/nav-affiliate-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-affiliate.gif" alt="Earn Money with the Affiliate Program" name="Image8" border="0" id="Image8"></a>
+<span class="submenu">          <div class="submenu_on"><a href="http://jamesray.com/partner">Sign In</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/partner/register.php">Become an Affiliate</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/partner/more-info.php">Learn More</a></div>
 </span>
-<a href="http://jamesray.com/case-studies" onmouseover="MM_swapImage('Image10','','/skin1/images/nav-case_studies-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-case_studies.gif" alt="Client Case Studies" name="Image10" width="160" height="20" border="0" id="Image10"></a><br>
-<span class="submenu">
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/case-studies">Bobby Hunter</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/case-studies/personal-growth-results.php">Attendee Results</a><br>
+<a href="http://jamesray.com/case-studies" onmouseover="MM_swapImage('Image10','','/skin1/images/nav-case_studies-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-case_studies.gif" alt="Client Case Studies" name="Image10" width="160" height="20" border="0" id="Image10"></a>
+<span class="submenu">          <div class="submenu_on"><a href="http://jamesray.com/case-studies">Bobby Hunter</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/case-studies/personal-growth-results.php">Attendee Results</a></div>
 </span>
-<a href="http://jamesray.com/about-james-ray.php" onmouseover="MM_swapImage('Image5','','/skin1/images/nav-about-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-about.gif" alt="About James Ray" name="Image5" width="160" height="20" border="0" id="Image5"></a><br>
-<span class="submenu">
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/about-james-ray.php">Biography</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/james-ray-photographs.php">Photographs</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/pdf/bio.pdf">Printable Biography</a><br>
+<a href="http://jamesray.com/about-james-ray.php" onmouseover="MM_swapImage('Image5','','/skin1/images/nav-about-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-about.gif" alt="About James Ray" name="Image5" width="160" height="20" border="0" id="Image5"></a>
+<span class="submenu">          <div class="submenu_on"><a href="http://jamesray.com/about-james-ray.php">Biography</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/james-ray-photographs.php">Photographs</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/pdf/bio.pdf">Printable Biography</a></div>
 </span>
-<a href="http://jamesray.com/company/news-center.php" onmouseover="MM_swapImage('Image21','','/skin1/images/nav-press-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-press.gif" alt="Press and Media" name="Image21" width="160" height="20" border="0" id="Image21"></a><br>
-<span class="submenu_on">
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/company/news-center.php">Overview</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/company/press-releases.php">Press Releases</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/company/media-appearances.php">Media Appearances</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/company/photos-logos.php">Photos and Logos</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="http://jamesray.com/company/bio.php">Executive Bio</a><br>
-<img src="/skin1/images/spacer.gif" width="1" height="5" alt=""><br>					
-<img src="/skin1/images/spacer.gif" width="10" height="1" alt="">·
-<a href="mailto:erica.mcgrath@jamesray.com?subject=PR%20Contact">PR Contact</a><br>
+<a href="http://jamesray.com/company/news-center.php" onmouseover="MM_swapImage('Image21','','/skin1/images/nav-press-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-press.gif" alt="Press and Media" name="Image21" width="160" height="20" border="0" id="Image21"></a>
+<span class="submenu_on">          <div class="submenu_on"><a href="http://jamesray.com/company/news-center.php">Overview</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/company/press-releases.php">Press Releases</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/company/media-appearances.php">Media Appearances</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/company/photos-logos.php">Photos and Logos</a></div>
+<div class="submenu_on"><a href="http://jamesray.com/company/bio.php">Executive Bio</a></div>
+<div class="submenu_on"><a href="mailto:sales@jamesray.com?subject=PR%20Contact">PR Contact</a></div>
 </span>
 <a href="http://warrior.jamesray.com/viewforum.php?f=10" onmouseover="MM_swapImage('Image6','','/skin1/images/nav-discussion-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-discussion.gif" alt="Free Discussion Forum" name="Image6" width="160" height="20" border="0" id="Image6"></a><br>
 <a href="http://warrior.jamesray.com/" onmouseover="MM_swapImage('Image7','','/skin1/images/nav-lounge-on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/nav-lounge.gif" alt="The Warrior Lounge" name="Image7" width="160" height="20" border="0" id="Image7"></a><br>
@@ -305,6 +272,8 @@ Cart is empty
 </tr>
 </tbody></table>			      <br>
 <br>
+<div align="center"><a href="http://jamesray.com/products/collapse-the-world-registration.php"><img src="/files/t_22.jpg" alt="Collapse the World Instructions" width="75" border="0"></a><br>
+<span class="smallprint">Just purchase <em>Collapse the World</em>?  <a href="http://jamesray.com/products/collapse-the-world-registration.php">Click here.</a></span></div>
 <br>
 <br>
 <img src="/skin1/images/spacer.gif" width="160" height="1" border="0" alt="">
@@ -646,10 +615,16 @@ you have questions about our Privacy Policy, email our Privacy Manager at <a hre
 <a href="http://jamesray.com/help.php?section=conditions">Terms of Use</a> &nbsp;|&nbsp;
 <a href="http://jamesray.com/help.php?section=refund">Refund Policy</a> &nbsp;&nbsp;
 <a href="http://feeds.feedburner.com/JamesRayInternational"><img src="/skin1/images/xml.gif" border="0" alt="RSS Site Feed" align="absmiddle"></a></td>
-<td class="bottom_nav" nowrap="" align="right"><a href="http://jamesray.com/help.php?section=copyright">Copyright © 2005 James Ray International</a></td>
+<td class="bottom_nav" nowrap="" align="right"><a href="http://jamesray.com/help.php?section=copyright">Copyright © 2006 James Ray International</a></td>
 </tr></tbody></table>
 </td>
 </tr>
 </tbody></table>
 
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-516395-1";
+urchinTracker();
+</script>
 </body></html>
