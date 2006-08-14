@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avactis.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617165549id_/http%3A//www.avactis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avactis.com privacy policy that was archived on 2006-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060814094436id_/http%3A//avactis.com/privacy.php) for the most accurate reproduction.*
 
 # Avactis Ecommerce Shopping Cart Software: Privacy Policy
 
