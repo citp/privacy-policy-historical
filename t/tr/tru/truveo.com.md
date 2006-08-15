@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truveo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truveo.com privacy policy that was archived on 2006-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060815190321id_/http%3A//truveo.com/about.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Truveo Privacy Policy
 
@@ -26,12 +26,12 @@ From time to time, we may make changes to our privacy policy to better reflect o
 For any questions about our privacy policy, please email us at  with the word 'privacy' in the subject line.   
 |  |   
 ---  
-[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/index.php)  
-[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php)  
-[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php?p=team)  
-[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php?p=contact)  
-[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php?p=jobs)  
-[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php?p=privacy)  
-[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php?p=terms)  
-[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php?p=adult)  
-[](https://web.archive.org/web/20060615024714id_/http%3A//truveo.com/about.php?p=press)
+[](https://web.archive.org/web/20060815190321id_/http%3A//truveo.com/index.php)  
+[](https://web.archive.org/web/20060815190321id_/http%3A//truveo.com/about.php)  
+[](https://web.archive.org/web/20060815190321id_/http%3A//truveo.com/about.php?p=team)  
+[](https://web.archive.org/web/20060815190321id_/http%3A//truveo.com/about.php?p=contact)  
+[](https://web.archive.org/web/20060815190321id_/http%3A//truveo.com/about.php?p=jobs)  
+[](https://web.archive.org/web/20060815190321id_/http%3A//truveo.com/about.php?p=privacy)  
+[](https://web.archive.org/web/20060815190321id_/http%3A//truveo.com/about.php?p=terms)  
+[](https://web.archive.org/web/20060815190321id_/http%3A//truveo.com/about.php?p=adult)  
+[](https://web.archive.org/web/20060815190321id_/http%3A//truveo.com/about.php?p=press)
