@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporateperks.com privacy policy that was archived on 2006-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060519023501id_/http%3A//www.corporateperks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporateperks.com privacy policy that was archived on 2006-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060816062751id_/http%3A//www.corporateperks.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to NextJump
 
@@ -115,5 +115,5 @@ By Phone: (866) 639-8135
 By Mail:  
 ATTN: Customer Service Department  
 Next Jump Inc.   
-183 Madison Ave, Suite 1005  
+261 Fifth Avenue, 8th Floor  
 New York, NY 10016
