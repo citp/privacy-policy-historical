@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wildearth.com.au privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429002627id_/http%3A//www.wildearth.com.au/privacy.php%3FosCsid%3D94230d51373354569b5889e3c4abff83) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildearth.com.au privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819065125id_/http%3A//www.wildearth.com.au/privacy.php) for the most accurate reproduction.*
 
-# Outdoor Adventure Gear & Clothing!
+# Camping Gear, Tents, Swags, Outerwear & Australian Hats!
 
 **1\. Privacy is important.**  
 We recognize that privacy of personal information is important to individuals. Any personal information you provide to us will be used for business purposes only. Except where otherwise legally appropriate, we will treat your personal information as private.   
