@@ -1,45 +1,60 @@
-> *The following text is extracted and transformed from the migrationexpert.co.uk privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609213940id_/http%3A//www.migrationexpert.co.uk/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migrationexpert.co.uk privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819140811id_/http%3A//www.migrationexpert.co.uk/privacy_policy.asp) for the most accurate reproduction.*
 
-# Migration Expert - Immigration Australia - Advice & Guidance
+# UK Immigration
 
->> Privacy Policy
+  
+immigrationexpert.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. 
+
+**By visiting immigrationexpert.com, you are accepting the practices described in this Privacy Notice.**
 
 **Personal Information**
 
-Migration Expert knows that privacy matters, especially in this information age. We have, therefore, made the protection of your privacy our number one priority. We make every effort to ensure your confidentiality and maintain your trust. Read on to learn how we keep your personal information private.
+The information collected from Clients is required in order to provide the personalised migration-related Services and to improve our services at immigrationexpert.com. 
 
-**Information Collection and Use**
-
-We will collect and store your personal information in order to provide you with a highly personalised service. We will NOT, however, use that personal data for purposes beyond those deemed necessary to prepare your Personal Plan.
-
-We will NOT re-sell, distribute, or share your personal data with third parties.
-
-Migration Expert Pty Limited (ACN 101 197 157) is the sole owner of the information collected on this site.
-
-**Virtual Interview**
-
-In order to benefit from our services, a client must first complete the virtual points test and interview process. During the virtual interview, a client is required to give detailed information about their background. This data is used to prepare their Personal Plan.
-
-**Transactions/Ordering**
-
-We request information from the client on our transaction page. A client must provide contact information (e.g. name and address for identity verification purposes) and financial information (e.g. credit card number, expiration date). This information is used for billing purposes. If we have trouble processing an order, we will contact the client using the contact details they have provided.
+**Information You Give Us:**   
+We receive and store any information you enter on our website or give us in any other way. If you choose not to provide certain information this may affect the level of Service you receive.   
+**Automatic Information:**   
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses immigrationexpert.com 
 
 **Cookies**
 
-A cookie is a piece of data stored on the client's hard drive containing information about them. Migration Expert does not use cookies, nor do we have plans to implement such technology in the future.
-
-Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to, or control over, these cookies.
-
-**Log Files**
-
-We use IP addresses to analyse trends, administer our site, track a client's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to identifiable personal information.
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide information such as the country and region you are accessing our website from, duration of your visit, etc. 
 
 **Sharing**
 
-We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can divulge the identify of our clients.
+We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can divulge the identity of our clients. 
 
-We use a credit card processing company to bill clients for our services. This company does not share, store or use identifiable personal information for any secondary purposes.
+We share customer information only as described below : 
+
+  * with **subsidiaries or associated companies** of immigrationexpert.com that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Notice.
+  * **Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, and providing customer service; fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links). They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * **Promotional Offers:** Sometimes we send offers to selected groups of immigrationexpert.com customers on behalf of other businesses. When we do this, we do not give that business your name and address.
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy businesses or subsidiaries. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that immigrationexpert.com, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+  * **Protection of immigrationexpert.com and Others:** We release account and other personal information when collection is required by law or when the information is necessary for the establishment, exercise of defence of a legal claim.
+
+**Security**
+
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.   
+Our customer information is stored in high capacity servers located in a state-of-the-art data centre which boasts the following security measures: 
+
+  * Security Guards are on duty to monitor all access points to the building.
+  * Security cameras continually monitor the entire facility.
+  * Monitored alarms on all ingress points.
+  * Card access technology tracks and records all door entry and exit transactions.
+  * All visitors are required to be identified with Photographic Identification, escorted by staff at all times.
+
+It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+
+**Conditions of Use, Notices, and Revisions**
+
+Use of this website is subject to the Terms & Conditions. Any concerns should be addressed to [privacy@immigrationexpert.com](mailto:privacy@immigrationexpert.com). 
+
+If a Client wishes to review or make corrections to their contact information, they can do so at any time. 
+
+Our Privacy Policy and the Terms & Conditions may change from time to time. Clients should check our Web site frequently to see any recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. 
 
 **Links**
 
-This web site contains links to other sites. Please be aware that we, Migration Expert, are not responsible for the accuracy or the privacy practices of other such sites. We encourage our clients to be aware that when they leave our site, they should read the privacy statements of each and every web site that collects identifiable personal information. This privacy statement applies solely to information collected on this web site.
+This web site contains links to other sites. Please be aware that we, immigrationexpert.com, are not responsible for the accuracy or the privacy practices of other such sites. We encourage our clients to be aware that when they leave our site, they should read the privacy statements of each and every web site that collects identifiable personal information. This privacy statement applies solely to information collected on this web site.
+
+|  
