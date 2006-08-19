@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servicecentral.com.au privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629104046id_/http%3A//servicecentral.com.au/%3Fdir%3Dreseller%26file%3Dprivacy_policy%26PHPSESSID%3D6b1256c5006532ce2835feae04be931c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicecentral.com.au privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819031729id_/http%3A//www.servicecentral.com.au/%3Fdir%3Dreseller%26file%3Dprivacy_policy%26PHPSESSID%3D884572847c8d3f5da17076174027fcf4) for the most accurate reproduction.*
 
 # Service Central
 
