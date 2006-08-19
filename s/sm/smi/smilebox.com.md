@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023601id_/http%3A//www.smilebox.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilebox.com privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819162024id_/http%3A//www.smilebox.com/privacy.jsp%3Fpartner%3Dsmilebox%26campaign%3Dnone%26page%3Dhomepage-a%26origin%3Dhomepage-a) for the most accurate reproduction.*
 
 # Smilebox : Privacy Policy
 
@@ -44,4 +44,4 @@ We respect the privacy of parents and children and are committed to complying wi
 
 Contacting Smilebox, Inc.
 
-If, for any reason, you are concerned with the way that we may be using your personal information, you would like to request that we cease using your personal information altogether, or you wish to file a complaint, you may contact Smilebox, Inc. at 8201 164th Ave NE, Suite 305, Redmond, WA 98052. You may also contact us by e-mail [via our webpage](https://web.archive.org/about/contact.jsp).
+If, for any reason, you are concerned with the way that we may be using your personal information, you would like to request that we cease using your personal information altogether, or you wish to file a complaint, you may contact Smilebox, Inc. at 8201 164th Ave NE, Suite 305, Redmond, WA 98052. You may also contact us by e-mail [via our webpage](https://web.archive.org/about/contact.jsp?partner=smilebox&campaign=none&page=privacy&origin=homepage-a).
