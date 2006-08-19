@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicoer.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419080611id_/http%3A//www.chicoer.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D135) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicoer.com privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819080318id_/http%3A//www.chicoer.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D135) for the most accurate reproduction.*
 
 # Privacy Policy
 
