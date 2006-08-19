@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joox.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615165437id_/http%3A//joox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joox.com privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819222816id_/http%3A//joox.com/privacy.html) for the most accurate reproduction.*
 
 # JOOX.com - Privacy Policy
 
