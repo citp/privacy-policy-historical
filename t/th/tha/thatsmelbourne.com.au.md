@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011202206id_/http%3A//www.thatsmelbourne.com.au/content.asp%3FDocument_ID%3D2000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820013913id_/http%3A//www.thatsmelbourne.com.au/info.cfm%3Fpg%3D2194) for the most accurate reproduction.*
 
-# That's Melbourne -
+# That's Melbourne
+
+## Privacy
 
 The City of Melbourne views the protection of your privacy as an integral part of its commitment towards complete accountability and integrity in all its activities and programs.
 
@@ -18,12 +20,16 @@ Council will take all necessary measures to prevent unauthorised access to or di
 
 ## Correction of Personal Information
 
-If you wish to alter any personal information you have supplied to Council whilst using this site you should telephone the City of Melbourne on 9658 9658 or direct enquiries via e-mail to [privacy@melbourne.vic.gov.au](mailto:privacy@melbourne.vic.gov.au).
+If you wish to alter any personal information you have supplied to Council whilst using this site you should telephone the City of Melbourne on 9658 9658 or direct enquiries via e-mail to [_privacy@melbourne.vic.gov.au_](mailto:privacy@melbourne.vic.gov.au).
 
 Please contact the Council’s Privacy Officer on 9658 9173 if you have any other enquires concerning Councils privacy procedures.
 
 ## Further information
 
-[ City of Melbourne's Privacy Policy statement](http://www.melbourne.vic.gov.au/upload/PrivacyPolicyStatement.pdf)
+[  City of Melbourne's Privacy Policy statement (26kb) ](http://www.melbourne.vic.gov.au/rsrc/PDFs/Governance/Privacy.pdf)
 
-Victorian Privacy Commissioner [www.privacy.vic.gov.au](http://www.privacy.vic.gov.au/)
+[  City of Melbourne's Privacy Policy statement (74kb) ](http://www.melbourne.vic.gov.au/rsrc/PDFs/Governance/Privacy.rtf)
+
+Victorian Privacy Commissioner [_http://www.privacy.vic.gov.au  _](http://www.privacy.vic.gov.au/)
+
+ 
