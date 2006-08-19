@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilrn.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191102id_/http%3A//www.thomson.com/corp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilrn.com privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819064920id_/http%3A//www.thomson.com/corp/privacy.jsp) for the most accurate reproduction.*
 
 # Thomson - Privacy Statement
 
