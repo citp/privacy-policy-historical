@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traders-secret-library.com privacy policy that was archived on 2006-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060423182218id_/http%3A//traders-secret-library.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traders-secret-library.com privacy policy that was archived on 2006-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060819082850id_/http%3A//www.traders-secret-library.com/privacy.html) for the most accurate reproduction.*
 
 # Disclaimer
 
