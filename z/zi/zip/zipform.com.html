@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zipform.com privacy policy that was archived on 2006-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060614102657id_/http%3A//www.zipform.com/company/privacystatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zipform.com privacy policy that was archived on 2006-08-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060820025756id_/http%3A//zipform.com/company/privacystatement.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>ZipForm Desktop</title>
@@ -56,7 +56,7 @@ if (isMenu) {
   childOverlap = 1; 
   childOffset = 1; 
   perCentOver = null; 
-  secondsVisible = .2; 
+  secondsVisible = .1; 
   fntCol = "#000000"; 
   fntSiz = "8"; 
   fntBold = true; 
@@ -66,13 +66,13 @@ if (isMenu) {
   overCol = "#dddddd"; 
   overFnt = "#000000"; 
   borWid = 1; 
-  borCol = "#00008C"; 
+  borCol = "#b8b8b8"; 
   borSty = "outset"; 
-  itemPad = 2; 
+  itemPad = 3; 
   imgSrc = "/images/tri.gif";
   imgSiz = 10;
   separator = 1; 
-  separatorCol = "#00008C"; 
+  separatorCol = "#e5e5e5"; 
   isFrames = false; 
   navFrLoc =  "nav"; 
   mainFrName = "main"; 
@@ -105,12 +105,10 @@ function learnSomething(){
 
 
 
-
-
 <script language="JavaScript" type="text/javascript">
 <!--
 //============================================================================
-// Page: hierArrays
+// Page: hierArrays NEW
 //
 //		 Array Structure:
 //		  - width
@@ -125,7 +123,7 @@ function learnSomething(){
 
 var mnuHeight = 119
 
-// COMPANY MENU  ================================================
+// COMPANY MAINMENU MENU  ================================================
 var arMenu1 = new Array(
 120,
 24,mnuHeight,
@@ -139,14 +137,9 @@ var arMenu1 = new Array(
 "Press/Events","/company/pressevents.asp",0,
 "Contacts","/company/contacts.asp",0,
 "Family of Companies","/company/family.asp",0
-  
 )
 
-var arMenu1_4 = new Array(
-"Background","/about/companyInfo.asp",0
-)
-
-// PRODUCTS MENU  ================================================
+// PRODUCTS MAINMENU MENU  ================================================
 var arMenu2 = new Array(
 155,
 99,mnuHeight,
@@ -155,14 +148,17 @@ var arMenu2 = new Array(
 "","",
 "ZipFormDesktop","/products/zipformdesktop/index.asp",1,
 "ZipFormOnline","/products/zipformonline/index.asp",1,
+"RELAY","/products/tms/index.asp",1,
+"ZipFormMobile","/products/zipformmobile/productdetails.asp",1,
+"ZipFormMac-Connect","/products/zipformmac/productdetails.asp",1,
 "ZipFormSafeCall","/products/safecall/index.asp",1,
 "Interactive Training CD","/products/trainingCD/index.asp",1,
 "ZipFormMLS-Connect","/products/mlsconnect/productdetails.asp",1,
 "ZipFormConcierge","/products/concierge/index.asp",1,
 "Available Form Libraries","/products/zipformdesktop/availablelibraries.asp",0
-  
 )
-// PRODUCTS - DESKTOP Submenu
+
+// PRODUCTS-Desktop SUBMENU MENU  ================================================
 var arMenu2_1 = new Array(
 "Buy Now","/order/order.asp",0,
 "Product Details","/products/zipformdesktop/productdetails.asp",0,
@@ -170,105 +166,77 @@ var arMenu2_1 = new Array(
 "Product FAQ","/products/zipformdesktop/faq.asp",0,
 "Download the<br>Latest Forms","/support/updates.asp",0,
 "Download a Demo","/products/zipformdesktop/demodownload.asp",0
-  
 )
-// PRODUCTS - ONLINE Submenu
+
+// PRODUCTS-Online SUBMENU MENU  ================================================
 var arMenu2_2 = new Array(
 "Buy Now","/order/order.asp",0,
 "Product Details","/products/zipformonline/productdetails.asp",0,
 "Product FAQ","/products/zipformonline/faq.asp",0,
 "Existing User Login","/products/zipformonline/login.asp",0,
 "Server Status","/products/zipformonline/ZFOStatus.asp",0
-  
 )
 
-// PRODUCTS - SafeCall Submenu
+// PRODUCTS-RELAY SUBMENU MENU  ================================================
 var arMenu2_3 = new Array(
+"Buy Now","/order/zipdelivery/secure/relay.asp?pr=relay",0,
+"Product Details","/tms/index.asp",0,
+"3.0 Release Information","/tms/relay_v3.asp",0,
+"Interactive Demo","http://ww9.aitsafe.com/go.htm?go=www.rebt.com/demo.asp&afid=11775&tm=0&im=1",0,
+"Support","http://ww9.aitsafe.com/go.htm?go=www.rebt.com/Supportrequest.asp&afid=11775&tm=0&im=1",0,
+"Information Request","/tms/relay_contact.asp",0
+)
+
+// PRODUCTS-Mobile SUBMENU MENU  ================================================
+var arMenu2_4 = new Array(
+"Buy Now","/order/order.asp?pr=mobile",0,
+"Product Details","/products/zipformmobile/productdetails.asp",0,
+"Product FAQ","http://support.zipform.com/zfm/zfmfaq.asp",0,
+"System Requirements","/products/zipformmobile/requirements.asp",0
+)
+
+// PRODUCTS-MacConnect SUBMENU MENU  ================================================
+var arMenu2_5 = new Array(
+"Buy Now","/order/order.asp?pr=zipformmac",0,
+"Product Details","/products/zipformmac/productdetails.asp",0,
+"System Requirements","/products/zipformmac/requirements.asp",0,
+"User Login","http://mac.zipform.com",0
+)
+
+// PRODUCTS-Safe Call SUBMENU MENU  ================================================
+var arMenu2_6 = new Array(
 "Web Based Solution","/products/safecall/webapp/index.asp",0,
 "Broker Training Kit","/products/safecall/trainingkit/index.asp",0,
-"Do-Not-CAll FAQ","/products/safecall/faq.asp",0
-  
+"Do-Not-Call FAQ","/products/safecall/faq.asp",0
 )
 
-// SAFECALL - trainingkit submenu
-var arMenu2_4 = new Array(
+// PRODUCTS-Training CD SUBMENU MENU  ================================================
+var arMenu2_7 = new Array(
 "Buy Now","/order/zipdelivery/trainingCDorder.asp",0,
 "Product Details","/products/trainingCD/productdetails.asp",0
-  
 )
 
-// MLS Connect submenu
-var arMenu2_5 = new Array(
+// PRODUCTS-MLS Connect SUBMENU MENU  ================================================
+var arMenu2_8 = new Array(
 "Buy Now","https://www.zipform.com/order/zipdelivery/secure/MLSOrder.asp",0,
 "Product Details","/products/mlsconnect/productdetails.asp",0,
 "Available MLS's","/products/mlsconnect/mls_list.asp",0,
 "Information Request","/products/mlsconnect/getinfo.asp",0,
 "Tutorial","/tutorials/mlsconnect.asp",0
-  
 )
 
-// SAFECALL - webapp submenu
-var arMenu2_6 = new Array(
+// PRODUCTS-ZipFormConcierge SUBMENU MENU  ================================================
+var arMenu2_9 = new Array(
 "Product Details","/products/concierge/index.asp",0,
 "REALTOR® FAQ","/products/concierge/realtor_faq.asp",0,
 "Consumer Information","http://www.zipformconcierge.com/faqs.pl",0,
-"Tutorial","/tutorials/concierge.asp",0
-  
+"Tutorial","/tutorials/concierge.asp",0,
+"Broker Solution","/products/concierge/zfc_broker.asp",0,
+"Request Info","/brokers/brokercontact.asp",0
 )
 
-
-// SAFECALL - webapp submenu
-var arMenu2_7 = new Array(
-"Buy Now","/products/safecall/trainingkit/order.asp",0,
-"Product Details","/products/safecall/trainingkit/index.asp",0,
-"Do-Not-Call FAQ","/products/safecall/trainingkit/faq.asp",0
-  
-)
-
-
-
-
-// PRODUCTS - Training CD Submenu
-var arMenu2_5 = new Array(
-"Buy Now","https://www.zipform.com/order/zipdelivery/secure/MLSOrder.asp",0,
-"Product Details","/products/mlsconnect/productdetails.asp",0,
-"Available MLS's","/products/mlsconnect/mls_list.asp",0,
-"Information Request","/products/mlsconnect/getinfo.asp",0,
-"Tutorial","/tutorials/mlsconnect.asp",0
-  
-)
-
-
-// Concierge submenu
-var arMenu2_8 = new Array(
-"More Info","/products/safecall/webapp/moreinfo.asp",0,
-"Product Details","/products/safecall/webapp/productdetails.asp",0,
-"Do-Not-Call FAQ","/products/safecall/faq.asp",0
-  
-)
-
-
-// PURCHASE MENU  ================================================
+// SUPPORT MAINMENU MENU  ================================================
 var arMenu3 = new Array(
-165,
-253,mnuHeight,
-"","",
-"","",
-"","",
-"Buy ZipFormDesktop","/order/order.asp",0,
-"Buy ZipFormOnline","/order/order.asp",0,
-"Buy Interactive Training CD","/order/zipdelivery/trainingCDorder.asp",0,
-"Buy ZipFormMLS-Connect","https://www.zipform.com/order/zipdelivery/secure/MLSOrder.asp",0,
-"Renew","/order/renewalinstructions.asp",0,
-"Order a Custom Logo","/order/customlogo.asp",0,
-"Download Additional Copies","/order/DownloadAdditionalCopies.asp",0,
-"Activate ZipFormDesktop","/order/activate.asp",0
-  
-)
-
-
-// SUPPORT MENU ================================================
-var arMenu4 = new Array(
 138,
 181,mnuHeight,
 "","",
@@ -280,18 +248,29 @@ var arMenu4 = new Array(
 "Viewers","/support/viewers.asp",0,
 "Support & FAQ's","/support/contact.asp",0,
 "Documentation","/support/#manuals",0
-  
-)
-// SUPPORT - FAQ Submenu
-//"Online Training","http://www.learning.net/cat/courseinfo.html?ID=CAR_003_WinForms",0,
-var arMenu4_5 = new Array(
-"ZipFormDesktop","/support/faq_zipformdesktop_tech.asp",0,
-"ZipFormOnline","https://www.zipformonline.com/modules/standalone/faq.asp?skin=www_zipformonline_com",0,
-"ZipFormPDA","/support/faq_zipformPDA_tech.asp",0
 )
 
+// PURCHASE MAINMENU MENU  ================================================
+var arMenu4 = new Array(
+165,
+253,mnuHeight,
+"","",
+"","",
+"","",
+"Buy ZipFormDesktop","/order/order.asp",0,
+"Buy ZipFormOnline","/order/order.asp",0,
+"Buy RELAY","/order/zipdelivery/secure/relay.asp?pr=relay",0,
+"Buy ZipFormMobile","/order/order.asp?pr=mobile",0,
+"Buy ZipFormMac-Connect","/order/order.asp?pr=mac",0,
+"Buy Interactive Training CD","/order/zipdelivery/trainingCDorder.asp",0,
+"Buy ZipFormMLS-Connect","https://www.zipform.com/order/zipdelivery/secure/MLSOrder.asp",0,
+"Renew","/order/renewalinstructions.asp",0,
+"Order a Custom Logo","/order/customlogo.asp",0,
+"Download Additional Copies","/order/DownloadAdditionalCopies.asp",0,
+"Activate ZipFormDesktop","/order/activate.asp",0
+)
 
-//BROKERS MENU ================================================
+// BROKERS MAINMENU MENU  ================================================
 var arMenu5 = new Array(
 150,
 333,mnuHeight,
@@ -303,12 +282,10 @@ var arMenu5 = new Array(
 "Custom Broker Screens","/brokers/custombrokerscreens.asp",0,
 "Developer's Kit","/brokers/developerskit.asp",0,
 "Request Information","/brokers/brokercontact.asp",0
-  
 )
 
-
-// TRAINING MENU  ================================================
-var arMenu7 = new Array(
+// TRAINING MAINMENU MENU  ================================================
+var arMenu6 = new Array(
 165,
 405,mnuHeight,
 "","",
@@ -318,41 +295,31 @@ var arMenu7 = new Array(
 "Available Training","/training/trainers_list.asp",1,
 "Become a Trainer","/training/become.asp",1,
 "Trainers Toolbox","/training/toolbox.asp",1
-  
 )
-// TRAINING - AVAILABLE Submenu
-var arMenu7_2 = new Array(
+
+// TRAINING SUBMENU MENU  ================================================
+var arMenu6_2 = new Array(
 "Find a Trainer","/training/trainers_list.asp",0,
 "Set Up a Class","/training/contact_us.asp",0
-  
 )
-// TRAINING - BECOME Submenu
-var arMenu7_3 = new Array(
+
+// TRAINING SUBMENU MENU  ================================================
+var arMenu6_3 = new Array(
 "Trainer Information","/training/information.asp",0,
 "Apply","/training/apply.asp",0,
 "Types of Trainers","/training/training_type.asp",0,
 "Pledge","/training/pledge.asp",0,
 "Contact Us","/training/contact_us.asp",0
-  
 )
 
-// TRAINING - TOOLS Submenu
-var arMenu7_4 = new Array(
+// TRAINING SUBMENU MENU  ================================================
+var arMenu6_4 = new Array(
 "Submit Your Class","/training/submit_class.asp",0,
 "Pledge","/training/pledge.asp",0,
 "Contact Us","/training/contact_us.asp",0
-  
 )
 
-//demo - downloads  ================================================
-var arMenu6 = new Array(
-131,
-507,mnuHeight,
-"","",
-"","",
-"","",
-"Downloads","/downloads/",0
-)
+
 
 var arSiteMapNames = new Array(
 "Company",
@@ -415,7 +382,7 @@ function theLinks(arrName){
 
 
 
-	<table border="0" cellpadding="0" cellspacing="0" width="798" height="101">
+	<table border="0" cellpadding="0" cellspacing="0" width="798" height="101" id="Table1">
 			<tbody><tr>
 				<td valign="top" align="left" width="319"><a href="/"><img src="/images/menu/logo.gif" width="178" height="87" alt="Real Estate Software" border="0"></a></td>
 				<td valign="top" align="left" width="271" background="/images/menu/bggrey.gif">
@@ -429,14 +396,14 @@ function theLinks(arrName){
 			</tr>
 			<tr>
 				<td colspan="2" valign="top" align="left" width="590" background="/images/menu/menubg.jpg">
-				<table width="430" border="0" cellspacing="0" cellpadding="0">
+				<table width="430" border="0" cellspacing="0" cellpadding="0" id="Table2">
 					<tbody><tr>
 						<td align="left" valign="top" width="89"><a href="/company/" class="topMenu" onmouseover="popUp('elMenu1',event);" onmouseout="popDown('elMenu1')"><img src="/images/menu/main_company.gif" width="89" height="35" border="0"></a></td>
 						<td align="left" valign="top" width="68"><a href="/products/" class="topMenu" onmouseover="popUp('elMenu2',event);" onmouseout="popDown('elMenu2')"><img src="/images/menu/main_products.gif" width="79" height="35" border="0" alt="Real Estate Software"></a></td>
-						<td align="left" valign="top" width="71"><a href="http://support.zipform.com" class="topMenu" onmouseover="popUp('elMenu4',event);" onmouseout="popDown('elMenu4')"><img src="/images/menu/main_support.gif" width="70" height="35" border="0"></a></td>
-						<td align="left" valign="top" width="65"><a href="/order/" class="topMenu" onmouseover="popUp('elMenu3',event);" onmouseout="popDown('elMenu3')"><img src="/images/menu/main_purchase.gif" width="81" height="35" border="0" alt="Real Estate Software"></a></td>
+						<td align="left" valign="top" width="71"><a href="http://support.zipform.com" class="topMenu" onmouseover="popUp('elMenu3',event);" onmouseout="popDown('elMenu3')"><img src="/images/menu/main_support.gif" width="70" height="35" border="0"></a></td>
+						<td align="left" valign="top" width="65"><a href="/order/" class="topMenu" onmouseover="popUp('elMenu4',event);" onmouseout="popDown('elMenu4')"><img src="/images/menu/main_purchase.gif" width="81" height="35" border="0" alt="Real Estate Software"></a></td>
 						<td align="left" valign="top" width="72"><a href="/brokers/" class="topMenu" onmouseover="popUp('elMenu5',event);" onmouseout="popDown('elMenu5')"><img src="/images/menu/main_brokers.gif" width="75" height="35" border="0"></a></td>
-						<td align="left" valign="top" width="65"><a href="/training/" class="topMenu" onmouseover="popUp('elMenu7',event);" onmouseout="popDown('elMenu7')"><img src="/images/menu/main_training.gif" width="75" height="35" border="0"></a></td>
+						<td align="left" valign="top" width="65"><a href="/training/" class="topMenu" onmouseover="popUp('elMenu6',event);" onmouseout="popDown('elMenu6')"><img src="/images/menu/main_training.gif" width="75" height="35" border="0"></a></td>
 					</tr>
 				</tbody></table>
 			</td>
@@ -446,6 +413,7 @@ function theLinks(arrName){
 				</td>
 			</tr>
 		</tbody></table>
+		<!-- NEW MENUBAR -->
 
 
 
