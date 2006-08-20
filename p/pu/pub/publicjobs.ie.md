@@ -1,64 +1,43 @@
-> *The following text is extracted and transformed from the publicjobs.ie privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502055226id_/http%3A//www.publicjobs.ie/en/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicjobs.ie privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820154944id_/http%3A//www.publicjobs.ie/en/site/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Publicjobs.ie has created this privacy statement to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of Publicjobs.ie
+**Identity**  
+The Public Appointments Service is responsible for recruitment and selection to a wide variety of posts across the public sector. 
 
-A user can access our web sites and utilise a number of our services without providing any information at all. However, all users who avail of the Publicjobs.ie online services and opt in services provide basic contact and demographic information. We do not provide this information to any third party.
+Any queries you may have regarding data protection may be forwarded to [info@publicjobs.ie](mailto:info@publicjobs.ie) or to: The Data Protection Co-ordinator, Public Appointments Service, Chapter House, 26-30 Abbey Street Upper, Dublin 1.
 
-We do not follow a user's browsing path outside of our Web sites.
+**Purpose**  
+When you register with the site or submit an application form, we create a computer record in your name. Information submitted with a job application is used in processing your application and is updated as the competition progresses. If you are successful in the recruitment and selection campaign, your application may be made available to the Human Resources section of your employing organisation.
 
-### Information Publicjobs.ie collects: 
+**Disclosure**  
+If you are successful in the recruitment and selection campaign, your application may be made available to the Human Resources section of your employing organisation.
 
-  
+**Right of Access**  
+Any information held on computer is subject to the rights and obligations set out in the Data Protection Acts 1988 and 2003. You are entitled under this Act to obtain a copy of information which is kept on computer about you at any time. The Public Appointments Service charge a fee of 6.35 for each request. To obtain a copy of this information please write to : The Data Protection Co-ordinator, Public Appointments Service, Chapter House, 26-30 Abbey Street Upper, Dublin 1 enclosing a cheque for 6.35.
 
+**Right of rectification or erasure**  
+You are entitled to have personal data corrected, if inaccurate, or erased if we do not have legitimate reason for retaining it. If you wish to apply to correct or delete data, please write to the Data Protection Co-ordinator, Public Appointments Service, Chapter House, 26-30 Abbey Street Upper, Dublin 1, setting out the reasons for your request. This office will respond to you within three weeks setting out a timeframe for any corrective action on our part.
 
-#### Form Submissions / Opt in's
+**Extent of data being processed**  
+Certain items of information not specific to any individual and/or any Recruitment Campaign may be extracted from computer records for general statistical purposes
 
-If users wish to contact Publicjobs.ie, they must enter personal information. 
+**Cookies**  
+On some parts of our website we use so-called "cookie" technology. Cookie technology consists of small pieces of data or a small text file which is given to your browser by our webserver when you visit our website. This data is stored on your browser. The cookie is sent back to our webserver each time you visit our website.
 
-The information collected when a user contacts Publicjobs.ie, regarding a service can include an e-mail address and name. When contacting us regarding a service, a user may also "opt in" to various e-mail notifications or offers (see Opt- In Procedures below).
+Cookies are not computer programs and do not run on a computer like programs do. They cannot gather information or function on their own. They cannot collect any personal information about you or your machine and cannot gather data or information about what you do on the Internet. Cookies merely enable us to provide a more valuable online experience to you. While you can set up your Internet browser to disable cookie technology, we do not recommend that you do this since some parts of this website and our online services may not function properly, or at all.
 
-  
+The procedure for disabling cookies depends on the web browser that you have chosen to use. We have supplied links to the Microsoft and Netscape web sites to provide you with the procedures to follow to view and disable cookies on your PC. 
 
+If you use Internet Explorer, [Cookies on Internet Explorer](http://www.microsoft.com/info/cookies.htm "Internet Explorer")  
+If you use Netscape, [Cookies on Netscape](http://www.netscape.com/legal_notices/cookies.html "Netscape")
 
-#### Cookies
+**IP Addresses**  
+If you visit our site to read or download information, we collect and store the following information: 
 
-Cookies are not used on the Publicjobs.ie website. 
+The above information is used by software programs on our Web site to create summary statistics which allow us to assess the number of visitors to the different sections of our site, identify what information is of most and least interest, determine technical design specifications, monitor system performance, and help us make our site more useful to visitors. 
 
-  
+**Security**  
+We are committed to providing secure online services. As such, all interactions with our transactional sites are protected through encryption that complies with international standards. Our Internet servers are protected by firewalls and intrusion detection systems. These servers are not accessible from outside the room in which they are housed, access to which is restricted to authorised personnel only.
 
-
-#### Information Automatically Logged:
-
-We use your IP address, log user agents and referring address to help diagnose problems with our server, to administer our Web site and to identify unique users. Your IP address is also used to gather broad demographic information. We do not provide our log file data to any third party. 
-
-  
-
-
-#### Irish Data Protection Commissioner:
-
-Further information on your data privacy rights are available on the website of the Irish Data Protection Commissioner.
-
-<http://www.dataprivacy.ie/2.htm#Your%20Rights>
-
-  
-
-
-#### Email:
-
-Using the e-mail addresses provided on forms and online purchases Publicjobs.ie periodically sends promotional e-mail to its subscribers about services and products offered by Publicjobs.ie. You can indicate on all forms that you wish to receive further e-mail information Publicjobs.ie. 
-
-  
-
-
-#### External Links: 
-
-This site contains links to other sites. Publicjobs.ie is not responsible for the privacy practices or the content of such Web sites. 
-
-  
-
-
-#### Security: 
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Publicjobs.ie cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+We have also employed the services of independent security experts to advise us on the security of our systems. 
