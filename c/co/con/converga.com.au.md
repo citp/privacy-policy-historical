@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the converga.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616043555id_/http%3A//www.converga.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the converga.com.au privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820165632id_/http%3A//www.converga.com.au/privacy.htm) for the most accurate reproduction.*
 
-# Privacy
+# Converga - Privacy
 
 Converga Respects Your Privacy 
 
