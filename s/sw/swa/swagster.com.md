@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swagster.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615194640id_/http%3A//swagster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swagster.com privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820220836id_/http%3A//swagster.com/privacy.php) for the most accurate reproduction.*
 
 # Swagster.com - Trade Music (Free and Legal)
 
@@ -6,7 +6,7 @@ This privacy statement covers the Swagster website (www.Swagster.com).
 
 This privacy statement is limited to personal information (referred to as "information").
 
-If you have questions or concerns regarding this statement, you should contact us using this form : [Swagster.com contact form](https://web.archive.org/web/20060615194640id_/http%3A//swagster.com/contact_admin.php).
+If you have questions or concerns regarding this statement, you should contact us using this form : [Swagster.com contact form](https://web.archive.org/web/20060820220836id_/http%3A//swagster.com/contact_admin.php).
 
 **Information Collection and Use**
 
@@ -58,10 +58,10 @@ We take every reasonable precaution to protect information from misuse, loss and
 
 **_Updating Personal Information_**
 
-Users may gain access to information that has by requesting it using this form: [http://www.swagster.com/profile_menu.php](https://web.archive.org/web/20060615194640id_/http%3A//swagster.com/profile_menu.php). If a user's information changes such as email address, or if a user no longer desires email announcements or news letters, we provide a way to correct and update users' information. Users have a responsibility to tell us if their information changes as that is the only way we can ensure information is kept accurate and up to date. 
+Users may gain access to information that has by requesting it using this form: [http://www.swagster.com/profile_menu.php](https://web.archive.org/web/20060820220836id_/http%3A//swagster.com/profile_menu.php). If a user's information changes such as email address, or if a user no longer desires email announcements or news letters, we provide a way to correct and update users' information. Users have a responsibility to tell us if their information changes as that is the only way we can ensure information is kept accurate and up to date. 
 
 **_Notification of Changes_**
 
 Swell Deal Enterprises LLC(Swagster.com) reserves the right to change this policy without prior written notice. It is a users responsibility to periodically check the privacy policy and terms and conditions for changes. 
 
-If you have questions or concerns regarding this statement, you should contact us using this form : [http://www.swagster.com/contact_admin.php](https://web.archive.org/web/20060615194640id_/http%3A//swagster.com/contact_admin.php)
+If you have questions or concerns regarding this statement, you should contact us using this form : [http://www.swagster.com/contact_admin.php](https://web.archive.org/web/20060820220836id_/http%3A//swagster.com/contact_admin.php)
