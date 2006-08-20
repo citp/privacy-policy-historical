@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldsea.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616163240id_/http%3A//goldsea.com/Mediawatch/Privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldsea.com privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820054649id_/http%3A//goldsea.com/Mediawatch/Privacy/privacy.html) for the most accurate reproduction.*
 
 # GOLDSEA's Total Privacy Policy | Asian American Supersite
 
