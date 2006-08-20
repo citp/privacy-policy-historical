@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicmp3.ru privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210123id_/http%3A//musicmp3.ru/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicmp3.ru privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820174257id_/http%3A//musicmp3.ru/privacy.html) for the most accurate reproduction.*
 
 # Mp3 Music Download - MusicMp3.RU
 
@@ -24,14 +24,12 @@ Should you have other questions or concerns about these privacy policies, please
 
 ### NEWS
 
-Do you want to surprise your friends and colleagues? No matter what holiday it is you can always make a great gift!   
-MusicMp3.ru offers all registered users new and very useful service - a **"Gift Card"**! You can buy a "Gift Card" for yourself or for your friend and then use it whenever it is convenient to purchase music on our site.
-
-We are glad to inform our users that we added "Favorites" feature to MusicMp3.ru. From now on you can create a list of the albums you are interested in and buy and download them later when it is the most convenient for you. To do this you only need to click on "Add Album to Your Favorites" button. The list of the albums will be stored in **"Favorites"** folder on your User Account.
-
  **ATTENTION!** MusicMp3.Ru is starting an unexampled program!   
 Do you want to download MusicMp3.Ru files for free?  
-[download free mp3 >>](https://web.archive.org/web/20060615210123id_/http%3A//musicmp3.ru/publicity.html)
+[download free mp3 >>](https://web.archive.org/web/20060820174257id_/http%3A//musicmp3.ru/publicity.html)
+
+Do you want to surprise your friends and colleagues? No matter what holiday it is you can always make a great gift!   
+MusicMp3.ru offers all registered users new and very useful service - a **"Gift Card"**! You can buy a "Gift Card" for yourself or for your friend and then use it whenever it is convenient to purchase music on our site.
 
 Try **RSS-technology** on our site! You will not have to download any unnecessary stuff (pages design, for example). Simply export our **RSS** to your favorite RSS-reader and read **music reviews** [](http://musicmp3.ru/rss_reviews.html) announcements and   
 **new mp3 albums** [](http://musicmp3.ru/rss_releases.html)   
