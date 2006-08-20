@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paktimes.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614200223id_/http%3A//paktimes.com/index.php%3Fpln%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paktimes.com privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820194610id_/http%3A//paktimes.com/index.php%3Fpln%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - PakTimes
 
