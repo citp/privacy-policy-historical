@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explosm.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200932id_/http%3A//www.explosm.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explosm.net privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820131503id_/http%3A//www.explosm.net/privacy) for the most accurate reproduction.*
 
 # Explosm.net - Flash Animations, Daily Comics, and more!
 
