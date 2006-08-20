@@ -1,18 +1,110 @@
-> *The following text is extracted and transformed from the marketingmag.com.au privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201115754id_/http%3A//marketingmag.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmag.com.au privacy policy that was archived on 2006-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060820233116id_/http%3A//marketingmag.com.au/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D15%26Itemid%3D31) for the most accurate reproduction.*
 
-# Privacy Policy
+# Marketing Magazine - PRIVACY POLICY
 
-> **Privacy Policy Statement**   
->  **Niche Media Pty Ltd Internet Privacy Policy**   
->  Niche Media understands that you may have concerns regarding the privacy and security of the personal information you provide to us via our web sites. To demonstrate our commitment to preserving your privacy and to the prevention of any misuse of your personal information we have developed the following policy. **Collecting Information**   
->  The personal information collected on Niche Media's internet web sites is not used to send unsolicited emails, nor is it sold or passed on to third parties. Any contact details and personal information you provide to Niche Media web sites will be used exclusively for the purposes clearly stated on the form or web site where a request for such information is made. As a safeguard, and to ensure that you have read and understood these purposes, you will be asked to consent to this usage before submitting your details. Should you later change your mind, you can opt out of this agreement by contacting Niche Media via one of the address channels provided in the "Contact us" section below. **Storing and Securing Information**   
->  All personal information registered on Niche Media web sites is collected and maintained solely by Niche Media's parent company Waivcom Worldwide Limited, unless specifically stated at the point of collection. Every effort will be made to maintain your information in a secure environment by Waivcom Worldwide. Only authorised employees have access to our user information databases and strict rules apply to their management to guard against loss, misuse or alteration of data. **Credit Card Transactions**   
->  All payment transactions are routed through SSL (Secure Socket Layers). This system does not retain your credit card number once the authorised transaction has taken place. **Cookies**   
->  Niche Media web sites use cookie technology. A cookie is a small text file containing a unique identification number that is transferred from a web site to the hard drive of your computer. This enables us to identify your browser and track your activities on the web site. The information collected tells us how often a particular web page has been visited and how many clicks an advertisement has received. Cookies do not, however, reveal any personally identifiable information about you, such as your name and address. As they are simply text files, cookies are incapable of running on your computer, searching your computer for other information or transmitting any information to anyone. The use of cookies is now an industry standard and you will find them on most major web sites. You can disable cookies by changing the settings in your browser preferences. If you disable cookies some site features may not be available and/or may produce unexpected results. **Advertisements and Links**   
->  Although we do not share any of your personal information with third parties, we would like to point out that most of the advertisements on our sites contain direct links to the advertisers' web sites. Clicking on an advertising "banner" or "button" will automatically transfer you to another web site, which will probably transmit its own cookie to your computer. Once you have linked to a site outside the Niche Media network, any personal information you choose to provide will not be covered by our privacy policy. The storage and use of this information will then be subject to this web site's own privacy policy, which we advise you to read prior to submitting any personal details. **Contact Us**   
->  Niche Media Pty Ltd  
->  165 Fitzroy St  
->  St Kilda 3182  
->  Phone: 03 9525 5566  
->  Fax: 03 9525 5628  
->  Email: [privacy@niche.com.au](mailto:privacy@niche.com.au) _Copyright © 1997-2000[WaivCom Worldwide Limited](http://www.waiv.com/) (All Rights Reserved)_
+At Niche, we respect your privacy. We respect the rights of our customers, suppliers and colleagues to decide if, when and how their personal information is used.   
+
+
+##### Our commitment to privacy is based on:
+
+  * the freedom to visit this website and access information without the need to give us any personal information
+  * the choice to give us personal information if – and only if – you wish to access a more tailored online experience
+
+
+
+a pledge that any information given is kept safely and securely, using the latest technology and to accepted industry standards.
+
+Your use of this website is deemed to be acceptance of these privacy policies. If you disagree with the policies set out above, and in more detail below, you should not use this website.  
+when your information may be requested, and why The Niche Media website is designed to provide visitors with easy online access to information about the products and services we have to offer. It also provides support for our customers and business partners. Much of the content of this site is given freely, and can be viewed anonymously.
+
+However, where a more personalised experience is required – such as secure areas where our business partners can access non-public details – some personal information is required. This is to protect confidential commercial information that we do not wish to share beyond our valued customers, partners and suppliers. It also ensures that those visitors with access to secure areas can be more easily identified, and be provided with a more personalised experience.
+
+  
+
+
+##### How the information we collect may be used
+
+Any information we collect will never be sold, given or shared with any third party. It will only be used to:
+
+  
+
+
+  * verify your identity when accessing secure areas of this site.
+  * allow us to provide tailored services, such as enewsletters.
+  * allow us to better understand the needs of our customers and business partners.
+  * allow us to offer special discounts and offers only to those we know have a stated interest in the services or products being offered.
+
+
+
+##### The use of ‘cookies’
+
+TEXT: Cookies are text strings generated by our server, and stored on your computer.
+
+Cookies can be used to:
+
+  
+
+
+  * store passwords, so that there is no need to fill in passwords when re-visiting a site
+  * track the effectiveness of advertising on a site
+  * monitor the areas of the site that are most visited
+  * identify visitors and ensure they are who they say they are – especially when accessing secure areas of a site
+
+
+
+The important thing to remember is that cookies are attached to the computer, not to the individual. This means the information is not of a personal nature (unless required as part of an authentication process).
+
+You should be aware that another user accessing the site from the same computer as you may be able to visit secure areas, as a cookie makes no differentiation between users: it simply identifies the computer being used.
+
+If you have any concerns about the use of cookies, you can change the preferences in your browser so that no cookies are accepted, or you are asked before cookies are accepted. Please note that many sites require acceptance of cookies before you can access the information.
+
+  
+
+
+##### Online Security
+
+Whilst we at Niche Media are committed to protecting your privacy, the nature of the web and the technology it uses is not 100% secure.
+
+Emails and secure areas can be ‘hacked’ by those with the necessary skills.
+
+We do, however, use the latest encryption technology. And firewalls are used to protect the information we hold as securely as is possible.
+
+As and when technology improves, we will make use of newer and more secure methods of encryption and protection.  
+your access to the information we hold. We will strive to give you every opportunity to update and access the information we hold.
+
+Where possible, we will give you online access to change and update your details yourself. Where not possible, it may be necessary to contact us directly at Niche Media.
+
+  
+
+
+##### Unsolicited ‘SPAM’
+
+We will never knowingly send you unsolicited emails (known commonly as ‘SPAM’) when you have not requested them.
+
+When signing up for our enewsletters, you will be given the option of agreeing to us sending you related information about any or all of the products or services we offer. Checking this option means you agree to us sending you emails from time to time, of a marketing or informational kind.
+
+Leaving the option unchecked means we will not include you in any promotional offers or emails.
+
+  
+
+
+##### How any personal information is stored
+
+We will take all reasonable steps to ensure that the information we hold about you is secure, accurate and up to date.
+
+  
+
+
+##### Links to other sites
+
+Niche Media cannot take responsibility for the privacy policies, conduct or quality of third party websites linked to from this site. Where possible, the content and availability of any sites we have linked to have been checked and read. However, you should check the privacy policies of any third party site before disclosing any personal information.
+
+  
+
+
+##### Questions or concerns
+
+Please [email us](https://web.archive.org/web/20060820233116id_/http%3A//marketingmag.com.au/general_enquiry.asp) if you have any further questions or concerns about your privacy, and our conduct online.
+
+  
+
