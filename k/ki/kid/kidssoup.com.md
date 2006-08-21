@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the kidssoup.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513222946id_/http%3A//kidssoup.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidssoup.com privacy policy that was archived on 2006-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060822004853id_/http%3A//kidssoup.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Christmas craft ideas- Easy Holiday Crafts - Christmas Activities - Holiday Coloring Pages
+
+|  | 
+
+KidsSoup.com is a place for kids, parents, teachers and care givers to find arts and craft projects, coloring pages and activities to explore children's creativity and to encourage children’s development.  
+
+
+|  | 
+
+| 
 
 Privacy Policy 
 
@@ -22,4 +31,4 @@ Your comments and questions are always welcome, and your email address will only
 
 No personal identification information is collected unless you provide it for one of the reasons stated above.
 
-If you have any comments and questions about this privacy policy, please contact [eartwiggles@eartwiggles.com](mailto:%20sgarcia@kidssoup.com)
+If you have any comments and questions about this privacy policy, please contact us at **eartwiggles@eartwiggles.com**
