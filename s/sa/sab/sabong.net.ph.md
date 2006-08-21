@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the sabong.net.ph privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204063420id_/http%3A//www.sabong.net.ph/info.php%3Fnum%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabong.net.ph privacy policy that was archived on 2006-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060821043939id_/http%3A//sabong.net.ph/info.php%3Fnum%3DPrivacy) for the most accurate reproduction.*
 
-# Sabong.net.ph Privacy Website and Company Information Cockfighting and Gamefowl in the Philippines
+# Www.sabong.net.ph Privacy Website and Company Information Cockfighting and Gamefowl in the Philippines
 
   
 
 
-[](http://sabong.com.ph/ads/ads.cgi?banner=NonSSI;page=01)  
-Advertisement: Please support our sponsors.
+**Warning** : main(/home/httpd/vhosts/Sabong.net.Ph/httpdocs/assets/design/ads.inc): failed to open stream: No such file or directory in **/home/sabong/public_html/assets/design/header.inc** on line **118**
+
+**Warning** : main(): Failed opening '/home/httpd/vhosts/Sabong.net.Ph/httpdocs/assets/design/ads.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in **/home/sabong/public_html/assets/design/header.inc** on line **118**
 
   
 
