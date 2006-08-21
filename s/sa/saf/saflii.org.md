@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saflii.org privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504043156id_/http%3A//www.saflii.org/saflii/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saflii.org privacy policy that was archived on 2006-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060821195818id_/http%3A//www.saflii.org/saflii/privacy.html) for the most accurate reproduction.*
 
 # SAFLII - About SAFLII: Privacy Policy
 
