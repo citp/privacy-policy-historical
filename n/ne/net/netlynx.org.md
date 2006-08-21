@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netlynx.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616060815id_/http%3A//netlynx.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlynx.org privacy policy that was archived on 2006-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060821212643id_/http%3A//www.netlynx.org/privacy.htm) for the most accurate reproduction.*
 
 # Netlynx Technologies » Domain Name Registration and Web Hosting Mumbai India
 
