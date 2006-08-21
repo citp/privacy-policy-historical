@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karelia.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617234739id_/http%3A//www.karelia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karelia.com privacy policy that was archived on 2006-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060821062830id_/http%3A//www.karelia.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Karelia Privacy Policy | Karelia Software
 
