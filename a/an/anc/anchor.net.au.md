@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anchor.net.au privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206204339id_/http%3A//www.anchor.net.au/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchor.net.au privacy policy that was archived on 2006-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060821064027id_/http%3A//www.anchor.net.au/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
-|   
+  webhosting australia, dedicated servers and co-location|   
   
 [](http://www.anchor.net.au/about.php)[](http://www.anchor.net.au/services.php)[](http://www.anchor.net.au/web-hosting-order.php)[](http://www.anchor.net.au/help.php)[](http://www.anchor.net.au/news.php)[](http://www.anchor.net.au/contact.php)|  |   
 [](http://www.anchor.net.au/)  
