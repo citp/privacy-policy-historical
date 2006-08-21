@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technocash.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627224335id_/http%3A//technocash.com/action.cfm%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technocash.com privacy policy that was archived on 2006-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060821212040id_/http%3A//www.technocash.com/action.cfm%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Technocash Privacy Statement
 
