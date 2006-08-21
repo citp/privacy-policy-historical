@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427174313id_/http%3A//virginmobile.com.au/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2006-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060821215806id_/http%3A//virginmobile.com.au/privacy_security.html) for the most accurate reproduction.*
 
 # Virgin Mobile Australia - mobile phones, cheap calls, free voicemail and no long-term contracts
 
