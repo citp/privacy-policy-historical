@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cheapstingybargains.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212559id_/http%3A//cheapstingybastard.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapstingybargains.com privacy policy that was archived on 2006-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060821112257id_/http%3A//cheapstingybargains.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **Privacy Statement**
 
-Cheap Stingy Bastard (CSB) takes privacy seriously.  You can browse the entire CSB Website without giving any of your personal information, including your email address.  This privacy statement applies to those instances when you do provide personal information. 
+Cheap Stingy Bargains (CSB) takes privacy seriously.  You can browse the entire CSB Website without giving any of your personal information, including your email address.  This privacy statement applies to those instances when you do provide personal information. 
 
 We will always disclose the CSB practices of gathering and disseminating personal information. 
 
@@ -16,7 +16,7 @@ When you browse the CSB Website, your IP address (the Internet address of your c
 
 Except for the use of cookies, we do not keep track of data or collect data apart from information you specifically provide to us.
 
-We use the information you provide for various purposes, such as requests for information made by you and providing you with the CSB newsletter.  All reasonable care is taken to prevent unauthorized access to your personal information, and personal information is never sold or transferred to any third parties.
+We use the information you provide for various purposes, such as requests for information made by you and providing you with the CSB newsletter. All reasonable care is taken to prevent unauthorized access to your personal information, and personal information is never sold or transferred to any third parties.
 
 **Security**
 
@@ -28,7 +28,7 @@ The CSB Website provides all users with the opportunity to opt-out of receiving 
 
 **Changes to Your Personal Information**
 
-At any time, you may change or modify personal information previously provided by you by sending a request to modify information to [cheapstingybastard@gmail.com](mailto:cheapstingybastard@gmail.com).  We will make every reasonable effort to update your personal information as requested, provided it does not compromise our security.
+At any time, you may change or modify personal information previously provided by you by sending a request to modify information to [csbaff@yahoo.com](mailto:csbaff@yahoo.com).  We will make every reasonable effort to update your personal information as requested, provided it does not compromise our security.
 
 **Changes to this Policy**
 
@@ -38,6 +38,6 @@ The CSB website contains links to other sites. We are not responsible for the pr
 
 If you have any questions regarding this privacy statement, or regarding the CSB Website in general, you may contact us at any time.
 
-_Cheap Stingy Bastard_
+_Cheap Stingy Bargains_
 
-[cheapstingybastard@gmail.com](mailto:cheapstingybastard@gmail.com)
+[cheapstingybargains@gmail.com](mailto:cheapstingybastard@gmail.com)
