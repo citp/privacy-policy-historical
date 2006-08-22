@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the solupress.com privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429060954id_/http%3A//www.inspironetworks.com/solupress/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solupress.com privacy policy that was archived on 2006-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060822213854id_/http%3A//www.solupress.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Solupress - [Privacy Policy]
-
-  
-
+# Solupress - The Fastest Way to Get Your News Online
 
 Solupress and its affiliated companies respects and is dedicated to honoring the preferences of our members concerning the collection, storage, access and use of their personally identifiable information collected online. Protecting privacy on the Internet is crucial to the future of Internet-based business and Solupress has created a privacy policy to demonstrate its firm commitment to secure and trustworthy Internet commerce. We intend to use such information for purposes of supporting your relationship with Solupress by designing a web site content that is suitable to your needs and alerting you to new product and service offerings as they become available. To ensure accuracy and security, Solupress reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how Solupress collects and uses personal information. By using our web site, you consent to the collection and use of your personal information by Solupress. If you have questions regarding our Privacy Policy, please contact us at [info@solupress.com](mailto:info@solupress.com). 
 
@@ -19,4 +16,4 @@ Solupress and its affiliated companies respects and is dedicated to honoring the
 
 **6\. External Links.** Solupress web site provides links to other third party web sites. Even if the third party is affiliated with Solupress through a business partnership or otherwise, Solupress is not responsible for the privacy policies or practices or the content of such external links. These links are provided to you for convenience purposes only and you access them at your own risk. 
 
-**7\. Terms of Service.** Please also see Solupress's [Terms Of Service](https://web.archive.org/web/20060429060954id_/http%3A//www.inspironetworks.com/solupress/termsofservice.html), which describes the use, disclaimers, indemnification and limitation of liability governing the use of the entire Solupress web site. 
+**7\. Terms of Service.** Please also see Solupress's [Terms Of Service](https://web.archive.org/web/20060822213854id_/http%3A//www.solupress.com/termsofservice.html), which describes the use, disclaimers, indemnification and limitation of liability governing the use of the entire Solupress web site.
