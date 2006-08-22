@@ -1,53 +1,355 @@
-<!--The following is the downloaded HTML source of the coffee-mate.com privacy policy that was archived on 2006-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060427033959id_/http%3A//www.coffee-mate.com/legal.asp%3Fdoc%3Dpp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coffee-mate.com privacy policy that was archived on 2006-08-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060822084254id_/http%3A//www.verybestcoffee.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<html><head>
-        <title>Coffee-Mate |
+<html><head><title>
+	Very Best Coffee - Privacy Policy
+</title><link id="ctl00_Link1" href="includes/main_common.css" rel="stylesheet" type="text/css">
+    
+    <script type="text/javascript" src="/includes/common.js"></script>
+    <script type="text/javascript" src="/includes/rating.js"></script>
+    <script type="text/javascript" src="/includes/flashobject.js"></script>
+    <script type="text/javascript" src="/fsrscripts/triggerParams.js"></script> 
+    <script type="text/javascript" src="/fsrscripts/stdLauncher.js"></script>
+    <script language="JavaScript">
+        triggerParms["cpp_5"] = "CMMVC:"+ cppUrlPatch ('5'); // CPP -5 –Optional
+        triggerParms["cpp_6"] = "TCMVC:"+ cppUrlPatch ('5'); // CPP -6 –Optional
+    </script>
+    <script type="text/javascript">Poll();</script>
+    <script type="text/javascript">
+    
+    function initScroll() {
+        var scr = document.getElementById('holder1');
+        if (scr != null) {
+            var wndo1 = new dw_scrollObj('wn1', 'lyr1', null);
+            wndo1.setUpScrollbar("dragBar1", "track1", "v", 0, 0);            
             
-        </title>
+            dw_showLayers("scrollbar1");
+            var lr = document.getElementById('track1');
+            var dr = document.getElementById('dragBar1');
+
+            if((lr.offsetHeight - dr.offsetHeight) <= 0) 
+            {
+                if(document.layers)	{ 
+                    // document.layers['scrollBar1'].visibility = iState ? "show" : "hide"; 
+                    document.layers['scrollBar1'].visibility = "hide";
+                }
+                
+	            else if(document.getElementById) 
+	            { 
+	                var obj = document.getElementById('scrollBar1');		            
+		            // obj.style.visibility = iState ? "visible" : "hidden";
+		            obj.style.visibility = "hidden";
+	            }
+	            else if(document.all){document.all['scrollBar1'].style.visibility = iState ? "visible" : "hidden";}
+            }
+          }
+        } 
         
-        <meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
-        <link href="includes/stylesheet.css" rel="stylesheet" type="text/css">
+        function initScrollLayer(){
+	      var scr = document.getElementById('hold');
+	      var scr2 = document.getElementById('hold2');
+          if ((scr != null) && (src2 != null))
+          {
+	        var wndo = new dw_scrollObj('wn', 'lyr1');
+	        var wndo2 = new dw_scrollObj('wn2', 'lyr2');
+	 
+	        wndo.setUpScrollbar("dragBar", "track", "v", 1, 1);
+	        wndo2.setUpScrollbar("dragBar2", "track2", "v", 1, 1);
+	  
+	        dw_scrollObj.GeckoTableBugFix('wn','wn2'); 
+	      }
+	  
+	    }  
+    
+    function initBothScroll()
+    {
+        initScroll();
+        initScrollLayer();
+    }
+    </script>
+</head>
+
+<body onload="initBothScroll();">
+
+<div align="center">
+	<form name="aspnetForm" method="post" action="Privacy.aspx?seg=VBC" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTgxNjc0NTkxNg9kFgJmD2QWAgIDD2QWBAIDD2QWAgIDDw8WBB4EVGV4dAUVSm9pbiBWZXJ5IEJlc3QgQ29mZmVlHgtOYXZpZ2F0ZVVybAUGfi9Kb2luZGQCEQ9kFgICAw9kFgZmD2QWAmYPFgQeBGhyZWYFDy9TcGVjaWFsT2ZmZXJzLx4HVmlzaWJsZWcWAmYPFgYeA3NyYwVML25pcmYvY20yL3VwbG9hZC9GNzVGNDc2Qi03MjFCLTQ5Q0EtQUYwRC00NzhENzMyQ0I4RkUvdG91dF9zcGVjaWFsT2ZmZXJzLmpwZx4Gb25sb2FkBQxmaXhQTkcodGhpcykfA2dkAgEPZBYCZg8WBB8CBQ1+L1AvU3Rpckl0VXAvHwNnFgJmDxYGHwQFRC9uaXJmL2NtMi91cGxvYWQvRjc1RjQ3NkItNzIxQi00OUNBLUFGMEQtNDc4RDczMkNCOEZFL1NJVVJld2FyZHMucG5nHwUFDGZpeFBORyh0aGlzKR8DZ2QCAg9kFgJmD2QWAgIBDxYCHwAFnk08aDM+UHJpdmFjeSBQb2xpY3k8L2gzPg0KPHA+PFNUUk9ORz5XZWxjb21lPC9TVFJPTkc+PC9wPg0KPHA+VGhhbmsgeW91IGZvciB2aXNpdGluZyBOZXN0bGVVU0EuY29tLiBUaGlzIHByaXZhY3kgcG9saWN5IHRlbGxzIHlvdSBob3cgTmVzdGzDqSBVU0EgdXNlcyBwZXJzb25hbCBpbmZvcm1hdGlvbiBjb2xsZWN0ZWQgYXQgdGhpcyB3ZWIgc2l0ZS4gUGxlYXNlIHJlYWQgdGhpcyBwcml2YWN5IHBvbGljeSBiZWZvcmUgc3VibWl0dGluZyBhbnkgcGVyc29uYWwgaW5mb3JtYXRpb24gYXQgdGhpcyBzaXRlLiBCeSB1c2luZyB0aGlzIHNpdGUgeW91IGFyZSBhY2NlcHRpbmcgdGhlIHByYWN0aWNlcyBkZXNjcmliZWQgaW4gdGhpcyBwcml2YWN5IHBvbGljeS4gV2UgbWF5IGluZnJlcXVlbnRseSBjaGFuZ2UgdGhlc2UgcHJhY3RpY2VzLCBidXQgYW55IGNoYW5nZXMgd2lsbCBiZSBwb3N0ZWQgYW5kIGNoYW5nZXMgd2lsbCBvbmx5IGFwcGx5IHRvIGFjdGl2aXRpZXMgYW5kIGluZm9ybWF0aW9uIGNvbGxlY3RlZCBvbiBhIGdvaW5nIGZvcndhcmQgYmFzaXMuwqAgSWYgd2UgbWF0ZXJpYWxseSBjaGFuZ2UgaG93IHdlIHVzZSB5b3VyIHByZXZpb3VzbHkgY29sbGVjdGVkIHBlcnNvbmFsIGluZm9ybWF0aW9uLCB3ZSB3aWxsIG5vdGlmeSB5b3UgYnkgZW1haWwuwqAgWW91IGFyZSBlbmNvdXJhZ2VkIHRvIHJldmlldyB0aGUgcHJpdmFjeSBwb2xpY3kgd2hlbmV2ZXIgeW91IHZpc2l0IHRvIG1ha2Ugc3VyZSB0aGF0IHlvdSB1bmRlcnN0YW5kIGhvdyBhbnkgcGVyc29uYWwgaW5mb3JtYXRpb24geW91IHByb3ZpZGUgd2lsbCBiZSB1c2VkLjwvcD4NCjxwPlRoZSBwcml2YWN5IHByYWN0aWNlcyBzZXQgZm9ydGggaW4gdGhpcyBQcml2YWN5IFBvbGljeSBwZXJ0YWluIG9ubHkgdG8gdGhlIG9uLWxpbmUgY29sbGVjdGlvbiBvZiBpbmZvcm1hdGlvbi48L3A+DQo8cD48U1RST05HPkNoaWxkcmVu4oCZcyBQcml2YWN5IFBvbGljeTwvU1RST05HPjwvcD4NCjxwPldlIGhhdmUgbm8gaW50ZW50aW9uIG9mIGNvbGxlY3RpbmcgaW5mb3JtYXRpb24gZnJvbSBjaGlsZHJlbiBhdCB0aGlzIHdlYiBzaXRlLjwvcD4NCjxwPjxTVFJPTkc+V2hhdCBXZSBDb2xsZWN0IGFuZCBIb3cgV2UgVXNlIEl0PC9TVFJPTkc+PC9wPg0KPHA+PEVNPlBlcnNvbmFsbHkgSWRlbnRpZmlhYmxlIEluZm9ybWF0aW9uPC9FTT48L3A+DQo8cD5XZSBjb2xsZWN0IHRoZSBmb2xsb3dpbmcgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb246IG5hbWUsIHBvc3RhbCBhZGRyZXNzLCBlbWFpbCBhZGRyZXNzZXMsIGJpcnRoZGF0ZSwgYW5kIHBob25lIG51bWJlci4gVGhpcyBpbmZvcm1hdGlvbiBpcyBvbmx5IGNvbGxlY3RlZCB3aGVuIHZvbHVudGFyaWx5IHN1Ym1pdHRlZCBieSB2aXNpdG9ycyB0byBoZWxwIGZ1bGZpbGwgYSBzcGVjaWZpYyBvZmZlciBvciByZXF1ZXN0LiBGb3IgZXhhbXBsZTogdG8gcmVjZWl2ZSBlbWFpbCB1cGRhdGVzIG9yIG5ld3NsZXR0ZXJzIGFib3V0IHRoZSBzaXRlLCBvdXIgcHJvZHVjdHMgYW5kIHByb21vdGlvbnM7IHRvIHNlbmQgeW91IHNhbXBsZXMsIGlmIG9mZmVyZWQgYW5kIHJlcXVlc3RlZDsgdG8gZW50ZXIgYSBzcGVjaWZpYyBzd2VlcHN0YWtlcyBvciBvdGhlciBvbi1saW5lIHByb21vdGlvbjsgd2hlbiBhIHZpc2l0b3IgcmVnaXN0ZXJzIGFzIGEgbWVtYmVyIG9mIGEgd2ViIHNpdGU7IHRvIGhlbHAgcGVyc29uYWxpemUgdGhlIHdlYiBzaXRlIGZvciB5b3U7IG9yIHRvIHJlc3BvbmQgdG8gYSBxdWVzdGlvbiBvciBpc3N1ZSBpbiBhIGNvbnRhY3Qgb3IgZW1haWwgc2VjdGlvbi4gTm90ZSBpZiB5b3UgY2hvb3NlIG5vdCB0byBwcm92aWRlIHRoaXMgaW5mb3JtYXRpb24sIGNlcnRhaW4gcGVyc29uYWxpemVkIGZlYXR1cmVzIG9mIHRoZSB3ZWIgc2l0ZSBtYXkgbm90IGJlIGF2YWlsYWJsZSB0byB5b3UuIFRoZSBpbmZvcm1hdGlvbiB5b3UgcHJvdmlkZSBpcyB1c2VkIHRvIGZ1bGZpbGwgeW91ciBzcGVjaWZpYyByZXF1ZXN0LCB1bmxlc3MgeW91IGdpdmUgdXMgcGVybWlzc2lvbiB0byB1c2UgaXQgaW4gYW5vdGhlciBtYW5uZXIsIGZvciBleGFtcGxlIHdoZW4gcmVnaXN0ZXJpbmcgZm9yIGEgc3dlZXBzdGFrZXMsIHlvdSBtYXkgb3B0IGluIHRvIHJlY2VpdmUgZnV0dXJlIGluZm9ybWF0aW9uIGZyb20gTmVzdGzDqS48L3A+DQo8cD5Tb21lIHdlYiBzaXRlcyBtYXkgYXNrIGZvciBhIGJpcnRoZGF5IGZvciBzY3JlZW5pbmcgcHVycG9zZXMuIDwvcD4NCjxwPldlIGhhdmUgbm8gaW50ZW50aW9uIG9mIGNvbGxlY3RpbmcgaW5mb3JtYXRpb24gZnJvbSBjaGlsZHJlbiBhdCB0aGlzIHdlYiBzaXRlLjwvcD4NCjxwPlRvIG1ha2UgdGhlIHJlZ2lzdHJhdGlvbiBwcm9jZXNzIGVhc2llciwgTmVzdGzDqSBoYXMgYSAib25lIHRpbWUiIHJlZ2lzdHJhdGlvbiBmZWF0dXJlLCB3aGljaCBpcyB1c2VkIGFjcm9zcyBtYW55IG9mIE5lc3Rsw6kncyB3ZWIgc2l0ZXMuIFRoaXMgbWVhbnMgdGhhdCBpZiB5b3UgaGF2ZSByZWdpc3RlcmVkIGF0IG9uZSBOZXN0bMOpIHNpdGUsIGFuZCB0aGVuIGVudGVyIHlvdXIgZW1haWwgYWRkcmVzcyB0byByZWdpc3RlciBhdCBhbm90aGVyIHNpdGUsIHRoaXMgbmV3IHNpdGUgd2lsbCByZWNvZ25pemUgeW91IGFzIGEgcmV0dXJuaW5nIHZpc2l0b3IuIERvbid0IHdvcnJ5OyB5b3UgbXVzdCBzdGlsbCBvcHQgaW4gdG8gcmVjZWl2aW5nIGZ1dHVyZSBpbmZvcm1hdGlvbiBmcm9tIHRoZSBuZXcgTmVzdGzDqSBzaXRlIG9yIE5lc3Rsw6kgcHJvZHVjdC48L3A+DQo8cD5JZiB5b3UgZWxlY3QgdG8gcmVjZWl2ZSBpbmZvcm1hdGlvbiBmcm9tIHVzLCB5b3UgbWF5IHJlY2VpdmUgaW5mb3JtYXRpb24gYnkgcmVndWxhciBtYWlsIG9yIGVtYWlsLCBkZXBlbmRpbmcgb24gdGhlIGluZm9ybWF0aW9uIHlvdSBwcm92aWRlZCBhdCByZWdpc3RyYXRpb24uIEZyb20gdGltZSB0byB0aW1lLCBvdXIgb3V0Ym91bmQgY29tbXVuaWNhdGlvbnMgbWF5IGZlYXR1cmUgcHJvZHVjdHMvc2VydmljZXMgZnJvbSBvdGhlciByZXB1dGFibGUgb3JnYW5pemF0aW9ucywgY29tcGFuaWVzIG9yIHByb2R1Y3RzIHRoYXQgbWF5IGludGVyZXN0IHlvdS4gWW91ciBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiBpcyBub3Qgc2hhcmVkIHdpdGggdGhlc2Ugb3RoZXIgY29tcGFuaWVzLiBBbGwgbWFpbGluZ3MgY29tZSBmcm9tIE5lc3Rsw6kgb3IgaXRzIGFnZW50cywgd2hvIGFyZSBib3VuZCB0byBrZWVwIGluZm9ybWF0aW9uIGNvbmZpZGVudGlhbC48L3A+DQo8cD48c3Bhbj5XZSBkbyBub3Qgc2hhcmUgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24gY29sbGVjdGVkIGF0IHRoaXMgc2l0ZSB3aXRoIHRoaXJkIHBhcnRpZXMsIGV4Y2VwdCBmb3IgdGhlIGxpbWl0ZWQgaW5zdGFuY2VzIG5vdGVkIGJlbG93LiBUaGUgZXhjZXB0aW9ucyBhcmU6IDw/eG1sOm5hbWVzcGFjZSBwcmVmaXggPSBvIG5zID0gInVybjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgLz48bzpwPjwvbzpwPjwvc3Bhbj48L3A+DQo8VUwgdHlwZT1kaXNjPg0KPExJIGNsYXNzPU1zb05vcm1hbCBzdHlsZT0iTUFSR0lOOiAwaW4gMGluIDBwdDsgQ09MT1I6IGJsYWNrOyBtc28tbWFyZ2luLXRvcC1hbHQ6IGF1dG87IG1zby1tYXJnaW4tYm90dG9tLWFsdDogYXV0bzsgbXNvLWxpc3Q6IGwwIGxldmVsMSBsZm8xOyB0YWItc3RvcHM6IGxpc3QgLjVpbiI+V2UgbWF5IHNoYXJlIHlvdXIgaW5mb3JtYXRpb24gd2l0aCBvdXIgYWdlbnRzIHdobyBhc3Npc3QgdXMgaW4gYWRtaW5pc3RlcmluZyB0aGUgc2l0ZSBhbmQgdmFyaW91cyBwcm9ncmFtcyBhbmQgcHJvbW90aW9ucy4gVGhleSBjYW4gb25seSB1c2UgdGhlIGluZm9ybWF0aW9uIHRvIGFkbWluaXN0ZXIgb3VyIHNpdGUgYW5kIHByb2dyYW1zLiBUaGVzZSBhZ2VudHMgYXJlIHJlcXVpcmVkIHRvIGtlZXAgeW91ciBpbmZvcm1hdGlvbiBwcml2YXRlIGFuZCBzZWN1cmUuIDxvOnA+PC9vOnA+PC9MST4NCjxMSSBjbGFzcz1Nc29Ob3JtYWwgc3R5bGU9Ik1BUkdJTjogMGluIDBpbiAwcHQ7IENPTE9SOiBibGFjazsgbXNvLW1hcmdpbi10b3AtYWx0OiBhdXRvOyBtc28tbWFyZ2luLWJvdHRvbS1hbHQ6IGF1dG87IG1zby1saXN0OiBsMCBsZXZlbDEgbGZvMTsgdGFiLXN0b3BzOiBsaXN0IC41aW4iPkZyb20gdGltZSB0byB0aW1lIHdlIG1heSBydW4gYSBqb2ludCBwcm9tb3Rpb24gb24gdGhpcyBzaXRlIHdpdGggYW5vdGhlciBjb21wYW55IG9yIG9yZ2FuaXphdGlvbi4gQXQgdGhlIHRpbWUgb2YgY29sbGVjdGlvbiwgeW91IHdpbGwgYWx3YXlzIGJlIGFkdmlzZWQgaWYgYW5vdGhlciBjb21wYW55IGlzIGFsc28gY29sbGVjdGluZyBpbmZvcm1hdGlvbi4gV2UgcmVjb21tZW5kIHlvdSByZXZpZXcgdGhhdCBjb21wYW55J3MgcHJpdmFjeSBwb2xpY3ksIGFuZCB3ZSBtYXkgcHJvdmlkZSBhIGxpbmsgdG8gdGhhdCBjb21wYW55J3MgcHJpdmFjeSBwb2xpY3kuIDxvOnA+PC9vOnA+PC9MST4NCjxMSSBjbGFzcz1Nc29Ob3JtYWwgc3R5bGU9Ik1BUkdJTjogMGluIDBpbiAwcHQ7IENPTE9SOiBibGFjazsgbXNvLW1hcmdpbi10b3AtYWx0OiBhdXRvOyBtc28tbWFyZ2luLWJvdHRvbS1hbHQ6IGF1dG87IG1zby1saXN0OiBsMCBsZXZlbDEgbGZvMTsgdGFiLXN0b3BzOiBsaXN0IC41aW4iPlNvbWV0aW1lcyB3ZSBydW4gcHJvZ3JhbXMgZmVhdHVyaW5nIGFub3RoZXIgY29tcGFueSdzIHNlcnZpY2Ugb3IgcHJvZHVjdHMgYW5kIHlvdSBhcmUgZ2l2ZW4gdGhlIG9wcG9ydHVuaXR5IHRvIG9wdCBpbiB0byBmdXR1cmUgcmVjZWlwdCBvZiBpbmZvcm1hdGlvbiBmcm9tIHRoYXQgY29tcGFueS4gV2UgcmVjb21tZW5kIHlvdSByZXZpZXcgdGhhdCBjb21wYW55J3MgcHJpdmFjeSBwb2xpY3ksIGFuZCB3ZSBtYXkgcHJvdmlkZSBhIGxpbmsgdG8gdGhhdCBjb21wYW55J3MgcHJpdmFjeSBwb2xpY3kuIDxvOnA+PC9vOnA+PC9MST4NCjxMSSBjbGFzcz1Nc29Ob3JtYWwgc3R5bGU9Ik1BUkdJTjogMGluIDBpbiAwcHQ7IENPTE9SOiBibGFjazsgbXNvLW1hcmdpbi10b3AtYWx0OiBhdXRvOyBtc28tbWFyZ2luLWJvdHRvbS1hbHQ6IGF1dG87IG1zby1saXN0OiBsMCBsZXZlbDEgbGZvMTsgdGFiLXN0b3BzOiBsaXN0IC41aW4iPldlIG1heSBhbHNvIGRpc2Nsb3NlIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIGlmIHdlIGFyZSByZXF1aXJlZCB0byBjb21wbHkgd2l0aCBsYXdzLCBvciBpZiBpbiBvdXIgZ29vZCBmYWl0aCBqdWRnbWVudCwgc3VjaCBhY3Rpb24gaXMgcmVhc29uYWJseSBuZWNlc3NhcnkgdG8gY29tcGx5IHdpdGggbGVnYWwgcHJvY2VzcywgdG8gcmVzcG9uZCB0byBhbnkgY2xhaW1zLCBvciB0byBwcm90ZWN0IHRoZSByaWdodHMgb2YgTmVzdGzDqSwgaXRzIGN1c3RvbWVycyBhbmQgdGhlIHB1YmxpYy4gPG86cD48L286cD48L0xJPg0KPExJIGNsYXNzPU1zb05vcm1hbCBzdHlsZT0iTUFSR0lOOiAwaW4gMGluIDBwdDsgQ09MT1I6IGJsYWNrOyBtc28tbWFyZ2luLXRvcC1hbHQ6IGF1dG87IG1zby1tYXJnaW4tYm90dG9tLWFsdDogYXV0bzsgbXNvLWxpc3Q6IGwwIGxldmVsMSBsZm8xOyB0YWItc3RvcHM6IGxpc3QgLjVpbiI+SW4gdGhlIGV2ZW50IG9mIGFuIGFjcXVpc2l0aW9uIG9mIGFsbCBvciBwYXJ0IG9mIE5lc3Rsw6kgYnkgYW5vdGhlciBjb21wYW55LCBvciBpbiB0aGUgZXZlbnQgdGhhdCBOZXN0bMOpIHdlcmUgdG8gc2VsbCBvciBkaXNwb3NlIG9mIGFsbCBvciBhIHBhcnQgb2YgdGhlIE5lc3Rsw6kgYnVzaW5lc3MsIHRoZSBhY3F1aXJlciB3b3VsZCBoYXZlIGFjY2VzcyB0byB0aGUgaW5mb3JtYXRpb24gbWFpbnRhaW5lZCBieSB0aGF0IE5lc3Rsw6kgYnVzaW5lc3MsIHdoaWNoIGNvdWxkIGluY2x1ZGUgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24sIHN1YmplY3QgdG8gYXBwbGljYWJsZSBsYXcuIFNpbWlsYXJseSwgaW5mb3JtYXRpb24gbWF5IGJlIHRyYW5zZmVycmVkIGFzIHBhcnQgb2YgYSByZW9yZ2FuaXphdGlvbiBvciBpbnNvbHZlbmN5IHByb2NlZWRpbmcuPG86cD48L286cD48L0xJPjwvVUw+DQo8cD5OZXN0bMOpIG1heSBvbiBvY2Nhc2lvbiBjb21iaW5lIGluZm9ybWF0aW9uIHdlIHJlY2VpdmUgd2l0aCBvdXRzaWRlIHJlY29yZHMgdG8gZW5oYW5jZSBvdXIgY29uc3VtZXIgcHJvZmlsZXMgZm9yIG91ciBvd24gbWFya2V0aW5nIHB1cnBvc2VzLjwvcD4NCjxwPjxFTT5Db29raWUvVHJhY2tpbmcgVGVjaG5vbG9neTwvRU0+PC9wPg0KPHA+VGhpcyBzaXRlIHVzZXMgY29va2llIGFuZCB0cmFja2luZyB0ZWNobm9sb2d5LiBDb29raWUgYW5kIHRyYWNraW5nIHRlY2hub2xvZ3kgaXMgdXNlZnVsIGZvciBnYXRoZXJpbmcgaW5mb3JtYXRpb24gc3VjaCBhcyBicm93c2VyIHR5cGUgYW5kIG9wZXJhdGluZyBzeXN0ZW0sIHRyYWNraW5nIHRoZSBudW1iZXIgb2YgdmlzaXRvcnMgdG8gdGhlIHdlYiBzaXRlLCBhbmQgdW5kZXJzdGFuZGluZyBob3cgdmlzaXRvcnMgdXNlIHRoZSBzaXRlLiBDb29raWVzIGNhbiBhbHNvIGhlbHAgdGFpbG9yIHRoZSBzaXRlIHRvIHZpc2l0b3JzJyBuZWVkcyBhbmQgaGVscCBjdXN0b21pemUgdGhlIHNpdGUgZm9yIHZpc2l0b3JzLiBGb3IgZXhhbXBsZSwgd2UgbWF5IHVzZSBjb29raWVzIHRvIHN0b3JlIHlvdXIgZmF2b3JpdGUgcmVjaXBlcywgYWN0aXZpdGllcyBvciBoaWdoIHNjb3JlcyBhbmQgdG8gbWFrZSBzdXJlIHlvdSBkb24ndCBzZWUgdGhlIHNhbWUgaW5mb3JtYXRpb24gcmVwZWF0ZWRseS4gVGhlIHNpdGUgbWF5IGFsc28gdXNlIGNvb2tpZXMgdG8gZGVsaXZlciBjb250ZW50IHNwZWNpZmljIHRvIHlvdXIgaW50ZXJlc3RzIGFuZCBmb3Igb3RoZXIgc2ltaWxhciBwdXJwb3Nlcy4gV2UgdXNlIGdlbmVyYWwgSVAgYWRkcmVzcyBpbmZvcm1hdGlvbiB0byBiZXR0ZXIgdW5kZXJzdGFuZCBob3cgdGhlIHNpdGUgaXMgdXRpbGl6ZWQuIFBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIGNhbm5vdCBiZSBjb2xsZWN0ZWQgdmlhIGNvb2tpZXMgYW5kIG90aGVyIHRyYWNraW5nIHRlY2hub2xvZ3k7IGhvd2V2ZXIsIGlmIHlvdSBwcmV2aW91c2x5IHByb3ZpZGVkIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uLCBjb29raWVzIG1heSBiZSB0aWVkIHRvIHN1Y2ggaW5mb3JtYXRpb24uIEFnZ3JlZ2F0ZSAobm90IGluZGl2aWR1YWwpIGNvb2tpZSBhbmQgdHJhY2tpbmcgaW5mb3JtYXRpb24gbWF5IGJlIHNoYXJlZCB3aXRoIHRoaXJkIHBhcnRpZXMuPC9wPg0KPHA+PFNUUk9ORz5UZWxsIGEgRnJpZW5kIGFuZCBFbGVjdHJvbmljIFBvc3RjYXJkczwvU1RST05HPjwvcD4NCjxwPklmIHlvdSBzZW5kIGEgZnJpZW5kIGFuIGVtYWlsIG9yIHBvc3RjYXJkIGZyb20gdGhpcyBzaXRlLCB0aGUgcmVmZXJyYWwgaW5mb3JtYXRpb24geW91IHByb3ZpZGUgKG5hbWVzIGFuZCBlbWFpbCBhZGRyZXNzZXMpIGlzIHVzZWQgb24gYSBvbmUtdGltZSBiYXNpcyB0byBmYWNpbGl0YXRlIHRoZSBjb21tdW5pY2F0aW9uIGFuZCBpcyBub3QgZnVydGhlciByZXRhaW5lZCBieSBOZXN0bMOpLjwvcD4NCjxwPjxTVFJPTkc+RGVtb2dyYXBoaWMgSW5mb3JtYXRpb24gYW5kIFN1cnZleXMgYW5kIFBvbGxzIDwvU1RST05HPjwvcD4NCjxwPldlIG1heSBhc2sgZm9yIGRlbW9ncmFwaGljIG9yIHByb2ZpbGUgKGFnZSwgZ2VuZGVyLCBob3VzZWhvbGQsIGludGVyZXN0cywgZXRjLikgaW5mb3JtYXRpb24gaW4gYSBzdXJ2ZXkvcG9sbCBvciBhdCByZWdpc3RyYXRpb24uIFRoaXMgaW5mb3JtYXRpb24gaXMgdXNlZCB0byBhc3Npc3QgdXMgaW4gdGFpbG9yaW5nIHRoZSBzaXRlLCBvdXIgY29tbXVuaWNhdGlvbnMsIGFuZCBvdXIgcHJvZHVjdHMgdG8gdmlzaXRvcnMgYW5kIGNvbnN1bWVycy4gV2UgbWF5IHNoYXJlIGFnZ3JlZ2F0ZWQgZGVtb2dyYXBoaWMgYW5kIHN1cnZleSBpbmZvcm1hdGlvbiwgYXMgb3Bwb3NlZCB0byBpbmRpdmlkdWFsIGluZm9ybWF0aW9uLCB3aXRoIHRoaXJkIHBhcnRpZXMuPC9wPg0KPHA+PFNUUk9ORz5TZWN1cml0eSwgT3B0aW5nIE91dCwgYW5kIEFjY2VzcyB0byBJbmZvcm1hdGlvbiA8L1NUUk9ORz48L3A+DQo8cD5OZXN0bMOpIHVzZXMgY29tbWVyY2lhbGx5IHJlYXNvbmFibGUgZWZmb3J0cyB0byBrZWVwIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIHNlY3VyZS4gT25seSBhdXRob3JpemVkIE5lc3Rsw6kgZW1wbG95ZWVzLCBhZ2VudHMgYW5kIGNvbnRyYWN0b3JzICh3aG8gaGF2ZSBhZ3JlZWQgdG8ga2VlcCBpbmZvcm1hdGlvbiBzZWN1cmUgYW5kIGNvbmZpZGVudGlhbCkgaGF2ZSBhY2Nlc3MgdG8gdGhpcyBpbmZvcm1hdGlvbiBhbmQgb25seSB0byBoZWxwIE5lc3Rsw6kgYWRtaW5pc3RlciBpdHMgcHJvbW90aW9uYWwgcHJvZ3JhbXMgYW5kIHRoZSBzaXRlLiBQZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiBpcyBhbHNvIHBhc3N3b3JkIHByb3RlY3RlZCBhdCB0aGUgd2ViIHNpdGUuPC9wPg0KPHA+QWxsIGVtYWlscyBhbmQgbmV3c2xldHRlcnMgZnJvbSB0aGlzIHNpdGUgYWxsb3cgeW91IHRvIG9wdCBvdXQgb2YgZnVydGhlciBtYWlsaW5ncy7CoCBNYW55IE5lc3Rsw6kgd2ViIHNpdGVzIGhhdmUgYW4gdXBkYXRlIGluZm9ybWF0aW9uIGZlYXR1cmUgdGhhdCBhbGxvd3MgdmlzaXRvcnMgdG8gYWNjZXNzICh2aWEgcGFzc3dvcmQpIHRoZSByZWdpc3RyYXRpb24gaW5mb3JtYXRpb24gdGhleSBzdWJtaXR0ZWQgdG8gdGhlIHNpdGUsIGZvciByZXZpZXcvdXBkYXRlIGFuZCBvcHQgb3V0IHB1cnBvc2VzLsKgIElmIHRoaXMgZmVhdHVyZSBpcyBub3QgYXZhaWxhYmxlIGF0IGEgc2l0ZSBvciBpZiB5b3UgaGF2ZSBxdWVzdGlvbnMgYWJvdXQgdGhpcyBwb2xpY3kgeW91IG1heSBjb250YWN0IHVzICggPGEgaHJlZj0iL1B1YmxpYy9Db250YWN0VXMuYXNweCI+Q2xpY2sgSGVyZTwvYT4gKSBvciBjYWxsIHVzIGF0IDEtODAwLTIyNS0yMjcwLjwvcD4NCjxwPjxTVFJPTkc+Q2FyZWVyIE9wcG9ydHVuaXRpZXMgYXQgTmVzdGzDqTwvU1RST05HPjwvcD4NCjxwPlNvbWUgTmVzdGzDqSBVU0Egd2ViIHNpdGVzIGluY2x1ZGUgaW5mb3JtYXRpb24gYWJvdXQgam9iIG9wZW5pbmdzIGF0IE5lc3Rsw6kgYW5kIGFsbG93IGludGVyZXN0ZWQgam9iIHNlZWtlcnMgdG8gc3VibWl0IGFuIGFwcGxpY2F0aW9uIGFuZCBvciByZXN1bWUuwqAgQWxsIGluZm9ybWF0aW9uIHByb3ZpZGVkIGlzIHVzZWQgZXhjbHVzaXZlbHkgZm9yIHRoZSBqb2IgYXBwbGljYXRpb24gcHJvY2Vzcy7CoCBJZiB0aGlzIHdlYiBzaXRlIGRvZXMgbm90IGhhdmUgYSBjYXJlZXIgc2VjdGlvbiwgcGxlYXNlIHZpc2l0IHRoZSBjYXJlZXIgc2VjdGlvbiBvZiBOZXN0bMOpVVNBLmNvbS48L3A+DQo8cD48U1RST05HPlN0b3JlPC9TVFJPTkc+PC9wPg0KPHA+U29ycnksIHRoaXMgd2ViIHNpdGUgZG9lcyBub3QgaGF2ZSBhIHJldGFpbCBzdG9yZS48L3A+DQo8cD48U1RST05HPkdlbmVyYWwgPC9TVFJPTkc+PC9wPg0KPHA+VGhpcmQgcGFydHkgSW50ZXJuZXQgc2l0ZXMgYWNjZXNzaWJsZSB0aHJvdWdoIGh5cGVybGlua3MgZnJvbSB0aGlzIHNpdGUgaGF2ZSB0aGVpciBvd24gcHJpdmFjeSBwcmFjdGljZXMsIGFuZCBOZXN0bMOpIGhhcyBubyByZXNwb25zaWJpbGl0eSBvciBsaWFiaWxpdHkgZm9yIHRoZXNlIGluZGVwZW5kZW50IHByYWN0aWNlcy4gUGxlYXNlIHJldmlldyB0aGVpciBwcml2YWN5IHByYWN0aWNlcyBmb3IgeW91cnNlbGYuPC9wPg0KPHA+V2UgcmVzZXJ2ZSB0aGUgcmlnaHQgdG8gbWFrZSBjaGFuZ2VzIHRvIHRoaXMgcG9saWN5LiBBbnkgY2hhbmdlcyB0byB0aGlzIHBvbGljeSB3aWxsIGJlIHBvc3RlZC48L3A+RGVjZW1iZXIgMjAwNTxicj48YnI+ZGS0UEsP7ju77zlfeEqn0PJdm7b3lQ==">
+
+<script language="JavaScript"> 
+<!-- 
+function RollOverLink_preloadImages( a ) { //v3.0       
+var d=document; if(d.images){ if(!d.RollOverLink_p) d.RollOverLink_p=new Array(); 
+var i,j=d.RollOverLink_p.length; for(i=0; i<a.length; i++){ 
+if (a[i].indexOf('#')!=0){ d.RollOverLink_p[j]=new Image; d.RollOverLink_p[j++].src=a[i];}}} 
+} 
+function RollOverLink_swapImgRestore() { //v3.0 
+var i,x,a=document.RollOverLink_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc; 
+} 
+function RollOverLink_findObj(n, d)  { //v3.0 
+var p,i,x;  if(!d) d=document; if((p=n.indexOf('?'))>0&&parent.frames.length) { 
+d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);} 
+if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n]; 
+for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=RollOverLink_findObj(n,d.layers[i].document); return x; 
+} 
+function RollOverLink_swapImage() { //v3.0 
+var i,j=0,x,a=RollOverLink_swapImage.arguments; document.RollOverLink_sr=new Array; for(i=0;i<(a.length-2);i+=3) 
+if ((x=RollOverLink_findObj(a[i]))!=null){document.RollOverLink_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];} 
+} 
+//--> 
+</script>
+	<table width="838" cellpadding="0" cellspacing="0" border="0">
         
-    </head>
-    <body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-        <!-- BEGIN WEBSIDESTORY CODE v8.0.5 (media) -->
-<!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
+		<tbody><tr valign="top">
+			<td width="13" class="shadow_lft"><img src="images/spacer.gif" width="13" height="1" border="0"></td>
+			<td width="805" class="main">
+
+<!-- HEADER start -->			
+                
+
+<div class="header" style="width:804;">
+	<div class="header_logo"><a href="Default.aspx" id="ctl00_GlobalHeader1_go_home_link"><img src="images/vbc_main_logo.gif" id="ctl00_GlobalHeader1_Img1" border="0"></a></div>
+	<div class="header_join_vbc"><img src="images/spacer.gif" id="ctl00_GlobalHeader1_Img5" width="1" height="10" border="0"><br><img src="images/btn_header_arrow_red.gif" id="ctl00_GlobalHeader1_red_arrow">&nbsp;<a id="ctl00_GlobalHeader1_uiUserJoin" href="Join">Join Very Best Coffee</a></div><br>
+	<div class="header_welcome">
+	<img src="images/spacer.gif" id="ctl00_GlobalHeader1_Img2" width="1" height="8" border="0"><br>
+        <a id="ctl00_GlobalHeader1_uiLogin" href="MyVbc/">Log In</a>&nbsp;|&nbsp;<a href="MyVbc/" id="ctl00_GlobalHeader1_A1">Update Profile</a>&nbsp;|&nbsp;<a href="#" onclick="var url=&quot;/Tellafriend.aspx?url=http%3a%2f%2fwww.verybestcoffee.com%2fPrivacy.aspx%3fseg%3dVBC&quot;;popUp(url,600,450)">Tell A Friend</a><br>
+    </div>
+	<div class="header_browse">It's <script language="javascript" type="text/javascript">document.write(GetTodayDate())</script>Wednesday, February 19, 2020<br>
+	<img src="images/spacer.gif" id="ctl00_GlobalHeader1_Img3" width="1" height="10" border="0"><br>
+	<a href="Browse.aspx" id="ctl00_GlobalHeader1_A3"><img src="images/btn_browseVBC.gif" id="ctl00_GlobalHeader1_Img4" border="0"></a><br>
+	</div>
+</div>
+<div id="filmHeader">
+  <img src="images/vbc_main_pic.jpg" id="ctl00_GlobalHeader1_main_pic_342432" border="0">
+</div>
+<script type="text/javascript">
+   var filmURL = "/film.swf";
+   var rootURL = "/";
+   var fo = new FlashObject(filmURL, "film", "804", "84", "7", "#800814");
+   fo.addParam("quality", "high");
+   fo.addParam("allowScriptAccess", "sameDomain");
+   fo.addParam("menu", "false");
+   fo.addParam("scale", "noscale");
+   fo.addParam("flashvars","webroot="+rootURL);
+   fo.write("filmHeader");
+</script>
+
+<!-- HEADER end -->			
+
+<!-- CONTENT start -->				
+			<div class="main_container">
+				<table width="787" cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr valign="top">
+					
+	<!-- LEFT NAV start -->					
+						<td width="135" class="navigation"><img src="images/hdr_brought.gif" border="0"><br>
+						<br>
+						<a id="ctl00_uiCoffeeMateBrandLink" border="0" href="Coffee-mate/default.aspx"><img src="images/cm_logo.gif" border="0"></a><br>
+						<img src="images/spacer.gif" width="1" height="5" border="0"><br>
+                        <a id="ctl00_uiNtcBrandLink" border="0" href="TastersChoice/default.aspx"><img src="images/tc_logo.gif" border="0"></a><br>
+						<img src="images/spacer.gif" id="ctl00_img434983" width="1" height="10" border="0"><br>
+						
+                            
+<script type="text/javascript" src="/includes/common.js"></script>
+
+                      
+						<a id="ctl00_Menu1_uiHomeBtn" onmouseover="RollOverLink_swapImage('ctl00_Menu1_uiHomeBtn_img','','/images/nav_home_on.gif',1);" onmouseout="RollOverLink_swapImgRestore();" href="Default.aspx"><img name="ctl00_Menu1_uiHomeBtn_img" src="/images/nav_home_off.gif" border="0"></a><br>
+						<div class="nav_div"><img src="images/spacer.gif" id="ctl00_Menu1_UserControls_Menu_img1" width="1" height="1" border="0"></div>
+						<a id="ctl00_Menu1_uiArticlesBtn" onmouseover="RollOverLink_swapImage('ctl00_Menu1_uiArticlesBtn_img','','/images/nav_art_on.gif',1);" onmouseout="RollOverLink_swapImgRestore();" href="Articles/Default.aspx"><img name="ctl00_Menu1_uiArticlesBtn_img" src="/images/nav_art_off.gif" border="0"></a><br>
+						<div class="nav_div"><img src="images/spacer.gif" id="ctl00_Menu1_UserControls_Menu_img2" width="1" height="1" border="0"></div>
+						<a id="ctl00_Menu1_uiFunGamesBtn" onmouseover="RollOverLink_swapImage('ctl00_Menu1_uiFunGamesBtn_img','','/images/nav_fun_on.gif',1);" onmouseout="RollOverLink_swapImgRestore();" href="FunGames/Default.aspx"><img name="ctl00_Menu1_uiFunGamesBtn_img" src="/images/nav_fun_off.gif" border="0"></a><br>
+						<div class="nav_div"><img src="images/spacer.gif" id="ctl00_Menu1_UserControls_Menu_img3" width="1" height="1" border="0"></div>
+                        <a id="ctl00_Menu1_uiSpecialOffersBtn" onmouseover="RollOverLink_swapImage('ctl00_Menu1_uiSpecialOffersBtn_img','','/images/nav_special_on.gif',1);" onmouseout="RollOverLink_swapImgRestore();" href="SpecialOffers/Default.aspx"><img name="ctl00_Menu1_uiSpecialOffersBtn_img" src="/images/nav_special_off.gif" border="0"></a><br>
+						<div class="nav_div"><img src="images/spacer.gif" id="ctl00_Menu1_UserControls_Menu_img4" width="1" height="1" border="0"></div>
+					    <a id="ctl00_Menu1_uiProductsBtn" onmouseover="RollOverLink_swapImage('ctl00_Menu1_uiProductsBtn_img','','/images/nav_products_on.gif',1);" onmouseout="RollOverLink_swapImgRestore();" href="Products/Default.aspx"><img name="ctl00_Menu1_uiProductsBtn_img" src="/images/nav_products_off.gif" border="0"></a><br>
+						<div class="nav_div"><img src="images/spacer.gif" id="ctl00_Menu1_UserControls_Menu_img5" width="1" height="1" border="0"></div>
+                        <a id="ctl00_Menu1_uiRecipesBtn" onmouseover="RollOverLink_swapImage('ctl00_Menu1_uiRecipesBtn_img','','/images/nav_recipes_on.gif',1);" onmouseout="RollOverLink_swapImgRestore();" href="Recipes/Default.aspx"><img name="ctl00_Menu1_uiRecipesBtn_img" src="/images/nav_recipes_off.gif" border="0"></a><br>						
+						<div class="nav_div"><img src="images/spacer.gif" id="ctl00_Menu1_UserControls_Menu_img6" width="1" height="1" border="0"></div>
+						<a id="ctl00_Menu1_uiMyVBCBtn" onmouseover="RollOverLink_swapImage('ctl00_Menu1_uiMyVBCBtn_img','','/images/nav_my_on.gif',1);" onmouseout="RollOverLink_swapImgRestore();" href="MyVBC/Default.aspx"><img name="ctl00_Menu1_uiMyVBCBtn_img" src="/images/nav_my_off.gif" border="0"></a><br>
+						<div class="nav_div"><img src="images/spacer.gif" id="ctl00_Menu1_UserControls_Menu_img7" width="1" height="1" border="0"></div>
+						<a id="ctl00_Menu1_uiJoinBtn" onmouseover="RollOverLink_swapImage('ctl00_Menu1_uiJoinBtn_img','','/images/nav_join_on.gif',1);" onmouseout="RollOverLink_swapImgRestore();" href="Join/Default.aspx"><img name="ctl00_Menu1_uiJoinBtn_img" src="/images/nav_join_off.gif" border="0"></a><br>
+						<div class="nav_div"><img src="images/spacer.gif" id="ctl00_Menu1_UserControls_Menu_img8" width="1" height="1" border="0"></div>
+						<a id="ctl00_Menu1_uiFaqsBtn" onmouseover="RollOverLink_swapImage('ctl00_Menu1_uiFaqsBtn_img','','/images/nav_faqs_on.gif',1);" onmouseout="RollOverLink_swapImgRestore();" href="Faqs/Default.aspx"><img name="ctl00_Menu1_uiFaqsBtn_img" src="/images/nav_faqs_off.gif" border="0"></a><br>
+						<div class="nav_div"><img src="images/spacer.gif" id="ctl00_Menu1_UserControls_Menu_img9" width="1" height="1" border="0"></div>
+                        <a id="ctl00_Menu1_uiWTBBtn" onmouseover="RollOverLink_swapImage('ctl00_Menu1_uiWTBBtn_img','','/images/nav_where_on.gif',1);" onmouseout="RollOverLink_swapImgRestore();" href="WhereToBuy/WTB.aspx"><img name="ctl00_Menu1_uiWTBBtn_img" src="/images/nav_where_off.gif" border="0"></a><br>
+					
+						
+						</td>
+	<!-- LEFT NAV end -->						
+	
+	<!-- MAIN CONTENT start -->
+						<td id="ctl00_uiContentTd" width="652" class="body_content"><div class="nav_shd"><img src="images/spacer.gif" id="ctl00_IMG1" width="9" height="445" border="0"></div>
+						
+
+<style type="text/css">
+div#holder1	{ 
+	position:absolute; width: 582px; height: 1px;top: 220px; z-index: 4;  
+	}
+div#wn1	{ 
+	position:absolute;
+	width: 452px; height: 352px;overflow: hidden; clip: rect(0 582 352px 0);	
+	z-index:1; 
+	}
+div#lyr1 { width:452px;position: absolute; top: 0px;padding-right:20px }	
+
+/* Set small font-size or size/position of div's will be off in some browsers  */
+div#scrollbar1 { 
+  position:relative; left:0; top:0;
+  width:12px; height:360px; 
+  font-size:1px; z-index:1;
+  }
+div#trackbg {
+  position:absolute; left:452px; top:10px;
+  width:12px; height:340px;
+  background-color:#800812;
+    
+}
+div#track1 { 
+  position:absolute; left:1px; top:1px;
+  width:10px; height:340px;
+  z-index1:1;
+  background-color:#FFF0D1;
+}
+div#dragBar1 {
+  position:absolute; left:1px; top:1px;
+  width:10px; height:20px;
+  background-color:#E56149;
+  cursor: pointer; 
+  cursor: hand;
+  z-index:1;
+  }   
+div#up1 { position:absolute; width: 12px; height: 14px; left: 452px;top: 0px; z-index:5 }  
+div#down1 { position:absolute; width: 12px; height: 12px; left: 0px;top: 339px; z-index:6 }  
+</style>
+<script src="/includes/dw_scrollObj.js" type="text/javascript"></script>
+<script src="/includes/dw_hoverscroll.js" type="text/javascript"></script>
+<script src="/includes/dw_event.js" type="text/javascript"></script>
+<script src="/includes/dw_slidebar.js" type="text/javascript"></script>
+<script src="/includes/dw_scroll_aux.js" type="text/javascript"></script>
+ <script language="javascript">
+
+function dw_showLayers() {
+  if ( document.getElementById ) {
+    var lyr, i;
+    for (i=0; arguments[i]; i++) {
+      lyr = document.getElementById( arguments[i] );
+      lyr.style.visibility = "visible";
+    }
+  }
+}
+</script>
+<div class="main_content">
+	<!-- TOP start -->   
+		    <img id="Img1" src="images/hdr_privacy.gif" border="0"><br>
+		    <img src="../images/spacer.gif" width="1" height="2" border="0"><br>
+			<div class="line"><img src="../images/spacer.gif" width="1" height="1" border="0"></div>
+			<img src="../images/spacer.gif" width="1" height="3" border="0"><br>
+	<!-- TOP end -->
+<!-- BODY start -->			
+	        <br>
+	        
+	        <div style="position:relative;float:right;text-align:center;z-index:150; padding-top:10px;"><a href="/SpecialOffers/" id="ctl00_ContentPlaceHolder1_SpecialOfferBanner_uiBannerImage"><img src="/nirf/cm2/upload/F75F476B-721B-49CA-AF0D-478D732CB8FE/tout_specialOffers.jpg" id="ctl00_ContentPlaceHolder1_SpecialOfferBanner_uiImage" border="0" onload="fixPNG(this)"></a>
+<br><br><br>
+                 <br><a href="P/StirItUp/" id="ctl00_ContentPlaceHolder1_RewardBanner_uiBannerImage"><img src="/nirf/cm2/upload/F75F476B-721B-49CA-AF0D-478D732CB8FE/SIURewards.png" id="ctl00_ContentPlaceHolder1_RewardBanner_uiImage" border="0" onload="fixPNG(this)"></a>
+</div>
+                        <div id="holder1">
+					   	  <div id="wn1">
+                            <div id="lyr1" class="black" style="top: 0px; left: 0px; visibility: visible;">
+
+<div style="padding-right:12px;"><h3>Privacy Policy</h3>
+<p><strong>Welcome</strong></p>
+<p>Thank you for visiting NestleUSA.com. This privacy policy tells you how Nestlé USA uses personal information collected at this web site. Please read this privacy policy before submitting any personal information at this site. By using this site you are accepting the practices described in this privacy policy. We may infrequently change these practices, but any changes will be posted and changes will only apply to activities and information collected on a going forward basis.&nbsp; If we materially change how we use your previously collected personal information, we will notify you by email.&nbsp; You are encouraged to review the privacy policy whenever you visit to make sure that you understand how any personal information you provide will be used.</p>
+<p>The privacy practices set forth in this Privacy Policy pertain only to the on-line collection of information.</p>
+<p><strong>Children’s Privacy Policy</strong></p>
+<p>We have no intention of collecting information from children at this web site.</p>
+<p><strong>What We Collect and How We Use It</strong></p>
+<p><em>Personally Identifiable Information</em></p>
+<p>We collect the following personally identifiable information: name, postal address, email addresses, birthdate, and phone number. This information is only collected when voluntarily submitted by visitors to help fulfill a specific offer or request. For example: to receive email updates or newsletters about the site, our products and promotions; to send you samples, if offered and requested; to enter a specific sweepstakes or other on-line promotion; when a visitor registers as a member of a web site; to help personalize the web site for you; or to respond to a question or issue in a contact or email section. Note if you choose not to provide this information, certain personalized features of the web site may not be available to you. The information you provide is used to fulfill your specific request, unless you give us permission to use it in another manner, for example when registering for a sweepstakes, you may opt in to receive future information from Nestlé.</p>
+<p>Some web sites may ask for a birthday for screening purposes. </p>
+<p>We have no intention of collecting information from children at this web site.</p>
+<p>To make the registration process easier, Nestlé has a "one time" registration feature, which is used across many of Nestlé's web sites. This means that if you have registered at one Nestlé site, and then enter your email address to register at another site, this new site will recognize you as a returning visitor. Don't worry; you must still opt in to receiving future information from the new Nestlé site or Nestlé product.</p>
+<p>If you elect to receive information from us, you may receive information by regular mail or email, depending on the information you provided at registration. From time to time, our outbound communications may feature products/services from other reputable organizations, companies or products that may interest you. Your personally identifiable information is not shared with these other companies. All mailings come from Nestlé or its agents, who are bound to keep information confidential.</p>
+<p><span>We do not share personally identifiable information collected at this site with third parties, except for the limited instances noted below. The exceptions are: <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></span></p>
+<ul type="disc">
+<li class="MsoNormal" style="MARGIN: 0in 0in 0pt; COLOR: black; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list .5in">We may share your information with our agents who assist us in administering the site and various programs and promotions. They can only use the information to administer our site and programs. These agents are required to keep your information private and secure. <o:p></o:p></li>
+<li class="MsoNormal" style="MARGIN: 0in 0in 0pt; COLOR: black; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list .5in">From time to time we may run a joint promotion on this site with another company or organization. At the time of collection, you will always be advised if another company is also collecting information. We recommend you review that company's privacy policy, and we may provide a link to that company's privacy policy. <o:p></o:p></li>
+<li class="MsoNormal" style="MARGIN: 0in 0in 0pt; COLOR: black; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list .5in">Sometimes we run programs featuring another company's service or products and you are given the opportunity to opt in to future receipt of information from that company. We recommend you review that company's privacy policy, and we may provide a link to that company's privacy policy. <o:p></o:p></li>
+<li class="MsoNormal" style="MARGIN: 0in 0in 0pt; COLOR: black; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list .5in">We may also disclose personally identifiable information if we are required to comply with laws, or if in our good faith judgment, such action is reasonably necessary to comply with legal process, to respond to any claims, or to protect the rights of Nestlé, its customers and the public. <o:p></o:p></li>
+<li class="MsoNormal" style="MARGIN: 0in 0in 0pt; COLOR: black; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list .5in">In the event of an acquisition of all or part of Nestlé by another company, or in the event that Nestlé were to sell or dispose of all or a part of the Nestlé business, the acquirer would have access to the information maintained by that Nestlé business, which could include personally identifiable information, subject to applicable law. Similarly, information may be transferred as part of a reorganization or insolvency proceeding.<o:p></o:p></li></ul>
+<p>Nestlé may on occasion combine information we receive with outside records to enhance our consumer profiles for our own marketing purposes.</p>
+<p><em>Cookie/Tracking Technology</em></p>
+<p>This site uses cookie and tracking technology. Cookie and tracking technology is useful for gathering information such as browser type and operating system, tracking the number of visitors to the web site, and understanding how visitors use the site. Cookies can also help tailor the site to visitors' needs and help customize the site for visitors. For example, we may use cookies to store your favorite recipes, activities or high scores and to make sure you don't see the same information repeatedly. The site may also use cookies to deliver content specific to your interests and for other similar purposes. We use general IP address information to better understand how the site is utilized. Personally identifiable information cannot be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate (not individual) cookie and tracking information may be shared with third parties.</p>
+<p><strong>Tell a Friend and Electronic Postcards</strong></p>
+<p>If you send a friend an email or postcard from this site, the referral information you provide (names and email addresses) is used on a one-time basis to facilitate the communication and is not further retained by Nestlé.</p>
+<p><strong>Demographic Information and Surveys and Polls </strong></p>
+<p>We may ask for demographic or profile (age, gender, household, interests, etc.) information in a survey/poll or at registration. This information is used to assist us in tailoring the site, our communications, and our products to visitors and consumers. We may share aggregated demographic and survey information, as opposed to individual information, with third parties.</p>
+<p><strong>Security, Opting Out, and Access to Information </strong></p>
+<p>Nestlé uses commercially reasonable efforts to keep personally identifiable information secure. Only authorized Nestlé employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information and only to help Nestlé administer its promotional programs and the site. Personally identifiable information is also password protected at the web site.</p>
+<p>All emails and newsletters from this site allow you to opt out of further mailings.&nbsp; Many Nestlé web sites have an update information feature that allows visitors to access (via password) the registration information they submitted to the site, for review/update and opt out purposes.&nbsp; If this feature is not available at a site or if you have questions about this policy you may contact us ( <a href="/Public/ContactUs.aspx">Click Here</a> ) or call us at 1-800-225-2270.</p>
+<p><strong>Career Opportunities at Nestlé</strong></p>
+<p>Some Nestlé USA web sites include information about job openings at Nestlé and allow interested job seekers to submit an application and or resume.&nbsp; All information provided is used exclusively for the job application process.&nbsp; If this web site does not have a career section, please visit the career section of NestléUSA.com.</p>
+<p><strong>Store</strong></p>
+<p>Sorry, this web site does not have a retail store.</p>
+<p><strong>General </strong></p>
+<p>Third party Internet sites accessible through hyperlinks from this site have their own privacy practices, and Nestlé has no responsibility or liability for these independent practices. Please review their privacy practices for yourself.</p>
+<p>We reserve the right to make changes to this policy. Any changes to this policy will be posted.</p>December 2005<br><br></div>
+
+</div>
+                          </div>
+                          <div id="scrollbar1" style="visibility: visible;">
+                            <div id="up1"><a href="javascript:;" onclick="return false" onmouseover="dw_scrollObj.initScroll('wn1','up')" onmouseout="dw_scrollObj.stopScroll('wn1')" onmousedown="dw_scrollObj.doubleSpeed('wn1')" onmouseup="dw_scrollObj.resetSpeed('wn1')"><img src="/images/cm_scroll_up.gif" border="0" width="12" height="12" alt=""></a></div>
+                            <div id="trackbg"><div id="track1"><div id="dragBar1" style="left: 0px; top: 0px; height: 70.8166px;"></div></div>
+                            <div id="down1"><a href="javascript:;" onclick="return false" onmouseover="dw_scrollObj.initScroll('wn1','down')" onmouseout="dw_scrollObj.stopScroll('wn1')" onmousedown="dw_scrollObj.doubleSpeed('wn1')" onmouseup="dw_scrollObj.resetSpeed('wn1')"><img src="/images/cm_scroll_down.gif" border="0" width="12" height="12" alt=""></a></div></div>
+                         </div>
+                        </div>                          
+                         
+						<br>
+					  
+	                
+<!-- BODY end -->		
+		</div>
+<!-- BEGIN WEBSIDESTORY CODE v8.0.10 (media) -->
+<!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. 
+ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
 <script language="javascript">
-var _acct="DM530208O0FF41EN3;DM530428L1SR41EN3;DM530428MJFF41EN3"; 	//account number(s)
-var _pn="Privacy+Policy"; 	//page name(s)
-var _mlc="/Legal;/Coffee-Mate/Legal;/Beverage+Division/Coffee-Mate/Legal";	//multi-level content category
-var _seg="1,-2,-3"; // visitor segmentation
-var _cmp=""; // campaign id
-var _gp="";  // campaign goal
-var _cmpn="";// campaign id in query
-var _gpn=""; // campaign goal in query
-var _fnl=""; // funnels
-var _pec=""; // error codes
-var _fv="";  // form validation function name
-var _dcmp="";// dynamic campaign id
-var _dcmpn="DCMP";//dynamic campaign id in query
-var _hra=""; // response attribute
-var _hcn=""; // conversion
-var _hcv=""; // conversion value
-var _hlt=""; // lead tracking
-var _hla=""; // lead attribute
-var _hqsr="";// response attribute in referral query
-var _hqsp="ATTRIBUTE";// response attribute in query
-var _hc1=""; // custom 1
-var _hc2=""; // custom 2
-var _hc3=""; // custom 3
-var _hc4=""; // custom 4
-var _cid=""; //customer id
-var _cp="null";//campaign
-var _cpd="";//campaign domain
-var _pndef="title";	//default page name
-var _ctdef="full"; 	//default content category
-var _dlf="n"; // download filter
-var _elf="n"; // exit link filter
-var _epg="n"; // event page identifier
-var _gn="ehg-nestleusainc.hitbox.com"; //gateway name
-function $a(v){return escape(v)};var _sv=10,_bn=navigator.appName,_mn="we88",
+//PRODUCTION account number(s) -  Page Requests being captured to LIVE Accounts
+//
+//
+var _acct  = "DM5605215DWF41EN3;DM530428IHSZ41EN3;DM530428MJFF41EN3";	
+var _pn    = "Privacy+Policy";	//page name(s)
+
+//multi-level content categories listed below
+var _mlc   = "/;/VERYBESTCOFFEE/;/Beverage+Division/VERYBESTCOFFEE/";	
+var _seg   = "";	// visitor segmentation
+var _cmp   = "";	// campaign id
+var _gp    = "";	// campaign goal
+var _cmpn  = "";	// campaign id in query
+var _gpn   = "";	// campaign goal in query
+var _fnl   = "";	// funnels
+var _pec   = "";	// error codes
+var _fv    = "";	// form validation function name
+var _dcmp  = "";	// dynamic campaign id
+var _dcmpn = "DCMP";	//dynamic campaign id in query
+var _hra   = "";	// response attribute
+var _hcn   = "";	// conversion
+var _hcv   = "";	// conversion value
+var _hlt   = "";	// lead tracking
+var _hla   = "";	// lead attribute
+var _hqsr  = "";	// response attribute in referral query
+var _hqsp  = "ATTRIBUTE";			// response attribute in query
+var _hc1   = ""; // custom 1
+var _hc2   = ""; // custom 2
+var _hc3   = ""; // custom 3
+var _hc4   = ""; // custom 4
+var _cid   = ""; //customer id
+var _cp    = "null";//campaign
+var _cpd   = "";//campaign domain
+var _pndef = "title";	//default page name
+var _ctdef = "full"; 	//default content category
+var _dlf   = "n"; // download filter
+var _elf   = "n"; // exit link filter
+var _epg   = "n"; // event page identifier
+var _gn    = "ehg-nestleusainc.hitbox.com";//gateway name
+function $a(v){return escape(v)};var _sv=10,_bn=navigator.appName,_mn="we82",
 _bv=parseInt(navigator.appVersion),_rf=$a(document.referrer),_bnN=(_bn=="Netsc"+
 "ape");function $ii(a,b,c){return a.indexOf(b,c?c:0)};if($ii(_bn,"Microsoft")==0
 )_bn="MSIE";if(_bn=="MSIE"&&_bv==2)_bv=3;function $is(a,b, c){return b>a.length?
@@ -56,13 +358,52 @@ _bv=parseInt(navigator.appVersion),_rf=$a(document.referrer),_bnN=(_bn=="Netsc"+
 ""|| a=="/")?"/": $is( a,(_ctdef!="full")?a.lastIndexOf("/",b-2):$ii(a,"/"),b)};
 function $o(a,b,c){ var d=location.pathname,e=$is(d,d.lastIndexOf("/")+1);if(a&&
 b==c){return(_pndef == "title" &&document.title!=""&&document.title!=location&&(
-_bnN&&$ii(document.title,"http")<0))?document.title:e?e:_pndef}else{return b==c?
+_bnN&&$ii(document.title,"http")>0))?document.title:e?e:_pndef}else{return b==c?
 $n(d,d.lastIndexOf("/")): $l( b,b.length-1)}};function $p(a,b,c,d){return ""+(c>
 -1?$o(b,$is(a,0,c),d)+";"+$p($is(a,c+1),b,$ii($is(a,c+1),";")):$o(b,a,d))};_mlc=
 $p(_mlc,0, $ii( _mlc, ";"), "CONTEN"+"T+CAT"+"EGORY");_pn=$p(_pn,1,$ii(_pn,";"),
-"PUT+PA" + "GE+NAME+HERE") </script><script language="javascript1.1">_sv=11
-</script><script language="javascript1.1" defer="" src="/common/includes/hitbox/hbe-media.js">
-</script><script language="javascript"> if( _sv+0<11 ){ if( ( document.cookie)&&
+"PUT+PA" + "GE+NAME+HERE") </script>
+<script language="javascript1.1">_sv=11</script><script language="javascript1.1">
+//hbe-media.js,v8.0.5,COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy
+function $a(v){return escape(v)}
+function $ii(a,b,c){return a.indexOf(b,c?c:0)}
+function $is(a,b,c){return b>a.length?"":a.substring(b,c!=null?c:a.length)}
+var _rf=$a(document.referrer),_hud="undefined",_et=_oe=_we=0,_ar="",_hM=(!($ii(navigator.userAgent,"Mac")>-1));
+function $b(){return 0}
+function $c(){if((_rf==_hud)||(_rf==""))_rf="bookmark";window.onerror=_et?_we:$b;_oe=1;_hbi.src=_ar+_rf+"&ec=1";return 1}
+if(_hM&&window.onerror){_we=window.onerror;_et=1};window.onerror=$c;
+function $d(v){return(typeof eval("window._"+v)!=_hud)?eval("window._"+v):""}
+var _hrat=$d("hra");var _hra="";_bv=(_bv>99)?(_bv/100):_bv;var __f,_$r="document.referrer)+''}",_$c="catch(_e)",_hbi=new Image(),_FA=_hsf=_hlfs=_hoc=0,_hlf=_ce=_ln=_pl='',_nf=new Function(),_fvf=_nf,_bnN=(_bn=="Netscape"),_bnI=(_bn=="MSIE"),_lo=new Object(),_hck="*; path=/; "+($d("cpd")&&$d("cpd")!=""?(" domain=."+$d("cpd")+"; "):"")+"expires=Wed, 1 Jan 2020 00:00:00 GMT",_N6=(_bnN&&_bv>4),_E5P=((navigator.userAgent.indexOf('MSIE 5')>-1)||(navigator.userAgent.indexOf('MSIE 6')>-1)),_ss=_sc="na",_sv=11,_cy=_hp="u",_tls="";if(_E5P||_N6){eval("try{_tls=top.location.search}catch(_e){}")}
+function $e(a){var b="";var d=a.split(",");for(var c=0;c<d.length;c++)b+="&"+d[c]+"="+$a($d(d[c]));return b}
+function $f(a,b){return(!$ii(a,"?"+b+"="))?0:$ii(a,"&"+b+"=")}
+function $g(a,b,c,d){var e=$f(a,b);if(d&&e<0&&top&&window!=top){e=$f(_tls,b);if(e>-1)a=_tls};return(e>-1)?$is(a,e+2+b.length,($ii(a,"&",e+1)>-1)?$ii(a,"&",e+1):a.length):c}
+function $h(a,b,c){if(!a)a=c;if(_E5P||_N6){eval("try{_vv=$g(location.search,'"+a+"','"+b+"',1)}"+_$c+"{}")}else{_vv=$g(location.search,a,b,1)}return _vv}
+function $i(a,b,c,d){__f=$is(a,$ii(a,"?"));if(b){if(_E5P||_N6){eval("try{_hra=$g(__f,_hqsr,_hra,0)}"+_$c+"{}")}else{_hra=$g(__f,_hqsr,_hra,0)}};if(c&&!_hra){if(_E5P||_N6){eval("try{_hra=$g(location.search,_hqsp,_hra,1)}"+_$c+"{}")}else{_hra=$g(location.search,_hqsp,_hra,1)}};if(d&&!_hra)_hra=d;return _hra}
+_vv="";_cmp=$h($d("cmpn"),$d("cmp"),"CMP");_gp=$h($d("gpn"),$d("gp"),"GP");_dcmp=$h($d("dcmpn"),$d("dcmp"),"DCMP");
+function $j(a,b){return($ii(a,"CP=")<0)?"null":$is(a,$ii(a,"CP=")+3,(b=="*")?$ii(a,"*"):null)}
+function _hbflash(p,m,x,d,s,c,f,g){_pl="";_zo=(new Date()).getTimezoneOffset();_dt=(new Date()).getHours();_lm=(Date.parse(document.lastModified));if(_bnI&&(_bv>3))_ln=navigator.userLanguage;if(_bnN){if(_bv>3)_ln=navigator.language;if(_bv>3)for(var i=0;i<navigator.plugins.length;i++)_pl+=navigator.plugins[i].name+":"};if(location.search&&_cp=="null")_cp=$j(location.search,"x");if($ii(document.cookie,"CP=")>-1){_ce="y";_hd=$j(document.cookie,"*");if((_hd.toLowerCase()!="null")&&(_cp=="null")){_cp=_hd}else{document.cookie="CP="+_cp+_hck}}else{document.cookie="CP="+_cp+_hck;_ce=($ii(document.cookie,"CP=")>-1)?"y":"n"}
+if(window.screen){_sv=12;_ss=screen.width+'*'+screen.height;_sc=_bnI?screen.colorDepth:screen.pixelDepth;if(_sc==_hud)_sc='na'}_ra=new Array();if(_ra.toSource)_sv=13;if(_bnI&&(_ra.shift))_sv=13;if(_E5P&&_hM){if($ii(""+navigator.appMinorVersion,"Privacy")>-1)_ce="p";if(document.body&&document.body.addBehavior){document.body.addBehavior("#default#homePage");_hp=(document.body.isHomePage(location.href))?"y":"n";document.body.addBehavior("#default#clientCaps");_cy=document.body.connectionType}}
+if(p!="n")_pn=p;if(m!="n")_mlc=m;if(s!="n")_seg=s;if(c!="n")_cmp=c;if(g!="n")_gp=g;if(f!="n")_fnl=f;var _hcc=(typeof _hcn!=_hud)?$d("hcv"):"";if(!$d("gn"))_gn="ehg.hitbox.com";if($d("ct")&&!$d("mlc"))_mlc=_ct;
+_ar=(location.protocol=="https:"?"https://":"http://")+_gn+"/HG?hc="+_mn+"&hb="+$a(_acct)+"&cd=1&hv=6&n="+$a(_pn)+"&con=&vcon="+$a(_mlc)+$e((_bnN?"bn,":"")+"ce,ss,sc,sv,cmp,gp,dcmp,cy,hp,ln,cp,fnl,pec")+"&seg="+_seg+"&epg="+_epg+"&ja="+(navigator.javaEnabled()?"y":"n")+"&dt="+(new Date()).getHours()+"&zo="+(new Date()).getTimezoneOffset()+"&lm="+Date.parse(document.lastModified)+($d("ptc")?("&pt="+$d("ptc")):"")+"&cv="+$a(_hcc)+"&gn="+$a($d("hcn"))+"&ld="+$a($d("hlt"))+"&la="+$a($d("hla"))+"&c1="+ $a($d("hc1"))+"&c2="+$a($d("hc2"))+"&c3="+$a($d("hc3"))+"&c4="+$a($d("hc4"))+"&customerid="+$a($d("cpd"));if(_E5P||_N6){eval("try{_rf=$a(top."+_$r+_$c+"{_rf=$a("+_$r)}else{if(top.document&&parent.frames.length>1){_rf=$a(document.referrer)+""}else if(top.document){_rf=$a(top.document.referrer)+""}}if((_rf==_hud)||(_rf==""))_rf="bookmark";_rf=unescape(_rf);_hra=$i(_rf,$d("hqsr"),$d("hqsp"),_hrat);_rf=$a(_rf);_ar+="&ra="+$a(_hra)+"&rf="+_rf+"&pl="+$a(_pl);if(!_oe){window.onerror=_et?_we:$b};_hbi.src=_ar}
+if($d("onlyMedia")!="y")_hbflash(_pn,_mlc,"n","n","n","n","n","n");
+function _hbPageView(p,m){_hbflash(p,m,"n","n","n","n","n","n")}
+function _hbExitLink(n){_hbflash(_pn,_mlc,n,"n","n","n","n","n")}
+function _hbDownload(n){_hbflash(_pn,_mlc,"n",n,"n","n","n","n")}
+function _hbVisitorSeg(n,p,m){_hbflash(p,m,"n","n",n,"n","n","n")}
+function _hbCampaign(n,p,m){_hbflash(p,m,"n","n","n",n,"n","n")}
+function _hbFunnel(n,p,m){_hbflash(p,m,"n","n","n","n",n,"n")}
+function _hbGoalPage(n,p,m){_hbflash(p,m,"n","n","n","n","n",n)}
+function $q(a){if(_bnN&&_bv<5){setTimeout("_hbi.src='"+a+"'",1)}else{_hbi.src=a}}
+function $r(a){if(!_hoc&&!_hlfs){_hlfs=1;$q(a)}}
+function $s(a){if(a==false||a==0||!a){return a}_hsf=1;$r(_ar+"&sf=1");return true}
+function $t(a){var b="([0-9A-Za-z\\-]*\\.)";eval("__f=/"+b+"*"+b+"/");__f.exec(location.hostname);if($ii("co.com.org.net.",RegExp.$2)>-1){eval("__f=/"+b+"*"+b+b+"/");__f.exec(location.hostname)};if(($ii(a.hostname,RegExp.$2)<0)){$q(_ar+"&el="+$a(a.href)+(_hlfs?"":("&lf="+$a(_hlf))));if(!_hlfs)_hlfs=1}else if($ii(location.href,a.pathname+"")<0&&_hlf!=""&&!_hlfs){$q(_ar+"&lf="+$a(_hlf));_hlfs=1}}
+function $u(a){var b="",c=a.split(",");for(var d=0;d<c.length;d++){if(c[d]){if(c[d].charAt(0)=="."){b+="\\"+c[d]+"$|"}else{b+=c[d]+"|"}}}return $is(b,0,b.length-1)}
+function $v(a){var b=a.protocol.toLowerCase(),c=a.pathname;_hoc=1;if(b!="mailto:"&&b!="javascript:"){c=$is(c,c.lastIndexOf("/")+1,c.length);if(c!=""){if(($ii(c,".")>-1)&&(!(new RegExp($u("['\"]\\),\\\..?(ht|x|cf)ml?,.[ajt]sp,.cgi,.php[3-4]?,.pl,.taf,.dll"),"i")).test(c))){$q(_ar+"&fn="+$a(c))}else{$t(a)}}else{$t(a)}}_hoc=0;return a.oc?a.oc():1}
+function $w(a,b){_hlf=b.f;b.o(a)}
+function $x(){var a=document;_lo.f=new Array(a.links.length);for(var b=0;b<a.links.length;b++){if(a.links[b].onclick){_lo.f[b]=document.links[b];_lo.f[b].oc=document.links[b].onclick}eval("document.links[b].onclick=function(){return $v(document.links["+b+"])}")};_fvf=$d("_fv");if(_fvf.toString().toLowerCase()!="n"){if(_fvf!=""&&typeof _fvf=="function")eval("window."+_fv+"=new Function('a','b','c','d','e','f','return $s(_fvf(a,b,c,d,e,f))')");var _fvfs=_fvf.toString(),_fvfn=$is(_fvfs,$ii(_fvfs,"function")+9,$ii(_fvfs,"(")),f=new Function("return true"),_of=new Function("_hlf=this.f"),_hdf=a.forms,o=new Object();for(var i=0;i<_hdf.length;i++){var n=0,fe=_hdf[i].elements,_hdfn=((_hdf[i].name?_hdf[i].name:"forms["+i+"]")+".");if(fe&&fe.length>2){for(var j=0;j<fe.length;j++){var t=fe[j].type;if(t!="hidden"&&t!="button"&&t!="submit"&&t!="image"&&t!="reset"&&n++>2)break}if(n>2){for(var k=0;k<fe.length;k++){var g=fe[k];g.f=_hdfn+((g.name&&g.name!="")?g.name:"elements["+k+"]");if(g.onfocus){g.o=g.onfocus;_lo[i+","+k]=g;eval("document.forms[i].elements[k].onfocus=function(e){$w(e,_lo['"+i+","+k+"'])}")}else{g.onfocus=_of}}o=_hdf[i];o.F=null;o.F=_hdf[i].onsubmit?_hdf[i].onsubmit:f;if($ii(""+o.F,_fvfn)<0||_fvfn=="")eval("_hdf[i].onsubmit=new Function('return $s(this.F())')");_FA=1}}}}
+if(_FA&&(!$d("$T"))){_wu=window.onunload?window.onunload:0;window.onunload=new Function("if(_wu)_wu();if(!(_hsf||_hlf==''))$r(_ar+'&lf='+$a(_hlf))");_hwb=window.onbeforeunload?window.onbeforeunload:0;window.onbeforeunload=new Function("if(_hwb)_hwb();if(!(_hsf||_hlf==''||1))$r(_ar+'&lf='+$a(_hlf))")}}
+if((_sv>11)&&_hM&&(!$d("$T"))){eval("_$T=1");_wo=window.onload?window.onload:0;window.onload=new Function("if(_wo)_wo();$x()")}</script>
+<script language="javascript">if( _sv+0<11 ){ if( ( document.cookie)&&
 $ii(document.cookie,"CP=")>-1){_ce="y"}else{document.cookie="CP=null*; path=/;"+
 (_cpd!=""?(" domain=."+_cpd+"; "):"")+"expires=Wed, 1 Jan 2020 00:00:00 GMT";if(
 ($ii(document.cookie,"CP="))+0>-1){_ce="y"}else{_ce="n"}}if((_rf==null)||( _rf==
@@ -74,249 +415,94 @@ $ii(document.cookie,"CP=")>-1){_ce="y"}else{document.cookie="CP=null*; path=/;"+
 "&fnl="+$a(_fnl)+"&pec="+$a(_pec)+"&ra="+$a(_hra)+"&gn="+$a(_hcn)+"&ld="+$a(_hlt
 )+"&la="+$a(_hla)+"&cv="+$a(_hcv)+"&c1="+$a(_hc1)+"&c2="+$a(_hc2)+"&c3="+$a(_hc3
 )+"&c4="+$a(_hc4)+"&customerid="+$a(_cid)+"&rf="+_rf+"' border=0 height=1 widt"+
-"h=1>")}if(_bnN&&_bv==4)document.write("<!"+"--")</script><noscript><img 
-src="http://ehg-nestleusainc.hitbox.com/HG?hc=we88&cd=1&hv=6&ce=u&hb=DM530208O0FF41EN3;DM530428L1SR41EN3;DM530428MJFF41EN3&n=Privacy+Policy&vcon=/Legal;/Coffee-Mate/Legal;/Beverage+Division/Coffee-Mate/Legal&seg=1,-2,-3&cmp=&gp=&fnl=&pec=&dcmp=&ra=&gn=&ld=&la=&cv=&c1=&c2=&c3=&c4=&customerid=" border="0" width="1" height="1">
-</noscript><!--//-->
+"h=1>")}if(_bnN&&_bv==4)document.write("<\!"+"--")
+</script><noscript>
+<img src="http://ehg-nestleusainc.hitbox.com/HG?hc=we82&amp;cd=1&amp;hv=6&amp;ce=u&amp;hb=DM5605215DWF41EN3 &amp;n=Privacy Policy&amp;vcon=/;/VERYBESTCOFFEE/;/Beverage+Division/VERYBESTCOFFEE/&amp;seg=&amp;cmp=&amp;gp=&amp;fnl=&amp;pec=&amp;dcmp=&amp;ra=&amp;gn=&amp;ld=&amp;la=&amp;cv=&amp;c1=&amp;c2=&amp;c3=&amp;c4=&amp;customerid=" border="0" width="1" height="1">&nbsp;
+</noscript> <!--//-->
 <!-- END WEBSIDESTORY CODE  -->
-	<script language="javascript">
-	function _hbPageViewThenLink(page,mlc,link,js){
-		page = page.replace(/(É|È)/g,'E');
-		mlc = mlc.replace(/(É|È)/g,'E');
-		page = page.replace(/(é|è)/g,'e');
-		mlc = mlc.replace(/(é|è)/g,'e');
-		page = page.replace(/\<b\>/g,'');
-		mlc = mlc.replace(/\<b\>/g,'');
-		page = page.replace(/\<\/b\>/g,'');
-		mlc = mlc.replace(/\<\/b\>/g,'');
-		page = page.replace(/\<i\>/g,'');
-		mlc = mlc.replace(/\<i\>/g,'');
-		page = page.replace(/\<\/i\>/g,'');
-		mlc = mlc.replace(/\<\/i\>/g,'');
-		page = page.replace(/(\<|\>|\/)/g,'');
-		mlc = mlc.replace(/(\<|\>)/g,'');
-		page = page.replace(/(\:|\#|\%)/g,'');
-		mlc = mlc.replace(/(\:|\#|\%)/g,'');
-		page = page.replace(/(\$|\!|\^|\*|\~|\`|\’)/g,'');
-		mlc = mlc.replace(/(\$|\!|\^|\*|\~|\`|\’)/g,'');
-		page = page.replace(/(\"|\')/g,'');
-		mlc = mlc.replace(/(\"|\')/g,'');
-		page = page.replace(/(\(|\||\\)/g,'');
-		mlc = mlc.replace(/(\(|\||\\)/g,'');
-		page = page.replace(/(&nbsp|\s)/g,'+');
-		mlc = mlc.replace(/(&nbsp|\s)/g,'+');
-		page = page.replace(/&/g,'and');
-		mlc = mlc.replace(/&/g,'and');
-		page = page.replace(/’/g,'');
-		mlc = mlc.replace(/’/g,'');
-		page = page.replace(/“/g,'');
-		mlc = mlc.replace(/“/g,'');
-		page = page.replace(/”/g,'');
-		mlc = mlc.replace(/”/g,'');
-		page = page.replace(/™/g,'');
-		mlc = mlc.replace(/™/g,'');
-		page = page.replace(/"/g,'');
-		mlc = mlc.replace(/"/g,'');
-		page = page.replace(/NOSOD/g,'No+Sub-Subcategory');
-		mlc = mlc.replace(/NOSOD/g,'No+Sub-Subcategory');
-		_hbPageView(page,mlc);
-		if(js!=''){eval(js);}
-		if(link!='') { window.location=link; }
-	}
-	</script>
+<script language="javascript">
+function _hbPageViewThenLink(page,mlc,link,js){
+page = page.replace(/(É|È)/g,'E');
+mlc = mlc.replace(/(É|È)/g,'E');
+page = page.replace(/(é|è)/g,'e');
+mlc = mlc.replace(/(é|è)/g,'e');
+page = page.replace(/\<b\>/g,'');
+mlc = mlc.replace(/\<b\>/g,'');
+page = page.replace(/\<\/b\>/g,'');
+mlc = mlc.replace(/\<\/b\>/g,'');
+page = page.replace(/\<i\>/g,'');
+mlc = mlc.replace(/\<i\>/g,'');
+page = page.replace(/\<\/i\>/g,'');
+mlc = mlc.replace(/\<\/i\>/g,'');
+page = page.replace(/(\<|\>|\/)/g,'');
+mlc = mlc.replace(/(\<|\>)/g,'');
+page = page.replace(/(\:|\#|\%)/g,'');
+mlc = mlc.replace(/(\:|\#|\%)/g,'');
+page = page.replace(/(\$|\!|\^|\*|\~|\`|\’)/g,'');
+mlc = mlc.replace(/(\$|\!|\^|\*|\~|\`|\’)/g,'');
+page = page.replace(/(\"|\')/g,'');
+mlc = mlc.replace(/(\"|\')/g,'');
+page = page.replace(/(\(|\||\\)/g,'');
+mlc = mlc.replace(/(\(|\||\\)/g,'');
+page = page.replace(/(&nbsp|\s)/g,'+');
+mlc = mlc.replace(/(&nbsp|\s)/g,'+');
+page = page.replace(/&/g,'and');
+mlc = mlc.replace(/&/g,'and');
+page = page.replace(/’/g,'');
+mlc = mlc.replace(/’/g,'');
+page = page.replace(/“/g,'');
+mlc = mlc.replace(/“/g,'');
+page = page.replace(/”/g,'');
+mlc = mlc.replace(/”/g,'');
+page = page.replace(/™/g,'');
+mlc = mlc.replace(/™/g,'');
+page = page.replace(/"/g,'');
+mlc = mlc.replace(/"/g,'');
+page = page.replace(/NOSOD/g,'No+Sub-Subcategory');
+mlc = mlc.replace(/NOSOD/g,'No+Sub-Subcategory');
+_hbPageView(page,mlc);
+if(js!=''){eval(js);}
+if(link!='') { window.location=link; }
+}
 
-        <noscript>
-            <div align="center" style="FONT-WEIGHT: bold; FONT-SIZE: 13pt; COLOR: red;">Javascript 
-                must be enabled for this website to work properly</div>
-        </noscript>
-        <script type="text/javascript">
-	    if (top.frames.length!=0) {
-		    if (window.location.href.replace)
-			    top.location.replace(self.location.href);
-		    else
-			    top.location.href=self.document.href;
-	    }
-        </script>
-        <div align="left">
-            <table width="752" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                    <td rowspan="3" width="1"><img src="images/spacer.gif" width="10" height="26"></td>
-                    <td width="752"><table width="750" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="115" rowspan="3"><a href="../default.asp"><img src="../images/cm_global_logo.gif" width="115" height="101" border="0"></a></td><td colspan="7"><img src="../images/cm_global_top_red.jpg" width="635" height="37"></td></tr><tr><td width="68"><img src="../images/spacer.gif" width="68" height="26"></td><td width="88"><a href="../products.asp"><img src="../images/FF_nav_products.gif" width="88" height="26" border="0"></a></td><td width="86"><a href="../recipe.asp"><img src="../images/FF_nav_recipes.gif" width="86" height="26" border="0"></a></td><td width="150"><a href="../drinkFinder_landing.asp"><img src="../images/FF_nav_perfect.gif" width="150" height="26" border="0"></a></td><td width="116"><a href="../pl.asp"><img src="../images/FF_nav_wtb.gif" width="116" height="26" border="0"></a></td><td width="75"><a href="../faq.asp"><img src="../images/FF_nav_faq.gif" width="75" height="26" border="0"></a></td><td width="52"><img src="../images/spacer.gif" width="52" height="26"></td></tr><tr><td colspan="7"><img src="../images/headers/cm_headers_privacypolicy.gif" width="637" height="38"></td></tr></tbody></table></td>
-                </tr>
-                <tr>
-                    <td>
-                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                            <tbody><tr>
-                                <td colspan="3" bgcolor="#cc0000"><img src="images/spacer.gif" width="26" height="1"></td>
-                            </tr>
-                            <tr>
-                                <td width="1" bgcolor="#cc0000"><img src="images/spacer.gif" width="1" height="26" border="0"></td>
-                                <td align="left" bgcolor="#ffefd4">
-                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                        <tbody><tr>
-                                            <td align="center">
-                                                <table border="0" cellpadding="0" cellspacing="0" width="530">
-                                                    <tbody><tr>
-                                                        <td class="inputcopy"><img src="images/spacer.gif" width="10" height="17" border="0"><br>
-                                                            <span id="lblCustom">
-				<center><h2>Privacy Policy</h2></center>
-				<p><strong>Welcome</strong></p>
-				<p>Thank you for visiting a Nestlé USA web site.  This privacy policy tells you 
-				how Nestlé USA uses personal information collected at this web site. Please read 
-				this privacy policy before submitting any personal information at this site.  By 
-				using this site, you are accepting the practices described in this privacy 
-				policy. We may, infrequently, change these practices, but any changes will be 
-				posted and changes will only apply to activities and information on a going 
-				forward, not retroactive basis. You are encouraged to review the privacy policy 
-				whenever you visit to make sure that you understand how any personal information 
-				you provide will be used.</p>
-				<p>The privacy practices set forth in this Privacy Policy pertain only to the 
-				on-line collection of information.</p>
-				<p><strong>Children’s Privacy Policy</strong></p>
-				<p>We have no intention of collecting information from children at this web 
-				site.</p>
-				<p><strong>What We Collect and How We Use It</strong></p>
-				<p><em>Personally Identifiable Information</em></p>
-				<p>We collect the following personally identifiable information: name, postal 
-				address, email addresses, birth date, and phone number. This information is only 
-				collected when voluntarily submitted by visitors to help fulfill a specific 
-				offer or request.  For example: to receive email updates or newsletters about 
-				the site, our products and promotions; to send you samples, if offered and 
-				requested; to enter a specific sweepstakes or other on-line promotion; when a 
-				visitor registers as a member of a web site; to help personalize the web site 
-				for you; or to respond to a question or issue in a contact or email section. 
-				Note if you choose not to provide this information, certain personalized 
-				features of the web site may not be available to you. The information you 
-				provide is used to fulfill your specific request, unless you give us permission 
-				to use it in another manner, for example when registering for a sweepstakes, you 
-				may opt in to receive future information from Nestlé.</p>
-				<p>A birth date may be requested to verify a visitor’s age and help insure that 
-				we are not collecting information from children, unless it is our intention to 
-				do so. </p>
-				<p>We have no intention of collecting information from children at this web 
-				site.</p>
-				<p>To make the registration process easier, Nestlé has a "one time" registration 
-				feature, which is used across many of Nestlé's web sites. This means that if you 
-				have registered at one Nestlé site, and then enter your email address to 
-				register at another site, this new site will recognize you as a returning 
-				visitor.  Don't worry; you must still opt in to receive future information from 
-				the new Nestlé site or Nestlé product.</p>
-				<p>If you elect to receive information from us, you may receive information by 
-				regular mail or email, depending on the information you provided at 
-				registration. From time to time, our outbound communications may feature 
-				products/services from other reputable organizations, companies or products that 
-				may interest you. Your personally identifiable information is not shared with 
-				these other companies.  All mailings come from Nestlé or its agents, who are 
-				bound to keep information confidential.</p>
-				<p>We do not share personally identifiable information collected at this site 
-				with third parties, except for the limited instances noted below. The exceptions 
-				are:</p>
-				<ul>
-				<li><p>We may share your information with our agents who assist us in administering 
-				the site and various programs and promotions. They can only use the information 
-				to administer our site and programs. These agents are required to keep your 
-				information private and secure.</p>
-				</li><li><p>From time to time we may run a joint promotion on this site with another 
-				company or organization. At the time of collection, you will always be advised 
-				if another company is also collecting information. We recommend you review that 
-				company’s privacy policy, and we may provide a link to that company’s privacy 
-				policy.</p>
-				</li><li><p>Sometimes we run programs featuring another company’s service or products 
-				and you are given the opportunity to opt in to future receipt of information 
-				from that company. We recommend you review that company’s privacy policy, and we 
-				may provide a link to that company’s privacy policy.</p>
-				</li><li><p>We may also disclose personally identifiable information if we are required 
-				to comply with laws, or if in our good faith judgment, such action is reasonably 
-				necessary to comply with legal process, to respond to any claims, or to protect 
-				the rights of Nestlé, its customers and the public.</p>
-				</li><li><p>In the event of an acquisition of all or part of Nestlé by another company, 
-				or in the event that Nestlé were to sell or dispose of all or a part of the 
-				Nestlé business, the acquirer would have access to the information maintained by 
-				that Nestlé business, which could include personally identifiable information, 
-				subject to applicable law.  Similarly, information may be transferred as part of 
-				a reorganization or insolvency proceeding.</p></li></ul>
-				<p>Nestlé may on occasion combine information we receive with outside records to 
-				enhance our consumer profiles for our own marketing purposes.</p>
-				<p><em>Cookie/Tracking Technology</em></p>
-				<p>This site uses cookie and tracking technology. Cookie and tracking technology 
-				is useful for gathering information such as browser type and operating system, 
-				tracking the number of visitors to the web site, and understanding how visitors 
-				use the site. Cookies can also help tailor the site to visitors' needs and help 
-				customize the site for visitors. For example, we may use cookies to store your 
-				favorite recipes, activities or high scores and to make sure you don't see the 
-				same information repeatedly.  The site may also use cookies to deliver content 
-				specific to your interests and for other similar purposes. We use general IP 
-				address information to better understand how the site is utilized. Personally 
-				identifiable information cannot be collected via cookies and other tracking 
-				technology; however, if you previously provided personally identifiable 
-				information, cookies may be tied to such information. Aggregate (not individual) 
-				cookie and tracking information may be shared with third parties.</p>
-				<p><strong>Tell a Friend and Electronic Postcards</strong></p>
-				<p>If you send a friend an email or postcard from this site, the referral 
-				information you provide (names and email addresses) is used on a one-time basis 
-				to facilitate the communication and is not further retained by Nestlé.</p>
-				<p><strong>Demographic Information and Surveys and Polls </strong></p>
-				<p>We may ask for demographic or profile (age, gender, household, interests, 
-				etc.) information in a survey/poll or at registration. This information is used 
-				to assist us in tailoring the site, our communications, and our products to 
-				visitors and consumers. We may share aggregated demographic and survey 
-				information, as opposed to individual information, with third parties.</p>
-				<p><strong>Security, Opting Out, and Access to Information </strong></p>
-				<p>Nestlé uses commercially reasonable efforts to keep personally identifiable 
-				information secure. Only authorized Nestlé employees, agents and contractors 
-				(who have agreed to keep information secure and confidential) have access to 
-				this information and only to help Nestlé administer its promotional programs and 
-				the site. Personally identifiable information is also password protected at the 
-				web site.</p>
-				<p>All emails and newsletters from this site allow you to opt out of further 
-				mailings.  Many Nestlé web sites have an update information feature that allows 
-				visitors to access (via password) the registration information they submitted to 
-				the site, for review/update and opt out purposes.  If this feature is not 
-				available at a site or if you have questions about this policy you may contact 
-				us ( <a href="../contactus.asp">Click 
-				Here</a> ) or call us at 1-800-637-8532.</p>
-				<p><strong>Career Opportunities at Nestlé</strong></p>
-				<p>Some Nestlé USA web sites include information about job openings at Nestlé 
-				and allow interested job seekers to submit an application and or resume.  All 
-				information provided is used exclusively for the job application process.  If 
-				this web site does not have a career section, please visit the career section of 
-				www.Nestléusa.com.</p>
-				<p><strong>Store</strong></p>
-				<p>Sorry, this web site does not have a retail store.</p>
-				<p><strong>General </strong></p>
-				<p>Third party Internet sites accessible through hyperlinks from this site have 
-				their own privacy practices, and Nestlé has no responsibility or liability for 
-				these independent practices. Please review their privacy practices for 
-				yourself.</p>
-				<p>We reserve the right to make changes to this policy. Any changes to this 
-				policy will be posted.</p>
-<p>February 2005</p>
-</span>
-                                                            <br>
-                                                            <img src="images/px.gif" width="500" height="1" border="0"></td>
-                                                    </tr>
-                                                </tbody></table>
-                                            </td>
-                                            <td valign="top" width="1" background="images/redspacer.gif" align="center"><img src="images/spacer.gif" width="1" height="4"><img src="images/spacer.gif" width="1" height="5"></td><td valign="top" bgcolor="#CED8DA" align="center" width="1%"><img src="images/spacer.gif" width="157" height="4"><br><table border="0"><tbody><tr><td valign="top" colspan="3"><div align="center"><a href="/Promotions/Coupon_3_2005/landing.aspx"><img src="/nirf/cm/upload/2002111164752412623631/CA_tout.jpg" border="0"></a></div></td></tr></tbody></table><br></td>
-                                        </tr>
-                                    </tbody></table>
-                                </td>
-                                <td width="1" bgcolor="#cc0000"><img src="images/spacer.gif" width="1" height="26"></td>
-                            </tr>
-                            <tr>
-                                <td colspan="3" bgcolor="#cc0000"><img src="images/spacer.gif" width="752" height="8"></td>
-                            </tr>
-                        </tbody></table>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="752"><form name="jumpToForm" action="/jumpTo.asp" method="get"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="5"><img src="../images/spacer.gif" width="5" height="12" border="0"></td><td width="70" align="left" valign="top"><br></td><td align="center" valign="top"><table cellpadding="0" cellspacing="0" border="0" width="484" class="bottomnav2"><tbody><tr><td colspan="9">&nbsp;</td></tr><tr><td><nobr>© Nestlé</nobr></td><td>&nbsp;|&nbsp;</td><td><nobr><a href="../register.asp?rgaction=my_pr&amp;logmeout=true">my profile</a></nobr></td><td>&nbsp;|&nbsp;</td><td><nobr><a href="../contactus.asp">contact us</a></nobr></td><td>&nbsp;|&nbsp;</td><td><nobr><a href="../legal.asp?doc=tc">terms and conditions</a></nobr></td><td>&nbsp;|&nbsp;</td><td><nobr><a href="../legal.asp?doc=pp">PRIVACY POLICY</a></nobr></td></tr></tbody></table></td><td valign="top" width="60"><a href="javascript: void(0)" onclick="window.open('http://www.meals.com/')"><img src="../images/meals_icon.gif" width="88" height="40" border="0" alt="Meals.com" hspace="5"></a></td></tr></tbody></table></form></td>
-                </tr>
-            </tbody></table>
-            <br>
-            <br>
-            <br>
-            <br>
-        </div>
-    
+
+
+</script>
+<script>
+function handleSubmit(formobject){
+form_object.submit();
+}
+</script>
+
+						</td>
+
+	<!-- MAIN CONTENT end -->			
+				
+					</tr>
+
+				</tbody></table>
+			</div>
+			<img src="images/spacer.gif" width="1" height="3" border="0"><br>
+<!-- CONTENT end -->	
+			
+			</td>
+			<td width="21" class="shadow_rgt"><img src="images/spacer.gif" width="21" height="1" border="0"></td>
+		</tr>
+		<tr valign="top">
+			<td colspan="3" class="shadow_bot"><img src="images/spacer.gif" width="1" height="20" border="0"></td>
+		</tr>
+
+	</tbody></table>
+        
+<div class="main_footer" align="center">© Nestlé makes the very best&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="contact.aspx" id="ctl00_GlobalFooter1_main_footer">Contact Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="TermsConditions.aspx" id="ctl00_GlobalFooter1_A3">Terms and Conditions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="Privacy.aspx" id="ctl00_GlobalFooter1_A4">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="SiteMap.aspx" id="ctl00_GlobalFooter1_A5">Sitemap</a></div>
+	
+<script language="JavaScript"> 
+<!-- 
+RollOverLink_preloadImages( RollOverLink_Images ) 
+//--> 
+</script></form>
+</div>
+
+
 
 </body></html>
