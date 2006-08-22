@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangingtunes.com privacy policy that was archived on 2005-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051129143657id_/http%3A//www.bangingtunes.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangingtunes.com privacy policy that was archived on 2006-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060822112029id_/http%3A//www.bangingtunes.com/help/privacy) for the most accurate reproduction.*
 
 # BangingTunes.com Privacy Policy
 
@@ -18,7 +18,7 @@ When you browse through our site, we collect information on the efficiency and w
 
 #### Cookies
 
-A "cookie" is a small file stored on your computer that enables our server to recognize you.Cookies are used to store web page display settings so that your preference is remembered on your next visit. We also use cookies to allow our server to maintain information about the contents of your shopping cart. You can also choose to accept a cookie that will remember your identity and prevent future authentication requests.You may set the browser on your computer to notify you when you receive a cookie, giving you the opportunity to accept it or not. 
+A "cookie" is a small file stored on your computer that enables our server to recognize you.Cookies are used to store web page display settings so that your preference is remembered on your }visit. We also use cookies to allow our server to maintain information about the contents of your shopping cart. You can also choose to accept a cookie that will remember your identity and prevent future authentication requests.You may set the browser on your computer to notify you when you receive a cookie, giving you the opportunity to accept it or not. 
 
 #### Access log information
 
@@ -34,11 +34,12 @@ If you have established an account on BangingTunes.com, on the menu select "Edit
 
 #### Dispute Resolution
 
-We invite you to contact us if you have questions about this policy.You may contact us using our [contact form](https://web.archive.org/help/contact/).You may call us at +44 1273 622940. Or you may contact us by mail at the following address: 
+We invite you to contact us if you have questions about this policy.You may contact us using our [contact form](https://web.archive.org/help/contact/).You may call us on 01444 250251, or you may contact us by mail at the following address: 
 
-BangingTunes.com  
-102 Trafalgar Street  
-Brighton, East Sussex BN1 4ER  
+28 Church Road  
+Burgess Hill  
+West Sussex  
+RH15 9AE  
 England  
 
 
