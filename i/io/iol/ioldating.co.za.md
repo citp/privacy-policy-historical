@@ -1,50 +1,149 @@
-> *The following text is extracted and transformed from the ioldating.co.za privacy policy that was archived on 2005-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050413101109id_/http%3A//iol.datingbuzz.com/s/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioldating.co.za privacy policy that was archived on 2006-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060822023437id_/http%3A//www.star.co.za/site/all/static/policy_new.php%3FfSiteId%3Diol) for the most accurate reproduction.*
 
-# DatingBuzz - Privacy Policy
+# Privacy Policy
 
-For us, privacy is what it's all about. Sure we've got great technology, technically superior software and so on, but what really counts is our ability to provide our members with a safe, secure and private environment.
+**Privacy Policy**
 
-When you register as a member and set up a profile certain information is required. This includes personally identifiable information such as your name and email address. This information is stored on our systems, but NO personally identifiable information is ever displayed in your public profile or included in any communication between members sent via the site.
+* * *
 
-2\. Updating Your Information
+  
+For your added protection this web site subscribes to and complies with the voluntary privacy principles contained in the Electronic Communications and Transactions Act 25 of 2002. We will not disclose personal information in any manner not set out in this policy. 
 
-You can freely update all of your personal information including username, email address, location, password and all profile details. We encourage you to keep your details up to date.
+_Click on the links below to access specific sections:_
 
-It is vital that your keep your password safe to prevent unauthorised access to your personal information. If you believe that your password has been compromised for any reason please CHANGE it immediately.
+  * Definitions  
 
-A cookie is a piece of data stored on your hard drive that allows us to recognise your computer from one page access to the next. We use only session cookies which are designed not to be permanent or persistent. The session cookie is designed so that, once you close your browser, the cookie will simply terminate. If you configure your browser to reject cookies, you may still use some, but not all, portions of our site. For example, the login process and all member functionality requires that your browser accept cookies. We recommend closing browsers on shared computers after use.
+  * Status and amendments  
 
-5\. Deleting Your Information
+  * Collection of personal data  
 
-You have the option to delete your profile. Please note that this permanently deletes all your information. No data will remain on our systems with the exception of personal correspondence or support enquiries sent to us, which may be stored on file.
+  * Collection of anonymous data  
 
-6\. Personal Correspondence
+  * Access to personal data  
 
-Correspondence sent to us including emails and letters will be stored on file with access limited to our authorised staff members.
+  * Links to other web sites  
 
-| 
+  * Security  
 
-7\. Disclosure of Your Information
+  * Children's privacy  
 
-  * We will not disclose any of your information without your permission.
-  * We will not supply any member's details to any other member - please don't even ask us.
-  * We will not sell or rent or give your information to any third party.
-  * We will only disclose your information if legally obligated to do so by a statutory authority with the appropriate jurisdiction.
+  * Queries  
 
+  * Date of last review  
 
 
-No Spam, not now, not ever! You will receive emails from us and you may receive anonymous emails from other members. However, we will never supply, sell or rent your email address to any third party.
 
-9\. Internal Use of Information
 
-We may internally use your information to improve our services, analyse site usage, optimise content, etc. This will only be conducted by authorised staff members. We may use personally identifiable information to troubleshoot problems and implement our terms and conditions.
+  
+**Definitions**
 
-10\. Tell a Friend Services
+* * *
 
-Our site includes various 'tell a friend' services. Your friends will never receive unsolicited email from us and, once your 'tell a friend' email is sent, they will never hear from us again unless they choose to become members themselves. You may not use the 'tell a friend' services to send spam
+  
+"this web site" means [http://www.iol.co.za](http://www.iol.co.za/)  
+"the web site owner" and "we" means **Independent On-line (Pty) Ltd**  
+"user" means any person accessing any part of the web site 
 
-Our technical team do their utmost to ensure the security of our systems. Internet Security is a complex topic and no system can be considered 100% secure. Should a security breach occur we would endeavour to react as fast as possible to remedy the problem. However we cannot assume responsibility for member details compromised in the unlikely event of a security breach.
+**^ BACK TO TOP**
 
-12\. Changes to This Policy
+  
+**Status and Amendments**
 
-If we make material changes to our privacy policy, these changes will be posted to our privacy policy page. You should review this page regularly for updates.
+* * *
+
+  1. This Privacy Policy forms part of the [Terms and Conditions of Use](https://web.archive.org/web/20060822023437id_/http%3A//www.star.co.za/site/all/static/terms_and_conditions.php?fSiteId=iol) of this web site. If you do not agree with this Policy then you may not use this web site. 
+  2. The web site owner reserves the right to amend the terms and conditions of this Privacy Policy at any time. While the web site owner will attempt to flag changes to this Policy as and when implemented, users remain at all times responsible for ensuring that they are aware of the current terms of this Policy whenever accessing this web site, and continued use of the site subsequent to any amendments having been affected constitutes users' acceptance of the Policy as amended. 
+
+**^ BACK TO TOP**
+
+  
+**Collection of personal data**
+
+* * *
+
+  3. Where personal information (such as your name, address, telephone number, e-mail address and credit card information) is submitted to the site by the user, for example through sending an e-mail or filling in required fields, the following principles are observed in the handling of that information: 
+    1. This web site collects, processes and stores only such personal information regarding users as is necessary to provide the services offered. The specific purpose for which information is collected is apparent from the context in which it is requested. 
+    2. This web site will not use the personal information submitted for any other purpose other than the efficient provision of services, including this web site and services offered through it by third parties, without obtaining the prior written approval of the user or unless required to do so by law. 
+    3. This web site will keep records of all personal information collected and the specific purpose for which it was collected for a period of one year from the date on which it was last used. 
+    4. This web site will not disclose any personal information regarding a user to any third party unless the prior written agreement of the user is obtained or the web site is required or permitted to do so by law. 
+    5. If information is released with the user's consent this web site will retain a record of the information released, the third party to which it was released, the reason for the release and the date of release, for a period of one year. 
+    6. This web site will destroy or delete any personal information under its control which has become obsolete. 
+  
+
+  4. Information collected about users through their use of this web site is the property of the web site owner. 
+  5. The web site owner will retain all ownership of and copyright in any database of users' personal information. 
+  6. No credit card information is retained or stored by the web site owner. 
+  7. Note that, as permitted by the ECT Act, this web site may use personal information collected to compile profiles for statistical purposes and trade in these profiles. No information contained in the profiles or statistics will be able to be linked to any specific user. 
+
+**^ BACK TO TOP**
+
+  
+**Collection of anonymous data**
+
+* * *
+
+  8. In order to provide the best possible and most relevant service, this web site may use standard technology to collect information about the use of this site. This technology is not able to identify individual users but simply allows this web site to collect statistics. 
+  9. This web site utilises cookies. A cookie is a small file that is placed on the user's hard drive in order to keep a record of a user's interaction with this web site. 
+    1. Cookies from this web site allow the web site owner to tailor advertising and other services to your displayed preferences. The web site may use third party cookies from an adserver for this purpose. 
+    2. Cookies by themselves cannot be used to personally identify users but will be used to compile anonymised statistics relating to use of services offered or to provide us with feedback on the performance of this web site. 
+  
+
+  10. If a user does not wish cookies to be employed to customize his or her interaction with this web site it is possible to alter the manner in which their browser handles cookies. Please note that, if this is done, certain services on this web site may not be available. 
+
+**^ BACK TO TOP**
+
+  
+**Access to personal data**
+
+* * *
+
+  11. Where a user believes that personal data concerning them held by the web site owner is outdated or incorrect they may request that such personal data be corrected - please use our [contact page](http://www.iol.co.za/index.php?set_id=1&click_id=521). Any request for such a correction must specify both the incorrect data and the proposed correction and must give full reasons for the request. 
+  12. Users can request access to any relevant personal data held by the web site owner as laid out in the Promotion of Access to Information Act 2 of 2000 ("PROATIA") and where such access is necessary for them to exercise and/or protect any of their rights. 
+  13. Detailed information on PROATIA and the procedure to follow in making a request for access to personal data is available in the web site owner's Promotion of Access to Information Manual. 
+
+**^ BACK TO TOP**
+
+  
+**Links to other web sites**
+
+* * *
+
+  14. We have no control over and accept no responsibility for the privacy practices of any third party sites to which hyperlinks may have been provided and we strongly recommend that you review the privacy policy of any site you visit before using it further. 
+
+**^ BACK TO TOP**
+
+  
+**Security**
+
+* * *
+
+  15. While reasonable measures are taken to ensure the security and integrity of information submitted to this site, this web site can not under any circumstances be held liable for any loss or other damage sustained by a user or users as a result of the intentional or accidental release of information by an employee of the web site owner or any third party. 
+  16. Users and/or subscribers are prohibited from releasing their username and/or password to any other person. 
+
+**^ BACK TO TOP**
+
+  
+**Children's privacy**
+
+* * *
+
+  17. We regard the safety and privacy of children using this web site extremely seriously but it remains the ultimate responsibility of the parents and other care-givers of children to ensure that they are not exposed to inappropriate content or behaviour. 
+
+**^ BACK TO TOP**
+
+  
+**Queries**
+
+* * *
+
+  18. If you have any queries about this Privacy Policy please [contact us](http://www.iol.co.za/index.php?set_id=1&click_id=521). 
+
+**^ BACK TO TOP**
+
+  
+**Date of Last Review**
+
+* * *
+
+26 September 2004  
+prepared by the [electronic law consultancy 2004](http://www.elc.co.za/). 
