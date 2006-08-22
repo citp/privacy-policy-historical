@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the swin.edu.au privacy policy that was archived on 2005-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050614070531id_/http%3A//www.swin.edu.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swin.edu.au privacy policy that was archived on 2006-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060822080756id_/http%3A//www.swinburne.edu.au/stats.php%3Fsite_name%3DPrivacy%26url%3Dprivacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
 |  |  |  |   
 ---|---|---|---  
-|  | [Contact Us](http://www.swin.edu.au/contact.htm) |   
-|  | [Copyright and disclaimer](http://www.swin.edu.au/disclaimer.htm) |   
-|  | [Privacy](http://www.swin.edu.au/privacy.htm) |   
-|  | [Feedback](http://www.swin.edu.au/feedback.htm) |   
-|  | [Accessibility Information](http://www.swin.edu.au/accessibility.htm) |   
+|  | [Contact Us](http://www.swinburne.edu.au/contact.htm) |   
+|  | [Copyright and disclaimer](http://www.swinburne.edu.au/disclaimer.htm) |   
+|  | [Privacy](http://www.swinburne.edu.au/privacy.htm) |   
+|  | [Feedback](http://www.swinburne.edu.au/feedback.htm) |   
+|  | [Accessibility Information](http://www.swinburne.edu.au/accessibility.htm) |   
 |  |   
 ---  
   
@@ -32,7 +32,7 @@ Some Swinburne University of Technology sites may have chat rooms, forums, on-li
 
 On-Line Recruitment
 
-We collect personal information from Monster.com about Swinburne University students that are registered through the Swinburne University/ Monster.com web site. We collect this information to improve student employment and to enhance the student experience. 
+We collect personal information from Careerhub.com about Swinburne University students that are registered through the Swinburne University/ Careerhub.com web site. We collect this information to improve student employment and to enhance the student experience. 
 
 Cookies
 
@@ -57,11 +57,11 @@ You have a right of access to, and alteration of personal information concerning
 
 Privacy Policy
 
-Swinburne University has a Privacy Policy that can be found on its Policies and Procedures Database, which outlines the ways in which we intends to meet our privacy commitments and details the procedures for making complaints under the Act. The Privacy Policy can be located at: [ http://www.swin.edu.au/corporate/registrar/ppd/files/humres.htm](http://www.swin.edu.au/corporate/registrar/ppd/files/humres.htm)
+Swinburne University has a Privacy Policy that can be found on its Policies and Procedures Database, which outlines the ways in which we intends to meet our privacy commitments and details the procedures for making complaints under the Act. The Privacy Policy can be located at: [ http://ppd.swinburne.edu.au/humres/Privacy.htm](http://ppd.swinburne.edu.au/humres/Privacy.htm)
 
 Contact
 
-If you have any queries in relation to your privacy at Swinburne University of Technology, you should contact the University Compliance Officer at [infoprivacy@swin.edu.au](mailto:infoprivacy@swin.edu.au) 
+If staff have any queries in relation to privacy at Swinburne University of Technology, please contact the University Compliance Officer at [infoprivacy@swin.edu.au](mailto:infoprivacy@swin.edu.au) 
 
   
   
