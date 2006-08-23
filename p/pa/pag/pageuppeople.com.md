@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageuppeople.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619035420id_/http%3A//www.pageuppeople.com/content.asp%3FstaticID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageuppeople.com privacy policy that was archived on 2006-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060823093829id_/http%3A//pageuppeople.com/content.asp%3FstaticID%3Dprivacy) for the most accurate reproduction.*
 
 # PageUp - PageUp Privacy and Security Statement
 
