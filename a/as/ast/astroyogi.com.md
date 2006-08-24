@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astroyogi.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615230238id_/http%3A//www.astroyogi.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astroyogi.com privacy policy that was archived on 2006-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060824035341id_/http%3A//www.astroyogi.com/policy.html) for the most accurate reproduction.*
 
 # astroyogi.com Discover your future. design your destiny.
 
