@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interracialsingles.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615084617id_/http%3A//www.interracialsingles.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interracialsingles.net privacy policy that was archived on 2006-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060825070148id_/http%3A//www.interracialsingles.net/privacy.html) for the most accurate reproduction.*
 
-# INTERRACIAL SINGLES: Interracial Personals for Singles of Mixed Race - 2006-06-15
+# INTERRACIAL SINGLES: Interracial Personals for Singles of Mixed Race - 2006-08-25
 
 This statement discloses the privacy practices for the InterracialSingles.net website. The purpose of this statement is to notify you of what personally identifiable information of yours will be collected and/or tracked by InterracialSingles.net and its affiliates, how it will be used, and what options are available to you regarding the collection, correction and/or deletion of information.
 
