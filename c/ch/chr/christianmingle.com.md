@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christianmingle.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615003435id_/http%3A//www.christianmingle.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianmingle.com privacy policy that was archived on 2006-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060826160907id_/http%3A//www.christianmingle.com/privacy.html) for the most accurate reproduction.*
 
-# Christian Singles Mingle - Online Christian Personals for Christian Singles - 2006-06-14
+# Christian Singles Mingle - Online Christian Personals for Christian Singles - 2006-08-26
 
 This statement discloses the privacy practices for the ChristianMingle.com website. The purpose of this statement is to notify you of what personally identifiable information of yours will be collected and/or tracked by ChristianMingle.com and its affiliates, how it will be used, and what options are available to you regarding the collection, correction and/or deletion of information.
 
