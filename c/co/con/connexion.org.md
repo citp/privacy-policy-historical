@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the connexion.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606095309id_/http%3A//www.connexion.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexion.org privacy policy that was archived on 2006-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060826064501id_/http%3A//www.connexion.org/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 **Connexion Privacy Policy**
 
@@ -8,7 +8,7 @@ Connexion does not send SPAM or sell or rent email addresses!
 
 **About the Information We Collect**
 
-Connexion is an social network that connects you to people through networks of your friends and relatives. You create a profile which is then linked to your friends and relatives to create your network. To do this we display certain information to people within the network such as your first name, age and any optional information you provide about yourself. Your email address is not shared with anyone unless you are asking them to connect to you as a friend or relative. Your date of birth is not shared with anyone except your immediate friends (and then only if you give permission), though your age is always shared.
+Connexion is an social network that connects you to people through networks of your friends. You create a profile which is then linked to your friends to create your network. To do this we display certain information to people within the network such as your first name, age and any optional information you provide about yourself. Your email address is not shared with anyone unless you are asking them to connect to you as a friend. Your date of birth is not shared with anyone except your immediate friends (and then only if you give permission), though your age is always shared.
 
 **Information Collected by Connexion**
 
@@ -30,19 +30,37 @@ It is also used is aggregated form (i.e. as statistics like 12% of members are u
 
 **Use of Cookies**
 
-We use cookies to store information such as your email address and password on your computer so that you can log in automatically. You activate this feature when you join or log in by asking the computer to remember your member name and password. To prevent someone from logging in as you, you should use this option ONLY on a computer where you will be the only person with access.
+Cookies are used to maintain your session with Connexion. So if you do not have cookies enabled, at least for Connexion, you will not be able to use the site.
+
+We also use cookies to store information such as your email address so that you can log in automatically. You activate this feature when you join or log in by asking the computer to remember your email address and password. To prevent someone from logging in as you, you should use this option ONLY on a computer where you will be the only person with access.
+
+There is also an option to have just your email address remembered. This is a good way to simplify log in on a shared computer without compromising your account security.
 
 **Security**
 
 Your membership information is protected by a password. This prevents unauthorized access to your membership information. If you feel your password has been compromised, use the "Account Settings" section of the site to change it.
 
+You can use the Access History page in "Account Settings" to see if any unauthorized accesses have occurred.
+
 **Email from Connexion**
 
 From time to time we may send email with information about changes and improvements to the site, other information that relates to your membership or general news. You can control whether this information is sent to you using the features in the "Account Settings" section of the site.
 
+We **never** send attachments with any email. If you get an attachment on an email purporting to originate from Connexion, do not open it since it is likely to be a virus!
+
+**Messages on Connexion**
+
+The messages you send on Connexion are private. They are not normally read by anyone on staff. However, in the event that some message you send generates a complaint from another member for harassment or other violation of the terms of service, those messages that you have sent to that member may be reviewed by a member of staff to see if an actual violation has occurred.
+
 **Contacting Us**
 
-A list of contacts for Connexion can be obtained [here](https://web.archive.org/web/20040606095309id_/http%3A//www.connexion.org/contactus.cfm). If you have any questions about our website or this privacy policy, please feel free to contact us.
+A list of contacts for Connexion can be obtained [here](https://web.archive.org/web/20060826064501id_/http%3A//www.connexion.org/contactus.cfm). Or you can write or call us at:  
+Connexion  
+419 Race St.  
+Denver CO 80206  
+303-322-4804
+
+If you have any questions about our website or this privacy policy, please feel free to contact us.
 
   
 
