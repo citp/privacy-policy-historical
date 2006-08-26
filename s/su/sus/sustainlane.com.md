@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the sustainlane.com privacy policy that was archived on 2006-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060826174050id_/http%3A//www.sustainlane.com/page/42/1/Privacy%2BStatement.html) for the most accurate reproduction.*
+
+# SustainLane | Privacy Statement
+
+At SustainLane we take your privacy seriously. We don’t like spam anymore than you do, so if you do provide us with any identifying information, we will only use that information to serve you better within the realm of our website only. SustainLane will never intentionally disclose your personal information to any third party for their use without first receiving your express permission. We will not send you e-mail unless you have requested it or unless it's in the course of a transaction you have initiated. 
+
+SustainLane will collect only information that is voluntarily provided by the user and undertakes that such information will be kept strictly confidential. SustainLane does reserve the right, however, to perform statistical analyses of user behavior and characteristics, in order to measure interest in and use of the various sections of our website so as to improve design and navigation. Only aggregated data from these analyses, not individual data, will be used for this purpose.
+
+Users should be aware that certain non-personal information and data may be automatically collected through the operation of what are called "cookies." Cookies are small text files that identify an individual computer's browser entering a website. Through cookies, a website can recognize repeat users, facilitate the user's access to and use of the site, and allow a site to track usage behavior that will allow content improvements. SustainLane uses cookies only for the above-mentioned purposes.
+
+If you do not want a cookie placed on your computer, you may disable cookies altogether by modifying the Preferences section of your browser (under Edit/Preferences/Advanced). If you have no problem accepting cookies, but wish to be informed of their appearance, you may turn on a warning prompt by modifying the cookie warning section in Edit/Preferences/Advanced. 
