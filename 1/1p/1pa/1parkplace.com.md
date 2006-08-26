@@ -1,45 +1,21 @@
-> *The following text is extracted and transformed from the 1parkplace.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1parkplace.com privacy policy that was archived on 2006-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060826142200id_/http%3A//1parkplace.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Welcome to 1parkplace
+# 1ParkPlace, Inc
 
-|   
----  
-| | |  [Agent/client](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/client-agent.html)  
-[Office Systems](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/office.html)  
-[Lenders](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/lender.html)  
-[Service Providers](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/serviceprovider.html)  
-[MLS](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/mls.html)  
-  
-|   
-| | |  [FAQ](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/faq.html)  
-[Customer Service](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/custservice.html)  
-  
-|   
-|  |  | [About 1parkplace](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/about.html)  
-[Privacy Policy](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/privacy.html)  
-[Contact Us](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/contact.html)  
-  
-|   
-| | |  [Releases](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/releases.html)  
-[News Articles](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/news.html)  
-[Media Contacts](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/media.html)  
-[Materials](https://web.archive.org/web/20000613183213id_/http%3A//www.1parkplace.com/materials.html)  
-  
-|   
-|   
----  
-**1parkplace.com™ Privacy Principles**
+**1ParkPlace, Inc. Privacy Policy** Our pledge to you is simple- we will not release any personally identifiable information such as your name, address, e-mail address, phone number or other sensitive information without your express consent. Please read the following for more in depth information about our privacy policy.
 
-At Internet Strategy, Inc. we respect your privacy and know how important is to you. Because of our interest in protecting your privacy, we have adopted the following privacy principles: 
+**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) for important information from the Federal Trade Commission about safe surfing.**
 
-  1. Your Expectation of Privacy. We recognize that you expect privacy and security for your personal and professional information when using 1parkplace.com online. We understand the need to safeguard sensitive information about you that you have entrusted to us. We maintain standards and procedures designed to prevent misuse of this information. 
-  2. Our Collection, Retention, and Use of Information about You. We collect, retain, and use information about you only where we reasonably believe that it will help administer our business or provide products, services, and other opportunities to you. We collect and retain information about you only for specific business purposes - and we will tell you why we are collecting and retaining it upon your request. We use information to protect and administer your records, clients and transactions; to comply with certain laws and regulations; to help us design or improve our products and services; and to understand your business needs so that we can provide you with quality products and superior service. 
-  3. Our Maintenance of Accurate Information. We have procedures to help assure that your online information is accurate, current, and complete in accordance with commercial standards. We also have procedures to respond to your requests to correct inaccurate information in a timely manner. We have implemented procedures to maintain accurate, current, and complete customer information, including processes to update information and remove old information. 
-  4. Limiting Employee Access to Information. We have procedures that limit employee access to personally identifiable information to those employees with a business reason to know such information about you. We educate our employees about the importance of confidentiality and customer privacy through standard operating procedures, special training programs, and our policies on ethics. We take appropriate disciplinary measures to enforce employee privacy responsibilities. 
-  5. Security Procedures to Protect Information. We maintain high security standards and procedures to help prevent unauthorized access to confidential information about you. We update and test our technology to improve the protection of our information about you and to assure the integrity of our information. 
-  6. Restrictions on Disclosing Information to Other Parties. We do not reveal specific information about you, your clients or other personally identifiable data to parties outside our company for their independent use unless: (1) you request or authorize it; (2) the information is provided to help complete a transaction initiated by you; (3) the information is provided to a reputable credit bureau or similar information reporting agency; or (4) the disclosure otherwise is lawfully permitted or required. We do not provide personal or client information to other parties for the purpose of telemarketing or direct mail marketing any products or services not directly related to the use of 1parkplace.com. 
-  7. Maintaining Your Privacy in Business Relationships with Other Parties. Sometimes it is necessary to provide personally identifiable information about you to a party outside our company, such as to a vendor or service company that we hire to provide services for your account or to provide support or services for one or more of our products. These vendors and service companies agree to safeguard our confidential information about you and your products and services with us and must abide by applicable law. 
-  8. Disclosing Our Privacy Commitment to You. We want you to understand our commitment to personal privacy and our use of information. For this reason, we have prepared these Privacy Principles. 
+**1ParkPlace, Inc. Privacy Principles**
 
-  
-These Privacy Principles apply to individuals and companies, and we reserve the right to change them, along with related provisions, at any time. 
+To make this Privacy Policy easy to understand, we have built it around 5 simple privacy principles. ****
+
+**Principle 1.** We will explicitly ask you when we need information that personally identifies you or allows us to contact you ("Personal Information"). Generally, Personal Information is requested when you register for a newsletter, when you request a particular service or information from us or one of our clients, when you fill out a survey, or when you request additional information. When possible, we will give you a chance to make sure that your Personal Information is correct and up to date.
+
+**Principle 2.** We have important business relationships with certain third party service partners ("Service Partners"). These Service Partners allow us to offer you a broader array of services than we could provide to you on our own and assist us in the operation of our site. Our Service Partners and we use your Personal Information to operate the site and services that we offer, and to inform you of new features, services, and products available to you.
+
+**Principle 3.** We do not believe that any portion of our site or services directly solicits children 13 years old or younger. However, if we develop a portion of our site or services that does directly solicit children age 13 years old or younger, we will not directly solicit Personal Information from children, nor provide it for 'Other Companies' Use without first obtaining the consent of a parent or guardian. If possible, we will also endeavor to provide e-mail notice to parents that their children have provided Personal Information to the site.
+
+**Principle 4.** We may disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on us or our affiliates; (b) protect and defend our rights or property or those of our users, and (c) act as immediately necessary in order to protect the personal safety of our users or the public.
+
+**Principle 5.** If at any time you believe that we have violated these Policies, please notify us by e-mail at info@1parkplace.com and we will use all commercially reasonable efforts to promptly investigate and remedy the problem.
