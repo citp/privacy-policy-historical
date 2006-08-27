@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlepot.com privacy policy that was archived on 2006-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060228174802id_/http%3A//articlepot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlepot.com privacy policy that was archived on 2006-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060827165111id_/http%3A//articlepot.com/privacy.php) for the most accurate reproduction.*
 
 # Article Pot Directory: Free Articles | Author Submission | Search Find Free Content
 
