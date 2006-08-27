@@ -1,0 +1,33 @@
+> *The following text is extracted and transformed from the rapiddrugdetection.com privacy policy that was archived on 2006-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060827030048id_/http%3A//www.rapiddrugdetection.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+
+# Rapid Drug Detection ::
+
+Our customer-focused approach dictates all facets of our business. 
+
+Respecting and maintaining privacy of our clients and customers lays the foundation of trust we have built over the years. Please go through our detailed privacy policy to understand how we protect information that you supply to us. It is essential that you go through our privacy policy in detail, as by accepting our privacy policy; you provide your consent in agreeing to our treatment of information provided by you.
+
+#### RapidDrugDetectionKits.com does not sell, trade, or rent your personal information to others. Expand to read more.
+
+#### We share information such as name, address, phone & email address with credit card companies and shipping companies. Read more...
+
+#### We never send any unsolicited e-mails from our site to our customers. Read more...
+
+#### We stringently follow well-documented procedures to ensure proper storage of your information. Read more...
+
+#### We do not store your credit card information.Read more...
+
+#### RapidDrugDetectionKits.com may be required by judicial authorities or other law enforcement agencies to provide personal information. We do need to share your private information your credit-card company for verification and confirmation of payments. Read more...
+
+#### We use cookies to store some information on your computer to keep track of your shopping cart. Read more...
+
+#### We do not take responsibility of the websites you might come across, while navigating our Website. Read more...
+
+#### We strongly recommend you to mark your choices with discretion while filling out the registration and other forms. Read more...
+
+#### All orders are shipped in Plain Brown Boxesfor privacy reasons. Read more...
+
+#### We use highly secure 128-bit encryption over SSL to protect your credit card information from all unauthorized users. Read more...
+
+#### Our innovative shopping guarantee ensures that every transaction you make at RapidDrugDetection Kits.com.com will be 100% safe. Expand
+
+In a nutshell, shopping with RapidDrugDetection Kits.com is as secure as doing it at a store near you, and that too, at the convenience of your home, without your identity ever being released to any third party
