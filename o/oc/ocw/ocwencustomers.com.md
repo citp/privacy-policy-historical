@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocwencustomers.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618095355id_/http%3A//www.ocwencustomers.com/documents/pdf/GeneralPrivacyNotice6-05.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocwencustomers.com privacy policy that was archived on 2006-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060827112452id_/http%3A//www.ocwencustomers.com/documents/pdf/GeneralPrivacyNotice6-05.pdf) for the most accurate reproduction.*
 
 # Ocwen Financial CorporationPrivacy Policy Statement
 
