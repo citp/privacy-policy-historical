@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the defencetalk.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614113713id_/http%3A//www.defencetalk.com/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defencetalk.com privacy policy that was archived on 2006-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060827231349id_/http%3A//www.defencetalk.com/about_us/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Military - Defense News | Defence Forum | Military Pictures and Photos Gallery | Weapons
+# Privacy Policy - Military - Defense News | Defence Forum | Military Pictures Photos | Weapons
 
 DefenceTalk.com (hereafter referred to as DefenceTalk), is committed to protecting the privacy of its visitors, members and all users of our internet services. The following Privacy Policy outlines how DefenceTalk treats personal information received about you when you visit our web sites. 
 
