@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keralaonline.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001629id_/http%3A//keralaonline.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralaonline.com privacy policy that was archived on 2006-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060828203238id_/http%3A//keralaonline.com/mainpages/privacy.php) for the most accurate reproduction.*
 
 # Keralaonline :: Capturing the essence of Kerala
 
