@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gebiz.gov.sg privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616201136id_/http%3A//www.gebiz.gov.sg/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gebiz.gov.sg privacy policy that was archived on 2006-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060828051440id_/http%3A//www.gebiz.gov.sg/privacy_statement.html) for the most accurate reproduction.*
 
 # What is GeBIZ?
 
