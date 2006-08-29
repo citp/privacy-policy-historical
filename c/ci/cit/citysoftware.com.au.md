@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysoftware.com.au privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616202907id_/http%3A//www.citysoftware.com.au/Browse/fcc84204582f403095b66cdba7297630DataPage.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysoftware.com.au privacy policy that was archived on 2006-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060829121827id_/http%3A//www.citysoftware.com.au/Browse/fcc84204582f403095b66cdba7297630DataPage.aspx) for the most accurate reproduction.*
 
 # City Software: Black Tie Service, Plain Wrap Prices!
 
