@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zebra.com privacy policy that was archived on 2006-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060613023634id_/http%3A//zebra.com/id/zebra/na/en/index/about_zebra/our_company/compliance/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zebra.com privacy policy that was archived on 2006-08-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060829223444id_/http%3A//zebra.com/id/zebra/na/en/index/about_zebra/our_company/compliance/privacy_statement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -765,7 +765,7 @@ td#buy_button a:hover {
 
 <div id="callouttitlelink"><h4>Fact Sheet</h4>
 	<ul>		
-<li><a href="/id/zebra/na/en/documentlibrary/misc/zebra_fact_sheet.html?dvar1=Misc&amp;dvar2=Zebra Fact Sheet 2006">Learn more about Zebra in our Fact Sheet. </a>&nbsp;(PDF, 258 KB)</li>
+<li><a href="/id/zebra/na/en/documentlibrary/misc/zebra_fact_sheet.html?dvar1=Misc&amp;dvar2=Zebra Fact Sheet 2006">Learn more about Zebra in our Fact Sheet. </a>&nbsp;(PDF, 129 KB)</li>
 	</ul>
 
 
@@ -1027,7 +1027,8 @@ td#buy_button a:hover {
 
 	<!-- START OF SDC Advanced Tracking Code -->
 	<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-	<!-- $DateTime: 2005/12/15 15:37:36 $ -->
+	<!-- V8.0 -->
+	<!-- $DateTime: 2006/05/02 08:33:13 $ -->
 	<script type="text/javascript"><!--
 	var gService = true;
 	var gTimeZone = -6;
@@ -1089,6 +1090,7 @@ td#buy_button a:hover {
 		dCur.setTime(dCur.getTime()+adj);
 		var dExp=new Date(dCur.getTime()+315360000000);
 		var dSes=new Date(dCur.getTime());
+		WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
 		if (document.cookie.indexOf(name+"=")==-1){
 			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
 				WT.co_f=gWtId;
@@ -1109,8 +1111,8 @@ td#buy_button a:hover {
 			if (typeof(gWtAccountRollup)=="undefined"){
 				WT.vt_f_a="1";
 			}
-			WT.vt_f_s="1";
-			WT.vt_f_d="1";
+			WT.vt_f_s=WT.vt_f_d="1";
+			WT.vt_f_tlh=WT.vt_f_tlv="0";
 		}
 		else{
 			var id=dcsGetIdCrumb(name,"id");
@@ -1121,8 +1123,10 @@ td#buy_button a:hover {
 			}
 			WT.co_f=id;
 			var dLst=new Date(lv);
+			WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
 			dSes.setTime(ss);
 			if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+				WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
 				dSes.setTime(dCur.getTime());
 				WT.vt_f_s="1";
 			}
@@ -1135,7 +1139,7 @@ td#buy_button a:hover {
 		var expiry="; expires="+dExp.toGMTString();
 		document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
 		if (document.cookie.indexOf(name+"=")==-1){
-			WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d="";
+			WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
 			WT.vt_f=WT.vt_f_a="2";
 		}
 	}
@@ -1143,6 +1147,9 @@ td#buy_button a:hover {
 	// Code section for Use the new first-party cookie generated with this tag.
 	var gFpc="WT_FPC";
 	var gConvert=true;
+
+	// Code section for Set the First-Party Cookie domain
+	var gFpcDom=".zebra.com";
 
 	function dcsAdv(){
 		dcsFunc("dcsET");
@@ -1157,7 +1164,8 @@ td#buy_button a:hover {
 
 	<!-- START OF SmartSource Data Collector TAG -->
 	<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-	<!-- $DateTime: 2006/02/24 12:41:04 $ -->
+	<!-- V8.0 -->
+	<!-- $DateTime: 2006/05/02 08:33:13 $ -->
 	<script type="text/javascript"><!--
 	var gDomain="statse.webtrendslive.com";
 	var gDcsId="dcslkvakq9u4fir3jk46bnu49_3k7k";
@@ -1176,9 +1184,11 @@ td#buy_button a:hover {
 	var gQP=new Array();
 	var gI18n=false;
 	if (window.RegExp){
-		var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+		var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g};
 		var I18NRE={"%25":/\%/g};
 	}
+
+	// Add customizations here
 
 	function dcsVar(){
 		var dCurrent=new Date();
@@ -1247,6 +1257,7 @@ td#buy_button a:hover {
 				WT.le=document.characterSet;
 			}
 		}
+		WT.tv="8.0.0";
 		WT.sp="@@SPLITVALUE@@";
 		DCS.dcsdat=dCurrent.getTime();
 		DCS.dcssip=window.location.hostname;
@@ -1402,9 +1413,9 @@ td#buy_button a:hover {
 	</script>
 
 	<noscript>
-	<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcslkvakq9u4fir3jk46bnu49_3k7k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+	<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcslkvakq9u4fir3jk46bnu49_3k7k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.0">
 	</noscript>
-	<!-- END OF SmartSource Data Collector  TAG -->	
+	<!-- END OF SmartSource Data Collector  TAG -->
 
   
 
