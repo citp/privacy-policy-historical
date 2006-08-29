@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quintura.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615185441id_/http%3A//quintura.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quintura.com privacy policy that was archived on 2006-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060829222456id_/http%3A//quintura.com/privacy.asp) for the most accurate reproduction.*
 
 # Quintura - Privacy Policy
 
