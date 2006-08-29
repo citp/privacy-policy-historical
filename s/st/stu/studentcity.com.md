@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614175415id_/http%3A//studentcity.com/about/privacypolicies.php%3Fds%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2006-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060829205940id_/http%3A//studentcity.com/about/privacypolicies.php%3Fds%3D1) for the most accurate reproduction.*
 
 # StudentCity - Spring Break Travel Packages
 
