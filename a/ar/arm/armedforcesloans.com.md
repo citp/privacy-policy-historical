@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armedforcesloans.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614192839id_/http%3A//armedforcesloans.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armedforcesloans.com privacy policy that was archived on 2006-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060831005233id_/http%3A//armedforcesloans.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to Armed Forces Military Loans
 
@@ -41,4 +41,4 @@
 PHONE :  ****702 868 6204****    OR    **1-800-706-9676  
 **EMAIL Questions:    [admin@armedforcesloans.com](mailto:admin@armedforcesloans.com) ******
 
-[**Home**](https://web.archive.org/web/20060614192839id_/http%3A//armedforcesloans.com/index.htm) **|**[ **About Us**](https://web.archive.org/web/20060614192839id_/http%3A//armedforcesloans.com/aboutus.htm) **|**[ **Application**](https://www.armedforcesloans.com/application.asp) **|**[ **Questions**](https://web.archive.org/web/20060614192839id_/http%3A//armedforcesloans.com/questions.htm) **|**[ **Privacy**](https://web.archive.org/web/20060614192839id_/http%3A//armedforcesloans.com/privacy.htm)
+[**Home**](https://web.archive.org/web/20060831005233id_/http%3A//armedforcesloans.com/index.htm) **|**[ **About Us**](https://web.archive.org/web/20060831005233id_/http%3A//armedforcesloans.com/aboutus.htm) **|**[ **Application**](https://www.armedforcesloans.com/application.asp) **|**[ **Questions**](https://web.archive.org/web/20060831005233id_/http%3A//armedforcesloans.com/questions.htm) **|**[ **Privacy**](https://web.archive.org/web/20060831005233id_/http%3A//armedforcesloans.com/privacy.htm)
