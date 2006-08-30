@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellysearch.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619070748id_/http%3A//www.kellysearch.com/infozone/resources/privpolicy.asp%3Fsearch-location%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellysearch.com privacy policy that was archived on 2006-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060830155524id_/http%3A//www.kellysearch.com/infozone/resources/privpolicy.asp%3Fsearch-location%3Dus) for the most accurate reproduction.*
 
 # Kellysearch - Privacy policy
 
