@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zyrtec.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615065108id_/http%3A//zyrtec.com/index.asp%3Fpid%3D0_2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyrtec.com privacy policy that was archived on 2006-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060830232701id_/http%3A//www.zyrtec.com/index.asp%3Fpid%3D0_2) for the most accurate reproduction.*
 
 # ZYRTEC® (cetirizine HCl). Privacy Policy
 
