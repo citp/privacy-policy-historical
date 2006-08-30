@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fiql.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305222919id_/http%3A//fiql.com/privacy2.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiql.com privacy policy that was archived on 2006-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060830150400id_/http%3A//fiql.com/privacy.php) for the most accurate reproduction.*
 
-# FIQL.com: The Best Source for Music Playlists
+# FIQL.com - The Best Source for Music Playlists
 
-**PRIVACY POLICY**
+Privacy Policy
 
-> FIQL provides this explanation about our online information practices as a show of our commitment to protect your privacy. 
-> 
-> We do not sell, rent or otherwise use personally-identifying information (which means your actual identity, e-mail address, password, personal address and financial information, but not public information you choose to submit) collected during your use of our Website (www.fiql.com) without your permission, unless required to do so by law. 
+FIQL provides this explanation about our online information practices as a show of our commitment to protect your privacy. 
+
+We do not sell, rent or otherwise use personally-identifying information (which means your actual identity, e-mail address, password, personal address and financial information, but not public information you choose to submit) collected during your use of our Website (www.fiql.com) without your permission, unless required to do so by law. 
 
 **The Information We Collect**
 
