@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siuc.edu privacy policy that was archived on 2006-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060202234643id_/http%3A//www.siuc.edu/policies/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siuc.edu privacy policy that was archived on 2006-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060830142223id_/http%3A//www.siuc.edu/policies/index.html) for the most accurate reproduction.*
 
 # Welcome to Southern Illinois University Carbondale
 
