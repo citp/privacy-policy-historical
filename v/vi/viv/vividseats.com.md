@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001756id_/http%3A//www.vividseats.com/shop/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2006-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060830135809id_/http%3A//www.vividseats.com/shop/privacy.shtml) for the most accurate reproduction.*
 
 # VIVID Seats - Privacy Information
 
