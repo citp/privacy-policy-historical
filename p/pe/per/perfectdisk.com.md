@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the perfectdisk.com privacy policy that was archived on 2004-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040408131735id_/http%3A//www.perfectdisk.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectdisk.com privacy policy that was archived on 2006-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060830194030id_/http%3A//www.perfectdisk.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # Raxco - Privacy Statement
 
-|  This is the Web site of Raxco Software, Inc. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices in connection with this Web site and the choices you can make about the way your information is collected and used at this Web site. We can be reached by mail at our postal address (6 Montgomery Village Avenue, Suite 500, Gaithersburg, MD 20871), by e-mail (info@raxco.com), or by telephone (301.527.0803 or 800.836.3844). 
+This is the Web site of Raxco Software, Inc. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices in connection with this Web site and the choices you can make about the way your information is collected and used at this Web site. We can be reached by mail at our postal address (6 Montgomery Village Avenue, Suite 500, Gaithersburg, MD 20871), by e-mail (information@raxco.com), or by telephone (301.527.0803 or 800.836.3844). 
 
 For each visitor to this Web site, our Web server automatically recognizes the consumer's domain name, but generally not the e-mail address. We collect the e-mail addresses of those who communicate with us via e-mail and aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations. We also may collect various types of personally identifiable information that is submitted to us via the Web site. Such information may include name, address, e-mail address, telephone number, fax number, and registration-related information, as well as information about your interests in and use of various programs and services. 
 
@@ -23,5 +23,3 @@ Consumers can access the information that we have collected from them online and
 With respect to security: we have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our Web site. However, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
 
 If you feel that this Web site is not following its stated information policy, you may contact us at the above-listed addresses or phone number.
-
-| 
