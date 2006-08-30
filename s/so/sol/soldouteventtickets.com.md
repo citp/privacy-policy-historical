@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soldouteventtickets.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014402id_/http%3A//soldouteventtickets.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soldouteventtickets.com privacy policy that was archived on 2006-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060830045403id_/http%3A//www.soldouteventtickets.com/privacy.asp) for the most accurate reproduction.*
 
 # Sold Out Event Tickets - Premiership Tickets, UK Concert Tickets, London Theatre Tickets, U2 Tickets
 
