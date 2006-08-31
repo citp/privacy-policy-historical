@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hottopic.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615234347id_/http%3A//www.hottopic.com/services/Privacy.asp%3FLS%3D0%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hottopic.com privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901002914id_/http%3A//www.hottopic.com/services/Privacy.asp%3FLS%3D0%26) for the most accurate reproduction.*
 
 # Privacy Policy @ Hottopic.com
 
 [ ](https://web.archive.org/community/30_years.asp?LS=0&)  
 ---  
-| [Home](https://web.archive.org/default.asp?LS=0&) |  | [Contests](https://web.archive.org/community/contests.asp?LS=0&) |  | [Wish List](https://web.archive.org/wishlist/welcome.asp?LS=0&) |  |  [Membership](https://www.hottopic.com/member/login.asp?LS=0&ret=services%2Fprivacy&retarg=) |  | [Cart](https://web.archive.org/cart/showCart.asp?LS=0&retloc=services%2Fprivacy&retarg=) |  | [Find a Store](https://web.archive.org/storeLoc/store_loc.asp?LS=0&ret=services%2Fprivacy&args=)  
+| [Home](https://web.archive.org/default.asp?LS=0&) |  | [Foundation](https://web.archive.org/services/ht_foundation.asp?LS=0&) |  | [Wish List](https://web.archive.org/wishlist/welcome.asp?LS=0&) |  |  [Membership](https://www.hottopic.com/member/login.asp?LS=0&ret=services%2Fprivacy&retarg=) |  | [Cart](https://web.archive.org/cart/showCart.asp?LS=0&retloc=services%2Fprivacy&retarg=) |  | [Find a Store](https://web.archive.org/storeLoc/store_loc.asp?LS=0&ret=services%2Fprivacy&args=)  
 ---|---|---|---|---|---|---|---|---|---|---  
 | | |   
 | [Shipping](https://web.archive.org/services/shipping.asp?LS=0&)  
@@ -54,7 +54,7 @@ On-Line Parental Consent
 City of Industry, CA 91748   
 (626) 839-4686 Fax 
 
-[Consent form](https://web.archive.org/web/20060615234347id_/http%3A//www.hottopic.com/services/parentalconsent.pdf)
+[Consent form](https://web.archive.org/web/20060901002914id_/http%3A//www.hottopic.com/services/parentalconsent.pdf)
 
 **
 
