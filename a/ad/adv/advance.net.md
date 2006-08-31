@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advance.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034833id_/http%3A//www.advance.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advance.net privacy policy that was archived on 2006-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060831044129id_/http%3A//www.advance.net/privacypolicy) for the most accurate reproduction.*
 
 # advance.net
 
