@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financealley.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617020900id_/http%3A//financealley.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financealley.com privacy policy that was archived on 2006-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060831144523id_/http%3A//financealley.com/privacy.php) for the most accurate reproduction.*
 
 # Finance Alley Privacy Policy
 
