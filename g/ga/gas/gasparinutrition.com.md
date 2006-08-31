@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gasparinutrition.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614182634id_/http%3A//www.gasparinutrition.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gasparinutrition.com privacy policy that was archived on 2006-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060831140409id_/http%3A//www.gasparinutrition.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Gaspari Nutrition - Training & Diet Information, Sports Supplements by Rich Gaspari - IFBB Pro
 
