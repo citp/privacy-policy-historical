@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allnautical.com privacy policy that was archived on 2006-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060610055530id_/http%3A//www.wayzatanautical.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnautical.com privacy policy that was archived on 2006-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060831215157id_/http%3A//www.wayzatanautical.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
