@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403171120id_/http%3A//www.moody.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2006-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060831130611id_/http%3A//www.moody.edu/privacy.htm) for the most accurate reproduction.*
 
 # MBI - Privacy
 
