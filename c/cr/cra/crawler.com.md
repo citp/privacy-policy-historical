@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crawler.com privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422181402id_/http%3A//www.crawler.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crawler.com privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901154234id_/http%3A//www.crawler.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Crawler.com - Games, Screensavers, Wallpapers, eCards and more! - Privacy Policy
 
