@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cxholidays.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220912id_/http%3A//www.cxholidays.com/chl/v/index.jsp%3Fvgnextoid%3De530f2c44f301010VgnVCM100000e6ce1c39RCRD%26lang%3Den%26nav%3Dtop) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cxholidays.com privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901111435id_/http%3A//www.cxholidays.com/chl/v/index.jsp%3Fvgnextoid%3De530f2c44f301010VgnVCM100000e6ce1c39RCRD%26lang%3Den%26nav%3Dtop) for the most accurate reproduction.*
 
 # Cathay Pacific Holidays - Data Privacy and Security Policy
 
