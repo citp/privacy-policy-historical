@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkrecord.com privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426161739id_/http%3A//www.parkrecord.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D122) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkrecord.com privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901025027id_/http%3A//www.parkrecord.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D122) for the most accurate reproduction.*
 
 # Privacy Policy
 
