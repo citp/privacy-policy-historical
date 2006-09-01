@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sltrib.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617001726id_/http%3A//www.sltrib.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D297) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sltrib.com privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901093131id_/http%3A//www.sltrib.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D297) for the most accurate reproduction.*
 
 # Privacy Policy
 
