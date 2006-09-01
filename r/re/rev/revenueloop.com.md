@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenueloop.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512080758id_/http%3A//revenueloop.com/index-8.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenueloop.com privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901022434id_/http%3A//revenueloop.com/index-8.html) for the most accurate reproduction.*
 
 # RevenueLoop Affiliate Network
 
