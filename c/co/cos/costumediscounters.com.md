@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumediscounters.com privacy policy that was archived on 2005-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051229133256id_/http%3A//www.costumediscounters.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumediscounters.com privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901025002id_/http%3A//www.costumediscounters.com/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
 
 # 
 
