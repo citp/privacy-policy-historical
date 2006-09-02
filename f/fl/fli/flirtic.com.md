@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirtic.com privacy policy that was archived on 2006-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060103202317id_/http%3A//www.flirtic.com/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirtic.com privacy policy that was archived on 2006-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060902162923id_/http%3A//flirtic.com/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # Online Dating Service International Dating Singles Partnership and Contacts
 
