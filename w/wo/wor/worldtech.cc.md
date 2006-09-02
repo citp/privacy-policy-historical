@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtech.cc privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621165144id_/http%3A//www.worldtech.cc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtech.cc privacy policy that was archived on 2006-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060902142405id_/http%3A//www.worldtech.cc/privacy.php) for the most accurate reproduction.*
 
 # WorldTech Media | Submit Articles | Search & Find Free Content | Author Submission
 
