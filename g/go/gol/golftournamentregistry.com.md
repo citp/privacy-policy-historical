@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golftournamentregistry.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617100351id_/http%3A//www.golftournamentregistry.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golftournamentregistry.com privacy policy that was archived on 2006-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060902134233id_/http%3A//www.golftournamentregistry.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Golf Tournament Registry: Online Golf Tournament Registry. Find & Advertise Golf Tournaments
 
@@ -6,7 +6,7 @@
 
 Revised August 1, 2005
 
-In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20060617100351id_/http%3A//www.golftournamentregistry.com/index.cfm?page=8). Your use of GolfTournamentRegistry.com constitutes agreement to the User Agreement terms and conditions.
+In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20060902134233id_/http%3A//www.golftournamentregistry.com/index.cfm?page=8). Your use of GolfTournamentRegistry.com constitutes agreement to the User Agreement terms and conditions.
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of GolfTournamentRegistry.com by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
@@ -46,4 +46,4 @@ GolfTournamentRegistry.com is not intended for use by children, especially those
 
 If your children disclose information about themselves in our public areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
-If you have other concerns or questions about any aspect of this policy, you may [e-mail us](https://web.archive.org/web/20060617100351id_/http%3A//www.golftournamentregistry.com/index.cfm?page=13) .
+If you have other concerns or questions about any aspect of this policy, you may [e-mail us](https://web.archive.org/web/20060902134233id_/http%3A//www.golftournamentregistry.com/index.cfm?page=13) .
