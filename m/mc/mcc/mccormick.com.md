@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mccormick.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619070244id_/http%3A//mccormick.com/content.cfm%3FID%3D10062) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccormick.com privacy policy that was archived on 2006-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060902164029id_/http%3A//www.mccormick.com/content.cfm%3FID%3D10062) for the most accurate reproduction.*
 
 # McCormick - Privacy Policy
 
@@ -30,7 +30,7 @@ McCormick & Co., Inc.
 211 Schilling Circle  
 Hunt Valley, MD 21031**
 
-or send us an [e-mail](https://web.archive.org/web/20060619070244id_/http%3A//mccormick.com/content.cfm?ID=10121)
+or send us an [e-mail](https://web.archive.org/web/20060902164029id_/http%3A//www.mccormick.com/content.cfm?ID=10121)
 
 **_This policy was last revised in July 2004._**
 
