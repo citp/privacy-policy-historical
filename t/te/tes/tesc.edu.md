@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tesc.edu privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625011505id_/http%3A//www.tesc.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesc.edu privacy policy that was archived on 2006-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060902040423id_/http%3A//www.tesc.edu/privacy.php) for the most accurate reproduction.*
 
 # Thomas Edison State College - Privacy Policy Statement
 
