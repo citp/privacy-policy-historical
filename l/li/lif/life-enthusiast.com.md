@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the life-enthusiast.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616084409id_/http%3A//www.life-enthusiast.com/index.php%3FQ1%3DCompany%26Q2%3DPolicies%26Q3%3DCompany_Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life-enthusiast.com privacy policy that was archived on 2006-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060903104513id_/http%3A//www.life-enthusiast.com/index.php%3FQ1%3DCompany%26Q2%3DPolicies%26Q3%3DCompany_Policies) for the most accurate reproduction.*
 
 # LEC Natural Healing Solutions | Company Information
 
