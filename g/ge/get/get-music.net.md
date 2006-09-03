@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get-music.net privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626064326id_/http%3A//get-music.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get-music.net privacy policy that was archived on 2006-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060904013029id_/http%3A//get-music.net/privacy.html) for the most accurate reproduction.*
 
 # Get-Music.net - Privacy Policy
 
