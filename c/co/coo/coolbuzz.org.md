@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolbuzz.org privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613235316id_/http%3A//www.coolbuzz.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbuzz.org privacy policy that was archived on 2006-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060903080558id_/http%3A//www.coolbuzz.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Coolbuzz - Gadgets, Fashion Fads, Décor and much more...
 
