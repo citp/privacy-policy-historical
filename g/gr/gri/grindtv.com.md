@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grindtv.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616203624id_/http%3A//www.grindtv.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grindtv.com privacy policy that was archived on 2006-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060903201314id_/http%3A//grindtv.com/info/privacy) for the most accurate reproduction.*
 
 # Grind TV.com - Skate videos, Surf videos, Ski and Snowboard videos, FMX & BMX videos, and more action sports videos on GrindTV
 
