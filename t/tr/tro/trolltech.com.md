@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the trolltech.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415002735id_/http%3A//www.trolltech.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trolltech.com privacy policy that was archived on 2006-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060904222951id_/http%3A//www.trolltech.com/trolltech/privacypolicy) for the most accurate reproduction.*
 
-# Trolltech - Trolltech Privacy Policy
+# Trolltech Privacy Policy — Trolltech
+
+| 
 
 Trolltech respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself. When we do need your personal information to provide services that you request or when you choose to provide us with your personal information, this policy describes how we collect and use your personal information. 
 
@@ -26,7 +28,7 @@ Trolltech uses information for several general purposes: to fulfill your request
 
 ### Information Sharing and Disclosure
 
-Because Trolltech is a global company, your personal information may be shared with other Trolltech offices around the world. All such entities are governed by this Privacy Policy. Your personal information is never shared outside Trolltech without your permission, except under conditions explained below. Inside Trolltech, data is stored in controlled servers with limited access. Trolltech may send your personal information to other companies or people under the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of Trolltech to provide a product or service to you (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or we want to keep you up to date on the latest product announcements, software updates, or other information we think you'd like to hear. We will also disclose your personal information if required to do so by law, or in urgent circumstances, to protect personal safety, the public or our websites. 
+Because Trolltech is a global company, your personal information may be shared with other Trolltech offices around the world. All such entities are governed by this Privacy Policy. Your personal information is never shared outside Trolltech without your permission, except under conditions explained below. Inside Trolltech, data is stored in controlled servers with limited access. Trolltech may send your personal information to other companies or people under the following circumstances: when we have your consent to share the information; we need to share your information to provide the product or service you have requested; we need to send the information to companies who work on behalf of Trolltech to provide a product or service to you (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or we want to keep you up to date on the latest product announcements, software updates, or other information we think you'd like to hear. We will also disclose your personal information if required to do so by law, in order to comply with applicable legal and financial obligations, or in urgent circumstances, to protect personal safety, the public or our websites. 
 
 ### Communications, Preferences and Opt-Out:
 
@@ -58,4 +60,4 @@ Trolltech will amend this policy from time to time. If we make any substantial c
 
 If you have questions or concerns about our collection, use, or disclosure of your personal information, please email us at [privacy@trolltech.com](mailto:privacy@trolltech.com). 
 
-This document was last reviewed on June 20, 2005 
+This document was last reviewed on May 2, 2006 
