@@ -1,0 +1,53 @@
+> *The following text is extracted and transformed from the mysmallbiz.com privacy policy that was archived on 2006-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060905075612id_/http%3A//mysmallbiz.com/pg/pub/privacy.php) for the most accurate reproduction.*
+
+# MySmallBiz.com - Your #1 source for small business ideas and startup information
+
+**Privacy Policy**  
+Originated: February 16, 2006  
+Last Updated: April 12, 2006
+
+We at mysmallbiz.com have created our privacy policy to demonstrate our firm commitment to your online privacy. The following sections disclose our methods for gathering and disseminating information gathered from this site. 
+
+**Non-Personal Information**  
+During your visit to mysmallbiz.com, we may collect data about your visit. This data **does not** personally identify you. The data is collected in aggregated, anonymous form and helps us improve our site and make it easier to use. We may share this aggregated data with others including, but not limited to current or potential advertisers and other third-party partners.
+
+We may use your IP address to help diagnose problems with our server, administer our site, identify potential site abuse or gather broad demographic information.
+
+**Personal Information and Communication Preferences**  
+Submission of any personal information by you to the site is completely voluntary. Normal visitors to the site need not submit any personal information as a prerequisite of using this site. If you wish to receive the mysmallbiz.com e-Newsletter, you will be asked to provide to us your valid email address. We use your email address to send you our e-Newsletter only. We do not share your email address with others. You may unsubscribe to our e-Newsletter at any time. We provide an unsubscribe link within each of our e-Newsletters. You may also contact us at [support@mysmallbiz.com](mailto:support@mysmallbiz.com) for assistance with unsubscribing. 
+
+**Cookies**  
+At times we may use cookies to improve the interaction between you and the site. Cookies are files that are temporarily stored on your computer's hard drive. We may use cookies to customize your site experience, to make sure you don't see the same ad repeatedly, to deliver content specific to your interests, or to temporarily store data that is needed by the site for your visit to function properly. You may disallow cookies through your web browser and still visit the site; doing so, however, may render some or all features of the site unusable. We will never use cookies to retrieve information from a computer for purposes unrelated to this site. 
+
+**Other Sites**  
+Mysmallbiz.com contains links to other sites. Other sites may also reference or link to our site. We are not responsible for the privacy practices or the content of such other sites. 
+
+**Security**  
+We take seriously the security for all personal and non-personal information associated with our visitors. Due to the open communication nature of the Internet, however, we can not guarantee that communications between you and site, and you and the site staff will be free from unauthorized access by third parties. 
+
+**Your Acceptance of this Policy**  
+By visiting this site, you signify your assent to our then-current Privacy Policy. If you do not agree to this policy, please do not use our site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. Your continued use of our site following the posting of changes to this policy means you accept these changes. 
+
+**BIZ FOUNDRY, LTD. COPYRIGHT NOTICE**  
+Copyright 2006 by Biz Foundry, Ltd. All rights reserved. 
+
+If you believe that your work has been copied in a way that constitutes copyright infringement, please forward the following information to Biz Foundry, Ltd., either in electronic or postal mail form, designated as such pursuant to the Digital Millennium Copyright Act, 17 U.S.C. Â§ 512(c)(2), named below: 
+
+  * Your address, telephone number, and email address; 
+  * A description of the copyrighted work that you claim has been infringed; 
+  * A description of where the alleged infringing material is located; 
+  * A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; 
+  * An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; and 
+  * A statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf. 
+
+
+
+Please send your submission to either of the following:
+
+**Postal Mail**  
+Biz Foundry, Ltd.  
+400 Dorla Court, pob 10162  
+Zephyr Cove, NV 89448
+
+**E-Mail**  
+[support@mysmallbiz.com](mailto:support@mysmallbiz.com)
