@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parveentravels.com privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430164644id_/http%3A//www.parveentravels.com/page/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parveentravels.com privacy policy that was archived on 2006-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060905215820id_/http%3A//parveentravels.com/page/privacypolicy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Parveen Travels (P) Ltd.
 
