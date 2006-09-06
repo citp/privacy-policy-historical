@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joonmali.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616001114id_/http%3A//joonmali.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joonmali.com privacy policy that was archived on 2006-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060906042428id_/http%3A//www.joonmali.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Joon Mali - Sexy Thai Bubble-Butt Teen!
 
