@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the binghamton.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052750id_/http%3A//computing.binghamton.edu/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binghamton.edu privacy policy that was archived on 2006-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060906064114id_/http%3A//computing.binghamton.edu/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |  |  |  |   
 ---|---|---|---|---  
-| [](https://web.archive.org/web/20060615052750id_/http%3A//computing.binghamton.edu/accounts/index.html) |   
+| [](https://web.archive.org/web/20060906064114id_/http%3A//computing.binghamton.edu/accounts/index.html) |   
 |   
 [](http://training.binghamton.edu/) |   
 |   
-[](https://web.archive.org/web/20060615052750id_/http%3A//computing.binghamton.edu/email/index.html) |   
+[](https://web.archive.org/web/20060906064114id_/http%3A//computing.binghamton.edu/email/index.html) |   
 |   
-[](https://web.archive.org/web/20060615052750id_/http%3A//computing.binghamton.edu/facilities/index.html) |   
+[](https://web.archive.org/web/20060906064114id_/http%3A//computing.binghamton.edu/facilities/index.html) |   
 |   
-[](https://web.archive.org/web/20060615052750id_/http%3A//computing.binghamton.edu/network/index.html) |   
+[](https://web.archive.org/web/20060906064114id_/http%3A//computing.binghamton.edu/network/index.html) |   
 |   
-[](https://web.archive.org/web/20060615052750id_/http%3A//computing.binghamton.edu/security/index.html) |   
+[](https://web.archive.org/web/20060906064114id_/http%3A//computing.binghamton.edu/security/index.html) |   
 |   
-[](https://web.archive.org/web/20060615052750id_/http%3A//computing.binghamton.edu/software/index.html) |   
+[](https://web.archive.org/web/20060906064114id_/http%3A//computing.binghamton.edu/software/index.html) |   
 |   
-[](https://web.archive.org/web/20060615052750id_/http%3A//computing.binghamton.edu/web/index.html) |   
+[](https://web.archive.org/web/20060906064114id_/http%3A//computing.binghamton.edu/web/index.html) |   
 |   
   |    
   
@@ -40,7 +40,7 @@ When visiting binghamton.edu, Binghamton University automatically collects and s
 
 
 
-None of the above-mentioned information is deemed to constitute _personal information_ by the [Internet Security and Privacy Act](http://assembly.state.ny.us/leg/?cl=114&a=3). The information that is collected automatically is used to improve binghamton.edu's content and to help Binghamton University understand how _users_ are interacting with its Web site. This information is collected for statistical analysis and to determine what information is of most and least interest to our _users_.  The information is not collected for commercial marketing purposes and Binghamton University is not authorized to sell or otherwise disclose the information collected from binghamton.edu for commercial marketing purposes.
+None of the above-mentioned information is deemed to constitute _personal information_ by the [Internet Security and Privacy Act](http://www.oft.state.ny.us/policy/OFTEnablingLeg.htm). The information that is collected automatically is used to improve binghamton.edu's content and to help Binghamton University understand how _users_ are interacting with its Web site. This information is collected for statistical analysis and to determine what information is of most and least interest to our _users_.  The information is not collected for commercial marketing purposes and Binghamton University is not authorized to sell or otherwise disclose the information collected from binghamton.edu for commercial marketing purposes.
 
 Information Collected When You E-mail binghamton.edu or Complete a Transaction 
 
