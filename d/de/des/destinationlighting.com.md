@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationlighting.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622110904id_/http%3A//www.destinationlighting.com/content.jhtml%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationlighting.com privacy policy that was archived on 2006-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060907001023id_/http%3A//www.destinationlighting.com/content.jhtml%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Indoor Lighting, Outdoor Lighting and more | Destination Lighting
 
@@ -30,4 +30,4 @@ Destination Lighting takes considerable precautions to protect your personal inf
 We use the latest encryption technology to keep your personal information safe. We use Secure Sockets Layer (SSL) technology to ensure the security of your personal and order information. All your ordering information - including your name, address, and credit card number - is encrypted over a secure channel for maximum security. 
 
 **Questions or Concerns**  
-If you have questions about this policy please contact our [Customer Service](https://web.archive.org/web/20060622110904id_/http%3A//www.destinationlighting.com/content.jhtml?id=customerservice) department. Thank you for shopping at Destination Lighting.
+If you have questions about this policy please contact our [Customer Service](https://web.archive.org/web/20060907001023id_/http%3A//www.destinationlighting.com/content.jhtml?id=customerservice) department. Thank you for shopping at Destination Lighting.
