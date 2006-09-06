@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netratings.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205154id_/http%3A//netratings.com/corp.jsp%3Fsection%3Dleg_prs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netratings.com privacy policy that was archived on 2006-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060906064326id_/http%3A//netratings.com/corp.jsp%3Fsection%3Dleg_prs) for the most accurate reproduction.*
 
 # Nielsen//NetRatings: A global leader in Internet media and market research
 
