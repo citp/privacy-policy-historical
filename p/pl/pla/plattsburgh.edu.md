@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plattsburgh.edu privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425210039id_/http%3A//www.plattsburgh.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plattsburgh.edu privacy policy that was archived on 2006-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060907060439id_/http%3A//www.plattsburgh.edu/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policies at Plattsburgh State
 
@@ -32,9 +32,9 @@ Plattsburgh State does not collect any personal information about you unless you
 
 The information provided in this privacy policy should not be construed as giving business, legal, or other advice, or warranting as fail proof, the security of information provided through this website.
 
-##### Contact Information
+##### Contact Information 
 
-For questions regarding this Internet privacy policy, please contact
+For questions regarding this Internet privacy policy, please contact 
 
 **Web Oversight Working Group  
 ** Plattsburgh State University of New York  
