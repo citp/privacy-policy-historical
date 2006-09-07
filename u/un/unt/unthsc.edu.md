@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unthsc.edu privacy policy that was archived on 2006-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060106090106id_/http%3A//unthsc.edu/policies/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unthsc.edu privacy policy that was archived on 2006-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060907134700id_/http%3A//unthsc.edu/policies/Privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
