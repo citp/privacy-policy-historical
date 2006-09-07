@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpi.edu privacy policy that was archived on 2005-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050829072039id_/http%3A//www.wpi.edu/Web/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpi.edu privacy policy that was archived on 2006-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060907184846id_/http%3A//www.wpi.edu/Web/privacy.html) for the most accurate reproduction.*
 
 # WPI About This Site - Privacy Statement
 
