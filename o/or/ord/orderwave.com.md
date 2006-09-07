@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orderwave.com privacy policy that was archived on 2006-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060501155543id_/http%3A//www.orderwave.com/pub/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderwave.com privacy policy that was archived on 2006-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060907050241id_/http%3A//orderwave.com/pub/privacy_policy.html) for the most accurate reproduction.*
 
 # Orderwave | Inventory Management, Order Automation, Payment Processing, Shopping Cart, and more.
 
