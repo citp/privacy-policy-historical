@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astrolife.com privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422053648id_/http%3A//www.astrolife.com/help/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrolife.com privacy policy that was archived on 2006-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060907132153id_/http%3A//www.astrolife.com/help/privacy-policy.php) for the most accurate reproduction.*
 
-# Vedic Chart, Vedic Astrology - Astro Life.com
+# Help :: Astrolife.com
 
 We, at Astrolife.com, take your privacy very seriously and abide by the following policy to ensure your satisfaction. If you have any concerns, please do not hesitate to contact us.
 
@@ -120,7 +120,7 @@ While we use SSL encryption to protect sensitive information online, we also do 
 
 If you have any questions about the security at our website, please contact us.
 
-**Tell me about d-mail choice/opt-out policy.**
+**Tell me about e-mail choice/opt-out policy.**
 
 Our users are given the opportunity to 'opt-out' of having information used for purposes not directly related to our site at the point where we ask for the information.
 
