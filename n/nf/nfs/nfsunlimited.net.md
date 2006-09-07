@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nfsunlimited.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215309id_/http%3A//www.nfsunlimited.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfsunlimited.net privacy policy that was archived on 2006-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060907221032id_/http%3A//www.nfsunlimited.net/privacy) for the most accurate reproduction.*
 
-# NFSUnlimited.net :: The Need for Speed - Privacy Policy
+# NFSUnlimited.net - covering Need for Speed Carbon and more - Privacy Policy
 
 Privacy Policy
 
