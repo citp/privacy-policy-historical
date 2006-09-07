@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatham.edu privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223191515id_/http%3A//www.chatham.edu/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatham.edu privacy policy that was archived on 2006-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060907200453id_/http%3A//www.chatham.edu/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Chatham College - Womens Undergraduate/Coed Graduate College in Pittsburgh Pennsylvania
 
