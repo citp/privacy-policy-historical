@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ewu.edu privacy policy that was archived on 2006-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060514220816id_/http%3A//www.ewu.edu/x13715.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewu.edu privacy policy that was archived on 2006-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060907103135id_/http%3A//www.ewu.edu/x13715.xml) for the most accurate reproduction.*
 
 # EWU | EWU Privacy Policy
 
-[Home](https://web.archive.org/web/20060507205136id_/http://www.ewu.edu/x336.xml)
+[Home](https://web.archive.org/web/20060907103140id_/http://www.ewu.edu/x336.xml)
 
 EWU Privacy Policy
 
