@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotel.com.au privacy policy that was archived on 2005-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050615060231id_/http%3A//hotel.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel.com.au privacy policy that was archived on 2006-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060907190822id_/http%3A//www.hotel.com.au/privacy.asp) for the most accurate reproduction.*
 
 # About Hotel.com.au - Offering a wide choice of competitive rate hotels world wide
 
