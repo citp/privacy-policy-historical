@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justarticles.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614101649id_/http%3A//www.justarticles.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justarticles.net privacy policy that was archived on 2006-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060908191358id_/http%3A//www.justarticles.net/privacy.php) for the most accurate reproduction.*
 
 # Just Articles Article Directory
 
