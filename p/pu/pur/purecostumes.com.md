@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purecostumes.com privacy policy that was archived on 2006-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060515230122id_/http%3A//www.purecostumes.com/costumes/store/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purecostumes.com privacy policy that was archived on 2006-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060908021456id_/http%3A//www.purecostumes.com/costumes/store/policy.asp) for the most accurate reproduction.*
 
 # Pure Costumes :: Halloween Costumes Store for Adults Plus, Adult, Teens, Child, and Toddler
 
