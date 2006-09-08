@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phing.com privacy policy that was archived on 2006-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060216183009id_/http%3A//www.phing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phing.com privacy policy that was archived on 2006-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060908192631id_/http%3A//www.phing.com/privacy.php) for the most accurate reproduction.*
 
 # pHing - Free Local Classifieds Ads and Want to Ads for Cars, Services, Jobs, Resumes, Computers, Housing, Apartments, Furniture, Personals, Services, Events, Appliances, Pets, Vacation Homes and more.
 
