@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamrankings.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510065926id_/http%3A//teamrankings.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamrankings.com privacy policy that was archived on 2006-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060909214038id_/http%3A//teamrankings.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Mike Greenfield's Team Rankings
 
