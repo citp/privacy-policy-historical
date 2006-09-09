@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denverpost.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204732id_/http%3A//www.denverpost.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denverpost.com privacy policy that was archived on 2006-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060909133956id_/http%3A//www.denverpost.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D36) for the most accurate reproduction.*
 
 # Privacy Policy
 
