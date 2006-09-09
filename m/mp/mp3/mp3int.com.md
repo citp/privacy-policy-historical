@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3int.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614132538id_/http%3A//mp3int.com/eng/ln.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3int.com privacy policy that was archived on 2006-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060909034245id_/http%3A//www.mp3int.com/eng/ln.php) for the most accurate reproduction.*
 
 # Free Mp3 Downloads - mp3INT.com - We Make Music Come To You
 
