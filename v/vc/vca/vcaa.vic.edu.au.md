@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcaa.vic.edu.au privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623144307id_/http%3A//www.vcaa.vic.edu.au/vcaa/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcaa.vic.edu.au privacy policy that was archived on 2006-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060910014854id_/http%3A//www.vcaa.vic.edu.au/vcaa/footer/privacy.html) for the most accurate reproduction.*
 
 # None
 
