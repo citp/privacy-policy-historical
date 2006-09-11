@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendoorsusa.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615153804id_/http%3A//www.opendoorsusa.org/Display.asp%3FPage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendoorsusa.org privacy policy that was archived on 2006-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060911185050id_/http%3A//www.opendoorsusa.org/Display.asp%3FPage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Open Doors USA
 
@@ -6,7 +6,7 @@
 
 By visiting opendoorsusa.org you are accepting and consenting to the practices described in this Privacy Policy notice.
 
-_Last updated November 11, 2004_
+_Last updated  August 11, 2006_
 
 **Controllers of Personal Information**
 
@@ -67,8 +67,10 @@ We have implemented security policies, rules and technical measures to ensure th
 
 **What other options do I have?**
 
-You can always choose not to provide personal information to us online, even though it might be needed to make a donation or to subscribe to Open Doors' publications and/or e-publications. Simply call our office at (949) 752-6600 with your credit card details or fax them to us at (949) 752-6442. Alternatively you can send letters and checks to us at: **Open Doors USA, PO Box 27001, Santa Ana, CA 92799.**
+You can always choose not to provide personal information to us online, even though it might be needed to make a donation or to subscribe to Open Doors' publications and/or e-publications. Simply call our office at (949) 752-6600 with your credit card details or fax them to us at (949) 752-6442. Alternatively you can send letters and checks to us at: **Open Doors USA, PO Box 27001, Santa Ana, CA 92799.   **To contact us by email, click on: [usa@opendoors.org](mailto:usa@opendoors.org).
 
-To contact us by email, click on: [usa@opendoors.org](mailto:usa@opendoors.org).
+**What if I have questions or need to make corrections to my information?**
+
+You can always contact us directly to review or change any personal information you have provided. Simply call our office at (949) 752-6600 or fax your questions to us at (949) 752-6442. Alternatively you can send letters to: **Open Doors USA, PO Box 27001, Santa Ana, CA 92799.   **To contact us by email, click on: [usa@opendoors.org](mailto:usa@opendoors.org).
 
 Our Privacy Notice may change from time to time. You should check our website frequently to see recent changes. 
