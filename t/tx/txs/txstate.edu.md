@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txstate.edu privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305230237id_/http%3A//www.txstate.edu/computing/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txstate.edu privacy policy that was archived on 2006-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060911133245id_/http%3A//www.txstate.edu/computing/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for System Administration
 
@@ -46,6 +46,6 @@ This site has security measures in place to protect from loss, misuse and altera
 
 **VI. Privacy Rights**
 
-Texas State's [Privacy Rights Notice](https://web.archive.org/web/20050305230237id_/http%3A//www.txstate.edu/computing/privacy_rights_notice.htm) describes your rights with respect to the information you supply to Texas State University-San Marcos via any paper or electronic form(s). 
+Texas State's [Privacy Rights Notice](https://web.archive.org/web/20060911133245id_/http%3A//www.txstate.edu/computing/privacy_rights_notice.htm) describes your rights with respect to the information you supply to Texas State University-San Marcos via any paper or electronic form(s). 
 
 If there are any questions about this privacy statement, the practices of this site, or dealings with this website, contact [webmaster@txstate.edu](mailto:webmaster@txstate.edu). 
