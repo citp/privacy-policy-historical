@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingbet.com.au privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614115636id_/http%3A//www.sportingbet.com.au/uipub/content.aspx%3Fpid%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingbet.com.au privacy policy that was archived on 2006-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060911123122id_/http%3A//www.sportingbet.com.au/uipub/content.aspx%3Fpid%3Dpriv) for the most accurate reproduction.*
 
 # Sportingbet Australia
 
@@ -23,7 +23,7 @@ We may also use contact details for the purpose of sending information about pro
 Unless you consent, use of your personal information will be related to the primary reason for collection and, only if you would reasonably expect it to occur, would your personal information be used for a secondary purpose or if it is required or authorised by law or otherwise permitted under the Privacy Act.   
 To whom personal information is disclosed  
 Sportingbet Australia does not sell personal information to other companies.  
-The only circumstances in which external organisations may be given access to your personal information are when a related company or contractors and service providers acting on behalf of Sportingbet Australia are helping us operate our business or provide a service to you on our behalf.  
+There are limited circumstances in which external orgainisations may be given access to your personal information. One circumstance is where an Australian governing sporting body requests information of a Client who joined Sportingbet Australia after September 1, 2006 and that information will only be provided to assist in a legitimate inquiry conducted by the Australia governing sporting body to maintain the integrity of the sport. The other circumstance is where a related company or contractors and service providers are acting on behalf of Sportingbet Australia helping us operate our business or provide a service to you on our behalf.  
 We require these organisations to agree to our Privacy Policy and to strict conditions governing how this information may be used.  
 We will give you a way to ["opt-in/opt-out"] of being contacted for promotional purposes by us and any third parties.   
 Security of personal information  
