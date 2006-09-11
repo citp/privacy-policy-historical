@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubex.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619033516id_/http%3A//ubex.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubex.com privacy policy that was archived on 2006-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060911023131id_/http%3A//ubex.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Ubex Corporation, Privacy Policy
 
