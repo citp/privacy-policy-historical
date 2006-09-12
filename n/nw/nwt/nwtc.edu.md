@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwtc.edu privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418012921id_/http%3A//www.nwtc.edu/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwtc.edu privacy policy that was archived on 2006-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060912053327id_/http%3A//www.nwtc.edu/Privacy.htm) for the most accurate reproduction.*
 
 # NWTC Privacy Statement
 
