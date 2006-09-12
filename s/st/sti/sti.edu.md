@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sti.edu privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513172142id_/http%3A//www.sti.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sti.edu privacy policy that was archived on 2006-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060912071205id_/http%3A//www.sti.edu/privacy.asp) for the most accurate reproduction.*
 
 # STI Colleges and Education Centers
 
@@ -52,7 +52,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
   
 Conflict Resolution
 
-We are committed to resolving disputes within 24-48 hours. If the problem arises, users may [_contact_](https://web.archive.org/web/20060513172142id_/http%3A//www.sti.edu/contact.asp) us by [_email_](mailto:inquire@stihq.net) or telephone. 
+We are committed to resolving disputes within 24-48 hours. If the problem arises, users may [_contact_](https://web.archive.org/web/20060912071205id_/http%3A//www.sti.edu/contact.asp) us by [_email_](mailto:inquire@stihq.net) or telephone. 
 
 If users have any questions or suggestions regarding our privacy policy please contact us at: 
 
