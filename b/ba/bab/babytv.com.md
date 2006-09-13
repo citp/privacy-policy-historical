@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babytv.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202812id_/http%3A//www.babyuniverse.com/privacy/baby/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babytv.com privacy policy that was archived on 2006-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060913181446id_/http%3A//www.babyuniverse.com/privacy.asp%3Fstore%3Dbaby) for the most accurate reproduction.*
 
 # Welcome to Baby Universe
 
@@ -47,19 +47,19 @@ If you have provided us with information in the past and you would like to amend
 
 BabyUniverse  
 Attention: Customer Service/Unsubscribe  
-5601 Powerline Road, Suite 105  
-Fort Lauderdale, FL 33309  
+150 South US Highway One  
+Jupiter, FL 33477  
 Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, advertising, business developments, suggestions, compliments or complaints, you can contact us at:   
 BabyUniverse  
 Attention: Customer Service/Unsubscribe  
-5601 Powerline Road, Suite 105  
-Fort Lauderdale, FL 33309
+105 South US Highway One  
+Jupiter, FL 33477
 
 [ customerservice@babyuniverse.com](mailto:customerservice@babyuniverse.com)  
 [marketing@babyuniverse.com](mailto:marketing@babyuniverse.com)  
 [ publicrelations@babyuniverse.com](mailto:publicrelations@babyuniverse.com)  
 [ businessdevelopment@babyuniverse.com](mailto:businessdevelopment@babyuniverse.com)
 
-Updated: February 2006
+Updated: August 2006
