@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reserveamerica.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205233id_/http%3A//www.reserveamerica.com/jsp/homepage.jsp%3Fgoto%3D/home/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reserveamerica.com privacy policy that was archived on 2006-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060915235841id_/http%3A//ra1.reserveamerica.com/jsp/homepage.jsp%3Fgoto%3D/home/policy.html) for the most accurate reproduction.*
 
 # ReserveAmerica - Welcome!
 
