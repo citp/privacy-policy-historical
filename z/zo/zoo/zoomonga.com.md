@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomonga.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509062033id_/http%3A//zoomonga.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomonga.com privacy policy that was archived on 2006-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060916044024id_/http%3A//zoomonga.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Zoomonga
 
@@ -18,11 +18,11 @@ In some cases, we may use third party vendors to process your transactions on Zo
 
 Zoomonga automatically collects IP addresses and traffic information from visitors to our site. This information is aggregated into statistics to help us evaluate how visitors prefer to use and navigate our website, and to help us improve your experience on Zoomonga. We may share this aggregate traffic information with our partners or advertisers, but in no event, will we disclose any information that will identify you personally. Likewise, we may share aggregate sales information with third parties, but such information will not identify individual customers. 
 
-Cookies are small text files that a website can place on a user's computer hard drive to be a unique identifier for that user. Zoomonga uses its own cookies for a number of purposes, including to access your information when you "sign in", Keep track of preferences you specify while you are using Zoomonga's services, Conduct research to improve Zoomonga,s content and services. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. 
+Cookies are small text files that a website can place on a userâ€™s computer hard drive to be a unique identifier for that user. Zoomonga uses its own cookies for a number of purposes, including to access your information when you "sign in", Keep track of preferences you specify while you are using Zoomongaâ€™s services, Conduct research to improve Zoomonga,s content and services. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. 
 
 You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Zoomonga services that require you to "sign in," and you may not be able to take full advantage of the Zoomonga service. 
 
-However, our site does contain links to third-party websites, that show advertisements on some of our pages set and access their cookies on your computer. Please refer to the third party's privacy policy for details on their use of cookies. 
+However, our site does contain links to third-party websites, that show advertisements on some of our pages set and access their cookies on your computer. Please refer to the third partyâ€™s privacy policy for details on their use of cookies. 
 
 You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Zoomonga services that require you to "sign in," and you may not be able to take full advantage of the Zoomonga service. 
 
