@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pooldawg.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629080057id_/http%3A//www.pooldawg.com/shop/customer/help.php%3Fsection%3Dbusiness%26PHPSESSID%3Dd3511cbf9d50cadc674d66e8ebb49cb0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pooldawg.com privacy policy that was archived on 2006-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060916094524id_/http%3A//www.pooldawg.com/shop/customer/help.php%3Fsection%3Dbusiness%26PHPSESSID%3D53e77bfbd1cece0548be4127962f4149) for the most accurate reproduction.*
 
 # - Help section
 
-[Pool Dawg](http://www.pooldawg.com/?PHPSESSID=cf28c5559bfb6214b3a214912d78d2be) :: Help zone
+[Pool Dawg](http://www.pooldawg.com/?PHPSESSID=23088cc0ab2caa3d64bec89ab24c0b64) :: Help zone
 
 |   Shipping & Customer Service  
 ---  
