@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615105006id_/http%3A//www.rosie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosie.com privacy policy that was archived on 2006-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060916035356id_/http%3A//www.rosie.com/privacy) for the most accurate reproduction.*
 
 # r blog » Privacy Policy
 
@@ -59,7 +59,7 @@ If you need to correct the personal information for the BLOG you have provided t
 
 If you need to change your email address, you can unsubscribe from our mailing list and sign up again using your new information.
 
-If you need to correct the personal information for r-store you have provided to us, please send an email to [rstore@rosie.com](mailto:rstore@rosie.com).
+If you need to correct the personal information for r-store you have provided to us, please send an email to [shop@rosie.com](mailto:shop@rosie.com).
 
 **9\. Contacting us about privacy questions**
 
@@ -69,9 +69,9 @@ You can also reach us via US Mail at:
 
 rosie.com  
 c/o Echo Ditto, Inc.  
-Attn: Carey-Leah Havrilko  
-P.O. Box 50002  
-Arlington VA 22205-5002
+Attn: Gisele Toueg  
+116 West Houston Street  
+New York, NY 10012
 
 **10\. Changes to our Privacy Policy**
 
