@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estore.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615230637id_/http%3A//www.estore.com.au/Browse/fcc84204582f403095b66cdba7297630DataPage.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estore.com.au privacy policy that was archived on 2006-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060917224423id_/http%3A//www.estore.com.au/Browse/fcc84204582f403095b66cdba7297630DataPage.aspx) for the most accurate reproduction.*
 
 # eStore: Software, Hardware, Books, Games & More!
 
