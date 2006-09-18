@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescodiets.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628124248id_/http%3A//tescodiets.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescodiets.com privacy policy that was archived on 2006-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060918122514id_/http%3A//tescodiets.com/company/privacy.cfm%3Fcode%3D24030) for the most accurate reproduction.*
 
 # | eDiets Tesco Diets | Company
 
