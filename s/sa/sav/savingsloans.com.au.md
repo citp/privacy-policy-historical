@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the savingsloans.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616233640id_/http%3A//www.savingsloans.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingsloans.com.au privacy policy that was archived on 2006-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060920015645id_/http%3A//www.savingsloans.com.au/Content.aspx%3Fp%3D36) for the most accurate reproduction.*
 
-# Savings & Loans Credit Union - Privacy
-
-Privacy and Security
+# Savings & Loans - Privacy - Privacy and Security
 
 Your use of the Savings & Loans Credit Union (S.A.) Ltd ('Savings & Loans Credit Union') website is governed by the Website Privacy Statement set out below.
 
 Please read this information carefully. The use of this website by you indicates an acceptance of and agreement to be bound by the Privacy statement set out below. If you do not agree with the statement please do not use this website. Savings & Loans Credit Union reserves the right to make changes to this website and to this statement at any time. Any such modifications will become effective upon the date they are first posted to the website.
 
-  1. **Website Privacy Statement for Savings & Loans Credit Union**
+  1.  **Website Privacy Statement for Savings & Loans Credit Union**
 
 Any information that you provide to Savings & Loans Credit Union through this website will be maintained in accordance with this website privacy statement. Please ensure that you read the statement carefully and understand the purposes that information provided to Savings & Loans Credit Union will be collected used or disclosed. Savings & Loans Credit Union may change this statement from time to time and if so, Savings & Loans Credit Union will use reasonable efforts to publish such changes.
 
-  2. **Anonymous use of this website**
+  2.  **Anonymous use of this website**
 
 When you browse this website you will do so anonymously. Personal information, such as your name, address, telephone number or email address is not collected. Savings & Loans Credit Union does, however, use 'cookies' to collect information about how the website is used. 
 
@@ -22,7 +20,7 @@ When you browse this website you will do so anonymously. Personal information, s
 
 Savings & Loans Credit Union cookies do not contain personally identifying information. Users are free to change their web browsers to prevent the acceptance of cookies.
 
-  4. **What information does Savings & Loans Credit Union gather from users of this website?**
+  4.  **What information does Savings & Loans Credit Union gather from users of this website?**
 
 Savings & Loans Credit Union may gather information from you including your name and address among other personal data. Savings & Loans Credit Union limits the collection of information from you to what is needed to provide its products and services, to offer new products and services, and to fulfil any legal and regulatory requirements. For more information in relation to the collection use and disclosure of information by Savings & Loans Credit Union please read the 'Your Privacy' Brochure. 
 
@@ -36,17 +34,17 @@ In providing personal information to Savings & Loans Credit Union you are agreei
 
 If you wish to limit the use of your personal information to purposes other than those outlined in these paragraphs you should advise Savings & Loans Credit Union in writing as soon as possible.
 
-  6. **What choices do you have about how your personal information collected on this website is used and what is Savings & Loans Credit Union's commitment to data quality and reliability?**
+  6.  **What choices do you have about how your personal information collected on this website is used and what is Savings & Loans Credit Union's commitment to data quality and reliability?**
 
 Savings & Loans Credit Union respects your privacy and realises that not everyone likes to receive special offers or information. If you would like your name deleted from Savings & Loans Credit Union's list or if you don't want to receive Savings & Loans Credit Union 's email bulletins, please use the contact information below to request that Savings & Loans Credit Union remove you from its list. Be sure to include your name, postal address, telephone number, information contained in the Savings & Loans Credit Union mailer and/or other necessary information requested for removal. If you believe that Savings & Loans Credit Union may not have your correct and current personal information, please update your information by using the contact information below to inform Savings & Loans Credit Union of changes in your personal information.
 
-  7. **What is Savings & Loans Credit Union's commitment to data security for this website?**
+  7.  **What is Savings & Loans Credit Union's commitment to data security for this website?**
 
 Savings & Loans Credit Union recognises your concern for security, and will use reasonable efforts to establish secure connections with you and to limit access to databases containing personal information to authorised personnel only.
 
 Your information will be processed using the Web Site Trust Services provided by VeriSign. For more information see [www.verisign.com](http://www.verisign.com/)
 
-  8. **Links with other Websites**
+  8.  **Links with other Websites**
 
 You should be aware that if you link to another website it may contain a privacy statement different from this statement and other terms and conditions may apply. 
 
@@ -56,17 +54,17 @@ This Website Privacy Statement is intended to relate only to information that is
 
 Although Savings & Loans Credit Union consider that no inconsistency exists between this Website Privacy Statement and its other privacy policies, in the event of an inconsistency this Website Privacy Statement will take precedent for any information collected from the use of this website by you. In any other circumstances, the Savings & Loans Credit Union privacy policies apply equally.
 
-  10. **What are Savings & Loans Credit Union's contact procedures?**
+  10.  **What are Savings & Loans Credit Union's contact procedures?**
 
 If you believe Savings & Loans Credit Union has not adhered to its privacy statement, if you would like to be removed from Savings & Loans Credit Union's lists, or if you would like to update your personal information, you may notify Savings & Loans Credit Union by e-mail, telephone, fax, or postal mail. Savings & Loans Credit Union will use reasonable efforts to promptly resolve any issues.  
-**  
+ **  
 **
 
-  11. **Who can I contact if I have concerns about privacy?**
+  11.  **Who can I contact if I have concerns about privacy?**
 
 Savings & Loans Credit Union would welcome comments by you in relation to privacy issues generally, or any privacy issues that concern you. You may also contact the Privacy Commissioner if you want to know more about privacy issues. Their web address is: http://www.privacy.gov.au
 
-  12. **Savings & Loans Credit Union Contact Information**
+  12.  **Savings & Loans Credit Union Contact Information**
 
 Savings & Loans Credit Union (S.A.) Ltd  
 50 Flinders Street   
@@ -74,20 +72,9 @@ Adelaide S.A. 5000
 Telephone: 13 11 82 or (08) 8305 8305  
 Facsimile: (08) 8305 8318
 
-Savings & Loans Credit Union has also made it convenient for you to be removed from Savings & Loans Credit Union's e-mail bulletins. Just go to [Contact Us](https://web.archive.org/web/20050616233640id_/http%3A//www.savingsloans.com.au/talk_to_us.asp). 
+Savings & Loans Credit Union has also made it convenient for you to be removed from Savings & Loans Credit Union's e-mail bulletins. Just go to [Contact Us](http://www.savingsloans.com.au/Content.aspx?p=38). 
 
 
 
 
-Your Privacy
-
-The protection of your privacy is very important to us. Download the 'Your Privacy' brochure for further information.
-
-**[Your Privacy brochure](https://web.archive.org/web/20050616233640id_/http%3A//www.savingsloans.com.au/pdf/privacyDL.pdf)** (File size = 91 kb)   
-
-
-Frequently Asked Questions
-
-We have developed a Frequently Asked Questions (FAQ) brochure to provide you with an understanding of our privacy policy in relation to the management of personal information.
-
-**[FAQ brochure](https://web.archive.org/web/20050616233640id_/http%3A//www.savingsloans.com.au/pdf/PrivacyFAQs.pdf)** (File size = 57kb) 
+[Top of page](http://www.savingsloans.com.au/Content.aspx?p=36#top)
