@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentoffortune.com privacy policy that was archived on 2006-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060503190257id_/http%3A//www.studentoffortune.com/cgi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentoffortune.com privacy policy that was archived on 2006-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060919154036id_/http%3A//www.studentoffortune.com/cgi/privacy) for the most accurate reproduction.*
 
 # StudentOfFortune.com » Privacy Policy
 
