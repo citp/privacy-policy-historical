@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worksessions.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033104id_/http%3A//www.worksessions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksessions.com privacy policy that was archived on 2006-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060920183809id_/http%3A//www.worksessions.com/privacy_policy.html) for the most accurate reproduction.*
 
 # WorkSessions - Privacy Policy
 
@@ -18,7 +18,7 @@ Upload songs and instantly achieve worldwide airplay.
 ## [**Charts**](http://www.worksessions.com/charts.html)
 
   
-Top ten hip hop and dance tracks updated in realtime.   
+Top ten promoted tracks updated in realtime.   
   
 ## [**Contact Us**](http://www.worksessions.com/contact_us.html)
 
