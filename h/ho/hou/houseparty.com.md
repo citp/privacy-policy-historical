@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the houseparty.com privacy policy that was archived on 2006-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060213183457id_/http%3A//houseparty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseparty.com privacy policy that was archived on 2006-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060920201337id_/http%3A//houseparty.com/help/privacy) for the most accurate reproduction.*
 
-# House Party, Inc.
+# House Party Privacy Policy
 
 We at House Three (the company that owns and operates houseparty.com) are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. This notice explains our online information collection and use practices. Please take the time to read and understand this policy so that you can understand how we use your personal information. 
 
