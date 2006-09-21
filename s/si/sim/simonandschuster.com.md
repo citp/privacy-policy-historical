@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simonandschuster.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618031001id_/http%3A//www.simonsays.com/content/feature.cfm%3Fsid%3D33%26feature_id%3D1610) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simonandschuster.com privacy policy that was archived on 2006-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060921174304id_/http%3A//www.simonsays.com/content/feature.cfm%3Ftab%3D1%26feature_id%3D1610) for the most accurate reproduction.*
 
 # Simon & Schuster: SimonSays: SimonSays Privacy Policy
 
