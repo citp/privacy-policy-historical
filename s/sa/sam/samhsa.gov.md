@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208073536id_/http%3A//www.samhsa.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samhsa.gov privacy policy that was archived on 2006-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060922190801id_/http%3A//www.samhsa.gov/privacy.aspx) for the most accurate reproduction.*
 
 # SAMHSA Privacy Policy
 
@@ -11,8 +11,8 @@ Our homepage on the Internet is located at [**http://www.samhsa.gov/**](http://w
 >  Rockville, MD 20857  
 >  USA**
 
-You may contact us by e-mail at Lori.Frederick@samhsa.hhs.gov  
-You may contact us by phone at 240-276-2130.
+You may contact us by e-mail at [ Jeanette.Hite@samhsa.hhs.gov](mailto:Jeanette.Hite@samhsa.hhs.gov "mailto:Jeanette.Hite@samhsa.hhs.gov") or [ Sam.Ackley@samhsa.hhs.gov](mailto:Sam.Ackley@samhsa.hhs.gov "mailto:Sam.Ackley@samhsa.hhs.gov").   
+You may contact us by phone at 240-276-2130 or 240-276-1127.
 
 ## Dispute Resolution
 
@@ -23,7 +23,7 @@ Applicable law will act as dictated by law.
 
 ## Data Collection
 
-When visiting Web sites certain information about you and your computer can sometimes be collected. This section explains what information AMHSA collects, and how it is used.
+When visiting Web sites certain information about you and your computer can sometimes be collected. This section explains what information SAMHSA collects, and how it is used.
 
 We collect the following information about our visitors:
 
@@ -72,12 +72,11 @@ We use this information for statistical purposes only and to help us make our si
 
 ## Personally Provided Information: 
 
-  
 You do not have to give us personal information to visit our web sites. 
 
 If you choose to provide us with additional information about yourself through an e-mail message, form, survey, etc., we will only maintain the information as long as needed to respond to your question or to fulfill the stated purpose of the communication. 
 
-However, all communications addressed to the HHS Secretary or the HHS Webmaster are maintained, as required by law, for historical purposes. These communications are archived on a monthly basis, but are also protected by the Privacy Act which restricts our use of them, yet permits certain disclosures.
+However, all communications addressed to the HHS Secretary or the HHS Webmaster are maintained, as required by law, for historical purposes. These communications are archived on a monthly basis, but are also protected by the Privacy Act which restricts our use of them, yet permits certain disclosures. 
 
 ## Disclosure: 
 
