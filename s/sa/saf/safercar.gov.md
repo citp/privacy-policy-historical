@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safercar.gov privacy policy that was archived on 2005-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051108090511id_/http%3A//www.nhtsa.dot.gov/portal/site/nhtsa/menuitem.c80262b908ca7ee4ce83662ae0208a0c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safercar.gov privacy policy that was archived on 2006-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060922185458id_/http%3A//www.nhtsa.dot.gov/portal/site/nhtsa/menuitem.c80262b908ca7ee4ce83662ae0208a0c) for the most accurate reproduction.*
 
 # Privacy Policy | National Highway Traffic Safety Administration(NHTSA) | U.S. Department of Transportation
 
