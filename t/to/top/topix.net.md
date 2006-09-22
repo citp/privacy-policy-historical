@@ -1,49 +1,6 @@
-> *The following text is extracted and transformed from the topix.net privacy policy that was archived on 2005-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050928091916id_/http%3A//www.topix.net/topix/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topix.net privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923004816id_/http%3A//www.topix.net/topix/privacy) for the most accurate reproduction.*
 
 # Topix.net's Privacy Policy
-
-| 
-
-  * [All Channels](https://web.archive.org/dir)
-  * [Front Page](https://web.archive.org/)
-  * [Autos](https://web.archive.org/autos)
-  * [Business](https://web.archive.org/business)
-  * [Entertainment4](https://web.archive.org/entertainment)
-    * [ENTERTAINMENT MAIN](https://web.archive.org/entertainment)
-    * [Movies](https://web.archive.org/movies)
-    * [Music](https://web.archive.org/music)
-    * [People](https://web.archive.org/who)
-    * [Television](https://web.archive.org/tv)
-  * [Gadgets](https://web.archive.org/gadgets)
-  * [Health](https://web.archive.org/health)
-  * [Law](https://web.archive.org/law)
-  * [Local4](https://web.archive.org/localnews)
-    * [Find your City](https://web.archive.org/localnews)
-    * [Chicago, IL](https://web.archive.org/chicago)
-    * [Atlanta, GA](https://web.archive.org/atlanta)
-    * [Palo Alto, CA](https://web.archive.org/palo-alto)
-  * [Offbeat](https://web.archive.org/news/weird)
-  * [Sci/Tech](https://web.archive.org/tech)
-  * [Sports4](https://web.archive.org/sports)
-    * [SPORTS MAIN](https://web.archive.org/sports)
-    * [NCAA](https://web.archive.org/ncaa)
-    * [NBA](https://web.archive.org/nba)
-    * [NFL](https://web.archive.org/nfl)
-    * [MLB](https://web.archive.org/mlb)
-    * [NHL](https://web.archive.org/nhl)
-    * [Boxing](https://web.archive.org/Boxing)
-    * [Cycling](https://web.archive.org/cycling)
-    * [Golf](https://web.archive.org/golf)
-    * [Racing](https://web.archive.org/racing)
-  * [Travel](https://web.archive.org/travel)
-  * [US](https://web.archive.org/us)
-  * [World](https://web.archive.org/world)
-
-
-
-[](http://www.amazon.com/paypage/PELYGQVJ8Q7IB)
-
-|  | 
 
 #### Privacy Policy
 
@@ -74,5 +31,3 @@ By using the Topix.net Services and our web site, you consent to the collection 
 #### Who can I ask if I have additional questions?
 
 Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is [help@Topix.net.](mailto:help@Topix.net)
-
-elapsed time: 0.003 seconds
