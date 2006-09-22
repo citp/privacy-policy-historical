@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the socialsecurity.gov privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206185206id_/http%3A//www.socialsecurity.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsecurity.gov privacy policy that was archived on 2006-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060922203010id_/http%3A//www.socialsecurity.gov/privacy.html) for the most accurate reproduction.*
 
 # Social Security Online Privacy Policy
 
   | 
 
-The privacy of our customers has always been of utmost importance to the Social Security Administration. In fact, our first regulation (see [http://www.socialsecurity.gov/OP_Home/cfr20/401/401-0000.htm](https://web.archive.org/OP_Home/cfr20/401/401-0000.htm)) was written to ensure your privacy. As a Federal agency, the Privacy Act of 1974 (5 U.S.C. 552a) requires us to protect the information we collect from you. (See [http://www.socialsecurity.gov/privacyact.htm](https://web.archive.org/web/20060206185206id_/http%3A//www.socialsecurity.gov/privacyact.htm) ). **The privacy policy outlined below applies to the data we collect from you over the Internet.**
+The privacy of our customers has always been of utmost importance to the Social Security Administration. In fact, our first regulation (see [http://www.socialsecurity.gov/OP_Home/cfr20/401/401-0000.htm](https://web.archive.org/OP_Home/cfr20/401/401-0000.htm)) was written to ensure your privacy. As a Federal agency, the Privacy Act of 1974 (5 U.S.C. 552a) requires us to protect the information we collect from you. (See [http://www.socialsecurity.gov/privacyact.htm](https://web.archive.org/web/20060922203010id_/http%3A//www.socialsecurity.gov/privacyact.htm) ). **The privacy policy outlined below applies to the data we collect from you over the Internet.**
 
 This is our notice to you about why we collect your personal information, how we use it, and who we share it with; what your choices are for how we use your information; how to get access to your information; and how we protect the information we collect and maintain.  
 |    
@@ -51,7 +51,7 @@ If Federal laws (e.g., Privacy Act, Social Security Act) do not allow us to shar
 
 |  |    
   
-## How We Protect the Security of the Iinformation We Collect
+## How We Protect the Security of the Information We Collect
 
 | 
 
