@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstent.org privacy policy that was archived on 2005-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050909115226id_/http%3A//www.firstent.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstent.org privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923111556id_/https%3A//www.firstent.org/site/privacy.html) for the most accurate reproduction.*
 
 # First Entertainment Credit Union - Privacy Policy
 
