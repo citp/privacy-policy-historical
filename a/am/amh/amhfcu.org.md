@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the amhfcu.org privacy policy that was archived on 2006-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060503180014id_/http%3A//www.amhfcu.org/asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amhfcu.org privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923114035id_/https%3A//www.amhfcu.org/asp/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| [](https://web.archive.org/web/20060503180014id_/http%3A//www.amhfcu.org/asp/home.asp)  
-[](https://web.archive.org/web/20060503180014id_/http%3A//www.amhfcu.org/ASP/employment.asp)  
-[](https://web.archive.org/web/20060503180014id_/http%3A//www.amhfcu.org/ASP/cufees.asp)  
-[](https://web.archive.org/web/20060503180014id_/http%3A//www.amhfcu.org/calculat.htm)  
-[](https://web.archive.org/web/20060503180014id_/http%3A//www.amhfcu.org/ASP/privacy.asp)  
+| [](https://web.archive.org/web/20060923114035id_/https%3A//www.amhfcu.org/asp/home.asp)  
+[](https://web.archive.org/web/20060923114035id_/https%3A//www.amhfcu.org/ASP/employment.asp)  
+[](https://web.archive.org/web/20060923114035id_/https%3A//www.amhfcu.org/ASP/cufees.asp)  
+[](https://web.archive.org/web/20060923114035id_/https%3A//www.amhfcu.org/calculat.htm)  
+[](https://web.archive.org/web/20060923114035id_/https%3A//www.amhfcu.org/ASP/privacy.asp)  
 |  | 
 
 | 
