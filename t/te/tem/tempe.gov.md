@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tempe.gov privacy policy that was archived on 2006-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060521025531id_/https%3A//www.tempe.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tempe.gov privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923143516id_/https%3A//www.tempe.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - City of Tempe
 
@@ -48,4 +48,4 @@ The City will not use cookies, or any other technology, to track individuals on 
 ****
 
 **Tell us what you think**  
-The City of Tempe welcomes your questions and comments about the privacy policy. Please send e-mail to [webmaster@tempe.gov](https://web.archive.org/web/20060521025531id_/https%3A//www.tempe.gov/webmaster@tempe.gov).
+The City of Tempe welcomes your questions and comments about the privacy policy. Please send e-mail to [webmaster@tempe.gov](https://web.archive.org/web/20060923143516id_/https%3A//www.tempe.gov/webmaster@tempe.gov).
