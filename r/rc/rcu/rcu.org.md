@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcu.org privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618160315id_/http%3A//rcu.org/privacy_statement.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcu.org privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923122646id_/http%3A//www.rcu.org/privacy_statement.phtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
