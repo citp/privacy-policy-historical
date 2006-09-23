@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the open.ac.uk privacy policy that was archived on 2005-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050418020728id_/http%3A//www.open.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the open.ac.uk privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924000329id_/http%3A//www.open.ac.uk/privacy) for the most accurate reproduction.*
 
 # This website : Privacy
 
@@ -14,14 +14,13 @@ top
 
 ### Access to your personal information
 
-When you contact us we create a record in your name. We add information that we then collect, including information that you may give us during registration, to that record. Your personal data is the responsibility of our Data Controller, who is the University Secretary.
+When you contact us we create a record in your name. We add information that we then collect, including information that you may give us during registration, to that record. The data controller for your personal data is The Open University.
 
 You have the right under the Data Protection Act to information about your personal data (the right of 'subject access'). You will need to pay a fee of £8. You should address your request to 
 
 The Data Protection Co-ordinator,  
 PO Box 497,  
 The Open University,  
-Box 497,  
 Milton Keynes,  
 MK7 6AT.   
 E-mail [data-protection@open.ac.uk](mailto:data-protection@open.ac.uk).
