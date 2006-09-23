@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harland.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222349id_/http%3A//harland.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harland.net privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923181800id_/http%3A//www.harland.net/privacy.html) for the most accurate reproduction.*
 
 # Welcome to the John H. Harland Website
 
@@ -54,4 +54,4 @@ We maintain  physical, electronic, and procedural safeguards that comply with f
 
 As mentioned above, we may revise this Privacy Notice at any time by posting an updated Privacy Notice on our website at [www.harland.net](http://www.harland.net/) or sending you a revised Privacy Notice by mail or through other means of communication.  Please consult the Privacy Notice posted on our website regularly.
 
-Last updated: February 2006
+Last updated: July 2003
