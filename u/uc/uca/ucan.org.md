@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucan.org privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624192028id_/http%3A//www.ucan.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucan.org privacy policy that was archived on 2006-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060923162206id_/http%3A//www.ucan.org/privacy.html) for the most accurate reproduction.*
 
 # UCAN - Privacy Policy
 
@@ -24,5 +24,5 @@ Utility Consumers' Action Network
 San Diego, CA 92103  
 Phone: (619) 696-6966  
 Fax: (619) 696-7477  
-Web: [www.ucan.org](https://web.archive.org/web/20060624192028id_/http%3A//www.ucan.org/index.html)  
+Web: [www.ucan.org](https://web.archive.org/web/20060923162206id_/http%3A//www.ucan.org/index.html)  
 
