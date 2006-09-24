@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbn.co.za privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616082259id_/http%3A//cbn.co.za/index.php%3FPage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.co.za privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924072243id_/http%3A//www.cbn.co.za/index.php%3FPage%3Dprivacy) for the most accurate reproduction.*
 
 # CBN Website
 
