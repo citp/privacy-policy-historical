@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the winsms.co.za privacy policy that was archived on 2003-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030714073936id_/http%3A//www.winsms.co.za/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsms.co.za privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924110210id_/http%3A//www.winsms.co.za/privacy.asp) for the most accurate reproduction.*
 
-# WinSMS.net
-
-**WinSMS Privacy Policy**
+# WinSMS Bulk SMS Gateway & SMS Client Software -- Privacy Policy
 
 At WinSMS we respect and take steps to protect your privacy. We strive to make our site a safe environment for everyone who visits and uses WinSMS services. We are committed to providing you the best possible online service and experience as well as the best products and services. The purpose of this policy statement is to address any security concerns you may have.
 
@@ -16,16 +14,16 @@ Any information sent to WinSMS for messaging and or storage purposes will remain
 
 **Disclosure of Your Information**
 
-We do not sell or rent any personally identifiable information about you to any third party. We must however comply with court orders, information requests from government agencies and regulators and other legal and regulatory processes that may require the disclosure of your personally identifiable information. 
+We do not sell or rent any personally identifiable information about you to any third party. We must however comply with court orders, information requests from government agencies and regulators and other legal and regulatory processes that may require the disclosure of your personally identifiable information.
+
+For more information please carefully read the WinSMS [Terms and Conditions](https://web.archive.org/web/20060924110210id_/http%3A//www.winsms.co.za/regterms.asp). 
 
   
 **Questions and comments**
 
 We're always happy to answer your questions and listen to your comments.
 
-If you have any questions about our privacy policy or its implementation, please contact 
-
-[info@WinSMS.net](mailto:info@winsms.net)
+If you have any questions about our privacy policy or its implementation, please [contact us](https://web.archive.org/web/20060924110210id_/http%3A//www.winsms.co.za/aboutus.asp#contact).
 
 You acknowledge that acceptance of this privacy policy is a condition to your use of our services and you agree to be bound by all of its terms and conditions.  
 
