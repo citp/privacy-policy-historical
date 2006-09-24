@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirschs.co.za privacy policy that was archived on 2005-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051014013000id_/http%3A//www.hirschs.co.za/%3FTask%3DCompanyInfo%26CategoryID%3D4593) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirschs.co.za privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924111052id_/http%3A//www.hirschs.co.za/%3FTask%3DCompanyInfo%26CategoryID%3D4593) for the most accurate reproduction.*
 
 # Hirsch
 
