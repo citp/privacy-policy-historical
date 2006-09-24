@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickaweb.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022709id_/http%3A//www.pickaweb.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickaweb.co.uk privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924074134id_/http%3A//www.pickaweb.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Low cost web hosting cheap web space UK cheap web hosting
 
