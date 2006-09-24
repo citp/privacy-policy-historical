@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gla.ac.uk privacy policy that was archived on 2005-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051117170644id_/http%3A//www.gla.ac.uk/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gla.ac.uk privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924155820id_/http%3A//www.gla.ac.uk/legal/privacy.html) for the most accurate reproduction.*
 
 # University of Glasgow :: Privacy Statement
 
@@ -19,8 +19,6 @@ The records of the University of Glasgow are subject to the terms of the Freedom
 ## THE INFORMATION COLLECTED
 
 ### Log Files
-
-The University's website does not automatically capture or store personal data from visitors to the site, other than to log your IP address and session information. Session information includes the time and duration of your visit to the site, the files requested, and the browser used. This information is used only for administration of the site system, the identification of broken links, and in the compilation of statistics used by the University to assess the use of the site. These statistics contain no personal data.
 
 The University's website does not automatically capture or store personal data from visitors to the site, other than to log your IP address and session information. Session information includes the time and duration of your visit to the site, the files requested, and the browser used. This information will only be accessed by authorised persons of the University of Glasgow or its agents. The information will be retained by the University and will only be used for the purpose of (a) managing the site system, (b)  the identification of broken links, and (c) for statistical and audit purposes.
 
