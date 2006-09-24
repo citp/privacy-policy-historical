@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzherald.co.nz privacy policy that was archived on 2005-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050907065639id_/http%3A//www.nzherald.co.nz/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzherald.co.nz privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924044150id_/http%3A//www.nzherald.co.nz/info/privacypolicy) for the most accurate reproduction.*
 
 # New Zealand Herald
 
