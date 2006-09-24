@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petro-canada.ca privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617002509id_/http%3A//petro-canada.ca/eng/misc/5588.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petro-canada.ca privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924163045id_/http%3A//petro-canada.ca/eng/misc/5588.htm) for the most accurate reproduction.*
 
 # Petro-Canada Privacy Policy
 
