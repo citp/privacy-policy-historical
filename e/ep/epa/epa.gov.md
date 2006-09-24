@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the epa.gov privacy policy that was archived on 2004-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041124092707id_/http%3A//www.epa.gov/epahome/usenotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epa.gov privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924131831id_/http%3A//www.epa.gov/cgi-bin/epalink%3Flogname%3Depahome%26target%3Dhttp%3A//www.epa.gov/epafiles/usenotice.htm%26referrer%3Dutilities) for the most accurate reproduction.*
 
-# EPA: Privacy and Security Notice
+# Privacy and Security Notice | US EPA
 
-**About Privacy and Security**
+## About Privacy and Security
 
 Thank you for visiting the Environmental Protection Agency Web site, a service of the U.S. Environmental Protection Agency. This statement informs you how we will handle information we learn about you from your visit to our site. Please be assured that the privacy of our visitors is of utmost importance to us. We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us. 
 
@@ -72,6 +72,4 @@ EPA Web pages do not collect any personal information that is contained in a Pri
 
 **Site Security** : For site security purposes and to ensure that this service remains available to all users, EPA does employ software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage to the information on our Web pages. Unauthorized attempts to upload information or change information on this service (“hacking”) are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. Except for these authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits.
 
-[Search frequently asked questions or submit your own questions or comments](http://publicaccess.custhelp.com/cgi-bin/publicaccess.cfg/php/enduser/entry.php). 
-
-Content updated July 2004
+[Search frequently asked questions or submit your own questions or comments](http://publicaccess.custhelp.com/cgi-bin/publicaccess.cfg/php/enduser/entry.php).
