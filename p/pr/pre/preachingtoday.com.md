@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preachingtoday.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040158id_/http%3A//www.preachingtoday.com/help/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preachingtoday.com privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924190703id_/http%3A//www.preachingtoday.com/help/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PreachingToday.com
 
