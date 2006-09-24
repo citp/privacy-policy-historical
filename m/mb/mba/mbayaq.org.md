@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbayaq.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041352id_/http%3A//www.mbayaq.org/sg/sg_policies.asp%23children) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbayaq.org privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924213732id_/http%3A//mbayaq.org/sg/sg_policies.asp%23children) for the most accurate reproduction.*
 
 # Monterey Bay Aquarium: Web Site Info/Help - Privacy Policy
 
