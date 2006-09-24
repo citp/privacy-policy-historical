@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xoops.org privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427070030id_/http%3A//www.xoops.org/modules/wfchannel/index.php%3Fpagenum%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoops.org privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924093118id_/http%3A//www.xoops.org/modules/wfchannel/index.php%3Fpagenum%3D4) for the most accurate reproduction.*
 
 # Official XOOPS Website - All about XOOPS
 
