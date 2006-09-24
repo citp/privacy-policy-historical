@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wellcome.ac.uk privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615040135id_/http%3A//www.wellcome.ac.uk/aboutthissite/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wellcome.ac.uk privacy policy that was archived on 2006-09-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060924164631id_/http%3A//www.wellcome.ac.uk/aboutthissite/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -131,7 +131,7 @@ JSCorpSubArea="";
           </td>
           <td width="90%" class="mn" align="right">
             <div>
-              <input name="search" type="text" size="16" class="searchField" accesskey="f" value=".">&nbsp;<input name="submit" type="submit" value="Search" class="searchButton" accesskey="g">
+              <input name="search" type="text" size="16" class="searchField" accesskey="f" value="">&nbsp;<input name="submit" type="submit" value="Search" class="searchButton" accesskey="g">
             </div>
           </td>
         </tr>
@@ -175,7 +175,7 @@ JSCorpSubArea="";
               <a href="/aboutthissite/sitemap/">Sitemap</a>
             </div>
             <div style="background-image:url(/assets/a5r.gif); background-repeat: no-repeat;" class="item1">
-              <a href="/aboutthissite/siteguides/">Specialist site guides</a>
+              <a href="/aboutthissite/siteguides/">Site guides</a>
             </div>
             <div style="background-image:url(/assets/a5r.gif); background-repeat: no-repeat;" class="item1">
               <a href="/node1030.html">Accessibility</a>
@@ -313,7 +313,11 @@ JSCorpSubArea="";
         <td width="168" valign="top" id="rhd">
           <!-- RH Menu -->
           <!-- <strong>root</strong> = 'SeeAlso/SeeAlso' -->
+          <!--disable link if on same page-->
+          <!--end-->
           <!-- <strong>root</strong> = 'ExternalLinks/ExternalLinks' -->
+          <!--disable link if on same page-->
+          <!--end-->
           <div class="fivepxright">
             <!-- staaaas -->
             <div><img height="8" width="1" alt="" src="/assets/px.gif"></div>
@@ -322,22 +326,38 @@ JSCorpSubArea="";
               <a href="/print/1040_print.html" onclick="printPage('/print/1040_print.html'); return false;"><img height="19" vspace="3" border="0" hspace="5" width="16" alt="printable version" src="/assets/btn_print_1001.gif" align="middle"><small>Printable&nbsp;version<!--Print&nbsp;page--></small></a>
             </div>
           </div>
-          <div class="fivepxright">
-            <div><img height="1" width="1" alt="" src="/assets/px.gif"></div>
-            <a href="/doc_wtx022406.html" onclick="emailBox(ts); return false;"><img height="13" border="0" hspace="5" width="16" alt="Send to a friend" src="/assets/btn_mail_1001.gif" align="middle"><small>Send&nbsp;to&nbsp;a&nbsp;friend</small></a> 
-            <form style="display:inline; padding:0px; margin:0px;" name="form1" method="post" action="/scripts/mail.asp">
-              <div id="printBoxs" class="emailform">
-                &nbsp;
-              </div>
+          <!--a href="javascript:emailBox(ts);"><img src="/stellent/assets/btn_mail_1001.gif" width="16" height="13" border="0" alt="" align="middle" hspace="5"><small>Send&nbsp;to&nbsp;a&nbsp;friend</small></a-->
+          <a href="javascript:show_hide('form');"><img height="13" border="0" hspace="5" width="16" alt="" src="/assets/btn_mail_1001.gif" align="middle"><small>Send&nbsp;to&nbsp;a&nbsp;friend<!-- Email&nbsp;this&nbsp;link --></small></a> 
+          <div id="form" style="display:none">
+            <form name="emailform" method="POST" action="mail.asp" onsubmit="return checkMail(this)">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td class="emailform">
+                    <p>
+                      <strong>To:</strong> Email address<br>
+                       <input class="emailforminput" name="email_to" type="text" id="email_to"><br>
+                       Separate multiple addresses with a comma(,) 10 max
+                    </p>
+                    <p>
+                      <strong>Your details:</strong><br>
+                       Name<br>
+                       <input class="emailforminput" name="email_from_name" type="text" id="email_from_name"><br>
+                       Email address<br>
+                       <input class="emailforminput" name="email_from" type="text" id="email_from">
+                    </p>
+                    <p>
+                      <strong>Message:</strong><br>.<br>
+                       (Maximum message length of 1,000 characters)
+                    </p>
+                    <p>
+                      <input class="btn" type="submit" name="Submit" value="send"> <input type="hidden" name="submission" value="emaillink"> <input type="hidden" name="from_page" value=" Privacy statement ">
+                    </p>
+                  </td>
+                </tr>
+              </tbody></table>
             </form>
-            <div id="printBoxsEnd" class="emailform">
-              &nbsp;
-            </div>
-<script type="text/javascript" src="/js/mailafriend.js" language="JavaScript1.2">
-</script>
-             
-            <div class="bgp"><img height="3" width="1" alt="" src="/assets/px.gif"></div>
           </div>
+          <div class="bgp"><img height="3" width="1" alt="" src="/assets/px.gif"></div>
           <!-- end RH Menu -->
         </td>
       </tr>
