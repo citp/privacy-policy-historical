@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stormingmedia.us privacy policy that was archived on 2005-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051109013512id_/http%3A//www.stormingmedia.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stormingmedia.us privacy policy that was archived on 2006-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060925040845id_/http%3A//www.stormingmedia.us/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - StormingMedia
+# Privacy Policy - Storming Media
 
   
 Storming Media takes your privacy seriously. Most importantly, we do not sell or otherwise distribute your personal information to partners or other parties without your permission. More details are below.
