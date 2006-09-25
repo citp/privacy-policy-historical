@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629202003id_/http%3A//www.parkinson.org/site/pp.asp%3Fc%3D9dJFJLPwB%26b%3D71164) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2006-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060925095934id_/http%3A//www.parkinson.org/site/pp.asp%3Fc%3D9dJFJLPwB%26b%3D71164) for the most accurate reproduction.*
 
 # Helping Cure Parkinson Disease - Welcome to The National Parkinson Foundation
 
