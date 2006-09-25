@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208140212id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/privacy.asp%3Fsource%3Dnationwide%26campaign%3Dhomepage%26execution%3Dprivacy_23112005) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2006-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060925203747id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/cookie_and_privacy_policy/cookie_and_privacy_policy.htm%3FSource%3Dnationwide%26campaign%3Dfootlinks%26execution%3Dhomepage_privacypolicy) for the most accurate reproduction.*
 
-# About Nationwide - Membership Matters - Privacy
+# About Nationwide - Membership matters - Cookie and privacy policy
 
-### Privacy
+## Cookie and privacy policy
 
 Nationwide Building Society will only collect, process and store information about you that 
 
-  * we have openly collected from you or
-  * we have openly collected from you with your consent
-  * In addition to this we do log your IP address which is automatically recognised by our Web Server
+  * we have openly collected from you or 
+  * we have openly collected from you with your consent 
+  * in addition to this we do log your IP address which is automatically recognised by our Web Server
 
 
 
@@ -26,7 +26,7 @@ All e-mail sent to Nationwide will be monitored and checked to ensure our system
 
 _This privacy policy only covers the Nationwide branded web sites. Links within this site to external web sites are not covered by this policy. Please note that any changes that Nationwide makes to this policy will be communicated electronically on the home-page of this site and not by individual written communication._
 
-[](https://web.archive.org/web/20060208140212id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/your_info.asp) [How Nationwide uses your information.](https://web.archive.org/web/20060208140212id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/your_info.asp)
+[ How Nationwide uses your information.](https://web.archive.org/about_nationwide/membership_matters/cookie_and_privacy_policy/personal_information.htm)
 
 **Cookies**
 
@@ -76,13 +76,15 @@ All networks connected to the internet speak IP, the technical standard which al
 
 **IP Address**
 
-When you are connected to the Internet you have an IP address. It may look something like this - 198.184.98.9
+When you are connected to the Internet you have an IP address. It may look something like this - 198.184.98.9.
 
 If you are a dial-up customer using an analogue modem or ISDN, your IP address will usually change each time you connect to the Internet. This means that you cannot be uniquely identified by your IP address.
 
 **Web Server**
 
 The computer which sends web pages to your computer.
+
+Back to top
 
   
 
