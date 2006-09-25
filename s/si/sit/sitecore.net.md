@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the sitecore.net privacy policy that was archived on 2006-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060423055246id_/http%3A//sitecore.net/Footer%2520menu/Privacy%2520policy/PrivacyText.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecore.net privacy policy that was archived on 2006-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060925221631id_/http%3A//sitecore.net/Contact/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
-# Sitecore Content Management System (CMS) - Privacy policy
+# Privacy Policy - Sitecore Content Management System (CMS)
 
-Privacy policy
-
-The following statement outlines the privacy policy of  Sitecore A/S. This policy is based on our fundamental goal to provide our visitors with quality information and resources while maintaining individual anonymity and personal privacy. Please forward any comments you may have regarding this policy to [webmaster@sitecore.net](mailto:webmaster@sitecore.net). 
+The following statement outlines the privacy policy of  Sitecore A/S. This policy is based on our fundamental goal to provide our visitors with quality information and resources while maintaining individual anonymity and personal privacy. Please forward any comments you may have regarding this policy to [webmaster@sitecore.net](mailto:webmaster@sitecore.net "mailto:webmaster@sitecore.net"). 
 
 **Visitor data collected by Sitecore A/S**
 
-When you access our web pages, the client information and the essential and nonessential technical information listed below is automatically collected \- we refer to those categories collectively as "access" information. No other information is collected through the Sitecore A/S web site except when you deliberately decide to send it to us (for example, by clicking on a link to send us an e-mail). The information you might choose to send us is listed below as "optional information." 
+When you access our web pages, the client information and the essential and nonessential technical information listed below is automatically collected - we refer to those categories collectively as "access" information. No other information is collected through the Sitecore A/S web site except when you deliberately decide to send it to us (for example, by clicking on a link to send us an e-mail). The information you might choose to send us is listed below as "optional information." 
 
 **Automatically collected access information**
 
@@ -39,11 +37,11 @@ Finally, we never use or share the personally identifiable information provided 
 
 **Use of cookies**
 
-The Sitecore A/S website uses "cookies," a small data file transferred by a website to your computer's hard drive. We send cookies when you surf [www.sitecore.net](http://www.sitecore.net/), respond to online surveys or polls, or request information. Accepting the cookies used on our site does not give us access to your Personally Identifiable Information, but we can use the cookies to identify your computer. The aggregate information collected permits us to analyze traffic patterns on our site. This can enable us over time to provide you with a better experience by improving the content and making it easier to use. 
+The Sitecore A/S website uses "cookies," a small data file transferred by a website to your computer's hard drive. We send cookies when you surf <http://www.sitecore.net/>, respond to online surveys or polls, or request information. Accepting the cookies used on our site does not give us access to your Personally Identifiable Information, but we can use the cookies to identify your computer. The aggregate information collected permits us to analyze traffic patterns on our site. This can enable us over time to provide you with a better experience by improving the content and making it easier to use. 
 
 **Providing information is your choice**
 
-There is no legal requirement for you to provide any information at our website However, our website will not work without routing information and the essential technical information. Failure of your browser to provide nonessential technical information will not prevent your use of our website but may prevent certain features from working. For any optional information that is requested at the website, failure to provide the requested information will mean that the particular feature or service associated with that part of the web page may not be available to you. 
+There is no legal requirement for you to provide any information at our website However, our website will not work without routing information and the essential technical information. Failure of your browser to provide nonessential technical information will not prevent your use of our website but may prevent certain features from working. For any optional information that is requested at the website, failure to provide the requested information will mean that the particular feature or service associated with that part of the web page may not be available to you.
 
 **Our commitment to data security**
 
@@ -51,4 +49,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **How to contact us**
 
-Should you have other questions or concerns about our privacy policies and practices, please call us at (+45) 70 23 66 60 or send us an e-mail at [webmaster@sitecore.net](mailto:webmaster@sitecore.net). 
+Should you have other questions or concerns about our privacy policies and practices, please call us at (+45) 70 23 66 60 or send us an e-mail at [webmaster@sitecore.net](mailto:webmaster@sitecore.net "mailto:webmaster@sitecore.net"). 
