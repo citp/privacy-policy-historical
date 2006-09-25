@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwarper.net privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623212514id_/http%3A//www.webwarper.net/ww/0/wwgz/priv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwarper.net privacy policy that was archived on 2006-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060925214037id_/http%3A//webwarper.net/ww/0/wwgz/priv.htm) for the most accurate reproduction.*
 
 # WebWarper: Privacy Policy
 
@@ -32,7 +32,7 @@ If you see an error, please select it and press Ctrl+Enter.
 |   
 _[Unique 3D-model:  
  **Sphere-Polyhedra!** ](http://webwarper.net/clicklog.pl/WWAdPackingMink/smartimtech.com/packingmink/appletpackingmink.html)_  
-|  [](http://u339.28.spylog.com/cnt?f=3&p=0&rn=0.18886474970297806)  
+|  [](http://u339.28.spylog.com/cnt?f=3&p=0&rn=0.13193220957285634)  
 |  [](http://click.hotlog.ru/?221553)  
 | | 
 
