@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the freeindex.co.uk privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206203358id_/http%3A//www.freeindex.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeindex.co.uk privacy policy that was archived on 2006-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060925191307id_/http%3A//www.freeindex.co.uk/privacy.htm) for the most accurate reproduction.*
 
-# FreeIndex.co.uk Privacy Policy
+# UK business directory - FreeIndex.co.uk - Privacy Policy
+
+## Privacy Policy
+
+[Add your Business](http://www.freeindex.co.uk/selectpackage.htm) for free to the UK's fastest growing Business Directory
 
 **General**
 
