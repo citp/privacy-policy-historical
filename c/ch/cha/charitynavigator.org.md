@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charitynavigator.org privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206194947id_/http%3A//www.charitynavigator.org/index.cfm/bay/content.view/catid/61/cpid/38.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitynavigator.org privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926202322id_/http%3A//www.charitynavigator.org/index.cfm/bay/content.view/cpid/38.htm) for the most accurate reproduction.*
 
 # Charity Navigator - Privacy
 
@@ -18,4 +18,4 @@ Charity Navigator makes every effort to insure the secure collection and transmi
 ** Like most websites, Charity Navigator may place a "cookie," or small file, in the browser files of a visitor's computer. We use cookies to save information you give us so you don't have to re-enter it each time you visit our site. This allows us to personalize the site to your taste and provide the best web experience possible to our visitors. We do not use cookies to track your movement among different web sites and do not exchange cookies with other entities.
 
  **Amendment:  
-** Charity Navigator may amend this policy from time to time.  If we make substantial changes in the way we use your name, address, or other information about you that you have disclosed to us, we will notify you by posting announcements on our web site.
+** Charity Navigator may amend this policy from time to time.  If we make substantial changes in the way we use your name, address, or other information about you that you have disclosed to us, we will notify you by posting announcements on our web site. 
