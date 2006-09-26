@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mbna.co.uk privacy policy that was archived on 2005-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050408062339id_/http%3A//www.mbna.com/europe/direct/home_nav_foot_privacy_r.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbna.co.uk privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926105058id_/http%3A//www.mbna.co.uk/direct/home_nav_foot_privacy_r.html) for the most accurate reproduction.*
 
 # MBNA Europe - Privacy
 
 |   
 **Privacy Statement**
 
-This is the privacy statement of MBNA Europe Bank Limited ("MBNA"). MBNA is one of a group of companies in the MBNA Corporation which is the world's largest independent credit card lender. Whilst exploring the services offered through this and Web sites owned by other members of the MBNA group, please be alert for and review any specialised privacy statements and terms of use applicable to particular products or Web sites, or portions thereof, as they may differ depending on group, company, product or service.
+This is the privacy statement of MBNA Europe Bank Limited ("MBNA"). Whilst exploring the services offered through this and Web sites owned by other members of the MBNA group, please be alert for and review any specialised privacy statements and terms of use applicable to particular products or Web sites, or portions thereof, as they may differ depending on group, company, product or service.
 
 **Further Protection of Your Privacy Policies of other Service Providers**  
 Whilst exploring the services offered through MBNA's Web site, please be aware that other online retailers, partners, third party Internet sites, and third party services accessible through MBNA's Web site have separate privacy and data collection policies and practices, which are independent of and may differ from MBNA's policies and practices. MBNA is not responsible or liable for these independent policies and practices. It is your responsibility to review them and decide whether such policies and practices satisfactorily protect your rights.
@@ -33,7 +33,7 @@ MBNA is committed to ensuring your personal and Account information is protected
 
 
 **Advertising Services**  
-MBNA uses third party companies to serve ads on our Web site and other Web sites. These companies help MBNA execute, optimise, and measure the effectiveness of our online banner advertising programs. These companies use cookies and non-personally identifiable information (for example, information that does not include name, address, e-mail address or telephone number) about your visit to this and other Web sites to measure advertising effectiveness and to provide ads about goods and services that may interest you. If you would like to learn more about these practices, view the privacy notices of these third party companies, or opt out of their use of non-personally identifiable information, [click here.](https://web.archive.org/web/20050413105336id_/http://www.mbna.com/Europe/advertising_services.html "Link opens in a new window")
+MBNA uses third party companies to serve ads on our Web site and other Web sites. These companies help MBNA execute, optimise, and measure the effectiveness of our online banner advertising programs. These companies use cookies and non-personally identifiable information (for example, information that does not include name, address, e-mail address or telephone number) about your visit to this and other Web sites to measure advertising effectiveness and to provide ads about goods and services that may interest you. If you would like to learn more about these practices, view the privacy notices of these third party companies, or opt out of their use of non-personally identifiable information, [click here.](https://web.archive.org/web/20060926105103id_/http://www.mbna.co.uk/advertising_services.html "Link opens in a new window")
 
 MBNA's banner advertisements and online applications may contain small graphics with tags in them. These tags are not personally identifiable and work in conjunction with these cookies. These tags allow us to measure the effectiveness and response rates of our advertising.
 
@@ -43,7 +43,7 @@ Some MBNA Web sites use a feature of your Internet browser called a cookie. Cook
 **Privacy Statement Changes**  
 We may change this Privacy Statement from time to time. When such a change is made, we will post a revised version on this Web site. Changes will be effective when they are posted. It is your responsibility to review this Privacy Statement from time to time to be aware of any such change. Your continued use of the service will indicate your agreement to any such change.
 
-This Privacy Statement was last updated November 2003.
+This Privacy Statement was last reviewed January 2006.
 
 This Privacy Statement is published by MBNA Europe Bank Limited registered in England under number 2783251. The registered office address is Stansfield House, Chester Business Park, Wrexham Road, Chester, CH4 9QQ. MBNA is at your service 24 hours a day, seven days a week and can be contacted via the telephone on **0800 062062** (UK) or **1800 446 262** (Ireland).
 
