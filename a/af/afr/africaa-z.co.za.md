@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the africaa-z.co.za privacy policy that was archived on 2006-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060501160954id_/http%3A//www.africaa-z.co.za/english/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africaa-z.co.za privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926193657id_/http%3A//www.africaa-z.co.za/english/privacy.php) for the most accurate reproduction.*
 
-# Africa A-Z. Your home for travel and tours in Africa and South Africa
+# Africa A-Z: African Travel and Tours - Golf Safari's, Adventure Tours to Diving Packages
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and to gather broad demographic information.
 
@@ -18,12 +18,12 @@ Unsubscribe
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive mail list messages.
 
-You can send an email to us by visiting the "[ **Contact Us**](https://web.archive.org/web/20060501160954id_/http%3A//www.africaa-z.co.za/english/contact.php)" page.
+You can send an email to us by visiting the "[ **Contact Us**](https://web.archive.org/web/20060926193657id_/http%3A//www.africaa-z.co.za/english/contact.php)" page.
 
-You can fill out our [**Unsubscribe Form**](https://web.archive.org/web/20060501160954id_/http%3A//www.africaa-z.co.za/english/keep_informed.php).
+You can fill out our [**Unsubscribe Form**](https://web.archive.org/web/20060926193657id_/http%3A//www.africaa-z.co.za/english/keep_informed.php).
 
 Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-You can send an email to us by visiting the "[ **Contact Us**](https://web.archive.org/web/20060501160954id_/http%3A//www.africaa-z.co.za/english/contact.php)" page.
+You can send an email to us by visiting the "[ **Contact Us**](https://web.archive.org/web/20060926193657id_/http%3A//www.africaa-z.co.za/english/contact.php)" page.
