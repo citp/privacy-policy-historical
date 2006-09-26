@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pregnancy.org privacy policy that was archived on 2006-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060128010519id_/http%3A//www.pregnancy.org/article.php%3Fsid%3D242) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancy.org privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926181325id_/http%3A//www.pregnancy.org/article.php%3Fsid%3D242) for the most accurate reproduction.*
 
 # 
 
@@ -69,5 +69,7 @@ If at some point in the future, there is a substantive change to our information
 
 **Third-Party Links.**  
 For your convenience, the Web Site contains links to other sites, including site owned or operated by our Partners. Although every Partner (but not advertiser whose banner or other advertising is displayed on the Web Site) is required to sign a contract that requires them to adhere to Pregnancy.org's privacy policy, we have no real control over the linked sites and we are not responsible for the privacy practices or the content of any third-party sites linked to or from Pregnancy.org. We encourage you to note when you leave Pregnancy.org and to read the privacy statement of these third-party sites. 
+
+All content copyright ©2001-2006 Julie Snyder. Publishing rights retained by Julie Snyder. All rights reserved and protected under all International Treaties and Agreements such as the Berne Convention. 
 
 | 
