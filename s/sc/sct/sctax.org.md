@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sctax.org privacy policy that was archived on 2006-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060429044417id_/http%3A//www.sctax.org/DOR%2BFrontpage/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sctax.org privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926194024id_/http%3A//www.sctax.org/DOR%2BFrontpage/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
