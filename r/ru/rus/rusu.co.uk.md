@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rusu.co.uk privacy policy that was archived on 2006-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060212130554id_/http%3A//rusu.co.uk/cfg/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rusu.co.uk privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926143958id_/http%3A//www.rusu.co.uk/cfg/privacypolicy.asp) for the most accurate reproduction.*
 
 # RUSU : Privacy Policy
 
