@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624063541id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926162433id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # Runner's World - Privacy Policy
 
@@ -6,17 +6,19 @@
   
 ---  
   
-| **1/7** | [Dorney Dash 10K, Berks](https://web.archive.org/events/viewevent.asp?EN=32893)  
+Ten Of The Best: National Highlights
+
+| **8/10** | [Asics Kingston Running Festival, Surrey](https://web.archive.org/events/viewevent.asp?EN=30206)  
 ---|---  
-**2/7** | [British 10K London Run, London](https://web.archive.org/events/viewevent.asp?EN=32893)  
-**2/7** | [Cranleigh 10K, Surrey](https://web.archive.org/events/viewevent.asp?EN=31667)  
-**9/7** | [Run Preston 10K, Lancs](https://web.archive.org/events/viewevent.asp?EN=32110)  
-**9/7** | [Thorpe Edge Festival 10K, W Yorks](https://web.archive.org/events/viewevent.asp?EN=29476)  
-**12/7** | [Reigate Priory Summer 10K, Surrey](https://web.archive.org/events/viewevent.asp?EN=29723)  
-**15/7** | [Port Lympne Rhino Challenge 10K, Kent](https://web.archive.org/events/viewevent.asp?EN=30480)  
-**16/7** | [London Chest Hospital 10K, London](https://web.archive.org/events/viewevent.asp?EN=31780)  
-**16/7** | [Pinewood 10K, Wilts](https://web.archive.org/events/viewevent.asp?EN=31999)  
-**22/7** | [Wetton & Manifold 10K, Derbs](https://web.archive.org/events/viewevent.asp?EN=30656)  
+**8/10** | [Liverpool 10K, Merseyside](https://web.archive.org/events/viewevent.asp?EN=33089)  
+**8/10** | [Henley Half-Marathon, Oxon](https://web.archive.org/events/viewevent.asp?EN=31364)  
+**15/10** | [The Great Eastern Run, Cambs](https://web.archive.org/events/viewevent.asp?EN=31948)  
+**15/10** | [Swindon Half-Marathon, Wilts](https://web.archive.org/events/viewevent.asp?EN=31733)  
+**15/10** | [Prince's Trust 10K @ Legoland, Berks](https://web.archive.org/events/viewevent.asp?EN=32095)  
+**22/10** | [Exmoor Stagger 15, Somerset](https://web.archive.org/events/viewevent.asp?EN=26218)  
+**22/10** | [Maidstone Half-Marathon, Kent](https://web.archive.org/events/viewevent.asp?EN=34130)  
+**29/10** | [Worksop Half-Marathon, Notts](https://web.archive.org/events/viewevent.asp?EN=31939)  
+**29/10** | [Snowdonia Marathon, Gwynedd](https://web.archive.org/events/viewevent.asp?EN=30785)  
 | [More races](https://web.archive.org/entry)  
   
 [](https://web.archive.org/asicsonlineentrypod)  
