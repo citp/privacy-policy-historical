@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314210710id_/http%3A//www.quickheal.co.in/public/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickheal.co.in privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926145521id_/http%3A//quickheal.co.in/public/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
