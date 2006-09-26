@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgarcayce.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210716id_/http%3A//edgarcayce.org/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgarcayce.org privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926125957id_/http%3A//edgarcayce.org/policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
