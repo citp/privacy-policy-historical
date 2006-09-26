@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speeddateronline.co.uk privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223224251id_/http%3A//www.speeddateronline.co.uk/text.cfm%3Fpageid%3D45%26CFID%3D2953753%26CFTOKEN%3D32b86bc203c080a2-A8B83676-E081-2C1D-C05DE8523951B1D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speeddateronline.co.uk privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926143746id_/http%3A//www.speeddateronline.co.uk/text.cfm%3Fpageid%3D45%26safetyID%3D86490487%26CFID%3D3534587%26CFTOKEN%3Da5d9cd15db3ea2e5-EA8E8D9E-E081-2F7E-082B90AD56BC1D78) for the most accurate reproduction.*
 
 # SpeedDater Online - Privacy policy for SpeedDater and SpeedDater Online.
 
