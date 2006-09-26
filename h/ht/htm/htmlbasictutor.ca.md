@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlbasictutor.ca privacy policy that was archived on 2006-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060220062550id_/http%3A//www.htmlbasictutor.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlbasictutor.ca privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926052755id_/http%3A//www.htmlbasictutor.ca/privacy.htm) for the most accurate reproduction.*
 
 # HTML Basic Tutor - Privacy Policy
 
@@ -44,11 +44,11 @@ PayPal is used for payments. View PayPal's [Privacy](http://www.paypal.com/cgi-b
 
 ### Database
 
-If you wish to determine is you are in our database please [Contact Us with Database at HTML Basic Tutor in the subject.](https://web.archive.org/web/20060220062550id_/http%3A//www.htmlbasictutor.ca/contactform.htm "Goes to our Contact Us page")
+If you wish to determine is you are in our database please [Contact Us with Database at HTML Basic Tutor in the subject.](https://web.archive.org/web/20060926052755id_/http%3A//www.htmlbasictutor.ca/contactform.htm "Goes to our Contact Us page")
 
-To check what information we have in our database on you please [Contact Us with Check Database at HTML Basic Tutor in the subject.](https://web.archive.org/web/20060220062550id_/http%3A//www.htmlbasictutor.ca/contactform.htm "Goes to our Contact form")
+To check what information we have in our database on you please [Contact Us with Check Database at HTML Basic Tutor in the subject.](https://web.archive.org/web/20060926052755id_/http%3A//www.htmlbasictutor.ca/contactform.htm "Goes to our Contact form")
 
-To remove yourself from our database please [send us an email with the subject "REMOVE"](https://web.archive.org/web/20060220062550id_/http%3A//www.htmlbasictutor.ca/contactform.htm "Send email to remove you from our records"). You will receive one final email from me confirming that all information about you has been removed and after that, you will be permanently removed from our records. 
+To remove yourself from our database please [send us an email with the subject "REMOVE"](https://web.archive.org/web/20060926052755id_/http%3A//www.htmlbasictutor.ca/contactform.htm "Send email to remove you from our records"). You will receive one final email from me confirming that all information about you has been removed and after that, you will be permanently removed from our records. 
 
 ## Cookies
 
@@ -84,7 +84,7 @@ Owned and Operated by SRT Services
 
 Phone: 604 619 4945 Fax: 604 588 9937 (please call before faxing)
 
-Email: [HTML Basic Tutor](https://web.archive.org/web/20060220062550id_/http%3A//www.htmlbasictutor.ca/contactform.htm "Goes to form for contacting us")
+Email: [HTML Basic Tutor](https://web.archive.org/web/20060926052755id_/http%3A//www.htmlbasictutor.ca/contactform.htm "Goes to form for contacting us")
 
   
 
