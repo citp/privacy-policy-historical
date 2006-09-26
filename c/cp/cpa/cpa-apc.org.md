@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpa-apc.org privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627150948id_/http%3A//www.cpa-apc.org/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpa-apc.org privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926084559id_/http%3A//www.cpa-apc.org/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Canadian Psychiatric Association - Privacy Policy
 
