@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texashealth.org privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617215909id_/http%3A//www.texashealth.org/main.asp%3Fenorgid%3D%26level%3D3%26id%3DA4266D3856864C5AA4FF0701748F68E6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texashealth.org privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926081500id_/http%3A//texashealth.org/main.asp%3Fenorgid%3D%26level%3D3%26id%3DA4266D3856864C5AA4FF0701748F68E6) for the most accurate reproduction.*
 
 # Privacy Statement
 
