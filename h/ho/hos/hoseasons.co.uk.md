@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoseasons.co.uk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614231319id_/http%3A//hoseasons.co.uk/holidays/general_info/security_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoseasons.co.uk privacy policy that was archived on 2006-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060926183102id_/http%3A//hoseasons.co.uk/holidays/general_info/security_statement.asp) for the most accurate reproduction.*
 
 # Hoseasons - Security and Privacy Statement
 
