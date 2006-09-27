@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2005-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051129131515id_/http%3A//www.fwi.co.uk/StaticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2006-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060927095248id_/http%3A//www.fwi.co.uk/StaticPages/privacy.htm) for the most accurate reproduction.*
 
 # FarmersWeekly
 
@@ -29,3 +29,16 @@ Your personal data will be held on a secure server. Our sites are equipped with 
 
   **Access to Data    
 **Under the Data Protection Act 1988. You have the right to be told what personal information we hold about you on our databases. You should write to us, attn Company Secretary at the following address: Quadrant House, The Quadrant, Sutton, Surrey SM2 5AS. UK stating your full name, your address and any of our publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request. 
+
+**Cookies**
+
+Cookies are small pieces of information placed by us on your computer which enable us to identify your computer when you access the web site and to provide you with a convenient means of access. The cookies we use also protect the integrity of registered user names and passwords and limit access to 'paid for' services. We also use cookies to collect aggregate statistical information about the use of the site.  
+There is no personally identifiable information held on cookies. An example of a cookie is below.   
+10.20.25.21- 2020212848.29592612::413EA8A33A38AC8CCE09CC624E8B4758
+
+You have the option to decline cookies, but if you decline you may not be able to access all the functionality of the site. 
+
+  
+**We strongly recommend you accept any cookies used by this site.**
+
+In addition, the third party companies who sell and provide advertisements to the site make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: <http://www.adtech.info/privacy_en.php>.   [www.webtrendslive.com](http://www.webtrendslive.com/)
