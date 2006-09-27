@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worshiphousemedia.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627000842id_/http%3A//worshiphousemedia.com/index.cfm%3Fhndl%3Dprivacy%26id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worshiphousemedia.com privacy policy that was archived on 2006-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060927121154id_/http%3A//www.worshiphousemedia.com/index.cfm%3Fhndl%3Dprivacy%26id%3D1) for the most accurate reproduction.*
 
 # Worship House Media, the one-stop-shop for your church media and video ministry
 
