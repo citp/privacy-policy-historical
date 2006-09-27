@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the farmersonly.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615162623id_/http%3A//www.farmersonly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmersonly.com privacy policy that was archived on 2006-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060927162624id_/http%3A//www.farmersonly.com/privacy.php) for the most accurate reproduction.*
 
 # Online Dating Singles Service and Free Personals | FarmersOnly.com
 
 We use your IP address to gather broad demographic information. IP address are generally dynamically allocated (different every time you log on). We use this information to get a general feeling of how many people visit the site and from where they are referred. This is done by our web host using standard logging technology.
 
-**[Cookies](http://www.kaleidostudio.com/websmith/archives/30)  
+**Cookies  
 **   
 Our Site uses cookies to save your password so you don't have to re-enter it each time you visit a page on the site. The cookie is session based (sits in the header information sent to the browser) and is destroyed after you close your browser. The cookie neither reads nor writes anything to or from your computer but cookies must be enabled to use the site as a member. 
 
