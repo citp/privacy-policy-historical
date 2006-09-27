@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the godandscience.org privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206160408id_/http%3A//www.godandscience.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godandscience.org privacy policy that was archived on 2006-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060927064601id_/http%3A//www.godandscience.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Evidence for God from Science
+
+## General Privacy Policies
+
+_Evidence for God from Science_ does not release any kind of personal information collected from the website to any entity outside our organization. This information includes, but is not limited to e-mail addresses, correspondence, and site statistics. Writing to the ministry will not add your name, e-mail, or any other personal information to any list (including our own). You must specifically request to be added to any lists. Now here is the legal stuff:
 
 ## About Us
 
@@ -12,33 +16,32 @@ We invite you to contact us if you have questions about this policy. You may con
     Richard Deem
     c/o Reasons To Believe
     P.O. Box 5978
-    Pasadena, CA 91117 
+    Pasadena, CA 91117
     USA
-    
 
-You may contact us by e-mail by [clicking here](https://web.archive.org/web/20060206160408id_/http%3A//www.godandscience.org/contact/contact.php?Rich). 
+You may contact us by e-mail by [clicking here](https://web.archive.org/web/20060927064601id_/http%3A//www.godandscience.org/contact/contact.php?Rich). 
 
 ## Dispute Resolution and Privacy Seals
 
-We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern. 
+We have the following privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, they can help you resolve your concern.
 
-  * **Disputes** : Errors or wrongful actions arising in connection with the privacy policy will be corrected by our organization. 
+  * **Disputes** : Errors or wrongful actions arising in connection with the privacy policy will be corrected by our organization.
 
 
 
 ## Additional Information
 
-This policy is valid for 1 day from the time that it is loaded by a client. 
+This policy is valid for 1 day from the time that it is loaded by a client.
 
 ## Data Collection
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 3 data groups. The data practices of each group will be explained separately. 
+P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 3 data groups. The data practices of each group will be explained separately.
 
 * * *
 
 ### Group "Basic information"
 
-We collect the following information: 
+We collect the following information:
 
   * Click-stream data
   * HTTP protocol elements
@@ -54,7 +57,7 @@ This data will be used for the following purposes:
 
 
 
-This data will be used by ourselves and our agents. 
+This data will be used by ourselves and our agents.
 
 The following explanation is provided for why this data is collected:
 
@@ -64,7 +67,7 @@ The following explanation is provided for why this data is collected:
 
 ### Group "Cookies"
 
-We collect the following information: 
+We collect the following information:
 
   * HTTP cookies
 
@@ -77,9 +80,9 @@ This data will be used for the following purposes:
 
 
 
-This data will be used by ourselves and our agents. 
+This data will be used by ourselves and our agents.
 
-The data in this group has been marked as non-identifiable. This means that there is no reasonable way for the site to identify the individual person this data was collected from. 
+The data in this group has been marked as non-identifiable. This means that there is no reasonable way for the site to identify the individual person this data was collected from.
 
 The following explanation is provided for why this data is collected:
 
@@ -103,7 +106,7 @@ This data will be used for the following purposes:
 
 
 
-This data will be used by ourselves and our agents. 
+This data will be used by ourselves and our agents.
 
 The following explanation is provided for why this data is collected:
 
@@ -113,12 +116,12 @@ The following explanation is provided for why this data is collected:
 
 ## Cookies
 
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
+Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
 
-Our site makes use of cookies. Cookies are used for the following purposes: 
+Our site makes use of cookies. Cookies are used for the following purposes:
 
-  * Completing the user's current activity 
-  * User targeting 
+  * Completing the user's current activity
+  * User targeting
 
 
 
@@ -126,7 +129,7 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 
 ## Compact Policy Summary
 
-The compact policy which corresponds to this policy is: 
+The compact policy which corresponds to this policy is:
 
   
     CP="CAO DSP COR CURa ADMa DEVa TAIa CONi OUR IND ONL UNI COM NAV INT PRE"  
@@ -156,5 +159,5 @@ PRE |  Preference information is collected.
   
 << back
 
-https://web.archive.org/web/20060206160408id_/http%3A//www.godandscience.org/privacy.html   
-Last Modified April 8, 2004
+https://web.archive.org/web/20060927064601id_/http%3A//www.godandscience.org/privacy.html   
+Last Modified May 18, 2006
