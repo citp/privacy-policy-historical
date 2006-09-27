@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the citypaper.net privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616200931id_/http%3A//citypaper.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypaper.net privacy policy that was archived on 2006-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060927042324id_/http%3A//www.citypaper.net/privacy.shtml) for the most accurate reproduction.*
 
 # citypaper.net Privacy Policy
 
 |  |  | 
 
+[CP Choice](https://web.archive.org/choice/)  
 [Love / Hate](https://web.archive.org/lovehate/)  
 [classifieds](https://web.archive.org/classifieds/)  
 [billboards](https://web.archive.org/billboards)  
