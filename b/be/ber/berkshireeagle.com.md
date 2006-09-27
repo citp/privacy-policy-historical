@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berkshireeagle.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210808id_/http%3A//www.berkshireeagle.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkshireeagle.com privacy policy that was archived on 2006-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060927184401id_/http%3A//www.berkshireeagle.com/portlet/layout/html/privacypolicy/privacypolicy.jsp%3FsiteId%3D101) for the most accurate reproduction.*
 
 # Privacy Policy
 
