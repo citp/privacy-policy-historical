@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrongplanet.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614075324id_/http%3A//www.wrongplanet.net/asperger.html%3Fname%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrongplanet.net privacy policy that was archived on 2006-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060927080759id_/http%3A//www.wrongplanet.net/asperger.html%3Fname%3DPrivacy) for the most accurate reproduction.*
 
 # Wrong Planet - Aspergers and Autism Community
 
