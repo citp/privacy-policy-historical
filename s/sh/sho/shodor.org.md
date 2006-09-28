@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shodor.org privacy policy that was archived on 2005-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050901133524id_/http%3A//www.shodor.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shodor.org privacy policy that was archived on 2006-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060928023153id_/http%3A//www.shodor.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [Shodor Home](https://web.archive.org/) > Privacy Policy 
 
-At Shodor we are committed to protecting your privacy whenever we collect personal information. You can navigate throughout most of our site without giving us any self-identifiable information. Please read the complete Shodor.org (Shodor) privacy statement. 
+At Shodor we are committed to protecting your privacy whenever we collect personal information. You can navigate throughout most of our site without giving us any self-identifiable information. Please read the complete Shodor.org (Shodor) privacy statement below. 
 
 Collecting your Personal Information  
 Shodor will notify you when we need information that personally identifies you or allows us to contact you. Generally, this information is requested when you subscribe to an electronic mail newsletter, put input in a comment box, or visit a part of our site where a login is necessary. Personal information collected by Shodor is often limited to just electronic mail addresses. 
