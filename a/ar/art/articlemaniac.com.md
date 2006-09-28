@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the articlemaniac.com privacy policy that was archived on 2006-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060604073631id_/http%3A//www.articlemaniac.com/index.php%3Fpagedb%3Dprivacy%26PHPSESSID%3Ddd8755121b591514020a98550722ad9a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlemaniac.com privacy policy that was archived on 2006-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060928233051id_/http%3A//www.articlemaniac.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
-# privacy ArticleManiac.com - Free Articles For Your Websites, Newsletters, and Ezines
+# privacy
+
+  
+[ **Download YOUR free ebook now: "21 Big Internet Lies"**](http://www.biginternetlies.com/)
 
 ArticleManiac.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personal Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
