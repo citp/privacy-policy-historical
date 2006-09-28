@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monarch.co.uk privacy policy that was archived on 2004-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041031055543id_/http%3A//monarch.co.uk/templates/Page.aspx%3Fid%3D314) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monarch.co.uk privacy policy that was archived on 2006-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060928113412id_/http%3A//www.monarch.co.uk/templates/Page.aspx%3Fid%3D314) for the most accurate reproduction.*
 
-# Privacy Policy - Sapa Group
+# Privacy Policy - aluminium profiles, building systems and heat transfer strip
 
 Policy for the Processing of Personal Data
 
@@ -24,5 +24,4 @@ This site contains links to other sites. We are not responsible for the privacy 
 
 If you have any questions regarding our personal data processing, you are welcome to [contact us.](mailto:info@sapagroup.com)
 
-  
-
+Updated: 2004-05-18
