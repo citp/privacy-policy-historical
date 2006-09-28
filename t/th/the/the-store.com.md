@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-store.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614011012id_/http%3A//www.the-store.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-store.com privacy policy that was archived on 2006-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060928033824id_/http%3A//www.the-store.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy
 
