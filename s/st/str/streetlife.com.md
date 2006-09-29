@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetlife.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615123707id_/http%3A//www.streetlife.com/about/privacy.tpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetlife.com privacy policy that was archived on 2006-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060930014306id_/http%3A//www.streetlife.com/about/privacy.tpl) for the most accurate reproduction.*
 
 # Streetlife
 
