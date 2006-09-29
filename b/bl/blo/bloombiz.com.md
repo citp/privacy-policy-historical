@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloombiz.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616225818id_/http%3A//europe.bloombiz.com/default.cgi/action/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloombiz.com privacy policy that was archived on 2006-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060929081629id_/http%3A//europe.bloombiz.com/default.cgi/action/privacypolicy) for the most accurate reproduction.*
 
 # Europe.Bloombiz.com - European Trade Portal
 
