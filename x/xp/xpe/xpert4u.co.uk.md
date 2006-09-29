@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpert4u.co.uk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614135806id_/http%3A//xpert4u.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpert4u.co.uk privacy policy that was archived on 2006-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060929193129id_/http%3A//www.xpert4u.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policies of Nokia Samsung Motorola on 3 Mobile T Mobile Orange Mobile Phone Shop
 
