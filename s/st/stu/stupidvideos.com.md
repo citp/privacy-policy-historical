@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stupidvideos.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615085058id_/http%3A//stupidvideos.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stupidvideos.com privacy policy that was archived on 2006-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060929191936id_/http%3A//www.stupidvideos.com/info/privacy.php) for the most accurate reproduction.*
 
 # Stupidvideos.com - Viral Humor videos, Prank videos , Animal videos, Sports videos, Commerical Out-takes, and Stunts/Crashes videos. on StupidVideos
 
-STUPIDVIDEOS PRIVACY POLICY 
+**STUPIDVIDEOS PRIVACY POLICY**
 
 General 
 
