@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nc.gov privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504092103id_/http%3A//www.nc.gov/asp/subpages/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nc.gov privacy policy that was archived on 2006-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060929152038id_/http%3A//www.nc.gov/asp/subpages/privacy_policy.asp) for the most accurate reproduction.*
 
 # PORTAL PRIVACY STATEMENT FOR INDIVIDUALS
 
