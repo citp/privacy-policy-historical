@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the memphisinmay.org privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625020616id_/http%3A//memphisinmay.org/site.asp%3Fcid%3D70%26PID%3D1%26title%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memphisinmay.org privacy policy that was archived on 2006-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060930081453id_/http%3A//www.memphisinmay.org/site.asp%3Fcid%3D70%26PID%3D1%26title%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # Memphis in May - Privacy Policy
 
-[](https://web.archive.org/web/20060625020616id_/http%3A//memphisinmay.org/print.asp?cid=70&title=Privacy%20Policy)
+[](https://web.archive.org/web/20060930081453id_/http%3A//www.memphisinmay.org/print.asp?cid=70&title=Privacy%20Policy)
 
 Memphis in May respects each web site visitor’s right to personal privacy.  Therefore, all information collected on this site is:
 
