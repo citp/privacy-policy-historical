@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picstop.co.uk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614094500id_/http%3A//picstop.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picstop.co.uk privacy policy that was archived on 2006-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060930174514id_/https%3A//www.picstop.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Picstop
 
@@ -27,8 +27,6 @@ The personal information which we hold will be held securely in accordance with 
 
 If you have any concerns regarding the privacy of this site please [contact us](https://web.archive.org/contact.php)  
   
-[](http://www.picstop.co.uk/Kingston "Did You Know")
-
 [](http://www.ec.kingston.com/ecom/config/default.asp?referid=690 "Memory Finder")
 
 Telephone lines open from   
