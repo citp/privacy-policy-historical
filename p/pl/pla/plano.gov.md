@@ -1,30 +1,6 @@
-> *The following text is extracted and transformed from the plano.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015433id_/http%3A//www.planotx.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plano.gov privacy policy that was archived on 2006-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060930065146id_/http%3A//www.plano.gov/privacy_policy.htm) for the most accurate reproduction.*
 
 # The City of Plano, Texas Official Website
-
-**Privacy Statement    **        
-
-
-This policy describe the city of Plano, Texas privacy practices regarding information collected from and provided to visitors to the site, [www.planotx.org](https://web.archive.org/web/20060615015433id_/http%3A//) and all departmental sites contained within. It contains information about specific data collected and how that information is used. This privacy statement applies to this web site and all websites of the city of Plano. When you follow a link to another site, even the sites of other governmental agencies, this policy will not apply. You should check the privacy policy of each of these sites if you have concerns about how they handle personally identifiable information. This statement may be updated periodically; please check back from time to time.
-
-  
-**Collection and Use of Information**
-
-The city of Plano does not sell or rent personally identifiable information. Please be aware that when you provide information to any government entity, however, that information may be subject to the Texas Public Information Act and applicable federal legislation. Information about the Texas Public Information Act is available from the Office of the Attorney General at:
-
-[ http://www.oag.state.tx.us/opinopen/open_policy.shtml](http://www.oag.state.tx.us/opinopen/open_policy.shtml)
-
-The city of Plano may be legally required to provide personally identifiable information to the appropriate governmental authorities. The City of Plano will cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities deemed to be illegal.
-
-**  
-If You Send Us Personal Information**
-
-If you choose to provide us with personal information - as in filling out a form, an online transaction and/or email - we use that information to process your request, complete a transaction, or respond to your message.
-
-We do not collect personal information for any purpose other than to serve or respond to you. We only share information you give us with another governmental or business agency, if your inquiry/transaction relates to that agency or business, or as otherwise required by law.
-
-  
-Information Collected and Stored Automatically
 
 **Privacy Statement**
 
