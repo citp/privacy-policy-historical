@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationalpriorities.org privacy policy that was archived on 2005-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051026071737id_/http%3A//www.nationalpriorities.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D50%26Itemid%3D126) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalpriorities.org privacy policy that was archived on 2006-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061001043450id_/http%3A//nationalpriorities.org/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D50%26Itemid%3D126) for the most accurate reproduction.*
 
-# Privacy - National Priorities Project
+# National Priorities Project - Privacy
 
 National Priorities Project is dedicated to honoring the privacy and wishes of our supporters at all times. Following are details about our online policies. These policies may be changed or updated from time to time. Please feel free to contact us if you have any questions or concerns we will be happy to address them promptly. 
 
