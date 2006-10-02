@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rfa.org privacy policy that was archived on 2005-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051111223750id_/http%3A//www.rfa.org/english/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfa.org privacy policy that was archived on 2006-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061002212907id_/http%3A//www.rfa.org/english/about/privacy_policy) for the most accurate reproduction.*
 
 # RFA: Privacy Policy
 
@@ -57,4 +57,4 @@ RFA reserves the right to change this policy in its sole discretion at any time.
 
 * * *
 
-© 2005 Radio Free Asia 
+© 2006 Radio Free Asia 
