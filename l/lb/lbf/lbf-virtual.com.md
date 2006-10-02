@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lbf-virtual.com privacy policy that was archived on 2006-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060323075236id_/http%3A//www.lbf-virtual.com/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbf-virtual.com privacy policy that was archived on 2006-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061002230921id_/http%3A//www.londonbookfair.co.uk/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.*
 
-# London Book Fair - Privacy Pledge
+# The London Book Fair - Privacy Pledge
 
 |  **How Your Information Is Used**
 
-Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions Limited (RX). Our corporate offices are located at Oriel House, 26 The Quadrant, Richmond, Surrey TW9 1DL, United Kingdom. You can also reach us by telephone on +44 (0) 208 910 7910.
+Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions Limited (RX). Our corporate offices are located at Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom. You can also reach us by telephone on +44 (0) 208 910 7910.
 
-Our privacy policy is laid out below but if we have contacted you and you no longer wish to receive information from us then first of all we apologise for the inconvenience. To be removed from our database please [click here](http://www.lbf-virtual.com/page.cfm/Action=RXDPAOptOut/ShowForm=Yes/t=m) to complete a form that will allow us to amend your record.
+Our privacy policy is laid out below but if we have contacted you and you no longer wish to receive information from us then first of all we apologise for the inconvenience. To be removed from our database please [click here](http://www.londonbookfair.co.uk/page.cfm/Action=RXDPAOptOut/ShowForm=Yes/t=m) to complete a form that will allow us to amend your record.
 
 **Customer Definition**
 
@@ -41,7 +41,7 @@ RX will accept opt-out requests via the contact details below as follows:
 
 **Any queries/questions/opt out**
 
-If you have any questions or concerns about your customer information or your request to opt-out of communications from RX or its third party partners, please contact our Corporate Headquarters via e-mail [rxinfo@reedexpo.co.uk](mailto:rxinfo@reedexpo.co.uk), telephone +44 (0) 20 8271 2120, or FAX +44 (0) 20 8910 7823 or by post to Oriel House, 26 The Quadrant, Richmond, Surrey TW9 1DL, United Kingdom
+If you have any questions or concerns about your customer information or your request to opt-out of communications from RX or its third party partners, please contact our Corporate Headquarters via e-mail [rxinfo@reedexpo.co.uk](mailto:rxinfo@reedexpo.co.uk), telephone +44 (0) 20 8271 2120, or FAX +44 (0) 20 8910 7823 or by post to Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom
 
 **Security**
 
@@ -64,3 +64,5 @@ No part of this website may be reproduced or transmitted by any means, electroni
 This site contains links to external sites. Reed Exhibitions Limited is not responsible for, and has no control over, the content of such sites. Information on this site, or available via hypertext link from this site, is made available without responsibility on the part of Reed Exhibitions Limited.
 
 Reed Exhibitions Limited disclaims all responsibility and liability (including negligence) in relation to information on or accessible from this site. 
+
+| 
