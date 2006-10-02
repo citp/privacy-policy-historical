@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2005-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050310011935id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2006-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061002143510id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of www.homeschoolmath.net
 
@@ -23,6 +23,6 @@
 > 
 > **Advertisers:** You will see advertisements served by Amazon.com and Google.com on this website. They may use cookie technology to track the activities of anyone who clicks on the links within the advertisements. To see their privacy policies, click here [Amazon.com Privacy Notice](http://www.amazon.com/exec/obidos/tg/browse/-/468496/102-6533223-3461729) or [Google Privacy Policy](http://www.google.com/privacy.html). 
 > 
-> The website is owned and maintained by Maria Miller. [To contact us click here](https://web.archive.org/web/20050310011935id_/http%3A//www.homeschoolmath.net/question.php). 
+> The website is owned and maintained by Maria Miller. [To contact us click here](https://web.archive.org/web/20061002143510id_/http%3A//www.homeschoolmath.net/question.php). 
 > 
 > **
