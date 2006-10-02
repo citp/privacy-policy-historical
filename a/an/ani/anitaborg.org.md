@@ -1,0 +1,77 @@
+> *The following text is extracted and transformed from the anitaborg.org privacy policy that was archived on 2006-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061002045123id_/http%3A//www.anitaborg.org/privacy.php) for the most accurate reproduction.*
+
+# Privacy Policy - Anita Borg Institute for Women and Technology
+
+## Privacy Policy
+
+Your privacy is important, so the Anita Borg ABI for Women and Technology ("ABI") has created the following Privacy Policy to let you know what information we collect when you visit our web sites, why we collect it and how it is used. 
+
+#### Your Consent To This Privacy Policy
+
+By using the Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy is incorporated into by reference and made a part of our Terms of Use for the Sites. We may periodically make changes to this Privacy Policy that we will include on this page. The effective date at the bottom of this page indicates the date of the most current Privacy Policy in effect. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. With respect to the Systers Site, in the event We make material changes to this Privacy Policy We will use reasonable efforts to notify You of such changes within a reasonable time period by posting a disclaimer regarding such changes on the Systers List. In the event ABI makes such a material change to this Privacy Policy and fails to provide notice thereof as described above in this Paragraph, and You become aware of such change, upon Your written request We will promptly provide such notice of such change on the Systers List. Without limiting the foregoing, ABI shall not be liable for any damages You may suffer as a result of its failure to provide You notice of any changes to this Privacy Policy as set forth herein.
+
+#### Scope of Policy
+
+This Privacy Policy explains the data collection and use practices of anitaborg.org, systers.org and any other web sites or services, available through such sites, owned or operated by ABI (the "Sites"). This Privacy Policy does not apply to offline ABI activities, products or services, and does not apply to third-party sites with which ABI may be affiliated, for example, where users may donate money to ABI or register for ABI events. Please consult the privacy policies of such third-party sites. Certain additional terms governing privacy on the systers.org site ("Systers Site") and restricted-access e-mail discussion lists, now or in the future (the "Systers Lists") are set forth on the Systers List FAQs and below.
+
+#### What Information Is Collected?
+
+"Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home.
+
+ABI also automatically receives and records information on our server logs from your browser, including your IP address, cookie information and the page you request. You can choose not to provide us with certain information, but then you might not be able to take advantage of some of our features. 
+
+ABI may also collect certain Personal Information that you voluntarily disclosed based on your use of the Sites, including without limitation in connection with registering for events or mailing lists, submission of job applications, responses to survey questions, providing comments, suggestions, and other information that you voluntarily submit to ABI as a user of the Sites or participant in any services offered by the Sites, which is material defined as User Content under the Terms of Use.
+
+#### How Is Such Information Used?
+
+We may use Personal Information collected on the Site to share with You information that we feel may be of interest to you, such as invitations to attend ABI events or the events of other carefully chosen organizations, to review and enhance our products and service offerings, and otherwise to further our charitable purpose and to comply with applicable law. If you make charitable donations to ABI or otherwise engage in off-line activities with ABI, this information may be merged in our database with your online Personal Information.
+
+Tasks related to event organization and other functions of ABI are performed both by employees of ABI and by volunteers ("ABI Volunteers") who are not employees. By making use of the Site, you consent to allow these ABI Volunteers to access any Personal Information you submit to the Site.
+
+Without limiting the foregoing, users of the Systers Site may chose to opt out of receiving personal emails regarding the donation of money to ABI. If, as a user of the Systers Site You do not wish to receive emails related to the donation of money to ABI, You may submit such a request pursuant to the Choice section below. For clarity, ABI reserves the right to post communications on the Systers List regarding such information.
+
+#### Is The Information Shared or Disclosed?
+
+ABI does not rent or sell Personal Information it collects about you to third parties, provided that ABI may disclose such Personal Information to third parties as follows: (i) to agents, subcontractors and other third parties, including ABI volunteers, who are engaged by ABI in making the ABI products and services available and otherwise assisting ABI in its charitable purpose, including fundraising; and (ii) to selected affiliates, marketing partners and other organizations that ABI may affiliate with in furtherance of its charitable purpose. In addition, if you register to attend an event or conference sponsored by ABI, ABI may also disclose Personal Information in the form of a list of attendee contact information to other attendees at such conference or event; provided, that ABI will provide you with the opportunity to opt-out of such disclosure. ABI may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on ABI or the Site; (2) protect and defend the rights or property of ABI; or (3) act in urgent circumstances to protect the personal safety of users of ABI, its web sites or the public; or (4) in connection with a merger, acquisition, reorganization, liquidation, or transfer of all or part of ABI's assets. 
+
+#### Systers Site
+
+ABI collects the following Personal Information from you when you register to use the Systers List: e-mail address, full name, gender, and a short essay discussing involvement in technical computing. We also collect and archive submissions to the Systers List and thus we retain any Personal Information you choose to include in those submissions. Personal Information collected on the Systers Site is used solely for the purposes of enabling registration, maintenance, support and participation in the Systers List; provided, that we may also include your contact information in our donor and communications database for use as set forth above. 
+
+In addition, archives of emails sent to the Systers List are maintained on the Systers Site and are accessible to list members. When they register to participate, Systers List members agree to be bound by the Systers List FAQs, which requires them to remove any Personal Information from such e-mails before sharing their contents with non-members, but the Institute cannot be responsible for any undesired dissemination of information by members of the Systers List. In order to benefit members of the public who are not on the list, upon receiving prior written permission, discussions of certain topics may be extracted from Systers List conversations by removing all Personal Information and then posting summaries and aggregated data on the Sites. For clarity, ABI reserves the right to extract aggregated data and use such data in its discretion as set forth herein. 
+
+#### Choice
+
+If you would like us to limit communications to you or use or disclosure of your Personal Information, please make your request by email to privacy AT anitaborg DOT org. We will respond within a reasonable period to notify you either that we will use reasonable efforts to accommodate your request or alternatively, that we are unable to do so and will delete your Personal Information from our databases.
+
+#### Access
+
+The accuracy of information provided by you to the Sites is your responsibility. You agree You will not knowingly post inaccurate information to the Sites. In limited circumstances, such information may be changed or deleted by request. If someone has spoofed your e-mail address or you have another reason you would like to have such information edited or removed, please send an email to privacy AT anitaborg DOT org with your request. Other Personal Information may be corrected, amended or deleted by requesting such change by email to privacy AT anitaborg DOT org.
+
+#### Security Notice
+
+Except as required by law, ABI does not use encryption or other comparable security measures for the information that you provide to us, and accordingly it is possible that this information could be intercepted over the Internet or otherwise accessed by unauthorized parties. In addition, any information sent to us by email may not be secure during transit, due to the nature of email. 
+
+If ABI learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of the Site. ABI may post a notice on our web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the Sites. ABI may also send an email to you at the email address you have provided to us, if any, in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at privacy AT anitaborg DOT com.
+
+#### International Transfers
+
+Personal Information collected on the Sites may be stored and processed in the United States or any other country in which ABI or its affiliates, Volunteers, or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country.
+
+#### Children
+
+The Sites are not intended for or directed to persons under the age of 13. Any person who provides their information to ABI through any part of ABI Site represents to ABI that they are 13 years of age or older.
+
+#### Cookies
+
+To the extent web site usage information is developed through use of session cookies, we will only use this information to facilitate your use of our web site. Cookies are data files that are written onto your computer by a web site. This technology does not collect any personal identifiable information that you do not specifically provide to us other than identifying information of your computer IP address. The data collected by the cookies is associated with your computer IP address for the duration of the cookie. At the end of your visit, the session cookies are removed. Per-session cookies do not permanently record data and are not stored on your computer's hard drive. Per-session cookies are cached (stored in memory) while you are visiting the Web site and are deleted from your cache when you leave the Web site. We do not use persistent cookies or any cookies other than the session cookies identified. You may set your browser to notify you when you receive a cookie or to refuse receiving it. Be aware that this may interfere with or make you unable to use certain functionality on the web site using cookies.
+
+#### Your California Privacy Rights
+
+Beginning January 1, 2005, California law permits individuals who reside in California to request certain information regarding the disclosure of personal information collected by ABI to third parties for marketing purposes. If you are a California resident, and would like to know whom ABI shared information with and what information was shared you may request this information by contacting ABI as set forth below. ABI also honors any other legal disclosure requirements imposed by other applicable jurisdictions.
+
+#### Contacting ABI
+
+If you would like to contact ABI regarding this Privacy Policy, please contact us by email at privacy AT abiwt DOT org or by postal mail at Privacy Director, Anita Borg Institute for Women and Technology, 1501 Page Mill Road, ms 1105, Palo Alto, CA 94304.
+
+Effective Date: July 26, 2006
