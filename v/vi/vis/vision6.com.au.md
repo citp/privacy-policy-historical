@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vision6.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615160141id_/http%3A//www.vision6.com.au/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision6.com.au privacy policy that was archived on 2006-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061003165403id_/http%3A//www.vision6.com.au/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Vision 6 - SMS & Email Marketing Software
+# Privacy Policy - Vision 6 - SMS and Email Marketing Software
 
 As part of the Member registration process, we collect personal information and assign a username and password to each Member. We may additionally collect web site visitors' contact information (like their e-mail addresses). Unless you object, this information may be used: 
 
