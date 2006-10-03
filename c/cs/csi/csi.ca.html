@@ -1,0 +1,544 @@
+<!--The following is the downloaded HTML source of the csi.ca privacy policy that was archived on 2006-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061003072733id_/https%3A//www.csi.ca/student/en_ca/student/policies/privacy.xhtml) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN"><html><head>
+<!-- csi_lmenu.ftl : used for pages that have the left menu - 
+i.e. product pages -->
+	<title>CSI - Policies &amp; Guidelines: CSI's privacy commitment</title>
+<base href="https://www.csi.ca/student/en_ca/">	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- include common stylesheets -->
+
+    <link href="../inc/css/default.css" rel="stylesheet" type="text/css">
+	<link href="../inc/css/scroll0.css" rel="stylesheet" type="text/css">
+<!-- include context-sensitive stylesheets -->
+	<link href="../inc/css/products.css" rel="stylesheet" type="text/css">
+	<link href="../inc/css/products.print.css" media="print" rel="stylesheet" type="text/css">
+		
+	
+<!-- include scripts -->
+
+	<script src="../inc/jscript/tzobjects.js" language="javascript" type="text/javascript"></script>
+	<script src="../inc/jscript/default.js" language="javascript" type="text/javascript"></script>
+	<script src="../inc/jscript/addproduct.js" language="javascript" type="text/javascript"></script>
+
+	<script language="javascript" type="text/javascript">
+	var TScroll_path_to_files = 'inc/tsp_files/';
+	</script>
+	
+	<script src="inc/tsp_files/scroll_news.js" language="javascript" type="text/javascript"></script>
+	<script src="inc/tsp_files/scroll.js" language="javascript" type="text/javascript"></script>
+<script language="JavaScript">
+<!--
+
+/***********************************************
+* Required field(s) validation v1.10- By NavSurf
+* Visit Nav Surf at http://navsurf.com
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+function formCheck(formobj){
+	// Enter name of mandatory fields
+	var fieldRequired = Array("applying_for","firstname","lastname","email","ctudentid","homeaddress1","homecity","homeprovince","homecountry","homepostalcode","homephone","releaseconsent","wm_experience","rulesandregs");
+	// Enter field description to appear in the dialog box
+	var fieldDescription = Array("Course Selection is Missing","First Name","Last Name","Email Address","Student ID","Home Address","City","Province","Country","Postal Code","Home Phone Number","Consent Release Form (Agree or Disagree) Step 4 of 7","Years Experience Step 5 of 7","Rules and Regulations (Agree or Disagree) Step 6 of 7");
+	// dialog message
+	var alertMsg = "Please complete the following fields:\n";
+	
+	var l_Msg = alertMsg.length;
+	
+	for (var i = 0; i < fieldRequired.length; i++){
+		var obj = formobj.elements[fieldRequired[i]];
+		if (obj){
+			switch(obj.type){
+			case "select-one":
+				if (obj.selectedIndex == -1 || obj.options[obj.selectedIndex].text == ""){
+					alertMsg += " - " + fieldDescription[i] + "\n";
+				}
+				break;
+			case "select-multiple":
+				if (obj.selectedIndex == -1){
+					alertMsg += " - " + fieldDescription[i] + "\n";
+				}
+				break;
+			case "text":
+			case "textarea":
+				if (obj.value == "" || obj.value == null){
+					alertMsg += " - " + fieldDescription[i] + "\n";
+				}
+				break;
+			default:
+			}
+			if (obj.type == undefined){
+				var blnchecked = false;
+				for (var j = 0; j < obj.length; j++){
+					if (obj[j].checked){
+						blnchecked = true;
+					}
+				}
+				if (!blnchecked){
+					alertMsg += " - " + fieldDescription[i] + "\n";
+				}
+			}
+		}
+	}
+
+	if (alertMsg.length == l_Msg){
+		return true;
+	}else{
+		alert(alertMsg);
+		return false;
+	}
+}
+// -->
+</script>
+
+	
+<!--[if lte IE 6]>
+	<style>
+		.TzClear {
+			display:none;
+		}
+	</style>
+<![endif]-->
+
+</head>
+<body>
+
+<div id="TzContainer">
+
+
+<!-- mini student login (all pages) -->
+<!-- mini student login (all pages) -->
+<form action="../logon/loginAction.do" method="post" style="margin-bottom:0;">
+<input type="hidden" name="nextPage" value="student.ftl">
+<div id="TzSecure">
+	Student ID: <input type="text" id="username" name="csiNumber"> 
+	Password: <input type="password" id="password" name="password">
+	<input type="submit" name="loginButton" value="Go" style="width:25px;height:18px;">
+</div>
+</form>
+<!-- end mini student login -->
+
+<!-- silo navigation (all pages) -->
+
+<!-- silo navigation (all pages) -->
+<div id="TzHeader">
+	<ul>
+	    <li id="TzHeaderTab01"><a href="learning.xhtml">LEARNING MORE ABOUT CSI</a></li>
+    	<li id="TzHeaderTab02"><a href="student.ftl">RETURNING STUDENT</a> </li>
+        <li id="TzHeaderTab03"><a href="business.xhtml">CSI'S BUSINESS SOLUTIONS</a></li>
+    </ul>		
+</div><!-- end silo navigation -->
+
+	
+	 <!-- NewsBar (incl languange link) -->
+<div id="TzUtilityBar">
+<!-- previous link for rotating news items -->
+	<div id="TzPreviousNews" class="hide"><a href="javascript:TzNewsBar.goback();"><img border="0" alt="previous" src="../inc/images/prev.gif"> PREVIOUS</a></div>
+<!-- END previous link for rotating news items -->
+<!-- include french/english link for switching language -->
+	<div id="TzLanguageBar"><a href="https://www.csi.ca/student/fr_ca/student/policies/privacy.xhtml">Français</a></div><!-- END include french/english link -->	
+</div>
+<!-- rotating news items -->
+<div id="TzNewsBar">
+	<div id="TzNewsBarRoot">
+	<script language="javascript" type="text/javascript">
+	<!--
+		new TScroll_init (Tscr_LOOK0, Tscr_BEHAVE0, Tscr_ITEMS0)
+	// -->
+	</script>
+	</div>
+</div>
+<!-- END rotating news items -->	 <!-- End NewsBar -->
+	
+	
+	<!--MainMenu -->
+		
+<!--MainMenu -->
+		
+<div id="TzMainMenu">
+	<div id="TzLogo"><a href="home.xhtml"><img src="../inc/images/logo-80.gif" border="0" alt="CSI"></a></div>
+		<div id="TzMMTabRoot">
+			<ul>
+				<li id="home" onmouseover="TzMainMenu.show(this, event)"><a href="student.ftl">HOME</a></li>
+				<li id="learning" onmouseover="TzMainMenu.show(this, event)"><a href="courses/index.xhtml">LEARNING OPPORTUNITIES</a></li>
+				<li id="designations" onmouseover="TzMainMenu.show(this, event)"><a href="designations/index.xhtml">DESIGNATIONS</a></li>
+				<li id="student" onmouseover="TzMainMenu.show(this, event)"><a href="student.ftl">MY PROFILE</a></li>
+				<li id="enrol" onmouseover="TzMainMenu.show(this, event)"><a href="courses/allcourses.xhtml">ENROL NOW</a></li>			
+			</ul>
+		</div>
+	<div id="TzMMTabSubs">
+		<div id="home_sub">
+			&nbsp;
+		</div>
+		<div id="student_sub">
+			<ul>
+				<li><a href="/student/profile/studentViewProfile.do">Personal Information</a></li><a href="/student/profile/studentViewProfile.do">
+				</a><li><a href="/student/profile/studentViewProfile.do"></a><a href="/student/profile/studentViewAcademic.do">Academic History</a></li><a href="/student/profile/studentViewAcademic.do">
+				</a><li><a href="/student/profile/studentViewAcademic.do"></a><a href="/student/messageCentre/viewMessage.do">Message Centre</a></li><a href="/student/messageCentre/viewMessage.do">
+				</a><li><a href="/student/messageCentre/viewMessage.do"></a><a href="/student/profile/viewReceipt.do">Receipts</a></li><a href="/student/profile/viewReceipt.do">
+				</a><li><a href="/student/profile/viewReceipt.do"></a><a href="/student/profile/viewPasswordAction.do">Change Password</a></li><a href="/student/profile/viewPasswordAction.do">
+			</a></ul><a href="/student/profile/viewPasswordAction.do">
+		</a></div><a href="/student/profile/viewPasswordAction.do">
+		</a><div id="learning_sub"><a href="/student/profile/viewPasswordAction.do">
+			</a><ul><a href="/student/profile/viewPasswordAction.do">
+				</a><li><a href="/student/profile/viewPasswordAction.do"></a><a href="seminars/index.xhtml">Seminars</a></li>
+				<li><a href="courses/index.xhtml">Courses</a></li>
+				<li><a href="ce/index.xhtml">CE Opportunities</a></li>
+				<li><a href="career/index.xhtml">Career Paths</a></li>
+			</ul>
+		</div>
+		<div id="designations_sub">
+		<ul>
+				<li><a href="designations/chp.xhtml">ChP</a></li>
+				<li><a href="designations/fcsi.xhtml">FCSI</a></li>
+				<li><a href="designations/cim.xhtml">CIM</a></li>
+				<li><a href="designations/dms.xhtml">DMS</a></li>
+				<li><a href="designations/fma.xhtml">FMA</a></li>
+				
+			</ul>
+		</div>
+		<div id="enrol_sub">
+			&nbsp;
+		</div>
+	</div>
+</div> 
+<!-- End MainMenu -->
+
+	<!-- End MainMenu -->
+
+<div id="TzMainContent">
+	<!-- search bar + context menu -->
+<div id="TzMainContent01">
+	<!--search box -->
+<div id="TzSearchBar">
+	<form name="searchForm" action="search.jsp" method="POST" style="margin-bottom:0;">
+		<input type="hidden" name="index" value="214559">
+		<input type="hidden" name="phide" value="1">
+		<input type="hidden" name="psel" value="english">
+		<input type="hidden" name="lang" value="English">
+
+		<input type="hidden" name="picocaller" value="en_ca">
+		<input type="hidden" name="picocaller0" value="fr_ca">
+		<input type="hidden" name="picocaller1" value="Search Results">
+		<input type="hidden" name="picocaller2" value="Some of the pages listed in your Search Results may be restricted to current students and graduates. To access these pages, you will need to enter your Student ID and Password.">
+		<input type="hidden" name="picocaller3" value="CSI Global Education Inc, (2006)">
+		<input type="hidden" name="picocaller4" value="Online Course Login">
+
+		<input type="text" id="txtSubmit" name="query">
+		<a href="javascript:document.searchForm.submit()">Search</a>
+	</form>
+</div>	
+	<!--course menu -->
+			
+</div>
+	<!-- end search bar + context menu -->
+
+<!-- script and browser check messages -->
+
+
+
+<!-- end script and browser check messages -->	
+		
+	<!-- start generated content TzMainContent02 -->
+	      <div id="TzMainContent02" style="width:575px;">
+	<h1>CSI's privacy commitment&nbsp;<a href="#" onclick="window.print();return false"><img class="TzPrintAll" align="absmiddle" alt="Print this page" border="0" src="../inc/images/printer.gif"></a></h1>
+
+	<p class="subheading">Respecting and Protecting Your Personal Information</p>
+    <p><strong>As your preferred partner for
+  education in financial services,
+  CSI recognizes the importance
+  of protecting your personal
+  information.</strong> We only collect the
+  details that we need to serve you, and
+  we take precautions to safeguard that
+  information once we have it. This
+  brochure covers a series of frequently
+  asked questions related to CSI's
+  commitment to your privacy, and
+  explains how your personal
+  information is used.</p>
+                  <h2>SMART QUESTIONS, SIMPLE ANSWERS</h2>
+                  <ol>
+                    <li><a href="student/policies/privacy.xhtml#Q1">Why does CSI need my personal information?
+What will you use it for?</a></li>
+                    <li><a href="student/policies/privacy.xhtml#Q2">Do I have to provide my personal information?</a></li>
+                    <li><a href="student/policies/privacy.xhtml#Q3">Can you tell me more about the privacy legislation
+enacted in 2004?</a></li>
+                    <li><a href="student/policies/privacy.xhtml#Q4">Will you share my personal information with any
+other companies?</a></li>
+                    <li><a href="student/policies/privacy.xhtml#Q5">Can my employer see my personal information?</a></li>
+                    <li><a href="student/policies/privacy.xhtml#Q6">How do you protect my personal information?</a></li>
+                    <li><a href="student/policies/privacy.xhtml#Q7">How long will CSI keep information about me?</a></li>
+                    <li><a href="student/policies/privacy.xhtml#Q8">What am I agreeing to when I consent to CSI's
+privacy policy?</a></li>
+                    <li><a href="student/policies/privacy.xhtml#Q9">Who should I contact with questions or concerns
+about the privacy policy?</a></li>
+                    <li><a href="student/policies/privacy.xhtml#Q10">Will you let me know if you change CSI's
+privacy policy?</a></li>
+                    <li><a href="student/policies/privacy.xhtml#Q11">How can I update my personal information?</a></li>
+                  </ol>
+                  <hr> <h2><a name="Q1">&nbsp;</a>Q1: 
+                    Why does CSI need my personal information?
+What will you use it for?</h2>
+                  <p>CSI collects a limited amount of personal information to create
+your personal profile, a tool that distinguishes you from all other
+CSI students. Specifically, CSI will use that profile and your
+information to:</p>
+                  <ul>
+                    <li>Keep records of your education, course history
+                      and
+                    designation progress.</li>
+                    <li>Prepare regulatory reports if you're
+                      seeking industry licenses.</li>
+                    <li> Give you your
+                      course marks.</li>
+                    <li> Process your course or seminar
+                      enrolment.</li>
+                    <li> Tell you about new CSI courses
+                      and opportunities.</li>
+                    <li> Send you course materials,
+                      and awards.</li>
+                    <li> Maintain your individual investment
+                      simulation information.</li>
+                    <li> Share third-party
+                        offerings that we think you'd be
+                      interested in.</li>
+                  </ul>                  
+                  <div align="right"><img src="images/arrow_totop.gif" alt="back to top" border="0"><a href="student/policies/privacy.xhtml#top"> 
+                    Back to top</a></div>
+                  <h2><a name="Q2">&nbsp;</a>Q2: Do I have to provide
+                      my personal information?</h2>
+                  <p>While you can choose not to provide CSI with your personal
+information, this will prevent CSI from creating your student
+profile.Without that tool CSI will be unable to process your
+enrolment – you can still attend CSI courses, but you will be
+unable to write an exam or attain accreditation.</p>
+                  <p>You should also know that not
+  all the information CSI requests is mandatory.</p>
+                  <p>Here is a sample list of questions we need to 
+                    ask:</p>
+                  <ol>
+                    <li> name (first name and surname)</li>
+                    <li> contact address (street address, city/town, province, 
+                      country, postal code)</li>
+                    <li> telephone number and email address</li>
+                    <li> business address, telephone number and email address, 
+                      under certain circumstances</li>
+                    <li> birth date </li>
+                    <li> last 3 digits of your SIN to distinguish between students 
+                      with similar names and/or contact information</li>
+                    <li> payment/credit card information</li>
+                    <li> name of course/service you are enrolled in</li>
+                  </ol>
+
+                  <p>Optional information helps us understand you better so that 
+                    we can anticipate your needs. For example, we like to know 
+                    why you have chosen CSI so we can assist you in managing your 
+                    career with appropriate products and services. We also like 
+                    to know what your background might be so our courses are communicated 
+                    in a meaningful way. Some examples of optional information 
+                    include:</p>
+                  <ol>
+                    <li> reason for enrolment</li>
+                    <li> years of financial services experience</li>
+                    <li> education level</li>
+                    <li> gender</li>
+                    <li> survey questions </li>
+                  </ol>
+				  
+                  <p><img src="images/arrow_totop.gif" alt="back to top" border="0"><a href="student/policies/privacy.xhtml#top"> 
+                    Back to top</a></p>                  <h2><a name="Q3">&nbsp;</a>Q3: Can you tell me more about the privacy legislation
+enacted in 2004?</h2>
+                  <p>CSI respects your privacy, and has created this policy in response
+to the legislation you are referring to.You can learn more about
+the legislation on the federal government's privacy website at
+www.privcom.gc.ca.</p>
+                  <div align="right"><img src="images/arrow_totop.gif" alt="back to top" border="0"><a href="student/policies/privacy.xhtml#top"> 
+                    Back to top</a></div>
+                  <h2><a name="Q4">&nbsp;</a>Q4: Will you share my personal information with any
+other companies?</h2>
+                  <p>Under no circumstances will CSI sell or distribute your
+information – we're dedicated to protecting your privacy.With
+that in mind and to serve you better, CSI may share your file to
+make sure we're offering the most efficient and effective learning
+experience available.</p>
+                  <p><em>Specific instances when this might happen include:</em></p>
+                  <ul>
+                    <li> 
+                      Sharing your personal information with our suppliers and
+                      agents
+                      to print and distribute course materials, to survey you or
+                      with a
+                      CSI subsidiary to offer you additional financial market
+                      resources.</li>
+                    <li> Compiling records and reports tracking information like
+                        general
+                      pass or failure trends to continually enhance our services
+                        and
+                      offerings.Your Student ID is used here, so your name
+                        is never
+                      associated with your results.</li>
+                    <li> Reporting
+                        to regulators. Regulators can ask CSI for information
+                      about licensed registrants or students who apply to be
+                      registered.There are also rare occasions where CSI will
+                        report
+                      events to the IDA or other licensing regulators (eg.
+                        significant
+                      academic infractions).</li>
+                    <li> CSI may, from time
+                          to time, partner with companies that offer
+                      student or alumni benefits through their products.
+                          CSI will
+                      handle the first contact with you and give you the
+                          option to opt
+                      out of future communications from those companies.
+                          In choosing
+                      its partners to present to you, CSI will require those
+                          companies
+                      to certify that they will treat your personal information
+                          with the
+                      same standard of care that we do.</li>
+                  </ul>                  <div align="right"><img src="images/arrow_totop.gif" alt="back to top" border="0"><a href="student/policies/privacy.xhtml#top"> 
+                    Back to top</a></div>
+                  <h2><a name="Q5">&nbsp;</a>Q5: Can my employer see my personal information?</h2>
+                  <p>If you're enrolling through your employer, they may require that you
+complete an information release consent form.That form allows
+CSI to share information with your employer if they request it. If
+you are not enrolling through your employer, we will not share
+information with them.</p>
+                  <div align="right"><img src="images/arrow_totop.gif" alt="back to top" border="0"><a href="student/policies/privacy.xhtml#top"> 
+                      Back to top</a></div>
+                   
+                  <h2><a name="Q6">&nbsp;</a>Q6: How do you protect my personal information?</h2>
+                  <p>CSI takes a number of steps to protect your information.</p>
+                  <p><strong>ONLINE:</strong>                    CSI's website
+                    at www.csi.ca is a secure site – you will
+see a lock icon appear on your screen (usually in the lower right
+corner but the actual location may change depending on your
+operating system and browser).That symbol means that any
+information you enter (name, date of birth, payment information
+etc.) while on that page is protected using industry-standard Secure
+Sockets Layer (SSL) encryption technology.</p>
+                  <p><strong>HARD COPY:</strong> CSI gives equal priority
+                      to protecting your personal information in paper-based
+                    forms or reports.All
+  documents with any of your personal information on it are kept in
+  a locked cabinet or locked room at CSI with restricted access.</p>                  <div align="right"><img src="images/arrow_totop.gif" alt="back to top" border="0"><a href="student/policies/privacy.xhtml#top"> 
+                    Back to top</a></div>
+                  <h2><a name="Q7">&nbsp;</a>Q7: How long will CSI keep information about me?</h2>
+
+                  <p>CSI needs your personal information to provide certain services
+during your enrolment period. Once that time has ended, CSI will
+retain some information, such as your exam marks and acquired
+CSI designations, as well as your contact information, indefinitely.</p>
+                  <div align="right"><img src="images/arrow_totop.gif" alt="back to top" border="0"><a href="student/policies/privacy.xhtml#top"> 
+                    Back to top</a></div>
+                  <h2><a name="Q8">&nbsp;</a>Q8: What am I agreeing to when I consent to CSI's
+privacy policy?</h2>
+                  <p>CSI's privacy policy has been created to protect your personal
+information. By signing this policy (or clicking the ‘I'accept' button
+online) you are agreeing and consenting to share your personal
+information with CSI, for use and disclosure by CSI under the
+conditions set out in this policy.</p>
+                  <div align="right"><img src="images/arrow_totop.gif" alt="back to top" border="0"><a href="student/policies/privacy.xhtml#top"> 
+                    Back to top</a></div>
+                  <h2><a name="Q9">&nbsp;</a>Q9: Who should I contact with questions or concerns
+about the privacy policy?</h2>
+                  <p>If you have any questions or concerns about CSI's privacy
+                    policy, or if you have any other privacy-related issues,
+                    please let us know
+by contacting our Privacy Officer.This is the person at CSI who is
+responsible for making sure that your Personal Information is
+protected and for dealing with any privacy-related issues that may
+come up.</p>
+                  <p>You can contact the Privacy Officer at:</p>
+                  <p><strong>CSI</strong><br>
+                    121 King Street West, 15th Floor<br>
+                  Toronto, ON M5H 3T9</p>
+                  <p>Email: <a href="mailto:privacy_officer@csi.ca">privacy_officer@csi.ca</a></p>
+                  <p>Phone:
+                    416.364.9130<br>
+                    Toll-free: 1.866.866.2601<br>
+                  Fax: 416.359.0486<br>
+                    Toll-free: 1.866.866.2660</p>                  
+	<div align="right"><img src="images/arrow_totop.gif" alt="back to top" border="0"><a href="student/policies/privacy.xhtml#top"> 
+                    Back to top</a></div>
+                  <h2><a name="Q10">&nbsp;</a>Q10: Will you let me know if you change CSI's
+privacy policy?</h2>
+                  <p>Yes. If we change the policy in any way, we will let you know by
+posting a prominent notice at www.csi.ca, and we may also notify
+you by mail or email.Your continued use of the website and CSI's
+services will be interpreted as your acceptance of any changes.</p>
+                  <div align="right"><img src="images/arrow_totop.gif" alt="back to top" border="0"><a href="student/policies/privacy.xhtml#top"> 
+                    Back to top</a></div>
+                  <h2><a name="Q11">&nbsp;</a>Q11: How can I update my personal information?</h2>
+                
+                  <p>You can change your personal information online at www.csi.ca
+or by contacting customer support by:</p>
+                  <p>Email at <a href="mailto:customer_support@csi.ca">customer_support@csi.ca</a>.<br>
+                    Phone at <strong>416.364.9130</strong> or
+                  <strong>1.866.866.2601</strong> (toll-free).</p>
+                  <p>To correct or change your surname,
+                      you will need to call in to
+    Customer Support  instead of visiting our website.</p>                  
+	<div align="right"><img src="images/arrow_totop.gif" alt="back to top" border="0"><a href="student/policies/privacy.xhtml#top"> 
+                    Back to top</a></div>
+                  
+                  <p><strong>IMPORTANT:</strong> Please note that CSI has no
+                      responsibility for the privacy policies and practices on
+                      websites that may be linked
+                      to our website.You should refer to those organizations' own
+                      privacy policies to learn how they collect, use and disclose
+                  information about you.</p>
+</div>
+	<!-- end of TzMainContent02 -->
+		<div class="TzClear"></div>
+		
+
+	</div> <!-- End TzMainContent -->
+	
+	<!-- Begin Footer-->	
+
+<div id="TzFooter">
+	<div id="TzVerisign">
+<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.CSI.CA&amp;lang=en" target="_blank"><img src="images/verisign.gif" alt="VeriSign Secured. Click to verify." width="99" height="58" border="0"></a>
+	</div>
+	<div id="TzFooterBar">
+		<div id="TzFooterMotto">
+			<h6><i>Where leaders learn financial services.</i></h6>
+		</div>
+		<div id="TzFooterNavBar">
+			<a href="about/index.xhtml">About CSI</a> | <a href="about/contact/index.xhtml">Contact</a> | <a href="terms.xhtml">Legal/Terms of Use</a> | <a href="student/policies/privacy.xhtml">Privacy</a> | <a href="https://www.csi.ca/kn/index.php">FAQ</a>
+		</div>
+	<div style="padding:23px 0 0 0; color:#6F1200;width:98%;text-align:right;">
+	  CSI Global Education Inc. (2006)	</div>
+	</div>
+</div>
+
+
+	
+	 <!-- End TzFooter -->
+
+</div> 
+<!-- End TzContainer -->
+
+<!--  name="headerarea" -->
+<!-- This template is responsible for setting the active tab on the main menu -->
+<script language="JavaScript" type="text/javascript">
+	TzMainMenu.activeTab("student");
+</script>
+<script language="JavaScript" type="text/javascript">
+	
+		TzHeader.activeTab("TzHeaderTab02");
+	
+	
+	TzNewsBar.xmlfile("/inc/jscript/news.xml");
+	TzNewsBar.start();
+
+</script>
+
+
+
+</body></html>
