@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nevadaart.org privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615121758id_/http%3A//nevadaart.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nevadaart.org privacy policy that was archived on 2006-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061003111950id_/http%3A//www.nevadaart.org/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy of the NMA</title>
@@ -7,6 +7,112 @@
 <script> 
 mickey=0
 </script><script src="/global/navigation.js" type="text/javascript"></script>
+<script src="/global/AC_RunActiveContent.js" language="javascript"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+// -----------------------------------------------------------------------------
+// Globals
+// Major version of Flash required
+var requiredMajorVersion = 5;
+// Minor version of Flash required
+var requiredMinorVersion = 0;
+// Revision of Flash required
+var requiredRevision = 0;
+// -----------------------------------------------------------------------------
+// -->
+</script>
+<script language="VBScript" type="text/vbscript">
+<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
+Function VBGetSwfVer(i)
+  on error resume next
+  Dim swControl, swVersion
+  swVersion = 0
+  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
+  if (IsObject(swControl)) then
+    swVersion = swControl.GetVariable("$version")
+  end if
+  VBGetSwfVer = swVersion
+End Function
+// -->
+</script>
+<script language="JavaScript1.1" type="text/javascript">
+<!--
+// Detect Client Browser type
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+// JavaScript helper required to detect Flash Player PlugIn version information
+function JSGetSwfVer(i){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	var flashVer = -1;
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+      		var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			var descArray = flashDescription.split(" ");
+			var tempArrayMajor = descArray[2].split(".");
+			var versionMajor = tempArrayMajor[0];
+			var versionMinor = tempArrayMajor[1];
+			if ( descArray[3] != "" ) {
+				tempArrayMinor = descArray[3].split("r");
+			} else {
+				tempArrayMinor = descArray[4].split("r");
+			}
+      		var versionRevision = tempArrayMinor[1] > 0 ? tempArrayMinor[1] : 0;
+            var flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+      	}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	return flashVer;
+}
+// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
+{
+ 	reqVer = parseFloat(reqMajorVer + "." + reqRevision);
+   	// loop backwards through the versions until we find the newest version
+	for (i=25;i>0;i--) {
+		if (isIE && isWin && !isOpera) {
+			versionStr = VBGetSwfVer(i);
+		} else {
+			versionStr = JSGetSwfVer(i);
+		}
+		if (versionStr == -1 ) {
+			return false;
+		} else if (versionStr != 0) {
+			if(isIE && isWin && !isOpera) {
+				tempArray         = versionStr.split(" ");
+				tempString        = tempArray[1];
+				versionArray      = tempString .split(",");
+			} else {
+				versionArray      = versionStr.split(".");
+			}
+			var versionMajor      = versionArray[0];
+			var versionMinor      = versionArray[1];
+			var versionRevision   = versionArray[2];
+			var versionString     = versionMajor + "." + versionRevision;   // 7.0r24 == 7.24
+			var versionNum        = parseFloat(versionString);
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+			if (versionMajor > reqMajorVer) {
+				return true;
+			} else if (versionMajor == reqMajorVer) {
+				if (versionMinor > reqMinorVer)
+					return true;
+				else if (versionMinor == reqMinorVer) {
+					if (versionRevision >= reqRevision)
+						return true;
+				}
+			}
+			return false;
+		}
+	}
+}
+// -->
+</script>
 <link rel="stylesheet" href="/global/nma.css" type="text/css">
 </head>
 <body text="#000000" bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="background: url(/assets/global/interior_big_back.gif) repeat-x; background-color: #EDEEEC">
@@ -83,78 +189,104 @@ mickey=0
             </tbody></table></p></td>
         </tr>
       </tbody></table></td>
-    <td valign="top" align="right" style="background: url('/assets/global/belownav.gif') repeat-y left; background-color: #EDEEEC"><script src="/__utm.js"></script><table border="0" cellpadding="0" cellspacing="0" background="/assets/global/blank.gif">
-<tbody><tr>
-<td><img src="/assets/spacer.gif" width="1" height="50"></td>
-</tr>
-<tr>
-<td align="right"><script language="JavaScript">
 
-  var FlashMode = 0;
-<!-- attempt to detect at least Flash 5 -->
-    if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"] 
-    && navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin) 
-    {
-    if (navigator.plugins && navigator.plugins["Shockwave Flash"] 
-    && (versionIndex = navigator.plugins["Shockwave Flash"].description.indexOf(".")) 
-    != - 1) {
-    var versionString = navigator.plugins["Shockwave Flash"].description.substring(versionIndex-1, 
-    versionIndex);
-    versionIndex = parseInt( versionString );
-
-    if ( versionIndex >= 5 ) {
-
-    FlashMode = 1;
-    } } }
-
-
-    else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
-    && (navigator.userAgent.indexOf("Windows 95")>=0 || navigator.userAgent.indexOf("Windows 98")>=0 || navigator.userAgent.indexOf("Windows NT")>=0 
-    )) {
-    document.write('<SCRIPT LANGUAGE=VBScript\> \n');
-    document.write('on error resume next \n');
-    document.write('FlashMode = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');
-    document.write('</SCRIPT\> \n');
-    }
-    if ( FlashMode ) {
-		document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="265" HEIGHT="192" id="dynamic-menu2" ALIGN=""><PARAM NAME=movie VALUE="/nav.swf"><PARAM NAME=quality VALUE=high><PARAM NAME=bgcolor VALUE="#FFFFFF"><EMBED src="/nav.swf" quality=high bgcolor="#FFFFFF"  WIDTH="265" HEIGHT="192" NAME="dynamic-menu2" ALIGN="" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>')
-	}else{
-		document.write('<table width="265" height="192" cellpadding="0" cellspacing="0"><tr><td width="125"><img src="/assets/spacer.gif" width="95" height="1"></td><td valign=bottom width="140"><a href="/visit/visit.php"><b>visit</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/about/history.php"><b>about</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/events/calendar.php"><b>what\'s happening</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/exhibitions/current.php"><b>exhibitions</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/tours/tours.php"><b>tours</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/support/individual.php"><b>membership/support</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/school/school.php"><b>museum school</b></a><br><img src="/assets/spacer.gif" width="1" height="6"></td></tr></table>')
-	}
-</script><table width="265" height="192" cellpadding="0" cellspacing="0"><tbody><tr><td width="125"><img src="/assets/spacer.gif" width="95" height="1"></td><td valign="bottom" width="140"><a href="/visit/visit.php"><b>visit</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/about/history.php"><b>about</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/events/calendar.php"><b>what's happening</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/exhibitions/current.php"><b>exhibitions</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/tours/tours.php"><b>tours</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/support/individual.php"><b>membership/support</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/school/school.php"><b>museum school</b></a><br><img src="/assets/spacer.gif" width="1" height="6"></td></tr></tbody></table>
+<td valign="top" align="right" style="background: url('/assets/global/belownav.gif') repeat-y left; background-color: #EDEEEC"><script src="/__utm.js"></script>
+  <table border="0" cellpadding="0" cellspacing="0" background="/assets/global/blank.gif">
+    <tbody><tr>
+      <td>        <img src="/assets/spacer.gif" width="1" height="50">
+        </td>
+    </tr>
+    <tr>
+      <td align="right">
+			
+<script language="JavaScript" type="text/javascript">
+					<!--
+					var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+					if(hasRightVersion) {  // if we've detected an acceptable version
+						if (AC_FL_RunContent == 0) {
+							alert("This page requires AC_RunActiveContent.js. In Flash, run \"Apply Active Content Update\" in the Commands menu to copy AC_RunActiveContent.js to the HTML output folder.");
+						} else {
+							// embed the flash movie
+							AC_FL_RunContent(							
+								'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0',
+								'width', '265',
+								'height', '192',
+								'src', '/nav',
+								'quality', 'high',
+								'bgcolor', '#FFFFFF',
+								'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+								'align', 'middle',
+								'play', 'true',
+								'loop', 'true',
+								'scale', 'exactfit',
+								'wmode', 'window',
+								'devicefont', 'false',
+								'id', 'dynamic-menu2',
+								'name', 'dynamic-menu2',
+								'menu', 'true',
+								'allowScriptAccess','sameDomain',
+								'movie', '/nav',
+								'salign', ''
+								); //end AC code
+						}
+					} else {  // flash is too old or we can't detect the plugin
+						document.write('<table width="265" height="192" cellpadding="0" cellspacing="0"><tr><td width="125"><img src="/assets/spacer.gif" width="95" height="1"></td><td valign=bottom width="140"><a href="http://www.nevadaart.org/visit/visit.php"><b>visit</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/about/history.php"><b>about</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/events/calendar.php"><b>what\'s happening</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/exhibitions/current.php"><b>exhibitions</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/tours/tours.php"><b>tours</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/support/individual.php"><b>membership/support</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/school/school.php"><b>museum school</b></a><br><img src="/assets/spacer.gif" width="1" height="6"></td></tr></table>');
+					}
+					// -->
+					</script><table width="265" height="192" cellpadding="0" cellspacing="0"><tbody><tr><td width="125"><img src="/assets/spacer.gif" width="95" height="1"></td><td valign="bottom" width="140"><a href="http://www.nevadaart.org/visit/visit.php"><b>visit</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/about/history.php"><b>about</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/events/calendar.php"><b>what's happening</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/exhibitions/current.php"><b>exhibitions</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/tours/tours.php"><b>tours</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/support/individual.php"><b>membership/support</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="http://www.nevadaart.org/school/school.php"><b>museum school</b></a><br><img src="/assets/spacer.gif" width="1" height="6"></td></tr></tbody></table>
             <noscript>
-            <table width="265" height="192" cellpadding="0" cellspacing="0"><tr><td width="125"><img src="/assets/spacer.gif" width="95" height="1"></td><td valign=bottom width="140"><a href="/visit/visit.php"><b>visit</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/about/history.php"><b>about</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/events/calendar.php"><b>what\'s happening</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/exhibitions/current.php"><b>exhibitions</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/tours/tours.php"><b>tours</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/support/individual.php"><b>membership/support</b></a><br><img src="/assets/spacer.gif" width="1" height="3"><br><a href="/school/school.php"><b>museum school</b></a><br><img src="/assets/spacer.gif" width="1" height="6"></td></tr></table>
+            <TABLE width="265" height="192" cellpadding="0" cellspacing="0">
+              <TR>
+                <TD width="125"><IMG src="/assets/spacer.gif" width="95" height="1"></TD>
+                <TD valign=bottom width="140"><A href="http://www.nevadaart.org/visit/visit.php"><B>visit</B></A><BR>
+                  <IMG src="/assets/spacer.gif" width="1" height="3"><BR>
+                  <A href="http://www.nevadaart.org/about/history.php"><B>about</B></A><BR>
+                  <IMG src="/assets/spacer.gif" width="1" height="3"><BR>
+                  <A href="http://www.nevadaart.org/events/calendar.php"><B>what\'s happening</B></A><BR>
+                  <IMG src="/assets/spacer.gif" width="1" height="3"><BR>
+                  <A href="http://www.nevadaart.org/exhibitions/current.php"><B>exhibitions</B></A><BR>
+                  <IMG src="/assets/spacer.gif" width="1" height="3"><BR>
+                  <A href="http://www.nevadaart.org/tours/tours.php"><B>tours</B></A><BR>
+                  <IMG src="/assets/spacer.gif" width="1" height="3"><BR>
+                  <A href="http://www.nevadaart.org/support/individual.php"><B>membership/support</B></A><BR>
+                  <IMG src="/assets/spacer.gif" width="1" height="3"><BR>
+                  <A href="http://www.nevadaart.org/school/school.php"><B>museum school</B></A><BR>
+                  <IMG src="/assets/spacer.gif" width="1" height="6"></TD>
+              </TR>
+            </TABLE>
             </noscript></td>
-
+    </tr>
+    <tr>
+      <td align="right"><a href="http://www.nevadaart.org/index.php"><img src="/assets/global/title_bar0.gif" alt="nevada museum of art" name="title_bar" width="174" height="47" border="0"></a></td>
+    </tr>
+  </tbody></table>
+  <table cellpadding="0" width="174" cellspacing="0" border="0">
+    <tbody><tr>
+      <td></td>
+      <td>&nbsp;<br>
+                <p> </p></td>
+    </tr>
+  </tbody></table></td>
 </tr>
 <tr>
-<td align="right"><a href="http://www.nevadaart.org/index.php"><img src="/assets/global/title_bar0.gif" alt="nevada museum of art" name="title_bar" width="174" height="47" border="0"></a></td>
-</tr></tbody></table>
-<table cellpadding="0" width="174" cellspacing="0" border="0">
-<tbody><tr><td></td>
-<td>&nbsp;<br>
-<p>&nbsp;
-</p></td>
-</tr></tbody></table></td></tr>
-  <tr> 
-    <td bgcolor="#EDEEEC" colspan="4" align="right" class="navigation"><img src="/assets/spacer.gif" width="590" height="60">
- <!--     <br> 
+  <td bgcolor="#EDEEEC" colspan="4" align="right" class="navigation"><img src="/assets/spacer.gif" width="590" height="60">
+    <!--     <br> 
 <p><span class="navigation">775.329.3333&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 
     </span><span class="navigation"> 160 west liberty street, reno nv 89501&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
     copyright © 2005 nevada museum of art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
     all uncited photographs courtesy of Dean Burton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>-->
-<!--<p><a href="/visit.php" class="navigation">visit the NMA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/visit.php" class="navigation">about the NMA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/support.php" class="navigation">membership/support</a> 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/events.php" class="navigation">what's 
-    happening</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/school.php" class="navigation">museum 
+    <!--<p><a href="http://www.nevadaart.org/visit.php" class="navigation">visit the NMA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/visit.php" class="navigation">about the NMA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/support.php" class="navigation">membership/support</a> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/events.php" class="navigation">what's 
+    happening</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/school.php" class="navigation">museum 
     school</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-    <a href="/newsletter.php" class="navigation">newsletter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/search/search.php" class="navigation">search</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="pop_pressroom()" class="navigation">press</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/contact.php" class="navigation">contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--><a href="http://www.nevadaart.org/siteinfo.php" class="navigation">site&nbsp;info</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/privacy.php" class="navigation">privacy&nbsp;policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.nevadaart.org/index.php" class="navigation">home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>   <img src="/assets/spacer.gif" width="1" height="7"><br>
-		  <!--775.329.3333<br>-->
-					160 West Liberty Street, Reno NV 89501&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-					copyright © 2005 nevada museum of art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					<p>&nbsp;</p></td>
-  </tr>
+    <a href="http://www.nevadaart.org/newsletter.php" class="navigation">newsletter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/search/search.php" class="navigation">search</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="pop_pressroom()" class="navigation">press</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/contact.php" class="navigation">contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+    <a href="http://www.nevadaart.org/siteinfo.php" class="navigation">site&nbsp;info</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.nevadaart.org/privacy.php" class="navigation">privacy&nbsp;policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.nevadaart.org/index.php" class="navigation">home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+    <img src="/assets/spacer.gif" width="1" height="7"><br>
+    <!--775.329.3333<br>-->
+    160 West Liberty Street, Reno NV 89501&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+    copyright © 2006 nevada museum of art&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <p></p></td>
+</tr>
 </tbody></table>
-
 </body></html>
