@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sa.gov.au privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623055528id_/http%3A//www.sa.gov.au/site/page.cfm%3Fu%3D25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sa.gov.au privacy policy that was archived on 2006-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061003125136id_/http%3A//www.sa.gov.au/site/page.cfm%3Fu%3D25) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -23,4 +23,4 @@ This Site collects and uses the following information from users:
 
 
 
-[](https://web.archive.org/web/20060623055528id_/http%3A//www.sa.gov.au/site/page.cfm?u=25&print=1)
+[](https://web.archive.org/web/20061003125136id_/http%3A//www.sa.gov.au/site/page.cfm?u=25&print=1)
