@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the mobilefun.co.uk privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210024032id_/http%3A//www.mobilefun.co.uk/mobilefun/security-and-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilefun.co.uk privacy policy that was archived on 2006-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061003093249id_/http%3A//www.mobilefun.co.uk/mobilefun/security-and-privacy.htm) for the most accurate reproduction.*
 
 # Security & Privacy - Mobile Fun
 
-**Security**  
-We are confident that our order system is 100% secure. We use Thawte 128bit Stronghold SSL on our online order form \- the universally recognized security system for transmitting encrypted information over the Internet. Order details are encrypted with 1024-bit PGP and transmitted to the Mobile Fun sales team.
-
-Please note that Internet host IP addresses are recorded for security reasons when placing an order online. This identifies your computer and Internet connection.
-
-**Privacy Statement**  
 Mobile Fun Limited will not knowingly pass on any details we hold on customers or web site visitors to any third parties. We protect the privacy of this personal information using our highly secure, password-protected servers.
 
 We will take all reasonable care to ensure that any details that you submit to us are kept secure. The details that you submit to us will be kept to process orders only. You have the right to withhold personal information that is not needed for the transaction.
@@ -24,4 +18,4 @@ We will give you the right to refuse any marketing e-mail from us in the future.
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a 'cookie', which would be stored on your browser. You can usually modify your browser to prevent this happening.
 
-The information collected in this way can be used to identify you unless you modify your browser settings. If you have any questions about our privacy policy you can contact the customer services manager at [privacy@mobilefun.co.uk](mailto:privacy@mobilefun.co.uk)
+The information collected in this way can be used to identify you unless you modify your browser settings. If you have any questions about our privacy policy you can contact the customer services manager at [privacy@mobilefun.co.uk](mailto:privacy@mobilefun.co.uk). 
