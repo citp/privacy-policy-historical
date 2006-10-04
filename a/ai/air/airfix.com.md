@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfix.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212032id_/http%3A//airfix.com/cs/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfix.com privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004204700id_/http%3A//airfix.com/cs/privacy.aspx) for the most accurate reproduction.*
 
 # Airfix
 
