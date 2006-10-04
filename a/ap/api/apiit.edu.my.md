@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apiit.edu.my privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615234816id_/http%3A//www.apiit.edu.my/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apiit.edu.my privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004142506id_/http%3A//www.apiit.edu.my/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Asia Pacific Institute of Information Technology (APIIT)
 
@@ -30,7 +30,7 @@ Keeping information about you secure is very important to us and certain section
 
 6\. Automated decisions
 
-Parts of [www.apiit.edu.my](https://web.archive.org/web/20060615234816id_/http%3A//www.apiit.edu.my/index.htm) and our billing process are automatic and we may process your personal data as part of [www.apiit.edu.my](https://web.archive.org/web/20060615234816id_/http%3A//www.apiit.edu.my/index.htm) and the billing process.
+Parts of [www.apiit.edu.my](https://web.archive.org/web/20061004142506id_/http%3A//www.apiit.edu.my/index.htm) and our billing process are automatic and we may process your personal data as part of [www.apiit.edu.my](https://web.archive.org/web/20061004142506id_/http%3A//www.apiit.edu.my/index.htm) and the billing process.
 
 7\. Accessing and updating your personal information
 
