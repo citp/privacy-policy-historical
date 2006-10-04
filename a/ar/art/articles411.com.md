@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articles411.com privacy policy that was archived on 2006-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060215022413id_/http%3A//articles411.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articles411.com privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004145733id_/http%3A//articles411.com/privacy.php) for the most accurate reproduction.*
 
 # www.articles411.com
 
@@ -38,12 +38,6 @@ This statement and the policies outlined herein are not intended to and do not c
 
 | 
 
-**Bind Books Yourself At Home!**
-
- **[ ](http://www.easybookbinding.com/site/57.html "Bind Your Books At Home, Easily")**
-
-**
-
 **Create Your Own Software Product**
 
  **[ ](http://instantsoftwarebuilder.com/specialoffer/?pack_id=7543&aff_id=7282)**
@@ -54,4 +48,4 @@ This statement and the policies outlined herein are not intended to and do not c
 
  **[ ](http://www.articles411.com/original/original-software.html "Lauries Legends Software, Easily")**
 
-********
+******
