@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eliteweb.cc privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618052942id_/http%3A//about.eliteweb.cc/Policies/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eliteweb.cc privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004100228id_/http%3A//about.eliteweb.cc/Policies/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Elite Privacy Policy EliteWeb.cc
 
@@ -99,7 +99,7 @@
 
 Effective Date: May 25, 2005  
   
-[ Print Information](https://web.archive.org/web/20060618052942id_/http%3A//about.eliteweb.cc/Policies/print/PrivacyPolicy.html)  
-**[Return To Policy Center](https://web.archive.org/web/20060618052942id_/http%3A//about.eliteweb.cc/Policies/index.html) | [Access Information & Media Center ](https://web.archive.org/web/20060618052942id_/http%3A//about.eliteweb.cc/index.htm)**  
+[ Print Information](https://web.archive.org/web/20061004100228id_/http%3A//about.eliteweb.cc/Policies/print/PrivacyPolicy.html)  
+**[Return To Policy Center](http://about.eliteweb.cc/Policies/) | [Access Information & Media Center ](http://about.eliteweb.cc/)**  
   
 
