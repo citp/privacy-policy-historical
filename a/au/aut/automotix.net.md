@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotix.net privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618230243id_/http%3A//www.automotix.net/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotix.net privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004200628id_/http%3A//www.automotix.net/policy.html) for the most accurate reproduction.*
 
 # Automotix: Automotive Instant Exchange - License Agreement: Terms and Conditions
 
