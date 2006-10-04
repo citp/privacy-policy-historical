@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccfa.org privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617030032id_/http%3A//ccfa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccfa.org privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004233821id_/http%3A//www.ccfa.org/privacy) for the most accurate reproduction.*
 
 # CCFA.org: Privacy
 
@@ -32,18 +32,6 @@ We encourage you to note the following safeguards as to the information, service
 
 [](https://web.archive.org/chapters/walks)
 
-|   
----  
-|  |   
-  
-[](https://web.archive.org/about/membermonth)
-
   
   
-  
-[](http://www.salix.com/)  
-  
-[](https://web.archive.org/pharmasponsors)  
-  
-  
-[](https://web.archive.org/physician/)
+[](https://web.archive.org/physician/) | 
