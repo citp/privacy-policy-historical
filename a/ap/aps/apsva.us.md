@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apsva.us privacy policy that was archived on 2006-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060214012400id_/http%3A//www.arlington.k12.va.us/schoolboard/sbp/Administrative/30-2.3-internetprivacy-PIP.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apsva.us privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004161423id_/http%3A//www.arlington.k12.va.us/schoolboard/sbp/Administrative/30-2.3-internetprivacy-PIP.pdf) for the most accurate reproduction.*
 
 # ARLINGTON PUBLIC SCHOOLSPolicy Implementation Procedures30-2.3 Internet PrivacyJune 2002Page 1 of 1
 
