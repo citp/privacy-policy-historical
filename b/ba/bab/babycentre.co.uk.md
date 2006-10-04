@@ -1,56 +1,91 @@
-> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414231641id_/http%3A//www.babycentre.co.uk/general/7814.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004091345id_/http%3A//www.babycentre.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Babycentre Privacy Policy**
+|  | 
 
-**BabyCentre respects your privacy**
+## Welcome
 
-BabyCentre respects your privacy. Any personal information you give us is held with the utmost care and security, according to the guidelines set forth in the UK Data Protection Acts of 1998, and will not be used in ways to which you have not consented. We will not sell or disclose any information that identifies you to a third party without your approval. Information is stored at our US data processing centre. Please continue to read our privacy policy for more details.
+Welcome to BabyCentre.co.uk, a web site owned by BabyCenter, L.L.C. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. 
 
-**Your personal information**
+## Your Consent
 
-BabyCentre will not collect any personal information about you except when you specifically and knowingly provide such information. For example, if you would like to register on our site to take advantage of certain features, like a customised personal page, then we ask for your e-mail address.
+By using this site, you agree to the terms of this Privacy Policy and the BabyCenter [Terms of Use](https://web.archive.org/about/use). Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
 
-If you register, you can also sign up to receive other offers and information from BabyCentre and other qualified companies. These qualified suppliers are prescreened organisations or companies whose products or services we believe are of interest to parents and parents-to-be. If you sign up to receive the offers but later decide you don't want them, then follow this [link](https://web.archive.org/register/unsubscribe) to unsubscribe to any mailings. Obviously we will not give your email address to these companies unless we obtain your consent.
+## About Children
 
-Our site has public areas such as message boards. Please remember that any information you share in these areas becomes public, so you should exercise caution when deciding to disclose your personal information. If you post comments about BabyCentre products or services on our site, there's a chance we may publish them for editorial purposes or in promotional advertising and/or marketing materials (especially if you say nice things about us). However, anything we do use will not identify you as an individual.
+This site is not intended for children under the age of 13. We will not knowingly collect personally identifiable information via this site from visitors in this age group. We do, however, collect information about children and babies from their parents. We ask that our users not provide information about a baby or child without first getting the parents' consent. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites.
 
-**E-mail services** Sign up [here ](https://web.archive.org/register) for free e-mail newsletters at BabyCentre including:
+## Information You Provide
 
-* BabyCentre Newsletter - our general newsletter with updates, news and polls  
-* My Baby this Week - a personalised newsletter, written for your stage of pregnancy or your baby's age.
+This site actively collects information from its visitors both by asking you specific questions and by permitting you to communicate directly with us via e-mail, feedback forms, and/or chat rooms. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, e-mail address, phone number, and so on).
 
-To unsubscribe to any of our e-mail newsletters, follow the instructions at the end of the newsletter(s) or click [ here.](https://web.archive.org/register/unsubscribe)
+Some areas of this site may ask you to submit personally identifiable information in order for you to benefit from the specified features (such as newsletter subscriptions, tips/pointers, order processing, or resume submission) or to participate in a particular activity (such as sweepstakes or other promotions). You will be informed what information is required and what information is optional.
 
-**E-mail this to a friend service**
+## Passive Information Collection
 
-You can choose to electronically forward a story from our site to a friend by entering their e-mail address. We do not use the e-mail address for any purpose other than to send your e-mail. We do not rent or sell these e-mail addresses.
+As you navigate through this site, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). Your Internet browser automatically transmits to this site some of this anonymous information, such as the URL of the Web site you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. This site may also collect anonymous information from your computer through cookies and Internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this site might not work without cookies. 
 
-**Cookies**
+This site may use and combine such passively collected anonymous information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends, and otherwise administer and improve the site for your use. We may at times combine personally identifiable information with passively collected information in order to personalise offers and the site for our users (for example, combined information may allow us to recommend products or features to you based on what you have liked in the past). For more information about cookies and other passive tracking methods discussed above, please click [here](https://web.archive.org/about/privacy/privacy-passive-info/).
 
-BabyCentre uses a feature of your Internet Web browser called a "cookie" to assign a unique identification to your computer. Cookies are files that your Web browser places on your computer's hard drive. BabyCentre creates and then uses these cookie files to track your clicks as you go through the BabyCentre Web site. BabyCentre only uses cookies to tell us whether you have visited BabyCentre previously, and to help us determine whether you came to BabyCentre from a particular Internet link or banner advertisement. Cookies can also be used to help to save and retrieve passwords used on the BabyCentre site and information on past purchases and other preferences, saving you from having to re-enter this information upon every visit to the BabyCentre Web site. BabyCentre does not and cannot use cookies to retrieve personal information about you from your computer unless you knowingly and willingly provided such information.
+## Use and Disclosure of Information
 
-**Online surveys and contests**
+Except as otherwise stated, we may use information collected via this site to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for any other purpose specified. In addition, we may make full use of all information acquired through this site that is not in personally identifiable form.
 
-Sometimes we conduct user surveys to improve our site for you. We may share aggregate, or summary, anonymous information about our users with partners or other third parties. For example, we might disclose that a certain percentage of our users are female. But we will not sell or share any information at the individual user level. Sometimes we offer contests and sweepstakes in which we request certain personal information. For example, we might require your name and e-mail address. Because the rules and terms of each promotion can vary, all information about the contest is posted during the event.
+If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection. We also may disclose personally identifiable information you provide via this site to third parties, but only:
 
-**Online birth announcements**
+(i) to carefully selected partners who have offers that may be of interest to you, provided you have requested such offers, in which case we will require such partners to agree to treat it in accordance with this Privacy Policy and use it for the same purposes.
 
-If you create a BabyCentre online birth announcement, we will send you a URL specific to you alone. Your birth announcement is not searchable on our site. However, some people might be able to guess your URL and see your announcement. So if you are concerned about some people seeing certain information in your announcement, don't add it to your page.
+(ii) to contractors we use to support our business (such as technical support and delivery services), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy and use it for the same purposes. 
 
-**Sponsored promotional pages**
+One such contractor is DoubleClick, Inc., who manages many of the advertisements you see on the Web site. For more information on DoubleClick, including your choices on how DoubleClick uses certain non-personal information, click [here](http://www.doubleclick.com/us/about_doubleclick/privacy/).
 
-Babycentre sometimes hosts sponsored promotional pages for advertisers who offer product and promotional information that might be of interest to you, including contests, free samples, discounts, etc. These pages are clearly identified. Sometimes the advertiser or BabyCentre will request personal information to enter the promotion. Because the rules and terms of each promotion can vary, all information is posted during the event. And, the personal information that is obtained is only used in relation to the promotion.
+BabyCenter also contracts with an analytics company, to measure: how visitors use our site, which offers visitors find of interest, and other visitor activities. To do this, BabyCenter uses cookies and "Internet tags" (beacons) provided by a analytics company. The types of information we collect include: pages you have visited and paths taken through the site. By supplementing our records with such information, we learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. While the analytics company logs information coming from our site, BabyCenter retains full ownership of data stored by the analytics company, and controls how that data may and may not be used. If you do not want to have your information collected by the analytics company as described herein, you can "opt-out" of the analytical tool by clicking [here](http://www.omniture.com/privacy/optout.html). 
 
-**Reviewing and changing your personal profile**
+(iii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; or 
 
-Once you register, you will be able to review and change your personal profile at any time. 
+(iv) to respond to law enforcement requests or where required by applicable laws, court orders, or government regulations. 
 
-**Your consent**
+The collection, use, and disclosure of information contemplated in this Privacy Policy involves a transfer of the information to the United States and possibly other jurisdictions that may not have equivalent laws and rules regarding personally identifiable information as your country of residency. 
 
-By using our Web site, you consent to our Terms of Use policy. To review that now, click [here.](https://web.archive.org/disclaimer)
+## Public Areas
 
-**Your questions and comments**
+Our site also has public areas such as chat rooms and message boards. Please remember that any information you share in these areas becomes public, so you should be careful about what you disclose. If you post comments about BabyCenter services on our site, there's a chance we'll publish them for editorial purposes or in promotional advertising and/or marketing materials.
 
-Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is comments@babycentre.co.uk. See [About BabyCentre](https://web.archive.org/about) to find out more about our company and our policies.                                                                                                        
+## Access, Correction, and Deletion
+
+To keep personally identifiable information that you provide via this site accurate, current, and complete, please contact us as specified below and we will take appropriate steps to update or correct such information in our possession, or to delete your information from our contact list. If we no longer need personally identifiable information for any of the purposes referred to in this policy, we will take reasonable steps to either destroy or de-identify your information.
+
+## Security
+
+This site takes reasonable steps to protect personally identifiable information as you transmit it to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever completely secure or error-free. In particular, e-mail sent to or from this site may not be secure. 
+
+## Links to Other Web Sites
+
+This site may contain links or references to other Web sites to which this Privacy Policy does not apply. We encourage you to read the Privacy Policy of every Web site you visit.
+
+## How to Contact Us
+
+To keep your personally identifiable information accurate, current, and complete, please visit our member center at [http://www.babycentre.co.uk/member/](https://web.archive.org/member/), or contact us as follows:
+
+BabyCenter, L.L.C.  
+Attention: Customer Service  
+163 Freelon St.  
+San Francisco, CA 94107  
+U.S.A.  
+[http://www.babycentre.co.uk/about/contact/](https://web.archive.org/about/contact/)
+
+If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, please contact us as follows:
+
+BabyCenter, L.L.C.  
+Attention: Chief Privacy Officer  
+163 Freelon St.  
+San Francisco, CA 94107  
+U.S.A.  
+[http://www.babycentre.co.uk/about/contact/](https://web.archive.org/about/contact/)
+
+## Changes to This Privacy Policy
+
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy (v 2.0) was last updated on April 19, 2006.
+
+| 
