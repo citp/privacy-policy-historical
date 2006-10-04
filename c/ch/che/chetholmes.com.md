@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chetholmes.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chetholmes.com privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/privacy.htm) for the most accurate reproduction.*
 
 # Chet Holmes, Super Strategist of the Fortune 500 Biography
 
@@ -7,24 +7,24 @@
   
 ****
 
-**[See Chet present live](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/video.htm)**  
+**[See Chet present live](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/video.htm)**  
   
 [](http://www.howtodoublesales.com/)  
-**[](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/newsletter.htm)**  
-[](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/articles.htm)  
-[](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/researchservices.html)  
-[](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/affinity.htm)  
-[](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/chetbio.htm)  
-[](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/sales_manager.htm)  
-[](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/strategic_services.htm)  
-[](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/free_report.htm)  
-**[](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/ultimate_business.htm)**  
-[](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/conference.htm)  
+**[](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/newsletter.htm)**  
+[](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/articles.htm)  
+[](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/researchservices.html)  
+[](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/affinity.htm)  
+[](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/chetbio.htm)  
+[](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/sales_manager.htm)  
+[](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/strategic_services.htm)  
+[](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/free_report.htm)  
+**[](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/ultimate_business.htm)**  
+[](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/conference.htm)  
   
 [Contact Us](mailto:contact-0_7@chetholmes.com)  
   
 [  
-](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/index2.htm)[](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/GMK_program.htm)[ ](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/index2.htm)
+](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/index2.htm)[](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/GMK_program.htm)[ ](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/index2.htm)
 
 [](http://www.businessgrowthmasters.net/)**[  
 Click Here](http://168.144.157.123/)**  
@@ -88,8 +88,8 @@ Privacy Policy
 > 
 > Any questions that you may have regarding this Privacy Policy should be directed to [Admin@chetholmes.com](mailto:admin@chetholmes.com)
 
-[Free Newsletter](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/newsletter.htm) | [Articles](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/articles.htm) | [Research](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/researchservices.html) | [Bio](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/chetbio.htm) | [Ultimate Sales Manager](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/sales_manager.htm) | [Strategic Services](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/strategic_services.htm)  
-[Free Download](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/free_report.htm) | [Free Tutorial](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/ultimate_business.htm) | [Conference Call](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/conference.htm)  | [Home](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/index2.htm)
+[Free Newsletter](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/newsletter.htm) | [Articles](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/articles.htm) | [Research](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/researchservices.html) | [Bio](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/chetbio.htm) | [Ultimate Sales Manager](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/sales_manager.htm) | [Strategic Services](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/strategic_services.htm)  
+[Free Download](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/free_report.htm) | [Free Tutorial](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/ultimate_business.htm) | [Conference Call](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/conference.htm)  | [Home](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/index2.htm)
 
 ©2002 Jordan Productions. All Rights Reserved No part of this site may be reproduced in any form   
 without the specific written permission of Jordan Productions. Web site designed by [Peirson To Peirson](http://www.peirsontopeirson.com/)
@@ -144,9 +144,9 @@ can learn how research changes everything.  Would you like to achieve these ten
 
   10) Attract your buyers        over all of your       competitors whenever       they see an ad, a       brochure, a sales letter,        etc…
 
-      [Click here to read](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/researchservices.html)  
-      [about Research](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/researchservices.html)  
-      [services…](https://web.archive.org/web/20060502042226id_/http%3A//chetholmes.com/researchservices.html)  
+      [Click here to read](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/researchservices.html)  
+      [about Research](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/researchservices.html)  
+      [services…](https://web.archive.org/web/20061005012939id_/http%3A//chetholmes.com/researchservices.html)  
   
 Recommend this  
 site to a Friend
