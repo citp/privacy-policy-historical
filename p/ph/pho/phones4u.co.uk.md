@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the phones4u.co.uk privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207094701id_/http%3A//www.phones4u.co.uk/Help/help_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phones4u.co.uk privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005131626id_/http%3A//www.phones4u.co.uk/Help/help_privacy.asp) for the most accurate reproduction.*
 
 # Phones 4u - Privacy Policy
 
-**You are in** : [Home](https://web.archive.org/web/20050207094701id_/http%3A//www.phones4u.co.uk/index.asp) » [Help](https://web.archive.org/web/20050207094701id_/http%3A//www.phones4u.co.uk/Help/help_home.asp) » Privacy Policy 
+**You are in** : [Home](https://web.archive.org/index.asp) » [Help](https://web.archive.org/help/help_home.asp) » Privacy Policy 
 
 We will treat all your personal information: 
 
@@ -32,11 +32,11 @@ If you have not objected during the registration process, but do not want us to:
 
 Web Customer Services Team   
 Phones 4u House   
-Brymbo Road   
+Ore Close   
 Lymedale Business Park   
 Newcastle-under-Lyme   
 Staffordshire   
-ST5 9HX  
+ST5 9QD  
 and notify us accordingly.
 
 Subject to your rights of objection, you agree that personal information may be disclosed to other businesses within our group of companies and to reputable third parties who will help process your order. In addition, you do not object to us, our group companies or third parties contacting you for the purposes set out above, whether this be by fax, telephone, e-mail, SMS or in writing and you do not consider any of the above as being a breach of any of your rights under the Telecommunications (Data Protection and Privacy) Regulations 1999. 
