@@ -1,31 +1,15 @@
-> *The following text is extracted and transformed from the californiagasprices.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiagasprices.com privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/privacy.aspx) for the most accurate reproduction.*
 
 # Your privacy matters - California Gas Prices
 
-| 
-
-**Not logged in**  [[Log In]](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/Mem_log_in.aspx)  [[Register]](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/Member_reg.aspx)   [[Points Leaders]](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/member_pts_leader.aspx) [[My Points Statistics]](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/member_points.aspx)
-
-| Thursday, June 15, 2006 2:11:32 PM  
----|---  
-| Featured Sponsor  
----  
-[  
-purchases get a 5% rebate with the Discover Card*  
-Click here to find out more](http://www.ncsreporting.com/LinkTrack/Redirect.asp?LinkID=DCA10667)  
+|  |  [](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/index.aspx) |  |   
 ---  
   
-  
-  
-|  |  [](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/index.aspx) |  |   
----  
-  
-**Participate in our[Member polls](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/member_poll.aspx)**
-
-  
-**Add gas prices to your web site.[Click here to find out how!](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/link_page.aspx)**  
-| [](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/index.aspx)| [](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/Forum_Category.aspx)| [](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/Logbook_Expense_Records.aspx)| [](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/retail_price_chart.aspx)| [](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/in_the_news.aspx)| [](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/announce.aspx)| [](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/tips.aspx)| [](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/related_links.aspx)| [](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/contact.aspx)| More  
----|---|---|---|---|---|---|---|---|---  
+**Add gas prices to your web site.[Click here to find out how!](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/link_page.aspx)**  
+| [](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/index.aspx)| [](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/Forum_Category.aspx)| [](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/retail_price_chart.aspx)| [](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/price_by_county.aspx)| [](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/Logbook_Expense_Records.aspx)| [](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/tips.aspx)| [](http://www.californiasuperads.com/)| More  
+---|---|---|---|---|---|---|---  
+[](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/stationmasterlist_nv.aspx)| [](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/aboutus.aspx)| [](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/contact.aspx)| [](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/link_page.aspx)| [](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/in_the_news.aspx)| [](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/announce.aspx)| [](https://web.archive.org/web/20061005080003id_/http%3A//californiagasprices.com/related_links.aspx)  
+---|---|---|---|---|---|---  
 | Privacy Policy  
 ---  
 **GasBuddy Organization Inc. has created this privacy statement in order to demonstrate our firm and lasting commitment to privacy.** The following discloses the information gathering and dissemination practices for the web site: CaliforniaGasPrices.com. 
@@ -62,8 +46,4 @@ The Members Area offers many personalized features accessible using a member id 
 Privacy Policy - Message Forums  
 The message forums provide a location for gasoline related discussion. Please remember that any information disclosed in these areas becomes public. You should exercise caution when deciding what personal information to disclose.   
 Privacy Policy - Questions  
-To contact GasBuddy Organization Inc. regarding its privacy policy send email to [privacy@gasbuddy.com](mailto:privacy@gasbuddy.com)  
-  
-| "Consumers working together to save on gas"  
----  
-[About Us](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/aboutus.aspx) | [Privacy Policy](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/privacy.aspx) | [Disclaimer](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/disclaimer.aspx) | [Advertise With Us](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/advertising.aspx) | [Advertiser Log In](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/customer_log_in.aspx) | [Contact Us](https://web.archive.org/web/20060615211134id_/http%3A//www.californiagasprices.com/contact.aspx)   ©GasBuddy Organization Inc.
+To contact GasBuddy Organization Inc. regarding its privacy policy send email to [privacy@gasbuddy.com](mailto:privacy@gasbuddy.com)
