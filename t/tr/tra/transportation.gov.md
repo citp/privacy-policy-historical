@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the transportation.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223358id_/http%3A//www.dot.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transportation.gov privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005041715id_/http%3A//www.dot.gov/privacy.html) for the most accurate reproduction.*
 
 # U.S. Department of Transportation / Privacy Policy
 
-Content updated on March 23, 2006
+Content updated on August 8, 2006
 
 ## Our Commitment
 
@@ -41,7 +41,7 @@ We collect information to:
 
 ##  Sharing Your Information
 
-We may share personally identifiable information you provide to us online with representatives within the Department of Transportation’s [Operating Administrations](https://web.archive.org/web/20060615223358id_/http%3A//www.dot.gov/DOTagencies.htm) and related entities, other federal government agencies, or other named representatives as needed to speed your request or transaction. In a government-wide effort to combat security and virus threats, we may share some information we collect automatically, such as IP address, with other federal government agencies. 
+We may share personally identifiable information you provide to us online with representatives within the Department of Transportation’s [Operating Administrations](https://web.archive.org/web/20061005041715id_/http%3A//www.dot.gov/DOTagencies.htm) and related entities, other federal government agencies, or other named representatives as needed to speed your request or transaction. In a government-wide effort to combat security and virus threats, we may share some information we collect automatically, such as IP address, with other federal government agencies. 
 
 Also, the law may require us to share collected information with authorized law enforcement, homeland security, and national security activities. See the Privacy Act of 1974 below.
 
@@ -103,8 +103,8 @@ When the DOT collects information from you online that is subject to the Privacy
 
 ## Our Privacy Practices
 
-For more information or for comments and concerns on our privacy practices, please contact our Privacy Officer, Kara Spooner, by email at [kara.spooner@dot.gov](mailto:kara.spooner@dot.gov) or by phone at 202-366-1965.
+For more information or for comments and concerns on our privacy practices, please contact our Departmental Privacy Officer at [privacy@dot.gov](mailto:privacy@dot.gov).
 
 DOT has conducted Privacy Impact Assessments on applicable systems.
 
-[View our Privacy Impact Assessments](https://web.archive.org/web/20060615223358id_/http%3A//www.dot.gov/pia.html)
+[View our Privacy Impact Assessments](https://web.archive.org/web/20061005041715id_/http%3A//www.dot.gov/pia.html)
