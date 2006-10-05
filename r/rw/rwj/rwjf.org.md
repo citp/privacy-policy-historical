@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616034208id_/http%3A//www.rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005084713id_/http%3A//rwjf.org/policies/privacy.jhtml) for the most accurate reproduction.*
 
 # RWJF - Web Policies - Privacy Statement
 
+### Effective Date: August 24, 2006
+
 The Robert Wood Johnson Foundation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [http://www.rwjf.org](http://www.rwjf.org/). Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
 
-|   
+| [](http://www.truste.org/ivalidate.php?url=www.rwjf.org&sealid=101)  
 ---|---  
   
-If users have questions or concerns regarding this statement, you should first contact the Privacy Liaison at [Privacy@rwjf.org](mailto:Privacy@rwjf.org). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html)](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns. However, please understand the TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.  
+If users have questions or concerns regarding this statement, you should first contact the Privacy Liaison at [Privacy@rwjf.org](mailto:Privacy@rwjf.org). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/consumers/watchdog_complaint.php)](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve users concerns. However, please understand the TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.  
 
 
   
@@ -142,7 +144,6 @@ Postal Address
 Robert Wood Johnson Foundation  
 Attention: Web Privacy  
 Route 1 and College Road East  
-PO Box 2316  
 Princeton, NJ 08543-2316
 
 Web site URL [http://www.rwjf.org](http://www.rwjf.org/)
