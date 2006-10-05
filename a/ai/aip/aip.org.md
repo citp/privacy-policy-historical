@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aip.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202327id_/http%3A//www.aip.org/aip/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aip.org privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005151216id_/http%3A//www.aip.org/aip/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - American Institute of Physics
 
