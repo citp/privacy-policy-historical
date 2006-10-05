@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the teneric.co.uk privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207145253id_/http%3A//www.teneric.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teneric.co.uk privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005212345id_/https%3A//teneric.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Teneric | privacy policy
+# Privacy policy - Teneric business plans Ltd - www.teneric.co.uk
+
+## We never rent or sell your information
 
 We have created this email privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. 
 
@@ -25,3 +27,24 @@ If you have received unwanted, unsolicited email sent via this system or purport
 **Privacy Policy Changes**
 
 This policy was created on 25th August 2003. 
+
+## Save Time & Download An Already Completed Business Plan
+
+All these business plans are industry specific and come with full narrative, a complete set of all financial statements, full support and special bonuses. All for immediate online access. 
+
+  
+
+
+### Click on the links below for more information...
+
+  
+
+
+For all other industries [please click here](https://web.archive.org/web/20061005212345id_/https%3A//teneric.co.uk/business-plan-template.html)
+
+[**Sample Business Plans**](https://web.archive.org/sample-business-plan.html)  
+Download a fully completed business plan for your industry online right now.   
+Includes narrative, financials and support 
+
+  
+
