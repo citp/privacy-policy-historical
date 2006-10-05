@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621215946id_/http%3A//www.ochsner.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ochsner.org privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005151708id_/http%3A//ochsner.org/body.cfm%3Fid%3D22) for the most accurate reproduction.*
 
-# Ochsner
+# Ochsner Health System Privacy Policy
 
-**Ochsner Health System  
+**Ochsner Clinic Foundation  
 Patient Privacy Statement**
 
 **Notice of Privacy Practices**
 
-The record of the medical care you receive at Ochsner – your medical information – has always been treated as personal and private. However, federal privacy laws that we are required to communicate to you now also govern this medical information. 
+The record of the medical care you receive at Ochsner Clinic Foundation – your medical information – has always been treated as personal and private. However, federal privacy laws that we are required to communicate to you now also govern this medical information. 
 
 There are circumstances under which we, as the provider of your health care, are permitted to use and disclose your medical information:
 
@@ -19,7 +19,7 @@ Entities to which we may disclose your medical information are funeral directors
 
 Except under special circumstances, you are entitled to view and/or copy your medical record. You have the right to amend your medical information if you have reason to believe it is incorrect or incomplete. You are entitled to receive a list of those entities or individuals to whom we may have disclosed your medical information. You are entitled to receive a paper copy of the full Notice of Privacy Practices. Finally, if you feel your privacy rights have been infringed, you may file a complaint, without fear of penalty, with our institution or with the Federal Government.
 
-**OCHSNER HEALTH SYSTEM  
+**OCHSNER CLINIC FOUNDATION  
 HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT  
 NOTICE OF PRIVACY PRACTICES**  
 Version: Number 2  
@@ -27,7 +27,7 @@ Effective Date: December 16, 2002
 
 THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN OBTAIN ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
-If you have any questions about this notice, please call **1-866-842-7099** and ask to speak with the [Patient Relations Department](https://web.archive.org/patients/relations.html).
+If you have any questions about this notice, please call **1-866-842-7099** and ask to speak with the [Patient Relations Department](https://web.archive.org/web/20061005151708id_/http%3A//ochsner.org/body.cfm?id=1112).
 
   
 **OUR PLEDGE REGARDING MEDICAL INFORMATION**  
@@ -37,8 +37,8 @@ This notice will tell you about the ways in which we may use and disclose medica
 
 We are required by law to
 
-  * Make sure that medical information that identifies you is kept private;
-  * Give you this notice of our legal duties and privacy practices with respect to medical information about you; and
+  * Make sure that medical information that identifies you is kept private; 
+  * Give you this notice of our legal duties and privacy practices with respect to medical information about you; and 
   * Follow the terms of the notice that is currently in effect.
 
 
@@ -81,13 +81,13 @@ The following categories describe several different ways that we use and disclos
 
 **Public Health Risks** : We may disclose medical information about you for public health activities. These activities generally include the following:
 
-  * To prevent or control disease, injury or disability;
-  * To report births and deaths;
-  * To report child abuse or neglect;
-  * To report reactions to medications or problems with products;
-  * To report elder and adult abuse, neglect and/or exploitation;
-  * To notify people of recalls of products they may be using;
-  * To notify a person who may have been exposed to a disease or may be at risk for contracting or spreading a disease or condition;
+  * To prevent or control disease, injury or disability; 
+  * To report births and deaths; 
+  * To report child abuse or neglect; 
+  * To report reactions to medications or problems with products; 
+  * To report elder and adult abuse, neglect and/or exploitation; 
+  * To notify people of recalls of products they may be using; 
+  * To notify a person who may have been exposed to a disease or may be at risk for contracting or spreading a disease or condition; 
   * To the appropriate government authority if we believe a patient has been the victim of abuse, neglect or domestic violence. We will only make this disclosure if you agree, or when required or authorized by law.
 
 
@@ -100,11 +100,11 @@ The following categories describe several different ways that we use and disclos
 
 **Law Enforcement** : We may release medical information if asked by a law enforcement official for the following reasons:
 
-  * In response to a court order, subpoena, warrant, summons or similar process;
-  * Limited information to identify or locate a suspect, fugitive, material witness, or missing person;
-  * About the victim of a crime if, under certain limited circumstances, we are unable to obtain the person’s agreement;
-  * About a death we believe may be the result of criminal conduct;
-  * About criminal conduct at the hospital or clinic; and
+  * In response to a court order, subpoena, warrant, summons or similar process; 
+  * Limited information to identify or locate a suspect, fugitive, material witness, or missing person; 
+  * About the victim of a crime if, under certain limited circumstances, we are unable to obtain the person’s agreement; 
+  * About a death we believe may be the result of criminal conduct; 
+  * About criminal conduct at the hospital or clinic; and 
   * In emergency circumstances to report a crime; the location of the crime or victims; or the identity, description or location of the person who committed the crime.
 
 
@@ -124,14 +124,14 @@ You have the following rights regarding medical information that we maintain abo
 To inspect and receive copies of medical information that may be used to make decisions about you, you must submit your request in writing to:
 
 > Supervisor, Release Of Information  
->  Ochsner Medical Center  
+>  Ochsner Clinic Foundation  
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
 or
 
 > Medical Release of Information  
->  Ochsner Health Center Bluebonnet  
+>  Ochsner Clinic Foundation  
 >  9001 Summa Avenue  
 >  Baton Rouge, LA 70809
 
@@ -144,7 +144,7 @@ We may deny your request to inspect and copy in certain very limited circumstanc
 To request an amendment, your request must be made in writing and submitted to:
 
 > Patient Relations Department  
->  Ochsner   
+>  Ochsner Clinic Foundation  
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
@@ -152,9 +152,9 @@ In addition, you must provide a reason that supports your request.
 
 We may deny your request for an amendment if it is not in writing or does not include a reason to support the request. In addition, we may deny your request if you ask us to amend information:
 
-  * Not created by us;
-  * Not part of the medical information kept by or for the hospital/clinic;
-  * Not part of the information which you would be permitted to inspect and copy; or
+  * Not created by us; 
+  * Not part of the medical information kept by or for the hospital/clinic; 
+  * Not part of the information which you would be permitted to inspect and copy; or 
   * Which is accurate and complete.
 
 
@@ -164,7 +164,7 @@ We may deny your request for an amendment if it is not in writing or does not in
 To request this list or accounting of disclosures, you must submit your request in writing to:
 
 > Patient Relations Department  
->  Ochsner   
+>  Ochsner Clinic Foundation  
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
@@ -177,7 +177,7 @@ _We are not required to agree to your request_. If we do agree, we will comply w
 To request restrictions, you must make your request in writing to:
 
 > Patient Relations Department  
->  Ochsner   
+>  Ochsner Clinic Foundation  
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
@@ -188,7 +188,7 @@ In your request, you must tell us (1) what information you want to limit; (2) wh
 To request confidential communications, you must make your request in writing to:
 
 > Patient Relations Department  
->  Ochsner   
+>  Ochsner Clinic Foundation  
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
@@ -199,7 +199,7 @@ We will not ask you the reason for your request. We will accommodate all reasona
 To obtain a paper copy of this notice, contact:
 
 > Patient Relations Department  
->  Ochsner   
+>  Ochsner Clinic Foundation  
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
@@ -214,7 +214,7 @@ We reserve the right to change this notice. We reserve the right to make the rev
 If you believe your privacy rights have been violated, you may file a complaint with our institution or with the Secretary of the Department of Health and Human Services. To file a complaint with Ochsner Clinic Foundation, contact:
 
 > Patient Relations Department  
->  Ochsner   
+>  Ochsner Clinic Foundation  
 >  1514 Jefferson Highway  
 >  New Orleans, LA 70121
 
@@ -230,9 +230,9 @@ Other uses and disclosures of medical information not covered by this notice or 
 **WHO MUST FOLLOW THIS NOTICE**  
 This notice describes our hospital’s and clinic’s practices and those of:
 
-  * Any health care professional authorized to enter information into your hospital/clinic chart.
-  * All departments and units of the hospital and clinic.
-  * Any member of a volunteer group we allow to help you while you are in the hospital.
+  * Any health care professional authorized to enter information into your hospital/clinic chart. 
+  * All departments and units of the hospital and clinic. 
+  * Any member of a volunteer group we allow to help you while you are in the hospital. 
   * All employees, staff and other hospital/clinic personnel.
 
 
