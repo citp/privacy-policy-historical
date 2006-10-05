@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001756id_/http%3A//www.cancerresearchuk.org/utilities/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005020801id_/http%3A//www.cancerresearchuk.org/utilities/privacy) for the most accurate reproduction.*
 
 # Cancer Research UK: Privacy statement
 
@@ -54,6 +54,6 @@ We reserve the right to amend this privacy statement. If we do so, we will post 
 
 **Cancer information nurses**
 
-If you contact the [cancer information nurses](http://www.cancerresearchuk.org/aboutcancer/contactournurses), you may choose to provide details of a personal nature. Only the cancer information nurses use your personal information and only for the purposes of dealing with your enquiry/enquiries. They will not pass on your details to anyone else without your express permission.
+If you contact the [cancer information nurses](http://www.cancerresearchuk.org/aboutus/contactus/cancerinformationnurses/), you may choose to provide details of a personal nature. Only the cancer information nurses use your personal information and only for the purposes of dealing with your enquiry/enquiries. They will not pass on your details to anyone else without your express permission.
 
 Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed from their records, please contact the cancer information nurses. 
