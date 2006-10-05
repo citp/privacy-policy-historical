@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuel.tv privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615181716id_/http%3A//www.fuel.tv/%3Fp%3DPP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuel.tv privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005160658id_/http%3A//www.fuel.tv/%3Fp%3DPP) for the most accurate reproduction.*
 
 # FUEL TV
 
