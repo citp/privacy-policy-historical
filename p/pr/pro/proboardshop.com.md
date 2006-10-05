@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proboardshop.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614022642id_/http%3A//helpdesk.proboardshop.com/entry/1/34) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proboardshop.com privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005210824id_/http%3A//helpdesk.proboardshop.com/entry/1/34) for the most accurate reproduction.*
 
 # Proboardshop Helpdesk & FAQ / Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Proboardshop takes your privacy seriously. We do not sell, rent or loan any identifiable information regarding our customers to any third party. Any information you share with us is held with the utmost care and security, and will not be used in ways in which you have not agreed. No customer data is stored on servers that are accessible to the Internet. All data is downloaded and deleted from our Web server many times a day. When you purchase products from Proboardshop, we automatically place you on our list to receive e-mails regarding updates about special offers, new products and new services, as well as the Proboardshop catalog.
 
-If you do not wish to receive e-mail updates and/or the Proboardshop catalog, please send and e-mail to [info@proboardshop.com](mailto:info@proboardshop.com) and indicate your desire to be removed from either the e-mail or catalog list. Proboardshop gives the customer an option for changing and modifying information previously provided. Please e-mail any modifications to [info@proboardshop.com](mailto:info@proboardshop.com).
+If you do not wish to receive e-mail updates and/or the Proboardshop catalog, please send an e-mail to [info@proboardshop.com](mailto:info@proboardshop.com) and indicate your desire to be removed from either the e-mail or catalog list. Proboardshop gives the customer an option for changing and modifying information previously provided. Please e-mail any modifications to [info@proboardshop.com](mailto:info@proboardshop.com).
 
 ### Cookies and IP Numbers
 
@@ -18,15 +18,15 @@ The Proboardshop site contains links to other external sites. Proboardshop is no
 
 ### Address Information
 
-Proboardshop.com uses a form that customers can utilize to request information, products and services. We gather contact information including but not limited to physical addresses, email addresses, phone numbers and financial information (account or credit card numbers). Information is gathered by Proboardshop.com is for the sole benefit and use of Proboardshop.com. Contact information from the order form is used to send orders, information about our company, and promotional materials. The customer's contact information can also used to get in touch with the customer when necessary. Customers may elect not to receive any emails should they so desire.
+Proboardshop.com uses a form that customers can utilize to request information, products and services. We gather contact information including but not limited to physical addresses, e-mail addresses, phone numbers and financial information (account or credit card numbers). Information gathered by Proboardshop.com is for the sole benefit and use of Proboardshop.com. Contact information from the order form is used to send orders, information about our company, and promotional materials. The customer's contact information can also be used to get in touch with the customer when necessary. Customers may elect not to receive any e-mails should they so desire.
 
 ### Financial Information
 
-Financial information such as credit card information, billing address, and shipping address is used to bill the user for products and services, and to effect shipment. This information is kept strictly confidential and secure. Our online surveys ask for contact information (typically an email address) and demographic information (such as zip code, age, or income level). We use contact data from our surveys to send the user promotional material from Proboardshop.com.
+Financial information such as credit card information, billing address, and shipping address is used to bill the user for products and services, and to effect shipment. This information is kept strictly confidential and secure. Our online surveys ask for contact information (typically an e-mail address) and demographic information (such as zip code, age, or income level). We use contact data from our surveys to send the user promotional material from Proboardshop.com.
 
 ### Contests
 
-We promote contests on our site from time to time where we ask visitors for contact information (typically the customer's email address) and demographic information (such as zip code, age, or income level). We use contact data from our contests to send participants promotional material from Proboardshop.com. The contact information is also used to contact the customer when necessary (i.e. a contest winner.) Customers may elect not to receive future mailings. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing content that we believe they may be interested in, and displaying the content according to their preferences.
+We promote contests on our site from time to time where we ask visitors for contact information (typically the customer's e-mail address) and demographic information (such as zip code, age, or income level). We use contact data from our contests to send participants promotional material from Proboardshop.com. The contact information is also used to contact the customer when necessary (i.e. a contest winner.) Customers may elect not to receive future mailings. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing content that we believe they may be interested in, and displaying the content according to their preferences.
 
 ### Secure Transactions
 
