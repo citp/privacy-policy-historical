@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thailovelinks.com privacy policy that was archived on 2005-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051128052233id_/http%3A//www.thailovelinks.com/Privacy.cfm%3Bjsessionid%3Dcc30830aa97a%24C88%24B1%24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thailovelinks.com privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005121811id_/http%3A//www.thailovelinks.com/Privacy.cfm%3Bjsessionid%3De6303597a35f1a631824) for the most accurate reproduction.*
 
 # ThaiLoveLinks.com - Thai Dating, Singles and Personals
 
-**INTERACTIVE CONNECTIONS PTY LTD PRIVACY POLICY**
+**CUPID MEDIA PTY LTD PRIVACY POLICY**
 
-thailovelinks.com (“the Website”) is owned and operated by the company described in item 1 of the Schedule to this Privacy Policy (the "Company", "we", "our", "us").  This Privacy Policy sets out the Company's policies relating to the collection and use of your Personal Information whilst you use this Website.
+ThaiLoveLinks.com (“the Website”) is owned and operated by the company described in item 1 of the Schedule to this Privacy Policy (the "Company", "we", "our", "us").  This Privacy Policy sets out the Company's policies relating to the collection and use of your Personal Information whilst you use this Website.
 
   **1\. PRIVACY**
 
@@ -370,11 +370,11 @@ that is also Personal Information; or
 
 Name
 
-**: Interactive Connections Pty Ltd (ACN 104 844 564), which shall include any related body corporate or associate (as those terms are defined in the Corporations Act 2001 (Cth)) of Interactive Connections Pty Ltd.  
+**: Cupid Media Pty Ltd (ACN 104 844 564), which shall include any related body corporate or associate (as those terms are defined in the Corporations Act 2001 (Cth)) of Cupid Media Pty Ltd.  
 **Address** : PO Box 9304, Gold Coast MC Qld 9726  
 Phone: 61 7 5510 3066  
 **Fax Number** : 61 7 5574 2113  
-**Email Address** : info@interactive-connections.com  
+**Email Address** : team@cupidmedia.com  
 **Contact** : Customer Service
   2. **Purposes  
 **  
