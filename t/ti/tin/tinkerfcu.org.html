@@ -1,51 +1,234 @@
-<!--The following is the downloaded HTML source of the tinkerfcu.org privacy policy that was archived on 2004-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040401214850id_/http%3A//tinkerfcu.org/Disclaimer/Disclaimer.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tinkerfcu.org privacy policy that was archived on 2006-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061005113038id_/https%3A//www.tinkerfcu.org/Disclaimer/Disclaimer.html) for the most accurate reproduction.-->
 
 <html><head>
 		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 		<title>Disclaimer and Privacy Policy</title>
-		<link href="../External/TFCU.css" rel="stylesheet" type="text/css">
-		<style media="screen" type="text/css"><!--
-#mousetrap  { position: absolute; z-index: 1; top: 0px; left: 238px; visibility: visible }
-#menu1 { position: absolute; z-index: 100; top: 0px; left: 238px; visibility: hidden }
-#menu2 { position: absolute; z-index: 100; top: 0px; left: 329px; visibility: hidden }
-#menu3 { position: absolute; z-index: 100; top: 0px; left: 381px; visibility: hidden }
-#menu4 { position: absolute; z-index: 100; top: 0px; left: 445px; visibility: hidden }
-#menu5 { position: absolute; z-index: 100; top: 0px; left: 515px; visibility: hidden }
-#menu6 { position: absolute; z-index: 100; top: 0px; left: 559px; visibility: hidden }
-#mdrop1 { position: absolute; z-index: 200; top: 21px; left: 238px; visibility: hidden }
-#mdrop2 { position: absolute; z-index: 200; top: 21px; left: 329px; visibility: hidden }
-#mdrop3 { position: absolute; z-index: 200; top: 21px; left: 381px; visibility: hidden }
-#mdrop4 { position: absolute; z-index: 200; top: 21px; left: 445px; visibility: hidden }
-#mdrop5 { position: absolute; z-index: 200; top: 21px; left: 515px; visibility: hidden }
-#mdrop6 { position: absolute; z-index: 200; top: 21px; left: 559px; visibility: hidden }
-#mitems1 { position: absolute; z-index: 300; top: 21px; left: 238px; visibility: hidden }
-#mitems2 { position: absolute; z-index: 300; top: 21px; left: 329px; visibility: hidden }
-#mitems3 { position: absolute; z-index: 300; top: 21px; left: 381px; visibility: hidden }
-#mitems4 { position: absolute; z-index: 300; top: 21px; left: 445px; visibility: hidden }
-#mitems5 { position: absolute; z-index: 300; top: 21px; left: 515px; visibility: hidden }
-#mitems6 { position: absolute; z-index: 300; top: 21px; left: 559px; visibility: hidden }
---></style>
-		<script language="JavaScript" src="../External/PulldownMenusSubDir.js"></script>
-		<script language="JavaScript">
+
+  <link href="../External/TFCU.css" rel="stylesheet" type="text/css"><script language="JavaScript" src="../External/PulldownMenusSubDir.js"></script><script language="JavaScript">
 			function LoanCalculator()
 				{
 				window.open('../Loans/LoanCalculator.html','LoanCalculator','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,width=285,height=425');
 				}
-		</script>
-	</head>
+		</script><script language="JavaScript">
 
-	<body bgcolor="white" alink="#003366" vlink="#006666" link="#003366" onload="init()" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" background="../Images/News/LightBlueBG.gif" text="black">
+var bClicked = false;
+
+
+function VerifyBrowserType()
+ {
+   
+   // convert all characters to lowercase to simplify testing
+   var agt=navigator.userAgent.toLowerCase();
+
+   // *** BROWSER VERSION ***
+    var is_major = parseInt(navigator.appVersion);
+    var is_minor = parseFloat(navigator.appVersion);
+
+    var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
+                && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
+                && (agt.indexOf('webtv')==-1));
+
+
+    var is_nav35up  = (is_nav && (is_major >= 4 || (is_major=3 && is_minor >=5)));
+    var is_ie   = (agt.indexOf("msie") != -1);
+    var is_ie4up  = (is_ie  && (is_major >= 4));
+
+    //Check for IE 4.0 and up
+    if (is_ie4up)
+      {
+ 	document.logon.BrowserType.value = "-1";
+      }
+    else
+      {
+       //Check for Netscape 3.5 and up
+       if (is_nav35up) 
+       {
+       	document.logon.BrowserType.value = "0";
+       }
+       else
+       {
+        //Some other HTML 3.2 and Java Script 1.0 browser
+	document.logon.BrowserType.value = "2";
+       }
+      }
+}
+</script><style>
+	
+.leftMenu {	text-align: left; }
+		
+.centerMenu { text-align: center;}
+		
+.rightMenu { text-align: right;	}
+		
+a.MenuLabelLink	{ COLOR: #ffffff;	FONT-SIZE: 16px;
+FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None;
+margin: 0px; padding: 0px; font-weight: normal; vertical-align: middle;}
+a.MenuLabelLink:link { COLOR: #ffffff;	FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None; }
+a.MenuLabelLink:visited	{ COLOR: #fffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None;	}
+a.MenuLabelLink:hover{ COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None; }
+		
+a.MenuLabelLinkOn {	COLOR: #ffffff; FONT-SIZE: 16px;
+FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None;
+margin: 0px; padding: 0px; font-weight: normal; vertical-align: middle;}
+a.MenuLabelLinkOn:link { COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None; }
+a.MenuLabelLinkOn:visited { COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None; }
+a.MenuLabelLinkOn:hover { COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None; }
+		
+a.MenuItemLink { COLOR: #ffffff; FONT-SIZE: 10px;
+FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None;
+margin: 0px; padding: 0px; font-weight: bold;  vertical-align: middle;}
+a.MenuItemLink:link { COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None; }
+a.MenuItemLink:visited { COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None; }
+a.MenuItemLink:hover { COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None; }
+		
+a.MenuItemLinkOn { COLOR: #ffffff; FONT-SIZE: 10px;
+FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None;
+margin: 0px; padding: 0px; font-weight: bold; vertical-align: middle;}
+a.MenuItemLinkOn:link { COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None; }
+a.MenuItemLinkOn:visited { COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None; }
+a.MenuItemLinkOn:hover { COLOR: #ffffff; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: None; }
+		
+.myMenu { position: absolute; visibility: hidden; z-index: 5; }		
+		
+.myMenuLabelleft { padding: 0px 0px 0px 0px; text-align: left; }		
+.myMenuLabelcenter { padding: 0px 0px 0px 0px; text-align: center; }		
+.myMenuLabelright { padding: 1px 0px 0px 0px; text-align: right; }		
+.myMenuItemleft { padding: 0px 0px 0px 0px; text-align: left; }		
+.myMenuItemcenter { padding: 0px 0px 0px 0px; text-align: center; }		
+.myMenuItemright { padding: 0px 0px 0px 0px; text-align: right; }		
+		
+#myTest { position:absolute; top: 0px; left: 234px; width: 412px; padding: 0px 0px 0px 0px; z-index: 2; }
+</style><script language="JavaScript" src="../External/PulldownMenus.js"></script><script language="JavaScript" src="..External/PulldownMenusIndex.js"></script><script language="JavaScript1.2" src="../External/api.js" type="text/javascript"></script><script language="JavaScript1.2" src="../External/menucode.js" type="text/javascript"></script><script language="JavaScript1.2" type="text/javascript">
+<!--
+sniffBrowsers();
+
+menuItemBullet = new bulletPoint("../Images/MainNavigation/Bullets/menu_off.gif","../Images/MainNavigation/Bullets/menu_on.gif");
+blankBullet1 = new bulletPoint("../Images/Membership/Blank.gif","../Images/Membership/Blank.gif");
+subMenuBullet = new bulletPoint("../Images/MainNavigation/Bullets/sub_header_off.gif","../Images/MainNavigation/Bullets/sub_header_on.gif");
+
+mainMembership = new bulletPoint("../Images/Membership/MembershipMenuItemOff.gif","../Images/Membership/MembershipMenuItemOn.gif");
+mainLoans = new bulletPoint("../Images/Loans/LoansMenuItemOff.gif","../Images/Loans/LoansMenuItemOn.gif");
+mainSavings = new bulletPoint("../Images/Savings/SavingsMenuItemOff.gif","../Images/Savings/SavingsMenuItemOn.gif");
+mainChecking = new bulletPoint("../Images/Checking/CheckingMenuItemOff.gif","../Images/Checking/CheckingMenuItemOn.gif");
+mainKids = new bulletPoint("../Images/Kids/KidsMenuItemOff.gif","../Images/Kids/KidsMenuItemOn.gif");
+mainEmployment = new bulletPoint("../Images/Employment/EmploymentMenuItemOff.gif","../Images/Employment/EmploymentMenuItemOn.gif");
+
+
+myTest = new menuBar('myTest',412, 'horizontal', '#003366', '#003366');
+myTest.addLabel('mainMembership', 	' |', 	1, 92, '#003366', '#338A86', '../Membership/Membership.html', 'left');
+myTest.addLabel('mainLoans', 		' |',		2, 53, '#003366', '#338A86', '../Loans/Loans.html', 'left');
+myTest.addLabel('mainSavings', 	' |', 	3, 65, '#003366', '#338A86', '../Savings/Savings.html', 'left');
+myTest.addLabel('mainChecking', 	' |', 	4, 71, '#003366', '#338A86', '../Checking/Checking.html', 'left');
+myTest.addLabel('mainKids', 		' |', 	5, 46, '#003366', '#338A86', '../Kids/Kids.html', 'left');
+myTest.addLabel('mainEmployment', 	'',	6, 81, '#003366', '#338A86', '../Employment/Employment.html', 'left');
+myTest.height = 12;
+
+menus[1] = new menu(135, 'vertical', '#003366', '#003366');
+menus[1].height = 12;
+menus[1].addItem('blankBullet1', ' About TFCU', null, 135, '#003366', '#338A86', '../Membership/About.html', 'left');
+menus[1].addItem('blankBullet1', ' Joining TFCU', null, 135, '#003366', '#338A86', '../Membership/Joining.html', 'left');
+menus[1].addItem('blankBullet1', ' Offering TFCU Services', null, 135, '#003366', '#338A86', '../Membership/Offering.html', 'left');
+menus[1].writeMenu();
+
+menus[2] = new menu(130, 'vertical', '#003366', '#003366');
+menus[2].height = 12;
+menus[2].addItem('blankBullet1', ' Loan Calculator', null, 130, '#003366', '#338A86', 'javascript:LoanCalculator()', 'left');
+menus[2].addItem('blankBullet1', ' Rates And Disclosures', null, 130, '#003366', '#338A86', '../Loans/RatesAndDisclosures.html', 'left');
+menus[2].addItem('blankBullet1', ' Application', null, 130, '#003366', '#338A86', '../Loans/Applications.html', 'left');
+menus[2].addItem('blankBullet1', ' What Can I Afford?', null, 130, '#003366', '#338A86', '../Loans/Afford.html', 'left');
+menus[2].addItem('blankBullet1', ' Preapproval', null, 130, '#003366', '#338A86', '../Loans/Preapproval.html', 'left');
+menus[2].addItem('blankBullet1', ' Vehicle Loans', null, 130, '#003366', '#338A86', '../Loans/VehicleLoans.html', 'left');
+menus[2].addItem('blankBullet1', ' RV & Boat Loans', null, 130, '#003366', '#338A86', '../Loans/RVAndBoatLoans.html', 'left');
+menus[2].addItem('blankBullet1', ' Motorcycle Loans', null, 130, '#003366', '#338A86', '../Loans/MotorcycleLoans.html', 'left');
+menus[2].addItem('blankBullet1', ' Secured Loans', null, 130, '#003366', '#338A86', '../Loans/SecuredLoans.html', 'left');
+menus[2].addItem('blankBullet1', ' Signature Loans', null, 130, '#003366', '#338A86', '../Loans/SignatureLoans.html', 'left');
+menus[2].addItem('blankBullet1', ' Line of Credit', null, 130, '#003366', '#338A86', '../Loans/LineOfCredit.html', 'left');
+menus[2].addItem('blankBullet1', ' Credit Cards', null, 130, '#003366', '#338A86', '../Loans/CreditCards.html', 'left');
+menus[2].addItem('blankBullet1', ' Student Loans', null, 130, '#003366', '#338A86', '../Loans/StudentLoans.html', 'left');
+menus[2].addItem('blankBullet1', ' Home Loans', null, 130, '#003366', '#338A86', '../Loans/HomeLoans.html', 'left');
+menus[2].addItem('blankBullet1', ' Home Equity Loans', null, 130, '#003366', '#338A86', '../Loans/HomeEquityLoans.html', 'left');
+menus[2].addItem('blankBullet1', ' Payroll Deductions', null, 130, '#003366', '#338A86', '../ConvenienceServices/PayrollDeduction.html', 'left');
+menus[2].writeMenu();
+
+menus[3] = new menu(135, 'vertical', '#003366', '#003366');
+menus[3].height = 12;
+menus[3].addItem('blankBullet1', ' Share', null, 135, '#003366', '#338A86', '../Savings/Share.html', 'left');
+menus[3].addItem('blankBullet1', ' Command Fund', null, 135, '#003366', '#338A86', '../Savings/CommandFund.html', 'left');
+menus[3].addItem('blankBullet1', ' Premium Plus', null, 135, '#003366', '#338A86', '../Savings/PremiumPlus.html', 'left');
+menus[3].addItem('blankBullet1', ' Share Certificates & IRA&#013;&#160;&#160;&#160;&#160;&#160;Certificates', null, 135, '#003366', '#338A86', '../Savings/ShareCertAndIRACert.html', 'left');
+menus[3].addItem('blankBullet1', ' Christmas Club', null, 135, '#003366', '#338A86', '../Savings/ChristmasClub.html', 'left');
+menus[3].addItem('blankBullet1', ' Moola Moola Kids Club', null, 135, '#003366', '#338A86', '../Kids/KidsClub.html', 'left');
+menus[3].addItem('blankBullet1', ' Payroll Deduction', null, 135, '#003366', '#338A86', '../ConvenienceServices/PayrollDeduction.html', 'left');
+menus[3].addItem('blankBullet1', ' Your Insured Funds', null, 135, '#003366', '#338A86', '../ConvenienceServices/YourInsuredFunds.html', 'left');
+menus[3].writeMenu();
+
+menus[4] = new menu(125, 'vertical', '#003366', '#003366');
+menus[4].height = 12;
+menus[4].addItem('blankBullet1', ' Order Checks', null, 125, '#003366', '#338A86', '../Checking/OrderChecks.html', 'left');
+menus[4].addItem('blankBullet1', ' Check My Balance', null, 125, '#003366', '#338A86', '../Checking/CheckMyBalance.html', 'left');
+menus[4].addItem('blankBullet1', ' Print My Account&#013;&#160;&#160;&#160;&#160;&#160;History', null, 125, '#003366', '#338A86', '../Checking/PrintMyAccountHist.html', 'left');
+menus[4].addItem('blankBullet1', ' Added Benefits', null, 125, '#003366', '#338A86', '../Checking/AddedBenefits.html', 'left');
+menus[4].addItem('blankBullet1', ' Overdraft Protection', null, 125, '#003366', '#338A86', '../Checking/OverdraftProtection.html', 'left');
+menus[4].addItem('blankBullet1', ' Direct Deposit', null, 125, '#003366', '#338A86', '../Checking/DirectDeposit.html', 'left');
+menus[4].addItem('blankBullet1', ' Your Insured Funds', null, 125, '#003366', '#338A86', '../ConvenienceServices/YourInsuredFunds.html', 'left');
+menus[4].writeMenu();
+
+menus[5] = new menu(130, 'vertical', '#003366', '#003366');
+menus[5].height = 12;
+menus[5].addItem('blankBullet1', ' Moola Moola Kids Club', null, 130, '#003366', '#338A86', '../Kids/KidsClub.html', 'left');
+menus[5].writeMenu();
+
+menus[6] = new menu(95, 'vertical', '#003366', '#003366');
+menus[6].height = 12;
+menus[6].addItem('blankBullet1', ' The TFCU Team', null, 95, '#003366', '#338A86', '../Employment/TFCUTeam.html', 'left');
+menus[6].addItem('blankBullet1', ' Jobs at TFCU', null, 95, '#003366', '#338A86', '../Employment/Jobs.html', 'left');
+menus[6].addItem('blankBullet1', ' Employment&#013;&#160;&#160;&#160;&#160;&#160;Application', null, 95, '#003366', '#338A86', 'https://www.tinkerfcu.org/secure-web/employment/application.php', 'left');
+menus[6].writeMenu();
+
+
+menus[1].align='left';
+menus[2].align='left';
+menus[3].align='left';
+menus[4].align='left';
+menus[5].align='left';
+menus[6].align='left';
+
+
+//-->
+</script></head>
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+<body alink="#003366" vlink="#006666" link="#003366" leftmargin="0" topmargin="0" background="../Images/News/LightBlueBG.gif">
+
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+myTest.writeMenuBar();
+//-->
+</script>
+
 		<table border="0" cellpadding="0" cellspacing="0" margin="0" width="662" height="118">
 			<tbody><tr height="21">
-				<td width="238" rowspan="4" valign="top"><a href="../index.shtml"><img src="../Images/MainNavigation/MainLogo.gif" width="238" height="118" border="0"></a></td>
-				<td height="21" width="424"><a href="../Membership/Membership.html"><img height="21" width="83" src="../Images/Membership/MembershipMenuItemOff.gif" border="0"></a><img height="21" width="8" src="../Images/MainNavigation/MainSpacer.gif"><a href="../Loans/Loans.html"><img height="21" width="44" src="../Images/Loans/LoansMenuItemOff.gif" border="0"></a><img height="21" width="8" src="../Images/MainNavigation/MainSpacer.gif"><a href="../Savings/Savings.html"><img height="21" width="56" src="../Images/Savings/SavingsMenuItemOff.gif" border="0"></a><img height="21" width="8" src="../Images/MainNavigation/MainSpacer.gif"><a href="../Checking/Checking.html"><img height="21" width="62" src="../Images/Checking/CheckingMenuItemOff.gif" border="0"></a><img height="21" width="8" src="../Images/MainNavigation/MainSpacer.gif"><a href="../Kids/KidsClub.html"><img height="21" width="36" src="../Images/Kids/KidsMenuItemOff.gif" border="0"></a><img height="21" width="8" src="../Images/MainNavigation/MainSpacer.gif"><a href="../Employment/Employment.html"><img height="21" width="81" src="../Images/Employment/EmploymentMenuItemOff.gif" border="0"></a><img height="21" width="22" src="../Images/MainNavigation/MainHeadingEndcap.gif"></td>
+				<td width="238" rowspan="4" valign="top"><a href="https://www.tinkerfcu.org"><img src="../Images/MainNavigation/MainLogo.gif" width="238" height="118" border="0"></a></td>
+				<td height="21" width="424" bgcolor="#003366"><img height="1" width="402" src="../Images/Sidebar/Sidebar_Spacer.gif"><img height="21" width="22" src="../Images/MainNavigation/MainHeadingEndcap.gif"></td>
 			</tr>
 			<tr height="26">
 				<td width="424" height="26"><img src="../Images/MainNavigation/MainHeadingCurve.gif" width="424" height="26" border="0"></td>
 			</tr>
 			<tr height="46">
-				<td width="424" height="46"><a href="javascript:HomeBranch()" onmouseover="logoon('homebranch')" onmouseout="logooff('homebranch')" ;return="" true=""><img src="../Images/MainNavigation/MainHomeBranchOff.gif" name="homebranch" border="0" width="53" height="46"></a><a href="javascript:BillPay()" onmouseover="logoon('billpay')" onmouseout="logooff('billpay')" ;return="" true=""><img src="../Images/MainNavigation/MainBillPayOff.gif" name="billpay" border="0" width="91" height="46"></a><a href="../ConvenienceServices/SpecializedInvestments.html" onmouseover="logoon('specinvest')" onmouseout="logooff('specinvest')"><img src="../Images/MainNavigation/MainInvestmentsOff.gif" name="specinvest" border="0" width="109" height="46"></a><a href="javascript:CreditCard()" onmouseover="logoon('creditcard')" onmouseout="logooff('creditcard')" ;return="" true=""><img src="../Images/MainNavigation/MainCreditCardOff.gif" name="creditcard" border="0" width="66" height="46"></a><a href="javascript:HFFO()" onmouseover="logoon('hffinance')" onmouseout="logooff('hffinance')" ;return="" true=""><img src="../Images/MainNavigation/MainHomeFinanceOff.gif" name="hffinance" border="0" width="80" height="46"></a></td>
+				<td width="424" height="46"><a href="../WhatsNew.html"><img src="../Images/ButtonIconWhatsNew.gif" alt="" width="63" height="46" border="0"></a><a href="javascript:LoanAppChoose()"><img src="../Images/IconApplyForALoan.gif" alt="" height="46" width="85" border="0"></a><a href="../ConvenienceServices/SpecializedInvestments.html" onmouseover="logoon('specinvest')" onmouseout="logooff('specinvest')"><img src="../Images/MainNavigation/MainInvestmentsOff.gif" name="specinvest" border="0" width="109" height="46"></a><a href="javascript:CreditCard()" onmouseover="logoon('creditcard')" onmouseout="logooff('creditcard')" ;return="" true=""><img src="../Images/MainNavigation/MainCreditCardOff.gif" name="creditcard" border="0" width="66" height="46"></a><a href="javascript:HFFO()" onmouseover="logoon('hffinance')" onmouseout="logooff('hffinance')" ;return="" true=""><img src="../Images/MainNavigation/MainHomeFinanceOff.gif" name="hffinance" border="0" width="80" height="46"></a></td>
 			</tr>
 			<tr height="25">
 				<td width="424" height="25"></td>
@@ -62,7 +245,7 @@
 						</font><font color="#003366" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
 						</font><sub><font size="1"><a href="Disclaimer.html"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#003366">Disclaimer and Privacy Statement<br>
 									</font></a></font></sub><br>
-						<a href="../index.shtml"><img src="../Images/HomeButton.gif" livesrc="../../../Resource%20Files/HomeButton.eps" width="93" height="72" border="0" livesettings="GIF"></a><br>
+						<a href="../index.shtml"><img src="../Images/HomeButton.gif" livesrc="../../../Resource Files/HomeButton.eps" width="93" height="72" border="0" livesettings="GIF"></a><br>
 						<font color="#003366" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b><br>
 								<br>
 							</b></font><br>
@@ -71,48 +254,52 @@
 									<br>
 								</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="-7"><img height="23" width="84" src="../Images/MainNavigation/LogoEqualHousing.gif"><br>
 								</font></i><font size="1"><i><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#003366"><br>
-									</font></i></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#003366" size="1">Copyright ©2002 Tinker Federal Credit Union<br>
+									</font></i></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#003366" size="1">Copyright ©2006 Tinker Federal Credit Union<br>
 								<br>
 							</font><font size="1"><a href="Disclaimer.html"><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#003366"><br>
 									</font></a></font></sub></p>
 				</td>
 				<td width="361">
 					<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="black"><img src="../Images/Privacy/Disclaimer.gif" width="124" height="21" border="0"><br>
-							<br>The information and materials contained in these pages, and the terms, conditions, and descriptions that appear, are subject to change without notice. Copyright in the pages and in the screens displaying the pages, and in the information and materials therein and in their arrangement, is owned by Tinker Federal Credit Union, unless otherwise indicated. No one has permission to copy or republish any information found on this Web site and any pages thereof, unless otherwise indicated.&nbsp; Information from this Web site is invalid unless it is read and is presented in its entirety.<br>
+							<br>
+							The information and materials contained in these pages, and the terms, conditions, and descriptions that appear, are subject to change without notice. Copyright in the pages and in the screens displaying the pages, and in the information and materials therein and in their arrangement, is owned by Tinker Federal Credit Union, unless otherwise indicated. No one has permission to copy or republish any information found on this Web site and any pages thereof, unless otherwise indicated.&nbsp; Information from this Web site is invalid unless it is read and is presented in its entirety.<br>
 							<br>
 							<a name="WebsitePrivacy"></a><br>
 							<img src="../Images/Privacy/WebsitePrivacyPolicy.gif" width="283" height="31" border="0"><br>
-							<br>TFCU is committed to protecting the privacy of its members and other users of its Web site. We have adopted the following privacy policy for your protection:<br>
+							<br>
+							TFCU is committed to protecting the privacy of its members and other users of its Web site. We have adopted the following privacy policy for your protection:<br>
 							<br>
 							<br>
-							<b>General Web Site Pages</b><br>TFCU collects and stores information on the domain you use to access its Web site, the Internet address of the site from which you linked directly to our site, and the date and time of your visit to our site. This information is used to measure the number of visitors to the various pages on the site, to help TFCU make improvements to the information contained on the site, and to better serve our members through special marketing and service programs.<br>
+							<b>General Web Site Pages</b><br>
+							TFCU collects and stores information on the domain you use to access its Web site, the Internet address of the site from which you linked directly to our site, and the date and time of your visit to our site. This information is used to measure the number of visitors to the various pages on the site, to help TFCU make improvements to the information contained on the site, and to better serve our members through special marketing and service programs.<br>
 							<br>
 							<br>
 							<b>Applications</b><br>
 							Only business related information is requested on any TFCU online application. This information is used only for review of qualifications for the loan, account, or service for which you are applying. Any information gathered during member application is not given or sold to third parties.<br>
 							<br>
 							<br>
-							<b>Home Branch</b><br>
-							
-							Personal identifying information is collected when a member logs on to Home Branch. This information enables TFCU to regulate entry and to measure member usage. Any personal identifying information gathered during member registration is not sold to third parties. Home Branch is a secured site and requires a browser that supports 128-bit encryption.<br>
+							<strong>Online Mortgage Applications</strong><br>
+							All customer information is encrypted using Secured Socket Layer (SSL) technology supported with digital certificates provided by GeoTrust, Inc and requires a browser that supports 128-bit encryption. Applicants will need an Internet Explorer browser (Version 5.0 or greater) or Netscape Navigator browser (Version 6.0 or greater) to receive disclosures electronically. Access to a printer or the ability to download information in order to keep copies for personal records is necessary<br>
+							<br>
+							<br>
+							<b>Home Branch, e-Statements and Check Images</b><br>
+							Personal identifying information, excluding passwords, is collected when a member logs on to Home Branch. This information enables TFCU to regulate entry and to measure member usage. Any personal identifying information gathered during member registration is not sold to third parties. <a href="../HomeBranch/HomeBranchFAQ.html#1">Home Branch is a secured site and requires a browser that supports 128-bit encryption.</a> Macintosh computer users must use Mac OS X 10.1.x or Mac OS X 10.2.x or later, have at minimum a PowerPC 604e 266 MHz (Recommended: PowerPC G4 667MHz or greater), G3, G4, 64 MB RAM (Recommended: 256 MB RAM or greater), 72 MB hard drive space, using <a href="javascript:FireFox()">Mozilla Firefox 1.04 web browser</a> available free. e-Statements &amp; check images also require <a href="javascript:Macromedia()">Macromedia Flash Player.</a><br>
 							<br>
 							<br>
 							<b>e-mail</b><br>
-							
-							Personal information contained in e-mail sent by members and non-members may be used by TFCU staff to answer questions, to follow up on suggestions or complaints, or to improve the level of service TFCU provides. Please be advised that e-mail may not be secure against interception by unauthorized individuals. Therefore, if you wish to communicate sensitive or personal information, you may want to send it by postal mail.<br>
+								Personal information contained in e-mail sent by members and non-members may be used by TFCU staff to answer questions, to follow up on suggestions or complaints, or to improve the level of service TFCU provides. Please be advised that e-mail may not be secure against interception by unauthorized individuals. Therefore, if you wish to communicate sensitive or personal information, you may want to use our Web Chat feature or send your message by postal mail.<br>
 							<br>
 							<br>
 							<b>Cookies</b><br>
-							
-							TFCU currently uses cookies only in conjunction with Home Branch to estimate the number of users and the time of use. We do not link the information we receive from cookies with any other information, such as your name or address. We set these cookies when you enter the site and erase them when you leave the site.<br>
-							<br>If you have any questions about TFCU's Web site privacy policy, e-mail <a href="mailto:comments@tinkerfcu.org">comments@tinkerfcu.org</a>.<br>
+							We make use of cookies to track usage and compile statistics about our Web site and Home Branch, and during a Home Branch session to uniquely identify your information. Cookies are small files that are transferred to your computer’s hard drive through your Web browser. In the future, cookies may be used to allow members to set preferences and personalize our Web site. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.) However, a cookie is required in order to use Home Branch.<br>
+							<br>
+								If you have any questions about TFCU's Web site privacy policy, e-mail <a href="mailto:comments@tinkerfcu.org">comments@tinkerfcu.org</a>.<br>
 							<br>
 							<a name="MemberPrivacy"></a><br>
 							<img src="../Images/Privacy/MemberPrivacyPolicy.gif" width="279" height="27" border="0"><br>
 						</font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
 						</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#003366"><b>Notice of Your Financial Privacy Rights</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#006666"><b><i><br>
-								</i></b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
-							This is our privacy notice for our members. When we use the words "you" and "your" we mean the following types of members:<br>
+								</i></b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">This is our privacy notice for our members. When we use the words "you" and "your" we mean the following types of members:<br>
 						</font></p>
 					<table border="0" cellpadding="0" cellspacing="4" width="337">
 						<tbody><tr>
@@ -141,26 +328,21 @@
 						</tr>
 					</tbody></table>
 					<font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
-						
-							We will tell you the sources for nonpublic personal information we collect on our members. We will tell you what measures we take to secure that information.<br>
+						We will tell you the sources for nonpublic personal information we collect on our members. We will tell you what measures we take to secure that information.<br>
 						<br>
-						
-							We first define some terms.<br>
+						We first define some terms.<br>
 						<br>
 						<b>We</b>, <b>our</b>, and <b>us</b> means Tinker Federal Credit Union.<br>
 						<br>
 						<b>Nonpublic personal information</b> means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records.<br>
 						<br>
-						
-							An <b>affiliate</b> is a company we own or control.<br>
+						An <b>affiliate</b> is a company we own or control.<br>
 						<br>
-						
-							A <b>nonaffiliated third party</b> is a company that is not an affiliate of ours.<br>
+						A <b>nonaffiliated third party</b> is a company that is not an affiliate of ours.<br>
 						<br>
 						<br>
 					</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#003366"><b>The Information That We Collect</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#006666"><b><i><br>
-							</i></b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
-							We collect nonpublic personal information about you from the following sources:<br>
+							</i></b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">We collect nonpublic personal information about you from the following sources:<br>
 						<br>
 					</font>
 					<table border="0" cellpadding="0" cellspacing="4" width="337">
@@ -184,16 +366,13 @@
 					<br>
 					<font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
 					</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#003366"><b>The Confidentiality, Security, and Integrity of Your Nonpublic Personal Information</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#006666"><b><i><br>
-							</i></b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
-							We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.<br>
+							</i></b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.<br>
 						<br>
 						<br>
 					</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#003366"><b>Nonpublic Personal Information and Affiliates</b></font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#006666"><b><i><br>
-							</i></b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">
-							We may disclose nonpublic personal information about you. Here are the kinds of nonpublic personal information we may disclose to our affiliates:<br>
+							</i></b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">We may disclose nonpublic personal information about you. Here are the kinds of nonpublic personal information we may disclose to our affiliates:<br>
 						<br>
-						
-							Transaction and experience information from our account records:<br>
+						Transaction and experience information from our account records:<br>
 					</font>
 					<table border="0" cellpadding="0" cellspacing="4" width="337">
 						<tbody><tr>
@@ -214,8 +393,7 @@
 						</tr>
 					</tbody></table>
 					<font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
-						
-							Federal law allows us to disclose the information listed above with our affiliates. You do not have a right to opt out of the disclosure of this information.<br>
+						Federal law allows us to disclose the information listed above with our affiliates. You do not have a right to opt out of the disclosure of this information.<br>
 						<br>
 						<b>Types of Affiliates<br>
 						</b>We may disclose nonpublic personal information about you to the following types of affiliates:<br>
@@ -237,40 +415,36 @@
 					</tbody></table>
 					<br>
 					<font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><b>Reasons For Disclosure</b><br>
-						
-							Here is why we may disclose nonpublic personal information about you to our affiliates:<br>
+						Here is why we may disclose nonpublic personal information about you to our affiliates:<br>
 						<br>
 					</font>
 					<table border="0" cellpadding="0" cellspacing="4" width="337">
 						<tbody><tr>
 							<td width="5" align="left" valign="top">•</td>
-							<td width="320"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"> To provide our members with information about additional products and services</font></td>
+							<td width="320"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">To provide our members with information about additional products and services</font></td>
 						</tr>
 					</tbody></table>
 					<font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
 						<br>
 					</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#003366"><b>Nonpublic Personal Information and Nonaffiliated Third Parties<br>
 						</b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
-						
-							Since we value our member relationship with you, we will not disclose your nonpublic personal information to nonaffiliated third parties, except as permitted by law. This might include disclosures necessary to service your account, perform joint marketing or prevent unauthorized transactions.<br>
+						Since we value our member relationship with you, we will not disclose your nonpublic personal information to nonaffiliated third parties, except as permitted by law. This might include disclosures necessary to service your account, perform joint marketing or prevent unauthorized transactions.<br>
 						<br>
 						<br>
 					</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#003366"><b>Nonpublic Personal Information and Former Members<br>
 						</b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
-						
-							We do not disclose nonpublic personal information about former members, except as permitted by law.<br>
+						We do not disclose nonpublic personal information about former members, except as permitted by law.<br>
 						<br>
 						<br>
 					</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#003366"><b>Authorized Sharing Outside Marketing Services</b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" color="#003366"><br>
 					</font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
-						
-							We may disclose the following information to companies that perform marketing services on our behalf:<br>
+						We may disclose the following information to companies that perform marketing services on our behalf:<br>
 						<br>
 					</font>
 					<table border="0" cellpadding="0" cellspacing="4" width="337">
 						<tbody><tr>
 							<td width="5" align="left" valign="top">•</td>
-							<td width="320"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"> Nonpublic personal information we receive from you on an application or other forms, such as</font></td>
+							<td width="320"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Nonpublic personal information we receive from you on an application or other forms, such as</font></td>
 						</tr>
 						<tr>
 							<td width="5" align="left" valign="top">•</td>
@@ -294,8 +468,7 @@
 						</tr>
 					</tbody></table>
 					<font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
-						
-							Federal law allows us to disclose the information listed above with companies that perform marketing services on our behalf. You do not have a right to opt out of the disclosure of this information. We may also disclose nonpublic personal information about you to nonaffiliated third parties as permitted by law.<br>
+						Federal law allows us to disclose the information listed above with companies that perform marketing services on our behalf. You do not have a right to opt out of the disclosure of this information. We may also disclose nonpublic personal information about you to nonaffiliated third parties as permitted by law.<br>
 						<br>
 						<b>Types of Businesses<br>
 						</b>Here are the types of businesses with whom we may disclose nonpublic personal information for outside marketing purposes:<br>
@@ -312,8 +485,7 @@
 					</tbody></table>
 					<font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
 						<b>Reasons For Disclosing</b><br>
-						
-							Here is why we may disclose nonpublic personal information about you to companies that perform marketing services on our behalf:<br>
+						Here is why we may disclose nonpublic personal information about you to companies that perform marketing services on our behalf:<br>
 						<br>
 					</font>
 					<table border="0" cellpadding="0" cellspacing="4" width="337">
@@ -324,8 +496,7 @@
 					</tbody></table>
 					<font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
 						<b>Limitations on Disclosure</b><br>
-						
-							Here are the limitations we impose on the use of nonpublic personal information disclosed to companies that perform marketing services on our behalf:<br>
+						Here are the limitations we impose on the use of nonpublic personal information disclosed to companies that perform marketing services on our behalf:<br>
 						<br>
 					</font>
 					<table border="0" cellpadding="0" cellspacing="4" width="337">
@@ -338,8 +509,7 @@
 						<br>
 					</font><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#003366"><b>Authorized Sharing - Joint Marketing</b></font><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
 						<br>
-						
-							We may disclose the following information to other financial institutions with whom we have joint marketing agreements:<br>
+						We may disclose the following information to other financial institutions with whom we have joint marketing agreements:<br>
 						<br>
 					</font>
 					<table border="0" cellpadding="0" cellspacing="4" width="337">
@@ -355,14 +525,13 @@
 							<td width="5" align="left" valign="top">•</td>
 							<td width="320"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Address</font></td>
 						</tr>
-						<tr>
-							<td width="5" valign="top" align="left">•</td>
-							<td width="320"><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular">Account number</font></td>
-						</tr>
 					</tbody></table>
 					<font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
-						
-							Federal law allows us to disclose the information listed above with other financial institutions with whom we have joint marketing agreements. You do not have a right to opt out of the disclosure of this information. We may also disclose nonpublic personal information about you to nonaffiliated third parties as permitted by law.<br>
+						Federal law allows us to disclose the information listed above with other financial institutions with whom we have joint marketing agreements. You do not have a right to opt out of the disclosure of this information. We may also disclose nonpublic personal information about you to nonaffiliated third parties as permitted by law.<br>
+						<br>
+						<b>State Limitations</b><br>
+						AL, AK, ID, ND and VT — We will not share this information about members who reside in Alabama, Alaska, Idaho, North Dakota or Vermont.<br>
+						MA, MS and NJ — We will not share any information derived from share relationships with us about members who reside in Massachusetts, Mississippi or New Jersey.<br>
 						<br>
 						<b>Types of Businesses.<br>
 						</b>Here are the types of businesses with whom we may disclose nonpublic personal information under this section<br>
@@ -380,8 +549,7 @@
 					</tbody></table>
 					<font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><br>
 						<b>Reasons For Disclosing</b><br>
-						
-							Here is why we may disclose nonpublic personal information about you to other financial institutions with whom we have joint marketing agreements:<br>
+						Here is why we may disclose nonpublic personal information about you to other financial institutions with whom we have joint marketing agreements:<br>
 						<br>
 					</font>
 					<table border="0" cellpadding="0" cellspacing="4" width="337">
@@ -398,261 +566,14 @@
 					</font></td>
 				<td width="134">
 					<div align="center">
-						<p><img src="../Images/Privacy/BHL909Cover.jpg" width="134" height="337" border="0"></p>
+						<p><img src="../Images/Privacy/BHL909Cover.jpg" width="134" height="337" border="0"><br>
+							<br>
+							<script src="https://seal.verisign.com/getseal?host_name=www.tinkerfcu.org&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES"></script>
+						</p>
 					</div>
 				</td>
 			</tr>
 		</tbody></table>
-
-<!---------------------------------------- Pulldown Menu Definitions ---------------------------------------->
-<noscript>
-<table border="0" height="1" width="1">
-<tr><td>
-</noscript>
-
-	<div id="mousetrap">
-	<a href="#" onmouseover="javascript:ns5hidemenu()">
-	<img src="../Images/Membership/Blank.gif" width="425" height="50" alt="" border="0"></a>
-	</div> 
-
-    <div id="menu1" style="visibility: visible;"><a href="../Membership/Membership.html" onmouseover="showmenu(1)" onmouseout="hidemenu(1,event)">
-    <img src="../Images/Membership/MembershipMenuItemOff.gif" name="m1" alt="" border="0" width="83" height="21"></a>
-    </div>
-    
-    <div id="menu2" style="visibility: visible;"><a href="../Loans/Loans.html" onmouseover="showmenu(2)" onmouseout="hidemenu(2,event)">
-    <img src="../Images/Loans/LoansMenuItemOff.gif" name="m2" alt="" border="0" width="44" height="21"></a>
-    </div>
-    
-    <div id="menu3" style="visibility: visible;"><a href="../Savings/Savings.html" onmouseover="showmenu(3)" onmouseout="hidemenu(3,event)">
-    <img src="../Images/Savings/SavingsMenuItemOff.gif" name="m3" alt="" border="0" width="56" height="21"></a>
-    </div>
-    
-    <div id="menu4" style="visibility: visible;"><a href="../Checking/Checking.html" onmouseover="showmenu(4)" onmouseout="hidemenu(4,event)">
-    <img src="../Images/Checking/CheckingMenuItemOff.gif" name="m4" alt="" border="0" width="62" height="21"></a>
-    </div>
-
-    <div id="menu5" style="visibility: visible;"><a href="../Kids/Kids.html" onmouseover="showmenu(5)" onmouseout="hidemenu(5,event)">
-    <img src="../Images/Kids/KidsMenuItemOff.gif" name="m5" alt="" border="0" width="36" height="21"></a>
-    </div>
-    
-    <div id="menu6" style="visibility: visible;"><a href="../Employment/Employment.html" onmouseover="showmenu(6)" onmouseout="hidemenu(6,event)">
-    <img src="../Images/Employment/EmploymentMenuItemOff.gif" name="m6" alt="" border="0" width="81" height="21"></a>
-    </div>
-    
-    <div id="mdrop1"><img src="../Images/Membership/MembershipMenuOff.gif" width="120" height="49" alt="" border="0"></div>
-    
-    <div id="mdrop2"><img src="../Images/Loans/LoansMenuOff.gif" width="118" height="218" alt="" border="0"></div>
-    
-    <div id="mdrop3"><img src="../Images/Savings/SavingsMenuOff.gif" width="125" height="127" alt="" border="0"></div>
-    
-    <div id="mdrop4"><img src="../Images/Checking/CheckingMenuOff.gif" width="133" height="101" alt="" border="0"></div>
-    
-    <div id="mdrop5"><img src="../Images/Kids/KidsMenuOff.gif" width="126" height="23" alt="" border="0"></div>
-    
-    <div id="mdrop6"><img src="../Images/Employment/EmploymentMenuOff.gif" width="85" height="62" alt="" border="0"></div>
-      
-<!--- MEMBERSHIP PULLDOWN MENU ----------------------->
-<!--- EVENT HANDLER FOR INTERNET EXPLORER BROWSERS --->
-	  <div id="mitems1" onmouseout="iehidemenu(1)">
-
-<!-- This is event handler for IE browsers -->
-      <img src="../Images/Membership/Blank.gif" name="m1item1" width="120" height="5" alt="" border="0"><br>
-      
-      <a href="../Membership/About.html" onmouseover="if(initialized)swapimage('m1item2','../Images/Membership/MenuAboutTFCUOn.gif','mitems1')" onmouseout="if(initialized)swapimage('m1item2','../Images/Membership/Blank.gif','mitems1')">
-      <img src="../Images/Membership/Blank.gif" name="m1item2" width="120" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Membership/Joining.html" onmouseover="if(initialized)swapimage('m1item3','../Images/Membership/MenuJoiningOn.gif','mitems1')" onmouseout="if(initialized)swapimage('m1item3','../Images/Membership/Blank.gif','mitems1')">
-      <img src="../Images/Membership/Blank.gif" name="m1item3" width="120" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Membership/Offering.html" onmouseover="if(initialized)swapimage('m1item4','../Images/Membership/MenuOfferingOn.gif','mitems1')" onmouseout="if(initialized)swapimage('m1item4','../Images/Membership/Blank.gif','mitems1')">
-      <img src="../Images/Membership/Blank.gif" name="m1item4" width="120" height="13" alt="" border="0"></a><br>
-      
-      
-<!--- EVENT HANDLER FOR NETSCAPE BROWSERS ------------>
-      <script language="JavaScript">  
-		if(navigator.appName == "Netscape")
-		mitems1.onmouseout = nshidemenus;
-	  </script>
-      </div>
-      
-<!--- LOANS PULLDOWN MENU ---------------------------->
-<!--- EVENT HANDLER FOR INTERNET EXPLORER BROWSERS --->
-	  <div id="mitems2" onmouseout="iehidemenu(2)">
-
-      <img src="../Images/Loans/Blank.gif" name="m2item1" width="118" height="5" alt="" border="0"><br>
-      
-      <a href="javascript:LoanCalculator()" ;return="" true="" onmouseover="if(initialized)swapimage('m2item2','../Images/Loans/LoansCalculator.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item2','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item2" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Loans/RatesAndDisclosures.html" onmouseover="if(initialized)swapimage('m2item3','../Images/Loans/LoansRatesAndDisclose.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item3','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item3" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Loans/Applications.html" onmouseover="if(initialized)swapimage('m2item4','../Images/Loans/LoansApplication.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item4','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item4" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Loans/Afford.html" onmouseover="if(initialized)swapimage('m2item5','../Images/Loans/LoansAfford.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item5','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item5" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Loans/Preapproval.html" onmouseover="if(initialized)swapimage('m2item6','../Images/Loans/LoansPreapproval.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item6','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item6" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Loans/VehicleLoans.html" onmouseover="if(initialized)swapimage('m2item7','../Images/Loans/LoansVehicle.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item7','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item7" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Loans/RVAndBoatLoans.html" onmouseover="if(initialized)swapimage('m2item8','../Images/Loans/LoansRVAndBoat.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item8','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item8" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Loans/MotorcycleLoans.html" onmouseover="if(initialized)swapimage('m2item9','../Images/Loans/LoansMotorcycle.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item9','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item9" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Loans/SecuredLoans.html" onmouseover="if(initialized)swapimage('m2item10','../Images/Loans/LoansSecured.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item10','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item10" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Loans/SignatureLoans.html" onmouseover="if(initialized)swapimage('m2item11','../Images/Loans/LoansSignature.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item11','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item11" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Loans/LineOfCredit.html" onmouseover="if(initialized)swapimage('m2item12','../Images/Loans/LoansLineOfCredit.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item12','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item12" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Loans/CreditCards.html" onmouseover="if(initialized)swapimage('m2item13','../Images/Loans/LoansCreditCard.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item13','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item13" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Loans/StudentLoans.html" onmouseover="if(initialized)swapimage('m2item14','../Images/Loans/LoansStudent.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item14','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item14" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Loans/HomeLoans.html" onmouseover="if(initialized)swapimage('m2item15','../Images/Loans/LoansHome.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item15','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item15" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Loans/HomeEquityLoans.html" onmouseover="if(initialized)swapimage('m2item16','../Images/Loans/LoansHomeEquity.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item16','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item16" width="118" height="13" alt="" border="0"></a><br>
-      
-      <a href="../ConvenienceServices/PayrollDeduction.html" onmouseover="if(initialized)swapimage('m2item17','../Images/Loans/LoansPayrollDeduction.gif','mitems2')" onmouseout="if(initialized)swapimage('m2item17','../Images/Loans/Blank.gif','mitems2')">
-      <img src="../Images/Loans/Blank.gif" name="m2item17" width="118" height="13" alt="" border="0"></a><br>      
-                       
-<!--- EVENT HANDLER FOR NETSCAPE BROWSERS ------------>
-      <script language="JavaScript">
-		if(navigator.appName == "Netscape")
-		mitems2.onmouseout = nshidemenus;
-	  </script>
-      </div>
-      
-<!--- SAVINGS PULLDOWN MENU -------------------------->
-<!--- EVENT HANDLER FOR INTERNET EXPLORER BROWSERS --->
-      <div id="mitems3" onmouseout="iehidemenu(3)">
-      
-      <img src="../Images/Savings/Blank.gif" name="m3item1" width="125" height="5" alt="" border="0"><br>
-      
-      <a href="../Savings/Share.html" onmouseover="if(initialized)swapimage('m3item2','../Images/Savings/SavingsShare.gif','mitems3')" onmouseout="if(initialized)swapimage('m3item2','../Images/Savings/Blank.gif','mitems3')">
-      <img src="../Images/Savings/Blank.gif" name="m3item2" width="125" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Savings/CommandFund.html" onmouseover="if(initialized)swapimage('m3item3','../Images/Savings/SavingsCommandFund.gif','mitems3')" onmouseout="if(initialized)swapimage('m3item3','../Images/Savings/Blank.gif','mitems3')">
-      <img src="../Images/Savings/Blank.gif" name="m3item3" width="125" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Savings/PremiumPlus.html" onmouseover="if(initialized)swapimage('m3item4','../Images/Savings/SavingsPremiumPlus.gif','mitems3')" onmouseout="if(initialized)swapimage('m3item4','../Images/Savings/Blank.gif','mitems3')">
-      <img src="../Images/Savings/Blank.gif" name="m3item4" width="125" height="13" alt="" border="0"></a><br>
-
-      <a href="../Savings/ShareCertAndIRACert.html" onmouseover="if(initialized)swapimage('m3item5','../Images/Savings/SavingsShareAndIRA.gif','mitems3')" onmouseout="if(initialized)swapimage('m3item5','../Images/Savings/Blank.gif','mitems3')">
-      <img src="../Images/Savings/Blank.gif" name="m3item5" width="125" height="26" alt="" border="0"></a><br>
-
-      <a href="../Savings/ChristmasClub.html" onmouseover="if(initialized)swapimage('m3item6','../Images/Savings/SavingsChristmasClub.gif','mitems3')" onmouseout="if(initialized)swapimage('m3item6','../Images/Savings/Blank.gif','mitems3')">
-      <img src="../Images/Savings/Blank.gif" name="m3item6" width="125" height="13" alt="" border="0"></a><br>
-                              
-      <a href="../Kids/KidsClub.html" onmouseover="if(initialized)swapimage('m3item7','../Images/Savings/SavingsMoolaMoola.gif','mitems3')" onmouseout="if(initialized)swapimage('m3item7','../Images/Savings/Blank.gif','mitems3')">
-      <img src="../Images/Savings/Blank.gif" name="m3item7" width="125" height="13" alt="" border="0"></a><br>
-      
-      <a href="../ConvenienceServices/PayrollDeduction.html" onmouseover="if(initialized)swapimage('m3item8','../Images/Savings/SavingsPayrollDeduction.gif','mitems3')" onmouseout="if(initialized)swapimage('m3item8','../Images/Savings/Blank.gif','mitems3')">
-      <img src="../Images/Savings/Blank.gif" name="m3item8" width="125" height="13" alt="" border="0"></a><br>
-      
-      <a href="../ConvenienceServices/YourInsuredFunds.html" onmouseover="if(initialized)swapimage('m3item9','../Images/Savings/SavingsInsuredFunds.gif','mitems3')" onmouseout="if(initialized)swapimage('m3item9','../Images/Savings/Blank.gif','mitems3')">
-      <img src="../Images/Savings/Blank.gif" name="m3item9" width="125" height="13" alt="" border="0"></a><br>
-                             
-<!--- EVENT HANDLER FOR NETSCAPE BROWSERS ------------>
-      <script language="JavaScript">
-		if(navigator.appName == "Netscape")
-		mitems3.onmouseout = nshidemenus;
-	  </script>
-      </div>
-      
-<!--- CHECKING PULLDOWN MENU ------------------------->      
-<!--- EVENT HANDLER FOR INTERNET EXPLORER BROWSERS --->
-      <div id="mitems4" onmouseout="iehidemenu(4)">
-      
-<!--- EVENT HANDLER FOR INTERNET EXPLORER BROWSERS --->
-	  <img src="../Images/Checking/Blank.gif" name="m4item1" width="133" height="5" alt="" border="0"><br>
-	  
-	  <a href="../Checking/OrderChecks.html" onmouseover="if(initialized)swapimage('m4item2','../Images/Checking/CheckingOrderChecks.gif','mitems4')" onmouseout="if(initialized)swapimage('m4item2','../Images/Checking/Blank.gif','mitems4')">
-      <img src="../Images/Checking/Blank.gif" name="m4item2" width="133" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Checking/CheckMyBalance.html" onmouseover="if(initialized)swapimage('m4item3','../Images/Checking/CheckingBalance.gif','mitems4')" onmouseout="if(initialized)swapimage('m4item3','../Images/Checking/Blank.gif','mitems4')">
-      <img src="../Images/Checking/Blank.gif" name="m4item3" width="133" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Checking/PrintMyAccountHist.html" onmouseover="if(initialized)swapimage('m4item4','../Images/Checking/CheckingPrintMyHistory.gif','mitems4')" onmouseout="if(initialized)swapimage('m4item4','../Images/Checking/Blank.gif','mitems4')">
-      <img src="../Images/Checking/Blank.gif" name="m4item4" width="133" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Checking/AddedBenefits.html" onmouseover="if(initialized)swapimage('m4item5','../Images/Checking/CheckingOptions.gif','mitems4')" onmouseout="if(initialized)swapimage('m4item5','../Images/Checking/Blank.gif','mitems4')">
-      <img src="../Images/Checking/Blank.gif" name="m4item5" width="133" height="13" alt="" border="0"></a><br>
-      
-	  <a href="../Checking/OverdraftProtection.html" onmouseover="if(initialized)swapimage('m4item6','../Images/Checking/CheckingOverdraftProtection.gif','mitems4')" onmouseout="if(initialized)swapimage('m4item6','../Images/Checking/Blank.gif','mitems4')">
-      <img src="../Images/Checking/Blank.gif" name="m4item6" width="133" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Checking/DirectDeposit.html" onmouseover="if(initialized)swapimage('m4item7','../Images/Checking/CheckingDirectDeposit.gif','mitems4')" onmouseout="if(initialized)swapimage('m4item7','../Images/Checking/Blank.gif','mitems4')">
-      <img src="../Images/Checking/Blank.gif" name="m4item7" width="133" height="13" alt="" border="0"></a><br>
-      
-      <a href="../ConvenienceServices/YourInsuredFunds.html" onmouseover="if(initialized)swapimage('m4item8','../Images/Checking/CheckingYourInsuredFunds.gif','mitems4')" onmouseout="if(initialized)swapimage('m4item8','../Images/Checking/Blank.gif','mitems4')">
-      <img src="../Images/Checking/Blank.gif" name="m4item8" width="133" height="13" alt="" border="0"></a><br>
-
-      
-<!--- EVENT HANDLER FOR NETSCAPE BROWSERS ------------>
-      <script language="JavaScript">  
-		if(navigator.appName == "Netscape")
-		mitems4.onmouseout = nshidemenus;
-	  </script>
-	</div>
-	
-<!--- KIDS PULLDOWN MENU ----------------------------->
-<!--- EVENT HANDLER FOR INTERNET EXPLORER BROWSERS --->
-      <div id="mitems5" onmouseout="iehidemenu(5)">
-      
-<!-- This is event handler for IE browsers -->
-      <img src="../Images/Kids/Blank.gif" name="m5item1" width="126" height="5" alt="" border="0"><br>
-      
-      <a href="../Kids/KidsClub.html" onmouseout="if(initialized)swapimage('m5item2','../Images/Kids/Blank.gif','mitems5')" onmouseover="if(initialized)swapimage('m5item2','../Images/Kids/KidsMoolaMoolaOn.gif','mitems5')">
-      <img src="../Images/Kids/Blank.gif" name="m5item2" width="126" height="12" alt="" border="0"></a><br>
-      
-<!--- EVENT HANDLER FOR NETSCAPE BROWSERS ------------>
-      <script language="JavaScript">  
-		if(navigator.appName == "Netscape")
-		mitems5.onmouseout = nshidemenus;
-	  </script>
-      </div>
-		
-<!--- EMPLOYMENT PULLDOWN MENU ----------------------->
-<!--- EVENT HANDLER FOR INTERNET EXPLORER BROWSERS --->
-      <div id="mitems6" onmouseout="iehidemenu(6)">
-      
-<!-- This is event handler for IE browsers -->
-	  <img src="../Images/Employment/Blank.gif" name="m6item1" width="85" height="5" alt="" border="0"><br>
-      
-      <a href="../Employment/TFCUTeam.html" onmouseout="if(initialized)swapimage('m6item2','../Images/Employment/Blank.gif','mitems6')" onmouseover="if(initialized)swapimage('m6item2','../Images/Employment/EmploymentTFCUTeam.gif','mitems6')">
-      <img src="../Images/Employment/Blank.gif" name="m6item2" width="85" height="13" alt="" border="0"></a><br>
-      
-      <a href="../Employment/Jobs.html" onmouseout="if(initialized)swapimage('m6item3','../Images/Employment/Blank.gif','mitems6')" onmouseover="if(initialized)swapimage('m6item3','../Images/Employment/EmploymentJobs.gif','mitems6')">
-      <img src="../Images/Employment/Blank.gif" name="m6item3" width="85" height="13" alt="" border="0"></a><br>
-      
-      <a href="https://mmm2671.sbc-webhosting.com/tinke2/secure-web/employment/application.php" onmouseout="if(initialized)swapimage('m6item4','../Images/Employment/Blank.gif','mitems6')" onmouseover="if(initialized)swapimage('m6item4','../Images/Employment/EmploymentApplication.gif','mitems6')">
-      <img src="../Images/Employment/Blank.gif" name="m6item4" width="85" height="26" alt="" border="0"></a><br>
-      
-<!--- EVENT HANDLER FOR NETSCAPE BROWSERS ------------>
-      <script language="JavaScript">  
-		if(navigator.appName == "Netscape")
-		mitems6.onmouseout = nshidemenus;
-	  </script>
-      </div>
-
-
-<noscript></td></tr></noscript>
-<!--- END INCOMPLETE TABLE FOR CODE HIDING ----------->
-		
 		
 		
 	
