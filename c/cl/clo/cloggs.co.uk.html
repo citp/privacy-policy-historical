@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the cloggs.co.uk privacy policy that was archived on 2006-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060614071557id_/http%3A//www.cloggs.co.uk/page/securityprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cloggs.co.uk privacy policy that was archived on 2006-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061005111832id_/http%3A//www.cloggs.co.uk/page/security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-	<title>security &amp; privacy</title>
+	<title>Security and Privacy</title>
 	
-<meta name="Description" content="security &amp; privacy">
+<meta name="Description" content="Security and Privacy">
 <meta name="Keywords" content="">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link rel="stylesheet" href="http://www.cloggs.co.uk/content/ebiz/cloggs/images/css/cloggs.css" type="text/css">
@@ -26,7 +26,7 @@
 				<tbody><tr valign="top">
 					<td valign="middle"><a href="http://www.cloggs.co.uk/page/home"><img align="absmiddle" src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/newcloggslogo3-3-2-06.gif" alt="cloggs.co.uk" border="0"></a></td>
 					<td width="490" align="center"><!--img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" alt="" width="10" height="10" align="absmiddle"-->
-<a href="" target="_blank"></a><a href="http://www.cloggs.co.uk/icat/kidsbrd&amp;source=cloggs_topbanner"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/stry/topbanner/kids_topbanner.gif" width="425" height="60" border="0"></a>
+<a href="" target="_blank"></a><a href="http://www.cloggs.co.uk/icat/brdftwrcrocs&amp;source=cloggs_topbanner"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/stry/topbanner/crocs_home_topbanner.jpg" width="425" height="60" border="0"></a>
 </td>
 				</tr>
 			</tbody></table>
@@ -59,13 +59,13 @@ var currcat = '';
 		</script><td align="center" width="76" style="height:17px" background="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_menu.gif"><a href="http://www.cloggs.co.uk/page/home" class="navlink">HOME</a></td>
 		
 		<script language="JavaScript">
-		if (currcat=='rotateandzoom'){
-			document.write("<td align='center' width='76' style='height:17px' background='http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_menu_d.gif'><a href='http://www.cloggs.co.uk/icat/rotateandzoom' class='navlink'>360&Zoom</a></td>");
+		if (currcat=='whatsnew'){
+			document.write("<td align='center' width='76' style='height:17px' background='http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_menu_d.gif'><a href='http://www.cloggs.co.uk/icat/whatsnew' class='navlink'>New In</a></td>");
 		}
 		else {
-			document.write("<td align='center' width='76' style='height:17px' background='http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_menu.gif'><a href='http://www.cloggs.co.uk/icat/rotateandzoom' class='navlink'>360&Zoom</a></td>");
+			document.write("<td align='center' width='76' style='height:17px' background='http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_menu.gif'><a href='http://www.cloggs.co.uk/icat/whatsnew' class='navlink'>New In</a></td>");
 		}
-		</script><td align="center" width="76" style="height:17px" background="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_menu.gif"><a href="http://www.cloggs.co.uk/icat/rotateandzoom" class="navlink">360&amp;Zoom</a></td>
+		</script><td align="center" width="76" style="height:17px" background="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_menu.gif"><a href="http://www.cloggs.co.uk/icat/whatsnew" class="navlink">New In</a></td>
 
 		<script language="JavaScript">
 		if (currcat=='men'){
@@ -118,7 +118,7 @@ var currcat = '';
 		<td width="7"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" alt="" width="7" height="22"></td>
 		<td width="558"><p><a href="http://www.cloggs.co.uk/page/home" class="greylink">Home</a>
 
-&nbsp;&gt;&nbsp;<span class="greylink">Help Desk</span>&nbsp;&gt;&nbsp;security &amp; privacy</p>
+&nbsp;&gt;&nbsp;<span class="greylink">About Us</span>&nbsp;&gt;&nbsp;Security and Privacy</p>
 </td>
 		<td width="180" align="right">
 	
@@ -153,12 +153,14 @@ var currcat = '';
 	<input type="hidden" name="searchinvt" value="1">
 	<input type="hidden" name="searchlike" value="1">
 	<input type="hidden" name="itemsperpage" value="10">
-	<input type="hidden" name="srchopt" value="filtercat,pricerange">
-	<input type="hidden" name="carryfields" value="filtercat,pricerange">
+	<input type="hidden" name="srchopt" value="filtercat,pricerange,N">
+	<input type="hidden" name="carryfields" value="filtercat,pricerange,N">
 	<input type="hidden" name="ARG_DEFAULTOP" value="AND">
 	<script>
 		function setOptions(chosen) {
 		var selbox = document.search.filtercat;
+		var sizebox = document.search.N;	
+		sizebox.options.length = 0;	
 		selbox.options.length = 0;
 		if (chosen == "") {
 		  selbox.options[selbox.options.length] = new Option('All','');
@@ -167,12 +169,17 @@ var currcat = '';
 
 if (chosen == "brdftwr") {
   
-selbox.options[selbox.options.length] = new Option("Buy Dr Martens Online Here","brdftwrdrmt");selbox.options[selbox.options.length] = new Option("Buy New Rock Boots and Shoes Online Here","brndftwrnewrockcats");selbox.options[selbox.options.length] = new Option("Buy Converse All Stars Online Here","brdftwrconverse");selbox.options[selbox.options.length] = new Option("Ugg® Australia Boots - Buy Ugg® Australia Online Here","brdftwrugg");selbox.options[selbox.options.length] = new Option("Skechers - Buy Skechers Online Here","brdftwrskecherscats");selbox.options[selbox.options.length] = new Option("Rocket Dog - Buy Rocket Dog Ladies Shoes Online Here","brdftwrrocketdog");selbox.options[selbox.options.length] = new Option("Buy Rockport Shoes Online Here","brdftwrrockport");selbox.options[selbox.options.length] = new Option("RanchHouse - Buy Western Boots Online Here","brdftwrranchhouse");selbox.options[selbox.options.length] = new Option("Sancho Boots - Buy Western Boots Online Here","brdftwrsancho");selbox.options[selbox.options.length] = new Option("Buy TUK Footwear Online Here","brdftwrtuk");selbox.options[selbox.options.length] = new Option("Vans - Buy Vans Skate Shoes Online","brdftwrvans");selbox.options[selbox.options.length] = new Option("Dunlop Green Flash - Buy Dunlop Green Flash Shoes Online Here","brdftwrdunlop");selbox.options[selbox.options.length] = new Option("Buy Merrell Footwear Online Here","brdftwrmerrell");selbox.options[selbox.options.length] = new Option("Gola - Buy Gola Footwear Online Here","brdftwrgolacats");selbox.options[selbox.options.length] = new Option("Underground - Buy Underground Boots Online Here","brdftwrundergroundcats");selbox.options[selbox.options.length] = new Option("Buy Ben Sherman Shoes Online Here","brdftwrbensherman");selbox.options[selbox.options.length] = new Option("Buy Levi's® Red Tab® Shoes Online Here","brdftwrlevis");selbox.options[selbox.options.length] = new Option("Buy Reebok Trainers Online Here","brdftwrreebok");selbox.options[selbox.options.length] = new Option("Golddigga - Buy Golddigga Shoes Online Here","brdftwrgolddigga");selbox.options[selbox.options.length] = new Option("Swear - Buy Swear Footwear Online Here","brdftwrswear");selbox.options[selbox.options.length] = new Option("Ikon - Buy Ikon Shoes Online Here","brdftwrikon");selbox.options[selbox.options.length] = new Option("Buy George Cox Shoes Online Here","brdftwrgeorgecox");selbox.options[selbox.options.length] = new Option("Toffeln Clogs - Buy Clogs Online Here","brdftwrtoffeln");selbox.options[selbox.options.length] = new Option("Ikö Clogs","brdftwriko");selbox.options[selbox.options.length] = new Option("Babycham Shoes","brdftwrbabycham");selbox.options[selbox.options.length] = new Option("KangaROOS Shoes","brdftwrkangaroo");
+selbox.options[selbox.options.length] = new Option("Dr Martens - Buy Dr Martens Online Here","brdftwrdrmt");selbox.options[selbox.options.length] = new Option("New Rock Boots - Buy New Rock Boots and Shoes Online Here","brndftwrnewrockcats");selbox.options[selbox.options.length] = new Option("Converse All Stars - Buy Converse All Stars Online Here","brdftwrconverse");selbox.options[selbox.options.length] = new Option("Ugg® Australia Boots - Buy Ugg® Australia Online Here","brdftwrugg");selbox.options[selbox.options.length] = new Option("Crocs - Buy Crocs Online Here","brdftwrcrocs");selbox.options[selbox.options.length] = new Option("Skechers - Buy Skechers Online Here","brdftwrskecherscats");selbox.options[selbox.options.length] = new Option("Rocket Dog - Buy Rocket Dog Ladies Shoes Online Here","brdftwrrocketdog");selbox.options[selbox.options.length] = new Option("Firetrap Shoes - Buy Firetrap Shoes Online Here","brdftwrfiretrap");selbox.options[selbox.options.length] = new Option("Rockport Boots - Buy Rockport Boots and Shoes Online Here","brdftwrrockport");selbox.options[selbox.options.length] = new Option("Sergio Tacchini - Buy Sergio Tacchini Footwear Online Here","brdftwrsergiotacchini");selbox.options[selbox.options.length] = new Option("RanchHouse - Buy Western Boots Online Here","brdftwrranchhouse");selbox.options[selbox.options.length] = new Option("Sancho Boots - Buy Western Boots Online Here","brdftwrsancho");selbox.options[selbox.options.length] = new Option("TUK Shoes and Creepers - Buy TUK Footwear Online Here","brdftwrtuk");selbox.options[selbox.options.length] = new Option("Vans - Buy Vans Skate Shoes Online","brdftwrvans");selbox.options[selbox.options.length] = new Option("Duffs - Buy Duffs Skate Trainers Online Here","brdftwrduffs");selbox.options[selbox.options.length] = new Option("Dunlop Green Flash - Buy Dunlop Green Flash Shoes Online Here","brdftwrdunlop");selbox.options[selbox.options.length] = new Option("Merrell - Buy Merrell Footwear Online Here","brdftwrmerrell");selbox.options[selbox.options.length] = new Option("Gola - Buy Gola Footwear Online Here","brdftwrgolacats");selbox.options[selbox.options.length] = new Option("Underground - Buy Underground Boots Online Here","brdftwrundergroundcats");selbox.options[selbox.options.length] = new Option("Ben Sherman - Buy Ben Sherman Shoes Online Here","brdftwrbensherman");selbox.options[selbox.options.length] = new Option("Levi's® Red Tab® Shoes - Buy Levi's® Red Tab® Shoes Online Here","brdftwrlevis");selbox.options[selbox.options.length] = new Option("Reebok Trainers - Buy Reebok Trainers Online Here","brdftwrreebok");selbox.options[selbox.options.length] = new Option("Golddigga - Buy Golddigga Shoes Online Here","brdftwrgolddigga");selbox.options[selbox.options.length] = new Option("Swear - Buy Swear Footwear Online Here","brdftwrswear");selbox.options[selbox.options.length] = new Option("Ikon - Buy Ikon Shoes Online Here","brdftwrikon");selbox.options[selbox.options.length] = new Option("George Cox - Buy George Cox Shoes Online Here","brdftwrgeorgecox");selbox.options[selbox.options.length] = new Option("Toffeln Clogs - Buy Clogs Online Here","brdftwrtoffeln");selbox.options[selbox.options.length] = new Option("Ikö Clogs","brdftwriko");selbox.options[selbox.options.length] = new Option("Babycham Shoes","brdftwrbabycham");selbox.options[selbox.options.length] = new Option("KangaROOS Shoe - Buy KangaROOS Shoes Online Here","brdftwrkangaroo");selbox.options[selbox.options.length] = new Option("P F Flyers - Buy P F Flyers Online Here","brdftwrpfflyers");
 }
 
 if (chosen == "brdjns") {
   
-selbox.options[selbox.options.length] = new Option("Buy Levi's® Jeans Online Here","brdjnslevis");selbox.options[selbox.options.length] = new Option("Wrangler Jeans - Buy Wrangler Jeans Online Here","brdjnswrangler");selbox.options[selbox.options.length] = new Option("Lee Jeans - Buy Lee Jeans Online Here","brdjnslee");selbox.options[selbox.options.length] = new Option("Buy Pepe Jeans Online Here","brdjnspepe");selbox.options[selbox.options.length] = new Option("Gas Jeans - Buy Gas Jeans Online Here ","brdjnsgas");selbox.options[selbox.options.length] = new Option("Diesel® Jeans - Buy Diesel® Jeans Online Here","brdjnsdiesel");
+selbox.options[selbox.options.length] = new Option("Levi's® Red Tab® Jeans - Buy Levi's® Jeans Online Here","brdjnslevis");selbox.options[selbox.options.length] = new Option("Wrangler Jeans - Buy Wrangler Jeans Online Here","brdjnswrangler");selbox.options[selbox.options.length] = new Option("Lee Jeans - Buy Lee Jeans Online Here","brdjnslee");selbox.options[selbox.options.length] = new Option("Pepe Jeans - Buy Pepe Jeans Online Here","brdjnspepe");selbox.options[selbox.options.length] = new Option("Gas Jeans - Buy Gas Jeans Online Here ","brdjnsgas");selbox.options[selbox.options.length] = new Option("Converse Jeans - Buy Converse Jeans Online Here","brdjnsconverse");
+}
+
+if (chosen == "brdsun") {
+  
+selbox.options[selbox.options.length] = new Option("Oakley Sun Glasses - Buy Oakley Online Here","brdsunoakley");selbox.options[selbox.options.length] = new Option("Bolle Sunglasses - Buy Bolle Sunglasses Online Here","brdsunbolle");
 }
 
 if (chosen == "brdjack") {
@@ -182,7 +189,7 @@ selbox.options[selbox.options.length] = new Option("Levis® Jackets - Buy Levis�
 
 if (chosen == "brdtop") {
   
-selbox.options[selbox.options.length] = new Option("New Rock Corsets","brdtopnewrock");selbox.options[selbox.options.length] = new Option("Levi's® T-Shirts - Buy Levi's® T-Shirts from Levi Strauss","brdtoplevis");selbox.options[selbox.options.length] = new Option("Wrangler Tees and Tops","brdtopwrnglr");selbox.options[selbox.options.length] = new Option("Lee Tees and Tops","brdtoplee");selbox.options[selbox.options.length] = new Option("Pepe","brdtoppepe");selbox.options[selbox.options.length] = new Option("Gas T-Shirts - Buy Gas T-shirts and Tops Online Here ","brdtopgas");selbox.options[selbox.options.length] = new Option("Emily Strange","brdtopsemilystrange");selbox.options[selbox.options.length] = new Option("Diesel® T-Shirts","brdtopsdiesel");selbox.options[selbox.options.length] = new Option("Rockport T-shirts - Buy Rockport T-shirts Online Here","brdtoprockport");selbox.options[selbox.options.length] = new Option("David and Goliath - Buy David and Goliath Clothing Online Here","brdtopdavidandgoliath");
+selbox.options[selbox.options.length] = new Option("New Rock Corsets","brdtopnewrock");selbox.options[selbox.options.length] = new Option("Levi's® T-Shirts - Buy Levi's® T-Shirts from Levi Strauss","brdtoplevis");selbox.options[selbox.options.length] = new Option("Wrangler Tees and Tops","brdtopwrnglr");selbox.options[selbox.options.length] = new Option("Lee Tees and Tops","brdtoplee");selbox.options[selbox.options.length] = new Option("Pepe Tees and Tops","brdtoppepe");selbox.options[selbox.options.length] = new Option("Gas T-Shirts - Buy Gas T-shirts and Tops Online Here ","brdtopgas");selbox.options[selbox.options.length] = new Option("Emily Strange","brdtopsemilystrange");selbox.options[selbox.options.length] = new Option("Rockport T-shirts - Buy Rockport T-shirts Online Here","brdtoprockport");selbox.options[selbox.options.length] = new Option("David and Goliath - Buy David and Goliath Clothing Online Here","brdtopdavidandgoliath");
 }
 
 if (chosen == "brdbags") {
@@ -190,11 +197,154 @@ if (chosen == "brdbags") {
 selbox.options[selbox.options.length] = new Option("Jansport Bags - Buy Jansport Bags Online Here","brdbagsjansportcats");selbox.options[selbox.options.length] = new Option("Gola Bags - Buy Gola Bags Online Here","brdbagsgola");selbox.options[selbox.options.length] = new Option("Caterpillar Bags - Buy Caterpillar Bags Online Here","brdbagscaterpillar");
 }
 
-if (chosen == "brdsun") {
-  
-selbox.options[selbox.options.length] = new Option("Buy Oakley Sun Glasses - Buy Oakley Online Here","brdsunoakley");selbox.options[selbox.options.length] = new Option("Bolle Sunglasses - Buy Bolle Sunglasses Online Here","brdsunbolle");
-}
-
+		if (chosen == "brdftwr") { sizebox.options[sizebox.options.length] = new Option("All","");
+sizebox.options[sizebox.options.length] = new Option("0","0");
+sizebox.options[sizebox.options.length] = new Option("0.5","0.5");
+sizebox.options[sizebox.options.length] = new Option("1","1");
+sizebox.options[sizebox.options.length] = new Option("1.5","1.5");
+sizebox.options[sizebox.options.length] = new Option("2","2");
+sizebox.options[sizebox.options.length] = new Option("2.5","2.5");
+sizebox.options[sizebox.options.length] = new Option("3","3");
+sizebox.options[sizebox.options.length] = new Option("3.5","3.5");
+sizebox.options[sizebox.options.length] = new Option("4","4");
+sizebox.options[sizebox.options.length] = new Option("4.5","4.5");
+sizebox.options[sizebox.options.length] = new Option("5","5");
+sizebox.options[sizebox.options.length] = new Option("5.5","5.5");
+sizebox.options[sizebox.options.length] = new Option("6","6");
+sizebox.options[sizebox.options.length] = new Option("6.5","6.5");
+sizebox.options[sizebox.options.length] = new Option("7","7");
+sizebox.options[sizebox.options.length] = new Option("7.5","7.5");
+sizebox.options[sizebox.options.length] = new Option("8","8");
+sizebox.options[sizebox.options.length] = new Option("8.5","8.5");
+sizebox.options[sizebox.options.length] = new Option("9","9");
+sizebox.options[sizebox.options.length] = new Option("9.5","9.5");
+sizebox.options[sizebox.options.length] = new Option("10","10");
+sizebox.options[sizebox.options.length] = new Option("11","11");
+sizebox.options[sizebox.options.length] = new Option("12","12");
+sizebox.options[sizebox.options.length] = new Option("13","13");
+sizebox.options[sizebox.options.length] = new Option("14","14");
+sizebox.options[sizebox.options.length] = new Option("15","15");
+sizebox.options[sizebox.options.length] = new Option("35","35");
+sizebox.options[sizebox.options.length] = new Option("36","36");
+sizebox.options[sizebox.options.length] = new Option("37","37");
+sizebox.options[sizebox.options.length] = new Option("38","38");
+sizebox.options[sizebox.options.length] = new Option("39","39");
+sizebox.options[sizebox.options.length] = new Option("40","40");
+sizebox.options[sizebox.options.length] = new Option("41","41");
+sizebox.options[sizebox.options.length] = new Option("42","42");
+sizebox.options[sizebox.options.length] = new Option("43","43");
+sizebox.options[sizebox.options.length] = new Option("44","44");
+sizebox.options[sizebox.options.length] = new Option("45","45");
+sizebox.options[sizebox.options.length] = new Option("46","46");
+sizebox.options[sizebox.options.length] = new Option("47","47"); }
+		if (chosen == "brdjns") { sizebox.options[sizebox.options.length] = new Option("All","");sizebox.options[sizebox.options.length] = new Option("W8 L30", "W8 L30");
+sizebox.options[sizebox.options.length] = new Option("W8 L31", "W8 L31");
+sizebox.options[sizebox.options.length] = new Option("W8 L32", "W8 L32");
+sizebox.options[sizebox.options.length] = new Option("W8 L33", "W8 L33");
+sizebox.options[sizebox.options.length] = new Option("W10 L30", "W10 L30");
+sizebox.options[sizebox.options.length] = new Option("W10 L31", "W10 L31");
+sizebox.options[sizebox.options.length] = new Option("W10 L32", "W10 L32");
+sizebox.options[sizebox.options.length] = new Option("W10 L33", "W10 L33");
+sizebox.options[sizebox.options.length] = new Option("W10 L34", "W10 L34");
+sizebox.options[sizebox.options.length] = new Option("W12 L31", "W12 L31");
+sizebox.options[sizebox.options.length] = new Option("W12 L33", "W12 L33");
+sizebox.options[sizebox.options.length] = new Option("W12 L34", "W12 L34");
+sizebox.options[sizebox.options.length] = new Option("W14 L31", "W14 L31");
+sizebox.options[sizebox.options.length] = new Option("W14 L33", "W14 L33");
+sizebox.options[sizebox.options.length] = new Option("W14 L34", "W14 L34");
+sizebox.options[sizebox.options.length] = new Option("W16 L32", "W16 L32");
+sizebox.options[sizebox.options.length] = new Option("W26 L28", "W26 L28");
+sizebox.options[sizebox.options.length] = new Option("W26 L30", "W26 L30");
+sizebox.options[sizebox.options.length] = new Option("W26 L31", "W26 L31");
+sizebox.options[sizebox.options.length] = new Option("W26 L32", "W26 L32");
+sizebox.options[sizebox.options.length] = new Option("W26 L33", "W26 L33");
+sizebox.options[sizebox.options.length] = new Option("W26 L34", "W26 L34");
+sizebox.options[sizebox.options.length] = new Option("W27 L32", "W27 L32");
+sizebox.options[sizebox.options.length] = new Option("W27 L34", "W27 L34");
+sizebox.options[sizebox.options.length] = new Option("W27 L30", "W27 L30");
+sizebox.options[sizebox.options.length] = new Option("W27 L31", "W27 L31");
+sizebox.options[sizebox.options.length] = new Option("W27 L32", "W27 L32");
+sizebox.options[sizebox.options.length] = new Option("W27 L33", "W27 L33");
+sizebox.options[sizebox.options.length] = new Option("W27 L34", "W27 L34");
+sizebox.options[sizebox.options.length] = new Option("W28 L28", "W28 L28");
+sizebox.options[sizebox.options.length] = new Option("W28 L30", "W28 L30");
+sizebox.options[sizebox.options.length] = new Option("W28 L31", "W28 L31");
+sizebox.options[sizebox.options.length] = new Option("W28 L32", "W28 L32");
+sizebox.options[sizebox.options.length] = new Option("W28 L33", "W28 L33");
+sizebox.options[sizebox.options.length] = new Option("W28 L34", "W28 L34");
+sizebox.options[sizebox.options.length] = new Option("W28 L36", "W28 L36");
+sizebox.options[sizebox.options.length] = new Option("W29 L32", "W29 L32");
+sizebox.options[sizebox.options.length] = new Option("W29 L30", "W29 L30");
+sizebox.options[sizebox.options.length] = new Option("W29 L31", "W29 L31");
+sizebox.options[sizebox.options.length] = new Option("W29 L32", "W29 L32");
+sizebox.options[sizebox.options.length] = new Option("W29 L33", "W29 L33");
+sizebox.options[sizebox.options.length] = new Option("W29 L34", "W29 L34");
+sizebox.options[sizebox.options.length] = new Option("W30 L28", "W30 L28");
+sizebox.options[sizebox.options.length] = new Option("W30 L30", "W30 L30");
+sizebox.options[sizebox.options.length] = new Option("W30 L31", "W30 L31");
+sizebox.options[sizebox.options.length] = new Option("W30 L32", "W30 L32");
+sizebox.options[sizebox.options.length] = new Option("W30 L33", "W30 L33");
+sizebox.options[sizebox.options.length] = new Option("W30 L34", "W30 L34");
+sizebox.options[sizebox.options.length] = new Option("W30 L36", "W30 L36");
+sizebox.options[sizebox.options.length] = new Option("W31 L32", "W31 L32");
+sizebox.options[sizebox.options.length] = new Option("W31 L30", "W31 L30");
+sizebox.options[sizebox.options.length] = new Option("W31 L31", "W31 L31");
+sizebox.options[sizebox.options.length] = new Option("W31 L32", "W31 L32");
+sizebox.options[sizebox.options.length] = new Option("W31 L33", "W31 L33");
+sizebox.options[sizebox.options.length] = new Option("W31 L34", "W31 L34");
+sizebox.options[sizebox.options.length] = new Option("W32 L28", "W32 L28");
+sizebox.options[sizebox.options.length] = new Option("W32 L30", "W32 L30");
+sizebox.options[sizebox.options.length] = new Option("W32 L31", "W32 L31");
+sizebox.options[sizebox.options.length] = new Option("W32 L32", "W32 L32");
+sizebox.options[sizebox.options.length] = new Option("W32 L33", "W32 L33");
+sizebox.options[sizebox.options.length] = new Option("W32 L34", "W32 L34");
+sizebox.options[sizebox.options.length] = new Option("W32 L34", "W32 L34");
+sizebox.options[sizebox.options.length] = new Option("W32 L36", "W32 L36");
+sizebox.options[sizebox.options.length] = new Option("W33 L32", "W33 L32");
+sizebox.options[sizebox.options.length] = new Option("W33 L34", "W33 L34");
+sizebox.options[sizebox.options.length] = new Option("W33 L36", "W33 L36");
+sizebox.options[sizebox.options.length] = new Option("W34 L30", "W34 L30");
+sizebox.options[sizebox.options.length] = new Option("W34 L32", "W34 L32");
+sizebox.options[sizebox.options.length] = new Option("W34 L34", "W34 L34");
+sizebox.options[sizebox.options.length] = new Option("W34 L36", "W34 L36");
+sizebox.options[sizebox.options.length] = new Option("W36 L30", "W36 L30");
+sizebox.options[sizebox.options.length] = new Option("W36 L32", "W36 L32");
+sizebox.options[sizebox.options.length] = new Option("W36 L34", "W36 L34");
+sizebox.options[sizebox.options.length] = new Option("W36 L36", "W36 L36");
+sizebox.options[sizebox.options.length] = new Option("W38 L30", "W38 L30");
+sizebox.options[sizebox.options.length] = new Option("W38 L32", "W38 L32");
+sizebox.options[sizebox.options.length] = new Option("W38 L34", "W38 L34");
+sizebox.options[sizebox.options.length] = new Option("W38 L36", "W38 L36");
+sizebox.options[sizebox.options.length] = new Option("W40 L30", "W40 L30");
+sizebox.options[sizebox.options.length] = new Option("W40 L32", "W40 L32");
+sizebox.options[sizebox.options.length] = new Option("W40 L34", "W40 L34");
+sizebox.options[sizebox.options.length] = new Option("W42 L30", "W42 L30");
+sizebox.options[sizebox.options.length] = new Option("W42 L32", "W42 L32");
+sizebox.options[sizebox.options.length] = new Option("W42 L34", "W42 L34");
+sizebox.options[sizebox.options.length] = new Option("W44 L30", "W44 L30");
+sizebox.options[sizebox.options.length] = new Option("W44 L32", "W44 L32");
+sizebox.options[sizebox.options.length] = new Option("W44 L34", "W44 L34");
+ }
+		if (chosen == "brdjack") { sizebox.options[sizebox.options.length] = new Option("All","");
+sizebox.options[sizebox.options.length] = new Option("Extra Extra Small","Extra Extra Small");
+sizebox.options[sizebox.options.length] = new Option("Extra Small","Extra Small");
+sizebox.options[sizebox.options.length] = new Option("Small","Small");
+sizebox.options[sizebox.options.length] = new Option("Medium","Medium");
+sizebox.options[sizebox.options.length] = new Option("Large","Large");
+sizebox.options[sizebox.options.length] = new Option("Extra Large","Extra Large");
+sizebox.options[sizebox.options.length] = new Option("Extra Extra Large","Extra Extra Large"); }
+		if (chosen == "brdtop") { sizebox.options[sizebox.options.length] = new Option("All","");
+sizebox.options[sizebox.options.length] = new Option("Extra Extra Small","Extra Extra Small");
+sizebox.options[sizebox.options.length] = new Option("Extra Small","Extra Small");
+sizebox.options[sizebox.options.length] = new Option("Small","Small");
+sizebox.options[sizebox.options.length] = new Option("Medium","Medium");
+sizebox.options[sizebox.options.length] = new Option("Large","Large");
+sizebox.options[sizebox.options.length] = new Option("Extra Large","Extra Large");
+sizebox.options[sizebox.options.length] = new Option("Extra Extra Large","Extra Extra Large"); }
+		if (chosen == "brdbags") { sizebox.options[sizebox.options.length] = new Option("All","");
+sizebox.options[sizebox.options.length] = new Option("One-Size","One-Size"); }
+		if (chosen == "brdsun") { sizebox.options[sizebox.options.length] = new Option("All","");
+sizebox.options[sizebox.options.length] = new Option("One-Size","One-Size"); }				
 		}
 	</script>
 	<tr>
@@ -211,13 +361,13 @@ selbox.options[selbox.options.length] = new Option("Buy Oakley Sun Glasses - Buy
 
 <option value="brdjns">Jeans &amp; Denimwear</option>
 
+<option value="brdsun">Sunglasses</option>
+
 <option value="brdjack">Jackets</option>
 
 <option value="brdtop">T-Shirts and Tops</option>
 
 <option value="brdbags">Bags</option>
-
-<option value="brdsun">Sunglasses</option>
 
 					</select></td>
 				</tr>
@@ -227,6 +377,12 @@ selbox.options[selbox.options.length] = new Option("Buy Oakley Sun Glasses - Buy
 					<option value="">All</option>
 					</select></td>
 				</tr>
+				<tr>
+					<td width="53" height="22"><p><b>size:</b></p></td>
+					<td width="95"><select name="N" class="searchselect">
+					<option selected="" value="">All</option>
+					</select></td>
+				</tr>						
 				<tr>
 					<td width="53" height="22"><p><b>cost:</b></p></td>
 					<td width="95"><select name="pricerange" class="searchselect">
@@ -276,7 +432,7 @@ selbox.options[selbox.options.length] = new Option("Buy Oakley Sun Glasses - Buy
 	<tr>
 		<td bgcolor="#999999"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="1" height="1"></td>
 		<td valign="top" bgcolor="#CCCCCC">
-<p style="padding-left:9px"><a href="http://www.cloggs.co.uk/page/helpdesk" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle">helpdesk</a><br><a href="http://www.cloggs.co.uk/page/livechat" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle"><b class="red">Live Chat Support</b></a><br><a href="http://www.cloggs.co.uk/page/myaccount" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle">your account</a><br><a href="http://www.cloggs.co.uk/page/orderstatus" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle">your order status</a><br><a href="http://www.cloggs.co.uk/page/siteguide" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle">site guide</a><br><a href="http://www.cloggs.co.uk/page/despatchdelivery" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle">despatch &amp; delivery</a><br><a href="http://www.cloggs.co.uk/page/sizehelp" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle">size help</a><br><a href="http://www.cloggs.co.uk/page/testimonials" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle"><b>recent testimonials</b></a><br></p>
+<p style="padding-left:9px"><a href="http://www.cloggs.co.uk/page/helpdeskwelcome" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle">Main Help Desk</a><br><a href="http://www.cloggs.co.uk/page/internationalorders" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle">International Orders</a><br><a href="http://www.cloggs.co.uk/page/myaccount" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle">Your Account</a><br><a href="http://www.cloggs.co.uk/page/orderstatusexplained" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle">Order Status Explained</a><br><a href="http://www.cloggs.co.uk/page/sizehelp2" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle">Size Help</a><br><a href="http://www.cloggs.co.uk/page/siteguide2" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle">Site Guide</a><br><a href="http://www.cloggs.co.uk/page/delivery" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle">Delivery</a><br><a href="http://www.cloggs.co.uk/page/returns" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle">Returns</a><br><a href="http://www.cloggs.co.uk/page/testimonials" class="glink"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/img_bullet.gif" alt="" width="11" height="5" border="0" align="absmiddle"><b>Recent Testimonials</b></a><br></p>
 <!--<a href="javascript:popup('http://www.cloggs.co.uk/page/<venda_pageref1>','custserv','scrollbars=yes,resizable=yes,width=400,height=500');" class="glink">--></td>
 		<td background="http://www.cloggs.co.uk/content/ebiz/cloggs/images/tbl_rg.gif"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/tbl_rg.gif" width="7" height="97"></td>
 	</tr>
@@ -307,37 +463,28 @@ selbox.options[selbox.options.length] = new Option("Buy Oakley Sun Glasses - Buy
 	</tr>
 </tbody></table>
 <!-- availability -->
-<a href="http://www.cloggs.co.uk/page/worldcup2006offers"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/stry/allthetopbrands/worldcup_promo.jpg" width="165" height="50" border="0"></a><br> 
-
-<a href="http://www.cloggs.co.uk/icat/brdsunoakley"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/stry/allthetopbrands/oakley_home_button.gif" width="165" height="50" border="0"></a><br> 
- 
-<a href="../page/writeareview"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/stry/homecontent/review.jpg" width="165" height="50" border="0"></a><br> 
- 
-<a href="../page/tellafriend"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/stry/homecontent/friend.jpg" width="165" height="50" border="0"></a>
-
-<!-- BEGIN LivePerson Button Code --><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center"></td><td align="center"><a href="https://server.iad.liveperson.net/hc/54687191/?cmd=file&amp;file=visitorWantsToChat&amp;site=54687191&amp;byhref=1&amp;imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/chatbanners8" target="chat54687191" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/54687191/?cmd=file&amp;file=visitorWantsToChat&amp;site=54687191&amp;imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/chatbanners8&amp;referrer='+escape(document.location),'chat54687191','width=472,height=320');return false;"><img src="https://server.iad.liveperson.net/hc/54687191/?cmd=repstate&amp;site=54687191&amp;&amp;ver=1&amp;imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/chatbanners8" name="hcIcon" width="124" height="52" border="0"></a></td></tr><tr><td> </td><td align="center"><a href="http://www.liveperson.com" style="text-decoration:none"><font face="Arial" size="-2" color="#333333"><span style="font-size: 10px; font-family: Arial, Helvetica, sans-serif"><font color="#475780"></font><font color="#56A145"></font></span></font></a></td></tr></tbody></table><!-- END LivePerson Button code -->
-
+<!-- BEGIN LivePerson Button Code --><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center"></td><td align="center"><a href="https://server.iad.liveperson.net/hc/54687191/?cmd=file&amp;file=visitorWantsToChat&amp;site=54687191&amp;byhref=1&amp;imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/chatbanners5" target="chat54687191" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/54687191/?cmd=file&amp;file=visitorWantsToChat&amp;site=54687191&amp;imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/chatbanners5&amp;referrer='+escape(document.location),'chat54687191','width=472,height=320');return false;"><img src="https://server.iad.liveperson.net/hc/54687191/?cmd=repstate&amp;site=54687191&amp;&amp;ver=1&amp;imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/chatbanners5" name="hcIcon" width="124" height="52" border="0"></a></td></tr><tr><td> </td><td align="center"><a href="http://www.liveperson.com" style="text-decoration:none"><font face="Arial" size="-2" color="#333333"><span style="font-size: 10px; font-family: Arial, Helvetica, sans-serif"><font color="#475780"></font><font color="#56A145"></font></span></font></a></td></tr></tbody></table><!-- END LivePerson Button code -->
 <table width="168" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr> 
-		<td colspan="3"><img src="http://media.venda.com/cloggs/ebiz/cloggs/images/tbl_tg.gif" width="168" height="9"></td>
+		<td colspan="3"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/images/tbl_tg.gif" width="168" height="9"></td>
 	</tr>
 	<tr> 
-		<td bgcolor="#999999"><img src="http://media.venda.com/cloggs/ebiz/cloggs/images/t.gif" width="1" height="1"></td>
-		<td align="center" bgcolor="#CCCCCC"><a href="http://www.cloggs.co.uk/page/delivery" class="glink"><img src="http://media.venda.com/cloggs/ebiz/cloggs/images/hdr_delivery.gif" alt="delivery" width="142" height="17" border="0"></a></td>
-		<td background="http://media.venda.com/cloggs/ebiz/cloggs/images/tbl_rg.gif"><img src="http://media.venda.com/cloggs/ebiz/cloggs/images/tbl_rg.gif" width="7" height="15"></td>
+		<td bgcolor="#999999"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="1" height="1"></td>
+		<td align="center" bgcolor="#CCCCCC"><a href="http://www.cloggs.co.uk/page/delivery" class="glink"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/images/hdr_delivery.gif" alt="delivery" width="142" height="17" border="0"></a></td>
+		<td background="https://www.cloggs.co.uk/content/ebiz/cloggs/images/tbl_rg.gif"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/images/tbl_rg.gif" width="7" height="15"></td>
 	</tr>
 	<tr> 
-		<td width="1" bgcolor="#999999"><img src="http://media.venda.com/cloggs/ebiz/cloggs/images/t.gif" width="1" height="1"></td>
-		<td width="160" bgcolor="#CCCCCC"><img src="http://media.venda.com/cloggs/ebiz/cloggs/images/t.gif" width="160" height="1"></td>
-		<td width="7" background="http://media.venda.com/cloggs/ebiz/cloggs/images/tbl_rg.gif"><img src="http://media.venda.com/cloggs/ebiz/cloggs/images/tbl_rg.gif" width="7" height="8"></td>
+		<td width="1" bgcolor="#999999"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="1" height="1"></td>
+		<td width="160" bgcolor="#CCCCCC"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="160" height="1"></td>
+		<td width="7" background="https://www.cloggs.co.uk/content/ebiz/cloggs/images/tbl_rg.gif"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/images/tbl_rg.gif" width="7" height="8"></td>
 	</tr>
 	<tr> 
-		<td bgcolor="#999999"><img src="http://media.venda.com/cloggs/ebiz/cloggs/images/t.gif" width="1" height="1"></td>
-		<td valign="top" bgcolor="#CCCCCC" align="center"><p style="padding-left:11px;padding-right:11px"><a href="http://www.cloggs.co.uk/page/delivery" class="glink">ALL PRICES INCLUDE STANDARD UK DELIVERY</a></p></td>
-		<td background="http://media.venda.com/cloggs/ebiz/cloggs/images/tbl_rg.gif"><img src="http://media.venda.com/cloggs/ebiz/cloggs/images/tbl_rg.gif" width="7" height="44"></td>
+		<td bgcolor="#999999"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="1" height="1"></td>
+		<td valign="top" bgcolor="#CCCCCC" align="center"><p style="padding-left:11px;padding-right:11px">STANDARD UK DELIVERY IS FREE!<br><a href="http://www.cloggs.co.uk/page/prices" class="glink">Click here for more info</a></p></td>
+		<td background="https://www.cloggs.co.uk/content/ebiz/cloggs/images/tbl_rg.gif"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/images/tbl_rg.gif" width="7" height="44"></td>
 	</tr>
 	<tr> 
-		<td colspan="3"><img src="http://media.venda.com/cloggs/ebiz/cloggs/images/tbl_bg.gif" width="168" height="12"></td>
+		<td colspan="3"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/images/tbl_bg.gif" width="168" height="12"></td>
 	</tr>
 </tbody></table>
 
@@ -359,7 +506,7 @@ selbox.options[selbox.options.length] = new Option("Buy Oakley Sun Glasses - Buy
 	</tr>
 	<tr> 
 		<td bgcolor="#999999"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="1" height="1"></td>
-		<td valign="top" bgcolor="#CCCCCC" align="center"><p style="padding-left:11px;padding-right:11px"><a href="http://www.cloggs.co.uk/page/availability" class="glink">95% of items listed are in stock at the point of purchase. Click Here for more info</a></p></td>
+		<td valign="top" bgcolor="#CCCCCC" align="center"><p style="padding-left:11px;padding-right:11px"><a href="http://www.cloggs.co.uk/page/availability2" class="glink">95% of items listed are in stock at the point of purchase. Click Here for more info</a></p></td>
 		<td background="http://www.cloggs.co.uk/content/ebiz/cloggs/images/tbl_rg.gif"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/tbl_rg.gif" width="7" height="25"></td>
 	</tr>
 	<tr> 
@@ -367,9 +514,9 @@ selbox.options[selbox.options.length] = new Option("Buy Oakley Sun Glasses - Buy
 	</tr>
 </tbody></table>
 <!-- need help with sizes -->
-<div><a href="http://www.cloggs.co.uk/page/sizehelp"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_sizes.gif" alt="Need help with sizes? Click here" width="169" height="89" border="0" vspace="9"></a></div>
+<div><a href="http://www.cloggs.co.uk/page/sizehelp2"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_sizes.gif" alt="Need help with sizes? Click here" width="169" height="89" border="0" vspace="9"></a></div>
 <!-- promotion box -->
-<div><a href="http://isis.imrg.org/screens/VerifyMerchantFrame.asp?&#10;guid=29FFD489-7AD6-4E18-809E-30F55B0EC53C" target="_blank"><img border="0" src="http://www.cloggs.co.uk/content/ebiz/cloggs/stry/homecontent/isis.gif" width="165" height="65"></a><br><a href="http://isis.imrg.org/screens/VerifyMerchantFrame.asp?&#10;guid=29FFD489-7AD6-4E18-809E-30F55B0EC53C" target="_blank"><img border="0" src="http://www.cloggs.co.uk/content/ebiz/cloggs/stry/homecontent/idis.gif" width="165" height="65"></a>
+<div>
 <div><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" alt="" width="1" height="9"></div>
 <table width="168" border="0" cellspacing="0" cellpadding="0"> 
 	<tbody><tr> 
@@ -422,7 +569,7 @@ We are the UK's only officially appointed online retailers of Levi's® Jeans and
 	<form action="http://www.cloggs.co.uk/bin/venda" method="post" name="newslettersignup"></form>							
 	<input type="hidden" name="ex" value="co_disp-referfr">
 	<input type="hidden" name="bsref" value="cloggs">
-	<input type="hidden" name="from" value="Info@cloggs.co.uk">
+	<input type="hidden" name="from" value="sales@cloggs.co.uk">
 	<input type="hidden" name="subject" value="Newsletter Signup">
 	<input type="hidden" name="page" value="newsentryconfirm">
 	<input type="hidden" name="label1" value=">">
@@ -448,46 +595,47 @@ We are the UK's only officially appointed online retailers of Levi's® Jeans and
 </tbody></table>
 <div align="center"><script src="https://seal.verisign.com/getseal?host_name=www.cloggs.co.uk&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES"></script></div>
 </td>
-		<td valign="top"><div style="width:385px"><p class="rlarge">Security</p>
-<p class="rlarge"><b><i>Guarantee</i></b></p>
-<p>Our shopping guarantee protects you while you shop on our site - you need not worry about your credit card security. If you have any concerns please contact us through our order helpline - 07000 256 447 - to discuss a suitable alternative. </p>
+		<td valign="top"><div style="width:385px"><p><font size="4" color="#cc0000"><b><u>Security and Privacy</u></b></font></p>
+<p><font size="3"><b>Security</b></font></p>
+<font size="4"><p><b>Guarantee</b></p>
+<p>Our shopping guarantee protects you while you shop on our site - you need not worry about your credit card security. If you have any concerns please contact us through our order helpline - 07000 256 447 or +44 121 237 5510 (for International orders) - to discuss the security.</p>
 <p>All goods offered by the company will meet the obligations under consumer protection laws including:</p>
-<div style="padding-left:17px"><p>
-The Sale of Goods Act 1979<br>
+<p>The Sale of Goods Act 1979<br>
 The Supply of Goods &amp; Services Act 1982<br>
 The consumer Credit Act 1974<br>
 The Trade Descriptions Act 1968<br>
 The Unfair Contract Terms Act 1977 and the 1999 Regulations<br>
 The Consumer Protection Act 1977<br>
 The Data Protection Act 1998<br>
-The Consumer Protection ( Distance Selling ) Regulations 2000.
-</p></div>
-<p class="rlarge"><b><i>Totally Secure Payment</i></b></p>
-<p>Cloggs.co.uk uses the industry standard secure server software (Secure Socket Layer - 128 bit SSL Global Server Certificate) in association with DataCash and Verisign. Your financial and personal information, including credit card number, name and address, and phone number, are encrypted so that they cannot be viewed while travelling over the internet. All personal information will then be stored on our isolated network, protecting it from any misuse or compromise. Please feel free to click on the Verisign Logo for verification. </p>
+The Consumer Protection ( Distance Selling ) Regulations 2000. <br></p>
+<p><b>Totally Secure Payment</b></p>
+<p>Cloggs.co.uk uses the industry standard secure server software (Secure Socket Layer - 128 bit SSL Global Server Certificate) in association with DataCash and Verisign. Your financial and personal information, including credit card number, name and address, and phone number, are encrypted so that they cannot be viewed while travelling over the internet. All personal information will then be stored on our isolated network, protecting it from any misuse or compromise. Please feel free to click on the Verisign Logo for verification.</p></font>
 <div align="center"><script src="https://seal.verisign.com/getseal?host_name=www.cloggs.co.uk&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES"></script>
 </div>
-<p>Cloggs never takes payment for ordered goods until those goods are actually shipped or without the express prior consent of the customer. </p>
-<p class="rlarge"><b><i>Designated Customer Service</i></b></p>
-<p>Cloggs are focussed on minimising fraudulent transactions over the net. As a further precaution, we have a designated customer service team that will contact you for voice recognition and authorisation if our security matches are not met or if we suspect any improper use. </p>
-<p class="rlarge"><b><i>Alternative Methods of Payment</i></b></p>
-<p>Unfortunately we are not set up appropriately to handle the administration of alternative methods of payment. You can call 07000 256 447 or e-mail our customer services for further information - please <a href="mailto:info@cloggs.co.uk?subject=CLOGGS PAYMENT OPTIONS" class="plainLink">click here</a>)<br></p>
-<p class="rlarge">Privacy</p>
-<p class="rlarge"><b><i>Customer Protection</i></b></p>
+<font size="4"><p><b>Cloggs never takes payment for ordered goods until those goods are actually shipped or without the express prior consent of the customer.</b></p>
+<p><b>Designated Customer Service</b></p>
+<p>Cloggs are focussed on minimising fraudulent transactions over the net. As a further precaution, we have a designated customer service team that will contact you for voice recognition and authorisation if our security matches are not met or if we suspect any improper use.</p>
+<p><b>Alternative Methods of Payment</b></p>
+<p>Unfortunately we are not set up appropriately to handle the administration of alternative methods of payment. You can call 07000 256 447 or +44 121 237 5510 (for International customers) or <a href="mailto:info@cloggs.co.uk">e-mail</a> our customer services for further information.</p>
+</font>
+<p><font size="3"><br><br><b>Privacy</b></font>
+<font size="4"></font></p><p><font size="4"><b>Customer Protection</b></font></p><font size="4">
 <p>We are committed to protecting your privacy. We will only use information given at the time of ordering or when making an enquiry by whatever means is collected lawfully and in accordance with the Data Protection Act 1998. It is collected by Senior Cloggs personnel and all transactions that you initiate with Cloggs.co.uk on this web site are confidential. Your name will not be added to any mailing list and we never transfer this information to a third party, without the customer's consent.</p>
-<p class="rlarge"><b><i>Your Personal Information</i></b></p>
-<p>We collect information about you for two main reasons:</p>
-<div style="padding-left:17px"><p>
-1)	To process your order and <br>
-2)	To provide you with the most efficient possible service. 
-</p></div>
-<p>The type of information we will collect about you includes:-  Your name, your address, your phone number, your size, your e-mail address, your age, your phone number and your sex. Please note that some of these fields are optional and the information is only used as so that we may provide our customers with the products they like as effectively as possible. We will never collect sensitive information about you without your explicit consent. </p>
-<p>The information collected will be used to personally keep in touch and let you know of any offers, sales or promotions that Cloggs.co.uk are carrying out. We never aim to send emails to a customer unless first receiving their consent. Customers can be removed from our mailing list by sending an email - please <a href="mailto:info@cloggs.co.uk?subject=CLOGGS NEWSLETTER REMOVAL" class="plainLink">click here</a></p>
-<p class="rlarge"><b><i>Controlling Your Personal Information</i></b></p>
-<p>We aim for the information we hold about you to be accurate and up to date. You can check the information that we hold about you by logging in to your account. If you find any inaccuracies you should delete or correct it promptly. The personal information will be held securely in accordance with our internal security policy and the law. </p>
-<p class="rlarge"><b><i>Customer Tracking</i></b></p>
+<p><b>Your Personal Information</b></p>
+<p>We collect information about you for two main reasons:</p></font>
+<font size="4"></font><div><font size="4"></font><ol><font size="4"><li>To process your order and </li>
+<li>To provide you with the most efficient possible service. </li></font>
+</ol></div>
+<font size="4"><p>The type of information we will collect about you includes:- Your name, your address, your phone number, your size, your e-mail address, your age, your phone number and your sex. Please note that some of these fields are optional and the information is only used as so that we may provide our customers with the products they like as effectively as possible. We will never collect sensitive information about you without your explicit consent.</p>
+<p>The information collected will be used to personally keep in touch and let you know of any offers, sales or promotions that Cloggs.co.uk are carrying out. We never aim to send emails to a customer unless first receiving their consent. Customers can be removed from our mailing list by sending an email - please <a href="mailto:info@cloggs.co.uk?subject=CLOGGS NEWSLETTER REMOVAL">click here</a></p>
+<p><b>Controlling Your Personal Information</b></p>
+<p>We aim for the information we hold about you to be accurate and up to date. You can check the information that we hold about you by logging in to your account. If you find any inaccuracies you should delete or correct it promptly. The personal information will be held securely in accordance with our internal security policy and the law.</p>
+<p><b>Customer Tracking</b></p>
 <p>We use technology to track the patterns of behaviour of our visitors to our site so that we can speed up the payment procedure for you, deliver the appropriate products and special offers to you, in the most easy to use way.</p>
-<p>This will include using a "cookie" which would be stored on your browser. A "cookie" is a small text file stored on your machine which helps us recognise who you are. This information helps us retrieve information about you so you don't need to re-enter your details. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. </p>
-<p>If you have any questions/comments about privacy, please e-mail us - please <a href="mailto:info@cloggs.co.uk?subject=CLOGGS PRIVACY QUERY" class="plainLink">click here</a>.</p>
+<p>This will include using a "cookie" which would be stored on your browser. A "cookie" is a small text file stored on your machine which helps us recognise who you are. This information helps us retrieve information about you so you don't need to re-enter your details. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.</p>
+<p>If you have any questions/comments about privacy, please <a href="mailto:info@cloggs.co.uk">e-mail us.</a></p></font>
+<br>
+<p><font size="2"><a href="http://www.cloggs.co.uk/page/helpdeskwelcome">Back to Helpdesk Main Menu</a></font></p>
 </div></td>
 		<td valign="top"><div><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" alt="" width="1" height="9"></div>
 <!-- all the top brands -->
@@ -532,12 +680,12 @@ The Consumer Protection ( Distance Selling ) Regulations 2000.
 
 
 	<tr>
-		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/2192" class="glink">Lee - Powell - Black Used - (inc. free T-shirt)*</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
+		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/341" class="glink">Alpha Parkas - N2B - in 5 colours</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.cloggs.co.uk/invt/2192"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/2192/t-lee-pwll-blk-usd.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Lee - Powell - Black Used - (inc. free T-shirt)*"></a>
+		<td><a href="http://www.cloggs.co.uk/invt/341"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/341/alpha_n2b_sage_t_01.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Alpha Parkas - N2B - in 5 colours"></a>
 		</td>
-		<td valign="bottom" align="right"><p><span class="redsell"><b>£54.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/2192"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
+		<td valign="bottom" align="right"><p><span class="redsell"><b>£104.95</b></span><span class="wasprice"><br>Was £109.95</span><br><br><a href="http://www.cloggs.co.uk/invt/341"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
 	</tr>
 	<tr>
 		<td colspan="2"><hr></td>
@@ -546,12 +694,12 @@ The Consumer Protection ( Distance Selling ) Regulations 2000.
 
 
 	<tr>
-		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/1973" class="glink">Merrell - Chameleon II Slam - Dusty Olive</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
+		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/2471" class="glink">Levi's®  - Red Tab® Girl's - 565 - Deep Blue - (inc. free Tarot T-shirt!)*</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.cloggs.co.uk/invt/1973"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/1973/merrell_cham_dstyolve_t_01.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Merrell - Chameleon II Slam - Dusty Olive"></a>
+		<td><a href="http://www.cloggs.co.uk/invt/2471"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/2471/t-565-dp-blu.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Levi's®  - Red Tab® Girl's - 565 - Deep Blue - (inc. free Tarot T-shirt!)*"></a>
 		</td>
-		<td valign="bottom" align="right"><p><span class="redsell"><b>£59.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/1973"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
+		<td valign="bottom" align="right"><p><span class="redsell"><b>£54.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/2471"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
 	</tr>
 	<tr>
 		<td colspan="2"><hr></td>
@@ -560,12 +708,12 @@ The Consumer Protection ( Distance Selling ) Regulations 2000.
 
 
 	<tr>
-		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/932" class="glink">New Rock - 591 - Black with Purple Flame</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
+		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/2495" class="glink">Lee - Hailey - No Wave Black - (inc. free T-shirt!)*</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.cloggs.co.uk/invt/932"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/932/nr_591purpleflame_t_02.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="New Rock - 591 - Black with Purple Flame"></a>
+		<td><a href="http://www.cloggs.co.uk/invt/2495"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/2495/t-lee-pvc.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Lee - Hailey - No Wave Black - (inc. free T-shirt!)*"></a>
 		</td>
-		<td valign="bottom" align="right"><p><span class="redsell"><b>£119.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/932"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
+		<td valign="bottom" align="right"><p><span class="redsell"><b>£59.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/2495"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
 	</tr>
 	<tr>
 		<td colspan="2"><hr></td>
@@ -574,12 +722,12 @@ The Consumer Protection ( Distance Selling ) Regulations 2000.
 
 
 	<tr>
-		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/2185" class="glink">Levi's®  - Red Tab® Girl's - 571 - Worn Black - (inc. free T-shirt)*</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
+		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/2592" class="glink">Ugg® Australia Boots - Classic Tall - Patchwork</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.cloggs.co.uk/invt/2185"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/2185/t-levis-571-worn-black.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Levi's®  - Red Tab® Girl's - 571 - Worn Black - (inc. free T-shirt)*"></a>
+		<td><a href="http://www.cloggs.co.uk/invt/2592"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/2592/t-clsc-tll-ptchwrk.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Ugg® Australia Boots - Classic Tall - Patchwork"></a>
 		</td>
-		<td valign="bottom" align="right"><p><span class="redsell"><b>£59.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/2185"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
+		<td valign="bottom" align="right"><p><span class="redsell"><b>£144.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/2592"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
 	</tr>
 	<tr>
 		<td colspan="2"><hr></td>
@@ -588,12 +736,12 @@ The Consumer Protection ( Distance Selling ) Regulations 2000.
 
 
 	<tr>
-		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/1930" class="glink">Rockport - Morrigan - Red Brown</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
+		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/2547" class="glink">Oakley - Ducati Riddle - Polished White with Grey Lens</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.cloggs.co.uk/invt/1930"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/1930/t-rockport-mrrgn-brwn.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Rockport - Morrigan - Red Brown"></a>
+		<td><a href="http://www.cloggs.co.uk/invt/2547"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/2547/riddle_wht_gry_t.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Oakley - Ducati Riddle - Polished White with Grey Lens"></a>
 		</td>
-		<td valign="bottom" align="right"><p><span class="redsell"><b>£74.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/1930"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
+		<td valign="bottom" align="right"><p><span class="redsell"><b>£94.95</b></span><br><span class="wasprice" style="text-decoration: line-through">RRP £99.95</span><br><a href="http://www.cloggs.co.uk/invt/2547"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
 	</tr>
 	<tr>
 		<td colspan="2"><hr></td>
@@ -602,12 +750,12 @@ The Consumer Protection ( Distance Selling ) Regulations 2000.
 
 
 	<tr>
-		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/1996" class="glink">Dr Martens - 1c53 - Rose / Beige</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
+		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/340" class="glink">Alpha Parkas - N3B - in 3 Colours</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.cloggs.co.uk/invt/1996"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/1996/dm_1c53_rsbe_t_01.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Dr Martens - 1c53 - Rose / Beige"></a>
+		<td><a href="http://www.cloggs.co.uk/invt/340"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/340/alpha_n3b_black_t_02.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Alpha Parkas - N3B - in 3 Colours"></a>
 		</td>
-		<td valign="bottom" align="right"><p><span class="redsell"><b>£64.95</b></span><br><span class="wasprice" style="text-decoration: line-through">RRP £74.95</span><br><a href="http://www.cloggs.co.uk/invt/1996"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
+		<td valign="bottom" align="right"><p><span class="redsell"><b>£109.95</b></span><span class="wasprice"><br>Was £129.99</span><br><br><a href="http://www.cloggs.co.uk/invt/340"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
 	</tr>
 	<tr>
 		<td colspan="2"><hr></td>
@@ -616,12 +764,12 @@ The Consumer Protection ( Distance Selling ) Regulations 2000.
 
 
 	<tr>
-		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/2292" class="glink">George Cox - 2 Tie Gibson - Black/Zebra</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
+		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/2260" class="glink">Levi's® - Red Tab® Guy's - 506 - Dark Clean - (inc. free T-shirt!)*</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.cloggs.co.uk/invt/2292"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/2292/t-grg-cox-gbsn-blk-sd-zbra.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="George Cox - 2 Tie Gibson - Black/Zebra"></a>
+		<td><a href="http://www.cloggs.co.uk/invt/2260"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/2260/lv_506_dkcln_t_01.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Levi's® - Red Tab® Guy's - 506 - Dark Clean - (inc. free T-shirt!)*"></a>
 		</td>
-		<td valign="bottom" align="right"><p><span class="redsell"><b>£84.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/2292"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
+		<td valign="bottom" align="right"><p><span class="redsell"><b>£54.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/2260"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
 	</tr>
 	<tr>
 		<td colspan="2"><hr></td>
@@ -630,12 +778,12 @@ The Consumer Protection ( Distance Selling ) Regulations 2000.
 
 
 	<tr>
-		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/1843" class="glink">Gas - Norton - Blue Dust - (inc. free T-shirt!)*</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
+		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/2493" class="glink">Lee - Norman - Deep Gloss - (inc. free T-shirt!)*</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.cloggs.co.uk/invt/1843"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/1843/nrtn_bludst_t_01.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Gas - Norton - Blue Dust - (inc. free T-shirt!)*"></a>
+		<td><a href="http://www.cloggs.co.uk/invt/2493"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/2493/t-lee-norman-dpglss.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Lee - Norman - Deep Gloss - (inc. free T-shirt!)*"></a>
 		</td>
-		<td valign="bottom" align="right"><p><span class="redsell"><b>£89.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/1843"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
+		<td valign="bottom" align="right"><p><span class="redsell"><b>£59.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/2493"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
 	</tr>
 	<tr>
 		<td colspan="2"><hr></td>
@@ -644,12 +792,12 @@ The Consumer Protection ( Distance Selling ) Regulations 2000.
 
 
 	<tr>
-		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/1890" class="glink">Pepe - Jinho - 12oz - Broken Twill - (inc. free T-shirt!)*</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
+		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/2637" class="glink">Ugg® Australia Boots - Mens - Arapahoe - Brown</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.cloggs.co.uk/invt/1890"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/1890/pepe_jinho_12ozbt_t_01.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Pepe - Jinho - 12oz - Broken Twill - (inc. free T-shirt!)*"></a>
+		<td><a href="http://www.cloggs.co.uk/invt/2637"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/2637/t-apph-brn.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Ugg® Australia Boots - Mens - Arapahoe - Brown"></a>
 		</td>
-		<td valign="bottom" align="right"><p><span class="redsell"><b>£69.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/1890"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
+		<td valign="bottom" align="right"><p><span class="redsell"><b>£154.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/2637"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
 	</tr>
 	<tr>
 		<td colspan="2"><hr></td>
@@ -658,12 +806,12 @@ The Consumer Protection ( Distance Selling ) Regulations 2000.
 
 
 	<tr>
-		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/1124" class="glink">Underground - UM-D10SX - Pink</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
+		<td colspan="2"><p><a href="http://www.cloggs.co.uk/invt/1974" class="glink">Merrell - Chameleon II Slam - Charcoal/Red</a><br><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" width="5" height="5"></p></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.cloggs.co.uk/invt/1124"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/1124/ug_umd10sxpnk_t_04.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Underground - UM-D10SX - Pink"></a>
+		<td><a href="http://www.cloggs.co.uk/invt/1974"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/invt/1974/merrell_cham_char_red_t_01.jpg" width="70" border="0" onerror="thumbfail();" name="thumb" alt="Merrell - Chameleon II Slam - Charcoal/Red"></a>
 		</td>
-		<td valign="bottom" align="right"><p><span class="redsell"><b>£59.95</b></span><br><br><a href="http://www.cloggs.co.uk/invt/1124"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
+		<td valign="bottom" align="right"><p><span class="redsell"><b>£54.95</b></span><br><span class="wasprice" style="text-decoration: line-through">RRP £59.95</span><br><a href="http://www.cloggs.co.uk/invt/1974"><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/bt_moreinfo.gif" alt="more info" border="0"></a></p></td>
 	</tr>
 	<tr>
 		<td colspan="2"><hr></td>
@@ -694,18 +842,62 @@ The Consumer Protection ( Distance Selling ) Regulations 2000.
 <div><img src="http://www.cloggs.co.uk/content/ebiz/cloggs/images/t.gif" alt="" width="1" height="15"></div>
 <table border="0" cellpadding="0" cellspacing="0" width="739" align="center">
 	<tbody><tr>
-		<td align="center"><!-- BEGIN LivePerson Button Code --><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center"></td><td align="center"><a href="https://server.iad.liveperson.net/hc/54687191/?cmd=file&amp;file=visitorWantsToChat&amp;site=54687191&amp;byhref=1&amp;imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/chatbanners9" target="chat54687191" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/54687191/?cmd=file&amp;file=visitorWantsToChat&amp;site=54687191&amp;imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/chatbanners9&amp;referrer='+escape(document.location),'chat54687191','width=472,height=320');return false;"><img src="https://server.iad.liveperson.net/hc/54687191/?cmd=repstate&amp;site=54687191&amp;&amp;ver=1&amp;imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/chatbanners9" name="hcIcon" width="425" height="60" border="0"></a></td></tr><tr><td> </td><td align="center"><a href="http://www.liveperson.com" style="text-decoration:none"><font face="Arial" size="-2" color="#333333"><span style="font-size: 10px; font-family: Arial, Helvetica, sans-serif"><font color="#475780"></font><font color="#56A145"></font></span></font></a></td></tr></tbody></table><!-- END LivePerson Button code -->  
-<p><font size="1"><i><a href="http://www.cloggs.co.uk/page/david_and_goliath" class="glink">David and Goliath</a> | <a href="http://www.cloggs.co.uk/page/vans_shoes" class="glink">Vans Shoes</a> | <a href="http://www.cloggs.co.uk/page/oakley" class="glink">Oakley Sunglasses</a> | <a href="http://www.cloggs.co.uk/page/merrell" class="glink">Merrell</a> | <a href="http://www.cloggs.co.uk/page/merrell_shoes" class="glink">Merrell Shoes</a> | <a href="http://www.cloggs.co.uk/page/merrell_trainers" class="glink">Merrell Trainers</a> | <a href="http://www.cloggs.co.uk/page/sancho_boots" class="glink">Sancho_Boots</a> | <a href="http://www.cloggs.co.uk/page/converse" class="glink">Converse</a> | <a href="http://www.cloggs.co.uk/page/gas_jeans" class="glink">Gas Jeans</a> | <a href="http://www.cloggs.co.uk/page/doc_martens" class="glink">Doc Martens</a> | <a href="http://www.cloggs.co.uk/page/skechers_shoes" class="glink">Skechers Shoes</a> | <a href="http://www.cloggs.co.uk/page/shoes_shop" class="glink">Shoes Shop</a> | <a href="http://www.cloggs.co.uk/page/cowboy_boots" class="glink">Cowboy Boots</a> | <a href="http://www.cloggs.co.uk/page/rockport" class="glink">Rockport</a> | <a href="http://www.cloggs.co.uk/page/rockport_boots" class="glink">Rockport Boots</a> | <a href="http://www.cloggs.co.uk/page/alpha" class="glink">Alpha Parkas</a> | <a href="http://www.cloggs.co.uk/page/jeans" class="glink">Jeans</a> | <a href="http://www.cloggs.co.uk/page/drmartens" class="glink">Dr Martens Only UK Authorised Etail Partner</a> | <a href="http://www.cloggs.co.uk/page/doc_martens" class="glink">Doc Martens</a> | <a href="http://www.cloggs.co.uk/page/newrock" class="glink">New Rock Boots &amp; Shoes</a> | <a href="http://www.cloggs.co.uk/page/vans" class="glink">Vans</a> | <a href="http://www.cloggs.co.uk/page/jansport" class="glink">Jansport Bags</a> | <a href="http://www.cloggs.co.uk/page/ikon" class="glink">Ikon</a> | <a href="http://www.cloggs.co.uk/page/converse_all_stars" class="glink">Converse All Stars</a> | <a href="http://www.cloggs.co.uk/page/converse_all_star" class="glink">Converse All Star</a> | <a href="http://www.cloggs.co.uk/page/dunlopgreenflash" class="glink">Dunlop Green Flash</a> | <a href="http://www.cloggs.co.uk/page/skechers" class="glink">Skechers</a> | <a href="http://www.cloggs.co.uk/page/ugg" class="glink">Ugg</a> | <a href="http://www.cloggs.co.uk/page/laptop_bags" class="glink">Laptop Bags</a> | <a href="http://www.cloggs.co.uk/page/levisshoes" class="glink">Levis Shoes</a> | <a href="http://www.cloggs.co.uk/page/toffeln" class="glink">Toffeln</a> | <a href="http://www.cloggs.co.uk/page/underground" class="glink">Underground</a> | <a href="http://www.cloggs.co.uk/page/tuk" class="glink">TUK Shoes</a> | <a href="http://www.cloggs.co.uk/page/levis" class="glink">Levis Denim</a> | <a href="http://www.cloggs.co.uk/page/conversemanshoes" class="glink">Converse for Men</a> | <a href="http://www.cloggs.co.uk/page/converse_womens_shoes" class="glink">Converse Womens Shoes</a> | <a href="http://www.cloggs.co.uk/page/levi" class="glink">Levi</a> | <a href="http://www.cloggs.co.uk/page/levijeansman" class="glink">Levis Jeans for Men</a> | <a href="http://www.cloggs.co.uk/page/buyuggboots" class="glink">Buy Ugg Boots</a> | <a href="http://www.cloggs.co.uk/page/levis" class="glink">Levis</a> | <a href="http://www.cloggs.co.uk/page/levisjeans" class="glink">Levis Jeans</a> | <a href="http://www.cloggs.co.uk/page/rocketdog" class="glink">Rocket Dog Shoes</a> | <a href="http://www.cloggs.co.uk/page/wrangler" class="glink">Wrangler Jeans</a> | <a href="http://www.cloggs.co.uk/page/lee" class="glink">Lee</a> | <a href="http://www.cloggs.co.uk/page/uggboots" class="glink">Ugg Boots</a> | <a href="http://www.cloggs.co.uk/page/ugg_boots" class="glink">Ugg_Boots</a> | <a href="http://www.cloggs.co.uk/page/gola" class="glink">Gola</a> | <a href="http://www.cloggs.co.uk/page/shoeshop" class="glink">Shoe Shop</a></i></font></p>
+		<td align="center"><br>
+<br>
+<table width="743" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td colspan="3" valign="top"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/stry/footergifs/top.gif" width="743" height="14"></td>
+</tr>
+<tr>
+<td align="left"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/stry/footergifs/left.gif" width="1" height="110"></td>
 
-<p><a href="http://www.cloggs.co.uk/page/helpdesk" class="glink">helpdesk</a> | <a href="mailto:customer.services@cloggs.co.uk?subject=PROBLEMS ORDERING&amp;bcc=orderproblems@cloggs.co.uk&amp;body=Dear Cloggs.co.uk,%0A%0APROBLEM EXPERIENCED: [please describe your ordering problem here]%0A%0AHere are the details of the product(s) I wish to buy and my contact details so that you can contact me.%0A%0ABRAND NAME:%0APRODUCT/MODEL NAME:%0ASIZE:%0ACOLOUR:%0AQUANTITY:%0ACONTACT TELEPHONE NUMBER:%0ACONTACT NAME:%0ADELIVERY ADDRESS:" class="glink">ordering problems?</a> | <a href="http://www.cloggs.co.uk/page/securityprivacy" class="glink">security &amp; privacy</a> | <a href="http://www.cloggs.co.uk/page/siteguide" class="glink">site guide</a> | <a href="http://www.cloggs.co.uk/page/sizehelp" class="glink">size help</a> | <a href="http://www.cloggs.co.uk/page/termsconditions" class="glink">terms &amp; conditions</a><br>
-<a href="http://www.cloggs.co.uk/page/newsletters" class="glink">sign up for exclusive offers</a> | <a href="http://www.cloggs.co.uk/page/aboutus" class="glink">about us</a> | <a href="http://www.cloggs.co.uk/page/careers" class="glink">careers</a> | <a href="http://www.cloggs.co.uk/page/affiliatewithcloggs" class="glink">affiliate with cloggs</a><br>
+<td>
+
+<table width="736" border="0" cellspacing="1" cellpadding="0">
+<tbody><tr height="15">
+<td width="736" align="top" style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px"><font size="1" color="#cc3300"><b>Latest Additions - </b><font size="1" color="#666666" face="Verdana, Arial, Helvetica, sans-serif"> <a href="http://www.cloggs.co.uk/page/duffs_man_shoes" class="glink">Duffs Shoes</a> | <a href="http://www.cloggs.co.uk/page/crocs" class="glink">Crocs</a> | <a href="http://www.cloggs.co.uk/page/david_and_goliath" class="glink">David and Goliath</a> | <a href="http://www.cloggs.co.uk/page/oakley" class="glink">Oakley Sunglasses</a> | <a href="http://www.cloggs.co.uk/page/vans_shoes" class="glink">Vans Shoes</a> | <a href="http://www.cloggs.co.uk/page/merrell" class="glink">Merrell</a> | <a href="http://www.cloggs.co.uk/page/rockport_boots" class="glink">Rockport Boots</a></font></font></td>
+</tr>
+<tr height="30">
+<td width="736" align="top" style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px"><font size="1" color="#666666" face="Verdana, Arial, Helvetica, sans-serif"><b>Promotions - </b><a href="http://www.cloggs.co.uk/page/whatsnew" class="glink">What's New Sept'06</a> | <a href="http://www.cloggs.co.uk/page/shoes" class="glink">Shoes</a> | <a href="http://www.cloggs.co.uk/page/trainers" class="glink">Trainers</a> | <a href="http://www.cloggs.co.uk/page/footwear" class="glink">Footwear</a> | <a href="http://www.cloggs.co.uk/page/lady_boots" class="glink">Lady Boots</a> | <a href="http://www.cloggs.co.uk/page/running_shoes" class="glink">Running Shoes</a> | <a href="http://www.cloggs.co.uk/page/man_jeans" class="glink">Man Jeans</a> | <a href="http://www.cloggs.co.uk/page/womens_trousers" class="glink">Womens Trousers</a> | <a href="http://www.rivetonline.co.uk" class="glink">Rivet Online - Coming Soon</a> | <a href="http://www.cloggs.co.uk/page/designer_t_shirt" class="glink">Designer T Shirt</a> | <a href="http://www.cloggs.co.uk/page/sneaker" class="glink">Sneaker</a> | <a href="http://www.cloggs.co.uk/page/t_shirt" class="glink">T Shirt</a> | <a href="http://www.cloggs.co.uk/page/boots" class="glink">Boots</a> | <a href="http://www.cloggs.co.uk/page/sandal" class="glink">Sandals</a> | <a href="http://www.cloggs.co.uk/page/lady_shoes" class="glink">Lady Shoes</a> | <a href="http://www.cloggs.co.uk/page/man_shoes" class="glink">Man Shoes</a> | <a href="http://www.cloggs.co.uk/page/womens_shoes" class="glink">Womens Shoes</a> | <a href="http://www.cloggs.co.uk/page/backpack" class="glink">Backpack</a> | <a href="http://www.cloggs.co.uk/page/shoes_shop" class="glink">Shoes Shop</a> | <a href="http://www.cloggs.co.uk/page/ruck_sack" class="glink">Ruck Sack</a> | <a href="http://www.cloggs.co.uk/page/jeans" class="glink">Jeans</a> | <a href="http://www.cloggs.co.uk/page/laptop_bags" class="glink">Laptop Bags</a> | <a href="http://www.cloggs.co.uk/page/sun_glasses" class="glink">Sun Glasses</a> | <a href="http://www.cloggs.co.uk/page/designer_sun_glasses" class="glink">Designer Sun Glasses</a></font></td>
+</tr>
+<tr height="50">
+<td width="736" align="top" style="PADDING-RIGHT: 5px; PADDING-LEFT: 5px"><font size="1" color="#666666" face="Verdana, Arial, Helvetica, sans-serif"><b>Brands - </b><a href="http://www.cloggs.co.uk/page/sancho_boots" class="glink">Sancho Boots</a> | <a href="http://www.cloggs.co.uk/page/gas_jeans" class="glink">Gas Jeans</a> | <a href="http://www.cloggs.co.uk/page/cowboy_boots" class="glink">Cowboy Boots</a> | <a href="http://www.cloggs.co.uk/page/alpha" class="glink">Alpha Parkas</a> | <a href="http://www.cloggs.co.uk/page/drmartens" class="glink">Dr Martens Only UK Authorised Etail Partner</a> | <a href="http://www.cloggs.co.uk/page/newrock" class="glink">New Rock Boots &amp; Shoes</a> | <a href="http://www.cloggs.co.uk/page/vans" class="glink">Vans</a> | <a href="http://www.cloggs.co.uk/page/jansport" class="glink">Jansport Bags</a> | <a href="http://www.cloggs.co.uk/page/ikon" class="glink">Ikon</a> | <a href="http://www.cloggs.co.uk/page/converse_all_star" class="glink">Converse All Star</a> | <a href="http://www.cloggs.co.uk/page/dunlopgreenflash" class="glink">Dunlop Green Flash</a> | <a href="http://www.cloggs.co.uk/page/skechers" class="glink">Skechers</a> | <a href="http://www.cloggs.co.uk/page/levisshoes" class="glink">Levis Shoes</a> | <a href="http://www.cloggs.co.uk/page/toffeln" class="glink">Toffeln</a> | <a href="http://www.cloggs.co.uk/page/underground" class="glink">Underground</a> | <a href="http://www.cloggs.co.uk/page/tuk" class="glink">TUK Shoes</a> | <a href="http://www.cloggs.co.uk/page/levisjeans" class="glink">Levis Jeans</a> | <a href="http://www.cloggs.co.uk/page/rocketdog" class="glink">Rocket Dog Shoes</a> | <a href="http://www.cloggs.co.uk/page/wrangler" class="glink">Wrangler Jeans</a> | <a href="http://www.cloggs.co.uk/page/lee" class="glink">Lee</a> | <a href="http://www.cloggs.co.uk/page/uggboots" class="glink">Ugg Boots</a> | <a href="http://www.cloggs.co.uk/page/gola" class="glink">Gola</a> | <a href="http://www.cloggs.co.uk/page/georgecox" class="glink">George Cox</a> | <a href="http://www.cloggs.co.uk/page/golddigga" class="glink">Golddigga</a> | <a href="http://www.cloggs.co.uk/page/iko" class="glink">Iko Clogs</a></font></td>
+</tr>
+<tr>
+</tr></tbody></table>
+
+
+
+</td>
+
+<td align="right"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/stry/footergifs/right.gif" width="6" height="110"></td>
+</tr>
+
+<tr>
+<td colspan="3" valign="bottom"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/stry/footergifs/bottom.gif" height="14" width="743"></td>
+</tr>
+</tbody></table>
+<br>
+<!-- BEGIN LivePerson Button Code --> <table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center"></td><td align="center"> 
+
+<p><a href="http://isis.imrg.org/screens/VerifyMerchantFrame.asp?&#10;guid=29FFD489-7AD6-4E18-809E-30F55B0EC53C" target="_blank"><img border="0" src="https://www.cloggs.co.uk/content/ebiz/cloggs/stry/homecontent/isis.gif" width="165" height="65"></a><a href="http://isis.imrg.org/screens/VerifyMerchantFrame.asp?&#10;guid=29FFD489-7AD6-4E18-809E-30F55B0EC53C" target="_blank"><img border="0" src="https://www.cloggs.co.uk/content/ebiz/cloggs/stry/homecontent/idis.gif" width="165" height="65"></a>
+<a href="http://www.cloggs.co.uk/page/security"><img src="https://www.cloggs.co.uk/content/ebiz/cloggs/stry/footergifs/securefooter.gif" width="165" height="65" border="0"></a>
+<a href="https://server.iad.liveperson.net/hc/54687191/?cmd=file&amp;file=visitorWantsToChat&amp;site=54687191&amp;byhref=1&amp;imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/footergifs" target="chat54687191" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/54687191/?cmd=file&amp;file=visitorWantsToChat&amp;site=54687191&amp;imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/footergifs&amp;referrer='+escape(document.location),'chat54687191','width=472,height=320');return false;"><img src="https://server.iad.liveperson.net/hc/54687191/?cmd=repstate&amp;site=54687191&amp;&amp;ver=1&amp;imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/footergifs" name="hcIcon" width="165" height="65" border="0"></a> </p></td></tr><tr><td> </td><td align="center"> <a href="http://www.liveperson.com" style="text-decoration:none"><font face="Arial" size="-2" color="#333333"><span style="font-size: 10px; font-family: Arial, Helvetica, sans-serif"><font color="#475780"></font><font color="#56A145"></font></span></font></a></td></tr></tbody></table> <!-- END LivePerson Button code -->
+<p></p>
+
+<p><a href="http://www.cloggs.co.uk/page/helpdeskwelcome" class="glink">helpdesk</a> | <a href="http://www.cloggs.co.uk/page/security" class="glink">security &amp; privacy</a> | <a href="http://www.cloggs.co.uk/page/siteguide2" class="glink">site guide</a> | <a href="http://www.cloggs.co.uk/page/sizehelp2" class="glink">size help</a> | <a href="http://www.cloggs.co.uk/page/aboutus2" class="glink">about us</a> | <a href="http://www.cloggs.co.uk/page/termsandconditions" class="glink">terms &amp; conditions</a><br>
+<a href="http://www.cloggs.co.uk/page/newsletters" class="glink">sign up for exclusive offers</a> | <a href="http://www.cloggs.co.uk/page/careers" class="glink">careers</a> | <a href="http://www.cloggs.co.uk/page/affiliatewithcloggs" class="glink">affiliate with cloggs</a> | <a href="http://www.cloggs.co.uk/page/livechat" class="glink">about live chat</a><br><a href="mailto:customer.services@cloggs.co.uk&amp;subject=Report - Cloggs Website Error" title="Customer Service | Report an Error" class="wasprice"><u>report an error</u></a> | <a href="mailto:customer.services@cloggs.co.uk?subject=PROBLEMS ORDERING&amp;bcc=orderproblems@cloggs.co.uk&amp;body=Dear Cloggs.co.uk,%0A%0APROBLEM EXPERIENCED: [please describe your ordering problem here]%0A%0AHere are the details of the product(s) I wish to buy and my contact details so that you can contact me.%0A%0ABRAND NAME:%0APRODUCT/MODEL NAME:%0ASIZE:%0ACOLOUR:%0AQUANTITY:%0ACONTACT TELEPHONE NUMBER:%0ACONTACT NAME:%0ADELIVERY ADDRESS:" class="glink">report ordering problems</a> | <a href="mailto:customer.services@cloggs.co.uk?subject=CLOGGS ORDER CALLBACK SERVICE&amp;bcc=orderproblems@cloggs.co.uk&amp;body=Dear Cloggs.co.uk,%0A%0AHere are the details of the product(s) I wish to buy and my contact details so that you can contact me.%0A%0ABRAND NAME:%0APRODUCT/MODEL NAME:%0ASIZE:%0ACOLOUR:%0AQUANTITY:%0ACONTACT TELEPHONE NUMBER:%0ACONTACT NAME:%0ADELIVERY ADDRESS:" class="glink">request callback</a><br><br>
 		© Copyright 1999-2006 - Cloggs. All rights reserved</p>
 
  
 <!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="https://server.iad.liveperson.net/hc/54687191/x.js?cmd=file&amp;file=chatScript3&amp;site=54687191&amp;&amp;imageUrl=https://www.cloggs.co.uk/content/ebiz/cloggs/stry/chatbanners2"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
 
-
-</td>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-430920-1";
+urchinTracker();
+</script></td>
 	</tr>
 	<tr>
 		<td align="right"><a href="http://www.venda.com" target="_blank"><img src="/venda-support/images/vendalogo/en_ffffff.gif" alt="eCommerce and CRM systems powered by Venda" border="0"></a></td>
