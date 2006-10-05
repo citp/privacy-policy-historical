@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cua.com.au privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614155531id_/http%3A//www.cua.com.au/web/cua.nsf/docindex/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cua.com.au privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006010600id_/http%3A//www.cua.com.au/web/cua.nsf/docindex/privacy%2Bpolicy) for the most accurate reproduction.*
 
-# CUA
+# Credit Union Australia: Australia's Friendliest Banking - Privacy policy
 
 **Privacy Statement**  
-For CUA and its subsidiaries namely Credicorp Insurance Pty Ltd, Credicare Health Fund Ltd, Mentor Australia Financial Planning Pty Ltd and Leisure Travel Pty Ltd
+For CUA and its subsidiaries namely Credicorp Insurance Pty Ltd, Credicare Health Fund Ltd, CUA Financial Planning Pty Ltd and Leisure Travel Pty Ltd
 
 (Please note that where appropriate any reference in this statement to CUA includes its subsidiaries.)
 
@@ -22,12 +22,6 @@ Certain exceptions apply to the general restriction on us to deal with personal 
   * We have an obligation to on-forward your Tax File Number (TFN) to the Australian Taxation Office if you provide it to us. 
   * We must provide information to an entity if we are required to by law; eg under the Social Security (Administration) Act 1999, we must provide certain information to Centrelink if they request it from us.
 
-
-
+  
 **Further Information**  
-If you require more detailed information in relation to what sort of personal information we hold, for what purposes we hold it, how we collect, hold, use and disclose information 
-
-[_click here_](https://web.archive.org/Web/Inter.nsf/attachments/Privacynotice.pdf/$FILE/Privacynotice.pdf)
-
-.  
-
+If you require more detailed information in relation to what sort of personal information we hold, for what purposes we hold it, how we collect, hold, use and disclose information [_click here_](https://web.archive.org/Web/Inter.nsf/attachments/Privacynotice.pdf/$FILE/Privacynotice.pdf).
