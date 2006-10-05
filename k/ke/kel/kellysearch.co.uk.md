@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2006-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060203141220id_/http%3A//www.kellysearch.co.uk/infozone/resources/privpolicy.asp%3Fsearch-location%3Dgb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellysearch.co.uk privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006001741id_/http%3A//www.kellysearch.co.uk/infozone/resources/privpolicy.asp%3Fsearch-location%3Dgb) for the most accurate reproduction.*
 
 # Kellysearch - Privacy policy
 
@@ -19,7 +19,7 @@ Contact details provided by you (such as your name, job title, telephone and fax
    
 Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access our services or websites. We may use cookies to provide you with a convenient means of access, without needing your password. Also to protect the integrity of registered user names and passwords and to limit access to 'paid for' services. We will not disclose information obtained by the use of cookies to third parties.   
    
-In addition, the third party companies who sell and provide advertisements to the site and host our contacts database make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of website, please visit the websites of our third party supplier [Adtech](http://www.adtech.info/privacy_en.php).   
+In addition, the third party companies who sell and provide advertisements to the site and host our contacts database make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of website, please visit the websites of our third party supplier [Adtech](http://www.adtech.info/en/cookie_opt-out.html).   
    
 **Data Protection Policy**  
    
@@ -35,7 +35,7 @@ Aggregate statistical information provided by us to our advertisers or others re
    
 **Banner advertisement serving**  
    
-Please refer to <http://www.adtech.info/privacy_en.php>  
+Please refer to <http://www.adtech.info/en/cookie_opt-out.html>  
    
 **Changes to Privacy Policy**  
    
