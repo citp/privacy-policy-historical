@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betonmarkets.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516200200id_/http%3A//venus2.betonmarkets.com//e/c_template/o_cgi/q_w/l_CR/a_l/l_GB/a_filecode/l_privacy_.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betonmarkets.com privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005043023id_/http%3A//mercury1.betonmarkets.com//e/c_template/o_cgi/q_w/l_CR/a_l/l_GB/a_filecode/l_privacy_.htm) for the most accurate reproduction.*
 
 # BetOnMarkets.com - The World of Financial Trading
 
@@ -24,11 +24,11 @@ Credit card details are submitted directly into the Visa/Mastercard network via 
 
 **Cookies**
 
-This Web site does not collect personally identifying information about you except when you specifically and knowingly provide it. There is a technology called "cookies" which can be used to provide tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. If you do not accept the cookie, then you will need to input your loginID and password again at every form required to enter into the system. You are advised to choose this option if you have concerns about the security of your personal browser or PC. 
+This website does not collect personally identifying information about you except when you specifically and knowingly provide it. There is a technology called "cookies" which can be used to provide tailored information from a website. A cookie is an element of data that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. If you do not accept the cookie, then you will need to input your loginID and password again at every form required to enter into the system. You are advised to choose this option if you have concerns about the security of your personal browser or PC. 
 
 **Links**
 
-This website contains links to other Web sites and may contain banner or icon advertisements related to third-party websites. These websites and the advertisements thereof may submit cookies onto your web browser and as such are beyond our control. We are not responsible for the privacy practices or the content of such Web sites. We encourage you to read the privacy policies of these websites, because their practices may differ from ours. 
+This website contains links to other websites and may contain banner or icon advertisements related to third-party websites. These websites and the advertisements thereof may submit cookies onto your web browser and as such are beyond our control. We are not responsible for the privacy practices or the content of such websites. We encourage you to read the privacy policies of these websites, because their practices may differ from ours. 
 
 **Notification of Changes**
 
