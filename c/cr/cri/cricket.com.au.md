@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricket.com.au privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618233936id_/http%3A//cricket.com.au/%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricket.com.au privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005170340id_/http%3A//cricket.com.au/%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy
 
