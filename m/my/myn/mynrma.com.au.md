@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206183818id_/http%3A//mynrma.com.au/member_centre_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2006-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061005093458id_/http%3A//www.mynrma.com.au/member_centre_privacy.asp) for the most accurate reproduction.*
 
 # Privacy - About Us - MyNRMA - About Us - MyNRMA
 
 This statement is effective from 1 January 2004
 
-  * [Click here for Q & A's relating to use of our website.](https://web.archive.org/web/20060206183818id_/http%3A//mynrma.com.au/member_centre_privacy.asp#qa)
+  * [Click here for Q & A's relating to use of our website.](https://web.archive.org/web/20061005093458id_/http%3A//www.mynrma.com.au/member_centre_privacy.asp#qa)
 
 
 
