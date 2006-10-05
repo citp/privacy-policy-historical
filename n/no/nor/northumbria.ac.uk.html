@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the northumbria.ac.uk privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616030640id_/http%3A//northumbria.ac.uk/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the northumbria.ac.uk privacy policy that was archived on 2006-10-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061005214131id_/http%3A//northumbria.ac.uk/legal/privacy) for the most accurate reproduction.-->
 
 <html lang="en"><head>
 <title>Privacy Statement - Northumbria University, Newcastle UK</title>
@@ -273,12 +273,37 @@ if (readCookie('style') == 'textonly') {
 
 
 
-  <script language="javascript">
+  <script language="javascript" type="text/javascript">
   // use hidden form with different 'name' attribute if context search selected
   function setTarget(f) {
     if(f.freesearch.value == "") {
       return false;
     } else {
+					// check for common query errors
+					var v = f.freesearch.value.toLowerCase();
+					if(f.whatsearch[0].checked || f.whatsearch[1].checked) {
+						// redirect timetable queries
+						if(v=="timetable" || v=="time table" || v=="timetables" || v=="time tables") {
+							if(confirm("Do you wish to view Teaching Timetables?")) {
+								location.href="/legacy_links/timetables";
+								return false;
+							}
+						}
+						// redirect courses query
+						if(v=="courses" || v=="course") {
+							if(confirm("Do you wish to view Course Information?")) {
+								location.href="/?view=CourseList";
+								return false;
+							}
+						}
+						// redirect email queries
+						if(v.indexOf("@") != -1) {
+							if(confirm("Are you searching for a staff email address?")) {
+								location.href="/staff/whitepages/";
+								return false;
+							}
+						}
+					}
    		 if(f.whatsearch.length == 3 && f.whatsearch[2].checked) {
 	      document.getElementById('contextForm').freesearch.value = f.freesearch.value;
 	      document.getElementById('contextForm').submit();
@@ -660,6 +685,16 @@ ID_ALLCUST_827364+="&ID_CT18="+escape(ID_CT18);
 		</td>
     	</tr>
 </tbody></table>
+
+<!-- Begin Google Analytics Code -->
+<!-- commented out RMR 2006-07-26
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_uacct = "UA-441786-1";
+	urchinTracker();
+</script>
+-->
+<!-- End Google Analytics Code -->
 
 
 
