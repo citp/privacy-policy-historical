@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the metoperafamily.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023840id_/http%3A//www.metoperafamily.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metoperafamily.org privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006011203id_/http%3A//www.metoperafamily.org/metopera/utility/privacy.aspx) for the most accurate reproduction.*
 
-# The Metropolitan Opera
-
-| 
-
-|  | 
+# Privacy Policy - the Metropolitan Opera
 
 ## Privacy Policy
 
@@ -36,26 +32,24 @@ A cookie is an alphanumeric identifier that is automatically stored on the hard 
 **Personal Information**
 
 When a user of our web sites requests brochures, enters quizzes, or purchases a membership, tickets, merchandise, or other items, we must have the information necessary to process the transaction: name, address, telephone number, e-mail address and, when applicable, credit card number. For reasons of security, no credit card information is shared with any third parties or stored permanently on our web server. If a user registers at our sites, but does not make a request or purchase, this same information, is collected with the exception of credit card information.   
-In addition to using your name and contact information to fulfill your requests, process your transactions or to award prizes, your name and contact information will be added to our database, and we may perform statistical analyses of user behavior to measure interest in the various areas of our sites. You may receive direct mail or telemarketing calls from The Met and the Guild. Although we sometimes make names and addresses available to select organizations for direct mail marketing purposes, with the exception of American Ballet Theatre, we do not provide our lists to any organizations for e-mail or telemarketing use. 
+In addition to using your name and contact information to fulfill your requests, process your transactions or to award prizes, your name and contact information will be added to our database, and we may perform statistical analyses of user behavior to measure interest in the various areas of our sites. You may receive direct mail or telemarketing calls from the Met and the Guild. Although we sometimes make names and addresses available to select organizations for direct mail marketing purposes, with the exception of American Ballet Theatre, we do not provide our lists to any organizations for e-mail or telemarketing use. 
 
 We may release information if we are required to do so by law or in the good faith belief that it is necessary to comply with the law or legal process served on us or protect and defend our legitimate business interests, rights or property or rights of our customers and patrons. 
 
 If you communicate with us by letter, e-mail, phone or in person, it is possible that information about the communication may be collected into a file specific to you. 
 
-To alter your e-mail preferences, please complete our [E-Mail Choices](http://www.metoperafamily.org/metopera/utility/email.aspx) form and we will record and respect your instructions. 
+To alter your e-mail preferences, please complete our [E-Mail Choices](http://www.metoperafamily.org/metopera/utility/contact/email.aspx) form and we will record and respect your instructions. 
 
 **Disclaimers**
 
-Please note that The Met Family of Web Sites does not knowingly collect personal information from any child under 13 without parental consent. Any parent who may be concerned that a child has accessed our web sites or given personal information should contact us as indicated below.  
-Further, although we believe that our security procedures are appropriate to protect your personal information as indicated, we cannot guarantee that these precautions will protect against, and we must hereby expressly disclaim any liability for, its misuse, loss, alteration or use inconsistent with our policy. In addition, note that the policy appearing here applies solely to information collected by The Met Family of Web Sites, and we have no responsibility for and specifically disclaim any liability for the content, the privacy policies and the use of information of third-party web sites to which our sites may give links. 
+Please note that the Met Family of Web Sites does not knowingly collect personal information from any child under 13 without parental consent. Any parent who may be concerned that a child has accessed our web sites or given personal information should contact us as indicated below.  
+Further, although we believe that our security procedures are appropriate to protect your personal information as indicated, we cannot guarantee that these precautions will protect against, and we must hereby expressly disclaim any liability for, its misuse, loss, alteration or use inconsistent with our policy. In addition, note that the policy appearing here applies solely to information collected by the Met Family of Web Sites, and we have no responsibility for and specifically disclaim any liability for the content, the privacy policies and the use of information of third-party web sites to which our sites may give links. 
 
 **Jurisdiction and Venue**
 
-All users, including those who access the web sites from a country other than the U.S., agree by virtue of their use that the laws of the State of New York shall govern any disputes, including any arising from or in connection with use of the sites and any arising from The Met’s or The Guild’s use of personal information or otherwise relating to privacy and that any claim made against The Met or The Guild can be brought only in a federal or state court in New York County, New York, all as specified in our [Terms and Conditions](http://www.metoperafamily.org/metopera/utility/terms_conditions.aspx). 
+All users, including those who access the web sites from a country other than the U.S., agree by virtue of their use that the laws of the State of New York shall govern any disputes, including any arising from or in connection with use of the sites and any arising from the Met’s or The Guild’s use of personal information or otherwise relating to privacy and that any claim made against the Met or The Guild can be brought only in a federal or state court in New York County, New York, all as specified in our [Terms and Conditions](http://www.metoperafamily.org/metopera/utility/terms_conditions.aspx). 
 
 **Contact Information**
 
 If you have any questions regarding this privacy policy, please contact:  
-E-mail: [metinfo@mail.metopera.org](mailto:metinfo@mail.metopera.org)  
-  
----|---|---|---
+E-mail: [metinfo@metopera.org](mailto:metinfo@metopera.org)
