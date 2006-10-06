@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailystar.co.uk privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617021637id_/http%3A//www.dailystar.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailystar.co.uk privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006213717id_/http%3A//www.dailystar.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Daily Star: Simply The Best 7 Days A Week
 
