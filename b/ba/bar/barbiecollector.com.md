@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barbiecollector.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627000937id_/http%3A//www.barbiecollector.com/contact/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbiecollector.com privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006062821id_/http%3A//www.barbiecollector.com/contact/policies.asp) for the most accurate reproduction.*
 
 # Barbie Collector - Privacy Policy
 
@@ -94,6 +94,6 @@ In the U.S.: 800-524-TOYS (800-524-8697)
 In Canada: 800-665-6288  
 **
 
-[**Terms & Conditions**](https://web.archive.org/web/20060627000937id_/http%3A//www.barbiecollector.com/contact/termsandconditions.asp)
+[**Terms & Conditions**](https://web.archive.org/web/20061006062821id_/http%3A//www.barbiecollector.com/contact/termsandconditions.asp)
 
 © 2004 Mattel, Inc. All Rights Reserved.
