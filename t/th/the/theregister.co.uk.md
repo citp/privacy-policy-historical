@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2006-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060112044143id_/http%3A//www.theregister.co.uk/odds/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theregister.co.uk privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006232730id_/http%3A//www.theregister.co.uk/odds/about/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register | The Register
 
@@ -87,6 +87,10 @@ Sirenic run The Register's Mobile Reg Service. [Privacy Policy](http://www.siren
 ### Skinkers
 
 Skinkers run The Register's NewsAlerts Service. [Privacy Policy](http://www.skinkers.com/privacy.html)
+
+### Rackspace
+
+Rackspace host The Register's websites, and manage the [hosting micro-site](http://www.theregister.co.uk/offers/hosting). [Privacy Policy](http://www.rackspace.co.uk/content/s2/PDFs/Legal/PrivacyStatement60131.pdf?from=5061727964710674)
 
 ### Data Protection
 
