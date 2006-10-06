@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianetindia.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629094656id_/http%3A//www.asianetindia.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianetindia.com privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006113733id_/http%3A//www.asianetindia.com/main/privacy.php) for the most accurate reproduction.*
 
 # Asianet DataLine :: Non-stop Net For Less
 
