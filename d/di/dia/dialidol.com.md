@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialidol.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616223944id_/http%3A//dialidol.com/asp/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialidol.com privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006085609id_/http%3A//dialidol.com/asp/privacy/privacy.asp) for the most accurate reproduction.*
 
 # DialIdol.com - Speed dial your favorite American Idol ®s to the next round. This free program uses your modem and the power of the Internet to give new meaning to making every vote count.
 
