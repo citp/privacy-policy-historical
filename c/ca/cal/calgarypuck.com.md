@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calgarypuck.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627055520id_/http%3A//www.calgarypuck.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calgarypuck.com privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006052605id_/http%3A//www.calgarypuck.com/Privacy.htm) for the most accurate reproduction.*
 
 # Calgarypuck.com
 
