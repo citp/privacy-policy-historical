@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billhighway.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618131227id_/http%3A//www.billhighway.com/aph/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billhighway.com privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006072849id_/http%3A//www.billhighway.com/aph/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Automated Payment Highway - Solutions For Shared Billing
 
