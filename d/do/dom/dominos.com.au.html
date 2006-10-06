@@ -1,19 +1,23 @@
-<!--The following is the downloaded HTML source of the dominos.com.au privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616011655id_/http%3A//www.dominos.com.au/great_company/default.asp%3FID%3D96%26pnav%3D6%26snav%3D96) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dominos.com.au privacy policy that was archived on 2006-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061006210253id_/http%3A//www.dominos.com.au/great_company/default.asp%3FID%3D96%26pnav%3D6%26snav%3D96) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>Domino's Pizza - your privacy is our policy</title>
+<html><head><script language="JavaScript">var ROOT = "http://www.dominos.com.au";var savedComments = "";</script>
+
+
+
+	<title>Domino's Pizza - your privacy is our policy</title>
 <!-- 
 > > > > > JSA Digital < < < < < 
 http://www.jsadigital.com.au
 info@jsadigital.com.au
 -------------------------------
 -->
-<meta name="Description" content="">
-<meta name="DC.Title" content="">
-<meta name="DC.Date" content="February 2005">
 <meta name="DC.Identifier" content="http://www.dominos.com.au">
-<meta name="Keywords" content="CSV FORMAT, CSV FORMAT">
+
+<meta name="description" content="Domino's Pizza Australia New Zealand - delivering fresh, quality pizzas every time.">
+<meta name="keywords" content="dominos pizza, domino's,pizza delivery, pizza online, hot pizza, fresh, quality pizzas, hot cell, home delivery, online ordering, cheese, australian, sydney, brisbane, melbourne, perth, darwin, hobart, adelaide, pickup, pick-up, takeaway, take away pizza">
+<meta name="Robots" content="INDEX, FOLLOW, ALL">
+<meta name="Revisit-After" content="7 Days">
 
 
 <meta name="Author" content="JSA Digital - www.jsa.com.au">
@@ -22,566 +26,502 @@ info@jsadigital.com.au
 <meta name="DC.Language" content="English">
 <meta name="Destination" content="public">
 
-<script language="JavaScript" src="../_inc/js_thebefore.js"></script><script language="javascript">
+<script language="JavaScript" src="../_inc/dt_tools.js"></script><script language="VBScript"> 
+on error resume next 
+flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) 
+flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) 
+flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) 
+flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) 
+flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) 
+flash7Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))) 
+flash8Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) 
+flash8Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.9"))) 
+</script> 
 
-/*---- CONTENTS *//*
-
-0. IE Emulate
-1. Flash Detection
-2. Browser Detection
-3. Flyout Menus
-4. Image Rollovers
-5. Form Validation
-
-*//*---- */
-
-
-
-/* ---- BROWSER DETECTION */
-function Is () {
-    // convert all characters to lowercase to simplify testing
-	var agt=navigator.userAgent.toLowerCase();
-
-	// *** BROWSER VERSION ***
-	this.major = parseInt(navigator.appVersion);
-	this.minor = parseFloat(navigator.appVersion);
-	this.nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
-				&& (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
-				&& (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1));
-	this.nav2 = (this.nav && (this.major == 2));
-	this.nav3 = (this.nav && (this.major == 3));
-	this.nav4 = (this.nav && (this.major == 4));
-	this.nav4up = (this.nav && (this.major >= 4));
-	this.navonly      = (this.nav && ((agt.indexOf(";nav") != -1) ||
-						  (agt.indexOf("; nav") != -1)) );
-	this.nav6 = (this.nav && (this.major == 5));
-	this.nav6up = (this.nav && (this.major >= 5));
-	this.gecko = (agt.indexOf('gecko') != -1);
-	this.ie     = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
-	this.ie3    = (this.ie && (this.major < 4));
-	this.ie4    = (this.ie && (this.major == 4) && (agt.indexOf("msie 4")!=-1) );
-	this.ie4up  = (this.ie  && (this.major >= 4));
-	this.ie5    = (this.ie && (this.major == 4) && (agt.indexOf("msie 5.0")!=-1) );
-	this.ie5_5  = (this.ie && (this.major == 4) && (agt.indexOf("msie 5.5") !=-1));
-	this.ie5up  = (this.ie  && !this.ie3 && !this.ie4);
-	this.ie5_5up =(this.ie && !this.ie3 && !this.ie4 && !this.ie5);
-	this.ie6    = (this.ie && (this.major == 4) && (agt.indexOf("msie 6.")!=-1) );
-	this.ie6up  = (this.ie  && !this.ie3 && !this.ie4 && !this.ie5 && !this.ie5_5);
-
-	this.opera = (agt.indexOf("opera") != -1);
-	this.opera2 = (agt.indexOf("opera 2") != -1 || agt.indexOf("opera/2") != -1);
-	this.opera3 = (agt.indexOf("opera 3") != -1 || agt.indexOf("opera/3") != -1);
-	this.opera4 = (agt.indexOf("opera 4") != -1 || agt.indexOf("opera/4") != -1);
-	this.opera5 = (agt.indexOf("opera 5") != -1 || agt.indexOf("opera/5") != -1);
-	this.opera5up = (this.opera && !this.opera2 && !this.opera3 && !this.opera4);
-
-	// *** PLATFORM ***
-	this.win   = ( (agt.indexOf("win")!=-1) || (agt.indexOf("16bit")!=-1) );
-	this.win95 = ((agt.indexOf("win95")!=-1) || (agt.indexOf("windows 95")!=-1));
-	this.win98 = ((agt.indexOf("win98")!=-1) || (agt.indexOf("windows 98")!=-1));
-	this.winnt = ((agt.indexOf("winnt")!=-1) || (agt.indexOf("windows nt")!=-1));
-	this.win32 = (this.win95 || this.winnt || this.win98 || 
-					((this.major >= 4) && (navigator.platform == "Win32")) ||
-					(agt.indexOf("win32")!=-1) || (agt.indexOf("32bit")!=-1));
-	this.winme = ((agt.indexOf("win 9x 4.90")!=-1));
-	this.win2k = ((agt.indexOf("windows nt 5.0")!=-1));
-	this.mac    = (agt.indexOf("mac")!=-1);
-	
-	// *** PRESET JSA VARS ***
-	this.get_ok		= this.nav6up || (this.ie && this.win) || this.opera5up;
-	this.get_good	= this.win && this.ie5up;
-
-}
-var is;
-is = new Is();
-
-/* ---- */
-
-
-
-/* ---- FLASH DETECTION */
-var flash2Installed = false;
-var flash3Installed = false;
-var flash4Installed = false;
-var flash5Installed = false;
-var flash6Installed = false;
-var flash7Installed = false;
-var flash8Installed = false;
-var flash9Installed = false;
-var maxVersion = 9;
-var actualVersion = 0;
-var flash_bln = false;
-
-if (is.ie && is.win) {
-	document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n');
-	document.write('on error resume next \n');
-	document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
-	document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
-	document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
-	document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');  
-	document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');  
-	document.write('flash7Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))) \n');
-	document.write('flash8Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) \n');
-	document.write('flash9Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.9"))) \n');
-	document.write('</SCR' + 'IPT\> \n');
-}
-
-function detectFlash() {  
-	if (navigator.plugins) {
-		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
-			var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-			var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
-			var flashVersion = parseInt(flashDescription.substring(16));
-			flash2Installed = flashVersion == 2;
-			flash3Installed = flashVersion == 3;
-			flash4Installed = flashVersion == 4;
-			flash5Installed = flashVersion == 5;
-			flash6Installed = flashVersion == 6;
-			flash7Installed = flashVersion == 7;
-			flash8Installed = flashVersion == 8;
-			flash9Installed = flashVersion >= 9;
-		}
-	}
-
-	for (var i = 2; i <= maxVersion; i++) if (eval("flash" + i + "Installed") == true) actualVersion = i;
-
-	this.bln		= actualVersion > 0;
-	this.version	= actualVersion;
-	this.flash		= function(str)	{ dt_flash.version >= 7	? document.write(str):void(0); }
-	this.noflash	= function(str)	{ dt_flash.version < 7	? document.write(str):void(0); }
-	this.write_content = function(o) {
-		var fsrc = o.getAttribute("flash_src"), nfsrc = o.getAttribute("noflash_src");
-		var w = o.getAttribute("width"), h = o.getAttribute("height");
-		var noflash_txt = nfsrc;
-		var flash_txt = "<object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0\" width=\""+w+"\" height=\""+h+"\"><param name=\"movie\" value=\""+fsrc+"\"><param name=wmode value=transparent><param name=quality value=high><embed src=\""+fsrc+"\" quality=high pluginspage=\"http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash\" type=\"application/x-shockwave-flash\" width=\""+w+"\" height=\""+h+"\"></embed></object>";
-		
-		dt_flash.version >= 7 ? o.innerHTML = flash_txt : o.innerHTML = noflash_txt;
-
-		o.style.visibility = "visible";
-	
-	}
-
-}
-var dt_flash;
-dt_flash = new detectFlash();
-
-/* ---- */
-
-
-
-/* ---- IE Emulate + Global prototypes */
-String.prototype.dt_replace = function(s,r) {
-	return this.split(s).join(r);
-}
-/* ---- */
-
-
-
-//---------------- FLYOUTS V1.7
-var current_flyout_o = null;
-var flyout_over_bln = false;
-var hide_flyout_interval = null;
-function dt_flyouts() {
-	var menu_o = document.getElementsByName("menu");
-	if (is.get_ok) {
-		if (menu_o.length) for (var i=0;i<=(menu_o.length-1);i++) init_menu(menu_o[i]);
-		(is.ie) ? window.attachEvent("onresize", emulateonresizeend) : window.addEventListener("resize", emulateonresizeend, false);
-	}
-}
-
-var emulateonresizeendiid;
-function emulateonresizeend() {
-	if (parseInt(emulateonresizeendiid)) clearInterval(emulateonresizeendiid);
-	emulateonresizeendiid = setInterval("dt_flyouts();clearInterval(emulateonresizeendiid)" ,100);
-}
-
-function init_menu(o) {
-	var mpos, target_o, sticky_bln = false;
-	
-	// Used in the vertical navs where the flyouts double as sticky static navs
-	//if (o.getAttribute("stickonurl")) if (location.href.match(o.getAttribute("stickonurl"))) sticky_bln = true;
-	
-	// Allowing users to click anywhere to kill the flyouts
-	if (is.ie) document.body.attachEvent("onclick", fo_kill);
-	
-	if (o.getAttribute("submenu") == null) {
-		
-		// Allowing other primary navigation buttons that do not have flyouts to kill the current flyout
-		// To make this work add the 'menu' id and name to the element with NO 'submenu' attributes
-		is.ie ? o.attachEvent("onmouseover", fo_kill) : o.addEventListener("mouseover", fo_kill, false);
-		
-	} else if (o.getAttribute("submenu") && sticky_bln == false) {
-		p = document.getElementById(o.getAttribute("submenu"));
-		if (p.style) {
-			dt_positions(o);
-			mpos = o.getAttribute("submenuposition").split(",");
-			if (!parseInt(mpos[0])) {
-				if (mpos[0].indexOf("this") != -1) mpos[0] = mpos[0].replace("this", "o._x");
-				mpos[0] = eval(mpos[0]);
-			}
-			if (!parseInt(mpos[1])) {
-				if (mpos[1].indexOf("this") != -1) mpos[1] = mpos[1].replace("this", "o._y");
-				mpos[1] = eval(mpos[1]);
-			}
-			p.style.left = mpos[0]+"px";
-			p.style.top = mpos[1]+"px";
-		}
-		
-		fo_over_fn = function() {
-			var this_o, o;
-			is.ie ? this_o = event.srcElement : this_o = this;
-			while (this_o.getAttribute("submenu") == null && this_o.tagName != "BODY") this_o = this_o.parentNode;
-			o = document.getElementById(this_o.getAttribute("submenu"));
-			if (current_flyout_o) current_flyout_o.style.visibility = "hidden";
-			o.style.visibility = "visible";
-			current_flyout_o = o;
-			flyout_over_bln = true;
-			if (parseInt(hide_flyout_interval)) clearInterval(hide_flyout_interval);
-			hide_flyout_interval = setInterval("hide_flyout()", 1500);
-			hide_show_selects('hidden');
-		}
-
-		fo_out_fn = function() {
-			flyout_over_bln = false;
-		}
-		
-		is.ie ? o.attachEvent("onmouseover", fo_over_fn) : o.addEventListener("mouseover", fo_over_fn, false);
-		is.ie ? o.attachEvent("onmouseout", fo_out_fn) : o.addEventListener("mouseout", fo_out_fn, false);
-		
-		target_o = document.getElementById(o.getAttribute("submenu"));
-
-		target_o.onmouseover = function() {
-			flyout_over_bln = true;
-		}
-		
-		target_o.onmouseout = function() {
-			flyout_over_bln = false;
-		}
-	}
-}
-
-function fo_kill() {
-	flyout_over_bln = false;
-	hide_flyout();
-}
-
-function hide_flyout() {
-	var o = current_flyout_o;
-	if (!flyout_over_bln) {
-		if (hide_flyout_interval != null) clearInterval(hide_flyout_interval);
-		hide_flyout_interval = null;
-		if (o) o.style.visibility = "hidden";
-		hide_show_selects('visible');
-	}
-}
-
-function hide_show_selects(type) {
-	if (is.ie)
-		if (document.getElementsByTagName("SELECT"))
-			for (var i=0; (select_o=document.getElementsByTagName("SELECT")[i]); i++)
-				select_o.style.visibility = type;
-}
-
-function dt_positions(o) {
-	var x, y;
-
-	notie_getx = function(p_el) {
-		while (p_el.tagName.toLowerCase() == "a") p_el = p_el.firstChild;
-		var _xPos = p_el.offsetLeft, _tempEl = p_el.offsetParent;
-
-		while ( _tempEl != null ) {
-			_xPos += _tempEl.offsetLeft;
-			_tempEl = _tempEl.offsetParent;
-		}
-		return _xPos;
-	}
-	
-	notie_gety = function(p_el) {
-		while (p_el.tagName.toLowerCase() == "a") p_el = p_el.firstChild;
-		var _yPos = p_el.offsetTop, _tempEl = p_el.offsetParent;
-
-		while ( _tempEl != null ) {
-			_yPos += _tempEl.offsetTop;
-			_tempEl = _tempEl.offsetParent;
-		}
-		return _yPos;
-	}
-	
-	if (is.win && is.ie) {
-		x = (o.getBoundingClientRect().left - 2) + window.document.body.scrollLeft;
-		y = (o.getBoundingClientRect().top - 2) + window.document.body.scrollTop;
-	} else {
-		x = notie_getx(o);
-		y = notie_gety(o);
-	}
-	
-	o._x = x;
-	o._y = y;
-
-}
-/*---- */
-
-
-
-/*---- IMAGE ROLLOVERS V2.0 */
-function dt_rollovers() {
-	for (var i=0;(img=document.images[i]);i++) {
-		if (location.href.match(img.getAttribute("stickonurl"))) {
-			img.getAttribute("stickimg")?img.src=img.getAttribute("stickimg"):img.src=img.getAttribute("rollover");
-		}
-		if (img.getAttribute("rollover")&&img.done_bln!=true) {
-			img.o=new Image();
-			img.n=new Image();
-			img.o.src = img.getAttribute("rollover");
-			img.n.src = img.src;
-			img.done_bln = true;
-			over_fn = function() {
-				var o;
-				is.ie ? o=event.srcElement : o = this;
-				o.src = o.o.src;
-			}
-			out_fn = function() {
-				var o;
-				is.ie ? o = event.srcElement : o = this;
-				o.src = o.n.src;
-			}
-			is.ie ? img.attachEvent("onmouseover", over_fn) : img.addEventListener("mouseover", over_fn, false);
-			is.ie ? img.attachEvent("onmouseout", out_fn) : img.addEventListener("mouseout", out_fn, false);
-		}
-	}		
-}
-if (is.get_good)	window.attachEvent("onload",dt_rollovers);
-else if (is.get_ok)	window.addEventListener("load",dt_rollovers,false);
-/*---- */
-
-
-
-/*---- FORM VALIDATION */
-/*
-[OVERVIEW]
-Simple validation. After submitting, it alerts the user
-with a list of missing elements, at the same time colours the
-form fields needing attention.
-
-[CALL]
-This function takes two arguments. Firstly, the form object.
-Secondly, an array of information needing validating. The format
-for the array is simple.
-
-var myArray = new Array ("myEmail,eml,Please enter your email address")
-if (myvalidate(objForm,myArray)) objForm.submit();
-
-1. Field Name
-2. Validation Type*
-3. Alert Message
-
-*The validation type has a few pre set types to make life easy.
-
-1. Required:	req		(Forces something to be entered)
-2. Email:		eml		(Forces the '@' and '.' characters)
-3. Number:		num		(Forces an integar type)
-
-If some more custom needs validating, you can put that code in instead.
-Example: "myPostcode,f.myPostcode.length!=4,You must have a 4 digit password"
-
-[WRITTEN]
-David Tsuji
-*/
-function myvalidate(f,vAr) {
-	var errorColor = "#FF9900";
-	var error='';
-	for (i=0;(obj=vAr[i]);i++) {
-		con='';arg='';objAr='';objAr=obj.split(",");
-		if(objAr[0])obj=eval('document.'+f.name+'.'+objAr[0]);
-		arg=objAr[1];alt=objAr[2];
-		if(obj.style&&!obj.n) {
-			objbc = obj.style.backgroundColor;
-			if (objbc) obj.n=objbc;
-			else obj.n="#FFFFFF";
-			obj.e=errorColor; }else if(obj.style&&obj.n) obj.style.backgroundColor=obj.n;
-		myerror=function(){error+='- '+alt+'\n';if(obj.style)obj.style.backgroundColor=obj.e;}
-		if(arg.length>3) con=eval(objAr[1]);
-		if(con) myerror();
-		if(arg=='req') if(!obj.value) myerror();
-		if(arg=='eml') if(!isMyEmail(obj.value)) myerror();
-		if(arg=='num') if(isNaN(obj.value)||!obj.value) myerror();
-	}if(error) {alert('Please correct the following fields:\n\n'+error);return false}
-	else return true;
-}
-
-/*
-[WRITTEN]
-David Peterson
-*/
-function isMyEmail(eml) {
-	var emailPat = /^(\".*\"|[A-Za-z0-9\_][A-Za-z0-9\.\-\_]*)@(\[\d{1,3}(\.\d{1,3}){3}]|([A-Za-z0-9][A-Za-z0-9\-]*\.)+[A-Za-z]{2,4})$/;
-	var matchArray = eml.match(emailPat);
-	if (matchArray == null) return false;
-	var IPArray = matchArray[2].match(/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/);
-	if (IPArray != null) for(i=1;i<=4;i++) if (IPArray[i]>255) return false;
-	return true;
-}
-/*---- */
-
-</script>
 
 <script language="JavaScript" src="../_inc/js.js"></script>
-<link rel="stylesheet" type="text/css" href="../_css/universal.css">
+
+
+<style type="text/css">
+/* ---- CUSTOM */
+#bgMiddle{
+	background-image:url(../images/bg_hp_middle.jpg);
+	background-repeat:no-repeat;
+	background-position:top;
+	height:537px;
+	background-color:#084d6b;
+}
+
+#bgMiddleInner{
+	background-image:url(../images/bg_inner_middle.jpg);
+	background-repeat:no-repeat;
+	background-position:top;
+	height:600px;
+}
+
+#bgMiddleInnerRepeat{
+	background-image:url(../images/bg_inner_middle_repeat.jpg);
+	background-repeat:repeat-y;
+	background-color:#084d6b;
+}
+
+#bgTop{
+	background-image:url(../images/bg_top.gif);
+	background-repeat:repeat-x;
+	height:92px;
+}
+
+#bgTopRight{
+	background-image:url(../images/bg_top_right.gif);
+	background-repeat:repeat-x;
+	height:92px;
+}
+
+#bgBottom{
+	background-image:url(../images/bg_bottom.gif);
+	background-repeat:repeat-x;
+	height:79px;
+}
+
+#bgLeft{
+	background-image:url(../images/bg_hp_left.jpg);
+	background-repeat:no-repeat;
+	background-position:top right;
+	background-color:#084d6b;
+}	
+
+#bgRight{
+	background-image:url(../images/bg_hp_right.jpg);
+	background-repeat:no-repeat;
+	background-position:top left;
+	background-color:#084d6b;
+}	
+
+td.tnav {
+	color:#FFFFFF;
+	font-size:12px;
+}
+
+* HTML .searchBG {
+	background-attachment:fixed;
+}
+
+* HTML .searchBGInner {
+	background-attachment:fixed;
+}
+
+.searchBG{
+	background-image:url(../images/bg_search.gif);
+	border:none;
+	width:123px;
+	height:18px;
+	font-size:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:2px;
+}
+
+.searchBGInner{
+	background-image:url(../images/bg_search_inner.gif);
+	border:none;
+	width:123px;
+	height:18px;
+	font-size:9px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:2px;
+}
+
+.footerWhite {
+	color:#FFFFFF;
+}
+
+.footerGrey{
+	color:#dad9d9;
+}
+
+.pageTitle {
+	color:#005291;
+	font-size:18px;
+}
+
+.content {
+	padding-left:10px;
+	padding-right:20px;
+	width:597px;
+}
+/*---- */
+
+
+
+/* ---- GLOBAL */
+body, td, p, ul, li  {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-color:#a7c73d;
+}
+/* ---- */
+
+
+
+/* ---- LINKS */
+.fo_nav a:link, .fo_nav a:active, .fo_nav a:visited {
+	background-image:url(../images/nav/fo_bg.gif);
+	background-repeat:no-repeat;
+	display:block;
+	width:100%;
+	color:#5f4705;
+	padding-top:9px;
+	padding-bottom:10px;
+	padding-left:16px;
+	padding-right:16px;
+	text-decoration:none;
+}
+
+.fo_nav a:hover {
+	color:#5f4705;
+	text-decoration:none;
+	background-image:url(../images/nav/fo_bg_.gif);
+}
+
+.s_nav a:link, .s_nav a:active, .s_nav a:visited {
+	background-image:url(../images/nav/snav_loop_bg.gif);
+	background-repeat:no-repeat;
+	display:block;
+	color:#5f4705;
+	padding-left:16px;
+	padding-right:16px;
+}
+
+.s_nav a:hover {
+	color:#5f4705;
+	text-decoration:underline;
+}
+
+.s_nav_l3 a:link, .s_nav_l3 a:active, .s_nav_l3 a:visited {
+	background-image:url(../images/nav/snav_l3_bg.gif);
+	background-repeat:repeat-y;
+	display:block;
+	color:#5f4705;
+	padding-left:22px;
+	padding-right:20px;
+	padding-top:3px;
+	padding-bottom:3px;
+}
+
+.s_nav_l3 a:hover {
+	color:#5f4705;
+	text-decoration:underline;
+}
+
+.tnav a:link, .tnav a:active, .tnav a:visited {
+	text-decoration:none;
+	color:#FFFFFF;
+}
+
+.tnav a:hover {
+	color:#FFFFFF;
+	text-decoration:underline;
+}
+
+.footerWhite a:link, .footerWhite a:active, .footerWhite a:visited {
+	text-decoration:none;
+	color:#FFFFFF;
+}
+
+.footerWhite a:hover {
+	text-decoration:underline;
+}
+
+.footerGrey a:link, .footerGrey a:active, .footerGrey a:visited {
+	text-decoration:none;
+	color:#dad9d9;
+}
+
+.footerGrey a:hover {
+	text-decoration:underline;
+	color:#dad9d9;
+}
+
+
+a:link, a:active, a:visited { 
+	color: #d10004;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #d10004;
+	text-decoration: underline;
+}
+
+a.menu_txt:link, a.menu_txt:active, a.menu_txt:visited {
+	display:block;
+	width:100%;
+	color: #385F01;
+	line-height: 12px;
+	font-weight: bold;
+	background-image:url(../images/menu/green_bullet.gif);
+	background-repeat:no-repeat;
+	padding-top:5px;
+	padding-right:5px;
+	padding-bottom:5px;
+	padding-left:15px;
+	background-color:#E4F74A;
+	margin-bottom:1px;
+}
+
+a.menu_txt:hover {
+	text-decoration:none;
+	background-color:#F1FE8C;
+}
+/* ---- */
+
+
+
+/* ---- CONSTANT - DO NOT REMOVE */
+.showspeechbubble {behavior:url(../_css/components/speech_bubble.htc)}
+span#my_sc {
+	display: none;
+	width: 200px;
+	height: 10px;
+	background-color: #E8E8E8;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #000000;
+	filter: alpha(opacity=100);
+	position: absolute;
+	behavior: url(../_css/components/saved_comments.htc);
+}
+/* ---- */
+</style>
+
 </head>
-
 <body onload="global()">
-<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td class="back_lhs">&nbsp;</td>
-    <td width="838" valign="top" class="back_inner"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td colspan="3" height="1%"><table width="838" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><img src="../images/nav/nav_top.gif" width="838" height="15"></td>
-  </tr>
-  <tr>
-    <td><img src="../images/nav/logo_l_mid.gif" width="87" height="79"><img src="../images/nav/tagline_.jpg" width="740" height="79"><img src="../images/nav/nav_mid_end.gif" width="11" height="79"></td>
-  </tr>
-  
-  <tr>
-    <td><img src="../images/nav/logo_l_base.gif" width="87" height="41"><a href="../home/default.asp" id="menu" name="menu"><img src="../images/nav/1.gif" width="80" height="41" rollover="../images/nav/1__.gif" border="0"></a><a href="../hot_menu/menu.asp" id="menu" name="menu" submenu="hot_menu" submenuposition="this-14,this+31"><img src="../images/nav/2.gif" width="69" height="41" rollover="../images/nav/2__.gif" border="0"></a><a href="../cool_stores/default.asp" id="menu" name="menu"><img src="../images/nav/3.gif" width="72" height="41" rollover="../images/nav/3__.gif" border="0"></a><a href="../fun_stuff/sopuff.asp" id="menu" name="menu"><img src="../images/nav/4.gif" width="61" height="41" rollover="../images/nav/4__.gif" border="0"></a><a href="../awesome_team/default.asp" id="menu" name="menu" submenu="awesome_team" submenuposition="this-14,this+31"><img src="../images/nav/5.gif" width="96" height="41" rollover="../images/nav/5__.gif" border="0"></a><a href="../great_company/default.asp" id="menu" name="menu" submenu="great_company" submenuposition="this-14,this+31"><img src="../images/nav/6.gif" width="95" height="41" rollover="../images/nav/6__.gif" border="0"></a><a href="../franchising/default.asp" id="menu" name="menu" submenu="franchising" submenuposition="this-14,this+31"><img src="../images/nav/7.gif" width="79" height="41" rollover="../images/nav/7__.gif" border="0"></a><a href="../investors/default.asp" id="menu" name="menu" submenu="investors" submenuposition="this-14,this+31"><img src="../images/nav/8.gif" width="70" height="41" rollover="../images/nav/8__.gif" border="0"></a><script language="javascript">
-
-dt_flash.flash("<object classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0\" width=\"118\" height=\"41\"><param name=\"movie\" value=\"../_flash/asx.swf?c=16/06/2006 11:14:50 AM\"><param name=wmode value=transparent><param name=\"quality\" value=\"high\"><embed src=\"../_flash/asx.swf?c=16/06/2006 11:14:50 AM\" quality=\"high\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"118\" height=\"41\"></embed></object>");
-
-dt_flash.noflash("<img src=\"../images/nav/blank.gif\" width=\"118\" height=\"41\">");
-	
-</script><img src="../images/nav/blank.gif" width="118" height="41"><img src="../images/nav/nav_mid_end2.gif" width="11" height="41"></td>
-  </tr>
-  
-  <form name="search" method="post" action="../search/results.asp"></form><input type="hidden" name="searchposted" value="1">
-  <tr>
-    <td align="right" background="../images/nav/nav_base.gif"><table width="100" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td nowrap="" style="color:#89020D"> <a href="http://www.dominospizza.co.nz" class="sitetools">visit our New Zealand site</a> | <a href="http://www.dominos.com.au/great_company/default.asp?ID=92&amp;snav=92" class="sitetools">contact us</a> | <a href="http://www.dominos.com.au/home/sitemap.asp" class="sitetools">view sitemap</a> | <font color="#FCA8AB">search site</font>&nbsp;</td>
-        <td><input name="keyword" type="text" class="searchbox" id="search_field"></td>
-        <td><a href="javascript: document.search.submit()"><img src="../images/nav/search_button.gif" width="15" height="19" hspace="3" border="0"></a></td>
-        <td><img src="../images/transpacer.gif" width="20" height="21"></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  
-  
-  <tr>
-    <td align="right" bgcolor="#D70F20"><img src="../images/transpacer.gif" width="8" height="8"></td>
-  </tr>
-</tbody></table>
-<!--HOT MENU-->
-<table width="216" border="0" cellpadding="0" cellspacing="0" id="hot_menu" name="hot_menu" class="flyout" style="left: 417px; top: 125px;">
-  <tbody><tr>
-    <td width="14" valign="top" id="fo_shadow_left" name="fo_shadow_left">&nbsp;</td>
-    <td valign="top" bgcolor="#FFFFFF" class="flyout_hot_menu"><a href="http://www.dominos.com.au/hot_menu/menu.asp?ID=24&amp;pnav=2&amp;snav=24">menu</a><a href="http://www.dominos.com.au/hot_menu/print_menu.asp?ID=343&amp;pnav=2&amp;snav=343">view/print full menu</a><a href="../hot_menu/default.asp?ID=134&amp;snav=134">design a pizza</a><a href="../hot_menu/default.asp?ID=26&amp;snav=26">crusts</a><a href="http://www.dominos.com.au/hot_menu/menu.asp?side=1&amp;ID=27&amp;pnav=2&amp;snav=27">sides</a><a href="../hot_menu/default.asp?ID=309&amp;snav=309">nutritional / allergen info</a><a href="../hot_menu/default.asp?ID=317&amp;snav=317">school lunch program</a><a href="http://www.dominos.com.au/hot_menu/voucher.asp?ID=64&amp;pnav=2&amp;snav=64">vouchers</a></td>
-    <td width="14" valign="top" id="fo_shadow_right" name="fo_shadow_right">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td><img src="../images/flyouts/fo_footer.png" name="transparent" width="188" height="14" id="transparent"></td>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table>
-<!--COOL STORES-->
-<table width="216" border="0" cellpadding="0" cellspacing="0" id="cool_stores" name="cool_stores" class="flyout">
-  <tbody><tr>
-    <td width="14" valign="top" id="fo_shadow_left" name="fo_shadow_left">&nbsp;</td>
-    <td valign="top" bgcolor="#FFFFFF" class="flyout_cool_stores"></td>
-    <td width="14" valign="top" id="fo_shadow_right" name="fo_shadow_right">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td><img src="../images/flyouts/fo_footer.png" name="transparent" width="188" height="14" id="transparent"></td>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table>
-<!--FUN STUFF-->
-<table width="216" border="0" cellpadding="0" cellspacing="0" id="fun_stuff" name="fun_stuff" class="flyout">
-  <tbody><tr>
-    <td width="14" valign="top" id="fo_shadow_left" name="fo_shadow_left">&nbsp;</td>
-    <td valign="top" bgcolor="#FFFFFF" class="flyout_fun_stuff"></td>
-    <td width="14" valign="top" id="fo_shadow_right" name="fo_shadow_right">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td><img src="../images/flyouts/fo_footer.png" name="transparent" width="188" height="14" id="transparent"></td>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table>
-<!--AWESOME TEAM-->
-<table width="216" border="0" cellpadding="0" cellspacing="0" id="awesome_team" name="awesome_team" class="flyout" style="left: 619px; top: 125px;">
-  <tbody><tr>
-    <td width="14" valign="top" id="fo_shadow_left" name="fo_shadow_left">&nbsp;</td>
-    <td valign="top" bgcolor="#FFFFFF" class="flyout_awesome_team"><a href="../awesome_team/default.asp?ID=18&amp;snav=18">job opportunities</a><a href="http://www.dominos.com.au/awesome_team/application.asp?ID=58&amp;pnav=5&amp;snav=58">application form</a><a href="../awesome_team/default.asp?ID=321&amp;snav=321">board of directors</a><a href="../awesome_team/default.asp?ID=19&amp;snav=19">executive management </a><a href="../awesome_team/default.asp?ID=17&amp;snav=17">case studies</a></td>
-    <td width="14" valign="top" id="fo_shadow_right" name="fo_shadow_right">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td><img src="../images/flyouts/fo_footer.png" name="transparent" width="188" height="14" id="transparent"></td>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table>
-<!--GREAT COMPANY-->
-<table width="216" border="0" cellpadding="0" cellspacing="0" id="great_company" name="great_company" class="flyout" style="left: 715px; top: 125px;">
-  <tbody><tr>
-    <td width="14" valign="top" id="fo_shadow_left" name="fo_shadow_left">&nbsp;</td>
-    <td valign="top" bgcolor="#FFFFFF" class="flyout_great_company"><a href="http://www.dominos.com.au/great_company/company_news.asp?ID=20&amp;pnav=6&amp;snav=20">company news</a><a href="../great_company/default.asp?ID=21&amp;snav=21">inside Domino's</a><a href="../great_company/default.asp?ID=61&amp;snav=61">partners foundation</a><a href="../great_company/default.asp?ID=62&amp;snav=62">sponsorships</a><a href="http://www.dominos.com.au/great_company/links.asp?ID=65&amp;pnav=6&amp;snav=65">links</a><a href="../great_company/default.asp?ID=92&amp;snav=92">contact us</a></td>
-    <td width="14" valign="top" id="fo_shadow_right" name="fo_shadow_right">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td><img src="../images/flyouts/fo_footer.png" name="transparent" width="188" height="14" id="transparent"></td>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table>
-<!--FRANCHISING-->
-<table width="216" border="0" cellpadding="0" cellspacing="0" id="franchising" name="franchising" class="flyout" style="left: 810px; top: 125px;">
-  <tbody><tr>
-    <td width="14" valign="top" id="fo_shadow_left" name="fo_shadow_left">&nbsp;</td>
-    <td valign="top" bgcolor="#FFFFFF" class="flyout_successful_franchise"><a href="../franchising/default.asp?ID=71&amp;snav=71">franchising with us</a><a href="../franchising/default.asp?ID=83&amp;snav=83">your investment</a><a href="../franchising/default.asp?ID=84&amp;snav=84">your benefits</a><a href="../franchising/default.asp?ID=88&amp;snav=88">franchise application process</a><a href="http://www.dominos.com.au/franchising/application.asp?ID=72&amp;pnav=7&amp;snav=72">expressions of interest</a><a href="../franchising/default.asp?ID=73&amp;snav=73">case studies</a><a href="../franchising/default.asp?ID=420&amp;snav=420">available territories</a><a href="../franchising/default.asp?ID=316&amp;snav=316">leasing sites required</a></td>
-    <td width="14" valign="top" id="fo_shadow_right" name="fo_shadow_right"></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td><img src="../images/flyouts/fo_footer.png" name="transparent" width="188" height="14" id="transparent"></td>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table>
-<!--INVESTORS-->
-<table width="216" border="0" cellpadding="0" cellspacing="0" id="investors" name="investors" class="flyout" style="left: 889px; top: 125px;">
-  <tbody><tr>
-    <td width="14" valign="top" id="fo_shadow_left" name="fo_shadow_left">&nbsp;</td>
-    <td valign="top" bgcolor="#FFFFFF" class="flyout_fun_stuff"><a href="../investors/default.asp?ID=335&amp;snav=335">stock information</a><a href="../investors/default.asp?ID=387&amp;snav=387">investor reports</a><a href="../investors/default.asp?ID=337&amp;snav=337">media releases</a><a href="../investors/default.asp?ID=334&amp;snav=334">presentations</a><a href="../investors/default.asp?ID=340&amp;snav=340">contacts</a><a href="http://www.dominos.com.au/awesome_team/default.asp?ID=321&amp;snav=321">board of directors</a><a href="http://www.dominos.com.au/awesome_team/default.asp?ID=19&amp;snav=19">executive management</a></td>
-    <td width="14" valign="top" id="fo_shadow_right" name="fo_shadow_right"></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td><img src="../images/flyouts/fo_footer.png" name="transparent" width="188" height="14" id="transparent"></td>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table></td>
+		<td id="bgTop">&nbsp;</td>
+		<td id="bgTopRight">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td><img src="../images/nav/logo_tagline.gif" width="863" height="48"></td>
+						</tr>
+					</tbody></table></td>
+				</tr>
+				<tr>
+					<td>
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td><img src="../images/nav/logo_middle.gif" width="150" height="44"></td>
+		<td><a href="../home/default.asp"><img src="../images/nav/btn_home.gif" rollover="../images/nav/btn_home_.gif" width="56" height="44" border="0"></a></td>
+		<td><a href="../hot_menu/menu.asp"><img src="../images/nav/btn_hot_menu.gif" rollover="../images/nav/btn_hot_menu_.gif" width="72" height="44" id="fomenu" name="fomenu" fomenu="hot_menu_flyout" foposition="this,this+44" border="0"></a></td>
+		<td><a href="../cool_stores/default.asp"><img src="../images/nav/btn_cool_stores.gif" rollover="../images/nav/btn_cool_stores_.gif" width="76" height="44" border="0"></a></td>
+		<td><a href="../fun_stuff/bigpond_movies.asp"><img src="../images/nav/btn_fun_stuff.gif" rollover="../images/nav/btn_fun_stuff_.gif" width="65" height="44" id="fomenu" name="fomenu" fomenu="fun_stuff_flyout" foposition="this,this+44" border="0"></a></td>
+		<td><a href="../great_company/default.asp"><img src="../images/nav/btn_great_company.gif" rollover="../images/nav/btn_great_company_.gif" width="102" height="44" id="fomenu" name="fomenu" fomenu="great_company_flyout" foposition="this,this+44" border="0"></a></td>
+		<td><a href="../franchising/default.asp"><img src="../images/nav/btn_franchising.gif" rollover="../images/nav/btn_franchising_.gif" width="78" height="44" id="fomenu" name="fomenu" fomenu="franchising_flyout" foposition="this,this+44" border="0"></a></td>
+		<td><img src="../images/nav/hbar_end.gif" rollover="" width="3" height="44"></td>
+		<td><div id="asx" name="asx"><script language="javascript">
+				dt.flash.on.attach(7, "asx", dt.flash.embed("../_flash/asx.swf?c=7/10/2006 6:57:10 AM", "130,18,,true") );
+		</script></div></td>
 	</tr>
-  <tr>
-    <td width="154" valign="top" class="lhs_holder">
-	<img src="../images/side_nav/sidenav_top.gif" width="154" height="22"><span class="pnav_top"><a href="http://www.dominos.com.au/great_company/company_news.asp?ID=20&amp;pnav=6&amp;snav=20" class="pnav_top">company news</a></span>
-		<span class="pnav_top"><a href="default.asp?ID=21&amp;pnav=6&amp;snav=21" class="pnav">inside Domino's</a></span>
-		<span class="pnav_top"><a href="default.asp?ID=61&amp;pnav=6&amp;snav=61" class="pnav">partners foundation</a></span>
-		<span class="pnav_top"><a href="default.asp?ID=62&amp;pnav=6&amp;snav=62" class="pnav">sponsorships</a></span>
-		<span class="pnav_top"><a href="http://www.dominos.com.au/great_company/links.asp?ID=65&amp;pnav=6&amp;snav=65" class="pnav">links</a></span>
-		<span class="pnav_top"><a href="default.asp?ID=92&amp;pnav=6&amp;snav=92" class="pnav">contact us</a></span>
+</tbody></table>
+</td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td id="bgTopRight">&nbsp;</td>
+	</tr>
+	<tr>
+		<td id="bgLeft">&nbsp;</td>
+		<td valign="top" id="bgMiddleInnerRepeat">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td valign="top" id="bgMiddleInner"><table border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td colspan="2" valign="top"><div id="logoBottomInner" name="logoBottomInner" style="position:absolute;"><img src="../images/nav/logo_bottom_inner.gif" width="150" height="75"></div></td>
+							<td valign="top"><table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<form name="seacrh" method="post" action="../search/results.asp"></form><input type="hidden" name="searchposted" value="1">
+			<td valign="middle" class="tnav"><a href="http://www.dominospizza.co.nz" target="_blank">visit our New Zealand site</a><img src="../images/t_nav_divider.gif" width="1" height="17" hspace="5" align="absmiddle"><a href="http://www.dominos.com.au/great_company/default.asp?ID=92&amp;snav=92">contact us</a><img src="../images/t_nav_divider.gif" width="1" height="17" hspace="5" align="absmiddle"><a href="http://www.dominos.com.au/home/sitemap.asp">view sitemap</a><img src="../images/t_nav_divider.gif" width="1" height="17" hspace="5" align="absmiddle">search site <img src="../images/transpacer.gif" width="5"></td>
+			<td valign="middle" class="tnav"><input type="text" name="keyword" class="searchBGInner"></td>
+			<td colspan="2" valign="top" class="tnav"><input type="image" src="../images/btn_search_submit_inner.gif" border="0" name="submit" value="submit"></td>
 		
-<img src="../images/side_nav/sidenav_btm.gif" width="154" height="33">
-	</td>
-    <td valign="top" class="content_holder"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-          <tbody><tr>
-            <td><img src="images/hdr.gif" width="326" height="52" border="0"></td>
-            <td width="22" align="right"><img src="../images/content/top_r_corner.gif" width="22" height="52"></td>
-          </tr>
-        </tbody></table><div class="content" id="content_txt">
+	</tr>
+</tbody></table></td>
+							<td rowspan="3" valign="top">&nbsp;</td>
+						</tr>
+						<tr>
+							<td align="right" valign="top">&nbsp;</td>
+							<td colspan="2" align="right"><img src="../images/page_titles/great_company.gif" width="273" height="48" style="margin-top:30px;margin-right:30px;"></td>
+						</tr>
+						<tr>
+							<td align="right" valign="top">&nbsp;</td>
+							<td colspan="2"><table width="780" border="0" cellpadding="6" cellspacing="0">
+								<tbody><tr>
+									<td valign="top">
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="../images/nav/snav_top.gif" width="164" height="5"></td>
+		</tr>
+	
+		<tr>
+			<td><img src="../images/nav/snav_loop_top.gif" width="164" height="4"></td>
+		</tr>
+		<tr>
+			<td class="s_nav">
+				<a href="http://www.dominos.com.au/great_company/company_news.asp?ID=20&amp;pnav=6&amp;snav=20" class="pnav_top">company news</a>
+			</td>
+		</tr>
+		<tr>
+			<td><img src="../images/nav/snav_loop_bottom.gif" width="164" height="5"></td>
+		</tr>
 		
-			<h1>your privacy is our policy</h1>
-			<p></p><p>Domino’s Pizza Australia New Zealand Limited (“Domino’s”) acknowledges and respects the privacy of individuals. This policy covers the personal information that Domino’s and its franchisees hold and sets out the way in which Domino’s and its franchisees will use, manage and protect your personal information when you visit any of our websites, or place an order with one of our stores, including franchisee stores.</p>
+		<tr>
+			<td><img src="../images/nav/snav_loop_top.gif" width="164" height="4"></td>
+		</tr>
+		<tr>
+			<td class="s_nav">
+				<a href="default.asp?ID=315&amp;pnav=6&amp;snav=315" class="pnav">investors</a>
+			</td>
+		</tr>
+		<tr>
+			<td><img src="../images/nav/snav_loop_bottom.gif" width="164" height="5"></td>
+		</tr>
+		
+		<tr>
+			<td><img src="../images/nav/snav_loop_top.gif" width="164" height="4"></td>
+		</tr>
+		<tr>
+			<td class="s_nav">
+				<a href="default.asp?ID=21&amp;pnav=6&amp;snav=21" class="pnav">inside Domino's</a>
+			</td>
+		</tr>
+		<tr>
+			<td><img src="../images/nav/snav_loop_bottom.gif" width="164" height="5"></td>
+		</tr>
+		
+		<tr>
+			<td><img src="../images/nav/snav_loop_top.gif" width="164" height="4"></td>
+		</tr>
+		<tr>
+			<td class="s_nav">
+				<a href="default.asp?ID=5&amp;pnav=6&amp;snav=5" class="pnav">awesome team</a>
+			</td>
+		</tr>
+		<tr>
+			<td><img src="../images/nav/snav_loop_bottom.gif" width="164" height="5"></td>
+		</tr>
+		
+		<tr>
+			<td><img src="../images/nav/snav_loop_top.gif" width="164" height="4"></td>
+		</tr>
+		<tr>
+			<td class="s_nav">
+				<a href="default.asp?ID=62&amp;pnav=6&amp;snav=62" class="pnav">sponsorships</a>
+			</td>
+		</tr>
+		<tr>
+			<td><img src="../images/nav/snav_loop_bottom.gif" width="164" height="5"></td>
+		</tr>
+		
+		<tr>
+			<td><img src="../images/nav/snav_loop_top.gif" width="164" height="4"></td>
+		</tr>
+		<tr>
+			<td class="s_nav">
+				<a href="default.asp?ID=61&amp;pnav=6&amp;snav=61" class="pnav">partners foundation</a>
+			</td>
+		</tr>
+		<tr>
+			<td><img src="../images/nav/snav_loop_bottom.gif" width="164" height="5"></td>
+		</tr>
+		
+		<tr>
+			<td><img src="../images/nav/snav_loop_top.gif" width="164" height="4"></td>
+		</tr>
+		<tr>
+			<td class="s_nav">
+				<a href="http://www.dominos.com.au/great_company/links.asp?ID=65&amp;pnav=6&amp;snav=65" class="pnav">links</a>
+			</td>
+		</tr>
+		<tr>
+			<td><img src="../images/nav/snav_loop_bottom.gif" width="164" height="5"></td>
+		</tr>
+		
+		<tr>
+			<td><img src="../images/nav/snav_loop_top.gif" width="164" height="4"></td>
+		</tr>
+		<tr>
+			<td class="s_nav">
+				<a href="default.asp?ID=92&amp;pnav=6&amp;snav=92" class="pnav">contact us</a>
+			</td>
+		</tr>
+		<tr>
+			<td><img src="../images/nav/snav_loop_bottom.gif" width="164" height="5"></td>
+		</tr>
+		
+		<tr>
+			<td><img src="../images/nav/snav_loop_top.gif" width="164" height="4"></td>
+		</tr>
+		<tr>
+			<td class="s_nav">
+				<a href="default.asp?ID=96&amp;pnav=6&amp;snav=96" class="pnav">your privacy is our policy</a>
+			</td>
+		</tr>
+		<tr>
+			<td><img src="../images/nav/snav_loop_bottom.gif" width="164" height="5"></td>
+		</tr>
+		
+			<tr>
+				<td class="s_nav_l3">
+					<a href="default.asp?ID=476&amp;pnav=6&amp;snav=96&amp;tnav=476">Melbourne AFL Competition</a>
+				</td>
+			</tr>
+			<tr>
+				<td bgcolor="#FFFFCC"><img src="../images/nav/snav_l3_divider.gif" width="164" height="1"></td>
+			</tr>
+			
+			<tr>
+				<td class="s_nav_l3">
+					<a href="default.asp?ID=412&amp;pnav=6&amp;snav=96&amp;tnav=412">Channel V Bus Concert Competition Terms and Conditions</a>
+				</td>
+			</tr>
+			<tr>
+				<td bgcolor="#FFFFCC"><img src="../images/nav/snav_l3_divider.gif" width="164" height="1"></td>
+			</tr>
+			
+			<tr>
+				<td class="s_nav_l3"><img src="../images/nav/snav_l3_bottom.gif" width="164" height="8"></td>
+			</tr>
+			
+	<tr>
+		<td><img src="../images/nav/snav_bottom.gif" width="164" height="5"></td>
+	</tr>
+</tbody></table>
+	
+<table border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td><img src="../images/transpacer.gif" width="1" height="1"></td>
+      </tr>
+      <tr>
+        <td>
+			<table border="0" cellspacing="0" cellpadding="0">
+			
+			</table>
+		</td>
+      </tr>
+</tbody></table></td>
+									<td valign="top" class="content"><p class="pageTitle">your privacy is our policy</p>
+										<p></p><p>Domino’s Pizza Australia New Zealand Limited (“Domino’s”) acknowledges and respects the privacy of individuals. This policy covers the personal information that Domino’s and its franchisees hold and sets out the way in which Domino’s and its franchisees will use, manage and protect your personal information when you visit any of our websites, or place an order with one of our stores, including franchisee stores.</p>
 <p></p>
 <p>Domino’s may revise this policy from time to time whenever necessary so check this website regularly to stay informed of any updates. This policy is effective as from March 2006.</p>
 <p></p>
@@ -641,52 +581,256 @@ dt_flash.noflash("<img src=\"../images/nav/blank.gif\" width=\"118\" height=\"41
 <p>Domino’s Pizza Australia New Zealand Ltd<br>TAB Building, Level 8<br>240 Sandgate Road<br>Albion, QLD, 4010</p>
 <p>Email: <a href="mailto:privacy@dominos.com.au">privacy@dominos.com.au</a> </p>
 <p></p><p></p>
-			<p>&nbsp;</p>
-
-			
-		
-		</div>
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td width="205"><img src="../images/content/btm_l_corner.gif" width="205" height="12"></td>
-                <td width="100%" bgcolor="#FFFFFF"><img src="../images/transpacer.gif" width="8" height="8"></td>
-                <td width="24"><img src="../images/content/btm_r_corner.gif" width="24" height="12"></td>
-              </tr>
-            </tbody></table></td>
-    <td valign="top" class="rhs_holder" id="rhs_holder">
-		
-<table border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td><img src="../images/transpacer.gif" width="1" height="1"></td>
-      </tr>
-      <tr>
-        <td>
-			<table border="0" cellspacing="0" cellpadding="0">
-			
-			</table>
+										<p>&nbsp;</p>
+							
+										
+									</td>
+								</tr>
+							</tbody></table>
+								<p>&nbsp;</p></td>
+						</tr>
+						
+						<tr>
+							<td><img src="../images/transpacer.gif" width="76" height="1"></td>
+							<td><img src="../images/transpacer.gif" width="74" height="1"></td>
+							<td><img src="../images/transpacer.gif" width="706" height="1"></td>
+							<td><img src="../images/transpacer.gif" width="7" height="1"></td>
+						</tr>
+					</tbody></table>						
+					</td>
+				</tr>
+			</tbody></table>
 		</td>
-      </tr>
-</tbody></table>
-	</td>
+		<td id="bgRight">&nbsp;</td>
 	</tr>
-</tbody></table></td>
-    <td class="back_rhs">&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="back_lhs">&nbsp;</td>
-    <td valign="top" class="footer_page"><div align="center">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="center" class="footertxt"><font color="#FCA8AB">Copyright Domino's Pizza Australia New Zealand 2005</font> | <a href="http://www.dominos.com.au/great_company/default.asp?ID=96&amp;pnav=6&amp;snav=96" class="sitetools">Domino's Privacy Policy</a><br>
-      <font color="#E75A5F">Domino's price is minimum 20mins delayed. Data provided by netquote.com.au
-    </font><br>      
-    </td>
-  </tr>
+	<tr>
+		<td id="bgBottom">&nbsp;</td>
+		<td align="center" valign="middle" id="bgBottom"><p><br>
+<span class="footerWhite">Copyright Domino's Pizza Australia New Zealand Ltd 2005 | <a href="http://www.dominos.com.au/great_company/default.asp?ID=96&amp;pnav=6&amp;snav=96">Domino's Privacy Policy</a> | <!--<a href="http://www.dominos.com.au/great_company/default.asp?ID=476&pnav=6&snav=96&tnav=476">Melbourne AFL Promotion</a> |--> <a href="../textOnly/">Text only version</a></span><br>
+<span class="footerGrey">Domino's price is minimum 20mins delayed. Data provided by <a href="http://www.netquote.com.au" target="_blank">netquote.com.au</a> </span><br>
+</p>
+		</td>
+		<td id="bgBottom">&nbsp;</td>
+	</tr>
+	<tr>
+		<td><img src="../images/transpacer.gif" width="1" height="1"></td>
+		<td width="863"><img src="../images/transpacer.gif" width="863" height="1"></td>
+		<td><img src="../images/transpacer.gif" width="1" height="1"></td>
+	</tr>
 </tbody></table>
-</div></td>
-    <td class="back_rhs">&nbsp;</td>
-  </tr>
+	<table border="0" cellpadding="0" cellspacing="0" id="hot_menu_flyout" name="hot_menu_flyout" style="visibility: hidden; position: absolute; left: 455px; top: 90px;">
+	
+		<tbody><tr>
+			<td class="fo_nav">
+				<a href="http://www.dominos.com.au/hot_menu/menu.asp?ID=24&amp;pnav=2&amp;snav=24">menu</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="http://www.dominos.com.au/hot_menu/print_menu.asp?ID=343&amp;pnav=2&amp;snav=343">view/print full menu</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../hot_menu/default.asp?ID=134&amp;snav=134">design a pizza</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../hot_menu/default.asp?ID=26&amp;snav=26">crusts</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="http://www.dominos.com.au/hot_menu/menu.asp?side=1&amp;ID=27&amp;pnav=2&amp;snav=27">sides</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../hot_menu/default.asp?ID=309&amp;snav=309">nutritional / allergen info</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../hot_menu/default.asp?ID=317&amp;snav=317">school lunch program</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="http://www.dominos.com.au/hot_menu/voucher.asp?ID=64&amp;pnav=2&amp;snav=64">voucher</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../hot_menu/default.asp?ID=472&amp;snav=472">partners</a>
+			</td>
+		</tr>
+		
+	<tr>
+		<td><img src="../images/nav/fo_bottom.gif" width="207" height="5"></td>
+	</tr>
 </tbody></table>
+
+	<table border="0" cellpadding="0" cellspacing="0" id="fun_stuff_flyout" name="fun_stuff_flyout" style="visibility: hidden; position: absolute; left: 603px; top: 90px;">
+	
+		<tbody><tr>
+			<td class="fo_nav">
+				<a href="http://www.dominos.com.au/fun_stuff/bigpond_movies.asp?ID=470&amp;pnav=4&amp;snav=470">BigPond Movies</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="http://www.dominos.com.au/fun_stuff/bigpond_guide.asp?ID=471&amp;pnav=4&amp;snav=471">BigPond TV</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="http://www.dominos.com.au/fun_stuff/bigpond_music.asp">BigPond Music</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="http://www.dominos.com.au/fun_stuff/bigpond_games.asp?ID=478&amp;pnav=4&amp;snav=478">BigPond Games</a>
+			</td>
+		</tr>
+		
+	<tr>
+		<td><img src="../images/nav/fo_bottom.gif" width="207" height="5"></td>
+	</tr>
+</tbody></table>
+
+	<table border="0" cellpadding="0" cellspacing="0" id="great_company_flyout" name="great_company_flyout" style="visibility: hidden; position: absolute; left: 668px; top: 90px;">
+	
+		<tbody><tr>
+			<td class="fo_nav">
+				<a href="http://www.dominos.com.au/great_company/company_news.asp?ID=20&amp;pnav=6&amp;snav=20">company news</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../great_company/default.asp?ID=315&amp;snav=315">investors</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../great_company/default.asp?ID=21&amp;snav=21">inside Domino's</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../great_company/default.asp?ID=5&amp;snav=5">awesome team</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../great_company/default.asp?ID=62&amp;snav=62">sponsorships</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../great_company/default.asp?ID=61&amp;snav=61">partners foundation</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="http://www.dominos.com.au/great_company/links.asp?ID=65&amp;pnav=6&amp;snav=65">links</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../great_company/default.asp?ID=92&amp;snav=92">contact us</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../great_company/default.asp?ID=96&amp;snav=96">your privacy is our policy</a>
+			</td>
+		</tr>
+		
+	<tr>
+		<td><img src="../images/nav/fo_bottom.gif" width="207" height="5"></td>
+	</tr>
+</tbody></table>
+
+	<table border="0" cellpadding="0" cellspacing="0" id="franchising_flyout" name="franchising_flyout" style="visibility: hidden; position: absolute; left: 770px; top: 90px;">
+	
+		<tbody><tr>
+			<td class="fo_nav">
+				<a href="http://www.dominos.com.au/franchising/default_franchise1.asp?ID=469&amp;pnav=7&amp;snav=469">expression of interest</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../franchising/default.asp?ID=71&amp;snav=71">franchising with us</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../franchising/default.asp?ID=83&amp;snav=83">your investment</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../franchising/default.asp?ID=84&amp;snav=84">your benefits</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../franchising/default.asp?ID=420&amp;snav=420">available territories</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../franchising/default.asp?ID=88&amp;snav=88">franchise application process</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../franchising/default.asp?ID=73&amp;snav=73">case studies</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="fo_nav">
+				<a href="../franchising/default.asp?ID=316&amp;snav=316">leasing sites required</a>
+			</td>
+		</tr>
+		
+	<tr>
+		<td><img src="../images/nav/fo_bottom.gif" width="207" height="5"></td>
+	</tr>
+</tbody></table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-490193-1";
+urchinTracker();
+</script>
 
 
 </body></html>
