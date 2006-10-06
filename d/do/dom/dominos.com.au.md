@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dominos.com.au privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616011655id_/http%3A//www.dominos.com.au/great_company/default.asp%3FID%3D96%26pnav%3D6%26snav%3D96) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.com.au privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006210253id_/http%3A//www.dominos.com.au/great_company/default.asp%3FID%3D96%26pnav%3D6%26snav%3D96) for the most accurate reproduction.*
 
 # Domino's Pizza - your privacy is our policy
+
+your privacy is our policy
 
 Domino’s Pizza Australia New Zealand Limited (“Domino’s”) acknowledges and respects the privacy of individuals. This policy covers the personal information that Domino’s and its franchisees hold and sets out the way in which Domino’s and its franchisees will use, manage and protect your personal information when you visit any of our websites, or place an order with one of our stores, including franchisee stores.
 
