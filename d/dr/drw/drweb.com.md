@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drweb.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214102113id_/http%3A//company.drweb.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drweb.com privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006020102id_/http%3A//company.drweb.com/policy/%3Flng%3Den) for the most accurate reproduction.*
 
-# Dr.Web Anti-virus - official website of Doctor Web, Ltd. / About us
+# Dr.Web Anti-virus - official website of Doctor Web, Ltd. / About us / Privacy policy
 
 Doctor Web Ltd., being a public company and supplying software products to a wide range of consumers, receives from its partners and end-users various information, including personal and commercially sensitive, and publicly declares that it respects the confidence of its partners and end users and treats the information they share with utmost care. Any information the partners or end users share with the company, if such information is private, i.e. it covers certain individuals, or commercial, i.e. it concerns the commercial aspects of the partners' or end clients' activity, is collected by the company for the technical purposes only, namely for final identification of its product end users and for securing the company's service obligations fulfillment during the subscription term, or within the limits of the contractual obligations with its partners for execution of mutual commitments under the respective agreements. 
 
@@ -20,6 +20,6 @@ During the users registration and the receipt of the license key file, including
 
 **Access to the current Statement**
 
-The present Statement is a public document and its current version is permanently hosted on the web-resources of Doctor Web, Ltd. at [http://company.drweb.com/policy/?lng=en&lng=en](http://company.drweb.com/policy/?lng=en&lng=en) with no access restrictions. 
+The present Statement is a public document and its current version is permanently hosted on the web-resources of Doctor Web, Ltd. at <http://company.drweb.com/policy/?lng=en> with no access restrictions. 
 
 Doctor Web, Ltd. reserves the right to update the current version of the Statement and publish these updates in 10 days after the release of the information on the coming version update at the stated above internet address.
