@@ -1,201 +1,767 @@
-<!--The following is the downloaded HTML source of the icma.org privacy policy that was archived on 2002-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021017185859id_/http%3A//www.icma.org/go.cfm%3Fcid%3D1%26gid%3D6%26sid%3D194) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icma.org privacy policy that was archived on 2006-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061006221035id_/http%3A//www.icma.org/main/bc.asp%3Fbcid%3Dprivacy_org) for the most accurate reproduction.-->
 
-<html><head><script language="javaScript">
-var props = new Array(
-	'self.innerHeight',
-	'self.innerWidth',
-	'self.screen.height',
-	'self.screen.width',
-	'self.screen.availHeight',
-	'self.screen.availWidth',
-	'self.screen.colorDepth',
-	'self.screen.pixelDepth',
-	'document.body.clientHeight',
-	'document.body.clientWidth',
-	'navigator.userAgent',
-	'navigator.appVersion'
-);
-var myString = "";
-for (i=0;i<props.length;i++)
-{
-	if (!self.screen && props[i].indexOf('self.screen') != -1) continue;
-	if (!document.body && props[i].indexOf('document.body') != -1) continue;
-	if (eval(props[i])) {
-		//document.write(props[i]+':<input type="text" value="' + eval(props[i]) +'" name="' + props[i] + '"><BR>');
-		//the ; in the userAgent and appVersion string is ending the cookie string prematurely, this
-		//can be added on the next page where the file is written to.
-		if (props[i].indexOf('navigator') == -1){
-			myString = myString + props[i] + '=' + eval(props[i]) + ',';
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
+			<title>ICMA Web Site</title>
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+			<link media="screen" href="/css/masterstyles.cfm" type="text/css" rel="stylesheet">
+			<link media="print" rel="stylesheet" type="text/css" href="/css/stylesheet.print.css">
+			<script type="text/JavaScript">
+			<!--
+			function MM_jumpMenu(targ,selObj,restore){ //v3.0
+			  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+			  if (restore) selObj.selectedIndex=0;
+			}
+			function LoginAlert(){
+				if (confirm("To see this article you need to be signed in.\n" +
+						"Please use the Sign In form for authorization.")) {
+					location.href = "/main/sc.asp";
+				}
+			}
+				
+			function CancelAlert()
+			{
+				alert("You are not authorized to view this article.");
+			}
+		
+			function Search()
+			{
+				if ((document.SearchForm.FindThis.value == "") |
+						(document.SearchForm.FindThis.value == "Search...")) {
+					alert("Please complete search field before continuing.");
+					document.SearchForm.FindThis.focus();
+				}	
+				else { document.SearchForm.submit() }
+			}
+			function CheckEnter()
+			{
+				if (event.keyCode == 13){
+					Search();
+				}
+			}
+			
+			function largepdf(fPath,fCaption){
+				var url = "/include/download.asp?cap=" + fCaption + "&file=" + fPath;
+				window.open(url, "some", "width=425,height=200,location=0,menubar=0,resizable=0,status=0,scrollbars=0,titlebar=1,toolbar=0,left="+screen.availWidth/5+",top="+screen.availHeight/5);
+				return;
+			}
+			//-->
+			</script>
+		</head>
+		<body>
+		<table id="content" cellspacing="0" cellpadding="0" border="0">
+			<tbody>
+				<tr>
+					<td colspan="3">
+						<!-- begin masthead row -->
+						<div id="masthead">
+							<a href="/"><img height="94" alt="ICMA" hspace="0" src="/images/template/masthead_main.gif" width="304" align="left" border="0"></a> 
+							<div style="PADDING-RIGHT: 0px; DISPLAY: inline-block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; PADDING-TOP: 12px; HEIGHT: 36px; white-space: wrap;">
+								<ul style="DISPLAY: inline; padding-left: 0px; background-color:#FFFFFF;">
+									<li class="globalnav"><a class="globalnav" href="http://jobs.icma.org/">JobCenter</a></li>
+									<li class="globalnav"><a class="globalnav" href="http://www.icmarc.org/">Retirement Corp</a></li> 
+									<li class="globalnav"><a class="globalnav" href="/pm">PM Magazine</a></li>
+									<li class="globalnav" style="BORDER-RIGHT-WIDTH: 0px"><a class="globalnav" href="/contactus.cfm?hsid=1&amp;referrer=http%3A%2F%2Fwww1%2Eicma%2Eorg%2Fmain%2Fsc%2Easp%3Ft%3D0&amp;thispage=http%3A%2F%2Fwww1%2Eicma%2Eorg%2Fmain%2Fbc%2Easp%3Fbcid%3Dprivacy%5Forg">Contact Us</a></li>
+								</ul>	
+								<form class="globalnav" name="SearchForm" action="/main/search.asp" method="post">
+									<input type="text" name="FindThis" onkeydown="CheckEnter()" value="Search..." style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 8pt; VERTICAL-ALIGN: bottom; WIDTH: 144px; HEIGHT: 12px" onfocus="this.value='';">
+										<input style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; VERTICAL-ALIGN: text-bottom; WIDTH: 25px; HEIGHT: 17px; BORDER-RIGHT-WIDTH: 0px;" onclick="javascript:document.globalsearch.submit()" type="image" alt="send" src="/images/template/btn_go_globalnav.gif" value="Send">
+								</form>				
+							</div>
+							<div style="DISPLAY: block; FLOAT: right; WIDTH: 630px; HEIGHT: 46px" align="right">
+								<!--- This is all run together on purpose --->
+								<table width="630" border="0" align="right" cellpadding="0" cellspacing="0"><tbody><tr><td><ul style="list-style-position: inside; list-style-type: none; margin: 0 0 0 0; padding: 0 0 0 0;"><li style="display: inline;"><a href="/main"><img src="/images/template/mainnav_icma_1.gif" alt="ICMA" name="icma" width="125" height="45" hspace="0" vspace="0" border="0"></a></li><img src="/images/template/mainnav_spacer.gif" width="1" height="45"><li style="display: inline;"><a href="/icmau" onmouseover="university.src='/images/template/mainnav_university_1.gif'" onmouseout="university.src=&quot;/images/template/mainnav_university_0.gif&quot;"><img name="university" src="/images/template/mainnav_university_0.gif" alt="ICMA University" width="125" height="45" hspace="0" vspace="0" border="0"></a></li><img src="/images/template/mainnav_spacer.gif" width="1" height="45"><li style="display: inline; list-style-position: inside; list-style-type: none;"><a href="http://bookstore.icma.org" onmouseover="press.src='/images/template/mainnav_press_1.gif'" onmouseout="press.src=&quot;/images/template/mainnav_press_0.gif&quot;"><img name="press" src="/images/template/mainnav_press_0.gif" alt="ICMA Press / Bookstore" width="125" height="45" hspace="0" vspace="0" border="0"></a></li><img src="/images/template/mainnav_spacer.gif" width="1" height="45"><li style="display: inline;"><a href="/resultsnetworks" onmouseover="results.src='/images/template/mainnav_results_1.gif'" onmouseout="results.src=&quot;/images/template/mainnav_results_0.gif&quot;"><img name="results" src="/images/template/mainnav_results_0.gif" alt="ICMA Results Networks" width="125" height="45" hspace="0" vspace="0" border="0"></a></li><img src="/images/template/mainnav_spacer.gif" width="1" height="45"><li style="display: inline;"><a href="/inter" onmouseover="international.src='/images/template/mainnav_international_1.gif'" onmouseout="international.src='/images/template/mainnav_international_0.gif'"><img name="international" src="/images/template/mainnav_international_0.gif" alt="ICMA International" width="125" height="45" hspace="0" vspace="0" border="0"></a></li></ul></td></tr></tbody></table>
+							</div>
+						</div>
+						<!-- end masthead row -->
+						<!-- begin breadcrumbs row -->
+						<div id="breadcrumb">
+							<ul style="LIST-STYLE-POSITION: inside; MARGIN: 1px 1px 1px 360px; LIST-STYLE-TYPE: none">
+								
+							</ul>
+						</div>
+						<!-- end breadcrumbs row -->
+					</td>
+				</tr>
+				<!-- begin content row -->
+				<tr valign="top">
+					<td width="227">
+						<div id="left">
+						<script language="javascript" src="/include/menu.js"></script><table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top">
+<td class="MainMenu"><img id="imgPointer" src="/images/pointer.gif" style="display:none;position:relative;left:-10px;top:1px"><div id="poper17" class="MenuItem" style="cursor:pointer" onmouseover="mOver(this)" onmouseout="mOut(this)" onclick="jumpCat('/main/bc.asp?bcid=60&amp;hsid=1&amp;ssid1=17')">About ICMA</div>
+<div id="popup17" class="PopupMenu" style="display:none" onmouseover="mPopupOver(this)" onmouseout="mPopupOut(this)">
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=656&amp;hsid=1&amp;ssid1=17&amp;ssid2=22')">Who We Are</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=654&amp;hsid=1&amp;ssid1=17&amp;ssid2=2532')">What We Do</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=416&amp;hsid=1&amp;ssid1=17&amp;ssid2=2271&amp;ssid3=2272')">Association Leadership</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=32&amp;hsid=1&amp;ssid1=17&amp;ssid2=2752')">Strategic Plan</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=36&amp;hsid=1&amp;ssid1=17&amp;ssid2=23')">Fund for Professional Management</div>
+<div class="PopupMenuItem2" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, 'last')" onclick="jumpCat('/main/bc.asp?bcid=51&amp;hsid=1&amp;ssid1=17&amp;ssid2=28')">Contacting ICMA</div>
+</div>
+<div id="poper2500" class="MenuItem" style="cursor:pointer" onmouseover="mOver(this)" onmouseout="mOut(this)" onclick="jumpCat('/main/bc.asp?bcid=42&amp;hsid=1&amp;ssid1=2500')">Join ICMA</div>
+<div id="popup2500" class="PopupMenu" style="display:none" onmouseover="mPopupOver(this)" onmouseout="mPopupOut(this)">
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=52&amp;hsid=1&amp;ssid1=2500&amp;ssid2=2501')">Membership Benefits</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=48&amp;hsid=1&amp;ssid1=2500&amp;ssid2=2502')">Membership Categories</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=49&amp;hsid=1&amp;ssid1=2500&amp;ssid2=2503')">Applications</div>
+<div class="PopupMenuItem2" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, 'last')" onclick="jumpCat('/main/bc.asp?bcid=50&amp;hsid=1&amp;ssid1=2500&amp;ssid2=2504')">FAQ</div>
+</div>
+<div id="poper2505" class="MenuItem" style="cursor:pointer" onmouseover="mOver(this)" onmouseout="mOut(this)" onclick="jumpCat('/main/newsroom.asp?hsid=1&amp;ssid1=2505&amp;ssid2=2506')">Newsroom</div>
+<div id="popup2505" class="PopupMenu" style="display:none" onmouseover="mPopupOver(this)" onmouseout="mPopupOut(this)">
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/newsroom.asp?hsid=1&amp;ssid1=2505&amp;ssid2=2506')">Top News Stories</div>
+<div class="PopupMenuItem2" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, 'last')" onclick="jumpCat('/main/bc.asp?bcid=657&amp;hsid=1&amp;ssid1=2505&amp;ssid2=2508&amp;ssid3=2693')">For the Media</div>
+</div>
+<div id="poper47" class="MenuItem" style="cursor:pointer" onmouseover="mOver(this)" onmouseout="mOut(this)" onclick="jumpCat('/main/ev.asp?hsid=1&amp;ssid1=47&amp;ssid2=99')">Conferences, Meetings, &amp; Events</div>
+<div id="popup47" class="PopupMenu" style="display:none" onmouseover="mPopupOver(this)" onmouseout="mPopupOut(this)">
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/ev.asp?hsid=1&amp;ssid1=47&amp;ssid2=99')">Calendar of Upcoming Events</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/conference2006?hsid=1&amp;ssid1=47&amp;ssid2=2221')">ICMA Annual Conference</div>
+<div class="PopupMenuItem2" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, 'last')" onclick="jumpCat('http://www.brownfields2005.org/en?hsid=1&amp;ssid1=47&amp;ssid2=98')">Brownfields Conference</div>
+</div>
+<div id="poper2514" class="MenuItem" style="cursor:pointer" onmouseover="mOver(this)" onmouseout="mOut(this)" onclick="jumpCat('/main/bc.asp?bcid=52&amp;hsid=1&amp;ssid1=2514&amp;ssid2=2557')">Member Support</div>
+<div id="popup2514" class="PopupMenu" style="display:none" onmouseover="mPopupOver(this)" onmouseout="mPopupOut(this)">
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=52&amp;hsid=1&amp;ssid1=2514&amp;ssid2=2557')">Overview</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/WhosWho/index.cfm?hsid=1&amp;ssid1=158&amp;ssid2=159')">Who's Who</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=416&amp;hsid=1&amp;ssid1=2514&amp;ssid2=2559')">Executive Board</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=100&amp;hsid=1&amp;ssid1=2514&amp;ssid2=2565&amp;ssid3=2566')">Committees &amp; Task Forces</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=71&amp;hsid=1&amp;ssid1=2514&amp;ssid2=2570&amp;ssid3=2582')">Ethics Advice</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=77&amp;hsid=1&amp;ssid1=2514&amp;ssid2=2575&amp;ssid3=2583')">Range Rider Program</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=76&amp;hsid=1&amp;ssid1=2514&amp;ssid2=2579')">Newsletters</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=79&amp;hsid=1&amp;ssid1=2514&amp;ssid2=2580&amp;ssid3=2584')">State Liaisons</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=118&amp;hsid=1&amp;ssid1=2514&amp;ssid2=2587')">Professional Development</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=86&amp;hsid=1&amp;ssid1=2514&amp;ssid2=2588')">Members in Transition</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=203&amp;hsid=1&amp;ssid1=2514&amp;ssid2=2589')">Partners Program</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=589&amp;hsid=1&amp;ssid1=2514&amp;ssid2=2519')">Membership Renewal</div>
+<div class="PopupMenuItem2" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, 'last')" onclick="jumpCat('/main/bc.asp?bcid=155&amp;hsid=1&amp;ssid1=2514&amp;ssid2=2711')">Forms for Members</div>
+</div>
+<div id="poper2509" class="MenuItem" style="cursor:pointer" onmouseover="mOver(this)" onmouseout="mOut(this)" onclick="jumpCat('/main/bc.asp?bcid=655&amp;hsid=1&amp;ssid1=2509&amp;ssid2=2533')">ICMA Priorities</div>
+<div id="popup2509" class="PopupMenu" style="display:none" onmouseover="mPopupOver(this)" onmouseout="mPopupOut(this)">
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=655&amp;hsid=1&amp;ssid1=2509&amp;ssid2=2533')">Local Government Leadership</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=664&amp;hsid=1&amp;ssid1=2509&amp;ssid2=2511')">Next Generation</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=646&amp;hsid=1&amp;ssid1=2509&amp;ssid2=2527')">Performance Management</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=647&amp;hsid=1&amp;ssid1=2509&amp;ssid2=2528')">Sustainable Communities</div>
+<div class="PopupMenuItem2" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, 'last')" onclick="jumpCat('/main/bc.asp?bcid=648&amp;hsid=1&amp;ssid1=2509&amp;ssid2=2529')">Emergency Management</div>
+</div>
+<div id="poper2530" class="MenuItem" style="cursor:pointer" onmouseover="mOver(this)" onmouseout="mOut(this)" onclick="jumpCat('/main/bc.asp?bcid=649&amp;hsid=1&amp;ssid1=2530')">Ethics</div>
+<div id="popup2530" class="PopupMenu" style="display:none" onmouseover="mPopupOver(this)" onmouseout="mPopupOut(this)">
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=40&amp;hsid=1&amp;ssid1=2530&amp;ssid2=2531')">Code of Ethics</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=73&amp;hsid=1&amp;ssid1=2530&amp;ssid2=2714')">Enforcement</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=74&amp;hsid=1&amp;ssid1=2530&amp;ssid2=2715')">Issues &amp; Advice</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=75&amp;hsid=1&amp;ssid1=2530&amp;ssid2=2716')">Program Highlights</div>
+<div class="PopupMenuItem2" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, 'last')" onclick="jumpCat('http://www.icma.org/main/topic.asp?tpid=25&amp;hsid=10&amp;ssid1=2530&amp;ssid2=2780')">Ethics Resource Pages</div>
+</div>
+<div id="poper2510" class="MenuItem" style="cursor:pointer" onmouseover="mOver(this)" onmouseout="mOut(this)" onclick="jumpCat('/main/bc.asp?bcid=645&amp;hsid=1&amp;ssid1=2510')">Professional Management</div>
+<div id="popup2510" class="PopupMenu" style="display:none" onmouseover="mPopupOver(this)" onmouseout="mPopupOut(this)">
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=62&amp;hsid=1&amp;ssid1=2510&amp;ssid2=2515')">Professional Local Government Management</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=63&amp;hsid=1&amp;ssid1=2510&amp;ssid2=2516')">Becoming a Manager</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=61&amp;hsid=1&amp;ssid1=2510&amp;ssid2=2517')">Hiring a Manager</div>
+<div class="PopupMenuItem2" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, 'last')" onclick="jumpCat('/main/bc.asp?bcid=102&amp;hsid=1&amp;ssid1=2510&amp;ssid2=2518')">Recognition</div>
+</div>
+<div id="poper2512" class="MenuItem" style="cursor:pointer" onmouseover="mOver(this)" onmouseout="mOut(this)" onclick="jumpCat('/main/bc.asp?bcid=83&amp;hsid=1&amp;ssid1=2512&amp;ssid2=2552')">Awards</div>
+<div id="popup2512" class="PopupMenu" style="display:none" onmouseover="mPopupOver(this)" onmouseout="mPopupOut(this)">
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=83&amp;hsid=1&amp;ssid1=2512&amp;ssid2=2552')">Overview</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=82&amp;hsid=1&amp;ssid1=2512&amp;ssid2=2553')">Annual Awards</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=85&amp;hsid=1&amp;ssid1=2512&amp;ssid2=2554')">Service Awards</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=84&amp;hsid=1&amp;ssid1=2512&amp;ssid2=2555')">Distinguished Service</div>
+<div class="PopupMenuItem2" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, 'last')" onclick="jumpCat('/main/bc.asp?bcid=220&amp;hsid=1&amp;ssid1=2512&amp;ssid2=2556')">Honorary Member Award</div>
+</div>
+<div id="poper2521" class="MenuItem" style="cursor:pointer" onmouseover="mOver(this)" onmouseout="mOut(this)" onclick="jumpCat('/main/bc.asp?bcid=124&amp;hsid=1&amp;ssid1=2521&amp;ssid2=2522')">Credentialing</div>
+<div id="popup2521" class="PopupMenu" style="display:none" onmouseover="mPopupOver(this)" onmouseout="mPopupOut(this)">
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=124&amp;hsid=1&amp;ssid1=2521&amp;ssid2=2522')">Overview</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=123&amp;hsid=1&amp;ssid1=2521&amp;ssid2=2523')">Background</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=125&amp;hsid=1&amp;ssid1=2521&amp;ssid2=2524')">Assessments</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=126&amp;hsid=1&amp;ssid1=2521&amp;ssid2=2525')">Resources</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/credentialed?hsid=1&amp;ssid1=2521&amp;ssid2=2526')">Credentialed Managers &amp; Candidates</div>
+<div class="PopupMenuItem2" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, 'last')" onclick="jumpCat('/main/bc.asp?bcid=217&amp;hsid=1&amp;ssid1=2521&amp;ssid2=2717')">Application &amp; Update</div>
+</div>
+<div id="poper158" class="MenuItem" style="cursor:pointer" onmouseover="mOver(this)" onmouseout="mOut(this)" onclick="jumpCat('/WhosWho/index.cfm?hsid=1&amp;ssid1=158&amp;ssid2=159')">Who's Who</div>
+<div id="popup158" class="PopupMenu" style="display:none" onmouseover="mPopupOver(this)" onmouseout="mPopupOut(this)">
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/WhosWho/index.cfm?hsid=1&amp;ssid1=158&amp;ssid2=159')">ICMA Member Search by Name</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/WhosWho/index.cfm?fuseaction=AS&amp;hsid=1&amp;ssid1=158&amp;ssid2=202')">ICMA Members Advanced Search</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/WhosWho/index.cfm?fuseaction=J&amp;hsid=1&amp;ssid1=158&amp;ssid2=203')">ICMA Members by Jurisdiction</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/WhosWho/index.cfm?fuseaction=R&amp;hsid=1&amp;ssid1=158&amp;ssid2=206')">ICMA-Recognized Local Governments</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=143&amp;hsid=1&amp;ssid1=158&amp;ssid2=2712')">ICMA Staff</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/WhosWho/index.cfm?fuseaction=RR&amp;hsid=1&amp;ssid1=158&amp;ssid2=207')">Range Riders</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/WhosWho/index.cfm?fuseaction=B&amp;hsid=1&amp;ssid1=158&amp;ssid2=208')">ICMA Board</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/WhosWho/index.cfm?fuseaction=SL&amp;hsid=1&amp;ssid1=158&amp;ssid2=160')">State Liaisons</div>
+<div class="PopupMenuItem2" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, 'last')" onclick="jumpCat('/memberupdates/index.cfm?hsid=1&amp;ssid1=158&amp;ssid2=383')">Update Your Listing</div>
+</div>
+<div id="mm_2520" class="MenuItem" style="cursor:pointer" onmouseover="iOver(this)" onmouseout="iOut(this)" onclick="jumpCat('/lists/signup.cfm?hsid=1&amp;ssid1=2520')">Discussion Lists</div>
+<div id="poper226" class="MenuItem" style="cursor:pointer" onmouseover="mOver(this)" onmouseout="mOut(this)" onclick="jumpCat('/main/bc.asp?bcid=41&amp;hsid=1&amp;ssid1=226&amp;ssid2=2415&amp;ssid3=2416')">Corporate Relations</div>
+<div id="popup226" class="PopupMenu" style="display:none" onmouseover="mPopupOver(this)" onmouseout="mPopupOut(this)">
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=41&amp;hsid=1&amp;ssid1=226&amp;ssid2=2415&amp;ssid3=2416')">Corporate Partners</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/main/bc.asp?bcid=41&amp;hsid=1&amp;ssid1=226&amp;ssid2=256')">Overview</div>
+<div class="PopupMenuItem2" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, 'last')" onclick="jumpCat('/main/ns.asp?nsid=1869&amp;hsid=1&amp;ssid1=226&amp;ssid2=2413&amp;ssid3=2414')">Friends of the Profession</div>
+</div>
+<div id="poper51" class="MenuItem" style="cursor:pointer" onmouseover="mOver(this)" onmouseout="mOut(this)" onclick="jumpCat('/stateassociations?hsid=1&amp;ssid1=51&amp;ssid2=225')">Links</div>
+<div id="popup51" class="PopupMenu" style="display:none" onmouseover="mPopupOver(this)" onmouseout="mPopupOut(this)">
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/stateassociations?hsid=1&amp;ssid1=51&amp;ssid2=225')">State Associations</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/nationalassociations/?hsid=1&amp;ssid1=51&amp;ssid2=373')">National Associations</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/internationalaffiliates/index.cfm?hsid=1&amp;ssid1=51&amp;ssid2=2388')">International Affiliates</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/govsites/?hsid=1&amp;ssid1=51&amp;ssid2=374')">Local Governments</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('http://www.internationalhispanicnetwork.org?hsid=1&amp;ssid1=51&amp;ssid2=2734')">International Hispanic Network</div>
+<div class="PopupMenuItem2" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, 'last')" onclick="jumpCat('http://www.nfbpa.org?hsid=1&amp;ssid1=51&amp;ssid2=2735')">National Forum for Black Public Administrators</div>
+</div>
+<div id="poper254" class="MenuItem" style="cursor:pointer" onmouseover="mOver(this)" onmouseout="mOut(this)" onclick="jumpCat('/PasswordLookup/index.cfm?Lookup=Request&amp;hsid=1&amp;ssid1=254&amp;ssid2=375')">Passwords &amp; Preferences</div>
+<div id="popup254" class="PopupMenu" style="display:none" onmouseover="mPopupOver(this)" onmouseout="mPopupOut(this)">
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/PasswordLookup/index.cfm?Lookup=Request&amp;hsid=1&amp;ssid1=254&amp;ssid2=375')">Password Lookup</div>
+<div class="PopupMenuItem" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, '')" onclick="jumpCat('/PasswordChanges/index.cfm?hsid=1&amp;ssid1=254&amp;ssid2=377')">Password Changes</div>
+<div class="PopupMenuItem2" style="cursor:pointer" onmouseover="sOver(this)" onmouseout="sOut(this, 'last')" onclick="jumpCat('/interests/index.cfm?hsid=1&amp;ssid1=254&amp;ssid2=376')">Preferences and Interests</div>
+</div>
+</td>
+</tr>
+</tbody></table>
+
+
+							<script language="javascript">
+							<!--
+								setCurrentItem2("")
+							//-->
+							</script>
+						
+							<div id="leftcontent">
+								
+								<!-- Resources/Topics and Featured Document -->
+								
+<form>
+	<h1><a href="/resources">Resources/Topics</a> <a href="/resources"><img src="/images/main/go.gray.gif" border="0" width="14" height="13" style="position:relative;top:2px"></a></h1>
+	<select onchange="MM_jumpMenu('parent',this,1)" name="select"> 		
+	<option value="" selected="">Select a Topic...</option>
+	<option value="/resources">Search Resource Library</option>
+	<option value="/resources/GovSearch/">GovSearch</option>
+	<option value="/resources/GovSites/">GovSites</option>
+	<option value="/main/bc.asp?bcid=559&amp;hsid=10&amp;ssid1=2713">Salary Information</option>
+	
+	<option value="">---------------</option>
+	<option value="/main/topic.asp?tpid=31&amp;hsid=10">Active and Healthy Living</option><option value="/main/topic.asp?tpid=19&amp;hsid=10">Brownfields</option><option value="/main/topic.asp?tpid=21&amp;hsid=10">Career Resources</option><option value="/main/topic.asp?tpid=10&amp;hsid=10">Citizen and Resident Participation</option><option value="/main/topic.asp?tpid=17&amp;hsid=10">Community and Economic Development</option><option value="/main/topic.asp?tpid=20&amp;hsid=10">Council-Manager Form of Government</option><option value="/main/topic.asp?tpid=24&amp;hsid=10">Culture, Libraries, and Art</option><option value="/main/topic.asp?tpid=15&amp;hsid=10">Elected Officials</option><option value="/main/topic.asp?tpid=2&amp;hsid=10">Environment</option><option value="/main/topic.asp?tpid=25&amp;hsid=10">Ethics</option><option value="/main/topic.asp?tpid=16&amp;hsid=10">Finance and Budgeting</option><option value="/main/topic.asp?tpid=13&amp;hsid=10">Human Services</option><option value="/main/topic.asp?tpid=29&amp;hsid=10">Management</option><option value="/main/topic.asp?tpid=6&amp;hsid=10">Parks and Recreation</option><option value="/main/topic.asp?tpid=18&amp;hsid=10">Performance Measurement</option><option value="/main/topic.asp?tpid=3&amp;hsid=10">Personnel and Human Resources</option><option value="/main/topic.asp?tpid=1&amp;hsid=10">Planning and Zoning</option><option value="/main/topic.asp?tpid=23&amp;hsid=10">Public Safety</option><option value="/main/topic.asp?tpid=14&amp;hsid=10">Public Works</option><option value="/main/topic.asp?tpid=30&amp;hsid=10">School/University Relations</option><option value="/main/topic.asp?tpid=8&amp;hsid=10">Smart Growth</option><option value="/main/topic.asp?tpid=4&amp;hsid=10">Technology and Telecommunications</option><option value="/main/topic.asp?tpid=7&amp;hsid=10">Transportation</option>
+	</select>
+	
+</form>
+
+
+								<div style="MARGIN-TOP: 14pt; BORDER-BOTTOM: ##929599 1px dotted"></div>
+								<!---
+								<H1>New In Resources/Topics</H1>
+								<H2>Finance</H2>
+								<UL>
+									<LI><A href="foo">Sample Finance Policy '06</A></LI>
+								</UL>
+								<H2>Smart Growth</H2>
+								<UL>
+									<LI><A href="foo">Smart Growth and 
+					Urban Planning</A> </LI>
+								</UL>
+								<H2>Technology</H2>
+								<UL>
+									<LI><A href="foo">Understanding WiFi Issues in the Community</A> </LI>
+								</UL>
+								--->
+							</div>
+							<!-- End resources -->
+
+						</div>
+					</td>
+					<!--end left column -->
+					<!-- start main page column area -->
+					<td width="100%">
+	<script language="javascript">
+	<!--
+	try {
+		document.domain = "icma.org";
+	}
+	catch(e) {
+		window.status = "Incorrect domain has been set. Domain has been reverted to " + document.domain + ".";
+	}
+
+	function refresh()
+	{
+		window.focus();
+		document.FormA.action = "bc.asp?bcid=21";
+		document.FormA.target= "_self";
+		document.FormA.submit();
+	}
+
+	function dialogFeatures()
+	{
+		return "width=680,height=530,location=0,menubar=0,resizable=0,scrollbars=0,status=0,titlebar=1,toolbar=0";
+	}
+
+	function editBC(AR_ID)
+	{
+		var w;
+		w = window.open("", "winBCEdit", dialogFeatures());
+		w.focus();
+		document.FormA.AR_ID.value = AR_ID;
+		document.FormA.action = "http://admin.icma.org/bc/bc_wiz_8.asp?p=1";
+		document.FormA.target = "winBCEdit";
+		document.FormA.submit();
+	}
+	//-->
+	</script>
+	
+	<form name="FormA" method="post" action="bc.asp?bcid=21">
+		<input type="hidden" name="AR_ID">
+	</form>
+
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+			<td style="padding-right:25px">
+<h1>ICMA Web Site Privacy Policy</h1><p><i>icma.org</i>&nbsp;is the Web site for the International City/County Management Association (ICMA).</p>
+
+<p>ICMA can be reached via e-mail through contact information at the&nbsp;<a href="/content/bc.asp?bcid=51&amp;ssid1=17&amp;ssid2=28">Contacting ICMA Web Page</a>, and by telephone at (202) 289-4262.</p>
+
+<p>ICMA is committed to protecting the privacy of visitors to our Web site. When you visit <i>icma.org,</i> our server automatically collects only your domain name (for example, "aol.com, ibm.com," etc.) and the type of Web browser software that you use. ICMA does not acquire your e-mail address or other information without your knowledge. The information that ICMA collects about your domain name and browser is used to help ICMA improve the content and functionality of its Web site.</p>
+
+<p>ICMA’s Web server may ask your Web browser to store a "cookie," which is a small piece of information that the Web server uses to keep track of various user preferences. Cookies are not used to save or retrieve any sensitive data about visitors to <i>icma.org.</i></p>
+
+<p>If you supply ICMA with a postal address or e-mail address by completing an online form, you may receive periodic mailings from ICMA regarding either orders you have placed or information about new products and services or upcoming events. In addition, because ICMA occasionally shares its mailing list, you may receive information from selected reputable organizations whose resources or services may interest you. ICMA will not share your telephone number or e-mail addresses with other companies.</p>
+
+<p>If you would prefer that ICMA not share your contact information, please send e-mail to <a href="mailto:do-not-share@icma.org">do-not-share@icma.org</a>. The e-mail message must include your complete name and address, and you must request that you be added to the "do-not-share" list. If you would prefer not to be contacted by ICMA, please send e-mail to "<a href="mailto:do-not-contact@icma.org">do-not-contact@icma.org</a>." Include your complete name and address and we will be sure that your name is added to our "do-not-contact" list.</p>
+
+<p>If you supply ICMA with your telephone number, you may receive telephone contact from us with information regarding an order you have placed online. Very rarely you also may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending e-mail to "<a href="mailto:do-not-call@icma.org">do-not-call@icma.org</a>." Please provide us with your full name and correct telephone number, and we will be sure your name is added to the "do-not-call" list.</p>
+
+<p>Thank you for visiting <i>icma.org.</i></p>
+
+			</td>
+		</tr>
+	</tbody></table>
+
+			</td>
+			<!-- end page column area -->
+		</tr>
+		<tr>
+			<td colspan="2">			
+			
+			
+			
+			<br><br>
+			
+				
+			</td>
+		</tr>
+	</tbody>
+</table><!--end content row -->
+
+<!-- begin footer -->
+<div id="footer">
+© 2006 ICMA 
+		<div class="PrintOnly">
+			<br> 
+					ICMA is the leading organization for 
+					information on professional local government management.  
+					Its membership includes city managers, county 
+					managers, and other chief appointed officials and assistants 
+					in local governments throughout the world. ICMA's mission 
+					is to create excellence in local government by developing 
+					and fostering professional local government management 
+					worldwide.<br>
+  </div>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="/main/bc.asp?bcid=privacy_org" title="ICMA Privacy Policy" onmouseout="window.status=' '; return true;" onmouseover="window.status='ICMA Privacy Policy'; return true;">Privacy Policy</a>&nbsp;|&nbsp;
+	<a class="MainLink" href="/contactus.cfm?hsid=1&amp;referrer=http%3A%2F%2Fwww1%2Eicma%2Eorg%2Fmain%2Fsc%2Easp%3Ft%3D0&amp;thispage=http%3A%2F%2Fwww1%2Eicma%2Eorg%2Fmain%2Fbc%2Easp%3Fbcid%3Dprivacy%5Forg">Contact Us</a>
+</div>
+<!-- end footer -->
+<!-- START OF SDC Advanced Tracking Code -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2006/04/07 16:45:14 $ -->
+<script type="text/javascript"><!--
+var gService = false;
+var gTimeZone = -5;
+// Code section for Enable First-Party Cookie Tracking
+function dcsCookie(){
+	if (typeof(dcsOther)=="function"){
+		dcsOther();
+	}
+	else if (typeof(dcsPlugin)=="function"){
+		dcsPlugin();
+	}
+	else if (typeof(dcsFPC)=="function"){
+		dcsFPC(gTimeZone);
+	}
+}
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
+		}
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	for (var i=0;i<aCookie.length;i++){
+		var aCrumb=aCookie[i].split("=");
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsGetIdCrumb(name,crumb){
+	var cookie=dcsGetCookie(name);
+	var id=cookie.substring(0,cookie.indexOf(":lv="));
+	var aCrumb=id.split("=");
+	for (var i=0;i<aCrumb.length;i++){
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsFPC(offset){
+	if (typeof(offset)=="undefined"){
+		return;
+	}
+	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+		return;
+	}
+	var name=gFpc;
+	var dCur=new Date();
+	var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
+	dCur.setTime(dCur.getTime()+adj);
+	var dExp=new Date(dCur.getTime()+315360000000);
+	var dSes=new Date(dCur.getTime());
+	WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
+	if (document.cookie.indexOf(name+"=")==-1){
+		if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+			WT.co_f=gWtId;
+		}
+		else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+			WT.co_f=gTempWtId;
+			WT.vt_f="1";
+		}
+		else{
+			WT.co_f="2";
+			var cur=dCur.getTime().toString();
+			for (var i=2;i<=(32-cur.length);i++){
+				WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+			}
+			WT.co_f+=cur;
+			WT.vt_f="1";
+		}
+		if (typeof(gWtAccountRollup)=="undefined"){
+			WT.vt_f_a="1";
+		}
+		WT.vt_f_s=WT.vt_f_d="1";
+		WT.vt_f_tlh=WT.vt_f_tlv="0";
+	}
+	else{
+		var id=dcsGetIdCrumb(name,"id");
+		var lv=parseInt(dcsGetCrumb(name,"lv"));
+		var ss=parseInt(dcsGetCrumb(name,"ss"));
+		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+			return;
+		}
+		WT.co_f=id;
+		var dLst=new Date(lv);
+		WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
+		dSes.setTime(ss);
+		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
+			dSes.setTime(dCur.getTime());
+			WT.vt_f_s="1";
+		}
+		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+			WT.vt_f_d="1";
+		}
+	}
+	WT.co_f=escape(WT.co_f);
+	WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
+	var expiry="; expires="+dExp.toGMTString();
+	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+	if (document.cookie.indexOf(name+"=")==-1){
+		WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
+		WT.vt_f=WT.vt_f_a="2";
+	}
+}
+
+// Code section for Use an existing first-party cookie.
+function dcsOther(){
+	if (typeof(gFpc)!="undefined"){
+		if (dcsGetCookie("ICMAID")){
+			gTempWtId=dcsGetCookie("ICMAID");
+			dcsFPC(gTimeZone);
+		}
+		else if (dcsGetCookie(gFpc)){
+			document.cookie=gFpc+"=; expires=Thu, 01-Jan-1970 00:00:01 GMT";
+		}
+	}
+	else if (dcsGetCookie("ICMAID")){
+		WT.co_f=escape(dcsGetCookie("ICMAID"));
+	}
+}
+
+// Code section for Generate visitor identification query parameters required for Express Analysis and Marketing Warehouse
+var gFpc="WT_FPC";
+var gFpcDom=".icma.org";
+
+function dcsAdv(){
+	dcsFunc("dcsET");
+	dcsFunc("dcsCookie");
+	dcsFunc("dcsAdSearch");
+	dcsFunc("dcsTP");
+}
+
+//-->
+</script>
+<!-- END OF SDC Advanced Tracking Code -->
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2006/04/07 16:45:14 $ -->
+<script type="text/javascript"><!--
+var gDomain="207.86.236.84";
+var gDcsId="dcs9qtdhw00000oyy4qr9t6yq_6l3t";
+
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
+	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
+}
+//-->
+</script>
+<script type="text/javascript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+var gI18n=false;
+if (window.RegExp){
+	var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g};
+	var I18NRE={"%25":/\%/g};
+}
+
+// Add customizations here
+
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=gI18n?dcsEscape(dcsEncode(document.title),I18NRE):document.title;
+	}
+	WT.js="Yes";
+	WT.jv=dcsJV();
+	if (document.body&&document.body.addBehavior){
+		document.body.addBehavior("#default#clientCaps");
+		if (document.body.connectionType){
+			WT.ct=document.body.connectionType;
+		}
+		document.body.addBehavior("#default#homePage");
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	if (parseInt(navigator.appVersion)>3){
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+		}
+		else if (navigator.appName=="Netscape"){
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+		}
+	}
+	WT.fi="No";
+	if (window.ActiveXObject){
+		for(var i=10;i>0;i--){
+			try{
+				var flash = new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);
+				WT.fi="Yes";
+				WT.fv=i+".0";
+				break;
+			}
+			catch(e){
+			}
+		}
+	}
+	else if (navigator.plugins&&navigator.plugins.length){
+		for (var i=0;i<navigator.plugins.length;i++){
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+				WT.fi="Yes";
+				WT.fv=navigator.plugins[i].description.split(" ")[2];
+				break;
+			}
+		}
+	}
+	if (gI18n){
+		WT.em=(typeof(encodeURIComponent)=="function")?"uri":"esc";
+		if (typeof(document.defaultCharset)=="string"){
+			WT.le=document.defaultCharset;
+		} 
+		else if (typeof(document.characterSet)=="string"){
+			WT.le=document.characterSet;
+		}
+	}
+	WT.tv="8.0.0";
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+		if (gQP.length>0){
+			for (var i=0;i<gQP.length;i++){
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+				if (pos!=-1){
+					var front=DCS.dcsqry.substring(0,pos);
+					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+					DCS.dcsqry=front+end;
+				}
+			}
+		}
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=gI18n?dcsEscape(window.document.referrer, I18NRE):window.document.referrer;
 		}
 	}
 }
-document.cookie = "icma_browser=" + myString;
+
+function dcsA(N,V){
+	return "&"+N+"="+dcsEscape(V, RE);
+}
+
+function dcsEscape(S, REL){
+	if (typeof(REL)!="undefined"){
+		var retStr = new String(S);
+		for (R in REL){
+			retStr = retStr.replace(REL[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsEncode(S){
+	return (typeof(encodeURIComponent)=="function")?encodeURIComponent(S):escape(S);
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
+		}
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var elems;
+	if (document.all){
+		elems=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		elems=document.getElementsByTagName("meta");
+	}
+	if (typeof(elems)!="undefined"){
+		for (var i=1;i<=elems.length;i++){
+			var meta=elems.item(i-1);
+			if (meta.name){
+				if (meta.name.indexOf('WT.')==0){
+					WT[meta.name.substring(3)]=(gI18n&&(meta.name.indexOf('WT.ti')==0))?dcsEscape(dcsEncode(meta.content),I18NRE):meta.content;
+				}
+				else if (meta.name.indexOf('DCSext.')==0){
+					DCSext[meta.name.substring(7)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCS.')==0){
+					DCS[meta.name.substring(4)]=(gI18n&&(meta.name.indexOf('DCS.dcsref')==0))?dcsEscape(meta.content,I18NRE):meta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+		return;
+	}
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=dcsA(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=dcsA("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=dcsA(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+function dcsJV(){
+	var agt=navigator.userAgent.toLowerCase();
+	var major=parseInt(navigator.appVersion);
+	var mac=(agt.indexOf("mac")!=-1);
+	var nn=((agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
+	var nn4=(nn&&(major==4));
+	var nn6up=(nn&&(major>=5));
+	var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
+	var ie4=(ie&&(major==4)&&(agt.indexOf("msie 4")!=-1));
+	var ie5up=(ie&&!ie4);
+	var op=(agt.indexOf("opera")!=-1);
+	var op5=(agt.indexOf("opera 5")!=-1||agt.indexOf("opera/5")!=-1);
+	var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
+	var op7up=(op&&!op5&&!op6);
+	var jv="1.1";
+	if (nn6up||op7up){
+		jv="1.5";
+	}
+	else if ((mac&&ie5up)||op6){
+		jv="1.4";
+	}
+	else if (ie5up||nn4||op5){
+		jv="1.3";
+	}
+	else if (ie4){
+		jv="1.2";
+	}
+	return jv;
+}
+
+function dcsFunc(func){
+	if (typeof(window[func])=="function"){
+		window[func]();
+	}
+}
+
+dcsVar();
+dcsMeta();
+dcsFunc("dcsAdv");
+dcsTag();
+//-->
 </script>
 
-
-	
-
-
-
-
-
-
-<title>International City/County Management Association (ICMA)</title>
-<meta name="description" content="ICMA is the professional and educational association for appointed local government administrators throughout the world.">
-<meta name="KEYWORDS" content="local government, city, county, town, township, city manager, county manager, council-manager, city council, form of government, administrator">
-</head>
-<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" bgcolor="ffffff">
-<table border="0" width="618" cellspacing="0" cellpadding="0">
-		
-	<tbody><tr valign="top">
-		<td width="123" align="left" valign="top" height="50" bgcolor="000000"><a href="/"><img src="/images/hme1/icmaorg2.gif" border="0" width="123" height="30"></a><br>
-<a href="/search/"><img src="/images/hme1/nav2_search.gif" border="0" width="72" height="20"></a><a href="/"><img src="/images/hme1/nav2_home.gif" border="0" width="51" height="20"></a></td>
-		<td width="495" colspan="3" valign="top" align="left" nowrap=""><a href="/go.cfm?cid=1"><img src="/images/cat1/navtype2_icma.gif" border="0" width="60" height="30"></a><a href="/go.cfm?cid=2"><img src="/images/cat2/navtype2_news.gif" border="0" width="63" height="30"></a><a href="/go.cfm?cid=3"><img src="/images/cat3/navtype2_issues.GIF" border="0" width="78" height="30"></a><a href="/go.cfm?cid=4"><img src="/images/cat4/navtype2_info.gif" border="0" width="77" height="30"></a><a href="http://icma.org/go.cfm?cid=5&amp;gid=23&amp;sid=45"><img src="/images/cat5/navtype2_members.gif" border="0" width="67" height="30"></a><a href="http://bookstore.icma.org"><img src="/images/cat25/navtype2_store.gif" border="0" width="69" height="30"></a><a href="/go.cfm?cid=7"><img src="/images/cat7/navtype2_univ.gif" border="0" width="69" height="30"></a><img src="/images/hme1/nav2_spacea.gif" width="12" height="30"></td>
-	
-	</tr>
-	<tr>
-
-		<td colspan="4" width="618">
-			<table border="0" width="618" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td width="123" valign="top" align="left" bgcolor="#cccccc">
-						<img height="48" src="/images/cat1/art_icma2a.gif" width="123"></td>
-					<td valign="top" align="left" width="495">
-						<table border="0" width="495" height="48" cellspacing="0" cellpadding="0" bgcolor="#336666">
-							<tbody><tr>
-								<td width="495" valign="top" align="left">
-									
-												
-											
-													
-												<a href="/go.cfm?cid=1&amp;gid=2"><img src="/images/cat1/grp2/sub_asso2.gif" border="0" width="143" height="17"></a> 
-										
-												
-											
-													
-												<a href="/go.cfm?cid=1&amp;gid=3"><img src="/images/cat1/grp3/sub_prog2.gif" border="0" width="171" height="17"></a> 
-										
-												
-											
-													
-												<a href="/go.cfm?cid=1&amp;gid=4"><img src="/images/cat1/grp4/sub_corp2.gif" border="0" width="131" height="17"></a> 
-													<br clear="all">
-												
-										
-												
-											
-													
-												<a href="/go.cfm?cid=1&amp;gid=5"><img src="/images/cat1/grp5/sub_stat2.gif" border="0" width="205" height="17"></a> 
-										
-												
-											<a href="/go.cfm?cid=1&amp;gid=6"><img src="/images/cat1/grp6/sub_cont2.gif" border="0" width="119" height="17"></a> 
-										
-												
-											
-													
-												<a href="/go.cfm?cid=1&amp;gid=7"><img src="/images/cat1/grp7/sub_join2.gif" border="0" width="97" height="17"></a> 
-													<br clear="all">
-												
-										
-									
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	
-	<tr>
-		<td width="123" rowspan="5" valign="top" align="left" background="/images/cat1/back_teal2.jpg">
-			
-<img src="/images/cat1/art_icma2b.gif" width="123" height="272">
-			
-		</td>
-		
-		<td width="20" valign="top" align="left" rowspan="2"><img border="0" width="20" height="20" src="/images/hme1/clear.pixel.gif"></td>
-		<td width="483" valign="top" align="left">
-		
-		
-		
-		
-
-
-	
-	
-<br clear="left">
-
-<table border="0" width="450" cellpadding="0" cellspacing="0">
-
-<tbody><tr>
-
-<td width="450" align="LEFT" valign="TOP">
-
-
-
-
-
-<b><font face="Arial, Helvetica, sans-serif" size="3" color="336666">ICMA Web Site Privacy Policy</font></b> 
-
-<p> 
-
-</p><p></p><p><font face="Arial, Helvetica, sans-serif" size="2"><i>icma.org</i> is the Web site          for the International City/County Management Association (ICMA).</font></p>             <p><font face="Arial, Helvetica, sans-serif" size="2">ICMA can be reached          via e-mail through contact information at the <a href="/go.cfm?cid=1&amp;gid=6">Contacting ICMA Web Page</a>,          and by telephone at (202) 289-4262.</font></p>       <p><font face="Arial, Helvetica, sans-serif" size="2">ICMA is committed          to protecting the privacy of visitors to our Web site. When you visit          <i>icma.org,</i> our server automatically collects only your domain name          (for example, "aol.com, ibm.com," etc.) and the type of Web          browser software that you use. ICMA does not acquire your e-mail address          or other information without your knowledge. The information that ICMA          collects about your domain name and browser is used to help ICMA improve          the content and functionality of its Web site.</font></p>       <p><font face="Arial, Helvetica, sans-serif" size="2">ICMA’s Web server          may ask your Web browser to store a "cookie," which is a small          piece of information that the Web server uses to keep track of various          user preferences. Cookies are not used to save or retrieve any sensitive          data about visitors to<i> icma.org.</i></font></p>       <p><font face="Arial, Helvetica, sans-serif" size="2">If you supply ICMA          with a postal address or e-mail address by completing an online form,          you may receive periodic mailings from ICMA regarding either orders you          have placed or information about new products and services or upcoming          events. In addition, because ICMA occasionally shares its mailing list,          you may receive information from selected reputable organizations whose          resources or services may interest you. ICMA will not share your telephone          number or e-mail addresses with other companies. </font></p>       <p><font face="Arial, Helvetica, sans-serif" size="2">If you would prefer          that ICMA not share your contact information, please send e-mail to <a href="mailto:do-not-share@icma.org">do-not-share@icma.org</a>.          The e-mail message must include your complete name and address, and you          must request that you be added to the "do-not-share" list. If          you would prefer not to be contacted by ICMA, please send e-mail to "<a href="mailto:do-not-contact@icma.org">do-not-contact@icma.org</a>."          Include your complete name and address and we will be sure that your name          is added to our "do-not-contact" list.</font></p>       <p> </p>       <p><font face="Arial, Helvetica, sans-serif" size="2">If you supply ICMA          with your telephone number, you may receive telephone contact from us          with information regarding an order you have placed online. Very rarely          you also may receive telephone contact from us with information regarding          new products and services or upcoming events. If you do not wish to receive          such telephone calls, please let us know by sending e-mail to "<a href="mailto:do-not-call@icma.org">do-not-call@icma.org</a>."          Please provide us with your full name and correct telephone number, and          we will be sure your name is added to the "do-not-call" list.</font></p>       <p><font face="Arial, Helvetica, sans-serif" size="2">Thank you for visiting          <i>icma.org. </i></font></p>       <p>&nbsp; </p> <p> 
-
-</p></td>
-
-</tr>
-
-</tbody></table>
-
-		
-	
-	
-	
-	
-	
-<img src="/images/shared/clear.pixel.gif" width="1" height="1" vspace="5"><br>
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-<a name="footer"></a>
-
-<p><font face="Arial, Helvetica, sans-serif" size="1">Copyright 2002</font><br>
-
-<font face="Arial, Helvetica, sans-serif" size="1">International City/County<br>
-Management Association<br>
-(ICMA)</font></p>
-                
-<p><font face="Arial, Helvetica, sans-serif" size="1">
-777 North Capitol 
-Street, NE<br>
-Suite 500<br>
-Washington, DC 20002 </font></p>
-<p>
-<font face="Arial, Helvetica, sans-serif" size="1">
-Main phone number: 
-202-289-4262<br>
-Member services: 202-962-3680<br>
-Main fax number: 202-962-3500<br>
-Order processing center: 1-800-745-8780 </font></p>
-
-<p><font face="Arial, Helvetica, sans-serif" size="1"><a href="/go.cfm?cid=2&amp;gid=10&amp;sid=17&amp;did=92">Future Annual Conference Dates</a></font></p>
-
-<p><font face="Arial, Helvetica, sans-serif" size="1"><a href="/go.cfm?cid=1&amp;gid=6">Contacting ICMA by e-mail</a></font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="1"><a href="/go.cfm?cid=1&amp;gid=6&amp;sid=194">icma.org privacy policy</a></font></p>
-<p><font face="Arial, Helvetica, sans-serif" size="1"><a href="/">http://icma.org/</a></font></p>
-
-
-
-<br clear="all">
-		</td>
-	</tr>
-	
-</tbody></table>
-
-
-
+<noscript>
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://207.86.236.84/dcs9qtdhw00000oyy4qr9t6yq_6l3t/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.0">
+</noscript>
+<!-- END OF SmartSource Data Collector  TAG -->	
 
 
 
