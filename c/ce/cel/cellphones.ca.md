@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellphones.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615060213id_/http%3A//www.cellphones.ca/about-cellphones/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellphones.ca privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006082902id_/http%3A//www.cellphones.ca/about-cellphones/privacy) for the most accurate reproduction.*
 
 # Privacy
 
