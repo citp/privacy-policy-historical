@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the davenport.edu privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616223331id_/http%3A//davenport.edu/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davenport.edu privacy policy that was archived on 2006-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061006123730id_/http%3A//www.davenport.edu/Home/UniversityDepartments/tabid/125/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Davenport University > Home
+# Davenport University - Departments
 
 Davenport University is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Davenport University Web site and governs data collection and usage. By using the Davenport University website, you consent to the data practices described in this statement.
 
