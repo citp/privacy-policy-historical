@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifehack.org privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425051949id_/http%3A//www.lifehack.org/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifehack.org privacy policy that was archived on 2006-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061007143459id_/http%3A//www.lifehack.org/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - lifehack.org
 
