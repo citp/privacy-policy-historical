@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chariot.net.au privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618111505id_/http%3A//www.chariot.net.au/docs/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chariot.net.au privacy policy that was archived on 2006-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061007144838id_/http%3A//www.chariot.net.au/docs/privacy_policy.html) for the most accurate reproduction.*
 
 # Chariot Limited Privacy Policy
 
