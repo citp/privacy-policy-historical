@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoday.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615095132id_/http%3A//www.cartoday.com/content/footer/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoday.com privacy policy that was archived on 2006-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061007091156id_/http%3A//www.cartoday.com/content/footer/privacypolicy.html) for the most accurate reproduction.*
 
 # : : : CARtoday.com : : :
 
