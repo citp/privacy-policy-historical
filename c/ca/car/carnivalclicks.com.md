@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the carnivalclicks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615225220id_/http%3A//carnivalclicks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnivalclicks.com privacy policy that was archived on 2006-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061007214235id_/http%3A//www.carnivalclicks.com/privacy.php) for the most accurate reproduction.*
 
 # Website Traffic
 
   
-
-
-  
-
-
-|    
 
 
 **CarnivalClicks.com Privacy Policy
