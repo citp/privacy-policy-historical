@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritiesforcharity.org privacy policy that was archived on 2006-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060216105711id_/http%3A//celebritiesforcharity.org/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritiesforcharity.org privacy policy that was archived on 2006-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061007043638id_/http%3A//celebritiesforcharity.org/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Celebrities For Charities : Privacy Policy
 
