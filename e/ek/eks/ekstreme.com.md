@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the ekstreme.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629113518id_/http%3A//ekstreme.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekstreme.com privacy policy that was archived on 2006-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061007131823id_/http%3A//ekstreme.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - eKstreme.com
+
+NEW! [Domain Geolocator](http://ekstreme.com/domain-geolocation/): A new tool to determine the geographical relevancy of a domain name.
+
+NEW! [What the Buzz?](http://ekstreme.com/buzz/) has been updated to include Topix.net searches.
+
+[](http://www.text-link-ads.com/?ref=6666)
 
 Although eKstreme.com is a personal site, I do collect some information about the visitors. This page describes what exactly gets collected, why, and how it is stored. I am not a lawyer, so I will not give you a legal document, but will give you a simple explanation.
 
