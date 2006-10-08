@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axcis.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222733id_/http%3A//www.axcis.co.uk/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axcis.co.uk privacy policy that was archived on 2006-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061008092721id_/http%3A//axcis.co.uk/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy of Axcis teacher recruitment
 
