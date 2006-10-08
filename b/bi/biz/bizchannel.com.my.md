@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizchannel.com.my privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220544id_/http%3A//www.bizchannel.com.my/bc_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizchannel.com.my privacy policy that was archived on 2006-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061008155338id_/http%3A//www.bizchannel.com.my/bc_privacypolicy.html) for the most accurate reproduction.*
 
 # BizChannel - Privacy Policy
 
