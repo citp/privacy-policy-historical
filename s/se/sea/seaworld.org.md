@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seaworld.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001720id_/http%3A//www.seaworld.org/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seaworld.org privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009002016id_/http%3A//www.seaworld.org/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # SeaWorld/Busch Gardens ANIMALS - PRIVACY POLICY
 
-| **[](https://web.archive.org/web/20060615001720id_/http%3A//www.seaworld.org/index.asp#)**| 
+| **[](https://web.archive.org/web/20061009002016id_/http%3A//www.seaworld.org/index.asp#)**| 
 
 **TERMS OF USE**
 
