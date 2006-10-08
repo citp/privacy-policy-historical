@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fccj.edu privacy policy that was archived on 2006-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060207124621id_/http%3A//fccj.edu/current/stucomputing/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fccj.edu privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009011225id_/http%3A//fccj.edu/current/stucomputing/privacypolicy.html) for the most accurate reproduction.*
 
 # student computing services
 
@@ -29,7 +29,17 @@
 
 [](https://web.archive.org/current/stucomputing/index.html)
 
-Collegewide Internet Privacy Policy
+| 
+
+E-mail Privacy Policy  
+  
+---  
+  
+[Chapter 2006-232, Laws of Florida (PDF)](http://election.dos.state.fl.us/laws/06laws/ch_2006-232.pdf), requires the Florida Community College to post the following notice:
+
+Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public-records request, do not send electronic mail to Florida State University. Instead, make contact by phone or in writing.  
+  
+College-wide Internet Privacy Policy
 
 Thank you for visiting Florida Community College at Jacksonville. Your privacy is very important to us. Simply stated, our policy is not to collect personal information about you when you visit our Web site unless you affirmatively choose to make such information available to us. 
 
@@ -44,8 +54,3 @@ If we are required to disclose information about you by law, we will make every 
 If you have questions about our privacy policy, or have ideas about improving our policy, please e-mail the [Learner Support Center](mailto:helpdesk@fccj.edu), or you can reach us by telephone at 904.632.3151.
 
 For information concerning privacy for students, faculty and staff, please see the [College’s Acceptable Use Policy](https://web.archive.org/current/stucomputing/useragreement.html).
-
-  
-
-
-| 
