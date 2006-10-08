@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the express.co.uk privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614155202id_/http%3A//www.express.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the express.co.uk privacy policy that was archived on 2006-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061008105101id_/http%3A//www.express.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Daily Express: The World's Greatest Newspaper
 
