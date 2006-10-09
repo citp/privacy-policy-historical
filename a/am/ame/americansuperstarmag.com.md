@@ -1,41 +1,34 @@
-> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630033726id_/http%3A//www.americansuperstarmag.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009124612id_/http%3A//www.americansuperstarmag.com/privacy.php) for the most accurate reproduction.*
 
 # American Superstar Magazine™ | Entertainment News, Celebrities, Up-and-Coming Talent
+
+| 
 
 American Superstar is searching for new faces and talent all across the country.
 
 Please submit a profile so that we can learn a little more about you. [Click Here!](http://www.americansuperstarmag.com/reg.php)
 
-"Lost" star Emilie de Ravin has married boyfriend Josh Janowicz. The couple, who have been dating since friends introduced them four years ago, tied the knot in Melbourne, in her native Australia, on Monday, June 26. 
+Let the cat fighting begin! But next time the two blonde reality stars need to rip each other's extensions off and hit each other with their Marc Jacobs shoe before re-applying make-up and heading straight to the police station. Paris Hilton and Shanna Moakler, ex-wife of Blink 182 drummer Travis Barker, were recently involved in a fight during the early hours of Wednesday morning. 
 
-Emilie, who plays castaway Claire Littleton on the hit show, and Josh, who is also an actor, exchanged their vows in front of a small gathering of friends and family. The actress' publicist, Jeff Raymond, revealed it was a "small, intimate ceremony." It is not thought any of Emilie's "Lost" cast mates attended the nuptials. 
+Paris - who was recently spotted kissing Travis - filed a police report in the early hours alleging that Moakler punched her in the jaw at Los Angeles' Hyde nightclub. 
 
-Emilie, who wore a lacy Monique Lhuillier gown, has always insisted she wanted a small wedding. The 24-year-old said earlier this year: "I'd never have a large wedding. That's not the kind of person either of us are. We're both quite low-key people." 
+Meanwhile, Shanna gave a police statement claiming that Paris' ex-boyfriend, Stavros Niarchos, pushed her down some stairs. 
+
+The "Simple Life" star's publicist, Elliot Mintz, claims that at approximately 1:10 am his client was approached by Shanna who screamed obscenities at her and then punched her in the face. 
+
+Mintz added that Shanna had to be restrained by several people to allow Paris - who he insists never retaliated against her assailant - to leave the nightclub. 
 
 [More Hollywood Gossip](http://www.americansuperstarmag.com/hollywood_gossip.php)
 
-Which will be the best summer reality TV series?   
+Which is your favorite reality show?   
 
 
   
 
 
-_June 29, 2006_
+_October 8, 2006_
 
-Filmmaker Ray Harryhausen, 86 
-
-Baseball legend Harmon Killebrew, 70 
-
-Actor Gary Busey, 62 
-
-Actor/comic Richard Lewis, 57 
-
-Singer Nicole Scherzinger, 28
-
-_In Memory..._
-
-Producer Aaron Spelling  
-1923-2006
+Entertainment reporter Rona Barrett is 70. Actor Paul Hogan is 67. Rhythm-and-blues singer Fred Cash (The Impressions) is 66. Rev. Jesse Jackson is 65. Comedian Chevy Chase is 63. Author R.L. Stine is 63. Country singer Susan Raye is 62. TV personality Sarah Purcell is 58. Actress Sigourney Weaver is 57. Rhythm-and-blues singer Robert “Kool” Bell (Kool & the Gang) is 56. Producer-director Edward Zwick is 54. Country singer-musician Ricky Lee Phelps is 53. Actor Michael Dudikoff is 52. Comedian Darrell Hammond is 51. Actress Stephanie Zimbalist is 50. Rock musician Mitch Marine is 45. Rock singer Steve Perry (Cherry Poppin’ Daddies) is 43. Gospel/rhythm-and-blues singer CeCe Winans is 42. Rock musician C.J. Ramone (The Ramones) is 41. Singer-producer Teddy Riley is 40. Actress Emily Procter is 38. Actor-screenwriter Matt Damon is 36. Actress Kristanna Loken is 27. Rhythm-and-blues singer Byron Reeder (Mista) is 27. Actor Nick Cannon is 26. Actor Angus T. Jones is 13. 
 
 | 
 
@@ -194,4 +187,12 @@ Effective Date: August 1, 2005
 
 | 
 
-[](http://www.americansuperstarclothing.com/)
+[](http://www.americansuperstarclothing.com/)  
+  
+---|---|---  
+[Home](http://www.americansuperstarmag.com/index.php) | [About Us](http://www.americansuperstarmag.com/about.php) | [Contact Us](http://www.americansuperstarmag.com/contact.php) | [Advertise With Us](http://www.americansuperstarmag.com/mediasales.php) | [Street Team](http://www.americansuperstarmag.com/street_team.php) | [American Superstar Store](http://www.americansuperstarclothing.com/)
+
+Use of this site signifies your acceptance of the [Privacy Policy](http://www.americansuperstarmag.com/privacy.php) and [Terms of Use.](http://www.americansuperstarmag.com/terms.php)   
+Copyright © 2006 American Superstar, Inc. All rights reserved.
+
+| 
