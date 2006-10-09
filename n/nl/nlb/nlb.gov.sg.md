@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nlb.gov.sg privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614152054id_/http%3A//www.nlb.gov.sg/CPMS.portal%3Bjsessionid%3DGTQYw5nnhZsCpFFBnlhMgG2Fh01wJ1J2M1LHpBdT7nmTyvC1fQmY%211924085123%211322864778%3F_nfpb%3Dtrue%26_pageLabel%3DPrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlb.gov.sg privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009023858id_/http%3A//www.nlb.gov.sg/CPMS.portal%3Bjsessionid%3DFpvTR8h4zz5KncMcyLhYlQm597J29BjJryfh6mJrtNYNWCycTTJY%211550858291%21-259960867%3F_nfpb%3Dtrue%26_pageLabel%3DPrivacyStatement) for the most accurate reproduction.*
 
 # National Library Board, Singapore
 
