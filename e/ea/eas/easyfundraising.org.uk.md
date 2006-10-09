@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618134834id_/http%3A//easyfundraising.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009111144id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | easyfundraising
 
@@ -36,19 +36,29 @@ We do not transfer information in this way unless we need to transfer informatio
 ---  
 | 
 
-[**Dorothy Perkins**  
-](https://web.archive.org/new_retailers)[ **Yahoo Search Marketing**  
-](https://web.archive.org/new_retailers)[ **Figleaves**  
-](https://web.archive.org/new_retailers)[ **Flowergram**  
-](https://web.archive.org/new_retailers)[ **Great Magazines**  
-](https://web.archive.org/new_retailers)[ **Marbles**  
+[**Pru Home Insurance**  
+](https://web.archive.org/new_retailers)[ **Orange**  
+](https://web.archive.org/new_retailers)[ **Sock Shop**  
+](https://web.archive.org/new_retailers)[ **Charles Tyrwhitt**  
+](https://web.archive.org/new_retailers)[ **Toys R Us**  
+](https://web.archive.org/new_retailers)[ **Tesco Direct**  
 ](https://web.archive.org/new_retailers)[ more>>](https://web.archive.org/new_retailers)
 
 |   
 | 
 
   
-[](https://web.archive.org/Bounce.php?link=http://clkuk.tradedoubler.com/click?p=702@a=981775@g=19472@epi=!UID)  
+[](https://web.archive.org/Bounce.php?link=http://www.awin1.com/awclick.php?mid=1257@id=57434@clickref=!UID)  
 
+
+|   
+| 
+
+[](http://www.easyfundraising.org.uk/special_offers/)
+
+|   
+| 
+
+[](http://www.easyfundraising.org.uk/raise_funds_for_free/)
 
 | 
