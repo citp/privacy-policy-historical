@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigscreen.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615101214id_/http%3A//www.bigscreen.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigscreen.com privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009073845id_/http%3A//www.bigscreen.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # The BigScreen Cinema Guide: About Us - Privacy Policy
 
