@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwmedicine.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021917id_/http%3A//www.uwmedicine.org/Global/Legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwmedicine.org privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009164739id_/http%3A//www.uwmedicine.org/Global/Legal/privacy.htm) for the most accurate reproduction.*
 
 # UW Medicine - Notice of Privacy Practices
 
