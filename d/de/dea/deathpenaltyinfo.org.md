@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deathpenaltyinfo.org privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613045322id_/http%3A//deathpenaltyinfo.org/article.php%3Fscid%3D2%26did%3D576) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deathpenaltyinfo.org privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009224744id_/http%3A//www.deathpenaltyinfo.org/article.php%3Fscid%3D2%26did%3D576) for the most accurate reproduction.*
 
 # Privacy Policy
 
