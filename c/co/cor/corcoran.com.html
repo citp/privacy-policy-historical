@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the corcoran.com privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616204611id_/http%3A//corcoran.com/aboutus/index.aspx%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the corcoran.com privacy policy that was archived on 2006-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061009211322id_/http%3A//corcoran.com/aboutus/index.aspx%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.-->
 
 <html><head>
 <title>corcoran.com | get to know us</title>
@@ -9,6 +9,8 @@
 <script src="/include/ValidateGeneralForms.js"></script>
 <script src="/include/Popupurl.js"></script>
 <script src="/include/ImgLoadFailed.js"></script>
+<script src="/include/CorcoranMapAPI.js" type="text/javascript"></script>
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAZwd0flUel3T1HKUW1cjsIxSuUBCOzVW4fmiG2oSEZFw-Fz9Q2xRAZxKTOvlCsNWLZbCDEohtM3zaNA" type="text/javascript"></script>
 
 <script>
 var picture_num = 0;
@@ -26,12 +28,20 @@ shirtImg[idx].src = pictures[idx]
 
 
 </script>
+<script language="javascript">
+function ifOffice()
+{
+	if(document.URL.match("OID"))
+	{
+		OfficeMap(',,,','','');
+	}
+}
+</script>
 
 
 
 
-
-</head><body onload="setPopDesc();"><div id="divDescription" class="clDescriptionCont"></div>
+</head><body onload="setPopDesc();ifOffice();"><div id="divDescription" class="clDescriptionCont"></div>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="Keywords" content="corcoran+12th+street,corcoran+carnegie+hill,corcoran+east+side,Corcoran+gallery,corcoran+marketing,corcoran rental,corcoran+soHo,corcoran+village, 
 corcoran+virtual,corcoran+west+side,corcoran+brooklyn+heights,corcoran+brooklyn+heights,corcoran+fort+greene,corcoran+park+slope, 
@@ -43,14 +53,10 @@ corcoran+real+estate,corcoran+palmbeach">
 <style type="text/css">
 <!--
 .style2 {font-size: 12px}
-.style3 {
-	font-size: 13px;
-	font-weight: bold;
-}
+.style3 {font-size: 11px; font-family: Arial, Helvetica, sans-serif; color: #909090; }
+
 -->
 </style>
-
-
 
 
 
@@ -92,369 +98,636 @@ function gohome()
 	window.top.location.href="/index.aspx";
 }
 
+function init()
+{
+    var section
+    if(document.URL.toLowerCase().match("where.aspx"))
+        section = "pro2";
+    else if(document.URL.toLowerCase().match("/property/search.aspx"))
+        section = "pro2";
+    else if(document.URL.toLowerCase().match("/property/listing.aspx"))
+        section = "pro2";
+    else if(document.URL.toLowerCase().match("/property/openhse.aspx"))
+        section = "openhouse";
+    else if(document.URL.toLowerCase().match("/property/nd/"))
+        section = "newdev";    
+    else if(document.URL.toLowerCase().match("/agents/"))
+        section = "agents";            
+    else if(document.URL.toLowerCase().match("/dream/"))
+        section = "dream";            
+    else if(document.URL.toLowerCase().match("/selling/"))
+        section = "sell";                    
+    
+    else if(document.URL.toLowerCase().match("/guides/index.aspx"))
+    {
+        if(document.URL.toLowerCase().match("page=news"))
+            section = "press";    
+        else if(document.URL.toLowerCase().match("page=mostviewed"))
+            section = "press";            
+        else if(document.URL.toLowerCase().match("page=thecorcoranreport"))
+            section = "press";            
+        else if(document.URL.toLowerCase().match("page=quarterreport"))
+            section = "press";            
+        else if(document.URL.toLowerCase().match("page=introduction"))
+            section = "press";                            
+        else if(document.URL.toLowerCase().match("page=markettrends"))
+            section = "press";                            
+        else if(document.URL.toLowerCase().match("page=marketwide"))
+            section = "press";                            
+        else if(document.URL.toLowerCase().match("page=condos"))
+            section = "press";                            
+        else if(document.URL.toLowerCase().match("page=co-ops"))
+            section = "press";                            
+        else if(document.URL.toLowerCase().match("page=absorption"))
+            section = "press";     
+        else if(document.URL.toLowerCase().match("page=luxurymarket"))
+            section = "press";     
+        else if(document.URL.toLowerCase().match("page=townhouses"))
+            section = "press";     
+        else if(document.URL.toLowerCase().match("page=eastside"))
+            section = "press";     
+        else if(document.URL.toLowerCase().match("page=midtowneast"))
+            section = "press";     
+        else if(document.URL.toLowerCase().match("page=westside"))
+            section = "press";     
+        else if(document.URL.toLowerCase().match("page=midtownwest"))
+            section = "press";     
+        else if(document.URL.toLowerCase().match("page=downtown"))
+            section = "press";     
+        else if(document.URL.toLowerCase().match("page=lofts"))
+            section = "press";     
+        else if(document.URL.toLowerCase().match("page=neighborhoodguides"))
+            section = "press";     
+        else if(document.URL.toLowerCase().match("page=manhattan"))
+            section = "press";     
+        else if(document.URL.toLowerCase().match("page=brooklyn"))
+            section = "press";     
+        else if(document.URL.toLowerCase().match("page=hamptonseastend"))
+            section = "press";                                                                                                                            
+        else if(document.URL.toLowerCase().match("page=southflorida"))
+            section = "press";                                                                                                      
+        else if(document.URL.toLowerCase().match("page=buyerresources"))
+            section = "press";
+        else if(document.URL.toLowerCase().match("page=closingcosts"))
+            section = "press";
+        else if(document.URL.toLowerCase().match("page=coopvscondo"))
+            section = "press";
+        else if(document.URL.toLowerCase().match("page=timelineforpurchasing"))
+            section = "press";
+        else if(document.URL.toLowerCase().match("page=buyersguide"))
+            section = "press";
+        else if(document.URL.toLowerCase().match("page=renterresources"))
+            section = "press";
+        else if(document.URL.toLowerCase().match("page=finances"))
+            section = "press";
+        else if(document.URL.toLowerCase().match("page=buildingtypes"))
+            section = "press";
+        else if(document.URL.toLowerCase().match("page=whattobring"))
+            section = "press";
+        else if(document.URL.toLowerCase().match("page=timelineforrenting"))
+            section = "press";                                                                                                                        
+        else if(document.URL.toLowerCase().match("page=realestateglossary"))
+            section = "press";      
+        else
+            section = "reports";                                     
+    }
+    else if(document.URL.toLowerCase().match("/corcoranreportq2/"))
+        section = "press";     
+    else if(document.URL.toLowerCase().match("/property/mortgagecalc.asp"))
+        section = "press";     
+        
+    else if(document.URL.toLowerCase().match("/aboutus/"))
+        section = "aboutus";            
+        
+    switch(section)
+    {
+        case('pro2'):
+            document.getElementById('pro2').src = "/gfx/homenav_0604_ENG/global_nav_eng_properties3.gif";
+            break;
+        case('openhouse'):
+            document.getElementById('openhouse').src = "/gfx/homenav_0604_ENG/global_nav_eng_openhouse3.gif";
+            break;
+        case('newdev'):
+            document.getElementById('newdev').src = "/gfx/homenav_0604_ENG/global_nav_eng_newdev3.gif";
+            break;
+        case('agents'):
+            document.getElementById('agents').src = "/gfx/homenav_0604_ENG/global_nav_eng_agents3.gif";
+            break;
+        case('dream'):
+            document.getElementById('dream').src = "/gfx/homenav_0604_ENG/global_nav_eng_dreamlist3.gif";
+            break;
+        case('sell'):
+            document.getElementById('sell').src = "/gfx/homenav_0604_ENG/global_nav_eng_sell3.gif";
+            break;
+        case('press'):
+            document.getElementById('press').src = "/gfx/homenav_0604_ENG/global_nav_eng_press3.gif";
+            break;
+        case('reports'):
+            document.getElementById('reports').src = "/gfx/homenav_0604_ENG/global_nav_eng_reports3.gif";
+            break;
+        case('aboutus'):
+            document.getElementById('aboutus').src = "/gfx/homenav_0604_ENG/global_nav_eng_aboutus3.gif";
+            break;                                                                                            
+        default:
+            
+            break;
+    }
+}
+
 </script>
 
 
-<table width="774" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
+<table width="769" height="108" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_01">
 	<tbody><tr>
+		<td background="/gfx/new_header_06.gif">&nbsp;			</td>
+		<td bgcolor="#000000">
+			<a href="/index.aspx"><img src="/gfx/corcoran_logo.gif" alt="" width="176" height="77" border="0"></a></td>
+		<td bgcolor="#000000">
+			<img src="/gfx/new_header_03.gif" width="260" height="77" alt=""></td>
 		<td>
-			<table width="750" border="0" cellpadding="0" cellspacing="0">
+			<table id="Table_01" width="314" height="77" border="0" bgcolor="#000000" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td colspan="3">
-			<table id="header" width="750" height="108" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		        <td width="265"><a href="/index.aspx" target="_top"><img src="/gfx/header_01.gif" border="0" alt="corcoran group real estate" name="corcoran_logo" width="165" height="77" id="corcoran_logo"></a></td>
-		<td width="193">&nbsp;			</td>
-		<td width="292">
-			<form action="/property/search.aspx" method="post" name="theQuickForm" target="_top" onsubmit="return headerSearchValidator(theQuickForm)">
-			<table id="quicksearch" width="200" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td><table id="search" width="292" height="77" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
+		<td rowspan="3">
+			<img src="/gfx/home_quicksearch_01.gif" width="69" height="77" alt=""></td>
 		<td>
-			<img src="/gfx/quicksearch_01.gif" width="41" height="9" alt=""></td>
-		<td>
-			<img src="/gfx/quicksearch_02.gif" width="3" height="9" alt=""></td>
-		<td>
-			<img src="/gfx/quicksearch_03.gif" width="248" height="9" alt=""></td>
+			<img src="/gfx/home_quicksearch_02.gif" width="245" height="22" alt=""></td>
 	</tr>
-	<tr>
-		                    <td rowspan="2">&nbsp; </td>
-		<td rowspan="2">
-			<img src="/gfx/quicksearch_05.gif" width="3" height="68" alt=""></td>
-		<td>
-			<img src="/gfx/quicksearch_06.gif" width="248" height="12" alt=""></td>
-	</tr>
-	<tr>
-		                    <td valign="top"> <table width="99%" border="0" align="right">
-                                <tbody><tr> 
-                                  <td>
-                                      <table width="97%" border="0">
-                                    <tbody><tr> 
-                                      <td width="71%" class="homeUdrline"> <input type="hidden" name="picture" value="Y"> 
-                                        <input name="QckSrchTxt" type="text" class="homeForm" id="QckSrchTxt" value="Enter web id #, agent id or address." onfocus="if(this.value=='Enter web id #, agent id or address.') {this.value='';}" onblur="if(this.value=='') {this.value='Enter web id #, agent id or address.';}" size="38" maxlength="150"></td>
-                                      <td width="29%" valign="bottom"> <input type="image" src="/gfx/search_btn.gif" border="0"> 
-                                      </td>
-                                    </tr>
-                                    <tr> 
-                                      <td colspan="2" class="hometext9px">My Corcoran: 
-                                        <a href="/cmembers/index.aspx" target="_top" class="homeLink">Log 
-                                        in</a> <!--&nbsp;| &nbsp; Choose a language 
-                                        <img src="/gfx/drop_arrow.gif" width="9" height="7"> -->
-                                      </td>
-                                    </tr>
-                                  </tbody></table>
-                                  </td>
-                  </tr>
-            	</tbody></table>
-			
+	<tr bgcolor="#000000"><form action="/property/search.aspx" method="post" name="theQuickForm" target="_top" onsubmit="return headerSearchValidator(theQuickForm)"></form>
+	<input type="hidden" name="picture" value="Y">
+		<td bgcolor="#000000"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    
+	<td width="84%" align="right">
+      <input name="QckSrchTxt" type="text" class="homeForm" id="QckSrchTxt" value="Enter web id #, agent id or address." onfocus="if(this.value=='Enter web id #, agent id or address.') {this.value='';}" onblur="if(this.value=='') {this.value='Enter web id #, agent id or address.';}" size="41" maxlength="150">
+    &nbsp;
+	</td>
+	<td width="16%" align="left"><input type="image" src="/gfx/search_btn.gif" border="0"></td>
+	
+	
+  </tr>
+</tbody></table>
 		</td>
-	</tr>
-</tbody></table></td>
-              </tr>
-            </tbody></table>
-			
-			</form></td>
+		
 	</tr>
 	<tr>
-		<td colspan="3">
-			<img src="/gfx/header_04.jpg" width="750" height="6" alt=""></td>
-	</tr>
-	<tr>
-		<td colspan="3">
-		<!--TblNavEnglish-->
-			<table id="TblNavEnglish" width="750" height="25" border="0" cellpadding="0" cellspacing="0">
+		<td>
+			<table id="Table_01" width="245" height="27" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		  <td> <a href="/where.aspx" target="_top" onmouseover="MM_swapImage('properties','','/gfx/homenav_0604_ENG/global_nav_eng_properties2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/gfx/homenav_0604_ENG/global_nav_eng_properties.gif" alt="properties" name="properties" width="80" height="25" border="0" id="properties"></a></td>
-		<td>
-			<img src="/gfx/homenav_0604_ENG/header_05_02.jpg" width="17" height="25" alt=""></td>
-		  <td> <a href="/property/openhse.aspx?region=NYC" target="_top" onmouseover="MM_swapImage('openhouse','','/gfx/homenav_0604_ENG/global_nav_eng_openhouse2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/gfx/homenav_0604_ENG/global_nav_eng_openhouse.gif" alt="open house" name="openhouse" width="78" height="25" border="0" id="openhouse"></a></td>
-		<td>
-			<img src="/gfx/homenav_0604_ENG/menu2_04.jpg" width="17" height="25" alt=""></td>
-		  <td> <a href="/property/nd/newdev.aspx" target="_top" onmouseover="MM_swapImage('newdev','','/gfx/homenav_0604_ENG/global_nav_eng_newdev2.gif',1)" onmouseout="MM_swapImgRestore()">	
-            <img src="/gfx/homenav_0604_ENG/global_nav_eng_newdev.gif" alt="new developments" name="newdev" width="111" height="25" border="0" id="newdev"></a></td>
-		<td>
-			<img src="/gfx/homenav_0604_ENG/menu2_06.jpg" width="17" height="25" alt=""></td>
-		  <td> <a href="/agents/index.aspx" target="_top" onmouseover="MM_swapImage('agents','','/gfx/homenav_0604_ENG/global_nav_eng_agents2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/gfx/homenav_0604_ENG/global_nav_eng_agents.gif" alt="our agents" name="agents" width="67" height="25" border="0" id="agents"></a></td>
-		<td>
-			<img src="/gfx/homenav_0604_ENG/header_05_06.jpg" width="17" height="25" alt=""></td>
-		  <td> <a href="/selling/index.aspx" target="_top" onmouseover="MM_swapImage('sell','','/gfx/homenav_0604_ENG/global_nav_eng_sell2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/gfx/homenav_0604_ENG/global_nav_eng_sell.gif" alt="sell your home" name="sell" width="88" height="25" border="0" id="sell"></a></td>
-		<td>
-			<img src="/gfx/homenav_0604_ENG/header_05_08.jpg" width="17" height="25" alt=""></td>
-		  <td> <a href="/aboutus/index.aspx?page=News" target="_top" onmouseover="MM_swapImage('press','','/gfx/homenav_0604_ENG/global_nav_eng_press2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="/gfx/homenav_0604_ENG/global_nav_eng_press.jpg" alt="press" name="press" width="38" height="25" border="0" id="press"></a></td>
-		<td>
-			<img src="/gfx/homenav_0604_ENG/header_05_10.jpg" width="17" height="25" alt=""></td>
-		  <td> <a href="/guides/index.aspx" target="_top" onmouseover="MM_swapImage('reports','','/gfx/homenav_0604_ENG/global_nav_eng_reports2.gif',1)" onmouseout="MM_swapImgRestore()">	
-            <img src="/gfx/homenav_0604_ENG/global_nav_eng_reports.gif" alt="guides &amp; reports" name="reports" width="98" height="25" border="0" id="reports"></a></td>
-		<td>
-			<img src="/gfx/homenav_0604_ENG/header_05_14.jpg" width="17" height="25" alt=""></td>
-		  <td> <a href="/aboutus/index.aspx" target="_top" onmouseover="MM_swapImage('aboutus','','/gfx/homenav_0604_ENG/global_nav_eng_aboutus2.gif',1)" onmouseout="MM_swapImgRestore()">	
-            <img src="/gfx/homenav_0604_ENG/global_nav_eng_aboutus.gif" alt="about us" name="aboutus" width="71" height="25" border="0" id="aboutus"></a></td>
+		<td colspan="3">
+			<img src="/gfx/home_loginLang_01.gif" width="245" height="6" alt=""></td>
 	</tr>
-</tbody></table>
-<!--end TblNavEnglish-->
-
-
-</td>
-	</tr>
-</tbody></table></td>
-	</tr>
-
-</tbody></table></td>
-		<td bgcolor="#000000">&nbsp;</td>
-	</tr>
-	<tr bgcolor="#FFFFFF">
-		<td>
+	<tr>
+		<td width="105" valign="top" style="padding-left:5px;" class="text10pxlghtgry"><a class="lgtgraylink" href="/property/maps/">Search By Map</a>
 			</td>
-		<td valign="top">
-			<img src="/gfx/index_04.jpg" width="24" height="0" alt=""></td>
+		<td width="10">
+			<img src="/gfx/spacer.gif" width="10" height="21" alt=""></td>
+		<td width="126" valign="top" align="left"><a href="/cmembers/index.aspx"><img src="/gfx/home_loginLang_02.gif" alt="Login" name="login" width="106" height="21" border="0" id="login" onmouseover="MM_swapImage('login','','/gfx/home_login2.gif',1)" onmouseout="MM_swapImgRestore()"></a> &gt;</td>
+	</tr>
+</tbody></table></td>
+	</tr>
+</tbody></table></td>
+		<td background="/gfx/new_header_08.gif">&nbsp;			</td>
+	</tr>
+	<tr>
+		<td background="/gfx/new_header_06.gif">
+			<img src="/gfx/new_header_06.gif" width="10" height="6" alt=""></td>
+		<td colspan="3">
+			<img src="/gfx/new_header_07.gif" width="750" height="6" alt=""></td>
+		<td background="/gfx/new_header_08.gif">
+			<img src="/gfx/new_header_08.gif" width="9" height="6" alt=""></td>
+	</tr>
+	<tr>
+		<td background="/gfx/new_header_06.gif">&nbsp;			</td>
+		<td colspan="3">
+			<table id="ctl165_TblNavEnglish" width="750" height="25" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td> <a href="/where.aspx" target="_parent"><img src="/gfx/homenav_0604_ENG/global_nav_eng_properties.gif" alt="properties" name="pro2" height="25" border="0" id="pro2" onmouseover="MM_swapImage('pro2','','/gfx/homenav_0604_ENG/global_nav_eng_properties2.gif',1)" onmouseout="MM_swapImgRestore()"></a><a href="/property/openhse.aspx?region=NYC" target="_parent"><img src="/gfx/homenav_0604_ENG/global_nav_eng_openhouse.gif" name="openhouse" alt="" border="0" height="25" id="openhouse" onmouseover="MM_swapImage('openhouse','','/gfx/homenav_0604_ENG/global_nav_eng_openhouse2.gif',1)" onmouseout="MM_swapImgRestore()"></a><a href="/property/nd/newdev.aspx" target="_parent"><img src="/gfx/homenav_0604_ENG/global_nav_eng_newdev.gif" alt="new developments" name="newdev" height="25" border="0" id="newdev" onmouseover="MM_swapImage('newdev','','/gfx/homenav_0604_ENG/global_nav_eng_newdev2.gif',1)" onmouseout="MM_swapImgRestore()"></a><a href="/agents/index.aspx" target="_parent"><img src="/gfx/homenav_0604_ENG/global_nav_eng_agents.gif" alt="our agents" name="agents" height="25" border="0" id="agents" onmouseover="MM_swapImage('agents','','/gfx/homenav_0604_ENG/global_nav_eng_agents2.gif',1)" onmouseout="MM_swapImgRestore()"></a><a href="/dream/index.aspx" target="_parent"><img src="/gfx/homenav_0604_ENG/global_nav_eng_dreamlist.gif" alt="dream wish list" name="dream" height="25" border="0" id="dream" onmouseover="MM_swapImage('dream','','/gfx/homenav_0604_ENG/global_nav_eng_dreamlist2.gif',1)" onmouseout="MM_swapImgRestore()"></a><a href="/selling/index.aspx" target="_parent"><img src="/gfx/homenav_0604_ENG/global_nav_eng_sell.gif" alt="sell your home" name="sell" border="0" id="sell" onmouseover="MM_swapImage('sell','','/gfx/homenav_0604_ENG/global_nav_eng_sell2.gif',1)" onmouseout="MM_swapImgRestore()"></a><a href="/guides/index.aspx?page=News" target="_parent"><img src="/gfx/homenav_0604_ENG/global_nav_eng_press.gif" alt="press" name="press" height="25" border="0" id="press" onmouseover="MM_swapImage('press','','/gfx/homenav_0604_ENG/global_nav_eng_press2.gif',1)" onmouseout="MM_swapImgRestore()"></a><a href="/guides/index.aspx" target="_parent"><img src="/gfx/homenav_0604_ENG/global_nav_eng_reports.gif" alt="guides &amp; reports" name="reports" height="25" border="0" id="reports" onmouseover="MM_swapImage('reports','','/gfx/homenav_0604_ENG/global_nav_eng_reports2.gif',1)" onmouseout="MM_swapImgRestore()"></a><a href="/aboutus/index.aspx" target="_parent"><img src="/gfx/homenav_0604_ENG/global_nav_eng_aboutus3.gif" alt="about us" name="aboutus" height="25" border="0" id="aboutus" onmouseover="MM_swapImage('aboutus','','/gfx/homenav_0604_ENG/global_nav_eng_aboutus2.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
 	</tr>
 </tbody></table>
+</td>
+		<td background="/gfx/new_header_08.gif">&nbsp;			</td>
+	</tr>
+</tbody></table>
+<script language="javascript">
+init();
+</script>
+
+
 
 <form name="Form1" method="post" action="index.aspx?page=PrivacyPolicy" id="Form1" style="display:inline;">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="HeEL2J6uksAGkkMz6Nz00GWuP8wMXli0GMfzI6RfU1DsRgICVqfUp/H9AFPOhbkdl5ABx8J9BMGpEHLlaxHaQvL7qEa2kQ9WatL56xvy14gI5PbX5aWgXP5uvOwjSyEok95iQkQadPTgWLcmpWGNvjKJMnVZy4q/VvAewVIIL/0DIwKBsIWBCzkJvYZPA+KEuRV5AhR4N+waIKg/+uDo5MHu29EHNkqxOnZJsHvkUgRfvDMSN295jbWPu5piwK0xNRNpXPwVHFE2pyrSGV1asGyke+0aC7X5b+BPtR5AdKUL1daI4HliR5m3DY8gCueTDCB7SKg0Plw7cPidxb0BAoYYv8DUoSzpa919D39HytpC3IXGxF+KjaxUmbe+4gyvvA6eEi4tQnNqJv6Zd9Z8w0rp6Jh0WKqgiEG3DqmW/TmVrN1QpR4WLQ5svk9cen/p5sX7HtKH7s+nt8iiDExo6HJtV/7N3CjvbT8TCNtBtXjVi+Bh0a7sX6tfd+vRMMuEMf9SeYr59hqI6cKvNr41czNCFoqekg7U9abN6NfmmvtGg2LqkP1uytYreWTy00K4VrnAaHecNxuo68alQNAFD1cE3Y9ADVFJ0TBWHOCBTEfdMiifD0nS/w9zQqM1wCN7zWjt6f6Mq8rXP8wUIB1iQTzBNFQldQvzMT7jMMcDtdbeb6RqocxdwnrXnLc9r1Jb6ym8KCNjWu/mSGDwFbEjvCnmWNdklVGxK8HbQ3Jkq8OwIUP3mShxU/8V7WDK5SMvAlWH4lqkzQtZowco8U/m2xTXtOA6jgShVBoFHpyof1zANLSr5NQMvIJB7QaQuxVCFCIGNfVP9AdHa+Soym1yZ05IBoUAy7C6gdp7tOElM1cbC6tptN4szULlhI352crl/7QKFS02Cdmtkzzuv+wR3zPcu/l07J0jtNLvrIcOfoeAmO3xW2TwnqZEtvZ3JuPG+eQLBDWlbQYrcygsQ8923GipY7jIDpE0Uo+W5rrYrwevGnv2BA62to0r/Wq5IRO8BfOUifdd5tdixWp/Fls4m0huOlhRuCEq7fioJ0HXsTtePz/yejAjbUdmMThkBRPTAmcp3WoFUL1ZJaDi5ek9CtFfA7/F80JvV4Swsy7xWhDQEGaT2lx2IHpuDlpMPYQTZmQUaAx0JJ11T/v7oK4ehfZra4gQIenaer4qoHJbncwnE7xnfhH+GJAHh0/B42IP+5R7GesEm09Iu1IZq/wi0lk6xrk0WHcZrQeXqANllyog4RIjPaBlVjo69SeInVyTqTlCJDeXPuPuwoJFi+mi9nePx0BbZCNE3iIn/jgwuFu2V74TG1l6h3AMHocjGPq4OSJGZnP7xEp6wvoLSgJNJPU5u2PxfWteNvJ44bKxs93qe6XLlCaMf9J7eDu6iW63BF/PxYDPjGpDBTyELoy5SXPIO0aGDvkc0LbCCPK+Ywh6atuGCtfxGHwHlsNNkVlp7HwAYjdzJalRXeY/U8vbSC64Z2exnqhNP6Rzj+8/hQXI0Br+CwVOq+gCfrMkH5uJXHUBXM96JTsYHHHwUmkAUqLft2vNygLaQY0UmzShHdPCY51AhymE23M0KDSMX3W2tmfSibZxYYZxKAOE+kdEo7pWgc/yIBwodRqk4U0GKDwa78aCUlBwrZr+tCVbRu5dISrSQizWlLb3owZ95/+1mvEuiBTAWXO5yLWeydVgFb4ovzATkFApk3B52WgqFgE3hU8jmWuojCrGGpFATiyU0dNcD+jprfWS8vG71RkKMCnoYMAFz3TcP9MBGu3NhdPzW/+wwuLQDK/J/zpyvLzCQDSOFIFD32MqYFBtwHr+/b4wB4pVFBLaNV+4XxVf3LJKQeUTevqy1JPJcbYWofhfABgWc0ux5WMdTYcQIUN848CpoJH6vOsSkVhuzW81WwBf9P7SjpE915jZlWWknw3xsz19nzCuWi+WCVRZthlf5vg=">
 
 <!--BEGIN TblLvl1Main -->
-
-<!-- END TblLvl1Main -->
-
-<!--BEGIN TblLvl2Main -->
-<table id="TblLvl2Main" width="775" border="0" cellspacing="0" cellpadding="0">
+<table width="769" height="379" border="0" align="center" cellpadding="0" cellspacing="0" id="Table_01">
 	<tbody><tr>
-		<td colspan="2"><!-- <img src="../gfx/global/lvl2_content_top_curve.gif" width="775" height="18" alt="" border="0">--></td>
+		<td width="10" background="/gfx/new_header_06.gif">
+	  	</td>
+		<td width="750" valign="top">
+		<!-- Begin TblLvl2Main -->
+		<table id="TblLvl2Main" width="730" height="510" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr valign="top">
+		<td colspan="3">
+				<table>
+					<tbody><tr valign="top" align="right">
+						<td align="right" width="10">
+						</td>
+						<td align="right">
+						<img src="/gfx/header_aboutus.gif" width="712" height="81" alt="">
+						</td>
+		   			</tr>
+				</tbody></table>
+				</td>
 	</tr>
 	<tr>
-		<td width="155" valign="top">
-	
-	<!--BEGIN TblNavLvl2-->
-	<table id="TblNavLvl2" width="155" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td width="154" valign="top" class="text11px666" bgcolor="f6f6f6" style="padding-left:7px;padding-bottom:15px">
-	<div class="navlvl2head"><a href="/aboutus/index.aspx" class="navlvl2head">about the corcoran group</a></div>
-		
-		  <div class="navlvl2link">&nbsp;<img src="/gfx/global/bullet_arrow_lvl2.gif" width="13" alt="" border="0"><a id="LnkManagementTeam" class="graylink" href="index.aspx?page=ManagementTeam">management team</a></div>
-		  <div class="navlvl2link">&nbsp;<img src="/gfx/global/bullet_arrow_lvl2.gif" width="13" alt="" border="0"><a id="LnkOfficeLocations" class="graylink" href="index.aspx?page=OfficeLocations">office locations</a></div>
-		  
-		  <div class="navlvl2link">&nbsp;<img src="/gfx/global/bullet_arrow_lvl2.gif" width="13" height="12" alt="" border="0"><a id="LnkNews" class="graylink" href="index.aspx?page=News">in the news</a></div>
-		  <div class="navlvl2link">&nbsp;<img src="/gfx/global/bullet_arrow_lvl2.gif" width="13" height="12" alt="" border="0"><a id="LnkHistory" class="graylink" href="index.aspx?page=History">company history</a></div>
-		  <div class="navlvl2link">&nbsp;<img src="/gfx/global/bullet_arrow_lvl2.gif" width="13" height="12" alt="" border="0"><a id="LnkMissionStatement" class="graylink" href="index.aspx?page=MissionStatement">mission statement</a></div>
-		  <div class="navlvl2link">&nbsp;<img src="/gfx/global/bullet_arrow_lvl2.gif" width="13" height="12" alt="" border="0"><a id="LnkCareersAtCorcoran" class="graylink" href="index.aspx?page=CareersAtCorcoran">careers at corcoran</a></div>
-		  
-		  <div class="navlvl2link">&nbsp;<img src="/gfx/global/bullet_arrow_lvl2.gif" width="13" height="12" alt="" border="0"><a id="LnkWhatArePeopleSaying" class="graylink" href="index.aspx?page=WhatArePeopleSaying">what are people saying about us?</a></div>
-		  <div class="navlvl2link">&nbsp;<img src="/gfx/global/bullet_arrow_lvl2.gif" width="13" height="12" alt="" border="0"><a id="LnkAwards" class="graylink" href="index.aspx?page=Awards">awards</a></div>
-		  <div class="navlvl2link">&nbsp;<img src="/gfx/global/bullet_arrow_lvl2.gif" width="13" height="12" alt="" border="0"><a id="LnkSuggestions" class="graylink" href="index.aspx?page=Suggestions">suggestions / feedback</a></div>
-		  <div class="navlvl2link">&nbsp;<img src="/gfx/global/bullet_arrow_lvl2.gif" width="13" height="12" alt="" border="0"><a id="LnkPrivacyPolicy" class="navlvl2bd" href="index.aspx?page=PrivacyPolicy">privacy policy</a></div>
-	</td>
-				<td width="1" bgcolor="3a3a3a" rowspan="2"><img src="../gfx/global/dot.gif" width="1" height="1" alt="" border="0"></td>
-			</tr>
-			<tr>
-				<td bgcolor="3a3a3a" style="height:1px"><img src="../gfx/global/dot.gif" width="1" height="1" alt="" border="0"></td>
-			</tr>
-		</tbody></table>
-		
-	<!-- END TblNavLvl2 -->
-	
-	
-	</td>
-		<td width="645" style="padding-left:5px;" class="text12px" valign="top">
-	
-<!-- BEGIN SWAP-OUT TABLE FOR LOCAL LVL2 CONTENT-->	
+		<td valign="top">
+					<table id="Table_01" width="229" border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr valign="top">
+							<td colspan="2" valign="top">		
+								<table width="210" cellpadding="0" cellspacing="0" align="right">
+									<tbody><tr class="menuBold" valign="top">
+										<td width="14">&nbsp;</td>
+										<td valign="top"><img src="/gfx/about_us_menu_02.gif" alt=""><br>
+										<a id="LnkManhattanBrooklyn" class="graylink" href="/nyc.aspx">Manhattan / Brooklyn</a></td>
+									</tr>
+									<tr>
+										<td height="4" colspan="2" align="right"><hr size="1" width="210" color="#cecece" style="height:1px;"></td>
+					  				</tr>
+									<tr class="menuBold" valign="top">
+										<td width="10">&nbsp;</td>
+										<td valign="top">
+										<a id="LnkHamptons" class="graylink" href="/hee.aspx">The Hamptons</a></td>
+									</tr>
+									<tr>
+										<td height="4" colspan="2" align="right"><hr size="1" width="210" color="#cecece" style="height:1px;"></td>
+					  				</tr>
+									<tr class="menuBold" valign="top">
+										<td width="10">&nbsp;</td>
+										<td valign="top">
+										<a id="LnkSouthFlorida" class="graylink" href="/palmbeach.aspx">South Florida</a></td>
+									</tr>
+									<tr>
+										<td height="4" colspan="2" align="right"><hr size="1" width="210" color="#cecece" style="height:1px;"></td>
+					  				</tr>									
+									 <!--Begin Relocation Menu-->
+									 <tr class="menuBold" valign="top">
+										<td width="10">&nbsp;</td>
+										<td valign="top">
+										<a id="LnkRelocation" class="graylink" href="index.aspx?page=Relocation">Relocation &amp; Corporate Services</a></td>
+									</tr>
+									  
+									  <tr>
+										<td height="4" colspan="2" align="right"><hr size="1" width="210" color="#cecece" style="height:1px;"></td>
+					  				 </tr>
+									   <!--Begin Buyer Resource Menu-->
+									  <tr class="menuBold" valign="top">
+										<td width="10">&nbsp;</td>
+										<td valign="top">
+										<a id="LnkBuyersResourcesLvl3" class="graylink" href="index.aspx?page=BuyerResources">Buyers Resources</a></td>
+									  </tr>
+									  
+									  <!--End Buyer Resource Menu-->
+									  <tr>
+										<td height="4" colspan="2" align="right"><hr size="1" width="210" color="#cecece" style="height:1px;"></td>
+					  				 </tr>
+									  <!--Begin Renter Resource Menu-->
+									   <tr class="menuBold" valign="top">
+										<td width="10">&nbsp;</td>
+										<td valign="top">
+										<a id="LnkRenterResources" class="graylink" href="index.aspx?page=RenterResources">NYC Renter Resources</a></td>
+									  </tr>
+									  
+									  <!--End Renter Resource Menu-->
+									  <tr>
+										<td height="4" colspan="2" align="right"><hr size="1" width="210" color="#cecece" style="height:1px;"></td>
+					  				 </tr>
+									  <tr class="menuBold" valign="top">
+										<td width="10">&nbsp;</td>
+										<td valign="top">
+										<a id="LnkRealEstateGlossary" class="graylink" href="index.aspx?page=RealEstateGlossary">Real Estate Glossary</a></td>
+									  </tr>
+									
+									  <!--End Relocation Menu-->
+									<tr class="menuBold" valign="top">
+										<td width="10" height="25">&nbsp;</td>
+										<td valign="top">
+															<p>
+														</p></td>
+									</tr>
+								</tbody></table>
+								</td>
+						</tr>
+						<tr>
+							<td colspan="2" valign="top">
+								<table width="210" cellpadding="0" cellspacing="0" align="right">
+									<tbody><tr class="menuBold" valign="top">
+										<td width="50">&nbsp;</td>
+										<td valign="top"><img src="/gfx/about_us_menu_04.gif" alt=""><br>
+										<a id="LnkManagementTeam" class="graylink" href="index.aspx?page=ManagementTeam">Management Team</a></td>
+									</tr>
+									<tr>
+										<td height="4" colspan="2" style="padding-left:3px;"><hr size="1" color="#cecece" style="height:1px;"></td>
+					  				</tr>									
+									<tr class="menuBold" valign="top">
+										<td>&nbsp;</td>
+										<td valign="top">
+										<a id="LnkOfficeLocations" class="graylink" href="index.aspx?page=OfficeLocations">Office Locations</a></td>
+									</tr>
+									
+									<tr>
+										<td height="4" colspan="2" width="250" style=" padding-left:3px;"><hr size="1" color="#cecece" style="height:1px;"></td>
+					  				</tr>
+									<tr class="menuBold" valign="top">
+										<td>&nbsp;</td>
+										<td valign="top">
+										<a id="LnkInTheNews" class="graylink" href="/guides/index.aspx?page=News">In The News</a></td>
+									</tr>
+									<tr>
+										<td height="4" colspan="2" width="250" style=" padding-left:3px;"><hr size="1" color="#cecece" style="height:1px;"></td>
+					  				</tr>
+													<tr class="menuBold" valign="top">
+														<td width="10"></td>
+														<td valign="top"><a id="LnkLiveWhoYouAre" class="graylink" href="http://www.livewhoyouare.com" target="_new">Live Who You Are</a></td>
+													</tr>
+													<tr class="menuBold" valign="top">
+														<td colspan="2" style=" padding-left:3px;">
+															<hr size="1" color="#cecece" style="height:1px;">
+														</td>
+													</tr>
+													<tr class="menuBold" valign="top">
+										<td width="10">&nbsp;</td>
+										<td valign="top">
+										<a id="LnkHistory" class="graylink" href="index.aspx?page=History">Company History</a></td>
+									</tr>
+									<tr>
+										<td height="4" colspan="2" width="280" style=" padding-left:3px;"><hr size="1" color="#cecece" style="height:1px;"></td>
+					  				</tr>
+									<tr class="menuBold" valign="top">
+										<td width="50">&nbsp;</td>
+										<td valign="top">
+										<a id="LnkMissionStatement" class="graylink" href="index.aspx?page=MissionStatement">Mission Statement</a></td>
+									</tr>
+									<tr>
+										<td height="4" colspan="2" width="280" style=" padding-left:3px;"><hr size="1" color="#cecece" style="height:1px;"></td>
+					  				</tr>
+									<tr class="menuBold" valign="top">
+										<td width="50">&nbsp;</td>
+										<td valign="top">
+										<a id="LnkCareersAtCorcoran" class="graylink" href="index.aspx?page=CareersAtCorcoran">Careers At The Corcoran Group</a>
+										</td>
+									</tr>
+									 <tr>
+										<td height="4" colspan="2" width="280" style=" padding-left:3px;"><hr size="1" color="#cecece" style="height:1px;"></td>
+					  				</tr>
+									<tr class="menuBold" valign="top">
+										<td width="50">&nbsp;</td>
+										<td valign="top">
+										<a id="LnkWhatArePeopleSaying" class="graylink" href="index.aspx?page=WhatArePeopleSaying">What Are People Saying About Us?</a></td>
+									</tr>
+									<tr>
+										<td height="4" colspan="2" width="280" style=" padding-left:3px;"><hr size="1" color="#cecece" style="height:1px;"></td>
+					  				</tr>
+									<tr class="menuBold" valign="top">
+										<td width="50">&nbsp;</td>
+										<td valign="top">
+										<a id="LnkAwards" class="graylink" href="index.aspx?page=Awards">Awards</a></td>
+									</tr>
+								</tbody></table>
+								</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+								<img src="/gfx/about_us_menu_06.gif" width="229" height="50" alt=""></td>
+						</tr>
+					</tbody></table>
+				</td>
+		<td>
+				<img src="/gfx/about_us_03.gif" width="7" height="388" alt=""></td>
+		<td valign="top">
+				
+				<!--Begin Alternating Tables-->
+				
+				<!--Begin Main table-->				
+				
+				<!--End Main table-->
+				<!--Begin Relocation Table-->
+				
+				<!--End Relocation Table-->
+				<!-- Working With You -->
+				
+				<!--End Working with you-->
+				
+				<!-- Destination Services -->
+				
+				<!--END Destination Services -->
+				
+				<!-- tips for international -->
+				
+				<!-- End tips for international -->
+				<!-- request more info -->
+				
+				<!-- request more info -->
+				
+				<!--Begin TblSent2 -->
+				
+				<!-- End TblSent -->
+				<!-- Outbound Services -->
+				
+				<!--End Outbound Services -->
+				
+				<!-- Relo Team -->
+				
+				<!--End Relo Team -->
+				
+				<!-- BuyerResources -->
+				
+				<!-- RenterResources -->
+				
+				<!-- RealEstateGlossary -->
+				
+				<!-- Glossary Results -->
+				
+			<!--Closing Costs -->
+				
+			<!--TblCoopVsCondo -->
+			
+			<!--Timeline For Purchasing -->
+			
+			<!--Buyers Guide-->
+			
 
-<!-- History -->
+			<!-- Finances -->
+			
+			<!-- BuildingTypes -->
+			
+			<!-- WhatToBring -->
+					
+			<!-- TimelineForRenting -->
+					
+				<!--Begin ManagementTeam table-->
+				
+				<!--End ManagementTeam table-->
+				
+				<!-- StaffPositions -->
 
+<!-- End StaffPositions -->
+				<!--Begin TblManagerDetail table-->
+						
+				<!--End TblManagerDetail table-->
+				
+				
+								<!-- Manager Press -->
 
-<!-- Peconic Land Trust -->
-
-
-
-
-
-
-
-
-
-<!-- Management Team Main -->
-
-
-<!-- Manager Detail Main -->
-
-
-
-
-<!-- Manager Press -->
-
-
-<!-- Manager Article -->
-
-
-<!-- Office Locations Main -->
-
-
-<!-- Office Detail -->
-
-
-
-<!-- Mission Statement -->
-
-
-<!-- Careers At Corcoran -->
-
-
-<!-- ThinkingOfJoining -->
-
-
-<!-- SomeFaces -->
-
-
-<!-- SomeFaces2 -->
-
-
-<!-- SomeFaces3 -->
-
-
-<!-- SomeFaces4 -->
-
-
-<!-- StaffPositions -->
-
-
-<!-- ReferralDirectorProgram -->
-
-
-
-<!-- What are people saying -->
-
-
-<!-- Awards -->
-
-
-<!-- Suggestions / Feedback -->
-
-<!-- TblSent -->
-
-
-
-<!-- Privacy Policy -->
-<table id="TblPrivacyPolicy" width="630" border="0" cellspacing="0" cellpadding="3" valign="top">
+				
+				<!--Begin TblOfficeLocations table-->
+				
+				<!--End TblOfficeLocations table-->
+				
+				<!--Begin TblOfficeDetails table-->
+				
+				<!--End TblOfficeDetails table-->
+				
+				<!--Begin History table-->				
+				
+				<!--End History table-->
+				
+				<!--Begin Mission Statement -->
+						
+				<!--End Mission Statement -->
+				
+				<!-- Careers At Corcoran -->
+				
+				<!-- End Careers At Corcoran -->
+				
+				<!-- Begin TblThinkingOfJoining -->
+				
+				<!-- End TblThinkingOfJoining -->
+				
+				<!-- Begin SomeFaces -->
+				<!-- SomeFaces -->
+				
+				
+				<!-- SomeFaces2 -->
+				
+				
+				<!-- SomeFaces3 -->
+				
+				
+				<!-- SomeFaces4 -->
+				
+				<!-- End SomeFaces -->
+				
+				<!-- What are people saying -->
+				
+				
+				<!-- Awards -->
+				
+				
+				<!-- Suggestions / Feedback -->
+				
+				
+				<!-- TblSent -->
+				
+				
+				
+				<!-- Privacy Policy -->
+				<table id="TblPrivacyPolicy" width="460" border="0" cellspacing="0" cellpadding="3" valign="top">
 			<tbody><tr valign="top">
-				<td width="455" class="text12px">
-		<div class="sectionhead20px">the corcoran group's privacy policy</div>
-		At the corcoran group, we are committed to protecting your privacy. We use the information we collect about you to process requests and to provide you with additional information.
-<p>
-<b>What information do we collect? How do we use it?</b><br>
-When you request information, we need to know your name, e-mail address, and mailing address. This allows us to process and fulfill your request. Corcoran.com does not sell, trade, or rent your personal information to others. Corcoran.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
-</p><p>
-<b>Your consent:</b><br> 
-By using our Web site, you consent to the collection and use of this information by Corcoran.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-</p><p>
-<b>Tell us what you think:</b><br> 
-Corcoran.com welcomes your questions and comments about privacy.
-		</p></td>
-				<td width="175" class="text12px" style="padding-top:35px;padding-left:10px;">
-    	
-    	</td>
+				<td width="460" class="text12px">
+						<div class="sectionhead16px">The Corcoran Group's Privacy Policy</div>
+						At the corcoran group, we are committed to protecting your privacy. We use the information we collect about you to process requests and to provide you with additional information.
+						<p>
+						<b>What information do we collect? How do we use it?</b><br>
+						When you request information, we need to know your name, e-mail address, and mailing address. This allows us to process and fulfill your request. Corcoran.com does not sell, trade, or rent your personal information to others. Corcoran.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
+						</p><p>
+						<b>Your consent:</b><br> 
+						By using our Web site, you consent to the collection and use of this information by Corcoran.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+						</p><p>
+						<b>Tell us what you think:</b><br> 
+						Corcoran.com welcomes your questions and comments about privacy.
+						</p></td>
 			</tr>
 		</tbody></table>
 		
+				
+				
+				<!-- TblTermsOfUse -->
+				
+				
+				<!-- TblOurPledge -->
 
-
-
-<!-- Term OLf Use -->
-
-
-<!-- TblOurPledge -->
-
-
-<!-- END SWAP-OUT TABLE FOR LOCAL LVL2 CONTENT-->	
-
-	
-	</td>
+				
+				<!--End Alternating Tables-->
+			</td>
+	</tr>
+	<tr>
+		<td colspan="3">
+				    </td>
 	</tr>
 </tbody></table>
 
-<!--End TblLvl2Main -->
+		<!-- END TblLvl2Main -->
+
+		<!-- END SWAP-OUT TABLE FOR LOCAL LVL2 CONTENT-->	
 
 
-
-<!-- News Main -->
-
-
-<!-- Regular Article -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value=""></form>
-
-<br>
-<p><br>
-<br>
-
-
-</p><p>
-<table id="Footer" width="750" height="70" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-	<tbody><tr>
+		<!-- Regular Article -->
 		
-    <td> <img src="/gfx/footer_01.gif" width="750" height="10" alt=""></td>
+		<!-- MAIN TABLE CONTINUES BELOW-->
+		<p>
+		</p></td>
+		
+		<td background="/gfx/new_header_08.gif">
+			<img src="/gfx/spacer.gif" width="9" height="379" alt="">
+		</td>
 	</tr>
 	<tr>
-		
-    <td valign="top"><table width="100%" border="0">
+	  	<td background="/gfx/home_centered_26.jpg">&nbsp;</td>
+	  	<td valign="top"><img src="/gfx/footer_01.gif" width="750" height="10" alt=""></td>
+	  	<td background="/gfx/home_centered_28.gif">&nbsp;</td>
+  </tr>
+</tbody></table>
+
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value=""></form>
+<table width="750" height="10" border="0" style="margin-top:0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" id="Footer">
+	<tbody><tr>
+    <td valign="top">
+	<table width="100%" border="0">
         <tbody><tr> 
-          <td height="40" align="right">
-			<div align="right"> 
-              <table width="97%" border="0" align="right">
+          <td height="10" align="right">
+			<span align="right"> 
+              <table width="101%" border="0" align="right">
                 <tbody><tr>
-                  <td class="homeDotLine"><div align="left"><a href="/index.aspx" class="footerlink">home</a> 
-                      <span class="HomeLinkSplit">| <a href="/nyc.aspx" class="footerlink"></a></span><a href="/nyc.aspx" class="footerlink">manhattan/brooklyn</a> 
-                      <span class="HomeLinkSplit">|</span> <a href="/hee.aspx" class="footerlink">the 
-                      hamptons/north fork/shelter island</a> <span class="HomeLinkSplit">|</span> 
-                      <a href="/palmbeach.aspx" class="footerlink">florida</a> 
-                      <span class="HomeLinkSplit">|</span> <a href="/agents/index.aspx" class="footerlink">our 
-                      agents</a> <span class="HomeLinkSplit">|</span> <a href="/selling/index.aspx" class="footerlink">sell 
-                      your home</a> <span class="HomeLinkSplit">|</span> <a href="/cmembers/index.aspx" class="footerlink">my 
-                      corc<span class="footerlink">or</span>an</a> <span class="HomeLinkSplit">|</span> 
-                      <a href="/relo/index.aspx" class="footerlink">moving in/out?</a> 
-                      <span class="HomeLinkSplit">|</span> <a href="/guides/index.aspx" class="footerlink">guides 
-                      &amp; reports</a> <span class="HomeLinkSplit">|</span> <a href="/aboutus/index.aspx" class="footerlink">about 
-                      us</a> </div></td>
+                  <td class="homeDotLine"><div align="left"><a href="/index.aspx" class="footerlink">Home</a> 
+                      <span class="HomeLinkSplit">| <a href="/nyc.aspx" class="footerlink"></a></span><a href="/nyc.aspx" class="footerlink">Manhattan/Brooklyn</a> 
+                      <span class="HomeLinkSplit">|</span> <a href="/hee.aspx" class="footerlink">The Hamptons/North Fork/Shelter Island</a> <span class="HomeLinkSplit">|</span> 
+                      <a href="/palmbeach.aspx" class="footerlink">S.Florida</a> 
+                      <span class="HomeLinkSplit">|</span> <a href="/agents/index.aspx" class="footerlink">Our 
+                      Agents</a> <span class="HomeLinkSplit">|</span> <a href="/selling/index.aspx" class="footerlink">Sell 
+                      Your Home</a> <span class="HomeLinkSplit">|</span> <a href="/cmembers/index.aspx" class="footerlink">My 
+                      Corc<span class="footerlink">or</span>an</a> <span class="HomeLinkSplit">|</span> 
+                      <a href="/relo/index.aspx" class="footerlink">Moving In/Out?</a> 
+                      <span class="HomeLinkSplit">|</span> <a href="/guides/index.aspx" class="footerlink">Guides 
+                      &amp; Reports</a> <span class="HomeLinkSplit">|</span> <a href="/aboutus/index.aspx" class="footerlink">About 
+                      Us</a> </div></td>
                 </tr>
 				<tr>
 					
-                  <td class="text9px"> Copyright © 2006 The Corcoran Group, 
+                  <td class="copyright"> Copyright © 2006 The Corcoran Group, 
                     Inc. All Rights Reserved. | <a href="/aboutus/index.aspx?page=Suggestions" class="privacy">Suggestions 
                     / Feedback</a> | <a href="/aboutus/index.aspx?page=PrivacyPolicy" class="privacy">Privacy 
-                    Policy</a> | <a href="/aboutus/index.aspx?page=TermsOfUse" class="privacy">Terms and Conditions of USE</a>
-					| <a href="/aboutus/index.aspx?page=OurPledge" class="privacy" target="_blank">Our Fair Housing Pledge</a> <br>
+                    Policy</a> | <a class="privacy" href="/aboutus/index.aspx?page=TermsOfUse">Terms and Conditions of Use</a>
+					| <a class="privacy" href="/aboutus/index.aspx?page=OurPledge">Our Fair Housing Pledge</a> <br>
                     660 Madison Ave New York, NY 10021 | 800.544.4055, 212.355.3550, 
-                    fax: 212.223.6381 | Owned and operated by NRT. Inc.</td>
+                  Fax: 212.223.6381 | Owned and operated by NRT. Inc.</td>
 				</tr>
-              </tbody></table>
+            </tbody></table>
                          
-            </div></td>
+            </span></td>
         </tr>
        </tbody></table> </td>
 	</tr>
 </tbody></table>
-</p><p>
+<p>
 
 
 </p></body></html>
