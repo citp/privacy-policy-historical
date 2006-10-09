@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beted.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615225424id_/http%3A//www.beted.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beted.com privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010013431id_/http%3A//www.beted.com/privacy.aspx) for the most accurate reproduction.*
 
 # betED - Privacy
 
