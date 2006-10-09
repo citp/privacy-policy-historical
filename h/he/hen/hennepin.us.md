@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hennepin.us privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614201146id_/http%3A//www.hennepin.us/vgn/portal/internet/hcdetailmaster/0%2C2300%2C1273__100004243%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hennepin.us privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009052632id_/http%3A//hennepin.us/vgn/portal/internet/hcdetailmaster/0%2C2300%2C1273__100004243%2C00.html) for the most accurate reproduction.*
 
 # Hennepin County
 
