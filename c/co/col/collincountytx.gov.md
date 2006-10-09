@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collincountytx.gov privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421191314id_/http%3A//collincountytx.gov/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collincountytx.gov privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009094947id_/http%3A//www.collincountytx.gov/privacy.jsp) for the most accurate reproduction.*
 
 # Collin County Privacy Policy
 
