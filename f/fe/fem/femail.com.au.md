@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the femail.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210821id_/http%3A//femail.com.au/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femail.com.au privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010202933id_/http%3A//femail.com.au/privacypol.htm) for the most accurate reproduction.*
 
 # Privacy Policy
-
-| 
 
 This site has been provided by Femail.com.au/Female.com.au for the Australian Internet Community as a whole. We expect that whilst using this site that respect is given to any other users of the site. That is, we expect that no abusive, inappropriate or racial language is used in the chat or discussion areas of the site.
 
@@ -51,6 +49,3 @@ Please read the following policy to understand how your personal information wil
 This policy may change from time to time so please check back frequently.  
 Femail.com.au may, from time to time, send you email regarding our products or services. If you do not want to receive such mailings, simply tell us when you give us your personal information or at any point in time. Femail.com.au does not sell or rent user information to anyone.  
 Whenever Femail.com.au handles personal information, regardless of where this occurs, we take steps to ensure that your information is treated securely and in accordance with the relevant Terms of Service and this Privacy Policy 
-
-  
-
