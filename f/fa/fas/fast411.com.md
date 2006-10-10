@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fast411.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511215441id_/http%3A//fast411.com/aft/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fast411.com privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010120417id_/http%3A//fast411.com/aft/privacy.html) for the most accurate reproduction.*
 
 # Privacy Information
 
-|  [Directory](http://64.81.35.231/) |  |  [Marketplace](https://web.archive.org/web/20060511215441id_/http%3A//fast411.com/marketplace/index.htm) |  |  [Coupon](http://www.adsavers.net/2267) |  |  **Privacy** |  |  [Travel](http://64.81.35.231/&osl/travel.htm) |   
+|  [Directory](http://64.81.35.231/) |  |  [Marketplace](https://web.archive.org/web/20061010120417id_/http%3A//fast411.com/marketplace/index.htm) |  |  [Coupon](http://www.adsavers.net/2267) |  |  **Privacy** |  |  [Travel](http://64.81.35.231/&osl/travel.htm) |   
 ---|---|---|---|---|---|---|---|---|---|---  
   
 ## Privacy Statement for Fast411.com
@@ -53,7 +53,7 @@ If you have any questions about this privacy statement, the practices of this si
 Brian C. Bergström  Fast411 Internet Services 5300 Beach Boulevard Suite 269 Buena Park, CA 90621 [brian@fast411.com](mailto:brian@fast411.com)  
 
 | [_Fast_ 411 Yellow Pages](http://www.fast411.com/) | [Yellow Page Submission](http://fast411.com/aft/advertise.htm) | [Search Engine Submission](http://www.fast411.com/aft/seo.htm) |  
-| [Testimonials](https://web.archive.org/web/20060511215441id_/http%3A//fast411.com/aft/aft/references.htm) | [Affiliate](http://fast411.com/aft/affiliate.htm) | [Privacy](http://fast411.com/aft/privacy.html) | [Terms of Service](http://fast411.com/aft/terms.htm) | [Contact](http://fast411.com/aft/contact.htm) |
+| [Testimonials](https://web.archive.org/web/20061010120417id_/http%3A//fast411.com/aft/aft/references.htm) | [Affiliate](http://fast411.com/aft/affiliate.htm) | [Privacy](http://fast411.com/aft/privacy.html) | [Terms of Service](http://fast411.com/aft/terms.htm) | [Contact](http://fast411.com/aft/contact.htm) |
 
-Currently Serving: 4,215,585 web pages. Site Updated: Fri Jan 31 2020 03:11:16 GMT+0000 (Coordinated Universal Time).   
+Currently Serving: 4,215,585 web pages. Site Updated: Fri Jan 31 2020 03:11:18 GMT+0000 (Coordinated Universal Time).   
 All Local Content and Graphics Copyright © **1995-2006** _Fast_ 411™ Internet Directory All Rights Reserved
