@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510045345id_/http%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canuckaudiomart.com privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010205608id_/http%3A//www.canuckaudiomart.com/privacy.php) for the most accurate reproduction.*
 
-# Canuck Audio Mart: Privacy Policy (classifieds and forum)
+# Canuck Audio Mart: Privacy Policy
 
   
 
 
-#### Canuck Audio Mart's Privacy Policy
+## Canuck Audio Mart's Privacy Policy
 
 We here at Canuck Audio Mart and its Operators, Neo Era Media, Inc. recognize that the relationship with our visitors is one of our most valuable assets. We therefore understand and respect the need for protecting your privacy in order to establish trust and to maintain the integrity of our company. The following is the Privacy Policy for Canuck Audio Mart (www.canuckaudiomart, "we" or "us") on the purpose, intent, use, and protection of the information you (the user of the site) provide. 
 
