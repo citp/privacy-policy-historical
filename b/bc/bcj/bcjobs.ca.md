@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcjobs.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615132435id_/http%3A//www.bcjobs.ca/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcjobs.ca privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010171500id_/http%3A//www.bcjobs.ca/privacystatement.cfm) for the most accurate reproduction.*
 
 # BCjobs.ca: Connecting Job Seekers and Employers in British Columbia
 
