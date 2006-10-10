@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgallery.org.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615094025id_/http%3A//nationalgallery.org.uk/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgallery.org.uk privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010132126id_/http%3A//www.nationalgallery.org.uk/home/privacy.htm) for the most accurate reproduction.*
 
 # NG London/Privacy Statement
 
@@ -26,7 +26,7 @@ If at any point we decide to use personally identifiable information in a manner
 
 We will use information in accordance with the privacy policy in place when the information was collected.
 
-[_Glossary of Terms_](https://web.archive.org/web/20060615094025id_/http%3A//nationalgallery.org.uk/home/glossary.htm)
+[_Glossary of Terms_](https://web.archive.org/web/20061010132126id_/http%3A//www.nationalgallery.org.uk/home/glossary.htm)
 
   
 
