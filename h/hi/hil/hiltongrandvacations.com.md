@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiltongrandvacations.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629060751id_/http%3A//hiltongrandvacations.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiltongrandvacations.com privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010192022id_/http%3A//www.hiltongrandvacations.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
