@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emillionaire.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615163813id_/http%3A//www.emillionaire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emillionaire.com privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010124751id_/http%3A//www.emillionaire.com/privacy.htm) for the most accurate reproduction.*
 
 # Pirvacy Policy
 
