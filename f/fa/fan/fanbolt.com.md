@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanbolt.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614182247id_/http%3A//www.fanbolt.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanbolt.com privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010055927id_/http%3A//www.fanbolt.com/privacy.html) for the most accurate reproduction.*
 
 # FanBolt.Com Privacy Policy
 
@@ -11,6 +11,8 @@ The only time Fanbolt will ask for a user’s personal information is when a use
 Fanbolt logs IP addresses for any user who logs onto any site on the Fanbolt Network. This IP address is used to help diagnose server problems, and for security reasons. User’s IP addresses are viewable ONLY by site administrators and no one else.   
 Cookies are also used on Fanbolt for the purposes of saving users’ passwords so they do not have to log in each time they visit the site, and to deliver content that caters to users’ specific interests. They are also used to determine whether or not you are a valid user. No personal information is stored within the cookies, nor do they pose any sort of security risk. _Fanbolt Community:_  
 The Fanbolt forums provide a message board and chat room to its users. Any information disclosed in these public discussion forums becomes public. Users should exercise caution when disclosing any personal information. _Advertisements:_  
-Fanbolt features advertisements provided by Google, Fastclick, RealTechNetwork, and Burst Media. These ads collect anonymous data from users through the use of cookies. More information can be found through each advertiser's own privacy policy. 
+Fanbolt features advertisements provided by Google, Fastclick, RealTechNetwork, and Burst Media. These ads collect anonymous data from users through the use of cookies. More information can be found through each advertiser's own privacy policy. _Newsletters:_  
+Fanbolt reserves the right to email its users at any point, this includes but is not limited to site newsletters and site sponsor information. If you do not wish to receive emails from the site, please turn the option off in your user cp on the site. _Board/Gallery Content:_  
+Fanbolt does not take responsibility for any materials posted on its forums or its galleries. If there is material on Fanbolt that violates any form of copyright, please notify us immediately and it will be removed from our site within 48 hours. 
 
 Close This Window
