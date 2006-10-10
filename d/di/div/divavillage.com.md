@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the divavillage.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324120401id_/http%3A//divavillage.com/article.php%3Fname%3Dterms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divavillage.com privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010065801id_/http%3A//www.divavillage.com/article.php%3Fid%3D24072) for the most accurate reproduction.*
 
-# DivaVillage.com - Fashion Ezine
+# Privacy Policy - DivaVillage.com: Fashion, Entertainment, Beauty, Hair, Hot Finds
 
 |  | 
 
@@ -9,7 +9,7 @@ Diva Village
 ---  
 |   
   
-Privacy & Terms of Use
+Privacy Policy
 
  **Links to other sites  
 **
@@ -43,9 +43,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 California and Canadian residents have the right to know how their information may be shared with third parties who engage in direct marketing activities and this policy explains our practices and how you can opt out of having your information shared for such purposes. From time to time we may make our customer lists available to companies that sell goods and services that we believe would be of interest. We may compile these lists from customer orders placed both offline and online. Customers have the option of having their names and identifying information removed from those lists (subject to certain exceptions and limitations in applicable laws) by contacting us at [specify email address and link]. 
 
-We may also from time to time make our customer lists available for direct marketing purposes to other entities that are affiliated with us. If you would like to be removed from those lists, contact us at 
-
-_webdiva@divavillage.com  
+We may also from time to time make our customer lists available for direct marketing purposes to other entities that are affiliated with us. If you would like to be removed from those lists, contact us at _[Diva@divavillage.com](mailto:Diva@divavillage.com)  
 _
 
 We can, whenever we want, edit or delete any content displayed on the DivaVillage site. You use the site at your own risk. Everything you see on our sites is provided to you "as is." We make no warranties that this service will be timely, secure, uninterrupted, or error-free. You understand that if you download any material, you do so at your sole risk. DivaVillage is not liable for any damages that may result from your use of our site. This includes direct, incidental, consequential, indirect, or punitive damages and attorneys' fees arising from your access to and use of our site. By using the DivaVillage site, you agree to protect and hold us harmless from all liabilities, claims, and expenses that may result from the use of this service, your posting of any material to the site, or the transmission of any content through this service, or your breach of these terms of service. 
@@ -53,10 +51,9 @@ We can, whenever we want, edit or delete any content displayed on the DivaVillag
 **Newsletters and Registration  
 **
 
-To subscribe to our newsletters, you must be over the age of thirteen, and we ask for your e-mail and your zip code. When you sign up for those portions of our sites that require registration, we ask for more information: your first name, birth date, zip or postal code, and what country you live in. This information is for internal use only and will not be distributed or sold to any parties outside DivaVillage except as described in this policy. Newsletter subscribers generally get two emails per month. We might also send out e-mails to users to announce special offers, services and announcements from our site and/or our advertisers. We may also use any personal information you send for marketing and promotional purposes and we may share your personal information with third parties who may choose to contact you to promote their own goods and services. If you want us to stop sharing your personal information with third parties in this way, please contact webdiva@divavillage.com.
+To subscribe to our newsletters, you must be over the age of thirteen, and we ask for your e-mail and your zip code. When you sign up for those portions of our sites that require registration, we ask for more information: your first name, birth date, zip or postal code, and what country you live in. This information is for internal use only and will not be distributed or sold to any parties outside DivaVillage except as described in this policy. Newsletter subscribers generally get two emails per month. We might also send out e-mails to users to announce special offers, services and announcements from our site and/or our advertisers. We may also use any personal information you send for marketing and promotional purposes and we may share your personal information with third parties who may choose to contact you to promote their own goods and services. If you want us to stop sharing your personal information with third parties in this way, please contact [Diva@divavillage.com](mailto:Diva@divavillage.com).
 
- 
-
+  
  **Contests, Sweepstakes  
 **
 
