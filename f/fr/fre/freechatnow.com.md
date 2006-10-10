@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freechatnow.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204039id_/http%3A//www.wiredreality.com/docs/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freechatnow.com privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010162719id_/http%3A//www.wiredreality.com/docs/privacypolicy.html) for the most accurate reproduction.*
 
 # WiredReality Privacy Policy
 
