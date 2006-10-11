@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630190847id_/http%3A//www.discoverychannel.co.uk/_includes/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2006-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061011061043id_/http%3A//www.discoverychannel.co.uk/_includes/privacy) for the most accurate reproduction.*
 
 # Discovery Channel
 
