@@ -1,0 +1,834 @@
+<!--The following is the downloaded HTML source of the ukfederation.org.uk privacy policy that was archived on 2006-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061011142853id_/http%3A//www.ja.net/assets/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+
+<title>JANET Privacy policy</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script language="javascript" type="text/javascript">
+// --------------------------------------------------------------------
+// REGULAR EXPRESSIONS 
+// --------------------------------------------------------------------
+// for whichMainMenu ---------------------
+var dev = /[\/\\]development[\/\\]/;
+var community = /[\/\\]community[\/\\]/;
+var services = /[\/\\]services[\/\\]/;
+var about = /[\/\\]about[\/\\]/;
+var latest = /[\/\\]latest[\/\\]/;
+var sj5 = /[\/\\]sj5[\/\\]/;
+
+// --------------------------------------------------------------------
+// DEVELOPMENT
+// --------------------------------------------------------------------
+// for whichDevMenu ----------------------
+var devAA = /[\/\\]development[\/\\]aa[\/\\]/;
+var devContent = /[\/\\]development[\/\\](content|video|voip)[\/\\]/;
+var devNetEng = /[\/\\]development[\/\\](net-eng|qos|multicast|network-access|ipv6|wireless|vpn)[\/\\]/;
+var devMM = /[\/\\]development[\/\\]mm[\/\\]/;
+var devResearch = /[\/\\]development[\/\\](research|e-science)[\/\\]/;
+var devWireless = /[\/\\]development[\/\\]wireless[\/\\]/;
+
+// for whichdevsubmenu -------------------
+var devAALin = /[\/\\]development[\/\\]aa[\/\\]lin[\/\\]/;
+var devAAShib = /[\/\\]development[\/\\]aa[\/\\]shib[\/\\]/;
+var devVideo = /[\/\\]development[\/\\]video[\/\\]/;
+var devVoip = /[\/\\]development[\/\\]voip[\/\\]/;
+var devContentDel = /[\/\\]development[\/\\]content[\/\\]content.html/;
+var devQos = /[\/\\]development[\/\\]qos[\/\\]/;
+var devMulticast = /[\/\\]development[\/\\]multicast[\/\\]/;
+var devNetAccess = /[\/\\]development[\/\\]network-access[\/\\]/;
+var devIpv6 = /[\/\\]development[\/\\]ipv6[\/\\]/;
+var devWireless = /[\/\\]development[\/\\]wireless[\/\\]/;
+var devVPN = /[\/\\]development[\/\\]vpn[\/\\]/;
+var devPma = /[\/\\]development[\/\\]mm[\/\\]performance[\/\\]index.html/;
+var devVisdel = /[\/\\]development[\/\\]mm[\/\\]data[\/\\]index.html/;
+var devBeacon = /[\/\\]development[\/\\]mm[\/\\]beacon[\/\\]index.html/;
+var devTimesync = /[\/\\]development[\/\\]mm[\/\\]timesync[\/\\]index.html/;
+var devEscience = /[\/\\]development[\/\\]e-science[\/\\]index.html/;
+var devEscienceVideo = /[\/\\]development[\/\\]e-science[\/\\]esciencevc.html/;
+
+// --------------------------------------------------------------------
+// COMMUNITY 
+// --------------------------------------------------------------------
+// whichCommunityMenu -----------------
+var communityFE = /[\/\\]community[\/\\]fe[\/\\]/;
+var communitySchools = /[\/\\]community[\/\\]schools[\/\\]/;
+
+// whichComSubMenu ---------------------------------
+var comFEEng = /[\/\\]community[\/\\]fe[\/\\]england.html/;
+var comFENI = /[\/\\]community[\/\\]fe[\/\\]nireland.html/;
+var comFEScot = /[\/\\]community[\/\\]fe[\/\\]scotland.html/;
+var comFEWales = /[\/\\]community[\/\\]fe[\/\\]wales.html/;
+var comSchNet = /[\/\\]community[\/\\]schools[\/\\](index.html|england[\/\\]|scotland[\/\\]|wales[\/\\]|techinfo[\/\\])/;
+var comSchContent = /[\/\\]community[\/\\]schools[\/\\]content[\/\\]/;
+var comSchVideo = /[\/\\]community[\/\\]schools[\/\\](vc[\/\\]|vcsp[\/\\])/;
+
+// --------------------------------------------------------------------
+// SERVICES
+// --------------------------------------------------------------------
+
+// whichServicesMenu ---------------------
+var servicesNetSupp = /[\/\\]services[\/\\]network-services[\/\\](networking-support-services.html|nameserver[\/\\]|resolver[\/\\]|netsight[\/\\]|co-location[\/\\]|ntp[\/\\]|managed-router[\/\\]|roaming[\/\\])/;
+var servicesNetApp = /[\/\\]services[\/\\]network-services[\/\\](networking-application-services.html|web-services[\/\\]|mail[\/\\]|usenet[\/\\])/;
+var servicesAdvisory = /[\/\\]services[\/\\]network-services[\/\\](advisory-services.html|bmas[\/\\]|mcas[\/\\])/;
+var servicesVideo = /[\/\\]services[\/\\]network-services[\/\\]video[\/\\]/;
+var servicesConnections = /[\/\\]services[\/\\]connections[\/\\]/;
+var servicesEvents = /[\/\\]services[\/\\]events[\/\\]/;
+
+// whichServicesSubMenu ----------------
+var servicesNetSuppPrim = /[\/\\]services[\/\\]network-services[\/\\]nameserver[\/\\]primary-nameserver[\/\\]/;
+var servicesNetSupp2ndry = /[\/\\]services[\/\\]network-services[\/\\]nameserver[\/\\]secondary-nameserver.html/;
+var servicesNetSuppResolver = /[\/\\]services[\/\\]network-services[\/\\]resolver[\/\\]/;
+var servicesNetSuppNSight = /[\/\\]services[\/\\]network-services[\/\\]netsight[\/\\]/;
+var servicesNetSuppColo = /[\/\\]services[\/\\]network-services[\/\\]co-location[\/\\]/;
+var servicesNetSuppNTP = /[\/\\]services[\/\\]network-services[\/\\]ntp[\/\\]/;
+var servicesNetSuppMR = /[\/\\]services[\/\\]network-services[\/\\]managed-router[\/\\]/;
+var servicesNetRoaming = /[\/\\]services[\/\\]network-services[\/\\]roaming[\/\\]/;
+
+var servicesNetAppWebMail = /[\/\\]services[\/\\]network-services[\/\\]web-services[\/\\]webmail[\/\\]/;
+var servicesNetAppMS = /[\/\\]services[\/\\]network-services[\/\\]mail[\/\\]mailer-shield[\/\\]/;
+var servicesNetAppWebFilt = /[\/\\]services[\/\\]network-services[\/\\]web-services[\/\\]web-filtering[\/\\]/;
+var servicesNetAppWebHost = /[\/\\]services[\/\\]network-services[\/\\]web-services[\/\\]webhosting[\/\\]/;
+var servicesNetAppUseNet = /[\/\\]services[\/\\]network-services[\/\\]usenet[\/\\]/;
+
+var servicesNetAdMCAS = /[\/\\]services[\/\\]network-services[\/\\]mcas[\/\\]/;
+var servicesNetAdBMAS = /[\/\\]services[\/\\]network-services[\/\\]bmas[\/\\]/;
+
+var servicesCustConnect = /[\/\\]services[\/\\]connections[\/\\]connecting[\/\\]/;
+var servicesCustDomain = /[\/\\]services[\/\\]connections[\/\\]domain[\/\\]/;
+var servicesCustComplaint = /[\/\\]services[\/\\]connections[\/\\]complaints.html/;
+
+var servicesEventsCal = /[\/\\]services[\/\\]events[\/\\]calendar[\/\\]/;
+var servicesEventsNWS = /[\/\\]services[\/\\]events[\/\\]networkshop[\/\\]/;
+
+// --------------------------------------------------------------------
+// LATEST 
+// --------------------------------------------------------------------
+
+// whichLatestMenu
+var latestNews = /[\/\\]latest[\/\\]news[\/\\]/;
+
+// whichLatestSubMenu
+var latestNewsArch = /[\/\\]latest[\/\\]news[\/\\]archive.html/;
+
+// --------------------------------------------------------------------
+// SJ5
+// --------------------------------------------------------------------
+// whichSJ5Menu
+var sj5Building = /[\/\\]sj5[\/\\](requirementsanalysis[\/\\]|ip-routers.html)/;
+var sj5RNO = /[\/\\]sj5[\/\\](rno-role.html|rno-support.html|rno-funding.html|tvnprocurement.html)/;
+var sj5Suppliers = /[\/\\]sj5[\/\\](overview.html|txprocurement[\/\\]index.html)/;
+var sj5Background = /[\/\\]sj5[\/\\](introductionsj5.html|overview.html|history.html)/;
+var sj5Publicity = /[\/\\]sj5[\/\\](events[\/\\]|project-reports.html|input.html)/;
+
+// whichSJ5SubMenu
+var sj5User = /[\/\\]sj5[\/\\]requirementsanalysis[\/\\]/;
+var sj5Router = /[\/\\]sj5[\/\\]ip-routers.html/;
+
+var sj5RNORole = /[\/\\]sj5[\/\\]rno-role.html/;
+var sj5RNOSupp = /[\/\\]sj5[\/\\]rno-support.html/;
+var sj5RNOFund = /[\/\\]sj5[\/\\]rno-funding.html/;
+var sj5TVN = /[\/\\]sj5[\/\\](tvnprocurement.html|procurement-archive.html)/;
+
+var sj5SuppOver = /[\/\\]sj5[\/\\]overview.html/;
+var sj5SuppProc = /[\/\\]sj5[\/\\]txprocurement[\/\\]/;
+
+var sj5BackOver = /[\/\\]sj5[\/\\]overview.html/;
+var sj5BackHist = /[\/\\]sj5[\/\\]history.html/;
+
+var sj5PubArt	=	/[\/\\]sj5[\/\\]events[\/\\](articles.html|requirements-article.html)/;
+var sj5PubEv	=	/[\/\\]sj5[\/\\]events[\/\\]public-events.html/;
+var sj5PubWork	=	/[\/\\]sj5[\/\\]events[\/\\]sector-workshops.html/;
+var sj5PubPres	=	/[\/\\]sj5[\/\\]events[\/\\]general-presentations.html/;
+var sj5PubRep	=	/[\/\\]sj5[\/\\]project-reports.html/;
+var sj5PubInfo	=	/[\/\\]sj5[\/\\](project-team.html|input.html)/;
+
+// --------------------------------------------------------------------------------
+// --------------------------------------------------------------------------------
+window.onload=showMenu;
+
+function toggleMenu(currentMenu)
+{
+	var thisCentreMenu = document.getElementById(currentMenu);
+	if (thisCentreMenu)
+	{
+		if (thisCentreMenu.style.display == "block")
+		{
+			thisCentreMenu.style.display = "none";
+		}
+		else 
+		{
+			thisCentreMenu.style.display = "block";
+		}
+	}
+}
+
+function showMenu()
+{
+
+	closeAllMenus();
+	closeCentreMenus();
+	var menuID;
+	var subID;
+	
+	var storeNum = whichMainMenu(document.URL); // find out which menus to display
+	var menuNum = storeNum.charAt(0);
+	var menuArea = storeNum.charAt(1);
+
+
+	menuID=document.getElementById('menu' + menuNum);
+	
+	if (menuID)
+	{
+		menuID.style.display='block';
+		if (menuArea == "D")
+		{
+			var storeSubNum = whichDevSubMenu(document.URL);
+		}
+		else if (menuArea == "C")
+		{
+			var storeSubNum = whichComSubMenu(document.URL);
+		}
+		else if (menuArea == "S")
+		{
+			var storeSubNum = whichServicesSubMenu(document.URL);
+		}
+		else if (menuArea == "L")
+		{
+			var storeSubNum = whichLatestSubMenu(document.URL);
+		}
+		else if (menuArea == "X")
+		{
+			var storeSubNum = whichSJ5SubMenu(document.URL);
+		}
+
+		subID = document.getElementById('menu' + storeSubNum);
+
+		if (subID)
+		{
+			subID.style.color = "#993399";
+		}
+	}
+}
+// --------------------------------------------------------------------
+// close menus ---------
+// --------------------------------------------------------------------
+function closeAllMenus()
+{
+
+	var thisMenu;
+	for (var count = 1; thisMenu=document.getElementById('menu' + count); count++ )
+		if (thisMenu)
+		{
+			thisMenu.style.display = 'none';
+		}
+}
+function closeCentreMenus()
+{
+	var thisMenu;
+	for (var count = 1; thisMenu=document.getElementById('cm' + count); count++ )
+		if (thisMenu)
+		{
+			thisMenu.style.display = 'none';
+		}
+}
+// --------------------------------------------------------------------
+// find out which area of the website the document is in -----
+// --------------------------------------------------------------------
+function whichMainMenu(checkURL)
+{
+	var storeMenuNumber = 0;
+	
+	if (dev.test(checkURL))
+	{
+		storeMenuNumber = whichDevMenu(checkURL);
+	}
+	else if (community.test(checkURL))
+	{
+		storeMenuNumber = whichCommunityMenu(checkURL);
+	}
+	else if (services.test(checkURL))
+	{
+		storeMenuNumber = whichServicesMenu(checkURL);
+	}
+	else if (about.test(checkURL))
+	{
+		storeMenuNumber = whichAboutMenu(checkURL);
+	}
+	else if (latest.test(checkURL))
+	{
+		storeMenuNumber = whichLatestMenu(checkURL);
+	}
+	else if (sj5.test(checkURL))
+	{
+		storeMenuNumber = whichSJ5Menu(checkURL);
+	}
+
+	return storeMenuNumber;
+}
+// --------------------------------------------------------------------
+// DEVELOPEMNT MENUS
+// --------------------------------------------------------------------
+// find out which menu the Development URL corresponds to ----
+
+function whichDevMenu(checkURL)
+{
+	if  (devAA.test(checkURL)) 
+	{
+		return "1D";
+	}
+	else if  (devContent.test(checkURL)) 
+	{
+		return "2D";
+	}
+	else if  (devMM.test(checkURL))
+	{
+		return "3D";
+	}
+	else if  (devNetEng.test(checkURL)) 
+	{
+		return "4D";
+	}
+	else if  (devResearch.test(checkURL)) 
+	{
+		return "5D";
+	}
+
+	return "00";		// Default to no menu
+}
+
+// whis submenu should be highlighted in purple -----------------
+
+function whichDevSubMenu(checkURL)
+{
+	if (devAALin.test(checkURL))
+	{
+		return 11;
+	}
+	else if (devAAShib.test(checkURL))
+	{
+		return 12;
+	}
+	else if (devVideo.test(checkURL))
+	{
+		return 21;
+	}
+	else if (devVoip.test(checkURL))
+	{
+		return 22;
+	}
+	else if (devContentDel.test(checkURL))
+	{
+		return 23;
+	}
+	else if (devPma.test(checkURL))
+	{
+		return 31;
+	}
+	else if (devVisdel.test(checkURL))
+	{
+		return 32;
+	}
+	else if (devBeacon.test(checkURL))
+	{
+		return 33;
+	}
+	else if (devTimesync.test(checkURL))
+	{
+		return 34;
+	}
+	else if (devQos.test(checkURL))
+	{
+		return 41;
+	}
+	else if (devMulticast.test(checkURL))
+	{
+		return 42;
+	}
+	else if (devNetAccess.test(checkURL))
+	{
+		return 43;
+	}
+	else if (devIpv6.test(checkURL))
+	{
+		return 44;
+	}
+	else if (devWireless.test(checkURL))
+	{
+		return 45;
+	}
+	else if (devVPN.test(checkURL))
+	{
+		return 46;
+	}
+	else if (devEscience.test(checkURL))
+	{
+		return 51;
+	}
+	else if (devEscienceVideo.test(checkURL))
+	{
+		return 52;
+	}
+	
+	return 00;		// Default to no menu
+}
+// --------------------------------------------------------------------
+// COMMUNITY
+// --------------------------------------------------------------------
+// find out which menu Community URL corresponds to -------
+
+function whichCommunityMenu(checkURL)
+{
+	if  (communityFE.test(checkURL)) 
+	{
+		return "1C";
+	}
+	else if (communitySchools.test(checkURL))
+	{
+		return "2C";
+	}
+
+	return "00";		// Default to no menu
+}
+
+// which submenu should be purple --------------
+
+function whichComSubMenu(checkURL)
+{
+	if (comFEEng.test(checkURL))
+	{
+		return 11;
+	}
+	else if (comFENI.test(checkURL))
+	{
+		return 12;
+	}
+	else if (comFEScot.test(checkURL))
+	{
+		return 13;
+	}
+	else if (comFEWales.test(checkURL))
+	{
+		return 14;
+	}
+	else if (comSchNet.test(checkURL))
+	{
+		return 21;
+	}
+	else if (comSchContent.test(checkURL))
+	{
+		return 22;
+	}
+	else if (comSchVideo.test(checkURL))
+	{
+		return 23;
+	}
+	
+	return 00;		// Default to no menu
+}
+// --------------------------------------------------------------------
+// SERVICES
+// --------------------------------------------------------------------
+// find out which menu Services URL corresponds to -------
+
+function whichServicesMenu(checkURL)
+{
+	if  (servicesNetSupp.test(checkURL)) 
+	{
+		return "1S";
+	}
+	else if  (servicesNetApp.test(checkURL)) 
+	{
+		return "2S";
+	}
+	else if  (servicesAdvisory.test(checkURL)) 
+	{
+		return "3S";
+	}
+	else if  (servicesVideo.test(checkURL)) 
+	{
+		return "4S";
+	}
+	else if  (servicesConnections.test(checkURL)) 
+	{
+		return "5S";
+	}
+	else if  (servicesEvents.test(checkURL)) 
+	{
+		return "6S";
+	}
+
+	return "00";		// Default to no menu
+}
+
+// which submenu should be purple --------------
+
+function whichServicesSubMenu(checkURL)
+{
+	if  (servicesNetSuppPrim.test(checkURL)) 
+	{
+		return 11;
+	}
+	else if  (servicesNetSupp2ndry.test(checkURL)) 
+	{
+		return 12;
+	}
+	else if  (servicesNetSuppResolver.test(checkURL)) 
+	{
+		return 13;
+	}
+	else if  (servicesNetSuppNSight.test(checkURL)) 
+	{
+		return 14;
+	}
+	else if  (servicesNetSuppColo.test(checkURL)) 
+	{
+		return 15;
+	}
+	else if  (servicesNetSuppNTP.test(checkURL)) 
+	{
+		return "16";
+	}
+	else if  (servicesNetSuppMR.test(checkURL)) 
+	{
+		return 17;
+	}
+	else if  (servicesNetRoaming.test(checkURL)) 
+	{
+		return 18;
+	}
+	else if  (servicesNetAppWebMail.test(checkURL)) 
+	{
+		return 21;
+	}
+	else if  (servicesNetAppMS.test(checkURL)) 
+	{
+		return 22;
+	}
+	else if  (servicesNetAppWebFilt.test(checkURL)) 
+	{
+		return 23;
+	}
+	else if  (servicesNetAppWebHost.test(checkURL)) 
+	{
+		return 24;
+	}
+	else if  (servicesNetAppUseNet.test(checkURL)) 
+	{
+		return 25;
+	}
+	else if  (servicesNetAdBMAS.test(checkURL)) 
+	{
+		return 31;
+	}
+	else if  (servicesNetAdMCAS.test(checkURL)) 
+	{
+		return 32;
+	}
+	else if  (servicesCustConnect.test(checkURL)) 
+	{
+		return 51;
+	}
+	else if  (servicesCustDomain.test(checkURL)) 
+	{
+		return 52;
+	}
+	else if  (servicesCustComplaint.test(checkURL)) 
+	{
+		return 53;
+	}
+	else if  (servicesEventsCal.test(checkURL)) 
+	{
+		return 61;
+	}
+	else if  (servicesEventsNWS.test(checkURL)) 
+	{
+		return 62;
+	}
+	
+	return 00;		// Default to no menu
+}
+
+// --------------------------------------------------------------------
+// LATEST
+// --------------------------------------------------------------------
+// find out which menu Latest URL corresponds to ----
+
+function whichLatestMenu(checkURL)
+{
+	if  (latestNews.test(checkURL)) 
+	{
+		return "1L";
+	}
+
+	return "00";		// Default to no menu
+}
+
+function whichLatestSubMenu(checkURL)
+{
+	if (latestNewsArch.test(checkURL))
+	{
+		return 11;
+	}
+	
+	return 00;	// Default to no menu
+}
+
+// --------------------------------------------------------------------
+// SJ5
+// --------------------------------------------------------------------
+function whichSJ5Menu(checkURL)
+{
+	if (sj5Building.test(checkURL))
+	{
+		return "1X";
+	}
+	else if (sj5RNO.test(checkURL))
+	{
+		return "2X";
+	}
+	else if (sj5Suppliers.test(checkURL))
+	{
+		return "3X";
+	}
+	else if (sj5Background.test(checkURL))
+	{
+		return "4X";
+	}
+	else if (sj5Publicity.test(checkURL))
+	{
+		return "5X";
+	}
+	
+	return 00;		// Default to no menu
+}
+
+
+function whichSJ5SubMenu(checkURL)
+{
+	if (sj5User.test(checkURL))
+	{
+		return 11;
+	}
+	else if (sj5Router.test(checkURL))
+	{
+		return 13;
+	}
+	else if (sj5RNORole.test(checkURL))
+	{
+		return 21;
+	}
+	else if (sj5RNOSupp.test(checkURL))
+	{
+		return 22;
+	}
+	else if (sj5RNOFund.test(checkURL))
+	{
+		return 23;
+	}
+	else if (sj5TVN.test(checkURL))
+	{
+		return 24;
+	}
+	else if (sj5SuppOver.test(checkURL))
+	{
+		return 31;
+	}
+	else if (sj5SuppProc.test(checkURL))
+	{
+		return 32;
+	}
+	else if (sj5BackOver.test(checkURL))
+	{
+		return 41;
+	}
+	else if (sj5BackHist.test(checkURL))
+	{
+		return 42;
+	}
+	else if (sj5PubArt.test(checkURL))
+	{
+		return 51;
+	}
+	else if (sj5PubEv.test(checkURL))
+	{
+		return 52;
+	}
+	else if (sj5PubWork.test(checkURL))
+	{
+		return 53;
+	}
+	else if (sj5PubPres.test(checkURL))
+	{
+		return 54;
+	}
+	else if (sj5PubRep.test(checkURL))
+	{
+		return 55;
+	}
+	else if (sj5PubInfo.test(checkURL))
+	{
+		return 56;
+	}
+	
+	return 00;		// Default to no menu
+}
+
+
+</script>
+<link href="http://www.ja.net/assets/css/styles.css" rel="stylesheet" type="text/css">
+<link href="http://www.ja.net/assets/css/print.css" rel="stylesheet" type="text/css" media="print">
+
+</head><body>
+<div class="banner">
+<div class="pos-search">
+
+<form method="GET" action="http://www.google.com/u/janet">
+<input type="text" name="q" size="15" value="Google Search" maxlength="255">
+<input type="Submit" name="sa" value="Search"></form>
+
+
+</div>
+<div class="pos-logo">
+<a href="http://www.ja.net/index.html"><img src="/assets/images/UKERNAlogo.gif" width="44" height="56" border="0"></a><span class="hdg-JANET">JANET <span class="hdg-description">the UK's education and research network</span> </span>
+<br><span class="home"><a href="http://www.ja.net/index.html">Home</a></span></div>
+
+<div class="pos-a-z"><a href="http://www.ja.net/assets/directory/atoz.html">A-Z</a></div><br>
+
+<span class="community"><a href="/community/index.html">Community</a></span>
+<span class="services"><a href="/services/index.html">Services</a></span>
+<span class="dev"><a href="/development/index.html">Development</a></span>
+<span class="about"><a href="/about/index.html">About JANET</a></span>
+<span class="latest"><a href="/latest/news/index.html">Latest</a></span>
+</div>
+
+
+
+<div class="centre-content">
+
+
+        <h2>UKERNA 
+          PRIVACY POLICY</h2>
+        <h3>General</h3>
+        <p>We want to protect the privacy of visitors to our website and of individuals 
+          who give us their personal details. Please read the following policy; 
+          it will help you to understand how we use personal data. We may change 
+          our privacy policy at any time without giving you notice, so please 
+          check it each time you visit this website.</p>
+        <p><b>Whenever you give us personal data, you are consenting to its collection 
+          and use in accordance with this privacy policy. </b></p>
+        <h3>What personal data do we collect? </h3>
+        <p>We log your Internet Protocol (IP) address in order to receive and 
+          send information from and to you over the internet.<br>
+          When you register for any of our conferences, workshops, courses or 
+          other services, make an enquiry, report a problem, register a domain 
+          name, join one of our mailing lists or order products or services from 
+          us, you may be asked to provide some personal data such as your name, 
+          home, business or billing address, telephone number, e-mail address, 
+          and credit or debit card number.<br>
+          Bear in mind that if you submit any personal data for inclusion in any 
+          directory or information service, it may be seen by anyone visiting 
+          this website, or who has access to that directory or information service. 
+          Do not submit any personal data that you do not want to be made public 
+          in this way, and please do not send us any personal data about anyone 
+          else without their permission. In particular, when you apply for a membership 
+          account or to register or amend a domain name registration, you must 
+          obtain the consent of anyone whose personal data you provide to us.</p>
+        <h3>Cookies </h3>
+        <p>We may use cookies.<br>
+          A cookie is a small piece of data or message that is sent from a web 
+          server to your browser and may be stored on your hard drive. A cookie 
+          can't read data off your hard disk or read cookie files created by other 
+          sites. Cookies do not damage your system. <br>
+          You can reset your browser so as to refuse any cookie or to alert you 
+          to when a cookie is being sent. If you refuse cookies, some websites 
+          may not function.</p>
+        <h3>How do we use your personal data? </h3>
+        <p>We use your personal data to provide goods and services to you or your 
+          organisation, to carry out domain name registration and administration, 
+          to let you know about other goods and services in which you may be interested, 
+          to inform you about changes and improvements to our website, and for 
+          direct marketing purposes (but we do give you the option to opt out 
+          of this). <br>
+          We may also use your personal data to monitor the use of our website, 
+          to record traffic flows and to carry out research about our visitors’ 
+          and customers’ demographics, interests and behaviour. We do this 
+          to understand our visitors, customers and potential customers better. 
+          <br>
+          When you give us personal data, those data may be sent electronically 
+          to servers anywhere in the world and may be used, stored and processed 
+          anywhere in the world, including countries outside the European Economic 
+          Area. (Bear in mind that many countries outside the EEA do not adequately 
+          protect your rights as a data subject.) <br>
+          Whenever and wherever we collect, process or use personal data, we take 
+          steps to ensure that it is treated securely and in accordance with our 
+          privacy policy.</p>
+        <h3><br>
+          To whom might we disclose your personal data?</h3>
+        <p> We may pass your personal data to anyone who needs those data in order 
+          to fulfil your requests for our goods and services, or to validate any 
+          payment details you give to us. Some of these people may be located 
+          outside the European Economic Area (EEA).<br>
+          Please note that personal data provided to us in connection with domain 
+          name registration will be made available to the public via our WHOIS 
+          server, and we may make that information available to anyone who appears 
+          to us to make a bona fide request for information about the registrant 
+          of any domain name.<br>
+          We may pass your personal data to our data processors. Some of these 
+          may be located outside the European Economic Area. <br>
+          We may also provide your personal data to businesses which may be located 
+          outside the European Economic Area and who may use the data to send 
+          you information about other products or services. However, you may opt-out 
+          of your personal data being used in this way when we collect your personal 
+          data.<br>
+          We may also provide your personal data to anyone to whom our business 
+          or business assets are transferred.<br>
+          Except as set out above, we will not disclose your personal data unless 
+          we are obliged to do so or allowed to do so by law, or where we need 
+          to do so in order to run our business (for instance where we outsource 
+          services or other people process data for us). </p>
+        <h3>Direct Marketing</h3>
+        <p>Unless you have already informed us that you do not wish us to do so, 
+          we may contact you by e-mail to market our goods and services. You may 
+          at any time request us to stop using your personal data for direct marketing 
+          purposes. If you wish to do this please contact: <a href="mailto:service@janet.ac.uk">service@janet.ac.uk</a></p>
+        <h3>Links</h3>
+        <p>Our website contains links to other websites. We are not responsible 
+          for the privacy practices of other sites. We encourage our visitors 
+          to be aware when they leave our website, and to read the privacy policy 
+          of other sites that collect or use personal data. This privacy policy 
+          applies only to personal data collected by UKERNA. </p>
+        <h3>Security</h3>
+        <p>Unfortunately, no data transmission over the internet or any other 
+          network can be guaranteed as 100% secure, but we take appropriate steps 
+          to try to protect the security of your personal data.</p>
+        <p> <strong>Contacts</strong><br>
+          This is the website of the JNT Association trading as UKERNA, a not-for-profit 
+          company limited by guarantee. Our registered number is 2881024 and our 
+          registered office is at the Atlas Centre, Chilton, Didcot, Oxfordshire 
+          OX11 0QS.<br>
+          Individuals have certain rights of access to their personal data. If 
+          you want to request any information about your personal data, please 
+          contact: <a href="mailto:service@janet.ac.uk">service@janet.ac.uk</a></p>
+        <p> <strong>Inaccuracies and Corrections</strong><br>
+          We would like to keep your personal data accurate and up to date. If 
+          you become aware of any errors or inaccuracies please let us know by 
+          contacting: <a href="mailto:service@janet.ac.uk">service@janet.ac.uk</a></p>
+		  
+</div>
+
+<div class="footer"><a href="http://www.ja.net/assets/privacy.html">Privacy Policy </a> | <a href="http://www.ja.net/assets/webadmin.html">Web Admin </a><br>
+<a href="http://www.ja.net/assets/copyright.html">© The JNT Association </a> - UKERNA, Atlas Centre, Chilton, Didcot, Oxfordshire, OX11 0QS<br> Tel: 01235 822200 Fax: 01235 822399</div>
+
+
+
+
+
+
+
+
+		  
+		  
+</body></html>
