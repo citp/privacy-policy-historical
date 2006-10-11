@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedcountry.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615184717id_/http%3A//unitedcountry.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedcountry.com privacy policy that was archived on 2006-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061011161354id_/http%3A//unitedcountry.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # United Country Real Estate Privacy Statement
 
