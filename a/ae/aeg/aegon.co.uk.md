@@ -1,44 +1,47 @@
-> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617080346id_/http%3A//www.aegon.co.uk/tools/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2006-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061011071743id_/http%3A//www.aegon.co.uk/footer/privacy.htm) for the most accurate reproduction.*
 
-# AEGON UK website privacy statement
+# AEGON in the UK | Legal
 
-##  About this statement
+Print version
 
-This privacy statement sets out how AEGON UK use and protect any personal information that you give AEGON UK when you use this website. 
+## Privacy
 
-##  Information collected
+###  About this statement 
 
-AEGON UK collect the personal information you provide through use of the enquiry forms on this website and any personal information you may provide by email. 
+This privacy statement sets out how AEGON UK uses and protects any personal information that you give us when you use this website. 
 
-##  Use of personal information
+###  The information we collect 
 
-AEGON UK will use the information you provide for the following reasons: 
+We collect the personal information you give on this website’s enquiry forms and any personal information you may provide by email. 
 
-  * Dealing with your requests and enquiries
-  * Providing you with information about AEGON UK products and services
-  * Carrying out customer and marketing research
-  * Internal record keeping 
-  * Providing aggregate information and statistics for the purposes of monitoring website usage in order to help AEGON develop their Website and services, These statistics will not include information that can be used to identify any individual 
-  * Recruitment and selection purposes
+###  Use of personal information 
+
+We use this information for the following purposes: 
+
+  * dealing with your requests and enquiries 
+  * providing you with information about AEGON UK products and services 
+  * carrying out customer and marketing research 
+  * internal record-keeping 
+  * providing aggregate information and statistics for the purposes of monitoring website usage in order to help us develop our website and services (these statistics won’t include information that can be used to identify any individual) 
+  * recruitment and selection purposes 
+  * If you’re applying for a vacancy, then your email with any attachment will be sent to the recruitment mailbox and dealt with by the appropriate recruitment consultant. 
 
 
 
-If you are applying for a vacancy, then your eMail with any attachment will be sent to the recruitment mailbox and dealt with by the appropriate recruitment consultant. 
+We don’t sell personal information collected through this website or use your personal information for any other purposes than those stated above. In addition, we won’t disclose your personal data to anyone outside AEGON UK or its group of companies. 
 
-AEGON UK do not sell personal information collected through this website or use your personal information for any other purposes than those stated above. In addition, AEGON UK will not disclose you personal data to anyone outwith AEGON UK or its group of companies. 
+###  Cookies 
 
-##  Cookies
+A cookie is a piece of data stored on a user's hard drive containing information about the user. Cookies work by setting data on the visitor’s browser to anonymously track the pages they visit on a website. 
 
-A cookie is a piece of data stored on a user's hard drive containing information about the user. These work by setting data on the visitors browser to anonymously track the pages they visit on the AEGON UK website and provide AEGON UK with statistics. 
+We currently use cookies on our website for anonymously tracking the usage of this website. This gives us information on what pages are being used and helps us in developing the website and improving user experience. 
 
-AEGON UK currently use cookies on its website for anonymously tracking the usage of this website. This assists AEGON UK in developing the website and improving user experience. 
+We may use non-personal data about your visits to the website. You can find more information about cookies, including how to block them and/or delete them, can be found at <http://www.aboutcookies.org/>. 
 
-AEGON UK may use non-personal data about your visits to the website. More information about cookies, including how to block them and/or delete them, can be found at <http://www.aboutcookies.org/>. 
+###  Security 
 
-##  Security
+We’re committed to ensuring your information is protected and held securely. However, the internet is not a secure medium and we can’t accept responsibility for the security of an email during transmission or for non-delivery of that email. 
 
-AEGON UK is committed to ensuring your information is protected and held securely. However the internet is not a secure medium and AEGON UK cannot accept responsibility for the security of an email during transmission or for non-delivery of that email. 
+###  Links 
 
-##  Links
-
-This Website may contain links that make it easy for you to visit other websites. If you use the links to leave this Website and visit a website operated by a third party, AEGON UK does not have any control over that website. Accordingly, AEGON UK cannot be responsible for the protection and privacy of any information which you provide while visiting such websites.
+This website may contain links to other websites. If you use the links to leave this website and visit a website operated by a third party, then we don’t have any control over that website. So we can’t be held responsible for the protection and privacy of any information that you provide while visiting such websites.
