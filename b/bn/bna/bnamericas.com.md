@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnamericas.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616034100id_/http%3A//www.bnamericas.com/privacy.jsp%3Fidioma%3DI) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnamericas.com privacy policy that was archived on 2006-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061011101309id_/http%3A//bnamericas.com/privacy.jsp%3Fidioma%3DI) for the most accurate reproduction.*
 
 # Business News Americas - Latin America's Business Information Leader
 
