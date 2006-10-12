@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrents.to privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629103640id_/http%3A//torrents.to/static/privacy_copyright_policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrents.to privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013011103id_/http%3A//www.torrents.to/static/privacy_copyright_policies.html) for the most accurate reproduction.*
 
 # TORRENTS | TO | Your BitTorrent Search
 
