@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loudoun.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615074149id_/http%3A//www.loudoun.gov/general/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudoun.gov privacy policy that was archived on 2006-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061012111931id_/http%3A//www.loudoun.gov/general/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Practices and Security Policy
 
