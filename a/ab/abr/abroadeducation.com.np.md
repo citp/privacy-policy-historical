@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the abroadeducation.com.np privacy policy that was archived on 2006-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060207210334id_/http%3A//abroadeducation.com.np/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abroadeducation.com.np privacy policy that was archived on 2006-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061012141945id_/http%3A//abroadeducation.com.np/privacy-policy.html) for the most accurate reproduction.*
 
 # AbroadEducation Privacy Policy
 
-**WEBNETWORKS, INC. WEBSITE PRIVACY POLICY**
+**WEBNETWORKS WEBSITE PRIVACY POLICY**
 
-Protecting your privacy online is a main concern at AbroadEducation, Inc. The following AbroadEducation privacy policy informs how we respect your privacy and protect any information you may provide us while visiting our site or utilizing any of our services.
+Protecting your privacy online is a main concern at WebNetworks. The following AbroadEducation privacy policy informs how we respect your privacy and protect any information you may provide us while visiting our site or utilizing any of our services.
 
 AbroadEducation allows full access to our online information free of charge and without requiring any registration. Users may opt to register with AbroadEducation. We don't collect any personal information when someone simply visits our websites.  This information is kept confidential and will never be passed to a third party, unless this is required (1) to enforce our Terms and Conditions, (2) by law, (3) to defend us in any legal action, (4) to protect our property. The WebNetworks websites may also contain elements provided by third party advertisers.
 
@@ -32,7 +32,7 @@ We routinely gather information about the use of our web sites by all of our use
 
 **Information protection and security**
 
-When you submit your information to Educational Directories Unlimited, whether it be your name, address, email or phone number, we do our utmost to ensure that information is protected against loss, misuse, alteration, destruction or unauthorized access. Educational Directories Unlimited uses standard encryption tools such as SSL (Secure Socket Layer) to help protect your personal information and to keep information collected secure.
+When you submit your information to AbroadEducation, whether it is your name, address, email or phone number, we do our utmost to ensure that information is protected against loss, misuse, alteration, destruction or unauthorized access. AbroadEducation uses standard encryption tools such as SSL (Secure Socket Layer) to help protect your personal information and to keep information collected secure.
 
 > _Encryption can be used after your data has left your internal system. Encryption renders your data unreadable using a mathematical formulae known as the key. Your data is turned back into readable form, i.e. deciphered, by applying the correct key._
 
