@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2006-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060209101327id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2006-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061012025841id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # GMC | Privacy policy
 
@@ -31,23 +31,19 @@ If you provide your details when inquiring about registration or sitting the Pro
 
 If you subsequently obtain registration from the GMC we will use the information you provide to us for these purposes:
 
-  * To update, administer and maintain your registration
-  * To process complaints in accordance with our Fitness to Practice procedures
-  * To compile statistics
-  * To undertake consultations of the profession.
-  * To send you _GMCtoday_ , guidance publications and Council election materials
+  * Update the registers
+  * Administer and maintain your registration
+  * Process complaints
+  * Compile statistics
+  * Keep you updated with information about the GMC including guidance, news and election material.
 
 
 
-We will make your register entries available to any enquirer and as part of the published register. Basic registration details are also published on our website, without address details.
+We may be asked to provide your registered address to the British Medical Association, medical defence organisations and medical Royal Colleges and faculties so that they can keep their records up to date. We will only do so, where we are satisfied you are already a member. If you would prefer us not to share your registered address with these organisations please let us know either by writing to Registration Update Team, General Medical Council, St James's Buildings, 79 Oxford Street Manchester, M1 6FQ or by sending an email to [registrationhelp@gmc-uk.org](mailto:registrationhelp@gmc-uk.org).
 
-  * We provide information under a statutory requirement to the Department of Health
-  * We may provide professional, education and training bodies with data so that they can correct their information and compile statistics.
-  * We will provide Registration and Fitness to Practice information about doctors who are or who have been registered with the GMC to other medical authorities within the UK and worldwide, including medical regulatory authorities within the EEA and worldwide.
-  * We provide a CD ROM of registration data to the medical defence unions and to other bodies so that they can update their existing records. No new records can be created by them from the data.
-  * We may provide registration data to the British Medical Association from time to time to enable them to conduct consultations of the profession.
+Please note that all registered doctors’ Level 1 information will be published in the List of Registered Medical Practitioners on our website and made available to any enquirer. Level 1 information consists of registered doctors’ reference number, gender, name, any former name, year and place of primary medical qualification, registration status, date of registration and any publicly available fitness to practise history. 
 
-
+We will provide Level 3 Information to the UK health departments, employers and other regulatory bodies. Level 3 information consists of registered doctors’ Level 1 information, date of birth, photograph, passport details, annual retention fee due date, registered address and whether a doctor is subject to investigation under the fitness to practise procedures.
 
 #### Third Party Service Providers
 
