@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastershow.com.au privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417195117id_/http%3A//eastershow.com.au/legal/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastershow.com.au privacy policy that was archived on 2006-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061012170706id_/http%3A//www.eastershow.com.au/legal/policy.html) for the most accurate reproduction.*
 
 # Sydney Royal Easter Show 7-20 April 2006
 
