@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thecomedynetwork.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615073303id_/http%3A//www.thecomedynetwork.ca/servlet/an/comedy/2/20051003/TCN_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecomedynetwork.ca privacy policy that was archived on 2006-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061012145003id_/http%3A//www.thecomedynetwork.ca/servlet/an/comedy/2/20051003/TCN_privacypolicy) for the most accurate reproduction.*
 
 # Bell Globemedia Website Privacy Policy--TCN - TheComedyNetwork.ca - Online Time Well Wasted
-
-## Bell Globemedia Website Privacy Policy
 
 Bell Globemedia respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains Bell Globemedia Inc.'s and its subsidiaries' ("BGM") treatment of your personally identifiable information collected in connection with your activities on or related to all BGM websites referencing this Privacy Policy (the "BGM Sites") and all services made available on the BGM Sites (collectively, unless noted otherwise, the "BGM Services"). This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information. 
 
@@ -120,7 +118,3 @@ Certain BGM Services may contain electronic images known as Web beacons - someti
 
 Copyright 2005 Bell Globemedia Inc.   
 All Rights Reserved. 
-
-| 
-
-## [](https://web.archive.org/schedule/)
