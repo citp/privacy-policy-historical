@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the ebird.org privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615100315id_/http%3A//www.ebird.org/content/privacyStatement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebird.org privacy policy that was archived on 2006-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061012080325id_/http%3A//www.ebird.org/content/privacyStatement.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>eBird || North America's destination for birding on the Web</title>
-<!-- enPageName: privacyStatement esPageName: privacyStatementSP -->
-<!--// INSERT THE GLOBAL.PROPERTIES.HDR FILE //--><!-- eb3_uetGlobalProperties -->
+<title>eBird || North America's destination for birding on the Web</title>
+<!-- eb3_uetGlobalProperties -->
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="keywords" content="birds, birding, conservation, nature, science, cornell, audubon, ornithology, bird">
 <meta name="description" content="North America's premier destination for birding on the Web.">
@@ -19,15 +19,20 @@
 function setCookiesAndGo(sContentProject, sLanguage, sURL) {
 	if (sLanguage == 'SP')
 		createCookie(sContentProject + 'LocaleCookie', 'es' ,1);
+	else if (sLanguage == 'FR')
+	    createCookie(sContentProject + 'LocaleCookie', 'fr' ,1);
 	else
 		createCookie(sContentProject + 'LocaleCookie', 'en' ,1);
 	parent.location.href = sURL;
 }	
 function checkLanguage(sContentProject) {
 	var lang = readCookie(sContentProject + 'LocaleCookie');
-	if ((lang != null) && (lang != 'en'))
-		if (lang == 'es')
+	var langs = lang.substring(0,2);
+	if ((lang != null) && (langs != 'en'))
+		if (langs == 'es')
 			parent.location.href='privacyStatementSP.html';
+		else if (langs == 'fr')
+		    parent.location.href='privacyStatementFR.html';
 		else	
 			parent.location.href='privacyStatement.html';
 }
