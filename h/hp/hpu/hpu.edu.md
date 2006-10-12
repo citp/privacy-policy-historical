@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hpu.edu privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618145157id_/http%3A//www.hpu.edu/index.cfm%3Fsection%3Dwelcome5261) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpu.edu privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013002923id_/http%3A//www.hpu.edu/index.cfm%3Fsection%3Dwelcome5261) for the most accurate reproduction.*
 
 # HPU Internet Privacy Policy
 
