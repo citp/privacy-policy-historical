@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prepme.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616021038id_/http%3A//prepme.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepme.com privacy policy that was archived on 2006-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061012105248id_/http%3A//www.prepme.com/about/privacy.htm) for the most accurate reproduction.*
 
 # PrepMe - Test Prep
 
