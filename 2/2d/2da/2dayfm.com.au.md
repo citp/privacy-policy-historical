@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2dayfm.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615132855id_/http%3A//www.2dayfm.com.au/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2dayfm.com.au privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013125918id_/http%3A//2dayfm.com.au/footer/privacy_policy) for the most accurate reproduction.*
 
 # 2DayFM - Privacy Policy
 
