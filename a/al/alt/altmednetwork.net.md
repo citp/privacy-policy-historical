@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altmednetwork.net privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616043201id_/http%3A//www.altmednetwork.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altmednetwork.net privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013194852id_/http%3A//altmednetwork.net/privacy.html) for the most accurate reproduction.*
 
 # Alternative Medicine Network Privacy Policy
 
@@ -25,7 +25,7 @@ This site contains links to other sites. Alternative Medicine Network is not res
   
 TOP
 
-[home](https://web.archive.org/web/20060616043201id_/http%3A//www.altmednetwork.net/index.html) | [what's new](https://web.archive.org/web/20060616043201id_/http%3A//www.altmednetwork.net/whats_new.html) | [products list](https://web.archive.org/web/20060616043201id_/http%3A//www.altmednetwork.net/products.html) | [become an affiliate](https://web.archive.org/web/20060616043201id_/http%3A//www.altmednetwork.net/affiliate.html)  
-[site map](https://web.archive.org/web/20060616043201id_/http%3A//www.altmednetwork.net/site_map.html) | **our privacy policy** | [about us](https://web.archive.org/web/20060616043201id_/http%3A//www.altmednetwork.net/about_us.html) | [links we like](https://web.archive.org/web/20060616043201id_/http%3A//www.altmednetwork.net/linksindex.html)
+[home](https://web.archive.org/web/20061013194852id_/http%3A//altmednetwork.net/index.html) | [what's new](https://web.archive.org/web/20061013194852id_/http%3A//altmednetwork.net/whats_new.html) | [products list](https://web.archive.org/web/20061013194852id_/http%3A//altmednetwork.net/products.html) | [become an affiliate](https://web.archive.org/web/20061013194852id_/http%3A//altmednetwork.net/affiliate.html)  
+[site map](https://web.archive.org/web/20061013194852id_/http%3A//altmednetwork.net/site_map.html) | **our privacy policy** | [about us](https://web.archive.org/web/20061013194852id_/http%3A//altmednetwork.net/about_us.html) | [links we like](https://web.archive.org/web/20061013194852id_/http%3A//altmednetwork.net/linksindex.html)
 
 © 2003 Alternative Medicine Network
