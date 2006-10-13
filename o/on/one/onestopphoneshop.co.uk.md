@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the onestopphoneshop.co.uk privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404015212id_/http%3A//www.onestopphoneshop.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopphoneshop.co.uk privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013100751id_/http%3A//www.onestopphoneshop.co.uk/index.php%3F%26B%5B0%5D%5Bnext%5D%5B0%5D%3Dprivacy) for the most accurate reproduction.*
 
-# Free Mobile Phones, Cheap Mobiles, Half Price Line Rental on 3 (Three), Orange, Vodafone, O2 and T-Mobile - Onestopphoneshop
+# One Stop Phone Shop Privacy Policy.
 
-One Stop Privacy Policy
+One Stop Phone Shop Privacy Policy
 
 One Stop Phone Shop know that you care about how the information you provide us is used and shared, and we understand and appreciate the level of trust you instill in us when you provide such delicate information. This notice describes our privacy policy. 
 
 Your Consent
 
-By visiting onestopphoneshop.co.uk, you are accepting and consenting to the practices described in this Privacy Notice.
+By visiting www.onestopphoneshop.co.uk, you are accepting and consenting to the practices described in this Privacy Notice.
 
 Controllers of Personal Information
 
-All information provided to or gathered by onestopphoneshop.co.uk is controlled primarily by One Stop Phone Shop, Communications House, Marshfield Bank, Crewe, Cheshire, CW2 8UY.
+All information provided to or gathered by onestopphoneshop.co.uk is controlled primarily by One Stop Phone Shop, Datum House, Electra Way, Crewe, Cheshire, CW6 1ZT.
 
 Collection and Use of Personal Information About Customers
 
@@ -20,7 +20,7 @@ The information we learn from customers helps us to personalise and continually 
 
 The information that is gathered from you allows us to process your orders, which in some cases will include the need for credit checks by us and other third party companies, to obtain a mobile airtime agreement. This information is then used by One Stop Phone Shop and other third party companies to supply you with the products and services you have ordered. To assist us and the service providers to make a decision on your order, we may use our own records or the files of separate third party credit reference agencies.
 
-From time to time we, our agents, sub-contractors or selected third party companies may contact you with reference to new promotions or services, which we believe will be of benefit to you. You may be contacted through various means such as post, e-mail, telephone, sms or any other messaging services. If you do not wish to receive any further information from us in relation to new promotions or services, then please send an e-mail to [ privacy@onestopphoneshop.co.uk](mailto:privacy@onestopphoneshop.co.uk) or write to the Privacy Manager, One Stop Phone Shop, Communications House, Marshfield Bank, Crewe, Cheshire, CW2 8UY.
+From time to time we, our agents, sub-contractors or selected third party companies may contact you with reference to new promotions or services, which we believe will be of benefit to you. You may be contacted through various means such as post, e-mail, telephone, sms or any other messaging services. If you do not wish to receive any further information from us in relation to new promotions or services, then please send an e-mail to [ privacy@onestopphoneshop.co.uk](mailto:privacy@onestopphoneshop.co.uk) or write to the Privacy Manager, One Stop Phone Shop, Datum House, Electra Way, Crewe, Cheshire, CW1 6ZT.
 
 What About Cookies?
 
@@ -37,21 +37,21 @@ You can tell whether you have entered a secure location on our website by the sm
 
 Keeping us updated
 
-If any of the information that you provided changes, such as home addresses, names and e-mail addresses, then please contact us either by e-mail [ privacy@onestopphoneshop.co.uk](mailto:privacy@onestopphoneshop.co.uk), or write to our Privacy Manager, One Stop Phone Shop, Communications House, Marshfield Bank, Crewe, Cheshire, CW2 8UY. 
+If any of the information that you provided changes, such as home addresses, names and e-mail addresses, then please contact us either by e-mail [ privacy@onestopphoneshop.co.uk](mailto:privacy@onestopphoneshop.co.uk), or write to our Privacy Manager, One Stop Phone Shop, Datum House, Electra Way, Crewe, Cheshire, CW1 6ZT. 
 
 Conditions of Use, Notices and Revisions
 
-If you choose to visit onestopphoneshop.co.uk, your visit and any dispute over privacy is subject to this Privacy Notice and our [ terms and conditions](https://web.archive.org/web/20050404015212id_/http%3A//www.onestopphoneshop.co.uk/terms.php), including limitations on damages and application of the laws of England. If you have any concern about privacy, please e-mail a thorough description to [ privacy@onestopphoneshop.co.uk](mailto:privacy@onestopphoneshop.co.uk), or send it to:
+If you choose to visit onestopphoneshop.co.uk, your visit and any dispute over privacy is subject to this Privacy Notice and our [Terms & Conditions](http://www.onestopphoneshop.co.uk/index.php?&B\[0\]\[next\]\[0\]=termsAndCond), including limitations on damages and application of the laws of England. If you have any concern about privacy, please e-mail a thorough description to [ privacy@onestopphoneshop.co.uk](mailto:privacy@onestopphoneshop.co.uk), or send it to:
 
 **Privacy Manager  
 One Stop Phone Shop  
-Communications House  
-Marshfield Bank  
+Datum House  
+Electra Way  
 Crewe, Cheshire  
-CW2 8UY**
+CW1 6ZT**
 
 and we will try to resolve it.
 
-Our business changes constantly and our Privacy Notice and the [ terms and conditions](https://web.archive.org/web/20050404015212id_/http%3A//www.onestopphoneshop.co.uk/terms.php) will change also. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand by the promises we make however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of those prospectively affected customers.
+Our business changes constantly and our Privacy Notice and the [Terms & Conditions](http://www.onestopphoneshop.co.uk/index.php?&B\[0\]\[next\]\[0\]=termsAndCond) will change also. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand by the promises we make however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of those prospectively affected customers.
 
-If you have any comments regarding our website or our privacy policies, then please e-mail your views to [ privacy@onestopphoneshop.co.uk](mailto:privacy@onestopphoneshop.co.uk), or send a letter to our Privacy Manager, One Stop Phone Shop, Communications House, Marshfield Bank, Crewe, Cheshire, CW2 8UY. 
+If you have any comments regarding our website or our privacy policies, then please e-mail your views to [ privacy@onestopphoneshop.co.uk](mailto:privacy@onestopphoneshop.co.uk), or send a letter to our Privacy Manager, One Stop Phone Shop, Datum House, Electra Way, Crewe, Cheshire, CW1 6ZT. 
