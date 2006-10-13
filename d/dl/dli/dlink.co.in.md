@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlink.co.in privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629052922id_/http%3A//www.dlink.co.in/dlink/Copyright%2520disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlink.co.in privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013065513id_/http%3A//www.dlink.co.in/dlink/Copyright%2520disclaimer.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
