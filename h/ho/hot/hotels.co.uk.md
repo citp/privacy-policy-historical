@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotels.co.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616023806id_/http%3A//www.hotels.co.uk/index.jsp%3FpageName%3Dprivacy%26cid%3D51553%26locale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.co.uk privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013094022id_/http%3A//www.hotels.co.uk/index.jsp%3FpageName%3Dprivacy%26cid%3D51553%26locale%3Den) for the most accurate reproduction.*
 
 # Hotels.com -- global discount hotel reservations
 
