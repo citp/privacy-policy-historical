@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615044951id_/http%3A//www.ntis.gov/about/policies.asp%3Floc%3D6-6-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntis.gov privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013224501id_/http%3A//www.ntis.gov/about/policies.asp%3Floc%3D6-6-0) for the most accurate reproduction.*
 
 # Policies
 
-**Privacy & Security**  
+**Privacy Policy & Security**  
 NTIS is committed to protecting your privacy and will collect no personal information about you unless you choose to provide that information. Such information is kept within NTIS although some information may be provided to our agency sources. For products developed under a joint venture, some information may be shared with our joint venture partner.
 
 Here is how we handle information about your visit to our site:
@@ -20,6 +20,8 @@ Here is how we handle information about your visit to our site:
 2\. If you send us an e-mail, we will only use it to respond to your message or to provide you ongoing information if you request it.
 
 3\. If you purchase a product on-line, we collect personal information required to support the purchasing of products, including names, addresses, telephone and fax numbers and e-mail addresses.
+
+4\. We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us. For the protection of users of our Web sites, we have safeguards in place to identify and prevent unauthorized attempts to access or cause harm to information and systems.
 
 **Links**  
 Our Web site has links to many other federal agencies. In a few cases, we link to private organizations with their permission. Once you link to another site, you are subject to the privacy policy of the new site.
