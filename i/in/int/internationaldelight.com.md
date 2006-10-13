@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the internationaldelight.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615061332id_/http%3A//internationaldelight.com/%3Fid%3D184) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationaldelight.com privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013093800id_/http%3A//www.internationaldelight.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# International Delight Coffee Creamer - Delight in Every Cup
 
-This is a WhiteWave Foods Company Web site. WhiteWave Foods Company, a subsidiary of Dean Foods, Inc., strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, WhiteWave Foods Company, Inc. is dedicated to protecting our customers', consumers' and online visitors' privacy on our Web site.
+  
+
+
+WhiteWave Foods Company, a subsidiary of Dean Foods, Inc., strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, WhiteWave Foods Company is dedicated to protecting our customers', consumers' and online visitors' privacy on our Web site. 
 
 Personal Information  
 WhiteWave Foods Company collects personal information from the visitors to our Web site only on a voluntary basis. Personal information collected on a voluntary basis may include, among other things, name, postal address, e-mail address, company name, and telephone number. This information is collected if you request information from us, participate in a contest or sweepstakes, or sign up to join our e-mail list. The information collected is internally reviewed, used to improve the content of our Web site, notify our visitors of updates, and respond to visitor inquiries. Once information is reviewed, it is discarded or stored in our files. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties. If you have already provided this information and do not want to receive e-mail from us in the future, please let us know by sending an e-mail to us at the address listed below.  
@@ -23,4 +26,4 @@ This Web site contains "links" to other sites. We try to link only to sites that
 Contacting Us  
 WhiteWave Foods Company is dedicated to protecting the privacy of our customers, consumers and online visitors. We provide this privacy policy as a statement to you of our commitment to protect your personal information provided to us on our Web site. It is also provided to instruct you on what to do if you want personal information that you have already provided to us removed from our records. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We will seek to obtain written or active email consent from you if we are going to be using the information collected from you in a manner different from that stated at the time of collection. We will also post the changes in our privacy policy 30 days prior to a change, where practicable.
 
-If you have submitted personal information through our Web site or interactive advertisement, and would like that information deleted from our records or would like to update or correct that information, please [contact us.](https://web.archive.org/web/20060615061332id_/http%3A//internationaldelight.com/index.php?title=contact+us)
+If you have submitted personal information through our Web site or interactive advertisement, and would like that information deleted from our records or would like to update or correct that information, please [contact us](https://web.archive.org/web/20061013093800id_/http%3A//www.internationaldelight.com/contactus.php).
