@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618031728id_/http%3A//www.firebox.com/index.html%3Fdir%3Dadmin%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firebox.com privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013045724id_/http%3A//www.firebox.com/index.html%3Fdir%3Dadmin%26action%3Dprivacy) for the most accurate reproduction.*
 
 # Gadgets, games, boys toys & gift ideas from Firebox.com
+
+Firebox.com Plain English Privacy Policy.
 
 Firebox makes a commitment to protecting your privacy and promises only to use information collected about you in accordance with the Data Protection Act 1998.
 
@@ -31,10 +33,22 @@ Firebox makes a commitment to protecting your privacy and promises only to use i
 
 
 
-**Cookies**
+**Cookies - Firebox.com Website**
 
   * In Order to improve our service and firebox.com we may use a device known as a 'cookie'. Cookies are a means by which information relating to your Internet activity (such as whether you have visited firebox.com before) is recorded on your hard drive and used by us to improve firebox.com and the products and services available to you.
   * If you do not wish for us to use cookies when you use firebox.com please adjust your Internet browser settings to not accept cookies. Your computer's help file should tell you how to do this. 
+
+
+
+**Cookies - 3rd Party Ad Serving**
+
+  * We allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from our website. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorise our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you. 
+
+**Opting Out of Third-Party Ad Servers**  
+If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability). Currently we have relationships with the following third-party ad networks (click to visit their Web site):
+
+[24/7 Real Media, Inc.](http://www.247realmedia.com/privacy.html)
+
 
 
 
