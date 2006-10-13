@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banglacricket.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202340id_/http%3A//www.banglacricket.com/html/footer/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banglacricket.com privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013152713id_/http%3A//www.banglacricket.com/html/footer/privacy_policy.php) for the most accurate reproduction.*
 
 # BanglaCricket
 
@@ -22,5 +22,5 @@ BanglaCricket.com reserves the right to change this policy at any time. Please c
 
 ## How to Contact Us
 
-Should you have other questions or concerns about this privacy policy, please [contact us](https://web.archive.org/web/20060615202340id_/http%3A//www.banglacricket.com/html/footer/contact_us.php).  
+Should you have other questions or concerns about this privacy policy, please [contact us](https://web.archive.org/web/20061013152713id_/http%3A//www.banglacricket.com/html/footer/contact_us.php).  
 
