@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the gwn.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214115801id_/http%3A//www.gameworldindustries.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwn.com privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013071605id_/http%3A//www.gameworldindustries.com/privacy.php) for the most accurate reproduction.*
 
 # Gameworld Industries - privacy policy
 
-[Home](https://web.archive.org/) : Privacy Policy
-
 This privacy policy applies to the operations of all sites, brands and services provided by Gameworld Industries Pty Ltd.
 
-**Overall privacy statement**  
+ **Overall privacy statement**  
 Gameworld Industries takes your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated by Gameworld Industries, its partner, or affiliate.
 
 **1\. What personally identifiable information does Gameworld Industries collect?**  
@@ -78,9 +76,6 @@ Our network of sites is not directed to children under the age of 13\. We operat
 **Questions, comments**  
 Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information.
 
-[Click here](https://web.archive.org/web/20051214115801id_/http%3A//www.gameworldindustries.com/contact.html) to contact us regarding a privacy issue. Please include the site you are referring to in your e-mail to us. 
+[Click here](https://web.archive.org/web/20061013071605id_/http%3A//www.gameworldindustries.com/contact.php) to contact us regarding a privacy issue. Please include the site you are referring to in your e-mail to us. 
 
-Updated June 2003  
-
-
- 
+Updated June 2003
