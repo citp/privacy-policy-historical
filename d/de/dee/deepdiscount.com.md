@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepdiscount.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504171419id_/http%3A//deepdiscount.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepdiscount.com privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013115642id_/http%3A//www.deepdiscount.com/privacy) for the most accurate reproduction.*
 
 # deepdiscount.com
 
