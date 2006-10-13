@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the demon-tweeks.co.uk privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617191155id_/http%3A//www.demon-tweeks.co.uk/content/default.asp%3Fcategory_id%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demon-tweeks.co.uk privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013223243id_/http%3A//www.demon-tweeks.co.uk/content/default.asp%3Fcategory_id%3D37) for the most accurate reproduction.*
 
-# Professional Motorsport Equipment from Demon Tweeks
+# Demon Tweeks Motorsport, Motorcycle, Modifying, Parts and Accessories
 
 Privacy issues are very important to us, given the current regulatory and technical environment and we are commited to protecting your privacy.
 
