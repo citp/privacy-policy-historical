@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316201816id_/http%3A//www.lashowroom.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014203035id_/http%3A//www.lashowroom.com/privacy.htm) for the most accurate reproduction.*
 
 # LA Showroom - The Ultimate Online Fashion Marketplace
 
