@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurequest.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023304id_/http%3A//www.futurequest.net/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurequest.net privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014150520id_/http%3A//www.futurequest.net/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement - FutureQuest, Inc.
 
@@ -54,7 +54,7 @@ While FutureQuest uses SSL encryption to protect sensitive information online, w
 
 **Domain Search & Whois Utilities**
 
-FutureQuest, Inc. offers various [domain search](http://www.futurequest.net/cgi-bin/domain/wizard.pl "Domain Wizard"), whois, trace route, and ping utilities on our web sites solely as a convenience and troubleshooting tool for our clients and visitors. FutureQuest does not collect any information submitted through these scripts for our personal use or otherwise. 
+FutureQuest, Inc. offers various [domain search](https://secure.registerapi.com/order/register/check.php?siteid=1702 "Domain Wizard"), whois, trace route, and ping utilities on our web sites solely as a convenience and troubleshooting tool for our clients and visitors. FutureQuest does not collect any information submitted through these scripts for our personal use or otherwise. 
 
 **Log Files**
 
