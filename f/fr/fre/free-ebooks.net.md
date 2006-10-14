@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the free-ebooks.net privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616011956id_/http%3A//www.ebooksnbytes.com/yourprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-ebooks.net privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014061716id_/http%3A//www.free-ebooks.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement for eBooks N' Bytes
+# Privacy Statement
 
 ## Privacy Statement for eBooks N' Bytes
 
-eBooks N' Bytes has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: ebooksnbytes.com
+Paradise Publishers Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: ParadisePublishers.com
 
 ###   
 IP Address 
@@ -14,7 +14,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 ###   
 Information Collection 
 
-Paradise Publishers Inc is the sole owner of the information collected on ebooksnbytes.com. eBooks N' Bytes collects information from our users at several different points on our Web site, i.e. for membership registration, paid subscription publications and products or services. 
+Nicolas Gremion is the sole owner of the information collected on paradisepublishers.com. Paradise Publishers Inc. collects information from our users at several different points on our Web site, i.e. for membership registration, paid subscription publications and products or services. 
 
 We run contests on our site in which we ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -22,10 +22,10 @@ We run contests on our site in which we ask visitors for contact information (li
 Information Sharing 
 
 **Sharing Personal Information with Third Parties**  
-We will never sell or give away your personal information to third parties for purposes of building contact lists, or anything of that nature, without your permission. eBooks N' Bytes stands firmly against any transfer of personal information for reasons of building the contact lists of third parties. 
+We will never sell or give away your personal information to third parties for purposes of building contact lists, or anything of that nature, without your permission. Paradise Publishers Inc. stands firmly against any transfer of personal information for reasons of building the contact lists of third parties. 
 
 **Business Transition Exception**  
-In the event the eBooks N' Bytes goes through a business transition, such as a merger, or being acquired by another company, users’ personal information will, in most instances, be part of the assets transferred. We also use third party providers to accept credit cards and checks through Paysystems, 1Shoppingcart.com, Clickbank, and 2Checkout.com (each keeps your personal information separate, secure and confidential.)
+In the event the Paradise Publishers Inc. goes through a business transition, such as a merger, or being acquired by another company, users’ personal information will, in most instances, be part of the assets transferred. We also use third party providers to accept credit cards and checks through Paysystems, 1Shoppingcart.com, Clickbank, and 2Checkout.com (each keeps your personal information separate, secure and confidential.)
 
 ### Legal Disclaimer
 
@@ -42,20 +42,20 @@ Our site's registration form requires users to give us contact information (such
 ###   
 Children 
 
-eBooks N' Bytes does not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe eBooks N' Bytes has any information from or about anyone under 13, please contact us at the address listed below. 
+Paradise Publishers Inc. does not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Paradise Publishers has any information from or about anyone under 13, please contact us at the address listed below. 
 
 ###   
 Links 
 
-This site contains links to other sites. eBooks N' Bytes is not responsible for the privacy practices of such Web sites. eBooks N' Bytes is not responsible for any content on any linked sites or for any goods or services available from them. 
+This site contains links to other sites. Paradis Publishers Inc. is not responsible for the privacy practices of such Web sites. Paradise Publishers is not responsible for any content on any linked sites or for any goods or services available from them. 
 
-eBooks N' Bytes works hard to ensure that the information contained on our web pages is accurate, relevant and of the high quality that our visitors have come to expect. 
+Paradise Publishers Inc. works hard to ensure that the information contained on our web pages is accurate, relevant and of the high quality that our visitors have come to expect. 
 
 We are aware of software that exists which will create external links from our content to what they consider to be related material, which other companies have paid to have shown. We are not responsible for the quality of this software or the nature of the material that it links to. 
 
 We emphasize that we are strictly against this form of unmoderated and unregulated link advertising and strictly prohibit its use within our site content. 
 
-###  Public Forums 
+### Public Forums 
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
@@ -70,8 +70,8 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [info@paradisepublishers.com](mailto:info@paradisepublishers.com)
-  2. You can send mail to the following postal address:  Paradise Publishers Inc, 232 South Jefferson, Sheridan, WY, 82801 TELEPHONE: 604.628.7898
+  1. You can send email to [Info@ParadisePublishers.com](mailto:info@ParadisePublishers.com)
+  2. You can send mail to the following postal address:  Nicolas Gremion, CANADA, Tel : 604-6287898
 
 
 
@@ -81,49 +81,45 @@ This policy and the use of this Site are governed by British Columbian law. If a
 
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: British Columbia, Canada, under the rules of the BC Arbitration and Mediation Institute (BCAMI). Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
 
-eBooks N' Bytes is controlled, operated and administered entirely within British Columbia, Canada. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+Paradise Publishers is controlled, operated and administered entirely within British Columbia, Canada. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
 ## Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [info@paradisepublishers.com](mailto:info@paradisepublishers.com)
-  2. send mail to the following postal address:  Paradise Publishers Inc, 232 South Jefferson, Sheridan, WY, 82801 TELEPHONE: 604.628.7898 
+  1. email [Info@ParadisePublishers.com](mailto:info@ParadisePublishers.com)
+  2. send mail to the following postal address:  Nicolas Gremion, CANADA, Tel : 604-6287898
 
 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Paradise Publishers Inc,  
-232 South Jefferson,  
-Sheridan, WY, 82801.  
-TELEPHONE: 604.628.7898  [info@paradisepublishers.com](mailto:info@paradisepublishers.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  Nicolas Gremion CANADA Info@paradisepublishers.com 
 
-eBooks N' Bytes reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
+Paradise Publishers Inc. reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
-**Other sites in the eBooks N' Bytes Network that are governed by this privacy policy:**
+**Other sites in the Paradise Publishers Inc. Network that are governed by this privacy policy:**
 
-**[http://www.ebookcompilers.com](http://www.ebookcompilers.com/)**
+**<http://www.ebookcompilers.com/>**
 
-**[http://www.ebookcreate.com](http://www.ebookcreate.com/)**
+**<http://www.ebookcreate.com/>**
 
-**[http://www.ebook-reviews.net](http://www.ebook-reviews.net/)**
+**<http://www.ebook-reviews.net/>**
 
-**[http://www.ebookbroadcast.com](http://www.ebookbroadcast.com/)**
+**<http://www.ebookbroadcast.com/>**
 
-**[http://www.ebook-promotion.com](http://www.ebook-promotion.com/)**
+**<http://www.ebook-promotion.com/>**
 
-**[http://www.free-ebooks.net](http://www.free-ebooks.net/)**
+**<http://www.free-ebooks.net/>**
 
-**[http://www.ebook-templates.com](http://www.ebook-templates.com/)**
+**<http://www.ebook-templates.com/>**
 
-**[http://www.ebookpublishingtips.com](http://www.ebookpublishingtips.com/)**
+**<http://www.ebookpublishingtips.com/>**
 
-**[http://www.epublicdomain.com](http://www.epublicdomain.com/)**
+**<http://www.epublicdomain.com/>**
 
 * * *
 
-Site Network Maintained By Paradise Publishers Inc.   
-Paradise Publishers Inc, 232 South Jefferson, Sheridan, WY, 82801 TELEPHONE: 604.628.7898  
-Contact us at [info@paradisepublishers.com  
-](mailto:info@paradisepublishers.com)
+Site Network Maintained By [Paradise Publishers Inc.](http://www.paradisepublishers.com/)  
+Nicolas Gremion, Canada, Tel : 604-6287898  
+Contact us at [Info@ParadisePublishers.com](mailto:info@paradisepublishers.com)
