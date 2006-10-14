@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bill.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516003420id_/http%3A//www.bill.com/statements.jsp%3Ffile%3Dprivacy%26src%3Dweb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bill.com privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014075420id_/http%3A//www.bill.com/statements.jsp%3Ffile%3Dprivacy%26src%3Dweb) for the most accurate reproduction.*
 
 # CRM Software | Customer Relationship Management (CRM)
 
