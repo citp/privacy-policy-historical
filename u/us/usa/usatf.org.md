@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usatf.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615000702id_/http%3A//www.usatf.org/about/privacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatf.org privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015001216id_/http%3A//www.usatf.org/about/privacyStatement.asp) for the most accurate reproduction.*
 
 # USATF - Privacy Statement
 
@@ -18,7 +18,7 @@ Sections
 
 
 
-If you feel that we are not abiding by our posted privacy statement, you should first contact Keith Lively, Multimedia Communications Coordinator, at [Keith.Lively@usatf.org](mailto:Keith.Lively@usatf.org) or at (317) 713-4672. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Jill Pilgrim, General Counsel/Director of Business Affairs, at [Jill.Pilgrim@usatf.org](mailto:Jill.Pilgrim@usatf.org) or at (317) 713-4683.
+If you feel that we are not abiding by our posted privacy statement, you should first contact Keith Lively, Multimedia Manager, at [Keith.Lively@usatf.org](mailto:Keith.Lively@usatf.org) or at (317) 713-4672. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact Jill Pilgrim, General Counsel/Director of Business Affairs, at [Jill.Pilgrim@usatf.org](mailto:Jill.Pilgrim@usatf.org) or at (317) 713-4683.
 
 1\. The Organization Collecting the Information
 
@@ -140,10 +140,6 @@ If USATF changes its privacy policy, we will post a notice of the change on our 
 
   
 
-
-* * *
-
-* * *
 
 * * *
 
