@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasb.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616203750id_/http%3A//tasb.org/copyright/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasb.org privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014233644id_/http%3A//tasb.org/copyright/privacy.aspx) for the most accurate reproduction.*
 
 # TASB Overview: Privacy Policy
 
