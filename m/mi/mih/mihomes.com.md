@@ -1,10 +1,19 @@
-> *The following text is extracted and transformed from the mihomes.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419024936id_/http%3A//mihomes.com/private.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mihomes.com privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014175416id_/http%3A//mihomes.com/private.asp) for the most accurate reproduction.*
 
 # M/I Homes - mihomes.com Privacy Statement
 
 | [](https://web.archive.org/whymi.asp) |   
 ---|---  
-|  |  |   
+|  | [](https://web.archive.org/web/20061014175416id_/http%3A//mihomes.com/location.asp)  
+---  
+[](https://web.archive.org/web/20061014175416id_/http%3A//mihomes.com/whatsnew.asp)  
+[](https://web.archive.org/newsletterNew/index.asp)  
+[](http://www.miinsuranceagency.com/)  
+[](https://web.archive.org/warranty)  
+[](https://web.archive.org/web/20061014175416id_/http%3A//mihomes.com/survey.asp)  
+[](https://web.archive.org/web/20061014175416id_/http%3A//mihomes.com/investor.asp)  
+[](https://web.archive.org/careers)  
+|   
 ---  
 |  | 
 
