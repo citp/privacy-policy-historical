@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the editorsweblog.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615054146id_/http%3A//www.editorsweblog.org/2005/07/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editorsweblog.org privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014232844id_/http%3A//www.editorsweblog.org/2005/07/privacy_policy.php) for the most accurate reproduction.*
 
 # Editors Weblog - all postings
 
