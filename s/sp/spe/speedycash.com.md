@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedycash.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220083257id_/http%3A//www.speedycash.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedycash.com privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014114623id_/http%3A//speedycash.com/privacy.htm) for the most accurate reproduction.*
 
 # Speedy Cash® & Rapid Cash : Privacy Policy
 
