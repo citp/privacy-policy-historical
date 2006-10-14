@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225063949id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2006-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061014211320id_/http%3A//www.media-match.com/privacy.php) for the most accurate reproduction.*
 
 # media-match | directory of film and tv jobs in us
 
@@ -6,31 +6,32 @@
 
 [](http://www.media-match.com/welcome.php)
 
-| [Salvesen Productions](http://www.media-match.com/edirectory_view.php?uid=663124)  
+| [AV Installation Engineer](http://www.media-match.com/jobsboard_detail.php?job_uid=567371&)  
 ---  
-Grandslam Productions  
-Solis Creative Service...  
-NGTV  
-Blackstar Independent  
-Confidential  
-Seelinger Productions  
-Entrevation Productions  
-Ny Based TV Production...  
-Character Driven X-Spo...  
-[companies registered: 11,342](http://www.media-match.com/edirectory_search.php)  
+[AV Technology Manager](http://www.media-match.com/jobsboard_detail.php?job_uid=567370&)  
+[Director of Acquisitions](http://www.media-match.com/jobsboard_detail.php?job_uid=567369&)  
+[Director, Online Data ...](http://www.media-match.com/jobsboard_detail.php?job_uid=567368&)  
+[Production Associate](http://www.media-match.com/jobsboard_detail.php?job_uid=567367&)  
+[Cinema 4D and After Ef...](http://www.media-match.com/jobsboard_detail.php?job_uid=567366&)  
+[Production Mgr, Spec. ...](http://www.media-match.com/jobsboard_detail.php?job_uid=567365&)  
+[Casting Field Producer...](http://www.media-match.com/jobsboard_detail.php?job_uid=567364&)  
+[1st A.C. and Camera Op...](http://www.media-match.com/jobsboard_detail.php?job_uid=567363&)  
+[Director of Photography](http://www.media-match.com/jobsboard_detail.php?job_uid=567362&)  
+[...297 on jobsboard now!](http://www.media-match.com/jobsboard.php "view jobs")  
+[370 posted in last 30 days](http://www.media-match.com/jobsboard.php "view jobs")  
   
-[Writer/Producer](http://www.media-match.com/jobsboard_detail.php?job_uid=552343&)  
+Manning Productions  
 ---  
-[Assistant to Editor/Gr...](http://www.media-match.com/jobsboard_detail.php?job_uid=552342&)  
-[Assistant Equipment Ma...](http://www.media-match.com/jobsboard_detail.php?job_uid=552341&)  
-[Editor - Docu/Reality](http://www.media-match.com/jobsboard_detail.php?job_uid=552140&)  
-[carpenter / welder](http://www.media-match.com/jobsboard_detail.php?job_uid=552338&)  
-[Documentary Editor - Fcp](http://www.media-match.com/jobsboard_detail.php?job_uid=552311&)  
-[editor/producer](http://www.media-match.com/jobsboard_detail.php?job_uid=552316&)  
-[Office Coordinator/It ...](http://www.media-match.com/jobsboard_detail.php?job_uid=552313&)  
-[Editors](http://www.media-match.com/jobsboard_detail.php?job_uid=552318&)  
-[Audio Mixers](http://www.media-match.com/jobsboard_detail.php?job_uid=552306&)  
-[more...](http://www.media-match.com/jobsboard.php)  
+Bruce Parks on Line  
+[A Pig and Duck Go Shop...](http://www.media-match.com/edirectory_view.php?uid=647622)  
+Panoram Technologies  
+Current TV  
+Voom HD/Rainbow Media  
+The Montel Williams Show  
+RDF USA  
+Smart Productions  
+Half Yard Productions  
+[companies registered: 14,406](http://www.media-match.com/edirectory_search.php)  
  
 
 |  
@@ -48,7 +49,7 @@ Some of the materials included on this Web site, including advertising, are serv
 In addition to the options made available to you, if any, when we collect information, you may elect to 'opt out' of having your individually identifiable information shared with third-parties that are not affiliated with media-match. Third-party opt out request must be submitted in writing to our support staff at the following address:
 
 Attention : Privacy Manager  
-Address : Interbase USA, 714 Nth La Brea, Los Angeles, CA 90038  
+Address : media-match, 714 Nth La Brea, Los Angeles, CA 90038  
 
 Registered users of the media-match site who choose to opt out will have their details remove from all media-match lists and access correspondingly terminated.
 
@@ -56,17 +57,7 @@ We will update the specific records related to your request as promptly as pract
 
 If you have any difficulties using this site please [contact us](mailto:info@media-match.com) on 323 932 7885
 
-A part of the [interbase usa](http://www.interbaseusa.com/) network, all use subject to [Terms](http://www.media-match.com/disclaimer.php). [Privacy Policy](http://www.media-match.com/privacy.php).  
+Media-Match US Ltd, all use subject to [Terms](http://www.media-match.com/disclaimer.php). [Privacy Policy](http://www.media-match.com/privacy.php).  
 | [film & tv](http://www.media-match.com/) | [music](http://www.music-jobs.com/) | [journalism](http://www.journalistusa.com/) | [marketing](http://www.marketing-match.com/) | [photography](http://www.photography-match.com/) | [interactive entertainment](http://www.games-match.com/) |
 
-|  |  
-
-[](http://us.castingcallpro.com/index.php?affid=1112)
-
-[](http://www.beonscreen.com/banners_in.asp?bannerID=1)
-
-[](http://www.mediaxchange.com/newsletter/index.html)
-
-[](http://us.music-jobs.com/index.php?affid=1112)
-
-| 
+|  |   [](http://www.media-match.com/gadvert_link.php?uid=163) [](http://www.media-match.com/gadvert_link.php?uid=160) [](http://www.media-match.com/gadvert_link.php?uid=162) | 
