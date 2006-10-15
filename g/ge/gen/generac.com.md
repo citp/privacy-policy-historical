@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generac.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211857id_/http%3A//generac.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generac.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016011512id_/http%3A//www.generac.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Generac Power Systems - Privacy Statement
 
