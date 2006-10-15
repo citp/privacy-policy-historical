@@ -1,9 +1,42 @@
-> *The following text is extracted and transformed from the aesoponline.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616183503id_/http%3A//www.frontlineplacement.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aesoponline.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015182604id_/http%3A//www.frontlineplacement.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Frontline Placement Technologies - Automated Replacement Technology
 
+October
+
+  *  PANC
+  * 4-6 MOASPA
+  * 4-6 COASBO
+  * 8-10 COASPA
+  * 11-13 LSASPA
+  * 13-16 ASBO
+  * 15-17 NYASPA
+  * 18-20 AASPA
+  * 25-27 AWSA
+
+
+
+November
+
+  * 10/30-11/1 AAEA
+  * 1-3 FASPA
+  * 1-3 ASPAA
+  * 7-10 ASA
+  * 14-17 TASBO
+  * 17-19 IASBO
+
+
+
+December
+
+  * 11/30-12/1 MSBO
+  * 6-8 GASPA
+  * 6-8 TASPA
+
+
+
   
-[](https://web.archive.org/web/20060616183503id_/http%3A//www.frontlineplacement.com/press/Patent_151_Press_Release.pdf) | 
+[](https://web.archive.org/web/20061015182604id_/http%3A//www.frontlineplacement.com/press/Patent_151_Press_Release.pdf) | 
 
 Privacy Policy 
 
