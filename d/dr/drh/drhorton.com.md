@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drhorton.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307120825id_/http%3A//www.drhorton.com/corp/index.jsp%3Fredirect%3DdiscPrivDef) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drhorton.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015183201id_/http%3A//www.drhorton.com/corp/index.jsp%3Fredirect%3DdiscPrivDef) for the most accurate reproduction.*
 
 # D.R.Horton - America's Builder
 
@@ -21,7 +21,7 @@ If you do complete one of the information forms, send us an e-mail, or use other
 
 |  | 
 
-Copyright ©2001 - 2005 D.R. Horton, Inc. All Rights Reserved. [Terms and Conditions](http://www.drhorton.com/corp/index.jsp?redirect=discTermDef) | [Privacy Policy](http://www.drhorton.com/corp/index.jsp?redirect=discPrivDef) D.R. Horton, Inc. These materials may not be copied for commercial use or distribution and may not be framed or posted on other sites.  
+Copyright ©2001 - 2006 D.R. Horton, Inc. All Rights Reserved. [Terms and Conditions](http://www.drhorton.com/corp/index.jsp?redirect=discTermDef) | [Privacy Policy](http://www.drhorton.com/corp/index.jsp?redirect=discPrivDef) D.R. Horton, Inc. These materials may not be copied for commercial use or distribution and may not be framed or posted on other sites.  
   
 ---|---  
   
