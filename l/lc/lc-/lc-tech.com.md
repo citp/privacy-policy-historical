@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lc-tech.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622010939id_/http%3A//lc-tech.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lc-tech.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015213654id_/http%3A//www.lc-tech.com/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
