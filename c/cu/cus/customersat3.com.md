@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customersat3.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616025521id_/http%3A//www.customersat.com/System_Features/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customersat3.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015154035id_/http%3A//customersat.com/System_Features/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,8 +54,10 @@ CustomerSat is serious about security. CustomerSat uses industry standard securi
 
 ## Contact us
 
-If you have any questions or comments on CustomerSat’s privacy policy you can email: [privacy@customersat.com](mailto:privacy@customersat.com) or you can write to CustomerSat Inc., 500 Ellis Street, Mountain View, CA 94043.
+If you have any questions or comments on CustomerSat’s privacy policy you can email: [privacy@customersat.com](mailto:privacy@customersat.com) or you can write to CustomerSat Inc., 500 Ellis Street, Mountain View, CA 94043. 
 
-## [Terms of Use](https://web.archive.org/web/20060616025521id_/http%3A//www.customersat.com/System_Features/termsofuse.asp)
+**This policy was last reviewed in January, 2006.**
 
-[](https://web.archive.org/web/20060616025521id_/http%3A//www.customersat.com/System_Features/security.asp)
+## [Terms of Use](https://web.archive.org/web/20061015154035id_/http%3A//customersat.com/System_Features/termsofuse.asp)
+
+[](https://web.archive.org/web/20061015154035id_/http%3A//customersat.com/System_Features/security.asp)
