@@ -1,73 +1,123 @@
-> *The following text is extracted and transformed from the iberiabank.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506142307id_/http%3A//iberiabank.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iberiabank.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/privacy.cfm) for the most accurate reproduction.*
 
 # IBERIABANK
 
-Protecting the confidentiality of the personal information that you entrust to us is one of our fundamental responsibilities and we take it very seriously. We have developed this Privacy Policy to tell you about how that personal information about you is collected, used and kept secure. We will send you this Policy every year to help you better understand our practices and policies. This Policy applies to all the members of the IBERIABANK family of companies (the Bank and its affiliates):
+[](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/default.cfm)
 
-  * IBERIABANK Corporation 
-  * IBERIABANK 
-  * Iberia Financial Services, L.L.C. 
-  * IBERIABANK Insurance Services, L.L.C. 
-  * Jefferson Insurance Corporation 
-  * Finesco, L.L.C. 
-  * Acadiana Holdings, L.L.C. 
+Sunday, October 15, 2006
 
+##  Merger News 
 
+IBERIABANK Announces Merger Agreements With [Pulaski Investment Corporation](http://www.iberiabank.com/irPressRelease.cfm?releaseID=893909) and [Pocahontas Bancorp, Inc.](http://www.iberiabank.com/irPressRelease.cfm?releaseID=888385)
 
-### Confidentiality
+##  Easy Switch Kit 
 
-We restrict access to nonpublic personal information about you to those associates who need access in the course of doing business and/or to provide you with the products or services you need.
+Click for our [Easy Switch Kit](http://www.iberiabank.com/pdfs/pdfLibrary/Switchkitonline.pdf).
 
-### Security
+##  [ Location! Location! Location! ](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/news.cfm?selNewsItem=1008)
 
-We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+IBERIABANK is expanding quickly throughout Louisiana.
 
-### Personal Information
-
-We collect nonpublic personal information about you from the following sources:
-
-  * Financial service providers, such as mortgage brokers and insurance agents; 
-  * Non-financial companies such as direct marketers; and 
-  * Others, such as nonprofit organizations. 
+  * [Reorder Checks Online](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/checkReorder.cfm)
+  * [Learn More About Online Banking](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/onlineFeatures.cfm)
+  * Deluxe Gift Card
 
 
 
-We may also disclose nonpublic personal information about you to nonaffiliated third parties as permitted by law. 
+Facts | 
 
-### Information Inside Our Affiliates
+### **WHAT DOES IBERIABANK DO WITH YOUR PERSONAL INFORMATION?**  
+  
+---|---  
+Why? | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+---|---  
+What? | 
 
-We are permitted to share among our affiliates the information about your specific accounts within our family of companies such as your account balance and payment history ("Experience Information"). We may also share among our affiliates additional information regarding your credit eligibility, such as information received on applications we receive from you and information received from credit reporting agencies ("Additional Information").
+The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
-### Internet Privacy
+  * social security number and income 
+  * account balances and payment history 
+  * credit history and credit scores 
 
-We may use "cookies" on some pages of our Web site for the purpose of serving you better when you return to that site. (A cookie is a small element of data that a Web site can send to your browser and is stored on your system.) Data collected from cookies helps us determine how many people visit our site, enabling us to improve the design and content. Information about you that we collect through the use of "cookies" is subject to this Policy. If you prefer, your Web browser can be set to provide you with a notice before you accept a cookie. Information about you that we collect through the use of "cookies" is subject to the policies and practices described in this notice. 
+When you close your account, we continue to share information about you according to our policies.   
+---|---  
+How? | All financial companies need to share customers’ personal information to run their everyday business - to process transactions, maintain customer accounts, and report to credit bureaus. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons IBERIABANK chooses to share; and whether you can limit this sharing.   
+---|---  
+**Reasons we can share your personal information** | **Does IBERIABANK share?** | **Can you limit this sharing?**  
+---|---|---  
+**For our everyday business purposes –** to process your transactions, maintain your account, and report to credit bureaus | Yes | No  
+**For our marketing purposes** – to offer our products and services to you  | Yes | No  
+**For joint marketing with other financial companies** | Yes | No  
+**For our affiliates’ everyday business purposes** – information about your transactions and experiences  | Yes | No  
+**For affiliates to market to you** | Yes | No  
+**For our affiliates’ everyday business purposes –** information about your creditworthiness or from your applications with us | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf)  
+**For non-affiliates to market to you** | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf)  
+**Sharing practices**  
+---  
+**How often does IBERIABANK notify me about their practices?** | We must notify you about our sharing practices when you open an account and each year while you are a customer.   
+**How does IBERIABANK protect my personal information?** | We restrict access to nonpublic personal information about you to those employees who need access in the course of doing business and/or to provide you with the products or services you need. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.   
+**How does IBERIABANK collect my personal information?** | 
 
-If you visit our site to browse, or to read or download information like consumer brochures or press releases: 
+We collect your nonpublic personal information about you from the following sources:
 
-We collect and store: the name of the domain and host from which you access the Internet (for example, aol.com or princeton.edu); the Internet Protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. 
+  * Information we receive from you on forms when you request a product or service;
+  * Information about your transactions with us, our affiliates, or others;
+  * Information we receive from consumer reporting agencies; and,
 
-We use this information to measure the number of visitors to the different sections of our site, and to help us make our site more useful. Generally, we delete this information after one year. 
+Information collected by the use of “cookies” on some of our web pages. We use cookies to determine how many people visit our site which enables us to improve the design and content. Information that we collect through the use of cookies is subject to this Policy.  
+**Why can’t I limit all sharing?** | 
 
-Here's what you should know about the security of the information you provide to us: 
+Federal law gives you the right to limit sharing only for 
 
-We use secure socket layer (SSL) encryption to protect the transmission of information you submit to us when you use our secure online forms. All the information you provide us through these forms is stored securely offline.   If you send us an email, you should know that email is not necessarily secure against interception. So, if your communication includes sensitive information like your bank account, charge card, or social security number, and you prefer not to use one of our secure online complaint forms, contact us by postal mail or telephone rather than email. 
+  * affiliates’ everyday business purposes-information about your creditworthiness 
+  * non-affiliates to market to you 
 
-Links to other websites from www.iberiabank.com: 
+State laws and individual companies may give you additional rights to limit sharing.   
+**Definitions**  
+**Everyday business purposes** | 
 
-This website links to documents located on websites maintained by various federal agencies or other organizations. Once you access an individual document that links you to another website, you are subject to the privacy policy of the website containing that document. 
+The actions necessary by financial companies to run their business and manage customer accounts, such as
 
-### Accounts
+  * processing transactions, mailing, and auditing services
+  * providing information to credit bureaus 
+  * responding to court orders and legal investigations 
 
-JOINT - If you have a joint account with us, your instruction on the form below will apply to all joint account holders on your account with respect to that account.  Also, if you have more than one account with us, your instruction on the attached form will apply to all individual and joint accounts with any affiliate. Any joint account holder may use this form. CLOSED - If your account is closed, we will continue to follow this Policy.
+  
+**Affiliates** | 
 
-### Your Rights
+Companies related by common ownership or control. This Policy applies to all of the members of the IBERIABANK family of companies: 
 
- _FIRST_ , you can limit how we share nonpublic personal information about you with nonaffiliated third parties outside the Bank and its affiliates. If you prefer to limit disclosure of nonpublic personal information about you then you can "opt out" by notifying us to limit disclosure. **As a client, if you have not already done so and wish to opt out, you must complete the form at the bottom of this page and mail it to the address shown on the form.   **
+  * _IBERIABANK Corporation_
+  * _IBERIABANK_
+  * _Iberia Financial Services, L.L.C._
+  * _Iberiabank Insurance Services, L.L.C._
+  * _Jefferson Insurance Corporation_
+  * _Finesco, L.L.C._
+  * _Acadiana Holdings, L.L.C._
 
- _SECOND_ , you can limit how we share Additional Information about you among our affiliates. If you prefer to limit how we share that Additional Information about you, then you can "opt out" by notifying us to limit disclosure. **As a client, if you have not already done so and wish to opt out of the sharing of Additional Information, you must complete the form at the bottom of this page and mail it to the address shown on the form.  **
+  
+**Non-affiliates** | 
 
- **Remember,** even if you send us this form, some disclosures are still authorized by law. You cannot opt out of those. 
+Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
 
-[Click here for Privacy Policy Client Opt Out form in Acrobat (PDF)](https://web.archive.org/web/20060506142307id_/http%3A//iberiabank.com/pdfs/privacyOptOut.pdf)
+  * _Non-affiliates we share with can include mortgage companies, insurance companies, direct marketing companies, and nonprofit organizations._
 
-__Client Opt Out form requires Adobe Acrobat Reader. Click here to download Adobe Reader.__
+  
+**Joint marketing** | 
+
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
+
+  * _Our joint marketing partners include reputable companies for the purposes of informing you about products and/or services they offer. Our partners may be financial service providers, direct marketing firms or other companies such as non-profit organizations._
+
+  
+**Sharing practices**  
+**Contact us** | 
+
+**By mail:**[Print this mail-in form](https://web.archive.org/web/20061015205101id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/PrivacyMailForm.pdf) (PDF), mark your choices, fill in and send form to: 
+
+Customer Privacy Control Desk  
+IBERIABANK  
+P.O. Box 12440  
+New Iberia, LA 70562-2440  
+  
+Member **FDIC** | Equal Housing Lender
