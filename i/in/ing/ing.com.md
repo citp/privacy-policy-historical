@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ing.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315051318id_/http%3A//www.ing.com/group/showdoc.jsp%3Fdocid%3D095075_EN%26menopt%3Dabo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ing.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015210536id_/http%3A//www.ing.com/group/showdoc.jsp%3Fdocid%3D095075_EN%26menopt%3Dabo) for the most accurate reproduction.*
 
-# Privacy statement - ING.com
+# Privacy statement - - ING.com
 
 ING will do its best to ensure that the processing of your personal data is carried out in such a way that your privacy is protected and safeguarded as much as possible. ING only collects your personal data to the extent that they are necessary to provide you with our services, for the development of web statistics and to comply with mandatory requirements. 
 
@@ -14,6 +14,6 @@ This Privacy Statement may be modified from time to time to comply with applicab
 
 If you have any questions about this Privacy Statement or our data processing activities, you can 
 
-_[contact us](https://web.archive.org/web/20060315051318id_/http%3A//www.ing.com/group/coupon.jsp?cp=cpContactUS)_
+_[contact us](https://web.archive.org/web/20061015210536id_/http%3A//www.ing.com/group/coupon.jsp?cp=cpContactUS)_
 
 via this website.
