@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oreck.com privacy policy that was archived on 2006-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060406072722id_/http%3A//oreck.com/customer-service/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oreck.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015172004id_/http%3A//oreck.com/customer-service/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Shopping at Oreck.com is safe and easy - we protect your privacy.
 
