@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the valueoptions.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615163917id_/http%3A//valueoptions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueoptions.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016013813id_/http%3A//www.valueoptions.com/privacy.htm) for the most accurate reproduction.*
 
 # Value Options
 
   
 This Web site offered by ValueOptions, Inc. (the "ValueOptions site") is designed to help you learn more about getting help with life issues that are sensitive, emotional and often private. We respect your personal privacy and provide this informational statement so that you may better understand how we may collect and use aggregate and personal information about you. This Privacy Statement describes ValueOptions privacy and security practices for this Web site. 
 
-[ValueOptions Notice of Privacy Practices](https://web.archive.org/web/20060615163917id_/http%3A//valueoptions.com/privacy/Privacy_Rules_for_VO.pdf) [(Español)](https://web.archive.org/web/20060615163917id_/http%3A//valueoptions.com/privacy/Spanish_Privacy_Rules_for_VO.pdf)
+[ValueOptions Notice of Privacy Practices](https://web.archive.org/web/20061016013813id_/http%3A//www.valueoptions.com/privacy/Privacy_Rules_for_VO.pdf)  
+[ValueOptions Notice of Privacy Practices (Español)](https://web.archive.org/web/20061016013813id_/http%3A//www.valueoptions.com/privacy/Spanish_Privacy_Rules_for_VO.pdf)
 
 **Your Acceptance of These Terms  
 **By using this site, you signify your acceptance of the terms of the ValueOptions Privacy Statement. If you do not agree to the terms of this Privacy Statement, please do not use the ValueOptions site and exit the site immediately. Your continued use of the ValueOptions site following the posting of changes to these terms will mean that you accept those changes. 
