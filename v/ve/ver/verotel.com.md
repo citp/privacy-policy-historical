@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verotel.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320230303id_/http%3A//www.verotel.com/p02000-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verotel.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015171542id_/http%3A//www.verotel.com/p02000-en.html) for the most accurate reproduction.*
 
 # Verotel "Putting Trust in Global Payments" · Accept Credit Cards · Accept Checks · 1-900 Billing · Direct Debit · SMS Billing · Asian Cards
 
