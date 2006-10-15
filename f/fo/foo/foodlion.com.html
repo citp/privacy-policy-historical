@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the foodlion.com privacy policy that was archived on 2006-03-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060311234735id_/http%3A//www.foodlion.com/PrivacyStatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foodlion.com privacy policy that was archived on 2006-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061015164853id_/http%3A//www.foodlion.com/PrivacyStatement.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Statement - foodlion.com</title>
@@ -12,8 +12,77 @@
 <script>
 window.name='fl_main'; 
 </script>
+<!-- Image Fade Rotator Start -->
+<script>
+// ==============================
+// Set the following variables...
+// ==============================
+
+// Set the slideshow speed (in milliseconds)
+var SlideShowSpeed = 3000;
+
+// Set the duration of crossfade (in seconds)
+var CrossFadeDuration = 3;
+
+var Picture = new Array(); // don't change this
+var Caption = new Array(); // don't change this
+
+// Specify the image files...
+// To add more images, just continue
+// the pattern, adding to the array below.
+// To use fewer images, remove lines
+// starting at the end of the Picture array.
+// Caution: The number of Pictures *must*
+// equal the number of Captions!
+
+Picture[1]  = 'images/toaster3.jpg';
+Picture[2]  = 'images/lunchbox-small.jpg';
+
+
+
+// Specify the Captions...
+// To add more captions, just continue
+// the pattern, adding to the array below.
+// To use fewer captions, remove lines
+// starting at the end of the Caption array.
+// Caution: The number of Captions *must*
+// equal the number of Pictures!
+
+Caption[1]  = "<a href='/promotions/Breakfast/default.htm' target='_blank'>Breakfast Savings</a>";
+Caption[2]  = "<a href='web-coupons/lunchbox.asp'>Lunch Box of Savings</a>";
+Caption
+
+// =====================================
+// Do not edit anything below this line!
+// =====================================
+
+var tss;
+var iss;
+var jss = 1;
+var pss = Picture.length-1;
+
+var preLoad = new Array();
+for (iss = 1; iss < pss+1; iss++){
+preLoad[iss] = new Image();
+preLoad[iss].src = Picture[iss];}
+
+function runSlideShow(){
+if (document.all){
+document.images.PictureBox.style.filter="blendTrans(duration=2)";
+document.images.PictureBox.style.filter="blendTrans(duration=CrossFadeDuration)";
+document.images.PictureBox.filters.blendTrans.Apply();}
+document.images.PictureBox.src = preLoad[jss].src;
+if (document.getElementById) document.getElementById("CaptionBox").innerHTML= Caption[jss];
+if (document.all) document.images.PictureBox.filters.blendTrans.Play();
+jss = jss + 1;
+if (jss > (pss)) jss=1;
+tss = setTimeout('runSlideShow()', SlideShowSpeed);
+}
+
+</script>
+<!-- Image Fade Rotator End -->
 </head>
-<body stats="1" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#0071af" alink="#0071af" vlink="#0071af" id="bdy">
+<body onload="runSlideShow()" stats="1" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#0071af" alink="#0071af" vlink="#0071af" id="bdy">
 <script language="javascript">
 <!-- Comment out for old browsers
 
@@ -77,7 +146,7 @@ else
 }
 
 // -->
-</script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://stats.foodlion.com/dm.gif?v=86&amp;vst=1&amp;id=&amp;url=https%3A//web.archive.org/web/20060311234735id_/http%253A//www.foodlion.com/PrivacyStatement.asp&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1580388166934" height="1" width="1"></div>
+</script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://stats.foodlion.com/dm.gif?v=86&amp;vst=1&amp;id=&amp;url=https%3A//web.archive.org/web/20061015164853id_/http%253A//www.foodlion.com/PrivacyStatement.asp&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1580388165759" height="1" width="1"></div>
 
 <!-- Banner - Logo - Auxillary Nav -->
 
@@ -92,7 +161,7 @@ else
 		<td width="460" height="15" align="right" class="flblue" style="font-size:8pt;">
 		
 <!-- Auxillary Nav -->
-		<a href="/" class="aux">Home</a> | <a href="/GiftCards.asp" class="aux">Gift Cards</a> | <a href="/AboutFoodLion.asp" class="aux">About Food Lion</a> | <a href="/News.asp" class="aux">News</a> | <a href="/Vendors.asp" class="aux">Vendors</a> | <a href="/Associates.asp" class="aux">Associates</a>
+		<a href="/" class="aux">Home</a> | <a href="/GiftCards.asp" class="aux">Gift Cards</a> | <a href="/AboutFoodLion.asp" class="aux">About Food Lion</a> | <a href="/apps/FoodLionNews" class="aux">News</a> | <a href="/Vendors.asp" class="aux">Vendors</a> | <a href="/Associates.asp" class="aux">Associates</a>
 		
 		</td>
 	</tr>
@@ -111,7 +180,7 @@ else
 <!-- Navigation Tabs -->
 			<table width="330" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-					<td><a href="/StoreLocator.asp"><img src="/images/navtab01.gif" width="94" height="20" alt="Store Locator" border="0"></a></td>
+					<td><a href="/apps/StoreLocator/"><img src="/images/navtab01.gif" width="94" height="20" alt="Store Locator" border="0"></a></td>
 					<td><a href="/Employment"><img src="/images/navtab02.gif" width="80" height="20" alt="Employment" border="0"></a></td>
 					<td><a href="/FAQs.asp"><img src="/images/navtab03.gif" width="57" height="20" alt="Frequently Asked Questions" border="0"></a></td>
 					<td><a href="/CustomerService/"><img src="/images/navtab04.gif" width="109" height="20" alt="Customer Service" border="0"></a></td>
@@ -160,7 +229,7 @@ else
 				<tr>
 					<td class="">
 					<a href="/redirect/redirect_apps.asp?type=mvpcard" class="sidenav">MVP Card</a><br>
-					<a href="/redirect/redirect_apps.asp?type=newsletter" class="sidenav">Newsletter Subscription</a><br>
+					<a href="/redirect/redirect_apps.asp?type=newsletter" class="sidenav">Shoppers' Companion</a><br>
 					<img src="/images/1x1.gif" width="157" height="3" alt=""><br>
 					</td>
 				</tr>
@@ -172,9 +241,12 @@ else
 				</tr>
 				<tr>
 					<td class="">
-					<a href="/MealsRecipes/MVPRecipe.asp" class="sidenav">MVP Recipe of the Week</a><br>
-					  
-					<a href="/MealsRecipes/MVPRecipeArchive.asp" class="sidenav">Recipe Archive</a><br>
+					<!-- <a href="/MealsRecipes/MVPRecipe.asp" class="sidenav">MVP Recipe of the Week</a><br> -->
+					
+					
+					<!-- 7/14/06 Eric Phillips: Changed Recipe Archive to Recipe Search
+					and linked to Adplex database per Steve's request.-->  
+					<a href="/redirect/redirect_MVPRecipe.asp" class="sidenav">Recipe Finder</a><br>
 					<!-- <a href="/MealsRecipes/Recipes.asp" class="sidenav">Recipe Search</a><br> -->
 					<a href="/ButchersBrand/ButchersBrand.asp" target="_blank" class="sidenav">Meat Department</a><br>
 					<a href="/MealsRecipes/DeliOfferings.asp" class="sidenav">Party Platters</a><br>
@@ -191,7 +263,9 @@ else
 				</tr>
 				<tr>
 					<td class="">
+					<a href="/TheGoodLife/BabyClub/BabyStep1.asp" class="sidenav" target="baby">Baby Steps</a><br>
 					<a href="http://ftdfloristsonline.com/foodlion/" class="sidenav" target="floral">Floral Ordering</a><br>
+					<a href="/TheGoodLife/NaturesPlace.asp" target="organic" class="sidenav">Nature's Place</a><br>
 					<a href="/TheGoodLife/WineCorner.asp" class="sidenav">Wine Corner</a><br>
 					
 					<img src="/images/1x1.gif" width="157" height="3" alt=""><br>
@@ -200,7 +274,7 @@ else
 				<tr>
 					<td>
 					<img src="/images/blueline.gif" width="157" height="1" alt=""><br>
-					<a href="/WhatsNew/"><img src="/images/nav_whatsnew.gif" width="157" height="28" alt="What's New" border="0"></a><br>
+					<a href="/WhatsFresh/"><img src="/images/nav_whatsfresh.gif" width="157" height="28" alt="What's Fresh" border="0"></a><br>
 					</td>
 				</tr>
 				<tr>
@@ -216,7 +290,6 @@ else
 										
 					<a href="/IntheCommunity/CommunityPartners/default.asp" class="sidenav">Community Partners</a><br>
 					<a href="/IntheCommunity/TasteFLTour.asp" class="sidenav">Taste of Food Lion Tour</a><br>
-					<a href="/IntheCommunity/CIAA2006.asp" class="sidenav">Sweepstakes</a><br>
 					<img src="/images/1x1.gif" width="157" height="3" alt=""><br>
 					</td>
 				</tr>
