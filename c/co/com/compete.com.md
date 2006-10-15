@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511185248id_/http%3A//compete.com/privacy.xtp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015153326id_/http%3A//compete.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Compete, Inc.
-
-  
-
+# About Us: Clients - Compete, Inc.
 
 Compete, Inc. is committed to protecting the privacy of Internet users. Compete, Inc. will not license, publish, or sell any information that can be tied to an individual Internet user that it receives from its data providers. 
 
