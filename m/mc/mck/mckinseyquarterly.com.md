@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mckinseyquarterly.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319192607id_/http%3A//www.mckinseyquarterly.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckinseyquarterly.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015125737id_/http%3A//www.mckinseyquarterly.com/privacy.aspx) for the most accurate reproduction.*
 
 # The McKinsey Quarterly: Privacy Policy
 
@@ -36,7 +36,11 @@ Cookies are used to track visitors to our Site so we can better understand what 
 
 To administer our Web site and for research purposes, _The McKinsey Quarterly_ has contracted with a third party to track and analyze anonymous usage and volume statistical information from our visitors and members. All data collected by this third party on behalf of _The McKinsey Quarterly_ are owned and used solely by or on behalf of McKinsey & Company, Inc. Such information is shared externally only on an anonymous, aggregated basis.
 
-This third party uses persistent cookies that only it can read and use in order to help track visitor behavior. On behalf of _The McKinsey Quarterly_ , the third party sets cookies, which will be listed under the domain 2O7.net. It also uses clear gifs, aka Web Beacons: tiny graphics with a unique identifier, similar in function to cookies. Clear gifs, which are not tied to the users' personally identifiable information, help us improve the visitor experience, manage our site content, and track visitor behavior.
+This third party uses persistent cookies to help track visitor behavior. On behalf of _The McKinsey Quarterly_ , the third party sets these cookies, which will be listed under the domains o.mckinseyquarterly.com and os.mckinseyquarterly.com. In addition, the third party uses clear gifs, also known as "Web beacons": tiny graphics, with a unique identifier, that are similar in function to cookies. These clear gifs, which are not tied to the user's personally identifiable information, help us to improve the visitor experience, to manage our site content, and to track visitor behavior. 
+
+_The McKinsey Quarterly_ has also contracted with a third party to place advertisements for the _Quarterly_ on other Web sites. To help measure the effectiveness of our advertising, the third party uses clear gifs, which are not tied to the user's personally identifiable information. All data collected by this third party on behalf of _The McKinsey Quarterly_ are owned and used solely by or on behalf of McKinsey & Company, Inc. Such information is shared externally only on an anonymous, aggregated basis.
+
+In addition, _The McKinsey Quarterly_ has contracted with a third party to send e-mail to our registered members. To help measure and improve the effectiveness of our e-mail communications, the third party sets cookies (which will be listed under the domain e.mckinseyquarterly.com), as well as clear gifs. All data collected by this third party on behalf of _The McKinsey Quarterly_ are owned and used solely by or on behalf of McKinsey & Company, Inc. Such information is shared externally only on an anonymous, aggregated basis.
 
 #### Transaction Information
 
