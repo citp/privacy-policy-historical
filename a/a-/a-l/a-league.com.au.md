@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-league.com.au privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618191506id_/http%3A//www.a-league.com.au/%3Fs%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-league.com.au privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015202746id_/http%3A//a-league.com.au/%3Fs%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Hyundai A-League > Privacy Policy
 
