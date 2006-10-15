@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jlconline.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224120538id_/http%3A//www.jlconline.com/cgi-bin/jlconline.filereader%3F434e08d0000dba1427177f000001053f%2BEN/userpages/20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlconline.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015154934id_/http%3A//www.jlconline.com/cgi-bin/jlconline.filereader%3F45324851000ff30527177f0000010506%2BEN/userpages/20) for the most accurate reproduction.*
 
 # JLC Online - Where Contractors Go To Work on the Web
 
@@ -16,7 +16,7 @@
   * Builder Online 
   * Multifamily Executive Online
 
-This Policy is a part of and is subject to Hanley-Wood's [Terms and Conditions of Use.](http://www.jlconline.com/cgi-bin/jlconline.filereader?434e08d0000dba1427177f000001053f+EN/userpages/34)
+This Policy is a part of and is subject to Hanley-Wood's [Terms and Conditions of Use.](http://www.jlconline.com/cgi-bin/jlconline.filereader?45324851000ff30527177f0000010506+EN/userpages/34)
 
 We understand privacy concerns of our users and are therefore committed to protecting and respecting your privacy. Please read our Privacy Policy, which explains what information we collect, how we use this information and what security measures are in place to protect your information. If we make any substantive changes to this policy, we'll announce it on our site and, if you have provided us with an email address, by sending a notice to that address. If you have any questions or concerns regarding this policy, contact us at [jlc-cs@hanleywood.com.](mailto:jlc-cs@hanleywood.com)
 
@@ -54,7 +54,7 @@ Each registered member is given a unique cookie which is then used to automatica
 You can choose whether or not you accept cookies by changing the settings of your browser. However, certain parts of our Web sites may not work if you turn off cookies on your browser.
 
 **Newsletter Opt-in/Opt-out Features**  
-We provide free newsletters to visitors who request them. You have the option to opt-out at any time by changing your subscription [preferences](http://www.jlconline.com/cgi-bin/jlconline.storefront/434e08d0000dba1427177f000001053f/Catalog/1188).
+We provide free newsletters to visitors who request them. You have the option to opt-out at any time by changing your subscription [preferences](http://www.jlconline.com/cgi-bin/jlconline.storefront/45324851000ff30527177f0000010506/Catalog/1188).
 
 JLC-Online may make changes to this Privacy Policy at any time, but we will post any changes on our site and, if you have provided us with an e-mail address, by e-mail, and provide you with the opportunity to opt-out of the revised Policy. Once the changes have been made and posted, your continued use of the site will constitute your acceptance of the revised Policy. If you have questions regarding our Privacy Policy, we may be reached via email at [jlc-cs@hanleywood.com](mailto:jlc-cs@hanleywood.com), via fax at 202.785.1974 or by writing to us at:
 
@@ -73,6 +73,5 @@ By using our Web site or sites, you consent to the collection and use of informa
 
 If you feel that this site is not following its stated privacy policy, you may contact us at the above address, or by email at [jlc-cs@hanleywood.com](mailto:jlc-cs@hanleywood.com)
 
-  
-|  |  |  [](http://www.jlconline.com/cgi-bin/jlconline.storefront/434e08d0000dba1427177f000001053f/UserTemplate/18)   
-| 
+|  |  [](http://www.jlconline.com/cgi-bin/jlconline.storefront/45324851000ff30527177f0000010506/UserTemplate/18)   
+
