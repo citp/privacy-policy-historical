@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mitel.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615075820id_/http%3A//www.mitel.com/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitel.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015094601id_/http%3A//www.mitel.com/jsp/privacy.jsp) for the most accurate reproduction.*
 
 # Mitel Networks: Public Privacy Policy
-
-**PUBLIC PRIVACY POLICY**
 
 **Mitel Networks Corporation**
 
