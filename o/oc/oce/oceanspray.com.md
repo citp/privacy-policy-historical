@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceanspray.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621024022id_/http%3A//www.oceanspray.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceanspray.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015160452id_/http%3A//www.oceanspray.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ Ocean Spray does not collect personally identifiable information from individual
 
 Ocean Spray requests that users age 13 and younger do not send personal information to us. Ocean Spray does not share information provided by our customers with parties outside of our company. We do not sell or distribute our customer lists. 
 
-If you have any questions regarding this policy please call, write or [e-mail us](https://web.archive.org/web/20060621024022id_/http%3A//www.oceanspray.com/contactus/emailus.asp) with your concerns. 
+If you have any questions regarding this policy please call, write or [e-mail us](https://web.archive.org/web/20061015160452id_/http%3A//www.oceanspray.com/contactus/emailus.asp) with your concerns. 
 
 Ocean Spray Consumer Affairs Department  
 Ocean Spray Cranberries, Inc.  
