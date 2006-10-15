@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.com.au privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613032706id_/http%3A//www.cheapflights.com.au/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.com.au privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015175346id_/http%3A//cheapflights.com.au/misc/privacy.html) for the most accurate reproduction.*
 
 # Cheap Flights Australia and New Zealand: Privacy policy
 
@@ -7,13 +7,13 @@
 
 Our website is located at [www.cheapflights.com.au](http://www.cheapflights.com.au/).
 
-We invite you to [contact us](https://web.archive.org/web/20060613032706id_/http%3A//www.cheapflights.com.au/misc/feedback.html) if you have questions about this policy.
+We invite you to [contact us](https://web.archive.org/web/20061015175346id_/http%3A//cheapflights.com.au/misc/feedback.html) if you have questions about this policy.
 
 You may contact us by mail at the following address: 
 
 Content Editor  
-90 Westbourne Grove  
-London W2 5RT   
+49 Marylebone High Street  
+London W1U 5HJ  
 United Kingdom
 
 **Validity**  
