@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512134027id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015234200id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Lux Scientiae: Privacy Policy
 
@@ -27,10 +27,3 @@ Lux Scientiae will not release any information about its clients to third partie
 ## Confidentiality:
 
 Lux Scientiae staff will not examine the content of your incoming or outgoing email messages or your Web Aides without your explicit consent. The exception to this rule is the case where Lux Scientiae management deems a client to be in possible violation of its [Acceptable Use Policy](https://web.archive.org/extranet/aup.html) and deems that analysis of email messages or Web Aides is necessary in order to establish this fact or to stop the sending of SPAM, Unsolicited Email, excessive utilization of system resources, or other violations of LuxSci's AUP. In any case, the contents of your email messages and Web Aides will be kept in the strictest confidentiality that can be afforded by compliance with local, state, and federal law.
-
-| 
-
-**Client Testimonial**
-
-Thank you very much for getting my service setup so quickly. Within an hour from subscribing to the email-only service, I was up and running. The site was very intuitive and easy to use, so I was able to configure my account rapidly. Also, I want to praise your company for your customer service response. For all of my inquiries/tickets, I got satisfied responses very quickly. Some responses were within minutes. Lastly, your email-only service is very competitively priced. I will recommend you to everyone, especially since I am an IT web consultant working for many fortune 500 companies. Last company I worked with was Sony Pictures and am currently working as a consultant at directv.com.  
-\- Bryan Beam [BBInc.tv Inc.](http://www.bbinc.tv/)
