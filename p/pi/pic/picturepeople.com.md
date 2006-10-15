@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturepeople.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622063930id_/http%3A//www.picturepeople.com/others/privacy.aspx%3Fsm%3D16_1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturepeople.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015175020id_/http%3A//www.picturepeople.com/others/privacy.aspx%3Fsm%3D16_1) for the most accurate reproduction.*
 
 # The Picture People - Privacy
 
@@ -13,10 +13,10 @@ We use this information:
 > • For marketing and promotional purposes 
 
 We may contact you by mail, e-mail or telephone to inform you about products and services, including special promotions and coupons, which we think may be of interest to you.   
-If you do not want to be contacted by THE PICTURE PEOPLE for promotional purposes, you may indicate your preference by mailing a written request to: Attention: Marketing Unsubscribe, 1157 Triton Drive, Suite B., Foster City, CA 94404.
+If you do not want to be contacted by THE PICTURE PEOPLE for promotional purposes, you may indicate your preference by mailing a written request to: Attention: Marketing Unsubscribe, 1157 Triton Drive, Suite B., Foster City, CA 94404. Please indicate which name, address, phone number & email address you would like to have removed from our mailing list.
 
 We may, from time to time, share this information with other reputable organizations whose products or services we think you might find interesting and those that match your possible needs. We employ measures to protect against the unauthorized disclosure of your personal information to third parties. We require that any organization with which we share information also take measures to prevent the unauthorized disclosure of personal information.  
-If you do not want THE PICTURE PEOPLE to share your information please send an e-mail to: [donotshare@picturepeople.com](mailto:donotshare@picturepeople.com) or you may call Customer Service at 1-877-YOU-GRIN or mailing a written request to: Attention: Marketing Sharing, 1157 Triton Drive, Suite B., Foster City, CA 94404.
+If you do not want THE PICTURE PEOPLE to share your information please send an e-mail to: [donotshare@picturepeople.com](mailto:donotshare@picturepeople.com) or you may call Customer Service at 1-877-YOU-GRIN or mailing a written request to: Attention: Marketing Sharing, 1157 Triton Drive, Suite B., Foster City, CA 94404. Please indicate which name, address, phone number & email address we should not share.
 
 What information does THE PICTURE PEOPLE collect?
 
@@ -60,7 +60,7 @@ THE PICTURE PEOPLE reserves the right to cooperate with law enforcement official
 
  **How do I access and make changes to my preferences to receive e-mail?**
 
-When you establish a THE PICTURE PEOPLE account, your account automatically indicates that you want to receive promotional information from THE PICTURE PEOPLE regarding news about THE PICTURE PEOPLE products, services and events, as well as special offers and promotions for THE PICTURE PEOPLE or our business partners. If you do not want to be contacted by THE PICTURE PEOPLE for promotional purposes, you may indicate your preference by calling Customer Service at 1-877-YOU-GRI N, contacting your local studio, sending an email to[ customerservice@picturepeople.com](mailto:customerservice@picturepeople.com), or mailing a written request to: Attention: Email Unsubscribe, 1157 Triton Drive, Suite B., Foster City, CA 94404. If receiving promotions via email, you may also [click here to unsubscribe.](mailto:picturepeople@prq0.com?subject=unsubscribe) Note: It may take up to 10 days for your name to be removed from our list. You must unsubscribe using the same email address the message was sent to. We also adhere to the canned spam laws required by the FTC.
+When you establish a THE PICTURE PEOPLE account, your account automatically indicates that you want to receive promotional information from THE PICTURE PEOPLE regarding news about THE PICTURE PEOPLE products, services and events, as well as special offers and promotions for THE PICTURE PEOPLE or our business partners. If you do not want to be contacted by THE PICTURE PEOPLE for promotional purposes, you may indicate your preference by calling Customer Service at 1-877-YOU-GRI N, contacting your local studio, sending an email to[ customerservice@picturepeople.com](mailto:customerservice@picturepeople.com), or mailing a written request to: Attention: Email Unsubscribe, 1157 Triton Drive, Suite B., Foster City, CA 94404. If receiving promotions via email, you may also [click here to unsubscribe.](mailto:picturepeople@prq0.com?subject=unsubscribe) Note: It may take up to 10 days for your name to be removed from our list. You must unsubscribe using the same email address the message was sent to. We also adhere to the CAN-SPAM laws required by the FTC.
 
 How do I access and make changes to my personal information?  
   
@@ -138,7 +138,7 @@ Your use of the PicturePeople.com web site constitutes your agreement to follow 
 
 **Your California Privacy Rights**
 
-If you reside in California and have provided your personal information to us, you may request certain information once per calendar year about our disclosures of personal information to third parties for their direct marketing purposes. Within 30 days of receiving your request, we will provide you with a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. To make such a request, please send an email to to [donotshare@picturepeople.com](mailto:donotshare@picturepeople.com) or write us: The Picture People, 1157 Triton Drive Foster City, CA 94404. Please note that you must direct your request to the email address or business address specified in this paragraph. 
+If you reside in California and have provided your personal information to us, you may request certain information once per calendar year about our disclosures of personal information to third parties for their direct marketing purposes. Within 30 days of receiving your request, we will provide you with a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. To make such a request, please send an email to [donotshare@picturepeople.com](mailto:donotshare@picturepeople.com) or write us: The Picture People, 1157 Triton Drive Foster City, CA 94404. Please note that you must direct your request to the email address or business address specified in this paragraph. 
 
 **Effective Date**
 
