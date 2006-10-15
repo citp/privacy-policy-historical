@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paycor.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614202229id_/http%3A//paycor.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paycor.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015223611id_/http%3A//paycor.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # Paycor.com Privacy Statement
 
