@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vtechkids.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313174638id_/http%3A//vtechkids.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtechkids.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016011144id_/http%3A//vtechkids.com/privacy.cfm) for the most accurate reproduction.*
 
-# VTech Electronic Learning Products - Privacy Statements
+# VTech Electronic Learning Products - Privacy
 
 Thank you for spending time with VTech by visiting our web site. We hope that you have found it helpful and that you will return frequently. Consumer satisfaction with our products is paramount at VTech, and this continues on to your satisfaction with our website. Please notify our [webmaster](mailto:webmaster@vtechkids.com) should you be concerned about anything you have seen on our website.
 
