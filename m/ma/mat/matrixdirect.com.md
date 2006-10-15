@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510050951id_/http%3A//www.matrixdirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015054320id_/http%3A//www.matrixdirect.com/privacy.html) for the most accurate reproduction.*
 
 # Life Insurance Quotes at Matrix Direct: Term Life Insurance Quotes, Affordable Life Insurance Rates, Affordable Term Life Insurance, Term Life Insurance Policy
 
