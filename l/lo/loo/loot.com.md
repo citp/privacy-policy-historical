@@ -1,68 +1,115 @@
-> *The following text is extracted and transformed from the loot.com privacy policy that was archived on 2001-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010617092720id_/http%3A//www.loot.com/scripts/lootsite.dll%3Fpage%26pageid%3Dpages/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loot.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016170057id_/http%3A//loot.com/rs6/homepage.asp%3Faction%3Dq%26t%3D/general/about_loot/company_information/tc/protection_privacy%26atp%3Dwww) for the most accurate reproduction.*
 
-# Loot.com - Privacy policy
+# Loot.com - Classified Ads. Buy, rent or place a free ad to sell anything.
 
-**Loot's privacy statement**  
-Information gathered and tracked  
-What do we do with this information?  
-Security  
-Loot Forums  
-Delete/deactivate procedure  
-Change/modify procedure
+## Data Protection and Privacy Policy
 
-Loot has a firm commitment to privacy. The following sets out our information gathering and dissemination practices.
+We are Loot Limited, (Company registration number 4281775, data protection registered number Z6419373) ("Loot/we/us"). At Loot we are very serious about protecting your privacy. Your trust is our most important asset. This privacy policy explains how Loot may collect information from you via our website and how that information may be used subsequently. If you have any queries in relation to this privacy policy please contact [legal@lootmail.com](mailto:legal@lootmail.com).
 
- **Information gathered and tracked**  
-When you register with Loot we ask for the following details:
-* Your e-mail address  
+By browsing and using our website you agree to this policy governing your use of the website. If you do not accept this policy, you must not use our website.
 
-* Your password  
+This policy applies only to this website and not to other websites to which we provide links. We also enter into agreements with commercial partners whose websites may be co-branded or framed by us and which you may visit directly through our website. These websites are not subject to our privacy policy. You are advised to read the privacy policy of such other websites.
 
-* Your title  
+We may change our privacy policy from time to time without notification and you should regularly review this policy when you visit our site.
 
-* Your name  
+## Collection of information
 
-* Your postcode  
+In order to provide the services you want, and to allow you to experience a more personalised service when you revisit us, we need to know your interests. We find these out by asking you, by reading your comments and by looking at which are the most popular areas of our sites.
 
-* Your home/work telephone number  
+## Collection of personal information
 
-* Your street/flat number  
+We will only collect personal information from you (such as name, address, telephone number, email address etc) which you have provided voluntarily to us either by completing registration or enquiry forms or sending emails to us. Please do not submit your personal data to us if you do not wish us to collect it.
 
-* Your country  
+## When you register with Loot we may ask for the following details:
 
-* Your date of birth  
+  * Your e-mail address
+  * Your password
+  * Your title
+  * Your name
+  * Your postcode
+  * Your home/work telephone number
+  * Your mobile telephone number
+  * Your street/flat number
+  * The region of the UK in which you live
+  * Your date of birth
+  * Your occupation
 
-* Your occupation  
 
-This information is entered into Loot's customer database.
 
-In order to help us provide the best website and service possible, Loot also gathers the following information: browser type (e.g. Navigator, Internet Explorer) and internet domain. We use cookies to save your online ID so you don't have to fill in your details every time you visit Loot. 
+Most of this information is entered into Loot's customer database (we do not keep details of your password).
 
-Loot and some of our commercial partners use third-party ad sales partners. These ad sales partners never know the name, e-mail address, phone number or home address of any users of Loot. All users who recieve an ad targeted by any ad sales company remain completely anonymous.
+Further examples of where we may collect your personal information include (without limitation):-
 
- **What do we do with this information?**  
-We do not sell, rent, share, trade or give away any of your personal information or any details of activities of users to any third party. Information is only shared with advertisers and partners on an aggregate basis.
+  * If you order a product or service from us we may ask for information including your name, e-mail address, delivery and billing address, credit or debit card number and expiry date. Sometimes we may ask for your telephone number to be forwarded to the couriers who may deliver your order. These details allow us to process your orders efficiently.  
 
-Loot sometimes run third-party sponsored competitions and promotions. Entry to such competitions may depend on users supplying their name and e-mail address. Where this is the case, users will always be given the option of declining to receive further corrrespondence from the third-party.
+  * If you enter a contest or promotion we ask for your name, address and e-mail address. This is so we can run the contest effectively and tell you if you have won.
 
-The only mass mailing application Loot currently uses is the SearchAlert e-mail me facility. This is by default disabled and must be enabled by the user. We may also contact you if we have an important announcement to make.
 
-If you participate in Loot Auctions and you are one of the top three bidders, Loot will pass your name, e-mail and/or telephone number to the advertiser so that they can contact you.
 
-Loot compiles demographic data from your postcode, title, date of birth and occupation so we can determine if we need to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers and partners on an aggregate basis.
+## Collection of other information
 
- **Security**  
-Loot has an extensive firewalling procedure to ensure our customer database is protected and cannot be accessed by unauthorised persons. Loot employs an external security company periodically to assess our security and ensure the maximum amount of protection for our customers' data.
+In addition to asking you to submit personal information, we may collect information about you automatically when you visit the site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor visitors to our site. A cookie is small text file that is placed on your computer's hard drive by your web browser when you first visit our site. The cookie allows us to identify your computer and find out details about your last visit. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, we cannot guarantee that your experience with our website will be as quick or responsive as if you do receive cookies.
 
-We forbid other individuals or organisations from taking e-mail addresses from this site for bulk e-mail. We will take appropriate action if this is detected. This site contains links to other sites – Loot is not responsible for the privacy practices or the content of such websites.
+ The information collected by cookies and web beacons is not personally identifiable, it includes general information about your computer settings, your connection to the internet e.g. operating system and platforms, IP address, your browsing patterns and timings of browsing on our website and your geographical location.
 
-Credit card transactions are protected by a Secure Socket Layer (SSL) system. This is the industry standard, and among the best software available today for secure commerce transactions. It encrypts all of your personal information including credit card number, name and address, so that it cannot be read as the information travels over the Internet. It's safer than using your credit card over the telephone. Loot does not keep a record of your credit card number so there is no possibility of anyone having access to it, either internally or externally. It is sent directly and securely to your bank the moment you complete your purchase. The only record Loot keeps is the authorisation number received from the bank, which contains neither your card number nor the expiry date. Your credit card is safe with Loot! 
+## Use of your information
 
-**Loot Forums**  
-Loot makes use of chat rooms and forums. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+You agree that we may obtain, hold, correlate, merge and use your information (including personal information) for the purpose of providing you with our services and ancillary services and for our internal business purposes. These include (without limitation):-
 
-It is Loot's policy to take reasonable measures to respect the privacy of Loot Forums participants. Loot will take reasonable measures to not disclose the contents of your communications unless required to do so by law or in the good faith and belief that such action is reasonably necessary to: (a) conform to the edicts of the law or comply with legal process served on Loot; (b) protect and defend the rights or property of Loot or Loot Forums or enforce or further the application or intent of the terms; or (c) act to protect the personal safety of Loot Forums participants or the public. 
+  * personalising your visits to the site and developing the design and style of the site to improve our services to you;
+  * to inform you about the latest changes to our website, or products, services or promotional offers that you might find interesting;
+  * communication (and personalising such communication) with you from Loot, from other Daily Mail & General Trust ('DMGT') group companies and from other reputable and trustworthy third parties (if you have agreed to such);
+  * informing you if you have been successful in any of the competitions or promotions;
+  * compiling customer reviews;
+  * for market research purposes;
+  * to prevent you from posting illegal, offensive or objectionable comments on our sites;
+  * to enable third parties to carry out statistical analysis, technical, logistical or other functions on our behalf including determining behavioural preferences to manage online advertising;
+  * for strategic development;
+  * for any purpose required by law or regulation; and
+  * for accounting purposes.
 
-**Delete/deactivate procedure**  
-If you wish to remove yourself from our customer database, all you need to do is contact Loot, telephone 0207-328 4444 or write to Copy Advice, Loot Ltd, Loot House, 24-32 Kilburn High Road, London, NW6 5TF. Provide us with sufficient information to confirm your identity, and say you want your account removed from our customer database. **Change/modify procedure**  
-You can inspect your personal details at any time and modify them via [MyLoot](https://web.archive.org/scripts/lootsite.dll?register&function=128). If you have any questions or comments about Loot's Privacy Statement, the practices of this site, or your dealings with this website please let us know. 
+
+
+##  Sharing Information
+
+We may disclose your information to any company within the DMGT group of companies by means of a centralised database to which all companies have access or by means of a direct transfer of data from one office to another.
+
+We may provide third parties, at our discretion, with certain aggregate statistical data about your use of our websites, which data may include demographic data such as age range and/or geographic location of groups of user. It will not include information that could personally identify you.
+
+With your consent, we may supply personal information to third parties.
+
+We reserve the right to access and to disclose personal information to comply with applicable laws and lawful government requests or requests by applicable regulatory bodies, to operate our systems properly or to protect either ourselves or our other users.
+
+We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of Loot.
+
+You consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the United Kingdom provides) in the event that the processing of your information involves such a transfer
+
+## Monitoring emails
+
+We may monitor and keep records of email communications which you send to us and other communications with you in accordance with this policy and our other business interests.
+
+## Safeguards and Security
+
+No data transmission over the internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of our sites. However we use our reasonable endeavours to protect the security of your personal information from unauthorised access or use by using Secure Sockets Layer 128-bit encryption verified through Verisign.
+
+## Credit Card
+
+Loot takes great care to ensure your credit card information is safe. We use a secure connection ( Secure transaction (https)) and once your transaction is completed, Loot does not keep a record of your credit card number. The only record Loot keeps is the authorisation number received from the bank. This is to ensure against the use of stolen cards.
+
+## Email Alert
+
+EmailAlert emails contain IDs that are unique to each user. Please do not divulge your password or forward EmailAlert emails onto others as they could access your personal details stored in MyLoot.
+
+In addition to our safeguards your personal information is protected in the UK by the Data Protection Act. This provides that the information which we hold about you should be processed fairly and lawfully and should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. Please help us to keep your personal information accurate by updating your registration details on the website.
+
+## More Information
+
+For more information on the Data Protection Act and the Information Commissioner please see [http://www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)
+
+## Changing or accessing your information
+
+You can inspect your personal details at any time and modify them via MyLoot. Should you no longer wish to receive newsletters or services you have signed up for, or if you wish to review or receive copies of the personal information we hold about you, or have any other queries please email [registration@lootmail.com](mailto:registration@lootmail.com) including full details of your request.
+
+We may charge a small administration fee in relation to fulfilling a request for access to personal information.
+
+Back to [Terms & Conditions](http://www.loot.com/rs6/homepage.asp?action=q&t=/general/about_loot/company_information/terms_and_conditions)
