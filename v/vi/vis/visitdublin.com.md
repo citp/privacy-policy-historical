@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322131634id_/http%3A//www.visitdublin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016174746id_/http%3A//www.visitdublin.com/privacy) for the most accurate reproduction.*
 
-# Untitled Page
+# DUblin Tourism - Privacy Statement
 
 **This privacy statement covers the entire family of Dublin Tourism web sites (visitdublin.com, dublingifts.com, dublinpass.ie, malahidecastle.com, writersmuseum.com, visitdublin.com/trade) and has been prepared in compliance with the Data Protection Acts of 1998 & 2003.**
 
