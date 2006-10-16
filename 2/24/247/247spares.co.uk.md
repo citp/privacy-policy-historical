@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247spares.co.uk privacy policy that was archived on 2006-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060610060122id_/http%3A//www.247spares.co.uk/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247spares.co.uk privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016034605id_/http%3A//247spares.co.uk/docs/privacy.php) for the most accurate reproduction.*
 
 # 247spares - Customer Support. We provide several way to get help and support in your spare car part purchases.
 
