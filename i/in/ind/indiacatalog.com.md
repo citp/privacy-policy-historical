@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiacatalog.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315000457id_/http%3A//www.indiacatalog.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiacatalog.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016184757id_/http%3A//www.indiacatalog.com/privacy.html) for the most accurate reproduction.*
 
 # India Catalog - Marketplace for Indian Businesses - Privacy Statement
 
@@ -24,4 +24,4 @@ You can set your browser to warn you before you collect a cookie. If you choose 
 
 ### Asking questions
 
-We welcome comments and questions about our privacy statement. Because of the rapidly evolving nature of the Internet, we reserve the right to change this statement at any time. Direct your privacy questions to [feedback@indiacatalog.com](mailto:feedback@indiacatalog.com).
+We welcome comments and questions about our privacy statement. Because of the rapidly evolving nature of the Internet, we reserve the right to change this statement at any time. Direct your privacy questions to [feedback@indiacatalog.com](mailto:feedback@indiacatalog.com)
