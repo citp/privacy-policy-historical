@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocabulary.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/VUprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocabulary.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016025507id_/http%3A//www.vocabulary.com/VUprivacy.html) for the most accurate reproduction.*
 
 # Vocabulary University Privacy Policy
 
@@ -30,8 +30,8 @@ Questions regarding the above statement should be directed to [Carey Cook](mailt
 
 * * *
 
-[[Home Page]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/index.html) [[Root-a-Week]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/weeklyroots.html) [[Word City]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/wordcity.html) [[Mini-Lesson Plan Puzzles]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/rsvp.html) [[Participating Schools]***](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/VU_50states.html)  
-[[39 Week Lesson Plan]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/myvocabulary.html) [[Content Matrix]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/content.html) [[Tell-a-Friend]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/tell_friends.html) [[Links to us]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/VUlinks1298.html) [[About us]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/VUaboutus.html) [[Free Registration]](https://web.archive.org/web/20060615164551id_/http%3A//vocabulary.com/VUregistration.html)   
+[[Home Page]](https://web.archive.org/web/20061016025507id_/http%3A//www.vocabulary.com/index.html) [[Root-a-Week]](https://web.archive.org/web/20061016025507id_/http%3A//www.vocabulary.com/weeklyroots.html) [[Word City]](https://web.archive.org/web/20061016025507id_/http%3A//www.vocabulary.com/wordcity.html) [[Mini-Lesson Plan Puzzles]](https://web.archive.org/web/20061016025507id_/http%3A//www.vocabulary.com/rsvp.html) [[Participating Schools]***](https://web.archive.org/web/20061016025507id_/http%3A//www.vocabulary.com/VU_50states.html)  
+[[39 Week Lesson Plan]](https://web.archive.org/web/20061016025507id_/http%3A//www.vocabulary.com/myvocabulary.html) [[Content Matrix]](https://web.archive.org/web/20061016025507id_/http%3A//www.vocabulary.com/content.html) [[Tell-a-Friend]](https://web.archive.org/web/20061016025507id_/http%3A//www.vocabulary.com/tell_friends.html) [[Links to us]](https://web.archive.org/web/20061016025507id_/http%3A//www.vocabulary.com/VUlinks1298.html) [[About us]](https://web.archive.org/web/20061016025507id_/http%3A//www.vocabulary.com/VUaboutus.html) [[Free Registration]](https://web.archive.org/web/20061016025507id_/http%3A//www.vocabulary.com/VUregistration.html)   
 *** If your school is not listed in our "Participating Schools" above, please give us your school's name, city and state/country. Thanks! 
 
 * * *
