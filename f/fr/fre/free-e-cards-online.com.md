@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the free-e-cards-online.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205250id_/http%3A//www.free-e-cards-online.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-e-cards-online.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016185531id_/http%3A//free-e-cards-online.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Free E-Cards Online
 
-Free E-Cards Online is firmly committed to the privacy of our clients. We have created this Privacy Policy to let you know under what information is collected and how this information is used. If you have any questions regarding this policy, please [click here](https://web.archive.org/web/20060615205250id_/http%3A//www.free-e-cards-online.com/ContactUs.html) to contact us.
+Free E-Cards Online is firmly committed to the privacy of our clients. We have created this Privacy Policy to let you know under what information is collected and how this information is used. If you have any questions regarding this policy, please [click here](https://web.archive.org/web/20061016185531id_/http%3A//free-e-cards-online.com/ContactUs.html) to contact us.
 
 **1.** _Privacy Of Greeting Card Information_. We treat all of our e-card messages as private correspondance between the sender and the recipient and will not disclose the contents of any greetings other than to the intended recipient. The recipient's e-mail address is never used for any other purpose than to send them the e-card. The e-card is posted on private pages. The web address is sent by e-mail announcement only to those whose e-mail addresses are entered by the card sender.
 
@@ -18,4 +18,4 @@ Free E-Cards Online is firmly committed to the privacy of our clients. We have c
 
 **7.** The Web Site Analysis Tool we use on our site (AddFreeStats) employs the use of ‘cookies’ within our site for monitoring what is referred to as ‘unique visitors’. When a visitor comes to our web site, a very small cookie is stored on his or her computer. By tracking the information contained in the ‘cookie’, the Web Site Analysis Tool can determine how many different (unique) visitors come to our web site. This ‘cookie’ does not contain any personally identifiable information.
 
-**[Click here for Page 2 of our Privacy Policy](https://web.archive.org/web/20060615205250id_/http%3A//www.free-e-cards-online.com/Privacy2.html)**
+**[Click here for Page 2 of our Privacy Policy](https://web.archive.org/web/20061016185531id_/http%3A//free-e-cards-online.com/Privacy2.html)**
