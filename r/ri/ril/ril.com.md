@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ril.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314042045id_/http%3A//www.ril.com/privacypolicy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ril.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016032549id_/http%3A//www.ril.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Reliance Industries Limited.
+
+|  | 
 
 **PRIVACY POLICY**
 
@@ -14,31 +16,23 @@ Welcome to this Reliance website. We at Reliance respect the privacy of everyone
 
 3\. We collect and use personal information for business purposes in order : 
 
-  * that you may download product information, order products and take advantage of certain other features of our website. 
-  
+  * that you may download product information, order products and take advantage of certain other features of our website.   
 
-  * to provide information or interactive services through this website, to your e-mail address or, where you wish it to be sent by post, to your name and postal address. 
-  
+  * to provide information or interactive services through this website, to your e-mail address or, where you wish it to be sent by post, to your name and postal address.   
 
-  * to seek your feedback or to contact you in relation to those services offered on the our website
-  
+  * to seek your feedback or to contact you in relation to those services offered on the our website   
 
-  * to process orders or applications submitted by you 
-  
+  * to process orders or applications submitted by you   
 
-  * to administer or otherwise carry out our obligations in relation to any agreement you have with us 
-  
+  * to administer or otherwise carry out our obligations in relation to any agreement you have with us   
 
-  * to anticipate and resolve problems with any goods or services supplied to you 
-  
+  * to anticipate and resolve problems with any goods or services supplied to you   
 
-  * to create products or services that may meet your needs. 
-  
+  * to create products or services that may meet your needs.   
 
-  * to process and respond to requests, improve our operations, and communicate with visitors about our products, services and businesses. 
-  
+  * to process and respond to requests, improve our operations, and communicate with visitors about our products, services and businesses.   
 
-  * to allow you to subscribe to our news letter
+  * to allow you to subscribe to our news letter 
 
   
 4\. We will not use or share, either within Reliance or with a third party, any information collected at this page for direct marketing purposes. Because of the nature of the Internet, we may transmit the information to another country, but among Reliance and its affiliates, for purposes other than direct marketing, such as for storage, or for carrying out the processing detailed above, or because of where our servers are located, but we do not provide or use personal information to unrelated businesses for direct marketing purposes. 
@@ -78,3 +72,7 @@ We have implemented technology and policies, with the objective of protecting yo
 2\. If you are concerned about our use of your personal information, please contact us at [eBiz@ril.com](mailto:eBiz@ril.com), with the subject line, "privacy." 
 
 3\. If at any time you would like to contact us, you can do so by emailing us at [eBiz@ril.com](mailto:eBiz@ril.com)
+
+|   
+  
+---|---|---
