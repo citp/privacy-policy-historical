@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackrabbitclass.com privacy policy that was archived on 2006-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060503225047id_/http%3A//www.jackrabbitclass.com/privacysecurity.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackrabbitclass.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016080131id_/http%3A//www.jackrabbitclass.com/privacysecurity.cfm) for the most accurate reproduction.*
 
 # Jackrabbit Class - Web-based class management and billing software
 
