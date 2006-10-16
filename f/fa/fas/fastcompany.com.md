@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fastcompany.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313064154id_/http%3A//www.fastcompany.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcompany.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016061349id_/http%3A//www.fastcompany.com/about/privacy.html) for the most accurate reproduction.*
 
 # Fast Company Privacy Policy
+
+Skip to the content of this page
 
 **We're in this together**
     At Fast Company, we acknowledge that the emergence of online business brings new opportunities and new responsibilities.
@@ -30,3 +32,13 @@ We will disclose the information we maintain when required to do so by law, for 
     If your relationship with us includes providing one of our business units with personal information that is particularly sensitive, we will protect that information with extra care. We define sensitive data as including Social Security numbers, credit-card numbers, mother's maiden name, personal financial data such as salary-specific information, specific stock holdings and net worth, information regarding someone's specific medical condition, and most information about children. There will be no external distribution of this sensitive data outside of our immediate company.
 **Our use of cookies**
     Fast Company uses cookie technologies to provide simplified access to a few areas of the Web site by allowing you to save your details on your own computer. Cookies can be disabled or controlled by setting a preference within your browser.
+**Third Party Advertising**
+    The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy). 
+**Third Party Cookies**
+    In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+* * *
+
+###  Advertisement
+
+###  Featured Services
