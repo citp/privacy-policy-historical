@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitewebmasters.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614182526id_/http%3A//sitewebmasters.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitewebmasters.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016231910id_/http%3A//www.sitewebmasters.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Website Hosting Services - Affordable Business, Ecommerce, Domain & VPS Hosting by Site WebMasters
+# Web Hosting Services by Site WebMasters
 
 | 
 
