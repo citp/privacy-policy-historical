@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imediaconnection.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012051id_/http%3A//imediaconnection.com/5882.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imediaconnection.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016180924id_/http%3A//www.imediaconnection.com/5882.asp) for the most accurate reproduction.*
 
 # iMedia Connection: Privacy Policy
 
