@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eds.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313131056id_/http%3A//www.eds.com/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eds.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016092944id_/http%3A//www.eds.com/site/privacy.aspx) for the most accurate reproduction.*
 
 # About eds.com: Privacy and Data Protection Policy | eds.com
 
@@ -34,6 +34,17 @@ Cookies
 Periodically, the eds.com team will collect non-personally identifiable information from people who visit the site. We do this by using cookies – a small piece of data that our site sends to a person's computer where it is stored. For example, eds.com might use a cookie to identify a person interested in an industry and the next time that person visits the site the previously viewed industry will automatically populate the screen.
 
 The cookies that eds.com uses are strictly for improving overall user experience and site performance. If people do not want to accept cookies, they can disable them by working with their settings in their browsers.
+
+Beacons
+    
+
+Eds.com will periodically use beacons or spotlight tags in their Web page and newsletters to gather metrics in their aggregate form. A beacon is usually an electronic image called a clear GIF or a 1x1 GIF. These files look for specific non-personally identifiable information on a person’s computer. This information includes browser information, cookie number, page views and any other basic data that we can use to improve messaging and usability on eds.com.
+
+EDS does not allow for third-party ads on their Web site but we do occasionally contract with advertising companies that place ads on behalf of EDS. The advertising company may use beacons for campaign success measurements.
+
+Beacons used by EDS collect data that is anonymous, is not linked to personally identifiable information nor attached to any databases.
+
+Individuals can prevent the use of beacon and/or cookies by disabling them in the security settings of the Internet browsers.
 
 How to Correct/Update Personal Information 
     
