@@ -1,82 +1,85 @@
-> *The following text is extracted and transformed from the colesmyer.com privacy policy that was archived on 2006-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060213182916id_/http%3A//www.colesmyer.com/privacy_shopping.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colesmyer.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016223227id_/http%3A//www.colesmyer.com/Home/privacy.asp) for the most accurate reproduction.*
 
-# colesmyer.com
+# Coles Myer Privacy Policy
 
-## [Coles Myer Home](http://www.colesmyer.com/) > Privacy Policy Introduction
+### Introduction
 
-Coles Myer Ltd and its related companies ("CML") are committed to complying with the Privacy Amendment (Private Sector) Act 2000, which commences in December 2001, and the privacy provisions of all applicable legislation.
+At Coles Myer, we are committed to protecting the privacy of everyone who shops or interacts with us.
 
-This privacy policy covers all personal information we hold, that is, information, or an opinion, about an individual, whose identity is apparent, or can be reasonably ascertained, from that information or opinion. This includes information we have collected from people through our stores, over the phone through our customer service centres and over the internet.
+This privacy policy applies to Coles Myer Ltd and its related companies, and covers all personal information we collect about customers and other individuals outside the Coles Myer group. When we talk about “personal information”, we use the definition provided by the Federal Privacy Act - 
 
-The policy also covers personal information that we have sourced from third parties. 
+> “Personal information” means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can be reasonably ascertained, from the information or opinion.
 
-## Collecting information
+We require all of our employees, contractors, suppliers, business partners and service providers to comply with privacy laws and continually look for ways to meet and exceed our customers’ expectations. 
 
-When we collect personal information from an individual, we will ensure that we do so in a fair manner and that we let the individual know where and how to contact our organisation. We will only collect information that is necessary for one or more of our functions or activities.
+### Collecting Information
 
-Whenever we collect personal information from third parties concerning an individual, we will take reasonable steps to advise that individual as soon as is practicable. 
+We only collect information that is necessary for one or more of our functions or activities, and we only keep it for as long as we may require it for a legitimate business purpose.
 
-We will advise individuals of the purposes for which their personal information is collected, and of those third parties to whom the information is usually disclosed.
+When we collect personal information from an individual, we ensure that we do so in a fair manner. We also let the individual know: 
 
-If we collect sensitive information (as defined under the Act), we will treat it with the utmost security and confidentiality. We will ensure that it is not collected for any purposes, other than those for which we have obtained the individualÕs consent, unless the law requires otherwise, or other exceptional circumstances prevail as described under the Act.
-
-Where an individual chooses not to provide requested information, we will advise that individual of what impact this non-disclosure may have. For example, withholding certain information may limit our ability to market relevant offers or services to individuals.
-
-## Disclosing information
-
-We will only disclose personal information in accordance with the Privacy Act.
-
-This means that personal information may be disclosed: 
-
-  * for the purposes for which we have advised that we are collecting it, and for related purposes that the individual would reasonably expect, 
-  * where we have the consent of the individual to do so,
-  * as part of the asset sale of a business division,
-  * as required by law, or 
-  * under other circumstances where permitted under the Act.
+  * which Coles Myer company is collecting the information, and how to contact that company
+  * the purposes for which the information is being collected
+  * the organisations, or types of organisations, to whom we may disclose the information
+  * the main consequences (if any) for the individual if all or part of the information is not provided, except to the extent that this is obvious
+  * the fact that the individual can access the information that we hold
+  * any law that requires us to collect the information. 
 
 
 
-In the course of our business activities, we may need to disclose some of your personal information to relevant business partners. 
+Privacy notices enable our businesses to communicate these matters clearly and consistently wherever we collect personal information.
 
-## Unauthorised disclosure or access
+We will collect personal information directly from the individual concerned whenever practical. However, if we do collect an individual’s personal information from a third party, we take reasonable steps to ensure that the individual has been advised of the matters listed above as they apply to both the third party and our own handling of the information.
 
-As CML is committed to protecting the privacy of individuals, we will view unauthorised disclosure of, or access to, personal information by our employees, contractors or agents, as a serious breach of this policy. Appropriate action (which may include disciplinary or legal action) will be taken in such cases.
+We treat certain kinds of sensitive information, such as health information, with higher standards of security and confidentiality. We will only use this sensitive information with the individual’s consent unless the law specifies otherwise.
 
-## Opt-Out
+### Disclosing Information
 
-We will always provide individuals with a nil-cost way of contacting us to register a request to "opt-out" from receiving further marketing offers.
+We will only disclose personal information:
 
-We will provide an opt-out opportunity with direct marketing offers in accordance with the legislation.
+  * for the purposes for which we have advised that we are collecting it, and for related purposes that could reasonably be expected in the circumstances, 
+  * with the individual’s consent,
+  * as part of the asset sale of a business or division,
+  * as specified by law.
 
-## Access to personal information
 
-Individuals will be able to access their personal information upon request. However, CML may occasionally need to deny access to information in accordance with the exemptions contained in the Act.
 
-## Security
+In the course of our business activities, we may need to disclose personal information to our agents, service providers, business partners, government authorities and others, but will always do so in accordance with the above principles. Except where data is transferred as part of the sale of a business or a business division, we will not sell personal information under any circumstances or share it with anyone for marketing purposes unless we have advised of this on collection or otherwise obtained the individual’s consent.
 
-Our goal is to protect the personal information collected by CML and its businesses. Personal information will be managed confidentially and securely and destroyed appropriately when no longer required. 
+### Unauthorised Disclosure or Use
 
-We will monitor and implement appropriate technical advances or management processes, to safeguard personal information.
+Unauthorised disclosure or use of personal information by our employees, contractors or agents is a serious breach of this policy. Merely accessing information without proper authority is a form of unauthorised use and will not be tolerated. In the event of a breach, we will take appropriate action, which may include disciplinary or legal action.
 
-## Data Quality
+### Opt-Out
 
-We will take all reasonable steps to ensure that the data we collect, use or disclose is accurate, complete and up to date, and has been obtained directly from individuals or other reputable sources.
+We will ensure that each direct marketing offer is checked against our opt-out register and provides a clear opt-out opportunity. We will always provide a nil-cost way of contacting us to opt out of receiving further marketing offers.
 
-To this end, we will ensure that marketing communication campaigns are regularly checked against our opt-out register.
+### Access to Personal Information
 
-## Privacy Inquiries
+Individuals will be able to access their personal information upon request. However, we may occasionally need to deny access to information where the law expressly allows it (for example, when someone is under investigation for fraud).
+
+We will not provide access to spouses, family members or other third parties unless we are required or permitted by law to do so or have the clear, written authority of the individual concerned.
+
+### Security
+
+Our priority is to protect the personal information that we collect. Personal information will be managed confidentially and securely, and will be destroyed when no longer required. 
+
+We secure personal information in the same way as we safeguard our own sensitive information. We also strive to constantly improve our business processes and the technology we use to protect data.
+
+### Data Quality
+
+We will take all reasonable steps to ensure that personal data we hold is accurate, complete and up to date, and has been obtained directly from the individual or a reputable third party.
+
+### Privacy Inquiries
 
 Privacy-related inquiries or concerns can be directed to the customer service department of each Coles Myer business.
 
-## Availability and review of Policy
+### Availability and Review of Policy & Privacy Statements
 
-We will make our privacy policy available on request and will provide a link to this policy from all CML internet sites.
+We will make our privacy policy available on request and will provide a link to this policy from all Coles Myer websites.
 
-A general privacy statement covering our data handling practices will be available on our internet sites, and via our customer service departments.
+Privacy statements are issued by our businesses, loyalty programs and some specific business functions. These refer to our privacy policy but give more specific information regarding our data handling practices. They are available through our websites, stores, customer service departments and other points of contact with the public.
 
-This policy will be reviewed from time to time and any amendments will be incorporated in the updated policy.
+This policy will be reviewed from time to time and any amendments will be incorporated in the updated policy and in privacy statements across the group where applicable. We will take steps to let individuals know of the changes that affect them.
 
-_**Issued June 2001**_
-
-Last Updated November 27, 2001  
-Copyright 2001 Coles Myer Ltd.
+**Issued March 2006**
