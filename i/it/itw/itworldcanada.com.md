@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itworldcanada.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315111918id_/http%3A//www.itworldcanada.com/c/Privacy%26loc%3DnavigationBar%26parentPage%3D.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworldcanada.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016123850id_/http%3A//www.itworldcanada.com/c/Privacy%26loc%3DnavigationBar%26parentPage%3D.html) for the most accurate reproduction.*
 
 # IT World Canada Inc. Online Privacy Statement
 
