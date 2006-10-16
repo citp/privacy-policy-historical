@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualjerusalem.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615063524id_/http%3A//virtualjerusalem.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualjerusalem.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016102408id_/http%3A//www.virtualjerusalem.com/privacy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
