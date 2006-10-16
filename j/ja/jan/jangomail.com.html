@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jangomail.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615052722id_/http%3A//www.jangomail.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jangomail.com privacy policy that was archived on 2006-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061017015027id_/http%3A//www.jangomail.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>JangoMail</title>
@@ -80,9 +80,19 @@ function preloadImages() {
 		if ((document.form83.username.value=='') && (document.demo.user_firstname.value=='')) {document.demo.user_firstname.focus();}
 	}
 	else
+	if ((document.location.href)=='http://www.jangomail.com/FreeTrial.asp')
+	{
+		if ((document.form83.username.value=='') && (document.demo.FirstName.value=='')) {document.demo.FirstName.focus();}
+	}
+	else
 	if ((document.location.href)=='http://www.jangomail.com/PasswordReminder.asp')
 	{
 		if ((document.form83.username.value=='') && (document.passwordreminder.username.value=='')) {document.passwordreminder.username.focus();}
+	}
+	else
+	if (document.location.href.indexOf('www.jangomail.com/subscribe.asp') != -1)
+	{
+		if ((document.form83.username.value=='') && (document.J7084609.email.value=='')) {document.J7084609.email.focus();}
 	}
 	else	
 	if ((document.location.href)=='https://www.jangomail.com/signup.asp')
@@ -363,7 +373,7 @@ Or see the <a href="contactus.asp">Contact Us</a> page</p>
 </tr>
 <tr> 
 
-<td><a href="http://www.jangomail.com/demo.asp" onmouseover="changeImages('wmpnav_04', '/images/wmpnav_04-over.gif'); return true;" onmouseout="changeImages('wmpnav_04', '/images/wmpnav_04.gif'); return true;"> 
+<td><a href="http://www.jangomail.com/FreeTrial.asp" onmouseover="changeImages('wmpnav_04', '/images/wmpnav_04-over.gif'); return true;" onmouseout="changeImages('wmpnav_04', '/images/wmpnav_04.gif'); return true;"> 
 <img name="wmpnav_04" src="/images/wmpnav_04.gif" width="174" height="21" border="0"></a></td>
 
 </tr>
