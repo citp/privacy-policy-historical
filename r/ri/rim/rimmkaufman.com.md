@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rimmkaufman.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314214824id_/http%3A//www.rimmkaufman.com/w3c/policy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rimmkaufman.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016235234id_/http%3A//www.rimmkaufman.com/w3c/policy1.html) for the most accurate reproduction.*
 
 # Policy1
 
@@ -56,7 +56,7 @@ We're strongly committed to protecting the on-line privacy of kids. In accordanc
 
 ##  P3P: Platform for Privacy Preferences 
 
-Our privacy policy is available in machine readable format for browsers supporting P3P in [XML](https://web.archive.org/web/20060314214824id_/http%3A//www.rimmkaufman.com/w3c/policy1.xml) and [compact](https://web.archive.org/web/20060314214824id_/http%3A//www.rimmkaufman.com/w3c/cpp.html) form.
+Our privacy policy is available in machine readable format for browsers supporting P3P in [XML](https://web.archive.org/web/20061016235234id_/http%3A//www.rimmkaufman.com/w3c/policy1.xml) and [compact](https://web.archive.org/web/20061016235234id_/http%3A//www.rimmkaufman.com/w3c/cpp.html) form.
 
 For more info, visit <http://www.w3.org/TR/p3pdeployment>. 
 
