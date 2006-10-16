@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runtimedna.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628190625id_/http%3A//runtimedna.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runtimedna.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016190312id_/http%3A//runtimedna.com/privacy.php) for the most accurate reproduction.*
 
 # Runtime DNA - The Online Home to Unique Expressions of Poser and 3D Art
 
