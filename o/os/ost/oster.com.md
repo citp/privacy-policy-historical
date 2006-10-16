@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oster.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072206id_/http%3A//oster.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oster.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016181305id_/http%3A//www.oster.com/privacy.aspx) for the most accurate reproduction.*
 
 # Oster® Privacy Policy
 
