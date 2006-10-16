@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compusystems.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516004458id_/https%3A//www.compusystems.com/show-organizers-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compusystems.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016095738id_/https%3A//www.compusystems.com/show-organizers-privacy.html) for the most accurate reproduction.*
 
 # CompuSystems -- the leaders in trade show registration, lead retrieval and housing
 
