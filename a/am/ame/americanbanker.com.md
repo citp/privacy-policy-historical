@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanbanker.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508063108id_/http%3A//www.americanbanker.com/pagedisplay.html%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbanker.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016120352id_/http%3A//americanbanker.com/pagedisplay.html%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
 # American Banker Online - Privacy Policy
 
