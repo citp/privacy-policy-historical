@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetmarketingsweetie.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504155038id_/http%3A//internetmarketingsweetie.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketingsweetie.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016180158id_/http%3A//internetmarketingsweetie.com/policies.html) for the most accurate reproduction.*
 
 # Policies
 
