@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openhire.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621162209id_/http%3A//www.openhire.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openhire.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016104450id_/http%3A//www.openhire.com/company/privacy.htm) for the most accurate reproduction.*
 
 # 
 
