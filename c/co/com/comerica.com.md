@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the comerica.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614182557id_/http%3A//comerica.com/vgn-ext-templating/v/index.jsp%3Fvgnextoid%3Dd6b393471c015010VgnVCM1000004502a8c0RCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comerica.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016154718id_/http%3A//www.comerica.com/vgn-ext-templating/v/index.jsp%3Fvgnextoid%3Dd6b393471c015010VgnVCM1000004502a8c0RCRD) for the most accurate reproduction.*
 
 # Privacy - Comerica
 
-**Effective date:   May 26, 2005  
-**
+|  | 
+
+| Comerica's Privacy Commitment  
+---  
+  
+**Effective date:   August 4, 2006**
 
 **Privacy Notice**
 
@@ -108,18 +112,21 @@ We value the trust of our customers and will continue to recognize the importanc
   
 **Online Practices**
 
-Comerica respects your privacy! You can visit our web site and find out about our products and services without giving us any information about yourself. Through our web site, we strive to provide valuable information to you about how we may serve you. Whether you are a valued existing customer or someone shopping for new bank services, we hope our site answers your questions about our products and services, locations, and hours.  
+Comerica respects your privacy! You can visit our web site and find out about our products and services without giving us any information about yourself. Through our web site, we strive to provide valuable information to you about how we may serve you. Whether you are a valued existing customer or someone shopping for new bank services, we hope our site answers your questions about our products and services, locations, and hours.
+
 **Use of Information Collected** – While we do not gather information on visitors to our web site, we do collect and store the name of the state you have indicated to us.
 
 **Information about Cookies**
 
-Cookies are small pieces of information stored directly on your personal computer. Cookies help web sites to keep track of your preferences and to recognize you as a return visitor. When you return to a web site you have visited before, your browser gives the information stored on the cookie back to the server. For example, www.comerica.com stores a cookie to save your state location selection so that we can present product and service information that is available in your area. Recording a cookie for such purposes allows us to simplify and personalize your online experience.
+Cookies are small pieces of information stored directly on your personal computer. Cookies help web sites to keep track of your preferences and to recognize you as a return visitor. When you return to a web site you have visited before, your browser gives the information stored on the cookie back to the server. Cookies are not known to transmit viruses or otherwise harm your computer.
 
-We also may use cookies to facilitate online surveys or to track how visitors use our site. We use this information to improve the content, usability and functionality of our web site.
+We may use cookies to facilitate online surveys or to track how visitors use our site. We use this information to improve the content, usability and functionality of our web site.  Recording a cookie for such purposes allows us to simplify and personalize your online experience.
 
-Any time a cookie is used, it is not shared with anyone and is for Comerica's use only. Comerica does not store confidential, personal identification information in cookies.
+Any time a cookie is used, it is not shared with anyone and is for Comerica's use only. Comerica does not store confidential, personal identification information in cookies.
 
-You may choose to set your browser to reject cookies. However, we do not recommend disabling cookies on our website because you may not be able to log in or use basic features on our website. For more information see the "Help" information for the browser you are using.
+You may choose to set your browser to reject cookies. However, we do not recommend disabling cookies on our website because you may not be able to log in or use basic features on our website such as Comerica Web Banking. For more information see the "Help" information for the browser you are using.
+
+We recommend you complete your online transactions and log off before surfing to other sites or turning off your personal computer. We also recommend that you do not surf other sites during your online banking session.
 
 **Security Standards** – We safeguard any information our customers share with us, according to strict standards of security and confidentiality. View detailed security information  at your convenience. (See Related Information.) We make every effort to keep our customer files complete, up-to-date and accurate. We will tell our customers how and where to notify us about errors, and we will promptly make corrections.
 
@@ -129,5 +136,18 @@ You may choose to set your browser to reject cookies. However, we do not recomme
 
 **Information Collection by Companies Linked to us** – Our online practices may not apply to information obtained by web sites linked to us. We encourage you to review the policies and practices of each of the linked web sites you choose to visit.
 
-**Changes to our Privacy Policy** – We reserve the right to change our Privacy Policy by posting changes to our Privacy Policy at this location.  
+**Changes to our Privacy Policy** – We reserve the right to change our Privacy Policy by posting changes to our Privacy Policy at this location.
 
+Related Information  
+---  
+  
+  
+  
+  
+---  
+DISCLOSURES:   
+
+
+1Comerica Securities is a broker/dealer, member NASD/SIPC, and a subsidiary of Comerica Bank.
+
+2Comerica Insurance Services, Inc., Comerica Insurance of Texas, Incorporated, and Comerica of California Insurance Services are insurance agencies and affiliates of Comerica Bank.
