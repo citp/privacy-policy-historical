@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bankrate.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615205641id_/http%3A//www.bankrate.com/coinfo/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bankrate.com privacy policy that was archived on 2006-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061016120127id_/http%3A//www.bankrate.com/coinfo/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>About Bankrate.com</title>
@@ -31,39 +31,39 @@ function trackLink(obj,svy_inst_uid,st,mkt,prod,amt,rate,pos,web,ht)
             var s_brm=s_gi('bnkr8dev');
 
 
-            s_brm.prop12=svy_inst_uid;
+            s_brm.prop12=svy_inst_uid.toLowerCase();
 
-            s_brm.eVar1=svy_inst_uid;
+            s_brm.eVar1=svy_inst_uid.toLowerCase();
 
-            s_brm.prop13=st;
+            s_brm.prop13=st.toLowerCase();
 
-            s_brm.eVar3=st;
+            s_brm.eVar3=st.toLowerCase();
 
-            s_brm.prop14=mkt;
+            s_brm.prop14=mkt.toLowerCase();
 
-            s_brm.eVar4=mkt;
+            s_brm.eVar4=mkt.toLowerCase();
 
-            s_brm.prop15=rate;
+            s_brm.prop15=rate.toLowerCase();
 
-            s_brm.eVar5=rate;
+            s_brm.eVar5=rate.toLowerCase();
 
-            s_brm.prop16=pos;
+            s_brm.prop16=pos.toLowerCase();
 
-            s_brm.eVar7=pos;
+            s_brm.eVar7=pos.toLowerCase();
 
-            s_brm.prop17=web;
+            s_brm.prop17=web.toLowerCase();
 
-            s_brm.eVar8=web;
+            s_brm.eVar8=web.toLowerCase();
 
-            s_brm.prop18=prod;
+            s_brm.prop18=prod.toLowerCase();
 
-            s_brm.eVar9=prod;
+            s_brm.eVar9=prod.toLowerCase();
 
  	    s_brm.prop19=ht;
 
             s_brm.eVar6=ht;
 
-            s_brm.products="CPC;"+prod+";1;"+amt;
+            s_brm.products="CCR;p_"+prod.toLowerCase()+";1;"+amt.toLowerCase();
 
             s_brm.events="event3,purchase";
 
@@ -82,60 +82,89 @@ function trackLink(obj,svy_inst_uid,st,mkt,prod,amt,rate,pos,web,ht)
 <!-- SiteCatalyst code version: H.1.
 Copyright 1997-2005 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script language="JavaScript" src="/brm/inc/javascript/s_code.js"></script><img name="s_i_bnkr8dev" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/bnkr8dev/1/H.1-pdv-2/s13619753036447?[AQB]&amp;ndh=1&amp;t=30/0/2020%2010%3A37%3A37%204%200&amp;pageName=web%3E20060615205641id_%3Ehttp%253A%3Edefault.asp%3Ewww.bankrate.com%3Ecoinfo%3Eprivacy.asp&amp;g=https%3A//web.archive.org/web/20060615205641id_/http%253A//www.bankrate.com/coinfo/privacy.asp&amp;cc=USD&amp;purchaseID=90407561580380657487&amp;events=purchase&amp;products=AR%3B%3B1%3Bundefined&amp;c8=web%3E20060615205641id_%3Ehttp%253A%3Edefault.asp%3Ewww.bankrate.com%3Ecoinfo%3Eprivacy.asp%3EAbout%20Bankrate.com&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript" src="/brm/inc/javascript/s_code.js"></script><img name="s_i_bnkr8dev" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/bnkr8dev/1/H.1-pdv-2/s16409485847779?[AQB]&amp;ndh=1&amp;t=30/0/2020%2010%3A37%3A38%204%200&amp;pageName=web%3E20061016120127id_%3Ehttp%253A%3Edefault.asp%3Ewww.bankrate.com%3Ecoinfo%3Eprivacy.asp&amp;g=https%3A//web.archive.org/web/20061016120127id_/http%253A//www.bankrate.com/coinfo/privacy.asp&amp;cc=USD&amp;purchaseID=29537981580380658790&amp;events=purchase&amp;products=PVR%3Bch_%3B1%3B.04&amp;c8=web%3E20061016120127id_%3Ehttp%253A%3Edefault.asp%3Ewww.bankrate.com%3Ecoinfo%3Eprivacy.asp%3EAbout%20Bankrate.com&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script language="JavaScript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 
 var b_pv;  
 
-var zpage = "";
+var zpage = "".toLowerCase();
 
 switch(zpage){
 
-        case "home": b_pv = ".03514";
+        case "mtg": b_pv = ".06";
 
                 break;
 
-        case "story": b_pv = ".06171";
+        case "home": b_pv = ".03";
 
                 break;
 
-        case "rates": b_pv = ".49507";
+        case "invest": b_pv = ".08";
 
                 break;
 
-        case "epun": b_pv = ".05812";
+        case "auto": b_pv = ".04";
 
                 break;
 
-        case "pun": b_pv = ".05812";
+        case "cc": b_pv = ".06";
 
                 break;
 
-        case "search": b_pv = ".03514";
+        case "chksav": b_pv = ".07";
 
                 break;
+
+        case "loan": b_pv = ".13";
+
+                break;
+
+        case "pfin": b_pv = ".04";
+
+                break;
+
+        case "tax": b_pv = ".08";
+
+                break;
+
+        case "debtmgmt": b_pv = ".07";
+
+                break;
+
+        case "edu": b_pv = ".06";
+
+                break;
+
+        case "insur": b_pv = ".05";
+
+                break;
+
+        case "cuc": b_pv = ".10";
+
+                break;
+                
+        default: b_pv = ".04";
 
         
-
 }
 
 
 s_brm.pageName=""
-s_brm.server=""
-s_brm.channel=""
+s_brm.server="".toLowerCase()
+s_brm.channel="".toLowerCase()
 s_brm.pageType=""
-s_brm.prop1=""
-s_brm.prop2=""
-s_brm.prop3=""
-s_brm.prop4=""
-s_brm.prop5=""
-s_brm.prop7=""
-s_brm.prop9=""
-s_brm.prop10=""
-s_brm.prop11=""
-s_brm.products="AR;" + zpage + ";1;" + b_pv; 
+s_brm.prop1="".toLowerCase()
+s_brm.prop2="".toLowerCase()
+s_brm.prop3="".toLowerCase()
+s_brm.prop4="".toLowerCase()
+s_brm.prop5="".toLowerCase()
+s_brm.prop7="".toLowerCase()
+s_brm.prop9="".toLowerCase()
+s_brm.prop10="".toLowerCase()
+s_brm.prop11="".toLowerCase()
+s_brm.products="PVR;ch_" + zpage + ";1;" + b_pv; 
 s_brm.events="purchase";
 
 s_brm.purchaseID=Math.round(Math.random() * 10000000).toString() + new Date().getTime();
@@ -153,7 +182,7 @@ var s_code=s_brm.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><noscript><img
-src="http://bnkr8com.112.2O7.net/b/ss/bnkr8com/1/H.1--NS/0"
+src="http://bnkr8dev.112.2O7.net/b/ss/bnkr8dev/1/H.1--NS/0"
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.1. -->
 
