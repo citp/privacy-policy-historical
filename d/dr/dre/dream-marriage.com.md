@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dream-marriage.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614095903id_/http%3A//dream-marriage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dream-marriage.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016141447id_/http%3A//dream-marriage.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement - date Russian women; find Russian mail order brides online.
+# Russian girls, meet beautiful Russian women, photos - Privacy Statement
 
 All of us at Dream Marrige, Inc. subscribe ourselves to the principals of email and Internet privacy.
 
