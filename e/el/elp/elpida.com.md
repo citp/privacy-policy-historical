@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elpida.com privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420031342id_/http%3A//www.elpida.com/en/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elpida.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016051754id_/http%3A//www.elpida.com/en/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
