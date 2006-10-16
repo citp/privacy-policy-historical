@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safenet-inc.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615221608id_/http%3A//www.safenet-inc.com/resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safenet-inc.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016215437id_/http%3A//www.safenet-inc.com/resources/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Information
 
@@ -38,11 +38,11 @@
   
 | 
 
-Copyright
+## Copyright
 
-Unless otherwise noted, all information on SafeNet Web Sites is copyright©2004 by SafeNet, Inc.
+Unless otherwise noted, all information on SafeNet Web Sites is copyright © 2006 by SafeNet, Inc.
 
-SafeNet and the E.U. - U.S. Safe Harbor for Privacy
+## SafeNet and the E.U. - U.S. Safe Harbor for Privacy
 
 The European Commission and the U.S. Department of Commerce have developed a "safe harbor" framework of data protection principles ("Safe Harbor"). This Safe Harbor is designed to provide U.S. organizations with a means to satisfy the European Union's legal requirement that adequate data protections be afforded to personally-identifiable information transferred from the European Union to the United States. SafeNet's Privacy Policy is consistent with the Safe Harbor principles, and SafeNet has certified that its transfers of data from the European Union to the United States adhere to the Safe Harbor principles. 
 
@@ -97,12 +97,12 @@ Employment/Employee Data includes any information about an identified or identif
 
 SafeNet will ensure adequate protection for Employment/Employee Data processed or transferred between SafeNet entities. SafeNet entities may transfer Employment/Employee Data to selected external third parties that have been engaged to perform certain employment-related services. These third parties may only process the data in accordance with the SafeNet entity's instructions (data processors) or make decisions (e.g., to assess eligibility for supplemental life insurance, short-term disability benefit, etc.) regarding the data as part of the delivery of their services (data controllers). In either instance, SafeNet entities will select reliable suppliers who undertake, by contract or other legally binding and permissible means, to put in place appropriate technical and organizational security measures to ensure an adequate level of protection commensurate with their status as data processors or data controllers. SafeNet entities will require external third party suppliers to comply with this Policy or to guarantee the same levels of protection as SafeNet when handling this data. Such selected third parties will have access to this data solely for the purposes of performing the services specified in the applicable service contract. If a SafeNet entity concludes that a supplier is not complying with these obligations, it will promptly take appropriate actions to remedy such non-compliance or implement necessary sanctions. Occasionally, SafeNet entities may also be required to disclose certain Employment and/or Employee Data to other third parties as a matter of law (e.g., to tax and social security authorities, garnishments, etc.); to protect SafeNet's legal rights (e.g., to defend a litigation suit); or in an emergency where the health or security of an employee is endangered. 
 
-Safe Harbor Statement 
+## Safe Harbor Statement 
 
 **Risk Factors**  
 The Private Securities Litigation Reform Act of 1995 provides a "safe harbor" for forward-looking statements. Certain information included in our Annual Report on Form 10-K and other materials filed with the Securities and Exchange Commission ("SEC") (as well as information included in oral statements or other written statements made or to be made by the Company) contain statements relating to the following: acquisition strategy, dependence upon existing and new product offerings, competition, patents, intellectual property and licensing, future growth, rapid technological and market change, manufacturing and sourcing risks, Internet infrastructure and regulation, international operations, volatility of stock price, financial risk management and potential volatility in operating results, among others. These conditions involve important factors that could cause actual results to differ materially from those expressed in any forward-looking statements made by or on behalf of the Company. Any forward-looking statements are made pursuant to the Private Securities Litigation Reform Act of 1995 and, as such, speak only as of the date made. Statements made in this document that are not purely historical are forward-looking statements, including any statements as to beliefs, plans, expectations, or intentions regarding the future. The Company assumes no obligation to update information concerning its expectations.
 
-Terms of Use
+## Terms of Use
 
 **Disclaimer of Liability**  
 SafeNet, Inc. is providing this site and its contents on an "as is" basis and makes no representations or warranties of any kind with respect to this site or its content.
