@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankrate.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205641id_/http%3A//www.bankrate.com/coinfo/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankrate.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016120127id_/http%3A//www.bankrate.com/coinfo/privacy.asp) for the most accurate reproduction.*
 
 # About Bankrate.com
 
