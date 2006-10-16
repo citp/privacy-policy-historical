@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615070105id_/http%3A//www.fxsound.com/global/pages/legal/privacy.php%3Fvendor%3D0%26subvendor%3D0%26plus%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016093956id_/http%3A//www.fxsound.com/global/pages/legal/privacy.php%3Fvendor%3D0%26subvendor%3D0%26plus%3D0%26refer%3D0) for the most accurate reproduction.*
 
 # FXsound.com - FXsound Privacy Statement
 
@@ -38,7 +38,7 @@ FXsound is the sole owner of the information collected on this site. We use diff
 **CHOICES AVAILABLE REGARDING USE OF INFORMATION**
 
   1. **Opt out of (unsubscribing) from email:** Each email communication that we send to you includes instructions on how to unsubscribe from receiving further email communications. However, we will then be unable to inform you about products you have previously purchased (such as an available upgrade that you are entitled to receive) or to inform you about critical technical service issues relating to a product or service you own.
-  2. **Correcting and updating your information:** If you need to change your name or email address, feel free to [contact us](http://www.fxsound.com/dfx/pages/forms/dfxSupport.php?vendor=0&subvendor=0&plus=0).
+  2. **Correcting and updating your information:** If you need to change your name or email address, feel free to [contact us](http://www.fxsound.com/dfx/pages/forms/dfxSupport.php?vendor=0&subvendor=0&plus=0&refer=0).
 
   
 **INFORMATION ABOUT PARTNER AND ADVERTISER WEB SITES**  
@@ -47,7 +47,7 @@ Our Web site may contain links to other Web sites, including through banner ads 
 **CONTACT FXSOUND**  
 If you have any questions about this privacy statement, the practices of this Web site, or your dealings with this site, please contact us.
 
-**Email:** [click here to send us email](http://www.fxsound.com/global/pages/forms/fxsoundSupport.php?vendor=0&subvendor=0&plus=0)
+**Email:** [click here to send us email](http://www.fxsound.com/global/pages/forms/fxsoundSupport.php?vendor=0&subvendor=0&plus=0&refer=0)
 
 **Mailing Address:**  
 Power Technology  
