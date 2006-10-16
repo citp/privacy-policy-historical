@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosettastone.com privacy policy that was archived on 2006-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060515075915id_/http%3A//www2.rosettastone.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosettastone.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016211649id_/http%3A//www.rosettastone.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Rosetta Stone: Individuals - Privacy Policy
 
@@ -28,7 +28,7 @@ The elements of your Data that we collect may include:
   * Name
   * Job title
   * Company name
-  * Home address, phone and fax number
+  * Home, shipping and billing addresses, phone and fax number
   * Mobile telephone number
   * E-mail address
   * Payment details such as credit card information
@@ -45,11 +45,8 @@ We use your Data for purposes, which may include:
   * Conducting market research surveys.
   * Running competitions.
   * Providing you with information about products and services we offer (providing you agree to receive such information).
-  * Sharing your Data with third party organizations who offer products or services, which we feel, may be of interest to you (providing you agree to receive such information).
 
 
-
-If you wish to receive information about FLT products or services or from other carefully selected organizations about products or services they offer, please indicate your preferences using the consent boxes when providing us with your Data.
 
 We use the information you provide when placing an order to complete that order. We do not share this information with outside parties except 1. To the extent necessary to complete that order or to provide services where the outside party is acting on our behalf and has no independent right to use the information we provide (i.e. a third party shipping or customer support center), or 2. To successors in title to our business or 3. In accordance with a properly executed court order or if otherwise required to do so by law.
 
@@ -72,12 +69,10 @@ We use information from cookies for purposes, which may include:
   * Identifying returning users and registrants
   * Enabling you to move more easily around our site
   * Tracking your use of our site to better develop our sites in accordance with your requirements
-  * Building up a demographic profile.  
-If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out” of this web-site analysis tool by clicking here.
+  * Building up a demographic profile.
+  * If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you may choose to set you Web browser to not accept cookies. Further information on how to prevent cookies from being stored on your computer can be found on [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) under the ‘manage cookies’ section. Alternatively go to the help menu within your Internet browser.
 
 
-
-Further information on how to prevent cookies from being stored on your computer can be found on [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) under the ‘manage cookies’ section. Alternatively go to the help menu within your Internet browser.
 
 From time to time we may permit 3rd party companies to set cookies on FLT sites for purposes which may include market research, revenue tracking or to improve functionality of the site.
 
@@ -91,7 +86,7 @@ FLT has appropriate measures in place to ensure that our users’ Data is protec
 
 Transfer of Data
 
-The Internet is a global environment. Using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing FLT sites and communicating electronically with us you acknowledge and agree to our processing of personal data in this way. By agreeing to our transfer of your Data to third party organizations for them to send you details of products and services offered (as detailed above) you are deemed to provide your consent to the transfer of your Data to organizations based outside the European Economic Area.
+The Internet is a global environment. Using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing FLT sites and communicating electronically with us you acknowledge and agree to our processing of personal data in this way.
 
 You may request a copy or send a correction of the personal information we hold about you by contacting the Privacy Officer at [privacyofficer@RosettaStone.com](mailto:privacyofficer@RosettaStone.com) or writing to:
 
