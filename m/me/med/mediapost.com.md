@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212151837id_/http%3A//www.mediapost.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016142022id_/http%3A//www.mediapost.com/index.cfm%3Ffa%3Dmain.privacy) for the most accurate reproduction.*
 
-# MediaPost Help
+# MediaPost.com
 
 |   |    
 ---|---  
@@ -26,5 +26,11 @@ Your individual [MediaPost](http://www.mediapost.com/) user information is passw
 
 MediaPost Communications will NOT disclose any personal information except as described above, as required by law or to protect our interests. MediaPost Communications does disclose user information, including demographic data, in an aggregated form that does not identify individual users in order to describe its services to prospective partners, advertisers and other third parties and for other lawful purposes. 
 
-If at any time you believe that MediaPost Communications has not adhered to these principles, please notify us promptly by email to [jeff@mediapost.com](mailto:jeff@mediapost.com), or via our contact informations below.  
- 
+If at any time you believe that MediaPost Communications has not adhered to these principles, please notify us promptly by email to [jeff@mediapost.com](mailto:jeff@mediapost.com), or via our contact informations below.   
+  
+| []() **Refunds and Returns  **  
+  |  Refunds are not available unless otherwise stated at time of purchase.   
+| []() **Shipping  **  
+  |  Shipping charges are specified at time of purchase and are the full responsiblity of the member unless otherwise stated at time of purchase. 
+
+Domestic (USA only) shipping charges for the monthly print magazines are included as part of the subscription, all other products and services are stated at time of purchase. 
