@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datacash.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211422id_/http%3A//www.datacash.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datacash.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016163707id_/http%3A//www.datacash.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # DataCash Ltd - Privacy Policy
 
