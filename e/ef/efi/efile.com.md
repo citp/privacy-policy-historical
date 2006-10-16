@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616060053id_/http%3A//efile.com/general/efilePrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016090421id_/http%3A//www.efile.com/general/efilePrivacy.aspx) for the most accurate reproduction.*
 
 # 1040, taxes efile, efile taxes, income taxes, efile, e-file, efile taxes, efile services, tax return, tax filing, income efile taxes
 
