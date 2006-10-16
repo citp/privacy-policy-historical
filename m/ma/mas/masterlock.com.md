@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615160300id_/http%3A//masterlock.com/general/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016154716id_/http%3A//www.masterlock.com/privacy.shtml) for the most accurate reproduction.*
 
-# Master Lock: Privacy Notice
+# Master Lock: About Us
 
-  
-Master Lock Company L.L.C.  
+|  | 
+
+**Master Lock® Company LLC © 2006**
+
+Master Lock Company LLC  
 World Headquarters  
 137 W Forest Hill Avenue  
 PO Box 927  
-Oak Creek, WI 53154
+Oak Creek, WI 53154  
+(800) 308-9244
 
 Welcome to the Internet site of Master Lock Company (this "Site"). Master Lock Company wants you to know what information we learn about you when you visit this Site, what we do with that information, and how you can view or change the information we have. 
 
@@ -23,8 +27,6 @@ ATTENTION KIDS: If you are 16 or younger, be sure to ask your parents for permis
 
 Master Lock reserves the right to change or update this policy at any time by posting a notice that we are changing our privacy policy or by sending an e-mail message to previously registered visitors. 
 
-Please see the Master Lock Company's 
-
-[legal notice](https://web.archive.org/web/20060615160300id_/http%3A//masterlock.com/general/legal.shtml) for more information.  
+Please see the Master Lock Company's [legal notice](https://web.archive.org/web/20061016154716id_/http%3A//www.masterlock.com/legal.shtml) for more information.  
   
-
+---|---
