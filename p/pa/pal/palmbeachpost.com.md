@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the palmbeachpost.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200347id_/http%3A//www.palmbeachpost.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmbeachpost.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016202957id_/http%3A//www.palmbeachpost.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Palm Beach Post: Palm Beach & Treasure Coast news, sports, entertainment, jobs, cars, homes
 
 LAST UPDATED: March 17, 2006 
 
@@ -101,8 +101,3 @@ A final note: The Web is an evolving medium. If we need to change our privacy po
 Back to top
 
 * * *
-
-  
-  
-  
----
