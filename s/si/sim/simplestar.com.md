@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617171547id_/http%3A//simplestar.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016175444id_/http%3A//www.simplestar.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Simple Star - Privacy
 
@@ -6,10 +6,10 @@
 
 ### **Simple Star Privacy and Legal Information**
 
-[Terms of service](https://web.archive.org/web/20060617171547id_/http%3A//simplestar.com/legal/tos.php)  
-[Privacy policy](https://web.archive.org/web/20060617171547id_/http%3A//simplestar.com/legal/privacy.php)  
-[Copyright and trademark information](https://web.archive.org/web/20060617171547id_/http%3A//simplestar.com/legal/copyright.php)  
-[Software end user license agreement](https://web.archive.org/web/20060617171547id_/http%3A//simplestar.com/legal/eula.php)  
+[Terms of service](https://web.archive.org/web/20061016175444id_/http%3A//www.simplestar.com/legal/tos.php)  
+[Privacy policy](https://web.archive.org/web/20061016175444id_/http%3A//www.simplestar.com/legal/privacy.php)  
+[Copyright and trademark information](https://web.archive.org/web/20061016175444id_/http%3A//www.simplestar.com/legal/copyright.php)  
+[Software end user license agreement](https://web.archive.org/web/20061016175444id_/http%3A//www.simplestar.com/legal/eula.php)  
 [Online Store terms and conditions](https://store.simplestar.com/cgi-bin/pages/tac)  
 
 
