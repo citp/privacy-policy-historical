@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetranslation.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314084632id_/http%3A//www.freetranslation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetranslation.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016225940id_/http%3A//www.freetranslation.com/privacy.htm) for the most accurate reproduction.*
 
 # FreeTranslation.com - Privacy Policy
 
