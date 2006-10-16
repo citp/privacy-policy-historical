@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secutix.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313201544id_/http%3A//www.secutix.com/Home/New_Site/Print/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secutix.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016025702id_/http%3A//www.secutix.com/Home/New_Site/Print/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
