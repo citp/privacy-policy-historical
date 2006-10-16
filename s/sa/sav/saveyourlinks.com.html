@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the saveyourlinks.com privacy policy that was archived on 2006-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060516035218id_/http%3A//www.saveyourlinks.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saveyourlinks.com privacy policy that was archived on 2006-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061017000949id_/http%3A//www.saveyourlinks.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
    <meta name="Keywords" content="save your links, save this link, save the link, save links, save favorites, save bookmarks, wizdatasys, wizdata systems, bookmark, bookmarks, favorite, favorites, hyperlink, hyperlinks, link, links, mark, marks, site, sites, page,  pages, URL, urls, utility, utilities, tool, tools, aids, privacy, private, public, password, protected, secure, security, reliable, manage, manager, organize, organizer, shareware, free, exchange, exchanges, transfer, transfers, convert, converts, internet explorer, netscape, browse, browser, explore, explorer, surf, surfing, college, colleges, university, universities, student, students, lab, home, research, save, saves, store, stores, remember, remembers, worldwide, world, wide, anywhere, remote, access, portable, web, web-based, online, internet, business, travel">
@@ -135,8 +135,26 @@ won a <b>Palm Pilot</b> in our active user <a href="contest.asp">contest</a>.
          <table border="0" width="100%" cellpadding="0" cellspacing="0">
             <tbody><tr><td width="468"><center>
 
-<!-- AlwaySync -->
-<a href="http://allwaysync.com/?a=saveyourlinks" target="_new"><img src="http://www.allwaysync.com/download/AllwaySync_banner_small.gif?a=saveyourlinks" width="468" height="60" name="adBanner_" border="0" alt="Banner Ad"></a>
+<a href="http://www.saveyourlinks.com/" target="_new"><img src="./graphics/tip12.gif" width="468" height="60" name="adBanner" border="0" alt="Banner Ad"></a>
+<script language="JavaScript">
+var adImages = new Array("468x60.gif", "tip1.gif", "tip2.gif", "tip3.gif", "tip4.gif", "tip5.gif", "tip6.gif", "tip7.gif", "tip8.gif", "tip9.gif", "tip10.gif", "tip11.gif", "tip12.gif");
+var imgCt = adImages.length;
+var day = new Date();
+var seed = day.getTime();
+thisAd = parseInt(((seed - (parseInt(seed/1000,10) * 1000))/10)/100*imgCt - 1,10);
+
+function cycle() {
+	if (document.images) {
+		thisAd++;
+		if (thisAd == imgCt) {
+			thisAd = 0;
+		}
+		document.adBanner.src = "./graphics/" + adImages[thisAd];
+		setTimeout("cycle()", 15 * 1000);
+	}
+}
+cycle();
+</script>
 
 </center></td></tr>
             <tr><td bgcolor="#003399"><img src="./graphics/spacer.gif" height="2" width="1" hspace="0" vspace="0" alt=""></td></tr>
