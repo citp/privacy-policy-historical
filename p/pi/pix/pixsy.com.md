@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixsy.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614081339id_/http%3A//pixsy.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixsy.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016213911id_/http%3A//www.pixsy.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Pixsy: Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Privacy Policy 
 
-Pixsy welcomes comments and questions on this Privacy Policy. You may e-mail your questions or comments to: [info@Pixsy.com](mailto:chase@Pixsy.com)
+Pixsy welcomes comments and questions on this Privacy Policy. You may e-mail your questions or comments to: [info@Pixsy.com](mailto:info@Pixsy.com)
 
 **1\. Personally Identifiable Information Collected at this Site.** You can visit portions of the Site at any time without providing any information about yourself. However, in order to use certain portions of the Site, you will need to provide some personally identifiable information. 
 
