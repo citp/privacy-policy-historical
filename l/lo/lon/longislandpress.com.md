@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longislandpress.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615175910id_/http%3A//longislandpress.com/index.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longislandpress.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016210609id_/http%3A//www.longislandpress.com/index.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # Long Island Press: Long Island Newspaper, News, Entertainment, Real Estate, Classifieds, Automotive, Weddings, Business News, Sports, Restaurants, Fashion, Lifestyle
 
