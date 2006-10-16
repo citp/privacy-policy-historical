@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldversion.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025636id_/http%3A//www.oldversion.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldversion.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016122353id_/http%3A//www.oldversion.com/privacy.php) for the most accurate reproduction.*
 
 # OldVersion.com
 
@@ -8,4 +8,4 @@ We use your IP address to help diagnose problems with our server and to administ
 
 This site contains links to other sites. OldVersion.com is not responsible for the privacy practices or the content of such web sites. All the programs that can obtained here are provided by other companies. You should review the privacy policies of these companies, along with the terms of service for more information about the terms under which those programs are provided to you. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can [contact us](https://web.archive.org/web/20060615025636id_/http%3A//www.oldversion.com/contact.php). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can [contact us](https://web.archive.org/web/20061016122353id_/http%3A//www.oldversion.com/contact.php). 
