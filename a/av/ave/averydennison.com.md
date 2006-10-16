@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the averydennison.com privacy policy that was archived on 2005-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050526200648id_/http%3A//www.averydennison.com/corporate.nsf/PG/PrivacyStatement%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the averydennison.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016083020id_/http%3A//www.averydennison.com/corporate.nsf/PG/PrivacyStatement%3FOpenDocument) for the most accurate reproduction.*
 
 # Privacy Statement
 
