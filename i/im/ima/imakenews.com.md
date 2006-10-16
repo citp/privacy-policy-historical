@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615080939id_/http%3A//imakenews.com/imn_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017000114id_/http%3A//www.imakenews.com/imn_privacy.asp) for the most accurate reproduction.*
 
 # iMakeNews - Create HTML email marketing newsletters, manage lists, track results.
 
@@ -31,12 +31,10 @@ Information Request for IMN DirectBlog™ - Name, Company, Email address and Pos
 
 Technical Information - Upon visiting the website, IMN may collect log file data on your session. This technical information alone does not identify a specific individual. The information collected may include (but is not limited to): The URL of the site that you came from before visiting IMN's website. Your computers IP address. The browser you are using. The pages that you visit on the IMN website. Search terms that are used on the IMN website. There is no merging of technical and personal data collected on the site. Technical information is used to measure and improve the effectiveness of the IMN website and diagnose problems.
 
-**Information gathered offline**
+When you enter a sweepstakes or other promotional event, we may ask for your name, address, telephone number and e-mail address so we can administer the sweepstakes and notify winners.
 
-  
-Service Agreements - The primary vehicle for data collected offline are our service agreements. Information such as name, title, physical address, billing address (if different from physical), phone number and Email address as well as company related information might be requested. IMN may also collect a valid credit card number and expiration date for billing purposes.
-
-**Customer Data**  
+**Information gathered offline**  
+Service Agreements - The primary vehicle for data collected offline are our service agreements. Information such as name, title, physical address, billing address (if different from physical), phone number and Email address as well as company related information might be requested. IMN may also collect a valid credit card number and expiration date for billing purposes. **Customer Data**  
 Through the various services provided by our software we also collect and store information in a secure and private manner on behalf of our customers. This information includes, but is not limited to, email address lists, articles, survey answers, letters, and usage statistics. This information is owned by our customers and is not accessible to our partners or other customers unless the customer grants permission.
 
 **Micro site**  
@@ -58,7 +56,7 @@ IMN does not share personal information regarding its customers with any of its 
 You remain in control of your information. When you provide your information you can select whether you want to receive further communications about our products and services or other marketing information. When you opt-in to receive marketing communications from IMN, you can opt-out whenever you want. There is an opt-out feature located in the footer of all IMN email communications. IMN wants your personal data to be accurate and complete. If you want to change any of the personal data or preferences you can email us at [support@imninc.com](mailto:support@imninc.com) or call 781-890-4700
 
  **Data Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Customer accounts are password-protected so that only the customer has access to his/her personal information. It is incumbent on the customer not to divulge their password to anyone. We will never ask for a customer's password in an unsolicited phone call or in an unsolicited email. Although we make every effort to ensure security of customer information, no data transmission can be guaranteed to be 100% secure over the Internet. [Click here for more information.](https://web.archive.org/web/20060615080939id_/http%3A//imakenews.com/imn_security.asp)
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Customer accounts are password-protected so that only the customer has access to his/her personal information. It is incumbent on the customer not to divulge their password to anyone. We will never ask for a customer's password in an unsolicited phone call or in an unsolicited email. Although we make every effort to ensure security of customer information, no data transmission can be guaranteed to be 100% secure over the Internet. [Click here for more information.](https://web.archive.org/web/20061017000114id_/http%3A//www.imakenews.com/imn_security.asp)
 
  **Questions and Contact Information**  
 If you have any questions about this privacy Policy, you can email us at [support@imninc.com](mailto:support@imninc.com). Or, send correspondence to the following address:
