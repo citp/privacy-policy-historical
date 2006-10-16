@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the love-sessions.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418001630id_/http%3A//love-sessions.com/policy_guidelines.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love-sessions.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016060737id_/http%3A//www.love-sessions.com/policy_guidelines.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,4 +63,4 @@ Further more we will report the email address where the advice is asked to be se
 
 *In some cases we mention on the site that due to maintenance the period is longer then the normal 24hrs response time. In this case you will see a clear text on the sign up page.
 
- 
+Love-Sessions does not take responsibility for images on Love-Sessions. Some images can be supplied by content writer's and Love-Sessions is not able to check the legal background of it. However we are committed to an honest site, whenever you find material that is in your opinion copyright protected, please notify us and we will take action towards it.
