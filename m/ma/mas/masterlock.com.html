@@ -1,105 +1,421 @@
-<!--The following is the downloaded HTML source of the masterlock.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615160300id_/http%3A//masterlock.com/general/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the masterlock.com privacy policy that was archived on 2006-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061016154716id_/http%3A//www.masterlock.com/privacy.shtml) for the most accurate reproduction.-->
 
-<html><head>
-<title>Master Lock: Privacy Notice</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-</head><body bgcolor="#ffffff" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0">
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>    
-<td colspan="4">
-<a href="/"><img src="/images/masterlock_logo.gif" width="376" height="50" alt="Master Lock" border="0"></a></td>
-<td colspan="2">
-&nbsp;</td>
-</tr>
-<tr bgcolor="#000000" background="/images/blackbar.gif">
-<td>
-<a href="/general/faqs_find.shtml"><img src="/images/btn_howtobuy.gif" width="93" height="26" alt="How to Buy" border="0"></a></td>
-<td>
-<a href="/general/faqs.shtml"><img src="/images/btn_customerservice.gif" width="125" height="26" alt="Customer Service" border="0"></a></td>
-<td>
-<a href="/meetml/meet.shtml"><img src="/images/btn_aboutmasterlock.gif" width="137" height="26" alt="About Master Lock" border="0"></a></td>
-<td>
-<a href="/sitemap.shtml"><img src="/images/btn_sitemap.gif" width="78" height="26" alt="Site Map" border="0"></a></td>
-<td align="RIGHT">
-<a href="/general/new.shtml"><img src="/images/btn_currentfeature.gif" width="139" height="26" alt="What's New" border="0"></a></td>
-</tr>
+<title>Master Lock: About Us</title>
+<link rel="icon" href="http://www.masterlock.com/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.masterlock.com/favicon.ico" type="image/x-icon">
+<link href="/css/default_2nd.css" rel="stylesheet" type="text/css">
+<script language="JavaScript1.2">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_jumpMenuGo(selName,targ,restore){ //v3.0
+  var selObj = MM_findObj(selName); if (selObj) MM_jumpMenu(targ,selObj,restore);
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+
+var activeSub=0;
+var SubNum=0;
+
+//function reDo(){ window.location.reload() }
+	//window.onresize = reDo;
+
+  //Define global variables
+	var timerID = null;
+	var timerOn = false;
+	var timecount = 0;
+	var what = null;
+	var newbrowser = true;
+	var check = false;
+
+  function init(){
+  	//  alert ("Running Init");
+    if (document.layers) {
+    	//  alert ("Running Netscape 4");
+    	layerRef="document.layers";
+    	styleSwitch="";
+    	visibleVar="show";
+			screenSize = window.innerWidth;
+			what ="ns4";
+    }else if(document.all){
+    	//  alert ("Running IE");
+      layerRef="document.all";
+      styleSwitch=".style";
+      visibleVar="visible";
+			screenSize = document.body.clientWidth + 18;
+			what ="ie";
+		}else if(document.getElementById){
+     	//  alert ("Running Netscape 6");
+      layerRef="document.getElementByID";
+      styleSwitch=".style";
+      visibleVar="visible";
+			what="moz";
+		}else{
+			//alert("Older than 4.0 browser.");
+			what="none";
+			newbrowser = false;
+		}
+		//window.status='status bar text to go here';
+		check = true;
+  } //function
+
+	// Turns the layers on and off
+  function showLayer(layerName){
+  	if(check){
+    	if (what =="none"){
+      	return;
+      }
+	    else if (what == "moz"){
+      	document.getElementById(layerName).style.visibility="visible";
+      }
+      else{
+      	eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="visible"');
+      }
+		}
+    else {// alert ("Please wait for the page to finish loading.");
+    	return;
+    }
+	} // function
+
+	function hideLayer(layerName){
+  	if(check){
+    	if (what =="none"){
+      	return;
+      }
+      else if (what == "moz"){
+      	document.getElementById(layerName).style.visibility="hidden";
+      }
+      else{
+      	eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="hidden"');
+			}    
+    }
+    else {// alert ("Please wait for the page to finish loading.");
+    	return;
+    }
+	} // function
+
+	function hideAll(){
+		hideLayer('layer1');
+		hideLayer('layer2');
+		hideLayer('layer3');
+		hideLayer('layer4');
+	} // function
+
+	function startTime() {
+		if (timerOn == false) {
+    	timerID=setTimeout( "hideAll()" , timecount);
+      timerOn = true;
+	  }
+	} // function
+
+	function stopTime() {
+		if (timerOn) {
+    	clearTimeout(timerID);
+      timerID = null;
+      timerOn = false;
+	  }
+	} // function
+
+	function onLoad(){
+		init();	
+	}
+	function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+
+/***********************************************
+* Switch Content script- © Dynamic Drive (www.dynamicdrive.com)
+* This notice must stay intact for legal use. Last updated April 2nd, 2005.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var enablepersist="off" //Enable saving state of content structure using session cookies? (on/off)
+var collapseprevious="yes" //Collapse previously open content when opening present? (yes/no)
+
+var contractsymbol='<img src="/images/careernav_close.gif">' //HTML for contract symbol. For image, use: <img src="whatever.gif">
+var expandsymbol='<img src="/images/careernav_open.gif">' //HTML for expand symbol.
+
+
+if (document.getElementById){
+document.write('<style type="text/css">')
+document.write('.switchcontent{display:none;}')
+document.write('</style>')
+}
+
+function getElementbyClass(rootobj, classname){
+var temparray=new Array()
+var inc=0
+var rootlength=rootobj.length
+for (i=0; i<rootlength; i++){
+if (rootobj[i].className==classname)
+temparray[inc++]=rootobj[i]
+}
+return temparray
+}
+
+function sweeptoggle(ec){
+var thestate=(ec=="expand")? "block" : "none"
+var inc=0
+while (ccollect[inc]){
+ccollect[inc].style.display=thestate
+inc++
+}
+revivestatus()
+}
+
+
+function contractcontent(omit){
+var inc=0
+while (ccollect[inc]){
+if (ccollect[inc].id!=omit)
+ccollect[inc].style.display="none"
+inc++
+}
+}
+
+function expandcontent(curobj, cid){
+var spantags=curobj.getElementsByTagName("SPAN")
+var showstateobj=getElementbyClass(spantags, "showstate")
+if (ccollect.length>0){
+if (collapseprevious=="yes")
+contractcontent(cid)
+document.getElementById(cid).style.display=(document.getElementById(cid).style.display!="block")? "block" : "none"
+if (showstateobj.length>0){ //if "showstate" span exists in header
+if (collapseprevious=="no")
+showstateobj[0].innerHTML=(document.getElementById(cid).style.display=="block")? contractsymbol : expandsymbol
+else
+revivestatus()
+}
+}
+}
+
+function revivecontent(){
+contractcontent("omitnothing")
+selectedItem=getselectedItem()
+selectedComponents=selectedItem.split("|")
+for (i=0; i<selectedComponents.length-1; i++)
+document.getElementById(selectedComponents[i]).style.display="block"
+}
+
+function revivestatus(){
+var inc=0
+while (statecollect[inc]){
+if (ccollect[inc].style.display=="block")
+statecollect[inc].innerHTML=contractsymbol
+else
+statecollect[inc].innerHTML=expandsymbol
+inc++
+}
+}
+
+function get_cookie(Name) { 
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) { 
+offset += search.length
+end = document.cookie.indexOf(";", offset);
+if (end == -1) end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function getselectedItem(){
+if (get_cookie(window.location.pathname) != ""){
+selectedItem=get_cookie(window.location.pathname)
+return selectedItem
+}
+else
+return ""
+}
+
+function saveswitchstate(){
+var inc=0, selectedItem=""
+while (ccollect[inc]){
+if (ccollect[inc].style.display=="block")
+selectedItem+=ccollect[inc].id+"|"
+inc++
+}
+
+document.cookie=window.location.pathname+"="+selectedItem
+}
+
+function do_onload(){
+uniqueidn=window.location.pathname+"firsttimeload"
+var alltags=document.all? document.all : document.getElementsByTagName("*")
+ccollect=getElementbyClass(alltags, "switchcontent")
+statecollect=getElementbyClass(alltags, "showstate")
+if (enablepersist=="on" && ccollect.length>0){
+document.cookie=(get_cookie(uniqueidn)=="")? uniqueidn+"=1" : uniqueidn+"=0" 
+firsttimeload=(get_cookie(uniqueidn)==1)? 1 : 0 //check if this is 1st page load
+if (!firsttimeload)
+revivecontent()
+}
+if (ccollect.length>0 && statecollect.length>0)
+revivestatus()
+}
+
+if (window.addEventListener)
+window.addEventListener("load", do_onload, false)
+else if (window.attachEvent)
+window.attachEvent("onload", do_onload)
+else if (document.getElementById)
+window.onload=do_onload
+
+if (enablepersist=="on" && document.getElementById)
+window.onunload=saveswitchstate
+
+function expandit() {
+    mydiv = document.getElementById("sc4");
+    mydiv.style.display="block";
+	//mySpan = document.getElementById("span1"); 
+    //mySpan.style.className = "NewClassName"; 
+
+}
+       var frameWidth=800;
+       var frameHeight=600;
+       if (self.innerWidth)
+	{
+		frameWidth = self.innerWidth;
+		frameHeight = self.innerHeight;
+	}
+	else if (document.documentElement && document.documentElement.clientWidth)
+	{
+		frameWidth = document.documentElement.clientWidth;
+		frameHeight = document.documentElement.clientHeight;
+	}
+	else if (document.body)
+	{
+		frameWidth = document.body.clientWidth;
+		frameHeight = document.body.clientHeight;
+	}
+function openWin(target){
+   self.window.open(target, "outWin", 'left=20,top=30,width='+(frameWidth-40)+',height='+(frameHeight+10)+'');
+}
+
+//-->
+</script><style type="text/css">.switchcontent{display:none;}</style>
+</head>
+<body>
+<div id="outmost-container">
+<div id="outer-container">
+<div id="inner-container">
+<!-- begin masthead -->
+<div id="masthead">
+  <table width="958" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td><div id="blackbox"></div>
+        <div id="logo"><a href="/"><img src="/images/ML_logo.gif" alt="Master Lock® - Tough Under Fire" width="221" height="52" border="0" title="Master Lock® - Tough Under Fire"></a></div>
+        <div id="toughUnderFireLogo"><img src="/images/toughUnderFireLogo.gif" alt="Master Lock® - Tough Under Fire" width="98" height="60" border="0" title="Master Lock® - Tough Under Fire"></div>
+        <div style="clear:both;"></div></td>
+    </tr>
+  </tbody></table>
+</div>
+<!-- end masthead -->
+
+<table border="0" cellspacing="0" cellpadding="0" width="755"><tbody><tr><td width="150"><div class="navdiv" onmouseover="MM_swapImage('Image0','','/images/navtab_residential-over2nd.gif',0);"><a href="/residential/" onmouseout="MM_swapImgRestore();"><img src="/images/navtab_residential.gif" title="Residential Products" alt="Residential Products" name="Image0" width="150" height="27" border="0" id="Image0"></a></div></td>
+<td width="150"><div class="navdiv" onmouseover="MM_swapImage('Image1','','/images/navtab_auto-over2nd.gif',0);"><a href="/automotive/" onmouseout="MM_swapImgRestore();"><img src="/images/navtab_auto.gif" title="Automotive Products" alt="Automotive Products" name="Image1" width="150" height="27" border="0" id="Image1"></a></div></td>
+<td width="150"><div class="navdiv" onmouseover="MM_swapImage('Image2','','/images/navtab_commercial-over2nd.gif',0);"><a href="/commercial/" onmouseout="MM_swapImgRestore();"><img src="/images/navtab_commercial.gif" title="Commercial Products" alt="Commercial Products" name="Image2" width="150" height="27" border="0" id="Image2"></a></div></td>
+<td width="150"><div class="navdiv" onmouseover="MM_swapImage('Image3','','/images/navtab_school-over2nd.gif',0);"><a href="/school/" onmouseout="MM_swapImgRestore();"><img src="/images/navtab_school.gif" title="School &amp; Locker Lock Products" alt="School &amp; Locker Lock Products" name="Image3" width="150" height="27" border="0" id="Image3"></a></div></td>
+<td width="150"><div class="navdiv" onmouseover="MM_swapImage('Image4','','/images/navtab_government-over2nd.gif',0);"><a href="/government/" onmouseout="MM_swapImgRestore();"><img src="/images/navtab_government.gif" title="Government Products" alt="Government Products" name="Image4" width="150" height="27" border="0" id="Image4"></a></div></td>
+</tr></tbody></table><!--Color Band --><table border="0" cellspacing="0" cellpadding="0" width="755">
+	<tbody><tr>
+ </tr> </tbody></table>  <!--End of Color Band -->
+
+<table border="0" cellspacing="0" cellpadding="0" width="755">
+  <tbody><tr>
+    <td colspan="4" valign="top" style="background-color:#000; border-right-width:1px; border-right-style:solid; border-right-color:#FFFFFF;">&nbsp;</td>
+  </tr>
+</tbody></table>
+<!-- start homepage tools -->
+<table width="755" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top"><table border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="145" valign="top" bgcolor="#CCCCCC"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td><a href="/"><img src="/images/csnav-home.gif" alt="Home" width="131" height="15" border="0" title="Home"><img src="/images/careernav_open.gif" border="0"></a></td>
+              </tr>
+            </tbody></table>
+            <p>&nbsp;</p></td>
+          <td valign="top" width="609"><h1 class="graphicalHeaders">Privacy Statement</h1>
+            <!--<img src="/images/headers/privacystatement.gif" alt="Privacy Statement" title="Privacy Statement" width="373" height="23" class="category-title">-->
+            <div style="padding:10px; "><b>Master Lock® Company LLC ©
+              
+              2006
+              </b><br>
+              <br>
+              Master Lock Company LLC<br>
+              World Headquarters<br>
+              137 W Forest Hill Avenue<br>
+              PO Box 927<br>
+              Oak Creek, WI 53154<br>
+              (800) 308-9244<br>
+              <br>
+              Welcome to the Internet site of Master Lock Company (this "Site"). Master Lock Company wants you to know what information we learn about you when you visit this Site, what we do with that information, and how you can view or change the information we have. <br>
+              <br>
+              When you visit this Site, we recognize only your "domain name" (e.g., "interport.net" or "aol.com") and not your e-mail address. We will see your e-mail address only if you give it to us by filling out a form or by sending us an e-mail message. <br>
+              <br>
+              When you visit this Site, we keep track of your domain name, the time you access this Site, your browser type, the Internet address of the site from which you just came, and the pages at this Site that you visit.<br>
+              <br>
+              If you provide information about yourself by registering on a page, by filling out a survey, by participating in our chat rooms or otherwise by voluntarily telling us about yourself or your activities, we will collect that information for our own use. We use the information you and other visitors give us to improve our products and services and the content of this Site. <br>
+              <br>
+              We may also use it to send you information about our products and services. If at any time you do not want to receive e-mail from us, please let us know by sending an e-mail message to us at: <a href="https://contact.masterlock.com/index.aspx?ID=5">Master Lock Contact Form</a> telling us that you do not want to receive e-mail from our company. <br>
+              <br>
+              ATTENTION KIDS: If you are 16 or younger, be sure to ask your parents for permission before you send us any personal information such as your name, address or telephone number or enter any contest or request any free offers. ATTENTION PARENTS: You may wish to consider using software tools that prevent children from disclosing their personal information without your permission. Such software is available on-line or in your local software store or send us an e-mail request for further information. <br>
+              <br>
+              Master Lock reserves the right to change or update this policy at any time by posting a notice that we are changing our privacy policy or by sending an e-mail message to previously registered visitors. <br>
+              <br>
+              Please see the Master Lock Company's <a href="legal.shtml">legal notice</a> for more information.</div></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
 </tbody></table>
 
-<table border="0" cellspacing="0" cellpadding="0" vspace="0" hspace="0" width="630">
-<tbody><tr> 
-<td width="243" rowspan="2" align="LEFT" valign="TOP"><img src="../images/MasLokPrivPic.jpg" width="214" height="324" border="0" alt="Privacy Notice">
-<a href="legal.shtml"><br><img src="../images/MasLokLegalButn.gif" width="206" height="37" border="0" alt="Le
-gal Notice"></a>
-</td>
-<td width="232" align="LEFT" valign="TOP" height="3">
-&nbsp;</td>
-</tr>
-<tr> 
-<td align="LEFT" valign="TOP" colspan="2" height="361"> 
-<font face="Arial, Helvetica, sans-serif" size="2"><br>
-Master Lock Company L.L.C.<br>
-World Headquarters<br>
-137 W Forest Hill Avenue<br>
-PO Box 927<br>
-Oak Creek, WI 53154<br>
-<br>
-Welcome to the Internet site of Master Lock Company (this "Site"). 
-Master Lock Company wants you to know what information we learn about 
-you when you visit this Site, what we do with that information, and 
-how you can view or change the information we have. <br>
-<br>
-When you visit this Site, we recognize only your "domain name" 
-(e.g., "interport.net" or "aol.com") and not your 
-e-mail address. We will see your e-mail address only if you give it 
-to us by filling out a form or by sending us an e-mail message. <br>
-<br>
-When you visit this Site, we keep track of your domain name, the time 
-you access this Site, your browser type, the Internet address of the 
-site from which you just came, and the pages at this Site that you visit.<br>
-<br>
-If you provide information about yourself by registering on a page, 
-by filling out a survey, by participating in our chat rooms or otherwise 
-by voluntarily telling us about yourself or your activities, we will 
-collect that information for our own use. We use the information you 
-and other visitors give us to improve our products and services and 
-the content of this Site. <br>
-<br>
-We may also use it to send you information about our products and services. 
-If at any time you do not want to receive e-mail from us, please let 
-us know by sending an e-mail message to us at: <a href="https://contact.masterlock.com/index.aspx?ID=5">Master Lock Contact Form</a> 
-telling us that you do not want to receive e-mail from our company. 
-<br>
-<br>
-ATTENTION KIDS: If you are 16 or younger, be sure to ask your parents 
-for permission before you send us any personal information such as your 
-name, address or telephone number or enter any contest or request any 
-free offers. ATTENTION PARENTS: You may wish to consider using software 
-tools that prevent children from disclosing their personal information 
-without your permission. Such software is available on-line or in your 
-local software store or send us an e-mail request for further information. 
-<br>
-<br>
-Master Lock reserves the right to change or update this policy at any 
-time by posting a notice that we are changing our privacy policy or 
-by sending an e-mail message to previously registered visitors. <br>
-<br>
-Please see the Master Lock Company's <font color="#333366"><a href="legal.shtml">legal notice</a></font> for more information.<font color="#333366"><br>
-</font></font> <br>                                    
-</td>
-</tr>
-</tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>	
-<td colspan="6"><center><font face="Arial, Helvetica, sans-serif" size="1">
-<p><br><br>
-<a href="/auto/index.shtml">Automotive</a> | <a href="/sport/index.shtml">Bike &amp; Sport</a> | <a href="/campus/index.shtml">Campus</a> | <a href="/jobsite/index.shtml">Contractor Grade</a> | <a href="/homeyard/index.shtml">Home &amp; Yard</a> | <a href="/outdoor/index.shtml">Outdoorsman</a> | <a href="/travel/index.shtml">Travel</a><br>
-<a href="http://www.masterease.com">Order Status</a> | <a href="/cgi-bin/select.pl">Online Product Catalog</a> | <a href="http://commercial.masterlock.com">Business, School, Industry and Government</a><br>
-<a href="/general/faqs.shtml">Help</a> | <a href="/sitemap.shtml">Site Map</a> | <a href="/news/index.shtml">In the News</a> | <a href="/meetml/meet.shtml">About Master Lock</a>
-</p></font><p><font face="Arial, Helvetica, sans-serif" size="1"><a href="/general/privacy.shtml">Privacy Statement</a>  | Copyright © 2006 Master Lock L.L.C. | <a href="/general/legal.shtml">Legal Statement</a>
-</font></p></center><br>
-</td></tr></tbody></table>
 
+<!-- end homepage tools -->
+</div>
+</div>
+<!-- start utility nav -->
+
+<div class="utility-container">
+  <div style="float:left;"><a href="/about/">About Master Lock®</a> | <a href="https://contact.masterlock.com/index.aspx?ID=5" target="_blank">Contact Us</a> | <a href="/privacy.shtml">Privacy Statement</a> | <a href="/legal.shtml">Legal Statement</a> | <a href="/sitemap.shtml">Site Map</a></div>
+  <div style="float:right;">Copyright © 2006 Master Lock® Company LLC</div>
+  <div style="clear:both;"></div>
+</div>
+<!-- end utility nav -->
+</div>
 
 
 
