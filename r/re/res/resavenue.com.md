@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resavenue.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625074718id_/http%3A//resavenue.com/privacy_resav.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resavenue.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016164346id_/http%3A//resavenue.com/privacy_resav.jsp) for the most accurate reproduction.*
 
 # Hotel Reservations on the Internet :: ResAvenue
 
