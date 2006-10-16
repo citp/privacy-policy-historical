@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanityfair.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315153627id_/http%3A//www.vanityfair.com/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanityfair.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016081015id_/http%3A//www.vanityfair.com/services/privacypolicy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines: Vanity Fair: Privacy Policy
 
@@ -53,5 +53,5 @@ If you have other concerns or questions about any aspect of this policy, you may
 
 Privacy Policy Coordinator  
 VanityFair.com  
-4 Times Square 17th Floor  
-New York, NY 10036-6561
+1166 6th Avenue, 14th Floor  
+New York, NY 10036
