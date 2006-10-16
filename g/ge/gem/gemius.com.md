@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemius.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627113755id_/http%3A//www.gemius.com/English/sub.php%3Fid%3Dpolityka) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemius.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016093301id_/http%3A//www.gemius.com/English/sub.php%3Fid%3Dpolityka) for the most accurate reproduction.*
 
 # Gemius SA - Leader in Online Research
 
