@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saic.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030829id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saic.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016091936id_/http%3A//www.saic.com/privacy) for the most accurate reproduction.*
 
-# SAIC: Privacy Statement
+# SAIC: Web Privacy Statement
 
 Your privacy, and the privacy of all users of www.saic.com is of the highest priority. This privacy statement explains what information we gather from you, how it may be used by us and how it is protected. If you have any questions, please contact our [Webmaster](https://web.archive.org/tools/contactForm.html).
 
