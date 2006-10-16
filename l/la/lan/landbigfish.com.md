@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landbigfish.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204181831id_/http%3A//landbigfish.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landbigfish.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016092301id_/http%3A//www.landbigfish.com/privacy.cfm) for the most accurate reproduction.*
 
 # Land Big Fish Privacy Policy
 
@@ -26,6 +26,6 @@
 
 11\. **Opt-Out and Discontinue**. Subscribers may elect to op-out and to discontinue receiving future communications from us through making the appropriate changes to your personal subscriber account at this web site. In addition, you may elect to avoid future communications from Land Big Fish by sending us an email at info@landbigfish.com indicating your Username and E-mail address and requesting to opt-out and discontinue future communications. Notwithstanding the forging, even if you have opted-out, under urgent circumstances, we reserve the right to send you information about the service or your account, but we will not send you unsolicited communications regarding any general information regarding this web site or commercial offers or advertisements if you have opted out or discontinued such communications. 
 
-12\. **Contact Us**. If you have any questions regarding this Privacy Policy, the practices of Land Big Fish, or your dealings with our web site, please contact us at: Land Big Fish, Inc., 1820 Wiltshire Rd., Akron, Ohio 44313. Contact: Telephone: 330-668-2745. Facsimile: 330-865-1130. 
+12\. **Contact Us**. If you have any questions regarding this Privacy Policy, the practices of Land Big Fish, or your dealings with our web site, please contact us at: Land Big Fish, Inc., 4551 Whyem Drive, Akron, Ohio 44319. Contact: Telephone: 330-644-5313. Facsimile: 330-644-5312. 
 
 13\. **Modifications**. Land Big Fish reserves the right to change or update this Privacy Policy at any time by posting a notice that we are changing our Privacy Policy. 
