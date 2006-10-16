@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205550id_/http%3A//members.freewebs.com/page.jsp%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebs.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016141834id_/http%3A//members.freewebs.com/page.jsp%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Freewebs Privacy Policy
 
@@ -10,8 +10,8 @@ Because we gather certain types of information about our users, we feel you shou
 
 Freewebs.com gathers two types of information about users: 
 
-  1. Information that users provide through optional, voluntary submissions. These are voluntary submissions when creating a Freewebs account such as your name or email address. 
-  2. Information Freewebs.com gathers through aggregated tracking, derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to users' needs and to help us better understand the demographics of our audience. Under no circumstances does Freewebs.com divulge any information about an individual user to a third party unless mandated by law. 
+  1. 1\. Information that users provide through optional, voluntary submissions. These are voluntary submissions when creating a Freewebs account such as your name or email address. 
+  2. 2\. Information Freewebs.com gathers through aggregated tracking, derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to users' needs and to help us better understand the demographics of our audience. Under no circumstances does Freewebs.com divulge any information about an individual user to a third party unless mandated by law. 
 
 
 
@@ -21,9 +21,14 @@ Optional Voluntary Information
     We offer the following free services, which require some type of voluntary submission of personal information by users: 
 
   1. Free Web Hosting  
-During the account creation process, the user is required to supply their full name, username, password, and email address. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. Any files uploaded or created on the Freewebs system are by nature of being hosted, for the public and are thus publicly accessible unless they are stored in the user's optional password-protected directory. Files in a password protected directory will only be accessible by means of a username and password which the user will provide. We will not disclose any information about a user's password protected directory username or password except to comply with applicable law or valid legal process. 
+During the account creation process, the user is required to supply their full name, username, password, and email address. **Except as specified in this Privacy statement,** we will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
+
+"You can access and update your personal information by logging in and visiting your My Account and My Profile areas and following the instructions on those pages, or by contacting customer support. You can delete certain personal information you supplied us by visiting your My Profile area. If you delete such information, it cannot be used by us or disclosed to third parties in the future. Even if you delete or change some personal information in our registration database, it may still be stored on other databases (including those kept for archival purposes)." 
+
+Any files uploaded or created on the Freewebs system are by nature of being hosted, for the public and are thus publicly accessible unless they are stored in the user's optional password-protected directory. Files in a password protected directory will only be accessible by means of a username and password which the user will provide. 
+
   2. "E-mail this to a friend" Service  
-Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose. 
+Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used in the case of transmission errors and, of course, to let the recipient know who sent the email. 
   3. Polling  
 We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Freewebs.com may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users. 
   4. Surveys  
@@ -31,7 +36,7 @@ Freewebs.com may occasionally conduct optional user surveys to better target our
 
 
 Children 
-    Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. 
+    Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 since we do not allow anyone under the age of 13 to signup. 
 Usage tracking 
     
 
@@ -50,13 +55,13 @@ You can refuse cookies by turning them off in your browser. If you've set your b
 
 Freewebs.com uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the needs and interests of our users. 
 
-When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our 
+When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our user's interests. 
 
-Freewebs.com creates aggregate reports on user demographics and traffic patterns. This allows our advertisers us to more effectively tailer our pay services to our users. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
+Freewebs.com creates aggregate reports on user demographics and traffic patterns. This allows us to more effectively tailor advertising and promotions to our users 
 
 ## Third Party Advertising and Cookies
 
-Ads appearing on this Web site and Freewebs sites are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.net/us/corporate/privacy) In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+Ads appearing on this Web site and Freewebs sites are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.net/us/corporate/privacy) In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
 ## Sharing of the Information
 
@@ -66,9 +71,11 @@ Freewebs.com uses the above-described information to tailor our content to suit 
 
 All payment procedures of Freewebs.com operate on secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
 
+Although we have established and maintain commercially reasonable security procedures to protect your personally identifiable information, perfect security, does not exist on the Internet. Furthermore, due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. 
+
 ## No Spyware / Adware
 
-We have a [strict policy against spyware and adware](https://web.archive.org/web/20060615205550id_/http%3A//members.freewebs.com/page.jsp?page=spywarePolicy) and apply this to all Freewebs users as well. 
+We have a [strict policy against spyware and adware](https://web.archive.org/web/20061016141834id_/http%3A//members.freewebs.com/page.jsp?page=spywarePolicy) and apply this to all Freewebs users as well. 
 
 ### Opt-Out Policy
 
