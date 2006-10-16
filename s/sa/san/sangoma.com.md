@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sangoma.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210173416id_/http%3A//www.sangoma.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sangoma.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016203540id_/http%3A//www.sangoma.com/footer/privacy) for the most accurate reproduction.*
 
-# Sangoma - Privacy
+# Sangoma - Privacy Policy
 
 ### Information Automatically Collected and Stored 
 
