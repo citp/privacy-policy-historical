@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsemagic.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619165319id_/http%3A//responsemagic.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsemagic.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016201010id_/http%3A//www.responsemagic.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # .: Response Magic :. Professional Autoresponder + Lead Management + Contact Manager
 
