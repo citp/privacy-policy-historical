@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laserfocusworld.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616182524id_/http%3A//lfw.pennnet.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laserfocusworld.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016200539id_/http%3A//lfw.pennnet.com/about/privacy.cfm) for the most accurate reproduction.*
 
-# Laser Focus World - Photonics, Optoelectronics, Fiber Optics, Photonics Manufacturing, Photovoltaic Information and Laser Technology Advances and News
+# Laser Focus World- Optoelectronics, Lasers & Laser Technology Advances
 
 _(Last updated Sept 4, 2003)_
 
