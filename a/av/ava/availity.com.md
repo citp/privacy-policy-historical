@@ -1,44 +1,57 @@
-> *The following text is extracted and transformed from the availity.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619183245id_/http%3A//availity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the availity.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016200440id_/http%3A//availity.com/privacy.htm) for the most accurate reproduction.*
 
 # Availity Privacy Policy
 
   
  Privacy Policy  
+
+
   
+Availity Web Privacy and Security Statement
+
+Commitment to Confidentiality
+
+Confidentiality is a top priority at Availity. We are committed to maintaining the highest level of confidentiality with all of the information we receive from our policy owners, including the information received from this Web site.
+
+Personal Information
+
+At Availity we are very aware of the privacy concerns of our customers and others who visit the Availity Web site. In fact, we share your concerns and will not solicit personal information from you as you tour our site, though you may provide that information voluntarily. If you do elect to provide personal information to us, in no case will we sell, license, or transmit that information outside of Availity for any reason, unless you authorize us to do so.
+
+There are instances in which Availity might internally use the personal information you voluntarily submit. These instances include identifying and registering you for the Customer Service Center portion of our site. In addition, we may disclose your personal information (as described below) to our agents, affiliates and subsidiaries to enable them to perform certain functions for us. We may also use your Secret Prompt, Secret Response, and Birth Date to later identify you in case you forget or misplace your User ID/Password.
+
+"Personal" information is described as data that is unique to an individual, such as a name, address, telephone number, social security number, and date of birth (DOB). At times, we may request personal information from you through our sites in order to deliver requested materials to you, respond to your questions, or deliver a product or service and will use the information for such purposes.
+
   
-Commitment to Confidentiality 
-
-Confidentiality is a top priority at Availity, L.L.C. ("Availity"). The purpose of this Privacy Statement is to inform you of information that is collected about you and how such information may be used. If you have questions or concerns regarding this statement, you should [contact us](https://web.archive.org/web/20060619183245id_/http%3A//availity.com/contact_home.htm "Contact Us").
-
-At Availity we are very aware of your privacy concerns. In fact, we share your concerns and will not solicit personal information from you as you tour our site, though you may provide that information voluntarily. If you do elect to provide personal information to us, in no case will we sell, license, or transmit that information outside of Availity for any reason, unless you authorize us to do so. At times, we may request personal information from you through our site in order to deliver requested materials to you, respond to your questions, or deliver a product or service, and we will use your information for such purposes. If you provide an e-mail address, we may send you information via e-mail regarding Availity and/or third parties.
-
 What You Should Know
 
-The information contained on this web site is provided for general informational purposes as a public service. The material is not a substitute for obtaining professional advice from a qualified person, firm, or corporation. Information may be changed or updated without notice. Therefore, information contained on our sites may be out of date at any given time. Consult the appropriate professional advisor for more complete and up-to-the-minute information. Availity is not engaged in rendering any legal, medical, or professional services or advice by placing this general informational material on this web site.
+The information contained on this Availity Web site is provided for general informational purposes, as a convenience to the customers of Availity subsidiaries and as a public service. The material is not a substitute for obtaining professional advice from a qualified person, firm, or corporation. Consult the appropriate professional advisor for more complete and up-to-the minute information. Availity is not engaged in rendering any legal, medical, or professional services by placing this general informational material on this Web site.
 
-In no circumstances will Availity be liable to any party for any direct, indirect, special, or other consequential damages arising out of any use of this web site or any other hyper-linked web site. This includes, without limitation, any lost profits, business interruption, loss of programs, or data on your equipment, or otherwise, even if Availity is expressly advised of the possibility or likelihood of such damages.
+_In no circumstances will Availity be liable to any party for any direct, indirect, special, or other consequential damages arising out of any use of this web site, or any other hyper-linked web site. This includes, without limitation, any lost profits, business interruption, loss of programs or data on your equipment, or otherwise, even if Availity is expressly advised of the possibility or likelihood of such damages._
 
-Availity may change this privacy policy at its discretion provided that any such change shall be posted on this web site.
+Information may be changed or updated without notice. Therefore, information contained on our sites may be out of date at any given time. Availity may also make improvements and/or changes to the products and/or programs described on our sites at any time without notice.
 
-Privacy Statement
+E-mail
 
-Availity has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Availity web site.
+Should you send us your questions and comments via e-mail to any mail box provided on any of our affiliated Web sites, we will share your correspondence with our Customer Service representatives and those employees or agents most capable of addressing your questions and concerns. We will retain your communication until we have done our very best to provide you with a complete and satisfactory response. Ultimately, we will either discard your communication or, in some cases, archive it.
 
-The registration form and online surveys require customers to provide us with certain contact information, such as name and e-mail address. We use this contact information to send customers information about our company and upcoming enhancements.
+Please note that, unless we expressly advise you otherwise, the e-mail facilities on our Web site do not provide a means for completely secure and private communications between Availity and you, the User. Although every attempt will be made to keep your information confidential, from a technical standpoint, there is still a risk. For that reason, please do not use e-mail to communicate information to us that you consider to be confidential. If you wish, you may contact us instead via telephone at the Customer Service toll-free number. 
 
-The Availity marketing web site and transaction gateway contains links to other sites. Availity is not responsible for the privacy practices or the content of such web sites.
+Security Agreement
 
-Security 
+During the period in which I (User) am provided with authorized access to information of Availity and its subsidiaries and affiliates of Availity, I agree to the following provisions:
 
-Availity is committed to managing information transaction exchanges using state-of-the-art security systems and encryption technology which are designed so that data traveling through the Availity® Gateway is inaccessible to those who are not otherwise entitled to the information. Network and data security is fundamental to Availity. Our security and registration processes are designed to be compliant with evolving State and Federal regulations such as the [Health Insurance Portability and Accountability Act (HIPAA)](https://web.archive.org/web/20060619183245id_/http%3A//availity.com/hipaa_home.htm "HIPAA Information").
-
-Part of the Availity value to the health care community is helping to establish accurate information exchange. Availity does provide some level of data validation by performing health plan-specific edits, in addition to those that participating health plans may evoke, to ensure the highest degree of accuracy and turn-around time as possible. These edits are not a manipulation of any medical, financial, or other data, and Availity does not otherwise manipulate the data values.
-
-Availity provides a connection through which information passes and has no ownership interest in the data passing through our gateway. Our commitment to health care providers, health plans, and others is the secure movement of accurate health care information from one customer to another. The Availity Gateway allows providers, health plans, and other health care stakeholders to communicate without the need to fully convert their other applications or to cede any control of access to their databases or their database content.
-
-A listing of [HIPAA-related links](https://web.archive.org/web/20060619183245id_/http%3A//availity.com/reference_hipaa.htm "HIPAA Reference Page") is available for more information.
+**Availity Property (Includes all affiliates of Availity):**
 
   
-Correct/Update 
 
-The Availity Gateway offers users the ability to change and modify information previously submitted.
+
+  1. Availity may deny access to its information systems to anyone at any time, with or without cause. 
+  2. Availity reserves the right to access, read, copy, delete, and disclose information on Availity systems and equipment. Availity reserves the right to inspect any and all files stored or transmitted to Availity equipment. 
+  3. User shall not use Availity's Internet facilities and computing resources in a manner which may violate the laws and regulations of the United States or any other nation, or the laws and regulations of any State, City, Province, or other jurisdiction in any fashion. 
+  4. User shall maintain in strictest confidence and shall not use or disclose any information of Availity or its managed and/or contracted entities, including, but not limited to, insured, plan, member, client, patient, enrollee, claim, or medical information or any information of Availity's mainframe or computing environment. 
+  5. The use of a Password created by User does not create a right of privacy to User. Passwords are designed to minimize unauthorized access. User shall keep Passwords, created to access Availity's Web site, strictly confidential. Passwords should be memorized and not shared with anyone at any time for any reason. If User's Password is accidentally revealed, User can generate a new Password at any time. 
+  6. Regarding confidential information made available to health care providers through this Web site, you may print a copy of any clinical information accessed thereby only if you are authorized by a physician or other health care provider to do so, and only for the purpose of providing medical treatment to the subject patient of such health record information. You may not reproduce or distribute any text or graphics of the Web Site to others, or copy the information on your own server, or link to this Web site, without prior written permission of Availity. 
+  7. If User becomes aware of or suspects fraudulent activity or any other activity that threatens the security of Availity's Information Systems, User must immediately report the activity to Availity. 
+  8. User acknowledges that he or she has read the Provider Agreement entered into between Availity and the Organization for which User is accessing Availity's Systems. User agrees to abide by all of the terms and conditions of such agreement. 
+
+
