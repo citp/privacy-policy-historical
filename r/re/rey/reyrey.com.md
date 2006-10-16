@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reyrey.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315215359id_/http%3A//reyrey.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reyrey.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016210449id_/http%3A//www.reyrey.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Reynolds and Reynolds Privacy Policy
 
@@ -8,9 +8,9 @@
 
 Regarding Reynolds' responses to the GLB/FTC Safeguards Rule: 
 
-  * For Reynolds' business customers, view our [Gramm-Leach-Bliley Service Provider Safeguards Commitment](https://web.archive.org/web/20060315215359id_/http%3A//reyrey.com/Standalone_FTC_Safeguards_Language.pdf).
-  * View our Frequently Asked Questions: [General FAQ](https://web.archive.org/web/20060315215359id_/http%3A//reyrey.com/Reynolds_GLB_FAQ.pdf) and [Product-Specific FAQ](https://web.archive.org/web/20060315215359id_/http%3A//reyrey.com/Reynolds_GLB_FAQ_ERA.pdf).
-  * View Reynolds’ Update on Complying with the [Gramm-Leach-Bliley Act Privacy and Safeguards Rules](https://web.archive.org/web/20060315215359id_/http%3A//reyrey.com/Gramm_Leach_Bliley_Act_Brochure.pdf).  
+  * For Reynolds' business customers, view our [Gramm-Leach-Bliley Service Provider Safeguards Commitment](https://web.archive.org/web/20061016210449id_/http%3A//www.reyrey.com/Standalone_FTC_Safeguards_Language.pdf).
+  * View our Frequently Asked Questions: [General FAQ](https://web.archive.org/web/20061016210449id_/http%3A//www.reyrey.com/Reynolds_GLB_FAQ.pdf) and [Product-Specific FAQ](https://web.archive.org/web/20061016210449id_/http%3A//www.reyrey.com/Reynolds_GLB_FAQ_ERA.pdf).
+  * View Reynolds’ Update on Complying with the [Gramm-Leach-Bliley Act Privacy and Safeguards Rules](https://web.archive.org/web/20061016210449id_/http%3A//www.reyrey.com/Gramm_Leach_Bliley_Act_Brochure.pdf).  
 
 
 
