@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615000319id_/http%3A//globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016144351id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Globe of Blogs ::: Privacy Policy
+
+### Random Weblog
+
+[Information Policy Blog](http://i-policy.typepad.com/) ::: Information Policy Blog provides daily news about information policy in the world. Support - e-belarus.ORG  
+
 
 ## Statement of Policy
 
