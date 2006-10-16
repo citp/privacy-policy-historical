@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cahoot.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015016id_/http%3A//cahoot.com/security/security_and_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cahoot.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016153903id_/http%3A//cahoot.com/security/security_and_privacy.html) for the most accurate reproduction.*
 
 # security and privacy
 
 We are committed to protecting the privacy of all personal information which we obtain from you when you visit the cahoot website and when you use your cahoot account. Our aim is to safeguard the security and privacy of your personal information whilst providing you with a personalised service that keeps you up-to-date with products and services which meet your preferences and needs. By using the cahoot website, you agree to the collection and use of such information in accordance with the following Privacy Policy and Data Protection Statement.
 
-For information on what we're doing to keep your money safe and what you can do to help see our [online security page](https://web.archive.org/web/20060615015016id_/http%3A//cahoot.com/security/online_security.html).
+For information on what we're doing to keep your money safe and what you can do to help see our [online security page](https://web.archive.org/web/20061016153903id_/http%3A//cahoot.com/security/online_security.html).
 
 ## security
 
@@ -115,7 +115,7 @@ Before opening your account, cahoot will check your details with fraud preventio
 
 For further information on the credit reference agencies and fraud prevention agencies that we use, please telephone 0845 602 0319. 
 
-If your application is unsuccessful and you wish to discuss your application further, you can contact **cahoot** via [contact us](https://web.archive.org/web/20060615015016id_/http%3A//cahoot.com/contact_us/contact_us.html). 
+If your application is unsuccessful and you wish to discuss your application further, you can contact **cahoot** via [contact us](https://web.archive.org/web/20061016153903id_/http%3A//cahoot.com/contact_us/contact_us.html). 
 
 ## information sharing
 
