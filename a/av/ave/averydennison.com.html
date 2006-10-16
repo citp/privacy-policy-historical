@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the averydennison.com privacy policy that was archived on 2005-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050526200648id_/http%3A//www.averydennison.com/corporate.nsf/PG/PrivacyStatement%3FOpenDocument) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the averydennison.com privacy policy that was archived on 2006-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061016083020id_/http%3A//www.averydennison.com/corporate.nsf/PG/PrivacyStatement%3FOpenDocument) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Statement</title>
@@ -15,7 +15,22 @@ function init() { }
 imageBL2ID="BL2_B";
 imageBL3ID="BL3_BC";
 </script>
+<!-- Carriage Return for QuickSearch - if user hits return key it will search value in Quick Search input box, if input box is empty do nothing --> 
 <script language="JavaScript">
+<!-- Begin
+function CarriageReturn () {
+var keycode;
+if (window.event) keycode = window.event.keyCode;
+else if (e) keycode = e.which || (document.forms(0).Query.value == null);
+else return false;
+if (keycode == 13) {
+QuickSearch();
+return true
+}
+return false
+}
+//  End -->                  
+</script> <script language="JavaScript">
 function checkImg_act(imgName) {
   // check current level
   if ((imgName != imageBL2ID) && (imgName != imageBL3ID)) {
@@ -62,11 +77,11 @@ function fwLoadMenus() {
   fw_menu_0.addMenuItem("Industrial and Automotive Products North America","window.open('http://www.iapna.averydennison.com', '_blank');");
   fw_menu_0.addMenuItem("Infochain Express","window.open('http://www.infochain.averydennison.com', '_blank');");
   fw_menu_0.addMenuItem("Machine Systems","window.open('http://www.machines.averydennison.com', '_blank');");
-  fw_menu_0.addMenuItem("Microreplication Division","window.open('http://www.microreplication.averydennison.com', '_blank');");
   fw_menu_0.addMenuItem("Performance Films Division","window.open('http://www.pfd.averydennison.com', '_blank');");
   fw_menu_0.addMenuItem("Performance Polymers Division","window.open('http://www.performancepolymers.averydennison.com', '_blank');");
   fw_menu_0.addMenuItem("Reflective Products Division","window.open('http://www.reflectives.averydennison.com', '_blank');");
   fw_menu_0.addMenuItem("Retail Information Services","window.open('http://www.ris.averydennison.com', '_blank');"); 
+  fw_menu_0.addMenuItem("RFID Division","window.open('http://www.rfid.averydennison.com', '_blank');"); 
   fw_menu_0.addMenuItem(fw_menu_0_1,"window.open('http://www.fasson.com', '_blank');");
   fw_menu_0.addMenuItem("Specialty Tape Division Asia Pacific","window.open('http://www.stap.averydennison.com', '_blank');");
   fw_menu_0.addMenuItem("Specialty Tape Division Europe","window.open('http://www.stde.averydennison.com', '_blank');");
@@ -93,28 +108,26 @@ function img_inact(imgName) {
   }
 }
 </script>
-
-
+ <!-- QuickSearch function to do WYSIWYG search - to search only specified fields below -->
 <script language="JavaScript">
-<!-- 
-document._domino_target = "_self";
-function _doClick(v, o, t) {
-  var url="/corporate.nsf/PGBUILD/PrivacyStatement?OpenDocument&Click=" + v;
-  if (o.href != null)
-    o.href = url;
-  else {
-    if (t == null)
-      t = document._domino_target;
-    window.open(url, t);
-  }
+<!--
+function QuickSearch() 
+{
+Query1="Field+ContentA="
+Query39="Field+ImageName="
+Query42="Field+File="
+Query45="Field+Date="
+Query47="Field+Subject="
+Query48="Field+Body="
+
+document.forms[0].action="http://www.averydennison.com/corporate.nsf/PG/?SearchView&query="+Query1+document.forms(0).Query.value+"+or+"+Query39+document.forms(0).Query.value+"+or+"+Query42+document.forms(0).Query.value+"+or+"+Query45+document.forms(0).Query.value+"+or+"+Query47+document.forms(0).Query.value+"+or+"+Query48+document.forms(0).Query.value;
 
 }
-// -->
+-->
 </script>
 </head>
 <body text="000000" bgcolor="FFFFFF" marginheight="0" topmargin="0" vspace="0" marginwidth="0" leftmargin="0" hspace="0" link="blue" vlink="purple" alink="blue">
-
-<form> <link rel="stylesheet" href="http://www.averydennison.com/corporate.nsf/(CSS_File)/style.css/$File/style.css?OpenElement" type="text/css">
+ <link rel="stylesheet" href="http://www.averydennison.com/corporate.nsf/(CSS_File)/style.css/$File/style.css?OpenElement" type="text/css">
 
 <script language="JavaScript" type="text/javascript">
 <!--
@@ -156,10 +169,8 @@ arMenu2 = new Array(
 "Press Releases","http://www.averydennison.com/corporate.nsf/PG/L3B2C1",0,
 "Company Overview","http://www.averydennison.com/corporate.nsf/PG/L3B2C2",0,
 "Events","http://www.averydennison.com/corporate.nsf/PG/L3B2C3",0,
-"Images","http://www.averydennison.com/corporate.nsf/PG/L3B2C4",0,
-"Bios","http://www.averydennison.com/corporate.nsf/PG/L3B2C5",0,
-"Resources","http://www.averydennison.com/corporate.nsf/PG/L3B2C6",0,
-"Media Contacts","http://www.averydennison.com/corporate.nsf/PG/L3B2C7",0
+"Bios","http://www.averydennison.com/corporate.nsf/PG/L3B2C4",0,
+"Media Contacts","http://www.averydennison.com/corporate.nsf/PG/L3B2C5",0
 )
 arMenu3 = new Array(
 115, 489,53, "white","white", "#000099","#9999CC", "#000099","#000099",
@@ -172,12 +183,10 @@ arMenu3 = new Array(
 )
 arMenu4 = new Array(
 115, 606,53, "white","white", "#009900","#66CC66", "#009900","#009900",
-"Who We Are","http://www.averydennison.com/corporate.nsf/PG/L3B4C1",0,
-"Why Avery Dennison","http://www.averydennison.com/corporate.nsf/PG/L3B4C2",0,
-"Growth Opportunities","http://www.averydennison.com/corporate.nsf/PG/L3B4C3",0,
-"College Recruiting","http://www.averydennison.com/corporate.nsf/PG/L3B4C4",0,
-"Job Search - U.S.","http://www.averydennison.com/corporate.nsf/PG/L3B4C5",0,
-"Job Search - Global","http://www.averydennison.com/corporate.nsf/PG/L3B4C6",0
+"Growth Opportunities","http://www.averydennison.com/corporate.nsf/PG/L3B4C1",0,
+"Leadership Development","http://www.averydennison.com/corporate.nsf/PG/L3B4C2",0,
+"Job Search - U.S.","http://www.averydennison.com/corporate.nsf/PG/L3B4C3",0,
+"Job Search - Global","http://www.averydennison.com/corporate.nsf/PG/L3B4C4",0
 )
 
 //-->
@@ -190,7 +199,7 @@ document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='http://www.averydennison.c
 //-->
 </script>
 
-</form><form name="FRM" method="POST" action="http://www.averydennison.com/corporate.nsf/PG/?SearchView">
+<form name="FRM" method="POST" action="http://www.averydennison.com/corporate.nsf">
 <input type="HIDDEN" name="SearchFuzzy" value="False">
 
 <map name="TopMap"><area shape="rect" coords="113,15,173,33" href="http://www.averydennison.com/corporate.nsf/PG/ContactUs?OpenDocument"></map>
@@ -210,14 +219,14 @@ document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='http://www.averydennison.c
             <table width="153" border="0" cellspacing="0" cellpadding="0" height="275">
               <tbody><tr align="left" valign="top"> 
                 <td> 
-                  <map name="SearchMap1"><area shape="rect" coords="18,4,102,15" href="http://www.averydennison.com/corporate.nsf/PG/AdvanceSearch?OpenDocument"></map><map name="SearchMap2"><area shape="rect" coords="8,6,73,14" href="http://www.averydennison.com/corporate.nsf/PG/CompanyWideSearch?OpenDocument"></map><table width="121" border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
+<map name="SearchMap1"><area shape="rect" coords="18,4,102,15" href="http://www.averydennison.com/corporate.nsf/PG/AdvanceSearch?OpenDocument"></map><map name="SearchMap2"><area shape="rect" coords="8,6,73,14" href="http://www.averydennison.com/corporate.nsf/PG/CompanyWideSearch?OpenDocument"></map><table width="121" border="0" cellspacing="0" cellpadding="0" bgcolor="#CCCCCC">
                       <tbody><tr> 
                         <td width="121" align="left" valign="top"> 
                           <table width="121" border="0" cellspacing="0" cellpadding="0">
                             <tbody><tr> 
                               <td><img src="http://www.averydennison.com/corporate.nsf/(Image)/quick_search.gif/$File/quick_search.gif?OpenElement" width="91" height="35"></td>
                               <td> 
-                                <input type="image" src="http://www.averydennison.com/corporate.nsf/(Image)/btn_go.jpg/$File/btn_go.jpg?OpenElement" name="gobutton" width="30" height="35" border="0">
+                                <input type="image" src="http://www.averydennison.com/corporate.nsf/(Image)/btn_go.jpg/$File/btn_go.jpg?OpenElement" name="gobutton" width="30" height="35" border="0" onclick="QuickSearch()">
                               </td>
                             </tr>
                           </tbody></table>
@@ -229,7 +238,7 @@ document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='http://www.averydennison.c
                             <tbody><tr> 
                               <td width="8" align="left" valign="top"><img src="http://www.averydennison.com/corporate.nsf/(Image)/space.gif/$File/space.gif?OpenElement" width="8" height="1"></td>
                               <td width="113" align="left" valign="top"><tt> 
-                                <input type="text" name="Query" size="12" style="font-family:monospace">
+                                <input type="text" name="Query" size="12" style="font-family:monospace" onkeypress="CarriageReturn()">
                                 </tt></td>
                             </tr>
                           </tbody></table>
@@ -276,7 +285,7 @@ document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='http://www.averydennison.c
 
 <a href="http://www.avery.com" target="_blank">avery.com</a><br>
 <a href="http://www.avery.com/us/software/index.jsp" target="_blank">Templates / Software</a><br>
-<a href="http://www.avery.com/products/index.jsp" target="_blank">Avery Products</a><br>
+<a href="http://www.avery.com/us/products" target="_blank">Avery Products</a><br>
 <a href="http://www.avery.com/promotions/index.html" target="_blank">Special Offers</a><br>
 <a href="http://www.avery.com/us/print/index.html" target="_blank">Avery Print</a><br>
  <a href="http://www.avery.com/newsletter/index.jsp" target="_blank">Great Results</a><br>
@@ -409,9 +418,10 @@ BL2_B4b.src = "http://www.averydennison.com/corporate.nsf/(Image)/btn_careers_of
 <!-- CONTENT BEGIN -->   <tr> 
     <td width="580" align="left" valign="top"> 
 <table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top"><td width="576"><br>
+<tbody><tr valign="top"><td width="576">
+<p><br>
 <table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top"><td width="575"><div align="right"><img src="/corporate.nsf/0d0c0d41b2da5639882569de00078a22/ac32ec5e26877f8588256a24005e5f8b/ContentA/0.194?OpenElement&amp;FieldElemFormat=gif" width="267" height="34"><br>
+<tbody><tr valign="top"><td width="575"><div align="right"><img src="/corporate.nsf/0d0c0d41b2da5639882569de00078a22/ac32ec5e26877f8588256a24005e5f8b/ContentA/0.1F6?OpenElement&amp;FieldElemFormat=gif" width="267" height="34"><br>
 <font face="Verdana"><br></font></div></td></tr>
 
 <tr valign="top"><td width="575" valign="middle"><font face="Verdana">At Avery Dennison, we value our customers and take steps to protect their privacy. </font>
@@ -424,7 +434,7 @@ BL2_B4b.src = "http://www.averydennison.com/corporate.nsf/(Image)/btn_careers_of
 </p><p><font face="Verdana">We may update this policy from time to time. Revisions will be posted to this site.</font><br>
 <br></p></td></tr>
 </tbody></table>
- </td></tr>
+ </p></td></tr>
 </tbody></table>
     </td>
   </tr>
@@ -449,7 +459,7 @@ BL2_B4b.src = "http://www.averydennison.com/corporate.nsf/(Image)/btn_careers_of
           <td width="570" height="10" align="left" valign="top"><img src="http://www.averydennison.com/corporate.nsf/(Image)/space.gif/$File/space.gif?OpenElement" width="1" height="10"></td>
         </tr>
         <tr> 
-          <td width="570" align="left" valign="top" class="copyright">© 1996-2005 
+          <td width="570" align="left" valign="top" class="copyright">© 1996-2006 
             Avery Dennison Corporation. All rights reserved.&nbsp;&nbsp;&nbsp;<a href="http://www.averydennison.com/corporate.nsf/PG/LegalNotice?OpenDocument" class="copyright">Legal 
             Notice</a>&nbsp;&nbsp;&nbsp;<a href="http://www.averydennison.com/corporate.nsf/PG/PrivacyStatement?OpenDocument" class="copyright">Privacy 
             Statement</a></td>
@@ -462,8 +472,7 @@ BL2_B4b.src = "http://www.averydennison.com/corporate.nsf/(Image)/btn_careers_of
 <script language="JavaScript">
 init();
 </script>
- </form>
-
+ 
 
  
-</body></html>
+</form></body></html>
