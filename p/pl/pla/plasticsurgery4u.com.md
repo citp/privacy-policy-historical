@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plasticsurgery4u.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318164200id_/http%3A//www.plasticsurgery4u.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticsurgery4u.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016152457id_/http%3A//www.plasticsurgery4u.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Information for Bermant Plastic and Cosmetic Surgery
 
@@ -27,7 +27,7 @@ PlasticSurgery4U.com assumes no responsibility or liability for these independen
 
 To that end, PlasticSurgery4U.com cannot take responsibility for the privacy initiatives or the content of such Web services. These destination links are provided only for our visitors' convenience, and visitors access them at their own risk. 
 
-Since Dr. Bermant wishes to ensure the integrity of PlasticSurgery4U.com and its destination links, any comments pertaining Web services accessed through PlasticSurgery4U.com links are greatly appreciated, and can be submitted to [Dr. Bermant](https://web.archive.org/web/20060318164200id_/http%3A//www.plasticsurgery4u.com/contact_bermant.html)
+Since Dr. Bermant wishes to ensure the integrity of PlasticSurgery4U.com and its destination links, any comments pertaining Web services accessed through PlasticSurgery4U.com links are greatly appreciated, and can be submitted to [Dr. Bermant](https://web.archive.org/web/20061016152457id_/http%3A//www.plasticsurgery4u.com/contact_bermant.html)
 
 Third Party Affiliations and Partnerships  
 Dr. Bermant may develop partnerships and affiliations with third parties that offer products or services he believes are relevant to PlasticSurgery4U.com visitors. These relationships may or may not result in remuneration to Dr. Bermant for these product or service purchases.  There are also banners from exchange services that Dr. Bermant does not necessarily endorse.
@@ -38,7 +38,7 @@ Site Funding
 PlasticSurgery4U.com otherwise is funded by Dr. Bermant. 
 
 Contacting Us  
-If you have any questions about this privacy statement, the practices of PlasticSurgery4U.com, or your interaction with our Web service, please contact us by [E-mail](https://web.archive.org/web/20060318164200id_/http%3A//www.plasticsurgery4u.com/contact_bermant.html) or at our office. We hope to see you in the office to work out a plan that would work for your individual needs and wants. 
+If you have any questions about this privacy statement, the practices of PlasticSurgery4U.com, or your interaction with our Web service, please contact us by [E-mail](https://web.archive.org/web/20061016152457id_/http%3A//www.plasticsurgery4u.com/contact_bermant.html) or at our office. We hope to see you in the office to work out a plan that would work for your individual needs and wants. 
 
 * * *
 
