@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the organizedhome.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425235247id_/http%3A//www.organizedhome.com/content-88.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organizedhome.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016181154id_/http%3A//organizedhome.com/content-88.html) for the most accurate reproduction.*
 
-# OrganizedHome.Com - Content
+# Privacy Policy - OrganizedHome.Com
 
 ## Privacy Policy
 
@@ -12,7 +12,7 @@ In an effort to support privacy policy disclosures on the Internet, Threadneedle
 
 This information pertains to the following sites, all of which are wholly owned by Threadneedle Press: 
 
-  * [OrganizedHome.Com](https://web.archive.org/web/20060425235247id_/http%3A//www.organizedhome.com/index.shtml)
+  * [OrganizedHome.Com](https://web.archive.org/web/20061016181154id_/http%3A//organizedhome.com/index.shtml)
   * [OrganizedChristmas.Com](http://organizedchristmas.com/)  
   * [OrganizedScrapbooks.Com](http://organizedscrapbooks.com/)
   * [ShesOrganized.Com](http://shesorganized.com/)
