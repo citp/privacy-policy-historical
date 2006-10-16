@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securityfocus.com privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421213503id_/http%3A//www.securityfocus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityfocus.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016164115id_/http%3A//www.securityfocus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
