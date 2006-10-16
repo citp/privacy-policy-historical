@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkconnector.com privacy policy that was archived on 2006-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060323111841id_/http%3A//www.linkconnector.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkconnector.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016144446id_/http%3A//www.linkconnector.com/privacy.htm) for the most accurate reproduction.*
 
 # Affiliate Programs for marketing your online business - Learn about LinkConnector.
 
@@ -76,4 +76,4 @@ __1135 Kildaire Farm Road
 Suite 200_ _  
 __Cary_ _,_ _NC_ ___27511_ __
 
-_[http://www.linkconnector.com/](http://www.linkconnecotr.com/)_
+_<http://www.linkconnector.com/>_
