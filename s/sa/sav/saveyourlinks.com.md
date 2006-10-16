@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveyourlinks.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516035218id_/http%3A//www.saveyourlinks.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveyourlinks.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017000949id_/http%3A//www.saveyourlinks.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Save Your Links - free, easy to use bookmark and favorites manager
 
