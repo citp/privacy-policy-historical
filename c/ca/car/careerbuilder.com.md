@@ -1,62 +1,90 @@
-> *The following text is extracted and transformed from the careerbuilder.com privacy policy that was archived on 2002-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020125095946id_/http%3A//www.careerbuilder.com/corp_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbuilder.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016223151id_/http%3A//www.careerbuilder.com/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
 
-# CareerBuilder Privacy Statement
+# Search jobs online with confidence with CareerBuilder.com, who is committed to your privacy
 
-### CareerBuilder, Inc.  
-Privacy Statement
+  
+|  |   
+---|---|---  
+  |  |  These days, we all need to be smart about the way we use our own personal data. CareerBuilder.com has always been on the forefront of privacy issues, and we're constantly refining our Privacy Policy to ensure that you can get your job done - all on your own terms and completely anonymously if you so desire. So that you can be smarter about the way you manage your career, CareerBuilder.com continues to strive to provide the safest possible environment for you to search and apply to jobs.  
+  
+  
+ **OVERVIEW**  
+We have created this Privacy Policy to demonstrate our commitment to protecting information you submit. This Privacy Policy only applies to data gathered on the CareerBuilder.com web site (the "Site"), and does not apply to any other information or web site. Please review this Privacy Policy periodically as we may update it from time to time. This Privacy Policy is effective as of February 1, 2005. Each time you visit the Site or provide us with information, you are, by doing so, accepting the practices described in this Privacy Policy at that time. You agree that by using the Site you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described below in this Privacy Policy. 
 
-Your privacy, and the privacy of all users of www.careerbuilder.com and the CareerBuilder pages of our network partners' career centers, is important to us. Accordingly, we have adopted the following privacy policy to demonstrate our commitment to the protection of your privacy. 
+**PERSONAL INFORMATION**  
+In order to operate the Site in an efficient and effective manner and provide users with information on job postings and services that may be of interest to them, CareerBuilder.com may collect personal information, including contact information (such as an email address), from its users. In addition, this information allows us to provide users with private and secure areas to post and modify their original content on our site (e.g., jobs and resumes). We also automatically track certain information based upon your behavior on the Site and use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve users in general. This information may include the URL that a user has just come from (whether this URL is on our Site or not), the URL a user goes to next (whether this URL is on our Site or not), a user’s computer browser information, and their IP address.
 
-This privacy statement tells you, among other things, what information we gather from you through www.careerbuilder.com and the CareerBuilder pages of our network partners' career centers, how we may use or disclose that information, how you can control the use of your information and our efforts to protect it. 
+You agree that CareerBuilder.com may use your personal information to contact you and deliver information to you that, in some cases, is targeted to your interests (such as relevant job postings and services), or provides administrative notices or communications applicable to your use of the Site. By accepting this Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of any further receipt by following the opt out provisions provided in each such communication.
 
-**_Types of Information Collected_**
+We do not sell our users' personal information to anyone for any reason if the user has indicated a desire for us to keep the information private. When posting jobs and resumes, our users decide for themselves how much contact information they wish to display (we enable private communication for those who choose to hide this information).
 
-In connection with your use of CareerBuilder services, we ask for and may collect information from and about you in different ways. If you are a user of our my careerbuilder™ service, when you register to create your account you provide certain personally-identifying information such as your name and e-mail address. As part of our services, you may submit your resume to be stored on-line with us. In connection with the submission of your resume, we ask you to complete a resume profile through which we collect basic candidate profile information. 
+All users should be aware, however, that when they voluntarily display or distribute personal information (such as their email address or resume), that information can be collected and used by others. This may result in unsolicited messages from third parties for which CareerBuilder.com is not responsible. Also, you may have arrived at this Web site by following a link from a CareerBuilder.com newspaper affiliate or other affiliate. If so, please be aware that CareerBuilder.com may share your information with that affiliate and the affiliate may use the information consistent with its privacy policy instead of this one.
 
-In addition, if you enter any of our contests or sweepstakes, participate in message boards, chat areas, polling activities, electronic commerce or other interactive areas of our site, you may provide general contact information and other information about you. 
+CareerBuider.com may also disclose specific user information when we determine that such disclosure is necessary to comply with the law, to cooperate with or seek assistance from law enforcement or to protect the interests or safety of CareerBuilder.com or other users of the Site. In addition, personal information we have collected may be passed on to a third party in the event of a transfer of ownership or assets or a bankruptcy of CareerBuilder.com.
 
-We have also contracted with a third party to track your use of our site and that of other subscribing sites on an anonymous basis. To learn more about this tracking service, including how to opt out of the tracking service, please go to [www.privacychoices.org](http://www.privacychoices.org/). 
+**CREDIT CARD SECURITY**  
+CareerBuilder.com employs encryption for secure credit card transactions. [Learn more about credit card security >>](http://www.careerbuilder.com/JobSeeker/Info/CCsecurity.htm)
 
-We do not knowingly collect or solicit personally-identifiable information from or about children under 13 except as permitted by law. 
+**ABOUT COOKIES**  
+At CareerBuilder.com, we use cookies only for the protection and convenience of our users. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. If a user's system is idle for more than an hour, however, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorized access to the user's information while they are away from their computer. You may have the ability to reset your browser to refuse all cookies or to indicate when a cookie is being sent; however, some CareerBuilder.com features or services may not function properly without cookies.
 
-**_Use of Information_**
+Third-Party Cookies: In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
 
-Except as described in this privacy statement, CareerBuilder does not sell, rent or provide access to your personal information to third parties. We use the personally identifying information we collect to provide you with account information, to administer our sweepstakes and contests, for site administration, troubleshooting and processing e-commerce transactions. As part of the my careerbuilder™ service, we use your information to send you periodic e-mails informing you of technical service issues, customer satisfaction surveys and account updates. We consider these e-mails essential to the my careerbuilder™ service. Therefore, you will not be able to elect not to receive these e-mails. 
+**ADVERTISING**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information about you and your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services of interest to you.
 
-In addition, we may use your e-mail address to contact you regarding our services or products that we believe may be of interest to you and to send you career newsletters. 
+**WHAT YOU SHOULD KNOW**  
+CareerBuilder.com cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. As a user of the Site, you understand and agree that you assume all responsibility and risk for your use of the Site, the internet generally, and the documents you post or access and for your conduct on and off the Site.
 
-CareerBuilder may share your information with trusted partners to perform functions on our behalf, such as sending e-mail communications to you. All such third parties are required to maintain the confidentiality of your information and are prohibited from using your personal information except to provide services to CareerBuilder. 
+^ Back to top  
+  
+---  
+  
+**SOME IMPORTANT TIPS TO USE WHEN DEALING WITH PROSPECTIVE EMPLOYERS** |  - |  Never give out your social security number to a prospective employer.  
+---|---  
+- |  Never provide credit card or bank numbers or monetary transaction of any sort.  
+- |  Be cautious when dealing with contacts outside of your own country.  
+- |  Do not provide any non-work related personal information (i.e. social security number, eye color, marital status etc.)  
+over the phone or online.  
+  
+**OTHER PRIVACY FEATURES ON CAREERBUILDER.COM**  
+You never need to provide data to search for jobs  
+Logging into CareerBuilder.com is always an optional task for you to take, (although logging in does give you access to smarter job search tools such as my careerbuilder, Personal Search Agents and Saved Searches.)
 
-**_Disclosure of Information_**
+**YOU NEVER NEED TO PROVIDE DATA TO APPLY FOR A JOB ON CAREERBUILDER.COM**  
+When posting your resume, CareerBuilder.com offers you three privacy options. Standard posting will give you the most visibility to the broadest employer audience possible - but because your confidentiality is as important to us as it is to you, we also offer Anonymous and Private posting options.
 
-When you access our services through co-branded career pages, such as those of a CareerBuilder network partner, your personal information may be disclosed to and become the property of CareerBuilder and/or the respective company. Under these circumstances, the use of your personal information may be subject to the privacy policy of that company. Prior to providing personal information, we encourage you to review the privacy policies of these sites. CareerBuilder is not responsible for their use of your personal information. 
+**POST A RESUME**  
+Posting your resume on CareerBuilder.com puts you in front of thousands of employers with open positions each day. When you post your resume, we automatically create a registration for you using the email address and password that you supply. When you return to the site in the future you will use that same email address and password to access and edit your existing resume.
 
-From time to time, we may also disclose personally identifiable information to fulfill certain legal and regulatory requirements or if we believe, in good faith, that such disclosure is legally required or necessary to protect others' rights or to prevent or mitigate harm. If we, or one of our lines of business, are transferred or acquired, personally identifiable information may be included among the transferred assets, but only if such transfer is to an entity that uses the information to provide recruitment services. 
+**RESUME PRIVACY OPTIONS**  
+We know that our job seekers have varying levels of comfort when it comes to posting their resume on the Internet. To accommodate the needs of all users, CareerBuilder.com has 3 levels of privacy from which you can choose.
 
-**_Use of Cookies_**
+**STANDARD POSTING**  
+This option gives you the most visibility to the broadest employer audience possible by making your resume searchable in our VIP Resume Database.
 
-CareerBuilder uses "cookies" to enhance your online experience. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, when you register for my careerbuilder™, a cookie helps CareerBuilder recall your specific information on subsequent visits. This simplifies the process of logging into your account and eliminates the need to enter your e-mail address each time you visit my careerbuilder™. 
+**ANONYMOUS POSTING**  
+You can also post to the public resume database without any of your contact information being displayed. (If you use this option be sure to remove your contact information from the body of the resume.) The anonymous option also allows you to only display selected pieces of contact information.
 
-Most browsers automatically accept cookies, but you have the option of setting your browser to decline cookies if you prefer. 
+**PRIVATE POSTING FOR APPLY ONLINE ONLY**  
+This option allows you to post your resume on CareerBuilder.com without having it searched by employers. The benefit is that you can quickly and easily apply for jobs without retyping your information.
 
-**_Control of Information_**
+**YOUR GENERAL CONTACT INFORMATION**  
+Managing your privacy is as simple as selecting which pieces of your contact information are displayed. This is done in the section of the resume form called "Contact Information." Using option 3 above requires that you select the Apply Online Only option from the "Contact Information" section at the bottom of the edit form, as shown below.  
+  
+  
+**EMAIL AND ONLINE FRAUD**  
+Unfortunately, email and online fraud are continuing concerns for virtually all businesses that operate on the Internet. Please be aware that, from time to time, fraudulent emails have been circulated to CareerBuilder.com users that appear to be from  
+CareerBuilder.com but which are, in fact, sent by imposters. CareerBuilder.com is not sending these fraudulent emails. If you receive an email or pop-up window requesting that you sign in to CareerBuilder.com and provide your personal information, do not respond. 
 
-You may choose to restrict the use of your information. If you are a user of our my careerbuilder™ service, you have the option of placing your resume in our database. Some users elect to store their resumes on the service in order to facilitate applying for jobs, while others elect to make their resume and profile information searchable by employers to receive the maximum amount of exposure possible. You may choose to remove your resume from our database at any time. 
+**The following is an example of one such fraudulent email:**  
+  
+ **HELP US MONITOR FRAUD**  
+Please be advised that CareerBuilder will never initiate a request for your personal information via email or pop-up window. If you ever receive a request for this type of sensitive information, please do not respond and immediately contact CareerBuilder.com customer service at **(866) 438-1485** or report the suspected fraud using our feedback form.
 
-You may stop the delivery of career newsletters and any promotional e-mail from CareerBuilder by following the specific instructions in the email you receive. We will not send unsolicited messages to users of CareerBuilder services who indicate that they do not wish to receive such messages. 
+If you think you have been a victim of fraud, immediately report the committed fraud to your local police and contact us using our [feedback form](http://www.fuzeqna.com/careerbuilder/consumer/question.asp) so steps can be taken for your safety.
 
-**_Security of Information_**
-
-Your account containing your resume, profile and registration information is password protected. Only you, or third parties you provide your password to, can access your account. 
-
-Please remember that you play a valuable part in security as well. After you have finished using your account, you should log off and exit your browser so no unauthorized persons can access your account information. Furthermore, if you provide any information to parties who operate web sites that are linked to or from our site, or our network partners' career centers, or which frame our network partners' career centers, different rules may apply to their collection, use or disclosure of your personal information. We encourage you to review these sites' privacy policies before revealing any sensitive or personal information. 
-
-Finally, you should be aware that if you voluntarily disclose personally identifiable information (e. g., user name, e-mail address, or other messages) on message boards or in chat areas, that information can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control. 
-
-**_Policy Changes_**
-
-It may be necessary from time to time for us to modify this privacy statement to reflect changes in the way we collect and use information or changes in privacy-related laws, regulations, and industry standards. Accordingly, we reserve the right to change this privacy statement at any time by posting the revised policy on this web site. Information will be handled according to the privacy statement in effect at the time the information is used. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. 
-
-**_Governing Law_**
-
-This privacy statement and the use of this site are governed by Virginia law. Any claim related to the Site or this privacy statement shall be brought in a federal or state court in the Northern District of Virginia, within one year after the claim arises. Users of www.careerbuilder.com and the CareerBuilder pages of our network partners' career centers consent to the jurisdiction of such court as the most convenient and appropriate for the resolution of disputes concerning this privacy statement. 
+^ Back to top  
+  
+   
+|  | 
