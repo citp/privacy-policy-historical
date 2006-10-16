@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205502id_/http%3A//www.bizbash.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016074511id_/http%3A//www.bizbash.com/privacy.asp) for the most accurate reproduction.*
 
 # BiZBash: Ideas and Resources for Special Events and Meetings
 
