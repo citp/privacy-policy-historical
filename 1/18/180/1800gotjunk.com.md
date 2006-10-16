@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013001id_/http%3A//www.1800gotjunk.com/content/page.asp%3Fz%3D171) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2006-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061016045355id_/http%3A//1800gotjunk.com/content/page.asp%3Fz%3D171) for the most accurate reproduction.*
 
-# Junk Removal 1-800-GOT-JUNK? World's Largest Junk Removal Service: junk removal, junk hauling, junk services, trash services, garbage, recycling, hauling, junk, appliances, couches, renovations
+# Junk & Debris Removal & Rubbish Removal Services: 1-800-GOT-JUNK?
 
 |  |  | 
 
@@ -10,7 +10,7 @@ Thank you for visiting the 1-800-GOT-JUNK? web site (the “Site”). Below is o
 
 If you have any questions about this privacy statement or the content and practices of our web site, please feel free to contact us directly at: 
 
-Suite 200 – 1523 West 3rd Avenue, Vancouver, BC, V6J 1J8 
+8th Floor – 1055 West Hastings Street, Vancouver, BC, V6E 2E9 
 
 INFORMATION WE COLLECT
 
@@ -72,8 +72,8 @@ HOW TO CONTACT US
 
 If you have any questions or complaints about our Site, our Privacy Policy, or the Information we collect, please contact us at [customerservice@1800gotjunk.com](mailto:customerservice@1800gotjunk.com)
 
-|  |  [](https://request.1800gotjunk.com/WEBCLIENT/Forms/wfCityWeService.aspx?pw=cityWeServ&)  
+|  |  [](https://request.1800gotjunk.com/WEBCLIENT/Forms/wfCityWeService.aspx?r=na_en&pw=cityWeServ&)  
 [](http://www.1800gotjunk.com/content/tf/blue.asp?action=viewArticle&a=545&z=544&n=Press-Room)  
-[](https://request.1800gotjunk.com/WEBCLIENT/Forms/wfBook10.aspx?e3trty6yh7=879665)  
+[](https://request.1800gotjunk.com/WEBCLIENT/Forms/wfBook10.aspx?na_en&e3trty6yh7=879665)  
 [](https://web.archive.org/genie)  
 [](https://web.archive.org/forms/refer_a_friend.asp) | 
