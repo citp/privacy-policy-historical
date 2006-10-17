@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolsiteoftheday.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613055404id_/http%3A//coolsiteoftheday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolsiteoftheday.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018010308id_/http%3A//www.coolsiteoftheday.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Cool Site of the Day
 
