@@ -1,104 +1,108 @@
-> *The following text is extracted and transformed from the sacred-texts.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacred-texts.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/privacy.htm) for the most accurate reproduction.*
 
 # sacred-texts.com: Privacy Policy
 
-[](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/cdshop/index.htm)
+[](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/cdshop/index.htm)
 
 **Topics**  
-[Home](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/index.htm)  
-  [World Religions](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/world.htm)  
-  [Traditions](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/trad.htm)  
-  [Mysteries](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/myst.htm)  
-  [What's New?](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/new.htm)  
-  [About](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/about.htm)  
-  [Abuse](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/abuse.htm)  
-  [Books](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/books.htm)  
-  [Bibliography](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/stbib.htm)  
-  [Contact](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/contact.htm)  
-  [Credits](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/credits.htm)  
-  [Copyrights](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/cnote.htm)  
-  [Donate](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/donate.htm)  
-  [Downloads](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/download.htm)  
-  [FAQ](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/faq.htm)  
-  [Links](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/links.htm)  
-  [Map](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/map.htm)  
-  [Press](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/press.htm)  
+[Home](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/index.htm)  
+  [World Religions](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/world.htm)  
+  [Traditions](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/trad.htm)  
+  [Mysteries](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/myst.htm)  
+  [What's New?](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/new.htm)  
+  [About](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/about.htm)  
+  [Abuse](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/abuse.htm)  
+  [Books](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/books.htm)  
+  [Bibliography](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/stbib.htm)  
+  [Contact](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/contact.htm)  
+  [Credits](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/credits.htm)  
+  [Copyrights](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/cnote.htm)  
+  [Donate](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/donate.htm)  
+  [Downloads](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/download.htm)  
+  [FAQ](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/faq.htm)  
+  [Links](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/links.htm)  
+  [Map](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/map.htm)  
+  [Press](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/press.htm)  
    **Privacy**  
-  [Search](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/search.htm)  
-  [Top Level](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/top.htm)  
-  [Terms of Service](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/tos.htm)  
-  [Translate](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/xlat.htm)  
-  [Standards](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/stand.htm)  
-  [Unicode](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/unicode.htm)  
-  [Volunteer](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/volun.htm)  
-[African](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/afr/index.htm)  
-[Age of Reason](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/aor/index.htm)  
-[Alchemy](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/alc/index.htm)  
-[Americana](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/ame/index.htm)  
-[Ancient Near East](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/ane/index.htm)  
-[Asia](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/asia/index.htm)  
-[Atlantis](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/atl/index.htm)  
-[Australia](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/aus/index.htm)  
-[Basque](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/neu/basque/index.htm)  
-[Baha'i](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/bhi/index.htm)  
-[Bible](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/bib/index.htm)  
-[Book of Shadows](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/bos/index.htm)  
-[Buddhism](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/bud/index.htm)  
-[Celtic](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/neu/celt/index.htm)  
-[Christianity](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/chr/index.htm)  
-[Classics](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/cla/index.htm)  
-[Confucianism](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/cfu/index.htm)  
-[DNA](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/dna/index.htm)  
-[Earth Mysteries](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/earth/index.htm)  
-[Egyptian](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/egy/index.htm)  
-[England](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/neu/eng/index.htm)  
-[Esoteric/Occult](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/eso/index.htm)  
-[Evil](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/evil/index.htm)  
-[Fortean](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/fort/index.htm)  
-[Freemasonry](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/mas/index.htm)  
-[Gothic](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/goth/index.htm)  
-[Gnosticism](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/gno/index.htm)  
-[Grimoires](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/grim/index.htm)  
-[Hinduism](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/hin/index.htm)  
-[I Ching](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/ich/index.htm)  
-[Islam](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/isl/index.htm)  
-[Icelandic](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/neu/ice/index.htm)  
-[Jainism](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/jai/index.htm)  
-[Journals](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/journals/index.htm)  
-[Judaism](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/jud/index.htm)  
-[Legends/Sagas](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/neu/index.htm)  
-[LGBT](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/lgbt/index.htm)  
-[Miscellaneous](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/etc/index.htm)  
-[Mormonism](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/mor/index.htm)  
-[Native American](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/nam/index.htm)  
-[Neopaganism/Wicca](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/pag/index.htm)  
-[Nostradamus](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/nos/index.htm)  
-[Oahspe](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/oah/index.htm)  
-[Pacific](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/pac/index.htm)  
-[Paleolithic](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/nel/index.htm)  
-[Philosophy](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/phi/index.htm)  
-[Piri Re'is Map](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/piri/index.htm)  
-[Prophecy](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/pro/index.htm)  
-[Roma](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/neu/roma/index.htm)  
-[Sacred Books of the East](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/sbe/index.htm)  
-[Sacred Sexuality](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/sex/index.htm)  
-[Shakespeare](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/sks/index.htm)  
-[Shamanism](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/sha/index.htm)  
-[Shinto](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/shi/index.htm)  
-[Sikhism](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/skh/index.htm)  
-[Sub Rosa](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/sro/index.htm)  
-[Sky Lore](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/astro/index.htm)  
-[Tantra](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/tantra/index.htm)  
-[Taoism](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/tao/index.htm)  
-[Tarot](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/tarot/index.htm)  
-[Thelema](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/oto/index.htm)  
-[Theosophy](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/the/index.htm)  
-[Time](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/time/index.htm)  
-[Tolkien](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/ring/index.htm)  
-[UFOs](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/ufo/index.htm)  
-[Utopia](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/utopia/index.htm)  
-[Women](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/wmn/index.htm)  
-[Zoroastrianism](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/zor/index.htm)  
+  [Search](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/search.htm)  
+  [Top Level](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/top.htm)  
+  [Terms of Service](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/tos.htm)  
+  [Translate](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/xlat.htm)  
+  [Standards](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/stand.htm)  
+  [Unicode](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/unicode.htm)  
+  [Volunteer](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/volun.htm)  
+  [Wishlist](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/wishlist.htm)  
+[Catalog](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/cat/index.htm)  
+[African](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/afr/index.htm)  
+[Age of Reason](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/aor/index.htm)  
+[Alchemy](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/alc/index.htm)  
+[Americana](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/ame/index.htm)  
+[Ancient Near East](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/ane/index.htm)  
+[Asia](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/asia/index.htm)  
+[Atlantis](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/atl/index.htm)  
+[Australia](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/aus/index.htm)  
+[Basque](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/neu/basque/index.htm)  
+[Baha'i](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/bhi/index.htm)  
+[Bible](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/bib/index.htm)  
+[Book of Shadows](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/bos/index.htm)  
+[Buddhism](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/bud/index.htm)  
+[Celtic](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/neu/celt/index.htm)  
+[Christianity](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/chr/index.htm)  
+[Classics](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/cla/index.htm)  
+[Confucianism](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/cfu/index.htm)  
+[DNA](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/dna/index.htm)  
+[Earth Mysteries](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/earth/index.htm)  
+[Egyptian](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/egy/index.htm)  
+[England](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/neu/eng/index.htm)  
+[Esoteric/Occult](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/eso/index.htm)  
+[Evil](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/evil/index.htm)  
+[Fortean](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/fort/index.htm)  
+[Freemasonry](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/mas/index.htm)  
+[Gothic](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/goth/index.htm)  
+[Gnosticism](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/gno/index.htm)  
+[Grimoires](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/grim/index.htm)  
+[Hinduism](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/hin/index.htm)  
+[I Ching](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/ich/index.htm)  
+[Islam](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/isl/index.htm)  
+[Icelandic](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/neu/ice/index.htm)  
+[Jainism](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/jai/index.htm)  
+[Journals](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/journals/index.htm)  
+[Judaism](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/jud/index.htm)  
+[Legends/Sagas](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/neu/index.htm)  
+[LGBT](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/lgbt/index.htm)  
+[Miscellaneous](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/etc/index.htm)  
+[Mormonism](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/mor/index.htm)  
+[Native American](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/nam/index.htm)  
+[Necronomicon](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/nec/index.htm)  
+[New Thought](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/nth/index.htm)  
+[Neopaganism/Wicca](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/pag/index.htm)  
+[Nostradamus](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/nos/index.htm)  
+[Oahspe](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/oah/index.htm)  
+[Pacific](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/pac/index.htm)  
+[Paleolithic](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/nel/index.htm)  
+[Philosophy](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/phi/index.htm)  
+[Piri Re'is Map](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/piri/index.htm)  
+[Prophecy](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/pro/index.htm)  
+[Roma](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/neu/roma/index.htm)  
+[Sacred Books of the East](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/sbe/index.htm)  
+[Sacred Sexuality](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/sex/index.htm)  
+[Shakespeare](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/sks/index.htm)  
+[Shamanism](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/sha/index.htm)  
+[Shinto](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/shi/index.htm)  
+[Sikhism](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/skh/index.htm)  
+[Sub Rosa](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/sro/index.htm)  
+[Sky Lore](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/astro/index.htm)  
+[Tantra](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/tantra/index.htm)  
+[Taoism](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/tao/index.htm)  
+[Tarot](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/tarot/index.htm)  
+[Thelema](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/oto/index.htm)  
+[Theosophy](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/the/index.htm)  
+[Time](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/time/index.htm)  
+[Tolkien](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/ring/index.htm)  
+[UFOs](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/ufo/index.htm)  
+[Utopia](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/utopia/index.htm)  
+[Women](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/wmn/index.htm)  
+[Zoroastrianism](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/zor/index.htm)  
 | 
 
 ### Privacy Policy
@@ -107,7 +111,7 @@
 
 The Internet Sacred Texts Archive is committed to the privacy and anonymity of its viewers. This page answers questions about the level of privacy you can expect at our site. Recent events on the web have created an atmosphere of paranoia which can only be dispelled by factual information. Viewers of this site are entitled to full disclosure concerning exactly what information is tracked here, what that information is used for, and who it is shared with. These policies are subject to change. If we change them we will update this page. 
 
-[There is a page for privacy issues specific to purchasing the Sacred Texts CD-ROM at this link.](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/cdshop/privacy.htm)
+[There is a page for privacy issues specific to purchasing the Sacred Texts CD-ROM at this link.](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/cdshop/privacy.htm)
 
 ### Who runs this site?
 
@@ -139,14 +143,36 @@ Sacred-texts also has an account with Google AdSense. Ads served by Google are c
 
 We can't monitor individuals' browsing history (i.e. how many times a particular viewer comes back to the site); we don't know your email address or actual name (unless you provide this information by sending us email); and rest assured that we can't track what you do with the information provided here or what you think about it.  |  | 
 
+**Offer extended until Wednesday! Order the 5.0 CD-ROM now and you also get the _FREE_ pre-release 6.0 DVD-ROM. After that the DVD-ROM will be sold separately from the CD-ROM for $99.95. The DVD-ROM has twice the content of the CD-ROM as well as an advanced search feature.**
+
+**_[more...](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/cdshop/index.htm)_**
+
 **HELP KEEP SACRED TEXTS FREE**
 
-[](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/cdshop/index.htm)
+It costs tens of thousands of dollars a year to pay for this sites' bandwidth and maintenance. **Without your continued support, sacred-texts will go offline** or have to be scaled back. Your support is crucial; this site does not receive grants or institutional support. 
 
-It costs tens of thousands of dollars per year to keep this site online. Expenses include bandwidth (the site gets an average of a million hits a day), legal fees to defend your right to free access to public domain books, and the costs of developing new texts. _Without your continued support, sacred-texts will go offline or have to be scaled back considerably_. To preserve our independence, this site does not receive grants or institutional support. If you want to help support continued free access to this site, please consider [buying a copy of the sacred-texts CD-ROM](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/cdshop/index.htm), or [Making a donation](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/donate.htm). 
+The best way to support the site is to [purchase the CD-ROM](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/cdshop/index.htm). The Sacred-texts CD-ROM has hundreds of books on it that are extremely hard to locate, including all of the major world scriptures. If you buy a copy, you can feel good knowing that you are helping keep this site online. 
 
-The Sacred-texts CD-ROM is a great value. It has the full text of a thousand books on it, including all world scriptures. Many of these books are rare or hard to obtain: most have been scanned specially for this site and are not available elsewhere. 
+* * *
 
-**The Sacred-texts CD-ROM makes a great graduation gift!** You can [buy several copies](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/cdshop/volume.htm) at as low as **$25 a disk**. These discounts are only available direct from this site. 
+**This site is available on CD-ROM!**
 
-On a budget? You can also [buy the 3.0 version](https://web.archive.org/web/20060615145906id_/http%3A//www.sacred-texts.com/cdshop/cd30.htm) for just $20.
+[Buy it now](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/cdshop/index.htm)
+
+**"Stunning"**  
+[read more...](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/cdshop/index.htm)  
+
+
+The Internet Sacred Text Archive CD-ROM includes electronic texts of nearly a thousand of the most important books and articles ever written, including over two hundred transcribed specially for sacred-texts. Years of extensive research and scholarship went into this CD-ROM: all the core texts of religion, mythology, folklore and the esoteric are on one disk. 
+
+**"worth far more than the price"**  
+[read more...](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/cdshop/index.htm)  
+
+
+This collection includes the full text of each book, many with footnotes and illustrations. To buy all of these books you would have to spend tens of thousands of dollars, even if you could find them: many are out of print and hard to obtain at any price. You pay just pennies a book: the CD-ROM costs just $49.95; worldwide shipping is _free_ when you buy direct! 
+
+**"Phenomenal collection"**  
+[read more...](https://web.archive.org/web/20061017105332id_/http%3A//sacred-texts.com/cdshop/index.htm)  
+
+
+Everything on the disk can be viewed in a standard web browser on your PC or Macintosh. Proceeds from sales of the CD-ROM go to support free access to the Internet Sacred Text Archive on the web and development of new etexts. 
