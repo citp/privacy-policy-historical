@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altova.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512065828id_/http%3A//www.altova.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altova.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017074421id_/http%3A//www.altova.com/privacy.html) for the most accurate reproduction.*
 
 # Altova : ALTOVA’S PRIVACY POLICY
 
@@ -59,8 +59,6 @@ Last updated: 2004-05-17
 
   
 |   
-| 
-
-  
+|   
 |   
 
