@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogsearchengine.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213920id_/http%3A//www.blogsearchengine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsearchengine.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017223800id_/http%3A//www.blogsearchengine.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy - Blog Search Engine
 
