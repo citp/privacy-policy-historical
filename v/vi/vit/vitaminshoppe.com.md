@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vitaminshoppe.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428201204id_/http%3A//www.vitaminshoppe.com/content/en/support/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitaminshoppe.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017121932id_/http%3A//www.vitaminshoppe.com/content/en/support/help/privacy.jsp%3Fintsource%3Dfooter) for the most accurate reproduction.*
 
-# VitaminShoppe.com - Privacy and Security
+# Privacy and Security - VitaminShoppe.com
 
 Privacy, Child Protection and Security Policy
 
