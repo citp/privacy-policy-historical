@@ -1,6 +1,37 @@
-> *The following text is extracted and transformed from the ihispano.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614175513id_/http%3A//ihispano.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihispano.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017120545id_/http%3A//www.ihispano.com/privacy.asp) for the most accurate reproduction.*
 
 # iHispano.com - Privacy Statement
+
+| 
+
+|   
+---  
+[Sales Professional](https://web.archive.org/JobDetails.asp?JobID=884057)  
+ **Sanofi-Aventis**  
+Rome, GA  
+[Sales & Marketing Development Program](https://web.archive.org/JobDetails.asp?JobID=903557)  
+ **Black & Decker**  
+Nationwide  
+[Retail Management Training program](https://web.archive.org/JobDetails.asp?JobID=888115)  
+ **The Kroger Company**  
+Atlanta, Savannah, Knoxville, GA, SC, TN  
+[Occupational Health Nurse](https://web.archive.org/JobDetails.asp?JobID=676502)  
+ **Ford Motor Company**  
+Various Locations in MI  
+[New Customer Representative](https://web.archive.org/JobDetails.asp?JobID=968462)  
+ **Veritude**  
+Lewisville, TX  
+[Network Support Specialist](https://web.archive.org/JobDetails.asp?JobID=910141)  
+ **DeVry University**  
+Fort Washington, PA  
+[Network Storage - IT Service/Process Manager ](https://web.archive.org/JobDetails.asp?JobID=951792)  
+**Accenture**  
+Reston,VA, VA  
+[Microsoft Services Consultant](https://web.archive.org/JobDetails.asp?JobID=894865)  
+ **Microsoft Corporation**  
+Portland, OR  
+  
+[](https://web.archive.org/events.asp)
 
 iHispano.com is committed to protecting the privacy of our users. In addition to providing its users numerous privacy features, iHispano.com has created this Privacy Statement in order to demonstrate in writing our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our site [www.ihispano.com](http://www.ihispano.com/).
 
