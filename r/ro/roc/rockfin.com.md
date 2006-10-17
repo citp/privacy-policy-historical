@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockfin.com privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505080430id_/http%3A//www.rockfinancial.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockfin.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017191938id_/http%3A//www.rockfinancial.com/about/privacy.html) for the most accurate reproduction.*
 
 # Security and Privacy - Rock Financial
 
@@ -19,7 +19,8 @@ We tell you how and why we use Web technologies.
 We give you choices about how the personally identifiable information that you provide to us may be used.   
 We provide you the opportunity to update or correct your personally identifiable information.   
 We work to protect personally identifiable information from loss, misuse, or unauthorized alteration.   
-We provide various ways for you to contact us about our information practices and other aspects of privacy.
+We provide various ways for you to contact us about our information practices and other aspects of privacy.  
+[Download the Rock Financial Guide to Protecting Your Privacy](http://www.rockfinancial.com/media/pdf/rf2/rf-privacy-guide.pdf)
 
 **WE PROVIDE YOU NOTICE OF OUR WEB SITE INFORMATION PRACTICES.**
 
@@ -51,7 +52,7 @@ We may also supply the information you provide, on a strictly confidential basis
 
 **Within the Rock Financial Family**. Within the Rock Financial family, which includes our title company, Title Source, Inc., we may exchange customer information to fulfill your requests or to provide you with information about other products or services, if you have chosen to receive such communications.
 
-**Service Providers**. In some cases, we will employ or use service providers such as title companies, appraisers, consultants, temporary workers, third party software developers, to complete a business process or provide a service on our behalf. For example, we may use service providers to enhance our website technology, deliver products, or to send e-mails. When we employ service providers, we may need to share your personally identifiable information. Service providers are strictly prohibited from using your personally identifiable information for purposes other than to act on our behalf.
+**Service Providers**. In some cases, we will employ or use service providers such as title companies, appraisers, consultants, temporary workers, third party software developers, to complete a business process or provide a service on our behalf. For example, we may use service providers to enhance our Web site technology, deliver products, or to send e-mails. When we employ service providers, we may need to share your personally identifiable information. Service providers are strictly prohibited from using your personally identifiable information for purposes other than to act on our behalf.
 
 **Service Alerts and Critical Notices**. Although we respect and honor the privacy preferences you have expressed, we may need to contact you to inform you of specific changes that may impact your ability to use this service or for other critical non-marketing purposes, such as bug alerts. We may also contact you to respond to your specific requests, to clarify the order information you provided to us, or to notify you of upcoming subscription expiration dates.
 
@@ -81,7 +82,7 @@ Here is how and why we use some common Web technologies to help manage our Web s
 
 **Cookies.** A "cookie" is a small piece of information that our Web site may provide to your browser while you are at our sites. The Rock Financial Web site supplies your browser with cookies that contain a unique identifier used to better understand Web site usage in the aggregate and on an individual level so we know what areas of our site users prefer (e.g., based on the number of visits to those areas). This is done through a tracking utility that allows us, for example, to reconstruct activity from a session or by a user, for troubleshooting and issue resolution purposes. Rock Financial may also employ service providers to help us collect and understand our Web site usage data.
 
-When periodic surveys are presented to web site visitors, cookies are used to prevent issuing multiple invitations to the same individual.
+When periodic surveys are presented to Web site visitors, cookies are used to prevent issuing multiple invitations to the same individual.
 
 If you are a registered member on the Rock Financial Web site, you will receive a cookie when you login. This cookie is maintained by your browser and contains your identifier. This cookie is also used to authenticate your identity and provide you with access to areas of our Web site that are limited to registered members, such as those that allow you to view and manage your personal profile.
 
