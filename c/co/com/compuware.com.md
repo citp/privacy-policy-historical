@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315080105id_/http%3A//www.compuware.com/corporate/602_ENG_HTML.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017121042id_/http%3A//www.compuware.com/corporate/602_ENG_HTML.htm) for the most accurate reproduction.*
 
 # Compuware Corporation - Our Commitment to Privacy
 
-## Our commitment to privacy — Effective date February 7, 2006
+## Our commitment to privacy
 
 Compuware Corporation recognizes your right to confidentiality and is committed to protecting your privacy.  This privacy statement applies solely to information collected by Compuware-owned web sites.
 
@@ -53,9 +53,7 @@ A "cookie" is a small file that your web browser places on your computer's hard 
 
 We provide the opportunity to opt-out of receiving communications from Compuware at the point where we request information about you and in each instance when you receive material from us. If you have difficulty in opting-out in this manner, please [contact us](mailto:www@compuware.com) and provide your name, e-mail address and subscription you wish to cancel. 
 
-Our goal is to respect your privacy. To help us improve our policies, we welcome your [feedback](mailto:lori.arnold@compuware.com).
-
-## Links to non-Compuware web sites 
+## Links to non-Compuware web sites
 
 Compuware may provide links to Internet sites maintained by others. Compuware does not review all of such third-party web sites linked to the site and is not responsible for the contents of, or any products or services offered, in such third-party sites. 
 
@@ -94,5 +92,13 @@ If you have already submitted your resume or curriculum vitae to Compuware and y
 
 ### How to contact Compuware Recruiting regarding your privacy
 
-Please e-mail us at [compuware.recruiting@compuware.com](mailto:compuware.recruiting@compuware.com).  
+Please e-mail us at [compuware.recruiting@compuware.com](mailto:compuware.recruiting@compuware.com).
+
+## Issue Resolution
+
+Our goal is to respect your privacy. If you seek resolution to any privacy or data collection issue you have with Compuware, or have suggestions on how we can improve our policies, please [contact us](https://web.archive.org/contact/default.asp).
+
+**Revised  June, 2006 **
+
+  
 [](https://web.archive.org/corporate/602_ENG_HTML.htm)
