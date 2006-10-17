@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotts.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318131346id_/http%3A//www.scotts.com/index.cfm/event/privacyPolicy.home) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotts.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017080926id_/http%3A//www.scotts.com/index.cfm/event/privacyPolicy.home) for the most accurate reproduction.*
 
 # Scotts: Privacy Policy
 
