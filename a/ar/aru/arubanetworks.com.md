@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arubanetworks.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612234647id_/http%3A//www.arubanetworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arubanetworks.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018011602id_/http%3A//arubanetworks.com/privacy.php) for the most accurate reproduction.*
 
 # Aruba Wireless Networks | Privacy Policy
 
