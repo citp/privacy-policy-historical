@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canadiancontent.net privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011033849id_/http%3A//canadiancontent.net/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadiancontent.net privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017104657id_/http%3A//www.canadiancontent.net/corp/privacy.html) for the most accurate reproduction.*
 
-# Canadian Content - Privacy Policy
+# Canadian Content Privacy Policy
 
 |   |   
 ---|---  
@@ -51,4 +51,6 @@ We care about children and understand that they have special privacy needs. Ther
   7. We will NOT provide any links to Web sites that are unsuitable for children. 
   8. We will encourage children to get their parent's permission before sharing personal information online. 
 
-
+  
+  
+© 1997 - 2004. Canadian Content Interactive Media.
