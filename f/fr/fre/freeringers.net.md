@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeringers.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041137id_/http%3A//www.freeringers.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeringers.net privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017192206id_/http%3A//www.freeringers.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice > FreeRingers.net
 
@@ -37,9 +37,9 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
 **How To Access Or Correct Your Information:**  
-You can access all your personally identifiable information that we collect online and maintain by accessing "Your Information" in the member's area. We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by accessing the "Your Information" menu item in the member's area. We use this procedure to better safeguard your information. 
 
-You can correct factual errors in your personally identifiable information by using the "Change Email" or "Contact Us" form in the member's area. 
+You can correct factual errors in your personally identifiable information by using the "Change Email" menu item in the member's area. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
