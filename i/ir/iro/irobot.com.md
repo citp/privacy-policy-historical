@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irobot.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011258id_/http%3A//store.irobot.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irobot.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017210028id_/http%3A//store.irobot.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # iRobot : Help Desk
 
@@ -8,7 +8,7 @@ iRobot Corporation ("iRobot", "we" or "us") recognizes that the users and custom
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web Site and, where applicable, through this Web Site's Customer Service Department in connection with this Web Site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.
 
-If you have any questions regarding this Privacy Policy, you should contact this Web Site's Customer Service Department by email at customerservice@irobot.com.
+If you have any questions regarding this Privacy Policy, you should contact this Web Site's Customer Service Department by email at irobotcustomerservice@irobot.com.
 
 **_What Information About Me Is Collected and Stored?_**
 
@@ -38,7 +38,7 @@ As with any business, it is possible that as our business develops, we might sel
 
 **_What Steps Are Taken To Keep Personal Information Secure?_**
 
-Various security measures, including Secure Socket Layer (SSL) encryption technology, are used to protect personal information that we collect. If you place an order through this Web Site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel your password, or if you become aware of any loss, theft or unauthorized use of your password, please contact this Web Site's Customer Service Department by email at customerservice@irobot.com or by phone at 1-(800) 727-9077.
+Various security measures, including Secure Socket Layer (SSL) encryption technology, are used to protect personal information that we collect. If you place an order through this Web Site, you will be asked to set up an account and provide an email address and password. You must provide an appropriate email address and password in order to access account information. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel your password, or if you become aware of any loss, theft or unauthorized use of your password, please contact this Web Site's Customer Service Department by email at irobotcustomerservice@irobot.com or by phone at 1-(800) 727-9077.
 
 **_How Can I Access, Correct and Update Personal Information?_**
 
