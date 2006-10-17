@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414004955id_/http%3A//www.personneltoday.com/StaticPages/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017221001id_/http%3A//www.personneltoday.com/StaticPages/Privacy.htm) for the most accurate reproduction.*
 
-# PersonnelToday.com - Privacy
+# Personneltoday.com
+
+(26 January 2006 13:46)
 
 This website is owned and operated by Reed Business Information Limited [Reed Business Information Limited ('RBI')](http://www.personneltoday.com/staticpages/AboutUs.htm)  
 Information we collect from our customers and users of our websites may be used in the following ways. 
@@ -58,5 +60,3 @@ We may use aggregated data to identify employment trends across different indust
   
 If you create a personalised account on any of our websites it will be protected by your password and may only be accessed by you.   It does not form part of our database available for searching or access by our customers. You can delete your account at any time.  
 
-
-[ Printer Friendly](https://web.archive.org/web/20060414004955id_/http%3A//www.personneltoday.com/StaticPages/privacy.htm?PrinterFriendly=true)
