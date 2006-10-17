@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fototime.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204426id_/http%3A//fototime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fototime.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017170608id_/http%3A//fototime.com/privacy) for the most accurate reproduction.*
 
 # FotoTime - Privacy Statement
 
 ### FotoTime's Privacy Policy
 
-FotoTime has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: fototime.com.
+FotoTime has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.fototime.com.
 
 We keep log files that track each picture sent to FotoTime through the FotoAlbum sync process.  The log files are used to help us track problems you may encounter.  We have a database that contains all user information, as well as their pictures.  The database is used so we can keep user and picture statistics.  We use cookies to maintain context information pertaining to you current login.  The cookies are non permanent and expire in 24 hours.  We also track any serious errors that occur within FotoAlbum and send the error information and summary system information to the FotoTime server(s) as part of the FotoAlbum Sync process. This information is only used to help solve problems within FotoAlbum. 
 
@@ -24,7 +24,7 @@ This site allows for users to provide both online and personally identifiable of
 
 FotoTime gives users the following option for changing and modifying information previously provided. 
 
-  1. Visit [http://fototime.com](http://fototime.com/)
+  1. Visit [http://www.fototime.com](http://www.fototime.com/)
   2. Enter your username and password to log in, then press the login button 
   3. Select the user information link to change your profile 
   4. Click Save 
