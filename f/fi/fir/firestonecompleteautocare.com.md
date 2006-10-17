@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firestonecompleteautocare.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210040id_/http%3A//www.firestonecompleteautocare.com/opencms/opencms/privacy_statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firestonecompleteautocare.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017190422id_/http%3A//www.firestonecompleteautocare.com/opencms/opencms/privacy_statement/index.html) for the most accurate reproduction.*
 
 # Firestone Complete Auto Care | Privacy Statement
 
@@ -10,7 +10,7 @@ This Privacy Policy explains how Firestone Complete Auto Care collects, uses and
 
 **THE SITE INCLUDES LINKS TO THE WEB SITES OF THIRD PARTIES. WE PROVIDE THESE LINKS AS A CONVENIENCE TO OUR USERS. THE INCLUSION OF ANY LINK DOES NOT IMPLY FIRESTONE COMPLETE AUTO CARE'S ENDORSEMENT OF ANY COMPANY, ITS WEB SITE, OR THE PRODUCTS AND SERVICES IT SELLS. PLEASE NOTE THAT FIRESTONE COMPLETE AUTO CARE IS NOT RESPONSIBLE FOR ANY CONTENT OR THE PRIVACY PRACTICES OF ANY WEB SITE OTHER THAN OUR OWN SITE.**
 
-**THE SITE ALSO INCLUDES CERTAIN PAGES THAT ARE “FRAMED” TO PROVIDE INFORMATION FROM WEB SITES OF THIRD PARTIES. SUCH FRAMED PAGES WILL BE IDENTIFIED ON THE PAGE AND THE PAGE OWNER IDENTIFIED. WE PROVIDE THESE FRAMED PAGES AS A CONVENIENCE TO OUR USERS. PLEASE NOTE THAT FIRESTONE COMPLETE AUTO CARE IS NOT RESPONSIBLE FOR ANY CONTENT OR THE PRIVACY PRACTICES OF ANY FRAMED PAGES. THE TERMS AND POLICIES OF THE PAGE OWNER IDENITIFIED ON THE FRAMED PAGE WILL CONTROL.**
+**THE SITE ALSO INCLUDES CERTAIN PAGES THAT ARE “FRAMED” TO PROVIDE INFORMATION FROM WEB SITES OF THIRD PARTIES. SUCH FRAMED PAGES WILL BE IDENTIFIED ON THE PAGE AND THE PAGE OWNER IDENTIFIED. WE PROVIDE THESE FRAMED PAGES AS A CONVENIENCE TO OUR USERS. PLEASE NOTE THAT FIRESTONE COMPLETE AUTO CARE IS NOT RESPONSIBLE FOR ANY CONTENT OR THE PRIVACY PRACTICES OF ANY FRAMED PAGES. THE TERMS AND POLICIES OF THE PAGE OWNER IDENTIFIED ON THE FRAMED PAGE WILL CONTROL.**
 
 **Information Collection and Use.**  
 **1\. Information Collection.** Firestone Complete Auto Care may collect information from you at several different points and in different ways on this Site Firestone Complete Auto Care will ask you for your permission before Firestone Complete Auto Care collects any information that personally identifies you or allows Firestone Complete Auto Care to contact you. Firestone Complete Auto Care's primary goal in collecting personal information from you is to provide you with an efficient, meaningful and customized experience. For example, Firestone Complete Auto Care can use your personal information to:
