@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rdmag.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614131411id_/http%3A//rdmag.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdmag.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017084751id_/http%3A//rdmag.com/privacy.html) for the most accurate reproduction.*
 
 # R & D Magazine
 
 **Overview** [www.rdmag.com](http://www.rdmag.com/) appreciates your visiting this web site. Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.
 
-This Privacy Policy describes the policies of Reed Business Information ( ** _“RBI”_** or **_“we”_** ), a division of Reed Elsevier Inc., regarding the collection, use, disclosure and protection of the following types of information: 
+This Privacy Policy describes the policies of Advantage Business Media ( ** _“ABM”_** or **_“we”_** ), regarding the collection, use, disclosure and protection of the following types of information: 
 
 • Information obtained when you (“ _ **you**_ ” or “ ** _User_** ”) visit the [[www.rdmag.com](http://www.rdmag.com/)] web site (the “Site”).   
 • Information obtained through e-mail communications with you related to the Site. 
@@ -31,9 +31,9 @@ We use Personally Identifiable Information collected on this Site for the follow
 
 We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of the Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of the Site.
 
-We may use the information you provide us to send you e-mail, fax and other communications on behalf of RBI and our affiliates. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other RBI and Reed Elsevier services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted. 
+We may use the information you provide us to send you e-mail, fax and other communications on behalf of ABM and our affiliates. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other ABM and services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted. 
 
-We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com)with the subject line **“opt out – third party.”**  
+We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [privacymanager@advantagemedia.com ](mailto:privacymanager@advantagemedia.com)with the subject line **“opt out – third party.”**  
 **  
 Our Disclosure of Your Information**  
 We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows: 
@@ -41,26 +41,27 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
 • Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.   
 • To third parties engaged to provide services under contractual requirement to keep **Personally Identifiable Information** confidential and use it only to perform the services.   
 • Portions of this Site may be provided as “Premium” or “Sponsored” content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers. We will always disclose when you are registering or being provided with Premium or Sponsored content.   
-• To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to[privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com) with the subject line: **“do not disclose.”**  
-• To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RBI or this Site.  
+• To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to[privacymanager@advantagemedia.com ](mailto:privacymanager@advantagemedia.com) with the subject line: **“do not disclose.”**  
+• To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving ABM or this Site.  
 • When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.   
 • When disclosure is necessary to accomplish the purpose for which you provide it.   
-• We may share any information (including Personally Identifiable Information) you provide with other Reed Elsevier member companies for any uses consistent with those disclosed in this Privacy Policy.
+• We may share any information (including Personally Identifiable Information) you provide with other member companies for any uses consistent with those disclosed in this Privacy Policy.
 
 **Security  
 ** We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties. 
 
 **Right to Access and Change Information**   
-You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to subsmail@reedbusiness.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
+You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to [privacymanager@advantagemedia.com](mailto:privacymanager@advantagemedia.com). However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
 
 **Links**  
 This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites. 
 
 **This Site is operated by:**  
-Reed Business Information   
-360 Park Avenue South   
-New York, NY 10010  
-Email: [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com)
+Advantage Business Media   
+100 Enterprise Dr  
+Suite 600  
+Rockaway, NJ 07866   
+Email: [privacymanager@advantagemedia.com ](mailto:privacymanager@advantagemedia.com)
 
 **Automatic Data Collection:** Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. 
 
