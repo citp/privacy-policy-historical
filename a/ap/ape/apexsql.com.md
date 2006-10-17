@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the apexsql.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615113049id_/http%3A//www.apexsql.com/comp_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexsql.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017153310id_/http%3A//apexsql.com/comp_privacy.asp) for the most accurate reproduction.*
 
 # Apex SQL Tools - SQL Tools for Auditing, Comparison, Recovery and more
 
 TOP REASONS TO BUY 
 
-To See the Top Reasons to Buy Apex SQL Software tools: [Click Here](https://web.archive.org/web/20060615113049id_/http%3A//www.apexsql.com/10reasons2buy.asp)
+To See the Top Reasons to Buy Apex SQL Software tools: [Click Here](http://www.apexsql.com/10reasons2buy.asp)
+
+SALES FAQ 
+
+Click [Here](http://www.apexsql.com/sales_faq.asp) for a Comprehensive Sales and Ordering FAQ 
+
+PURCHASE ORDERS 
+
+Click [Here](http://www.apexsql.com/purchase_order_instructions.asp) for Purchase Order Instructions 
 
 PRE SALES QUESTION? 
 
@@ -18,25 +26,27 @@ Please call
 
 or email [sales@apexsql.com](mailto:sales@apexsql.com)
 
+FREE E-NEWSLETTER 
+
 SUCCESS STORIES 
 
-"[Apex SQL Audit] has been a life saver for me. No longer can our business clients blame the system or my IT staff when errors appear in our data. Thanks to [Apex SQL Audit], we can now track 'when' and 'who' made the change and if needed restore old data. [Apex SQL Audit] has paid for itself in it's first week of use." 
+"Thanks for the quick (and honest) reply. I am impressed. Your company sounds like its truly different from the rest ..." 
 
-Andy Zecha   
-Director of Database Operations   
-HubX.net 
+Paul Barbin   
+DBA   
+Lewis, Inc. 
 
-"[Apex SQL Audit] has saved us hours of programming. It produces reliable code, and addresses important auditing requirements of our point of sale applications." 
+"Thanks Brian. We really appreciate the quality of your product, as well as your willingness to accommodate our needs. You are tops on our list when we go searching for development tools." 
 
-Gary Low   
-President   
-Remington Stevens 
+Scott C. Dixon, MCP, MCP+SB, MCSD   
+Tech Consultant   
+CTGi 
 
-"...By the way, the more I use your product [Apex SQL Code], the more I really think your product is excellent and a real timesaver." 
+"First let me say we are very impressed with [Apex SQL Audit] Tool, it was not only the fastest but also the easiest to use out of the six audit tools tested. We also hit some errors with other Audit products." 
 
-Michael Bunger   
-Vice President   
-Raecom, Inc. 
+Paul Ohlemacher   
+Developer   
+Execupay 
 
 Apex SQL Privacy Policy
 
