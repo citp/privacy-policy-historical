@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508103637id_/http%3A//www.japan-talk.com/jt/PrivacyServlet) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017131654id_/http%3A//www.japan-talk.com/jt/PrivacyServlet) for the most accurate reproduction.*
 
 # japan-talk
 
