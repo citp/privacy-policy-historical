@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the firerescue1.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418003031id_/http%3A//firerescue1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firerescue1.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017144554id_/http%3A//www.firerescue1.com/privacy) for the most accurate reproduction.*
 
-# FireRescue1 - Privacy Policy
+# Privacy Policy
 
+**PRIVACY POLICY**  
+This website is owned by The Praetorian Group and operated in partnership with Elsevier Public Safety. We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.   
 **PRIVACY STATEMENT**  
 FireRescue1 is dedicated to safeguarding your privacy online. As a policy, we will not sell or otherwise misuse your customer information. Your customer information helps us customize FireRescue1 to your interests and allows us to negotiate valuable member discounts and related services. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time so please check back periodically.   
 **What personally identifiable information does FireRescue1 collect from me?**  
