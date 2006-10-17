@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehostpros.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414073420id_/http%3A//www.ehostpros.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehostpros.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017235916id_/http%3A//www.ehostpros.com/privacy.html) for the most accurate reproduction.*
 
 # Cheap Web Hosting & Reseller Plans for $4.95, Host Unlimited Domains, php, Frontpage.
 
