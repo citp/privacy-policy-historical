@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418164237id_/http%3A//www.fredericks.com/services/help.asp%3F75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017173708id_/http%3A//www.fredericks.com/services/help.asp%3F75) for the most accurate reproduction.*
 
 # Frederick's of Hollywood - Help
+
+**_Privacy and Security_**
+
+  
+
 
 Privacy and security are two of the biggest issues facing users of the Internet. 
 
@@ -104,24 +109,27 @@ We **never** share or sell e-mail addresses to anyone. 
 >  **P.O. Box 2949**  
 >  **Phoenix, AZ 85062-2949**
 
-Companies that place advertisements on our site and our alliance partners' sites may collect information about you when you view or click on their ads. These companies have their own policies and practices concerning online privacy. We recommend that you read all advertisers' and alliance partners' privacy policies, which are found on their sites.  
-Top  
+> Companies that place advertisements on our site and our alliance partners' sites may collect information about you when you view or click on their ads. These companies have their own policies and practices concerning online privacy. We recommend that you read all advertisers' and alliance partners' privacy policies, which are found on their sites.  
+>  Top  
+> 
+> 
+> * * *
+> 
+> **AM I GOING TO GET A LOT OF JUNK EMAILS WHEN I USE FREDERICKS.COM?**
+> 
+> The only way you will receive promotional emails from fredericks.com is if you have signed up as a member of our exclusive [Newsletter](https://web.archive.org/services/newsletter.asp). When you sign up for the newsletter, you will receive a weekly email giving you "member only" benefits such as product discounts, early order privileges for hot new merchandise and sneak peeks at fashions that reflect the newest trends in the intimate apparel industry. 
+> 
+> You may update or correct information in your newsletter profile at any time (for example, if you change your e-mail address.) You also may unsubscribe from our mailing list by replying to any newsletter e-mail with a blank message. To be unsubscribed from any list or prospecting list, go to the [Email Unsubscribe Page](https://web.archive.org/services/unsubscribe.asp).   
+>  Top  
+> 
+> 
+> * * *
+> 
+> **WHAT IF I HAVE ADDITIONAL QUESTIONS ABOUT MY PRIVACY?**
+> 
+> If you have any questions or comments about this Policy or regarding the use of customer information, you may contact us by email at [privacy@fredericks.com](mailto:privacy@fredericks.com). We will do our best to respond to your inquiry as quickly and thoroughly as possible.  
+>  Top  
+> 
 
-
-* * *
-
-**AM I GOING TO GET A LOT OF JUNK EMAILS WHEN I USE FREDERICKS.COM?**
-
-The only way you will receive promotional emails from fredericks.com is if you have signed up as a member of our exclusive [Newsletter](https://web.archive.org/services/newsletter.asp). When you sign up for the newsletter, you will receive a weekly email giving you "member only" benefits such as product discounts, early order privileges for hot new merchandise and sneak peeks at fashions that reflect the newest trends in the intimate apparel industry. 
-
-You may update or correct information in your newsletter profile at any time (for example, if you change your e-mail address.) You also may unsubscribe from our mailing list by replying to any newsletter e-mail with a blank message. To be unsubscribed from any list or prospecting list, go to the [Email Unsubscribe Page](https://web.archive.org/services/unsubscribe.asp).   
-Top  
-
-
-* * *
-
-**WHAT IF I HAVE ADDITIONAL QUESTIONS ABOUT MY PRIVACY?**
-
-If you have any questions or comments about this Policy or regarding the use of customer information, you may contact us by email at [privacy@fredericks.com](mailto:privacy@fredericks.com). We will do our best to respond to your inquiry as quickly and thoroughly as possible.  
-Top  
+  
 
