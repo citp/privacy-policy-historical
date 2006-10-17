@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applefcu.org privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625054320id_/http%3A//www.applefcu.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applefcu.org privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017132530id_/https%3A//www.applefcu.org/privacy.asp) for the most accurate reproduction.*
 
 # Apple Federal Credit Union - Privacy Policy
 
