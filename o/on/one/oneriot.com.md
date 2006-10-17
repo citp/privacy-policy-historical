@@ -1,0 +1,39 @@
+> *The following text is extracted and transformed from the oneriot.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017181353id_/http%3A//www.oneriot.com/privacy.php) for the most accurate reproduction.*
+
+# Privacy Policy
+
+#### **Privacy policy**
+
+This web site is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible. While you can use many features of This web site anonymously, you are required to provide personal information to gain access to some of our premium content and services. 
+
+### **How we collect and use personal information**
+
+Registering for membership on This web site gives you access to all the site's information and features. The only information required is your name, e-mail address, country, and ZIP/postal code. With your approval, we occasionally will send e-mail to notify you about important changes to the site, new services, and special offers from us. If you would rather not receive these e-mail notifications, you can simply indicate that preference either when you register or at any time you modify your account. 
+
+If you enter a contest or respond to a promotion, we may ask for your postal address so we can notify contest winners and deliver promotional goodies. When you enter this information, we will save it in your member profile so that you won't have to enter it again. We occasionally may also send you postal mail to notify you about important changes to the site, new services, and special offers from us and select This web site partners. If you would rather not receive such information via postal mail, you can indicate this when you enter your address or you can modify your account at any time to indicate your preference. 
+
+Our Free Product Info service lets you sign up to receive e-mail product announcements and other news from third parties, including software publishers, hardware manufacturers, and service providers. You can add or remove product information topics from your personal list at any time on your Free Product Info page. This web site works with Postmaster Direct, the world's leading e-mail announcement service, to prevent unauthorized use of your e-mail address and make sure you receive information only about the topics you specify. 
+
+### **How we protect your personal information**
+
+All personal data you enter on This web site is encrypted with secure server software (SSL) that encodes the information before your Web browser software sends it to us. The SSL software decodes the data only after it reaches our server, meaning hackers can't snatch any of your personal information while it is in transit. Once the data reaches our site, the same state-of-the-art security software we use to guard all of our company's essential business data protects your personal data as well. 
+
+In addition to using the most secure technology available, we work tirelessly to make sure that we use any information you provide us only in ways you have approved. We send you only the e-mail you have approved in your account information or on your e-mail subscription sign-up page. And when you sign up for Free Product Info, Postmaster Direct distributes all the announcement e-mails you request directly without ever releasing your e-mail address to a third party. 
+
+### **How we use "cookies"**
+
+As you probably know, "cookies" are small pieces of information that some Web sites store on your computer's hard drive when you visit them. Like many other Web sites, This web site uses cookies to identify members so they don't have to enter a user ID and password upon each visit. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site by logging in manually with each visit. 
+
+### **What we provide to third parties**
+
+While This web site does not provide any third-party access to your personal information except to facilitate your own attempts to register with our partners or receive offers from select partners as mentioned elsewhere in this policy, we may provide third parties with aggregate statistics about our customers, traffic patterns, and related site information. This data reflects site usage patterns gathered during millions of customer visits to our Web site each month, but it does not contain behavioral or identifying information about any individual member unless that member has given us permission to share that information. 
+
+This web site uses a third-party advertising company to serve ads when you visit our sites. This company may use information (not including your name, address, e-mail address, or telephone number) about your visits to our and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, we share Web site usage information about visitors to our site with this company for the purpose of managing and targeting advertisements on our sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our sites through the use of pixel tags (also called “clear gifs”). \
+
+### **Obtaining your consent**
+
+By using our Web site, you give This web site permission to collect information about the pages served to you as an anonymous user for the purpose of calculating aggregate site statistics. If you register at This web site, you authorize This web site to use information you provide to personalize the information we deliver to you and to use your demographic information when calculating aggregate customer data. As a registered member, you give This web site and our agents permission to send you e-mails related to the subscription e-mail services to which you subscribe and the Free Product Info topics you select. 
+
+If you are under the age of 18, you must not provide your name, e-mail address, or any other identifying information without the consent of your parent or guardian, or as otherwise provided for by applicable law. 
+
+Any changes to our privacy policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
