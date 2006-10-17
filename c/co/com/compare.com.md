@@ -1,131 +1,52 @@
-> *The following text is extracted and transformed from the compare.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602101121id_/http%3A//www.compare.com/softcontent/softcontent.asp%3FscmId%3D61%26scpId%3D163) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compare.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017152225id_/http%3A//compare.com/privacy.html) for the most accurate reproduction.*
 
-# Customer service
+# COMPARE.COM -- Privacy Policy
 
- [](http://explorer.msn.com/)  
-| | |  |   
----  
-> **MSN Shopping Pledge** |  | > [**Contact us**](https://web.archive.org/feedback.asp)  
-> **Security, Privacy & Service** |  | > **Gift Certificates**  
-> **Your order** |  | > **Site terms, conditions, and notices**  
-> **Orders outside the U.S.** |  | > **Advertising on eShop and MSN**  
-> [**Return Center**](https://web.archive.org/softcontent/softcontent.asp?scmId=582) |  |   
----  
-MSN Shopping Pledge  
-MSN is dedicated to providing our customers the best online shopping experience. You can buy online with confidence knowing that MSN has excellent security, respect for your privacy and committed customer service. We appreciate and want to hear your feedback and suggestions to provide you with the most rewarding experience.  
+Privacy Policy
+
+November 18th, 2005 
+
   
+This Privacy Policy explains our policy regarding the collection, use and disclosure of your personal information. As we update and expand our services, this policy may change, so please refer back to it periodically. By accessing our Web site or using our services, you consent to our information practices. 
 
+**Collection and Use of Information**  
+Personal information means information that can be used to identify and contact you, specifically your name, postal delivery address, e-mail address, payment method (e.g., credit card or debit card) and telephone number, as well as other information when such information is combined with your personal information. 
 
-Security | Our Policy On Safe Transactions  
----|---  
-| 
+When you register or re-register at our Web site, we may ask you to supply us with personal information so that we can provide, enhance and personalize our services and marketing efforts. For similar reasons, we may supplement the personal information you provide with publicly available information about you. We use this personal information to process your registration, your orders and your payments, and to communicate with you on these and other topics. We also use your e-mail address to send you newsletters, as well as messages about Compare.com special offers, promotional announcements and consumer surveys. Occasionally, we may send these materials to you via postal mail, using the shipping address provided. Our mailers that contain the DVDs may also contain promotional items or advertisements. 
 
-* All MSN eShop merchants are required to offer secure transaction capabilities; this ensures your credit card and personal information are safe.
+We keep track of your interactions with us, including but not limited to your site activity and correspondence. We use this information for such purposes as providing recommendations on movies we think will be enjoyable, personalizing the site to better reflect particular interests, helping us quickly and efficiently respond to inquiries and requests and otherwise enhancing our service offering for our customers. We also provide analyses of our users in the aggregate to prospective partners, advertisers and other third parties. 
 
-* The Fair Credit Billing Act guarantees you cannot be held liable for more than $50 of unauthorized charges on your credit account. In addition, currently all major credit card issuers have no-risk policies when using your credit card online.should your credit card ever get misused, you will not be liable for the fraudulent charges!
+While using the Compare.com service and Web site, you will have opportunities to post reviews or other personal information in public forums. Please understand that when you post such information, it is made public and is not subject to this policy. 
 
-* Our developers at Microsoft are working to make MSN the safest online shopping site; we worry so you never have to! Try using [Microsoft Passport](http://passport.com/) for even more peace-of-mind when shopping online.  
-  
-Privacy | Our Policy On Protecting Your Personal Information  
-| 
+**Links to Other Sites**  
+The Compare.com Web site contains links to sites operated by third parties whose policies regarding the handling of personal information may differ from ours. While we endeavor to associate with reputable sites, Compare.com cannot be responsible for the information handling practices of these other sites. 
 
-* All MSN eShop merchants are required to post a statement explaining their privacy policies. Please see their sites for details.
+**Children**  
+You must be 18 years of age or older to subscribe to the Compare.com service. While individuals under the age of 18 may utilize the service, they may do so only with the involvement of a parent or legal guardian and subject to our Terms of Use. While Compare.com does distribute products that may be watched by children, we do not intentionally seek to collect information from individuals 13 years of age and younger nor do we knowingly collect personal information from children under 13 through the service. 
 
-* As a part of MSN, we at eShop follow the principles put forth in the network's [TRUSTe](http://www.truste.com/) approved [Privacy Statement](http://www.msn.com/help/legal/privacy.htm). Your information is always secure with us!
+**Cookies and Other Technology**  
+As you browse the Compare.com site, cookies are placed on your computer's hard drive. (Cookies are small pieces of data that are sent to your browser from a Web server and stored on your hard drive for record keeping purposes.) In general, cookies can make the Web more useful by storing information about your preferences on a particular site. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. If your browser is set to not accept cookies, you will not be able to use the Compare.com site or service. 
 
-* All of the transactions you make at MSN are private. The information you share with the merchant is subject to their posted privacy policy.  
-  
-Service | Our Commitment To Serving You  
-| 
+In addition to cookies, we use other technologies, including pixel tags, to gather information on how our users interact with our site and to otherwise help us efficiently operate and monitor our site and service. These technologies, show us, for example, popular pages, conversion rates, click-throughs and other information that can be used to improve, operate and monitor our site and our service. Third parties, including consultants we engage and online advertisers, may also use this technology to perform similar services for us as well as to assess their own advertising or services. 
 
-* MSN merchants comply with the Federal Trade Commission's [Mail and Telephone Order Rule](http://www.ftc.gov/bcp/conline/pubs/buying/mail.htm). This rule states mail order and Internet merchants must deliver items by the time they say or within 30 days of the order if no delivery time is stated. If they can't, they must notify customers and give them a chance to cancel their orders for a full refund.
+**Disclosure of Personal Information**  
+Except as otherwise disclosed to you, we will not sell, rent or disclose your personal information to third parties without notifying you of our intent to share the personal information in advance and giving you an opportunity to prevent your personal information from being shared. 
 
-* Most of all, we care about your experience while shopping on MSN. While your online shopping order is ultimately handled by [our merchants](https://web.archive.org/merchants.asp), if you have questions or problems, we want to hear about them! Please feel free to send us email. [customer service form](https://web.archive.org/feedback.asp).  
-  
-  
-Frequently Asked Questions about Security, Privacy and Service How Can I protect myself against online credit card fraud?  
-MSN eShop requires its merchants to provide secure transaction capabilities when taking transaction information from our customers. We cannot monitor all of their activities all of the time, however, so be safe and always look for an "s" in the beginning of the URL ( **https://** ) whenever you are giving out your credit card information. You can also look for the small padlock in the lower right hand portion of your browser window. Finally, ensure you are on the site you planned to be shopping with when giving out personal information.  
+We use other companies, agents or contractors to perform services on our behalf. For example, we have partnered with other companies to personalize and optimize our Web pages, collect debts, analyze and enhance data, including customers' interaction with our site, and process consumer surveys. 
 
+From time to time, we may partner with companies whose products we believe will interest our users. In conjunction with these partners, we may send promotional announcements and/or serve web-based advertisements to our customers on their behalf. You can go to the Email Subscriptions page under Your Account and request that your name be excluded from these mailings for our marketing partners. In addition, we may offer joint promotions or programs that, in order for participation, will require personal information be shared with third parties. In such instances, you will be provided with notice of the sharing prior to your decision to participate. 
 
-Where can I go for more information about protecting myself online?  
-You can visit the [FTC's website on consumer internet safety](http://www.ftc.gov/bcp/menu-internet.htm).  
+Compare.com also reserves the right to disclose personal information when we reasonably believe disclosure is required by law, if we reasonably believe disclosure is necessary to establish or exercise legal rights, or in situations involving potential threats to physical safety. In the event that Compare.com is acquired by or merged with a third party, we reserve the right, to sell or otherwise transfer the personal information we have collected as part of that transaction provided that such third party continues to honor our privacy policy. 
 
+**Security**  
+Compare.com takes information security very seriously and uses reasonable administrative, technical and managerial measures to protect your personal information from unauthorized access. For example, we utilize Secure Sockets Layering, an industry-standard protocol for certain of your transmissions to us, in order to encrypt the personal information that you send to us through the registration and sign up process. We store your email address and payment method information in an encrypted form. 
 
-What is my liability for online credit card fraud?  
-The Fair Credit Billing Act limits, under certain circumstances, your liability to $50 on misuse of your credit card or billing errors. Note that this act only covers credit cards, not debit cards (the Electronic Fund Transfer Act covers those under certain circumstances as well).
+You are responsible for maintaining the confidentiality of your account information and for restricting access to your computer or mobile device through which you access your Compare.com account. Users of public or shared computers or unprotected mobile devices should log out at the completion of each visit to the Compare.com Web site. 
 
-As of 06/00, Major credit card companies may waive even this $50 liability for misuse of your credit card as a result of online fraud. For specific details, go to the credit card company's websites: [Visa](http://www.visa.com/), [MasterCard](http://www.mastercard.com/), [American Express](http://www.americanexpress.com/), [Discover Card](http://www.discovercard.com/). In addition, the Federal Trade Commission has created a website with frequently asked questions and recommended procedures for dealing with fraud. [FTC's website](http://www.ftc.gov/bcp/conline/pubs/credit/fcb.htm).  
+Unfortunately, no security system can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of your personal information and cannot assume liability for improper access to it. By using this Web site, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this site. 
 
+**Changes to This Policy**  
+As we update and expand our services, we may make changes to this policy. You should check back for updates to this policy from time to time. If the changes result in materially less protection for your personal information than that provided in this policy, we will make reasonable efforts to contact you and obtain your consent to the changes. Like our Terms of Use, of which this policy is a part, your use of the Compare.com Web site or continued use of our service after our efforts to contact you means that you agree to be bound by such changes. 
 
-* * *
-
-**Your order**   
-For questions about an order you placed, please [contact the merchant](https://web.archive.org/merchants.asp) directly. Individual stores (the "merchants") in MSN eShop are responsible for their own fulfillment, shipping, security and other policies.
-
-If you have an experience with a merchant (either good or bad) that you'd like to tell us about, [we'd like to hear it](https://web.archive.org/feedback.asp).  
-
-
-* * *
-
-**Orders outside the U.S.**   
-Many merchants accept orders from outside the U.S. Please check with the [individual merchants](https://web.archive.org/merchants.asp) to learn more about their policies and shipping for orders that are sent outside the fifty United States and the District of Columbia ("U.S.").
-
-* * *
-
-Gift Certificates [How do they work?](http://giftcertificates.msn.com/how_they_work.asp)     |     [Common questions](http://giftcertificates.msn.com/common_questions.asp)     |     [Customer service](http://giftcertificates.msn.com/customer_service.asp)
-
-* * *
-
-Site terms, conditions, and notices **Agreement Between User and MSN**  
-This Web site is offered to you, the user, conditioned on your acceptance without modification of the terms, conditions, and notices contained herein. Your use of this Web site constitutes your agreement to all such terms, conditions, and notices. MSN reserves the right to change these terms, conditions, and notices from time to time. 
-
-**MSN eShop policies**  
-MSN eShop provides the Merchants' links to you. 
-
-However, each individual Merchant participating at MSN eShop is responsible for setting and explaining their individual shipping, return, security and other policies applicable to shopping in their stores and purchasing their products. MSN does not guarantee, warrant or endorse any product or service sold by a Merchant in MSN eShop, nor do we have any liability or responsibility for the quality or performance of any product or service sold to you by any Merchant. The purchase of any product or service from a Merchant at MSN eShop is a transaction solely between you and that Merchant, and any question or dispute you may have regarding any such product or service should be addressed directly to the responsible Merchant. MSN has no responsibility or liability for any Merchant or your relationship with such Merchant. 
-
-You are responsible for paying the entire amount due on your purchase, including any applicable taxes, shipping and other charges assessed by the Merchant. With respect to applicable taxes, the Merchant will advise you subsequently of the exact amount of tax due on your purchase. MSN has no responsibility whatsoever for any miscalculation or omission by a Merchant of applicable taxes on any sale. 
-
-MSN also does not guarantee, warrant, endorse or otherwise have any responsibility for any contest, sweepstakes, promotion or any other type of marketing made available to you by a Merchant. Any such contest, sweepstakes, promotion and marketing is being offered solely by the Merchant and is entirely the responsibility of such Merchant. Any question or dispute that you may have regarding any of the foregoing should be addressed directly to the responsible Merchant. 
-
-**Additional policies** **1\. Bulletin Boards**. MSN eShop may include bulletin boards, chat rooms, or other communications forums ("Bulletin Boards") which allow feedback to MSN, and/or real-time interaction between users. MSN does not control the messages, information or files delivered to Bulletin Boards. It is a condition of your use of the Bulletin Boards and this Web site that you use the Bulletin Boards only to send and receive messages and material that are proper to the Bulletin Board. By way of example, and not as a limitation, you agree that when using a Bulletin Board you will not: 
-
-  * Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
-  * Publish, post, distribute or disseminate any defamatory, infringing, obscene, indecent or unlawful material or information. 
-  * Upload files that contain software or other material protected by intellectual property laws (or by rights of privacy or publicity) unless you own or control the rights thereto or have received all necessary consents. 
-  * Upload files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of another's computer. 
-  * Falsify or delete any author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded. 
-  * Advertise or offer to sell any goods or services, or engage in surveys, contests, or chain letters.
-  * Download any file that you know, or reasonably should know, cannot be legally distributed via MSN eShop. 
-
-
-
-You acknowledge that Bulletin Boards are public and not private communications. Further, you acknowledge that Bulletin Board postings by other users are not endorsed by MSN or MSN eShop, and such communications shall not be considered reviewed, screened, or approved by MSN or MSN eShop. MSN reserves the right at all times without notice to disclose any information as necessary to satisfy any law, regulation or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, that in MSN's sole discretion are objectionable or in violation of the terms, conditions or notices of MSN eShop. 
-
-**Any Bulletin Boards located within a Merchant's site are the sole responsibility of the Merchant and MSN has no responsibility or liability for any Bulletin Boards located within a Merchant's site.**
-
-**2\. Adult Responsibility**. You represent and warrant that you are at least 18 years of age and that you possess the legal right to use MSN eShop in accordance with the stated terms and usage policies. You hereby agree to supervise usage by, and be responsible for the actions of, any minors who use your computer and/or registration account to access MSN eShop. 
-
-**3\. Personal and Non-Commercial Use Limitation**. MSN eShop is for your personal, noncommercial use. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained from MSN eShop. 
-
-**4\. Copyright and Trademark Notices**. All contents of MSN eShop are: Copyright © 1996-97 The Microsoft Network, L.L.C., the Merchants, and/or their suppliers. All rights reserved. 
-
-Microsoft, Windows, Windows NT, MSN, The Microsoft Network and other names of Microsoft products and/or services referenced herein are either trademarks or registered trademarks of Microsoft in the United States or other countries. Other product and company names mentioned herein may be the trademarks of their respective owners. 
-
-**5\. Links to Third Party Sites**. The links in MSN eShop (including the Merchant links) will let you leave MSN eShop site. The links are not under the control of MSN and MSN is not responsible for the contents of any linked site or any link contained within a linked site. MSN is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement by MSN of the site. 
-
-**6\. Use of Information**. The name, address and other information, including but not limited to information regarding the manner in which you use MSN eShop, that may be collected by MSN will not be processed or disclosed by MSN except as permitted by these terms and conditions. By being a user of this Web site, you agree that MSN may share with other parties Aggregate Information, Individual Information, and Locator Information gathered by MSN in the course of your continuing use of this site. "Aggregate Information" is information that describes the habits, usage patterns and/or demographics of users as a group but does not describe or reveal the identity of any particular user. "Individual Information" is information about a user that is presented in a form indistinguishable from information relating to other users but not in a form that personally identifies any user or enables the recipient to communicate directly with any user. "Locator Information" consists of a users name, e-mail address, physical address and/or other data about the user that enables the recipient to personally identify the user. If you do not wish MSN to use your Locator Information, do not wish to receive any special offers or communications from MSN on behalf of suppliers, or directly from MSN or its affiliates, or wish to confirm that your Locator Information has been accurately recorded or correct such information, you should e-mail MSN at the address set forth above. (Note that your election not to receive any such promotional information will not affect your receipt of offers or communications that were processed prior to your election.) Aggregate, Individual, and Locator Information will be processed and stored by MSN in the United States and, if you do not live in the United States, possibly in your country of residence. 
-
-**Information collected on a Merchant's site is subject to the Merchant's Use of Information policies.**
-
-**7\. No Unlawful or prohibited Use**. As a condition of your use of this Web site, you warrant to MSN that you will not use this Web site for any purpose that is unlawful or prohibited by these terms, conditions, and notices. 
-
-**8\. Changes to terms; Member policies**. MSN reserves the right to change these terms of usage at any time by posting changes on MSN eShop. Furthermore, MSN may from time to time post notices on The Plaza on MSN indicating additional policies regarding use of MSN eShop. 
-
-**9\. Termination rights**. MSN reserves the right to terminate any user's access to and use of MSN eShop, or any area within MSN eShop, at any time. 
-
-**10\. Other**. This agreement shall be governed by and construed in accordance with the laws of the State of Washington. If any provision of this agreement shall be unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from the other terms of usage and shall not affect the validity and enforceability of any remaining provisions. 
-
-* * *
-
-**Advertising on eShop and MSN** If you're interested in advertising opportunities for your business on MSN or the eShop shopping site, please visit the [MSN Sales information](http://www.mediacenter.msn.com/) site to learn more and/or to contact the MSN Sales team.
+**Contact**  
+If you have questions concerning your account, please contact Customer Service. If you have questions concerning this privacy policy, please contact privacy@compare.com. 
