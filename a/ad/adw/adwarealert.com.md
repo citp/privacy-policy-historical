@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adwarealert.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510030008id_/http%3A//www.adwarealert.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adwarealert.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018001411id_/http%3A//www.adwarealert.com/privacy.html) for the most accurate reproduction.*
 
 # Adware Alert Respects Your Privacy
 
@@ -27,7 +27,8 @@ We may disclose and use personally identifiable information in special circumsta
 **AdwareAlert**
 
 **What Information AdwareAlert Collects**   
-AdwareAlert Software does not collect any information from your computer.   
+AdwareAlert Software does not collect any personal identifiable information from your computer. A log is created of items detected for removal on your computer abd remains on your harddrive for your referance. During a support situation this log may be requested for troubleshooting by a support tech but requires the user to manually send.  
+AdwareAlert application Does NOT send information about you or your computer to anyone.   
 
 
 **Updates**   
