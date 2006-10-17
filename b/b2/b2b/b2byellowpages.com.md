@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2byellowpages.com privacy policy that was archived on 2006-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060519202250id_/http%3A//www.b2byellowpages.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2byellowpages.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017072103id_/http%3A//www.b2byellowpages.com/privacy.shtml) for the most accurate reproduction.*
 
 # B2B Yellow Pages: Business to Business (B2B) Yellow Pages, Business Search, B2B Companies, Information.
 
@@ -44,4 +44,4 @@ Please review our Privacy Policy on a regular basis so that you will be apprised
 
 **What if I have questions or comments about this privacy policy?**
 
-You can direct all additional questions and comments regarding our privacy policy through our **[feedback form.](https://web.archive.org/web/20060519202250id_/http%3A//www.b2byellowpages.com/feedback.shtml)**
+You can direct all additional questions and comments regarding our privacy policy through our **[feedback form.](https://web.archive.org/web/20061017072103id_/http%3A//www.b2byellowpages.com/feedback.shtml)**
