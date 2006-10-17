@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the orb.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615053232id_/http%3A//orb.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orb.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017235129id_/http%3A//orb.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Orb Networks | Company | Privacy policy
 
 Privacy Policy
 
-Thank you for visiting this Internet Web site located under the universal resource locator at www.orb.com (the "Site"). This privacy policy explains the policies implemented throughout Orb Networks ("Orb") governing Orb's collection, use and disclosure of your personally identifiable information provided to Orb via this Site. 
+Thank you for visiting this Internet Web site located under the universal resource locator at www.orb.com (the "Site"). This privacy policy explains the policies implemented throughout Orb Networks ("Orb") governing Orb's collection, use and disclosure of your personally identifiable information provided to Orb via this Site. Our visitors from Europe should note that, as a US company, Orb is certified on the Safe Harbor List and abides by the principles set forth in the Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
 **Privacy Policy Changes**  
 Orb reserves the right to change this privacy policy from time to time and will post any revisions on the Site located at the URL www.Orb.com/index/privacy. We encourage you to review this Orb privacy policy regularly for any changes. Your continued use of this Site will be subject to the then-current Orb privacy policy. 
