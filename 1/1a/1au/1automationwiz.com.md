@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1automationwiz.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616015721id_/http%3A//www.1automationwiz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1automationwiz.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017134123id_/http%3A//1automationwiz.com/privacy.htm) for the most accurate reproduction.*
 
 # Shopping Cart Software and Autoresponder Accounts
 
@@ -26,7 +26,7 @@ The free trial was so effective and the customer support so excellent that you w
 Zach Waldman  
 ceospecialevent.com
 
-[Read More Rave Reviews](https://web.archive.org/web/20060616015721id_/http%3A//www.1automationwiz.com/shopping-cart-reviews.htm)  
+[Read More Rave Reviews](https://web.archive.org/web/20061017134123id_/http%3A//1automationwiz.com/shopping-cart-reviews.htm)  
   
 |   
 |   
@@ -65,10 +65,6 @@ Cyber Samurai Marketing, Inc. does not knowingly collect or solicit Personally I
 Contacting Us.
 
 We can be reached by contacting:
-
-Email: [newsales@1automationwiz.com](mailto:newsales@1automationwiz.com)
-
-Mail: Cyber Samurai Marketing, Inc., 11939 Manchester Rd, #198. St. Louis MO. 63131
 
 Changes to this Policy
 
