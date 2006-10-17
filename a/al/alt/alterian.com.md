@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alterian.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315085637id_/http%3A//www.alterian.com/redirect.asp%3Fid%3D18523) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alterian.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017152044id_/http%3A//www.alterian.com/redirect.asp%3Fid%3D18523) for the most accurate reproduction.*
 
 # Alterian - Privacy Policy
 
