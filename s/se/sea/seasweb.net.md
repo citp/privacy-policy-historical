@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seasweb.net privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616194836id_/http%3A//www.computerautomation.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seasweb.net privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017194919id_/http%3A//computerautomation.com/privacy.asp) for the most accurate reproduction.*
 
 # Special Education Automation Software
 
