@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogomonster.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191441id_/http%3A//www.blogomonster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogomonster.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017191944id_/http%3A//www.blogomonster.com/%3Fop%3Ddisplay%26page%3Dprivacy) for the most accurate reproduction.*
 
-# BLOGOMONSTER.COM: Create Your Free Blog Account
+# BlogoMonster.com - Free blog hosting, photo galleries and more!
 
 Last updated: June 21st, 2005
 
@@ -14,5 +14,4 @@ While BLOGOMONSTER & BLOGO, INC. is committed to protecting all personal informa
 
 BLOGOMONSTER & BLOGO, INC. will not accept any personal information that is violation of the law. Such information will be forwarded to the appropriate authorities and will be prosecuted to the fullest extent of the law.
 
-BLOGOMONSTER & BLOGO, INC. reserves the right to change the above mentioned statements at anytime. In doing so, we will inform the visitor of any new policies  
-
+BLOGOMONSTER & BLOGO, INC. reserves the right to change the above mentioned statements at anytime. In doing so, we will inform the visitor of any new policies
