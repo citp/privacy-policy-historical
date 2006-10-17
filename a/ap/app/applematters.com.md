@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applematters.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623122014id_/http%3A//www.applematters.com/index.php/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applematters.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018010422id_/http%3A//www.applematters.com/index.php/section/privacy) for the most accurate reproduction.*
 
 # AppleMatters | Privacy
 
