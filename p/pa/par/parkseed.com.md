@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628022630id_/http%3A//www.parkseed.com/gardening/Park/dept/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkseed.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017031628id_/http%3A//www.parkseed.com/gardening/Park/dept/PrivacyPolicy) for the most accurate reproduction.*
 
-# Park Seed: Mail Order Plants, including mail order annuals and mail order perennials.
+# Park Seed: Flower Bulbs, Seeds, Bulbs, Plants, Hydrangeas, Trees for you Gardens and Landscape.
 
   
 
@@ -16,7 +16,7 @@ The information you provide may include information provided during the registra
 
 Information that you provide is the property of George W. Park Seed Company, Inc. All of the information that you provide may be used by Park Seed to better serve you. Park Seed may also use this information to contact you about new specials, catalogs, products and other opportunities. Ways we use information include: 
 
-You can contact Park Seed directly with questions or comments regarding the services by using the parkseed.com [contact inquiry form](https://web.archive.org/web/20060526220450id_/http://www.parkseed.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?catalogId=10101&storeId=10101&langId=-1&mainPage=feedbackform). This contact inquiry form asks you for certain identifying information so that Park Seed may respond to your inquiry. 
+You can contact Park Seed directly with questions or comments regarding the services by using the parkseed.com [contact inquiry form](https://web.archive.org/web/20061017033151id_/http://www.parkseed.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?catalogId=10066&storeId=10101&langId=-1&mainPage=feedbackform). This contact inquiry form asks you for certain identifying information so that Park Seed may respond to your inquiry. 
 
 Park Seed may use your contact information to get in touch with you regarding the status of your registration or any orders you may place. You may also be contacted by us regarding additional services and features or requesting your feedback about your experience with parkseed.com. 
 
@@ -28,10 +28,10 @@ The parkseed.com optional on-line survey generally asks for demographic informat
 
 Park Seed may provide links on parkseed.com to other sites of interest. Park Seed does not review or endorse the content of these sites or guarantee that they will abide by this Privacy Policy. Your use of such linked sites is subject to the terms and conditions and privacy policies of the providers of those sites. We encourage our users to be aware when they leave our website and to read the privacy statements of each website that collects identifying information. 
 
-Please note that your use of the parkseed.com website and services is subject to Parkseed.com's [Terms and Conditions.](https://web.archive.org/web/20060526220450id_/http://www.parkseed.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?catalogId=10101&storeId=10101&langId=-1&mainPage=billofrights)
+Please note that your use of the parkseed.com website and services is subject to Parkseed.com's [Terms and Conditions.](https://web.archive.org/web/20061017033151id_/http://www.parkseed.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?catalogId=10066&storeId=10101&langId=-1&mainPage=billofrights)
 
 Sharing Your Information  
-Park Seed recognizes that gardeners may want products other than the high-quality seeds, plants, bulbs and accessories that we offer. Therefore, from time to time, Park Seed may make customer information available to other reputable companies whose products or services we think you might find interesting. Please remember that, although Park Seed endeavors to select only reputable companies who share our commitment to customer privacy, we are in no way responsible for the actions or policies of these other organizations. If you do not want to share your information with such other companies, [click here now](https://web.archive.org/web/20060526220450id_/http://www.parkseed.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?catalogId=10101&storeId=10101&langId=-1&mainPage=optoutmail). 
+Park Seed recognizes that gardeners may want products other than the high-quality seeds, plants, bulbs and accessories that we offer. Therefore, from time to time, Park Seed may make customer information available to other reputable companies whose products or services we think you might find interesting. Please remember that, although Park Seed endeavors to select only reputable companies who share our commitment to customer privacy, we are in no way responsible for the actions or policies of these other organizations. If you do not want to share your information with such other companies, [click here now](https://web.archive.org/web/20061017033151id_/http://www.parkseed.com/webapp/wcs/stores/servlet/StoreCatalogDisplay?catalogId=10066&storeId=10101&langId=-1&mainPage=optoutmail). 
 
 Other Uses of Information  
 The only other instances in which Park Seed discloses your identifying information to third parties are:  
