@@ -1,10 +1,17 @@
-<!--The following is the downloaded HTML source of the thesaurus.com privacy policy that was archived on 2006-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060331024503id_/http%3A//thesaurus.reference.com/help/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thesaurus.com privacy policy that was archived on 2006-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061017153306id_/http%3A//thesaurus.reference.com/help/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
-<title>Thesaurus.com/Privacy Policy</title>
-<meta name="description" content="Thesaurus.com Privacy Policy"> 
-<meta name="keywords" content="privacy policy"> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Thesaurus.com Help</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="description" content="Thesaurus.com.">
+<meta name="keywords" content="a synonyms antonyms words roget's thesaurus reference English language">
+<link rel="shortcut icon" href="http://cache.lexico.com/g/favicon.ico">
+<link rel="stylesheet" href="http://cache.lexico.com/css/t/root.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://cache.lexico.com/css/t/thesaurus.css" type="text/css" media="all">
+<script src="http://cache.lexico.com/js/common.js" language="JavaScript" type="text/javascript"></script>
+
+<link rel="stylesheet" href="http://cache.lexico.com/css/t/help.css" type="text/css" media="all">
 <script language="JavaScript" type="text/javascript">
 <!--
 _version=10;
@@ -22,6 +29,7 @@ var OAS='http://oascentral.reference.com/RealMedia/ads/';
 var sitepage = "thesaurus.reference.com/help/privacy.html";
 var RN = new String (Math.random());
 var RNS = RN.substring (2, 11);
+
 function DisplayAds (position, width, height) {
 	var OASpage = sitepage + '/1' + RNS + '@' + position;
 
@@ -38,120 +46,89 @@ function DisplayAds (position, width, height) {
 }
 // -->
 </script>
-<script language="JavaScript" type="text/javascript" src="/core.js"></script>
 <script language="JavaScript" type="text/javascript">
+LEXICO_Globals.SiteInfo = new Object();
+LEXICO_Globals.SiteInfo.dictionaryURL = "http://dictionary.reference.com";
+LEXICO_Globals.SiteInfo.thesaurusURL = "http://thesaurus.reference.com";
+LEXICO_Globals.SiteInfo.referenceURL = "http://www.reference.com";
+LEXICO_Globals.SiteInfo.thewebURL = "http://www.reference.com/?db=web";
+LEXICO_Globals.SiteInfo.currentSite = "thesaurus";
 <!--
 
+function jump2form() {
+	document.search_form.q.focus();
+}
+
+function isblank(s) {
+	for(var i = 0; i < s.length; i++) {
+		var c = s.charAt(i);
+		if ((c != ' ') && (c != '\n') && (c != '\t')) {
+			return false;
+		}
+	}
+	return true;
+}
+
 function formcheck() {
-	var d = document.search_form.db[0].checked;
-	var t = document.search_form.db[1].checked;
-	var e = document.search_form.db[2].checked;
-	var w = document.search_form.db[3].checked;
 	var q = document.search_form.q.value;
+	var redirectURL = DetermineRedirectURL(q);
+		
 	if ((q == null) || (q == "") || isblank(q)) {
 		alert("Please enter a word to look up.");
 		jump2form();
+		return false;
 	}
-	else if (d == 1) {
-		location.href = ("http://dictionary.reference.com/search?q=" + escape(q));
-	}
-	else if (t == 1) {
-		location.href= ("http://thesaurus.reference.com/search?q=" + escape(q));
-	}
-	else if (e == 1) {
-		location.href = ("http://www.reference.com/search?q=" + escape(q));
-	}
-	else if (w == 1) {
-		location.href = ("http://www.reference.com/search?db=web&q=" + escape(q));
-	}
-	else {
-		location.href = ("http://www.reference.com/");
-	}
+	location.href = redirectURL;
 	return false;
 }
-
 //-->
 </script>
-<style type="text/css" media="Screen">
-<!--
-
-A:link {color: #0033FF;}
-A:visited {color: #000099;}
-A:hover {color: #3366FF;}
-BODY {font-family: arial,sans-serif; color: black; margin-top: 5px; margin-left: 5px; margin-right: 5px; margin-bottom: 5px;}
-TABLE {font-family: arial,sans-serif; color: black; margin-top: 0px; margin-left: 0px; margin-right: 0px;}
-H1, H2, H3, H4, H5, H6 {font-family: arial,sans-serif; color:#333333;}
-H1 {font-size: 150%;}
-H2 {font-size: 140%;}
-H3 {font-size: 130%;}
-H4 {font-size: 120%;}
-H5 {font-size: 110%;}
-H6 {font-size: 100%;}
-ul {list-style-type: square;}
-
-/* classes */
-
-/* navbar elements */
-.nav {font-family: arial,sans-serif; font-size: 11pt;}
-.navsm {font-family: verdana,sans-serif; font-size: 9pt;}
-.searchbar {font-family: arial,sans-serif; color:#ffffff;}
-.button {font-family: arial,sans-serif; font-size: 11pt;}
-
-/* other elements */ 
-.head {font-family: arial,sans-serif;}
-.small {font-family: verdana,sans-serif; font-size: 9pt;}
-.xsmall {font-family: verdana,sans-serif; font-size: 7pt;}
-.ad {font-family: verdana,sans-serif; color:#666666; font-size: 7pt;}
-.textad {font-family: verdana,sans-serif; font-size: 9pt; border-width: thin; border-color: #cccccc; border-style: solid;}
-a.head:link {font-family: arial,sans-serif; color:#0033FF;}
-a.head:visited {color: #000099; font-family: arial,sans-serif;}
-a.head:hover {color: #3366FF; font-family: arial,sans-serif;}
-
-.src {color: #3f3f3f; font-family: verdana,sans-serif; font-size: 9pt;}
-
-.searchtxtlink {font-family: verdana,sans-serif; font-size: 7pt;}
-.searchtxtlink a,.searchtxtlink a:link,.searchtxtlink a:active,.menu a:visited {font-family: verdana,sans-serif; font-size: 7pt;}
-.searchtxtlink a:hover {background: #3366FF; color: #ffffcc; font-family: verdana,sans-serif; font-size: 7pt;}
-
-/* End classes */
-
--->
-</style>
 </head>
-<body bgcolor="#FFFFFF" text="#000000" link="#0033FF" vlink="#000066" alink="#3366FF">
-<form name="search_form" method="get" action="/search" onsubmit="return formcheck();"><a name="#lookup"></a>
-<table border="0" cellspacing="0" cellpadding="2" width="100%" bgcolor="#FFCC00">
-<tbody><tr>
-<td align="left" valign="middle" rowspan="2"><a href="/"><img src="http://cache.lexico.com/thesaurus/graphics/logo145x42.gif" alt="Thesaurus.com" border="0" width="145" height="42"></a></td>
-<td align="center" valign="middle" nowrap=""><input type="text" name="q" value="" size="25" maxlength="256" style="font-size:12pt;">&nbsp;<input type="submit" value="Search" class="button">&nbsp;</td>
-<td align="right" valign="middle" rowspan="2"><img src="http://cache.lexico.com/graphics/s.gif" alt="" border="0" width="145" height="42"></td>
-</tr>
-<tr>
-<td align="center" valign="top" class="small" style="color:black;" nowrap=""><label for="d"><input type="radio" name="db" value="*" id="d">Dictionary</label>&nbsp;&nbsp;<label for="t"><input type="radio" name="db" value="roget" id="t" checked="">Thesaurus</label>&nbsp;&nbsp;<label for="e"><input type="radio" name="db" value="encyclopedia" id="e">Encyclopedia</label>&nbsp;&nbsp;<label for="w"><input type="radio" name="db" value="web" id="w">Web</label></td>
-</tr>
-<tr bgcolor="#eeeeee">
-<td align="left" colspan="2"><a href="/" class="navsm">Home</a></td>
-<td align="right"><span class="small">Premium:</span> <a href="https://secure.reference.com/cgi-bin/premium/register.pl" class="navsm">Sign up</a> | <a href="https://secure.reference.com/premium/login.html?u=http%3A%2F%2Fthesaurus.reference.com%2Fhelp%2Fprivacy.html" class="navsm">Login</a></td>
-</tr>
-</tbody></table>
+<body class="thesaurus">
+<div id="panel">
+<div id="masthead">
+<div class="sub">
+<a href="/" id="home"><img src="http://cache.lexico.com/g/t/thesaurus_logo.gif" alt="Thesaurus.com" width="182" height="43" border="0"></a>
+<ul id="controls">
+<li><img src="http://cache.lexico.com/g/t/premium_mh.gif" alt="[P]" class="pl" width="17" height="16" border="0"> <a href="/go/http://dictionary.reference.com/premium/index.html">Premium Content</a> | </li>
+<li><a href="https://secure.reference.com/cgi-bin/premium/register.pl">Register</a> | <a href="https://secure.reference.com/premium/login.html?u=http%3A%2F%2Fthesaurus.reference.com%2Fhelp%2Fprivacy.html">Log In</a> | </li>
+<li><a href="/help/">Help</a></li>
+<!-- <li><a href="#">Advanced search</a></li> -->
+</ul>
+<div id="search">
+<form name="search_form" method="get" action="/search" onsubmit="return formcheck();">
+<input type="text" name="q" value="" class="text" id="search-terms" maxlength="256">
+<input type="image" class="image" src="http://cache.lexico.com/g/t/search_button.gif" alt="Search">
 </form>
-<br>
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr>
-<td align="center" valign="middle">
+</div>
+</div>
+</div>
+<div id="nav">
+<div class="sub">
+<ul>
+<!-- <li><a href="#">All Reference</a></li>  -->
+<li><a href="http://dictionary.reference.com/" rel="tab">Dictionary</a></li>
+<li class="current"><a href="/" rel="tab">Thesaurus</a></li>
+<li><a href="http://www.reference.com/" rel="tab">Encyclopedia</a></li>
+<li><a href="http://www.reference.com/?db=web" rel="tab">The Web</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="main">
+<div class="sub">
+<div class="banner ad">
 <script language="JavaScript" type="text/javascript">
 <!--
-DisplayAds("Top,Right1!Top", "90", "728");
+DisplayAds("Top,TopRight,Right1,BottomRight,Bottom1!Top", "90", "728");
 //-->
-</script><script language="JavaScript1.1" src="http://oascentral.reference.com/RealMedia/ads/adstream_jx.ads/thesaurus.reference.com/help/privacy.html/1676652638@Top,Right1!Top"><!-- --></script><!-- -->
-<br><span class="ad">ADVERTISEMENT</span>
-</td>
-</tr>
-</tbody></table>
+</script><script language="JavaScript1.1" src="http://oascentral.reference.com/RealMedia/ads/adstream_jx.ads/thesaurus.reference.com/help/privacy.html/1215793761@Top,TopRight,Right1,BottomRight,Bottom1!Top"><!-- --></script><!-- -->
 <br>
-<div style="border-bottom: 1px dotted #ddaaaa; margin-bottom: 1em;">&nbsp;</div>
-<table border="0" cellspacing="0" cellpadding="2" width="100%"><tbody><tr><td valign="top" align="left">
-<h2>Privacy Policy</h2>
+Advertisement
+</div>
+
+<div id="primary" class="column">
+<h1>Thesaurus.com <em>Privacy Policy</em></h1>
 <p>The following discloses our privacy policy for this web site: Thesaurus.com. We take your privacy concerns seriously and we strive to earn and keep your trust. Please do not hesitate to contact us with your questions and concerns (contact information is provided below).</p>
 <p>We do not share your personal information, including your e-mail address, with other parties. We hate spam as much as you do, so we won't give your information to anyone.</p>
 <p>We do not send unsolicited e-mail. If you are receiving e-mail from us, it is because at some point you, or someone with access to your e-mail account, requested it. You can always opt out of any e-mail we send you simply by following the instructions that appear at the bottom of the e-mail message in question. If you are receiving e-mail from us in response to an inquiry you made, you can rest assured that we will use your e-mail address for no purpose other than to respond to your inquiry.</p>
@@ -213,27 +190,43 @@ Attn: Customer Service<br>
 Long Beach, CA 90802<br>
 <a href="/help/contact.html">E-mail</a>
 </blockquote>
-</td>
-<td valign="top" align="left" width="180">
+</div>
+<div id="sidebar" class="column">
 <script language="JavaScript" type="text/javascript">
 <!--
-DisplayAds("Top,Right1!Right1", "600", "120");
+DisplayAds("Top,TopRight,Right1,BottomRight,Bottom1!TopRight", "1", "1");
 //-->
-</script><script language="JavaScript1.1" src="http://oascentral.reference.com/RealMedia/ads/adstream_jx.ads/thesaurus.reference.com/help/privacy.html/1676652638@Top,Right1!Right1"><!-- --></script><!-- -->
-</td>
-</tr>
-</tbody></table>
-<br clear="all">
-<table border="0" cellspacing="0" cellpadding="5" bgcolor="#ffffcc" width="100%">
-<tbody><tr>
-<td valign="top">
-<span class="small">Copyright © 2006, <a href="/go/http://www.lexico.com/">Lexico Publishing Group, LLC</a>. All rights reserved.<br>
-<a href="/help/about.html">About Thesaurus.com</a> | <a href="/help/privacy.html">Privacy Policy</a> | <a href="/help/terms.html">Terms of Use</a> | <a href="/help/linking/">Link to Us</a> | <strong><a href="/help/">Help</a></strong> | <a href="/help/contact.html">Contact Us</a></span>
-</td>
-</tr>
-</tbody></table>
-<pre>
-</pre>
+</script><script language="JavaScript1.1" src="http://oascentral.reference.com/RealMedia/ads/adstream_jx.ads/thesaurus.reference.com/help/privacy.html/1215793761@Top,TopRight,Right1,BottomRight,Bottom1!TopRight"><!-- --></script><!-- -->
+<div class="banner ad">
+<script language="JavaScript" type="text/javascript">
+<!--
+DisplayAds("Top,TopRight,Right1,BottomRight,Bottom1!Right1", "600", "120");
+//-->
+</script><script language="JavaScript1.1" src="http://oascentral.reference.com/RealMedia/ads/adstream_jx.ads/thesaurus.reference.com/help/privacy.html/1215793761@Top,TopRight,Right1,BottomRight,Bottom1!Right1"><!-- --></script><!-- -->
+<br>
+Advertisement
+</div>
+<script language="JavaScript" type="text/javascript">
+<!--
+DisplayAds("Top,TopRight,Right1,BottomRight,Bottom1!Bottom1", "1", "1");
+//-->
+</script><script language="JavaScript1.1" src="http://oascentral.reference.com/RealMedia/ads/adstream_jx.ads/thesaurus.reference.com/help/privacy.html/1215793761@Top,TopRight,Right1,BottomRight,Bottom1!Bottom1"><!-- --></script><!-- -->
+</div>
+<div class="iewinfix"></div>
+</div>
+</div>
+<div id="footer">
+<div class="sub">
+<ul>
+<li><a href="/help/about.html">About Thesaurus.com</a> | </li>
+<li>Privacy Policy | </li>
+<li><a href="/help/terms.html">Terms of Use</a> | </li>
+<li><a href="/help/linking/index.html">Link to Us</a> | </li>
+<li><a href="/help/contact.html">Contact Us</a></li>
+</ul>
+<p id="copyright">Copyright © 2006, <a href="/go/http://www.lexico.com/">Lexico Publishing Group, LLC</a>. All rights reserved.</p>
+</div>
+</div>
 <script language="JavaScript" type="text/javascript">
 <!--
 var if_Site_ID='reference';
