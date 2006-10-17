@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtdns.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615093829id_/http%3A//www.dtdns.com/index.cfm%3Ffuseaction%3Dinfo.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtdns.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017175350id_/http%3A//www.dtdns.com/index.cfm%3Ffuseaction%3Dinfo.privacy) for the most accurate reproduction.*
 
 # DtDNS :: Privacy Statement
 
