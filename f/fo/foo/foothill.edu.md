@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foothill.edu privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618021201id_/http%3A//www.foothill.edu/news/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foothill.edu privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017135826id_/http%3A//www.foothill.edu/news/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
