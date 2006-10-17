@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the eltima.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307214020id_/http%3A//www.eltima.com/support/docs/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eltima.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017121854id_/http%3A//www.eltima.com/support/docs/policies/privacy) for the most accurate reproduction.*
 
 # Internet Privacy application, Decompiler mx SWF, Optimizer
 
-|    
+|   
 |  **Did you know?**
 
-Eltima offers all types of information and technical support to its clients: e-mail, phone, instant messengers. Our support department is one of the best on the market. 
-
-**Newsletter**  
+Purchasing multiple licenses saves you substantial amounts of money thanks to our special discounts system.  
   
 ---|---  
   
@@ -47,5 +45,5 @@ If we find it appropriate or desirable to change our privacy policy taking to co
 
 If you would like to comment or have any questions concerning our Privacy Policy, please contact us at [support@eltima.com](mailto:support@eltima.com). 
 
-|    
+|   
 
