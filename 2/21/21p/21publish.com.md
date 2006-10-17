@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21publish.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010304id_/http%3A//www.21publish.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21publish.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017210723id_/http%3A//www.21publish.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # 21Publish Web Services: Home
 
