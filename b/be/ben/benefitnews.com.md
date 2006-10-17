@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615233601id_/http%3A//benefitnews.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017051345id_/http%3A//www.benefitnews.com/privacy.cfm) for the most accurate reproduction.*
 
 # Benefitnews.com - A SourceMedia and Investcorp publication
 
