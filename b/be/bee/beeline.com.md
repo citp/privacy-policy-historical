@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the beeline.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315134408id_/https%3A//www.beeline.com/beeline_home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beeline.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017165356id_/https%3A//www.beeline.com/beeline_home/privacy.html) for the most accurate reproduction.*
 
-# Beeline | Workforce Optimization
+# Beeline I Workforce
 
 Beeline.com, Inc. respects the privacy of personal information it receives in the course of our business. This policy expresses Beeline's commitment to maintain the privacy of personal information that is shared with us, outlines what types of personally identifiable information Beeline receives, and summarizes what we do with this personal information. 
 
 **Sources of Personal Information**
 
-Beeline is a provider of Workforce Optimization Solutions, which include the processing of recruitment, human resources, contingent worker and contractor information for customers and their suppliers of recruiting, staffing and consulting services. Beeline has our own dedicated staff of employees and maintains personal information on our internal candidates, employees and contractors as well. 
+Beeline is a provider of workforce optimization solutions, which include the processing of recruitment, human resources, contingent worker and contractor information for customers and their suppliers of recruiting, staffing and consulting services. Beeline has our own dedicated staff of employees and maintains personal information on our internal candidates, employees and contractors as well. 
 
 **Customer Information** : Beeline receives personal information of the current and former candidates, employees, contractors and contingent workers of or on behalf of our customers for processing on behalf of each such customer. 
 
