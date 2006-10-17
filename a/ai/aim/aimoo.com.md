@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aimoo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211823id_/http%3A//aimoo.com/Privacy_message_board.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aimoo.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017182908id_/http%3A//www.aimoo.com/Privacy_message_board.cfm) for the most accurate reproduction.*
 
 # Aimoo Messageboards - Free Message Boards for webmasters
 
