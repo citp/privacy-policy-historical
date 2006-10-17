@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdayalarm.com privacy policy that was archived on 2005-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050715012202id_/http%3A//www.birthdayalarm.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdayalarm.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017233101id_/http%3A//www.birthdayalarm.com/Privacy.jsp%3Ft%3D1161127725720%26bdaysession%3D2000977670766827639) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -88,7 +88,7 @@ This action will cancel your membership and delete your details from the system.
 
 How do I contact you?
 
-If you have any questions about this privacy statement, the practices of this website or your dealings with this website, you can contact us via the [Contact Us](https://web.archive.org/web/20050715012202id_/http%3A//www.birthdayalarm.com/ContactUs.jsp?bdaysession=4397240588942747986&Ran=833729743) page, or by writing to:
+If you have any questions about this privacy statement, the practices of this website or your dealings with this website, you can contact us via the [Contact Us](https://web.archive.org/web/20061017233101id_/http%3A//www.birthdayalarm.com/ContactUs.jsp?t=1161137440390) page, or by writing to:
 
     | Customer Support  
 ---|---  
@@ -97,6 +97,5 @@ If you have any questions about this privacy statement, the practices of this we
 | San Francisco  
 | CA 94103  
 | USA  
-  
   
 
