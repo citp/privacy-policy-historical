@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dynarch.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205030119id_/http%3A//www.dynarch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynarch.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017140857id_/http%3A//www.dynarch.com/privacy.html) for the most accurate reproduction.*
 
-# [dynarch.com] Privacy policy
+# Privacy policy [dynarch.com]
 
 Dynarch.com is committed to protect your privacy. This document defines what information we collect from you and for what purposes are we using it. 
 
@@ -27,19 +27,19 @@ Your email address shall stay private. We will _not_ share it, publish it, sell 
 
 ## About credit card payments
 
-If you buy products of Dynarch.com online, you will need to use a credit card. However, we do **not** get any information about your credit card. Credit card processing is assured by well known third party companies (currently [2CheckOut.com](http://2checkout.com/ "2CheckOut.com \(opens new window\)")).
+Products are currently purchased from 2CheckOut—an authorized retailer for Dynarch.com products. Dynarch.com receives and stores the following information about the credit card holder:
 
-### What we get from 2CheckOut
+  * Full name
+  * Phone number
+  * Full address
 
-We do get from 2CheckOut information about your shipping address (not normally used as we only deliver electronic goods), email address used when buying (also not normally used as we will use the email address that you registered with us) and an encrypted transaction key that we are using in order to generate license keys. Also the transaction key tells us if the payment was cleanly processed.
 
-It is impossible to determine any kind of information from the transaction key (it's a one-way, “MD5” encryption). In order to check the transaction validity, we only generate a similar key starting from data that we already know (such as price, our 2CheckOut seller ID, etc.) and compare the encrypted keys.
 
-Aside for the transaction key which is likely to be included in product source code comments and license, as the license key for the goods that you buy, we will not share any other information passed to us by 2CheckOut.com, unless it's otherwise required by the law.
+Dynarch.com does **not** receive and, therefore, doesn't store credit card numbers. 
 
 ## Exceptional cases
 
-We will never use the information that we collect in ways other than specified in this document, unless it's otherwise required by the law.
+We will never use the information that we collect in ways other than explicitely specified in this document, unless it's otherwise required by the law.
 
 ## Enquiries
 
