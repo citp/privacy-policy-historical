@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628130905id_/http%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017213525id_/http%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for FishLore.com - Tropical Fish Information
 
-## PRIVACY POLICY
+**PRIVACY POLICY**  
+
 
 Welcome to FishLore.com (the "Site").
 
@@ -62,6 +63,8 @@ Unauthorized duplication or publication of any materials from this Site is expre
 
 * * *
 
+[Tropical Fish Home](http://www.fishlore.com/) | [Fish Articles](http://www.fishlore.com/AquariumArticles.htm) | [Aquarium Calculator](http://www.fishlore.com/ConversionCalculator.htm) | [Fish Tank Equipment](http://www.fishlore.com/Aquarium_Equipment.htm) | [Aquarium Types](http://www.fishlore.com/AquariumTypes.htm) | [Aquarium Plants](http://www.fishlore.com/Plants.htm) | [Beginner's Guides](http://www.fishlore.com/BeginnersGuides.htm) | [Freshwater Beginner's Guide](http://www.fishlore.com/Beginners.htm) | [Saltwater Beginner's Guide](http://www.fishlore.com/SaltwaterBeginners.htm) | [Aquarium Books & Reviews](http://www.fishlore.com/Books.htm) | [Fish Anatomy](http://www.fishlore.com/FishAnatomy.htm) | [Fish Breeding](http://www.fishlore.com/Breeding.htm) | [Fish Disease](http://www.fishlore.com/Disease_Main.htm) | [Fish FAQs](http://www.fishlore.com/FishFAQs.htm) | [Fish Food](http://www.fishlore.com/Food.htm) | [Fish Pictures](http://www.fishlore.com/fish-pictures/index.php) | [Fish Species](http://www.fishlore.com/TropicalFishProfiles.htm) | [Fish Magazines](http://www.fishlore.com/Magazines.htm) | [Fish Games](http://www.fishlore.com/FunAndGames.htm) | [Fish Tank Maintenance](http://www.fishlore.com/Maintenance.htm) | [Fish Forum](http://www.fishlore.com/Forum/index.php) | [Aquarium Water Chemistry](http://www.fishlore.com/WaterChemistry.htm) | [Your Fish Tank](http://www.fishlore.com/YourTanks.htm) | 
+
 © 2006 FishLore.com  
-[Pet Coupons](http://www.fishlore.com/Aquarium_Tropical_Fish_Deals.htm)  
-[SiteMap](http://www.fishlore.com/FishLore_SiteMap.htm)
+[Pet Coupons](http://www.fishlore.com/Aquarium_Tropical_Fish_Deals.htm) | [Petsmart Coupon](http://www.fishlore.com/petsmart_coupon.htm) | [Petco Coupon](http://www.fishlore.com/petco_coupon.htm)  
+[Link to FishLore](http://www.fishlore.com/linktofishlore.htm) | [SiteMap](http://www.fishlore.com/FishLore_SiteMap.htm) | [Fish Species SiteMap](http://www.fishlore.com/FishLore_SiteMap2.htm)
