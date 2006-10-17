@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medifast1.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428221408id_/https%3A//www.medifastdiet.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medifast1.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017112131id_/https%3A//www.medifastdiet.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Medifast Inc
 
