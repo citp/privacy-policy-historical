@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010114id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017132537id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
 
 # AZZ Cardfile : Privacy and Security
 
