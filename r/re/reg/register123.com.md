@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the register123.com privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422013148id_/http%3A//certain.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the register123.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017104545id_/http%3A//www.certain.com/Privacy) for the most accurate reproduction.*
 
-# Certain Software - Privacy Statement
+# Certain Software®, Register123™ Online Event Registration & Meeting Management Solutions : Privacy Policy
+
+**Error:**  
+
+## Privacy Policy
 
 Last Update June, 2005
 
@@ -62,9 +66,33 @@ By using this web site, you consent to the terms of our Privacy Policy and to Ce
 
 #### Changes
 
-Certain Software may from time to time update this Privacy Policy, and the date of any revisions will be stated at the top of this web page. If you have any comments or questions about this Privacy Policy, the practices of this site, or your dealings with this web site, please email us at [info@certain.com](mailto:info@certain.com)  
-
+Certain Software may from time to time update this Privacy Policy, and the date of any revisions will be stated at the top of this web page. If you have any comments or questions about this Privacy Policy, the practices of this site, or your dealings with this web site, please email us at [info@certain.com](mailto:info@certain.com)
 
 Our site contains links to other sites. We do not share or exchange any of your personal information with these sites. In addition, Certain Software is not responsible for the content or policies of these Web sites.
 
 Back to top
+
+### Testimonials...
+
+"I would recommend Register123 to other associations, if Register123 can impress me the way it has, I’m sure my colleagues will be huge fans too." 
+
+Jill Manion, Sr Exec Asst -Intl Pizza Hut Franchise Holders Association 
+
+### In the news...
+
+Meeting Management Goes High Tech  
+[MPI Meetings Newsletter](http://www.mpine.org/newsletter/summer06.pdf)  
+June 1, 2006  
+James Pappas, President and CEO, Certain Software 
+
+[](http://www.certain.com/PressNews/?news#3)
+
+### Upcoming events...
+
+DMA 06  
+Direct Marketing Association  
+Oct 14 - 19, 2006  
+San Francisco, CA  [](http://www.certain.com/PressNews/?events#3)
+
+  
+
