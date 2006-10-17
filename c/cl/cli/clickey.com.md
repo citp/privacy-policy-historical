@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickey.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511193840id_/http%3A//www.clickey.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickey.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017095112id_/http%3A//clickey.com/privacy.html) for the most accurate reproduction.*
 
 # Clickey.com - Privacy Policy
 
