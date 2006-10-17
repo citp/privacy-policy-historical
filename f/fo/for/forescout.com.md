@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the forescout.com privacy policy that was archived on 2006-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060522194038id_/http%3A//www.forescout.com/index.php%3Furl%3Dcompany%26section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forescout.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018015025id_/http%3A//www.forescout.com/index.php%3Furl%3Dcompany%26section%3Dprivacy) for the most accurate reproduction.*
 
-# ForeScout Technologies | About Us
+# ForeScout Technologies - Network Access Control Solutions
 
-|  |  |  | 
-
-ForeScout Technologies : Privacy Statement
+## ForeScout Technologies : Privacy Statement
 
 We recognize and respect your need for privacy and security as you visit our site. When you visit our site to view any pages or read product information, you do so without telling us who you are and without revealing any personal information. While we do not collect identifying information about visitors to our site, we do use standard software to collect information for the strict purpose of tracking activity on our site. This allows us to better understand how many people use our site and which pages and features are most popular. The only information we normally collect and store is: 
 
@@ -19,5 +17,3 @@ There are instances where you may elect to provide us with personal information.
 We hope you find our website useful and informative and are always willing to answer questions and receive suggestions. If you have either, please e-mail the [webmaster](mailto:webmaster@forescout.com). 
 
 * Effective February 2006. We reserve the right to change our privacy policy. A revised policy statement will only apply to data collected subsequent to its effective date. Any revisions will be posted at least 30 days prior to its effective date. 
-
-|  |  |  | 
