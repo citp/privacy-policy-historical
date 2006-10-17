@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play.com privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418224406id_/http%3A//play.com/play247.asp%3Fpa%3Dnavfoot%26page%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017231607id_/http%3A//www.play.com/HOME/HOME/navfoot/5-/AboutUs.html%3Fpage%3Dpriv) for the most accurate reproduction.*
 
 # Play.com (UK): DVDs, Music CDs, Video Games, Books, Electronics & Gadgets - Free Delivery
 
