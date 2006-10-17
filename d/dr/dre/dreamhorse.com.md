@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhorse.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414225916id_/http%3A//dreamhorse.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhorse.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017084712id_/http%3A//www.dreamhorse.com/policy.htm) for the most accurate reproduction.*
 
 # Dream Horse Classifieds - Privacy Statement
 
@@ -22,8 +22,9 @@ In the course of serving advertisements to this site, our third-party advertiser
 
  
 
-We use BurstMedia and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
+We use Google, BurstMedia and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
+  * [Google Ad Words](https://adwords.google.com/select/)
   * [BurstMedia Privacy Statement](http://www.burstmedia.com/release/privacy.asp)
 
 
@@ -72,4 +73,4 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[Contact Information](https://web.archive.org/web/20060414225916id_/http%3A//dreamhorse.com/contact.html)
+[Contact Information](https://web.archive.org/web/20061017084712id_/http%3A//www.dreamhorse.com/contact.html)
