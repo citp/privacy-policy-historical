@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectorz.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616194508id_/http%3A//www.collectorz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectorz.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017155956id_/http%3A//www.collectorz.com/privacy.php) for the most accurate reproduction.*
 
 # Collectorz.com Privacy Policy
 
@@ -7,7 +7,7 @@
 #### Order Information
 
 For the purpose of fulfilling orders, we collect contact information (name, address, country, zipcode and email address).  
-We do not receive or store financial information for credit card orders. These are processed securely using 128-bit encryption by specialized order processing companies [Plimus](http://www.plimus.com/) and [SWREG](http://www.swreg.org/). For bank transfers directly into our account, we do receive the account number from our bank. 
+We do not receive or store financial information for credit card orders. These are processed securely using 128-bit encryption by a specialized payment processing company [Bibit](http://www.bibit.com/). For bank transfers directly into our account, we do receive the account number from our bank. 
 
 Collectorz.com does not sell or use your private information (name, address, phone, email address, etc) for any purpose other than to ship you your order, and to notify you of major version upgrades or new Collectorz.com product releases (by email only). 
 
