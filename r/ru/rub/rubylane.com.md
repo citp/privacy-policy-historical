@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rubylane.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318215538id_/http%3A//www.rubylane.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubylane.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017232945id_/http%3A//www.rubylane.com/info/privacy.html) for the most accurate reproduction.*
 
-# Ruby Lane and Your Privacy
+# Privacy Policy
 
 Ruby Lane and Your Privacy
 
