@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsgotcream.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202559id_/http%3A//girlsgotcream.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgotcream.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017034121id_/http%3A//girlsgotcream.com/privacy.html) for the most accurate reproduction.*
 
 # -: Girls Got Cream :-
 
