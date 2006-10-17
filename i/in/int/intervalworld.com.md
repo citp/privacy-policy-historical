@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intervalworld.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319093523id_/http%3A//www.intervalworld.com/web/cs%3Fa%3D60%26p%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intervalworld.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017095557id_/http%3A//www.intervalworld.com/web/cs%3Fa%3D60%26p%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Interval International | Privacy Policy
 
