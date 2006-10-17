@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landmarkeducation.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616005915id_/http%3A//www.landmarkeducation.com/display_content.jsp%3Ftop%3D502) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkeducation.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017051255id_/http%3A//landmarkeducation.com/display_content.jsp%3Ftop%3D502) for the most accurate reproduction.*
 
 # privacy statement
 
