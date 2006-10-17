@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestatebook.com privacy policy that was archived on 2006-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060611011547id_/http%3A//www.realestatebook.com/privacy.aspx%3Frefer%3Dtreb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestatebook.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017134100id_/http%3A//www.realestatebook.com/privacy.aspx%3Frefer%3Dtreb) for the most accurate reproduction.*
 
 # Livingchoices.com: Real Estate - New Homes, Homes for Sale, Apartment Rentals
 
