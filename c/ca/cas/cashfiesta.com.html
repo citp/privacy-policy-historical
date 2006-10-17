@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cashfiesta.com privacy policy that was archived on 2006-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060414184539id_/http%3A//cashfiesta.com%3Fprivacy_infocenter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cashfiesta.com privacy policy that was archived on 2006-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061018011139id_/http%3A//www.cashfiesta.com/php/cf_privacy_infocenter.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Make money online: Cashfiesta Policies</title>
@@ -36,14 +36,21 @@ if(document.images)
 	function cf_popuCounter(stat,page){
 	cf_img_popu_index++;
 	var tz = "";
-	if(arguments.length > 2) tz = arguments[2];	
+	var unq = "false";
+	if(arguments.length > 2) tz = arguments[2];
+	if(arguments.length > 3) unq = arguments[3];
 	cf_img_popu_array[cf_img_popu_index]=new Image();
-	cf_img_popu_array[cf_img_popu_index].src="/php/sgif.php?s="+stat+"&p="+page+"&tz="+tz+"&1145040387";
+	cf_img_popu_array[cf_img_popu_index].src="/php/sgif.php?s="+stat+"&p="+page+"&tz="+tz+"&unq="+unq+"&1161134730";
 	}
 	function cf_crCounter(cr_id, page_stat_id, tz, a){
 	cf_img_popu_index++;
 	cf_img_popu_array[cf_img_popu_index]=new Image();
-	cf_img_popu_array[cf_img_popu_index].src="/php/sgif.php?s=cr&cr="+cr_id+"&p="+page_stat_id+"&tz="+tz+"&a="+a+"&t=1145040387";
+	cf_img_popu_array[cf_img_popu_index].src="/php/sgif.php?s=cr&cr="+cr_id+"&p="+page_stat_id+"&tz="+tz+"&a="+a+"&t=1161134730";
+	}
+	function cf_setCookie(Name,value,days){
+	var ExpDay = new Date();
+	ExpDay.setTime(ExpDay.getTime()+(days*24*3600*1000));
+	document.cookie = Name+"="+escape(value)+";expires=" + ExpDay.toGMTString()+";path=/;domain=.cashfiesta.com;";
 	}
 	function istatForm1(n,g){
 	var a2='<iframe name="'+n+'" scrolling="no" frameBorder=0 marginheight=0 marginwidth=0 width=468 height=60\></iframe\></center\></span\>';
@@ -72,15 +79,9 @@ if(document.images)
 	function istatRequest2p(n,a,t){
 		if( ! document.all) return 0; f=eval("document.frm_"+n); f.action=a; f.target=t; f.method="post"; f.submit();
 	}
-	function cf_setCookie(Name,value,days){
-	var ExpDay = new Date();
-	ExpDay.setTime(ExpDay.getTime()+(days*24*3600*1000));
-	document.cookie = Name+"="+escape(value)+";expires=" + ExpDay.toGMTString()+";path=/;domain=.cashfiesta.com;";
-	}
 	function istatFrame2(n){
 	var a2='<iframe name="'+n+'" width=468 height=60\></iframe\></center\></span\>';
 	var a1='<span class="cf_stat468x60"\><center\>';
-
 	document.write(a1+a2);
 	}
 	</script></head>
@@ -98,15 +99,9 @@ if(document.images)
  </tr>
  <tr align="center">
  <td><script language="JavaScript">
-			var cf_restricted=1;
-			var cf_restricted_done=0;
-			function cf_restrDone(){
-				cf_restricted_done=1; if(cf_restricted==0) cf_setCookie("cf-not-restricted",1,10);
-			}
-			</script><span class="cf_stat468x60"><center><iframe name="cf_fr_restricted" src="/js/restricted.php" onload="cf_restrDone()" security="restricted" width="1" height="1" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe></center></span><script language="JavaScript">
 var cf_stat_preffix = "http://www.cashfiesta.com/php/redir.php?cr&CFST_000&1&PST&u?";
 cf_crCounter("CFST_000",1,"PST","i");
-</script><script language="JavaScript" src="/php/rotate_js.php?target=cf_site&amp;login=&amp;tags=1&amp;width=468&amp;height=60"></script><a name="p69435href" href="javascript:p69435_go()"><img name="p69435img" src="https://web.archive.org/web/20020610191126/http://www.clickxchange.com/fd.phtml?act=342012.3633" width="468" height="60" border="0"></a><script language="JavaScript">cf_popuCounter("g714_i","United States","PST");</script></td>
+</script><script language="JavaScript" src="/php/rotate_js.php?target=cf_site&amp;login=&amp;tags=1&amp;width=468&amp;height=60"></script><a name="p69435href" href="javascript:p69435_go()"><img name="p69435img" src="https://web.archive.org/web/20020610191126/http://www.clickxchange.com/fd.phtml?act=342012.3633" width="468" height="60" border="0"></a></td>
  </tr>
  </tbody></table>
 </td>
@@ -215,8 +210,8 @@ cf_crCounter("CFST_000",1,"PST","i");
   <td>
    <table cellspacing="0" cellpadding="0" border="0">
    <tbody><tr>
-   <td width="35" height="34" align="left" valign="middle"><a href="/php/cf_contactus.php" onmouseover="show('boat3', 3)" onmouseout="show('boat3', 2)" class="menu"><img name="boat3" src="http://images.cashfiesta.com/images/boat.gif" width="30" height="28" border="0" alt="Contact Us"></a></td>
-   <td align="left" valign="middle"><a href="/php/cf_contactus.php" onmouseover="show('boat3', 3)" onmouseout="show('boat3', 2)" class="menu">Contact Us</a></td>
+   <td width="35" height="34" align="left" valign="middle"><a href="/php/referral_tips_infocenter.php" onmouseover="show('boat3', 3)" onmouseout="show('boat3', 2)" class="menu"><img name="boat3" src="http://images.cashfiesta.com/images/boat.gif" width="30" height="28" border="0" alt="Referral Tips"></a></td>
+   <td align="left" valign="middle"><a href="/php/referral_tips_infocenter.php" onmouseover="show('boat3', 3)" onmouseout="show('boat3', 2)" class="menu">Referral Tips</a></td>
    </tr>
    </tbody></table>  
   </td>
@@ -225,8 +220,8 @@ cf_crCounter("CFST_000",1,"PST","i");
   <td>
    <table cellspacing="0" cellpadding="0" border="0">
    <tbody><tr>
-   <td width="35" height="34" align="left" valign="middle"><img name="boat4" src="http://images.cashfiesta.com/images/boaton.gif" width="30" height="28" border="0"></td>
-   <td align="left" valign="middle"><font class="menu">Policies</font></td>
+   <td width="35" height="34" align="left" valign="middle"><a href="/php/cf_contactus.php" onmouseover="show('boat4', 3)" onmouseout="show('boat4', 2)" class="menu"><img name="boat4" src="http://images.cashfiesta.com/images/boat.gif" width="30" height="28" border="0" alt="Contact Us"></a></td>
+   <td align="left" valign="middle"><a href="/php/cf_contactus.php" onmouseover="show('boat4', 3)" onmouseout="show('boat4', 2)" class="menu">Contact Us</a></td>
    </tr>
    </tbody></table>
   </td>
@@ -235,8 +230,8 @@ cf_crCounter("CFST_000",1,"PST","i");
   <td>
    <table cellspacing="0" cellpadding="0" border="0">
    <tbody><tr>
-   <td width="35" height="34" align="left" valign="middle"><a href="/?rates_infocenter" onmouseover="show('boat5', 3)" onmouseout="show('boat5', 2)" class="menu"><img name="boat5" src="http://images.cashfiesta.com/images/boat.gif" width="30" height="28" border="0" alt="Current Rates"></a></td>
-   <td align="left" valign="middle"><a href="/?rates_infocenter" onmouseover="show('boat5', 3)" onmouseout="show('boat5', 2)" class="menu">Current<br>Rates</a></td>
+   <td width="35" height="34" align="left" valign="middle"><img name="boat5" src="http://images.cashfiesta.com/images/boaton.gif" width="30" height="28" border="0"></td>
+   <td align="left" valign="middle"><font class="menu">Policies</font></td>
    </tr>
    </tbody></table>  
   </td>
@@ -245,8 +240,8 @@ cf_crCounter("CFST_000",1,"PST","i");
   <td>
    <table cellspacing="0" cellpadding="0" border="0">
    <tbody><tr>
-   <td width="35" height="34" align="left" valign="middle"><a href="/?calculator" onmouseover="show('boat6', 3)" onmouseout="show('boat6', 2)" class="menu"><img name="boat6" src="http://images.cashfiesta.com/images/boat.gif" width="30" height="28" border="0" alt="Fiesta Calculator"></a></td>
-   <td align="left" valign="middle"><a href="/?calculator" onmouseover="show('boat6', 3)" onmouseout="show('boat6', 2)" class="menu">Fiesta<br>Calculator</a></td>
+   <td width="35" height="34" align="left" valign="middle"><a href="/?rates_infocenter" onmouseover="show('boat6', 3)" onmouseout="show('boat6', 2)" class="menu"><img name="boat6" src="http://images.cashfiesta.com/images/boat.gif" width="30" height="28" border="0" alt="Current Rates"></a></td>
+   <td align="left" valign="middle"><a href="/?rates_infocenter" onmouseover="show('boat6', 3)" onmouseout="show('boat6', 2)" class="menu">Current<br>Rates</a></td>
    </tr>
    </tbody></table>  
   </td>
@@ -263,8 +258,8 @@ cf_crCounter("CFST_000",1,"PST","i");
   <td>
    <table cellspacing="0" cellpadding="0" border="0">
    <tbody><tr>
-   <td width="35" height="36" align="left" valign="middle"><a href="/?yourwords" onmouseover="show('boat7', 3)" onmouseout="show('boat7', 2)" class="menu"><img name="boat7" src="http://images.cashfiesta.com/images/boat.gif" width="30" height="28" border="0" alt="Your words"></a></td>
-   <td align="left" valign="middle"><a href="/?yourwords" onmouseover="show('boat7', 3)" onmouseout="show('boat7', 2)" class="menu">Your words</a></td>
+   <td width="35" height="36" align="left" valign="middle"><a href="/?calculator" onmouseover="show('boat7', 3)" onmouseout="show('boat7', 2)" class="menu"><img name="boat7" src="http://images.cashfiesta.com/images/boat.gif" width="30" height="28" border="0" alt="Fiesta Calculator"></a></td>
+   <td align="left" valign="middle"><a href="/?calculator" onmouseover="show('boat7', 3)" onmouseout="show('boat7', 2)" class="menu">Fiesta<br>Calculator</a></td>
    </tr>
    </tbody></table>
   </td>
@@ -277,8 +272,8 @@ cf_crCounter("CFST_000",1,"PST","i");
  <td width="190" height="36" align="left" valign="top">
   <table cellspacing="0" cellpadding="0" border="0">
   <tbody><tr valign="middle">
-  <td width="42" height="36" align="left" valign="middle"><img src="http://images.cashfiesta.com/images/bg_lb_182.gif" width="5" height="36" border="0"><a href="/?checks_infocenter" onmouseover="show('boat8', 3)" onmouseout="show('boat8', 2)" class="menu"><img name="boat8" src="http://images.cashfiesta.com/images/boat.gif" width="30" height="28" border="0" alt="Cashfiesta Checks"></a></td>
-  <td align="left" valign="middle"><a href="/?checks_infocenter" onmouseover="show('boat8', 3)" onmouseout="show('boat8', 2)" class="menu">Cashfiesta<br>Checks</a></td>
+  <td width="42" height="36" align="left" valign="middle"><img src="http://images.cashfiesta.com/images/bg_lb_182.gif" width="5" height="36" border="0"><a href="/?yourwords" onmouseover="show('boat8', 3)" onmouseout="show('boat8', 2)" class="menu"><img name="boat8" src="http://images.cashfiesta.com/images/boat.gif" width="30" height="28" border="0" alt="Your words"></a></td>
+  <td align="left" valign="middle"><a href="/?yourwords" onmouseover="show('boat8', 3)" onmouseout="show('boat8', 2)" class="menu">Your words</a></td>
   </tr>
   </tbody></table>
  </td>
@@ -289,13 +284,13 @@ cf_crCounter("CFST_000",1,"PST","i");
   <td valign="top"><img src="http://images.cashfiesta.com/images/bg_lb_190.gif" width="15" height="68" border="0"></td>
   <td>
   <table cellspacing="0" cellpadding="0" border="0">
-  <tbody><tr><td width="46" height="38" align="left" valign="middle"><img src="http://images.cashfiesta.com/images/s.gif" width="10" height="25" border="0"><a href="/php/game.php" onmouseover="show('boat9', 3)" onmouseout="show('boat9', 2)" class="menu"><img name="boat9" src="http://images.cashfiesta.com/images/boat.gif" width="30" height="28" border="0" alt="Online Games"></a></td>
-  <td height="36" align="left" valign="middle"><a href="/php/game.php" onmouseover="show('boat9', 3)" onmouseout="show('boat9', 2)" class="menu">Online Games</a></td>
+  <tbody><tr><td width="46" height="38" align="left" valign="middle"><img src="http://images.cashfiesta.com/images/s.gif" width="10" height="25" border="0"><a href="/?checks_infocenter" onmouseover="show('boat9', 3)" onmouseout="show('boat9', 2)" class="menu"><img name="boat9" src="http://images.cashfiesta.com/images/boat.gif" width="30" height="28" border="0" alt="Cashfiesta Checks"></a></td>
+  <td height="36" align="left" valign="middle"><a href="/?checks_infocenter" onmouseover="show('boat9', 3)" onmouseout="show('boat9', 2)" class="menu">Cashfiesta<br>Checks</a></td>
   </tr>
   </tbody></table>
   <table cellspacing="0" cellpadding="0" border="0">
-  <tbody><tr><td width="36" height="38" align="left" valign="middle"></td>
-  <td height="38" align="left" valign="middle"></td>
+  <tbody><tr><td width="36" height="38" align="left" valign="middle"><a href="/php/game.php" onmouseover="show('boat10', 3)" onmouseout="show('boat10', 2)" class="menu"><img name="boat10" src="http://images.cashfiesta.com/images/boat.gif" width="30" height="28" border="0" alt="Online Games"></a></td>
+  <td height="38" align="left" valign="middle"><a href="/php/game.php" onmouseover="show('boat10', 3)" onmouseout="show('boat10', 2)" class="menu">Online Games</a></td>
   </tr>
   </tbody></table>
 </td>
@@ -322,7 +317,7 @@ cf_crCounter("CFST_000",1,"PST","i");
 <tr> 
 <td style="text-align:justify">
 <span class="txt">
-<br>Last Updated March 2006</span>
+<br>Last Updated September 2006</span>
 </td>
 </tr>
 </tbody></table></td>
@@ -614,7 +609,10 @@ document.write('<a href="mailt'+'o:s'+cf_e1+'esta.com" class="lnk_v1">s'+cf_e1+'
 
 </td>
 <td width="26">&nbsp;</td>
-<td><br><br><br><br></td>
+<td><a href="http://commissionxchange.directtrack.com/z/3250/CD12/" target="_blank">
+<img src="http://commissionxchange.directtrack.com/42/12/3250" border="0"></a>
+<script language="JavaScript"> cf_crCounter("CMXH_000",1,"PST","i"); </script>
+<br><br><br><br></td>
 </tr>
 </tbody></table>
 
@@ -642,6 +640,6 @@ document.write('<a href="mailt'+'o:s'+cf_e1+'esta.com" class="lnk_v1">s'+cf_e1+'
 <td width="756" align="center" valign="middle"><span class="form_v1">©&nbsp;Copyright 2000-06 Cashfiesta.com All Rights Reserved</span></td>
 </tr>
 </tbody></table>
-<script language="javascript" src="/php/sscript.php?pg=site&amp;tm=2006_04_14_18_46_27&amp;rf=&amp;tz=UTC&amp;cr=0"></script>
+<script language="javascript" src="/php/sscript.php?pg=privacy&amp;tm=2006_10_18_01_25_30&amp;rf=http://www.cashfiesta.com/&amp;tz=UTC"></script>
 
 </body></html>
