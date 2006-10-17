@@ -1,51 +1,51 @@
-<!--The following is the downloaded HTML source of the apexsql.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615113049id_/http%3A//www.apexsql.com/comp_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apexsql.com privacy policy that was archived on 2006-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061017153310id_/http%3A//apexsql.com/comp_privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-  <title>Apex SQL Tools - SQL Tools for Auditing, Comparison, Recovery and more</title>
+<title>Apex SQL Tools - SQL Tools for Auditing, Comparison, Recovery and more</title>
 <meta name="description" content="SQL Tools for Auditing, Code Generation, Scripting, Reporting and more.">
 <meta name="keywords" content="sql tools, Auditing, Reporting, Comparison, Synchronization, Code generation, RAD, ApexSQL">
-  <link href="include/apexsql.css" rel="stylesheet" type="text/css">
+<link href="http://www.apexsql.com/include/apexsql.css" rel="stylesheet" type="text/css">
 <script>
   function subMenuShow(param) {
     oItem=getDivObj(param);
     oItem.style.display="block";
 
-		var ua = navigator.userAgent.toLowerCase(); 
-		this.ua = ua;
+    var ua = navigator.userAgent.toLowerCase();
+    this.ua = ua;
 
-		// browser name
-		this.isOpera     = (ua.indexOf("opera") != -1); 
+    // browser name
+    this.isOpera     = (ua.indexOf("opera") != -1);
 
-		if (!this.isOpera) {
-			c_param = 'c_'+ param;
-			oItem=getDivObj(c_param);
-			oItem.className='top_menu_rollover';
-		}
-	}
+    if (!this.isOpera) {
+      c_param = 'c_'+ param;
+      oItem=getDivObj(c_param);
+      oItem.className='top_menu_rollover';
+    }
+  }
 
-	function subMenuHide(param, flag) {
-		arr=new Array('products','downloads','purchase', 'company', 'members');
+  function subMenuHide(param, flag) {
+    arr=new Array('products','downloads','purchase', 'company', 'members');
 
-		n=0;
-		while(n!=arr.length)
-		{
-			objname=arr[n];
-			getDivObj(objname).style.display="none";
-			n++;	
-		}
+    n=0;
+    while(n!=arr.length)
+    {
+      objname=arr[n];
+      getDivObj(objname).style.display="none";
+      n++;  
+    }
 
-		var ua = navigator.userAgent.toLowerCase(); 
-		this.ua = ua;
+    var ua = navigator.userAgent.toLowerCase();
+    this.ua = ua;
 
-		// browser name
-		this.isOpera     = (ua.indexOf("opera") != -1); 
+    // browser name
+    this.isOpera     = (ua.indexOf("opera") != -1);
 
-		if (!this.isOpera && flag != 1) {
-			c_param = 'c_'+ param;
-			oItem=getDivObj(c_param);
-			oItem.className='top_menu_inactive';
-		}
+    if (!this.isOpera && flag != 1) {
+      c_param = 'c_'+ param;
+      oItem=getDivObj(c_param);
+      oItem.className='top_menu_inactive';
+    }
   }
   function getDivObj(name) {
     obj=document.getElementById(name);
@@ -60,6 +60,13 @@ props=window.open(vrr, 'poppage', 'toolbars=0, scrollbars=1, location=0, statusb
 function popUpSm(vrr) {
 props=window.open(vrr, 'poppage', 'toolbars=0, scrollbars=1, location=0, statusbars=0, menubars=0, resizable=0, width=400, height=200, left = 200, top = 200');
 }
+
+function popUpWindow(url, width, height)
+{
+ var x = window.open(url,'popUpWindow','toolbars=0, scrollbars=1, location=0, statusbars=0, menubars=0, resizable=0, width=' + width + ',height=' + height);
+ x.moveTo((screen.width-width)/2, (screen.height-height-100)/2);
+ x.opener = self;
+}
 </script>
 </head>
 <body bgcolor="#ffffff">
@@ -67,28 +74,28 @@ props=window.open(vrr, 'poppage', 'toolbars=0, scrollbars=1, location=0, statusb
 
 <!-- header -->
 <div class="header">
-  <a href="default.asp"><img src="images/empty.gif" width="260" height="75" border="0" align="left"></a>
+  <a href="http://www.apexsql.com/default.asp"><img src="http://www.apexsql.com/images/empty.gif" width="260" height="75" border="0" align="left"></a>
   <div class="header_banner">
   <script type="text/javascript">
       function getFlash()
       {
-        var randomnumber=Math.floor(Math.random()*7)
+        var randomnumber=Math.floor(Math.random()*9)
                     
-        var sFlashFiles = "diff.swf,aspr.swf,edit.swf,log.swf,doc.swf,code_wv.swf,RADSQLtoolsr.swf"
+        var sFlashFiles = "audit.swf,clean.swf,code.swf,diff.swf,doc.swf,edit.swf,log.swf,RADSQLtoolsr.swf,report.swf"
         var arFlashFiles = sFlashFiles.split(',')
           
         var sFlash = '<object id="objFlash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"  codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" ID="banner1" WIDTH="468" HEIGHT="60" VIEWASTEXT>'
-        sFlash += '<param NAME="movie" VALUE="flash/' + arFlashFiles[randomnumber] + '">'
+        sFlash += '<param NAME="movie" VALUE="http://www.apexsql.com/flash/' + arFlashFiles[randomnumber] + '">'
         sFlash += '<param NAME="loop" VALUE="false">'
         sFlash += '<param NAME="menu" VALUE="false">'
         sFlash += '<param NAME="quality" VALUE="best">'
         sFlash += '<param NAME="bgcolor" VALUE="white">'
-        sFlash += '<embed id="objFlash" src="flash/' + arFlashFiles[randomnumber] + '" quality="best" bgcolor="#639ECE" loop="false" menu="false" WIDTH="468" HEIGHT="60" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">'
+        sFlash += '<embed id="objFlash" src="http://www.apexsql.com/flash/' + arFlashFiles[randomnumber] + '" quality="best" bgcolor="#639ECE" loop="false" menu="false" WIDTH="468" HEIGHT="60" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">'
         sFlash += '</object>'
         return sFlash
       }
       document.write(getFlash())
-    </script><object id="objFlash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" width="468" height="60" viewastext=""><param name="movie" value="flash/code_wv.swf"><param name="loop" value="false"><param name="menu" value="false"><param name="quality" value="best"><param name="bgcolor" value="white"><embed id="objFlash" src="flash/code_wv.swf" quality="best" bgcolor="#639ECE" loop="false" menu="false" width="468" height="60" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>        
+    </script><object id="objFlash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" width="468" height="60" viewastext=""><param name="movie" value="http://www.apexsql.com/flash/report.swf"><param name="loop" value="false"><param name="menu" value="false"><param name="quality" value="best"><param name="bgcolor" value="white"><embed id="objFlash" src="http://www.apexsql.com/flash/report.swf" quality="best" bgcolor="#639ECE" loop="false" menu="false" width="468" height="60" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>        
   </div>
 </div>
 <!-- /header --><!-- top menu -->
@@ -147,8 +154,12 @@ props=window.open(vrr, 'poppage', 'toolbars=0, scrollbars=1, location=0, statusb
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#report">ApexSQL Report</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#script">ApexSQL Script</a></td></tr>
     <tr><td class="td_drop_in">&nbsp;</td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#studios">ApexSQL Developer Studio</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="purchase.asp#studiou">ApexSQL Universal Studio</a></td></tr>
+    <tr><td class="td_drop_in">&nbsp;</td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="sales_faq.asp">Sales FAQ</a></td></tr>
-    <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="faqs_activation.asp">Activation Guide</a></td></tr>
+    <tr><td class="td_drop_in">&nbsp;</td></tr>
+    <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="activation">Product Activation</a></td></tr>
     </tbody></table>
     </div>
     <a href="purchase.asp">Purchase</a>
@@ -168,7 +179,7 @@ props=window.open(vrr, 'poppage', 'toolbars=0, scrollbars=1, location=0, statusb
     <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="comp_employment.asp">Jobs at ApexSQL</a></td></tr>
     </tbody></table>
     </div>
-    Company
+    <a href="comp_contact.asp">Company</a>
   </td>
   <td width="100%" align="center" valign="bottom"><img src="images/m_pic.png" width="95" height="28"></td>
   <td id="c_members" class="top_menu_inactive" onmouseover="javascript:subMenuShow('members');" onmouseout="javascript:subMenuHide('members', 0);">
@@ -176,7 +187,8 @@ props=window.open(vrr, 'poppage', 'toolbars=0, scrollbars=1, location=0, statusb
     <table class="table_drop_in" cellspacing="0">
     <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="forum/login_user.asp">Login Page</a></td></tr>
     <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="forum/register.asp">Edit Profile</a></td></tr>
-    <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="faq_login.asp">Registration FAQ</a></td></tr>
+    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="faq_login.asp">Site Registration FAQ</a></td></tr>
+    <tr><td class="td_drop_in" style="border-bottom: none;" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="activation">Product Activation</a></td></tr>
     </tbody></table>
     </div>
     <a href="memberarea.asp">Members</a>
@@ -191,41 +203,154 @@ props=window.open(vrr, 'poppage', 'toolbars=0, scrollbars=1, location=0, statusb
 <!-- right column -->
   <div class="rightblock">
         <div class="right_title">
-      <img src="images/right_title_bullet.png" width="8" height="8"> TOP REASONS TO BUY
+      <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> TOP REASONS TO BUY
     </div>
     <div class="right_text">
-      To See the Top Reasons to Buy Apex SQL Software tools: <a href="10reasons2buy.asp">Click Here</a>
-    </div>    <div class="right_title">
-      <img src="images/right_title_bullet.png" width="8" height="8"> PRE SALES QUESTION?
+      To See the Top Reasons to Buy Apex SQL Software tools: <a target="_self" href="http://www.apexsql.com/10reasons2buy.asp">Click Here</a>
+    </div>
+    <div class="right_title">
+      <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> SALES FAQ
+    </div>
+    <div class="right_text">
+      Click <a target="_self" href="http://www.apexsql.com/sales_faq.asp">Here</a> for a Comprehensive Sales and Ordering FAQ
+    </div>
+    <div class="right_title">
+      <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> PURCHASE ORDERS
+    </div>
+    <div class="right_text">
+      Click <a target="_self" href="http://www.apexsql.com/purchase_order_instructions.asp">Here</a> for Purchase Order Instructions
+    </div>
+    <div class="right_title">
+      <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> PRE SALES QUESTION?
     </div>
     <div class="right_text">
       Please call <nobr>866-665-5500</nobr> (U.S. &amp; Canada) or <nobr>+1 919-968-8444</nobr> or email <a href="mailto:sales@apexsql.com">sales@apexsql.com</a>
-    </div>		<div class="right_title">
-			<img src="images/right_title_bullet.png" width="8" height="8"> SUCCESS STORIES	
-		</div>
-		<div class="right_text">
-			"[Apex SQL Audit] has been a life saver for me.  No longer can our business clients blame the system or my IT staff when errors appear in our data.  Thanks to [Apex SQL Audit], we can now track 'when' and 'who' made the change and if needed restore old data.  [Apex SQL Audit] has paid for itself in it's first week of use."
-	
-			<p class="gray">
-			Andy Zecha
-			<br>Director of Database Operations
-			<br>HubX.net
-			</p>
+    </div>
+    <div class="right_title">
+      <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> FREE E-NEWSLETTER
+    </div>
+    <script language="JavaScript">
+    function emailCheck (emailStr) {
+    var emailPat=/^(.+)@(.+)$/
+    var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]"
+    var validChars="\[^\\s" + specialChars + "\]"
+    var quotedUser="(\"[^\"]*\")"
+    var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/
+    var atom=validChars + '+'
+    var word="(" + atom + "|" + quotedUser + ")"
+    var userPat=new RegExp("^" + word + "(\\." + word + ")*$")
+    var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$")
+    var matchArray=emailStr.match(emailPat)
+    if (matchArray==null) {
+      alert("Email address seems incorrect (check @ and .'s)")
+      return false
+    }
+    var user=matchArray[1]
+    var domain=matchArray[2]
+    if (user.match(userPat)==null) {
+        alert("The username doesn't seem to be valid.")
+        return false
+    }
+    var IPArray=domain.match(ipDomainPat)
+    if (IPArray!=null) {
+        // this is an IP address
+        for (var i=1;i<=4;i++) {
+          if (IPArray[i]>255) {
+              alert("Destination IP address is invalid!")
+        return false
+          }
+        }
+        return true
+    }
+    var domainArray=domain.match(domainPat)
+    if (domainArray==null) {
+      alert("The domain name doesn't seem to be valid.")
+        return false
+    }
+    var atomPat=new RegExp(atom,"g")
+    var domArr=domain.match(atomPat)
+    var len=domArr.length
+    if (domArr[domArr.length-1].length<2 || 
+        domArr[domArr.length-1].length>3) {
+       alert("The address must end in a three-letter domain, or two letter country.")
+       return false
+    }
+    if (len<2) {
+       var errStr="This address is missing a hostname!"
+       alert(errStr)
+       return false
+    }
+    return true;
+    }
+    function trim(str) {
+      var len;
+      len = str.length;
+      for(i=0;i<=len;i++) {
+        if (str.indexOf(" ")== 0) {
+          str = str.substr(1,len);
+        }
+      }
+      return str;
+    }
 
-			"[Apex SQL Audit] has saved us hours of programming. It produces reliable code, and addresses important auditing requirements of our point of sale applications."
-			<p class="gray">
-			Gary Low
-			<br>President
-			<br>Remington Stevens
-			</p>
-		
-			"...By the way, the more I use your product [Apex SQL Code], the more I really think your product is excellent and a real timesaver."
-			<p class="gray">
-			Michael Bunger
-			<br>Vice President
-			<br>Raecom, Inc.
-			</p>
-		</div>
+    function WinPopUp(strUrl,winWidth,winHeight) {
+      var strToolbar
+      strToolbar = "left=200, top=200, toolbar=no, menubar=no, location=no, directories=no,width=" + winWidth + ",height=" + winHeight
+      window.open(strUrl, "myWindowOne",strToolbar);
+    }
+
+    function validate(me) {
+      var subs, url, email;
+      email = trim(me.Email.value);
+      subs = "0";
+      url = "http://www.apexsql.com/processNewsletter.asp";
+      temp=false;
+      if (email == "") {
+        alert("Please specify an Email-ID.");
+        me.Email.focus();
+        return false;
+      } else {
+        if (!emailCheck(email)) {
+          me.Email.focus();
+          return false;
+        }
+      }
+      url = url + "?Email=" + email + "&subs=" +subs;
+      WinPopUp(url, 400, 150) ;
+    }
+    </script>
+    <div class="right_text">
+      <form name="form1" onsubmit="return validate(form1);">
+      <input type="text" size="15" class="subscribe" value="Enter Email Here" name="Email">
+      <br><input type="image" action="subscribe" src="http://www.apexsql.com/images/subscribe.png" border="0" vspace="5" name="go"></form>
+    </div>    <div class="right_title">
+      <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> SUCCESS STORIES  
+    </div>
+    <div class="right_text">
+     "Thanks for the quick (and honest) reply. I am impressed. Your company sounds like its truly different from the rest ..."
+    
+      <p class="gray">
+      Paul Barbin
+      <br>DBA
+      <br>Lewis, Inc.
+      </p>
+
+      "Thanks Brian.  We really appreciate the quality of your product, as well as your willingness to accommodate our needs.  You are tops on our list when we go searching for development tools." 
+
+      <p class="gray">
+      Scott C. Dixon, MCP, MCP+SB, MCSD
+      <br>Tech Consultant
+      <br>CTGi
+      </p>
+
+      "First let me say we are very impressed with [Apex SQL Audit] Tool, it was not only the fastest but also the easiest to use out of the six audit tools tested.  We also hit some errors with other Audit products."
+  
+      <p class="gray">
+      Paul Ohlemacher
+      <br>Developer
+      <br>Execupay
+      </p>
+    </div>
 
   </div>
 <!-- /right column -->
