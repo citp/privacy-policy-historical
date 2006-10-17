@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aandesigners.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619172730id_/http%3A//www.aandesigners.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aandesigners.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017095942id_/http%3A//www.aandesigners.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Web Design Dubai - Flash Website Dubai, Search Engine Optimization Dubai
 
