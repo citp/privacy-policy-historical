@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the iogear.com privacy policy that was archived on 2002-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021220152753id_/http%3A//www.iogear.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iogear.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017094401id_/http%3A//www.iogear.com/main.php%3Floc%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Statement for IOGEAR
+# IOGEAR: Expand Your Connectivity
 
-**Protecting your privacy is important to IOGEAR. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the IOGEAR Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.** ****
+  
+**Privacy Policy**
 
- **Why we collect personal information**
+Protecting your privacy is important to IOGEAR. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the IOGEAR Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information. 
+
+**Why we collect personal information**
 
 IOGEAR collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest product announcements, software updates, special offers, and other information we think you'd like to hear about. This may occasionally include information from other technology companies about products and services that can add value to your IOGEAR products. From time to time, we may also use your personal information to contact you to participate in a market research survey, so that we can gauge customer satisfaction and develop better products. 
 
@@ -12,11 +15,11 @@ IOGEAR collects and uses your personal information to give you superior customer
 
 We collect information about you in several ways. For example, we might ask for your contact information when you correspond with us, call us to make a purchase or request service, register to attend a seminar, or participate in an online survey. In addition, when you register a new IOGEAR product, sign up for IOGEAR Internet services, or ask to be included in an email mailing list, we collect and store the information you provide in a secure database. 
 
-To save you time and make our web services even easier to use, some areas of the IOGEAR website allow you to create an "IOGEAR ID" using your personal information. Here's how it works: Simply fill out a brief profile-your name, phone number, and email address-then choose a password and password hint (such as the month and day of your birth) for security. The system saves your information and assigns you a personal IOGEAR ID. Next time you order something from the IOGEAR Direct Store or use IOGEAR University, you can simply enter your required information and the system will recall it for you.
+To save you time and make our web services even easier to use, some areas of the IOGEAR website allow you to create an "IOGEAR ID" using your personal information. Here's how it works: Simply fill out a brief profile-your name, phone number, and email address-then choose a password and password hint (such as the month and day of your birth) for security. The system saves your information and assigns you a personal IOGEAR ID. Next time you order something from the IOGEAR Direct Store or use IOGEAR University, you can simply enter your required information and the system will recall it for you. 
 
 **When we disclose personal information**
 
-Because IOGEAR is a global company, your personal information may be shared with other IOGEAR business units around the world. They will protect your personal information in accordance with the IOGEAR Customer Privacy Policy. IOGEAR may occasionally share your personal contact information with carefully selected technology companies, to keep you informed about related products and services. For example, when new software or hardware is released, we may work with other developers to ensure that you're aware of the latest software or hardware available for your computer. If you do not want to receive promotional information from IOGEAR or these technology companies, click [privacy@iogear.com](mailto:privacy@iogear.com) and send us a message stating that you would like to not be included in such updates.
+Because IOGEAR is a global company, your personal information may be shared with other IOGEAR business units around the world. They will protect your personal information in accordance with the IOGEAR Customer Privacy Policy. IOGEAR may occasionally share your personal contact information with carefully selected technology companies, to keep you informed about related products and services. For example, when new software or hardware is released, we may work with other developers to ensure that you're aware of the latest software or hardware available for your computer. If you do not want to receive promotional information from IOGEAR or these technology companies, click [privacy@iogear.com](mailto:privacy@iogear.com) and send us a message stating that you would like to not be included in such updates. 
 
 IOGEAR works with other companies that help us provide IOGEAR products and services to you, and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your products efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with IOGEAR's policies. 
 
@@ -30,7 +33,7 @@ The IOGEAR Direct Store uses industry-standard Secure Sockets Layer (SSL) encryp
 
 **Access to your personal information**
 
-You always have access to the information we have about you. To review and update your personal contact information, simply email your request to [privacy@iogear.com](mailto:privacy@iogear.com), be sure to include your previous information so can locate you in our database. If you would like to review other personal information that IOGEAR may have about you, email us at [privacy@iogear.com.](mailto:privacy@iogear.com)
+You always have access to the information we have about you. To review and update your personal contact information, simply email your request to privacy@iogear.com, be sure to include your previous information so can locate you in our database. If you would like to review other personal information that IOGEAR may have about you, email us at [privacy@iogear.com](mailto:privacy@iogear.com). 
 
 **Collecting other personal information**
 
@@ -42,7 +45,7 @@ In some of our email to you, we use a "click-through URL." When you click one of
 
 **Our companywide commitment to privacy**
 
-To make sure your personal information remains confidential, we communicate these privacy guidelines to every IOGEAR employee. In addition, IOGEAR adheres to industry initiatives such as the Online Privacy Alliance ([http://www.privacyalliance.org](http://www.privacyalliance.org/)) to preserve privacy rights on the Internet and in all aspects of electronic commerce. Though not a member, IOGEAR works to maintain the same standards outlined by the organization.
+To make sure your personal information remains confidential, we communicate these privacy guidelines to every IOGEAR employee. In addition, IOGEAR adheres to industry initiatives such as the Online Privacy Alliance ([http://www.privacyalliance.org](http://www.privacyalliance.org/)) to preserve privacy rights on the Internet and in all aspects of electronic commerce. Though not a member, IOGEAR works to maintain the same standards outlined by the organization. 
 
 IOGEAR does not knowingly solicit personal information from children or send them requests for personal information. 
 
@@ -52,6 +55,5 @@ If we are going to use your personal information differently from that stated at
 
 **The IOGEAR Customer Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes.**
 
-  
-Last updated January 21, 2002  
-© 2002 IOGEAR, Inc. All rights reserved. 
+Last updated April, 2006   
+© 2006 IOGEAR, Inc. All rights reserved.
