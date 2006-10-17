@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcplanet.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614175557id_/http%3A//rcplanet.com/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcplanet.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017234901id_/http%3A//rcplanet.com/Privacy_Statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,7 +16,7 @@ Our site uses an order form for customers to request information, products, and 
   * Our online systems do not relay or retransmit your information insecurely to other computers--when you send personal information using our online ordering system, it is directly passed to our secure servers. 
   * E-mail addresses are collected only for the purpose of contacting you in the future. We WILL NOT sell or rent your e-mail address to other companies or individuals. 
   * Any questions concerning this Privacy policy can be directed to email - clint@rcplanet.com 
-  * We have contracted with Overture services to monitor certain pages of our site for reporting statistics. Overture may use cookies or other methods to compile anonymous statistics. No personally identifiable data is collected by or transferred to Overture. For more information about how this information is used, please see [Overtureâ€™s privacy policy](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml). 
+  * We have contracted with Overture services to monitor certain pages of our site for reporting statistics. Overture may use cookies or other methods to compile anonymous statistics. No personally identifiable data is collected by or transferred to Overture. For more information about how this information is used, please see [Overture’s privacy policy](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml). 
 
 |  | 
 
@@ -24,14 +24,16 @@ Our site uses an order form for customers to request information, products, and 
  **Subtotal $ 0.00**  
   
 ---  
+[](https://web.archive.org/web/20061017234901id_/http%3A//rcplanet.com/status.htm)  
+  
   
   
   
    
    
-[](http://www.rcplanet.com/new_cars_trucks_18913_ctg.htm)
+[](http://www.rcplanet.com/new_radio_control_cars_18913_ctg.htm)
 
-[](http://www.rcplanet.com/new_option_parts_18875_ctg.htm)
+[](http://www.rcplanet.com/new_radio_control_option_18875_ctg.htm)
 
 [](http://www.rcplanet.com/discount_r_c_parts_18874_ctg.htm)
 
