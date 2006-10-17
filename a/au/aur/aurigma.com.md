@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aurigma.com privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422050707id_/http%3A//aurigma.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurigma.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017090858id_/http%3A//www.aurigma.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Aurigma - Privacy Policy
 
