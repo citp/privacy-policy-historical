@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the franchisesolutions.com privacy policy that was archived on 2006-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060323175123id_/http%3A//www.franchisesolutions.com/index.cfm/fa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisesolutions.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017143754id_/http%3A//www.franchisesolutions.com/index.cfm/fa/privacy) for the most accurate reproduction.*
 
-# Franchises, Business Opportunities, Franchise Businesses for Sale- USA Today Franchise Center
+# Franchises for Sale and Businesses for Sale, Franchise Opportunities at Franchise Solutions
 
 * * *
 
