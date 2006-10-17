@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615053904id_/http%3A//www.out-law.com/page-298) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017213355id_/http%3A//www.out-law.com/page-298) for the most accurate reproduction.*
 
 # Privacy | OUT-LAW.COM
 
@@ -25,7 +25,7 @@ Back to top
 
 ## What information do we collect?
 
-When you register as a user, we will collect the information necessary to provide the service which includes, as a minimum, your name and an e-mail address. You will also be asked to provide your organisation name and address, but you can register without providing these details. Once you are registered, you can revisit [your profile](https://web.archive.org/web/20060624120800id_/http://www.out-law.com/page-515) at any time to amend these details or to provide additional details.
+When you register as a user, we will collect the information necessary to provide the service which includes, as a minimum, your name and an e-mail address. You will also be asked to provide your organisation name and address, but you can register without providing these details. Once you are registered, you can revisit [your profile](https://web.archive.org/web/20061017223852id_/http://www.out-law.com/page-515) at any time to amend these details or to provide additional details.
 
 We will also collect information from you if you complete any other forms on our site or if you contact us with comments or specific requests.
 
