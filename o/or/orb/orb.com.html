@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the orb.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615053232id_/http%3A//orb.com/company/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the orb.com privacy policy that was archived on 2006-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061017235129id_/http%3A//orb.com/company/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <link rel="SHORTCUT ICON" href="/favicon.ico"><title>Orb Networks  | Company | Privacy policy</title>
@@ -24,6 +24,7 @@ function clickSwapImg() {}
 //-->
 </script>
 <script language="JavaScript1.2" src="/js/animate.js"></script>
+<script language="JavaScript1.2" src="/js/swfobject.js"></script>
 </head>
 <body bgcolor="#ffffff" onload="dynAnimation()" language="Javascript1.2">
 <!-- Header elements //-->
@@ -58,14 +59,25 @@ function clickSwapImg() {}
 
 <br> <br><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
 		<td width="50%">&nbsp;</td>
-		<td><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="130" height="55" id="download_now" align="middle">
-<param name="allowScriptAccess" value="sameDomain">
-<param name="movie" value="http://www.orb.com/flash/download_now.swf">
-<param name="quality" value="best">
-<param name="wmode" value="transparent">
-<param name="bgcolor" value="#ffffff">
-<embed src="http://www.orb.com/flash/download_now.swf" quality="best" wmode="transparent" bgcolor="#ffffff" width="130" height="55" name="download_now" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-</object>
+		<td>
+		<div id="flashcontent"></div>
+	<script type="text/javascript">
+	   var so = new SWFObject('/flash/download_now.swf', 'home', '130', '55', '7', '#FFFFFF');
+		so.addParam('quality', 'high');
+		so.addParam('wmode', 'transparent');
+		so.addParam('loop', 'false');
+	    so.write('flashcontent');
+	</script>
+		
+		
+		<!--<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0' width='130' height='55' id='download_now' align='middle'>
+<param name='allowScriptAccess' value='sameDomain' />
+<param name='movie' value='http://www.orb.com/flash/download_now.swf' />
+<param name='quality' value='best' />
+<param name='wmode' value='transparent' />
+<param name='bgcolor' value='#ffffff' />
+<embed src='http://www.orb.com/flash/download_now.swf' quality='best' wmode='transparent' bgcolor='#ffffff' width='130' height='55' name='download_now' align='middle' allowScriptAccess='sameDomain' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer' />
+</object>-->
 </td><td width="50%">&nbsp;</td>
 		</tr></tbody></table>
 
@@ -89,7 +101,8 @@ function clickSwapImg() {}
 
     <p>Thank you for visiting this Internet Web site located under the universal resource locator at www.orb.com (the "Site").  This privacy
 	policy explains the policies implemented throughout Orb Networks  ("Orb") governing Orb's collection, use and disclosure of your personally
-	identifiable information provided to Orb via this Site.
+	identifiable information provided to Orb via this Site. Our visitors from Europe should note that, as a US company, Orb is certified on the Safe Harbor
+        List and abides by the principles set forth in the Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
    </p><p><b>Privacy Policy Changes</b><br>
 
