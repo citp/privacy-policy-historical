@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallasobserver.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615000404id_/http%3A//www.dallasobserver.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasobserver.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017222407id_/http%3A//www.dallasobserver.com/about/policy.php) for the most accurate reproduction.*
 
 # dallasobserver.com
 
@@ -6,7 +6,9 @@ Parent of _Dallas Observer_ and dallasobserver.com
 
 Village Voice Media respects your privacy. Our privacy policy for this site follows, but the bottom line is this: Village Voice Media will not sell or share any of your personal information to a third party unless you say it's okay. Village Voice Media will gather personally identifiable information about you only when you provide it voluntarily for specific purposes such as posting an ad or signing up for an e-mail newsletter. 
 
-We do track how our visitors use this site so that we can see what people like and don't like. We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters. We will not, however, release your name, e-mail address or any other personal information to anyone else outside Village Voice Media unless we have your consent, we are under a legal order to do so, or there is an emergency involving danger to a person or property. **This means that we will not provide our advertisers or anyone else outside Village Voice Media with any information specific to you unless we have your consent.** The only Village Voice Media employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution. 
+_Policy effective as of September 25, 2006_
+
+We do track how our visitors use this site so that we can see what people like and don't like. We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters, which may include contests, surveys and newsletters for certain third parties. We will not, however, release your name, e-mail address or any other personal information to anyone else outside Village Voice Media unless we have your consent, we are under a legal order to do so, or there is an emergency involving danger to a person or property. This means that we will not provide our advertisers or anyone else outside Village Voice Media with any information specific to you unless we have your consent. If you chose to provide your personally identifiable information for the purposes of a third-party contest, survey, or newsletter, you consent shall be deemed to be given for the release of your personally identifiable information with regard to that third party only, in addition to Village Voice Media. The only Village Voice Media employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution. 
 
 We occasionally have third party agents, subsidiaries, affiliates, and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. They have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using or altering this data in anyway other than to provide the requested services to the Site. 
 
@@ -30,7 +32,7 @@ This site provides links and pointers to Web sites maintained by other organizat
 
 All commerce transactions that take place on this site are processed through our secure server in order to make every reasonable effort to insure that your personal information is protected. Any transactions that take place on other sites that have link from our site are not necessarily handled in this fashion. Village Voice Media disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. (This section posted and effective as of October 25, 2001) 
 
-The privacy policy is effective as of May 7, 2006. We may need to change it from time to time as technology and the nature of the Web keep evolving. We will endeavor to post any changes to this policy as soon as they go into effect. By visiting the Site, you are accepting the practices describe in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time without notice at any time. Your continued use of the Site following the posting of changes to these terms will mean that you accept those changes. 
+The privacy policy is effective as of September 25, 2006. We may need to change it from time to time as technology and the nature of the Web keep evolving. We will endeavor to post any changes to this policy as soon as they go into effect. By visiting the Site, you are accepting the practices describe in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time without notice at any time. Your continued use of the Site following the posting of changes to these terms will mean that you accept those changes. 
 
 Our Site is published in the United States. U.S. law shall govern in any and all disputes, including privacy or defamation issues or otherwise. 
 
@@ -45,20 +47,20 @@ If you have any questions about this privacy policy, e-mail them to [privacyadmi
 [ ](http://dallas.backpage.com/)  
 
 
-[**community (539)**](http://dallas.backpage.com/community/classifieds/Results?adLanguage=All&section=4382)  
-[**automotive (5,056)**](http://dallas.backpage.com/automotive/classifieds/Results?adLanguage=All&section=153676)  
-[**buy, sell, trade (16,181)**](http://dallas.backpage.com/buyselltrade/classifieds/Results?adLanguage=All&section=4378)  
-[**musician (1,059)**](http://dallas.backpage.com/musician/classifieds/Results?adLanguage=All&section=4380)  
-[**rentals (3,102)**](http://dallas.backpage.com/rentals/classifieds/Results?adLanguage=All&section=4376)  
-[**real estate for sale (3,796)**](http://dallas.backpage.com/realestate/classifieds/Results?adLanguage=All&section=4375)  
-[**jobs (14,557)**](http://dallas.backpage.com/employment/classifieds/Results?adLanguage=All&section=4373)  
-[**personals (1,270)**](http://dallas.backpage.com/personals/classifieds/Results?adLanguage=All&section=4383)  
-[**adult entertainment (2,139)**](http://dallas.backpage.com/adult/classifieds/Results?adLanguage=All&section=4381)  
-[**services (2,330)**](http://dallas.backpage.com/services/classifieds/Results?adLanguage=All&section=4374)  
+[**community (694)**](http://dallas.backpage.com/community/classifieds/Results?adLanguage=All&section=4382)  
+[**automotive (1,413)**](http://dallas.backpage.com/automotive/classifieds/Results?adLanguage=All&section=153676)  
+[**buy, sell, trade (4,945)**](http://dallas.backpage.com/buyselltrade/classifieds/Results?adLanguage=All&section=4378)  
+[**musician (1,217)**](http://dallas.backpage.com/musician/classifieds/Results?adLanguage=All&section=4380)  
+[**rentals (2,243)**](http://dallas.backpage.com/rentals/classifieds/Results?adLanguage=All&section=4376)  
+[**real estate for sale (2,047)**](http://dallas.backpage.com/realestate/classifieds/Results?adLanguage=All&section=4375)  
+[**jobs (5,508)**](http://dallas.backpage.com/employment/classifieds/Results?adLanguage=All&section=4373)  
+[**personals (1,463)**](http://dallas.backpage.com/personals/classifieds/Disclaimer?adLanguage=All&section=4383)  
+[**adult entertainment (2,543)**](http://dallas.backpage.com/adult/classifieds/Disclaimer?adLanguage=All&section=4381)  
+[**services (3,037)**](http://dallas.backpage.com/services/classifieds/Results?adLanguage=All&section=4374)  
 
 
 [](http://www.dallasobserver.com/blogs/)
 
 [](http://www.dallasobserver.com/php/sxsw/)
 
-[](https://web.archive.org/musicawards/2006/)
+[](https://web.archive.org/musicawards/2006/index.html)
