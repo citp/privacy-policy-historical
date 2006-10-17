@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnerweekly.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616101842id_/http%3A//www.partnerweekly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerweekly.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018004026id_/http%3A//www.partnerweekly.com/privacy.php) for the most accurate reproduction.*
 
 # PartnerWeekly | Positively Publisher Centric
 
