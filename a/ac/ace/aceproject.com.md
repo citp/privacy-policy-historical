@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212900id_/http%3A//www.aceproject.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017153455id_/http%3A//aceproject.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # AceProject - Privacy Policy Statement
 
