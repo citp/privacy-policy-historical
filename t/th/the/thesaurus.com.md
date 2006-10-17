@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thesaurus.com privacy policy that was archived on 2006-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060331024503id_/http%3A//thesaurus.reference.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesaurus.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017153306id_/http%3A//thesaurus.reference.com/help/privacy.html) for the most accurate reproduction.*
 
-# Thesaurus.com/Privacy Policy
-
-## Privacy Policy
+# Thesaurus.com Help
 
 The following discloses our privacy policy for this web site: Thesaurus.com. We take your privacy concerns seriously and we strive to earn and keep your trust. Please do not hesitate to contact us with your questions and concerns (contact information is provided below).
 
