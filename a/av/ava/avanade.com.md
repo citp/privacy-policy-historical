@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avanade.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617015409id_/http%3A//www.avanade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avanade.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018014017id_/http%3A//avanade.com/privacy) for the most accurate reproduction.*
 
 # Avanade > Privacy Policy
 
