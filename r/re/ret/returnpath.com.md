@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the returnpath.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324165450id_/http%3A//www.returnpath.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnpath.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017164621id_/http%3A//www.returnpath.com/company/privacyPolicy.php) for the most accurate reproduction.*
 
-# Return Path - Changed Your Email? Keep Your Contacts!
+# Return Path Solutions for Increased Email Delivery, Performance
+
+| 
+
+**Download our Glossary of Email Terms:**
+
+**Download our Corporate Overview:**
+
+|  | 
 
 **Effective December 2003  
 RETURN PATH PRIVACY STATEMENT**
@@ -147,5 +155,5 @@ New York, New York 10010
 Phone: 212-905-5500  
 Fax: 212-905-5501
 
-  
-
+[Company](https://web.archive.org/company/) | [Delivery Assurance ](http://www.senderscore.com/) | [Email List Quality](https://web.archive.org/listquality/) | [Customer Acquisition](http://www.postmasternetwork.net/) | [Strategic Solutions ](https://web.archive.org/strategic/) | [Client Login](https://web.archive.org/login/)  
+Copyright 2000-2006 Return Path, Inc., All Rights Reserved. Return Path is a registered trademark of Return Path, Inc.
