@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findgift.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033144id_/http%3A//www.findgift.com/Services/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findgift.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019002739id_/http%3A//www.findgift.com/Services/Privacy-Policy) for the most accurate reproduction.*
 
 # FindGift.com Privacy Policy
 
@@ -54,4 +54,6 @@ If you choose to visit FindGift.com, your visit and any dispute over privacy is 
 
  
 
-| 
+|   
+  
+FindGift.com and its logo are trademarks of Registry Online, Inc. 
