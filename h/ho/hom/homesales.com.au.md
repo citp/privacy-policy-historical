@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesales.com.au privacy policy that was archived on 2005-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050616071407id_/http%3A//homesales.com.au/ASP/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesales.com.au privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019005037id_/http%3A//homesales.com.au/ASP/Privacy_Statement.htm) for the most accurate reproduction.*
 
 # 
 
