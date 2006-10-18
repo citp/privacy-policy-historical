@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the lyricsondemand.com privacy policy that was archived on 2006-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060327023306id_/http%3A//www.lyricsondemand.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsondemand.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018210636id_/http%3A//www.lyricsondemand.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Lyrics On Demand
 
 | 
 
   
-**[Privacy Policy](https://web.archive.org/web/20060327023306id_/http%3A//www.lyricsondemand.com/privacypolicy.html)**  
+**[Privacy Policy](https://web.archive.org/web/20061018210636id_/http%3A//www.lyricsondemand.com/privacypolicy.html)**  
 
 
 **LyricsOnDemand.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and divulgence practices for this Web site: LyricsOnDemand.com 
