@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iranianpersonals.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319115219id_/http%3A//iranianpersonals.com/personals/privacy.cfm%3FsiteIDD%3D39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranianpersonals.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018075309id_/http%3A//www.iranianpersonals.com/personals/privacy.cfm%3FsiteIDD%3D39) for the most accurate reproduction.*
 
 # Iranian Personals - Safe Online Dating and Friendship Site for Iranian Men and Women
 
