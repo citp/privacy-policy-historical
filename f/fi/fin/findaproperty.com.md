@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the findaproperty.com privacy policy that was archived on 2006-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060521030851id_/http%3A//findaproperty.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findaproperty.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018073142id_/http%3A//www.findaproperty.com/privacy.aspx%3Fedid%3D00%26salerent%3D0) for the most accurate reproduction.*
 
-# Find a Property - Privacy Policy
+# Privacy policy
 
-We are Find a Property Limited (a wholly owned subsidiary of the Daily Mail & General Trust PLC, company registration number 02290527, data protection registered number PZ8806757) ("FaP/we/us"). At Fap we are very serious about protecting your privacy. Your trust is our most important asset. This privacy policy explains how FaP may collect information from you via our websites and how that information may be used subsequently. If you have any queries in relation to this privacy policy please contact [ SalesSupport@Findaproperty.com.](mailto:SalesSupport@Findaproperty.com)
+We are Find a Property Limited (a wholly owned subsidiary of the Daily Mail & General Trust PLC ("DMGT"), company registration number 02290527, data protection registered number PZ8806757) ("FindaProperty.com/we/us"). At FindaProperty.com we are very serious about protecting your privacy. Your trust is our most important asset. This privacy policy explains how FindaProperty.com may collect information from you via our websites and how that information may be used subsequently. If you have any queries in relation to this privacy policy please contact [support@findaproperty.com](mailto:support@FindaProperty.com).
 
 By browsing and using our website you agree to this policy governing your use of the website. If you do not accept this policy, you must not use our website.
 
@@ -20,9 +20,9 @@ We will only collect personal information from you (such as name, address, telep
 
 Examples of where we may collect your personal information include (without limitation):-
 
-  * If you enter a contest or promotion we ask for your name, address and e-mail address. This is so we can run the contest effectively and tell you if you have won.
-  * If you use our "Mail to a friend" service, we ask for the friend's name and email address. We then send an automatic, one-time e-mail inviting your friend to visit us. Details of this transaction are stored only to send that one-time e-mail or to track complaints of mischievous use. Your friend may email SalesSupport@Findaproperty.com to ask that it be deleted.
-  * Submitting an enquiry to an agent or joining a mailing list.
+  * If you enter a contest or promotion we ask for your name, address and e-mail address. This is so we can run the contest effectively and tell you if you have won. 
+  * If you use our "Mail to a friend" service, we ask for the friend's name and email address. We then send an automatic, one-time e-mail inviting your friend to visit us. Details of this transaction are stored only to send that one-time e-mail or to track complaints of mischievous use. Your friend may email support@FindaProperty.com to ask that it be deleted. 
+  * Submitting an enquiry to an agent or joining a mailing list. 
 
 
 
@@ -36,17 +36,17 @@ The information collected by cookies and web beacons is not personally identifia
 
 You agree that we may obtain, hold, correlate, merge and use your information (including personal information) for the purpose of providing you with our services and ancillary services and for our internal business purposes. These include (without limitation):-
 
-  * personalising your visits to the site and developing the design and style of the site to improve our services to you;
-  * to inform you about the latest changes to our website, or products, services or promotional offers that you might find interesting;
-  * communication (and personalising such communication) with you from FaP, from other Daily Mail & General Trust (“DGMT”) group companies and from other reputable and trustworthy third parties (if you have agreed to such);
-  * informing you if you have been successful in any of the competitions or promotions;
-  * compiling customer reviews;
-  * for market research purposes;
-  * to prevent you from posting illegal, offensive or objectionable comments on our sites;
-  * to enable third parties to carry out statistical analyses’, technical, logistical or other functions on our behalf including determining behavioural preferences to manage online advertising;
-  * for strategic development;
-  * for any purpose required by law or regulation;
-  * for accounting purposes;
+  * personalising your visits to the site and developing the design and style of the site to improve our services to you; 
+  * to inform you about the latest changes to our website, or products, services or promotional offers that you might find interesting; 
+  * communication (and personalising such communication) with you from FindaProperty.com, from other Daily Mail & General Trust (“DMGT”) group companies and from other reputable and trustworthy third parties (if you have agreed to such); 
+  * informing you if you have been successful in any of the competitions or promotions; 
+  * compiling customer reviews; 
+  * for market research purposes; 
+  * to prevent you from posting illegal, offensive or objectionable comments on our sites; 
+  * to enable third parties to carry out statistical analyses’, technical, logistical or other functions on our behalf including determining behavioural preferences to manage online advertising; 
+  * for strategic development; 
+  * for any purpose required by law or regulation; 
+  * for accounting purposes; 
 
 
 
@@ -60,9 +60,9 @@ With your consent, we may supply personal information to third parties. You will
 
 We reserve the right to access and to disclose personal information to comply with applicable laws and lawful government requests or requests by applicable regulatory bodies, to operate our systems properly or to protect either ourselves or our other users.
 
-We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of Associated.
+We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of FindaProperty.com.
 
-You consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the United Kingdom provides) in the event that the processing of your information involves such a transfer
+You consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the United Kingdom provides) in the event that the processing of your information involves such a transfer.
 
 **Monitoring emails**
 
@@ -78,6 +78,6 @@ For more information on the Data Protection Act and the Information Commissioner
 
 **Changing or accessing your information**
 
-Should your personal information change (e.g. your postcode), or if you no longer wish to receive newsletters or services you have signed up for, or if you wish to review or receive copies of the personal information we hold about you, or have any other queries please email SalesSupport@Findaproperty.com including full details of your request.
+Should your personal information change (e.g. your postcode), or if you no longer wish to receive newsletters or services you have signed up for, or if you wish to review or receive copies of the personal information we hold about you, or have any other queries please email [ support@FindaProperty.com](mailto:support@FindaProperty.com) including full details of your request.
 
 You may at anytime request access to all personal information we hold on you. We will provide this information within 40 days of a written request for a small administrative charge.
