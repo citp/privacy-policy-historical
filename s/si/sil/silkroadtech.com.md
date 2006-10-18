@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silkroadtech.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620072914id_/http%3A//www.silkroadtech.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silkroadtech.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018211758id_/http%3A//www.silkroadtech.com/company/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -49,9 +49,12 @@ In reviewing the information above, please keep in mind that SilkRoad cannot and
  
 
 
+[ ](http://www.aberdeen.com/link/sponsor.asp?spid=30410362&cid=3393) 
+
+
 ##### Featured Case Study
 
-We were looking for a system that is easy to use, powerful and functional enough to give us a critical look inside our application flows, and cost-effective. OpenHire came through with flying colors on every count.
+We’re looking forward to the implementation of OpenHire so that we can bolster our efforts to strengthen our recruitment systems and staff development, allowing us to carry out the Save the Children mission in the most efficient and effective manner possible.
 
-~Heidi Paige Geist, Human Resources Manager  
+~ Melanie Meyers, Director of Recruiting and Staffing for Save the Children  
 [[see more customers]](https://web.archive.org/customers/index.htm)
