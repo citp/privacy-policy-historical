@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canlii.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210455id_/http%3A//www.canlii.org/priv_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canlii.org privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018221007id_/http%3A//canlii.org/priv_en.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@
 
 ## B. CanLII User Data
 
-5. Any CanLII user data gathered is deemed confidential. CanLII user information is only gathered for purposes of establishing statistics about visits to the site and for improving the services provided, such as website navigation, the CanLII search engine, the CanLII feedback form and mailing lists managed by CanLII. All personal CanLII user data gathered is never used to either identify or try to identify individuals. CanLII user data is never divulged to third parties without the user’s explicit consent, except (1) when required by law or (2) in cases where unauthorized or abusive use of the CanLII resource has been made. Further details on unauthorized or abusive usage of CanLII may be found in [CanLII’s Terms and Conditions of Use](https://web.archive.org/web/20060615210455id_/http%3A//www.canlii.org/conditions_eng_1.doc).
+5. Any CanLII user data gathered is deemed confidential. CanLII user information is only gathered for purposes of establishing statistics about visits to the site and for improving the services provided, such as website navigation, the CanLII search engine, the CanLII feedback form and mailing lists managed by CanLII. All personal CanLII user data gathered is never used to either identify or try to identify individuals. CanLII user data is never divulged to third parties without the user’s explicit consent, except (1) when required by law or (2) in cases where unauthorized or abusive use of the CanLII resource has been made. Further details on unauthorized or abusive usage of CanLII may be found in [CanLII’s Terms and Conditions of Use](https://web.archive.org/web/20061018221007id_/http%3A//canlii.org/conditions_eng_1.doc).
 
 ### CanLII User Visit Information
 
@@ -42,7 +42,7 @@
 
 ### Mailing Lists
 
-10. A user subscribing to a mailing list on CanLII (the “subscriber”) must provide a valid e-mail address and has the option of providing a name. Mailing list user data is collected only for the management and operation of these lists. The subscriber can consult or modify their mailing list information by following the instructions found on CanLII’s [mailing lists page](https://web.archive.org/web/20060615210455id_/http%3A//www.canlii.org/subscription.html). Personal CanLII mailing list subscriber data is destroyed when the subscriber unsubscribes from the list.
+10. A user subscribing to a mailing list on CanLII (the “subscriber”) must provide a valid e-mail address and has the option of providing a name. Mailing list user data is collected only for the management and operation of these lists. The subscriber can consult or modify their mailing list information by following the instructions found on CanLII’s [mailing lists page](https://web.archive.org/web/20061018221007id_/http%3A//canlii.org/subscription.html). Personal CanLII mailing list subscriber data is destroyed when the subscriber unsubscribes from the list.
 
 ### Personal Data Security
 
