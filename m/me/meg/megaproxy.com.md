@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaproxy.com privacy policy that was archived on 2006-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060326154033id_/http%3A//www.megaproxy.com/legal/ps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaproxy.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018174153id_/http%3A//megaproxy.com/legal/ps) for the most accurate reproduction.*
 
 # Megaproxy.com, Inc \ Online privacy statement
 
@@ -34,7 +34,7 @@ Megaproxy uses extensive caching technology to cache frequently requested Web co
 
 #### Internet Cookies
 
-Megaproxy.com, Inc may use a feature of your Internet browser called a "cookie" to assign a unique identification to your computer to maintain a session state. These short-lived cookies are not written to your hard drive and are removed when you close the browser. This means that not only are your web activities kept private, but also that your hard drive memory is not depleted. Our customizable user preferences feature uses a single cookie, which is stored on your local hard drive. This cookie is used for user customizable privacy options. Megaproxy™ does not, and will not, use cookies to retrieve personal information about you.
+Megaproxy.com, Inc may use a feature of your Internet browser called a "cookie" to assign a unique identification to your computer to maintain a session state. These short-lived cookies are not written to your hard drive and are removed when you close the browser. This means that not only are your web activities kept private, but also that your hard drive memory is not depleted. Our customizable user preferences feature uses a single cookie, which is stored on your local hard drive. This cookie is used for user customizable privacy options. Megaproxy does not, and will not, use cookies to retrieve personal information about you.
 
 #### Sharing
 
@@ -42,7 +42,7 @@ We may share aggregate demographic information with our partners and advertisers
 
 #### Links
 
-This web site contains links to other sites. Please be aware that Megaproxy™ is not responsible for the privacy practices of these other sites. We encourage our users to read the privacy statements of each and every web site that collects personally identifiable information for their protection. This privacy statement applies solely to information collected by the Megaproxy web site.
+This web site contains links to other sites. Please be aware that Megaproxy is not responsible for the privacy practices of these other sites. We encourage our users to read the privacy statements of each and every web site that collects personally identifiable information for their protection. This privacy statement applies solely to information collected by the Megaproxy web site.
 
 #### Newsletter
 
