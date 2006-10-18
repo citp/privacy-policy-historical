@@ -1,8 +1,35 @@
-> *The following text is extracted and transformed from the ogj.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425045248id_/http%3A//ogj.pennnet.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogj.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018221936id_/http%3A//www.ogj.com/aboutus/privacy.cfm) for the most accurate reproduction.*
 
-# Oil & Gas Journal, Offshore, OG&PE, OGJ Financial Journal, OGJ Latin America
+# PennWell Corporation Online Privacy Policy
 
-PennWell Corporation Online Privacy Policy  
+  
+  
+
+
+| 
+
+**LNG Observer**  
+  
+---  
+  
+**Now reaching more than 60,000 professionals in the LNG industry.**
+
+[Click Here for the Current Issue](http://www.ogj.com/lngobserver/)
+
+Oil & Gas Journal's [LNG Observer](http://www.ogj.com/lngobserver/) is the only information resource of its kind - providing consistent, authoritative, and comprehensive reporting on the issues affecting today's rapidly growing LNG industry. LNG Observer delivers valuable information to top executives and key decision-makers involved in commercial LNG developments around the world. In addition to interviews with industry and government leaders and articles addressing developing technologies, readers of LNG Observer have come to expect insightful updates on such issues as:
+
+  * Rapid growth in the LNG shipping industry
+  * Evolving regulatory initiatives
+  * Global LNG project development
+  * Statistical comparisons (Cedigaz, DOE, GIIGNL)
+
+  
+  
+  
+
+
+PennWell Corporation Online Privacy Policy
+
 _(Last updated Sept 4, 2003)_
 
 * * *
@@ -30,3 +57,46 @@ If you would like to correct and/or update your personally identifying informati
 PennWell has implemented a number of security features to prevent the unauthorized release of or access to personally identifying information, such as firewalls and secure servers. The secure server encrypts all information you input before it is sent to us. Please be advised, however, that while we have endeavored to create a secure and reliable site for our users, perfect security is not yet available on the Internet and the confidentiality of any communication or material transmitted to or from us via our sites or e-mail cannot be 100% guaranteed. Accordingly, we are not responsible for the security of information transmitted via the Internet. Once we receive your transmission, we make our best effort to ensure its security on our system. Only authorized personnel have access to any stored personally identifying information which PennWell may collect from its users. 
 
 It is important to us that we do our part to protect the privacy of children. For this reason, we do not intentionally collect or maintain information through our web sites from those we actually know are under 13, and no part of our web site is designed to target or attract anyone under 13. 
+
+  
+| 
+
+| 
+
+**►Webcasts & White Papers**  
+  
+---  
+  
+### WEBCASTS
+
+  
+  
+  
+
+
+### WHITE PAPERS
+
+  
+  
+  
+  
+* * *
+
+**►Property Exchange**  
+  
+---  
+[ ](http://www.madisonenergy.com/vdr/divestment_details.cfm?divestmentid=29)  
+[Project Status & New Projects](http://www.madisonenergy.com/vdr/divestment_details.cfm?divestmentid=29)  
+For additional information on current project status and new projects, please contact: Derik Rentrop, derikr@madisonenergy.com, telephone 713-499-6316.    
+  
+  
+   | 
+
+| 
+
+**►Free Product Info**  
+  
+---  
+  
+from OG&PE magazine  
+[](http://ogpe.hotims.com/)
