@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adjuggler.com privacy policy that was archived on 2006-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060610065446id_/http%3A//adjuggler.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjuggler.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018205308id_/http%3A//www.adjuggler.com/privacy.htm) for the most accurate reproduction.*
 
 # Thruport AdJuggler : : Privacy Policy
 
