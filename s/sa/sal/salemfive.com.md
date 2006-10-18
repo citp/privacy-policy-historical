@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615161159id_/http%3A//www.salemfive.com/aboutUs/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019011727id_/http%3A//salemfive.com/aboutUs/privacyPolicy.html) for the most accurate reproduction.*
 
 # Salem Five Bank: privacy policy
 
