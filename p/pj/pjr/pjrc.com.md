@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pjrc.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615095027id_/http%3A//www.pjrc.com/store/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pjrc.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018192210id_/http%3A//pjrc.com/store/privacy.html) for the most accurate reproduction.*
 
 # PJRC Store, Privacy Policy
 
