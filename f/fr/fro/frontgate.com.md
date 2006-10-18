@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frontgate.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316090856id_/http%3A//www.frontgate.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D517%26path%3D1%252C2%252C270%252C517) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontgate.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018215208id_/http%3A//www.frontgate.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D517%26path%3D1%252C2%252C270%252C517) for the most accurate reproduction.*
 
-# Frontgate - For Your Protection
+# Customer Service - For Your Protection - Frontgate
 
 |  |   
   
@@ -8,7 +8,7 @@
 |  |  |  | [](http://www.frontgate.com/jump.jsp?itemID=162&itemType=HOME_PAGE) |   
 ---|---  
 |  |   
-|  |  |  |  |  | 
+|  |  |  |  | 
 
 |   
 ---  
@@ -18,12 +18,12 @@ Online Security
 
 [](http://www.bbb.com/)
 
-Grandin Road offers a secure online commerce environment. All credit transactions occur in a secure area of our site, protecting you from loss or misuse of information. The transfer of sensitive information between you and Grandin Road is protected by the highest standard of encryption technology available on the Internet.
+Frontgate offers a secure online commerce environment. All credit transactions occur in a secure area of our site, protecting you from loss or misuse of information. The transfer of sensitive information between you and Frontgate is protected by the highest standard of encryption technology available on the Internet.
 
 Public/private key cryptography enables the creation of a secure "conversation" between your browser and our secure server. While this conversation could potentially be "overheard," it cannot be decrypted.
 
 **How You Can Tell You're Browsing a Secure Website**  
-In order to be sure that information transferred between your browser and the Grandin Road server is secure, it is important to be aware of the security information available to you through your browser.
+In order to be sure that information transferred between your browser and the Frontgate server is secure, it is important to be aware of the security information available to you through your browser.
 
 Once you enter the Checkout process (when you're ready to purchase the items you have placed in your shopping cart), your connection to our server becomes secure. These security features are enacted automatically; you do not have to take any action to invoke them. To confirm that you are operating in secure mode, look at the bottom of your browser window. If you see an unbroken key or a closed lock (depending upon your browser) you can be sure that your information is secure.
 
@@ -39,7 +39,7 @@ Example of a secure URL in a Netscape Communicator Browser:
 
   
 **Data Encryption & Risk of Decryption**  
-Grandin Road makes use of a 128-bit encryption key issued by RSA Data Security, Inc. When a secure connection is initiated, our server's public key is automatically transferred to your browser. Your browser then uses this key to encrypt information transferred back to . This information can only be decrypted using the private key installed on 's secure server.
+Frontgate makes use of a 128-bit encryption key issued by RSA Data Security, Inc. When a secure connection is initiated, our server's public key is automatically transferred to your browser. Your browser then uses this key to encrypt information transferred back to Frontgate. This information can only be decrypted using the private key installed on Frontgate's secure server.
 
 You may have read in the news that the RC4 encryption algorithm had been broken. In fact, a single message which had been encrypted using the less powerful 40-bit key was successfully decrypted. However, decrypting this single message utilized 120 computer workstations and two parallel supercomputers spread across three major research centers for more than 8 days. Decrypting additional messages would take the same amount of time and resources. The 128-bit encryption key has not been broken.
 
@@ -51,8 +51,9 @@ Visit the Direct Marketing Association's
 Contacting the Webmaster  
 We've worked hard to bring you a secure online commerce environment, and we value your questions, comments, and concerns. If you have any feedback about our Web site security, please 
 
-[_send us an e-mail_](mailto:webmaster@.com) or contact us via regular mail:
+[_send us an e-mail_](mailto:webmaster@frontgate.com) or contact us via regular mail:
 
+FRONTGATE  
 Webmaster  
 5566 West Chester Road  
 West Chester, OH 45069 
@@ -107,7 +108,7 @@ If you are currently receiving communications from , it is because you have noti
 
 If you no longer wish to receive catalogs or mailings from affiliated companies, call 1.888.263.9850, 
 
-[_send us an email_](mailto:cs@.com), or send your mailing label to:
+[_send us an email_](mailto:cs@frontgate.com), or send your mailing label to:
 
 5566 West Chester Road  
 West Chester, OH 45069 
@@ -123,9 +124,9 @@ Most people enjoy receiving information about subjects that interest them or pro
 **Making Corrections & Updates to Your Account Information**  
 gives you the following options for changing and modifying information previously provided:
 
-  * Update your information in [_My Account_](http://209.135.45.248/account/login/loginmain.jsp).
+  * Update your information in [_My Account_](https://web.archive.org/account/login/loginmain.jsp).
   * Call one of our Customer Service Representatives at 1.888.263.9850.
-  * [_Send us an e-mail_](mailto:cs@.com).
+  * [_Send us an e-mail_](mailto:cs@frontgate.com).
 
   
 **Protecting Childrens' Privacy**  
@@ -134,7 +135,7 @@ The Web site is not intended for use by, nor do we knowingly collect personal in
 **Contacting the Webmaster**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may 
 
-[_send a message to the Webmaster_](mailto:webmaster@.com), or write to us at:
+[_send a message to the Webmaster_](mailto:webmaster@frontgate.com), or write to us at:
 
 Webmaster  
 5566 West Chester Road  
@@ -179,7 +180,7 @@ Please note: Any items that are monogrammed, customized or made-to-order cannot 
 **Questions?**  
 Call 1.888.263.9850 or 
 
-[_send us an e-mail_](mailto:cs@.com). |   
+[_send us an e-mail_](mailto:cs@frontgate.com). |   
   
   
 ---  
@@ -190,7 +191,7 @@ Cookies & JavaScript
   
 Our site places a single, small file on your computer called a "cookie," which allows us to identify you as a unique visitor to our website. For example, if you have items in your shopping cart and leave our site or close your browser, the cookie helps us to identify you upon your return, so the contents of your cart will still be there for you. Your privacy and security are not compromised when you accept a cookie from our site. Cookies are encrypted and sent securely, and no personal information is collected by or stored within this cookie.
 
-The site also requires that JavaScript is enabled on your browser. Our servers use JavaScript to provide a more interactive shopping experience and to implement changes to the website. Enabling this coding language on your browser will not affect performance, nor will it collect or store any of your personal information.
+The Frontgate site also requires that JavaScript is enabled on your browser. Our servers use JavaScript to provide a more interactive shopping experience and to implement changes to the website. Enabling this coding language on your browser will not affect performance, nor will it collect or store any of your personal information.
 
 To enable cookies and JavaScript, refer to the section that applies to your Internet platform and browser type: 
 
@@ -211,7 +212,7 @@ To adjust cookie settings:
   3. Finishing up:
   4. Click Apply, then OK to close the Internet Options window
   5. Return to the previous page
-  6. Click Refresh to re-load the home page
+  6. Click Refresh to re-load the Frontgate home page
 
 **Internet Explorer 5.0 (PC)**
 
@@ -224,7 +225,7 @@ To adjust cookie settings:
   7. Click OK to close the Security Settings window
   8. Click OK to close the Internet Options window
   9. Return to the previous page
-  10. Click Refresh to re-load the home page
+  10. Click Refresh to re-load the Frontgate home page
 
 **Internet Explorer 4.x (PC)**
 
@@ -234,7 +235,7 @@ To adjust cookie settings:
   4. Click Always Accept Cookies
   5. Click OK to close the Internet Options window
   6. Return to the previous page
-  7. Click Refresh to re-load the home page
+  7. Click Refresh to re-load the Frontgate home page
 
 **Internet Explorer 5.0 and 4.x (Mac)**
 
@@ -245,7 +246,7 @@ To adjust cookie settings:
   5. Select Enable Scripting from the Active Content box
   6. Click OK to close the Preferences window
   7. Return to the previous page
-  8. Click Refresh to re-load the home page
+  8. Click Refresh to re-load the Frontgate home page
 
 **Netscape 7.1 and above (PC or Mac)**
 
@@ -264,7 +265,7 @@ To adjust cookie settings:
   4. Enable Cookies Based on Privacy Settings: select this option if you handle cookies based on your privacy settings, then click the View button to confirm or modify your privacy settings
   5. Enable All Cookies: select this default option to permit all Web sites not explicitly blocked to set cookies on your computer
   6. Click OK to close the Preferences window
-  7. Click Reload to re-load the home page
+  7. Click Reload to re-load the Frontgate home page
 
 **Netscape 4.0 (PC or Mac)**
 
@@ -274,7 +275,7 @@ To adjust cookie settings:
   4. Click Enable Javascript
   5. Click OK to close the Preferences window
   6. Return to the previous page
-  7. Click Reload to re-load the Grandin Road home page
+  7. Click Reload to re-load the Frontgate home page
 
 **Customizing Privacy Settings in Internet Explorer 6.0**
 
