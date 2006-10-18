@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the famousfootwear.com privacy policy that was archived on 2006-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060321063243id_/http%3A//www.famousfootwear.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the famousfootwear.com privacy policy that was archived on 2006-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061018202150id_/http%3A//www.famousfootwear.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
-<link rel="stylesheet" href="/include/famous5.css">
+<link rel="stylesheet" href="/bdimages/famous/css/famous5.css">
+<link rel="stylesheet" href="/bdimages/famous/css/famous6.css">
 <script language="JavaScript" src="/include/jcommon.js"></script>
+<script language="JavaScript" src="/bdimages/famous/js/preload.js"></script>
 <title></title>
 
 	<script language="JavaScript" src="/ForeSeeScripts/triggerParams.js"></script> 
@@ -15,272 +17,443 @@
 	<script language="JavaScript">Poll(); </script>
 
 </head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table width="800" border="0" cellpadding="0" cellspacing="0">
-	<script language="JavaScript">
-<!--
-function storeLocator() {
-	document.forms[1].submit();
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="preloadImages();shoes_onLoad();initDropMenu();">
+<style>
+body { 
+	text-align:center;
+}
+#wrapper {
+	width:759px;
+	position:relative;
+	margin:0 auto;
+	text-align:left;
+}
+</style>
+<div id="wrapper">
+<table border="0" cellpadding="0" cellspacing="0" align="center" width="760" id="Table1">
+<tbody><tr><td><img src="/images/spacer.gif" width="10" height="10"></td></tr>
+<tr><td>
+			<script language="JavaScript">
+		<!--
+			function storeLocator() {
+			document.forms[1].submit();
+		}
+
+		function lnavSearchSubmit() {
+			//if (document.lnavSearch.category_name.selectedIndex == 0 && document.lnavSearch.Keyword.value == '') {
+				//return false;
+			//}
+			//else {
+				if (document.lnavSearch.Keyword.value != '') document.lnavSearch.as.value = '1';
+				return true;
+			//}
+		}
+
+		function goSearch(selObj) {
+			if (selObj.selectedIndex > 0)
+				document.lnavSearch.submit();
+		}
+
+		function mOver(obj) {
+			obj.style.backgroundColor = '#613800';
+		}
+
+		function mOut(obj) {
+			obj.style.backgroundColor = '#CF142B';
+		}
+		//-->
+		</script>
+		<script language="JavaScript" type="text/javascript">
+			var objNavMenu = null;
+			var prevObjNavMenu = null;
+			var prevObjDropMenu = null;
+			var numDropMenu = 9;
+			////// link styles
+			var bgLinkColor = '#CCCCCC';
+			var bgLinkHover = '#3D1F00'
+			var bgLinkActive = '#3D1F00'
+			var linkColor = '#ffffff'
+			var linkHover = '#ffffff'
+			var linkActive = '#ffffff'
+			
+			var isIE = null;
+			if (navigator.appName.indexOf('Microsoft Internet Explorer') != -1) isIE=1;
+
+			function initDropMenu () {
+				document.onclick = hideDropMenu;
+				for (i=1; i<=numDropMenu; i++) {
+					menuName = 'dropMenu' + i;
+					navName = 'navMenu' + i;
+					objDropMenu = document.getElementById(menuName);
+					objNavMenu = document.getElementById(navName);
+					objDropMenu.style.visibility = 'hidden';
+					objNavMenu.onmouseover =  showDropMenu;/*menuHover + */
+					objNavMenu.onmouseout = menuOut;
+					//objNavMenu.onclick = showDropMenu;
+				}
+				objNavMenu = null;
+				return;
+			}
+
+			function  menuHover(e) {
+				document.onclick = null;
+				hoverObjNavMenu = document.getElementById(this.id);
+				if (hoverObjNavMenu != objNavMenu) {
+					hoverObjNavMenu.style.color = linkHover;
+					hoverObjNavMenu.style.backgroundColor = bgLinkHover;
+				}		
+			}
+			
+			function menuOut (e) {
+				document.onclick = hideDropMenu;
+				outObjNavMenu = document.getElementById(this.id);
+				if (outObjNavMenu != objNavMenu) {
+					outObjNavMenu.style.color = linkColor;
+					outObjNavMenu.style.backgroundColor = bgLinkColor;
+				}
+			}
+			
+			function showDropMenu(e) {
+				menuName = 'drop' + this.id.substring(3,this.id.length);
+				objDropMenu = document.getElementById(menuName);
+				if (prevObjDropMenu == objDropMenu) {
+						hideDropMenu();
+					return;
+				}
+				if (prevObjDropMenu != null) hideDropMenu();
+				objNavMenu = document.getElementById(this.id);
+				if ((prevObjNavMenu != objNavMenu ) || (prevObjDropMenu == null)) {
+					objNavMenu.style.color = linkActive;
+					objNavMenu.style.backgroundColor = bgLinkActive;
+				}
+				
+				if (objDropMenu) {
+					xPos = objNavMenu.offsetParent.offsetLeft + objNavMenu.offsetLeft;
+					yPos = objNavMenu.offsetParent.offsetTop + objNavMenu.offsetParent.offsetHeight;
+					if (isIE) {
+						yPos -= 1;
+						xPos -= 6;
+					}
+					objDropMenu.style.left = xPos + 'px';
+					objDropMenu.style.top = yPos + 'px';
+					objDropMenu.style.visibility = 'visible';
+					prevObjDropMenu = objDropMenu;
+					prevObjNavMenu = objNavMenu;
+				}			
+			}
+			
+			function hideDropMenu() {
+				document.onclick = null;
+				if (prevObjDropMenu) {
+					prevObjDropMenu.style.visibility = 'hidden';
+					prevObjDropMenu = null;
+					prevObjNavMenu.style.color = linkColor;
+					prevObjNavMenu.style.backgroundColor = bgLinkColor;
+				}
+				objNavMenu = null;
+			}
+			
+			function onDropDownMouseOut()
+			{
+				dropDownLive = false;
+				setTimeout('updateLiveDropDown()', 1000);			 
+			}		
+				
+			function updateLiveDropDown()
+			{
+				if (!dropDownLive)
+					hideDropMenu();
+			}			
+		</script>
+<style type="text/css" media="print">
+#TopNav,.footermessage, #mainfooter
+{
+	display:none;
+}
+/*
+#menuBar
+{
+	background-color:blue;
+	position:static;
+	display:block;
+}
+.menuDrop 
+{
+	color:blue;
+	background-color:green;
+	position:absolute;
+	left:0;
+	top:0;
+	display:inline;
+}
+*/
+</style>		
+		<style type="text/css" media="screen"><!--
+body {
+	margin: 0px;
+	padding: 0px;
 }
 
-function lnavSearchSubmit() {
-	if (document.lnavSearch.category_name.selectedIndex == 0 && document.lnavSearch.Keyword.value == '') {
-		return false;
+#page {
+	margin: 10px;
+}
+
+#menuBar {
+	color: #ffffff;
+	font-size: 12px;
+	font-family: verdana, arial, Helvetica, sans-serif;
+	font-weight: normal;
+	text-align: left;
+	display: block;
+	margin-bottom: 10px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	width: 99%;
+	overflow: hidden;
+	vertical-align: middle;
+	border: solid 1px #845238;
+	background-color: #845238;
 	}
-	else {
-		if (document.lnavSearch.Keyword.value != '') document.lnavSearch.as.value = '1';
-		return true;
+
+.menuHeader {
+	color: #ffffff;
+	text-decoration: none;
+	white-space: nowrap;
+	cursor: pointer;
+	padding: 5px;
+	margin: 0px;
+	padding-right: 10px;
+	padding-left: 10px;
+	display: inline;
+	position: relative;
+	border-right: 1px solid #ffffff;
 	}
-}
 
-function goSearch(selObj) {
-	if (selObj.selectedIndex > 0)
-		document.lnavSearch.submit();
-}
+a.menuLink {
+	display: block;
+	padding: 8px 5px;
+	border-top: 1px solid #ba1319
+	}
 
-function mOver(obj) {
-	obj.style.backgroundColor = '#613800';
-}
+a.menuLink:link {
+	color: #845238;
+	text-decoration: none
+	}
 
-function mOut(obj) {
-	obj.style.backgroundColor = '#CF142B';
-}
-//-->
-</script>
-<script language="javascript" src="http://www.famousfootwear.com/template/menu.js"></script>
-<tbody><tr>
-	<td colspan="8" width="800" height="26" align="right">
-		<table cellspacing="0" cellpadding="0" border="0">
+a.menuLink:visited {
+	color: #845238;
+	text-decoration: none
+	}
+
+a.menuLink:hover {
+	color: #ffffff;
+	background-color: #845238;
+	text-decoration: none
+	}
+
+a.menuLink:active {
+	color: #ffffff;
+	text-decoration: none;
+	background-color: #845238;
+	}
+
+.menuDrop {
+	color: #845238;
+	font-size: 10px;
+	font-family: verdana, arial, Helvetica, sans-serif;
+	background-color: #efe9dd;
+	background-repeat: repeat;
+	visibility: hidden;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	z-index: 1000;
+	top: 60px;
+	left: 0;
+	width: auto;
+	height: auto;
+	border-style: solid;
+	border-width: 0 1px 1px;
+	border-color: #ba1319
+	text-align:center;
+	}
+
+--></style>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td align="right" valign="absmiddle" class="brownpipe">
+	<a href="https://secure.famousfootwear.com/login/login.asp" class="topnav">log in</a>&nbsp;|&nbsp;
+	<a href="http://www.famousfootwear.com/basket.asp" class="topnav"><img src="/bdimages/famous/images/cart.gif" width="16" height="18" border="0">&nbsp;view cart</a>&nbsp;|&nbsp;
+	<a href="http://www.famousfootwear.com/Community/CustomerService.asp" class="topnav">customer service</a>&nbsp;|&nbsp;
+	<a href="https://secure.famousfootwear.com/login/login.asp" class="topnav">rewards program</a>
+</td></tr> 
+
+<tr><td>
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
 		<tbody><tr>
-			<td><img src="http://www.famousfootwear.com/images/rArrowRight.gif">&nbsp;<font face="verdana, arial, helvetica, sans-serif" color="#613800" size="1"><a class="NavLinks" href="http://www.famousfootwear.com/basket.asp">View Cart</a></font></td>
-			<td width="20"></td>
-			<td><img src="http://www.famousfootwear.com/images/rArrowRight.gif">&nbsp;<font face="verdana, arial, helvetica, sans-serif" color="#613800" size="1"><a class="NavLinks" href="http://www.famousfootwear.com/services/customer/orders.asp">Track Your Order</a></font></td>
-			<td width="20"></td>
-			<td><img src="http://www.famousfootwear.com/images/rArrowRight.gif">&nbsp;<font face="verdana, arial, helvetica, sans-serif" color="#613800" size="1"><a class="NavLinks" href="http://www.famousfootwear.com/Community/CustomerService.asp">Customer Service</a></font></td>
-			<td width="20"></td>
-			<td><img src="http://www.famousfootwear.com/images/rArrowRight.gif">&nbsp;<font face="verdana, arial, helvetica, sans-serif" color="#613800" size="1"><a class="NavLinks" href="http://famousfootwear.shoplocal.com/famousfootwear/new_user_entry.aspx">Shop Current Ad</a></font></td>
-			<td width="20"></td>
-			<td><img src="http://www.famousfootwear.com/images/rArrowRight.gif">&nbsp;<font face="verdana, arial, helvetica, sans-serif" color="#613800" size="1"><a class="NavLinks" href="https://secure.famousfootwear.com/login/login.asp">REWARDS Login</a></font></td>
+			<td><img src="/bdimages/famous/images/spacer.gif" height="50" width="10" border="0"><a href="http://www.famousfootwear.com/"><img src="/bdimages/famous/images/ff-logo.jpg" width="308" height="50" border="0" alt="Famous Footwear"></a></td>
+			<!--this is the find a store search, should function as it does on current site-->
+			<form name="storeloc" method="post" action="/community/storelocator.asp"></form>
+			<td align="right"><input type="text" name="ZipCode" size="16" value="Enter Zip"><input type="image" src="/bdimages/famous/images/btnfindstore.gif" width="89" height="23" border="0" align="absmiddle"></td>
+			<input type="hidden" name="mode" value="1">
+			
+			<!--this is the find a main site search, should function as it does on current site-->
+			<form name="lnavSearch" onsubmit="return lnavSearchSubmit();" action="/category.asp"></form>
+			<input type="hidden" name="as" value="1">
+			<td align="right"><input type="text" name="Keyword" size="16"><input type="image" src="/bdimages/famous/images/btnSearch.gif" width="58" height="26" border="0" align="absmiddle"></td>
+			
 		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td colspan="5" width="235" bgcolor="#B3C2F0" height="61"><a href="http://www.famousfootwear.com/index.asp"><img src="http://www.famousfootwear.com/images/FF_Logo.gif" border="0"></a></td>
-	<td width="399" height="61" bgcolor="#B3C2F0">
-		<table cellspacing="4" cellpadding="0" border="0" width="100%"><tbody><tr>
-			<form name="lnavSearch" onsubmit="return lnavSearchSubmit();" action="http://www.famousfootwear.com/category.asp" method="GET"></form>
-			<input type="hidden" value="TOPSEARCH" name="searchsource">
-				<td valign="middle">
-					<font face="verdana, arial, helvetica, sans-serif" color="#CF142B" class="NavHeaders"><b>Find Shoes</b><br>
-					<input class="srchTXT" type="text" size="35" name="Keyword"><input type="hidden" name="as" value=""><br>
-					<img src="http://www.famousfootwear.com/images/rArrowRight.gif">&nbsp;<font color="#613800"><a class="NavLinks" href="http://www.famousfootwear.com/advancedsearch.asp">Advanced Search</a></font>
-					</font>
-				</td>
-				<td valign="middle" align="right">
-					<table cellspacing="0" cellpadding="1" border="0">
-						<tbody><tr><td valign="middle"><font size="1" class="srchDD"><select name="category_name" class="srchDD"><option selected="" value="">Choose it!
-</option><option value="Athletics">Athletics</option><option value="Athletics|Boys">&nbsp;Athletics&nbsp;-&nbsp;Boys</option><option value="Athletics|Girls">&nbsp;Athletics&nbsp;-&nbsp;Girls</option><option value="Athletics|Mens">&nbsp;Athletics&nbsp;-&nbsp;Mens</option><option value="Athletics|Womens">&nbsp;Athletics&nbsp;-&nbsp;Womens</option><option value="Kids">Kids</option><option value="Kids|Boys">&nbsp;Kids&nbsp;-&nbsp;Boys</option><option value="Kids|Girls">&nbsp;Kids&nbsp;-&nbsp;Girls</option><option value="Kids|Little Kids">&nbsp;Kids&nbsp;-&nbsp;Little Kids</option><option value="Mens">Mens
-</option><option value="Mens|Boots">&nbsp;Mens&nbsp;-&nbsp;Boots</option><option value="Mens|Casual">&nbsp;Mens&nbsp;-&nbsp;Casual</option><option value="Mens|Dress">&nbsp;Mens&nbsp;-&nbsp;Dress</option><option value="Mens|Sandals">&nbsp;Mens&nbsp;-&nbsp;Sandals</option><option value="Mens|Trend">&nbsp;Mens&nbsp;-&nbsp;Trend</option><option value="Womens">Womens</option><option value="Womens|Boots">&nbsp;Womens&nbsp;-&nbsp;Boots</option><option value="Womens|Casual">&nbsp;Womens&nbsp;-&nbsp;Casual</option><option value="Womens|Dress">&nbsp;Womens&nbsp;-&nbsp;Dress</option><option value="Womens|Sandals">&nbsp;Womens&nbsp;-&nbsp;Sandals
-</option></select></font></td>
-						<td><input type="image" src="http://www.famousfootwear.com/images/redGo.gif" border="0">&nbsp;&nbsp;</td></tr>
-					</tbody></table>
-				</td>
-			
-		</tr></tbody></table>
-	</td>
-	<td bgcolor="#FFFFFF" width="6" height="61"></td>
-	<td width="160" height="61" bgcolor="#CF142B" align="center">
-		<table cellspacing="4" cellpadding="0" border="0"><tbody><tr>
-			<form name="storeloc" method="post" action="http://www.famousfootwear.com/community/storelocator.asp"></form>
-				<td valign="middle"><font color="#FFFFFF" size="1" class="NavHeaders"><b>Find Stores</b><br><input type="text" size="14" name="ZipCode" value="enter zip" onclick="this.select();"><br><a class="searchLink" href="http://www.famousfootwear.com/community/storelocator.asp">More search options</a></font></td>
-				<td valign="middle"><font face="verdana, arial, helvetica, sans-serif" color="#FFFFFF" size="1">&nbsp;<br><a href="javascript:storeLocator();"><img src="http://www.famousfootwear.com/images/whiteGo.gif" border="0"></a><br>&nbsp;<input type="hidden" name="mode" value="1"></font></td>
-			
-		</tr></tbody></table>
-	</td>
-</tr>
-<tr>
-<td colspan="8">
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-	<td width="143" bgcolor="#FFFFFF"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="143" height="18" bgcolor="CF142B" align="center"><font color="#FFFFFF" size="1" class="NavHeaders"><b>Shop By Category »</b></font></td></tr></tbody></table></td>
-	<td width="99" height="24" class="menuLinks" align="center" valign="middle" nowrap="" onmouseover=";return !showMenu('1', event, 'label1'); menuOver('rollimg2');" onmouseout=";window.status='';return true;">
-	<div id="label1">&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.famousfootwear.com/shop/womens.asp" class="menuLinks" hbxrootmenuid="//Womens" hbxrootmenuorientation="down" name="&amp;lid=//Womens">Womens</a>
-		<div id="menu1" style="width:154px;height:172px;position:absolute;z-index:1;visibility:hidden;left:129;top:111" onmouseover="event.cancelBubble=true;">
-			<table width="120" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top">
-				<table border="0" bordercolor="#0A3766" cellspacing="0" cellpadding="0" valign="bottom" align="left"><tbody><tr><td bgcolor="#CF142B" width="100%">
-					<table border="0" cellpadding="2" cellspacing="0" width="100%"><tbody><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell" nowrap=""><font color="#FFFFFF">::::::&nbsp;Womens&nbsp;::::::</font></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Womens%7E%7E1&amp;sc=NewArrivalsW&amp;New=Y" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Womens//NewArrivals">&nbsp;New&nbsp;Arrivals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Athletics%7CWomens%7E%7E1&amp;sc=AthleticsW" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Womens//Athletics">&nbsp;Athletics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Womens%7CBoots%7E%7E1&amp;sc=BootsW" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Womens//Boots">&nbsp;Boots&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Womens%7CCasual%7E%7E1&amp;sc=CasualW" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Womens//Casual">&nbsp;Casual&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Womens%7CDress%7E%7E1&amp;sc=DressW" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Womens//Dress">&nbsp;Dress&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=juniors" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Womens//Juniors">&nbsp;Juniors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Womens%7CSandals%7E%7E1&amp;sc=SandalsW" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Womens//Sandals">&nbsp;Sandals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=womens+wides" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Womens//Wides">&nbsp;Wides&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=womens+narrows" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Womens//Narrows">&nbsp;Narrows&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/shop.asp?ShopID=Backpack%20Shop" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Womens//Backpacks">&nbsp;Backpacks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Accessories%7CSocks%7CWomens&amp;sb=1&amp;sk=1" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Womens//Socks">&nbsp;Socks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuLinks"><font color="#FFFFFF">:::::::::::::::::::::::</font></td></tr></tbody></table>
-				</td></tr></tbody></table>
-			</td></tr></tbody></table>
-		</div>
-	</div>
-	</td>
-	<td width="92" height="24" class="menuLinks" valign="middle" align="center" nowrap="" onmouseover=";return !showMenu('2', event, 'label2'); menuOver('rollimg2');" onmouseout=";window.status='';return true;">
-	<div id="label2"><a href="http://www.famousfootwear.com/shop/mens.asp" class="menuLinks" hbxrootmenuid="//Mens" hbxrootmenuorientation="down" name="&amp;lid=//Mens">Mens</a>
-		<div id="menu2" style="width:154px;height:168px;position:absolute;z-index:1;visibility:hidden;left:229;top:111" onmouseover="event.cancelBubble=true;">
-			<table width="120" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top">
-			      <table border="0" bordercolor="#0A3766" cellspacing="0" cellpadding="0" valign="bottom" align="left"><tbody><tr><td bgcolor="#CF142B" width="100%">
-					<table border="0" cellpadding="2" cellspacing="0" width="100%"><tbody><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell" nowrap=""><font color="#FFFFFF">:::::::&nbsp;Mens&nbsp;:::::::</font></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Mens%7E%7E1&amp;sc=NewArrivalsM&amp;New=Y" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Mens//NewArrivals">&nbsp;New&nbsp;Arrivals&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Athletics%7CMens%7E%7E1&amp;sc=AthleticsM" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Mens//Athletics">&nbsp;Athletics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Mens%7CBoots%7E%7E1&amp;sc=BootsM" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Mens//Boots">&nbsp;Boots&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Mens%7CCasual%7E%7E1&amp;sc=CasualM" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Mens//Casual">&nbsp;Casual&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Mens%7CDress%7E%7E1&amp;sc=DressM" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Mens//Dress">&nbsp;Dress&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Mens%7CSandals%7E%7E1&amp;sc=SandalsM" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Mens//Sandals">&nbsp;Sandals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=mens+wides" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Mens//Wides">&nbsp;Wides&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=mens+narrows" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Mens//Narrows">&nbsp;Narrows&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/shop.asp?ShopID=Backpack%20Shop" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Mens//Backpacks">&nbsp;Backpacks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Accessories%7CSocks%7CMens&amp;sb=1&amp;sk=1" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Mens//Socks">&nbsp;Socks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuLinks"><font color="#FFFFFF">::::::::::::::::::::::</font></td></tr></tbody></table>
-				</td></tr></tbody></table>
-			</td></tr></tbody></table>
-		</div>
-	</div>
-	</td>
-	<td width="92" height="24" class="menuLinks" valign="middle" align="center" nowrap="" onmouseover=";fn_HideItemByIDAndForm('category_name','frmAdvMens');return !showMenu('3', event, 'label3'); menuOver('rollimg2');fn_HideItemByIDAndForm('category_name','frmAdvMens');" onmouseout=";window.status='';fn_ShowItemByIDAndForm('category_name','frmAdvMens');return true;">
-	<div id="label3"><a href="http://www.famousfootwear.com/shop.asp?shopID=JUNIORS" class="menuLinks" hbxrootmenuid="//Juniors" hbxrootmenuorientation="down" name="&amp;lid=//Juniors">Juniors</a>
-		<div id="menu3" style="width:154px;height:168px;position:absolute;z-index:1;visibility:hidden;left:314;top:111" onmouseover="event.cancelBubble=true;fn_HideItemByIDAndForm('category_name','frmAdvMens');" onmouseout="fn_ShowItemByIDAndForm('category_name','frmAdvMens');">
-			<table width="120" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top">
-				<table border="0" bordercolor="#0A3766" cellspacing="0" cellpadding="0" valign="bottom" align="left"><tbody><tr><td bgcolor="#CF142B" width="100%">
-					<table border="0" cellpadding="2" cellspacing="0" width="100%"><tbody><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell" nowrap=""><font color="#FFFFFF">:::::::&nbsp;Juniors&nbsp;:::::::</font></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Juniors%7E%7E1&amp;sc=NewArrivalsJ&amp;New=Y" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Juniors//NewArrivals">&nbsp;New&nbsp;Arrivals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Athletics%7CJuniors%7E%7E1&amp;sc=AthleticsJ" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Juniors//Athletics">&nbsp;Athletics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Juniors%7CBoots%7E%7E1&amp;sc=BootJ" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Juniors//Boots">&nbsp;Boots&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Juniors%7CCasual%7E%7E1&amp;sc=CasualJ" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Juniors//Casual">&nbsp;Casual&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Juniors%7CDress%7E%7E1&amp;sc=DressJ" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Juniors//Dress">&nbsp;Dress&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Juniors%7CSandals%7E%7E1&amp;sc=SandalsJ" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Juniors//Sandals">&nbsp;Sandals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/shop.asp?ShopID=Backpack%20Shop" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Juniors//Backpacks">&nbsp;Backpacks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Accessories%7CSocks%7CWomens&amp;sb=1&amp;sk=1" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Juniors//Socks">&nbsp;Socks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuLinks"><font color="#FFFFFF">:::::::::::::::::::::::::</font></td></tr></tbody></table>
-				</td></tr></tbody></table>
-			</td></tr></tbody></table>
-		</div>
-	</div>
-	</td>
-	<td width="91" height="24" class="menuLinks" align="center" nowrap="" onmouseover=";fn_HideItemByIDAndForm('variant_id','frmProduct');fn_HideItemByIDAndForm('Size_Width','frmProduct');return !showMenu('4', event, 'label4'); menuOver('rollimg2');" onmouseout=";window.status='';fn_ShowItemByIDAndForm('variant_id','frmProduct');fn_ShowItemByIDAndForm('Size_Width','frmProduct');return true;">
-	<div id="label4"><a href="http://www.famousfootwear.com/shop/athletics.asp" class="menuLinks" hbxrootmenuid="//Athletics" hbxrootmenuorientation="down" name="&amp;lid=//Athletics">Athletics</a>
-		<div id="menu4" style="width:154px;height:90px;position:absolute;z-index:1;visibility:hidden;left:401;top:111" onmouseover="event.cancelBubble=true;fn_HideItemByIDAndForm('variant_id','frmProduct');fn_HideItemByIDAndForm('Size_Width','frmProduct');" onmouseout="fn_ShowItemByIDAndForm('variant_id','frmProduct');fn_ShowItemByIDAndForm('Size_Width','frmProduct');">
-			<table width="120" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top">
-				<table border="0" bordercolor="#0A3766" cellspacing="0" cellpadding="0" valign="bottom" align="left"><tbody><tr><td bgcolor="#CF142B" width="100%" valign="top">
-					<table border="0" cellpadding="2" cellspacing="0" width="100%"><tbody><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell" nowrap=""><font color="#FFFFFF">::::::&nbsp;Athletics&nbsp;::::::</font></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Athletics%7E%7E1&amp;sc=NewArrivalsA&amp;New=Y" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//NewArrivals">&nbsp;New&nbsp;Arrivals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Athletics%7CWomens%7E%7E1&amp;sc=AthleticsW" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//Womens">&nbsp;Womens&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Athletics%7CMens%7E%7E1&amp;sc=AthleticsM" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//Mens">&nbsp;Mens&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Athletics%7CBoys&amp;sb=1&amp;sk=1" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//Boys">&nbsp;Boys&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Athletics%7CGirls&amp;sb=1&amp;sk=1" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//Girls">&nbsp;Girls&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=basketball" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//Basketball">&nbsp;Basketball&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=fashion+athletics" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//Fashion">&nbsp;Fashion&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=golf" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//Golf">&nbsp;Golf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/shop.asp?ShopID=Running%20Shoe%20Gu" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//WomensRunning">&nbsp;Womens&nbsp;Running&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/shop.asp?ShopID=mens%20running" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//MensRunning">&nbsp;Mens&nbsp;Running&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=sandals+athletics" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//Sandals">&nbsp;Sandals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=skate" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//Skate">&nbsp;Skate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=trail" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//Trail">&nbsp;Trail&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=walking" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//Walking">&nbsp;Walking&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/shop.asp?ShopID=Backpack%20Shop" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//Backpacks">&nbsp;Backpacks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Accessories&amp;sb=1&amp;sk=1" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Athletics//Socks">&nbsp;Socks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuLinks"><font color="#FFFFFF">:::::::::::::::::::::::::</font></td></tr></tbody></table>
-				</td></tr></tbody></table>
-			</td></tr></tbody></table>
-		</div>
-	</div>
-	</td>
-	<td width="98" height="24" class="menuLinks" align="center" valign="middle" nowrap="" onmouseover=";return !showMenu('5', event, 'label5'); menuOver('rollimg2');" onmouseout=";window.status='';return true;">
-	<div id="label5"><a href="http://www.famousfootwear.com/shop/kids.asp" class="menuLinks" hbxrootmenuid="//Kids" hbxrootmenuorientation="down" name="&amp;lid=//Kids">Kids</a>&nbsp;&nbsp;&nbsp;
-		<div id="menu5" style="width:154px;height:172px;position:absolute;z-index:1;visibility:hidden;left:501;top:111" onmouseover="event.cancelBubble=true;">
-			<table width="120" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top">
-				<table border="0" bordercolor="#0A3766" cellspacing="0" cellpadding="0" valign="bottom" align="left"><tbody><tr><td bgcolor="#CF142B" width="100%">
-					<table border="0" cellpadding="2" cellspacing="0" width="100%"><tbody><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell" nowrap=""><font color="#FFFFFF">::::::&nbsp;Kids&nbsp;::::::</font></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Kids%7E%7E1&amp;sc=NewArrivalsK&amp;New=Y" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Kids//NewArrivals">&nbsp;New&nbsp;Arrivals&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Kids%7CBoys%7E%7E1&amp;sc=KidsB" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Kids//Boys">&nbsp;Boys&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Kids%7CGirls%7E%7E1&amp;sc=KidsG" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Kids//Girls">&nbsp;Girls&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Kids%7CLittle+Kids%7E%7E1&amp;sc=KidsLK" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Kids//LittleKids">&nbsp;Little&nbsp;Kids&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/shop.asp?ShopID=Backpack%20Shop" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Kids//Backpacks">&nbsp;Backpacks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?c=Accessories%7CSocks%7CKids&amp;sb=1&amp;sk=1" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//Kids//Socks">&nbsp;Socks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuLinks"><font color="#FFFFFF">::::::::::::::::::::</font></td></tr></tbody></table>
-				</td></tr></tbody></table>
-			</td></tr></tbody></table>
-		</div>
-	</div>
-	</td>
-	<td width="91" height="24" class="menuLinks" align="center" nowrap="" onmouseover=";fn_HideItemByIDAndForm('category_name','frmAdvWomens');fn_HideItemByIDAndForm('style','frmAdvWomens');fn_HideItemByIDAndForm('size','frmAdvWomens');fn_HideItemByIDAndForm('width','frmAdvWomens');fn_HideItemByIDAndForm('Brand','frmAdvWomens');fn_HideItemByIDAndForm('color','frmAdvWomens');fn_HideItemByIDAndForm('Price','frmAdvWomens');return !showMenu('6', event, 'label6'); menuOver('rollimg2');" onmouseout=";window.status='';fn_ShowItemByIDAndForm('category_name','frmAdvWomens');fn_ShowItemByIDAndForm('style','frmAdvWomens');fn_ShowItemByIDAndForm('size','frmAdvWomens');fn_ShowItemByIDAndForm('width','frmAdvWomens');fn_ShowItemByIDAndForm('Brand','frmAdvWomens');fn_ShowItemByIDAndForm('color','frmAdvWomens');fn_ShowItemByIDAndForm('Price','frmAdvWomens');return true;">
-	<div id="label6"><a href="http://www.famousfootwear.com/shop/brands.asp" class="menuLinks" hbxrootmenuid="//TopBrands" hbxrootmenuorientation="down" name="&amp;lid=//TopBrands">Top Brands</a>&nbsp;&nbsp;&nbsp;&nbsp;
-		<div id="menu6" style="width:154px;height:90px;position:absolute;z-index:1;visibility:hidden;left:576;top:111" onmouseover="event.cancelBubble=true;fn_HideItemByIDAndForm('category_name','frmAdvWomens');fn_HideItemByIDAndForm('style','frmAdvWomens');fn_HideItemByIDAndForm('size','frmAdvWomens');fn_HideItemByIDAndForm('width','frmAdvWomens');fn_HideItemByIDAndForm('Brand','frmAdvWomens');fn_HideItemByIDAndForm('color','frmAdvWomens');fn_HideItemByIDAndForm('Price','frmAdvWomens');" onmouseout="fn_ShowItemByIDAndForm('category_name','frmAdvWomens');fn_ShowItemByIDAndForm('style','frmAdvWomens');fn_ShowItemByIDAndForm('size','frmAdvWomens');fn_ShowItemByIDAndForm('width','frmAdvWomens');fn_ShowItemByIDAndForm('Brand','frmAdvWomens');fn_ShowItemByIDAndForm('color','frmAdvWomens');fn_ShowItemByIDAndForm('Price','frmAdvWomens');">
-			<table width="120" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top">
-				<table border="0" bordercolor="#0A3766" cellspacing="0" cellpadding="0" valign="bottom" align="left"><tbody><tr><td bgcolor="#CF142B" width="100%" height="77">
-					<table border="0" cellpadding="2" cellspacing="0" width="100%"><tbody><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell" nowrap=""><font color="#FFFFFF">::::::&nbsp;Top Brands&nbsp;::::::</font></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=adidas" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Adidas">&nbsp;Adidas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Aerosoles" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Aerosoles">&nbsp;Aerosoles&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Bass" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Bass">&nbsp;Bass&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Buster+Brown" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//BusterBrown">&nbsp;Buster&nbsp;Brown&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Clarks" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Clarks">&nbsp;Clarks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Connie" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Connie">&nbsp;Connie&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Converse" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Converse">&nbsp;Converse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Keds" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Keds">&nbsp;Keds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=KSwiss" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//K-Swiss">&nbsp;K-Swiss&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=LifeStride" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//LifeStride">&nbsp;LifeStride&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Mudd" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Mudd">&nbsp;Mudd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Naturalizer" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Naturalizer">&nbsp;Naturalizer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=New Balance" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//NewBalance">&nbsp;New&nbsp;Balance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Nike" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Nike">&nbsp;Nike&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Rampage" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Rampage">&nbsp;Rampage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Reebok" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Reebok">&nbsp;Reebok&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Report" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Report">&nbsp;Report&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Rockport" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Rockport">&nbsp;Rockport&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Skechers" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Skechers">&nbsp;Skechers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Steve+Madden" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//SteveMadden">&nbsp;Steve&nbsp;Madden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Timberland" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//Timberland">&nbsp;Timberland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=Tommy+Hilfiger" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//TommyHilfiger">&nbsp;Tommy&nbsp;Hilfiger&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><font color="#FFFFFF">:::::::::::::::::::::::::::</font></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/shop/brands.asp" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//TopBrands//ViewAllBrands">&nbsp;View&nbsp;All&nbsp;Brands&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuLinks"><font color="#FFFFFF">:::::::::::::::::::::::::::</font></td></tr></tbody></table>
-				</td></tr></tbody></table>
-			</td></tr></tbody></table>
-		</div>
-	</div>
-	</td>
-	<td width="90" height="24" class="menuLinks" align="center" nowrap="" onmouseover=";return !showMenu('7', event, 'label7'); menuOver('rollimg2');" onmouseout=";window.status='';return true;">
-	<div id="label7">&nbsp;&nbsp;<a href="http://search.famousfootwear.com/?Query=Sale" class="menuLinks" hbxrootmenuid="//OnSale" hbxrootmenuorientation="down" name="&amp;lid=//OnSale">On Sale</a>
-		<div id="menu7" style="width:154px;height:90px;position:absolute;z-index:1;visibility:hidden;left:688;top:111" onmouseover="event.cancelBubble=true;">
-			<table width="120" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="top">
-				<table border="0" bordercolor="#0A3766" cellspacing="0" cellpadding="0" valign="bottom" align="left"><tbody><tr><td bgcolor="#CF142B" width="100%" valign="top">
-					<table border="0" cellpadding="2" cellspacing="0" width="100%"><tbody><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell" nowrap=""><font color="#FFFFFF">::::::&nbsp;On Sale&nbsp;::::::</font></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?category%5Fname=Athletics&amp;OnSale=Y" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//OnSale//Athletic">&nbsp;Athletic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://search.famousfootwear.com/?Query=finds" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//OnSale//FamousFinds">&nbsp;Famous&nbsp;Finds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?category%5Fname=Mens&amp;OnSale=Y" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//OnSale//Mens">&nbsp;Mens&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://famousfootwear.shoplocal.com/famousfootwear/new_user_entry.asp" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//OnSale//OurWeeklyAd">&nbsp;Our&nbsp;Weekly&nbsp;Ad&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?category%5Fname=Womens&amp;OnSale=Y" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//OnSale//Womens">&nbsp;Womens&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuCell"><a class="ddmenuLinks" href="http://www.famousfootwear.com/category.asp?category%5Fname=Kids&amp;OnSale=Y" onmouseout="menuOut('rollimg2');" onmouseover="menuOver('rollimg2');" name="&amp;lid=//OnSale//Kids">&nbsp;Kids&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></td></tr><tr bgcolor="#CF142B"><td onmouseover="mOver(this);" onmouseout="mOut(this);" class="ddmenuLinks"><font color="#FFFFFF">:::::::::::::::::::::::</font></td></tr></tbody></table>
-				</td></tr></tbody></table>
-			</td></tr></tbody></table>
-		</div>
-	</div>
-	</td>
-</tr>
+		<tr><td><img src="/bdimages/famous/images/spacer.gif" border="0" width="10" height="10"></td></tr>
+	</tbody></table>
+</td></tr>
+<tr><td>
+	<table id="TopNav" width="760" height="21" border="0" cellpadding="0" cellspacing="0" align="center" onmouseout="onDropDownMouseOut();">
+		<tbody><tr id="menuBar" onmouseout="onDropDownMouseOut();">
+			<td id="navMenu1">
+				<a href="http://www.famousfootwear.com" onmouseover="changeImages('ff_nav_01', '/bdimages/famous/images/ff-nav_01-over.jpg'); return true;" onmouseout="changeImages('ff_nav_01', '/bdimages/famous/images/ff-nav_01.jpg'); return true;" onmousedown="changeImages('ff_nav_01', '/bdimages/famous/images/ff-nav_01-over.jpg'); return true;" onmouseup="changeImages('ff_nav_01', '/bdimages/famous/images/ff-nav_01-over.jpg'); return true;">
+					<img name="ff_nav_01" src="/bdimages/famous/images/ff-nav_01.jpg" width="74" height="21" border="0" alt=""></a></td>
+			<td id="navMenu2">
+				<a href="http://www.famousfootwear.com/shop/womens.asp" onmouseover="changeImages('ff_nav_02', '/bdimages/famous/images/ff-nav_02-over.jpg'); return true;" onmouseout="changeImages('ff_nav_02', '/bdimages/famous/images/ff-nav_02.jpg'); return true;" onmousedown="changeImages('ff_nav_02', '/bdimages/famous/images/ff-nav_02-over.jpg'); return true;" onmouseup="changeImages('ff_nav_02', '/bdimages/famous/images/ff-nav_02-over.jpg'); return true;">
+					<img name="ff_nav_02" src="/bdimages/famous/images/ff-nav_02.jpg" width="97" height="21" border="0" alt=""></a></td>
+			<td id="navMenu3">
+				<a href="http://www.famousfootwear.com/shop/mens.asp" onmouseover="changeImages('ff_nav_03', '/bdimages/famous/images/ff-nav_03-over.jpg'); return true;" onmouseout="changeImages('ff_nav_03', '/bdimages/famous/images/ff-nav_03.jpg'); return true;" onmousedown="changeImages('ff_nav_03', '/bdimages/famous/images/ff-nav_03-over.jpg'); return true;" onmouseup="changeImages('ff_nav_03', '/bdimages/famous/images/ff-nav_03-over.jpg'); return true;">
+					<img name="ff_nav_03" src="/bdimages/famous/images/ff-nav_03.jpg" width="71" height="21" border="0" alt=""></a></td>
+			<td id="navMenu4">
+				<a href="http://www.famousfootwear.com/shop.asp?shopID=JUNIORS" onmouseover="changeImages('ff_nav_04', '/bdimages/famous/images/ff-nav_04-over.jpg'); return true;" onmouseout="changeImages('ff_nav_04', '/bdimages/famous/images/ff-nav_04.jpg'); return true;" onmousedown="changeImages('ff_nav_04', '/bdimages/famous/images/ff-nav_04-over.jpg'); return true;" onmouseup="changeImages('ff_nav_04', '/bdimages/famous/images/ff-nav_04-over.jpg'); return true;">
+					<img name="ff_nav_04" src="/bdimages/famous/images/ff-nav_04.jpg" width="81" height="21" border="0" alt=""></a></td>
+			<td id="navMenu5">
+				<a href="http://www.famousfootwear.com/shop/athletics.asp" onmouseover="changeImages('ff_nav_05', '/bdimages/famous/images/ff-nav_05-over.jpg'); return true;" onmouseout="changeImages('ff_nav_05', '/bdimages/famous/images/ff-nav_05.jpg'); return true;" onmousedown="changeImages('ff_nav_05', '/bdimages/famous/images/ff-nav_05-over.jpg'); return true;" onmouseup="changeImages('ff_nav_05', '/bdimages/famous/images/ff-nav_05-over.jpg'); return true;">
+					<img name="ff_nav_05" src="/bdimages/famous/images/ff-nav_05.jpg" width="85" height="21" border="0" alt=""></a></td>
+			<td id="navMenu6">
+				<a href="http://www.famousfootwear.com/shop/kids.asp" onmouseover="changeImages('ff_nav_06', '/bdimages/famous/images/ff-nav_06-over.jpg'); return true;" onmouseout="changeImages('ff_nav_06', '/bdimages/famous/images/ff-nav_06.jpg'); return true;" onmousedown="changeImages('ff_nav_06', '/bdimages/famous/images/ff-nav_06-over.jpg'); return true;" onmouseup="changeImages('ff_nav_06', '/bdimages/famous/images/ff-nav_06-over.jpg'); return true;">
+					<img name="ff_nav_06" src="/bdimages/famous/images/ff-nav_06.jpg" width="57" height="21" border="0" alt=""></a></td>
+			<td id="navMenu7">
+				<a href="http://search.famousfootwear.com/?Query=accessories" onmouseover="changeImages('ff_nav_07', '/bdimages/famous/images/ff-nav_07-over.jpg'); return true;" onmouseout="changeImages('ff_nav_07', '/bdimages/famous/images/ff-nav_07.jpg'); return true;" onmousedown="changeImages('ff_nav_07', '/bdimages/famous/images/ff-nav_07-over.jpg'); return true;" onmouseup="changeImages('ff_nav_07', '/bdimages/famous/images/ff-nav_07-over.jpg'); return true;">
+					<img name="ff_nav_07" src="/bdimages/famous/images/ff-nav_07.jpg" width="101" height="21" border="0" alt=""></a></td>
+			<td id="navMenu8">
+				<a href="http://www.famousfootwear.com/shop/brands.asp" onmouseover="changeImages('ff_nav_08', '/bdimages/famous/images/ff-nav_08-over.jpg'); return true;" onmouseout="changeImages('ff_nav_08', '/bdimages/famous/images/ff-nav_08.jpg'); return true;" onmousedown="changeImages('ff_nav_08', '/bdimages/famous/images/ff-nav_08-over.jpg'); return true;" onmouseup="changeImages('ff_nav_08', '/bdimages/famous/images/ff-nav_08-over.jpg'); return true;">
+					<img name="ff_nav_08" src="/bdimages/famous/images/ff-nav_08.jpg" width="109" height="21" border="0" alt=""></a></td>
+			<td id="navMenu9">
+				<a href="http://search.famousfootwear.com/?Query=Sale" onmouseover="changeImages('ff_nav_09', '/bdimages/famous/images/ff-nav_09-over.jpg'); return true;" onmouseout="changeImages('ff_nav_09', '/bdimages/famous/images/ff-nav_09.jpg'); return true;" onmousedown="changeImages('ff_nav_09', '/bdimages/famous/images/ff-nav_09-over.jpg'); return true;" onmouseup="changeImages('ff_nav_09', '/bdimages/famous/images/ff-nav_09-over.jpg'); return true;">
+					<img name="ff_nav_09" src="/bdimages/famous/images/ff-nav_09.jpg" width="85" height="21" border="0" alt=""></a></td>
+		</tr>
+		<tr onmouseover="dropDownLive=true;">
+			<td id="dropMenu1" style="visibility: hidden;"></td>	
+			<td id="dropMenu2" class="menuDrop" style="visibility: hidden;"> 
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens" onfocus="if(this.blur)this.blur();">view all</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens+New+Arrival" onfocus="if(this.blur)this.blur();">new arrivals</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens+Boots" onfocus="if(this.blur)this.blur();">boots</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens+Casual" onfocus="if(this.blur)this.blur();">casual</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens+Dress" onfocus="if(this.blur)this.blur();">dress</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=juniors" onfocus="if(this.blur)this.blur();">juniors</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens+Sandals" onfocus="if(this.blur)this.blur();">sandals</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=womens+wides" onfocus="if(this.blur)this.blur();">wides</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=womens+narrows" onfocus="if(this.blur)this.blur();">narrows</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=backpacks" onfocus="if(this.blur)this.blur();">backpacks</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=socks" onfocus="if(this.blur)this.blur();">socks</a>
+			</td>
+			<td id="dropMenu3" class="menuDrop" style="visibility: hidden;"> 
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens" onfocus="if(this.blur)this.blur();">view all</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+New+Arrival" onfocus="if(this.blur)this.blur();">new arrivals</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+Boots" onfocus="if(this.blur)this.blur();">boots</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+Casual" onfocus="if(this.blur)this.blur();">casual</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+Dress" onfocus="if(this.blur)this.blur();">dress</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+Sandals" onfocus="if(this.blur)this.blur();">sandals</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+wides" onfocus="if(this.blur)this.blur();">wides</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+narrows" onfocus="if(this.blur)this.blur();">narrows</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=backpacks" onfocus="if(this.blur)this.blur();">backpacks</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=socks" onfocus="if(this.blur)this.blur();">socks</a>
+			</td>
+			<td id="dropMenu4" class="menuDrop" style="visibility: hidden;"> 
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=juniors" onfocus="if(this.blur)this.blur();">view all</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=juniors+New+Arrival" onfocus="if(this.blur)this.blur();">new arrivals</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=juniors+Boots" onfocus="if(this.blur)this.blur();">boots</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=juniors+Casual" onfocus="if(this.blur)this.blur();">casual</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=juniors+Dress" onfocus="if(this.blur)this.blur();">dress</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=juniors+Sandals" onfocus="if(this.blur)this.blur();">sandals</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=backpacks" onfocus="if(this.blur)this.blur();">backpacks</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=socks" onfocus="if(this.blur)this.blur();">socks</a>
+			</td>
+			<td id="dropMenu5" class="menuDrop" style="visibility: hidden;"> 
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Athletics" onfocus="if(this.blur)this.blur();">view all</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Athletics+New+Arrival" onfocus="if(this.blur)this.blur();">new arrivals</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Athletics+Womens" onfocus="if(this.blur)this.blur();">women</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Athletics+Mens" onfocus="if(this.blur)this.blur();">men</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Athletics+Boys" onfocus="if(this.blur)this.blur();">boys</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Athletics+Girls" onfocus="if(this.blur)this.blur();">girls</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=basketball" onfocus="if(this.blur)this.blur();">basketball</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=fashion+athletics" onfocus="if(this.blur)this.blur();">fashion</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=golf" onfocus="if(this.blur)this.blur();">golf</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=mens+running" onfocus="if(this.blur)this.blur();">mens running</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=womens+running" onfocus="if(this.blur)this.blur();">womens running</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=sandals+athletics" onfocus="if(this.blur)this.blur();">sandals</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=skate" onfocus="if(this.blur)this.blur();">skate</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=soccer" onfocus="if(this.blur)this.blur();">soccer</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=trail" onfocus="if(this.blur)this.blur();">trail</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=walking" onfocus="if(this.blur)this.blur();">walking</a>
+				<a class="menuLink" href="http://www.famousfootwear.com/shop.asp?ShopID=Backpack%20Shop" onfocus="if(this.blur)this.blur();">backpacks</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Accessories" onfocus="if(this.blur)this.blur();">socks</a>
+			</td>
+			<td id="dropMenu6" class="menuDrop" style="visibility: hidden;"> 
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=kids" onfocus="if(this.blur)this.blur();">view all</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Kids+New+Arrival" onfocus="if(this.blur)this.blur();">new arrivals</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Kids+Boys" onfocus="if(this.blur)this.blur();">boys</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Kids+Girls" onfocus="if(this.blur)this.blur();">girls</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Kids+Little Kids" onfocus="if(this.blur)this.blur();">little kids</a>
+				<a class="menuLink" href="http://www.famousfootwear.com/shop.asp?ShopID=Backpack%20Shop" onfocus="if(this.blur)this.blur();">backpacks</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Accessories+Socks+Kids" onfocus="if(this.blur)this.blur();">socks</a>
+			</td>
+			<td id="dropMenu7" class="menuDrop" style="visibility: hidden;"> 
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Accessories" onfocus="if(this.blur)this.blur();">view all</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Accessories+New+Arrivals" onfocus="if(this.blur)this.blur();">new arrivals</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Accessories+Socks" onfocus="if(this.blur)this.blur();">socks</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Laces" onfocus="if(this.blur)this.blur();">laces</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Shoe+Care+Insoles" onfocus="if(this.blur)this.blur();">shoe care and insoles</a>
+				<a class="menuLink" href="http://www.famousfootwear.com/shop.asp?ShopID=Backpack%20Shop" onfocus="if(this.blur)this.blur();">backpacks</a>
+			</td>
+			<td id="dropMenu8" class="menuDrop" style="visibility: hidden;"> 
+				<a class="menuLink" href="http://www.famousfootwear.com/shop/brands.asp" onfocus="if(this.blur)this.blur();">view all brands</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Adidas" onfocus="if(this.blur)this.blur();">Adidas</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Aerosoles" onfocus="if(this.blur)this.blur();">Aerosoles</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Bass" onfocus="if(this.blur)this.blur();">Bass</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Birkenstock" onfocus="if(this.blur)this.blur();">Birkenstock</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Buster+Brown" onfocus="if(this.blur)this.blur();">Buster Brown</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Clarks" onfocus="if(this.blur)this.blur();">Clarks</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Connie" onfocus="if(this.blur)this.blur();">Connie</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Converse" onfocus="if(this.blur)this.blur();">Converse</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Keds" onfocus="if(this.blur)this.blur();">Keds</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=K-Swiss" onfocus="if(this.blur)this.blur();">K-Swiss</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Lifestride" onfocus="if(this.blur)this.blur();">Lifestride</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mudd" onfocus="if(this.blur)this.blur();">Mudd</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Naturalizer" onfocus="if(this.blur)this.blur();">Naturalizer</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=New+Balance" onfocus="if(this.blur)this.blur();">New Balance</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Nike" onfocus="if(this.blur)this.blur();">Nike</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Rampage" onfocus="if(this.blur)this.blur();">Rampage</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Reebok" onfocus="if(this.blur)this.blur();">Reebok</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Report" onfocus="if(this.blur)this.blur();">Report</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Rockport" onfocus="if(this.blur)this.blur();">Rockport</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Skechers" onfocus="if(this.blur)this.blur();">Skechers</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Steve+Madden" onfocus="if(this.blur)this.blur();">Steve Madden</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Timberland" onfocus="if(this.blur)this.blur();">Timberland</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Tommy+Hilfiger" onfocus="if(this.blur)this.blur();">Tommy Hilfiger</a>
+				<a class="menuLink" href="http://www.famousfootwear.com/shop/brands.asp" onfocus="if(this.blur)this.blur();">view all brands</a>
+			</td>
+				<td id="dropMenu9" class="menuDrop" style="visibility: hidden;"> 
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Athletics+On+Sale" onfocus="if(this.blur)this.blur();">athletic</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=finds" onfocus="if(this.blur)this.blur();">famous finds</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Mens+On+Sale" onfocus="if(this.blur)this.blur();">mens</a>
+				<a class="menuLink" href="http://famousfootwear.shoplocal.com/famousfootwear/default.aspx?action=nuep&amp;" onfocus="if(this.blur)this.blur();">our weekly ad</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Womens+On+Sale" onfocus="if(this.blur)this.blur();">womens</a>
+				<a class="menuLink" href="http://search.famousfootwear.com/?Query=Kids+On+Sale" onfocus="if(this.blur)this.blur();">kids</a>
+			</td>
+		</tr>
+	</tbody></table>
+</td></tr>
 </tbody></table>
-</td>
-</tr>
-
-	<tr>
-		
-<td bgcolor="#B3C2F0" width="143" height="250" valign="top" align="center">
-	
-
-<table cellspacing="0" cellpadding="0" border="0" valign="TOP" width="125" class="leftMenuLinks">
-  <tbody><tr>
-    <td><img height="10" src="/images/shim.gif" width="1"></td>
-  </tr>
-  <tr>
-    <td width="12" valign="top"><img src="/images/bArrowRight.gif" border="0"></td>
-    <td width="101" valign="top"><a class="leftMenuLinks" href="/community/our_company.asp"><b>Our Company</b></a>
-      <table cellspacing="0" cellpadding="0" border="0" width="113" class="leftMenuLinks">
-        <tbody><tr> 
-          <td width="12" valign="top"><font color="#cf142b">-</font></td>
-          <td width="89" valign="top" class="leftMenuLinks"><a class="leftMenuLinks" href="/community/famous_facts.asp">Famous 
-            Facts</a></td>
-        </tr>
-        <tr> 
-          <td width="12" valign="top"><font color="#cf142b">-</font></td>
-          <td width="89" valign="top" class="leftMenuLinks"><a class="leftMenuLinks" href="/community/careers.asp">Careers</a></td>
-        </tr>
-        <tr> 
-          <td width="12" valign="top"><font color="#cf142b">-</font></td>
-          <td width="89" valign="top" class="leftMenuLinks"><a class="leftMenuLinks" href="/shop.asp?shopID=GRAND">Grand 
-            Openings</a></td>
-        </tr>
-        <tr> 
-          <td width="12" valign="top"><font color="#cf142b">-</font></td>
-          <td width="89" valign="top" class="leftMenuLinks"><a class="leftMenuLinks" href="/shop.asp?shopID=Shoe+Crazy">Shoe 
-            Crazy</a></td>
-        </tr>
-        <tr> 
-          <td width="12" valign="top"><font color="#cf142b">-</font></td>
-          <td width="89" valign="top" class="leftMenuLinks"><a class="leftMenuLinks" href="/Community/StoreLocator.asp">Store 
-            Locator</a></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-<table cellspacing="0" cellpadding="0" border="0" valign="TOP" width="125" class="leftMenuLinks"><tbody><tr><td width="125" colspan="2"></td></tr><tr><td><img height="10" src="/images/shim.gif" width="1"></td></tr><tr><td width="12" valign="top"><img src="/images/bArrowRight.gif" border="0"></td>
-    <td width="101" valign="top"><a class="leftMenuLinks" href="/Community/CustomerService.asp"><b>Customer 
-      Service</b></a>
-      <table cellspacing="0" cellpadding="0" border="0" width="113" class="leftMenuLinks">
-        <tbody><tr> 
-          <td width="12" valign="top"><font color="#cf142b">-</font></td>
-          <td width="89" valign="top" class="leftMenuLinks"><a class="leftMenuLinks" href="/shop.asp?ShopID=Fit">Fit 
-            Assistance</a></td>
-        </tr>
-        <tr> 
-          <td width="12" valign="top"><font color="#cf142b">-</font></td>
-          <td width="89" valign="top" class="leftMenuLinks"><a class="leftMenuLinks" href="/privacy_policy.asp">Privacy 
-            Policy</a></td>
-        </tr>
-        <tr> 
-          <td width="12" valign="top"><font color="#cf142b">-</font></td>
-          <td width="89" valign="top" class="leftMenuLinks"><a class="leftMenuLinks" href="/shop/howtoorder.asp">How 
-            To Order</a></td>
-        </tr>
-        <tr> 
-          <td width="12" valign="top"><font color="#cf142b">-</font></td>
-          <td width="89" valign="top" class="leftMenuLinks"><a class="leftMenuLinks" href="/shop/howtoreturn.asp">How 
-            To Return</a></td>
-        </tr>
-        <tr> 
-          <td width="12" valign="top"><font color="#cf142b">-</font></td>
-          <td width="89" valign="top" class="leftMenuLinks"><a class="leftMenuLinks" href="/shop/yourpurchase.asp">Your 
-            Purchase Is Secure</a></td>
-        </tr>
-        <tr> 
-          <td width="12" valign="top"><font color="#cf142b">-</font></td>
-          <td width="89" valign="top" class="leftMenuLinks"><a class="leftMenuLinks" href="/services/customer/orders.asp">Order 
-            Status</a></td>
-        </tr>
-        <tr> 
-          <td width="12" valign="top"><font color="#cf142b">-</font></td>
-          <td width="89" valign="top" class="leftMenuLinks"><a class="leftMenuLinks" href="/community/famous_faq.asp">FAQ</a> 
-            </td>
-        </tr>
-        <tr> 
-          <td width="12" valign="top"><font color="#cf142b">-</font></td>
-          <td width="89" valign="top" class="leftMenuLinks"><a class="leftMenuLinks" href="/sitemap.asp">Site 
-            Map</a></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-<br>
-<a href="http://www.famousfootwear.com/shop.asp?shopID=Email%20Signup"><img src="/bdimages/newshopgrfx/specialshops/shoegiveawaytile1.jpg" border="0"></a><br><br><a href="http://www.famousfootwear.com/GNO"><img src="/bdimages/2006/03_mar/home/gno_tile.jpg" border="0"></a><br><br>
-</td>
-		<td bgcolor="#FFFFFF" width="8" height="250"></td>
-		<!-- bgcolor="#B3C2F0" -->
-		<td width="649" height="250" colspan="6" valign="top" align="center"><table border="0" cellspacing="0" cellpadding="0" width="540" id="Table3">
+</td></tr>
+<!--we would like to change the copy along this next line periodically, eventually we would like a facility to do so provided in the admin site-->
+<tr><td><!--<img src="images/spacer.gif" width="1" height="200" alt="page place holder" border="0">--><table border="0" cellspacing="0" cellpadding="0" width="540" id="Table3">
   <tbody><tr> 
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -547,103 +720,65 @@ function mOut(obj) {
       </font> </td>
   </tr>
 </tbody></table>
-</td>
-	</tr>
-	<tr>
-		<td bgcolor="#FFFFFF" width="800" height="8" colspan="2"></td>
-	</tr>
-		<tr>
-		<td bgcolor="#B3C2F0" width="184" height="119" align="center" valign="middle" colspan="3">
-			<font face="verdana, arial, helvetica, sans-serif" color="#613800" class="NavHeaders">Proud National Sponsor<br><br></font>
-			<a href="http://www.famousfootwear.com/shop.asp?shopID=MOD"><img src="http://www.famousfootwear.com/images/mod.gif" border="0"></a>
-		</td>
-		<td bgcolor="#FFFFFF" width="8" height="119"></td>
-		<td bgcolor="#B3C2F0" width="608" height="119" colspan="4">
-			<table cellspacing="0" cellpadding="2" width="100%">
-			<tbody><tr>
-				<form name="frmEmail" onsubmit="openAddEmail();" method="POST" action="http://wwwdev.famousfootwear.com/shop.asp?ShopID=Email+Signup"></form>
-				<td colspan="10" align="center"><font size="1"><br></font>
-				<table cellspacing="0" cellpadding="0" align="center"><tbody><tr>
-				<td align="right" valign="middle"><font color="#613800" class="navHeaders"><b>Enter your email address to receive special offers and promotions&nbsp;&nbsp;</b><input class="srchTXT" type="text" name="promoEmail" size="16">&nbsp;</font></td>
-				<td valign="middle"><a href="javascript:openAddEmail();document.frmEmail.submit();"><img src="http://www.famousfootwear.com/images/redGo.gif" border="0"></a></td></tr></tbody></table>
-				</td>
-				
-			</tr>
-			<tr>
-				<td width="5" rowspan="2"></td>
-				<td align="right" valign="top" rowspan="2">
-					<font face="verdana, arial, helvetica, sans-serif" color="#CF142B" class="NavHeaders"><br><b>Company Info</b><br><br>
-					<font color="#613800">
-						<a class="NavLinks" href="http://www.famousfootwear.com/community/our_company.asp">Our Company</a>&nbsp;<img src="http://www.famousfootwear.com/images/rArrowLeft.gif"><br>
-						<a class="NavLinks" href="http://www.famousfootwear.com/shop.asp?shopID=GRAND">Grand Openings</a>&nbsp;<img src="http://www.famousfootwear.com/images/rArrowLeft.gif"><br>
-						<a class="NavLinks" href="http://www.famousfootwear.com/shop.asp?shopID=Shoe+Crazy">Shoe Crazy</a>&nbsp;<img src="http://www.famousfootwear.com/images/rArrowLeft.gif"><br>
-						<a class="NavLinks" href="http://www.famousfootwear.com/community/careers.asp">Careers</a>&nbsp;<img src="http://www.famousfootwear.com/images/rArrowLeft.gif"><br>
-						<a class="NavLinks" href="http://www.famousfootwear.com/community/contactus.asp">Contact Us</a>&nbsp;<img src="http://www.famousfootwear.com/images/rArrowLeft.gif"><br>
-					</font>
-					</font>
-				</td>
-				<td width="5" rowspan="2"></td>
-				<td align="right" valign="top" rowspan="2">
-					<font face="verdana, arial, helvetica, sans-serif" color="#CF142B" class="NavHeaders"><br><b>Customer Service</b><br><br>
-					<font color="#613800">
-						<a class="NavLinks" href="http://www.famousfootwear.com/shop/howtoorder.asp">How to order</a>&nbsp;<img src="http://www.famousfootwear.com/images/rArrowLeft.gif"><br>
-						<a class="NavLinks" href="http://www.famousfootwear.com/shop.asp?shopID=Fit">Fit assistance</a>&nbsp;<img src="http://www.famousfootwear.com/images/rArrowLeft.gif"><br>
-						<a class="NavLinks" href="http://www.famousfootwear.com/services/customer/orders.asp">Order Status</a>&nbsp;<img src="http://www.famousfootwear.com/images/rArrowLeft.gif"><br>
-						<a class="NavLinks" href="http://www.famousfootwear.com/shop/howtoreturn.asp">How to return</a>&nbsp;<img src="http://www.famousfootwear.com/images/rArrowLeft.gif"><br>
-						<a class="NavLinks" href="http://www.famousfootwear.com/shop.asp?shopID=Gift+Card">Gift Cards</a>&nbsp;<img src="http://www.famousfootwear.com/images/rArrowLeft.gif"><br>
-						<a class="NavLinks" href="http://www.famousfootwear.com/shop/yourpurchase.asp">Your purchase is secure</a>&nbsp;<img src="http://www.famousfootwear.com/images/rArrowLeft.gif"><br>
-						<a class="NavLinks" href="http://www.famousfootwear.com/privacy_policy.asp">Privacy Policy</a>&nbsp;<img src="http://www.famousfootwear.com/images/rArrowLeft.gif"><br>
-						<a class="NavLinks" href="http://www.famousfootwear.com/community/famous_faq.asp">FAQ</a>&nbsp;<img src="http://www.famousfootwear.com/images/rArrowLeft.gif"><br><br>
-					</font>
-					</font>
-				</td>
-				<td width="5" rowspan="2"></td>
-				<td align="right" valign="top" rowspan="2">
-					<font face="verdana, arial, helvetica, sans-serif" color="#CF142B" class="NavHeaders"><br><b>Site Info</b><br><br>
-					<font color="#613800">
-						<a class="NavLinks" href="http://www.famousfootwear.com/sitemap.asp">Site Map</a>&nbsp;<img src="http://www.famousfootwear.com/images/rArrowLeft.gif"><br>
-					</font>
-					</font>
-				</td>
-				<td width="25"></td>
-				<td>
-					<a href="http://www.bbbonline.org/cks.asp?id=101041610221" target="_blank"><img src="http://www.famousfootwear.com/images/medal_bbonline.gif" border="0"></a>				</td>
-				<td align="middle">
-					<script src="https://seal.verisign.com/getseal?host_name=www.famousfootwear.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>					<br><a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--30048.html" target="bizrate.com"><img src="//images.bizrate.com/medals/dynamic/small/30048_medal.gif" alt="Click here to see ratings" width="113" height="50" align="top" border="0"></a>
-				</td>
-			</tr>
-			<tr>
-				<td colspan="4" align="right">
-					<font face="verdana, arial, helvetica, sans-serif" color="#613800" class="NavHeaders">© Copyright 2006 Famous Footwear&nbsp;</font>
-				</td>
-			</tr>
-			</tbody></table>
-		</td>
-	</tr>
+</td></tr>
+	<tr><td class="footermessage" align="center"><b>more shoes</b> more ways&nbsp;•&nbsp;shop our stores or online&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>always free returns to our stores</b>  •  free ground shipping with $50 purchase or 3 pairs</td></tr>
 <script language="javascript">
 function openAddEmail() {
-document.frmEmail.action = 'http://www.famousfootwear.com/shop.asp?ShopID=Email+Signup&emailaddress=' + document.frmEmail.promoEmail.value
+	document.frmEmail.action = 'http://www.famousfootwear.com/shop.asp?ShopID=Email+Signup&emailaddress=' + document.frmEmail.promoEmail.value
 }
 </script>
 
-	<tr>
-		<td>
-			<img src="images/spacer.gif" width="143" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="8" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="33" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="8" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="43" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="399" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="6" height="1" alt=""></td>
-		<td>
-			<img src="images/spacer.gif" width="160" height="1" alt=""></td>
-	</tr>
+<!--Main footer-->
+<tr id="mainfooter"><td>
+	<table cellpadding="0" cellspacing="0" border="1" bgcolor="#EFE9DD" width="100%" bordercolor="#BA1319">
+	<tbody><tr><td>
+		<table cellpadding="0" cellspacing="0" border="0" bgcolor="#EFE9DD" width="100%">
+			<tbody><tr><td>
+				<!--
+				<td colspan=10 align=center><font size=1><br></font>
+				<table cellspacing=0 cellpadding=0 align=center><tr>
+				<td align=right valign=middle><font color=#613800 class="navHeaders"><b>Enter your email address to receive special offers and promotions&nbsp;&nbsp;</b><input class="srchTXT" type=text name="promoEmail" size="16">&nbsp</font></td>
+				<td valign=middle><img src="/images/redGo.gif" border=0></a></td></tr></table>
+				</td>
+				-->	
+				<form name="frmEmail" onsubmit="openAddEmail();" method="POST" action="/shop.asp?ShopID=Email+Signup">	
+				<table><!--the win free shoes box should capture an email address that is typed in and carry it through to this page
+				http://www.famousfootwear.com/shop.asp?shopID=Email%20Signup (this is how the email blank in the current footer works-->
+					<tbody><tr><td class="redwin" align="center">win free shoes!</td></tr>
+					<tr><td><input type="text" name="promoEmail" size="10"><a href="javascript:openAddEmail();document.frmEmail.submit();"><img src="/bdimages/famous/images/btnarrow.gif" width="22" height="21" border="0" align="absmiddle"></a></td></tr>
+					<tr><td class="brownwin" align="center">join our email list</td></tr>
+				</tbody></table>
+				</form>
+			</td>
+			<td bgcolor="#BA1319"><img src="/bdimages/famous/images/spacer.gif" width="1" height="1" border="0"></td>
+			<td valign="center">
+				<table>
+					<tbody><tr><td align="center" class="brownpipe">
+					<a href="http://www.famousfootwear.com/shop/howtoorder.asp" class="footer">shipping</a>&nbsp;|&nbsp;
+					<a href="http://www.famousfootwear.com/services/customer/orders.asp" class="footer">order status</a>&nbsp;|&nbsp;
+					<a href="http://www.famousfootwear.com/shop/howtoreturn.asp" class="footer">returns</a>&nbsp;|&nbsp;
+					<a href="http://www.famousfootwear.com/shop.asp?shopID=Gift+Card" class="footer">gift cards</a>&nbsp;|&nbsp;
+					<a href="http://www.famousfootwear.com/shop.asp?shopID=Events" class="footer">store events</a>&nbsp;|&nbsp;
+					<a href="http://www.famousfootwear.com/Community/CustomerService.asp" class="footer">customer service</a>&nbsp;|&nbsp;
+					<a href="http://www.famousfootwear.com/community/contactus.asp" class="footer">contact us</a>
+					</td></tr>
+					<tr><td align="center" class="brownpipe">
+					<a href="http://www.famousfootwear.com/community/our_company.asp" class="footer">about us</a>&nbsp;|&nbsp;
+					<a href="http://www.famousfootwear.com/shop.asp?ShopID=MOD" class="footer">March of Dimes</a>&nbsp;|&nbsp;
+					<a href="http://www.famousfootwear.com/community/careers.asp" class="footer">careers</a>&nbsp;|&nbsp;
+					<a href="http://www.famousfootwear.com/shop/yourpurchase.asp" class="footer">security</a>&nbsp;|&nbsp;
+					<a href="http://www.famousfootwear.com/privacy_policy.asp" class="footer">privacy</a>&nbsp;|&nbsp;
+					<a href="http://www.famousfootwear.com/community/famous_faq.asp" class="footer">FAQ</a>&nbsp;|&nbsp;
+					<a href="http://www.famousfootwear.com/sitemap.asp" class="footer">site map</a>
+					</td></tr>
+				</tbody></table>
+			</td>						 
+			<td valign="center"><a href="http://www.bizrate.com/merchant/coe__mid--30048.html" target="_blank"><img src="/bdimages/famous/images/bizrate_coe.jpg" width="81" height="41" border="0"></a></td></tr>
+		</tbody></table>
+	</td></tr>
+	</tbody></table>
+</td></tr>
+<tr><td align="right" class="copyright">© Copyright 2006 Famous Footwear</td></tr>
 </tbody></table>
 <!-- HITBOX INCLUDE CODE -->
 <!-- /privacy_policy.asp -->
@@ -691,6 +826,8 @@ hbx.hrf="";
 hbx.pec="";
 </script><script language="javascript1.1" defer="" src="HTTP://www.famousfootwear.com/hitbox/hbx.js"></script><!-- END HITBOX CODE-->
 <!-- END HITBOX INCLUDE -->
+<script language="javascript">function shoes_onLoad() { }</script>
+</div>
 
-<!--[STLWEB-PRD16]-->
+<!--[STLWEB-PRD15]-->
 </body></html>
