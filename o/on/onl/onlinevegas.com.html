@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the onlinevegas.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615173940id_/http%3A//onlinevegas.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlinevegas.com privacy policy that was archived on 2006-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061019001407id_/http%3A//onlinevegas.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript">
 <!--
-if((self.location==top.location)&&(document.domain.indexOf('onlinevegas.com') != -1)) document.location='http://onlinevegas.com/welcome.php?pf=%2Fprivacy.php';
+if((self.location==top.location)&&(document.domain.indexOf('onlinevegas.com') != -1)) document.location='http://www.onlinevegas.com/welcome.php?pf=%2Fprivacy.php';
 //-->
 </script>
 
@@ -129,8 +129,8 @@ function adjust() {
 			var dy=Math.abs(window.pageYOffset+floatY-lastY);
 			var d=Math.sqrt(dx*dx+dy*dy);
 			var c=Math.round(d/10);
-			// if (window.pageXOffset+floatX>lastX) {lastX=lastX+delayspeed+c;}
-			// if (window.pageXOffset+floatX<lastX) {lastX=lastX-delayspeed-c;}
+			if (window.pageXOffset+floatX>lastX) {lastX=lastX+delayspeed+c;}
+			if (window.pageXOffset+floatX<lastX) {lastX=lastX-delayspeed-c;}
 			if (window.pageYOffset+floatY>lastY) {lastY=lastY+delayspeed+c;}
 			if (window.pageYOffset+floatY<lastY) {lastY=lastY-delayspeed-c;}
 		}
@@ -155,8 +155,8 @@ function adjust() {
 			var dy=Math.abs(document.body.scrollTop+floatY-lastY);
 			var d=Math.sqrt(dx*dx+dy*dy);
 			var c=Math.round(d/10);
-			// if (document.body.scrollLeft+floatX>lastX) {lastX=lastX+delayspeed+c;}
-			// if (document.body.scrollLeft+floatX<lastX) {lastX=lastX-delayspeed-c;}
+			if (document.body.scrollLeft+floatX>lastX) {lastX=lastX+delayspeed+c;}
+			if (document.body.scrollLeft+floatX<lastX) {lastX=lastX-delayspeed-c;}
 			if (document.body.scrollTop+floatY>lastY) {lastY=lastY+delayspeed+c;}
 			if (document.body.scrollTop+floatY<lastY) {lastY=lastY-delayspeed-c;}
 		}
@@ -170,6 +170,22 @@ function adjust() {
 }
 
 function define(){
+	// get pos of logo_bottom.gif
+	if (NS4 || NS6){
+		xPos=eval('document.logo').x;
+		yPos=eval('document.logo').y;
+	}else if (IE4){
+		xPos = eval('document.logo').offsetLeft;
+		tempEl = eval('document.logo').offsetParent;
+		while (tempEl != null) {
+			xPos += tempEl.offsetLeft;
+			tempEl = tempEl.offsetParent;
+		}
+	}
+	
+	ifloatX=xPos+510;
+	ifloatY=floatY;
+
 	if ((NS4) || (NS6)){ 
 		if (halign=="left") {floatX=ifloatX};
 		if (halign=="right") {floatX=window.innerWidth-ifloatX-layerwidth-20};
@@ -478,7 +494,7 @@ function define(){
 		<td bgcolor="#57007A"><img src="/images/spacer.gif" width="1" height="1" alt=""></td>
 		<td align="center" bgcolor="#000023">
 			<img src="/images/spacer.gif" width="704" height="3" alt=""><br>
-			<span class="copyright">Copyright © 2006 Online Vegas Casino. All Rights Reserved. Webmasters, remember to join our <a class="copyright" href="http://www.allstaraffiliates.com" target="_blank">Casino Affiliate Program</a>!<br>Read our <a href="/privacy.php">Privacy Statement</a>.</span><br>
+			<span class="copyright">Copyright © 2006 Online Vegas Casino  . All Rights Reserved. Webmasters, remember to join our <a class="copyright" href="http://www.allstaraffiliates.com" target="_blank">Casino Affiliate Program</a>!<br>Read our <a href="/privacy.php">Privacy Statement</a>.</span><br>
 			<img src="/images/spacer.gif" width="704" height="3" alt=""><br>
 		</td>
 		<td bgcolor="#57007A"><img src="/images/spacer.gif" width="1" height="1" alt=""></td>
@@ -505,22 +521,6 @@ if (NS4){
 if ((IE4) || (NS6)){
 	document.write('</DIV>');
 }
-
-// get pos of logo_bottom.gif
-if (NS4 || NS6){
-	xPos=eval('document.logo').x;
-	yPos=eval('document.logo').y;
-}else if (IE4){
-	xPos = eval('document.logo').offsetLeft;
-	tempEl = eval('document.logo').offsetParent;
-	while (tempEl != null) {
-		xPos += tempEl.offsetLeft;
-		tempEl = tempEl.offsetParent;
-	}
-}
-
-ifloatX=xPos+510;
-ifloatY=floatY;
 
 define();
 window.onresize=define;
