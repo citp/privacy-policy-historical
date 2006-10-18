@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317145725id_/http%3A//www.forzieri.com/usa/help/help_privacy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018203844id_/http%3A//www.forzieri.com/usa/help/help_privacy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
 
 # FORZIERI Privacy Guarantee
 
@@ -48,7 +48,8 @@ If we do not respond to your inquiry or do not address it in a satisfactory mann
 To process your order, we require your name, billing address, phone number, e-mail address, shipping address and credit card information. We use this information solely to process your order and, if any questions should arise, to contact you about your order. In general, we will try to contact you first by e-mail and only if that fails, or if time is critical, will we try to contact you by phone. We process your orders ourselves, in house, and thus the sharing of this information is usually non-existent with any third parties. However, when we have to share this information, it will only be that information which is absolutely necessary, with those third parties that may be involved in the processing of your order in the future. For example, the financial institution that issued your credit card and the shipping carrier that delivers your order. Any sharing of personal information will be only with service providers (such as banks, credit card verifiers, etc.) in processing orders. When making a payment via the Paypal option be aware that you will be entering your personal and financial information on the Paypal website even though the Forzieri logo frames the top of the page. This for ease of navigation back to the Forzieri site. For information provided on the Paypal web site please refer to Paypal’s Privacy Policy. None of the information provided by the user to Paypal is shared back to the Forzieri site as all necessary information to process the order are already provided by the user to Forzieri before the payment. Paypal simply communicates to Forzieri the approval or not to accept the purchase. 
 
 **via "Contact Us" E-mails**  
-Should you decide to contact us through one of our e-mail addresses for a suggestion or problem via the Contact US form, you will be supplying your name and e-mail address and we will only use that information to send you a prompt reply.
+Should you decide to contact us through one of our e-mail addresses for a suggestion or problem via the Contact US form, you will be supplying your name and e-mail address and we will only use that information to send you a prompt reply.  
+Service related or confirmation emails disclosure: because these emails are related to the service and are not promotional in nature, generally there is not opt-out or unsubscribe provided. Example is sending user name and password when a user registers for the first time.
 
 **via Forzieri Privileges Club**  
 If you sign up to become a member of our Forzieri Privileges Club, we will send an e-mail newsletter with our announcements and special offers from time to time until you decide to unsubscribe. Subscription to our newsletter is optional and requires your consent via our [Forzieri Privileges Club Page](http://www.forzieri.com/usa/privclub.asp?l=usa&c=usa) or by visiting our store in person and signing up. In order to unsubscribe from our newsletter, please [send us an email](http://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=M) with UNSUBSCRIBE in the subject.
@@ -84,7 +85,7 @@ If you entered our site by clicking a link on one of our affiliate web sites, we
 
 **Sharing of Information**
 
-It is our privacy policy here at Forzieri to respect the privacy of our visitors to the utmost of our ability. We do not share your personally identifiable information with any other entities other than the necessary third parties in the normal processing of your orders.
+It is our privacy policy here at Forzieri to respect the privacy of our visitors to the utmost of our ability. We do not share your personally identifiable information with any other entities other than the necessary third parties in the normal processing of your orders. These third parties are prohibited from using your personally identifiable information for any secondary purposes.
 
 **Security**
 
