@@ -1,0 +1,1155 @@
+<!--The following is the downloaded HTML source of the garnethill.com privacy policy that was archived on 2006-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061018201013id_/http%3A//www.garnethill.com/jump.jsp%3FitemID%3D2344%26itemType%3DCATEGORY%26path%3D1%252C2%252C2333%252C2344) for the most accurate reproduction.-->
+
+<html><head><script language="JavaScript">
+    var isNav, isIE;
+    if(parseInt(navigator.appVersion) >= 4) {
+      if(navigator.appName == "Netscape")
+        isNav = true
+      else
+        isIE = true;
+    }
+
+    /* checks while typing*/
+    function maxlengthCheck(txt, evtThis, maxlength){
+      if(txt.value.length >= maxlength){
+        if (isIE)
+          event.keyCode = 0 // IE
+        else
+          return false;  // Netscape
+        maxlengthHack(txt, maxlength);
+        return false;
+      }
+    }
+
+    /* checks for pasted in text, etc*/
+    function maxlengthHack(txt, maxlength){
+      if(txt.value.length >= maxlength){
+        txt.value = txt.value.substring(0,maxlength);
+      }
+    }
+</script>
+
+<script language="JavaScript">
+// Disable edit cell tab.
+   parent.editCell.className    = "tab-button-dis";
+//   parent.parent.frames('toolbarbottom').altButtons.style.display = "none";
+
+function saveForm() {
+    location.replace("/admin/displayeditcell.do?action=save");
+}
+
+   function editCell(ruleID, itemID, slotID, itemType) {
+        parent.editDisplay.className     = "tab-button";
+        if(typeof(parent.displayRules)!="undefined") {
+            parent.displayRules.className = "tab-button";
+        }
+        parent.editCell.className    = "tab-button-on";
+
+        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
+//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<title>Garnet Hill</title>
+<link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
+<script src="/includes/flyopen.js"></script>
+<script src="/includes/rollover.js"></script>
+<script src="/includes/cleartext.js"></script>
+<script language="javascript">
+arImageList = new Array ();
+arSubImageList = new Array ();
+
+function preLoadCatImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           arImageList[loop] = new Image();
+           arImageList[loop].src = images_array[loop];
+	}
+}
+function preLoadSubCatImages(images_array) {
+	for(loop = 0; loop < images_array.length; loop++)
+	{
+           arSubImageList[loop] = new Image();
+           arSubImageList[loop].src = images_array[loop];
+	}
+}
+function changeCat(frm, thisbox) {
+   var optiontxt = thisbox.options[thisbox.selectedIndex].value;
+   if (optiontxt == "0"){
+        return;
+    }
+    location.href = optiontxt
+}
+function countCharacters(field,maxlimit) {
+	if (field.value.length > maxlimit-1) {
+		field.value = field.value.substring(0, maxlimit);       
+		//alert("Sorry, maximum characters is "+maxlimit+"!");
+	}
+}
+function openHelp() {
+    window.open( 'http://gh.live.egain.com/wcscgi/CDM.exe?SS_COMMAND=CUST_SUP&Category=CS&mode=FullWindow', 'help', 'width=275,height=480,scrollbars=yes,toolbar=no')
+}
+// returns an object if it exists in the current DOM displayed, or null if it doesn't
+function buildObj(sObject){
+		// if netscape build the correct path to the element in the DOM
+		if (!document.all){
+			var aObjTree = sObject.split("."); // split and store the ie version of the DOM tree
+			var sTree = "";
+
+			// when the tree is long, construct a new tree out of the split apart ie tree
+			if (aObjTree.length > 1){
+				for (var i=0; i<aObjTree.length; i++){
+					if ((i+1)%2 == 0) sTree += ".document."; // inserts ref to the DOM document
+					if (i < aObjTree.length -1) sTree += aObjTree[i]; // skips the last element
+				}
+
+			// just start a basic NS tree
+			} else sTree += "document.";
+
+			// reconstruct the sObject for a correct NS path to the element
+			sObject = (sTree + "getElementById('"+ aObjTree[aObjTree.length -1] +"')");
+		}
+
+		// return the element or null if it doesn't exist
+		return oCreatedObj = (eval("typeof("+sObject+")") != "undefined")? (eval(sObject)):null;
+	}
+</script>
+<script type="text/javascript" src="/menu/milonic_src.js"></script>
+<script type="text/javascript">
+<!--
+if(ns4)_d.write("<scr"+"ipt language=JavaScript src=/menu/mmenuns4.js><\/scr"+"ipt>");
+  else _d.write("<scr"+"ipt language=JavaScript src=/menu/mmenudom.js><\/scr"+"ipt>");
+ -->
+</script>
+
+
+
+
+<script type="text/javascript">
+
+/*
+Milonic DHTML Menu - JavaScript Website Navigation System.
+Copyright 2004 (c) Milonic Solutions Limited. All Rights Reserved.
+Version 5+ Data File structure is the property of Milonic Solutions Ltd and must only be used in Milonic DHTML Products
+This is a commercial software product, please visit http://www.milonic.com/ for more information.
+See http://www.milonic.com/license.php for Commercial License Agreement
+All Copyright statements must always remain in place in all files at all times
+*******  PLEASE NOTE: THIS IS NOT FREE SOFTWARE, IT MUST BE LICENSED FOR ALL USE  *******
+*/
+
+_menuCloseDelay=450           // The time delay for menus to remain visible on mouse out
+_menuOpenDelay=80            // The time delay before menus open on mouse over
+_subOffsetTop=0               // Sub menu top offset
+_subOffsetLeft=-15            // Sub menu left offset
+
+with(menuStyle=new mm_style()){
+itemwidth=100;
+onclass="menuItemOn";
+offclass="menuItemOff";
+onbgcolor="#FFFFFF";
+oncolor="#000000";
+onborder='1px solid #000000';
+offbgcolor="#FFFFFF";
+offcolor="#000000";
+offborder='1px solid #000000';
+bordercolor="#000000";
+borderstyle="solid";
+borderwidth=1;
+separatorcolor="#FFFAF5";
+separatorsize="0";
+fontsize="11px";
+fontstyle="normal";
+fontfamily="Verdana, Tahoma, Arial";
+pagebgcolor="#FFFAF5";
+headercolor="#FFFFFF";
+headerbgcolor="#ffffff";
+subimagepadding="0";
+overfilter="Fade(duration=0.0);Alpha(opacity=100);";
+outfilter="randomdissolve(duration=0.0)";
+}
+with(menuStyle4477=new mm_style()){
+itemwidth=96;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle5=new mm_style()){
+itemwidth=96;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle4322=new mm_style()){
+itemwidth=96;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle2773=new mm_style()){
+itemwidth=96;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle4611=new mm_style()){
+itemwidth=96;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle2425=new mm_style()){
+itemwidth=96;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle9140=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle7488=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle7489=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle7490=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle7144=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle9126=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle9170=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle9017=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle9018=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle9019=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle9020=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle5429=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle7355=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle5430=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle9042=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle8577=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle9125=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle8801=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle8802=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle8803=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle8804=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle8809=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle8806=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle8807=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle8808=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle9162=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle8810=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle8968=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle9101=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle9117=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle5857=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle5859=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle5856=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle5860=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle7416=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle6671=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle7454=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle8667=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(menuStyle8668=new mm_style()){
+itemwidth=133;onclass="menuItemOn";offclass="menuItemOff";onbgcolor="#FFFFFF";offbgcolor="#FFFFFF";bordercolor="#999999";borderstyle="solid";borderwidth="1";}
+with(milonic=new menuname("Menu4477")){
+style=menuStyle4477;
+top=-36;
+aI("image=/images/us/global/globalnav/globalnav01_on.gif;url=http://www.garnethill.com/jump.jsp?itemType=CATEGORY&itemID=4477&path=1%2C2%2C4477;");
+aI("text=Eileen Fisher Apparel;showmenu=Menu9140;url=http://www.garnethill.com/jump.jsp?itemID=9140&itemType=CATEGORY&path=1%2C2%2C4477%2C9140;");
+aI("text=Apparel & Accessories;showmenu=Menu7488;url=http://www.garnethill.com/jump.jsp?itemID=7488&itemType=CATEGORY&path=1%2C2%2C4477%2C7488;");
+aI("text=Intimates;showmenu=Menu7489;url=http://www.garnethill.com/jump.jsp?itemID=7489&itemType=CATEGORY&path=1%2C2%2C4477%2C7489;");
+aI("text=Footwear;showmenu=Menu7490;url=http://www.garnethill.com/jump.jsp?itemID=7490&itemType=CATEGORY&path=1%2C2%2C4477%2C7490;");
+aI("text=Sleepwear;showmenu=Menu7144;url=http://www.garnethill.com/jump.jsp?itemID=7144&itemType=CATEGORY&path=1%2C2%2C4477%2C7144;");
+}
+with(milonic=new menuname("Menu5")){
+style=menuStyle5;
+top=-36;
+aI("image=/images/us/global/globalnav/globalnav02_on.gif;url=http://www.garnethill.com/jump.jsp?itemType=CATEGORY&itemID=5&path=1%2C2%2C5;");
+aI("text=New Arrivals;showmenu=Menu9116;url=http://www.garnethill.com/jump.jsp?itemID=9116&itemType=CATEGORY&path=1%2C2%2C5%2C9116;");
+aI("text=Eileen Fisher Home;showmenu=Menu9126;url=http://www.garnethill.com/jump.jsp?itemID=9126&itemType=CATEGORY&path=1%2C2%2C5%2C9126;");
+aI("text=Holiday;showmenu=Menu9170;url=http://www.garnethill.com/jump.jsp?itemID=9170&itemType=CATEGORY&path=1%2C2%2C5%2C9170;");
+aI("text=Sheets;showmenu=Menu9017;url=http://www.garnethill.com/jump.jsp?itemID=9017&itemType=CATEGORY&path=1%2C2%2C5%2C9017;");
+aI("text=Bedding Basics;showmenu=Menu9018;url=http://www.garnethill.com/jump.jsp?itemID=9018&itemType=CATEGORY&path=1%2C2%2C5%2C9018;");
+aI("text=Coverlets, Quilts & Shams;showmenu=Menu9019;url=http://www.garnethill.com/jump.jsp?itemID=9019&itemType=CATEGORY&path=1%2C2%2C5%2C9019;");
+aI("text=Blankets & Throws;showmenu=Menu9020;url=http://www.garnethill.com/jump.jsp?itemID=9020&itemType=CATEGORY&path=1%2C2%2C5%2C9020;");
+aI("text=Bath;showmenu=Menu5429;url=http://www.garnethill.com/jump.jsp?itemID=5429&itemType=CATEGORY&path=1%2C2%2C5%2C5429;");
+aI("text=Rugs;showmenu=Menu7355;url=http://www.garnethill.com/jump.jsp?itemID=7355&itemType=CATEGORY&path=1%2C2%2C5%2C7355;");
+aI("text=Home Accessories;showmenu=Menu5430;url=http://www.garnethill.com/jump.jsp?itemID=5430&itemType=CATEGORY&path=1%2C2%2C5%2C5430;");
+aI("text=Curtains, Pillows & Table Linens;showmenu=Menu9042;url=http://www.garnethill.com/jump.jsp?itemID=9042&itemType=CATEGORY&path=1%2C2%2C5%2C9042;");
+aI("text=Furniture;showmenu=Menu8577;url=http://www.garnethill.com/jump.jsp?itemID=8577&itemType=CATEGORY&path=1%2C2%2C5%2C8577;");
+aI("text=Garnet Hill Laundry Care;showmenu=Menu9056;url=http://www.garnethill.com/jump.jsp?itemID=9056&itemType=CATEGORY&path=1%2C2%2C5%2C9056;");
+}
+with(milonic=new menuname("Menu4322")){
+style=menuStyle4322;
+top=-36;
+aI("image=/images/us/global/globalnav/globalnav03_on.gif;url=http://www.garnethill.com/jump.jsp?itemType=CATEGORY&itemID=4322&path=1%2C2%2C4322;");
+aI("text=Fashion Forecast;showmenu=Menu9125;url=http://www.garnethill.com/jump.jsp?itemID=9125&itemType=CATEGORY&path=1%2C2%2C4322%2C9125;");
+aI("text=Toddler Girls (6 mos.-3T);showmenu=Menu8801;url=http://www.garnethill.com/jump.jsp?itemID=8801&itemType=CATEGORY&path=1%2C2%2C4322%2C8801;");
+aI("text=Little Girls (4-6X);showmenu=Menu8802;url=http://www.garnethill.com/jump.jsp?itemID=8802&itemType=CATEGORY&path=1%2C2%2C4322%2C8802;");
+aI("text=Girls (7-12);showmenu=Menu8803;url=http://www.garnethill.com/jump.jsp?itemID=8803&itemType=CATEGORY&path=1%2C2%2C4322%2C8803;");
+aI("text=Big Girls (14-16);showmenu=Menu8804;url=http://www.garnethill.com/jump.jsp?itemID=8804&itemType=CATEGORY&path=1%2C2%2C4322%2C8804;");
+aI("text=Girls' Shoes;showmenu=Menu8809;url=http://www.garnethill.com/jump.jsp?itemID=8809&itemType=CATEGORY&path=1%2C2%2C4322%2C8809;");
+aI("text=Toddler Boys (6 mos.-3T);showmenu=Menu8806;url=http://www.garnethill.com/jump.jsp?itemID=8806&itemType=CATEGORY&path=1%2C2%2C4322%2C8806;");
+aI("text=Little Boys (4-6);showmenu=Menu8807;url=http://www.garnethill.com/jump.jsp?itemID=8807&itemType=CATEGORY&path=1%2C2%2C4322%2C8807;");
+aI("text=Boys (7-12);showmenu=Menu8808;url=http://www.garnethill.com/jump.jsp?itemID=8808&itemType=CATEGORY&path=1%2C2%2C4322%2C8808;");
+aI("text=Big Boys (14-18);showmenu=Menu9162;url=http://www.garnethill.com/jump.jsp?itemID=9162&itemType=CATEGORY&path=1%2C2%2C4322%2C9162;");
+aI("text=Boys' Shoes;showmenu=Menu8810;url=http://www.garnethill.com/jump.jsp?itemID=8810&itemType=CATEGORY&path=1%2C2%2C4322%2C8810;");
+aI("text=Lilly Pulitzer;showmenu=Menu8805;url=http://www.garnethill.com/jump.jsp?itemID=8805&itemType=CATEGORY&path=1%2C2%2C4322%2C8805;");
+aI("text=Patagonia&#174;showmenu=Menu8968;url=http://www.garnethill.com/jump.jsp?itemID=8968&itemType=CATEGORY&path=1%2C2%2C4322%2C8968;");
+aI("text=Ralph Lauren;showmenu=Menu9101;url=http://www.garnethill.com/jump.jsp?itemID=9101&itemType=CATEGORY&path=1%2C2%2C4322%2C9101;");
+aI("text=Buy More & Save;showmenu=Menu9117;url=http://www.garnethill.com/jump.jsp?itemID=9117&itemType=CATEGORY&path=1%2C2%2C4322%2C9117;");
+}
+with(milonic=new menuname("Menu2773")){
+style=menuStyle2773;
+top=-36;
+aI("image=/images/us/global/globalnav/globalnav04_on.gif;url=http://www.garnethill.com/jump.jsp?itemType=CATEGORY&itemID=2773&path=1%2C2%2C2773;");
+aI("text=New Arrivals;showmenu=Menu9096;url=http://www.garnethill.com/jump.jsp?itemID=9096&itemType=CATEGORY&path=1%2C2%2C2773%2C9096;");
+aI("text=Bedding;showmenu=Menu5857;url=http://www.garnethill.com/jump.jsp?itemID=5857&itemType=CATEGORY&path=1%2C2%2C2773%2C5857;");
+aI("text=Furnishings;showmenu=Menu5859;url=http://www.garnethill.com/jump.jsp?itemID=5859&itemType=CATEGORY&path=1%2C2%2C2773%2C5859;");
+aI("text=Bath;showmenu=Menu5856;url=http://www.garnethill.com/jump.jsp?itemID=5856&itemType=CATEGORY&path=1%2C2%2C2773%2C5856;");
+aI("text=Fun Accessories;showmenu=Menu5860;url=http://www.garnethill.com/jump.jsp?itemID=5860&itemType=CATEGORY&path=1%2C2%2C2773%2C5860;");
+}
+with(milonic=new menuname("Menu4611")){
+style=menuStyle4611;
+top=-36;
+aI("image=/images/us/global/globalnav/globalnav05_on.gif;url=http://www.garnethill.com/jump.jsp?itemType=CATEGORY&itemID=4611&path=1%2C2%2C4611;");
+aI("text=New Arrivals;showmenu=Menu9189;url=http://www.garnethill.com/jump.jsp?itemID=9189&itemType=CATEGORY&path=1%2C2%2C4611%2C9189;");
+aI("text=Gifts for the Holidays;showmenu=Menu9173;url=http://www.garnethill.com/jump.jsp?itemID=9173&itemType=CATEGORY&path=1%2C2%2C4611%2C9173;");
+aI("text=Gifts for Kids;showmenu=Menu9174;url=http://www.garnethill.com/jump.jsp?itemID=9174&itemType=CATEGORY&path=1%2C2%2C4611%2C9174;");
+aI("text=Gifts for Men;showmenu=Menu8891;url=http://www.garnethill.com/jump.jsp?itemID=8891&itemType=CATEGORY&path=1%2C2%2C4611%2C8891;");
+aI("text=Gifts for Women;showmenu=Menu9175;url=http://www.garnethill.com/jump.jsp?itemID=9175&itemType=CATEGORY&path=1%2C2%2C4611%2C9175;");
+aI("text=Baby Shower Gifts;showmenu=Menu8961;url=http://www.garnethill.com/jump.jsp?itemID=8961&itemType=CATEGORY&path=1%2C2%2C4611%2C8961;");
+aI("text=Shower & Wedding Gifts;showmenu=Menu8889;url=http://www.garnethill.com/jump.jsp?itemID=8889&itemType=CATEGORY&path=1%2C2%2C4611%2C8889;");
+aI("text=Housewarming Gifts;showmenu=Menu9152;url=http://www.garnethill.com/jump.jsp?itemID=9152&itemType=CATEGORY&path=1%2C2%2C4611%2C9152;");
+aI("text=Gift Cards;showmenu=Menu6156;url=http://www.garnethill.com/jump.jsp?itemID=6156&itemType=CATEGORY&path=1%2C2%2C4611%2C6156;");
+}
+with(milonic=new menuname("Menu2425")){
+style=menuStyle2425;
+top=-36;
+aI("image=/images/us/global/globalnav/globalnav06_on.gif;url=http://www.garnethill.com/jump.jsp?itemType=CATEGORY&itemID=2425&path=1%2C2%2C2425;");
+aI("text=Bedding & Home;showmenu=Menu7416;url=http://www.garnethill.com/jump.jsp?itemID=7416&itemType=CATEGORY&path=1%2C2%2C2425%2C7416;");
+aI("text=Women's Fashion;showmenu=Menu6671;url=http://www.garnethill.com/jump.jsp?itemID=6671&itemType=CATEGORY&path=1%2C2%2C2425%2C6671;");
+aI("text=For Men;showmenu=Menu9097;url=http://www.garnethill.com/jump.jsp?itemID=9097&itemType=CATEGORY&path=1%2C2%2C2425%2C9097;");
+aI("text=Sleepwear & Intimates;showmenu=Menu7454;url=http://www.garnethill.com/jump.jsp?itemID=7454&itemType=CATEGORY&path=1%2C2%2C2425%2C7454;");
+aI("text=Kids' Clothing;showmenu=Menu8667;url=http://www.garnethill.com/jump.jsp?itemID=8667&itemType=CATEGORY&path=1%2C2%2C2425%2C8667;");
+aI("text=Kids' Rooms;showmenu=Menu8668;url=http://www.garnethill.com/jump.jsp?itemID=8668&itemType=CATEGORY&path=1%2C2%2C2425%2C8668;");
+aI("text=Winter Holiday;showmenu=Menu9113;url=http://www.garnethill.com/jump.jsp?itemID=9113&itemType=CATEGORY&path=1%2C2%2C2425%2C9113;");
+aI("text=$25 and Under;showmenu=Menu9180;url=http://www.garnethill.com/jump.jsp?itemID=9180&itemType=CATEGORY&path=1%2C2%2C2425%2C9180;");
+aI("text=Save 60% or More;showmenu=Menu8897;url=http://www.garnethill.com/jump.jsp?itemID=8897&itemType=CATEGORY&path=1%2C2%2C2425%2C8897;");
+aI("text=Sale of the Day;showmenu=Menu8475;url=http://www.garnethill.com/jump.jsp?itemID=8475&itemType=CATEGORY&path=1%2C2%2C2425%2C8475;");
+}
+with(milonic=new menuname("Menu9140")){
+style=menuStyle9140;
+aI("text=Tops;showmenu=Menu9141;url=http://www.garnethill.com/jump.jsp?itemID=9141&itemType=CATEGORY&path=1%2C2%2C4477%2C9140%2C9141;");
+aI("text=Sweaters;showmenu=Menu9142;url=http://www.garnethill.com/jump.jsp?itemID=9142&itemType=CATEGORY&path=1%2C2%2C4477%2C9140%2C9142;");
+aI("text=Skirts & Dresses;showmenu=Menu9143;url=http://www.garnethill.com/jump.jsp?itemID=9143&itemType=CATEGORY&path=1%2C2%2C4477%2C9140%2C9143;");
+aI("text=Pants;showmenu=Menu9144;url=http://www.garnethill.com/jump.jsp?itemID=9144&itemType=CATEGORY&path=1%2C2%2C4477%2C9140%2C9144;");
+aI("text=Coats & Jackets;showmenu=Menu9145;url=http://www.garnethill.com/jump.jsp?itemID=9145&itemType=CATEGORY&path=1%2C2%2C4477%2C9140%2C9145;");
+aI("text=View All Eileen Fisher Apparel;showmenu=Menu9178;url=http://www.garnethill.com/jump.jsp?itemID=9178&itemType=CATEGORY&path=1%2C2%2C4477%2C9140%2C9178;");
+}
+with(milonic=new menuname("Menu7488")){
+style=menuStyle7488;
+aI("text=Accessories;showmenu=Menu7306;url=http://www.garnethill.com/jump.jsp?itemID=7306&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C7306;");
+aI("text=Bags & Totes;showmenu=Menu8616;url=http://www.garnethill.com/jump.jsp?itemID=8616&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C8616;");
+aI("text=Blouses;showmenu=Menu7491;url=http://www.garnethill.com/jump.jsp?itemID=7491&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C7491;");
+aI("text=Coats & Jackets;showmenu=Menu7493;url=http://www.garnethill.com/jump.jsp?itemID=7493&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C7493;");
+aI("text=Petite Coats & Jackets;showmenu=Menu8621;url=http://www.garnethill.com/jump.jsp?itemID=8621&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C8621;");
+aI("text=Dresses;showmenu=Menu7492;url=http://www.garnethill.com/jump.jsp?itemID=7492&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C7492;");
+aI("text=Petite Dresses;showmenu=Menu8620;url=http://www.garnethill.com/jump.jsp?itemID=8620&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C8620;");
+aI("text=Knit Tops;showmenu=Menu7494;url=http://www.garnethill.com/jump.jsp?itemID=7494&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C7494;");
+aI("text=Pants & Shorts;showmenu=Menu8896;url=http://www.garnethill.com/jump.jsp?itemID=8896&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C8896;");
+aI("text=Petite Pants;showmenu=Menu8619;url=http://www.garnethill.com/jump.jsp?itemID=8619&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C8619;");
+aI("text=Skirts;showmenu=Menu7498;url=http://www.garnethill.com/jump.jsp?itemID=7498&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C7498;");
+aI("text=Petite Skirts;showmenu=Menu9072;url=http://www.garnethill.com/jump.jsp?itemID=9072&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C9072;");
+aI("text=Sweaters;showmenu=Menu7142;url=http://www.garnethill.com/jump.jsp?itemID=7142&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C7142;");
+aI("text=Petite Sweaters & Tops;showmenu=Menu8622;url=http://www.garnethill.com/jump.jsp?itemID=8622&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C8622;");
+aI("text=Garnet Hill Laundry Care;showmenu=Menu8793;url=http://www.garnethill.com/jump.jsp?itemID=8793&itemType=CATEGORY&path=1%2C2%2C4477%2C7488%2C8793;");
+}
+with(milonic=new menuname("Menu7489")){
+style=menuStyle7489;
+aI("text=Bras;showmenu=Menu7145;url=http://www.garnethill.com/jump.jsp?itemID=7145&itemType=CATEGORY&path=1%2C2%2C4477%2C7489%2C7145;");
+aI("text=Sport Bras;showmenu=Menu7537;url=http://www.garnethill.com/jump.jsp?itemID=7537&itemType=CATEGORY&path=1%2C2%2C4477%2C7489%2C7537;");
+aI("text=Camisoles;showmenu=Menu7501;url=http://www.garnethill.com/jump.jsp?itemID=7501&itemType=CATEGORY&path=1%2C2%2C4477%2C7489%2C7501;");
+aI("text=Panties;showmenu=Menu7146;url=http://www.garnethill.com/jump.jsp?itemID=7146&itemType=CATEGORY&path=1%2C2%2C4477%2C7489%2C7146;");
+aI("text=Hanro;showmenu=Menu8566;url=http://www.garnethill.com/jump.jsp?itemID=8566&itemType=CATEGORY&path=1%2C2%2C4477%2C7489%2C8566;");
+aI("text=Garnet Hill Laundry Care;showmenu=Menu8794;url=http://www.garnethill.com/jump.jsp?itemID=8794&itemType=CATEGORY&path=1%2C2%2C4477%2C7489%2C8794;");
+}
+with(milonic=new menuname("Menu7490")){
+style=menuStyle7490;
+aI("text=Shoes & Sandals;showmenu=Menu8895;url=http://www.garnethill.com/jump.jsp?itemID=8895&itemType=CATEGORY&path=1%2C2%2C4477%2C7490%2C8895;");
+aI("text=Sporty Shoes;showmenu=Menu7500;url=http://www.garnethill.com/jump.jsp?itemID=7500&itemType=CATEGORY&path=1%2C2%2C4477%2C7490%2C7500;");
+aI("text=Boots;showmenu=Menu5693;url=http://www.garnethill.com/jump.jsp?itemID=5693&itemType=CATEGORY&path=1%2C2%2C4477%2C7490%2C5693;");
+aI("text=Slippers;showmenu=Menu7143;url=http://www.garnethill.com/jump.jsp?itemID=7143&itemType=CATEGORY&path=1%2C2%2C4477%2C7490%2C7143;");
+}
+with(milonic=new menuname("Menu7144")){
+style=menuStyle7144;
+aI("text=Gowns;showmenu=Menu7502;url=http://www.garnethill.com/jump.jsp?itemID=7502&itemType=CATEGORY&path=1%2C2%2C4477%2C7144%2C7502;");
+aI("text=Pajamas;showmenu=Menu7531;url=http://www.garnethill.com/jump.jsp?itemID=7531&itemType=CATEGORY&path=1%2C2%2C4477%2C7144%2C7531;");
+aI("text=Robes;showmenu=Menu7532;url=http://www.garnethill.com/jump.jsp?itemID=7532&itemType=CATEGORY&path=1%2C2%2C4477%2C7144%2C7532;");
+aI("text=Slippers;showmenu=Menu7534;url=http://www.garnethill.com/jump.jsp?itemID=7534&itemType=CATEGORY&path=1%2C2%2C4477%2C7144%2C7534;");
+aI("text=Men's Sleepwear & Slippers;showmenu=Menu8596;url=http://www.garnethill.com/jump.jsp?itemID=8596&itemType=CATEGORY&path=1%2C2%2C4477%2C7144%2C8596;");
+aI("text=Garnet Hill Laundry Care;showmenu=Menu8795;url=http://www.garnethill.com/jump.jsp?itemID=8795&itemType=CATEGORY&path=1%2C2%2C4477%2C7144%2C8795;");
+}
+with(milonic=new menuname("Menu9126")){
+style=menuStyle9126;
+aI("text=Bedding & Bath;showmenu=Menu9139;url=http://www.garnethill.com/jump.jsp?itemID=9139&itemType=CATEGORY&path=1%2C2%2C5%2C9126%2C9139;");
+}
+with(milonic=new menuname("Menu9170")){
+style=menuStyle9170;
+aI("text=View All Holiday Items;showmenu=Menu9177;url=http://www.garnethill.com/jump.jsp?itemID=9177&itemType=CATEGORY&path=1%2C2%2C5%2C9170%2C9177;");
+aI("text=Hable Holiday;showmenu=Menu9171;url=http://www.garnethill.com/jump.jsp?itemID=9171&itemType=CATEGORY&path=1%2C2%2C5%2C9170%2C9171;");
+aI("text=Celebrate the Season;showmenu=Menu9172;url=http://www.garnethill.com/jump.jsp?itemID=9172&itemType=CATEGORY&path=1%2C2%2C5%2C9170%2C9172;");
+}
+with(milonic=new menuname("Menu9017")){
+style=menuStyle9017;
+aI("text=Solid Sheets;showmenu=Menu9021;url=http://www.garnethill.com/jump.jsp?itemID=9021&itemType=CATEGORY&path=1%2C2%2C5%2C9017%2C9021;");
+aI("text=Patterned Sheets;showmenu=Menu9022;url=http://www.garnethill.com/jump.jsp?itemID=9022&itemType=CATEGORY&path=1%2C2%2C5%2C9017%2C9022;");
+aI("text=Percale Sheets;showmenu=Menu9023;url=http://www.garnethill.com/jump.jsp?itemID=9023&itemType=CATEGORY&path=1%2C2%2C5%2C9017%2C9023;");
+aI("text=Sateen Sheets;showmenu=Menu9024;url=http://www.garnethill.com/jump.jsp?itemID=9024&itemType=CATEGORY&path=1%2C2%2C5%2C9017%2C9024;");
+aI("text=Jersey Knit Sheets;showmenu=Menu9025;url=http://www.garnethill.com/jump.jsp?itemID=9025&itemType=CATEGORY&path=1%2C2%2C5%2C9017%2C9025;");
+aI("text=Linen Sheets;showmenu=Menu9026;url=http://www.garnethill.com/jump.jsp?itemID=9026&itemType=CATEGORY&path=1%2C2%2C5%2C9017%2C9026;");
+aI("text=Flannel Sheets;showmenu=Menu9027;url=http://www.garnethill.com/jump.jsp?itemID=9027&itemType=CATEGORY&path=1%2C2%2C5%2C9017%2C9027;");
+aI("text=Twin Extra-Long Fitted Sheets;showmenu=Menu9093;url=http://www.garnethill.com/jump.jsp?itemID=9093&itemType=CATEGORY&path=1%2C2%2C5%2C9017%2C9093;");
+aI("text=Queen & King Extra-Deep Fitted Sheets;showmenu=Menu9122;url=http://www.garnethill.com/jump.jsp?itemID=9122&itemType=CATEGORY&path=1%2C2%2C5%2C9017%2C9122;");
+aI("text=Calif. King Fitted Sheets;showmenu=Menu9094;url=http://www.garnethill.com/jump.jsp?itemID=9094&itemType=CATEGORY&path=1%2C2%2C5%2C9017%2C9094;");
+aI("text=View All Sheets;showmenu=Menu9028;url=http://www.garnethill.com/jump.jsp?itemID=9028&itemType=CATEGORY&path=1%2C2%2C5%2C9017%2C9028;");
+aI("text=Garnet Hill Laundry Care;showmenu=Menu9057;url=http://www.garnethill.com/jump.jsp?itemID=9057&itemType=CATEGORY&path=1%2C2%2C5%2C9017%2C9057;");
+}
+with(milonic=new menuname("Menu9018")){
+style=menuStyle9018;
+aI("text=Bedskirts;showmenu=Menu9029;url=http://www.garnethill.com/jump.jsp?itemID=9029&itemType=CATEGORY&path=1%2C2%2C5%2C9018%2C9029;");
+aI("text=Comforters;showmenu=Menu9030;url=http://www.garnethill.com/jump.jsp?itemID=9030&itemType=CATEGORY&path=1%2C2%2C5%2C9018%2C9030;");
+aI("text=Feather Beds;showmenu=Menu9031;url=http://www.garnethill.com/jump.jsp?itemID=9031&itemType=CATEGORY&path=1%2C2%2C5%2C9018%2C9031;");
+aI("text=Garnet Hill Signature Jacquard Bedding Basics Collection;showmenu=Menu9032;url=http://www.garnethill.com/jump.jsp?itemID=9032&itemType=CATEGORY&path=1%2C2%2C5%2C9018%2C9032;");
+aI("text=Mattress Pads;showmenu=Menu9033;url=http://www.garnethill.com/jump.jsp?itemID=9033&itemType=CATEGORY&path=1%2C2%2C5%2C9018%2C9033;");
+aI("text=Pillows;showmenu=Menu9034;url=http://www.garnethill.com/jump.jsp?itemID=9034&itemType=CATEGORY&path=1%2C2%2C5%2C9018%2C9034;");
+aI("text=Garnet Hill Laundry Care;showmenu=Menu9058;url=http://www.garnethill.com/jump.jsp?itemID=9058&itemType=CATEGORY&path=1%2C2%2C5%2C9018%2C9058;");
+}
+with(milonic=new menuname("Menu9019")){
+style=menuStyle9019;
+aI("text=Coverlets & Shams;showmenu=Menu9035;url=http://www.garnethill.com/jump.jsp?itemID=9035&itemType=CATEGORY&path=1%2C2%2C5%2C9019%2C9035;");
+aI("text=Quilts & Shams;showmenu=Menu9036;url=http://www.garnethill.com/jump.jsp?itemID=9036&itemType=CATEGORY&path=1%2C2%2C5%2C9019%2C9036;");
+aI("text=View All;showmenu=Menu9037;url=http://www.garnethill.com/jump.jsp?itemID=9037&itemType=CATEGORY&path=1%2C2%2C5%2C9019%2C9037;");
+aI("text=Garnet Hill Laundry Care;showmenu=Menu9059;url=http://www.garnethill.com/jump.jsp?itemID=9059&itemType=CATEGORY&path=1%2C2%2C5%2C9019%2C9059;");
+}
+with(milonic=new menuname("Menu9020")){
+style=menuStyle9020;
+aI("text=Blankets;showmenu=Menu9038;url=http://www.garnethill.com/jump.jsp?itemID=9038&itemType=CATEGORY&path=1%2C2%2C5%2C9020%2C9038;");
+aI("text=Throws;showmenu=Menu9039;url=http://www.garnethill.com/jump.jsp?itemID=9039&itemType=CATEGORY&path=1%2C2%2C5%2C9020%2C9039;");
+aI("text=View All Blankets & Throws;showmenu=Menu9040;url=http://www.garnethill.com/jump.jsp?itemID=9040&itemType=CATEGORY&path=1%2C2%2C5%2C9020%2C9040;");
+aI("text=Garnet Hill Laundry Care;showmenu=Menu9062;url=http://www.garnethill.com/jump.jsp?itemID=9062&itemType=CATEGORY&path=1%2C2%2C5%2C9020%2C9062;");
+}
+with(milonic=new menuname("Menu5429")){
+style=menuStyle5429;
+aI("text=Accessories;showmenu=Menu8516;url=http://www.garnethill.com/jump.jsp?itemID=8516&itemType=CATEGORY&path=1%2C2%2C5%2C5429%2C8516;");
+aI("text=Shower Curtains;showmenu=Menu5864;url=http://www.garnethill.com/jump.jsp?itemID=5864&itemType=CATEGORY&path=1%2C2%2C5%2C5429%2C5864;");
+aI("text=Towels & Mats;showmenu=Menu5528;url=http://www.garnethill.com/jump.jsp?itemID=5528&itemType=CATEGORY&path=1%2C2%2C5%2C5429%2C5528;");
+aI("text=Bath Rugs;showmenu=Menu9041;url=http://www.garnethill.com/jump.jsp?itemID=9041&itemType=CATEGORY&path=1%2C2%2C5%2C5429%2C9041;");
+aI("text=Garnet Hill Laundry Care;showmenu=Menu9060;url=http://www.garnethill.com/jump.jsp?itemID=9060&itemType=CATEGORY&path=1%2C2%2C5%2C5429%2C9060;");
+}
+with(milonic=new menuname("Menu7355")){
+style=menuStyle7355;
+aI("text=Braided Rugs;showmenu=Menu9046;url=http://www.garnethill.com/jump.jsp?itemID=9046&itemType=CATEGORY&path=1%2C2%2C5%2C7355%2C9046;");
+aI("text=Flatweave Rugs;showmenu=Menu9047;url=http://www.garnethill.com/jump.jsp?itemID=9047&itemType=CATEGORY&path=1%2C2%2C5%2C7355%2C9047;");
+aI("text=Hand-Knotted Rugs;showmenu=Menu9048;url=http://www.garnethill.com/jump.jsp?itemID=9048&itemType=CATEGORY&path=1%2C2%2C5%2C7355%2C9048;");
+aI("text=Hand-Loomed Rugs;showmenu=Menu9049;url=http://www.garnethill.com/jump.jsp?itemID=9049&itemType=CATEGORY&path=1%2C2%2C5%2C7355%2C9049;");
+aI("text=High-Low Finish Rugs;showmenu=Menu9050;url=http://www.garnethill.com/jump.jsp?itemID=9050&itemType=CATEGORY&path=1%2C2%2C5%2C7355%2C9050;");
+aI("text=Hooked Rugs;showmenu=Menu9051;url=http://www.garnethill.com/jump.jsp?itemID=9051&itemType=CATEGORY&path=1%2C2%2C5%2C7355%2C9051;");
+aI("text=Special Construction Rugs;showmenu=Menu9052;url=http://www.garnethill.com/jump.jsp?itemID=9052&itemType=CATEGORY&path=1%2C2%2C5%2C7355%2C9052;");
+aI("text=Tufted Rugs;showmenu=Menu9053;url=http://www.garnethill.com/jump.jsp?itemID=9053&itemType=CATEGORY&path=1%2C2%2C5%2C7355%2C9053;");
+aI("text=Doormats;showmenu=Menu9054;url=http://www.garnethill.com/jump.jsp?itemID=9054&itemType=CATEGORY&path=1%2C2%2C5%2C7355%2C9054;");
+aI("text=View All Rugs;showmenu=Menu9055;url=http://www.garnethill.com/jump.jsp?itemID=9055&itemType=CATEGORY&path=1%2C2%2C5%2C7355%2C9055;");
+}
+with(milonic=new menuname("Menu5430")){
+style=menuStyle5430;
+aI("text=Decorative Accessories;showmenu=Menu6968;url=http://www.garnethill.com/jump.jsp?itemID=6968&itemType=CATEGORY&path=1%2C2%2C5%2C5430%2C6968;");
+aI("text=Lighting;showmenu=Menu5524;url=http://www.garnethill.com/jump.jsp?itemID=5524&itemType=CATEGORY&path=1%2C2%2C5%2C5430%2C5524;");
+aI("text=Wall D&#233cor;showmenu=Menu8522;url=http://www.garnethill.com/jump.jsp?itemID=8522&itemType=CATEGORY&path=1%2C2%2C5%2C5430%2C8522;");
+aI("text=Storage & Travel Bags;showmenu=Menu8894;url=http://www.garnethill.com/jump.jsp?itemID=8894&itemType=CATEGORY&path=1%2C2%2C5%2C5430%2C8894;");
+aI("text=Doormats;showmenu=Menu8899;url=http://www.garnethill.com/jump.jsp?itemID=8899&itemType=CATEGORY&path=1%2C2%2C5%2C5430%2C8899;");
+}
+with(milonic=new menuname("Menu9042")){
+style=menuStyle9042;
+aI("text=Curtains;showmenu=Menu9043;url=http://www.garnethill.com/jump.jsp?itemID=9043&itemType=CATEGORY&path=1%2C2%2C5%2C9042%2C9043;");
+aI("text=Decorative Pillows;showmenu=Menu9044;url=http://www.garnethill.com/jump.jsp?itemID=9044&itemType=CATEGORY&path=1%2C2%2C5%2C9042%2C9044;");
+aI("text=Table Linens;showmenu=Menu9045;url=http://www.garnethill.com/jump.jsp?itemID=9045&itemType=CATEGORY&path=1%2C2%2C5%2C9042%2C9045;");
+aI("text=Garnet Hill Laundry Care;showmenu=Menu9061;url=http://www.garnethill.com/jump.jsp?itemID=9061&itemType=CATEGORY&path=1%2C2%2C5%2C9042%2C9061;");
+}
+with(milonic=new menuname("Menu8577")){
+style=menuStyle8577;
+aI("text=Beds;showmenu=Menu8578;url=http://www.garnethill.com/jump.jsp?itemID=8578&itemType=CATEGORY&path=1%2C2%2C5%2C8577%2C8578;");
+aI("text=Dressers;showmenu=Menu8579;url=http://www.garnethill.com/jump.jsp?itemID=8579&itemType=CATEGORY&path=1%2C2%2C5%2C8577%2C8579;");
+aI("text=Seating;showmenu=Menu8580;url=http://www.garnethill.com/jump.jsp?itemID=8580&itemType=CATEGORY&path=1%2C2%2C5%2C8577%2C8580;");
+aI("text=Side Tables & Nightstands;showmenu=Menu8581;url=http://www.garnethill.com/jump.jsp?itemID=8581&itemType=CATEGORY&path=1%2C2%2C5%2C8577%2C8581;");
+}
+with(milonic=new menuname("Menu9125")){
+style=menuStyle9125;
+aI("text=Winter Warm-Up;showmenu=Menu9159;url=http://www.garnethill.com/jump.jsp?itemID=9159&itemType=CATEGORY&path=1%2C2%2C4322%2C9125%2C9159;");
+aI("text=Give It the Boot;showmenu=Menu9161;url=http://www.garnethill.com/jump.jsp?itemID=9161&itemType=CATEGORY&path=1%2C2%2C4322%2C9125%2C9161;");
+aI("text=From A to Zzz;showmenu=Menu9160;url=http://www.garnethill.com/jump.jsp?itemID=9160&itemType=CATEGORY&path=1%2C2%2C4322%2C9125%2C9160;");
+aI("text=Stylish Shearling;showmenu=Menu9188;url=http://www.garnethill.com/jump.jsp?itemID=9188&itemType=CATEGORY&path=1%2C2%2C4322%2C9125%2C9188;");
+aI("text=Halloween;showmenu=Menu9187;url=http://www.garnethill.com/jump.jsp?itemID=9187&itemType=CATEGORY&path=1%2C2%2C4322%2C9125%2C9187;");
+}
+with(milonic=new menuname("Menu8801")){
+style=menuStyle8801;
+aI("text=Tops;showmenu=Menu8811;url=http://www.garnethill.com/jump.jsp?itemID=8811&itemType=CATEGORY&path=1%2C2%2C4322%2C8801%2C8811;");
+aI("text=Sweaters;showmenu=Menu9147;url=http://www.garnethill.com/jump.jsp?itemID=9147&itemType=CATEGORY&path=1%2C2%2C4322%2C8801%2C9147;");
+aI("text=Pants & Shorts;showmenu=Menu8830;url=http://www.garnethill.com/jump.jsp?itemID=8830&itemType=CATEGORY&path=1%2C2%2C4322%2C8801%2C8830;");
+aI("text=Dresses & Skirts;showmenu=Menu8943;url=http://www.garnethill.com/jump.jsp?itemID=8943&itemType=CATEGORY&path=1%2C2%2C4322%2C8801%2C8943;");
+aI("text=Socks & Tights;showmenu=Menu8880;url=http://www.garnethill.com/jump.jsp?itemID=8880&itemType=CATEGORY&path=1%2C2%2C4322%2C8801%2C8880;");
+aI("text=Underwear;showmenu=Menu8852;url=http://www.garnethill.com/jump.jsp?itemID=8852&itemType=CATEGORY&path=1%2C2%2C4322%2C8801%2C8852;");
+aI("text=Sleepwear & Slippers;showmenu=Menu8929;url=http://www.garnethill.com/jump.jsp?itemID=8929&itemType=CATEGORY&path=1%2C2%2C4322%2C8801%2C8929;");
+aI("text=Green Cotton;showmenu=Menu8815;url=http://www.garnethill.com/jump.jsp?itemID=8815&itemType=CATEGORY&path=1%2C2%2C4322%2C8801%2C8815;");
+aI("text=Outerwear;showmenu=Menu8965;url=http://www.garnethill.com/jump.jsp?itemID=8965&itemType=CATEGORY&path=1%2C2%2C4322%2C8801%2C8965;");
+aI("text=Accessories;showmenu=Menu9098;url=http://www.garnethill.com/jump.jsp?itemID=9098&itemType=CATEGORY&path=1%2C2%2C4322%2C8801%2C9098;");
+}
+with(milonic=new menuname("Menu8802")){
+style=menuStyle8802;
+aI("text=Tops;showmenu=Menu8820;url=http://www.garnethill.com/jump.jsp?itemID=8820&itemType=CATEGORY&path=1%2C2%2C4322%2C8802%2C8820;");
+aI("text=Sweaters;showmenu=Menu9148;url=http://www.garnethill.com/jump.jsp?itemID=9148&itemType=CATEGORY&path=1%2C2%2C4322%2C8802%2C9148;");
+aI("text=Pants & Shorts;showmenu=Menu8832;url=http://www.garnethill.com/jump.jsp?itemID=8832&itemType=CATEGORY&path=1%2C2%2C4322%2C8802%2C8832;");
+aI("text=Dresses & Skirts;showmenu=Menu8881;url=http://www.garnethill.com/jump.jsp?itemID=8881&itemType=CATEGORY&path=1%2C2%2C4322%2C8802%2C8881;");
+aI("text=Underwear;showmenu=Menu8851;url=http://www.garnethill.com/jump.jsp?itemID=8851&itemType=CATEGORY&path=1%2C2%2C4322%2C8802%2C8851;");
+aI("text=Socks & Tights;showmenu=Menu8972;url=http://www.garnethill.com/jump.jsp?itemID=8972&itemType=CATEGORY&path=1%2C2%2C4322%2C8802%2C8972;");
+aI("text=Sleepwear & Slippers;showmenu=Menu8824;url=http://www.garnethill.com/jump.jsp?itemID=8824&itemType=CATEGORY&path=1%2C2%2C4322%2C8802%2C8824;");
+aI("text=Green Cotton;showmenu=Menu8825;url=http://www.garnethill.com/jump.jsp?itemID=8825&itemType=CATEGORY&path=1%2C2%2C4322%2C8802%2C8825;");
+aI("text=Outerwear;showmenu=Menu8874;url=http://www.garnethill.com/jump.jsp?itemID=8874&itemType=CATEGORY&path=1%2C2%2C4322%2C8802%2C8874;");
+aI("text=Accessories;showmenu=Menu9099;url=http://www.garnethill.com/jump.jsp?itemID=9099&itemType=CATEGORY&path=1%2C2%2C4322%2C8802%2C9099;");
+}
+with(milonic=new menuname("Menu8803")){
+style=menuStyle8803;
+aI("text=Tops;showmenu=Menu8907;url=http://www.garnethill.com/jump.jsp?itemID=8907&itemType=CATEGORY&path=1%2C2%2C4322%2C8803%2C8907;");
+aI("text=Sweaters;showmenu=Menu9149;url=http://www.garnethill.com/jump.jsp?itemID=9149&itemType=CATEGORY&path=1%2C2%2C4322%2C8803%2C9149;");
+aI("text=Pants & Shorts;showmenu=Menu8839;url=http://www.garnethill.com/jump.jsp?itemID=8839&itemType=CATEGORY&path=1%2C2%2C4322%2C8803%2C8839;");
+aI("text=Dresses & Skirts;showmenu=Menu8840;url=http://www.garnethill.com/jump.jsp?itemID=8840&itemType=CATEGORY&path=1%2C2%2C4322%2C8803%2C8840;");
+aI("text=Underwear;showmenu=Menu8842;url=http://www.garnethill.com/jump.jsp?itemID=8842&itemType=CATEGORY&path=1%2C2%2C4322%2C8803%2C8842;");
+aI("text=Socks & Tights;showmenu=Menu8883;url=http://www.garnethill.com/jump.jsp?itemID=8883&itemType=CATEGORY&path=1%2C2%2C4322%2C8803%2C8883;");
+aI("text=Sleepwear & Slippers;showmenu=Menu8835;url=http://www.garnethill.com/jump.jsp?itemID=8835&itemType=CATEGORY&path=1%2C2%2C4322%2C8803%2C8835;");
+aI("text=Outerwear;showmenu=Menu8872;url=http://www.garnethill.com/jump.jsp?itemID=8872&itemType=CATEGORY&path=1%2C2%2C4322%2C8803%2C8872;");
+aI("text=Accessories;showmenu=Menu8843;url=http://www.garnethill.com/jump.jsp?itemID=8843&itemType=CATEGORY&path=1%2C2%2C4322%2C8803%2C8843;");
+aI("text=Green Cotton;showmenu=Menu8844;url=http://www.garnethill.com/jump.jsp?itemID=8844&itemType=CATEGORY&path=1%2C2%2C4322%2C8803%2C8844;");
+}
+with(milonic=new menuname("Menu8804")){
+style=menuStyle8804;
+aI("text=Tops;showmenu=Menu8944;url=http://www.garnethill.com/jump.jsp?itemID=8944&itemType=CATEGORY&path=1%2C2%2C4322%2C8804%2C8944;");
+aI("text=Sweaters;showmenu=Menu9150;url=http://www.garnethill.com/jump.jsp?itemID=9150&itemType=CATEGORY&path=1%2C2%2C4322%2C8804%2C9150;");
+aI("text=Pants & Shorts;showmenu=Menu8900;url=http://www.garnethill.com/jump.jsp?itemID=8900&itemType=CATEGORY&path=1%2C2%2C4322%2C8804%2C8900;");
+aI("text=Dresses & Skirts;showmenu=Menu8846;url=http://www.garnethill.com/jump.jsp?itemID=8846&itemType=CATEGORY&path=1%2C2%2C4322%2C8804%2C8846;");
+aI("text=Socks & Tights;showmenu=Menu9109;url=http://www.garnethill.com/jump.jsp?itemID=9109&itemType=CATEGORY&path=1%2C2%2C4322%2C8804%2C9109;");
+aI("text=Underwear;showmenu=Menu8853;url=http://www.garnethill.com/jump.jsp?itemID=8853&itemType=CATEGORY&path=1%2C2%2C4322%2C8804%2C8853;");
+aI("text=Accessories;showmenu=Menu8876;url=http://www.garnethill.com/jump.jsp?itemID=8876&itemType=CATEGORY&path=1%2C2%2C4322%2C8804%2C8876;");
+aI("text=Outerwear;showmenu=Menu9146;url=http://www.garnethill.com/jump.jsp?itemID=9146&itemType=CATEGORY&path=1%2C2%2C4322%2C8804%2C9146;");
+}
+with(milonic=new menuname("Menu8809")){
+style=menuStyle8809;
+aI("text=Toddler Girls, Sizes 2-8;showmenu=Menu8854;url=http://www.garnethill.com/jump.jsp?itemID=8854&itemType=CATEGORY&path=1%2C2%2C4322%2C8809%2C8854;");
+aI("text=Little Girls, Sizes 8-12;showmenu=Menu8855;url=http://www.garnethill.com/jump.jsp?itemID=8855&itemType=CATEGORY&path=1%2C2%2C4322%2C8809%2C8855;");
+aI("text=Girls, Sizes 10-5;showmenu=Menu8856;url=http://www.garnethill.com/jump.jsp?itemID=8856&itemType=CATEGORY&path=1%2C2%2C4322%2C8809%2C8856;");
+}
+with(milonic=new menuname("Menu8806")){
+style=menuStyle8806;
+aI("text=Shirts & Sweaters;showmenu=Menu8816;url=http://www.garnethill.com/jump.jsp?itemID=8816&itemType=CATEGORY&path=1%2C2%2C4322%2C8806%2C8816;");
+aI("text=Pants & Shorts;showmenu=Menu8831;url=http://www.garnethill.com/jump.jsp?itemID=8831&itemType=CATEGORY&path=1%2C2%2C4322%2C8806%2C8831;");
+aI("text=Underwear;showmenu=Menu8877;url=http://www.garnethill.com/jump.jsp?itemID=8877&itemType=CATEGORY&path=1%2C2%2C4322%2C8806%2C8877;");
+aI("text=Sleepwear & Slippers;showmenu=Menu8930;url=http://www.garnethill.com/jump.jsp?itemID=8930&itemType=CATEGORY&path=1%2C2%2C4322%2C8806%2C8930;");
+aI("text=Accessories;showmenu=Menu9110;url=http://www.garnethill.com/jump.jsp?itemID=9110&itemType=CATEGORY&path=1%2C2%2C4322%2C8806%2C9110;");
+aI("text=Outerwear;showmenu=Menu8966;url=http://www.garnethill.com/jump.jsp?itemID=8966&itemType=CATEGORY&path=1%2C2%2C4322%2C8806%2C8966;");
+}
+with(milonic=new menuname("Menu8807")){
+style=menuStyle8807;
+aI("text=Shirts & Sweaters;showmenu=Menu8826;url=http://www.garnethill.com/jump.jsp?itemID=8826&itemType=CATEGORY&path=1%2C2%2C4322%2C8807%2C8826;");
+aI("text=Pants & Shorts;showmenu=Menu8884;url=http://www.garnethill.com/jump.jsp?itemID=8884&itemType=CATEGORY&path=1%2C2%2C4322%2C8807%2C8884;");
+aI("text=Sleepwear & Slippers;showmenu=Menu8828;url=http://www.garnethill.com/jump.jsp?itemID=8828&itemType=CATEGORY&path=1%2C2%2C4322%2C8807%2C8828;");
+aI("text=Underwear;showmenu=Menu8878;url=http://www.garnethill.com/jump.jsp?itemID=8878&itemType=CATEGORY&path=1%2C2%2C4322%2C8807%2C8878;");
+aI("text=Accessories;showmenu=Menu9111;url=http://www.garnethill.com/jump.jsp?itemID=9111&itemType=CATEGORY&path=1%2C2%2C4322%2C8807%2C9111;");
+aI("text=Outerwear;showmenu=Menu8875;url=http://www.garnethill.com/jump.jsp?itemID=8875&itemType=CATEGORY&path=1%2C2%2C4322%2C8807%2C8875;");
+}
+with(milonic=new menuname("Menu8808")){
+style=menuStyle8808;
+aI("text=Shirts & Sweaters;showmenu=Menu8867;url=http://www.garnethill.com/jump.jsp?itemID=8867&itemType=CATEGORY&path=1%2C2%2C4322%2C8808%2C8867;");
+aI("text=Pants & Shorts;showmenu=Menu8868;url=http://www.garnethill.com/jump.jsp?itemID=8868&itemType=CATEGORY&path=1%2C2%2C4322%2C8808%2C8868;");
+aI("text=Sleepwear & Slippers;showmenu=Menu8836;url=http://www.garnethill.com/jump.jsp?itemID=8836&itemType=CATEGORY&path=1%2C2%2C4322%2C8808%2C8836;");
+aI("text=Underwear;showmenu=Menu8870;url=http://www.garnethill.com/jump.jsp?itemID=8870&itemType=CATEGORY&path=1%2C2%2C4322%2C8808%2C8870;");
+aI("text=Accessories;showmenu=Menu9112;url=http://www.garnethill.com/jump.jsp?itemID=9112&itemType=CATEGORY&path=1%2C2%2C4322%2C8808%2C9112;");
+aI("text=Outerwear;showmenu=Menu8871;url=http://www.garnethill.com/jump.jsp?itemID=8871&itemType=CATEGORY&path=1%2C2%2C4322%2C8808%2C8871;");
+}
+with(milonic=new menuname("Menu9162")){
+style=menuStyle9162;
+aI("text=Shirts & Sweaters;showmenu=Menu9163;url=http://www.garnethill.com/jump.jsp?itemID=9163&itemType=CATEGORY&path=1%2C2%2C4322%2C9162%2C9163;");
+aI("text=Pants & Shorts;showmenu=Menu9164;url=http://www.garnethill.com/jump.jsp?itemID=9164&itemType=CATEGORY&path=1%2C2%2C4322%2C9162%2C9164;");
+aI("text=Accessories;showmenu=Menu9169;url=http://www.garnethill.com/jump.jsp?itemID=9169&itemType=CATEGORY&path=1%2C2%2C4322%2C9162%2C9169;");
+aI("text=Outerwear;showmenu=Menu9165;url=http://www.garnethill.com/jump.jsp?itemID=9165&itemType=CATEGORY&path=1%2C2%2C4322%2C9162%2C9165;");
+}
+with(milonic=new menuname("Menu8810")){
+style=menuStyle8810;
+aI("text=Toddler Boys, Sizes 2-8;showmenu=Menu8857;url=http://www.garnethill.com/jump.jsp?itemID=8857&itemType=CATEGORY&path=1%2C2%2C4322%2C8810%2C8857;");
+aI("text=Little Boys, Sizes 8-12;showmenu=Menu8858;url=http://www.garnethill.com/jump.jsp?itemID=8858&itemType=CATEGORY&path=1%2C2%2C4322%2C8810%2C8858;");
+aI("text=Boys, Sizes 10-5;showmenu=Menu8859;url=http://www.garnethill.com/jump.jsp?itemID=8859&itemType=CATEGORY&path=1%2C2%2C4322%2C8810%2C8859;");
+}
+with(milonic=new menuname("Menu8968")){
+style=menuStyle8968;
+aI("text=Toddlers (3 mos.-3T);showmenu=Menu9166;url=http://www.garnethill.com/jump.jsp?itemID=9166&itemType=CATEGORY&path=1%2C2%2C4322%2C8968%2C9166;");
+aI("text=Girls (3-14);showmenu=Menu9167;url=http://www.garnethill.com/jump.jsp?itemID=9167&itemType=CATEGORY&path=1%2C2%2C4322%2C8968%2C9167;");
+aI("text=Boys (3-14);showmenu=Menu9168;url=http://www.garnethill.com/jump.jsp?itemID=9168&itemType=CATEGORY&path=1%2C2%2C4322%2C8968%2C9168;");
+}
+with(milonic=new menuname("Menu9101")){
+style=menuStyle9101;
+aI("text=Boys 2T-18;showmenu=Menu9102;url=http://www.garnethill.com/jump.jsp?itemID=9102&itemType=CATEGORY&path=1%2C2%2C4322%2C9101%2C9102;");
+aI("text=Girls 2T-16;showmenu=Menu9103;url=http://www.garnethill.com/jump.jsp?itemID=9103&itemType=CATEGORY&path=1%2C2%2C4322%2C9101%2C9103;");
+}
+with(milonic=new menuname("Menu9117")){
+style=menuStyle9117;
+aI("text=Girls;showmenu=Menu9118;url=http://www.garnethill.com/jump.jsp?itemID=9118&itemType=CATEGORY&path=1%2C2%2C4322%2C9117%2C9118;");
+aI("text=Boys;showmenu=Menu9119;url=http://www.garnethill.com/jump.jsp?itemID=9119&itemType=CATEGORY&path=1%2C2%2C4322%2C9117%2C9119;");
+aI("text=Sleepwear;showmenu=Menu9120;url=http://www.garnethill.com/jump.jsp?itemID=9120&itemType=CATEGORY&path=1%2C2%2C4322%2C9117%2C9120;");
+aI("text=Shoes;showmenu=Menu9121;url=http://www.garnethill.com/jump.jsp?itemID=9121&itemType=CATEGORY&path=1%2C2%2C4322%2C9117%2C9121;");
+}
+with(milonic=new menuname("Menu5857")){
+style=menuStyle5857;
+aI("text=Percale Bedding;showmenu=Menu5861;url=http://www.garnethill.com/jump.jsp?itemID=5861&itemType=CATEGORY&path=1%2C2%2C2773%2C5857%2C5861;");
+aI("text=Flannel Bedding;showmenu=Menu6381;url=http://www.garnethill.com/jump.jsp?itemID=6381&itemType=CATEGORY&path=1%2C2%2C2773%2C5857%2C6381;");
+aI("text=Jersey Knit Bedding;showmenu=Menu6293;url=http://www.garnethill.com/jump.jsp?itemID=6293&itemType=CATEGORY&path=1%2C2%2C2773%2C5857%2C6293;");
+aI("text=Bedding Sets;showmenu=Menu8932;url=http://www.garnethill.com/jump.jsp?itemID=8932&itemType=CATEGORY&path=1%2C2%2C2773%2C5857%2C8932;");
+aI("text=Crib Bedding & Quilts;showmenu=Menu7715;url=http://www.garnethill.com/jump.jsp?itemID=7715&itemType=CATEGORY&path=1%2C2%2C2773%2C5857%2C7715;");
+aI("text=Bedskirts;showmenu=Menu6396;url=http://www.garnethill.com/jump.jsp?itemID=6396&itemType=CATEGORY&path=1%2C2%2C2773%2C5857%2C6396;");
+aI("text=Blankets & Throws;showmenu=Menu6297;url=http://www.garnethill.com/jump.jsp?itemID=6297&itemType=CATEGORY&path=1%2C2%2C2773%2C5857%2C6297;");
+aI("text=Comforters;showmenu=Menu7746;url=http://www.garnethill.com/jump.jsp?itemID=7746&itemType=CATEGORY&path=1%2C2%2C2773%2C5857%2C7746;");
+aI("text=Feather Beds;showmenu=Menu7742;url=http://www.garnethill.com/jump.jsp?itemID=7742&itemType=CATEGORY&path=1%2C2%2C2773%2C5857%2C7742;");
+aI("text=Mattress Pads;showmenu=Menu6391;url=http://www.garnethill.com/jump.jsp?itemID=6391&itemType=CATEGORY&path=1%2C2%2C2773%2C5857%2C6391;");
+aI("text=Pillows;showmenu=Menu6815;url=http://www.garnethill.com/jump.jsp?itemID=6815&itemType=CATEGORY&path=1%2C2%2C2773%2C5857%2C6815;");
+aI("text=Quilts;showmenu=Menu6299;url=http://www.garnethill.com/jump.jsp?itemID=6299&itemType=CATEGORY&path=1%2C2%2C2773%2C5857%2C6299;");
+}
+with(milonic=new menuname("Menu5859")){
+style=menuStyle5859;
+aI("text=Beds;showmenu=Menu5957;url=http://www.garnethill.com/jump.jsp?itemID=5957&itemType=CATEGORY&path=1%2C2%2C2773%2C5859%2C5957;");
+aI("text=Curtains;showmenu=Menu6387;url=http://www.garnethill.com/jump.jsp?itemID=6387&itemType=CATEGORY&path=1%2C2%2C2773%2C5859%2C6387;");
+aI("text=Lamps;showmenu=Menu6383;url=http://www.garnethill.com/jump.jsp?itemID=6383&itemType=CATEGORY&path=1%2C2%2C2773%2C5859%2C6383;");
+aI("text=Rugs;showmenu=Menu6382;url=http://www.garnethill.com/jump.jsp?itemID=6382&itemType=CATEGORY&path=1%2C2%2C2773%2C5859%2C6382;");
+aI("text=Storage;showmenu=Menu7603;url=http://www.garnethill.com/jump.jsp?itemID=7603&itemType=CATEGORY&path=1%2C2%2C2773%2C5859%2C7603;");
+}
+with(milonic=new menuname("Menu5856")){
+style=menuStyle5856;
+aI("text=Accessories;showmenu=Menu6401;url=http://www.garnethill.com/jump.jsp?itemID=6401&itemType=CATEGORY&path=1%2C2%2C2773%2C5856%2C6401;");
+aI("text=Shower Curtains;showmenu=Menu8562;url=http://www.garnethill.com/jump.jsp?itemID=8562&itemType=CATEGORY&path=1%2C2%2C2773%2C5856%2C8562;");
+aI("text=Towels & Bath Rugs;showmenu=Menu5862;url=http://www.garnethill.com/jump.jsp?itemID=5862&itemType=CATEGORY&path=1%2C2%2C2773%2C5856%2C5862;");
+}
+with(milonic=new menuname("Menu5860")){
+style=menuStyle5860;
+aI("text=Halloween;showmenu=Menu9158;url=http://www.garnethill.com/jump.jsp?itemID=9158&itemType=CATEGORY&path=1%2C2%2C2773%2C5860%2C9158;");
+aI("text=Holiday;showmenu=Menu9176;url=http://www.garnethill.com/jump.jsp?itemID=9176&itemType=CATEGORY&path=1%2C2%2C2773%2C5860%2C9176;");
+aI("text=Accessories;showmenu=Menu6302;url=http://www.garnethill.com/jump.jsp?itemID=6302&itemType=CATEGORY&path=1%2C2%2C2773%2C5860%2C6302;");
+aI("text=Fun & Games;showmenu=Menu6412;url=http://www.garnethill.com/jump.jsp?itemID=6412&itemType=CATEGORY&path=1%2C2%2C2773%2C5860%2C6412;");
+aI("text=Personalize It;showmenu=Menu9009;url=http://www.garnethill.com/jump.jsp?itemID=9009&itemType=CATEGORY&path=1%2C2%2C2773%2C5860%2C9009;");
+}
+with(milonic=new menuname("Menu7416")){
+style=menuStyle7416;
+aI("text=Solid Sheets;showmenu=Menu9004;url=http://www.garnethill.com/jump.jsp?itemID=9004&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C9004;");
+aI("text=Patterned Sheets;showmenu=Menu9003;url=http://www.garnethill.com/jump.jsp?itemID=9003&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C9003;");
+aI("text=Percale Sheets;showmenu=Menu9074;url=http://www.garnethill.com/jump.jsp?itemID=9074&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C9074;");
+aI("text=Sateen Sheets;showmenu=Menu9008;url=http://www.garnethill.com/jump.jsp?itemID=9008&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C9008;");
+aI("text=Jersey Knit Sheets;showmenu=Menu9007;url=http://www.garnethill.com/jump.jsp?itemID=9007&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C9007;");
+aI("text=Linen Sheets;showmenu=Menu9092;url=http://www.garnethill.com/jump.jsp?itemID=9092&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C9092;");
+aI("text=Flannel Sheets;showmenu=Menu9006;url=http://www.garnethill.com/jump.jsp?itemID=9006&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C9006;");
+aI("text=Bedskirts & Featherbeds;showmenu=Menu8111;url=http://www.garnethill.com/jump.jsp?itemID=8111&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C8111;");
+aI("text=Coverlets, Quilts & Shams;showmenu=Menu9075;url=http://www.garnethill.com/jump.jsp?itemID=9075&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C9075;");
+aI("text=Blankets & Throws;showmenu=Menu7420;url=http://www.garnethill.com/jump.jsp?itemID=7420&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C7420;");
+aI("text=Bath;showmenu=Menu7575;url=http://www.garnethill.com/jump.jsp?itemID=7575&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C7575;");
+aI("text=Rugs;showmenu=Menu7138;url=http://www.garnethill.com/jump.jsp?itemID=7138&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C7138;");
+aI("text=Gifts & Home Accessories;showmenu=Menu7792;url=http://www.garnethill.com/jump.jsp?itemID=7792&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C7792;");
+aI("text=Curtains & Lamps;showmenu=Menu7421;url=http://www.garnethill.com/jump.jsp?itemID=7421&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C7421;");
+aI("text=Decorative Pillows;showmenu=Menu8554;url=http://www.garnethill.com/jump.jsp?itemID=8554&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C8554;");
+aI("text=Table Linens;showmenu=Menu8990;url=http://www.garnethill.com/jump.jsp?itemID=8990&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C8990;");
+aI("text=Holiday Items;showmenu=Menu8778;url=http://www.garnethill.com/jump.jsp?itemID=8778&itemType=CATEGORY&path=1%2C2%2C2425%2C7416%2C8778;");
+}
+with(milonic=new menuname("Menu6671")){
+style=menuStyle6671;
+aI("text=Accessories;showmenu=Menu7423;url=http://www.garnethill.com/jump.jsp?itemID=7423&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C7423;");
+aI("text=Blouses;showmenu=Menu8439;url=http://www.garnethill.com/jump.jsp?itemID=8439&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C8439;");
+aI("text=Coats & Jackets;showmenu=Menu7579;url=http://www.garnethill.com/jump.jsp?itemID=7579&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C7579;");
+aI("text=Petite Tops & Jackets;showmenu=Menu8221;url=http://www.garnethill.com/jump.jsp?itemID=8221&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C8221;");
+aI("text=Dresses;showmenu=Menu8217;url=http://www.garnethill.com/jump.jsp?itemID=8217&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C8217;");
+aI("text=Petite Dresses & Skirts;showmenu=Menu8220;url=http://www.garnethill.com/jump.jsp?itemID=8220&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C8220;");
+aI("text=Knit Tops;showmenu=Menu8438;url=http://www.garnethill.com/jump.jsp?itemID=8438&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C8438;");
+aI("text=Pants & Shorts;showmenu=Menu7425;url=http://www.garnethill.com/jump.jsp?itemID=7425&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C7425;");
+aI("text=Petite Pants;showmenu=Menu6341;url=http://www.garnethill.com/jump.jsp?itemID=6341&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C6341;");
+aI("text=Skirts;showmenu=Menu6196;url=http://www.garnethill.com/jump.jsp?itemID=6196&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C6196;");
+aI("text=Sweaters;showmenu=Menu7424;url=http://www.garnethill.com/jump.jsp?itemID=7424&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C7424;");
+aI("text=Boots;showmenu=Menu8947;url=http://www.garnethill.com/jump.jsp?itemID=8947&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C8947;");
+aI("text=Dressy Shoes;showmenu=Menu8799;url=http://www.garnethill.com/jump.jsp?itemID=8799&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C8799;");
+aI("text=Sandals & Casual Shoes;showmenu=Menu8962;url=http://www.garnethill.com/jump.jsp?itemID=8962&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C8962;");
+aI("text=Sporty Shoes;showmenu=Menu8219;url=http://www.garnethill.com/jump.jsp?itemID=8219&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C8219;");
+aI("text=View All Shoes;showmenu=Menu9082;url=http://www.garnethill.com/jump.jsp?itemID=9082&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C9082;");
+aI("text=Winter Accessories;showmenu=Menu8945;url=http://www.garnethill.com/jump.jsp?itemID=8945&itemType=CATEGORY&path=1%2C2%2C2425%2C6671%2C8945;");
+}
+with(milonic=new menuname("Menu7454")){
+style=menuStyle7454;
+aI("text=Intimates;showmenu=Menu8938;url=http://www.garnethill.com/jump.jsp?itemID=8938&itemType=CATEGORY&path=1%2C2%2C2425%2C7454%2C8938;");
+aI("text=Pajamas & Gowns;showmenu=Menu8072;url=http://www.garnethill.com/jump.jsp?itemID=8072&itemType=CATEGORY&path=1%2C2%2C2425%2C7454%2C8072;");
+aI("text=Robes;showmenu=Menu7364;url=http://www.garnethill.com/jump.jsp?itemID=7364&itemType=CATEGORY&path=1%2C2%2C2425%2C7454%2C7364;");
+aI("text=Slippers;showmenu=Menu7435;url=http://www.garnethill.com/jump.jsp?itemID=7435&itemType=CATEGORY&path=1%2C2%2C2425%2C7454%2C7435;");
+aI("text=Men's Sleepwear & Slippers;showmenu=Menu9095;url=http://www.garnethill.com/jump.jsp?itemID=9095&itemType=CATEGORY&path=1%2C2%2C2425%2C7454%2C9095;");
+}
+with(milonic=new menuname("Menu8667")){
+style=menuStyle8667;
+aI("text=Infants & Toddlers;showmenu=Menu8676;url=http://www.garnethill.com/jump.jsp?itemID=8676&itemType=CATEGORY&path=1%2C2%2C2425%2C8667%2C8676;");
+aI("text=Toddlers' Footwear;showmenu=Menu9100;url=http://www.garnethill.com/jump.jsp?itemID=9100&itemType=CATEGORY&path=1%2C2%2C2425%2C8667%2C9100;");
+aI("text=Girls' Tops;showmenu=Menu8675;url=http://www.garnethill.com/jump.jsp?itemID=8675&itemType=CATEGORY&path=1%2C2%2C2425%2C8667%2C8675;");
+aI("text=Girls' Dresses & Skirts;showmenu=Menu8996;url=http://www.garnethill.com/jump.jsp?itemID=8996&itemType=CATEGORY&path=1%2C2%2C2425%2C8667%2C8996;");
+aI("text=Girls' Pants & Shorts;showmenu=Menu9014;url=http://www.garnethill.com/jump.jsp?itemID=9014&itemType=CATEGORY&path=1%2C2%2C2425%2C8667%2C9014;");
+aI("text=Girls' Shoes & Boots;showmenu=Menu8952;url=http://www.garnethill.com/jump.jsp?itemID=8952&itemType=CATEGORY&path=1%2C2%2C2425%2C8667%2C8952;");
+aI("text=Girls' Sweaters & Sweatshirts;showmenu=Menu8786;url=http://www.garnethill.com/jump.jsp?itemID=8786&itemType=CATEGORY&path=1%2C2%2C2425%2C8667%2C8786;");
+aI("text=Girls' Accessories;showmenu=Menu8995;url=http://www.garnethill.com/jump.jsp?itemID=8995&itemType=CATEGORY&path=1%2C2%2C2425%2C8667%2C8995;");
+aI("text=Boys' Shirts;showmenu=Menu8785;url=http://www.garnethill.com/jump.jsp?itemID=8785&itemType=CATEGORY&path=1%2C2%2C2425%2C8667%2C8785;");
+aI("text=Boys' Pants & Shorts;showmenu=Menu8957;url=http://www.garnethill.com/jump.jsp?itemID=8957&itemType=CATEGORY&path=1%2C2%2C2425%2C8667%2C8957;");
+aI("text=Boys' Shoes & Boots;showmenu=Menu8951;url=http://www.garnethill.com/jump.jsp?itemID=8951&itemType=CATEGORY&path=1%2C2%2C2425%2C8667%2C8951;");
+aI("text=Kids' Beachwear;showmenu=Menu9186;url=http://www.garnethill.com/jump.jsp?itemID=9186&itemType=CATEGORY&path=1%2C2%2C2425%2C8667%2C9186;");
+aI("text=Kids' Outerwear;showmenu=Menu8997;url=http://www.garnethill.com/jump.jsp?itemID=8997&itemType=CATEGORY&path=1%2C2%2C2425%2C8667%2C8997;");
+aI("text=Kids' Sleepwear & Slippers;showmenu=Menu9002;url=http://www.garnethill.com/jump.jsp?itemID=9002&itemType=CATEGORY&path=1%2C2%2C2425%2C8667%2C9002;");
+}
+with(milonic=new menuname("Menu8668")){
+style=menuStyle8668;
+aI("text=Sheets;showmenu=Menu8683;url=http://www.garnethill.com/jump.jsp?itemID=8683&itemType=CATEGORY&path=1%2C2%2C2425%2C8668%2C8683;");
+aI("text=Accessories;showmenu=Menu8777;url=http://www.garnethill.com/jump.jsp?itemID=8777&itemType=CATEGORY&path=1%2C2%2C2425%2C8668%2C8777;");
+aI("text=Bath;showmenu=Menu8682;url=http://www.garnethill.com/jump.jsp?itemID=8682&itemType=CATEGORY&path=1%2C2%2C2425%2C8668%2C8682;");
+aI("text=Bedskirts;showmenu=Menu8684;url=http://www.garnethill.com/jump.jsp?itemID=8684&itemType=CATEGORY&path=1%2C2%2C2425%2C8668%2C8684;");
+aI("text=Blankets & Quilts;showmenu=Menu8784;url=http://www.garnethill.com/jump.jsp?itemID=8784&itemType=CATEGORY&path=1%2C2%2C2425%2C8668%2C8784;");
+aI("text=Furnishings;showmenu=Menu8685;url=http://www.garnethill.com/jump.jsp?itemID=8685&itemType=CATEGORY&path=1%2C2%2C2425%2C8668%2C8685;");
+}
+
+drawMenus();
+</script>
+<script language="javascript">
+var the_topSubImages = new Array("/images/us/null",
+"/images/us/null"
+,"/images/us/null",
+"/images/us/null"
+,"/images/us/null",
+"/images/us/null"
+,"/images/us/null",
+"/images/us/null"
+,"/images/us/null",
+"/images/us/null"
+,"/images/us/null",
+"/images/us/null"
+);
+preLoadSubCatImages(the_topSubImages);
+</script>
+</head>
+<body class="main" marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+
+<!-- Content Wrap Start -->
+    
+<table align="center" border="0" width="768" cellpadding="0" cellspacing="0">
+  	<tbody><tr>
+		<td class="navheaderbg">
+<!--SourceCode:  -->
+
+
+<!-- Navheader Start-->
+
+<table border="0" width="768" cellpadding="0" cellspacing="0">
+
+<tbody><tr>
+	<td class="clearbg"><a href="http://www.garnethill.com/jump.jsp?itemID=0&amp;itemType=HOME_PAGE"><img src="/images/us/global/globalnav/logo01.gif" border="0" alt="Garnet Hill"></a><img src="/images/us/global/globalgraphics/800number.gif" border="0"><a href="https://www.garnethill.com/account/accountmain.jsp"><img src="/images/us/global/globalnav/myaccount_off.gif" border="0" alt="Sign In" name="top_myaccount"></a><a href="http://www.garnethill.com/shopping/catalogquickshop/cqsmain.jsp" onmouseover="rollover('top_cqs','/images/us/global/globalnav/catquickshop_on.gif');" onmouseout="rollover('top_cqs','/images/us/global/globalnav/catquickshop_off.gif');"><img src="/images/us/global/globalnav/catquickshop_off.gif" border="0" alt="Catalog Quick Shop" name="top_cqs"></a></td>
+	<td><table border="0" cellpadding="0" cellspacing="0">
+		<form name="searchForm" action="http://www.garnethill.com/shopping/search/searchresultsmain.jsp" onsubmit="return checkFieldsSearch('searchForm')"></form>
+    	<input type="hidden" name="searchType" value="keyword">
+		<input type="hidden" name="NRS" value="1">
+		<input type="hidden" name="RS" value="1">
+		<tbody><tr>
+    	   	
+			<td><input type="text" name="keyword" value="keyword or item#" maxlength="30" size="10" class="navsearchbox" onfocus="if(this.value=='keyword or item#')this.value='';" onfocusout="if(this.value=='')this.value='keyword or item#';"></td>
+			<td align="right"><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"><input type="Image" name="Search" src="/images/us/global/globalgraphics/search_btn.gif" border="0" alt="Go"></td>
+        </tr>
+        
+		<!--<tr>
+            <td align=right colspan=3><a href="http://www.garnethill.com/shopping/search/advancedsearchmain.jsp" onMouseOver="rollover('top_advancedsearch','/images/us/global/globalnav/advancedsearch_on.gif');" onMouseOut="rollover('top_advancedsearch','/images/us/global/globalnav/advancedsearch_off.gif');"><img src="/images/us/global/globalnav/advancedsearch_off.gif" border=0 alt="Advanced Search" name="top_advancedsearch"></a></td>
+        </tr>-->
+        
+		
+	</tbody></table></td>
+</tr>
+<tr>
+	<td colspan="2"><table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	<td><a href="http://www.garnethill.com/jump.jsp?itemType=CATEGORY&amp;itemID=4477&amp;path=1%2C2%2C4477" onmouseover="popup('Menu4477','MenuImg4477');" onmouseout="popdown();"><img border="0" name="MenuImg4477" id="MenuImg4477" src="/images/us/global/globalnav/globalnav01_off.gif" alt="Women`s Fashion"></a></td>
+			<td><a href="http://www.garnethill.com/jump.jsp?itemType=CATEGORY&amp;itemID=5&amp;path=1%2C2%2C5" onmouseover="popup('Menu5','MenuImg5');" onmouseout="popdown();"><img border="0" name="MenuImg5" id="MenuImg5" src="/images/us/global/globalnav/globalnav02_off.gif" alt="Bedding &amp; Home"></a></td>
+			<td><a href="http://www.garnethill.com/jump.jsp?itemType=CATEGORY&amp;itemID=4322&amp;path=1%2C2%2C4322" onmouseover="popup('Menu4322','MenuImg4322');" onmouseout="popdown();"><img border="0" name="MenuImg4322" id="MenuImg4322" src="/images/us/global/globalnav/globalnav03_off.gif" alt="Kids` Clothing"></a></td>
+			<td><a href="http://www.garnethill.com/jump.jsp?itemType=CATEGORY&amp;itemID=2773&amp;path=1%2C2%2C2773" onmouseover="popup('Menu2773','MenuImg2773');" onmouseout="popdown();"><img border="0" name="MenuImg2773" id="MenuImg2773" src="/images/us/global/globalnav/globalnav04_off.gif" alt="Kids` Rooms"></a></td>
+			<td><a href="http://www.garnethill.com/jump.jsp?itemType=CATEGORY&amp;itemID=4611&amp;path=1%2C2%2C4611" onmouseover="popup('Menu4611','MenuImg4611');" onmouseout="popdown();"><img border="0" name="MenuImg4611" id="MenuImg4611" src="/images/us/global/globalnav/globalnav05_off.gif" alt="Gifts &amp; Gift Cards"></a></td>
+			<td><a href="http://www.garnethill.com/jump.jsp?itemType=CATEGORY&amp;itemID=2425&amp;path=1%2C2%2C2425" onmouseover="popup('Menu2425','MenuImg2425');" onmouseout="popdown();"><img border="0" name="MenuImg2425" id="MenuImg2425" src="/images/us/global/globalnav/globalnav06_off.gif" alt="Sale &amp; Clearance"></a></td>
+			
+	
+		<td><a href="http://www.garnethill.com/basket/basketmain.jsp" onmouseover="rollover('top_shopbasket','/images/us/global/globalnav/shopbasket_on.gif');" onmouseout="rollover('top_shopbasket','/images/us/global/globalnav/shopbasket_off.gif');"><img src="/images/us/global/globalnav/shopbasket_off.gif" border="0" alt="Shopping Bag" name="top_shopbasket"></a></td>
+	    
+        <td valign="middle">&nbsp;</td>
+        
+	</tr>
+	</tbody></table></td>
+</tr>
+<!-- Navheader End -->
+</tbody></table>
+<script language="javascript">
+var the_topimages = new Array("/images/us/global/globalnav/globalnav01_on.gif",
+"/images/us/global/globalnav/globalnav01_off.gif"
+,"/images/us/global/globalnav/globalnav02_on.gif",
+"/images/us/global/globalnav/globalnav02_off.gif"
+,"/images/us/global/globalnav/globalnav03_on.gif",
+"/images/us/global/globalnav/globalnav03_off.gif"
+,"/images/us/global/globalnav/globalnav04_on.gif",
+"/images/us/global/globalnav/globalnav04_off.gif"
+,"/images/us/global/globalnav/globalnav05_on.gif",
+"/images/us/global/globalnav/globalnav05_off.gif"
+,"/images/us/global/globalnav/globalnav06_on.gif",
+"/images/us/global/globalnav/globalnav06_off.gif"
+);
+preLoadCatImages(the_topimages);
+function checkFieldsSearch() {
+        var searchtxt=Trim(document.searchForm.keyword.value);
+        if (searchtxt == '')
+	{
+		alert("Please enter keyword or item#.");
+		return false;
+	} else if (searchtxt == 'keyword or item#') {
+		alert("Please enter keyword or item#.");
+		return false;
+        } else if (searchtxt.length <= 2) {
+		alert("We are sorry, the information you have requested is not available.");
+		return false;
+        } else {
+		return true;
+	}
+}
+function Trim(inString){
+  return LTrim(RTrim(inString));
+}
+
+function LTrim(inString){
+  return inString.replace(/^\s+/,'');
+}
+
+function RTrim(inString){
+  return inString.replace(/\s+$/,'');
+}
+
+</script></td>
+	</tr>
+  <tr valign="top">
+      <td width="768" class="contentbg">
+<!-- Content Block Start -->
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="768">
+	<tbody><tr valign="top">
+		<td colspan="2"><img src="/images/us/local/headers/main/customerservice_mhd.gif" border="0" alt="Customer Service"></td>
+	</tr>
+	<tr valign="top">
+		<td class="default" width="192">
+			<!-- start nav -->
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="192">
+	<tbody><tr valign="top">
+		<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
+		<td><table border="0" cellspacing="0" cellpadding="0" width="182">
+			
+				<tbody><tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="11" border="0"></td></tr>
+			
+				<tr><td><div class="leftNavMain"><a href="http://www.garnethill.com/jump.jsp?itemID=2338&amp;itemType=CATEGORY&amp;path=1%2C2%2C2333%2C2338">Customer Assistance</a></div></td></tr>
+				
+					
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="19" border="0"></td></tr>
+			
+				<tr><td><div class="leftNavMain"><a href="http://www.garnethill.com/jump.jsp?itemID=2344&amp;itemType=CATEGORY&amp;path=1%2C2%2C2333%2C2344">Your Privacy Rights</a></div></td></tr>
+				
+					
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="19" border="0"></td></tr>
+			
+				<tr><td><div class="leftNavMain"><a href="http://www.garnethill.com/jump.jsp?itemID=2348&amp;itemType=CATEGORY&amp;path=1%2C2%2C2333%2C2348">Email Deliverability</a></div></td></tr>
+				
+					
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="19" border="0"></td></tr>
+			
+				<tr><td><div class="leftNavMain"><a href="http://www.garnethill.com/jump.jsp?itemID=2349&amp;itemType=CATEGORY&amp;path=1%2C2%2C2333%2C2349">Japan Customer Service</a></div></td></tr>
+				
+					
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="19" border="0"></td></tr>
+			
+				<tr><td><div class="leftNavMain"><a href="http://www.garnethill.com/jump.jsp?itemID=2350&amp;itemType=CATEGORY&amp;path=1%2C2%2C2333%2C2350">Business to Business</a></div></td></tr>
+				
+					
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="19" border="0"></td></tr>
+			
+				<tr><td><div class="leftNavMain"><a href="http://www.garnethill.com/jump.jsp?itemID=8469&amp;itemType=CATEGORY&amp;path=1%2C2%2C2333%2C8469">Gift Registry</a></div></td></tr>
+				
+					
+				<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="19" border="0"></td></tr>
+			
+		</tbody></table></td>
+	</tr>
+</tbody></table>
+<!-- end nav -->
+		</td>
+		<td>
+			<table border="0" cellspacing="0" cellpadding="0" width="576">
+				<tbody><tr>
+					<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="11" border="0"></td>
+				</tr>
+				<tr>
+					<td><table width="576" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>	
+  	  <td width="576" valign="top"><img src="/images/us/local/page_specific/customerservice/cs_privacy.gif" width="278" height="17" border="0" align="left">
+  	    <div style="padding: 0px 0px 10px 10px"><img src="/images/us/local/page_specific/customerservice/cs_privacy.jpg" width="288" height="288" align="right"></div>
+<div class="colorsubheader"><br>Updated: January 27, 2005</div>
+<div class="default">At Garnet Hill, we are concerned about privacy issues and have therefore established a policy that respects the privacy and security of your personal information. Garnet Hill recognizes that we must preserve and use customer information responsibly. We always welcome any feedback and questions. For privacy related issues you can contact us:<br><br>
+<b>By mail:</b><br>
+Garnet Hill<br>
+Attn: Customer Service<br>
+231 Main Street<br>
+Franconia, NH 03580<br><br>
+<b>By phone:</b><br>
+800.870.3513<br><br>
+<b>By fax:</b><br>
+888.842.9696<br><br>
+<b>By email:</b><br>
+<a href="mailto:privacyrights@garnethill.com" class="linkclass">privacyrights@garnethill.com</a><br><br>
+<b>Information we collect and how we use it</b><br>
+Garnet Hill, selling under the brand names Garnet Hill and Growing Up with Garnet Hill, collects customer information under the following conditions:<br>
+<ul><li>an order is placed from our catalogs or web site<br>
+</li><li>an inquiry is made about our products or services<br>
+</li><li>a catalog is requested<br>
+</li><li>a gift package is received<br>
+</li><li>a registration is completed on our web site<br>
+</li><li>a purchase is made at our retail outlet stores<br>
+</li><li>a customer subscribes to our emails</li></ul><br>
+The information, collected and maintained in a secure database, may include name, billing and shipping addresses, telephone numbers, email addresses, and when necessary, payment information. Garnet Hill may use this information to send you electronic (via email) or printed (via US mail) materials promoting our products, announcing sales, and offering other special, limited-time discounts. Every customer has the option of declining to receive future promotions from Garnet Hill by contacting Customer Service. Email customers can opt out of additional emails from Garnet Hill by unsubscribing on the link that appears on the bottom of every email, or by contacting Customer Service.<br>
+<br>
+Garnet Hill and Growing Up with Garnet Hill occasionally make customers' names and postal addresses available to other carefully selected and screened companies for the purpose of sending our customers relevant and complementary catalog, magazine, and fundraising offers. Individual information shared may consist of name, address and aggregated data including range of dollars spent, date range of transactions, and category of items purchased. We do not share customer telephone numbers, email addresses, or payment information with other companies. You always have the right to choose not to receive information from us or from other companies by simply contacting us by any of the methods noted above.<br><br>
+Garnet Hill also gathers information from our web site using cookies and pixel tags. Cookies are small pieces of electronic information or data files that are stored by the web browser on the hard drive of a customer's computer. They allow us to retain visitor preferences, registration information, and remember shopping cart selections. Cookies can also be used to collect anonymous data that, when aggregated, allows us to improve the content of the Garnet Hill site, customize and personalize the site presentation for visitors, and generally enhance our customers' shopping experience. Pixel tags are tiny graphic images that are placed on the web site or in an email to help us identify what parts of the web site customers visit, measure the effectiveness of searches, allow us to send you emails in the most readable format, and identify if emails have been opened by recipients. They also help us to summarize traffic volume, click paths, and browser usage on our site. This information is used to make sure that our marketing efforts are effective and that our site provides our customer with the most efficient and usable online experience.<br><br> 
+Garnet Hill is a member of the Direct Marketing Association (DMA) and therefore follows the DMA privacy guidelines. For more information on these guidelines or to use the DMA's Mail Preference Service to reduce having your name distributed to other direct marketing companies, you can visit www.dmaconsumers.org.<br><br>
+<b>Security</b><br>
+Garnet Hill protects your online order information by using Secure Sockets Layer (SSL) technology. SSL digitally encrypts your order, making it undecipherable to anyone except Garnet Hill. To take advantage of secure shopping you must have an SSL compatible browser such as Netscape or Internet Explorer. Some browsers and some firewalls do not allow access to secure servers and will therefore limit your shopping experience.<br><br>
+By using our web site, you consent to the collection and use of information by Garnet Hill and Growing Up with Garnet Hill as indicated above unless you notify us otherwise. If we make a change to our policy, we will be sure to post those changes on this page so you can always be aware of the information we collect and how we use it.<br><br></div></td>
+	</tr>
+</tbody></table>
+
+</td>
+				</tr>
+				<tr>
+					<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="25" border="0"></td>
+				</tr>
+			</tbody></table>		
+		</td>
+	</tr>
+</tbody></table>
+<!--end main body content and kicker here-->
+
+<!-- Content Block End -->
+	</td>
+</tr>
+<tr valign="top">
+	<td align="center" class="navfooterbg">
+<table border="0" width="768" cellpadding="0" cellspacing="0">
+
+<tbody><tr>
+	<td><table border="0" cellspacing="0" cellpadding="0" width="768">
+		<form method="post" name="emailForm" action="https://www.garnethill.com/subscribemain.jsp?action=1" onsubmit="return emailCheck()"></form>
+		<tbody><tr>
+			<td class="footer2">Email Updates</td>
+			<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="15" height="1" border="0"></td>
+			<td align="right"><input name="email" type="text" value="Your Email Address" maxlength="50" size="12" class="navemailbox" onfocus="if(this.value=='Your Email Address')this.value='';" onfocusout="if(this.value=='')this.value='Your Email Address';"></td>
+			<td align="right"><img src="/images/us/global/globalgraphics/spacer01.gif" width="8" height="1" border="0"></td>
+			<td align="right"><input type="Image" name="emailSubmit" src="/images/us/global/globalgraphics/emailsignup_btn.gif" border="0" alt="Submit"><img src="/images/us/global/globalgraphics/spacer01.gif" width="15" height="1" border="0"></td>
+			<td align="right"><a href="javascript:openHelp();"><img src="/images/us/global/globalgraphics/livehelp.gif" border="0"></a></td>
+			<td align="right"><a href="http://www.garnethill.com/jump.jsp?itemID=2333&amp;itemType=CATEGORY&amp;path=1%2C3%2C2333" onmouseover="rollover('foot_custserv','/images/us/global/globalnav/customerserv_on.gif');" onmouseout="rollover('foot_custserv','/images/us/global/globalnav/customerserv_off.gif');"><img src="/images/us/global/globalnav/customerserv_off.gif" name="foot_custserv" border="0"></a></td>
+			<td align="right"><a href="http://www.garnethill.com/jump.jsp?itemID=2349&amp;itemType=CATEGORY&amp;path=1%2C2%2C2333%2C2349"><img src="/images/us/global/globalgraphics/japanese.gif" border="0"></a></td>
+		</tr>
+		
+	</tbody></table></td>
+</tr>
+<tr>
+	<td align="center" class="footertablebg"><table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td><div class="footer1"><a href="http://www.garnethill.com/jump.jsp?itemID=2352&amp;itemType=CATEGORY&amp;path=1%2C3%2C2352">Information Center</a></div></td>
+				<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="56" height="36" border="0"></td>
+				<td><div class="footer1"><a href="https://www.garnethill.com/account/orderhistory/orderstatus.jsp">Order Status</a></div></td>
+				<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="55" height="1" border="0"></td>
+				<td><div class="footer1"><a href="http://www.garnethill.com/jump.jsp?itemID=8469&amp;itemType=CATEGORY&amp;path=1%2C2%2C2333%2C8469">Gift Registry</a></div></td>
+				<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="55" height="1" border="0"></td>
+				<td><div class="footer1"><a href="https://www.garnethill.com/catalogrequest/catalogrequestmain.jsp">Request a Catalog</a></div></td>
+				<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="55" height="1" border="0"></td>
+				<td><div class="footer1"><a href="http://www.garnethill.com/content/sitemap/sitemapmain.jsp">Site Map</a></div></td>
+				<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="55" height="1" border="0"></td>
+				<td><div class="footer1" align="right"><a href="http://www.garnethill.com/jump.jsp?itemID=2339&amp;itemType=CATEGORY&amp;path=1%2C2%2C2333%2C2338%2C2339">Contact Us</a></div></td>
+			</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table></td>
+</tr>
+<tr>
+	<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="13" border="0"></td>
+</tr>
+<tr>
+	<td align="center"><table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><table border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+			<td><div class="footer"><a href="http://www.garnethill.com/jump.jsp?itemID=2353&amp;itemType=CATEGORY&amp;path=1%2C2%2C2352%2C2353">About Garnet Hill</a></div></td>
+			<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"><span class="footerpipe">|</span><img src="/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"></td>
+			<td><div class="footer"><a href="http://www.garnethill.com/jump.jsp?itemID=2357&amp;itemType=CATEGORY&amp;path=1%2C2%2C2352%2C2353%2C2357">Garnet Hill Guarantee</a></div></td>
+			<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"><span class="footerpipe">|</span><img src="/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"></td>
+			<td><div class="footer"><a href="http://www.garnethill.com/jump.jsp?itemID=2350&amp;itemType=CATEGORY&amp;path=1%2C2%2C2333%2C2350">Business to Business Opportunities</a></div></td>
+			<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"><span class="footerpipe">|</span><img src="/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"></td>
+			<td><div class="footer"><a href="http://www.garnethill.com/jump.jsp?itemID=2359&amp;itemType=CATEGORY&amp;path=1%2C2%2C2352%2C2353%2C2359">Affiliates</a></div></td>
+			<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"><span class="footerpipe">|</span><img src="/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"></td>
+			<td><div class="footer"><a href="http://www.garnethill.com/jump.jsp?itemID=2360&amp;itemType=CATEGORY&amp;path=1%2C2%2C2352%2C2353%2C2360">Job Opportunities</a></div></td>
+			<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"><span class="footerpipe">|</span><img src="/images/us/global/globalgraphics/spacer01.gif" width="12" height="1" border="0"></td>
+			<td><div class="footer" align="right"><a href="http://www.garnethill.com/jump.jsp?itemID=2344&amp;itemType=CATEGORY&amp;path=1%2C2%2C2333%2C2344">Your Privacy Rights</a></div></td>
+			</tr>
+			</tbody></table></td>
+		</tr>
+	</tbody></table></td>
+</tr>
+<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="33" border="0"></td></tr>
+<tr><td align="center" class="footer3">©2006 Garnet Hill
+<br><br><br>
+
+<style>
+
+.partnerLinks
+{
+	font-size: 9px;
+	font-family: verdana, arial, helvetica, geneva;
+	font-weight: normal;
+	font-style: normal;
+	color: #999999;
+}
+
+.partnerLinks:hover
+{
+	font-size: 9px;
+	font-family: verdana, arial, helvetica, geneva;
+	font-weight: normal;
+	font-style: normal;
+	color: #8C5B3A;
+}
+
+</style>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td style="font-size: 9px;
+	font-family: verdana, arial, helvetica, geneva;
+	font-weight: normal;
+	font-style: normal;
+	color: #999999;" align="center">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Partner Sites:&nbsp;
+        <a class="partnerLinks" target="_new" href="http://www.ticketmaster.com">Ticketmaster</a>&nbsp;|&nbsp;
+        <a class="partnerLinks" target="_new" href="http://www.hsn.com">HSN</a>&nbsp;|&nbsp;
+
+        <a class="partnerLinks" target="_new" href="http://www.citysearch.com">CitySearch</a>&nbsp;|&nbsp;
+        <a class="partnerLinks" target="_new" href="http://www.ballarddesigns.com">Ballard Designs</a>&nbsp;|&nbsp;
+        <a class="partnerLinks" target="_new" href="http://www.territoryahead.com">Territory Ahead</a>&nbsp;|&nbsp;
+        <a class="partnerLinks" target="_new" href="http://www.frontgate.com/fg/home.jsp?k=XX10463">Frontgate</a>&nbsp;|&nbsp;
+		<a class="partnerLinks" target="_new" href="http://www.alstos.com">Alsto's</a>&nbsp;
+
+</td>
+</tr>
+<tr><td style="font-size: 9px;
+	font-family: verdana, arial, helvetica, geneva;
+	font-weight: normal;
+	font-style: normal;
+	color: #999999;" align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a class="partnerLinks" target="_new" href="http://www.travelsmith.com/ts/home.jsp?referring_url=tlinkfro">TravelSmith</a>&nbsp;|&nbsp;
+        <a class="partnerLinks" target="_new" href="http://www.homefocuscatalog.com">Home Focus</a>&nbsp;|&nbsp;
+        <a class="partnerLinks" target="_new" href="http://www.match.com">Match.com</a>&nbsp;|&nbsp;
+
+        <a class="partnerLinks" target="_new" href="http://www.isabellabird.com">Isabella Bird</a>&nbsp;|&nbsp;
+        <a class="partnerLinks" target="_new" href="http://www.evite.com">Evite</a>&nbsp;|&nbsp;
+        <a class="partnerLinks" target="_new" href="http://www.smithnoble.com">Smith+Noble</a>&nbsp;|&nbsp;
+        <a class="partnerLinks" target="_new" href="http://www.improvementscatalog.com">Improvements Catalog</a>&nbsp;
+</td>
+</tr>
+
+</tbody></table>
+
+
+
+
+</td></tr>
+
+
+
+<tr><td><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="33" border="0"></td></tr>
+</tbody></table>
+<!-- Footer End -->
+
+<!-- Omniture Reporting Support -->
+
+
+<script type="text/javascript" src="/includes/s_code.js"></script>
+<script>s.pageName='Product Groups/Customer Service/Your Privacy Rights';
+</script>
+<script>s_code=s.t();if(s_code)document.write(s_code);</script>
+
+<!-- End, Omniture Reporting Support -->
+
+<!-- Intelligent Reporting Support -->
+
+
+
+
+
+
+<!-- Intelligent Reporting Support End -->
+<script language="JavaScript">
+function emailCheck(){
+    var email = Trim(document.emailForm.email.value);
+
+	if ((email.indexOf("@") == -1) || (email.indexOf(".") == -1) || (email.indexOf("@") == 0)) {
+        alert("Please check your email format!");
+		return false;
+	}
+	if (email.indexOf(".") == (email.indexOf("@")+1)) {
+        alert("Please check your email format!");
+		return false;
+    }
+	if ((email.indexOf("'") != -1) || (email.indexOf(" ") != -1) || (email.indexOf("\"") != -1)) {
+		alert("Please check your email format!");
+		return false;
+	}
+    return true;
+}
+</script>
+</td>
+</tr>	  
+</tbody></table>	
+<!-- Content Wrap End -->
+
+
+
+
+
+</body></html>
