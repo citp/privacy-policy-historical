@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam.com.au privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616043310id_/http%3A//www.adam.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam.com.au privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018095415id_/http%3A//www.adam.com.au/privacy.php) for the most accurate reproduction.*
 
 # Adam Internet Privacy
 
