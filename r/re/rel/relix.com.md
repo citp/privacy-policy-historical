@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the relix.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005803id_/http%3A//relix.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relix.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018213638id_/http%3A//relix.com/privacy.phtml) for the most accurate reproduction.*
 
 # r e l i x . c o m - Relix Magazine and Relix Records | Privacy Policy
 
-[Way to Go Home For RatDog](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-12-19)     [&quot;Time Again&quot; For Washboard](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-12-20)     [Seth Davis Slides Into A Great Southern Southbound](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-12-21)     [A Brief Land Grab From The Biscuits](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-12-18)     [Night of 1000 Breakfasts](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-12-17)     [The Word on Wakarusa](http://www.relix.com/cgi-bin/content_list.cgi?type=news)     [ Brand New Dylan](http://www.relix.com/cgi-bin/content_list.cgi?type=news)     [Trey Anastasio Revisits Bar 17&#160;](http://www.relix.com/cgi-bin/content_list.cgi?type=news)     [Jambands.com Re-Launches Radio Charts](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-12-22)     [The Floor's Too Far Away For Ozrics](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-13-22)     [Kimock and Everyone](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news279.html#6-14-17)       
+[Brendan Bayliss Reprises Rebubula with moe. ](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news295.html#10-16-19)     [U-Melt Befriends Newest Member of Umphrey's McGee](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news295.html#10-16-20)     [Trey Tries Tea Again](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news295.html#10-16-21)     [Two Gallants, One Brawl](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news295.html#10-16-22)     [String Cheese Out Yonder](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news295.html#10-16-18)     [Widespread Panic Confirms New Years Eve Run](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news295.html#10-16-17)     [Dave Matthews Band: Best of What's Around](http://www.relix.com/cgi-bin/content_list.cgi?type=news)     [Patti Smith Enlists Flea and Richard Lloyd for CBGB Swan Song](http://www.relix.com/cgi-bin/content_list.cgi?type=news)     [John Densmore Opens Doors to Tribaljazz](http://www.relix.com/cgi-bin/content_list.cgi?type=news)     [Gent Treadlys Mike Jaimes: 1967-2006](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news295.html#10-16-16)     [Donavon Frankenreiter Mingles with Mule](http://www.jambands.com/NewsArchives.phtml?newsfile=redesign_news295.html#10-16-23)       
 |   
 ---  
 ********  
-[](http://www.jambands.com/cgi-bin/btransfer.cgi?bid=792&posid=14)  
+[](http://www.jambands.com/cgi-bin/btransfer.cgi?bid=893&posid=14)  
   
 **Privacy Policy**   
 
@@ -38,39 +38,40 @@ Sign up for our award winning newsletter: [Click Here](https://web.archive.org/n
 [Advertising Info](https://web.archive.org/adsinfo.phtml) | [Contributor Guidelines](https://web.archive.org/coguide.phtml) | [Links](https://web.archive.org/linkspg.phtml) | [Privacy Policy](https://web.archive.org/privacy.phtml)  
   
 [](http://www.relix.com/catalog.cgi?action=show_cat&catid=088_Relix%20Magazine) **  
-June 2006  
-**(on newsstands 5/30)   
+September/October 2006  
+**(on newsstands 9/5)   
 ****  
-Exclusive Interview:   
-Pete Townshend  
-“This is Not a Rerun of the Old Circus Act”  **  
+ Widespread Panic: Running with Ghosts   
+**Inside George McConnell’s Surprise Split**  
+ **  
 
 
-  * 109 Summer Music Festivals You Can’t Miss
-  * From Bob Dylan to Bonnaroo: 10 Concerts that Changed the World
-  * Your Backstage Pass to the Jammys and Green Apple
-  * Les Claypool Waxes Poetic on Electric _Apricot: Quest for Festeroo_
-  * Gomez: Outsiders Among Us
-  * Warren Haynes Explores Gov’t Mule’s “Creative Tension”
-  * Lee “Scratch” Perry: Forever the Upsetter
-  * Plus Peter Frampton, Dweezil Zappa, Mike Gordon, Grace Potter, Mickey Hart and many, many more! 
+  * Bob Marley’s Legacy at 25
+  * Cover Bands Uncovered: Dark Star Orchestra, Fab Faux, Lez Zeppelin, Project/Object and many, many more!
+  * The New New Riders of the Purple Sage
+  * Trey Anastasio on _Bar 17_ , Oysterhead and His Summer With Mike Gordon and The Duo
+  * Sam Moore is Soul Man #1
+  * Controversy: Grateful Dead Productions Folds Its Tents
+  * Inside this Summer’s Hottest Festivals
+  * Plus: Joseph Moore, Brazilian Girls, Tom Hamilton, Bruce Cockburn, Ray Wylie Hubbard, Ollabelle, Kaki King and more!
 
     
 **Read more in Relix**  
 On the newsstands and by [SUBSCRIPTION](http://www.relix.com/catalog.cgi?action=show_cat&catid=088_Relix%20Magazine)** **
 
+[**Click here to view a sample of the new Relix digital edition!**  
+](http://www.relix.com/digital "Digital Relix")[Read instructions here.](http://www.relix.com/digitalhowto/)
+
 **Also in this issue:**   
 SCENE & HEARD  
 Mindful music from around the globe: The Beat, Soundcheck and Fragments
 
-REEL TIME  
-In the studio with Gov’t Mule
+GLOBAL BEAT   
+The Brazilian Girls   
 
-FESTIVAL GUIDE **  
-********** It’s that time of year again: School’s letting out, the mercury is rising and the summer festival season is heating up! Once again, we present our guide to all the fun, from coast to coast.
 
 PARTING SHOTS   
-Lee “Scratch” Perry: Forever The Great Upsetter
+Soul legend Sam Moore
 
 [  [Full Table of Contents ](https://web.archive.org/magtoc.phtml) ] 
 
@@ -83,22 +84,23 @@ NEW! [Relix Radio Podcasts](http://www.relix.com/radio) **
 [](http://www.relix.com/catalog.cgi?action=show_cat&catid=088_Relix%20Magazine) _
 
 **FREE CD with Relix!  
-** · LES CLAYPOOL, "One Better"   
-· TIEDYE KEITH, "Big World"  
-· HOT TUNA, "Bill Graham Intro/Never Happen No More"  
-· WAGNER PA & BRAZUCA MATRACA, "Folia"  
-· CIRCUS MIND, "Drown in Your Sea"  
-· SAM BUSH, "New Country"  
-· LEE SCRATCH PERRY, "Pussy Man"  
-· FAMILY GROOVE COMPANY, "The Charmer"  
-· HABIB KOITE & BAMADA, "Wassiye"  
-· ALO, "Wasting Time"  
-· NEW RIDERS OF THE PURPLE SAGE, "Panama Red"  
-· KERMIT RUFFINS, "Drop Me Off in New Orleans"  
-· STOLEN OGRE, "Jericho"  
+** \- Ray LaMontagne _Three More Days_  
+\- Medeski Scofield Martin & Wood _Little Walter Rides Again_  
+\- John Popper Project featuring DJ Logic _All Good Children  
+_\- RAQ _Bootch Magoo_  
+\- Circus Mind _Injuns Comin'_  
+\- Dave & Ansel Collins _Double Barrel_  
+\- The Duhks _Down to the River_  
+\- MOJOE _Yesterday_  
+\- Honkytonk Homeslice _Shot in the Blue_  
+\- Devon Allman's _Honeytribe Torch_  
+EDITOR’S PICK  
+\- Gov't Mule _Unring The Bell (live)_  
+JAMOFF! WINNER  
+\- Scratch Track _Homeless Man_  
 
 
-This is the third of 6 FREE CDs in 2006.  
+This is the sixth of 8 FREE CDs in 2006.  
 [Sign up now!](http://www.relix.com/catalog.cgi?action=show_cat&catid=088_Relix%20Magazine)
 
 [](http://www.relix.com/catalog/catalog.cgi?catid=208_Back%20Issues%2d%202004%20to%202005&prod_id=i_MG3203&refid=21672&start_page=0&start_cat=&action=show_prod) [](http://www.relix.com/catalog/catalog.cgi?catid=208_Back%20Issues%2d%202004%20to%202005&prod_id=i_MG3201&refid=21672&start_page=0&start_cat=&action=show_prod)  
