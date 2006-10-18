@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnieststuff.net privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630050919id_/http%3A//funnieststuff.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnieststuff.net privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018143758id_/http%3A//funnieststuff.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,8 +51,8 @@ The FunniestStuff.net  Privacy Policy may be updated to increase our members' p
 If you have any questions about the FunniestStuff.net  Privacy Policy, the information practices of this website, or you would like to view or change your personal information, send your request to:
 
 FunniestStuff.net  
-5444 Westhiemer Suite 1975  
-Houston, TX 77056  
+5718 Westheimer Rd. Suite 1240  
+Houston, TX 77057  
 USA 
 
 This FunniestStuff.net Privacy Policy is subject to change without notice. Please review this Privacy Policy on this website frequently to look for changes. Your continued membership will signify your unconditional acceptance to the modified terms. 
