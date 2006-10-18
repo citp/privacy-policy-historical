@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekwellness.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214924id_/http%3A//www.seekwellness.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekwellness.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018190950id_/http%3A//www.seekwellness.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -28,7 +28,7 @@ Q. **What should you look for in a privacy policy?**
 
   1. Make sure it's easy to understand. If you have trouble understanding it, chances are the website doesn't want you to know what it does with your information. 
 
-_SeekWellness Response: This statement has been tested with our visitors for clarity and ease of understanding. If you have questions about any part, please[contact us](https://web.archive.org/web/20060615214924id_/http%3A//www.seekwellness.com/emailform.htm?t=audaev1dhw1d44skkkkks48sw)._
+_SeekWellness Response: This statement has been tested with our visitors for clarity and ease of understanding. If you have questions about any part, please[contact us](https://web.archive.org/web/20061018190950id_/http%3A//www.seekwellness.com/emailform.htm?t=audaev1dhw1d44skkkkks48sw)._
 
   2. Check to see that the website includes an opt-in or opt-out option for registered visitors. Opt-in means that you have the right to choose if and when your information is released to others. Opt-out means that your information will be shared with others until you specifically request that it not be. If there is a choice listed, check its wording to see if the default setting is opt-out and you have to do something to stop the website from sharing your information. At that point, look at how difficult the website makes it for you to opt-out. 
 
@@ -121,4 +121,4 @@ _Effective January 1, 2001_ , _last updated August 15, 2005_
 
 
 
-[Send email to SeekWellness](https://web.archive.org/web/20060615214924id_/http%3A//www.seekwellness.com/emailform.htm?t=audaev1dhw1d44skkkkks48sw)
+[Send email to SeekWellness](https://web.archive.org/web/20061018190950id_/http%3A//www.seekwellness.com/emailform.htm?t=audaev1dhw1d44skkkkks48sw)
