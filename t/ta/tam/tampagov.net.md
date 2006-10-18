@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the tampagov.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045257id_/http%3A//www.tampagov.net/www_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tampagov.net privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018213957id_/http%3A//www.tampagov.net/www_privacy.asp) for the most accurate reproduction.*
 
 # TAMPA FLORIDA municipal government - privacy policy
 
-Thank you for visiting the City of Tampa web site and reviewing our privacy policy.  Our privacy policy is clear: We will collect no personal information about you when you visit our web site unless you choose to provide that information to us.  (Please also review [our security policy](https://web.archive.org/web/20060615045257id_/http%3A//www.tampagov.net/www_security.asp).) 
+Thank you for visiting the City of Tampa web site and reviewing our privacy policy.  Our privacy policy is clear: We will collect no personal information about you when you visit our web site unless you choose to provide that information to us.  (Please also review [our security policy](https://web.archive.org/web/20061018213957id_/http%3A//www.tampagov.net/www_security.asp).) 
+
+## Email
+
+E-mail addresses are public records under Florida Law and are not exempt from public-records requirements. If you do not want your e-mail address to be subject to being released pursuant to a public-records request do not send electronic mail to this entity. Instead, [contact this office](https://web.archive.org/web/20061018213957id_/http%3A//www.tampagov.net/departments) by telephone or in writing, via the United States Postal Service.
 
 ## Information Collected and Stored Automatically
 
