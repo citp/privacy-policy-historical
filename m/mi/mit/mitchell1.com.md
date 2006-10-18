@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitchell1.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319210449id_/http%3A//www.mitchell1.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitchell1.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018071331id_/http%3A//mitchell1.com/privacy.asp) for the most accurate reproduction.*
 
 # Mitchell 1 - The First Choice of Automotive Professionals
 
