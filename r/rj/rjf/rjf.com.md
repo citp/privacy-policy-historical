@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rjf.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322150802id_/http%3A//www.rjf.com/privacy_cl.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rjf.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018202634id_/http%3A//www.rjf.com/privacy_cl.htm) for the most accurate reproduction.*
 
 # Raymond James Financial - Privacy notice for Raymond James Clients, including Heritage Family of Funds Customers
 
@@ -20,4 +20,4 @@ As permitted by law, we may share information about you with other companies in 
 
 Raymond James has policies that restrict access to nonpublic personal information about you to those employees who have need for that information to provide investment alternatives or services to you, or to employees who assist those who provide investment alternatives or services to you. We maintain physical, electronic and procedural safeguards to protect your nonpublic personal information.
 
-Copyright © 2005 Raymond James Financial, Inc. All rights reserved.
+Copyright © 2006 Raymond James Financial, Inc. All rights reserved.
