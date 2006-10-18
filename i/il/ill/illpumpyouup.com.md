@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illpumpyouup.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614023127id_/http%3A//www.illpumpyouup.com/support-center/privacy-and-security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illpumpyouup.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018195032id_/http%3A//www.illpumpyouup.com/support-center/privacy-and-security.htm) for the most accurate reproduction.*
 
 # Privacy & Security
 
