@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615225730id_/http%3A//chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobusiness.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019015542id_/http%3A//www.chicagobusiness.com/cgi-bin/article.pl%3Fstatic_id%3D11) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,4 +27,4 @@ Policy Last Updated: January 1, 2005
 
 Advertisement 
 
-[](http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/16996532336138184@Left,Position1,Right1,Middle1!Middle1?)
+[](http://oascentral.chicagobusiness.com/RealMedia/ads/click_nx.ads/www.chicagobusiness.com/portal/admin/privacy_policy/1446627378690319@Position1,Right1,Middle1,Left!Middle1?)
