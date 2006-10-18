@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appian.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617052354id_/http%3A//www.appian.com/Home/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appian.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018030507id_/http%3A//www.appian.com/Home/privacyPolicy.html) for the most accurate reproduction.*
 
 # Appian ::: The Leading Provider of Business Process Management (BPM) Software Suites
 
