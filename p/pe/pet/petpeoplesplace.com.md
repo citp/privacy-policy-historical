@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petpeoplesplace.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617172250id_/http%3A//www.petpeoplesplace.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petpeoplesplace.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018170732id_/http%3A//www.petpeoplesplace.com/help/privacy.htm) for the most accurate reproduction.*
 
 # PetPeoplesPlace.com Privacy Policy
 
@@ -10,7 +10,7 @@ Residents of California have a legal right to request and receive in writing or 
 
 **_Your personally identifiable information is never shared with third parties with the purpose of using such information for marketing purposes under any circumstances._**
 
-To receive confirmation of this information in writing, please [Contact Us](https://web.archive.org/web/20060617172250id_/http%3A//www.petpeoplesplace.com/help/contact.htm).
+To receive confirmation of this information in writing, please [Contact Us](https://web.archive.org/web/20061018170732id_/http%3A//www.petpeoplesplace.com/help/contact.htm).
 
 **What Information We Collect**  
 You can visit our websites, read articles and other materials, and check on offerings without giving us any personally identifiable information. So that we can provide our users and subscribers with the most efficient and enhanced, personalized service, we request information about you in certain circumstances, and also collect certain information automatically. For the convenience of our customers and to better serve you, a customer account includes all the collected personal information we may have, but you can update or correct your contact information or change your preferences about receiving offers and information from us or third parties at any time. 
@@ -56,4 +56,4 @@ We use personal information so that we may display or send custom, personalized 
 **In developing our business, we might sell certain assets, or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets. 
 
 **More Information  
-** If you require further information, help in understanding our policy or have a request for account deletion, please [contact us](https://web.archive.org/web/20060617172250id_/http%3A//www.petpeoplesplace.com/help/contact.htm). 
+** If you require further information, help in understanding our policy or have a request for account deletion, please [contact us](https://web.archive.org/web/20061018170732id_/http%3A//www.petpeoplesplace.com/help/contact.htm). 
