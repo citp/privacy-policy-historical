@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annualcreditreport.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318165451id_/https%3A//www.annualcreditreport.com/cra/helpprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annualcreditreport.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018215917id_/https%3A//www.annualcreditreport.com/cra/helpprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,17 +14,17 @@ Content
 
 [Frequently Asked Questions
 
-](https://web.archive.org/web/20060318165451id_/https%3A//www.annualcreditreport.com/cra/helpfaq)  
+](https://web.archive.org/web/20061018215917id_/https%3A//www.annualcreditreport.com/cra/helpfaq)  
 | 
 
 [Contact Us
 
-](https://web.archive.org/web/20060318165451id_/https%3A//www.annualcreditreport.com/cra/helpcu)  
+](https://web.archive.org/web/20061018215917id_/https%3A//www.annualcreditreport.com/cra/helpcu)  
 | 
 
 [About Us
 
-](https://web.archive.org/web/20060318165451id_/https%3A//www.annualcreditreport.com/cra/helpabout)  
+](https://web.archive.org/web/20061018215917id_/https%3A//www.annualcreditreport.com/cra/helpabout)  
 | 
 
 Privacy Policy  
@@ -33,12 +33,12 @@ Privacy Policy
 
 [Security Policy
 
-](https://web.archive.org/web/20060318165451id_/https%3A//www.annualcreditreport.com/cra/helpsecurity)  
+](https://web.archive.org/web/20061018215917id_/https%3A//www.annualcreditreport.com/cra/helpsecurity)  
 | 
 
 [Use of Site
 
-](https://web.archive.org/web/20060318165451id_/https%3A//www.annualcreditreport.com/cra/helpuse)  
+](https://web.archive.org/web/20061018215917id_/https%3A//www.annualcreditreport.com/cra/helpuse)  
 | 
 
 Privacy Policy
