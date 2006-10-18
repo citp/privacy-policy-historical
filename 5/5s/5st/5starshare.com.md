@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5starshare.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615000429id_/http%3A//5starshare.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5starshare.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018164517id_/http%3A//5starshare.com/privacy.htm) for the most accurate reproduction.*
 
 # Free Downloads - 5starshare.com
 
@@ -19,7 +19,7 @@ When purchasing product form us, additional information is needed to fill your o
 
 In order to further protect your personal information, all order forms are run on a secure server, utilizing powerful encryption technology to safeguard all transactions (credit card/online purchases) from unauthorized viewing. It is used standard SSL(Security Socket Layer) encryption, with a certificate from VeriSign.
 
-If you have any questions or concerns regarding this matter, please feel free to [contact us](https://web.archive.org/web/20060615000429id_/http%3A//5starshare.com/contact.htm).
+If you have any questions or concerns regarding this matter, please feel free to [contact us](https://web.archive.org/web/20061018164517id_/http%3A//5starshare.com/contact.htm).
 
 | 
 
