@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fitfuel.com privacy policy that was archived on 2006-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060527172315id_/http%3A//www.fitfuel.com/information.php%3Finfo_id%3D3%26osCsid%3Da3d4ac90d323d2e0f432aead0eb04130) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitfuel.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018134532id_/http%3A//www.fitfuel.com/privacy-policy-i-3.html) for the most accurate reproduction.*
 
-# 
+# FitFuel.com
 
-Fit Fuel is committed to protecting your personal information. As a reminder, Fit Fuel does not request personal information via e-mail or telemarketing. If someone contacts you in this manner and requests personal information on behalf of Fit Fuel, _DO NOT RESPOND_! Delete, disregard or hang up. These questions are not from us. We want your personal information to remain private. If you have questions about Fit Fuel’s privacy practices, contact privacy@fitfuel.com or call us Toll-Free at 1-888-563-1170. 
+Fit Fuel is committed to protecting your personal information. As a reminder, Fit Fuel does not request personal information via e-mail or telemarketing. If someone contacts you in this manner and requests personal information on behalf of Fit Fuel, _DO NOT RESPOND_! Delete, disregard or hang up. These questions are not from us. We want your personal information to remain private. If you have questions about Fit Fuel’s privacy practices, contact privacy@fitfuel.com or call us Toll-Free at 1-877-2-FITFUEL. 
 
   
 
@@ -10,7 +10,7 @@ Fit Fuel is committed to protecting your personal information. As a reminder, Fi
 **OUR PRIVACY COMMITMENT TO OUR CUSTOMERS**  
  **Fit Fuel, LLC**
 
-Fit Fuel, LLC follows these privacy principles both online and offline in the collection, use, sharing and security of customer information. 
+Fit Fuel, LLC follows these privacy principles both online and offline in the collection, use, sharing and security of customer information.
 
   * Provides you **NOTICE** of our customer information practices. 
   * Gives you **CHOICES** about how your data may be used for marketing purposes. 
@@ -106,7 +106,7 @@ To opt-out of or opt-in to receiving marketing communications from Fit Fuel, ple
 
 1) Follow the directions on a marketing e-mail or direct mail marketing communication from us. 
 
-2) Call 1-888-563-1170 and provide your current contact information.
+2) Call 1-877-2-FITFUEL and provide your current contact information.
 
 3) Send an e-mail with your current contact information to:  
 privacy@fitfuel.com
@@ -164,7 +164,7 @@ Fit Fuel wants your information and marketing preferences to be accurate and com
 
 1) If you’ve created an account on FitFuel.com, you can update your information after logging into your account
 
-2) Call: 1-888-563-1170
+2) Call: 1-877-2-FITFUEL
 
 3) Send a request to:  
 privacy@fitfuel.com
@@ -179,13 +179,13 @@ If you send an e-mail or letter request, please be sure to indicate your current
 
 DOES FIT FUEL COLLECT INFORMATION FROM **CHILDREN**?
 
-We will not knowingly or intentionally collect personal information online from children under the age of 13. We are committed to protecting the privacy of children. 
+We will not knowingly or intentionally collect personal information online from children under the age of 13. We are committed to protecting the privacy of children. 
 
 WHOM MAY I **CONTACT** IF I HAVE QUESTIONS OR CONCERNS ABOUT THE PRIVACY OR SECURITY OF MY INFORMATION?
 
 Please contact our Privacy Manager to report any known or suspected privacy or security breaches or to submit privacy or security-related questions or complaints. After receiving your inquiry, we will respond within five business days. You may contact us in the following ways:
 
-1) Call: 1-888-563-1170
+1) Call: 1-877-2-FITFUEL
 
   
 2) Send a communication to: privacy@fitfuel.com  
@@ -196,8 +196,8 @@ Fit Fuel, LLC, Attn: Privacy Manager
 
 Los Angeles, CA 90068
 
-WILL THIS PRIVACY POLICY  **CHANGE**?
+WILL THIS PRIVACY POLICY **CHANGE**?
 
-Because Fit Fuel will continue to implement new technologies and improve the services and features we provide, this policy is subject to change.  If there are certain changes or additions to this Privacy Policy, we will post these changes here or in other formats for you to review.  If we change our information practives or our Privacy Policy in such a way that your personal information may be used or shared in a different manner, we will give you the opportunity to opt-out of having your information used or share in that new manner.
+Because Fit Fuel will continue to implement new technologies and improve the services and features we provide, this policy is subject to change. If there are certain changes or additions to this Privacy Policy, we will post these changes here or in other formats for you to review. If we change our information practives or our Privacy Policy in such a way that your personal information may be used or shared in a different manner, we will give you the opportunity to opt-out of having your information used or share in that new manner.
 
 **Last Revision Date:** September 6, 2005
