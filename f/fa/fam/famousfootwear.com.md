@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321063243id_/http%3A//www.famousfootwear.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousfootwear.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018202150id_/http%3A//www.famousfootwear.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # 
 
-  
-[](http://www.famousfootwear.com/shop.asp?shopID=Email%20Signup)
-
-[](http://www.famousfootwear.com/GNO)
-
-|  |  |       
+|       
 ---  
      | 
 
