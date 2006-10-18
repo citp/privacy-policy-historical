@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digicert.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318163543id_/http%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digicert.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018030821id_/http%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.*
 
 # SSL Certificate Security - DigiCert Privacy Policy
 
@@ -9,7 +9,7 @@ DigiCert Privacy Policy
 [](https://www.truste.org/ivalidate.php?url=www.digicert.com&sealid=101%20)
 
 Introduction  
-The following is the official privacy policy of digicert.com. The purpose of this privacy policy is to provide details on how we will use your personal information when you purchase a Digital SSL Certificate. The digicert.com Terms of Use is the actual contract between digicert.com and its users, and refers to this policy as DigiCert�s agreement concerning its members' privacy.
+The following is the official privacy policy of digicert.com. The purpose of this privacy policy is to provide details on how we will use your personal information when you purchase a Digital SSL Certificate. The digicert.com Terms of Use is the actual contract between digicert.com and its users, and refers to this policy as DigiCert´s agreement concerning its members' privacy.
 
 If you have questions about this privacy statement, please send them to us by email to privacy@digicert.com or write to us at the following address:
 
