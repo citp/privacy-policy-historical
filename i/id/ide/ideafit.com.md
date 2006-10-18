@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideafit.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317150737id_/http%3A//www.ideafit.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideafit.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019005542id_/http%3A//www.ideafit.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # IDEA Health & Fitness Association
 
