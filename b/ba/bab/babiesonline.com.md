@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babiesonline.com privacy policy that was archived on 2005-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050813002018id_/http%3A//www.babiesonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babiesonline.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018061108id_/http%3A//www.babiesonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for BabiesOnline.com, INC
 
