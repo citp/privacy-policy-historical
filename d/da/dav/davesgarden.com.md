@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davesgarden.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613034543id_/http%3A//davesgarden.com/about/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesgarden.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018153831id_/http%3A//davesgarden.com/about/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Dave's Garden: About: Privacy Policy
 
