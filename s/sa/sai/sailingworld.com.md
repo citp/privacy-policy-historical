@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sailingworld.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320142021id_/http%3A//www.sailingworld.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailingworld.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018030243id_/http%3A//www.sailingworld.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
 
 # Sailing World - Privacy Policy
 
@@ -6,6 +6,7 @@
 
 Privacy Policy
 
+  
   
   
 
@@ -81,13 +82,14 @@ World Publications, LLC reserves the right to disclose information contained in 
 In reviewing the information above, please keep in mind that World Publications, LLC cannot and does not assume any responsibility for any actions or omissions of third parties, including site users and the manner in which they might use information received from World Publications, LLC or independently.
 
   
-[](https://web.archive.org/web/20060320142021id_/http%3A//www.sailingworld.com/email_friend.do) | [EMAIL A FRIEND](https://web.archive.org/web/20060320142021id_/http%3A//www.sailingworld.com/email_friend.do) |   | [](https://web.archive.org/web/20060320142021id_/http%3A//www.sailingworld.com/email_friend.do?ID=8222) | [PRINTER FRIENDLY PAGE](https://web.archive.org/web/20060320142021id_/http%3A//www.sailingworld.com/article_print.jsp?ID=8222)  
+[](https://web.archive.org/web/20061018030243id_/http%3A//www.sailingworld.com/email_friend.do) | [EMAIL A FRIEND](https://web.archive.org/web/20061018030243id_/http%3A//www.sailingworld.com/email_friend.do) |   | [](https://web.archive.org/web/20061018030243id_/http%3A//www.sailingworld.com/email_friend.do?ID=8222) | [PRINTER FRIENDLY PAGE](https://web.archive.org/web/20061018030243id_/http%3A//www.sailingworld.com/article_print.jsp?ID=8222)  
 ---|---|---|---|---  
   
-[© World Publications, LLC](https://web.archive.org/web/20060320142021id_/http%3A//www.sailingworld.com/article.jsp?ID=8221)
+[© World Publications, LLC](https://web.archive.org/web/20061018030243id_/http%3A//www.sailingworld.com/article.jsp?ID=8221)
 
 |  |   |  |    
 ---|---|---  
+  |  [ ](https://web.archive.org/web/20061018030243id_/http%3A//www.sailingworld.com/bajacaliforniasur/index.jsp) |    
 |  |   
   |  |    
 |  |   
