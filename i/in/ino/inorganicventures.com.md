@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inorganicventures.com privacy policy that was archived on 2006-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060503204348id_/http%3A//www.ivstandards.com/support/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inorganicventures.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019012624id_/http%3A//www.inorganicventures.com/support/policies/privacy.asp) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Inorganic Ventures
 
@@ -12,7 +12,7 @@ You can browse through much of our site without the need to release any informat
 
 #### Collecting Your Information
 
-Sometimes we require information that personally identifies you and/or your company, providing us with the means to contact you directly. Generally, this information is only necessary when you are submitting a request for quotation, placing an order online, or when applying for a seminar or program. Personal information collected by Inorganic Ventures is often limited to name, [e-mail address](https://web.archive.org/web/20060503204348id_/http%3A//www.ivstandards.com/support/policies/email.asp), and location. Additional information is sometimes necessary to provide you with optional services.
+Sometimes we require information that personally identifies you and/or your company, providing us with the means to contact you directly. Generally, this information is only necessary when you are submitting a request for quotation, placing an order online, or when applying for a seminar or program. Personal information collected by Inorganic Ventures is often limited to name, [e-mail address](https://web.archive.org/web/20061019012624id_/http%3A//www.inorganicventures.com/support/policies/email.asp), and location. Additional information is sometimes necessary to provide you with optional services.
 
   
 
@@ -37,7 +37,7 @@ We do everything in our power to protect your data from loss, misuse, unauthoriz
 
 #### E-mail Security
 
-E-mail that you send to us may not be secure, unless specifically noted prior to transmitting your message. For this reason, we recommend that you do not send us confidential or sensitive information via e-mail. [ [E-mail Policy](https://web.archive.org/web/20060503204348id_/http%3A//www.ivstandards.com/support/policies/email.asp) ]
+E-mail that you send to us may not be secure, unless specifically noted prior to transmitting your message. For this reason, we recommend that you do not send us confidential or sensitive information via e-mail. [ [E-mail Policy](https://web.archive.org/web/20061019012624id_/http%3A//www.inorganicventures.com/support/policies/email.asp) ]
 
   
 
