@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrarail.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615044650id_/http%3A//metrarail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrarail.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018095240id_/http%3A//metrarail.com/privacy.html) for the most accurate reproduction.*
 
 # Metra Privacy
 
@@ -7,12 +7,12 @@
    |        
 ---|---  
 **Our Commitment to Privacy**  
-Your privacy is important to us and Metra is committed to maintaining your confidence and trust. For that reason, we have established this Privacy Policy. Any personal information provided by customers/visitors to the Northeast Illinois Regional Commuter Railroad (Metra) Website is used for internal purposes only. Metra does not plan to divulge, sell or lease any personal information, customer listings, or aggregate data gathered through the Metra site to any outside party.
+Your privacy is important to us and Metra is committed to maintaining your confidence and trust. For that reason, we have established this Privacy Policy. Any personal information provided by customers/visitors to the Commuter Rail Division of the Regional Transportation Authority (Metra) website is used for internal purposes only. Metra does not plan to divulge, sell or lease any personal information, customer listings, or aggregate data gathered through the Metra site to any outside party.
 
 **Information Collected and How We Use It**  
 We collect two types of information about visitors:
 
-**Personal information** , which you have voluntarily submitted to us through Metra direct mail programs or Ticket-By-Internet.
+**Personal information** , which you have voluntarily submitted to us through Metra marketing programs or Ticket-By-Internet.
 
 **Aggregate information** , automatically collected non-identifying statistics, (such as information about how many visitors log on to our sites, the pages they access, etc.) Our web servers collect the IP addresses of visitors, not the e-mail addresses. Metra uses this information to measure the use of our site, to improve the content of our site, and to monitor access for security purposes.
 
@@ -28,4 +28,4 @@ While we do not direct any of the information on our site specifically to childr
 Should you have other questions or concerns about this Privacy Policy, please contact the [Webmaster@metrarail.com](mailto:Webmaster@metrarail.com)
 
 All Contents and Images © 1995 - 2001  
-Northeast Illinois Regional Commuter Railroad Corporation
+Commuter Rail Division of the Regional Transportation Authority
