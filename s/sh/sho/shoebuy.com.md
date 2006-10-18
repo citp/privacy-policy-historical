@@ -1,12 +1,24 @@
-> *The following text is extracted and transformed from the shoebuy.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321111030id_/http%3A//www.shoebuy.com/sb/customer/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoebuy.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018095514id_/http%3A//www.shoebuy.com/sb/customer/privacy.jsp) for the most accurate reproduction.*
 
 # Shop for shoes at Shoebuy.com
 
-|  | | 
-
-[Customer Service](https://web.archive.org/sb/customer): Privacy Policy
-
+|   
+---  
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+   
+  
+  | |    
+[Customer Service](https://web.archive.org/sb/customer): Privacy Policy   
 Thank you for visiting Shoebuy.com. Shoebuy respects your privacy and we understand and share your concern about the privacy of your personal information. This notice describes our privacy policies. By visiting Shoebuy.com, you are confirming your agreement to the privacy policies described in this Privacy Policy. 
 
 **Information We Collect**
@@ -45,35 +57,4 @@ If you visit any Shoebuy web site, your visit and any dispute concerning privacy
 
 [Terms of Use](http://www.shoebuy.com/sb/customer/terms.jsp)
 
-[Click here to return to the Shoebuy.com home page](https://web.archive.org/)  
-  
-[Benefits & Guarantees](https://web.archive.org/sb/customer/benefits.jsp)  
-[Free Shipping](https://web.archive.org/sb/customer/benefits.jsp#shipping)  
-[No Sales Tax](https://web.archive.org/sb/customer/benefits.jsp#tax)  
-[Free Returns & Exchanges](https://web.archive.org/sb/customer/benefits.jsp#returns)  
-[110% Price Guarantee](https://web.archive.org/sb/customer/benefits.jsp#price)  
-[100% Safe Purchase Guarantee](https://web.archive.org/sb/customer/benefits.jsp#safe) |  | [Customer Service](https://web.archive.org/sb/customer/)  
-[Order Tracking](https://www.shoebuy.com/chist?Ostatus=)  
-[Free Returns & Exchanges](https://web.archive.org/sb/customer/benefits.jsp#returns)  
-[Feedback & Requests](https://web.archive.org/sb/contact/feedback.jsp)  
-[Using Your Account](https://www.shoebuy.com/cust) |  | [Savings & Updates](https://web.archive.org/sb/customer/savings_updates.jsp)  
-[Free Updates](https://web.archive.org/sb/customer/savings_updates.jsp#updates)  
-[Register & Save](https://web.archive.org/sb/customer/savings_updates.jsp#register)  
-[Frequent Shopper Savings](https://web.archive.org/sb/customer/savings_updates.jsp#frequent)  
-[Win a $100 Gift Certificate](https://www.shoebuy.com/contest/)  
-[Refer A Friend & Save More](https://web.archive.org/sb/referral/)  
-[Sale Center](https://web.archive.org/sb/discount-shoes.jsp) |  | [Gift Ideas](https://web.archive.org/sb/customer/gift_ideas.jsp)  
-[Gift Center](https://web.archive.org/sb/shop.jsp/sh_C_Holiday/n_C_Holiday/b_2-0.82906-56.71749)  
-[Gift Certificates](https://web.archive.org/sb/gc/gc_buy.jsp)  
-[Accessories](https://web.archive.org/sb/shop.jsp/sh_C_Accessories/n_C_Accessories/b_2-0.82906-56.28)  
-[Slippers](https://web.archive.org/sb/shop.jsp/sh_C_Slippers/n_C_Slippers/b_2-0.82906-56.35)  
----|---|---|---|---|---|---  
-  
-Popular Categories: [Running Shoes](https://web.archive.org/running-shoes.htm), [Walking Shoes](https://web.archive.org/walking-shoes.htm), [Golf Shoes](https://web.archive.org/golf-shoes.htm), [Beach Shoes](https://web.archive.org/beach-shoes.htm), [Dance Shoes](https://web.archive.org/dance-shoes.htm), [Tennis Shoes](https://web.archive.org/tennis-shoes.htm), [Basketball Shoes](https://web.archive.org/basketball-shoes.htm), [Soccer Shoes](https://web.archive.org/soccer-shoes.htm), [Skateboarding Shoes](https://web.archive.org/skateboarding-shoes.htm), [Water Shoes](https://web.archive.org/water-shoes.htm), [Comfort Shoes](https://web.archive.org/comfort-shoes.htm), [Platform Shoes](https://web.archive.org/platform-shoes.htm), [Volleyball Shoes](https://web.archive.org/volleyball-shoes.htm), [Cheerleading Shoes](https://web.archive.org/cheerleading-shoes.htm), [Track Shoes](https://web.archive.org/track-shoes.htm), [Mary Jane Shoes](https://web.archive.org/mary-jane-shoes.htm), [Tap Shoes](https://web.archive.org/tap-shoes.htm), [Cap Toed Shoes](https://web.archive.org/cap-toed-shoes.htm), [Cowboy Boots](https://web.archive.org/cowboy-boots.htm), [Motorcycle Boots](https://web.archive.org/motorcycle-boots.htm), [Hiking Boots](https://web.archive.org/hiking-boots.htm), [Work Boots](https://web.archive.org/work-boots.htm), [Winter Boots](https://web.archive.org/winter-boots.htm), [Hunting Boots](https://web.archive.org/hunting-boots.htm), [Clogs](https://web.archive.org/clogs.htm), [Moccasins](https://web.archive.org/moccasins.htm), [Sneakers](https://web.archive.org/sneakers.htm)
-
-[Womens Shoes](https://web.archive.org/womens-shoes.htm) | [Mens Shoes](https://web.archive.org/mens-shoes.htm) | [Kids Shoes](https://web.archive.org/kids-shoes.htm) | [Sale Shoes](https://web.archive.org/sb/sale-shoes.jsp) | [Plus](https://web.archive.org/sb/plus-size-shoes.jsp) | [Hard To Find](https://web.archive.org/sb/hard-to-find-sizes.jsp) | [Wide](https://web.archive.org/sb/wide-index.jsp) | [Narrow](https://web.archive.org/sb/narrow-index.jsp) | [Large](https://web.archive.org/sb/large-index.jsp) | [Small](https://web.archive.org/sb/small-index.jsp) | [Sizes](https://web.archive.org/sb/sizes-index.jsp) | [Sale](https://web.archive.org/sb/sale-index.jsp) | [Directories](https://web.archive.org/sb/Directories.jsp)
-
-[Gift Certificates](https://web.archive.org/sb/gc/gc_buy.jsp) | [About Shoebuy](https://web.archive.org/sb/contact/company.jsp) | [Press](https://web.archive.org/sb/contact/press.jsp) | [Affiliates](https://web.archive.org/sb/befree/) | [Map](https://web.archive.org/sb/SiteMap.jsp) | [Searches](https://web.archive.org/sb/Searches.jsp) | [Security](https://web.archive.org/sb/customer/benefits.jsp#safe) | [Privacy](https://web.archive.org/sb/customer/privacy.jsp) | [Terms](https://web.archive.org/sb/customer/terms.jsp) | [Company/Group Sales](https://web.archive.org/sb/customer/corp_sales.jsp) | [Employment](https://web.archive.org/sb/contact/employment.jsp)
-
-© 1999-2006 Shoebuy.com, Inc. All Rights Reserved.  
- **The World's Largest Site For Shoes**
+Back to Top   |   [Back to Homepage](https://web.archive.org/)
