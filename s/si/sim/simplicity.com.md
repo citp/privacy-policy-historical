@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplicity.com privacy policy that was archived on 2005-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050602075846id_/http%3A//simplicity.com/index.cfm%3Fpage%3DsiteUse.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplicity.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018154302id_/http%3A//simplicity.com/index.cfm%3Fpage%3DsiteUse.html) for the most accurate reproduction.*
 
 # Simplicity Patterns for Sewing Projects
 
@@ -76,7 +76,7 @@ We will notify all users if there are any material changes to our privacy policy
 **Contact Us/Opt-Out/Update**  
 To remove or change your contact information in our database, or to not receive future mailings or other communications, as well as for all other inquiries, please contact us at any time using one of the options below:
 
-  1. On our web site you may remove your name from our list by visiting the Email signup page link and at the bottom of the page click on **Click here** under **Change or Cancel Subscription** or by clicking [here](https://web.archive.org/web/20050602075846id_/http%3A//simplicity.com/index.cfm?page=editSub.cfm).
+  1. On our web site you may remove your name from our list by visiting the Email signup page link and at the bottom of the page click on **Click here** under **Change or Cancel Subscription** or by clicking [here](https://web.archive.org/web/20061018154302id_/http%3A//simplicity.com/index.cfm?page=editSub.cfm).
   2. Email [info@simplicity.com.](mailto:info@simplicity.com)
   3. For other inquiries and information requests please use the **Contact Us** form on the [Comments and Feedback](http://www.simplicity.com/index.cfm?page=comments.cfm) page of our web site.
 
@@ -88,7 +88,7 @@ Simplicity.com (www.simplicity.com) provides information and services to you sub
 
 Please review our privacy information, which also governs your visit to www.simplicity.com. 
 
-Questions about Simplicity Conditions of Use or Privacy Practices, please contact Someone at [info@simplicity.com](https://web.archive.org/web/20050602075846id_/http%3A//simplicity.com/mailto@info@simplicity.com).
+Questions about Simplicity Conditions of Use or Privacy Practices, please contact Someone at [info@simplicity.com](https://web.archive.org/web/20061018154302id_/http%3A//simplicity.com/mailto@info@simplicity.com).
 
 **Copyright**  
 All content included on this site, such as text, graphics, logos, button icons, images, digital downloads, data compilations, and software, is the property of Simplicity.com (Simplicity) and protected by United States and international copyright laws. 
@@ -99,7 +99,7 @@ Simplicity.com attempts to be as accurate as possible. However, www.simplicity.c
 **Comments and Questions**  
 We welcome your feedback about the Site. However, any comments, ideas, notes, messages, suggestions or other communications sent to the site shall be and remain the exclusive property of Simplicity, and we may use all such communications in any manner, including reproducing, disclosing and publishing such communications, all without compensation to you. 
 
-Should you have any questions or complaints regarding violations of this Agreement, please [contact us](https://web.archive.org/web/20050602075846id_/http%3A//simplicity.com/mailto@info@simplicity.com). 
+Should you have any questions or complaints regarding violations of this Agreement, please [contact us](https://web.archive.org/web/20061018154302id_/http%3A//simplicity.com/mailto@info@simplicity.com). 
 
 **License and Site Access**  
 Simplicity.com grants you a limited license to access and make personal use of this site and not to download (other than page caching) or modify it, or any portion of it, except with express written consent of www.simplicity.com. This license does not include any resale or commercial use of this site or its contents or any use of data mining, robots, or similar data gathering and extraction tools. This site or any portion of this site may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without express written consent of Simplicity. You may not use any meta tags or any other "hidden text" utilizing Simplicity.com’s name or trademarks without the express written consent of Simplicity.com. Any unauthorized use terminates the permission or license granted by Simplicity. You are granted a limited, revocable, and non-exclusive right to create a hyperlink to the home page of www.simplicity.com so long as the link does not portray Simplicity in a false, misleading, derogatory, or otherwise offensive matter. You may not use any logo of Simplicity or other proprietary graphic or trademark as part of the link without express written permission. To request permission, please contact Someone at [info@simplicity.com](mailto:info@simplicity.com)
