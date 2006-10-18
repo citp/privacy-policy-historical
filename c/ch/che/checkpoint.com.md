@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkpoint.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224249id_/http%3A//www.checkpoint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkpoint.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018070723id_/http%3A//checkpoint.com/privacy.html) for the most accurate reproduction.*
 
 # Check Point Software: Check Point's Privacy Policy
 
@@ -6,33 +6,33 @@
 ---|---|---|---|---  
   Search     
   
-  | [COMPANY](https://web.archive.org/web/20060615224249id_/http%3A//www.checkpoint.com/corporate/index.html) |    
+  | [COMPANY](https://web.archive.org/web/20061018070723id_/http%3A//checkpoint.com/corporate/index.html) |    
 | 
 
 | 
 
-[Company Information](https://web.archive.org/web/20060615224249id_/http%3A//www.checkpoint.com/corporate/company.html)
+[Company Information](https://web.archive.org/web/20061018070723id_/http%3A//checkpoint.com/corporate/company.html)
 
 |    
 | 
 
 | 
 
-[Investor Relations](https://web.archive.org/web/20060615224249id_/http%3A//www.checkpoint.com/corporate/ivestrel.html)
+[Investor Relations](https://web.archive.org/web/20061018070723id_/http%3A//checkpoint.com/corporate/ivestrel.html)
 
 |    
 | 
 
 | 
 
-[Public Relations](https://web.archive.org/web/20060615224249id_/http%3A//www.checkpoint.com/corporate/pr.html)
+[Public Relations](https://web.archive.org/web/20061018070723id_/http%3A//checkpoint.com/corporate/pr.html)
 
 |    
 | 
 
 | 
 
-[Events](https://web.archive.org/web/20060615224249id_/http%3A//www.checkpoint.com/corporate/events.html)
+[Events](https://web.archive.org/web/20061018070723id_/http%3A//checkpoint.com/corporate/events.html)
 
 |    
 |  |  |   
