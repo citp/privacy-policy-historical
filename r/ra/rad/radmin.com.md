@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radmin.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324233016id_/http%3A//www.famatech.com/about/legal/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radmin.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018204226id_/http%3A//www.famatech.com/about/legal/pp.php) for the most accurate reproduction.*
 
 # Radmin - PC Remote Control Software - Privacy Policy
 
