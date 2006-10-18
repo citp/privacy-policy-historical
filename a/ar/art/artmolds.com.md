@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617044155id_/http%3A//www.artmolds.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018223114id_/http%3A//www.artmolds.com/privacy.cfm) for the most accurate reproduction.*
 
 # Lifecast Belly and Bodycasting Kits, Supplies and Videos
-
-**Privacy Policy**
 
 This is the web site of **ArtMolds Sculpture Studio LLC** operating as **Life-casting.com.**
 
 Our postal address is  
- **18 Bank Street**  
- **Summit NJ 07901**  
+**18 Bank Street**  
+**Summit NJ 07901**  
 We can be reached via e-mail at [info@artmolds.com](mailto:info@artmolds.com)  
 or you can reach us by telephone at 908 273-5401
 
@@ -48,5 +46,6 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [http://www.ftc.gov/ftc/complaint.htm.](http://www.ftc.gov/ftc/complaint.htm)   
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>
+
 Thank you. 
