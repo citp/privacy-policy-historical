@@ -1,0 +1,2249 @@
+<!--The following is the downloaded HTML source of the roberthalf.com privacy policy that was archived on 2006-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061018195002id_/http%3A//www.roberthalffinance.com/PrivacyPolicy%3FinTrack%3DprivacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+	<title>Privacy Policy</title>
+
+
+
+
+
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#333399" alink="0000FF" vlink="#666666" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+
+
+
+<script language="JavaScript">
+<!--
+ var errorFound = false;
+ 
+  //start number and range check for GPA and Scale
+ function checkNumGpaScale( formElement )
+ {
+  	var Num = formElement.value;
+  	if (isNaN(Num))
+  	{
+ 		errorFound = true;
+ 		alert("Please enter a valid number");
+ 		delayedFocusSelect( formElement );
+ 		return false;
+ 	}
+ 	if (Num > 9.99)
+ 	{
+ 		errorFound = true;
+ 		alert("GPA must be less than 10.");
+ 		delayedFocusSelect( formElement );
+ 		return false;
+ 	}
+ 
+ 	if (Num < 0)
+ 	{
+ 		errorFound = true;
+ 		alert("GPA must be greater than 0.");
+ 		delayedFocusSelect( formElement );
+ 		return false;
+ 	}
+ 	
+ 	else return true;
+ }
+ //end number check
+
+ 
+ 
+//start number check
+function checkNum( formElement ){
+ var Num = formElement.value;
+ 	if (isNaN(Num)){
+	 errorFound = true;
+		alert("Please enter a valid number");
+		delayedFocusSelect( formElement );
+		return false;
+	}
+	
+	else return true;
+}
+//end number check
+
+
+//start Mim Hourly Pay check
+function checkMimHourlyPay( formElement )
+{
+	var Num = formElement.value;
+ 	if (isNaN(Num))
+ 	{
+		errorFound = true;
+		alert("Please enter your desired pay as a number with no punctuation or characters other than decimals.");
+		delayedFocusSelect( formElement );
+		return false;
+	}
+	else 
+	{
+		if (Num > 9999.99)
+		{
+			errorFound = true;
+			alert("Minimum hourly pay must be less than $9999.99.");
+			delayedFocusSelect( formElement );
+			return false;
+		}
+		else
+		{
+			return true;
+		}
+	}
+}
+//end Mim Hourly Pay check
+
+//start Mim Annual Pay check
+function checkMimAnnualPay( formElement )
+{
+	var Num = formElement.value;
+ 	if (isNaN(Num))
+ 	{
+		errorFound = true;
+		alert("Please enter your desired pay as a number with no punctuation or characters other than decimals.");
+		delayedFocusSelect( formElement );
+		return false;
+	}
+	else 
+	{
+		if (Num > 99999999.99)
+		{
+			errorFound = true;
+			alert("Increase must be less than $99,999,999.99.");
+			delayedFocusSelect( formElement );
+			return false;
+		}
+		else
+		{
+			return true;
+		}
+	}
+}
+//end Mim Annual Pay check
+
+//Start Amount of Increase check
+function checkAmtInc( formElement )
+{
+	var Num = formElement.value;
+ 	if (isNaN(Num))
+ 	{
+		errorFound = true;
+		alert("Please enter your desired pay as a number with no punctuation or characters other than decimals.");
+		delayedFocusSelect( formElement );
+		return false;
+	}
+	else 
+	{
+		if (Num > 9999999.99)
+		{
+			errorFound = true;
+			alert("Increase must be less than $9,999,999.99.");
+			delayedFocusSelect( formElement );
+			return false;
+		}
+		else
+		{
+			return true;
+		}
+	}
+}
+//end Amount of Increase check
+
+
+//start salary check
+function checkSalary( formElement ){
+ var salaryNum = formElement.value;
+
+// Code Added to Remove $ sign and commas
+
+var temp = "";
+for ( var i=0 ; i < salaryNum.length ; i++ ) {
+
+if ( salaryNum.charAt(i)=='$' || salaryNum.charAt(i) ==','  || salaryNum.charAt(i) == ' ' ) {
+// escape this character
+} else {
+temp = temp + salaryNum.charAt(i) ;
+}
+
+}
+salaryNum = temp;
+ 	if (isNaN(salaryNum)){
+	 errorFound = true;
+		alert("Value must be numeric.");
+		delayedFocusSelect( formElement );
+		return false;
+	}
+			
+	else return true;
+}
+//end salary check
+
+
+
+
+function trim(strText) 
+{
+    // this will get rid of leading spaces 
+    while (strText.substring(0,1) == ' ') 
+        strText = strText.substring(1, strText.length);
+
+    // this will get rid of trailing spaces 
+    while (strText.substring(strText.length-1,strText.length) == ' ')
+        strText = strText.substring(0, strText.length-1);
+
+   return strText;
+} 
+
+//start zip code
+function checkZip( formElement , required )
+{
+  if( required )
+  {
+    if( ! checkRequiredField( formElement , "Zip/Postal Code" ) ) return false;
+  }
+
+  var ziptmp = formElement.value;
+  var digits = "0123456789";
+  var letters= "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+  var invalidchars = "-_`~!@#$%^&*()+=|\}{][?/<>.,";
+  var space =" ";
+  var zip = trim(ziptmp);
+
+  if ( zip == 0 )
+  {
+    errorFound = true;
+    alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+    delayedFocusSelect( formElement );
+    return false;
+  }
+  for(var i =0 ; i < zip.length ; i++)
+  {
+    if (invalidchars.indexOf(zip.charAt(i)) != -1)
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+  }
+  // US Zip Code Check Start
+  if ( 5 > zip.length )
+  {
+    errorFound = true;
+    alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+    delayedFocusSelect( formElement );
+    return false;
+  }
+  else
+  {
+    if ( zip.length == 5 && isNaN(zip))
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+  }
+  // US Zip Code Check End
+
+  if (zip.length == 6 )
+  {
+    errorFound = true;
+    alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+    delayedFocusSelect( formElement );
+    return false;
+  }
+
+  if (zip.length == 7)
+  {
+
+    if (letters.indexOf(zip.charAt(0)) == -1)
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+
+    if (digits.indexOf(zip.charAt(1)) == -1)
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+
+    if (letters.indexOf(zip.charAt(2)) == -1)
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+
+    if (digits.indexOf(zip.charAt(4)) == -1)
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+
+    if (letters.indexOf(zip.charAt(5)) == -1)
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+
+    if (digits.indexOf(zip.charAt(6)) == -1)
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+
+  }
+
+
+  return true;
+
+}
+
+//end zip code
+
+
+
+ //start Phone Number check
+ function checkPhoneNumber( formElement ){
+	var pNumber = "0123456789-";
+	var phoneNum = formElement.value;
+	var expLength = 7;
+	var sepLoc = phoneNum.indexOf('-');
+	
+	if (sepLoc == 3){
+	
+		expLength = 8;
+	} else { 
+
+		errorFound = true;
+		alert("Please enter a valid 7 digit phone number including a hyphen, example: 123-4567.");
+		delayedFocusSelect( formElement );
+		return  false;
+	
+	} 
+
+	if (phoneNum.length < expLength || phoneNum.length > expLength  ){
+	  
+		errorFound = true;
+		alert("Please enter a valid 7 digit phone number including a hyphen, example: 123-4567.");
+		delayedFocusSelect( formElement );
+		return false;
+	}
+	
+	
+	for ( i = 0; i < phoneNum.length; i++) {
+      
+		var temp = phoneNum.substring(i, i+1);
+    		
+    		if ( ( temp == "-" ) && ( (phoneNum.substr(4,phoneNum.length)).indexOf("-") != -1 ) )
+    		{
+ 		     
+  		     errorFound = true;
+		     alert("Please enter a valid 7 digit phone number including a hyphen, example: 123-4567.");
+		     delayedFocusSelect( formElement);
+		     return false;
+    		
+    		}
+    		
+		if ((pNumber.indexOf(temp) == -1)) {
+			errorFound = true;
+			alert("Please enter a valid 7 digit phone number including a hyphen, example: 123-4567.");
+			delayedFocusSelect( formElement);
+			return false;
+		}
+
+	} // end for loop
+
+	return true;
+ }//end checkPhoneNumber
+  //End phone number  
+  
+  //start Area code check
+ function checkAreaCode( formElement ) {
+	var number = formElement.value;
+	
+		if (number.length != 3 || isNaN(number)){
+			errorFound = true;
+			alert("Please enter a 3 digit numeric area code without parentheses.");
+            delayedFocusSelect( formElement );
+			return false;
+        
+		} 
+		return true;
+ }//end checkAreaCode
+ //end Area code check
+ 
+  //start 10-Digit Phone Number check
+ function checkPhoneNumberTen( formElement ){
+	var pNumber = "0123456789-";
+	var phoneNum = formElement.value;
+
+	if( phoneNum == null || phoneNum == "" )
+		return true;
+
+	var expLength = 12;	
+	var sepLoc = phoneNum.indexOf('-');
+	var sepLoc2 = phoneNum.lastIndexOf('-');
+	var numHyphens=0;
+	
+	if ((sepLoc != 3)||(sepLoc2 != 7)){	
+
+		errorFound = true;
+		alert("Please enter a valid 10 digit area code and phone number including hyphens, example: 123-456-7890.");
+		delayedFocusSelect( formElement );
+		return  false;
+	
+	} 
+
+	if (phoneNum.length != expLength){	
+	  
+		errorFound = true;
+		alert("Please enter a valid 10 digit area code and phone number including hyphens, example: 123-456-7890.");
+		delayedFocusSelect( formElement );
+		return false;
+	}
+	
+	for (i = 0; i < phoneNum.length; i++) {
+	
+		var temp = phoneNum.substring(i, i+1);
+		
+		if (temp=="-") {numHyphens++;}
+		
+		if (numHyphens>2) {
+			errorFound = true;
+			alert("Please enter a valid 10 digit area code and phone number including hyphens, example: 123-456-7890.");
+			delayedFocusSelect( formElement);
+			return false;
+		}
+	
+	}
+	
+	
+	for ( i = 0; i < phoneNum.length; i++) {
+      
+		var temp = phoneNum.substring(i, i+1);
+    
+		if ((pNumber.indexOf(temp) == -1)) {
+			errorFound = true;
+			alert("Please enter a valid 10 digit area code and phone number including hyphens, example: 123-456-7890.");
+			delayedFocusSelect( formElement);
+			return false;
+		}
+
+	} // end for loop
+
+	return true;
+ }//end 10-Digit checkPhoneNumber
+ //End 10-Digit phone number 
+ 
+ //start Date check
+ function checkDate( formElement ) {
+	var number = formElement.value;
+	
+		if (isNaN(number)){
+		
+		errorFound = true;
+		alert("The date entered must be between 01 and 31.");
+		delayedFocusSelect( formElement );
+		return false;
+        
+		}
+		
+		if (number < 1 || number > 31)
+		{
+                errorFound = true;
+		alert("The date entered must be between 01 and 31.");
+                delayedFocusSelect( formElement );
+			return false;
+		}
+				
+	else return true;
+ }// end checkDate
+ //End Date
+ 
+ // start month check
+ function checkMonth( formElement ) {
+	 var number = formElement.value;
+	
+		if (isNaN(number)){
+			errorFound = true;
+			alert("The month entered must be between 01 and 12.");
+			delayedFocusSelect( formElement );
+			return false;
+        
+		}
+		
+		if (number < 1 || number > 12){
+			errorFound = true;
+			alert("The month entered must be between 01 and 12.");
+			delayedFocusSelect( formElement );
+			return false;
+		}
+				
+	else return true;
+ }// end checkMonth
+ //End month
+
+ //Start year
+ function checkYear( formElement ) {
+	var number = formElement.value;
+		if (number.length != 4 || isNaN(number)){
+			errorFound = true;
+			alert("The year must be entered as a 4 digit number");
+			delayedFocusSelect( formElement );
+			return false;
+		}
+		
+		else if (number <= 1900){
+		errorFound = true;
+		alert("The year entered must be greater than 1900.");
+		delayedFocusSelect( formElement );
+		return false;
+		}
+			
+	else return true;
+ }// end checkYear
+ //End year
+ 
+ 
+ function y2k(number) { return (number < 1000) ? number + 1900 : number; }
+  
+  
+  
+  // checks if date passed is valid
+   // will accept dates in following format:
+   // isDate(dd,mm,ccyy), or
+   // isDate(dd,mm) - which defaults to the current year, or
+   // isDate(dd) - which defaults to the current month and year.
+   // Note, if passed the month must be between 1 and 12, and the
+  // year in ccyy format.
+  function isDate (day,month,year) {
+  
+      var today = new Date();
+      year = ((!year) ? y2k(today.getYear()):year);
+      month = ((!month) ? today.getMonth():month-1);
+      if (!day) return false
+      var test = new Date(year,month,day);
+      if ( (y2k(test.getYear()) == year) &&
+           (month == test.getMonth()) &&
+           (day == test.getDate()) )
+          return true;
+      else
+          return false
+  }
+
+ 
+ 
+ 
+ 
+ //Start Extension
+ function checkExt( formElement ) {
+	var number = formElement.value;
+		if (number.length > 5 || isNaN(number)){
+			errorFound = true;
+			alert("Please enter a valid extension.");
+			delayedFocusSelect( formElement );
+			return false;
+		}
+ }// end checkExt
+ //End Extension
+
+ //Start Email
+ function checkEmail( formElement ) {
+	invalidChars = "/:, ';"
+	var email = formElement.value;
+	
+		//check if it contains invalid characters.     
+		for ( i = 0; i < invalidChars.length; i++) {
+		badChar = invalidChars.charAt(i)
+		if(email.indexOf(badChar) == -1){
+		errorFound = false;
+
+		} else {
+		 
+		errorFound = true;
+		alert("The email address contains invalid characters.");
+		delayedFocusSelect( formElement );
+		return false;
+			   
+			
+        }
+	 	
+    }
+	
+		//there must be one "@" symbol
+		var atPos = email.indexOf('@',1);
+    
+		if (atPos == -1){
+			errorFound = true;
+			alert("Please enter a valid email address.");
+			delayedFocusSelect( formElement );
+			return false;
+			
+		}
+
+		//there must be only one "@" symbol
+		if (email.indexOf("@",atPos+1) != -1) {
+			errorFound = true;
+			alert("Email addresses must be in the following format: sample@test.com");
+			delayedFocusSelect( formElement );
+			return false;
+		}
+    
+		//there must be at least one "." after "@" 
+		var periodPos = email.indexOf(".",atPos);
+    
+		if (periodPos == -1){
+			errorFound = true;
+			alert("Email addresses must be in the following format: sample@test.com");
+			delayedFocusSelect( formElement );
+			return false;
+
+		}
+    
+
+
+		//there must be at least 2 characters after the "."
+		if (periodPos+3 > email.length) {
+			errorFound = true;
+			alert("Email addresses must be in the following format: sample@test.com");
+			delayedFocusSelect( formElement);
+			return false;
+		
+		}
+	return true;
+      
+ }//end checkEmail
+ //end email check
+ 
+	function focusSelect( formElement )
+	{
+		// commented out formElementSelect by Suresh as per the Problem Id 8915  
+		// for IE5 and Netscape Navigator compatability
+			
+		formElement.select();
+		formElement.focus();
+        formElement.select();
+	}
+	function delayedFocusSelect( formElement )
+	{
+		var formName = formElement.form.name;
+        	var elName = formElement.name;
+        	var evalString = 'focusSelect( document["' + formName + '"]["' + elName + '"] )';
+        	setTimeout( evalString, 10 );
+		
+	}
+
+function isEmpty( formElement )
+{
+	if( (formElement == null) || (trim(formElement.value) == "") ) return true;
+	return false;
+}
+
+function checkRequiredField( formElement , fieldName )
+{
+	if( isEmpty(formElement) )
+	{
+		alert( fieldName + " Field must be entered." );
+		formElement.focus();
+		return false;
+	}
+	return true;
+}
+// -->
+</script>
+
+
+<script>
+/*
+	Prevents the logout link from being used twice.
+*/
+	var gl_linkUsed = false;  // change to true when link used
+	
+	function useOnce(url) {
+		if (gl_linkUsed) {
+			window.location.href="http://www.roberthalffinance.com/Home";
+		} else {
+			gl_linkUsed = true;
+			window.location.href=url
+		}
+	}
+</script>
+
+
+	
+<script language="javascript" src="/js/Rollover.js">
+</script>
+<script language="javascript" src="/js/Validate.js">
+</script>
+<link rel="stylesheet" href="/style/RHF_ccff_style.css" type="text/css">
+<link rel="stylesheet" href="/style/web.css" type="text/css">
+
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td valign="top">
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+	<td valign="top" colspan="2"><a href="http://www.roberthalffinance.com/Home?inTrack=logo"><img src="/images/main_nav/RHFA_logo.gif" border="0" alt="Financial Staffing - Accounting Staffing"></a></td>
+	</tr>
+	<tr>
+	<td valign="top"><img src="/images/main_nav/phone.gif" border="0"></td>
+	<td valign="top"><a href="http://www.roberthalffinance.com/OfficeLocations?inTrack=officeLocator"><img src="/images/main_nav/locate.gif" border="0" alt="Locate a Financial Staffing Office"></a></td>
+	</tr>
+	</tbody></table>
+</td>
+<td valign="top">
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+	<td><img src="/images/main_nav/piece1.gif" border="0"></td>
+	<!-- BEGIN SIGN IN/MY RHFA NAV -->
+	
+	<td><a href="http://www.roberthalffinance.com/GetLogin?inTrack=signIn" onmouseover="imgOn('imgSignIn')" onmouseout="imgOff('imgSignIn')"><img src="/images/main_nav/signin_off.gif" border="0" name="imgSignIn"></a></td>
+	<td><a href="http://www.roberthalffinance.com/EditResume?inTrack=Register" onmouseover="imgOn('imgRegister')" onmouseout="imgOff('imgRegister')"><img src="/images/main_nav/register_off.gif" border="0" name="imgRegister"></a></td>
+	
+	<!-- END SIGN IN/MY RHFA NAV -->	
+	
+	<!-- END REGISTER/SIGN OUT NAV -->
+	<td><img src="/images/main_nav/piece2.gif" border="0"></td>
+	<td><img src="/images/main_nav/piece3.gif" border="0"></td>
+	<!-- BEGIN SEARCH JOBS NAV -->
+
+<td valign="top"><a href="http://www.roberthalffinance.com/AdvancedSearch?inTrack=searchJobs" onmouseover="imgOn('imgSearchJobs')" onmouseout="imgOff('imgSearchJobs')"><img src="/images/main_nav/search_off.gif" border="0" name="imgSearchJobs" alt="Accounting and Finance Job Search"></a></td>
+
+<!-- END SEARCH JOBS NAV -->
+	<!-- BEGIN CAREER CENTER NAV -->
+
+<td valign="top"><a href="http://www.roberthalffinance.com/CareerResources?inTrack=careerCenter" onmouseover="imgOn('imgCareerCenter')" onmouseout="imgOff('imgCareerCenter')"><img src="/images/main_nav/career_off.gif" border="0" name="imgCareerCenter" alt="Career Center"></a></td>
+
+<!-- END CAREER CENTER NAV -->
+	</tr>
+	<tr>
+	<td colspan="2"><img src="/images/main_nav/piece4.gif" border="0"></td>
+	<td><img src="/images/main_nav/piece5.gif" border="0"></td>
+	<td><img src="/images/main_nav/piece6.gif" border="0"></td>
+	<!-- BEGIN ABOUT US NAV -->
+
+<td valign="top"><a href="http://www.roberthalffinance.com/AboutUs?inTrack=aboutUs" onmouseover="imgOn('imgAboutUs')" onmouseout="imgOff('imgAboutUs')"><img src="/images/main_nav/about_off.gif" border="0" name="imgAboutUs" alt="Finance and Accounting Staffing Firm"></a></td>
+
+<!-- END ABOUT US NAV -->
+<!-- BEGIN RH REPORTS NAV -->
+
+<td valign="top"><a href="http://www.roberthalffinance.com/RH/Reports?inTrack=reports" onmouseover="imgOn('imgReports')" onmouseout="imgOff('imgReports')"><img src="/images/main_nav/reports_off.gif" border="0" name="imgReports" alt="Accounting and Finance News"></a></td>
+
+<!-- END RH REPORTS NAV -->
+<!-- BEGIN EMPLOYERS NAV -->
+
+<td valign="top"><a href="http://www.roberthalffinance.com/Employers?inTrack=employers" onmouseover="imgOn('imgEmployers')" onmouseout="imgOff('imgEmployers')"><img src="/images/main_nav/employers_off.gif" border="0" name="imgEmployers" alt="Financial Recruitment Agency"></a></td>
+
+<!-- END EMPLOYERS NAV -->
+	</tr>
+	
+	
+	
+	
+	
+	<tr>
+
+	<td><img src="/images/main_nav/piece8.gif" border="0"></td>
+
+	
+	<!-- BEGIN HEADERS SECTION -->
+
+<!-- BEGIN ABOUT US HEADER -->
+
+
+<td valign="top" align="right" colspan="6"><img src="/images/headers/blank_hd.jpg" border="0"></td>
+<!-- END BLANK/DEFAULT HEADER -->
+
+</tr>
+<tr>
+<td colspan="7"><img src="/images/clear.gif" width="1" height="10" border="0"></td>
+</tr>
+<tr>
+<td colspan="7" align="right"><img src="/images/blue_dot.gif" width="500" height="1" border="0"></td>
+</tr>
+
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+<table width="740" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td valign="TOP">
+			
+
+
+
+<script language="JavaScript">
+<!--
+ var errorFound = false;
+ 
+  //start number and range check for GPA and Scale
+ function checkNumGpaScale( formElement )
+ {
+  	var Num = formElement.value;
+  	if (isNaN(Num))
+  	{
+ 		errorFound = true;
+ 		alert("Please enter a valid number");
+ 		delayedFocusSelect( formElement );
+ 		return false;
+ 	}
+ 	if (Num > 9.99)
+ 	{
+ 		errorFound = true;
+ 		alert("GPA must be less than 10.");
+ 		delayedFocusSelect( formElement );
+ 		return false;
+ 	}
+ 
+ 	if (Num < 0)
+ 	{
+ 		errorFound = true;
+ 		alert("GPA must be greater than 0.");
+ 		delayedFocusSelect( formElement );
+ 		return false;
+ 	}
+ 	
+ 	else return true;
+ }
+ //end number check
+
+ 
+ 
+//start number check
+function checkNum( formElement ){
+ var Num = formElement.value;
+ 	if (isNaN(Num)){
+	 errorFound = true;
+		alert("Please enter a valid number");
+		delayedFocusSelect( formElement );
+		return false;
+	}
+	
+	else return true;
+}
+//end number check
+
+
+//start Mim Hourly Pay check
+function checkMimHourlyPay( formElement )
+{
+	var Num = formElement.value;
+ 	if (isNaN(Num))
+ 	{
+		errorFound = true;
+		alert("Please enter your desired pay as a number with no punctuation or characters other than decimals.");
+		delayedFocusSelect( formElement );
+		return false;
+	}
+	else 
+	{
+		if (Num > 9999.99)
+		{
+			errorFound = true;
+			alert("Minimum hourly pay must be less than $9999.99.");
+			delayedFocusSelect( formElement );
+			return false;
+		}
+		else
+		{
+			return true;
+		}
+	}
+}
+//end Mim Hourly Pay check
+
+//start Mim Annual Pay check
+function checkMimAnnualPay( formElement )
+{
+	var Num = formElement.value;
+ 	if (isNaN(Num))
+ 	{
+		errorFound = true;
+		alert("Please enter your desired pay as a number with no punctuation or characters other than decimals.");
+		delayedFocusSelect( formElement );
+		return false;
+	}
+	else 
+	{
+		if (Num > 99999999.99)
+		{
+			errorFound = true;
+			alert("Increase must be less than $99,999,999.99.");
+			delayedFocusSelect( formElement );
+			return false;
+		}
+		else
+		{
+			return true;
+		}
+	}
+}
+//end Mim Annual Pay check
+
+//Start Amount of Increase check
+function checkAmtInc( formElement )
+{
+	var Num = formElement.value;
+ 	if (isNaN(Num))
+ 	{
+		errorFound = true;
+		alert("Please enter your desired pay as a number with no punctuation or characters other than decimals.");
+		delayedFocusSelect( formElement );
+		return false;
+	}
+	else 
+	{
+		if (Num > 9999999.99)
+		{
+			errorFound = true;
+			alert("Increase must be less than $9,999,999.99.");
+			delayedFocusSelect( formElement );
+			return false;
+		}
+		else
+		{
+			return true;
+		}
+	}
+}
+//end Amount of Increase check
+
+
+//start salary check
+function checkSalary( formElement ){
+ var salaryNum = formElement.value;
+
+// Code Added to Remove $ sign and commas
+
+var temp = "";
+for ( var i=0 ; i < salaryNum.length ; i++ ) {
+
+if ( salaryNum.charAt(i)=='$' || salaryNum.charAt(i) ==','  || salaryNum.charAt(i) == ' ' ) {
+// escape this character
+} else {
+temp = temp + salaryNum.charAt(i) ;
+}
+
+}
+salaryNum = temp;
+ 	if (isNaN(salaryNum)){
+	 errorFound = true;
+		alert("Value must be numeric.");
+		delayedFocusSelect( formElement );
+		return false;
+	}
+			
+	else return true;
+}
+//end salary check
+
+
+
+
+function trim(strText) 
+{
+    // this will get rid of leading spaces 
+    while (strText.substring(0,1) == ' ') 
+        strText = strText.substring(1, strText.length);
+
+    // this will get rid of trailing spaces 
+    while (strText.substring(strText.length-1,strText.length) == ' ')
+        strText = strText.substring(0, strText.length-1);
+
+   return strText;
+} 
+
+//start zip code
+function checkZip( formElement , required )
+{
+  if( required )
+  {
+    if( ! checkRequiredField( formElement , "Zip/Postal Code" ) ) return false;
+  }
+
+  var ziptmp = formElement.value;
+  var digits = "0123456789";
+  var letters= "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+  var invalidchars = "-_`~!@#$%^&*()+=|\}{][?/<>.,";
+  var space =" ";
+  var zip = trim(ziptmp);
+
+  if ( zip == 0 )
+  {
+    errorFound = true;
+    alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+    delayedFocusSelect( formElement );
+    return false;
+  }
+  for(var i =0 ; i < zip.length ; i++)
+  {
+    if (invalidchars.indexOf(zip.charAt(i)) != -1)
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+  }
+  // US Zip Code Check Start
+  if ( 5 > zip.length )
+  {
+    errorFound = true;
+    alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+    delayedFocusSelect( formElement );
+    return false;
+  }
+  else
+  {
+    if ( zip.length == 5 && isNaN(zip))
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+  }
+  // US Zip Code Check End
+
+  if (zip.length == 6 )
+  {
+    errorFound = true;
+    alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+    delayedFocusSelect( formElement );
+    return false;
+  }
+
+  if (zip.length == 7)
+  {
+
+    if (letters.indexOf(zip.charAt(0)) == -1)
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+
+    if (digits.indexOf(zip.charAt(1)) == -1)
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+
+    if (letters.indexOf(zip.charAt(2)) == -1)
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+
+    if (digits.indexOf(zip.charAt(4)) == -1)
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+
+    if (letters.indexOf(zip.charAt(5)) == -1)
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+
+    if (digits.indexOf(zip.charAt(6)) == -1)
+    {
+      errorFound = true;
+      alert("U.S. Zip Codes must be 5 numbers (e.g., 99999). Canadian Postal Codes must be 6 characters with a space between the 3rd and 4th characters (e.g., N9N 9N9).");
+      delayedFocusSelect( formElement );
+      return false;
+    }
+
+  }
+
+
+  return true;
+
+}
+
+//end zip code
+
+
+
+ //start Phone Number check
+ function checkPhoneNumber( formElement ){
+	var pNumber = "0123456789-";
+	var phoneNum = formElement.value;
+	var expLength = 7;
+	var sepLoc = phoneNum.indexOf('-');
+	
+	if (sepLoc == 3){
+	
+		expLength = 8;
+	} else { 
+
+		errorFound = true;
+		alert("Please enter a valid 7 digit phone number including a hyphen, example: 123-4567.");
+		delayedFocusSelect( formElement );
+		return  false;
+	
+	} 
+
+	if (phoneNum.length < expLength || phoneNum.length > expLength  ){
+	  
+		errorFound = true;
+		alert("Please enter a valid 7 digit phone number including a hyphen, example: 123-4567.");
+		delayedFocusSelect( formElement );
+		return false;
+	}
+	
+	
+	for ( i = 0; i < phoneNum.length; i++) {
+      
+		var temp = phoneNum.substring(i, i+1);
+    		
+    		if ( ( temp == "-" ) && ( (phoneNum.substr(4,phoneNum.length)).indexOf("-") != -1 ) )
+    		{
+ 		     
+  		     errorFound = true;
+		     alert("Please enter a valid 7 digit phone number including a hyphen, example: 123-4567.");
+		     delayedFocusSelect( formElement);
+		     return false;
+    		
+    		}
+    		
+		if ((pNumber.indexOf(temp) == -1)) {
+			errorFound = true;
+			alert("Please enter a valid 7 digit phone number including a hyphen, example: 123-4567.");
+			delayedFocusSelect( formElement);
+			return false;
+		}
+
+	} // end for loop
+
+	return true;
+ }//end checkPhoneNumber
+  //End phone number  
+  
+  //start Area code check
+ function checkAreaCode( formElement ) {
+	var number = formElement.value;
+	
+		if (number.length != 3 || isNaN(number)){
+			errorFound = true;
+			alert("Please enter a 3 digit numeric area code without parentheses.");
+            delayedFocusSelect( formElement );
+			return false;
+        
+		} 
+		return true;
+ }//end checkAreaCode
+ //end Area code check
+ 
+  //start 10-Digit Phone Number check
+ function checkPhoneNumberTen( formElement ){
+	var pNumber = "0123456789-";
+	var phoneNum = formElement.value;
+
+	if( phoneNum == null || phoneNum == "" )
+		return true;
+
+	var expLength = 12;	
+	var sepLoc = phoneNum.indexOf('-');
+	var sepLoc2 = phoneNum.lastIndexOf('-');
+	var numHyphens=0;
+	
+	if ((sepLoc != 3)||(sepLoc2 != 7)){	
+
+		errorFound = true;
+		alert("Please enter a valid 10 digit area code and phone number including hyphens, example: 123-456-7890.");
+		delayedFocusSelect( formElement );
+		return  false;
+	
+	} 
+
+	if (phoneNum.length != expLength){	
+	  
+		errorFound = true;
+		alert("Please enter a valid 10 digit area code and phone number including hyphens, example: 123-456-7890.");
+		delayedFocusSelect( formElement );
+		return false;
+	}
+	
+	for (i = 0; i < phoneNum.length; i++) {
+	
+		var temp = phoneNum.substring(i, i+1);
+		
+		if (temp=="-") {numHyphens++;}
+		
+		if (numHyphens>2) {
+			errorFound = true;
+			alert("Please enter a valid 10 digit area code and phone number including hyphens, example: 123-456-7890.");
+			delayedFocusSelect( formElement);
+			return false;
+		}
+	
+	}
+	
+	
+	for ( i = 0; i < phoneNum.length; i++) {
+      
+		var temp = phoneNum.substring(i, i+1);
+    
+		if ((pNumber.indexOf(temp) == -1)) {
+			errorFound = true;
+			alert("Please enter a valid 10 digit area code and phone number including hyphens, example: 123-456-7890.");
+			delayedFocusSelect( formElement);
+			return false;
+		}
+
+	} // end for loop
+
+	return true;
+ }//end 10-Digit checkPhoneNumber
+ //End 10-Digit phone number 
+ 
+ //start Date check
+ function checkDate( formElement ) {
+	var number = formElement.value;
+	
+		if (isNaN(number)){
+		
+		errorFound = true;
+		alert("The date entered must be between 01 and 31.");
+		delayedFocusSelect( formElement );
+		return false;
+        
+		}
+		
+		if (number < 1 || number > 31)
+		{
+                errorFound = true;
+		alert("The date entered must be between 01 and 31.");
+                delayedFocusSelect( formElement );
+			return false;
+		}
+				
+	else return true;
+ }// end checkDate
+ //End Date
+ 
+ // start month check
+ function checkMonth( formElement ) {
+	 var number = formElement.value;
+	
+		if (isNaN(number)){
+			errorFound = true;
+			alert("The month entered must be between 01 and 12.");
+			delayedFocusSelect( formElement );
+			return false;
+        
+		}
+		
+		if (number < 1 || number > 12){
+			errorFound = true;
+			alert("The month entered must be between 01 and 12.");
+			delayedFocusSelect( formElement );
+			return false;
+		}
+				
+	else return true;
+ }// end checkMonth
+ //End month
+
+ //Start year
+ function checkYear( formElement ) {
+	var number = formElement.value;
+		if (number.length != 4 || isNaN(number)){
+			errorFound = true;
+			alert("The year must be entered as a 4 digit number");
+			delayedFocusSelect( formElement );
+			return false;
+		}
+		
+		else if (number <= 1900){
+		errorFound = true;
+		alert("The year entered must be greater than 1900.");
+		delayedFocusSelect( formElement );
+		return false;
+		}
+			
+	else return true;
+ }// end checkYear
+ //End year
+ 
+ 
+ function y2k(number) { return (number < 1000) ? number + 1900 : number; }
+  
+  
+  
+  // checks if date passed is valid
+   // will accept dates in following format:
+   // isDate(dd,mm,ccyy), or
+   // isDate(dd,mm) - which defaults to the current year, or
+   // isDate(dd) - which defaults to the current month and year.
+   // Note, if passed the month must be between 1 and 12, and the
+  // year in ccyy format.
+  function isDate (day,month,year) {
+  
+      var today = new Date();
+      year = ((!year) ? y2k(today.getYear()):year);
+      month = ((!month) ? today.getMonth():month-1);
+      if (!day) return false
+      var test = new Date(year,month,day);
+      if ( (y2k(test.getYear()) == year) &&
+           (month == test.getMonth()) &&
+           (day == test.getDate()) )
+          return true;
+      else
+          return false
+  }
+
+ 
+ 
+ 
+ 
+ //Start Extension
+ function checkExt( formElement ) {
+	var number = formElement.value;
+		if (number.length > 5 || isNaN(number)){
+			errorFound = true;
+			alert("Please enter a valid extension.");
+			delayedFocusSelect( formElement );
+			return false;
+		}
+ }// end checkExt
+ //End Extension
+
+ //Start Email
+ function checkEmail( formElement ) {
+	invalidChars = "/:, ';"
+	var email = formElement.value;
+	
+		//check if it contains invalid characters.     
+		for ( i = 0; i < invalidChars.length; i++) {
+		badChar = invalidChars.charAt(i)
+		if(email.indexOf(badChar) == -1){
+		errorFound = false;
+
+		} else {
+		 
+		errorFound = true;
+		alert("The email address contains invalid characters.");
+		delayedFocusSelect( formElement );
+		return false;
+			   
+			
+        }
+	 	
+    }
+	
+		//there must be one "@" symbol
+		var atPos = email.indexOf('@',1);
+    
+		if (atPos == -1){
+			errorFound = true;
+			alert("Please enter a valid email address.");
+			delayedFocusSelect( formElement );
+			return false;
+			
+		}
+
+		//there must be only one "@" symbol
+		if (email.indexOf("@",atPos+1) != -1) {
+			errorFound = true;
+			alert("Email addresses must be in the following format: sample@test.com");
+			delayedFocusSelect( formElement );
+			return false;
+		}
+    
+		//there must be at least one "." after "@" 
+		var periodPos = email.indexOf(".",atPos);
+    
+		if (periodPos == -1){
+			errorFound = true;
+			alert("Email addresses must be in the following format: sample@test.com");
+			delayedFocusSelect( formElement );
+			return false;
+
+		}
+    
+
+
+		//there must be at least 2 characters after the "."
+		if (periodPos+3 > email.length) {
+			errorFound = true;
+			alert("Email addresses must be in the following format: sample@test.com");
+			delayedFocusSelect( formElement);
+			return false;
+		
+		}
+	return true;
+      
+ }//end checkEmail
+ //end email check
+ 
+	function focusSelect( formElement )
+	{
+		// commented out formElementSelect by Suresh as per the Problem Id 8915  
+		// for IE5 and Netscape Navigator compatability
+			
+		formElement.select();
+		formElement.focus();
+        formElement.select();
+	}
+	function delayedFocusSelect( formElement )
+	{
+		var formName = formElement.form.name;
+        	var elName = formElement.name;
+        	var evalString = 'focusSelect( document["' + formName + '"]["' + elName + '"] )';
+        	setTimeout( evalString, 10 );
+		
+	}
+
+function isEmpty( formElement )
+{
+	if( (formElement == null) || (trim(formElement.value) == "") ) return true;
+	return false;
+}
+
+function checkRequiredField( formElement , fieldName )
+{
+	if( isEmpty(formElement) )
+	{
+		alert( fieldName + " Field must be entered." );
+		formElement.focus();
+		return false;
+	}
+	return true;
+}
+// -->
+</script>
+
+
+
+<script language="JavaScript">
+<!--
+// Browser detection 
+var Nav = window.Event ? true : false;
+
+// This function is an event handler for Return/Enter
+// keystrokes. It also handles keystrokes in the 
+// Login form when included in that page.
+function doSubmit(e)
+{
+	if (Nav) // Netscape & Mozilla only
+	{
+		if (e.which == 13) // keystroke is ASCII 13 - 'Return/Enter'
+		{
+			if (e.target.name == 'Keyword')
+			{
+				if (ValidateSearch()) 
+					CheckSearchForm2();
+			}
+			else if(e.target.name == 'ZipCode')
+			{
+				if (ValidateSearch()) 
+					CheckSearchForm2();
+			}
+			else if (e.target.name == 'userName')
+			{
+				document.LoginForm.password.focus();
+			}
+			else if(e.target.name == 'password')
+				document.LoginForm.submit();
+			else 
+				return true;
+		}
+	}
+	else // MSIE -- different notation - same algorithm as above
+	{
+		if (event.keyCode == 13)
+		{ 
+			if (event.srcElement.name == 'Keyword')
+			{
+				if (ValidateSearch()) 
+					CheckSearchForm2();
+			}
+			else if(event.srcElement.name == 'ZipCode')
+			{
+				if (ValidateSearch()) 
+					CheckSearchForm2();
+			}
+			else if (event.srcElement.name == 'userName')
+			{
+				document.LoginForm.password.focus();
+			}
+			else if(event.srcElement.name == 'password')
+				document.LoginForm.submit();
+			else 
+				return true;
+		}
+	}
+}
+
+if (Nav) // only Netscape & Mozilla execute this line
+  document.captureEvents(Event.KEYPRESS);
+document.onkeypress = doSubmit; // both models execute this line
+// -->
+</script>
+
+<script language="JavaScript">
+var  blankSearch = "true" ;
+
+// This function checks the Search form for blank searches
+// and shows appropriate message.
+function CheckSearchForm2()
+{
+	if (document.QuickSearchForm.elements["ZipCode"].value != "")
+		blankSearch = "false";
+	if (document.QuickSearchForm.elements["Keyword"].value != "")
+		blankSearch = "false";	
+
+	if (blankSearch == "true"){
+		alert ("Please select at least one criterion to search for.");
+		return false; }
+	else {
+		document.QuickSearchForm.submit();
+		return true; }
+}
+
+function ValidateSearch()
+{
+	var isValid = false;
+	
+	if(document.QuickSearchForm.elements["ZipCode"].value !="")
+	{
+		var mZipCode = document.QuickSearchForm.elements["ZipCode"].value;
+		mZipCode = mZipCode.toUpperCase();
+		document.QuickSearchForm.elements["ZipCode"].value = mZipCode;
+		
+		isValid=checkZip(document.QuickSearchForm.elements["ZipCode"]);
+		
+		if(isValid) return true;
+		return false;
+	}
+	
+	return true;
+}
+</script>	
+
+
+<table width="220" border="0" cellpadding="0" cellspacing="0">
+
+<tbody><tr>
+<td rowspan="99"><img src="/images/clear.gif" width="10" height="1" border="0" alt=""></td>
+<td rowspan="99" background="/images/blue_dot.gif"><img src="/images/clear.gif" width="1" height="1" border="0" alt=""></td>
+<td><img src="/images/blue_dot.gif" width="160" height="1" border="0" alt=""></td>
+<td rowspan="99"><img src="/images/clear.gif" width="1" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td valign="top">
+
+	<form name="QuickSearchForm" action="http://www.roberthalffinance.com/Search?searchType=quickSearch" method="post" onsubmit="return ValidateSearch()">
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	<td colspan="3"><img src="/images/clear.gif" width="1" height="3" border="0" alt=""></td>
+	</tr>
+	<tr>
+	<td colspan="3">
+		<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+		<td valign="top"><img src="/images/clear.gif" width="8" height="1" border="0" alt=""></td>
+		<td><font face="arial" size="2" color="#3366cc"><b>Quick Search</b></font></td>
+		</tr>
+		</tbody></table>
+	</td>
+	</tr>
+	<tr>
+	<td colspan="3"><img src="/images/clear.gif" width="1" height="7" border="0" alt=""></td>
+	</tr>
+	
+	<tr> 
+	<td colspan="3"><img src="/images/clear.gif" width="1" height="3"></td>
+	</tr>
+	<tr> 
+	<td align="right"><img src="/images/quick_search/search_jobs.gif" border="0" alt="Financial Staffing Job Search">&nbsp;</td>
+	<td colspan="2"><input type="Text" name="Keyword" size="15" maxlength="50" class="smForm"></td>
+	</tr>
+	<tr> 
+	<td>&nbsp;</td>
+	</tr>
+	<tr> 
+	<td align="right"><img src="/images/quick_search/zip_post.gif" border="0">&nbsp;</td>
+	<td><input type="Text" name="ZipCode" size="8" maxlength="7" class="smForm" onblur="ValidateSearch ()"></td>
+	<td><a href="javascript:ValidateSearch();CheckSearchForm2();" onclick="if (ValidateSearch()) CheckSearchForm2();return false"><input type="Image" name="Search" src="/images/quick_search/go_button.gif" border="0" width="24" height="16"></a></td>
+	</tr>
+	<tr>
+	<td colspan="3"><img src="/images/clear.gif" width="1" height="5"></td>
+	</tr>
+	<tr>
+	<td colspan="3" class="small"><font face="Arial" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Find jobs <a href="http://www.roberthalffinance.net" target="_blank">outside North America</a></font></td>
+	</tr>
+	</tbody></table>
+	</form>
+</td>
+</tr>	
+</tbody></table>
+		</td>
+<!-- END LEFT COLUMN -->
+<!-- BEGIN RIGHT MAIN VERTICLE GUTTER --> 
+    	<td class="gutter10"></td>
+<!-- END RIGHT MAIN VERTICLE GUTTER -->
+		<td valign="TOP">
+			<table border="0" cellspacing="0" cellpadding="0" width="500">
+				
+				<tbody><tr>
+				    <td><img src="/images/clear.gif" width="1" height="10" border="0" alt=""></td>
+				</tr>
+				<tr>
+				    <td><img src="/images/clear.gif" width="3" height="1" border="0" alt="">
+<font face="Arial" size="3" color="#3366CC"><b>Robert Half Finance Website Privacy Policy</b></font></td>
+				</tr>
+				<tr>
+				    <td><img src="/images/clear.gif" width="1" height="15" border="0" alt=""></td>
+				</tr>
+<tr>
+				    <td>
+						<table cellspacing="0" cellpadding="5" border="0" width="450">
+							<tbody><tr>
+							    
+				<td>
+				<p><font face="Arial, Helvetica, sans-serif">Welcome to <a href="http://www.roberthalffinance.com/Home">www.roberthalffinance.com</a> (the "Site").  This website privacy policy ("Policy") describes how Robert Half International Inc. and its subsidiaries ("We", "we", or "RHI") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Information").  </font> </p>
+				  <p><font face="Arial, Helvetica, sans-serif" size="2"><b>Collections and Uses of Personal Information</b></font> </p>
+				 
+				  <p><font face="Arial, Helvetica, sans-serif" size="2">When you use or register with the Site, we may ask for certain Personal Information. The categories of Personal Information we may request include your name and contact information (email, address and phone number). Depending on the nature of your inquiry or activities on the Site, we may also ask for your job search criteria and preferences, your employment experience, educational history, your skills, references information, background information, and other information contained in your resume, and any login ID and password created by you. For candidates who have previously been registered with or worked for RHI, such persons may enter, at their discretion, their social security number or employee ID to facilitate the registration process. The Site also utilizes cookies to track your online activities, including, but not limited to, registration, submissions, and information requests.  After your successful registration with the Site, you will be able to access, review and change your Personal Information provided by you through the Review Profile feature of the Site. </font></p>
+				
+				  <p><font face="Arial, Helvetica, sans-serif" size="2">We use Personal Information and other data collected through the Site to register you with the Site, to provide you with information regarding employment opportunities and career-related information, and to otherwise provide you with requested information or services. We may also from time to time use your Personal Information to send you automated email messages or marketing materials regarding our services, including employment information. You may opt out of receiving such marketing email messages by sending a message to the email address below.</font></p>
+				 
+				  <p><font face="Arial, Helvetica, sans-serif" size="2"><b>Disclosures of Personal Information</b></font></p>
+				  <p><font face="Arial, Helvetica, sans-serif" size="2">As described in Section 4 of the <a href="http://www.roberthalffinance.com/PrivacyStatement?inTrack=termsOfUse">Terms of Use</a>, RHI may disclose Personal Information to third parties. The disclosure to third parties would occur in the following circumstances:
+</font></p>
+<ol><font face="Arial, Helvetica, sans-serif" size="2">
+<b>1.</b> We will disclose information to our clients where necessary and appropriate in connection with the provision of staffing services. <br><br>
+<b>2.</b> We may disclose information to companies and individuals we employ to perform business functions and services on our behalf.  Such functions may include, for example, hosting our Web servers, analyzing data, providing legal, accounting and marketing services. <br><br> 
+<b>3.</b> We may disclose information to the extent necessary or appropriate to government agencies, advisors, and other third parties in order to comply with applicable laws, the service of legal process, or if we reasonably believe that such action is necessary to (a) comply with the law requiring such disclosure; (b) protect the rights or property of RHI or its affiliated companies; (c) prevent a crime or protect national security or (d) protect the personal safety of the users or the public.<br><br> 
+</font> 
+</ol>
+
+
+ <p><font face="Arial, Helvetica, sans-serif" size="2"><b>Revisions to the Policy</b></font></p>
+				  <p><font face="Arial, Helvetica, sans-serif" size="2">If we change this privacy policy we will post any updates here for your review.  If we change material terms in this Policy, we will provide notice of the revised policy for 30 days on the home page at <a href="http://www.roberthalffinance.com/Home">www.roberthalffinance.com</a> with a link back to this page. </font></p>
+				  
+				  <p><font face="Arial" size="2">This Policy is effective as of July 1, 2004.  If you have any questions about our website privacy policies, please contact us at: <br>
+					<br>
+<b>Mailing Address</b>
+<br><br>
+The Webmaster<br>
+Robert Half Finance &amp; Accounting<br>
+2884 Sand Hill Road<br>
+Menlo Park, California 94025
+<br><br>
+<b>Email Address</b>
+<br><br>
+<a href="mailto:webmaster@roberthalffinance.com">webmaster@roberthalffinance.com</a>
+<br><br>
+© 2006  Robert Half International Inc.  All rights reserved.   Equal Opportunity Employer.
+								
+								   </font>
+								
+									
+								</p></td>
+							</tr>
+
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+<!-- END MAIN CONTENT --> 
+		</td>
+	</tr>
+</tbody></table>
+<!-- END MAIN PAGE -->
+
+<!-- BEGIN SPACING BEFORE GUTTER --> 
+<pre>
+</pre>
+<!-- END SPACING BEFORE GUTTER --> 
+
+<!-- BEGIN FOOTER -->
+
+
+
+
+
+
+  
+
+<table width="740" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	<td height="20">&nbsp;</td>
+	</tr>
+
+	<tr>
+	<td height="33" align="CENTER" valign="BOTTOM" class="footer">
+		<a href="http://www.roberthalffinance.com/Home?inTrack=home">Home</a> &nbsp; 
+		<a href="http://www.roberthalffinance.com/OfficeLocations?inTrack=officeLocations">Office Locations</a> &nbsp; 
+		<a href="http://www.roberthalffinance.com/Feedback?inTrack=customerService">Customer Service</a> &nbsp; 
+		<a href="http://www.roberthalffinance.com/PrivacyStatement?inTrack=termsOfUse">Terms Of Use</a> &nbsp; <a href="http://www.rhi.com/portal/site/rhi-us/?pgTitle=Government%20Notice" target="_blank">Government Notice</a> &nbsp; <a href="http://www.roberthalffinance.com/PrivacyPolicy?inTrack=privacyPolicy">Privacy Policy</a> &nbsp;
+		<a href="http://www.roberthalffinance.com/PressRoom?inTrack=pressRoom">Press Room</a> &nbsp; </td>
+	</tr>
+	<tr>
+	<td height="5"><img src="/images/clear.gif" width="1" height="5" border="0" alt=""></td>
+	</tr>
+	<tr>
+	<td align="center" valign="BOTTOM" nowrap="" class="phone"><b>1.800.474.4253</b></td>
+	</tr>
+	<tr>
+	<td align="center" valign="BOTTOM" nowrap=""><span class="copyright"><font face="Arial" size="-2"><b>Copyright© 2006 Robert Half® Finance &amp; Accounting, An Equal Opportunity Employer</b></font></span><br><font face="Arial" size="-1"><a href="http://www.rhi.com" target="_blank">A Robert Half International Company</a></font><br><span class="copyright"><font face="Arial" size="-2"><b>All rights reserved.</b></font></span></td>
+	</tr>
+</tbody></table>
+
+
+
+
+
+<meta name="DCS.dcsaut" content="Candidate not logged in "> 
+
+
+
+<!-- START OF Custom Tracking Code -->
+<script language="Javascript">
+<!--
+// Code section for Enable Event Tracking
+var gHref="";
+function dcsParseSvl(sv){
+	sv=sv.split(" ").join("");
+	sv=sv.split("\t").join("");
+	sv=sv.split("\n").join("");
+	var pos=sv.toUpperCase().indexOf("WT.SVL=");
+	if (pos!=-1){
+		var start=pos+8;
+		var end=sv.indexOf('"',start);
+		if (end==-1){
+			end=sv.indexOf("'",start);
+			if (end==-1){
+				end=sv.length;
+			}
+		}
+		return sv.substring(start,end);
+	}
+	return "";
+}
+function dcsIsOnsite(host){
+	var doms="bio-rad.com,biorad.com,expressionproteomics.com,biocompare.com,bio-rad.co.jp,biorad.fr,proteomeworkssystem.com,bio-rad.fr,bio-rad.be,bio-rad.se,biorad.dk,biorad.ch,biorad.be,bio-rad.com.hk,bio-rad.us,biorad.no";
+    var aDoms=doms.split(',');
+    for (var i=0;i<aDoms.length;i++){
+		if (host.indexOf(aDoms[i])!=-1){
+		       return 1;
+		}
+    }
+    return 0;
+}
+function dcsIsHttp(e){
+	return (e.href&&e.protocol&&(e.protocol.indexOf("http")!=-1))?true:false;
+}
+
+function dcsSaveHref(evt){
+	if (evt.preventDefault&&evt.target.href){
+		evt.preventDefault();
+		gHref=evt.target.href;
+	}
+}
+
+function dcsEvt(evt){
+	var e=evt.target||evt.srcElement;
+	if (e.tagName&&(e.tagName=="IMG")){
+		e=e.parentElement||e.parentNode;
+	}
+	return e;
+}
+function dcsBind(event,func){
+	if ((typeof(window[func])=="function")&&document.body){
+		if (document.body.addEventListener){
+			document.body.addEventListener(event, window[func], true);
+		}
+		else if(document.body.attachEvent){
+			document.body.attachEvent("on"+event, window[func]);
+		}
+	}
+}
+function dcsET(){
+	dcsBind("click","dcsDownload");
+	dcsBind("click","dcsOffsite");
+}
+	
+function dcsMultiTrack(){
+	for (var i=0;i<arguments.length;i++){
+		if (arguments[i].indexOf('WT.')==0){
+				WT[arguments[i].substring(3)]=arguments[i+1];
+				i++;
+		}
+		if (arguments[i].indexOf('DCS.')==0){
+				DCS[arguments[i].substring(4)]=arguments[i+1];
+				i++;
+		}
+		if (arguments[i].indexOf('DCSext.')==0){
+				DCSext[arguments[i].substring(7)]=arguments[i+1];
+				i++;
+		}
+	}
+	var dCurrent=new Date();
+	DCS.dcsdat=dCurrent.getTime();
+	dcsTag();
+}
+
+// Code section for Track clicks to download links.
+function dcsDownload(evt){
+	evt=evt||(window.event||"");
+	if (evt){
+		var e=dcsEvt(evt);
+		if (dcsIsHttp(e)&&dcsIsOnsite(e.hostname)){
+			var types="xls,doc,pdf,txt,exe,sit,bin,hqx,csv,zip";
+			if (types.indexOf(e.pathname.substring(e.pathname.lastIndexOf(".")+1,e.pathname.length))!=-1){
+				var qry=e.search?e.search.substring(e.search.indexOf("?")+1,e.search.length):"";
+				if (qry.toUpperCase().indexOf("WT.SVL=")==-1){
+					WT.svl=dcsParseSvl(e.name?e.name.toString():(e.onclick?e.onclick.toString():""));
+				}
+				var path=(e.pathname.indexOf("/")!=0)?"/"+e.pathname:e.pathname;
+				dcsMultiTrack("DCS.dcssip",e.hostname,"DCS.dcsuri",path,"WT.ti","Download:"+path,"WT.dl","1");
+				DCS.dcssip=DCS.dcsuri=WT.ti=WT.svl=WT.dl="";
+			}
+		}
+	}
+}
+
+// Code section for Track clicks to links leading offsite.
+function dcsOffsite(evt){
+	evt=evt||(window.event||"");
+	if (evt){
+		var e=dcsEvt(evt);
+		if (dcsIsHttp(e)&&!dcsIsOnsite(e.hostname)){
+			var qry=e.search?e.search.substring(e.search.indexOf("?")+1,e.search.length):"";
+			if (qry.toUpperCase().indexOf("WT.SVL=")==-1){
+				WT.svl=dcsParseSvl(e.name?e.name.toString():(e.onclick?e.onclick.toString():""));
+			}
+			var path=(e.pathname.indexOf("/")!=0)?"/"+e.pathname:e.pathname;
+			var trim=true;
+			dcsSaveHref(evt);
+			dcsMultiTrack("DCS.dcssip",e.hostname,"DCS.dcsuri",path,"DCS.dcsqry",trim?"":qry,"WT.ti","Offsite:"+e.hostname+path+qry,"WT.os","1");
+			DCS.dcssip=DCS.dcsuri=DCS.dcsqry=WT.ti=WT.svl=WT.os="";
+		}
+	}
+}
+
+//-->
+</script>
+
+<!-- END OF Custom SmartSource Data Collector TAG -->	
+
+<!-- START OF SDC Advanced Tracking Code -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime: 2005/08/25 15:58:46 $ -->
+<script language="Javascript"><!--
+var gService = true;
+var gTimeZone = -8;
+// Code section for Enable First-Party Cookie Tracking
+function dcsCookie(){
+	if (typeof(dcsOther)=="function"){
+		dcsOther();
+	}
+	else if (typeof(dcsPlugin)=="function"){
+		dcsPlugin();
+	}
+	else if (typeof(dcsFPC)=="function"){
+		dcsFPC(gTimeZone);
+	}
+}
+function dcsGetCookie(name){
+	var pos=document.cookie.indexOf(name+"=");
+	if (pos!=-1){
+		var start=pos+name.length+1;
+		var end=document.cookie.indexOf(";",start);
+		if (end==-1){
+			end=document.cookie.length;
+		}
+		return unescape(document.cookie.substring(start,end));
+	}
+	return null;
+}
+function dcsGetCrumb(name,crumb){
+	var aCookie=dcsGetCookie(name).split(":");
+	for (var i=0;i<aCookie.length;i++){
+		var aCrumb=aCookie[i].split("=");
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsGetIdCrumb(name,crumb){
+	var cookie=dcsGetCookie(name);
+	var id=cookie.substring(0,cookie.indexOf(":lv="));
+	var aCrumb=id.split("=");
+	for (var i=0;i<aCrumb.length;i++){
+		if (crumb==aCrumb[0]){
+			return aCrumb[1];
+		}
+	}
+	return null;
+}
+function dcsFPC(offset){
+	if (typeof(offset)=="undefined"){
+		return;
+	}
+	var name=gFpc;
+	var dCur=new Date();
+	dCur.setTime(dCur.getTime()+(dCur.getTimezoneOffset()*60000)+(offset*3600000));
+	var dExp=new Date(dCur.getTime()+315360000000);
+	var dSes=new Date(dCur.getTime());
+	if (document.cookie.indexOf(name+"=")!=-1){
+		var id=dcsGetIdCrumb(name,"id");
+		var lv=parseInt(dcsGetCrumb(name,"lv"));
+		var ss=parseInt(dcsGetCrumb(name,"ss"));
+		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+			return;
+		}
+		WT.co_f=id;
+		var dLst=new Date(lv);
+		dSes.setTime(ss);
+		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+			dSes.setTime(dCur.getTime());
+			WT.vt_f_s="1";
+		}
+		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+			WT.vt_f_d="1";
+		}
+	}
+	else{
+		var tmpname=name+"_TMP=";
+		document.cookie=tmpname+"1";
+		if (document.cookie.indexOf(tmpname)!=-1){
+			document.cookie=tmpname+"; expires=Thu, 01-Jan-1970 00:00:01 GMT";
+			if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+				WT.co_f=gWtId;
+			}
+			else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+				WT.co_f=gTempWtId;
+				WT.vt_f="1";
+			}
+			else{
+				WT.co_f="2";
+				var cur=dCur.getTime().toString();
+				for (var i=2;i<=(32-cur.length);i++){
+					WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+				}
+				WT.co_f+=cur;
+				WT.vt_f="1";
+			}
+			if (typeof(gWtAccountRollup)=="undefined"){
+				WT.vt_f_a="1";
+			}
+			WT.vt_f_s="1";
+			WT.vt_f_d="1";
+		}
+		else{
+			WT.vt_f="2";
+			WT.vt_f_a="2";
+			return;
+		}
+	}
+	WT.co_f=escape(WT.co_f);
+	WT.vt_sid=WT.co_f+"."+dSes.getTime();
+	var expiry="; expires="+dExp.toGMTString();
+	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+}
+
+// Code section for Use the new first-party cookie generated with this tag.
+var gFpc="WT_FPC";
+var gWtId="";
+var gTempWtId="";
+var gConvert=true;
+
+function dcsAdv(){
+	dcsFunc("dcsET");
+	dcsFunc("dcsCookie");
+	dcsFunc("dcsAdSearch");
+}
+
+//-->
+</script>
+<!-- END OF SDC Advanced Tracking Code -->
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime: 2005/06/29 17:35:36 $ -->
+<script language="Javascript"><!--
+gVersion="1.0";
+//-->
+</script>
+<script language="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</script>
+<script language="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</script>
+<script language="Javascript1.3"><!--
+gVersion="1.3";
+if (window.ActiveXObject){
+	var gFV="";
+	for (var gVer=2;gVer<=10;gVer++){
+		try{
+			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
+			if (gFlash){
+				gFV=gVer+".0";
+				break;
+			}
+		}
+		catch(e){
+		}
+	}
+}
+//-->
+</script>
+<script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script>
+<script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script>
+<script language="JavaScript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+
+var gDomain="statse.webtrendslive.com";
+var gDcsId="dcsbcljafb2ep3621kj4yk4ga_1d7q";
+
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
+	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
+}
+//-->
+</script>
+<script language="Javascript"><!--
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=document.title;
+	}
+	WT.js="Yes";
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+	if (document.body&&document.body.addBehavior){
+		document.body.addBehavior("#default#clientCaps");
+		if (document.body.connectionType){
+			WT.ct=document.body.connectionType;
+		}
+		document.body.addBehavior("#default#homePage");
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	if (parseInt(navigator.appVersion)>3){
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+		}
+		else if (navigator.appName=="Netscape"){
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+		}
+	}
+	WT.fi="No";
+	if (window.ActiveXObject){
+		if ((typeof(gFV)!="undefined")&&(gFV.length>0)){
+			WT.fi="Yes";
+			WT.fv=gFV;
+		}
+	}
+	else if (navigator.plugins&&navigator.plugins.length){
+		for (var i=0;i<navigator.plugins.length;i++){
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+				WT.fi="Yes";
+				WT.fv=navigator.plugins[i].description.split(" ")[2];
+				break;
+			}
+		}
+	}
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+		if (gQP.length>0){
+			for (var i=0;i<gQP.length;i++){
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+				if (pos!=-1){
+					var front=DCS.dcsqry.substring(0,pos);
+					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+					DCS.dcsqry=front+end;
+				}
+			}
+		}
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsLoadHref(evt){
+	if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+		window.location=gHref;
+		gHref="";
+	}
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
+		}
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var elems;
+	if (document.all){
+		elems=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		elems=document.getElementsByTagName("meta");
+	}
+	if (typeof(elems)!="undefined"){
+		for (var i=1;i<=elems.length;i++){
+			var meta=elems.item(i-1);
+			if (meta.name){
+				if (meta.name.indexOf('WT.')==0){
+					WT[meta.name.substring(3)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCSext.')==0){
+					DCSext[meta.name.substring(7)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCS.')==0){
+					DCS[meta.name.substring(4)]=meta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+function dcsFunc(func){
+	if (typeof(window[func])=="function"){
+		window[func]();
+	}
+}
+
+dcsVar();
+dcsMeta();
+dcsFunc("dcsAdv");
+dcsTag();
+//-->
+</script>
+
+<noscript>
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsbcljafb2ep3621kj4yk4ga_1d7q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+</noscript>
+<!-- END OF SmartSource Data Collector  TAG -->	
+
+
+<!-- BEGIN END SPACING FOR THE FOOTER -->
+<pre>
+</pre>
+<!-- END END SPACING FOR THE FOOTER -->
+<!-- END FOOTER -->  
+
+
+
+
+
+</body></html>
