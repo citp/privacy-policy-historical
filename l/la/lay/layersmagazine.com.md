@@ -1,30 +1,41 @@
-> *The following text is extracted and transformed from the layersmagazine.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618230417id_/http%3A//www.layersmagazine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layersmagazine.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018184435id_/http%3A//layersmagazine.com/privacy.html) for the most accurate reproduction.*
 
-# Layers Magazine | Privacy policy - The How-To Magazine for Everything Adobe
+# Privacy Policy | Layers Magazine
 
-##### **Our Privacy Pledge**
+**OUR PRIVACY PLEDGE**
 
-The KW Media Group Companies believe that information personal to you be respected and protected. For this reason, we are committed to protecting your personal information and using it only as appropriate to provide you with the best possible service, products and opportunities. This privacy policy, which describes our information practices and policies in detail, applies to our relationship with you if you are an individual who inquires about and/or obtains products or services from us.
+This Privacy Policy applies to and is provided on behalf of KW Media Group, Inc. and the KW Media Group family of companies (collectively referred to as "We," "Us," or "Our") and describes Our information gathering practices and policies in connection with this Site.  We value your ("User,” “You,” or “Your”) privacy and recognize the sensitivity of Your personal information.  We are committed to protecting Your personal information and using it only as appropriate to provide You with the best possible service, products, and opportunities.  Use of this Site constitutes consent to Our collection and use of personal data as outlined herein. 
 
-**Information we collect**  
-The information we collect about you, such as your name, address, phone number, email address and credit card information comes from you during the registration or purchasing process.
+**COLLECTION AND USE OF PERSONAL INFORMATION FROM SITE USERS**
 
-**Information we disclose to third parties**   
-Unless you expressly direct us to do so, we will not disclose personal information about you to third parties for their own marketing purposes. We share personal information about you with third parties (that is, people and companies that are not affiliated with us) only as necessary to provide you with our products and services and as otherwise permitted by law.
+We collect personally identifiable information from Users who provide it to us a voluntary basis.  For example, We may collect Your name, street address, city, state, zip code, telephone number, email address, and possibly financial information, such as a credit card number, if You use the Site to register or renew a membership, register for an event or conference, subscribe to a newsletter or publication, order publications, request information, send a contribution, complete a survey or enter a contest, submit photographs, articles or manuscripts for posting or review.  We may use this information to contact You regarding the status of Your membership, registrations, subscriptions, and orders placed, and to alert You to new information, products and services, events and other opportunities.  We recognize that You may wish to limit the ways in which You are contacted and provide You with opt-out options below.  Information about Our experiences and transactions with you, such as your payment history, types of services and/or products you purchased from us may be shared within the KW Media Group family of companies. 
 
-**Information we share within our corporate family**  
-We are permitted by law to share information about our experiences and transactions with you (such as your payment history and types of services and /or products you purchased from us) within our family of companies, presently consisting of kW Media Group, Inc., kW Computer Training, Inc., Mac Design Magazine, Inc., the National Association of Photoshop Professionals, Inc. and NAPP Publishing, Inc. We do sometimes share this information in order to best serve you.
+We will not disclose to third parties (that is, people and companies that are not affiliated with Us) individually identifying information, such as names, postal and e-mail addresses, telephone numbers, and other personal information, except to the extent that it is necessary to process and provide You with Your order, subscription request or other request.  Your contact information may also be provided to the extent necessary to comply with applicable laws or legal processes (e.g., subpoenas), or to protect Our rights or property.  We will cooperate with all law enforcement authorities. 
 
-**Information security**  
-We restrict access to personal information about you (including credit card and other payment information) to those employees who need to know that information in order to provide products and services to you. We maintain physical, electronic and procedural safeguards to guard your personal information.
+If Your order, subscription request or other request is processed by a third-party, or if You are provided with bulletin boards and chat rooms and/or email capabilities on this Site, please note that in the event that You voluntarily disclose personally identifiable information in those instances, that information, along with any substantive information disclosed in Your communication or post, can be collected, correlated and used by third parties.  This may result in unsolicited messages from third parties.  Such activities are beyond Our control, and We encourage You to check the applicable privacy policy of such party when providing personally identifiable information.
 
-**The KW Media Group companies**  
-This privacy policy applies to and is provided on behalf of all of the companies in the kW Media Group family of companies. These companies are:
+For each visitor to this Site, Our server can detect and collect certain information, including the User’s domain name and e-mail address, and can identify the Web pages the User visited or accessed.  We may use this information in order to measure interest in and use of the various areas of the site. 
 
-[KW Media Group, Inc.](http://www.kwmediagroup.com/)  
-[Adobe Photoshop Seminar Tours](http://www.photoshopseminars.com/)  
-[MacLive Conference](http://www.maclive.com/)  
-[National Association of Photoshop Professionals, Inc.](http://www.photoshopuser.com/)  
-[Photoshop Elements Techniques Newsletter](https://web.archive.org/web/20060618230417id_/http%3A//www.layersmagazine.com/www.photoshopelementsuser.com)  
-[Scott Kelby Books](http://www.scottkelbybooks.com/)  
-[Photoshop Videos](http://www.photoshopvideos.com/)
+We do not knowingly solicit information from children and We do not knowingly market the Site or its services to children.  No one under the age of 13 should submit any personal information to Us and/or on the Site. 
+
+**OPT-OUT** You may at any time opt out of having Your personal information used by Us to send You promotional correspondence by contacting Us via e-mail, telephone, or at the address provided in the "Contact Us" section below. 
+
+**COOKIES**
+
+This Site may use "cookies" to allow You to move more quickly through the Site, particularly in member only and/or restricted areas of the Site.  Cookies are small text files a web site can use to recognize repeat Users and facilitate their ongoing access to and use of the site.  The majority of web browsers accept cookies, but the “help” menu on Your browser should give You options for preventing, accepting, or receiving notice of new cookies.  Please note that cookies may be necessary to enable You to use certain features on this Site.
+
+**INFORMATION SECURITY AND CONFIDENTIALITY** ****
+
+We maintain physical, electronic and procedural safeguards to prevent the unauthorized release of or access to Your personal information.  When We transfer and receive certain types of sensitive information such as financial information, We redirect visitors to a secure server.  We do not store or reuse Your credit card information, unless You authorize us to do so. We restrict access to personal information about You (including credit card and other payment information) to only those employees who need the information to provide You with Your order, subscription request or other request.  However, such precautions do not guarantee that this Site is invulnerable to all security breaks.  We make no warranty, guarantee, or representation that the use of this Site is protected from viruses, security threats, or other vulnerabilities and that Your information will always be secure.  We cannot guarantee the confidentiality of any communication or material transmitted to/from Us via the Site or e-mail.  Use of the Internet is solely at Your own risk and is subject to all applicable local, state, federal, and international laws and regulations. 
+
+**CONTACT US**
+
+This Privacy Policy may be updated periodically and posted on this Site.  It applies only to Our online practices and does not encompass other areas of the organization.  We reserve the right to change this Policy at any time by posting revisions.  By accessing or using the Site, You agree to be bound by all of the Terms of this Privacy Policy as posted at the time of Your access or use.  We reserve the right to contact Users of the Site regarding changes to the Terms and Conditions generally, this Privacy Policy specifically, or any other policies or agreements relevant to the Site's Users.  If You have any questions about this Policy, You may telephone, email, or write to: 
+
+Kristen Kupniewski  
+Executive Assistant  
+National Association of Photoshop Professionals, Inc.  
+333 Douglas Road East  
+Oldsmar, FL  34677  
+Tel.  813-433-5000  
+**KristenK@photoshopuser.com**
