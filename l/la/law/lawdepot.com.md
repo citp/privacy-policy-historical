@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawdepot.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509203212id_/http%3A//www.lawdepot.com/privacy.php%3Fad%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawdepot.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018092742id_/http%3A//www.lawdepot.com/privacy.php%3Fad%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy from LawDepot.com
 
@@ -29,6 +29,10 @@ If required by law, search warrant, subpoena, court order, or credit card fraud 
 LawDepot maintains the security of your information at all times. We use the Secure Socket Layer (SSL) protocol with 128-bit encryption strength to transmit sensitive information. This is the same technology used in transmitting sensitive information by banks, governments, and online businesses such as Amazon.com and eBay.
 
 Once the information is in our system, it is accessible to authorized LawDepot personnel only. We strictly enforce our privacy policies with our employees and any breach of this policy will result in termination and the pressing of criminal charges where there are grounds.
+
+### Document Preparation and Privacy of Information
+
+The information you provide when you prepare a document on our website is held strictly confidential. For this reason it is essential that you provide a valid email account that will not block email from LawDepot. If we need to contact you to provide a password, we can only contact you through the email address associated with your original purchase. Protecting your confidential information is important to us. It is our strict policy that we do not give out passwords over the phone no matter the circumstance.
 
   
 
