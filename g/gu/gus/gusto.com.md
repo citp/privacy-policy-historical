@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gusto.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616192709id_/http%3A//www.gusto.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gusto.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019213337id_/http%3A//www.gusto.com/home/privacy_policy) for the most accurate reproduction.*
 
-# 
+# gusto privacy policy
+
+## gusto! privacy policy
 
 Gusto.com takes your privacy seriously. Please read the following to learn more about our Privacy Policy.
 
@@ -13,7 +15,7 @@ Gusto.com takes your privacy seriously. Please read the following to learn more 
     1. _General_
       1. Collection. Gusto.com collects personal information when you register with Gusto.com, when you use Gusto.com products or services, when you visit Gusto.com pages or the pages of certain Gusto.com partners, and when you enter promotions or sweepstakes. Gusto.com may combine information about you that we have with information we obtain from business partners or other companies.
       2. Information Sought and Collected. When you register with Gusto.com, we ask for personal information such as your name, e-mail address, birth date, gender, zip code, occupation, industry, and personal interests and other information that that is not otherwise publicly available. For some financial products and services, we may also ask for your address, Social Security number, and information about your assets. Once you register with Gusto.com and sign in to our services, you are not anonymous to us. Gusto.com also collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
-      3. IP Address. Gusto.com's Web server automatically recognizes a visitor's domain name or IP address. An IP address is a number assigned to your computer when you connect to the Internet. As part of the protocol of the Internet, Web servers can identify your computer by its IP address. In addition, Web servers may be able to identify the type of browser you are using or even the type of computer. We collect IP addresses and related information for the purposes of system administration, to assess the traffic to our Web site and to maintain and improve our Web site. Although it is not our practice to link IP addresses to your personally identifiable information, we reserve the right to use IP addresses to identify a user when we feel it is necessary to protect the compelling interest of our Web site, users of our Web site or others or to comply with laws, court orders, or law enforcement requests.
+      3. IP Address. Gusto.com's Web server automatically recognizes a visitor's domain name or IP address. An IP address is a number assigned to your computer when you connect to the Internet. As part of the protocol of the Internet, Web servers can identify your computer by its IP address. In addition, Web servers may be able to identify the type of browser you are using or even the type of computer. We collect IP addresses and related information for the purposes of system administration, to assess the traffic to our Web site and to maintain and improve our Web site. Although it is not our practice to link IP addresses to your personally identifiable information, we reserve the right to use IP addresses to identify a member when we feel it is necessary to protect the compelling interest of our Web site, members of our Web site or others or to comply with laws, court orders, or law enforcement requests.
       4. Use. Gusto.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, assist us in providing better products and services, contact you, conduct research, service your account with us and respond to your questions, and to provide anonymous reporting for internal and external clients.
     2. _Information Sharing and Disclosure_
       1. Sharing of Personal Information. Gusto.com does not rent, sell, or share personal information about you with nonaffiliated persons or companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
@@ -31,7 +33,7 @@ Gusto.com takes your privacy seriously. Please read the following to learn more 
     4. **YOUR ABILITY TO EDIT AND DELETE YOUR ACCOUNT INFORMATION AND PREFERENCES**
       1. _General_
         1. Editing. You can edit your Gusto.com Account Information, including your marketing preferences, at any time.
-        2. New Categories. New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
+        2. New Categories. New categories of marketing communications may be added to the Marketing Preferences page from time to time. Members who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
         3. Gusto.com Marketing and Newsletters. We may send you certain communications relating to the Gusto.com service, such as service announcements, administrative messages and the Gusto.com Newsletter, that are considered part of your Gusto.com account. If you do not want to receive these communications, you will have the opportunity to opt out of receiving them.
         4. Account Removal. You can delete your Gusto.com account by visiting our Account Deletion page. Please click here to read about information that might possibly remain in our archived records after your account has been deleted.
       2. **CONFIDENTIALITY AND SECURITY**
@@ -51,3 +53,5 @@ Building J-Suite 220
 Springfield, Missouri 65804
 
 
+
+[](https://web.archive.org/my_gusto/sign_up/ "become a member today!")
