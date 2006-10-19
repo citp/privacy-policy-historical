@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdaybears.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615184125id_/http%3A//www.bdaybears.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdaybears.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019231918id_/http%3A//www.bdaybears.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Bday Bears - Bday Parties Privacy Policy
 
