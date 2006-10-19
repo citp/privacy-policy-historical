@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the albertsons.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204020517id_/http%3A//www.albertsons.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albertsons.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019135333id_/http%3A//www.albertsons.com/privacy.asp) for the most accurate reproduction.*
 
-# Albertsons - Security & Privacy
+# Albertsons - Security and Privacy
 
 Albertsons.com believes that our customers are our greatest asset. We built this Web site on that premise and, in doing so, have made every effort to ensure that your shopping experience is enjoyable, safe, and secure. We gather information from you so that we may process orders, offer special purchasing opportunities, and tailor your visit to our Web site toward your interests. This page details our practices with regard to information that you submit to our Web site.
 
@@ -39,4 +39,5 @@ Attn: Customer Service
 250 Parkcenter Blvd.  
 Boise, ID 83706  
 
+  
 
