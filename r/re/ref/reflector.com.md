@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reflector.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615043336id_/http%3A//www.reflector.com/services/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflector.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019061027id_/http%3A//www.reflector.com/services/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Welcome to Reflector!
 
   
 
@@ -82,7 +82,7 @@ Back to top ****
 
 **OPTING OUT**
 
-If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email us [using this form](https://web.archive.org/web/20060615043336id_/http%3A//www.reflector.com/services/content/shared/services/policies/privacypolicyform.html). 
+If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email us [using this form](https://web.archive.org/services/content/services/privacypolicy.html). 
 
 If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an email newsletter or by going back to our site). 
 
@@ -105,3 +105,5 @@ A final note: The Web is an evolving medium. If we need to change our privacy po
 Back to top
 
 * * *
+
+### Sponsored Links
