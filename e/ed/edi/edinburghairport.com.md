@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512101818id_/http%3A//www.edinburghairport.com/portal/controller/dispatcher.jsp%3FCiID%3D9ca16d35771a2010VgnVCM100000147e120a____%26CtID%3D448c6a4c7f1b0010VgnVCM200000357e120a____%26Ct%3DB2C_CT_GENERAL%26RootCh%3DMisc%26Ch%3DPrivacy%2BStatement%26ChID%3De04f83322f5f3010VgnVCM10000036821c0a____%26ChPath%3DEDI%255EMisc%255EPrivacy%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020012446id_/http%3A//www.edinburghairport.com/portal/controller/dispatcher.jsp%3FCiID%3D9ca16d35771a2010VgnVCM100000147e120a____%26CtID%3D448c6a4c7f1b0010VgnVCM200000357e120a____%26Ct%3DB2C_CT_GENERAL%26RootCh%3DMisc%26Ch%3DPrivacy%2BStatement%26ChID%3De04f83322f5f3010VgnVCM10000036821c0a____%26ChPath%3DEDI%255EMisc%255EPrivacy%2BStatement) for the most accurate reproduction.*
 
 # BAA Edinburgh: Privacy Statement
 
@@ -14,7 +14,7 @@ You may be asked to give us personal details when subscribing to a service, taki
 
 If you are giving us your personal details in the course of subscribing for a service (for example a newsletter), then we will of course use it in order to provide you with that service.
 
-If you purchase a travel service from us (such as car parking, insurance or lounge spaces), we will, unless you object, use that information to send you a limited number of communications each year relating to similar products and services. We do our best to tailor this information so that it will be useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
+If you purchase a travel service from us (such as car parking or lounge spaces), we will, unless you object, use that information to send you a limited number of communications each year relating to similar products and services. We do our best to tailor this information so that it will be useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
 
 We would also like, with our partners, to be able to communicate with you relating to other offers relating to travel, travel services, duty free and airport shopping. We always choose our partners carefully to ensure that you will find those communications of interest. However we recognise that not all of our passengers like to receive this kind of communication and therefore we will not do so unless you have specifically chosen to receive it.
 
