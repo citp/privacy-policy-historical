@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealio.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629032036id_/http%3A//www.dealio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealio.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019041442id_/http%3A//www.dealio.com/privacy.html) for the most accurate reproduction.*
 
 # Dealio - Privacy Policy : Certified by TRUSTe
 
@@ -81,6 +81,3 @@ If you have any questions about this privacy statement, or the privacy practices
 **10\. Notification of Changes.**   
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a notice on our announcements page notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.  
 
-
-  
-Vendio Services Inc. All Rights Reserved 2006 
