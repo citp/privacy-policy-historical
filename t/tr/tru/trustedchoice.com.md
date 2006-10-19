@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedchoice.com privacy policy that was archived on 2006-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060522131515id_/http%3A//www.independentagent.com/eprise/main/CB_Website/Affiliated/NationalAssociation/IIAA/privacy%3FContentPreference%3DNA%26ActiveTab%3DNA%26ActiveState%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedchoice.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019045908id_/http%3A//www.independentagent.com/eprise/main/CB_Website/Affiliated/NationalAssociation/IIAA/privacy%3FContentPreference%3DNA%26ActiveTab%3DNA%26ActiveState%3D0) for the most accurate reproduction.*
 
 # Independent Insurance Agents & Brokers of America
 
