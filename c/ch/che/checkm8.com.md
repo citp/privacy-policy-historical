@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkm8.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617235818id_/http%3A//checkm8.com%3Fsection%3D27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkm8.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019100621id_/http%3A//checkm8.com%3Fsection%3D27) for the most accurate reproduction.*
 
 # CheckM8 - Rich Media and Online Ad Technology
 
@@ -34,9 +34,9 @@ CheckM8, Inc. reserves the right to modify this privacy policy statement at any 
 
 **Testimonials**
 
-"CheckM8 enables our local newspaper sites to offer rich media to their advertisers, with quick turnaround times and simple implementation. Our newspaper sites are using CheckM8's RMM to offer the most popular rich media formats, with more efficiency than what it takes for us to create these internally."
+"We needed to be able to forecast, run and report on ads across multiple media properties and streamline our internal and external workflow processes.  CheckM8 allows us to consolidate our media properties, improve our inventory forecasting and streamline our sales operations through their ad serving solution, rather than having to integrate various systems from multiple vendors." 
 
-**Vikki Neil, Director of Online Marketing for the E.W. Scripps Company**
+**John Lerner, Vice President and General Manager, VNU eMedia**
 
   
 
