@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colourlovers.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614221134id_/http%3A//colourlovers.com/index.cfm%3Fsection%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colourlovers.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019061923id_/http%3A//www.colourlovers.com/index.cfm%3Fsection%3Dprivacy_policy) for the most accurate reproduction.*
 
 # //// COLOURlovers :: loving colours since 1981
 
@@ -55,7 +55,7 @@ from time to time we may make changes to our privacy policy If we make changes, 
 **contacting the web site**   
 if you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact us at: privacy@COLOURlovers.com (333 S. State St. Suite V #232 , Lake Oswego OR 97034) 
 
-[](https://web.archive.org/index.cfm?section=share_love&sendpage=%2Findex%2Ecfm%3Fsection%3Dprivacy%5Fpolicy)
+[](https://web.archive.org/index.cfm?section=share_some_love&sendpage=%2Findex%2Ecfm%3Fsection%3Dprivacy%5Fpolicy)
 
   
 
