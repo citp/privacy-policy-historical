@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allure.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511170452id_/http%3A//www.allure.com/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allure.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019141324id_/http%3A//www.allure.com/services/privacypolicy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines: Allure: Privacy Policy
 
