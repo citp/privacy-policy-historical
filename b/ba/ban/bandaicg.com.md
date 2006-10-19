@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandaicg.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616214510id_/http%3A//www.bandaicg.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandaicg.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019023306id_/http%3A//www.bandaicg.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Bandai Collectible Games - Privacy Policy
 
