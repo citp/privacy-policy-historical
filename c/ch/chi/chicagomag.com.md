@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chicagomag.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616122940id_/http%3A//www.chicagomag.com/ME2/dirmod.asp%3Fsid%3D%26type%3Dgen%26mod%3DCore%2BPages%26gid%3D5A1C7D4C1B8948E59D381122E6169E17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagomag.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019222811id_/http%3A//www.chicagomag.com/ME2/dirmod.asp%3Fsid%3D%26type%3Dgen%26mod%3DCore%2BPages%26gid%3D5A1C7D4C1B8948E59D381122E6169E17) for the most accurate reproduction.*
 
-# Chicago magazine | Privacy Policy
+# Privacy Policy | Chicago magazine
 
 ## ChicagoMag.com Privacy Policy
 
