@@ -1,723 +1,153 @@
-<!--The following is the downloaded HTML source of the backroads.com privacy policy that was archived on 2006-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060321084724id_/http%3A//backroads.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the backroads.com privacy policy that was archived on 2006-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061019204648id_/http%3A//www.backroads.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
-		<title>| Backroads Privacy Policy |</title>
-<link href="/css/b_roads_02.css" rel="stylesheet" media="screen">
-		<meta name="description" content=" Backroads, the premier active travel company, offering fully supported, upscale and distinctive bicycling, hiking, multisport vacations and tours in 105 destinations worldwide.">
-		<meta name="keywords" content="adventure travel, active vacations, bicycling touring, hiking trips, walking trips, multisport vacations, luxury vacations, vacation packages, biking trips, family travel, honeymoons, bicycle touring, europe vacations, south america vacations, asia vacations, africa vacations, tours, worldwide, Singles, Family, Alaska, Arizona, California, Georgia, Hawaii, Idaho, Louisiana, Maine, Massachusetts, Mississippi, Montana, New Mexico, North Carolina, Oregon, South Carolina, Utah, Vermont, Virginia, Washington, Wyoming, Alberta, British Columbia, Nova Scotia, Quebec Argentina, Austria, Belize, Chile, China, Costa Rica, Czech Republic, Dominica, Ecuador, England, France, Guadeloupe, Greece, Indonesia, Ireland, Italy, Nepal, Mexico, Morocco, New Zealand, Norway, Portugal, Scotland, South Africa, Spain, Switzerland, Thailand, Turkey, United States, Canada, Caribbean, Galapagos Islands, Africa, Asia, Europe, South America">
-		<!--Header script starts here-->
-</head><body leftmargin="0" marginheight="0" marginwidth="0" topmargin="0" onload="preloadImages(); " bgcolor="#ffffff" text="#333333" link="#85ad33"><csscriptdict>
-			<script type="text/javascript"><!--
-
-function newImage(arg) {
-	if (document.images) {
-		rslt = new Image();
-		rslt.src = arg;
-		return rslt;
-	}
-}
-userAgent = window.navigator.userAgent;
-browserVers = parseInt(userAgent.charAt(userAgent.indexOf("/")+1),10);
-mustInitImg = true;
-function initImgID() {di = document.images; if (mustInitImg && di) { for (var i=0; i<di.length; i++) { if (!di[i].id) di[i].id=di[i].name; } mustInitImg = false;}}
-function findElement(n,ly) {
-	d = document;
-	if (browserVers < 4)		return d[n];
-	if ((browserVers >= 6) && (d.getElementById)) {initImgID; return(d.getElementById(n))}; 
-	var cd = ly ? ly.document : d;
-	var elem = cd[n];
-	if (!elem) {
-		for (var i=0;i<cd.layers.length;i++) {
-			elem = findElement(n,cd.layers[i]);
-			if (elem) return elem;
-		}
-	}
-	return elem;
-}
-function changeImages() {
-	d = document;
-	if (d.images) {
-		var img;
-		for (var i=0; i<changeImages.arguments.length; i+=2) {
-			img = null;
-			if (d.layers) {img = findElement(changeImages.arguments[i],0);}
-			else {img = d.images[changeImages.arguments[i]];}
-			if (img) {img.src = changeImages.arguments[i+1];}
-		}
-	}
-}
-CSStopExecution=false;
-function CSAction(array) {return CSAction2(CSAct, array);}
-function CSAction2(fct, array) { 
-	var result;
-	for (var i=0;i<array.length;i++) {
-		if(CSStopExecution) return false; 
-		var aa = fct[array[i]];
-		if (aa == null) return false;
-		var ta = new Array;
-		for(var j=1;j<aa.length;j++) {
-			if((aa[j]!=null)&&(typeof(aa[j])=="object")&&(aa[j].length==2)){
-				if(aa[j][0]=="VAR"){ta[j]=CSStateArray[aa[j][1]];}
-				else{if(aa[j][0]=="ACT"){ta[j]=CSAction(new Array(new String(aa[j][1])));}
-				else ta[j]=aa[j];}
-			} else ta[j]=aa[j];
-		}			
-		result=aa[0](ta);
-	}
-	return result;
-}
-CSAct = new Object;
-// ShowOff.action 1.2 - October 2002
-// © Copyright 2001 by Walter Blady
-// All rights reserved
-var SOisNav4 = navigator.appName.indexOf("Netscape") >= 0 && parseInt(navigator.appVersion.charAt(0)) == 4;
-var SOisIE4 = navigator.appVersion.indexOf("MSIE 4") >= 0;
-var SOW3C = document.getElementById ? true : false;
-var SOScope = "", SOStyle = "", SOClose = "", SOPrevBox = "";
-var SOmouseTrapTimer = 0, SOaction, SOvis, SOhid, SOtrapDelay;
-if (parseInt(navigator.appVersion.charAt(0)) >= 4) {
-	if (!SOisNav4) {
-		SOScope = SOW3C ? 'getElementById("' : "all.";
-		SOClose = SOW3C ? '")' : "";
-		SOStyle = ".style";
-	}
-}
-function WBShowOff(action) { 
-	if (SOVersion() && action[3].length > 0) {
-		SOaction = action;
-		SOtrapDelay = action[6];
-		clearTimeout(SOmouseTrapTimer);
-		if (action[5] == 1 && action[4].length > 0) {
-			var boxDivObj = SOGetDivObj(action[4]);
-			if (boxDivObj.onmouseover == null) {
-				boxDivObj.onmouseover = SOMouseTrapTimerQuit;
-				boxDivObj.onmouseout = SOMouseTrap;
-			}
-		}
-		var boxObj = SOGetObject(action[3]);
-		if ( action[5] == 1) {
-			var boxDivObj = SOGetDivObj(action[3]);
-			if (boxDivObj.onmouseover == null) {
-				boxDivObj.onmouseover = SOMouseTrapTimerQuit;
-				boxDivObj.onmouseout = SOMouseTrap;
-			}
-		}
-		SOvis = (SOW3C || SOisIE4) ? "visible" : "show";
-		SOhid = (SOW3C || SOisIE4) ? "hidden" : "hide";
-		if ((action[1] == 1 || action[1] == 2) && action[2].length > 0) {
-			var obj = SOGetObject(action[2]);
-			obj.visibility = SOhid;
-		}
-		if (SOPrevBox != "") {
-			SOPrevBox.visibility = SOhid;
-		}
-		boxObj.visibility = SOvis;
-		SOPrevBox = boxObj;
-	}
-	else {
-		if (SOPrevBox) {
-			SOMouseTrap()
-		}
-	}
-	return;
-}
-function SOMouseTrap() {
-	SOmouseTrapTimer = setTimeout("SOMouseTrapp()", SOtrapDelay);
-	return;
-}
-function SOMouseTrapp() {
-	var showOne = false;
-	SOPrevBox.visibility = SOhid;
-	if (SOaction[1] == 2 && SOaction[2].length > 0) {
-		var boxObj = SOGetObject(SOaction[2]);
-		boxObj.visibility = SOvis;
-	}	
-	return;
-}
-function SOMouseTrapTimerQuit() {
-	clearTimeout(SOmouseTrapTimer);
-	return;
-}
-function SOGetObject(obj) {
-	var params = eval("document." + SOScope + obj + SOClose + SOStyle);
-	return params;
-}
-function SOGetDivObj(obj) {
-	var params = eval("document." + SOScope + obj + SOClose);
-	return params;
-}
-function SOVersion() {
-	return (navigator.appName.indexOf("Netscape") >= 0 && parseInt(navigator.appVersion.charAt(0)) >= 4)
-          || (navigator.appName.indexOf("Explorer") >= 0 && parseInt(navigator.appVersion.charAt(0)) >= 4);
-}
-
-// --></script>
-		</csscriptdict>
-		<csactiondict>
-			<script type="text/javascript"><!--
-var preloadFlag = false;
-function preloadImages() {
-	if (document.images) {
-		over_Biking = newImage(/*URL*/'/images/2003/01_on.gif');
-		over_Walking = newImage(/*URL*/'/images/2003/02_on.gif');
-		over_Multisport = newImage(/*URL*/'/images/2003/03_on.gif');
-		over_Classic_Trips = newImage(/*URL*/'/images/2003/04_on.gif');
-		over_Easy_Explorations = newImage(/*URL*/'/images/2003/05_on.gif');
-		over_Epic_Journeys = newImage(/*URL*/'/images/2003/06_on.gif');
-		over_Family_Trips = newImage(/*URL*/'/images/2003/07_on.gif');
-		over_Solo_Trips = newImage(/*URL*/'/images/2003/08_on.gif');
-		over_Deluxe_Camping = newImage(/*URL*/'/images/2003/09_on.gif');
-		over_Private_Trips = newImage(/*URL*/'/images/2003/10_on.gif');
-		over_Student_Trips = newImage(/*URL*/'/images/2003/11_on.gif');
-		over_Europe_France = newImage(/*URL*/'/images/2003/dest_01_on.gif');
-		over_Europe_Italy = newImage(/*URL*/'/images/2003/dest_02_on.gif');
-		over_Europe_Medi = newImage(/*URL*/'/images/2003/dest_03_on.gif');
-		over_Asia_Pacific = newImage(/*URL*/'/images/2003/dest_04_on.gif');
-		over_Latin_America = newImage(/*URL*/'/images/2003/dest_05_on.gif');
-		over_North_America_West = newImage(/*URL*/'/images/2003/dest_06_on.gif');
-		over_North_America_Rockies = newImage(/*URL*/'/images/2003/dest_07_on.gif');
-		over_North_America_East_South = newImage(/*URL*/'/images/2003/dest_08_on.gif');
-		preloadFlag = true;
-	}
-}
-CSAct[/*CMP*/ 'BB6A5F4C4'] = new Array(WBShowOff,0,/*CMP*/ '',/*CMP*/ 'trips',/*CMP*/ '',true,100);
-CSAct[/*CMP*/ 'BB6A6C5E5'] = new Array(WBShowOff,0,/*CMP*/ '',/*CMP*/ 'destination',/*CMP*/ '',true,100);
-
-// --></script>
-		</csactiondict>
-		<csactions>
-			<csaction name="BB6A5F4C4" class="Show Off" type="onevent" val0="0" val1="" val2="trips" val3="" val4="true" val5="100"></csaction>
-			<csaction name="BB6A6C5E5" class="Show Off" type="onevent" val0="0" val1="" val2="destination" val3="" val4="true" val5="100"></csaction>
-		</csactions>
-		<!--Header script ends here-->
-	
-
-		
-		<div align="left">
-			<a name="TOP"></a>
-			<table width="640" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr valign="top">
-					<td colspan="3" valign="top" width="640">
-		<link href="/css/b_roads_02.css" rel="stylesheet" media="screen">
-		<csscriptdict>
-		
-		
-
-			<script language="Javascript" type="text/javascript"><!--
-
-function newImage(arg) {
-	if (document.images) {
-		rslt = new Image();
-		rslt.src = arg;
-		return rslt;
-	}
-}
-userAgent = window.navigator.userAgent;
-browserVers = parseInt(userAgent.charAt(userAgent.indexOf("/")+1),10);
-mustInitImg = true;
-function initImgID() {var di = document.images; if (mustInitImg && di) { for (var i=0; i<di.length; i++) { if (!di[i].id) di[i].id=di[i].name; } mustInitImg = false;}}
-function findElement(n,ly) {
-	var d = document;
-	if (browserVers < 4)		return d[n];
-	if ((browserVers >= 6) && (d.getElementById)) {initImgID; return(d.getElementById(n))}; 
-	var cd = ly ? ly.document : d;
-	var elem = cd[n];
-	if (!elem) {
-		for (var i=0;i<cd.layers.length;i++) {
-			elem = findElement(n,cd.layers[i]);
-			if (elem) return elem;
-		}
-	}
-	return elem;
-}
-function changeImagesArray(array) {
-	if (preloadFlag == true) {
-		var d = document; var img;
-		for (i=0;i<array.length;i+=2) {
-			img = null; var n = array[i];
-			if (d.images) {
-				if (d.layers) {img = findElement(n,0);}
-				else {img = d.images[n];}
-			}
-			if (!img && d.getElementById) {img = d.getElementById(n);}
-			if (!img && d.getElementsByName) {
-				var elms = d.getElementsByName(n);
-				if (elms) {
-					for (j=0;j<elms.length;j++) {
-						if (elms[j].src) {img = elms[j]; break;}
-					}
-				}
-			}
-			if (img) {img.src = array[i+1];}
-		}
-	}
-}
-function changeImages() {
-	changeImagesArray(changeImages.arguments);
-}
-CSStopExecution=false;
-function CSAction(array) {return CSAction2(CSAct, array);}
-function CSAction2(fct, array) { 
-	var result;
-	for (var i=0;i<array.length;i++) {
-		if(CSStopExecution) return false; 
-		var aa = fct[array[i]];
-		if (aa == null) return false;
-		var ta = new Array;
-		for(var j=1;j<aa.length;j++) {
-			if((aa[j]!=null)&&(typeof(aa[j])=="object")&&(aa[j].length==2)){
-				if(aa[j][0]=="VAR"){ta[j]=CSStateArray[aa[j][1]];}
-				else{if(aa[j][0]=="ACT"){ta[j]=CSAction(new Array(new String(aa[j][1])));}
-				else ta[j]=aa[j];}
-			} else ta[j]=aa[j];
-		}			
-		result=aa[0](ta);
-	}
-	return result;
-}
-CSAct = new Object;
-// ShowOff.action 1.3 - September 2003
-// © Copyright 2001 by Walter Blady
-// All rights reserved
-var SOisNav4 = navigator.appName.indexOf("Netscape") >= 0 && parseInt(navigator.appVersion.charAt(0)) == 4;
-var SOisIE4 = navigator.appVersion.indexOf("MSIE 4") >= 0;
-var SOW3C = document.getElementById ? true : false;
-var SOScope = "", SOStyle = "", SOClose = "", SOaction, SOvis, SOhid;
-var SOtimerArray = new Array(), SOboxArray = new Array(), SOprevArray = new Array(), SOtrapArray = new Array();
-var SOstartBoxArray = new Array(), SOmenuBoxArray = new Array(), SOboxDivArray = new Array();
-var SOactionArray = new Array();
-if (parseInt(navigator.appVersion.charAt(0)) >= 4) {
-	if (!SOisNav4) {
-		SOScope = SOW3C ? 'getElementById("' : "all.";
-		SOClose = SOW3C ? '")' : "";
-		SOStyle = ".style";
-	}
-}
-function WBShowOff(action) { 
-	if (SOVersion() && action[3].length > 0) {
-		SOactionArray[action[7]] = action;
-		SOtrapArray[action[7]] = action[6];
-		 if (SOtimerArray[action[7]]) clearTimeout(SOtimerArray[action[7]]);
-		if (action[5] == 1 && action[4].length > 0) {
-			SOmenuBoxArray[action[7]] = SOGetDivObj(action[4]);
-			if (SOmenuBoxArray[action[7]].onmouseover == null) {
-				SOmenuBoxArray[action[7]].onmouseover = eval("SOMouseTrapTimerQuit" + action[7]);
-				SOmenuBoxArray[action[7]].onmouseout = eval("SOMouseTrap" + action[7]);
-			}
-		}
-		SOboxArray[action[7]] = SOGetObject(action[3]);
-		if (action[5] == 1) {
-			SOboxDivArray[action[7]] = SOGetDivObj(action[3]);
-			if (SOboxDivArray[action[7]].onmouseover == null) {
-				SOboxDivArray[action[7]].onmouseover = eval("SOMouseTrapTimerQuit" + action[7]);
-				SOboxDivArray[action[7]].onmouseout = eval("SOMouseTrap" + action[7]);
-			}
-		}
-		SOvis = (SOW3C || SOisIE4) ? "visible" : "show";
-		SOhid = (SOW3C || SOisIE4) ? "hidden" : "hide";
-		if ((action[1] == 1 || action[1] == 2) && action[2].length > 0) {
-			SOstartBoxArray[action[7]] = SOGetObject(action[2]);
-			SOstartBoxArray[action[7]].visibility = SOhid;
-		}
-		if (SOprevArray[action[7]]) {
-			SOprevArray[action[7]].visibility = SOhid;
-		}
-		SOboxArray[action[7]].visibility = SOvis;
-		SOprevArray[action[7]] = SOboxArray[action[7]];
-	}
-	else {
-		if (SOprevArray[action[7]]) {
-			SOMouseTrap()
-		}
-	}
-	return;
-}
-function SOMouseTrapTimerQuit0() {
-	if (SOtimerArray[0]) clearTimeout(SOtimerArray[0]);
-	return;
-}
-function SOMouseTrap0() {
-	SOtimerArray[0] = setTimeout("SOMouseTrapp0()", SOtrapArray[0]);
-	return;
-}
-function SOMouseTrapp0() {
-	SOprevArray[0].visibility = SOhid;
-	if (SOactionArray[0][1] == 2 && SOactionArray[0][2].length > 0) {
-		SOstartBoxArray[0] = SOGetObject(SOactionArray[0][2]);
-		SOstartBoxArray[0].visibility = SOvis;
-	}	
-	return;
-}
-function SOMouseTrapTimerQuit1() {
-	if (SOtimerArray[1]) clearTimeout(SOtimerArray[1]);
-	return;
-}
-function SOMouseTrap1() {
-	SOtimerArray[1] = setTimeout("SOMouseTrapp1()", SOtrapArray[1]);
-	return;
-}
-function SOMouseTrapp1() {
-	SOprevArray[1].visibility = SOhid;
-	if (SOactionArray[1][1] == 2 && SOactionArray[1][2].length > 0) {
-		SOstartBoxArray[0] = SOGetObject(SOactionArray[1][2]);
-		SOstartBoxArray[1].visibility = SOvis;
-	}	
-	return;
-}
-function SOMouseTrapTimerQuit2() {
-	if (SOtimerArray[2]) clearTimeout(SOtimerArray[2]);
-	return;
-}
-function SOMouseTrap2() {
-	SOtimerArray[2] = setTimeout("SOMouseTrapp2()", SOtrapArray[2]);
-	return;
-}
-function SOMouseTrapp2() {
-	SOprevArray[2].visibility = SOhid;
-	if (SOactionArray[2][1] == 2 && SOactionArray[2][2].length > 0) {
-		SOstartBoxArray[2] = SOGetObject(SOactionArray[2][2]);
-		SOstartBoxArray[2].visibility = SOvis;
-	}	
-	return;
-}
-function SOMouseTrapTimerQuit3() {
-	if (SOtimerArray[3]) clearTimeout(SOtimerArray[3]);
-	return;
-}
-function SOMouseTrap3() {
-	SOtimerArray[3] = setTimeout("SOMouseTrapp3()", SOtrapArray[3]);
-	return;
-}
-function SOMouseTrapp3() {
-	SOprevArray[3].visibility = SOhid;
-	if (SOactionArray[3][1] == 2 && SOactionArray[3][2].length > 0) {
-		SOstartBoxArray[3] = SOGetObject(SOactionArray[3][2]);
-		SOstartBoxArray[3].visibility = SOvis;
-	}	
-	return;
-}
-function SOGetObject(obj) {
-	var params = eval("document." + SOScope + obj + SOClose + SOStyle);
-	return params;
-}
-function SOGetDivObj(obj) {
-	var params = eval("document." + SOScope + obj + SOClose);
-	return params;
-}
-function SOVersion() {
-	return (navigator.appName.indexOf("Netscape") >= 0 && parseInt(navigator.appVersion.charAt(0)) >= 4)
-          || (navigator.appName.indexOf("Explorer") >= 0 && parseInt(navigator.appVersion.charAt(0)) >= 4);
-}
-
-// --></script>
-		</csscriptdict>
-<csactiondict>
-			<script type="text/javascript"><!--
-var preloadFlag = false;
-function preloadImages() {
-	if (document.images) {
-		over_Biking = newImage('/images/2003/01_on.gif');
-		over_Walking = newImage('/images/2003/02_on.gif');
-		over_Multisport = newImage('/images/2003/03_on.gif');
-		over_Classic_Trips = newImage('/images/2003/04_on.gif');
-		over_Easy_Explorations = newImage('/images/2003/05_on.gif');
-		over_Epic_Journeys = newImage('/images/2003/06_on.gif');
-		over_Family_Trips = newImage('/images/2003/07_on.gif');
-		over_Solo_Trips = newImage('/images/2003/08_on.gif');
-		over_Deluxe_Camping = newImage('/images/2003/09_on.gif');
-		over_Private_Trips = newImage('/images/2003/10_on.gif');
-		over_Student_Trips = newImage('/images/2003/11_on.gif');
-		over_Europe_France = newImage('/images/2003/dest_01_on.gif');
-		over_Europe_Italy = newImage('/images/2003/dest_02_on.gif');
-		over_Europe_Medi = newImage('/images/2003/dest_03_on.gif');
-		over_Asia_Pacific = newImage('/images/2003/dest_04_on.gif');
-		over_Latin_America = newImage('/images/2003/dest_05_on.gif');
-		over_North_America_West = newImage('/images/2003/dest_06_on.gif');
-		over_North_America_Rockies = newImage('/images/2003/dest_07_on.gif');
-		over_North_America_East_South = newImage('/images/2003/dest_08_on.gif');
-		pre__EmptyReference__ = newImage('(EmptyReference!)');
-		preloadFlag = true;
-	}
-}
-CSAct[/*CMP*/ 'BE1EB64E5'] = new Array(WBShowOff,0,/*CMP*/ '',/*CMP*/ 'destination',/*CMP*/ '',true,200,0);
-CSAct[/*CMP*/ 'BE1EB6264'] = new Array(WBShowOff,0,/*CMP*/ '',/*CMP*/ 'trips',/*CMP*/ 'trips',true,200,0);
-
-// --></script>
-		</csactiondict>
-<style>
-				
-					a {text-decoration: none;	color: #000000;  }
-		a:link, a:vlink {text-decoration: none;	color: #000000;}
-	.links {color: #black}	
-		.menu   { color: #000000; font-size: 10pt; font-family: "trebuchet ms", san-serif; font-weight: bold; font-stretch: extra-condensed; text-decoration: none }
-		.divider  { color: #277cb5; font-weight: bolder; font-stretch: ultra-expanded }
-</style>
-<csactions>
-	<csaction name="BE1EB64E5" class="Show Off" type="onevent" val0="0" val1="" val2="destination" val3="" val4="true" val5="200" val6="0"></csaction>
-	<csaction name="BE1EB6264" class="Show Off" type="onevent" val0="0" val1="" val2="trips" val3="trips" val4="true" val5="200" val6="0"></csaction>
-</csactions>
-<script type="text/javascript"><!--
-	if (document.images) {
-		img1 = new Image
-		img2 = new Image
-		img3 = new Image
-		img4 = new Image
-		img5 = new Image
-		img6 = new Image
-		img7 = new Image
-		img8 = new Image
-		img9 = new Image
-		img10 = new Image
-		imgNav = new Image
-
-		img1.src = "/images/homepage/nav_menu_biking.gif"
-		img2.src = "/images/homepage/nav_menu_walking.gif"
-		img3.src = "/images/homepage/nav_menu_multi.gif"
-		img4.src = "/images/homepage/nav_menu_family.gif"
-		img5.src = "/images/homepage/nav_menu_camp.gif"
-		img6.src = "/images/homepage/nav_menu_classic.gif"
-		img7.src = "/images/homepage/nav_menu_easy.gif"
-		img8.src = "/images/homepage/nav_menu_epic.gif"
-		img9.src = "/images/homepage/nav_menu_private.gif"
-		img10.src = "/images/homepage/nav_menu_solo.gif"
-		imgNav.src = "/images/homepage/nav_menu.gif"
-	}
-	else {
-		img1 = ""
-		img2 = ""
-		img3 = ""
-		img4 = ""
-		img5 = ""
-		img6 = ""
-		img7 = ""
-		img8 = ""
-		img9 = ""
-		img10 = ""
-		imgNav = ""
-
-		document.roll = ""
-	}
-//-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Backroads ::&nbsp;Privacy&nbsp;Policy</title>
+<link href="/_css/general.css" rel="stylesheet" type="text/css">
+<link href="/_css/generic.css" rel="stylesheet" type="text/css">
+		<style type="text/css" media="screen"><!--.callout                { background-repeat: repeat-y; text-align: center; margin-left: 35px; padding-left: 10px; width: 190px; float: right }--></style>
+		<script language="JavaScript" type="text/JavaScript" src="/_includes/menus.js"></script>
+<script language="JavaScript" type="text/JavaScript" src="/_includes/tabs.js"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
-	
+<script type="text/javascript">
+_uacct = "UA-231537-1";
+urchinTracker();
+</script>
+</head>
+
+
+<body onload="subnavNews_on()" id="bdGen">
+
+<div id="outerWrapper" class="AF">
+
+	<div id="header">
+
+<h1><a href="/"><span>Backroads</span></a></h1>
 
 	
-		<table width="640" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr height="127">
-				<td valign="top" height="127"><img src="/images/homepage/header_650.jpg" height="127" width="650" usemap="#headerbe1eab22" border="0"><map name="headerbe1eab22"><area shape="rect" coords="541,44,612,91" href="http://www.backroads.com/search/advanced_search.html" alt=""><area shape="rect" coords="707,44,792,91" href="http://www.backroads.com/search.html" alt="Advanced Search"><area onmouseover="CSAction(new Array(/*CMP*/'BE1EB64E5'));return true;" shape="rect" coords="397,44,521,91" alt="" csover="BE1EB64E5"><area onmouseover="CSAction(new Array(/*CMP*/'BE1EB6264'));changeImages('searchButton','(EmptyReference!)');return true" onmouseout="changeImages('searchButton','/images/2003/search.gif');return true" shape="rect" coords="292,44,370,91" alt="" csover="BE1EB6264"><area shape="rect" coords="10,20,241,91" href="http://www.backroads.com" alt="Backroads"></map></td>
-			</tr>
-			<tr align="left" valign="middle" height="24">
-				<td align="left" valign="middle" height="24"><a href="/search/advanced_search.html"><img src="/images/top_nav/spacer.gif" alt="" height="10" width="12" border="0"></a><span class="links"><span class="menu"><a href="/catalog/" style="color: black" ="http:="" www.backroads.com="" catalog.html"="">REQUEST A CATALOG</a>  </span></span><font color="#277cb5"><b>• </b></font> <span class="links"><span class="menu"><a href="/why/" style="color: black" "http:="" www.backroads.com="" catalog.html"="">WHY BACKROADS</a></span></span></td>
-			</tr>
-		</tbody></table>
-		<div id="trips" style=" color: #333; font-size: medium; font-family: serif; background-color: #fff; visibility: hidden; display: block; position: absolute; z-index: 1000; top: 0; left: 313px; width: 115px; height: 356px">
-			<table width="115" border="0" cellspacing="0" cellpadding="0" bgcolor="white" height="356">
-				<tbody><tr height="105">
-					<td valign="top" width="115" height="105"><img src="/images/2003/trips_on.gif" alt="" height="103" width="115" border="0"></td>
-				</tr>
-				<tr height="16">
-<td valign="top" width="115" height="16">
-<a onmouseover="changeImages( /*CMP*/'Biking',/*URL*/'/images/2003/01_on.gif');window.status='Biking';return true" onmouseout="changeImages( /*CMP*/'Biking',/*URL*/'/images/2003/01_off.gif');window.status='';return true" href="/cgi-bin/tripIndex.py?action=Bike"><img src="/images/2003/01_off.gif" alt="Biking" name="Biking" height="16" width="115" border="0"></a></td>
-				</tr>
-				<tr height="19">
-<td valign="top" width="115" height="19"><a onmouseover="changeImages( /*CMP*/'Walking',/*URL*/'/images/2003/02_on.gif');window.status='Walking';return true" onmouseout="changeImages( /*CMP*/'Walking',/*URL*/'/images/2003/02_off.gif');window.status='';return true" href="/cgi-bin/tripIndex.py?action=Walk"><img src="/images/2003/02_off.gif" alt="Walking" name="Walking" height="19" width="115" border="0"></a></td>
-				</tr>
-				<tr height="32">
-<td valign="top" width="115" height="32"><a onmouseover="changeImages( /*CMP*/'Multisport',/*URL*/'/images/2003/03_on.gif');window.status='Multisport';return true" onmouseout="changeImages( /*CMP*/'Multisport',/*URL*/'/images/2003/03_off.gif');window.status='';return true" href="/cgi-bin/tripIndex.py?action=Multi"><img src="/images/2003/03_off.gif" alt="Multisport" name="Multisport" height="32" width="115" border="0"></a></td>
-				</tr>
-				<tr height="17">
-<td valign="top" width="115" height="17"><a onmouseover="changeImages( /*CMP*/'Classic_Trips',/*URL*/'/images/2003/04_on.gif');window.status='Classic Trips';return true" onmouseout="changeImages( /*CMP*/'Classic_Trips',/*URL*/'/images/2003/04_off.gif');window.status='';return true" href="/special/classic.html"><img src="/images/2003/04_off.gif" alt="Classic Trip" name="Classic_Trips" height="17" width="115" border="0"></a></td>
-				</tr>
-				<tr height="20">
-<td valign="top" width="115" height="20"><a onmouseover="window.status='Easy Explorations';changeImages( /*CMP*/'Easy_Explorations',/*URL*/'/images/2003/05_on.gif');return true" onmouseout="window.status='';changeImages( /*CMP*/'Easy_Explorations',/*URL*/'/images/2003/05_off.gif');return true" href="/special/easyexplorations.html"><img src="/images/2003/05_off.gif" alt="Easy Explorations" name="Easy_Explorations" height="20" width="115" border="0"></a></td>
-				</tr>
-				<tr height="31">
-<td valign="top" width="115" height="31"><a onmouseover="changeImages( /*CMP*/'Epic_Journeys',/*URL*/'/images/2003/06_on.gif');window.status='Epic Journeys';return true" onmouseout="changeImages( /*CMP*/'Epic_Journeys',/*URL*/'/images/2003/06_off.gif');window.status='';return true" href="/special/epicjourneys.html"><img src="/images/2003/06_off.gif" alt="Epic Journeys" name="Epic_Journeys" height="31" width="115" border="0"></a></td>
-				</tr>
-				<tr height="18">
-<td valign="top" width="115" height="18"><a onmouseover="window.status='Family Trips';changeImages( /*CMP*/'Family_Trips',/*URL*/'/images/2003/07_on.gif');return true" onmouseout="window.status='';changeImages( /*CMP*/'Family_Trips',/*URL*/'/images/2003/07_off.gif');return true" href="/special/family.html"><img src="/images/2003/07_off.gif" alt="Family Trips" name="Family_Trips" height="18" width="115" border="0"></a></td>
-				</tr>
-				<tr height="19">
-<td valign="top" width="115" height="19"><a onmouseover="window.status='Solo Trips';changeImages( /*CMP*/'Solo_Trips','/images/2003/08_on.gif','/images/2003/Solo_Trips',/*URL*/'08_on.gif');return true" onmouseout="changeImages( /*CMP*/'Solo_Trips',/*URL*/'/images/2003/08_off.gif');window.status='';return true" href="/special/solo.html"><img src="/images/2003/08_off.gif" alt="Solo Trips" name="Solo_Trips" height="19" width="115" border="0"></a></td>
-				</tr>
-				<tr height="21">
-<td valign="top" width="115" height="21"><a onmouseover="window.status='Deluxe Camping';changeImages( /*CMP*/'Deluxe_Camping',/*URL*/'/images/2003/09_on.gif');return true" onmouseout="window.status='';changeImages( /*CMP*/'Deluxe_Camping',/*URL*/'/images/2003/09_off.gif');return true" href="/special/camping.html"><img src="/images/2003/09_off.gif" alt="Deluxe Camping" name="Deluxe_Camping" height="21" width="115" border="0"></a></td>
-				</tr>
-				<tr height="17">
-<td valign="top" width="115" height="17"><a onmouseover="window.status='Private Trips';changeImages( /*CMP*/'Private_Trips',/*URL*/'/images/2003/10_on.gif');return true" onmouseout="window.status='';changeImages( /*CMP*/'Private_Trips',/*URL*/'/images/2003/10_off.gif');return true" href="/special/private.html"><img src="/images/2003/10_off.gif" alt="Private Trips" name="Private_Trips" height="17" width="115" border="0"></a></td>
-				</tr>
-				<tr height="41">
-<td valign="top" width="115" height="41"><a onmouseover="window.status='Student Trips';changeImages( /*CMP*/'Student_Trips',/*URL*/'/images/2003/11_on.gif');return true" onmouseout="window.status='';changeImages( /*CMP*/'Student_Trips',/*URL*/'/images/2003/11_off.gif');return true" href="http://www.adventurescrosscountry.com/" target="_blank"><img src="/images/2003/11_off.gif" alt="Student Trips" name="Student_Trips" height="41" width="115" border="0"></a></td>
-				</tr>
-			</tbody></table>
+		<div id="search">
+		<form name="FormName" action="/cgi-bin/htsearch" method="post">
+			<p><a title="Advanced Search" href="/search/advanced_search.html">Advanced Search</a> OR <input type="text" value="Search by Keyword" name="words" class="searchBox" onfocus="this.value='';"><input type="image" src="/_images/header/arwSearch.gif" onclick="submit()" class="submit" alt="Backroads"></p></form>
 		</div>
-		<div id="destination" style=" color: #333; font-size: medium; font-family: serif; background-color: #fff; visibility: hidden; display: block; position: absolute; z-index: 1000; top: 0; left: 419px; width: 165px; height: 294px">
-			<table width="164" border="0" cellspacing="0" cellpadding="0" bgcolor="white" height="294">
-				<tbody><tr height="103">
-					<td valign="top" width="164" height="103"><img src="/images/2003/dest_on.gif" alt="Destinations" height="100" width="164" border="0"></td>
-				</tr>
-				<tr height="19">
-					<td valign="top" width="164" height="19"><a onmouseover="changeImages( /*CMP*/'Europe_France',/*URL*/'/images/2003/dest_01_on.gif');window.status='Europe France';return true" onmouseout="changeImages( /*CMP*/'Europe_France',/*URL*/'/images/2003/dest_01_off.gif');window.status='';return true" href="/destinations/france.html"><img src="/images/2003/dest_01_off.gif" alt="" name="Europe_France" height="19" width="164" border="0"></a></td>
-				</tr>
-				<tr height="19">
-					<td valign="top" width="164" height="19"><a onmouseover="changeImages( /*CMP*/'Europe_Italy',/*URL*/'/images/2003/dest_02_on.gif');window.status='Europe Italy';return true" onmouseout="changeImages( /*CMP*/'Europe_Italy',/*URL*/'/images/2003/dest_02_off.gif');window.status='';return true" href="/destinations/italy.html"><img src="/images/2003/dest_02_off.gif" alt="" name="Europe_Italy" height="19" width="164" border="0"></a></td>
-				</tr>
-				<tr height="30">
-					<td valign="top" width="164" height="30"><a onmouseover="changeImages( /*CMP*/'Europe_Medi',/*URL*/'/images/2003/dest_03_on.gif');window.status='Europe &amp; the Mediterranean';return true" onmouseout="changeImages( /*CMP*/'Europe_Medi',/*URL*/'/images/2003/dest_03_off.gif');window.status='';return true" href="/destinations/em.html"><img src="/images/2003/dest_03_off.gif" alt="" name="Europe_Medi" height="30" width="164" border="0"></a></td>
-				</tr>
-				<tr height="19">
-					<td valign="top" width="164" height="19"><a onmouseover="changeImages( /*CMP*/'Asia_Pacific',/*URL*/'/images/2003/dest_04_on.gif');window.status='Asia Pacific';return true" onmouseout="changeImages( /*CMP*/'Asia_Pacific',/*URL*/'/images/2003/dest_04_off.gif');window.status='';return true" href="/destinations/ap.html"><img src="/images/2003/dest_04_off.gif" alt="" name="Asia_Pacific" height="19" width="164" border="0"></a></td>
-				</tr>
-				<tr height="26">
-					<td valign="top" width="164" height="26"><a onmouseover="changeImages( /*CMP*/'Latin_America',/*URL*/'/images/2003/dest_05_on.gif');window.status='Latin America';return true" onmouseout="changeImages( /*CMP*/'Latin_America',/*URL*/'/images/2003/dest_05_off.gif');window.status='';return true" href="/destinations/la.html"><img src="/images/2003/dest_05_off.gif" alt="" name="Latin_America" height="26" width="164" border="0"></a></td>
-				</tr>
-				<tr height="23">
-					<td valign="top" width="164" height="23"><a onmouseover="changeImages( /*CMP*/'North_America_West',/*URL*/'/images/2003/dest_06_on.gif');window.status='North America West';return true" onmouseout="changeImages( /*CMP*/'North_America_West',/*URL*/'/images/2003/dest_06_off.gif');window.status='';return true" href="/destinations/naw.html"><img src="/images/2003/dest_06_off.gif" alt="" name="North_America_West" height="23" width="164" border="0"></a></td>
-				</tr>
-				<tr height="18">
-					<td valign="top" width="164" height="18"><a onmouseover="changeImages( /*CMP*/'North_America_Rockies',/*URL*/'/images/2003/dest_07_on.gif');window.status='North America Rockies';return true" onmouseout="changeImages( /*CMP*/'North_America_Rockies',/*URL*/'/images/2003/dest_07_off.gif');window.status='';return true" href="/destinations/nar.html"><img src="/images/2003/dest_07_off.gif" alt="" name="North_America_Rockies" height="18" width="164" border="0"></a></td>
-				</tr>
-				<tr height="37">
-					<td valign="top" width="164" height="37"><a onmouseover="changeImages( /*CMP*/'North_America_East_South',/*URL*/'/images/2003/dest_08_on.gif');window.status='North America East &amp; South';return true" onmouseout="changeImages( /*CMP*/'North_America_East_South',/*URL*/'/images/2003/dest_08_off.gif');window.status='';return true" href="/destinations/nae.html"><img src="/images/2003/dest_08_off.gif" alt="" name="North_America_East_South" height="37" width="164" border="0"></a></td>
-				</tr>
-			</tbody></table>
-		</div>
-		<p><map id="ID" name="back_top2bb6a6dd3"></map><map id="ID" name="back_bottombb6a6e37"><area shape="rect" coords="554,4,596,17" href="/new/" alt="News"><area shape="rect" coords="713,4,756,17" href="/media/" alt="Media Center"><area shape="rect" coords="669,4,708,17" href="/cgi-bin/jobs.py" alt="Careers"><area shape="rect" coords="600,4,661,17" href="/travel_agent/travelagentsonly.html" alt="Travel Agents"><area shape="rect" coords="491,4,550,17" href="/best/" alt="BEST Club"><area shape="rect" coords="425,4,484,17" href="/partners/" alt="Tips and Gear"><area shape="rect" coords="351,4,412,17" href="/virtually/" alt="Virtually Backroads"><area shape="rect" coords="290,4,339,17" href="/win/" alt="Win A Trip"><area shape="rect" coords="211,4,276,17" href="/my/" alt="My Backroads"><area shape="rect" coords="104,4,203,17" href="/first_active/" alt="Your First Active Trip"><area shape="rect" coords="9,4,90,17" href="/newsletter/" alt="Email Newsletter"></map>
-	<map name="home_imageStatbb8346ae"><area shape="rect" coords="758,142,802,157" href="/special/solo.html" alt="Solo"><area shape="rect" coords="675,143,746,158" href="/special/private.html" alt="Private"><area shape="rect" coords="610,143,666,158" href="/special/epicjourneys.html" alt="Epic"><area shape="rect" coords="549,143,604,158" href="/special/easyexplorations.html" alt="Easy"><area shape="rect" coords="472,143,540,158" href="/special/classic.html" alt="Classic"><area shape="rect" coords="370,143,455,158" href="/special/camping.html" alt="Camping"><area shape="rect" coords="291,143,359,158" href="/special/family.html" alt="Family"></map></p><!--Header ends here-->
-					</td>
-				</tr>
-				<tr valign="top">
-					<td align="center" valign="top" width="174">
-						<table width="164" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td align="center" valign="top" width="164">
-									<table width="164" border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td align="right" valign="top" width="164"><br>
-												<a href="/search/"><img src="/images/2003/reserve.gif" alt="" border="0"></a><br>
-												<br>
-												<br>
-											</td>
-										</tr>
-									</tbody></table>
-									<table width="164" border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td>
-												<div align="right">
-													<!--Side Nav Elements Begin Here
-  --><a href="privacy.html">Backroads Privacy Policy</a><br>
-													<br>
-													<a href="adventurecollection.html">Adventure Collection</a><br>
-													<br>
-													<a href="photos.html">Our Photography</a><br>
-												</div>
-											</td>
-										</tr>
-									</tbody></table>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-					<td valign="top" bgcolor="#669933" width="1"></td>
-					<td valign="top" width="465">
-						<table width="465" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td valign="top" width="5"><img src="../original%20files/about/topNav/jes/images/top_nav/pixelClear.gif" alt="" width="5" height="1" border="0"></td>
-								<td valign="top" width="460"><br>
-									<!--Content Begins Here
---><img src="/images/about/privacy.gif" border="0" alt="Backroads Privacy Policy "><br>
-									<br>
-									<br>
-									Our relationship with you is very important to us. We are sensitive to protecting the private information that you provide to us. We also want you to have the opportunity to receive interesting and useful information about Backroads and about related products and services. Here are details on how we use the information you provide us:
-									<ol>
-										<li><b>Name, address, contact, survey and billing information</b><br>
-											Backroads occasionally shares its mailing list and voluntary survey response information (see below) with companies that offer products or services we think you may be interested in.<br>
-											Backroads does not share telephone numbers or e-mail addresses with other companies or organizations.<br>
-											Backroads does not share your billing information with any other companies or organizations except to process your credit card for your Backroads vacation payment.<br>
-											On our catalog request form, you may check a box if you do not wish to have your name, address and survey responses shared with other companies at any time.<br>
-											<br>
-										</li><li><b>Voluntary Surveys </b><br>
-											We periodically survey our guests and catalog requesters for their vacation interests and related travel patterns. We encourage you to complete these surveys because: a) they provide us with information that helps us improve the types of vacations we offer; and b) they help us direct specific Backroads messages to you that you may find most interesting. Your participation in these surveys is always voluntary.<br>
-											<br>
-										</li><li><b>Web Site Use and Navigation Information</b><br>
-											Each time a user visits our Web site, certain use and navigation information is collected by our servers. This information is aggregate and anonymous. It gives us information such as the number, frequency and duration of visits to each Web page which we use to improve the content and navigation features of our Web site. We may make changes to this policy periodically, which we will post here.
-									</li></ol>
-									<p><b>If you have any questions, comments or concerns about our Privacy Policy, you may contact our <a href="mailto:backtalk@backroads.com">Marketing department</a>.</b></p>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr valign="top">
-					<td colspan="3" valign="top" width="640">
-<style type="text/css" media="screen"><!--
-a:visited { color: #3366CC }
-a:link { color: #690 }
-a:hover { color: #690 }
-a:active { color: #3366CC }
-.bottomnav   { color: #black; font-size: 9.5pt; font-family: "trebuchet ms", san-serif; font-weight: normal; font-stretch: narrower }
---></style>
-<!--Footer starts here-->
-	<table border="0" cellpadding="0" cellspacing="0" width="640">
-		<form name="FormName" action="http://www.backroads.com/cgi-bin/htsearch" method="post"></form>
-			<tbody><tr>
-				<td align="center" valign="top" width="640">
-					<div align="center">
-					<br>
-					<br>
-					<img src="/images/homepage/hl_blue_640.gif" alt="" height="5" width="640" border="0"><font size="1"><br>
-						<br>
-					</font><span class="bottomnav"><a href="/newsletter/">E-mail Newsletter</a>  |  <a href="/first_active/">Your First Active Trip</a>  |  <a href="/my/">MyBackroads</a>  |  <a href="/win/">Win a Trip</a>  |  <a href="/virtually/">Virtual Tours</a>                    <br>
-						                                               </span><span class="bottomnav"><a href="/partners/">Tips &amp; Gear</a>  |  <a href="/best/">BEST Club</a>  |  <a href="/new/">News</a>  |  <a href="/travel_agent/travelagentsonly.html">Travel Agent</a>  |  <a href="/cgi-bin/jobs.py">Careers</a>  |  <a href="/media/">Media</a></span><br>
-					<br>
-				</div>
-				</td>
-			</tr>
-			<tr>
-				<td align="center" valign="top" width="465">
-					<div align="left">
-						<table width="640" border="0" cellspacing="10" cellpadding="5">
-							<tbody><tr>
-								<td valign="top" width="275">
-									<table width="80" border="0" cellspacing="0" cellpadding="0" height="28">
-										<tbody><tr>
-											<td valign="top">
-												<table border="0" cellspacing="0" cellpadding="0" height="21">
-													<tbody><tr>
-														<td valign="middle"><input type="text" name="words" size="12"></td>
-														<td align="right" valign="middle"><img name="searchButton2" src="/images/top_nav/spacer.gif" alt="" width="5" height="3" border="0"><input type="image" name="searchButton" src="/images/search/key_search.gif" alt="" width="55" height="17" border="0"></td>
-													</tr>
-												</tbody></table>
-											</td>
-										</tr>
-									</tbody></table>
-									800-GO-ACTIVE (462-2848)<br>
-									Phone: 510-527-1555 • Fax: 510-527-1444<br>
-								</td>
-								<td valign="top">
-									<div align="right">
-										 801 Cedar St. Berkeley, CA&nbsp;94710-1800<br>
-										Business Hours: Mon-Fri, 7-5 Pacific Time<br>
-										(and on Sat 9-3 for reservations only)<br>
-										<a href="http://www.backroads.com/contact/">Contact us</a>&nbsp;or your professional travel agent<br>
-									</div>
-								</td>
-							</tr>
-						</tbody></table>
-					</div>
-				</td>
-			</tr>
 		
-	</tbody></table>
-	<!--Footer ends here-->
+		<ul id="tnav">
+			<li><a title="E-News" href="/email/" class="enews"><span>E-News</span></a></li>
 
-
-</td>
-				</tr>
-			</tbody></table>
-		</div>
+			<li><a title="Tell a Friend!" href="javascript:openScript('/tell_a_friend/',500,400)" class="tell"><span>Tell a Friend!</span></a></li>
+			<li><a title="My Backroads" href="/cgi-bin/myBackroads.py" class="my"><span>My Backroads</span></a></li>
+			<li><a title="Contact" href="/contact/" class="contact"><span>Contact</span></a></li>
+			<li><a title="FAQs" href="/faq/" class="faq"><span>FAQs</span></a></li>
+		</ul>
+	</div><!-- end header -->
 	
+	<div id="photoBar">
+		<img src="/_images/header/photoBar_main.jpg" alt="Photo Montage">	</div>
+
+	
+	<div id="nav">
+		<ul id="mainnav">
+			<li><a href="/find/" class="find" onmouseover="subnavFind_on()"><span>Find a Trip</span></a>
+				<ul id="subnavFind" class="">
+					<li class="noLink">By:</li>
+					<li><a title="Destination" href="/find/destination/">Destination</a></li>
+					<li><a title="Activity" href="/find/activity/">Activity</a></li>
+					<li><a title="Date" href="/find/dates/">Date</a></li>
+				<li><a title="Lodging" href="/find/lodging/">Lodging</a></li>
+				<li><a title="Companion" href="/find/companion/">Companion</a></li>
+				<li><a title="Advanced Search" href="/search/advanced_search.html" class="last">Advanced Search</a></li>
+				
+				<!--<li><a title="Adventures Beyond" href="/find/adventuresbeyond/" class="last">Adventures Beyond</a></li>-->
+			</ul></li>
+			<li><a href="/why/" class="why" onmouseover="subnavWhy_on()"><span>Why Backroads</span></a>
+				<ul id="subnavWhy" class="">
+					<li><a href="/why/founder_message/">Founder's Message</a></li>
+					<li><a href="/why/our_team/">Our Team</a></li>
+					<li><a href="/why/choice/">Choice</a></li>
+					<li><a href="/why/great_gear/">Great Gear</a></li>
+					<li><a href="/best/">BEST Club</a></li>
+					<li><a href="/why/awards_ac/">Awards &amp; Alliances</a></li>
+					<li><a href="/why/responsible/" class="last">Responsible Travel</a></li>
+				</ul></li>
+			<li><a href="/trip_prep/" class="trip" onmouseover="subnavTrip_on()"><span>Trip Preparation</span></a>
+					<ul id="subnavTrip" class="">
+					<li><a href="/gearup/">Gear Up</a></li>
+					<li><a href="/trip_prep/getting_there/">Getting There</a></li>
+					<li><a href="/trip_prep/essential_info/">Essential Information</a></li>
+					<li><a href="/trip_prep/recommended_reading/">Recommended Reading</a></li>
+					<li><a href="/trip_prep/family/">Just for Families</a></li>
+					<li><a href="/trip_prep/honeymoon/" class="last">Honeymoon Registry</a></li>
+				</ul></li>
+			<li><a href="/new/" class="news" onmouseover="subnavNews_on()"><span>News Room</span></a>
+				<ul id="subnavNews" class="on">
+					<li><a href="/new/highlights/">New at Backroads</a></li>
+					<li><a href="/new/mediamentions/">Media Mentions</a></li>
+					<li><a href="/email/">E-Mail Newsletters</a></li>
+					<li><a href="/virtually/" class="last">Virtually Backroads</a></li>
+				</ul></li>
+			<li><a href="/catalog/" class="request" onmouseover="subnavRequest_on()"><span>Request Catalog</span></a></li>
+		</ul><!-- end mainNav -->
+	</div><!-- end nav -->	
+	<div id="content">
+				<div id="sideCol">
+					<!-- *****************************************************************************
+			********************** SIDE COLUMN CONTENT HERE **********************************
+			****************************************************************************** --><img src="/images/sidebar/left_leader_camping.jpg" width="176" height="84" alt="img">
+					<h3>Backroads</h3>
+					<ul>
+						<li><a href="/privacy/index.htm" class="on">Privacy Policy</a></li>
+					</ul>
+					<blockquote>
+						<p></p>
+					</blockquote>
+				</div>
+				<!-- end sideCol -->
+				<div id="mainCol">
+					<h4><img src="/images/email/privacy_h.gif" alt="Backroads&nbsp;Privacy Policy" width="417" height="70"></h4>
+				<p></p>
+					<p>Our relationship with you is very important to us. We are sensitive to protecting the private information that you provide to us. We also want you to have the opportunity to receive interesting and useful information about Backroads and about related products and services. Here are details on how we use the information you provide us:</p>
+					<ol>
+						<li><b>Name, address, contact, survey and billing information</b><br>
+							Backroads occasionally shares its mailing list and voluntary survey response information (see below) with companies that offer products or services we think you may be interested in.<br>
+							Backroads does not share telephone numbers or e-mail addresses with other companies or organizations.<br>
+							Backroads does not share your billing information with any other companies or organizations except to process your credit card for your Backroads vacation payment.<br>
+							On our catalog request form, you may check a box if you do not wish to have your name, address and survey responses shared with other companies at any time.<br>
+							<br>
+						</li>
+						<li><b>Voluntary Surveys </b><br>
+							We periodically survey our guests and catalog requesters for their vacation interests and related travel patterns. We encourage you to complete these surveys because: a) they provide us with information that helps us improve the types of vacations we offer; and b) they help us direct specific Backroads messages to you that you may find most interesting. Your participation in these surveys is always voluntary.<br>
+							<br>
+						</li>
+						<li><b>Web Site Use and Navigation Information</b><br>
+							Each time a user visits our Web site, certain use and navigation information is collected by our servers. This information is aggregate and anonymous. It gives us information such as the number, frequency and duration of visits to each Web page which we use to improve the content and navigation features of our Web site. We may make changes to this policy periodically, which we will post here.</li>
+					</ol>
+					<p><b>If you have any questions, comments or concerns about our Privacy Policy, you may contact us at <a href="/contact/">Backtalk</a>.</b></p>
+				</div>
+				<!-- end mainCol -->	
+				<div id="rightCol">
+			<img src="/images/sidebar/right1_best_referals.jpg" alt="mountain biking" width="123" height="86">
+					<p>The World’s Best<br>
+						<br>Backroads is proud of its reputation as the most widely recognized and respected active travel company in the world. The readers of Travel + Leisure magazine have voted Backroads to be one of the top 12 travel companies in the world every year since inception of the awards. No other active travel company can lay claim to this.</p>
+					<img src="/images/sidebar/right2_poolside.jpg" alt="canoeing" width="123" height="126">
+					
+		</div><!-- end rightCol -->
+	
+	<span class="clear"></span>
+	</div><!-- end content -->
+
+	
+
+	<p id="footer">
+<a href="/media/">MEDIA CENTER</a> | <a href="/cgi-bin/jobs.py">CAREERS</a> | <a href="/privacy/">PRIVACY POLICY</a> | <a href="/win/">WIN A TRIP</a> | <a href="/sitemap/">SITE MAP</a> | <a href="/travel_agent/">TRAVEL AGENTS</a> <br>
+	<b><font color="white">CALL 800-GO-ACTIVE (800-462-2848) OR YOUR TRAVEL AGENT TO RESERVE YOUR TRIP</font></b> <br>
+	<a href="/about/photography.htm">All contents and photography © 2006 Backroads</a>
+
+</p>
+
+
+</div><!-- end outerWrapper -->
+	
+
 
 </body></html>
