@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aikenstandard.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223337id_/http%3A//www.aikenstandard.com/111420.ihtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aikenstandard.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019142034id_/http%3A//www.aikenstandard.com/service/privacy.php) for the most accurate reproduction.*
 
-# Aiken Today || Privacy Policy
+# Aiken Today || Find it Fast!
 
 **[AikenToday.com](http://www.aikentoday.com/)** is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At **[AikenToday.com](http://www.aikentoday.com/)** we intend to give you as much control as possible over your personal information.
 
