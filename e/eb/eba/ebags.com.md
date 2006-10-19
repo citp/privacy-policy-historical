@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513225922id_/http%3A//www.ebags.com/help/index.cfm%3Ffuseaction%3Dprivacy%26PageEnd_Link%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebags.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019094453id_/http%3A//www.ebags.com/help/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
-# eBags - luggage, handbags, backpacks, bags, purses, laptop, travel accessories and more
+# Luggage, Handbags, Backpacks, Suitcases, Purses, Briefcases, Wallets & More - eBags
 
 | 
 
