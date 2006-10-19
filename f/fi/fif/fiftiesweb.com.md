@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiftiesweb.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616003415id_/http%3A//www.fiftiesweb.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiftiesweb.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019195652id_/http%3A//www.fiftiesweb.com/privacy.htm) for the most accurate reproduction.*
 
 # Fifties Website Privacy Policy
 
@@ -8,4 +8,4 @@ PRIVACY POLICY OF FIFTIES WEB
 **Tell a Friend:** The form to recommend this site to a friend is private between you and your friends. I really hope that you will use it, but know that I won't be mailing your friend, nor will anyone else.  
 **Still...** Sometimes this site may have a message or bulletin board. Anything you post on there is visible to the general public. Think twice before posting any personal information (ex. phone number, home address, real name). This is a good rule to follow all over the Internet.   
   
-[Back to Fifties Web Index](https://web.archive.org/web/20060616003415id_/http%3A//www.fiftiesweb.com/fifties.htm)
+[Back to Fifties Web Index](https://web.archive.org/web/20061019195652id_/http%3A//www.fiftiesweb.com/fifties.htm)
