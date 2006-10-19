@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compuplus.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409161016id_/http%3A//compuplus.com/privacy.php3%3Fsid%3Dk5u3bbfett077di) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuplus.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019190216id_/http%3A//www.compuplus.com/privacy.php3%3Fsid%3D4s23lt12ltvvtzs) for the most accurate reproduction.*
 
 # Comp-U-Plus Computer Peripheral Reseller
 
@@ -8,7 +8,7 @@ Comp-U-Plus Direct has created this privacy statement in order to demonstrate ou
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Additionally, your IP address is used to help identify you and your shopping cart.
 
-Our site's checkout process requires you to provide us with your contact, shipping, and financial information, information. This information is used to for order fulfillment, and to keep you updated on the status of your order. We do not maintain a mailing or email list, and definitely do not sell our customer information.
+Our site's checkout process requires you to provide us with your contact, shipping, and financial information. This information is used for order fulfillment, and to keep you updated on the status of your order.  From time to time, we may present offers to you from third party partners, and we may share certain information with those third party partners. We will not share, rent or sell any personally identifiable information with any third party without your consent. 
 
 ## Security
 
