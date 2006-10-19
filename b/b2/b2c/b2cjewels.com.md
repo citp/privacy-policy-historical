@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2cjewels.com privacy policy that was archived on 2006-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060525054830id_/http%3A//www.b2cjewels.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2cjewels.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019142307id_/http%3A//www.b2cjewels.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Diamond jewelry manufacturers,suppliers,exporters,sellers:rings,earring,pendants,necklaces,bracelets,fine jewelry.
 
