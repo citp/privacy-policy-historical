@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metromix.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615185733id_/http%3A//metromix.chicagotribune.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metromix.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019051721id_/http%3A//metromix.chicagotribune.com/go/services/privacy) for the most accurate reproduction.*
 
 # Metromix. Privacy policy
 
