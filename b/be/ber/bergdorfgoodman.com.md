@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615232808id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bergdorfgoodman.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019173041id_/http%3A//www.bergdorfgoodman.com/category/assistance/service/security.jhtml) for the most accurate reproduction.*
 
 # BergdorfGoodman.com
 
@@ -133,6 +133,8 @@ The following elements of this Web site are the property of Neiman Marcus or our
 
 **Trademarks**   
 The trademarks or trade dress of Neiman Marcus and our affiliates may not be used without our written permission. Trademarks or trade dress include the Neiman Marcus name and logo, and other graphics, logos, page headers, button icons, scripts, and service names of Neiman Marcus products, services, and programs, and those of our affiliates. 
+
+VELCRO® is a registered trademark of Velcro Industries, B.V. 
 
 All other trademarks that appear on this site are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by us or our affiliates. 
 
