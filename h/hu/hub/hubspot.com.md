@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hubspot.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616153831id_/http%3A//www.hubspot.com/Home/tabid/1170/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubspot.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019125130id_/http%3A//www.hubspot.com/Home/tabid/1170/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# HubSpot > Home
+# HubSpot: End-to-End Client Management for the Internet Age
 
 HubSpot is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the HubSpot Web site and governs data collection and usage. By using the HubSpot website, you consent to the data practices described in this statement.
 
