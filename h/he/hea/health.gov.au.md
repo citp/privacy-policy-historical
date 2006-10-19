@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213914id_/http%3A//www.health.gov.au/internet/wcms/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.gov.au privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019175502id_/http%3A//www.health.gov.au/internet/wcms/publishing.nsf/Content/privacy_security.htm) for the most accurate reproduction.*
 
 # Privacy and security
 
@@ -68,4 +68,5 @@ MDP 62
 GPO Box 9848  
 CANBERRA ACT 2601 
 
-**Page currency, Latest update: 30 August, 2005**
+**Page last modified: 30 August, 2005  
+**
