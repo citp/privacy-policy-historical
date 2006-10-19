@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the edressme.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317035153id_/http%3A//www.edressme.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edressme.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020004624id_/http%3A//edressme.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Cocktail, Evening Dresses, by eDressMe Info
-
-[](http://us.st11.yimg.com/store1.yimg.com/I/edressme_1887_16539434)
 
 eDressme is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others.
 
