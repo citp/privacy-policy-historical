@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturaldigest.com privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422023032id_/http%3A//www.architecturaldigest.com/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldigest.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020002527id_/http%3A//www.architecturaldigest.com/services/privacypolicy.html) for the most accurate reproduction.*
 
 # AD
 
@@ -41,7 +41,7 @@ Some of our advertisers occasionally serve you cookies as well. We do not have c
 Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our website.
 
    
- **KIDS AND PARENTS**
+**KIDS AND PARENTS**
 
 This Website is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before making purchases, including subscriptions, on this site. 
 
@@ -53,5 +53,6 @@ If you have other concerns or questions about any aspect of this policy, you may
 
 Privacy Policy Coordinator  
 ArchitecturalDigest.com  
-4 Times Square 17th Floor  
-New York, NY 10036-6561
+CondéNet  
+1166 Avenue of the Americas, 15th floor  
+New York, NY 10036 
