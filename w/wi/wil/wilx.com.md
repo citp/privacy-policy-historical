@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilx.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204238id_/http%3A//www.wilx.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilx.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019132320id_/http%3A//www.wilx.com/unclassified/647.html) for the most accurate reproduction.*
 
 # WILX | GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
@@ -6,7 +6,7 @@ GRAY TELEVISION GROUP, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
 This Privacy Policy does not cover the “Ask the Experts” advertising feature that may be included on this website.  Please see the separate privacy policy on the [Ask the Experts homepage](http://www.asktheexperts.org/).
 
-At Gray Television Group, Inc. ("GTGI"), we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration, and destruction. This privacy policy applies to those websites that are part of the GTGI Network. For a list of those websites, click here. This Policy applies only to the personal information collected by GTGI and its network stations and does not cover any such information collected by its corporate parent, affiliates, or any other company, unless specifically stated.
+At Gray Television Group, Inc. ("GTGI"), we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration, and destruction. This privacy policy applies to those websites that are part of the GTGI Network. For a list of those websites, please scroll to the bottom of this page under GTGI Network. This Policy applies only to the personal information collected by GTGI and its network stations and does not cover any such information collected by its corporate parent, affiliates, or any other company, unless specifically stated.
 
 Unless specified otherwise on the Service, all users must be at least 18 years of age and a legal resident of the 
 
