@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitness.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316032831id_/http%3A//www.fitness.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitness.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019235208id_/http%3A//www.fitness.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - Fitness.com
 
