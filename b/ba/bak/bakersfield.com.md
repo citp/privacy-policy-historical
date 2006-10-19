@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317141411id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019054701id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bakersfield.com - Kern County news, events, shopping & search
 
