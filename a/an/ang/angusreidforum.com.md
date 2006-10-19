@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the angusreidforum.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012653id_/http%3A//www.visioncritical.com/VC_PrivacyPolicy_en-CA.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angusreidforum.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020015657id_/http%3A//www.visioncritical.com/VC_PrivacyPolicy_en-CA.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
 DOCUMENT:
 PRIVACY POLICY
-2100 - One Bentall Centre
-505 Burrard Street, Box 91
-Vancouver BC Canada V7X 1M6
+Suite 700, 858 Beatty Street
+Vancouver BC Canada V6B 1C1
 T. 604.647.1980
 F. 604.647.1005
 
@@ -33,9 +32,8 @@ VCCI will continue to review its Privacy Policy to make sure that it is relevant
 changing industry standards, technologies and laws.
 If you have any concerns about how your privacy is protected at VCCI, please contact our Privacy Officer
 by e-mail at privacyofficer@visioncritical.com, or by mail at:
-                  Suite 2100, One Bentall Centre
-                  505 Burrard Street, Box 91
-                  Vancouver, BC V7X 1M6
+                  Suite 700, 858 Beatty Street
+                  Vancouver, BC V6B 1C1
                   Attention: Privacy Officer
 
 
@@ -100,9 +98,8 @@ who are accountable for VCCI's compliance with the following principles.
 Responsibility for compliance with the provisions of the VCCI Privacy Policy rests with the VCCI Privacy
 Officer. The VCCI Privacy Officer can be contacted by e-mail at privacyofficer@visioncritical.com, or by
 mail at:
-                  Suite 2100, One Bentall Centre
-                  505 Burrard Street, Box 91
-                  Vancouver, BC V7X 1M6
+                  Suite 700, 858 Beatty Street
+                  Vancouver, BC V6B 1C1
                   Attention: Privacy Officer
 Other individuals within VCCI may be delegated to act on behalf of the Privacy Officer or to take
 responsibility for the day-to-day collection and/or processing of personal information.
@@ -263,8 +260,7 @@ the investigation regarding his or her complaint.
 ADDITIONAL INFORMATION
 For more information regarding the VCCI Privacy Policy, please contact the VCCI Privacy Officer by e-
 mail at privacyofficer@visioncritical.com, or by mail at:
-                  Suite 2100, One Bentall Centre
-                  505 Burrard Street, Box 91
-                  Vancouver, BC V7X 1M6
+                  Suite 700, 858 Beatty Street
+                  Vancouver, BC V6B 1C1
                   Attention: Privacy Officer
 Please visit the Privacy Commissioner of Canada's website at www.privcom.gc.ca.
