@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the courant.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308110819id_/http%3A//www.courant.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courant.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019171639id_/http%3A//www.courant.com/go/privacy) for the most accurate reproduction.*
 
-# courant.com - ABOUT US
+# Connecticut News from The Hartford Courant ::: State, National, & World News On courant.com
 
 ## courant.com Privacy Policy  
 
 
-**Last Updated: July 2003**   
+**Last Updated: May 2006**   
 COURANT.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by COURANT.com online and does not impact information collected or used by COURANT.com or its affiliates through other means. 
 
 **How we gather information from users**. 
@@ -34,6 +34,8 @@ COURANT.com expects its partners, advertisers and third-party affiliates to resp
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. COURANT.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties. 
 
+A cookie gets entered by your Web browser into the "Cookies" folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the Site. We use persistent and session cookies to analyze and enhance your experience on the Site, and use third party ad technology to serve ads. The data that is collected is the property of COURANT.com, not the third party. We also allow third parties called ad networks or ad servers to serve ads to you on COURANT.com. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on COURANT.com. COURANT.com does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. COURANT.com maintains relationships with a number of third-party networks, including Doubleclick, Unicast, and Pointroll. Those parties that use cookies may offer you a way to opt out of ad targeting. You may find more information at the Web site of the individual ad network or the [ Network Advertising Initiative.](http://www.networkadvertising.org/consumer/opt_out.asp)
+
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of COURANT.com and this policy. 
 
 **Children.**
@@ -59,3 +61,17 @@ COURANT.com reserves the right to change this policy at any time. Please check t
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of COURANT.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. COURANT.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer. 
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control. 
+
+**Interact with The Courant:**
+
+> [**Email** ](https://web.archive.org/news/local/hc-news-correx-cf,0,3980565.customform) Reader Rep. Karen Hunter with comments.   
+> [**Visit** ](http://www.courant.com/talkback) Karen's daily Blog.   
+> [**View** ](http://www.courant.com/news/corrections/)today's corrections.   
+> [ **Contact** ](https://web.archive.org/about/custom/thc/thc-newsroom,0,7611631.htmlstory) a reporter.   
+> [ **Subscribe** ](http://www.courant.com/offer)to The Courant.   
+> [ **Buy** ](http://pictopia.com/perl/gal?provider_id=429)Courant photos.   
+> [**Request** ](http://www.tmsreprints.com/forms/reprints/hartford.html)reprints/permissions.  
+> [**Search** ](http://pqasb.pqarchiver.com/courant/advancedsearch.html)our archives from 1764-1949 and 1992-2006. 
+
+  
+
