@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064736id_/http%3A//baynews9.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019062107id_/http%3A//www.baynews9.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # baynews9.com - Weather on the Nines
 
