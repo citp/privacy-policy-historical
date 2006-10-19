@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the searchsight.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001736id_/http%3A//searchsight.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchsight.com privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019032522id_/http%3A//searchsight.com/privacy.htm) for the most accurate reproduction.*
 
 # SearchSight.com Privacy Statement
 
 **SearchSight.com Privacy Statement**  
-Posted January 1, 2004 
+Posted August 10, 2006 
 
 SearchSight.com is committed to safeguarding your privacy online. Please read the following statement to understand how your personal information will be treated as you make full use of the SearchSight.com Web site. The SearchSight.com Web site is owned and operated by IcoLogic, Inc.
 
-If you have any questions regarding our privacy statement, please feel free to contact us though our [Comments Page.](https://web.archive.org/web/20060615001736id_/http%3A//searchsight.com/comments.htm)
+If you have any questions regarding our privacy statement, please feel free to contact us though our [Comments Page.](https://web.archive.org/web/20061019032522id_/http%3A//searchsight.com/comments.htm)
 
  **Gathering of Information**
 
@@ -17,7 +17,7 @@ SearchSight.com does not collect personally identifying information about any in
 
 Each SearchSight.com search engine listing allows for an email address to be associated with it, which is provided by the person who submits the URL for listing at the time of submission.  SearchSight.com sends a welcome email after the submitted URL has been added or updated in our search engine listings.  Occasionally SearchSight.com sends email notifications to the those who have listings in the SearchSight.com search engine to the associated email addresses.
 
-At any time, a person who has an email address associated with one or more listings may opt to remove their email address from all listings.  This is done [here](https://web.archive.org/web/20060615001736id_/http%3A//searchsight.com/SpecialOffers/dne.htm).  Note:  If a URL is submitted at a future time with a removed email address, the email address will once again receive email notifications for the submitted listing.
+At any time, a person who has an email address associated with one or more listings may opt to remove their email address from all listings.  This is done [here](https://web.archive.org/web/20061019032522id_/http%3A//searchsight.com/SpecialOffers/dne.htm).  Note:  If a URL is submitted at a future time with a removed email address, the email address will once again receive email notifications for the submitted listing.
 
 **Cookies**
 
@@ -41,21 +41,21 @@ When you are on an area of SearchSight.com and are asked for personal informatio
 
 In addition, any personally identifiable information provided by our users as part of an advertiser promotion online may be provided directly to advertisers. 
 
-Please be aware that SearchSight.com sponsors, advertisers or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those parties and Web sites linked to SearchSight.com are not covered by this privacy statement. SearchSight.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. 
+Please be aware that SearchSight.com partners, sponsors, advertisers or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those parties and Web sites linked to SearchSight.com are not covered by this privacy statement. SearchSight.com users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others. 
 
 Kids under 13: Do not send any information about yourself to us, including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible. 
 
 **E-Mail**
 
-SearchSight respects the privacy of its readers and shall not disclose, distribute or rent its e-mail subscriber newsletter list to any third party, nor shall it permit anyone else to do so. Advertisers may change the email associated with their listing at any time by following the procedure outlined in our [Webmaster Frequently Asked Questions](https://web.archive.org/web/20060615001736id_/http%3A//searchsight.com/faqs.htm). 
+SearchSight.com respects the privacy of its users and shall not disclose, distribute or rent its e-mail subscriber newsletter list to any third party, unless we feel such disclosure shall be beneficial to our users.  Users with listings in the SearchSight.com database may change the email associated with their listing at any time by following the procedure outlined in our [Webmaster Frequently Asked Questions](https://web.archive.org/web/20061019032522id_/http%3A//searchsight.com/faqs.htm). 
 
 **How to Contact Us**
 
-If you have any questions regarding our privacy statement, please feel free to contact us though our [Comments Page.](https://web.archive.org/web/20060615001736id_/http%3A//searchsight.com/comments.htm)
+If you have any questions regarding our privacy statement, please feel free to contact us though our [Comments Page.](https://web.archive.org/web/20061019032522id_/http%3A//searchsight.com/comments.htm)
 
 This statement may change from time to time, so please check back periodically. 
 
-© 2004 SearchSight.com Inc. All Rights Reserved. 
+© 2006 SearchSight.com Inc. All Rights Reserved. 
 
 **Definitions:**
 
