@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elpasotexas.gov privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218000703id_/http%3A//www.elpasotexas.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elpasotexas.gov privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019220020id_/http%3A//www.elpasotexas.gov/privacy.asp) for the most accurate reproduction.*
 
 # www.elpasotexas.gov - Privacy Policy
 
