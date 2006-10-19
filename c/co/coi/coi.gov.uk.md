@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coi.gov.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616200821id_/http%3A//www.coi.gov.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coi.gov.uk privacy policy that was archived on 2006-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061019024811id_/http%3A//www.coi.gov.uk/privacy.php) for the most accurate reproduction.*
 
 # COI - Privacy Policy
 
@@ -16,9 +16,11 @@ This privacy policy applies only to the Central Office of Information website at
 
 ## Recent significant changes to this policy
 
-This policy was last revised on 16 December 2004.
+For version 2 - following the introduction of Google Analytics code onto the site the section 'Information not collected by this website' of this policy was removed and the 'Cookies' section updated.
 
-This is version 1 of the Central Office of Information's privacy policy. Accordingly, there are no changes to this policy to record here at present.
+This policy was last revised on 29 September 2006.
+
+This is version 2 of the Central Office of Information's privacy policy.
 
 ## Changes to this policy
 
@@ -74,17 +76,6 @@ Specific IP addresses and hostnames will not be made publicly available. They wi
 
 Website log files are stored securely on the website using industry best practice methods for safeguarding information and server functions.
 
-### Information not collected by this website
-
-The public area of this website:
-
-  * Does not store any personal information about any user on the site
-  * Does not use 'cookies' in any way, either persistent or session-specific. (For more information about cookies, see 'Additional information' below.)
-  * Does not use Javascript to collect any information from or about any user
-  * Does not use Java applets to collect any information from or about any user
-
-
-
 ## Additional information
 
 This section provides background information regarding terminology and legislation referenced in the writing of this privacy policy statement.
@@ -100,7 +91,7 @@ There are two types of cookies:
 
 
 
-The Central Office of Information does not use either type of cookie.
+The Central Office of Information uses both types of cookie for Google Analytics. However, the site can still be used if cookies are refused by your browser.
 
 ### IP addresses and hostnames
 
@@ -130,4 +121,4 @@ The Data Protection Act also gives you the right to request a copy of any person
 >  London  
 >  SE1 7DU
 
-More information about the Data Protection Act can be found on the Information Commissioner's website at [www.informationcommissioner.gov.uk/eventual.aspx?id=34](http://www.informationcommissioner.gov.uk/eventual.aspx?id=34).
+More information about the Data Protection Act can be found on the Information Commissioner's website at <http://www.ico.gov.uk/Home/what_we_cover/data_protection.aspx>.
