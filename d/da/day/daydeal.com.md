@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daydeal.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616034520id_/http%3A//www.daydeal.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daydeal.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021005150id_/http%3A//www.daydeal.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# DayDeal.com Business
+# DayDeal.com Privacy Statement
 
 DayDeal.com is committed to protect your privacy. We use the information we collect about you to process orders and to provide you with the most enjoyable shopping experience. 
 
