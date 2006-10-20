@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earwaks.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211080005id_/http%3A//www.earwaks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earwaks.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020164324id_/http%3A//www.earwaks.com/privacy) for the most accurate reproduction.*
 
 # Earwaks Privacy Policy :: How We Protect Your Privacy
 
@@ -18,12 +18,16 @@ Earwaks.com also collects certain information about your computer hardware and s
 **GENERAL CONSIDERATIONS**  
 The Internet is, for the most part, an insecure network. As such, Earwaks.com cannot guarantee that the information you provide to us is completely safe, although we are careful to prevent any problems to the best of our ability. There may be circumstances beyond our control that may make it accessible for unauthorized persons to observe your data. However, such risks exist unanimously across the Internet; the only truly secure machine is one not connected to the Internet.
 
+[   
+kace  
+](https://web.archive.org/fam/kace) _producer of all sorts; dj, focusing on drum & bass_
+
   
-[<<](https://web.archive.org/index.php?month=11&year=2004#calendar) | December 2004 | [>>](https://web.archive.org/index.php?month=1&year=2005#calendar)  
+[<<](https://web.archive.org/cgi-system/php.cgi?month=9&year=2006#calendar) | October 2006 | [>>](https://web.archive.org/cgi-system/php.cgi?month=11&year=2006#calendar)  
 ---|---|---  
 S | M | T | W | T | F | S  
-  |   |   | 1 | 2 | [3](javascript:showOnly\('calEvent57', objEventArray\);) | 4  
-5 | 6 | 7 | 8 | 9 | 10 | [11](javascript:showOnly\('calEvent58', objEventArray\);)  
-12 | 13 | 14 | 15 | 16 | 17 | 18  
-19 | 20 | 21 | 22 | 23 | 24 | 25  
-26 | 27 | 28 | 29 | 30 | 31 |  
+1 | 2 | 3 | 4 | 5 | 6 | 7  
+[8](javascript:showOnly\('calEvent121', objEventArray\);) | 9 | 10 | 11 | 12 | 13 | [14](javascript:showOnly\('calEvent120', objEventArray\);)  
+15 | 16 | 17 | 18 | 19 | 20 | 21  
+22 | 23 | 24 | 25 | 26 | 27 | 28  
+29 | 30 | 31 |   |   |   |  
