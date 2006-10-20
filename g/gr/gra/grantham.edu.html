@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the grantham.edu privacy policy that was archived on 2005-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051211123827id_/http%3A//grantham.edu/grantham_privacy_statement.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grantham.edu privacy policy that was archived on 2006-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061020093712id_/http%3A//grantham.edu/grantham_privacy_statement.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/sub.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -11,6 +11,7 @@
 -->
 </style>
 <link href="grantham.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="js/scripts.js" type="text/javascript"></script>
 <script language="JavaScript" type="text/JavaScript">
 <!--
 function MM_reloadPage(init) {  //reloads the window if Nav4 resized
@@ -20,6 +21,49 @@ function MM_reloadPage(init) {  //reloads the window if Nav4 resized
 }
 MM_reloadPage(true);
 //-->
+</script>
+<script type="text/javascript">
+//help me now
+//help me now script copyright andresschulz.com
+
+function popup(url,name)
+{ 
+    //Added for time control
+    var today = new Date();
+    var utcDay = today.getUTCDay();
+    var utcHour = today.getUTCHours();
+    var utcMinute = today.getUTCMinutes();
+    
+    var settings ="height=440, width=700, top=150, left=150, scrollbars=no, menubar=no, toolbar=no, location=no, status=no, titlebar=no, resizable=no"; 
+   
+    if(utcDay != 0)
+    {
+
+
+        if(   ((utcDay > 0 && utcDay < 5)&&( utcHour < 2 || utcHour >=13)) || ((utcDay == 5) && (( utcHour < 2 ) || (utcHour >=13 && utcHour <= 22) || (utcHour = 23 && utcMinute == 0))) || (utcDay == 6 && utcHour == 0 && utcMinute == 0))
+        {
+                //Code to execute during the given hours of Monday - Thursday 8am - 9pm and Friday 8am - 6pm CST
+                if (!window.opener || window.opener.closed)
+                { 
+                    window.open(url,name,settings);
+                } 
+                else
+                { 
+                    window.opener.location = url;window.opener.focus();
+                }
+        }
+        else
+        {
+                alert("Please try again Monday - Thursday 8 AM - 9 PM or Fridays 8 AM - 6 PM  Central Standard Time.")     
+        }   
+
+    }
+    else
+    {
+         alert("Please try again Monday - Thursday 8 AM - 9 PM or Fridays 8 AM - 6 PM  Central Standard Time.")     
+    }  
+
+}
 </script>
 <style type="text/css">
 <!--
@@ -44,24 +88,18 @@ body {
 	<table width="733" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td width="606" height="24"><img src="images/spacer.gif"></td>
-    <td width="130"><div class="nav"><a href="http://stars.grantham.edu/GranthamU/">Student Log-In</a> </div></td>
+    <td width="130"><div class="nav"><a href="https://stars.grantham.edu/GranthamU/">Student Log-In</a> </div></td>
   </tr>
 </tbody></table>
 	</td>
   </tr>
   <tr>
-    <td height="22" align="center" bgcolor="#4D85C0">
-	<div class="nav">
-		  	<a href="index.html">Home</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-			<a href="accreditation.htm">Accreditation</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-			<a href="faculty.htm">Faculty</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-			<a href="tuition.htm">Tuition</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="advisors.htm">Advisors</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
-			<a href="faq.htm">FAQs</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="history.htm">About Us</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-			<a href="jobs.htm">Jobs</a>
-		  </div>
-	</td>
+    <td height="22" align="center" bgcolor="#4D85C0"><div class="nav">
+        <div align="center"> <a href="index.html">Home</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="accreditation.htm">Accreditation</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="tuition.htm">Tuition</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="faq.htm">FAQs</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="sitemap.htm">Site
+            Map</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="information_request.htm"><font color="#FFFF00">Request
+            Information</font></a></div>
+      </div>
+    </td>
   </tr>
 </tbody></table>
 	</td>
@@ -71,70 +109,80 @@ body {
   </tr>
   <tr>
 <!-- Left Column --> 
-    <td width="180" valign="top">
-	  <span class="ul_enroll"><a href="new_enrollment.htm">Apply Now</a></span>
-	  <div class="ul_leftclm"><a href="information_request.htm">Request Information</a></div>
-	<!-- Admisions -->
-	<div class="ul_leftclm">
-	  <a href="admissions.htm">Admissions</a>	</div>
-   	<div class="ul_01">
-	<a href="transfer_credits.htm">Transfer Credit</a><br>
-   	<a href="financial_aid.htm">Financial Aid</a><br>
-   	<a href="new_enrollment.htm">Enrollment Forms</a><br>
+    <td width="219" valign="top">
+<ul id="sidenav">
+<div class="dspl_gutrH"><img src="images/spacer.gif" height="1"></div>
 
-	</div>
-	<!-- Admisions End -->
+<script type="text/javascript" language="JavaScript" src="http://s1.getabby.com/clients/granthameducation/c2c_grantham.inc"></script><noscript><a href=javascript:popup("http://s1.getabby.com/clients/granthameducation/callform.asp");><img src='http://www.getabby.com/clients/granthameducation/call_button.gif' alt='Eidoserve Click to Call'></a></noscript>
+
+<div class="dspl_gutrH"><img src="images/spacer.gif" height="1"></div>
+
+		<li class="r"><a href="https://stars.grantham.edu/GranthamUTest/EnrollmentAgreements/EAForm.asp" target="new">Apply  Now</a></li>
+		<li><a href="history.htm">About Us</a>			
+          <ul>
+            <li><a href="meet-the-president.htm">Meet the President</a></li>
+            <li><a href="faculty.htm">Faculty</a></li>
+            <li><a href="advisors.htm">Advisors</a></li>
+          </ul>
+		</li>
+	<li><a href="degree_programs.htm">Degree Programs</a>
+   		  <ul>
+            <li><a href="Bachelor_of_Science_Business_Administration.htm">Business 
+              Administration</a></li>
+            <li><a href="criminal_justice.htm">Criminal Justice</a></li>
+            <li><a href="computer_engineering_technology.htm">Computer Engineering 
+              Tech</a></li>
+            <li><a href="computer_science.htm">Computer Science</a></li>
+            <li><a href="electronics_engineering_technology.htm">Electronics Engineering 
+              Tech</a></li>
+            <li><a href="engineering_management.htm">Engineering Management</a></li>
+            <li><a href="information_systems.htm">Information Systems</a></li>
+            <li><a href="general_studies.htm">General Studies</a></li>
+            <li><a href="interdisciplinary_studies.htm">Interdisciplinary Studies</a></li>
+            <li><a href="software_engineering_technology.htm">Software Engineering 
+              Tech</a></li>
+            <li><a href="mba_programs.htm">MBA Programs</a></li>
+            <li><a href="master_of_science_programs.htm">Master of Science Programs</a></li>
+          </ul>
+	</li>
+	<li><a href="admissions.htm">Admissions</a>
+		  <ul>
+            <li><a href="transfer_credits.htm">Transfer Credit</a></li>
+            <li><a href="financial_aid.htm">Financial Aid</a></li>
+            <li><a href="new_enrollment.htm">Enrollment Forms</a></li>
+          </ul>
+	</li>
+	<li><a href="scholarships.htm">Scholarships</a>
+		  <ul>
+            <li><a href="service_members.htm">Military Service Member</a></li>
+            <li><a href="family_scholarships.htm">Military Family Member</a></li>
+            <li><a href="veterans_scholarships.htm">Military Veteran</a></li>
+			<li><a href="msi.htm">Military Severely Injured </a></li>
+			<li><a href="les.htm">Law Enforcement</a></li>
+          </ul>
+	</li>
+	<li><a href="news_2.htm">In The News</a></li>
+	<li><a href="jobs.htm">Jobs</a></li>
 	
-	<!-- Schlarships Info -->
-    <div><img src="images/spacer.gif" height="3"></div>
-	<div class="ul_leftclm">
-	  <a href="scholarships.htm">Scholarships</a></div>
-   	<div class="ul_01">
-	<a href="service_members.htm">Military Service Member</a><br>
-   	<a href="family_scholarships.htm">Military Family Member</a><br>
-   	<a href="veterans_scholarships.htm">Military Veteran</a><br>
-	
-	</div>
-	<!-- Scholarships Info End -->
-	<!-- Degree Programs -->
-	<div><img src="images/spacer.gif" height="3"></div>
-	<div class="ul_leftclm"><a href="degree_programs.htm">Degree Programs</a></div>
-   	<div class="ul_01">	
-    <a href="Bachelor_of_Science_Business_Administration.htm">Business Administration</a><br>
-    <a href="criminal_justice.htm">Criminal Justice</a><br>
-    <a href="computer_engineering_technology.htm">Computer Engineering Tech</a><br>
-    <a href="computer_science.htm">Computer Science</a><br>
-    <a href="electronics_engineering_technology.htm">Electronics Engineering Tech</a><br>
-    <a href="engineering_management.htm">Engineering Management</a><br>
-    <a href="information_systems.htm">Information Systems</a><br>
-    <a href="general_studies.htm">General Studies</a><br>
-    <a href="interdisciplinary_studies.htm">Interdisciplinary Studies</a><br>
-    <a href="software_engineering_technology.htm">Software Engineering Tech<br>
-    </a><a href="mba_programs.htm">MBA Programs</a><br>
-    <a href="master_of_science_programs.htm">Master of Science Programs</a><br>
-	
-	</div>
-	<!-- Degree Programs End -->
-    <div class="dspl_gutrH"><img src="images/spacer.gif" height="1"></div>
-	<div><img src="images/img_number.gif"></div>
-	<div class="dspl_gutrH"><img src="images/spacer.gif" height="1"></div>
-	
-	
-	<h3>e-mail Us</h3>
+<div class="dspl_gutrH"><img src="images/spacer.gif" height="1"></div>	
+	<img src="images/img_number.gif">
+<div class="dspl_gutrH"><img src="images/spacer.gif" height="1"></div>
+<h3>e-mail Us</h3>
 	<div class="lnk_jump"><a href="mailto:admissions@grantham.edu">&gt;&gt;admissions@grantham.edu</a></div>
 	<div class="dspl_gutrH"><img src="images/spacer.gif" height="1"></div>
 	
 	
-	<div class="ul_leftclm"><a href="news_2.htm">In The News</a></div>
-	<div class="ul_leftclm"><a href="student_survey.htm">Survey</a></div>
-	<div class="ul_leftclm"><a href="alumni.htm">Alumni News</a></div>
-	<div class="ul_leftclm"><a href="http://www.grantham.edu/gear/">Campus Store</a></div>
-	<div class="ul_leftclm"><a href="military_handbook.htm">Military Handbook</a></div>
-	<div class="ul_leftclm"><a href="http://www.grantham.edu/catalog/GranthamCatalog.zip">Current Course Catalog</a></div>
+	
+	<li><a href="http://www.grantham.edu/catalog/GranthamCatalog.zip">University Catalog</a></li>
+	<li><a href="alumni.htm">Alumni News</a></li>
+	<li><a href="campus_store.htm">Campus Store</a></li>
+	
+	
 	<div class="dspl_gutrH"><img src="images/spacer.gif" height="1"></div>
-	<div class="ul_leftclm"><a href="accreditation.htm">Accreditation</a></div>
+	<li><a href="accreditation.htm">Accreditation</a></li>
 	<div><img src="images/img_accred.jpg" hspace="15"></div>
-	<p class="articles">Accredited by
+</ul>
+<p class="articles">Accredited by
 	  the Accrediting
  	  Commission of the
       Distance Education and
@@ -144,10 +192,10 @@ body {
 <!-- Left Column End--> 
 	</td>
 	
-    <td width="5" class="dspl_gutrV">&nbsp;</td>
+    <td width="4" class="dspl_gutrV">&nbsp;</td>
     
 <!-- Middle Column --> 
-	<td width="554" valign="top">
+	<td width="524" valign="top">
 	<!-- Take Control -->
 	<!-- InstanceBeginEditable name="EditRegion3" -->
 	  <h1><st1:personname><st1:place><st1:placename></st1:placename></st1:place></st1:personname><strong> Grantham</strong><strong> University</strong><strong> Web Privacy Statement </strong></h1>
@@ -217,7 +265,10 @@ body {
   <tr valign="top">
     <td width="545">
 		<div class="footer">
-		  <p>Direct inquiries to Grantham University's corporate headquarters: Grantham Education Corporation, 2101 Wilson Blvd, Ste 110, Arlington, VA 22201.<br> ©Copyright 2005 Grantham University - All Rights Reserved. <span class="lnk_jump"><a href="#">&gt;&gt;Privacy Statement</a></span></p>
+		  <p>Grantham University - 7200 NW 86th Street, 
+		    Kansas City, MO 64153<br>
+		    Ph: 800.955.2527 / Fax: 816.595.5757<br>
+ ©Copyright 2006 Grantham University - All Rights Reserved. <span class="lnk_jump"><a href="grantham_privacy_statement.htm">&gt;&gt;Privacy Statement</a></span></p>
 		  </div>
 	</td>
     <td width="190" height="50">
@@ -273,7 +324,19 @@ body {
 	VENEM();
 //-->
 </script>
-
+<img src="http://leadback.advertising.com/adcedge/lb?site=695501&amp;srvc=1&amp;betr=grthedu_cs=1&amp;betq=1069=350937" width="1" height="1" border="0">
 
 <!-- InstanceEnd -->
+
+
+<!-- Google Analytics Code -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-772632-1";
+urchinTracker();
+</script>
+<!-- End of Google Analytics Code-->
+
+
 </body></html>
