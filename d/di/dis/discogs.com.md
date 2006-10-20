@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discogs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615042354id_/http%3A//help.discogs.com/wiki/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discogs.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020163813id_/http%3A//help.discogs.com/wiki/PrivacyPolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy - Discogs - Trac
 
