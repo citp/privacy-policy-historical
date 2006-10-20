@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glidemagazine.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615055321id_/http%3A//www.glidemagazine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glidemagazine.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020191751id_/http%3A//glidemagazine.com/privacy.php) for the most accurate reproduction.*
 
-# Glide Magazine - Privacy Policy
+# Glide Magazine
 
 _Glide Magazine_ ("Glide") is committed to protecting the privacy of the personally identifiable information that we collect from you as you use this Web site. The scope of our commitment is detailed in this Privacy Policy. By submitting information, you agree to _Glide Magazine's_ use of such information as described below. 
 
@@ -29,5 +29,3 @@ By using the site, you consent to the collection, use, and storage of your infor
 If you feel that this site is not following its stated information policy, or if you have any questions about our Privacy Policy, please e-mail us at [info@glidemagazine.com](mailto:info@glidemagazine.com).
 
 Glide Magazine
-
-[features](http://www.glidemagazine.com/articles.php "features") :: [reviews](http://www.glidemagazine.com/reviews.php "reviews") :: [columns](http://www.glidemagazine.com/columns.php "columns") :: [free music downloads](http://www.glidemagazine.com/downloads.php "free music downloads") :: [news](http://www.glidemagazine.com/news.php "news") :: [blog](http://www.glidemagazine.com/ens/)
