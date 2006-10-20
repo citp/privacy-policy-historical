@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fruition.net privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427141350id_/http%3A//fruition.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fruition.net privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020031204id_/http%3A//fruition.net/privacy.html) for the most accurate reproduction.*
 
 # FRUITION Privacy policy
 
