@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 42photo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022340id_/http%3A//42photo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 42photo.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020121846id_/http%3A//42photo.com/privacy.asp) for the most accurate reproduction.*
 
 # 42Photo.com Computers and Electronics
 
