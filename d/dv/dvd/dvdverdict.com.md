@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdverdict.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619013737id_/http%3A//www.dvdverdict.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdverdict.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020132958id_/http%3A//www.dvdverdict.com/privacy) for the most accurate reproduction.*
 
 # DVD Verdict: Privacy Statement
 
@@ -50,4 +50,4 @@ DVD Verdict welcomes your comments regarding this privacy statement. If you beli
 
 | 
 
-[ ](http://www.dvdverdict.com/amazon.php?asin=B000F7CMPE)
+[ ](http://www.severin-films.com/)
