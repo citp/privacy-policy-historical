@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutdance.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614171558id_/http%3A//www.allaboutdance.com/s.nl/sc.5/category.513/.f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutdance.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020092525id_/http%3A//www.allaboutdance.com/s.nl/sc.5/category.513/.f) for the most accurate reproduction.*
 
 # Privacy Policy - AllAboutDance.com
 
