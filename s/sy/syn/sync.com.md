@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sync.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014017id_/http%3A//www.sync.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sync.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020111124id_/http%3A//www.sync.com/privacy.html) for the most accurate reproduction.*
 
 # Intellisync Corporation: Online Privacy Policy
 
