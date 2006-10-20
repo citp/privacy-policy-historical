@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sealedair.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615075807id_/http%3A//www.sealedair.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sealedair.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021015117id_/http%3A//www.sealedair.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Sealed Air's Privacy Policy
 
@@ -12,6 +12,12 @@ We understand that your privacy is important. We want you to understand what inf
 
   * Our Web site host does not collect any personally identifying information about you such as your name or e-mail address. Our Web site host does collect and report to us certain information from the visitor's logs such as the name of the domain from which you access the Internet (such as aol.com, your company.com or uconn.edu), the Internet address of the Web site from which you linked directly to our site (such as Yahoo, Alta Vista or Excite), the time and date of your visit, the pages that are visited and the page "click throughs."
   * We use the information we collect to measure the number of visitors to the various pages on our site so that we can make our site more interesting and useful.
+
+
+
+**If you click through to our site from a banner ad, e-mail link or other online advertisement:**
+
+  * In some cases, we use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us. With both cookies and Spotlight technology provided by DoubleClick, the information that we collect and share with others is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information, send an e-mail to [webmaster@sealedair.com](mailto:webmaster@sealedair.com).
 
 
 
