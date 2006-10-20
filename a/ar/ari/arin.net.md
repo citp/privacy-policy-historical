@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the arin.net privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215224217id_/http%3A//arin.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arin.net privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021011304id_/http%3A//www.arin.net/privacy.html) for the most accurate reproduction.*
 
 # ARIN Privacy Statement
 
-**Effective Date: March 18, 2003**
+**Effective Date: 18 March 2003**
 
 The American Registry for Internet Numbers places a high value on the privacy of our members and other visitors to our site. Because we value your privacy so highly we have developed this Privacy Statement to inform you about our privacy practices for the entire ARIN website.
 
@@ -52,8 +52,8 @@ The American Registry for Internet Numbers places a high value on the privacy of
 
 ## Compliance and Questions
 
-> If you have any questions regarding our privacy policy or you feel that this site is not following its stated information policy, please contact the ARIN Member Services Department by e-mail to [memsvcs@arin.net](mailto:memsvcs@arin.net?Subject=Member%20Privacy). You may also contact us at that address if you have any concerns about the accuracy of personally identifiable information associated with your ARIN membership, or wish to correct what we have collected from you. Contact information for where to send changes regarding your information in the ARIN WHOIS database can also be found on the "[Contact Us](https://web.archive.org/web/20051215224217id_/http%3A//arin.net/about_us/contact_us.html)" page of this website.
+> If you have any questions regarding our privacy policy or you feel that this site is not following its stated information policy, please contact the ARIN Member Services Department by e-mail to [info@arin.net](mailto:info@arin.net?Subject=Member%20Privacy). You may also contact us at that address if you have any concerns about the accuracy of personally identifiable information associated with your ARIN membership, or wish to correct what we have collected from you. Contact information for where to send changes regarding your information in the ARIN WHOIS database can also be found on the "[Contact Us](https://web.archive.org/web/20061021011304id_/http%3A//www.arin.net/about_us/contact_us.html)" page of this website.
 
 ## Consent and Changes to This Privacy Statement
 
-> Subject to the above provisions, by using our site, you consent to the collection and use of information by us in accordance with this privacy statement. If we decide to make a material change to our privacy statement or the way we use your personally identifiable information then at least thirty (30) days prior to making any material change to the Privacy Statement or in the way we use your personally identifiable information we will post such changes in this Privacy Statement, we will post notice of the nature of such change on the ARIN home page at [http://www.arin.net](https://web.archive.org/web/20051215224217id_/http%3A//arin.net/index.shtml) and on the [arin-announce mailing list](https://web.archive.org/web/20051215224217id_/http%3A//arin.net/mailing_lists/index.html). 
+> Subject to the above provisions, by using our site, you consent to the collection and use of information by us in accordance with this privacy statement. If we decide to make a material change to our privacy statement or the way we use your personally identifiable information then at least thirty (30) days prior to making any material change to the Privacy Statement or in the way we use your personally identifiable information we will post such changes in this Privacy Statement, we will post notice of the nature of such change on the ARIN home page at [http://www.arin.net](https://web.archive.org/web/20061021011304id_/http%3A//www.arin.net/index.shtml) and on the [arin-announce mailing list](https://web.archive.org/web/20061021011304id_/http%3A//www.arin.net/mailing_lists/index.html). 
