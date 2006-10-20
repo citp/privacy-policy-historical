@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunhamssports.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318171629id_/http%3A//www.dunhamssports.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunhamssports.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020071143id_/http%3A//www.dunhamssports.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dprivacy) for the most accurate reproduction.*
 
 # Dunham's Sports Helpdesk
 
