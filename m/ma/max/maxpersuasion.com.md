@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxpersuasion.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615120405id_/http%3A//www.maxpersuasion.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxpersuasion.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020140518id_/http%3A//www.maxpersuasion.com/privacy.php) for the most accurate reproduction.*
 
 # Influence and Persuasion Techniques :: MaxPersuasion.com
 
