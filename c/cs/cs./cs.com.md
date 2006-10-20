@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cs.com privacy policy that was archived on 2004-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040824215036id_/http%3A//webcenters.compuserve.com/compuserve/menu/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cs.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020190705id_/http%3A//webcenters.netscape.compuserve.com/menu/privacy.jsp%3Ffloc%3DDC-footer2) for the most accurate reproduction.*
 
 # CompuServe.com
 
