@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the cruisingworld.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318171647id_/http%3A//www.cruisingworld.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisingworld.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020133819id_/http%3A//www.cruisingworld.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
 
 # Cruising World - Privacy Policy
 
 Privacy Policy
+
+May 9, 2003  
+
 
   
   
