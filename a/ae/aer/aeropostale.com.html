@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aeropostale.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615200726id_/http%3A//www.aeropostale.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbottomnav_privacy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aeropostale.com privacy policy that was archived on 2006-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061020041524id_/http%3A//www.aeropostale.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbottomnav_privacy_txt) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -77,7 +77,7 @@ function jump(url)
 }
 </script>
 
-<link rel="stylesheet" type="text/css" href="http://AERO.imageg.net/include/store.css">
+<link rel="stylesheet" type="text/css" href="/include/store.css">
 <script language="JavaScript">
 function newWindow(url) 
 {
@@ -93,6 +93,16 @@ function newWindow(url)
 </head>
 <body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" border="0">
 <a name="pageTop()"></a>
+
+
+
+<script language="JavaScript" type="text/javascript" src="/include/prototype.js"></script>
+<script language="JavaScript" type="text/javascript" src="/include/expressShop.js"></script>
+
+<script language="javascript">
+setMiniCartLen(6);
+</script>
+
 
 
 <script language="JavaScript">
@@ -118,9 +128,23 @@ function hideNavs(theDiv, theDiv2)
 <!-- shopCode = base--><br>
 <table width="780" align="center" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-	<td width="138" height="43"><a href="/home/index.jsp?clickid=topnav_logo_img"><img src="http://AERO.imageg.net/images/aero_header_logo.gif" width="138" height="28" alt="" border="0"></a></td>
-	<td width="642" align="right"><a href="https://www.aeropostale.com/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt" class="topnavlink">My Account</a> &nbsp;|&nbsp; <a href="/cartHandler/index.jsp?action=changeQuantity&amp;wlName=default&amp;clickid=topnav_wishList_txt" class="topnavlink">Wish List</a> &nbsp;|&nbsp; <a href="/helpdesk/index.jsp?clickid=topnav_help_txt" class="topnavlink">Customer Service</a> &nbsp;|&nbsp; <a href="https://www.aeropostale.com/coreg/index.jsp?step=ot&amp;clickid=topnav_track_txt" class="topnavlink">Track Order</a> &nbsp;|&nbsp; <a href="/corp/index.jsp?page=storeLocator&amp;clickid=topnav_locator_txt" class="topnavlink">Store Locator</a> &nbsp;|&nbsp; <a href="/cart/index.jsp?clickid=topnav_cart_txt" class="topnavlink"><img src="http://AERO.imageg.net/images/aero_header_cart.gif" border="0" align="absmiddle"></a> <a href="/cart/index.jsp?clickid=topnav_cart_txt" class="topnavlinkCart">Shopping Cart</a>
-	<span class="topnavlinkCart">&nbsp;(0 Items)</span></td>
+	<td width="138" height="43"><a href="http://www.aeropostale.com/home/index.jsp?clickid=topnav_logo_img"><img src="/images/aero_header_logo.gif" width="138" height="28" alt="" border="0"></a></td>
+	<td width="642" align="right"><a href="/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt" class="topnavlink">My Account</a> &nbsp;|&nbsp; <a href="http://www.aeropostale.com/cartHandler/index.jsp?action=changeQuantity&amp;wlName=default&amp;clickid=topnav_wishList_txt" class="topnavlink">Wish List</a> &nbsp;|&nbsp; <a href="http://www.aeropostale.com/helpdesk/index.jsp?clickid=topnav_help_txt" class="topnavlink">Customer Service</a> &nbsp;|&nbsp; <a href="/coreg/index.jsp?step=ot&amp;clickid=topnav_track_txt" class="topnavlink">Track Order</a> &nbsp;|&nbsp; <a href="http://www.aeropostale.com/corp/index.jsp?page=storeLocator&amp;clickid=topnav_locator_txt" class="topnavlink">Store Locator</a> &nbsp;|&nbsp; <a href="http://www.aeropostale.com/cart/index.jsp?clickid=topnav_cart_txt" class="topnavlink"><img src="/images/minicart_icon_blue.gif" border="0" align="absmiddle" id="minicart_header_icon"></a> <a href="http://www.aeropostale.com/cart/index.jsp?clickid=topnav_cart_txt" class="minicart_header_link_blue" id="shopping_cart_link">Shopping Cart</a>
+
+<span class="minicart_cart_count_blue" id="shopping_cart_count">(<span id="cartItemCount">0  Items</span>)</span>
+
+<div id="wrapper">
+<div id="frame">
+<div id="header">
+</div><!-- begin additions for minicart --> 
+<script type="text/javascript" src="/include/prototype.js"></script> 
+<script type="text/javascript" src="/include/minicart.js"></script> 
+<link rel="stylesheet" href="/include/minicart7.css"> 
+<div id="minicart" class="minicart7"></div> 
+<!-- end of minicart additions --> 
+<!-- end minicart div -->
+</div><!-- end frame div -->
+</div><!-- end wrapper div --><!-- end minicart header --></td>
 </tr>
 </tbody></table>
 <script language="JavaScript">
@@ -128,9 +152,9 @@ function hideNavs(theDiv, theDiv2)
 if (document.images)
    {
     image1on = new Image();
-	image1on.src = "http://AERO.imageg.net/images/navarrow.gif";
+	image1on.src = "/images/navarrow.gif";
 	image1off = new Image();
-	image1off.src = "http://AERO.imageg.net/images/pixel.gif";
+	image1off.src = "/images/pixel.gif";
    }
 
 function change1(picName,imgName)
@@ -145,32 +169,29 @@ function change1(picName,imgName)
 </script>
 <table align="center" width="780" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-    <td rowspan="2"><img src="http://AERO.imageg.net/images/vrule_header_l.gif" width="1" height="35" alt="" border="0"></td>
+    <td rowspan="2"><img src="/images/vrule_header_l.gif" width="1" height="35" alt="" border="0"></td>
     <td valign="top" bgcolor="#03205A">
 	<table cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
-	    <td width="419"><a href="/category/index.jsp?categoryId=2284058&amp;clickid=header_girls_button"><img src="http://AERO.imageg.net/images/nav1_girls.gif" width="83" height="32" alt="" border="0"></a>
-		<a href="/category/index.jsp?categoryId=2284059&amp;clickid=header_guys_button"><img src="http://AERO.imageg.net/images/nav1_guys.gif" width="91" height="32" alt="" border="0"></a>
-		<a href="/shop/index.jsp?categoryId=1988400&amp;clickid=header_giftcenter_button"><img src="http://AERO.imageg.net/images/nav1_giftcenter.gif" width="129" height="32" alt="" border="0"></a></td>
-	    <td align="right" width="361"><img src="http://AERO.imageg.net/images/enterstyle.gif" width="133" height="10" alt="" border="0" align="absmiddle">
-		<form action="/searchHandler/index.jsp" name="search" style="margin:0px;display:inline;"><input type="text" size="17" name="keywords" style="font-size:10px;"><input type="image" src="http://AERO.imageg.net/images/new_search.gif" border="0" align="absmiddle" name="">
+	    <td width="419"><a href="http://www.aeropostale.com/category/index.jsp?categoryId=2284058&amp;clickid=header_girls_button"><img src="/images/nav1_girls.gif" width="83" height="32" alt="" border="0"></a>
+		<a href="http://www.aeropostale.com/category/index.jsp?categoryId=2284059&amp;clickid=header_guys_button"><img src="/images/nav1_guys.gif" width="91" height="32" alt="" border="0"></a>
+		<a href="http://www.aeropostale.com/shop/index.jsp?categoryId=1988400&amp;clickid=header_giftcenter_button"><img src="/images/nav1_giftcenter.gif" width="129" height="32" alt="" border="0"></a></td>
+	    <td align="right" width="361"><img src="/images/enterstyle.gif" width="133" height="10" alt="" border="0" align="absmiddle">
+		<form action="http://www.aeropostale.com/searchHandler/index.jsp" name="search" style="margin:0px;display:inline;"><input type="text" size="17" name="keywords" style="font-size:10px;"><input type="image" src="/images/new_search.gif" border="0" align="absmiddle" name="">
 		 </form>
 		</td>
 	</tr>
 	</tbody></table>
 	</td>
-    <td rowspan="2"><img src="http://AERO.imageg.net/images/vrule_header_r.gif" width="1" height="35" alt="" border="0"></td>
+    <td rowspan="2"><img src="/images/vrule_header_r.gif" width="1" height="35" alt="" border="0"></td>
 </tr>
 <tr>
-    <td><img src="http://AERO.imageg.net/images/hrule_header.gif" width="778" height="3" alt="" border="0"></td>
+    <td><img src="/images/hrule_header.gif" width="778" height="3" alt="" border="0"></td>
 </tr>
 <tr>
-    <td><img src="http://AERO.imageg.net/images/pixel.gif" width="1" height="5" alt="" border="0"></td>
+    <td><img src="/images/pixel.gif" width="1" height="5" alt="" border="0"></td>
 </tr>
 </tbody></table>
-
-
-
 
 
 <table width="780" border="0" cellpadding="0" cellspacing="0" align="center">
@@ -178,17 +199,17 @@ function change1(picName,imgName)
 </table> 
 <table border="0" width="780" cellpadding="0" cellspacing="0" align="center">
 <tbody><tr>
-	<td width="3"><img src="http://AERO.imageg.net/images/aero_family_topleft_corner.gif" width="3"></td>
-	<td width="774"><img src="http://AERO.imageg.net/images/aero_family_topline.gif" width="774" height="4"></td>
-	<td width="3"><img src="http://AERO.imageg.net/images/aero_family_topright_corner.gif" width="3"></td>
+	<td width="3"><img src="/images/aero_family_topleft_corner.gif" width="3"></td>
+	<td width="774"><img src="/images/aero_family_topline.gif" width="774" height="4"></td>
+	<td width="3"><img src="/images/aero_family_topright_corner.gif" width="3"></td>
 </tr>
 <tr>
-	<td width="3" background="http://AERO.imageg.net/images/aero_family_sideline_left.gif"><img src="http://AERO.imageg.net/images/pixel.gif" width="3"></td>
-	<td class="breadcrumb" height="36" valign="bottom">&nbsp;&nbsp;<a href="/home/index.jsp" class="breadcrumb">Return to Shopping</a> &nbsp;|&nbsp; <a href="/helpdesk/index.jsp" class="breadcrumb">Customer Service</a><br><img src="http://AERO.imageg.net/images/hd_dots.gif" width="759" height="7" vspace="6" hspace="3" border="0"></td>
-	<td width="3" background="http://AERO.imageg.net/images/aero_family_sideline_right.gif"><img src="http://AERO.imageg.net/images/pixel.gif" width="3"></td>
+	<td width="3" background="/images/aero_family_sideline_left.gif"><img src="/images/pixel.gif" width="3"></td>
+	<td class="breadcrumb" height="36" valign="bottom">&nbsp;&nbsp;<a href="http://www.aeropostale.com/home/index.jsp" class="breadcrumb">Return to Shopping</a> &nbsp;|&nbsp; <a href="http://www.aeropostale.com/helpdesk/index.jsp" class="breadcrumb">Customer Service</a><br><img src="/images/hd_dots.gif" width="759" height="7" vspace="6" hspace="3" border="0"></td>
+	<td width="3" background="/images/aero_family_sideline_right.gif"><img src="/images/pixel.gif" width="3"></td>
 </tr>
 <tr>
-	<td width="3" background="http://AERO.imageg.net/images/aero_family_sideline_left.gif"><img src="http://AERO.imageg.net/images/pixel.gif" width="3"></td>
+	<td width="3" background="/images/aero_family_sideline_left.gif"><img src="/images/pixel.gif" width="3"></td>
 	<td width="774" valign="top">
 <!-- *********************************** STOREMAN HELPDESK STARTS************************************** -->
 
@@ -215,7 +236,7 @@ function change1(picName,imgName)
 						
 							<td valign="top">
 					
-		            	<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="hd_pagelink">Secure Shopping Guarantee</a>
+		            	<a href="http://www.aeropostale.com/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="hd_pagelink">Secure Shopping Guarantee</a>
 						
 							
 							<br><img src="/images/pixel.gif" width="1" height="3"><br></td>
@@ -228,7 +249,7 @@ function change1(picName,imgName)
 						
 							<td valign="top">
 					
-		            	<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="hd_pagelink">Terms &amp; Conditions</a>
+		            	<a href="http://www.aeropostale.com/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="hd_pagelink">Terms &amp; Conditions</a>
 						
 							
 							<br><img src="/images/pixel.gif" width="1" height="3"><br></td>
@@ -241,7 +262,7 @@ function change1(picName,imgName)
 						
 							<td valign="top">
 					
-		            	<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="hd_pagelink">Privacy Policy</a>
+		            	<a href="http://www.aeropostale.com/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="hd_pagelink">Privacy Policy</a>
 						
 							
 							<br><img src="/images/pixel.gif" width="1" height="3"><br></td>
@@ -252,7 +273,7 @@ function change1(picName,imgName)
 						
 								<td valign="top">
 								
-									<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard&amp;topic=securecode" class="hd_pagelink">MasterCard SecureCode</a>
+									<a href="http://www.aeropostale.com/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard&amp;topic=securecode" class="hd_pagelink">MasterCard SecureCode</a>
 								
 							<br></td>
 							</tr>
@@ -262,7 +283,7 @@ function change1(picName,imgName)
 						
 								<td valign="top">
 								
-									<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=vbv&amp;topic=vbv" class="hd_pagelink">Verified by Visa</a>
+									<a href="http://www.aeropostale.com/helpdesk/index.jsp?display=safety&amp;subdisplay=vbv&amp;topic=vbv" class="hd_pagelink">Verified by Visa</a>
 									
 							<br></td>
 							</tr>
@@ -270,7 +291,7 @@ function change1(picName,imgName)
 		<td height="18" colspan="2">&nbsp;&nbsp;&nbsp;</td>
 	</tr>
 	</tbody></table></td>
-<td width="7" background="http://AERO.imageg.net/images/hd_dots_vert.gif" align="center" valign="top">
+<td width="7" background="/images/hd_dots_vert.gif" align="center" valign="top">
 	</td>
 	
 	
@@ -365,13 +386,13 @@ We reserve the right to modify this Privacy Policy at any time. If we modify thi
 </tbody></table>
 				
 <!-- *********************************** STOREMAN HELPDESK ENDS**********************************--></td>
-	<td width="3" background="http://AERO.imageg.net/images/aero_family_sideline_right.gif"><img src="http://AERO.imageg.net/images/pixel.gif" width="3"></td>
+	<td width="3" background="/images/aero_family_sideline_right.gif"><img src="/images/pixel.gif" width="3"></td>
 </tr>
 <tr>
-	<td colspan="3"><img src="http://AERO.imageg.net/images/aero_family_bottom_line.gif" width="780"></td>
+	<td colspan="3"><img src="/images/aero_family_bottom_line.gif" width="780"></td>
 </tr>
 <tr>
-	<td colspan="3"><img src="http://AERO.imageg.net/images/pixel.gif" width="1" height="14"></td>
+	<td colspan="3"><img src="/images/pixel.gif" width="1" height="14"></td>
 </tr>
 </tbody></table>
 <script language="JavaScript">
@@ -391,6 +412,7 @@ function newWindowEmail(url) {
 <span class="copyright">© Aéropostale 2006.  All rights reserved.</span></td>
 </tr>
 </tbody></table>
+
 
 
 
