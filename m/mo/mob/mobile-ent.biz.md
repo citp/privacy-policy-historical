@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobile-ent.biz privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619162154id_/http%3A//mobile-ent.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile-ent.biz privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020130426id_/http%3A//mobile-ent.biz/privacy.php) for the most accurate reproduction.*
 
 # Mobile Entertainment: Privacy and Cookies
 
