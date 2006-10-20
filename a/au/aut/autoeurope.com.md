@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoeurope.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628000814id_/http%3A//www.autoeurope.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoeurope.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021013559id_/http%3A//www.autoeurope.com/privacy.cfm) for the most accurate reproduction.*
 
 # Auto Europe Privacy Policy Description
 
@@ -43,4 +43,6 @@ If you are having trouble reading our email travel newsletter, this will allow y
 * * *
 
 [**Opt-In/Opt-Out**](https://web.archive.org/opt_out.cfm)  
-You can use this form to specify whether we may share your personal information with others. 
+You can use this form to specify whether we may share your personal information with others.   
+  
+[About SSL Certificates](http://www.verisign.com/ssl/ssl-information-center/)
