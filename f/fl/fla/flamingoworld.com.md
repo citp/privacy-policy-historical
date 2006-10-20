@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the flamingoworld.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204102333id_/http%3A//www.flamingoworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingoworld.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020145613id_/http%3A//www.flamingoworld.com/privacy) for the most accurate reproduction.*
 
-# Free Online Coupons and Coupon Codes, Discounts and Sales at FlamingoWorld.com
-
-**Effective February 18, 2004**
-
-**Our Privacy Policy**   
-
+# FlamingoWorld.com Privacy Policy
 
 FlamingoWorld.com (http://www.flamingoworld.com) is committed to protecting and respecting your privacy. This Privacy Statement sets out our privacy policy and explains what we do with the personal information that we collect from our users. Please read the following to understand our views and practices regarding personal information, and how they pertain to you as you use our various features and services. This statement discloses the current privacy practices for our Web sites.  
 There are no legal disclaimer statements (i.e., terms and conditions, etc.) on FlamingoWorld that contradict the promises made in our privacy notice.   
@@ -31,10 +26,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 
 Our newsletters include a link at the bottom to click on to automatically unsubscribe you.  
-To opt out of our Forums and Emails, log in to your account here:  
-
-
-http://www.flamingoworld.com/forum/login.php and in your main configuration area you have the option to opt out and or unsubscribe at any time.
+To opt out of our Forums and Emails, [log in to your account here](http://www.flamingoworld.com/forum/login.php) and in your main configuration area you have the option to opt out and or unsubscribe at any time.
 
 **Will We Disclose Any of Your Personal Information?**   
 flamingoworld.com will not sell or rent your personally identifiable information to anyone. We do not provide individual information to our advertisers. We will occassionally provide general demographic information of our site to perspective advertisers. For example, we might tell our advertiser that out of our 100,000 subscribers, 20,000 of which are female living in San Francisco. The advertiser will never know that Mary is one of them and she is a female lives in San Francisco.   
@@ -47,7 +39,7 @@ We will only disclose your personal information when:
 
 
 **What If I Link to a Third-Party Web Site?**   
-This site contains links to other sites. flamingoworld.com is not responsible for the privacy practices or the content of such Web sites, although we do try to only place links to sites that have privacy notices.  
+This site contains links to other sites. FlamingoWorld.com is not responsible for the privacy practices or the content of such Web sites, although we do try to only place links to sites that have privacy notices.  
 When you click on links and/or ad banners that take you to third-party web sites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, FlamingoWorld.com cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any web site. 
 
 **Our Commitment To Data Security**   
@@ -57,7 +49,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
 **How You Can Access Or Correct Your Information**  
-You can access to review all your personally identifiable information that we collect online and maintain by logging in to your account at http://www.flamingoworld.com/forum/login.php. We use this procedure to better safeguard your information. 
+You can access to review all your personally identifiable information that we collect online and maintain by [logging in to your account](http://www.flamingoworld.com/forum/login.php). We use this procedure to better safeguard your information. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
