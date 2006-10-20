@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the arkivmusic.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417113945id_/http%3A//www.arkivmusic.com/classical/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkivmusic.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020032411id_/http%3A//www.arkivmusic.com/classical/privacy.jsp) for the most accurate reproduction.*
 
 # ArkivMusic | Privacy Policy
 
-**Please Note: By visiting and using the website at**[www.ArkivMusic.com](https://web.archive.org/web/20060417113945id_/http%3A//www.arkivmusic.com/classical/main.jsp;jsessionid=4933A66D5F528E2255602A59B159CC54) **, you are accepting the privacy policies contained in this notification.**
+**Please Note: By visiting and using the website at**[www.ArkivMusic.com](https://web.archive.org/web/20061020032411id_/http%3A//www.arkivmusic.com/classical/main.jsp) **, you are accepting the privacy policies contained in this notification.**
 
 At ArkivMusic.com, we are absolutely committed to protecting every customer's privacy. The information we gather on our website is used to process orders and to provide our customers with an optimal shopping experience. In the future, we may collect general demographic information to help us make decisions about product offerings and to enhance our marketing efforts. **We will not share any personal customer information with any entity outside of ArkivMusic for marketing or business purposes.** We would only share personal information about a customer if we were required by law enforcement or regulatory agencies. 
 
@@ -21,4 +21,4 @@ ArkivMusic.com does not sell products to children. If you are under 18 years old
 
 Customer Consent & Published Updates
 
-If you choose to visit ArkivMusic, you are agreeing to the standards set forth in this Privacy Policy document and in the [ArkivMusic Terms & Conditions](https://web.archive.org/web/20060417113945id_/http%3A//www.arkivmusic.com/classical/terms.jsp;jsessionid=4933A66D5F528E2255602A59B159CC54) document. From time to time we may make updates to these documents, which will be accessible from the Privacy Policy and/or the Terms & Conditions links on the bottom of the ArkivMusic home page. If you have any questions or concerns regarding the ArkivMusic Privacy Policy or Terms & Conditions, please contact us at [feedback@arkivmusic.com](mailto:feedback@arkivmusic.com). 
+If you choose to visit ArkivMusic, you are agreeing to the standards set forth in this Privacy Policy document and in the [ArkivMusic Terms & Conditions](https://web.archive.org/web/20061020032411id_/http%3A//www.arkivmusic.com/classical/terms.jsp) document. From time to time we may make updates to these documents, which will be accessible from the Privacy Policy and/or the Terms & Conditions links on the bottom of the ArkivMusic home page. If you have any questions or concerns regarding the ArkivMusic Privacy Policy or Terms & Conditions, please contact us at [feedback@arkivmusic.com](mailto:feedback@arkivmusic.com). 
