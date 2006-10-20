@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcsearch.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622183823id_/http%3A//www.abcsearch.com/w4/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsearch.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021004410id_/http%3A//www.abcsearch.com/w4/privacy_policy.html) for the most accurate reproduction.*
 
 # ABCSearch - Privacy Policy
 
