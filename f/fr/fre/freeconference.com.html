@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freeconference.com privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616192624id_/http%3A//www.freeconference.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeconference.com privacy policy that was archived on 2006-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061020212828id_/http%3A//www.freeconference.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -80,15 +80,12 @@
 <div id="divTopLeftNav">
    <div id="divLeftNavLogo"><a href="Home.aspx"><div id="divLeftNavLogoLink"></div></a></div>
 
-   <ul id="ulTopLeftNav" class="TopLeftNav">
+   <ul id="ulTopLeftNav" class="TopLeftNav TopLeftNavLoggedIn">
       <li class="TopLeftNav"><a href="Home.aspx" class="LeftNav" onmouseover="window.status='Home page'; return true;" onmouseout="window.status=''; return true;">HOME</a></li>
 
 
-      <li class="TopLeftNav"><a href="https://www.freeconference.com/Login.aspx" class="LeftNav" onmouseover="window.status='Log In'; return true;" onmouseout="window.status=''; return true;">LOG IN</a></li>
+      <li class="TopLeftNav"><a href="LogOut.aspx" class="LeftNav">LOG OUT</a></li>
 
-      
-         <li class="TopLeftNav"><a href="SignUp.aspx" class="LeftNav" onmouseover="window.status='Sign up to use our Web-Scheduled service'; return true;" onmouseout="window.status=''; return true;">SIGN UP</a></li>
-      
 
       <li class="TopLeftNav"><a href="Services.aspx" class="LeftNav">OUR SERVICES</a></li>
 
@@ -116,14 +113,20 @@
 </div><!-- divBottomLeftNav -->
 
 
-         <!-- LOGGED OUT TOP NAV -->
-         <div id="divTopNavLoggedOut">
-            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=3,0,0,0" width="590" height="64">
-               <param name="movie" value="Images/Default/marquee2.swf?%3cp+align%3d%22center%22%3e%3cfont+face%3d%22Georgia%22%3eBased+in+Europe%3f+Visit+our+sister+site+%3ca+href%3d%22http%3a%2f%2fwww.10pConference.co.uk%2f%22%3e%3cfont+color%3d%22%23990000%22%3e%3cu%3ewww.10pConference.co.uk%3c%2fu%3e%3c%2ffont%3e%3c%2fa%3e%3c%2ffont%3e%3c%2fp%3e%7c%3cp+align%3d%22center%22%3e%3cfont+face%3d%22Georgia%22%3eIn+Germany%2c+visit+our+sister+site+%3ca+href%3d%22http%3a%2f%2fwww.freiekonferenz.com%2f%22%3e%3cfont+color%3d%22%23990000%22%3e%3cu%3ewww.freiekonferenz.com%3c%2fu%3e%3c%2ffont%3e%3c%2fa%3e%3c%2ffont%3e%3c%2fp%3e%7c%3cp+align%3d%22center%22%3e%3ca+href%3d%22IsItFree.asp%22%3e%3cfont+face%3d%22Georgia%22+color%3d%22%23990000%22%3e%3cu%3eLearn+how+our+conference+call+services+are+free%3c%2fu%3e%3c%2ffont%3e%3c%2fa%3e%3c%2fp%3e">
-               <param name="quality" value="high">
-               <embed src="Images/Default/marquee2.swf?%3cp+align%3d%22center%22%3e%3cfont+face%3d%22Georgia%22%3eBased+in+Europe%3f+Visit+our+sister+site+%3ca+href%3d%22http%3a%2f%2fwww.10pConference.co.uk%2f%22%3e%3cfont+color%3d%22%23990000%22%3e%3cu%3ewww.10pConference.co.uk%3c%2fu%3e%3c%2ffont%3e%3c%2fa%3e%3c%2ffont%3e%3c%2fp%3e%7c%3cp+align%3d%22center%22%3e%3cfont+face%3d%22Georgia%22%3eIn+Germany%2c+visit+our+sister+site+%3ca+href%3d%22http%3a%2f%2fwww.freiekonferenz.com%2f%22%3e%3cfont+color%3d%22%23990000%22%3e%3cu%3ewww.freiekonferenz.com%3c%2fu%3e%3c%2ffont%3e%3c%2fa%3e%3c%2ffont%3e%3c%2fp%3e%7c%3cp+align%3d%22center%22%3e%3ca+href%3d%22IsItFree.asp%22%3e%3cfont+face%3d%22Georgia%22+color%3d%22%23990000%22%3e%3cu%3eLearn+how+our+conference+call+services+are+free%3c%2fu%3e%3c%2ffont%3e%3c%2fa%3e%3c%2fp%3e" quality="high" bgcolor="#000000" width="590" height="64" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"> 
-            </object>
-         </div>
+         <!-- LOGGED IN TOP NAV -->
+         <div id="divTopNavLoggedIn">
+            <div class="TNTop" id="divTNTop"></div>
+            <div class="TNButton" id="divTNLeftEdge"></div>
+            <div class="TNRollover" id="divTNAccount"><a href="Account.aspx"></a></div>
+            <div class="TNRollover" id="divTNManage"><a href="ConfMgr.aspx"></a></div>
+            <div class="TNRollover" id="divTNSchedule"><a href="NewConfMain.aspx"></a></div>
+            <div class="TNRollover" id="divTNContacts"><a href="PhoneBookMain.aspx"></a></div>
+            <div class="TNRollover" id="divTNSettings"><a href="Settings.aspx"></a></div>
+            <div class="TNRollover" id="divTNHelp"><a href="FAQ.aspx"></a></div>
+            <div class="TNRollover" id="divTNLogout"><a href="Logout.aspx"></a></div>
+            <div class="TNRollover" id="divTNHome"><a href="Home.aspx"></a></div>
+            <div class="TNButton" id="divTNRightEdge"></div>
+         </div><!-- TopNav -->
 
 
 <script type="text/JavaScript">
