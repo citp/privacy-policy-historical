@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanduskyregister.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509032731id_/http%3A//www.sanduskyregister.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanduskyregister.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020145742id_/http%3A//www.sanduskyregister.com/privacy) for the most accurate reproduction.*
 
 # Sandusky Register | Online Edition
 
