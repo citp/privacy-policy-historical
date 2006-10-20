@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphaimports.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023752id_/http%3A//www.alphaimports.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphaimports.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020041246id_/http%3A//www.alphaimports.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Alphaimports.com, Lowest prices on the planet! . Largest Gem Show on the Earth!
 
