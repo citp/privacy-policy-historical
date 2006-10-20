@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2006-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060505011704id_/http%3A//www.rpgamer.com/header/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020200800id_/http%3A//www.rpgamer.com/header/privacy.html) for the most accurate reproduction.*
 
 # RPGamer > Privacy & User Policies
 
@@ -53,6 +53,7 @@ RPGamer uses the resources of a third party company in order to serve targeted a
 
 RPGamer is affiliated with a number of third party companies in order to provide information about and access to products that relate to our content. Any sales provided to these companies through our affiliate network provide a monetary return to RPGamer that will be used to help maintain our website. Our affiliates include but are not limited to the following:
 
+  * Anime Books
   * Anime Nation
   * Game Music Online
   * Play Asia
