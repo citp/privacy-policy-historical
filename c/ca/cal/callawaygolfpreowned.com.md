@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the callawaygolfpreowned.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319042812id_/http%3A//callawaygolfpreowned.com/content.aspx%3Fpid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callawaygolfpreowned.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020090842id_/http%3A//callawaygolfpreowned.com/content.aspx%3Fpid%3Dprivacy) for the most accurate reproduction.*
 
-# Callaway Golf Pre-Owned & Outlet Official Site: Used Golf Clubs, Drivers, Fairway Woods, Iron Sets, Individual Irons, Wedges, Putters, Juniors
+# Callaway Golf Pre-Owned & Outlet: content
 
 **More:** [UK Privacy Policy](https://web.archive.org/content.aspx?pid=privacy-uk)
 
