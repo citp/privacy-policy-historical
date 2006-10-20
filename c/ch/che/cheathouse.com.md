@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheathouse.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317030005id_/http%3A//www.cheathouse.com/page.php%3Fid%3Dprivacy%26PHPSESSID%3D356121dbbe362055054d24e662aea113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheathouse.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020023932id_/http%3A//www.cheathouse.com/page.php%3Fid%3Dprivacy%26PHPSESSID%3D4148ad049bcda91e6b4398e7178a694c) for the most accurate reproduction.*
 
 # Free Custom Essay Writing, Student Term & Research Papers Online, Privacy - Cheat House
 
