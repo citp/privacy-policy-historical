@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616050251id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020235418id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - BBB Member
 
@@ -16,3 +16,6 @@ At Debt Consolidation care, we recognize and respect the importance of maintaini
 For example, we may provide a feature on our web site as a service or as a convenience for our users. We may (with activation by you) send a cookie (a small data file) to your hard disk. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
 
 Debt Consolidation care uses your personal information solely to assist you. All information received from this site is stored in a secure database. So far so, that if an individual does not sign up for our program, we destroy any personal information they have sent us. We do not sell contact information to other parties or agencies.
+
+  
+
