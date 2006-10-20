@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forrent.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314053721id_/http%3A//www.forrent.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forrent.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020112104id_/http%3A//www.forrent.com/privacy.asp) for the most accurate reproduction.*
 
 # Apartments For Rent:: Search Thousands of Apartment Communities Nationwide!
 
@@ -62,4 +62,11 @@ If you have further questions that were not addressed in the above privacy polic
 ---  
   
   
+  
+  
+**© 2006 Dominion Enterprises, All Rights Reserved.**  
+[Copyright](http://www.forrent.com/legal.asp) | [Privacy Policy](http://www.forrent.com/privacy.asp) | [Fraud Prevention Tips](http://www.traderonline.com/anti-fraud-tips.html) | [Visitor Agreement](http://www.forrent.com/visitoragreement.asp)  
+Equal Opportunity Housing
 
+ForRent.com, Dominion Enterprises, Property Managers, Owners and paid advertisers  
+are not responsible for typographical errors. Prices subject to change without notice. 
