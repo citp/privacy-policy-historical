@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotnetpanel.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616002202id_/http%3A//dotnetpanel.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnetpanel.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020020727id_/http%3A//www.dotnetpanel.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # DotNetPanel - The Hosting Management Portal
 
