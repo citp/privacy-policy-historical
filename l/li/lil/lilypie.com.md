@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2006-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060327071341id_/http%3A//lilypie.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020145808id_/http%3A//lilypie.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Lilypie: Privacy Policy
 
-|   |  | [](https://web.archive.org/index.html) |  [Create Baby days](https://web.archive.org/create_baby_days.php "Customise your free baby graphic")| [Baby & Kids Birthday](https://web.archive.org/first_birthday.php "Customise your free baby birthday graphic")| [Baby Wishlist](https://web.archive.org/web/20060327071341id_/http%3A//lilypie.com/wishlist.php "Baby Gift Registry")
+|   |  | [](https://web.archive.org/index.html) |  [Create Baby days](https://web.archive.org/create_baby_days.php "Customise your free baby graphic")| [Baby & Kids Birthday](https://web.archive.org/first_birthday.php "Customise your free baby birthday graphic")| [Baby Wishlist](https://web.archive.org/web/20061020145808id_/http%3A//lilypie.com/wishlist.php "Baby Gift Registry")
 
 [Home](https://web.archive.org/index.html "Home page")| [Newsletter](https://web.archive.org/mailing_list.php "Join free Lilypie mailing list")| [Help](https://web.archive.org/FAQ_0.html "Answers to Frequently Asked Questions")| [Contact](https://web.archive.org/contact.php "Send email to Amanda Crichton")| [Site Map](https://web.archive.org/site_map.php "Guide to all pages on Lilypie")|
 
-[](http://lilypie.com/privacy_policy.php)  [](http://de.lilypie.com/privacy_policy.php)  [](http://es.lilypie.com/privacy_policy.php)  [](http://nl.lilypie.com/privacy_policy.php)  
+[](http://lilypie.com/privacy_policy.php)  [](http://de.lilypie.com/privacy_policy.php)  [](http://es.lilypie.com/privacy_policy.php)  [](http://fr.lilypie.com/privacy_policy.php)  [](http://it.lilypie.com/privacy_policy.php)  [](http://nl.lilypie.com/privacy_policy.php)  
   
 ---|---  
   
