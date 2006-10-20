@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k12albemarle.org privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620194617id_/http%3A//www.k12albemarle.org/NewHome/NewPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12albemarle.org privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020123211id_/http%3A//www.k12albemarle.org/NewHome/NewPages/privacy.htm) for the most accurate reproduction.*
 
 # Albemarle County Public Schools - Privacy Statement
 
