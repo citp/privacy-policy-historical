@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sewmamasew.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508135635id_/http%3A//www.sewmamasew.com/shop/index.php/action/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sewmamasew.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021011923id_/http%3A//www.sewmamasew.com/shop/index.php/action/privacy_notice) for the most accurate reproduction.*
 
 # Sew Mama Sew - Privacy Notice
 
