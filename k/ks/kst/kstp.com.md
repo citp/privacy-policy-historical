@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kstp.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629220914id_/http%3A//kstp.com/article/stories/s277.html%3Fcat%3D63) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kstp.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020101401id_/http%3A//kstp.com/article/stories/s277.html%3Fcat%3D63) for the most accurate reproduction.*
 
 # 5 EYEWITNESS NEWS Privacy Policy
 
