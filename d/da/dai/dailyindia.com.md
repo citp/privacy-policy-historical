@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the dailyindia.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403162000id_/http%3A//www.dailyindia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyindia.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021212828id_/http%3A//www.dailyindia.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# DailyIndia.com Privacy Policy
 
-**DailyIndia.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: dailyindia.com.
+  
+DailyIndia.com (the "Site") believes in protecting your personally identifiable information, while also offering you a high quality experience with this Site. 
 
-**Personal Information**  
-Your privacy is important at dailyindia.com and we regard all personal information collected from visitors and subscribers as completely confidential. This includes personal data provided during any subscription registration or answering polls/surveys. dailyindia.com may use these information solely for internal purposes and will not sell, loan or share these information with any third party for whatever purpose.If you choose to give us personal information via the Internet, we will keep that information private unless expressly stated otherwise. We do keep track of the domains from which people visit us. We analyze this data solely for trends and statistics research.
+**Information Sharing**  
+We do not rent, sell, or share your personal information with any third party. We may bring you selected offers from third parties, but all such offers shall be transmitted from the Site, and the third party shall not have access to your personal information. 
 
-**Advertisers**  
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+**Cookies  
+**We may set cookies on your computers. Cookies are small computer files set on your computer that can store, and sometimes track, information about you. You can, of course, disable cookies on your browser, but you may be required to re-enter information onto the Site. The Site set cookies do not contain personally identifiable information. 
 
-**Public Forums**  
-This site makes discussion boards available to its users. Please remember that any information that is disclosed in these or any other areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+**Advertisements**  
+In order to continue to bring you the site for free we place advertising on our web pages. Some of these advertisements, if clicked upon, may contain cookies, collect information, such as your IP address and domain type. You should consult the privacy policies of any advertisers with respect to their information gathering practices.
 
-**External Links**  
-This site contains links to other sites, and as such dailyindia.com is not responsible for the privacy practices or the content of such Web sites. 
+**Links**  
+This Site cotains third party content or services from other websites and may be available to you from a link provided by the Site. Any links or other websites not affiliated with the Site are not subject to this privacy policy.  You should review the terms of use in the privacy policy at any third party's website to determine how that site protects your privacy.  This Site is in no way whatsoever responsible for the content of third party websites or actions of any third parties.
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at  
-[contact@dailyindia.com](mailto:contact@newsbug.net)
+**Updating**  
+We reserve the right to update this policy at any time.
