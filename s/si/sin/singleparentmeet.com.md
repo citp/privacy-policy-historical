@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the singleparentmeet.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317081805id_/http%3A//www.singleparentmeet.com/privacy/%3Fa%3Durl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singleparentmeet.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021071308id_/http%3A//www.singleparentmeet.com/privacy/%3Fa%3Durl) for the most accurate reproduction.*
 
-# SingleParentMeet.com - The Single Parents Network - 03/17/2006
+# SingleParentMeet.com - The Single Parents Network - 10/21/2006
 
 |  |  |   
 ---  
