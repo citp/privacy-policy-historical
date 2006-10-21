@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the scenedaily.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615052716id_/http%3A//www.scenedaily.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenedaily.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022011256id_/http%3A//www.scenedaily.com/privacy_policy.html) for the most accurate reproduction.*
 
-# SCENE Daily: About Us: Bios
+# About Us: Bios
+
+  
+| 
+
+Covering NASCAR Nextel Cup, Busch and Craftsman Truck Series
+
+|   
+---|---  
+  
+  
+  
+
 
 ### Privacy Policy
 
