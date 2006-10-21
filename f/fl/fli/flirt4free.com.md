@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flirt4free.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510121810id_/http%3A//www.flirt4free.com/privacy.php%3Fservice%3Dgirls%26mp_code%3D0000%26source_code%3Ddefault%26PHPSESSID%3D195ad14cbee6d8251713c88bd6ecf180) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirt4free.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021091025id_/http%3A//www.flirt4free.com/privacy.php%3Fservice%3Dgirls%26mp_code%3D0000%26source_code%3Ddefault%26PHPSESSID%3D5aae98993df0c377006e4053750489b3) for the most accurate reproduction.*
 
 # Flirt 4 Free : Live Adult Chat
 
-|  |  [](https://web.archive.org/vip/preview.php?service=girls&mp_code=0000&source_code=default&PHPSESSID=195ad14cbee6d8251713c88bd6ecf180) |   
+|  |  [](https://web.archive.org/vip/preview.php?service=girls&mp_code=0000&source_code=default&PHPSESSID=5aae98993df0c377006e4053750489b3) |   
 ---  
 |   
 ---  
@@ -50,7 +50,7 @@ What Information Can I Access?
 
 Flirt 4 Free gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves. 
 
-  * [Your Account](https://web.archive.org/my-account/?service=girls&mp_code=0000&source_code=default&PHPSESSID=195ad14cbee6d8251713c88bd6ecf180)
+  * [Your Account](https://web.archive.org/my-account/?service=girls&mp_code=0000&source_code=default&PHPSESSID=5aae98993df0c377006e4053750489b3)
 
 What Choices Do I Have?
 
