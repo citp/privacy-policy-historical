@@ -1,11 +1,16 @@
-> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615074524id_/http%3A//www.igigi.com/plus-size-clothing/_priv_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igigi.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021202959id_/http%3A//www.igigi.com/sidepages/main.cfm%3Fpagename%3Dpopups/static/privacy%26pagetitle%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
-# Privacy Policy: Sexy Plus Size Clothing by IGIGI
+# Sexy Plus Size Clothing by Igigi: Privacy Policy
 
-|   
+|  |  |   
 ---  
-| |  |   
-    |  |   
+[Home](http://www.igigi.com/) » Privacy Policy   
+|  |  | 
+
+Privacy Policy
+
+  
+  
 |  This Web site (this "Site") is operated by IGIGI, Inc. We recognize that privacy is a major concern for our customers (“customers”) and we respect your privacy. This Privacy Policy is to advise you how we will and will not disclose the information provided to us through this Site. If you have any questions about our Privacy Policy, contact us at [Customer Service](http://www.igigi.com/about/cont/). If elements of our Privacy Policy change, we will post them here. This Privacy Policy applies to all information obtained through this Site.  
 [back to top](http://www.igigi.com/page/100/CTGY/_priv_policy#top)  
 ---  
@@ -59,7 +64,4 @@ The Site contains links to other sites that are not under our control nor covere
 
 [back to top](http://www.igigi.com/page/100/CTGY/_priv_policy#top)
 
- _(last updated March 2006)_  
-  
-|   
-  |   |  
+ _(last updated March 2006)_
