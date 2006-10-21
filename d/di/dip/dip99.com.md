@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dip99.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617155006id_/http%3A//dip99.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dip99.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021045041id_/http%3A//dip99.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Dip99.com Search Engine - Privacy Policy
 
