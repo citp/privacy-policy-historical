@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rivals.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506101511id_/http%3A//www.rivals.com/content.asp%3FCID%3D47698) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivals.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021025555id_/http%3A//www.rivals.com/content.asp%3FCID%3D47698) for the most accurate reproduction.*
 
 # Rivals.com - Privacy Policy
 
