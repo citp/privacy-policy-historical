@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vht.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629142301id_/http%3A//www.vht.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vht.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021050344id_/http%3A//www.vht.com/privacy.asp) for the most accurate reproduction.*
 
-# VHT - Privacy - Photography, 360 Degree Virtual Panoramic Tours, Video Production
+# VHT - Real Estate Photography, Virtual Tours, 360 Images, Video Production
 
 |  |  |  | 
 
@@ -32,11 +32,11 @@ If you decide to order products and services from us, we will collect Personal I
 
 **Other Information.**
 
-You may decide to share other information ("Other Information") with us about yourself (for example, types of properties usually listed, preferred tour types, assistant's name, etc.)  If you share Other Information with us, we will use it to automatically record your tour preferences in orders that you make, tailor your experience at our site to your interests and make more appropriate product recommendations to you. You may still use our site to search for and purchase services even if you choose not to share this type of information with us. 
+You may decide to share other information ("Other Information") with us about yourself (for example, types of properties usually listed, preferred tour types, assistant's name, etc.) If you share Other Information with us, we will use it to automatically record your tour preferences in orders that you make, tailor your experience at our site to your interests and make more appropriate product recommendations to you. You may still use our site to search for and purchase services even if you choose not to share this type of information with us. 
 
 **Opt-out.**
 
-As part of the registration process, we give you two important choices ("opt-out") about advertisements, updates and promotions. We hope you will find these items interesting and informative. In fact, we will use the information you tell us about your preferences to share customized advertisements, updates and promotions.  Nonetheless, you will let us know if you do not want us to use your e-mail addresses to deliver to you: specials, promotions, contests, sweepstakes and other opportunities available on our site; and/or (2) our newsletters highlighting your customer broker programs and specials, promotions, contests, sweepstakes and other opportunities available on our site. If you do not opt-out from receiving these communications about our site, we will send them to you. Of course, if you do not opt-out during registration, but later change your mind, you can visit us online or call us to tell us that you would like to "opt-out" of and stop receiving either or both of these communications.
+As part of the registration process, we give you two important choices ("opt-out") about advertisements, updates and promotions. We hope you will find these items interesting and informative. In fact, we will use the information you tell us about your preferences to share customized advertisements, updates and promotions. Nonetheless, you will let us know if you do not want us to use your e-mail addresses to deliver to you: specials, promotions, contests, sweepstakes and other opportunities available on our site; and/or (2) our newsletters highlighting your customer broker programs and specials, promotions, contests, sweepstakes and other opportunities available on our site. If you do not opt-out from receiving these communications about our site, we will send them to you. Of course, if you do not opt-out during registration, but later change your mind, you can visit us online or call us to tell us that you would like to "opt-out" of and stop receiving either or both of these communications.
 
 **Online Surveys and Contests.  
 **
