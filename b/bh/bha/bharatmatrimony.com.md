@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatmatrimony.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202920id_/http%3A//www.bharatmatrimony.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatmatrimony.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021153227id_/http%3A//www.bharatmatrimony.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ If you establish a credit account with us to pay the fees we charge, we collect 
 
 * Bharatmatrimony collects information from our clients primarily to ensure that we are able to fulfill your requirements and to deliver personalized experience.
 
-* The information collected from any of our clients is not shared with any individual or organization without the former’s approval.
+* The information collected from any of our clients is not shared with any individual or organization without the former�s approval.
 
 Bharatmatrimony.com does not sell, rent, or loan any identifiable information at the individual level regarding its customers to any third party. Any information you give us is held with the utmost care and security. We are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer.
 
