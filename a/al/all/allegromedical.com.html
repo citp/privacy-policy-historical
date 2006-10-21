@@ -1,568 +1,84 @@
-<!--The following is the downloaded HTML source of the allegromedical.com privacy policy that was archived on 2005-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051217012509id_/http%3A//www.allegromedical.com/home/privacy_Policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allegromedical.com privacy policy that was archived on 2006-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061021095136id_/http%3A//www.allegromedical.com/support/privacyPolicy.do) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-	<title>Allegro Medical Supplies Inc. - wheelchairs, power scooters, and discount medical supplies. - - </title>
-	<basefont face="VERDANA, ARIAL, HELVETICA" size="-2">
-	<!-- ********** Start Meta Tags ************************************************************************************************************************************* -->
-	<meta name="description" content="Medical supplies including wheelchairs, power scooters, medical information, medical office supplies, medical equipment, urologicals, catheters, hand cycles, ostomy supplies and more!">
-	<meta name="keywords" content="Medical supplies, Medical Supply, Medical, Supplies, Supply, power scooters, canes, walkers, crutches, urologicals, catheters, hand cycles, medical equipment, ostomy supplies, allegro">
-	<meta name="Robots" content="All">
-	<meta name="Author" content="Allegro Medical Supplies from Allegromedical.com">
-	<script language="javascript" src="/javascript/menuHide.js" type="text/javascript"></script>
-	<link href="/css/Win_IE.css" type="text/css" rel="stylesheet">
-
-<script language="JavaScript">
-	function PopUpContact()
-	{
-	valReturned=window.open("/Home/Contact.asp","Stuff","toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=yes,resizable=yes,width=640,height=480,screenX=0,screenY=0")
-	}
-
-	function PopUpRRequest()
-	{
-	valReturned=window.open("/home/ReturnRequest.asp","Stuff","toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=yes,resizable=yes,width=640,height=480,screenX=0,screenY=0")
-	}
-
-	function wipeoutemail()
-	{
-	if (document.AllegroAdvantage.ecat.value=="you@email.com")
-		{
-		document.AllegroAdvantage.ecat.value='';
-		}
-	if (document.AllegroAdvantage.firstname.value=="yourfirstname")
-		{
-		document.AllegroAdvantage.firstname.value='';
-		}
-	if (document.AllegroAdvantage.lastname.value=="yourlastname")
-		{
-		document.AllegroAdvantage.lastname.value='';
-		}				
-	}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+	<meta name="Author" content="Allegro Central">
 	
-	function Certify(URL) {
-  popupWin = window.open(URL, 'Participant', 'location,scrollbars,width=450,height=300,left=200')
-  window.top.name = 'opener';
-	}
-	
-</script>
-<script language="javascript">
-<!--//
 
-	function checkEcatalog(e)
-		{
-			var tempStr;
-			tempStr = ltrim(e.ecat.value);
-			
-			if (tempStr.length < 1)
-			{
-				alert("Please provide an email address.");
-				e.ecat.focus();
-				return false;
-			}
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="/include/css/style.dss" media="all">
 
-			if (tempStr == "you@email.com")
-			{
-				alert("Please provide a valid email address.");
-				e.ecat.focus();
-				return false;			
-			}
-			
-			if (!emailValidate(e.ecat))
-			{
-				alert("Email is not valid!");
-				e.ecat.focus();
-				return false;
-			}			
-	
-			tempStr = ltrim(e.firstname.value);			
-			if (tempStr.length < 1)
-			{
-				alert("Please provide a first name.");
-				e.firstname.focus();
-				return false;
-			}
-			
-			tempStr = ltrim(e.lastname.value);
-			if (tempStr.length < 1)
-			{
-				alert("Please provide a last name.");
-				e.lastname.focus();
-				return false;
-			}						
-			
-		}
-	
-	function emailValidate(a)
-	{
-		var bResult;
-		bResult = true;
-		
-		var theStr = new String(a.value);
-		var index = theStr.indexOf("@");
-		if (index > 0)
-		{
-			var pindex = theStr.indexOf(".",index);
-			if (!(pindex > index+1))
-			{
-				bResult =  false;	
-			}
-			else
-			{
-				bResult = true;
-	        }
-		}
-		else
-		{
-			bResult = false;
-		}
-		return bResult;
-	}
-	
-	function ltrim(str)
-	{
-	   var whitespace = new String(" \t\n\r");
+	<script src="/include/js/prototype.lite.js" type="text/javascript"></script>
+	<script src="/include/js/moo.fx.js" type="text/javascript"></script>
+	<script src="/include/js/moo.fx.pack.js" type="text/javascript"></script>
+	<script src="/include/js/popupwindow.js" type="text/javascript"></script>	
+	<script type="text/javascript" src="/include/js/main.js"></script>
+	<!--[if lt IE 7.]>
+	<script defer type="text/javascript" src="/include/js/pngfix.js"></script>
+	<![endif]-->
+	<script type="text/javascript" src="/include/js/menu2.js"></script>
 
-	   var s = new String(str);
-
-	   if (whitespace.indexOf(s.charAt(0)) != -1) {
-
-	      var j=0, i = s.length;
-	      while (j < i && whitespace.indexOf(s.charAt(j)) != -1)
-	         j++;
-	      s = s.substring(j, i);
-	   }
-	   return s;
-	}
-
-	function trackclk(loc,elem)
-	{
-		if(document.images)
-		{
-			(new Image()).src="/images/trackimage.asp?loc="+escape(loc)+"&url="+escape(elem.href);
-		}
-		return true;
-	}
-	
-//-->
-</script>
-
-
-
-<!-- ********** End Meta Tags *************************************************************************************************************************************** -->
+	<title>Privacy Policy</title> 
+	<meta name="show-search-panel" content="true">
+	<meta name="show-menu-tabs" content="true">
+	<meta name="show-sidebar" content="true">
 </head>
-<body onmouseover="hide_Mnu()" onmouseout="hide_Mnu()" vlink="#2c237e" alink="#2c237e" link="#2c237e" topmargin="0" leftmargin="2" bgcolor="White">
 
-<!-- BEGIN COREMETRICS SUPPORT -->
-	<script language="javascript1.1" src="/coremetrics/v40/eluminate.js" type="text/javascript"></script>
+<body bgcolor="#ffffff" onload="onLoader.execute();">
+<div id="container">
+	<div id="top">
+<!-- BEGIN LOGO --> <div id="logo"> <a href="/home.do"><img src="/images/x_new/logo.gif" border="0"></a> </div> <!-- END LOGO --><!-- BEGIN SEARCH --> <form name="searchForm" method="get" action="/browse/browseProducts.do"> <div id="search"> <table cellpadding="0" cellspacing="0" border="0" style="display:inline"> <tbody><tr> <td valign="middle"> <input type="text" size="25" name="searchPhrase" value=""> <input type="submit" value="Search" name="submit" class="formbutton"> </td> </tr> <tr> <td style="font-size: 10px; color: #666"> Search 20,008 products... </td> </tr> </tbody></table> </div> </form> <!-- END SEARCH -->	</div>
+<!-- BEGIN MENU-BAR --> <div id="menu-bar"> <div id="menu" style="position: relative"> <ul> <li class="title" style="width: 85px;"><div> <a href="/home.do">Home</a> <img src="/images/x_new/icons/house.gif" border="0" align="absmiddle"> </div></li> <li class="title" onmouseover="showMenu('shop_by_Category')" onmouseout="hideMenu('shop_by_Category')"> <div id="shop_by_Category-title"> <a onclick="return false;" href="/browse/siteMap.do">Shop by Category <img src="/images/x_new/icons/downarrow.gif" border="0"></a> </div> <span class="mask" id="shop_by_Category-mask"></span> <table id="shop_by_Category-list" cellpadding="0" cellspacing="0"><tbody><tr> <td valign="top" class="bordered"> <ul> <li> <a href="/categories/shop-by-category/bathroom-assists/517.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Bathroom Assists</span> </a> </li> <li> <a href="/categories/shop-by-category/boardsports/5153.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>BoardSports</span> </a> </li> <li> <a href="/categories/shop-by-category/books/518.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Books</span> </a> </li> <li> <a href="/categories/shop-by-category/children-pediatric/531.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Children/Pediatric</span> </a> </li> <li> <a href="/categories/shop-by-category/cold-flu-season/5030.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Cold/Flu Season</span> </a> </li> <li> <a href="/categories/shop-by-category/continuing-fitness/5033.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Continuing Fitness</span> </a> </li> <li> <a href="/categories/shop-by-category/crutches/5009.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Crutches</span> </a> </li> <li> <a href="/categories/shop-by-category/cushions-covers-backs/544.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Cushions/Covers/Backs</span> </a> </li> <li> <a href="/categories/shop-by-category/daily-living-aids/519.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Daily Living Aids</span> </a> </li> <li> <a href="/categories/shop-by-category/diabetes-supplies/520.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Diabetes Supplies</span> </a> </li> <li> <a href="/categories/shop-by-category/diagnostic-products/521.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Diagnostic Products</span> </a> </li> <li> <a href="/categories/shop-by-category/dietary-supplements/522.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Dietary Supplements</span> </a> </li> <li> <a href="/categories/shop-by-category/electronics/556.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Electronics</span> </a> </li> <li> <a href="/categories/shop-by-category/electrotherapy/561.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Electrotherapy</span> </a> </li> <li> <a href="/categories/shop-by-category/emergency-preparation/5023.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Emergency Preparation</span> </a> </li> <li> <a href="/categories/shop-by-category/exercise-fitness/523.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Exercise/Fitness</span> </a> </li> <li> <a href="/categories/shop-by-category/gift-ideas/573.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Gift Ideas</span> </a> </li> <li> <a href="/categories/shop-by-category/halloween/5032.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Halloween</span> </a> </li> <li> <a href="/categories/shop-by-category/handcycles/543.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Handcycles</span> </a> </li> <li> <a href="/categories/shop-by-category/hd-dvd/5027.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>HD-DVD</span> </a> </li> <li> <a href="/categories/shop-by-category/hospital-discharge-favorites/5000.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Hospital Discharge Favorites</span> </a> </li> <li> <a href="/categories/shop-by-category/impotence/574.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Impotence</span> </a> </li> </ul> </td><td valign="top"> <ul> <li> <a href="/categories/shop-by-category/incontinence/525.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Incontinence</span> </a> </li> <li> <a href="/categories/shop-by-category/lift-chairs/526.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Lift Chairs</span> </a> </li> <li> <a href="/categories/shop-by-category/maternity-care/527.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Maternity Care</span> </a> </li> <li> <a href="/categories/shop-by-category/orthopedics/528.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Orthopedics</span> </a> </li> <li> <a href="/categories/shop-by-category/ostomy-supplies/529.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Ostomy Supplies</span> </a> </li> <li> <a href="/categories/shop-by-category/patient-care/530.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Patient Care</span> </a> </li> <li> <a href="/categories/shop-by-category/personal-care/532.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Personal Care</span> </a> </li> <li> <a href="/categories/shop-by-category/power-scooters/533.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Power Scooters</span> </a> </li> <li> <a href="/categories/shop-by-category/ramps/559.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Ramps</span> </a> </li> <li> <a href="/categories/shop-by-category/respiratory-therapy/534.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Respiratory Therapy</span> </a> </li> <li> <a href="/categories/shop-by-category/sexual-well-being/524.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Sexual Well-Being</span> </a> </li> <li> <a href="/categories/shop-by-category/shoes/575.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Shoes</span> </a> </li> <li> <a href="/categories/shop-by-category/skin-care/535.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Skin Care</span> </a> </li> <li> <a href="/categories/shop-by-category/surgical-supplies/537.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Surgical Supplies</span> </a> </li> <li> <a href="/categories/shop-by-category/syringes/570.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Syringes</span> </a> </li> <li> <a href="/categories/shop-by-category/treatment-furniture/554.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Treatment Furniture</span> </a> </li> <li> <a href="/categories/shop-by-category/urologicals-catheters/539.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Urologicals/Catheters</span> </a> </li> <li> <a href="/categories/shop-by-category/walkers-canes/516.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Walkers/Canes</span> </a> </li> <li> <a href="/categories/shop-by-category/wheelchair-accessories/545.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Wheelchair Accessories</span> </a> </li> <li> <a href="/categories/shop-by-category/wheelchairs/540.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Wheelchairs</span> </a> </li> <li> <a href="/categories/shop-by-category/wound-care/541.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Wound Care</span> </a> </li> </ul> </td> </tr><tr> <td colspan="2" align="right" style="border-top: 1px dotted gray; padding: 4px;"> <a href="/browse/siteMap.do">See all categories...</a> </td> </tr></tbody></table> </li> <li class="title" onmouseover="showMenu('shop_by_Brand')" onmouseout="hideMenu('shop_by_Brand')"> <div id="shop_by_Brand-title"> <a onclick="return false;" href="/browse/siteMap.do?type=brand&amp;sort=name">Shop by Brand <img src="/images/x_new/icons/downarrow.gif" border="0"></a> </div> <span class="mask" id="shop_by_Brand-mask"></span> <table id="shop_by_Brand-list" cellpadding="0" cellspacing="0"><tbody><tr> <td valign="top" class="bordered"> <ul> <li> <a href="/brands/3m.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>3M™</span> </a> </li> <li> <a href="/brands/ableware.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Ableware</span> </a> </li> <li> <a href="/brands/alimed.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>AliMed</span> </a> </li> <li> <a href="/brands/bard.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Bard</span> </a> </li> <li> <a href="/brands/becton-dickinson.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Becton-Dickinson</span> </a> </li> <li> <a href="/brands/boost.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Boost</span> </a> </li> <li> <a href="/brands/colpac.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>ColPaC</span> </a> </li> <li> <a href="/brands/coloplast-sween.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Coloplast/Sween</span> </a> </li> <li> <a href="/brands/convatec.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>ConvaTec</span> </a> </li> <li> <a href="/brands/dmi.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>DMI</span> </a> </li> <li> <a href="/brands/drive.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Drive</span> </a> </li> <li> <a href="/brands/encore.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Encore</span> </a> </li> <li> <a href="/brands/ensure.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Ensure</span> </a> </li> <li> <a href="/brands/fitball.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Fitball</span> </a> </li> <li> <a href="/brands/fougera.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Fougera</span> </a> </li> <li> <a href="/brands/grayson.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Grayson</span> </a> </li> <li> <a href="/brands/hollister.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Hollister</span> </a> </li> <li> <a href="/brands/home-diagnostics.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Home Diagnostics</span> </a> </li> <li> <a href="/brands/homecare.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Homecare</span> </a> </li> <li> <a href="/brands/invacare.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Invacare</span> </a> </li> </ul> </td><td valign="top"> <ul> <li> <a href="/brands/johnson-and-johnson.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Johnson &amp; Johnson</span> </a> </li> <li> <a href="/brands/kendall.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Kendall</span> </a> </li> <li> <a href="/brands/magic-bullet.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Magic Bullet</span> </a> </li> <li> <a href="/brands/mentor.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Mentor</span> </a> </li> <li> <a href="/brands/nestle.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Nestle</span> </a> </li> <li> <a href="/brands/novartis-sandoz.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Novartis (Sandoz)</span> </a> </li> <li> <a href="/brands/pediasure.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Pediasure</span> </a> </li> <li> <a href="/brands/prevail-first-quality.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Prevail (First Quality)</span> </a> </li> <li> <a href="/brands/rochester-medical.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Rochester Medical</span> </a> </li> <li> <a href="/brands/ross.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Ross</span> </a> </li> <li> <a href="/brands/rubbermaid.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Rubbermaid</span> </a> </li> <li> <a href="/brands/rusch.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Rusch</span> </a> </li> <li> <a href="/brands/sca-incontinence-care.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>SCA Incontinence Care</span> </a> </li> <li> <a href="/brands/sammons-preston.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Sammons Preston</span> </a> </li> <li> <a href="/brands/smith-and-nephew.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Smith &amp; Nephew</span> </a> </li> <li> <a href="/brands/sunrise-medical.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Sunrise Medical</span> </a> </li> <li> <a href="/brands/superfeet.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>SuperFeet</span> </a> </li> <li> <a href="/brands/therasense.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>TheraSense</span> </a> </li> <li> <a href="/brands/trulife.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>Trulife</span> </a> </li> <li> <a href="/brands/xerosox.html"> <img src="/images/x_new/icons/downarrow.gif" border="0"> <span>XeroSox</span> </a> </li> </ul> </td> </tr><tr> <td colspan="2" align="right" style="border-top: 1px dotted gray; padding: 4px;"> <a href="/browse/siteMap.do?type=brand&amp;sort=name">See all brands...</a> </td> </tr></tbody></table> </li> <li class="title" style="width: 338px; border-right: none"> <div align="right" style="background-image: none; cursor: default; font-size: 12px; color: #555; text-align: right"> 1-800-861-3211 </div> </li> </ul> </div> </div> <!-- END MENU-BAR -->	<div style="height:28px;">
+<!-- BEGIN IMPORTANT LINKS --> <div style="float:left; padding-top:7px; padding-left:4px;" class="homebar"> <table cellpadding="0" cellspacing="0"> <tbody><tr> <td style="padding-right: 3px;"> <img src="/images/x_new/icons/happyface.gif"> </td> <td> <a href="/signIn.do?successPath=%2Fmessage.do%3Ftitle%3DLogin+Confirmation%26message%3DThank-you+for+logging+into+AllegroMedical.com.%26gotoPath%3D%252Fsupport%252FprivacyPolicy.do">Sign In</a> | <a href="/signIn.do?successPath=%2Fmessage.do%3Ftitle%3DLogin+Confirmation%26message%3DThank-you+for+logging+into+AllegroMedical.com.%26gotoPath%3D%252Fsupport%252FprivacyPolicy.do">Register New</a> | <a href="/myaccount/details.do">My Allegro</a> </td> </tr> </tbody></table> </div> <!-- END IMPORTANT LINKS -->		
+<!-- BEGIN CART BOX --> <div id="cartbox"> <table cellpadding="0" cellspacing="0" border="0" align="right"> <tbody><tr> <td valign="bottom"><img src="/images/x_new/icons/cart/cart1.gif"></td> <td> <a href="/shopping/displayCart.do" class="my-cart">my cart</a>: 0 items </td> <td align="center">|</td> <td align="right"> <a href="/shopping/displayCart.do" class="my-cart">checkout now</a> </td> </tr> </tbody></table> </div> <!-- END CART BOX -->
+	</div>
 	
-	<script language="javascript1.1" src="/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
-<!-- END COREMETRICS -->
+	<div class="clear">&nbsp;</div>
 
-		<script language="javascript1.1" type="text/javascript">
-			<!--
-			cmSetProduction();
-			//-->
-		</script>
 		
-		<script language="javascript1.1" type="text/javascript">
-			<!--
-			cmCreatePageviewTag("privacy_Policy", "HOME",null,null);
-			//-->
-		</script>
+	
 		
-<!-- ********** Begin Main Table **************************************************************************************************************************************** -->
-
-<form method="post" action="/home/search.asp" id="form1" name="form1">
-
-<a name="TopOfPage_BookMark"></a>
-<table border="0" cellpadding="0" cellspacing="0" width="770" align="center">
-	<tbody><tr>
-		<td width="225" valign="top">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+	
+		<div id="main">
+			<table cellpadding="0" cellspacing="0" border="0" width="760" align="center">
 				<tbody><tr>
-					<td><a href="http://www.allegromedical.com/home/default.asp"><img src="/images/webgraphics/AllegroMedical_Logo.gif" width="200" height="38" border="0" alt="Allegro Medical Supplies Inc."></a></td>
-				</tr>
-			</tbody></table>
-		</td>	
-<td valign="Bottom" align="Center"><img src="/images/webgraphics/Tab_WelcomeSet_1.gif" width="92" height="25" border="0" alt="Welcome"><a href="/wheelchairs" onmousedown="return trackclk('tab',this)"></a><a href="/home/accountterms.asp" onmousedown="return trackclk('tab',this)"><img src="/images/webgraphics/Tab_GovEdSet_1.gif" width="84" height="25" border="0" alt="Government and Education"></a><a href="/Home/LiveHelp.asp" onmousedown="return trackclk('tab',this)"><img src="/images/webgraphics/Tab_ContactUsSet_4.gif" width="123" height="25" border="0" alt="Contact Us"></a></td>
+					<td align="left" width="199" class="sidebar-cell" valign="top">
+						<table cellpadding="0" cellspacing="0" border="0" width="199">
+							<tbody><tr>
+								<td>
 
-
-		<td width="129" valign="center" align="right"><nobr>
-			<a href="/cart/view.asp"><img src="/images/webgraphics/Cart_Icon.gif" width="27" height="34" border="0" alt="Click here to go to your Shopping Cart."></a>
-			<a href="/Home/Help.asp"><img src="/images/webgraphics/Help_Icon.gif" width="27" height="34" border="0" alt="Click here for Help"></a></nobr></td>
-	</tr>
-
-
-
-	<!-- ********** Search Box ************************************************************************************************************************************** -->
-
-	<tr>
-		<td colspan="3" bgcolor="#2C237E">
-			<table border="0" width="100%" cellpadding="2">
-				<tbody><tr>
-					<td bgcolor="#2C237E" nowrap=""><input type="text" name="SearchValue" size="17" maxlength="255" value=""></td>
-					<td align="center"><input type="image" src="/images/webgraphics/search_box.gif" border="0" name="submit" width="61" height="18"></td>
-					<td align="right" width="100%">
-						<table width="100%">
-						<tbody><tr>
-							<td align="center"><img src="/images/webgraphics/FreeShipping99.gif" alt="Free shipping on most orders" width="329" height="13"><a href="/Home/freeshipping.asp"><img src="/images/webgraphics/SeeDetails.gif" border="0" alt="See Details" width="81" height="13"></a></td>
-							<td align="left" width="105"><img src="/images/webgraphics/800Number.gif" alt="800-861-3211" width="105" height="13"><img src="/images/webgraphics/1x1trans.gif" height="1" width="2"></td>
-						</tr>
+<!-- BEGIN SIDEBAR -->
+<div id="sidebar">
+<div class="title"> <img class="arrow" src="/images/x_new/icons/downarrow.gif"> <img src="/images/x_new/icons/sidebar/eye.gif" align="absmiddle"> <a href="javascript:;" onclick="widget_recentlyViewedItems_fx.toggle();">Recently Viewed</a> </div> <div id="widget-recentlyViewedItems" style="opacity: 1; overflow: hidden;"> <div class="list-widget"> <table cellspacing="0"> <tbody><tr> <td style="padding-top: 4px;" valign="top"> <a href="/allsport-ankle-147-mx-2-217096.html"><img src="http://images.allegrocentral.com//F0/51/8ab281020bb66dff010bb6a3ac5c4238-PRODUCT-SMALL_IMAGE.jpg" alt="Allsport Ankle® 147 MX-2" width="45" height="45" border="0"></a> </td> <td style="padding-top: 4px;"> <a href="/allsport-ankle-147-mx-2-217096.html"> Allsport Dynamics Allsport Ankle® 147 MX...</a> <br> <span class="price">$35</span> <br> [<a href="/allsport-ankle-147-mx-2-217096.html">more info</a>] &nbsp;&nbsp;&nbsp; <a href="/shopping/addSkuToCart.do?skuId=8ab281020bb66dff010bb6a3ac5c423d&amp;qty=1" class="hotbutton" onclick="" style="">Buy</a> </td> </tr> <tr> <td style="padding-top: 4px;" valign="top"> <a href="/folding-shopping-cart-189864.html"><img src="http://images.allegrocentral.com//F9/E7/8ab281020bb66dff010bb679e87f1e7b-PRODUCT-SMALL_IMAGE.jpg" alt="Folding Shopping Cart" width="45" height="45" border="0"></a> </td> <td style="padding-top: 4px;"> <a href="/folding-shopping-cart-189864.html"> Drive Folding Shopping Cart</a> <br> <span class="price">$24.95</span> <br> [<a href="/folding-shopping-cart-189864.html">more info</a>] &nbsp;&nbsp;&nbsp; <a href="/folding-shopping-cart-189864.html" class="hotbutton" onclick="" style="">Options</a> </td> </tr> <tr> <td style="padding-top: 4px;" valign="top"> <a href="/xj-800-surround-air-car-ionizer-178101.html"><img src="http://images.allegrocentral.com//50/9F/8ab281020bb66dff010bb67501082fe0-PRODUCT-SMALL_IMAGE.jpg" alt="XJ-800 Surround Air Car Ionizer" width="45" height="45" border="0"></a> </td> <td style="padding-top: 4px;"> <a href="/xj-800-surround-air-car-ionizer-178101.html"> Surround Air XJ- 800 Surround Air Car Io...</a> <br> <span class="price">$10.04</span> <br> [<a href="/xj-800-surround-air-car-ionizer-178101.html">more info</a>] &nbsp;&nbsp;&nbsp; <a href="/xj-800-surround-air-car-ionizer-178101.html" class="hotbutton" onclick="" style="">Options</a> </td> </tr> <tr> <td style="padding-top: 4px;" valign="top"> <a href="/instep-pathfinder-bicycle-trailer-211161.html"><img src="http://images.allegrocentral.com//BE/13/8ab281020bb66dff010bb696ced22159-PRODUCT-SMALL_IMAGE.jpg" alt="InStep Pathfinder Bicycle Trailer" width="45" height="45" border="0"></a> </td> <td style="padding-top: 4px;"> <a href="/instep-pathfinder-bicycle-trailer-211161.html"> InStep Pathfinder Bicycle Trailer</a> <br> <span class="price">$87</span> <br> [<a href="/instep-pathfinder-bicycle-trailer-211161.html">more info</a>] &nbsp;&nbsp;&nbsp; <a href="/shopping/addSkuToCart.do?skuId=8ab281020bb66dff010bb696ced2215e&amp;qty=1" class="hotbutton" onclick="" style="">Buy</a> </td> </tr> <tr> <td style="padding-top: 4px;" valign="top"> <a href="/deluxe-manual-vacuum-erection-device-211163.html"><img src="http://images.allegrocentral.com//A9/5E/8ab281020bb66dff010bb696d0682167-PRODUCT-SMALL_IMAGE.jpg" alt="Deluxe Manual Vacuum Erection Device" width="45" height="45" border="0"></a> </td> <td style="padding-top: 4px;"> <a href="/deluxe-manual-vacuum-erection-device-211163.html"> Encore Deluxe Manual Vacuum Erection Dev...</a> <br> <span class="price">$115</span> <br> [<a href="/deluxe-manual-vacuum-erection-device-211163.html">more info</a>] &nbsp;&nbsp;&nbsp; <a href="/shopping/addSkuToCart.do?skuId=8ab281020bb66dff010bb696d068216c&amp;qty=1" class="hotbutton" onclick="" style="">Buy</a> </td> </tr> </tbody></table> </div> </div> <script type="text/javascript"> widget_recentlyViewedItems_fx = new fx.Combo('widget-recentlyViewedItems', {height: true, opacity: true, duration: 500}); </script> <div class="title"> <img class="arrow" src="/images/x_new/icons/downarrow.gif"> <img src="/images/x_new/icons/sidebar/ecat.gif" align="absmiddle" style="padding-right: 3px;"> <a href="javascript:;" onclick="widget_ecatSignup_fx.toggle();">FREE eCatalog</a> </div> <div id="widget-ecatSignup" style="opacity: 1; overflow: hidden;"> <div class="quick-form-widget"> <form action="/widget/QuickForm.do" method="get"> <input type="hidden" name="x_ref" value="/support/privacyPolicy.do"> <input type="hidden" name="x_id" value="ecatSignup"> <p class="description">Over 130,000 subscribers<br> can't be wrong!<br><br><strong>Sign up to receive:</strong><br>&nbsp;&nbsp;- specials<br>&nbsp;&nbsp;- discounts <br>&nbsp;&nbsp;- promotional savings <br>&nbsp;&nbsp;- exclusive sweepstakes</p> <p class="field">Email Address</p> <input type="text" name="Email Address" class="field"> <p class="field">First Name</p> <input type="text" name="First Name" class="field"> <p class="field">Last Name</p> <input type="text" name="Last Name" class="field"> <div align="right" style="padding-top: 10px; width: 93%;"> <input type="submit" value="Sign Up" name="Sign Up" class="formbutton"> </div> </form> </div> </div> <script type="text/javascript"> widget_ecatSignup_fx = new fx.Combo('widget-ecatSignup', {height: true, opacity: true, duration: 500}); </script> <div class="title"> <img class="arrow" src="/images/x_new/icons/downarrow.gif"> <img src="/images/x_new/icons/sidebar/tracking.gif" align="absmiddle"> <a href="javascript:;" onclick="widget_orderTracking_fx.toggle();">Track your Order</a> </div> <div id="widget-orderTracking" style="opacity: 1; overflow: hidden;"> <div class="order-tracking-widget"> <form action="/tracking/finishTracking.do" method="get"> <input type="hidden" name="x_ref" value="/support/privacyPolicy.do"> <input type="hidden" name="x_id" value="orderTracking"> <p class="field">Order Number</p> <input type="text" name="orderNumber" class="field"> <p class="field">Zip</p> <input type="text" name="zip" class="field"> <div align="right" style="padding-top: 10px; width: 93%;"> <input type="submit" value="Track" name="Track" class="formbutton"> </div> <input type="hidden" name="fromPath" value="/home.do"> </form> </div> </div> <script type="text/javascript"> widget_orderTracking_fx = new fx.Combo('widget-orderTracking', {height: true, opacity: true, duration: 500}); </script></div>
+<!-- END SIDEBAR -->
+								</td>
+							</tr>
 						</tbody></table>
 					</td>
-				</tr>
+<!-- BEGIN BODY --> <td width="560" valign="top"> <table cellpadding="0" cellspacing="0" border="0" width="100%"> <tbody><tr> <td> <div class="content-page"> <h3 class="login">Privacy Pledge</h3><br> <div class="left-padding"> <strong>Your personal information is secure</strong> <br> We employ the latest 128-bit encryption technology in all areas of the site which require you to provide your personal or account information. These include online ordering, insurance forms, and most contest forms. This is done to protect you from unauthorized use of the information you are sending to our server. To make sure you have the latest security features on your browser, download and install the latest version of Microsoft Internet Explorer or Firefox or Netscape Communicator. <br><br> <strong>We respect your privacy.</strong> <br> Rest assured, Allegro will never share any of your personal information without your prior consent. This is true with the information we gather from our web site as well as through confidential medical and insurance records. The information we gather from the e-mail you send us is filed and used for enhancing the features and content of our site, it is not used or shared in any other way. <br><br> <strong>We use, not abuse, cookies.</strong> <br> AllegroMedical.com uses cookies to enhance your shopping and browsing experience. The text in an Allegro cookie, by itself, only tells us that you have visited our site before. It does not store any personal information such as your e-mail address, street address or phone number. <br><br> <strong>Important Message to All Our Customers effective April 14, 2003</strong> <br> <strong>PRIVACY NOTICE Version 1.0 - April 14, 2003</strong> <br> Keeping your personal information confidential is a top priority for all Allegro Medical employees. This Notice, which is required by state and federal law, explains our Privacy Policy. <br> <ol> <li>We will safeguard, according to strict standards of security and confidentiality, nonpublic, personal information our customers or representatives of our customers share with us. "Nonpublic, personal information," for example, would include such information as your name, address, telephone number, social security number, date of birth, Website usage either online or on applications and other forms, and medical information. We will maintain safeguards, physical and electronic, to protect that information. We will conduct our business in a manner that keeps personal customer information secure. </li> <li>We will limit the collection and use of customer information to the minimum we require to deliver superior service and to administer our business. We collect personal information about customers from the following sources: <br> <ul> <li>From your inquiries to Allegro via phone, facsimile, Email, mail courier, or our Website; </li> <li>From your transactions with us, our web-affiliates or others; and</li> <li>From your transactions with non-affiliated third parties.</li> </ul> </li> <li>It is our policy that only authorized Allegro Medical employees who need to know your personal information will access and use it. Allegro Medical may contact you regarding fund solicitation, sales, or product deliveries. Allegro Medical workers who violate our Privacy Policies are subject to the disciplinary process. </li> <li>It is our policy that we will not share personal customer information (either current or former customers), outside Allegro Medical for any purpose other than to facilitate payment for services rendered either to the customers' insurance companies or to collection agencies, unless the disclosure has been authorized by the customer or is permitted or required by law. </li> <li>Whenever we retain other organizations to provide support services on behalf of Allegro Medical, we will require them to protect customers' personal information. </li> <li>To help us keep your customer information up-to-date and accurate, please contact Allegro Medical if there is any change in your personal information. </li> <li>When necessary, we will review and revise our Privacy Policies to protect customer information. </li> <li>You can decide if you want to limit how we share personal information about you with unaffiliated third parties. If you do not want us to share your personal information or you would like to amend your personal information, telephone us at 1-800-861-3211, or 480-990-8881 if you are located in the Phoenix Metro Area. </li><li>If you feel your privacy rights have been violated, call 1-866-282-0659. </li> </ol> </div> </div> </td> </tr> </tbody></table> </td> <!-- END BODY -->				</tr>
 			</tbody></table>
-		</td>
-	</tr>
-
+		</div>
 	
-    <!---------- End of Search form ----------- -->
-
-	<tr>
-		<td colspan="3">
-
-<table width="1" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td><img src="/images/webgraphics/1x1trans.gif" height="6" width="1"></td>
-	</tr>							
-</tbody></table>
-
-</td>
-	</tr>
-</tbody></table>
-<!--- End of what zzzzz -->
-
-<table width="770" border="0" cellpadding="0" cellspacing="0" class="SideMenuBox" align="center">			
-	<tbody><tr>
-		<td>
-			<table border="0" cellpadding="2" cellspacing="0" width="100%">
-			<tbody><tr>
-			<td class="SideMenuText" valign="top" width="16"><img src="/images/webgraphics/info6.gif" height="16" width="16"></td>
-			<td class="SideMenuText"><font size="1" face="verdana">Medical supplies including wheelchairs, power scooters, medical information, medical office supplies, medical equipment, urologicals, catheters, hand cycles, ostomy supplies and more!</font></td>
-			</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-
-<table height="2"><tbody><tr><td></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="770" align="center"> 
-	<tbody><tr>
-
-<!-- ********** Left Menu ******************** -->
-		<td width="160" valign="top">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0"> 
-			<tbody><tr>
-				<td width="170" valign="top">
-
-	<table width="170" border="0" cellpadding="0" cellspacing="0">					  
-	  <tbody><tr>
-	  	<td class="WarmSideMenuBox" width="5" height="22" valign="top"><img border="0" src="/images/webgraphics/light_corner_left.gif" width="5" height="18"></td>
-	    <td class="WarmSideMenuBox" width="149" align="left" nowrap="">
-	    	<img src="/images/WebGraphics/arrow_unselected.gif" align="middle" width="8" height="8">&nbsp;<a class="WarmSideMenuLink" href="/myallegro/default.asp">My Allegro</a></td>
-	    
-	    <td class="WarmSideMenuBox"><img border="0" src="/images/webgraphics/1x1trans.gif" height="1" width="5"></td>
-	  </tr>
-	</tbody></table>
-	<table width="170" border="0" cellpadding="0" cellspacing="0">	
-				
-		<tbody><tr>
-			<td class="WarmSideMenuBox" width="5"><img src="/images/webgraphics/1x1trans.gif" height="1" width="5" border="0"></td>
-			<td class="WarmSideMenuBox" align="Left">
-				<img src="/images/WebGraphics/arrow_unselected.gif" align="middle" width="8" height="8">
-				<a class="WarmSideMenuLink" href="/myallegro/orderhistory.asp">My Recent Orders</a>
-			</td>
-			<td class="WarmSideMenuBox"><img src="/images/webgraphics/1x1trans.gif" height="1" width="7" border="0"></td>					
-		</tr>
-		
-	</tbody></table>
+	<div class="clear"></div>
 	
-
-<table width="1" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td><img src="/images/webgraphics/1x1trans.gif" height="6" width="1"></td>
-	</tr>							
-</tbody></table>
+<div id="end-footer" align="center"> <a href="/home.do">Home</a> | <a href="/support/aboutUs.do">About Us</a> | <a href="/support/help.do">Help</a> | <a href="/tracking/tracking.do">Order Status</a> | <a href="/myaccount/details.do">Order History</a> | <a href="/support/returnPolicy.do">Return Policy</a> | <a href="/support/b2b.do">Gov/Edu or B2B</a> | <a href="/support/privacyPolicy.do">Privacy Policy</a> | <a href="/support/disclaimer.do">Terms of Use</a> | <a href="/support/contactUsForm.do">Contact Us</a> <br> <a href="http://www.AllegroElectronics.com">www.AllegroElectronics.com</a> &nbsp;|&nbsp; <a href="http://www.AllegroBoardsports.com">www.AllegroBoardsports.com</a> <br> <a href="http://www.shopping.com/xMR-Allegro%20Medical~MRD-306980~S-1" target="_blank"><img src="/images/x_new/icons/sdc_logo_rgb_90x20.gif" alt="" border="0"></a> <img src="/images/x_new/icons/trusted_store.gif" alt=""> <a href="http://www.data.bbb.org/phoenix.asp?yid=9000823" target="_blank"><img src="/images/x_new/icons/reli6.gif" alt="" border="0"></a> <br> © 1997 - 2006 AllegroCentral.com </div></div>
 
 
-
-
-<!-- **********  Shop by Category  ************************************************************************************************************************** -->
-
-				  <table width="170" border="0" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td colspan="3">
-								<table border="0" cellpadding="0" cellspacing="0" width="100%">
-									<tbody><tr>
-									    <td>
-									    <img border="0" src="/images/webgraphics/corner_left2.gif" width="5" height="22"></td>
-									    <td bgcolor="#2C237E" width="100%" align="center" nowrap=""><img src="/images/webgraphics/shopbycategory.gif" alt="Shop By Category" width="132" height="14"></td>
-									    <td bgcolor="#2C237E" nowrap=""><img border="0" src="/images/webgraphics/1x1trans.gif" width="5"></td>
-									</tr>
-								</tbody></table>
-							</td>	 
-						</tr>	
-						<tr>
-							<td colspan="3"><table border="0" cellpadding="0" cellspacing="0" class="SideMenuBox" width="170"><tbody><tr class="SideMenuBox"><td width="15" rowspan="33"></td><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/bathroom_assists">Bathroom Assists</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/children_pediatric">Children/Pediatric</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/cushions_covers_backs">Cushions/Covers/Backs</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/daily_living_aids">Daily Living Aids</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/diabetes_supplies">Diabetes Supplies</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/diagnostic_products">Diagnostic Products</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/dietary_supplements">Dietary Supplements</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/electrotherapy">Electrotherapy</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/exercise_fitness">Exercise/Fitness</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/gift_ideas">Gift Ideas</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/handcycles">Handcycles</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/impotence">Impotence</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/incontinence">Incontinence</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/lift_chairs">Lift Chairs</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/maternity_care">Maternity Care</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/orthopedics">Orthopedics</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/ostomy_supplies">Ostomy Supplies</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/oxygen_therapy">Oxygen Therapy</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/patient_care">Patient Care</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/personal_care">Personal Care</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/power_scooters">Power Scooters</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/ramps">Ramps</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/skin_care">Skin Care</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/surgical_supplies">Surgical Supplies</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/syringes">Syringes</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/treatment_furniture">Treatment Furniture</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/urologicals_catheters">Urologicals/Catheters</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/walkers_canes_crutches">Walkers/Canes/Crutches</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/wheelchair_accessories">Wheelchair Accessories</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/wheelchairs">Wheelchairs</a></td></tr><tr class="SideMenuBox"><td class="SideMenuText" height="13"><a class="SideMenuLink" href="/wound_care">Wound Care</a></td></tr>
-								<tr class="SideMenuBox">
-										<td class="SideMenuText">
-											<img src="/images/webgraphics/blue_square.gif" height="7" width="4" border="0" valign="center">&nbsp;<a class="SideMenuLink" id="Site Map" href="/home/sitemap.asp">Site Map</a></td>
-										
-								</tr>
-								<tr>
-									<td><img src="/images/webgraphics/1x1trans.gif" height="4" width="7" border="0"></td>
-								</tr>
-								</tbody></table>
-							</td>
-						</tr>
-					</tbody></table>
-
-
-<table width="1" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td><img src="/images/webgraphics/1x1trans.gif" height="6" width="1"></td>
-	</tr>							
-</tbody></table>
-
-
-
-	  <table width="170" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td><img border="0" src="/images/webgraphics/corner_left2.gif" width="5"></td>
-		    
-		    <td bgcolor="#2C237E" width="100%" align="center" nowrap="">
-				<font size="-1" face="arial black,VERDANA,ARIAL,HELVETICA" color="#ffce63">FREE eCatalog</font>
-		    </td><td bgcolor="#2C237E" nowrap=""><img src="/images/webgraphics/1x1trans.gif" width="5" border="0" height="22"></td>
-		</tr> 
-		</tbody></table>
-		
-		
-		<table width="170" border="0" cellpadding="0" cellspacing="0" class="SideMenuBox">				  
-		<tbody><tr class="SideMenuBox">
-			<td><img src="/images/webgraphics/1x1trans.gif" width="5" border="0"></td>
-			<td width="100%" align="center" nowrap="">
-				<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr>
-					<td>&nbsp;</td>
-					<td>
-						<form method="post" action="/home/privacy_Policy.asp?CategoryID=&amp;SubCategoryID=&amp;ManufacturerID=&amp;ProductID=" name="AllegroAdvantage" onsubmit="javascript:return checkEcatalog(this);">
-							<font size="-2">Product Information,<br>Specials and more...<br><b>Email Catalog<br><i>Allegro Advantage.</i></b><br><br>
-							<input type="text" value="you@email.com" name="ecat" size="15" onfocus="wipeoutemail()"><br>
-							<input type="text" value="yourfirstname" name="firstname" size="15" maxlength="20" onfocus="wipeoutemail()"><br>
-							<input type="text" value="yourlastname" name="lastname" size="15" maxlength="30" onfocus="wipeoutemail()"><br>
-							<input type="radio" name="SubUnsub" value="Subscribe" checked="">Subscribe<br>
-							<input type="radio" name="SubUnsub" value="UnSubscribe">UnSubscribe</font><br>
-							<input type="hidden" name="url" value="/home/privacy_Policy.asp">
-							<input type="submit" name="submit" value="  Submit  " width="33" height="23">
-						</form>
-					</td>
-				</tr>
-				</tbody></table>		
-			</td>
-			<td><img src="/images/webgraphics/1x1trans.gif" width="5" border="0"></td>
-		</tr>
-	</tbody></table>
-
-
-
-<table width="1" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td><img src="/images/webgraphics/1x1trans.gif" height="6" width="1"></td>
-	</tr>							
-</tbody></table>
-
-
-		</td></tr></tbody></table>
-<!-- ********** end of left menu ************************************************************************************************************************************ -->
-
-	</td>
+			<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
+			<script type="text/javascript">
+				_uacct = "UA-82101-1";
+				
+				urchinTracker();
+			</script>
 	
-	<td>&nbsp;&nbsp;</td>	
+	<!-- ***  CLICK TRACKING CODE 3.0 *** -->
+	<script language="JavaScript" type="text/javascript" src="http://keywordmax.com/tracking/show.php?id=656559099&amp;location=Homepage"></script>
+	<noscript>
+	<img src="http://keywordmax.com/tracking/log.php?id=656559099&loc=Homepage" border="0" width="1" height="1">
+	</noscript>
+	<!-- ^^^ CLICK TRACKING CODE 3.0 ^^^ -->
 
 
 
-
-
-
-
-
-		<!-- ********** start of right side td ****************************************************************************************************************************** -->
-		<td align="left" valign="top">
-
-
-
-			<!-- ********** start of Tabs *********************************************************************************************************************************** -->
-
-
-
-			<!-- ********** End of Tabs ************************************************************************************************************************************* -->
-
-
-			<!-- ********** Head 2 **************************************************************************************************************************** -->
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-
-				<tbody><tr>
-					<td width="100%" colspan="2">
-
-
-<!-- ********** Start of Main display ***************************************************************************************************************** -->
-
-
-			<br>
-
-						<table border="0" width="100%" cellpadding="3" cellspacing="2">
-							<tbody><tr>
-								<td><font size="-1"><b>Privacy Pledge<br>
-								</b></font><b>
-								</b></td>
-							</tr>
-							<tr>
-								<td>
-								Your personal information is secure
-								</td>
-							</tr>
-							<tr>
-								<td><font size="-1">
-								We employ the latest 128-bit encryption technology in all areas of the site which require you to
-								provide your personal or account information. These include online ordering, insurance forms,
-								and most contest forms. This is done to protect you from unauthorized use of
-								the information you are sending to our server. To make sure you have the latest security
-								features on your browser download and install the latest version of your favorite browser,
-								Microsoft Internet Explorer or Netscape Communicator.
-								</font>
-								</td>
-							</tr>
-							<tr>
-								<td><font size="-1">
-								<b>We respect your privacy.</b><br>
-                                Rest assured, Allegro will never share any of your personal information without your
-                                prior consent. This is true with the information we gather from our web site as well
-                                as through confidential medical and insurance records. The information we gather from the e-mail you
-                                send us is filed and used for enhancing the features and content of our site, it is not
-                                used or shared in any other way.
-								<br><br>
-                                <b>We use, not abuse, cookies.</b><br>
-                                www.allegromedical.com uses cookies to enhance your shopping and browsing experience. The
-                                text in an Allegro cookie, by itself, only tells us that you have visited our site before. It
-                                does not store any personal information such as your e-mail address, street address
-                                or phone number.
-								</font></td>
-							</tr>
-							<tr>
-								<td>
-		<p>&nbsp;
-		</p><h4><center>Important Message to All Our Customers effective April 14, 2003</center></h4>
-
-<center><h6><font color="Gray">PRIVACY NOTICE Version 1.0 - April 14, 2003</font></h6></center>
-<hr style="color: #000080">
-<font size="-1">Keeping your personal information confidential is a top priority for all Allegro Medical employees.  This Notice, which is required by state and federal law, explains our Privacy Policy.
-
-<ol><li>We will safeguard, according to strict standards of security and confidentiality, nonpublic, personal information our customers or representatives of our customers share with us.  "Nonpublic, personal information," for example, would include such information as your name, address, telephone number, social security number, date of birth, Website usage either online or on applications and other forms, and medical information.  We will maintain safeguards, physical and electronic, to protect that information.  We will conduct our business in a manner that keeps personal customer information secure.
-<p>
-</p></li><li>We will limit the collection and use of customer information to the minimum we require to deliver superior service and to administer our business.  We collect personal information about customers from the following sources:
-<p>
-</p><ul><li>From your inquiries to Allegro via phone, facsimile, Email, mail courier, or our Website;
-</li><li>From your transactions with us, our web-affiliates or others; and
-</li><li>From your transactions with non-affiliated third parties.</li></ul>
-<p>
-</p></li><li>It is our policy that only authorized Allegro Medical employees who need to know your personal information will access and use it.  Allegro Medical may contact you regarding fund solicitation, sales, or product deliveries.  Allegro Medical workers who violate our Privacy Policies are subject to the disciplinary process.
-<p>
-</p></li><li>It is our policy that we will not share personal customer information (either current or former customers), outside Allegro Medical for any purpose other than to facilitate payment for services rendered either to the customers' insurance companies or to collection agencies, unless the disclosure has been authorized by the customer or is permitted or required by law.
-<p>
-</p></li><li>Whenever we retain other organizations to provide support services on behalf of Allegro Medical, we will require them to protect customers' personal information.
-<p>
-</p></li><li>To help us keep your customer information up-to-date and accurate, please contact Allegro Medical if there is any change in your personal information.
-<p>
-</p></li><li>When necessary, we will review and revise our Privacy Policies to protect customer information.
-<p>
-</p></li><li>You can decide if you want to limit how we share personal information about you with unaffiliated third parties.  If you do not want us to share your personal information or you would like to amend your personal information, telephone us at 1-800-861-3211, or 480-990-8881 if you are located in the Phoenix Metro Area.  If you prefer, please write to:  Allegro Medical, ATTN: Privacy Policy Administrator, 1733 E. McKellips Rd., #110, Tempe, AZ  85281.
-<p>
-</p></li><li>If you feel your privacy rights have been violated, call 1-866-282-0659.
-</li></ol></font>
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			<script src="https://seal.verisign.com/getseal?host_name=www.allegromedical.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES"></script>
-		</td>
-	</tr>			
-</tbody></table>
-
-<hr size="1" color="#2C237E">
-
-<!-- ********** End of Main display ***************************************************************************************************************** -->
-
-
-					</td>
-				</tr>
-				
-			</tbody></table>
-			<!-- ********** Start of Bottom Footer ********************************************************************************************************************** -->
-			<center>
-
-<br>
-		
-			<!-- ********** end of Bottom Footer ************************************************************************************************************************ -->
-		</center>
-		</td>
-		
-		<td>&nbsp;</td>
-		
-
-
-	</tr>
-</tbody></table>
-		<table cellpadding="0" cellspacing="0" border="0" width="770" align="center">
-		<tbody><tr>
-			<td>
-				<table cellpadding="0" cellspacing="0" border="0" width="550" align="center">
-				<tbody><tr>
-					<td height="1" bgcolor="#2C237E"><img src="/images/webgraphics/1x1trans.gif" height="1" width="1"></td>
-				</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td align="center">	
-			<font face="arial, helvetica" size="-1">
-				<a href="/home/default.asp" onmousedown="return trackclk('ftr',this)">Allegro Medical Supplies Home</a> &nbsp;|&nbsp;
-				<a href="/affiliate/affiliateIntro.asp" onmousedown="return trackclk('ftr',this)">Affiliate Program</a> &nbsp;|&nbsp;
-				<a href="/home/allegrofans.asp" onmousedown="return trackclk('ftr',this)">Allegro Fans</a> &nbsp;|&nbsp;
-				<a href="/home/locations.asp" onmousedown="return trackclk('ftr',this)">Locations</a> &nbsp;|&nbsp;
-				<a href="/home/AccountTerms.asp" onmousedown="return trackclk('ftr',this)">PO Terms</a> &nbsp;|&nbsp;
-				<a href="/home/become-a-vendor.asp" onmousedown="return trackclk('ftr',this)">Become a Vendor</a>
-				
-
-				
-				<br>
-				<a href="/home/AccountTerms.asp" onmousedown="return trackclk('ftr',this)">B2B Accounts</a> &nbsp;|&nbsp;
-				<a href="/home/livehelp.asp" onmousedown="return trackclk('ftr',this)">Contact Us</a> &nbsp;|&nbsp;
-
-				<a href="/cart/view.asp" onmousedown="return trackclk('ftr',this)">View Cart</a> &nbsp;|&nbsp; 
-				<a href="/home/privacy_Policy.asp" onmousedown="return trackclk('ftr',this)">Privacy Policy</a> &nbsp;|&nbsp;
-				<a href="/home/legal.asp" onmousedown="return trackclk('ftr',this)">Terms of Use</a> &nbsp;|&nbsp;
-				<a href="javascript:PopUpRRequest()" onmousedown="return trackclk('ftr',this)">Returns</a> &nbsp;
-			</font><br>
-			<font color="#996633" size="-2">Copyright© 1996-2005 Allegro Medical Supplies Inc.</font>
-			<table border="0" width="100%" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td align="center"><a href="http://www.shopping.com/xMR-Allegro%20Medical~MRD-306980~S-1"><img src="http://img.shopping.com/sc/CT/About/sdc_logo_rgb_90x20.gif" border="0"><br><img src="http://img.shopping.com/sc/ds/trusted_store.gif" border="0"></a>
-					</td>
-					<td align="center"><a href="http://www.allegroelectronics.com" style="font-size: x-small" target="_blank">www.AllegroElectronics.com</a></td>
-					<td align="center">
-					<a href="javascript:Certify('http://www.bbbonline.org/r.cfm?ID=1126000914');">
-					<img src="/images/webgraphics/reli6.gif" alt="BBBOnLine Reliability Seal" width="90" height="31" border="0"></a>
-					</td>
-				</tr>
-			</tbody></table>
-			</td>
-		</tr>
-		</tbody></table>
-
-
-
-
-
-<!-- ********** End of the ASP Page ************************************************************************************************************************************* -->
-
-</form></body></html>
+</body></html>
