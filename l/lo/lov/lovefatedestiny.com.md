@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the lovefatedestiny.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618023058id_/http%3A//lovefatedestiny.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovefatedestiny.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021140518id_/http%3A//www.lovefatedestiny.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Love fate destiny](https://web.archive.org/web/20060618023058id_/http%3A//lovefatedestiny.com/index.htm) **>** [Reciprocal link exchange](https://web.archive.org/web/20060618023058id_/http%3A//lovefatedestiny.com/reciprocallinkexchange.htm)
-
-|   
----|---  
-  
 This is the web site of Love Fate Destiny.
 
 We can be reached via e-mail at ds@lovefatedestiny.com
