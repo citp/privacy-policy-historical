@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetgr.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507073750id_/http%3A//www.planetgr.com/l/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetgr.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021085442id_/http%3A//www.planetgr.com/l/privacy_policy.htm) for the most accurate reproduction.*
 
 # planetGR! Privacy Policy
 
