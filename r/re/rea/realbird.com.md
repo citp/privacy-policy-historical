@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realbird.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616061941id_/http%3A//realbird.com%3Fp%3Dcontent.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realbird.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021104624id_/http%3A//realbird.com%3Fp%3Dcontent.privacy) for the most accurate reproduction.*
 
 # RealBird.com - Map-based search and publishing for real estate
 
