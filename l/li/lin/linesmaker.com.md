@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615080819id_/http%3A//linesmaker.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021111313id_/http%3A//linesmaker.com/support/privacy.htm) for the most accurate reproduction.*
 
 # LinesMaker.com: Protecting your privacy.
 
@@ -43,7 +43,7 @@ When you access your account information, it is protected by our highly secure e
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. Email: [ support@linesmaker.com](mailto:support@linesmaker.com)
-  2. Call the following toll free number: 800-996-5152
+  2. Call the following toll free number: 1-866-66-BET LM
 
 
 
