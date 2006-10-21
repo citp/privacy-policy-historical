@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the directline.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615061206id_/http%3A//www.directline.com/legal/security.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the directline.com privacy policy that was archived on 2006-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061021170711id_/http%3A//www.directline.com/legal/security.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -9,7 +9,7 @@
 
 
     
-            <meta name="keywords" content="About us, security and privacy">
+            <meta name="keywords" content="About us, security and privacy, Data protection notice">
             
         
 
@@ -41,12 +41,13 @@ function firewallFix( inRCP, linkId )
     if ( loc.indexOf("WORKAREA") ){
         pos = loc.indexOf("WORKAREA");
         tempURL = loc.substring(0, loc.indexOf("/", pos + 9)) + "/tracking/redirect/get_a_quote_button.htm?";    
-        tempURL2 = loc.substring(0, loc.indexOf("/", pos + 9)) + "/tracking/redirect/get_a_quote_button.htm?";    
+        tempURL2 = loc.substring(0, loc.indexOf("/", pos + 9)) + "/folder_hostedservices/index.htm?";  
+        alert(tempURL2);
     }
     else
     {
         tempURL = "http://" + location.host + "/tracking/redirect/get_a_quote_button.htm?";
-        tempURL2 = "http://" + location.host + "/tracking/redirect/get_a_quote_button.htm?";
+        tempURL2 = "http://" + location.host + "/folder_hostedservices/index.htm?";
     }
     
     if ( typeof linkId != "undefined" ){
@@ -91,6 +92,7 @@ function firewallFix( inRCP, linkId )
             DLIWindow = window.open( tempURL2, "", "height=600,width=800,screenY=50,top=15,left=50, menu=no, directories=no, status=yes , scrollbars=no,resizable=no" );
             break;
         case "REGISTER":
+        alert(tempURL2);
             DLIWindow = window.open( tempURL2, "", parms );
             break;
         case "COPYRIGHT":
@@ -206,7 +208,7 @@ function doSel()
     <script language="JavaScript" src="/generic/js/site-tracker.js" type="text/javascript"></script>
     <script language="JavaScript" type="text/javascript">
         if ( typeof displayDescription != "undefined") {
-            defaultStatus = "directline:Legal:Security & privacy";
+            defaultStatus = "directline:Legal:Data Protection Notice &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp   <img  alt="lock" src="/staticpages/images/security/lock.gif">";
         }
     </script>
          
@@ -402,7 +404,7 @@ html, body {margin: 0; padding: 0;}
          
                
                
-                 <div style="position:relative;width:518;padding:0;padding-left:10px;margin:0;float:left;height:75px"><table style="height:75px;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="vertical-align:bottom;"><h1 style="display:inline;padding:0;margin:0;bottom:0">Legal:</h1>&nbsp;&nbsp;<h1 class="pageTitle">Security &amp; privacy</h1></td></tr></tbody></table></div>            
+                 <div style="position:relative;width:518;padding:0;padding-left:10px;margin:0;float:left;height:75px"><table style="height:75px;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="vertical-align:bottom;"><h1 style="display:inline;padding:0;margin:0;bottom:0">Legal:</h1>&nbsp;&nbsp;<h1 class="pageTitle">Data Protection Notice &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   <img alt="lock" src="/staticpages/images/security/lock.gif"></h1></td></tr></tbody></table></div>            
                             
             
          
@@ -558,283 +560,222 @@ html, body {margin: 0; padding: 0;}
         
         
             <tbody><tr>
-              <td class="txtGenSmallNine"><p><br>
+              <td class="txtGenSmallNine"><br>
+<h2>Introduction</h2>
+
+<h3>How your personal information is used:</h3>
+
+<p><br>
+<a href="#Who_We_are">Who we are</a><br>
+<a href="#Your_Information">Your information</a><br>
+<a href="#Collection_of_Information">Collection of information</a><br>
+<a href="#Use_of_information">Use of information</a><br>
+<a href="#We_do_not_disclose_your_information_to_anyone_outside_the_Group_except_">We do not disclose your information to anyone outside the Group</a><br>
+<a href="#Keeping_you_informed">Keeping you informed</a><br>
+<a href="#Dealing_with_other_people">Dealing with other people</a><br>
+<a href="#Automatic_Renewals">Automatic Renewals</a><br>
+<a href="#Sensitive_Information">Sensitive Information</a><br>
+<a href="#Credit_reference_and__fraud_prevention_agencies">Fraud prevention agencies</a><br>
+<a href="#Call_monitoring_and_recording">Call monitoring and recording</a><br>
+<a href="#Further_information">Further information</a><br>
+<a href="#Security">Security</a><br>
+<a href="#Cookies">Cookies</a><br>
+<a href="#Further_Security">Further Security</a><br>
 </p>
 
-<h2>Direct Line Group Website Privacy Statement</h2>
-
-<br>
-<h3>How your&nbsp;personal information is used:</h3>
-
-<br>
-<a href="#sec1">Introduction</a><br>
-<a href="#sec2">Collection of Information</a><br>
-<a href="#sec3">How do we use your informatiom</a><br>
-<a href="#sec4">We do not disclose your information outside the group except:</a><br>
-<a href="#sec5">Credit reference and fraud prention agencies</a><br>
-<a href="#sec6">Keeping you informed</a><br>
-<a href="#sec7">Dealing with other people</a><br>
-<a href="#sec8">Automatic Renewals</a><br>
-<a href="#sec9">Sensitive Information</a><br>
-<a href="#sec10">Cookies</a><br>
-<a href="#sec11">Rejecting Cookies</a><br>
-<a href="#sec12">Data Storage Security</a><br>
-<a href="#sec13">Log In Security</a><br>
-<a href="#sec14">Call monitoring and recording</a><br>
-<a href="#sec15">Further Information</a><br>
-<h2>Intro<a name="sec1"></a>duction</h2>
-
-<br>
-This privacy statement outlines how your personal information will be used and sets out some of the security measures taken in order to protect your privacy. <br>
-<br>
-<p>The names and details of the companies that offer services through this Direct Line website (the "<strong>Site</strong>") are set out in the Conditions of Use. Those companies are collectively referred to in this statement as "<strong>Direct Line</strong>", "<strong>we</strong>" or "<strong>us</strong>". All Direct Line companies are subsidiaries of The Royal Bank of Scotland Group plc ("<strong>RBS</strong>"). Companies within the RBS group are collectively referred to in this notice as "<strong>RBS Group</strong>".</p>
-
-<p>Your "<strong>personal information</strong>" means any information that we have obtained from you or third parties in connection with a service or product provided to you that is held now or at any time in the future by us or the RBS Group.</p>
-
-<p>Direct Line and the RBS Group as a whole take your privacy very seriously and promise to respect your personal information. Please read this privacy statement to see how we and the RBS Group will treat any personal information that is provided to us via the telephone, in writing or via use of this Site.</p>
-
-<p><strong>Please note that this is a general statement on how personal information is used by Direct Line and the RBS Group.&nbsp;</strong> <strong>If you purchase a particular product or service you will receive a hard copy of a specific privacy statement that is relevant to that product or service. That statement will be enclosed in product documentation sent to you and is entitled "What we do with your information". It is also available on line and is accessible via the home page for each particular product. In the event of conflict between the terms of this privacy statement and the terms of the specific privacy statement that applies to a particular product then the terms of the latter shall prevail.</strong></p>
-
-<p>You should show this document to anyone else who is covered by, or a party to, any policies or services that you purchase from us. We may change this privacy statement from time to time. Any changes will take effect once the revised privacy statement is available on the Site.<br>
-<a href="#Top"><strong>Back to top</strong></a></p>
-
-<p></p>
-
-<h2><a name="sec2"></a>Collection of Information</h2>
-
-<br>
-Information is collected lawfully and in accordance with the Data Protection Act 1998 (as amended and updated from time to time). We may collect personal information directly from you when you ask for a quote or as a result of the purchase of a product or service from us. We will do our best to ensure that your details are accurate and kept up to date and we would ask you to assist us in doing so by notifying us of any changes to your personal information. <br>
-<br>
-<p>We are constantly striving to improve the quality of our service and the efficiency of our systems and so, from time to time we may use your personal information that you give us to help us to do this.<br>
-<a href="#Top"><strong>Back to top</strong></a></p>
-
-<p></p>
-
-<h2><a name="sec3"></a>How we use your information</h2>
+<h2><a name="Who_We_are"></a>Who We are</h2>
 
 <p><br>
-We may use and share your imformation with other members of the group to help us, and then:</p>
+Direct Line Insurance is underwritten by Direct Line plc who are authorised and regulated by the Financial Services Authority.</p>
 
-<ul>
-<li>assess financial and insurance risk;</li>
+<p>We are members of the Royal Bank of Scotland Group (The Group). For information about our Group of companies please visit&nbsp;<a href="http://www.rbs.com/" target="_blank"><strong>www.rbs.com</strong></a>&nbsp;and click on ‘About Us’, or for similar enquiries please telephone 0131 556 8555 or Textphone 0845 900 5960.<br>
+</p>
 
-<li>recover debt;</li>
+<p><a href="#Top"><strong>Back to top</strong></a></p>
 
-<li>develop customer relationships, services and systems; and</li>
+<h2><a name="Your_Information"></a>Your Information</h2>
 
-<li>prevent and detect crime.</li>
-</ul>
+<br>
+Please take a few minutes to read this document as it contains important information relating to the details that you have given us. You should also show this document to anyone else who is covered under your policy. <br>
+<br>
+<p>“Your personal information” means any information obtained from you in connection with a service or product provided to you by us.</p>
+
+<p>If you contact us electronically, we may collect your electronic identifier e.g. Internet Protocol (IP) address or telephone number supplied by your service provider.</p>
+
+<p>Your privacy is important to us, and we promise to respect your personal information.</p>
+
+<p><a href="#Top"><strong>Back to top</strong></a><br>
+</p>
+
+<h2><a name="Collection_of_Information"></a>Collection of Information</h2>
 
 <p><br>
-Your information includes information about your transactions.</p>
+Information is collected lawfully and in accordance with the Data Protection Act 1998. We will do our best to ensure that your details are accurate and kept up to date.</p>
 
-<p>As our business and our relationships with you develop, the way in which we look at, record and use your Information may change.&nbsp; In most cases these changes will result from enhancements in technology and we believe, will be in line with your expectations.&nbsp; Where we believe the changes may not be obvious to you, we will give you notice of them.&nbsp; You are agreeing that by continuing to maintain your account, product, or service, for at least 60 days after we have notified you of a change, you will be consenting to that change (unless you write to us to tell us that you do not wish us to use your information in the new way).<br>
-<a href="#Top"><strong>Back to top</strong></a></p>
+<p>If you contact us electronically, we may collect your electronic identifier e.g. Internet Protocol (IP) address or telephone number supplied by your service provider.<br>
+<strong><u><br>
+</u></strong><a href="#Top"><strong>Back to top</strong></a><br>
+</p>
 
-<p></p>
+<h2><a name="Use_of_information"></a>Use of information</h2>
 
-<h2><a name="sec4"></a>We do not disclose your information outside the Group except:</h2>
+<br>
+We may use and share your information with other members of the group to help us, and then: 
 
 <ul>
-<li>
-<div>where we have your permission to do so;</div>
-</li>
+<li>assess financial and insurance risk</li>
 
-<li>
-<div>where we have to do so, or are allowed to do so, by law;</div>
-</li>
+<li>recover debt</li>
 
-<li>
-<div>where other companies need the information to provide a service to us, or you; or</div>
-</li>
+<li>develop customer relationships, services and systems</li>
 
-<li>
-<div>where we can transfer rights and responsibilities under this agreement.<br>
-</div>
+<li>prevent and detect crime<br>
 </li>
 </ul>
 
-<p>In order to provide the services you have requested or may request from time to time, it may be neccessary for your Information to be transferred to someone who provides a service to us in other countries.&nbsp; If we do this we will ensure that anyone to whom we pass your Information agrees to treat it with the same level of protection as if we were dealing with it.&nbsp;&nbsp;<br>
+Your information includes information about your transactions. <br>
+<br>
+<p><br>
 <a href="#Top"><strong>Back to top</strong></a></p>
 
-<p></p>
+<h2><a name="We_do_not_disclose_your_information_to_anyone_outside_the_Group_except_"></a>We do not disclose your information to anyone outside the Group except:</h2>
 
-<h2><a name="sec5"></a>Credit reference and fraud prevention agencies</h2>
+<br>
+Where we have your permission; where we are required or permitted to do so by law; or to other companies who provide a service to us or you; or where we may transfer rights and obligations under this agreement. 
 
 <p><br>
-An ‘association’ between the joint applicants and/or any individual identified as your financial partner, will be created at credit reference agencies, which will link your financial records. You and anyone else with whom you have a financial link understand that each other’s&nbsp; information will be taken into account in all future applications by either or both of you. This linking will continue until one of you successfully files a ‘disassociation’ at the credit reference agencies.</p>
+From time to time we may change the way we use your information. Where we believe you may not reasonably expect such a change we shall write to you. If you do not object to the change within 60 days, you consent to that change.</p>
 
-<p>We may make periodic searches of Group records, credit reference and fraud prevention agencies to manage your product with us, to take&nbsp;decisions regarding credit, including whether to make credit available or to continue to extend existing credit. The searches will not be seen or used by lenders to assess your ability to obtain credit.</p>
+<p><a href="#Top"><strong>Back to top</strong></a></p>
 
-<p>Where you borrow or may borrow from us, we may give details of your account and how you manage it to credit reference agencies. If you borrow and do not repay in full and on time, we may tell credit reference agencies who will record the outstanding debt.</p>
+<h2><a name="Keeping_you_informed"></a>Keeping you informed</h2>
 
-<p>We will check your details with fraud prevention agencies.&nbsp; If you provide false or inaccurate information and we suspect fraud, we will record this.&nbsp; We and other organisations may use these records to:</p>
+<br>
+<p>If you have given prior permission, we would like to keep you informed by letter, phone and electronic means (including e-mail and mobile messaging) about products, services and additional benefits that we believe may be of interest to you. If you would prefer not to receive this information please let us know.</p>
+
+<p><a href="#Top"><strong>Back to top</strong></a></p>
+
+<h2><a name="Dealing_with_other_people"></a>Dealing with other people</h2>
+
+<br>
+<p>At the request of many of our customers and to make managing your insurance more convenient, it is our policy to deal with your spouse or partner who calls us on your behalf. If you would like someone else to deal with your policy on your behalf on a regular basis please let us know. In some exceptional cases we may also deal with other people who call on your behalf, with your consent. If at any time you would prefer us to deal only with you, please let us know.</p>
+
+<p><a href="#Top"><strong>Back to top</strong></a></p>
+
+<h2><a name="Automatic_Renewals"></a>Automatic Renewals</h2>
+
+<br>
+<p>If you have taken advantage of our automatic renewal service we will retain your payment details in order to continue to deduct premiums when your policy is renewed. Each year we will write you in advance to remind you that this is happening.</p>
+
+<p><a href="#Top"><strong>Back to top</strong></a></p>
+
+<h2><a name="Sensitive_Information"></a>Sensitive Information</h2>
+
+<br>
+<p>Some of the personal information we ask you for may be sensitive personal data, as defined by the Data Protection Act 1998 (such as information about health or criminal convictions) about you and others named on the insurance policy. We will not use such sensitive personal data about you or others except for the specific purpose for which you provide it and to provide the services described in your policy documents. You will have been asked to agree to this when you called but please ensure that you only provide us with sensitive information about other people with their agreement.<br>
+<br>
+<a href="#Top"><strong>Back to top</strong></a></p>
+
+<h2>Fraud prevention agencies<a name="Credit_reference_and__fraud_prevention_agencies"></a></h2>
+
+<br>
+<p>We will check your details with fraud prevention agencies. If you provide false or inaccurate information and we suspect fraud, we will record this.<br>
+<br>
+We and other organisations may use these records to:</p>
 
 <ul>
 <li>
-<div>help make decisions about credit and credit related services for you and&nbsp;members of your household;</div>
+<div>help make decisions about credit and credit related services for you and<br>
+members of your household;</div>
 </li>
 
 <li>
-<div>help make decisions on motor, household, credit, life and other insurance&nbsp;proposals and insurance claims, for you and members of your household;</div>
+<div>help make decisions on motor, household, credit, life and other insurance proposals and insurance claims, for you and members of your household;</div>
 </li>
 
 <li>
-<div>trace debtors, recover debt, prevent fraud, and manage your accounts or&nbsp;insurance policies;</div>
+<div>trace debtors, recover debt, prevent fraud, and manage your accounts or insurance policies;</div>
 </li>
 
 <li>
-<div>check your identity to prevent money laundering, unless you&nbsp;furnish us with satisfactory proof of identity.<br>
-</div>
+<div>check your identity to prevent money laundering, unless you furnish us with satisfactory proof of identity.</div>
 </li>
 </ul>
 
-<p>If you take out a relevant policy you are required under the policy terms to tell us about any incident (such as an accident or theft) which may or may not give rise to a claim. When you tell us about an incident, we will pass information relating to it to these registers.<br>
 <br>
-We are also required to supply motor insurance policy details to the Motor Insurance Database (MID) run by the Motor Insurer’s Information Centre (MIIC) to which the police, DVLA/DVLNI (Driver and Vehicle Licensing agencies) and other insurers have access.<br>
+If you want to receive details of those fraud agencies from whom we obtain and with whom we record information about you, please contact us at the final address shown below. You have a legal right to these details.<br>
 <br>
-Persons pursuing a claim in respect of a road traffic accident (including citizens of other countries) may also obtain relevant information which is held on the MID. You can find out more about this from us, or at <a title="www.miic.org.uk" href="http://www.miic.org.uk/"><strong>www.miic.org.uk</strong></a>.</p>
+Insurers pass information to the Claims and Underwriting Exchange Register, run by Insurance Database Services Ltd and the Motor Insurance Anti Fraud and Theft Register run by the Association of British Insurance. The aim is to help us to check information provided and also to prevent fraudulent claims. When we deal with your request for insurance we may search this register. Under the conditions of your policy you must tell us about any incident (such as an accident or theft) which may or may not give rise to a claim. When you tell us about an incident, we will pass information relating to it to the registers. <br>
+<br>
+<p>We are also required to supply motor insurance policy details to the Motor Insurance Database (MID) run by the Motor Insurer’s Information Centre (MIIC) to which the police, DVLA/DVLNI (Driver and Vehicle Licensing agencies) and other insurers have access.<br>
+</p>
 
-<p>If you or other members of your household apply for credit, insurance, or other financial services then we, the RBS Group, other lenders and other insurance companies may use search records and any other information provided to credit reference agencies for occasional debt tracing, claims assessment and fraud prevention purposes. The RBS Group, the credit reference agencies and fraud prevention agencies will also use the records for statistical analysis.<br>
+<p><a href="#Top"><strong>Back to top</strong></a></p>
+
+<h2><a name="Call_monitoring_and_recording"></a>Call monitoring and recording</h2>
+
 <br>
-Please note that we do not hold a copy of your credit reference records.<br>
+<p>We may monitor and record telephone calls in order to improve our service and to prevent and detect fraud.<br>
 <br>
-An association between joint applicants and/or any individual identified as your financial partner will be created at credit reference agencies, which will link your financial records. You and anyone else with whom you have a financial link understand and agree that each other's information will be taken into account in future applications by either or both of you. This linking will continue until one of you successfully files a 'disassociation' with credit reference agencies.<br>
+<a href="#Top"><strong>Back to top</strong></a><br>
+</p>
+
+<h2><a name="Further_information"></a>Further information</h2>
+
+<br>
+<p>If you would like a copy of the information we hold about you, please contact the Data Protection Officer, Regulatory Risk Department, Mailpoint 38, Churchill Court, Westmoreland Road, Bromley, Kent BR1 1DP, quoting reference DL. A fee may be payable.<br>
+<br>
 <a href="#Top"><strong>Back to top</strong></a></p>
 
-<p></p>
+<h2><a name="Security"></a>Security</h2>
 
-<h2><a name="sec6"></a>Keeping you informed</h2>
-
-<p><br>
-Unless you have informed us to the contrary, personal information held may be used by us or the RBS Group to carry out research and to inform you by letter or telephone of other products we or the RBS Group believe may interest you.<br>
 <br>
-We would like to tell you, by letter, phone or fax including automatic dialling, e-mail or other electronic means, about products and services which we believe would be of interest to you, and which are offered by us and other selected companies.&nbsp; If you would prefer not to receive marketing information or to participate in research, simply tell us next time you call.&nbsp; Please be assured that we will not make your personal details available to any companies outside the RBS Group to use for their own marketing purposes.&nbsp; Alternatively, change your selection within the settings in "My Direct Line" or when you next obtain a quote online.<br>
-<a href="#Top"><strong>Back to top</strong></a></p>
-
-<p></p>
-
-<h2><a name="sec7"></a>Dealing with other people</h2>
-
-<p><br>
-At the request of many of our insurance policyholders and to make the managing your policy more convenient, it is our policy to deal with a policyholder's&nbsp;spouse or partner (if named on the policy where applicable) who calls on behalf.<br>
+Any personal data saved is held safely on our mainframe computer, with security systems preventing unauthorised access and we always ensure it is treated confidentially. For further information regarding our security provisions please out note titled Security. <br>
 <br>
-If you would like someone else to be able to deal with your policy for you on a regular basis please let us know. In some exceptional circumstances we may also deal with other people who call us on your behalf, with your consent. If at any time you would prefer us to deal only with you, please call to let us know.&nbsp; Please note that we will not reveal any credit or debit card numbers that we hold to anyone other than the policyholder.<br>
-<a href="#Top"><strong>Back to top</strong></a></p>
+<p><a href="#Top"><strong>Back to top</strong></a></p>
 
-<p></p>
+<h2><a name="Cookies"></a>Cookies</h2>
 
-<h2><a name="sec8"></a>Automatic Renewals</h2>
-
-<p><br>
-If you have taken advantage of our automatic renewal service we will retain your payment details in order to continue to deduct premiums when your policy is renewed.<br>
-<a href="#Top"><strong>Back to top</strong></a></p>
-
-<p></p>
-
-<h2><a name="sec9"></a>Sensitive Information</h2>
-
-<p><br>
-Some of the information we ask you for may be sensitive personal data, as defined by the Data Protection Act 1998 about you and others named on the insurance policy.&nbsp; We will not use such sensitive personal data about you or others except for the specific purpose for which you provided it and to provide the services described in your policy documents.&nbsp; Please ensure that you only provide us with sensitive information about other people with their agreement.<br>
-<a href="#Top"><strong>Back to top</strong></a></p>
-
-<p></p>
-
-<h2><a name="sec10"></a>Cookies</h2>
-
-<p><br>
-A cookie identifies your computer to a server that then enables information to be stored on the hard drive of your computer. Cookies allow a puter to be identified as corresponding to one that has accessed another website or visited Site previously. Cookies are commonly used on the Internet and do not harm your computer system.</p>
-
-<p>The cookies used on the Site do not include any information that others could read and understand about you, such as your name, or any account or policy number. They contain no personal information about you.<br>
 <br>
-We currently use a combination of first and third party cookies in the following ways:</p>
+<p>Please note that we use "Cookies" on the Site. A cookie is a software application that tracks our users' navigation of the Site and stores that information on their hard drives. This allows us to understand our users' habits and preferences which enables us to customise our services for our users to provide an enhanced user experience. We may, for example, use cookies to store registration information so that you do not have to provide it to us on subsequent visits.</p>
 
-<ul>
-<li>To facilitate your ability to navigate through the Site.</li>
+<p><a href="#Top"><strong>Back to top</strong></a></p>
 
-<li>To collate anonymous aggregated information that is used to manage and plan enhancements to our services. For example, cookies help us to understand the popular paths that users take through the Site and how often it is visited.</li>
+<h2><a name="Further_Security"></a>Further Security</h2>
 
-<li>To evaluate the effectiveness of our advertising and promotions on third party websites by tracking whether these advertisements are clicked on by users. We use third party agents to assist in providing information on promotion delivery.</li>
-
-<li>We own and control the use of all data collected and it is not shared with any other third party. All data collected is anonymous and non-personal.</li>
-
-<li>As a flag to help us recognise when we have already asked you to participate in any online market research and to prevent you from being asked to complete the same questionnaire every time that you visit the Site while any particular research work is being carried out.</li>
-</ul>
-
-<p>Please note that we do not use third party tracking cookies in any respect.<br>
-<a href="#Top"><strong>Back to top</strong></a></p>
-
-<p></p>
-
-<h2><a name="sec11"></a>Rejecting Cookies</h2>
-
-<p><br>
-If you do not want us to use cookies when you visit the Site, you can configure your browser not to accept them or opt-out.&nbsp; Please refer to your&nbsp;browser's 'help' facility.<br>
 <br>
-If you choose to reject cookies once you have logged onto the Site, but after a cookie has already been sent you can do so. If you delete certain cookies however, you may experience difficulties in navigation of the Site.<br>
-By deleting cookies, information collected to date becomes redundant. We will still hold the information about the cookie on our system. However, we will not be able to identify your computer as its former holder the next time you visit the Site.<br>
-The information we hold about that cookie becomes completely unidentifiable as soon as you have deleted it from your computer.&nbsp; For more information on cookies and deletion of cookies please see&nbsp;<a href="http://www.allaboutcookies.org/manage-cookies/" target="_blank"><strong>http://www.allaboutcookies.org/manage-cookies/</strong></a><br>
-<a href="#Top"><strong>Back to top</strong></a></p>
-
-<p></p>
-
-<h2><a name="sec12"></a>Data Storage Security</h2>
-
-<p><br>
-Any personal information saved is held safely on our mainframe computer, with security systems preventing unauthorised access and we always ensure it is treated confidentially.<br>
+We take security very seriously and we use one of the strongest available security systems to protect your communications with us. Whenever you fill in a form, such as a request for a quote, it is automatically protected using something called a Secure Socket Layer (SSL) between your computer and ours. SSL works in the following ways: <!--
+        ******************************************************************
+        Only display the Versisign logo for the domain directline.com
+        And very the preceeding text to refer to (or not) the image.
+        ******************************************************************
+//--><script type="text/javascript"><!--
+    if (window.location.host.split(".")[1] == 'directline') {
+        document.write('<br><br><p>It prevents impersonation - you can tell that you are using a genuine SSL site by the padlock symbol at the bottom of the screen. Clicking on either the padlock or the image below will reveal our Registration Certificate that is issued by Verisign, a leading Internet security company.</p>');
+        document.write('<p><a href="https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&amp;form_file=../fdf/authCertByIssuer.fdf&amp;issuerSerial=a673a64acff40fb7cd6e3da67e96fc4d" target="_blank"></a></p>');
+        document.write('<p><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=uk1.DIRECTLINE.COM&amp;lang=en" target="_blank"><img height="100" alt="Click here to verify this site - opens in new browser window" src="/generic/images_sp/VeriSignSeal_FFFFFF.gif" width="89" border="0"></a><br><br>');
+    }
+    else {
+        document.write('<br><br><p>It prevents impersonation - you can tell that you are using a genuine SSL site by the padlock symbol at the bottom of the screen. Clicking on the padlock will reveal our Registration Certificate that is issued by Verisign, a leading Internet security company.</p>');
+    }
+//--></script><br><br><p>It prevents impersonation - you can tell that you are using a genuine SSL site by the padlock symbol at the bottom of the screen. Clicking on the padlock will reveal our Registration Certificate that is issued by Verisign, a leading Internet security company.</p><noscript><br>
 <br>
-We take security very seriously and we use one of the strongest available security systems to protect your communications with us. Whenever you fill in an online form, such as a request for a quote, it is automatically protected using something called a Secure Socket Layer (SSL) between your computer and ours. SSL works in the following ways:</p>
-
-<p>It prevents impersonation - you can tell that you are using a genuine SSL site by the padlock symbol at the bottom of the screen. Clicking on either the padlock or the image below will reveal our Registration Certificate that is issued by Verisign, a leading Internet security company.</p>
-
-<p>Any personal information saved is held safely on our mainframe computer, with security systems preventing unauthorised access and we always ensure it is treated confidentially.<br>
+<p>It prevents impersonation - you can tell that you are using a genuine SSL site by the padlock symbol at the bottom of the screen. Clicking on the padlock will reveal our Registration Certificate that is issued by Verisign, a leading Internet security company.</p>
+</noscript>
+<p>It encrypts data - as soon as your computer has recognised our computer they encrypt all information that is passed between them. Data encryption means that no one else can read or change your information as it travels over the Internet.<br>
 <br>
-We take security very seriously and we use one of the strongest available security systems to protect your communications with us. Whenever you fill in an online form, such as a request for a quote, it is automatically protected using something called a Secure Socket Layer (SSL) between your computer and ours. SSL works in the following ways:</p>
+It prevents scrambling - SSL uses a Message Authentication Code (MAC) to prevent anyone tampering with our Internet site. Your computer will always check this code before it takes a message from us. This means that if anyone tried to interfere with a message, your computer would not recognise the code and would alert you.</p>
 
-<p>It prevents impersonation - you can tell that you are using a genuine SSL site by the padlock symbol at the bottom of the screen. Clicking on either the padlock or the image below will reveal our Registration Certificate that is issued by Verisign, a leading Internet security company.</p>
-
-<p><a href="https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&amp;form_file=../fdf/authCertByIssuer.fdf&amp;issuerSerial=a673a64acff40fb7cd6e3da67e96fc4d" target="_blank"><img height="100" alt="Click here to verify this site - opens in new browser window" src="/generic/images_sp/VeriSignSeal_FFFFFF.gif" width="89" border="0"></a></p>
-
-<p>It encrypts data - as soon as your computer has recognised our computer they encrypt all information that is passed between them. Data encryption means that no one else can read or change your information as it travels over the Internet.</p>
-
-<p>It prevents scrambling - SSL uses a Message Authentication Code (MAC) to prevent anyone tampering with our Internet site. Your computer will always check this code before it takes a message from us. This means that if anyone tried to interfere with a message, your computer would not recognise the code and would alert you.</p>
-
-<p>We are aware that there are two minor problems with Microsoft Internet Explorer. Neither problem has any effect on the actual security in force on the Site, but may make it appear to you as if it is not fully secure.</p>
-
-<p>Internet Explorer 4: The padlock symbol does not always appear at the bottom when it should. A full description of this error, number Q154621, is available at&nbsp;<a href="http://www.support.microsoft.com/support/kb/articles/Q154/6/21.asp" target="_blank"><strong>http://www.support.microsoft.com/support/kb/articles/Q154/6/21.asp</strong></a></p>
-
-<p>Internet Explorer 5: If you click on the padlock symbol to view the security certificate the following message may be displayed: "This certificate has failed to verify for all of its intended purposes". The other details of the certificate shown are correct. A full description of this error, number Q233479, is available at&nbsp;<a href="http://www.support.microsoft.com/support/kb/articles/Q233/4/79.asp" target="_blank"><strong>http://www.support.microsoft.com/support/kb/articles/Q233/4/79.asp</strong></a><br>
-<a href="#Top"><strong>Back to top</strong></a></p>
-
-<p></p>
-
-<h2><a name="sec13"></a>Log in Security</h2>
-
-<p><br>
-<a href="https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&amp;form_file=../fdf/authCertByIssuer.fdf&amp;issuerSerial=e7783176a91e638a4336596ac913a43f" target="_blank"></a>We would like to remind you to keep any log in details and passwords you have secure at all times. Security details should only be entered on our secure website. We may use e-mail to direct you to a secure log in page on our Site or, where consent is given, to inform you of other products, but we will never ask you to reveal or send your security details to us via email.<br>
+<p>There are two minor problems with Microsoft Internet Explorer. Neither problem has any effect on the actual security in force, but may make it appear to you as if it is not fully secure.<br>
 <br>
-Please be on your guard for suspicious emails. If you do receive an email asking you to submit account or security details (such as a credit card number, password or PIN number) or if you are suspicious in any way of any communication you are asked to provide over the internet in connection with Direct Line please contact us by phone on 0845 300 5988 if your call relates to Financial Services or on 0208 290 3453 if it relates to an insurance product.<br>
-<a href="#Top"><strong>Back to top</strong></a></p>
+Internet Explorer 4. The padlock symbol does not always appear at the bottom when it should. A full description of this error, number Q154621, is at <a href="http://support.microsoft.com/support/kb/articles/Q154/6/21.asp" target="_blank"><strong>http://support.microsoft.com/support/kb/articles/Q154/6/21.asp</strong></a></p>
 
-<p></p>
+<p>Internet Explorer 5. If you click on the padlock symbol to view the security certificate the following message may be displayed: "This certificate has failed to verify for all of its intended purposes". The other details of the certificate shown are correct. A full description of this error, number Q233479, is at <a href="http://support.microsoft.com/support/kb/articles/Q233/4/79.asp" target="_blank"><strong>http://support.microsoft.com/support/kb/articles/Q233/4/79.asp</strong></a></p>
 
-<h2><a name="sec14"></a>Call monitoring and recording</h2>
+<p><a href="#Top"><strong>Back to top</strong></a><br>
+</p>
 
-<p><br>
-We record telephone calls for monitoring and training purposes and to assist us in preventing and detecting fraud.<br>
-<a href="#Top"><strong>Back to top</strong></a></p>
-
-<p></p>
-
-<h2><a name="sec15"></a>Further information</h2>
-
-<p><br>
-You have a right of access to your personal information and records held on our files.&nbsp; If you would like a copy of your personal information or would like further information on the contents of this privacy policy please write to the Data Protection Officer, Compliance Department, Churchill Court, Westmoreland Road, Bromley, Kent BR1 1DP.&nbsp; A fee may be payable.</p>
-
-<p>You have a right of access to your personal records that are held by such credit reference agencies and we can supply the names and addresses of the agencies used on request.</p>
-
-<p>Last updated : March 2006<br>
-<a href="#Top"><strong>Back to top</strong></a></p>
+<h2><a name="We_will_check_your_details_with_fraud_prevention_agencies_"></a></h2>
 
                   
               </td>
@@ -874,6 +815,17 @@ You have a right of access to your personal information and records held on our 
 </div>
 </td>
 </tr>
+<tr>
+<td style="margin:0px;padding:0px;height:0px">
+	<div style="position:relative;clear:both;width:200;border:0px solid #ffffff;height:0px;margin:0px;padding:0px;">&nbsp;
+</div>
+</td>
+<td style="margin:0px;padding:0px;height:0px;border-left:1px solid #cccccc;">
+	<div style="position:relative;clear:both;width:572;border:0px solid #ffffff;height:0px;margin:0px;padding:0px;">&nbsp;
+</div>
+</td>
+</tr>
+
 
 
 
@@ -903,7 +855,7 @@ You have a right of access to your personal information and records held on our 
      
                      
             <script language="javascript">
-                SiTrackTracer("/pagedescription.gif","pagedesc=Legal:Security & privacy");
+                SiTrackTracer("/pagedescription.gif","pagedesc=Legal:Data Protection Notice &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp   <img  alt="lock" src="/staticpages/images/security/lock.gif">");
                 SiTrackTracer("/brand.gif","brandname=directline");
             </script>
          
