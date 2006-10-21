@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amarillo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215456id_/http%3A//www.amarillo.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amarillo.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021203055id_/http%3A//amarillo.com/privacypolicy) for the most accurate reproduction.*
 
 # amarillo.com | Your Guide to Amarillo, Texas
 
