@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india-station.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318141937id_/http%3A//www.india-station.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india-station.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021022105id_/http%3A//www.india-station.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
