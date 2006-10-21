@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centene.com privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426194421id_/http%3A//www.centene.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centene.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021151838id_/http%3A//centene.com/site/privacy_policy) for the most accurate reproduction.*
 
 # Centene Corporation - Privacy Policy
 
