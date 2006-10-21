@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rotowire.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041551id_/http%3A//www.rotowire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotowire.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021111440id_/http%3A//www.rotowire.com/privacy.htm) for the most accurate reproduction.*
 
-# Advertise on RotoWire
+# RotoWire Privacy Policy
 
 ## ROTOWIRE.COM PRIVACY POLICY
 
-Here at Roto Sports, Inc., we are committed to you and to protecting your privacy rights. The information we collect about you is used to provide you with a more personalized and richer experience while visiting our network of web sites, including RotoWire.com and CoverWire.com (the "Roto Sports, Inc. Network"). 
+Here at Roto Sports, Inc., we are committed to you and to protecting your privacy rights. The information we collect about you is used to provide you with a more personalized and richer experience while visiting our network of web sites, including RotoWire.com, Databasesports.com and CoverWire.com (the "Roto Sports, Inc. Network"). 
 
 **RotoWire.com does not sell the email addresses of its users to third parties.**
 
