@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2006-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060528174410id_/http%3A//www.edinarealty.com/Content/Content.aspx%3FFooterID%3D15105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021154723id_/http%3A//www.edinarealty.com/Content/Content.aspx%3FFooterID%3D15105) for the most accurate reproduction.*
 
 # Edina Realty, Twin Cities Real Estate, Minnesota Real Estate, Homes For Sale in Minnesota, Minneapolis Area Homes, St Paul Area Homes, Northern Minnesota Real Estate, NW Wisconsin Real Estate, NW Wisconsin Lake Property, Hayward Real Estate, Siren WI Real Estate, Brainerd Lakes Real Estate, Northern Minnesota Lakeshore Real Estate, Lakeshore Real Estate, Duluth Real Estate, Wisconsin Real Estate, Minnesota Lakeshore Real Estate
 
