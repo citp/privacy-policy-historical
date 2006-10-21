@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allwebcodesign.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626233330id_/http%3A//www.allwebco.com/W3C/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwebcodesign.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021081506id_/http%3A//www.allwebco.com/W3C/privacy.htm) for the most accurate reproduction.*
 
 # The AllWebCo Privacy Policy
 
@@ -13,7 +13,7 @@ We collect the following types of information:
   * Traditional contact information such as mailing address, phone number, and fax number.
   * Internet contact information such email addresses.
   * Web pages visited, click stream data, and other navigation information.
-  * Financial information, during hoting purchases.
+  * Financial information, during hosting purchases.
 
 **Why is this website collecting the information?**
 
