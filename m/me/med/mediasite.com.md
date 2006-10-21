@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediasite.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022009id_/http%3A//mediasite.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediasite.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021223206id_/http%3A//www.mediasite.com/privacy.aspx) for the most accurate reproduction.*
 
 # Mediasite.com | Privacy Policy
 
