@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the paizo.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619220657id_/http%3A//paizo.com/paizo/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paizo.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021033336id_/http%3A//paizo.com/paizo/about/privacypolicy) for the most accurate reproduction.*
 
 # paizo.com - Paizo / About Paizo / Privacy Policy
 
 ## Paizo Publishing, LLC Website Privacy Policy
 
-### This document was last updated December 3, 2003
+### This document was last updated September 18, 2006
 
-We at Paizo Publishing are committed to protecting your personal information. This policy applies to transactions made and data gathered on the Paizo.com website, and does not apply to any other website or offline contact between Paizo Publishing and consumers.
+We at Paizo Publishing are committed to protecting your personal information. This policy applies to transactions made and data gathered on the paizo.com website, and does not apply to any other website or offline contact between Paizo Publishing and consumers.
 
-Each time you visit Paizo.com or provide us with information, you are accepting the practices as described in the policy at that time.
+Each time you visit paizo.com or provide us with information, you are accepting the practices as described in the policy at that time.
 
 Please review the Privacy Policy from time to time as we may update it periodically.
 
@@ -16,7 +16,7 @@ Please review the Privacy Policy from time to time as we may update it periodica
 To provide you with products and services, we may collect personal information (i.e. name, mailing address, phone number, email address), financial information (i.e. credit card numbers and billing addresses), and demographic information (i.e. zip code, age). Please note that nowhere on this site do we knowingly collect information from children under the age of 13.
 
 **How We Use Your Personal Information**  
-We use the information you provide for us to help us deliver the services you have requested, to contact you when necessary in connection with those service requests, and to send you information regarding your order or requested services. In some cases, it is necessary for us to provide information particular to you to a third party. For example, in order to deliver your magazine using the address you have provided, it is often necessary for us to provide your name to the printer for the production of delivery information, to a subscription tracking service to assure that you are notified when your subscription will expire, and to a delivery company so that you can receive your magazine.
+We use the information you provide for us to help us deliver the services you have requested, to contact you when necessary in connection with those service requests, and to send you information regarding your order or requested services. In some cases, it is necessary for us to provide information particular to you to a third party. For example, in order to deliver your magazine using the address you have provided, it is often necessary for us to provide your name to the printer for the production of delivery information, to a service that may provide notification regarding the expiration of your subscription, and to a delivery company so that you can receive your magazine. Note that, in the case of subscriptions to _Dragon_ or _Dungeon_ magazines, pertinent subscription information is also provided to Wizards of the Coast, Inc.
 
 We use the financial information you give us to check your qualifications and to charge you for products and services you order from us. By making a purchase or engaging in other activity on the Site that uses financial information, you consent to our providing your financial information to our service providers and the third parties necessary to process your transactions.
 
@@ -29,7 +29,7 @@ Your information may be stored and processed in the United States or any other c
 **Access and Control of your Personal Information**  
 When you register, or otherwise give us personal information, Paizo will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
 
-You have the means to ensure that your personal information is correct and current. You may review and update this information at any time in the "My Account" area of Paizo.com or by sending a request to [customer.service@paizo.com](mailto:customer.service@paizo.com). You can:
+You have the means to ensure that your personal information is correct and current. You may review and update this information at any time in the "My Account" area of paizo.com or by sending a request to [customer.service@paizo.com](mailto:customer.service@paizo.com). You can:
 
   * View and edit personal information you have already given us. 
   * Tell us whether you want Paizo to send you marketing information. 
