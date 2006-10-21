@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the marriagemindedpeoplemeet.com privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420200607id_/http%3A//www.marriagemindedpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriagemindedpeoplemeet.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021111255id_/http%3A//www.marriagemindedpeoplemeet.com/privacy/%3Fa%3Durl) for the most accurate reproduction.*
 
-# MARRIAGEMINDEDPeopleMeet.com - The Marriage Minded People Network - 04/20/2006
+# LITTLEPeopleMeet.com - The Little People Network - 10/21/2006
 
 |  |  |   
 ---  
-The Marriage Minded People Network  
-[](https://web.archive.org/sign_up/?a=)  
+The Little People Network  
+[](https://web.archive.org/sign_up/?a=url)  
   
 |   
 ---  
 |   
 ---  
    
-MARRIAGEMINDEDPeopleMeet.com is known here after as "Service" The "Service" is completely committed to the protection of your information and privacy when you use our web service or subscribe to our service from our site. This policy statement demonstrates the "Service" commitment to the protection of your online privacy. Developing friendships or relationships with others may encourage people to disclose private information about themselves. The following statement reflects how the "Service" may use the limited information that we collect from you as a purchaser or user of our services. Please note that we do not release specific information regarding you to any third parties, unless you request that we do so. We may use this information we collect to create a more personalized service. By using this "Service" site you consent to our collection and limited use of your information as provided when you sign up. Please review this policy statement and be advised that it may be modified from time to time.
+LITTLEPeopleMeet.com is known here after as "Service" The "Service" is completely committed to the protection of your information and privacy when you use our web service or subscribe to our service from our site. This policy statement demonstrates the "Service" commitment to the protection of your online privacy. Developing friendships or relationships with others may encourage people to disclose private information about themselves. The following statement reflects how the "Service" may use the limited information that we collect from you as a purchaser or user of our services. Please note that we do not release specific information regarding you to any third parties, unless you request that we do so. We may use this information we collect to create a more personalized service. By using this "Service" site you consent to our collection and limited use of your information as provided when you sign up. Please review this policy statement and be advised that it may be modified from time to time.
 
 We ask that you do your part to protect your privacy online as well. Do not reveal your "Service" Private User Name or Password: no employee of the "Service" will ever ask you for your password, but may ask for your Private User Name for identification purposes. Your "Service" Username is what other members will use to contact you. Always use caution in revealing your email address, telephone number, or address to others, and always arrange to meet new friends in only a public place. Our website may contain links to other websites. Accordingly the "Service" is not responsible for the privacy practices or content of such websites not within its control. In order to provide its services, the "Service" collects two types of information from its purchasers/users: personally identifiable information and aggregated information.
 
