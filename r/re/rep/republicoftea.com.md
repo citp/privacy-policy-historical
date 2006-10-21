@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614104510id_/http%3A//republicoftea.com/pages/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021080200id_/http%3A//republicoftea.com/pages/privacypolicy.asp) for the most accurate reproduction.*
 
 # The Republic of Tea - A rare selection of premium white, red, green, black, Oolong and chai teas.
 
@@ -7,7 +7,7 @@ The Republic of Tea has created this privacy statement in order to demonstrate o
 Questions regarding this statement should be directed to:   
 [Query the Ministry](http://www.republicoftea.com/pages/questionsanswers.asp)
 
-The information collected on this site is only used by The Republic of Tea and is never sold or given to third parties for their use.
+The information collected on this site is only used by The Republic of Tea and is never sold to third parties for their use.
 
 **Registration** \- Our site's various registration forms require users to give us contact information (such as their name, email, and postal address) and various other information depending on what product or service the user is requesting. For example, when requesting a catalogue we ask for your name and postal address so we can send you the catalogue. Also, you have the option of entering your title, company, phone, fax and email which we use to send catalogues, product, prizes or other information. The customer's contact information is also used to contact the visitor when necessary, like if we have a question about your order or request. Our Web site also offers users the ability to sign up for our newsletter and special offers. Users may opt-out of receiving future emailing; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitors' experiences at our site, showing them content in which they might be interested, and displaying the content according to their preferences.
 
