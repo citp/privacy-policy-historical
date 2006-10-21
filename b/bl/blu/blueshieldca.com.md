@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blueshieldca.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322043836id_/https%3A//www.blueshieldca.com/bsc/general/privacy_709.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueshieldca.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021222629id_/https%3A//www.blueshieldca.com/bsc/general/privacy_709.jhtml%3Bjsessionid%3D3CDUXLHEKUK0PJP3YYRCGLNF5XDCKITT) for the most accurate reproduction.*
 
-# Mylifepath.com's privacy policy - Blue Shield of California
+# Blueshieldca.com's privacy policy - Blue Shield of California
 
 |   
 ---  
@@ -24,18 +24,14 @@
 |   
 | [Fraud](https://web.archive.org/bsc/aboutbsc/aboutbsc_fraud_home.jhtml)  
 |   
-| [About Mylifepath.com](https://web.archive.org/bsc/aboutmlp/aboutmlp_01.jhtml)  
+| [About Blueshieldca.com](https://web.archive.org/bsc/aboutbsca/aboutbsca_01.jhtml)  
 |   
-|  [Confidentiality & Privacy](https://web.archive.org/bsc/general/privacy_709.jhtml)  
-|   
-|  [Terms of Use](https://web.archive.org/bsc/general/terms_710.jhtml)  
-|   
-| [Home](https://web.archive.org/bsc/home/home.jhtml) > [About Blue Shield](https://web.archive.org/bsc/aboutbsc/aboutbsc.jhtml) > [About Mylifepath.com](https://web.archive.org/bsc/aboutmlp/aboutmlp_01.jhtml) > Confidentiality & Privacy  |   
+| [Home](https://web.archive.org/bsc/home/home.jhtml) > [About Blue Shield](https://web.archive.org/bsc/aboutbsc/aboutbsc.jhtml) > [About Blueshieldca.com](https://web.archive.org/bsc/aboutbsca/aboutbsca_01.jhtml) > Confidentiality & Privacy  |   
   
 |  |  |   
 ---|---|---  
 Confidentiality & Privacy  
-| The privacy of your personal and health information is important to us. This notice describes how medical information about you may be used and disclosed and how you can get access to this information. [Download a copy](https://web.archive.org/bsc/general/C-15326_01-03_HIPAA_NPP.pdf) of this privacy policy (requires [Adobe Reader](http://www.adobe.com/products/acrobat/readstep2.html)).  
+| The privacy of your personal and health information is important to us. This notice describes how medical information about you may be used and disclosed and how you can get access to this information. [Download a copy](https://web.archive.org/bsc/general/C15326_8-6_DMHC11_vF.pdf) of this privacy policy (requires [Adobe Reader](http://www.adobe.com/products/acrobat/readstep2.html)).  
 ---  
    
 |   
