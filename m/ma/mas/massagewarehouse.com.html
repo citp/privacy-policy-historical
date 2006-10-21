@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the massagewarehouse.com privacy policy that was archived on 2006-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060328193724id_/http%3A//www.massagewarehouse.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the massagewarehouse.com privacy policy that was archived on 2006-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061021163641id_/http%3A//www.massagewarehouse.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 		<title>
@@ -177,6 +177,7 @@ function openWin(winUrl) {
 
 					</td>
 				</tr>
+
 				<tr>
 					<td class="category">
 						&nbsp;&nbsp;LEARNING RESOURCES
@@ -187,10 +188,13 @@ function openWin(winUrl) {
 						<ul>
 							<li><a class="subcategoryB" href="/videos~VideoType~massage.asp">Massage Practice Videos</a></li>
 							<li><a class="subcategoryB" href="/videos~VideoType~product.asp">Product Demo Videos</a></li>
+							<li><a class="subcategoryB" href="/category~menu~111202307~cat~111202307.asp">Video Samples</a></li>
+							<li><a class="subcategoryB" href="/category~menu~111203310~cat~111203310.asp">Music Samples</a></li>
 							<!--<li><a class="subcategoryB" href="/kb.asp">Knowledge Base</a></li>-->
 						</ul>
 					</td>
 				</tr>
+
 			</tbody></table>
 	</td>
 	<!-- content -->
@@ -246,7 +250,39 @@ function openWin(winUrl) {
 			<br>&nbsp;<br>
 			To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 			<br>&nbsp;<br>
-			If you have any questions about this privacy statement or the use of this site, you can contact us at: <script language="javascript">SendEmail('support@massagewarehouse.com','Massage Warehouse Support');</script><a href="mailto:support@massagewarehouse.com?subject=Massage Warehouse Support">support@massagewarehouse.com</a>.
+		<!--	If you have any questions about this privacy statement or the use of this site, you can contact us at: <script language="javascript">SendEmail('support@massagewarehouse.com','Massage Warehouse Support');</script>. -->
+			<script src="/includes/emailCheck.js"></script>
+			<script language="javascript">
+				function checkNewsletter(form) {
+					// Validate Email Address
+					var Valid = false;
+					var strEmail = form.Email.value;
+					
+					strEmail = strEmail.replace(/^\s*|\s*$/g,"");
+					if (strEmail == "") {
+						alert("Please enter a email address");
+						Valid = false;
+					}
+					else if (!emailCheck(strEmail,"")){
+						Valid = false;
+					}
+					else {
+						Valid = true;
+					}
+					return Valid;
+				}
+			</script>
+			<form action="EmailNewsletter_add.asp" onsubmit="return checkNewsletter(this);" method="post" style="margin: 0px; padding: 0px;">
+				Enter&nbsp;your&nbsp;email&nbsp;address&nbsp;to&nbsp;receive&nbsp;news&nbsp;on&nbsp;our&nbsp;exclusive&nbsp;sales&nbsp;and&nbsp;new&nbsp;products:<br>
+				<input type="text" name="Email" style="font-size: 10px; height: 18px; margin: 0px; padding: 0px; width: 150px; border-color: #000000; border-width: 1px; ">
+				<input type="submit" value="Subscribe" style="height: 20px; font-size: 10px;">
+				<input type="hidden" name="InterestCategory" value="Web Site opt-in footer">
+			</form><br>
+			<form action="EmailNewsletter_delete.asp" onsubmit="return checkNewsletter(this);" method="post" style="margin: 0px; padding: 0px;">
+				Enter&nbsp;your&nbsp;email&nbsp;address&nbsp;to&nbsp;unsubscribe&nbsp;from&nbsp;our&nbsp;newletter:<br>
+				<input type="text" name="Email" style="font-size: 10px; height: 18px; margin: 0px; padding: 0px; width: 150px; border-color: #000000; border-width: 1px; ">
+				<input type="submit" value="Unsubscribe" style="height: 20px; font-size: 10px;">
+			</form>
 			<br>&nbsp;<br>
 			
 			<a name="2"></a><strong>Terms of Use</strong>
@@ -281,7 +317,49 @@ function openWin(winUrl) {
    </tr>
     <tr><td height="10">&nbsp;</td></tr>
     <tr><td colspan="3"><table class="footer" cellpadding="0" cellspacing="0" width="100%" align="left">
-    <tbody><tr> 
+	<tbody><tr>
+		<td valign="top" class="navbox" width="100%">
+			<script src="/includes/emailCheck.js"></script>
+			<script language="javascript">
+				function checkNewsletter(form) {
+					// Validate Email Address
+					var Valid = false;
+					var strEmail = form.Email.value;
+					
+					strEmail = strEmail.replace(/^\s*|\s*$/g,"");
+					if (strEmail == "") {
+						alert("Please enter a email address");
+						Valid = false;
+					}
+					else if (!emailCheck(strEmail,"")){
+						Valid = false;
+					}
+					else {
+						Valid = true;
+					}
+					return Valid;
+				}
+			</script>
+			<form action="EmailNewsletter_add.asp" onsubmit="return checkNewsletter(this);" method="post" style="margin: 0px; padding: 0px;">
+				<table class="emailnewslettertable" cellpadding="0" cellspacing="0" width="100%" align="center" valign="bottom">
+					<tbody><tr>
+						<td class="emailnewsletter">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enter&nbsp;your&nbsp;email&nbsp;address&nbsp;to&nbsp;receive&nbsp;news&nbsp;on&nbsp;our&nbsp;exclusive&nbsp;sales&nbsp;and&nbsp;new&nbsp;products:
+						</td>
+						<td class="emailnewsletter">
+							<input type="text" name="Email" style="font-size: 10px; height: 18px; margin: 0px; padding: 0px; width: 150px; border-color: #000000; border-width: 1px; ">
+						</td>
+						<td width="100%" class="emailnewsletter">
+							<b><input type="submit" value="Subscribe" style="height: 20px; font-size: 10px;"></b>
+						</td>
+					</tr>
+				</tbody></table>
+				<input type="hidden" name="InterestCategory" value="Web Site opt-in footer">
+			</form>
+			<br>
+		</td>
+	</tr>
+    <tr> 
         <td height="179" valign="top" class="navbox"> 
             <table class="siteinfotable" cellpadding="0" cellspacing="0">
 				<tbody><tr>
@@ -306,9 +384,13 @@ function openWin(winUrl) {
                         </tbody></table>
 		</td>
 	   <td class="siteinfolinks">
+	
 	   	<a href="/quickorder.asp">Catalog Quick Order</a><br> 
+	
         <a href="/storedirectory.asp">Store Directory</a><br> 
+	
 		<a href="/catalogrequest.asp">Request a Catalog</a><br> 
+	
         <a href="/policies.asp">Our Policies</a><br> 
 		<!--<a href="/sitemap.asp">Site Map</a>-->
 	   </td>
@@ -321,18 +403,20 @@ function openWin(winUrl) {
 	   </td>
        <td class="siteinfolinks">
 	   	<a href="/guarantee.asp">Your Guarantee</a><br> 
-        <a href="/corporateaccounts.asp">Corporate Sales</a><br> 
+<!--        <a href="/corporateaccounts.asp">Corporate Sales</a><br />   -->
         <a href="/wishlist.asp">Wish List </a><br> 
         <a href="/privacy.asp">Privacy Policy</a><br> 
 		<a href="/privacy.asp">Terms of Use</a>
 	   </td>
        <td class="siteinfolinks">
 	   	<a href="/aboutus.asp">About Us</a><br> 
+	
 		<a href="/online.asp">Online Community</a><br> 
+        
 		<a href="/newsletter.asp">Email Newsletter</a><br> 
-		<a href="/showroom.asp">Atlanta Showroom</a><br> 
-		<a href="/employment.asp">Employment</a></td>
-        </tr>
+<!--		<a href="/showroom.asp">Atlanta Showroom</a><br />   -->
+<!--		<a href="/employment.asp">Employment</a></td>  -->
+        </td></tr>
  </tbody></table>
  <table class="copyright" cellspacing="0" cellpadding="0">
   	<tbody><tr>
