@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the occonnect.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618193849id_/http%3A//www.occonnect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the occonnect.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022014937id_/http%3A//www.occonnect.com/privacy.html) for the most accurate reproduction.*
 
 # OC Connect Privacy Policy
 
