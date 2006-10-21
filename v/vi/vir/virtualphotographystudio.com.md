@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualphotographystudio.com privacy policy that was archived on 2006-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060111100144id_/http%3A//www.virtualphotographystudio.com/members/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualphotographystudio.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021134740id_/http%3A//www.virtualphotographystudio.com/members/privacy_policy.htm) for the most accurate reproduction.*
 
 # Virtual Photography Studio - Privacy Policy
 
@@ -8,7 +8,7 @@
 
 We operate under the following strict privacy policy: 
 
-The only information we obtain about you is information we need to process credit card charges for membership dues. The information collected is never revealed, sold, or made public for any reason. Personally identifiable information provided (name, email or home address, etc.) is never disclosed to any individual or business. 
+The only information we obtain about you is information you provide when signing up for our reports, ezines, or purchase products and/or services. The information collected is never revealed, sold, or made public for any reason. Personally identifiable information provided (name, email or home address, etc.) is never disclosed to any individual or business. 
 
 VirtualPhotographyStudio.com is committed to maintaining the trust of our users. This statement explains how we collect information from you and what we do with the information.
 
@@ -16,7 +16,7 @@ VirtualPhotographyStudio.com is solely focused on providing entrepreneurs with t
 
 **Private Forums**
 
-We provide our members with access to our Discussion Forum that makes sharing information with other members easy. To protect your privacy when posting or replying to messages in the message board, your personal information and email is not revealed. However, remember that any information you disclose in the message board areas can be read by all other members, so exercise caution when deciding to disclose your personal information.
+We provide our visitors with access to our Discussion Forum that makes sharing information with other members easy. To protect your privacy when posting or replying to messages in the message board, your personal information and email is not revealed. However, remember that any information you disclose in the message board areas can be read by all other members, so exercise caution when deciding to disclose your personal information.
 
 **Opt-In and Information Requests:**
 
