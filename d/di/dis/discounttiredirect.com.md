@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discounttiredirect.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615071026id_/http%3A//www.discounttiredirect.com/direct/brochure/general/tmpPrivacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discounttiredirect.com privacy policy that was archived on 2006-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061021165144id_/http%3A//www.discounttiredirect.com/direct/brochure/general/tmpPrivacy.jsp) for the most accurate reproduction.*
 
 # Privacy Statement - Discount Tire Direct
 
@@ -22,7 +22,7 @@ This website contains links and references to other sites, and is in no way resp
 This website utilizes security measures to protect the loss, misuse and alteration of the information under our control.
 
 **Choice; Opt Out**  
-You may opt-out of receiving communications from our partners, and from us, by sending an email to [consumeraffairs@discounttire.com](mailto:consumeraffairs@discounttiredirect.com;jsessionid=GRG9ryjJrLLyKnqbkppm5S576rQJMRc88pJX4DvdYzSFWTK7GNzb!483870591!NONE).
+You may opt-out of receiving communications from our partners, and from us, by sending an email to [consumeraffairs@discounttire.com](mailto:consumeraffairs@discounttiredirect.com).
 
 **Contacting Our Administrators**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us at:
@@ -36,6 +36,6 @@ Scottsdale, AZ 85260
 
 or
 
-[Consumer Affairs](mailto:consumeraffairs@discounttiredirect.com;jsessionid=GRG9ryjJrLLyKnqbkppm5S576rQJMRc88pJX4DvdYzSFWTK7GNzb!483870591!NONE)
+[Consumer Affairs](mailto:consumeraffairs@discounttiredirect.com)
 
 **
