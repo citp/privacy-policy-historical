@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flcu.org privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619081504id_/http%3A//www.flcu.org/About/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flcu.org privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022062442id_/http%3A//www.flcu.org/About/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Florida Credit Union
 
