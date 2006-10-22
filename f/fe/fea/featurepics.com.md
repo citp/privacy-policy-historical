@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the featurepics.com privacy policy that was archived on 2006-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060325204548id_/http%3A//featurepics.com/HelpCenter/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the featurepics.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022202122id_/http%3A//www.featurepics.com/HelpCenter/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FeaturePics.com - stock photography : royalty free, rights-managed photos. Privacy Policy.
 
@@ -32,7 +32,7 @@ _First Name/Last Name:_ We require your first and last names to help us differen
 _Phone (with area code):_ We don't require a phone number. However, if you chose to provide it we may call you and ask for additional information on behalf of our qualified buyers. Again, here the privacy policy is strictly enforced.   
 _Mailing Address:_ We require a mailing address in order to send you checks, 1099 forms, invoices, and any other information that we feel you may need. There will be no advertisements mailed to you.   
 **2\. Online Ordering Information**  
- _Email Logon:_ This is your unique identification to logon.  
+_Email Logon:_ This is your unique identification to logon.  
 We will send you an e-mail confirming your registration on our site, and in the event you forget your password, we will send it to your e-mail address at your request.   
 Periodically, we will send notification e-mails (for example: your images have been requested, you have email requests from buyers etc.). You can opt-out of this option if you don't want to receive FeaturePics notifications when you edit your account preferences.   
 _First Name/Last Name:_ We require your first and last names to help us differentiate your registration profile   
