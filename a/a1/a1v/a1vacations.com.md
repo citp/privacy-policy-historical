@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a1vacations.com privacy policy that was archived on 2006-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060330192154id_/http%3A//a1vacations.com/index.cfm/tgt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1vacations.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022151851id_/http%3A//www.a1vacations.com/index.cfm/tgt/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of A1Vacations.com
 
