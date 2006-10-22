@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suncoastfcu.org privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627002316id_/http%3A//suncoastfcu.org/Default.aspx%3Ftabid%3D229) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncoastfcu.org privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022072038id_/http%3A//suncoastfcu.org/Default.aspx%3Ftabid%3D229) for the most accurate reproduction.*
 
 # Privacy Policy - Suncoast Schools Federal Credit Union
 
