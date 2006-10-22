@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the intertrust.com privacy policy that was archived on 2006-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060313074858id_/http%3A//www.intertrust.com/main/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intertrust.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022061617id_/http%3A//www.intertrust.com/main/home/privacy.html) for the most accurate reproduction.*
 
 # Intertrust Technologies – Privacy
 
 | 
 
-[](https://web.archive.org/web/20060313074858id_/http%3A//www.intertrust.com/main/home/index.html)  
-[](https://web.archive.org/web/20060313074858id_/http%3A//www.intertrust.com/main/home/inforequestform.html)  
-[](https://web.archive.org/web/20060313074858id_/http%3A//www.intertrust.com/main/overview/trustcomputing.html)  
-[](https://web.archive.org/web/20060313074858id_/http%3A//www.intertrust.com/main/overview/drm.html)[](https://web.archive.org/web/20060313074858id_/http%3A//www.intertrust.com/main/ip/settlement.html) [](https://web.archive.org/web/20060313074858id_/http%3A//www.intertrust.com/main/licensing/index.html)
+[](https://web.archive.org/web/20061022061617id_/http%3A//www.intertrust.com/main/home/index.html)  
+[](https://web.archive.org/web/20061022061617id_/http%3A//www.intertrust.com/main/home/inforequestform.html)  
+[](https://web.archive.org/web/20061022061617id_/http%3A//www.intertrust.com/main/overview/trustcomputing.html)  
+[](https://web.archive.org/web/20061022061617id_/http%3A//www.intertrust.com/main/overview/drm.html)[](https://web.archive.org/web/20061022061617id_/http%3A//www.intertrust.com/main/ip/settlement.html) [](https://web.archive.org/web/20061022061617id_/http%3A//www.intertrust.com/main/licensing/index.html)
 
-[](https://web.archive.org/web/20060313074858id_/http%3A//www.intertrust.com/main/home/inforequestform.html)
+[](https://web.archive.org/web/20061022061617id_/http%3A//www.intertrust.com/main/home/inforequestform.html)
 
 |   |    
 ---|---  
@@ -35,7 +35,7 @@ By accessing our Site, You are consenting to the information collection and use 
 
 **About Intertrust**
 
-Intertrust develops and licenses intellectual property for digital rights management (DRM), digital policy management (DPM), and trusted computing. We hold 39 U.S. patents and have over 100 patent applications pending worldwide. Our patent portfolio covers software and hardware techniques that can be implemented in a broad range of products that use DRM and trusted computing technologies, including digital media platforms and web services, and the enterprise infrastructure. Our research, engineering, and IP groups focus on development of next-generation technologies, invention protection, and licensing.
+Intertrust develops and licenses intellectual property for digital rights management (DRM), digital policy management (DPM), and trusted computing. We hold 49 U.S. patents and have over 100 patent applications pending worldwide. Our patent portfolio covers software and hardware techniques that can be implemented in a broad range of products that use DRM and trusted computing technologies, including digital media platforms and web services, and the enterprise infrastructure. Our research, engineering, and IP groups focus on development of next-generation technologies, invention protection, and licensing.
 
 What personal information do we collect on the Site and why?  
 We collect several types of information on our Site including personal information, which generally is information that can be used to identify You individually, such as Your name, address, phone and fax numbers and email address (“Personal Information”). The information we collect depends on what services You use on our Site(s). We do not sell the information. The following is a more detailed explanation of these types of information, as well as when and how we use it.   
@@ -43,7 +43,7 @@ We collect several types of information on our Site including personal informati
 
 **Contact Information**
 
-We may collect information that identifies You personally, such as Your name, address, phone and fax numbers and e-mail address, when You submit a form, such as, but not limited to, a form that requests a copy of the Intertrust-Microsoft License Agreement or an Intertrust white paper. We collect additional information if You choose to submit it, including, but not limited to: a) Your job title, b) Your employer, c) Your business telephone number, d) Your mailing address and e) Your facsimile. In general, we may use this information to respond to Your inquiry. 
+We may collect information that identifies You personally, such as Your name, address, phone and fax numbers and e-mail address, when You submit a form, such as, but not limited to, a form that requests a copy of certain Intertrust License Agreements or an Intertrust white paper. We collect additional information if You choose to submit it, including, but not limited to: a) Your job title, b) Your employer, c) Your business telephone number, d) Your mailing address and e) Your facsimile. In general, we may use this information to respond to Your inquiry. 
 
 Here are some details about certain features of our Site(s).  
 
