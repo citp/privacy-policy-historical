@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the headcount.org privacy policy that was archived on 2006-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060523184615id_/http%3A//www.headcount.org/images/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headcount.org privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022061508id_/http%3A//headcount.org/images/privacy.htm) for the most accurate reproduction.*
 
-# HeadCount - Privacy
+# HeadCount | Downloads
 
-HeadCount is committed to protecting the privacy of Internet users. HeadCount uses strict security measures to protect against the loss, misuse and alteration of data.   
-
+HeadCount is committed to protecting the privacy of Internet users. HeadCount uses strict security measures to protect against the loss, misuse and alteration of data. 
 
 ### User Information
 
-  
 In some cases on HeadCount you may provide voluntary information for mailing lists of upcoming events and dates. You may always unsubscribe from receiving email updates from HeadCount simply by clicking on the "unsubscribe" link at the bottom of each email and following the ensuing instructions. HeadCount will not sell, lease or rent its member lists to any third parties If you have any problems unsubscribing, you may email [info@headcount.org](mailto:info@headcount.org) for help. 
 
 ###  HeadCount's Volunteer Effort
 
-HeadCount it run by volunteers. By agreeing to be a volunteer you agree to enter certain information. Some of this information is required and some is voluntary. Your volunteer information can be edited at any time. You reserve the right to terminate your volunteer status with HeadCount at any time. 
+HeadCount is run by volunteers. By agreeing to be a volunteer you agree to enter certain information. Some of this information is required and some is voluntary. Your volunteer information can be edited at any time. You reserve the right to terminate your volunteer status with HeadCount at any time. 
 
 ###  HeadCount Voter Registration
 
