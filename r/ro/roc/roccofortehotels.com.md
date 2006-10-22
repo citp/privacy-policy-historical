@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roccofortehotels.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191134id_/http%3A//roccofortehotels.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roccofortehotels.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022104238id_/http%3A//www.roccofortehotels.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # Rocco Forte Hotels: The Rocco Forte Collection
 
