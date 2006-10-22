@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the durect.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316175531id_/http%3A//www.durect.com/wt/nonav/page_name/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the durect.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022115631id_/http%3A//www.durect.com/wt/nonav/page_name/privacy_policy) for the most accurate reproduction.*
 
 # DURECT: Privacy Policy
 
