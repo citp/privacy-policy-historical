@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihiremarketing.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322055308id_/http%3A//www.ihiremarketing.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihiremarketing.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022023956id_/http%3A//www.ihiremarketing.com/Privacy.asp) for the most accurate reproduction.*
 
 # iHireMarketing - Marketing jobs
 
@@ -9,8 +9,7 @@
 This is the web site of **iHireMarketing**. 
 
 **Customer Service**  
-110 North Public Square   
-Suite 2-2   
+329 South - 290 West   
 Angola, IN 46703   
 Candidate: **866-238-0161**  
 Employer: **877-798-4854**  
