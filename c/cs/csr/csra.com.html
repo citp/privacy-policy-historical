@@ -1,0 +1,381 @@
+<!--The following is the downloaded HTML source of the csra.com privacy policy that was archived on 2006-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061023002202id_/http%3A//www.csra.com/Legal/PrivacyStmt.shtml) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/template_6.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+
+<title>Privacy Statement</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="This Internet Privacy Statement is provided to make you aware of how Rinker collects, uses and management of information for visitors to all our web sites.">
+<meta name="keywords" content="privacy, IP address, domain name, information, publish, personal, disclose, security, accurate, complaint.">
+<script language="JavaScript" type="text/javascript" src="/rgInclude/scripts/common.js"></script>
+<!-- #BeginEditable "scripts" -->
+<!--Place your script here-->
+<!-- #EndEditable -->
+<link href="/rgInclude/css/rinker.css" rel="stylesheet" type="text/css">
+<!-- #BeginEditable "includes" -->
+<!--Place your includes here-->
+<!-- #EndEditable -->
+<!-- InstanceParam name="theTitle" type="text" value="Privacy Statement" -->
+<!-- InstanceParam name="metaDescription" type="text" value="This Internet Privacy Statement is provided to make you aware of how Rinker collects, uses and management of information for visitors to all our web sites." -->
+<!-- InstanceParam name="metaKeywords" type="text" value="privacy, IP address, domain name, information, publish, personal, disclose, security, accurate, complaint." -->
+<!-- InstanceParam name="navMainNav" type="text" value="" -->
+<!-- InstanceParam name="navSubNav" type="text" value="" -->
+<!-- InstanceParam name="navSelectedItem" type="text" value="" -->
+</head>
+  <!--BEGIN THE PAGE NAVBAR CALL TO NAV INCLUDE AREA-->
+<body onload="leftnav('','',''); ">
+  <!--END THE PAGE NAVBAR CALL TO NAV INCLUDE AREA-->
+<div id="pagewidth">
+  <!--BEGIN THE HEADER AREA-->
+  <div id="header">
+    <div id="headLogo"><img src="/rgImages/logo_MTLS.gif" alt="Rinker Group, Ltd. Logo" width="225" height="84"><!--<img src="/rgImages/logo_3Anim.gif" width="220" height="84" border="0" usemap="#Map">--></div>
+<div id="headPanel">
+  <div id="login">
+    <ul id="xNetTabs" name="xNetTabs" class="panelTop">
+      <li class="current" id="xNetCustomer" onclick="FlipUser(0);">
+	  <a id="aCust" href="#" class="on">Customer Login</a></li>
+      <li class="tab" id="xNetVendor" onclick="FlipUser(1);">
+	  <a id="aVend" href="#">Vendor Login</a></li>
+      <!-- <li class="noTab"><a href="#" class="white">&lt;<span class="whiteUL">RinkerNet</span>&gt;</a></li>  -->
+    </ul>
+    <div class="clearfloats"></div>
+  </div>
+  <div id="box">
+    <div class="bl">
+      <div class="br">
+        <p>Don't have a login?&nbsp;&nbsp;<a href="javascript: DisplaySignupPage();" class="reg">Register.</a></p>
+        <span id="demoImage"><a href="/XNet/myRinkerDemo/" title="Demo MyRinker for customers"></a></span>
+        <div class="clearfloats"></div>
+        <div id="formcontainer">
+          <form method="post" name="loginForm" id="loginForm" action="https://www.myrinker.com/cgibin/hsrun.hse/PRD/myrinker/eCommerce/eCommerce.hjx%3Bstart%3DeCommerce.HsLogin.run?log=1&amp;lid=">
+            <!--all form markup here-->
+            <!-- <div>
+              <label>Login:</label>
+              <input class="textboxcolor" name="slogin" type="text" value="" />
+            </div>
+            <div class="clearfix">
+              <label>Password:</label>
+
+			  <span id="goImageBrownBG" onclick="SubmitHahtLogin(loginForm);">
+			  <a href="#" title="Submit customer login information"></a></span>
+
+			   <input class="textboxcolor" name="spwd" type="password" size="5px" value="" />
+			   <input type="hidden" name="thisIsAVendor" id="thisIsAVendor" value="0" />
+            </div> -->
+            <table cellpadding="0" cellspacing="0" border="0" width="100%">
+              <tbody><tr>
+                <td><label>Login:</label></td>
+                <td><input class="textboxcolor" id="slogin" name="slogin" type="text" value=""></td>
+                <td>&nbsp;</td>
+              </tr>
+              <tr>
+                <td><label>Password:</label></td>
+                <td><input class="textboxcolor" id="spwd" name="spwd" type="password" size="5px" value=""></td>
+                <td><span id="goImageBrownBG" onclick="SubmitHahtLogin(loginForm);"><a href="#" title="Submit customer login information"></a></span></td>
+              </tr>
+            </tbody></table><input type="hidden" name="thisIsAVendor" id="thisIsAVendor" value="0">
+
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="clear">&nbsp;</div>
+</div>
+
+<script language="javascript">
+<!--
+function DisplaySignupPage()
+{
+	var thisIsAVendor = document.getElementById('thisIsAVendor').value;
+	if (thisIsAVendor=='1')
+	{
+		location.href = "/XNet/RinkerVendorsSignup/MyRinkerIntro.asp";
+	} else
+	{
+		location.href = "/XNet/RinkerSignup/MyRinkerIntro.asp";
+	}
+}
+
+function FlipUser(whichUser)
+{
+	//This is a Customer
+	if (whichUser==0)
+	{
+ 		document.getElementById('loginForm').action='https://www.myrinker.com/cgibin/hsrun.hse/PRD/myrinker/eCommerce/eCommerce.hjx%3Bstart%3DeCommerce.HsLogin.run?log=1&lid=';
+		document.getElementById('thisIsAVendor').value='0';
+		document.getElementById('demoImage').style.display = 'block';
+	}
+
+	// This is a Vendor
+	if (whichUser==1)
+	{
+		document.getElementById('loginForm').action='https://www.rinkervendors.com/cgibin/hsrun.hse/PRD_VENDORS/vendors/HahtVendorInvoice/HahtVendorInvoice.hjx%3Bstart%3DHahtVendorInvoice.HsLogin.run?log=1&lid=';
+		document.getElementById('thisIsAVendor').value='1';
+		document.getElementById('demoImage').style.display = 'none';
+	}
+
+	toggleTabs ('xNetTabs', whichUser);
+}
+//-->
+</script>
+  </div>
+  <div class="clearfloats"> </div>
+  <!--END THE HEADER AREA-->
+  <!--BEGIN THE BREADCRUMB AREA-->
+  <div id="breadwrap">
+    <div id="breadcrumb"> <!-- InstanceBeginEditable name="breadCrumb" -->
+      <ul>
+        <li><strong>You are here.</strong></li>
+        <li><a href="/">Home</a>&nbsp;&nbsp;&gt;</li>
+        <li class="current">Privacy</li>
+      </ul>
+    <!-- InstanceEndEditable --></div>
+    <div id="sitemap"><a href="/SiteMap">Sitemap</a></div>
+  </div>
+  <!--END THE BREADCRUMB AREA-->
+  <!--BEGIN THE PAGE CONTENT AREA-->
+  <div id="wrapper" class="clearfix">
+    <div id="twocols" class="clearfix"><!-- InstanceBeginEditable name="mainCol" -->
+      <div id="maincol">
+        <h1>Privacy</h1>
+        <h3>Rinker Privacy Statement</h3>
+        <p>In accordance with its Privacy Policy, Rinker Group Limited is committed to protecting the privacy of visitors to its web site. This Internet Privacy Statement is provided to make you aware of how Rinker Group Limited collects, uses and manages of information for visitors to all our web sites.
+
+Rinker Group Limited collects the following information regarding visitors to our web sites:
+</p><ul>
+<li>*   network identity of the computer system (IP address)</li>
+<li>*   domain name and information regarding what pages are accessed</li>
+</ul>
+This information is used for the purposes of statistical analysis, capacity planning and research on usage patterns to further improve the site. Information volunteered by you, such as e-mail address, name, address, phone and company details is used for the express purpose for which it was disclosed.
+Rinker Group Limited does not disclose or publish personal information collected through the web sites without consent. Access to this information is restricted to Rinker Group Limited staff and Rinker Group Limited's consultants who are bound to respect the privacy of the information.
+<p></p>
+      <h3>Security</h3>
+        <p>Rinker Group Limited takes all reasonable security measures to protect personal information from loss, unauthorized access or modification. Rinker Group Limited reserves the right to gather more extensive information about any attempted access to its web site which raises security issues and, where necessary, to make disclosures to relevant authorities.</p>
+        <h3>Updating this Internet Privacy Statement</h3>
+        <p>Rinker Group Limited web sites will be continually improved and enhanced with new services, which may change the way we manage personal information. The content of this Internet Privacy Statement may be updated from time to time to reflect this, so we suggest that you return to this privacy statement on a regular basis and carefully read the information provided.</p>
+        <h3>Privacy at Rinker</h3>
+        <p>Rinker respects the privacy of individuals. This policy outlines the way we manage personal information that we collect or that is provided to us. It applies to Rinker Group Limited and Australian companies in the Rinker Group Limited group (Rinker).
+
+Rinker is bound by National Privacy Principles (Principles) contained in the Commonwealth Privacy Act. In summary, the Principles describe 'personal information' as information (or an opinion) relating to an individual that can be used to identify that individual.
+</p>
+        <h3>Why does Rinker collect personal information?</h3>
+        <p>Rinker is a major manufacturer and supplier of heavy building materials. To operate our businesses, we need to collect some information about the people we deal with. As a publicly listed company, we also maintain records of our shareholders. Collecting personal information is also necessary in some circumstances to meet our legal obligations.</p>
+                <h3>What kind of personal information does Rinker collect and how does Rinker collect it?</h3>
+        <p>Rinker generally collects and holds personal information about:
+</p><ul>
+<li>*   our employees;</li>
+<li>*   contractors who provide services to Rinker;</li>
+<li>*   our customers;</li>
+<li>*   our suppliers;</li>
+<li>*   our shareholders;</li>
+<li>*   job applicants; and</li>
+<li>*   other people who may come into contact with Rinker or one of &nbsp;&nbsp;Rinker's businesses.</li>
+</ul>
+The type of information we collect varies, depending on the purpose, and may include (but is not limited to) name, address, contact details, credit information and marketing information.
+
+This information may be obtained by way of forms filled out, information provided in person or by telephone by the individuals themselves, or from a third party (for example, a reference).
+<p></p>
+                <h3>How do we use personal information and to whom may we disclose it? </h3>
+        <p>In general, Rinker uses personal information to:
+        </p><ul>
+<li>*   provide products or services that have been requested;</li>
+<li>*   maintain relationships with suppliers and contractors;</li>
+<li>*   communicate;</li>
+<li>*   provide ongoing information about Rinker products and services &nbsp;&nbsp;to Rinker customers; and</li>
+<li>*   comply with legal obligations.</li>
+</ul>
+Depending on the product or service concerned, personal information may be disclosed to:
+<ul>
+<li>*   other divisions or organizations within Rinker;</li>
+<li>*   service providers and specialist advisers to Rinker who have &nbsp;&nbsp;been contracted to provide Rinker with administrative or other &nbsp;&nbsp;services;</li>
+<li>*   insurers, credit providers, courts, tribunals and regulatory &nbsp;&nbsp;authorities as agreed or authorized by law;</li>
+<li>*   credit reporting or reference agencies or insurance &nbsp;&nbsp;investigators; or</li>
+<li>*   a person authorized by an individual.</li>
+</ul>
+
+<p>Generally, we require that organizations outside Rinker, who handle or obtain personal information as service providers to Rinker, acknowledge the confidentiality of this information, undertake to respect any individual's right to privacy and comply with the Principles and this policy. </p>
+
+<p>In most cases, if you do not provide information about yourself that Rinker has requested, Rinker may not be able to provide you with the relevant product or service. </p>
+
+<p>Rinker uses the personal information it collects about Rinker shareholders to fulfill its legal obligations and to keep its shareholders informed of Rinker's progress. </p>
+        <h3>How do we treat sensitive information?</h3>
+        <p>The Privacy Act defines 'sensitive' information as information about a person's racial or ethnic origin, religion, membership of political bodies, trade union or other professional or trade association, sexual preferences, criminal record or health.
+Sometimes it may be necessary to collect sensitive information. If you provide Rinker with sensitive information, it is Rinker's policy that this information will be used and disclosed only for the purpose for which it was provided or another directly related purpose, unless you agree otherwise, or unless use or disclosure of this information is allowed by law.</p>
+
+<p>The way we use tax file numbers and information received from a credit reporting agency about an individual is also restricted by law.
+ </p>
+         <h3>How do we manage personal information? </h3>
+        <p>Rinker trains its employees who handle personal information to respect the confidentiality of that information and the privacy of individuals. </p>
+         <h3>How do we store personal information?</h3>
+         <p>Rinker is required by the Principles to safeguard the security and privacy of your information, whether you interact with us personally, by telephone, mail, over the internet or other electronic medium. This includes an obligation to take reasonable steps to protect the personal information we hold from misuse, loss, unauthorized access, modification or disclosure</p>
+         <p>The Principles also require Rinker not to store personal information longer than necessary. Where Rinker no longer requires any personal information that we hold, we will destroy that personal information or remove details which may identify individuals</p>
+         <h3>How do we keep personal information accurate and up-to-date?</h3>
+         <p>Rinker seeks to ensure that the personal information it holds is accurate and up-to-date. We realize that this information changes frequently with changes of address and other personal circumstances. We encourage you to contact Rinker as soon as possible in order to update any personal information we hold about you. Rinker contact details are set out below. </p>
+         <h3>Can you check what personal information about you is held by us?</h3>
+         <p>You may obtain access to any personal information which Rinker holds about you, unless one of the exceptions in the Principles applies.
+To make a request to access information Rinker holds about you, please contact Rinker in writing. Rinker will require you to verify your identity and to specify what information you require. Rinker may charge a fee to cover the cost of verifying the application and locating, retrieving, reviewing and copying any material requested. </p>
+         <h3>Can you check what personal information about you is held by us?</h3>
+         <p>If you consider that any action of Rinker breaches this privacy policy or the National Privacy Principles, you can make a complaint. In the first instance, please direct your complaint to the particular Rinker business or activity concerned – they are likely to be in the best position to deal with the matter quickly and effectively. Each Rinker business or activity has an officer appointed to handle complaints. If the matter is not resolved to your satisfaction, please make contact with the relevant officer below. Rinker endeavors to respond promptly to complaints. </p>
+         <h3>How do you contact us? </h3>
+         <p>If the particular Rinker business or activity is unable to deal with a privacy complaint to your satisfaction, please contact the relevant Rinker company by e-mail, phone, facsimile or post: </p>
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td>Ri<strong>nker Group Limited</strong></td>
+    <td>R<strong>eadymix Holdings Pty Limited<br>
+    </strong>    (and its subsidiaries)</td>
+  </tr>
+  <tr>
+    <td>Rinker Group Privacy Officer</td>
+    <td>Readymix Holdings Privacy Officer</td>
+  </tr>
+  <tr>
+    <td>Rinker Group Limited
+Tower B, Level 8, 799 Pacific Highway
+Chatswood NSW 2057
+</td>
+    <td>Readymix Limited
+Tower B, Level 8, 799 Pacific Highway
+Chatswood NSW 2057
+</td>
+  </tr>
+  <tr>
+    <td>Telephone: (02) 9412 6600
+Facsimile: (02) 9412 6666
+</td>
+    <td>Telephone: (02) 9412 6600
+Facsimile: (02) 9412 6650
+</td>
+  </tr>
+  <tr>
+    <td>E-mail: rinkerprivacy@rinker.com.au</td>
+    <td>E-mail: readymixprivacy@rinker.com.au</td>
+  </tr>
+</tbody></table>
+         <h3>Updates to this Policy</h3>
+         <p>This privacy policy will be reviewed from time to time to take account of new laws and technology, changes to our operations and practices and the changing business environment. All personal information held by Rinker will be governed by Rinker's most recent policy. If you are unsure whether you are reading the most current version, please contact us.</p>
+
+
+      </div>
+    <!-- InstanceEndEditable -->
+      <!--END THE PAGE CONTENT AREA-->
+      <!--BEGIN THE SECONDARY CONTENT AREA-->
+      <div id="rightcol">
+        <!--BEGIN THE SEARCH AREA-->
+        <div class="search">
+    
+<p><!-- <img src="/rgImages/iconYellowBlock.gif" width="9" height="9" border="0" class="block" alt="key, category refers to US content" /> -->US Rinker Materials</p>
+<form action="#" name="frmChooseSite" id="frmChooseSite">
+  <!-- <span class="goImageRedBG"><a href="#" title="Go to other site"></a></span> -->
+  <select name="ddSite" onchange="jumpMenu('parent',this,1)">
+    <option selected="" value="#">change site . . .</option>
+    <option value="#">-------------------</option>
+    <option value="1http://www.newlinetransport.com/">US - New Line Transport</option>
+
+    <option value="http://www.rinkermaterials.com/ProdsServices/ExportSvcs/">US - Rinker Export</option>
+
+<!--    <option value="http://www.rinker.com/">US - Rinker Group</option> -->
+    <option value="http://www.rinker.com">US - Rinker Group</option>
+
+    <option value="http://www.rinkermaterials.com/ProdsServices/SteelFraming/">US - Steel-Con</option>
+
+<!--    <option value="http://www.rinkerstormceptor.com/">US - Stormceptor</option> -->
+    <option value="http://www.rinkerstormceptor.com">US - Stormceptor</option>
+
+    <option value="#">-------------------</option>
+    <option value="1http://www.cementaustralia.com.au">AU - Cement Australia</option>
+
+<!--    <option value="http://www.humes.com.au">AU - Humes&#8482;</option> -->
+    <option value="http://www.humes.com.au">AU - Humes™</option>
+
+<!--    <option value="http://www.readymix.com.au/">AU - Readymix&#8482;</option> -->
+    <option value="http://www.readymix.com.au">AU - Readymix™</option>
+
+<!--    <option value="http://www.rinkergroup.com.au/">AU - Rinker Group</option> -->
+    <option value="http://www.rinker.com.au">AU - Rinker Group</option>
+ </select>
+</form>
+<p>Search</p>
+<script language="JavaScript">
+    function vldtSrchForm() {
+        //alert(document.forms["frmSearch"].UserRestriction.value);
+        if (document.forms["frmSearch"].UserRestriction.value=="") {
+            alert('Please provide keywords to search for.');
+            return false;
+        }
+        if (document.forms["frmSearch"].UserRestriction.value=="Enter keywords") {
+            alert('Please provide keywords to search for.');
+            return false;
+        }
+        return true;
+    }
+</script>
+              <form id="frmSearch" name="frmSearch" onsubmit="return vldtSrchForm()" action="/Search/_s2/htm0.idq" method="post"><span class="goImageRedBG"><a title="Search site by keyword" href="javascript: if(vldtSrchForm()){document.forms['frmSearch'].submit();}"></a></span><input id="UserRestriction" onclick="this.value=''" size="26" value="Enter keywords" name="UserRestriction"> </form>
+
+        </div>
+        <!--END THE SEARCH AREA-->
+      </div>
+    </div>
+    <!--END THE SECONDARY CONTENT AREA-->
+    <!--BEGIN THE NAVBAR AREA-->
+    <div id="navbar">
+    <ul class="noborder"> 
+  <li id="about" class="topicoff"><a href="/About">about rinker materials</a></li> 
+</ul>
+<span id="aboutSubnav" class="subtopicoff"> 
+</span> 
+<ul class="noborder"> 
+  <li id="product" class="topicoff"><a href="/ProdsServices">products &amp; services</a></li> 
+</ul>
+<span id="prodSubnav" class="subtopicoff">
+<ul class="subnav">
+  <li class="subtitle">core product lines</li>
+  <li id="aggregate" class="subtopicoff"><a href="/ProdsServices/Aggregate">aggregate</a></li>
+  <li id="asphalt" class="subtopicoff"><a href="/ProdsServices/Asphalt">asphalt</a></li>
+  <li id="cement" class="subtopicoff"><a href="/ProdsServices/Cement">cement</a></li>
+  <li id="concrete" class="subtopicoff"><a href="/ProdsServices/Concrete">concrete</a></li>
+  <li id="conblock" class="subtopicoff"><a href="/ProdsServices/ConcreteBlock">concrete block</a></li>
+  <li id="conpipe" class="subtopicoff"><a href="/ProdsServices/ConcretePipe">concrete pipe</a></li>
+  <li id="drywall" class="subtopicoff"><a href="/ProdsServices/DrywallAcoustical">drywall/acoustical</a></li>
+  <li class="subtitle">other products &amp; services</li>
+  <li id="buildmat" class="subtopicoff"><a href="/ProdsServices/BuildingMaterials">building materials</a></li>
+  <li id="chemical" class="subtopicoff"><a href="/ProdsServices/Chemicals">chemicals</a></li>
+  <li id="enviroserv" class="subtopicoff"><a href="/ProdsServices/EnvironmentalSvcs">environmental services</a></li>
+  <li id="exportserv" class="subtopicoff"><a href="/ProdsServices/ExportSvcs">export services</a></li>
+  <li id="masonprod" class="subtopicoff"><a href="/ProdsServices/Masonry">masonry products</a></li>
+  <li id="reinforce" class="subtopicoff"><a href="/ProdsServices/ReinforcedSteel">reinforcing steel</a></li>
+  <li id="steelframe" class="subtopicoff"><a href="/ProdsServices/SteelFraming">steel framing</a></li>
+  <li id="stormtreat" class="subtopicoff"><a href="/ProdsServices/StormwaterTreatment">stormwater treatment</a></li>
+  <li id="techserv" class="subtopicoff"><a href="/ProdsServices/TechnicalSvcs">technical services</a></li>
+  <li id="transerv" class="subtopicoff"><a href="/ProdsServices/TransportSvcs">transport services</a></li>
+</ul>
+</span><ul class="noborder"> 
+  <li id="locations" class="topicoff"><a href="/Locations">locations</a></li> 
+</ul>
+
+    </div>
+  </div>
+  <!--END THE NAVBAR AREA-->
+  <!--BEGIN THE FOOTER AREA-->
+  <div>
+    <div id="footer"> 
+    <div class="footernav"> 
+        <a href="/">Home</a> |&nbsp; 
+        <a href="/SiteMap">Sitemap</a> |&nbsp;
+        <a href="/About/contactus/ContactUs.shtml">Contact Us</a> |&nbsp;
+        <a href="/Legal/TermsOfUse.shtml">Terms of Use</a> |&nbsp; 
+        <a href="/Legal/PrivacyStmt.shtml">Privacy</a> |&nbsp; 
+        <a href="/Legal/Copyright.shtml">Copyright</a>
+    </div> 
+    <div class="copyright">© Rinker Group, Ltd. 2006. All Rights Reserved.</div> 
+</div>
+<div class="roundedEdge"></div>
+
+  </div>
+  <!--END THE FOOTER AREA-->
+</div>
+
+<!-- InstanceEnd -->
+</body></html>
