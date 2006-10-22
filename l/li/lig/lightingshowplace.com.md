@@ -1,15 +1,25 @@
-> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223010454id_/http%3A//lightingshowplace.com/decor/static.pl%3FS%3DprivacyNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingshowplace.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022194712id_/http%3A//www.lightingshowplace.com/decor/static.pl%3FS%3Dinfo/privacy_policy) for the most accurate reproduction.*
 
-# LightingShowplace.com - Privacy Notice
+# LightingShowplace.com - Privacy Policy
 
-Decorative Product Source Inc. is firmly committed to maintaining your privacy while you shop on our web sites.  We gladly disclose this privacy information to emphasize how important your privacy is to us.  Information Collection and Use  
-Decorative Product Source Inc. is the sole owner of the information collected on its web sites.  We will not sell, share, or rent this information to others.  Decorative Product Source Inc. collects information from our customers at several different points on our web sites including the order and quote pages.  This information is used for the sole purpose of providing you the best possible service when requesting information or ordering products.  Ordering  
-When you place an order, we request contact and credit card information.  This information is used strictly for billing purposes and to successfully complete and fill orders.  If we should have trouble processing an order, the contact information is used to get in touch with you.  Security  
-Decorative Product Source Inc. takes strong precautions to protect your information both online and offline.  We use a variety of technical solutions to make shopping safe at our web sites.  Your information is encryted and is protected by industry-standard Secure Sockets Layer (SSL) software.  While we use SSL encryption to protect sensitive information online, we also protect your information offline.  All of your customer information is maintained in a restricted section.  Only those of our employees who need the information to perform a specific job function (for example, customer service representatives) are granted access to personally identifiable data.  Cookies  
-Our web sites use "cookies", small pieces of data stored on your computer and delivered through your web browser.  Most, if not all, e-commerce merchants now use cookies.  By using this technology we can provide you with an enhanced shopping experience.  It is possible for you to turn off cookies in your web browser.  If you do this, you can still browse our web sites, but we will not be able to provide you with a more personalized shopping experience or accept orders from you. Links  
-Our web sites often contain links to other sites.  Decorative Product Source Inc. is not responsible for the privacy practices of other sites you may visit.  Newsletters  
-If you wish to subscribe to our newsletters, we ask for information such as name and e-mail address.  Every newsletter we send includes easy-to-use removal instructions and complies with all Federal regulations for such communications. 
+LightingShowplace.com is firmly committed to maintaining your privacy while you shop on our Web sites. We gladly disclose this privacy information to emphasize how important your privacy is to us.  
+   
+Information Collection & Use | Back to Top ▲  
+LightingShowplace.com is the sole owner of the information collected on its Web sites. We will not sell, share, or rent this information to others. LightingShowplace.com collects information from our customers at several different points on our Web sites including the order and quote pages. This information is used for the sole purpose of providing you the best possible service when requesting information or ordering products.
 
-If you have any questions about our privacy policies, or experience problems with our web sites, please feel free to 
+When you place an order, we request contact and credit card information. This information is used strictly for billing purposes and to successfully complete and fill orders. If we should have trouble processing an order, the contact information is used to get in touch with you.   
+  
+   
+Security | Back to Top ▲  
+LightingShowplace.com takes strong precautions to protect your information both online and offline. We use a variety of technical solutions to make shopping safe at our Web sites. Your information is encrypted and is protected by industry-standard Secure Sockets Layer (SSL) software. While we use SSL encryption to protect sensitive information online, we also protect your information offline. All of your customer information is maintained in a restricted section. Only those of our employees who need the information to perform a specific job function (for example, customer service representatives) are granted access to personally identifiable data.  
+   
+Cookies | Back to Top ▲  
+Our Web sites use "cookies", small pieces of data stored on your computer and delivered through your Web browser. Most, if not all, e-commerce merchants now use cookies. By using this technology we can provide you with an enhanced shopping experience. It is possible for you to turn off cookies in your Web browser. If you do this, you can still browse our Web sites, but we will not be able to provide you with a more personalized shopping experience or accept orders from you.  
+   
+Links | Back to Top ▲  
+Our Web sites often contain links to other sites. LightingShowplace.com is not responsible for the privacy practices of other sites you may visit.   
+   
+Newsletters | Back to Top ▲  
+If you wish to subscribe to our newsletters, which may contain promotional and sale information, we ask for information such as name and e-mail address. Every newsletter we send includes easy-to-use removal instructions and complies with all Federal CAN-SPAM regulations for commercial e-mailers.
 
-[_contact us_](https://web.archive.org/decor/static.pl?S=contact).  Thank you for choosing Decorative Product Source Inc. to help decorate and improve your home. 
+If you have any questions about our privacy policies, or experience problems with our Web sites, please feel free to [contact us](mailto:info@dpsource.com). Thank you for choosing LightingShowplace.com to help decorate and improve your home. 
