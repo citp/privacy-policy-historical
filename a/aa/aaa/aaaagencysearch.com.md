@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the aaaagencysearch.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618210549id_/http%3A//www.aaaagencysearch.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaaagencysearch.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022104547id_/http%3A//aaaagencysearch.com/info/privacy.asp) for the most accurate reproduction.*
 
 # AAAAgencySearch.com > Privacy Policy
 
 |   
-[](https://web.archive.org/web/20060618210549id_/http%3A//www.aaaagencysearch.com/default.asp)  
+[](https://web.archive.org/web/20061022104547id_/http%3A//aaaagencysearch.com/default.asp)  
   
-[](https://web.archive.org/web/20060618210549id_/http%3A//www.aaaagencysearch.com/search/AdvancedSearch1.asp)  
+[](https://web.archive.org/web/20061022104547id_/http%3A//aaaagencysearch.com/search/AdvancedSearch1.asp)  
   
-[](https://web.archive.org/web/20060618210549id_/http%3A//www.aaaagencysearch.com/search/Register.asp)  
+[](https://web.archive.org/web/20061022104547id_/http%3A//aaaagencysearch.com/search/Register.asp)  
   
   
   
-[](https://web.archive.org/web/20060618210549id_/http%3A//www.aaaagencysearch.com/help/help.asp)  
+[](https://web.archive.org/web/20061022104547id_/http%3A//aaaagencysearch.com/help/help.asp)  
   
-[](https://web.archive.org/web/20060618210549id_/http%3A//www.aaaagencysearch.com/info/info.asp)  
+[](https://web.archive.org/web/20061022104547id_/http%3A//aaaagencysearch.com/info/info.asp)  
   
   
 [](http://www.aaaa.org/)  
