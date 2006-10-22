@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selfmadesuccess.com privacy policy that was archived on 2006-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060603102252id_/http%3A//www.selfmadesuccess.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfmadesuccess.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023013456id_/http%3A//www.selfmadesuccess.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
