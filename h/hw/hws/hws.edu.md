@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hws.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615174336id_/http%3A//www.hws.edu/administration/itservices/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hws.edu privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022234900id_/http%3A//www.hws.edu/administration/itservices/privacy.asp) for the most accurate reproduction.*
 
 # Web Site Privacy Policy
 
@@ -13,3 +13,7 @@ Hobart and William Smith Colleges will share personally identifiable information
   * We find it necessary to protect and defend the legal rights or property of Hobart and William Smith Colleges.
 
 
+
+Created Aug 15, 2005 ( revised August, 2005 ) 
+
+If you are having difficulty submitting a form or you have unanswered questions, please call the Support Center Help Desk at (315) 781-4357, or e-mail [helpdesk@hws.edu](mailto:helpdesk@hws.edu).
