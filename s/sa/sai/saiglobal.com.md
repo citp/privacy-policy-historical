@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saiglobal.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626084044id_/http%3A//www.saiglobal.com/corporate/policies/privacy%2520policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saiglobal.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022170124id_/http%3A//www.saiglobal.com/corporate/policies/privacypolicy.htm) for the most accurate reproduction.*
 
 # SAI Global Privacy Policy and Statement
 
@@ -47,3 +47,6 @@ As we value your privacy we do not make your personal information available to o
 All staff will undergo in-house training on the Privacy Policy and our obligations, and all new staff will complete this training as an element of induction training. Staff training will be updated and completed by staff on an annual basis. 
 
 Please note that this Privacy Policy and Statement will be subject to regular review and updated as required. 
+
+Please [click here](https://web.archive.org/Corporate/Policies/Linking%20Policy.htm) to view our [Linking Policy](https://web.archive.org/Corporate/Policies/Linking%20Policy.htm)  
+
