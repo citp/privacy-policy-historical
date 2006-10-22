@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gate1travel.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516200530id_/http%3A//www.gate1travel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gate1travel.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022171022id_/http%3A//www.gate1travel.com/privacy.htm) for the most accurate reproduction.*
 
 # Gate 1 Travel - Privacy Policy
 
@@ -83,7 +83,7 @@ top
 
 **Q: What is my security code?**
 
-A: It is an important new Internet security feature that now appears on the back of most Visa and MasterCards, and on the front of American Express cards. This new code is a three or four-digit number which provides a cryptographic check of the information embossed on the card. The security code helps validate that the customer placing the online order actually has the credit card in his/her possession, and that the credit/debit card account is legitimate. Click here for image showing location of [security code](https://web.archive.org/web/20060516200530id_/http%3A//www.gate1travel.com/Destinations/vcode.htm).
+A: It is an important new Internet security feature that now appears on the back of most Visa and MasterCards, and on the front of American Express cards. This new code is a three or four-digit number which provides a cryptographic check of the information embossed on the card. The security code helps validate that the customer placing the online order actually has the credit card in his/her possession, and that the credit/debit card account is legitimate. Click here for image showing location of [security code](https://web.archive.org/web/20061022171022id_/http%3A//www.gate1travel.com/Destinations/vcode.htm).
 
 top
 
@@ -99,4 +99,4 @@ A: If this code is printed on your card, YES, you must enter the code. Visa, Mas
 
 top
 
-Airfares include fuel surcharges assessed by the airlines through April 1, 2006 and are subject to increase without notice.
+Airfares include fuel surcharges assessed by the airlines through May 31, 2006 and are subject to increase without notice.
