@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the efirstbank.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617000655id_/http%3A//www.efirstbank.com/1stbank/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efirstbank.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022155733id_/http%3A//www.efirstbank.com/1stbank/privacypolicy.html) for the most accurate reproduction.*
 
-# FirstBank Privacy Policy and Disclosure
+# FirstBank Privacy Policy & Disclosure
 
 FirstBank is committed to maintaining the privacy of our customers. We have policies and procedures in place to restrict access to your nonpublic personal information to employees that need to know that information in order to provide products or services to you. We train our employees to protect the confidentiality of your records. In addition, we maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information. 
 
