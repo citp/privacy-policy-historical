@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2006-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060325202814id_/http%3A//www.anownsite.com/privacy-tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022175440id_/http%3A//www.anownsite.com/privacy-tos.html) for the most accurate reproduction.*
 
 # Privacy Policy AnOwnSite
 
 This is the web site of **An Own Site**.  
 This site is owned by Case Stevens  
 Our postal address is   
-**Hoge Ham 133  
-5104 JD Dongen  
+**Postbus 132  
+5100 AC Dongen  
 The Netherlands**  
-We can be reached via e-mail, but our email addres was harvested so many times that we've put up a [support form](https://web.archive.org/web/20060325202814id_/http%3A//www.anownsite.com/contact-us.shtml).  
+We can be reached via e-mail, but our email addres was harvested so many times that we've put up a [support form](https://web.archive.org/web/20061022175440id_/http%3A//www.anownsite.com/contact-us.shtml).  
 You can still email us when you use **case** before the @ sign _followed by our domain name_.  
 or you can reach us by telephone at +31 162 319594 (office) or better ....  
 +32 3 666 3851 (home, where you'll find me most of the time)
