@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panoramas.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317202848id_/http%3A//panoramas.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panoramas.com privacy policy that was archived on 2006-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061022225740id_/http%3A//www.panoramas.com/privacy.asp) for the most accurate reproduction.*
 
 # Blakeway Worldwide Panoramas
 
