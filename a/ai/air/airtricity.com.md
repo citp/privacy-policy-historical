@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322041734id_/http%3A//www.airtricity.com/america/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023042148id_/http%3A//www.airtricity.com/america/privacy_policy) for the most accurate reproduction.*
 
 # AIRTRICITY - PRIVACY POLICY
 
