@@ -1,37 +1,31 @@
-> *The following text is extracted and transformed from the nationalarchives.ie privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502153647id_/http%3A//www.nationalarchives.ie/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalarchives.ie privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023085612id_/http%3A//www.nationalarchives.ie/privacy.html) for the most accurate reproduction.*
 
-# Freedom of Information Act
+# Privacy statement
 
-### Privacy Statement of the National Archives - **this statement applies solely to the privacy practices of the National Archives regarding its website**
+Website of the National Archives: General statement and collection and usage of personal information: Cookies: Log files: Notification of changes to our privacy policy
 
-**Privacy**
+## Website of the National Archives 
 
-The National Archives respects the rights of its users and does not collect personal information of any kind. When a user voluntarily provides personal information in an e-mail message to one of the addresses listed throughout our site, that information which may be used for research or analysis purposes, is not shared with outside parties and is used to respond to your message and to help us provide material that may be requested.
+This statement relates to the privacy practices of the National Archives in connection with its website. Our website contains links to other sites but the National Archives is not responsible for the privacy practices within any of these other sites. We encourage you to be aware of this when you leave our site and to remember to read the privacy statements on other websites you may visit which collect personally identifiable information. This privacy statement applies solely to information collected on our website.
 
-For general web browsing no personal information is revealed to us, nor are details of individual transactions, though certain statistical and technical information is available to us via our internet service provider, information that is logged by standard web servers on the internet.
+## General statement and collection and usage of personal information
 
-(Left: Charter of the Bishop of Ferns, 1641, 999/78)  
+The National Archives respects the rights of its users and does not, as a general rule, collect personal information of any kind. Where a user voluntarily provides personal information in response to our online Customer Feedback Form, the data will be used for information, research or analysis purposes only. Any personal information which you volunteer to the National Archives will be treated with the highest standard of security and confidentiality, strictly in accordance with the Data Protection Acts of 1988 and 2003.
 
+This website does not use cookies, apart from temporary ''session'' cookies which enable a visitor's web browser to remember which pages on this website have already been visited. Visitors can use this website with no loss of functionality if cookies are disabled from the web browser. 
 
-**The technical details logged are confined to the following items:**
+For general web browsing, no personal information is revealed to us, although certain statistical information is available to us via our internet service provider. This information may include the logical address of the server you are using, the top level domain name from which you access the internet (for example, .ie, .com, etc, the type of browser you are using, the date and time you access our site and the internet address used to link to our site).
 
-· The IP address from which you access our website (an IP address is the number automatically assigned to your computer when you are surfing the web. IP addresses are used to analyse trends, administer the site, track users' movements, and gather statistical information and are not linked to personally identifiable information);  
-· The type of browser and operating system used to access our site (for example, Internet Explorer, Firefox, Windows, Linux);  
-· The date and time of visits to our site;   
-· The pages visited;  
-· The internet address of the website from which you accessed our site, including any search terms used.   
+Some of the above information is used to create summary statistics which allow us to assess the number of visitors to our site and to identify what pages are accessed most frequently. We use these statistics to help us make our site more user friendly.
 
+## Cookies
 
-We use this information to help us make our site more useful to visitors, to learn about the number of visitors to our site and the type of technology which our visitors use. We may compile aggregate statistics about our users in terms of numbers, traffic patterns and related site information but we do not track or record information about individuals on their visits and any such statistics will not include any personally identifying information.   
+A cookie is a piece of data that contains information about your activities on the internet. On our website we only use "session" cookies to track users' progress through the site, allowing us to maintain the security and integrity of the data being used. The information on a cookie is not linked to any personally identifiable information you submit to our site. Once you close your browser, our access to the cookie simply terminates.
 
+## Log files
 
-**Links**
+When you use the internet, you are assigned a unique address known as an IP address. We use IP addresses to analyse trends, to administer the site, track users' movements and gather statistical information. IP addresses are not linked to personally identifiable information.
 
-Our website contains links to other sites and the National Archives is not responsible for the privacy practices within any of these other sites. We encourage you to be aware of this when you leave our site and to read the privacy statements on other websites you visit which collect personally identifiable information.  
-
-
-**Notification of changes to Privacy Policy**
+## Notification of changes to our privacy policy
 
 The National Archives reserves the right in its sole discretion to amend this privacy statement at any time, and you should regularly check this privacy statement for any amendments.
-
-[National Archives homepage](https://web.archive.org/web/20060502153647id_/http%3A//www.nationalarchives.ie/index.html)
