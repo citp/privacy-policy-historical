@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the bluebeam.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615095606id_/http%3A//www.bluebeam.com/web03/company/CompanyPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebeam.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023140658id_/http%3A//www.bluebeam.com/web03/company/CompanyPrivacy.asp) for the most accurate reproduction.*
 
-# Bluebeam Software, Inc.
+# Bluebeam Software, Inc. - The Complete PDF Editor, PDF Markup, PDF Creation & PDF Viewer
 
   
 
 
 * * *
+
+  
+Privacy Policy
 
 Protecting your privacy is important to us at Bluebeam Software Inc. ("Bluebeam"). This Web site ("Site") is a general corporate Web site, through which we provide information about us and our various products and services, and make our software products available for download. We use information that we collect from you to improve your experience in using the Site and our various products and services, to aid in communications among Bluebeam and you and other Site users and to notify you of products and services that we think may be of interest to you. Please read on for more details concerning our Privacy Policy. 
 
