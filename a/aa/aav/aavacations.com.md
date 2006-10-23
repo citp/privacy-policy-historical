@@ -1,24 +1,13 @@
-> *The following text is extracted and transformed from the aavacations.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619122217id_/http%3A//www.aavacations.com/consumer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aavacations.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023111126id_/http%3A//aavacations.com/consumer/privacy.asp) for the most accurate reproduction.*
 
 # AAVacations.com
 
 |   
-| [ ](https://web.archive.org/consumer/mn_deals.asp)  
----  
-[ ](https://web.archive.org/consumer/mn_res.asp)  
-[ ](https://web.archive.org/consumer/mn_srch.asp)  
-[](https://web.archive.org/consumer/of_main.asp)  
-[ ](https://web.archive.org/consumer/mn_nsv.asp)  
-[ ](https://web.archive.org/consumer/mn_aadv.asp)  
-[](https://web.archive.org/consumer/mn_trvlinfo.asp)  
-[](https://web.archive.org/agent/agwelcome.asp)  
-[](https://web.archive.org/sitemap.asp)  
-  
-|   
+  |  |   
 ---  
 |  |   
 ---  
-| Privacy Information | | Monday , June 19 , 2006    
+| Privacy Information | | Monday , October 23 , 2006    
 ---|---|---  
   
   
