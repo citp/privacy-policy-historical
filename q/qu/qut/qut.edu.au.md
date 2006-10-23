@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200740id_/http%3A//www.qut.edu.au/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023154320id_/http%3A//qut.edu.au/general/privacy.jsp) for the most accurate reproduction.*
 
 # QUT | QUT's privacy and security statement
 
@@ -59,6 +59,6 @@ QUT Secretariat
 GPO Box 2434  
 Brisbane Qld 4001
 
-Telephone 61 7 3864 1911  
-Facsimile 61 7 3864 1818  
+Telephone 61 7 3138 1911  
+Facsimile 61 7 3138 1818  
 Email: [privacy@qut.edu.au](mailto:privacy@qut.edu.au)
