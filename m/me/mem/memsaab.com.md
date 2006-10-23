@@ -1,19 +1,15 @@
-> *The following text is extracted and transformed from the memsaab.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625021447id_/http%3A//www.memsaab.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memsaab.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023225202id_/http%3A//memsaab.com/privacy.asp) for the most accurate reproduction.*
 
-# memsaab.com-Conditioning, Challenges, Freedom and Perspectives.
+# Privacy Policy - Memsaab.com
 
-| [ ](https://web.archive.org/web/20060625021447id_/http%3A//www.memsaab.com/memfashion/default.asp) [ ](https://web.archive.org/web/20060625021447id_/http%3A//secretme/default.asp) [ ](https://web.archive.org/web/20060625021447id_/http%3A//www.memsaab.com/memtv/default.asp) [ ](https://web.archive.org/web/20060625021447id_/http%3A//www.memsaab.com/gossip/default.asp) [ ](https://web.archive.org/web/20060625021447id_/http%3A//www.memsaab.com/abroad/default.asp) [ ](https://web.archive.org/web/20060625021447id_/http%3A//www.memsaab.com/bollywood/default.asp) [ ](https://web.archive.org/web/20060625021447id_/http%3A//www.memsaab.com/shoppingcart/store/default.asp) | 
+| [ ](https://web.archive.org/web/20061023225202id_/http%3A//memsaab.com/memfashion/default.asp) [ ](https://web.archive.org/web/20061023225202id_/http%3A//secretme/default.asp) [ ](https://web.archive.org/web/20061023225202id_/http%3A//memsaab.com/memtv/default.asp) [ ](https://web.archive.org/web/20061023225202id_/http%3A//memsaab.com/gossip/default.asp) [ ](https://web.archive.org/web/20061023225202id_/http%3A//memsaab.com/abroad/default.asp) [ ](https://web.archive.org/web/20061023225202id_/http%3A//memsaab.com/bollywood/default.asp) [ ](https://web.archive.org/web/20061023225202id_/http%3A//memsaab.com/shoppingcart/store/default.asp) | 
 
- 
-
-  
+    
 
 
-| ******Last updated: 8th March, 2005  **  
+| ******Last updated: 20th September, 2006  **  
 ---  
   
-memsaab.com is operated by Objects Future Pty Ltd, an Australian Proprietary company registered in Sydney.
-
 Memsaab.com delivers content drawn from its partners and other sources, as well as providing access to message boards, chat sessions. Any information that you provide under memsaab.com services provided through the site may be collected and used by memsaab.com.
 
 This statement sets out memsaab.com's policies relating to the collection and use of your personal information. It applies to your conduct on the memsaab.com website (“site"). These policies are in addition to memsaab.com 's general Terms of Use governing the memsaab.com and should be read in conjunction with such Terms of Use. 
@@ -115,6 +111,6 @@ Our commitment to make memsaab.com the leading website for women means that we a
 ******Further information on privacy**  
 ---  
   
-For more information about privacy issues in Australia, visit the Australian Federal Privacy Commissioner's website.   
+For more information about privacy issues, visit the website on Federal Privacy Policy;   
   
  
