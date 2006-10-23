@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the institutionalinvestor.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318004149id_/http%3A//www.institutionalinvestor.com/default.asp%3Fpage%3D65%26gsid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the institutionalinvestor.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023201130id_/http%3A//www.dailyii.com/stub.asp%3FstubID%3D30) for the most accurate reproduction.*
 
-# Institutional Investor | Investing Financial News | Financial Information
+# Dailyii.com - Institutional Investor | Investing Financial News | Financial Information
 
 Euromoney Institutional Investor PLC and Institutional Investor Inc
 
@@ -60,7 +60,7 @@ Please note that we do not collect any personal information from children under 
 
 Types of Personal Information Held and its Use 
 
-At some Sites, Euromoney collects personally identifiable information, such as your name, job title, work and/or home address, and telephone number and email address AND COMMENTS/INFORMATION YOU MAY INPUT OR POST. At other Sites, Euromoney may collect demographic information, such as your postcode, age, gender, purchasing preferences and interests. Some Sites may collect a combination of the two types of information. 
+At some Sites, Euromoney collects personally identifiable information, such as your name, job title, work and/or home address, and telephone number and email address and comments/information you may input or post. At other Sites, Euromoney may collect demographic information, such as your postcode, age, gender, purchasing preferences and interests. Some Sites may collect a combination of the two types of information. 
 
 Euromoney collects and uses your personal information to operate its Sites efficiently and to deliver the products and services you have requested. 
 
@@ -73,6 +73,8 @@ Your personal information may be used for the purposes of:
 Euromoney gives you the opportunity to opt-out of receiving marketing communications and will in certain circumstances need to obtain your consent before sending such communications to you. Further detail can be found on the applicable Site and in each marketing communication sent by Euromoney. 
 
 • Trading in Personal Data, i.e. parts of your personal data may be collected and processed with the intention of selling it to other organisations, but only after consent has been given by you. 
+
+Euromoney may also use your information to measure what area users visit most frequently and what information users access the most. We use this data in connection with the design of our website. This information also helps us determine what is most beneficial for our users and how we can continually create a better overall service for you. Employees or contractors of Euromoney who are given access to your usage information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for Euromoney.
 
 Any other purposes for which Euromoney wishes to use your personal data will be notified to you and your personal data will not be used for any such purpose without obtaining your prior consent. 
 
@@ -136,11 +138,11 @@ We also give you the option of using a secure transmission method to send us per
 
 How to Access, Update and Erase your Personal Information 
 
-If you wish to know whether we are keeping personal data about you, or if you have an enquiry about our privacy policy or your personal information held by Euromoney, you can contact us by: 
+If you wish to know whether we are keeping personal data about you, or if you have an enquiry about our privacy policy or your personal information held by Euromoney, in relation to all the Sites whether run by Euromoney Institutional Investor Plc or Institutional Investor Inc., you can contact the Data Protection Officer via: 
 
-• sending postal mail to this address in relation to all the Sites whether run by Euromoney Institutional Investor Plc or Institutional Investor Inc.: Data Protection Officer, Euromoney Institutional Investor plc, Nestor House, Playhouse Yard, London EC4V 5EX, UK,   
-• calling Sunny Bath at this telephone number : +44 (0)20 7779 8600   
-• sending an email to Sunny Bath at the following address : sbath@euromoneyplc.com 
+• Postal mail to this address : Data Protection Officer, Euromoney Institutional Investor plc, Nestor House, Playhouse Yard, London EC4V 5EX, UK
+
+•  Telephone: +44 (0)20 7779 8600 
 
 Upon request, we will provide you with a readable copy of the personal data which we keep about you. We may require proof of your identity and may charge a small fee to cover administration and postage.   
 Euromoney allows you to challenge the data that we hold about you and, where appropriate in accordance with applicable laws, you may have your personal information: 
