@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cypress.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616172853id_/http%3A//www.cypress.com/portal/server.pt%3Fspace%3DOpener%26control%3DOpenObject%26cached%3Dtrue%26parentname%3DCommunityPage%26parentid%3D0%26in_hi_ClassID%3D514%26in_hi_userid%3D2%26in_hi_ObjectID%3D389%26in_hi_OpenerMode%3D2%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cypress.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023114311id_/http%3A//www.cypress.com/portal/server.pt%3Fspace%3DOpener%26control%3DOpenObject%26cached%3Dtrue%26parentname%3DCommunityPage%26parentid%3D0%26in_hi_ClassID%3D514%26in_hi_userid%3D2%26in_hi_ObjectID%3D389%26in_hi_OpenerMode%3D2%26) for the most accurate reproduction.*
 
 # Cypress Home
 
