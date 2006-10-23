@@ -1,63 +1,64 @@
-> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805052950id_/http%3A//www.bodyforlife.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023235915id_/http%3A//www.abbott.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Body-for-LIFE®
+# Abbott
 
-|  | 
+##  Abbott Laboratories Privacy Policy US Residents Only
 
-**Privacy Policy**
+This Policy applies to residents of the United States. [If you are a resident of another country, please click here for applicable information](https://web.archive.org/global/url/content/en_US/10.40:40/general_content/Global_Locations.htm).
 
-Experimental and Applied Sciences, Inc. (EAS) has created this privacy statement as part of our commitment to protect the privacy and security of information obtained on-line concerning our customers and visitors to our Web site. The following discloses our information gathering and dissemination practices for EAS web sites, including EAS.com, Body _for_ LIFE.com and EASAdvantEdge.com. Using our web sites demonstrates your consent to the collection and use of information pursuant to EAS' disclosures in this policy statement.
+This Privacy Policy explains how we handle the personal information that you provide to us on web sites controlled by Abbott Laboratories (including its subsidiaries and affiliates) which link to this Privacy Policy (referred to as "Abbott web sites"). Unless otherwise specifically noted this Privacy Policy does not apply to personal information collected from you offline, to Abbott web sites that do not link to this Privacy Policy, to residents of countries other than the United States, or to third-party web sites to which Abbott web sites may link. Your use of Abbott web sites which link to this Privacy Policy is subject to this Privacy Policy and the [Terms of Use](https://web.archive.org/global/url/content/en_US/0:0/general_content/General_Content_00014.htm).
 
-**Information collected and how used by EAS**  
-We collect log information that is not personally identifying and personal information you supply when utilizing a service offered at this Web site.
+Please read this Privacy Policy before using Abbott web sites or submitting personal information to us.
 
-  * Log Information: Log information is collected through the use of a cookie. The log information is not personally identifying and is used in the aggregate by EAS to measure popularity, traffic, and effectiveness of various areas of this web site and its overall performance. Additionally, if a visitor comes to our Web site from a banner ad, we use a cookie to monitor the advertisement tracking code that identifies from which banner ad the customer came. This information is used in determining the effectiveness of our Internet advertising campaigns. 
-  * Personal Information: EAS collects personal information in order to provide certain services to its customers. For example, if you: 
-    * place a product order, EAS will collect and use your name, address, phone number or e-mail address, and credit card information; 
-    * request promotional items, EAS will collect and use your name and address, or e-mail address; 
-    * rregister on-line for a Challenge event, such as the EAS Body- _for_ -LIFE Challenge, we will require your name, address, telephone number and personal physical information such as your bodyfat percentage, height, weight and fitness goals. Additional questions may include what type of supplements you have used in the past and whether or not you have previously competed in one of our Challenge events; or 
-    * decide to participate in a voluntary promotional survey, we may ask for information about such matters as your buying habits and preferences. 
+How does this Privacy Policy define "personal information"?  
+"Personal information" means information that identifies you or could reasonably be used to identify you and which is submitted to and/or collected by Abbott web sites and maintained by Abbott in an accessible form. Examples of personal information include your name, your postal address and your telephone number.
 
-EAS will use the personal information you provide either for the fulfillment of the service request, i.e. sending your product order, the requested promotional item, or for the internal administration of an event. EAS may also use certain personal information that you provide or that we may collect in aggregate form to facilitate the development of products and services that allow us to better support our customers in meeting their fitness goals.  
-**  
-Other uses of information collected by EAS**  
-EAS may share aggregate and customer personal information with third parties. 
+How does Abbott collect information online?  
+Abbott collects information in two ways:
 
-  * Aggregate Information: EAS may provide aggregate statistics and information about our customers, sales, traffic patterns and related site information to third parties. This data is used to customize EAS.com content and advertising in order to deliver meaningful information or products and services to our customers. 
-  * Personal Information: Personal information you provide us (excluding personal physical information and credit card information) may be combined with other personal information about you that is available to us, such as your purchasing history, and may be shared with third parties, for marketing and promotional purposes. 
+  * Personal Information You Submit:  
+Abbott collects personal information that you enter into data fields on Abbott web sites. For example, you may submit your name, postal address, e-mail address, and/or other information in order to receive information about various subjects, register for Abbott programs, contact Abbott customer service, or respond to Abbott surveys. To protect your privacy, you should not provide Abbott with any information that is not specifically requested, such as your medical history.  
+ 
+  * Passive Collection of Unidentifiable Information:  
+Abbott web sites may collect information about your visits to Abbott web sites without you actively submitting such information. Unidentifiable information may be collected using various technologies, such as cookies, Internet tags, and web beacons. Your Internet browser automatically transmits to Abbott web sites some of this unidentifiable information, such as the URL of the web site you just visited and the browser version your computer is operating. Passive information collection technologies can make your use of Abbott web sites easier by allowing Abbott to provide better service, customize sites based on consumer preferences, compile statistics, analyze trends, and otherwise administer and improve Abbott web sites. Certain features of Abbott web sites may not work without use of passive information collection technologies. Information collected by these technologies cannot be used to identity you without additional identifiable information.
 
-**Opting In or Opting Out**  
-With regard to the personal information that you may provide or that we may collect during your visits to our site, you will have the option to either "opt-in" or to "opt-out," which means that you can instruct EAS at any time not to share with third parties the personal information you have provided us or that we may have collected.
 
-You may choose to "opt-in" at any you time you visit our site by simply clicking on the "opt-in" option where ever you are asked to provide personal information on any page of our site. If you select the "opt-in" option you are acknowledging your understanding that EAS may share any of the personal information you are asked to provide with third parties, and you are consenting to such sharing by EAS. Even if you select the "opt-in" option your personal credit card information will never be shared by EAS with third parties. 
 
-If you do not select the "opt-in" option, or if at any time you wish to cancel your "opt-in" election you may "opt-out" by selecting the "opt-out" option or by removing your personal information at the 
+In what circumstances might Abbott collect and use personal information?  
+Abbott will use the personal information you provide through Abbott web sites to respond to your questions and to provide you with efficient customer service. After you have entered personal information into a form or data field on an Abbott web site, Abbott may use certain identifying technologies to allow that web site to "remember" your personal preferences, such as sections of that web site that you visit frequently and, if you choose, your user ID.  We may also use this personal information for other business purposes, such as to offer you the opportunity to receive notices regarding Abbott’s products or services, to invite you to participate in surveys about our products, or to notify you about special promotions.
 
-[Opt Out](http://register.eas.com/OA_HTML/ibeCZzpEntry.jsp?minisite=10020&go=OPTOUT) page. We will honor your request to "opt-out" with the exception of providing information to law enforcement authorities or other governmental entities if required to do so by law, or if EAS believes it to be appropriate to protect, defend, or enforce the rights or property of EAS. 
+Does Abbott consolidate personal information?  
+Abbott may consolidate the personal information of customers who use Abbott web sites. We use this information to help us better design Abbott web sites and Abbott products, to communicate information to you, to enhance our marketing and research activities, and to facilitate other business functions.
 
-**Personal Home Page**  
-Among the features that will be available on our site will be the opportunity for you to share personal information about yourself and your "fitness" accomplishments with other users who visit our site by completing a personal home page. Your personal home page will give you the opportunity to display information about yourself that may be of interest to coaches, scouts, Challenge participants, or others who are interested in fitness accomplishments or athletic performance. The personal information provided on your home page will be accessible by third parties and will be displayed to anyone who visits your home page. This feature will be available only to users who select the "opt-in" option, as a condition of creating their home page. If you take advantage of this personal home page feature, your selection of the "opt-in" option will be your acknowledgment that you understand and agree that any personal information you put on your home page, including photographs, may be viewed by third parties and may be downloaded and used by third parties without your consent. 
+What choices do I have about how Abbott collects and uses personal information about me?  
+You may always limit the amount and type of personal information that Abbott receives about you by choosing not to enter any personal information into forms or data fields on Abbott web sites. Some of our online services can only be provided to you if you provide us with appropriate personal information. Other parts of Abbott web sites may ask whether you wish to opt out or opt into our contact lists for offers, promotions and additional services that may be of interest to you.
 
-Content of personal home pages will be limited by EAS in accordance with the criteria established by EAS, and home pages that do not comply with these criteria will be removed from our Web site.
+You may also be provided with preference questions or preference boxes allowing you to indicate that you do not want Abbott web sites to use tracking technologies, such as cookies, to "remember" your personal information, such as user IDs or mailing addresses, on return visits. However, Abbott web sites that use tracking technologies to collect unidentifiable information do not generally provide you with the ability to opt out of the tracking technologies. Some Internet browsers allow you to limit or disable the use of tracking technologies that collect unidentifiable information.
 
-**Cookies**  
-The term "cookie" refers to small text files that are transferred from a Web site to a visitor's computer hard drive to enable the host web-site to track the visitor's activities while on the web-site. Cookies can enhance the service you receive at our site, however if your web browser is set to not accept cookies you will not have full access to all the features and elements of our web-site and your browsing experience may be hindered. As mentioned earlier, EAS also uses aggregate information generated by cookies to determine the effectiveness and popularity of our site. 
+Who will have access to personal information about me?  
+Personal information can be accessed by a restricted number of Abbott employees, by certain companies with which Abbott may conduct joint programs, and by individuals and entities with whom Abbott contracts to carry out business activities for Abbott. We train our employees about the importance of privacy and how to handle and manage customer data appropriately and securely. Also, it is Abbott’s practice to notify you if you are registering for a program which is conducted in conjunction with another company that may require access to your personal information. In addition, Abbott’s practice is to require its contractors to keep your personal information confidential and to use personal information only to perform functions for Abbott.
 
-**E-mail Communications**  
-EAS occasionally uses e-mail to send announcements regarding new products, services, and/or promotions that would be of interest to our customers. You can choose to unsubscribe to EAS.com e-mail lists at any time by visiting the 
+Does Abbott share personal information with third parties?  
+As a general rule, Abbott does not share your personal information with third parties, unless it is necessary to conduct a joint program or to carry out a program or activity through a contractor. Where required by law, Abbott will not disclose your personal information to third parties for those third parties’ marketing purposes, unless you have been provided with an opportunity to opt into or opt out of this disclosure. However, if Abbott sells one of its product lines or divisions, your personal information may be transferred to the buyer so that the buyer can continue to provide you with information and services. If Abbott provides your personal information to individuals and entities which assist us with our business activities, it is Abbott’s practice to require those individuals and entities to keep your personal information confidential and to use your personal information only to perform functions for Abbott. Abbott reserves the right to disclose your personal information to respond to authorized information requests from government authorities, to address national security situations, or when otherwise required by law.
 
-[Opt Out](http://register.eas.com/OA_HTML/ibeCZzpEntry.jsp?minisite=10020&go=OPTOUT) area of this Web site. EAS will also send replies to customer e-mail. Finally, if you have sent a request to us about which we need to communicate with you, we may do so by e-mail. 
+How does Abbott secure personal information?  
+It is Abbott’s practice to secure each web page that collects personal information; however, the confidentiality of personal information transmitted over the Internet cannot be guaranteed. We urge you to exercise caution when transmitting personal information over the Internet, especially personal information related to your health. Abbott cannot guarantee that unauthorized third parties will not gain access to your personal information; therefore, when submitting personal information to Abbott web sites, you must weigh both the benefits and the risks. In addition, Abbott web sites covered by this Privacy Policy will display a warning whenever you link to a web site that is not controlled by Abbott; you should check the privacy policies of such third-party web sites before submitting personal information.
 
-**Correcting Personal Information**
+How does Abbott protect the privacy of children?  
+Abbott does not knowingly collect or use any personal information from children (we define "children" as minors younger than 13) on Abbott web sites. We do not knowingly allow children to order our products, communicate with us, or use any of our online services. If you are a parent and become aware that your child has provided us with information, please contact us using one of the methods specified below, and we will work with you to address this issue.
 
-  * If you need to change your name, address, phone number or e-mail address, simply e-mail the request to us at [Service](mailto:service@eas.com) or by calling 1-800-297-9776. 
-  * Information provided in Challenge questionnaires or promotional surveys is not available for updates, corrections, or changes. 
+How may I correct personal information or delete it from current customer records?  
+You may request to remove your personal information from our current customer records or to amend your personal information. Please notify us of your wishes by contacting us in one of the ways specified below. For our record keeping purposes, we will retain certain personal information you submit in conjunction with commercial transactions.
 
-**Changes to the privacy policy**  
-We recommend that you review this Privacy Policy periodically, as EAS reserves the right to change its provisions at any time. If we decide to change provisions of our Privacy Policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we may disclose it. Your continued use of EAS.com following the posting of changes to this Privacy Policy will mean you accept those changes.
+How can I contact Abbott?  
+If you have questions about the use, amendment, or deletion of personal information that you have provided to us, or if you would like to opt out of future communications from an Abbott business or a particular Abbott program, please contact us by clicking on the "Contact Us" link on the web site you are visiting or by e-mailing us at [webmaster@abbott.com](mailto:webmaster@abbott.com). Alternatively, you may send a letter to the following address:
 
-**Questions?**  
-We welcome any questions or comments you may have regarding the EAS.com Privacy Policy. Please e-mail your questions or comments to 
+Abbott Laboratories  
+Attention: Public Affairs, Department 383  
+100 Abbott Park Road  
+Abbott Park, IL 60064-6048
 
-[privacy@eas.com](mailto:privacy@eas.com).  
----|---
+In all communications to Abbott, please include the e-mail address used for registration (if applicable), the web site address on which you provided any personal information about which you have questions or concerns (e.g. Abbott.com, Humira.com, etc.), and a detailed explanation of your request. If you would like to delete or amend your personal information and are contacting us by e-mail, please put "Deletion Request" or "Amendment Request", as applicable, in the subject line of the e-mail. We will do our best to respond to all reasonable requests in a timely manner.
+
+How will I know whether Abbott has updated this policy?  
+Abbott reserves the right to amend this Privacy Policy without prior notice to reflect technological advancements, legal and regulatory changes and good business practices. If Abbott changes its privacy practices, a new Privacy Policy will reflect those changes and the effective date of the revised Privacy Policy will be set forth in this paragraph. This Privacy Policy was last updated on March 23, 2005 and is effective as of that date.
