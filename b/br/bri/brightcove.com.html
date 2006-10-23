@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brightcove.com privacy policy that was archived on 2006-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060624134114id_/http%3A//www.brightcove.com/privacypolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brightcove.com privacy policy that was archived on 2006-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061024013409id_/http%3A//www.brightcove.com/privacypolicy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -18,18 +18,24 @@
 	
 
 	<title>Brightcove Privacy Policy</title>
-
+	
 	<link href="http://www.brightcove.com/layouts/css/global.css" rel="stylesheet" type="text/css">
-
+	
+	<link href="http://www.brightcove.com/layouts/css/helpPage.css" rel="stylesheet" type="text/css">
+	
 	<link href="http://www.brightcove.com/layouts/css/nav.css" rel="stylesheet" type="text/css">
 
 	
 
+	<script src="http://www.brightcove.com/layouts/js/preload_rollover.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		var navImages = new Array();
+	</script>
+
 <meta name="ColdFusionMXEdition" content="ColdFusion DevNet Edition - Not for Production Use."></head>
 
 
-
-<body>
+<body onload="imgPreload(navImages);">
 
 <a name="pageTop" id="pageTop"></a>
 
@@ -37,6 +43,10 @@
 <div id="container">
   <div id="top">
     
+	<script type="text/javascript">
+		navImages['magnifyingGlass_over'] = 'http://www.brightcove.com/layouts/img/magnifyingGlass_over.gif';
+	</script>
+
     <div id="utilitymenu">
       <ul class="hlinks">
         <li><a href="http://admin.brightcove.com/console/signin.html" onclick="dcsMultiTrack('DCS.dcssip','blog.brightcove.com','DCS.dcsuri','/console/signin.html','WT.ti','Console Login','WT.pi','');" title="Console Login" target="_blank">Console Sign In</a></li>
@@ -45,13 +55,46 @@
         <li class="separator">|</li>
         <li class="last"><a href="http://www.brightcove.com/contact-us.cfm" title="Contact Us">Contact Us</a></li>
       </ul>
+	  
+	
+	  
+	  <script language="javascript">
+	  	function checkForm() {
+			var texttocheck = document.searchfrm.search.value;
+			var OK=0;
+			if (texttocheck.length > 0) 
+				OK=1;
+			
+			if(OK==1)
+				return true;
+			else
+				return false;		
+		}
+		function checkFormByclick(){
+		 if(checkForm())
+		 	document.searchfrm.submit();
+		}
+	  </script>
+	  
+	  <div id="searchWindow">
+	  	
+		<form name="searchfrm" action="http://www.brightcove.com/search.cfm" method="GET" onsubmit="return checkForm()">
+			<span id="magnifyingGlass">
+			<input type="image" src="http://www.brightcove.com/images/spacer.gif" name="process" style="border:0;">
+			<a href="#" onclick="checkFormByclick();" onmouseover="imgMouseOver('magnifyingGlass','magnifyingGlass_over');" class="noborder" onmouseout="imgMouseOut('magnifyingGlass');"><img src="http://www.brightcove.com/layouts/img/magnifyingGlass.gif" alt="" border="0" name="magnifyingGlass"></a>
+			 </span>
+			<span><input type="text" name="search" maxlength="50" class="searchField"></span>
+		</form>
+
+	  </div>
+	  
     </div>
     <div id="logo"><a href="http://www.brightcove.com/" class="noborder"><img src="../layouts/img/logo.gif" alt="Brightcove" width="191" height="36" border="0"></a></div>
     <div id="menubar">
 		<div id="menuContainer">
 			
 			<script>
-			  var swfMovieName="menu_brightcove_12a.swf";
+			  var swfMovieName="menu_brightcove_15new.swf";
 			  var swfMoviePath="http://www.brightcove.com/layouts/flash/" + swfMovieName;
 			  var jsflashvar="&baseURL=http://www.brightcove.com/";
    			</script>
@@ -197,11 +240,11 @@
     <ul class="hlinks">
       <li><a href="http://www.brightcove.com/index.cfm" title="Home">Home</a></li>
       <li class="separator">|</li>
-      <li><a href="http://www.brightcove.com/content-owners.cfm" title="Content Owners">Content Owners</a></li>
+      <li><a href="http://www.brightcove.com/content-owners.cfm?WT.svl=3" title="Content Owners">Content Owners</a></li>
       <li class="separator">|</li>
-      <li><a href="http://www.brightcove.com/affiliates.cfm" title="Affiliates">Affiliates</a></li>
+      <li><a href="http://www.brightcove.com/affiliates.cfm?WT.svl=3" title="Affiliates">Affiliates</a></li>
       <li class="separator">|</li>
-      <li><a href="http://www.brightcove.com/advertisers-overview.cfm" title="Advertisers">Advertisers</a></li>
+      <li><a href="http://www.brightcove.com/advertisers-overview.cfm?WT.svl=3" title="Advertisers">Advertisers</a></li>
       <li class="separator">|</li>
       <li class="last"><a href="http://www.brightcove.com/about-us.cfm" title="About Us">About Us</a></li>
 	  <li class="separator">|</li>
