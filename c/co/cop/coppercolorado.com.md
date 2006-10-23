@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coppercolorado.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425035618id_/http%3A//intrawest.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coppercolorado.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023040636id_/http%3A//intrawest.com/privacy/index.asp) for the most accurate reproduction.*
 
 # Intrawest - Privacy Policy
 
