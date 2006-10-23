@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2006-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060323021541id_/http%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023114411id_/http%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AllStays
 
@@ -45,7 +45,7 @@ AllStays is concerned about privacy on the internet. Please read the following t
 
     * We respond to subpoenas, court orders or legal process; or 
 
-    * We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20060323021541id_/http%3A//www.allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays. 
+    * We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20061023114411id_/http%3A//www.allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays. 
 
 
 
@@ -71,7 +71,7 @@ AllStays is concerned about privacy on the internet. Please read the following t
 **Questions or Suggestions**  
 
 
-  * If you have any questions or suggestions, [please send an email to us.](https://web.archive.org/web/20060323021541id_/http%3A//www.allstays.com/Services/feedback.htm)
+  * If you have any questions or suggestions, [please send an email to us.](https://web.archive.org/web/20061023114411id_/http%3A//www.allstays.com/Services/feedback.htm)
 
 
-[ ](https://web.archive.org/web/20060323021541id_/http%3A//www.allstays.com/Services/feedback.htm)
+[ ](https://web.archive.org/web/20061023114411id_/http%3A//www.allstays.com/Services/feedback.htm)
