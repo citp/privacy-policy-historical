@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avira.de privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418201930id_/http%3A//www.avira.de/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avira.de privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023064720id_/http%3A//www.avira.de/en/privacy.html) for the most accurate reproduction.*
 
-# Avira Antivirus Solutions - Privacy
+# Privacy - antivirus, antispam, recovery security
 
 | [Home](https://web.archive.org/)  
 ---  
@@ -10,7 +10,7 @@
 [Downloads](https://web.archive.org/en/download/index.html)  
 [Virus Info](https://web.archive.org/en/threats/index.html)  
 [Company](https://web.archive.org/en/company/index.html)  
-[Press](https://web.archive.org/en/press_center/index.html)  
+[Press](https://web.archive.org/en/press_releases/index.html)  
 [Partners](http://original.antivir.de/en/partner/index.html)  
 [Newsletter](https://web.archive.org/en/newsletter/index.html)  
 | 
@@ -117,5 +117,9 @@ The Auerbach Foundation contributes to greater protection and security in the wo
 ## Proven protection
 
 AntiVir is regularly awarded for its very high detection results  
-[](https://web.archive.org/en/company/awards.html)  
+
+
+[](https://web.archive.org/en/company/awards.html)
+
+  
 
