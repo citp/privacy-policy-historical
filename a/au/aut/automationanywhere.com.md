@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automationanywhere.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614233338id_/http%3A//www.tethyssolutions.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automationanywhere.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023133402id_/http%3A//www.tethyssolutions.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Tethys Solutions - Privacy Policy
 
