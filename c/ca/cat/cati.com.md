@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cati.com privacy policy that was archived on 2005-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051129171935id_/http%3A//www.cati.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cati.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023074054id_/http%3A//www.cati.com/privacy.htm) for the most accurate reproduction.*
 
 # CATI - Computer Aided Technology, Inc.
 
