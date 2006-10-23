@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipmart.com privacy policy that was archived on 2006-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060325182030id_/http%3A//www.ipmart.com/main/text_privacy_policy.php%3Fcurr%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipmart.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023060600id_/http%3A//www.ipmart.com/main/text_privacy_policy.php%3F) for the most accurate reproduction.*
 
 # IPmart.com - Online Shopping Mall
 
