@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the librarium-online.com privacy policy that was archived on 2006-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060329014440id_/http%3A//www.librarium-online.com/content/view/223/27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the librarium-online.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023140807id_/http%3A//www.librarium-online.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D223%26Itemid%3D27) for the most accurate reproduction.*
 
 # Librarium Online - Privacy Policy Statement
 
