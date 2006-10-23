@@ -1,47 +1,73 @@
-> *The following text is extracted and transformed from the shanghaiexpat.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603235950id_/http%3A//www.xianzai.com.cn/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shanghaiexpat.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023044742id_/http%3A//www.shanghaiexpat.com/News-article-sid-175.phtml) for the most accurate reproduction.*
 
-# Xianzai.com Delivers China Email Newsletters, Email Marketing Tools, Opt-in Announcement Emails, & Email Technology
+# Privacy Policy :: Shanghai Expat :: Living and Working in Shanghai
 
-Xianzai respects your right to privacy. Your name, email address, postal code and any other identifying information that you give us will not be revealed to any of the clients who rent our lists. Should we ever change our policy, you will be given the chance to remove yourself from our lists.
+  
+|  | 
 
-We hate spamming, and we know that you do, too. When you sign up for our Xianzai.com mailing lists, you will receive commercial email messages only about those topical categories that you have selected. Before any mailing goes out, our staff members personally screen each marketer's message to make sure that it's relevant to the list's topic. for more information about our anti-spamming policy, go [here](https://web.archive.org/web/20040603235950id_/http%3A//www.xianzai.com.cn/antispam.htm).
+|   
+---  
+  
+|  ****  
+---  
+**on Sunday, November 07, 2004 - 06:30 PM CCT - 4333 Reads**  
+  
+## **Privacy Policy**
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion lists and opt-in announcement lists owned and operated by Xianzai Limited. The following discloses our Privacy Policy. 
+**Introduction**  
+We take your right to privacy seriously and want you to feel comfortable using our web site.  
+This Privacy Policy deals with personally identifiable information (hereafter referred to as "Data") that may be collected by ShanghaiExpat.com on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or otherwise within our control including, but not limited to, the internet service providers that provides users’ access to the site. 
 
-**What information are you collecting and how are you collecting it?**
+**1\. Collection of Data**
 
-Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the Xianzai Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our Web servers do not record e-mail addresses of the visitors. 
+Our registration process requires only a valid e-mail address and a unique user ID and password. Providing us with other information is at your option. Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site if so designated in your account options. Like many web sites, we may also automatically receive general information that is contained in our server log files such as your IP address, browser used, date, time and duration of access and cookie information. ShanghaiExpat.com uses this information to monitor, preserve and enhance the functioning and integrity of the system. Information is collected for analysis and statistical purposes, and is used to help diagnose problems with the server and to carry out other administrative tasks, such as assessing what information is of most interest, determining technical design specifications and identifying system performance and/or problem areas. This information is not used in any way that would reveal personal information to external constituencies except as described above.
 
-**What are cookies?**
 
-From time to time, Xianzai Ltd. or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie **can't** read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system.
+**2\. Use of Data**
 
-We use cookies to identify which areas of Xianzai Ltd.'s sites you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. We and our advertisers may use this information to better personalize the content, banners, and promotions that you see on our Sites. 
+ShanghaiExpat.com may use Data to customize and improve your user experience on this site. ShanghaiExpat.com will take all reasonable actions to prevent the disclosure of your Data to third parties unless (i) otherwise provided for in this Privacy Policy; (ii) we obtain your consent, such as when you choose to opt-in or opt-out to the sharing of Data; (iii) a service provided on our site requires the interaction with or is provided by a third party; (iv) pursuant to legal process or law enforcement, we are required to disclose your Data; (v) we find that your use of this site violates this Policy, Terms of Service, other usage guidelines or it is deemed reasonably necessary by us to disclose your Data in order to protect our legal rights and/or property; or (vi) this site is purchased by a third party whereby that third party will be able to use the Data in the same manner as ShanghaiExpat.com as set forth in this Policy. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites.
 
-You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended. 
 
-**What other information do you request?**
+**3\. Cookies**
 
-We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about seminars) Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. 
+Like many web sites, ShanghaiExpat.com may set and use cookies to enhance your user experience, such as to retain your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is then subject to the privacy policy of those parties providing the advertisements. However, the companies serving advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.
 
-If you choose to purchase something online, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related product and services.
 
-**Will you disclose the information you collect to outside third parties?**
+**4\. Interactive Functions**
 
-Xianzai will disclose personal information when required by law or in the good-faith belief that such action is necessary to: 
+A. Chat Rooms: ShanghaiExpat.com does not routinely retain logs or copies of chat rooms; however, information disclosed in these areas is public.  
+B. Forum and Classifieds: ShanghaiExpat.com stores the data contained in these sections on its servers and information posted in these areas is public. Data provided by users to open a classifieds ad account is not made public or provided to any third parties except as provided in Paragraph 2.  
+C. Personal Message System: The content of Personal Messages (PMs) are not monitored by ShanghaiExpat.com under normal circumstances. ShanghaiExpat.com does retain the content of PMs on its servers until deleted by the users sending and receiving such PMs. Senders of PMs should regard information sent by PMs as potentially public information. Although ShanghaiExpat.com shall not reveal the contents of PMs except as required under Paragraph 2 of this Policy, ShanghaiExpat.com is not responsible for the re-sending, forum posting, or other distribution of the contents of PMs made by recipients of such PMs, whether such recipient was the intended recipient of the content of such PMs.
 
-1) Conform to the edicts of the law or comply with a legal process served on Xianzai Ltd.'s sites, 
 
-2) Protect and defend the rights or property of the Xianzai Ltd.'s network of sites, or visitors to Xianzai.com, 
+**5\. Editing or Deleting Your Account Information**
 
-3) Identify persons who may be violating the law, the legal notice, or the rights of third parties, 
+We provide you with the ability to edit the information in your user account information that you provided to us in registration by using your account information page on the site. You may also delete your user account from within your account configuration page or by contacting a site administrator. Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted.
 
-4) Cooperate with the investigations of purported unlawful activities. 
 
-5) In the case of information related to your cellular or mobile phone number, we will provide this information to third-parties in order for them to provide you with information you specifically request from our site. Xianzai is not liable now or in the future for any claims arising out of the distribution of your number(s) after we provide these to a third-party. Xianzai does its best to screen all third-parties, but is not liable for any misuse of your data once we give it to a third-party.
+**6\. Changes to this Privacy Policy**
 
-**Your Consent To This Agreement**
+We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings.
 
-By using our Web site, you consent to the collection and use of information by Xianzai Ltd. as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-If you think you have received Xianzai newsletters in error, or you believe your email account is being fraudulently handled, please contact us immediately at [marketing@xianzai.com](mailto:marketing@xianzai.com).
+**7\. Privacy Policy Disclaimer**
+
+This Privacy Policy states ShanghaiExpat.com’s standards for maintenance of Data and we will make reasonable efforts to meet them. However, we do not guarantee the effectiveness of these standards. There may be factors beyond our control that may result in disclosure of Data. As a consequence, we disclaim any warranties or representations relating to maintenance or nondisclosure of Data.
+
+
+**8\. Contact Information**
+
+If you have any questions about this Policy, please contact a site administrator.
+  
+  
+ |   
+**Privacy Policy** | [Login/Create an account](https://web.archive.org/web/20061023044742id_/http%3A//www.shanghaiexpat.com/user.php) | 0 Comments  
+---  
+Comments are owned by their poster. We aren't responsible for their content.  
+  
+**Sunday Coffee Brunch at Coffee Bean Xintiandi**  
+It will be every Sunday staring at 12 noon and run for a couple hours. Anyone coming to the meeting will get a pass for a 10% discount while at the meeting.[ **More info HERE**](http://www.shanghaiexpat.com/MDForum-viewtopic-t-28351.phtml)
+
+**Wed Mixer at Malones**  
+**Come and get it! Every Week! Over the hump!** 25RMB discounted drinks, great food, great people and a great time. [ **More info HERE**](http://www.shanghaiexpat.com/PNphpBB2-viewtopic-t-22007.phtml)   
+**[Click HERE to view the photos](http://www.shanghaiexpat.com/modules.php?set_albumName=Shanghaiexpat-Events&op=modload&name=Gallery&file=index&include=view_album.php)**
