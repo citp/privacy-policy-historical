@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615061548id_/http%3A//www.papyrusonline.com/legal/security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023094051id_/http%3A//papyrusonline.com/legal/security.cfm) for the most accurate reproduction.*
 
 # PapyrusOnline Home Page
 
