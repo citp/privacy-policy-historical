@@ -1,8 +1,35 @@
-<!--The following is the downloaded HTML source of the mbuzzy.com privacy policy that was archived on 2006-03-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060327091756id_/http%3A//www.mbuzzy.com/pp.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mbuzzy.com privacy policy that was archived on 2006-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061023121242id_/http%3A//www.mbuzzy.com/pp.php) for the most accurate reproduction.-->
 
 <html><head>
+<script type="text/javascript"> 
+<!--
 
+
+popupWins = new Array();
+
+function windowOpener(url, name, args) {
+    /******************************* 
+    the popupWins array stores an object reference for
+    each separate window that is called, based upon
+    the name attribute that is supplied as an argument
+    *******************************/
+    if ( typeof( popupWins[name] ) != "object" ){
+        popupWins[name] = window.open(url,name,args);
+    } else {
+        if (!popupWins[name].closed){
+            popupWins[name].location.href = url;
+        } else {
+             popupWins[name] = window.open(url, name,args);
+             }
+        }
+    popupWins[name].focus();
+}
+
+
+
+-->
+</script>
 <!--
 ###########################################################################
 ###########################################################################
@@ -48,11 +75,28 @@ This notice may not be removed.
 										<td id="nav_top_edge">
 											<table cellpadding="0" cellspacing="0" border="0" width="100%">
 												<tbody><tr>
-												<!--
-													<td align=center width=50%>
-														Cart (<span style='font-weight: bold; color: #e16803;'>1</span> item)
+												
+													<td align="center">
+                                                        														        <div style="font-size: 9px;">
+      <form method="get" action="http://www.mbuzzy.com/displayObjects.php" id="form_html">
+	    <input type="hidden" name="page" value="1">
+	    <input type="hidden" name="srch" value="1">
+			<b></b>
+			<select name="type" style="font-size: 9px;">
+				<option value="0">Photos
+				</option><option value="1">Ringtones
+				</option><option value="3">Videos
+				</option><option value="2">Games
+				</option><option value="profile">User Profile
+				</option><option value="buzzcode">buzzcode
+			</option></select>
+			<input type="text" name="objectQuery" style="font-size: 9px;">
+			<input type="submit" value="Search" style="font-size: 9px;" class="standard_form_submit">
+		</form>
+      </div>
+                                                                                                            
 													</td>
-												 -->
+												 
 													<td align="right">
 																													<span style="font-size: 10px;">
 
@@ -60,7 +104,7 @@ This notice may not be removed.
 																<a href="http://www.mbuzzy.com/login.php" class="top_edge_welcome_link">Sign In</a>
 																														</span>
 																												<span class="grey_text">|</span>
-														<a href="http://www.mbuzzy.com/support.php" class="top_edge_welcome_link">Help</a>
+														<a href="http://www.mbuzzy.com/support.php" class="top_edge_welcome_link">FAQ</a>
 													</td>
 												</tr>
 											</tbody></table>
@@ -79,7 +123,26 @@ This notice may not be removed.
 				</tbody></table>
 				<!-- END: logo and header bits -->
 
-								
+												<!-- START: advertising -->
+			<table cellpadding="0" cellspacing="0" border="0" id="header_advertising_table">
+					<tbody><tr>
+						<td>
+						<div class="header_ad">
+                <!-- ValueClick Media 468x60 and 728x90 Banner CODE for mbuzzy.com -->
+                <script language="javascript" src="http://media.fastclick.net/w/get.media?sid=17956&amp;m=1&amp;tp=5&amp;d=j&amp;t=n"></script>
+                <noscript><a href="http://media.fastclick.net/w/click.here?sid=17956&m=1&c=1" target="_blank">
+                <img src="http://media.fastclick.net/w/get.media?sid=17956&m=1&tp=5&d=s&c=1"
+                width=728 height=90 border=1></a></noscript>
+                <!-- ValueClick Media 468x60 and 728x90 Banner CODE for mbuzzy.com -->
+                        </div>
+
+				
+                
+                						</td>
+					</tr>
+				</tbody></table>
+				<!-- END: advertising -->
+				
 
 				<div id="nav1_content">
 				    <table cellpadding="0" cellspacing="0" border="0" id="nav1_table">
@@ -115,34 +178,12 @@ This notice may not be removed.
 
 				<div id="nav3_frame" style="">
 			   		<div id="nav3_content" style="">
-			   						   				<div id="search_header_content">
-	<table cellpadding="0" cellspacing="0" border="0" width="100%" id="search_header_content_header">
-		<tbody><tr>
-			<td valign="middle" align="center">
-				<form method="get" action="displayObjects.php" id="form_html">
-					<input type="hidden" name="page" value="1">
-	            <input type="hidden" name="srch" value="1">
-					<b>Search</b>
-					<select name="type">
-						<option value="0">Photos
-						</option><option value="1">Ringtones
-						</option><option value="3">Videos
-						</option><option value="2">Games
-						</option><option value="profile">User Profile
-						</option><option value="buzzcode">buzzcode
-					</option></select>
-					<input type="text" name="objectQuery">
-					<input type="submit" value="Go" class="standard_form_submit">
-				</form>
-			</td>
-		</tr>
-	</tbody></table>
-</div>			   						   						   			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                                			   						   						   			<table cellpadding="0" cellspacing="0" border="0" width="100%">
 			   				<tbody><tr>
 
 			
-			   															<td id="right_body_td">
-																																						<div style="padding-left: 15px; padding-top: 15px;">
+			   															<td valign="top" id="right_body_td">
+																												<div style="padding-left: 15px; padding-top: 15px;">
 									
 
 <h3 align="center">mbuzzy Privacy Policy</h3>
@@ -290,14 +331,15 @@ data, you consent to this transfer of your personal data.<o:p></o:p></span></p>
 				   		<tbody><tr>
 				       		<td align="center"><font size="1"> © 2006 mbuzzy™ inc.<br>
 					               'mbuzzy', the mbuzzy logo, and 'buzzcode' are trademarks of mbuzzy, Inc.</font><br>
+                                   <div style="color: #cccccc;">
+                                    <a href="http://www.mbuzzy.com/about.php" class="footerLink">About mbuzzy</a> |
 					                <a href="http://www.mbuzzy.com/tandc.php" class="footerLink">Terms and Conditions</a> |
 					                <a href="http://www.mbuzzy.com/pp.php" class="footerLink">Privacy Policy</a> |
-					                <a href="http://www.mbuzzy.com/disclaimer.php" class="footerLink">Disclaimer</a> |
+                                    <a href="http://www.mbuzzy.com/content-item.php" class="footerLink">DMCA</a> |
 					                <a href="http://www.mbuzzy.com/contactinfo.php" class="footerLink">Contact</a> |
 					                					                <a href="http://www.mbuzzy.com/support.php" class="footerLink">Help</a>
-					                <br>
-					                <a href="http://www.mbuzzy.com/contact.php" class="footerLink">Biz Dev :: Partnerships :: Media Inquiries</a>
-				        	</td>
+                                    </div>
+			                </td>
 				     	</tr>
 			    	</tbody></table>
 		    	</div>
@@ -305,6 +347,9 @@ data, you consent to this transfer of your personal data.<o:p></o:p></span></p>
 		</tr>
 	</tbody></table>
 </div>
+
+
+<script language="JavaScript" type="text/javascript" src="/wz_tooltip.js"></script>       
 
 
 
