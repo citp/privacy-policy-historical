@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airarabia.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617130830id_/http%3A//www.airarabia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airarabia.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023091503id_/http%3A//airarabia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # AirArabia » Privacy Policy
 
