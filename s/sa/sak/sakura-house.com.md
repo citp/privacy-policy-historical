@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sakura-house.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615061754id_/http%3A//www.sakura-house.com/english/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sakura-house.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023193148id_/http%3A//www.sakura-house.com/english/privacypolicy.htm) for the most accurate reproduction.*
 
 # Disclaimer and privacy policy
 
 ### Disclaimer and privacy policy
 
 Room availabilities:  
-Room availabilities shown on the page of each premise are not real-time. The database is renewed twice a day, so the actual availabilities at one moment may differ.Room condition:  
-The photographs and the movies of our rooms are taken when the premise opened. Therefore, actual condition of the rooms (ex. color of curtains or type of furnitures) may differ. If you would like to know the specific condition of a room, please contact us.External links:  
+Room availabilities shown on the page of each premises are not real-time. The database is renewed twice a day, so the actual availabilities at one moment may differ.Room condition:  
+The photographs and the movies of our rooms are taken when the premises opened. Therefore, actual condition of the rooms (ex. color of curtains or type of furniture) may differ. If you would like to know the specific condition of a room, please contact us.External links:  
 There may be Web sites linked to and from this site, but that does not constitute endorsement by Sakura House.   
 We do not take any responsibility of the information contained in these sites.   
 
