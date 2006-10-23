@@ -1,59 +1,60 @@
-> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193904id_/http%3A//environment.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023214118id_/http%3A//www.environment.gov.au/privacy.html) for the most accurate reproduction.*
 
-# Environment Portal Privacy Statement
+# Environment Portal Privacy Notice Highlights
 
-Department of the Environment and Heritage abides by the [_Guidelines for Australian and ACT Government World Wide Web Sites_](http://www.privacy.gov.au/internet/index.html) issued by the Australian Privacy Commissioner. 
+## Scope
 
-As a general rule, the [Department of the Environment and Heritage](http://www.deh.gov.au/) does not collect Personal Information* about you when you visit the site. You can generally visit the site without revealing Personal Information*, unless you choose to provide such information. The information received depends upon what you do when visiting the site. 
+This notice applies to the Department of the Environment and Heritage web site only. The web site is managed by the Australian Government Department of the Environment and Heritage.
 
-## Site visit data
+## Personal Information
 
-The Department of the Environment and Heritage makes a record of your visit and logs the following information for statistical purposes: 
+The use of the term "personal information" in this privacy notice means any information from which your identity is apparent or can be reasonably ascertained.
 
-  * your server's address 
-  * the name of the top-level domain from which you access the Internet (for example, .gov, .com, .au, .nz, etc) 
-  * the date and time of the visit to the site 
-  * the pages accessed and documents downloaded 
-  * the previous Internet address from which you linked directly to the Department of the Environment and Heritage site. 
+The Department of the Environment and Heritage collects personal information that you choose to give us, for example your email address.
+
+We do not collect identifiable personal information about you if you only browse this web site.
+
+## Uses
+
+We only use your personal information for the purposes for which you gave it to us.
+
+We do not share information about you with other government agencies, other organisations, or other persons without your permission unless it:
+
+  * is necessary to provide you with a service that you have requested 
+  * is required or authorised by law 
+  * will prevent or lessen a serious and imminent threat to somebody's health 
 
 
 
-We will not identify users or their browsing activities, except where a law enforcement agency (or other government agency) may exercise a legal authority to inspect the ISP logs (eg by warrant, subpoena or notice to produce). 
+We analyse non-identifiable web site traffic data to improve our services. On occassion, we may use cookies.
 
-This Website contains links to other sites. The Department of the Environment and Heritage is not responsible for the content and the privacy practices of other web sites and encourages you to examine each site's privacy policy and make your own decisions regarding the accuracy, reliability and correctness of material and information found. 
+## Your choices
 
-## Cookies
+You may gain access to personal information about you that we hold. You can have us correct any errors or delete the information we have about you.
 
-A cookie is a piece of information that an Internet web site sends to your browser when you access information at that site. 
+You may opt out of any further contact from us.
 
-Parts of the Department of the Environment and Heritage site may store cookies on your browser in order to better serve you when you next visit the site. 
+To protect your privacy and the privacy of others, we may have to gain evidence of your identity before we can give you access to information about you or change it.
 
-## Email management and Online forms - collection of Personal Information
+## Important Information
 
-Your email address will only be recorded if you choose to send a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. Your email address will not be used for any other purpose, and will not be disclosed, without your consent. 
+This web site is bound by the _Information Privacy Principles_ under the _Privacy Act 1988_.
 
-If you are asked for any other Personal Information* you will be informed how it will be used if you choose to give it. 
+We also follow the _Guidelines for Federal and ACT Government websites_ issued by the Office of the Privacy Commissioner.
 
-## Discussion Groups or List Servers
+## Contact us
 
-The Department of the Environment and Heritage hosts a number of discussions groups or list servers. Some of these services have a publicly accessible web archive. Where there is a web archive, subscribers are informed. If you subscribe to one of these services you should be aware that your complete email, including your email address, is available across the web to anyone who searches through the archive. 
+If you have any privacy concerns with the Department of the Environment and Heritage web site, please [contact the Privacy Contact Officer](mailto:privacy@deh.gov.au):
 
-## Security
+Privacy Contact Officer  
+Australian Government Department of the Environment and Heritage  
+GPO Box 787  
+Canberra ACT 2601  
+Australia  
+phone: +61 2 6274 1578  
+fax: +61 2 6274 1587  
+[privacy@deh.gov.au](mailto:privacy@deh.gov.au)
 
-The Department of the Environment and Heritage maintains the same level of security for Personal Information* collected in an electronic format as it does for that collected in paper format. 
+## Full privacy notice
 
-However, if you are providing Personal Information* via an email or an online form you should be aware that there are some risks to transmitting data via the Internet. Environment Australia is not currently using encryption for secure data transfer. 
-
-* * *
-
-If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify: 
-
-Privacy Contact Officer   
-Department of the Environment and Heritage   
-GPO Box 787   
-Canberra ACT 2601   
-AUSTRALIA   
-phone: + 61 2 6274 1584   
-fax: +61 2 6274 1587 
-
-* The use of the term "Personal Information" in this privacy statement means any information from which your identity is apparent or can be reasonably ascertained. 
+For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20061023214118id_/http%3A//www.environment.gov.au/privacyfull.html).
