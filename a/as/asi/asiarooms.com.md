@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiarooms.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210305id_/http%3A//www.asiarooms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiarooms.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023103232id_/http%3A//asiarooms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Asiarooms_new.com - Hotel reservation online
 
