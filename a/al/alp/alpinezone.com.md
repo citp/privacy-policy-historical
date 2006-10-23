@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629015407id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpinezone.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023123451id_/http%3A//www.alpinezone.com/privacy.htm) for the most accurate reproduction.*
 
 # AlpineZone.com Privacy Policy
 
@@ -7,89 +7,89 @@
 **[ Latest Headlines](http://news.alpinezone.com/) **[](http://rss.alpinezone.com/news.php)  
   
 ---  
- [250 Hikers to Climb Mount Washington in Support of Non-Profit Observatory...](http://news.alpinezone.com/9021/)  
-   12:24 PM \- Jun 26, 2006   
+ [Killington Resort Announces Lift Ticket Specials for 2006-07 Ski and Snowboard Season...](http://news.alpinezone.com/10616/)  
+   10:35 AM \- Oct 21, 2006   
   
- [The Mount Washington Resort at Bretton Woods Finalizes Sale...](http://news.alpinezone.com/9020/)  
-    12:23 PM \- Jun 26, 2006   
+ [Freeskier Magazine Ranks Okemo's Terrain Parks Among Best in North America...](http://news.alpinezone.com/10615/)  
+    10:34 AM \- Oct 21, 2006   
   
- [Jiminy Welcomes New Conference Sales Manager...](http://news.alpinezone.com/8978/)  
-    11:30 AM \- Jun 23, 2006   
+ [Mount Snow Terrain Park Rated Best in the East by Freeskier Magazine...](http://news.alpinezone.com/10614/)  
+    10:34 AM \- Oct 21, 2006   
   
- [Spring Mountain Ski Area Soars into Summer with New Summer Adventures Program...](http://news.alpinezone.com/8961/)  
-    9:06 AM \- Jun 22, 2006   
+ [Eastern Mountain Sports Announces Retail Expansion Into Newark, DE and Nanuet, NY...](http://news.alpinezone.com/10555/)  
+    1:42 PM \- Oct 19, 2006   
   
- [Wednesdays are &quot;Wild&quot; at Wildcat Mountain with Tin Mountain Conservation Center...](http://news.alpinezone.com/8960/)  
-    9:06 AM \- Jun 22, 2006   
+ [New Improvements at Gore on the Way for 2006-07 Ski Season...](http://news.alpinezone.com/10548/)  
+    9:17 AM \- Oct 19, 2006   
   
- [Arts Jubilee Concerts Highlight Summer Events at Cranmore...](http://news.alpinezone.com/8948/)  
-    11:59 AM \- Jun 20, 2006   
+ [Mountain Creek Teams With Harvest House To Host Book And Bake Sale November 4th...](http://news.alpinezone.com/10533/)  
+    2:18 PM \- Oct 18, 2006   
   
- [Stowe's Summer Attractions Open June 24...](http://news.alpinezone.com/8941/)  
-    3:42 PM \- Jun 19, 2006   
+ [Burke Mountain Enhances Discounted Lift Ticket Offer to Vermonters...](http://news.alpinezone.com/10532/)  
+    2:17 PM \- Oct 18, 2006   
   
- [Loon Mountain Slides into Summer with Its Annual Gelatin Jam July 1-2...](http://news.alpinezone.com/8940/)  
-    3:42 PM \- Jun 19, 2006   
+ [N'east Mag Issue 6 on Newsstands...](http://news.alpinezone.com/10531/)  
+    2:17 PM \- Oct 18, 2006   
   
- [Nutting Family Agrees to Purchase Seven Springs Mountain Resort...](http://news.alpinezone.com/8939/)  
-    2:40 PM \- Jun 19, 2006   
+ [Mountain Creek Invests Another $500,000 in On-Hill Improvements...](http://news.alpinezone.com/10523/)  
+    9:23 AM \- Oct 18, 2006   
   
- [Free Riding and Sliding at Attitash...](http://news.alpinezone.com/8938/)  
-    2:39 PM \- Jun 19, 2006   
+ [Seven Springs Mountain Resort Withdraws Category 3 Limited Gaming License Application...](http://news.alpinezone.com/10522/)  
+    9:23 AM \- Oct 18, 2006   
   
   
   
 **[ Recent Discussions](http://forums.alpinezone.com/) **[](http://rss.alpinezone.com/forums.php)  
   
 ---  
- [Word Association Thr...](http://forums.alpinezone.com/showthread.php?t=8966&goto=newpost)  
-   3:13 PM \- Jun 22, 2006   
-    by Greg  
+ [killington to start...](http://forums.alpinezone.com/showthread.php?t=10650&goto=newpost)  
+   6:55 AM \- Oct 23, 2006   
+    by Bob R  
   
   
- [Talk Radio, What's Y...](http://forums.alpinezone.com/showthread.php?t=8562&goto=newpost)  
-    1:05 PM \- May 10, 2006   
-    by andyzee  
+ [Haystack article tod...](http://forums.alpinezone.com/showthread.php?t=10647&goto=newpost)  
+    12:42 AM \- Oct 23, 2006   
+    by ski_resort_observer  
   
   
- [New way to steal car...](http://forums.alpinezone.com/showthread.php?t=9048&goto=newpost)  
-    4:19 PM \- Jun 28, 2006   
-    by ALLSKIING  
+ [2006-2007 outings...](http://forums.alpinezone.com/showthread.php?t=9426&goto=newpost)  
+    8:52 AM \- Aug 9, 2006   
+    by Bob R  
   
   
- [The Funny Video Thre...](http://forums.alpinezone.com/showthread.php?t=8451&goto=newpost)  
-    11:36 PM \- Apr 28, 2006   
-    by BeanoNYC  
+ [Anyone planning some...](http://forums.alpinezone.com/showthread.php?t=10599&goto=newpost)  
+    6:31 PM \- Oct 20, 2006   
+    by uphillklimber  
   
   
- [Outdoor Gear Online...](http://forums.alpinezone.com/showthread.php?t=9022&goto=newpost)  
-    2:09 PM \- Jun 26, 2006   
-    by Zunnie4  
+ [Whiteface...](http://forums.alpinezone.com/showthread.php?t=10645&goto=newpost)  
+    8:58 PM \- Oct 22, 2006   
+    by Sparky  
   
   
- [Hiking Clubs...](http://forums.alpinezone.com/showthread.php?t=3784&goto=newpost)  
-    9:53 AM \- May 2, 2005   
-    by skizilla  
+ [Electric 9-Volt Sung...](http://forums.alpinezone.com/showthread.php?t=10649&goto=newpost)  
+    3:38 AM \- Oct 23, 2006   
+    by Steepandcheap.com  
   
   
- [Hiking Suggestions?...](http://forums.alpinezone.com/showthread.php?t=9043&goto=newpost)  
-    11:11 AM \- Jun 28, 2006   
-    by UTAH_HIKER  
+ [Arc'teryx Blaze Zip...](http://forums.alpinezone.com/showthread.php?t=10648&goto=newpost)  
+    2:04 AM \- Oct 23, 2006   
+    by Steepandcheap.com  
   
   
- [Trailboss breaks 6,0...](http://forums.alpinezone.com/showthread.php?t=9045&goto=newpost)  
-    1:47 PM \- Jun 28, 2006   
-    by Greg  
+ [Impressions of Catsk...](http://forums.alpinezone.com/showthread.php?t=10474&goto=newpost)  
+    10:19 AM \- Oct 15, 2006   
+    by highpeaksdrifter  
   
   
- [First time out for t...](http://forums.alpinezone.com/showthread.php?t=9035&goto=newpost)  
-    11:47 AM \- Jun 27, 2006   
-    by ALLSKIING  
+ [Finally Switched to...](http://forums.alpinezone.com/showthread.php?t=10637&goto=newpost)  
+    10:19 AM \- Oct 22, 2006   
+    by riverc0il  
   
   
- [Your Official 2005-0...](http://forums.alpinezone.com/showthread.php?t=8059&goto=newpost)  
-    7:03 AM \- Mar 26, 2006   
-    by Greg  
+ [Info for Sint Maarte...](http://forums.alpinezone.com/showthread.php?t=10552&goto=newpost)  
+    12:44 PM \- Oct 19, 2006   
+    by NHpowderhound  
   
   
    
