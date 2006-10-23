@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the handster.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621201959id_/http%3A//handster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handster.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023191148id_/http%3A//handster.com/privacy.php) for the most accurate reproduction.*
 
-# Handster.com: Download Windows Mobile Software for your iPAQ, O2 XDA, T-Mobile MDA, imate, Cingular 8125 PPC 6700, Orange SVP devices.
+# Handster.com - Pocket PC software for your iPAQ, Qtek, XDA, MDA, Cingular 8125 and other devices.
 
 Because we gather information about the customers of Handster.com we feel you should fully understand the terms and conditions for use of that information.
 
