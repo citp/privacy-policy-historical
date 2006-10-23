@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021435id_/http%3A//www.domesticsale.com/help-privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023022603id_/http%3A//www.domesticsale.com/help-privacy.shtml) for the most accurate reproduction.*
 
 # DomesticSale.com - Privacy Policy
 
@@ -6,8 +6,10 @@
 ---  
 [Auto](https://web.archive.org/autoclassified/ "Used cars for sale, auto dealers, car loan, auto insurance")  
 [Real Estate](https://web.archive.org/realestate/ "Real Estate classifieds. Homes for sale.")  
-[Classifieds](https://web.archive.org/Classifieds/ "Auto goods, Pets, Collectibles, Personals and more ...")  
+[Classifieds](https://web.archive.org/Classifieds/ "Auto Parts & Services, Pets, Collectibles, Personals and more ...")  
 [Local ads](https://web.archive.org/local.html "Local Classified ads.")  
+[Garage sale](https://web.archive.org/garage/ "Garage sales calendar.")  
+[Events](https://web.archive.org/events/ "Events calendar.")  
 [Easy store](http://store.domesticsale.com/ "Online store")  
 [Job guide](http://job.domesticsale.com/ "Jobs finder, job listing, career tools")  
 [Sales digest](https://web.archive.org/sales/ "Sales, clearance, smart shopping")  
@@ -16,9 +18,6 @@
  **International:**  
 [Classifieds](http://international.domesticsale.com/ "International classified ads")  
 [Real Estate](http://international.domesticsale.com/realestate/ "Internetational Real Estate")  
-  
-[](http://www.idiotsidea.com/)
-
 |  **Maps**  
 ---|---  
 | Address:  
@@ -29,55 +28,40 @@ ZIP: |
   
 | | | 
 
-## Privacy policy & Disclaimer
+## Privacy policy
 
 |   
 ---|---|---  
   
-  
+DomesticSale™ has established its privacy policy to explain how your information within the purview of DomesticSale is protected, collected and used. This policy may be updated by DomesticSale. DomesticSale will post notices of its policy changes on the DomesticSale site at: [http://www.DomesticSale.com/help-privacy.shtml](http://www.domesticsale.com/help-privacy.shtml) 
 
+**PRIVACY PROTECTION**
 
-## Privacy policy
+DomesticSale does not share your information with third parties for marketing purposes, or engage in cross-marketing or link-referral programs with other similar sites. DomesticSale recommends its customers to keep their password safe and do not remember it on public (shared) computers (Internet-cafe, college, library, family computer etc). DomesticSale does not knowingly collect any information from persons under the age of 13. If DomesticSale learns that a posting is by a person under the age of 13, DomesticSale will remove that posting. DomesticSale, or persons who post on DomesticSale, may provide links to third party websites, with different privacy policies. DomesticSale is not responsible for, nor have any control over, those third party websites.  
 
-We here at Domesticsale™ care about providing you with the tools and information you need to manage and protect your online privacy. We have developed this privacy policy to inform you about what information this web site collects, who may receive the information, what we may do with the information, and how long we keep it.
+**INFORMATION COLLECTION AND USE**
 
- **Cookies**
+DomesticSale collect traditional contact information such as your name, mailing and/or billing address, phone number and email address for few purposes: to send selfpublishing and confirmation emails, to authenticate user accounts, to provide subscription email services, to register for forums, to process any credit card charges, etc.
 
-Domesticsale.com may use "cookies" to obtain non-personal information from our online visitors in order to improve their personal experience while using our site. What is a cookie? It is a tiny element of data that is sent to your browser, which may then be stored on your hard drive so we can recognize you when you return. For example, cookies keep information such as the layout of the page that you prefer, so that when you return to our site your chosen elements are still right there within easy mouse clicks just like you like them. No other companies or persons will ever have access to Domesticsale.com's cookies.
+DomesticSale does not store full credit card information but DomesticSale may store the information partially, such as only last 4 digits of your credit card number for transactions authenticating, monitoring and fraud prevention purpose. All credit card transactions initiated by DomesticSale are transmitted through a financial gateway using encrypted Secure Socket Layer (SSL 128 Bit) protocol.
 
- **Information Collection and Use**
+Your personal information may be collected by DomesticSale if you provide it in the feedback or comments, post it on our classifieds, forums, guestbook or other publishing areas of the website.
 
-We collect traditional contact information such as your name, mailing address, phone number and e-mail address in order to process your request to place a classified ad on Domesticsale.com. We use this information for a few purposes: to process any credit card charges for your account, to place your ad and to notify you of the login data you will need to place, edit or delete ads. We do not have "marketing partners". We do not give, rent, loan, or otherwise disclose any of your personal information to anyone. Traditional contact information is kept for as long as is legally required. For example, a law may allow you to dispute transactions for a certain time period. We may maintain records of transactions for liability reasons. We do not keep a record of credit card numbers.
+Should you expect your personal information to be private please do not post any personal information on DomesticSale site. Standard web log entries for each page served, including visitor’s IP address, page URL, and timestamp are collected by DomesticSale web logs in order to help diagnose problem with DomesticSale servers, to administer DomesticSale site, and to otherwise enhance visitor’s use of DomesticSale sites and services. 
 
- **Confidentiality and Security**
+**DATA STORAGE**
 
-We limit any access to your personal information to only those employees who need that information to provide you with the services we offer on our site.  
-We have safeguards (physical, electronic, and procedural) that comply with federal regulations to protect all of your personal information that you provide to use. 
+DomesticSale stores in its database all user generated content (classified ads, forums, guestbook postings etc.) even after they are deleted, as well as can archive such data elsewhere. DomesticSale indefinitely stores web logs and other records. Registered members can access and update personal account information through the account homepage.  
 
-**Accuracy**
+**DISCLOSURE OF PERSONAL INFORMATION**
 
-If you believe we are not handling your information in accordance with our privacy policy, please contact our customer service department. Contact information is available at contact us page. If, for some reason we have violated our privacy policy, we will correct the error immediately once we become aware of the problem. While we have made every attempt to make this policy as clear as possible, if you have any further questions about it, please [contact us.](https://web.archive.org/contact.shtml)
+DomesticSale may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. DomesticSale may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-party; or protect the rights, property, or personal safety of DomesticSale, its users or the general public. DomesticSale complies with the provisions of C.R.S. § 6-1-716 pertinent to the breaches of security notifications effective September 1st, 2006.  
 
- **Privacy Policy Changes**
+**GLOBAL USE**
 
-Domesticsale.com may make changes or additions to this privacy policy at any time. We recommend that you check this page periodically for any changes. 
+By providing us with data and by visiting DomesticSale you acknowledge and agree that due to the global use of DomesticSale we may use the data collected in the course of your use of our site and/or services for the purposes identified in this policy or in our other communications to you, including the transmission of information outside your resident jurisdiction. Data provided to DomesticSale may be stored on servers throughout different jurisdictions. User agrees to consent to transfer of such data to different locations.  
 
-
-  
-
-
-## Disclaimer
-
-\- Domesticsale.com does not assume responsibility for the content of classified ads or thirds party advertising presented on this web site.
-
-\- Domesticsale.com does not assume responsibility for the content of the public display areas such as the forums or guestbook. 
-
-\- Domesticsale.com cannot be involved in person-to-person dealings. You are using this web site with your own judgment and at your own risk. 
-
-**If you do not agree the "Privacy policy & Disclaimer", please leave this website immediately.**
-
-
-  
+**IF YOU DO NOT AGREE WITH DOMESTICSALE PRIVACY POLICY PLEASE LEAVE THIS WEBSITE**  
   
 | |  **Testimonials**  
 ---|---  
