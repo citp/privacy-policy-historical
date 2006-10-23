@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cet.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204172253id_/http%3A//www2.cet.com/index.php%3Fid%3D25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cet.com privacy policy that was archived on 2006-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061023195922id_/http%3A//cet.com/index.php%3Fid%3D25) for the most accurate reproduction.*
 
 # CET: Privacy Statement
 
