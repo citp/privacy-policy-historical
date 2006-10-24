@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318223530id_/http%3A//www.scanalert.com/Content.sa%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024223349id_/https%3A//www.scanalert.com/Content.sa%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # ScanAlert
 
