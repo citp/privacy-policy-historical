@@ -1,19 +1,43 @@
-> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205083932id_/http%3A//salesvantage.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024223651id_/http%3A//salesvantage.com/privacy.php) for the most accurate reproduction.*
 
-# SalesVantage.com Privacy Policy
+# SalesVantage.com Privacy Policy Statement
 
-SalesVantage.com takes privacy seriously and is totally committed to your privacy. SalesVantage.com gathers information from you in order to provide you with easy access to the content and services that we provide. This policy is only in effect for the Web pages, newsletters and discussion lists that SalesVantage.com inc. owns and operates. The following responses to frequently asked questions summarize our privacy policy. 
+  
+**The SalesVantage.com Privacy Policy**  
+SalesVantage.com privacy policy represents our commitment to your privacy. This policy discloses what information we gather and how we use it. SalesVantage.com will never sell or rent any personally-identifiable information obtained from a user to a third party. The URL covered under this privacy policy is [www.salesvantage.com](http://www.salesvantage.com/)
 
-**Is my personal information kept private?**   
-SalesVantage.com will never sell or trade your name or address to any Advertiser. In the future, you may be offered the option of sharing information with another site visitor(s) though message boards, chat rooms and/or newsgroups. Please remember that sharing of information in these areas become public information for the use of which SalesVantage.com is no longer responsible; exercise caution and act only in a professional manner when deciding to disclose your personal information. 
+Information Gathered
 
-**What about cookies?**  
-SalesVantage.com advertising is delivered though Ad Networks who specialize in a simple technology called cookies. Every Browser is assigned an ID number. That file is held in a file called a cookie. That number is not attached to any name what so ever. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow advertisers to ascertain how many times you've seen an advertisement thereby controlling ad frequency and allowing the targeting of ads to a user's interest 
+SalesVantage.com gathers information from its advertisers and users in order to offer useful and easily accessible online content and services while providing privacy protection. 
 
-**What are your Newsletter procedures?**   
-We provide an opt-in Free e-mail Newsletter to all those who sign-up for it. When you sign up for the SalesVanatge.com Newsletter, you are given the opportunity to also receive specific announcements from independent third parties, the choice to receive these announcements is yours. You have the option at any time to unsubscribe. Each Newsletter has your e-mail address listed with simple instructions on how to unsubscribe that address from our Newsletter list. 
+**Buyers of SalesVantage.com Advertising:** SalesVantage.com sells online advertising and provides online business content. At the time of ordering advertising, we require personal, business and financial information, such as name, e-mail address, billing address, telephone number and credit card number. This information is necessary to process the order, upload Web links and Ad copy. If you are a repeat customer, you may be asked to update this information. This information is transmitted in 128 bit encryption and we use Secure Socket Layer (SSL) technology to protect your online order. Only our order processing and customer service staff has access to your information. We do NOT store or access credit card information from our Web server after your order is processed.
 
-**e-commerce partners**  
-SalesVantage.com offers services though partnerships with other websites. In order to offer these services such as Web messaging by usa.net we provide the use of an online form to be filled out. We only use the form for that particular service provider in order to ascertain the service that fits your request. The SalesVanatge.com website links to other websites and is not responsible for the privacy practices of those sites. You should contact those specific sites directly if you have questions about their privacy policies. 
+**Ponders & Principles Subscribers:** SalesVantage.com is a partner with Ponders & Principles LLC and provides a Web link to Ponders free software download. Before downloading the software SalesVantage.com collects personal and business information, such as contact name, job title, company name, telephone number and e-mail address. This contact information is compiled on a separate SalesVantage.com secure database and is only used when a Ponders subscriber requests to upgrade their free service. 
 
-Questions or concerns regarding our privacy policy on the SalesVantage.com Website may be sent to [jmcmahon@salesvantage.com](mailto:jmcmahon@salesvantage.com?subject=PrivacyPolicy) or call 800.340.9766. If SalesVantage.com makes any changes to its privacy policies, those changes will be noted on the website. 
+**SalesVantage.com News:** SalesVantage.com e-mails a free double-opt in electronic newsletter to our subscribers weekly; otherwise SalesVantage.com e-mails our subscriber base when it deems it is newsworthy. The registration to subscribe to our Newsletter requires that you give us your e-mail address, job title, industry type and company revenues. We use this information to help us determine type of content, announcements and advertising is the most relevant for the subscriber base. Subscribers may remove themselves anytime from this mailing list by utilizing the unsubscribe option that is clearly noted with an unsubscribe link at the end of each e-mail. SalesVantage.com does not sell its e-mail lists to third parties.
+
+**Get A Quote:** SalesVantage.com provides directory sponsorship advertisers with there own Get A Quote icon. This button links to a Pop-Up form that the prospect fills out personal contact information such as name and email address along with the type of services they are requesting from this specific advertiser / vendor. This information is then electronically forwarded to the advertiser's e-mail address on file. The information is also compiled in a separate SalesVantage.com secure database and is only used when the advertiser requests the information.
+
+Business Relationships
+
+SalesVantage.com provides links to our advertisers Web sites and other business partner Web sites. When you click on those links you are leaving the SalesVantage.com site therefore SalesVantage.com is not responsible for the privacy practices or the content of those sites. You should contact the specific Web sites directly if you have any questions about their privacy policies.
+
+Cookies and Site Tracking
+
+Some parts of the SalesVantage.com site use "cookies." A cookie is an element of data that a Web site sends to your browser, which may then be stored on your computer. The cookies that SalesVantage.com uses do NOT contain any personally-identifiable information. If you do not want cookies sent to your computer, you can set your browser to notify you when you receive a cookie. SalesVantage.com is NOT set up to collect or distribute personal information not entered by visitors. The site logs do generate certain kinds of non-identifying usage data, such as the number of hits and visits to the site. This information is used for internal purposes by support and marketing staff only in order to provide quality service and future site enhancements.
+
+Contact Information
+
+If you would like to update or delete any of your contact information, please send an e-mail to [support@SalesVantage.com.com](mailto:support@SalesVantage.com.com). If you have any questions about our privacy practices you may contact the Publisher at [jmcmahon@salesvantage.com](mailto:jmcmahon@salesvantage.com). Or you may write to the address below. If SalesVantage.com makes any changes to its privacy policy, those changes will be noted on the SalesVantage.com home page and you will have the opportunity to opt-out or otherwise prevent that use. 
+
+SalesVantage.com Inc.  
+201 East Jefferson Street # 170  
+Syracuse, New York 13202   
+Tel: 315.428.8646   
+Fax: 315.410.5405
+
+Policy effective date: July 15, 2003; updated September 18, 2006
+
+* * *
+
+Copyright © 2000 - 2006 SALESVANTAGE.com, Inc. All rights reserved. 
