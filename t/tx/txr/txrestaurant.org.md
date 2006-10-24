@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the txrestaurant.org privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420100452id_/http%3A//www.restaurantville.com/v2/dblink/level2.cfm%3Flevel1ID%3D14%26level2ID%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txrestaurant.org privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024221759id_/http%3A//www.restaurantville.com/v2/dblink/level2.cfm%3Flevel1ID%3D14%26level2ID%3D36) for the most accurate reproduction.*
 
 # Restaurantville.com - Site Map - Privacy & Security
 
-|  [Site Map](https://web.archive.org/web/20060420100452id_/http%3A//www.restaurantville.com/v2/dblink/level1.cfm?Level1ID=14) > [Privacy & Security](https://web.archive.org/web/20060420100452id_/http%3A//www.restaurantville.com/v2/dblink/level2.cfm?level1ID=14&level2ID=36) 
+|  [Site Map](https://web.archive.org/web/20061024221759id_/http%3A//www.restaurantville.com/v2/dblink/level1.cfm?Level1ID=14) > [Privacy & Security](https://web.archive.org/web/20061024221759id_/http%3A//www.restaurantville.com/v2/dblink/level2.cfm?level1ID=14&level2ID=36) 
 
 Privacy & Security
 
