@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the redskins.com privacy policy that was archived on 2006-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060324101029id_/http%3A//www.redskins.com/contact/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redskins.com privacy policy that was archived on 2006-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061024172340id_/http%3A//www.redskins.com/contact/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Language" content="en-us">
@@ -7,17 +7,148 @@
 <title>Washington Redskins</title>
 <meta http-equiv="imagetoolbar" content="no">
 <link href="/includes/redskins.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="/includes/validate.js"></script>
+<script language="JavaScript" src="/includes/encUtil.js"></script>
+<script language="JavaScript" src="/includes/hashUtil.js"></script>
+<script language="JavaScript" src="/includes/cookieUtil.js"></script>
+<script language="JavaScript" src="/includes/cookieCtrUtil.js"></script>
+<script language="javascript" src="/includes/secUtil.jsp"></script>
+<script language="javascript">
+  checkCookie();
+</script>
 <script language="JavaScript" src="/includes/redskins.js"></script>
 <script language="JavaScript" src="/includes/overlib.js"></script>
+<script src="/includes/embed.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+// -----------------------------------------------------------------------------
+// Globals
+// Major version of Flash required
+var requiredMajorVersion = 8;
+// Minor version of Flash required
+var requiredMinorVersion = 0;
+// Revision of Flash required
+var requiredRevision = 0;
+// the version of javascript supported
+var jsVersion = 1.0;
+// -----------------------------------------------------------------------------
+// -->
+</script>
+<script language="VBScript" type="text/vbscript">
+<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
+Function VBGetSwfVer(i)
+  on error resume next
+  Dim swControl, swVersion
+  swVersion = 0
+  
+  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
+  if (IsObject(swControl)) then
+    swVersion = swControl.GetVariable("$version")
+  end if
+  VBGetSwfVer = swVersion
+End Function
+// -->
+</script>
+<script language="JavaScript1.1" type="text/javascript">
+<!-- // Detect Client Browser type
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+jsVersion = 1.1;
+// JavaScript helper required to detect Flash Player PlugIn version information
+function JSGetSwfVer(i){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+      		var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			descArray = flashDescription.split(" ");
+			tempArrayMajor = descArray[2].split(".");
+			versionMajor = tempArrayMajor[0];
+			versionMinor = tempArrayMajor[1];
+			if ( descArray[3] != "" ) {
+				tempArrayMinor = descArray[3].split("r");
+			} else {
+				tempArrayMinor = descArray[4].split("r");
+			}
+      		versionRevision = tempArrayMinor[1] > 0 ? tempArrayMinor[1] : 0;
+            flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+      	} else {
+			flashVer = -1;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	// Can't detect in all other cases
+	else {
+		
+		flashVer = -1;
+	}
+	return flashVer;
+} 
+// If called with no parameters this function returns a floating point value 
+// which should be the version of the Flash Player or 0.0 
+// ex: Flash Player 7r14 returns 7.14
+// If called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision) 
+{
+ 	reqVer = parseFloat(reqMajorVer + "." + reqRevision);
+   	// loop backwards through the versions until we find the newest version	
+	for (i=25;i>0;i--) {	
+		if (isIE && isWin && !isOpera) {
+			versionStr = VBGetSwfVer(i);
+		} else {
+			versionStr = JSGetSwfVer(i);		
+		}
+		if (versionStr == -1 ) { 
+			return false;
+		} else if (versionStr != 0) {
+			if(isIE && isWin && !isOpera) {
+				tempArray         = versionStr.split(" ");
+				tempString        = tempArray[1];
+				versionArray      = tempString .split(",");				
+			} else {
+				versionArray      = versionStr.split(".");
+			}
+			versionMajor      = versionArray[0];
+			versionMinor      = versionArray[1];
+			versionRevision   = versionArray[2];
+			
+			versionString     = versionMajor + "." + versionRevision;   // 7.0r24 == 7.24
+			versionNum        = parseFloat(versionString);
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+			if ( (versionMajor > reqMajorVer) && (versionNum >= reqVer) ) {
+				return true;
+			} else {
+				return ((versionNum >= reqVer && versionMinor >= reqMinorVer) ? true : false );	
+			}
+		}
+	}	
+	return (reqVer ? false : 0.0);
+}
+// -->
+</script>
 </head>
 <body>
 
 
 
+<script language="JavaScript"><!--
+function calcHeight() {
+  var oFrame = document.getElementById('frmInfo');
+  var iHeight = oFrame.contentWindow.document.body.scrollHeight;
+  oFrame.height = iHeight;
+}
+//--></script>
+
 <div id="right" align="center">
-
+    <iframe id="frmInfo" src="/register/info.jsp" onload="calcHeight();" width="225" height="59" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe><br>
 	<script language="JavaScript">document.write ('<scr' + 'ipt language=JavaScript src=http://63.214.178.49/abm.aspx?z=40><\/scri' + 'pt>');</script><script language="JavaScript" src="http://63.214.178.49/abm.aspx?z=40"></script><br>
-
+    
 	<img src="/images/r05/dashWgradiant.png" width="225" height="29" border="0"><br><br>
 	<script language="JavaScript">document.write ('<scr' + 'ipt language=JavaScript src=http://63.214.178.49/abm.aspx?z=49><\/scri' + 'pt>');</script><script language="JavaScript" src="http://63.214.178.49/abm.aspx?z=49"></script><br>
 	<img src="/images/common/spacer.gif" width="1" height="25"><br>
@@ -34,13 +165,15 @@
 	<a href="/news/multimedia.jsp"><img src="/images/r05/multipletvchannels.gif" border="0"></a><br>
 	<br>
 	</div>
+	
+	<script language="JavaScript">document.write ('<scr' + 'ipt language=JavaScript src=http://63.214.178.49/abm.aspx?z=74><\/scri' + 'pt>');</script><script language="JavaScript" src="http://63.214.178.49/abm.aspx?z=74"></script><br>
 
 </div>
 
 <table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 		<td><a href="/"><img src="/images/r05/header-sp-l.jpg" alt="Washington Redskins"></a></td>
-		<td><script language="JavaScript" src="http://ba-redskins.epiccycle.com/abm.aspx?z=60"></script></td>
+		<td style="background:url(../images/r05/header-sp-blank.jpg); width:186; height:116;"><script language="JavaScript" src="http://ba-redskins.epiccycle.com/abm.aspx?z=60"></script></td>
 	</tr>
 </tbody></table>
 
@@ -56,8 +189,8 @@
 				<td><a href="/news/multimedia.jsp" onmouseover="MM_swapImgRestore();MM_swapImage('Image3','','/images/r05/nav/nav-multimediaO.gif',1);showMenu('menuitem3', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-multimedia.gif" border="0" name="Image3"></a></td>
 				<td><a href="/cheerleaders/" onmouseover="MM_swapImgRestore();MM_swapImage('Image4','','/images/r05/nav/nav-cheerleadersO.gif',1);showMenu('menuitem4', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-cheerleaders.gif" border="0" name="Image4"></a></td>
 				<td><a href="/community/" onmouseover="MM_swapImgRestore();MM_swapImage('Image5','','/images/r05/nav/nav-communityO.gif',1);showMenu('menuitem5', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-community.gif" border="0" name="Image5"></a></td>
-				<td><a href="/tickets/article.jsp?id=3372" onmouseover="MM_swapImgRestore();MM_swapImage('Image6','','/images/r05/nav/nav-ticketsO.gif',1);showMenu('menuitem6', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-tickets.gif" border="0" name="Image6"></a></td>
-				<td><a href="/store/" onmouseover="MM_swapImgRestore();MM_swapImage('Image7','','/images/r05/nav/nav-shopO.gif',1);showMenu('menuitem7', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-shop.gif" border="0" name="Image7"></a></td>
+				<td><a href="/tickets/" onmouseover="MM_swapImgRestore();MM_swapImage('Image6','','/images/r05/nav/nav-ticketsO.gif',1);showMenu('menuitem6', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-tickets.gif" border="0" name="Image6"></a></td>
+				<td><a href="http://store.redskins.com" onmouseover="MM_swapImgRestore();MM_swapImage('Image7','','/images/r05/nav/nav-shopO.gif',1);showMenu('menuitem7', this)" onmouseout="tryToClose()"><img src="/images/r05/nav/nav-shop.gif" border="0" name="Image7"></a></td>
 				<td><img src="/images/r05/nav/nav-right.gif"></td>
 			</tr>
 		</tbody></table>
@@ -77,7 +210,7 @@
 					<li><a href="/news/">News</a></li>
 					<li><a href="/team/injuryreport.jsp">Injury Report</a></li>
 					<li><a href="/gameday/">Gameday</a></li>
-					<li><a href="/news/trainingcamp.jsp">Training Camp</a></li>
+					<li><a href="/news/trainingcampnews.jsp">Training Camp</a></li>
 					<li><a href="/news/draftcentral.jsp">Draft Central</a></li>
 				</ul>
 		</div>
@@ -95,7 +228,7 @@
 					<li><a href="/cheerleaders/">Cheerleader News</a></li>
 					<li><a href="/cheerleaders/roster.jsp">Roster</a></li>
 					<li><a href="/cheerleaders/appearances.jsp">Appearances</a></li>
-					<li><a href="/cheerleaders/swimsuitcalendar.jsp">Swimsuit Calendar</a></li>
+					<li><a href="/cheerleaders/swimsuitcalendar.jsp">Cheerleader Calendar</a></li>
 					<li><a href="/cheerleaders/juniorredskins.jsp">Junior Redskins</a></li>
 					<li><a href="/cheerleaders/dancecampsclinics.jsp">Dance Camps</a></li>
 				</ul>
@@ -107,27 +240,25 @@
 					<li><a href="http://www.extremeskins.com/portal/">Message Boards</a></li>
 					<li><a href="http://www.extremeskins.com/portal/">Chats</a></li>
 					<li><a href="/fanzone/">Fan Zone</a></li>
-       		<li><a href="/news/newsDetail.jsp?id=11492">Health &amp; Wellness</a></li>
+					<li><a href="http://www.yardsforyouth.org/site/PageServer">Yards for Youth</a></li>
+					<li><a href="/news/newsDetail.jsp?id=11492">Health &amp; Wellness</a></li>
 					<li><a href="/fanzone/games.jsp">Games</a></li>
-<!-- Removing for off-season 3/1/2006, replace once 2006 season starts
 					<li><a href="/vote/">Player of the Game</a></li>
--->
 					<li><a href="/fanzone/emailredskins.jsp">Email the Redskins</a></li>
+					<li><a href="/news/newsDetail.jsp?id=11442">Operation Salute Our Troops</a></li>
 				</ul>
 		</div>
 		<div id="menuitem6" class="globalDropDown" style="width:180px;z-index:1000;">
 			<h2>menuitem6</h2>
 				<ul>
-					<li><a href="/tickets/article.jsp?id=3372">Ticket Information</a></li>
-					<li><a href="/tickets/article.jsp?id=3375">Premium Tickets</a></li>
-					<li><a href="/tickets/premiumclub.jsp">Premium Club</a></li>
-					<li><a href="/tickets/tdclub.jsp">Touchdown Club</a></li>
-					<li><a href="/tickets/tailgateclub.jsp">Tailgate Club</a></li>
-					<li><a href="/tickets/article.jsp?id=3374">Season Ticket Holders</a></li>
-					<li><a href="/tickets/specialevents.jsp">Special Events</a></li>
-					<li><a href="/tickets/article.jsp?id=3377">Other Events and Concerts</a></li>
+					<li><a href="/tickets/premiumtickets.jsp">Buy Season Tickets</a></li>
+					<li><a href="/fedexfield/suites.jsp">Suites</a></li>
 					<li><a href="/fedexfield/">FedExField</a></li>
-               <li><a href="/fedexfield/corporatehospitality.jsp">Corporate Hospitality</a></li>
+					<li><a href="/fedexfield/corporatehospitality.jsp">Corporate Hospitality</a></li>
+					<li><a href="http://www.stubhub.com/washington-redskins-tickets/" title="Washington Redskins Tickets" onclick=" this.href=this.href+'?GCID=C12289x254-tixnav&amp;cb=redskins';">StubHub: Buy/Sell Tickets</a></li>
+					<li><a href="/tickets/specialevents.jsp">Year-Round Corporate Events</a></li>
+					<li><a href="/tickets/stadium.jsp">Stadium Diagram</a></li>
+					<li><a href="/tickets/article.jsp?id=19039">Redskins Replay</a></li>
 				</ul>
 		</div>
 		<div id="menuitem7" class="globalDropDown" style="width:160px;z-index:1000;border:0;margin:0;padding:0;">
@@ -159,7 +290,6 @@
 </style>
 <div id="adOverlay"><script language="JavaScript" src="http://ba-redskins.epiccycle.com/abm.aspx?z=68"></script></div>
 <!-- end of Banner Overlay Ad -->
-
 
 
 <table cellpadding="0" cellspacing="5" border="0" width="770">
@@ -543,10 +673,10 @@ update your information using the options on this page. <br>
 		<div class="footer">
     
       Copyright © 2006, Washington Redskins. All Rights Reserved.
-      <div class="left"><a href="http://www.aol.com/" target="_blank"><img src="/images/common/aolLogo.gif" width="45" height="40" alt="America Online"></a></div>
+      <div class="left"></div>
       <div class="center"><a href="http://www.epiccycle.com/" target="_blank"><img src="/images/common/epicLogo.gif" width="297" height="24" alt="SportsProducer and site designed by Epic Cycle Interactive"></a></div>
       <div class="right"><a href="http://cbs.sportsline.com/" target="_blank"><img src="/images/common/cbsLogo.gif" width="113" height="17" alt="CBS SportsLine"></a></div>
-			<script language="JavaScript" src="/includes/DM_page_tracking.js"></script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://64.158.218.149/dm.gif?v=86&amp;vst=1&amp;id=&amp;url=https%3A//web.archive.org/web/20060324101029id_/http%253A//www.redskins.com/contact/privacy.jsp&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1580374545921" height="1" width="1"></div>
+			<script language="JavaScript" src="/includes/DM_page_tracking.js"></script><div id="DMStats" style="position:absolute;visibility:hidden;"><img src="https://64.158.218.149/dm.gif?v=86&amp;vst=1&amp;id=&amp;url=https%3A//web.archive.org/web/20061024172340id_/http%253A//www.redskins.com/contact/privacy.jsp&amp;ref=&amp;lng=en-US&amp;tz=0&amp;scr=800x600%2024bpp&amp;rnd=1580374549474" height="1" width="1"></div>
 		</div>
 	
 </body></html>
