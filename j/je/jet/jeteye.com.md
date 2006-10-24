@@ -1,65 +1,73 @@
-> *The following text is extracted and transformed from the jeteye.com privacy policy that was archived on 2006-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060325030417id_/http%3A//www.jeteye.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeteye.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024100436id_/http%3A//jeteye.com/about/policy/privacy.html) for the most accurate reproduction.*
 
 # Jeteye :: Privacy Policy
 
-At Jeteye Technologies, Inc. ("Jeteye"), we know that privacy is a paramount concern and we design and operate our services with the protection of your privacy in mind. Jeteye does not sell, rent, or otherwise disclose personally identifiable information to other companies or individuals in violation of the commitments set forth in this Privacy Policy. By visiting Jeteye.com, you are accepting the practices described in this policy.
+Thank you for your interest in Jeteye™ ("Software" or "Service"), fully owned and operated by Jeteye Technologies, Inc. ("Jeteye," "We" or "Us"). Jeteye is committed to protecting the privacy of the users and visitors of its products and services. By using the Jeteye's web site at http://www.jeteye.com (the "Site") and/or the Jeteye Software (the "Software") (collectively the " Jeteye Services"), you agree to the collection and use of your information by us in accordance with this Privacy Policy. Please note that this policy applies only to Jeteye Services, and not to other web sites to which we link or to web sites which you access via Jeteye Services.
 
-## What Information About Users Does Jeteye Gather?
+### Definitions
 
-Information gathered online can generally be classified as either automatic or personally identifiable.
+The Jeteye Software provides you with a client application which will be located in your web browser upon installation (the "Jeteye Software") and which provides you with the ability to highlight and select online content, including text, images and other types of information ("Content"). You can add your own keyword identifiers ("Tags") and a title to the Content and save them, along with any other information you provide, on Jeteye's servers as a "Jetpak". Jetpaks can be saved for your own personal use, shared with third parties online and/or posted publicly on the Jeteye Site ("Public Jetpaks") in accordance with the terms of this Privacy Policy and Our End User License Agreement ("Authorized Use"). As used in this Privacy Policy, to "Save" Content means to select such Content from anywhere on the World Wide Web ("Web") and place such Content or a link to such Content in a Jetpak.
 
-Automatic Information: Automatic information can include some limited information that your browser makes available whenever you visit a Web site: your Internet protocol (IP) address, browser type, browser language, operating system, the date and time of your query. This automatic information can help us refine and improve the quality of your online experience by facilitating the personalization of some services and a better understanding of how people interact with us. Like many Web sites, we use "cookies" that uniquely identify your browser. A cookie is an alphanumeric identifier that we transfer through your Web browser to your computer's hard drive to enable our systems to recognize your browser and to provide personalized features. The "help" function of most browsers allows you to disable cookies or indicate when a cookie is being sent. However, some Jeteye features or services may not function properly without cookies.
+### Changes to the Privacy Policy
 
-Information You Provide to Us: Some of our services require that you register for an account and provide personally identifiable information, which can include your name, address, zip code, etc. We will use that information to provide the service. For certain services, such as our advertising programs, we may request credit card or other payment information, which we maintain in encrypted form on secure servers. In order to ensure that you make an informed decision about sharing your personal information with us, when we require personally identifiable information, we will inform you about the types of information we collect and how we use it.
+We reserve the right to change the terms of this Privacy Policy. Any changes will be posted on this page. We encourage you to check this page regularly. Your continued use of the Jeteye Software and Services following any changes to this Privacy Policy will constitute your acceptance of such changes.
 
-## Does Jeteye Share the Information It Receives?
+### Information You Provide and How We Use It
 
-We do not rent, sell, or otherwise disclose your personally identifiable information to other companies or individuals except in any of the following limited circumstances:
+You will be asked to provide Jeteye with registration information when installing the Software. Registration information will include a username, password and working email address. You will need your username and password to save Jeteye and access Jetpaks you have saved from the Site. Your username will also be displayed publicly on the Site when you post Public Jetpaks. This includes, but is not limited to: when you add a Public Jetpak to the Site; or post a Comment to a Jetpak. When your Username is displayed on the Site it will be clickable by other visitors to the Site. When clicked on, visitors shown a list of your Public Jetpaks. When you add Public Jetpaks to the Site your username may also show up in of Top User lists that will be displayed on the Site, including its home page, and may be displayed on third party web sites. Your username, all Jetpaks you save and the information associated with them, including Jetpaks that are not Public, may also be used within internal Jeteye reports generated by Us for the purpose of monitoring the use of the Software and the activity on the Site. These reports and the information therein will not be distributed to third parties or used for any other purposes except as stated herein.
 
-  * We have your consent.
-  * We release account and other personally identifiable information when we believe release is appropriate to comply with the law or to protect the rights, property, or safety of Jeteye, our users, or others. However, this does not include renting, selling, sharing, or disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy.
-  * We may, from time to time, employ other companies or individuals for the sole purpose of processing and analyzing personally identifiable information on our behalf. These companies or individuals are subject to agreements that oblige them to process such information only in terms of our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
+The email address you provide will not be distributed to third parties and will be used (1) to email you an authorization link upon your completion of the registration process that will activate your Jeteye account, (2) to respond to your customer support inquiries and forgot password requests, (3) to keep you informed about updates to the Jeteye Software and Site and. You may also have the opportunity at your option of creating a personal profile page. Any information you add to your Personal Profile will be accessible by any visitor to the Site. 
 
+All of your Public Jetpaks, including, but not limited to, posting Commentary on Jetpaks, may result in visitors to the Site being able to see and click on a link to your Username, see information about your activity on Jeteye and click through to your Public Jetpaks.
 
+We may use third party contractors to help us operate our business or administer activities on our behalf and may share your information (both personal and non-personal) with these contractors for those limited purposes. We will not share your personally identifiable information with third parties except as provided in this Privacy Policy or our End User License Agreement.
 
-If you register for an account, we may share the information you submit among all of our services in order to improve the quality of what we can offer you.
+If Jeteye is sold to or merges with, another company, or declares bankruptcy, some or all of the information collected from you (both personal and non-personal) may be transferred to a third party as a result of the transfer of assets. We may also disclose your personally identifiable information when we determine it is necessary to comply with applicable laws or protect the interests or safety of Jeteye, the Jeteye Services, its users and visitors.
 
-We may share aggregated, non-personally identifiable information with others, for example, the number of users who searched for a specific subject or how many users clicked a particular advertisement.
+### Information Collected Automatically and How We Use It
 
-In the event of a transfer of ownership of Jeteye, such as acquisition by or merger with another company, customer information generally is one of the transferred business assets but remains subject to any pre-existing Privacy Policy, unless the customer consents otherwise. We will, however, provide you with a notice and the opportunity to change or remove your personally identifiable information before any data transfer occurs or before your personally identifiable information becomes subject to a different privacy policy.
+We automatically collect some non-personally identifiable information about you. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers identify your computer by its IP address. When users interact with our Site, our servers log the user's IP address. Jeteye collects IP addresses for the purposes of system administration and the compilation of aggregate information about the usage of Jeteye Services.
 
-## Inviting a Friend
+We collect certain information regarding your use of the Jeteye Services. Such information includes, but is not limited to, the number of Jetpaks you save both privately and publicly; the tags you associate with such Jetpaks, the number of searches you do on the Site and the keywords you use with those searches, the Uniform Resource Locator (URL) of the online source of Content you Save; the file type of the Content within a Jetpak, titles of Jetpaks you create and the username of the creator of such Jetpaks. This information may be used to generate private reports that we will use internally to try to understand how Jeteye is being used and how can improve upon it. This information may also be used to created reports that will be made available on our Site regarding usage of the Services (only activity that occurs within the Public portion of the Site will be used in reports that are available on our Site). Information we gather may be shared with third parties, such as advertisers, business partners and sponsors, but only in anonymous form. We will not connect your name or other personally identifiable information to the foregoing information should we choose to share it with third parties.
 
-If a member elects to invite a friend to Jeteye's Web site, we request the friend's E-mail address. We will automatically send an E-mail inviting the friend to view and join Jeteye. In order to automatically add the respondent to the group list of the user sending the invitation and to send reminders about the invitation, Jeteye stores this E-mail address. However, we do not sell or share this E-mail address or use it to send any communication other than invitations and invitation reminders. The friend may [contact Jeteye](https://web.archive.org/contact.html) to request the removal of his/her E-mail from our databases.
+Cookies are pieces of information that a Web site transfers to an individual's hard drive for identification purposes. The use of cookies is an industry standard — you'll find them at most major web sites. When you use the Site and/or Software we may automatically receive and record information in our server logs from your browser including your IP address, Jeteye cookie information, and the page you request. We will use the information collected for the purpose of improving our service and for anonymous reporting of Site and Software usage. Jeteye does not use cookies to retrieve information from your computer that was not originally sent in a cookie. Jeteye may share such information with advertisers, business partners, sponsors and other third parties.
 
-## How Does Jeteye Secure Information?
+Jeteye may collect information regarding the current version of the Software that you are using to determine if your software requires updating and may require you to update your version to continue using the Software.
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. 
+Each user is assigned a globally unique identifier (GUID) in order to authenticate users of Jeteye Services and to enable us to record the number of individual users of Jeteye Services. That GUID may be associated with any of the information we gather regarding use of the Services.
 
-Only employees who need to know your personally identifiable information in order to operate, develop, or improve services have access to that information.
+### Advertising Policy
 
-## Search Results and Links
+We may serve advertisements on the Site. Jeteye Software does not bundle any third party software and will not serve any types of advertising outside our Site. If you have any questions about Jeteye's advertising policy, please [contact us](https://web.archive.org/support/contact/index.html).
 
-The sites displayed as search results from or links to Jeteye's services are developed and maintained by companies and individuals over which Jeteye exercises no control. These other sites may place cookies on your computer's hard drive, collect data, or solicit personal information.
+### Saving and Sharing Jetpaks
 
-Jeteye may format links in a way that enables us to determine whether or not they have been followed. We employ this information to develop and improve the quality of Jeteye's technology. For example, we may use this information to determine whether users are satisfied with the first result of a query and how often they follow links listed later in results.
+The Software and Site allows you to "save" Jetpaks on the Site. Jetpaks can be Public or Private. Jetpaks (including the Title, Tags and any other information associated with a Jetpak) that are Private can only be viewed by Jeteye users with whom you specifically share the Jetpak. Jetpaks that are Public (including the Title, Tags and any other information associated with a Jetpak) are viewable by visitors to the Site and are included in publicly available reports. After saving a Public or Private Jetpak you will have the ability to change its privacy status at any time. Jeteye reserves the right in its sole discretion to access, store and disclose Content from your Jetpak, any comments or editorial content ("Commentary") posted by you or any other visitor on the Site or user registration information if Jeteye believes in good faith that such action is reasonably necessary to enforce the [Terms of Service](https://web.archive.org/about/policy/terms-of-service.html), this Privacy Policy or our [Copyright Policy](https://web.archive.org/about/policy/copyright.html), comply with any applicable laws, rules or regulations, operate its systems properly, or protect the rights or property of Jeteye, its users, visitors or others.
 
-## Changes to This Policy
+Jeteye does not pre-screen the Content or other information such as Tags, titles, or other Commentary that is incorporated into Jetpaks by our users and takes no responsibility for Content that is Saved by our users or the Commentary that is posted on the Site. Nevertheless, we reserve the right, but not the obligation, to remove any Jetpak or Commentary from the Site, in our sole discretion. Without limiting the foregoing, we shall have the right in our sole discretion to remove any Jetpak or Commentary, and to disable or disallow any Jetpak or Commentary which we deem to violate this Agreement or otherwise be objectionable, including, without limitation, Jetpaks or Commentary that are unlawful, harmful, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, pornographic, abusive or threatening. . In addition, Jeteye reserves the right to gather information from the source page from which you Save Content. Such information may include, but is not limited to, Meta data, text from the web page and the address of the web page. We may, in Our sole discretion, set up procedures to automatically block Jetpaks that: were created by certain users; were created from specific web pages or sites; contain certain Tags or Content; or for any other reason, including information We gather from the Jetpak's source page. We also reserve the right to set up procedures that allow individual users, at their own discretion, to do the same.
 
-This Privacy Policy will change occasionally. You should check our Web site to see recent changes. We expect most changes to be minor, but more significant modifications may occur. In either case, we will post alterations on this page and, if the changes are significant, we will provide a more prominent notice. Prior versions of this policy will be kept in an archive for you to view.
+Registered users have the ability to designate Jetpaks as Public or Private and Site visitors may view, rate, share, search for and post Commentary about Public Jetpaks. The tags you assign Jetpaks will determine when they show up in search queries performed by Site visitors. Jeteye reserves the right to review all Jetpaks posted on the Site to ensure that they have accurate and appropriate tags, title and description. Jeteye reserves the right to modify the tags, title and description for any Public Jetpak.
 
-## Updating Your Profile
+When you share a link to a public Jetpak or any page from the Site via email, instant message, blog, or by any other means, please keep in mind that the recipient(s) of the link can forward this link on to other people. Jeteye does not limit the number of times or the number of people to whom this link can subsequently be forwarded.
 
-You may review and update your personally identifiable information by clicking My Preferences.
+When posting a Public Jetpak, remember that any information you disclose becomes public information and you should exercise caution when deciding to disclose your personal, financial or other information.
 
-## Contacting Jeteye
+### Links
 
-If you have any additional questions regarding this Privacy Policy, please feel free to contact us.
+Jeteye's Service and any Jetpak posted on the Site may contain links to other sites, including, among others, those of advertisers, third parties and companies whose trademarks may appear on the Service. We are not responsible for the privacy practices or the content of the sites to which we link or which you access via the Software and/or Site. We recommend that you review the privacy policies of all such sites.
 
-By Mail:  
-Jeteye Technologies, Inc.  
-244 Jackson Street  
-Suite 200  
-San Francisco, CA 94111
+### Security
 
-[Or fill out a Contact Form](https://web.archive.org/contact.html)
+Protecting your information is important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we are committed to protecting your information, we cannot ensure or warrant the security of any information you transmit to us.
+
+### Update Personal Information
+
+If you would like to review, update, change or delete information we have collected from you please sign-in and updated your preferences page.
+
+### Contact Us
+
+Jeteye welcomes comments and questions on this Privacy Policy, please [click here](https://web.archive.org/support/contact/index.html) for our Feedback page..
+
+### Effective Date
+
+This privacy policy is effective as of March 17, 2006.
