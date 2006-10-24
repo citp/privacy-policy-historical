@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigfix.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222743id_/http%3A//www.bigfix.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfix.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024085822id_/http%3A//bigfix.com/company/privacy.html) for the most accurate reproduction.*
 
 # BIGFIX, INC. - SECURITY CONFIGURATION MANAGEMENT - VULNERABILITY MANAGEMENT - ENDPOINT SECURITY - PATCH MANAGEMENT
 
@@ -53,9 +53,7 @@ Personal information collected on our Web site may be stored and processed in th
 
 **Keeping Your Personal Information Secure**
 
-We use a variety of physical, digital and managerial technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, when we transmit sensitive personal information over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
-
-While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser. 
+We use a variety of physical, digital and managerial technologies and procedures to help protect your client information from unauthorized access, use, or disclosure. While we strive to protect your client information, we cannot ensure the security of the information you transmit to us, and so we urge you to take every precaution to protect your confidential data when you are on the Internet. 
 
 **Protection of Children's Personal Information**
 
