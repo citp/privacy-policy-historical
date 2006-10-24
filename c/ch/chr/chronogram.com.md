@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chronogram.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320114229id_/http%3A//www.chronogram.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronogram.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024031125id_/http%3A//www.chronogram.com/privacy) for the most accurate reproduction.*
 
 # Chronogram - Privacy Policy
 
 Information gathered by Luminary Publishing, Inc.
 
-When you visit the Luminary Publishing, Inc.'s websites ([www.Chronogram.com](http://www.chronogram.com/), [www.UpstateHouse.com](http://www.upstatehouse.com/), and [www.HVHealthyLiving.com](http://www.hvhealthyliving.com/); henceforth referred to as "Luminary Publishing, Inc.'s websites") and interact with the services and tools that reside there, Luminary Publishing, Inc. and the third parties with whom we have contracted to provide services to Luminary Publishing, Inc. may collect information on your actions. This type of information is generally collected from two sources; from the server log files and from cookies.
+When you visit the Luminary Publishing, Inc.'s websites ([www.Chronogram.com](http://www.chronogram.com/) and [www.HVHealthyLiving.com](http://www.hvhealthyliving.com/); henceforth referred to as "Luminary Publishing, Inc.'s websites") and interact with the services and tools that reside there, Luminary Publishing, Inc. and the third parties with whom we have contracted to provide services to Luminary Publishing, Inc. may collect information on your actions. This type of information is generally collected from two sources; from the server log files and from cookies.
 
 How we collect and disseminate information
 
