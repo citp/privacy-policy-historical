@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisoldhouse.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617013508id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/thisoldhouse%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisoldhouse.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024133530id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/thisoldhouse%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # This Old House Privacy Policy
 
