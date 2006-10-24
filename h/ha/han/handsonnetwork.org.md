@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629175224id_/http%3A//www.handsonnetwork.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024034558id_/http%3A//www.handsonnetwork.org/privacy-policy) for the most accurate reproduction.*
 
 # Hands On Network - Privacy Policy
 
