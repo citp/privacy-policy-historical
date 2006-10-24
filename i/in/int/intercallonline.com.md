@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intercallonline.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618193843id_/http%3A//www.intercall.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intercallonline.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024151620id_/http%3A//www.intercall.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
