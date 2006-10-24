@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitandfearless.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617101700id_/http%3A//fitandfearless.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitandfearless.com privacy policy that was archived on 2006-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061024173933id_/http%3A//fitandfearless.com/policy.html) for the most accurate reproduction.*
 
 # Fit and Fearless in Austin Texas-Krav Maga, jiu jitsu, karate, self defense, fitness, karate
 
