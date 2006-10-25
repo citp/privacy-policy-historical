@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enteruk.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064947id_/http%3A//www.enteruk.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enteruk.co.uk privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025184112id_/http%3A//www.enteruk.co.uk/privacy.html) for the most accurate reproduction.*
 
 # UK Search Engine - Enter UK - Privacy
 
