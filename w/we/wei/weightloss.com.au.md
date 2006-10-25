@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightloss.com.au privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623202009id_/http%3A//www.weightloss.com.au/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightloss.com.au privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025081727id_/http%3A//www.weightloss.com.au/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Weightloss.com.au - Australia's premier weight loss website
 
