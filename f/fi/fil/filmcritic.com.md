@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmcritic.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613070056id_/http%3A//filmcritic.com/misc/emporium.nsf/9c20d8b9ba5270748625626800015979/b6f4c69e3d8ce866082566fb0068dba0%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmcritic.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025024928id_/http%3A//filmcritic.com/misc/emporium.nsf/9c20d8b9ba5270748625626800015979/b6f4c69e3d8ce866082566fb0068dba0%3FOpenDocument) for the most accurate reproduction.*
 
 # filmcritic.com Our privacy policy
 
