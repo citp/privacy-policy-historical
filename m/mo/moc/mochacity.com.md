@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mochacity.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215229id_/http%3A//www.mochacity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mochacity.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026011355id_/http%3A//www.mochacity.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - MochaCity
 
-[](http://members.mochacity.com/registration/registration.htm)  
+|  [](http://members.mochacity.com/registration/registration.htm)  
 | 
 
 MochaCity Privacy Statement
@@ -45,3 +45,10 @@ If at any point we decide to use particular personally identifiable information 
 
 
 If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at info@MochaLounge.com. You can also send us mail to: MochaCity, c/o Legal Department, P.O. Box 570149, Tarzana CA, 91357. 
+
+| 
+
+-advertisement-
+
+  
+| 
