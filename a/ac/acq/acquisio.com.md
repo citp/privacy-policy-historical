@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acquisio.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630081129id_/http%3A//acquisio.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acquisio.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025123938id_/http%3A//acquisio.com/privacy.shtml) for the most accurate reproduction.*
 
 # Acquisio SEO & Search Engine Marketing - Montreal, Quebec, Canada
 
