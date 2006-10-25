@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316044525id_/http%3A//www.canadadrugs.com/policies/Privacy/82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025185607id_/http%3A//www.canadadrugs.com/policies/Privacy/82) for the most accurate reproduction.*
 
 # CanadaDrugs.com - Patient Services Questions - Canada Drugs your Canadian Pharmacy
 
@@ -6,7 +6,7 @@
 
 ### Introduction
 
-At CanadaDrugs.comTM Partnership (carrying on business as "CanadaDrugs.comTM"), safeguarding your confidentiality and protecting your personal information is a primary concern. We are committed to meeting or exceeding the privacy standards established by Canada's Personal Information Protection and Electronic Documents Act (the "Act"). As part of this commitment, CanadaDrugs.comTM has followed the Ten Privacy Principles described in the Act to govern our actions as they relate to the use of personal information. The Ten Privacy Principles are as follows:
+At CanadaDrugs.comTM Customer Care (carrying on business as "CanadaDrugs.comTM"), safeguarding your confidentiality and protecting your personal information is a primary concern. We are committed to meeting or exceeding the privacy standards established by Canada's Personal Information Protection and Electronic Documents Act (the "Act"). As part of this commitment, CanadaDrugs.comTM has followed the Ten Privacy Principles described in the Act to govern our actions as they relate to the use of personal information. The Ten Privacy Principles are as follows:
 
  **Principle 1 – Accountability.** CanadaDrugs.comTM is responsible for maintaining and protecting any personal information under our control. In fulfilling this mandate, CanadaDrugs.comTM has designated an individual who is accountable for our compliance with the Ten Privacy Principles.
 
@@ -32,7 +32,7 @@ The guidelines below set forth the principles we use in gathering, using, mainta
 
 ### The Types of Personal Information We Collect
 
-CanadaDrugs.comTM gathers and uses any information that is necessary for fulfilling your orders for our products and services. It typically includes the following personal information:
+CanadaDrugs.comTM gathers and uses only such information that is necessary for providing our services and fulfilling your orders. It typically includes the following personal information:
 
   * name, mailing address, e-mail address, telephone numbers, occupation, employment status, referral source, the name of your primary physician and his or her contact information, age, height, weight, sex, date of birth, the existence and types of drug allergies, medications requested, family medical history information, your personal medical history information, details of your existing medications, credit card information (including card type and number, expiry date and name of card holder), banking information (including transit and account numbers) and prescription information;
 
@@ -44,9 +44,9 @@ We may collect anonymous/non-personal information. Anonymous/non-personal inform
 
 ### The Purposes for which we use Personal Information
 
-We use your personal information to communicate with you, enhance your visit to our website, process your prescription orders and effectively provide the products and services you have requested. We provide your personal information to a Canadian physician to review and approve your prescription.
+We use your personal information to communicate with you, enhance your visit to our website, allow processing of your prescription orders and effectively provide the products and services you have requested. We may provide your personal information to an affiliated company, a licensed pharmacy or to a prescribing physician in order to fulfill your prescription.
 
-We may use your personal information to offer additional products and services sold by CanadaDrugs.comTM. In the event of a sale of all or substantially all of the assets of CanadaDrugs.comTM, records containing personal information may be transferred to the purchaser. We will not furnish your personal information to an outside organization for its use in marketing or solicitation, without your prior consent.
+We may use your personal information to offer additional products and services sold by CanadaDrugs.comTM. In the event of a sale of all or substantially all of the assets of CanadaDrugs.comTM, records containing personal information may be transferred to the purchaser. We will not furnish your personal information to an outside organization for its use in marketing or solicitation without your prior consent.
 
 We only use your personal information for the purposes that we have disclosed to you. If for any reason your information is required to fulfill a different purpose, we will notify you and ask you for your consent before we proceed.
 
@@ -90,4 +90,4 @@ E-Mail: [Troy@canadadrugs.com](mailto:troy@canadadrugs.com)
 
 Any changes to our privacy policy and information handling practices shall be acknowledged in this policy in a timely manner. We may add, modify or remove portions of this policy when we feel it is appropriate to do so. You may determine when this policy was last updated by referring to the modification date found at the bottom of each of CanadaDrugs.comTM's privacy policy web pages.
 
-last updated: February 15, 2005
+last updated: August 25, 2006
