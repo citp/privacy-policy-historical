@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gameshadow.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615183731id_/http%3A//gameshadow.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshadow.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025185409id_/http%3A//gameshadow.com/privacy.asp) for the most accurate reproduction.*
 
-# GameShadow.com
+# GameShadow.com – Get the latest patch, demo or trailer for your games
 
   
 **Privacy Policy  
