@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaboard.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618003453id_/http%3A//indiaboard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaboard.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025222918id_/http%3A//indiaboard.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Indiaboard.com Free Classifieds for Indians
 
@@ -71,11 +71,11 @@ Temple Services
   
 | 
 
-**[Real Estate for NRI](https://web.archive.org/web/20060618003453id_/http%3A//indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=394&offset=0&lpp=25&cattype=a&number=25&parent=0)s**  
+**[Real Estate for NRI](https://web.archive.org/web/20061025222918id_/http%3A//indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=394&offset=0&lpp=25&cattype=a&number=25&parent=0)s**  
   
   
 ---  
   
-**[Room Mate and](https://web.archive.org/web/20060618003453id_/http%3A//indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=118&offset=0&lpp=25&cattype=a&number=2&parent=0)[ accommodation.](https://web.archive.org/web/20060618003453id_/http%3A//indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=118&offset=0&lpp=25&cattype=a&number=2&parent=0)**  
+**[Room Mate and](https://web.archive.org/web/20061025222918id_/http%3A//indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=118&offset=0&lpp=25&cattype=a&number=2&parent=0)[ accommodation.](https://web.archive.org/web/20061025222918id_/http%3A//indiaboard.com/mojoClassified.cgi?mojo=1&cat_a=118&offset=0&lpp=25&cattype=a&number=2&parent=0)**  
   
-**[For Sale](https://web.archive.org/web/20060618003453id_/http%3A//indiaboard.com/mojoClassified.cgi?mojo=1&cat_b=13&parent=0&number=3&cattype=b&trace=)**
+**[For Sale](https://web.archive.org/web/20061025222918id_/http%3A//indiaboard.com/mojoClassified.cgi?mojo=1&cat_b=13&parent=0&number=3&cattype=b&trace=)**
