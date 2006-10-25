@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psl.co.za privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231001301id_/http%3A//www.psl.co.za/Home/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psl.co.za privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025142652id_/http%3A//www.psl.co.za/Home/privacy.shtml) for the most accurate reproduction.*
 
 # PSL
 
