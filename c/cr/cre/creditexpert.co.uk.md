@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the creditexpert.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011108id_/http%3A//www.creditexpert.co.uk/UK/StaticContentUK.aspx%3FPageTypeID%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditexpert.co.uk privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025204544id_/https%3A//www.creditexpert.co.uk/StaticContentUK.aspx%3FPageTypeID%3DPrivacyPolicy%26SiteID%3D100002%26SiteVersionID%3D487%26sc%3D400000%26bcd%3D) for the most accurate reproduction.*
 
-# CreditExpert Monitoring Service - Credit Reports and File Alerts
+# CreditExpert.co.uk
 
  
 
 ## who are we?
 
-Experian Limited ("Experian") is a member of GUS plc group of companies ("the Group") and the terms "we" and "us" used in this Privacy Statement shall mean Experian. The Group also includes associated companies details of which can be found at [www.gusplc.com](http://www.gusplc.com/ "Join our affiliate programme"). 
+Experian Group Limited is listed on the London Stock Exchange (EXPN). It has corporate headquarters in Dublin, Ireland, and operational headquarters in Costa Mesa, California and Nottingham, UK. For more information, visit the Group's website on [www.experiangroup.com](http://www.experiangroup.com/ "Experian Group"). 
+
+The word 'Experian' is a registered trademark in the EU and other countries and is owned by Experian Ltd and/or its associated companies.
 
 Experian is responsible for the processing of any personal information you provide to this site and is registered in the United Kingdom under the UK Data Protection Act 1998.
 
