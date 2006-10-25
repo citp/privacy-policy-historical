@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petadorn.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506170914id_/http%3A//www.petadorn.com/store/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petadorn.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025204137id_/http%3A//www.petadorn.com/store/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Help zone :: PetAdorn
 
@@ -7,7 +7,7 @@
 **We respect your privacy!**
 
 Any and all the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned!  
-Any information you provide will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please feel free to call or [email us](https://web.archive.org/web/20060506170914id_/http%3A//www.petadorn.com/store/help.php?section=contactus&mode=update). 
+Any information you provide will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please feel free to call or [email us](https://web.archive.org/web/20061025204137id_/http%3A//www.petadorn.com/store/help.php?section=contactus&mode=update). 
 
 **Security**
 
