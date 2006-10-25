@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milanicosmetics.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615074421id_/http%3A//milanicosmetics.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milanicosmetics.com privacy policy that was archived on 2006-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061025065250id_/http%3A//milanicosmetics.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Milani Cosmetics
 
