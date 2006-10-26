@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcai.com privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624042753id_/http%3A//www.arcai.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcai.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026021022id_/http%3A//www.arcai.com/modules/AMS/article.php%3Fstoryid%3D2) for the most accurate reproduction.*
 
-# Arcai.com's email finder and NetCut Software
+# arcai.com's NetCut Software - KnowledgeBase - NetCut Relate Topic - Arcai.com Privacy policy
 
 Site information Privacy policy 
 
@@ -26,7 +26,7 @@ Copyright policy Various information and items on this site carry copyrights of 
 
 Known copyrights are indicated were possible. 
 
-If you have a question concerning copyrights or reproduction of material, contact root@arcai.com.
+If you have a question concerning copyrights or reproduction of material, contact [root@arcai.com.](mailto:root@arcai.com.)
 
 Cookie usage
 
