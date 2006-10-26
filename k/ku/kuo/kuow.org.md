@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the kuow.org privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404085053id_/http%3A//www.kuow.org/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuow.org privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026121436id_/http%3A//www.kuow.org/listen/online_security.asp) for the most accurate reproduction.*
 
-# 94.9 KUOW: Seattle's NPR News and Information Station
+# KUOW: Online Security: Questions
 
-Our goal at KUOW Public Radio is to extend trust and respect to you on the web. We are committed to respecting the privacy rights of all visitors to our website. The following information details KUOW's collection, protection, and use of the data we receive from visitors to this website. 
+We respect the privacy rights of all visitors to our Web site. The following information details KUOW's collection, protection, and use of the data we receive from visitors to our Web site. 
 
-**Site Browsing**  
-You browse kuow.org anonymously. KUOW does NOT use cookies (electronic information stored on your computer's hard drive). However, we do track overall traffic patterns and links clicked on our e-mail communications. We use this information to gauge public interest and to help us serve you better. 
+**Are you tracking my visit?**  
+You browse KUOW's Web site anonymously - we do not apply "cookies" to your visit throughout the site. However, we do track overall traffic patterns and links clicked on our communications. We use this information to gauge public interest and to help us serve you better. 
 
-**Future Email Updates**  
-An effective way to communicate special programming updates may be through email communication to our members. In order to receive these updates you must provide KUOW with your email address. Rest assured, your email will be used for update purposes only, and we will NOT sell, rent or trade this information to a third party. Certain email update promotional activities may require your name for database recognition purposes. This information will be held in complete confidence, and it will NOT be sold, rented or traded. 
+**How will information submitted to KUOW's site be used?**  
+To serve you better, we may contact you in the future to inform you about KUOW program information, other opportunities for supporting public radio or to provide you with an opportunity to partake in a KUOW survey. E-mail updates and promotional activities may require your name for database recognition purposes. Your e-mail and member information will never be rented, traded, or sold to a third party. KUOW will remove your name from our mailing and/or e-mail list at any time, at your request. 
+
+**How secure is information submitted on KUOW's site?**  
+KUOW.ORG is a VeriSign Secure Site. All information sent to this site is encrypted, protecting against disclosure to third parties. The information you provide (your name, address, e-mail, etc.) is stored in a secure location and protected by security procedures. 
 
 **Contact KUOW**  
-Thank you for your interest in KUOW and our privacy policy. If you would like more information about the options discussed herein or simply have questions, please feel free to **[contact us](https://web.archive.org/web/20040404085053id_/http%3A//www.kuow.org/contactus.asp)**. 
-
-|  |  |  | 
+Thank you for your interest in KUOW and for visiting our website. If you would like more information about our privacy policies or have questions, please feel free to [contact us](https://web.archive.org/contactus.asp). 
