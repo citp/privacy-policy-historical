@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanhomeguides.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200709id_/http%3A//www.americanhomeguides.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanhomeguides.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026162849id_/http%3A//www.americanhomeguides.com/privacy-policy.html) for the most accurate reproduction.*
 
 # New Homes: Homebuyers Privacy Statement
 
