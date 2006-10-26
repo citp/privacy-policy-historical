@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avidian.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315070805id_/http%3A//www.avidian.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avidian.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026101352id_/http%3A//www.avidian.com/privacy.aspx) for the most accurate reproduction.*
 
 # Collaboration Software: Business Contact Manager, contact outlook sharing, client contact software, contact software, contact management software, Contact Managers, Contact Management System
 
