@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the ellusionist.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202124id_/http%3A//www.ellusionist.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellusionist.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026152823id_/http%3A//www.ellusionist.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
-# Ellusionist.com Privacy Policy
+# Ellusionist Privacy Policy
 
-  
 We value your privacy, and promise never to sell or rent your email address or personal information for your lifetime.
 
 The Ellusionist Store uses industry-standard SSL (128-bit Secure Sockets Layer) encryption to protect the confidentiality of your personal and credit card information during transmission over the Internet. Our privacy policy insures that your information is fully secure and protected. 
 
 Thank you for your interest in ellusionist.com (“ellusionist®”) and our website located at [http://www.ellusionist.com](http://www.ellusionist.com/).  We are pleased to provide this privacy policy to inform you of our practices with respect to how we collect and use personally identifiable information about visitors to our website.  By using this website, you consent to the following terms.
 
-Children's Online Privacy Policy ****
+ **Children's Online Privacy Policy**
 
 ellusionist® has adopted special procedures applicable to personal information from children under the age of 13 in compliance with the Children's Online Privacy Protection Act of 1998. [Click to read the Children's Privacy Policy](https://web.archive.org/Childrens-Privacy-Policy.htm). Any conflicting portions of our general Privacy Policy are superceded by this Policy. 
 
@@ -39,7 +38,7 @@ ellusionist® employs procedural and technological measures, consistent with the
 
 Updating Your Information
 
-You may update your information by sending an email to **[team@ellusionist.com](mailto:team@ellusionist.com) **or calling **415.459.4945**
+You may update your information by sending an email to [general@ellusionist.com](mailto:general@ellusionist.com) or calling **415.459.4945**.
 
 Policy Changes
 
@@ -47,4 +46,4 @@ ellusionist® reserves the right to change this privacy policy, and will post an
 
 Questions?
 
-If you have any questions about our privacy practices, please feel free to contact us at[ http://www.ellusionist.com](http://www.ellusionist.com/), [team@ellusionist.com](mailto:team@ellusionist.com) …. 415.459.4945.
+If you have any questions about our privacy practices, please feel free to contact us at[ http://www.ellusionist.com/eSupport](http://www.ellusionist.com/eSupport) or by phone at 415.459.4945.
