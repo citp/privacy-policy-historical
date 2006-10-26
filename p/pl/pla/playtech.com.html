@@ -1,0 +1,248 @@
+<!--The following is the downloaded HTML source of the playtech.com privacy policy that was archived on 2006-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061026135858id_/http%3A//www.playtech.com/html/main.php%3Fpage%3D61) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Playtech - The Source of Success</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript" src="lightbox.js"></script>
+
+
+
+<script language="JavaScript" type="text/JavaScript">
+function newsDIVDo() {
+	document.getElementById('showall').style.display = 'none';
+	document.getElementById('allshow').style.display = '';
+}
+</script>
+<script language="JavaScript" type="text/JavaScript">
+
+function ChangePlatform() {
+	var platform = document.getElementById('platform').value;
+	
+	document.getElementById('platform_casino_1').style.display = 'none';
+	document.getElementById('platform_poker_1').style.display = 'none';
+	document.getElementById('platform_bingo_1').style.display = 'none';
+	document.getElementById('platform_casino_2').style.display = 'none';
+	document.getElementById('platform_poker_2').style.display = 'none';
+	document.getElementById('platform_bingo_2').style.display = 'none';
+	document.getElementById('platform_casino_3').style.display = 'none';
+	document.getElementById('platform_poker_3').style.display = 'none';
+	document.getElementById('platform_bingo_3').style.display = 'none';
+
+	document.getElementById('platform_' + platform + '_1').style.display = '';
+	document.getElementById('platform_' + platform + '_2').style.display = '';
+	document.getElementById('platform_' + platform + '_3').style.display = '';
+}
+
+function CloseMenuItem(input) {
+	if (input) {
+		document.getElementById(input).style.display = 'none';
+		document.getElementById(input + '_LI').className = '';
+	}
+}
+
+function OpenMenuItem(input) {
+	if (input) {
+		if (input == 'indexMenu') {
+			menuConnectorAdd = '00';
+		} else if (input == 'productsMenu') {
+			menuConnectorAdd = '01';
+		} else if (input == 'corporateMenu') {
+			menuConnectorAdd = '02';
+		} else if (input == 'investorMenu') {
+			menuConnectorAdd = '03';
+		} else if (input == 'newsMenu') {
+			menuConnectorAdd = '04';
+		} else if (input == 'contactsMenu') {
+			menuConnectorAdd = '05';
+		}
+
+		document.getElementById(input).style.display = '';
+		document.getElementById('menuConnector').className = 'menuConnector' + menuConnectorAdd;
+		document.getElementById(input + '_LI').className = 'menuActive';
+	}
+}
+
+function menu(input) {
+	if (input) {
+//		document.getElementById('indexMenu_LI').className = 'menuUnActive';
+/*
+		document.getElementById('submenuUL').className = 'submenuUL';
+*/
+		CloseMenuItem('indexMenu');
+		CloseMenuItem('productsMenu');
+		CloseMenuItem('corporateMenu');
+		CloseMenuItem('investorMenu');
+		CloseMenuItem('newsMenu');
+		CloseMenuItem('contactsMenu');
+		
+		OpenMenuItem(input);
+/*
+		if (document.getElementById(input).style.display == 'none') {
+
+			document.getElementById('productsMenu').style.display = 'none';
+			document.getElementById('corporateMenu').style.display = 'none';
+			document.getElementById('investorMenu').style.display = 'none';
+			document.getElementById('newsMenu').style.display = 'none';
+			document.getElementById('contactsMenu').style.display = 'none';
+			
+			document.getElementById(input).style.display = '';
+		} /*else {
+			document.getElementById(input).style.display = 'none';
+		}*/
+	}
+}
+</script>
+  <script language="JavaScript" type="text/JavaScript">
+<!--
+	function MM_displayStatusMsg(msgStr) { //v1.0
+  		status=msgStr;
+  		document.MM_returnValue = true;
+	}
+//-->
+  </script>
+  <script language="JavaScript" type="text/JavaScript">
+<!--
+	function toggle_info(id) {
+		var el = document.getElementById('b' + id);
+		var prev_id;
+
+		prev_id = el.id;
+  		
+		while (el && prev_id == el.id) {
+			if (el.style.display == "") {
+				el.style.display = "none";
+			} else {
+				el.style.display = "";
+			}
+
+			prev_id = el.id;
+			el = el.nextSibling;
+		}
+	}
+//-->
+	</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function detailsSwitch(more, nomore, detail) {
+	if (more) {
+		document.getElementById(more).style.display = '';
+		document.getElementById(nomore).style.display = 'none';
+	}
+	if (detail) {
+		if (document.getElementById(detail).style.display == 'none') {
+			document.getElementById(detail).style.display = '';
+		} else {
+			document.getElementById(detail).style.display = 'none';
+		}
+	}
+}
+//-->
+</script>
+
+
+
+
+
+
+</head>
+
+<body><div id="overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 90; width: 100%;"></div><div id="lightbox" style="display: none; position: absolute; z-index: 100;"><a href="#" title="Click to close"><img id="lightboxImage"></a><div id="lightboxDetails"><div id="lightboxCaption" style="display: none;"></div><div id="keyboardMsg">Click anywhere to close</div></div></div>
+<div id="container">
+  <div id="headingContainer">
+    <div id="headingLogo"><a href="index.php"><img src="images/spacer.gif" alt="" width="350" height="90"></a></div>
+  </div>
+  <div id="menuContainer">
+    <ul id="menu">
+      <li id="indexMenu_LI"><a href="index.php" onclick="javascript: menu('indexMenu');" onmouseover="javascript: menu('indexMenu');">home</a></li>
+      <li id="productsMenu_LI"><a href="main.php?page=10" onclick="javascript: menu('productsMenu');" onmouseover="javascript: menu('productsMenu');">products</a></li>
+      <li id="corporateMenu_LI"><a href="main.php?page=21" onclick="javascript: menu('corporateMenu');" onmouseover="javascript: menu('corporateMenu');">corporate</a></li>
+      <li id="investorMenu_LI"><a href="main.php?page=31" onclick="javascript: menu('investorMenu');" onmouseover="javascript: menu('investorMenu');">investor information</a></li>
+      <li id="newsMenu_LI"><a href="main.php?page=41" onclick="javascript: menu('newsMenu');" onmouseover="javascript: menu('newsMenu');">news &amp; events</a></li>
+      <li id="contactsMenu_LI"><a href="main.php?page=50" onclick="javascript: menu('contactsMenu');" onmouseover="javascript: menu('contactsMenu');">contact us</a></li>
+    </ul>
+  </div>
+  <div id="menuConnector" class="menuConnector"><img src="images/spacer.gif" width="8" height="8" alt=""></div>
+  <div id="indexMenu">
+    <ul class="submenuUL">
+      <li class="first"></li>
+    </ul>
+  </div>
+  <div id="productsMenu" style="display: none; ">
+    <ul class="submenuUL">
+      <li class="first"><a href="main.php?page=11">casino</a></li>
+      <li><a href="main.php?page=12">poker</a></li>
+      <li><a href="main.php?page=13">bingo</a></li>
+      <li><a href="main.php?page=14">mobile gaming</a></li>
+      <li><a href="main.php?page=15">kiosk</a></li>
+      <li><a href="main.php?page=16">arcade games</a></li>
+      <li><a href="main.php?page=17">live gaming</a></li>
+      <li><a href="main.php?page=18">videobet</a></li>
+    </ul>
+  </div>
+  <div id="corporateMenu" style="display: none; ">
+    <ul class="submenuUL">
+      <li class="first"><a href="main.php?page=21">who we are</a></li>
+      <li><a href="main.php?page=22">history</a></li>
+      <li><a href="main.php?page=23">fairness</a></li>
+      <li><a href="main.php?page=24">philosophy</a></li>
+    </ul>
+  </div>
+  <div id="investorMenu" style="display: none; ">
+    <ul class="submenuUL">
+      <li class="first"><a href="main.php?page=31">welcome</a></li>
+      <li><a href="main.php?page=32">stock price</a></li>
+      <li><a href="main.php?page=33">financial information</a>&nbsp;</li>
+      <li><a href="main.php?page=34">reg. announcements</a>&nbsp;</li>
+      <li><a href="main.php?page=35">board</a>&nbsp;</li>
+      <li><a href="main.php?page=36">newsletter</a>&nbsp;</li>
+    </ul>
+  </div>
+  <div id="newsMenu" style="display: none; ">
+    <ul class="submenuUL">
+      <li class="first"><a href="main.php?page=41">press releases</a></li>
+      <li><a href="main.php?page=42">events</a></li>
+    </ul>
+  </div>
+  <div id="contactsMenu" style="display: none; ">
+    <ul class="submenuUL">
+      <li class="first"><a href="main.php?page=51">sales inquiry</a></li>
+      <li><a href="main.php?page=52">player inquiry</a></li>
+    </ul>
+  </div>
+
+<!-- we represent - 61 -->
+  <div id="sidebarContainer">
+    <div id="sidebarImageContainer"><img src="view.php?code=th31" alt=""></div>
+  </div>
+<!-- we represent - 61 -->
+  <div id="mainContentContainer">
+    <div class="textboxContainer">
+      <div id="mainContentLeft"><img src="images/main_content_left.png" alt="" width="8" height="187" style="behavior: url('pngbehaviour.htc');"></div>
+      <div id="mainContentMiddle">
+        <div id="mainContentTop"><img src="images/main_content_top.png" alt="" width="513" height="30" style="behavior: url('pngbehaviour.htc');"></div>
+        <div id="mainContent">
+          <div id="mainText">
+    	    <h1>Privacy Policy</h1>
+<!-- we represent 2 - 61 -->
+    	    <p>This privacy policy sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by Playtech.  If you have any requests concerning your personal information or any queries with regard to these practices please contact us at <a href="mailto:privacy@playtech.com">privacy@playtech.com</a>.<br><br><span style="font-weight: bold;">Information Collected</span><br>Every time you visit our website, move from page to page, read pages, or download content onto your computer, we learn which pages are visited and what content is downloaded. However, this is measured only in aggregate and not on an individual basis. <br><br>When you send us an e-mail or ask us to respond to you by e-mail, we learn your e-mail address and the information that you have included in the email form shown on our website.<br><br><span style="font-weight: bold;">Use of personal information</span><br>We use the aggregate statistical information to determine how many people visit our website and which sections of the site are visited most frequently. This helps us to know what type of information is most popular so that we can improve our website and make it easier for you to access this information. We record the statistical information on the number of visitors to our website but no information about you in particular is kept or used. <br><br>In relation to the information we gain when you email us, we may use your e-mail address to acknowledge your comments and/or reply to your questions and we may store your communication and our reply in case we need to correspond at a later date. We will not provide your e-mail address to anyone. <br><br><span style="font-weight: bold;">Disclosures</span><br>We will only disclose personal information to other companies within our group of companies, government bodies and law enforcement agencies, successors in title to our business and suppliers we engage to process data on our behalf.<br><br><span style="font-weight: bold;">Internet-based transfers</span><br>Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis.  Therefore by browsing this website and communicating electronically with us, you acknowledge and agree to our processing of personal data this way.</p>
+          <div style="clear: both; "></div>
+        </div>
+      </div>
+      <div id="mainContentBottom"><img src="images/main_content_bottom.gif" alt="" width="513" height="26"></div>
+    </div>
+    <div id="mainContentRight"><img src="images/main_content_right.png" alt="" width="7" height="187" style="behavior: url('pngbehaviour.htc');"></div>
+    <div id="footerSpacer"><img src="images/spacer.gif" width="10" height="10" alt=""></div>
+  <div id="footerSpacer"><img src="images/spacer.gif" width="10" height="10" alt=""></div>  
+    <div id="footer">  
+      <div id="siteMap"><a href="sitemap.php">sitemap</a></div>  
+      <div id="disclaimer"><a href="main.php?page=61">privacy policy</a> | <a href="main.php?page=62">disclaimer</a></div> 
+    </div>
+  </div>
+  </div>
+</div>
+
+
+
+</body></html>
