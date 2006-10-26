@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricket365.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615044209id_/http%3A//www.cricket365.com/home/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricket365.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026211705id_/http%3A//www.cricket365.com/home/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Cricket news, fixtures & results, live coverage and features from Cricket365.com
 
