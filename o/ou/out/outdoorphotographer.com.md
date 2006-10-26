@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012041443id_/http%3A//www.outdoorphotographer.com/content/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026172850id_/http%3A//www.outdoorphotographer.com/content/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -33,6 +33,8 @@ www.pcbuyer.com
 www.planeandpilotmag.com  
 www.pilotjournal.com  
 www.wernerpublishing.com  
+www.golftipscc.com  
+www.digitalphotopro.com  
 **
 
 **
@@ -61,6 +63,8 @@ Our Websites include a link to:
   * Commission Junction
   * Hello Network
   * Amazon.com
+  * pricegrabber.com
+  * pilotmall.com
 
 
 
@@ -75,7 +79,7 @@ Automatic Collection of Information
 
 We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. 
 
-With the exception of the Golf Tips Media Kit registration page, we do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals. 
+With the exception of the Golf Tips Media Kit registration page and the gtcc.com log-in page, we do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals. 
 
 **
 
@@ -163,7 +167,7 @@ Access to the personal data we may hold about you
 
 You can ask us, by: 
 
-  * sending an email ([ fwheeler@wernerpublishing.com](mailto:fwheeler@wernerpublishing.com) ) 
+  * sending an email ([amanicom@wernerpublishing.com](mailto:amanicom@wernerpublishing.com) ) 
 
 
 
@@ -171,7 +175,7 @@ whether we are keeping personal data about you.
 
 Upon request, which you can indicate by: 
 
-  * sending an email ([ fwheeler@wernerpublishing.com](mailto:fwheeler@wernerpublishing.com) ) 
+  * sending an email ([amanicom@wernerpublishing.com](mailto:amanicom@wernerpublishing.com) ) 
 
 
 
