@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoconsultants.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620065518id_/http%3A//www.seoconsultants.com/legal/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoconsultants.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026041350id_/http%3A//www.seoconsultants.com/legal/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - SEO Consultants Directory
 
@@ -40,4 +40,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 Back to Previous
 
-Last modified: 2006-05-27T09:15:36-0700
+Last modified: 2006-10-23T15:38:29-0700
