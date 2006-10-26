@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the israel-music.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321104724id_/http%3A//www.israel-music.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israel-music.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027001536id_/http%3A//www.israel-music.com/privacy) for the most accurate reproduction.*
 
 # Israel Music : Privacy Policy
 
