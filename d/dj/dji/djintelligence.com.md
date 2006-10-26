@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314212431id_/http%3A//www.djintelligence.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026051524id_/http%3A//www.djintelligence.com/pages/privacy.asp) for the most accurate reproduction.*
 
 # DJ Intelligence™ - Privacy Statement
 
 |   
   
 ---  
-**Tuesday, March 14, 2006   **  
+**Thursday, October 26, 2006   **  
    
 | **  [Home Page](http://www.djintelligence.com/)**  
 | **  [Demo Websites](http://www.djintelligence.com/pages/demo.asp)**  
@@ -24,11 +24,11 @@
   **Professional DJs Speak Up   **  
  
 
-|  "I can guarantee you that the money you spend on this web site will be well returned to you!" |    
+|  "We got 4 bookings in the first week since we subscribed. We will definitely be using you for a very long time." |    
 ---|---  
   
    
-[Sound Connection](http://www.djintelligence.com/pages/success.asp)   
+[Inferno DJ Service](http://www.djintelligence.com/pages/success.asp)   
    
   
 ---  
@@ -97,6 +97,6 @@ Intelligence, Inc. takes your privacy seriously. Please read the following to le
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20060314212431id_/http%3A//www.djintelligence.com/pages/contact.asp).
+  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20061026051524id_/http%3A//www.djintelligence.com/pages/contact.asp).
 
 
