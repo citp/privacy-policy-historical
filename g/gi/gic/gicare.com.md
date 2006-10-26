@@ -1,23 +1,34 @@
-> *The following text is extracted and transformed from the gicare.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/jprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gicare.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/jprivacy.htm) for the most accurate reproduction.*
 
 # Jackson Gastroenterology Privacy Policy
 
-[ ](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/j000001.htm) [ ](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/j000001.htm) [   
-](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/j000001.htm) [   
-](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/jpl0001.htm) [   
-](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/jos0001.htm) [   
-](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/joi0001.htm) [   
-](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/jfu0001.htm) [   
-](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/jin0001.htm) [ ](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/jpt0001.htm)  
-[ ](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/jprivacy.htm)
+| 
 
-[ ](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/pated/e000001.htm)  
+| 
+
+  
+[Home](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/index.htm) |  [Jackson Siegelbaum Gastro](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/j000001.htm) |  [Patient Education](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/e000001.htm)
+
+|   
+  
+---|---|---|---  
+|  |  |   
+[ ](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/j000001.htm) [ ](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/j000001.htm) [   
+](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/j000001.htm) [   
+](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/jpl0001.htm) [   
+](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/jos0001.htm) [   
+](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/joi0001.htm) [   
+](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/jfu0001.htm) [   
+](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/jin0001.htm) [ ](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/jpt0001.htm)  
+[ ](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/jprivacy.htm)
+
+[ ](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/e000001.htm)  
 [ ](file:///Macintosh%20HD/My%20Work/Web%20sites/Gicare-A-L/web/www/pated/e000001.htm) [   
-](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/pated/ecd0001.htm) [   
-](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/pated/epd0001.htm) [   
-](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/pated/edt0001.htm) [   
-](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/pated/edr0001.htm) [   
-](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/pated/ei00001.htm) [ ](https://web.archive.org/web/20060618142837id_/http%3A//gicare.com/pated/elk0001.htm)
+](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/ecd0001.htm) [   
+](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/epd0001.htm) [   
+](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/edt0001.htm) [   
+](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/edr0001.htm) [   
+](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/ei00001.htm) [ ](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/pated/elk0001.htm)
 
 |  | 
 
@@ -233,4 +244,20 @@
 > 
 
 
-> | 
+> |   
+|  |  |   
+|  | 
+
+[Jackson Siegelbaum Gastro](https://web.archive.org/web/20061027000644id_/http%3A//gicare.com/j000001.htm) |  [Philosophy](https://web.archive.org/jpl0001.htm) |  [Staff](https://web.archive.org/jos0001.htm) |  [Office Info](https://web.archive.org/joi0001.htm) |  [Find Us](https://web.archive.org/jfu0001.htm) |  [Insurance](https://web.archive.org/jin0001.htm) |  [On Good Health](https://web.archive.org/jpt0001.htm) |  [Privacy](https://web.archive.org/jprivacy.htm)  
+
+
+**Jackson Siegelbaum Gastroenterology** | 423 North 21st Street, Suite 100 |   | 2626 North 3rd Street., Suite 3A  
+---|---|---  
+Camp Hill, PA 17011 |  | Harrisburg, PA 17110  
+(717) 761-0930 |   | Phone: (717) 238-3111  
+_*We can NOT provide medical care over the phone. Please contact us to make an appointment if needed._  
+**Fax:** (717) 761-0465  
+**Email:** contact@gicare.com   
+**Web:**[gicare.com](http://www.gicare.com/)
+
+©  [ Copyright](https://web.archive.org/jlegal01.htm) 2006 Jackson Siegelbaum Gastroenterology. All Rights Reserved.
