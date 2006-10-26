@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the californiachronicle.com privacy policy that was archived on 2005-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051225052852id_/http%3A//www.californiachronicle.com/notices/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiachronicle.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027000819id_/http%3A//www.californiachronicle.com/notices/privacy.asp) for the most accurate reproduction.*
 
 # California Chronicle: Member Services
 
@@ -12,6 +12,8 @@ Our postal address is
 PO Box 6158  
 Beverly Hills, CA 90212-6158  
 United States of America
+
+You may also contact us by **[e-mail](mailto:editor@ultio.net)**.
 
 **OUR** **PRIVACY POLICY**  
 
@@ -107,17 +109,17 @@ Our sites contain links to sites other than our own. Those sites may not follow 
 The use of any information or materials that you may access at these external sites is purely voluntary. You should not rely on their contents without independent and thorough review of the accuracy, completeness, effectiveness, timeliness and correct sequencing. These external sites may also refer to specific commercial products, processes, or services by trade name, trademark, service mark, manufacturer or otherwise. Unless Ultio LLC has provided explicit authority, such references in no way indicate our endorsement, recommendation or preference.  
 
 
-This section should be read in conjunction with the full [Terms of Service](https://web.archive.org/web/20051225052852id_/http%3A//www.californiachronicle.com/notices/license.asp).  
+This section should be read in conjunction with the full Terms of Service.  
 
 
 **Additional Information**  
 No transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Ultio LLC to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us. Any such transmission is done at your own risk.  
 
 
-Under no circumstances, including but not limited to negligence, shall Ultio LLC be liable for any special, incidental or consequential damages that result from the use of the information or materials on our sites, even if Ultio LLC or an authorized representative of Ultio LLC, has been advised of the possibility of such damages. This section also should be read in conjunction with the full [Terms of Service](https://web.archive.org/web/20051225052852id_/http%3A//www.californiachronicle.com/notices/license.asp).  
+Under no circumstances, including but not limited to negligence, shall Ultio LLC be liable for any special, incidental or consequential damages that result from the use of the information or materials on our sites, even if Ultio LLC or an authorized representative of Ultio LLC, has been advised of the possibility of such damages. This section also should be read in conjunction with the full Terms of Service.  
 
 
-Ultio LLC reserves the right to change this Privacy Policy at any time. Any such changes will be posted online. Questions should be directed to [support@californiachronicle.com](mailto:support@californiachronicle.com).  
+Ultio LLC reserves the right to change this Privacy Policy at any time. Any such changes will be posted online. Questions should be directed to us by **[email](mailto:editor@ultio.net)**.  
 
 
 USE OF THIS SITE SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT TO COMPLY WITH THE ENTIRE PRIVACY POLICY.
