@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiego.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011602id_/http%3A//sandiego.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.edu privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026174855id_/http%3A//www.sandiego.edu/privacy) for the most accurate reproduction.*
 
 # USD: Web Privacy Policy
 
