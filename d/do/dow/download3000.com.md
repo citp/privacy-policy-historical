@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the download3000.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315010054id_/http%3A//www.download3000.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download3000.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026104112id_/http%3A//www.download3000.com/privacy.html) for the most accurate reproduction.*
 
-# Download3000 - Free software download for windows programs games and drivers
+# Privacy policy - Download3000.com
 
   
 This is the web site of "Download3000" ltd.
 
-We can be reached via e-mail at admin@download3000.com
+We can be reached via our [help desk](http://support.download3000.com/)
 
 **Registration**  
 In order to use some parts of this website (e.g. member areas), a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as income level and gender or personal interests), and unique identifiers, but encouraged so we can provide a more personalized experience on our site.
