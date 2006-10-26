@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the regmovies.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615235944id_/http%3A//regmovies.com/movies/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the regmovies.com privacy policy that was archived on 2006-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061026144649id_/http%3A//regmovies.com/movies/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Regal Entertainment Group</title>
@@ -20,13 +20,39 @@ function openWindow(URL,Name,features) {
   window.open(URL,Name,features);
 }
 function checkQuantity(item) {
-  if(item.name == 'item_5') {	 		
+  if(item.name == 'item_5') {
     if (item.options[item.selectedIndex].text >=50) {
       if(confirm("Are you familiar with our Discount Super Saver Ticket Program? Press 'OK' if you would like more information.")) {
   openWindow('/store/corporate_sales.html','new','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,width=740,height=400');
       }
     }
   }
+}
+
+function limitText(limitField, limitCount, limitNum) {
+	if (limitField.value.length > limitNum) {
+		limitField.value = limitField.value.substring(0, limitNum);
+	} else {
+		limitCount.value = limitNum - limitField.value.length;
+	}
+}
+
+function onKeyPressBlockNonDigits(e)
+{
+	var key = window.event ? e.keyCode : e.which;
+	// -- This method had cross-platform issues...
+	// var keychar = String.fromCharCode(key);
+	// allow digits, backspace, delete, tab, left arrow, right arrow. =)
+	// reg = /(\d|\x08|\x7f|\x09|\x1c|\x1d)/;
+	// return reg.test(keychar);
+
+	var allowedKeys = new Array(48,49,50,51,52,53,54,55,56,57,0,8,9);
+	for(var i = 0; i < allowedKeys.length; i++) {
+		if (allowedKeys[i] == key) {
+			return true;
+		}
+	}
+	return false;
 }
 //-->
 </script>
@@ -39,7 +65,7 @@ function checkQuantity(item) {
   </tr>
 </tbody></table>
 <table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr> 
+  <tbody><tr>
     <td width="202" valign="top" background="/images/bg_green.gif">
 	<!--^^^^^^JSP Brown Section^^^^^^-->
 	<img src="/images/swoosh_left.jpg" width="202" height="32"><script language="javascript"><!-- var ua = navigator.userAgent.indexOf("AOL 5.0", 0); var p=navigator.platform; if(ua == -1  && p!="MacPPC"){ document.write('<br>'); } //--></script><table width="202" border="0" cellspacing="0" cellpadding="0" align="center">
@@ -109,8 +135,8 @@ function checkQuantity(item) {
     </td>
           <td width="202" valign="top" bgcolor="#000000"><img src="/images/shim_b.gif" width="1" height="105"></td>
   </tr>
-  <tr> 
-    <td background="/images/bg_darkbrown.gif" valign="top" align="center" height="35"> 
+  <tr>
+    <td background="/images/bg_darkbrown.gif" valign="top" align="center" height="35">
 	<!--^^^^^^JSP Yellow Section^^^^^^-->
       <table width="175" border="0" cellspacing="0" cellpadding="2" align="center">
         <tbody><tr> 
@@ -131,12 +157,12 @@ function checkQuantity(item) {
 </tbody></table>
       <!--^^^^^JSP Green Section (NAV)^^^^^-->
       <table width="202" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
+        <tbody><tr>
           <td valign="top" align="center"><img src="/images/top_green.gif" width="202" height="18"></td>
         </tr>
-        <tr> 
+        <tr>
           <!-- Movies Links Section -->
-          <td align="center" valign="top"> 
+          <td align="center" valign="top">
             <p><img src="/images/title_movies.gif" width="151" height="36" alt="Movies"><br>
               <b>
 	       <!--<a href="http://www.paramountprogress.com/movieform.cfm" target="_blank" class="small_bold_white">Lemony Snickets<br>Sweepstakes Registration</a><br>-->
@@ -144,29 +170,30 @@ function checkQuantity(item) {
                <a href="http://www.regalcreditcard.com" target="_blank" class="small_bold_white">REG MasterCard</a><br>                                                                          <a href="/movies/cinema_art.html" class="small_bold_white">Cinema Art</a><br>
                <!--<a href="/movies/crown_club.html" class="small_bold_white">Crown Club</a><br>-->
 	       <a href="http://rcc.regalcinemas.com/CrownClub" class="small_bold_white">Crown Club</a><br>
-               <a href="/freefamilyflicks/index2.jsp" class="small_bold_white">REG Free Family Film Festival</a><br>   
+              <!-- <a href="/freefamilyflicks/index2.jsp" class="small_bold_white">REG Free Family Film Festival</a><br>-->
                <a href="/movies/giant_screen.html" class="small_bold_white">IMAX® &amp; Giant Screen </a><br>
-               <a href="http://www.regalcinemas.com/cgi-bin/shop/shop.pl?view=gift" class="small_bold_white">Gift Certificates</a><br>
+              <!-- <a href="http://www.regalcinemas.com/cgi-bin/shop/shop.pl?view=gift" class="small_bold_white">Gift Cards</a><br>-->
                <a href="/movies/locations.jsp" class="small_bold_white">Map of Locations</a><br>
                <a href="/movies/ratings.html" class="small_bold_white">Movie Ratings Q &amp; A</a><br>
                <a href="/movies/open_cap.html" class="small_bold_white">Open Caption and Descriptive Audio</a><br>
                <!--<a href="/movies/wireless.html" class="small_bold_white">Wireless Showtimes</a><br>-->
-              </b> 
+              </b>
           </p></td>
         </tr>
-        <tr> 
+        <tr>
           <td align="center"><img src="/images/shim.gif" width="1" height="10"></td>
         </tr>
-        <tr> 
+        <tr>
           <!-- REG-6059 - GGC-2003.06.16 - Regal Big Screen Events Section -->
           <td align="center"><img src="/images/title_bigscreen.gif" alt="Big Screen Events"><br>
             <b>
-<!--         <a class="small_bold_white" href="http://www.biggsadventure.com" target="_blank">The Golden Blaze<br>Every Dad is a Hero!<br></a>             --> 
+<!--         <a class="small_bold_white" href="http://www.biggsadventure.com" target="_blank">The Golden Blaze<br>Every Dad is a Hero!<br></a>             -->
 <!--         <a class="small_bold_white" href="http://www.bigscreenclassroom.com/ichabod/" target="_blank">Ichabod<br>The Legend of Sleepy Hollow<br></a>  -->
 <!--         <a class="small_bold_white" href="http://www.bigscreenclassroom.com" target="_blank">Rock n' Write<br></a>                                    -->
-<!--         <a class="small_bold_white" href="http://www.biggsadventure.com" target="_blank">Biggs Adventure<br></a>                                      --> 
+<!--         <a class="small_bold_white" href="http://www.biggsadventure.com" target="_blank">Biggs Adventure<br></a>                                      -->
 <a class="small_bold_white" href="http://www.bigscreenconcerts.com" target="_blank">Big Screen Concerts<br></a>
-<!--         <a class="small_bold_white" href="http://www.bigscreenclassroom.com" target="_blank">Big Screen Classroom<br></a>                             -->  
+<a class="small_bold_white" href="http://www.bigscreenboxoffice.com/index.asp?theatrecode=REG" target="_blank">Big Screen Events<br></a>
+<!--         <a class="small_bold_white" href="http://www.bigscreenclassroom.com" target="_blank">Big Screen Classroom<br></a>                             -->
 
 <!--<a class="small_bold_white" target=" _blank" href="http://www.regalcm.com/index.asp">Upcoming Regal Events<br>on the Big Screen</a><br>-->
 
@@ -181,57 +208,58 @@ function checkQuantity(item) {
 
           <!-- Advertising Section -->
           <td align="center"><img src="/images/title_cinemedia.gif" alt="CineMedia"><br>
-            <b><a href="http://www.nationalcinemedia.com/InTheatreAdvertising" class="small_bold_white">Advertising &amp; Promotions</a><br>
+            <b><a href="http://www.ncm.com/InTheatreAdvertising/default.aspx?theatrecode=REG" target="_blank" class="small_bold_white">Advertising &amp; Promotions</a><br>
 		</b></td>
         </tr>
-        <tr> 
+        <tr>
           <td align="center"><img src="/images/shim.gif" width="1" height="10"></td>
         </tr>
           <!-- CineMedia Links Section -->
           <tr><td align="center"><img src="/images/title_cinemeetings.gif" width="159" height="36" alt="CineMedia"><br>
-            <b><a href="http://www.regalcinemeetings.com/plan_build.html?ovchn=OTHER7ovcpn=REG+meeting&amp;ovcrn=business+meeting&amp;ovfrd=REGmovies&amp;ovtac=AFF" class="small_bold_white">Business Meetings</a><br>
-            <a href="http://www.regalcinemeetings.com/plan_privscreen.html?ovchn=OTHER&amp;ovcpn=REG+private&amp;ovcrn=private+screening&amp;ovfrd=REGmovies&amp;ovtac=AFF" target="_blank" class="small_bold_white">Private Movie Screenings</a><br></b></td>
+            <b><a href=" http://www.ncm.com/Cinemeetings/MeetingAndEventTypes.aspx?ovchn=OTHER&amp;ovcpn=REGMOVIES&amp;ovcrn=Businessmeetings&amp;ovrfd=regal&amp;ovtac=AFF&amp;theatrecode=reg" target="_blank" class="small_bold_white">Business Meetings</a><br>
+            <a href="http://www.ncm.com/cms/templates/meetings_types.aspx?articleid=11&amp;zoneid=5&amp;ovchn=OTHER&amp;ovcpn=REGMOVIES&amp;ovcrn=Privatescreenings&amp;ovrfd=regal&amp;ovtac=AFF&amp;theatrecode=reg" target="_blank" class="small_bold_white">Private Movie Screenings</a><br></b></td>
         </tr>
-        <tr> 
+        <tr>
           <td align="center"><img src="/images/shim.gif" width="1" height="10"></td>
         </tr>
         <tr>
           <!-- REG-10402 - GGC-2004.07.08 - Corporate Box Office Section -->
-          <td align="center"><img src="/images/title_cbo.gif" width="159" height="36" alt="Corporate Box Office"><br>
-            <b><a href="http://www.regalcinemas.com/cgi-bin/shop/shop.pl?view=discount" class="small_bold_white">Corporate Movie Tickets</a><br>
-                <a href="#" onclick="window.open('http://cardbalance.storedvalue.com/lookup.shtml?Host=RGLGC_en.html','BIS','scrollbars=no,dependent=no,directories=no,hotkeys=no,resizable=no,screenX=0,screenY=0,menubar=no,toolbar=no,location=no,personalbar=no,status=no,height=360,width=400');" class="small_bold_white">Gift Card Balance Lookup</a>
-	
-		</b></td>
-        </tr>
-        <tr> 
+		            <td align="center"><img src="/images/title_cbo.gif" width="159" height="36" alt="Corporate Box Office"><br>
+		              <b><a href="http://www.regalcinemas.com/cgi-bin/shop/shop.pl?view=gift" class="small_bold_white">Gift Cards</a><br>
+					  <a href="http://www.regalcinemas.com/cgi-bin/shop/shop.pl?view=discount" class="small_bold_white">Corporate Movie Tickets</a><br>
+		                  <a href="#" onclick="window.open('http://cardbalance.storedvalue.com/lookup.shtml?Host=RGLGC_en.html','BIS','scrollbars=no,dependent=no,directories=no,hotkeys=no,resizable=no,screenX=0,screenY=0,menubar=no,toolbar=no,location=no,personalbar=no,status=no,height=360,width=400');" class="small_bold_white">Gift Card Balance Lookup</a><br>
+		  		<a href="http://www.regalcinemas.com/gcterms.html" class="small_bold_white">Gift Card Terms &amp; Conditions</a></b></td>
+		          </tr>
+        <tr>
           <!-- Corporate Links Section -->
           <td align="center"><img src="/images/title_corporate.gif" width="114" height="38" alt="Corporate"><br>
             <b><a href="/corporate/about.html" class="small_bold_white">About Us</a><br>
             <a href="/corporate/comments.html" class="small_bold_white">Comments</a><br>
+            <a href="/corporate/about.html" class="small_bold_white">Contact Us</a><br>
             <a href="http://investor.regalcinemas.com" class="small_bold_white">Investor Relations</a><br>
 	   <!--	<a href="http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=rgc&script=2100" class="small_bold_white">Investor Relations</a><br>-->
             <a href="/corporate/jobs.jsp" class="small_bold_white">Job Opportunities</a><br>
             <a href="/corporate/partners.html" class="small_bold_white">Partners</a><br>
-            <a href="/corporate/charity.html" class="small_bold_white">Community Affairs</a><br></b></td> 
+            <a href="/corporate/charity.html" class="small_bold_white">Community Affairs</a><br></b></td>
 
 	</tr>
       </tbody></table>
       <!--^^^^^^JSP End Nav^^^^^^-->
     </td>
-   
-    <td valign="top"> 
+
+    <td valign="top">
       <table width="356" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
+        <tbody><tr>
           <td>
           <!--^^^^^^JSP Middle Content Section^^^^^^-->
 		<img src="/images/swoosh-mid.jpg" width="356" height="26"><br>
             <br>
           </td>
         </tr>
-        <tr> 
+        <tr>
           <td valign="top">
             <table width="356" border="0" cellspacing="1" cellpadding="4" bgcolor="#333333">
-              <tbody><tr> 
+              <tbody><tr>
                 <td bgcolor="#000000" class="white">
 <!--BEGIN CONTENT -->
 
@@ -428,7 +456,7 @@ function checkQuantity(item) {
 <!--END CONTENT-->
                   </td>
               </tr>
-            </tbody></table>            
+            </tbody></table>
           </td>
         </tr>
       </tbody></table>
@@ -474,19 +502,19 @@ function checkQuantity(item) {
 	<!--^^^^^^JSP End Blue Section^^^^^^-->
 	<!--^^^^^^JSP Red Section^^^^^^-->
 	<table width="202" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr> 
-    <td valign="top" background="/images/bg_red.gif"> 
+  <tbody><tr>
+    <td valign="top" background="/images/bg_red.gif">
             <table width="202" border="0" cellspacing="0" cellpadding="0" background="/images/bg_clear.gif">
-              <tbody><tr> 
+              <tbody><tr>
           <td valign="top" align="center" colspan="2"><img src="/images/top_red.gif" width="202" height="18"></td>
         </tr>
-        <tr> 
+        <tr>
           <td align="center" valign="top"><img src="/images/shim.gif" width="7" height="1"></td>
                 <td align="center" valign="top" background="/images/bg_clear.gif"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="/images/title_spotlight.gif" width="111" height="33" vspace="0" alt="Spotlight"><br><img border="0" src="/images/shim.gif" height="8" width="1"></td></tr></tbody></table><script language="javascript"> var ua = navigator.userAgent.indexOf("AOL 5.0", 0); var p=navigator.platform; if(ua > 1  && p=="MacPPC"){ document.write('<br><img border="0" height="35" width="1" src="/images/shim.gif">'); } </script></td>
         </tr>
-        <tr> 
+        <tr>
           <td align="center">&nbsp;</td>
-                <td align="center" background="/images/bg_clear.gif"> 
+                <td align="center" background="/images/bg_clear.gif">
 <script language="javascript"> var ua = navigator.userAgent.indexOf("AOL 5.0", 0); var p=navigator.platform; if(ua > 1  && p=="MacPPC"){ document.write('<img border="0" height="35" width="1" src="/images/shim.gif">'); } </script>
                   <!--*******Spotlight Ad********-->
 <script language="javascript">
@@ -505,56 +533,31 @@ gs_movies=new Array();
  gs_links2=new Array();
  gs_links3=new Array();
  gs_images=new Array();
-movies[0]="Pirates of the Caribbean 2: Advance Tickets";
-links[0]='http://www.fandango.com/redirect.aspx?mid=88476&source=moviesearch';
-links2[0]='http://www.fandango.com/redirect.aspx?mid=88476&source=moviesearch';
-links3[0]='http://www.movietickets.com/movie_detail.asp?movie_id=48708';
-images[0]='normal/pirates22_lg.jpg';
-movies[1]="Pirates of the Caribbean 2: Advance Tickets";
-links[1]='http://www.fandango.com/redirect.aspx?mid=88476&source=moviesearch';
-links2[1]='http://www.fandango.com/redirect.aspx?mid=88476&source=moviesearch';
-links3[1]='http://www.movietickets.com/movie_detail.asp?movie_id=48708';
-images[1]='normal/pirates22_lg.jpg';
-ca_movies[0]="Thank You For Smoking";
-ca_links[0]='http://www.fandango.com/redirect.aspx?mid=93359&source=moviesearch';
-ca_links2[0]='http://www.fandango.com/redirect.aspx?mid=93359&source=moviesearch';
-ca_links3[0]='http://www.movietickets.com/movie_detail.asp?movie_id=51548';
-ca_images[0]='normal/thankssmoking2_lg.jpg';
-movies[2]="Superman Returns:  Advance Tickets on Sale Now!";
-links[2]='http://www.fandango.com/redirect.aspx?mid=90222&source=bm_title';
-links2[2]='http://www.fandango.com/redirect.aspx?mid=90222&source=bm_title';
-links3[2]='http://www.movietickets.com/movie_detail.asp?movie_id=49071';
-images[2]='normal/supermanreturns2_sm.jpg';
-movies[3]="Click:  Advance Tickets on Sale Now!";
-links[3]='http://www.fandango.com/redirect.aspx?mid=90517&source=moviesearch';
-links2[3]='http://www.fandango.com/redirect.aspx?mid=90517&source=moviesearch';
-links3[3]='http://www.movietickets.com/movie_detail.asp?movie_id=45340';
-images[3]='normal/click_lg.jpg';
-movies[4]="Nacho Libre: Advance Tickets on Sale Now!";
-links[4]='http://www.fandango.com/redirect.aspx?mid=93014&source=moviesearch';
-links2[4]='http://www.fandango.com/redirect.aspx?mid=93014&source=moviesearch';
-links3[4]='http://www.movietickets.com/movie_detail.asp?movie_id=51528';
-images[4]='normal/nacholibre_lg.jpg';
-movies[5]="Click:  Advance Tickets on Sale Now!";
-links[5]='http://www.fandango.com/redirect.aspx?mid=90517&source=moviesearch';
-links2[5]='http://www.fandango.com/redirect.aspx?mid=90517&source=moviesearch';
-links3[5]='http://www.movietickets.com/movie_detail.asp?movie_id=45340';
-images[5]='normal/click_lg.jpg';
-movies[6]="Nacho Libre:  Advance Tickets on Sale Now!";
-links[6]='http://www.fandango.com/redirect.aspx?mid=93014&source=moviesearch';
-links2[6]='http://www.fandango.com/redirect.aspx?mid=93014&source=moviesearch';
-links3[6]='http://www.movietickets.com/movie_detail.asp?movie_id=51528';
-images[6]='normal/nacholibre_lg.jpg';
-movies[7]="Superman Returns:  Advance Tickets on Sale Now!";
-links[7]='http://www.fandango.com/redirect.aspx?mid=90222&source=bm_title';
-links2[7]='http://www.fandango.com/redirect.aspx?mid=90222&source=bm_title';
-links3[7]='http://www.movietickets.com/movie_detail.asp?movie_id=49071';
-images[7]='normal/supermanreturns2_sm.jpg';
-gs_movies[0]="IMAX Superman Returns:  Advance Tickets on Sale Now!";
-gs_links[0]='http://www.fandango.com/redirect.aspx?mid=96230&source=bm_title';
-gs_links2[0]='http://www.fandango.com/redirect.aspx?mid=96230&source=bm_title';
-gs_links3[0]='http://www.movietickets.com/movie_detail.asp?movie_id=53050';
-gs_images[0]='normal/supermanreturnsimax_lg.jpg';
+ca_movies[0]="Scoop";
+ca_links[0]='http://www.scoopmovie.net/';
+ca_links2[0]='http://www.scoopmovie.net/';
+ca_links3[0]='http://www.scoopmovie.net/';
+ca_images[0]='normal/scoop.jpg';
+ca_movies[1]="Little Miss Sunshine";
+ca_links[1]='http://www.fandango.com/redirect.aspx?mid=95839&source=moviesearch';
+ca_links2[1]='http://www.fandango.com/redirect.aspx?mid=95839&source=moviesearch';
+ca_links3[1]='http://www.fandango.com/redirect.aspx?mid=95839&source=moviesearch';
+ca_images[1]='normal/LittleMissSunshine.jpg';
+gs_movies[0]="IMAX:  Open Season 3D";
+gs_links[0]='http://www.fandango.com/redirect.aspx?mid=98311&source=bm_title';
+gs_links2[0]='http://www.fandango.com/redirect.aspx?mid=98311&source=bm_title';
+gs_links3[0]='http://www.fandango.com/redirect.aspx?mid=98311&source=bm_title';
+gs_images[0]='normal/openseason_poster1_250px.jpg';
+movies[0]="Saw III:  Advance Tickets on Sale Now!";
+links[0]='http://www.fandango.com/redirect.aspx?mid=96539&source=moviesearch&ccode=REGL&a=11481&dte=0';
+links2[0]='http://www.fandango.com/redirect.aspx?mid=96539&source=moviesearch&ccode=REGL&a=11481&dte=0';
+links3[0]='http://www.fandango.com/redirect.aspx?mid=96539&source=moviesearch&ccode=REGL&a=11481&dte=0';
+images[0]='normal/saw32_lg.jpg';
+movies[1]="Santa Clause 3:  Advance Tickets on Sale Now!";
+links[1]='http://www.fandango.com/redirect.aspx?mid=91025&source=moviesearch&ccode=REGL&a=11481&dte=0';
+links2[1]='http://www.fandango.com/redirect.aspx?mid=91025&source=moviesearch&ccode=REGL&a=11481&dte=0';
+links3[1]='http://www.fandango.com/redirect.aspx?mid=91025&source=moviesearch&ccode=REGL&a=11481&dte=0';
+images[1]='normal/santaclause3_lg.jpg';
 str=new String(document.location);
 path=new String(str.substring(0,150));
 elms=path.split("/");
@@ -578,7 +581,7 @@ switch (elms[0]) {
 	case "giant_screen.html" : var rand=Math.floor(Math.random()*gs_movies.length); movies=gs_movies; links=gs_links; images=gs_images; break;
 	default: var rand=Math.floor(Math.random()*movies.length);
 }
-var ua = navigator.userAgent.indexOf("AOL 5.0", 0);var p=navigator.platform;var borders=1;if(ua > 1	&& p=="MacPPC"){	borders=0;}document.write('<table width="100" border="0" cellspacing="0" cellpadding="0"><tr>');if(borders==1){document.write('<td rowspan="2"><img src="/images/poster_left.gif" width="8" height="203"></td>');}else{document.write('<td rowspan="2"></td>'); }document.write('<td><a class="white" href="' + links[rand] + '" target="_blank"><img border="0" src="/inc/images/' + images[rand] + '" width="134" height="193" alt=""></a></td>');if(borders==1){document.write('<td rowspan="2"><img src="/images/poster_right.jpg" width="7" height="203"></td>');}else{document.write('<td rowspan="2"></td>'); }document.write('</tr><tr>');if(borders==1){document.write('<td><img src="/images/poster_bot.jpg" width="134" height="10"></td>');}if(borders==1){document.write('<td></td>');}document.write('</tr><tr>');document.write('<td background="/images/bg_clear.gif">&nbsp;</td>');document.write('<td align="center" background="/images/bg_clear.gif"><b><span class="white"><a href="' + links[rand] + '" target="_blank">' + movies[rand] + '</a></span></b></td>');document.write('</tr></table>');</script><table width="100" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2"><img src="/images/poster_left.gif" width="8" height="203"></td><td><a class="white" href="http://www.fandango.com/redirect.aspx?mid=90517&amp;source=moviesearch" target="_blank"><img border="0" src="/inc/images/normal/click_lg.jpg" width="134" height="193" alt=""></a></td><td rowspan="2"><img src="/images/poster_right.jpg" width="7" height="203"></td></tr><tr><td><img src="/images/poster_bot.jpg" width="134" height="10"></td><td></td></tr><tr><td background="/images/bg_clear.gif">&nbsp;</td><td align="center" background="/images/bg_clear.gif"><b><span class="white"><a href="http://www.fandango.com/redirect.aspx?mid=90517&amp;source=moviesearch" target="_blank">Click:  Advance Tickets on Sale Now!</a></span></b></td></tr></tbody></table>
+var ua = navigator.userAgent.indexOf("AOL 5.0", 0);var p=navigator.platform;var borders=1;if(ua > 1	&& p=="MacPPC"){	borders=0;}document.write('<table width="100" border="0" cellspacing="0" cellpadding="0"><tr>');if(borders==1){document.write('<td rowspan="2"><img src="/images/poster_left.gif" width="8" height="203"></td>');}else{document.write('<td rowspan="2"></td>'); }document.write('<td><a class="white" href="' + links[rand] + '" target="_blank"><img border="0" src="/inc/images/' + images[rand] + '" width="134" height="193" alt=""></a></td>');if(borders==1){document.write('<td rowspan="2"><img src="/images/poster_right.jpg" width="7" height="203"></td>');}else{document.write('<td rowspan="2"></td>'); }document.write('</tr><tr>');if(borders==1){document.write('<td><img src="/images/poster_bot.jpg" width="134" height="10"></td>');}if(borders==1){document.write('<td></td>');}document.write('</tr><tr>');document.write('<td background="/images/bg_clear.gif">&nbsp;</td>');document.write('<td align="center" background="/images/bg_clear.gif"><b><span class="white"><a href="' + links[rand] + '" target="_blank">' + movies[rand] + '</a></span></b></td>');document.write('</tr></table>');</script><table width="100" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2"><img src="/images/poster_left.gif" width="8" height="203"></td><td><a class="white" href="http://www.fandango.com/redirect.aspx?mid=96539&amp;source=moviesearch&amp;ccode=REGL&amp;a=11481&amp;dte=0" target="_blank"><img border="0" src="/inc/images/normal/saw32_lg.jpg" width="134" height="193" alt=""></a></td><td rowspan="2"><img src="/images/poster_right.jpg" width="7" height="203"></td></tr><tr><td><img src="/images/poster_bot.jpg" width="134" height="10"></td><td></td></tr><tr><td background="/images/bg_clear.gif">&nbsp;</td><td align="center" background="/images/bg_clear.gif"><b><span class="white"><a href="http://www.fandango.com/redirect.aspx?mid=96539&amp;source=moviesearch&amp;ccode=REGL&amp;a=11481&amp;dte=0" target="_blank">Saw III:  Advance Tickets on Sale Now!</a></span></b></td></tr></tbody></table>
 
 	<!-- Added 2003-08-05 GGC Code allows users without Javascript to see the Spotlight -->
 	<noscript>
@@ -636,26 +639,26 @@ rcm_links[1]='http://www.regalcreditcard.com';
 rcm_links2[1]='http://www.regalcreditcard.com';
 rcm_links3[1]='http://www.regalcreditcard.com';
 rcm_images[1]='normal/Website_Graphic.jpg';
-rcm_movies[2]='Order Online!';
-rcm_links[2]='http://www.regmovies.com/cgi-bin/shop/shop.pl?view=gift';
-rcm_links2[2]='http://www.regmovies.com/cgi-bin/shop/shop.pl?view=gift';
-rcm_links3[2]='http://www.regmovies.com/cgi-bin/shop/shop.pl?view=gift';
-rcm_images[2]='normal/SpotlightAd_01.jpg';
-rcm_movies[3]='Watch for More Details!';
-rcm_links[3]='http://www.regalcinemas.com/cgi-bin/shop/shop.pl';
-rcm_links2[3]='http://www.regalcinemas.com/cgi-bin/shop/shop.pl';
-rcm_links3[3]='http://www.regalcinemas.com/cgi-bin/shop/shop.pl';
-rcm_images[3]='normal/GetCardedOnline.jpg';
-rcm_movies[4]='Free Family Film Festival';
-rcm_links[4]='http://www.regmovies.com/freefamilyflicks/index2.jsp';
-rcm_links2[4]='http://www.regmovies.com/freefamilyflicks/index2.jsp';
-rcm_links3[4]='http://www.regmovies.com/freefamilyflicks/index2.jsp';
-rcm_images[4]='normal/ffff06banner.134x193.2.jpg';
-rcm_movies[5]='Regal Crown Club Sweepstakes';
-rcm_links[5]='http://rcc.regalcinemas.com/CrownClub/appmanager/rcc/CrownClub?_nfpb=true&_pageLabel=SWEEPSTAKES';
-rcm_links2[5]='http://rcc.regalcinemas.com/CrownClub/appmanager/rcc/CrownClub?_nfpb=true&_pageLabel=SWEEPSTAKES';
-rcm_links3[5]='http://rcc.regalcinemas.com/CrownClub/appmanager/rcc/CrownClub?_nfpb=true&_pageLabel=SWEEPSTAKES';
-rcm_images[5]='normal/CarsSwpstk134x193.jpg';
+rcm_movies[2]='Win Free Movie Tickets!';
+rcm_links[2]='http://www.ncm.com/cinemeetings/marketing_app/new2/templates/template_6/template_6.asp?tag=107';
+rcm_links2[2]='http://www.ncm.com/cinemeetings/marketing_app/new2/templates/template_6/template_6.asp?tag=107';
+rcm_links3[2]='http://www.ncm.com/cinemeetings/marketing_app/new2/templates/template_6/template_6.asp?tag=107';
+rcm_images[2]='normal/Cinemeetings.jpg';
+rcm_movies[3]='Josh Blue - On the Big Screen!';
+rcm_links[3]='http://www.bigscreenboxoffice.com/subpage/index.asp?EventID=606&code=REGmoviesJB&theatrecode=REG';
+rcm_links2[3]='http://www.bigscreenboxoffice.com/subpage/index.asp?EventID=606&code=REGmoviesJB&theatrecode=REG';
+rcm_links3[3]='http://www.bigscreenboxoffice.com/subpage/index.asp?EventID=606&code=REGmoviesJB&theatrecode=REG';
+rcm_images[3]='normal/JBLUE134X193v6.jpg';
+rcm_movies[4]='Halloween - October 30 & 31 - on the Big Screen!';
+rcm_links[4]='http://www.bigscreenboxoffice.com/subpage/index.asp?EventID=608&code=REGmovies&theatreCode=REG';
+rcm_links2[4]='http://www.bigscreenboxoffice.com/subpage/index.asp?EventID=608&code=REGmovies&theatreCode=REG';
+rcm_links3[4]='http://www.bigscreenboxoffice.com/subpage/index.asp?EventID=608&code=REGmovies&theatreCode=REG';
+rcm_images[4]='normal/96113_HW.REGspotligh312BF7.jpg';
+rcm_movies[5]='Regal Gift Cards - Order Now!';
+rcm_links[5]='http://www.regalcinemas.com/cgi-bin/shop/shop.pl?view=gift';
+rcm_links2[5]='http://www.regalcinemas.com/cgi-bin/shop/shop.pl?view=gift';
+rcm_links3[5]='http://www.regalcinemas.com/cgi-bin/shop/shop.pl?view=gift';
+rcm_images[5]='normal/JustTicket_copy.jpg';
 str=new String(document.location);
 path=new String(str.substring(0,150));
 elms=path.split("/");
@@ -692,7 +695,7 @@ document.write('</tr><tr>');
 document.write('<td background="/images/bg_clear.gif">&nbsp;</td>');
 document.write('<td align="center" background="/images/bg_clear.gif"><b><span class="white"><a href="' + rcm_links[rand] + '" target="_blank">' + rcm_movies[rand] + '</a></span></b><!--!'+rand+'!--></td>');
 document.write('</tr></table>');
-</script><table width="100" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2"><img src="/images/poster_left.gif" width="8" height="203"></td><td><a class="white" href="http://rcc.regalcinemas.com/CrownClub/appmanager/rcc/CrownClub?_nfpb=true&amp;_pageLabel=SWEEPSTAKES" target="_blank"><img border="0" src="/inc/images/normal/CarsSwpstk134x193.jpg" width="134" height="193" alt=""></a></td><td rowspan="2"><img src="/images/poster_right.jpg" width="7" height="203"></td></tr><tr><td><img src="/images/poster_bot.jpg" width="134" height="10"></td><td></td></tr><tr><td background="/images/bg_clear.gif">&nbsp;</td><td align="center" background="/images/bg_clear.gif"><b><span class="white"><a href="http://rcc.regalcinemas.com/CrownClub/appmanager/rcc/CrownClub?_nfpb=true&amp;_pageLabel=SWEEPSTAKES" target="_blank">Regal Crown Club Sweepstakes</a></span></b><!--!5!--></td></tr></tbody></table>
+</script><table width="100" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2"><img src="/images/poster_left.gif" width="8" height="203"></td><td><a class="white" href="http://www.bigscreenboxoffice.com/subpage/index.asp?EventID=608&amp;code=REGmovies&amp;theatreCode=REG" target="_blank"><img border="0" src="/inc/images/normal/96113_HW.REGspotligh312BF7.jpg" width="134" height="193" alt=""></a></td><td rowspan="2"><img src="/images/poster_right.jpg" width="7" height="203"></td></tr><tr><td><img src="/images/poster_bot.jpg" width="134" height="10"></td><td></td></tr><tr><td background="/images/bg_clear.gif">&nbsp;</td><td align="center" background="/images/bg_clear.gif"><b><span class="white"><a href="http://www.bigscreenboxoffice.com/subpage/index.asp?EventID=608&amp;code=REGmovies&amp;theatreCode=REG" target="_blank">Halloween - October 30 &amp; 31 - on the Big Screen!</a></span></b><!--!4!--></td></tr></tbody></table>
 
 				<!-- Added 2003-08-05 GGC Code allows users without Javascript to see the Spotlight -->
 				<noscript>
@@ -720,7 +723,7 @@ document.write('</tr></table>');
 	<!--^^^^^^JSP End Red Section^^^^^^-->
 	</td>
   </tr>
-  <tr> 
+  <tr>
     <td valign="top" align="center"><img src="/images/bot_green.gif" width="202" height="61"></td>
     <td valign="top" align="center">
     <br>
@@ -733,7 +736,7 @@ document.write('</tr></table>');
       <p><img border="0" src="/images/logo_all.gif" width="264" height="33" alt="Regal Cinemas - United Artists Theaters - Edwards Theaters"></p>
       <p> <span class="grey">© 2006 Regal Entertainment Group. All Rights
         Reserved.</span><br><br>
-      </p><center><a target="_blank" href="http://www.mms.com/"><img src="/images/logo-mnms.gif" alt="M&amp;M's" title="M&amp;M's" align="absmiddle" border="0"></a><a target="_blank" href="http://www.coca-cola.com/flashIndex1.html"><img src="/images/logo-coke.gif" width="60" height="59" alt="Coca Cola" title="Coca Cola" align="absmiddle" border="0"></a><a target="_blank" href="http://www.skittles.com/"><img src="/images/logo-skittles.gif" alt="Skittles" title="Skittles" align="absmiddle" border="0"></a></center>
+      </p><center><!--<a target="_blank" href="http://www.mms.com/"><img src="/images/logo-mnms.gif" alt="M&amp;M's" title="M&amp;M's" align="absmiddle" border="0"></a>--><a target="_blank" href="http://www.coca-cola.com/flashIndex1.html"><img src="/images/logo-coke.gif" width="60" height="59" alt="Coca Cola" title="Coca Cola" align="absmiddle" border="0"></a><!--<a target="_blank" href="http://www.skittles.com/"><img src="/images/logo-skittles.gif" alt="Skittles" title="Skittles" align="absmiddle" border="0"></a>--></center>
 <p></p>
 
 	<!--^^^^^^JSP End Footer^^^^^^-->
