@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountsupport.com privacy policy that was archived on 2006-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060326083347id_/https%3A//secure.accountsupport.com/about/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountsupport.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027014208id_/https%3A//secure.accountsupport.com/about/privacy.bml) for the most accurate reproduction.*
 
 # Privacy Statement
 
