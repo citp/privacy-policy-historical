@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearlcrescent.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428164805id_/http%3A//pearlcrescent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearlcrescent.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027003358id_/http%3A//pearlcrescent.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for pearlcrescent.com
 
@@ -42,6 +42,9 @@ If you contact us via email, subscribe to our email newsletter, subscribe to ser
   * Your email address.
   * The content you submit as part of the feedback or bug reporting system.
 
+If you install our software on your computer, we may collect the following additional information: 
+  * A registration code that identifies your copy of the software.
+
 
 
 We collect this information for the following reasons:
@@ -61,6 +64,18 @@ The data we collect is available only to employees and agents of our company.  
 Cookies
 
 We do not use cookies on our web site.
+
+* * *
+
+Third Party Payment Processing Services
+
+If you purchase our products and services, we may use a third party payment processing service provided by [PayPal](http://paypal.com/) to collect funds.  We pass the following information to PayPal: 
+
+  * A unique customer identifier that we use to track payments.
+  * The name and quantity of the product you purchased.
+  * The amount we are asking you to pay.
+
+
 
 * * *
 
