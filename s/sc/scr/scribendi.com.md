@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616120149id_/https%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026074806id_/http%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
 
 # Privacy | Scribendi.com
 
