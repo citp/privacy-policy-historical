@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cramster.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506222137id_/http%3A//www.cramster.com/cramster-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cramster.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026230101id_/http%3A//www.cramster.com/cramster-privacy.aspx) for the most accurate reproduction.*
 
 # Cramster.com - Privacy Policy
 
