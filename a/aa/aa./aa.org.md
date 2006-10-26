@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aa.org privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425051634id_/http%3A//www.aa.org/en_privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aa.org privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026051450id_/http%3A//aa.org/en_privacy_policy.cfm) for the most accurate reproduction.*
 
 # Alcoholics Anonymous
 
