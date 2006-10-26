@@ -1,7 +1,16 @@
-> *The following text is extracted and transformed from the computershopper.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616195600id_/http%3A//www.computershopper.com/4002-7409_9-6483221.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computershopper.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026075040id_/http%3A//computershopper.com/more/privacy_policy) for the most accurate reproduction.*
 
-# Computer Shopper
+# Privacy Statement - Computer Shopper
 
+  
+|   
+---  
+  
+Get hot product recommendations, tech tutorials, and answers to your tech questions.
+
+[Sign up now!](http://computershopper.com/newsletters)  
+  
+  
 **SX2 MEDIA LABS PRIVACY STATEMENT**
 
 This is the official privacy statement that applies to a proprietary network of Web sites owned and controlled by SX2 Media Labs LLC ("SX2", "we," "us", or "our"). We take your privacy seriously and are committed to keeping our users' information secure. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. This privacy statement applies to the Web site that you were viewing when you clicked through to this privacy statement, which is operated by or on behalf of us, or our affiliate. 
@@ -16,8 +25,7 @@ If you are a California resident and request information about how to exercise y
 
 **SX2 Media Labs  
 Chief Strategy Officer  
-28 East 28th Street  
-10th Floor  
+460 Park Avenue South, 9th Floor  
 New York, NY 10016  
 Attn: Your California Privacy Rights**
 
@@ -83,15 +91,6 @@ None of the Web sites within our network is directed towards children under the 
 
 **9\. Questions & Comments**
 
-Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent via e-mail below or to our corporate offices at **SX2 Media Labs 28 East 28th Street 10th Floor New York, NY 10016** , Attention: **Chief Strategy Officer**. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the Web site, or review and discard the information. **info@sx2medialabs.com**
+Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent via e-mail below or to our corporate offices at **SX2 Media Labs 460 Park Avenue South, 9th Floor, New York, NY 10016** , Attention: **Chief Strategy Officer**. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the Web site, or review and discard the information. **info@sx2medialabs.com**
 
 This privacy statement was last modified on March 28, 2006 and is effective immediately. 
-
-  
-
-
-**Exclusive Offer: Subscribe to Computer Shopper**  
-**Get 67% off the newsstand price, plus our Top 50 Downloads CD FREE!**
-
-  
-
