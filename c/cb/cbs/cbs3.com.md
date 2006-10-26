@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs3.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618225237id_/http%3A//cbs3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs3.com privacy policy that was archived on 2006-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061026101527id_/http%3A//cbs3.com/privacy) for the most accurate reproduction.*
 
 # kyw.com - Privacy
 
