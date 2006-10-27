@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnncreative.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616081216id_/http%3A//www.dnncreative.com/Home/PrivacyStatement/tabid/200/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnncreative.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027075358id_/http%3A//www.dnncreative.com/Home/PrivacyStatement/tabid/200/Default.aspx) for the most accurate reproduction.*
 
 # DNN Creative Magazine Privacy Statement
 
