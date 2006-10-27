@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobmarket.com.hk privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618012452id_/http%3A//www.jobmarket.com.hk/others/privacy_policy_statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobmarket.com.hk privacy policy that was archived on 2006-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061028003345id_/http%3A//jobmarket.com.hk/others/privacy_policy_statement.jsp) for the most accurate reproduction.*
 
 # JobMarket 求職廣場
 
@@ -55,9 +55,9 @@ This Internet site contains hyperlinks or references to other web sites. Please 
 Your use of this Internet site is subject to the Terms and Conditions posted on this Internet site which are subject to changes from time to time.
 
 **How to Contact Us**  
-If you have any questions, comments or concerns about this Privacy Policy or the information practices of this Internet site, you may contact us by email to [jobmarket@jobmarket.com.hk](mailto:jobmarket@jobmarket.com.hk) or mail to 5/F., Sing Tao Building, 1 Wang Kwong Road, Kowloon Bay, Kowloon, Hong Kong. 
+If you have any questions, comments or concerns about this Privacy Policy or the information practices of this Internet site, you may contact us by email to [jobmarket@jobmarket.com.hk](mailto:jobmarket@jobmarket.com.hk) or mail to 17/F., Sing Tao News Corporation Building, 3 Tung Wong Road, Shau Kei Wan, Hong Kong. 
 
 **Changes to This Privacy Policy**   
 This Privacy Policy is subject to changes and revisions from time to time. Please check periodically for updated version before you provide any personal information to this Internet site.
 
-This Privacy Policy was last updated on 24 April, 2006. 
+This Privacy Policy was last updated on 07 July, 2006. 
