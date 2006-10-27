@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidesales.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318002937id_/https%3A//www.insidesales.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidesales.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027154323id_/http%3A//www.insidesales.com/terms.html) for the most accurate reproduction.*
 
 # insidesales.com ™
 
