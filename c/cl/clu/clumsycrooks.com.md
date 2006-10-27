@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clumsycrooks.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616204643id_/http%3A//www.clumsycrooks.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clumsycrooks.com privacy policy that was archived on 2006-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061028000826id_/http%3A//clumsycrooks.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Title of Page
 
@@ -15,13 +15,4 @@ ClumsyCrooks.com may use your personally identifiable information to provide you
 Personally identifiable information also may be disclosed to the proper authorities in special situations where ClumsyCrooks.com has reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with ClumsyCrooks.com's rights, property, users, or anyone else who may be harmed by such activities. ClumsyCrooks.com may reveal personally identifiable information when we have been informed by law enforcement authorities or have established a good faith belief that the law requires ClumsyCrooks.com to do so.
 
 We reserve the right to change our privacy policy at any time by posting revisions on the ClumsyCrooks.com web site. This privacy policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party.  
-  
-  
-| **[Add Your Link](http://www.clumsycrooks.com/advertising.php)**  
----|---  
-[ _Date411_](http://www.date411.com/) \- Free online dating service directory with reviews.  
-[ _Hoodia XPF_](http://aff.primaryads.com/t.asp?id=78&e=8846) \- Set your metabolism on fire! My wife lost 23 lbs! Try it free!  
-[ _Are You Naked?_](http://www.noisebot.com/t-shirts_hoodies_tote_bags?gad=CJuh3L0CEgjLTUW2i1IE6Bix_rX9AyCf5I0Z) \- Feel My Tee Tees!  
-[ _Insane_](http://roia.biz/ts/u/2974/a/101730/c/151) \- Man Kills Roommate Over Toilet Paper!  
-[ _No Girlfriend?_](http://www.pheromonereviewsite.com/cmd.php?ad=188556) \- This may help!  
-[ _Keep Me Busy_](http://www.keepmebusy.com/idevaffiliate/idevaffiliate.php?id=104) \- Keeping you from sleeping at work!
+
