@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214018id_/http%3A//www1.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027180911id_/http%3A//www1.bloomingdales.com/service/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Bloomingdale's - Privacy Policy
 
@@ -20,6 +20,7 @@
 | | [Privacy Policy](http://www1.bloomingdales.com/service/policies/privacy.jsp)|   
 | | [California Privacy Rights](http://www1.bloomingdales.com/service/policies/california.jsp)|   
 | | [Fraud Alert](http://www1.bloomingdales.com/service/policies/fraud.jsp)|   
+| | [E-Gift Card Terms](http://www1.bloomingdales.com/service/policies/vgcterms.jsp)|   
 | 
 
 |   
