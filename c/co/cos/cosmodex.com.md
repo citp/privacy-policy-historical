@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmodex.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614124219id_/http%3A//cosmodex.com/def/customPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmodex.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027185816id_/http%3A//cosmodex.com/def/customPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Cosmodex - Privacy Policy
 
