@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201934id_/http%3A//www.i-tech.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-tech.com.au privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027184120id_/http%3A//www.i-tech.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Computer Hardware and Software Australia
 
@@ -71,7 +71,7 @@ Read about what our customers thought of us.
 [**$$ Price Guarantee**](http://www.i-tech.com.au/guarantee.asp)  
 Our Lowest Price Guarantee to you.
 
-[**Delivery Charges**](http://www.i-tech.com.au/freight.asp)  
+[**Delivery/ Pick up**](http://www.i-tech.com.au/freight.asp)  
 Learn about our insured delivery charges, for NSW and interstate purchases.
 
 [**Become an affiliate**](http://www.i-tech.com.au/affiliate.asp)  
