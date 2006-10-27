@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ultramatrix.net privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417220651id_/http%3A//ultramatrix.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultramatrix.net privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027173948id_/http%3A//www.ultramatrix.net/privacy.php) for the most accurate reproduction.*
 
-# 
+# Ultra Matrix Hosting, web Hosting since 2003,
 
 **    This privacy statement demonstrates out commitment to user privacy. We have detailed below our procedures and practices for gathering and using information for Matrix Hosting. **
 
@@ -15,7 +15,7 @@ Browser Level Information
 Data Use   UltraMatrix Hosting reserves the right to contact its members when required. No other parties or companies have access to, or are given data relating to our customers. Members at any time can contact Ultra Matrix  and ask to have their membership terminated and their data removed. A newsletter may be sent out to our members. At any time members can ask to be removed from this mailing list by following the instructions provided in each newsletter. 
 
 Contacting the Web Site  
- If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site please use the [contact form](https://web.archive.org/web/20060417220651id_/http%3A//ultramatrix.net/contacts.php). 
+ If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site please use the [contact form](https://web.archive.org/web/20061027173948id_/http%3A//www.ultramatrix.net/contacts.php). 
 
 **IP address:** Every computer connected to the Internet has a numeric address called an "IP address." This may or may not correspond uniquely to a particular computer. 
 
