@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425080459id_/http%3A//www.acherryontop.com/site.php%3Fid%3D42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027222807id_/http%3A//www.acherryontop.com/site.php%3Fid%3D42) for the most accurate reproduction.*
 
 # A Cherry On Top, Scrapbook Shoppe - Privacy Statement
 
@@ -22,13 +22,13 @@ feel free to Contact Us!
 
   
 **Related Ordering Articles ...**  
-[Customer Credit](https://web.archive.org/web/20060425080459id_/http%3A//www.acherryontop.com/site?id=274)  
-["Rush This Order" Shipping Option](https://web.archive.org/web/20060425080459id_/http%3A//www.acherryontop.com/site?id=195)  
-[40% off coupon code ...](https://web.archive.org/web/20060425080459id_/http%3A//www.acherryontop.com/site?id=157)  
-[An item in my order is out of stock?](https://web.archive.org/web/20060425080459id_/http%3A//www.acherryontop.com/site?id=89)  
-[Back Ordered / Out of Stock Items](https://web.archive.org/web/20060425080459id_/http%3A//www.acherryontop.com/site?id=38)  
-[Payment Options](https://web.archive.org/web/20060425080459id_/http%3A//www.acherryontop.com/site?id=35)  
-[Delivery Time](https://web.archive.org/web/20060425080459id_/http%3A//www.acherryontop.com/site?id=36)  
+[Customer Credit](https://web.archive.org/web/20061027222807id_/http%3A//www.acherryontop.com/site?id=274)  
+["Rush This Order" Shipping Option](https://web.archive.org/web/20061027222807id_/http%3A//www.acherryontop.com/site?id=195)  
+[40% off coupon code ...](https://web.archive.org/web/20061027222807id_/http%3A//www.acherryontop.com/site?id=157)  
+[An item in my order is out of stock?](https://web.archive.org/web/20061027222807id_/http%3A//www.acherryontop.com/site?id=89)  
+[Back Ordered / Out of Stock Items](https://web.archive.org/web/20061027222807id_/http%3A//www.acherryontop.com/site?id=38)  
+[Payment Options](https://web.archive.org/web/20061027222807id_/http%3A//www.acherryontop.com/site?id=35)  
+[Delivery Time](https://web.archive.org/web/20061027222807id_/http%3A//www.acherryontop.com/site?id=36)  
 |  • [Interview: Meet BigSissy73](https://web.archive.org/site?a=456)  
 • [Meet Kathy Moore ...](https://web.archive.org/site?a=453)  
 • [Faces of ACOT ...](https://web.archive.org/site?a=446)  
