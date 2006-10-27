@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusfood.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425192706id_/http%3A//www.campusfood.com/cf_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusfood.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027140058id_/http%3A//www.campusfood.com/content/privacy.asp) for the most accurate reproduction.*
 
 # Campusfood.com - The #1 source for online food ordering at college campuses - Privacy Policy
 
@@ -38,12 +38,12 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 For questions or comments regarding our policies, you may contact us at:
 
-#### Corporate Headquarters
+#### Corporate
 
-Campusfood.com Inc.  
+Campusfood.com  
 39 West 19th Street  
 7th Floor  
-New York, NY 10011
+New York, NY  10011
 
 tel: 888.877.3663  
 fax: 800.886.6226
