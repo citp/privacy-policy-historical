@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flcdatacenter.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004240id_/http%3A//www.doleta.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flcdatacenter.com privacy policy that was archived on 2006-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061027231625id_/http%3A//www.doleta.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy and Security Statement, Employment & Training Administration (ETA) - U.S. Department of Labor
 
