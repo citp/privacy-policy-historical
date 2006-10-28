@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421223812id_/http%3A//ordermotion.com/%3Fp%3DCorporate/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2006-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061028120217id_/http%3A//ordermotion.com/%3Fp%3DCorporate/PrivacyStatement) for the most accurate reproduction.*
 
 # OrderMotion | A Singular Solution For Multi-Channel Commerce
 
   
 
 
-[Home](https://web.archive.org/web/20060421223812id_/http%3A//ordermotion.com/%3Fp%3DCorporate/index.asp) > [Company Information](https://web.archive.org/web/20060421223812id_/http%3A//ordermotion.com/%3Fp%3DCorporate/PrivacyStatement?p=Corporate)
+[Home](https://web.archive.org/web/20061028120217id_/http%3A//ordermotion.com/%3Fp%3DCorporate/index.asp) > [Company Information](https://web.archive.org/web/20061028120217id_/http%3A//ordermotion.com/%3Fp%3DCorporate/PrivacyStatement?p=Corporate)
 
 Privacy Statement
 
