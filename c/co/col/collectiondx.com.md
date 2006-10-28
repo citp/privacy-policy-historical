@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectiondx.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616201803id_/http%3A//www.collectiondx.com/node/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectiondx.com privacy policy that was archived on 2006-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061028175511id_/http%3A//www.collectiondx.com/node/8) for the most accurate reproduction.*
 
 # Privacy Policy | CollectionDX
 
@@ -32,5 +32,8 @@ By e-mail: admin@collectiondx.com
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
 
-Submitted by [joshb](http://www.collectiondx.com/user/2 "View user profile.") on 23 December, 2005 - 10:55.  
-[login](http://www.collectiondx.com/user/login) or [register](http://www.collectiondx.com/user/register) to post comments
+  
+
+
+Submitted by [JoshB](https://web.archive.org/user/2 "View user profile.") on 23 December, 2005 - 10:55.  
+[login](https://web.archive.org/user/login?destination=comment/reply/8%2523comment_form) or [register](https://web.archive.org/user/register?destination=comment/reply/8%2523comment_form) to post comments
