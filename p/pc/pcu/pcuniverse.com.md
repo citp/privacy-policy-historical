@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcuniverse.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316204411id_/http%3A//www.pcuniverse.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcuniverse.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029005905id_/http%3A//www.pcuniverse.com/privacy.asp) for the most accurate reproduction.*
 
-# PC Universe - Privacy Statement
+# PCUniverse.com - - Privacy Statement
 
 | 
 
@@ -13,7 +13,7 @@ Your privacy is important, so we have created the following Privacy and Security
 Name, Address and Phone Number. When you use our web Site, we may request your name, street address, telephone number or other "real world" contact information. We use this information to complete and support your purchases from and use of the PCUniverse.com web site, for internal purposes and to comply with any requirements of law. This information may be disclosed to our staff and to third parties involved in the completion of your transaction, the delivery of your order or the support of your use of the PCUniverse.com web site. With your consent, we also may share your name, street address and credit or debit card information with trusted third party marketing partners.
 
 **Email Address**  
-We may request your email address, or other information needed to contact you online. We use it to complete and support your purchases from and use of the PCUniverse.com web site, and to comply with any requirements of law, to respond to any questions you might have and to provide you with information about specials occurring on the PCUniverse.com web site if you have opted-in to this service on the Account Login page. This information may be disclosed to our staff and to third parties involved in the completion of your transaction, the delivery of your order or the support of your use of the PCUniverse.com website.
+We may request your email address, or other information needed to contact you online. We use it to complete and support your purchases from and use of the PCUniverse.com web site, and to comply with any requirements of law, to respond to any questions you might have and to provide you with information about specials occurring on the PCUniverse.com web site if you have opted-in to this service on the Account Login page. This information may be disclosed to our staff and to third parties involved in the completion of your transaction, the delivery of your order or the support of your use of the PCUniverse.com website. We will not give, sell, or rent your personal information, including email address, or specific account activity to anyone.
 
 **Navigation and Clickstream Data**  
 As you browse our web site, we may gather navigational and clickstream data that shows what pages are visited and how long various features are used. This information will not reveal your identity or be linked to you personally. We use this information to complete and support your purchases from and use of the PCUniverse.com web site and to comply with any requirements of law. This information may be disclosed only to our staff and to third parties involved in the completion of your transaction, the delivery of your order and the support of your use of the PCUniverse.com web site.
