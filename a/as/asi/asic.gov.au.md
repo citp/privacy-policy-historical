@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621044138id_/http%3A//asic.gov.au/asic/asic.nsf/byheadline/Privacy%3FopenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2006-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061028205420id_/http%3A//www.asic.gov.au/asic/asic.nsf/byheadline/Privacy%3FopenDocument) for the most accurate reproduction.*
 
 # Privacy - Australian Securities and Investments Commission
 
@@ -16,7 +16,7 @@ Information that in some way identifies you as a user may be gathered during you
 
 We will not try to identify users or their browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider's logs.
 
-Our website is cookie-free. 
+Our website is cookie-free. However, where we use an external survey provider that provider could use cookies on their website. If this is the case you will be directed to information on the provider's website explaining the use of cookies.
 
 We will only record your e-mail address if you send us an email message containing your email address or supply your email address as part of your contact details on an on-line application. It will not be automatically added to a mailing list. 
 
