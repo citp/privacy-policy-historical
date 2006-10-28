@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forextips.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612220933id_/http%3A//forextips.com/forexpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextips.com privacy policy that was archived on 2006-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061028074326id_/http%3A//www.forextips.com/forexpolicy.htm) for the most accurate reproduction.*
 
 # forex refund policy, MTI. Online Forex Trading in the foreign currency exchange, with live trading calls. Invest in the forex market
 
