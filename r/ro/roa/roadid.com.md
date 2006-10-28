@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadid.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025554id_/http%3A//www.roadid.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadid.com privacy policy that was archived on 2006-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061028190504id_/http%3A//www.roadid.com/privacy.asp) for the most accurate reproduction.*
 
 # Road ID
 
@@ -25,6 +25,6 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 You can correct factual errors in your personally identifiable information by sending us a request detailing the error(s). To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-  In the unlikely event any of the personal information you supply us online is misused, you may redress these issues by contacting us directly at [RoadID@RoadID.com](mailto:RoadID@RoadID.com), 800.345.6336, or by writing Road ID, 221 Grandview Drive, Fort Mitchell, KY  41017.
+  In the unlikely event any of the personal information you supply us online is misused, you may redress these issues by contacting us directly at , 800.345.6336, or by writing Road ID, 221 Grandview Drive, Fort Mitchell, KY  41017.
 
 Should you have questions or concerns about this Privacy Policy, please contact us using the above information. 
