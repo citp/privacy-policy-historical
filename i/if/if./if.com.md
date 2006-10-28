@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619170607id_/http%3A//www.if.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2006-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061028103137id_/http%3A//if.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Intelligent Finance - Privacy policy
 
@@ -126,5 +126,7 @@ The Data Protection Act defines information about the following as 'sensitive': 
 If you apply for insurance or life assurance through us, we may ask you for some 'sensitive' details. We'll only use this information to provide the service you require and we will ask for your explicit consent. 
 
 The Intelligent Finance website contains links to sites operated by persons outside the HBOS Group. We are not responsible for the privacy practices, content, or the product and services provided through those sites.
+
+Back to top
 
 | 
