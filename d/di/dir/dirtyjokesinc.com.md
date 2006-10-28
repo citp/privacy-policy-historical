@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtyjokesinc.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201216id_/http%3A//www.dirtyjokesinc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtyjokesinc.com privacy policy that was archived on 2006-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061028185738id_/http%3A//www.dirtyjokesinc.com/privacy.htm) for the most accurate reproduction.*
 
 # Jokes - The Ultimate Joke Directory! Read them and laugh! - Privacy Policy
 
@@ -16,4 +16,4 @@ No. We only collect personally identifiable information when people voluntarily 
 
 If you have any other questions or concerns about your privacy on Dirtyjokesinc.com, please feel free to contact us by clicking the link below.
 
-[_Contact Us_](https://web.archive.org/web/20060615201216id_/http%3A//www.dirtyjokesinc.com/contact_page.htm)
+[_Contact Us_](https://web.archive.org/web/20061028185738id_/http%3A//www.dirtyjokesinc.com/contact_page.htm)
