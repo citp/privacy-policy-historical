@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gopromos.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627221646id_/http%3A//gopromos.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopromos.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029000427id_/http%3A//www.gopromos.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
 
 # GOpromos.com : Your source for Promotional Items, Promotional Products, and Imprinted Logo Products
 
-Go Promos is committed to protecting the privacy of our customers and visitors to imprintsonline.com. We recognize that any personal information must be maintained and used responsibly.
+Go Promos is committed to protecting the privacy of our customers and visitors to GOpromos.com. We recognize that any personal information must be maintained and used responsibly.
 
 Go Promos collects personal information in an effort to improve our customer's shopping experience. We will never misuse the information you provide. We do not share any e-mail addresses with any outside vendors. We do share your contact information with third party intermediaries - vendors, shipping companies and credit card companies - only to the extent necessary to fulfill your order with Go Promos. These companies are used to process your order and no not retain this information.
 
