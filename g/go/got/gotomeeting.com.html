@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the gotomeeting.com privacy policy that was archived on 2006-03-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060329124120id_/https%3A//www.gotomeeting.com/en_US/island/privacy.tmpl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gotomeeting.com privacy policy that was archived on 2006-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061029235249id_/https%3A//www.gotomeeting.com/en_US/island/privacy.tmpl) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <link rel="SHORTCUT ICON" href="/favicon.ico">
 <title>GoToMeeting : Web conferencing, Online Meetings, Net Meeting, Online Training, Web Conference, Presentation Software, Web conferencing solution, Web collaboration, Web conferencing service, Collaboration software, Web Conferencing Software</title>
 	<meta name="keywords" content="web conferencing, gotomeeting, go to meeting, online training, net meeting, webex, web conference, presentation software, online meetings, web conferencing solution, collaboration software, collaboration tool, web collaboration, online training software, web meeting, web conferencing software, web conferencing service, internet web conferencing, online collaboration, web conferencing tool, live meeting">
@@ -9,8 +9,7 @@
 <meta name="robots" content="index, follow">
 <!---Web Conferencing Solution: online meetings, web conferencing, online training, presentation software, web collaboration, collaboration software, web conferencing software ---->
 	<meta name="author" content="Robin Hernandez">
-	<script language="JavaScript">
-<!--
+	<script type="text/javascript">
 var clickTime = 0;
 function clickTimer() {
 	if (clickTime + 1000 < new Date().getTime()) {
@@ -21,7 +20,7 @@ function clickTimer() {
 	}
 }
 
-function getCenter() {
+function getCenter(retNum) {
 	x = 300; y = 50;
 	if (window.screen) {
 		if(screen.availWidth) {
@@ -34,7 +33,42 @@ function getCenter() {
 	}
 	if (x < 0) { x = 10; } else if (x > 800) { x = 500; }
 	if (y < 0) { y = 10; } else if (y > 600) { y = 500; }
-	return 'screenX='+x+ ',left='+x+ ',screenY='+y+ ',top='+y;
+	if (retNum)
+		return new Array(x, y);
+	else
+		return 'screenX='+x+ ',left='+x+ ',screenY='+y+ ',top='+y;
+}
+
+
+function getMouseCoords(e) {	
+	var coordX = 0;
+	var coordY = 0;
+	if (!e) var e = window.event;
+	if (e.pageX || e.pageY) {
+		coordX = e.pageX;
+		coordY = e.pageY;
+	} else if (e.clientX || e.clientY) {
+		coordX = e.clientX + document.body.scrollLeft;
+		coordY = e.clientY + document.body.scrollTop;
+	} else { return null;	}
+	if (coordX < 0)	coordX = 0;
+	if (coordY < 0)	coordY = 0;
+	return (new Array(coordX, coordY));
+}
+
+
+function popupLite(divId, doShow, event, _wid) {
+	theDiv = document.getElementById(divId);
+	if (_wid)	theDiv.style.width = _wid;
+	theDiv.style.display = (doShow) ? "block" : "none";
+	if (doShow && event) {
+		coords = getMouseCoords(event);
+		divWidth = (theDiv.style.width) ? theDiv.style.width : 400;
+		divHeight = (theDiv.style.height) ? theDiv.style.height : 300;
+		theDiv.style.left = (coords[0] - Math.round(divWidth / 4) >= 0) ? coords[0] - Math.round(divWidth / 4) : 100;
+		theDiv.style.top = (coords[1] - Math.round(divHeight / 1.2) >= 0) ? coords[1] - Math.round(divHeight / 1.2) : 100;
+	}
+	return false;
 }
 
 function popup(_url, _ttl, _wid, _hig, _lft, _top, _sbr, _tbr, _lbr, _stt, _mbr, _rsz) {
@@ -63,15 +97,19 @@ function goUrl(_url) {
 	return false;
 }
 
-//-->
+
+
 </script>
 <link rel="stylesheet" type="text/css" href="/default/html/main.css">
+<link rel="stylesheet" type="text/css" href="/default/html/popupLite.css">
 </head>
 
 <body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="ffffff" text="000000" alink="003366" vlink="003366" link="003366"><a name="top"></a>
 
 
                 
+
+
 
 
 
@@ -97,8 +135,10 @@ function goUrl(_url) {
     var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
     var hbx=_hbEvent("pv");
     hbx.vpc="HBX0100u";
-    hbx.gn="ehg-citrixonline.hitbox.com";
+
+        hbx.gn="ehg-citrixonline.hitbox.com";
     hbx.acct="DM540303E9FB94EN3";
+    
     hbx.pn="/privacy.tmpl";
             hbx.pndef="title";
     hbx.ctdef="current";
@@ -107,13 +147,12 @@ function goUrl(_url) {
             //-->
     </script>
     <script language="javascript1.1" defer="" src="/default/images/ad/hbx.js"></script>
-
  
  
 
 <table cellpadding="0" cellspacing="0" border="0" width="796">
 	<tbody><tr>
-		<td background="/default/images/header.gif" height="54"><a href="/en_US/entry/entry.tmpl"><img src="/default/images/g2m_logo.gif" width="202" height="46" border="0"></a></td>
+		<td background="/default/images/header.gif" height="54"><a href="/en_US/entry/entry.tmpl"><img src="/default/images//g2m%5flogo.gif" width="202" height="46" border="0"></a></td>
 	</tr>
 </tbody></table>
 <table cellpadding="0" cellspacing="0" border="0" width="796">
@@ -130,71 +169,72 @@ function goUrl(_url) {
 			<td height="20" width="29" align="right"><img src="/default/images/bullet.gif" width="19" height="7"></td>
 			<td width="140"><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/island/login.tmpl" id="lnl">Log In</a></font></td>
 		</tr>
-	<tr>
-		<td height="20" align="right"><img src="/default/images/bullet.gif" width="19" height="7"></td>
-		<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/entry/entry.tmpl" id="lnl">Home</a></font></td>
-	</tr>
-	<tr>
-		<td height="20" align="right"><img src="/default/images/bullet_plus.gif" width="19" height="7"></td>
-		<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/pre/productOverview.tmpl" id="lnl">Product Overview</a></font></td>
-	</tr>
-	<tr>
-		<td height="20" align="right"><img src="/default/images/bullet_plus.gif" width="19" height="7"></td>
-		<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/pre/howItWorks.tmpl" id="lnl">How It Works</a></font></td>
-	</tr>
+
 		<tr>
 			<td height="20" align="right"><img src="/default/images/bullet.gif" width="19" height="7"></td>
+			<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/entry/entry.tmpl" id="lnl">Home</a></font></td>
+		</tr>
+		<tr>
+				<td height="20" align="right"><img src="/default/images/bullet%5fplus.gif" width="19" height="7"></td>
+			<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/pre/productOverview.tmpl" id="lnl">Product Overview</a></font></td>
+		</tr>
+			<tr>
+				<td height="20" align="right"><img src="/default/images/bullet%5fplus.gif" width="19" height="7"></td>
+			<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/pre/howItWorks.tmpl" id="lnl">How It Works</a></font></td>
+		</tr>
+					<tr>
+				<td height="20" align="right"><img src="/default/images/bullet.gif" width="19" height="7"></td>
 		<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/register/register.tmpl?RandomSet=try" id="lnl">Free Trial</a></font></td>
 	</tr>
-		<tr>
-			<td height="20" align="right"><img src="/default/images/bullet.gif" width="19" height="7"></td>
+			<tr>
+				<td height="20" align="right"><img src="/default/images/bullet.gif" width="19" height="7"></td>
 		<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/register/register.tmpl?RandomSet=buy" id="lnl">Buy Now</a></font></td>
 	</tr>
+			<tr>
+				<td height="20" align="right"><img src="/default/images/bullet%5fplus.gif" width="19" height="7"></td>
+			<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/pre/pricing.tmpl" id="lnl">Pricing</a></font></td>
+		</tr>
+			<tr>
+				<td height="20" align="right"><img src="/default/images/bullet%5fplus.gif" width="19" height="7"></td>
+			<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/pre/aboutUs.tmpl" id="lnl">About Us</a></font></td>
+		</tr>
+			<tr>
+				<td height="20" align="right"><img src="/default/images/bullet%5fplus.gif" width="19" height="7"></td>
+			<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/pre/news/newsroom.tmpl" id="lnl">Newsroom</a></font></td>
+		</tr>
+			<tr>
+			<td height="20" align="right"><img src="/default/images/bullet.gif" width="19" height="7"></td>
+			<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/pre/support.tmpl" id="lnl">Support</a></font></td>
+		</tr>
+
 	<tr>
-		<td height="20" align="right"><img src="/default/images/bullet_plus.gif" width="19" height="7"></td>
-		<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/pre/pricing.tmpl" id="lnl">Pricing</a></font></td>
+		<td colspan="2" height="20"></td>
 	</tr>
 	<tr>
-		<td height="20" align="right"><img src="/default/images/bullet_plus.gif" width="19" height="7"></td>
-		<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/pre/aboutUs.tmpl" id="lnl">About Us</a></font></td>
+		<td colspan="2" background="/default/images/dotted%5fline.gif"><img src="/default/images/1x1.gif"></td>
 	</tr>
-	<tr>
-		<td height="20" align="right"><img src="/default/images/bullet_plus.gif" width="19" height="7"></td>
-		<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/pre/news/newsroom.tmpl" id="lnl">Newsroom</a></font></td>
-	</tr>
-	<tr>
-		<td height="20" align="right"><img src="/default/images/bullet.gif" width="19" height="7"></td>
-		<td><font face="arial,verdana,helvetica" size="2" color="003366" id="lnt"><a href="/en_US/island/support.tmpl" id="lnl">Support</a></font></td>
-	</tr>
-	<tr>
-		<td colspan="2" height="20"><font face="arial" size="1" id="lnt">&nbsp;</font></td>
-	</tr>
-	<tr>
-		<td colspan="2" background="/default/images/dotted_line.gif"><img src="/default/images/1x1.gif"></td>
-	</tr>
-</tbody></table>
- 		</td>
+</tbody></table> 		</td>
 		<td bgcolor="b1b1b1"><img src="/default/images/1x1.gif" height="409" width="1"></td>
 		<td align="center" width="625">
-<table cellpadding="0" cellspacing="0" border="0" width="625">
+ <table cellpadding="0" cellspacing="0" border="0" width="625">
 	<tbody><tr bgcolor="f2f8fc">
 		<td width="20" height="44"><font face="arial" size="1" id="lnt">&nbsp;</font></td>
 		<td width="605"><font face="verdana,arial,helvetica" size="3" color="003366"><b>Privacy Policy</b></font></td>
 	</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" border="0">
+</tbody></table> <table cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 		<td height="18"></td>
 	</tr>
 </tbody></table>
-
+<div id="messages">
+        </div>
 <table cellpadding="0" cellspacing="0" border="0" width="586">
 	<tbody><tr>
 		<td>
 		<table cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
 				<td valign="bottom" width="100%"><font face="arial,verdana,helvetica" size="2" id="t"><b>Last Updated: March 8, 2006</b></font></td>
-				<td><a href="https://www.truste.org/ivalidate.php?url=www.gotomeeting.com&amp;sealid=101" target="_blank"><img src="/default/images/clickseal.gif" width="91" height="73" border="0"></a></td>
+				<td><a href="http://www.truste.org/ivalidate.php?url=www.gotomeeting.com&amp;sealid=101" target="_blank"><img src="/default/images/clickseal.gif" width="91" height="73" border="0"></a></td>
 			</tr>
 		</tbody></table>
 		</td>
@@ -261,7 +301,21 @@ function goUrl(_url) {
 		</tr>
 		<tr valign="top">
 			<td><font face="arial,verdana,helvetica" size="2" id="t"><b>7.</b></font></td>
-			<td><font face="arial,verdana,helvetica" size="2" id="t"><b><a href="/en_US/island/privacy.tmpl#q7">Who can I ask if I have additional questions?</a></b></font></td>
+			<td><font face="arial,verdana,helvetica" size="2" id="t"><b><a href="/en_US/island/privacy.tmpl#q7">What does Citrix Online do with Recommend Us/Referral information?</a></b></font></td>
+		</tr>
+		<tr>
+			<td height="4"></td>
+		</tr>
+		<tr valign="top">
+			<td><font face="arial,verdana,helvetica" size="2" id="t"><b>8.</b></font></td>
+			<td><font face="arial,verdana,helvetica" size="2" id="t"><b><a href="/en_US/island/privacy.tmpl#q8">What does Citrix Online do with information submitted through the Become a Partner link?</a></b></font></td>
+		</tr>
+		<tr>
+			<td height="4"></td>
+		</tr>
+		<tr valign="top">
+			<td><font face="arial,verdana,helvetica" size="2" id="t"><b>9.</b></font></td>
+			<td><font face="arial,verdana,helvetica" size="2" id="t"><b><a href="/en_US/island/privacy.tmpl#q9">Who can I ask if I have additional questions?</a></b></font></td>
 		</tr>
 	</tbody></table>
 	</td>
@@ -486,7 +540,49 @@ function goUrl(_url) {
 	<td><a name="q7"><img src="/default/images/1x1.gif" width="1" height="10"></a></td>
 </tr>
 <tr>
-	<td><font face="arial,verdana,helvetica" size="2" id="t"><b>7. Who can I ask if I have additional questions?</b></font></td>
+	<td><font face="arial,verdana,helvetica" size="2" id="t"><b>7. What does Citrix Online do with Recommend Us/Referral information?</b></font></td>
+</tr>
+<tr>
+	<td height="10"></td>
+</tr>
+<tr>
+	<td><font face="arial,verdana,helvetica" size="2" id="t">If a user elects to use our referral service, Recommend Us, for informing a friend about our site, we ask the user for the friend's name and email address. At your request, the friend will then receive a one-time automated email inviting them to a free trial of GoToMeeting.</font></td>
+</tr>
+<tr>
+	<td height="10"></td>
+</tr>
+<tr>
+	<td><font face="arial,verdana,helvetica" size="2" id="t">Citrix Online does not store the mail sent, but does keep a record of who sent the email and to whom it was sent. To request the removal of this information from our database, the friend may contact Citrix Online by sending a message to <a href="mailto:privacy@citrixonline.com">privacy@citrixonline.com</a>.</font></td>
+</tr>
+<tr>
+	<td height="10"></td>
+</tr>
+<tr>
+	<td><font face="arial,verdana,helvetica" size="2" id="t"><a href="#top">Back to top</a></font></td>
+</tr>
+<tr>
+	<td><a name="q8"><img src="/default/images/1x1.gif" width="1" height="10"></a></td>
+</tr>
+<tr>
+	<td><font face="arial,verdana,helvetica" size="2" id="t"><b>8. What does Citrix Online do with information submitted through the Become a Partner link?</b></font></td>
+</tr>
+<tr>
+	<td height="10"></td>
+</tr>
+<tr>
+	<td><font face="arial,verdana,helvetica" size="2" id="t">Information submitted to us via the Become a Partner link is completely voluntary and enables us to provide you with information on Citrix Online partnership opportunities. You may submit this information via our online form at <a href="/en_US/pre/partner.tmpl" onclick="return goUrl('/en_US/pre/partner.tmpl')">https://www.gotomeeting.com/en_US/pre/partner.tmpl</a>. All information submissions are voluntary and will be used solely to provide information to you at your request. In keeping with our privacy policy standards, we will never voluntarily share personally identifiable information submitted to us about partnership opportunities with any third party without your express consent or unless compelled by applicable state and federal laws.</font></td>
+</tr>
+<tr>
+	<td height="10"></td>
+</tr>
+<tr>
+	<td><font face="arial,verdana,helvetica" size="2" id="t"><a href="#top">Back to top</a></font></td>
+</tr>
+<tr>
+	<td><a name="q9"><img src="/default/images/1x1.gif" width="1" height="10"></a></td>
+</tr>
+<tr>
+	<td><font face="arial,verdana,helvetica" size="2" id="t"><b>9. Who can I ask if I have additional questions?</b></font></td>
 </tr>
 <tr>
 	<td height="10"></td>
@@ -515,15 +611,15 @@ function goUrl(_url) {
 	</tr>
 	<tr>
 		<td><img src="/default/images/1x1.gif" width="16" height="1"></td>
-		<td width="680">
-		<table cellpadding="0" cellspacing="0" border="0">
+		<td width="670">
+		<table cellpadding="0" cellspacing="0" border="0" width="670">
 			<tbody><tr>
 				<td height="10"></td>
 			</tr>
 				<tr>
-						<td><font face="verdana,arial,helvetica" size="1" color="b7b7b7"><a href="/en_US/island/support.tmpl"><font color="b7b7b7">Support</font></a>
+						<td><font face="verdana,arial,helvetica" size="1" color="b7b7b7"><a href="/en_US/pre/support.tmpl"><font color="b7b7b7">Support</font></a>
 		&nbsp;|&nbsp;
-								<a href="/en_US/pre/recommendUs.tmpl"><font color="b7b7b7">Recommend Us</font></a>
+								<a href="/en_US/pre/recommendUs.tmpl"><font color="b7b7b7">Send a Friend a Free Trial</font></a>
 		&nbsp;|&nbsp;
 					<a href="/en_US/pre/partner.tmpl"><font color="b7b7b7">Become a Partner</font></a>
 			&nbsp;|&nbsp;
@@ -544,7 +640,7 @@ function goUrl(_url) {
 			</tr>
 		</tbody></table>
 		</td>
-		<td width="100" align="right"><a href="http://www.citrixonline.com" target="_blank"><img src="/default/images/citrix_online_logo.gif" width="110" height="24" vspace="18" border="0"></a></td>
+		<td width="110" align="right"><a href="http://www.citrixonline.com" target="_blank"><img src="/default/images/citrix%5fonline%5flogo.gif" width="110" height="24" vspace="18" border="0"></a></td>
 	</tr>
 	<tr>
 		<td colspan="3" bgcolor="b1b1b1"><img src="/default/images/1x1.gif"></td>
@@ -553,6 +649,8 @@ function goUrl(_url) {
 		<td height="20"></td>
 	</tr>
 </tbody></table>
+
+
 
 
 
