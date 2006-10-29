@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifanboy.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513151929id_/http%3A//ifanboy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifanboy.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029072519id_/http%3A//www.ifanboy.com/privacy.html) for the most accurate reproduction.*
 
 # iFanboy: Rising Like a Phoenix
 
