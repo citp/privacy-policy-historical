@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316104110id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx%3Fo%3D%21BNPR0%26cm_sp%3DGlobal%2ABN%2APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029204059id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx%3Fo%3D%21BNPR0%26cm_sp%3DGlobal%2ABN%2APrivacy) for the most accurate reproduction.*
 
-# Privacy Policy - HSN
+# Privacy Policy at HSN.com
 
-|  | 
-
-|    
+|  |  | [](http://hsn.eprize.net/hsnwinnerwonderland/index.tbapp?affiliate_id=1f) |   
+---|---  
+  
+  
   
 ---  
   
@@ -14,23 +15,6 @@ We are determined to maintain a useful and interesting online environment for ou
 
 Please read on for more details about our privacy policy.   
   
-  
-
-* **What information do we collect online? How do we use it?**   
-
-* **Do we share our information with others?**   
-
-* **How do we use email?**   
-
-* **How can you elect not to receive offers and email?**   
-
-* **How can you verify and correct personal information?**   
-
-* **How do we protect our customers' information?**   
-
-* **Your acceptance of these terms**   
-
-* **How do you contact us with questions or comments?**  
 What information do we collect online? How do we use it?
 
 merchandise orders   
@@ -73,9 +57,7 @@ Most web browsers automatically accept cookies, but you can usually change your 
 generally   
 The use of tracking tools and cookies are industry standard – you’ll find them at most major web sites. 
 
-We analyze data gathered by means of tracking tools and cookies only in the aggregate or for segments of our customer base, and not at the individual customer level. We do not include personally identifiable information, such as your name and email address, in this analysis. Other than referring URLs, we do not follow your browsing path outside of hsn.com 
-
-Return to Top  
+We analyze data gathered by means of tracking tools and cookies only in the aggregate or for segments of our customer base, and not at the individual customer level. We do not include personally identifiable information, such as your name and email address, in this analysis. Other than referring URLs, we do not follow your browsing path outside of hsn.com   
   
 Do we share our information with others?
 
@@ -95,14 +77,12 @@ It is possible that we could decide to sell one or more of the urls or businesse
 
 We may also disclose your information when we determine it is necessary to comply with applicable laws or to protect the interests or safety of HSN or other visitors to hsn.com. 
 
-Except as described in this statement of our Privacy Policy, we will not sell, rent or otherwise disclose your personally identifiable or other information to any non-affiliated third party. 
-
-Return to Top  
+Except as described in this statement of our Privacy Policy, we will not sell, rent or otherwise disclose your personally identifiable or other information to any non-affiliated third party.   
   
   
 How do we use email?
 
-Except as described above under  2\. Do we share your information with others?, we do not share your email address with third parties for any purpose.
+Except as described above under 2\. Do we share your information with others?, we do not share your email address with third parties for any purpose.
 
 We send one email message to confirm each order you make, and we occasionally send you other email messages containing information specifically relating to your order (such as shipping delays). We also send one email message to each winner of our contests and sweepstakes. 
 
@@ -110,57 +90,42 @@ On rare occasions we send out strictly service related email announcements. Thes
 
 When you first place an order and set up your customer profile, we offer a selection of special interest categories for you to indicate your interests and preferences. We will automatically send you information on upcoming events, new products and special offers we think you’ll be interested in based on the interests and preferences you indicate and on your purchase history. You can return to your customer profile at any time to modify your selections at Update Profile. We will also send you promotional emails if you enter a sweepstakes, contest or other promotional feature on our site, or if you provide your email address when you submit an online request for cable service. Your customer profile also provides you with the ability to opt out of promotional messages. For more information on how to opt out, see 4\. How can you elect not to receive offers and email?
 
-Click [here](https://web.archive.org/cs/email_us/default.aspx) to contact our Customer Service department via email with questions, requests and comments. You can also email HSN’s show hosts. We encourage your communications, since we use your input to improve our site and the products and services we offer. We review every email we receive. Although we are not staffed to respond to all individual emails, we will respond to your customer service requests and inquiries when appropriate and to other messages when appropriate and as time permits. 
-
-Return to Top  
+You can also email HSN’s show hosts. We encourage your communications, since we use your input to improve our site and the products and services we offer. We review every email we receive. Although we are not staffed to respond to all individual emails, we will respond to your customer service requests and inquiries when appropriate and to other messages when appropriate and as time permits.   
   
 How can you elect not to receive offers and email?
 
-If you prefer not to receive promotional emails regarding upcoming events, new products and services, and special offers, you can make the appropriate selections when you set up your customer profile. (See Section  3\. How do we use email?, above.) Or you can return to your customer profile to change your selections at the Update Profile form on our site. Also, every one of the promotional emails we send provides you with a way to opt out of receiving further emails. Or, click [ here](https://web.archive.org/cs/email_us/default.aspx) to email our Customer Service department to opt out of receiving further promotional emails. 
-
-Return to Top  
+If you prefer not to receive promotional emails regarding upcoming events, new products and services, and special offers, you can make the appropriate selections when you set up your customer profile. (See Section 3\. How do we use email?, above.) Or you can return to your customer profile to change your selections at the Update Profile form on our site. Also, every one of the promotional emails we send provides you with a way to opt out of receiving further emails.   
   
   
 How can you verify and correct personal information?
 
-You can check your personal information in your customer profile by navigating to Update Profile on our site. If any of this information is incorrect, you can make appropriate changes. However, you cannot delete your customer account information entirely. If you have any question about the accuracy of your personal information, you can contact us online, or by email, telephone or mail. (See  8\. How can you contact us with questions or comments, below.)
+You can check your personal information in your customer profile by navigating to Update Profile on our site. If any of this information is incorrect, you can make appropriate changes. However, you cannot delete your customer account information entirely. If you have any question about the accuracy of your personal information, you can contact us online, or by email, telephone or mail. (See 8\. How can you contact us with questions or comments, below.)
 
 You can access your order by clicking on Order Status or by calling our Customer Service department at 1-800-933-2887. 
 
-You cannot access other information that we collect, but this is limited to information that you have provided (such as chatroom messages), and information that is not personally identifiable. 
-
-Return to Top  
+You cannot access other information that we collect, but this is limited to information that you have provided (such as chatroom messages), and information that is not personally identifiable.   
   
   
 How do we protect our customers' information?
 
-[hsn.com](https://web.archive.org/default.aspx) is committed to online data security. Although total security does not exist on the Internet, we take reasonable steps to work towards assuring the secure storage of your information. We utilize industry standard efforts, such as firewalls, Secure Socket Layers and encryption software, to protect the transmission of information between your PC and our servers. We store information relating to our customers on servers that are kept in a secure environment. While we use Secure Socket Layer encryption to protect sensitive information online, we also seek to protect your information offline by only allowing certain authorized employees to access your information. 
+hsn.com is committed to online data security. Although total security does not exist on the Internet, we take reasonable steps to work towards assuring the secure transmission and storage of your information. We utilize industry standard efforts, such as firewalls, Secure Socket Layers and encryption software, to protect the transmission of information between your PC and our servers. We store information relating to our customers on servers that are kept in a highly secure environment. While we use Secure Socket Layer encryption to protect sensitive information online, we also seek to protect your information offline by only allowing certain authorized employees to access your information. 
 
 Our site contains links to other sites. HSNi and hsn.com are not responsible for the privacy practices of these other sites. We encourage you to be aware when you leave our site, and to read the privacy statements of each web site that collects personally identifiable information. Some linked sites are co-branded with our trademarks and those of our business partners. They may have the look and feel of hsn.com, but the URL in your browser window will indicate that you are visiting a different site. This statement of HSNi and hsn.com’s privacy practices applies only to information collected by hsn.com. 
 
-Also, please keep in mind whenever you give out personal information in a public online forum - for example, in chatrooms or bulletin boards - that information can be collected and used by people you don't know. While we strive to protect your personal information and privacy, you disclose information to others in these public forums at your own risk. 
-
-Return to Top  
+Also, please keep in mind whenever you give out personal information in a public online forum - for example, in chatrooms or bulletin boards - that information can be collected and used by people you don't know. While we strive to protect your personal information and privacy, you disclose information to others in these public forums at your own risk.   
   
   
 Your acceptance of these practices
 
-By using our site, you agree to these privacy practices. If you do not agree to these practices, please do not use our site. If we change our privacy practices, we will prominently post the changes on this page so that you can always know what information we collect, how we use it and under what circumstances we share it. If we are going to use or share your personally identifiable information that we collected before the change in a manner that is materially different from our practices as disclosed at the time of collection, we will notify you by email and provide you with a choice as to whether or not we use or share your information in this materially different manner. Otherwise, your continued use of our site following the posting of changes will mean you accept those changes. 
-
-Return to Top  
-  
+By using our site, you agree to these privacy practices. If you do not agree to these practices, please do not use our site. If we change our privacy practices, we will prominently post the changes on this page so that you can always know what information we collect, how we use it and under what circumstances we share it. If we are going to use or share your personally identifiable information that we collected before the change in a manner that is materially different from our practices as disclosed at the time of collection, we will notify you by email and provide you with a choice as to whether or not we use or share your information in this materially different manner. Otherwise, your continued use of our site following the posting of changes will mean you accept those changes.   
   
 How do you contact us with questions or comments?
 
 We're always happy to answer your questions and listen to your comments.   
 We offer several options for you to contact us: 
 
-Online: [hsn.com online Customer Service](https://web.archive.org/cs/default.aspx)
+By Email: Click here
 
-By Email: [Click here](https://web.archive.org/cs/email_us/default.aspx)
+By Phone: Call 1-800-933-2887, 8 AM - 1 AM Eastern Time. 
 
-By Phone: Call 1-800-933-2887, 8 AM - 1 AM Eastern Time. 
-
-By Mail:  HSN Interactive LLC, Attn: Customer Service, 1 HSN Drive, St. Petersburg, FL 33729 
-
-Return to Top
+By Mail: HSN Interactive LLC, Attn: Customer Service, 1 HSN Drive, St. Petersburg, FL 33729 
