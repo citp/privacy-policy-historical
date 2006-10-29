@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growthink.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021222id_/http%3A//www.growthink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growthink.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029043835id_/http%3A//www.growthink.com/privacy.html) for the most accurate reproduction.*
 
 # Growthink Business Plans, Business Plan Advice, Investment Banking and Research
 
