@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yvr.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050427id_/http%3A//yvr.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yvr.ca privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029121043id_/http%3A//yvr.ca/privacy.asp) for the most accurate reproduction.*
 
 # YVR | Privacy
 
@@ -14,6 +14,6 @@ Vancouver International Airport Authority (the "Authority") is committed to prot
 
 **Links** This website contains links to third party sites. The Authority is not responsible for the collection of personal information nor the privacy of such information on third party sites. 
 
-If you have any questions or concerns with respect to this privacy statement, please send an email through [contact us](https://web.archive.org/web/20060615050427id_/http%3A//yvr.ca/contact.asp). 
+If you have any questions or concerns with respect to this privacy statement, please send an email through [contact us](https://web.archive.org/web/20061029121043id_/http%3A//yvr.ca/contact.asp). 
 
 The Authority reserves the right to change this privacy statement at any time. Such changes will be posted on this page and in compliance with applicable federal privacy laws. 
