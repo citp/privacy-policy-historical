@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627001843id_/http%3A//www.acer.edu.au/shared/pages/disclaimers.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029055938id_/http%3A//www.acer.edu.au/shared/pages/disclaimers.html) for the most accurate reproduction.*
 
 # ACER - Australian Council for Educational Research
 
@@ -10,7 +10,7 @@ Credits
 
 ACER Privacy Policy
 
-Click here to download the [ACER Privacy Policy (PDF:80kb)](https://web.archive.org/web/20060627001843id_/http%3A//www.acer.edu.au/shared/pages/documents/ACER_Privacy_Policy.pdf)
+Click here to download the [ACER Privacy Policy (PDF:80kb)](https://web.archive.org/web/20061029055938id_/http%3A//www.acer.edu.au/shared/pages/documents/ACER_Privacy_Policy.pdf)
 
 Protecting your privacy is important to ACER. 
 
@@ -159,7 +159,7 @@ Please note that ACER charges an administrative fee of $25.00 for providing acce
 Please note that if ACER determines that you may access your Personal Information only by supervised inspection of our records an additional fee may apply. Should this be the case ACER will inform you regarding the amount of the additional fee.
 
 How to Register your Enquiry  
-Please download, print and complete [this request form (PDF:130kb)](https://web.archive.org/web/20060627001843id_/http%3A//www.acer.edu.au/shared/pages/documents/as_privacy.pdf), and mail it to: 
+Please download, print and complete [this request form (PDF:130kb)](https://web.archive.org/web/20061029055938id_/http%3A//www.acer.edu.au/shared/pages/documents/as_privacy.pdf), and mail it to: 
 
 The Privacy Officer   
 Assessment Services   
