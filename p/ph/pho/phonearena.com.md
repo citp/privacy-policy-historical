@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonearena.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321051442id_/http%3A//phonearena.com/htmls/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonearena.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029181307id_/http%3A//www.phonearena.com/htmls/privacy.php) for the most accurate reproduction.*
 
 # phoneArena.com rivacy Policy
 
