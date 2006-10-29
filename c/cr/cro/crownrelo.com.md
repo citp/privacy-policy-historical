@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crownrelo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205615id_/http%3A//crownrelo.com/web/relo.nsf/privacy.policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownrelo.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029192213id_/http%3A//crownrelo.com/web/relo.nsf/privacy.policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
