@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628234617id_/http%3A//www.reghardware.com/Design/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghardware.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029204620id_/http%3A//www.reghardware.com/Design/page/privacy) for the most accurate reproduction.*
 
 # Your Privacy and Reg Hardware
 
 ### Reg Hardware is owned and operated by Situation Publishing.
 
-Situation Publishing   
-410 The Bon Marche Centre   
-London   
-SW9 8BJ
+Situation Publishing  
+67/69 Whitfield Street  
+London  
+W1T 4HF
 
 Reg Hardware strongly believes in the importance of keeping readers' personal information personal. It will never use your information for any use beyond that stated or the permissions you give us.
 
@@ -21,15 +21,8 @@ The Reg Hardware site sets cookies in order to help with the management of its a
 
 ### Advertising
 
-Reg Hardware runs advertising for a wide variety of organisations. These adverts are served from our own advertising server, [Falk AdSolution](http://www.falkag.com/), as well as from third-party ad servers managed by the advertiser. Recent third-party ad servers include DoubleClick, Atlas DMT and BlueStreak
+We use a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognise a unique 'cookie' on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please [click here](http://www.doubleclick.net/us/corporate/privacy).
 
-These ad servers may attempt to set cookies on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of advert delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
-
-The respective privacy policies of these ad servers can be found here :
-
-[Falk AdSolution Privacy Policy](http://www.falkag.com/page.php?Id=58)   
-[DoubleClick Privacy Policy](http://www.doubleclick.com/us/about_doubleclick/privacy/)   
-[Atlas DMT Privacy Policy](http://www.atlasdmt.com/privacy/)   
 DoubleClick also has a cookie opt-out facility [here](http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/).
 
 If you encounter any problems with advertising please email [webmaster@theregister.co.uk](mailto:webmaster@theregister.co.uk)
