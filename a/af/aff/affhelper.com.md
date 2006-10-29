@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affhelper.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615015723id_/http%3A//www.affhelper.com/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affhelper.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029040122id_/http%3A//www.affhelper.com/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
