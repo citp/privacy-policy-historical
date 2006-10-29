@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotomeeting.com privacy policy that was archived on 2006-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060329124120id_/https%3A//www.gotomeeting.com/en_US/island/privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotomeeting.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029235249id_/https%3A//www.gotomeeting.com/en_US/island/privacy.tmpl) for the most accurate reproduction.*
 
 # GoToMeeting : Web conferencing, Online Meetings, Net Meeting, Online Training, Web Conference, Presentation Software, Web conferencing solution, Web collaboration, Web conferencing service, Collaboration software, Web Conferencing Software
 
@@ -13,9 +13,8 @@
 | [Pricing](https://web.archive.org/en_US/pre/pricing.tmpl)  
 | [About Us](https://web.archive.org/en_US/pre/aboutUs.tmpl)  
 | [Newsroom](https://web.archive.org/en_US/pre/news/newsroom.tmpl)  
-| [Support](https://web.archive.org/en_US/island/support.tmpl)  
-   
-|  |  | **Last Updated: March 8, 2006** | [](https://www.truste.org/ivalidate.php?url=www.gotomeeting.com&sealid=101)  
+| [Support](https://web.archive.org/en_US/pre/support.tmpl)  
+|  |  | **Last Updated: March 8, 2006** | [](http://www.truste.org/ivalidate.php?url=www.gotomeeting.com&sealid=101)  
 ---|---  
 By registering your details with us you confirm that you have read, understood and agree to the provisions of this Privacy Policy and to our Terms of Service. Citrix Online, a division of Citrix Systems Inc., is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [GoToMeeting](https://web.archive.org/en_US/entry/entry.tmpl) (https://www.gotomeeting.com), a site hosted by Citrix Online. Because maintaining the trust of our users is a priority to us, Citrix Online is committed to respecting your privacy. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because GoToMeeting wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. Please understand the TRUSTe program only covers information that is collected through this Web site and does not cover information that may be collected through software downloaded from the site. Citrix Online welcomes your feedback about this privacy policy. Send your questions or concerns regarding this privacy statement to [privacy@citrixonline.com](mailto:privacy@citrixonline.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.  
 **Contents**  
@@ -26,7 +25,9 @@ By registering your details with us you confirm that you have read, understood a
 **4.** | **[How can I review, correct and update my personal information?](https://web.archive.org/en_US/island/privacy.tmpl#q4)**  
 **5.** | **[How can I opt out of Citrix Online's collection, use and distribution of my information?](https://web.archive.org/en_US/island/privacy.tmpl#q5)**  
 **6.** | **[How does Citrix Online protect my information from loss, misuse or alteration?](https://web.archive.org/en_US/island/privacy.tmpl#q6)**  
-**7.** | **[Who can I ask if I have additional questions?](https://web.archive.org/en_US/island/privacy.tmpl#q7)**  
+**7.** | **[What does Citrix Online do with Recommend Us/Referral information?](https://web.archive.org/en_US/island/privacy.tmpl#q7)**  
+**8.** | **[What does Citrix Online do with information submitted through the Become a Partner link?](https://web.archive.org/en_US/island/privacy.tmpl#q8)**  
+**9.** | **[Who can I ask if I have additional questions?](https://web.archive.org/en_US/island/privacy.tmpl#q9)**  
 From time to time, Citrix Online may introduce new products and services. To the extent that these new products and services affect this policy, this policy will be updated. Please see item number 5 for more details.  
 **1\. What is Citrix Online's GoToMeeting product and why is my information needed?**  
 GoToMeeting is an online managed service that allows users to collaborate on documents, deliver presentations, perform product demonstrations and securely share confidential information from anywhere, anytime. Because GoToMeeting is Web based, it requires the use of first and last names, billing contact information, a password and a valid email address as a login. Therefore, at a minimum, we require such necessary information during the registration process. The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.  
@@ -63,6 +64,13 @@ Back to top
 Citrix Online uses industry-standard efforts to safeguard the confidentiality of personally identifiable information, including encryption, firewalls and SSL (Secure Sockets Layer).  
 Furthermore, Citrix Online is not liable for loss of passwords due to user carelessness. If you lose control over your password, you may lose control over your personally identifiable information. If you believe your password has been compromised, we recommend that you immediately change your password. For information on how to do this, please see [item number 4](https://web.archive.org/en_US/island/privacy.tmpl#q4) above.  
 Back to top  
-**7\. Who can I ask if I have additional questions?**  
+**7\. What does Citrix Online do with Recommend Us/Referral information?**  
+If a user elects to use our referral service, Recommend Us, for informing a friend about our site, we ask the user for the friend's name and email address. At your request, the friend will then receive a one-time automated email inviting them to a free trial of GoToMeeting.  
+Citrix Online does not store the mail sent, but does keep a record of who sent the email and to whom it was sent. To request the removal of this information from our database, the friend may contact Citrix Online by sending a message to [privacy@citrixonline.com](mailto:privacy@citrixonline.com).  
+Back to top  
+**8\. What does Citrix Online do with information submitted through the Become a Partner link?**  
+Information submitted to us via the Become a Partner link is completely voluntary and enables us to provide you with information on Citrix Online partnership opportunities. You may submit this information via our online form at [https://www.gotomeeting.com/en_US/pre/partner.tmpl](https://web.archive.org/en_US/pre/partner.tmpl). All information submissions are voluntary and will be used solely to provide information to you at your request. In keeping with our privacy policy standards, we will never voluntarily share personally identifiable information submitted to us about partnership opportunities with any third party without your express consent or unless compelled by applicable state and federal laws.  
+Back to top  
+**9\. Who can I ask if I have additional questions?**  
 For additional inquiries about the privacy of your information, you can contact Citrix Online via email at [privacy@citrixonline.com](mailto:privacy@citrixonline.com), by calling (805) 690-6400 or by writing to us via regular mail at: Citrix Online, 5385 Hollister Avenue, Santa Barbara, CA 93111. To reach our Customer Care department, you may contact us at [gotomeetingcare@citrixonline.com](mailto:gotomeetingcare@citrixonline.com).  
 Back to top
