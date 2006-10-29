@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secureworks.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617230843id_/http%3A//www.secureworks.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secureworks.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029020112id_/http%3A//www.secureworks.com/privacypolicy.html) for the most accurate reproduction.*
 
 # SecureWorks - The Information Security Experts
 
