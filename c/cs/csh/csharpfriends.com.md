@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csharpfriends.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616011301id_/http%3A//www.csharpfriends.com/Members/Main/Misc/private.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csharpfriends.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029231954id_/http%3A//www.csharpfriends.com/Members/Main/Misc/private.aspx) for the most accurate reproduction.*
 
 # C# C Sharp and Tutorials on C# Friends.com
 
@@ -7,9 +7,9 @@
   
   
 ---  
-  
-Slower, buggier, and vulnerable .NET apps. That¹s what I¹m freakin¹ talking¹ about! Frustrated? Help is here. [netconnectrescue](http://www.netconnectrescue.com/) [ C# Consulting](http://www.csharpfriends.com/statics/consulting.aspx "C# Consulting")   
+[ C# Consulting](http://www.csharpfriends.com/statics/consulting.aspx "C# Consulting")   
 [sql server forums](http://www.sqlserverfriends.com/)   
+[code reference](http://www.codereference.com/)   
 [asp help example code](http://www.developersdex.com/asp)   
 [Offshore development](http://www.dotnetspider.com/ "Offshore software development and C# tutorials")
 
