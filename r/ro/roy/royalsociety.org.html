@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the royalsociety.org privacy policy that was archived on 2006-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060430103418id_/http%3A//www.royalsociety.org/noneditable.asp%3Fid%3D22) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the royalsociety.org privacy policy that was archived on 2006-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061029150320id_/http%3A//www.royalsociety.org/noneditable.asp%3Fid%3D22) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta name="generator" content="HTML Tidy for Mac OS (vers 1st December 2002), see www.w3.org">
-    <title>Royal Society | Site help</title>
+    <title>Site help</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <meta name="Copyright" content="Copyright (c) 2005 The Royal Society">
     <link rel="stylesheet" type="text/css" media="all" href="css/level2-basic-1.css">
@@ -76,30 +76,33 @@ body { margin: 0px; padding: 0px }
               </tr>
               <tr>
                 <td id="tdquicksearchform">
-                <!-- site search start -->
-				  <script type="text/javascript" language="JavaScript">
-					function resetBox()
-					{
-						if(document.quicksearch.searchterm.value == 'Search term')
-						{
-							document.quicksearch.searchterm.value = '';
-						}
-					}
-				  </script>
-                  <form action="search.asp" method="post" name="quicksearch" id="idquicksearchform">
-                    <table border="0" cellspacing="0" cellpadding="0" align="right">
-                      <tbody><tr>
-                        <td valign="middle"><label for="id-searchterm">Search</label></td>
-                        <td valign="middle" bgcolor="white"><input name="searchterm" onmousedown="resetBox()" onkeydown="resetBox()" class="idsearchterm" id="id-searchterm" type="text" value="Search term" size="15" align="middle"></td>
-                        <td valign="middle">
-                          <div class="div-go-button-style">
-                            <p><a href="JavaScript:document.quicksearch.submit();">Go</a></p>
-                          </div>
-                        </td>
-                      </tr>
-                    </tbody></table>
-                  </form>
-                  <!-- site search end -->
+                     <!-- site search start -->
+      				  <script type="text/javascript" language="JavaScript">
+      					function resetBox()
+      					{
+      						if(document.quicksearch.searchterm.value == 'Search term')
+      						{
+      							document.quicksearch.searchterm.value = '';
+      						}
+      					}
+      				  </script>
+      <form action="http://search.royalsoc.ac.uk/search" method="get" name="quicksearch" id="idquicksearchform">
+      <table border="0" cellspacing="0" cellpadding="0" align="right">
+      <tbody><tr>
+      <td valign="middle"><label for="id-searchterm">Search</label></td>
+      <td valign="middle" bgcolor="white"><input name="q" onmousedown="resetBox()" onkeydown="resetBox()" class="idsearchterm" id="searchterm" type="text" value="Search term" size="15" align="middle"> <input type="hidden" name="site" value="royalsoc">         <input type="hidden" name="client" value="royalsoc">
+      <input type="hidden" name="proxystylesheet" value="royalsoc">
+      <input type="hidden" name="output" value="xml_no_dtd">
+      </td>
+      <td valign="middle">
+      <div class="div-go-button-style">
+      <p><a href="JavaScript:document.quicksearch.submit();">Go</a></p>
+      </div>
+      </td>
+      </tr>
+      </tbody></table>
+      </form>
+      <!-- site search end -->
                 </td>
               </tr>
               <tr>
