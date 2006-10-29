@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.ie privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205959id_/http%3A//pages.ebay.ie/help/policies/privacy-policy.html%3FssPageName%3Df%3Af%3AIE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ie privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029100609id_/http%3A//pages.ebay.ie/help/policies/privacy-policy.html%3FssPageName%3Df%3Af%3AIE) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
@@ -142,8 +142,8 @@ We may amend this Privacy Policy from time to time in order that it accurately r
   
 **Related Help topics**
 
-  * [Privacy Overview](https://web.archive.org/web/20060615205959id_/http%3A//pages.ebay.ie/help/policies/privacy-ov.html)
-  * [Publishing Contact Information](https://web.archive.org/web/20060615205959id_/http%3A//pages.ebay.ie/help/policies/privacy-contact.html)
-  * [eBay User Agreement](https://web.archive.org/web/20060615205959id_/http%3A//pages.ebay.ie/help/policies/user-agreement.html)
+  * [Privacy Overview](https://web.archive.org/web/20061029100609id_/http%3A//pages.ebay.ie/help/policies/privacy-ov.html)
+  * [Publishing Contact Information](https://web.archive.org/web/20061029100609id_/http%3A//pages.ebay.ie/help/policies/privacy-contact.html)
+  * [eBay User Agreement](https://web.archive.org/web/20061029100609id_/http%3A//pages.ebay.ie/help/policies/user-agreement.html)
 
 
