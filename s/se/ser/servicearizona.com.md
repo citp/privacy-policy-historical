@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servicearizona.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195026id_/https%3A//servicearizona.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicearizona.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029082316id_/https%3A//servicearizona.com/privacy.html) for the most accurate reproduction.*
 
 # ServiceArizona: Privacy Policy
 
@@ -35,7 +35,7 @@ Your rights to privacy are of utmost importance to the Arizona Department of Tra
 Online Customer Service and Alternatives  
 
 
-ServiceArizona offers many of the services online that you might otherwise transact in person with MVD. Our goal is to provide citizens with a more convenient and efficient means in which to interact with Arizona Government. If at any time you choose not to proceed with a transaction offered through the Service Arizona web site, your choice will in no way affect your ability to receive benefits or services. If you prefer to apply for benefits or services in person, you may do so at one of MVD's field offices or Authorized Third Party Provider locations. [For a listing of those locations nearest to you, click on "Nearest Offices" on the ServiceArizona main page's Information section.](http://az.gov/webapp/offices)
+ServiceArizona offers many of the services online that you might otherwise transact in person with MVD. Our goal is to provide citizens with a more convenient and efficient means in which to interact with Arizona Government. If at any time you choose not to proceed with a transaction offered through the ServiceArizona web site, your choice will in no way affect your ability to receive services. If you prefer to apply for services in person, you may do so at one of MVD's field offices or Authorized Third Party Provider locations. [For a listing of those locations nearest to you, click on "Nearest Offices" on the ServiceArizona main page's Information section.](http://az.gov/webapp/offices)
 
 Collection and Use of Information  
 
@@ -52,9 +52,9 @@ Please be aware that if your Internet browser is configured to refuse or disable
 Information You Choose to Provide  
 
 
-When applying for benefits or services through ServiceArizona, you will be required to enter certain personal information (e.g., your name, home address, birth date, driver's license or identification card number, and credit card number). For each online transaction, we ask for no more than the information required to process that transaction. The questions posed are similar to those you would be asked during an in-person visit to an MVD office or through the mail. Only those MVD and IBM employees who need your information in order to provide the services offered on this web site are given access to such information. 
+When applying for services through ServiceArizona, you will be required to enter certain personal information, such as your name, home address, birth date, driver's license or identification card number, and credit card number. For each online transaction, we ask for no more than the information required to process that transaction. The questions posed are similar to those you would be asked during an in-person visit to an MVD office or through the mail. Only those MVD and IBM employees who need your information in order to provide the services offered on this web site are given access to such information. 
 
-Please be assured that the personal information you disclose to us online will be held in the strictest confidence while ServiceArizona processes your transaction and will not be shared, sold, or otherwise disseminated to any outside person or entity, except as required or authorized by law. With only limited exceptions, the privacy of your personal information is protected by various state and federal laws (including A.R.S. § 28-452 and the Federal Driver's Privacy Protection Act) and, unless you specifically give us your consent by checking the "opt-in" box which appears on all of our online service applications before a transaction can be completed, we are not permitted to provide or disclose such information to unauthorized persons or entities. 
+Please be assured that the personal information you disclose to us online will be held in the strictest confidence while ServiceArizona processes your transaction and will not be shared, sold, or otherwise disseminated to any outside person or entity, except as required or authorized by law. With only limited exceptions, the privacy of your personal information is protected by the Federal Driver's Privacy Protection Act 18 U.S.C 2721-2725, as well as Title 28, Chapter 2, Article 5 of the Arizona Revised Statutes and, unless you specifically give us your consent by checking the consent box which appears on our online service applications before a transaction can be completed, we are not permitted to provide or disclose such information to unauthorized persons or entities. 
 
 However, because some of the information submitted to MVD (either through ServiceArizona or directly) is potentially subject to release under Arizona's Public Records Law, the agency may be required to divulge certain information in response to a lawful public records request or in response to a warrant, subpoena, or other court order. When necessary, we may also disclose personal information to law enforcement officials if there is reason to believe that the disclosure of such information is required to identify, contact, or bring legal action against an individual who attempts to perpetrate a fraud against, or gain unauthorized access to the ServiceArizona web site. 
 
@@ -63,7 +63,7 @@ Information Collected through our "User Survey" and "Contact Us" feature
 
 In order to improve our services, we ask that you take a moment to give us feedback through our "User Survey." The survey is anonymous. Information collected through the survey is used solely to evaluate the ease of use of this site and to determine possible future enhancements. 
 
-If you elect to use ServiceArizona's "Contact Us" feature, an email address will be required in order for us to respond to your inquiries. We maintain the privacy of any personally identifiable information (e.g., your email address) received through the "Contact Us" feature to the same extent as otherwise described in this policy. 
+If you elect to use ServiceArizona's "Contact Us" feature, an email address will be required in order for us to respond to your inquiries. We maintain the privacy of any personally identifiable information, such as your email address received through the "Contact Us" feature to the same extent as otherwise described in this policy. 
 
 Security  
 
@@ -85,6 +85,6 @@ Neither the State of Arizona, nor any State agency, officer, employee, or contra
 Contact Information  
 
 
-If you have any questions about the information presented in this Privacy Policy, please contact the Webmaster at [servicearizona@clearlake.ibm.com](mailto:servicearizona@clearlake.ibm.com?Subject=PrivacyPolicy)
+If you have any questions about the information presented in this Privacy Policy, please contact the Webmaster at [servicearizona@azdot.gov](mailto:servicearizona@azdot.gov?Subject=PrivacyPolicy)
 
 * * *
