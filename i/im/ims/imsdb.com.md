@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2005-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051125041328id_/http%3A//imsdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029235730id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Script Database (IMSDb)
 
-  
   
 | Alphabetical   
 ---  
@@ -20,29 +19,29 @@ Genre
 [Thriller](https://web.archive.org/genre/Thriller) | [War](https://web.archive.org/genre/War) | [Western](https://web.archive.org/genre/Western)  
   
   
-Movie Software   
----  
-[DVD Ripper](https://web.archive.org/software/dvd-ripper)  
   
 Latest Comments   
 ---  
-[Wizard of Oz, The](https://web.archive.org/Movie%20Scripts/Wizard%20of%20Oz,%20The%20Script.html)| 10/10  
-[Constantine](https://web.archive.org/Movie%20Scripts/Constantine%20Script.html)| 7/10  
-[Finding Nemo](https://web.archive.org/Movie%20Scripts/Finding%20Nemo%20Script.html)| 10/10  
-[Nightmare Before Christmas, The](https://web.archive.org/Movie%20Scripts/Nightmare%20Before%20Christmas,%20The%20Script.html)| 6/10  
-[Napoleon Dynamite](https://web.archive.org/Movie%20Scripts/Napoleon%20Dynamite%20Script.html)| 1/10  
+[Pirates of the Caribbean: Dead Man's Chest](https://web.archive.org/Movie%20Scripts/Pirates%20of%20the%20Caribbean:%20Dead%20Man's%20Chest%20Script.html)| 9/10  
+[Pirates of the Caribbean: Dead Man's Chest](https://web.archive.org/Movie%20Scripts/Pirates%20of%20the%20Caribbean:%20Dead%20Man's%20Chest%20Script.html)| 10/10  
+[Ghost Ship](https://web.archive.org/Movie%20Scripts/Ghost%20Ship%20Script.html)| 5/10  
+[Braveheart](https://web.archive.org/Movie%20Scripts/Braveheart%20Script.html)| 10/10  
+[Indiana Jones IV](https://web.archive.org/Movie%20Scripts/Indiana%20Jones%20IV%20Script.html)| 1/10  
   
 Other sites   
 ---  
   
-[](http://www.avatarist.com/ "Forum Avatars")  
-[Forum Avatars](http://www.avatarist.com/ "Forum Avatars")  
-  
-  
+[](http://www.avatarist.com/ "Avatars")  
+[Avatars](http://www.avatarist.com/ "Avatars")
+
+[](http://www.wiisworld.com/ "Wii Reviews")  
+[Wii Reviews](http://www.wiisworld.com/)
+
+[](http://www.tonyhawkguide.com/ "Tony Hawk")  
+[Tony Hawk](http://www.tonyhawkguide.com/)  
 [](https://web.archive.org/ext.php?id=9992)  
 [](https://web.archive.org/ext.php?id=9993)  
 [](https://web.archive.org/ext.php?id=9999)  
-[](https://web.archive.org/ext.php?id=9998)  
 [](https://web.archive.org/ext.php?id=9995)  
 [](https://web.archive.org/ext.php?id=9994)  
 | 
