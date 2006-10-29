@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelsmag.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623041159id_/http%3A//hotelsmag.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelsmag.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029101512id_/http%3A//hotelsmag.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # HOTELS Magazine - Privacy Policy
 
@@ -26,7 +26,7 @@ We require you to provide certain information about yourself when you register w
 
 The information we collect may include information from which you may be personally identified (“Personally Identifiable Information”), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.
 
-When you visit this Site, we may collect the IP address of your computer. We also use [automatic data collection technology](https://web.archive.org/web/20060623041159id_/http%3A//hotelsmag.com/privacypolicy2.asp) to record other information that identifies your computer and tracks your behavior on the Site. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
+When you visit this Site, we may collect the IP address of your computer. We also use [automatic data collection technology](https://web.archive.org/web/20061029101512id_/http%3A//hotelsmag.com/privacypolicy2.asp) to record other information that identifies your computer and tracks your behavior on the Site. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
 
 **How We Use Your Information**  
 We use Personally Identifiable Information collected on this Site for the following purposes:
