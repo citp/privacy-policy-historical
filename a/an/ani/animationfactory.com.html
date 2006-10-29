@@ -1,602 +1,725 @@
-<!--The following is the downloaded HTML source of the animationfactory.com privacy policy that was archived on 2006-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060314191028id_/http%3A//www.animationfactory.com/company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the animationfactory.com privacy policy that was archived on 2006-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061029113144id_/http%3A//www.animationfactory.com/en/company/privacy.mc) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-	<title>Animation Factory</title>
-  
-    <style type="text/css">
-<!--
-	BODY
-	{
-		margin: 0;
-		background-color: "#FCE9CA";
-		background-image: 
-		url('http://images.animationfactory.com/imagedir/images/pagewrap/top_banner_background.jpg ');
-		background-repeat: repeat-x
+  <!-- BEGIN: /en/head/meta.mi -->
+
+<title>Animation Factory - Royalty Free Animations, 3D Clip Art, Backgrounds, PowerPoint Templates, and Video Clips</title>
+<link rel="shortcut icon" type="image/ico" href="http://static-a.arttoday.com/d/animfactory/images/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="TITLE" content="Animation Factory - Royalty Free Animations, 3D Clip Art, Backgrounds, PowerPoint Templates, and Video Clips">
+<meta name="COPYRIGHT" content="Copyright (c) 2006 by Jupiterimages, a division of Jupitermedia Corporation. All Rights Reserved.">
+<meta name="keywords" content="Animations, Clip Art, clipart, Templates, graphics, powerpoint, presentations, backgrounds, web buttons, images, free animated gif, royalty free, video backgrounds, video clips, 3D, stock">
+<meta name="description" content="Over 400,000 3D animations, clip art, backgrounds, video clips and PowerPoint templates to create emails, websites, videos and presentations.">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="revisit-after" content="1 days">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="Global">
+<meta name="AUTHOR" content="AnimationFactory.com">
+
+
+<!-- END: /en/head/meta.mi -->
+
+  <script language="javascript">
+
+function sm_pop (page, arg1, arg2) {
+   var sp = window.open('/en/popups/default_pop.sys?page=' + escape(page) + '&arg1=' + escape(arg1) + '&arg2=' + escape(arg2),  
+   'preview_pop',
+   'width=330,height=330,left=300,top=200,directories=no,status=no,scrollbars=no,resizable=no,menubar=no');
+    sp.focus();
 }
 
-	
+function med_pop (page, arg1, arg2) {
+   var mp = window.open('/en/popups/default_pop.sys?page=' + page + '&arg1=' + escape(arg1) + '&arg2=' + escape(arg2), 
+   'preview_pop',
+   'width=500,height=350,left=200,top=100,directories=no,status=no,scrollbars=yes,resizable=yes,menubar=no');
+    mp.focus();
+}
 
-	a:link {color: "#003366"; text-decoration: none}
-	a:visited {color: "#003366"; text-decoration: none}
-	a:hover {color: #0000CC; text-decoration: underline}
--->
-</style>
+function help_pop (page) {
+   var hp = window.open('/en/help/' + page, 
+   'preview_pop',
+   'width=525,height=500,scrollbars=yes,resizable=yes,menubar=no');
+    hp.focus();
+}
+
+function tour_pop (page, arg1) {
+   var tp = window.open('/en/tour/' + page + '?pg=' + arg1,
+   'preview_pop',
+   'width=600,height=525,scrollbars=yes,resizable=yes,menubar=no');
+    tp.focus();
+}
+
+function cd_pop (page) {
+   var hp = window.open('/en/popups/cds_dvds/' + page, 
+   'preview_pop',
+   'width=400,height=400,scrollbars=yes,resizable=yes,menubar=no');
+    cd.focus();
+}
+
+function lg_pop (page, arg1, arg2) {
+   var lp = window.open('/en/popups/default_pop.sys?page=' + page + '&arg1=' + escape(arg1) + '&arg2=' + escape(arg2), 
+   'preview_pop',
+   'width=650,height=500,directories=no,status=no,scrollbars=yes,resizable=yes,menubar=no');
+    lp.focus();
+}
+
+function addto (m,r) {
+   var cp = window.open('/en/popups/addtocart.mc?mid=' + m + '&rld=' + r, 
+   'cart_pop',
+   'width=350,height=250,left=200,top=100,directories=no,status=no,scrollbars=yes,resizable=yes,menubar=no');
+    cp.focus();
+}
+
+</script>
+  <!-- BEGIN: /en/head/cart.js -->
+
+<script language="Javascript1.2">
+
+function MyPick(checked_value) {
+
+        var values = checked_value.split(':::');
+        var fid = values[0];
+        var fsize = values[1];
+        var failure = 0;
+
+        if (CheckIfEntered(fid)) {
+                failure = UpdateCart(fid, fsize, 'remove');
+        } else {
+                failure = UpdateCart(fid, fsize, 'add');
+        }
+
+   if (failure == 1) {
+                for (i=0; i < document.main_form.MyPick_check.length; i++) {
+                   if (document.main_form.MyPick_check[i].value == checked_value) {
+                                document.main_form.MyPick_check[i].checked = false;
+                   }
+                }
+   }
+
+}
+
+function CheckIfEntered(fid) {
+
+        var cookie = "afmypix";
+        var cookie_val = GetCookie(cookie);
+
+        if (cookie_val) {
+
+                if(cookie_val.indexOf(fid) >= 0) {
+                        return true;
+ } else {
+                        return false;
+                }
+        } else {
+                return false;
+        }
+}
+
+function UpdateCart(fid, fsize, act) {
+
+        var current_size = GetCookie('afmypixsz');
+
+        current_size = parseFloat(current_size);
+
+        if (isNaN(current_size)) {
+                current_size = 0;
+        }
+        fsize = parseFloat(fsize);
+
+        var current_cookie = GetCookie('afmypix');
+
+        var check_add_fid = 0;
+        var check_rem_fid = 0;
+        var number = 0;
+        var new_size = current_size;
+        var new_cookie = "";
+        var fids = new Array();
+        var failure_check = 0;
+
+        if (current_cookie) {
+
+                if(current_cookie.indexOf(",")) {
+                        fids = current_cookie.split(",");
+                } else {
+                        fids[0] = current_cookie;
+                }
+
+                for (var i = 0; i < fids.length; i++) {
+
+                        if (!isNaN(fids[i])) {
+                                number++;
+
+                                if (fids[i] != fid) {
+                                        if (new_cookie) {
+                                                new_cookie += ',' + fids[i];
+                                        } else {
+                                                new_cookie = fids[i];
+                                        }
+                                }
+                                if (fids[i] == fid) {
+                                        check_rem_fid = 1;
+                                        if (act == 'add') {
+                                                check_add_fid = 1;
+                                        }
+                                }
+                        }
+                }
+        }
+
+        if (act == 'remove') {
+                if (check_rem_fid == 1) {
+                        new_size = current_size - fsize;
+                        number--;
+                }
+        } else if (act == 'add') {
+                if (check_add_fid == 0) {
+
+                    if (number == 40) {
+                            alert("You can only have 40 items in your MyPicks cart at a time.");
+                                failure_check = 1;
+                        } else {
+                                new_size = current_size + fsize;
+                                number++;
+                                if (new_cookie) {
+                                        new_cookie += ',' + fid;
+                                } else {
+                                        new_cookie = fid;
+                                }
+                        }
+                }
+        }
+
+        new_size = Math.round(new_size * 100)/100;
+        SetCookie('afmypix', new_cookie);
+        SetCookie('afmypixsz', new_size);
+
+
+
+        var doc_empty_cart, doc_disp_cart, doc_itm, doc_sz, doc_tm, doc_dwn_txt;
+
+        if(document.all){
+                doc_empty_cart  = document.all["MyPicksCartEmpty"];
+                doc_disp_cart   = document.all["MyPicksCart"];
+                doc_itm                 = document.all["sel_items"];
+                doc_sz                  = document.all["sel_size"];
+                doc_tm                  = document.all["sel_download_sp"];
+                doc_dwn_txt             = document.all["sel_download_tx"];
+        } else if(!document.all && document.getElementById) {
+                doc_empty_cart  = document.getElementById("MyPicksCartEmpty");
+                doc_disp_cart   = document.getElementById("MyPicksCart");
+                doc_itm                 = document.getElementById("sel_items");
+                doc_sz                  = document.getElementById("sel_size");
+                doc_tm                  = document.getElementById("sel_download_sp");
+                doc_dwn_txt             = document.getElementById("sel_download_tx");
+        }
+
+        if (number > 0) {
+
+                doc_empty_cart.style.display = "none";
+                doc_disp_cart.style.display = "";
+
+                doc_itm.innerHTML = number;
+
+                var speed = ((new_size/56)/60)*10 + .1;
+                speed = Math.round(speed);
+                if (speed < 1) {
+                        speed = "< 1 min @ 56kbps";
+                } else {
+                        speed += " min @ 56kbps";
+                }
+
+
+                new_size = Math.round(new_size * 100)/100;
+                doc_sz.innerHTML = new_size;
+                doc_tm.innerHTML = speed;
+                SetCookie('afmydlsp', speed);
+
+
+                if(doc_dwn_txt) {
+                    if (number > 1) {
+                            doc_dwn_txt.innerHTML = 'Download ' + number + ' Items';
+                    } else {
+                            doc_dwn_txt.innerHTML = 'Download 1 Item';
+                    }
+                }
+        } else {
+
+                doc_empty_cart.style.display = "";
+                doc_disp_cart.style.display = "none";
+        }
+
+        if (failure_check == 1) {
+            return 1;
+        }
+
+}
+
+
+function GetCookie(cookie_name) {
+
+        var result = null;
+        var my_cookie = " " + document.cookie + ";";
+        var search_name = " " + cookie_name + "=";
+        var start_pos = my_cookie.indexOf(search_name);
+        var end_pos;
+
+        if (start_pos != -1) {
+                start_pos += search_name.length;
+                end_pos = my_cookie.indexOf(";", start_pos);
+                result = unescape(my_cookie.substring(start_pos, end_pos));
+        }
+
+        return result;
+
+}
+
+function SetCookie(cookie_name, cookie_value) {
+
+        var args = SetCookie.arguments;
+        var number_args = SetCookie.arguments.length;
+        var append_to_cookie = (number_args > 2) ? args[2] : false;
+
+        var exp_date = new Date();
+        var one_year = 365 * 24 * 3600 * 1000;
+        exp_date.setTime (exp_date.getTime() + one_year);
+        var expires = "; expires=" + exp_date.toGMTString();
+        var domain = "; domain=www.animationfactory.com";
+
+        if (append_to_cookie)
+        {
+                var current_value = GetCookie(cookie_name);
+                if (current_value) {
+                        cookie_value = current_value + "," + cookie_value;
+                }
+        }
+
+        document.cookie = cookie_name + "=" + cookie_value + expires  + '; path=/' + domain;
+
+}
+
+function ClearCart() {
+      var cookie_val = GetCookie('afmypix');
+      fids = cookie_val.split(",");
+      for (var i = 0; i < fids.length; i++) {
+          MyPick(fids[i] + ':::0');
+      }
+}
+
+
+</script>
+
+<!-- END: /en/head/cart.js -->
+
+
+  <link rel="stylesheet" media="all" type="text/css" href="/en/css/site.css">
+  <style type="text/css" media="all">
+    @import url(/en/css/site.css);
+  </style>
+
+  <style type="text/css" media="all">
+  <!--
+    BODY {
+      margin: 0;
+      background-color: "#FCE9CA";
+      background-image: 
+      url('/images/pagewrap/top_banner_background.jpg');
+      background-repeat: repeat-x
+      }
+
+      a:link {color: "#003366"; text-decoration: none}
+      a:visited {color: "#003366"; text-decoration: none}
+      a:hover {color: #0000CC; text-decoration: underline}
+  -->
+  </style>
+
 </head>
 
 <body onload="self.focus();" bgcolor="#FCE9CA">
 
-  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-  <!-- BEGIN CSS DECLARATION TEMPLATE -->
-  <!-- template: /title_tags/default.html -->
-  <link rel="stylesheet" type="text/css" href="/css/site.css">
-  <style type="text/css">
-  @import url(/css/site.css);
-  </style>
-  <!-- END CSS DECLARATION TEMPLATE -->
-				
-		
-		
 <div align="center">
-  <center>
+
+
+
+  
+<!-- BEGIN: /en/default_top.mi -->
+
+<table border="0" cellpadding="0" cellspacing="0" width="770>
+  <tr height=" 24"="">
+    <tbody><tr><td class="textindentation" height="24" background="http://static-a.arttoday.com/d/animfactory/images/pagewrap/mediabuilder_background.gif" bgcolor="#fff6e9">
+      <b class="nav">ANIMATION FACTORY
+      </b>- Over 400,000 Animations, Backgrounds and Video Clips 
+    </td>
+    <td rowspan="3" width="171" bgcolor="#fce9ca"><a href="/en/search/index.mc?q=halloween"><img src="http://static-a.arttoday.com/d/animfactory/images/featured/halloween_05.jpg" width="171" height="95" border="0"></a></td>
+  </tr>
+    <tr><td bgcolor="#fce9ca">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td width="317"><a href="/en/"><img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/header_logo.gif" width="317" height="45" border="0"></a></td>
+    <td align="right"><b>Creatures of the Night!<br></b><a href="/en/search/index.mc?q=halloween">View Halloween Graphics.</a></td>
+  </tr>
+</tbody></table>
+
+    </td>
+  </tr>
+  <tr height="26">
+    <td height="26" valign="middle" background="http://static-a.arttoday.com/d/animfactory/images/pagewrap/topnavigation_background.gif" bgcolor="#fedc97">
+      <img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/membership_free.jpg" width="197" height="26" border="0" align="absmiddle">
+      <b class="nav">&nbsp;<a href="/en/company/privacy.mc?login=1">LOGIN</a> | <a href="/en/sales/memberships.mc">BECOME A MEMBER</a> |
+      <a href="javascript:help_pop('index.mc')">HELP</a>
+      | <a href="/en/company/contact.mc">CONTACT US</a>
+      | <a href="/en/checkout/index.mc">CART</a></b>
+   </td>
+  </tr>
+</tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0" width="770">
+  <tbody><tr>
+    <td>
 
-<!-- BEGIN AD BANNER 1 -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="26">
+  <tbody><tr>
+<form action="/en/search/index.mc" method="get" name="search"></form>
+    <td valign="middle" align="left" background="http://static-a.arttoday.com/d/animfactory/images/pagewrap/searchbackground.gif" width="307" nowrap="" class="textindentation" bgcolor="#f8c663">
+      <!-- BEGIN: /en/search/inputs.mi -->
 
-<!-- END AD BANNER 1 -->
 
-	<tbody><tr>
-		<td colspan="3">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr height="24">
-					<td class="textindentation" height="24" background="http://images.animationfactory.com/imagedir/images/pagewrap/mediabuilder_background.gif" bgcolor="#fff6e9">
-						<b class="nav">ANIMATION FACTORY</b> - Over 400,000 Animations, Backgrounds and Video Clips					</td>
-					<td rowspan="3" width="171" bgcolor="#fce9ca"><a href="/brain/search.cgi?a=s&amp;area=all&amp;term=patricks">
-<img src="http://images.animationfactory.com/imagedir/images/featured/stpatricksday.jpg" width="171" height="95" border="0"></a></td>
-				</tr>
-				<tr><td bgcolor="#fce9ca">
-									<table border="0" cellpadding="0" cellspacing="0" width="100%">
-										<tbody><tr>
-											<td width="317"><a href="/brain/home.cgi"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/header_logo.gif" width="317" height="45" border="0"></a></td>
-											<td align="right"><b>Luck o' the Irish!<br></b>
-<a href="/brain/search.cgi?a=s&amp;area=all&amp;term=patricks">
-View St. Patricks Day Graphics.
-</a></td>
-										</tr>
-									</tbody></table>
-								</td>				</tr><tr height="26">
-					<td height="26" valign="middle" background="http://images.animationfactory.com/imagedir/images/pagewrap/topnavigation_background.gif" bgcolor="#fedc97"><img src="/images/pagewrap/membership_free.jpg" width="197" height="26" border="0" align="absmiddle"><b class="nav"> <a href="/brain/account/login.cgi">LOGIN</a> | <a href="/sales/membership.html">BECOME
-A MEMBER</a> | <a onclick="window.name = 'main';window.open('/help/help.html', 'win', 'height=500,width=525,scrollbars=yes,resizable=yes');return false" href="/help/help.html" target="win">HELP</a>
-| <a href="/company/contact_us.html">CONTACT US</a></b></td>
+<b class="nav">SEARCH</b>:
+<select class="formtest" style="width : 106px; height : 17px;" name="cid">
+<option value="" selected="">All Media Types</option>
+  <option value="E1">Animations</option>
+  <option value="E2">E-mail Stationery</option>
+  <option value="E3">Media Elements</option>
+  <option value="E4">Tiled Backgrounds</option>
+  <option value="E5">Backdrops</option>
+  <option value="E6">Powerpoint Templates</option>
+  <option value="E7">Video Backgrounds</option>
+</select>
+<input class="formtest" style="width : 100px; height : 19px; type=" text="" name="q" size="13" value="" autocomplete="off">
+<a href="javascript:document.search.submit()"><img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/go_button.gif" width="24" height="18" align="absmiddle" hspace="2" border="0"></a>
 
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="3">
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-			<tbody><tr>
-				<td>
-					<table border="0" cellpadding="0" cellspacing="0" width="100%" height="26">
-						<tbody><tr>
-							<td valign="middle" align="left" background="http://images.animationfactory.com/imagedir/images/pagewrap/searchbackground.gif" width="307" nowrap="" class="textindentation" bgcolor="#f8c663">
 
-<form action="/brain/search.cgi" method="get" name="search"><input type="hidden" name="a" value="s"><input type="hidden" name="st" value="sbox"><b class="nav">SEARCH</b>:<select class="formtest" style="width : 106px; height : 17px;" name="area" size="1">
-	<option value="all" selected="">All Media Types</option>
-	<option value="animations">Animations</option>
-	<option value="stationery">Email Stationery</option>
-	<option value="media">Media Elements</option>
-	<option value="backgrounds">Tiled Backgrounds</option>
-	<option value="backdrops">Backdrops</option>
-	<option value="templates">Templates</option>
-	<option value="video">Video Backgrounds</option>
-   </select><input class="formtest" style="width : 100px; height : 19px; type=" text"="" name="term" size="13" value="">
+<!-- END: /en/search/inputs.mi -->
 
-<a href="javascript:document.search.submit()"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/go_button.gif" width="24" height="18" align="absmiddle" hspace="2" border="0"></a></form></td>							<td width="17"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/searchareaborder.gif" width="17" height="26" border="0"></td>
-							<td class="textindentation" background="http://images.animationfactory.com/imagedir/images/pagewrap/welcomback.gif" valign="middle" align="left" nowrap="" width="100%" bgcolor="#ebebeb"><nobr><b>Hello Guest</b> [<a href="/brain/account/login.cgi">Login</a>] &nbsp; Not a member? - <a href="/sales/membership.html">Join Today</a></nobr>
-</td>
-							<td align="right" background="http://images.animationfactory.com/imagedir/images/pagewrap/welcomback.gif" bgcolor="#ebebeb">&nbsp;</td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-<table width="100%" border="0" cellspacing="0">
-	<tbody><tr>
-		<td valign="top" bgcolor="#FEDC97">
+    </td>
 
-																<!-- BEGIN SITE_NAVIGATION TEMPLATE  -->
-<table cellpadding="0" cellspacing="0" width="100%" border="0" bgcolor="#fff6e9">
-<tbody><tr>
-<td class="navigationtable" width="161"><a href="/brain/home.cgi"><font color="#aa0000"><b class="nav">HOME</b></font></a>
+    <td width="17"><img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/searchareaborder.gif" width="17" height="26" border="0"></td>
+    <td class="textindentation" background="http://static-a.arttoday.com/d/animfactory/images/pagewrap/welcomback.gif" valign="middle" align="left" nowrap="" width="100%" bgcolor="#ebebeb">
+      <nobr><b>Hello Guest </b> [<a href="/en/company/privacy.mc?login=1">Login</a>] &nbsp; Not a member? - [<a href="/en/sales/memberships.mc">Join Today</a>]</nobr>
+    </td>
+    <td align="right" background="http://static-a.arttoday.com/d/animfactory/images/pagewrap/welcomback.gif" bgcolor="#ebebeb"> </td>
+  </tr>
+</tbody></table>
 
-</td>
-			</tr>
+    </td>
+  </tr>
+</tbody></table>
 
-<tr>
-				<td class="navigationtable" width="161"><a href="/animations/"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_gold.gif" width="13" height="12" border="0" align="absmiddle"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_platinum.gif" width="13" height="12" border="0" align="absmiddle">
-                  <font color="#aa0000"><b class="nav">ANIMATIONS</b></font></a>
-				
-                  	</td>
-			</tr>
-			<tr>
-				<td class="navigationtable" width="161"><a href="/stationery/"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_gold.gif" width="13" height="12" border="0" align="absmiddle"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_platinum.gif" width="13" height="12" border="0" align="absmiddle">
-                  <font color="#aa0000"><b class="nav">EMAIL
-                  STATIONERY</b></font></a>
 
-                </td>
-			</tr>
-			<tr>
-				<td class="navigationtable" width="161"><a href="/media/"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_gold.gif" width="13" height="12" border="0" align="absmiddle"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_platinum.gif" width="13" height="12" border="0" align="absmiddle">
-                  <font color="#aa0000"><b class="nav">MEDIA ELEMENTS</b></font></a></td>
-			</tr>
-			<tr>
-				<td class="navigationtable" width="161"><a href="/backgrounds/"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_gold.gif" width="13" height="12" border="0" align="absmiddle"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_platinum.gif" width="13" height="12" border="0" align="absmiddle">
-                  <b class="nav"><font color="#aa0000">TILED BACKGROUNDS</font></b></a>
-                </td>
-			</tr>
-			<tr>
-				<td class="navigationtable" width="161"><a href="/backdrops/"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_platinum.gif" width="13" height="12" border="0" align="absmiddle">
-                  <b class="nav"><font color="#aa0000">BACKDROPS</font></b></a>
 
-                </td>			</tr>
-			<tr>
-				<td class="navigationtable" width="161"><a href="/templates/"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_platinum.gif" width="13" height="12" border="0" align="absmiddle">
-                  <b class="nav"><font color="#aa0000">POWERPOINT TEMPLATES</font></b></a>
 
-                </td>
-			</tr>
+<!-- END: /en/default_top.mi -->
 
-			<tr>
-				<td class="navigationtable" width="161"><a href="/video/"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_platinum.gif" width="13" height="12" border="0" align="absmiddle">
-                  <b class="nav"><font color="#aa0000">VIDEO BACKGROUNDS</font></b></a>
-                </td>
-			</tr>
+<table cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+    <td valign="top" bgcolor="#FEDC97" width="170">
+      <!-- BEGIN: /en/default_left.mi -->
+<table cellpadding="0" cellspacing="0" width="170" border="0" bgcolor="#fff6e9">
+  <tbody><tr>
+    <td class="navigationtable" width="161">
+      <a href="/en/"><font color="#aa0000"><b class="nav">HOME</b></font></a>
+    </td>
+  </tr>
 
+  <tr>
+    <td class="navigationtable" width="161">
+      <img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_gold.gif" width="13" height="12"><img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_platinum.gif" width="13" height="12">
+      <a href="/en/search/index.mc?cid=E1"><font color="#aa0000"><b class="nav">ANIMATIONS</b></font></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="navigationtable" width="161">
+      <img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_gold.gif" width="13" height="12"><img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_platinum.gif" width="13" height="12">
+      <a href="/en/search/index.mc?cid=E2"><font color="#aa0000"><b class="nav">E-MAIL STATIONERY</b></font></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="navigationtable" width="161">
+      <img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_gold.gif" width="13" height="12"><img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_platinum.gif" width="13" height="12">
+      <a href="/en/search/index.mc?cid=E3"><font color="#aa0000"><b class="nav">MEDIA ELEMENTS</b></font></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="navigationtable" width="161">
+      <img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_gold.gif" width="13" height="12"><img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_platinum.gif" width="13" height="12">
+      <a href="/en/search/index.mc?cid=E4"><font color="#aa0000"><b class="nav">TILED BACKGROUNDS</b></font></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="navigationtable" width="161">
+      <img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_platinum.gif" width="13" height="12">
+      <a href="/en/search/index.mc?cid=E5"><font color="#aa0000"><b class="nav">BACKDROPS</b></font></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="navigationtable" width="161">
+      <img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_platinum.gif" width="13" height="12">
+      <a href="/en/search/index.mc?cid=E6"><font color="#aa0000"><b class="nav">POWERPOINT TEMPLATES</b></font></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="navigationtable" width="161">
+      <img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_platinum.gif" width="13" height="12">
+      <a href="/en/search/index.mc?cid=E7"><font color="#aa0000"><b class="nav">VIDEO BACKGROUNDS</b></font></a>
+    </td>
+  </tr>
 			
-				<tr><td class="navigationtable" width="161"><a href="/company/animated_shorts.html"><b class="nav">
-                <font color="#000000"><i>FREE</i></font><font color="#aa0000"> 
-                SHORT FILMS</font></b></a>
-                </td>
-			</tr>
-
-						<!-- Begin MyPicks/Cart TEMPLATE -->	
-			<tr>
-				<td class="navigationtable" width="161"><font color="#aa0000"><b class="nav">MY PICKS<img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_mypicks.gif" width="14" height="13" border="0" align="absmiddle" hspace="2"><br> </b></font>
+  <!-- BEGIN: /en/cart/mypicks.mi -->
+<tr>
+<td class="navigationtable" width="161"><font color="#aa0000"><b class="nav">MY PICKS<img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_mypicks.gif" width="14" height="13" border="0" align="absmiddle" hspace="2"><br> </b></font>
 
 <div id="MyPicksCartEmpty" style="position:relative">
-					<table border="0" cellpadding="0" cellspacing="0" width="157">
-						<tbody><tr>
-							<td class="mypicksbox"><p>
-								Selected Items:<b>None</b>
-							</p>
-							</td>
-						</tr>
-					</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="157">
+<tbody><tr>
+<td class="mypicksbox"><p>
+Selected Items:<b>None</b>
+</p>
+</td>
+</tr>
+
+</tbody></table>
 </div>
 <div id="MyPicksCart" style="display:none;position:relative">
-					<table border="0" cellpadding="0" cellspacing="0" width="157">
-						<tbody><tr>
-							<td class="mypicksbox"><p>
-								Selected Items: <b><span id="sel_items">0</span></b><br>
-								Download size: <b><span id="sel_size">0</span> kb</b><br>
-								<span id="sel_download_sp">0</span></p>
-								<p><a href="/brain/mypicks.cgi"><img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_viewmypicks.gif" width="20" height="13" border="0" align="absmiddle" hspace="2" vspace="2"></a><a href="/brain/mypicks.cgi">View My Picks</a><br>
-								<a href="/brain/mypicks.cgi?a=d&gt;&lt;img src=" http:="" images.animationfactory.com="" imagedir="" images="" pagewrap="" icon_downloadmypicks.gif"="" width="20" height="13" border="0" align="absmiddle" hspace="2" vspace="2"></a><a href="/brain/mypicks.cgi?a=d"><span id="sel_download_tx">Download 0 Items</span></a><br>
-								<span id="sel_time"></span>
-							</p>
-							</td>
-						</tr>
-					</tbody></table>
-</div>
-					</td>
-			</tr>
-			<tr>
-			<!-- End MyPicks/Cart TEMPLATE -->	
-
-
-			
-			</tr><tr>
-				<td class="navigationtable" width="161"><a href="/sales/index.html"><font color="#aa0000"><b class="nav">SHOP ANIMATION FACTORY</b></font></a>
-					</td>
-			</tr>
-			
-			<tr>
-				<td class="navigationtable" width="161"><a href="/brain/order.cgi"><font color="#aa0000"><b class="nav">VIEW
-                  SHOPPING CART</b></font></a>
-					</td>
-			</tr>
-			<tr>
-				<td class="navigationtable" width="161"><a href="/company/newsletter.html"><font color="#aa0000"><b class="nav">FREE
-                  NEWSLETTER</b></font></a></td>
-			</tr>
-			<tr>
-				<td class="navigationtable" width="161"><a onclick="window.name = 'main';window.open('/help/help.html', 'win', 'height=500,width=525,scrollbars=yes,resizable=yes');return false" href="/help/help.html" target="win"><font color="#aa0000"><b class="nav">HELP
-                  &amp; TUTORIALS</b></font></a></td>
-			</tr>
-			<tr>
-				<td class="navigationtable" width="161"><a href="/company/about_us.html"><font color="#aa0000"><b class="nav">COMPANY</b></font></a>
-
-                  <table style="padding-left: 20;">
-                    <tbody><tr>
-             <td width="100%" style="padding-left: 20">
-                    <a href="/company/about_us.html"><font color="#AA0000">About
-                    Us</font></a></td>
-                  </tr>
-                  <tr>
-                    <td width="100%" style="padding-left: 20">
-                    <a href="/company/thestaff.html"><font color="#AA0000">Meet
-                    Our Staff</font></a></td>
-                  </tr>
-                  <tr>
-                    <td width="100%" style="padding-left: 20">
-                    <a href="/company/contact_us.html"><font color="#AA0000">Contact
-                    Us</font></a></td>
-                  </tr>
-                  <tr>
-                    <td width="100%" style="padding-left: 20">
-                    <a href="/company/policies.html"><font color="#AA0000">Policies</font></a></td>
-                  </tr>
-                  <tr>
-                    <td width="100%" style="padding-left: 20">
-                    <a href="/company/terms_of_use.html"><font color="#AA0000">Terms
-                    of Use</font></a></td>
-                  </tr>
-                  <tr>
-                    <td width="100%" style="padding-left: 20">
-                    <a href="/company/affiliate.html"><font color="#AA0000">Affiliate
-                    Program</font></a></td>
-                  </tr>
-                  <tr>
-                    <td width="100%" style="padding-left: 20">
-                    <a href="/company/reviews.html"><font color="#AA0000">Testimonials</font></a></td>
-                  </tr>
-                  <tr>
-                    <td width="100%" style="padding-left: 20">
-                    <a href="/company/linkto.html"><font color="#AA0000">Link To
-                    Us</font></a></td>
-                  </tr>
- <tr>
-                    <td width="100%" style="padding-left: 20">
-                    <a href="/company/privacy.html"><font color="#AA0000">Privacy Policy</font></a></td>
-                  </tr>
-
-                  </tbody></table>
-
-</td>
-			</tr>
-		</tbody></table>
-		<!-- END SITE_NAVIGATION TEMPLATE -->
-		
-		
-		
-		 <table width="168" border="0" cellpadding="2" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" width="157">
 <tbody><tr>
-<td align="right" valign="top">
-<span class="tinytext">Platinum Level Graphics<img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_platinum.gif" width="13" height="12" border="0" hspace="3" vspace="1" align="absmiddle"></span></td></tr>
+<td class="mypicksbox"><p>
+Selected Items: <b><span id="sel_items">0</span></b><br>
+Download size: <b><span id="sel_size">0</span> kb</b><br>
+
+<span id="sel_download_sp">0</span></p>
+<p><a href="/en/cart/contents.mc"><img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_viewmypicks.gif" width="20" height="13" border="0" align="absmiddle" hspace="2" vspace="2"></a><a href="/en/cart/contents.mc">View My Picks</a><br>
+<a onclick="ClearCart();" href="/en/cart/contents.mc?del=all"><img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_deletemypicks.gif" width="20" height="13" border="0" align="absmiddle" hspace="2" vspace="2"></a><a onclick="ClearCart();" href="/en/cart/contents.mc?del=all">Delete all items</a>
+<span id="sel_time"></span>
+</p>
+</td>
+</tr>
+</tbody></table>
+
+<script type="text/javascript">
+  UpdateCart();
+</script>
+
+</div>
+</td>
+</tr>
 <tr>
-<td align="right" valign="top">
-<span class="tinytext">Gold Level Graphics<img src="http://images.animationfactory.com/imagedir/images/pagewrap/icon_gold.gif" width="13" height="12" border="0" hspace="3" vspace="1" align="absmiddle"></span></td></tr>
+
+
+<!-- END: /en/cart/mypicks.mi -->
+
+  </tr><tr>
+    <td class="navigationtable" width="161">
+      <a href="/en/sales/index.mc"><font color="#aa0000"><b class="nav">SHOP ANIMATION FACTORY</b></font></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="navigationtable" width="161">
+      <a href="/en/checkout/index.mc"><font color="#aa0000"><b class="nav">VIEW SHOPPING CART</b></font></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="navigationtable" width="161">
+      <a href="/en/company/newsletter.mc"><font color="#aa0000"><b class="nav">FREE NEWSLETTER</b></font></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="navigationtable" width="161">
+      <a href="javascript:help_pop('index.mc')"><font color="#aa0000"><b class="nav">HELP &amp; TUTORIALS</b></font></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="navigationtable" width="161">
+      <a href="/en/company/about.mc"><font color="#aa0000"><b class="nav">COMPANY</b></font></a>
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/en/company/about.mc"><font color="#AA0000">About Us</font></a>
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/en/company/thestaff.mc"><font color="#AA0000">Meet Our Staff</font></a>
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/en/company/contact.mc"><font color="#AA0000">Contact Us</font></a>
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/en/company/policies.mc"><font color="#AA0000">Policies</font></a>
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/en/company/terms.mc"><font color="#AA0000">Terms of Use</font></a>
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/en/company/affiliates.mc"><font color="#AA0000">Affiliate Program</font></a>
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/en/company/testimonials.mc"><font color="#AA0000">Testimonials</font></a>
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/en/company/linkto.mc"><font color="#AA0000">Link To Us</font></a>
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/en/company/privacy.mc"><font color="#AA0000">Privacy Policy</font></a>
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/en/company/licensing.mc"><font color="#AA0000">Licensing Opportunities</font></a>
+    </td>
+  </tr>
+  <tr>
+    <td class="navigationtable" width="161">
+      <a href="http://www.jupitergreetings.com" target="_blank"><font color="#aa0000"><b class="nav">VIEW SHORT FILMS</b></font></a><br>
+<a href="http://www.jupitergreetings.com/"><img src="http://static-a.arttoday.com/d/animfactory/images/jg/jg_sam2.jpg" border="0" width="50" height="40" align="left"></a>View our newest<br>3D films at Jupitergreetings.
+    </td>
+  </tr>
+  </tbody></table>
+
+<table width="168" border="0" cellpadding="2" cellspacing="0">
+  <tbody><tr>
+    <td align="right" valign="top">
+      <span class="tinytext">Platinum Level Graphics<img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_platinum.gif" width="13" height="12" border="0" hspace="3" vspace="1" align="absmiddle">
+    </span></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top">
+      <span class="tinytext">Gold Level Graphics<img src="http://static-a.arttoday.com/d/animfactory/images/pagewrap/icon_gold.gif" width="13" height="12" border="0" hspace="3" vspace="1" align="absmiddle">
+    </span></td>
+  </tr>
 </tbody></table>
 
-		</td>
 
-		<td width="100%" bgcolor="white" valign="top">
-			<table style=" font-size: 11px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular" border="0" cellpadding="2" cellspacing="0" width="100%">
-				<tbody><tr>
-					<td valign="top" width="100%">
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr>
-								<td style="padding-left: 8px; padding-top: 8px;" valign="top" width="100%">
-								<h1>Privacy Policy</h1>
-<p>We respect and are committed to protecting your privacy. That is why we have 
-adopted this Privacy Policy. This Privacy Policy lets you know how your personal 
-information is processed and used. We promise that we will take steps to use 
-your personal information only in ways that are compatible with this Privacy 
-Policy. The following policies are only in effect for the Web pages, 
-newsletters, discussion forums and lists and opt-in announcement lists owned and 
-operated by Jupitermedia and its wholly-owned subsidiaries including, without 
-limitation, JupiterImages Corporation, Hemera Technologies Inc. and the Dynamic 
-Graphics Group (collectively hereafter "JUPM"). (The JUPM Network includes all 
-Web sites and certain other Internet media properties linked directly or 
-indirectly from the Jupitermedia.com home page.) The following discloses our 
-Privacy Policy. </p>
-<p><b>What information are you collecting and how are you collecting it?</b> </p>
-<p>Every computer connected to the Internet is given a domain name and a set of 
-numbers, that serve as that computer's "Internet Protocol"
-<a href="http://webopedia.internet.com/TERM/I/IP_address.html" target="_blank" style="text-decoration: underline; color: #BC161D; outline: none">
-IP address</a>. When a visitor requests a page from any Web site within the JUPM 
-Network, our Web servers automatically recognize that visitor's domain name and 
-IP address. The domain name and IP address reveal nothing personal about you 
-other than the IP address from which you have accessed our site. We use this 
-information to examine our traffic in aggregate, and to investigate misuse of 
-the JUPM Network, its users, or to cooperate with law enforcement. See also <b>
-Will you disclose the information you collect to outside third parties?</b> We 
-do not collect and evaluate this information for specific individuals. Our Web 
-servers do not automatically record e-mail addresses of the visitors. </p>
-<p><b>What are cookies? </b></p>
-<p>From time to time, JUPM or its advertisers may send a
-<a href="http://webopedia.internet.com/TERM/c/cookie.html" target="_blank" style="text-decoration: underline; color: #BC161D; outline: none">
-"cookie"</a> to your computer. A cookie is a small piece of data that is sent to 
-your Internet browser from a Web server and stored on your computer's hard 
-drive. A cookie can't read data off of your computer hard disk or read cookie 
-files created by other Web sites. Cookies do not damage your system. We use 
-cookies to identify which areas of JUPM's Network you have visited or 
-customized, so the next time you visit, those pages may be readily accessible. 
-Our advertisers may also use cookies to ascertain how many times you've seen an 
-advertisement. Our advertisers and we may use this information to better 
-personalize the content, banners, and promotions that you see on our site. You 
-can choose whether to accept cookies by changing the settings of your Internet 
-browser. You can reset your browser to refuse all cookies, or allow your browser 
-to show you when a cookie is being sent. If you choose not to accept these 
-cookies, your experience at our Site and other Web sites may be diminished and 
-some features may not work as intended. </p>
-<p><b>How do you use single-pixel gifs? </b></p>
-<p>JUPM and its advertisers may use single-pixel gif images, sometimes referred 
-to as web bugs or web beacons, to count Web page accesses and gather some 
-general statistical information. JUPM does not gather personal information 
-through the use of these images. Our advertisers may use single-pixel gifs that 
-can track personal information from cookies that may have been previously placed 
-on a user's computer by an advertiser. </p>
-<p><b>What information do you collect when I register for something?</b> </p>
-<p>JUPM offers access to some services that require registration. We may use 
-your registration contact information to send notification to you of JUPM 
-products and services by e-mail and/or postal mail. We also may share that 
-information with our clients. Our clients may send you promotional material that 
-is related to the topic of the service for which you registered. We may also use 
-your IP address internally and share it with third parties. See <b>Will you 
-disclose the information that you collect to outside third parties?</b> </p>
-<p><b>What other information do you request?</b> </p>
-<p>We may also request your e-mail address or mailing address for the purposes 
-of conducting a survey or to provide additional services (for example, 
-subscriptions to e-mail newsletters, announcement lists or information about 
-conferences and trade shows). Whenever we request the identity of a visitor, we 
-will clearly indicate the purpose of the inquiry before the information is 
-requested. We maintain a strict "No-Spam" policy that means that we do not sell, 
-rent, or otherwise give your e-mail address to a third-party, without your 
-consent or as permitted by this Privacy Policy. </p>
-<p>We may from time to time send e-mail announcing new JUPM products and 
-services. Except as stated above, JUPM will not send you e-mail that you have 
-not agreed to receive. If you choose to supply your postal address in an online 
-form, you may receive postal mailings from other third party companies. </p>
-<p>When you sign up for an JUPM discussion forum, your name or alias is recorded 
-solely for purposes of maintaining your own account within the forums. This 
-information is not used to monitor your activity within a forum, nor is it used 
-to identify you outside the JUPM network. </p>
-<p>When you register for a contest or other promotion, we may ask for your name, 
-address, and e-mail address so we can administer the contest and notify winners.
-</p>
-<p>When you use co-branded services, or those provided by a third party, within 
-the JUPM Network, your information may be passed to the co-brand or third party 
-provider and their use of your information is subject to their applicable 
-privacy policies.
-<!--safeshopping begins--></p>
-<p><b>What information do you collect when I purchase something?</b> </p>
-<p>If you are purchasing something from an JUPM media property, we and any third 
-party provider, need to know your name, e-mail address, mailing address, credit 
-card number and expiration date. This allows us, or third party providers, to 
-process and fulfill your order and to notify you of your order status. This 
-information may also be used by us to notify you of related products and 
-services. Credit card and e-mail information will not be shared or sold to third 
-parties for any purpose except as provided in this Privacy Policy without your 
-express permission. </p>
-<p>Certain JUPM media properties use a shopping cart feature that safeguards 
-this information by using industry standard SSL (Secure Socket Layer) encrypted 
-servers. SSL codes the information transferred between you and the server, 
-rendering it unreadable to anyone trying to intercept the information. Other 
-JUPM media properties do not use SSL and thereby do not offer a secure coded way 
-to transfer information. </p>
-<p>Wherever JUPM collects personal information we make an effort to include a 
-link to this Privacy Policy on that page.
-<!--safeshopping ends--></p>
-<p><b>Will you disclose the information you collect to outside third parties?</b>
-</p>
-<p>JUPM will disclose personal information and/or an IP address, when required 
-by law or in the good-faith belief that such action is necessary to: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;1)&nbsp; &nbsp; Cooperate with the investigations of purported unlawful activities and 
-conform to the edicts of the law or comply with legal process served on JUPM,
-</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;2)&nbsp;&nbsp; Protect and defend the rights or property of the JUPM Network of 
-sites and related properties, or visitors to the JUPM Network of sites and 
-related properties, </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;3)&nbsp;&nbsp; Identify persons who may be violating the law, the JUPM legal notice 
-and Web site User Agreement, the rights of third parties, or otherwise misusing 
-the JUPM Network or its related properties, </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;4)&nbsp;&nbsp; Fulfill a user's order or request. </p>
-<p>JUPM uses reasonable precautions to keep the information disclosed to us 
-secure. JUPM reserves the right to transfer all such information in connection 
-with the sale of all or part of JUPM's capital stock or assets. Furthermore, we 
-are not responsible for any breach of security or for any actions of any third 
-parties that receive the information. We are not responsible for such third 
-party privacy policies or how they treat information about their users<br>
-<i>See</i> below, <b>What else should I know about my privacy when online? See 
-What information do you collect when I register for something.</b> </p>
-<p><b>Opt-in announcement List Privacy Policy</b> </p>
-<p>When you sign up for an JUPM e-mail newsletter, you are given the opportunity 
-to sign up for targeted third-party mailings. Whether you want to receive these 
-announcement is your choice; you should only receive mailings pertaining to 
-distribution lists you select. If you choose to receive an announcement from a 
-specific distribution list, you will receive commercial messages that are 
-related to the topic of the list from independent third parties that have 
-contracted with JUPM to send messages to the list. Personally identifiable 
-information will not be used by JUPM for any purposes other than to deliver the 
-e-mail announcements. You may stop the arrival of these announcement lists at 
-any time by removing your e-mail address from the list by forwarding the 
-announcement list to
-<a href="mailto:announcementlist@jupitermedia.com" style="text-decoration: underline; color: #BC161D; outline: none">
-announcementlist@jupitermedia.com</a> or by following the instructions on the 
-e-mails you receive. </p>
-<p><b>What else should I know about my privacy when online?</b> </p>
-<p>The JUPM Network contains many hyperlinks to third party Web sites. The JUPM 
-Network also contains advertisements of third parties. JUPM is not responsible 
-for the privacy practices or the content of such third party Web sites or 
-advertisers. JUPM does not share any of the individual personal information you 
-provide JUPM with the third parties to which JUPM links, except as stated 
-elsewhere within this Privacy Policy, although JUPM may share general, aggregate 
-data with such third parties (such as how many people use our site). Please 
-check with those Web sites to determine their privacy policy. </p>
-<p>Please keep in mind that whenever you voluntarily disclose personal 
-information online - for example through e-mail, discussion lists, or elsewhere 
-- that information can be collected and used by others. In short, if you post 
-personal information online that is accessible to the public, you may receive 
-unsolicited messages from other parties in return. </p>
-<p>Ultimately, you are solely responsible for maintaining the secrecy of your 
-personal information. Please be careful and responsible whenever you're online.
-</p>
-<p>&nbsp;</p>
-<center>
-<p><b>Your Consent To This Agreement</b></p>
-</center>
-<p>By using the JUPM Network, you consent to the collection and use of 
-information by JUPM as specified above. We reserve the right to modify this 
-policy. If we decide to change our Privacy Policy, we will post those changes on 
-this page so that you are always aware of what information we collect, how we 
-use it, and under what circumstances we disclose it. </p>
-<p>Please send any questions about JUPM's Privacy Policy to:
-<a href="mailto:privacy@jupitermedia.com" style="text-decoration: underline; color: #BC161D; outline: none">
-privacy@jupitermedia.com</a> </p>
-<p>Please note that your use of the JUPM network of Web sites is governed by our
-<a href="http://www.jupitermedia.com/corporate/legal.html" target="_blank" style="text-decoration: underline; color: #BC161D; outline: none">
-Legal Notice</a>. </p>
-<p>(Revised March 30, 2005)
 
-								</p></td>
-							</tr>
-						</tbody></table>
-<br><br>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="134" bgcolor="#F8C663" valign="top">
+<!-- END: /en/default_left.mi -->
 
-			<table border="0">
-				<tbody><tr>
-					<td valign="top" align="center">
-						<!-- BEGIN AD BANNER 2 & 3 --><br>
-                        <br>
-                        <br>
-                        <br>
-                        &nbsp;
-						<!-- END AD BANNER 3 --><br>
-                        <br>
-                        
-						<!-- END AD BANNER 4 -->
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
+    </td>
+    <td width="590" valign="top" bgcolor="#FFFFFF">
+
+<!-- BEGIN: /en/company/privacy.mc -->
+
+<div id="body">
+
+<font class="nav">
+<a href="/en/">HOME</a> &gt; <a href="/en/company/about.mc">COMPANY</a> &gt; PRIVACY POLICY
+</font>
+
+<h1>Privacy Policy</h1>
+
+<p>We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by Jupitermedia and its wholly-owned subsidiaries including, without limitation, Jupiterimages Corporation, Hemera Technologies Inc. and the Dynamic Graphics Group (collectively hereafter "JUPM"). (The JUPM Network includes all Web sites and certain other Internet media properties linked directly or indirectly from the Jupitermedia.com home page.) The following discloses our Privacy Policy.
+</p><p><b>What information are you collecting and how are you collecting it?</b>
+</p><p>
+Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" <a href="http://webopedia.internet.com/TERM/I/IP_address.html" target="_blank">IP address</a>. When a visitor requests a page from any Web site within the JUPM Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the JUPM Network, its users, or to cooperate with law enforcement. See also <b>Will you disclose the information you collect to outside third parties?</b> We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors.
+</p><p>
+<b>What are cookies?  </b>
+</p><p>
+From time to time, JUPM or its advertisers may send a <a href="http://webopedia.internet.com/TERM/c/cookie.html" target="_blank">"cookie"</a> to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of JUPM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our site.
+You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended.
+
+</p><p>
+<b>How do you use single-pixel gifs? </b></p><p>
+JUPM and its advertisers may use single-pixel gif images, sometimes referred to as web bugs or web beacons, to count Web page accesses and gather some general statistical information. JUPM does not gather personal information through the use of these images. Our advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer by an advertiser.
+</p><p><b>What information do you collect when I register for something?</b>
+</p><p>
+JUPM offers access to some services that require registration. We may use your registration contact information to send notification to you of JUPM products and services by e-mail and/or postal mail. We also may share that information with our clients.  Our clients may send you promotional material that is related to the topic of the service for which you registered. We may also use your IP address internally and share it with third parties. See <b>Will you disclose the information that you collect to outside third parties?</b>
+</p><p><b>What other information do you request?</b>
+</p><p>
+We may also request your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters, announcement lists or information about conferences and trade shows). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy.
+</p><p>We may from time to time send e-mail announcing new JUPM products and services.  Except as stated above, JUPM will not send you e-mail that you have not agreed to receive. If you choose to supply your postal address in an online form, you may receive postal mailings from other  third party companies.
+</p><p>When you sign up for an JUPM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the JUPM network.
+</p><p>When you register for a contest or other promotion, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners.
+</p><p>When you use co-branded services, or those provided by a third party, within the JUPM Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies.
+
+<!--safeshopping begins-->
+
+</p><p><b>What information do you collect when I purchase something?</b>
+</p><p>
+If you are purchasing something from an JUPM media property, we and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. This information may also be used by us to notify you of related products and services.  Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission.
+</p><p>Certain JUPM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other JUPM media properties do not use SSL and thereby do not offer a secure coded way to transfer information.
+</p><p>Wherever JUPM collects personal information we make an effort to include a link to this Privacy Policy on that page.
+
+<!--safeshopping ends-->
+</p><p><b>Will you disclose the information you collect to outside third parties?</b></p><p>
+
+JUPM will disclose personal information and/or an IP address, when required by law or in the good-faith belief that such action is necessary to: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;1)&nbsp;	&nbsp;		Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on JUPM,
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp;2)&nbsp;&nbsp;		Protect and defend the rights or property of the JUPM Network of sites and related properties, or visitors to the JUPM Network of sites and related properties,
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp;3)&nbsp;&nbsp;		Identify persons who may be violating the law, the JUPM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the JUPM Network or its related properties,
+</p><p>&nbsp;&nbsp;&nbsp;&nbsp;4)&nbsp;&nbsp;		Fulfill a user's order or request.
+</p><p>
+JUPM uses reasonable precautions to keep the information disclosed to us secure. JUPM reserves the right to transfer all such information in connection with the sale of all or part of JUPM's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information.  We are not responsible for such third party privacy policies or how they treat information about their users<br>
+<i>See</i> below, <b>What else should I know about my privacy when online? See What information do you collect when I register for something.</b>
+</p><p>
+<b>Opt-in announcement List Privacy Policy</b></p><p>
+When you sign up for an JUPM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether you want to receive these announcement is your choice; you should only receive mailings pertaining to distribution lists you select. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages that are related to the topic of the list from independent third parties that have contracted with JUPM to send messages to the list. Personally identifiable information will not be used by JUPM for any purposes other than to deliver the e-mail announcements. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to <a href="mailto:announcementlist@jupitermedia.com">announcementlist@jupitermedia.com</a> or by following the instructions on the e-mails you receive. 
+
+</p><p>
+<b>What else should I know about my privacy when online?</b>
+</p><p>
+The JUPM Network contains many hyperlinks to third party Web sites.  The JUPM Network also contains advertisements of third parties.  JUPM is not responsible for the privacy practices or the content of such third party Web sites or advertisers. JUPM does not share any of the individual personal information you provide JUPM with the third parties to which JUPM links, except as stated elsewhere within this Privacy Policy, although JUPM may share general, aggregate data with such third parties (such as how many people use our site).  Please check with those Web sites to determine their privacy policy.
+</p><p>Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+</p><p>Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.</p><p>
+</p><center><b>Your Consent To This Agreement</b></center><p>
+
+By using the JUPM Network, you consent to the collection and use of information by JUPM as specified above. We reserve the right to modify this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+</p><p>
+Please send any questions about JUPM's Privacy Policy to: <a href="mailto:privacy@jupitermedia.com">privacy@jupitermedia.com</a></p><p>
+Please note that your use of the JUPM network of Web sites is governed by our <a href="http://www.jupitermedia.com/corporate/legal.html" target="_blank">Legal Notice</a>.
+</p><p>
+(Revised March 30, 2005)
+
+</p></div>
+
+<!-- END: /en/company/privacy.mc -->      <br>
+    </td>
+    <td bgcolor="#F8C663" width="10">&nbsp;</td>
+  </tr>
 </tbody></table>
 
-<table border="0" cellpadding="8" cellspacing="0" width="100%">
-	<tbody><tr>
-		<!-- BEGIN AD BANNER 5 -->
-		<td align="center">
-		
-		</td>
-		<!-- END AD BANNER 5 -->
-	</tr>
+  <!-- BEGIN: /en/default_foot.mi -->
+
+<table border="0" cellpadding="8" cellspacing="0" width="770">
+  <tbody><tr>
+    <td align="center">
+      <p><b>Animation Factory</b> - <i>Celebrating 10 Years of Animation</i><br>
+      <a href="/en/company/about.mc">About Animation Factory</a> - 
+      <a href="/en/company/policies.mc">Policies</a> - 
+      <a href="/en/company/privacy.mc">Privacy Policy</a> - 
+      <a href="/en/company/terms.mc">Terms of Use</a> - 
+      <a href="/en/company/affiliates.mc">Affiliate Program</a> - 
+      <a href="/en/sitemap.mc">Sitemap</a> - 
+      <a href="/en/company/contact.mc">Contact Us</a> - 
+      <a href="javascript:help_pop('index.mc')">Help</a>
+
+      </p><hr width="660">
+      <p align="center"><font class="small" style="COLOR: #484848">
+      © 2006 <a href="http://www.jupiterimages.com/" target="_blank" style="text-decoration: none; color: #BC161D; outline: none">Jupiterimages Corporation</a>.<br>
+      </font>
+
+      <font class="small"><br>
+      Also visit: 
+      <b><a style="color: #484848; text-decoration: none; outline: none" href="http://www.clipart.com" target="_blank">Clipart.com</a></b>, 
+      <b><a style="color: #484848; text-decoration: none; outline: none" href="http://www.photos.com" target="_blank">Photos.com</a></b>, 
+      <b><a style="color: #484848; text-decoration: none; outline: none" href="http://www.photoobjects.net" target="_blank">PhotoObjects.net</a></b>,
+      <b><a style="color: #484848; text-decoration: none; outline: none" href="http://www.jupitergreetings.com" target="_blank">JupiterGreetings.com</a></b>, 
+      <b><a style="color: #484848; text-decoration: none; outline: none" href="http://www.comstock.com" target="_blank">Comstock Images</a></b></font></p>
+    </td>
+  </tr>
 </tbody></table>
 
-																												<!-- BEGIN Footer -->
-<!-- template copyright.html -->
-
-<table border="0" cellpadding="8" cellspacing="0" width="100%">
-	<tbody><tr>
-		<td align="center">
-			<p><b>Animation Factory</b> - <i>Celebrating 9 Years OnLine!</i><br>
-						<a href="/company/about_us.html">About Animation Factory</a> - 
-			<a href="/company/contact_us.html">Contact Us</a> - 
-			<a href="/company/policies.html">Policies</a> - 
-			<a href="/company/privacy.html">Privacy Policy</a> - 
-			<a onclick="window.name = 'main';window.open('/help/help.html', 'win', 'height=500,width=525,scrollbars=yes,resizable=yes');return false" href="/help/help.html" target="win">Help &amp; Support</a> - 
-			<a href="/company/terms_of_use.html">Terms of Use</a> - 
-			<a href="/company/affiliate.html">Affiliate Program</a>
-			</p><hr width="660">
-			<p align="center"><font class="small" style="COLOR: #484848">© 2006
-<a href="http://www.jupiterimages.com/" target="_blank" style="text-decoration: none; color: #BC161D; outline: none">
-Jupiterimages Corporation</a>.<br>
-</font><font class="small"><br>
-Also visit: <b>
-<a style="color: #484848; text-decoration: none; outline: none" href="http://www.clipart.com" target="_blank">
-Clipart.com</a></b>, <b>
-<a style="color: #484848; text-decoration: none; outline: none" href="http://www.photos.com" target="_blank">
-Photos.com</a></b>, <b>
-<a style="color: #484848; text-decoration: none; outline: none" href="http://www.photoobjects.net" target="_blank">
-PhotoObjects.net</a></b>, <b>
-<a style="color: #484848; text-decoration: none; outline: none" href="http://www.comstock.com" target="_blank">
-ComstockImages.com</a></b></font></p>					</td>
-	</tr>
-</tbody></table>
-
-<img src="http://images-aud.animationfactory.com/pc.gif" width="1" height="1" border="0" alt="">
-<!-- SiteCatalyst code version: H.1.
-Copyright 1997-2005 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" src="//www.animationfactory.com/s_code.js"></script>
-<script language="JavaScript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName="AF:company :: privacy"
-s.server="animationfactory.com"
-s.channel="animationfactory.com"
-s.pageType=""
-s.prop1="company"
-s.prop2="privacy"
-s.prop3=""
-s.prop4=""
-s.prop5="Guest"
-s.prop6=""
-s.prop7=""
-s.hier1="company|privacy"
-/* E-commerce Variables */
-s.campaign=""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5="Guest"
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img
-src="http://ostganimationfactory.122.2O7.net/b/ss/ostganimationfactory/1/H.1--NS/0"
-height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.1. -->
 
 
 
-<!-- end Footer -->
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-  </td></tr></tbody></table>
-  </center>
+
+<!-- END: /en/default_foot.mi -->
+
 </div>
 
 
+<script language="Javascript">
+  if (document.forms.login) {
+    document.forms.login.user.focus();
+  } else if (document.forms.search) {
+    document.forms.search.q.focus();
+  } else if (document.forms.advsearch) {
+    document.forms.advsearch.q.focus();
+  } else if (document.forms.search_guest) {
+    document.forms.search_guest.q.focus();
+  }
+</script>
 
-		
-		
-		
-		</body></html>
+
+
+
+
+
+
+
+
+
+</body></html>
