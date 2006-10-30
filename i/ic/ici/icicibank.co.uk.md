@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icicibank.co.uk privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629214209id_/http%3A//www.icicibank.co.uk/personal-banking/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicibank.co.uk privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030031239id_/http%3A//icicibank.co.uk/personal-banking/privacy-policy.html) for the most accurate reproduction.*
 
 # ICICI Bank UK :: Privacy Policy
 
