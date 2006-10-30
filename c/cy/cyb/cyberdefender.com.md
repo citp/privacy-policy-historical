@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberdefender.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195428id_/http%3A//www.cyberdefender.com/internet-security-company/internet-security-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberdefender.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030101112id_/http%3A//www.cyberdefender.com/internet-security-company/internet-security-privacy-policy.htm) for the most accurate reproduction.*
 
 # CyberDefender Corporation Contact | Internet Security Company Contact
 
