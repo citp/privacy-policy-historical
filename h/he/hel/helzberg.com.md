@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helzberg.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614004842id_/http%3A//www.helzberg.com/hdsim/jsp/nav.do%3Ftemplate%3D/commerce/learning/editorialContent%26edName%3DED_PRIVACY_SECURITY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helzberg.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030125227id_/http%3A//www.helzberg.com/hdsim/jsp/nav.do%3Ftemplate%3D/commerce/learning/editorialContent%26edName%3DED_PRIVACY_SECURITY) for the most accurate reproduction.*
 
 # 
 
@@ -8,7 +8,7 @@ We know that buying jewelry is one of the most important purchases you will ever
 
 At Helzberg Diamonds, we value your privacy. To ensure your privacy, it is our policy not to rent our mailing list to anyone or any company - without exception!
 
-We may use customer information for our own marketing and promotional purposes from time to time. If at any time you would like us to delete your registration information, feel free to contact us at [customerservice@helzberg.com](mailto:customerservice@helzberg.com). Please be sure to include your e-mail address, password, full name and address.[ ](http://www.the-dma.org/dmalogotext.html)
+We may use customer information for our own marketing and promotional purposes from time to time. If at any time you would like us to delete your registration information, feel free to contact us at [customerservice@helzberg.com](mailto:customerservice@helzberg.com). Please be sure to include your e-mail address, password, full name and address.[ ](https://www.the-dma.org/dmalogotext.html)
 
 Helzberg Diamonds is a member of the Direct Marketing Association and has committed to the association's Privacy Promise, which includes the following principles:
 
@@ -44,10 +44,10 @@ We guarantee that every transaction you make through Helzberg Diamonds' Online S
 
 Helzberg Diamonds collects customer information to make your online shopping experience stress free and enjoyable. We respect your privacy, and we assure you that we will maintain and use this information responsibly. Please click here for more information on the information we collect and our usage of cookies.
 
-[](http://digitalid.verisign.com/as2/7f1d8e63d60ea10ac5108c9e8330e046)[ ](http://digitalid.verisign.com/as2/7f1d8e63d60ea10ac5108c9e8330e046) This site has a VeriSign Secure Server ID.
+[](https://digitalid.verisign.com/as2/7f1d8e63d60ea10ac5108c9e8330e046)[ ](https://digitalid.verisign.com/as2/7f1d8e63d60ea10ac5108c9e8330e046) This site has a VeriSign Secure Server ID.
 
 VeriSign has verified the organizational name and that Helzberg Diamond Shops, Inc. has the proof of right to use it. This site legitimately runs under the auspices of Helzberg Diamond Shops, Inc. All information sent to this site, if in an SSL session, is encrypted, protecting against disclosure to third parties.
 
 **Jeweler's Vigilance Committee**
 
-[ ](http://www.jvclegal.org/) Helzberg Diamond Shops, Inc. is a registered member of The Jewelers Vigilance Committee. JVC was founded in 1912 as an industry funded, self-regulatory organization to foster ethics and integrity in the jewelry industry. JVC has since grown into the legal arm of jewelry industry and continues to advance legal compliance and ethical practices in the trade.
+[ ](https://www.jvclegal.org/) Helzberg Diamond Shops, Inc. is a registered member of The Jewelers Vigilance Committee. JVC was founded in 1912 as an industry funded, self-regulatory organization to foster ethics and integrity in the jewelry industry. JVC has since grown into the legal arm of jewelry industry and continues to advance legal compliance and ethical practices in the trade.
