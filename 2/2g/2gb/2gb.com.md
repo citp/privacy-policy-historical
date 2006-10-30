@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2gb.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618190825id_/http%3A//www.2gb.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D68%26Itemid%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2gb.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030060634id_/http%3A//2gb.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D68%26Itemid%3D36) for the most accurate reproduction.*
 
 # 2GB - MACQUARIE RADIO NETWORK: PRIVACY POLICY
 
@@ -12,12 +12,12 @@ As the Macquarie Radio Network may collect personal information online through o
 
 Our Privacy Policy is divided into the following sections:
 
-  1. [HOW AND WHY WE COLLECT PERSONAL INFORMATION](https://web.archive.org/web/20060618190825id_/http%3A//www.2gb.com/index.php?option=com_content&task=view&id=68&Itemid=36#1)
-  2. [WILL YOUR PERSONAL INFORMATION BE GIVEN TO ANYONE ELSE?](https://web.archive.org/web/20060618190825id_/http%3A//www.2gb.com/index.php?option=com_content&task=view&id=68&Itemid=36#2)
-  3. [HOW IS YOUR PERSONAL INFORMATION STORED?](https://web.archive.org/web/20060618190825id_/http%3A//www.2gb.com/index.php?option=com_content&task=view&id=68&Itemid=36#3)
-  4. [YOUR RIGHT OF ACCESS AND CORRECTION](https://web.archive.org/web/20060618190825id_/http%3A//www.2gb.com/index.php?option=com_content&task=view&id=68&Itemid=36#4)
-  5. [ONLINE COLLECTION OF PERSONAL AND NON-PERSONAL INFORMATION](https://web.archive.org/web/20060618190825id_/http%3A//www.2gb.com/index.php?option=com_content&task=view&id=68&Itemid=36#5)
-  6. [ADDITIONAL PRIVACY INFORMATION & HOW TO CONTACT US](https://web.archive.org/web/20060618190825id_/http%3A//www.2gb.com/index.php?option=com_content&task=view&id=68&Itemid=36#6)
+  1. [HOW AND WHY WE COLLECT PERSONAL INFORMATION](https://web.archive.org/web/20061030060634id_/http%3A//2gb.com/index.php?option=com_content&task=view&id=68&Itemid=36#1)
+  2. [WILL YOUR PERSONAL INFORMATION BE GIVEN TO ANYONE ELSE?](https://web.archive.org/web/20061030060634id_/http%3A//2gb.com/index.php?option=com_content&task=view&id=68&Itemid=36#2)
+  3. [HOW IS YOUR PERSONAL INFORMATION STORED?](https://web.archive.org/web/20061030060634id_/http%3A//2gb.com/index.php?option=com_content&task=view&id=68&Itemid=36#3)
+  4. [YOUR RIGHT OF ACCESS AND CORRECTION](https://web.archive.org/web/20061030060634id_/http%3A//2gb.com/index.php?option=com_content&task=view&id=68&Itemid=36#4)
+  5. [ONLINE COLLECTION OF PERSONAL AND NON-PERSONAL INFORMATION](https://web.archive.org/web/20061030060634id_/http%3A//2gb.com/index.php?option=com_content&task=view&id=68&Itemid=36#5)
+  6. [ADDITIONAL PRIVACY INFORMATION & HOW TO CONTACT US](https://web.archive.org/web/20061030060634id_/http%3A//2gb.com/index.php?option=com_content&task=view&id=68&Itemid=36#6)
 
 
 
