@@ -1,13 +1,10 @@
-<!--The following is the downloaded HTML source of the meritline.com privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616170024id_/http%3A//www.meritline.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the meritline.com privacy policy that was archived on 2006-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061030155727id_/http%3A//meritline.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script language="javascript"> 
  <!-- 
-if (document.referrer && (document.referrer!='') && window.Image) 
-{ 
- (new Image).src="http://store.yahoo.com/cgi-bin/refsd?e=http://www.meritline.com/privacypolicy.html&r=&v=1.0&dr=" + escape(document.referrer); 
-}
-// --> 
+ (new Image).src="http://store.yahoo.com/cgi-bin/refsd?e=http://www.meritline.com/privacypolicy.html&h=www.meritline.com&v=1.0&dr=" + escape(document.referrer); 
+ --> 
  </script>
 <title>Privacy Policy - Meritline.com</title><meta name="Keywords" content=""><meta name="Description" content=""><link href="http://lib.store.yahoo.net/lib/meritline/mrtl.css" rel="stylesheet" type="text/css">
 
@@ -53,12 +50,82 @@ document.sameter.height = 0;
 </script>
 <script language="javascript" src="http://lib.store.yahoo.net/lib/meritline/paginate.js"></script>
 <script language="javascript" src="http://lib.store.yahoo.net/lib/meritline/pagecontrols.js"></script>
+
+<script language="javascript">
+
+function validateform()
+{
+    var reason = "";
+	reason += checkTopic(document.frmContactUs.topics.selectedIndex);
+    reason += checkName(document.frmContactUs.custname.value);
+    reason += checkEmail(document.frmContactUs.emailaddress.value);
+    reason += checkOrderNo(document.frmContactUs.orderno.value);
+  
+
+    if (reason != "") 
+    {
+       alert(reason);
+     
+		return false;
+	}
+	else
+	{
+	if (document.frmContactUs.sendtome.checked == true)
+		document.frmContactUs.sendme.value="1"
+	else
+		document.frmContactUs.sendme.value="0"
+
+
+	return true;
+	
+
+	}
+}
+
+function checkTopic(strng)
+{
+	var errormsg="";
+	if (strng == 0)
+	
+	errormsg = "Please select a topic.\n";
+	return errormsg;
+	
+}
+
+function checkName(strng)
+{
+var errormsg="";
+if (strng == "")
+	errormsg = "Please enter your name.\n";
+	return errormsg;
+}
+
+function checkEmail(strng)
+{
+	var emailFilter=/^.+@.+\..{2,3}$/;
+	var errormsg = "";
+	if (!(emailFilter.test(strng))) 
+	{ 
+       errormsg = "Please enter a valid email address.\n";
+	}
+	return errormsg;
+}
+
+function checkOrderNo(strng)
+{
+	var errormsg="";
+	if ((document.frmContactUs.topics.selectedIndex==2 || document.frmContactUs.topics.selectedIndex==3 || document.frmContactUs.topics.selectedIndex==4 ||document.frmContactUs.topics.selectedIndex==5) && (strng==""))
+		errormsg = "Please enter your order number.\n";
+	return errormsg;
+}
+</script>
+
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 </head><body bgcolor="ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <table width="994" border="0" cellspacing="0" cellpadding="0" style="background-image:url(http://lib.store.yahoo.net/lib/meritline/mrtl-new-004.jpg); background-repeat: repeat-x; background-position: top">
   <tbody><tr valign="top"> 
     <td width="249"><a href="index.html"><img name="mrtlnew001" src="http://lib.store.yahoo.net/lib/meritline/mrtl-new-001.jpg" width="249" height="55" border="0" alt=""></a></td>
-    <td width="240" align="right"><a href="newsletter3.html"><img src="http://lib.store.yahoo.net/lib/meritline/mrtl-new-0021-20060221.gif" alt="" width="197" height="54" border="0"></a></td>
+    <td width="240" align="right"><a href="newsletter3.html"><img src="http://lib.store.yahoo.net/lib/meritline/mrtl-new-0021-200602211024.gif" alt="" width="185" height="55" border="0"></a></td>
     <td align="right"> <table border="0" cellpadding="0" cellspacing="0">
         <tbody>
           <tr> 
@@ -128,7 +195,7 @@ document.sameter.height = 0;
     <td width="5"><img name="mrtlnew037" src="http://lib.store.yahoo.net/lib/meritline/mrtl-new-037.gif" width="5" height="25" border="0" alt=""></td>
     <td align="center" class="topNav"><a href="software.html" class="topNavA">Software</a></td>
     <td width="5"><img name="mrtlnew037" src="http://lib.store.yahoo.net/lib/meritline/mrtl-new-037.gif" width="5" height="25" border="0" alt=""></td>
-    <td align="center" class="topNav"><a href="meritline-lamp-store.html" class="topNavA">Lamps</a></td>
+    <td align="center" class="topNav"><a href="meritline-online-photo-printing.html" class="topNavA">PHOTO</a></td>
     <td width="3"></td>
   </tr>
   <tr bgcolor="#FFFFFF"> 
@@ -147,7 +214,7 @@ document.sameter.height = 0;
             <td><a href="external-hard-drive-enclosure.html"><img height="22" alt="" src="http://lib.store.yahoo.net/lib/meritline/mrtl-new-051003.gif" width="63" border="0" name="mrtlnew055"></a></td>
             <td><a href="securedigitalsdcards.html"><img height="22" alt="" src="http://lib.store.yahoo.net/lib/meritline/mrtl-new-051004.gif" width="57" border="0" name="mrtlnew055"></a></td>
             <td><a href="laptop-battery-notebook-computer-batteries.html"><img height="22" alt="" src="http://lib.store.yahoo.net/lib/meritline/mrtl-new-051007lb.gif" width="90" border="0" name="mrtlnew055"></a></td>
-            <td><a href="computerdesks.html"><img height="22" alt="" src="http://lib.store.yahoo.net/lib/meritline/mrtl-new-051006.gif" width="88" border="0" name="mrtlnew055"></a></td>
+            <td><a href="meritline-online-photo-printing.html" target="_blank"><img height="22" alt="" src="http://lib.store.yahoo.net/lib/meritline/mrtl-new-051006pp.gif" width="80" border="0" name="mrtlnew055"></a></td>
           </tr>
         </tbody></table></td>
       <td width="10"><img name="mrtlnew057" src="http://lib.store.yahoo.net/lib/meritline/mrtl-new-057.gif" width="10" height="22" border="0" alt=""></td>
@@ -495,7 +562,7 @@ document.sameter.height = 0;
     <td height="3"></td>
   </tr>
   <tr> 
-    <td><a href="http://store.yahoo.com/cgi-bin/clink?meritline+5FmFNc+ritek-ridata-branded-8x-dvdr-dvd-r-media-blank-discs.html"><img src="http://lib.store.yahoo.net/lib/meritline/ml-rt-pod-061601.gif" width="132" height="160" border="0" alt=""></a></td>
+   <td> <a href="http://store.yahoo.com/cgi-bin/clink?meritline+ZRucWh+ritek-8x-dvdr-dvd-r-media-blank-hub-printable-discs.html"><img src="http://lib.store.yahoo.net/lib/meritline/ml-rt-pod-081501.gif" width="132" height="160" border="0" alt=""></a> </td>
   </tr>
 </tbody></table>
 <table border="0" cellpadding="0" cellspacing="0">
@@ -503,7 +570,14 @@ document.sameter.height = 0;
     <td height="10"></td>
   </tr>
   <tr> 
-    <td><a href="newsletter3.html"><img src="http://lib.store.yahoo.net/lib/meritline/mlnl060616right.jpg" width="132" height="140" border="0" alt=""></a></td>
+   <td><a href="newsletter3.html"><img src="http://lib.store.yahoo.net/lib/meritline/mlnl061030right.jpg" width="132" height="140" border="0" alt=""></a></td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+    <td height="10"></td>
+  </tr><tr> 
+    <td><a href="harddrives.html"><img src="http://lib.store.yahoo.net/lib/meritline/hard-drive-0901.gif" width="132" height="140" border="0" alt=""></a></td>
   </tr>
 </tbody></table>
 <table border="0" cellpadding="0" cellspacing="0">
@@ -511,259 +585,65 @@ document.sameter.height = 0;
     <td height="10"></td>
   </tr>
   <tr> 
-    <td><a href="http://store.yahoo.com/cgi-bin/clink?meritline+yx2VeW+intershippingfee.html"><img src="http://lib.store.yahoo.net/lib/meritline/banner-home-inter0606-rt.gif" width="132" height="140" border="0" alt=""></a></td>
+    <td> <a href="generic-16x-dvd-r-white-inkjet-printable.html"><img src="http://lib.store.yahoo.net/lib/meritline/banner-media-generic-1027-rt.jpg" width="132" height="140" vspace="5" border="0"></a> </td>
   </tr>
 </tbody></table>
+
 <table border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td height="10"></td>
   </tr>
   <tr>
-    <td><a href="http://www.meritlineforum.com/forumdisplay.php?f=6" target="_blank"><img src="http://lib.store.yahoo.net/lib/meritline/rt-forumdeal-banner2.gif" width="132" height="75" border="0" alt="Today's Hot Deals!"></a></td>
-  </tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td height="10"></td>
-  </tr>
-  <tr> 
-    <td> <a href="moving-star-3-5-usb-black-aluminum-enclosure.html"><img src="http://lib.store.yahoo.net/lib/meritline/197-128-0613.gif" width="132" height="210" border="0"></a></td>
-  </tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td height="10"></td>
-  </tr>
-
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td height="10"></td>
-  </tr>
-  <tr> 
-    <td><a href="ordering-faq.html"><img src="http://lib.store.yahoo.net/lib/meritline/ml-rt-helpC.gif" width="132" height="87" border="0" alt="Help Center"></a></td>
-  </tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td height="10"></td>
-  </tr>
-  <tr> 
-    <td><a href="affiliate.html"><img src="http://lib.store.yahoo.net/lib/meritline/ml-rt-affiliateP1.gif" width="132" height="191" border="0" alt="Affiliate Program"></a></td>
-  </tr>
-<tr> 
-    <td height="10"></td>
-  </tr>
-  <tr> 
-    <td><a href="usb-firewire-cable-mouse-gift-combo.html"><img src="http://lib.store.yahoo.net/lib/meritline/computertime-EC-rt.gif" width="132" height="90" border="0" alt="Meritline's Ultimate Cable Kit has been selected as an Editor's Choice by the editors of Computer Times."></a></td>
-  </tr>
-</tbody></table>
-<table width="100" height="10" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td></td>
-  </tr>
-</tbody></table>
-<table width="132" border="0" cellpadding="0" cellspacing="0" background="http://lib.store.yahoo.net/lib/meritline/mrtl-new-400.gif">
-  <tbody><tr> 
-    <td height="20" valign="top" background="http://lib.store.yahoo.net/lib/meritline/mrtl-new-0941.gif">&nbsp;</td>
-  </tr>
-  <tr> 
-    <td valign="top" background="http://lib.store.yahoo.net/lib/meritline/mrtl-new-095.gif"><table width="130" border="0" cellspacing="0" cellpadding="3">
-        <tbody><tr> 
-          <td align="center" valign="top"><marquee direction="up" scrollamount="2" hspace="0" scrolldelay="20" width="100%" height="210" onmouseover="this.stop()" onmouseout="this.start()">
-            <table border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td><table width="125" border="0" align="center" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td class="title"> DVR Capabilities Soar</td>
-                    </tr>
-                    <tr> 
-                      <td><hr align="center" width="125" size="1"></td>
-                    </tr>
-                    <tr> 
-                      <td class="title2"> DVR capability soars for cable and satellite boxes ... </td>
-                    </tr>
-                    <tr> 
-                      <td height="16"><a href="news-center.html"> <font color="#336699" size="1">Click 
-                        to read more</font></a></td>
-                    </tr>
-                    <tr> 
-                      <td>&nbsp;</td>
-                    </tr>
-                  </tbody></table></td>
-              </tr>
-              <tr> 
-                <td><table width="125" border="0" align="center" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td class="title"> Flash Fades in 2010
-                      </td>
-                    </tr>
-                    <tr> 
-                      <td><hr align="center" width="125" size="1"></td>
-                    </tr>
-                    <tr> 
-                      <td class="title2"> Flash technology fades in 2010, then "universal memory" Intel Corp. sees current flash  ... </td>
-                    </tr>
-                    <tr> 
-                      <td height="16"><a href="news-center.html"> <font color="#336699" size="1">Click 
-                        to read more</font></a></td>
-                    </tr>
-                    <tr> 
-                      <td>&nbsp;</td>
-                    </tr>
-                  </tbody></table></td>
-              </tr>
-              <tr> 
-                <td><table width="125" border="0" align="center" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td class="title"> Sony to Outline PS Strategy </td>
-                    </tr>
-                    <tr> 
-                      <td><hr align="center" width="125" size="1"></td>
-                    </tr>
-                    <tr> 
-                      <td class="title2">The head of Sony's video game unit was set to outline strategy  ...</td>
-                    </tr>
-                    <tr> 
-                      <td height="16"><a href="news-center.html"> <font color="#336699" size="1">Click 
-                        to read more</font></a></td>
-                    </tr>
-                    <tr> 
-                      <td>&nbsp;</td>
-                    </tr>
-                  </tbody></table></td>
-              </tr>
-              <tr> 
-                <td><table width="125" border="0" align="center" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td class="title">Incompatible Blue Players, Few Titles</td>
-                    </tr>
-                    <tr> 
-                      <td><hr align="center" width="125" size="1"></td>
-                    </tr>
-                    <tr> 
-                      <td class="title2"> A DVD Format War Breaks Out - Toshiba, Samsung Launching Incompatible High-Def ... </td>
-                    </tr>
-                    <tr> 
-                      <td height="16"><a href="news-center.html"> <font color="#336699" size="1">Click 
-                        to read more</font></a></td>
-                    </tr>
-                    <tr> 
-                      <td>&nbsp;</td>
-                    </tr>
-                  </tbody></table></td>
-              </tr>
-              <tr> 
-                <td><table width="125" border="0" align="center" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td class="title"> Pinnacle Video Viewing</td>
-                    </tr>
-                    <tr> 
-                      <td><hr align="center" width="125" size="1"></td>
-                    </tr>
-                    <tr> 
-                      <td class="title2"> Pinnacle Systems, the consumer division of Avid Technology... </td>
-                    </tr>
-                    <tr> 
-                      <td height="16"><a href="news-center.html"> <font color="#336699" size="1">Click 
-                        to read more</font></a></td>
-                    </tr>
-                    <tr> 
-                      <td>&nbsp;</td>
-                    </tr>
-                  </tbody></table></td>
-              </tr>
-              <tr> 
-                <td><table width="125" border="0" align="center" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td class="title">Net Neutrality Debate</td>
-                    </tr>
-                    <tr> 
-                      <td><hr align="center" width="125" size="1"></td>
-                    </tr>
-
-                    <tr> 
-                      <td class="title2">Speculation that the two biggest phone companies in the country, AT&amp;T and Verizon ... </td>
-                    </tr>
-                    <tr> 
-                      <td height="16"><a href="news-center.html"> <font color="#336699" size="1">Click 
-                        to read more</font></a></td>
-                    </tr>
-                    <tr> 
-                      <td>&nbsp;</td>
-                    </tr>
-                  </tbody></table></td>
-              </tr>
-              <tr> 
-                <td><table width="125" border="0" align="center" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td class="title">Korea ExpandsFlat-Panel Production</td>
-                    </tr>
-                    <tr> 
-                      <td><hr align="center" width="125" size="1"></td>
-                    </tr>
-                    <tr> 
-                      <td class="title2"> South Korean manufacturers LG and Samsung 
-                        each announced ... </td>
-                    </tr>
-                    <tr> 
-                      <td height="16"><a href="news-center.html"> <font color="#336699" size="1">Click 
-                        to read more</font></a></td>
-                    </tr>
-                    <tr> 
-                      <td>&nbsp;</td>
-                    </tr>
-                  </tbody></table></td>
-              </tr>
-              <tr> 
-                <td><table width="125" border="0" align="center" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td class="title">Dell Downplays Alienware Buy</td>
-                    </tr>
-                    <tr> 
-                      <td><hr align="center" width="125" size="1"></td>
-                    </tr>
-                    <tr> 
-                      <td class="title2"> Dell has moved to quash rumors that suggested the company ... </td>
-                    </tr>
-                    <tr> 
-                      <td height="16"><a href="news-center.html"> <font color="#336699" size="1">Click 
-                        to read more</font></a></td>
-                    </tr>
-                    <tr> 
-                      <td>&nbsp;</td>
-                    </tr>
-                  </tbody></table></td>
-              </tr>
-              <tr> 
-                <td><table width="125" border="0" align="center" cellpadding="0" cellspacing="0">
-                    <tbody><tr> 
-                      <td class="title"> AMD Part 3 </td>
-                    </tr>
-                    <tr> 
-                      <td><hr align="center" width="125" size="1"></td>
-                    </tr>
-                    <tr> 
-                      <td class="title2"> After a long period of being considered the under-dog of the ... </td>
-                    </tr>
-                    <tr> 
-                      <td height="16"><a href="news-center.html"> <font color="#336699" size="1">Click 
-                        to read more</font></a></td>
-                    </tr>
-                    <tr> 
-                      <td>&nbsp;</td>
-                    </tr>
-                  </tbody></table></td>
-              </tr>
-            </tbody></table>
-            </marquee> </td>
-        </tr>
-      </tbody></table></td>
+    <td><a href="index2.html"><img src="http://lib.store.yahoo.net/lib/meritline/banner-sm-new.jpg" width="132" height="36" border="0" alt="New Arrivals"></a></td>
   </tr>
   <tr>
-    <td height="1" valign="top" background="http://lib.store.yahoo.net/lib/meritline/mrtl-new-095.gif"></td>
+    <td height="10"></td>
   </tr>
-</tbody></table></td></tr><tr><td colspan="3"><br><br><table width="994" height="10" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><a href="outletstore-media.html"><img src="http://lib.store.yahoo.net/lib/meritline/banner-sm-outlet.jpg" width="132" height="36" border="0" alt="Outlet Store"></a></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td><a href="http://store.yahoo.com/cgi-bin/clink?meritline+yx2VeW+intershippingfee.html"><img src="http://lib.store.yahoo.net/lib/meritline/banner-sm-international.jpg" width="132" height="36" border="0" alt="International Orders"></a></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.meritlineforum.com/forumdisplay.php?f=6"><img src="http://lib.store.yahoo.net/lib/meritline/banner-sm-forum.jpg" width="132" height="36" border="0" alt="Meritline Forum"></a></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td><a href="ordering-faq.html"><img src="http://lib.store.yahoo.net/lib/meritline/banner-sm-help.jpg" width="132" height="36" border="0" alt="Help Center"></a></td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td><a href="affiliate.html"><img src="http://lib.store.yahoo.net/lib/meritline/banner-sm-affiliate.jpg" width="132" height="36" border="0" alt="Affiliate Program"></a></td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+    <td height="10"></td>
+  </tr>
+  <tr> 
+    <td> <a href="playo-8x-dvd-r-pdvmr-0850c.html"><img src="http://lib.store.yahoo.net/lib/meritline/banner-media-061020-rt.gif" width="132" height="140" vspace="5" border="0"></a> </td>
+  </tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+    <td height="10"></td>
+  </tr><tr> 
+    <td><a href="digital-stamps-template.html"><img src="http://lib.store.yahoo.net/lib/meritline/digital-stamp-810.jpg" width="132" height="140" border="0"></a></td>
+  </tr>
+</tbody></table>
+<br>
+</td></tr><tr><td colspan="3"><br><br><table width="994" height="10" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr> 
     <td></td>
   </tr>
@@ -777,11 +657,6 @@ document.sameter.height = 0;
 </tbody></table>
 <table width="994" height="4" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td></td>
-  </tr>
-</tbody></table>
-<table width="994" height="4" border="0" cellpadding="0" cellspacing="0" bgcolor="#CCCCCC">
-  <tbody><tr> 
     <td></td>
   </tr>
 </tbody></table>
@@ -820,601 +695,35 @@ document.sameter.height = 0;
       </tbody></table></td>
   </tr>
 </tbody></table>
-<table width="994" height="2" border="0" cellpadding="0" cellspacing="0">
+<table width="994" height="4" border="0" cellpadding="0" cellspacing="0" bgcolor="#CCCCCC">
+  <tbody><tr> 
+    <td></td>
+  </tr>
+</tbody></table>
+<table width="994" height="1" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr> 
     <td></td>
   </tr>
 </tbody></table>
 <table width="994" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
-    <td><table width="994" border="0" cellpadding="0" cellspacing="1" bgcolor="A2B2ED">
-        <tbody>
-          <tr bgcolor="#edf1fa"> 
-            <td width="168" height="17">&nbsp;<strong><a href="media.html" style="text-decoration: none"><font face="Verdana, Arial, Helvetica, sans-serif" color="#333333" size="1"> 
-              Media</font></a> </strong></td>
-            <td width="164" height="15">&nbsp;<strong><a href="memory.html" style="text-decoration: none"><font color="#333333" size="1" face="Verdana, Arial, Helvetica, sans-serif">Memory</font></a> 
-              </strong></td>
-            <td width="168" height="15">&nbsp;<strong><a href="ink-toner-cartridges-inks-inkjet-toners-cartridge.html" style="text-decoration: none"><font color="#333333" size="1" face="Verdana, Arial, Helvetica, sans-serif">Ink/Toner</font> 
-              </a> </strong></td>
-            <td width="164" height="15">&nbsp;<strong><a href="paper-labels.html" style="text-decoration: none"><font color="#333333" size="1" face="Verdana, Arial, Helvetica, sans-serif">Paper/Label</font></a></strong></td>
-            <td width="164" height="15">&nbsp;<strong><a href="cases-bags.html" style="text-decoration: none"><font color="#333333" size="1" face="Verdana, Arial, Helvetica, sans-serif">Bags/Cases</font></a></strong></td>
-            <td width="164">&nbsp;<strong><a href="buy-cheap-dvd-movie.html" style="text-decoration: none"><font color="#333333" size="1" face="Verdana, Arial, Helvetica, sans-serif">DVD 
-              Movie</font></a></strong></td>
-          </tr>
-          <tr> 
-            <td width="168" align="center" valign="top" bgcolor="#ffffff"> <table width="155" border="0" cellspacing="1" cellpadding="1">
-                <tbody><tr> 
-                  <td valign="top"><strong><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="dvd-r-blank-media-1.html">DVD-R 
-                    Media,</a> <a href="dvd-rw-blank-media.html">DVD-RW</a></font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><strong><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="dvd-plus-r-blank-media.html">DVD+R 
-                    / DVD+RW</a></font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><strong><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="dl-dvd-r-double-dual-layer-dvdr-dl.html">DL 
-                    DVD-R,</a> </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="dvd-r-double-dual-layer-dvdplusr-dl.html">DL 
-                    DVD+R</a></font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><strong><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="cdr-cd-r-blank-media-disc-disk-bulk-discs-disks.html">CD-R 
-                    Media,</a> </font></strong><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="cd-rw-rewritable-blank-media-cdrw-disc-disk-cheap.html">CD-RW</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><strong><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="lightscribe-blank-media.html">LightScribe 
-                    DVD R / CDR</a> </font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="dvd-ram-blank-media-panasonic-optodisc-mini.html">DVD-RAM<em></em></a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
-                    <a href="dlt-tape-lto-tapes-cartridge-blank-media.html">DLT/LTO 
-                    Tape</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="data-cartridge-tape-cartridges-tapes-sony-4mm-8mm.html">Data 
-                    Cartridge</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="floppy-disk-disc-disks-discs.html">Floppy 
-                    Disk</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="iomega-zip-disk-disc-jaz-disks-discs.html">Zip, 
-                    Jaz Disk, ORB</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="magneto-optical-disk-disks-disc-sony.html">Magneto 
-                    Optical</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mini-dv-tape-minitv-tapes-sony-panasonic.html">Mini 
-                    DV Tape</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="audio-cassette-tape-tapes-cassettes-labels.html">Audio 
-                    Cassette</a></font></td>
-                </tr>
-              </tbody></table></td>
-            <td width="164" align="center" valign="top" bgcolor="#ffffff"> <table width="155" border="0" cellspacing="1" cellpadding="1">
-                <tbody><tr> 
-                  <td valign="top"><strong><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="usb-watch.html">USB 
-                    Watch</a></font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><strong><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="usbpendrive.html">USB 
-                    Pen Drive</a></font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="commemcarfor.html">CompactFlash 
-                    Card</a></font></td>
-                </tr>                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="mulcarmmccar.html">MultiMedia 
-                    Card</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="securedigitalsdcards.html"><strong>Secure 
-                    Digital Card</strong></a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="memorysticks.html">Memory 
-                    Stick</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><font color="#003366"><a href="xdpicturecard.html"> 
-                    XD-Picture Cards </a></font></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="readers.html"><strong>Card 
-                    Reader</strong></a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="apple.html">Apple 
-                    Memory</a></font></td>
-                </tr>
-              </tbody></table></td>
-            <td width="168" align="center" valign="top" bgcolor="#ffffff"> <table width="155" border="0" cellspacing="1" cellpadding="1">
-                <tbody><tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="epson-printer-numbers.html"><strong>Epson 
-                    Ink Cartridges </strong></a> </font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="canon-printer-numbers.html">Canon 
-                    Ink / Toner </a> </font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="brother-printer-numbers.html">Brother 
-                    Ink / Toner</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="hp-printer-numbers.html">HP/Hewlett 
-                    Packard</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="lexmark-printer-numbers.html">IBM/Lexmark 
-                    Ink / Toner</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="minolta-printer-models.html"><strong>Minolta 
-                    / QMS Toners</strong></a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="primera-printer-numbers.html">Primera 
-                    OEM Ink Cartridge</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="samsung-printer-numbers.html">Samsung 
-                    Toner Cartridge</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="sharp-printer-numbers.html">Sharp 
-                    Ink / Toner</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="ribbon-cartridges-ribbon-refil-rolls.html">Fax 
-                    / Ribbon Cartridge</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="refill-kits-bulk-ink.html">Bulk 
-                    Inks</a></font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="ink-toner-cartridges-inks-inkjet-toners-cartridge-refill-kits.html">Ink 
-                    / Toner Refill Kits</a></font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="cleaning-ink-cartridges-inks-inkjet-cartridge.html">Cleaning 
-                    Cartridges</a></font></td>
-                </tr>
-                <tr> 
-                  <td height="10" valign="top"></td>
-                </tr>
-              </tbody></table></td>
-            <td width="164" align="center" valign="top" bgcolor="#ffffff"> <table width="155" border="0" cellspacing="1" cellpadding="1">
-                <tbody><tr> 
-                  <td valign="top"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="label.html">CD/DVD 
-                    Labels</a></font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="cdcasin.html">CD/DVD 
-                    Case Inserts</a></font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="cd-dvd-case-mailer.html">DVD 
-                    Mailers</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="cdlabsof.html">CD/DVD 
-                    Label Software</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="audio-video-label-labels.html">Audio/Video 
-                    Label</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="avcomlab.html">Avery 
-                    Compatible Labels</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="inkjetpaper.html">Photo 
-                    Paper</a> </font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="chbochre.html">Check 
-                    Books/Refills</a></font></td>
-                </tr>
-              </tbody></table></td>
-            <td width="164" align="center" valign="top" bgcolor="#ffffff"> <table width="155" border="0" cellspacing="1" cellpadding="1">
-                <tbody><tr> 
-                  <td valign="top"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="cd-dvd-case-cases-jewel-slim-double-dual-portable.html">CD/DVD 
-                    Cases</a></font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="cd-dvd-wallet-holder-wallets-holders.html">CD/DVD 
-                    Wallets</a></font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="handbag.html">Laptop 
-                    Carrying Cases</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="laptopbackpack.html">Laptop 
-                    Backpacks</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="briefcase.html">Organizers 
-                    &amp; Briefcases</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="backpack4.html">Sport 
-                    BackPacks</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="camera-case-digital-cameras-bags.html">Camera 
-                    Cases</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="camcorder-case-bags.html">Camcorder 
-                    Bags</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="cd-player-case-speaker-bag-backpack.html">CD 
-                    Player Cases</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="cellphone-case.html">Cell 
-                    Phone Cases</a></font></td>
-                </tr>
-              </tbody></table></td>
-            <td width="164" align="center" valign="top" bgcolor="#ffffff"> <table width="155" border="0" cellspacing="1" cellpadding="1">
-                <tbody><tr> 
-                  <td><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="baby-learning-tree-house-dvd-movies.html"> 
-                    Learning Treehouse DVDs</a></font></td>
-                </tr>
-                <tr> 
-                  <td><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="classic-testament-movies.html"> 
-                    Testament DVDs </a></font></td>
-                </tr>
-                <tr> 
-                  <td><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="classic-five-pack-dvd-movies.html"> 
-                    5 Pack Collections </a></font></td>
-                </tr>
-                <tr> 
-                  <td><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="classic-two-pack-dvd-movies.html"> 
-                    2 Pack Collections </a></font></td>
-                </tr>
-                <tr> 
-                  <td><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="classic-war-movies.html"> 
-                    War Series </a></font></td>
-                </tr>
-                <tr> 
-                  <td><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="two-on-one-movies.html"> 
-                    Two on One Movies </a></font></td>
-                </tr>
-                <tr> 
-                  <td><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="dvd-movie-tv-shows.html"> 
-                    TV Series </a></font></td>
-                </tr>
-                <tr> 
-                  <td><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="hollywood-classic-dvd-movies.html"> 
-                    Hollywood Classic DVDs </a></font></td>
-                </tr>
-              </tbody></table></td>
-          </tr>
-          <tr bgcolor="#edf1fa"> 
-            <td width="168" height="17">&nbsp;<strong><a href="accessories-batteries.html" style="text-decoration: none"><font color="#333333" size="1" face="Verdana, Arial, Helvetica, sans-serif">Accessories/Batteries</font></a></strong></td>
-            <td width="164" height="15">&nbsp;<strong><a href="hardware.html" style="text-decoration: none"><font color="#333333" size="1" face="Verdana, Arial, Helvetica, sans-serif">Hardware</font></a> 
-              </strong></td>
-            <td width="168" height="15">&nbsp;<strong><a href="electronics.html" style="text-decoration: none"> 
-              <font color="#333333" size="1" face="Verdana, Arial, Helvetica, sans-serif">Electronics</font> 
-              </a> </strong></td>
-            <td width="164" height="15">&nbsp;<strong><a href="network-wireless.html" style="text-decoration: none"><font color="#333333" size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
-              NetWorking</font></a> </strong></td>
-            <td width="164" height="15">&nbsp;<strong><a href="software.html" style="text-decoration: none"><font color="#333333" size="1" face="Verdana, Arial, Helvetica, sans-serif">Software</font></a></strong></td>
-            <td width="164">&nbsp;<strong><a href="computerdesks.html" style="text-decoration: none"><font color="#333333" size="1" face="Verdana, Arial, Helvetica, sans-serif">Furniture</font></a></strong></td>
-          </tr>
-          <tr> 
-            <td width="168" align="center" valign="top" bgcolor="#ffffff"> <table width="155" border="0" cellspacing="1" cellpadding="1">
-                <tbody><tr> 
-                  <td valign="top"><strong><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="cd-dvd-media-accessory-accessories.html">Media 
-                    Accessories</a></font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><strong><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="apple-ipod-accessory.html">iPod 
-                    Accessories</a></font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><strong><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="pda-accessories.html">PDA 
-                    Accessories</a></font></strong></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="cell-phone-battery-cellular-accessory-batteries.html">Cell 
-                    Phone Accessories</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="psp-accessory.html">PSP 
-                    Accessories</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="notebook-accessories.html"> 
-                    Notebook Accessories </a></font> </td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="laptop-battery-notebook-computer-batteries.html">Laptop 
-                    Batteries</a></font></td>
-                </tr>
-                <tr><td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="camcorder-batteries-battery-pack-sony-jvc-replacement.html"><strong>Camcorder 
-                  Batteries</strong></a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="alkaline-lithium-battery-aa-aaa-cell-button-batteries.html">Fresh 
-                    Batteries</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="rechargable-batteries-battery-charger-aa-aaa.html">Rechargeable 
-                    Batteries</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="battery-charger.html">Battery 
-                    Chargers</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="stationery-table-top.html">Office 
-                    Supplies</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="shopping-carts.html">Furniture 
-                    Accessories</a></font></td>
-                </tr>
-                <tr> 
-                  <td height="10" valign="top"></td>
-                </tr>
-              </tbody></table></td>
-            <td width="164" align="center" valign="top" bgcolor="#ffffff"> <table width="155" border="0" cellspacing="1" cellpadding="1">
-                <tbody><tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="dvddrives.html"><strong>DVD 
-                    Burners/Recorders</strong></a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="drives.html">CD-RW 
-                    Burners/Drives</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="cd-dvd-duplicator-duplication.html"><strong>CD/DVD 
-                    Duplicators</strong></a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><font color="#003366"><a href="monitors1.html"> 
-                    Monitors, </a></font> <font color="#003366"><a href="desktop.html"> 
-                    Desktops </a></font> </font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="usbhubusbmin.html">USB/FireWire 
-                    Hubs</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="printer.html">Printers 
-                    &amp; Scanners</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="harddrives.html">Hard 
-                    Drives</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"> <font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
-                    <a href="external-hard-drive-enclosure.html"> <strong>External 
-                    Enclosures</strong> </a></font> </td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="firewire.html">Firewire 
-                    Products</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="usb.html">USB 
-                    Products</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="vidcapvidcap.html">Video 
-                    Capture</a></font></td>
-                </tr>
-                <tr> 
-                  <td height="10" valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
-                    <a href="traveller-must-have.html"> <strong>Traveller Must-Have</strong> 
-                    </a></font></td>
-                </tr>
-              </tbody></table></td>
-            <td width="168" align="center" valign="top" bgcolor="#ffffff"> <table width="155" border="0" cellspacing="1" cellpadding="1">
-                <tbody><tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="digital-photo-album-mp3-lcd.html"><b>Digital 
-                    frame</b></a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="computertoys.html">Toys/Computer 
-                    toys</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="meritline-digi-deck-convert-tapes-mp3-copy-digital-music-cassette.html">DigiDeck</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="vibra-vibrating-headset.html"><strong>Vibra 
-                    Headset</strong></a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="bluetooth-technology.html">Bluetooth 
-                    Technology</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="flashlight-flash-light.html">LED 
-                    Flashlights</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="vidcapvidcap.html">Media 
-                    Convert, Capture</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="mp3player.html">MP3 
-                    Players</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="gpsgposy.html">GPS 
-                    Navigator</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="detremcon.html">Detector/Control</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="battery-charger-batteries-chargers.html">Battery/Charger</a></font></td>
-                </tr>
-              </tbody></table></td>
-            <td width="164" align="center" valign="top" bgcolor="#ffffff"> <table width="155" border="0" cellspacing="1" cellpadding="1">
-                <tbody><tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="bluetooth-technology.html"><b>Bluetooth 
-                    wireless</b></a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="irda-infrared-adapter.html"><b>IrDA 
-                    Infrared adapter</b></a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="webcruisers.html">Ethernet 
-                    Switches</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="kvm-switch.html">KVM 
-                    Switches</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="networkcable.html">LAN/Network 
-                    Cables</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="10faset.html">Network 
-                    Cards/Adapters</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="webcruisers.html">Ethernet 
-                    Hubs/Routers</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="82wilan.html">11b 
-                    Wireless LAN</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="80wilan.html">11g 
-                    Wireless LAN</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="wireless-router.html">Wireless 
-                    Routers</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="modems.html">Modems</a></font></td>
-                </tr>
-              </tbody></table></td>
-            <td width="164" align="center" valign="top" bgcolor="#ffffff"> <table width="155" border="0" cellspacing="1" cellpadding="1">
-                <tbody><tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="videdsof.html"><strong>Multimedia 
-                    Editing</strong></a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="muprso.html">Multimedia 
-                    Presentation</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="cdbursof.html"><strong>CD/DVD 
-                    Burning</strong></a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="cdlabsof.html"><strong>CD/DVD 
-                    Label Software</strong></a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="xeso.html">Xelerate 
-                    Software</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, 
-Helvetica, sans-serif"><a href="pc-security-software.html">Stompsoft Security</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="busmansof.html">Business 
-                    Manager</a></font></td>
-                </tr>
-                <tr><td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="checksoftware.html">Check 
-                  Creation Software</a></font></td>
-                </tr>
-                <tr><td valign="top"><font color="#003366" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="ecsof.html">E- 
-                  Commerce Software</a></font></td>
-                </tr>
-              </tbody></table></td>
-            <td width="164" align="center" valign="top" bgcolor="#ffffff"><table width="155" border="0" cellspacing="1" cellpadding="1">
-                <tbody><tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="computerdesks.html">Computer 
-                    Desks </a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="computer-chair-office-chairs.html">Chairs 
-                    </a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="bookcases-bookshelf.html">Bookcases 
-                    </a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="coffee-tables.html">Coffee 
-                    Tables </a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="end-tables.html">End 
-                    Tables </a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="tv-stand-armoire.html">TV 
-                    Stands </a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="furniture-file-cabinet.html">Storage 
-                    Cabinets</a></font></td>
-                </tr>
-                <tr> 
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="living-room-furniture.html">Living 
-                    Room Solution </a></font></td>
-                </tr>
-                <tr>
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="meritline-home-office-furniture.html">Meritline Furniture</a></font></td>
-                </tr>
-                <tr>
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="bestar-home-office-furniture.html">Bestar Furniture </a></font></td>
-                </tr>
-                <tr>
-                  <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="osullivan-home-office-furniture.html">O'Sullivan Furniture </a></font></td>
-                </tr>
-              </tbody></table></td>
-          </tr>
-        </tbody>
-      </table>
-      <table width="994" height="2" border="0" cellpadding="0" cellspacing="0">
+    <td>
+<table width="994" height="1" border="0" cellpadding="0" cellspacing="0">
         <tbody><tr> 
           <td></td>
         </tr>
       </tbody></table>
-      <table width="994" height="4" border="0" cellpadding="0" cellspacing="0" bgcolor="9CA7F8">
-        <tbody><tr> 
-          <td></td>
-        </tr>
-      </tbody></table><style type="text/css">
+      <table width="994" height="52" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr align="center"> 
+          <td height="32" bgcolor="E9ECFE"> <style type="text/css">
 <!--
 .BOTTOMlinkUPPER {
-	font-weight: bold;
 	text-transform: uppercase;
 	text-decoration: none;
 }
 -->
 </style>
-      <table width="994" height="52" border="0" cellpadding="0" cellspacing="0" bgcolor="F1F1F1">
-        <tbody><tr align="center"> 
-          <td height="32" bgcolor="E9ECFE"> <table border="0" cellspacing="0" cellpadding="0">
+            <table border="0" cellspacing="0" cellpadding="0">
               <tbody><tr> 
                 <td><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="aboutus.html" class="BOTTOMlinkUPPER">About 
                   Meritline</a> - <a href="affiliate.html" target="_blank" class="BOTTOMlinkUPPER">Affiliate 
@@ -1429,7 +738,8 @@ Helvetica, sans-serif"><a href="pc-security-software.html">Stompsoft Security</a
                   </font><a href="sitemap.html" class="BOTTOMlinkUPPER"> Site 
                   Map</a></font></td>
               </tr>
-            </tbody></table></td>
+            </tbody></table>
+          </td>
         </tr>
         <tr align="center"> 
           <td bgcolor="#FFFFFF"><table width="994" height="8" border="0" cellpadding="0" cellspacing="0">
@@ -1437,19 +747,39 @@ Helvetica, sans-serif"><a href="pc-security-software.html">Stompsoft Security</a
                 <td></td>
               </tr>
             </tbody></table>
+            <table border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#333333"><a href="http://www.meritlineforum.com/meritlinerss/promotion.xml" target="_blank"><strong>Everyday 
+                  Hot Deals</strong></a></font></td>
+                <td width="10" align="center">&nbsp;</td>
+                <td align="center"><a href="http://www.meritlineforum.com/meritlinerss/promotion.xml" target="_blank"><img src="http://lib.store.yahoo.net/lib/meritline/xmllogo.gif" border="0"></a></td>
+                <td width="10" align="center">&nbsp;</td>
+                <td align="center"><a href="http://fusion.google.com/add?feedurl=http://www.meritlineforum.com/meritlinerss/promotion.xml" target="_blank"><img src="http://lib.store.yahoo.net/lib/meritline/add.gif" border="0"></a></td>
+                <td width="10" align="center">&nbsp;</td>
+                <td align="center"><a href="http://add.my.yahoo.com/rss?url=http://www.meritlineforum.com/meritlinerss/promotion.xml" target="_blank"><img src="http://lib.store.yahoo.net/lib/meritline/addtomyyahoo.gif" border="0"></a></td>
+                <td width="10" align="center">&nbsp;</td>
+                <td align="center"><a href="http://my.msn.com/addtomymsn.armx?id=rss&amp;ut=http://www.meritlineforum.com/meritlinerss/promotion.xml" target="_blank"><img src="http://lib.store.yahoo.net/lib/meritline/enusmymsn.gif" border="0"></a></td>
+                <td width="10" align="center">&nbsp;</td>
+                <td align="center"><a href="http://www.bloglines.com/sub/http://www.meritlineforum.com/meritlinerss/promotion.xml" target="_blank"><img src="http://lib.store.yahoo.net/lib/meritline/submodern5.gif" border="0"></a></td>
+                <td width="10" align="center">&nbsp;</td>
+                <td align="center"><a href="http://del.icio.us/post?url=http://www.meritlineforum.com/meritlinerss/promotion.xml" target="_blank"><img src="http://lib.store.yahoo.net/lib/meritline/delicious.gif" border="0"></a></td>
+              </tr>
+            </tbody></table>
+            <br>
             <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#333333">Questions? 
             Comments? Please <a href="newcontact.html" target="_blank">contact 
             us</a>.<br>
-            </font> <table width="5" height="1" border="0" align="center" cellpadding="0" cellspacing="0">
+            </font> 
+            <table width="5" height="1" border="0" align="center" cellpadding="0" cellspacing="0">
               <tbody><tr> 
                 <td valign="top"><a href="http://www.255m.com"><img src="" alt="" width="1" height="1" border="0"></a><a href="http://ink-cartridges.255m.com"><img src="" alt="" width="1" height="1" border="0"></a> 
                   <a href="http://ink-cartridge.255m.com"><img src="" alt="" width="1" height="1" border="0"></a><a href="http://labels.255m.com"><img src="" alt="" width="1" height="1" border="0"></a><a href="http://health.255m.com"><img src="" alt="" width="1" height="1" border="0"></a><a href="http://www.inksellusa.com"><img src="" alt="" width="1" height="1" border="0"></a></td>
               </tr>
             </tbody></table>
             <font color="#333333" size="1" face="Verdana, Arial, Helvetica, sans-serif">Tel: 
-            1-626-912-0668 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fax: 1-626-854-6553<br>
-            <br>
-            Copyright © 1994 - 2006 Meritline.com. All rights reserved. <a href="privacypolicy.html" target="_blank"><font color="#333333">PRIVACY 
+            1-626-912-0668 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fax: 1-626-854-6553<br><br>
+            </font> <font color="#333333" size="1" face="Verdana, Arial, Helvetica, sans-serif">Copyright 
+            © 1994 - 2006 Meritline.com. All rights reserved. <a href="privacypolicy.html" target="_blank"><font color="#333333">PRIVACY 
             POLICY</font></a></font></td>
         </tr>
       </tbody></table>
@@ -1463,31 +793,24 @@ Helvetica, sans-serif"><a href="pc-security-software.html">Stompsoft Security</a
           <td height="10" align="center"></td>
         </tr>
         <tr> 
-          <td align="center" height="70" valign="top"><table width="990" border="0" cellspacing="0" cellpadding="0">
+          <td align="center" valign="top">
+<table border="0" cellspacing="0" cellpadding="0">
               <tbody><tr align="center"> 
-                <td><a href="ritekstore.html"><img src="http://lib.store.yahoo.net/lib/meritline/final-ritek-store-1.gif" alt="ritek brand store" width="90" height="45" hspace="4" vspace="2" border="0"></a><a href="beall-dvd-r-media-dvd-rw-media.html"><img src="http://lib.store.yahoo.net/lib/meritline/final-beall-store.gif" alt="beall brand store" width="90" height="45" hspace="4" vspace="2" border="0"></a></td>
-                <td><a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--26077.html" target="bizrate.com"><img src="http://medals.bizrate.com/medals/dynamic/26077_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" hspace="4" border="0" align="top" target="_blank"></a></td>
-                <td><a href="http://www.shopping.com/xMR-Meritline~MRD-9374~S-1"><img src="http://www.shopping.com/merchant_logo?ID=9374" width="197" height="82" border="0" alt="Read Your Store Reviews"></a></td>
-                <td><a href="http://www.pricegrabber.com/rating_getreview.php/r=486/m=0"><img src="http://lib.store.yahoo.net/lib/meritline/logo060510.gif" alt="PriceGrabber.com" width="155" height="42" hspace="4" vspace="2" border="0"></a></td>
-                <td><img src="http://lib.store.yahoo.net/lib/meritline/finalcards0.gif" width="232" height="50" hspace="4"></td>
+                <td><a href="ritekstore.html"><img src="http://lib.store.yahoo.net/lib/meritline/final-ritek-store-1.gif" alt="ritek brand store" width="90" height="45" border="0"></a></td>
+                <td width="10">&nbsp;</td>
+                <td><a href="beall-dvd-r-media-dvd-rw-media.html"><img src="http://lib.store.yahoo.net/lib/meritline/final-beall-store.gif" alt="beall brand store" width="90" height="45" border="0"></a></td>
+                <td width="10">&nbsp;</td>
+                <td><img src="http://lib.store.yahoo.net/lib/meritline/finalcards0.gif" width="232" height="50"></td>
               </tr>
             </tbody></table>             
-            <!-- SquareTrade Security Seal Version: 1.0 -->
-            <font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <a target="_blank" href="//scanalert.com/MeterVerify?ref=www.meritline.com"> 
-            </a> 
-            </font>
-           
-            <!-- BEGIN: BizRate.com Medal (125x73 pixels) -->
-            <a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--26077.html" target="bizrate.com">            </a> 
-            <!-- END: BizRate.com Medal (125x73 pixels) -->             
+            
           </td>
-        </tr>
-        <tr>
-          <td height="4"></td>
         </tr>
       </tbody></table></td>
   </tr>
 </tbody></table>
+
+
 <!--BEGIN ROI TRACKING Code-->
 <script language="javascript" src="http://track.roiservice.com/track/track.aspx?ROIID=938732107873221"></script>
 <script language="javascript">
@@ -1502,6 +825,6 @@ Helvetica, sans-serif"><a href="pc-security-software.html">Stompsoft Security</a
  <!-- 
  if (document.referrer && (document.referrer!='') && window.Image) 
  { 
- (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=4492e4d3&catalog=meritline&r=" + escape(document.referrer) + "&v=1"; }
+ (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=45462213&catalog=meritline&r=" + escape(document.referrer) + "&v=1"; }
  // --> 
  </script></body></html>
