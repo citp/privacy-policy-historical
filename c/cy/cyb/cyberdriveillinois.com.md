@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberdriveillinois.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616000642id_/http%3A//cyberdriveillinois.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberdriveillinois.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030032748id_/http%3A//www.cyberdriveillinois.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
