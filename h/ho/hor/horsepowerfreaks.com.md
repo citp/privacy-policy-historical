@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the horsepowerfreaks.com privacy policy that was archived on 2006-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060423031007id_/http%3A//www.horsepowerfreaks.com/viewprivacy%7E%7E%7E%7E%7E%7E.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horsepowerfreaks.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030172136id_/http%3A//www.horsepowerfreaks.com/privacy) for the most accurate reproduction.*
 
-# HorsepowerFreaks.com Privacy Statement Your Automotive Performance Superstore
+# HorsepowerFreaks.com Privacy Statement
 
 |  |   
 ---  
@@ -11,7 +11,7 @@
 ---  
 Part Number Search  
 Keyword Search  
-4/22/2006  
+10/30/2006  
 |   
 ---  
 |  | [](https://web.archive.org/outbound/) |    
