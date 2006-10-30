@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the regonline.com privacy policy that was archived on 2006-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060616012901id_/http%3A//regonline.com/Marketing/Privacy.aspx%3Fproduct%3DEvent) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the regonline.com privacy policy that was archived on 2006-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061030075328id_/http%3A//www.regonline.com/Marketing/Privacy.aspx%3Fproduct%3DEvent) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>Secure Online Event Registration - TRUSTe Certified Privacy Policy</title>
@@ -8,438 +8,25 @@
 		<meta name="vs_defaultClientScript" content="JavaScript">
 		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
 	</head>
-	<body>
+	<body><div id="overlay" style="display: none; position: absolute; top: 0px; left: 0px; z-index: 90; width: 100%;"></div><div id="lightbox" style="display: none; position: absolute; z-index: 100;"><a href="#" title="Click to close"><img id="lightboxImage"></a><div id="lightboxDetails"><div id="lightboxCaption" style="display: none;"></div><div id="keyboardMsg">press <a href="#" onclick="hideLightbox(); return false;"><kbd>x</kbd></a> to close</div></div></div>
 		<form name="Form1" method="post" action="Privacy.aspx?product=Event" id="Form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="sEyDVEOvAWW4e+mDHbGDYZ9G7jh7wHCIYvFuI7T4LNqhcvAU/PvrDdGI4Hb5Oq3u">
 
 			
 
-<!---------GLOBAL CONFIGURATIONS & SETTINGS !--->
-
+<!-- GLOBAL CONFIGURATIONS & SETTINGS !-->
 <title>RegOnline :: Easy Online Event Registration</title>
 
-<!---META TAGS --->
-
-
-<!-- start google analytics tracking code -->
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-	_uacct = "UA-172961-1";
-	urchinTracker();
-</script>
-<!-- end google analytics tracking code -->
-
-<!---------CSS STYLES!------------->
+<!-- CSS STYLES!-->
 <link rel="stylesheet" href="/Marketing/styles/RegOnline.css" type="text/css">
 
-<!---------- JS FUNCTIONS !--------->
-<!--set JS root for function calls !-->
+<!-- JS FUNCTIONS !-->
+<!-- set JS root for function calls !-->
+<script src="/Marketing/UserControls/js/rol_global.js" type="text/javascript"></script>
 <script language="JavaScript">var zxRoot = '/Marketing/'; </script>
 
-<script language="JavaScript">
-    var newWindow
-    var newWindowSimple
-    var helpWindow 
-    var helpWindowSimple
-    var strProjectFramesPagePlus = 'Regonline_Help.htm#' //defines the name of the start or frameset page for the WebHelp project
-    var strProjectPath
-    var strHelpPage
-    var isNav4 = (navigator.appName == 'Netscape' && parseInt(navigator.appVersion) == 4)
-      function callHelp(strProjectPath,strHelpPage){
-        var strTriHelpWindowOptions = ',toolbar=yes'; //defines whether to display the toolbar (yes) or hides it (no)
-        strTriHelpWindowOptions += ',top=40'; //defines the distance from the top of the screen that the browser window is opened
-        strTriHelpWindowOptions += ',left=25'; //defines the distance from the left of the screen that the browser window is opened
-        strTriHelpWindowOptions += ',width=750'; //defines the width of the browser window
-        strTriHelpWindowOptions += ',height=520'; //defines the height of the browser window
-        strTriHelpWindowOptions += ',resizable=yes';
-        if (isNav4){helpWindow = window.open('', newWindow, strTriHelpWindowOptions);
-        if (helpWindowSimple && !helpWindowSimple.closed){helpWindowSimple.close();}
-        helpWindow.close();
-        helpWindow = window.open('', newWindow, strTriHelpWindowOptions);
-        helpWindow.location.href = strProjectPath + strProjectFramesPagePlus + strHelpPage;
-        helpWindow.focus();
-        }
-        else if (helpWindow == null || helpWindow.closed){
-        if (helpWindowSimple && !helpWindowSimple.closed){helpWindowSimple.close();}
-        helpWindow = window.open(strProjectPath + strProjectFramesPagePlus + strHelpPage, newWindow, strTriHelpWindowOptions);
-        //helpWindow.location.href = strProjectPath + strProjectFramesPagePlus + strHelpPage;
-        }
-        else if (helpWindow && !helpWindow.closed){
-        if (helpWindowSimple && !helpWindowSimple.closed){helpWindowSimple.close();}
-        helpWindow.frames[1].frames[1].location.href = strProjectPath + strHelpPage;
-        helpWindow.focus();
-        }
-       }
-//------------->> Popup window for events from Event feed.
-var eventPop
-function Event_Details(url){
-	if (eventPop == null || eventPop.closed){
-		id = "Event";
-		width = 760;
-		height = 480;
-		eventPop = window.open( url, id, 'toolbar=yes,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=yes,width=' + width + ',height=' + height + '' );
-		eventPop.focus();
-	}else{
-		eventPop.location.href = url;
-		eventPop.focus();
-	}
-}
-//--->
-
-function popup_window(eID)
-		{
-		url = "http://www.regonline.com/?" + eID;
-		id = "Sample_Registration";
-		width = 760;
-		height = 480;
-		popup = window.open( url, id, 'toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=yes,width=' + width + ',height=' + height + '' );
-		popup.focus();
-		}
-
-function getForm(){
-	eID = document.getElementById("samples").value;
-	if(eID > 0 ){
-		popup_window(eID);
-	}
-}		
-
-function zrFeatureNav(){
-	if(Prev.length > 5){
-		zxPimg = "<img src='" + zxRoot + "images/prev.gif' border=0>";
-		document.write("<a href='" + Prev + "'>"+zxPimg+"</a>  ");
-	}
-	if(Next.length > 5){
-		zxNimg = "<img src='" + zxRoot + "images/next.gif' border=0>";
-		document.write("<a href='" + Next + "'>"+zxNimg+"</a>");
-	}
-}
-//--->
-function flashcheck(){
-zxFlash= detect("ShockwaveFlash");
-	if(zxFlash < 6){
-		document.write("To properly view this page you need to install the latest Macromedia Flash player.<br>You can download the player by <a href='http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash' target=_blank>clicking here</a><br><br>");
-	}
-}
-//--->
-function detect(Plugin){
- for (i=20;i>0;i--)
-  try{
-       new ActiveXObject(Plugin+'.'+Plugin+'.'+i)
-       return i 
-      }
-  catch(e){}  
-  return 1
-}
-//-------------------------
-function getTip(zxProd,id){
-			url = zxRoot + "Tips.aspx?product=" + zxProd + "&CID=" + id;
-			width = 625;
-			height = 340;
-			if(zxRoot){
-				eventPop = window.open( url, "Info", 'toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=yes,width=' + width + ',height=' + height + '' );
-				eventPop.focus();
-			}
-}
-//-----
-function InfoRequest(zxProd,id){
-			url = zxRoot + "infoRequest.aspx?product=" + zxProd + "&CID=" + id;
-			width = 625;
-			height = 340;
-			if(zxRoot){
-				eventPop = window.open( url, "Info", 'toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=yes,width=' + width + ',height=' + height + '' );
-				eventPop.focus();
-			}
-}
-function SiteSearch(){
-	dest = "http://pub1.bravenet.com/search2/search.php";
-	var q = URLencode(document.forms[0].elements["query"].value);
-	if(q.length > 1){
-		var end = "&usernum=82593224&cpv=2";
-		Qdest = dest + "?keyword=" + q + end;
-		location.href = Qdest;
-	}else{
-		alert("You must enter a valid keyword to search for");
-	}
-}
-//-->
-function URLencode(sStr) {
-    return escape(sStr).replace(/\+/g, '%2C').replace(/\"/g,'%22').replace(/\'/g, '%27');
-  }
-//--Screen shots--//
-var OpenForm = "";
-var ie4 = (document.all) ? true : false;
-var ns4 = (document.layers) ? true : false;
-var ns6 = (document.getElementById && !document.all) ? true : false;
-		
-function hidescreen(lay) {
-	if (ie4) {document.getElementById(lay).style.display = "none";}
-	if (ns4) {document.layers[lay].visibility = "hide";}
-	if (ns6) {document.getElementById([lay]).style.display = "none";}
-}
-function hideOpen(){
-	if(OpenForm.length > 2){
-		hidescreen(OpenForm);
-		OpenForm = "";
-		}
-	}
-function showscreen(zxPath) {
-	lay = "ScreenShot";
-	if(OpenForm == lay){
-		document.getElementById(['imgScreen']).src = zxRoot + "/images/demos/" + zxPath;
-	}else{
-		hideOpen();
-		if (ie4) {document.getElementById(lay).style.display = "block";}
-		if (ns4) {document.layers[lay].visibility = "show";}
-		if (ns6) {document.getElementById([lay]).style.display = "block";}
-			document.getElementById(['imgScreen']).src = zxRoot + "/images/demos/" + zxPath;
-			OpenForm = lay;
-		}
-}
-//--->
-function zrSubNavRoll(state,id, End){
-	if(state == 1){
-		id.background= zxRoot + 'images/sub_nav_bg_roll' + End;
-		id.style.cursor="hand";
-	}else{
-		id.background=zxRoot + 'images/sub_nav_bg' + End;
-	}
-}
-//---Alpha effects
-function makevisible(cur,which){
-	strength=(which==0)? 1 : 0.7
-	cur.style.cursor="hand"
-	if (cur.style.MozOpacity)
-		cur.style.MozOpacity=strength
-	else if (cur.filters)
-		cur.filters.alpha.opacity=strength*100
-}
-//---Get right phone number based on domain
-function zrPhone_Num(zxType){
-	zxLoc = String(document.location);
-	zxDom = zxLoc.indexOf(".co.uk");
-	if(zxDom > 0 ){ //we're UK
-		switch (zxType){
-			case "Tollfree": 
-				zxNum = "0800 7313690";
-				break
-			case "International":
-				zxNum = "+44 (0)1793 855171";
-				break
-			case "Fax": 
-				zxNum = "+44 (0)1793 855833";
-				break
-		}
-	}else{ //we're USA
-		switch (zxType){
-			case "Tollfree": 
-				zxNum = "888.351.9948";
-				break
-			case "International":
-				zxNum = "303.577.5100";
-				break
-			case "Fax": 
-				zxNum = "303.577.5101";
-				break
-		}
-	}
-		if(zxNum != null){
-		document.write(zxNum);
-	}
-}
-						
-//---Get text chunks to accomodate changes in UK page
-function zrGetChunk(zxChunkType){
-	zxLoc = String(document.location);
-	zxDom = zxLoc.indexOf(".co.uk");
-	if(zxDom > 0 ){ //we're UK
-		switch (zxChunkType){
-			case 'supportteam': 
-				zxChunk = 'the UK Support office';
-				break
-			case 'hours': 
-				zxChunk = '9:30 am - 4:30 pm (GMT)';
-				break
-			case 'afterhours':
-				zxChunk = 'please contact our US Support office at 00 1 303 577 5100';
-				break;
-		}
-	}else{ //we're USA
-		switch (zxChunkType){
-			case 'supportteam': 
-				zxChunk = 'our support team';
-				break
-			case 'hours': 
-				zxChunk = '7:00 am - 6:00 pm (MST)';
-				break
-			case 'afterhours':
-				zxChunk = 'you can have one of us paged by leaving a message on our emergency line (x6)';
-				break;
-		}
-	}
-	if(zxChunkType != null){
-		document.write(zxChunk);
-	}
-}
-
-//---Build email addy to hide fomr spiders
-	function zrEmail_addy(zxBox, zxType, zxTag){
-		zxPre = zxBox + "@";
-		zxPost = String(document.location);
-		zxDom = zxPost.indexOf(".co.uk");
-		zxEmail = zxPre + "regonline.com";
-		if(zxDom > 0){ //check for UK site
-			zxEmail = zxPre + "regonline.co.uk";
-		}
-		zxLink = "mailto:" + zxEmail;
-		if(zxType == "Full"){
-			if (zxTag.length < 2){
-				document.write("<a href = '"+ zxLink + "'>" + zxEmail + "</a>");
-			}else{
-				document.write("<a href = '"+ zxLink + "'>" + zxTag + "</a>");
-			}
-		}else{
-			document.write(zxLink);
-		}
-	}	
-	//<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-function OpenGatewayList()
-	{
-		var h=560
-		var w=470
-		var scroll="yes"
-		var winl = (screen.width - w) / 2;
-		var wint = (screen.height - h) / 2;
-		winprops = 'status=yes toolbar=no height=' + h + ',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable'
-		if(zxRoot){
-			win = window.open(zxRoot + "/Event/Pricing/GatewayList.aspx", "GatewayList", winprops);
-		}
-		if (parseInt(navigator.appVersion) >= 4)
-		{
-			win.window.focus();
-		}
-	}
-	//--->
-	function OpenFlashTraining(TabId)
-{
-	width = 1040;
-	height = 700;
-	switch(TabId)
-	{
-		case 0:
-			link = "Event_Summary/event_summary.html";
-			break;
-		case 1:
-			link = "EventSetup/Tab_event_info/event_info.html";
-			break;
-		case 2:
-			link = "EventSetup/Tab_registration_types/registration_types.html";
-			break;
-		case 3:
-			link = "EventSetup/Tab_attendee_info/attendee_info.html";
-			break;
-		case 4:
-			link = "EventSetup/Tab_custom_fields/custom_fields.html";
-			break;
-		case 5:
-			link = "EventSetup/Tab_agenda_fees/agenda_fees.html";
-			break;
-		case 6:
-			link = "EventSetup/Tab_lodging_and_travel/lodging_and_travel.html";
-			break;
-		case 7:
-			link = "EventSetup/Tab_other_fees/other_fees.html";
-			break;
-		case 8:
-			link = "EventSetup/Tab_payment_and_verification/payment_and_verification.html";
-			break;
-		case 9:
-			link = "EventSetup/Tab_visual_effects/visual_effects.html";
-			break;
-		case 10:
-			link = "EventSetup/Tab_advanced_options/advanced_options.html";
-			break;
-		case 11:
-			link = "EventSetup/Verifying_Your_Event/verifying_your_event.html";
-			break;
-		case 12:
-			link = "UsingTheGroupNameFeature/Using_the_Group_Name_Feature_viewlet_swf.html";
-			break;
-		case 13:
-			link = "CustomReports/custom_reports.html";
-			break;
-		case 14:
-			link = "TransactionAdmin/transaction_admin.html";
-			break;
-		case 15:
-			link = "reports/reports.html";
-			break;
-		case 16:
-			//link = "RegOnline_Overview/RegOnline_OverView.html";
-			//link = "../../marketing/event/tour/flashdemo.aspx";
-			url = zxRoot + "event/tour/flashdemo.aspx";
-				width = 780;
-				height = 500;
-			break;
-		
-		case 17:
-			url = zxRoot + "membership/tour/MembershipManagement.html";
-				width = 780;
-				height = 500;
-			break;
-		default:
-			alert("TabId is out of range");
-			break;
-	} 
-	//url = "../RegOnlineHelp/FlashTutorials/" + link;
-	if(!url){
-		url = "https://www.regonline.com/RegOnlineHelp/FlashTutorials/" + link;
-	}
-	id = "FlashTurorial_EventSetup";
-	popup = window.open( url, id, 'toolbar=no,scrollbars=no,location=no,statusbar=no,menubar=no,resizable=yes,width=' + width + ',height=' + height + '' );
-	popup.focus();
-}
-//-->
-	function OpenCertDetails()
-	{
-		var h = 515;
-		var w = 518;
-		var scroll="yes";
-		var winl = (screen.width - w) / 2;
-		var wint = 20;
-		var winprops = 'status=yes toolbar=no height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable=no, menubar=no'
-		var winurl = 'https://www.regonline.com/SSLCert.aspx';
-			 
-		win = window.open(winurl, 'anew', winprops)
-		if (parseInt(navigator.appVersion) >= 4)
-			{
-			win.window.focus();
-			}
-	}
-//-->	
-</script>
+<script src="/Marketing/UserControls/js/lightbox.js" type="text/javascript"></script>
+<!-- END GLOBAL CONFIGURATIONS & SETTINGS !-->
 			<table width="760" border="0" align="center">
 				<tbody><tr>
 					<td>
@@ -611,64 +198,66 @@ This privacy statement covers the use of cookies by this site only and does not 
 							</tr>
 							<tr>
 								<td valign="top">
+
 <style type="text/css"> .style1 { FONT-SIZE: 10px; FONT-FAMILY: Arial, Helvetica, sans-serif } </style>
 <br>
 <hr size="1" noshade="" width="760">
 <table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
     <tbody><tr>
-        <td width="273">
+        <td width="233">
             <span class="style1">© 2006 RegOnline. All Rights Reserved</span></td>
-        <td width="487" nowrap="" valign="top">
+        <td width="527" nowrap="" valign="top">
             <div align="right">
                 <span class="style1">
-                    <a href="/Marketing/Company/?product=Event">About Us</a>
+                    <a href="/Marketing/Company/?product=Event" id="Footer_About" rel="nofollow">About us</a>
                     |
-                    <a href="/Marketing/Affiliates/?product=Event">Affiliates</a>
+                    <a href="/Marketing/Affiliates/?product=Event" id="Footer_Affiliates" rel="nofollow">Affiliates</a>
                     |
-                    <a href="/Marketing/Privacy.aspx?product=Event">Privacy Policy</a>
+                    <a href="http://www.planning-directory.com" id="Footer_Links">Planning Directory</a>
                     |
-                    <a href="https://www.regonline.com/links/IndustryLinks.aspx">Industry Links</a>
+                    <a href="https://www.regonline.com/EventInfo.asp?EventId=91774" id="Footer_Jobs" rel="nofollow">We're Hiring!</a>
                     |
-                    <a href="/Marketing/SiteMap.aspx?product=Event">Site Map</a>
+                    <a href="/Marketing/Privacy.aspx?product=Event" id="Footer_Privacy" rel="nofollow">Privacy Policy</a>
                     |
-                    <a href="/Marketing/Company/?ID=2&amp;Section=CO02&amp;product=Event">Contact RegOnline</a></span></div>
+                    <a href="/Marketing/SiteMap.aspx?product=Event" id="Footer_SiteMap" rel="nofollow">Site Map</a>
+                    |
+                    <a href="/Marketing/Company/?ID=2&amp;Section=CO02&amp;product=Event" id="Footer_Contact" rel="nofollow">Contact RegOnline</a>
+                 </span>
+             </div>
         </td>
     </tr>
 </tbody></table>
-<!-- CLICK TRACKS CODE -->
 
+<!-- tracking code !-->
+
+<!-- all website tracking code -->
+<!-- start google analytics tracking code -->
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-
-      document.write('<'
-
-            + 'script type="text/javascript" src="'
-
+	_uacct = "UA-172961-1";
+	urchinTracker();
+</script>
+<!-- end google analytics tracking code -->
+<!-- start click tracks code -->
+<script type="text/javascript">
+      document.write("<script type='text/javascript' src='"
             + document.location.protocol
-
-            + '//stats2.clicktracks.com/cgi-bin/ctasp-server.cgi'
-
-            + '?i=f3XTVNDDXl5WQx'
-
-            + '&C=1'
-
-            + '"></'+'script>');
-
+            + "//stats2.clicktracks.com/cgi-bin/ctasp-server.cgi"
+            + "?i=f3XTVNDDXl5WQx"
+            + "&C=1"
+            + "'></"+"script>");
 </script><script type="text/javascript" src="https://stats2.clicktracks.com/cgi-bin/ctasp-server.cgi?i=f3XTVNDDXl5WQx&amp;C=1"></script>
-<noscript><img src="https://stats2.clicktracks.com/cgi-bin/ctasp-server.cgi?i=f3XTVNDDXl5WQx&g=1" alt="Web Analytics" border=0></noscript>
+<noscript><img src="https://stats2.clicktracks.com/cgi-bin/ctasp-server.cgi?i=f3XTVNDDXl5WQx&g=1" alt="Web Analytics" border="0" /></noscript>
+<!-- end click tracks code -->
+<!-- start opentracker code -->
 
-
-<!-- END CLICK TRACKS -->
-
-    <!-- OPENTRACKER HTML START -->
-
-    <script defer="" src="https://server10.opentracker.net/?site=www.regonline.com"></script>
-
+    <script type="text/javascript" defer="defer" src="https://server10.opentracker.net/?site=www.regonline.com"></script>
     <noscript>
         <a href="http://www.opentracker.net" target="_blank">
-            <img src="http://img.opentracker.net/?cmd=nojs&site=www.regonline.com" alt="web monitor"
-                border="0"></a>
+            <img src="http://img.opentracker.net/?cmd=nojs&site=www.regonline.com" alt="web monitor" border="0" /></a>
     </noscript>
-    <!-- OPENTRACKER HTML END -->
+
+<!-- end opentracker code -->
 
 
 </td>
