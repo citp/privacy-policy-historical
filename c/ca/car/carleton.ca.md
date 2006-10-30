@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carleton.ca privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615195411id_/http%3A//www.carleton.ca/secretariat/policies/Access%2520to%2520Information%2520Policy%2520and%2520Regs.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carleton.ca privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030031401id_/http%3A//www.carleton.ca/secretariat/policies/Access%2520to%2520Information%2520Policy%2520and%2520Regs.htm) for the most accurate reproduction.*
 
 # ACCESS TO INFORMATION
 
