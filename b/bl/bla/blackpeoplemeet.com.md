@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blackpeoplemeet.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417205612id_/http%3A//www.blackpeoplemeet.com/privacy/%3Fa%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackpeoplemeet.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030215515id_/http%3A//www.blackpeoplemeet.com/privacy/%3Fa%3Durl) for the most accurate reproduction.*
 
-# BlackPeopleMeet.com - The Black People Network - 04/17/2006
+# BlackPeopleMeet.com - The Black People Network - 10/30/2006
 
-|  |  | [](https://web.archive.org/sign_up/?a=)  
+|  |  | [](https://web.archive.org/sign_up/?a=url)  
 ---|---  
   
 |   
