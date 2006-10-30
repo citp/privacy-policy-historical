@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the militaryconnection.com privacy policy that was archived on 2006-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060518211959id_/http%3A//militaryconnection.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militaryconnection.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030231156id_/http%3A//militaryconnection.com/privacy.asp) for the most accurate reproduction.*
 
-# Government Jobs Military Schools Loans Pay
+# Military Jobs Government Employment Schools Loans Pay
 
 **Privacy Policy**
 
