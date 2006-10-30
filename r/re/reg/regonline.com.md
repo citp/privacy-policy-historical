@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regonline.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616012901id_/http%3A//regonline.com/Marketing/Privacy.aspx%3Fproduct%3DEvent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regonline.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030075328id_/http%3A//www.regonline.com/Marketing/Privacy.aspx%3Fproduct%3DEvent) for the most accurate reproduction.*
 
 # Secure Online Event Registration - TRUSTe Certified Privacy Policy
 
