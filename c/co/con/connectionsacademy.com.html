@@ -1,188 +1,277 @@
-<!--The following is the downloaded HTML source of the connectionsacademy.com privacy policy that was archived on 2002-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209174324id_/http%3A//www.connectionsacademy.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the connectionsacademy.com privacy policy that was archived on 2006-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061030063946id_/http%3A//www.connectionsacademy.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-<title>Connections Academy: Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft Visual Studio 6.0">
+<title>Connections Academy - Privacy Policy</title>
+<meta name="keywords" content="connections academy, school, academy, homeschooling, home schooling, virtual school, virtual, charter, cyberschool, 
+charter school, cyber school, K12, calvert, homeschool, home school, sylvan learning, individualized instruction, 
+Arizona, California, Colorado, Florida, Idaho, Georgia, Minnesota, Ohio, Oregon, Pennsylvania, Wisconsin, Texas, Idaho, Appleton, Inspire">
+<meta name="description" content="Provider of virtual public schools with students in Arizona, California, Colorado, Florida, Idaho, Minnesota, Ohio, Oregon, Pennsylvania, and Wisconsin.">
+<link href="/_css/main.css" type="text/css" rel="stylesheet">
+<!--SERVER: PUBLICWEB2-->
+
+
+
 <script language="JavaScript">
-<!--
-
-function newImage(arg) {
-if (document.images) {
-rslt = new Image();
-rslt.src = arg;
-return rslt;
-}
+function emailScramble(asciiUsername, asciiDomain) {
+	//takes hex and unicode text to make scrambled mail to link; ascii is for reference only
+	//use http://www.mikezilla.com/exp0012.html to get hex and unicode values from ascii text
+	document.write('<a hre'+'f="ma'+'ilto'+':'+ convertToHex(asciiUsername) + convertToHex('@') + convertToHex(asciiDomain) + '">' + convertToUnicode(asciiUsername) + convertToUnicode('@') + convertToUnicode(asciiDomain) + '</a>');
 }
 
-function changeImages() {
-if (document.images && (preloadFlag == true)) {
-for (var i=0; i<changeImages.arguments.length; i+=2) {
-document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
-}
-}
-}
+//thank you http://www.mikezilla.com
+function convertToUnicode(ascii) { 
+  result = ''; 
+  for (i=0; i<ascii.length; i++) 
+    result += '&#' + ascii.charCodeAt(i) + ';'; 
+  return result; 
+} 
 
-var preloadFlag = false;
-function preloadImages() {
-if (document.images) {
-about_b_over = newImage("images/about_b_over.gif");
-state_b_over = newImage("images/state_b_over.gif");
-faqs_b_over = newImage("images/faqs_b_over.gif");
-contact_b_over = newImage("images/contact_b_over.gif");
-individual_b_over = newImage("images/individual_b_over.gif");
-parent_b_over = newImage("images/parent_b_over.gif");
-accountachieve_b_over = newImage("images/accountachieve_b_over.gif");
-highquality_b_over = newImage("images/highquality_b_over.gif");
-technology_b_over = newImage("images/technology_b_over.gif");
-provencur_b_over = newImage("images/provencur_b_over.gif");
-preloadFlag = true;
-}
-}
-
-// -->
+//thank you http://www.mikezilla.com
+function convertToHex(ascii) { 
+  var result = ''; 
+  for (i=0;i<ascii.length;i++) 
+    result += "%" + ascii.charCodeAt(i).toString(16).toUpperCase(); 
+  return result; 
+} 
 </script>
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+/*
+startList = function() {
+	var navRoot;
+	var i;
+	var node;
+	if (document.all&&document.getElementById) {
+		navRoot = document.getElementById("navList");
+		for (i=0; i<navRoot.childNodes.length; i++) {
+			node = navRoot.childNodes[i];
+			if (node.nodeName=="LI") {
+				node.onmouseover=function() {
+					this.className+=" over";
+				}
+				node.onmouseout=function() {
+					this.className=this.className.replace(" over", "");
+				}
+			}
+		}
+	}
+	
+}
+window.onload=startList;
+*/
+//--><!]]>
+
+function openWindow(linkURL,linkWindow,windowWidth,windowHeight,windowAttributes) {
+	if (windowWidth == "") windowWidth = 500;
+	if (windowHeight == "") windowHeight = 450;
+	if (linkWindow == "") linkWindow = "newWindow";
+	if (windowAttributes == "") {windowAttributes = ",resizable=yes,toolbar=no,menubar=no,status=no,titlebar=no,scrollbars=yes"} else {windowAttributes = "," + windowAttributes};
+	window.open(linkURL,linkWindow,'width=' + windowWidth + ',height=' + windowHeight + windowAttributes);
+}	
+function openImage(imgURL,linkWindow,pageTitle,windowWidth,windowHeight,windowAttributes) {
+//opens an image into a popup window and allows you to set the browser title text
+	if (windowWidth == "") windowWidth = 500;
+	if (windowHeight == "") windowHeight = 450;
+	if (linkWindow == "") linkWindow = "newWindow";
+	if (windowAttributes == "") {windowAttributes = ",resizable=yes,toolbar=no,menubar=no,status=no,titlebar=no,scrollbars=yes"} else {windowAttributes = "," + windowAttributes};
+    var imgWindow=window.open('',linkWindow,'width=' + windowWidth + ',height=' + windowHeight + windowAttributes);
+	imgWindow.document.writeln('<html><head><title>' + pageTitle + '</title>');
+	imgWindow.document.writeln('</head><body style="text-align:center;margin:0;padding:5px;">');
+	imgWindow.document.writeln('<img src="' + imgURL + '" alt="' + pageTitle + '">');
+	imgWindow.document.writeln('</body></html>');
+	imgWindow.document.close();
+	if (navigator.appName.substring(0,8) == "Netscape") imgWindow.focus();
+
+}
+</script>
+
 </head>
-<body bgcolor="#FFFFFF" topmargin="0" marginheight="0" leftmargin="0" marginwidth="0" onload="preloadImages();">
+<body>
 
-<table border="0" cellpadding="0" cellspacing="0" width="800">
-<tbody><tr>
-<td width="606" height="175" colspan="2">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="180" height="175" rowspan="2"><a href="index.asp"><img src="images/CAsection_toplogo.gif" width="180" height="175" border="0"></a></td>
-<td width="426" height="124">
-<!-- START TOP NAV -->
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="154" height="44">
-<a href="about.asp" onmouseover="changeImages('about_b', 'images/about_b_over.gif'); return true;" onmouseout="changeImages('about_b', 'images/about_b.gif'); return true;">
-<img name="about_b" src="images/about_b.gif" width="154" height="44" border="0" alt="About Us"></a></td>
-<td width="271" height="124" rowspan="4">
-<img src="images/topnav_placehold.gif" width="271" height="124"></td>
-</tr>
-<tr>
-<td width="154" height="26">
-<a href="stateacademies.asp" onmouseover="changeImages('state_b', 'images/state_b_over.gif'); return true;" onmouseout="changeImages('state_b', 'images/state_b.gif'); return true;">
-<img name="state_b" src="images/state_b.gif" width="154" height="26" border="0" alt="State Academies"></a></td>
-</tr>
-<tr>
-<td width="154" height="26">
-<a href="faqs.asp" onmouseover="changeImages('faqs_b', 'images/faqs_b_over.gif'); return true;" onmouseout="changeImages('faqs_b', 'images/faqs_b.gif'); return true;">
-<img name="faqs_b" src="images/faqs_b.gif" width="154" height="26" border="0" alt="FAQs"></a></td>
-</tr>
-<tr>
-<td width="154" height="28">
-<a href="contact.asp" onmouseover="changeImages('contact_b', 'images/contact_b_over.gif'); return true;" onmouseout="changeImages('contact_b', 'images/contact_b.gif'); return true;">
-<img name="contact_b" src="images/contact_b.gif" width="154" height="28" border="0" alt="Contact Us"></a></td>
-</tr>
-</tbody></table>
-<!-- END TOP NAV -->
-</td>
-</tr>
-<tr>
-<td width="426" height="51">
-<img src="images/privacy_h.gif" width="426" height="51" alt="Privacy Policy"></td>
-</tr>
-</tbody></table>
-</td>
-<td width="194" height="175"><!-- TESTIMONIAL IMAGES --><img src="images/about_photo.jpg" width="194" height="175"></td>
-</tr>
-<tr>
-<td width="266" height="398" valign="TOP">
-<!-- START LEFT NAV -->
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="233" height="27">
-<a href="individualinstruction.asp" onmouseover="changeImages('individual_b', 'images/individual_b_over.gif'); return true;" onmouseout="changeImages('individual_b', 'images/individual_b.gif'); return true;">
-<img name="individual_b" src="images/individual_b.gif" width="233" height="27" border="0" alt="Individual Instruction"></a></td>
-<td width="33" height="208" rowspan="7">
-<img src="images/leftnav2.gif" width="33" height="208"></td>
-</tr>
-<tr>
-<td width="233" height="30">
-<a href="parentinvolvement.asp" onmouseover="changeImages('parent_b', 'images/parent_b_over.gif'); return true;" onmouseout="changeImages('parent_b', 'images/parent_b.gif'); return true;">
-<img name="parent_b" src="images/parent_b.gif" width="233" height="30" border="0" alt="Parent Involvement"></a></td>
-</tr>
-<tr>
-<td width="233" height="30">
-<a href="accountachieve.asp" onmouseover="changeImages('accountachieve_b', 'images/accountachieve_b_over.gif'); return true;" onmouseout="changeImages('accountachieve_b', 'images/accountachieve_b.gif'); return true;">
-<img name="accountachieve_b" src="images/accountachieve_b.gif" width="233" height="30" border="0" alt="Accountability and Achievement"></a></td>
-</tr>
-<tr>
-<td width="233" height="30">
-<a href="highquality.asp" onmouseover="changeImages('highquality_b', 'images/highquality_b_over.gif'); return true;" onmouseout="changeImages('highquality_b', 'images/highquality_b.gif'); return true;">
-<img name="highquality_b" src="images/highquality_b.gif" width="233" height="30" border="0" alt="High-Quality Teaching"></a></td>
-</tr>
-<tr>
-<td width="233" height="30">
-<a href="technologyrich.asp" onmouseover="changeImages('technology_b', 'images/technology_b_over.gif'); return true;" onmouseout="changeImages('technology_b', 'images/technology_b.gif'); return true;">
-<img name="technology_b" src="images/technology_b.gif" width="233" height="30" border="0" alt="Technology-Rich Schooling"></a></td>
-</tr>
-<tr>
-<td width="233" height="35">
-<a href="provencur.asp" onmouseover="changeImages('provencur_b', 'images/provencur_b_over.gif'); return true;" onmouseout="changeImages('provencur_b', 'images/provencur_b.gif'); return true;">
-<img name="provencur_b" src="images/provencur_b.gif" width="233" height="35" border="0" alt="Proven Curriculum"></a></td>
-</tr>
-<tr>
-<td width="233" height="26">
-<img src="images/leftnav1.gif" width="233" height="26"></td>
-</tr>
-<tr>
-<td width="266" height="190" colspan="2">
-<img src="images/leftnav_placehold.gif" width="266" height="190"></td>
-</tr>
-</tbody></table>
-<!-- END LEFT NAV -->
-</td>
-<td width="340" height="398" valign="TOP">
-<img src="images/spacer.gif" width="340" height="2">
-<font size="2" face="arial, helvetica, san serif">
-<!-- START PAGE COPY -->
-
-
-<p>
-Connections Academy respects and understands the importance of privacy and security for our online 
-customers. Upon request, all Connections Academy customers have the ability to access personal 
-information maintained by Connections Academy, including contact information, unique identifier 
-information, transaction information and financial information. This information is used only by 
-Connections Academy and its affiliate Sylvan Learning Systems, Inc. to contact consumers for marketing 
-and operational purposes. Persons who supply us with their telephone numbers or e-mail addresses 
-on-line may receive telephone or e-mail contact from us with information regarding special promotions, 
-new products and services or upcoming events. </p>
-
-<p> If at any point you no longer want to receive information from Connections Academy you can e-mail 
-us at <a href="mailto:customersupport@connectionsacademy.org">customersupport@connectionsacademy.org</a> 
-and ask to be removed from our contact lists. </p>
-
-<p>Connections Academy and its affiliate Sylvan Learning Systems, Inc. will not release, sell, rent, 
-or trade the personal information of any of our customers to any third party. 
-</p>
-
-<!-- END PAGE COPY -->
-</font>
-</td>
-<td width="194" height="398" valign="TOP">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="61" height="398" rowspan="2">
-<img src="images/testimonials_01.gif" width="61" height="398"></td>
-<td width="8" height="398" rowspan="2">
-<img src="images/testimonials_02.gif" width="8" height="398"></td>
-<td width="125" height="260">
-<img src="images/individual_testimonial.gif" width="125" height="260"></td>
-</tr>
-<tr>
-<td width="125" height="138">
-<img src="images/testimonials_04.gif" width="125" height="138"></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr><td width="800" height="27" colspan="3" align="CENTER" valign="BOTTOM">
-<p><font size="1" face="arial, helvetica, san serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;© 2002 &nbsp;&nbsp;<a href="privacy.asp">Privacy Policy</a> &nbsp;&nbsp;<a href="contact.asp">Contact Us</a> &nbsp;&nbsp;<a href="ed_legis.asp">Regulators</a></font></p>
-</td></tr>
-</tbody></table>
+	<div id="body">
+	<div id="header_wrap">
+			<div id="logo"><span><a href="/"><img src="/_images/logo.gif" alt="Connections Academy Logo"></a></span></div>
+			<div id="extranav">
+				<span id="stateLinks">
+	<script><!--
+	function openState(thisOption) {
+		var sid = thisOption.options[thisOption.selectedIndex].value;
+		if (sid != '') {
+			window.location.href =  '/state/home.asp?sid=' + sid;
+		}
+	}
+	//--></script>
+	<form action="/about/privacy.asp" method="get">
+	<select name="sid" onchange="openState(this);">
+		<option value="" selected="">Find Your State...</option>
+		<option value="az">Arizona</option>
+		<option value="ca">California</option>
+		<option value="co">Colorado</option>
+		<option value="fl">Florida</option>
+		<option value="ga">Georgia</option>
+		<option value="id">Idaho</option>
+		<option value="in">Indiana</option>
+		<option value="mn">Minnesota</option>
+		<option value="oh">Ohio</option>
+		<option value="or">Oregon</option>
+		<option value="pa">Pennsylvania</option>
+		<option value="wi">Wisconsin</option>
+	</select>
+	<input type="submit" name="GoState" id="GoState" value="Go" class="button" style="display: none;">
+	</form>
+	<script><!--
+	//hide the submit button if javascript is enabled
+	document.getElementById('GoState').style.display = 'none';
+	//--></script></span><br>
+				<span id="quickLinks">
+	<script><!--
+	var popup = 0; //
+	function openPage(thisOption) {
+		var link = thisOption.options[thisOption.selectedIndex].value;
+		if (link != '') {
+			if (link.indexOf('LMS_Overview') > -1) {
+				openWindow(link,'','860','550','') 
+			}else {
+				window.location.href = link;
+			}
+		}
+	}
+	//--></script>
+	<form action="/about/privacy.asp" method="post">
+	<select name="quickLinksDropDown" onchange="openPage(this);">
+		<option value="" selected="">Jump to a Page...</option>					
+		<option value="/ourschool/">Our Program</option>
+		<option value="/ourschool/customized.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Customized Instruction</option>
+		<option value="/ourschool/teaching.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Exceptional Teaching</option>
+		<option value="/ourschool/parent.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Parent Involvement</option>
+		<option value="/ourschool/technology.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Technology-Rich Schooling</option>
+		<option value="/ourschool/accountability.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Accountability and Achievement</option>
+		<option value="/curriculum/">Curriculum</option>
+		<option value="/curriculum/bygrade.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Curriculum by Grade</option>
+		<!--<option value="/curriculum/samples.asp">&nbsp;&nbsp;&#8211;&nbsp;&nbsp;Sample Lessons</option>-->
+		<option value="/curriculum/activities.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Activities and Clubs</option>
+		<option value="/curriculum/partners.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Content Partners</option>
+		<option value="/curriculum/ordercatalog.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Order a Catalog</option>
+		<option value="/learnmore/">Learn More</option>
+		<option value="/learnmore/rightprogram.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Is CA Right for You?</option>
+		<option value="http://www.connectionsacademy.com/demos/LMS_Overview.htm" onchange="popup=1;" onclick="popup=1;">&nbsp;&nbsp;–&nbsp;&nbsp;View a Demo!</option>
+		<option value="/learnmore/tellafriend.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Tell a Friend</option>
+		<option value="/learnmore/parentcontact.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Contact a Parent</option>
+		<option value="/learnmore/testimonials.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Parent Testimonials</option>
+		<option value="/learnmore/faqs.asp">&nbsp;&nbsp;–&nbsp;&nbsp;FAQs</option>
+		<option value="/contact/">Contact Us</option>
+		<option value="/contact/requestinfo.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Request Info</option>
+		<option value="/about/">About Us</option>
+		<option value="/about/news.asp">&nbsp;&nbsp;–&nbsp;&nbsp;News and Events</option>
+		<option value="/about/employment.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Employment</option>
+		<option value="/about/team.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Management Team</option>
+		<option value="/about/privacy.asp">&nbsp;&nbsp;–&nbsp;&nbsp;Privacy Policy</option>
+	</select>
+	<input type="submit" name="GoPage" id="GoPage" value="Go" class="button" style="display: none;">
+	</form>
+	<script><!--
+	//hide the submit button if javascript is enabled
+	document.getElementById('GoPage').style.display = 'none';
+	//--></script></span>
+			</div>
+	</div>
+	<div class="clear"></div>
+	<div class="nav_wrap">
+		<div class="nav">
+			<ul id="navList" class="mainNav">
+				<li id="nav_school"><a href="/ourschool/">Our&nbsp;Program</a>
+					<ul class="subnavdrop">
+						<li class="subnavdrop"><a href="#">Customized&nbsp;Instruction</a></li>
+						<li class="subnavdrop"><a href="#">Exceptional&nbsp;Teaching</a></li>
+						<li class="subnavdrop"><a href="#">Parent&nbsp;Involvement</a></li>
+						<li class="subnavdrop"><a href="#">Technology</a></li>
+						<li class="subnavdrop"><a href="#">Accountability&nbsp;and&nbsp;Achievement</a></li>
+					</ul>
+				</li>
+				<li id="nav_curriculum"><a href="/curriculum/">Curriculum</a>
+					<ul class="subnavdrop">
+						<li class="subnavdrop"><a href="#">Curriculum&nbsp;by&nbsp;Grade</a></li>
+						<li class="subnavdrop"><a href="#">Curriculum&nbsp;Matrix</a></li>
+						<li class="subnavdrop"><a href="#">Sample&nbsp;Lessons</a></li>
+						<li class="subnavdrop"><a href="#">Activities&nbsp;&amp;&nbsp;Clubs</a></li>
+						<li class="subnavdrop"><a href="#">Content&nbsp;Partners</a></li>
+					</ul>
+				</li>
+				<li id="nav_learnmore"><a href="/learnmore/">Learn&nbsp;More</a>
+					<ul class="subnavdrop">
+						<li class="subnavdrop"><a href="#">Is&nbsp;CA&nbsp;Right&nbsp;for&nbsp;You?</a></li>
+						<li class="subnavdrop"><a href="#">View&nbsp;a&nbsp;Demo!</a></li>
+						<li class="subnavdrop"><a href="#">Tell&nbsp;a&nbsp;Friend</a></li>
+						<li class="subnavdrop"><a href="#">Contact&nbsp;a&nbsp;Parent</a></li>
+						<li class="subnavdrop"><a href="#">Parent&nbsp;Testimonials</a></li>
+						<li class="subnavdrop"><a href="#">FAQs</a></li>
+					</ul>
+				</li>
+				<li id="nav_contact"><a href="/contact/">Contact&nbsp;Us</a></li>
+				<li id="nav_enroll"><a href="/enroll/">Enroll&nbsp;Now</a></li>
+				<li id="nav_legislators"><a href="/legislators/">School&nbsp;Officials</a>
+					<ul class="subnavdrop">
+						<li class="subnavdrop"><a href="#">Start&nbsp;a&nbsp;School</a></li>
+						<li class="subnavdrop"><a href="#">Is Your District Primed?</a></li>
+						<li class="subnavdrop"><a href="#">Virtual&nbsp;School&nbsp;Report</a></li>
+						<li class="subnavdrop"><a href="#">Book&nbsp;Shelf</a></li>
+						<li class="subnavdrop"><a href="#">Resource&nbsp;Center</a></li>
+					</ul>
+				</li>
+				<li id="nav_about"><a href="/about/" class="activeMenuItem">About&nbsp;Us</a>
+					<ul class="subnavdrop">
+						<li class="subnavdrop"><a href="#">News&nbsp;&amp;&nbsp;Events</a></li>
+						<li class="subnavdrop"><a href="#">Employment</a></li>
+						<li class="subnavdrop"><a href="#">Management&nbsp;Team</a></li>
+					</ul>
+				</li>
+				<li id="nav_store"><a href="/store/">School&nbsp;Store</a></li>
+				<li class="lastitem"><a href="/">Home</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div id="subnav_about" class="nav_wrap">
+		<div class="nav">
+			<ul id="subNavList" class="mainNav">
+				<li class="mainNav"><a href="/about/news.asp">News&nbsp;&amp;&nbsp;Events</a></li>
+				<li class="mainNav"><a href="/about/employment.asp">Employment</a></li>
+				<li class="mainNav"><a href="/about/team.asp">Management&nbsp;Team</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="clear"></div>
+		<div id="content_wrap">
+			<div id="content_inner_wrap">
+				<div id="content" class="about"><div class="contentMinHeight"></div><h1>Privacy Policy</h1>
+	<p><em>Last updated: March 20, 2005</em></p>
+		<p>Connections Academy has established this privacy policy to let you know how we collect, use, share, and protect information that we may gather as a result of your visit to www.connectionsacademy.com (the "website"), including those portions of the site relating to schools that use the Connections Academy program.  There is a separate privacy policy for users of the Connections Academy Learning Management System.</p>
+		<h2>Information Collected About all Visitors</h2>
+		<p>Each time you visit our website, it automatically keeps track of your IP address, domain name, the name of the page from which you entered the site, which pages are viewed and for how long.  This information is collected in order to improve the website and for trend analysis.  As with most websites, we may use "cookies" to track usage and to improve your experience.  The cookies do not collect any personally identifiable information and you can also decline cookies.   Further information about cookies is available in the help function of your browser.  No personally identifying information is collected as a result of your use of the website, unless you provide it voluntarily.</p>
+		<h2>Voluntary Personal Information</h2>
+		<p>The site may collect personal information you provide voluntarily, for example by requesting catalogs or seeking additional information. This information is used to fulfill requests for information or stay in contact regarding special promotions, new products and services or upcoming events.  If you do not want to receive information from Connections Academy, you can email us at <script type="text/javascript"><!--
+		emailScramble('unsubscribe','connectionsacademy.com')//--></script><a href="mailto:%75%6E%73%75%62%73%63%72%69%62%65%40%63%6F%6E%6E%65%63%74%69%6F%6E%73%61%63%61%64%65%6D%79%2E%63%6F%6D">unsubscribe@connectionsacademy.com</a> and ask to be removed from our contact list. </p>
+		<h2>Enrolling a Student Using the Website</h2>
+		<p>If you register for a Connections Academy school using the website, information will be collected in order to process your application.  This information will not be maintained on the website, but will be included in the Learning Management System.  Enrollment information is also provided to school districts or other bodies as required by state public school regulations or operating procedures. </p> 
+		<h2>Children Under 13</h2>
+		<p>Except as provided by parents for the purpose of enrolling in a Connections Academy school, the website does not knowingly collect information about children under 13.  We attempt to be in full compliance with the Children's Online Privacy Protection Act (COPPA).</p>  
+		<h2>Links</h2>
+		<p>The website contains links to other websites, message boards or other resources that we provide for your convenience.  These sites are not under our control and we do not endorse them nor are we responsible for their content or their privacy policies.</p>  
+		<h2>Changes</h2>
+		<p>This policy may be changed periodically.  Any changes will be effective as soon as they are posted.</p>  
+	
+	<div class="clear"></div>
+		</div><!--content-->
+		</div><!--content inner wrap-->
+	</div><!--content wrap-->
+	<div class="clear"></div>
+	<div class="footer">
+	<div class="left"><a href="/about/legal.asp">© 2006 Connections Academy, LLC.</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about/privacy.asp">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about/termsofuse.asp">Terms of Use</a> </div>
+	<div class="right">1-800-382-6010&nbsp;&nbsp;1000 Lancaster St., 6th Floor, Baltimore, MD 21202</div> 
+	
+</div>
+</div><!--body-->
 
 
 
