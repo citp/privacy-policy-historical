@@ -1,55 +1,51 @@
-> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205247id_/http%3A//www.business.gov/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030133115id_/http%3A//www.business.gov/appmanager/bg/main%3F_nfpb%3Dtrue%26_pageLabel%3Dbg_bk_webPol_pg_privacy_ftr) for the most accurate reproduction.*
 
-# Privacy and Security
+# Business.gov - Privacy Policy
 
-Privacy Statement  
-Thanks for visiting the Business.gov website and reviewing our privacy policy. Our privacy policy is plain and simple. We collect NO personal information like names or addresses when you visit our website. If you choose to provide that information to us it is only used to fulfill your request for information. 
+Business.gov collects NO personal information, such as names and addresses, when you visit our website. If you choose to provide this information to us, it will be used only to fulfill your request for information.
 
-We do collect some technical information when you visit to make your visit seamless. The section below explains how we handle and collect technical information when you visit our website
+Business.gov collects some technical information from you when you visit the site in order to give you the best possible experience. The section below explains how we handle and collect technical information when you visit our website.
 
-Information Collected and Stored Automatically  
-When you browse, read pages or download information on Business.gov, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit is listed below:
+### Technical Information Collected and Stored Automatically
 
-The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
+Business.gov automatically records website usage information that we analyze statistically to track operational problems, to prevent fraud and to improve the effectiveness, security and integrity of the site. This information does not identify you personally and we do not use this information to track or record information about individuals. For each page that you visit, we collect and store only the following technical information: 
 
-The type of browser (e.g., Netscape, Internet Explorer) and operating system (Windows, Unix) used to access our site;
+  * Date and time of access 
+  * URL address of the Business.gov webpage visited 
+  * Internet domain and IP address from which our website was accessed
+  * Type of browser and operating system used to access our site (if provided by the browser)
+  * URL address of the referring page (if provided by the browser) 
+  * Completion or success status of the request for a web page or other on-line item
+  * File size of the webpage visited
 
-The date and time you access our site;
+This information is only used to help us make the site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits.
 
-The pages you visit; and
+### Cookies
 
-If you linked to the Business.gov website from another website, the address of that website.
+When you visit some websites, their web servers generate files of information known as cookies, which helps webmasters understand how users interact with their site's content and services. Websites use cookies to track one's activities on a website (e.g., pages visited, links clicked on, etc.), and to record information about the user so when the user returns the site, customized features can be provided. 
 
-This information is only used to help us make the site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits. 
+There are three types of cookies. A session cookie is a line of text that is stored temporarily in your computer's random access memory (RAM) and is only available for the duration of an active browsing session. A session cookie is not placed on any hard drive, and it is destroyed as soon as you close your browser. A persistent cookie is saved to a file on your hard drive and is accessed whenever you re-visit the website that put it there. This lets that website remember what you were interested in the last time you visited. A third-party cookie is a persistent cookie that is set by or sent to a website different than the one you're currently viewing. 
 
-Cookies  
-When you visit some websites, their web servers generate pieces of information known as cookies. Some cookies collect personal information to recognize your computer in the future.
+Business.gov does not use persistent or third-party cookies, but sometimes uses session cookies. Some of the interactive sections of our website may set session cookies in temporary memory in order to provide streamlined navigation. These session cookies are not stored on your computer's hard drive **permanently** and are automatically erased as soon as you close your browser. Information from these session cookies is not collected or saved.
 
-If You Send Us Personal Information  
-If you choose to provide us with personal information like filling out a Contact Us form with an e-mail address and zip code and submitting it to us through the website we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We never create individual profiles or give it to any private organizations. Business.gov never collects information for commercial marketing.
+###  Information That You Voluntarily Provide 
 
-While you must provide an e-mail address and zip code for a localized response to any incoming questions or comments to Business.gov, we recommend that you NOT include any other personal information, especially Social Security numbers. The Social Security Administration offers additional [guidance](http://www.business.gov/cgi-bin/outsideurl.cgi?url=http://www.ssa.gov/pubs/10002.html#giving) on sharing your Social Security number.
+We do not collect personal information for any purpose other than to respond to you. If you choose to provide us with personal information - like filling out a Contact Us form with an e-mail address and submitting it to us through the website - we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. Business.gov never collects information or creates individual profiles for commercial marketing. 
 
-Site Security
+While you must provide an e-mail address and zip code for a localized response to any incoming questions or comments to Business.gov, we recommend that you NOT include any other personal information, such as social security numbers. 
 
-For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+###  Site Security 
 
-Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines.
+For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
-Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines. 
 
-Prohibitions  
-Business.gov will not link to any website that exhibits hate, bias or discrimination. Furthermore, Business.gov reserves the right to deny or remove any link that contains misleading information or unsubstantiated claims, or is determined to be in conflict with Business.gov's mission or policies.
+Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
 
-Disclaimer of Endorsement  
-The information posted on the Business.gov website includes hypertext links or pointers to information created and maintained by other public and/or private organizations. Business.gov provides these links and pointers solely for our users' information and convenience. When users select a link to an outside website, they are leaving the Business.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website.
+### Links to Other Sites
 
-The US Small Business Administration (SBA) and Business.gov **do not** control or guarantee the accuracy, relevance, timeliness or completeness of information contained on a linked website.
+Business.gov contains links to websites of other government, public and private organizations that are outside of our control. When you follow a link to another site, you leave the Business.gov site and your website interactions are no longer protected by our privacy policy. Business.gov is not responsible for, and does not endorse the privacy or security practices and content of sites to which Business.gov links. 
 
-SBA and Business.gov **do not** endorse the organizations sponsoring linked websites and we **do not** endorse the views they express or the products/services they offer.
+### Your Rights Under the Privacy Act
 
-SBA and Business.gov **cannot** authorize the use of copyrighted materials contained in linked websites. Users must request such authorization from the sponsor of the linked website.
-
-SBA and Business.gov **are not** responsible for transmissions users receive from linked websites.
-
-SBA and Business.gov do not guarantee that outside websites comply with Section 508 (Accessibility Requirements) of the Rehabilitation Act.
+The Federal Citizen Information Center provides a guide to [Your Rights to Federal Records - Questions and Answers on the Freedom of Information Act and Privacy Act](http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm "Your Rights to Federal Records - Questions and Answers on the Freedom of Information Act and Privacy Act") that explains your rights to personal information under these laws. 
