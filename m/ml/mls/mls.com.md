@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mls.com privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624011104id_/http%3A//mls.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mls.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030185438id_/http%3A//www.mls.com/privacy.html) for the most accurate reproduction.*
 
-# MLS.com - Privacy Policy
-
-Privacy Policy
+# MLS.com - Search for homes on MLS nationwide
 
 MLS.com makes every effort to protect the privacy of all users. We collect no personal information from any Web visitor.
 
@@ -13,5 +11,5 @@ We do accumulate Web statistics that tell us how many people visited our site, w
 We have third-party advertising companies serving ads on our Web site. You may choose to have one of our third party advertisers contact you by filling out their forms. These companies are independent of MLS.com. While we do not use 'cookies", they may use them or request personal information from you. They may share anonymous information about your visit with third parties. These third-party ads may place or recognize a "cookie" on your browser.
 
   
-**If you have any questions about our privacy policy, you may email us at:[admin@mls.com](mailto:admin@mls.com)**  
+**If you have any questions about our privacy policy, you may email us at:[contactus@mls.com](mailto:contactus@mls.com)**  
 
