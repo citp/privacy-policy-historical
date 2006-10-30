@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apartmenthunterz.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506221627id_/http%3A//www.apartmenthunterz.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmenthunterz.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030125938id_/http%3A//www.apartmenthunterz.com/privacy.shtml) for the most accurate reproduction.*
 
-# Los Angeles Apartment Rentals - Apartment Hunters - Privacy Policy
+# California Apartments for Rent - Apartment Hunters - Privacy Policy
 
 Apartment Hunters is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the Apartment Hunters. This policy may change from time to time so please check back periodically.
 
