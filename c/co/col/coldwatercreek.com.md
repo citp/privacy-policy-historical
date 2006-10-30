@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the coldwatercreek.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622075224id_/http%3A//coldwatercreek.com/aspx/CustomerService/CSPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwatercreek.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030195133id_/http%3A//coldwatercreek.com/cwc.aspx%3Fprovider%3DcsPrivacy) for the most accurate reproduction.*
 
-# Coldwater Creek ~ Privacy & Security
+# Coldwater Creek
 
   
 Trust is at the heart of every successful, ongoing relationship. At Coldwater Creek, earning and keeping your trust is the standard for everything we do. Because of this commitment, we never sell, rent or trade e-mail addresses with any other company. 
 
-If you have any questions that are not answered below, please e-mail us at [customerservice@thecreek.com](https://web.archive.org/aspx/CustomerService/CSContactUs.aspx#Email).
+If you have any questions that are not answered below, please e-mail us at [ customerservice@thecreek.com](https://web.archive.org/cwc.aspx?provider=CSContactUs#Email).
 
   
 **Do you sell or trade customer e-mail addresses?**   
@@ -34,17 +34,17 @@ We occasionally share customer information with select third parties. From time 
 No. However, you may find it more convenient if you sign up for an account with us. In your account we can store your name, address and credit card information so you don't have to enter that information during future shopping visits. Only the last four digits of your credit card numbers are displayed for easy identification.
 
 **How do I update my personal information?**   
-You can update your information online in [My Account](https://web.archive.org/aspx/MyAccount/MyAcctLogin.aspx). Log in with your  
+You can update your information online in [ My Account](https://web.archive.org/aspx/MyAccount/MyAcctLogin.aspx). Log in with your  
 e-mail address and password, then click Personal Information. Your account information will be displayed as we currently have it in our system. If you have any difficulties, click Instant Help or give us a call at  
 1-800-510-2808. Our customer service representatives are available daily from 6 a.m. to 3 a.m. ET.
 
 **Does Coldwatercreek.com use cookies?**   
 Coldwatercreek.com does use cookies to make your shopping experience more efficient, convenient and personalized. Cookies  
-are not required for you to browse our site, however, they are required for you to shop our site or to place an order. To learn more about cookies and how to enable them, [click](https://web.archive.org/aspx/CustomerService/CSSiteHelp.aspx#cookiesB).
+are not required for you to browse our site, however, they are required for you to shop our site or to place an order. To learn more about cookies and how to enable them, [click](https://web.archive.org/cwc.aspx?provider=CSSiteHelp#cookiesB).
 
-We collaborate with Coremetrics, a company assisting us in gaining knowledge about how you use our Web site so that we may continually improve your online experience. Coremetrics, on behalf of Coldwater Creek, places a [cookie](https://web.archive.org/aspx/CustomerService/CSSiteHelp.aspx#CookiesB) on your computer that collects information including unique visitor identification and aspects about your visit to our site such as search engine referral information, products and pages viewed, and purchases placed. Coldwater Creek does not allow Coremetrics to collect credit card, username, or password information. Coremetrics is contractually prohibited from using our data for any other purpose other than to collect, analyze and maintain the data in a secure and confidential manner for Coldwater Creek. As a visitor to coldwatercreek.com, you have the option to disable the ability for Coremetrics to collect and analyze your browsing and purchasing behavior. Or you may maintain your anonymity and still continue to benefit from the improved shopping experience. To learn more about the privacy and confidentiality options you can select with respect to Coremetrics on this site, [click here](https://web.archive.org/aspx/CustomerService/CoreMet_Pref_Popup.aspx).
+We collaborate with Coremetrics, a company assisting us in gaining knowledge about how you use our Web site so that we may continually improve your online experience. Coremetrics, on behalf of Coldwater Creek, places a [ cookie](https://web.archive.org/cwc.aspx?provider=CSSiteHelp#CookiesB) on your computer that collects information including unique visitor identification and aspects about your visit to our site such as search engine referral information, products and pages viewed, and purchases placed. Coldwater Creek does not allow Coremetrics to collect credit card, username, or password information. Coremetrics is contractually prohibited from using our data for any other purpose other than to collect, analyze and maintain the data in a secure and confidential manner for Coldwater Creek. As a visitor to coldwatercreek.com, you have the option to disable the ability for Coremetrics to collect and analyze your browsing and purchasing behavior. Or you may maintain your anonymity and still continue to benefit from the improved shopping experience. To learn more about the privacy and confidentiality options you can select with respect to Coremetrics on this site, [ click here](https://web.archive.org/cwc.aspx?provider=CoreMet_Pref_Popup).
 
-Please note that because Coremetrics collects data on our site using first-party data collection, blocking cookies from third-party domains will not block these first-party cookies. You will need to follow the opt-out process by [clicking here](https://web.archive.org/aspx/CustomerService/CoreMet_Pref_Popup.aspx). If you changed your opt-out status with respect to the Coremetrics cookie, Coremetrics uses a cookie to maintain your opt-out status. If you delete your cookies, your opt-out status will not be set and you will need to opt-out again. [Click here](https://web.archive.org/aspx/CustomerService/CoreMet_Pref_Popup.aspx) to follow the opt-out procedure.
+Please note that because Coremetrics collects data on our site using first-party data collection, blocking cookies from third-party domains will not block these first-party cookies. You will need to follow the opt-out process by [ clicking here](https://web.archive.org/cwc.aspx?provider=CoreMet_Pref_Popup). If you changed your opt-out status with respect to the Coremetrics cookie, Coremetrics uses a cookie to maintain your opt-out status. If you delete your cookies, your opt-out status will not be set and you will need to opt-out again. [ Click here](https://web.archive.org/cwc.aspx?provider=CoreMet_Pref_Popup) to follow the opt-out procedure.
 
 **How do I discontinue promotional e-mails?**   
 At the bottom of each e-mail is information about removing your name from our e-mail list. You may also remove your name or change the frequency of the e-mails you receive in My Account. Log in with your  
