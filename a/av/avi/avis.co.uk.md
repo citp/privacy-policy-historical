@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avis.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211533id_/http%3A//avis.co.uk/avisonline/terms.nsf/%28PrivacyStatementDefault%29/F19D6882ABFE25DBC1256C84005900F0%21opendocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avis.co.uk privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030184531id_/http%3A//www.avis.co.uk/avisonline/terms.nsf/%28PrivacyStatementDefault%29/F19D6882ABFE25DBC1256C84005900F0%21opendocument) for the most accurate reproduction.*
 
 # Privacy Statement
 
