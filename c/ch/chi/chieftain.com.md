@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612214116id_/http%3A//www.chieftain.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030162023id_/http%3A//www.chieftain.com/privacy_statement.php) for the most accurate reproduction.*
 
 # The Pueblo Chieftain Online - Pueblo, Colorado U.S.A
 
@@ -50,8 +50,8 @@ The Pueblo Chieftain Internet Services reserves the right to restrict access to 
 Weather
 
   
-83°  
-Mostly Cloudy 
+63°  
+Sunny and Windy 
 
 TopJobs
 
