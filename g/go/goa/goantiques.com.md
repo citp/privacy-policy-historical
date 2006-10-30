@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goantiques.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317203852id_/http%3A//www.goantiques.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goantiques.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030054816id_/http%3A//www.goantiques.com/privacy_policy) for the most accurate reproduction.*
 
 # Antiques, Art, Collectibles & More - GoAntiques
 
