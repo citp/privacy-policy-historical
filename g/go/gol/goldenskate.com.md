@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510131433id_/http%3A//www.goldenskate.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenskate.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030204151id_/http%3A//www.goldenskate.com/privacy.shtml) for the most accurate reproduction.*
 
 # Golden Skate's Privacy Policy
 
@@ -27,6 +27,16 @@
 > **Why did you receive an email from Golden Skate?**
 > 
 > If you received an email from _Golden Skate_ , (a) your email address is either listed with _Golden Skate_ as someone who has expressly shared this address for the purpose of receiving information in the future, or (b) you have registered or otherwise have an existing relationship with _Golden Skate_ and/or it's contents. _Golden Skate_ respects your time and attention by controlling the frequency of it's mailings.
+> 
+> **NOTE: Emails can appear to be sent from goldenskate.com when in fact they were NOT.**
+> 
+> Please carefully examine the headers of the offending email to locate the IP address of the host that sent the email. For a brief tutorial on how to read email headers, please see [Reading Email Headers](http://www.stopspam.org/email/headers.html).
+> 
+> If you are having trouble viewing the message headers, you can find [instructions for your email program](http://www.spamcop.net/fom-serve/cache/19.html) at the SpamCop.net website.
+> 
+> If an examination of the headers reveals that the message originated from a host in the **goldenskate.com** domain (including IP addresses that begin with 69.5.2.224), then forward the message, with full headers, to the [webmaster](mailto:skate@goldenskate.com?subject=Email%20Abuse).
+> 
+> **If you cannot tell where the message originated from or if it did not originate from the** **goldenskate.com** **domain, please do not report the matter to us.** Instead, we suggest that you use the [spam reporting service](http://www.spamcop.net/) at Spamcop.net. It is simple, quick, and free: just register at the SpamCop [Signup](http://www.spamcop.net/anonsignup.shtml) page. 
 > 
 > **Sharing and Usage**
 > 
