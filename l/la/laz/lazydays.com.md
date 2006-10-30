@@ -1,123 +1,87 @@
-> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403223252id_/http%3A//www.lazydays.com/default.asp%3Fipage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2006-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061030202937id_/http%3A//www.lazydays.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Lazydays - Website and Privacy Policy
+# Lazydays RV SuperCenter - Number One In RVs (Gas & Diesel Motor homes, Fifth Wheels, and Travel Trailers)
 
-|   
 LAZYDAYS PRIVACY POLICY
 
-LAZYDAYS IS COMMITTED TO HELPING YOU MAKE THE MOST OF YOUR FREE TIME ON THE INTERNET WITHIN A TRUSTED ENVIRONMENT. THIS PRIVACY POLICY DISCLOSES HOW WE COLLECT, PROTECT, USE AND SHARE INFORMATION GATHERED ABOUT YOU ON OUR WEBSITE. WE HOPE THAT THIS DISCLOSURE WILL HELP INCREASE YOUR CONFIDENCE IN OUR SITE AND ENHANCE YOUR EXPERIENCE ON THE INTERNET. 
+Lazydays is committed to helping you make the most of your free time on the Internet within a trusted environment. This privacy policy discloses how we collect, protect, use and share information gathered about you on our Website. We hope that this disclosure will help increase your confidence in our site and enhance your experience on the Internet. 
 
-Q1   
-WHAT TYPES OF INFORMATION IS LAZYDAYS COLLECTING, AND HOW IS LAZYDAYS COLLECTING IT?
+Q1: What types of information is Lazydays collecting, and how is Lazydays collecting it?
 
-Q2   
-HOW DOES LAZYDAYS USE THE PERSONALLY IDENTIFIABLE INFORMATION THAT HAS BEEN COLLECTED?
+Q2: How does Lazydays use the personally identifiable information that has been collected?
 
-Q3  
-DOES LAZYDAYS SHARE INFORMATION WITH COMPANIES OR OTHER ORGANIZATIONS THAT ARE NOT PART OF LAZYDAYS’ SITE?
+Q3: Does Lazydays share information with companies or other organizations that are not part of Lazydays’ site?
 
-Q4  
-WHAT CHOICES DO I HAVE ABOUT LAZYDAYS COLLECTING, USING, AND SHARING MY INFORMATION?
+Q4: What choices do I have about Lazydays collecting, using, and sharing my information?
 
-Q5   
-WHAT TYPE OF SECURITY DOES LAZYDAYS PROVIDE?
-
-Q6   
-HOW CAN I ACCESS MY ACCOUNT INFORMATION?
-
-Q7 WHOM DO I CONTACT WITH QUESTIONS OR CONCERNS ABOUT THIS PRIVACY POLICY?
-
-* * *
-
+Q5: What type of security does Lazydays provide?  
   
-Q1   
-WHAT TYPES OF INFORMATION IS LAZYDAYS COLLECTING, AND HOW IS LAZYDAYS COLLECTING IT?
+Q6: How can I access my account information?
 
-THE MAJORITY OF GREAT PRODUCTS AND SERVICES ON OUR SITE ARE OFFERED WITHOUT OUR COLLECTING ANY PERSONALLY IDENTIFIABLE INFORMATION FROM YOU. THERE ARE A FEW ACTIVITIES ON OUR SITE WHERE THE COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION IS NECESSARY. THOSE ACTIVITIES INCLUDE, BUT ARE NOT LIMITED TO, THINGS LIKE REQUESTING PROMOTIONAL LITERATURE, ENTERING A CONTEST OR SWEEPSTAKES, MAKING A PURCHASE, OR CONTACTING US. WHEN PERSONALLY IDENTIFIABLE INFORMATION IS COLLECTED, YOU WILL KNOW BECAUSE YOU WILL HAVE TO FILL OUT A FORM. FOR MOST ACTIVITIES, WE COLLECT ONLY YOUR NAME, PHONE NUMBER, ADDRESS, E-MAIL ADDRESS, BIRTH DATE, GENDER, AND ZIP CODE. 
+Q7: Whom do I contact with questions or concerns about this privacy policy?
 
-INFORMATION COLLECTED FROM YOU WITH TECHNOLOGY
+Q1: What types of information is Lazydays collecting, and how is Lazydays collecting it?
 
-OUR SITE COLLECTS SOME INFORMATION ABOUT YOU USING TECHNOLOGY, SO IT MAY NOT BE READILY APPARENT TO YOU THAT IT IS BEING COLLECTED. FOR INSTANCE, WHEN YOU COME TO OUR SITE YOUR IP ADDRESS IS COLLECTED SO THAT WE KNOW WHERE TO SEND THE INFORMATION YOU ARE REQUESTING. AN IP ADDRESS IS OFTEN ASSOCIATED WITH THE PLACE FROM WHICH YOU ENTER THE INTERNET, LIKE YOUR ISP INTERNET SERVICE PROVIDER), YOUR COMPANY, OR YOUR UNIVERSITY. THIS INFORMATION IS NOT PERSONALLY IDENTIFIABLE. OUR SITE USES INFORMATION COLLECTED THROUGH TECHNOLOGY TO MAKE OUR SITE MORE INTERESTING AND USEFUL TO YOU. THIS INCLUDES HELPING ADVERTISERS ON OUR SITE DESIGN ADVERTISEMENTS OUR GUESTS MIGHT LIKE. WE NORMALLY DO NOT COMBINE THIS TYPE OF INFORMATION WITH PERSONALLY IDENTIFIABLE INFORMATION. HOWEVER, WE WILL COMBINE THIS INFORMATION WITH PERSONALLY IDENTIFIABLE INFORMATION TO IDENTIFY A VISITOR IN ORDER TO ENFORCE COMPLIANCE WITH OUR HOUSE RULES OR TERMS OF SERVICE, OR TO PROTECT OUR SERVICE, SITE, GUESTS, OR OTHERS. 
+The majority of great products and services on our site are offered without our collecting any personally identifiable information from you. There are a few activities on our site where the collection of personally identifiable information is necessary. Those activities include, but are not limited to, things like requesting promotional literature, entering a contest or sweepstakes, making a purchase, or contacting us. When personally identifiable information is collected, you will know because you will have to fill out a form. For most activities, we collect only your name, phone number, address, e-mail address, birth date, gender, and zip code. 
 
-WHAT ARE COOKIES, AND HOW DOES LAZYDAYS USE THEM?
+_Information Collected from You with Technology_  
+Our site collects some information about you using technology, so it may not be readily apparent to you that it is being collected. For instance, when you come to our site your IP address is collected so that we know where to send the information you are requesting. An IP address is often associated with the place from which you enter the Internet, like your ISP (Internet service provider), your company, or your university. This information is not personally identifiable. Our site uses information collected through technology to make our site more interesting and useful to you. This includes helping advertisers on our site design advertisements our Guests might like. We normally do not combine this type of information with personally identifiable information. However, we will combine this information with personally identifiable information to identify a visitor in order to enforce compliance with our house rules or terms of service, or to protect our service, site, Guests, or others. 
 
-COOKIES ARE PIECES OF INFORMATION THAT A WEBSITE SENDS TO YOUR COMPUTER WHILE YOU ARE VIEWING THE WEBSITE. THESE PIECES OF INFORMATION ALLOW THE WEBSITE TO REMEMBER IMPORTANT INFORMATION THAT WILL MAKE YOUR USE OF THAT SITE MORE USEFUL. LAZYDAYS AND OTHER COMPANIES USE COOKIES FOR A VARIETY OF PURPOSES. YOU CAN CHOOSE TO HAVE YOUR COMPUTER WARN YOU EACH TIME A COOKIE IS BEING SENT, OR YOU CAN CHOOSE TO TURN OFF ALL COOKIES. YOU DO THIS THROUGH YOUR BROWSER LIKE NETSCAPE NAVIGATOR OR INTERNET EXPLORER) SETTINGS. EACH BROWSER IS A LITTLE DIFFERENT, SO LOOK AT YOUR BROWSER HELP MENU TO LEARN THE CORRECT WAY TO MODIFY YOUR COOKIES. IF YOU TURN COOKIES OFF, YOU WILL NOT HAVE ACCESS TO FEATURES OR CERTAIN WEBSITES THAT MAKE YOUR WEB EXPERIENCE MORE EFFICIENT, AND SOME OF OUR SERVICES WILL NOT FUNCTION PROPERLY.
+_What Are Cookies, and How Does Lazydays Use Them?_  
+Cookies are pieces of information that a Website sends to your computer while you are viewing the Website. These pieces of information allow the Website to remember important information that will make your use of that site more useful. Lazydays and other companies use cookies for a variety of purposes. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you will not have access to features or certain Websites that make your web experience more efficient, and some of our services will not function properly.
 
-* * *
+Q2: How does Lazydays use the personally identifiable information that has been collected?
 
-  
-Q2   
-HOW DOES LAZYDAYS USE THE PERSONALLY IDENTIFIABLE INFORMATION THAT HAS BEEN COLLECTED?
+Lazydays uses personally identifiable information in a limited number of ways. We use the information to mail you promotional literature that you requested, or to set up your “My Lazydays” account. Information we collect may be used to send you e-mail updates about our site, products and services. We also use the information you provide to send you Lazydays’ e-mail promotions and special offers from our third-party sponsors. 
 
-LAZYDAYS USES PERSONALLY IDENTIFIABLE INFORMATION IN A LIMITED NUMBER OF WAYS. WE USE THE INFORMATION TO MAIL YOU PROMOTIONAL LITERATURE THAT YOU REQUESTED, OR TO SET UP YOUR "MY LAZYDAYS" ACCOUNT. INFORMATION WE COLLECT MAY BE USED TO SEND YOU E-MAIL UPDATES ABOUT OUR SITE, PRODUCTS AND SERVICES. WE ALSO USE THE INFORMATION YOU PROVIDE TO SEND YOU LAZYDAYS’ E-MAIL PROMOTIONS AND SPECIAL OFFERS FROM OUR THIRD-PARTY SPONSORS. 
+Q3: Does Lazydays share information with companies or other organizations not a part of the Lazydays’ family of sites?
 
-* * *
+One of the most valuable assets of our business is you. We are not in the business of selling information about our Guests. However, if there is a value for our Guests, we will share your information or send you messages on behalf of another company as described below. We will also share information for security reasons. 
 
-  
-Q3   
-DOES LAZYDAYS SHARE INFORMATION WITH COMPANIES OR OTHER ORGANIZATIONS NOT A PART OF THE LAZYDAYS’ FAMILY OF SITES?
+_Companies that are “Standing in the Shoes” of Lazydays_  
+Sometimes we hire companies to help us deliver products or services, like a shipping company that delivers a package. In those instances, we need to share your information with them. These companies are basically “standing in the shoes” of Lazydays, and they are allowed to use the information only to deliver the product or service.
 
-ONE OF THE MOST VALUABLE ASSETS OF OUR BUSINESS IS YOU. WE ARE NOT IN THE BUSINESS OF SELLING INFORMATION ABOUT OUR GUESTS. HOWEVER, IF THERE IS A VALUE FOR OUR GUESTS, WE WILL SHARE YOUR INFORMATION OR SEND YOU MESSAGES ON BEHALF OF ANOTHER COMPANY AS DESCRIBED BELOW. WE WILL ALSO SHARE INFORMATION FOR SECURITY REASONS. 
+_Companies Offering Promotions, Products or Services_  
+On occasion, we offer promotions, such as sweepstakes, in conjunction with a sponsor. We will share your information with the sponsors if they need it to send you information about the promotion. We may share your information with those sponsors so that they can send you other special promotions they offer, and we will share it only with that specific sponsor. In addition, Lazydays occasionally sends e-mail promotions to our Guests on behalf of third-party sponsors. In this instance, we do not share your name with the third party - we do the mailing for them. 
 
-COMPANIES THAT ARE "STANDING IN THE SHOES" OF LAZYDAYS
+_Content Partners_  
+On some of our sites, we provide content that is created by a third-party partner Website. In some instances, the third-party sites will collect information in order to facilitate the transaction or to make the use of their content more productive and efficient. In these circumstances, the information collected is shared between Lazydays and our third-party sponsors. 
 
-SOMETIMES WE HIRE COMPANIES TO HELP US DELIVER PRODUCTS OR SERVICES, LIKE A SHIPPING COMPANY THAT DELIVERS A PACKAGE. IN THOSE INSTANCES, WE NEED TO SHARE YOUR INFORMATION WITH THEM. THESE COMPANIES ARE BASICALLY "STANDING IN THE SHOES" OF LAZYDAYS, AND THEY ARE ALLOWED TO USE THE INFORMATION ONLY TO DELIVER THE PRODUCT OR SERVICE.
+_Third-Party Advertisers and Network Advertisers_  
+Once you have clicked on an advertisement and have left Lazydays’ site, our privacy policy no longer applies. You must read the privacy policy of the advertiser to see how your personal information will be handled on their site. 
 
-COMPANIES OFFERING PROMOTIONS, PRODUCTS OR SERVICES
+_Organizations That Help Protect the Security and Safety of Our Guests and Our Site_  
+We will give out personal information as required by law, for example, to comply with a Court Order or Subpoena; to enforce our Terms of Service, or site or game rules; or to protect the safety and security of Guests and our sites.
 
-ON OCCASION, WE OFFER PROMOTIONS, SUCH AS SWEEPSTAKES, IN CONJUNCTION WITH A SPONSOR. WE WILL SHARE YOUR INFORMATION WITH THE SPONSORS IF THEY NEED IT TO SEND YOU INFORMATION ABOUT THE PROMOTION. WE MAY SHARE YOUR INFORMATION WITH THOSE SPONSORS SO THAT THEY CAN SEND YOU OTHER SPECIAL PROMOTIONS THEY OFFER, AND WE WILL SHARE IT ONLY WITH THAT SPECIFIC SPONSOR. IN ADDITION, LAZYDAYS OCCASIONALLY SENDS E-MAIL PROMOTIONS TO OUR GUESTS ON BEHALF OF THIRD-PARTY SPONSORS. IN THIS INSTANCE, WE DO NOT SHARE YOUR NAME WITH THE THIRD PARTY - WE DO THE MAILING FOR THEM. 
+Q4: What choices do I have about Lazydays collecting, using, and sharing my information?
 
-CONTENT PARTNERS
+It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us, or give us personally identifiable information, you will have an opportunity, at the time we collect your information, to limit e-mail communications from Lazydays and from our third-party partners. You can request, at any time, that Lazydays not send future e-mail to you either by unsubscribing from the communication or by contacting us at HYPERLINK "" Error! Hyperlink reference not valid. Also, as mentioned above, there are ways to limit the information collected through technology, although some of our features will not work if you decide to do this.
 
-ON SOME OF OUR SITES, WE PROVIDE CONTENT THAT IS CREATED BY A THIRD-PARTY PARTNER WEBSITE. IN SOME INSTANCES, THE THIRD-PARTY SITES WILL COLLECT INFORMATION IN ORDER TO FACILITATE THE TRANSACTION OR TO MAKE THE USE OF THEIR CONTENT MORE PRODUCTIVE AND EFFICIENT. IN THESE CIRCUMSTANCES, THE INFORMATION COLLECTED IS SHARED BETWEEN LAZYDAYS AND OUR THIRD-PARTY SPONSORS. 
+Q5: What type of security does Lazydays provide?
 
-THIRD-PARTY ADVERTISERS AND NETWORK ADVERTISERS
+The importance of security for all personally identifiable information associated with our Guests is of utmost concern to us. Lazydays takes technical, contractual, administrative and physical security steps to protect all visitors’ information. There are some things that you can do to help protect the security of your information as well. For instance, never give out your password, since this is what is used to access all of your account information. Also, remember to sign out of your account and close your browser window when you finish surfing the Web so that other people using the same computer will not have access to your information. 
 
-ONCE YOU HAVE CLICKED ON AN ADVERTISEMENT AND HAVE LEFT LAZYDAYS’ SITE, OUR PRIVACY POLICY NO LONGER APPLIES. YOU MUST READ THE PRIVACY POLICY OF THE ADVERTISER TO SEE HOW YOUR PERSONAL INFORMATION WILL BE HANDLED ON THEIR SITE. 
+Q6: How can I access my account information?
 
-ORGANIZATIONS THAT HELP PROTECT THE SECURITY AND SAFETY OF OUR GUESTS AND OUR SITE
+You can access the personally identifiable information you gave us to create your “My Lazydays” account in the “My Account” section of our website. Simply click on the “My Lazydays” tab, log in and click the “My Account” link. 
 
-WE WILL GIVE OUT PERSONAL INFORMATION AS REQUIRED BY LAW, FOR EXAMPLE, TO COMPLY WITH A COURT ORDER OR SUBPOENA; TO ENFORCE OUR TERMS OF SERVICE, OR SITE OR GAME RULES; OR TO PROTECT THE SAFETY AND SECURITY OF GUESTS AND OUR SITES.
+Q7: Whom do I contact with questions or concerns about this privacy policy?
 
-* * *
+If you need further assistance, please send an e-mail with your questions or comments to: 
 
-  
-Q4   
-WHAT CHOICES DO I HAVE ABOUT LAZYDAYS COLLECTING, USING, AND SHARING MY INFORMATION?
-
-IT IS POSSIBLE FOR YOU TO USE MUCH OF OUR SITE WITHOUT GIVING US ANY PERSONALLY IDENTIFIABLE INFORMATION. WHEN YOU DO REGISTER WITH US, OR GIVE US PERSONALLY IDENTIFIABLE INFORMATION, YOU WILL HAVE AN OPPORTUNITY, AT THE TIME WE COLLECT YOUR INFORMATION, TO LIMIT E-MAIL COMMUNICATIONS FROM LAZYDAYS AND FROM OUR THIRD-PARTY PARTNERS. YOU CAN REQUEST, AT ANY TIME, THAT LAZYDAYS NOT SEND FUTURE E-MAIL TO YOU EITHER BY UNSUBSCRIBING FROM THE COMMUNICATION OR BY CONTACTING US AT SADAMS@LAZYDAYS.COM. ALSO, AS MENTIONED ABOVE, THERE ARE WAYS TO LIMIT THE INFORMATION COLLECTED THROUGH TECHNOLOGY, ALTHOUGH SOME OF OUR FEATURES WILL NOT WORK IF YOU DECIDE TO DO THIS.
-
-* * *
-
-  
-Q5   
-WHAT TYPE OF SECURITY DOES LAZYDAYS PROVIDE?
-
-THE IMPORTANCE OF SECURITY FOR ALL PERSONALLY IDENTIFIABLE INFORMATION ASSOCIATED WITH OUR GUESTS IS OF UTMOST CONCERN TO US. LAZYDAYS TAKES TECHNICAL, CONTRACTUAL, ADMINISTRATIVE AND PHYSICAL SECURITY STEPS TO PROTECT ALL VISITORS’ INFORMATION. THERE ARE SOME THINGS THAT YOU CAN DO TO HELP PROTECT THE SECURITY OF YOUR INFORMATION AS WELL. FOR INSTANCE, NEVER GIVE OUT YOUR PASSWORD, SINCE THIS IS WHAT IS USED TO ACCESS ALL OF YOUR ACCOUNT INFORMATION. ALSO, REMEMBER TO SIGN OUT OF YOUR ACCOUNT AND CLOSE YOUR BROWSER WINDOW WHEN YOU FINISH SURFING THE WEB SO THAT OTHER PEOPLE USING THE SAME COMPUTER WILL NOT HAVE ACCESS TO YOUR INFORMATION. 
-
-* * *
-
-  
-Q6   
-HOW CAN I ACCESS MY ACCOUNT INFORMATION?
-
-YOU CAN ACCESS THE PERSONALLY IDENTIFIABLE INFORMATION YOU GAVE US TO CREATE YOUR "MY LAZYDAYS" ACCOUNT IN THE "MY ACCOUNT" SECTION OF OUR WEBSITE. SIMPLY CLICK ON THE "MY LAZYDAYS" TAB, LOG IN AND CLICK THE "MY ACCOUNT" LINK. 
-
-* * *
-
-  
-Q7   
-WHOM DO I CONTACT WITH QUESTIONS OR CONCERNS ABOUT THIS PRIVACY POLICY?
-
-IF YOU NEED FURTHER ASSISTANCE, PLEASE SEND AN E-MAIL WITH YOUR QUESTIONS OR COMMENTS TO: 
-
-STEVEN ADAMS  
-LAZYDAYS R.V. CENTER, INC.  
-6130 LAZYDAYS BOULEVARD  
-SEFFNER, FLORIDA 33584  
-TELEPHONE: 813/246-4333  
-E-MAIL: [SADAMS@LAZYDAYS.COM](mailto:sadams@lazydays.com)
-
-**YOU MUST BE 18 YEARS OF AGE OR HAVE THE PERMISSION OF YOUR PARENT OR GUARDIAN TO DIAL THIS NUMBER.
+Steve Adams  
+Lazydays R.V. Center, Inc.  
+6130 Lazydays Boulevard  
+Seffner, Florida 33584  
+Telephone: 813/246-4333  
+E-Mail: [sadams@lazydays.com](mailto:sadams@lazydays.com)
 
 | 
+
+**
+
+| 
+
+_You must be 18 years of age or have the permission of your parent or guardian to dial this number._  
+  
+---|---
