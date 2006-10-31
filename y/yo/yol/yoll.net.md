@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoll.net privacy policy that was archived on 2006-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060208082042id_/http%3A//yoll.net/web-hosting-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoll.net privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031232209id_/http%3A//yoll.net/web-hosting-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy. FateBack Linux web hosting network.
 
