@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2006-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060507022206id_/http%3A//www.alpharooms.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031021453id_/http%3A//www.alpharooms.com/Privacy.aspx) for the most accurate reproduction.*
 
 # alpharooms.com: About Us: Privacy Policy - Cheap accommodation in the Spain, Portugal, USA, European Cities, London, Scotland.
 
@@ -32,7 +32,7 @@ Your information is only shared with certain third parties in order to book your
 
 ## How we protect your information
 
-Any sensitive information you give us (such as credit card details) is protected by SSL technology – the industry standard to securely send information across the Internet. For more information [view our Security page](https://web.archive.org/web/20060507022206id_/http%3A//www.alpharooms.com/security.aspx).
+Any sensitive information you give us (such as credit card details) is protected by SSL technology – the industry standard to securely send information across the Internet. For more information [view our Security page](https://web.archive.org/web/20061031021453id_/http%3A//www.alpharooms.com/security.aspx).
 
 ## alpharooms.com features and your privacy
 
