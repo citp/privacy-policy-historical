@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebusinessmag.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616003622id_/http%3A//www.homebusinessmag.com/content/view/273/256) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebusinessmag.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031014337id_/http%3A//www.homebusinessmag.com/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Home Business - Home Based Business - Work From Home - MLM - Work At Home - Privacy Statement
 
@@ -68,17 +68,20 @@ If we decide to change our privacy policy, we will post those changes on our hom
 **Contact Information  
 ** To request removal from any HBM lists or subscriptions, please contact:
 
- **HBM Main Office**  
-9582 Hamilton Ave., PMB 368  
-Huntington Beach, CA 92646 
+  
 
-**Home Business Magazine Online:**   
-HBM Main Office  
-9582 Hamilton Ave., PMB 368  
-Huntington Beach, CA 92646 
 
-**Home Business Magazine (print edition):**   
-Home Business Magazine Phone: (714) 968-0331   
+Home Business Magazine   
+20711 Holt Ave. PMB 807  
+Lakeville, MN 55044
+
+ **Home Business Magazine Online:**   
+Home Business Magazine   
+20711 Holt Ave. PMB 807  
+Lakeville, MN 55044
+
+ **Home Business Magazine (print edition):**   
+Home Business Magazine Phone: (800) 734-7042  
 Hours: Monday-Friday, 8 a.m.-5 p.m. PST  
 Fax (714) 962-7722 
 
