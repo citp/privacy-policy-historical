@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtravel.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025450id_/http%3A//realtravel.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtravel.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031044956id_/http%3A//realtravel.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - RealTravel
 
