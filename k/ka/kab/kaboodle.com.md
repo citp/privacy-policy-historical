@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaboodle.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615024243id_/http%3A//www.kaboodle.com/zd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaboodle.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031152050id_/http%3A//www.kaboodle.com/zd/privacy.html) for the most accurate reproduction.*
 
 # Kaboodle Privacy Policy
 
