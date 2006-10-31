@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-webmaster-tools.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615095102id_/http%3A//www.free-webmaster-tools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-webmaster-tools.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031162551id_/http%3A//free-webmaster-tools.com/privacy.html) for the most accurate reproduction.*
 
 # Free Webmaster Tools and Resources - Privacy
 
