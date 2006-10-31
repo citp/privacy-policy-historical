@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justrage.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614074606id_/http%3A//www.justrage.com/staticpages/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justrage.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031181315id_/http%3A//www.justrage.com/staticpages/index.php/privacy) for the most accurate reproduction.*
 
 # justrage.com - Privacy Policy
 
