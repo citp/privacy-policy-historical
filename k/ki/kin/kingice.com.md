@@ -1,0 +1,33 @@
+> *The following text is extracted and transformed from the kingice.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031153106id_/http%3A//www.kingice.com/privacy.aspx) for the most accurate reproduction.*
+
+# Privacy Policy
+
+| [](http://www.kingice.com/) |   
+---|---  
+|  [**BULLET CHAINS**](http://www.kingice.com/HIP-HOP-Bullet-Chains-100180.html) |  [**HIP HOP CROSSES**](http://www.kingice.com/HIP-HOP-Cross-Pendants-100178.html) |  [**HIP HOP RINGS**](http://www.kingice.com/HIP-HOP-Rings-100179.html) |  [**HIP HOP PENDANTS**](http://www.kingice.com/Various-HIP-HOP-Pendants-100184.html) |  [**HIP HOP BRACELETS**](http://www.kingice.com/HIP-HOP-Bracelets-100183.html) |  [**HIP HOP EARRINGS**](http://www.kingice.com/HIP-HOP-Earrings-100334.html) |  [**HIP HOP Grillz**](http://www.kingice.com/Grillz-100437.html)  
+---|---|---|---|---|---|---  
+|  | 
+
+  
+|  **Privacy Policy**  
+---  
+KING ICE respects your privacy. Your e-mail address is totally secure. We do not sell or rent any of your individual information we collect (such as your e-mail address, name, and other information) to any third parties without your consent. We will only collect, store and use your personal information to customize the content, services and advertising we deliver to you based on your preferences and interests. For questions concerning the privacy policy of KING ICE, please contact us at [sales@kingice.com](mailto:sales@kingice.com)  
+**Security Policy**  
+We understand your concerns regarding Internet security. KING ICE encrypts all of your personal information including credit card number, name, and address, so that it cannot be read as the information travels over the Internet. We have taken measures to maintain the highest level of security by implementing [GoDaddy](https://seal.godaddy.com/verifySeal?sealID=72138682013f5ee68127109703e719617c03065624685199897460) Site Seal Certificate encrytion. You should feel as comfortable using your credit card online as you do in a department store.   
+**Ordering**   
+Every order at KING ICE is secure. All data submitted via the checkout form is encrypted using SSL (Secure Sockets Layer) 128 bit encryption, the highest industrial standard for commercial online payment systems, used by organizations such as the FBI.   
+**Recognizing** **a "Secure Area"**  
+The standard, unsecured URL address begins "http://". When you enter a secure area, the beginning of the URL address will change to "https://"; the "s" stands for secure. Most browsers in secure mode also display a blue line along the top of the browser window.   
+**Entering a "Secure Area"**   
+Your computer and our server begin to communicate in a secure area, sending data back and forth in an encrypted format. Browser encryption software is quite powerful and ensures the security of this data as it is transmitted to our server. To verify that you are in a secure area look for the padlock at the bottom right of your browser   
+**Credit Card Information**  
+The credit card numbers are placed in the SQL database on the KING ICE web server. All credit card information is stored as encrypted data. The information is scrambled and requires a virtual key possessed solely by authorized personnel, to be accessed. A user must logon, requiring a password to to access the database which includes your order history. All communications during these sessions are encrypted again using SSL. No credit card numbers are ever sent via e-mail, due to the fact that e-mail is not secure.   
+  
+  
+  
+[](http://www.kingice.com/new-arrivals.html)  
+  
+|  Call Toll Free  
+1-877-KING-ICE | [About US](http://www.kingice.com/company.aspx) | | | [FAQ](http://www.kingice.com/faq.aspx) | | | [Privacy Policy](http://www.kingice.com/privacy.aspx) | | | [Links](http://www.kingice.com/links.aspx) | | | [Articles](http://www.kingice.com/articles.aspx) |   
+---|---|---|---|---|---|---|---|---|---|---  
+©2002-2006 KingIce.com, real hip hop jewelry.
