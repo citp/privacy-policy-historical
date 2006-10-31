@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdforums.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513012802id_/http%3A//www.hdforums.com/includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdforums.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031160336id_/http%3A//www.hdforums.com/includes/privacy.asp) for the most accurate reproduction.*
 
 # Harley Davidson Forums
 
@@ -59,94 +59,86 @@ If you have any questions about this privacy policy, the practices of the HDForu
 
 [Contact Form](https://web.archive.org/contact/)  
   
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=585&url=http://www.handcarvedgifts.com/index.asp?PageAction=VIEWCATS&Category=10)  
+| Featured Vendors  
+---  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=471&url=http://www.internatrix.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1004&url=http://www.rivcoproducts.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=818&url=http://www.rekluse.com/ProStart.html)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1003&url=http://www.wheeldock.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=844&url=http://www.rjsoriginals.com)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=779&url=http://gordonshdparts.safeshopper.com)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=986&url=http://www.buyaqua-aire.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=344&url=http://www.jacksflaps.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=252&url=http://www.customdynamics.com)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=973&url=http://www.bikerbids.com)  
+  
 
 
   
-| Featured Vendors  
----  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=779&url=http://gordonshdparts.safeshopper.com)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=658&url=http://www.skullmanonline.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=666&url=http://www.georges-garage.com)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=609&url=http://www.bigboyzcycles.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=780&url=http://www.boogey.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=469&url=http://www.hogpro.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=799&url=http://www.rifle.com)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=644&url=http://www.crystal-glo.com/usa/bike)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=587&url=http://www.russbrown.com)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=252&url=http://www.customdynamics.com)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=344&url=http://www.jacksflaps.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=558&url=http://www.gotkeys.biz)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=606&url=http://www.true-track.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=988&url=http://www.dohertymachine.com)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=780&url=http://www.boogey.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=469&url=http://www.hogpro.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=666&url=http://www.georges-garage.com)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=799&url=http://www.rifle.com)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=889&url=http://www.blueridgebedandbreakfast.net)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=990&url=http://www.revperf.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=658&url=http://www.skullmanonline.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=609&url=http://www.bigboyzcycles.com/)|   
   
 Ride of the Month  
 ---  
-May 2006  
-[](https://web.archive.org/MemberRides/showRide.asp?ID=114)  
-[2006 Harley Davidson FLHXI](https://web.archive.org/MemberRides/showRide.asp?ID=114 "2006 Harley Davidson FLHXI")  
+October 2006  
+[](https://web.archive.org/MemberRides/showRide.asp?ID=160)  
+[2005 883 Custom](https://web.archive.org/MemberRides/showRide.asp?ID=160 "2005 883 Custom")  
   
 
 
 Top 10 Posters  
 ---  
-| [springer](https://web.archive.org/showprofile.asp?memID=933)| 21774  
+| [springer](https://web.archive.org/showprofile.asp?memID=933)| 26693  
 ---|---  
-[pilot1996](https://web.archive.org/showprofile.asp?memID=678)| 8612  
-[mikeisglidn](https://web.archive.org/showprofile.asp?memID=1453)| 6589  
-[terry1955](https://web.archive.org/showprofile.asp?memID=1423)| 6132  
-[john tn](https://web.archive.org/showprofile.asp?memID=1045)| 5722  
-[tripper](https://web.archive.org/showprofile.asp?memID=1087)| 5292  
-[12stones](https://web.archive.org/showprofile.asp?memID=535)| 5157  
-[bruce00](https://web.archive.org/showprofile.asp?memID=6073)| 5009  
-[heatherc](https://web.archive.org/showprofile.asp?memID=1310)| 4004  
-[molsenice](https://web.archive.org/showprofile.asp?memID=4170)| 3882  
+[bruce00](https://web.archive.org/showprofile.asp?memID=6073)| 14550  
+[grunt](https://web.archive.org/showprofile.asp?memID=13838)| 11490  
+[87lowrider](https://web.archive.org/showprofile.asp?memID=8002)| 11407  
+[pilot1996](https://web.archive.org/showprofile.asp?memID=678)| 8985  
+[john tn](https://web.archive.org/showprofile.asp?memID=1045)| 8607  
+[rahlow](https://web.archive.org/showprofile.asp?memID=3178)| 8180  
+[terry1955](https://web.archive.org/showprofile.asp?memID=1423)| 7919  
+[mikeisglidn](https://web.archive.org/showprofile.asp?memID=1453)| 7529  
+[12stones](https://web.archive.org/showprofile.asp?memID=535)| 7116  
   
-Newest Vendors  
+New Vendors  
 ---  
-| [Big Boyz Cycles](http://www.bigboyzcycles.com/)  
----  
-[Biker-Products](http://www.biker-glasses.com/)  
-[Boogey Lights](http://www.boogey.com/)  
-[Crystal-Glo](http://www.crystal-glo.com/usa/bike)  
-[Custom Dynamics, LLC ](http://www.customdynamics.com/)  
-[Eastern Performance Cycles](http://www.easternperformance.com/)  
-[Foremost Insurance Group](http://www.foremost.com/products/motorcycle/index.htm)  
-[Four Corners Rally in the Rockies](http://www.rallyintherockies.com/)  
-[George's Garage](http://www.georges-garage.com/)  
-[Gordon's Custom Motorcycle Parts](http://gordonshdparts.safeshopper.com/)
+[Cycle Paint & Metal](http://www.cyclepaintmetal.com/)  
+[Ramp Master](http://www.ramp-master.com/)  
+[Performance Oil Technology](http://www.hypertracker.com/go/perfoiltech/hd/)  
+[Rivco](http://www.rivcoproducts.com/)  
+[The Wheel Dock](http://www.wheeldock.com/)  
+[Wyotech](http://www.search4wyotech.com/?s_id=345)  
+[Revolution Performance](http://www.revperf.com/)  
+[Doherty Machine](http://www.dohertymachine.com/)  
+[Aqua Aire](http://www.buyaqua-aire.com/)  
+[Motorcycle Industry Jobs](http://www.motorcycleindustryjobs.com/)  
+[Biker Bids](http://www.bikerbids.com/)  
+[Meadowood Bed & Breakfast](http://www.blueridgebedandbreakfast.net/)  
+[Fix My Hog](http://www.fixmyhog.com/)  
+[Motherwell Products](http://www.motherwellproducts.com/)  
+[No More Fried Thighs](http://www.rjsoriginals.com/)
