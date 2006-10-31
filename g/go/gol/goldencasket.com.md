@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the goldencasket.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616003514id_/http%3A//www.goldencasket.com/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldencasket.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031150254id_/http%3A//www.goldencasket.com/site/privacy.asp) for the most accurate reproduction.*
 
 # Golden Casket
+
+**Download a PDF version of[Golden Casket Privacy Policy](https://web.archive.org/corporate/content/GC_Privacy_Policy_July_2006.pdf)**
+
+Privacy Policy
 
 This Privacy Policy explains how we manage the personal information that we collect, use and disclose and how to contact us if you have any queries.
 
