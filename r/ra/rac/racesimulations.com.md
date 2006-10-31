@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the racesimulations.com privacy policy that was archived on 2006-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060210124320id_/http%3A//www.racesimulations.com/information/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racesimulations.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031183147id_/http%3A//www.racesimulations.com/information/1.html) for the most accurate reproduction.*
 
 # : RaceSimulations : Privacy Policy
 
 ## About Us
 
-This is a privacy policy for racesimulations.com. Our homepage on the Web is located at [ http://www.racesimulations.com](http://www.racesimulations.com/index.php). The full text of our privacy policy is available on the Web at [ http://www.racesimulations.com/privacy.html](http://www.racesimulations.com/modules.php?name=Information&op=Privacy) Users may go to [ Your Account](http://www.racesimulations.com/modules.php?name=Your_Account) for information on how to opt-in or opt-out of use of their information. 
+This is a privacy policy for racesimulations.com. Our homepage on the Web is located at [ http://www.racesimulations.com](http://www.racesimulations.com/index.php). The full text of our privacy policy is available on the Web at [ http://www.racesimulations.com/privacy.html](http://www.racesimulations.com/modules.php?name=Information&op=Privacy) Users may go to [ Your Account](http://www.racesimulations.com/account) for information on how to opt-in or opt-out of use of their information. 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
     
@@ -119,7 +119,7 @@ The compact policy which corresponds to this policy is:
 
 The following table explains the meaning of each field in the compact policy. 
 
-| **Field**|  **Meaning**  
+**Field**|  **Meaning**  
 ---|---  
 `CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
 `IDC` |  Access is available to contact information.   
