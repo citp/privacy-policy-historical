@@ -1,43 +1,32 @@
-<!--The following is the downloaded HTML source of the kaboodle.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615024243id_/http%3A//www.kaboodle.com/zd/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kaboodle.com privacy policy that was archived on 2006-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061031152050id_/http%3A//www.kaboodle.com/zd/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta http-equiv="Content-Language" content="en-US">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="en-US">
+	
 
-
-  <link rel="stylesheet" type="text/css" href="/ht/css/default.css?v=r0_18_0_64">
-<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
-<meta name="Generator" content="Microsoft Word 11 (filtered)">
-<title>Kaboodle Privacy Policy</title>
+	  <link rel="stylesheet" type="text/css" href="/ht/css/defaultV1.css?v=r0_20_0_71">
+	<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+	<meta name="Generator" content="Microsoft Word 11 (filtered)">
+	<title>Kaboodle Privacy Policy</title>
   <style type="text/css">
-<!--
-  h1{
-    padding: 5px;
-  }
-  p{
-    padding: 0 5px 0 5px;
-  }
-  a:link{
-  color:"#0000CC";
-  }
-  a:visited{
-  color:purple;
-  }
--->
-</style>  
+		<!--
+		  h1{
+		    padding: 5px;
+		  }
+		  p{
+		    padding: 0 5px 0 5px;
+		  }
+		  a:link{
+		  color:"#0000CC";
+		  }
+		-->
+	</style>  
 </head>
-
-<body lang="EN-US">
-
-
-
-
-
-
-
-
-
+<body id="kaboodleBody" lang="EN-US">
+  <div id="kaboodleBodyContainer">
+		
 
 
 
@@ -61,7 +50,7 @@ s_account = "kaboodlecom"
 
 
 <div style="position:absolute; top:1px; left:1px; width:1px; height:1px; overflow: hidden;">
-<script type="text/javascript" src="/ht/scripts/s_code.js?v=r0_18_0_64"></script>
+<script type="text/javascript" src="/ht/scripts/s_code.js?v=r0_20_0_71"></script>
 <script type="text/javascript"><!--
 s.pageName="Legal : Privacy Policy"
 s.channel="Legal"
@@ -81,8 +70,16 @@ s.prop6="No"
 
 
 
-s.server="2"
+s.server="3"
 
+var m_cid=s.getQueryParam('m_cid');
+if(m_cid.length > 0) s.prop9=s.pageName + ' [' + m_cid + ']';
+else s.prop9 = s.pageName;
+var lastAction=getCookie('la');
+if (lastAction != null && lastAction.length > 0){
+  s.events='event'+lastAction;
+  deleteCookie('la', '/', '');
+}
 
 var s_code=s.t();if(s_code)document.write(s_code);//--></script>
 <script type="text/javaScript"><!--
@@ -92,6 +89,8 @@ src="http://kaboodlecom.122.2O7.net/b/ss/kaboodlecom/1/H.2--NS/0"
 height="1" width="1" style="border:none" alt="" /></p></noscript><!--/DO NOT REMOVE/-->
 
 </div>
+		<div id="topNavContainer">
+			
 
 
 
@@ -101,6 +100,16 @@ height="1" width="1" style="border:none" alt="" /></p></noscript><!--/DO NOT REM
 
 
 
+
+
+
+
+  
+
+
+
+
+  
 
 
 
@@ -118,8 +127,9 @@ height="1" width="1" style="border:none" alt="" /></p></noscript><!--/DO NOT REM
     
   
   
+
   
-  
+    
   
   
   <div id="topnav-right">
@@ -129,7 +139,8 @@ height="1" width="1" style="border:none" alt="" /></p></noscript><!--/DO NOT REM
         
         
           
-            <a href="/za/login">Sign in</a>
+            <a href="http://www.kaboodle.com/za/signup">Join Now</a> | 
+            <a href="http://www.kaboodle.com/za/login">Sign in</a>
           
         
       
@@ -139,35 +150,34 @@ height="1" width="1" style="border:none" alt="" /></p></noscript><!--/DO NOT REM
     </div>  
       
     
-    <div style="float: right;top: 0;">
    
-      
-        <div style="padding-top: 4px;">
-        <form method="get" action="/za/search" id="search">
-        <div class="searchCon">
-          <input name="q" value="">
-          <select name="st">
-            <option value="Pages">Pages</option>      
-            <option value="Items">Items</option>      
-          </select>
-          
-          <input type="submit" value="Search" onclick="javascript:document.getElementById('search').submit()">
-        </div>
-        </form>
-        </div>
-      
-    </div>
+    
+       
 
-  </div>
 
+
+
+
+
+<div id="searchTextBox">
+<form method="get" action="/za/search" id="search">
+<div class="searchCon">
+  <input name="q" id="searchBox" value="">
+  <select name="st">
+    <option value="Pages">Pages</option>      
+    <option value="Items">Items</option>      
+  </select>
   
+  <button type="submit" id="searchSubmit" onclick="javascript:document.getElementById('search').submit()">Search</button>
+</div>
+</form>
+</div> 
     
 
-
-
-
-
-
+  </div>
+	
+	  
+	    
 
 
 
@@ -185,22 +195,13 @@ height="1" width="1" style="border:none" alt="" /></p></noscript><!--/DO NOT REM
       
       <div id="br-L0">
 
-      
-      
         
-      
-      
-      
-      
-
-        
-        
-      <ul style="padding: 27px 0 0 20px;">
+      <ul>
         
         
           
           
-          <li class=""><a href="/za/home">
+          <li class="selected "><a href="/zd/home">
             
               
               Home
@@ -210,10 +211,20 @@ height="1" width="1" style="border:none" alt="" /></p></noscript><!--/DO NOT REM
         
           
           
-          <li class=""><a href="/browse">
+          <li class=""><a href="/browse/splash?pageType=shopping">
             
               
               Explore
+            
+          </a></li>
+          
+        
+          
+          
+          <li class=""><a href="/gp/browse">
+            
+              
+              Groups
             
           </a></li>
           
@@ -230,7 +241,7 @@ height="1" width="1" style="border:none" alt="" /></p></noscript><!--/DO NOT REM
         
           
           
-          <li class="selected "><a href="/zd/help/faq.html">
+          <li class=""><a href="/zd/help/getStarted.html">
             
               
               Help
@@ -239,94 +250,97 @@ height="1" width="1" style="border:none" alt="" /></p></noscript><!--/DO NOT REM
           
         
       </ul>
-      </div>
+      
+      
+            
+      
+
+    </div>
+
     
   
       
       <div id="br-L1">
 
-      
-      
-      
-      
-        
-      
-      
-
-        
         
       <ul>
         
         
           
           
-          <li class=""><a href="/zd/help/faq.html">
+          <li class=""><a href="/">
             
               
-              FAQ
+              Kaboodle Home
             
           </a></li>
           
         
           
           <li class="pipe">&nbsp; | &nbsp; </li>
-          <li class=""><a href="/zd/tos.html">
+          <li class=""><a href="/my">
             
               
-              Terms
+              My Kaboodle
             
           </a></li>
           
         
           
           <li class="pipe">&nbsp; | &nbsp; </li>
-          <li class="selected "><a href="/zd/privacy.html">
+          <li class=""><a href="/za/pagemanage">
             
               
-              Privacy
+              My Pages
             
           </a></li>
           
         
           
           <li class="pipe">&nbsp; | &nbsp; </li>
-          <li class=""><a href="/zd/aboutus.html">
+          <li class=""><a href="/gp/my">
             
               
-              About
+              My Groups
             
           </a></li>
           
         
           
           <li class="pipe">&nbsp; | &nbsp; </li>
-          <li class=""><a href="http://blog.kaboodle.com/">
+          <li class=""><a href="/za/accountsettings">
             
               
-              Our Blog
+              My Account
             
           </a></li>
           
         
           
           <li class="pipe">&nbsp; | &nbsp; </li>
-          <li class=""><a href="/za/feedback">
+          <li class=""><a href="/my/publicpages">
             
               
-              Send Feedback
+              My Profile
             
           </a></li>
           
         
       </ul>
-      </div>
+      
+      
+            
+      
+
+    </div>
+
     
   
 
 
-  
-  
-  
+	  
+	  
+	  
 </div>
 <div style="clear:both; padding-bottom: 15px;"></div>
 
@@ -337,142 +351,113 @@ height="1" width="1" style="border:none" alt="" /></p></noscript><!--/DO NOT REM
 
 
 
-
-
-
-
-
-  
-  
-<div class="Section1">
-
-<h3>Kaboodle Privacy Policy</h3>
-
-<p class="MsoNormal">&nbsp;</p>
-<p><span>Kaboodle
-collects information from users including email address, username, password,
-bookmarks and associated content stored by the user, messages, IP address,
-browser data, and cookies.&nbsp; </span></p>
-
-<p><span>&nbsp;</span></p>
-
-<ul style="margin-left:0.5em;">
- <li><span>Email
-     address, username and password are required for users to store and modify
-     bookmarks and other content on the site.</span></li>
- <li><span>Bookmarks
-     and associated content are submitted by users and redisplayed to the
-     general public unless specifically made private by the user.&nbsp; </span></li>
-</ul>
-
-<p>Messages on
-message boards are submitted by users and redisplayed to the general public.</p>
-
-<p style="margin-left:.5in;text-indent:-.25in"><span style="font-size:10.0pt;
-font-family:Symbol;">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span style="font-size:10.0pt;">A user may email
-pages to other users by using the email function and therefore Kaboodle
-collects these email addresses for the purpose of sending pages and populating
-a user’s address book.</span></p>
-
-<p style="margin-left:.5in;text-indent:-.25in"><span style="font-size:10.0pt;
-font-family:Symbol;">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span style="font-size:10.0pt;">IP, browser and
-cookie data are utilized for the purpose of customizing the site for each user.</span></p>
-
-<p><b><span style="font-size:10.0pt;">Customer Service</span></b></p>
-
-<p><span style="font-size:10.0pt;">If you choose to bookmark a
-page on Kaboodle or post messages in our message areas, we will collect that
-information you provide to us. Kaboodle employees may examine this data on an
-individual user basis as necessary to provide customer support and troubleshoot
-problems as permitted by law. </span></p>
-
-<p><b><span style="font-size:10.0pt;">Emails Sent To Kaboodle</span></b></p>
-
-<p><span style="font-size:10.0pt;">If you send us personal
-correspondence, such as emails or letters, or if other users or third parties
-send us correspondence about your activities or postings on the Site, we may
-collect such information into a file specific to you. </span></p>
-
-<p><b><span style="font-size:10.0pt;">Use of Personal
-Information</span></b></p>
-
-<p><span style="font-size:10.0pt;">As Kaboodle is a free site,
-we may use your bookmarks to improve our marketing and promotional efforts by
-providing targeted advertising based on the content of the pages.&nbsp; </span></p>
-
-<p><span style="font-size:10.0pt;">On an aggregate,
-non-personally identifiable level we may also use this data to analyze site
-usage and customize the Site's content, layout, and services. These uses
-improve the Site and better tailor it to meet your needs, so as to provide you
-with a smooth, efficient, safe and customized experience while using the
-Site.&nbsp; </span></p>
-
-<p><span style="font-size:10.0pt;">As a matter of policy, we <span class="highligh">do not</span> sell or rent any of your personal information to
-third parties for their marketing purposes without your explicit consent.
-However, the following describes some of the ways that your personal information
-may be disclosed in the normal scope of business to provide our services:</span></p>
-
-<p style="text-indent:.5in"><span class="sub-header"><span style="font-size:10.0pt;">
-Advertisers.</span></span><span style="font-size:10.0pt;">
-We aggregate (gather up data across all user accounts)
-personal information and disclose such information in a non-personally
-identifiable manner to advertisers and other third parties for their marketing
-and promotional purposes. However, in these situations, we do not disclose to
-these entities any information that could be used to identify you personally. </span></p>
-
-<p style="text-indent:.5in"><span class="sub-header"><span style="font-size:10.0pt;
-">Kaboodle Community.</span></span><span style="font-size:
-10.0pt;"> Your User ID, bookmarks and any content you generate
-via message boards are displayed throughout the Site.&nbsp;
-Therefore this data is available to the public. All of your activities on the
-Site will be identifiable to your User ID. Other people can see your bookmarks,
-comments, and any other pages you have created on the Kaboodle service.</span></p>
-
-<p style="text-indent:.5in"><span class="sub-header"><span style="font-size:10.0pt;
-">Legal Requests.</span></span><span style="font-size:10.0pt;">
-Kaboodle cooperates with law enforcement inquiries, as well
-as other third parties to enforce laws, such as: intellectual property rights,
-fraud and other rights, to help protect you and the Kaboodle community from
-those doing harm. Therefore, in response to a verified request by law
-enforcement or other government officials relating to a criminal investigation
-or alleged illegal activity, we can (and you authorize us to) disclose your
-user ID, email, bookmarks, and site usage history without a subpoena.</span></p>
-
-<p><span style="font-size:10.0pt;">If you are participating in
-the Kaboodle service, we may send emails to you from time to time indicating
-updates to the Kaboodle service and soliciting your feedback.&nbsp; If you do
-not wish to receive emails from Kaboodle, you may indicate so within your
-email preferences, when preferences become available on the Kaboodle system. </span></p>
-
-<p><b><span style="font-size:10.0pt;">Use of Email and Address
-Book</span></b></p>
-
-<p><span style="font-size:10.0pt;">You may not use the email
-feature that we offer to send spam or otherwise send content that would violate
-our Terms of Service. We may permanently store email addresses sent from these
-tools for the purpose of simplifying future emails you wish to send out.&nbsp;
-We do not read the content of these emails. </span></p>
-
-<p><span style="font-size:10.0pt;">If you send and email using
-the service to an email address that is not registered in our community, we do
-not use that email address for any purpose other than to send your email. We do
-not rent or sell these email addresses.&nbsp; We do not market to these emails
-in any way as a direct result of your submission of their email.</span></p>
-
-<p><span style="font-size:10.0pt">Other users may send emails to you via the
-Kaboodle service.&nbsp; Kaboodle does not review these messages before they
-are sent to you.&nbsp; In the future, Kaboodle will provide you with a means
-of blocking emails from specific users you designate.</span></p>
-
-<p><b><span style="font-size:10.0pt">Notice</span></b></p>
-
-<p><span style="font-size:10.0pt">We may amend this Privacy Policy at any time
-by posting the amend terms on the Site. All amended terms shall automatically
-be effective immediately and we are not required to notify you of the changes.</span></p>
-
-</div>
+ 
+		</div> 
+		<div id="mainContentContainerNoLeftRightNav " class="mainContentContainer">
+			<div class="Section1">			
+			<h3>Kaboodle Privacy Policy</h3>			
+			<p class="MsoNormal">&nbsp;</p>
+			<p><span>Kaboodle
+			collects information from users including email address, username, password,
+			bookmarks and associated content stored by the user, messages, IP address,
+			browser data, and cookies.&nbsp; </span></p>			
+			<p><span>&nbsp;</span></p>			
+			<ul style="margin-left:0.5em;">
+			 <li><span>Email
+			     address, username and password are required for users to store and modify
+			     bookmarks and other content on the site.</span></li>
+			 <li><span>Bookmarks
+			     and associated content are submitted by users and redisplayed to the
+			     general public unless specifically made private by the user.&nbsp; </span></li>
+			</ul>			
+			<p>Messages on
+					message boards are submitted by users and redisplayed to the general public.</p>
+			<p style="margin-left:.5in;text-indent:-.25in"><span style="font-size:10.0pt;
+			font-family:Symbol;">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</span></span><span style="font-size:10.0pt;">A user may email
+			pages to other users by using the email function and therefore Kaboodle
+			collects these email addresses for the purpose of sending pages and populating
+			a user’s address book.</span></p>			
+			<p style="margin-left:.5in;text-indent:-.25in"><span style="font-size:10.0pt;
+			font-family:Symbol;">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</span></span><span style="font-size:10.0pt;">IP, browser and
+			cookie data are utilized for the purpose of customizing the site for each user.</span></p>			
+			<p><b><span style="font-size:10.0pt;">Customer Service</span></b></p>			
+			<p><span style="font-size:10.0pt;">If you choose to bookmark a
+			page on Kaboodle or post messages in our message areas, we will collect that
+			information you provide to us. Kaboodle employees may examine this data on an
+			individual user basis as necessary to provide customer support and troubleshoot
+			problems as permitted by law. </span></p>			
+			<p><b><span style="font-size:10.0pt;">Emails Sent To Kaboodle</span></b></p>			
+			<p><span style="font-size:10.0pt;">If you send us personal
+			correspondence, such as emails or letters, or if other users or third parties
+			send us correspondence about your activities or postings on the Site, we may
+			collect such information into a file specific to you. </span></p>			
+			<p><b><span style="font-size:10.0pt;">Use of Personal
+			Information</span></b></p>			
+			<p><span style="font-size:10.0pt;">As Kaboodle is a free site,
+			we may use your bookmarks to improve our marketing and promotional efforts by
+			providing targeted advertising based on the content of the pages.&nbsp; </span></p>			
+			<p><span style="font-size:10.0pt;">On an aggregate,
+			non-personally identifiable level we may also use this data to analyze site
+			usage and customize the Site's content, layout, and services. These uses
+			improve the Site and better tailor it to meet your needs, so as to provide you
+			with a smooth, efficient, safe and customized experience while using the
+			Site.&nbsp; </span></p>			
+			<p><span style="font-size:10.0pt;">As a matter of policy, we <span class="highligh">do not</span> sell or rent any of your personal information to
+			third parties for their marketing purposes without your explicit consent.
+			However, the following describes some of the ways that your personal information
+			may be disclosed in the normal scope of business to provide our services:</span></p>			
+			<p style="text-indent:.5in"><span class="sub-header"><span style="font-size:10.0pt;">
+			Advertisers.</span></span><span style="font-size:10.0pt;">
+			We aggregate (gather up data across all user accounts)
+			personal information and disclose such information in a non-personally
+			identifiable manner to advertisers and other third parties for their marketing
+			and promotional purposes. However, in these situations, we do not disclose to
+			these entities any information that could be used to identify you personally. </span></p>			
+			<p style="text-indent:.5in"><span class="sub-header"><span style="font-size:10.0pt;
+			">Kaboodle Community.</span></span><span style="font-size:
+			10.0pt;"> Your User ID, bookmarks and any content you generate
+			via message boards are displayed throughout the Site.&nbsp;
+			Therefore this data is available to the public. All of your activities on the
+			Site will be identifiable to your User ID. Other people can see your bookmarks,
+			comments, and any other pages you have created on the Kaboodle service.</span></p>			
+			<p style="text-indent:.5in"><span class="sub-header"><span style="font-size:10.0pt;
+			">Legal Requests.</span></span><span style="font-size:10.0pt;">
+			Kaboodle cooperates with law enforcement inquiries, as well
+			as other third parties to enforce laws, such as: intellectual property rights,
+			fraud and other rights, to help protect you and the Kaboodle community from
+			those doing harm. Therefore, in response to a verified request by law
+			enforcement or other government officials relating to a criminal investigation
+			or alleged illegal activity, we can (and you authorize us to) disclose your
+			user ID, email, bookmarks, and site usage history without a subpoena.</span></p>			
+			<p><span style="font-size:10.0pt;">If you are participating in
+			the Kaboodle service, we may send emails to you from time to time indicating
+			updates to the Kaboodle service and soliciting your feedback.&nbsp; If you do
+			not wish to receive emails from Kaboodle, you may indicate so within your
+			email preferences, when preferences become available on the Kaboodle system. </span></p>			
+			<p><b><span style="font-size:10.0pt;">Use of Email and Address
+			Book</span></b></p>
+			<p><span style="font-size:10.0pt;">You may not use the email
+			feature that we offer to send spam or otherwise send content that would violate
+			our Terms of Service. We may permanently store email addresses sent from these
+			tools for the purpose of simplifying future emails you wish to send out.&nbsp;
+			We do not read the content of these emails. </span></p>			
+			<p><span style="font-size:10.0pt;">If you send and email using
+			the service to an email address that is not registered in our community, we do
+			not use that email address for any purpose other than to send your email. We do
+			not rent or sell these email addresses.&nbsp; We do not market to these emails
+			in any way as a direct result of your submission of their email.</span></p>			
+			<p><span style="font-size:10.0pt">Other users may send emails to you via the
+			Kaboodle service.&nbsp; Kaboodle does not review these messages before they
+			are sent to you.&nbsp; In the future, Kaboodle will provide you with a means
+			of blocking emails from specific users you designate.</span></p>			
+			<p><b><span style="font-size:10.0pt">Notice</span></b></p>			
+			<p><span style="font-size:10.0pt">We may amend this Privacy Policy at any time
+			by posting the amend terms on the Site. All amended terms shall automatically
+			be effective immediately and we are not required to notify you of the changes.</span></p>			
+			</div>			
+			
 
 
 
@@ -483,25 +468,24 @@ be effective immediately and we are not required to notify you of the changes.</
 
 
 
+  <div class="ftrsp" style="clear: both;"></div>
+  <div class="pgftr">
+    <a href="/zd/aboutus.html">About Us</a> 
+    | <a href="http://blog.kaboodle.com/">Blog</a>
+    | <a href="/zd/tos.html">Terms of Service</a> 
+    | <a href="/zd/privacy.html">Privacy Policy</a> 
+    
+    	
+    	| <a href="/za/feedback?p_ret=%2fzd%2fprivacy.html">Send Feedback</a> 
+    
+    <br><span class="fineprint">Copyright © 2006, Kaboodle, Inc. All Rights Reserved.</span>
+    <a href="/sitemap.html" class="sitemap" style="display: none;">Site Map</a> 
+    
+  </div>
 
-
-<div class="ftrsp"></div>
-<div class="pgftr">
-  <a href="/zd/aboutus.html">About Us</a> 
-  | <a href="http://blog.kaboodle.com/">Blog</a>
-  | <a href="/zd/tos.html">Terms of Service</a> 
-  | <a href="/zd/privacy.html">Privacy Policy</a> 
-  
-  	
-  	| <a href="/za/feedback?p_ret=%2fzd%2fprivacy.html">Send Feedback</a> 
-  
-  <br><span class="fineprint">Copyright © 2006, Kaboodle, Inc. All Rights Reserved.</span>
-  <a href="/sitemap.html" class="sitemap" style="display: none;">Site Map</a> 
-  
-</div>
-  
-
-
+ 
+		</div>
+	</div> 
 
 
 </body></html>
