@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lr.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021212id_/http%3A//www.lr.org/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lr.org privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031030942id_/http%3A//www.lr.org/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Lloyd's Register - Privacy Policy - Privacy Policy
 
