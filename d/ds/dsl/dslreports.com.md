@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dslreports.com privacy policy that was archived on 2006-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060528053903id_/http%3A//www.dslreports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dslreports.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031050419id_/http%3A//www.dslreports.com/privacy) for the most accurate reproduction.*
 
-# broadband » our privacy policy
+# broadband help » our privacy policy
 
 dslreports.com/broadbandreports.com [referred to herein as BBR] is aware of the privacy concerns of its visitors. we wish to detail our policy for collecting and using personal information, below.
 
