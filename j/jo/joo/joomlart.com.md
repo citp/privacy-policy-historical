@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlart.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427023457id_/http%3A//www.joomlart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlart.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031065704id_/http%3A//www.joomlart.com/privacy.html) for the most accurate reproduction.*
 
 # Joomla Templates Club - Professional - High quality Joomla template - Privacy Policy
 
