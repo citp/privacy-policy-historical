@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krishna.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615170626id_/http%3A//www.krishna.com/main.php%3Fid%3D389) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krishna.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031181030id_/http%3A//www.krishna.com/main.php%3Fid%3D389) for the most accurate reproduction.*
 
 # Krishna.com :: Privacy Policy
 
