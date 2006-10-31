@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kjrh.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025953id_/http%3A//2worksforyou.com/help2/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kjrh.com privacy policy that was archived on 2006-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061031114031id_/http%3A//2worksforyou.com/help2/privacy.shtml) for the most accurate reproduction.*
 
 # 2 WORKS FOR YOU--Homepage of KJRH-TV, CHANNEL 2--Tulsa, OK
 
