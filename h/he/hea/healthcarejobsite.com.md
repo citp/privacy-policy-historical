@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcarejobsite.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614022355id_/http%3A//www.healthcarejobsite.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcarejobsite.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101154014id_/http%3A//healthcarejobsite.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Healthcare Jobsite. Healthcare Careers. Work in the Heathcare Industry. Healthcare Professionals. Jobs in Healthcare. Careers in Healthcare. HealthcareJobsite.com
 
