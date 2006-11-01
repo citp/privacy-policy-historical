@@ -1,10 +1,8 @@
-<!--The following is the downloaded HTML source of the costco.ca privacy policy that was archived on 2006-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060614084540id_/http%3A//www.costco.ca/en-CA/Service/FeaturePageLeftNav.aspx%3FProductNo%3D10166084) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the costco.ca privacy policy that was archived on 2006-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061101224424id_/http%3A//www.costco.ca/en-CA/Service/FeaturePageLeftNav.aspx%3FProductNo%3D10166084) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-		<title>
-			Costco.ca
-		</title>
+		<title>Costco PrivacyStatement</title>
 		<meta content="Microsoft Visual Studio .NET 7.1" name="GENERATOR">
 		<meta content="C#" name="CODE_LANGUAGE">
 		<meta content="JavaScript" name="vs_defaultClientScript">
@@ -125,29 +123,58 @@ function OnSearchTextPress(e)
 		{
 			return SubmitSearchForm(e);
 		}
-    }
-    
+    }  
+
 }
+
 function SubmitSearchForm(e)
 {	
-	var SearchInput = escape(document.form1.TopNav1_Search1_SearchText.value);
-	document.form1.TopNav1_Search1_SearchText.value = ' search';
-	top.location.href = 'http://www.costco.ca/en-CA/Common/Search.aspx?whse=&topnav=&search=' + SearchInput + '&cm_re=1-_-Top_Left_Nav-_-Top_search';
+	var item = document.form1.TopNav1_Search1_SearchText;
+	Trim(item);
+	var searchInput = encodeURIComponent(item.value);
+	GtL('http://www.costco.ca/en-CA/Common/Search.aspx?whse=&topnav=&search=' + searchInput+'&N=0&Ntt='+searchInput +'&cm_re=1-_-Top_Left_Nav-_-Top_search');
 	return false;
+}
+
+// Fuction Trim strips leading and trailing spaces from a text field.
+function Trim(item)
+{
+  var tmp = "";
+  var item_length = item.value.length;
+  var item_length_minus_1 = item.value.length - 1;
+  for (index = 0; index < item_length; index++)
+  {
+    if (item.value.charAt(index) != ' ')
+    {
+      tmp += item.value.charAt(index);
+    }
+    else
+    {
+      if (tmp.length > 0)
+      {
+        if (item.value.charAt(index+1) != ' ' && index != item_length_minus_1)
+        {
+          tmp += item.value.charAt(index);
+        }
+      }
+    }
+  }
+  item.value = tmp;
 }
 </script>
 <table id="SearchTable" class="tblNormal" bgcolor="#c0d7e9" cellpadding="0" cellspacing="0" style="BORDER-RIGHT: #70a7d0 1px solid; BORDER-TOP: #70a7d0 1px solid; BORDER-LEFT: #70a7d0 1px solid; BORDER-BOTTOM: #70a7d0 1px solid">
-	<tbody><tr height="1">
+    <tbody><tr height="1">
 		<td colspan="4" height="1" width="124"></td>
 	</tr>
 	<tr valign="middle" height="18">
 		<td width="2" height="18"></td>
-		<td width="104" valign="middle" height="18"><input type="hidden" name="FocusOnSearch" value="false"><input name="TopNav1:Search1:SearchText" id="TopNav1_Search1_SearchText" type="text" maxlength="2000" style="FONT-WEIGHT:normal;FONT-SIZE:11px;WIDTH:104px;FONT-FAMILY:Arial,Verdana;HEIGHT:18px" class="toolBar" value=" search" onkeypress="return OnSearchTextPress(event);" onfocus="javascript:if (this.value == ' search') this.value = '';document.forms[0].FocusOnSearch.value='true'" onblur="javascript:document.forms[0].FocusOnSearch.value='false'"></td>
-		<td width="20" height="20" valign="middle"><input type="image" name="TopNav1:Search1:SearchButton" id="TopNav1_Search1_SearchButton" onclick="javascript:return(SubmitSearchForm(event));" src="../Images/Common/UserControls/Button_GoBlue.gif" alt="Search Button" border="0"></td>
+		<td width="104" valign="middle" height="18"><input type="hidden" name="FocusOnSearch" value="false">
+		<input name="TopNav1:Search1:SearchText" id="TopNav1_Search1_SearchText" type="text" class="toolBar" onkeypress="return OnSearchTextPress(event);" onblur="javascript:document.forms[0].FocusOnSearch.value='false'" style="FONT-WEIGHT: normal; FONT-SIZE: 11px; WIDTH: 104px; FONT-FAMILY:	Arial,Verdana; HEIGHT: 18px" onfocus="javascript:if (this.value == ' search')this.value = '';document.forms[0].FocusOnSearch.value='true'" maxlength="200" value=" search"></td>
+		<td valign="middle" width="20" height="20"><input type="image" name="TopNav1:Search1:SearchButton" id="TopNav1_Search1_SearchButton" onclick="javascript:return(SubmitSearchForm(event));" src="../Images/Common/UserControls/Button_GoBlue.gif" alt="Search Button" border="0"></td>
 		<td width="2" height="18"></td>
 	</tr>
 	<tr height="2">
-		<td colspan="4" height="2" width="124"></td>
+		<td width="124" colspan="4" height="2"></td>
 	</tr>
 </tbody></table>
 											</td>
@@ -181,7 +208,7 @@ function SubmitSearchForm(e)
 														<td align="center" width="83" height="15" valign="bottom"><a onclick="GtL('http://www.costco.ca/en-CA/photocenter/photocenter.aspx?cat=2781')" style="cursor:pointer;cursor:hand">
 															<img id="TopNav1_imgTabPhotoCenter" onclick="var obj=document.getElementById('TopNav1_imgTabPhotoCenter');obj.src='/en-CA//Images/Common/UserControls/Tab_PHOTOCENTEROn.gif';" onmouseover="var obj=document.getElementById('TopNav1_imgTabPhotoCenter');obj.src='/en-CA//Images/Common/UserControls/Tab_PHOTOCENTEROn.gif';" onmouseout="var obj=document.getElementById('TopNav1_imgTabPhotoCenter');obj.src='/en-CA//Images/Common/UserControls/Tab_PHOTOCENTEROff.gif';" src="/en-CA//Images/Common/UserControls/Tab_PHOTOCENTEROff.gif" alt="" border="0" height="15" width="83"></a></td>
 														<td width="10"></td>
-														<td align="right" width="74" height="15" valign="bottom"><a onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=503')" style="cursor:pointer;cursor:hand">
+														<td align="right" width="74" height="15" valign="bottom"><a onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=503&amp;eCat=BCCA|502|503')" style="cursor:pointer;cursor:hand">
 															<img id="TopNav1_imgTabMembership" onclick="var obj=document.getElementById('TopNav1_imgTabMembership');obj.src='/en-CA//Images/Common/UserControls/Tab_MEMBERSHIPOn.gif';" onmouseover="var obj=document.getElementById('TopNav1_imgTabMembership');obj.src='/en-CA//Images/Common/UserControls/Tab_MEMBERSHIPOn.gif';" onmouseout="var obj=document.getElementById('TopNav1_imgTabMembership');obj.src='/en-CA//Images/Common/UserControls/Tab_MEMBERSHIPOff.gif';" src="/en-CA//Images/Common/UserControls/Tab_MEMBERSHIPOff.gif" alt="" border="0" height="15" width="74"></a></td>
 													<td width="5"></td>
 													</tr>
@@ -220,13 +247,13 @@ function SubmitSearchForm(e)
 	<tbody><tr>
 		<td class="pmcf" valign="Top"><table class="frt" cellspacing="3" cellpadding="0" align="Center" id="M1" border="0" width="770">
 			<tbody><tr>
-				<td class="frcc" align="Center" onmouseover="MovM(this, 'M1', false);" id="M1-m000" onclick="GtL('http://www.costco.ca/en-CA/Browse/TreasureHunt.aspx?cat=1482&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">What's New</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M1', false);" id="M1-m001" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=103&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Appliances</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M1', false);" id="M1-m002" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20373&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Baby</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M1', false);" id="M1-m003" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=84&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Computers</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M1', false);" id="M1-m004" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=79&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Electronics</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M1', false);" id="M1-m005" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20418&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Fine Foods</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M1', true);" id="M1-m006" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=93&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Furniture</td><td class="frlc" align="Center" onmouseover="MovM(this, 'M1', true);" id="M1-m007" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20076&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Hardware</td>
+				<td class="frcc" align="Center" onmouseover="MovM(this, 'M1', false);" id="M1-m000" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1482&amp;eCat=BCCA|1482&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">What's New</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M1', false);" id="M1-m001" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=103&amp;eCat=BCCA|103&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Appliances</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M1', false);" id="M1-m002" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=20483&amp;eCat=BCCA|20483&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Auto</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M1', false);" id="M1-m003" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=20373&amp;eCat=BCCA|20373&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Baby</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M1', false);" id="M1-m004" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=84&amp;eCat=BCCA|84&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Computers</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M1', false);" id="M1-m005" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=79&amp;eCat=BCCA|79&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Electronics</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M1', false);" id="M1-m006" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=20418&amp;eCat=BCCA|20418&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Fine Foods</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M1', true);" id="M1-m007" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=93&amp;eCat=BCCA|93&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Furniture</td><td class="frlc" align="Center" onmouseover="MovM(this, 'M1', true);" id="M1-m008" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=20076&amp;eCat=BCCA|20076&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Hardware</td>
 			</tr>
 		</tbody></table></td>
 	</tr><tr>
 		<td class="pmcl" align="Center" valign="Top"><table class="lrt" cellspacing="3" cellpadding="0" align="Center" id="M2" border="0" width="770">
 			<tbody><tr>
-				<td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m008" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=589&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Health &amp; Beauty</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m009" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=89&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Home Décor</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m010" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20442&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Housewares</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m011" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=108&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Jewellery &amp; Fashion</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m012" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=631&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Music</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m013" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=354&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Office</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m014" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=114&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Outdoors</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m015" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20161&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Pets</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', true);" id="M1-m016" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=111&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Sports</td><td class="frlc" align="Center" onmouseover="MovM(this, 'M2', true);" id="M1-m017" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20428&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Toys</td>
+				<td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m009" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=589&amp;eCat=BCCA|589&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Health &amp; Beauty</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m010" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=89&amp;eCat=BCCA|89&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Home Décor</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m011" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=20442&amp;eCat=BCCA|20442&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Housewares</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m012" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=108&amp;eCat=BCCA|108&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Jewellery &amp; Fashion</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m013" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=631&amp;eCat=BCCA|631&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Music</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m014" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=354&amp;eCat=BCCA|354&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Office</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m015" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=114&amp;eCat=BCCA|114&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Outdoors</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', false);" id="M1-m016" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=20161&amp;eCat=BCCA|20161&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Pets</td><td class="frcc" align="Center" onmouseover="MovM(this, 'M2', true);" id="M1-m017" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=111&amp;eCat=BCCA|111&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Sports</td><td class="frlc" align="Center" onmouseover="MovM(this, 'M2', true);" id="M1-m018" onclick="GtL('http://www.costco.ca/en-CA/Common/CategoryMain.aspx?cat=20428&amp;eCat=BCCA|20428&amp;whse=BCCA&amp;topnav=');" onmouseout="MotM(this);">Toys</td>
 			</tr>
 		</tbody></table></td>
 	</tr><tr>
@@ -234,267 +261,333 @@ function SubmitSearchForm(e)
 
 		</table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m001-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m001-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=323&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m001-s', false);" onmouseout="MotM(this);">Appliances</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m001-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=323&amp;eCat=BCCA|103|323&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m001-s', false);" onmouseout="MotM(this);">Appliances</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m001-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=90&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m001-s', false);" onmouseout="MotM(this);">Kitchen Electrics</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m001-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=90&amp;eCat=BCCA|103|90&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m001-s', false);" onmouseout="MotM(this);">Kitchen Electrics</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m001-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=337&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m001-s', false);" onmouseout="MotM(this);">Room Air, Heaters and Dehumidifiers</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m001-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=337&amp;eCat=BCCA|103|337&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m001-s', false);" onmouseout="MotM(this);">Room Air, Heaters and Dehumidifiers</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m001-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4716&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m001-s', false);" onmouseout="MotM(this);">Vacuums and Garment Care</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m001-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4716&amp;eCat=BCCA|103|4716&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m001-s', false);" onmouseout="MotM(this);">Vacuums and Garment Care</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m001-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=325&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m001-s', false);" onmouseout="MotM(this);">Wine Cellars</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m001-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=325&amp;eCat=BCCA|103|325&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m001-s', false);" onmouseout="MotM(this);">Wine Cellars</td>
 			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="left" id="M1-m001-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20349&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m001-s', false);" onmouseout="MotM(this);">Commercial Appliances</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m001-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20349&amp;eCat=BCCA|103|20349&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m001-s', false);" onmouseout="MotM(this);">Commercial Appliances</td>
+			</tr><tr valign="Middle">
+				<td class="sclc" valign="Middle" align="left" id="M1-m001-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=104&amp;eCat=BCCA|103|104&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m001-s', false);" onmouseout="MotM(this);">Washers and Dryers</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m002-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m002-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20439&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m002-s', false);" onmouseout="MotM(this);">Bedding</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m002-s0" onclick="GtL('http://www.costco.ca/en-CA/Tires/Landing.aspx?cat=20484&amp;eCat=BCCA|20483|20484&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m002-s', false);" onmouseout="MotM(this);">Tires</td>
 			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="left" id="M1-m002-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20440&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m002-s', false);" onmouseout="MotM(this);">Accessories</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m002-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20735&amp;eCat=BCCA|20483|20735&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m002-s', false);" onmouseout="MotM(this);">Automotive Electronics</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m002-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20738&amp;eCat=BCCA|20483|20738&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m002-s', false);" onmouseout="MotM(this);">Automotive Accessories</td>
+			</tr><tr valign="Middle">
+				<td class="sclc" valign="Middle" align="left" id="M1-m002-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20744&amp;eCat=BCCA|20483|20744&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m002-s', false);" onmouseout="MotM(this);">Garage</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m003-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m003-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20353&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Technology Information</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m003-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20439&amp;eCat=BCCA|20373|20439&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Bedding</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m003-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3656&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Software</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m003-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20440&amp;eCat=BCCA|20373|20440&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Accessories</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m003-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4337&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Dell Computers</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m003-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20424&amp;eCat=BCCA|20373|20424&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Gift Baskets</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m003-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1674&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Toshiba Computers</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m003-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20497&amp;eCat=BCCA|20373|20497&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Car Seats, Strollers &amp; Carriers</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m003-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20112&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">HP &amp; Compaq Computers</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m003-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20502&amp;eCat=BCCA|20373|20502&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Toys &amp; Entertainment</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m003-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20132&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Acer Computers</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m003-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20506&amp;eCat=BCCA|20373|20506&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Feeding Time</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m003-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4326&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Gateway Computers</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m003-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20508&amp;eCat=BCCA|20373|20508&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Health &amp; Safety</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m003-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1680&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Monitors</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m003-s8" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2488&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Networking</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m003-s9" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3101&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">PDAs</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m003-s10" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4630&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Projectors</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m003-s11" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1333&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Peripherals</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m003-s12" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2148&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Printers &amp; Scanners</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m003-s13" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4521&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Ink &amp; Toner Cartridges</td>
-			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="left" id="M1-m003-s14" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20122&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Sony Authorized Internet Dealer</td>
+				<td class="sclc" valign="Middle" align="left" id="M1-m003-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20556&amp;eCat=BCCA|20373|20556&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m003-s', false);" onmouseout="MotM(this);">Furniture</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m004-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m004-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20026&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Technology Information</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20353&amp;eCat=BCCA|84|20353&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Technology Information</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m004-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=80&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Audio</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3656&amp;eCat=BCCA|84|3656&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Software</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m004-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1207&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Automotive Electronics</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4337&amp;eCat=BCCA|84|4337&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Dell Computers</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m004-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4708&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Digital Camcorders</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1674&amp;eCat=BCCA|84|1674&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Toshiba Computers</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m004-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=83&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Digital &amp; SLR Cameras</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20112&amp;eCat=BCCA|84|20112&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">HP &amp; Compaq Computers</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m004-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2109&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Digital Memory</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20132&amp;eCat=BCCA|84|20132&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Acer Computers</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m004-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=81&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">DVD Players &amp; VCR's</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4326&amp;eCat=BCCA|84|4326&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Gateway Computers</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m004-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2341&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Televisions</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1680&amp;eCat=BCCA|84|1680&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Monitors</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m004-s8" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3128&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Clocks &amp; Weather Stations</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s8" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2488&amp;eCat=BCCA|84|2488&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Networking</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m004-s9" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=82&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Telephones, Two-way Radio &amp; GPS Systems</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s9" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4630&amp;eCat=BCCA|84|4630&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Projectors</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m004-s10" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20100&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Surveillance &amp; Security Systems</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s10" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20516&amp;eCat=BCCA|84|20516&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Notebook Case</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m004-s11" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20361&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Novelty Items</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s11" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3101&amp;eCat=BCCA|84|3101&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">PDAs</td>
 			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="left" id="M1-m004-s12" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20124&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Sony Authorized Internet Dealer</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s12" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1333&amp;eCat=BCCA|84|1333&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Peripherals</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s13" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4521&amp;eCat=BCCA|84|4521&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Ink &amp; Toner Cartridges</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m004-s14" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2148&amp;eCat=BCCA|84|2148&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Printers &amp; Scanners</td>
+			</tr><tr valign="Middle">
+				<td class="sclc" valign="Middle" align="left" id="M1-m004-s15" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20122&amp;eCat=BCCA|84|20122&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m004-s', false);" onmouseout="MotM(this);">Sony Authorized Internet Dealer</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m005-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="left" id="M1-m005-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20419&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">Gift Baskets</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m005-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20026&amp;eCat=BCCA|79|20026&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">Technology Information</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m005-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=80&amp;eCat=BCCA|79|80&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">Audio</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m005-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1207&amp;eCat=BCCA|79|1207&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">Automotive Electronics</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m005-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4708&amp;eCat=BCCA|79|4708&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">Digital Camcorders</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m005-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=83&amp;eCat=BCCA|79|83&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">Digital &amp; SLR Cameras</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m005-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2109&amp;eCat=BCCA|79|2109&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">Digital Memory and Accessories</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m005-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=81&amp;eCat=BCCA|79|81&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">DVD Players &amp; VCR's</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m005-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2341&amp;eCat=BCCA|79|2341&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">Televisions</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m005-s8" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3128&amp;eCat=BCCA|79|3128&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">Clocks &amp; Weather Stations</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m005-s9" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=82&amp;eCat=BCCA|79|82&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">Telephones</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m005-s10" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=21133&amp;eCat=BCCA|79|21133&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">GPS Systems</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m005-s11" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20100&amp;eCat=BCCA|79|20100&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">Surveillance &amp; Security Systems</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m005-s12" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20361&amp;eCat=BCCA|79|20361&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">Novelty Items</td>
+			</tr><tr valign="Middle">
+				<td class="sclc" valign="Middle" align="left" id="M1-m005-s13" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20124&amp;eCat=BCCA|79|20124&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m005-s', false);" onmouseout="MotM(this);">Sony Authorized Internet Dealer</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m006-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m006-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2706&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Living Room</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m006-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20419&amp;eCat=BCCA|20418|20419&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Gift Baskets</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m006-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2129&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Bedroom</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m006-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1975&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Juvenile Furniture</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m006-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1924&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Mattresses</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m006-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2228&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Dining Room</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m006-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2717&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Home Accents</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m006-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3407&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Lighting</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m006-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4487&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Rugs</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m006-s8" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2720&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Home Office</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m006-s9" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4302&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Bathroom</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m006-s10" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1979&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Safes</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m006-s11" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20474&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Storage</td>
-			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="right" id="M1-m006-s12" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1981&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Wine Cellars</td>
+				<td class="sclc" valign="Middle" align="left" id="M1-m006-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20420&amp;eCat=BCCA|20418|20420&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m006-s', false);" onmouseout="MotM(this);">Chocolate Indulgences</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m007-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m007-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=862&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Air Tools &amp; Compressors</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m007-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2706&amp;eCat=BCCA|93|2706&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Living Room</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m007-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20116&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Alternative Power Systems</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m007-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2129&amp;eCat=BCCA|93|2129&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Bedroom</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m007-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=858&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Hardware</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m007-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1975&amp;eCat=BCCA|93|1975&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Juvenile Furniture</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m007-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1240&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Plumbing</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m007-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2228&amp;eCat=BCCA|93|2228&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Dining Room</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m007-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20238&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Flooring</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m007-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1924&amp;eCat=BCCA|93|1924&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Mattresses</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m007-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20330&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Bathroom</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m007-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=22177&amp;eCat=BCCA|93|22177&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Game Room</td>
 			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="right" id="M1-m007-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20464&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Storage &amp; Organization</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m007-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2717&amp;eCat=BCCA|93|2717&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Home Accents</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m007-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2720&amp;eCat=BCCA|93|2720&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Home Office</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m007-s8" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3407&amp;eCat=BCCA|93|3407&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Lighting</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m007-s9" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4487&amp;eCat=BCCA|93|4487&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Rugs</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m007-s10" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4302&amp;eCat=BCCA|93|4302&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Bathroom</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m007-s11" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1979&amp;eCat=BCCA|93|1979&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Safes</td>
+			</tr><tr valign="Middle">
+				<td class="sclc" valign="Middle" align="right" id="M1-m007-s12" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1981&amp;eCat=BCCA|93|1981&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m007-s', false);" onmouseout="MotM(this);">Wine Cellars</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m008-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m008-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=770&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m008-s', false);" onmouseout="MotM(this);">Vitamins, Herbal &amp; Dietary Supplements</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m008-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20116&amp;eCat=BCCA|20076|20116&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m008-s', false);" onmouseout="MotM(this);">Alternative Power Systems</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m008-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=686&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m008-s', false);" onmouseout="MotM(this);">Personal Care</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m008-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20238&amp;eCat=BCCA|20076|20238&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m008-s', false);" onmouseout="MotM(this);">Flooring</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m008-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=683&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m008-s', false);" onmouseout="MotM(this);">Home Health Care Products</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m008-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=22147&amp;eCat=BCCA|20076|22147&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m008-s', false);" onmouseout="MotM(this);">Home Improvement</td>
 			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="left" id="M1-m008-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20426&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m008-s', false);" onmouseout="MotM(this);">Gift Baskets</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m008-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1612&amp;eCat=BCCA|20076|1612&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m008-s', false);" onmouseout="MotM(this);">Lighting</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m008-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=22157&amp;eCat=BCCA|20076|22157&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m008-s', false);" onmouseout="MotM(this);">Garage and Shop Equipment</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m008-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2801&amp;eCat=BCCA|20076|2801&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m008-s', false);" onmouseout="MotM(this);">Outdoor Power Equipment</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m008-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=22163&amp;eCat=BCCA|20076|22163&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m008-s', false);" onmouseout="MotM(this);">Tools</td>
+			</tr><tr valign="Middle">
+				<td class="sclc" valign="Middle" align="right" id="M1-m008-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20275&amp;eCat=BCCA|20076|20275&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m008-s', false);" onmouseout="MotM(this);">Heating and Cooling</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m009-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m009-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=268&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m009-s', false);" onmouseout="MotM(this);">Domestics</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m009-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=770&amp;eCat=BCCA|589|770&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m009-s', false);" onmouseout="MotM(this);">Vitamins, Herbal &amp; Dietary Supplements</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m009-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20411&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m009-s', false);" onmouseout="MotM(this);">Home Décor</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m009-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=686&amp;eCat=BCCA|589|686&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m009-s', false);" onmouseout="MotM(this);">Personal Care</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m009-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4489&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m009-s', false);" onmouseout="MotM(this);">Rugs</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m009-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=683&amp;eCat=BCCA|589|683&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m009-s', false);" onmouseout="MotM(this);">Home Health Care Products</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m009-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1873&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m009-s', false);" onmouseout="MotM(this);">Collectibles</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m009-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20426&amp;eCat=BCCA|589|20426&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m009-s', false);" onmouseout="MotM(this);">Gift Baskets</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m009-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20454&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m009-s', false);" onmouseout="MotM(this);">Jewellery Boxes, Eyeglass Organizers &amp; Humidors</td>
-			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="left" id="M1-m009-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20489&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m009-s', false);" onmouseout="MotM(this);">Lighting</td>
+				<td class="sclc" valign="Middle" align="left" id="M1-m009-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20584&amp;eCat=BCCA|589|20584&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m009-s', false);" onmouseout="MotM(this);">First Aid &amp; Emergency Response</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m010-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m010-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=90&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m010-s', false);" onmouseout="MotM(this);">Kitchen Electrics</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m010-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=268&amp;eCat=BCCA|89|268&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m010-s', false);" onmouseout="MotM(this);">Domestics</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m010-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=107&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m010-s', false);" onmouseout="MotM(this);">Home Electrics</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m010-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20411&amp;eCat=BCCA|89|20411&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m010-s', false);" onmouseout="MotM(this);">Home Décor</td>
 			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="left" id="M1-m010-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=267&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m010-s', false);" onmouseout="MotM(this);">Housewares &amp; Tabletop</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m010-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1873&amp;eCat=BCCA|89|1873&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m010-s', false);" onmouseout="MotM(this);">Collectibles</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m010-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4489&amp;eCat=BCCA|89|4489&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m010-s', false);" onmouseout="MotM(this);">Rugs</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m010-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20454&amp;eCat=BCCA|89|20454&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m010-s', false);" onmouseout="MotM(this);">Jewellery Boxes, Eyeglass Organizers &amp; Humidors</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m010-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20489&amp;eCat=BCCA|89|20489&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m010-s', false);" onmouseout="MotM(this);">Lighting</td>
+			</tr><tr valign="Middle">
+				<td class="sclc" valign="Middle" align="left" id="M1-m010-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4507&amp;eCat=BCCA|89|4507&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m010-s', false);" onmouseout="MotM(this);">Holiday</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m011-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m011-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20333&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m011-s', false);" onmouseout="MotM(this);">Buyer's Pick</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m011-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=90&amp;eCat=BCCA|103|90&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m011-s', false);" onmouseout="MotM(this);">Kitchen Electrics</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m011-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4092&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m011-s', false);" onmouseout="MotM(this);">Diamond Education &amp; F.A.Q.'s</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m011-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=107&amp;eCat=BCCA|20442|107&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m011-s', false);" onmouseout="MotM(this);">Home Electrics</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m011-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=109&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m011-s', false);" onmouseout="MotM(this);">Diamond Solitaire Rings</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m011-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1278&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m011-s', false);" onmouseout="MotM(this);">Rings</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m011-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3108&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m011-s', false);" onmouseout="MotM(this);">Earrings</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m011-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3118&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m011-s', false);" onmouseout="MotM(this);">Necklaces</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m011-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3114&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m011-s', false);" onmouseout="MotM(this);">Bracelets</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m011-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=110&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m011-s', false);" onmouseout="MotM(this);">Watches</td>
-			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="left" id="M1-m011-s8" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2502&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m011-s', false);" onmouseout="MotM(this);">Handbags and Pens</td>
+				<td class="sclc" valign="Middle" align="left" id="M1-m011-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=267&amp;eCat=BCCA|20442|267&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m011-s', false);" onmouseout="MotM(this);">Housewares &amp; Tabletop</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m012-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m012-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20046&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">CDs</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m012-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20333&amp;eCat=BCCA|108|20333&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Buyer's Pick</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m012-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2845&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">DVDs</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m012-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4092&amp;eCat=BCCA|108|4092&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Diamond Education &amp; F.A.Q.'s</td>
 			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="left" id="M1-m012-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20444&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Musical Instruments</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m012-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=109&amp;eCat=BCCA|108|109&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Diamond Solitaire Rings</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m012-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1278&amp;eCat=BCCA|108|1278&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Rings</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m012-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3108&amp;eCat=BCCA|108|3108&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Earrings</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m012-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3118&amp;eCat=BCCA|108|3118&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Necklaces</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m012-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3114&amp;eCat=BCCA|108|3114&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Bracelets</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m012-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=22124&amp;eCat=BCCA|108|22124&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Sets</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m012-s8" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=22125&amp;eCat=BCCA|108|22125&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Fashion Jewellery</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m012-s9" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=22126&amp;eCat=BCCA|108|22126&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Babies &amp; Kids</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m012-s10" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=110&amp;eCat=BCCA|108|110&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Watches</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m012-s11" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20458&amp;eCat=BCCA|108|20458&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Jewellery Boxes, Eyeglass Organizers &amp; Humidors</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m012-s12" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4450&amp;eCat=BCCA|108|4450&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Clothing</td>
+			</tr><tr valign="Middle">
+				<td class="sclc" valign="Middle" align="left" id="M1-m012-s13" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2502&amp;eCat=BCCA|108|2502&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m012-s', false);" onmouseout="MotM(this);">Handbags and Pens</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m013-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m013-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3675&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m013-s', false);" onmouseout="MotM(this);">Gift Certificates</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m013-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20046&amp;eCat=BCCA|631|20046&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m013-s', false);" onmouseout="MotM(this);">CDs</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m013-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=627&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m013-s', false);" onmouseout="MotM(this);">Corporate Gifts</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m013-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2845&amp;eCat=BCCA|631|2845&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m013-s', false);" onmouseout="MotM(this);">DVDs</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m013-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=364&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m013-s', false);" onmouseout="MotM(this);">Ink &amp; Toner Cartridges</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m013-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3252&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m013-s', false);" onmouseout="MotM(this);">Printers &amp; Scanners</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m013-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4463&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m013-s', false);" onmouseout="MotM(this);">Office Furniture</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m013-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=359&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m013-s', false);" onmouseout="MotM(this);">Office Machines</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m013-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1123&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m013-s', false);" onmouseout="MotM(this);">Office Supplies</td>
-			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="left" id="M1-m013-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20098&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m013-s', false);" onmouseout="MotM(this);">Surveillance &amp; Security Systems</td>
+				<td class="sclc" valign="Middle" align="left" id="M1-m013-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20444&amp;eCat=BCCA|631|20444&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m013-s', false);" onmouseout="MotM(this);">Musical Instruments</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m014-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m014-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3327&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">Storage &amp; Organization</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m014-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3675&amp;eCat=BCCA|354|3675&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">Gift Certificates</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m014-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=296&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">Patio Furniture</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m014-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=627&amp;eCat=BCCA|354|627&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">Corporate Gifts</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m014-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=115&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">BBQ</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m014-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=364&amp;eCat=BCCA|354|364&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">Ink &amp; Toner Cartridges</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m014-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=116&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">Garden</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m014-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3252&amp;eCat=BCCA|354|3252&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">Printers &amp; Scanners</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="left" id="M1-m014-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=204&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">Spas, Sauna and Accessories</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m014-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4288&amp;eCat=BCCA|354|4288&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">Multifunction</td>
 			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="left" id="M1-m014-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2271&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">Water Accessories</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m014-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4463&amp;eCat=BCCA|354|4463&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">Office Furniture</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m014-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=359&amp;eCat=BCCA|354|359&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">Office Machines</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m014-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=1123&amp;eCat=BCCA|354|1123&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">Office Supplies</td>
+			</tr><tr valign="Middle">
+				<td class="sclc" valign="Middle" align="left" id="M1-m014-s8" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20098&amp;eCat=BCCA|354|20098&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m014-s', false);" onmouseout="MotM(this);">Surveillance &amp; Security Systems</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m015-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="left" id="M1-m015-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20247&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m015-s', false);" onmouseout="MotM(this);">Pet Products</td>
+				<td class="scc" valign="Middle" align="left" id="M1-m015-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=3327&amp;eCat=BCCA|114|3327&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m015-s', false);" onmouseout="MotM(this);">Storage &amp; Organization</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m015-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=296&amp;eCat=BCCA|114|296&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m015-s', false);" onmouseout="MotM(this);">Patio Furniture</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m015-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=115&amp;eCat=BCCA|114|115&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m015-s', false);" onmouseout="MotM(this);">BBQ</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m015-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=116&amp;eCat=BCCA|114|116&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m015-s', false);" onmouseout="MotM(this);">Garden</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m015-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=204&amp;eCat=BCCA|114|204&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m015-s', false);" onmouseout="MotM(this);">Spas, Sauna and Accessories</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m015-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2271&amp;eCat=BCCA|111|2271&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m015-s', false);" onmouseout="MotM(this);">Water Sports</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m015-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=22179&amp;eCat=BCCA|114|22179&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m015-s', false);" onmouseout="MotM(this);">Camping</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="left" id="M1-m015-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=22181&amp;eCat=BCCA|114|22181&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m015-s', false);" onmouseout="MotM(this);">Telescopes and Binoculars</td>
+			</tr><tr valign="Middle">
+				<td class="sclc" valign="Middle" align="left" id="M1-m015-s8" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=22182&amp;eCat=BCCA|114|22182&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m015-s', false);" onmouseout="MotM(this);">Winter Sports</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m016-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m016-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2268&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m016-s', false);" onmouseout="MotM(this);">Exercise</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m016-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=113&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m016-s', false);" onmouseout="MotM(this);">Indoor and Outdoor Sporting Goods</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m016-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4060&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m016-s', false);" onmouseout="MotM(this);">Swing Set/Play Systems</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m016-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4639&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m016-s', false);" onmouseout="MotM(this);">Spas, Sauna &amp; Accessories</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m016-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2271&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m016-s', false);" onmouseout="MotM(this);">Water Accessories</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m016-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2482&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m016-s', false);" onmouseout="MotM(this);">Luggage</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m016-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20294&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m016-s', false);" onmouseout="MotM(this);">Game Tables &amp; Poker</td>
-			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m016-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20305&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m016-s', false);" onmouseout="MotM(this);">Recreational Sports</td>
-			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="right" id="M1-m016-s8" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20314&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m016-s', false);" onmouseout="MotM(this);">Memorabilia &amp; Collectibles</td>
+				<td class="sclc" valign="Middle" align="left" id="M1-m016-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20247&amp;eCat=BCCA|20161|20247&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m016-s', false);" onmouseout="MotM(this);">Pet Products</td>
 			</tr>
 		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m017-s" border="0">
 			<tbody><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m017-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20374&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Pretend Play</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m017-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2268&amp;eCat=BCCA|111|2268&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Exercise &amp; Fitness</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m017-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20378&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Ride-ons</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m017-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4639&amp;eCat=BCCA|111|4639&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Spas, Sauna &amp; Accessories</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m017-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20382&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Sand &amp; Water</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m017-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20294&amp;eCat=BCCA|111|20294&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Game Room</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m017-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20385&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Activity Centres</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m017-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=4060&amp;eCat=BCCA|111|4060&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Swing Sets, Play Systems, Trampolines &amp; Bouncers</td>
 			</tr><tr valign="Middle">
-				<td class="scc" valign="Middle" align="right" id="M1-m017-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20402&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Building Blocks &amp; Sets</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m017-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20548&amp;eCat=BCCA|111|20548&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Golf</td>
 			</tr><tr valign="Middle">
-				<td class="sclc" valign="Middle" align="right" id="M1-m017-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20429&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Video Games</td>
+				<td class="scc" valign="Middle" align="right" id="M1-m017-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20535&amp;eCat=BCCA|111|20535&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Camping</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m017-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20552&amp;eCat=BCCA|111|20552&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Racquet Sports</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m017-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20543&amp;eCat=BCCA|111|20543&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Telescopes &amp; Binoculars</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m017-s8" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20314&amp;eCat=BCCA|111|20314&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Memorabilia &amp; Collectibles</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m017-s9" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2271&amp;eCat=BCCA|111|2271&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Water Sports</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m017-s10" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=22109&amp;eCat=BCCA|111|22109&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Winter Sports</td>
+			</tr><tr valign="Middle">
+				<td class="sclc" valign="Middle" align="right" id="M1-m017-s11" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=2482&amp;eCat=BCCA|111|2482&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m017-s', false);" onmouseout="MotM(this);">Luggage &amp; Bags</td>
+			</tr>
+		</tbody></table><table class="sct" cellspacing="0" cellpadding="3" id="M1-m018-s" border="0">
+			<tbody><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m018-s0" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20374&amp;eCat=BCCA|20428|20374&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m018-s', false);" onmouseout="MotM(this);">Pretend Play</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m018-s1" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20378&amp;eCat=BCCA|20428|20378&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m018-s', false);" onmouseout="MotM(this);">Ride-ons</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m018-s2" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20382&amp;eCat=BCCA|20428|20382&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m018-s', false);" onmouseout="MotM(this);">Sand &amp; Water</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m018-s3" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20385&amp;eCat=BCCA|20428|20385&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m018-s', false);" onmouseout="MotM(this);">Activity Centres</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m018-s4" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=22106&amp;eCat=BCCA|20428|22106&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m018-s', false);" onmouseout="MotM(this);">Swing Sets</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m018-s5" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20402&amp;eCat=BCCA|20428|20402&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m018-s', false);" onmouseout="MotM(this);">Building Blocks &amp; Sets</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m018-s6" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20561&amp;eCat=BCCA|20428|20561&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m018-s', false);" onmouseout="MotM(this);">Video Game Consoles &amp; Bundles</td>
+			</tr><tr valign="Middle">
+				<td class="scc" valign="Middle" align="right" id="M1-m018-s7" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20562&amp;eCat=BCCA|20428|20562&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m018-s', false);" onmouseout="MotM(this);">Video Game Accessories</td>
+			</tr><tr valign="Middle">
+				<td class="sclc" valign="Middle" align="right" id="M1-m018-s8" onclick="GtL('http://www.costco.ca/en-CA/Common/Category.aspx?cat=20429&amp;eCat=BCCA|20428|20429&amp;whse=BCCA&amp;topnav=');" onmouseover="MovM(this, 'M1-m018-s', false);" onmouseout="MotM(this);">Video Games</td>
 			</tr>
 		</tbody></table></td>
 	</tr>
 </tbody></table><script language="JavaScript"><!--
 
- var sMs = new Array(17)
+ var sMs = new Array(18)
 
 sMs[0] = "M1-m001-s";
 sMs[1] = "M1-m002-s";
@@ -513,9 +606,10 @@ sMs[13] = "M1-m014-s";
 sMs[14] = "M1-m015-s";
 sMs[15] = "M1-m016-s";
 sMs[16] = "M1-m017-s";
+sMs[17] = "M1-m018-s";
 
 
- var MC = new Array(17)
+ var MC = new Array(18)
 
 MC[0] = "M1-m001";
 MC[1] = "M1-m002";
@@ -534,6 +628,7 @@ MC[13] = "M1-m014";
 MC[14] = "M1-m015";
 MC[15] = "M1-m016";
 MC[16] = "M1-m017";
+MC[17] = "M1-m018";
 // --></script>	
 		</td>
 	</tr>
@@ -623,7 +718,7 @@ MC[16] = "M1-m017";
 
 				</tr>
 			</tbody></table>
- <div>
+			<div>
 <br>
 <table width="770" cellpadding="0" cellspacing="0" border="0"> 
 
@@ -634,7 +729,7 @@ MC[16] = "M1-m017";
 		<a href="https://www.costco.ca/en-CA/OrderStatus/OrderStatus.aspx" id="FootNav_OS" class="navlinkFooterBar">ORDER STATUS</a>
 		<span class="t10">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
 		<a id="FootNav_REB" href="http://www.costco.ca/en-CA/Service/FeaturePageLeftNav.aspx?ProductNo=10045069" class="navlinkFooterBar">REBATES</a><span class="t10">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-		<a id="FootNav_CR" href="http://www.costco.ca/en-CA/Common/Category.aspx?cat=503" class="navlinkFooterBar">CREDIT CARDS</a>
+		<a id="FootNav_CR" href="http://www.costco.ca/en-CA/Common/Category.aspx?cat=503&amp;eCat=BCCA|502|503" class="navlinkFooterBar">CREDIT CARDS</a>
 
 	</td></tr>
 	
@@ -667,10 +762,9 @@ MC[16] = "M1-m017";
 								<td align="center" id="FooterNav1_Tablecell8" class="t10 gray" name="Tablecell8">©2006 Costco Wholesale Canada Ltd. All Rights Reserved. For Canadian customers only.</td>
 							</tr>
 							<tr id="FooterNav1_FooterNav1_CopyrightLinks" valign="Top">
-			<td id="FooterNav1_FooterNav1_Tablecell9" align="center" class="t10 gray">415 West Hunt Club Road, Ottawa, Ontario, K2E 1C5, 800 463-3783, <a href="https://www.costco.ca/en-CA/CustomerService/EmailUs.aspx" target="_top" class="t10 u mediumblue nTrans">service@costco.ca</a><br>
-										<a href="http://www.costco.ca/en-CA/Service/FeaturePageLeftNav.aspx?ProductNo=10166084" target="_top" class="t10 u mediumblue nTrans">Customer Privacy Statement</a>  
-										<a href="http://www.costco.ca/en-CA/Service/FeaturePageLeftNav.aspx?ProductNo=10166079" target="_top" class="t10 u mediumblue nTrans">Terms and Conditions of Use</a>
-										<img id="FooterNav1_Image11" src="Images/Common/UserControls/un1que.gif" alt="" border="0" style="border-style:None;height:0px;width:0px;"></td>
+			<td id="FooterNav1_FooterNav1_Tablecell9" align="center" class="t10 gray">415 West Hunt Club Road, Ottawa, Ontario, K2E 1C5, <a href="http://www.costco.ca/en-CA/Service/FeaturePageLeftNav.aspx?ProductNo=10166084" target="_top" class="t10 u mediumblue nTrans">Privacy Statement</a> <a href="http://www.costco.ca/en-CA/Service/FeaturePageLeftNav.aspx?ProductNo=10166079" target="_top" class="t10 u mediumblue nTrans">Terms of Use</a><br>
+								E-mail us: <a href="https://www.costco.ca/en-CA/CustomerService/EmailUs.aspx" target="_top" class="t10 u mediumblue nTrans">service@costco.ca</a> Warehouse Help: 800 463-3783  Online Help: 888 426-7826<br>
+								</td>
 		</tr>
 		
 						</tbody></table>
