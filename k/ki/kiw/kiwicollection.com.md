@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the kiwicollection.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506231351id_/http%3A//www.kiwicollection.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwicollection.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101193344id_/http%3A//www.kiwicollection.com/privacy.php) for the most accurate reproduction.*
 
-# Kiwi Collection - Publications
+# Kiwi Collection - Privacy Policy
 
 | | |  |  |   
 ---  
-|  Privacy Policy |  |   The Kiwi Collection  
+|  |  |   The Kiwi Collection  
 ---|---|---  
-    Privacy Policy | |  As you would expect from all the premier properties showcased in our publications and on our website, Kiwi Collection Inc. respects your privacy and will take all reasonable measures to protect it. We will not sell, share, rent, or otherwise provide any personal information you have given us, to any third party without your permission. 
+    Privacy Policy  
+  
+* * *  
+  
+| |  As you would expect from all the premier properties showcased in our publications and on our website, Kiwi Collection Inc. respects your privacy and will take all reasonable measures to protect it. We will not sell, share, rent, or otherwise provide any personal information you have given us, to any third party without your permission. 
 
 Kiwi Collection Inc. will not collect any personal information about individuals except when specifically and knowingly provided by such individuals. Our servers collect data each time a user navigates our site. This information is anonymous in nature and includes such information as the number, frequency and duration of each visit, as well as details about click-throughs to our Property Member sites. We will share this non-personal, aggregate, or summary information with partners or other third parties, but Kiwi Collection Inc. will not sell or share any information at the individual level. 
 
@@ -22,11 +26,17 @@ If you have any questions or concerns feel free to email us.
 
 |   
 ---|---|---|---|---  
-    Disclaimer | |  Kiwi Collection Inc. endeavors to ensure that the Contents of this website are accurate and current. Nonetheless, despite our efforts this website may contain errors. Accordingly, Kiwi Collection Inc. disclaims any warranty of any kind, whether express of implied, regarding all information contained in and displayed on this website, including any use thereof, as well as any and all links to and from the website. 
+    Disclaimer  
+  
+* * *  
+  
+| |  Kiwi Collection Inc. endeavors to ensure that the Contents of this website are accurate and current. Nonetheless, despite our efforts this website may contain errors. Accordingly, Kiwi Collection Inc. disclaims any warranty of any kind, whether express of implied, regarding all information contained in and displayed on this website, including any use thereof, as well as any and all links to and from the website. 
 
 Kiwi Collection Inc. does not warrant that the information included in our website is accurate, current, verified, comprehensive or complete. 
 
 |  |  The information will from time to tome be updated and/or changed, and Kiwi reserves the right to make all such changes to the content of this website without any obligation to advise and/or notify visitors to the website that such changes have been, or will be made. 
+
+Currency conversion under licence from XE.COM ([End User Terms of Use](http://www.xe.com/legal/dfs.htm)). 
 
 If you have any questions or concerns feel free to email us. 
 
@@ -34,4 +44,6 @@ If you have any questions or concerns feel free to email us.
 
 |   
 ---|---|---|---|---  
-|  |  | 
+|  |  |   
+  
+
