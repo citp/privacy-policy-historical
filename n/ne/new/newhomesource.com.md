@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newhomesource.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014146id_/http%3A//newhomesource.com/sitehelp/SiteHelp.aspx%3Fcontent%3Dprivacy%26sid%3D38ce4af4520e4a99b1283312d9d72b2d) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhomesource.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101053109id_/http%3A//newhomesource.com/sitehelp/SiteHelp.aspx%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
-# New homes for sale, home builders and house plans.
+# [market] area homes for sale: [market], [state] real estate
 
 |  |  |  Search over 250,000 new homes and plans from America's top home builders.  
 ---  
@@ -92,6 +92,7 @@ Your privacy is important to BHI. If you have questions about any of the provisi
 The State of CA enacted the Shine the Light law (CA Civil Code Sec 198.83) that permits customers of Builder Homesite who are CA residents to request certain information regarding its disclosure of personal information during the past year for marketing purposes. To make such a request, send an email to [support@newhomesource.com](mailto:support@newhomesource.com).
 
 Update effective March 9, 2006.  
+  
   
   
 
