@@ -1,30 +1,7 @@
-> *The following text is extracted and transformed from the joelosteen.com privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426234457id_/http%3A//www.joelosteen.com/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joelosteen.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101071813id_/http%3A//www.joelosteen.com/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Joel Osteen Ministries: Privacy Policy
 
-|  |  |   AN EVENING WITH JOEL  
----  
-  
-Buy Tickets online now for:  
- **  
-2nd Night Added in Indy!!  
-**[Indianapolis, IN](http://www.ticketmaster.com/event/05003C24C7C83EB6?artistid=949337&majorcatid=10005&minorcatid=104&AddInterest=1141) \- Thurs, Apr 6  
- **Indianapolis, IN - Fri, Apr 7  
-** **Sold Out!!  
-**  
- **2nd Night Added in Columbus!!  
-**[Columbus, OH](http://www.ticketmaster.com/event/05003C56A7CF7F61?artistid=949337&majorcatid=10005&minorcatid=104&AddInterest=1141) \- Thurs, May 11  
- **Columbus, OH - Fri, May 12  
-** **Sold Out!!  
-  
-**[Little Rock, AR](http://www.ticketmaster.com/event/1B003C4F8080AACE?artistid=949337&majorcatid=10005&minorcatid=104&AddInterest=1141) \- Fri, Jun 9  
-  
-  WATCH ONLINE  
-  
-Join a service LIVE from Lakewood Church or watch a previous broadcast.
-
-[Watch Online Now](http://www.joelosteen.com/site/PageServer?pagename=OnlineStreaming)  
-  
 ##### Privacy Policy
 
 Your privacy on the Internet is extremely important to us. Because you give us personal information, we believe you should fully understand the terms and conditions surrounding what we do with that information. This privacy statement discloses the information we gather, how we use it, and how you can correct or change it. 
@@ -88,42 +65,44 @@ JoelOsteen.com uses a variety of security measures to maintain the safety of you
 
 JoelOsteen.com gives members the following options for removing their e-mail address from our database so you will not receive future communications: 
 
-  1. Send an email message to: [datamaster@JoelOsteen.com](mailto:datamaster@JoelOsteen.com). 
+  1. Send an email message to: [info@JoelOsteen.com](mailto:info@JoelOsteen.com "E-mail info@JoelOsteen.com"). 
   2. Click on the unsubscribe link on any subscription mail you receive (and follow the directions located on the bottom of each email). 
   3. Send a letter to the following postal address: 
 
 
 
-JoelOsteen.com   
-P.O. Box 4600  
-Houston, TX 77210 
+> > JoelOsteen.com   
+> P.O. Box 4600  
+> Houston, TX 77210 
 
-  1. Call the following telephone number: (713) 491-1496. 
-  2. Fax to: (713) 491-1259 
+  1. Call the following telephone number: 1-800-278-0520. 
+  2. Fax to: (713) 635-4753. 
 
 **If You Want To Change Your Information**
 
 We want you to enjoy all of the features of JoelOsteen.com by keeping your account information current. JoelOsteen.com gives users the following options for changing and modifying information previously provided: 
 
   1. Click on the My Account link to make direct changes to your information on-line. 
-  2. Send an email message to: [datamaster@JoelOsteen.com](mailto:datamaster@JoelOsteen.com). 
+  2. Send an email message to: [info@JoelOsteen.com](mailto:info@JoelOsteen.com "E-mail datamaster@JoelOsteen.com"). 
   3. Reply back to any subscription mail you receive (and follow the directions located on the bottom of each email). 
   4. Send a letter to the following postal address: 
 
 
 
-JoelOsteen.com   
-P.O. Box 4600  
-Houston, TX 77210 
+> > JoelOsteen.com   
+> P.O. Box 4600  
+> Houston, TX 77210 
 
-  1. Call the following telephone number: (713) 491-1496 
-  2. Fax to: (713) 491-1259. 
+  1. Call the following telephone number: 1-800-278-0520. 
+  2. Fax to: (713) 635-4753.
+
+
 
 **All Other Questions**
 
-If you have additional questions about this privacy statement, the practices of JoelOsteen.com, or your dealings with this Web site, please email us at [info@JoelOsteen.com](mailto:info@Joelosteen.com) or write us at: 
+If you have additional questions about this privacy statement, the practices of JoelOsteen.com, or your dealings with this Web site, please email us at [info@JoelOsteen.com](mailto:info@Joelosteen.com "E-mail info@Joelosteen.com") or write us at: 
 
-JoelOsteen.com   
-P.O. Box 4600  
-Houston, TX 77210   
-
+> > JoelOsteen.com   
+> P.O. Box 4600  
+> Houston, TX 77210   
+> 
