@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the discoverybenefits.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614184940id_/http%3A//www.discoverybenefits.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverybenefits.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101165055id_/http%3A//www.discoverybenefits.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Discovery Benefits
 
-## Privacy
-
-Discovery Benefits, Inc. recognizes that the cornerstone of our success is the trust and confidence of our customers. We are dedicated to protecting the information we collect, maintain and use to provide services for you. To help you better understand our commitment to protecting your personal information, we are providing you with the following notice describing our practice with respect to the privacy and confidentiality of customer information:
+Discovery Benefits, Inc., recognizes that the cornerstone of our success is the trust and confidence of our customers. We are dedicated to protecting the information we collect, maintain and use to provide services for you. To help you better understand our commitment to protecting your personal information, we are providing you with the following notice describing our practice with respect to the privacy and confidentiality of customer information: 
 
   * We will safeguard, according to strict standards of security and confidentiality, any information our customers share with us. We do not disclose any non-public personal information about our customers or former customers to anyone, except in strict adherence as permitted by law.
 
