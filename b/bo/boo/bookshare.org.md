@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2004-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040403211933id_/http%3A//www.bookshare.org/web/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101020351id_/http%3A//www.bookshare.org/web/Privacy.html) for the most accurate reproduction.*
 
 # Bookshare.org - Privacy Policy
 
@@ -10,7 +10,7 @@ Bookshare.org is a nonprofit web site dedicated to providing accessible books an
 
 Personal Information
 
-Under the copyright law exception that allows Bookshare.org to provide copyrighted material to people with print disabilities, Bookshare.org must receive proof of a print-related disability for each user that wishes to download copyrighted Content, as well as the user’s name, address and whether or not the user is a minor. We will also request other contact information, such as e-mail address and telephone number. We will use this information for the following purposes: 
+Under the copyright law exception that allows Bookshare.org to provide copyrighted material to people with print disabilities, Bookshare.org must receive proof of a print-related disability for each user that wishes to download copyrighted Content, as well as the user's name, address and whether or not the user is a minor. We will also request other contact information, such as e-mail address and telephone number. We will use this information for the following purposes: 
 
   * To communicate general information about Bookshare.org services to Bookshare.org users.
   * To communicate with Bookshare.org users about their account status, renewal, and any problems with their account.
@@ -34,7 +34,7 @@ Bookshare.org will also maintain transaction logs of the materials downloaded by
   * To gather statistical data about usage patterns for the improvement of the Bookshare.org service.
   * Possibly, to provide suggested content based on the users past reading patterns.
 
-We will not provide access to any third parties to the information contained in our transaction logs, except in connection with investigation of or for actual legal proceedings concerning potential abuse. We will not share information about an individuals frequency of use or reading habits with the referring agency or individual, except that number of books downloaded by individual with Multiple Subscriber Accounts such as school accounts shall be available to the person(s) responsible for those organizational accounts.
+We will not provide access to any third parties to the information contained in our transaction logs, except in connection with investigation of or for actual legal proceedings concerning potential abuse. We will not share information about an individuals frequency of use or reading habits with the referring agency or individual, except that number of books downloaded by individual with Sponsored Subscriber Accounts such as school accounts shall be available to the person(s) responsible for those organizational accounts.
 
 Upload & Review Transaction Information
 
@@ -96,18 +96,15 @@ If we change our Privacy Policy, we will post those changes on our website so ou
 
 |   |  |   |   |   |   |    
 ---|---|---|---|---  
-| 
-
-Site Navigation  
-  
-   
 | | Books  
-| [New](http://www.bookshare.org/web/BooksNew.html)  
-| [By Category](http://www.bookshare.org/web/BooksByCategory.html)  
-| [By Author](http://www.bookshare.org/web/BooksByAuthor.html)  
-| [By Title](http://www.bookshare.org/web/BooksByTitle.html)  
+| [Simple Search](http://www.bookshare.org/web/BooksBySimpleSearch.html)  
+| [Advanced Search](http://www.bookshare.org/web/BooksByAdvancedSearch.html)  
+| [Browse Books](http://www.bookshare.org/web/BrowseBooks.html)  
 | [Embossed Braille](http://www.bookshare.org/web/AboutBrailleBooks.html)  
 | [Submit a Book](http://www.bookshare.org/web/MembersSubmit.html?display=1)  
+   
+| | Periodicals  
+| [Newspapers and Magazines](http://www.bookshare.org/web/MembersPeriodicals.html)  
    
 | | Members  
 | [About Membership](http://www.bookshare.org/web/AboutMembership.html)  
@@ -133,6 +130,7 @@ Site Navigation
 | [Demo](http://www.bookshare.org/web/BookshareInfo.html)  
 | [Press Room](http://www.bookshare.org/web/PressRoom.html)  
 | [Partners](http://www.bookshare.org/web/Partners.html)  
+| [Donate Now](http://www.bookshare.org/web/DonateNow.html)  
 | [Legal Information](http://www.bookshare.org/web/Legalities.html)  
 | [Contact Us](http://www.bookshare.org/web/SupportContactUs.html)  
    
