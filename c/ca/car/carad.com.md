@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carad.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045601id_/http%3A//www.carad.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carad.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101171617id_/http%3A//carad.com/privacy.cfm) for the most accurate reproduction.*
 
 # CARad - eBay Motors professional tool for selling a used car online.
 
