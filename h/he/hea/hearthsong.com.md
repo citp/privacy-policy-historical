@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearthsong.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615061356id_/http%3A//hearthsong.com/hearthsong/security/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearthsong.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101223142id_/http%3A//www.hearthsong.com/hearthsong/security/index.asp) for the most accurate reproduction.*
 
 # Privacy & Security - HearthSong
 
@@ -15,7 +15,7 @@ HearthSong®, recognizes and respects the importance of maintaining the privacy 
 
 
 
-This Privacy Policy is part of the [Terms of Use](https://web.archive.org/web/20060615061356id_/http%3A//hearthsong.com/hearthsong/security/termsofuse.asp), which governs your use of our web site located at www.hearthsong.com (HearthSong® or the "Web Site"). The Web Site is owned by The Children's Group, Inc. (the "Company"). This Privacy Policy does not cover information provided to our Company-owned or franchised retail stores.
+This Privacy Policy is part of the [Terms of Use](https://web.archive.org/web/20061101223142id_/http%3A//www.hearthsong.com/hearthsong/security/termsofuse.asp), which governs your use of our web site located at www.hearthsong.com (HearthSong® or the "Web Site"). The Web Site is owned by The Children's Group, Inc. (the "Company"). This Privacy Policy does not cover information provided to our Company-owned or franchised retail stores.
 
 **Note:** _You must_ be 18 years or older to use, subscribe or register as a member of HearthSong®. The Web Site is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children.
 
@@ -39,7 +39,7 @@ Depending on how you interact with us, we collect some or all of the following t
   * products purchased and occasion type (for example, Mother's Day), 
   * any promotion code and related information (for example, if you are claiming frequent flyer miles), 
   * Message and gift recipients' names, addresses, telephone numbers and email addresses, and 
-  * other information you provide to us, including User Submissions (defined in the [Terms of Use](https://web.archive.org/web/20060615061356id_/http%3A//hearthsong.com/hearthsong/security/termsofuse.asp)).
+  * other information you provide to us, including User Submissions (defined in the [Terms of Use](https://web.archive.org/web/20061101223142id_/http%3A//www.hearthsong.com/hearthsong/security/termsofuse.asp)).
 
 
 
@@ -61,9 +61,9 @@ Our Affiliates, subcontractors, and agents, and any successors to our business (
 
 We may combine information we receive from you via our Web Site, emails, mail, fax, and telephone with information from our Affiliates and third parties. We use the combined information to enhance and personalize your shopping experience with us and to communicate with you in accordance with this Privacy Policy.
 
-We reserve the right to disclose information you provide to us as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Web Site, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the [Terms of Use](https://web.archive.org/web/20060615061356id_/http%3A//hearthsong.com/hearthsong/security/termsofuse.asp)).
+We reserve the right to disclose information you provide to us as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Web Site, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the [Terms of Use](https://web.archive.org/web/20061101223142id_/http%3A//www.hearthsong.com/hearthsong/security/termsofuse.asp)).
 
-**_Please note that any personal information you reveal or post on one our public forums (as defined in the[Terms of Use](https://web.archive.org/web/20060615061356id_/http%3A//hearthsong.com/hearthsong/security/termsofuse.asp)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us or with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk._**
+**_Please note that any personal information you reveal or post on one our public forums (as defined in the[Terms of Use](https://web.archive.org/web/20061101223142id_/http%3A//www.hearthsong.com/hearthsong/security/termsofuse.asp)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us or with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk._**
 
 **Consent to Transfer and Submission**  
 HearthSong® is operated in the United States. If you are located outside the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Web Site or otherwise providing us with information, you hereby consent to this transfer.
