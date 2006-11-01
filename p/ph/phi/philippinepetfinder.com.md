@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philippinepetfinder.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403231614id_/http%3A//www.philippinepetfinder.com/modules.php%3Fname%3DLegal%26doc%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philippinepetfinder.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101075515id_/http%3A//www.philippinepetfinder.com/modules.php%3Fname%3DLegal%26doc%3D1) for the most accurate reproduction.*
 
 # Philippine Pet Finder: Your One Stop Online Pet Resource
 
