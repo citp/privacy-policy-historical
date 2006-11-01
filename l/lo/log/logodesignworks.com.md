@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logodesignworks.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618013838id_/http%3A//logodesignworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodesignworks.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101061703id_/http%3A//www.logodesignworks.com/privacy.htm) for the most accurate reproduction.*
 
 # Site Privacy Information
 
