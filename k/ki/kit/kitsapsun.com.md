@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kitsapsun.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618124544id_/http%3A//kitsapsun.com/bsun/home/text/0%2C2403%2CBSUN_19081_24251%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitsapsun.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101185934id_/http%3A//www.kitsapsun.com/bsun/home/text/0%2C2403%2CBSUN_19081_50149%2C00.html) for the most accurate reproduction.*
 
 # kitsapsun.com
 
-**The SUN newspaper of Bremerton, Wash.**   
+**The Kitsap Sun newspaper of Bremerton, Wash.**   
 An operating unit of the   
-[E.W. Scripps Company](http://www.scripps.com/) **The SunLink Privacy Policy**
+[E.W. Scripps Company](http://www.scripps.com/) **Kitsap Sun Privacy Policy**
 
-The SunLink is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At **www.thesunlink.com** we intend to give you as much control as possible over your personal information. 
+The Kitsap Sun is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At **www.kitsapsun.com** we intend to give you as much control as possible over your personal information. 
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. 
 
@@ -22,7 +22,7 @@ We also use cookies in connection with our chat rooms in order to record your pr
 
 We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics. 
 
-In addition, users may complete a subscription form online in order to subscribe to The SUN. To subscribe, users must submit personal information in order for us to send the newspaper to you. 
+In addition, users may complete a subscription form online in order to subscribe to The Kitsap Sun. To subscribe, users must submit personal information in order for us to send the newspaper to you. 
 
 **II. Use of User Information**
 
@@ -34,10 +34,10 @@ We do not share personal identifying information with any third party without yo
 
 **IV. Accuracy of User Information**
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to Jim Coleman, Web Services Administrator, at **JColeman@thesunlink.com** , or you can reach us by telephone at (360) 792-9223. You can also write us at: 
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to Dan Lee, Web Services Administrator, at **dlee@kitsapsun.com** , or you can reach us by telephone at (360) 792-9223. You can also write us at: 
 
-The SunLink  
-c/o The SUN  
+The Kitsap Sun  
+c/o The Kitsap Sun  
 545 5th St.  
 Bremerton, WA, 98337
 
@@ -53,5 +53,5 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at **sunnews@thesunlink.com**. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [click here](https://web.archive.org/bsun/home/text/0,2403,BSUN_19081_24252,00.html).  
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at **sunnews@kitsapsun.com**. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [click here](https://web.archive.org/bsun/home/text/0,2403,BSUN_19081_24252,00.html).  
 
