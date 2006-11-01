@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrubsandbeyond.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614210056id_/http%3A//scrubsandbeyond.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubsandbeyond.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101062330id_/http%3A//www.scrubsandbeyond.com/privacy.aspx) for the most accurate reproduction.*
 
 # Scrubs & Beyond
 
@@ -20,6 +20,6 @@ If you supply us with your e-mail address, postal address, or telephone number, 
 
 IF YOU DO NOT WANT TO RECEIVE E-MAIL, MAILINGS, OR TELEPHONE CALLS FROM US IN THE FUTURE, OR IF YOU DO NOT WANT US TO SHARE YOUR POSTAL ADDRESS WITH OTHER COMPANIES OR ORGANIZATIONS, PLEASE LET US KNOW BY SENDING US E-MAIL AT THE ABOVE ADDRESS, CALLING US AT THE ABOVE TELEPHONE NUMBER, OR WRITING TO US AT THE ABOVE ADDRESS. Please provide your exact name, mailing address, e-mail address, and telephone number. There is no charge for this service. Your request may take a few days to process and take effect but we will be sure to process your request promptly. 
 
-**COOKIES & AD SERVER COMPANIES.** We do not set any cookies and we do not partner with or have special relationships with any ad server companies. 
+**AD SERVER COMPANIES.** We do not partner with or have special relationships with any ad server companies. 
 
 **CHILDREN.** Children's privacy is important to us. We do not knowingly collect personal information from children under 13 years of age. Any communication we get that is identified as being from a child under 13 will not be kept by Scrubs & Beyond. 
