@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scad.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615182459id_/http%3A//scad.edu/shared/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scad.edu privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101074400id_/http%3A//www.scad.edu/shared/privacy) for the most accurate reproduction.*
 
-# Savannah College of Art and Design: Privacy Policy
+# Savannah College of Art and Design > Shared > Privacy Policy
 
 Welcome to the Web site of the Savannah College of Art and Design. We have created this Privacy Policy to outline our firm commitment to your privacy. Please read this policy to understand how the college treats any personal information you provide via this site.
 
