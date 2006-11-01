@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hospitalityjobsite.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511074013id_/http%3A//www.hospitalityjobsite.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hospitalityjobsite.com privacy policy that was archived on 2006-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061101154217id_/http%3A//www.hospitalityjobsite.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Hospitality Jobsite - Search Jobs and Resumes in Travel / Hospitality / Restaurant
 
@@ -23,7 +23,7 @@ Contact
 **Collection and Use of Information**  
 
 
-When you register with this site or one of its affiliated web sites, we ask you for personal information. We use this information to process your requests and to communicate with you about the status of your requests. We may also use your email address to send you newsletters you are subscribed to during registration, as well as messages about any special offers, promotional announcements and consumer surveys. 
+When you register with this site or one of its affiliated web sites, we ask you for personal information. We use this information to process your requests and to communicate with you about the status of your requests. For example, if you request additional information on other services, such as continuing education or student loan consolidation, we will share your information solely as is necessary to process your request. We may also use your email address to send you newsletters you are subscribed to during registration, as well as messages about any special offers, promotional announcements and consumer surveys. 
 
 We are the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points on our website. When you first register with us, we ask for your email address and a password. At this time, we may subscribe you to various email publications. You can unsubscribe at any time. 
 
