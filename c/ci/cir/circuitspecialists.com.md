@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circuitspecialists.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320144822id_/http%3A//circuitspecialists.com/level.itml/icOid/7122) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circuitspecialists.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102090729id_/http%3A//circuitspecialists.com/level.itml/icOid/7122) for the most accurate reproduction.*
 
 # Circuit Specialists Inc. - Privacy Policy
 
