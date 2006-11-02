@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricbuzz.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512155939id_/http%3A//www.cricbuzz.com/index.php%3Foption%3Dcom_staticxt%26Itemid%3D999999%26staticfile%3Dpolicy/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricbuzz.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102012557id_/http%3A//www.cricbuzz.com/index.php%3Foption%3Dcom_staticxt%26Itemid%3D999999%26staticfile%3Dpolicy/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Cricbuzz.com :: The Worldwide Hub of Cricket
 
