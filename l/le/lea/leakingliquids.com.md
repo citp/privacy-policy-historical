@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leakingliquids.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629122219id_/http%3A//www.leakingliquids.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leakingliquids.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102114209id_/http%3A//www.leakingliquids.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,6 +8,8 @@
 * * *
 
 We have created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of this Site. This Site is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site. 
+
+This website is an online subscription service owned and operated by it's wholly owned subsidiary, PV Imagesoft SL, Spain.
 
 ###  What Information is Collected? 
 
