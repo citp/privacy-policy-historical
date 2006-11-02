@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the home-decorating-co.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618200649id_/http%3A//home-decorating-co.com/cp_site_security_and_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home-decorating-co.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102153631id_/http%3A//home-decorating-co.com/cp_site_security_and_privacy.htm) for the most accurate reproduction.*
 
 # Contact Us
 
