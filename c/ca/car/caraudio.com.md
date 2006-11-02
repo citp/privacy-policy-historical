@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caraudio.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626073533id_/http%3A//caraudio.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caraudio.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102051728id_/http%3A//caraudio.com/pp.html) for the most accurate reproduction.*
 
 # CarAudio.com Privacy Policy
 
