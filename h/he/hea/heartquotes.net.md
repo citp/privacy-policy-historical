@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartquotes.net privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616005310id_/http%3A//www.heartmath.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartquotes.net privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102015025id_/http%3A//www.heartmath.com/company/privacy_policy.html) for the most accurate reproduction.*
 
 # HeartMath Privacy Policy
 
@@ -72,4 +72,4 @@ Chris Jacob
 VP of Finance  
 Telephone: (800) 450-9111, Ext. 52 (Toll-Free)  
 Telephone: (831) 338-8700, Ext. 52 (International)  
-E-Mail: [cjacob@heartmath.com](mailto:cjacob@heartmath.com)
+E-Mail: [info@heartmath.com](mailto:info@heartmath.com)
