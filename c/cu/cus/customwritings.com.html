@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the customwritings.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615050201id_/http%3A//customwritings.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the customwritings.com privacy policy that was archived on 2006-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061102232947id_/http%3A//customwritings.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Custom Writing Service</title>
@@ -10,155 +10,346 @@
 <link href="online.css" type="text/css" rel="stylesheet">
 <script language="JavaScript" src="scripts.js" type="text/javascript">
 </script>
+<script type="text/JavaScript">
+<!--
+function setTrig() {
+	status=document.inquire.servicetype.value;
+	if (document.inquire.servicetype.value == '8') {
+			document.getElementById('service_option').style.display='block';
+		}
+	else {
+			document.getElementById('service_option').style.display='none';
+	}
+}
+function ValidateForm()
+{
+	var email=document.inquire.email.value;
+	var toptitle=document.inquire.toptitle.value;
+	var pages=document.inquire.pagesreq.value;
+	if (email=="")
+	{
+		alert('Please Enter your Email Address');
+		document.inquire.email.focus();
+		return(false);
+	}
+    else
+	{
+		if(!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(document.inquire.email.value)))
+		{
+			alert("Please enter a valid email address");
+			document.inquire.email.focus();
+			return false;
+		}
+	}
+	if (toptitle=="")
+	{
+		alert('Please Enter Topic Title');
+		document.inquire.toptitle.focus();
+		return(false);
+	}
+	if (pages==""||pages==0)
+	{
+		alert('Please Enter Pages Required');
+		document.inquire.pagesreq.focus();
+		return(false);
+	}
+	else {
+		if (isNaN(pages))
+			{
+				alert('Please Enter A Numeric Value');
+				document.inquire.pagesreq.focus();
+				return(false);
+			}
+	}
+return true;
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+.style6 {color: #FF0000}
+-->
+</style>
 </head>
-<body>
+<body onload="g_off('gmt')">
+<!-- #BeginBehavior showTooltip1 -->
+<div id="dHTMLToolTip" style="position: absolute; visibility: hidden; width:10; height: 10; z-index: 1000; left: 0; top: 0"></div>
+<!-- #EndBehavior showTooltip1 -->
+
 <div id="outercontainer">
   <div id="container">
-    <div id="header">
-      <div id="headercite"><img src="images/cite2.gif" alt="papers, essays, researches, reports, speeches, reviews" width="401" height="56"></div>
-      <div id="headerpic"><a href="/"><img src="images/3_1.jpg" alt="custom writing service header" width="833" height="200" border="0"></a> </div>
-      <div id="missionstatement"> <img src="images/mission1.gif" alt="custom writing service" width="331" height="15"> </div>
-	  <div id="hdelivery"> 
-	    <p>Have your writing <br>
-	      completed 
-	      in <span class="redboldtext"><br>
-          12 hours</span></p>
+    <div id="header">      <div id="headerpic"><img src="/images/header.jpg" alt="Custom essay, custom term paper, custom research paper writing service" width="830" height="125"> </div>
+      <div id="missionstatement"> <img src="/images/mission1.gif" alt="custom writing service" width="331" height="15"> </div>
+      <div id="hdelivery">
+        <p>Have your Paper <br>
+completed <span class="redboldtext"><br>
+Overnight</span></p>
       </div>
-
-    </div>
+<div id="addfav">
+<p><a onmousedown="addBookmark('Custom Essay Service: Customwritings.com','http://www.customwritings.com')" href="#"><img height="25" alt="Add to favorites" src="/images/addfav.gif" width="28" border="0"><span class="redboldtext">Bookmark this page </span></a></p>
+</div></div>
     <!-- RAIL THREE -->
     <div id="leftcol">
-      <a href="/order.htm">
-      <div id="ordernow"><span>order now</span><br>
-        <span class="sublink">Order the writing you need. Starting from $15/page. </span></div>
-      </a>
-	  <a href="/customer.php?new#inquiry">
-			<div id="inquirenow"><span>free inquiry</span><br>
-			  <span class="sublink">Not sure? Inquire for free and receive a quote from
-			      a writer within an hour. </span></div>
-			</a>
-			
-			<div id="chatnow"><a href="/chat/flashchat.php" target="_blank"><span class="style5"><img src="images/blinker.gif" alt="online" width="42" height="12" border="0"> ask
-			  a live person</span><br>
-			      <span class="sublink">Do you have  a question? We will gladly help you
-			      to find an answer.</span></a></div>
-
+      <div id="leftmenu">				<a class="leftbtn" href="/order_inquiry.php">
+        <div class="leftbutton" id="inquirenow"><span>free inquiry</span><br>
+            <span class="sublink">Not sure? Not in a hurry? Inquire for free
+            and receive a quote from the best available writer. </span></div>
+                </a> <a class="leftbtn" id="ordernow" href="/order.htm">
+        <div class="leftbutton">order now<br>
+            <span class="sublink">Order the writing you need. Starting from $10/page. </span></div>
+                  </a> 
+		<a class="leftbtn" id="about" href="/index.html">
+        <div class="leftbutton">about us <br>
+            <span class="sublink">Our company, operating principles and advantages.</span></div>
+        </a> <a class="leftbtn" id="prices" href="/pricing.html">
+        <div class="leftbutton">prices <br>
+            <span class="sublink">Prices for our services. <strong>How to apply
+            for a discount</strong> </span></div>
+          </a> <a class="leftbtn" id="faq" href="/faq.html">
+        <div class="leftbutton">faq <br>
+            <span class="sublink">Questions on our guarantees, grades, policies,
+            writers. </span></div>
+            </a> <a class="leftbtn" id="testimonials" href="/testimonials.html">
+        <div class="leftbutton">testimonials <br>
+            <span class="sublink">What other customers say about their experience
+            with CustomWritings.com. </span></div>
+              </a> 
+		<a class="leftbtn" id="chatnow" href="/chat/flashchat.php" target="_blank">
+        <div class="leftbutton"><img src="images/blinker.gif" alt="online" width="42" height="12" border="0"> live
+          person chat <br>
+              <span class="sublink">Do you have a question? We will gladly help
+              you to find an answer.</span></div>
+                  </a> </div>
+      <!--
+	  why us? Our company, operating principles and advantages. 
+	  faq - Guarantees, grades, policies, writers.
+	  prices &amp; discounts
+	  services
+	  disciplines - In what disciplines do we specialize.
+	  samples - sample works
+	  customer support
+	  -->
       <div class="sidetext">
-	  
-	          <h3>We offer the following services:</h3>
-		  <ul class="sidetext_narrow">
-            <li>Custom paper writing:
-              <ul>
-                  <li>Essays</li>
-                <li>Term papers</li>
-                <li>Researches</li>
-                <li>Reports</li>
-                <li>Reviews</li>
-                <li>Speeches</li>
-                <li>Presentations </li>
-                <li>Projects</li>
-              </ul>
-            </li>
-		    <li>Pre-writing</li>
-		    <li>Researching</li>
-		    <li>Editing</li>
-		    <li>Outlining</li>
-		    <li>(free) revising </li>
-		    <li>(free) writing guidance</li>
-		    <li>Professional paper or presentation design</li>
+        <h3>We offer the following services:</h3>
+        <ul class="sidetext_narrow">
+          <li>Custom paper writing:
+            <ul>
+                <li>Essays</li>
+              <li>Term papers</li>
+              <li>Researches</li>
+              <li>Reports</li>
+              <li>Reviews</li>
+              <li>Speeches</li>
+              <li>Presentations </li>
+              <li>Projects</li>
+            </ul>
+          </li>
+          <li>Pre-writing</li>
+          <li>Researching</li>
+          <li>Editing</li>
+          <li>(free) revising </li>
         </ul>
-		  
+        <div align="center">
+          <p><a href="/guarantee.html"><img src="images/seal_moneyback_guarranteed.jpg" alt="Money Back" border="0"></a> </p>
+          <p><a href="http://www.2co.com" target="_blank"><img src="images/2cocc06.gif" alt="2checkout.com" width="190" height="54" border="0"></a> </p>
+          <p><a href="http://www.2co.com"><img src="images/visa_verified.gif" alt="Verified By Visa" width="126" height="85" border="0"></a></p>
+        </div>
         <div class="contactdiv">
-          
           <h1 class="redboldtext"> <img src="images/mail1.gif" alt="Mail us" width="20" height="20" border="0"> Contacts:</h1>
-          <p>Email
-            us:</p>
+          <p>Email us:</p>
           <p><a href="mailto:info@customwritings.com"> info@customwritings.com</a></p>
-		  <div class="tollfree">
-          <h2>Call us toll free:</h2>
-          <p class="events">(US &amp; Canada only, international callers are charged
-          for incoming calls) </p>
-        <h4 class="accent">1-8778-my-term<br>
-          1-8778-69-8376 </h4>
-        <p>Extension 0: Operator </p>
-		</div>
-		<div id="online">
-		  <p align="center"><a href="/chat/flashchat.php" target="_blank"><img src="images/support1.gif" alt="Ask your question now" width="92" height="135" border="0"></a></p>
-		  <p align="center"><a href="/chat/flashchat.php" target="_blank" class="redboldtext"><span>Chat online now!</span></a> </p>
-		  <p style="vertical-align:middle">&nbsp;</p>
-		  <p align="center" style="vertical-align:middle">IM support:<br> 
-	      <a href="http://web.icq.com/whitepages/message_me?uin=304801918&amp;action=message"><img src="http://web.icq.com/whitepages/online?icq=304801918&amp;img=5" alt="ICQ" width="18" height="18" border="0"></a>&nbsp;<a href="aim:GoIM?screenname=customwritings">
-<img src="http://api.oscar.aol.com/SOA/key=PandorasBoxGoodUntilJan2006/presence/customwritings" alt="AOL" border="0"> </a></p>
-		</div>
-		</div>
-
-        		</div>
+          <div id="online2co">
+            <div class="tollfree">
+              <h2>Customer support: </h2>
+              <p class="hed">Please see your 2CO.COM Sales Receipt for your order
+                number. </p>
+              <p class="events">toll-free in U.S. &amp; Canada:</p>
+              <h4 class="accent">1-877-294-0273</h4>
+              <p class="events">international callers:</p>
+              <h4 class="accent">1-614-921-2450</h4>
+              <p class="events">local from UK &amp; Northern Ireland: </p>
+              <h4 class="accent">0871-871-8283</h4>
+              <p class="posted style6">Please note that you can only call 2CO
+                support office in regards to the existing order. For pre-order
+                inquiries please see our <a href="/faq.html">frequently asked
+                questions</a> section or <a href="mailto:info@customwritings.com">email
+                us</a>. </p>
+            </div>
+          </div>
+          <div id="online">
+            <div class="tollfree">
+              <h2>Call us toll free:</h2>
+              <p class="events">(US &amp; Canada only, international callers
+                are charged for incoming calls) </p>
+              <h4 class="accent">1-8778-my-term<br>
+                1-8778-69-8376 </h4>
+              <p>Extension 0: Operator </p>
+            </div>
+            <p align="center"><a href="/chat/flashchat.php" target="_blank"><img src="images/support1.gif" alt="Ask your question now" width="92" height="135" border="0"></a></p>
+            <p align="center"><a href="/chat/flashchat.php" target="_blank" class="redboldtext"><span>Chat
+                  online now!</span></a> </p>
+            <p style="vertical-align:middle">&nbsp;</p>
+            <p align="center" style="vertical-align:middle">IM support:<br>
+                <a href="http://web.icq.com/whitepages/message_me?uin=304801918&amp;action=message"><img src="http://web.icq.com/whitepages/online?icq=304801918&amp;img=5" alt="ICQ" width="18" height="18" border="0"></a>&nbsp;<a href="aim:GoIM?screenname=customwritings"> <img src="http://api.oscar.aol.com/SOA/key=PandorasBoxGoodUntilJan2006/presence/customwritings" alt="AOL" border="0"> </a></p>
+          </div>
+        </div>
+        <div align="center"><br>
+        </div>
+      </div>
     </div>
+	
     <!-- RAIL ONE -->
     <div id="middlecol">
-      <div id="middletext">	    <a name="top" id="top"></a>
-	  
-  		<div style="position:relative; float:right; clear:none; width:204px; padding-left: 15px; padding-bottom: 0px;"></div>
-
-	  
-	  <div style="padding-left:5px;">
-	    <div style="padding-left:5px;">
+      <div id="middletext"> <a name="top" id="top"></a>
+        <div style="position:relative; float:right; clear:none; width:204px; padding-left: 15px; padding-bottom: 0px;"></div>
+        <div style="padding-left:5px;">
           <h1>Privacy Policy</h1>
-	      <p>CustomWritings.com respects each individual’s right to personal privacy.
-	        We will collect and use information through our Web site only in the
-	        ways disclosed in this statement.</p>
-	      <h3>Information Collected </h3>
-	      <p>You always remain in control of the information you provide to CustomWritings.com.</p>
-	      <p>We collect two types of information about visitors:</p>
-	      <p>Personal information (when you place an order) - name, address, and
-	        e-mail address, which you have voluntarily submitted to us. <br>
-	        Aggregate information - information about how many visitors log on
-	        to our sites, the pages they access, etc. </p>
-	      <p>We never, under any circumstances, receive credit card information.</p>
-	      <h3>How We Use It</h3>
-	      <p>This information is used for providing the user with suitable service,
-	        contacting the client by email and delivering the completed work. It
-	        is also used in order to provide the user with the greatest ease for
-	        navigating through the website.</p>
-	      <p>We NEVER use your personal information to send you advertisements or
-	        promotions for products and services and NEVER share our customers’
-	        information with other parties. We do not make any information that
-	        you send, fax, or upload available to anyone else. </p>
-	      <h3>Data Storage</h3>
-	      <p>We do not maintain any databases with completed essays. All essays
-	        are custom made and are completed for each client individually. You
-	        will receive the paper in two versions. The first is a secure PDF version
-	        for review. The second version is sent after you have approved a paper
-	        and agreed for its content. After you have received the paper it becomes
-	        your property. We do not save it or resend to any 3rd party. </p>
-	      <h3>Security </h3>
-	      <p>We take steps to make all information received from you online as secure
-	        as reasonably possible against unauthorized access and use. &nbsp;</p>
-	      <p>If you have any further questions about privacy or security, please
-	        contact us.</p>
-	    </div>
-	    </div>
-	    <div class="promo" style="border: 1px dashed #ccc; padding: 5px; width: 336px; margin-bottom: 10px; float: left; margin-top: 10px;">
-          <p><strong class="promohed2">Confidentiality &amp; authenticity assured!</strong></p>
-          <p><strong class="redheading">Authenticity of the writing and confidentiality
-              of all information are assured. We do not reuse ANY papers and
-              we keep user information private. </strong><br>
-              <a href="javascript:void window.open('https://www.2checkout.com/cgi-bin/buyers/safe.2c?comp=', 'bnew',config='height=400,width=100,toolbar=no,menubar=no,scrollbars=yes,resizable=no, location=no,directories=no,status=yes')"><img src="images/shopping-with-us-is-safe.gif" alt="Shopping with us is safe" width="150" height="25" border="0"></a></p>
+            <table cellspacing="0" cellpadding="0" width="100%" border="0">
+              <tbody>
+                <tr>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td valign="top">The following statement explains our policy
+                    regarding the personal information we collect about you when
+                    you visit The customwritings.com web site (www.customwritings.com). <br>
+                    This information is used to improve the content of our web
+                    pages, to customise the content and/or layout of our page.
+                    We never sell, rent or share any of the information we collect
+                    by this method (except anonymous aggregate information) with
+                  any third party. </td>
+                </tr>
+                <tr>
+                  <td valign="top"><h2>Information we collect as you browse our
+                      web site </h2>
+                  Our web server automatically collects standard information,
+                    including your IP address, browser type, operating system
+                    and access times. <br>
+                    Sometimes we may use cookies to customise web page content
+                    based on your browser type, IP address or other anonymous
+                    information.</td>
+                </tr>
+                <tr>
+                  <td valign="top"><h2>About Cookies</h2>
+                  Cookies are text files that identify your computer to our
+                      server. Cookies in themselves do not identify the individual
+                      user, just the computer used. Many web sites do this whenever
+                      a user visits their site in order to monitor visitor traffic. <br>
+                    Cookies themselves only record those areas of the site that
+                    have been visited by the computer in question, and for how
+                    long. Users have the opportunity to set their computers to
+                    accept all cookies, to notify them when a cookie is issued,
+                    or not to receive cookies at any time. The last of these,
+                    of course, means that certain personalised services cannot
+                    then be provided to that user. </td>
+                </tr>
+                <tr>
+                  <td valign="top"><h2>Use of optional information</h2>
+                  On certain web pages, you may be asked to provide your name,
+                      e-mail address or other personal information (for example,
+                      when requesting a prospectus or brochure). We will not
+                      use this information for any other purpose; it is never
+                      sold, rented or shared with any third party. We will however,
+                      use any demographic information you provide for internal
+                      market research purposes only. <br>
+                    If you contact us by e-mail to request information, report
+                    a problem or provide feedback on our services we will only
+                    use the information you provide (including your e-mail address)
+                    to respond to your message. We do not share this information
+                    in any way. </td>
+                </tr>
+                <tr>
+                  <td valign="top"><h2>Future developments</h2>
+                  From time to time, we may use your information for new, unanticipated
+                      uses not previously disclosed in our privacy policy. If
+                      our information practices change at some time in the future
+                      we will post the policy changes on this page. <br>
+                    If you are concerned about how your information is used,
+                    you should check this page periodically. We will only use
+                    data collected from the time of the policy change onwards
+                    for these new purposes.</td>
+                </tr>
+                <tr>
+                  <td valign="top"><h2>Security </h2>
+                  We have appropriate security measures in place to protect
+                      against the loss, misuse or alteration of information we
+                      have collected from you. <br>
+                    These security measures include the necessary protection
+                    to prevent, as far as possible, access to our databases by
+                    parties other than The Solomon Papers. </td>
+                </tr>
+                <tr>
+                  <td valign="top"><h2>Links Disclaimer </h2>
+                  In order to provide visitors with certain information, this
+                      web site provides links to local, State and federal government
+                      agencies, and web sites of other organizations. A link
+                      does not constitute an endorsement of the content, viewpoint,
+                      accuracy, opinions, policies, products, services, or accessibility
+                      of that web site. Once you link to another web site from
+                      this web site, including one maintained by the State, you
+                      are subject to the terms and conditions of that web site,
+                      including, but not limited to, its privacy policy. </td>
+                </tr>
+                <tr>
+                  <td valign="top"><h2>§537. Disclosures Prohibited</h2>
+                  Use of information acquired from employers or employees pursuant
+                      to this article shall be for the exclusive use and information
+                      of the commissioner in the discharge of his or her duties
+                      hereunder. It shall not be open to the public nor be used
+                      in any court in any action or proceeding pending therein
+                      unless the commissioner is a party to such action or proceeding,
+                      notwithstanding any other provisions of law. Such information
+                      insofar as it is material to the making and determination
+                      of a claim for benefits shall be available to the parties
+                      affected and, at the commissioner's discretion, may be
+                      made available to the parties affected in connection with
+                      effecting placement. </td>
+                </tr>
+                <tr>
+                  <td valign="top"><h2>Will Our Privacy Policy Change in the
+                      Future?</h2>
+                  We are always improving and updating our website to further
+                    enhance your shopping experience. As a result, our policies
+                    will continue to evolve. As we implement new technology and
+                    provide new services, we will update our Privacy Policy.
+                    We encourage you to refer to this page on an ongoing basis
+                    for our most current policy and practices. </td>
+                </tr>
+                <tr>
+                  <td valign="top"><h2>Access to information </h2>
+                  You have the right to request a copy of the personal information
+                      The customwritings.com ® holds about you and to have
+                      any inaccuracies corrected. (We charge $35 for information
+                      requests). Upon such a request we will provide you with
+                      access to all the information we maintain about you subject
+                      to the conditions of the Data Protection Act 1998. Please
+                      request this service by writing to us at the address below
+                      - <a href="mailto:info@customwritings.com">info@customwritings.com</a>.</td>
+                </tr>
+              </tbody>
+            </table>
+            <h3>&nbsp;</h3>
         </div>
-        <div style="clear:both">
-	      <h1>&nbsp;</h1>
-        </div>
-        </div>
+        <div style="clear:both"></div>
+        <a name="inquiry" id="inquiry"></a><br>
+          <div id="didntfind">
+            <h2>Did not find what you were looking for? </h2>
+            <h3>Get an answer to your question for free right now: </h3>
+            <p>Ask a question online concerning your assignment right away to
+              receive a free consultation. </p>
+            <div align="center">
+              <input name="Submit3" type="button" onclick="MM_openBrWindow('/chat/flashchat.php','Chat','resizable=yes,width=400,height=300')" value="Start chat">
+            </div>
+          </div>
+      </div>
     </div>
     <!-- RAIL FOUR -->
-    <div id="footer">
-      <p class="motto" style="display:none"><a href="/essays/">essays</a> | <a href="/papers/">term papers </a> | <a href="/researches/">researches | </a><a href="/reports/">reports</a> | <a href="/reviews/">reviews</a> | <a href="/speeches/">speeches</a>        | <a href="/projects/">projects</a> | <a href="/presentations/">presentations</a> </p>
-      <p class="motto"><a href="#">Privacy Policy</a> | <a href="mailto:info@customwritings.com">Contact Us</a></p>
-      <p class="motto"><span class="accent">© 2003-2005 Custom Writing Services
+    <div id="footer">      <p class="motto" style="display:none"><a href="/essays/">essays</a> | <a href="/papers/">term papers </a> | <a href="/researches/">researches | </a><a href="/reports/">reports</a> | <a href="/reviews/">reviews</a> | <a href="/speeches/">speeches</a> | <a href="/projects/">projects</a> | <a href="/presentations/">presentations</a> </p>
+      <p class="motto"><a href="/order_inquiry.php">Free quote</a> | <a href="/faq.html">FAQ</a> | <a href="/pricing.html">Pricing</a> | <a href="/testimonials.html">Testimonials</a> | <a href="/privacy.htm">Privacy Policy</a> | <a href="mailto:info@customwritings.com">Contact Us</a></p>
+      <p class="motto"><span class="accent">© 2003-2006 Custom Writing Services
           L.L.C. All Rights Reserved.</span><br>
-          <br>
-      CustomWritings.com is a vendor of 2checkout.com, Columbus, Ohio </p>
-    </div>
+                  <br>
+        CustomWritings.com is a vendor of 2checkout.com, Columbus, Ohio </p></div>
   </div>
 </div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -167,6 +358,9 @@
 _uacct = "UA-235285-1";
 urchinTracker();
 </script>
+<div id="pLayer" style="position:absolute; width:200; visibility:hidden; z-index:200">
+  <!--Empty div-->
+</div>
 
 
 </body></html>
