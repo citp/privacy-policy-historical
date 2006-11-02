@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617182653id_/http%3A//tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102155055id_/http%3A//tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
 
 # The Tennis Recruiting Network
 
