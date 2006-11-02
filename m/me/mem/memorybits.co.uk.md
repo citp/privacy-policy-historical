@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memorybits.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211536id_/http%3A//www.memorybits.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorybits.co.uk privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102144511id_/http%3A//www.memorybits.co.uk/privacy.php) for the most accurate reproduction.*
 
 # memorybits.co.uk | The One Stop Shop For Flash Memory Cards - Terms & Conditions
 
