@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the oplates.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209030923id_/http%3A//www.oplates.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oplates.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102120157id_/http%3A//www.oplates.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Ohio Bureau of Motor Vehicles - oplates.com - Privacy Policy Information
 
   
 
 
+### After reviewing this information, please close this window to continue the transaction.
+
+| **Privacy Policy Information**  
+---  
+  
 **__Privacy Policy.__**
 
 **_Privacy Policy and Public Information Notice._** Several laws, including the Federal Driver Privacy Protect Act (DPPA), the Ohio DPPA (R.C. 4501.27), the Ohio Public Records Act (R.C. 149.43), and other statutes, rules, and regulations cover your registration information. 
@@ -18,4 +23,5 @@
   5. If you have voluntarily given permission to any person to obtain information from us, we do release that information to that person. 
   6. We do release information to government agencies, for vehicle safety recalls, to courts, for limited research purposes, to insurance companies, to towing companies, to private investigators, to CDL employers, and for other public safety purposes, all in accordance with the restrictions and limitations imposed by law. 
 
+  
 
