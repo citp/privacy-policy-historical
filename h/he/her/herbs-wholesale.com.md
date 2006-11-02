@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbs-wholesale.com privacy policy that was archived on 2006-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060206161505id_/http%3A//herbs-wholesale.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbs-wholesale.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102075223id_/http%3A//herbs-wholesale.com/privacy.asp) for the most accurate reproduction.*
 
 # Herbs-WholeSale - Herbal Products Privacy Policy
 
