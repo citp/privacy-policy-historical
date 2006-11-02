@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the simplyswim.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206214411id_/http%3A//simplyswim.com/ShowPage.aspx%3FShowPage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyswim.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102080145id_/http%3A//simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Simply Swim - Privacy
 
-|     |  |  | 
+|  |  |  |  | 
 
-| You are in: [Help](https://web.archive.org/web/20041206214411id_/http%3A//simplyswim.com/ShowPage.aspx?ShowPage=Help) \ Privacy |   
----|---  
-  
-WEBSITE PRIVACY POLICY  
+| 
+
+### WEBSITE PRIVACY POLICY  
   
 ---  
   
@@ -33,7 +32,7 @@ When you buy goods or services from our website, or one of our affiliated websit
 
 | 
 
-We gather this information to allow us to process any orders you make and, if you have requested us to, to send you our newsletter. The relevant information is then used by us, our agents and sub-contractors to provide you with statements of your account and to communicate with you on any matter relating to the conduct of your account and the provision of the goods or services ordered.  
+We gather this information to allow us to process any orders you make and, if you have requested us to, to send you our newsletter. The relevant information is then used by us, our agents and sub-contractors to provide you with statements of your account and to communicate with you on any matter relating to the conduct of your account and the provision of the goods or services Ordered.  
   
 1.3
 
@@ -134,7 +133,7 @@ If our business is sold or integrated with another business your details may be 
 
 | 
 
-If any of the information that you have provided to Simply Scuba changes, for example of you change your e-mail address, name or payment details or if you wish to cancel your subscription to our newsletter, please log into your account and make any necessary changes or from the UK call us on 0870 970 7000 or internationally on +44 1227 282808.  
+If any of the information that you have provided to Simply Scuba changes, for example of you change your e-mail address, name or payment details or if you wish to cancel your subscription to our newsletter, please log into your account and make any necessary changes or from the UK call us on 0870 058 7000 or internationally on +44 1227 282808.  
   
 ---|---  
   
@@ -142,7 +141,7 @@ If any of the information that you have provided to Simply Scuba changes, for ex
 
 | 
 
-We wish to only maintain accurate and up to date information on you. You can check and amend all the information we currently hold about you by logging into your account and make any necessary changes or from the UK call us on 0870 970 7000 or internationally on +44 1227 282808.  
+We wish to only maintain accurate and up to date information on you. You can check and amend all the information we currently hold about you by logging into your account and make any necessary changes or from the UK call us on 0870 058 7000 or internationally on +44 1227 282808.  
   
 **6\. YOUR CONSENT**
 
@@ -166,7 +165,7 @@ Owing to the global nature of the Internet infrastructure, the information you p
 
 | 
 
-We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an e-mail to **[customer.services@simplyscuba.com](mailto:customer.services@simplyscuba.com)** or from the UK call us on 0870 970 7000 or internationally on +44 1227 282808.  
+We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an e-mail to [customer.services@simplyscuba.com](mailto:customer.services@simplyscuba.com) or from the UK call us on 0870 058 7000 or internationally on +44 1227 282808.  
   
 ---|---  
   
@@ -187,4 +186,5 @@ Further information on the Data Protection Act 1998 can also be found on the Inf
 Use of this website is subject to our Terms and Conditions.  
   
 |   
-                     [](https://web.archive.org/web/20041206214411id_/http%3A//simplyswim.com/home.aspx) | 
+                      [](https://web.archive.org/web/20061102080154id_/https://www.simplyswim.com/home.aspx)  
+| 
