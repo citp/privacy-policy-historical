@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiforums.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508185250id_/http%3A//www.audiforums.com/includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiforums.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102031040id_/http%3A//www.audiforums.com/includes/privacy.asp) for the most accurate reproduction.*
 
 # Audi Forums
 
@@ -59,48 +59,45 @@ If you have any questions about this privacy policy, the practices of the AudiFo
 
 [Contact Form](https://web.archive.org/contact/)  
   
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=788&url=http://www.autohausaz.com/audi-auto-parts/index.html)  
+| 
 
-
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1027&url=http://www.visionbulbs.com/)  
+  
+---|---  
+  
 | Featured Vendors  
 ---  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=346&url=http://www.mags4cheap.com/magazines/index.php/cPath/112/referral/rcristel)
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=76&url=http://www.germanpartsonline.com)  
+  
 
-* * *
 
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=501&url=http://www.eurostyleseast.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=76&url=http://www.germanpartsonline.com)
-
-* * *
-
-[ ](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=382&url=http://www.getcoolparts.com)  
+  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=634&url=http://www.mattman-enterprises.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=888&url=http://www.purems.com/)|   
   
 Top 10 Posters  
 ---  
-| [pandaxpress](https://web.archive.org/showprofile.asp?memID=2372)| 10538  
+| [pandaxpress](https://web.archive.org/showprofile.asp?memID=2372)| 12236  
 ---|---  
-[jestnomen](https://web.archive.org/showprofile.asp?memID=784)| 10422  
-[redgoat](https://web.archive.org/showprofile.asp?memID=3967)| 6449  
-[bentframe](https://web.archive.org/showprofile.asp?memID=6332)| 5585  
-[apg96](https://web.archive.org/showprofile.asp?memID=3401)| 5088  
-[headshok2002](https://web.archive.org/showprofile.asp?memID=3695)| 4650  
-[audiboy1618](https://web.archive.org/showprofile.asp?memID=1753)| 4142  
-[awdaholic](https://web.archive.org/showprofile.asp?memID=4805)| 4056  
-[clconversion](https://web.archive.org/showprofile.asp?memID=1392)| 3592  
-[badluckaudi](https://web.archive.org/showprofile.asp?memID=10526)| 3418  
+[jestnomen](https://web.archive.org/showprofile.asp?memID=784)| 10688  
+[redgoat](https://web.archive.org/showprofile.asp?memID=3967)| 7330  
+[bentframe](https://web.archive.org/showprofile.asp?memID=6332)| 6160  
+[badluckaudi](https://web.archive.org/showprofile.asp?memID=10526)| 6029  
+[awdaholic](https://web.archive.org/showprofile.asp?memID=4805)| 5907  
+[avant80@2.6](https://web.archive.org/showprofile.asp?memID=12092)| 5833  
+[apg96](https://web.archive.org/showprofile.asp?memID=3401)| 5565  
+[headshok2002](https://web.archive.org/showprofile.asp?memID=3695)| 5028  
+[onepoint8tee](https://web.archive.org/showprofile.asp?memID=10408)| 5002  
   
-Newest Vendors  
+New Vendors  
 ---  
-| [Autohaus Arizona, Inc](http://www.autohausaz.com/)  
----  
-[Euro Styles East](http://www.eurostyleseast.com/)  
-[German Parts Online](http://www.germanpartsonline.com/)  
+[Vision Bulbs](http://www.visionbulbs.com/)  
+[Hot Ridez](http://www.hotridez.net/)  
+[PURE Motorsport](http://www.purems.com/)  
+[Mattman Enterprises Co. LLC](http://www.mattman-enterprises.com/)  
 [GetCoolParts.com](http://www.getcoolparts.com/)  
-[Just E Print](http://www.justeprint.com/bcdefault.aspx?RefID=180)  
-[K&N Engineering, Inc.](http://www.knfilterchargers.com/ads/ad.aspx?id=115)  
-[Magazines 4 Cheap](http://www.mags4cheap.com/magazines/index.php/cPath/112/referral/rcristel)  
-[RENN-ART, Inc.](http://www.renn-art.com/)  
-[Royal Purple](http://www.royalpurple.com/video/video.html)
+[K&N Engineering, Inc.](http://knfilters.com/ads/ad.aspx?ID=657)  
+[German Parts Online](http://www.germanpartsonline.com/)  
+[Autohaus Arizona, Inc](http://www.autohausaz.com/)
