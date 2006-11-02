@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newwest.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614202322id_/http%3A//www.newwest.net/index.php/plain/entry/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newwest.net privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102042626id_/http%3A//www.newwest.net/index.php/plain/entry/privacy_policy) for the most accurate reproduction.*
 
 # New West Network | Privacy Policy
 
-| 
+## Privacy Policy
 
 Welcome to www.newwest.net (the "Website") operated by New West Publishing LLC ("New West", "We", "Us" or "Our"). This Privacy Policy (the "Policy") is designed to assist you in understanding how collect, use, and retain personally identifiable information ("PII") you provide to Us through the Website, and to assist you in making informed decisions when using the Website. This Policy may be updated in Our sole discretion in consideration of new business practices, technologies, and the needs of members of the public who visit the Website ("Visitors") and Visitors who submit material to the Website or otherwise provide Us with certain PII and who are thirteen (13) years of age or older ("Members"). If we make any material changes to the Policy, we will promptly post such changes.   
 The Website follows these principles in collecting and managing PII:
@@ -35,15 +35,3 @@ This is a general use Web site and is not geared to children. We do not knowingl
 
 
 Effective Date: February 18, 2005
-
-|  | 
-
-Most Commented Stories Last 7 Days
-
-  
-  
-  
-  
-  
-  
-
