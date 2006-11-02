@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warwick.ac.uk privacy policy that was archived on 2006-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060202232146id_/http%3A//www2.warwick.ac.uk/terms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warwick.ac.uk privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102034917id_/http%3A//www2.warwick.ac.uk/terms%23privacy) for the most accurate reproduction.*
 
 # Web site terms and conditions, University of Warwick
 
@@ -30,10 +30,10 @@ It is also important to point out that in certain circumstances the University m
 
 If you use web applications at Warwick other than as a reader, then some additional information about your activities may be stored.  This list of Warwick web applications explains what additional data is stored for each application:-
 
-  * [SiteBuilder](https://web.archive.org/web/20060202232146id_/http://www2.warwick.ac.uk/terms/sitebuilder/)
-  * [Warwick Forums](https://web.archive.org/web/20060202232146id_/http://www2.warwick.ac.uk/terms/forums/)
-  * [Online Module Registration](https://web.archive.org/web/20060202232146id_/http://www2.warwick.ac.uk/terms/omr/)
-  * [Exam timetables](https://web.archive.org/web/20060202232146id_/http://www2.warwick.ac.uk/terms/exams/)
-  * [Mass mailing](https://web.archive.org/web/20060202232146id_/http://www2.warwick.ac.uk/terms/massmailing/)
+  * [SiteBuilder](http://www2.warwick.ac.uk/terms/sitebuilder/)
+  * [Warwick Forums](http://www2.warwick.ac.uk/terms/forums/)
+  * [Online Module Registration](http://www2.warwick.ac.uk/terms/omr/)
+  * [Exam timetables](http://www2.warwick.ac.uk/terms/exams/)
+  * [Mass mailing](http://www2.warwick.ac.uk/terms/massmailing/)
 
 
