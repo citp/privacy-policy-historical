@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617065617id_/http%3A//www.holidaytaxis.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaytaxis.com privacy policy that was archived on 2006-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061102042022id_/http%3A//www.holidaytaxis.com/about/privacy.php) for the most accurate reproduction.*
 
-# Holiday Taxis | Airport Transfers | Airport Taxi| Minibus & Limousines
+# Holiday Taxis | Airport Transfers | Airport Taxi | Minibus | Limousines
 
 |  |  |  |  |  |   
 ---  
@@ -18,6 +18,7 @@ NEWS...
 ---  
 [](https://web.archive.org/salesagents/newagent/ "New agents sign up")  
 [](https://secure.holidaytaxis.com/secure/bookings/bookingview.php "Booking confirmation")  
+[](https://web.archive.org/promotions/ "Promotional code")  
 [](https://web.archive.org/uk-quickquote.php)  
 | Quickquote  
 ---  
@@ -31,7 +32,7 @@ Note:  Please enter the exact date of arrival to ensure that you are quoted the 
 ---  
 |  | Privacy Policy  
 ---  
-Holiday Taxis is the trading name of Airport to Hotel (UK) Limited whose registered number is 4391036 and whose registered address is - First Floor, 30 Church Road, Burgess Hill, West Sussex, RH15 9AE. At Holiday Taxis we are committed to protecting your privacy and take the responsibility regarding the security of our customers� information very seriously. Please read the following for further details on our privacy policy.   
+Holiday Taxis is the trading name of Airport to Hotel (UK) Limited whose registered number is 4391036 and whose registered address is - 1st Floor, Martlet Heights, 49 The Martlets, Burgess Hill, West Sussex, RH15 9NN. At Holiday Taxis we are committed to protecting your privacy and take the responsibility regarding the security of our customers' information very seriously. Please read the following for further details on our privacy policy.   
 What information do we collect and how do we use it?  
 In order to process your booking we do require certain information. This will include the name of the person making the booking, address, telephone number, email address, and your credit card number and expiry date. We also need to establish your flight details, destination resort and accommodation. All of this information is collated for different reasons. Obviously we need to establish your holiday details to ensure your taxi is waiting for the correct flight and knows which hotel to take you to. Your telephone/Email address are required in to send your booking confirmation and contact you in the unlikely event of any changes prior to departure. We need your address to assist in processing your credit card transaction as proof of authentication helping prevent any potential fraudulent activity.  
 NB  
@@ -50,7 +51,7 @@ Your Consent
 By using the Holiday Taxis Web site, you consent to the collection and use of this information by Holiday Taxis in the ways outlined above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of the information that we collect, how we use it and in what circumstances we disclose it.  
 |  |   
 ---|---|---  
-[Sitemap](https://web.archive.org/sitemap.php) | [Press Articles](https://web.archive.org/about/pressindex.php) | [About Us](https://web.archive.org/about/aboutus.php) | [Privacy Policy](https://web.archive.org/about/privacy.php) | [Terms & Conditions](https://web.archive.org/about/terms.php) | [Shuttle Transfers](http://www.shuttletransfers.com/)  
+[Sitemap](https://web.archive.org/sitemap.php) | [Press Articles](https://web.archive.org/about/pressindex.php) | [About Us](https://web.archive.org/about/aboutus.php) | [Privacy Policy](https://web.archive.org/about/privacy.php) | [Terms & Conditions](https://web.archive.org/about/terms.php) | [Majorca Transfers](http://www.majorcataxis.com/)  
 
 
 #### [Copyright © 2006 Holiday Taxis, Airport Taxi, Minibus & Shuttle Transfers ](http://www.holidaytaxis.com/)
