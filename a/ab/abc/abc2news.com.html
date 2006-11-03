@@ -1,0 +1,489 @@
+<!--The following is the downloaded HTML source of the abc2news.com privacy policy that was archived on 2006-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061103235420id_/http%3A//abc2news.com/privacy.html) for the most accurate reproduction.-->
+
+<html><!-- InstanceBegin template="/Templates/genericPage.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>WMAR-TV/DT ABC2 Baltimore</title>
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="http://img.video.ap.org/p/j/apovn.js "></script>
+
+<script type="text/JavaScript">
+<!--
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function MM_timelinePlay(tmLnName, myID) { //v1.2
+  //Copyright 1998, 1999, 2000, 2001, 2002, 2003, 2004 Macromedia, Inc. All rights reserved.
+  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,propNum,theObj,firstTime=false;
+  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
+  tmLn = document.MM_Time[tmLnName];
+  if (myID == null) { myID = ++tmLn.ID; firstTime=true;}//if new call, incr ID
+  if (myID == tmLn.ID) { //if Im newest
+    setTimeout('MM_timelinePlay("'+tmLnName+'",'+myID+')',tmLn.delay);
+    fNew = ++tmLn.curFrame;
+    for (i=0; i<tmLn.length; i++) {
+      sprite = tmLn[i];
+      if (sprite.charAt(0) == 's') {
+        if (sprite.obj) {
+          numKeyFr = sprite.keyFrames.length; firstKeyFr = sprite.keyFrames[0];
+          if (fNew >= firstKeyFr && fNew <= sprite.keyFrames[numKeyFr-1]) {//in range
+            keyFrm=1;
+            for (j=0; j<sprite.values.length; j++) {
+              props = sprite.values[j]; 
+              if (numKeyFr != props.length) {
+                if (props.prop2 == null) sprite.obj[props.prop] = props[fNew-firstKeyFr];
+                else        sprite.obj[props.prop2][props.prop] = props[fNew-firstKeyFr];
+              } else {
+                while (keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]) keyFrm++;
+                if (firstTime || fNew==sprite.keyFrames[keyFrm-1]) {
+                  if (props.prop2 == null) sprite.obj[props.prop] = props[keyFrm-1];
+                  else        sprite.obj[props.prop2][props.prop] = props[keyFrm-1];
+        } } } } }
+      } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
+      if (fNew > tmLn.lastFrame) tmLn.ID = 0;
+  } }
+}
+
+function MM_timelineGoto(tmLnName, fNew, numGotos) { //v2.0
+  //Copyright 1998, 1999, 2000, 2001, 2002, 2003, 2004 Macromedia, Inc. All rights reserved.
+  var i,j,tmLn,props,keyFrm,sprite,numKeyFr,firstKeyFr,lastKeyFr,propNum,theObj;
+  if (document.MM_Time == null) MM_initTimelines(); //if *very* 1st time
+  tmLn = document.MM_Time[tmLnName];
+  if (numGotos != null)
+    if (tmLn.gotoCount == null) tmLn.gotoCount = 1;
+    else if (tmLn.gotoCount++ >= numGotos) {tmLn.gotoCount=0; return}
+  jmpFwd = (fNew > tmLn.curFrame);
+  for (i = 0; i < tmLn.length; i++) {
+    sprite = (jmpFwd)? tmLn[i] : tmLn[(tmLn.length-1)-i]; //count bkwds if jumping back
+    if (sprite.charAt(0) == "s") {
+      numKeyFr = sprite.keyFrames.length;
+      firstKeyFr = sprite.keyFrames[0];
+      lastKeyFr = sprite.keyFrames[numKeyFr - 1];
+      if ((jmpFwd && fNew<firstKeyFr) || (!jmpFwd && lastKeyFr<fNew)) continue; //skip if untouchd
+      for (keyFrm=1; keyFrm<numKeyFr && fNew>=sprite.keyFrames[keyFrm]; keyFrm++);
+      for (j=0; j<sprite.values.length; j++) {
+        props = sprite.values[j];
+        if (numKeyFr == props.length) propNum = keyFrm-1 //keyframes only
+        else propNum = Math.min(Math.max(0,fNew-firstKeyFr),props.length-1); //or keep in legal range
+        if (sprite.obj != null) {
+          if (props.prop2 == null) sprite.obj[props.prop] = props[propNum];
+          else        sprite.obj[props.prop2][props.prop] = props[propNum];
+      } }
+    } else if (sprite.charAt(0)=='b' && fNew == sprite.frame) eval(sprite.value);
+  }
+  tmLn.curFrame = fNew;
+  if (tmLn.ID == 0) eval('MM_timelinePlay(tmLnName)');
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="000000" leftmargin="0" topmargin="0" marginwidth="0 " marginheight="0">
+<!-- SiteCatalyst code version: G.7.
+Copyright 1997-2004 Omniture, Inc. More info available at
+http://www.omniture.com --><script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+var s_pageName=""
+var s_server=""
+var s_channel=""
+var s_pageType=""
+var s_prop1=""
+var s_prop2=""
+var s_prop3=""
+var s_prop4=""
+var s_prop5=""
+/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
+//--></script><script language="JavaScript" src="http://new.wmar.com/includes/s_code_remote.js"></script>
+<!-- End SiteCatalyst code version: G.7. -->
+<a name="top"></a>
+<div id="news" style="position:absolute; z-index:1; left: 84px; top: 147px; overflow: auto; visibility: hidden;">
+  <table width="150" border="0" cellpadding="0" cellspacing="0" class="DropDownMenuLinks">
+    
+
+    <tbody><tr>
+      <td><a href="http://www.abc2news.com/vid-archive.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Video</a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/stream.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Live Video </a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/investigators.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Investigators</a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/call2Action/" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Call 2 Action </a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/dontwastemoney.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Don't Waste Your Money </a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/health.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Health</a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/clickOnGlick/" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Click on Glick </a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/links/links.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Links</a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.mrfood.com/" target="_blank" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Recipes</a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/pets-spca.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Pet Adoption </a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/talentBios/talentbios2.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Talent Bios </a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/teenMedia/teenMedia.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Teen Media </a></td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="weather" style="position:absolute; z-index:2; left: 132px; top: 147px; overflow: auto; visibility: hidden;">
+  <table width="150" border="0" cellpadding="0" cellspacing="0" class="DropDownMenuLinks">
+    
+
+    <tbody><tr>
+      <td><a href="http://wmar.iewatershed.com/" target="_blank" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Save Our Shores </a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/weather-radar.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Live Radar </a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/weather/7dayForecast.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">7-day forecast </a></td>
+    </tr>
+    <tr>
+      <td><a href="http://video.weatherbug.com/default.aspx?clipType=wvpvc&amp;&amp;zip=%25%25KEYWORDZ3%25%25&amp;pc=z4241" target="_blank" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Norm's Video Forecast </a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="weatherclosings" style="position:absolute; z-index:3; left: 206px; top: 146px; overflow: auto; visibility: hidden;">
+  <table width="150" border="0" cellpadding="0" cellspacing="0" class="DropDownMenuLinks">
+    
+
+    <tbody><tr>
+      <td><a href="http://www.abc2news.com/weatherclosings.html#schools" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Schools</a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/weatherclosings.html#businesses" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Businesses</a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/weatherclosings.html#churches" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Churches</a></td>
+    </tr>
+  </tbody></table>
+</div>
+
+
+<div id="traffic" style="position:absolute; z-index:4; left: 351px; top: 146px; overflow: auto; visibility: hidden;">
+  <table width="150" border="0" cellpadding="0" cellspacing="0" class="DropDownMenuLinks">
+    
+    <tbody><tr>
+      <td><a href="http://www.traffic.com/Baltimore-Traffic/Baltimore-Traffic-Reports.html?source=refresh&amp;rand=0.5727230461159265" target="_blank" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Live Reports </a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/liveTrafficCams.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Live Traffic Cams </a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="tvlistings" style="position:absolute; z-index:5; left: 588px; top: 147px; overflow: auto; visibility: hidden;">
+  <table width="150" border="0" cellpadding="0" cellspacing="0" class="DropDownMenuLinks">
+    
+    <tbody><tr>
+      <td><a href="http://www.abc2news.com/schedule.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Schedule</a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/specials.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Specials</a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="contact" style="position:absolute; z-index:6; left: 651px; top: 170px; overflow: auto; visibility: hidden;">
+  <table width="150" border="0" cellpadding="0" cellspacing="0" class="DropDownMenuLinks">
+    
+    <tbody><tr>
+      <td><a href="http://www.abc2news.com/talentBios/talentbios.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Reporters &amp; News Staff </a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/contactus.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Departments </a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.abc2news.com/newsTips.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">News Tips </a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="internships" style="position:absolute; z-index:7; left: 356px; top: 170px; overflow: auto; visibility: hidden;">
+  <table width="150" border="0" cellpadding="0" cellspacing="0" class="DropDownMenuLinks">
+    
+    <tbody><tr>
+      <td><a href="http://www.abc2news.com/teenMedia/teenMedia.html" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Teen Media</a>
+	  
+	  </td>
+    </tr>
+   
+  </tbody></table>
+</div>
+
+<div id="blogs" style="position:absolute; z-index:8; left: 596px; top: 170px; overflow: auto; visibility: hidden;">
+  <table width="150" border="0" cellpadding="0" cellspacing="0" class="DropDownMenuLinks">
+    
+    <tbody><tr>
+      <td><a href="http://www.abc2news.com/blog/costello/" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Jamie’s Baltimore</a>
+	  </td>
+    </tr>
+   <tr>
+      <td><a href="http://www.abc2news.com/blog/bth/" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Between the Headlines</a>
+	  </td>
+    </tr>
+	<tr>
+      <td><a href="http://www.abc2news.com/blog/abc2/" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">Weather Blog</a>
+	  </td>
+    </tr>
+	<tr>
+      <td><a href="http://www.abc2news.com/blog/antag/" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">The Antagonist</a>
+	  </td>
+    </tr>
+	<tr>
+      <td><a href="http://www.abc2news.com/blog/aftr-buzzr/" onmouseover="MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">ABC2 Sports Blog</a>
+	  </td>
+    </tr>
+  </tbody></table>
+</div>
+<table width="990" border="0" cellpadding="0" cellspacing="0">
+
+ <tbody><tr>
+  <td background="http://www.abc2news.com/Images/TopBar.jpg" width="990" height="108" bgcolor="0000FF" valign="CENTER" align="RIGHT">
+ <script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/site=baltimore&amp;adsize=468x60&amp;PagePos=1"></script>
+</td>
+ </tr>
+
+ <tr>
+  <td background="http://www.abc2news.com/Images/MainMenuBG.gif" width="990" height="23" bgcolor="0000FF"><center class="headerMenu">
+    <a href="http://www.abc2news.com/index.html" class="headerMenu" onmouseover="MM_timelineGoto('Timeline1','40')">HOME</a> | <a href="http://www.abc2news.com/news.html" class="headerMenu" onmouseover="MM_showHideLayers('news','','show','weather','','hide','weatherclosings','','hide','traffic','','hide','tvlistings','','hide','blogs','','hide','contact','','hide');MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">NEWS</a> | <a href="http://www.abc2news.com/weather.html" class="headerMenu" onmouseover="MM_showHideLayers('news','','hide','weather','','show','weatherclosings','','hide','traffic','','hide','tvlistings','','hide','internships','','hide','blogs','','hide','contact','','hide');MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">
+	WEATHER</a> | <a href="http://www.abc2news.com/weatherclosings.html" class="headerMenu" onmouseover="MM_showHideLayers('news','','hide','weather','','hide','weatherclosings','','show','traffic','','hide','tvlistings','','hide','internships','','hide','blogs','','hide','contact','','hide');MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">
+	WEATHER CLOSINGS</a>  | <a href="http://www.abc2news.com/traffic.html" class="headerMenu" onmouseover="MM_showHideLayers('news','','hide','weather','','hide','weatherclosings','','hide','traffic','','show','tvlistings','','hide','internships','','hide','blogs','','hide','contact','','hide');MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">TRAFFIC</a> | <a href="http://www.abc2news.com/sports.html" class="headerMenu" onmouseover="MM_timelineGoto('Timeline1','40')">SPORTS</a> | <a href="http://www.abc2news.com/MedStar.html" class="headerMenu">
+	</a><a href="http://www.abc2news.com/demo06/" class="headerMenu" onmouseover="MM_timelineGoto('Timeline1','40')">DEMOCRACY 06</a> |
+	<a href="http://www.abc2news.com/tvlistings.html" class="headerMenu" onmouseover="MM_showHideLayers('news','','hide','weather','','hide','weatherclosings','','hide','traffic','','hide','tvlistings','','hide','internships','','hide','blogs','','hide','contact','','hide');MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">
+	TV LISTINGS </a> | <a href="http://www.abc2news.com/communityEvents/" class="headerMenu" onmouseover="MM_timelineGoto('Timeline1','40')">COMMUNITY EVENTS</a><a href="http://www.abc2news.com/talentBios/talentbios.html" class="headerMenu"></a> |  <a href="http://new.wmar.com/games.html" class="headerMenu" onmouseover="MM_timelineGoto('Timeline1','40')">GAMES</a><a href="http://www.abc2news.com/investigators.html" class="headerMenu"></a> | <a href="http://www.abc2news.com/contest/contest.html" class="headerMenu" onmouseover="MM_timelineGoto('Timeline1','40')">CONTESTS</a><a href="#" class="headerMenu"></a> 
+  </center></td>
+ </tr>
+
+ <tr>
+  <td background="http://www.abc2news.com/Images/MainMenuBG.gif" width="990" height="23" bgcolor="0000FF"><center class="headerMenu">
+    <a href="http://jobs.scripps.com/?division=1&amp;location=32&amp;department=&amp;keywords=&amp;jobId=&amp;search=Search" target="_blank" class="headerMenu" onmouseover="MM_timelineGoto('Timeline1','40')">EMPLOYMENT</a> | <a href="http://www.abc2news.com/internships/internships.html" class="headerMenu" onmouseover="MM_showHideLayers('news','','hide','weather','','hide','weatherclosings','','hide','traffic','','hide','tvlistings','','hide','internships','','show','blogs','','hide','contact','','hide');MM_timelineGoto('Timeline1','1')" onmouseout="MM_timelineGoto('Timeline1','6')">
+	INTERNSHIPS</a> | <a href="http://www.abc2news.com/eeo/eeo.html" class="headerMenu" onmouseover="MM_timelineGoto('Timeline1','40')">EEO </a><a href="http://www.abc2news.com/communityEvents/communityEvents.html" class="headerMenu"></a> | <a href="http://www.abc2news.com/links/links.html" class="headerMenu" onmouseover="MM_timelineGoto('Timeline1','40')">LINKS</a> 
+   
+  | <span class="headerMenu"><a href="http://www.abc2news.com/health/health.html" class="headerMenu">HEALTH</a>  </span>
+  
+  |  <span class="headerMenu"><a href="http://www.abc2news.com/blog/" class="headerMenu" onmouseover="MM_timelineGoto('Timeline1','1');MM_showHideLayers('news','','hide','weather','','hide','weatherclosings','','hide','traffic','','hide','tvlistings','','hide','internships','','hide','blogs','','show','contact','','hide')" onmouseout="MM_timelineGoto('Timeline1','6')"> BLOGS</a></span> 
+  
+  |  <span class="headerMenu"><a href="http://www.abc2news.com/contactus.html" class="headerMenu" onmouseover="MM_timelineGoto('Timeline1','1');MM_showHideLayers('news','','hide','weather','','hide','weatherclosings','','hide','traffic','','hide','tvlistings','','hide','internships','','hide','blogs','','hide','contact','','show')" onmouseout="MM_timelineGoto('Timeline1','6')"> CONTACT US</a></span>
+  
+  </center>   </td>
+ </tr>
+ <tr>
+  <td width="990" class="interiorBackground">
+<table width="918" border="0" align="CENTER" cellpadding="7" cellspacing="0">
+ <tbody><tr>
+  <td valign="top"><table width="754" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td width="751" valign="top" bgcolor="FFFFFF"><table width="100%" height="100" border="0" cellpadding="7" cellspacing="0">
+          <tbody><tr>
+            <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr width="100%" height="23">
+                  <td background="Images/TitleBarBG.gif">&nbsp;<img src="Images/ABC2_small.gif" border="0" height="15" valign="center"><span class="AreaTitle01"><!--PHONE HEADLINE--><!-- InstanceBeginEditable name="PageTitleArea" -->Privacy Statement<!-- InstanceEndEditable --><!--/PHONE HEADLINE--></span></td>
+                </tr>
+                <tr>
+                  <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td valign="top"><br>
+                            <!-- InstanceBeginEditable name="Content" -->
+                        <p align="center" class="title06"> Scripps.com Privacy Policy </p>
+                        <p> Scripps.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At Scripps.com we intend to give you as much control as possible over your personal information. </p>
+                        <p> The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. By your use of our site(s) you signify your assent to this privacy policy. If you do not asset to this privacy policy, you are not permitted to use our site(s). By your use of our site(s) following posted changes to this privacy policy, you signify your asset to those changes. </p>
+                        <p> Our site(s) may contain links to other web sites, including web sites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the web site sponsor when linking to other web sites. </p>
+                        <p class="title04"> I. Information Which We Collect </p>
+                        <p> We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for purposes such as correspondence, making a purchase, or participating in online contests, surveys or games. If you choose to give us personal information via the Internet that we or our business partners may need -- to correspond with you, process an order or provide you with a subscription, for example -- it is our intent to let you know how we will use such information. </p>
+                        <p> Like many other commercial sites, our <strong>site(s)</strong> may utilize a standard technology called a "cookie" to collect information about how our site is used. Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. <strong>A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address.</strong> Our web <strong>site(s)</strong> may use cookies to enhance your visit. Cookies can securely store a user's password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart." Our cookies may collect your domain name and track your selections through our web pages. We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent. </p>
+                        <p> We also use cookies in connection with our chat rooms in order to record your preferences. These cookies automatically store information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms. No additional identifying information is stored on these cookies. You also have the option of choosing to allow us to use a cookie to store your username, or "handle" and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site. </p>
+                        <p> We may require you to supply us with personal information (demographic information such as average age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site. For example, you may be required to register to use chat rooms, forums, to access archival stories, to subscribe to newspapers, and to access other features. We use this general information to aggregate information according to demographics, such as gender, geographic location, age, income or a combination of these or other demographics. </p>
+                        <p> In addition, users may complete a subscription form online in order to subscribe to any of our affiliate news sites. To subscribe, users must submit personal information in order for us to send the newspaper to you. </p>
+                        <p class="title04"> II. Use of User Information</p>
+                        <p> We may perform statistical analyses of aggregate user behavior. This allows us to measure relative consumer interest in the various areas of our web sites for product development purposes. Any information we collect is used for its own internal purposes to improve the content of the web sites, to enhance users' experiences when visiting our site(s), to customize the content and/or layout of our pages, and to provide the services required by an individual user. We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested. We never send e-mail to you unless you request a particular service, or consent to being contacted by e-mail. There are instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but this will be done only with your permission and consent. </p>
+                        <p class="title04"> III. Disclosure to Third Parties </p>
+                        <p> We do not share personal identifying information with any third party without your permission. We disclose only in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some instances, we operate shared web sites with businesses affiliated with us. Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others. </p>
+                        <p class="title04"> III. (A) Compliance with Legal Process</p>
+                        <p> We may disclose personal information in special cases when we believe that disclosing information is necessary to identify, contact or bring legal action against someone who may be causing injury to our interference with our site(s), other users of our site(s), anyone else who could be harmed by such activities, or where we are required to do so by court order to applicable law. We reserve the right to disclose personal information when we believe, in good faith, that the law requires it. </p>
+                        <p class="title04"> IV. Accuracy of User Information </p>
+                        <p> In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. To the extent that such information is also stored in other databases, we cannot always ensure that such correction or deletion will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or correct in our records. </p>
+                        <p class="title04"> V. Security of Information </p>
+                        <p> We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it. </p>
+                        <p class="title04"> VI. Contacting Us; Opting-out </p>
+                        <p> Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to Bob Benz, or you can reach us by telephone at <strong>(865) 971-5920</strong>. You can also write us at: </p>
+                        <p><strong> Scripps.com <br>
+  500 W. Summit Hill Drive<br>
+  5th Floor <br>
+  Knoxville, TN 37902</strong></p>
+                        <p> We reserve the right to change this policy at any time, and will post notice of such changes on a page of the site entitled “Legal Notice”. </p>
+                        <p> At any time while assessing our site(s), any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our site(s)). For further information about opting-out, contact us at the e-mail address, postal address or telephone number stated above. VII. Use of Materials </p>
+                        <p> The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at Bob Benz. To link to the full Terms of Use Agreement pertaining to use of our site(s), please click here. </p>
+                        <p> LEGAL </p>
+                        <p> Legal Notice </p>
+                        <p> While we have endeavored to ensure the accuracy of information presented in this site, The E.W. Scripps Company is not liable for any errors or omissions or for updating the information. </p>
+                        <p> Please note, the information in this site is subject to change without notice. </p>
+                        <p> The Privacy Policy was modified on 09/__/2005 and is effective as of 09/__/2005. </p>
+                        <p> The User Agreement was modified on 09/__/2005 and is effective as of 09/__/2005. </p>
+                        <p> USER AGREEMENT </p>
+                        <p> All materials on this site ©2000 Scripps.com or used with permission. All rights reserved. Scripps.com® is a registered trademark of the Company. </p>
+                        <p> Terms of Use </p>
+                        <p> Use of this site signifies your agreement with the following terms of use. If you do not agree with any of these terms of use, please do not use this site. Scripps.com (the "Company") reserves the right, in its sole discretion, to modify these Terms of Use at any time and you agree to be bound by such modifications through your use of the Company. s site. </p>
+                        <p> TRADEMARKS, COPYRIGHTS &amp; RESTRICTIONS </p>
+                        <p> All materials on this site, including, but not limited to, images, illustrations, audio clips, video clips (the "Materials") are protected by copyrights which are owned or licensed by the Company. You may not reproduce, perform, create derivative works from, republish, upload, post, transmit, or distribute in any way whatsoever any Materials from http://www.Scripps.com or any other web site owned or operated by the Company without the prior written permission of the Company. However, you may download or make one copy of the Materials, and other downloadable items displayed on the site, for personal non-commercial home use only, provided all copyright and other notices contained in the Materials are left intact. Any modification of the Materials, or any portion thereof, or use of the Materials for any other purpose constitutes an infringement of the Company. s copyrights and other proprietary rights. Use of these Materials on any other web site or other networked computer environment is prohibited without prior written permission from the Company. </p>
+                        <p> SUBMISSIONS </p>
+                        <p> Although comments and questions are welcomed, the Company does not accept unsolicited submissions or creative ideas for its Company programs, newspapers, or products. Any bulletin board postings, messages, suggestions, ideas, or concepts that are submitted shall become, and remain, the property of the Company. Furthermore, the Company is not responsible for the confidentiality of any information communicated to the Company web site. By communicating Materials to the Company. s site, you are granting the Company a royalty-free, non-exclusive, perpetual, unrestricted, worldwide license to publish, transmit, perform and display the Materials for any purpose, including, but not limited to, advertising and promotional purposes. </p>
+                        <p> The Company is not responsible for any Materials posted on the Company bulletin boards or on any other forum on the site (the "Forums"). You agree not to upload, transmit, distribute or otherwise publish in these or any other Forums connected with the Company any Materials which are: </p>
+                        <p> 1. libelous, defamatory, obscene, abusive, pornographic, threatening, or an invasion of privacy; </p>
+                        <p> 2. an infringement of the intellectual property rights, including, but not limited to, copyrights and trademarks, of any person or entity; </p>
+                        <p> 3. illegal in any way or which advocate illegal activity; </p>
+                        <p> 4. an advertisement or solicitation of funds, goods, or services. </p>
+                        <p> The Company does not and cannot review or monitor every posting made on its web site and on the Forums, and is not responsible as such for the content of such postings. However, the Company reserves the right at all times to disclose any information necessary in its sole discretion to satisfy any law, regulation or governmental request, or to edit, refuse to post or remove any information or Materials, in whole or in part, that in the Company. sole discretion are objectionable or in violation of these terms and conditions. </p>
+                        <p> LINKS </p>
+                        <p> The Company is not responsible for the content of any sites which may be linked to www.Scripps.com. These links are provided for your convenience only and you access them at your own risk. </p>
+                        <p> DISCLAIMERS </p>
+                        <p> By using this web site and/or posting Materials, you agree to indemnify the Company, its officers, directors, employees, agents, distributors and affiliates for any and all claims, damages, losses and causes of action arising out of your breach or alleged breach of this agreement. </p>
+                        <p> THE MATERIALS ON THIS SITE ARE TRANSMITTED AND DISTRIBUTED "AS IS" AND APPEAR ON THE SITE WITHOUT EXPRESS OR IMPLIED WARRANTIES OF ANY KIND, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE, IMPLIED WARRANTIES OF MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. THE COMPANY MAKES NO WARRANTY AS TO THE QUALITY, ACCURACY, COMPLETENESS AND VALIDITY OF ANY MATERIALS ON THE WEB SITE AND DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED ON THE WEB SITE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS WILL BE CORRECTED. Where applicable law does not allow the exclusion of implied warranties, the foregoing exclusions may not apply to you. </p>
+                        <p> The Materials provided on this web site are for entertainment and promotional purposes only. Information and opinions expressed in bulletin boards or other Forums are not necessarily those of the Company. Neither the Company, nor its officers, directors, employees, agents, distributors or affiliates are responsible or liable for any loss damage (including, but not limited to, actual, consequential, or punitive), liability, claim, or other injury or cause related to or resulting from any information posted on the Company. s web site. </p>
+                        <p> TERMINATION </p>
+                        <p> The Company may, in its sole discretion, terminate or suspend your access to all or part of the site, including, but not limited to, any bulletin boards on its site, for any reason, including without limitation, breach of this agreement. In the event this agreement is terminated, the restrictions regarding Materials appearing on the site, and the representations and warranties, indemnities, and limitations of liabilities set forth in this agreement shall survive any such termination. </p>
+                        <p> JURISDICTION </p>
+                        <p> This site is controlled and operated by the Company from the Company's headquarters in Cincinnati, OH. The Company does not represent or warrant that Materials on the site are appropriate or available for use in other locations. If you choose to access this site from other locations, you do so at your own risk and are responsible for compliance with any and all local laws. </p>
+                        <p> This agreement shall be governed by and construed in accordance with the laws of the State of Ohio, as it is applied to agreements entered into and performed within that State. Any action brought to enforce this agreement or matters related to the site shall be brought in either the State or Federal Courts of The United States of America. If any provision of this agreement is deemed void, unlawful or otherwise unenforceable for any reason, that provision shall be severed from this agreement and the remaining provisions of this agreement shall remain in force. This contains the entire agreement between you and the Company concerning your use of the site. Company may modify the terms of this Agreement by posting notice of such modifications on a page of the site entitled “Legal Notice”. </p>
+                        <table width="100%" border="0" cellspacing="10" cellpadding="0">
+                          <tbody><tr>
+                            <td><div align="right"><a href="contest/amtrak-rules.html">I agree</a> </div></td>
+                            <td><a href="index.html">I disagree </a></td>
+                          </tr>
+                        </tbody></table>
+                        <p>&nbsp;</p>
+                        <p align="center"><span class="bracket">[</span> <a href="#top" class="linkStyle01">top of page</a><span class="bracket"> ]</span></p>
+                        <p></p>
+                        <p>&nbsp;</p>
+                        <p>&nbsp; </p>
+                        <!-- InstanceEndEditable --></td>
+                      </tr>
+                  </tbody></table></td>
+                </tr>
+            </tbody></table></td>
+          </tr>
+      </tbody></table></td>
+      <td bgcolor="999999" width="2"></td>
+    </tr>
+    <tr>
+      <td bgcolor="999999" width="313"></td>
+      <td bgcolor="999999" width="2"></td>
+    </tr>
+  </tbody></table>
+    <p></p></td>
+  <td width="136" valign="top">
+
+
+
+<table width="136" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr>
+  <td bgcolor="FFFFFF" width="134">
+<table border="0" cellspacing="0" cellpadding="7">
+ <tbody><tr>
+  <td>
+<a href="http://www.closecall.com" target="_blank"><img src="Images/ads/closecall.jpg" width="120" height="600" border="0"></a><br>
+<br>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="120" height="240" title="Save Our Shores WMAR ABC2 News">
+  <param name="movie" value="Images/ads/watershed.swf">
+  <param name="quality" value="high">
+  <embed src="Images/ads/watershed.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="120" height="240">
+</object></td>
+ </tr>
+</tbody></table></td>
+  <td bgcolor="999999" width="2"></td>
+ </tr>
+ <tr>
+  <td bgcolor="999999" width="134" height="2"></td>
+  <td bgcolor="999999" width="2" height="2"></td>
+ </tr>
+</tbody></table>
+
+
+
+  </td>
+ </tr>
+
+</tbody></table>
+  </td>
+ </tr>
+
+ <tr>
+  <td width="990" bgcolor="000000">
+<div align="center">
+<center>
+<table border="0" cellspacing="0" width="95%" cellpadding="4">
+ <tbody><tr>
+  <td width="1%" valign="top">
+<font face="Arial" size="2" color="FFFFFF"><img src="Images/lighthouse_small.gif" border="0" valign="center" align="center"></font></td>
+
+<td width="74%" valign="top"><p class="footerLinks">
+  <a href="index.html" title="Home" class="footerLinks">Home</a> | 
+  <a href="news.html" title="Weather" class="footerLinks">News</a> |
+  <a href="weather/weather.html" title="Weather" class="footerLinks">Weather</a> | 
+    <a href="weather/weatherclosings.html" title="Weather" class="footerLinks">Weather Closings</a> | 
+  <a href="traffic.html" title="Traffic" class="footerLinks">Traffic</a> | 
+  <a href="sports/index.html" title="Sports" class="footerLinks">Sports</a> |
+  <a href="demo-06.html" title="Programs" class="footerLinks">Democracy 06 </a> |  
+  <a href="tvlistings.html" title="Programs" class="footerLinks">TV Listings</a> |  
+  <a href="communityEvents/index.html" title="Talent Bios" class="footerLinks">Community Events</a> | 
+  <a href="games.html" title="Contests" class="footerLinks">Games</a> | 
+  <a href="contest/contest.html" title="Contests" class="footerLinks">Contests</a> | 
+    <a href="http://jobs.scripps.com/?division=1&amp;location=32&amp;department=&amp;keywords=&amp;jobId=&amp;search=Search" title="Contests" target="_blank" class="footerLinks">Employment</a> | 
+  <a href="internships/internships.html" title="Internships" class="footerLinks">Internships</a> | 
+  <a href="eeo/eeo.html" title="EEO" class="footerLinks">EEO</a> | 
+  <a href="links/links.html" title="Links" class="footerLinks">Links</a> | 
+  <a href="contactus.html" title="Contact Us" class="footerLinks">Contact Us</a> | 
+  <a href="mailto:newstips@wmar.com" title="News Tips" class="footerLinks">newstips@wmar.com</a>
+  
+  <br>
+  © 2006 Copyright All Rights Reserved. Site Users are subject to our <a href="privacy.html" class="footerLinks">Privacy Policy</a>. Other E.W. Scripps Web sites: <a class="footertext" href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  
+  <br>
+  <a class="footerLinks" href="http://www.foodtv.com/" target="_blank">Food Network</a> | 
+  <a class="footerLinks" href="http://www.diynet.com/" target="_blank">Do-It-Yourself Network</a> | 
+  <a class="footerLinks" href="http://www.fineliving.com/" target="_blank">Fine Living</a> | 
+  Comparison Shop for
+  <a class="footerLinks" title="Wedding Rings" href="http://www.shopzilla.com/8B--Rings__Wedding_Band_-_att306852--306853-__cat_id--30010106__rf--wma001" target="_new">Wedding Rings</a> and 
+  <a class="footerLinks" title="Housewares" href="http://www.shopzilla.com/7R--Home_Garden_-_cat_id--13000000__rf--wma001" target="_new">Housewares</a> at 
+  <a class="footerLinks" title="Shopzilla.com" href="http://www.shopzilla.com/index.xpml?rf=trc001" target="_new">Shopzilla</a> and 
+  <a class="footerLinks" title="BizRate.com" target="_new" href="http://www.bizrate.com/index__rf--trc001.html">BizRate.com</a> | 
+  <a class="footerLinks" title="Find a Dentist" target="_new" href="http://www.baltimoredentist.1888smileinfo.com/">Find a Dentist</a> </p>
+  <p class="footerLinks">&nbsp;</p></td>
+ </tr>
+</tbody></table>
+</center>
+</div>
+  </td>
+ </tr>
+
+</tbody></table>
+
+<!-- InstanceEnd --></body></html>
