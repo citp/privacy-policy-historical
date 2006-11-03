@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greydogsoftware.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619012028id_/http%3A//greydogsoftware.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greydogsoftware.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103202613id_/http%3A//www.greydogsoftware.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Grey Dog Software- Privacy Policy
+# Grey Dog Software
 
 Grey Dog Software Privacy Policy
 
