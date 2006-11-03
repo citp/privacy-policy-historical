@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212518id_/http%3A//dollsofindia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103153402id_/http%3A//dollsofindia.com/privacy.php) for the most accurate reproduction.*
 
 # Indian Art Store : Privacy Policy
-
-  
-
 
   
 
@@ -20,7 +17,7 @@ DollsOfIndia is committed to respecting and protecting your personal privacy. Ou
 
 **INFORMATION REMOVAL OR UPDATION**
 
-  * Users, whose email/contact information are with us, may choose not to receive any future mailings/services from us by either visiting <http://dollsofindia.com/unsubscribe.php> or by writing to [**optout@dollsofindia.com**](mailto:optout@dollsofindia.com). You may also contact us at our address or phone number provided below. By writing in to us you can:
+  * Users, whose email/contact information are with us, may choose not to receive any future mailings/services from us by either visiting <http://www.dollsofindia.com/unsubscribe.php> or by writing to [**optout@dollsofindia.com**](mailto:optout@dollsofindia.com). You may also contact us at our address or phone number provided below. By writing in to us you can:
     * Request us to remove any personally identifiable information with us. This also implies that there cannot be any form of checking from our side to any future subscriptions to our services/mailings to contact addresses (physical or email) which points to you.
     * Request us to block any future mailings to your contact addresses (physical or email).
   * Users, whose email/contact information are with us, may choose to update their contact information with us by writing to [**update@dollsofindia.com**](mailto:update@dollsofindia.com). You may also contact us at our address or phone number provided below.
