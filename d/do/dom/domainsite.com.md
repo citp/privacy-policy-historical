@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsite.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324144140id_/https%3A//www.domainsite.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsite.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104002630id_/http%3A//www.domainsite.com/privacy_policy.php) for the most accurate reproduction.*
 
 # DomainSite.com
 
