@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isell.com.au privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623113601id_/http%3A//www.isell.com.au/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isell.com.au privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103214338id_/http%3A//www.isell.com.au/html/privacy.htm) for the most accurate reproduction.*
 
 # iSell Online -- Privacy Policy
 
