@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the midnightbox.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210182926id_/http%3A//www.midnightbox.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midnightbox.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103032348id_/http%3A//www.midnightbox.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : MidnightBox.com, Play the game and save!
+# Privacy Notice : MidnightBox.com, Play the game and save! - A new deal every weekday.
 
 **Privacy Policy**
 
