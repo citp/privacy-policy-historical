@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the domainsite.com privacy policy that was archived on 2006-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060324144140id_/https%3A//www.domainsite.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the domainsite.com privacy policy that was archived on 2006-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061104002630id_/http%3A//www.domainsite.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -42,9 +42,45 @@ function selectall_cc() {
 		currentform.elements[i].value == "la" ||
 		currentform.elements[i].value == "hn" ||
 		currentform.elements[i].value == "sc" ||
-		currentform.elements[i].value == "vc"
+		currentform.elements[i].value == "vc" ||
+                currentform.elements[i].value == "co.in" ||
+                currentform.elements[i].value == "org.in" ||
+                currentform.elements[i].value == "firm.in" ||
+                currentform.elements[i].value == "gen.in" ||
+                currentform.elements[i].value == "eu"
 		)
 	{
+            if(currentform.elements[i].checked == false){
+                currentform.elements[i].checked = true;
+            }
+        }
+        }
+    }
+}
+
+function selectall_main() {
+    var currentform = window.document.form1;
+    for (i = 0; i < currentform.elements.length;i++) {
+        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
+        if (currentform.elements[i].value == "com" ||
+                currentform.elements[i].value == "net" ||
+                currentform.elements[i].value == "org" ||
+                currentform.elements[i].value == "biz" ||
+                currentform.elements[i].value == "info" ||
+                currentform.elements[i].value == "us" ||
+                currentform.elements[i].value == "ws" ||
+                currentform.elements[i].value == "bz" ||
+                currentform.elements[i].value == "cc" ||
+                currentform.elements[i].value == "tv" ||
+                currentform.elements[i].value == "co.uk" ||
+                currentform.elements[i].value == "org.uk" ||
+                currentform.elements[i].value == "name" ||
+                currentform.elements[i].value == "cn" ||
+                currentform.elements[i].value == "am" ||
+                currentform.elements[i].value == "fm"
+
+                )
+        {
             if(currentform.elements[i].checked == false){
                 currentform.elements[i].checked = true;
             }
@@ -87,6 +123,37 @@ function selectall_cnic() {
     }
 }
 
+function unselectall_main() {
+    var currentform = window.document.form1;
+    for (i = 0; i < currentform.elements.length;i++) {
+        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
+        if (currentform.elements[i].value == "com" ||
+                currentform.elements[i].value == "net" ||
+                currentform.elements[i].value == "org" ||
+                currentform.elements[i].value == "biz" ||
+                currentform.elements[i].value == "info" ||
+                currentform.elements[i].value == "us" ||
+                currentform.elements[i].value == "ws" ||
+                currentform.elements[i].value == "bz" ||
+                currentform.elements[i].value == "cc" ||
+                currentform.elements[i].value == "tv" ||
+                currentform.elements[i].value == "co.uk" ||
+                currentform.elements[i].value == "org.uk" ||
+                currentform.elements[i].value == "name" ||
+                currentform.elements[i].value == "cn" ||
+                currentform.elements[i].value == "am" ||
+                currentform.elements[i].value == "fm"
+)
+                {
+                    if(currentform.elements[i].checked == true){
+                        currentform.elements[i].checked = false;
+                    }
+                }
+        }
+    }
+}
+
+
 function unselectall_cc() {
     var currentform = window.document.form1;
     for (i = 0; i < currentform.elements.length;i++) {
@@ -109,7 +176,12 @@ function unselectall_cc() {
                 currentform.elements[i].value == "la" ||
                 currentform.elements[i].value == "hn" ||
                 currentform.elements[i].value == "sc" ||
-                currentform.elements[i].value == "vc"
+                currentform.elements[i].value == "vc" ||
+                currentform.elements[i].value == "co.in" ||
+                currentform.elements[i].value == "org.in" ||
+                currentform.elements[i].value == "firm.in" ||
+                currentform.elements[i].value == "gen.in" ||
+                currentform.elements[i].value == "eu"
 )
 		{
 		    if(currentform.elements[i].checked == true){
@@ -698,6 +770,7 @@ Registration</strong><center><hr></center></font>
                   Us</a> | <a target="_top" href="/faq.php" class="BodyText">FAQ</a>
                   | <a target="_top" href="/glossary.php" class="BodyText">Glossary</a>
                   | <a target="_top" href="/careers.php" class="BodyText">Careers</a>
+   <!--               | <a target='_top' href="/dotjobsregistration-sunrise.php" class="BodyText">.jobs</a>-->
 
 </td>
               </tr>
@@ -712,7 +785,7 @@ Registration</strong><center><hr></center></font>
 <a href="http://www.tld.io">ccTLD information</a>
 <br>
 ©2005 Spot Domain LLC, All Rights Reserved.
-(2
+(1
 )
 </td>
               </tr>
