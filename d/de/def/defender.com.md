@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defender.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509081733id_/http%3A//www.defender.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defender.com privacy policy that was archived on 2006-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061103083634id_/http%3A//www.defender.com/privacy.jsp) for the most accurate reproduction.*
 
 # Defender Privacy Statement
 
@@ -62,7 +62,7 @@
 > 
 > We collect and maintain an opt-in e-mail address list of consumers who wish to receive notices from us regarding special events and offers, but is not shared with other organizations.
 > 
-> If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or by visiting us at <http://www.defender.com/email_list.html>.
+> If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or by visiting us at <http://www.defender.com/email_list.jsp>.
 > 
 > **Confidentiality / Security**
 > 
