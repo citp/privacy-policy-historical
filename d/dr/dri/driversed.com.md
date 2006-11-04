@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the driversed.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316231933id_/http%3A//driversed.com/faq/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversed.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104141854id_/http%3A//www.driversed.com/faq/privacy_statement.aspx) for the most accurate reproduction.*
 
 # DriversEd.com Privacy Statement
+
+|   
+---  
+  
+| 
 
 |   
 ---  
@@ -15,7 +20,7 @@ Interactive Solutions, Inc. (DBA WebTrafficSchool.com, DriversEd.com)
   
 Date Revised: November 11, 2005 
 
-Interactive Solutions, Inc.is a licensee of the TRUSTe Privacy Program.TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [www.WebTrafficSchool.com](http://webtrafficschool.com/), [www.DriversEd.com](http://driversed.com/)[www.24x7DrivingSchool.com](http://24x7drivingschool.com/). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by [TRUSTe](http://truste.com/).
+Interactive Solutions, Inc.is a licensee of the TRUSTe Privacy Program.TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site [www.WebTrafficSchool.com](http://webtrafficschool.com/), [www.DriversEd.com](http://driversed.com/),[ www.24x7DrivingSchool.com](http://24x7drivingschool.com/). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by [TRUSTe](http://truste.com/).
 
 1\. What personally identifiable information of yours or third party personally identifiable information is collected from you through the web site.
 
@@ -40,9 +45,7 @@ Information Collection
 |  |   
 ---|---|---  
   
-WebTrafficSchool.com is the sole owner of the information collected on[www.WebTrafficSchool.com](http://webtrafficschool.com/). WebTrafficSchool collects information from our users during enrollment. Confidential information about you will not be provided to anyone other than yourself or the court that you have selected as responsible for your citation. Under no circumstances will we provide any details about you to junk emailers or other direct marketers. We only share your personally identifiable information with third parties only as outlined within this privacy policy or if required by law to do so. 
-
-Interactive Solutions, Inc. and The Learning Annex have entered into a trademark agreement exclusively and this is agreement is not to be construed as a partnership or joint venture, of any kind. No information, electronic or otherwise, is exchanged between Interactive Solutions, Inc. and The Learning Annex.  
+WebTrafficSchool.com is the sole owner of the information collected on[ www.WebTrafficSchool.com](http://webtrafficschool.com/). WebTrafficSchool collects information from our users during enrollment. Confidential information about you will not be provided to anyone other than yourself or the court that you have selected as responsible for your citation. Under no circumstances will we provide any details about you to junk emailers or other direct marketers. We only share your personally identifiable information with third parties only as outlined within this privacy policy or if required by law to do so.   
   
 | Registration |  |   
 ---|---|---  
@@ -172,7 +175,25 @@ Oakland, CA 94612
   
   
    
-|  |   
+|  |    
 ---  
-   
-Traffic or speeding ticket? Traffic school and Defensive Driving course.
+  
+| 
+
+My DriversEd  
+  
+  
+---  
+username:  
+|   
+password: |   
+|   
+[](https://web.archive.org/web/20061104141854id_/http%3A//www.driversed.com/myde/enroll_driver_education.aspx)  
+  
+| 
+
+| 
+
+|   
+  
+---|---
