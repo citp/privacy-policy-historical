@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anyhow5.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615055620id_/http%3A//www.anyhow5.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyhow5.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104225832id_/http%3A//www.anyhow5.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Arts and Crafts - Privacy policy: anyhow5.com
 
