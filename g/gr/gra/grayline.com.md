@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grayline.com privacy policy that was archived on 2006-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060421212208id_/http%3A//www.grayline.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grayline.com privacy policy that was archived on 2006-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061105000604id_/http%3A//www.grayline.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Sightseeing and tours around the world with Gray Line
 
