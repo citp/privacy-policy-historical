@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openwave.com privacy policy that was archived on 2006-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060405141855id_/http%3A//www.openwave.com/us/legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openwave.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104181919id_/http%3A//www.openwave.com/us/legal/privacy_policy.htm) for the most accurate reproduction.*
 
 # Openwave - Legal - Openwave Privacy Policy
 
@@ -58,15 +58,11 @@ The materials on this site are provided by Openwave Systems Inc. ("Openwave") fo
 
 Last modified July 15, 2004
 
-|  |  | | Related Links  
+|  |  | |   
+Related Links  
 ---|---  
    
-| | [Terms & Conditions](https://web.archive.org/us/legal/index.htm)  
-Read the Terms and Conditions of using the Openwave site.   
-| | [Trademarks](https://web.archive.org/us/legal/trademarks.htm)  
-A listing of Openwave's Trademarks and Service Marks.  
 | | [Contact Us](https://web.archive.org/us/about_openwave/contact_us/index.htm)  
-   
   
    
 
