@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justarticles.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615152956id_/http%3A//justarticles.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justarticles.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104063335id_/http%3A//justarticles.com/privacy.htm) for the most accurate reproduction.*
 
 # Web Content, Keyword Articles, Blog Design, SEO and Copywriting Services
 
@@ -29,4 +29,4 @@ We use the information you provide about yourself when submitting an information
 
 Please direct any "privacy policy" questions to Just Articles per the 
 
-[contact page](https://web.archive.org/web/20060615152956id_/http%3A//justarticles.com/contact.html) for Review and Response, Thank You
+[contact page](https://web.archive.org/web/20061104063335id_/http%3A//justarticles.com/contact.html) for Review and Response, Thank You
