@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowfares.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618065917id_/http%3A//lowfares.com/pages/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowfares.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104162418id_/http%3A//lowfares.com/pages/company/privacy.aspx) for the most accurate reproduction.*
 
 # Lowfares.com - Privacy Policy
 
