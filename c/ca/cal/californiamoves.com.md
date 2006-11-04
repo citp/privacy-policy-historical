@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the californiamoves.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605095015id_/http%3A//www.californiamoves.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiamoves.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104092546id_/http%3A//www.californiamoves.com/privacy.aspx) for the most accurate reproduction.*
 
 # Coldwell Banker Residential Brokerage presents CaliforniaMoves.com the real estate site serving all of Northern and Southern California, Los Angeles, the San Francisco Bay Area, San Diego, Sacramento, Orange County, Silicon Valley, Santa Barbara, San Jose, Ventura, Tahoe, Monterey
 
@@ -10,6 +10,8 @@ We at **Coldwell Banker Residential Brokerage** (referred to as **"Coldwell Bank
 To that end, Coldwell Banker gathers two types of information about You: 1) data that Users provide through optional, voluntary registration on Our Web Site, and 2) data that Coldwell Banker gathers through aggregated tracking, mainly by tallying Web pages that are viewed by Users throughout Our Web Site. 
 
 However, be assured that Coldwell Banker will not disclose Personal Information (as defined herein) to third parties without Your consent, except as may be noted in this Privacy Policy or disclosed to You when the information is submitted. 
+
+[Privacy Notice to California Customers](https://web.archive.org/web/20061104092546id_/http%3A//www.californiamoves.com/CaliforniaPrivacyPolicyRights.aspx)
 
 **_How Does Coldwell Banker Collect Information?_**
 
