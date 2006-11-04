@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trademe.co.nz privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615190629id_/http%3A//www.trademe.co.nz/Help/Topic.aspx%3Fhelp_id%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademe.co.nz privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104121438id_/http%3A//www.trademe.co.nz/Help/Topic.aspx%3Fhelp_id%3D145) for the most accurate reproduction.*
 
-# TradeMe.co.nz - New Zealand Online Auctions & Classifieds - Trade Me
+# TradeMe - New Zealand Online Auctions and Classifieds
 
 Trade Me has created this privacy statement in order to demonstrate our firm commitment to privacy. This document discloses our information gathering and usage practices. For additional information about Trade Me, please review our [ Terms and Conditions](https://web.archive.org/structure/helpdocs/terms_and_conditions.asp). 
 
@@ -23,7 +23,13 @@ Our site's registration form requires you to provide us contact information and 
 **Updating Your Personal Information**  
 Trade Me provides you with ways in which you can alter your personal data, including changing your email address, password, phone number, etc. Trade Me will store previous email addresses against your profile to ensure compliance with our [Terms and Conditions](https://web.archive.org/structure/helpdocs/terms_and_conditions.asp) \- specifically the use of one account per member. 
 
-**Control of Your Password.**  
+**Delivery Address Details**  
+Trade Me enables you to save one or more of your delivery addresses which we will store against your profile. When you buy an item you have the option of selecting a delivery address which we will then send to the seller. We will never give the seller your address without your permission. 
+
+**Payment Instructions Setup**  
+Trade Me enables you to save and send a standard payment instructions email to the successful buyer when your auction ends. When you set up each auction you can choose to have the saved message sent automatically or edit your message at that time. 
+
+**Control of Your Password**  
 You are responsible for all actions taken with your user name, email address and password, including fees. Therefore we do not recommend that you disclose your Trade Me password to any third parties. If you choose to share your user name, email address and password or your information with third parties to provide you additional services, you are responsible for all actions taken with this information and therefore you should review that third party's privacy policy. 
 
 **Credit Card Security**  
