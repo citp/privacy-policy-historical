@@ -1,0 +1,2334 @@
+<!--The following is the downloaded HTML source of the falconstudios.com privacy policy that was archived on 2006-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061104030134id_/http%3A//www.falconstudios.com/shop/privacyPolicy.jsp.cont%3FwebsiteName%3Dfalconstudios) for the most accurate reproduction.-->
+
+<html><head>
+<title>Falcon Family of Companies site</title>
+<link rel="stylesheet" type="text/css" href="css/falconStore.css">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+
+
+<script type="text/javascript">
+<!--
+
+self.name = "mainWin";
+
+var globalBGColor = 'e20021';
+var globalPageColor = '#FFFFFF';
+var globalTextColor = '#000000';
+
+var tabsArray = new Array();
+ 
+		tabsArray[0] = 'AboutFalcon';
+
+		tabsArray[1] = 'News';
+
+		tabsArray[2] = 'BeAModel';
+
+		tabsArray[3] = 'Shop';
+
+		tabsArray[4] = 'Members';
+
+
+
+	function getPPV(URL) {
+
+		//if (!is_mac) {			
+			window.open(URL, 'PPVWindow', 'toolbar=1,location=1,status=1,menubar=1,scrollbars=1,resizable=1,width=800,height=600');
+			window.open("logMeAndClose.jsp;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&groupname=PPVClickshop&string=", "LogAndClose", "width=100, height=100");
+		//} else {
+		//	alert('Due to limitations in Microsoft Media Player\'s Digital Rights Management software, FalconFlix are currently only available to Windows users.');
+		//}
+
+	}
+
+//-->
+</script>
+
+<style type="text/css">
+
+a:hover {
+	color: e20021;
+	text-decoration: none;
+}
+
+.coloredTabType {
+
+	color: #FFFFFF;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.coloredTabType:hover {
+
+	color: e20021;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.coloredMoreFont {
+
+	color: #000000;
+	font-size: 10px;
+	text-decoration: none;
+
+}
+
+
+
+.coloredMoreFont:hover {
+
+	color: e20021;
+	font-size: 10px;
+	text-decoration: none;
+
+}
+
+
+.coloredType11pt {
+
+	color: e20021;
+	font-size: 11px;
+	text-decoration: none;
+
+}
+
+.coloredType {
+
+	color: e20021;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+</style>
+
+<script src="jScripts/productBox.js" type="text/javascript"></script>
+<script src="jScripts/menuShop.js" type="text/javascript"></script>
+<script src="jScripts/button.js" type="text/javascript"></script>
+<script src="jScripts/products.js" type="text/javascript"></script>
+<script src="jScripts/modelStuff.js" type="text/javascript"></script>
+<script src="jScripts/sniffer2.js" type="text/javascript"></script>
+
+</head>
+
+<body leftmargin="10" marginheight="10" marginwidth="10" topmargin="10" bgcolor="#FFFFFF">
+
+
+
+
+<style type="text/css">
+.loginDivCSS {
+
+	POSITION:absolute;
+	VISIBILITY:hidden;
+	TOP:140px;
+	LEFT:100px;
+	width: 340;
+	height: 450;
+	z-Index: -1;
+}
+</style>
+<script>
+	function showLoginPanel() {
+		document.getElementById('loginDiv').style.zIndex = '3';
+		document.getElementById('qLoginUserN').innerHTML = '<INPUT onMouseOver="this.style.borderColor=\'e20021\'" onMouseOut="this.style.borderColor=\'#000000\'" onkeypress="if (event.keyCode == 13) {validateQLogin()}" class="inputField" TYPE="text" NAME="userid" ID="userid" VALUE=""><br><img src="images/falconStore/layoutImages/blank.gif" HEIGHT="3" WIDTH="1"><br>';
+		document.getElementById('qLoginPW').innerHTML = '<INPUT onMouseOver="this.style.borderColor=\'e20021\'" onMouseOut="this.style.borderColor=\'#000000\'" onkeypress="if (event.keyCode == 13) {validateQLogin()}" class="inputField" TYPE="password" NAME="passwd" ID="passwd" VALUE=""><br><img src="images/falconStore/layoutImages/blank.gif" HEIGHT="3" WIDTH="1"><br>';
+		document.getElementById('loginDiv').style.visibility = 'visible';
+
+//		alert("document.quickLogin="+document.quickLogin);
+//		alert("document.userid="+document.userid);
+//		alert("document.userid.value="+document.userid.value);
+
+		document.quickLogin.userid.focus();
+
+	
+	}
+
+	function hideLoginPanel() {
+		document.getElementById('loginDiv').style.zIndex = '-1';
+		document.getElementById('loginDiv').style.visibility = 'hidden';
+		if (document.getElementById('qLoginUserN')) {
+			document.getElementById('qLoginUserN').innerHTML = '';
+		}
+		if (document.getElementById('qLoginPW')) {
+			document.getElementById('qLoginPW').innerHTML = '';
+		}
+	}
+
+
+	function validateQLogin() {
+
+		document.quickLogin.loginTarget.value = document.location.href;
+
+//		alert("document.quickLogin="+document.quickLogin);
+//		alert("document.userid="+document.userid);
+//		alert("document.userid.value="+document.userid.value);
+
+		if (document.quickLogin.userid.value == '') {
+
+			alert('Please enter your user ID.');
+			document.quickLogin.userid.style.borderColor='e20021';
+			document.quickLogin.userid.focus();
+			return(false);
+
+		}
+		
+		if (document.quickLogin.passwd.value == '') {
+			alert('Please enter your user password.');
+			document.quickLogin.passwd.style.borderColor='e20021';
+			document.quickLogin.passwd.focus();
+			return(false);
+		}
+
+		document.quickLogin.submit();
+		return true;
+	}	
+
+	function validateQLogin2(whichLogin) {
+//		alert("validateQLogin2()");
+
+		if (whichLogin == 'shop') {
+			document.quickLogin2.loginTarget.value = document.location.href;
+			document.quickLogin2.action = 'quickLogin.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios';
+			document.quickLogin2.target = '_top';
+		} else {
+
+			//document.quickLogin2.loginTarget.value = 'http://www.falconstudios.com/shop/templates/t_shopMemberAutoLogin.jsp;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&reload=true';
+			document.quickLogin2.loginTarget.value = 'templates/t_shopMemberAutoLogin.jsp;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&reload=true';
+                        document.quickLogin2.action = 'quickLogin.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios';
+			document.quickLogin2.target = 'top';	
+		}
+
+		if (document.quickLogin2.userid.value == '') {
+
+			alert('Please enter your user ID.');
+			document.quickLogin2.userid.style.borderColor='e20021';
+			document.quickLogin2.userid.focus();
+			return(false);
+
+		}
+		
+		if (document.quickLogin2.passwd.value == '') {
+			alert('Please enter your user password.');
+			document.quickLogin2.passwd.style.borderColor='e20021';
+			document.quickLogin2.passwd.focus();
+			return(false);
+		}
+
+		document.quickLogin2.submit();
+
+	}	
+
+</script>
+<div id="loginDiv" class="loginDivCSS"> 
+  <table cellspacing="0" cellpadding="0" border="0" width="340" bgcolor="#FFFFFF">
+    <tbody><tr> 
+      <td height="1" colspan="5" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+    </tr>
+    <tr> 
+      <td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+      <td width="1" bgcolor="e20021"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+      <td height="1" bgcolor="e20021"> <table cellspacing="0" cellpadding="0" border="0" width2="100%" height2="18" bgcolor="#FFFFFF">
+          <tbody><tr> 
+            <td height="18" valign="TOP"> <table cellspacing="0" cellpadding="0" border="0" height2="18" class="mainFont" bgcolor="e20021">
+                <tbody><tr> 
+                  <td width="7"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="7"></td>
+                  <td class="whiteHeaderType">Quick&nbsp;Login</td>
+                  <td valign="BOTTOM"><img src="images/falconStore/layoutImages/whiteHeaderTabCorner.gif" height="11" width="11"></td>
+                  <td valign="BOTTOM" width="100%"> <table cellspacing="0" width2="100%" cellpadding="0" border="0" height2="11" class="mainFont" bgcolor="#FFFFFF">
+                      <tbody><tr> 
+                        <td><img src="images/falconStore/layoutImages/blank.gif" height="11" width="1"></td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+      <td width="1" bgcolor="e20021"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+      <td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+    </tr>
+    <tr> 
+      <td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+      <td width="1" bgcolor="e20021"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+      <td height="146" width="336" class="infoText" align="CENTER" valign="TOP">	
+
+        <table cellspacing="0" width2="90%" cellpadding="0" border="0" class="infoText" bgcolor="#FFFFFF">
+          <tbody><tr> 
+            <td colspan="2"> <img src="images/falconStore/layoutImages/blank.gif" height="10" width="1"><br>
+              To show member discount pricing in your shopping cart, enter your 
+              username and password then click <b>Login</b>.<br>
+              <img src="images/falconStore/layoutImages/blank.gif" height="10" width="1"><br> 
+            </td>
+          </tr>
+        </tbody></table>
+
+        <table cellspacing="0" cellpadding="0" border="0" class="infoText" bgcolor="#FFFFFF">
+          <form method="POST" name="quickLogin" action="quickLogin.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios"></form>		 
+            <tbody><tr> 
+              <td align="RIGHT">User Name:&nbsp;&nbsp;</td>
+              <td align="right" id="qLoginUserN"></td>
+            </tr>
+            <tr> 
+              <td align="RIGHT">Password:&nbsp;&nbsp;</td>
+              <td align="right" id="qLoginPW"></td>
+            </tr>
+			
+			 <input type="hidden" name="loginTarget" value="">
+
+            <tr> 
+              <td align="RIGHT">&nbsp;</td>
+              <td align="CENTER"> <img src="images/falconStore/layoutImages/blank.gif" height="5" width="1"><br> 
+                <table cellspacing="0" width2="100%" cellpadding="0" border="0" class="infoText" bgcolor="#FFFFFF">
+                  <tbody><tr> 
+                    <td bgcolor="#FFFFFF" width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+                    <td> <table cellspacing="0" cellpadding="0" border="0" width="1" bgcolor="#000000" onmouseover="buttonHoverOn('qLogin', globalBGColor)" onmouseout="buttonHoverOff('qLogin', '#000000')" onclick="validateQLogin()" style="cursor: pointer; cursor: hand;" id="qLogin">
+                        <tbody><tr> 
+                          <td colspan="4" height="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                          <td bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                        </tr>
+                        <tr> 
+                          <td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                          <td width="9" height="15" valign="CENTER" align="CENTER"><img src="images/falconStore/buttonsAndLogos/buttonArrow.gif" width="9" height="15"></td>
+                          <td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                          <td bgcolor="#FFFFFF" class="buttonText" id="qLoginText" width="100%" nowrap=""><img src="images/falconStore/layoutImages/blank.gif" height="1" width="3">Login</td>
+                          <td valign="TOP" width="3" align="LEFT"> <table cellspacing="0" cellpadding="0" border="0" width="3" height2="2">
+                              <tbody><tr> 
+                                <td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                                <td colspan="2" width="2" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                              </tr>
+                              <tr> 
+                                <td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                                <td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                                <td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                              </tr>
+                            </tbody></table>
+                            <img src="images/falconStore/buttonsAndLogos/buttonLine.gif" width="3" height="13"><br> 
+                          </td>
+                        </tr>
+                        <tr> 
+                          <td colspan="5" height="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                        </tr>
+                      </tbody></table></td>
+                    <td bgcolor="#FFFFFF" width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+                    <td> <table cellspacing="0" cellpadding="0" border="0" width="1" bgcolor="#000000" onmouseover="buttonHoverOn('cancelLogin', globalBGColor)" onmouseout="buttonHoverOff('cancelLogin', '#000000')" onclick="hideLoginPanel()" style="cursor: pointer; cursor: hand;" id="cancelLogin">
+                        <tbody><tr> 
+                          <td colspan="4" height="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                          <td bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                        </tr>
+                        <tr> 
+                          <td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                          <td width="9" height="15" valign="CENTER" align="CENTER"><img src="images/falconStore/buttonsAndLogos/buttonArrow.gif" width="9" height="15"></td>
+                          <td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                          <td bgcolor="#FFFFFF" class="buttonText" id="cancelLoginText" width="100%" nowrap=""><img src="images/falconStore/layoutImages/blank.gif" height="1" width="3">Cancel</td>
+                          <td valign="TOP" width="3" align="LEFT"> <table cellspacing="0" cellpadding="0" border="0" width="3" height2="2">
+                              <tbody><tr> 
+                                <td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                                <td colspan="2" width="2" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                              </tr>
+                              <tr> 
+                                <td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                                <td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                                <td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                              </tr>
+                            </tbody></table>
+                            <img src="images/falconStore/buttonsAndLogos/buttonLine.gif" width="3" height="13"><br> 
+                          </td>
+                        </tr>
+                        <tr> 
+                          <td colspan="5" height="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+                        </tr>
+                      </tbody></table></td>
+                  </tr>
+                </tbody></table></td>
+            </tr>
+          
+        </tbody></table>
+
+
+		</td>
+      <td width="1" bgcolor="e20021"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+      <td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+    </tr>
+    <tr> 
+      <td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+      <td colspan="3" height="1" bgcolor="e20021"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+      <td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+    </tr>
+    <tr> 
+      <td height="1" colspan="5" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+    </tr>
+  </tbody></table>
+</div>
+
+<!-----------------------START VISIBLE PAGE HERE-------------------------------------------->
+
+
+
+
+
+
+
+
+<div2 id="mainDiv" style="position: absolute; top:0px; left:0px;" align="left">
+<table cellspacing="0" cellpadding="0" border="0" width2="900" height2="100%" class="mainFont">
+	<tbody><tr bgcolor="#FFFFFF" height="75" valign="TOP">
+		<td>
+			<table cellspacing="0" cellpadding="0" border="0" width2="100%" height2="75" class="mainFont">
+				<tbody><tr>
+					<td width="110" height="58" align="LEFT">
+
+<!-- t_header_jsp begin -->
+
+
+
+
+			<table cellspacing="0" cellpadding="0" border="0" width="1">
+				<tbody><tr bgcolor="#FFFFFF">
+					<td>
+					<img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>
+					<a href="http://www.falconstudios.com/shop/ShowGroup.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?groupName=studios_default&amp;sectionName=studios_default&amp;websiteName=falconstudios"><img src="images/falconHome/falconStudiosLogo.gif" width="194" height="61" border="0" alt=""></a><br><img src="images/falconStore/layoutImages/blank.gif" height="1" width="190"></td><td>
+					</td><td width="3"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="3"></td>
+				</tr>
+			</tbody></table>		
+<!-- t_header_jsp end -->
+
+
+</td>
+					<td width="5" height="58"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="5"></td>
+					<td width="100%" height="58" valign="BOTTOM" align="CENTER">
+	
+					
+					<table cellspacing="0" cellpadding="0" border="0" width2="100%" height2="100%" class="coloredMoreFont">
+						<tbody><tr>
+						    <td height="100%" valign="TOP" align="CENTER" class="coloredMoreFont">
+						    <table cellspacing="0" cellpadding="3" border="0" class="coloredMoreFont">
+                                                    <tbody><tr>
+                                                        <td valign="TOP" align="RIGHT">Please note:</td> <td valign="TOP" align="LEFT">Items in your shopping cart may be removed after 30 minutes of inactivity.<br> Please check out before renting a VOD.</td>
+						    </tr>
+						    </tbody></table><br>
+                                                    
+                                                    
+                                                    
+						    </td>
+                                                </tr>
+                                                
+                                                
+						<tr>
+						    <td valign="BOTTOM" align="LEFT" <!--="" t_menu_jsp="" begin="" --="">
+
+
+
+
+
+<!-- get list of searches from db -->
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+function popWindow(name, url)
+{
+	window.open(url, name);
+}
+//-->
+</script>
+<div id="menuDiv">
+<div id="sectionTabs">
+			</div><div id="sectionTabs">
+			</div><div id="sectionTabs">
+			</div><div id="sectionTabs">
+			</div><div id="sectionTabs">
+			</div><table cellspacing="0" cellpadding="0" border="0" width="1">
+	<tbody><tr>
+
+			<script>
+			    var AboutFalcontabHoverOffColor = "white";
+			</script>
+		    <td onmouseover="tabOn(this.id)" onmouseout="tabOff(this.id)" onclick="tabSelect(this.id);setTimeout('this.location.href=\'http://www.falconstudios.com/shop/ContentRequest.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?contentPage=companyProfile.jsp&amp;groupName=CompanyProfile&amp;sectionName=AboutFalcon&amp;websiteName=falconstudios\'', 1);" id="AboutFalcon" style="cursor: pointer; cursor: hand;" bgcolor="e20021">
+				<table cellspacing="0" cellpadding="0" border="0" width="85" class="whiteTypeL">
+					<tbody><tr>
+						<td valign="TOP" width="1"><img src="images/falconStore/layoutImages/whiteCornerL.gif" width="5" height="5"><br><img src="images/falconStore/layoutImages/blank.gif" width="1" height="15"></td>					
+						<td height="20" width="100%" align="CENTER">&nbsp;<b id="AboutFalconTabText" style="color:white;">ABOUT</b>&nbsp;</td>
+						<td valign="TOP" width="5" align="RIGHT"><img src="images/falconStore/layoutImages/whiteCornerR.gif" width="5" height="5"><br><img src="images/falconStore/layoutImages/blank.gif" width="1" height="15"></td>
+						<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+					</tr>
+				</tbody></table>
+			</td>
+		    
+
+			<script>
+			    var NewstabHoverOffColor = "white";
+			</script>
+		    <td onmouseover="tabOn(this.id)" onmouseout="tabOff(this.id)" onclick="tabSelect(this.id);setTimeout('this.location.href=\'http://www.falconstudios.com/shop/WrapRequest.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?contentPage=newsletters.jsp&amp;groupName=Newsletters&amp;sectionName=News&amp;websiteName=falconstudios\'', 1);" id="News" style="cursor: pointer; cursor: hand;" bgcolor="#A7A7A7">
+				<table cellspacing="0" cellpadding="0" border="0" width="85" class="whiteTypeL">
+					<tbody><tr>
+						<td valign="TOP" width="1"><img src="images/falconStore/layoutImages/whiteCornerL.gif" width="5" height="5"><br><img src="images/falconStore/layoutImages/blank.gif" width="1" height="15"></td>					
+						<td height="20" width="100%" align="CENTER">&nbsp;<b id="NewsTabText" style="color:white;">NEWS&nbsp;&amp;&nbsp;EVENTS</b>&nbsp;</td>
+						<td valign="TOP" width="5" align="RIGHT"><img src="images/falconStore/layoutImages/whiteCornerR.gif" width="5" height="5"><br><img src="images/falconStore/layoutImages/blank.gif" width="1" height="15"></td>
+						<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+					</tr>
+				</tbody></table>
+			</td>
+		    
+
+			<script>
+			    var BeAModeltabHoverOffColor = "white";
+			</script>
+		    <td onmouseover="tabOn(this.id)" onmouseout="tabOff(this.id)" onclick="tabSelect(this.id);setTimeout('this.location.href=\'http://www.falconstudios.com/shop/ContentRequest.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?contentPage=beAModel.jsp&amp;groupName=BeAModel§ionName=BeAModel&amp;websiteName=falconstudios\'', 1);" id="BeAModel" style="cursor: pointer; cursor: hand;" bgcolor="#A7A7A7">
+				<table cellspacing="0" cellpadding="0" border="0" width="85" class="whiteTypeL">
+					<tbody><tr>
+						<td valign="TOP" width="1"><img src="images/falconStore/layoutImages/whiteCornerL.gif" width="5" height="5"><br><img src="images/falconStore/layoutImages/blank.gif" width="1" height="15"></td>					
+						<td height="20" width="100%" align="CENTER">&nbsp;<b id="BeAModelTabText" style="color:white;">BE&nbsp;A&nbsp;MODEL</b>&nbsp;</td>
+						<td valign="TOP" width="5" align="RIGHT"><img src="images/falconStore/layoutImages/whiteCornerR.gif" width="5" height="5"><br><img src="images/falconStore/layoutImages/blank.gif" width="1" height="15"></td>
+						<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+					</tr>
+				</tbody></table>
+			</td>
+		    
+
+			<script>
+			    var ShoptabHoverOffColor = "white";
+			</script>
+		    <td onmouseover="tabOn(this.id)" onmouseout="tabOff(this.id)" onclick="tabSelect(this.id);popWindow('mainWin', 'http://www.falconstudios.com/shop/ShowGroup.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstore');" id="Shop" style="cursor: pointer; cursor: hand;" bgcolor="#A7A7A7">
+				<table cellspacing="0" cellpadding="0" border="0" width="85" class="whiteTypeL">
+					<tbody><tr>
+						<td valign="TOP" width="1"><img src="images/falconStore/layoutImages/whiteCornerL.gif" width="5" height="5"><br><img src="images/falconStore/layoutImages/blank.gif" width="1" height="15"></td>					
+						<td height="20" width="100%" align="CENTER">&nbsp;<b id="ShopTabText" style="color:white;">FALCON&nbsp;STORE</b>&nbsp;</td>
+						<td valign="TOP" width="5" align="RIGHT"><img src="images/falconStore/layoutImages/whiteCornerR.gif" width="5" height="5"><br><img src="images/falconStore/layoutImages/blank.gif" width="1" height="15"></td>
+						<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+					</tr>
+				</tbody></table>
+			</td>
+		    
+
+			<script>
+			    var MemberstabHoverOffColor = "white";
+			</script>
+		    <td onmouseover="tabOn(this.id)" onmouseout="tabOff(this.id)" onclick="tabSelect(this.id);popWindow('_blank', 'http://www.falconstudios.com/shop/../falconxxx/memberLogin.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?groupName=joinMembers&amp;sectionName=joinMembers&amp;websiteName=falconjoin');" id="Members" style="cursor: pointer; cursor: hand;" bgcolor="#A7A7A7">
+				<table cellspacing="0" cellpadding="0" border="0" width="85" class="whiteTypeL">
+					<tbody><tr>
+						<td valign="TOP" width="1"><img src="images/falconStore/layoutImages/whiteCornerL.gif" width="5" height="5"><br><img src="images/falconStore/layoutImages/blank.gif" width="1" height="15"></td>					
+						<td height="20" width="100%" align="CENTER">&nbsp;<b id="MembersTabText" style="color:white;">FALCONXXX</b>&nbsp;</td>
+						<td valign="TOP" width="5" align="RIGHT"><img src="images/falconStore/layoutImages/whiteCornerR.gif" width="5" height="5"><br><img src="images/falconStore/layoutImages/blank.gif" width="1" height="15"></td>
+						<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+					</tr>
+				</tbody></table>
+			</td>
+		    
+		
+	</tr>
+	<tr>
+
+			<td id="AboutFalconBotLine" onmouseout="tabOff('AboutFalcon')" bgcolor="e20021" style="cursor: pointer; cursor: hand;"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+
+			<td id="NewsBotLine" onmouseout="tabOff('News')" bgcolor="#FFFFFF" style="cursor: pointer; cursor: hand;"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+
+			<td id="BeAModelBotLine" onmouseout="tabOff('BeAModel')" bgcolor="#FFFFFF" style="cursor: pointer; cursor: hand;"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+
+			<td id="ShopBotLine" onmouseout="tabOff('Shop')" bgcolor="#FFFFFF" style="cursor: pointer; cursor: hand;"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+
+			<td id="MembersBotLine" onmouseout="tabOff('Members')" bgcolor="#FFFFFF" style="cursor: pointer; cursor: hand;"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+
+
+	</tr>
+	
+</tbody></table>
+</div>
+
+<div id="groupTabs" style="position: relative; height: 0px">
+
+			<div id="AboutFalconSubMenu" class2="subMenu" style="position: absolute; visibility: visible; top: 0px; left: 10px; z-index: 10; width: 10px; height: 17px;" onmouseover="hoveredTab = 'AboutFalcon'">
+			<table cellspacing="0" cellpadding="0" border="0" width="1" align="CENTER">
+				<tbody><tr>
+					<td width="25"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="17"></td>
+	
+			
+					
+					<td height="17" class="subMenuTextWhite" id="AboutFalcon_CompanyProfile" onmouseover="subOn(this.id)" onmouseout="subOff(this.id)" onclick="subSelect(this.id); setTimeout('this.location.href=\'http://www.falconstudios.com/shop/ContentRequest.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?contentPage=companyProfile.jsp&amp;groupName=CompanyProfile&amp;sectionName=AboutFalcon&amp;websiteName=falconstudios\'', 1);" style="cursor: pointer; cursor: hand;" valign="MIDDLE"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>Company&nbsp;Profile</td>
+
+			
+			
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+					<td width="1" class="subMenuTextWhite">|</td>
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+			
+					
+					<td height="17" class="subMenuTextWhite" id="AboutFalcon_FalconAndChuck" onmouseover="subOn(this.id)" onmouseout="subOff(this.id)" onclick="subSelect(this.id); setTimeout('this.location.href=\'http://www.falconstudios.com/shop/ContentRequest.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?contentPage=falconAndChuck.jsp&amp;groupName=FalconAndChuck&amp;sectionName=AboutFalcon&amp;websiteName=falconstudios\'', 1);" style="cursor: pointer; cursor: hand;" valign="MIDDLE"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>Falcon&nbsp;&amp;&nbsp;The&nbsp;Charles&nbsp;M.&nbsp;Holmes&nbsp;Foundation</td>
+
+			
+			
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+					<td width="1" class="subMenuTextWhite">|</td>
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+			
+					
+					<td height="17" class="subMenuTextWhite" id="AboutFalcon_Buckbuddies" onmouseover="subOn(this.id)" onmouseout="subOff(this.id)" onclick="subSelect(this.id); setTimeout('this.location.href=\'http://www.falconstudios.com/shop/ContentRequest.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?contentPage=buckBuddies.jsp&amp;groupName=Buckbuddies&amp;sectionName=AboutFalcon&amp;websiteName=falconstudios\'', 1);" style="cursor: pointer; cursor: hand;" valign="MIDDLE"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>FalconBucks™&nbsp;Webmaster&nbsp;Program</td>
+
+			
+			
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+					<td width="1" class="subMenuTextWhite">|</td>
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+			
+					
+					<td height="17" class="subMenuTextWhite" id="AboutFalcon_Jobs" onmouseover="subOn(this.id)" onmouseout="subOff(this.id)" onclick="subSelect(this.id); setTimeout('this.location.href=\'http://www.falconstudios.com/shop/WrapRequest.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?contentPage=jobs.jsp&amp;groupName=Jobs&amp;sectionName=AboutFalcon&amp;websiteName=falconstudios\'', 1);" style="cursor: pointer; cursor: hand;" valign="MIDDLE"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>Jobs</td>
+
+			
+			
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+					<td width="1" class="subMenuTextWhite">|</td>
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+			
+					
+					<td height="17" class="subMenuTextWhite" id="AboutFalcon_ContactUs" onmouseover="subOn(this.id)" onmouseout="subOff(this.id)" onclick="subSelect(this.id); setTimeout('this.location.href=\'http://www.falconstudios.com/shop/ContentRequest.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?contentPage=contactUs.jsp&amp;groupName=ContactUs&amp;sectionName=AboutFalcon&amp;websiteName=falconstudios\'', 1);" style="cursor: pointer; cursor: hand;" valign="MIDDLE"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>Contact&nbsp;Us</td>
+
+			
+
+				</tr>
+			</tbody></table>
+			</div>
+
+			<div id="NewsSubMenu" class2="subMenu" style="POSITION:absolute; VISIBILITY:hidden; TOP:0px; LEFT:10px; z-Index: 3; width: 10px; height: 17px;" onmouseover="hoveredTab = 'News'">
+			<table cellspacing="0" cellpadding="0" border="0" width="1" align="CENTER">
+				<tbody><tr>
+					<td width="25"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="17"></td>
+	
+			
+					
+					<td height="17" class="subMenuTextWhite" id="News_Newsletters" onmouseover="subOn(this.id)" onmouseout="subOff(this.id)" onclick="subSelect(this.id); setTimeout('this.location.href=\'http://www.falconstudios.com/shop/WrapRequest.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?contentPage=newsletters.jsp&amp;groupName=Newsletters&amp;sectionName=News&amp;websiteName=falconstudios\'', 1);" style="cursor: pointer; cursor: hand;" valign="MIDDLE"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>Newsletters</td>
+
+			
+			
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+					<td width="1" class="subMenuTextWhite">|</td>
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+			
+					
+					<td height="17" class="subMenuTextWhite" id="News_UpcomingReleases" onmouseover="subOn(this.id)" onmouseout="subOff(this.id)" onclick="subSelect(this.id); setTimeout('this.location.href=\'http://www.falconstudios.com/shop/ContentRequest.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?contentPage=upcomingReleases.jsp&amp;groupName=UpcomingReleases&amp;sectionName=News&amp;websiteName=falconstudios\'', 1);" style="cursor: pointer; cursor: hand;" valign="MIDDLE"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>Upcoming&nbsp;Releases</td>
+
+			
+			
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+					<td width="1" class="subMenuTextWhite">|</td>
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+			
+					
+					<td height="17" class="subMenuTextWhite" id="News_Pressroom" onmouseover="subOn(this.id)" onmouseout="subOff(this.id)" onclick="subSelect(this.id); setTimeout('this.location.href=\'http://www.falconstudios.com/shop/WrapRequest.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?contentPage=pressroom.jsp&amp;groupName=Pressroom&amp;sectionName=News&amp;websiteName=falconstudios\'', 1);" style="cursor: pointer; cursor: hand;" valign="MIDDLE"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>Falcon&nbsp;Pressroom</td>
+
+			
+			
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+					<td width="1" class="subMenuTextWhite">|</td>
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+			
+					
+					<td height="17" class="subMenuTextWhite" id="News_EventCalendar" onmouseover="subOn(this.id)" onmouseout="subOff(this.id)" onclick="subSelect(this.id); setTimeout('this.location.href=\'http://www.falconstudios.com/shop/ContentRequest.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?contentPage=eventCalendar.jsp&amp;groupName=EventCalendar&amp;sectionName=News&amp;websiteName=falconstudios\'', 1);" style="cursor: pointer; cursor: hand;" valign="MIDDLE"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>Event&nbsp;Calendar</td>
+
+			
+
+				</tr>
+			</tbody></table>
+			</div>
+
+			<div id="BeAModelSubMenu" class2="subMenu" style="POSITION:absolute; VISIBILITY:hidden; TOP:0px; LEFT:10px; z-Index: 3; width: 10px; height: 17px;" onmouseover="hoveredTab = 'BeAModel'">
+			<table cellspacing="0" cellpadding="0" border="0" width="1" align="CENTER">
+				<tbody><tr>
+					<td width="25"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="17"></td>
+	
+			
+					
+					<td height="17" class="subMenuTextWhite" id="BeAModel_BeAModel" onmouseover="subOn(this.id)" onmouseout="subOff(this.id)" onclick="subSelect(this.id); setTimeout('this.location.href=\'http://www.falconstudios.com/shop/ContentRequest.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?contentPage=beAModel.jsp&amp;groupName=BeAModel&amp;sectionName=BeAModel&amp;websiteName=falconstudios\'', 1);" style="cursor: pointer; cursor: hand;" valign="MIDDLE"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>Do&nbsp;You&nbsp;Have&nbsp;What&nbsp;It&nbsp;Takes&nbsp;To&nbsp;Be&nbsp;A&nbsp;Falcon&nbsp;Man?</td>
+
+			
+
+				</tr>
+			</tbody></table>
+			</div>
+
+			<div id="ShopSubMenu" class2="subMenu" style="POSITION:absolute; VISIBILITY:hidden; TOP:0px; LEFT:10px; z-Index: 3; width: 10px; height: 17px;" onmouseover="hoveredTab = 'Shop'">
+			<table cellspacing="0" cellpadding="0" border="0" width="1" align="CENTER">
+				<tbody><tr>
+					<td width="25"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="17"></td>
+	
+			
+					
+					<td height="17" class="subMenuTextWhite" id="Shop_Shop" onmouseover="subOn(this.id)" onmouseout="subOff(this.id)" onclick="subSelect(this.id); popWindow('mainWin', 'http://www.falconstudios.com/shop/../shop/ShowGroup.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstore');" style="cursor: pointer; cursor: hand;" valign="MIDDLE"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>Browse&nbsp;the&nbsp;Falcon&nbsp;Store&nbsp;for&nbsp;Falcon&nbsp;Family&nbsp;Videos,&nbsp;Pay&nbsp;Per&nbsp;View,&nbsp;Toys&nbsp;and&nbsp;more</td>
+
+			
+
+				</tr>
+			</tbody></table>
+			</div>
+
+			<div id="MembersSubMenu" class2="subMenu" style="POSITION:absolute; VISIBILITY:hidden; TOP:0px; LEFT:10px; z-Index: 3; width: 10px; height: 17px;" onmouseover="hoveredTab = 'Members'">
+			<table cellspacing="0" cellpadding="0" border="0" width="1" align="CENTER">
+				<tbody><tr>
+					<td width="25"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="17"></td>
+	
+			
+					
+					<td height="17" class="subMenuTextWhite" id="Members_Members" onmouseover="subOn(this.id)" onmouseout="subOff(this.id)" onclick="subSelect(this.id); popWindow('_blank', 'http://www.falconstudios.com/shop/../falconxxx/memberLogin.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?groupName=joinMembers&amp;sectionName=joinMembers&amp;websiteName=falconjoin');" style="cursor: pointer; cursor: hand;" valign="MIDDLE"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>Falcon&nbsp;XXX</td>
+
+			
+			
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+					<td width="1" class="subMenuTextWhite">|</td>
+					<td width="10"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+			
+					
+					<td height="17" class="subMenuTextWhite" id="Members_TakeTour" onmouseover="subOn(this.id)" onmouseout="subOff(this.id)" onclick="subSelect(this.id); setTimeout('this.location.href=\'http://www.falconstudios.com/shop/../falconxxx/tourPage.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?groupName=joinTour&amp;sectionName=joinTour&amp;websiteName=falconjoin&amp;groupName=TakeTour&amp;sectionName=Members&amp;websiteName=falconstudios\'', 1);" style="cursor: pointer; cursor: hand;" valign="MIDDLE"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>Take&nbsp;the&nbsp;Tour</td>
+
+			
+
+				</tr>
+			</tbody></table>
+			</div>
+
+</div>
+<script>hideAllSubMenus();</script>
+
+
+<!-- t_menu_jsp end -->
+
+
+</td>
+						</tr>
+					  </tbody></table>
+					</td>					
+					<td width="290">
+						
+
+<!-- t_metanav_jsp begin -->
+
+
+
+
+
+<script>
+
+	var cartItems = 0;
+
+
+<!-- begin t_metanav.jsp -->
+
+
+
+	var showTele = false;
+
+	function showTeleInfo() {
+		if (showTele) {
+			document.getElementById('phoneOrderInfo').innerHTML='M-F&nbsp;8:45AM-9:30PM&nbsp;PST&nbsp;&nbsp;&nbsp;Fax:&nbsp;1&minus;415&minus;431&minus;0127';
+		}
+	}
+
+	function startCheckOut() {
+
+		if (cartItems) {
+			setTimeout('document.location.href=\'https://www.falconstudios.com/shop/Cashier.do?websiteName=falconstudios&action=go&step=1\'', 1);
+		} else {
+			alert('Your shopping cart is empty. You can\'t begin checkout with an empty shopping cart.');
+			return(false);
+		}
+		
+	}	
+
+	function showCartItemCount() {
+		itemWord = 'items';
+		if (cartItems == 1) {
+			itemWord = 'item';
+		}
+//		document.getElementById('cartItemCount').innerHTML= '<b class="coloredType">' + cartItems + '</b>&nbsp;<font color="e20021">'+ itemWord +'</font><br>';
+	}
+
+	function hideCartItemCount() {
+//		document.getElementById('cartItemCount').innerHTML='&nbsp;<br>';
+	}
+
+</script>
+<link href="../css/falconStore.css" rel="stylesheet" type="text/css">
+
+
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" height2="100%">
+				<tbody><tr>
+					<td class="coloredType" bgcolor="#FFFFFF" align="RIGHT" valign="TOP"> 					
+						<b style="cursor: pointer; cursor: hand;" onclick="setTimeout('document.location.href=\'http://www.falconstudios.com/shop/contactUs.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios\'', 1);">phone&nbsp;orders:&nbsp;1−800−227−3717</b><br>
+					</td>
+				</tr>
+				<tr>
+					<td valign="BOTTOM" align="RIGHT" bgcolor="#FFFFFF">
+						<table cellspacing="0" cellpadding="0" border="0" height="100%">
+						<tbody><tr>
+							<td valign="BOTTOM" align="LEFT" bgcolor="e20021">
+
+<style>
+
+	.emailSignupDiv {
+		position: absolute;
+		visibility: hidden;
+		left: 623px;
+		top: 27px;
+		height: 20px;
+		width: 210px;
+	}
+
+</style>
+<script>
+
+function validateEmailSignup() {
+
+	if ((document.emailSignupForm.emailAddress.value == '') || (document.emailSignupForm.emailAddress.value == ' enter email here')) {
+
+		hideOK = false;
+		alert('Please enter your email address.');
+		document.emailSignupForm.emailAddress.focus();	
+		setTimeout('hideOK = true;', 400);
+		hideEmail = true;
+		setTimeout('hideEmailSignup();', 1500);
+
+	} else {
+		
+		emailWin = window.open('content/joinEmailList.jsp;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&emailAddress=' + document.emailSignupForm.emailAddress.value, 'emailWin', 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=200,height=200');
+
+		 hideEmail = true;
+		 hideEmailSignup();
+		 hideEmail = false;
+
+	}
+
+}
+
+function showEmailSignup() {
+
+	document.getElementById('emailSignup').style.visibility = 'visible';
+
+}
+
+var hideEmail = false;
+
+//and a var to keep the box visible when we need to
+//mouseoff to dismiss the javascript warning
+var hideOK = true;
+
+function hideEmailSignup() {
+
+	if (hideEmail) {
+
+		document.emailSignupForm.emailAddress.blur();
+		document.getElementById('emailSignup').style.visibility = 'hidden';
+	}
+
+}
+
+</script>
+								<div class="emailSignupDiv" id="emailSignup" onmouseout="hideEmail = true;if (hideOK) {setTimeout('hideEmailSignup()', 200)}">
+
+									<table cellspacing="0" cellpadding="0" border="0" height="100%">
+										<tbody><tr onmouseover="hideEmail = false;">
+											<td>
+												<form name="emailSignupForm" style="border: 0px; padding: 0px; margin: 0px;">
+													<input type="text" onkeypress="if (event.keyCode == 13) {validateEmailSignup()}" onfocus="this.style.borderColor=globalBGColor; if (this.value == ' enter email here') {this.value=''}" onblur="this.style.borderColor='#000000'; this.style.borderColor=globalBGColor; if (this.value == '') {this.value=' enter email here'}" onmouseover="this.style.borderColor=globalBGColor" onmouseout="this.style.borderColor='#000000'" name="emailAddress" id="emailAddress" class="inputfield" value=" enter email here">
+												</form>
+											</td>
+											<td width="5"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="5"></td>
+											<td>
+												
+												<table cellspacing="0" cellpadding="0" border="0" width="1" bgcolor="#000000" style="cursor: pointer; cursor: hand;" onmouseover="buttonHoverOn('signUpEmailB', globalBGColor)" onmouseout="buttonHoverOff('signUpEmailB', '#000000')" onclick="validateEmailSignup()" id="signUpEmailB">
+													<tbody><tr>
+														<td colspan="4" height="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+														<td bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+													</tr>
+													<tr>
+														<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+														<td width="9" height="15" valign="CENTER" align="CENTER"><img src="images/falconStore/buttonsAndLogos/buttonArrow.gif" width="9" height="15"></td>
+														<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+														<td bgcolor="#FFFFFF" class="buttonText" id="signUpEmailBText" width="100%" nowrap=""><img src="images/falconStore/layoutImages/blank.gif" height="1" width="3">Sign−up</td>
+														<td valign="TOP" width="3" align="LEFT">
+															<table cellspacing="0" cellpadding="0" border="0" width="3" height="2">
+																<tbody><tr>
+																	<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+																	<td colspan="2" width="2" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+																</tr>
+																<tr>
+																	<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+																	<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+																	<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+																</tr>
+															</tbody></table>
+															<img src="images/falconStore/buttonsAndLogos/buttonLine.gif" width="3" height="13"><br>
+														</td>
+													</tr>
+													<tr>
+														<td colspan="5" height="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+													</tr>
+												</tbody></table>
+
+											</td>
+										</tr>
+									</tbody></table>								
+								
+								</div>
+
+
+								<table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
+									<tbody><tr>
+										<td colspan="3" height="100%" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+									</tr>
+									<tr style="cursor: pointer; cursor: hand;" onmouseover="this.bgColor='';" onmouseout="this.bgColor='#000000'; hideEmail = true;setTimeout('hideEmailSignup()', 200)" onclick="showEmailSignup()" bgcolor="#000000">
+										<td width="14"><img src="images/falconStore/buttonsAndLogos/email.gif" width="14" height="15"></td>
+										<td width="3" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="3"></td>
+										<td bgcolor="#FFFFFF" class="coloredType" nowrap="">Email&nbsp;Sign−up</td>
+									</tr>
+								</tbody></table>
+
+							</td>
+							<td width="10" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+							<td valign="BOTTOM" align="LEFT" bgcolor="e20021">
+								<table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
+									<tbody><tr>
+										<td colspan="2" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+										<td height="100%" bgcolor="#FFFFFF" valign="BOTTOM" align="LEFT" id="cartItemCount" class="infoText">
+											&nbsp;<br>								
+										</td>
+									</tr>
+									<tr style="cursor: pointer; cursor: hand;" onmouseover="this.bgColor='';showCartItemCount();" onmouseout="this.bgColor='#000000';hideCartItemCount()" onclick="setTimeout('document.location.href=\'https://www.falconstudios.com/shop/Cashier.do?websiteName=falconstudios&amp;action=go&amp;step=0\'', 1);" bgcolor="#000000">
+										<td width="19"><img src="images/falconStore/buttonsAndLogos/viewCart.gif" width="19" height="16"></td>
+										<td width="3" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="3"></td>
+										<td bgcolor="#FFFFFF" class="coloredType">View&nbsp;Cart</td>
+									</tr>
+								</tbody></table>
+							</td>
+							<td width="10" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="10"></td>
+							<td valign="BOTTOM" align="LEFT" bgcolor="e20021">
+								<table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
+									<tbody><tr>
+										<td colspan="3" height="100%" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="15" width="1"></td>
+									</tr>
+									<tr style="cursor: pointer; cursor: hand;" onmouseover="this.bgColor=''" onmouseout="this.bgColor='#000000'" onclick="startCheckOut()" bgcolor="#000000">
+										<td width="13"><img src="images/falconStore/buttonsAndLogos/checkOut.gif" height="16" width="13"></td>
+										<td width="3" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="3"></td>
+										<td bgcolor="#FFFFFF" class="coloredType">Check&nbsp;Out</td>
+									</tr>
+								</tbody></table>
+							</td>	
+							<!--
+							<td WIDTH="10" BGCOLOR="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" HEIGHT="1" WIDTH="10"></td>
+							<td VALIGN="BOTTOM" ALIGN="RIGHT" BGCOLOR="e20021">
+								<table cellspacing=0 cellpadding=0 border=0 WIDTH="100%" HEIGHT="100%">
+									<tr>
+										<td COLSPAN="3" HEIGHT="100%" BGCOLOR="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" HEIGHT="15" WIDTH="1"></td>
+									</tr>
+									<tr style="cursor: pointer; cursor: hand;" onMouseOver="this.bgColor=''" onMouseOut="this.bgColor='#000000'" onClick="startCheckOut()" BGCOLOR="#000000">
+										<td WIDTH="13"><img src="images/falconStore/buttonsAndLogos/checkOut.gif" HEIGHT="16" WIDTH="13"></td>
+										<td WIDTH="3" BGCOLOR="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" HEIGHT="1" WIDTH="3"></td>
+										<td BGCOLOR="#FFFFFF" class="coloredType">Track&nbsp;Orders</td>
+									</tr>
+								</table>
+							</td>
+							-->
+						</tr>
+					</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="5" class="coloredType" bgcolor="#FFFFFF" align="RIGHT" valign="TOP"> 
+						<img src="images/falconStore/layoutImages/blank.gif" height="3" width="1"><br>
+					</td>
+				</tr>
+			</tbody></table>			
+<!-- t_metanav_jsp end -->
+
+
+
+
+					</td>
+				</tr>
+				<tr>
+					<td colspan="4" height="17" bgcolor="e20021">&nbsp;</td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td bgcolor="#FFFFFF" height="1" width="100%"><img src="/shop/images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td colspan="2" bgcolor="#FFFFFF" height="1" width="100%"><img src="/shop/images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+	</tr>
+	<tr bgcolor="#FFFFFF">
+		<td height="609" valign="TOP">
+			<table cellspacing="0" cellpadding="0" border="0" width2="100%" height2="609" class="mainFont">
+				<tbody><tr>
+					<td width="201" bgcolor="#FFFBE2" height="609" valign="top">
+						
+<!-- t_fourDownLeft_jsp begin -->
+
+
+
+
+
+
+
+
+
+
+	<table width="201" height="609" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td align="left" valign="top" width="201" height="148">					
+				
+				
+<!-- t_infoBoxShortcuts_jsp begin -->
+
+
+
+
+
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%" class="mainFont" bgcolor="e20021">
+    <tbody><tr>
+	<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+		<td colspan="2" height="18">
+	    <table cellspacing="0" cellpadding="0" border="0" width="100%" height="18">
+		<tbody><tr>
+
+		    <td width="1" class="whiteHeaderType">&nbsp;&nbsp;Shortcuts&nbsp;</td>
+		    <td valign="bottom" width="100%" bgcolor="e20021">
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" height="11">
+			    <tbody><tr>
+				<td width="11" background="images/falconStore/layoutImages/FFFBE2HeaderTabCorner.gif"><img src="images/falconStore/layoutImages/blank.gif" width="11" height="11"></td>
+				<td bgcolor="#FFFBE2" width="100%"><img src="images/falconStore/layoutImages/blank.gif" width="30" height="1"></td>								
+			    </tr>
+			</tbody></table>						
+		    </td>					
+		</tr>
+	    </tbody></table>			
+	</td>
+	<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+    </tr>
+    <tr>
+	<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>	
+	<td bgcolor="#FFFBE2" height="100%">
+	    
+	    <table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
+		<tbody><tr>
+		    <td width="1" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>					
+		    <td width="100%" height="100%" class="prodFont" bgcolor="#FFFBE2" valign="top" align="left">
+			<table cellpadding="0" cellspacing="0" border="0" height="100%" class="coloredType">
+			    <tbody><tr>		
+				<td width="10"><img src="images/falconStore/layoutImages/blank.gif" width="10" height="1"></td>
+				<td valign="MIDDLE">
+		
+				    
+
+				    <a href="http://www.falconstudios.com/shop/showBiggerList.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios">View  All Movies</a><br>
+				    <img src="images/falconStore/layoutImages/blank.gif" width="1" height="3"><br>
+
+				    
+				    <a href="http://www.falconstudios.com/shop/ShowSearch.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&amp;searchTopic=Sets&amp;sectionName=falconMovies&amp;theQuery=a.prd_inv_num+like+%27FVS%25%27">View All Sets</a><br>
+				    <img src="images/falconStore/layoutImages/blank.gif" width="1" height="3"><br>
+				    <a href="http://www.falconstudios.com/shop/saleProducts.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&amp;groupName=shop_default&amp;sectionName=shop_default" style="color: red;">WEEKLY SPECIAL</a><br>
+				    <img src="images/falconStore/layoutImages/blank.gif" width="1" height="3"><br>
+				    <!--<a href="http://www.falconstudios.com/shop/ShowSearch.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&theList=LIST_BESTSELLERS">Best Sellers</a><br>-->
+				    <a href="http://www.falconstudios.com/shop/ShowSearch.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&amp;searchTopic=Newest%2526nbsp;Items&amp;sectionName=falconMovies&amp;theQuery=length%28a.release_yr%29%3D7+and+to_date%28a.release_yr%2C+%27MM%2FYYYY%27%29%3Esysdate-90">Newest Items</a><br>
+				    <img src="images/falconStore/layoutImages/blank.gif" width="1" height="3"><br>
+				    <a href="http://www.falconstudios.com/shop/ShowSearch.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&amp;searchTopic=DVD%2526nbsp;Only%2526nbsp;Movies&amp;sectionName=falconMovies&amp;theQuery=a.prd_inv_num+like+%27%25DVD%27">DVD Only</a><br>
+				    <img src="images/falconStore/layoutImages/blank.gif" width="1" height="3"><br>
+				    <a href="http://www.falconstudios.com/shop/ShowSearch.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&amp;searchTopic=Pre-Condom%2526nbsp;Classics&amp;sectionName=falconMovies&amp;theQuery=a.pre_condom+%3D+%27yes%27">Falcon Classic: Pre-condom</a><br>
+				    <img src="images/falconStore/layoutImages/blank.gif" width="1" height="3"><br>
+				    
+				</td>
+			    </tr>
+			</tbody></table>
+			<img src="images/falconStore/layoutImages/blank.gif" width="1" height="7"><br>										
+		    </td>
+		    		    <td width="5" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" width="5" height="1"></td>
+		</tr>
+	    </tbody></table>
+	</td>
+	<td height="1" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+    </tr>	
+    <tr>
+	<td colspan="4" height="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+    </tr>
+</tbody></table>
+<!-- t_infoBoxShortcuts_jsp end -->
+
+
+
+			</td>
+		</tr>
+		<tr>
+			<td height="3" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="3"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="201" height="91">								
+				
+				
+<!-- t_infoBoxSearch_jsp begin -->
+
+
+
+
+
+
+
+
+
+
+<!--  -->
+<script>
+
+</script>
+<table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%" class="mainFont" bgcolor="e20021">
+	<tbody><tr>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+		<td colspan="2" height="18">
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" height="18">
+				<tbody><tr>
+
+
+					<td width="1" class="whiteHeaderType">&nbsp;&nbsp;Search&nbsp;for&nbsp;Products&nbsp;</td>
+					<td valign="bottom" width="100%" bgcolor="e20021">
+						<table cellspacing="0" cellpadding="0" border="0" width="100%" height="11">
+							<tbody><tr>
+								<td width="11" background="images/falconStore/layoutImages/FFFBE2HeaderTabCorner.gif"><img src="images/falconStore/layoutImages/blank.gif" width="11" height="11"></td>
+								<td bgcolor="#FFFBE2" width="100%"><img src="images/falconStore/layoutImages/blank.gif" width="30" height="1"></td>								
+							</tr>
+						</tbody></table>						
+					</td>					
+				</tr>
+			</tbody></table>			
+		</td>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>	
+		<td bgcolor="#FFFBE2" height="100%">
+			<img src="images/falconStore/layoutImages/blank.gif" width="1" height="5"><br>
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
+				<tbody><tr>
+					<td width="1" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>					
+					<td width="100%" height="100%" class="prodFont" bgcolor="#FFFBE2" valign="top" align="left">
+
+
+
+
+
+						<table cellspacing="0" cellpadding="0" border="0" width="1" height="1" class="whiteTypeL">
+							<tbody><tr><td colspan="4" width="10" height="6"><img src="images/falconStore/layoutImages/blank.gif" width="10" height="6"></td></tr>
+							<tr>
+								<td width="10"><img src="images/falconStore/layoutImages/blank.gif" width="10" height="1"></td>
+								<td colspan="3">
+									<form method="POST" name="searchForm" action="http://www.falconstudios.com/shop/ShowSearch.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&amp;sectionName=studios_default&amp;groupName=studios_default" style="margin-top:0px; margin-bottom:0px">
+									<select name="searchType" style="font-size: 12px;">
+										<option value="TIT">search for...</option>
+										
+											<option value="TIT">Title</option>	
+										
+											<option value="MOD">Model</option>	
+										
+											<option value="DIR">Director</option>	
+										
+										<!--<option value="ADV">Advanced Search</option>-->
+									</select>
+								</form></td>
+							</tr>
+							<tr>
+								<td width="10"><img src="images/falconStore/layoutImages/blank.gif" width="10" height="1"></td>
+								<td colspan="3" height="7"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="7"></td>
+							</tr>
+							<tr>	
+								<td width="10"><img src="images/falconStore/layoutImages/blank.gif" width="10" height="1"></td>
+								<td><input onmouseover="this.style.borderColor=globalBGColor" onfocus="this.style.borderColor=globalBGColor; if (this.value == ' enter terms here...') {this.value='';} if (document.searchForm.searchType.selectedIndex == 0) {document.searchForm.searchType.selectedIndex = 1}" onblur="this.style.borderColor='#000000'" onmouseout="this.style.borderColor='#000000'" onkeypress="if (event.keyCode == 13) {validateSearchForm()}" class="inputField" style="width: 130" type="text" name="searchWords" value=" enter terms here...">&nbsp;&nbsp;&nbsp;</td>
+
+									
+								<td width="5"><img src="images/falconStore/layoutImages/blank.gif" width="5" height="1"></td>
+								<td height="10" valign="top">
+
+<script>
+	function validateSearchForm() {
+		if ((document.searchForm.searchWords.value == '') || (document.searchForm.searchWords.value == ' enter terms here...')) {
+			alert('Please enter a search term in the blank before clicking the "Go" button.');
+			document.searchForm.searchWords.focus();
+			return(false);
+		}
+		document.forms['searchForm'].submit();
+	}	
+</script>
+									<img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>
+									<table cellspacing="0" cellpadding="0" border="0" width="1" bgcolor="#000000" style="cursor: pointer; cursor: hand;" onmouseover="buttonHoverOn('searchGo', globalBGColor)" onmouseout="buttonHoverOff('searchGo', '#000000')" onclick="validateSearchForm()" id="searchGo">
+										<tbody><tr>
+											<td colspan="4" height="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+											<td bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+										</tr>
+										<tr>
+											<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+											<td width="9" height="15" valign="CENTER" align="CENTER"><img src="images/falconStore/buttonsAndLogos/buttonArrow.gif" width="9" height="15"></td>
+											<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+											<td bgcolor="#FFFFFF" class="buttonText" id="searchGoText" width="100%" nowrap=""><img src="images/falconStore/layoutImages/blank.gif" height="1" width="3">GO</td>
+											<td valign="TOP" width="3" align="LEFT">
+												<table cellspacing="0" cellpadding="0" border="0" width="3" height="2">
+													<tbody><tr>
+														<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+														<td colspan="2" width="2" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+													</tr>
+													<tr>
+														<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+														<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+														<td width="1" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+													</tr>
+												</tbody></table>
+												<img src="images/falconStore/buttonsAndLogos/buttonLine.gif" width="3" height="13"><br>
+											</td>
+										</tr>
+										<tr>
+											<td colspan="5" height="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+										</tr>
+									</tbody></table>
+									
+								</td>
+							</tr>							
+						</tbody></table>					
+						<img src="images/falconStore/layoutImages/blank.gif" width="1" height="7"><br>										
+					</td>
+					<td width="1" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td height="1" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>	
+	<tr>
+		<td colspan="4" height="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>
+</tbody></table>
+<!-- t_infoBoxSearch_jsp end -->
+
+
+
+			</td>
+		</tr>
+		<tr>
+			<td height="3" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="3"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="201" height="136">					
+				
+				
+<!-- t_infoBoxLogin_jsp begin -->
+
+
+
+
+
+
+
+
+
+
+<!--  -->
+<script>
+
+</script>
+<table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%" class="mainFont" bgcolor="e20021">
+	<tbody><tr>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+		<td colspan="2" height="18">
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" height="18">
+				<tbody><tr>
+
+
+					<td width="1" class="whiteHeaderType">&nbsp;&nbsp;FalconXXX&nbsp;Members&nbsp;</td>
+					<td valign="bottom" width="100%" bgcolor="e20021">
+						<table cellspacing="0" cellpadding="0" border="0" width="100%" height="11">
+							<tbody><tr>
+								<td width="11" background="images/falconStore/layoutImages/FFFBE2HeaderTabCorner.gif"><img src="images/falconStore/layoutImages/blank.gif" width="11" height="11"></td>
+								<td bgcolor="#FFFBE2" width="100%"><img src="images/falconStore/layoutImages/blank.gif" width="30" height="1"></td>								
+							</tr>
+						</tbody></table>						
+					</td>					
+				</tr>
+			</tbody></table>			
+		</td>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>	
+		<td bgcolor="#FFFBE2" height="100%">
+			<img src="images/falconStore/layoutImages/blank.gif" width="1" height="5"><br>
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
+				<tbody><tr>
+					<td width="1" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>					
+					<td width="100%" height="100%" class="prodFont" bgcolor="#FFFBE2" valign="top" align="left">
+
+							<form name="quickLogin2" method="post" action="quickLogin.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios" onsubmit="" style="margin-bottom:0; margin-top:0;">
+							<table cellpadding="0" cellspacing="0" border="0" class="infoText">
+							<tbody><tr>		
+								<td width="10"><img src="images/falconStore/layoutImages/blank.gif" width="10" height="1"></td>
+								<td><input onfocus="this.style.borderColor=globalBGColor" onblur="this.style.borderColor='#000000'" onmouseover="this.style.borderColor='e20021'" onmouseout="this.style.borderColor='#000000'" onkeypress="if (event.keyCode == 13) {validateQLogin2('shop')}" class="inputField" type="text" name="userid" id="userid" value="" style="width: 105"></td>
+								<td>&nbsp;&nbsp;User&nbsp;Name</td>
+							</tr>
+							<tr>	
+								<td colspan="2" height="5"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="5"></td>
+							</tr>
+							<tr>	
+								<td width="10"><img src="images/falconStore/layoutImages/blank.gif" width="10" height="1"></td>
+								<td><input onfocus="this.style.borderColor=globalBGColor" onblur="this.style.borderColor='#000000'" onmouseover="this.style.borderColor='e20021'" onmouseout="this.style.borderColor='#000000'" onkeypress="if (event.keyCode == 13) {validateQLogin2('shop')}" class="inputField" type="password" name="passwd" id="passwd" value="" style="width: 105"></td>
+							<input type="hidden" name="loginTarget" value="">
+							
+								<td>&nbsp;&nbsp;Password</td>
+							</tr>	
+							<tr>	
+								<td colspan="2" height="10"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="10"></td>
+							</tr>
+							<tr>	
+								<td width="10"><img src="images/falconStore/layoutImages/blank.gif" width="10" height="1"></td>
+								<td colspan="2" align="LEFT">
+									<table cellspacing="0" cellpadding="0" border="0" width="1" bgcolor="#000000" style="cursor: pointer; cursor: hand;" onmouseover="buttonHoverOn('loginShop', globalBGColor)" onmouseout="buttonHoverOff('loginShop', '#000000')" onclick="validateQLogin2('shop')" id="loginShop">				
+										<tbody><tr>
+											<td colspan="4" height="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+											<td bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+										</tr>
+										<tr>
+											<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+											<td width="9" height="15" valign="CENTER" align="CENTER"><img src="images/falconStore/buttonsAndLogos/buttonArrow.gif" width="9" height="15"></td>
+											<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+											<td bgcolor="#FFFFFF" class="buttonText" id="loginShopText" width="100%" nowrap=""><img src="images/falconStore/layoutImages/blank.gif" height="1" width="3">Login&nbsp;&amp;&nbsp;Shop</td>
+											<td valign="TOP" width="3" align="LEFT">
+												<table cellspacing="0" cellpadding="0" border="0" width="3" height="2">
+													<tbody><tr>
+														<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+														<td colspan="2" width="2" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+													</tr>
+													<tr>
+														<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+														<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+														<td width="1" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+													</tr>
+												</tbody></table>
+												<img src="images/falconStore/buttonsAndLogos/buttonLine.gif" width="3" height="13"><br>
+											</td>
+										</tr>
+										<tr>
+											<td colspan="5" height="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+										</tr>
+									</tbody></table>
+									<img src="images/falconStore/layoutImages/blank.gif" height="5" width="1"><br>
+									<table cellspacing="0" cellpadding="0" border="0" width="1" bgcolor="#000000" style="cursor: pointer; cursor: hand;" onmouseover="buttonHoverOn('memberLogin', globalBGColor)" onmouseout="buttonHoverOff('memberLogin', '#000000')" onclick="validateQLogin2('member');" id="memberLogin">
+										<tbody><tr>
+											<td colspan="4" height="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+											<td bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+										</tr>
+										<tr>
+											<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+											<td width="9" height="15" valign="CENTER" align="CENTER"><img src="images/falconStore/buttonsAndLogos/buttonArrow.gif" width="9" height="15"></td>
+											<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+											<td bgcolor="#FFFFFF" class="buttonText" id="memberLoginText" width="100%" nowrap=""><img src="images/falconStore/layoutImages/blank.gif" height="1" width="3">Login&nbsp;&amp;&nbsp;go&nbsp;to&nbsp;FalconXXX</td>
+											<td valign="TOP" width="3" align="LEFT">
+												<table cellspacing="0" cellpadding="0" border="0" width="3" height="2">
+													<tbody><tr>
+														<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+														<td colspan="2" width="2" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+													</tr>
+													<tr>
+														<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+														<td width="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+														<td width="1" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+													</tr>
+												</tbody></table>
+												<img src="images/falconStore/buttonsAndLogos/buttonLine.gif" width="3" height="13"><br>
+											</td>
+										</tr>
+										<tr>
+											<td colspan="5" height="1"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+										</tr>
+									</tbody></table>
+									
+
+								</td>
+							</tr>
+							</tbody></table>
+
+					    <img src="images/falconStore/layoutImages/blank.gif" width="1" height="7"><br>										
+					</form></td>
+					<td width="5" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" width="5" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td height="1" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>	
+	<tr>
+		<td colspan="4" height="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>
+</tbody></table>
+<!-- t_infoBoxLogin_jsp end -->
+
+
+
+			</td>
+		</tr>
+		<tr>
+			<td height="3" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="3"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="201" height="225">					
+				
+				
+<!-- t_infoBoxNewFXXX_jsp begin -->
+
+
+
+
+
+
+
+
+
+
+<!--  -->
+<script>
+
+</script>
+<table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%" class="mainFont" bgcolor="e20021">
+	<tbody><tr>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+		<td colspan="2" height="18">
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" height="18">
+				<tbody><tr>
+
+
+					<td width="1" class="whiteHeaderType">&nbsp;&nbsp;New&nbsp;in&nbsp;FalconXXX&nbsp;</td>
+					<td valign="bottom" width="100%" bgcolor="e20021">
+						<table cellspacing="0" cellpadding="0" border="0" width="100%" height="11">
+							<tbody><tr>
+								<td width="11" background="images/falconStore/layoutImages/creamHeaderTabCorner.gif"><img src="images/falconStore/layoutImages/blank.gif" width="11" height="11"></td>
+								<td bgcolor="#FFFBE2" width="100%"><img src="images/falconStore/layoutImages/blank.gif" width="30" height="1"></td>								
+							</tr>
+						</tbody></table>						
+					</td>					
+				</tr>
+			</tbody></table>			
+		</td>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>	
+		<td bgcolor="#FFFBE2" height="100%">
+			<img src="images/falconStore/layoutImages/blank.gif" width="1" height="5"><br>
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
+				<tbody><tr>
+					<td width="1" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>					
+					<td width="100%" height="100%" class="prodFont" bgcolor="#FFFBE2" valign="top" align="left">
+
+								<table cellpadding="0" cellspacing="0" border="0" class="infoText" height="100%" width="100%">	
+										
+
+
+									<tbody><tr>
+										<td width="10"><img src="images/falconStore/layoutImages/blank.gif" width="10" height="1"></td>
+										<td width="35" height="33%" valign="MIDDLE"><a href="/falconxxx/tourPage.jsp.cont?groupName=joinTour&amp;sectionName=joinTour&amp;websiteName=falconjoin" target="top"><img src="http://ww12.falconstudios.com/pix/EFF1C7B9D3A08/FVP165/Watermarked/Thumbnailed/70/61166_T.jpg" width="35" height="53" border="0"></a><br><img src="images/falconStore/layoutImages/blank.gif" width="1" height="10"><br></td>
+										<td width="5"><img src="images/falconStore/layoutImages/blank.gif" width="5" height="1"></td>
+										<td width="100%" valign="MIDDLE">1 new flix clips added for Spokes III</td>
+									</tr>
+
+									<tr>
+										<td width="10"><img src="images/falconStore/layoutImages/blank.gif" width="10" height="1"></td>
+										<td width="35" height="33%" valign="MIDDLE"><a href="/falconxxx/tourPage.jsp.cont?groupName=joinTour&amp;sectionName=joinTour&amp;websiteName=falconjoin" target="top"><img src="http://ww12.falconstudios.com/pix/EFF1C7B9D3A08/FVP165/Watermarked/Thumbnailed/70/56394_T.jpg" width="35" height="53" border="0"></a><br><img src="images/falconStore/layoutImages/blank.gif" width="1" height="10"><br></td>
+										<td width="5"><img src="images/falconStore/layoutImages/blank.gif" width="5" height="1"></td>
+										<td width="100%" valign="MIDDLE">1 new video clips added for Ralph Woods</td>
+									</tr>
+
+									<tr>
+										<td width="10"><img src="images/falconStore/layoutImages/blank.gif" width="10" height="1"></td>
+										<td width="35" height="33%" valign="MIDDLE"><a href="/falconxxx/tourPage.jsp.cont?groupName=joinTour&amp;sectionName=joinTour&amp;websiteName=falconjoin" target="top"><img src="http://ww12.falconstudios.com/pix/EFF1C7B9D3A08/FVP102/Watermarked/52482T.jpg" width="35" height="53" border="0"></a><br><img src="images/falconStore/layoutImages/blank.gif" width="1" height="10"><br></td>
+										<td width="5"><img src="images/falconStore/layoutImages/blank.gif" width="5" height="1"></td>
+										<td width="100%" valign="MIDDLE">1 new flix clips added for Ripe For Harvest</td>
+									</tr>
+
+									</tbody></table>
+									<img src="images/falconStore/layoutImages/blank.gif" width="1" height="7"><br>										
+					</td>
+					<td width="5" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" width="5" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td height="1" bgcolor="#FFFBE2"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>	
+	<tr>
+		<td colspan="4" height="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>
+</tbody></table>
+<!-- t_infoBoxNewFXXX_jsp end -->
+
+
+
+			</td>
+		</tr>
+		
+	</tbody></table>
+<!-- t_fourDownLeft_jsp end -->
+
+
+					</td>
+					<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+					<td width="586" height="100%" bgcolor="#FFFFFF" valign="TOP">
+						
+
+
+<!-- begin privacyPolicy.jsp -->
+
+
+<style type="text/css">
+.contentDiv {
+	width:586px;
+	height:588px; 
+	overflow:auto; 
+	background-color: #FFFFFF;
+	SCROLLBAR-FACE-COLOR: #FFFFFF; 
+	SCROLLBAR-HIGHLIGHT-COLOR: #FCFCFC; 
+	SCROLLBAR-SHADOW-COLOR: e20021;
+	SCROLLBAR-3DLIGHT-COLOR: e20021; 
+	SCROLLBAR-ARROW-COLOR: e20021; 
+	SCROLLBAR-TRACK-COLOR: #EAE8E4; 
+	SCROLLBAR-DARKSHADOW-COLOR: e20021;
+}
+</style>
+
+<table cellspacing="0" cellpadding="0" border="0" class="mainFont" bgcolor="#FFFFFF" height="609">
+<tbody><tr>
+	<td height="100%" valign="TOP">		
+		
+		
+		
+<!-- t_panelHeader_jsp begin -->
+
+
+
+
+
+
+
+			<table cellspacing="0" cellpadding="0" border="0" height="18" class="mainFont" bgcolor="e20021">
+				<tbody><tr>
+					<td width="7"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="7"></td>
+					<td class="whiteHeaderType">Privacy&nbsp;Policy</td>
+					<td valign="BOTTOM"><img src="images/falconStore/layoutImages/whiteHeaderTabCorner.gif" height="11" width="11"></td>
+					<td valign="BOTTOM" width="100%">
+						<table cellspacing="0" width="100%" cellpadding="0" border="0" height="11" class="mainFont" bgcolor="#FFFFFF">
+							<tbody><tr>
+								<td><img src="images/falconStore/layoutImages/blank.gif" height="11" width="1"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+
+
+<!-- t_panelHeader_jsp end -->
+
+
+		<img src="../images/falconStore/layoutImages/blank.gif" height="1" width="1"><br>
+		<div class="contentDiv">
+		<!-- begin main content area -->
+			<img src="../images/falconStore/layoutImages/blank.gif" height="5" width="1"><br>
+			<table cellspacing="0" width="100%" cellpadding="0" border="0" bgcolor="#FFFFFF" class="infoText">
+				<tbody><tr>
+					<td width="5"><img src="../images/falconStore/layoutImages/blank.gif" height="1" width="5"></td>
+					<td align="LEFT">
+						<h5 align="left" class="body10">I. 
+						  Introduction</h5>
+						<p class="body10">Your 
+						  privacy is important to the Falcon Family of Companies. This privacy 
+						  policy discloses the information practices for <a href="http://www.falconstudios.com/" onclick="exit=false">http://www.falconstudios.com</a>, 
+						  including the types of information we gather and track, how we use 
+						  that information, and with whom we share it. The purpose of this 
+						  policy is to let you know how we use your personal information <i>before</i> 
+						  we collect it. We have tried to include a link to this policy on 
+						  every page on which personal information is collected. We have also 
+						  provided a number of links at the bottom of this page for those 
+						  interested in learning more about privacy issues in cyberspace.</p>
+						<p><strong>II. 
+						  Information Collection and Management</strong></p>
+						<blockquote> 
+						  <h5 class="body10">A. 
+							Personal information</h5>
+						  <blockquote> 
+							<h5 class="body10">i. 
+							  Information we collect</h5>
+							<p class="body10">"Personally 
+							  identifiable information" is information that can be used to 
+							  identify or contact you, such as your name, e-mail address, 
+							  home or work address, or telephone number. The Falcon Family 
+							  of Companies only has access to the personally identifiable 
+							  information that you provide to us. For example, we cannot determine 
+							  your e-mail address unless you provide it. We cannot gain access 
+							  to other information on your computer. </p>
+							<p class="body10">Those 
+							  who visit only public areas of the Web site (such as the "guest 
+							  tour") and who do not purchase goods or services do not need 
+							  to, and generally do not, provide us with any personally identifiable 
+							  information. </p>
+							<p class="body10">Those 
+							  who wish to join the site, however; or to purchase products 
+							  or services or sign up for our mailing list, must provide us 
+							  with enough information to enable us to process the requested 
+							  transaction. This generally includes, at a minimum, personally 
+							  identifiable information such as name, address, e-mail address, 
+							  and telephone number. Members also select, and thereby provide, 
+							  a username and password combination.</p>
+							<h5 class="body10">ii. 
+							  How we use the information</h5>
+							<p class="body10">Your 
+							  personally identifiable information is used only to process 
+							  the requested transaction, and occasionally to provide you with 
+							  special offers from the Falcon Family of Companies and others. 
+							  On occasion, for example, we may send e-mails to introduce a 
+							  product or service that we think will interest our subscribers.</p>
+							<p class="body10">The 
+							  Falcon Family of Companies will never intentionally disclose 
+							  any personally identifying information to any third party, unless 
+							  we are compelled to do so by law (for example, in response to 
+							  a subpoena or court order), or our obligation to maintain the 
+							  privacy of your information has been waived or otherwise excused 
+							  by you (for example, by your filing suit against us and asserting 
+							  claims against which such information would be relevant in our 
+							  defense). Please note that our lawyers, accountants, and/or 
+							  vendors are not "third parties" for the purpose of this section 
+							  to the extent that disclosure to them is necessary or desirable 
+							  for the operation of our business. </p>
+							<h5 class="body10">iii. 
+							  Opt-out policy</h5>
+							<p class="body10">Because 
+							  your personal information is required for us to provide services 
+							  to you, you cannot opt-out of providing it and still receive 
+							  those services. You can also opt-out of receiving promotional 
+							  e-mailings by contacting support@falconstudios.com. (Note that 
+							  by setting your e-mail preference to "No" you will not receive 
+							  advertising and promotional e-mail, but you may from time to 
+							  time receive e-mails in connection with billing and/or site 
+							  administration. For more detailed instructions about changing 
+							  your preferences and personal information, click <a href="http://www.falconstudios.com/falcon/FAQ.html?websiteName=falconstudios" onclick="exit=false">here</a>.</p>
+						  </blockquote>
+						  <h5 class="body10">B. 
+							Interactive data</h5>
+						  <blockquote> 
+							<h5 class="body10">i. 
+							  Information we collect</h5>
+							<p class="body10">FalconStudios.com 
+							  provides a number of features that allow members to communicate 
+							  with each other, such as a message board and chat room ("interactive 
+							  features"). Chat transcripts and message board postings are 
+							  backed up periodically in connection with our routine server 
+							  maintenance, and thus may be retained for an indeterminate time.</p>
+							<h5 class="body10">ii. 
+							  How we use the information</h5>
+							<p class="body10">Use 
+							  of these interactive features is not monitored by the Falcon 
+							  Family of Companies. We do not use information posted on interactive 
+							  features except as the author presumably intended, that is, 
+							  as content on the Web site (and occasionally as food for thought). 
+							  We do not share user submitted information with third parties, 
+							  however, any information posted is visible to other members, 
+							  and is vulnerable to being copied and/or redistributed by others. 
+							  Members should use reasonable caution when disclosing any personally 
+							  identifiable information in any online forum. We cannot be responsible 
+							  for any damages incurred as a result of such disclosure, and 
+							  use of the interactive services is at the member's own risk.</p>
+							<h5 class="body10">iii. 
+							  Opt-out policy</h5>
+							<p class="body10">Members 
+							  must opt-in (for example, by participating in a chat) in order 
+							  for us to collect this information.</p>
+						  </blockquote>
+						  <h5 class="body10">C. 
+							Click-stream data</h5>
+						  <blockquote> 
+							<h5 class="body10">i. 
+							  Information we collect</h5>
+							<p class="body10">We 
+							  also collect non-personally identifying information provided 
+							  by your browser and/or our servers, such as the name and IP 
+							  address of the domain from which you visited (if any), the amount 
+							  of time you spent on each page and on the site as a whole, and 
+							  the path you followed through the site. This sort of information 
+							  is sometimes known as click-stream data.</p>
+							<h5 class="body10">ii. 
+							  How we use the information</h5>
+							<p class="body10">We 
+							  use click-stream data in the aggregate to analyze trends and 
+							  statistics and to help us understand how subscribers use our 
+							  site. This allows us to identify areas and technologies that 
+							  need improvement, and to provide appropriate bandwidth and technical 
+							  support for areas that are growing. None of this information 
+							  is reviewed at an individual level. From time to time we may 
+							  share this aggregate statistical information with partners, 
+							  suppliers and other third parties, but it will not include any 
+							  personally identifiable information.</p>
+							<h5 class="body10">iii. 
+							  Opt-out policy</h5>
+							<p class="body10">Click-stream 
+							  data is generated by your browser and our servers, and therefore 
+							  you cannot opt-out of providing it. However, some of the privacy 
+							  resources listed below may provide a partial solution by (for 
+							  example) allowing you to cloak your IP address.</p>
+						  </blockquote>
+						  <h5 class="body10">D. 
+							Cookies</h5>
+						  <blockquote> 
+							<h5 class="body10">i. 
+							  Information we collect</h5>
+							<p class="body10">We 
+							  collect certain non-personally identifying information through 
+							  the use of "cookies." A cookie is a small file that a Web site 
+							  can send to your browser to be stored on your system. Some cookies 
+							  are deleted when you end your online session ("session cookies"), 
+							  while others may be stored on your computer indefinitely ("persistent 
+							  cookies"). We use session cookies on this site to store information 
+							  such as user login status (so that you aren't forced to enter 
+							  your username and password on every page). These cookies expire 
+							  automatically when you log out.</p>
+							<h5 class="body10">ii. 
+							  How we use the information</h5>
+							<p class="body10">We 
+							  use the information stored in cookies to personalize your Web 
+							  site experience and to manage your online session. The information 
+							  in cookies is both set and read by our server and is not logged 
+							  in the process. We do not share data that we collect from cookies 
+							  with third parties. </p>
+							<h5 class="body10">iii. 
+							  Opt-out policy</h5>
+							<p class="body10">You 
+							  can set your browser to notify you before you receive a cookie, 
+							  giving you the chance to decide whether to accept it. You can 
+							  also set your browser to turn off cookies. If you do so, however, 
+							  many areas of the site will not function properly. </p>
+						  </blockquote>
+						</blockquote>
+						<h5 class="body10">III. 
+						  Related Issues</h5>
+						<blockquote> 
+						  <h5 class="body10">A. 
+							Information security</h5>
+						  <p class="body10">We 
+							are constantly striving to improve the security of your personally 
+							identifiable information. We have implemented appropriate technical 
+							and organizational measures, such as using encryption for transmission 
+							of credit card numbers, to help us keep your information secure. 
+							We will continue to implement additional security measures as 
+							new technologies emerge.</p>
+						  <h5 class="body10">B. 
+							Online advertising </h5>
+						  <p class="body10">The 
+							Falcon Family of Companies does not use third-party services to 
+							provide banner advertising.</p>
+						  <h5 class="body10">C. 
+							Children's data </h5>
+						  <p class="body10">The 
+							Falcon Family of Companies' Web sites are not directed towards 
+							children, and do not collect any data governed by the United States’ 
+							Children's Online Privacy Protection Act (COPPA).</p>
+						  <h5 class="body10">D. 
+							Privacy technology </h5>
+						  <p class="body10">There 
+							are an increasing number of products and services are available 
+							to help protect your privacy while navigating the Web. See <a href="http://www.privacyalliance.org/resources/rulesntools.shtml" onclick="exit=false" target="_blank">http://www.privacyalliance.org/resources/rulesntools.shtml</a> 
+							for an overview of some of these tools. Please note that the Falcon 
+							Family of Companies has not formally evaluated these tools and 
+							makes no representations or warranties about them.</p>
+						  <h5 class="body10">E. 
+							Business relationships </h5>
+						  <p class="body10">This 
+							contains links to other Web sites. The Falcon Family of Companies 
+							is not responsible for the privacy practices or the content of 
+							such Web sites. For example, credit card billing is provided by 
+							<a href="http://dhdmedia.com/" onclick="exit=false" target="_blank">DHD</a>. 
+							The privacy of information that you provide to those companies 
+							is governed by their respective privacy policies and not that 
+							of the Falcon Family of Companies.</p>
+						  <h5 class="body10">F. 
+							Notification of changes </h5>
+						  <p class="body10">This 
+							privacy statement was last updated on January 31, 2003. A notice 
+							will be posted on our web site for 30 days whenever this privacy 
+							statement is changed. </p>
+						  <h5 class="body10">G. 
+							Questions regarding this statement</h5>
+						  <p class="body10">Questions 
+							regarding this statement should be directed to the Falcon Family 
+							of Companies <a href="mailto:info@falconstudios.com">Privacy coordinator</a>.</p>
+						</blockquote>						
+					</td>
+					<td width="5"><img src="../images/falconStore/layoutImages/blank.gif" height="1" width="5"></td>
+				</tr>
+			</tbody></table>
+		</div>
+	</td>
+</tr>
+<tr>
+	<td height="1" bgcolor="#FFFFFF"><img src="../images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+</tr>
+<tr>
+	<td height="1" bgcolor="e20021"><img src="../images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+</tr>
+</tbody></table>
+<!-- end privacyPolicy.jsp -->	
+					</td>
+					<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+					<td width="201" valign="TOP" bgcolor="e20021">
+						
+<!-- t_fourDownRight_jsp begin -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- saProductIDs[0]='FVP169|MVP079|FVP16768|' -->
+<!-- saProductIDs[1]='FVP019DVD|FVP072DVD|FVP094DVD|FVP142DVD|' -->
+<!-- saProductIDs[2]='FVP166PPV|MVP074PPV|FVP165PPV|MVP075PPV|' -->
+<!-- iGotThree=3 -->
+
+	<table width="201" height="609" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td align="left" valign="top" width="201" height="25%">
+				<!-- BIN ONE -->
+				<!-- MOST RECENT MOVIE -->
+				
+				
+				
+				
+				<!-- saProductIDs[0]==FVP169|MVP079|FVP16768| -->
+<!-- db_record1.getResultsSize()==3 -->
+<!-- iRecordIndex==0 -->
+
+				
+
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+
+
+
+
+<!-- t_promoBoxProd_jsp begin -->
+
+
+
+
+
+
+
+<!-- template_content("label0URL")=http://www.fromtoptobottomthemovie.com -->
+
+<!--  -->
+<script>
+eval('var riseIndex2W0iaFlWU0Al4M = 0;');
+eval('var riseIndex3W0iaFlWU0Al4M = 0;');
+eval('var riseW0iaFlWU0Al4M = false;');
+raiseTabsW0iaFlWU0Al4M = false;
+</script>
+<table cellspacing="0" cellpadding="0" border="0" width="100%" height="150" class="mainFont">
+	<tbody><tr>
+		<td colspan="3" height="18">
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" height="18">
+				<tbody><tr>
+					<td class="whiteHeaderType">&nbsp;&nbsp;Latest&nbsp;Release&nbsp;</td>
+					<td valign="bottom" width="100%">
+						<table cellspacing="0" cellpadding="0" border="0" width="100%" height="11">
+							<tbody><tr>
+								<td width="11" background="images/falconStore/layoutImages/whiteHeaderTabCorner.gif"><img src="images/falconStore/layoutImages/blank.gif" width="11" height="11"></td>
+								<td bgcolor="#FFFFFF" width="100%"><img src="images/falconStore/layoutImages/blank.gif" width="30" height="1"></td>								
+							</tr>
+						</tbody></table>					
+					</td>					
+				</tr>
+			</tbody></table>			
+		</td>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>	
+		<td bgcolor="#FFFFFF" height="100%">
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" height="108">
+				<tbody><tr>
+					<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+					<td width="70" valign="TOP" align="CENTER" bgcolor="#FFFFFF">
+						<img src="images/falconStore/layoutImages/blank.gif" width="1" height="3"><br>
+						<a href="http://www.fromtoptobottomthemovie.com"><img src="http://ww12.falconstudios.com/pix/EFF1C7B9D3A08/FVP169/Watermarked/Thumbnailed/70/62257_T.jpg" alt="FVP169" border="0" height="106" width="70"></a><br>	
+						<img src="images/falconStore/layoutImages/blank.gif" width="1" height="1" border="0"><br><a href="https://www.falconstudios.com/shop/Cashier.do?websiteName=falconstudios&amp;action=add&amp;productid=FVP169DVD" class="coloredType">add&nbsp;to&nbsp;cart</a><br>
+					</td>
+					<td width="5" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="5" height="1"></td>
+					<td width="100%" class="prodFont" bgcolor="#FFFFFF" valign="top" align="left">
+						<div style="width: 113px; height: 108px; overflow: hidden; border: hidden;">
+							<b>From Top to Bottom + Score 10 FREE</b><br>
+							From Top To Bottom features the return of Falcon Superstars Jason Adonis and Billy Brandt like no one's ever seen them before.
+						</div>					
+						<div align="right" style="height: 15px;">
+						<a class="coloredMoreFont" href="http://www.fromtoptobottomthemovie.com">[more]</a><br>
+						</div>
+					</td>
+					<td width="5" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="5" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td height="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>	
+	<tr>
+		<td colspan="4" height="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>
+</tbody></table>
+<!-- t_promoBoxProd_jsp end -->
+
+
+
+					
+				<!-- BIN ONE END -->
+			</td>
+		</tr>
+		<tr>
+			<td height="4" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="4"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="201" height="25%">
+                            
+				
+					
+				
+<!-- t_scheduledContentGroup_jsp begin -->
+
+
+
+
+
+
+
+
+
+
+				    
+	    <table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
+		<tbody><tr>
+		    <td width="100%" height="100%" class="prodFont" bgcolor="#FFFBE2" valign="top" align="center">
+		    
+			
+					
+					
+					
+					
+					
+					
+		    
+<!-- tcg_handOffToRandom_jsp begin -->
+
+
+
+
+
+
+
+	    <!--  Template: tcg_handOffToRandom_jsp Sales and Marketing Promo One
+	    , ,   -->
+	    
+		
+		
+		
+		
+		
+		
+		
+	    
+<!-- tc_buttonBin_jsp begin -->
+
+
+
+
+
+
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFBE2" style="color:white" id="SandMPromo_2Carl" class="coloredType">
+<tbody><tr>
+	<td align="CENTER" valign="TOP">
+	    <!--<h2>New Image for 30 movies </h2>
+	    Template: tc_buttonBin_jsp<br>
+	    http://www.falconstudios.com/shop/Route.do?code=STOREBIN_FREEFLIX_PAGE, http://images.falconstudios.com/pix/EFF1C7B9D3A08/shopPromoBins/30freemovies_promo.gif, <br>
+	    <br> -->
+	    <a href="http://www.falconstudios.com/shop/Route.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&amp;code=STOREBIN_FREEFLIX_PAGE" target="_blank"><img src="http://images.falconstudios.com/pix/EFF1C7B9D3A08/shopPromoBins/30freemovies_promo.gif" border="0"></a></td>
+</tr>
+</tbody></table><!-- tc_buttonBin_jsp end -->
+
+
+	    
+<!-- tcg_handOffToRandom_jsp end -->
+
+</td>
+		</tr>
+	    </tbody></table><!-- t_scheduledContentGroup_jsp end -->
+
+</td>
+
+		</tr>
+		<tr>
+			<td height="4" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="4"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="201" height="25%">
+				<!-- BIN THREE -->
+				<!-- MOST RECENT PPV -->
+				
+				
+				
+				
+				<!-- saProductIDs[2]==FVP166PPV|MVP074PPV|FVP165PPV|MVP075PPV| -->
+<!-- db_record3.getResultsSize()==4 -->
+<!-- iRecordIndex==0 -->
+<!-- theResults!=null -->
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+
+
+
+
+<!-- t_promoBoxPPV_jsp begin -->
+
+
+
+
+
+
+
+<!-- template_content("label0URL")= -->
+
+<!--  -->
+<script>
+eval('var riseIndex2jk11be1xuiHOM = 0;');
+eval('var riseIndex3jk11be1xuiHOM = 0;');
+eval('var risejk11be1xuiHOM = false;');
+raiseTabsjk11be1xuiHOM = false;
+</script>
+<table cellspacing="0" cellpadding="0" border="0" width="100%" height="150" class="mainFont">
+	<tbody><tr>
+		<td colspan="3" height="18">
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" height="18">
+				<tbody><tr>
+					<td class="whiteHeaderType">&nbsp;&nbsp;Featured&nbsp;Pay&nbsp;Per&nbsp;View&nbsp;</td>
+					<td valign="bottom" width="100%">
+						<table cellspacing="0" cellpadding="0" border="0" width="100%" height="11">
+							<tbody><tr>
+								<td width="11" background="images/falconStore/layoutImages/whiteHeaderTabCorner.gif"><img src="images/falconStore/layoutImages/blank.gif" width="11" height="11"></td>
+								<td bgcolor="#FFFFFF" width="100%"><img src="images/falconStore/layoutImages/blank.gif" width="30" height="1"></td>								
+							</tr>
+						</tbody></table>					
+					</td>					
+				</tr>
+			</tbody></table>			
+		</td>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>	
+		<td bgcolor="#FFFFFF" height="100%">
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" height="108">
+				<tbody><tr>
+					<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+					<td width="70" valign="TOP" align="CENTER" bgcolor="#FFFFFF">
+						<img src="images/falconStore/layoutImages/blank.gif" width="1" height="3"><br>
+						<a href="http://www.falconstudios.com/shop/FVP165-G-PayPerView1-S-payPerView.prod;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&amp;sectionName=payPerView&amp;groupName=PayPerView1"><img src="http://ww12.falconstudios.com/pix/EFF1C7B9D3A08/FVP165/Watermarked/Thumbnailed/70/61166_T.jpg" alt="FVP165" height="106" width="70" border="0"><br>	
+						<img src="images/falconStore/layoutImages/blank.gif" width="1" height="1" border="0"><br><font class="coloredType">watch</font></a><br>						
+					</td>
+					<td width="5" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="5" height="1"></td>
+					<td width="100%" class="prodFont" bgcolor="#FFFFFF" valign="top" align="left">
+						<div style="width: 113px; height: 108px; overflow: hidden; border: hidden;">
+							<b>Spokes III</b><br>
+							The legendary bike gang returns ... and this time the initiation is going to be brutal.
+						</div>					
+						<div align="right" style="height: 15px;">
+						<a class="coloredMoreFont" href="http://www.falconstudios.com/shop/FVP165-G-PayPerView1-S-payPerView.prod;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&amp;sectionName=payPerView&amp;groupName=PayPerView1">[more]</a><br>
+						</div>
+					</td>
+					<td width="5" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="5" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td height="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>	
+	<tr>
+		<td colspan="4" height="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>
+</tbody></table>
+<!-- t_promoBoxPPV_jsp end -->
+
+
+
+					
+				<!-- BIN THREE END -->
+			</td>
+		</tr>
+		<tr>
+			<td height="3" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="3"></td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="201" height="25%">
+				<!-- BIN TWO -->
+				<!-- MOST RECENT RERELEASE OF DVD -->
+				
+				
+				
+				
+				<!-- saProductIDs[1]==FVP019DVD|FVP072DVD|FVP094DVD|FVP142DVD| -->
+<!-- db_record2.getResultsSize()==4 -->
+<!-- iRecordIndex==0 -->
+
+				
+
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+
+
+
+
+<!-- t_promoBoxProd_jsp begin -->
+
+
+
+
+
+
+
+<!-- template_content("label0URL")=FVP072-G-Falcon-S-falconMovies.prod?sectionName=falconMovies&groupName=Falcon -->
+
+<!--  -->
+<script>
+eval('var riseIndex2gqgVYhPo2ZfJa = 0;');
+eval('var riseIndex3gqgVYhPo2ZfJa = 0;');
+eval('var risegqgVYhPo2ZfJa = false;');
+raiseTabsgqgVYhPo2ZfJa = false;
+</script>
+<table cellspacing="0" cellpadding="0" border="0" width="100%" height="150" class="mainFont">
+	<tbody><tr>
+		<td colspan="3" height="18">
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" height="18">
+				<tbody><tr>
+					<td class="whiteHeaderType">&nbsp;&nbsp;New&nbsp;on&nbsp;DVD&nbsp;</td>
+					<td valign="bottom" width="100%">
+						<table cellspacing="0" cellpadding="0" border="0" width="100%" height="11">
+							<tbody><tr>
+								<td width="11" background="images/falconStore/layoutImages/whiteHeaderTabCorner.gif"><img src="images/falconStore/layoutImages/blank.gif" width="11" height="11"></td>
+								<td bgcolor="#FFFFFF" width="100%"><img src="images/falconStore/layoutImages/blank.gif" width="30" height="1"></td>								
+							</tr>
+						</tbody></table>					
+					</td>					
+				</tr>
+			</tbody></table>			
+		</td>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>	
+		<td bgcolor="#FFFFFF" height="100%">
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" height="108">
+				<tbody><tr>
+					<td width="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+					<td width="70" valign="TOP" align="CENTER" bgcolor="#FFFFFF">
+						<img src="images/falconStore/layoutImages/blank.gif" width="1" height="3"><br>
+						<a href="http://www.falconstudios.com/shop/FVP072-G-Falcon-S-falconMovies.prod;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&amp;sectionName=falconMovies&amp;groupName=Falcon"><img src="http://ww12.falconstudios.com/pix/EFF1C7B9D3A08/FVP072/FVP072_6.jpeg" alt="FVP072" border="0" height="106" width="70"></a><br>	
+						<img src="images/falconStore/layoutImages/blank.gif" width="1" height="1" border="0"><br><a href="https://www.falconstudios.com/shop/Cashier.do?websiteName=falconstudios&amp;action=add&amp;productid=FVP072DVD" class="coloredType">add&nbsp;to&nbsp;cart</a><br>
+					</td>
+					<td width="5" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="5" height="1"></td>
+					<td width="100%" class="prodFont" bgcolor="#FFFFFF" valign="top" align="left">
+						<div style="width: 113px; height: 108px; overflow: hidden; border: hidden;">
+							<b>Compulsion: He's Gotta Have It</b><br>
+							Steve Fox teams up with "Big" Jack Dillon, Trevor Hansen, Dcota, Scott Hogan, Chad Knight and
+						</div>					
+						<div align="right" style="height: 15px;">
+						<a class="coloredMoreFont" href="http://www.falconstudios.com/shop/FVP072-G-Falcon-S-falconMovies.prod;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&amp;sectionName=falconMovies&amp;groupName=Falcon">[more]</a><br>
+						</div>
+					</td>
+					<td width="5" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="5" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td height="1" bgcolor="#FFFFFF"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+		<td width="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>	
+	<tr>
+		<td colspan="4" height="1"><img src="images/falconStore/layoutImages/blank.gif" width="1" height="1"></td>
+	</tr>
+</tbody></table>
+<!-- t_promoBoxProd_jsp end -->
+
+
+
+					
+				<!-- BIN TWO END -->
+			</td>
+		</tr>
+	</tbody></table>
+<!-- t_fourDownRight_jsp end -->
+
+
+					</td>
+				</tr>				
+			</tbody></table>
+		</td>
+		<td bgcolor="#FFFFFF" height="1" width="100%"><img src="/shop/images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+	</tr>
+	<tr>
+		<td bgcolor="#FFFFFF" height="100%" valign="TOP" class="coloredMoreFont">
+			 
+
+<!-- t_footer_jsp begin -->
+
+
+
+
+
+
+
+
+<!-- 11 -->
+
+<!-- begin t_footer.jsp -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+	<td align="center">
+		<!--
+		get session bo_website and ask for footer list 
+		iterate through list making links to ContentRequest.do?contentPage=[item from list] [label from list]
+		-->
+		
+		
+
+			<a class="coloredMoreFont" href="http://www.falconstudios.com/shop/siteMap.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios" target="_top">Site&nbsp;Map</a>
+			<span class="coloredMoreFont"> | </span>
+		
+
+			<a class="coloredMoreFont" href="http://www.falconstudios.com/shop/FAQ.jsp.wrap;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios" target="_top">FAQ</a>
+			<span class="coloredMoreFont"> | </span>
+		
+
+			<a class="coloredMoreFont" href="http://www.falconstudios.com/shop/foreignDist.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios" target="_top">Int'l&nbsp;Distributors</a>
+			<span class="coloredMoreFont"> | </span>
+		
+
+			<a class="coloredMoreFont" href="http://www.buckbuddies.com" target="_top">Webmaster&nbsp;Program</a>
+			<span class="coloredMoreFont"> | </span>
+		
+
+			<a class="coloredMoreFont" href="http://www.falconstudios.com/shop/TOS.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios" target="_top">Terms&nbsp;Of&nbsp;Service</a>
+			<span class="coloredMoreFont"> | </span>
+		
+
+			<a class="coloredMoreFont" href="http://www.falconstudios.com/shop/privacyPolicy.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios" target="_top">Privacy&nbsp;Policy</a>
+			<span class="coloredMoreFont"> | </span>
+		
+
+			<a class="coloredMoreFont" href="http://www.falconstudios.com/shop/beAModel.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios" target="_top">Be&nbsp;A&nbsp;Model</a>
+			<span class="coloredMoreFont"> | </span>
+		
+
+			<a class="coloredMoreFont" href="http://www.falconstudios.com/shop/jobs.jsp.wrap;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios" target="_top">Jobs</a>
+			<span class="coloredMoreFont"> | </span>
+		
+
+			<a class="coloredMoreFont" href="http://www.falconstudios.com/shop/contactUs.jsp.cont;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios" target="_top">Contact</a>
+			<span class="coloredMoreFont"> | </span>
+		
+
+			<a class="coloredMoreFont" href="http://www.falconstudios.com/shop/ShowGroup.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstore" target="mainWin">FalconStore</a>
+			<span class="coloredMoreFont"> | </span>
+		
+
+			<a class="coloredMoreFont" href="http://www.falconstudios.com/shop/templates/t_shopMemberAutoLogin.jsp;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios" target="_blank">FalconXXX&nbsp;Member&nbsp;Site</a>
+			
+		
+	</td>
+</tr>
+</tbody></table>
+
+
+<!-- t_footer_jsp end -->
+
+
+
+<br><span style="font-size:12.0px"><a href="Route.do;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&amp;dest=2257" target="_blank"><b>18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement</b></a></span>
+		</td>
+		<td bgcolor="#FFFFFF" height="1" width="100%"><img src="/shop/images/falconStore/layoutImages/blank.gif" height="1" width="1"></td>
+	</tr>
+</tbody></table>
+</div2>
+<script type="text/javascript">
+
+//studios_default_studios_default
+			highlightTab('AboutFalcon');
+
+</script>
+<iframe src="/shop/countMe.jsp;jsessionid=24FE067A3092B556B7C3F87639AFC835?websiteName=falconstudios&amp;name=FalconStore" width="1" height="1" frameborder="0">
+</body>
+</html>
+<!-- t_shopper_jsp end -->
+
+
+
+<!-- class org.apache.jsp.contentRequest_jsp end -->
+
+</iframe></body></html>
