@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508113056id_/http%3A//www.houseofnames.com/xq/asp/sId./kbId.178/title.Privacy%2BStatement/qx/knowledgebase.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2006-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061105001533id_/http%3A//www.houseofnames.com/xq/asp/sId./kbId.178/title.Privacy%2BStatement/qx/knowledgebase.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Knowledge Base, HouseofNames.com
-
-## Privacy Statement
 
   
 
 
-Last Updated on 2006/01/17
+Last Updated on 2006/09/26
 
 Swyrich Corporation, the parent company of Houseofnames.com, has created this privacy statement in order to demonstrate our strong commitment to protecting your privacy. This statement discloses how we collect and disseminate information. 
 
 [](http://www.truste.org/ivalidate.php?url=www.houseofnames.com&sealid=101)Swyrich Corporation is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.houseofnames.com. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. 
 
-If users have questions or concerns regarding this statement, you can contact Privacy Enforcement via [Email](mailto:privacy@swyrich.com?Subject=Privacy%20Enforcement). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process [(http://www.truste.org/consumers/watchdog_complaint.php)](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+If users have questions or concerns regarding this statement, you can contact Privacy Enforcement via [Email](mailto:privacy@swyrich.com?Subject=HON%20Privacy%20Concerns). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process [(http://www.truste.org/consumers/watchdog_complaint.php)](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
 ## Contact Information
 
@@ -22,7 +20,7 @@ Houseofnames.com welcomes your comments regarding this privacy statement; please
   * Toll Free: 888-468-7686 x226 
   * Phone: 613-384-9986 x226 
   * Fax: 613-384-0606 
-  * [E-mail](mailto:privacy@swyrich.com?Subject=Privacy%20Questions) (Note: E-mail is a non-confidential means of communication) 
+  * [E-mail](mailto:privacy@swyrich.com?Subject=HON%20Privacy%20Contact) (Note: E-mail is a non-confidential means of communication) 
   * Postal Mail, addressed to   
 House Of Names Privacy   
 Swyrich Corporation   
@@ -49,6 +47,8 @@ If you contact us via email, we require as a minimum
   * your name 
   * E-mail address 
 
+
+
 so that we may contact you; additional, opt-in, information may be given so as to describe you request. 
 
 ### When an order is placed:
@@ -68,13 +68,13 @@ If you place an order through our secure on-line form, or over the phone, we req
 
 US customers: Orders requiring importation into the US that also total $200 USD or more, must contain a tracking number, either an Employer Identification Number (also referred to as a Tax Id) or a Social Security Number (SSN). This requirement started October 1, 2004, and was made by US Customs and Border Protection, as a result of the Dept. of Homeland Security's initiative to improve security at the US border. 
 
-This requirement does not apply to purchases that are either downloaded over the Internet, do not require importation, or are importation orders totaling less than $200 USD. The tracking number must belong to the ultimate consignee of the party receiving any portion of the shipment. For further information on US security policies and requirements, please visit the US Customs and Border Protection [web site](http://www.cbp.gov/). 
+This requirement does not apply to purchases that are either downloaded over the Internet, do not require importation, or are importation orders totaling less than $200 USD (2005). The tracking number must belong to the ultimate consignee of the party receiving any portion of the shipment. For further information on US security policies and requirements, please visit the US Customs and Border Protection [web site](http://www.cbp.gov/). 
 
 As House Of Names customers are general consumers who do not normally have a Tax Id, we have elected to request the consignee's SSN number on the on-line purchase order form, when applicable. 
 
 This number is provided to US Customs in electronic form, and printed on a hard copy of the invoice shipped with the product (if necessary). House Of Names will, in those cases where it must collect it, treat the customer's SSN identification with the same respect as any other personal information, and in particular with the same security as given credit card numbers; that is, the SSN will be recorded only for shipping requirement purposes, and is retained as per our Privacy, Security, and Information Retention policy, as documented further on this page. 
 
-If you have concerns regarding this policy, contact House of Names via [E-mail](mailto:privacy@swyrich.com?Subject=SSN%20Privacy%20Questions), or if you have immediate concerns regarding ordering and shipping, or if you wish to make a personal statement to House Of Names regarding such, call us toll free: 888-468-7686 (or 613-384-9986) x226. 
+If you have concerns regarding this policy, contact House of Names via [E-mail](mailto:privacy@swyrich.com?Subject=HON%20SSN%20Privacy), or if you have immediate concerns regarding ordering and shipping, or if you wish to make a personal statement to House Of Names regarding such, call us toll free at 888-468-7686 (or 613-384-9986), x226. 
 
 ### When joining the Affiliate Program:
 
@@ -99,7 +99,7 @@ Houseofnames.com does not collect any demographic information.
 
 ## Third Party Personally Identifiable Information
 
-A visitor to our site may wish to use the "Email To A Friend" service that exists on surname search result pages (see the envelope icon near the top right hand side of the page). The user must provide 'From' and 'To' E-mail addresses in order to use this feature. The friend only receives a one-time invite. Those E-mail addresses are not collected by the site, and are not linked to any other data.
+A visitor to our site may wish to use the "Email To A Friend" service that exists on surname search result pages (see the envelope icon near the top right hand side of the page). The user must provide 'From' and 'To' E-mail addresses in order to use this feature. The friends only receive a one-time invite, and their E-mail addresses are not collected, stored, or linked to any other data by this site.
 
 ## Information Usage
 
@@ -128,6 +128,21 @@ We do not use third parties to provide services on our site.
 
 
 We reserve the right to disclose your personal identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our site. 
+
+## E-Mail Communications:
+
+  * Newsletters: 
+
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Information Control” section. 
+
+  * Service-related Announcements: 
+
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, we will send you a confirmation email when placing an order, order related emails as necessary, and if our service is temporarily suspended for maintenance, we might send you an email. 
+
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, please contact us at [E-mail](mailto:privacy@swyrich.com?Subject=HON%20EMail%20Privacy), or toll free at 888-468-7686 (or 613-384-9986), x226. 
+
+
+
 
 ## Information Retention
 
@@ -181,6 +196,10 @@ Cookies are not linked to your personal information.
 
 No Web Beacons, or similar devices, are used on the site. 
 
+## Testimonials:
+
+If you submit a testimonial for use on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+
 ## External Links
 
 The Houseofnames.com site contains links to external web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
@@ -203,7 +222,7 @@ Houseofnames.com is certified by, subscribes to, and or follows the recommendati
 
 ## Enforcement
 
-If you have questions regarding this statement, you should first contact Swyrich Corporation by [Email](mailto:privacy@swyrich.com?Subject=Privacy%20Enforcement), phone, fax, and or postal mail; an acknowledgement reply is normally set immediately, but please allow 2 business days for a reply to your specific inquiry. If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed not later then 30 days after it was made, you may log a complaint with one of the following: 
+If you have questions regarding this statement, you should first contact Swyrich Corporation by [Email](mailto:privacy@swyrich.com?Subject=HON%20Privacy%20Enforcement), phone, fax, and or postal mail; an acknowledgement reply is normally set immediately, but please allow 2 business days for a reply to your specific inquiry. If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed not later then 30 days after it was made, you may log a complaint with one of the following: 
 
   * [TRUSTe (Privacy Oversight)](http://www.truste.org/consumers/watchdog_complaint.php)
   * [BBB](http://www.bbbonline.org/consumer/complaint.asp)
