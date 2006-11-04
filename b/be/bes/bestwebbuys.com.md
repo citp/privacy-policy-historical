@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the bestwebbuys.com privacy policy that was archived on 2001-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010129021600id_/http%3A//www6.bestwebbuys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwebbuys.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104133029id_/http%3A//www.bestwebbuys.com/privacy.html) for the most accurate reproduction.*
 
-# Best Web Buys Privacy Policy
+# Best Web Buys searches online stores to find the lowest prices for books, music, and more.
 
 est Web Buys has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the following websites: 
 
 > [http://www.bestwebbuys.com](http://www.bestwebbuys.com/)  
 >  [http://www.bestbookbuys.com](http://www.bestbookbuys.com/)  
 >  [http://www.bestmusicbuys.com](http://www.bestmusicbuys.com/)  
+>  [http://www.bestvideobuys.com](http://www.bestwebbuys.com/video)  
+>  [http://www.bestelectronicbuys.com](http://www.bestwebbuys.com/electronics)  
 >  [http://www.bestbikebuys.com](http://www.bestbikebuys.com/)  
 > 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors. 
+
+For example, say you arrived to our website by following a link on a website like AboutAerobics.com that talks about [aerobic exercise](http://www.aboutaerobics.com/ "aerobic exercise"). All we will ever know about you is your IP address and that you visited our books section that compares prices of aerobic books. 
 
 **_Sharing of information_**
 
@@ -18,13 +22,11 @@ Best Web Buys does not share any contact information or IP address information w
 
 Best Web Buys links to its partner sites. Best Web Buys is not responsible for the privacy practices or the content of such Web sites. 
 
-In addition, Best Web Buys technology powers select partner web sites. For example, CampusFlash.com uses Best Web Buys search technology to power their book comparison service on their web site. In these cases, Best Web Buys does not share any user information with our licensees. 
+In addition, Best Web Buys technology powers select partner web sites. Best Web Buys search technology in used on partner web sites to power their product comparison services. In these cases, Best Web Buys does not share any user information with our licensees. 
 
 Our online surveys ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-We run contests on our site in which we ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-This site uses the services of [Engage](http://www.engage.com/) for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+We run contests and scholarship programs on our site in which we ask visitors for contact information (like their mailing and email addresses). The customer's contact information is used to contact them when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
 Some ads served on our site may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
@@ -46,20 +48,19 @@ This site supplements the information that you provide with information that is 
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
-To have your name removed from our database, to not receive future communications or to no longer receive our service, send email to [privacy@bestwebbuys.com](mailto:privacy@bestwebbuys.com)
+To have your name removed from our database, to not receive future communications or to no longer receive our service, send email to [webmaster@bestwebbuys.com](mailto:webmaster@bestwebbuys.com) . 
 
 **_Correct/Update_**
 
-To change or modify personal profile information previously provided, send email to [remove@bestwebbuys.com](mailto:remove@bestwebbuys.com)
+To change or modify personal profile information previously provided, send email to [webmaster@bestwebbuys.com](mailto:webmaster@bestwebbuys.com) . 
 
 **_Contacting Best Web Buys_**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 > Best Web Buys  
->  2400 Lincoln Ave  
->  Altadena, CA 91001  
->  [webmaster@bestwebbuys.com](mailto:webmaster@bestwebbuys.com)  
+>  1150 Foothill Blvd, Suite J  
+>  La Canada, CA 91011  
 > 
 
 |  
