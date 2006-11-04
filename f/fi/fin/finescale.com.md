@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231171014id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104100339id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
 
 # Kalmbach Publishing Co. - Kalmbach Publishing Co. Privacy Policy - (12/01/2004)
 
@@ -6,7 +6,7 @@ Kalmbach Publishing Co. Privacy Policy
 
 | 
 
-Last modified: September 25, 2004.
+Last modified: March 02, 2006.
 
 Kalmbach Publishing Co. is committed to providing service that exceeds expectations while treating all customers as VIPs. This includes maintaining your privacy and that of the members of your family, when it comes to use of any "personally identifiable information" you may voluntarily provide us via the Internet or otherwise.
 
@@ -32,9 +32,6 @@ Gathering Information
 Kalmbach Publishing Co. is the publisher of the following magazines and web sites: American Snowmobiler, Astronomy, Art Jewelry, Bead&Button, BeadStyle, Birder's World, Classic Toy Trains, Classic Trains, FineScale Modeler, Garden Railways, Model Railroader, Model Retailer, Scale Auto, Trains, and The Writer.
 
 Kalmbach Publishing Co. is also the host for:
-
-  * [www.astroshops.com](http://store.yahoo.com/kalmbachcatalog/astronomy.html)
-  
 
   * [www.beadandbuttonshow.com ](http://www.beadandbuttonshow.com/)
   
