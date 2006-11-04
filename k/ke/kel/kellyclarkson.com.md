@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellyclarkson.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415001634id_/http%3A//www.kellyclarkson.com/main.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellyclarkson.com privacy policy that was archived on 2006-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061104203033id_/http%3A//www.kellyclarkson.com/main.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # KellyClarkson.com
 
