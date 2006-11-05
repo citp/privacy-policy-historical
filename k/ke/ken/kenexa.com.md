@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the kenexa.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414221411id_/http%3A//kenexa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenexa.com privacy policy that was archived on 2006-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061105044155id_/http%3A//www.kenexa.com/privacy.html) for the most accurate reproduction.*
 
 # Kenexa::About::Press Room
 
 ## Privacy Policy
 
-**Kenexa Technology, Inc.**
+**Kenexa**
 
 **Privacy Policy and Terms of Use**
 
 ### Overview
 
-Kenexa Technology, Inc.’s solutions are used by our customers when hiring employees to post jobs, receive job applications, and assess job candidates. Kenexa also provides solutions in the areas of employee survey research, leadership research and development, and performance management.
+Kenexa's solutions are used by our customers when hiring employees to post jobs, receive job applications, and assess job candidates. Kenexa also provides solutions in the areas of employee survey research, leadership research and development, and performance management.
 
 Kenexa is committed to ensuring the privacy of your visit to all of our web sites. You can utilize most of our services without submitting any personal information. In our web sites related to job hiring, you may be required to enter information about yourself if you want to avail yourself of our extended services to enhance your job searching and application-processing capabilities. Kenexa adheres to the [Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/SHPRINCIPLESFINAL.htm) as developed by the U.S. Department of Commerce, in conjunction with the European Commission.  This Privacy Policy and Terms of Use apply to all Kenexa Web systems.  It does not apply to the Web sites or operations of third parties.
 
