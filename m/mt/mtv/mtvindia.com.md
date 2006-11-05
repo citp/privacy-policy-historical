@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvindia.com privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624052323id_/http%3A//mtvindia.com/mtv/aboutus/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvindia.com privacy policy that was archived on 2006-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061105110510id_/http%3A//mtvindia.com/mtv/aboutus/privacypolicy.php) for the most accurate reproduction.*
 
 # About MTV
 
