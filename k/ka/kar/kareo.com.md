@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617210251id_/http%3A//www.kareo.com/company/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106085056id_/http%3A//www.kareo.com/company/policies/privacy) for the most accurate reproduction.*
 
-# Kareo - Privacy Policy
+# Kareo | On-Demand Revenue Cycle Automation
 
-Kareo Privacy Policy  
-How we protect your personal information
+## Kareo Privacy Policy
 
-**What this privacy policy covers**
+### How we protect your personal information
+
+### What this privacy policy covers
 
   * This privacy policy pertains to the use of the Kareo web site at http://www.kareo.com/ and the Kareo service.
   * This privacy policy covers how Kareo treats personal information that Kareo collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number. 
@@ -13,25 +14,23 @@ How we protect your personal information
 
 
 
-**Information collection and how it is used**
+### Information collection and how it is used
 
-**General Information**  
-
+**General Information**
 
   * You do not have to give us any personal information to visit the product information portion of our web site. No personally identifying information (such as your name, e-mail address, or Social Security number) will be collected unless you choose to provide that information to us.
   * Kareo collects personal information when you sign up for a trial or paid subscription to the Kareo service. When you sign up, we ask for your name, email address, phone number, and your company's demographic and financial information.
   * When you sign up for a paid subscription, we will ask you for your credit card or bank account information. This information is kept secure on our computer systems using industry-standard encryption on the data. The only personnel at Kareo with access to your payment information are those with the responsibility for billing you for our services. They protect their access to the system with password-protected, encrypted keys.
   * Kareo automatically receives and records information on our server logs from your browser, including your IP address and the page you request.
-  * Kareo uses information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting. 
+  * Kareo uses information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting.
 
 
 
 **IP Addresses**
 
-  IP Addresses are automatically reported by your browser each time you view a web page or use our service. Your IP address is not permanently stored in a way that is identified with your personal information. 
+ IP Addresses are automatically reported by your browser each time you view a web page or use our service. Your IP address is not permanently stored in a way that is identified with your personal information.
 
-IP addresses may be used for various purposes, including:   
-
+IP addresses may be used for various purposes, including:
 
   * To diagnose or service technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP. 
   * To estimate the total number of users visiting Kareo from specific geographical regions. 
@@ -40,15 +39,15 @@ IP addresses may be used for various purposes, including:
 
 **Cookies**
 
-  A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Kareo uses a "session" cookie that will get removed automatically when you close your web browser. 
+ A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Kareo uses a "session" cookie that will get removed automatically when you close your web browser.
 
-**Protected Health Information**
+### Protected Health Information
 
-When using the web site, you will never provide Kareo with Protected Health Information (PHI), nor will Kareo show any PHI. 
+When using the web site, you will never provide Kareo with Protected Health Information (PHI), nor will Kareo show any PHI.
 
-When you or other users at your company, or your company's customers, use the Kareo service, you may in the course of normal business operation provide Kareo with PHI. Kareo will only disclose the PHI to you, your customers, and your agents, as authorized by you in the service's operation and configuration. 
+When you or other users at your company, or your company's customers, use the Kareo service, you may in the course of normal business operation provide Kareo with PHI. Kareo will only disclose the PHI to you, your customers, and your agents, as authorized by you in the service's operation and configuration.
 
-Kareo limits the ability to access your or your company's customers' PHI only to employees that are responsible for the development, provisioning or maintenance of the services, or in provisioning support. 
+Kareo limits the ability to access your or your company's customers' PHI only to employees that are responsible for the development, provisioning or maintenance of the services, or in provisioning support.
 
 **Information sharing and disclosure**
 
@@ -60,26 +59,20 @@ Kareo limits the ability to access your or your company's customers' PHI only to
 
 
 
-**Changes to this privacy policy**  
-Kareo may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the contact email address specified in your company's Kareo account or by placing a prominent notice on our site. 
+**Changes to this privacy policy**
+
+Kareo may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the contact email address specified in your company's Kareo account or by placing a prominent notice on our site.
 
 **Questions**
 
-  If you have questions or suggestions you can contact us at: 
+ If you have questions or suggestions you can contact us at:
 
 Kareo Support - Privacy Policy  
-1201 Dove Street  
-Suite 600  
-Newport Beach, CA 92660  
-[privacy@kareo.com](mailto:privacy@kareo.com)  
+18301 Von Karman Avenue, Suite 1050  
+Irvine, CA 92612  
+privacy@kareo.com  
 
 
 **Last Updated**
 
-  This policy was last updated on April 27, 2006. The last change was an update of the Kareo mailing address, and an update of the way that Kareo stores your credit card or bank account information. 
-
-|  |    
-  
-[](https://www.kareo.com/account_signup)  
-  
-© 2006 Kareo, Inc. All Rights Reserved
+ This policy was last updated on April 27, 2006. The last change was an update of the Kareo mailing address, and an update of the way that Kareo stores your credit card or bank account information.
