@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justmommies.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618095101id_/http%3A//www.justmommies.com/tos.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmommies.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106111217id_/http%3A//www.justmommies.com/tos.shtml) for the most accurate reproduction.*
 
 # Terms of Service
 
@@ -16,6 +16,10 @@ Policy changes for August 2, 2005:
 Justmommies has signature guidelines restricting signatures to 600x600 pixels. The reason this is set is because of load time on our pages. Huge signatures slow down the time pages load quite dramatically. We are requesting that signatures please stay within these guidelines. 
 
 Signature can contain any number of images, tickers, blinkies, etc. however, they must stay within 600 pixels x 600 pixels total size.
+
+Members may include signatures that are political or controversial in nature. We try to allow members the opportunity to express themselves with their signatures; however, signatures must not insult ethnic groups or religous groups. Removal of political signatures is at the discretion of Justmommies administrators.
+
+Memebers may include photos of stillborn babies in their signatures. These signatures are generally used on the pregnancy loss section of our forums but may be used on other forums on the site. If you are not comfortable viewing such photos, please turn off signatures at Justmommies. If you need help with doing this please contact an administrator or send an email to boards@justmommies.com
 
 **Business Signatures** :   
 **All business links must be sponsored links.  **  
