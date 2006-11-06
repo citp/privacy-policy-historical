@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatesdirectory.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621183214id_/http%3A//affiliatesdirectory.com/contact-us/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesdirectory.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106103342id_/http%3A//www.affiliatesdirectory.com/contact-us/privacy.shtml) for the most accurate reproduction.*
 
 # We repect your privacy at AffiliatesDirectory.com
 
