@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakernet.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626094949id_/http%3A//www.bakernet.com/BakerNet/Firm%2BProfile/Legal%2BInformation.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakernet.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106034408id_/http%3A//www.bakernet.com/BakerNet/Firm%2BProfile/Legal%2BInformation.htm) for the most accurate reproduction.*
 
 # Baker & McKenzie || Firm Profile
 
@@ -48,7 +48,8 @@ _ At Baker & McKenzie, we intend to give you as much control as possible over yo
 We do keep track of the domains from which people visit us. We analyze this data for trends and statistics, and then we discard it.
 
 _Marketing E-mails_  
-If you receive a marketing e-mail from Baker & McKenzie, your e-mail address is either listed with us as someone who has expressly shared that address for the purpose of receiving information in the future (you have "opted in" or "subscribed" to the communication), or you have an existing relationship with us.   
+If you receive a marketing e-mail from Baker & McKenzie, your e-mail address is either listed with us as someone who has expressly shared that address for the purpose of receiving information in the future (you have "opted in" or "subscribed" to the communication), or you have an existing relationship with us.
+
 We will not share, sell or rent your personal information without your permission or unless ordered by a court of law. 
 
 The information you submit to us is available only to employees who manage this information for the purposes of sending you marketing e-mail communications and to contracted service providers for the purposes of providing services related to our communications with you.
