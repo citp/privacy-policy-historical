@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugby365.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512171817id_/http%3A//www.rugby365.com/Home/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugby365.com privacy policy that was archived on 2006-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061106164803id_/http%3A//www.rugby365.com/Home/privacy.shtml) for the most accurate reproduction.*
 
 # Rugby news, results, fixtures and features from Rugby365.com
 
