@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the plaza101.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614111119id_/http%3A//www.plaza101.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plaza101.com privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107120923id_/http%3A//www.plaza101.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Plaza101Privacy Policy
+# Online Price Comparison Store Product Reviews
+
+## Privacy Policy
 
 Plaza101.com is strongly committed to protecting the privacy of its user community. 
 
