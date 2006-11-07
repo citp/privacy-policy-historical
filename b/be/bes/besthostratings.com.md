@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besthostratings.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205323id_/http%3A//www.besthostratings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthostratings.com privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107132445id_/http%3A//www.besthostratings.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Web Hosting Reviews
 
