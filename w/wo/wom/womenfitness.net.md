@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenfitness.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614032939id_/http%3A//www.womenfitness.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenfitness.net privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107164628id_/http%3A//womenfitness.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy : Women Fitness
 
@@ -23,7 +23,7 @@ This web site has agreed to notify you of:
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should first  [Contact](https://web.archive.org/web/20060614032939id_/http%3A//www.womenfitness.net/contact.htm) **** Namita Nayyar CEO Women Fitness
+If you feel that this company is not abiding by its posted privacy policy, you should first  [Contact](https://web.archive.org/web/20061107164628id_/http%3A//womenfitness.net/contact.htm) **** Namita Nayyar CEO Women Fitness
 
 Information Collection and Use 
 
@@ -76,7 +76,7 @@ From time-to-time our site requests information from users via surveys or contes
 
   
 **Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Women Fitness will automatically send the friend a one-time email inviting them to visit the site. Women Fitness stores this information for the sole purpose of sending this one-time email.  The friend may [contact](https://web.archive.org/web/20060614032939id_/http%3A//www.womenfitness.net/contact.htm) Women Fitness to request the removal of this information from their database. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Women Fitness will automatically send the friend a one-time email inviting them to visit the site. Women Fitness stores this information for the sole purpose of sending this one-time email.  The friend may [contact](https://web.archive.org/web/20061107164628id_/http%3A//womenfitness.net/contact.htm) Women Fitness to request the removal of this information from their database. 
 
   
 **Security**  
@@ -88,7 +88,7 @@ Women Fitness provides Encrypted Online Payment Transactions on SSL Secure 56 Bi
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.  All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices.  Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information.  Our employees must use password-protected screen-savers when they leave their desk.  When they return, they must re-enter their password to re-gain access to your information.  Furthermore, ALL employees are kept up-to-date on our security and privacy practices.  Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected.  Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
-If you have any questions about the security at our website, you can  [Contact Us](https://web.archive.org/web/20060614032939id_/http%3A//www.womenfitness.net/contact.htm)
+If you have any questions about the security at our website, you can  [Contact Us](https://web.archive.org/web/20061107164628id_/http%3A//womenfitness.net/contact.htm)
 
 Supplementation of Information  
 In order for this website to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources. 
@@ -106,9 +106,9 @@ In order for this website to properly fulfill its obligation to our customers, i
 If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us.  This can usually be done at the member information page **** or by emailing our Customer Support **.**
 
 **Choice/Opt-out**  
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information.  For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists. You can [ Contact Us](https://web.archive.org/web/20060614032939id_/http%3A//www.womenfitness.net/contact.htm) for such request.
+Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information.  For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists. You can [ Contact Us](https://web.archive.org/web/20061107164628id_/http%3A//womenfitness.net/contact.htm) for such request.
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications. You can [ Contact Us](https://web.archive.org/web/20060614032939id_/http%3A//www.womenfitness.net/contact.htm) for such request.
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications. You can [ Contact Us](https://web.archive.org/web/20061107164628id_/http%3A//womenfitness.net/contact.htm) for such request.
 
 Users of our site are always notified when their information is being collected by any outside parties.  We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
@@ -138,4 +138,4 @@ Any non-personal information, communications or material you send to Womenfitnes
 
 
 
-**Please relay any questions you may have pertaining to our above stated policies to our Customer Service Department 314/381-6141, or [Contact Us](https://web.archive.org/web/20060614032939id_/http%3A//www.womenfitness.net/contact.htm).**
+**Please relay any questions you may have pertaining to our above stated policies to our Customer Service Department 314/381-6141, or [Contact Us](https://web.archive.org/web/20061107164628id_/http%3A//womenfitness.net/contact.htm).**
