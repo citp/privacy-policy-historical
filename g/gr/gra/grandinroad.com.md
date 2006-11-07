@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grandinroad.com privacy policy that was archived on 2006-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060328083641id_/http%3A//www.grandinroad.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D517%26path%3D1%252C2%252C270%252C517) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandinroad.com privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107083330id_/http%3A//www.grandinroad.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D517%26path%3D1%252C2%252C270%252C517) for the most accurate reproduction.*
 
-# Grandin Road - For Your Protection
+# Customer Service - For Your Protection - Grandin Road
 
 |  |   
   
@@ -8,7 +8,7 @@
 |  |  |  | [](http://www.grandinroad.com/jump.jsp?itemID=163&itemType=HOME_PAGE) |   
 ---|---  
 |  |   
-|  |  |  |  |  | 
+|  |  |  |  | 
 
 |   
 ---  
