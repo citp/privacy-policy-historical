@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doneright.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617041807id_/http%3A//www.doneright.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doneright.com privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107010533id_/http%3A//www.doneright.com/PrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # DoneRight.com - Privacy Policy
 
@@ -39,7 +39,7 @@ When you call one of our approved Done Right Service Providers using a number ma
 
 Prior to calling a Done Right Service Provider, your contact information will not be supplied to any Done Right Service Provider. Once you have called a Done Right Service Provider using a number marketed by Done Right, the Service Provider you called may, as described in the paragraph above, receive your contact information. If the Service Provider you called has been de-listed, suspended or has otherwise exited the Done Right Program before we are able to effectively stop marketing the Service Providers' number, we may supply your contact information to a Done Right Service Provider in-good-standing who offers the same class of service(s). 
 
-To view the Done Right Site and Service User Agreement [click here](https://web.archive.org/web/20060617041807id_/http%3A//www.doneright.com/UserAgreement.cfm). 
+To view the Done Right Site and Service User Agreement [click here](https://web.archive.org/UserAgreement.cfm). 
 
 Overall, we use your information to provide you with various promotional materials and information pertaining to products and/or services that we have identified you may be interested in, and to measure the effectiveness of our service in helping match Done Right Service Providers with consumers who need their services. 
 
