@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchcactus.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615042837id_/http%3A//searchcactus.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchcactus.com privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107040151id_/http%3A//www.searchcactus.com/privacy.asp) for the most accurate reproduction.*
 
 # SearchCactus.com - Privacy policy
 
