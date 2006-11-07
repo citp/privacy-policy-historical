@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the redwoodcu.org privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614143051id_/http%3A//www.redwoodcu.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redwoodcu.org privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107213550id_/http%3A//www.redwoodcu.org/site/privacy.html) for the most accurate reproduction.*
 
 # Redwood Credit Union | Privacy
 
-## Redwood Credit Union's Privacy Disclosure 
+## Redwood Credit Union & RCU Services Group Privacy Disclosure 
 
-**Redwood Credit Union** (RCU) understands the importance of protecting the privacy of our Members and former Members. We are committed to maintaining the confidentiality of each Member's information, consistent with state and federal law. This document is provided to outline RCU's privacy disclosure and your rights as a Member and customer.
+**Redwood Credit Union** (RCU)  and RCU Services Group (RCUSG) understand the importance of protecting the privacy of our Members and former Members. We are committed to maintaining the confidentiality of each Member’s and customer’s information, consistent with state and federal law. This document is provided to outline RCU and RCUSG’s privacy disclosure and your rights as a Member and customer.  RCU Services Group (doing business as RCU Auto Services and RCU Insurance Services) is a wholly owned affiliate of RCU and currently operates an auto dealership and provides various insurance products and services.
 
 ### Part I: What This Disclosure Covers
 
-This disclosure covers "non-public personal information," which we call "information" in this disclosure. This means personally identifiable information that we obtain in the course of providing services to you. This disclosure does not cover information that is obtained from public sources such as county real estate property records or telephone directories. It does not include information that cannot be identified with you personally, such as general statistical information about our Members or customers.
+This disclosure covers “non-public personal information,” which we call “information” in this disclosure. This means personally identifiable information that we obtain in the course of providing services to you. This disclosure does not cover information that is obtained from public sources such as county real estate property records or telephone directories. It does not include information that cannot be identified with you personally, such as general statistical information about our Members or customers.
 
 ### Part II: Sources and Categories of Information We Collect 
 
 We collect information about you so that we can provide the products and services you request, develop new products and services, inform you about other products and services you may be interested in, and comply with legal and regulatory requirements. Examples of sources and types of information we collect include the following: 
 
-  * From your applications for our services or other communications you have with us, we obtain information such as your name, address, Social Security Number, assets, income, other debt, and financial transactions.
+  * From your applications for our services or other communications you have with us, we obtain information such as your name, address, Social Security Number, assets, income, other debt, and financial transactions. 
   * From our own records, we obtain information about your transactions and account experiences with us, such as account balances, payment history, parties to your transactions, and credit card use patterns.
   * From consumer reporting agencies, we obtain information about your financial history with third parties.
   * From third parties such as employers and other creditors, we verify information that you supply on your applications for our services.
@@ -27,7 +27,10 @@ We collect information about you so that we can provide the products and service
 
 We may disclose any type of information we have about you to third parties to meet our reasonable business needs and to conduct your transactions.
 
-**Please be aware that Redwood Credit Union does not sell, share, trade or rent names or other information about our Members to third-party marketers.**
+## Please be aware that Redwood Credit Union and RCUSG do not sell, share, trade or rent names or other information about our Members or customers to third-party marketers. 
+
+  
+
 
 ### Part IV: Categories of Nonaffiliated Third Parties to Whom We Release Information to Conduct Our Business and as Required or Allowed by Law 
 
@@ -45,7 +48,7 @@ We will disclose any information we have about you to these parties as it is nec
 
 ### Part V: Other Nonaffiliated Third Parties to Whom We Release Information:Service Providers 
 
-We disclose information to third parties with which we have agreements to help us provide our products or services to you. We can disclose any information we have about you to these third parties, although we limit the information we supply to what is necessary for the third parties to fulfill their agreements with us. Before we disclose information to these third parties, they must agree in writing to keep your information confidential and use it only for purposes we authorize. Examples of such third parties include: 
+We disclose information to third parties with which we have agreements to help us provide our products or services to you. We limit the information we supply to these third parties to what is necessary for the third parties to fulfill their agreements with us. Before we disclose information to these third parties, they must agree in writing to keep your information confidential and use it only for purposes we authorize. Examples of such third parties include: 
 
   * Companies with whom we have contracts to print and mail our Member statements
   * Companies with whom we have contracts to process Member credit card transactions
@@ -54,7 +57,7 @@ We disclose information to third parties with which we have agreements to help u
 
 ### Part VI: Disclosure of Information Subject to Opt-Out or Opt-In Rights 
 
-Redwood Credit Union does not disclose or share information regarding Members or other consumers in ways that give rise to "opt-out" or "opt-in" election rights that you may have heard about. If we change this disclosure so that you would have additional opt-out rights, we will notify you in advance. If you receive material from us promoting the products or services of our affiliate, RCU Services Group, or third parties, we handle the promotion internally or by using one of our service providers without sharing information about you with RCU Services Group or the third party.
+RCU and RCUSG do not disclose or share information regarding Members or other consumers in ways that give rise to “opt-out” or “opt-in” election rights that you may have heard about. If we change this disclosure so that you would have additional opt-out rights, we will notify you in advance. If you receive material from us promoting the products or services of third parties, we handle the promotion internally or by using one of our service providers without sharing information about you with the third party.
 
 ### Part VII: Disclosure of Information about Former Members and Customers
 
@@ -62,15 +65,15 @@ We disclose information about former Members and former customers only as allowe
 
 ### Part VIII: Our Protection of the Security of Your Information
 
-We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information. 
+Access to information about you is limited to those employees who provide products or services to you.  Our employees are trained and understand the importance of safeguarding your information.  We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
 
 ### Part IX: Our Right to Change This Disclosure
 
-This disclosure is effective July 1, 2004. We can change this disclosure by notifying you in writing. If a new disclosure will be subject to opt-out or opt-in rights, we will give you at least 45 days advance notice before the new disclosure goes into effect, and we will disclose the means by which you can opt-out of disclosure of nonpublic personal information.
+This disclosure is effective 07/01/2006. We can change this disclosure by notifying you in writing. If a new disclosure will be subject to opt-out or opt-in rights, we will give you at least 45 days advance notice before the new disclosure goes into effect, and we will disclose the means by which you can opt-out of disclosure of non-public personal information.
 
 ### Information on Public Records
 
-You may be aware that businesses can obtain certain consumer information, such as that related to mortgage loans, which is a matter of public record and available to anyone from the County Recorder's Office. Unfortunately, this information is often used by companies to market their products and services directly to you. At times, they also make references to the Credit Union or its affiliates, which may imply that they obtained the information from us. The lenders' names, as well as certain details of the loans are included in the public records, and that is where they obtain their data.
+You may be aware that businesses can obtain certain consumer information, such as that related to mortgage loans, which is a matter of public record and available to anyone from the County Recorder’s Office. Unfortunately, this information is often used by companies to market their products and services directly to you. At times, they also make references to the Credit Union or its affiliates, which may imply that they obtained the information from us. The lenders’ names, as well as certain details of the loans are included in the public records, and that is where they obtain their data.
 
 ### How to Remove Your Name from Credit Offers
 
@@ -89,7 +92,7 @@ If you write to this agency, your name will be removed for five years from lists
 
 ### Working Together to Protect Your Identity 
 
-Your Credit Union and its affiliates are committed to ensuring the protection of your personal information, as well as the safety of our Members' funds. If someone has fraudulently used your identity to establish credit, contact your Credit Union immediately and then report the incident as quickly as possible to each of the credit reporting agencies listed below. You may also want to find out if any additional credit accounts have been opened without your consent, or whether unauthorized charges were billed to your accounts. Contact the credit reporting agencies listed below to obtain a copy of your credit report.
+Your Credit Union and its affiliates are committed to ensuring the protection of your personal information, as well as the safety of our Members’ funds. If someone has fraudulently used your identity to establish credit, contact your Credit Union immediately and then report the incident as quickly as possible to each of the credit reporting agencies listed below. You may also want to find out if any additional credit accounts have been opened without your consent, or whether unauthorized charges were billed to your accounts. Contact the credit reporting agencies listed below to obtain a copy of your credit report.
 
   * #### Equifax
 
@@ -116,5 +119,3 @@ To obtain your credit report, or report fraudulent activity: (800) 680-7289 **
 ### For Additional Information
 
 Thank you for the continued opportunity to serve you. If you have any questions regarding this Privacy Disclosure, please contact us at (800) 479-7928. 
-
-® 2004 Greene & Allison LLP. All rights reserved. Duplication only with publisher's consent
