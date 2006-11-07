@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paylease.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619082132id_/http%3A//paylease.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylease.com privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107073508id_/http%3A//paylease.com/privacy.php) for the most accurate reproduction.*
 
 # PayLease
 
