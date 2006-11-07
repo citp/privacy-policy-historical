@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mines.edu privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420154059id_/http%3A//www.mines.edu/all_about/policy/csmprivacypolicyinfo.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mines.edu privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107035747id_/http%3A//www.mines.edu/all_about/policy/csmprivacypolicyinfo.html) for the most accurate reproduction.*
 
 # Colorado School of Mines
 
