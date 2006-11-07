@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icetemplates.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615062325id_/http%3A//icetemplates.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icetemplates.com privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107081254id_/http%3A//icetemplates.com/privacy.php) for the most accurate reproduction.*
 
 # IceTemplates.com - Website Templates | Privacy Policy
 
@@ -47,31 +47,19 @@ Featured Templates
   
 |  | 
 
-Modern photo flash template  
+Charity organization flash template  
   
 ---  
-[](https://web.archive.org/web/20060615062325id_/http%3A//icetemplates.com/show-template-1768.html)  
+[](https://web.archive.org/web/20061107081254id_/http%3A//icetemplates.com/show-template-1882.html)  
 | 
 
-Home in a book flash template  
+Designer portfolio flash template  
   
 ---  
-[](https://web.archive.org/web/20060615062325id_/http%3A//icetemplates.com/show-template-1738.html)  
+[](https://web.archive.org/web/20061107081254id_/http%3A//icetemplates.com/show-template-1886.html)  
 | 
 
-Private lawyer flash template  
+Events planner flash template  
   
 ---  
-[](https://web.archive.org/web/20060615062325id_/http%3A//icetemplates.com/show-template-1769.html)  
-| 
-
-Hair dresser flash template  
-  
----  
-[](https://web.archive.org/web/20060615062325id_/http%3A//icetemplates.com/show-template-1770.html)  
-| 
-
-Mary & John flash template  
-  
----  
-[](https://web.archive.org/web/20060615062325id_/http%3A//icetemplates.com/show-template-1775.html)
+[](https://web.archive.org/web/20061107081254id_/http%3A//icetemplates.com/show-template-1885.html)
