@@ -1,0 +1,563 @@
+<!--The following is the downloaded HTML source of the healthination.com privacy policy that was archived on 2006-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061107165941id_/http%3A//www.healthination.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>HealthiNation: Privacy Policy</title>
+<link href="healthi.css" rel="stylesheet" type="text/css">
+
+<script language="Javascript">
+function echeck(str) {
+
+		var at="@";
+		var dot=".";
+		var lat=str.indexOf(at);
+		var lstr=str.length;
+		var ldot=str.indexOf(dot);
+		if (str.indexOf(at)==-1){
+		   alert("Invalid E-mail ID");
+		   return false;
+		}
+
+		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+		   alert("Invalid E-mail ID");
+		   return false;
+		}
+
+		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+		    alert("Invalid E-mail ID");
+		    return false;
+		}
+
+		 if (str.indexOf(at,(lat+1))!=-1){
+		    alert("Invalid E-mail ID");
+		    return false;
+		 }
+
+		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+		    alert("Invalid E-mail ID");
+		    return false;
+		 }
+
+		 if (str.indexOf(dot,(lat+2))==-1){
+		    alert("Invalid E-mail ID");
+		    return false;
+		 }
+
+		 if (str.indexOf(" ")!=-1){
+		    alert("Invalid E-mail ID");
+		    return false;
+		 }
+
+ 		 return true;
+	}
+
+function ValidateForm(){
+	var emailID=document.frm_news2.Email
+
+	if ((emailID.value==null)||(emailID.value=="")){
+		alert("Please Enter your Email ID");
+		emailID.focus();
+		return false;
+	}
+	if (echeck(emailID.value)==false){
+		emailID.value="";
+		emailID.focus();
+		return false;
+	}
+	return true;
+ }
+</script>
+</head>
+
+<body>
+<table width="904" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <th width="904" align="left" class="top" scope="col"><style type="text/css">
+
+#dropmenudiv{
+position:absolute;
+border-bottom-width: 0;
+font:normal 10px Verdana;
+line-height:18px;
+z-index:100;
+}
+
+#dropmenudiv a{
+width: 100%;
+display: block;
+border-bottom: 1px solid #FFFFFF;
+text-decoration: none;
+font-weight: bold;
+text-align: center;
+}
+
+#dropmenudiv a:hover{ /*hover background color*/
+background-color: #575757;
+}
+
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* AnyLink Drop Down Menu- © Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+//Contents for menu 1
+var menu1=new Array()
+menu1[0]='<a href="videos.php" class="foot">See Videos Online</a>'
+menu1[1]='<a href="watch.php" class="foot">See Us On TV</a>'
+menu1[2]='<a href="learn.php" class="foot">Why HealthiNation?</a>'
+
+//Contents for menu 2
+var menu2=new Array()
+menu2[0]='<a href="share.php" class="foot">Share Your Story</a>'
+menu2[1]='<a href="request.php" class="foot">Request A Video</a>'
+menu2[2]='<a href="contact.php" class="foot">Contact Us</a>'
+
+//Contents for menu 3
+var menu3=new Array()
+menu3[0]='<a href="approach.php" class="foot">Our Independent Approach</a>'
+menu3[1]='<a href="advisory-board.php" class="foot">Medical Advisory Board</a>'
+menu3[2]='<a href="team.php" class="foot">HealthiNation Team</a>'
+menu3[3]='<a href="faq.php" class="foot">FAQ</a>'
+
+
+		
+var menuwidth='165px' //default menu width
+var menubgcolor='#919090'  //menu bgcolor
+var disappeardelay=250  //menu disappear speed onMouseout (in miliseconds)
+var hidemenu_onclick="no" //hide menu when user clicks within menu?
+
+/////No further editting needed
+
+var ie4=document.all
+var ns6=document.getElementById&&!document.all
+
+if (ie4||ns6)
+document.write('<div id="dropmenudiv" style="visibility:hidden;width:'+menuwidth+';background-color:'+menubgcolor+'" onMouseover="clearhidemenu()" onMouseout="dynamichide(event)"></div>')
+
+function getposOffset(what, offsettype){
+var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
+var parentEl=what.offsetParent;
+while (parentEl!=null){
+totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
+parentEl=parentEl.offsetParent;
+}
+return totaloffset;
+}
+
+
+function showhide(obj, e, visible, hidden, menuwidth){
+if (ie4||ns6)
+dropmenuobj.style.left=dropmenuobj.style.top="-500px"
+if (menuwidth!=""){
+dropmenuobj.widthobj=dropmenuobj.style
+dropmenuobj.widthobj.width=menuwidth
+}
+if (e.type=="click" && obj.visibility==hidden || e.type=="mouseover")
+obj.visibility=visible
+else if (e.type=="click")
+obj.visibility=hidden
+}
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function clearbrowseredge(obj, whichedge){
+var edgeoffset=0
+if (whichedge=="rightedge"){
+var windowedge=ie4 && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-15 : window.pageXOffset+window.innerWidth-15
+dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
+if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
+edgeoffset=dropmenuobj.contentmeasure-obj.offsetWidth
+}
+else{
+var topedge=ie4 && !window.opera? iecompattest().scrollTop : window.pageYOffset
+var windowedge=ie4 && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
+dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
+if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure){ //move up?
+edgeoffset=dropmenuobj.contentmeasure+obj.offsetHeight
+if ((dropmenuobj.y-topedge)<dropmenuobj.contentmeasure) //up no good either?
+edgeoffset=dropmenuobj.y+obj.offsetHeight-topedge
+}
+}
+return edgeoffset
+}
+
+function populatemenu(what){
+if (ie4||ns6)
+dropmenuobj.innerHTML=what.join("")
+}
+
+
+function dropdownmenu(obj, e, menucontents, menuwidth){
+if (window.event) event.cancelBubble=true
+else if (e.stopPropagation) e.stopPropagation()
+clearhidemenu()
+dropmenuobj=document.getElementById? document.getElementById("dropmenudiv") : dropmenudiv
+populatemenu(menucontents)
+
+if (ie4||ns6){
+showhide(dropmenuobj.style, e, "visible", "hidden", menuwidth)
+dropmenuobj.x=getposOffset(obj, "left")
+dropmenuobj.y=getposOffset(obj, "top")
+dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+"px"
+dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+obj.offsetHeight+"px"
+}
+
+return clickreturnvalue()
+}
+
+function clickreturnvalue(){
+return true
+}
+
+function contains_ns6(a, b) {
+while (b.parentNode)
+if ((b = b.parentNode) == a)
+return true;
+return false;
+}
+
+function dynamichide(e){
+if (ie4&&!dropmenuobj.contains(e.toElement))
+delayhidemenu()
+else if (ns6&&e.currentTarget!= e.relatedTarget&& !contains_ns6(e.currentTarget, e.relatedTarget))
+delayhidemenu()
+}
+
+function hidemenu(e){
+if (typeof dropmenuobj!="undefined"){
+if (ie4||ns6)
+dropmenuobj.style.visibility="hidden"
+}
+}
+
+function delayhidemenu(){
+if (ie4||ns6)
+delayhide=setTimeout("hidemenu()",disappeardelay)
+}
+
+function clearhidemenu(){
+if (typeof delayhide!="undefined")
+clearTimeout(delayhide)
+}
+
+if (hidemenu_onclick=="yes")
+document.onclick=hidemenu
+
+</script><div id="dropmenudiv" style="visibility:hidden;width:165px;background-color:#919090" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="16%" align="left" scope="col"><a href="index.php"><img src="imgs/HNlogoTM.jpg" alt="" width="173" height="74" border="0"></a></td>
+        <td class="browseTop" width="72%" scope="col" align="center" valign="bottom">
+ <a href="learn.php"><img src="imgs/HNTOPBANNER480x60[1].9.21.06.jpg" width="480" height="60" border="0"></a>
+        </td>
+        <form name="TheFormMenu" action="play-video.php" method="get"></form>
+		        <td class="browseTop" width="12%" scope="col" align="right" valign="bottom">
+		        <select name="vid" onchange="location = this.options[this.selectedIndex].value;">
+		            <option value="videos.php">Browse Videos</option>
+		            <option value="asthma.php">Asthma</option>
+		            <option value="autism.php">Autism</option>
+					<option value="urinary_incontinence.php">Bladder Problems</option>
+		            <option value="breast_cancer.php">Breast Cancer</option>
+		            <option value="breast_self_exam.php">Breast Self-Exam (BSE)</option>
+		            <option value="chemotherapy.php">Chemotherapy</option>
+		            <option value="cholesterol.php">Cholesterol</option>
+		            <option value="common_cold.php">Common Cold</option>
+		           <option value="depression.php">Depression</option>
+		            <option value="diabetes.php">Diabetes</option>
+					<option value="more_family_health.php">Family Health</option>
+					<option value="healthy_eating.php">Healthy Eating</option>
+		            <option value="more_health_epidemics.php">Health Epidemics</option>
+		            <option value="more_health_insurance.php">Health Insurance Basics</option>
+		            <option value="heartburn.php">Heartburn &amp; GERD</option>
+		            <option value="heart_disease.php">Heart Disease</option>
+		            <option value="more_home_first_aid.php">Home First Aid</option>
+		            <option value="hypertension.php">Hypertension</option>
+		            <option value="menopause.php">Menopause</option>
+		            <option value="more_mens_health.php">Men's Health</option>
+		            <option value="migraines.php">Migraine Headaches</option>
+				    <option value="childhood_obesity.php">Overweight Children</option>
+		            <option value="skin_cancer.php">Skin Cancer</option>
+		            <option value="true_life_stories.php">True Life Stories</option>
+		            <option value="more_womens_health.php">Women's Health</option>
+		        </select>        </td></tr>
+    </tbody></table>
+  </th></tr>
+  <tr>
+    <td scope="row" align="left" height="27" background="imgs/menu-bg.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="90%" align="left" scope="col" valign="top"><a href="index.php"><img border="0" src="imgs/menu1.gif" alt="" width="54" height="24"></a><a href="videos.php" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu1, '186px')" onmouseout="delayhidemenu()"><img border="0" src="imgs/menu2.gif" alt="" width="188" height="24"></a><a href="share-connect.php" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu2, '136px')" onmouseout="delayhidemenu()"><img src="imgs/menu3.gif" alt="" width="138" height="24" border="0"></a><a href="about.php" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu3, '144px')" onmouseout="delayhidemenu()"><img src="imgs/menu4.gif" alt="" width="146" height="24" border="0"></a></td>
+    <td width="10%" align="right" scope="col"><img src="imgs/menu-right.jpg"></td>
+  </tr>
+</tbody></table>
+</td>
+  </tr>
+  <tr>
+    <th class="yeah" scope="row" align="left" valign="top"></th>
+  </tr>
+  <tr>
+    <th class="container" scope="row" align="left"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <th width="552" height="1979" valign="top" scope="col"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <th scope="col"><img src="imgs/title-privacy.jpg" alt="" width="612" height="142"></th>
+          </tr>
+          <tr>
+            <th scope="col" height="4"><img src="imgs/space.gif" width="7" height="5"></th>
+          </tr>
+          <tr>
+            <th scope="col" background="imgs/dark-bg.gif"><img src="imgs/box-larger-top.gif" width="612" height="17"></th>
+          </tr>
+          <tr>
+            <th height="1538" align="left" valign="top" background="imgs/dark-bg.gif" class="container2" scope="row"><table width="100%" border="0" cellspacing="5" cellpadding="0">
+              <tbody><tr>
+                <th width="81%" height="1753" align="left" valign="top" scope="row"><p>Welcome
+                    to <a class="smallOrange2" href="http://www.healthination.com">www.healthination.com</a> (the “Website”),
+                    operated by HealthiNation, a New York company (“HealthiNation”,  “we”, “our”,
+                    or “us”). This Privacy Policy is intended to
+                    inform you about how HealthiNation collects and uses your
+                    personally identifiable information (“PII”) and
+                    other information in operating the Website. <br>
+                    <br>
+                    <strong>How does the Website Work? </strong><br>
+                    <br>
+The Website offers anonymous browsers and users who voluntarily provide us with
+certain PII (collectively “you” or “your”) access to
+various health-related information. You do not have to provide any PII to us
+in order to use the Website, but you may voluntarily submit certain PII if, for
+instance, you wish to receive our newsletters or wish us to respond to a request.<br>
+<br>
+By using the Website, you consent to the collection and use of your information
+as described herein. HealthiNation reserves the right to change how we handle
+the information we collect and process through the Website at any time. We will
+update this Privacy Policy to reflect any changes and such changes will take
+effect immediately once posted. <br>
+<br>
+<strong>What type of PII does HealthiNation collect from you and how do we use
+it? </strong><br>
+<br>
+As stated above, you may provide certain PII to HealthiNation in order to have
+access to certain features on the Website. Such PII shall include basic biographical
+and contact information, such as your name and email address. We may also ask
+you for general statistical, non-PII about yourself and your interests.<br>
+<br>
+Unless you provide PII to HealthiNation through the Website, we will not collect
+any PII from you. <br>
+<br>
+HealthiNation may provide your PII to entities who work on behalf of or with
+us. These entities may use your PII to help fulfill your requests in connection
+with the Website and to help us communicate with you about different resources
+offered as part of the Website.</p>
+                  <p>For instance, we may transfer information collected at registration,
+                    including PII, to service providers and other third parties
+                    who assist us in running the Website and to third party vendors
+                    in order to execute transactions requested by you. <br>
+                      <br>
+                    HealthiNation also may share your PII with third parties
+                    for direct marketing and other purposes, and you acknowledge
+                    that the handling of your PII by such third parties will
+                    not be governed by the terms of this Privacy Policy. If you
+                    would rather us not share your PII with the any third party
+                    for direct marketing purposes, please either (1) do not submit
+                    PII to HealthiNation through the Website or (2) indicate
+                    your desire for us not to share your PII with third parties
+                    for direct marketing purposes by submitting such a request
+                    in writing (an “Opt-Out Request”) to us at: 440
+                    Ninth Avenue, 17th Floor, New York, NY 10001 Attention: Tony
+                    Estrella, or by email at <a class="smallOrange2" href="mailto:optout@healthination.com"> optout@healthination.com</a>.</p>
+                  <p><br>
+                    Please note that it may take several weeks for us to comply
+                      with your Opt-Out Request, and until we are able to comply
+                      with such request we may continue to use your PII as described
+                      in this Privacy Policy. Please note that after receiving
+                      your Opt-Out Request, we may continue to maintain your
+                      name and other PII to help us ensure that we can honor
+                      such request, to communicate to you about your account,
+                      and for other purposes not related to direct marketing. </p>
+                  <p>Please note that if we receive your Opt-Out Request after
+                    having shared your PII with a third party for direct marketing
+                    purposes or having otherwise transferred or disposed of your
+                    PII, HealthiNation may not have the ability to control the
+                    use of such PII by any third party, and in such an event
+                    you agree that HealthiNation shall not be responsible or
+                    liable, directly or indirectly, for any damages or loss caused
+                    or alleged to be caused by or in connection with the use
+                    of such PII by any such third party or resulting from any
+                    such transfer or disposition. If you are concerned about
+                    HealthiNation sharing your PII with third parties or otherwise
+                    transferring or disposing your PII, you should not provide
+                    your PII to HealthiNation.<br>
+                      <br>
+                      <strong>Under what other circumstances may we release PII?</strong><br>
+                      <br>
+                    We may also release your PII if we believe such release is
+                    necessary to comply with the law (e.g., a legal process or
+                    a statutory authorization), to apply or enforce our customer
+                    agreements, to protect our rights or property, to protect
+                    Website users from fraudulent, abusive, or unlawful use of
+                    the Website, or if we reasonably believe that a danger to
+                    any person requires disclosure of such PII. <br>
+  <br>
+  <strong>What other information does HealthiNation collect?</strong><br>
+  <br>
+                    We also collect anonymous and aggregate information from
+                    you about your preferences in navigating the Website by using
+                    cookies, action tags and other methods. Cookies are small
+                    text files that identify your computer. We may use cookies
+                    to, among other things, monitor Website usage, customize
+                    Website features, identify your computer’s operating
+                    system and browser, and complete transactions. An action
+                    tag is a small, graphic image on a webpage that is designed
+                    to allow the website owner or a third party to monitor who
+                    is visiting a website by collecting the IP address of the
+                    computer to which the tag is sent, the URL of the webpage
+                    that the tag comes from and the time that such webpage was
+                    viewed. Tags may be associated with cookie information. We
+                    may also use such anonymous and aggregate information for
+                    promotional purposes. <br>
+  <br>
+  <strong>Do I have the ability not to be identified by HealthiNation? </strong><br>
+  <br>
+                    Yes. If you do not want to be identified by us, you can set
+                    your browser to warn you before accepting cookies and refuse
+                    cookies when your browser alerts you to their presence. You
+                    can also adjust the settings in your browser to refuse all
+                    cookies. If you do not want us to have any of your PII, do
+                    not submit any of your PII to us. <br>
+  <br>
+  <strong>How do we store information? </strong><br>
+  <br>
+                    HealthiNation takes steps consistent with commercially reasonable
+                    industry standards to secure any PII collected from you from
+                    loss, misuse, unauthorized access and destruction while under
+                    our control. Please note that despite our efforts to protect
+                    information provided to us, we cannot guarantee that such
+                    information will not be lost, disclosed or accessed by accidental
+                    circumstances or by the unauthorized acts of others. <br>
+  <br>
+  <strong>Does HealthiNation provide links to other websites? </strong><br>
+  <br>
+                    HealthiNation may provide links to other websites or resources
+                    of possible interest to you. Because we have no control over
+                    such websites or resources, the collection and use of your
+                    PII and other information by such websites shall be subject
+                    to the policies and procedures of such websites and not this
+                    Privacy Policy. <br>
+  <br>
+  <strong>What are our policies regarding children?</strong><br>
+  <br>
+                    HealthiNation will not knowingly collect PII from anyone
+                    under thirteen (13) years of age. <br>
+  <br>
+  <strong>Do we have a mechanism to address the removal of PII and complaints
+  about the handling of information that we collect? </strong><br>
+  <br>
+                    If you wish to remove PII that you have submitted to HealthiNation,
+                    please send us an email requesting such removal to privacy@healthination.com.
+                    If you have questions or concerns about any of our information
+                    collection or handling practices, please contact us at privacy@healthination.com.<br>
+  <br>
+  <em>Last Updated: June 2006 </em></p></th>
+                </tr>
+            </tbody></table>
+            <p><br>
+                </p>              </th>
+          </tr>
+          <tr>
+            <th scope="row"><img src="imgs/box-larger-bottom.gif" alt="" width="612" height="17"></th>
+          </tr>
+          <tr>
+            <th scope="row">&nbsp;</th>
+          </tr>
+        </tbody></table></th>
+        <th width="7" scope="col"><img src="imgs/space.gif" alt="" width="7" height="6"></th>
+        <th width="338" scope="col" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <th scope="col" background="imgs/light-bg.gif"><img src="imgs/box-smaller-top.gif" width="278" height="17"></th>
+          </tr>
+          <tr>
+            <th class="container" height="50" background="imgs/light-bg.gif" scope="row" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <th width="100%" height="50" align="left" valign="middle" class="container" scope="col"><a class="smallOrange4" href="learn.php">Learn
+                      With<br>
+HealthiNation Videos</a><br>
+                    <span class="smallBrown">                    Easy-to-understand videos for the health of you and your
+                    family. </span></th>
+                </tr>
+              </tbody></table></th>
+          </tr>
+          <tr>
+            <th scope="row"><img src="imgs/box-smaller-bottom.gif" alt="" width="278" height="17"></th>
+          </tr>
+          <tr>
+            <th scope="row" height="5"><img src="imgs/space.gif" width="7" height="5"></th>
+          </tr>
+          <tr>
+            <th scope="row" height="16"><img src="imgs/box-smaller-top.gif" width="278" height="17"></th>
+          </tr>
+          <tr>
+            <th class="container" scope="row" height="104" valign="top" align="left" background="imgs/light-bg.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <th height="50" colspan="2" align="left" class="container" scope="col"><p class="smallOrange">Stay
+                    Informed<span class="smallBrown"><br>
+                      Sign up for our email newsletter for HealthiNation
+                      video updates.</span></p>
+                    </th>
+              </tr>
+               			  <tr>
+				<th class="container" width="58%" scope="row" align="left"><img src="imgs/enter-email.gif" alt="" width="135" height="14"></th>
+				<td width="42%">&nbsp;</td>
+			  </tr>
+			  <tr>
+						<form action="http://www.healthination.com/forms/process2.php" name="frm_news2" method="post" onsubmit="return ValidateForm()"></form>
+						<input type="hidden" name="form_tools_form_id" value="1">
+						<th class="container" scope="row" align="left"><input name="Email" type="text" tabindex="1" size="22"></th>
+						<td align="left"><span class="room"><a href="javascript:frm_news2.submit();"><input name="submit" type="image" src="imgs/submit_email.gif" alt="Submit your Email" width="60" height="26" border="0" style="vertical-align: text-bottom;"></a></span></td>
+			  </tr>
+                              <tr>
+                <th height="16" align="left" class="container" scope="row"><a href="privacy.php" class="link3"><span class="tiny">Privacy
+                    Policy </span></a></th>
+                <td>&nbsp;</td>
+              </tr>
+            </tbody></table>            </th>
+          </tr>
+          <tr>
+            <th scope="row" height="16"><img src="imgs/box-smaller-bottom.gif" alt="" width="278" height="17"></th>
+          </tr>
+          <tr>
+            <th scope="row" height="5"><img src="imgs/space.gif" width="7" height="5"></th>
+          </tr>
+          <tr>
+            <th scope="row" background="imgs/light-bg.gif"><img src="imgs/box-smaller-top.gif" alt="" width="278" height="17"></th>
+          </tr>
+          <tr>
+            <th scope="row" background="imgs/light-bg.gif" align="center"><a href="watch.php"><img src="imgs/on-tv.gif" alt="" width="250" height="88" border="0"></a></th>
+          </tr>
+          <tr>
+            <th scope="row"><img src="imgs/box-smaller-bottom.gif" alt="" width="278" height="17"></th>
+          </tr>
+        </tbody></table></th>
+      </tr>
+    </tbody></table></th>
+		  </tr><tr>
+    <th class="container" scope="row" align="left" height="10"><hr noshade="" color="#C5D7E5"></th>
+  </tr>
+  <tr>
+    <th class="container" scope="row" align="left" height="10"><center>
+      <p class="footer"><strong><a href="terms.php">Terms of Use</a> -<a href="privacy.php"> Privacy
+            Policy</a> - <a href="advertise.php">Advertise With Us</a> - <a href="affiliate.php">Affiliate
+            Info</a> -  <a href="professionals.php">Medical and Health Professionals</a> - <a href="links.php">Helpful
+            Links</a> - <a href="tell.php">Tell A Friend</a></strong> <br>
+      © 2006 HealthiNation LLC. All rights reserved.</p>
+    </center></th>
+  </tr>
+</tbody></table>
+
+
+</body></html>
