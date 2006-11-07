@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datafoundry.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616030201id_/http%3A//www.datafoundry.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datafoundry.com privacy policy that was archived on 2006-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061107073010id_/http%3A//www.datafoundry.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Data Foundry
 
