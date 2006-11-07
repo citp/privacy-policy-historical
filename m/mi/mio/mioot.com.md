@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mioot.com privacy policy that was archived on 2005-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051025202825id_/http%3A//www.mioot.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mioot.com privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108003516id_/http%3A//www.mioot.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Live Chat, Live Help and Live support - 24 X 7 Assured Assistance
 
@@ -36,4 +36,4 @@ We will not otherwise disclose customer personal and account information unless 
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days. 
 
-If users have any questions or suggestions regarding our privacy policy, please [**contact us**](https://web.archive.org/web/20051025202825id_/http%3A//www.mioot.com/contactus.aspx) online or by mail at [privacy@mioot.com](mailto:privacy@mioot.com)
+If users have any questions or suggestions regarding our privacy policy, please [**contact us**](https://web.archive.org/web/20061108003516id_/http%3A//www.mioot.com/contactus.aspx) online or by mail at [privacy@mioot.com](mailto:privacy@mioot.com)
