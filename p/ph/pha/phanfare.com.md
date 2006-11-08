@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615071836id_/http%3A//www.phanfare.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108042133id_/http%3A//www.phanfare.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Phanfare Photo and Video Sharing
 
@@ -22,7 +22,7 @@ Our goal in collecting information about you is to provide you with a better pro
   4. Does Phanfare share my email address with third parties for email marketing?
   5. If I am Phanfare member, will I receive spam email?
   6. Does Phanfare contact, market to or advertise to the people who view my online albums?
-  7. Does Phanfare collect any information about my interactions with my personal computer when I run the Phanfare Photo application?
+  7. Does Phanfare collect any information about my interactions with my personal computer when I run the Phanfare application?
   8. How do I deactivate my Phanfare account and do you purge your records of my information?
   9. How do I opt out of receiving communications from Phanfare?
   10. How will Phanfare make me aware of changes to this Privacy Policy?
@@ -61,7 +61,7 @@ But just because we don't tell your friends how you created great looking photo 
 
 Also, if a person who views your albums happens to be a Phanfare member already, then they are subject to this privacy policy.
 
-  7. **Does Phanfare collect any information about my interactions with my personal computer when I run the Phanfare Photo application?** We do not collect other information about your use of your own computer. Phanfare Photo software makes no attempt to track the overall usage of your computer. The sole reason that Phanfare Photo software is a download, versus a purely over-the-web experience is that we can provide a faster, more efficient and more responsive system for managing your online photo and video albums by running locally on your computer. 
+  7. **Does Phanfare collect any information about my interactions with my personal computer when I run the Phanfare application?** We do not collect other information about your use of your own computer. Phanfare software makes no attempt to track the overall usage of your computer. The sole reason that Phanfare software is a download, versus a purely over-the-web experience is that we can provide a faster, more efficient and more responsive system for managing your online photo and video albums by running locally on your computer. 
   8. **How do I deactivate my Phanfare account and do you purge your records of my information?** If you want to leave the service, email the support team at [support@phanfare.com](mailto:support@phanfare.com). Once you leave we purge your information from our servers within a few weeks. But, your information will continue to exist in our computer server backup tapes until those tapes are re-used. 
   9. **How do I opt out of receiving communications from Phanfare?** The only types of communications you will receive from us are the newsletter and official emails that enable the service (for example, we might send you email when your account is nearing a limit or if your credit were to be denied). You can't opt out of official emails. You can opt out of our newsletter if you like. Send mail to our support team to do that (Automating opting out is on the list.). 
   10. **How will Phanfare make me aware of changes to this Privacy Policy?** We will send you email and make changes to this web page. 
