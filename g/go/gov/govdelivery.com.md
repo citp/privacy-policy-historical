@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govdelivery.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615105247id_/http%3A//govdelivery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govdelivery.com privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108070831id_/http%3A//govdelivery.com/privacy) for the most accurate reproduction.*
 
 # GovDelivery: Privacy Policy
 
