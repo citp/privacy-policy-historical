@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retouchpro.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417215839id_/http%3A//www.retouchpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retouchpro.com privacy policy that was archived on 2006-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061108181133id_/http%3A//www.retouchpro.com/privacy.html) for the most accurate reproduction.*
 
 # RetouchPRO Privacy Statement & Terms of Use
 
@@ -36,4 +36,4 @@ It’s also important to be aware that when you voluntarily provide personal inf
 
 You can update or change your user profile on the RetouchPRO by clicking on the "profile" option on the Forums page. 
 
-If you have questions regarding your information, you can contact our Privacy Administrator at [privacy@retouchpro.com](mailto:privacy@retouchpro.com). 
+If you have questions regarding your information, you can contact our Administrator [here](http://www.retouchpro.com/forums/sendmessage.php). 
