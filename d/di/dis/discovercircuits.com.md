@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovercircuits.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617185615id_/http%3A//www.planetee.com/Index.cfm%3FAction%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovercircuits.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109004423id_/http%3A//www.planetee.com/Index.cfm%3FAction%3DPrivacy) for the most accurate reproduction.*
 
 # Penton Media, Inc. - Privacy Statement
 
