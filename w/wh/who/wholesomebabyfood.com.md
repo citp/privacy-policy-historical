@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesomebabyfood.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612231400id_/http%3A//www.wholesomebabyfood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesomebabyfood.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109211827id_/http%3A//www.wholesomebabyfood.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at wholesomebabyfood.com Making Baby Food with Wholesome Goodness & Love
 
