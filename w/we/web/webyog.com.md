@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615055348id_/http%3A//webyog.com/webyog_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109161706id_/http%3A//www.webyog.com/en/webyog_privacy_policy.php) for the most accurate reproduction.*
 
-# Free MySQL Windows GUI Management Client Tool, Admin, MySQL Manager, Query Browser
+# Free MySQL GUI Windows Manager Management Client Tool, MySQLFront, MySQL FrontEnd, MySQL Admin Tool, MySQL Manager, MySQL Query Browser, MySQL Migration, MySQL Administrator, MySQL Editor, MySQL Software, MySQL Front End
 
-  
+Privacy Policy
+
 Your privacy is important to us.
 
 Webyog Softworks Private Limited is committed to protecting your privacy. Because we collect two types of user information, General Statistical Information and Personal Identifying Information, we are providing you with this policy to inform you of how we use and, in limited circumstances, disclose such information.
@@ -55,8 +56,4 @@ Our web site utilizes industry standard security technology to protect the secur
 
 Webyog may amend this policy at any time by posting the amended terms on our web site. All amended terms will be automatically effective without further notice, 10 days after they are first posted.
 
-You may contact us with your comments on Webyog's privacy policy at: [http://www.webyog.com/support/ttx.cgi.](http://www.webyog.com/support/ttx.cgi)
-
-* * *
-
-* * *
+You may contact us with your comments on Webyog's privacy policy at: <http://www.webyog.com/support/ttx.cgi>[.](http://www.webyog.com/support/ttx.cgi)
