@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215848id_/http%3A//webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109165729id_/http%3A//www.webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Web Host Directory: The best free source of web hosting services in a searchable web host directory. Powerful web host search engines, reviewed web hosts, awards, news and much more!
 
