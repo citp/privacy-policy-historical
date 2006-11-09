@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427204615id_/http%3A//www.wegmans.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109035648id_/http%3A//www.wegmans.com/privacy.asp) for the most accurate reproduction.*
 
 # Wegmans Privacy Policy
 
@@ -61,7 +61,7 @@ We may release customer information when we believe it is necessary to comply wi
 * * *
 
   * We make every effort to ensure that your personal information, including your credit card number, is protected while you are on our site. Our website uses Secure Socket Layer (SSL) encryption so that your personal information cannot be read as it passes over the Internet. A padlock appears in the corner of your web browser when you are using SSL encryption. 
-  * Remember to keep your username and password secure. Also, be sure to sign off when finished using a shared computer.
+  * Remember to keep your email address and password secure. Also, be sure to sign off when finished using a shared computer.
 
 
 
