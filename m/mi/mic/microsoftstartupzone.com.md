@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microsoftstartupzone.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614173856id_/http%3A//microsoftstartupzone.com/articles/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsoftstartupzone.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109225718id_/http%3A//microsoftstartupzone.com/content/Privacy.aspx) for the most accurate reproduction.*
 
 # Microsoft Startup Zone
 
