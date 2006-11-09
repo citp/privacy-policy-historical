@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the rollercoastertycoon.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616051537id_/http%3A//atari.com/us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollercoastertycoon.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109094041id_/http%3A//atari.com/us/privacy_policy.php) for the most accurate reproduction.*
 
 # Atari - US - Privacy
 
+|  |   
 ---  
 [Home](https://web.archive.org/us/) \- [Privacy Policy](https://web.archive.org/us/privacy/)  
 |  |  |   
@@ -13,7 +14,7 @@
 |    
 **ATARI ONLINE PRIVACY STATEMENT**
 
-Last updated April 1, 2006
+Last updated October 6, 2006
 
 Welcome to Atari!
 
@@ -152,18 +153,19 @@ Atari, Inc.
 Attn.: Webmaster  
 417 Fifth Avenue  
 New York, NY 10016  
-[webmaster@atari.com](https://web.archive.org/web/20060615193458id_/http://atari.com/us/privacy/webmaster@atari.com)
+(212) 726-6500  
+[webmaster@atari.com](https://web.archive.org/web/20061108034250id_/http://www.atari.com/us/privacy/webmaster@atari.com)
 
 Please be assured that any personal information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
-Atari is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy_wc_hotline.asp>
+Atari is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>
 
 ESRB  
 Attn.: Privacy Online Program  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017  
 212-759-0700  
-[privacyinfo@esrb.org](mailto:privacyinfo@esrb.org)  
+[privacy@esrb.org](mailto:privacy@esrb.org)  
   
 back to top  
 **Q8.**|  **How will you know if we amend this Privacy Policy?**  
