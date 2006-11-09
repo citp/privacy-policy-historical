@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdbanknorth.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025444id_/http%3A//www.tdbanknorth.com/bank/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdbanknorth.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109220859id_/http%3A//www.tdbanknorth.com/bank/privacy_and_security.html) for the most accurate reproduction.*
 
 # Protecting Your Privacy
 
@@ -7,7 +7,7 @@
 ---  
 | 
 
-Through our subsidiary bank and financial service companies, TD Banknorth Inc. (TD Banknorth), provides a comprehensive line of banking, investment, and insurance services. As a company, we are committed to protecting the confidentiality of personal information you provide to any of our subsidiary companies.1 At the same time, the information you provide can help us introduce you to other TD Banknorth products and services that may help you meet your financial goals.  
+Through our subsidiary bank and financial service companies, TD Banknorth Inc. (TD Banknorth) provides a comprehensive line of banking, investment, and insurance services. As a company, we are committed to protecting the confidentiality of personal information you provide to any of our subsidiary companies.1 At the same time, the information you provide can help us introduce you to other TD Banknorth products and services that may help you meet your financial goals.  
   
 ---  
    
@@ -40,7 +40,7 @@ Medical Information
 
 TD Banknorth does not frequently hold protected health information, but, for example, it may receive protected health information from a health care provider to assist in processing payments to that provider. Or, TD Banknorth's insurance subsidiaries may collect protected health information and provide it to an insurer to assist in processing an insurance claim, or if you enroll to be a participant in a health plan. We are required to maintain the privacy of protected health information in accordance with the law and this notice, and to provide you with notice (including a paper notice upon request) of our legal duties and practices with respect to such information. We do not share protected health information among our affiliates or with third parties except to process transactions or to provide services you have requested or initiated. We may use or disclose protected health information, in connection with the payment or collection of health care costs or insurance premiums, or for purposes of insurance claim processing, enrollment or underwriting. We will not use or disclose your protected health information for any other purpose without your written authorization, which you may revoke, or as otherwise required or permitted by law. 
 
-You have the right to request restrictions on our use or disclosure of your protected health information, although we are not required to agree to a requested restriction. You have the right to request that we communicate your protected health information to you in a confidential manner. You have the right to inspect, copy and, if it is erroneous, amend your protected health information. And you have the right to receive an accounting of disclosures of your protected health information, although that right does not apply to disclosures to you or for purposes of treatment, payment or health care operations. 
+You have the right to request restrictions on our use or disclosure of your protected health information, although we are not required to agree to a requested restriction. You have the right to request that we communicate your protected health information to you in a confidential manner. You have the right to inspect, copy and, if it is erroneous, amend your protected health information. And, you have the right to receive an accounting of disclosures of your protected health information, although that right does not apply to disclosures to you or for purposes of treatment, payment or health care operations. 
 
 You may make any complaint about our use or disclosure of protected health information directly to us, or to the Secretary of Health and Human Services, and you will not be retaliated against for filing a complaint. If you wish to complain to us, or if you have any questions, please contact us as follows: TD Banknorth Inc., P.O. Box 9540, Portland, ME 04112-9540, Attention: Privacy Officer/Risk Contingency Management, Telephone No. 800-211-1979 ext 126.   
   
@@ -103,12 +103,7 @@ For additional help, call the Federal Trade Commission at 877-ID-THEFT or visit 
   
    
 Questions  
-  |  We are strongly committed to our relationship with you and want to be sure you understand the steps we have taken to protect your personal information. Questions or comments may be directed to us at: 
-
-TD Banknorth Inc.  
-P.O. Box 9540  
-Portland, ME 04112-9540  
-
+  |  We're strongly committed to our relationship with you and want to be sure you understand the steps we have taken to protect your personal information. If you have any questions or comments, please call us at the appropriate number listed at the end of this document. 
 
 Send us an [e-mail](http://customerservice.tdbanknorth.com/cgi-bin/tdbanknorth.cfg/php/enduser/ask.php).
 
