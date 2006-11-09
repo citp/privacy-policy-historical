@@ -1,12 +1,27 @@
-> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306030855id_/http%3A//www.websense.com/w3c/Visitor.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109191222id_/http%3A//www.websense.com/global/en/privacypolicy.php) for the most accurate reproduction.*
 
-# Websense.com Privacy Policy
+# HIPAA Compliance, CIPA Compliance and Internet Security - Websense, Inc.
 
-Privacy Policy for Websense Inc.
+##### WEBSENSE SUPPORT
 
-About Us
+Find all the latest support info for your Websense Enterprise system.
 
-This is a privacy policy for Websense Inc's Web site visitors. **To view the Online Privacy Statement that applies when you fill out any personal information on our site,[click here.](https://web.archive.org/w3c/user.php)**
+  * [VISIT SUPPORT](https://web.archive.org/global/en/SupportAndKB/)
+
+
+
+### COST SAVINGS CALCULATOR
+
+Determine how much casual surfing of the internet could be costing your organization.
+
+  
+
+
+**Privacy Policy for Websense Inc.**
+
+**About Us**
+
+This is a privacy policy for Websense Inc's Web site visitors. **To view the Online Privacy Statement that applies when you fill out any personal information on our site,[click here.](https://web.archive.org/global/en/user.php)**
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
@@ -18,15 +33,15 @@ USA
 
 You may contact us by e-mail at [privacy@websense.com](mailto:privacy@websense.com). You may call us at 800.723.1166 (US) or 858.320.8000 (intl). 
 
-Dispute Resolution and Privacy Seals
+**Dispute Resolution and Privacy Seals**
 
 We have no privacy seals or other assurance mechanisms. 
 
-Additional Information
+**Additional Information**
 
-This policy is valid until 15 Jan, 2005 at 12:00:00 PST. 
+This policy is valid until otherwise specified. 
 
-Data Collection
+**Data Collection**
 
 P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
 
@@ -86,7 +101,7 @@ Cookies are used to track visitors to our site, so we can get an understanding o
 
 * * *
 
-Cookies
+**Cookies**
 
 Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
 
