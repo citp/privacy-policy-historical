@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hartstrings.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220949id_/http%3A//www.hartstrings.com/index.cfm/fuseaction/content.page/nodeID/cc8df3e9-fcdc-4796-84eb-ad9278b2e32c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hartstrings.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109071917id_/http%3A//www.hartstrings.com/index.cfm/fuseaction/content.page/nodeID/cc8df3e9-fcdc-4796-84eb-ad9278b2e32c) for the most accurate reproduction.*
 
 # Hartstrings.com > Privacy Policy
 
