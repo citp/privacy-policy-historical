@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riag.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316023253id_/http%3A//ria.thomson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riag.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109195750id_/http%3A//ria.thomson.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement from RIA - RIA
 
