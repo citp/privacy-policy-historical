@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spyoptic.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616065539id_/http%3A//www.spyoptic.com/the_company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyoptic.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109083152id_/http%3A//spyoptic.com/the_company/privacy) for the most accurate reproduction.*
 
 # + SPY OPTIC
 
