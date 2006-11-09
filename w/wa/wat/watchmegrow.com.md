@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the watchmegrow.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615115748id_/http%3A//www.watchmegrow.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchmegrow.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109164939id_/http%3A//watchmegrow.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # WatchMeGrow Childcare Internet Video Cameras & Online Viewing Systems
 
-##### [Home](https://web.archive.org/web/20060615115748id_/http%3A//www.watchmegrow.com/index.shtml) 
+##### [Home](http://www.watchmegrow.com/index.shtml) 
 
-##### [Demonstration](https://web.archive.org/web/20060615115748id_/http%3A//www.watchmegrow.com/demonstration.shtml) 
+##### [Sign Up](https://www.watchmegrow.com/signup.shtml) 
 
-##### [Childcare Providers](https://web.archive.org/web/20060615115748id_/http%3A//www.watchmegrow.com/childcareProviders.shtml) 
+##### [Demonstration](http://www.watchmegrow.com/demonstration.shtml) 
 
-##### [Parent Resources](https://web.archive.org/web/20060615115748id_/http%3A//www.watchmegrow.com/parents.shtml) 
+##### [Childcare Providers](http://www.watchmegrow.com/childcareProviders.shtml) 
 
-##### [Resellers](https://web.archive.org/web/20060615115748id_/http%3A//www.watchmegrow.com/resellers.shtml) 
+##### [Intergrators](http://www.watchmegrow.com/integrators.shtml) 
 
-##### [Testimonials](https://web.archive.org/web/20060615115748id_/http%3A//www.watchmegrow.com/testimonials.shtml) 
+##### [Testimonials](http://www.watchmegrow.com/testimonials.shtml) 
 
-##### [In the News](https://web.archive.org/web/20060615115748id_/http%3A//www.watchmegrow.com/inTheNews.shtml) 
+##### [In the News](http://www.watchmegrow.com/inTheNews.shtml) 
 
-##### [Contact Us](https://web.archive.org/web/20060615115748id_/http%3A//www.watchmegrow.com/contactUs.shtml) 
+##### [Contact Us](https://www.watchmegrow.com/contactUs.shtml) 
 
-##### [Help](https://web.archive.org/web/20060615115748id_/http%3A//www.watchmegrow.com/help.shtml) 
+##### [Help](http://www.watchmegrow.com/help.shtml) 
 
   
 **WatchMeGrow  
@@ -44,12 +44,12 @@ While we use encryption to protect sensitive information transmitted online, we 
   
 
 
-#### Thank you! WatchMeGrow is a wonderful service! I really enjoy it!
+#### We have greatly enjoyed the access WatchMeGrow provides to our child. Thank you!  
+-Texas
 
--Texas 
+#### I am a stay-at-home Mom with a business I run out of the home. I am on the computer all day and I really miss Jacob and I love to watch what he is doing at school. I really depend on this service.  
+-Seattle, WA
 
-#### I am a stay-at-home Mom with a business I run out of the home. I am on the computer all day and I   
-really miss Aaron and I love to watch what he is doing at school. I really depend on this service.
+**For more information,  
+please click below...** [](https://web.archive.org/web/20061109164939id_/http%3A//watchmegrow.com/childcareProviders.shtml) [](https://web.archive.org/web/20061109164939id_/http%3A//watchmegrow.com/parents.shtml) [](http://www.bbbonline.org/cks.asp?id=1051208104212)   
 
--Seattle, Washington  **For more information,  
-please click below...** [](https://web.archive.org/web/20060615115748id_/http%3A//www.watchmegrow.com/childcareProviders.shtml) [](https://web.archive.org/web/20060615115748id_/http%3A//www.watchmegrow.com/parents.shtml) [](http://www.bbbonline.org/cks.asp?id=1051208104212)
