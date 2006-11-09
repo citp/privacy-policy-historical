@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapair.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220026id_/http%3A//www.cheapair.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapair.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109022807id_/http%3A//www.cheapair.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ We also use your information, with your permission, to occasionally alert you to
 How This Information is Not Used  
 **We do not sell your name or other private profile information to third parties.**
 
-We may only disclose your personal information (i) if you violate the terms of our [User Agreement](http://www.cheapair.com/agreement.asp) or any law, rule, or regulation, or (ii) if required by law or regulatory authority (for example, court order or subpoena).
+We may only disclose your personal information (i) if you violate the terms of our [User Agreement](https://www.cheapair.com/agreement.asp) or any law, rule, or regulation, or (ii) if required by law or regulatory authority (for example, court order or subpoena).
 
 Security  
 Because security is important to us, we exercise great care in providing secure transmission of your personal information before it is transferred across the Internet from your personal computer to our secure servers. We use industry-standard, secure-socket-layer (SSL) technology, which is utilized by most popular browsers, including Netscape and Microsoft Explorer, to encrypt (or convert into code) your personal information before it is transferred across the Internet. To further safeguard your most sensitive credit card information, we transfer such information across the Internet in an encrypted format and then store such information in our secure database.
