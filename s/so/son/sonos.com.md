@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonos.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623031851id_/http%3A//www.sonos.com/legal/privacy_policy.htm%3Ftref%3Dfhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonos.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109082448id_/http%3A//www.sonos.com/legal/privacy_policy.htm%3Ftref%3Dfhome) for the most accurate reproduction.*
 
 # Sonos, Inc. | Legal | Privacy Policy
 
