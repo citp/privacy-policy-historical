@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationrussia.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625102741id_/http%3A//www.destinationrussia.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationrussia.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109225102id_/http%3A//destinationrussia.com/privacy.htm) for the most accurate reproduction.*
 
 # destination Russia - Our Terms and Conditions
 
