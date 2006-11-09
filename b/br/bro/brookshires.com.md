@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the brookshires.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618215744id_/http%3A//www.brookshires.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookshires.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110005147id_/http%3A//www.brookshires.com/terms/privacy.aspx) for the most accurate reproduction.*
 
-# Brookshire's - Privacy Policy
+# Brookshires.com : Privacy Policy
 
 **Brookshire Grocery Company Privacy Policy**
 
 Brookshire Grocery Company (BGC) considers the privacy of its customers to be of the utmost importance and pledges to protect the security and privacy of any personal information provided to us.
 
-**Personal Information**  
-BGC does not sell or lease personally-identifying information to any other company, person or agency. Information considered "personally-identifying" includes your name, address, social security number, Thank You Card number, telephone number or other information by which you could be personally identified. Brookshire Grocery Co. does not disclose personally identifying information to other non-affiliated companies. However, BGC may disclose personal information in such case that a response is required by law to a subpoena.
-
 **Access to Customer's Personal Information**  
 In accordance with our strict privacy policy and in an effort to keep customer information confidential, BGC restricts the number of employees who have access to said information. Employees who violate the Company's privacy policy are subject to disciplinary action, including termination.
 
-**Terms of Use**  
+**Personal Information**  
+BGC does not sell or lease personally-identifying information to any other company, person or agency. Information considered "personally-identifying" includes your name, address, social security number, Thank You Card number, telephone number or other information by which you could be personally identified. Brookshire Grocery Co. does not disclose personally identifying information to other non-affiliated companies. However, BGC may disclose personal information in such case that a response is required by law to a subpoena.
+
 Anyone browsing this site to read or download information, including weekly store advertisements, special customer promotions, recipes and nutritional information, employment opportunities, or other company facts and online publications, should know that:
 
 We collect and store the name of the domain and host from which you accessed the Internet, the Internet protocol (IP) address of the computer you used, the browser software used, the operating system, the date and time you accessed our site, and the Internet address of the web site from which you linked directly to our site. This information is not used for personal identification, but to measure the number of visitors to each section of our site, and to help us make the site more useful. The information is periodically deleted.
