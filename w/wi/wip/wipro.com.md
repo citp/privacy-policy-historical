@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wipro.com privacy policy that was archived on 2006-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060428173648id_/http%3A//wipro.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wipro.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109104103id_/http%3A//www.wipro.com/privacy.htm) for the most accurate reproduction.*
 
-# Wipro Technologies – IT Services, Product Engineering Services, Technology Infrastructure Services, Business Process Outsourcing, Consulting Services
+# Wipro Technologies - IT Services, Product Engineering Solutions, Technology Infrastructure Services, Business Process Outsourcing, Consulting Services
 
-| [Home](https://web.archive.org/web/20060428173648id_/http%3A//wipro.com/index.aspx) Privacy Policy   
+| [Home](https://web.archive.org/web/20061109104103id_/http%3A//www.wipro.com/index.aspx) Privacy Policy   
 
 
 Wipro takes your privacy very seriously 
@@ -32,8 +32,8 @@ AntiSpam policy
 Wipro recognizes the receipt, transmission or distribution of spam emails (unsolicited bulk emails) as a major concern and has taken reasonable measures, to minimize the transmission and effect of spam emails in its computing environment. All emails received by Wipro, are subject to spam check, in coordination with “SPAMHAUS” subscription service. Any email identified as spam will be rejected with sufficient information to the Sender for taking necessary action. With this measure, along with other technical spam reduction measures, Wipro hopes to minimize the effect of spam emails. Wipro reserves the right to reject and/or report any suspicious spam emails, to the authorities concerned, for necessary action, from time to time. 
 
 |  |    
-[Subscribe to 'Peer Ping' our monthly newsletter](https://web.archive.org/web/20060428173648id_/http%3A//wipro.com/webforms/newsletter_form.aspx)
+[Subscribe to 'Peer Ping' our monthly newsletter](https://web.archive.org/web/20061109104103id_/http%3A//www.wipro.com/webforms/newsletter_form.aspx)
 
-[Request for Information](https://web.archive.org/web/20060428173648id_/http%3A//wipro.com/webforms/request_for_info.aspx)
+[Request for Information](https://web.archive.org/web/20061109104103id_/http%3A//www.wipro.com/webforms/request_for_info.aspx)
 
-[Contact Us](https://web.archive.org/web/20060428173648id_/http%3A//wipro.com/webforms/contact_us_form.aspx)
+[Contact Us](https://web.archive.org/web/20061109104103id_/http%3A//www.wipro.com/webforms/contact_us_form.aspx)
