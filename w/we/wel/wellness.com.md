@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614174917id_/http%3A//wellness.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109210931id_/http%3A//www.wellness.com/privacy.asp) for the most accurate reproduction.*
 
 # Wellness & Health - Mind, Body, Spirit, Relationships
 
