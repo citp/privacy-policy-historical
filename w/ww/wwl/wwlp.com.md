@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wwlp.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619110228id_/http%3A//www.wwlp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwlp.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109214856id_/http%3A//www.wwlp.com/privacy.html) for the most accurate reproduction.*
 
 # WWLP.COM - Privacy Policy
 
