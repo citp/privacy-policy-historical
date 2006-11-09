@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hereisthecity.com privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624124415id_/http%3A//news.hereisthecity.com/pages/about_us/5.cntns) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hereisthecity.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109175731id_/http%3A//news.hereisthecity.com/pages/about_us/5.cntns) for the most accurate reproduction.*
 
 # Privacy Policy :: About Us :: Here Is The City News :: The Latest Business & Financial Markets News And Views
 
