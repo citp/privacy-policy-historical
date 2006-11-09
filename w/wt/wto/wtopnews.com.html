@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wtopnews.com privacy policy that was archived on 2006-03-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060313082037id_/http%3A//www.wtopnews.com/index.php%3Fsid%3D1737%26nid%3D164) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wtopnews.com privacy policy that was archived on 2006-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061109223914id_/http%3A//www.wtopnews.com%3Fsid%3D1737%26nid%3D164) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>WTOP: Privacy Statement</title>
@@ -7,14 +7,62 @@
 	<meta http-equiv="Content-Language" content="en-us">
 	<meta http-equiv="imagetoolbar" content="no">
 	<meta name="Keywords" content="Washington news, Washington traffic, Washington weather, traffic, weather, traffic and weather together, school closings.">
-	<meta name="Description" content="Washington's only all-news radion station with traffic and weather together every ten minutes on the 8's.">
+	<meta name="Description" content="Washington's only all-news radio station with traffic and weather together every ten minutes on the 8's.">
 	<meta name="Author" content="sdolge@wtopnews.com">
-	<meta name="Copyright" content="Copyright (c) 2005 WTOP RADIO">
+	<meta name="Copyright" content="Copyright (c) 2006 WTOP RADIO">
 	<link href="/print_style.css" rel="stylesheet" type="text/css" media="print">
 	<link href="/wtop-styles.css" rel="stylesheet" type="text/css" media="screen">
 	<script language="JavaScript" type="text/javascript"><!--
 
-function validatePoll(TheForm) 
+var cnt = 0;	
+var curr = "";
+var i = -1;			
+
+/*
+function newsticker() {
+	if (i < newslist[cnt][0].length - 1) {
+		i++;
+		temp1 = newslist[cnt][0];
+		temp1 = temp1.split('');
+		curr = curr+temp1[i];
+		temp2 = newslist[cnt][1];
+		scrollerObj = document.getElementById("mtxt");
+		if (temp2.length == 0)
+			scrollerObj.innerHTML = "<small><font color='#ffffff'>"+curr+"</small></font>";
+		else 
+			scrollerObj.innerHTML = "<small><a href='"+temp2+"'><font color='#ffffff'>"+curr+"</small></font></a>";
+		setTimeout('newsticker()',5);
+		return;
+	}
+	i = -1; curr = "";
+	if (cnt<newslist.length-1) cnt++; else cnt=0;
+	setTimeout('newsticker()',3000);
+}
+*/
+
+function blank()
+{
+	scrollerObj = document.getElementById("mtxt");
+	scrollerObj.innerHTML = "";
+	setTimeout('newsticker()',50);
+	return true;
+}
+
+function newsticker() {
+
+	temp1 = newslist[cnt][0];
+	temp2 = newslist[cnt][1];
+	scrollerObj = document.getElementById("mtxt");
+
+	if (temp2.length == 0)
+		scrollerObj.innerHTML = "<small><font color='#ffffff'>"+temp1+"</small></font>";
+	else
+		scrollerObj.innerHTML = "<small><a href='"+temp2+"'><font color='#ffffff'>"+temp1+"</small></font></a>";
+	if (cnt<newslist.length-1) cnt++; else cnt=0;
+	setTimeout('blank()',3000);
+}
+
+function validatePoll(TheForm)
 {
 	var SelectionMade = false;
 	for (i = 0; i < TheForm.poll.length; i++)
@@ -43,208 +91,30 @@ function validatePoll(TheForm)
 
 <body>
 <div id="main2"><a href="#mainContent"><img src="/images/layout/spacer.gif" alt="Skip to Main Content" border="0" width="1" height="1"></a>
-<div id="topbanner">	<div style="margin-bottom:8px">
-		<a href="http://tracker.bonnint.net/?copy_id=27"><img src="http://stocker.bonnint.net/wtop/sanofiadventis_medicare.gif?timestamp=1142238037?copy_id=27" style="border: 0" alt="Sanofi Adventis"></a>	</div>
+<div id="topbanner">	<div class="ad" style="margin-bottom:8px">
+		<a href="http://tracker.bonnint.net/?copy_id=1089"><img src="http://stocker.bonnint.net/wtop/askcio_banner.gif?timestamp=1163111957?copy_id=1089" style="border: 0" alt="Ask The CIO"></a>	</div>
 </div>
-	 <div id="header"><img src="/images/header/masthead.jpg" alt="WTOP Radio">
+	 <div id="header"><img src="/images/header/masthead2.jpg" alt="WTOP Radio">
 							
 <!--Header Buttons-->
-			<div style="z-index: 99; position: absolute; top: 2px; left: 4px;"><a href="/index.php"><img src="/images/header/header_logo.gif" border="0" alt="[Home]"></a></div>
-			<div style="z-index: 99; position: absolute; top: 2px; left: 600px;"><a href="/?sid=599366&amp;nid=162"><img src="/images/header/header-listen.gif" border="0" alt="[Listen to WTOP Radio Online]"></a></div>
-			<div style="z-index: 99; position: absolute; top: 2px; left: 810px;"><a href="http://www.federalnewsradio.com"><img src="/images/header/header-fnr.gif" border="0" alt="[Federal News Radio]"></a></div>
+			<div id="header_logo" style="z-index: 99; position: absolute; top: 6px; left: 8px;"><a href="/"><img src="/images/header/header_logo.gif" border="0" alt="[Home]"></a></div>
+			<div style="z-index: 99; position: absolute; top: 2px; left: 580px;"><a href="/?sid=599366&amp;nid=162"><img src="/images/header/now_on_1035.gif" border="0" alt="[Listen to WTOP Radio Online]"></a></div>
+			<div style="z-index: 99; position: absolute; top: 2px; left: 750px;"><a href="/?sid=599366&amp;nid=162"><img src="/images/header/header-listen.gif" border="0" alt="[Listen to WTOP Radio Online]"></a></div>
 			
 			<!--Header Buttons-->
 			<!--SEARCH-->
-			<div style="z-index: 99; position: absolute; top: 40px; left: 480px;"><form action="/" method="get">
-			<input name="query" style="border: 1px solid #6F85B4;" type="text" size="18">
+			<div style="z-index: 99; position: absolute; top: 45px; left: 480px;"><form action="/" method="GET">
+			<input name="term" style="border: 1px solid #6F85B4;" type="text" size="18">
 			<input type="hidden" name="nid" value="183">
-			<input style="position: relative; top: 4px; left: -1px;" src="/images/layout/search.gif" name="submit" type="image">
+			<input style="position: relative; top:19px; left: -1px;" src="/images/layout/search-g.gif" name="submit" type="image">
 			</form>
-			</div><!--SEARCH-->	</div><!--header-->
-<div id="navcontainer">	<div id="nav">
-
-<ul class="level1">
-	<li><a href="/index.php">Home&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-	</li>
-	<li class="submenu"><a href="/?sid=599366&amp;nid=162">Listen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<ul class="level2">
-		<li><a href="/?sid=599366&amp;nid=162"><em>Listen Live</em></a></li>
-		<li><a href="/?sid=595567&amp;nid=92"><em>Audio Archive</em></a></li>
-		<li><a href="/?sid=611203&amp;nid=524"><em>Commentary &amp; Analysis</em></a></li>
-		<li><a href="/?sid=611199&amp;nid=524"><em>On Air Interviews</em></a></li>
-		<li><a href="/?nid=524&amp;sid=611200"><em>Podcast Updates</em></a></li>
-		<li><a href="/?sid=598471&amp;nid=442"><em>HD Radio</em></a></li>
-		</ul>	
-</li>
-
-	<li class="submenu"><a href="/?sid=577734&amp;nid=32">News&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-	<ul class="level2">
-		<li><a href="/?nid=2&amp;sid=577762"><em>Local</em></a></li>
-		<li><a href="/?nid=3&amp;sid=577763"><em>National</em></a></li>
-		<li class="submenu"><a href="/?nid=4&amp;sid=577764"><em>World</em></a>
-			<ul class="level3">
-			<li class="first"><a href="/index.php?nid=4"><em>Top Stories</em></a></li>
-			<li><a href="/index.php?nid=386"><em>Africa</em></a></li>
-			<li><a href="/index.php?nid=384"><em>Asia</em></a></li>
-			<li><a href="/index.php?nid=390"><em>Australia</em></a></li>
-			<li><a href="/index.php?nid=379"><em>Canada</em></a></li>
-			<li><a href="/index.php?nid=382"><em>Europe</em></a></li>
-			<li><a href="/index.php?nid=388"><em>Latin America</em></a></li>
-			<li><a href="/?sid=599590&amp;nid=495"><em>Mid East</em></a></li>
-			
-			</ul>
-			</li>
-		<li><a href="/index.php?nid=9"><em>Business</em></a></li>
-		<li class="submenu"><a href="/index.php?nid=11"><em>Health</em></a>
-			<ul class="level3">
-			<li class="first"><a href="/index.php?nid=344"><em>Flu News</em></a></li>
-			</ul>
-		</li>
-		<li><a href="/index.php?nid=10"><em>Technology</em></a></li>
-		<li><a href="/index.php?nid=12"><em>Entertainment</em></a></li>
-		<li class="submenu"><a href="/?sid=615968&amp;nid=225"><em>Special Reports</em></a>
-			<ul class="level3">
-			<li class="first"><a href="/?sid=608191&amp;nid=443"><em>Troubled Waters</em></a></li>
-		<li><a href="/?nid=226&amp;sid=615973"><em>Inside Guantanamo</em></a></li>
-		<li><a href="/?sid=616017&amp;nid=503"><em>WTOP In Iraq</em></a></li>
-		<li><a href="/?nid=226&amp;sid=615974"><em>Real Estate Roulette</em></a></li>
-		<li><a href="/?sid=592519&amp;nid=250"><em>America on Alert</em></a></li>
-			</ul>
-			</li>
-		<li class="submenu"><a href="/index.php?nid=115"><em>Government</em></a>
-				<ul class="level3">
-			<li class="first"><a href="/index.php?nid=115"><em>Top Stories</em></a></li>
-			<li class="first"><a href="/?sid=599258&amp;nid=212"><em>Elections</em></a></li>
-			<li class="first"><a href="/?sid=587420&amp;nid=342"><em>Supreme Court</em></a></li>
-			<li><a href="http://www.federalnewsradio.com"><em>Federal News Radio</em></a></li>
-			<li><a href="http://www.federalnewsradio.com/index.php?nid=7"><em>Mike Causey</em></a></li>
-			<li><a href="http://capwiz.com/wtop/home/"><em>Government Guide</em></a></li>
-			<li><a href="/index.php?nid=165"><em>Politics Program</em></a></li>
-			<li><a href="/?sid=592519&amp;nid=250"><em>America on Alert</em></a></li>
-			</ul>
-		</li>
-		<li><a href="/index.php?nid=315"><em>Education</em></a></li>
-		<li><a href="/index.php?nid=219"><em>Science</em></a></li>
-		<li><a href="/index.php?nid=427"><em>WTOP Investigates</em></a></li>
-		<li class="submenu"><a href="/?sid=603022&amp;nid=13"><em>Consumer</em></a>
-			<ul class="level3">
-			<li class="first"><a href="/index.php?nid=63"><em>Call For Action</em></a></li>
-			<li><a href="/?sid=603022&amp;nid=13"><em>Recalls</em></a></li>
-			</ul>
-			</li>
-		<li class="submenu"><a href="/?sid=605651&amp;nid=455"><em>Seriously?</em></a>
-			<ul class="level3">
-			<li class="first"><a href="/?sid=605651&amp;nid=455"><em>Watercooler</em></a></li>
-			<li><a href="/index.php?nid=501"><em>Monkey News</em></a></li>
-			</ul>
-		</li>
-	</ul>
-	</li>
-
-	<li class="submenu"><a href="/?sid=590400&amp;nid=6">Traffic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-	<ul class="level2">
-		<li><a href="/?sid=590400&amp;nid=6"><em>Traffic Center</em></a></li>
-		<li><a href="/?sid=604381&amp;nid=370"><em>Cameras</em></a></li>
-		<li><a href="/?sid=604401&amp;nid=408"><em>Incident Map</em></a></li>
-		<li><a href="/?sid=610580&amp;nid=322"><em>VA Lane Speeds</em></a></li>
-		<li><a href="/?sid=602990&amp;nid=5"><em>Sprawl &amp; Crawl</em></a></li>
-		<li class="bottomlink"><a href="/index.php?nid=28&amp;sid=243"><em>Commuter Links</em></a></li>
-	</ul>
-	</li>
-	
-
-	<li class="submenu"><a href="/index.php?nid=7">Weather&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-	<ul class="level2">
-		<li><a href="/index.php?nid=7"><em>Current Conditions</em></a></li>
-		<li><a href="/?sid=618510&amp;nid=311"><em>Weather Alerts</em></a></li>
-		<li><a href="http://www.wjla.com/weather" target="_blank"><em>ABC7 Super Doppler</em></a></li>
-		<li><a href="/index.php?nid=228&amp;a=1"><em>Closings &amp; Delays</em></a></li>
-	</ul>
-	</li>
-	
-
-	<li class="submenu"><a href="/index.php?nid=8">Sports&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-	<ul class="level2">
-		<li><a href="/index.php?nid=8"><em>Top Stories</em></a></li>
-		<li class="submenu"><a href="/?sid=578001&amp;nid=118"><em>NFL News</em></a>
-			<ul class="level3">
-			<li class="first"><a href="/?sid=578002&amp;nid=191"><em>Redskins</em></a></li>
-			</ul>
-		</li>			
-		<li class="submenu"><a href="/?sid=578011&amp;nid=125"><em>MLB News</em></a>
-			<ul class="level3">
-			<li class="first"><a href="/?sid=620916&amp;nid=397"><em>Nationals</em></a></li>
-			<li><a href="/?sid=622759&amp;nid=189"><em>Orioles</em></a></li>
-			</ul>
-		</li>
-		<li class="submenu"><a href="/?sid=578004&amp;nid=134"><em>NBA News</em></a>
-			<ul class="level3">
-			<li class="first"><a href="/?sid=578008&amp;nid=190"><em>Wizards</em></a></li>
-			<li><a href="/?sid=622748&amp;nid=309"><em>Mystics</em></a></li>
-			</ul>
-		</li>
-		<li class="submenu"><a href="/?sid=600561&amp;nid=141"><em>NHL News</em></a>
-			<ul class="level3">
-			<li class="first"><a href="/?sid=600562&amp;nid=192"><em>Capitals</em></a></li>
-			</ul>
-		</li>
-		<li class="level1"><a href="/?sid=599321&amp;nid=169"><em>NCAA Football</em></a></li>
-		<li class="level1"><a href="/?sid=601631&amp;nid=176"><em>NCAA Basketball</em></a></li>
-		<li class="level1"><a href="/?sid=601596&amp;nid=148"><em>Golf</em></a></li>
-		<li class="level1"><a href="/?sid=601624&amp;nid=153"><em>NASCAR</em></a></li>
-		<li class="submenu"><a href="/?sid=608327&amp;nid=156"><em>Soccer</em></a>
-			<ul class="level3">
-			<li class="first"><a href="/?sid=622761&amp;nid=193"><em>DC United</em></a></li>
-			</ul>
-		</li>
-		<li class="level1"><a href="/?sid=608325&amp;nid=236"><em>Tennis</em></a></li>
-		<li class="level1"><a href="/?sid=622768&amp;nid=392"><em>Olympics</em></a></li>
-		<li class="level1"><a href="/?sid=578110&amp;nid=209"><em>Other Sports</em></a></li>
-
-		
-	</ul>
-	</li>
-	
-	<li class="submenu"><a href="/?sid=591460&amp;nid=26">Living&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-	<ul class="level2">
-		<li><a href="/index.php?nid=18"><em>Man About Town</em></a></li>
-		<li><a href="/index.php?nid=39"><em>Funformation</em></a></li>
-		<li><a href="/index.php?nid=44"><em>Barber's Best Bets</em></a></li>
-		<li><a href="/index.php?nid=46"><em>Garden Plot</em></a></li>
-		<li><a href="/index.php?nid=48"><em>What's Cooking</em></a></li>
-		<li><a href="/index.php?nid=50"><em>Car Report</em></a></li>
-		<li><a href="/index.php?nid=422&amp;sid=latest"><em>The Space Place</em></a></li>
-		<li><a href="/?nid=530&amp;sid=latest"><em>Neighborhood Nosh</em></a></li>
-	</ul>
-	</li>
-
-	
-	<li class="submenu" id="last"><a href="/?sid=597510&amp;nid=27">Inside WTOP&nbsp;&nbsp;&nbsp;</a>
-	<ul class="level2">
-		<li><a href="/index.php?nid=56&amp;sid=597520"><em>Contact Us</em></a></li>
-		<li><a href="/index.php?nid=63"><em>Call For Action</em></a></li>
-		<li><a href="/index.php?nid=532"><em>Program Schedule</em></a></li>
-		<li><a href="/email/wtopnewsjunkie.htm"><em>Email News Alerts</em></a></li>
-		<li><a href="/index.php?nid=57"><em>Station Events</em></a></li>
-		<li><a href="/index.php?nid=59"><em>Awards</em></a></li>
-		<li><a href="/index.php?nid=61"><em>News Team</em></a></li>
-		<li><a href="/index.php?nid=64"><em>Charities</em></a></li>
-		<li><a href="/index.php?nid=65"><em>Contests</em></a></li>
-		<li><a href="/index.php?nid=67"><em>WTOP Store</em></a></li>
-		<li><a href="/index.php?nid=69"><em>Signals</em></a></li>
-		<li><a href="/index.php?nid=70"><em>Jobs</em></a></li>
-		<li><a href="/index.php?nid=274"><em>History</em></a></li>
-		<li><a href="http://www.wtopnews.com/docs/FCCEEODC0304.pdf"><em>EEO Public File</em></a></li>
-	</ul>
-	</li>
-
-
-	</ul>
-</div></div>
+			</div><!--SEARCH-->
+	</div><!--header-->
+<div id="navcontainer"><div style="float:right;margin:3px 15px 0 0; padding:0"><a href="/?sid=691125&amp;nid=533" class="arc-gray">Site Map</a></div><script language="JavaScript" src="/javascripts/navbar.js"></script><div id="imcontainer10" style="width: 638px; height: 16px;"><div id="imcontainer20"><div style="display: block;" id="imouter0"><ul id="imenus0" style="width:638px"><li style="width:65px;" id="ulitem0z0"><a href="/" id="ulaitem0z0">Home</a></li><li style="width:60px;" title="[Listen to WTOP Online]" id="ulitem0z1"><a href="/?sid=599366&amp;nid=162" id="ulaitem0z1"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z1" style="position:relative;width:100%;height:0px;text-align:right;top:3px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="1" imexpandicon="2" src="/regions/nav_images/main_arrow.gif" width="7" height="5" border="0"></div><img style="border-style:none;" imexpandicon="1" level="1" src="/regions/nav_images/main_arrow.gif" width="7" height="5" border="0"></div></div></span>Listen</a>	<div align="left" style="z-index: 1;"><div style="width:140px;top:0px;left:1px;" class="imsubc"><ul style="" id="x1ub0z1">	<li id="ulitem0z1z0"><a href="/?sid=599366&amp;nid=162" id="ulaitem0z1z0">Listen Live</a></li>	<li id="ulitem0z1z1"><a href="/?sid=595567&amp;nid=92" id="ulaitem0z1z1">Audio Archive</a></li>	<li id="ulitem0z1z2"><a href="/?sid=611203&amp;nid=524" id="ulaitem0z1z2">Commentary &amp; Analysis</a></li>	<li id="ulitem0z1z3"><a href="/?sid=611199&amp;nid=524" id="ulaitem0z1z3">On Air Interviews</a></li>	<li id="ulitem0z1z4"><a href="/?nid=524&amp;sid=611200" id="ulaitem0z1z4">Podcast Updates</a></li>	<li id="ulitem0z1z5"><a href="/?sid=598471&amp;nid=442" id="ulaitem0z1z5">HD Radio</a></li>	</ul></div></div></li><li style="width:60px;" id="ulitem0z2"><a href="/?sid=577734&amp;nid=32" id="ulaitem0z2"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z2" style="position:relative;width:100%;height:0px;text-align:right;top:3px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="1" imexpandicon="2" src="/regions/nav_images/main_arrow.gif" width="7" height="5" border="0"></div><img style="border-style:none;" imexpandicon="1" level="1" src="/regions/nav_images/main_arrow.gif" width="7" height="5" border="0"></div></div></span>News</a>	<div align="left" style="z-index: 1;"><div style="width:120px;top:0px;left:0px;" class="imsubc"><ul style="" id="x1ub0z2">	<li id="ulitem0z2z0"><a href="/?nid=2&amp;sid=577762" id="ulaitem0z2z0"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z2z0" style="position:relative;width:100%;height:0px;text-align:right;top:5px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="2" imexpandicon="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div><img style="border-style:none;" imexpandicon="1" level="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div></div></span>Local</a>			<div align="left" style="z-index: 2;"><div style="width:150px;top:-18px;left:100px;" class="imsubc"><ul style="" id="x1ub0z2z0">		<li id="ulitem0z2z0z0"><a href="/?nid=2&amp;sid=577762" id="ulaitem0z2z0z0">Top Stories</a></li>		<li id="ulitem0z2z0z1"><a href="/?nid=595" id="ulaitem0z2z0z1">D.C.</a></li>		<li id="ulitem0z2z0z2"><a href="/?nid=597" id="ulaitem0z2z0z2">Maryland</a></li>		<li id="ulitem0z2z0z3"><a href="/?nid=599" id="ulaitem0z2z0z3">Virginia</a></li>		</ul></div></div></li>	<li id="ulitem0z2z1"><a href="/?nid=3&amp;sid=577763" id="ulaitem0z2z1">National</a></li>	<li id="ulitem0z2z2"><a href="/?nid=4&amp;sid=577764" id="ulaitem0z2z2"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z2z2" style="position:relative;width:100%;height:0px;text-align:right;top:5px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="2" imexpandicon="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div><img style="border-style:none;" imexpandicon="1" level="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div></div></span>World</a>		<div align="left" style="z-index: 2;"><div style="width:150px;top:-18px;left:100px;" class="imsubc"><ul style="" id="x1ub0z2z2">		<li id="ulitem0z2z2z0"><a href="/?nid=4" id="ulaitem0z2z2z0">Top Stories</a></li>		<li id="ulitem0z2z2z1"><a href="/?nid=386" id="ulaitem0z2z2z1">Africa</a></li>		<li id="ulitem0z2z2z2"><a href="/?nid=384" id="ulaitem0z2z2z2">Asia</a></li>		<li id="ulitem0z2z2z3"><a href="/?nid=390" id="ulaitem0z2z2z3">Australia</a></li>		<li id="ulitem0z2z2z4"><a href="/?nid=379" id="ulaitem0z2z2z4">Canada</a></li>		<li id="ulitem0z2z2z5"><a href="/?nid=382" id="ulaitem0z2z2z5">Europe</a></li>		<li id="ulitem0z2z2z6"><a href="/?nid=388" id="ulaitem0z2z2z6">Latin America</a></li>		<li id="ulitem0z2z2z7"><a href="/?sid=599590&amp;nid=495" id="ulaitem0z2z2z7">Mid East</a></li>		</ul></div></div></li>	<li id="ulitem0z2z3"><a href="/?nid=9" id="ulaitem0z2z3">Business</a></li>	<li id="ulitem0z2z4"><a href="/?nid=11" id="ulaitem0z2z4"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z2z4" style="position:relative;width:100%;height:0px;text-align:right;top:5px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="2" imexpandicon="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div><img style="border-style:none;" imexpandicon="1" level="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div></div></span>Health</a>		<div align="left" style="z-index: 2;"><div style="width:150px;top:-18px;left:100px;" class="imsubc"><ul style="" id="x1ub0z2z4">		<li id="ulitem0z2z4z0"><a href="/?nid=344" id="ulaitem0z2z4z0">Flu News</a></li>		</ul></div></div></li>	<li id="ulitem0z2z5"><a href="/?nid=10" id="ulaitem0z2z5">Technology</a></li>	<li id="ulitem0z2z6"><a href="/?nid=12" id="ulaitem0z2z6">Entertainment</a></li>	<li id="ulitem0z2z7"><a href="/?sid=615968&amp;nid=225" id="ulaitem0z2z7"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z2z7" style="position:relative;width:100%;height:0px;text-align:right;top:5px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="2" imexpandicon="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div><img style="border-style:none;" imexpandicon="1" level="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div></div></span>Special Reports</a>		<div align="left" style="z-index: 2;"><div style="width:150px;top:-18px;left:100px;" class="imsubc"><ul style="" id="x1ub0z2z7">		<li id="ulitem0z2z7z0"><a href="/?sid=982480&amp;nid=613" id="ulaitem0z2z7z0">Beyond the Purple Heart</a></li>		<li id="ulitem0z2z7z1"><a href="/?nid=226&amp;sid=1001749" id="ulaitem0z2z7z1">From Victim to Survivor</a></li>		<li id="ulitem0z2z7z2"><a href="/?sid=958713&amp;nid=226" id="ulaitem0z2z7z2">ICC: Selling of a Road</a></li>		<li id="ulitem0z2z7z3"><a href="/?sid=608191&amp;nid=443" id="ulaitem0z2z7z3">Troubled Waters</a></li>		<li id="ulitem0z2z7z4"><a href="/?nid=226&amp;sid=615973" id="ulaitem0z2z7z4">Inside Guantanamo</a></li>		<li id="ulitem0z2z7z5"><a href="/?sid=616017&amp;nid=503" id="ulaitem0z2z7z5">WTOP In Iraq</a></li>		<li id="ulitem0z2z7z6"><a href="/?sid=592519&amp;nid=250" id="ulaitem0z2z7z6">America on Alert</a></li>		</ul></div></div></li>	<li id="ulitem0z2z8"><a href="/?nid=115" id="ulaitem0z2z8"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z2z8" style="position:relative;width:100%;height:0px;text-align:right;top:5px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="2" imexpandicon="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div><img style="border-style:none;" imexpandicon="1" level="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div></div></span>Government</a>		<div align="left" style="z-index: 2;"><div style="width:150px;top:-18px;left:100px;" class="imsubc"><ul style="" id="x1ub0z2z8">		<li id="ulitem0z2z8z0"><a href="/?nid=115" id="ulaitem0z2z8z0">Top Stories</a></li>		<li id="ulitem0z2z8z1"><a href="/?sid=599258&amp;nid=212" id="ulaitem0z2z8z1">Elections</a></li>		<li id="ulitem0z2z8z2"><a href="/?sid=587420&amp;nid=342" id="ulaitem0z2z8z2">Supreme Court</a></li>		<li id="ulitem0z2z8z3"><a href="https://web.archive.org/web/20070320111305/http://www.federalnewsradio.com" id="ulaitem0z2z8z3">Federal News Radio</a></li>		<li id="ulitem0z2z8z4"><a href="https://web.archive.org/web/20070320111305/http://www.federalnewsradio.com/?nid=7" id="ulaitem0z2z8z4">Mike Causey</a></li>		<li id="ulitem0z2z8z5"><a href="https://web.archive.org/web/20070320111305/http://capwiz.com/wtop/home/" id="ulaitem0z2z8z5">Government Guide</a></li>		<li id="ulitem0z2z8z6"><a href="/?nid=165" id="ulaitem0z2z8z6">Politics Program</a></li>		<li id="ulitem0z2z8z7"><a href="/?sid=592519&amp;nid=250" id="ulaitem0z2z8z7">America on Alert</a></li>		</ul></div></div></li>	<li id="ulitem0z2z9"><a href="/?nid=315" id="ulaitem0z2z9">Education</a></li>	<li id="ulitem0z2z10"><a href="/?nid=219" id="ulaitem0z2z10">Science</a></li>	<li id="ulitem0z2z11"><a href="/?nid=427" id="ulaitem0z2z11">WTOP Investigates</a></li>	<li id="ulitem0z2z12"><a href="/?sid=603022&amp;nid=13" id="ulaitem0z2z12"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z2z12" style="position:relative;width:100%;height:0px;text-align:right;top:5px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="2" imexpandicon="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div><img style="border-style:none;" imexpandicon="1" level="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div></div></span>Consumer</a>		<div align="left" style="z-index: 2;"><div style="width:150px;top:-18px;left:100px;" class="imsubc"><ul style="" id="x1ub0z2z12">		<li id="ulitem0z2z12z0"><a href="/?nid=63" id="ulaitem0z2z12z0">Call For Action</a></li>		<li id="ulitem0z2z12z1"><a href="/?sid=603022&amp;nid=13" id="ulaitem0z2z12z1">Recalls</a></li>		</ul></div></div></li>	<li id="ulitem0z2z13"><a href="/?sid=605651&amp;nid=455" id="ulaitem0z2z13"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z2z13" style="position:relative;width:100%;height:0px;text-align:right;top:5px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="2" imexpandicon="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div><img style="border-style:none;" imexpandicon="1" level="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div></div></span>Seriously?</a>		<div align="left" style="z-index: 2;"><div style="width:150px;top:-18px;left:100px;" class="imsubc"><ul style="" id="x1ub0z2z13">		<li id="ulitem0z2z13z0"><a href="?sid=605651&amp;nid=455" id="ulaitem0z2z13z0">Watercooler</a></li>		<li id="ulitem0z2z13z1"><a href="?nid=501" id="ulaitem0z2z13z1">Monkey News</a></li>		</ul></div></div></li>	</ul></div></div></li><li style="width:67px;" id="ulitem0z3"><a href="/?sid=590400&amp;nid=6" id="ulaitem0z3"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z3" style="position:relative;width:100%;height:0px;text-align:right;top:3px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="1" imexpandicon="2" src="/regions/nav_images/main_arrow.gif" width="7" height="5" border="0"></div><img style="border-style:none;" imexpandicon="1" level="1" src="/regions/nav_images/main_arrow.gif" width="7" height="5" border="0"></div></div></span>Traffic</a>	<div align="left" style="z-index: 1;"><div style="width:110px;top:0px;left:0px;" class="imsubc"><ul style="" id="x1ub0z3">	<li id="ulitem0z3z0"><a href="/?sid=590400&amp;nid=6" id="ulaitem0z3z0">Traffic Center</a></li>	<li id="ulitem0z3z1"><a href="/?sid=604381&amp;nid=370" id="ulaitem0z3z1">Cameras</a></li>	<li id="ulitem0z3z2"><a href="/?sid=604401&amp;nid=408" id="ulaitem0z3z2">Incident Map</a></li>	<li id="ulitem0z3z3"><a href="/?sid=610580&amp;nid=322" id="ulaitem0z3z3">VA Lane Speeds</a></li>	<li id="ulitem0z3z4"><a href="/?nid=28&amp;sid=243" id="ulaitem0z3z4">Commuter Links</a></li>	<li id="ulitem0z3z5"><a href="/?sid=602990&amp;nid=5" id="ulaitem0z3z5">Sprawl &amp; Crawl</a></li>	</ul></div></div></li><li style="width:75px;" id="ulitem0z4"><a href="/?nid=7" id="ulaitem0z4"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z4" style="position:relative;width:100%;height:0px;text-align:right;top:3px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="1" imexpandicon="2" src="/regions/nav_images/main_arrow.gif" width="7" height="5" border="0"></div><img style="border-style:none;" imexpandicon="1" level="1" src="/regions/nav_images/main_arrow.gif" width="7" height="5" border="0"></div></div></span>Weather</a>	<div align="left" style="z-index: 1;"><div style="width:125px;top:0px;left:0px;" class="imsubc"><ul style="" id="x1ub0z4">	<li id="ulitem0z4z0"><a href="/?nid=7" id="ulaitem0z4z0">Current Conditions</a></li>	<li id="ulitem0z4z1"><a href="/?sid=618510&amp;nid=311" id="ulaitem0z4z1">Weather Alerts</a></li>	<li id="ulitem0z4z2"><a href="https://web.archive.org/web/20070320111305/http://www.wjla.com/weather" target="_blank" id="ulaitem0z4z2">ABC7 Super Doppler</a></li>	<li id="ulitem0z4z3"><a href="/?nid=228&amp;a=1" id="ulaitem0z4z3">Closings &amp; Delays</a></li>	</ul></div></div></li><li style="width:67px;" id="ulitem0z5"><a href="/?nid=8" id="ulaitem0z5"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z5" style="position:relative;width:100%;height:0px;text-align:right;top:3px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="1" imexpandicon="2" src="/regions/nav_images/main_arrow.gif" width="7" height="5" border="0"></div><img style="border-style:none;" imexpandicon="1" level="1" src="/regions/nav_images/main_arrow.gif" width="7" height="5" border="0"></div></div></span>Sports</a>	<div align="left" style="z-index: 1;"><div style="width:110px;top:0px;left:0px;" class="imsubc"><ul style="" id="x1ub0z5">	<li id="ulitem0z5z0"><a href="/?nid=8" id="ulaitem0z5z0">Top Stories</a></li>	<li id="ulitem0z5z1"><a href="/?sid=578001&amp;nid=118" id="ulaitem0z5z1"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z5z1" style="position:relative;width:100%;height:0px;text-align:right;top:5px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="2" imexpandicon="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div><img style="border-style:none;" imexpandicon="1" level="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div></div></span>NFL</a>		<div align="left" style="z-index: 2;"><div style="width:110px;top:-18px;left:100px;" class="imsubc"><ul style="" id="x1ub0z5z1">		<li id="ulitem0z5z1z0"><a href="/?sid=578001&amp;nid=118" id="ulaitem0z5z1z0">Top Stories</a></li>		<li id="ulitem0z5z1z1"><a href="/?sid=578002&amp;nid=191" id="ulaitem0z5z1z1">Redskins News</a></li>		</ul></div></div></li>	<li id="ulitem0z5z2"><a href="/?sid=578011&amp;nid=125" id="ulaitem0z5z2"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z5z2" style="position:relative;width:100%;height:0px;text-align:right;top:5px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="2" imexpandicon="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div><img style="border-style:none;" imexpandicon="1" level="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div></div></span>MLB</a>		<div align="left" style="z-index: 2;"><div style="width:150px;top:-18px;left:100px;" class="imsubc"><ul style="" id="x1ub0z5z2">		<li id="ulitem0z5z2z0"><a href="/?sid=578011&amp;nid=125" id="ulaitem0z5z2z0">Top Stories</a></li>		<li id="ulitem0z5z2z1"><a href="/?sid=620916&amp;nid=397" id="ulaitem0z5z2z1">Nationals</a></li>		<li id="ulitem0z5z2z2"><a href="/?sid=622759&amp;nid=189" id="ulaitem0z5z2z2">Orioles</a></li>		<li id="ulitem0z5z2z3"><a href="/?nid=373" id="ulaitem0z5z2z3">Minor League</a></li>		</ul></div></div></li>	<li id="ulitem0z5z3"><a href="/?sid=578004&amp;nid=134" id="ulaitem0z5z3"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z5z3" style="position:relative;width:100%;height:0px;text-align:right;top:5px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="2" imexpandicon="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div><img style="border-style:none;" imexpandicon="1" level="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div></div></span>NBA</a>		<div align="left" style="z-index: 2;"><div style="width:150px;top:-18px;left:100px;" class="imsubc"><ul style="" id="x1ub0z5z3">		<li id="ulitem0z5z3z0"><a href="/?sid=578004&amp;nid=134" id="ulaitem0z5z3z0">Top Stories</a></li>		<li id="ulitem0z5z3z1"><a href="/?sid=578008&amp;nid=190" id="ulaitem0z5z3z1">Wizards</a></li>		<li id="ulitem0z5z3z2"><a href="/?sid=622748&amp;nid=309" id="ulaitem0z5z3z2">Mystics</a></li>		</ul></div></div></li>	<li id="ulitem0z5z4"><a href="/?sid=600561&amp;nid=141" id="ulaitem0z5z4"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z5z4" style="position:relative;width:100%;height:0px;text-align:right;top:5px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="2" imexpandicon="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div><img style="border-style:none;" imexpandicon="1" level="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div></div></span>NHL </a>		<div align="left" style="z-index: 2;"><div style="width:150px;top:-18px;left:100px;" class="imsubc"><ul style="" id="x1ub0z5z4">		<li id="ulitem0z5z4z0"><a href="/?sid=600561&amp;nid=141" id="ulaitem0z5z4z0">Top Stories</a></li>		<li id="ulitem0z5z4z1"><a href="/?sid=600562&amp;nid=192" id="ulaitem0z5z4z1">Capitals</a></li>		</ul></div></div></li>	<li id="ulitem0z5z5"><a href="/?sid=599321&amp;nid=169" id="ulaitem0z5z5">NCAA Football</a></li>	<li id="ulitem0z5z6"><a href="/?sid=601631&amp;nid=176" id="ulaitem0z5z6">NCAA Basketball</a></li>	<li id="ulitem0z5z7"><a href="/?sid=601596&amp;nid=148" id="ulaitem0z5z7">Golf</a></li>	<li id="ulitem0z5z8"><a href="/?sid=601624&amp;nid=153" id="ulaitem0z5z8">NASCAR</a></li>	<li id="ulitem0z5z9"><a href="/?sid=608327&amp;nid=156" id="ulaitem0z5z9"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z5z9" style="position:relative;width:100%;height:0px;text-align:right;top:5px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="2" imexpandicon="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div><img style="border-style:none;" imexpandicon="1" level="2" src="/regions/nav_images/sub_arrow.gif" width="5" height="7" border="0"></div></div></span>Soccer</a>		<div align="left" style="z-index: 2;"><div style="width:150px;top:-18px;left:100px;" class="imsubc"><ul style="" id="x1ub0z5z9">		<li id="ulitem0z5z9z0"><a href="/?sid=608327&amp;nid=156" id="ulaitem0z5z9z0">Top Stories</a></li>		<li id="ulitem0z5z9z1"><a href="/?sid=622761&amp;nid=193" id="ulaitem0z5z9z1">DC United</a></li>		</ul></div></div></li>	<li id="ulitem0z5z10"><a href="/?sid=608325&amp;nid=236" id="ulaitem0z5z10">Tennis</a></li>	<li id="ulitem0z5z11"><a href="/?sid=622768&amp;nid=392" id="ulaitem0z5z11">Olympics</a></li>	<li id="ulitem0z5z12"><a href="/?sid=578110&amp;nid=209" id="ulaitem0z5z12">Other Sports</a></li>	</ul></div></div></li><li style="width:64px;" id="ulitem0z6"><a href="/?sid=591460&amp;nid=26" id="ulaitem0z6"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z6" style="position:relative;width:100%;height:0px;text-align:right;top:3px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="1" imexpandicon="2" src="/regions/nav_images/main_arrow.gif" width="7" height="5" border="0"></div><img style="border-style:none;" imexpandicon="1" level="1" src="/regions/nav_images/main_arrow.gif" width="7" height="5" border="0"></div></div></span>Living</a>	<div align="left" style="z-index: 1;"><div style="width:120px;top:;left:;" class="imsubc"><ul style="" id="x1ub0z6">	<li id="ulitem0z6z0"><a href="/?nid=18" id="ulaitem0z6z0">Man About Town</a></li>	<li id="ulitem0z6z1"><a href="/?nid=39" id="ulaitem0z6z1">Funformation</a></li>	<li id="ulitem0z6z2"><a href="/?nid=44" id="ulaitem0z6z2">Barber's Best Bets</a></li>	<li id="ulitem0z6z3"><a href="/?nid=46" id="ulaitem0z6z3">Garden Plot</a></li>	<li id="ulitem0z6z4"><a href="/?nid=422&amp;sid=latest" id="ulaitem0z6z4">The Space Place</a></li>	</ul></div></div></li><li style="width:100px;" id="ulitem0z7"><a href="/?sid=597510&amp;nid=27" id="ulaitem0z7"><span imexpandarrow="1" style="position:relative;display:block;text-align:left;"><div style="position:absolute;width:100%;cursor:pointer; text-align:right;"><div id="eaulitem0z7" style="position:relative;width:100%;height:0px;text-align:right;top:3px;left:0px;"><div style="visibility:hidden;position:absolute;top:0px;left:0px;width:100%;"><img style="border-style:none;" level="1" imexpandicon="2" src="/regions/nav_images/main_arrow.gif" width="7" height="5" border="0"></div><img style="border-style:none;" imexpandicon="1" level="1" src="/regions/nav_images/main_arrow.gif" width="7" height="5" border="0"></div></div></span>Inside WTOP</a>	<div align="left" style="z-index: 1;"><div style="width:120px;top:;left:;" class="imsubc"><ul style="" id="x1ub0z7">	<li id="ulitem0z7z0"><a href="/?nid=56&amp;sid=597520" id="ulaitem0z7z0">Contact Us</a></li>	<li id="ulitem0z7z1"><a href="/?sid=727305&amp;nid=544" id="ulaitem0z7z1">myWTOP Login</a></li>	<li id="ulitem0z7z2"><a href="/?nid=63" id="ulaitem0z7z2">Call For Action</a></li>	<li id="ulitem0z7z3"><a href="/?nid=532" id="ulaitem0z7z3">Program Schedule</a></li>	<li id="ulitem0z7z4"><a href="/?sid=727305&amp;nid=544" id="ulaitem0z7z4">Email News Alerts</a></li>	<li id="ulitem0z7z5"><a href="/?nid=57" id="ulaitem0z7z5">Station Events</a></li>	<li id="ulitem0z7z6"><a href="/?nid=59" id="ulaitem0z7z6">Awards</a></li>	<li id="ulitem0z7z7"><a href="/?nid=61" id="ulaitem0z7z7">News Team</a></li>	<li id="ulitem0z7z8"><a href="/?nid=64" id="ulaitem0z7z8">Charities</a></li>	<li id="ulitem0z7z9"><a href="/?nid=65" id="ulaitem0z7z9">Contests</a></li>	<li id="ulitem0z7z10"><a href="/?nid=67" id="ulaitem0z7z10">WTOP Store</a></li>	<li id="ulitem0z7z11"><a href="/?nid=69" id="ulaitem0z7z11">Signals</a></li>	<li id="ulitem0z7z12"><a href="/?nid=70" id="ulaitem0z7z12">Careers</a></li>	<li id="ulitem0z7z13"><a href="/?nid=274" id="ulaitem0z7z13">History</a></li>	<li id="ulitem0z7z14"><a href="/docs/FCCEEODC0304.pdf" id="ulaitem0z7z14">EEO Public File</a></li>	</ul></div></div></li><li style="width:80px;" id="ulitem0z8"><a href="/?nid=573" id="ulaitem0z8">Classifieds</a></li></ul><div style="clear:left;"></div></div></div></div><style id="ssimenus0" type="text/css">#ulitem0z0{float:left;}#ulitem0z1{float:left;}#ulitem0z2{float:left;}#ulitem0z3{float:left;}#ulitem0z4{float:left;}#ulitem0z5{float:left;}#ulitem0z6{float:left;}#ulitem0z7{float:left;}#ulitem0z8{float:left;}#imcontainer10{text-align:left;z-index:899;position:relative;display:block}#imcontainer20{position:absolute;}#imenus0,#imenus0 ul{margin:0;list-style:none;}#imouter0{text-align:left;background-image:url(/regions/nav_images/nav_bg.gif); padding:0px; }BODY #imouter0{}#imenus0{padding:0px;}#imenus0 ul{padding:0px;background-color:#efefef; border-style:solid; border-color:#111111; border-width:1px; padding:5px; margin:0px; position:static;}BODY #imenus0 ul{}#imenus0 li div{position:absolute;}#imenus0 li .imsubc{position:absolute;visibility:hidden;}#imenus0 li.ishow li  .imsubc,#imenus0 li.ishow li li  .imsubc,#imenus0 li.ishow li li li  .imsubc,#imenus0 li.ishow li li li li  .imsubc,#imenus0 li.ishow li li li li li  .imsubc,#imenus0 li.ishow li li li li li li  .imsubc,#imenus0 li.ishow li li li li li li li  .imsubc,#imenus0 li.ishow li li li li li li li li  .imsubc,#imenus0 li.ishow li li li li li li li li li  .imsubc{visibility:hidden;}#imenus0 li.ishow .imsubc,#imenus0 li li.ishow .imsubc,#imenus0 li li li.ishow .imsubc,#imenus0 li li li li.ishow .imsubc,#imenus0 li li li li li.ishow .imsubc,#imenus0 li li li li li li.ishow .imsubc,#imenus0 li li li li li li li.ishow .imsubc,#imenus0 li li li li li li li li.ishow .imsubc,#imenus0 li li li li li li li li li.ishow .imsubc{visibility:visible;}#imenus0,#imenus0 li{font-size:1px;}#imenus0,#imenus0 ul{text-decoration:none;}#imenus0 ul li a.ihover{color:#990000; }#imenus0 li a.ihover{color:#0080c0; text-decoration:underline; }#imenus0 li a.iactive{text-decoration:underline; }#imenus0 ul li a.iactive{text-decoration:underline; }#imenus0 li a.iactive div img{visibility:visible;}#imenus0 a{display:block;position:relative;font-size:12px;color:#102650; text-align:center; font-family:Arial; font-size:11px; font-weight:bold; text-decoration:none; border-style:none; border-color:#000000; border-width:0px; padding:2px 5px; }#imenus0 a img{border-width:0px;}BODY #imenus0 a{}#imenus0 ul a{display:block; font-size:12px;color:#000000; text-align:left; font-size:11px; font-weight:normal; text-decoration:none; border-style:none; border-color:#000000; border-width:1px; padding:2px 5px; }BODY #imenus0 ul a{}#imenus0 li{cursor:pointer;margin:0px;}#imenus0 .ulmba{position:absolute;font-size:1px;border-style:solid;border-color:#000000;border-width:1px;undefined}</style></div>
 <!--=============== [START WHITE CONTENT ]==========-->
 <div id="mainBlock">
  			<div id="trailmarker">
-														<a href="index.php?nid=1">Home Page</a>									 &gt; 					<a href="index.php?nid=27">Inside WTOP</a>									 &gt; 					<a href="index.php?nid=163">WTOP Policies</a>									 &gt; 					Policy Documents								</div>
+														<a href="?nid=1">Home Page</a>									 &gt; 					<a href="?nid=27">Inside WTOP</a>									 &gt; 					<a href="?nid=163">WTOP Policies</a>									 &gt; 					Policy Documents								</div>
 			
 		
 		<!--====BODY STORY======-->
@@ -252,37 +122,90 @@ function validatePoll(TheForm)
 		
 		<!-- =======[ STORY HEAD : INTRO ]======== -->
 		<div id="storyHeader" style="margin-bottom:3px;">
-				<div style="float:right; margin-right:20px;"><span class="subtext"><b>March 13th, 2006</b></span></div>
+				<div style="float:right; margin-right:20px;"><span class="subtext"><b>November 9th, 2006</b></span></div>
 	<a name="mainContent" id="mainContent"></a>	<h1 class="pinstripes">Privacy Statement</h1>		<span class="date">Sep 6th - 12:01am</span>			    	  </div><!--storyHeader-->
-		
-		<!-- =========[ RIGHT BOX]============ -->
+				<!-- =========[ RIGHT BOX]============ -->
 		<div id="rBox">
 			<div id="rlBox">
 							</div>
 			<div id="rrBox">
-				<div style="clear:both; margin-bottom:8px;">
-			<a href="http://tracker.bonnint.net/?copy_id=253"><img src="http://stocker.bonnint.net/wtop/citrix-300pre.gif?timestamp=1142238037?copy_id=253" style="border: 0" alt="Citrix"></a>			</div>
-									<p></p>
+									<div style="height:250 ;width:300 ;margin-bottom:8px;">
+		<a href="http://tracker.bonnint.net/?copy_id=1029"><img src="http://stocker.bonnint.net/wtop/eprepared_bigblock_listen2.gif?timestamp=1163111957?copy_id=1029" style="border: 0" alt="Click for More Information"></a>	</div>
+			 
+
+<div id="text-ad" style="margin-left:5px">
+	<span class="caption">sponsor links</span><br>
+		
+					
+					
+	<!--========HEADLINE=======-->
+	
+			<a href="http://www.1strowseats.com/NBA_tickets/washington_wizards_tickets/washington_wizards_tickets.asp" class="blue11">			Wizards Tickets			</a>&nbsp;
+		<!-- =========== STORY DESCRIPTION ========= -->
+								
+							
+					
+	<!--========HEADLINE=======-->
+	
+			<a href="http://www.1strowseats.com/NFL_tickets/washington_redskins_tickets/redskins_tickets.asp" class="blue11">			Redskins Tickets			</a>&nbsp;
+		<!-- =========== STORY DESCRIPTION ========= -->
+								
+							
+					
+	<!--========HEADLINE=======-->
+	
+			<a href="http://www.1strowseats.com/artist/def_leppard_tickets/def_leppard_concert_tickets.asp" class="blue11">			Def Leppard Tickets			</a>&nbsp;
+		<!-- =========== STORY DESCRIPTION ========= -->
+								
+							
+					
+	<!--========HEADLINE=======-->
+	
+			<a href="http://www.1strowseats.com/NHL_tickets/washington_capitals_tickets/washington_capitals_tickets.asp" class="blue11">			Capitals Tickets			</a>&nbsp;
+		<!-- =========== STORY DESCRIPTION ========= -->
+								
+							
+					
+	<!--========HEADLINE=======-->
+	
+			<a href="http://www.1strowseats.com/artist/keith_urban_tickets/keith_urban_concert_tickets.asp" class="blue11">			Keith Urban Tickets			</a>&nbsp;
+		<!-- =========== STORY DESCRIPTION ========= -->
+								
+							
+					
+	<!--========HEADLINE=======-->
+	
+			<a href="http://www.seatingcharts.com/" class="blue11">			Seating Charts			</a>&nbsp;
+		<!-- =========== STORY DESCRIPTION ========= -->
+								
+								
+				<div style="text-align:right; margin-right:5px"></div>
+				
+		<!-- =================== PAGINATION ==================== -->
+		<!-- =================== PAGINATION ==================== -->		
+				
+		</div>
+				
+		
+											<p></p>
 				<!--xx-->
 			</div>
 		</div><!--rBox-->
-				<!--==========[END RIGHT BOX]=======-->
-				<div style="width:630px; ">
-		<div id="Pfloater"> </div>
-		<div style="float:right;"></div>
-									<p>
+		
+		<!--==========[END RIGHT BOX]=======-->
+				<div style="width:630px;">
+		<div id="Pfloater"></div><!--set margin:0 to eliminate indent-->
+		<div style="float:right; width:205px"></div>
+							 							<p>
 
-																</p><p></p><div><p align="CENTER">PRIVACY STATEMENT<br>
+																</p><p></p><p align="CENTER">PRIVACY STATEMENT<br>
   (Last Revised June 4, 2002)</p>
-</div>
-																							<p></p><div>
+																							<p>
   <b>General</b>. This web site (the "Site") is operated by WTOP AM/FM,  ("Operator").  The following Privacy Statement (the "Statement") supplements the <a href="../policies/terms_of_use.cfm">Terms of Use</a> posted elsewhere at the Site.  You should read the Statement and the Terms of Use before you use the Site.  By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced herein.  You should review the Statement from time to time.  Operator may change the Statement at any time by posting revisions to the Site.  Your continued use of the Site constitutes your acceptance of the revised Statement.  If you do not agree to all of the terms and conditions set forth in the Statement, you must exit the Site immediately.
-</div>
-																							<p></p><div>
+																							</p><p>
 	<b>No Use by Children. </b> The Site is not directed to, or intended for use by, children (defined as anyone age twelve or younger).  Children should not use the Site or submit any information to Operator.
-</div>
 																		
-						<div id="Pfloater">
+						</p><div id="Pfloater">
 							<br>
 									<!--=====[STORY PHOTO]=====-->
 	<div id="storyPhoto">
@@ -307,43 +230,40 @@ function validatePoll(TheForm)
 			<a href="#" onclick="print();"><img src="http://www.wtopnews.com/images/mini_print3.gif" border="0" height="15" style="margin:0; padding:0;" alt="Print"></a><br><a href="#" onclick="print();" class="tools">Print</a></div>
 			
 			<div style="float:left; margin-right:23px; margin-bottom:0;">
-			<img src="http://www.wtopnews.com/images/mini_mail3.gif" border="0" height="15" style="margin:0; padding:0;" alt="Email"><br><a href="javascript:openScript('/regions/email_article.php?lastpage=http%253A%252F%252Fwww.wtopnews.com%252Findex.php%253Fsid%253D1737%2526nid%253D164', 380,250)" onmouseover="window.status='Email Article'; return true" class="tools">Email</a></div>
+			<img src="http://www.wtopnews.com/images/mini_mail3.gif" border="0" height="15" style="margin:0; padding:0;" alt="Email"><br><a href="javascript:openScript('/regions/email_article.php?lastpage=http%253A%252F%252Fwww.wtopnews.com%252F%253Fsid%253D1737%2526nid%253D164', 380,250)" onmouseover="window.status='Email Article'; return true" class="tools">Email</a></div>
 
 			<div style="float:left; margin-right:23px; margin-bottom:0;">
 			<img src="/images/layout/aim.gif" border="0" style="margin:0; padding:0;" alt="AIM"><br><a href="aim:goim?message=%3ca+href=%22http://www.wtopnews.com/ns%22%3eCheck+this+out%3c%2fa%3e+from+wtopnews.com" class="tools">AIM</a>
 				</div>
-			
-			
+
+			<div style="float:left; margin-right:0px; margin-bottom:0;">
+			&nbsp;&nbsp;<img src="/images/layout/digg_it.gif" border="0" style="margin:0; padding:0;" alt="Digg it"><br><a href="http://www.digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.wtopnews.com%2F%3Fsid%3D1737%26nid%3D164" class="tools">Digg it</a>
+				</div>
+
 		</div><!--storyTools-->
 									 
 						</div><!--PFloater-->
-																	<p></p><div>
+																	<p>
 	<b>What Information is Collected.</b>  There are two general types of information that can be collected as a result of your use of the Site:  (1) Personally identifiable information (such as your name, address, telephone number and email address); and (2) aggregate information (such as your IP address – a number used to identify your computer when you are on the Internet – or the type of browser you are using).
-</div>
-																							<p></p><div>
+																							</p><p>
 	<b>Personally Identifiable Information.</b>  Certain features available at the Site will require you to submit personally identifiable information about yourself ("Personal Information") as a condition of participation.  Some of the features will be offered by Operator, while others will be offered by third parties.  (For example, you may be required to submit Personal Information in order to enter an online contest conducted by Operator, or you may be required to submit Personal Information in order to receive news updates by email from a third party news source.)  In addition, Operator may ask you to provide Personal Information for purposes unrelated to the use of a feature at the Site.  In all cases, you can always refuse to provide Personal Information, but this may result in decreased functionality of the Site for you and limit your ability to receive information about products or services that may be of particular interest.  In general, the use of Personal Information you choose to submit to a third party in connection with your use of the Site will be controlled by the privacy practices of the third party and not this Statement.
-</div>
-																							<p></p><div>
+																							</p><p>
 	<b>Aggregate Information/Cookies.</b>  Operator and third parties will collect aggregate information through the use of "cookies" or by other electronic means.  In general, a cookie is a small amount of data sent to your browser from a web server and stored on your computer's hard drive.  With most browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored.  You can refer to the instructions for your browser to learn more about these functions.  If you choose to reject cookies, the Site will not operate as efficiently for you.
-</div>
-																							<p></p><div>
+																							</p><p>
 	<b>Ownership and Use of Information.</b>  Any information collected by Operator in connection with your use of the Site – regardless of whether characterized as Personal Information or aggregate – shall belong exclusively to Operator and will be used, maintained, updated, disclosed or sold by Operator at its sole discretion.
-</div>
-																							<p></p><div>
+																							</p><p>
 	<b>Forums. </b> The Site may include forums (such as message boards and chat rooms) that enable users to communicate with each other.  Operator will not moderate or edit the forums and will not be responsible for the content or use of any material posted on any forum at the Site.  Operator retains the right to delete at any time and for any or no reason any material posted at the Site.
-</div>
-																							<p></p><div>
-        <b>Contact Information.</b> Questions concerning the Statement of the Site should be directed to <a href="mailto:webmail@wtopnews.com">webmail@wtopnews.com</a>.<p></p>
-</div>
+																							</p><p>
+        <b>Contact Information.</b> Questions concerning the Statement of the Site should be directed to <a href="mailto:webmail@wtopnews.com">webmail@wtopnews.com</a>.</p>
 																						
 			
 					 		 </div><!--rich-->
        </div><!--bodyStory-->
 					<div id="bottomtext">
-<a href="/index.php">Home</a>&nbsp;|&nbsp;<a href="/index.php?nid=56&amp;sid=597520">Advertise with Us</a>&nbsp;|&nbsp;
-	<a href="/index.php?nid=56&amp;sid=597520">Contact Us</a>&nbsp;|&nbsp;<a href="index.php?sid=1737&amp;nid=164">Privacy Statement</a>&nbsp;|&nbsp;<a href="/docs/FCCEEODC0304.pdf">EEO Public File Report</a><br>AP material <a href="index.php?sid=1740&amp;nid=164">Copyright 2006 Associated Press.</a>  All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.</div><!--bottomtext-->	</div> <!--mainBlock-->
+<a href="/">Home</a>&nbsp;|&nbsp;<a href="/?sid=691125&amp;nid=533">Site Map</a>&nbsp;|&nbsp;<a href="/?nid=56&amp;sid=597520">Advertise with Us</a>&nbsp;|&nbsp;
+	<a href="/?nid=56&amp;sid=597520">Contact Us</a>&nbsp;|&nbsp;<a href="/?sid=1737&amp;nid=164">Privacy Statement</a>&nbsp;|&nbsp;<a href="/docs/FCCEEODC0304.pdf">EEO Public File Report</a><br>AP material <a href="/?sid=1740&amp;nid=164">Copyright 2006 Associated Press.</a>  All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.</div><!--bottomtext-->	</div> <!--mainBlock-->
 	</div><!--main-->
-
+	<iframe name="rmiCmd" id="rmiCmd" src="/images/dot1.gif" height="1" width="1" style="visibility:hidden;"></iframe>
 
 
 
