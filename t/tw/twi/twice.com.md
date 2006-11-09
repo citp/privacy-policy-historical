@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twice.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615091438id_/http%3A//twice.com/info/CA385448.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twice.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109080835id_/http%3A//twice.com/info/CA385448.html) for the most accurate reproduction.*
 
 # Privacy Policy on TWICE: This Week In Consumer Electronics
 
@@ -10,7 +10,7 @@ _Last Revised:May 2006_
 
 This Privacy Policy describes the policies of Reed Business Information ( ** _“RBI”_** or ** _“we”_** ), a division of Reed Elsevier Inc., regarding the collection, use, disclosure and protection of the following types of information:
 
-·Information obtained when you (“ ** _you_** _”_ **** or “ ** _User_** ”) visit the **[ _[www.TWICE.com](http://www.twice.com/)_ ]** web site (the “Site”).
+·Information obtained when you (“ ** _you_** _”_ **** or “ ** _User_** ”) visit the **_[www.TWICE.com](http://www.twice.com/)_** web site (the “Site”).
 
 ·Information obtained through e-mail communications with you related to the Site.
 
