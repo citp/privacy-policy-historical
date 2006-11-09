@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614081011id_/http%3A//wchstv.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109212936id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.wchstv.com
 
@@ -10,7 +10,6 @@
 | [**CONTESTS**](https://web.archive.org/contests/)  
 | [**JOBS @ TV8 & FOX11**](http://jobs.sbgnet.com/sbghire/JobCulture.jsp?marketID=10)  
 | [**CLASSIFIEDS**](http://www.postaroo.com/postaroo/Main?CITY_ID=66&Action=MAIN_PAGE)  
-| [**GUESTBOOK**](https://web.archive.org/register.shtml)  
 | [**SEARCH**](https://web.archive.org/8search.shtml)  
 | [**DIGITAL TV INFORMATION**](https://web.archive.org/aboutdtv.shtml)  
 | [**SATELLITE INFORMATION**](https://web.archive.org/aboutsatellite.shtml)  
@@ -76,11 +75,4 @@ If you have any questions about this privacy statement, the practices of this si
     Charleston, WV 25338
 
     [webmaster@wchstv.com](mailto:webmaster@wchstv.com) |  |  |  |    
-
-
-EYEWITNESS NEWS IS AFFILIATED WITH  
-[](http://cnn.com/LOCAL/regions/southeast/WCHS-TV/)  
-  
-Also Visit:  
-[](http://www.wvah.com/)  
 
