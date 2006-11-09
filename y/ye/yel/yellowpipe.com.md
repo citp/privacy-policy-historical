@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the yellowpipe.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220033033id_/http%3A//www.yellowpipe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpipe.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109144924id_/http%3A//www.yellowpipe.com/privacy.php) for the most accurate reproduction.*
 
-# Yellowpipe Privacy Policy
+# Yellowpipe - Web Hosting with Everything
+
+## [Yellowpipe Shared Hosting](http://www.yellowpipe.com/hosting/)
+
+### Yellowpipe provides complete Web hosting  
+with everything for small and mid-size businesses.
 
 ## Privacy Policy 
-
-### Yellowpipe Privacy Policy 
 
 Your privacy is very important to us. To better protect your privacy while your visiting our site, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used while visiting us.
 
@@ -18,9 +21,13 @@ Your privacy is very important to us. To better protect your privacy while your 
 **Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
 **Cookies  
-**No cookies of any kind are used on this site.
+**The only cookies that we use are for the duration of your login sessions. We do not use cookies to silently collect information from you.
 
 **Stats  
 **The only information we collect without asking you first are regular and basic statistic website informations, like IP address, host name, hostmask, referer, browser, provider, country, Operating System. We delete these informations after few months.
 
-## **Also read our[ _Terms of service_](https://web.archive.org/web/20051220033033id_/http%3A//www.yellowpipe.com/yis/hosting/terms-of-service.php) for the [Web Hosting services](https://web.archive.org/web/20051220033033id_/http%3A//www.yellowpipe.com/yis/hosting/index.php)**
+## **Also read our[ _Terms of service_](http://www.yellowpipe.com/hosting/terms-of-service.php) for the [Web Hosting services](https://web.archive.org/web/20061109144924id_/http%3A//www.yellowpipe.com/yis/hosting/index.php)**
+
+and 
+
+## The [_Yellowpipe Toolbar Terms of Use_](http://toolbar.yellowpipe.com/terms/)
