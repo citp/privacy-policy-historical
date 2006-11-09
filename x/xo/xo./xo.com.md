@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xo.com privacy policy that was archived on 2005-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051224194620id_/http%3A//www.xo.com/apr/bottomnav/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xo.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109095448id_/http%3A//www.xo.com/apr/bottomnav/privacy) for the most accurate reproduction.*
 
 # Legal Statement
 
