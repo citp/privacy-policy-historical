@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040655id_/http%3A//miaminewtimes.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109091021id_/http%3A//www.miaminewtimes.com/about/policy.php) for the most accurate reproduction.*
 
-# miaminewtimes.com
+# 
 
 Parent of _Miami New Times_ and miaminewtimes.com 
 
 Village Voice Media respects your privacy. Our privacy policy for this site follows, but the bottom line is this: Village Voice Media will not sell or share any of your personal information to a third party unless you say it's okay. Village Voice Media will gather personally identifiable information about you only when you provide it voluntarily for specific purposes such as posting an ad or signing up for an e-mail newsletter. 
 
-We do track how our visitors use this site so that we can see what people like and don't like. We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters. We will not, however, release your name, e-mail address or any other personal information to anyone else outside Village Voice Media unless we have your consent, we are under a legal order to do so, or there is an emergency involving danger to a person or property. **This means that we will not provide our advertisers or anyone else outside Village Voice Media with any information specific to you unless we have your consent.** The only Village Voice Media employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution. 
+_Policy effective as of September 25, 2006_
+
+We do track how our visitors use this site so that we can see what people like and don't like. We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters, which may include contests, surveys and newsletters for certain third parties. We will not, however, release your name, e-mail address or any other personal information to anyone else outside Village Voice Media unless we have your consent, we are under a legal order to do so, or there is an emergency involving danger to a person or property. This means that we will not provide our advertisers or anyone else outside Village Voice Media with any information specific to you unless we have your consent. If you chose to provide your personally identifiable information for the purposes of a third-party contest, survey, or newsletter, you consent shall be deemed to be given for the release of your personally identifiable information with regard to that third party only, in addition to Village Voice Media. The only Village Voice Media employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution. 
 
 We occasionally have third party agents, subsidiaries, affiliates, and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. They have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using or altering this data in anyway other than to provide the requested services to the Site. 
 
@@ -30,7 +32,7 @@ This site provides links and pointers to Web sites maintained by other organizat
 
 All commerce transactions that take place on this site are processed through our secure server in order to make every reasonable effort to insure that your personal information is protected. Any transactions that take place on other sites that have link from our site are not necessarily handled in this fashion. Village Voice Media disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. (This section posted and effective as of October 25, 2001) 
 
-The privacy policy is effective as of May 7, 2006. We may need to change it from time to time as technology and the nature of the Web keep evolving. We will endeavor to post any changes to this policy as soon as they go into effect. By visiting the Site, you are accepting the practices describe in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time without notice at any time. Your continued use of the Site following the posting of changes to these terms will mean that you accept those changes. 
+The privacy policy is effective as of September 25, 2006. We may need to change it from time to time as technology and the nature of the Web keep evolving. We will endeavor to post any changes to this policy as soon as they go into effect. By visiting the Site, you are accepting the practices describe in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time without notice at any time. Your continued use of the Site following the posting of changes to these terms will mean that you accept those changes. 
 
 Our Site is published in the United States. U.S. law shall govern in any and all disputes, including privacy or defamation issues or otherwise. 
 
@@ -39,3 +41,24 @@ In the event of a sale of Miami New Times or a sale of substantially all Miami N
 If you have any questions about this privacy policy, e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [web@miaminewtimes.com](mailto:web@miaminewtimes.com). 
 
 | 
+
+[ ](https://web.archive.org/community/registration/login.php)
+
+[ ](http://miami.backpage.com/)  
+
+
+[**community (824)**](http://miami.backpage.com/community/classifieds/Results?adLanguage=All&section=4382)  
+[**automotive (1,770)**](http://miami.backpage.com/automotive/classifieds/Results?adLanguage=All&section=191221)  
+[**buy, sell, trade (5,094)**](http://miami.backpage.com/buyselltrade/classifieds/Results?adLanguage=All&section=4378)  
+[**musician (1,084)**](http://miami.backpage.com/musician/classifieds/Results?adLanguage=All&section=4380)  
+[**rentals (7,435)**](http://miami.backpage.com/rentals/classifieds/Results?adLanguage=All&section=4376)  
+[**real estate for sale (6,541)**](http://miami.backpage.com/realestate/classifieds/Results?adLanguage=All&section=4375)  
+[**jobs (7,219)**](http://miami.backpage.com/employment/classifieds/Results?adLanguage=All&section=4373)  
+[**personals (656)**](http://miami.backpage.com/personals/classifieds/Disclaimer?adLanguage=All&section=4383)  
+[**adult entertainment (1,606)**](http://miami.backpage.com/adult/classifieds/Disclaimer?adLanguage=All&section=4381)  
+[**services (3,951)**](http://miami.backpage.com/services/classifieds/Results?adLanguage=All&section=4374)  
+
+
+[](https://web.archive.org/php/savvysingles/)
+
+[](https://web.archive.org/autobuzz/)
