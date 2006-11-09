@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directsattv.com privacy policy that was archived on 2006-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060103162722id_/http%3A//directsattv.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directsattv.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109094837id_/http%3A//www.directsattv.com/privacy.asp) for the most accurate reproduction.*
 
-# : : DIRECTV - Official Site of Direct Sat TV : : 1-800-400-0296 : : DIRECTV (Direct TV) Direct Satellite, DTV, DIRECTV TiVo DVR, Satellite TV
+# DIRECTV® Satellite Systems from Direct Sat TV.
 
   
 **Privacy Policy**
