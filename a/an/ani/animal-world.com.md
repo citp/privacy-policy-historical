@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the animal-world.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204913id_/http%3A//animal-world.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animal-world.com privacy policy that was archived on 2006-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061109061652id_/http%3A//animal-world.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Untitled Document
-
-  
-
 
 ## About Us
 
@@ -165,8 +162,3 @@ Microsoft Internet Explorer 6 will evaluate this policy's compact policy wheneve
 **Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
 
 **Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
-
-  
-
-
-##### Revised: June 6, 2006
