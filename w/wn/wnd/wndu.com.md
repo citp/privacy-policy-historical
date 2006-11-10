@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the wndu.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314101400id_/http%3A//wndu.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wndu.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110093452id_/http%3A//www.wndu.com/about/privacy.php) for the most accurate reproduction.*
 
 # WNDU-TV: About WNDU - Privacy Guidelines
-
-**Autos, Houses, Rentals and Merchandise.**  
-Find or sell them in our [Classifieds](https://web.archive.org/classifieds/)
 
 [Home](https://web.archive.org/) > [About WNDU](https://web.archive.org/about/) > Privacy
 
@@ -45,4 +42,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 If you have any questions or concerns about the WNDU-TV's online policy for this site or its implementation you may contact us at [programming@wndu.com](mailto:programming@wndu.com). 
 
-[](http://www.wndu.com/ads/click.php3?bannerID=145)
+[](http://www.wndu.com/ads/click.php3?bannerID=149)
+
+  
+
