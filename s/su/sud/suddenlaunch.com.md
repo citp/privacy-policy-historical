@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suddenlaunch.com privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430032016id_/http%3A//www.suddenlaunch.com/Policies-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suddenlaunch.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110212056id_/http%3A//www.suddenlaunch.com/Policies-Privacy.html) for the most accurate reproduction.*
 
-# Sudden Launch - Privacy Policy
+# Sudden Launch - Because You Like Free Message Boards.
 
 We have created this privacy policy to show you our commitment to protecting your privacy. If you ever have any questions regarding the content of this privacy policy, you can email us at webmaster@suddenlaunch.com at any time.
 
