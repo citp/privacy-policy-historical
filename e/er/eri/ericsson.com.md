@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ericsson.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205349id_/http%3A//www.ericsson.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericsson.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110045402id_/http%3A//www.ericsson.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy
 
