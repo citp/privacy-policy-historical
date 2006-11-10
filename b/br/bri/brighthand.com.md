@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brighthand.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023004id_/http%3A//www.brighthand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthand.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110065852id_/http%3A//www.brighthand.com/privacy) for the most accurate reproduction.*
 
-# PDA and SmartPhone Reviews and News
+# Brighthand.com privacy statement
 
 **_Registration_**  
 In order to use some features of this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as age and gender), but is encouraged so we can provide a more personalized experience on our site. This information is displayed in the user's public profile and can be viewed by all visitors of this Web site. Please keep in mind that whenever you voluntarily disclose personal information online this information is available to the public, however **we do not display e-mail address' of our users**. This is to ensure total privacy of our users. 
