@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardhost.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314121509id_/http%3A//www.boardhost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardhost.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110062341id_/http%3A//www.boardhost.com/privacy) for the most accurate reproduction.*
 
 # Boardhost: Privacy Policy
 
