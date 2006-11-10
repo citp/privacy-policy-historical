@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmj.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212620id_/http%3A//bmj.bmjjournals.com/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmj.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110101941id_/http%3A//www.bmj.com/misc/privacy.shtml) for the most accurate reproduction.*
 
 # bmj.com -- Privacy Policy
 
@@ -100,5 +100,5 @@ Date of document: 2 November  2005
 
 [Home](https://web.archive.org/) | [Help](https://web.archive.org/help/) | [Search](https://web.archive.org/search.dtl) | [Archive](https://web.archive.org/contents-by-date.0.shtml) | [Feedback](https://web.archive.org/cgi/feedback) |   
 ---|---|---|---|---|---  
-[](https://web.archive.org/) [](http://171.66.124.80/RealMedia/ads/click_lx.ads/www.bmj.com/misc/privacy.shtml/188885701/Bottom/bmj/House-Careersemailalerts-050726/Ad_Alert.gif/64316564656565323434393164303730?tw_country_code=US)   
+[](https://web.archive.org/) [](http://171.66.124.80/RealMedia/ads/click_lx.ads/www.bmj.com/misc/privacy.shtml/287506920/Bottom/bmj/House-jobscore-050725/Jobscore.gif/34383134363332393435353435323330?tw_country_code=US)   
 **[© 2006 BMJ Publishing Group Ltd](https://web.archive.org/misc/terms.shtml)**
