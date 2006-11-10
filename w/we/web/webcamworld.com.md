@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcamworld.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619222618id_/http%3A//webcamworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamworld.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110054935id_/http%3A//webcamworld.com/privacy.html) for the most accurate reproduction.*
 
 # webcamworld.com : Privacy Statement
 
