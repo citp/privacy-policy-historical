@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the tipsntutorials.com privacy policy that was archived on 2006-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060510063021id_/http%3A//tipsntutorials.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsntutorials.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110214152id_/http%3A//tipsntutorials.com/privacy.php) for the most accurate reproduction.*
 
 # Tips 'n' Tutorials Privacy Policy
 
 Tips 'n' Tutorials does not collect information from its visitors without their knowledge. We may request demographic and poll information but participation is completely optional. Whatever the case, the personal information you supply, if you choose to do so, will not be given out or sold to any third party under any circumstances.
 
-Occasionally we will ask you for personal information, such as your name, email address, address, etc. subscribe to one of our [mailing lists](https://web.archive.org/subscribe.php). This information is never shared or sold to any other company.
+Occasionally we will ask you for personal information, such as your name or email address (for example, to subscribe to one of our [mailing lists](https://web.archive.org/subscribe.php)). This information is never shared or sold to any other company (believe me, we hate spam as much as the next guy).
 
-This site contains [links to other sites](https://web.archive.org/resources/). Tips 'n' Tutorials is not responsible for the privacy practices or the content of such Web sites. If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact us via the [Contact Page](https://web.archive.org/web/20060510063021id_/http://www.tipsntutorials.com/privacy.php/contactus.php). 
+This site contains [links to other sites](https://web.archive.org/resources/). Tips 'n' Tutorials is not responsible for the privacy practices or the content of such Web sites. If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, feel free to [contact us](https://web.archive.org/web/20061110214152id_/http://www.tipsntutorials.com/privacy.php/contactus.php). 
