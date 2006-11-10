@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suncor.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617151427id_/http%3A//www.suncor.com/default.aspx%3FID%3D517) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncor.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110054708id_/http%3A//www.suncor.com/default.aspx%3FID%3D517) for the most accurate reproduction.*
 
 # Suncor.com :: Legal Notice
 
