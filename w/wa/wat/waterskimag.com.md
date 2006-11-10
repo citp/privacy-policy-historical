@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterskimag.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316123018id_/http%3A//www.waterskimag.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterskimag.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110032526id_/http%3A//www.waterskimag.com/article.jsp%3FID%3D8222) for the most accurate reproduction.*
 
 # Waterski Online - Privacy Policy
 
