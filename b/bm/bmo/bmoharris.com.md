@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmoharris.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204604id_/http%3A//bmoharris.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmoharris.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110022627id_/http%3A//bmoharris.com/privacy.asp) for the most accurate reproduction.*
 
 # BMO Harris Private Banking - Privacy Statement
 
