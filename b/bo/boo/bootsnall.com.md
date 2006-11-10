@@ -1,0 +1,25 @@
+> *The following text is extracted and transformed from the bootsnall.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110082754id_/http%3A//www.bootsnall.com/privacy.shtml) for the most accurate reproduction.*
+
+# Privacy Policy - BootsnAll.com
+
+**
+
+Privacy Statement
+
+**
+
+This is a web site of BootsnAll.com. We can be reached via e-mail at [info@BootsnAll.com](http://help.bootsnall.com/support/inquire.php). 
+
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
+
+We collect aggregate information on what pages consumers access or visit. 
+
+The information we collect is used for internal review and is then discarded and used to improve the content of our web site. 
+
+We do not share, rent or sell our membership or subscriber lists to any other organization for any reason.
+
+ **Third Party Advertising**  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+
+ **Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
