@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spscommerce.com privacy policy that was archived on 2006-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060328053819id_/http%3A//spscommerce.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spscommerce.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110102847id_/http%3A//www.spscommerce.com/privacy.shtml) for the most accurate reproduction.*
 
-# SPS Commerce | CHANGE ME!!
+# SPS Commerce | Privacy Statement
 
 SPS Commerce understands that when you visit our Web site and provide us with personal information, you trust that that we will act responsibly and keep your information secure and confidential. Below, you'll find our Privacy Policy. It's subject to change over time, so please check back periodically for updates.
 
