@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedypin.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615231933id_/http%3A//speedypin.com/prepaid/phone-cards/privacy/general) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedypin.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110022637id_/http%3A//speedypin.com/prepaid/phone-cards/privacy/general) for the most accurate reproduction.*
 
 # SpeedyPin FAQs: Privacy > General
 
@@ -25,5 +25,3 @@ Yes! Data processed from SpeedyPin is encrypted by THAWTE's 128 bit Secure Socke
 
   
 
-
-[](http://www.phplivesupport.com/)
