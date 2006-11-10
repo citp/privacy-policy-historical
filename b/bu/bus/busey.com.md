@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busey.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204500id_/http%3A//www.busey.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busey.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110021850id_/http%3A//www.busey.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Busey Bank - Corporate Office - Urbana, Illinois
 
@@ -45,7 +45,8 @@ Busey Bank, N.A.
      Tarpon Coast National Bank, A Division of Busey Bank, N.A.   
 First Busey Trust and Investment Co.   
 First Busey Securities, Inc.   
-Busey Insurance Services   
+Busey Insurance Services  
+Busey Ag Resources   
 An affiliate of Physician Advisory Resources, LLC
 
 First Busey Corporation is a financial holding company headquartered in Urbana, Illinois, providing a full range of financial services. The Fair Credit Reporting Act permits us to share within the Busey organization information concerning a customer’s account history and experience with Busey. Unless you tell us not to, we may also share other information with our affiliates. You have the right to direct that we not share this additional information. To exercise this right you must notify us in writing at Busey Bank, 201 W. Main, Urbana, IL 61801. 
