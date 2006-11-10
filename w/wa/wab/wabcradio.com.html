@@ -1,0 +1,836 @@
+<!--The following is the downloaded HTML source of the wabcradio.com privacy policy that was archived on 2006-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061110075711id_/http%3A//www.wabcradio.com/article.asp%3Fid%3D122649) for the most accurate reproduction.-->
+
+<html><head><script language="JAVASCRIPT" src="/jsfiles/incDynamicMenus.js"></script><script language="JAVASCRIPT" src="/jsfiles/incDynamicMenusLogic.js"></script>
+
+<script language="JAVASCRIPT" type="text/JavaScript">
+/************************************
+ BUILD THE DATA ARRAYS FOR THE MENUS
+************************************/
+// Menu Item Object
+function objMenuItem(sHTML, sURL, sTarget) {
+	if (sTarget == null) sTarget = "";
+
+	this.sHTML = sHTML;
+	this.sURL = sURL;
+	this.sTarget = sTarget;
+}
+// Create the Menu Arrays
+var aryMenu1 = new Array();
+aryMenu1[0] = new objMenuItem('Home Page','/default.asp','');
+aryMenu1[1] = new objMenuItem('On Air Personalities','','');
+aryMenu1[2] = new objMenuItem('Contests/Events','','');
+aryMenu1[3] = new objMenuItem('Community Affairs','','');
+aryMenu1[4] = new objMenuItem('Station Info','','');
+aryMenu1[5] = new objMenuItem('Jobs at ABC Radio','/jobs.asp','');
+aryMenu1[6] = new objMenuItem('Loyal Listener Club','/els','');
+aryMenu1[7] = new objMenuItem('Sports','/sectional.asp?id=5825','');
+aryMenu1[8] = new objMenuItem('WABC Message Board','/goout.asp?u=http://www.hannity.com/forum/forumdisplay.php?f=10','');
+aryMenu1[9] = new objMenuItem('WABC Family of Advertisers','','');
+aryMenu1[10] = new objMenuItem('Erik Hastings Travel Page','/article.asp?id=166878','');
+var aryMenu1_1 = new Array();
+aryMenu1_1[0] = new objMenuItem('Saturday Night Oldies','/Article.asp?id=166880','');
+var aryMenu1_2 = new Array();
+aryMenu1_2[0] = new objMenuItem('Personality Profiles','/staff.asp','');
+aryMenu1_2[1] = new objMenuItem('Program Schedule','/programming.asp','');
+aryMenu1_2[2] = new objMenuItem('Photo Gallery','/photowall.asp','');
+aryMenu1_2[3] = new objMenuItem('E-mail Our Personalities','/contactus.asp','');
+var aryMenu1_3 = new Array();
+aryMenu1_3[0] = new objMenuItem('Contests','/sectional.asp?id=5821','');
+aryMenu1_3[1] = new objMenuItem('Local Events','/sectional.asp?id=5823','');
+var aryMenu1_4 = new Array();
+aryMenu1_4[0] = new objMenuItem('Community Calendar','/community/communitycalendar.asp','');
+aryMenu1_4[1] = new objMenuItem('Public Service Announcements','/article.asp?id=122650','');
+var aryMenu1_5 = new Array();
+aryMenu1_5[0] = new objMenuItem('Contact WABC','/Article.asp?id=122651','');
+aryMenu1_5[1] = new objMenuItem('Call for Action','/sectional.asp?id=5880','');
+var aryMenu1_10 = new Array();
+aryMenu1_10[0] = new objMenuItem('Advertise with WABC','/article.asp?id=122641','');
+aryMenu1_10[1] = new objMenuItem('WABC Advertisers','/coupons.asp','');
+
+</script>
+
+<!--include virtual="gbinc/common/gbincStringBuilder.asp"-->
+
+
+<script src="http://an.tacoda.net/an/11728/slf.js" language="JavaScript"></script><script language="JavaScript">TCDA("cc=ntn; dt");</script>
+<title>News Talk Radio 77 WABC-AM</title>
+<meta name="description" content="News Talk Radio 77 WABC-AM features New York area news events, contests, concerts, clubs and more!">
+<meta name="keywords" content="News Talk Radio 77 wabc-am, news talk radio, news/talk radio, news-talk radio, 77, 770, wabc, wabc-am, wabc, news, 770 am, news radio, talk radio, radio, radio stations, new york radio, new york stations, contests, new york contests, radio contests, the curtis and kuby show, curtis sliwa, john gambling, paul harvey, rush limbaugh, sean hannity, the buzz, malzberg and bey, steve malzberg, tom martino, richard bey, mike savage, batchelor and alexander, george weber, bruce anderson, babita hariani, mayor mike bloomberg, the matt drudge show, bob brinker, religion on the line, mark simone, coast to coast, glenn beck, mark levin, dr. walt larimore, keith olbermann">
+<meta name="MSSmartTagsPreventParsing" content="TRUE">
+
+
+<script language="JAVASCRIPT">
+<!--
+//top nav rollovers
+
+//Personality rollovers
+oneon = new Image();
+oneoff = new Image();
+oneoff.src = "/images/trans.gif";
+oneon.src = "/images/both_faces_1.gif";
+
+twoon = new Image();
+twooff = new Image();
+twooff.src = "/images/trans.gif";
+twoon.src = "/images/both_faces_2.gif";
+
+threeon = new Image();
+threeoff = new Image();
+threeoff.src = "/images/trans.gif";
+threeon.src = "/images/both_faces_3.gif";
+
+fouron = new Image();
+fouroff = new Image();
+fouroff.src = "/images/trans.gif";
+fouron.src = "/images/both_faces_4.gif";
+
+fiveon = new Image();
+fiveoff = new Image();
+fiveoff.src = "/images/trans.gif";
+fiveon.src = "/images/both_faces_5.gif";
+
+sixon = new Image();
+sixoff = new Image();
+sixoff.src = "/images/trans.gif";
+sixon.src = "/images/both_faces_6.gif";
+
+sevenon = new Image();
+sevenoff = new Image();
+sevenoff.src = "/images/trans.gif";
+sevenon.src = "/images/both_faces_7.gif";
+
+eighton = new Image();
+eightoff = new Image();
+eightoff.src = "/images/trans.gif";
+eighton.src = "/images/both_faces_8.gif";
+
+nineon = new Image();
+nineoff = new Image();
+nineoff.src = "/images/trans.gif";
+nineon.src = "/images/both_faces_9.gif";
+
+tenon = new Image();
+tenoff = new Image();
+tenoff.src = "/images/trans.gif";
+tenon.src = "/images/both_faces_10.gif";
+
+
+
+
+function imageOff(IMGName) {
+		  document[IMGName].src = eval(IMGName + "off.src"); 
+}
+function imageOn(IMGName) {
+/*		  if (browser) { document[IMGName].src = eval(IMGName + "on.src"); }*/
+		  document[IMGName].src = eval(IMGName + "on.src"); 
+}
+
+
+//-->
+</script>
+
+<link rel="stylesheet" href="../stylesheets/sectional1.css" type="text/css">
+<link rel="stylesheet" href="../stylesheets/allpages.css" type="text/css">
+<link href="/stylesheets/nav.css" rel="stylesheet" type="text/css" id="NavStyles">
+<script language="javascript">
+<!--
+function wabcmenu(){
+//blank function
+}
+//-->
+</script>
+<script>
+<!--
+function printpage(URL) {
+   newWindow = window.open(URL,"newWin","toolbar=1,location=0,menubar=1,scrollbars=1,resizable=0,width=618,height=400");
+   newWindow.focus();
+}
+// -->
+</script>
+
+<script language="JavaScript">
+function apvDwd(pid,title,pl,t) {
+if(!pl) {pl='';}
+var w = window.open("http://video.ap.org/vws/search/aspx/ap.aspx?f="+pid+"&g="+title+"&p="+pl+"&t="+t,"apvDwd","width=788,height=598,status=1,scrollbars=1,resizable=1");
+}
+</script>
+<script type="text/javascript" src="http://img.video.ap.org/p/j/apovn.js "></script>
+<script language="JAVASCRIPT">
+<!--
+browser = (((navigator.appName == "Netscape") && (parseInt(navigator.appVersion) >= 3 )) || ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 3 )))
+
+
+lefticon_on = new Image();
+lefticon_off = new Image();
+
+lefticon_on.src   = "/images/inside_crown_on.gif";
+lefticon_off.src  = "/images/inside_crown_off.gif";
+
+
+function NewsIconOff(IMGNameHL) {
+		  		  document[IMGNameHL].src = lefticon_off.src; 
+		  		  
+}
+function NewsIconOn(IMGNameHL) {
+		  if (browser) {document[IMGNameHL].src = lefticon_on.src;
+					  }
+}
+ 
+//-->
+</script>
+<script language="JavaScript">
+<!--
+// Sound on Mouseover javascript supplied by http://www.hypergurl.com
+
+var aySound = new Array();
+// PLACE YOUR SOUND FILES BELOW
+aySound[0] = "/mp3/C_K.mp3";
+aySound[1] = "/mp3/W_wolf.mp3";
+aySound[2] = "/mp3/J_G.mp3";
+aySound[3] = "/mp3/R_L.mp3";
+aySound[4] = "/mp3/S_H.mp3";
+aySound[5] = "/mp3/M_L.mp3";
+aySound[6] = "/mp3/Laura.mp3";
+aySound[7] = "/mp3/Batchlor.mp3";
+aySound[8] = "/mp3/Monica.mp3";
+aySound[9] = "/mp3/Mark.mp3";
+// Don't alter anything below this line
+
+IE = (navigator.appVersion.indexOf("MSIE")!=-1 && document.all)? 1:0;
+NS = (navigator.appName=="Netscape" && navigator.plugins["LiveAudio"])? 1:0;
+ver4 = IE||NS? 1:0;
+
+
+function auPreload() {
+if (!ver4) return;
+if (NS) auEmb = new Layer(0,window);
+else {
+Str = "<DIV ID='auEmb' STYLE='position:absolute;'></DIV>";
+document.body.insertAdjacentHTML("BeforeEnd",Str);
+}
+var Str = '';
+for (i=0;i<aySound.length;i++)
+Str += "<EMBED SRC='"+aySound[i]+"' AUTOSTART='FALSE' HIDDEN='TRUE'>"
+if (IE) auEmb.innerHTML = Str;
+else {
+auEmb.document.open();
+auEmb.document.write(Str);
+auEmb.document.close();
+}
+auCon = IE? document.all.soundfiles:auEmb;
+auCon.control = auCtrl;
+}
+function auCtrl(whSound,play) {
+if (IE) this.src = play? aySound[whSound]:'';
+else eval("this.document.embeds[whSound]." + (play? "play()":"stop()"))
+}
+function playSound(whSound) { if (window.auCon) auCon.control(whSound,true); }
+function stopSound(whSound) { if (window.auCon) auCon.control(whSound,false); }
+//-->
+</script> <!-- -->  
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-815910-21";
+urchinTracker();
+</script>
+</head>
+
+
+
+<body onload="funPositionMenus();init();" class="gBody">
+
+<div id="Layer4" style="position:absolute; left:773px; top:3px; width:177; height:179px; z-index:5"> 
+  <table width="160" border="0" cellspacing="0" cellpadding="0">
+
+    <tbody><tr> 
+      <td colspan="2"><script language="JavaScript" src="http://ad.doubleclick.net/adj/ms.xrev.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=160x600;dcopt=ist;ord=9404867?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/ms.xrev.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=160x600;dcopt=ist;ord=9404867?" target="_blank"><img src="http://ad.doubleclick.net/ad/ms.xrev.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=160x600;dcopt=ist;ord=9404867?" width="160" height="600" border="0" alt=""></a></noscript>
+      </td>
+    </tr>
+     <tr> 
+      <td colspan="2" align="center"><a href="/goout.asp?u=http://www.abcradio.com" target="_new"><img src="/images/abc-logo-120x30.gif" border="0" alt="ABC RADIO" width="120" height="30"></a><br>
+      
+      </td>
+    </tr>
+    <tr><td valign="top" colspan="2">
+		<table cellspacing="0" cellpadding="0" border="0" bgcolor="#000000">
+		<tbody><tr><td valign="top">
+			 
+
+		</td></tr>
+		</tbody></table>
+		
+    </td></tr><tr>
+    
+    <td>
+		
+		  <table width="160" border="0" cellspacing="0" cellpadding="0" height="139">
+              <tbody><tr> 
+                <td background="/images/inside_sponsorback.gif" valign="top"><img src="/images/trans.gif" width="40" height="15"><br>
+                  <table width="160" border="0" cellspacing="0" cellpadding="0" height="100">
+                    <tbody><tr> 
+                      <td align="center" class="ceSmallText2" bgcolor="#CCCCCC" background="/images/trans.gif"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="6"><img src="/images/trans.gif" border="0" width="6"></td><td valign="top"><a class="pollText" href="/article.asp?id=122641"><img src="/images/sponsor_1.gif" width="130" height="100" border="0" alt="Click to place your ad here!"></a></td></tr></tbody></table></td>
+                    </tr>
+                  </tbody></table>
+                </td>
+              </tr>
+            </tbody></table>
+            <table cellspacing="0" cellpadding="5" border="0"><tbody><tr><td valign="top" align="center"><script language="JavaScript" src="http://ad.doubleclick.net/adj/ms.xrev.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=130x100;ord=7247425?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/ms.xrev.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=130x100;ord=7247425?" target="_blank"><img src="http://ad.doubleclick.net/ad/ms.xrev.wabc-am/new-york-ny.5145;dma=001;org=radio_station;state=ny;own=abc_disney;1;sz=130x100;ord=7247425?" width="130" height="100" border="0" alt=""></a></noscript></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="5" border="0"><tbody><tr><td valign="top" align="center"><a target="_blank" href="/ad/click.asp?adID=43370&amp;adRunID=54019"><img src="http://images.radcity.net/5145/1676164.jpg" border="0" alt=""></a></td></tr></tbody></table>
+
+    </td>
+    </tr>
+  </tbody></table>
+  
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><table width="760" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td><table width="766" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr align="left" valign="middle"> 
+                <td height="3" colspan="4" align="center"><img src="/images/trans.gif" width="1" height="3"></td>
+              </tr>
+              <tr align="left" valign="middle"> 
+                <td align="center"><img src="/images/trans.gif" width="15" height="90"></td>
+                <td width="728" align="center"><a target="_blank" href="/ad/click.asp?adID=43444&amp;adRunID=54093"><img src="http://images.radcity.net/5145/1679756.jpg" border="0" alt=""></a>
+                </td>
+                <td>&nbsp;</td>
+              </tr>
+              
+              <tr> 
+                <td height="4" colspan="3"><img src="images/trans.gif" width="1" height="4"></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+      </tbody></table>
+    <table width="760" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td rowspan="3" valign="top" width="230" height="215" background="/images/both_logo.gif"><table width="230" border="0" height="215" cellpadding="0" cellspacing="0" background="/images/trans.gif"><tbody><tr>
+	<script language="Javascript">
+	<!--
+	function ValidateKeyForm()
+	{
+		isOK = true;
+		if (isOK && (document.formKeyForm.keyword.value.length < 1)) {
+			alert("Please enter a valid Keyword.");
+			document.formKeyForm.keyword.focus();
+			isOK = false;
+		}
+		return isOK
+	}
+	//-->
+	</script>
+<form method="get" action="/KeywordSearch.asp" name="formKeyForm" onsubmit="return ValidateKeyForm();"></form><input type="hidden" name="search" value="1"><td width="70" height="46" valign="bottom" align="center"><font size="1"><input size="8" name="keyword" class="gInputFields"></font></td><td width="160" height="46" valign="bottom" align="left"><input type="image" src="/images/trans.gif" width="30" height="25" border="0"></td></tr><tr><td width="230" height="167" colspan="2"><a href="/default.asp"><img src="/images/trans.gif" width="230" height="167" border="0" alt="Home"></a></td></tr></tbody></table></td>
+          <td colspan="2" background="/images/trans.gif"><table width="530" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td width="61"><img src="/images/both_abc.gif" width="61" height="60" usemap="#Map2" border="0"></td>
+                <td nowrap="" width="468" background="/images/both_personalities.jpg">
+                <bgsound id="soundfiles">
+                <a href="/showdj.asp?DJID=1726" onmouseover="imageOn('one');" onmouseout="imageOff('one');"><img src="/images/trans.gif" width="82" height="60" onmouseover="playSound(0)" onmouseout="stopSound(0)" border="0" name="one" alt="The Curtis &amp; Kuby Show"></a><a href="/showdj.asp?DJID=23829" onmouseover="imageOn('two');" onmouseout="imageOff('two');"><img src="/images/trans.gif" width="42" height="60" onmouseover="playSound(1)" onmouseout="stopSound(1)" border="0" name="two" alt="Warner Wolf"></a><a href="/showdj.asp?DJID=7641" onmouseover="imageOn('three');" onmouseout="imageOff('three');"><img src="/images/trans.gif" width="38" height="60" onmouseover="playSound(2)" onmouseout="stopSound(2)" border="0" name="three" alt="John Gambling"></a><a href="/showdj.asp?DJID=1724" onmouseover="imageOn('four');" onmouseout="imageOff('four');"><img src="/images/trans.gif" width="43" height="60" onmouseover="playSound(3)" onmouseout="stopSound(3)" border="0" name="four" alt="Rush Limbaugh"></a><a href="/showdj.asp?DJID=1725" onmouseover="imageOn('five');" onmouseout="imageOff('five');"><img src="/images/trans.gif" width="44" height="60" onmouseover="playSound(4)" onmouseout="stopSound(4)" border="0" name="five" alt="Sean Hannity"></a><a href="/showdj.asp?DJID=12009" onmouseover="imageOn('six');" onmouseout="imageOff('six');"><img src="/images/trans.gif" width="41" height="60" onmouseover="playSound(5)" onmouseout="stopSound(5)" border="0" name="six" alt="Mark Levin"></a><a href="/showdj.asp?DJID=18049" onmouseover="imageOn('seven');" onmouseout="imageOff('seven');"><img src="/images/trans.gif" width="50" height="60" onmouseover="playSound(6)" onmouseout="stopSound(6)" border="0" name="seven" alt="Laura Ingraham"></a><a href="/showdj.asp?DJID=33966" onmouseover="imageOn('eight');" onmouseout="imageOff('eight');"><img src="/images/trans.gif" width="44" height="60" onmouseover="playSound(7)" onmouseout="stopSound(7)" border="0" name="eight" alt="Jerry Agar"></a><a href="/showdj.asp?DJID=15060" onmouseover="imageOn('nine');" onmouseout="imageOff('nine');"><img src="/images/trans.gif" width="45" height="60" onmouseover="playSound(8)" onmouseout="stopSound(8)" border="0" name="nine" alt="Monica Crowley"></a><a href="/showdj.asp?DJID=10352" onmouseover="imageOn('ten');" onmouseout="imageOff('ten');"><img src="/images/trans.gif" width="39" height="60" onmouseover="playSound(9)" onmouseout="stopSound(9)" border="0" name="ten" alt="Mark Simone"></a></td>
+				  <!--         <a href="/showdj.asp?DJID=1726" onmouseover="imageOn('one');" onmouseout="imageOff('one');"><img src="/images/trans.gif" width="82" height="60" border="0" name="one" alt="The Curtis & Kuby Show"></a><a href="/showdj.asp?DJID=23829" onmouseover="imageOn('two');" onmouseout="imageOff('two');"><img src="/images/trans.gif" width="42" height="60" border="0" name="two" alt="Warner Wolf"></a><a href="/showdj.asp?DJID=7641" onmouseover="imageOn('three');" onmouseout="imageOff('three');"><img src="/images/trans.gif" width="38" height="60" border="0" name="three" alt="John Gambling"></a><a href="/showdj.asp?DJID=1724" onmouseover="imageOn('four');" onmouseout="imageOff('four');"><img src="/images/trans.gif" width="43" height="60" border="0" name="four" alt="Rush Limbaugh"></a><a href="/showdj.asp?DJID=1725" onmouseover="imageOn('five');" onmouseout="imageOff('five');"><img src="/images/trans.gif" width="44" height="60" border="0" name="five" alt="Sean Hannity"></a><a href="/showdj.asp?DJID=12009" onmouseover="imageOn('six');" onmouseout="imageOff('six');"><img src="/images/trans.gif" width="41" height="60" border="0" name="six" alt="Mark Levin"></a><a href="/showdj.asp?DJID=18049" onmouseover="imageOn('seven');" onmouseout="imageOff('seven');"><img src="/images/trans.gif" width="50" height="60" border="0" name="seven" alt="Laura Ingraham"></a><a href="/showdj.asp?DJID=33966" onmouseover="imageOn('eight');" onmouseout="imageOff('eight');"><img src="/images/trans.gif" width="44" height="60" border="0" name="eight" alt="Jerry Agar"></a><a href="/showdj.asp?DJID=15060" onmouseover="imageOn('nine');" onmouseout="imageOff('nine');"><img src="/images/trans.gif" width="45" height="60" border="0" name="nine" alt="Monica Crowley"></a></td>-->
+                       
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr> 
+          <td width="189" height="112" valign="top">
+<script language="javascript" type="text/javascript">
+/* <![CDATA[ */
+// updated djb 12/19/00, need full url path for link to flash download
+
+var appNm = navigator.appName;
+var appVr = navigator.appVersion;
+var isIE = (appNm.indexOf("Explorer") > 0) ? true : false
+var isNS = (appVr == "Netscape") ? true : false
+var bVer = (isIE) ? (parseFloat( appVr.substring(appVr.indexOf("MSIE ")+5) )) : (parseFloat(appVr));
+var flashenabled = false;
+var windows = ( (appVr.indexOf("Windows NT")!=-1) || (appVr.indexOf("Windows 95")!=-1) || (appVr.indexOf("Windows 98")!=-1) );
+var beenAsked = false;
+
+if ( !( (isIE && windows && (bVer < 5)) || (isNS && (bVer==4.7)) ) ){ testPlugins(6); }
+
+
+function choice(nRequiredVersion){
+	if (beenAsked || (location.pathname.toLowerCase() != '/default.asp' && location.pathname.toLowerCase() != '/')) return false;
+	else {
+		beenAsked = true;
+		return confirm("This site uses the Flash Plug-in (Version " + nRequiredVersion + ").\n\rWould you like to download it now?");
+	}
+}
+
+function testPlugins(nRequiredVersion) {
+	var nPlayerVersion;
+	if (nRequiredVersion == null) nRequiredVersion = 4;
+	if (appNm.indexOf("Webtv")!=-1) flashenabled = true;
+	else if ( (appVr.indexOf("Mac")!=-1) && (bVer < 4) ) flashenabled = false;
+	else if (isIE) {
+		if (appVr.indexOf("3.1")!=-1){
+			flashenabled = false;
+		}
+		else if (windows) {
+			document.writeln('<sc'+'ript language="vbscript">');
+			document.writeln('on error resume next');
+			document.writeln('flashenabled = false');
+			document.writeln('dim i');
+			document.writeln('For i = 8 to nRequiredVersion Step -1');
+			document.writeln('	flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & i))');
+			document.writeln('	if flashenabled then');
+			document.writeln('		exit for');
+			document.writeln('	end if');
+			document.writeln('Next');
+			document.writeln('</sc'+'ript>');
+		}
+		else if (appVr.indexOf("Mac")!=-1) {
+			flashenabled = true;
+		}
+	} else if (navigator.plugins != null) {
+
+	//	navigator.plugins.refresh(false);
+		for(var i=0; i < navigator.plugins.length; i++) {
+			if (navigator.plugins[i].name == "Shockwave Flash") {
+				nPlayerVersion = parseInt(navigator.plugins[i].description.substring(navigator.plugins[i].description.indexOf(".")-1));
+				if (nPlayerVersion >= 7) flashenabled = true;
+				else if (nPlayerVersion >= 6 && nRequiredVersion < 7) flashenabled = true;
+				else if (nPlayerVersion >= 5 && nRequiredVersion < 6) flashenabled = true;
+				else if (nPlayerVersion >= 4 && nRequiredVersion < 5) flashenabled = true;
+				else if (nPlayerVersion >= 3 && nRequiredVersion < 4) flashenabled = true;
+				break;
+			}
+		}
+	}
+
+	if (!flashenabled) {
+		if (choice(nRequiredVersion)) window.top.location.href = "http://" + location.host + "/goout.asp?u=http://macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash";
+	}
+}
+
+/* ]]> */
+</script>
+<script language="JavaScript">
+<!--
+if ( flashenabled ) {
+	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH=189 HEIGHT=112><PARAM NAME=movie VALUE="/flash/both_listenlive_020206_des.swf"><PARAM NAME=menu VALUE=false><PARAM NAME=quality VALUE=high><EMBED src="/flash/both_listenlive_020206_des.swf" WIDTH="189" HEIGHT="112" menu=false quality=high swLiveConnect=FALSE TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>');
+} else if (!(appNm && appNm.indexOf("Netscape")>=0 && appVr.indexOf("2.")>=0)){
+	if (choice()) window.top.location.href = "http://" + location.host + "/goout.asp?u=http://macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash";
+	else document.write('<IMG SRC="/flash/both_listenlive_020206_des.jpg" USEMAP="#listenlive" WIDTH="189" HEIGHT="112" BORDER=0>');
+}
+//-->
+</script><img src="/flash/both_listenlive_020206_des.jpg" usemap="#listenlive" width="189" height="112" border="0"><noembed><IMG src="/flash/both_listenlive_020206_des.jpg" width="189" height="112" BORDER=0 usemap="#listenlive"></noembed><noscript><img src="/flash/both_listenlive_020206_des.jpg" width="189" height="112" BORDER=0 usemap="#listenlive"></noscript><map name="listenlive"><area shape="RECT" coords="21,87,172,107" href="/article.asp?id=122648"></map></td><td width="341">
+										
+<script language="javascript" type="text/javascript">
+/* <![CDATA[ */
+// updated djb 12/19/00, need full url path for link to flash download
+
+var appNm = navigator.appName;
+var appVr = navigator.appVersion;
+var isIE = (appNm.indexOf("Explorer") > 0) ? true : false
+var isNS = (appVr == "Netscape") ? true : false
+var bVer = (isIE) ? (parseFloat( appVr.substring(appVr.indexOf("MSIE ")+5) )) : (parseFloat(appVr));
+var flashenabled = false;
+var windows = ( (appVr.indexOf("Windows NT")!=-1) || (appVr.indexOf("Windows 95")!=-1) || (appVr.indexOf("Windows 98")!=-1) );
+var beenAsked = false;
+
+if ( !( (isIE && windows && (bVer < 5)) || (isNS && (bVer==4.7)) ) ){ testPlugins(6); }
+
+
+function choice(nRequiredVersion){
+	if (beenAsked || (location.pathname.toLowerCase() != '/default.asp' && location.pathname.toLowerCase() != '/')) return false;
+	else {
+		beenAsked = true;
+		return confirm("This site uses the Flash Plug-in (Version " + nRequiredVersion + ").\n\rWould you like to download it now?");
+	}
+}
+
+function testPlugins(nRequiredVersion) {
+	var nPlayerVersion;
+	if (nRequiredVersion == null) nRequiredVersion = 4;
+	if (appNm.indexOf("Webtv")!=-1) flashenabled = true;
+	else if ( (appVr.indexOf("Mac")!=-1) && (bVer < 4) ) flashenabled = false;
+	else if (isIE) {
+		if (appVr.indexOf("3.1")!=-1){
+			flashenabled = false;
+		}
+		else if (windows) {
+			document.writeln('<sc'+'ript language="vbscript">');
+			document.writeln('on error resume next');
+			document.writeln('flashenabled = false');
+			document.writeln('dim i');
+			document.writeln('For i = 8 to nRequiredVersion Step -1');
+			document.writeln('	flashenabled = IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash." & i))');
+			document.writeln('	if flashenabled then');
+			document.writeln('		exit for');
+			document.writeln('	end if');
+			document.writeln('Next');
+			document.writeln('</sc'+'ript>');
+		}
+		else if (appVr.indexOf("Mac")!=-1) {
+			flashenabled = true;
+		}
+	} else if (navigator.plugins != null) {
+
+	//	navigator.plugins.refresh(false);
+		for(var i=0; i < navigator.plugins.length; i++) {
+			if (navigator.plugins[i].name == "Shockwave Flash") {
+				nPlayerVersion = parseInt(navigator.plugins[i].description.substring(navigator.plugins[i].description.indexOf(".")-1));
+				if (nPlayerVersion >= 7) flashenabled = true;
+				else if (nPlayerVersion >= 6 && nRequiredVersion < 7) flashenabled = true;
+				else if (nPlayerVersion >= 5 && nRequiredVersion < 6) flashenabled = true;
+				else if (nPlayerVersion >= 4 && nRequiredVersion < 5) flashenabled = true;
+				else if (nPlayerVersion >= 3 && nRequiredVersion < 4) flashenabled = true;
+				break;
+			}
+		}
+	}
+
+	if (!flashenabled) {
+		if (choice(nRequiredVersion)) window.top.location.href = "http://" + location.host + "/goout.asp?u=http://macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash";
+	}
+}
+
+/* ]]> */
+</script>
+<script language="JavaScript">
+<!--
+if ( flashenabled ) {
+	document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH=340 HEIGHT=112><PARAM NAME=movie VALUE="http://sandbox.wabcradio.com/flash/both_onairnow_072202_des.swf?cacheID=34050&TalentName=34050&TalentTime=34050"><PARAM NAME=menu VALUE=false><PARAM NAME=quality VALUE=high><EMBED src="http://sandbox.wabcradio.com/flash/both_onairnow_072202_des.swf?cacheID=34050&TalentName=34050&TalentTime=34050" WIDTH="340" HEIGHT="112" menu=false quality=high swLiveConnect=FALSE TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>');
+} else if (!(appNm && appNm.indexOf("Netscape")>=0 && appVr.indexOf("2.")>=0)){
+	if (choice()) window.top.location.href = "http://" + location.host + "/goout.asp?u=http://macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash";
+	else document.write('<IMG SRC="/flash/noflash.jpg" USEMAP="#navbar" WIDTH="340" HEIGHT="112" BORDER=0>');
+}
+//-->
+</script><img src="/flash/noflash.jpg" usemap="#navbar" width="340" height="112" border="0"><noembed><IMG src="/flash/noflash.jpg" width="340" height="112" BORDER=0 usemap="#navbar"></noembed><noscript><img src="/flash/noflash.jpg" width="340" height="112" BORDER=0 usemap="#navbar"></noscript><map name="navbar"><area shape="RECT" coords="5,5,105,105" href="/personalityprofile.asp" target="_top"><area shape="RECT" coords="105,35,195,107" href="/showdj.asp?DJID=1726" target="_top"><area shape="RECT" coords="197,35,245,107" href="/showdj.asp?DJID=7641" target="_top"><area shape="RECT" coords="247,35,285,107" href="/showdj.asp?DJID=1724" target="_top"><area shape="RECT" coords="287,35,335,107" href="/showdj.asp?DJID=1725" target="_top"></map></td>
+        </tr>
+        <tr> 
+          <td colspan="2" width="529" height="43" valign="top" background="/images/both_clublogin.gif"><table width="529" height="43" cellpadding="0" cellspacing="0" border="0" background="/images/trans.gif"><tbody><tr>
+          <td width="200"><img src="/images/trans.gif" width="200" height="41" border="0"></td>
+          <form action="/els/elsLoginPrc.asp" method="POST" id="clubform" name="clubform"></form><input type="hidden" value="" name="fldDestination">
+          <td width="75" valign="top"><img src="/images/trans.gif" width="75" height="7"><br><font size="1"><input type="text" size="9" maxlength="20" name="fldUserName" onfocus="javascript:document.clubform.fldUserName.value=''" value="Username" class="gInputFields"></font></td>
+          <td width="5"><img src="/images/trans.gif" width="5" height="41" border="0"></td>
+          <td width="75" valign="top"><img src="/images/trans.gif" width="75" height="7"><br><input type="password" size="9" maxlength="20" name="fldPassword" value="Password" onfocus="javascript:document.clubform.fldPassword.value=''" class="gInputFields"></td>
+          <td width="174" background="/images/trans.gif"><img src="/images/trans.gif" width="5" height="41" border="0"><input type="image" src="/images/trans.gif" width="85" height="41" border="0" id="image1" name="image1"><img src="/images/trans.gif" width="15" height="41" border="0"><a href="/els/elsHelp.asp" target="_blank"><img src="/images/trans.gif" width="25" height="41" border="0"></a></td></tr></tbody></table></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+ <td height="18" width="133" valign="top" bgcolor="#00005B" align="left">
+ <table cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr><td valign="top">
+  <script language="JAVASCRIPT">
+								<!--
+								// Function That Initiates the Menus
+								funCreateNavigation();
+								//-->
+								</script><table id="table1" cellpadding="0" cellspacing="0" class="navMainNavTable"><tbody><tr>
+<td class="MainNavBG">
+<div id="div1_1" class="MainNav" onmouseover="funShowSub('1_1');" onmouseout="funDelayHideSub('1_1');" onclick="document.location='/default.asp';" style="cursor:pointer">Home Page</div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_2" class="MainNav" onmouseover="funShowSub('1_2');" onmouseout="funDelayHideSub('1_2');" style="cursor:default;">On Air Personalities</div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3" class="MainNav" onmouseover="funShowSub('1_3');" onmouseout="funDelayHideSub('1_3');" style="cursor:default;">Contests/Events</div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_4" class="MainNav" onmouseover="funShowSub('1_4');" onmouseout="funDelayHideSub('1_4');" style="cursor:default;">Community Affairs</div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_5" class="MainNav" onmouseover="funShowSub('1_5');" onmouseout="funDelayHideSub('1_5');" style="cursor:default;">Station Info</div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_6" class="MainNav" onmouseover="funShowSub('1_6');" onmouseout="funDelayHideSub('1_6');" onclick="document.location='/jobs.asp';" style="cursor:pointer">Jobs at ABC Radio</div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_7" class="MainNav" onmouseover="funShowSub('1_7');" onmouseout="funDelayHideSub('1_7');" onclick="document.location='/els';" style="cursor:pointer">Loyal Listener Club</div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_8" class="MainNav" onmouseover="funShowSub('1_8');" onmouseout="funDelayHideSub('1_8');" onclick="document.location='/sectional.asp?id=5825';" style="cursor:pointer">Sports</div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_9" class="MainNav" onmouseover="funShowSub('1_9');" onmouseout="funDelayHideSub('1_9');" onclick="document.location='/goout.asp?u=http://www.hannity.com/forum/forumdisplay.php?f=10';" style="cursor:pointer">WABC Message Board</div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_10" class="MainNav" onmouseover="funShowSub('1_10');" onmouseout="funDelayHideSub('1_10');" style="cursor:default;">WABC Family of Advertisers</div>
+<div class="Separator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_11" class="MainNav" onmouseover="funShowSub('1_11');" onmouseout="funDelayHideSub('1_11');" onclick="document.location='/article.asp?id=166878';" style="cursor:pointer">Erik Hastings Travel Page</div>
+</td></tr></tbody></table>
+<style type="text/css"><!--
+#sub1_1 {position:absolute; width:144.9; z-index:5001; visibility:hidden;}
+//--></style>
+<div id="sub1_1" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_1');" style="top: 321px; left: 166px; visibility: hidden;"><layer name="sub1_1" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_1');">
+<table id="table1_1" class="SubMenuTable" cellpadding="0" cellspacing="0" width="144.9"><tbody><tr><td class="SubMenuBG">
+<div id="div1_1_2" class="SubMenu" width="144.9" onmouseover="funShowSub('1_1_2');" onmouseout="funDelayHideSub('1_1_2');" onclick="document.location='/Article.asp?id=166880';" style="cursor:pointer">Saturday Night Oldies</div>
+</td></tr></tbody></table></layer></div>
+<style type="text/css"><!--
+#sub1_2 {position:absolute; width:165.60000000000002; z-index:5001; visibility:hidden;}
+//--></style>
+<div id="sub1_2" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_2');" style="top: 337px; left: 166px; visibility: hidden;"><layer name="sub1_2" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_2');">
+<table id="table1_2" class="SubMenuTable" cellpadding="0" cellspacing="0" width="165.60000000000002"><tbody><tr><td class="SubMenuBG">
+<div id="div1_2_2" class="SubMenu" width="165.60000000000002" onmouseover="funShowSub('1_2_2');" onmouseout="funDelayHideSub('1_2_2');" onclick="document.location='/staff.asp';" style="cursor:pointer">Personality Profiles</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_2_3" class="SubMenu" width="165.60000000000002" onmouseover="funShowSub('1_2_3');" onmouseout="funDelayHideSub('1_2_3');" onclick="document.location='/programming.asp';" style="cursor:pointer">Program Schedule</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_2_4" class="SubMenu" width="165.60000000000002" onmouseover="funShowSub('1_2_4');" onmouseout="funDelayHideSub('1_2_4');" onclick="document.location='/photowall.asp';" style="cursor:pointer">Photo Gallery</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_2_5" class="SubMenu" width="165.60000000000002" onmouseover="funShowSub('1_2_5');" onmouseout="funDelayHideSub('1_2_5');" onclick="document.location='/contactus.asp';" style="cursor:pointer">E-mail Our Personalities</div>
+</td></tr></tbody></table></layer></div>
+<style type="text/css"><!--
+#sub1_3 {position:absolute; width:82.80000000000001; z-index:5001; visibility:hidden;}
+//--></style>
+<div id="sub1_3" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_3');" style="top: 353px; left: 166px; visibility: hidden;"><layer name="sub1_3" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_3');">
+<table id="table1_3" class="SubMenuTable" cellpadding="0" cellspacing="0" width="82.80000000000001"><tbody><tr><td class="SubMenuBG">
+<div id="div1_3_2" class="SubMenu" width="82.80000000000001" onmouseover="funShowSub('1_3_2');" onmouseout="funDelayHideSub('1_3_2');" onclick="document.location='/sectional.asp?id=5821';" style="cursor:pointer">Contests</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_3_3" class="SubMenu" width="82.80000000000001" onmouseover="funShowSub('1_3_3');" onmouseout="funDelayHideSub('1_3_3');" onclick="document.location='/sectional.asp?id=5823';" style="cursor:pointer">Local Events</div>
+</td></tr></tbody></table></layer></div>
+<style type="text/css"><!--
+#sub1_4 {position:absolute; width:193.20000000000002; z-index:5001; visibility:hidden;}
+//--></style>
+<div id="sub1_4" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_4');" style="top: 369px; left: 166px; visibility: hidden;"><layer name="sub1_4" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_4');">
+<table id="table1_4" class="SubMenuTable" cellpadding="0" cellspacing="0" width="193.20000000000002"><tbody><tr><td class="SubMenuBG">
+<div id="div1_4_2" class="SubMenu" width="193.20000000000002" onmouseover="funShowSub('1_4_2');" onmouseout="funDelayHideSub('1_4_2');" onclick="document.location='/community/communitycalendar.asp';" style="cursor:pointer">Community Calendar</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_4_3" class="SubMenu" width="193.20000000000002" onmouseover="funShowSub('1_4_3');" onmouseout="funDelayHideSub('1_4_3');" onclick="document.location='/article.asp?id=122650';" style="cursor:pointer">Public Service Announcements</div>
+</td></tr></tbody></table></layer></div>
+<style type="text/css"><!--
+#sub1_5 {position:absolute; width:103.5; z-index:5001; visibility:hidden;}
+//--></style>
+<div id="sub1_5" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_5');" style="top: 385px; left: 166px; visibility: hidden;"><layer name="sub1_5" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_5');">
+<table id="table1_5" class="SubMenuTable" cellpadding="0" cellspacing="0" width="103.5"><tbody><tr><td class="SubMenuBG">
+<div id="div1_5_2" class="SubMenu" width="103.5" onmouseover="funShowSub('1_5_2');" onmouseout="funDelayHideSub('1_5_2');" onclick="document.location='/Article.asp?id=122651';" style="cursor:pointer">Contact WABC</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_5_3" class="SubMenu" width="103.5" onmouseover="funShowSub('1_5_3');" onmouseout="funDelayHideSub('1_5_3');" onclick="document.location='/sectional.asp?id=5880';" style="cursor:pointer">Call for Action</div>
+</td></tr></tbody></table></layer></div>
+<style type="text/css"><!--
+#sub1_10 {position:absolute; width:131.1; z-index:5001; visibility:hidden;}
+//--></style>
+<div id="sub1_10" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_10');" style="top: 465px; left: 166px; visibility: hidden;"><layer name="sub1_10" onmouseover="gbOverMenu=true;" onmouseout="gbOverMenu=false;funDelayHideSub('1_10');">
+<table id="table1_10" class="SubMenuTable" cellpadding="0" cellspacing="0" width="131.1"><tbody><tr><td class="SubMenuBG">
+<div id="div1_10_2" class="SubMenu" width="131.1" onmouseover="funShowSub('1_10_2');" onmouseout="funDelayHideSub('1_10_2');" onclick="document.location='/article.asp?id=122641';" style="cursor:pointer">Advertise with WABC</div>
+<div class="SubSeparator"><img src="/images/trans.gif" border="0" height="1" width="1"></div>
+<div id="div1_10_3" class="SubMenu" width="131.1" onmouseover="funShowSub('1_10_3');" onmouseout="funDelayHideSub('1_10_3');" onclick="document.location='/coupons.asp';" style="cursor:pointer">WABC Advertisers</div>
+</td></tr></tbody></table></layer></div>
+<noscript><a href="/default.asp">Home Page</a><br>
+<a href="/jobs.asp">Jobs at ABC Radio</a><br>
+<a href="/els">Loyal Listener Club</a><br>
+<a href="/sectional.asp?id=5825">Sports</a><br>
+<a href="/goout.asp?u=http://www.hannity.com/forum/forumdisplay.php?f=10">WABC Message Board</a><br>
+<a href="/article.asp?id=166878">Erik Hastings Travel Page</a><br>
+<a href="/Article.asp?id=166880">Saturday Night Oldies</a><br>
+<a href="/staff.asp">Personality Profiles</a><br>
+<a href="/programming.asp">Program Schedule</a><br>
+<a href="/photowall.asp">Photo Gallery</a><br>
+<a href="/contactus.asp">E-mail Our Personalities</a><br>
+<a href="/sectional.asp?id=5821">Contests</a><br>
+<a href="/sectional.asp?id=5823">Local Events</a><br>
+<a href="/community/communitycalendar.asp">Community Calendar</a><br>
+<a href="/article.asp?id=122650">Public Service Announcements</a><br>
+<a href="/Article.asp?id=122651">Contact WABC</a><br>
+<a href="/sectional.asp?id=5880">Call for Action</a><br>
+<a href="/article.asp?id=122641">Advertise with WABC</a><br>
+<a href="/coupons.asp">WABC Advertisers</a><br>
+</noscript>
+	</td></tr>
+	<tr><td valign="top" align="center">
+		<a name="Survey"><table class="border=&quot;0&quot;" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" align="left"><img src="/images/poll_topcap.gif" border="0"><div align="center"><a target="_blank" href="/ad/click.asp?adID=39820&amp;adRunID=50288"><img src="http://images.radcity.net/5145/1581821.jpg" border="0" alt=""></a></div></td></tr><tr></tr><tr><td align="left" class="pollTable"><span class="pollText"><form method="POST" action="/survey/AcceptResponse.asp" target="_self" id="form2" name="form2">
+<font class="pollTextQuestion">Did you vote yesterday?</font>
+<input type="hidden" name="validate" value="yes">
+<input type="hidden" name="ReturnUrl" value="/default.asp">
+
+<table border="0" cellpadding="0" cellspacing="0">  <input type="HIDDEN" name="ID" value="50990">
+  <tbody><tr>    <td align="LEFT" valign="middle"><input class="gInputFields" type="Radio" name="Response" value="1" onclick="this.form.submit(); return true;"></td><td align="left" valign="middle" style="{padding-top:20px;padding-bottom:0px}"><font size="1"><font class="pollTextAnswers">Yes, I take voting seriously!</font></font></td>  </tr>  <tr>    <td align="LEFT" valign="middle"><input class="gInputFields" type="Radio" name="Response" value="2" onclick="this.form.submit(); return true;"></td><td align="left" valign="middle" style="{padding-top:20px;padding-bottom:0px}"><font size="1"><font class="pollTextAnswers">No- I had no time.</font></font></td><td rowspan="709" valign="MIDDLE">&nbsp;</td>  </tr>  <tr>    <td align="LEFT" valign="middle"><input class="gInputFields" type="Radio" name="Response" value="3" onclick="this.form.submit(); return true;"></td><td align="left" valign="middle" style="{padding-top:20px;padding-bottom:0px}"><font size="1"><font class="pollTextAnswers">No, I really don’t care about politics.</font></font></td>  </tr></tbody></table>
+</form>
+<font class="pollText">Survey based on 709 submissions. 
+<br><br><a class="pollLink" target="_top" href="/survey/default.asp">View Results</a></font></span></td>
+</tr><tr><td colspan="2" class="fText1">
+<font class="pollHeadline"><b></b></font><br>
+<font class="pollText">
+</font></td></tr></tbody></table>
+
+		</a></td>
+	</tr></tbody></table>
+    <table cellpadding="0" cellspacing="0" width="133" height="137" border="1" background="/images/both_nav_weatherback.gif">
+    <tbody><tr><td align="center" background="/images/both_nav_weatherback.gif">
+<table width="148" height="137" border="0" cellpadding="0" cellspacing="0" background="/images/both_nav_weatherback.gif">
+  <tbody><tr>
+    <td valign="top"><table width="100%" border="0" align="left" cellpadding="0" cellspacing="3">
+      <tbody><tr>
+        <td width="36" height="55" align="right" valign="bottom">
+        
+        <a href="/weather.asp"><img src="http://www.radcity.net/weather/images/wc-32x/31.gif" border="1" width="26"></a>
+        </td>
+        <td valign="bottom"><b><a class="cfHeadline2" href="/weather.asp">Clear and Windy<br>
+          59ºF ,15ºC </a></b></td>
+      </tr>
+      
+      <tr>
+        <td align="right" valign="bottom">
+        
+        <form action="http://www.weather.com/search/enhanced" method="get" name="whatwhere" id="whatwhere" target="_blank">
+        <input type="hidden" name="what" value="WeatherLocalUndeclared"><input type="hidden" name="lswe"><input type="hidden" name="lswa">
+		<input name="where" type="text" size="1" maxlength="30">
+        </form></td>
+        <td height="67" valign="bottom" background="/images/trans.gif">&nbsp;<input type="image" src="/images/trans.gif" name="gobutton" width="30" height="20" border="0"></td>
+      </tr>
+    </tbody></table></td>
+</tr>
+</tbody></table>
+</td></tr></tbody></table>
+      <img src="/images/trans.gif" width="144" height="15"><br>
+     
+    </td>
+
+<td height="18" width="606" valign="top" class="ceSmallText2"><img src="/images/both_printemail.gif" width="600" height="11" usemap="#Map6" border="0"><br>
+      <table width="607" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="14">&nbsp;</td>
+          <td width="606" class="dateText" height="8">Friday&nbsp;, November&nbsp; 10 </td>
+        </tr>
+      </tbody></table>
+      <table width="606" border="0" height="625" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td bgcolor="#99CCFF" background="/images/inside_contentback.gif" width="13"><img src="/images/trans.gif" border="0" width="12">
+          </td>
+          <td bgcolor="#C4E1FF" width="587" valign="top"> 
+            <table width="587" border="0" cellspacing="0" cellpadding="0" height="29">
+              <tbody><tr> 
+                <td background="/images/inside_title_blank.gif" class="PageTitles">&nbsp;&nbsp;Privacy Policy</td>
+              </tr>
+            </tbody></table>
+            <table width="587" border="0" cellspacing="0" cellpadding="0" background="/images/inside_contentback2.gif">
+              <tbody><tr> 
+                <td width="587" valign="top" background="/images/inside_contentback2.gif"><table cellpadding="2" cellspacing="0" width="580" height="400" background="/images/trans.gif"><tbody><tr><td valign="top" background="/images/trans.gif"><img src="/images/trans.gif" width="40" height="5"><br><span class="Text">
+<font class="Text"><font face="Tahoma"><p class="MsoNormal" style="MARGIN: 0in 0in 0pt; TEXT-ALIGN: center" align="center"><span class="ftext11"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">WABC PRIVACY POLICY<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></span></b></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span class="ftext11"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"><o:p>&nbsp;</o:p></span></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span class="ftext11"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">Any person accessing this website agrees to the following:</span></span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"><br><br><span class="ftext11"><b style="mso-bidi-font-weight: normal"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">WABCRADIO.COM PRIVACY POLICY</span></b></span><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">Effective Date:<span style="mso-spacerun: yes">&nbsp; </span>March 10, 2006</span></span><br><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">This Privacy Policy is applicable only to information gathered on WABCRADIO.com and any other website(s) on which WABC-AM Radio. (“WABCRadio”) posts this Privacy Policy. WABCRadio is referred to in this Privacy Policy as “we,” “us,” “our,” and “ourselves.”<span style="mso-spacerun: yes">&nbsp; </span>Our policy is to respect and protect the privacy of our website visitors. This policy statement tells you how we collect information from you and how we use it.<span style="mso-spacerun: yes">&nbsp; </span></span></span><br><br><span style="COLOR: black">When this Privacy Policy uses the term “personally identifiable information,” we mean information that identifies a particular individual, such as the individual’s name, postal address, e-mail address, and telephone number.<span style="mso-spacerun: yes">&nbsp; </span>When other information, such as, for example, consumer product preferences or number of children, is directly associated with personally identifiable information, this other information also becomes personally identifiable information for purposes of this Privacy Policy.<span style="mso-spacerun: yes">&nbsp; </span>Personally identifiable information is sometimes referred to in this Privacy Policy as “personal information.” <span style="mso-spacerun: yes">&nbsp;</span>The terms of this Privacy Policy are subject to all applicable laws.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span></span><br><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">We collect personally identifiable information during contests or sweepstakes, during registration for our website(s) that require subscription and in connection with interactive areas requiring registration. In addition, information is collected in certain portions of our website(s) in which visitors provide content submissions and suggestions or participate in interactive online activities (e.g., community postings, voting, chat, games, online shopping, surveys, applications for show tickets and bulletin boards). We may use such information to fulfill prizes and purchases, send you marketing and promotional information and offers, track compliance with our rules and terms and conditions, or for editorial and feedback purposes. In the event we plan to post any such information on our website(s), visitors are provided prior notification of such posting. <o:p></o:p></span></span></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span class="ftext11"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"><o:p>&nbsp;</o:p></span></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span class="ftext11"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">Collection of Information from Children</span></b></span><span class="ftext11"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"><o:p></o:p></span></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma">We do not knowingly collect personally identifiable information from website visitors who are under the age of 13.<o:p></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span class="ftext11"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"><o:p>&nbsp;</o:p></span></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span class="ftext11"><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">Information Gathered Online<o:p></o:p></span></b></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span class="ftext11"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">The information you provide to us is shared among our website(s), and our affiliated companies, as it is our goal to make your visits to our website(s) easy and enjoyable. However, be assured that we generally will not disclose your personal information to third parties without your consent. Without a visitor’s consent, however, </span></span><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma">we may disclose a visitor’s personal information to third parties that facilitate communications and transactions with you on our behalf.<span style="mso-spacerun: yes">&nbsp; </span>These third parties may include for example, companies that help either gather your information or communicate with you or help deliver products or services, like a shipping company that delivers a package or a company that helps fulfill prizes for a sweepstakes.<span style="mso-spacerun: yes">&nbsp; </span>In addition, <span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">we may disclose visitor personal information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other WABCRadio visitors, or anyone else that could be harmed by such activities. We may disclose visitor information when we believe in good faith that </span></span>such disclosures (a) are necessary to comply with law, including, for example to respond to a court order or subpoena, or (b) will help to:<span style="mso-spacerun: yes">&nbsp; </span>enforce our Terms of Use; enforce contests, sweepstakes, promotions, and/or game rules; protect a visitor’s safety or security, including the safety and security of property that belongs to a visitor; and/or protect our safety and security and the safety and security of our website(s), our affiliated companies, and/or third parties, including the safety and security of property that belongs to us, our affiliated companies or third parties.</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"><br><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">We share aggregate information about our visitors with advertisers, business partners, sponsors and other third parties.</span></span><br><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">There are cases where we may ask you for personal information such as your name, email address, and birth date. For example, we request personal information for online shopping or transactions, or for services that require registration or subscription. In addition, i</span></span><span style="COLOR: black">f you purchase products or services from us, we will retain for future use, for example, credit card information, the type of services or products ordered or purchased, and the date of the order or purchase.<span style="mso-spacerun: yes">&nbsp; </span><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">We need to collect this information for fulfilling prizes, tracking/verifying compliance with our policies as well as federal, state and local laws and/or for editorial and feedback solicitation purposes.<o:p></o:p></span></span></span></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span class="ftext11"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"><o:p>&nbsp;</o:p></span></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><span class="ftext11"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">Information provided by a visitor at the time of registration or submission may be used for marketing and promotional purposes by us and our affiliated companies or third party companies that have been prescreened by us. </span></span><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma">Personal information may be used by these affiliated companies and third parties to offer you promotions, products and services.<span style="mso-spacerun: yes">&nbsp; </span>Except as otherwise provided elsewhere in this Privacy Policy, <span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">if a visitor objects to such use for any reason, he/she may stop that use by e-mail request or by modifying his/her registration information online.<span style="mso-spacerun: yes">&nbsp; </span>If an opt-out choice is not provided for such use by us or sharing with affiliated companies or third parties (subject to the exceptions described above), personal information collected from a visitor will not be used for such purpose.<span style="mso-spacerun: yes">&nbsp; </span></span></span></span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"><br style="mso-special-character: line-break"><br style="mso-special-character: line-break"><o:p></o:p></span></p><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><b style="mso-bidi-font-weight: normal"><i style="mso-bidi-font-style: normal"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">Accessing and Updating Your Personal Information and Opt-Out Choices</span></i></b><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"><br>You can access and update your personally identifiable information or opt-out of certain uses by us of your personal information and/or certain sharing of your personal information with affiliated entities companies and/or third parties <span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">at the member information page <b style="mso-bidi-font-weight: normal">[ANY MORE DETAIL AVAILABLE FOR PATH TO UPDATE INFO</b></span></span></span><b style="mso-bidi-font-weight: normal"><span style="FONT-SIZE: 9pt; COLOR: black; FONT-FAMILY: Tahoma">; THIS ASSUMES SUCH A PROCESS EXISTS; IF NONE EXISTS, THEN DELETE/REVISE PRIOR SENTENCE.]</span></b><span class="ftext11"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"> on our website(s) or by contacting our Customer Support organization at <a href="mailto:webmaster@abcradio.com">webmaster@abcradio.com</a>. When communicating with us by e-mail, </span></span><span style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma">please include information in the e-mail that will help us identify you so we can assist you with your request.</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma"><br><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">Information provided when purchasing products from any of our online stores may be used for marketing and promotional purposes and is subject to the opt-out processes described on, or linked to, each order form.<b style="mso-bidi-font-weight: normal"> </b></span></span><br><br><b style="mso-bidi-font-weight: normal"><i style="mso-bidi-font-style: normal">Our <span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">Use of IP Address</span></span></i></b><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">We collect IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our website(s). When visitors request pages from our website(s), our servers log the visitors' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a visitor's session will be logged, but the visitor remains anonymous to us. We can and will use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our house rules or terms of service or to protect our service, website(s), customers or others.</span></span><br><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">Some of our services, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those that disclose information you are comfortable with sharing.</span></span><br><br><b style="mso-bidi-font-weight: normal"><i style="mso-bidi-font-style: normal">Our<span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt"> Use of Cookies</span></span></i></b><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">Cookies are pieces of information that a website transfers to a visitor's hard drive for record-keeping purposes. Cookies make web-surfing easier for you by saving your preferences while you're at our website(s). We never save passwords or credit card information in cookies. The use of cookies is an industry standard -- you'll find them at most major websites.</span></span><br><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">By showing how and when visitors use various areas of a website, cookies help us see which areas are popular and which are not. Many improvements and updates to our website(s) are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our visitors needs.</span></span><br><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">We have two primary uses for cookies. First, we use them to specify unique preferences. Secondly, we use cookies to track visitor trends and patterns. This helps us better understand and improve areas of the service that our visitors find valuable. While both of these activities depend on the use of a "cookie," our visitors always have the option of disabling cookies via their browser preferences. Information from cookies is sometimes attached to messages sent to our Customer Service department.</span></span><br><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, note that some parts of our service may not function properly or may be considerably slower if you refuse cookies. For example, without cookies, you may have difficulty completing shopping transactions, entering contests, or playing games.</span></span><br><br>A<span style="COLOR: black">dvertisements may be managed and placed on our website(s) by third parties.<span style="mso-spacerun: yes">&nbsp; </span>These companies are called “network advertisers.”<span style="mso-spacerun: yes">&nbsp; </span>Network advertisers who place advertisements on our website(s) may also use cookies and web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements.<span style="mso-spacerun: yes">&nbsp; </span>You may not realize this information is being collected.<span style="mso-spacerun: yes">&nbsp; </span>In some cases, we may have access to information from web beacons and cookies used by network advertisers on our website(s) and this information may permit us to identify other websites that you have visited that are also associated with the network advertiser.<span style="mso-spacerun: yes">&nbsp; </span>Finally, once you’ve clicked on an advertisement and have left our website(s), our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website.</span><br><br><span class="ftext11"><b style="mso-bidi-font-weight: normal"><i style="mso-bidi-font-style: normal"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">Links to Other Websites</span></i></b></span><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">Visitors should be aware that when you are on our website(s), you could be directed to other websites that are beyond our control and are not subject to this Privacy Policy. There are links to other websites from our web pages that take you outside our service. For example, if you "click" on a banner advertisement or a search result on our website(s), the "click" takes you off that website. This includes links from advertisers, sponsors and partners that may use our logos as part of a co-branding agreement. These other websites may send their own cookies to visitors, collect data or solicit personal information.</span></span><br><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">Please keep in mind that whenever you give out personal information online --- for example, via message boards or chat rooms -- that information can be collected and used by people you don't know. While we strive to protect our visitor's personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.</span></span><br><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">This Privacy Policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond our control, and is not to be applied in any manner contrary to applicable law or governmental regulation.</span></span><br><br><span class="ftext11"><b style="mso-bidi-font-weight: normal"><i style="mso-bidi-font-style: normal"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">Security</span></i></b></span><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">The importance of security for all personally identifiable information associated with our visitors is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. When credit card information is transmitted we use industry standard, SSL (secure socket layer) encryption.</span></span><br><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">In the event that we offer accounts that are password protected, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information.</span></span><br><br><span class="ftext11"><span style="FONT-FAMILY: Tahoma; mso-ansi-font-size: 10.0pt; mso-bidi-font-size: 10.0pt">Remember to sign out of your account on our website(s) and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if your computer is accessible to others or if you share a computer with someone else or are using a computer in a public place like a library or internet café.</span></span><br><br><b style="mso-bidi-font-weight: normal"><i style="mso-bidi-font-style: normal"><span style="COLOR: black">Amendments to this Privacy Policy</span></i></b><o:p></o:p></span></p></font><p class="MsoNormal" style="MARGIN: 0in 0in 0pt"><font face="Tahoma"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma">We may amend this Privacy Policy at any time.<span style="mso-spacerun: yes">&nbsp; </span>If we amend this Privacy Policy to permit material changes in the way we collect, use and/or share your personal information, we will notify you of such changes by sending you an e-mail at the last e-mail address that you provided to us, and/or by prominently posting notice of the changes on our web site(s).<span style="mso-spacerun: yes">&nbsp; </span>Any such material changes to this Privacy Policy will be effective ten (10) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our website(s).<span style="mso-spacerun: yes">&nbsp; </span>Any such material changes to this Privacy Policy may affect our use and sharing of personal information that you provided to us before our notification to you of the changes.<span style="mso-spacerun: yes">&nbsp; </span>If you do not wish to permit material changes in our collection, use or sharing of your personal information that you have provided to us before the effective date of such changes, you must so notify us before that effective date.<span style="mso-spacerun: yes">&nbsp; </span>Please be advised, however, that, regardless of whether you provide such notice to us, the changes to this Privacy Policy will apply to any personal information that you provide to us on or after the effective date of such changes.</span></font></p></font>
+<br><font class="SubText"></font>
+
+</span></td></tr></tbody></table></td>
+<td width="13" height="300" background="/images/inside_contentback2.gif">&nbsp;</td>
+              </tr>
+            </tbody></table>
+          </td>
+          <td bgcolor="#FFFFFF" align="center" width="147" valign="top"> 
+          
+            
+
+          </td>
+        </tr>
+      </tbody></table>
+      <table width="600" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td><img src="/images/inside_feature_wabcnews.gif" width="600" height="39"></td>
+        </tr>
+      </tbody></table>
+      <table width="600" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td bgcolor="#99CCFF" width="15" background="/images/trans.gif"><img src="/images/trans.gif" width="15" height="5"></td>
+         
+	  <td bgcolor="#99CCFF" width="568" background="/images/trans.gif" valign="top">
+	   	<table cellspacing="0" width="568" cellpadding="0" border="0">				
+	  <tbody><tr>
+	   					 <td bgcolor="#99CCFF" width="270" background="/images/trans.gif" valign="top">
+	   					<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="Text"><div class="headlineHeadline"><a href="mailto: newstips@wabcradio.com" target="_top" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon1');" onmouseout="NewsIconOff('HLeftIcon1');"><img src="/images/inside_crown_off.gif" border="0" name="HLeftIcon1"></a><a href="mailto: newstips@wabcradio.com" target="_top" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon1');" onmouseout="NewsIconOff('HLeftIcon1');">The 77WABC News Tip Hotline is here!</a></div></td></tr>
+<tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr></tbody></table>
+	   					 </td><td bgcolor="#99CCFF" width="15" background="/images/trans.gif"><img src="/images/trans.gif" width="15" height="5"></td>
+       
+						
+	   					 <td bgcolor="#99CCFF" width="270" background="/images/trans.gif" valign="top">
+	   					<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="Text"><div class="headlineHeadline"><a href="/Article.asp?id=287072&amp;spid=122649" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon2');" onmouseout="NewsIconOff('HLeftIcon2');"><img src="/images/inside_crown_off.gif" border="0" name="HLeftIcon2"></a><a href="/Article.asp?id=287072&amp;spid=122649" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon2');" onmouseout="NewsIconOff('HLeftIcon2');">77WABC AND AMTRAK WANT TO SEND YOU HOME FOR THE HOLIDAYS!</a></div></td></tr>
+<tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr></tbody></table>
+	   					 </td><td bgcolor="#99CCFF" width="15" background="/images/trans.gif"><img src="/images/trans.gif" width="15" height="5"></td>
+       
+						
+	   						</tr>
+	   						
+	   					<tr>
+	   					 <td bgcolor="#99CCFF" width="270" background="/images/trans.gif" valign="top">
+	   					<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="Text"><div class="headlineHeadline"><a href="/Article.asp?id=122761&amp;spid=122649" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon3');" onmouseout="NewsIconOff('HLeftIcon3');"><img src="/images/inside_crown_off.gif" border="0" name="HLeftIcon3"></a><a href="/Article.asp?id=122761&amp;spid=122649" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon3');" onmouseout="NewsIconOff('HLeftIcon3');">What did I miss on WABC today?</a></div></td></tr>
+<tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr></tbody></table>
+	   					 </td><td bgcolor="#99CCFF" width="15" background="/images/trans.gif"><img src="/images/trans.gif" width="15" height="5"></td>
+       
+						
+	   					 <td bgcolor="#99CCFF" width="270" background="/images/trans.gif" valign="top">
+	   					<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="Text"><div class="headlineHeadline"><a href="/goout.asp?u=http://www.mysportsclubs.com/news/Ron+Kuby.htm" target="_top" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon4');" onmouseout="NewsIconOff('HLeftIcon4');"><img src="/images/inside_crown_off.gif" border="0" name="HLeftIcon4"></a><a href="/goout.asp?u=http://www.mysportsclubs.com/news/Ron+Kuby.htm" target="_top" class="HeadlineBottom" onmouseover="NewsIconOn('HLeftIcon4');" onmouseout="NewsIconOff('HLeftIcon4');">Kuby gets fit from NY Sports Clubs!</a></div></td></tr>
+<tr><td class="sectEntrySeparator"><img src="/images/trans.gif" height="1" width="1" border="0"></td></tr></tbody></table>
+	   					 </td><td bgcolor="#99CCFF" width="15" background="/images/trans.gif"><img src="/images/trans.gif" width="15" height="5"></td>
+       
+						
+	   						</tr>
+	   						
+	   					
+   			<tr><td><img src="/images/trans.gif" border="0" height="25"></td></tr>
+   		</tbody></table>
+	 </td>
+          
+	
+          <td bgcolor="#99CCFF" width="15" background="/images/trans.gif"><img src="/images/trans.gif" width="15" height="5"></td>
+          <td width="1" background="/images/trans.gif" bgcolor="#6699CC"><img src="/images/trans.gif" width="1" height="5"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td bgcolor="#174470"> 
+      <table width="760" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> <td width="100%" align="center" valign="top"> 
+        <table cellspacing="0" cellpadding="0" border="0" height="70">
+			<tbody><tr><td valign="middle">
+				<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><form action="/default.asp" method="post" target="_top" id="siteIndexForm" name="siteIndexForm"></form>
+<td><select name="u" class="gDropdown" onchange="submit();"><option>Site Index</option><option value="/default.asp">Home Page</option><option value="/Article.asp?id=166880">&nbsp;&nbsp;&nbsp;&nbsp;• Saturday Night Oldies</option><option value="">On Air Personalities</option><option value="/staff.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Personality Profiles</option><option value="/programming.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Program Schedule</option><option value="/photowall.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Photo Gallery</option><option value="/contactus.asp">&nbsp;&nbsp;&nbsp;&nbsp;• E-mail Our Personalities</option><option value="">Contests/Events</option><option value="/sectional.asp?id=5821">&nbsp;&nbsp;&nbsp;&nbsp;• Contests</option><option value="/sectional.asp?id=5823">&nbsp;&nbsp;&nbsp;&nbsp;• Local Events</option><option value="">Community Affairs</option><option value="/community/communitycalendar.asp">&nbsp;&nbsp;&nbsp;&nbsp;• Community Calendar</option><option value="/article.asp?id=122650">&nbsp;&nbsp;&nbsp;&nbsp;• Public Service Announcements</option><option value="">Station Info</option><option value="/Article.asp?id=122651">&nbsp;&nbsp;&nbsp;&nbsp;• Contact WABC</option><option value="/sectional.asp?id=5880">&nbsp;&nbsp;&nbsp;&nbsp;• Call for Action</option><option value="/jobs.asp">Jobs at ABC Radio</option><option value="/els">Loyal Listener Club</option><option value="/sectional.asp?id=5825">Sports</option><option value="/goout.asp?u=http://www.hannity.com/forum/forumdisplay.php?f=10">WABC Message Board</option><option value="">WABC Family of Advertisers</option><option value="/article.asp?id=122641">&nbsp;&nbsp;&nbsp;&nbsp;• Advertise with WABC</option><option value="/coupons.asp">&nbsp;&nbsp;&nbsp;&nbsp;• WABC Advertisers</option><option value="/article.asp?id=166878">Erik Hastings Travel Page</option><option value="/aboutthissite.asp">About This Site</option><option value="/">Home</option>
+<option value="/showdj.asp?DJID=1726">The Curtis &amp; Kuby Show</option>
+<option value="/showdj.asp?DJID=23829">Warner Wolf</option>
+<option value="/showdj.asp?DJID=7641">John Gambling</option>
+<option value="/showdj.asp?DJID=1724">Rush Limbaugh</option>
+<option value="/showdj.asp?DJID=1725">Sean Hannity</option>
+<option value="/showdj.asp?DJID=12009">Mark Levin</option>
+<option value="/showdj.asp?DJID=18049">Laura Ingraham</option>
+<option value="/showdj.asp?DJID=33966">Jerry Agar</option>
+<option value="/showdj.asp?DJID=15060">Monica Crowley</option>
+<option value="/showdj.asp?DJID=10352">Mark Simone</option>
+</select></td></tr></tbody></table>
+			</td></tr>
+		</tbody></table>
+           </td>
+       
+          <td width="609" valign="center" align="right">
+<img src="/images/trans.gif" width="20" height="5"><br><table width="468" border="0" cellspacing="0" cellpadding="0" height="60">
+              <tbody><tr>
+                <td bgcolor="#00005B" align="center"><!--468x60 Banner for CITRIX GOTOMEETING NRS CID 209-->
+
+<iframe src="http://bnmgr.adinjector.net/bnmgr/abmw.asp?z=180&amp;isframe=true" width="468" height="60" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></td>
+              </tr>
+</tbody></table>
+
+
+			<table cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+				<td align="right" valign="center">
+					<font class="Copyright">Copyright © 2006 <font style="color:#FFFFFF;">ABC Radio Incorporated</font> and <a class="CopyrightLink" href="Javascript:displayNotice();">MediaSpan</a><br><a class="CopyrightLink" target="_blank" href="http://www.mediaspanonline.com/poweredby/default.asp?d=www.wabcradio.com">Powered by MediaSpan Online</a></font><script language="Javascript">
+<!--
+function displayNotice() {
+	noteWin = window.open("http://mediaspanonline.com/PopUpCopyrightNotice.asp?d=www.wabcradio.com", "noteWindow", "location=no,status=no,toolbar=no,menubar=no,width=520,height=500,scrollbars=yes,resizable=yes");
+	noteWin.focus();
+}
+//-->
+</script><br><a class="CopyrightLink" href="/article.asp?id=122649">Privacy Policy</a>
+				</td>
+				<td>
+				<a href="/goout.asp?u=http://www.abc.com"><img src="/images/both_abc_bottom.gif" width="36" height="41" border="0" align="right"></a>
+				</td>
+				</tr>
+			</tbody></table>
+            </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td bgcolor="#A5C9EF">&nbsp; </td>
+  </tr>
+</tbody></table>
+
+
+
+
+
+<!--include file="incMenuLayers.asp"-->
+</body></html>
