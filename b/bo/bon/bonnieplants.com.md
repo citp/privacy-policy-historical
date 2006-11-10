@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonnieplants.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617193809id_/http%3A//www.bonnieplants.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonnieplants.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110043442id_/http%3A//bonnieplants.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Bonnie Plant Farm > Home
 
