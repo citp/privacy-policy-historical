@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enom.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206230307id_/http%3A//www.enom.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enom.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110120128id_/http%3A//www.enom.com/terms/privacy.asp) for the most accurate reproduction.*
 
-# eNom, Inc. - domain name, web site hosting, registration, email
+# eNom - domain name, web site hosting, email, registration - PRIVACY POLICY
 
 **eNom, Inc Privacy Policy**
 
