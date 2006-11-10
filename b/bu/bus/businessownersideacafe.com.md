@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the businessownersideacafe.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605140417id_/http%3A//www.businessownersideacafe.com/ideacafe/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessownersideacafe.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110032551id_/http%3A//businessownersideacafe.com/ideacafe/privacy_policy.php) for the most accurate reproduction.*
 
 # Business Owners' Idea Cafe - Our Privacy Policy
 
-**Shortcuts for user-control:**
+**You're in Control. Here are Shortcuts for Your Use:**
 
 To change your email address:   
-[http://www.businessownersideacafe.com/ideacafe/change_email.html](https://web.archive.org/web/20020605140417id_/http%3A//www.businessownersideacafe.com/ideacafe/change_email.html)
+[http://www.businessownersideacafe.com/ideacafe/change_email.html](https://web.archive.org/web/20061110032551id_/http%3A//businessownersideacafe.com/ideacafe/change_email.html)
 
-To get off Idea Cafe's list:   
-[http://www.businessownersideacafe.com/ideacafe/remove_request.html](https://web.archive.org/web/20020605140417id_/http%3A//www.businessownersideacafe.com/ideacafe/remove_request.html)
+To get off Idea Cafe's newsletter list:   
+[http://www.businessownersideacafe.com/ideacafe/remove_request.html](https://web.archive.org/web/20061110032551id_/http%3A//businessownersideacafe.com/ideacafe/remove_request.html)
 
-Privacy Policy for Idea Cafe: The Small Business Channel
+Privacy Policy for Business Owners Idea Cafe
 
-Idea Cafe Inc. has created this privacy statement in order to demonstrate our respect for user privacy. The following discloses our information gathering and dissemination practices. 
+Idea Cafe Inc. has created this privacy statement in order to demonstrate our respect for user privacy. The following discloses our information gathering and dissemination practices. Please note that this policy may be modified from time to time; the most current version will always be available here on this web page. 
 
 **Use of Technical Contact Data**
 
@@ -24,7 +24,7 @@ Idea Cafe contains links to other sites. Idea Cafe is not responsible for the pr
 
 **Voluntary Opt-in Registration**
 
-Idea Cafe's voluntary registration form requires users to give certain information in order to become a registered "Regular" member. Regulars (members) receive certain privileges, such as access into restricted site areas, contest eligibility and profile submissions; membership privileges may change from time to time. The registration form also gives users the opportunity to provide additional information voluntarily. Idea Cafe totals the data provided by all users to create our site user demographic reports: we share these demographic totals with interested parties. Idea Cafe uses contact information from the registration form to enable our users to receive information we believe helpful via email, mail or other methods. The user's contact information may also be used to contact the user when we believe necessary. If a user checks that he or she wants to receive more information or special offers on a specific topic, although Idea Cafe is not obligated to fulfill their request, Idea Cafe may try to locate a qualified source to provide the user the requested info or offers. For such third-party offers, the user may contact the source to opt-out or update contact data. Users may opt-out of receiving future mailings from Idea Cafe; see the choice/opt-out section below. 
+Idea Cafe's voluntary registration form requires users to give certain information in order to become a registered "Regular" member. Regulars (members) receive certain privileges, such as access into restricted site areas, a free subscription to our own Biz Tips newsletter, plus contest eligibility and profile submissions; membership privileges may change from time to time. The registration form also gives users the opportunity to provide additional information voluntarily. Idea Cafe totals the data provided by all users to create our site user demographic reports: we share these demographic totals with interested parties. Idea Cafe uses contact information from the registration form to enable our users to receive information we believe would be helpful to them via email, mail or other methods. This information may come directly from us or from partners and advertisers we have screened and approved. Any third-party email offers we approve provide the user an instant link to opt out if he or she no longer wishes to receive such offers. Users may also opt-out of receiving future mailings of newsletters and letters directly from Business Owners Idea Cafe; see the choice/opt-out section below or the shortcut section above. 
 
 **Other Opt-in Areas**
 
@@ -40,13 +40,13 @@ Idea Cafe has security measures in place to protect the loss, misuse and alterat
 
 **Correct/Update**
 
-This page gives users the following option for changing and modifying information previously provided:   
-[http://www.businessownersideacafe.com/ideacafe/change_email.html](https://web.archive.org/web/20020605140417id_/http%3A//www.businessownersideacafe.com/ideacafe/change_email.html)
+This page gives users the following option for changing and modifying email address information previously provided:   
+[http://www.businessownersideacafe.com/ideacafe/change_email.html](https://web.archive.org/web/20061110032551id_/http%3A//businessownersideacafe.com/ideacafe/change_email.html)
 
 **Choice/Opt-Out**
 
-This page gives visitors the following option for removing their information from our database, to not receive future communications, or to no longer receive our service:   
-[http://www.businessownersideacafe.com/ideacafe/remove_request.html](https://web.archive.org/web/20020605140417id_/http%3A//www.businessownersideacafe.com/ideacafe/remove_request.html)
+This page gives visitors the following option for removing their information from our database, to no longer receive newsletters or letters from Idea Cafe, or to no longer receive member privileges at this site:   
+[http://www.businessownersideacafe.com/ideacafe/remove_request.html](https://web.archive.org/web/20061110032551id_/http%3A//businessownersideacafe.com/ideacafe/remove_request.html)
 
 **Rights Reserved**
 
@@ -54,7 +54,6 @@ Idea Cafe Inc. reserves the right to make changes to company and site content, p
 
 **Contacting Idea Cafe About Privacy**
 
-If you have any questions about Idea Cafe's privacy statement, the practices of this site, or your dealings with Idea Cafe site, you can contact:   
-[chef@ideacafe.com](mailto:chef@ideacafe.com)
+If you have any questions about Idea Cafe's privacy statement, the practices of this site, or your dealings with Idea Cafe site, you can contact our Chef. 
 
-[Back to Registration Form](https://web.archive.org/web/20020605140417id_/http%3A//www.businessownersideacafe.com/ideacafe/register.php)  |  [Back to Idea Cafe Home](https://web.archive.org/Welcome.html)
+[Back to Registration Form](https://web.archive.org/web/20061110032551id_/http%3A//businessownersideacafe.com/ideacafe/register.php)  |  [Back to Idea Cafe Home](https://web.archive.org/Welcome.html)
