@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the brembo.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619134301id_/http%3A//www.brembo.com/ENG/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brembo.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110035853id_/http%3A//www.brembo.com/ENG/privacy) for the most accurate reproduction.*
 
-# Brembo
+# Brembo - Privacy
 
+|  |  |  | 
+
+|   
 ---  
 |  |  |  | 
 
@@ -52,4 +55,23 @@ We may change this Privacy Statement, or change, modify or withdraw access to th
 |   
 |  |   
 |  |  |  |  |  |   
+|  |   
+  
 |  | 
+
+|   
+---  
+|  | 
+
+**U.S.A. website**
+
+|   
+---|---  
+  
+[](http://www.brembo.com/US/ "www.brembo.com/US")
+
+**Brembo North America**  serves with its brakes Brembo enthusiasts in Canada, the USA, and Mexico.  BNA offers a comprehensive line of brake components and systems. [**www.brembo.com/US**](http://www.brembo.com/US/)  
+  
+|  |   
+  
+|  |  |  |  |  | 
