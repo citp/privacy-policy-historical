@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browsercam.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314120536id_/http%3A//www.browsercam.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browsercam.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110062402id_/http%3A//www.browsercam.com/Privacy.aspx) for the most accurate reproduction.*
 
 # BrowserCam : Privacy
 
