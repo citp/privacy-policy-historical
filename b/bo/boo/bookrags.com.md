@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210151id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111002920id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
 
-# About BookRags: Privacy Policy
+# Privacy Policy
 
 | 
 
-Your privacy is very important to BookRags. Please read the following to learn about BookRags’s commitment to maintaining your privacy.  
+Your privacy is very important to BookRags. Please read the following to learn about BookRags' commitment to maintaining your privacy.  
   
 | 
 
@@ -52,7 +52,7 @@ Security
   
 | 
 
-If you do register, your information is kept safely and securely within BookRags. If you have any specific concerns or questions, please don’t hesitate to contact us.  
+If you do register, your information is kept safely and securely within BookRags. If you have any specific concerns or questions, please don't hesitate to contact us.  
   
 | 
 
