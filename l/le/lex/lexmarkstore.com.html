@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the lexmarkstore.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615211012id_/http%3A//www.lexmarkstore.com/service.asp%3Fsection%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lexmarkstore.com privacy policy that was archived on 2006-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061110213303id_/http%3A//www.lexmarkstore.com/service.asp%3Fsection%3D1) for the most accurate reproduction.-->
 
 <html><head>
 <title>The Lexmark Online Store - Customer Service</title>
 
 <!--
 $Workfile: body.asp $
-$Revision: 1.15 $ 
+$Revision: 1.1 $ 
 -->
 <link rel="stylesheet" href="/buyLexmark_assets/css/lexmark.css">
 <!--Task #25744 - 'Lexmarkstore.com organic SEO'-->
@@ -75,6 +75,7 @@ function showhide(nav,imageName) { //advanced search
 	function doSearch() {
 		if (document.frmSearch.search_criteria.value == "") {
 			alert("Please enter your cartridge part number.");
+			return false;
 		}
 		else {
 			//Task #31361 - 'Lexmark: HitBox code needs to be added to "enhanced" Cartridge Finder'
@@ -83,7 +84,11 @@ function showhide(nav,imageName) { //advanced search
 			self.location = searchstring;
 		}
 	}
-</script></head>
+</script><style>
+.expressheader {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #FFFFFF; FONT-FAMILY: verdana, arial, helvetica, sans-serif; TEXT-DECORATION: none; visible: false
+}
+</style></head>
 
 
 
@@ -91,34 +96,38 @@ function showhide(nav,imageName) { //advanced search
 
 <!--
 $Workfile: header.asp $
-$Revision: 1.60 $ 
+$Revision: 1.7 $ 
 -->
 
 
 	
 
+<!--Task #29782 - 'Lexmark Express Order Functionality'-->
 
-
+<!--/Task #29782-->
 
 
 <body><table cellpadding="0" cellspacing="0" width="100%" border="0">
+<!--Task #29782 - 'Lexmark Express Order Functionality'-->
+
+<!--/Task #29782-->
 	<tbody><tr>
 		<td>
 
-<table border="0" width="900" cellspacing="0" cellpadding="0">
+<table border="0" width="850" cellspacing="0" cellpadding="0">
 
 	
 	<tbody><tr>
 		<td>
 			<table cellpadding="0" cellspacing="0" width="890" border="0">
-				<form action="http://www.lexmarkstore.com/searchresults.asp" method="get"></form>
+				<form action="http://www1.lexmarkstore.com/searchresults.asp" method="get"></form>
 				<input type="hidden" name="search" value="keyword">
 				<input type="hidden" name="search_field" value="description">
 				
-				<tbody><tr>
+				<!--<tr>
 					<td height="50" colspan="3"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="890" height="50" border="0"></td>
-				</tr>		
-				<tr>
+				</tr>-->		
+				<tbody><tr>
 					<td colspan="3" height="45">
 						<table cellpadding="0" cellspacing="0" width="890" border="0">
 							<tbody><tr>
@@ -130,7 +139,7 @@ $Revision: 1.60 $
 								</td>
 								<!--/ Task #31609 -->
 								<td width="30"><img src="/buyLexmark_assets/images/space.gif" alt="" width="30" height="10" border="0"></td>
-								<td wudth="126"><img src="/buyLexmark_assets/images/country_us.gif" alt="United States" border="0"></td>				
+								<td width="126"><img src="/buyLexmark_assets/images/country_us.gif" alt="United States" border="0"></td>				
 								<td width="100"><img src="/buyLexmark_assets/images/space.gif" alt="" width="100" height="5" border="0"></td>
 								<td width="84"><img src="/buyLexmark_assets/images/store_search.gif" alt="Store search" border="0"></td>					
 								<td width="15"><img src="/buyLexmark_assets/images/space.gif" alt="" width="15" height="5" border="0"></td>
@@ -203,7 +212,7 @@ $Revision: 1.60 $
 							</script>														
 								<!--Task #31609 - 'Lexmark: HBX active viewer code on Lxk'-->													
 								<td>
-									<a href="http://www.lexmarkstore.com/default.asp" title="The Lexmark Store" onmouseover="swap('storehome','mouseover_image')" onmouseout="swap('storehome','normal_image')" name="&amp;lid=Store Home"><img name="storehome" src="/buyLexmark_assets/images/storehome_off.gif" alt="HOME" border="0"></a><a href="http://www.lexmarkstore.com/getmodel.asp" title="Cartridge Finder" onmouseover="swap('cartridge','mouseover_image1')" onmouseout="swap('cartridge','normal_image1')" name="&amp;lid=Cartridge Finder"><img name="cartridge" src="/buyLexmark_assets/images/cartridgefinder_off.gif" alt="CARTRIDGE FINDER" border="0"></a><a href="https://www.lexmarkstore.com/editaccountlogin.asp" title="My Account" onmouseover="swap('myaccount','mouseover_image2')" onmouseout="swap('myaccount','normal_image2')" name="&amp;lid=myaccount"><img name="myaccount" src="/buyLexmark_assets/images/myaccount_off.gif" alt="MY ACCOUNT" border="0"></a><a href="https://www.lexmarkstore.com/tracking.asp" title="Order Status" onmouseover="swap('orderstatus','mouseover_image3')" onmouseout="swap('orderstatus','normal_image3')" name="&amp;lid=orderstatus"><img name="orderstatus" src="/buyLexmark_assets/images/orderstatus_off.gif" alt="ORDER STATUS" border="0"></a><a href="http://www.lexmarkstore.com/service.asp" title="Customer Service" onmouseover="swap('customerservice','mouseover_image4')" onmouseout="swap('customerservice','normal_image4')" name="&amp;lid=Customer Service"><img name="customerservice" src="/buyLexmark_assets/images/customerservice_off.gif" alt="CUSTOMER SERVICE" border="0"></a></td>								
+									<a href="http://www.lexmarkstore.com/store/lexmark/DisplayHomePage/" title="The Lexmark Store" onmouseover="swap('storehome','mouseover_image')" onmouseout="swap('storehome','normal_image')" name="&amp;lid=Store Home"><img name="storehome" src="/buyLexmark_assets/images/storehome_off.gif" alt="HOME" border="0"></a><a href="http://www1.lexmarkstore.com/getmodel.asp" title="Cartridge Finder" onmouseover="swap('cartridge','mouseover_image1')" onmouseout="swap('cartridge','normal_image1')" name="&amp;lid=Cartridge Finder"><img name="cartridge" src="/buyLexmark_assets/images/cartridgefinder_off.gif" alt="CARTRIDGE FINDER" border="0"></a><a href="http://www.lexmarkstore.com/store/lexmark/DisplayOrderInformationPage/" title="My Account" onmouseover="swap('myaccount','mouseover_image2')" onmouseout="swap('myaccount','normal_image2')" name="&amp;lid=myaccount"><img name="myaccount" src="/buyLexmark_assets/images/myaccount_off.gif" alt="MY ACCOUNT" border="0"></a><a href="https://www.lexmarkstore.com/store/lexmark/DisplayEditProfilePage" title="Order Status" onmouseover="swap('orderstatus','mouseover_image3')" onmouseout="swap('orderstatus','normal_image3')" name="&amp;lid=orderstatus"><img name="orderstatus" src="/buyLexmark_assets/images/orderstatus_off.gif" alt="ORDER STATUS" border="0"></a><a href="https://www.lexmarkstore.com/store/lexmark/DisplayHelpPage" title="Customer Service" onmouseover="swap('customerservice','mouseover_image4')" onmouseout="swap('customerservice','normal_image4')" name="&amp;lid=Customer Service"><img name="customerservice" src="/buyLexmark_assets/images/customerservice_off.gif" alt="CUSTOMER SERVICE" border="0"></a></td>								
 								
 							<!--/Task #31609-->
 								<!--/Task #31228-->
@@ -211,6 +220,7 @@ $Revision: 1.60 $
 						</tbody></table>
 					</td>			
 					<td width="170" align="center">
+						<!--Task #34402 - 'Lexmark: Add "View Cart" on www1.lexmarkstore.com'-->
 						
 <script>
 <!--
@@ -218,33 +228,46 @@ function submititCart() { document.frmMiniCart.submit(); }
 -->
 </script>
 
-<table cellpadding="0" cellspacing="0" width="170" border="0" height="40">
-		<tbody><tr>
-		<!--Task #23125 - 'Netgear Mini Cart Not Formatted Properly When Cart Value Exceeds $10K'-->
-			<td colspan="5" height="1" background="/buyLexmark_assets/images/minicart_top1.gif" nowrap=""></td>
-		</tr>
-		<tr>
-			<td width="1" rowspan="2" background="/buyLexmark_assets/images/minicart_left.gif"><img src="/buyLexmark_assets/images/space.gif" border="0" alt=""></td>
+<table cellpadding="0" cellspacing="0" width="100" border="0" height="30" align="left">
+		<!--<tr>
+			Task #23125 - 'Netgear Mini Cart Not Formatted Properly When Cart Value Exceeds $10K'
+			<td colspan="5" height="1" background ="/buyLexmark_assets/images/minicart_top1.gif" nowrap></td>
+		</tr>-->
+		<tbody><tr class="minicart">
+			<td valign="middle" align="right" width="30%">
+				<a href="http://www.lexmarkstore.com/store/lexmark/DisplayShoppingCartPage">
+					<img src="/buyLexmark_assets/images/minicart.gif" border="0" alt="" align="absmiddle">
+				</a>
+			</td>
+			<td align="left" class="minicart">
+				<a href="http://www.lexmarkstore.com/store/lexmark/DisplayShoppingCartPage">
+					View Cart
+				</a>
+			</td><td>	
+		</td></tr>
+		<!--<tr>
+			<td width="1" rowspan="2" background ="/buyLexmark_assets/images/minicart_left.gif"><img src="/buyLexmark_assets/images/space.gif" border="0" alt=""></td>
 			<td class="minicart" width="7"><img src="/buyLexmark_assets/images/space.gif" width="7" height="17" border="0" alt=""></td>
-			<td class="minicart" colspan="2" valign="middle"><a href="http://www.lexmarkstore.com/basket.asp"><img src="/buyLexmark_assets/images/minicart.gif" border="0" alt="">Shopping Cart</a></td>
-			<td width="1" background="/buyLexmark_assets/images/minicart_right.gif" nowrap=""><img src="/buyLexmark_assets/images/minicart_right.gif" border="0" alt=""></td>
+			<td class="minicart" colspan="2" valign="middle"><a href="http://www1.lexmarkstore.com/basket.asp"><img src="/buyLexmark_assets/images/minicart.gif" border="0" alt="">Shopping Cart</a></td>
+			<td width="1" background ="/buyLexmark_assets/images/minicart_right.gif" nowrap><img src="/buyLexmark_assets/images/minicart_right.gif" border="0" alt=""></td>
 		</tr>	
 		<tr>
-			<td colspan="4" height="1" background="/buyLexmark_assets/images/minicart_center1.gif" nowrap=""></td>
+			<td colspan="4" height="1"  background ="/buyLexmark_assets/images/minicart_center1.gif" nowrap></td>
 		</tr>	
 		<tr>
-			<td background="/buyLexmark_assets/images/minicart_left.gif"><img src="/buyLexmark_assets/images/space.gif" border="0" alt=""></td>
+			<td background ="/buyLexmark_assets/images/minicart_left.gif"><img src="/buyLexmark_assets/images/space.gif" border="0" alt=""></td>
 			<td class="minicart"><img src="/buyLexmark_assets/images/space.gif" width="7" height="25" border="0" alt=""></td>
 			<td class="minicart" width="62">0&nbsp;Items:</td>
-			<td class="minicart" width="62" nowrap="">$0.00</td>
-			<td width="1" background="/buyLexmark_assets/images/minicart_right.gif"><img src="/buyLexmark_assets/images/minicart_right.gif" border="0" alt=""></td>
+			<td class="minicart" width="62" nowrap>$0.00</td>
+			<td width=1 background ="/buyLexmark_assets/images/minicart_right.gif"><img src="/buyLexmark_assets/images/minicart_right.gif" border="0" alt=""></td>
 		</tr>	
 		<tr>
-			<td colspan="5" height="1" background="/buyLexmark_assets/images/minicart_bottom1.gif"></td>
-		</tr>	
+			<td colspan="5" height="1" background ="/buyLexmark_assets/images/minicart_bottom1.gif"></td>
+		</tr>-->	
 		<!--/Task #23125-->
 	</tbody></table>	
 	
+						<!--/Task #34402-->
 					</td>
 				</tr>				
 			</tbody></table>	
@@ -252,10 +275,19 @@ function submititCart() { document.frmMiniCart.submit(); }
 	</tr>
 </tbody></table>
 
-<table border="0" width="890" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+
+
+
+<table border="0" width="650" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
 	<tbody><tr>
-		<td colspan="8" bgcolor="#000000">
-			<img src="/buyLexmark_assets/images/mainbody_top.gif" border="0"></td>
+		<!--td colspan="0" bgcolor="#000000">
+			<img src="/buyLexmark_assets/images/mainbody_top.gif" border="0"></td-->
+        <td colspan="3" bgcolor="#000000">
+			<img src="/buyLexmark_assets/images/mainbody_TopLeft.jpg" border="0" width="221" height="3"></td>
+        <td colspan="3">
+			<img src="/buyLexmark_assets/images/mainbody_TopSpacer.jpg" border="0" width="560" height="3"></td>
+        <td colspan="2" align="left" bgcolor="#000000">
+			<img src="/buyLexmark_assets/images/mainbody_topright.gif" border="0" height="3"></td>
 	</tr>
 	<tr>
 		<td class="left_body" width="1" valign="top"><img src="/buyLexmark_assets/images/left_leftNav.gif" border="0"></td>
@@ -263,202 +295,23 @@ function submititCart() { document.frmMiniCart.submit(); }
 		<td width="194" valign="top" bgcolor="#646464">
 			<table cellpadding="0" cellspacing="0" width="194" border="0" class="leftNav_body">
 				<tbody><tr>
-					<td height="45" class="leftNav_title">Lexmark Online Store</td>
+					<td height="45" class="leftNav_title"><a style="COLOR: rgb(255,255,255)" href="http://www.lexmarkstore.com/">Lexmark Online Store</a></td>
 				</tr>
 				<tr>
 					<td><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="182" height="2" border="0"></td>
 				</tr>
-			
-				<tr>				
-					<td colspan="3" class="leftNav"><div class="menu"><a href="javascript:showhide('deptnavPR')" class="leftNav">Printers</a></div></td>
-				</tr>
-				<tr>
-					<td colspan="3">
-						<div id="deptnavPR" name="deptnavPR" style="display:none;">									
-						<table cellpadding="0" cellspacing="0" border="0" width="100%">
-							<!--Task #30881 - 'Lexmark: Change Default Search display order'-->
-							<tbody><tr>
-								<td width="10" height="19"><img src="/buyLexmark_assets/images/space.gif" width="10" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=17&amp;rank_on=price&amp;rank_dir=asc" class="link1">Color Inkjet</a></td>	
-							</tr>
-							<tr>
-								<td width="10" height="19"><img src="/buyLexmark_assets/images/space.gif" width="10" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=12&amp;rank_on=price&amp;rank_dir=asc" class="link1">All-in-One</a></td>	
-							</tr>
-							<tr>
-								<td width="1" height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=1&amp;rank_on=price&amp;rank_dir=asc" class="link1">Mono Laser</a></td>	
-							</tr>
-							<tr>
-								<td width="1" height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=9&amp;rank_on=price&amp;rank_dir=asc" class="link1">Color Laser</a></td>	
-							</tr>
-							<tr>
-								<td width="1" height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=20&amp;rank_on=price&amp;rank_dir=asc" class="link1">Multifunction</a></td>	
-							</tr>
-							<tr>
-								<td width="1" height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=15&amp;rank_on=price&amp;rank_dir=asc" class="link1">Dot Matrix</a></td>	
-							</tr>
-							<!--/Task #30881 -->
-						</tbody></table>
-						</div>										
-					</td>		
-				</tr>
-				<tr>
-					<td height="1" colspan="3" align="center"><img src="/buylexmark_assets/images/leftNav_divider.gif" border="0"></td>
-				</tr>	
-				<tr>					
-					<td colspan="3" class="leftNav"><div class="menu"><a href="javascript:showhide('deptnavSU')" class="leftNav">Supplies</a></div></td>
-				</tr>
-				<tr>
-					<td colspan="3">
-						<div id="deptnavSU" name="deptnavSU" style="display:none;">									
-						<table cellpadding="0" cellspacing="0" border="0" width="100%">
-							<!--Task #30881 - 'Lexmark: Change Default Search display order'-->
-							<tbody><tr>
-								<td width="10" height="19"><img src="/buyLexmark_assets/images/space.gif" width="10" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=13&amp;rank_on=price&amp;rank_dir=asc" class="link1">Inkjet Ink/Print Cartridge</a></td>	
-							</tr>
-							<tr>
-								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=3&amp;rank_on=price&amp;rank_dir=asc" class="link1">Laser Toner/Print Cartridge</a></td>	
-							</tr>
-							<tr>
-								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=19&amp;rank_on=price&amp;rank_dir=asc" class="link1">Lexmark Linea Print Cartridges</a></td>	
-							</tr>
-							<tr>
-								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=5&amp;rank_on=price&amp;rank_dir=asc" class="link1">IBM Supplies</a></td>	
-							</tr>
-							<tr>
-								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=2&amp;rank_on=price&amp;rank_dir=asc" class="link1">Paper Handling</a></td>	
-							</tr>
-							<tr>
-								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=6&amp;rank_on=price&amp;rank_dir=asc" class="link1">Paper &amp; Transparencies</a></td>	
-							</tr>
-							<tr>
-								<td width="1" height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=4&amp;rank_on=price&amp;rank_dir=asc" class="link1">Connectivity</a></td>	
-							</tr>
-							<tr>
-								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=16&amp;rank_on=price&amp;rank_dir=asc" class="link1">Ribbons</a></td>	
-							</tr>
-							<tr>
-								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="10" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=14&amp;rank_on=price&amp;rank_dir=asc" class="link1">Typewriter Supplies</a></td>	
-							</tr>
-							<!--/Task #30881 -->						
-						</tbody></table>
-						</div>										
-					</td>		
-				</tr>
-				<tr>
-					<td height="1" colspan="3" align="center"><img src="/buylexmark_assets/images/leftNav_divider.gif" border="0"></td>
-				</tr>
-				<tr>					
-					<td colspan="3" class="leftNav"><div class="menu"><a href="javascript:showhide('deptnavOP')" class="leftNav">Accessories</a></div></td>
-				</tr>
-				<tr>
-					<td colspan="3">
-						<div id="deptnavOP" name="deptnavOP" style="display:none;">									
-						<table cellpadding="0" cellspacing="0" border="0" width="100%" id="Table9">
-							<!--Task #30881 - 'Lexmark: Change Default Search display order'-->
-							<tbody><tr>
-								<td width="10" height="19"><img src="/buyLexmark_assets/images/space.gif" width="10" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=7&amp;rank_on=price&amp;rank_dir=asc" class="link1">Hard disk</a></td>	
-							</tr>
-							<tr>
-								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=10&amp;rank_on=price&amp;rank_dir=asc" class="link1">Application Cards / SIMMs</a></td>	
-							</tr>
-							<tr>
-								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=11&amp;rank_on=price&amp;rank_dir=asc" class="link1">Flash, SDRAM Memory</a></td>	
-							</tr>
-							<tr>
-								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=18&amp;rank_on=price&amp;rank_dir=asc" class="link1">Software</a></td>	
-							</tr>
-							<tr>
-								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=8&amp;rank_on=price&amp;rank_dir=asc" class="link1">Furniture</a></td>	
-							</tr>
-							<tr>
-								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=21&amp;rank_on=price&amp;rank_dir=asc" class="link1">User Replaceable Parts</a></td>	
-							</tr>
-							<tr>
-								<td height="19"><img src="/buyLexmark_assets/images/space.gif" width="1" height="16" border="0"></td>
-								<td><a href="http://www.lexmarkstore.com/searchresults.asp?promo=0&amp;search_id=24&amp;rank_on=price&amp;rank_dir=asc" class="link1">MFP Options</a></td>	
-							</tr>
-							<!--/Task #30881 -->
-						</tbody></table>
-						</div>										
-					</td>		
-				</tr>
-				<tr>
-					<td height="1" colspan="3" align="center"><img src="/buylexmark_assets/images/leftNav_divider.gif" border="0"></td>
-				</tr>
-				<tr>								
-					<td colspan="3" class="leftNav"><div class="menu"><a href="warranty.asp" class="leftNav">Warranties &amp; Services</a></div></td>
-				</tr>
-				<tr>
-					<td height="1" colspan="3" align="center"><img src="/buylexmark_assets/images/leftNav_divider.gif" border="0"></td>
-				</tr>
-				<tr>								
-					<td colspan="3" class="leftNav"><div class="menu"><a href="http://www.lexmarkstore.com/lexmarkredirect.asp?link=rebates" class="leftNav">Rebates</a></div></td>
-				</tr>
-				<tr>
-					<td height="1" colspan="3" align="center"><img src="/buylexmark_assets/images/leftNav_divider.gif" border="0"></td>
-				</tr>
-				<!--Task #31985 - 'Lexmark: Modify the look and feel of the Clearance store link on Lexmark Store'-->
-				<tr>
-					<td height="1" colspan="3"><img src="/buyLexmark_assets/images/space.gif" width="182" height="15" border="0"></td>
-				</tr>
-				<tr>								
-					<td colspan="3" height="25"><a href="clearance.asp"><img src="/buyLexmark_assets/images/space.gif" width="4" height="15" border="0"><img src="/buylexmark_assets/images/clearance.gif" border="0" alt="Clearance - Find Great Deals on Lexmark Products"></a></td>
-				</tr>
-				<tr>
-					<td height="1" colspan="3"><img src="/buyLexmark_assets/images/space.gif" width="182" height="15" border="0"></td>
-				</tr>
-				<!--Task #31582 - 'Lexmark: Sign up for specials banner should open a new smaller window'-->
-				<!--Task #31609 - 'Lexmark: HBX active viewer code on Lxk'-->
-				<tr>
-					<td colspan="3"><a href="http://www.lexmarkstore.com/register.asp" target="register" name="&amp;lid=Sign Up" onclick="window.open(&quot;register.asp&quot;, &quot;register&quot;, &quot;menubar=no,scrollbars=no,status=no,toolbar=no,location=no,directories=no,resizable=yes,width=500,height=450&quot;);"><img src="/buyLexmark_assets/images/space.gif" width="4" height="15" border="0"><img src="/buyLexmark_assets/images/signup.gif" alt="Sign Up for Specials &amp; Promotions" border="0"></a></td>
-				</tr>
-				<!--/Task #31985-->
-				<!--/Task #31609 -->
-				<!--/Task #31582 -->
-				<tr>
-					<td colspan="3" bgcolor="#656565"><img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="180" height="300" border="0"></td>
-				</tr>
-				<!-- Task #31604 - 'Lexmark: Please remove BBB Banner from Left Nav'-->
-				<!--<tr>
-					<td colspan="3" align="center" bgcolor="#656565">
-						<a href="http://www.bbbonline.com/consumer/profile.asp?ID=392000091" target="new"><img src="/buyLexmark_assets/images/bbb_online.gif" border="0"></a><br>
-						<img src="/buyLexmark_assets/images/space.gif" width="10" height="30" border="0"><br></td>							
-				</tr>-->
-				<!--Task #31609 - 'Lexmark: HBX active viewer code on Lxk'-->
 				<tr bgcolor="#656565">
 					<td colspan="3" align="center" bgcolor="#656565"><a href="http://www.commerce5.com" target="_New" name="&amp;lid=Commerce5 Logo"><img src="/buyLexmark_assets/images/c5_hosted.gif" border="0"></a><br>
 				</td></tr>
-				<!--/ Task #31609 -->
-				<!-- /Task #31604 -->
 			</tbody></table>
 			
 		</td>
-		<td width="5" valign="top" class="leftbody_divider"><img src="/buyLexmark_assets/images/leftBody_dividerTop.gif" alt="spacer" border="0"></td>
+		<td width="0" valign="top">&nbsp;</td>
 		
 		
 		
 		
-		<td valign="top" width="550">
+		<td valign="top" width="550" style="border-left:10px solid #FFFFFF">
 			
 			<img src="/buyLexmark_assets/images/space.gif" alt="spacer" width="550" height="0" border="0">
 		
@@ -470,15 +323,15 @@ function submititCart() { document.frmMiniCart.submit(); }
 					<td width="100" valign="middle" height="20">
 						<img src="/buylexmark_assets/images/cartridge_title.gif" border="0" align="absmiddle">
 					</td>
-					<form action="searchresults.asp" method="get" name="frmSearch" onsubmit="return false;" style="display:inline"></form>
+					<form action="searchresults.asp" method="get" name="frmSearch" onsubmit="return doSearch();" style="display:inline"></form>
 					<input type="hidden" name="search_id" value="3,13,19">
 					<input type="hidden" name="cartridgefinder" value="yes">
 					<td width="150" valign="middle">				
-						<input type="text" style="width:150px;" name="search_criteria" size="20" class="searchBox" value="Enter your part number" onfocus="this.value=''">					
+						<input type="text" style="width:150px;" name="search_criteria" size="20" class="searchBox" value="Cartridge Part No." onfocus="this.value=''">					
 					</td>
 					<!--Task #31609 - 'Lexmark: HBX active viewer code on Lxk'-->
 					<td width="20">
-						<a href="javascript:doSearch();" name="&amp;lid=Cartridge Finder"><img src="/buylexmark_assets/images/cartridge_button.gif" border="0" align="absmiddle"></a>						
+						<input type="image" src="/buylexmark_assets/images/cartridge_button.gif" border="0" align="absmiddle">
 					</td>
 					<!--/Task #31609 -->
 					
@@ -496,7 +349,7 @@ function submititCart() { document.frmMiniCart.submit(); }
 <tbody><tr><td align="right" valign="top"></td>
 <td align="left" valign="top">
 <select name="action_id" class="wizardinput" onchange="document.wizard0.submit();">
-<option value="">Select Printer</option><option value="0,1470682">4079 Color Jetprinter</option>
+<option value="">Find cartridge by printer model</option><option value="0,1470682">4079 Color Jetprinter</option>
 <option value="0,1470683">ExecJet IIc, Winwriter 150c, Medley</option>
 <option value="0,1470684">IBM 4019, 4029, 4028 Laser Printers</option>
 <option value="0,1470685">IBM 4037 5E Page Printer</option>
@@ -658,6 +511,9 @@ function submititCart() { document.frmMiniCart.submit(); }
 <option value="0,1470841">Lexmark X215 MFP</option>
 <option value="0,1470842">Lexmark X2250</option>
 <option value="0,1470843">Lexmark X3350</option>
+<option value="0,2745248">Lexmark X340</option>
+<option value="0,2745249">Lexmark X340n</option>
+<option value="0,2745250">Lexmark X342n </option>
 <option value="0,1470844">Lexmark X422 MFP</option>
 <option value="0,1470845">Lexmark X4250</option>
 <option value="0,1470846">Lexmark X4270</option>
@@ -666,6 +522,7 @@ function submititCart() { document.frmMiniCart.submit(); }
 <option value="0,1470849">Lexmark X522 MFP</option>
 <option value="0,1470850">Lexmark X5250</option>
 <option value="0,1470851">Lexmark X5270</option>
+<option value="0,6564143">Lexmark X5470</option>
 <option value="0,1470852">Lexmark X6150</option>
 <option value="0,1470853">Lexmark X6170</option>
 <option value="0,1470854">Lexmark X620e MFP</option>
@@ -673,6 +530,7 @@ function submititCart() { document.frmMiniCart.submit(); }
 <option value="0,1470856">Lexmark X630 MFP</option>
 <option value="0,1470857">Lexmark X632 MFP</option>
 <option value="0,1470858">Lexmark X632e MFP</option>
+<option value="0,2745251">Lexmark X642e</option>
 <option value="0,1470859">Lexmark X644e MFP</option>
 <option value="0,1470860">Lexmark X646dte MFP</option>
 <option value="0,1470861">Lexmark X646e MFP</option>
@@ -682,9 +540,17 @@ function submititCart() { document.frmMiniCart.submit(); }
 <option value="0,1470865">Lexmark X7350</option>
 <option value="0,1470866">Lexmark X75</option>
 <option value="0,1470867">Lexmark X750e MFP</option>
+<option value="0,2745258">Lexmark X752e</option>
+<option value="0,2745259">Lexmark X762e</option>
+<option value="0,2745252">Lexmark X820e</option>
 <option value="0,1470868">Lexmark X83</option>
+<option value="0,2745253">Lexmark X830e</option>
+<option value="0,2745254">Lexmark X832e </option>
 <option value="0,1470869">Lexmark X8350</option>
 <option value="0,1470870">Lexmark X85</option>
+<option value="0,2745255">Lexmark X850e</option>
+<option value="0,2745256">Lexmark X852e</option>
+<option value="0,2745257">Lexmark X854e</option>
 <option value="0,1470871">Lexmark Z11 and Z31</option>
 <option value="0,1470872">Lexmark Z12</option>
 <option value="0,1470873">Lexmark Z13</option>
@@ -730,7 +596,7 @@ function submititCart() { document.frmMiniCart.submit(); }
 		
 			<script language="javascript">
 			var promo
-			promo = window.open("http://www.lexmarkstore.com/promopopup.asp","promo","menubar=no,scrollbars=yes,status=no,toolbar=no,location=no,directories=no,resizable=yes,width=350,height=285")
+			promo = window.open("http://www1.lexmarkstore.com/promopopup.asp","promo","menubar=no,scrollbars=yes,status=no,toolbar=no,location=no,directories=no,resizable=yes,width=350,height=285")
 			</script>
 
 <table border="0" cellpadding="0" cellspacing="0" width="500">
@@ -745,19 +611,19 @@ function submititCart() { document.frmMiniCart.submit(); }
 	<tbody><tr>
 		<td valign="top">
 <ul>
-	<li><a href="http://www.lexmarkstore.com/copyright.asp" class="font11">Terms and Conditions</a></li>
-	<li><a href="http://www.lexmarkstore.com/service.asp?section=1" class="font11">Privacy Policy</a></li>
-	<li><a href="http://www.lexmarkstore.com/service.asp?section=2" class="font11">Establishing An Account</a></li>
-	<li><a href="http://www.lexmarkstore.com/service.asp?section=3" class="font11">Placing A New Order</a></li>
-	<li><a href="http://www.lexmarkstore.com/service.asp?section=5" class="font11">Billing</a></li>
+	<li><a href="http://www1.lexmarkstore.com/copyright.asp" class="font11">Terms and Conditions</a></li>
+	<li><a href="http://www1.lexmarkstore.com/service.asp?section=1" class="font11">Privacy Policy</a></li>
+	<li><a href="http://www1.lexmarkstore.com/service.asp?section=2" class="font11">Establishing An Account</a></li>
+	<li><a href="http://www1.lexmarkstore.com/service.asp?section=3" class="font11">Placing A New Order</a></li>
+	<li><a href="http://www1.lexmarkstore.com/service.asp?section=5" class="font11">Billing</a></li>
 </ul>
 		</td>
 		<td valign="top">
 <ul>	
-	<li><a href="http://www.lexmarkstore.com/service.asp?section=6" class="font11">Tax and Shipping Info</a></li>
-	<li><a href="http://www.lexmarkstore.com/service.asp?section=8" class="font11">Returns &amp; Replacements</a></li>
-	<li><a href="http://www.lexmarkstore.com/service.asp?section=7" class="font11">Canceling An Order</a></li>
-	<li><a href="http://www.lexmarkstore.com/service.asp?section=11" class="font11">Customer Assistance</a></li>
+	<li><a href="http://www1.lexmarkstore.com/service.asp?section=6" class="font11">Tax and Shipping Info</a></li>
+	<li><a href="http://www1.lexmarkstore.com/service.asp?section=8" class="font11">Returns &amp; Replacements</a></li>
+	<li><a href="http://www1.lexmarkstore.com/service.asp?section=7" class="font11">Canceling An Order</a></li>
+	<li><a href="http://www1.lexmarkstore.com/service.asp?section=11" class="font11">Customer Assistance</a></li>
 </ul>
 		</td>
 	</tr>
@@ -773,7 +639,7 @@ function submititCart() { document.frmMiniCart.submit(); }
 </p><p>This Site is managed by a third party service provider of Lexmark International, Inc. (the "Online Store" and collectively with 
 Lexmark International, Inc. "we" or "us"). We are committed to 
 protecting our customers' privacy. Your privacy through the use of the Web site 
-located at URL http://www.lexmarkstore.com ("the Site") is paramount in 
+located at URL http://www1.lexmarkstore.com ("the Site") is paramount in 
 that goal. 
 </p><p>The purpose of this Privacy Policy ("Policy") is to inform you about the 
 types of information we gather about you and your organization, how we may use 
@@ -880,7 +746,7 @@ our pages, and to provide the services required by an individual customer.
   receive promotional emails. This option is usually included in your account 
   registration form or at our optional home page registration form. If you have 
   established an account with us, to stop receiving promotional emails and 
-  newsletters in the future, please go to the <a href="https://www.lexmarkstore.com/editaccountlogin.asp">account page</a> and log in 
+  newsletters in the future, please go to the <a href="https://www1.lexmarkstore.com/editaccountlogin.asp">account page</a> and log in 
   with your account information. Once you are logged in you may scroll to the 
   bottom of the page and un-check the opt-in box. Then click the 'Update 
   Account' button and you will be removed from our mailing list. If you have not 
@@ -954,7 +820,7 @@ portion or all of our business, assets, or stock.
 </p><p><a name="4"></a><b>4. How can you update or correct your Personally Identifiable Information?</b> 
 </p><p>During the online ordering process you can review, change or delete the 
 information that you have submitted. You may change any of your personal 
-information in your account online at any time. Simply go to the <a href="https://www.lexmarkstore.com/editaccountlogin.asp">account page</a> and log in 
+information in your account online at any time. Simply go to the <a href="https://www1.lexmarkstore.com/editaccountlogin.asp">account page</a> and log in 
 with your account information. Once you are logged in you may update your 
 account. Then click on "Update Account". We encourage you to promptly update 
 your information if it changes. You may ask to have some or all of your account 
@@ -967,7 +833,7 @@ completely removed from our databases due to legal obligations.
 communications regarding current promotions, specials and new additions to the 
 Site. You may "opt-out," or unsubscribe from our newsletters, updates, and 
 promotions, by following the unsubscribe instructions in any e-mail you receive 
-from us. You may also unsubscribe by going to the <a href="https://www.lexmarkstore.com/editaccountlogin.asp">account page</a>  
+from us. You may also unsubscribe by going to the <a href="https://www1.lexmarkstore.com/editaccountlogin.asp">account page</a>  
 and logging in with your account information. Once you are logged in you may scroll to the bottom of 
 the page and un-check the opt-in box. Then click on 'Update Account' and you will not receive any further communications or mailings.
 
@@ -1056,52 +922,39 @@ before proceeding to use the Site.
 			<tr>
 				<td colspan="5" align="center" class="footer">
 					All prices are in US Dollars. Products are available for purchase by U.S. customers who take<br>
-					delivery in the U.S. All sales are subject to The Online Store's <a href="http://www.lexmarkstore.com/copyright.asp">Terms and Conditions</a>.
+					delivery in the U.S. All sales are subject to The Online Store's <a href="http://www1.lexmarkstore.com/copyright.asp">Terms and Conditions</a>.
 					<!--Task #29786 - 'Edit URL paths on Lxk store'-->
-					<p class="footer"><a href="http://www.lexmarkstore.com/warranty.asp">Warranty Information</a> | <a href="http://www.lexmarkstore.com/lexmarkredirect.asp?link=TechSupport">Technical Support</a></p>
+					<p class="footer"><a href="http://www.lexmarkstore.com/warranty.asp">Warranty Information</a> | <a href="http://www1.lexmarkstore.com/lexmarkredirect.asp?link=TechSupport">Technical Support</a></p>
 					<!--/ Task #29786 -->
 					<br><img src="/buyLexmark_assets/images/space.gif" width="1" height="5" alt=""><br>
-					Want to know how we use your personal information? Click here for our <a href="http://www.lexmarkstore.com/service.asp?section=1">Privacy Policy</a>.<br>
+					Want to know how we use your personal information? Click here for our <a href="http://www1.lexmarkstore.com/service.asp?section=1">Privacy Policy</a>.<br>
 					Copyright © 1997 - 2006 Lexmark International, Inc. All rights reserved. Used with permission.
 				</td>
 			</tr>
 		</tbody></table>
 
 </td>
-<td width="213" valign="top">
+<!--td width="213" valign="top">
+<img src="/buyLexmark_assets/images/right_bodyTop.gif" alt="" width="213" border="0">
 
 	<table cellpadding="0" cellspacing="0" width="213" border="0">
 
 
-	<tbody><tr>
-			<td valign="top"><a href="getmodel.asp"><img src="/buyLexmark_assets/images/find_it.gif" alt="Find It" border="0"></a><br>
-			<img src="/buyLexmark_assets/images/space.gif" alt="" width="1" height="6" border="0"><br></td>
-	</tr>
-
-	<tr>
-			<td valign="top"><a href="referrer.asp?r=inkship06"><img src="/buyLexmark_assets/banners/free_shipping_pop.gif" alt="Free shipping on Ink!" border="0"></a><br>
-			<img src="/buyLexmark_assets/images/space.gif" alt="" width="1" height="6" border="0"><br></td>
-	</tr>
-
-	<tr>
-			<td valign="top"><a href="product.asp?sku=2785374"><img src="/buyLexmark_assets/images/free_shipping.gif" alt="Free Shipping" border="0"></a><br>
-			<img src="/buyLexmark_assets/images/space.gif" alt="" width="1" height="6" border="0"><br></td>
-	</tr>
-
-	<tr>
-			<td valign="top"><a href="referrer.asp?r=X7350ship"><img src="/buyLexmark_assets/images/free_shipping_x7350.gif" alt="Free Shipping" border="0"></a><br>
-			<img src="/buyLexmark_assets/images/space.gif" alt="" width="1" height="6" border="0"><br></td>
-	</tr>
-
-	</tbody></table>
+	</table>
 	
-</td>
-<td valign="top" class="right_body"><img src="/buyLexmark_assets/images/right_bodyTop.gif" alt="" border="0"></td>
+</td-->
+
+<td colspan="3" width="0" valign="top" align="right"><img src="/buyLexmark_assets/images/right-gradient.gif" alt="" border="0"></td>
 </tr>
-	<tr>
-		<td colspan="8" height="1"><img src="/buyLexmark_assets/images/mainbody_bottom.gif" alt="spacer" border="0"></td>
-	</tr>
-	
+<tr>
+		<!--td colspan="8" height="1"><img src="/buyLexmark_assets/images/mainbody_bottom.gif" alt="spacer" border="0"></td-->
+		<td colspan="3" valign="top">
+			<img src="/buyLexmark_assets/images/mainbody_bottomLeft.jpg" border="0" width="221" height="68"></td>
+        <td colspan="3" valign="top">
+			<img src="/buyLexmark_assets/images/mainbody_bottomSpacer.jpg" border="0" width="100%" height="68"></td>
+        <td bgcolor="#000000">
+			<img src="/buyLexmark_assets/images/mainbody_bottomRight.jpg" border="0" width="4" height="68"></td>
+	</tr>	
 </tbody></table>
 
 		</td>
@@ -1112,7 +965,7 @@ before proceeding to use the Site.
 <!--/Task #31624-->
 <!--
 $Workfile: footer.asp $
-$Revision: 1.23 $
+$Revision: 1.1 $
 -->
 
 
@@ -1126,6 +979,9 @@ $Revision: 1.23 $
 	//BEGIN EDITABLE SECTION
 	//CONFIGURATION VARIABLES
 	hbx.acct="DM54121772DB";//ACCOUNT NUMBER(S)
+	//Task #32026 - 'Change Commerce Manager Hitbox Code'
+		
+	///Task #32026
 	hbx.pn="/service.asp";//PAGE NAME(S)
 	//Task #25290 - 'Hitbox: Add Certain Fields to Client Profile'
 	hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
