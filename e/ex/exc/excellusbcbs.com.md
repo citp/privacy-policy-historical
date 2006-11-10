@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excellusbcbs.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320185530id_/https%3A//www.excellusbcbs.com/about_us/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excellusbcbs.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110172735id_/https%3A//www.excellusbcbs.com/about_us/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,8 +6,7 @@ At Excellus BlueCross BlueShield, we know how important your privacy is to you. 
 
 Because we value your relationship with us, it is important that you understand our privacy policy for this Web site. We recognize and respect your desire for privacy when it comes to your personal information and health care affairs. We are committed to protecting online information according to applicable laws, regulations and accreditation standards and practices, and we continue to evaluate new administrative, technical and physical safeguards for protecting your information. 
 
-****  
-The purpose of this policy is to inform you of our information gathering and dissemination practices for this Web site, as well as handling of various situations related to privacy and confidentiality, including those involving requests for health information about persons covered under our benefit plans. 
+****The purpose of this policy is to inform you of our information gathering and dissemination practices for this Web site, as well as handling of various situations related to privacy and confidentiality, including those involving requests for health information about persons covered under our benefit plans.
 
 **Privacy Practice**
 
@@ -18,9 +17,9 @@ The purpose of this policy is to inform you of our information gathering and dis
 Non-Personally Identifiable Information collected when you use this Web site may be used for internal review purposes in the aggregate, including measuring and monitoring the use of our Web Site, diagnosing problems with our server, and administering our Web site. 
 
   4. **General Non-Confidentiality of Information Transmitted Via the Internet -** Excellus BlueCross BlueShield has implemented security features to help prevent the unauthorized release of or access to personal information that has been received via this Web site. Please be advised, however, that the confidentiality of any communication, information or other material transmitted to or from Excellus BlueCross BlueShield via this site or e-mail cannot be guaranteed. Accordingly, Excellus BlueCross BlueShield is not responsible for the security or confidentiality of information being transmitted via the Internet, the World Wide Web or other global computer networks. 
-  5. **Excellus's Right to Contact User** \- Excellus BlueCross BlueShield may contact site visitors who provide Excellus BlueCross BlueShield personally identifiable information regarding account status and changes to the subscriber agreement, privacy statement, or any other policies or agreements relevant to site visitors.
-  6.  **Excellus's Right to Change Privacy Policy** \- If we alter our privacy policy, we will post those changes here in a timely manner so you can be aware of changes that may affect you. Any change to this Privacy Policy shall be effective as to any visitor that has accepted the Excellus BlueCross BlueShield Web Site Terms and Conditions before the change was made.   
-
+  5. **Excellus' Right to Contact User** \- Excellus BlueCross BlueShield may contact site visitors who provide Excellus BlueCross BlueShield personally identifiable information regarding account status and changes to the subscriber agreement, privacy statement, or any other policies or agreements relevant to site visitors.
+  6.  **Excellus' Right to Change Privacy Policy** \- If we alter our privacy policy, we will post those changes here in a timely manner so you can be aware of changes that may affect you. Any change to this Privacy Policy shall be effective as to any visitor that has accepted the Excellus BlueCross BlueShield Web Site Terms and Conditions before the change was made. 
+  7. **Protecting Children Online** \- We are committed to protecting the privacy and security of all of our customers, including minors who are enrolled in our insurance plans. Children under the age of 13 can access our Web sites as guests. If they wish to use features on our Web sites, we require that they do so with the permission of their legal guardian. We will not knowingly collect or use any personal information regarding a user under the age of 13 without the consent of a parent or legal guardian.
 
 
 
@@ -65,7 +64,7 @@ It is our policy to keep all information about you confidential. It is so import
 
 
 
-Questions regarding Excellus's privacy policy may be directed to the Excellus Privacy Officer via postal mail:
+Questions regarding Excellus' privacy policy may be directed to the Excellus Privacy Officer via postal mail:
 
 Excellus BlueCross BlueShield Privacy Officer  
 Re: Web Site Privacy Policy   
