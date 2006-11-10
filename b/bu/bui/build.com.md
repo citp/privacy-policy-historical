@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319012848id_/http%3A//www.build.com/decor/static.pl%3FS%3DprivacyNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110094122id_/http%3A//www.build.com/decor/static.pl%3FS%3DprivacyNotice) for the most accurate reproduction.*
 
 # Build.com - Privacy Notice
 
