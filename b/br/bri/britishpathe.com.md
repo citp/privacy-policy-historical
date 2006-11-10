@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishpathe.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417235648id_/http%3A//www.britishpathe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishpathe.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110014753id_/http%3A//www.britishpathe.com/privacy.html) for the most accurate reproduction.*
 
 # British Pathe Limited
 
@@ -47,11 +47,11 @@ When you place an order or access your account information, we use a secure serv
 
 Cookies
 
-Most browsers accept cookies automatically, but you can set your browser to prevent this. If you choose not to accept our cookies, some services on our web site may not be as quick or responsive as they might. If you wish to receive information about how to opt out from receiving cookies, email info@britishpathe.com.
+Most browsers accept cookies automatically, but you can set your browser to prevent this. If you choose not to accept our cookies, some services on our web site may not be as quick or responsive as they might. If you wish to receive information about how to opt out from receiving cookies, email customerservices@itnsource.com.
 
 Review, correction or deletion of information from our records
 
-If for any reason you are concerned that the personal information maintained by British Pathe is not correct, or it changes or if you no longer desire our service we will endeavor to provide a way to correct, update or remove the data you have provided us with. This can be done by e-mailing us at info@britishpathe.com.
+If for any reason you are concerned that the personal information maintained by British Pathe is not correct, or it changes or if you no longer desire our service we will endeavor to provide a way to correct, update or remove the data you have provided us with. This can be done by e-mailing us at customerservices@itnsource.com.
 
 Your consent
 
