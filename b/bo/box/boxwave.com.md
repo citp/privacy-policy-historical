@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxwave.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315145319id_/http%3A//www.boxwave.com/contactus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxwave.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110064848id_/http%3A//www.boxwave.com/contactus/privacy.htm) for the most accurate reproduction.*
 
 # BoxWave - Privacy Policy
 
@@ -101,5 +101,4 @@ Our network of sites is not directed to children under the age of 13. We operate
 **Questions, comments**  
   
 Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail to our corporate offices at [help@boxwave.com](mailto:help@boxwave.com). We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site and program, or review and discard the information.  
-  
 
