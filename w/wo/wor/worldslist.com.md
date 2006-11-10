@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldslist.com privacy policy that was archived on 2006-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060526174523id_/http%3A//www.worldslist.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldslist.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110122736id_/http%3A//www.worldslist.com/us/privacy) for the most accurate reproduction.*
 
 # Worldslist : Terms of Use
 
@@ -34,7 +34,7 @@ Worldslist has established this privacy policy to explain to you how your inform
 **5\. Circumstances in which worldslist may release information**
 
   * Worldslist may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. 
-  * Worldslist may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](https://web.archive.org/web/20060526174523id_/http://www.worldslist.com/us/tou/); respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of worldslist, its users or the general public. 
+  * Worldslist may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](https://web.archive.org/web/20061110122736id_/http://www.worldslist.com/us/tou/); respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of worldslist, its users or the general public. 
 
 **6\. International Users**
 
