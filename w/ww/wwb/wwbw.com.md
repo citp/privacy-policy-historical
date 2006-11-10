@@ -1,11 +1,29 @@
-> *The following text is extracted and transformed from the wwbw.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615115450id_/http%3A//www.wwbw.com/customerservice/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwbw.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110225755id_/http%3A//www.wwbw.com/CustomerService/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Woodwind & Brasswind : Customer Service
+# Privacy Policy
 
-Sales 800-348-5003 | Outside US: 574-251-3500 |   
----|---  
+|   
+---  
+|  |   
+---  
+|   
   
-|  |   | 
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+[](https://web.archive.org/web/20061110225755id_/http%3A//www.wwbw.com/CustomerService/csShop_tradein.aspx)
+
+  
+
+
+[](https://www.scanalert.com/RatingVerify?ref=www.wwbw.com)
 
   
 Your privacy is important to us. We will not share any personally identifiable information with anyone for any reason without your explicit permission. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. 
@@ -54,18 +72,7 @@ Take Privacy Seriously
 
 We believe our Policy provides you with the safest shopping experience possible. Since offerings and technologies change, we reserve the right to change, modify, add or remove portions of our Privacy Policy at any time without prior notice. If policy changes are substantial, we will do our best to notify you.
 
-If you have any questions about the security of our website, or your privacy, please contact us.
-
-|    
----|---|---  
+If you have any questions about the security of our website, or your privacy, please contact us.  
   
-| 
-
-[ ](http://www.bizrate.com/ratings_guide/cust_reviews__mid--31908.html)  
-  
----|---  
-  
-© THE WOODWIND & BRASSWIND 2006   
-Woodwind and Brasswind is not responsible for typographical errors in pricing or product specification inaccuracies   
-in our catalogs or web site. Prices are subject to change without notice.   
-
+|  |  |  [](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.WWBW.COM&lang=en) |  [](https://web.archive.org/web/20061110225755id_/http%3A//www.wwbw.com/CustomerService/csShop_paytypes.aspx) |  [](http://www.the-dma.org/dmalogotext.html) |  [](https://web.archive.org/web/20061110225755id_/http%3A//www.wwbw.com/CustomerService/infoGSA.aspx) |  [](http://www.bizrate.com/ratings_guide/cust_reviews__mid--31908.html)  
+---|---|---|---|---
