@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619194147id_/http%3A//epam.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110085815id_/http%3A//epam.com/privacy.htm) for the most accurate reproduction.*
 
-# Offshore Software Development Outsourcing to Russia, Hungary, Ukraine, Belarus
+# EPAM Systems - No.1 Software Engineering Company in Central & Eastern Europe
 
 |   
 
 
-Print version [](https://web.archive.org/web/20060619194147id_/http%3A//epam.com/privacy-pv.htm)
+Print version [](https://web.archive.org/web/20061110085815id_/http%3A//epam.com/privacy-pv.htm)
 
 |  |  |  | 
 
