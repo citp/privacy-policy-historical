@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdrake.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320135530id_/http%3A//www.wdrake.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdrake.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111001520id_/http%3A//www.wdrake.com/privacy.aspx) for the most accurate reproduction.*
 
 # Walter Drake - Satisfying Customers for Over 50 Years!
 
@@ -85,7 +85,7 @@ While visiting wdrake.com, you may link to web sites operated by our partners or
 If you provide personal information at one of those other sites, you are subject to the privacy policy of that site, not Walter Drake's privacy policy. We encourage you to read that privacy policy before submitting any personal information to any other web site. 
 
 **Security Concerns**  
-We are committed to data security and the accuracy of our information (see Our [Security Policy ](https://web.archive.org/web/20060320135530id_/http%3A//www.wdrake.com/security.aspx)) received from domestic and foreign visitors to our site. Likewise, your recipient(s)' information is never shared with third parties. In addition, none of your information is merged with outside data for marketing purposes. 
+We are committed to data security and the accuracy of our information (see Our [Security Policy ](https://web.archive.org/web/20061111001520id_/http%3A//www.wdrake.com/security.aspx)) received from domestic and foreign visitors to our site. Likewise, your recipient(s)' information is never shared with third parties. In addition, none of your information is merged with outside data for marketing purposes. 
 
 We do ask that you please review the acknowledgment of your request that you will receive to insure the accuracy of the information submitted to us. As noted earlier, your information is never shared with any third party when you let us know by [e-mail](mailto:help@wdrake.com) , letter, phone or the do not solicit option on each location where we are collecting information. The only exception is response to your specific request for merchandise or information. It should be noted that if you do allow us to share information, the other companies may be governed by different privacy policies. 
 
