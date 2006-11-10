@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boscovs.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616060748id_/http%3A//www.boscovs.com/webapp/wcs/stores/servlet/PrivacyPolicyView%3FstoreId%3D10001%26langId%3D-1%26clearClickHist%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boscovs.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110133252id_/http%3A//www.boscovs.com/webapp/wcs/stores/servlet/PrivacyPolicyView%3FstoreId%3D10001%26langId%3D-1%26clearClickHist%3DY) for the most accurate reproduction.*
 
 # Boscov's Online - Your Full Service Department Store
 
@@ -6,9 +6,9 @@
 
 **BOSCOV'S PRIVACY POLICY**
 
-The following Privacy Policy is applicable to consumer customers of Boscov's Inc. and its affiliates that may provide consumer financial services, including Boscov's Department Stores, LLC (including Boscovs.com), Boscov's Receivables Finance Corp., Boscov's Credit Card Master Trust and Boscov's TravelCenter, Inc. ("Boscov's").
+The following Privacy Policy is applicable to consumer customers of Boscov's Inc. and its subsidiaries and affiliates that may provide consumer financial services, including Boscov's Department Stores, LLC (including Boscovs.com), Boscov's Receivables Finance Corp., Boscov's Credit Card Master Trust and Boscov's TravelCenter, Inc. ("Boscov's").
 
-At Boscov's, we respect our customers and understand that you are concerned about privacy, so we've instituted policies intended to ensure that your personal information is handled safely and responsibly.  We encourage you to refer to this policy on an ongoing basis so that you understand our Privacy Policy.  This policy was last updated on March 13, 2002.  If you have any questions about this policy you can contact us by mail at Customer Service, ATTN:  Privacy Manager, P.O. Box 4202, Reading, Pennsylvania 19606, by calling our Privacy Hotline at 1-800-755-2884 or click on "E-mail Us" at Boscovs.com.
+At Boscov's, we respect our customers and understand that you are concerned about privacy, so we've instituted policies intended to ensure that your personal information is handled safely and responsibly.  We encourage you to refer to this policy on an ongoing basis so that you understand our Privacy Policy.  This policy was last updated on February 13, 2006.  If you have any questions about this policy you can contact us by mail at Customer Service, ATTN:  Privacy Manager, P.O. Box 4202, Reading, Pennsylvania 19606, by calling our Privacy Hotline at 1-800-755-2884 or click on "E-mail Us" at Boscovs.com.
 
 **What Information Do We Collect?**
 
@@ -26,7 +26,7 @@ We collect additional various types of information, depending upon how you use o
 
 ·         When you order from us, we collect your name, address, e‑mail address, phone number and credit card number (with expiration date) or electronic gift card number.  We also gather information on the person who will receive any online gift, flower order through TheFlowerClub (e.g., that person's name and address) and retain a record of your purchases.
 
-·         When you sign up for express checkout, we collect your name, mailing address, e-mail address, credit card number and billing address, birthdate, and password and password clue (in case you forget your password).  We also may ask for additional information (e.g., about your favorite brands and interests), but you may have the option not to provide it.
+·         When you sign up for express checkout, we collect your name, mailing address, e-mail address, credit card number and billing address, birth date, and password and password clue (in case you forget your password).  We also may ask for additional information (e.g., about your favorite brands and interests), but you may have the option not to provide it.
 
 ·         When you enter a sweepstakes or contest online, we usually collect your name, address, e‑mail address and phone number.  We also may ask you for additional information, such as your age, interests, product preferences or zip code.
 
@@ -34,7 +34,7 @@ We collect additional various types of information, depending upon how you use o
 
 We also may receive some information about you from other sources and may add it to your account information.  For example, we might get your updated address from a shipper or information on your preferences from another unaffiliated company conducting a promotion or event with us.
 
-We may acquire customer lists from other parties so that we may invite them to become a new customer of Boscov's or visit us at Boscovs.com.  Each time we send an offer, we provide customers with the opportunity to opt out of receiving future offers.
+We may acquire customer lists from other parties so that we may invite them to become a new customer of Boscov's or visit us at Boscovs.com.  We provide customers with the opportunity to opt out of receiving future offers.
 
 Boscov's reserves the right to collect or otherwise obtain personally identifiable information about customers and potential customers in any lawful manner.
 
@@ -56,13 +56,13 @@ We use your information in a number of ways, including the following:
 
 ·         For marketing and promotional purposes.  For example, we may send direct mail, statement stuffers or e-mails to you about products or events that we think may be of interest to you.  We also may send you offers for discounts or free services (e.g., free gift wrap or shipping) on our website.
 
-·         Your information may also be needed to complete transactions you request or to provide services you have requested.  For example, we may need to use your information to keep track of your layaway, to determine if you have a Boscoverage contract or to keep track of your travel preferences.
+·         Your information may also be needed to complete transactions you request or to provide services you have requested.  For example, we may need to use your information to keep track of your layaway, to determine if you have a Boscoverage® contract or to keep track of your travel preferences.
 
 Boscov's reserves the right to use personally identifiable information about customers and potential customers in any lawful manner.
 
 **Do We Share Your Information?**
 
-The information gathered, for example, your name and address, may be shared with corporate affiliates within Boscov's.  We may also share the information with unaffiliated third parties, including responsible companies with which we have a relationship.  For example:
+The information gathered, for example, your name and address, may be shared with Boscov?s affiliates.  We may also share the information with unaffiliated third parties, including responsible companies with which we have a relationship.  For example:
 
 We may disclose the following kinds of personally identifiable information about you:
 
@@ -74,13 +74,13 @@ We may disclose the following kinds of personally identifiable information about
 
 We may disclose personally identifiable information about you to the following types of unaffiliated third parties as permitted by law:
 
-·         Other financial service providers. _  _For example, Boscov's is party to a "co-branded" Boscov's/VISA® dual-purpose credit card arrangement with Main Street Bank;
+·         Other financial service providers. _  _For example, Boscov's is party to a "co-branded" Boscov's/VISA® dual-purpose credit card arrangement with First Bankcard or other Financial Service Providers
 
 ·         Non‑financial companies, such as other retailers, publishers, direct marketers, companies that provide travel services through Boscov's TravelCenter;
 
-·         Web sites with which Boscov's has a joint marketing arrangement.  For example, the Flower club and American Greetings;
+·         Companies with which Boscov's has a joint marketing arrangement. For example Trilegiant; 
 
-·         Companies which we may utilize to provide extended services under our Boscoverage program or other in-home services.
+·         Companies which we may utilize to provide extended services under our Boscoverage® program or other in-home services.
 
 ·         Non-profit and community service organization that operate in communities we serve.
 
@@ -92,9 +92,9 @@ We may disclose personally identifiable information about you to the following t
 
 ·         Additionally, Boscov's may share account or other information when we believe it is necessary to comply with law or to protect our interests or property.  This may include sharing information with other companies, lawyers, credit bureaus, agents or government agencies in connection with issues related to fraud, credit or debt collection.
 
-In the event that some or all of the business assets of Boscov's are sold or transferred, we may transfer the corresponding information about our customers.
-
 Finally, Boscov's may share your personal information with unrelated outside companies so that they can directly market their products or services to you if we feel that a company offers products or services that we believe may be of interest.  We may also provide you with the opportunity to sign up at Boscovs.com in order to receive offers by e-mail.
+
+In the event that some or all of the business assets of Boscov's are sold or transferred, we may transfer the corresponding information about our customers.
 
 **Explanation of Opt** **-** **Out Rights**
 
@@ -114,7 +114,7 @@ Boscov's is committed to doing its best to maintain the security of information 
 
 We restrict access to nonpublic personal information about you to __ those employees who need to know that information to provide products or services to you _._   We maintain physical, electronic, and procedural safeguards to guard your nonpublic personal information.
 
-Private account and customer information is located on a secured server behind a firewall; it is not directly connected to the Internet.  The firewall meets recognized industry standards and exceeds the standards.
+Private electronic account and customer information is located on a secured server behind a firewall; it is not directly connected to the Internet.  The firewall meets or exceeds recognized industry standards.
 
 **What About Information About Children?**
 
@@ -124,4 +124,4 @@ The Children's Online Privacy Protection Act took effect on April 21, 2000 and
 
 We may change this Privacy Policy from time to time.  When such a change is made, we will post a revised version on the Boscovs.com website and make it available at our locations.  Changes will be effective when they are posted.  It is your responsibility to review this Privacy Policy from time to time to be aware of any such change.  Your continued use of any of Boscov's services, including Boscovs.com, will indicate your agreement to any such change.
 
-This Privacy Policy was last updated March 13, 2002.  Please check back periodically for updates and changes.
+This Privacy Policy was last updated February 13, 2006.  Please check back periodically for updates and changes.
