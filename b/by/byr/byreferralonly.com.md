@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byreferralonly.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612230512id_/http%3A//www.byreferralonly.com/about_us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byreferralonly.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110101409id_/http%3A//byreferralonly.com/about_us/privacy.htm) for the most accurate reproduction.*
 
 # By Referral Only®
 
