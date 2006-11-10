@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blessings.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617080743id_/http%3A//blessings.com/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blessings.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110205236id_/http%3A//www.blessings.com/priv.html) for the most accurate reproduction.*
 
 # Privacy
 
 Privacy Guidelines
 
-At Blessings your privacy is important to us.  We will do everything possible to protect the information you give us in the store or online.  The information we collect is important to operatingÂ  efficient and effective retail stores.  Our pledge to you is that we will protect and use this information with the utmost care and always to your benefit.
+At Blessings your privacy is important to us.  We will do everything possible to protect the information you give us in the store or online.  The information we collect is important to operating efficient and effective retail stores.  Our pledge to you is that we will protect and use this information with the utmost care and always to your benefit.
 
 Each Blessings store asks every customer for their phone number. We use this number to track our customer purchases. The information collected is used to determine which customers will receive the various promotional pieces we send.
 
@@ -26,11 +26,5 @@ We at Blessings Christian Marketplace will not give out phone numbers or emails 
 
 The information that Blessings Christian Marketplace maintains belongs to our customers. It is always available for viewing by the customer.
 
-For more information, questions or concerns please contact:
-
-Stuart Cameron  
-Blessings Christian Marketplace.  
-3155 Howard Ave.  
-Windsor On. N8X 4Y8.   
-[blessingscm@blessings.com](mailto:blessingscm@blessings.com)    
+For more information, questions or concerns please contact us at [blessingscm@blessings.com](mailto:blessingscm@blessings.com)    
  
