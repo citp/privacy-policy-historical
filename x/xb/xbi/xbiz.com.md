@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xbiz.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427185444id_/http%3A//xbiz.com/infopage_general.php%3Fid%3D934) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xbiz.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110011058id_/http%3A//xbiz.com/infopage_general.php%3Fid%3D934) for the most accurate reproduction.*
 
 # XBiz - The Industry Source for Adult Industry News and Adult Webmaster Resources
 
