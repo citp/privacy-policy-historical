@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628115609id_/http%3A//www.stardock.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110145023id_/http%3A//stardock.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement
+# Stardock: Privacy Statement
 
 ##  Privacy Statement for Stardock.com
 
@@ -11,6 +11,14 @@ _**WE DO NOT SHARE YOUR EMAIL ADDRESSES OR PERSONAL INFORMATION WITH ANYONE.**_
 ####  Information Automatically Logged
 
 We use your IP address to help diagnose problems with our server and to administer our Web site. This information is used to generate reports on the overall traffic to the site for bandwith planning and usage statistics. 
+
+####  Stardock Activation
+
+Beginning in 2005, some Stardock products require activation over the Internet to use their enhanced versions. Depending on if your order was directly through Stardock or through a third-party, we may ask for your first name, last name, email address, and the serial number/activation code for the product you have purchased. 
+
+Your IP address and number of activation attempts will also be logged. There are reasonable limits on how often you can activate a given product to help deter piracy, but for most users, this limit will not be reached. If you have difficulties, please contact support@stardock.com.
+
+This information will not be used by third parties, but may be used by Stardock to contact you about updates or other Stardock-related news.
 
 ####  Cookies
 
