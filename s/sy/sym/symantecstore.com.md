@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symantecstore.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513114826id_/http%3A//www.symantecstore.com/dr/v2/ec_main.entry25%3Fpage%3DGlobal-PrivacyPolicy%26client%3DSymantec%26sid%3D49997) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symantecstore.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110151342id_/http%3A//www.symantecstore.com/dr/v2/ec_main.entry25%3Fpage%3DGlobal-PrivacyPolicy%26client%3DSymantec%26sid%3D49997) for the most accurate reproduction.*
 
 # SymantecStore.com
 
