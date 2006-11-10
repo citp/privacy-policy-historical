@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensource.com privacy policy that was archived on 2005-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051210175823id_/http%3A//www.opensource.com/apps/redirect.apm/legal/privacy_statement.html%3Frhpage%3D/index.html/home_footer%2A%2A) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensource.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110191937id_/http%3A//www.opensource.com/apps/redirect.apm/legal/privacy_statement.html%3Frhpage%3D/index.html/home_footer%2A%2A) for the most accurate reproduction.*
 
 # redhat.com | Privacy Statement
 
