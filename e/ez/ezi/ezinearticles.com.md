@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezinearticles.com privacy policy that was archived on 2005-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050409034444id_/http%3A//www.ezinearticles.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinearticles.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110035148id_/http%3A//www.ezinearticles.com/privacy-policy.html) for the most accurate reproduction.*
 
 # EzineArticles Privacy Policy
 
@@ -23,7 +23,7 @@ Links
 This site contains links to other sites. EzineArticles.com is not responsible for the privacy practices or the content of such Web sites. EzineArticles.com recommends you refer to each Network Member's Privacy Statements.
 
 Sharing Information  
-EzineArticles.com does not share, sell or rent your email addresses to outside third parties. See our Third Party Information/List Referral Section below. Personally identifiable information will only be disclosed due to law or court demands (see our legal disclaimer below for more information)..
+EzineArticles.com does not share, sell or rent your email addresses to outside third parties. Personally identifiable information will only be disclosed due to law or court demands (see our legal disclaimer below for more information)..
 
 Supplementation of Information  
 We do not supplement your personally identifiable information with any outside third parties information.
