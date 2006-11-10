@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318013726id_/http%3A//www.bmwusa.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmwusa.com privacy policy that was archived on 2006-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061110131724id_/http%3A//www.bmwusa.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BMWUSA.com - BMW North America
 
