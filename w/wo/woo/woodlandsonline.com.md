@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodlandsonline.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615180158id_/http%3A//woodlandsonline.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodlandsonline.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111194645id_/http%3A//woodlandsonline.com/privacy.cfm) for the most accurate reproduction.*
 
 # Woodlands Online - Privacy Policy
 
