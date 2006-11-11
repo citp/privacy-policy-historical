@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utne.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025733id_/http%3A//www.utne.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utne.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111124534id_/http%3A//www.utne.com/privacy/index.html) for the most accurate reproduction.*
 
 # Utne.com: Privacy Policy
 
@@ -18,7 +18,7 @@ Utne.com's goal is to provide readers with the information they want and need. T
 
 **Personal Information**
 
-We will only collect personal identifying information that users voluntarily provide to us in registering for services (such as subscription registration, enewsletter, surveys, and entering contest entry forms. We may use that personal information editorially to improve and customize our content or we may send users occasional promotional messages about Utne's products and services. Users can revoke their consent at any time to stop their information from being used for marketing and promotional purposes by sending an email request to [Michael Fraase](http://www.utne.com/cgi-bin/udt/fdc.collector?client_id=utne&form_id=maileditform&link_id=80), or they can simply opt not to register for special services, surveys, and contests.
+We will only collect personal identifying information that users voluntarily provide to us in registering for services (such as subscription registration, enewsletter, surveys, and entering contest entry forms. We may use that personal information editorially to improve and customize our content or we may send users occasional promotional messages about Utne's products and services. Users can revoke their consent at any time to stop their information from being used for marketing and promotional purposes by sending an email request to [Hannah Lobel](http://www.utne.com/cgi-bin/udt/fdc.collector?client_id=utne&form_id=maileditform&link_id=100), or they can simply opt not to register for special services, surveys, and contests.
 
 Utne.com will limit internal access to user information to employees responsible for conducting business with our customers.
 
