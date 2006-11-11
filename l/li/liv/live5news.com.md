@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the live5news.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615125340id_/http%3A//www.wcsc.com/about_us/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live5news.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111125837id_/http%3A//www.wcsc.com/privacy) for the most accurate reproduction.*
 
-# Live 5 News > About Us
+# Live 5 news - WCSC Privacy Policy
 
-This document describes WCSC-TV 5's [live5news.com and hurricane.live5news.com] policy regarding information received about you during visits to our web site. The amount and type of information received depends on how you use our site. 
+This document describes WCSC-TV 5's [live5news.com and hurricane.live5news.com] policy regarding information received about you during visits to our web sites. The amount and type of information received depends on how you use our site. 
 
 **Normal Web Site Usage**
 
@@ -31,3 +31,7 @@ WCSC-TV 5 [live5news.com and hurricane.live5news.com] does not use cookies at th
 **Changes**
 
 We reserve the right to change our Privacy Policy. A revised Privacy Policy will only apply to data collected subsequent to its effective date. We reserve the right to modify or discontinue our web site and this Policy at any time. 
+
+Story Created: May 24, 2006 at 12:10 PM EST 
+
+Story Updated: May 24, 2006 at 12:21 PM EST 
