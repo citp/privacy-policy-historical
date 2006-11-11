@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exposuremanager.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615170400id_/http%3A//www.exposuremanager.com/scripts/website.pl%3Frm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exposuremanager.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111134417id_/http%3A//www.exposuremanager.com/scripts/website.pl%3Frm%3Dprivacy) for the most accurate reproduction.*
 
 # ExposureManager - Sell More Photos
 
