@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214337id_/http%3A//toyota.com/html/privacy/index.html%3Fs_van%3DGM_BTN_PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111174738id_/http%3A//www.toyota.com/html/privacy/index.html%3Fs_van%3DGM_BTN_PRIVACY) for the most accurate reproduction.*
 
 # Toyota.com : Help : Privacy
 
