@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615182256id_/http%3A//www.thehorse.com/ViewArticle.aspx%3FID%3D2545) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111045740id_/http%3A//thehorse.com/ViewArticle.aspx%3FID%3D2545) for the most accurate reproduction.*
 
 # TheHorse.com Privacy Policy - TheHorse.com
 
@@ -60,7 +60,7 @@ If we decide to change our privacy policy, we will post a notification of such c
 
 If you feel that this company is not abiding by its posted privacy policy, please send an e-mail to [admin@TheHorse.com](mailto:admin@%3CB%3ETheHorse.com%3C/b%3E?subject=%3CB%3ETheHorse.com%3C/b%3E%20Privacy%20Policy). 
 
-[](https://www.thehorse.com/Subscriptions/THSubscribe.aspx?SC=CQ06Z255TH)  
+[](https://www.thehorse.com/Subscriptions/THSubscribe.aspx?SC=CQ06Z304TH)  
 
 
 * * *
