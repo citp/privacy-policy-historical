@@ -1,22 +1,8 @@
-> *The following text is extracted and transformed from the worldcasinodirectory.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616171614id_/http%3A//www.worldcasinodirectory.com/wcdprivpol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcasinodirectory.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111190306id_/http%3A//www.worldcasinodirectory.com/wcdprivpol.htm) for the most accurate reproduction.*
 
-# World Casino Directory - Privacy Policy
+# Privacy Policy : World Casino Directory
 
-| 
-
-**THE PRIVACY OF WORLD CASINO DIRECTORY'S USERS, AND ALL USERS OF THE INTERNET, IS OF PARAMOUNT CONCERN TO WORLD CASINO DIRECTORY.**   
-
-
-  
-
-
-World Casino Directory is in the business of developing, designing and operating the most comprehensive and most up-to-date directory of casinos around the world.
-
-We are ** NOT** in the business of selling your personal information.  The Gaming Industry, more than almost any other, rests on a foundation of trust and discretion. 
-
-World Casino Directory protects the privacy of its visitors and does not divulge any confidential information to third parties, whatsoever, without the express, case-by-case consent of the party involved except in the few scenarios outlined below.
-
- ** **THIS PRIVACY POLICY DESCRIBES WORLD CASINO DIRECTORY'S USE OF, AND ATTITUDE TO, YOUR PERSONAL INFORMATION.****
+THIS PRIVACY POLICY DESCRIBES WORLD CASINO DIRECTORY'S USE OF, AND ATTITUDE TO, YOUR PERSONAL INFORMATION.
 
   
 
