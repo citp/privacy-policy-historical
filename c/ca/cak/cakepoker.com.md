@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakepoker.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617040209id_/http%3A//cakepoker.com/Integrity/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakepoker.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111171305id_/http%3A//cakepoker.com/Integrity/Privacy.aspx) for the most accurate reproduction.*
 
 # Cake Poker
 
@@ -50,8 +50,14 @@ In the case of any conflicting presentation between this Privacy Policy and the 
 
 ## Who are we? 
 
-Cake Gaming N.V.  
+Cake Gaming N.V.,  
 Van Engelenweg 23  
 Curacao,   
-Netherlands Antilles  
+Netherlands Antilles
 
+Credit card transactions are processed by   
+Veneelco Ltd.,   
+Eagle Star House   
+CY PO 3030 Theklas Lysiota 35  
+Cyprus   
+a wholly owned subsidiary of Cake Gaming N.V. 
