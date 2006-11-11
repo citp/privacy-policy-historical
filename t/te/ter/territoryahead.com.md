@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the territoryahead.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417183736id_/http%3A//www.territoryahead.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D237%26path%3D1%252C2%252C195%252C237) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the territoryahead.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111184015id_/http%3A//www.territoryahead.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D237%26path%3D1%252C2%252C195%252C237) for the most accurate reproduction.*
 
-# The Territory Ahead
+# The Territory Ahead - Privacy & Security
 
   
 **We Respect Your Privacy**  
@@ -26,7 +26,7 @@ Attn: Customer Service
 419 State St  
 Santa Barbara, CA 93101-2304**
 
-The Territory Ahead is a member of the Direct Marketing Association (DMA), and follows DMA privacy guidelines. The DMA’s Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on www.dmaconsumers.org
+The Territory Ahead is a member of the Direct Marketing Association (DMA), and follows DMA privacy guidelines. The DMA’s Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmaconsumers.org](http://www.dmaconsumers.org/)
 
   
 A cookie is a small data file that is sent by a web server (in this case, our servers) to your computer. We use cookies to save your shopping cart items for up to two weeks should you leave our site prior to order checkout. Also, we use cookies to activate email promotions such as free shipping and order discounts once you click through to our web site. This enables you to automatically receive the promotion during the online order transaction.
