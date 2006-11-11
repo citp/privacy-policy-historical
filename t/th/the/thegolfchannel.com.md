@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegolfchannel.com privacy policy that was archived on 2005-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050309010819id_/http%3A//www.thegolfchannel.com/core.aspx%3Fpage%3D15100%26select%3D1297) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegolfchannel.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111201759id_/http%3A//www.thegolfchannel.com/core.aspx%3Fpage%3D15100%26select%3D1297) for the most accurate reproduction.*
 
 # The Golf Channel - TGC - Privacy Policy - December 20, 2000
 
@@ -36,7 +36,7 @@ Although guests under 13 years of age may be allowed to participate in some cont
 
 We do not allow guests under 13 years of age to be listed in our member directory or to receive direct marketing communications from TheGolfChannel.com.
 
-The parent or guardian of any guest under 13 years of age may review and modify the guest's personal information at the member services page at [INSERT LINK TO MEMBER SERVICES PAGE] or by contacting our webmaster at webmaster@tgcinc.com.
+The parent or guardian of any guest under 13 years of age may review and modify the guest's personal information at the member services page at [INSERT LINK TO MEMBER SERVICES PAGE] or by contacting our webmaster at webmaster@thegolfchannel.com.
 
 POLICIES FOR TEENS (INDIVIDUALS 13 TO 17 YEARS OF AGE)
 
@@ -87,4 +87,4 @@ YOUR ACCEPTANCE OF THESE TERMS
 
 By using this site, you signify your assent to the TheGolfChannel.com Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the TheGolfChannel.com sites following the posting of changes to these terms will mean you accept those changes. 
 
-If you have questions regarding this statement should be directed to the webmaster by email at webmaster@tgcinc.com, by phone at (407) 248-3300, or by postal mail at: TheGolfChannel.com ATTN: Webmaster, 7657 Commerce Center Drive, Orlando, Florida 32819 
+If you have questions regarding this statement should be directed to the webmaster by email at webmaster@thegolfchannel.com, by phone at (407) 248-3300, or by postal mail at: TheGolfChannel.com ATTN: Webmaster, 7657 Commerce Center Drive, Orlando, Florida 32819 
