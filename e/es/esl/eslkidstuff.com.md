@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eslkidstuff.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616064923id_/http%3A//www.eslkidstuff.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eslkidstuff.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111163215id_/http%3A//eslkidstuff.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
