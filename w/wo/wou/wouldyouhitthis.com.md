@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wouldyouhitthis.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615102045id_/http%3A//wouldyouhitthis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wouldyouhitthis.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111100534id_/http%3A//wouldyouhitthis.com/privacy.php) for the most accurate reproduction.*
 
 # WouldYouHitThis? Privacy Policy
 
@@ -42,7 +42,7 @@ Data Quality/Access:
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-You can visit the following URL: http://www.woulyouhitthis.com/profile.php
+You can visit the following URL: http://www.wouldyouhitthis.com/profile.php
 
 Contacting the Web Site:
 
