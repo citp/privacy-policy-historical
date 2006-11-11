@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320170344id_/http%3A//www.techsupportalert.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111015619id_/http%3A//www.techsupportalert.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Tech Support Alert Privacy Policy
 
@@ -14,7 +14,8 @@ I unconditionally respect the privacy of my newsletter subscribers and site visi
 
   * **Un-subscriptions.** I send my newsletters only to those who request them and immediately un-subscribe those who request it.  Every issue of my newsletters explains how to subscribe  and un-subscribe.
 
-  *  **Security.** I store subscriber and password files with personal information in a secure manner not accessible to Web browsers or behind password protection or off-line.
+  *  **Security.** I store subscriber email addresses in a secure manner not accessible to Web browsers or off-line.  
+
   *  **Choice and Consent.** I respect the purpose for which my site visitors give me their email address and other information. I inform users exactly how this information is used and give them choice and consent over this use including the removal of  names immediately upon request.
 
 
