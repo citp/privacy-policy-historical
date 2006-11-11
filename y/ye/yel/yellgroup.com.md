@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yellgroup.com privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430211517id_/http%3A//www.yellgroup.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellgroup.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111155538id_/http%3A//www.yellgroup.com/english/privacypolicy) for the most accurate reproduction.*
 
-# Yell: Privacy Policy
+# Yell Group - Privacy policy
 
 Yell places great importance on your privacy. It is important for us to safeguard your privacy while providing a valuable and personalised service. Accordingly, we have established a privacy policy. This statement explains our policy and our data protection practices. 
 
@@ -14,3 +14,5 @@ We take the security of your personal data extremely seriously. As required by t
 
 **Cookie Use**  
 Cookies are pieces of information that a Web site transfers to your computer's hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences on particular sites, thus enabling Web site owners to provide more useful features for their users. (The use of cookies is an industry standard.) Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to refuse cookies, however, you may not be able to take full advantage of a Web site if you do so.
+
+[^ Back to top](https://web.archive.org/english/privacypolicy#top "Back to top") | [Print page](javascript:window.print\(\); "Print page")
