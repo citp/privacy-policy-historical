@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the spineuniverse.com privacy policy that was archived on 2006-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060327171212id_/http%3A//www.spineuniverse.com/displayarticle.php/article62.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spineuniverse.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111044636id_/http%3A//www.spineuniverse.com/displayarticle.php/article62.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
-| | **100% FREE SpineUniverse Newsletter for Patients.  
-Enter your email address and we'll send it at no charge! **  
----|---  
-  
 SpineUniverse was founded by doctors. Patient privacy has a longstanding tradition in medicine. In fact, the Hippocratic Oath (which is sworn to by physicians around the world), is over 2000 years old, and contains very specific requirements about patient privacy. Our privacy policy is stringent.
 
 We will only collect information that is voluntarily provided by our visitors. No cookies, scripts or other method will ever be employed to obtain extra information without the approval of our member.
@@ -23,4 +19,6 @@ Any financial transaction occuring via SpineUniverse will occur over an encrypte
 If you have any questions about our privacy policy, please feel free to contact us at [feedback@SpineUniverse.com](mailto:feedback@spineuniverse.com)
 
   
-
+| | **100% FREE SpineUniverse Newsletter for Patients.  
+Enter your email address and we'll send it at no charge! **  
+---|---
