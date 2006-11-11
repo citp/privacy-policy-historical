@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x-cart.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022651id_/http%3A//x-cart.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x-cart.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112000128id_/http%3A//www.x-cart.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Shopping Cart Software & Ecommerce Solutions: X-Cart.
 
