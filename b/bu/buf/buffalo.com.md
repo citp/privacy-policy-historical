@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalo.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321125646id_/http%3A//www.buffalo.com/link.asp%3Flink%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalo.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111050658id_/http%3A//www.buffalo.com/link.asp%3Flink%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ Children must be 13 years of age or older to become a registered member of E-ven
 
 See the [Terms of Service](http://mail.buffalo.com/templates/common/us/tos.htm) for Buffalo.comSM Free Email Service.
 
-Please take a few minutes to review Buffalo.com'sSM [Visitor Agreement](https://web.archive.org/web/20060323114651id_/http://www.buffalonews.com/services/visitor.asp).
+Please take a few minutes to review Buffalo.com'sSM [Visitor Agreement](https://web.archive.org/web/20061110181847id_/http://www2.buffalonews.com/services/visitor.asp).
 
 Any changes to our privacy policy will be posted. 
 
