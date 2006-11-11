@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the wowktv.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615133515id_/http%3A//www.wboy.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowktv.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111103558id_/http%3A//www.wboy.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.*
 
 # WBOY-TV – News for Clarksburg, Fairmont, Morgantown, West Virginia
 
-|  |   | 
-
-[Home](https://web.archive.org/web/20060615133515id_/http%3A//www.wboy.com/index.cfm) > Privacy Policy
+|   
+---  
+[ ](https://web.archive.org/web/20061111103558id_/http%3A//www.wboy.com/click.cfm?adid=173)  
+  
+[Home](https://web.archive.org/web/20061111103558id_/http%3A//www.wboy.com/index.cfm) > Privacy Policy
 
 Privacy Policy
 
@@ -50,17 +52,3 @@ If you have any questions or concerns about this Privacy Policy you may contact 
 
  **Updates**  
 We may update this privacy policy. Please check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
-
-|   | 
-
-  **June 15, 2006**
-
-| **Site Tools**  
----  
-  | [](https://web.archive.org/page.cfm?pageid=316&printview=1) | [**Print this Page**](https://web.archive.org/page.cfm?pageid=316&printview=1)  
-  | [](https://web.archive.org/web/20060615133515id_/http%3A//www.wboy.com/features.cfm?func=emailstory&page=page.cfm&qstring=pageid%3D316) | [**Email this Page**](https://web.archive.org/web/20060615133515id_/http%3A//www.wboy.com/features.cfm?func=emailstory&page=page.cfm&qstring=pageid%3D316)  
-  | [](https://web.archive.org/web/20060615133515id_/http%3A//www.wboy.com/features.cfm?func=mostemailed) | [**Most Emailed Pages**](https://web.archive.org/web/20060615133515id_/http%3A//www.wboy.com/features.cfm?func=mostemailed)  
-  |  | **Make Us Your Homepage**  
-  | [](http://www.wboy.com/WBOY.xml) | [**RSS Feed**](http://www.wboy.com/WBOY.xml)  
-  
-[ ](https://web.archive.org/web/20060615133515id_/http%3A//www.wboy.com/click.cfm?adid=106)
