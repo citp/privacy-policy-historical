@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wsoctv.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617013415id_/http%3A//www.wsoctv.com/station/1919490/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsoctv.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111123944id_/http%3A//www.wsoctv.com/station/1919490/detail.html) for the most accurate reproduction.*
 
-# WSOCTV.com - WSOC-TV - Privacy Policy
+# Privacy Policy - WSOC-TV - WSOCTV.com | WSOC
 
 Effective date: 1/23/03 
 
@@ -28,6 +28,8 @@ The more you tell us about yourself, the more value we can offer you. Supplying 
 **Email Newsletters.** We may also offer you the opportunity to subscribe to email newsletters on topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you may always unsubscribe later if you decide not to receive further mailings of the newsletter from us. See "Opting Out" below. Cookies. To help make our sites more responsive to the needs of our visitors, we use a standard feature of browser software, called a "cookie," to assign each visitor a unique, random number, a sort of user ID, if you will, that resides on your computer. The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won't know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can't read unrelated data off your hard drive. Our advertisers and the third parties that provide products or services through our site may also assign their own cookies to your browser, a process that we don't control.
 
 We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. For example, we use cookies to avoid showing you the same ad, repeatedly, during a single visit. In addition, we may use cookies to track the pages on our site visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our site.
+
+We also may use cookies to allow third parties to better serve advertisements to you outside of this website on websites operated by Internet Broadcasting Systems, Inc. and other websites.
 
 **Other Methods of Collecting Information.** Our web pages may contain electronic images (called "single-pixel GIFs" or "web beacons") that allow us and our vendors to count users who have visited particular pages or to access certain cookies. We may use these tools and other technologies to recognize which pages users visit, and which links they click on. These features may also be included in our email newsletters so that we can learn which messages have been opened and acted upon. We may also be able to verify your online purchases from us or from third party sites that have agreed to share such information with us.
 
