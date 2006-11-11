@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k-international.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509021416id_/http%3A//k-international.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k-international.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112002614id_/http%3A//k-international.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # About K International plc Translation Services
 
@@ -24,18 +24,18 @@ Personal information collected on this website is used primarily for the purpose
 
 ### Links
 
-[Mission statement](https://web.archive.org/web/20060509021416id_/http%3A//k-international.com/About_Us_01.htm)
+[Mission statement](https://web.archive.org/web/20061112002614id_/http%3A//k-international.com/About_Us_01.htm)
 
-[About our company](https://web.archive.org/web/20060509021416id_/http%3A//k-international.com/About_Us_02.htm)
+[About our company](https://web.archive.org/web/20061112002614id_/http%3A//k-international.com/About_Us_02.htm)
 
-[Language solutions](https://web.archive.org/web/20060509021416id_/http%3A//k-international.com/About_Us_03.htm)
+[Language solutions](https://web.archive.org/web/20061112002614id_/http%3A//k-international.com/About_Us_03.htm)
 
-[Our services](https://web.archive.org/web/20060509021416id_/http%3A//k-international.com/About_Us_04.htm)
+[Our services](https://web.archive.org/web/20061112002614id_/http%3A//k-international.com/About_Us_04.htm)
 
-[Sign up for ezine](https://web.archive.org/web/20060509021416id_/http%3A//k-international.com/About_Us_06.htm)
+[Sign up for ezine](https://web.archive.org/web/20061112002614id_/http%3A//k-international.com/About_Us_06.htm)
 
-[Translation Healthcheck ](https://web.archive.org/web/20060509021416id_/http%3A//k-international.com/Health_Check.htm)
+[Translation Healthcheck ](https://web.archive.org/web/20061112002614id_/http%3A//k-international.com/Health_Check.htm)
 
-[Get a quote](https://web.archive.org/web/20060509021416id_/http%3A//k-international.com/Quote.asp)
+[Get a quote](https://web.archive.org/web/20061112002614id_/http%3A//k-international.com/Quote.asp)
 
-[Contact us](https://web.archive.org/web/20060509021416id_/http%3A//k-international.com/Contact_Us.htm)
+[Contact us](https://web.archive.org/web/20061112002614id_/http%3A//k-international.com/Contact_Us.htm)
