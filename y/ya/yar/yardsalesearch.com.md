@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yardsalesearch.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319091648id_/http%3A//yardsalesearch.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yardsalesearch.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111190642id_/http%3A//yardsalesearch.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,4 +20,4 @@ Our site, as well as most sites on the Internet, use "cookies" to enhance your e
 
 If you would like to "opt out," that is, to prevent any data from being stored by us, simply not signing up for any of our voluntary mailing lists or participating in discussion forums is sufficient. 
 
-If you have any additional questions about our site' dedication to consumer privacy, please [contact us](https://web.archive.org/web/20060319091648id_/http%3A//yardsalesearch.com/contact.shtml). 
+If you have any additional questions about our site' dedication to consumer privacy, please [contact us](https://web.archive.org/web/20061111190642id_/http%3A//yardsalesearch.com/contact.shtml). 
