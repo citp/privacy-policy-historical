@@ -1,12 +1,24 @@
-> *The following text is extracted and transformed from the straight.com privacy policy that was archived on 2005-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051220051613id_/http%3A//www.straight.com/content.cfm%3Fid%3D130) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straight.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111220511id_/http%3A//www.straight.com/content.cfm%3Fid%3D21576) for the most accurate reproduction.*
 
 # Straight.com Vancouver | Static Templates | Client Privacy Policy
+
+[ ](https://web.archive.org/)   
+[ enlarge](https://web.archive.org/web/20061111220511id_/http%3A//content.cfm?id=19358)
+
+[ ](https://web.archive.org/section.cfm?id=313) Next Issue:  
+November 30, 2006
+
+[ ](https://web.archive.org/section.cfm?id=318) Next Issue:  
+March 29, 2007
+
+[ ](https://web.archive.org/section.cfm?id=380) Next Issue:  
+February 1, 2007
 
 | 
 
 ##  Client Privacy Policy 
 
-Publish Date: 1-Jan-2004 
+Publish Date: 26-Oct-2006 
 
 ### INTRODUCTION
 
@@ -42,7 +54,7 @@ No personal information will be disclosed without written consent of the individ
 
 The client may withdraw consent for the disclosure, collection or use of personal information at any time. However, withdrawal of consent does not apply if it conflicts with the company’s legal obligations. 
 
-Collection of Information on our Website (for our complete Online Privacy Policy, click [here](https://web.archive.org/web/20051220051613id_/http%3A//www.straight.com/content.cfm?id=124).) 
+Collection of Information on our Website (for our complete Online Privacy Policy, click [here](https://web.archive.org/web/20061111220511id_/http%3A//www.straight.com/content.cfm?id=124).) 
 
 The Georgia Straight uses web server logs as well as 'cookies' - simple text files that web browsers place on computer hard drives when sites are visited - to help measure the number of visits, which pages have been viewed, average amount of time spent on the website and other such statistics relating to use of our site. This information, by itself, doesn't tell us your email address or who you are, no personal information is stored within the server logs or the cookies, nor do cookies damage files or read information from a user's hard drive. Please note certain features on our sites may not function if you do not accept cookies. We do not link any data collected to any personal information submitted online. 
 
@@ -60,23 +72,20 @@ If you would like to file a complaint please use the contact information provide
 
 ### POLICY OFFICER CONTACT INFORMATION
 
-### Policy Officers:  
+### Policy Officer:  
 
 
-Patrick Fowler – Controller  
 Kelley Riley - Director, Human Resources
 
 ### Mailing Address:  
 
 
 The Georgia Straight  
-2nd floor, 1770 Burrard St.  
+1701 West Broadway  
 Vancouver, BC  
-V6J 3G7 
+V6J 1Y3 
 
 Phone 604-730-7000  
 Fax 604-730-7010 
 
 | 
-
-[ ](http://www.straight.com/wuf3.cfm)
