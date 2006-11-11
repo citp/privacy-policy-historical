@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapon.com privacy policy that was archived on 2006-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060423084403id_/http%3A//www1.snapon.com/display/router.asp%3Fdocid%3D2986) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapon.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111221451id_/http%3A//corporate.snapon.com/display/privacypolicy.nws) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@
 
 The privacy of your personally identifiable information is important to us. As part of our commitment to the privacy of your personally identifiable information that we collect online ("Personal Information"), we provide this notice explaining our online information practices and the choices you can make about the way your Personal Information is collected and used at this site. To make this notice easy to find, we make it available on our homepage and at every point where Personal Information is requested. This revised Privacy Policy is effective as of October 26, 2004.
 
-The privacy practices set forth in this Privacy Policy are for this site only. Other Snap-on Tools Company LLC ("Snap-on") affiliate Web sites may have different practices. If you link to or otherwise visit any other Web sites, please review the privacy policies posted at those sites. Also, if you are an employee of Snap-on or its affiliate, please note that other internal company policies apply to you related to employee use of company computer systems and networks.
+The privacy practices set forth in this Privacy Policy are for this site only. Other Snap-on Tools Company LLC ("Snap-on") affiliate Web sites may have different practices. If you link to or otherwise visit any other Web sites, please review the privacy policies posted at those sites. Also, if you are an employee of Snap-on or its affiliate, please note that other internal company policies apply to you related to employee use of company computer systems and networks. 
 
 **Consent**
 
@@ -34,7 +34,7 @@ The Web site may "passively" collect certain kinds of information during your vi
 
 _Cookies_ : "Cookies" are small text files sent from a website to the hard drive of a user's computer to store bits of information related to that user. Cookies can store a variety of information, including IP addresses, navigational data, server information, data transfer times, user preferences, and passwords needed to access the special areas on the Site. We use cookies for the purpose of operating a shopper's ID to keep track of items in your shopping cart. We also use cookies to identify who you are after you log in or register. We also use cookies to create a more personalized experience on our Web site, for instance, by making you aware of what's new on our Web site since your last visit. You usually can configure your Internet browser to reject cookies. However, if you do so, you might not be able to access certain pages or use important functions on the Web site.
 
-_Other Passive Web site Tracking_. This Web site also uses Internet Protocol (IP) addresses and log files to identify server problems, to improve site content, and compile aggregated statistics about Web site usage and clickstream data. We also use Web beacons to help personalize your experience, similarly to how we use cookies. Companies that help us place advertisements on our site use Web beacons to serve cookies and advertisements. We also use Web beacons to gather non-personally identifiable information about the number of users who visit our Web site, the areas which they spend their time visiting, and other demographic data. Only Snap-on and our advertising agency will have access to the data obtained with Web beacons.
+_Other Passive Web site Tracking_. This Web site also uses Internet Protocol (IP) addresses and log files to identify server problems, to improve site content, and compile aggregated statistics about Web site usage and clickstream data. We also use Web beacons to help personalize your experience, similarly to how we use cookies. Companies that help us place advertisements on our site use Web beacons to serve cookies and advertisements. We also use Web beacons to gather non-personally identifiable information about the number of users who visit our Web site, the areas which they spend their time visiting, and other demographic data. Only Snap-on and our advertising agency will have access to the data obtained with Web beacons. 
 
 **Snap-on also reserves the right to introduce new passive tracking technologies and techniques related to the use of the Web site. In general, we do not link your identity with information that we collect passively. However, in any situation where you log in with your username and password, any or all of the information that is passively collected about your activities on the Web site may be linked with your identity, and therefore may become Personal Information about you.**
 
@@ -54,7 +54,7 @@ We may disclose Personal Information in response to legal process or when we bel
 
 We may share Personal Information with our consultants or service providers to help us serve you better. We also contract other companies and individuals (collectively "Suppliers") to perform functions on our behalf, including without limitation, fulfilling and processing orders, processing credit card payments, handling shipping and returns, sending communications to you, and providing customer services. We require the Suppliers to agree to abide by Snap-on's privacy policy and only use your Personal Information, including certain Personal Data related to financial payments, such as credit/debit card/procurement card information, only until payment for your order is processed, and only to the extent necessary to perform their functions, and may not use it for any other purpose.
 
-We will not use or share the Personal Information provided to us online in ways unrelated to the ones described above without first providing you an opportunity to opt out or otherwise prohibit such unrelated uses.
+We will not use or share the Personal Information provided to us online in ways unrelated to the ones described above without first providing you an opportunity to opt out or otherwise prohibit such unrelated uses. 
 
 **Customization and Aggregate data**
 
@@ -89,6 +89,4 @@ Sometimes we may offer promotions or specials that are sponsored by or co-sponso
 Our privacy practices, like the online medium itself, are subject to change. We reserve the right to change this policy from time to time in our sole discretion. Please check this policy frequently and particularly before you submit additional Personal Information via the Web site. All revisions to this Privacy Policy will be posted on the site via a link from the home page of the site. In the event that we change a significant or material term in this Privacy Policy, we will notify affected visitors by revising the link on the home page to read **"Newly Revised Privacy Policy"** that notifies visitors of the change.
 
 **How to Contact Us**  
-Should you have other questions or concerns about these privacy policies, please send an email to [eorders@snapon.com](mailto:eorders@snapon.com) or mail correspondence to Snap-on Tools Company LLC, 2801 80th Street, P.O. Box 1410, Kenosha, WI 53141-1410.  
-  
-. . 
+Should you have other questions or concerns about these privacy policies, please send an email to [eorders@snapon.com](mailto:eorders@snapon.com) or mail correspondence to Snap-on Tools Company LLC, 2801 80th Street, P.O. Box 1410, Kenosha, WI 53141-1410. 
