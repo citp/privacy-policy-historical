@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the wowktv.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615133515id_/http%3A//www.wboy.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wowktv.com privacy policy that was archived on 2006-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061111103558id_/http%3A//www.wboy.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	
 	<title>WBOY-TV – News for Clarksburg, Fairmont, Morgantown, West Virginia</title>
 	
+	<meta name="AUTHOR" content="jtester@wvmh.com">
 	<link rel="alternate" title="12 News RSS Feed" href="http://www.wboy.com/WBOY.xml" type="application/rss+xml">
-	<link rel="STYLESHEET" type="text/css" href="http://www.wboy.com/style.css">
 	<link rel="SHORTCUT ICON" href="http://www.wboy.com/WBOY_favicon.ico">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="anylink.css">
 	
 	<script language="JavaScript" type="text/javascript">
 	<!--
@@ -23,323 +25,520 @@
 		}
 	//-->
 	</script>
+	<script type="text/javascript">
+
+function countdown_clock(year, month, day, hour, minute)
+         {
+         //I chose a div as the container for the timer, but
+         //it can be an input tag inside a form, or anything
+         //who's displayed content can be changed through
+         //client-side scripting.
+       	 html_code = '<div id="clock">Count Downt</div>';
+         document.write(html_code);
+
+         countdown(year, month, day, hour, minute);
+         }
+
+function countdown(year, month, day, hour, minute)
+         {
+         Today = new Date();
+         Todays_Year = Today.getFullYear() - 2000;
+         Todays_Month = Today.getMonth() + 1;
+
+         //Convert both today's date and the target date into miliseconds.
+         Todays_Date = (new Date(Todays_Year, Todays_Month, Today.getDate(),
+                                 Today.getHours(), Today.getMinutes(), Today.getSeconds())).getTime();
+         Target_Date = (new Date(year, month, day, hour, minute, 00)).getTime();
+
+         //Find their difference, and convert that into seconds.
+         Time_Left = Math.round((Target_Date - Todays_Date) / 1000);
+
+         if(Time_Left < 0)
+            Time_Left = 0;
+
+        //More datailed.
+        days = Math.floor(Time_Left / (60 * 60 * 24));
+        Time_Left %= (60 * 60 * 24);
+        hours = Math.floor(Time_Left / (60 * 60));
+        Time_Left %= (60 * 60);
+        minutes = Math.floor(Time_Left / 60);
+        Time_Left %= 60;
+        seconds = Time_Left;
+
+        dps = 's'; hps = 's'; mps = 's'; sps = 's';
+        //ps is short for plural suffix.
+        if(days == 1) dps ='';
+        if(hours == 1) hps ='';
+        if(minutes == 1) mps ='';
+        if(seconds == 1) sps ='';
+		sContent = '<table><tr><td>Days</td><td>Hours</td><td>Minutes</td><td>Seconds</td></tr><tr>';
+        sContent += '<td align="center">' + days + '</td>';
+        sContent += '<td align="center">' + hours + '</td>';
+        sContent += '<td align="center">' + minutes + '</td>';
+        sContent += '<td align="center">' + seconds + '</td>';
+        sContent += '</tr></table>';
+		document.getElementById("clock").innerHTML = sContent;
+         //Recursive call, keeps the clock ticking.
+         setTimeout('countdown(' + year + ',' + month + ',' + day + ',' + hour + ',' + minute + ');', 1000);
+         }
+
+</script> <script type="text/javascript">
+
+function countdownclock(TargetDate,message)
+         {
+         //I chose a div as the container for the timer, but
+         //it can be an input tag inside a form, or anything
+         //who's displayed content can be changed through
+         //client-side scripting.
+       	 html_code = '<div id="clock">Count Down</div>';
+         document.write(html_code);
+
+		//Convert both today's date and the target date into miliseconds.
+		var dthen = new Date(TargetDate);
+		var dnow = new Date();
+		ddiff = new Date(dthen-dnow)
+		secondsLeft = Math.floor(ddiff.valueOf()/1000);
+
+         countdownStep(secondsLeft,message);
+         }
+
+		function countdownStep(secondsLeft,message)
+		{
+			var Time_Left = secondsLeft;
+			if(Time_Left <= 0) {
+				document.getElementById("clock").innerHTML = message;
+			} else {
+				//More datailed.
+				days = Math.floor(Time_Left / (60 * 60 * 24));
+				Time_Left %= (60 * 60 * 24);
+				hours = Math.floor(Time_Left / (60 * 60));
+				Time_Left %= (60 * 60);
+				minutes = Math.floor(Time_Left / 60);
+				Time_Left %= 60;
+				seconds = Time_Left;
+
+				dps = 's'; hps = 's'; mps = 's'; sps = 's';
+				//ps is short for plural suffix.
+				if(days == 1) dps ='';
+				if(hours == 1) hps ='';
+				if(minutes == 1) mps ='';
+				if(seconds == 1) sps ='';
+				sContent = '<table><tr><td>Days</td><td>Hours</td><td>Minutes</td><td>Seconds</td></tr><tr>';
+				sContent += '<td align="center">' + days + '</td>';
+				sContent += '<td align="center">' + hours + '</td>';
+				sContent += '<td align="center">' + minutes + '</td>';
+				sContent += '<td align="center">' + seconds + '</td>';
+				sContent += '</tr></table>';
+				document.getElementById("clock").innerHTML = sContent;
+				//Recursive call, keeps the clock ticking.
+				setTimeout("countdownStep(" + (secondsLeft - 1) + ",'" + message + "');", 1000);
+			}
+		}
+
+</script>
+	<script src="/ajax/ajax.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" src="anylink.js">
+
+	/***********************************************
+	* AnyLink CSS Menu script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+	* This notice MUST stay intact for legal use
+	* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+	***********************************************/
+
+	</script>
+	<script language="JavaScript">
+	<!--
+	function MM_swapImgRestore() { //v3.0
+	  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+	}
+
+	function MM_preloadImages() { //v3.0
+	  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+	    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+	    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}
+
+	function MM_findObj(n, d) { //v3.0
+	  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+	    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+	  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+	  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+	}
+
+	function MM_swapImage() { //v3.0
+	  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+	   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+	}
+	//-->
+	</script>
 </head>
 
-
-<body class="body" leftmargin="0" topmargin="0" bgcolor="#003366" background="http://www.wboy.com/images/background.gif">
-<div align="center">
-
-	<a href="index.cfm"><img src="http://www.wboy.com/images/WBOY_banner.jpg" width="800" border="0"></a><br>
+<body name="main" bgcolor="#ffffff" leftmargin="0" rightmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#0D379A" vlink="#0D379A" onload="MM_preloadImages('images/black_autos.gif', 'images/black_pets.gif', 'images/black_travel.gif', 'images/black_JOURNAL.gif', 'images/black_store_WBOY.gif', 'images/black_advertise_WBOY.gif', 'images/black_home.gif', 'images/black_news.gif', 'images/black_weather.gif', 'images/black_sports.gif', 'images/black_health.gif', 'images/black_consumer.gif', 'images/black_wvtonight.gif', 'images/black_decisionmakers.gif', 'images/black_commentaries.gif', 'images/black_events.gif', 'images/black_webextras.gif', 'images/black_about_WBOY.gif')">
 
 
-<table width="800" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-	<tbody><tr>
-		<td>
-		<table class="body" cellpadding="0" cellspacing="0" border="0" width="800">
-		
-			<tbody><tr>
-				
-					<td valign="top" width="150" bgcolor="#6D6D6D" class="tableborderright">
-						
-<table width="150" cellpadding="0" cellspacing="0" class="body">
-	<tbody><tr bgcolor="#C01B19">
-		<td align="left" height="20" class="borderbottom">&nbsp;<a href="index.cfm" class="whitelink"><b>Home</b></a>&nbsp;</td>
-	</tr> 
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<a href="story.cfm?func=showstories&amp;catid=42" class="whitelink"><b>Weather</b></a>&nbsp;</td>
-	</tr>
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<a href="story.cfm?func=showstories&amp;catid=2" class="whitelink"><b>News</b></a>&nbsp;</td>
-	</tr>
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<a href="story.cfm?func=showstories&amp;catid=43" class="whitelink"><b>Follow-Up File</b></a>&nbsp;</td>
-	</tr>
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<a href="story.cfm?func=showstories&amp;catid=44" class="whitelink"><b>I Team</b></a>&nbsp;</td>
-	</tr>
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<a href="story.cfm?func=showstories&amp;catid=37" class="whitelink"><b>Consumer Watch</b></a>&nbsp;</td>
-	</tr>
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<a href="story.cfm?func=showstories&amp;catid=36" class="whitelink"><b>Health Watch</b></a>&nbsp;</td>
-	</tr>
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<a href="story.cfm?func=showstories&amp;catid=45" class="whitelink"><b>Education</b></a>&nbsp;</td>
-	</tr>
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<a href="story.cfm?func=showstories&amp;catid=46" class="whitelink"><b>Travel</b></a>&nbsp;</td>
-	</tr>
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<a href="story.cfm?func=showstories&amp;catid=3" class="whitelink"><b>Sports</b></a>&nbsp;</td>
-	</tr>
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<a href="story.cfm?func=showstories&amp;catid=203" class="whitelink"><b>Bray's Commentaries </b></a>&nbsp;</td>
-	</tr>
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<a href="story.cfm?func=showarchive" class="whitelink"><b>Article Archive</b></a>&nbsp;</td>
-	</tr>
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;
-			<a href="http://www.wboy.com/WBOY.xml" class="whitelink"><img src="http://www.wboy.com/images/xml.gif" alt="RSS Feed" border="0"></a> 
-			<a href="http://www.wboy.com/WBOY.xml" class="whitelink"><b></b></a><b><a href="page.cfm?pageid=114" class="whitelink">RSS Feed</a></b>
-		</td>
-	</tr>
-	
-		<tr bgcolor="#C01B19">
-			
-				<td align="left" height="20" class="borderbottom">&nbsp;<font color="#FFFFFF"><a href="http://www.msnbc.com" class="whitelink" target="_blank"><b><img src="images/nbc.jpg" border="0" height="15"> MSNBC.com</b></a></font></td>
-			
-		</tr>
-	
-	<tr bgcolor="#C01B19">
-		<td align="left" height="20" class="borderbottom">&nbsp;<font color="#FFFFFF"><b>Extra Features</b>&nbsp;</font></td>
-	</tr>
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="links.cfm" class="whitelink">Featured Links</a></b>&nbsp;</td>
-	</tr>
-	
-		<tr bgcolor="#051465">
-			
-				<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="http://www.couponbug.com/gmsa/sighub.asp?PID=11338&amp;zid=fj24&amp;nid=15&amp;cid=0&amp;bid=camp01_598" class="whitelink" target="_blank">Get Coupons</a></b>&nbsp;</td>
-			
-		</tr>
-		<tr bgcolor="#051465">
-			<td align="left" height="20" class="borderbottom">
-				
-					&nbsp;<b><a href="programming.cfm" class="whitelink">What's on WBOY-TV</a></b>&nbsp;
-				
-			</td>
-		</tr>
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="slideshow.cfm" class="whitelink">Slideshows</a></b>&nbsp;</td>
-	</tr>
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="postcards.cfm" class="whitelink">Postcards</a></b>&nbsp;</td>
-	</tr>
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="events.cfm" class="whitelink">View Events</a></b>&nbsp;</td>
-	</tr>
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="events.cfm?func=submitevent" class="whitelink">Submit an Event</a></b>&nbsp;</td>
-	</tr>
-	
-		<tr bgcolor="#051465">
-			
-				<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="page.cfm?pageid=107" class="whitelink">WBOY-TV Downloads</a></b>&nbsp;</td>
-			
-		</tr>
-		<tr bgcolor="#C01B19">
-			<td align="left" height="20" class="borderbottom">&nbsp;<font color="#FFFFFF"><b>Special Shows</b>&nbsp;</font></td>
-		</tr>
-		
-			<tr bgcolor="#051465">
-				<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="page.cfm?pageid=104" class="whitelink">WV Tonight Live</a></b>&nbsp;</td>
-			</tr>
-		
-		
-		<tr bgcolor="#051465">
-			<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="story.cfm?func=showstories&amp;catid=208" class="whitelink">Decision Makers</a></b>&nbsp;</td>
-		</tr>
-		<tr bgcolor="#051465">
-			<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="page.cfm?pageid=103" class="whitelink">Kidz Newz</a></b>&nbsp;</td>
-		</tr>
-		<tr bgcolor="#051465">
-			<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="page.cfm?pageid=108" class="whitelink">Woods &amp; Waters</a></b>&nbsp;</td>
-		</tr>
-	
-	
-	<tr bgcolor="#C01B19">
-		<td align="left" height="20" class="borderbottom">&nbsp;<font color="#FFFFFF"><b>About Us</b>&nbsp;</font></td>
-	</tr>
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="forms.cfm?func=newstip" class="whitelink">Submit a Story Tip</a></b>&nbsp;</td>
-	</tr>
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="page.cfm?pageid=100" class="whitelink">News Philosophy</a></b>&nbsp;</td>
-	</tr>
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="bios.cfm" class="whitelink">Staff Bios</a></b>&nbsp;</td>
-	</tr>
-	
-		<tr bgcolor="#051465">
-			<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="page.cfm?pageid=111" class="whitelink">Special Appearances</a></b>&nbsp;</td>
-		</tr>
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="page.cfm?pageid=101" class="whitelink">Contact Us</a></b>&nbsp;</td>
-	</tr>
-	<tr bgcolor="#C01B19">
-		<td align="left" height="20" class="borderbottom">&nbsp;<font color="#FFFFFF"><b>Work with Us</b>&nbsp;</font></td>
-	</tr>
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="jobs.cfm" class="whitelink">Current Openings</a></b>&nbsp;</td>
-	</tr>
-	
-		<tr bgcolor="#051465">
-			
-				<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="WBOY_eeo.xls" class="whitelink">EEO File</a></b>&nbsp;</td>
-			
-		</tr>
-		<tr bgcolor="#C01B19">
-			<td align="left" height="20" class="borderbottom">&nbsp;<font color="#FFFFFF"><b>Intern With Us</b>&nbsp;</font></td>
-		</tr>
-		<tr bgcolor="#051465">
-			<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="page.cfm?pageid=110" class="whitelink">About Our Program</a></b>&nbsp;</td>
-		</tr>
-		<tr bgcolor="#051465">
-			<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="internship.cfm" class="whitelink">Apply Online</a></b>&nbsp;</td>
-		</tr>
-	
-	<tr bgcolor="#C01B19">
-		<td align="left" height="20" class="borderbottom">&nbsp;<font color="#FFFFFF"><b>Advertise with Us</b>&nbsp;</font></td>
-	</tr>
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="page.cfm?pageid=112" class="whitelink">Sales Overview</a></b>&nbsp;</td>
-	</tr>
-	
-	<tr bgcolor="#051465">
-		<td align="left" height="20" class="borderbottom">&nbsp;<b><a href="page.cfm?pageid=102" class="whitelink">Contact Sales</a></b>&nbsp;</td>
-	</tr>
-	
-		<tr bgcolor="#C01B19">
-			
-				<td align="left" height="20" class="borderbottom">&nbsp;<font color="#FFFFFF"><b>12 News Poll</b>&nbsp;</font></td>
-			
-		</tr>
-		<tr>
-			<td valign="top">
-				
-					<form name="vote" action="poll.cfm" method="post">
-					<input type="Hidden" name="pollid" value="107">
-					<input type="Hidden" name="func" value="vote">
-					<table class="poll">
-						<tbody><tr>
-							<td colspan="2"><b>Should West Virginia repeal its motorcycle helmet law? </b></td>
-						</tr>
-						
-							<tr>
-								<td valign="top" "=""><input type="Radio" name="pollaid" value="348"></td>
-								<td>Yes</td>
-							</tr>
-						
-							<tr>
-								<td valign="top" "=""><input type="Radio" name="pollaid" value="349"></td>
-								<td>No</td>
-							</tr>
-						
-						<tr>
-							<td>&nbsp;</td>
-							<td><input type="Submit" name="Submit" value="Vote"></td>
-						</tr>
-					</tbody></table>
-					</form>
-					&nbsp;<a href="poll.cfm?func=showresult&amp;pollid=107" class="whitelink"><b>Show Results</b></a>
-					
-			</td>
-		</tr>
-	
-</tbody></table>
-					</td>
-					<td width="10">&nbsp;</td>
-					<td valign="top">
-				
-	<p class="topnav"><a href="index.cfm">Home</a> &gt; Privacy Policy</p>
-	
-		<span class="coloredheader">Privacy Policy</span><hr>
-	
-	<p></p><p>Thank you for visiting this Web site, a West Virginia Media Holdings site. Your privacy is important to us. To better protect your privacy, we provide our Privacy Policy below, explaining our online information practices and the way your information is collected and used on this West Virginia Media Holdings, LLC Web site.<br><br><strong>The Information We Collect</strong><br>You can order subscriptions, vote in polls, subscribe to one of our services such as our email news alerts, send a postcard, submit story tips, get customized weather content, submit weather information and more on our sites. <br><br>The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and other basic information.<br><br>You can submit information about other people. For example, to send a postcard, you need to submit a person's name and e-mail address.<br><br>On some areas of our sites, only persons who provide us with the requested information will be able to participate in the site's activities and offerings.<br><br>We also may collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows XP or Mac OS) and the domain name of your Internet service provider (e.g., Citynet, Earthlink, AOL, etc.).<br><br><strong>How We Use the Information</strong><br>We may use the information you provide about yourself to fulfill your requests for a subscription, site services, to respond to your inquiries about our offerings, or to contact you about a story tip or other information you have submitted to us.<br><br>We sometimes use this information to communicate with you, such as to notify you when we make changes to our subscriber agreements, to fulfill a request by you for an online service, to contact you about your subscription, or about information you have submitted to us, such as a story tip, weather information or similar.<br><br>If you choose to submit content for publication (e.g., "submit weather photos"), we may publish your name and other information you have provided to us.<br><br>We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information to analyze site usage.<br><br>If required by law, we may disclose personally identifiable information in response to legal process, such as in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law. <br><br>Agents and contractors of West Virginia Media Holdings, LLC who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy.<br><br>Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot guarantee you that personally identifiable information we collect won’t be disclosed in a manner that is inconsistent with this Privacy Policy.<br><br><strong>The Use of Cookies<br></strong>To enhance your experience with our sites, many of our Web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. <br><br>Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites.<br><br>However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.<br><br><strong>How to Contact Us</strong><br>If you have any questions or concerns about this Privacy Policy you may contact us at <a href="mailto:privacy@wvmh.com">privacy@wvmh.com</a>&nbsp;.<br><br><strong>Updates </strong><br>We may update this privacy policy. Please check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. </p>  <p>&nbsp;</p> <p></p>
-	
-	
-							</td>
-						
-								<td class="tableborderright">&nbsp;</td>
-								<td valign="top" width="162"> 
-	<p class="smallercoloredheader">&nbsp;<b>June 15, 2006</b></p>
-	
-	
-		<table width="100%" class="body" cellspacing="0" cellpadding="1">
-			<tbody><tr bgcolor="#051465">
-				<td colspan="3"><font color="#FFFFFF"><b>Site Tools</b></font></td>
-			</tr>
-			
-			<tr>
-				<td>&nbsp;</td>
-				<td align="center"><a href="/page.cfm?pageid=316&amp;printview=1"><img src="http://www.wboy.com/images/printstory.gif" alt="Print this Page" border="0"></a></td>
-				<td><a href="/page.cfm?pageid=316&amp;printview=1"><font color="#08116C"><b>Print this Page</b></font></a></td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td align="center"><a href="features.cfm?func=emailstory&amp;page=page.cfm&amp;qstring=pageid%3D316"><img src="http://www.wboy.com/images/emailstory.gif" alt="Email this Page" border="0"></a></td>
-				<td><a href="features.cfm?func=emailstory&amp;page=page.cfm&amp;qstring=pageid%3D316"><font color="#08116C"><b>Email this Page</b></font></a></td>
-			</tr>
-			
-			<tr>
-				<td>&nbsp;</td>
-				<td align="center"><a href="features.cfm?func=mostemailed"><img src="http://www.wboy.com/images/emailstory.gif" alt="Most Emailed Page" border="0"></a></td>
-				<td><a href="features.cfm?func=mostemailed"><font color="#08116C"><b>Most Emailed Pages</b></font></a></td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td valign="top" align="center"><a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.wboy.com');"><img src="http://www.wboy.com/images/savehomepage.gif" alt="Make Us Your Homepage" border="0"></a></td>
-				<td><a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.wboy.com');"><font color="#08116C"><b>Make Us Your Homepage</b></font></a></td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td><a href="http://www.wboy.com/WBOY.xml"><img src="http://www.wboy.com/images/xml.gif" alt="RSS Feed" border="0"></a></td>
-				<td><a href="http://www.wboy.com/WBOY.xml"><font color="#08116C"><b>RSS Feed</b></font></a></td>
-			</tr>
-			
-			
 
-		</tbody></table>
-		<br>
-	<table width="100%" class="body" cellspacing="0" cellpadding="1">
-	<tbody><tr bgcolor="#051465">
-		<td><font color="#FFFFFF"><b>Search the Site</b></font></td>
-	</tr>
-	<tr>
-		<td>
-			<form name="search" action="search.cfm" method="post">
-				<input type="Hidden" name="func" value="processsearch">
-				<input type="Text" name="keywords" size="15" maxlength="50" value="Enter Keyword" onfocus="this.value=''">
-				<input type="Submit" name="Submit" value="Go">
-			</form>
-		</td>
-	</tr>
-</tbody></table> <a href="click.cfm?adid=106" target="_blank">	<img src="http://www.wboy.com/images/ads/CB_160x600_FGC_anim2.gif" border="0" width="162" alt="Ad"></a><br><br>
-	
-								</td>
+	<table border="0" cellpadding="0" cellspacing="0" width="1024">
+		<tbody><tr>
+			<td width="133" height="130"><a href="index.cfm"><img src="images/WBOY_banner1.gif" width="133" height="130" alt="WBOY Home" border="0"></a></td>
+			<td width="81" height="130"><img src="images/WBOY_banner2.gif" width="81" height="130" alt="WBOY" border="0"></td>
+			<td width="810" height="130">
+				<table border="0" cellpadding="0" cellspacing="0" width="810" height="130">
+					<tbody><tr>
+						<td background="images/top_bck.gif" width="810" valign="top" style="padding-top:3px;">
 							
+							
+							<table border="0" cellpadding="0" cellspacing="0" width="810">
+								<form name="search" action="search.cfm" method="post"></form>
+								<input type="Hidden" name="func" value="processsearch">
+								<tbody><tr>
+									<td width="23" height="20"><a href="#"><img src="images/icon_home.gif" width="21" height="20" alt="WBOY" border="0"></a></td>
+									<td class="box9" width="170"><a class="topmenu" href="" style="cursor:hand" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.WBOY.com');">Make this my homepage</a></td>
+									<td width="39" style="padding-top:2px;"><a href="WBOY.xml"><img src="images/xml.gif" width="36" height="14" alt="WBOY RSS Feed" border="0"></a></td>
+									<td class="box9" width="100"><a href="page.cfm?pageid=114" class="topmenu">RSS Feed</a></td>
+									<td width="23" height="20">&nbsp;</td>
+									<td class="box9" width="100">&nbsp;</td>
+									<td width="38" height="20">&nbsp;</td>
+									<td class="box9" width="90">&nbsp;</td>
+									<td width="23" height="20"><img src="images/icon_sitesearch.gif" width="21" height="21" alt="WBOY Search" border="0"></td>
+									<td class="box9">Site Search</td>
+									<td><input type="Text" name="keywords" size="14" class="body" value="Enter Keyword" onfocus="this.value=''"></td>
+									<td><input type="image" src="images/search_go.gif" alt="GO!" border="0" name="go"></td>
+								
+								</tr>
+							</tbody></table>
+							
+						</td>
+
+					</tr>
+					<tr>
+						<td width="810" height="91" valign="top" bgcolor="#000000">
+							
+							<table border="0" cellpadding="0" cellspacing="0" width="810" height="91">
+								<tbody><tr>
+									
+									<td width="576" height="91"><img src="images/WBOY_banner3.jpg" width="576" height="91" alt="WBOY" border="0"></td>
+									
+									<td width="234" valign="top">
+										<table border="0" cellpadding="0" cellspacing="0" width="234" height="91">
+											<tbody><tr>
+												<td width="234" height="60">
+													
+													<a href="mailto:pgeiger@wvmh.com">	<img src="http://www.wboy.com/images/ads/advertise_wvmh_234x60.gif" border="0" alt="Ad"></a> 
+												</td>
+											</tr>
+											<tr>
+												<td align="center" background="images/date_bck.gif" class="date" style="padding-top:7px;">Saturday, November 11, 2006 :: 5:36AM</td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
 					</tr>
 				</tbody></table>
 			</td>
 		</tr>
 		<tr>
-			<td align="center" class="bordertop">
-				<br>
-				<p align="center"><br>© 2006 <a href="http://www.wvmh.com/">West Virginia Media Holdings, LLC</a> <br><a title="http://wboy.com/" href="http://wboy.com/">WBOY-TV</a> I <a title="http://www.wtrf.com/" href="http://www.wtrf.com/">WTRF-TV</a> I <a title="http://wowktv.com/" href="http://wowktv.com/">WOWK-TV</a> I <a title="http://wvnstv.com/" href="http://www.wvnstv.com/">WVNS-TV</a> I <a title="http://statejournal.com/" href="http://statejournal.com/">The State Journal</a> <br><a href="http://www.wboy.com/page.cfm?pageid=316">Privacy Policy</a> </p>
-<p align="center"></p>
-<p align="center">&nbsp;</p>	
-					<p>Site Development and Hosting By <a href="http://www.citynet.net" target="_blank">Citynet</a><br><br>
-					<a href="http://www.citynet.net" target="_blank"><img src="http://www.wboy.com/images//cb3b.gif" alt="Citynet" border="0"></a></p>
+			<td width="1024" colspan="3" valign="top">
+				<table border="0" cellpadding="0" cellspacing="0" width="1024">
+					<tbody><tr>
+						<td width="790" background="images/menu1_bck.gif">
+							
+							
+							<table border="0" cellpadding="0" cellspacing="0" width="790">
+								<tbody><tr>
+									
+									<td width="35" height="18"><a href="story.cfm?func=showstories&amp;catid=247" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','images/black_pets.gif',1)"><img name="Image2" src="images/gray_pets.gif" width="35" height="18" alt="Pets" border="0"></a></td>
+									<td width="3"><img src="images/spacer.gif" width="3" height="1" alt="" border="0"></td>
+									<td width="45" height="18"><a href="story.cfm?func=showstories&amp;catid=46" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','images/black_travel.gif',1)"><img name="Image3" src="images/gray_travel.gif" width="45" height="18" alt="Travel" border="0"></a></td>
+									<td width="3"><img src="images/spacer.gif" width="3" height="1" alt="" border="0"></td>
+									<td width="113" height="18"><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu22')"><img name="Image4" src="images/gray_JOURNAL.gif" width="113" height="18" alt="The State Journal" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','images/black_JOURNAL.gif',1)"></a><div id="anylinkmenu22" class="anylinkcss"><a href="http://www.statejournal.com" target="new">Current Issue Articles</a><a href="https://www.web-remit.com/wvmedia/" target="new">Subscribe Now</a></div></td>
+									<td width="3"><img src="images/spacer.gif" width="3" height="1" alt="" border="0"></td>
+									<td width="82" height="18"><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu20')"><img name="Image5" src="images/gray_store_WBOY.gif" width="82" height="18" alt="Store" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','images/black_store_WBOY.gif',1)"></a><div id="anylinkmenu20" class="anylinkcss"><a href="http://www.nbcuniversalstore.com/index.php?mouseover=N" target="new">Shop NBC Universal</a><a href="https://www.web-remit.com/wvmedia/" target="new">Subscribe to The State Journal</a></div></td>
+									<td width="3"><img src="images/spacer.gif" width="3" height="1" alt="" border="0"></td>
+									<td width="35" height="18"><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu21')"><img name="Image6" src="images/gray_advertise_WBOY.gif" width="134" height="18" alt="Advertise" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images/black_advertise_WBOY.gif',1)"></a><div id="anylinkmenu21" class="anylinkcss"><a href="page.cfm?pageid=102">Contact WBOY-TV Sales</a></div></td>
+									<td width="100%"><img src="images/spacer.gif" width="1" height="1" alt="" border="0"></td>
+								</tr>
+							</tbody></table>
+							
+						</td>
+						<td width="234" bgcolor="#000000"><img src="images/spacer.gif" width="234" height="1" alt="" border="0"></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td width="1024" bgcolor="#000000" colspan="3">
 				
+				<table border="0" cellpadding="0" cellspacing="0" width="1024">
+					<tbody><tr>
+						<td width="1024" height="30">
+							
+							<table border="0" cellpadding="0" cellspacing="0" width="1024">
+								<tbody><tr>
+									<td width="41"><a href="index.cfm"><img name="Image7" src="images/on_home.gif" width="42" height="18" alt="Home" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','images/black_home.gif',1)"></a></td>
+
+									<td width="5"><img src="images/spacer.gif" width="5" height="1" alt="" border="0"></td>
+
+									<td width="43"><a href="story.cfm?func=showstories&amp;catid=2" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu1')"><img name="Image8" src="images/blue_news.gif" width="43" height="18" alt="News" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','images/black_news.gif',1)"></a><div id="anylinkmenu1" class="anylinkcss"><a href="story.cfm?func=showstories&amp;catid=2">Headlines</a><a href="story.cfm?func=showstories&amp;catid=44">I Team</a><a href="forms.cfm?func=newstip">Submit a Tip</a><a href="story.cfm?func=showarchive">Archive</a></div></td>
+
+									<td width="5"><img src="images/spacer.gif" width="5" height="1" alt="" border="0"></td>
+
+									<td width="57"><a href="story.cfm?func=showstories&amp;catid=42" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu2')"><img name="Image9" src="images/blue_weather.gif" width="57" height="18" alt="Weather" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','images/black_weather.gif',1)"></a><div id="anylinkmenu2" class="anylinkcss"><a href="story.cfm?func=showstories&amp;catid=42">Stormtracker 12</a><a href="http://www.modavox.com/boombox/WBOY/weather/index.html" target="new">Current Forecast Video</a><a href="weatheralerts.cfm">Weather Alerts</a><a href="closings.cfm">Snow Closings</a><a href="page.cfm?pageid=324">Report Severe Weather</a><a href="forms.cfm?func=weatherphotos">Submit Weather Photos</a><a href="page.cfm?pageid=539">Weather Links</a></div></td>
+
+									<td width="5"><img src="images/spacer.gif" width="5" height="1" alt="" border="0"></td>
+
+									<td width="46"><a href="story.cfm?func=showstories&amp;catid=3" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu3')"><img name="Image10" src="images/blue_sports.gif" width="46" height="18" alt="" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','images/black_sports.gif',1)"></a><div id="anylinkmenu3" class="anylinkcss"><a href="story.cfm?func=showstories&amp;catid=3">12 Sports</a></div></td>
+
+									<td width="5"><img src="images/spacer.gif" width="5" height="1" alt="" border="0"></td>
+
+									<td width="46"><a href="story.cfm?func=showstories&amp;catid=36" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu4')"><img name="Image11" src="images/blue_health.gif" width="46" height="18" alt="Health" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','images/black_health.gif',1)"></a><div id="anylinkmenu4" class="anylinkcss"><a href="story.cfm?func=showstories&amp;catid=36">Health Watch</a></div></td>
+
+									<td width="5"><img src="images/spacer.gif" width="5" height="1" alt="" border="0"></td>
+
+									<td width="68"><a href="story.cfm?func=showstories&amp;catid=37" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu5')"><img name="Image12" src="images/blue_consumer.gif" width="68" height="18" alt="Consumer" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','images/black_consumer.gif',1)"></a><div id="anylinkmenu5" class="anylinkcss"><a href="story.cfm?func=showstories&amp;catid=37">Consumer Watch</a></div></td>
+
+									<td width="5"><img src="images/spacer.gif" width="5" height="1" alt="" border="0"></td>
+
+									<td width="102"><a href="wvtonightlive.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','images/black_wvtonight.gif',1)"><img name="Image13" src="images/blue_wvtonight.gif" width="102" height="18" alt="WV Tonight" border="0"></a></td>
+
+									<td width="5"><img src="images/spacer.gif" width="5" height="1" alt="" border="0"></td>
+
+									<td width="105"><a href="story.cfm?func=showstories&amp;catid=208" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image14','','images/black_decisionmakers.gif',1)"><img name="Image14" src="images/blue_decisionmakers.gif" width="105" height="18" alt="Decision Makers" border="0"></a></td>
+
+									<td width="5"><img src="images/spacer.gif" width="5" height="1" alt="" border="0"></td>
+
+									<td width="91"><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu6')"><img name="Image15" src="images/blue_commentaries.gif" width="91" height="18" alt="Commentaries" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','images/black_commentaries.gif',1)"></a><div id="anylinkmenu6" class="anylinkcss"><a href="story.cfm?func=showstories&amp;catid=203">Bray Cary</a><a href="story.cfm?func=showstories&amp;catid=181">Dan Page</a><a href="story.cfm?func=showstories&amp;catid=161">Chris Stirewalt</a></div></td>
+
+									<td width="5"><img src="images/spacer.gif" width="5" height="1" alt="" border="0"></td>
+
+									<td width="88"><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu35')"><img name="Image16" src="images/blue_programming.gif" width="88" height="18" alt="Programming" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','images/black_programming.gif',1)"></a><div id="anylinkmenu35" class="anylinkcss"><a href="programming.cfm">What's On </a><a href="page.cfm?pageid=103">Kidz Newz</a><a href="page.cfm?pageid=108">Woods &amp; Waters</a></div></td>
+
+									<td width="5"><img src="images/spacer.gif" width="5" height="1" alt="" border="0"></td>
+
+									<td width="51"><a href="events.cfm" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu7')"><img name="Image17" src="images/blue_events.gif" width="51" height="18" alt="Events" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','images/black_events.gif',1)"></a><div id="anylinkmenu7" class="anylinkcss"><a href="events.cfm">View Community Events</a><a href="events.cfm?func=submitevent">Submit an Event</a></div></td>
+
+									<td width="5"><img src="images/spacer.gif" width="5" height="1" alt="" border="0"></td>
+
+									<td width="78"><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu8')"><img name="Image18" src="images/blue_webextras.gif" width="78" height="18" alt="Web Extras" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image18','','images/black_webextras.gif',1)"></a><div id="anylinkmenu8" class="anylinkcss"><a href="links.cfm">Featured Links</a><a href="slideshow.cfm">Slideshows</a><a href="postcards.cfm">Postcards</a><a href="http://www.msnbc.com" target="new">MSNBC.com</a></div></td>
+
+									<td width="5"><img src="images/spacer.gif" width="5" height="1" alt="" border="0"></td>
+
+									<td width="92"><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu9')"><img name="Image19" src="images/blue_about_WBOY.gif" width="92" height="18" alt="About" border="0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','images/black_about_WBOY.gif',1)"></a><div id="anylinkmenu9" class="anylinkcss"><a href="page.cfm?pageid=101">Contact WBOY</a><a href="forms.cfm?func=newstip">Submit a News Tip</a><a href="bios.cfm">12 News Team Bios</a><a href="page.cfm?pageid=100">News Philosophy</a><a href="page.cfm?pageid=111">Request a Special Appearance</a><a href="jobs.cfm">WBOY Jobs</a><a href="WBOY_eeo.xls">EEO File</a></div></td>
+
+									<td width="5"><img src="images/spacer.gif" width="5" height="1" alt="" border="0"></td>
+
+									<td width="100%"><img src="images/spacer.gif" width="1" height="1" alt="" border="0"></td>
+								</tr>
+							</tbody></table>
+							
+						</td>
+					</tr>
+					<tr>
+						<td><img src="images/under_blue_men.gif" width="1024" height="8" alt="" border="0"></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		
+		
+		<tr>
+			<td colspan="3">
+				<table width="100%">
+					<tbody><tr valign="top">
+						
+						
+					</tr>
+				</tbody></table>
 			</td>
 		</tr>
 	</tbody></table>
-</div>
+	<table border="0" cellpadding="0" cellspacing="0" width="1024">
+		<tbody><tr>
+			<td colspan="2" valign="top" width="780">
+				<table border="0" cellpadding="0" cellspacing="0">
+				
+
+ 				
+				
+				<tbody><tr>
+					
+					<td width="254" valign="top" style="padding-top:6px;">
+						
+						<table border="0" cellpadding="0" cellspacing="0" width="245">
+							
+							<tbody><tr>
+								<td align="center">
+									
+									<table border="0" cellpadding="0" cellspacing="0" width="98%">
+										<tbody><tr>
+											<td width="9" height="22"><img src="images/b1.gif" width="9" height="22" alt="" border="0"></td>
+											<td background="images/b_top_bck.gif"><img src="images/spacer.gif" width="15" height="1" alt="" border="0"></td>
+											<td width="10" height="22"><img src="images/b_tab_on_left.gif" width="10" height="22" alt="" border="0"></td>
+											<td background="images/b_tab_on_bck.gif" class="box9" style="padding-top:5px;padding-left:3px;"><span class="box9header">Polls</span></td>
+											<td width="10" height="22"><img src="images/b_tab_on_right.gif" width="10" height="22" alt="" border="0"></td>
+											<td background="images/b_top_bck.gif"><img src="images/spacer.gif" width="150" height="1" alt="" border="0"></td>
+											<td width="9" height="22"><img src="images/b2.gif" width="9" height="22" alt="" border="0"></td>
+										</tr>
+										<tr>
+											<td colspan="7" valign="top">
+												<table border="0" cellpadding="0" cellspacing="0" width="100%" height="250">
+													<tbody><tr>
+														<td background="images/b3_bck.gif" width="2" style="background-position:left;background-repeat:repeat-y;"><img src="images/spacer.gif" width="2" height="1" alt="" border="0"></td>
+														<td width="100%" class="box9" valign="top" style="padding-top:15px;">
+															
+															<table border="0" cellpadding="0" cellspacing="0" width="98%">
+																
+																	<tbody><tr>
+																		<td valign="top">
+																			
+																				<form name="vote" action="poll.cfm" method="post">
+																				<input type="Hidden" name="pollid" value="177">
+																				<input type="Hidden" name="func" value="vote">
+																				<table class="poll" width="215" border="0">
+																					<tbody><tr>
+																						<td colspan="2" class="box9bold">How would you describe your reaction to the results of this mid-term election?</td>
+																					</tr>
+																					
+																						<tr>
+																							<td valign="top" width="15" align="center"><input type="Radio" name="pollaid" value="554" class="box9"></td>
+																							<td width="200" class="box9">Overall I am pleased</td>
+																						</tr>
+																					
+																						<tr>
+																							<td valign="top" width="15" align="center"><input type="Radio" name="pollaid" value="555" class="box9"></td>
+																							<td width="200" class="box9">I am disappointed</td>
+																						</tr>
+																					
+																						<tr>
+																							<td valign="top" width="15" align="center"><input type="Radio" name="pollaid" value="556" class="box9"></td>
+																							<td width="200" class="box9">I have mixed feelings</td>
+																						</tr>
+																					
+																						<tr>
+																							<td valign="top" width="15" align="center"><input type="Radio" name="pollaid" value="557" class="box9"></td>
+																							<td width="200" class="box9">I don't care</td>
+																						</tr>
+																					
+																					<tr>
+																						<td colspan="2" align="center"><input type="Submit" name="Submit" value="Vote" class="box9"></td>
+																					</tr>
+																				</tbody></table>
+																				</form>
+																				&nbsp;<a href="poll.cfm?func=showresult&amp;pollid=177" class="box9headerMenu">Show Results</a>
+																				
+																		</td>
+																	</tr>
+																
+															</tbody></table>
+														</td>
+														<td background="images/b4_bck.gif" width="9"><img src="images/spacer.gif" width="9" height="1" alt="" border="0"></td>
+													</tr>
+													<tr>
+														<td width="9" height="15"><img src="images/b5a1.gif" width="9" height="17" alt="" border="0"></td>
+														<td background="images/b_bottom_bck_a.gif" style="background-position:bottom;background-repeat:repeat-x;"><img src="images/spacer.gif" width="1" height="1" alt="" border="0"></td>
+														<td width="9" height="15"><img src="images/b6a.gif" width="9" height="17" alt="" border="0"></td>
+													</tr>
+												</tbody></table>
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+							</tr>
+							
+							<tr>
+								<td align="center" style="padding-top:8px;">
+									
+									
+								</td>
+							</tr>
+							
+							<tr>
+								<td style="padding-top:8px;padding-left:5px;padding-right:5px;" class="box9" valign="top">
+									
+									
+								</td>
+							</tr>
+							
+							<tr>
+								<td align="center" style="padding-top:8px;">
+									
+									<a href="click.cfm?adid=173" target="_blank">	<img src="http://www.wboy.com/images/ads/subway_234x601.gif" border="0" alt="Ad"></a> 
+								</td>
+							</tr>
+						</tbody></table>
+					
+					</td>
+					<td width="526" valign="top" style="padding-top:6px;">
+						
+						
+	<p class="topnav"><a href="index.cfm">Home</a> &gt; Privacy Policy</p>
+	
+		<span class="coloredheader">Privacy Policy</span><hr>
+	
+	<p></p><p>Thank you for visiting this Web site, a West Virginia Media Holdings site. Your privacy is important to us. To better protect your privacy, we provide our Privacy Policy below, explaining our online information practices and the way your information is collected and used on this West Virginia Media Holdings, LLC Web site.<br><br><strong>The Information We Collect</strong><br>You can order subscriptions, vote in polls, subscribe to one of our services such as our email news alerts, send a postcard, submit story tips, get customized weather content, submit weather information and more on our sites. <br><br>The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and other basic information.<br><br>You can submit information about other people. For example, to send a postcard, you need to submit a person's name and e-mail address.<br><br>On some areas of our sites, only persons who provide us with the requested information will be able to participate in the site's activities and offerings.<br><br>We also may collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows XP or Mac OS) and the domain name of your Internet service provider (e.g., Citynet, Earthlink, AOL, etc.).<br><br><strong>How We Use the Information</strong><br>We may use the information you provide about yourself to fulfill your requests for a subscription, site services, to respond to your inquiries about our offerings, or to contact you about a story tip or other information you have submitted to us.<br><br>We sometimes use this information to communicate with you, such as to notify you when we make changes to our subscriber agreements, to fulfill a request by you for an online service, to contact you about your subscription, or about information you have submitted to us, such as a story tip, weather information or similar.<br><br>If you choose to submit content for publication (e.g., "submit weather photos"), we may publish your name and other information you have provided to us.<br><br>We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information to analyze site usage.<br><br>If required by law, we may disclose personally identifiable information in response to legal process, such as in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law. <br><br>Agents and contractors of West Virginia Media Holdings, LLC who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy.<br><br>Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot guarantee you that personally identifiable information we collect won’t be disclosed in a manner that is inconsistent with this Privacy Policy.<br><br><strong>The Use of Cookies<br></strong>To enhance your experience with our sites, many of our Web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. <br><br>Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites.<br><br>However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.<br><br><strong>How to Contact Us</strong><br>If you have any questions or concerns about this Privacy Policy you may contact us at <a href="mailto:privacy@wvmh.com">privacy@wvmh.com</a>&nbsp;.<br><br><strong>Updates </strong><br>We may update this privacy policy. Please check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. </p>  <p>&nbsp;</p> <p></p>
+
+	
+						<br>
+						<br>
+ 						<table width="100%" cellpadding="0" cellspacing="0">
+							
+
+							
+							<tbody><tr>
+								<td width="100%" align="center">
+									
+									
+								</td>
+							</tr>
+							<tr>
+								<td>
+									
+									
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+		
+		<td width="245" valign="top">
+				
+			<table border="0" cellpadding="0" cellspacing="0" width="245" style="padding-right:1px;">
+				
+				
+				
+				<tbody><tr>
+					<td align="center" style="padding-left:14px;padding-top:6px;">
+						
+						
+					</td>
+				</tr>
+				
+				
+						<tr>
+							<td align="right">
+								<a href="click.cfm?adid=171" target="_blank">	<img src="http://www.wboy.com/images/ads/SJ_sub_ad_234.jpg" border="0" alt="Ad"></a><br><br>
+							</td>
+						</tr>
+					
+			</tbody></table>
+		
+		</td>
+	</tr>
+	<tr>
+		<td align="center" colspan="3">
+			<br>
+			<p align="center"><br>© 2006 <a href="http://www.wvmh.com/">West Virginia Media Holdings, LLC</a> <br><a title="http://wboy.com/" href="http://wboy.com/">WBOY-TV</a> I <a title="http://www.wtrf.com/" href="http://www.wtrf.com/">WTRF-TV</a> I <a title="http://wowktv.com/" href="http://wowktv.com/">WOWK-TV</a> I <a title="http://wvnstv.com/" href="http://www.wvnstv.com/">WVNS-TV</a> I <a title="http://statejournal.com/" href="http://statejournal.com/">The State Journal</a> <br><a href="http://www.wboy.com/page.cfm?pageid=316">Privacy Policy</a> </p>
+<p align="center"></p>
+<p align="center">&nbsp;</p>
+				<p>Site Development and Hosting By <a href="http://www.citynet.net" target="_blank">Citynet</a><br><br>
+				<a href="http://www.citynet.net" target="_blank"><img src="http://www.wboy.com/images//cb3b.gif" alt="Citynet" border="0"></a></p>
+			
+		</td>
+	</tr>
+</tbody></table>
 
 
 </body></html>
