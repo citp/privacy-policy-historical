@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparepartswarehouse.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615101004id_/http%3A//www.sparepartswarehouse.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparepartswarehouse.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111022026id_/http%3A//sparepartswarehouse.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # SparePartsWarehouse.com's Privacy Policy Statement
 
@@ -44,4 +44,4 @@ We use "cookies" on this site. A cookie is a piece of data stored on a site visi
 **Links**  
 This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone _toll-free_ at _877-253-8898_ or _via email_ : [spareparts@ucrnet.com](https://web.archive.org/contact.asp).**
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone _toll-free_ at _877-253-8898_ or via [contact form](https://web.archive.org/contact.asp).**
