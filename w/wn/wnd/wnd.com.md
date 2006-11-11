@@ -1,27 +1,54 @@
-> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2006-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060415003249id_/http%3A//www.wnd.com/resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wnd.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111014322id_/http%3A//www.wnd.com/resources/privacy.asp) for the most accurate reproduction.*
 
-# WorldNetDaily Privacy Policy
+# WorldNetDaily: WorldNetDaily Privacy Policy
 
-|  [ **   ShopNetDaily**](http://shop.wnd.com/store/default.asp)  
----  
-[ **   Free News Alerts!**](http://www.wnd.com/resources/mailingList.asp)  
-[ **   Page 1 News**](https://web.archive.org/)  
-[ **   Page 2 News**](https://web.archive.org/page2.asp)  
-[ **   VideoNetDaily**](https://web.archive.org/video/)  
-[**   G2 Bulletin**](http://g2.wnd.com/)  
-[**   BizNetDaily**](https://web.archive.org/biznetdaily)  
-[ **   LocalNetDaily**](https://web.archive.org/localnetdaily/)  
-[ **   Commentary**](https://web.archive.org/commentary.asp)  
-[ **   Classified Ads**](https://web.archive.org/classifieds/)  
-[ **   Letters**](https://web.archive.org/letters.asp)  
-[ **   Health**](http://healthology.worldnetdaily.com/)  
-[ **   Weather**](http://www.accuweather.com/adcbin/index?partner=WNDAILY)  
-[ **   TV Guide**](http://www.tvguide.com/)  
-[ **   MusicNetDaily**](http://wnd.favestreet.com/)  
-[ **   Movies**](http://www.fandango.com/)  
-[ **   Stocks**](http://www.investors.com/)  
+**  
   
-|  | 
+[](http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=304&CampaignID=460&AdvertiserID=32&BannerID=995&SiteID=1&RandomNumber=78801)   | **   FREE News Flashes**  
+---  
+    
+  
+  
+  
+WND Directory|    
+---|---  
+[Page 1 News](https://web.archive.org/index.html)  
+[Page 2 News](https://web.archive.org/page2.html)  
+[Commentary](https://web.archive.org/commentary.html)  
+[G2 Bulletin](http://g2.wnd.com/)  
+[Daily Poll](https://web.archive.org/polls/)  
+[WND Forums](http://forums.wnd.com/)  
+[Letters to the Editor](https://web.archive.org/letters.asp)  
+[BizNetDaily](https://web.archive.org/biznetdaily)  
+[TV Guide](http://www.tvguide.com/)  
+[Weather](http://www.accuweather.com/adcbin/index?partner=WNDAILY)  
+  
+  
+WND Resources|    
+---|---  
+[About WND](https://web.archive.org/resources/about_WND.asp)  
+[WND SCOOPS](https://web.archive.org/resources/scoops.asp)  
+[WND BOOKS](http://shop.wnd.com/store/subdept.asp?SUBDEPARTMENT_ID=131)  
+[ADVERTISE with WND](https://web.archive.org/mediakit/)  
+[Put WND headlines on your site](https://web.archive.org/affiliates/code-grab/)  
+Make WND your Home Page  
+[Sign up for WND Email Alerts](https://web.archive.org/resources/mailingList.asp)  
+[VOLUNTARY PAYMENT](http://shop.wnd.com/store/subdept.asp?SUBDEPARTMENT_ID=84)  
+[Download to your PDA](https://web.archive.org/resources/pda.asp)  
+[US Newspapers](https://web.archive.org/resources/us_newspapers.asp)  
+[Foreign Newspapers](https://web.archive.org/resources/foreign_newspapers.asp)  
+[Major News Wires](https://web.archive.org/resources/major_news_wires.asp)  
+[Other News Services](https://web.archive.org/resources/other_news_services.asp)  
+[Other Sites](https://web.archive.org/resources/other_sites.asp)  
+[Writer Archives](https://web.archive.org/resources/writers.asp)  
+[Contact Government Officials](http://www.visi.com/juan/congress/)  
+[Search Engines](https://web.archive.org/resources/search_engines.asp)  
+[Media](https://web.archive.org/resources/media.asp)  
+[Entertainment](https://web.archive.org/resources/entertainment.asp)  
+  
+  
+**     |   
+
 
 * * *
 
@@ -38,7 +65,7 @@ _WorldNetDaily.com (WorldNetDaily.com, Inc.) respects your right to the privacy 
 
 * * *
 
-[](https://www.truste.org/ivalidate.php?url=www.worldnetdaily.com)
+[](http://www.truste.org/ivalidate.php?url=www.worldnetdaily.com&sealid=101)
 
 **TRUSTe**   
 WorldNetDaily.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [WorldNetDaily.com](http://www.worldnetdaily.com/). TRUSTe is an independent, non-profit organization whose mission is to build users trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
@@ -128,7 +155,46 @@ WorldNetDaily.com, Inc.
 PO Box 1087  
 Grants Pass, OR 97528 
 
-_Privacy statement updated Aug. 5, 2004._
+_Privacy statement updated Aug. 5, 2004._   
 
-|    
+
+* * *
+
+|     |    
+  
+  
+| Today's WND Highlights|    
+---|---  
+  
+     News  
+   
+[Republicans lost because 'they just don't get it'](https://web.archive.org/news/article.asp?ARTICLE_ID=52884)  
+['Agent of Change' trounced by pro-war Republican](https://web.archive.org/news/article.asp?ARTICLE_ID=52878)  
+[Truckers call for boycott of foreign-owned road](https://web.archive.org/news/article.asp?ARTICLE_ID=52882)  
+[The God vacuum: America and the invading barbarians](https://web.archive.org/news/article.asp?ARTICLE_ID=52770)  
+['Pat Boone's America' tops Movers, Shakers list](https://web.archive.org/news/article.asp?ARTICLE_ID=52891)  
+[Farah headliner at Christian think tank](https://web.archive.org/news/article.asp?ARTICLE_ID=52893)  
+['Death with dignity' on trial in Florida](https://web.archive.org/news/article.asp?ARTICLE_ID=52887)  
+[U.S. Jewish groups refuse aid to refugees](https://web.archive.org/news/article.asp?ARTICLE_ID=52870)  
+[RNC chairman a closet 'gay,' charges Bill Maher](https://web.archive.org/news/article.asp?ARTICLE_ID=52877)  
+  
+     Commentary  
+   
+[Better choices than Gates  
+   \- By Joseph Farah](https://web.archive.org/news/article.asp?ARTICLE_ID=52879)  
+[It's about federalism, stupid!  
+   \- By Ilana Mercer](https://web.archive.org/news/article.asp?ARTICLE_ID=52885)  
+[The gloves are off  
+   \- By Melanie Morgan](https://web.archive.org/news/article.asp?ARTICLE_ID=52886)  
+[Pelosi and her 'Crash Dummies'  
+   \- By Kevin McCullough](https://web.archive.org/news/article.asp?ARTICLE_ID=52892)  
+[We're still at war  
+   \- By David Limbaugh](https://web.archive.org/news/article.asp?ARTICLE_ID=52894)  
+[A house divided in a time of war  
+   \- By Hal Lindsey](https://web.archive.org/news/article.asp?ARTICLE_ID=52888)  
+[Legitimizing partial-birth abortion  
+   \- By Jill Stanek](https://web.archive.org/news/article.asp?ARTICLE_ID=52890)  
+[Time for a rebirth of the Reagan Revolution  
+   \- By Jerome Corsi](https://web.archive.org/news/article.asp?ARTICLE_ID=52880)  
+  
 
