@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezleadcapture.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616084227id_/http%3A//ezleadcapture.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezleadcapture.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111115305id_/http%3A//ezleadcapture.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Lead Capture Page - I Make MLM Lead Capture Pages
 
