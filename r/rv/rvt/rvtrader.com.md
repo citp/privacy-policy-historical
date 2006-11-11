@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rvtrader.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615093028id_/http%3A//www.rvtrader.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvtrader.com privacy policy that was archived on 2006-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061111114351id_/http%3A//www.rvtrader.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Agreement
 
@@ -37,7 +37,7 @@ Back to Top
 
 **What cookies are and how they are used**
 
-As part of offering and providing customizable and personalized services, the RVTrader.com Classifieds may use [cookies](http://www.zdwebopedia.com/cookie.htm) to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Several features of the RVTrader.com Classifieds require that you accept cookies in order to work properly. (See "What choices are available to you regarding collection, use, and distribution of your information" for more information on cookies.) 
+As part of offering and providing customizable and personalized services, the RVTrader.com Classifieds may use [cookies](https://web.archive.org/web/20061111114351id_/http%3A//www.rvtrader.com/www.webopedia.com/TERM/c/cookie.html) to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Several features of the RVTrader.com Classifieds require that you accept cookies in order to work properly. (See "What choices are available to you regarding collection, use, and distribution of your information" for more information on cookies.) 
 
 Generally, we use cookies for the following purposes: 
 
@@ -49,7 +49,7 @@ Generally, we use cookies for the following purposes:
 
 Advertising networks that serve ads onto the RVTrader.com Classifieds may also use their own cookies. 
 
-The RVTrader.com Classifieds may also collect [IP addresses](http://www.zdwebopedia.com/TERM/I/IP_address.html) for system administration and to report aggregate information to our advertisers. 
+The RVTrader.com Classifieds may also collect [IP addresses](http://www.webopedia.com/TERM/I/IP_address.html) for system administration and to report aggregate information to our advertisers. 
 
 Back to Top
 
