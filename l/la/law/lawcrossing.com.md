@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawcrossing.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614025123id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawcrossing.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112205253id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.*
 
 # Law Crossing Privacy Policy - Legal Jobs, Law Jobs, Law Firm Job, Paralegal Jobs - Lawcrossing
 
