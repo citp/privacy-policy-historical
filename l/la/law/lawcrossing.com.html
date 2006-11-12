@@ -1,177 +1,35 @@
-<!--The following is the downloaded HTML source of the lawcrossing.com privacy policy that was archived on 2006-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060614025123id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lawcrossing.com privacy policy that was archived on 2006-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061112205253id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.-->
 
-<html><head><script src="http://www.lawcrossing.com/__utm.js" type="text/javascript"></script>
+<html><head><script src="http://www.lawcrossing.com/__utm.js" type="text/javascript"></script> 
 
 
-
-		<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+ 		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 		</script>
 		<script type="text/javascript">
 		_uacct = "UA-314492-1";
 		urchinTracker();
 		</script>
+				<!-- Start of StatCounter Code -->
+			<script type="text/javascript" language="javascript">
+			var sc_project=1646201; 
+			var sc_invisible=1; 
+			var sc_partition=15; 
+			var sc_security="b657086a"; 
+			</script>
+	
+			<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/frames.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c16.statcounter.com/counter.php?sc_project=1646201&amp;java=0&amp;security=b657086a&amp;invisible=1" alt="web statistics" border="0"></a> </noscript>
+			<!-- End of StatCounter Code -->
 	<script language="javascript">
-function opentellusabout()
-{
-	window.open('http://www.lawcrossing.com/lctellusaboutjob.php','lcpostjob','resizable=yes,height=400,width=582,toolbar=no,scrollbars=yes,top=80,left=100,titlebar=yes');
-}
-function lcnearyou()
-{
-	window.open('http://www.lawcrossing.com/lcnearyoupopup.php','lcnearyoupopup','resizable=no,height=300,width=188,toolbar=no,scrollbars=yes,top=80,left=100,titlebar=yes');
-}
-function whatsthis()
-{
-	window.open('lcwhatisthispopup.php','LCPOPUP', 'height=165,width=333,toolbar=no,scrollbars=no,top=80,left=100');
-}
-function revealjobdetail()
-{
-	document.formmyjobalert.clsjobalert_hdnsubmited.value=1;
-	document.formmyjobalert.clsjobalert_hdnaction.value="Reveal";
-	document.formmyjobalert.submit();
-}
-function hidejobdetail()
-{
-	document.formmyjobalert.clsjobalert_hdnsubmited.value=1;
-	document.formmyjobalert.clsjobalert_hdnaction.value="Hide";
-	document.formmyjobalert.submit();
-}
-function deletemyjobalert()
-{
-	delflag = false;
-	for(i=0; i<document.formmyjobalert.elements.length; i++)
-	{
-		if(document.formmyjobalert.elements[i].type=="checkbox" && document.formmyjobalert.elements[i].checked==true)
-			delflag = true;
-	}
-	if(delflag)
-	{
-		if(confirm("Are You sure to delete the job?"))
-		{
-			document.formmyjobalert.clsjobalert_hdnsubmited.value=1;
-			document.formmyjobalert.clsjobalert_hdnaction.value="D";
-			document.formmyjobalert.submit();
-		}
-	}
-	else
-	{
-		alert("Please select atleast one job alert.");
-	}
-}
-function emailmejobalert()
-{
-	delflag = false;
-	for(i=0; i<document.formmyjobalert.elements.length; i++)
-	{
-		if(document.formmyjobalert.elements[i].type=="checkbox" && document.formmyjobalert.elements[i].checked==true)
-			delflag = true;
-	}
-	if(delflag)
-	{
-		document.formmyjobalert.clsjobalert_hdnsubmited.value=1;
-		document.formmyjobalert.clsjobalert_hdnaction.value="MailMe";
-		document.formmyjobalert.submit();
-	}
-	else
-	{
-		alert("Please select atleast one job alert for E-mail.");
-	}
-}
-function cancelemailmyjobalert()
-{
-	delflag = false;
-	for(i=0; i<document.formmyjobalert.elements.length; i++)
-	{
-		if(document.formmyjobalert.elements[i].type=="checkbox" && document.formmyjobalert.elements[i].checked==true)
-			delflag = true;
-	}
-	if(delflag)
-	{
-		document.formmyjobalert.clsjobalert_hdnsubmited.value=1;
-		document.formmyjobalert.clsjobalert_hdnaction.value="MailCancel";
-		document.formmyjobalert.submit();
-	}
-	else
-	{
-		alert("Please select atleast one job alert for E-mail Delete.");
-	}
-}
-function openwinjobalert(jaid)
-{
-	document.formmyjobalert.clsjobalert_jaid.value=jaid;
-	document.formmyjobalert.action="http://www.lawcrossing.com/lcjsadvancesearch.php";
-	document.formmyjobalert.submit();
-}
-function deletejobalert(jaid)
-{
-	if(confirm("Are You sure to delete the job?"))
-	{
-		document.formmyjobalert.clsjobalert_hdnsubmited.value=1;
-		document.formmyjobalert.clsjobalert_hdnaction.value="D";
-		document.formmyjobalert.clsjobalert_jaid.value=jaid;
-		document.formmyjobalert.submit();
-	}
-}
-
-
-//Transfer from lccommon.php to common.php. changes made by sachin on 17/06/2005. Due to display javascript in cron job emails.
-function tellafriend(source)
-{
-	window.open("http://www.lawcrossing.com/lctellafreind.php?source="+source,"tellafriend","height=365,width=433,left=75,top=75,scrollbars=yes,resizable=no");
-}
-function signinquicktour(include_path)
-{//not calling from anywhere.
-  	var url;
-	url='http://www.lawcrossing.com/lcsignedtour.php';
-	window.open(url,'mywinhomeqt','height=411,width=578,toolbar=no,top=80,left=100,scrollbars=no')
-	//window.open(url,'mywinhomeqt','height=431,width=595,toolbar=no,top=80,left=100,scrollbars=yes')
-}
-function qthome(include_path)
-{
-  	var url;
-	url='http://www.lawcrossing.com/qthomepage/qt1.htm';
-
-	theight=screen.height-60;
-	if (theight>692) theight=692;
-	tmp='height='+(theight)+',width=595,toolbar=no,top=0,left=100,scrollbars=yes';
-	window.open(url,'mywinhomeqt',tmp);
-}
-function searchpagevalidation()
-{
-	err="";
-	flg=true;
-	for (i = 0; i < document.forms["formjobsrch"].elements.length; i++)
-	{
-		if(document.forms["formjobsrch"].elements[i].type == "select-one")
-		{
-			flg=flg && (document.forms["formjobsrch"].elements[i].value==0);
-		}
-	}
-
-	if (flg)
-		err="Select atleast one item";
-
-	if (err!="")
-	{
-		alert (err);
-		return ;
-	}
-	document.forms["formjobsrch"].target="lcwa";
-	document.forms["formjobsrch"].action = "http://www.lawcrossing.com/lcjssearchresults.php";
-	document.forms["formjobsrch"].submit();
-}
-
-function searchjobalert(jaid)
-{
-	document.formmyjobalert.clsjobalert_hdnsubmited.value=1;
-	document.formmyjobalert.clsjobalert_jaid.value=jaid;
-	document.formmyjobalert.action="http://www.lawcrossing.com/lcjssearchresults.php";
-	document.formmyjobalert.submit();
-}
+var HTTP = '';
+var LCWAWINDOWNAME = '';
+var include_path = '';
+HTTP = 'http://www.lawcrossing.com/';
+LCWAWINDOWNAME = 'lcwa';
+include_path = '';
 var orgwinname=window.name;
 window.name="lcwa";
 </script>
-
 
 <title>Law Crossing Privacy Policy - Legal Jobs, Law Jobs, Law Firm Job, Paralegal Jobs - Lawcrossing</title>
 <meta name="description" content="Lawcrossing provides law job, paralegal positions,legal job opportunities, attorney jobs, attorney employment, law firm job, legal staff &amp; career, in house counsel job, jobs in usa, attorney resume,Prosecutor job">
@@ -180,23 +38,22 @@ window.name="lcwa";
 <meta name="Robots" content="ALL">
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 <meta name="Author" content="lawcrossing.com">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" style="text/css" href="css/style.css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><link rel="stylesheet" style="text/css" href="css/style.css">
 <script language="javascript" src="script/general.js"></script>
 </head>
 <body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
 <center>
 <table cellpadding="0" cellspacing="0" width="742" border="0">
 	<tbody><tr>
-		<td align="center"><table width="728" cellspacing="0" cellpadding="0" border="0">
-    <tbody><tr>
-		<td height="5"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="5" border="0" alt=""></td>
+		<td align="center"><table width="780" cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td height="5"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="5" border="0"></td>
 	</tr>
-    <tr>
-		<td align="center"><iframe src="http://www.lawschoolloans.com/htm/supperbanner.php?website=2" frameborder="0" height="211" width="728" style="overflow:auto;"></iframe></td>
-	</tr>
-    <tr>
-		<td height="5"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="5" border="0" alt=""></td>
+	<!-- <tr>
+		<td align="center"><a href="https://www.lawschoolloans.com/lslloan_consolidation.php?mcts_campaignid=178&mcts_website=2" target="_blank"><img src="http://www.lawschoolloans.com/images/banners/sweepstakes_bnr_v2.jpg" alt="" width="728" height="120" border="0"></a></td>
+	</tr> -->
+	<tr>
+		<td height="5"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="5" border="0"></td>
 	</tr>
 </tbody></table></td>
 	</tr>
@@ -210,7 +67,7 @@ window.name="lcwa";
 				</tr>
 				<tr>
 					<td width="4%" height="30"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="1"></td>
-					<td width="96%"><a href="http://www.lawcrossing.com/index.php"><img src="http://images.lawcrossing.com/logo.gif" width="291" height="31" border="0" alt="<h1>Legal Jobs, Attorney Employment, Paralegal Jobs, Law Jobs, Attorney Jobs, Legal Recruiter, Law Job, Legal Job</h1>" title="Legal Jobs, Attorney Employment, Law Jobs"></a></td>
+					<td width="96%"><a href="http://www.lawcrossing.com/"><img src="http://images.lawcrossing.com/logo.gif" width="291" height="31" border="0" alt="<h1>Legal Jobs, Attorney Employment, Paralegal Jobs, Law Jobs, Attorney Jobs, Legal Recruiter, Law Job, Legal Job</h1>" title="Legal Jobs, Attorney Employment, Law Jobs"></a></td>
 				</tr>
 				<tr>
 					<td height="28" colspan="2"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="1"></td>
@@ -281,12 +138,15 @@ window.name="lcwa";
 					<table width="121" cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr>
 					<td width="121" align="center">
-						<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="121" height="107">
-						<param name="movie" value="http://images.lawcrossing.com/signupflash.swf">
-						<param name="quality" value="high">
-						<param name="bgcolor" value="#ffffff">
-						<embed src="http://images.lawcrossing.com/signupflash.swf" quality="high" width="121" height="107" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer">
-						</object>
+                        <script type="text/javascript">signup();</script><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="121" height="107"><param name="movie" value="http://images.lawcrossing.com/signupflash.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><embed src="http://images.lawcrossing.com/signupflash.swf" quality="high" width="121" height="107" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer"></object>
+                        <noscript>
+    						<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" WIDTH="121" HEIGHT="107">
+    						<PARAM NAME="movie" VALUE="http://images.lawcrossing.com/signupflash.swf">
+    						<PARAM NAME="quality" VALUE="high">
+    						<PARAM NAME="bgcolor" VALUE="#ffffff">
+    						<EMBED src="http://images.lawcrossing.com/signupflash.swf" quality="high" WIDTH="121" HEIGHT="107" TYPE="application/x-shockwave-flash" PLUGINSPAGE="https://www.macromedia.com/go/getflashplayer"></EMBED>
+    						</OBJECT>
+                        </noscript>
 					</td>
 				</tr>
 				<tr>
@@ -644,7 +504,7 @@ function shownewrecord(type)
 	<tr>
 		<td class="size1normal"><select name="clsjobalert_jobalertregionarray[]">
 				<option value="-1" selected="">Select All</option>
-					<option value="51">Alabama</option><option value="52">Alaska</option><option value="2727">American Samoa</option><option value="53">Arizona</option><option value="1261">Arizona-Phoenix</option><option value="1424">Arizona-Other</option><option value="99">Arkansas</option><option value="54">California</option><option value="1243">California-Oakland</option><option value="1302">California-San Jose</option><option value="1301">California-San Francisco</option><option value="1194">California-Los Angeles</option><option value="1300">California-San Diego</option><option value="1293">California-Sacramento</option><option value="1246">California-Orange</option><option value="1425">California-Other</option><option value="55">Colorado</option><option value="1373">Colorado-Denver</option><option value="1426">Colorado-Other</option><option value="56">Connecticut</option><option value="1144">Connecticut-Hartford</option><option value="1427">Connecticut-Other</option><option value="57">Delaware</option><option value="1398">Delaware-Wilmington</option><option value="58">District of Columbia</option><option value="1383">District of Columbia-Washington</option><option value="59">Florida</option><option value="1349">Florida-Tampa</option><option value="1212">Florida-Miami</option><option value="1247">Florida-Orlando</option><option value="1430">Florida-Other</option><option value="60">Georgia</option><option value="1397">Georgia-Atlanta</option><option value="1431">Georgia-Other</option><option value="2728">Guam</option><option value="61">Hawaii</option><option value="62">Idaho</option><option value="63">Illinois</option><option value="1080">Illinois-Chicago</option><option value="1434">Illinois-Other</option><option value="64">Indiana</option><option value="1154">Indiana-Indianapolis</option><option value="1435">Indiana-Other</option><option value="100">Iowa</option><option value="65">Kansas</option><option value="66">Kentucky</option><option value="67">Louisiana</option><option value="68">Maine</option><option value="69">Maryland</option><option value="1025">Maryland-Baltimore</option><option value="1440">Maryland-Other</option><option value="70">Massachusetts</option><option value="1049">Massachusetts-Boston</option><option value="1441">Massachusetts-Other</option><option value="71">Michigan</option><option value="1130">Michigan-Grand Rapids</option><option value="1098">Michigan-Detroit</option><option value="1442">Michigan-Other</option><option value="72">Minnesota</option><option value="1218">Minnesota-Minneapolis</option><option value="73">Mississippi</option><option value="74">Missouri</option><option value="1336">Missouri-St. Louis</option><option value="1164">Missouri-Kansas City</option><option value="1445">Missouri-Other</option><option value="75">Montana</option><option value="76">Nebraska</option><option value="77">Nevada</option><option value="78">New Hampshire</option><option value="79">New Jersey</option><option value="80">New Mexico</option><option value="81">New York</option><option value="1060">New York-Buffalo</option><option value="1007">New York-Albany</option><option value="1287">New York-Rochester</option><option value="2284">New York-New York City</option><option value="1452">New York-Other</option><option value="82">North Carolina</option><option value="1075">North Carolina-Charlotte</option><option value="1273">North Carolina-Raleigh</option><option value="1453">North Carolina-Other</option><option value="101">North Dakota</option><option value="2729">Northern Mariana Islands</option><option value="83">Ohio</option><option value="1083">Ohio-Cleveland</option><option value="1082">Ohio-Cincinnati</option><option value="1454">Ohio-Other</option><option value="84">Oklahoma</option><option value="1244">Oklahoma-Oklahoma City</option><option value="85">Oregon</option><option value="86">Pennsylvania</option><option value="1263">Pennsylvania-Pittsburgh</option><option value="1259">Pennsylvania-Philadelphia</option><option value="1457">Pennsylvania-Other</option><option value="2730">Puerto Rico</option><option value="87">Rhode Island</option><option value="88">South Carolina</option><option value="89">South Dakota</option><option value="90">Tennessee</option><option value="1234">Tennessee-Nashville</option><option value="1461">Tennessee-Other</option><option value="91">Texas</option><option value="1022">Texas-Austin</option><option value="1298">Texas-San Antonio</option><option value="1152">Texas-Houston</option><option value="1091">Texas-Dallas</option><option value="1462">Texas-Other</option><option value="92">Utah</option><option value="93">Vermont</option><option value="2731">Virgin Islands</option><option value="94">Virginia</option><option value="1283">Virginia-Richmond</option><option value="1465">Virginia-Other</option><option value="95">Washington</option><option value="96">West Virginia</option><option value="97">Wisconsin</option><option value="98">Wyoming</option><option value="151">Alberta</option><option value="152">British Columbia</option><option value="153">Ontario</option><option value="154">Quebec</option><option value="2671">Australia-Melbourne</option><option value="2663">Belgium-Other</option><option value="2591">Belgium-Brussels</option><option value="2588">China-Beijing</option><option value="2670">China-Other</option><option value="2589">China-Shanghai</option><option value="2567">England-London</option><option value="2655">England-Other</option><option value="2734">England-Avon</option><option value="2668">Europe-Other</option><option value="2571">France-Paris</option><option value="2657">France-Other</option><option value="2656">Germany-Other</option><option value="2598">Germany-Dusseldorf</option><option value="2597">Germany-Frankfurt/Main</option><option value="2595">Germany-Munich</option><option value="2662">Greece-Other</option><option value="2599">Greece-Athens</option><option value="2666">Holland-Other</option><option value="2665">Holland-Amsterdam</option><option value="2659">Italy-Other</option><option value="2658">Italy-Rome</option><option value="2573">Japan-Tokyo</option><option value="2669">Japan-Other</option><option value="2603">Russia-Moscow</option><option value="2667">Russia-Other</option><option value="2661">Spain-Other</option><option value="2660">Spain-Madrid</option></select></td>
+					<option value="51">Alabama</option><option value="52">Alaska</option><option value="2727">American Samoa</option><option value="53">Arizona</option><option value="1261">Arizona-Phoenix</option><option value="1424">Arizona-Other</option><option value="99">Arkansas</option><option value="54">California</option><option value="1246">California-Orange</option><option value="1243">California-Oakland</option><option value="1302">California-San Jose</option><option value="1301">California-San Francisco</option><option value="1194">California-Los Angeles</option><option value="1300">California-San Diego</option><option value="1293">California-Sacramento</option><option value="1425">California-Other</option><option value="55">Colorado</option><option value="1373">Colorado-Denver</option><option value="1426">Colorado-Other</option><option value="56">Connecticut</option><option value="1144">Connecticut-Hartford</option><option value="1427">Connecticut-Other</option><option value="57">Delaware</option><option value="1398">Delaware-Wilmington</option><option value="58">District of Columbia</option><option value="1383">District of Columbia-Washington</option><option value="59">Florida</option><option value="1247">Florida-Orlando</option><option value="1349">Florida-Tampa</option><option value="1212">Florida-Miami</option><option value="1430">Florida-Other</option><option value="60">Georgia</option><option value="1397">Georgia-Atlanta</option><option value="1431">Georgia-Other</option><option value="2728">Guam</option><option value="61">Hawaii</option><option value="62">Idaho</option><option value="63">Illinois</option><option value="1080">Illinois-Chicago</option><option value="1434">Illinois-Other</option><option value="64">Indiana</option><option value="1154">Indiana-Indianapolis</option><option value="1435">Indiana-Other</option><option value="100">Iowa</option><option value="65">Kansas</option><option value="66">Kentucky</option><option value="67">Louisiana</option><option value="68">Maine</option><option value="69">Maryland</option><option value="1025">Maryland-Baltimore</option><option value="1440">Maryland-Other</option><option value="70">Massachusetts</option><option value="1049">Massachusetts-Boston</option><option value="1441">Massachusetts-Other</option><option value="71">Michigan</option><option value="1130">Michigan-Grand Rapids</option><option value="1098">Michigan-Detroit</option><option value="1442">Michigan-Other</option><option value="72">Minnesota</option><option value="1218">Minnesota-Minneapolis</option><option value="73">Mississippi</option><option value="74">Missouri</option><option value="1336">Missouri-St. Louis</option><option value="1164">Missouri-Kansas City</option><option value="1445">Missouri-Other</option><option value="75">Montana</option><option value="76">Nebraska</option><option value="77">Nevada</option><option value="78">New Hampshire</option><option value="79">New Jersey</option><option value="80">New Mexico</option><option value="81">New York</option><option value="1060">New York-Buffalo</option><option value="1007">New York-Albany</option><option value="1287">New York-Rochester</option><option value="2284">New York-New York City</option><option value="1452">New York-Other</option><option value="82">North Carolina</option><option value="1075">North Carolina-Charlotte</option><option value="1273">North Carolina-Raleigh</option><option value="1453">North Carolina-Other</option><option value="101">North Dakota</option><option value="2729">Northern Mariana Islands</option><option value="83">Ohio</option><option value="1083">Ohio-Cleveland</option><option value="1082">Ohio-Cincinnati</option><option value="1454">Ohio-Other</option><option value="84">Oklahoma</option><option value="1244">Oklahoma-Oklahoma City</option><option value="85">Oregon</option><option value="86">Pennsylvania</option><option value="1259">Pennsylvania-Philadelphia</option><option value="1263">Pennsylvania-Pittsburgh</option><option value="1457">Pennsylvania-Other</option><option value="2730">Puerto Rico</option><option value="87">Rhode Island</option><option value="88">South Carolina</option><option value="89">South Dakota</option><option value="90">Tennessee</option><option value="1234">Tennessee-Nashville</option><option value="1461">Tennessee-Other</option><option value="91">Texas</option><option value="1091">Texas-Dallas</option><option value="1022">Texas-Austin</option><option value="1298">Texas-San Antonio</option><option value="1152">Texas-Houston</option><option value="1462">Texas-Other</option><option value="92">Utah</option><option value="93">Vermont</option><option value="2731">Virgin Islands</option><option value="94">Virginia</option><option value="1283">Virginia-Richmond</option><option value="1465">Virginia-Other</option><option value="95">Washington</option><option value="96">West Virginia</option><option value="97">Wisconsin</option><option value="98">Wyoming</option><option value="151">Alberta</option><option value="152">British Columbia</option><option value="153">Ontario</option><option value="154">Quebec</option><option value="2671">Australia-Melbourne</option><option value="2591">Belgium-Brussels</option><option value="2663">Belgium-Other</option><option value="2589">China-Shanghai</option><option value="2588">China-Beijing</option><option value="2670">China-Other</option><option value="2567">England-London</option><option value="2655">England-Other</option><option value="2734">England-Avon</option><option value="2668">Europe-Other</option><option value="2571">France-Paris</option><option value="2657">France-Other</option><option value="2597">Germany-Frankfurt/Main</option><option value="2595">Germany-Munich</option><option value="2656">Germany-Other</option><option value="2598">Germany-Dusseldorf</option><option value="2662">Greece-Other</option><option value="2599">Greece-Athens</option><option value="2666">Holland-Other</option><option value="2665">Holland-Amsterdam</option><option value="2659">Italy-Other</option><option value="2658">Italy-Rome</option><option value="2573">Japan-Tokyo</option><option value="2669">Japan-Other</option><option value="2667">Russia-Other</option><option value="2603">Russia-Moscow</option><option value="2661">Spain-Other</option><option value="2660">Spain-Madrid</option></select></td>
 	</tr>
 	<tr>
 		<td height="20" class="faqmaroon" valign="bottom">Employer Type</td>
@@ -706,10 +566,10 @@ function shownewrecord(type)
 	</tr>
 	<tr>
 		<td width="8"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="1" border="0"></td>
-		<td width="85"><img src="http://images.lawcrossing.com/ntotaljobs.gif" width="69" height="5" border="0"><br><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="9" border="0"><br><font face="Verdana" size="2" color="#8B8B70"><b>82415</b></font></td>
+		<td width="85"><img src="http://images.lawcrossing.com/ntotaljobs.gif" width="69" height="5" border="0"><br><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="9" border="0"><br><font face="Verdana" size="2" color="#8B8B70"><b>97575</b></font></td>
 		<td width="2" class="maroonbg" height="68"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="1" border="0"></td>
 		<td width="8"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="1" border="0"></td>
-		<td width="117"><img src="http://images.lawcrossing.com/nnewjoblast7days.gif" width="95" height="13" border="0"><br><font face="Verdana" size="2" color="#8B8B70"><b>19474</b></font></td>
+		<td width="117"><img src="http://images.lawcrossing.com/nnewjoblast7days.gif" width="95" height="13" border="0"><br><font face="Verdana" size="2" color="#8B8B70"><b>21170</b></font></td>
 	</tr>
 </tbody></table>
 <table width="222" cellpadding="0" cellspacing="0" class="whitebg" border="0">
@@ -741,41 +601,29 @@ function shownewrecord(type)
 		<td width="9"><img src="http://images.lawcrossing.com/blanker.gif" width="9" height="1" border="0"></td>
 		<td width="212">
 			<table width="100%" cellpadding="0" cellspacing="0" border="0">
-					
-						            	<tbody><tr>
+															
+										<tbody><tr>
 						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
 					</tr>
-										<tr>
-						<td align="center">
-							<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="212" height="200">
-							<param name="movie" value="http://www.lawschoolloans.com/images/banners/lslbanner_for_lc_212x200.swf">
-							<param name="quality" value="high">
-							<embed src="http://www.lawschoolloans.com/images/banners/lslbanner_for_lc_212x200.swf" quality="high" width="212" height="200" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
-							</object>
-						</td>
+					<tr>
+						<td align="center"><a href="http://www.lawcrossing.com/pressroom/lcaudioroom.php"><img src="http://images.lawcrossing.com/lcaudioroombanner.jpg" width="212" height="75" border="0"></a></td>
 					</tr>
 					<tr>
 						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
 					</tr>
-					<tr>
-						<td height="11"><a href="http://www.judged.com" target="_blank"><img src="http://images.lawcrossing.com/judged_rightbanner.gif" width="212" height="100" border="0"></a></td>
+					                    					<tr>
+						<td height="11"><a href="http://www.judged.com" target="_blank"><img src="http://www.judged.com/images/banner/judged_rightbanner.gif" width="212" height="75" border="0"></a></td>
 					</tr>
 											            	<tr>
 						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
 					</tr>
 										<tr>
-						<td><a href="http://www.lawcrossing.com/htm/lc_most_dangerous_popup.html" target="_blank"><img src="http://images.lawcrossing.com/lc_6_most_dangerous_212x90_banner01.gif" width="213" height="76" border="0"></a></td>
+						<td><a href="http://www.lawcrossing.com/htm/lc_most_dangerous_popup.html" target="_blank"><img src="http://images.lawcrossing.com/lc_6_most_dangerous_212x50.gif" width="212" height="50" border="0"></a></td>
 					</tr>
 					<tr>
 						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
 					</tr>
 										<tr>
-   	        				<td><a href="http://www.lawschoolloans.com" target="_blank"><img src="http://images.lawcrossing.com/lslbanner_212x90.gif" width="212" height="90" border="0"></a></td>
-       	    			</tr>
-					<tr>
-						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
-					</tr>
-					<tr>
 						<td><!-- LC Nearyou Falsh Module-->
 <script>
 function mapsearchpopup()
@@ -797,12 +645,15 @@ function mapsearchpopup()
 	</tr>
 	<tr>
 		<td align="center"><!-- Flash Module -->
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="174" height="103" id="final2" align="middle">
+<script type="text/javascript">lcnearyou();</script><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="174" height="103" id="final2" align="middle"><param name="movie" value="http://www.lawcrossing.com/lcjobsnearyou.swf"><param name="quality" value="high"><param name="bgcolor" value="#e6e5c4"><embed src="http://www.lawcrossing.com/lcjobsnearyou.swf" quality="high" bgcolor="#e6e5c4" width="174" height="103" name="final2" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer"></object>
+<noscript>
+    <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"  width="174" height="103" id="final2" align="middle">
 	<param name="movie" value="http://www.lawcrossing.com/lcjobsnearyou.swf">
 	<param name="quality" value="high">
 	<param name="bgcolor" value="#e6e5c4">
-	<embed src="http://www.lawcrossing.com/lcjobsnearyou.swf" quality="high" bgcolor="#e6e5c4" width="174" height="103" name="final2" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer">
-</object>
+	<embed src="http://www.lawcrossing.com/lcjobsnearyou.swf" quality="high" bgcolor="#e6e5c4" width="174" height="103" name="final2" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer">
+    </object>
+</noscript>
 </td>
 	</tr>
 	<tr>
@@ -832,89 +683,25 @@ function mapsearchpopup()
 </map></td>
 					</tr>
 					<tr>
-						<td height="11"><img src="blanker.gif" width="1" height="11" border="0"></td>
-					</tr>
-					<tr>
 						<td></td>
 					</tr>
 					<tr>
-						<td height="11" align="center"><a href="http://www.jmls.edu/academics/re_law/infosession.shtml" target="_blank"><img src="http://images.lawcrossing.com/banner/thirdparty/banner_johnmarshall.gif" width="208" height="90" border="0"></a></td>
-					</tr>
-                    <tr>
 						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
 					</tr>
+					<tr>
+						<td><a href="http://www.uclaextension.edu/aatp" target="_blank"><img src="http://images.lawcrossing.com/banner/thirdparty/aat_program_banner.gif" width="212" height="90" border="0" alt="Attorney Assistant Training Program"></a></td>
+					</tr>
+					<tr>
+						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
+					</tr>				
                     					 <tr>
-						<td><a href="http://www.lawschoolloans.com/5dangeroustrends.php" target="_blank"><img src="http://images.lawcrossing.com/lsl_5dangeroustrends.gif" width="212" height="180" border="0" alt="5 Most Dangerous Trends of Student Loan Companies"></a></td>
-					</tr>
-					<tr>
-						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
-					</tr>
-										<tr>
-		           		<td><!-- Tell Us About a Job -->
-<table width="212" cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>
-		<td><a href="http://www.lawcrossing.com/lctellusaboutjob.php?imgid=0"><img src="http://images.lawcrossing.com/postjobs_nailemployee.gif" width="212" height="212" border="0" alt=""></a></td>
-	</tr>
-	</tbody></table>
-</td>
-       	    		</tr>
-					<tr>
-						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
-					</tr>
-										<tr>
-						<td><table width="212" cellspacing="0" cellpadding="0" border="0" class="yellowbg">
-	<tbody><tr>
-    		<td width="10" rowspan="5"><img src="http://images.lawcrossing.com/blanker.gif" width="12" height="1" border="0"></td>
-		<td width="193" height="15"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="15" border="0"></td>
-		<td width="9" rowspan="5"><img src="http://images.lawcrossing.com/blanker.gif" width="9" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td width="193"><img src="http://images.lawcrossing.com/lcnearyou.gif" width="131" height="5" border="0"></td>
-	</tr>
-	<tr>
-		<td width="193" height="10"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="10" border="0"></td>
-	</tr>
-	<tr>
-		<td width="193">
-			<table width="100%" cellpadding="0" cellspacing="0" border="0">
-               	<tbody><tr>
-					<td width="188" class="yellowbglit">
-						<table width="100%" cellpadding="0" cellspacing="0" border="0" class="yellowbglit">
-							<tbody><tr>
-								<td width="40"><img src="http://images.lawcrossing.com/blanker.gif" width="7" height="1" border="0" align="absmiddle"><img src="http://images.lawcrossing.com/lcjobs.gif" width="24" height="5" border="0"></td>
-								<td width="1" height="12" background="http://images.lawcrossing.com/dotsearchh.gif"><img src="http://images.lawcrossing.com/blanker.gif" alt="" width="1" height="12" border="0"></td>
-								<td width="147"><img src="http://images.lawcrossing.com/lccity.gif" width="29" height="5" border="0"></td>
-							</tr>
-						</tbody></table>
-						<table width="100%" cellpadding="0" cellspacing="0" border="0" class="yellowbglit">
-                              	<tbody><tr>
-								<td width="173" height="1" background="http://images.lawcrossing.com/dotsearch.gif"><img src="http://images.lawcrossing.com/blanker.gif" alt="" width="1" height="1" border="0"></td>
-								<td width="15" rowspan="3"><img src="http://images.lawcrossing.com/blanker.gif" width="15" height="1" border="0"></td>
-                              	</tr>
-							<tr>
-								<td width="100%" height="1" bgcolor="#FFFFFF"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="1" border="0"></td>
-							</tr>
-							<tr>
-								<td width="100%" height="1"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="1" border="0"></td>
-							</tr>
-                              </tbody></table>
-							 <iframe frameborder="0" width="188" height="200" marginheight="0" marginwidth="0" scrolling="yes" src="http://www.lawcrossing.com/lcnearyou_iframeinner.php"></iframe>
-					</td>
-					<td width="5"><img src="http://images.lawcrossing.com/blanker.gif" width="5" height="1" border="0"></td>
-               	</tr>
-               </tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td height="18"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="18" border="0"></td>
-	</tr>
-</tbody></table></td>
+						<td><a href="http://www.lawschoolloans.com/5dangeroustrends.php" target="_blank"><img src="http://images.lawcrossing.com/lsl_5dangeroustrends.gif" width="212" height="85" border="0" alt="5 Most Dangerous Trends of Student Loan Companies"></a></td>
 					</tr>
 					<tr>
 						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
 					</tr>
 															<tr>
-						<td><a href="http://www.edfed.com" target="_blank"><img src="http://www.edfed.com/images/banner/edfedbanner_212x300.gif" width="212" height="300" border="0"></a></td>
+						<td><a href="http://www.edfed.com" target="_blank"><img src="http://images.lawcrossing.com/edfedbanner_212x85.gif" width="212" height="85" border="0"></a></td>
 					</tr>
 					<tr>
 						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
@@ -927,56 +714,34 @@ function mapsearchpopup()
 					</tr>
 					
 											<tr>
-	   	        				<td><!-- Testimonials Starts here -->
-		<script language="javascript">
-			function testimonialpopup()
-			{
-				window.open("http://www.lawcrossing.com/lctestimonialpopup.php","testimonialpopup","height=460,width=487,left=150,top=150,scrollbars=yes,resizable=no");
-			}
-		</script>
-		<table width="212" cellpadding="0" cellspacing="0" border="0" class="yellowbg">
-			<tbody><tr>
-		    		<td width="100%" height="13" colspan="3"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="13" border="0"></td>
-			</tr>
-			<tr>
-		    		<td width="12" rowspan="6"><img src="http://images.lawcrossing.com/blanker.gif" width="12" height="1" border="0"></td>
-				<td width="191" valign="bottom">
-											<a href="http://www.lawcrossing.com/lctestimonials.php?utype=1"><img src="http://images.lawcrossing.com/smtitle_ppllovelawcrossing.gif" border="0" name="testimonials" width="160" height="18"></a>
-									</td>
-				<td width="9" rowspan="6"><img src="http://images.lawcrossing.com/blanker.gif" width="9" height="1" border="0"></td>
-			</tr>
-			<tr>
-		    		<td height="10"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="10" border="0"></td>
-			</tr>
-			<tr>
-          		<td class="size1green">
-					<table width="96%" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td class="size1green">
-			I recently found an in-house position in Tennessee. LawCrossing was extremely helpful in my job search. <br><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="18" border="0" align="bottom">Lowell<br>		</td>
-	</tr>
-</tbody></table>
-				</td>
-          	</tr>
-			<tr>
-          		<td height="15"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="15" border="0"></td>
-          	</tr>
-		</tbody></table>
-		<table width="212" cellpadding="0" cellspacing="0" border="0" class="yellowbg">
-			<tbody><tr>
-          		<td align="right">
-											<a href="http://www.lawcrossing.com/lctestimonials.php?utype=1"><img src="http://images.lawcrossing.com/lcsucess_stories_button.gif" width="198" height="28" border="0"></a>
-									</td>
-			</tr>
-			<tr>
-				<td><a href="javascript:testimonialpopup()"><img src="http://images.lawcrossing.com/lc_shareyourstory.gif" width="119" height="18" border="0"></a></td>
-			</tr>
-			<tr>
-          		<td height="18"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="18" border="0"></td>
-          	</tr>
-		</tbody></table>
-		<!-- Testimonials Ends here -->
-</td>
+	   	        				<td>					<table width="212" cellspacing="0" cellpadding="0" border="0">
+			        	<tbody><tr>	
+			        		<td height="2" class="maroonbg" colspan="2"><img src="http://images.lawcrossing.com/blanker.gif" alt="" width="1" height="2" border="0"></td>
+			        	</tr>
+						<tr>	
+			        		<td valign="top" colspan="2"><img src="http://images.lawcrossing.com/testimonials2.jpg" alt="" width="212" height="35" border="0"></td>
+						</tr>
+						<tr bgcolor="d6d3c3">
+							<td width="113" class="testitext" style="padding-top:5px; padding-left:5px; padding-bottom:5px;">
+								Thanks! I signed up and LawCrossing has been very helpful so...								<br><br style="line-height:5px;">
+								<strong>Alison</strong>
+							</td>
+                            <td valign="top" width="99"><img src="http://images.lawcrossing.com/left_testimonial1.jpg" alt="" width="99" height="74" border="0"></td>
+						</tr>
+						<tr>
+							<td height="11" bgcolor="a8a081" colspan="2" align="left"><a href="javascript:testimonialpopup();"><img src="http://images.lawcrossing.com/shareyourstory1.gif" alt="" width="120" height="13" border="0" hspace="10"></a></td>
+						</tr>
+                        <tr>
+							<td bgcolor="#330000" colspan="2" align="left"><a href="http://www.lawcrossing.com/lctestimonials.php"><img src="http://images.lawcrossing.com/readlawcrossing2.gif" alt="" width="141" height="23" border="0" hspace="10"></a></td>
+						</tr>
+						<tr>	
+			        		<td height="2" class="maroonbg" colspan="2"><img src="http://images.lawcrossing.com/blanker.gif" alt="" width="1" height="2" border="0"></td>
+			        	</tr>
+			    </tbody></table>
+	
+	
+	
+	</td>
 	       	    			</tr>
 						<tr>
 							<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
@@ -1035,7 +800,7 @@ function loststring()
 		<td height="10"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="10" border="0"></td>
 	</tr>
 	<tr>
-		<td class="size1green">Sign Up for our free weekly newsletter and get essential news for your job market.</td>
+		<td class="size1green">Sign up for our free weekly, newsletter and get essential news for your job market.</td>
 	</tr>
 	<tr>
 		<td height="10"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="10" border="0"></td>
@@ -1068,6 +833,94 @@ function loststring()
 						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
 					</tr>
 										<tr>
+            			<td>		<script language="javascript">
+		function chkwebpollform()
+		{
+			var radio_choice = false;
+			var err="";
+			for (counter = 0; counter < document.webpollform.clswebpoll_optionid.length; counter++)
+			{
+				if (document.webpollform.clswebpoll_optionid[counter].checked)
+				radio_choice = true; 
+			}
+			if (!radio_choice)
+				err+="Please select atleast one option.\n";
+				
+			if(err!="")
+			{
+				alert(err);
+			}
+			else
+			{
+				document.webpollform.action = "";
+				document.webpollform.target = "";
+				window.open("","WebpollResult","height=470,width=418,left=75,top=75,scrollbars=yes,location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no'");				
+				document.webpollform.action = "lcwebpoll_popup.php";
+				document.webpollform.target = "WebpollResult";
+				document.webpollform.submit();
+			}
+		}
+		</script>
+		<table width="212" cellpadding="0" cellspacing="0" class="yellowbglit" border="0">
+			<tbody><tr>
+				<td colspan="3" height="5">
+					<form name="webpollform" action="" method="POST">
+					<input type="hidden" name="clswebpoll_pollid" value="4">
+					<img src="http://images.lawcrossing.com/blanker.gif" width="1" height="5" border="0">
+				</form></td>
+			</tr>
+			<tr>
+				<td width="12" rowspan="6"><img src="http://images.lawcrossing.com/blanker.gif" width="12" height="1" border="0"></td>
+				<td width="191"><img src="http://images.lawcrossing.com/titlewebpoll.gif" width="55" height="5" border="0"></td>
+				<td width="9" rowspan="6"><img src="http://images.lawcrossing.com/blanker.gif" width="9" height="1" border="0"></td>
+			</tr>
+			<tr>
+				<td height="5"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="5" border="0"></td>
+			</tr>
+			<tr>
+				<td class="size1green"><strong><font color="#ae0006"><br>The proposed Uniform Computer Information Transactions Act (UCITA) would create and clarify rules governing computer technology, including fair use, reverse engineering, and consumer protections and warranties.  However, critics argue that, if passed, it would weaken consumer protections, reinterpret contracts and licenses in favor of software producers, and disregard the entitlements of consumers.  <a href="http://www.arl.org/info/frn/copy/ucitapg.html" target="blank">Click here</a> to read more. 
+<br>
+<br>
+<b>Do you think UCITA should be passed?</b></font></strong></td>
+			</tr>
+			<tr>
+				<td height="5"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="5" border="0"></td>
+			</tr>
+			<tr>
+				<td>
+					<table width="100%" cellpadding="0" cellspacing="0" border="0" class="size1normal">
+												<tbody><tr>
+							<td width="1%"><input type="radio" name="clswebpoll_optionid" value="10"></td>
+							<td>Yes</td>
+						</tr>
+												<tr>
+							<td width="1%"><input type="radio" name="clswebpoll_optionid" value="11"></td>
+							<td>No</td>
+						</tr>
+												<tr>
+							<td width="1%"><input type="radio" name="clswebpoll_optionid" value="12"></td>
+							<td>Undecided</td>
+						</tr>
+												<tr>
+							<td height="5" colspan="2"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="5" border="0"></td>
+						</tr>
+						<tr>
+							<td colspan="2" valign="bottom" align="left"><a href="javascript:chkwebpollform()"><img src="http://images.lawcrossing.com/btn_vote.gif" width="44" height="21" border="0"></a></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td height="10"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="10" border="0"></td>
+			</tr>
+			
+		</tbody></table>
+		</td>
+            		</tr>
+					<tr>
+						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
+					</tr>
+					<tr>
 		          		<td><a href="http://www.legalauthority.com" target="_blank"><img src="http://images.lawcrossing.com/labanner_212x90.gif" width="212" height="90" border="0"></a></td>
 		            </tr>
 					<tr>
@@ -1097,7 +950,7 @@ function loststring()
 					<tr>
 						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
 					</tr>
-										<tr>
+															<tr>
 						<td><!-- Begin: AdBrite -->
 <table width="212" cellpadding="0" cellspacing="0" class="yellowbg" border="0">
 	<tbody><tr>
@@ -1130,31 +983,27 @@ function loststring()
 					<tr>
 						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
 					</tr>
-					<tr>
-		          		<td><a href="http://www.attorneyresume.com" target="_blank"><img src="http://images.lawcrossing.com/arbanner_212x90.gif" width="212" height="90" border="0"></a></td>
+										<tr>
+		          		<td><noscript><a href ='http://www.attorneyresume.com/tmlandingpage.php?lpgid=58&wsid=2&cid=396&bid=151&compid=12&style=reg&lpgprty=C&tp=B' target='_blank'><img src ='http://www.attorneyresume.com/tmviewbanner.php?lpgid=58&wsid=2&cid=396&bid=151&compid=12&style=reg&lpgprty=C&tp=B' border='0'></a></noscript> <script language="JavaScript" type="text/javascript" src="http://www.attorneyresume.com/tmviewbanner.php?lpgid=58&amp;wsid=2&amp;cid=396&amp;bid=151&amp;compid=12&amp;style=js&amp;lpgprty=C&amp;tp=B"> </script></td>
 		            </tr>
 										<tr>
 						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
 					</tr>
 					<tr>
-						<td><table width="212" cellpadding="0" cellspacing="0" class="yellowbg" border="0">
+						<td><table width="212" cellpadding="0" cellspacing="0" border="0" background="http://images.lawcrossing.com/legaljobs_background.gif">
 	<tbody><tr>
-    		<td width="100%" height="13" colspan="3"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="13" border="0"></td>
+    	<td colspan="3"><img src="http://images.lawcrossing.com/title_banner_legaljobs_new.gif" width="212" height="89" border="0"></td>
 	</tr>
 	<tr>
-    		<td width="12" rowspan="3"><img src="http://images.lawcrossing.com/blanker.gif" width="12" height="1" border="0"></td>
-		<td width="191"><img src="http://images.lawcrossing.com/title_banner_legaljobs.gif" width="175" height="55" border="0"></td>
-		<td width="9" rowspan="3"><img src="http://images.lawcrossing.com/blanker.gif" width="9" height="1" border="0"></td>
+    		<td width="12"><img src="http://images.lawcrossing.com/blanker.gif" width="12" height="1" border="0"></td>
+			<td class="size1green"><font color="#ffffff">Thousands of law firms, corporations, various courts, and government and nonprofit organizations are right now hiring attorneys, paralegals, legal secretaries, and law students. How do we know this? Our staff of more than 150 researchers is contacting these employers on an unparalleled scale. We are in daily contact with thousands of employers who post jobs on LawCrossing for free. From multinational law firms with thousands of attorneys on staff to small firms in need of part-time paralegals, LawCrossing covers the entire gamut of the country’s legal jobs. Become a LawCrossing member today!</font><br><br>
+			</td><td width="9"><img src="http://images.lawcrossing.com/blanker.gif" width="9" height="1" border="0"></td>
 	</tr>
 	<tr>
-    		<td height="12"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="12" border="0"></td>
+    		<td colspan="3" align="center"><a href="https://www.lawcrossing.com/lcsignin.php" target="_blank"><img src="http://images.lawcrossing.com/nextjob_btn.gif" width="201" height="22" border="0"><font class="smallmaroon"></font></a></td>
 	</tr>
 	<tr>
-    		<td class="size1green">Thousands of law firms, corporations, various courts, and government and nonprofit organizations are right now hiring attorneys, paralegals, legal secretaries, and law students. How do we know this? Our staff of more than 300 researchers is contacting these employers on an unparalleled scale. We are in a daily contact with thousands of employers who post jobs on LawCrossing for free. From multinational law firms with thousands of attorneys on staff to small firms in need of part-time paralegals, LawCrossing covers the entire gamut of the country’s legal jobs. Become a LawCrossing member today!<br><br>
-			<span><font class="smallmaroon"><a href="https://www.lawcrossing.com/lcsignin.php" style="font-size: 11px;">Your next job is just a few clicks away.</a></font></span></td>
-	</tr>
-	<tr>
-    		<td height="18" colspan="3"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="18" border="0"></td>
+    	<td colspan="3" height="10"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="1" border="0"></td>
 	</tr>
 </tbody></table></td>
       		    		</tr>
@@ -1167,14 +1016,65 @@ function loststring()
 										<tr>
 						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
 					</tr>
+					<!-- arg-lafs-jdj logo -->
 					<tr>
-						<td>
-							<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="212" height="300">
-							<param name="movie" value="http://images.lawcrossing.com/banner/jobarchives_212x300.swf">
-							<param name="quality" value="high">
-							<embed src="http://images.lawcrossing.com/banner/jobarchives_212x300.swf" quality="high" width="212" height="300" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
-							</object>
+						<td height="85"><a href="http://www.attorneyresearchgroup.com" target="_blank"><img src="http://www.attorneyresearchgroup.com/images/banner/arg212x85.gif" width="212" height="85" border="0"></a></td>
+					</tr>
+					<tr>
+						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
+					</tr>
+					<tr>
+						<td height="85"><img src="http://www.jdjournal.com/images/banner/jdjournal212x85.gif" width="212" height="85" border="0"></td>
+					</tr>
+					<tr>
+						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
+					</tr>
+					<tr>
+						<td height="85"><a href="http://www.legalauthorityfinancial.com/" target="_blank"><img src="http://www.legalauthorityfinancial.com/images/banner/lafs212x85.gif" width="212" height="85" border="0"></a></td>
+					</tr>
+					<tr>
+						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
+					</tr>
+					<tr>
+						<td height="86"><a href="http://www.studentloanfoundation.org/" target="_blank"><img src="http://www.studentloanfoundation.org/images/banner/studentloanfoundationlog.gif" width="212" height="86" border="0"></a></td>
+					</tr>
+					<tr>
+						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
+					</tr>
+					<tr>
+						<td height="86"><a href="http://www.jd2b.com/" target="_blank"><img src="http://www.jd2b.com/images/banner/jd2b_212x130.gif" width="212" height="130" border="0"></a></td>
+					</tr>
+					<tr>
+						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
+					</tr>
+					<!-- end -->
+					<tr>
+						<td><a href="http://www.lawcrossing.com/lclawcrossarchive.php" target="_blank"><img src="http://images.lawcrossing.com/banner/jobarchives_212x120.jpg" width="212" height="120" border="0"></a></td>
+					</tr>
+                    <tr>
+						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
+					</tr>
+                    <tr>
+		          		<td width="212" height="160" align="center" bgcolor="#E6E5C4">
+							<script type="text/javascript"><!--
+                            google_ad_client = "pub-2618806124923362";
+                            google_ad_width = 160;
+                            google_ad_height = 600;
+                            google_ad_format = "160x600_as";
+                            google_ad_type = "text";
+                            google_ad_channel ="";
+                            google_color_border = "E6E5C4";
+                            google_color_bg = "E6E5C4";
+                            google_color_link = "AE7804";
+                            google_color_text = "A1A163";
+                            google_color_url = "430D0D";
+                            //--></script>
+                            <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                            </script>
 						</td>
+          	        </tr>
+                    <tr>
+						<td height="11"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="11" border="0"></td>
 					</tr>
 			</tbody></table>
 		</td>
@@ -1200,14 +1100,15 @@ function loststring()
 			+&nbsp;<a href="http://www.lawcrossing.com/lcadvertise.php">advertise with us</a>&nbsp;
 			+&nbsp;<a href="http://www.lawcrossing.com/lcaffiliateprogram.php">affiliate program</a>&nbsp;
 			+&nbsp;<a href="http://www.lawcrossing.com/lcprivacy.php">privacy</a>&nbsp;
-			+&nbsp;<a href="http://www.lawcrossing.com/lcterms.php">terms of use</a>&nbsp;
-			+&nbsp;<a href="http://www.lawcrossing.com/sitemap.php">site map</a>&nbsp;
-			+&nbsp;<a href="http://www.lawcrossing.com/pressroom/lcpressroom.php">press room</a></font><br><br>
+			+&nbsp;<a href="http://www.lawcrossing.com/lcterms.php">terms of use</a>
+			+&nbsp;<a href="http://www.lawcrossing.com/sitemap.php">site map</a>&nbsp;<br>
+			+&nbsp;<a href="http://www.lawcrossing.com/pressroom/lcpressroom.php">press room</a>&nbsp;
+			+&nbsp;<a href="http://www.lawcrossing.com/lccorevalues.php">core values</a></font><br><br>
 		</td>
 		<td width="5" rowspan="3"><img src="http://images.lawcrossing.com/blanker.gif" width="1" height="1" border="0"></td>
 	</tr>
 	<tr>
-		<td class="bnav"><font color="#7E4F4F">Lawcrossing is best viewed with Microsoft <a href="http://www.microsoft.com/windows/ie/default.mspx" target="_blank">Internet Explorer 6.0</a> (Mac IE 5.0) or later,<br>or <a href="http://www.mozilla.org/" target="_blank">Mozilla Firefox</a> 1.0 or later.</font></td>
+		<td class="bnav"><font color="#7E4F4F">LawCrossing is best viewed with Microsoft <a href="http://www.microsoft.com/windows/ie/default.mspx" target="_blank">Internet Explorer 6.0</a> (Mac IE 5.0) or later, <br>or <a href="http://www.mozilla.org/" target="_blank">Mozilla Firefox</a> 1.0 or later.</font></td>
 	</tr>
 	<tr>
 		<td class="bnav"><font color="#7E4F4F">©&nbsp;2002, 2003, 2004, 2005, 2006 LawCrossing, Inc. All rights reserved.</font></td>
@@ -1228,7 +1129,7 @@ function loststring()
 		<td class="size1gold"><img src="http://images.lawcrossing.com/lc_dailythought.gif" width="12" height="12" hspace="5" border="0" align="absmiddle"><strong>Shoot for the moon. Even if you miss it, you will land among the stars.</strong><img src="http://images.lawcrossing.com/lc_dailythought.gif" width="12" height="12" hspace="5" border="0" align="absmiddle"><br><br></td>
 	</tr>
 	<tr>
-		<td class="textpartnersite" colspan="2"><font color="#7E4F4F"><strong>Partner Sites:</strong> <a href="http://www.attorneyresearchgroup.com" target="_blank">Attorney Research Group</a> | <a href="http://www.attorneyresume.com" target="_new">Attorney Resume</a> | <a href="http://www.bcgsearch.com" target="_new">BCG Attorney Search</a> | <a href="http://www.edfed.com" target="_blank">EdFed</a> | <a href="http://www.gcconsulting.com" target="_new">General Counsel Consulting</a> <br><img src="http://images.lawcrossing.com/blanker.gif" width="77" height="1" border="0"> <a href="http://www.jd2b.com" target="_blank">JD2B</a> | <a href="http://www.juriscape.com" target="_new">Juriscape</a> | <a href="http://www.lawfirmstaff.com" target="_new">Law Firm Staff</a> | <a href="http://www.lawschoolloans.com" target="_new">Law School Loans</a> | <a href="http://www.lawschoolloanreport.org" target="_new">Law School Loan Report</a> | <a href="http://www.legalauthority.com" target="_new">Legal Authority</a> <br><img src="http://images.lawcrossing.com/blanker.gif" width="77" height="1" border="0"> <a href="http://www.legalauthorityfinancial.com" target="_blank">Legal Authority Financial</a> </font></td>
+		<td class="textpartnersite" colspan="2"><font color="#7E4F4F"><strong>Partner Sites:</strong> <a href="http://www.attorneyresearchgroup.com" target="_blank">Attorney Research Group</a> | <a href="http://www.attorneyresume.com" target="_new">Attorney Resume</a> | <a href="http://www.bcgsearch.com" target="_new">BCG Attorney Search</a> | <a href="http://www.edfed.com" target="_blank">EdFed</a> | <a href="http://www.gcconsulting.com" target="_new">General Counsel Consulting</a> <br><img src="http://images.lawcrossing.com/blanker.gif" width="77" height="1" border="0"> <a href="http://www.jd2b.com" target="_blank">JD2B</a> | <a href="http://www.jdjournal.com" target="_blank">JD Journal</a> | <a href="http://www.juriscape.com" target="_new">Juriscape</a> | <a href="http://www.lawfirmstaff.com" target="_new">Law Firm Staff</a> | <a href="http://www.lawschoolloans.com" target="_new">Law School Loans</a> | <a href="http://www.lawschoolloanreport.org" target="_new">Law School Loan Report</a> | <a href="http://www.legalauthority.com" target="_new">Legal Authority</a> <br><img src="http://images.lawcrossing.com/blanker.gif" width="77" height="1" border="0"> <a href="http://www.legalauthorityfinancial.com" target="_blank">Legal Authority Financial</a> </font></td>
 	</tr>
 </tbody></table>
 <table width="742" cellpadding="0" cellspacing="0" border="0" class="maroonbg">
