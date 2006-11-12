@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bettingzone.co.uk privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321044608id_/http%3A//www.sportinglife.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettingzone.co.uk privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112071206id_/http%3A//www.sportinglife.com/info/privacy.html) for the most accurate reproduction.*
 
-# Sporting Life | India v England Live Ball-by-ball, FA Cup, Man City v West Ham Live, Birmingham v Liverpool Live, Football, Cricket, Rugby Union, Rugby League, Sports News, Live Scores & Results
+# Sporting Life | Barclays Premiership Live, Arsenal v Liverpool, Reading v Tottenham, New South Wales v England, HSBC Champions Leaderboard in Shanghai, The Ashes, Australia v England, Live Scores, Live racing results, football transfers, live cricket scorecards, Football, Cricket, Racing, Rugby Union, Rugby League, Sports News, Live Scores & Results
 
   
 **TEAMtalk Media Group Network Privacy Policy:**
