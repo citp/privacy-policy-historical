@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stowe.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022551id_/http%3A//stowe.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stowe.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112030348id_/http%3A//www.stowe.com/site/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy :: Stowe Mountain Resort
+# Privacy Policy - Stowe Mountain Resort
 
-PRIVACY POLICY  
+PRIVACY POLICY   
 
 
 **Stowe Mountain Resort online privacy notice**
@@ -17,7 +17,7 @@ You can submit information about other people. For example, you might submit a p
 
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows, Mac, etc.) and the domain name of your Internet service provider (e.g., America Online, Earthlink). This allows us to make our web site work best for the people who visit. For instance, if only 5% of our visitors could view Flash images, we would choose not to use Flash on the site.
 
- **How we use the information**
+**How we use the information**
 
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
 
@@ -39,10 +39,10 @@ We will not disclose personally identifiable information to companies whose prac
 
 We may on occasion combine general site user information we receive online with outside records to enhance our ability to market products or services that may be of interest to our guests.
 
- **Opting out**
+**Opting out**
 
 The site covered by this Privacy Notice will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. Examples of this information include your email address, postal address, phone number, credit card number, your age, medical information, personal preferences, etc. If you somehow receive something from Stowe Mountain Resort that you believe was unsolicited, simply notify the resort at [marketing@stowe.com](mailto:marketing@stowe.com) to remove your name from the list.  
- **  
+**  
 Collection of information by third-party sites and sponsors**
 
 Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
@@ -55,7 +55,7 @@ To enhance your experience with this site, Stowe.com uses "cookies." Cookies are
 
 We use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages (e.g., to save your password in password-protected areas). The ultimate goal is providing content that visitors to the site want and making it convenient to access. The service we use for this purpose is called WebTrends Live. For the WebTrends privacy policy, please [click here](http://www.webtrendslive.com/wtl_system/privacy_policy.htm).
 
- **Our commitment to security**
+**Our commitment to security**
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
@@ -63,8 +63,6 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 Stowe Mountain Resort reserves the right to make changes to this privacy statement from time to time. Notification will be made via a “last revised” legend at the top of this statement, available at Stowe.com.
 
- **How to contact us**
+**How to contact us**
 
 If you have any questions or concerns about the Stowe Mountain Resort online policy for this site or its implementation, you may contact us at [marketing@stowe.com](mailto:marketing@stowe.com).
-
-__
