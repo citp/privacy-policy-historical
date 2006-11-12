@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjactv.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619144346id_/http%3A//www.wjactv.com/station/1953458/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjactv.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112090909id_/http%3A//www.wjactv.com/station/1953458/detail.html) for the most accurate reproduction.*
 
 # WJACTV.com - WJAC-TV - Privacy Policy
 
@@ -31,6 +31,8 @@ The more you tell us about yourself, the more value we can offer you. Supplying 
  **Cookies.** To help make our sites more responsive to the needs of our visitors, we use a standard feature of browser software, called a "cookie," to assign each visitor a unique, random number, a sort of user ID, if you will, that resides on your computer. The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won't know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can't read unrelated data off your hard drive. Our advertisers and the third parties that provide products or services through our site may also assign their own cookies to your browser, a process that we don't control.
 
 We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. For example, we use cookies to avoid showing you the same ad, repeatedly, during a single visit. In addition, we may use cookies to track the pages on our site visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our site.
+
+We also may use cookies to allow third parties to better serve advertisements to you outside of this website on websites operated by Internet Broadcasting Systems, Inc. and other websites.
 
  **Third Party Advertising** The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
 
