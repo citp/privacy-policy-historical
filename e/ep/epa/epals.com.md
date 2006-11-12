@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210144931id_/http%3A//www.epals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112052929id_/http%3A//www.epals.com/privacy) for the most accurate reproduction.*
 
-# ePALS Classroom Exchange Privacy Policy
-
-[](https://www.truste.org/validate/6371)
-
-ePALS Classroom Exchange is a licensee of the TRUSTe Privacy Program., If users have questions or concerns regarding this statement, they should first contact Maggie Papoulias, ePALS Director of Marketing by telephone at 613-562-9847 or by using a [feedback form](https://web.archive.org/feedback/form/form.e). If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/users/users_watchdog_intro.html>). TRUSTe will serve as a liaison with the website to resolve users' concerns. 
-
-### ePALS Classroom Exchange Privacy Policy
+# ePALS Classroom Exchange
 
 At ePALS, we will do everything in our power to protect the privacy of our users and will never deliberately share your personally identifiable information with any third party (except as required by law) without your consent.
 
 We are committed to protecting the privacy of you and your children while providing students and schools with the full global experience offered by the Internet. Our service fosters communication among parents, students and educators all around the world and we explain all of our interactive features in this policy. We also explain what information we collect from children and what information we may collect from educators and parents. We explain what this information is used for and how we maintain its privacy after we have collected it. We never require anyone to disclose more information than is reasonably necessary to participate in activities on ePALS.
+
+ePALS Classroom Exchange® is a licensee of the TRUSTe Childrens Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.epals.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+
+If you have questions or concerns regarding this statement, you should first contact t ePALS Classroom Exchange® by telephone at 613-562-9847 or by using a [feedback form](https://web.archive.org/feedback/form/form.e). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/watchdog.html. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 ### REGISTRATION PROCESS
 
@@ -22,23 +20,14 @@ Members who register themselves are asked to fill out a form that requests some 
 
 For those users who are under 13 years of age, the self pre-registration process stops here. An email is sent to the child's parent or guardian, requesting that they consent to their child becoming a member of ePALS. ([Click here to view the notification message sent to parents](https://web.archive.org/privacy/parent_email.tpl).) We do not activate the username, open an email account, send a newsletter or otherwise permit the child to become a member until we have received verifiable parental consent. If we do not receive consent within 30 days, we delete all of the information we collected from the child (including the parental contact information).
 
-Parents can provide consent for their children to use ePALS either by telephone, fax, or postal mail. Complete instructions are provided in the parental consent form available at [http://www.epals.com/privacy/forms/](https://web.archive.org/privacy/forms/). To provide consent by telephone, parents can call toll free from North America: 1-888-450-2332, or direct: 1-613-562-2332 and follow the instructions given. To provide consent by fax or post, parents should fill out the parental consent form, sign it and either fax it toll free from North America to 1-888-201-2332 (direct to 1-613-562-4768) or mail it to:
+Parents can provide consent for their children to use ePALS either by telephone, fax, or postal mail. Complete instructions are provided in the parental consent form available at [http://www.epals.com/privacy/forms/](https://web.archive.org/privacy/forms/). To provide consent by telephone, parents can call toll free from North America: 1-888-450-2332, or direct: 1-613-789-2332 and follow the instructions given. To provide consent by fax or post, parents should fill out the parental consent form, sign it and either fax it toll free from North America to 1-888-201-2332 (direct to 1-613-562-4768) or mail it to:
 
-ePALS Classroom Exchange  
-Box 8202  
-5325 Elkhorn Blvd.  
-Sacramento, California  
-95842  
-USA  
-
-
-Or:
-
-ePALS Classroom Exchange  
+ePALS Classroom Exchange®  
 353 Dalhousie Street  
 Ottawa, Ontario  
 K1N 7G1  
-Canada 
+Canada  
+
 
 In addition to the information we collect from children, we ask parents to provide their names, an email address and a three-digit personal identification number for identification purposes in case we need to contact them about their child's account in the future. Once we have received consent, the child's membership will be activated by an ePALS Administrator.
 
@@ -60,7 +49,7 @@ Note: Students whose teachers are members but who are not members themselves, ma
 
 #### Email
 
-Self-registered ePALS members are given an unrestricted ePALS Webmail account (e.g., username@epals.com). With this kind of account, members can send and receive email from anyone. Children under the age of 13 cannot register an unrestricted Webmail account unless their parent consents to the registration.
+Self-registered ePALS members are given an unrestricted ePALS Webmail account (e.g., username.com). With this kind of account, members can send and receive email from anyone. Children under the age of 13 cannot register an unrestricted Webmail account unless their parent consents to the registration.
 
 We also offer parents the option of providing their children with a Monitored Email account, which puts control of the email account into adult hands. With Monitored Email, an adult creates an email account for the child or student and can then preview and approve each message sent to or from the child before it reaches its recipient. With Monitored Email, the individual who creates the monitored account (the Monitor) is the only one who has access to and control over the account, until and unless the account gets moved to another Monitor at the original Monitor's discretion. The Monitor has total discretion over how tightly to control the account. By default, every message must be seen and approved by the Monitor before reaching its recipient. However, the Monitor can reduce the level of control, even turning filtering off altogether if desired. If the Monitor is a teacher, then these changes can proceed without parental interaction. (As always, if a child is under 13 the teacher must obtain parental consent before creating the account but the teacher is not obliged to seek permission before changing the child's account settings.)
 
@@ -98,13 +87,17 @@ ePALS offers links to various online stores that offer merchandise of interest t
 
 #### Reviewing, Editing and Deleting Information
 
-Members can review, edit, or delete any personal information (such as their name, phone number, email or postal address) by logging in and going to their personal settings page. Members can request that their accounts be deleted at any time by contacting ePALS Support at [support@epals.com](mailto:support@epals.com).
+Members can review, edit, or delete any personal information (such as their name, phone number, email or postal address) by logging in and going to their personal settings page. Members can request that their accounts be deleted at any time by contacting ePALS Support at [support.com](mailto:support.com).
 
-Parents can review their child's personal information at any time. They can also have that information deleted and refuse to permit further collection of information by us. If you wish to view, delete or modify this information, simply contact ePALS Support via a [feedback link](https://web.archive.org/feedback/form/form.e) or by emailing [support@epals.com](mailto:support@epals.com), and indicate the changes you wish to have made. If you want your child's personal information modified or deleted and their membership terminated, simply send your request to ePALS support.
+Parents can review their child's personal information at any time. They can also have that information deleted and refuse to permit further collection of information by us. If you wish to view, delete or modify this information, simply contact ePALS Support via a [feedback link](https://web.archive.org/feedback/form/form.e) or by emailing [support.com](mailto:support.com), and indicate the changes you wish to have made. If you want your child's personal information modified or deleted and their membership terminated, simply send your request to ePALS support.
 
 #### Co-Branded Partner Sites
 
 We have joined with some partner websites to offer their users access to our features. Those users coming to ePALS from a link on such a partner site will see a customized version of the ePALS interface, featuring both the ePALS and the partner site's brand. The partner site does not gain access to the information submitted by participants who sign up through their interface. 
+
+#### Tell-a-Friend
+
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. ePALS will automatically send the friend a one-time email inviting them to visit the site. ePALS stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The recipient may contact ePALS at [support.com](mailto:support.com) to request the removal of this information from our database.
 
 #### Links to Other Websites
 
@@ -130,11 +123,13 @@ If, however, we intend to use members' personally identifiable information in a 
 
 Please let us know if you have any questions or comments regarding our privacy policy. You can contact us at:
 
-ePALS Classroom Exchange   
+ePALS Classroom Exchange®   
 353 Dalhousie St., Third Floor   
 Ottawa, Ontario   
 Canada   
 K1N 7G1   
 Tel.: (613) 562-9847  
 Fax: (613)562-4768   
-Email: [support@epals.com](mailto:support@epals.com)
+Email: [support.com](mailto:support.com)
+
+This privacy policy is effective on: July 16, 2004. 
