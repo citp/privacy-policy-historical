@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveldailynews.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623001108id_/http%3A//www.traveldailynews.com/int/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveldailynews.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112044450id_/http%3A//www.traveldailynews.com/int/privacy/index.html) for the most accurate reproduction.*
 
 # Untitled Document
 
