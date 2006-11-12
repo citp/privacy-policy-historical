@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatbird.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621022842id_/http%3A//www.whatbird.com/Privacy/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatbird.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112091807id_/http%3A//www.whatbird.com/Privacy/privacy_statement.aspx) for the most accurate reproduction.*
 
 # WhatBird Privacy | identify birds | bird watching | bird guide | species | north america
 
