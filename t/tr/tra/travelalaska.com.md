@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelalaska.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020706id_/http%3A//www.travelalaska.com/Contact/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelalaska.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112091128id_/http%3A//www.travelalaska.com/Contact/Privacy.aspx) for the most accurate reproduction.*
 
 # Travel Alaska - Privacy Policy
 
