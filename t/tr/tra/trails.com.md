@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318154203id_/http%3A//www.trails.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trails.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112070600id_/http%3A//www.trails.com/privacy.asp) for the most accurate reproduction.*
 
 # Trails.com
 
-|  Privacy Policy
+[Home Page](https://web.archive.org/)
 
 Trails.com values your privacy. You may contact us any time to learn more about this privacy policy by sending email to [store@trails.com](mailto:store@trails.com). This Privacy Statement describes how Trails.com collects and uses information about you when you use the Trails.com web site ("Site"). 
 
 **Collection and Use of Personal Information by Trails.com**
-
- ****
 
 With your consent, we collect information that personally identifies you or allows us to contact you when you register to use the Site. Such information may include your name, e-mail address, user identification password and other information (collectively "Personal Information"). You may also provide us with Personal Information in the process of submitting questions and answers while interacting with other members of the Site. Trails.com uses your Personal Information to operate the Site, to effect your transactions initiated at the Site; to create and share reports about your transactions among themselves. You may correct or update your Personal Information by logging into your account or by sending e-mail to [store@trails.com](mailto:store@trails.com).
 
