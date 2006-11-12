@@ -1,11 +1,142 @@
-<!--The following is the downloaded HTML source of the mindmyhouse.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615181023id_/http%3A//mindmyhouse.com/advice/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mindmyhouse.com privacy policy that was archived on 2006-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061112035401id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php) for the most accurate reproduction.-->
 
-<html lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 <title>Privacy policy</title>
 <meta name="description" content="Global house sitting matching service bringing home owners and house sitters together online. Home owners join for free. House sitter members pay the lowest annual fee on the web. Happy house sitting!">
-<meta name="keywords" content="Mind my house, mind house, Mindmyhouse, Haus-Sitter, Haushüten, Haus-Sitter, Haushüten, haussitter, haus sitter, house sitting, housesitting, house sitter, housesitter, house sitters, housesitters, house sit, housesit, sitter, sitters, pet sitting, pet sitters, petsitters, pet sit, dog lover, cat lover, home owner, homeowner, house owner, find house sitter, become house sitter, house sitting opportunities, house sitting services, house sitting jobs, housesitting jobs, house sitter jobs, housesitter jobs, house sit jobs, house minding, house minder, house sitting USA, house sitting America, house sitting Australia, house sitting England, house sitting UK, house sitting Europe, live in, free rent, rent free, cheap holiday, free accommodation, caretaker, caretaker jobs, caretaking, caretaking jobs, security, cat sitters, dog sitters, dog sit, dog sitting,  dog kennels, cat kennels, catteries, holiday, vacation, travel, traveling, travelling"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="Mind my house, mind house, Mindmyhouse, Haus-Sitter, Haushüten, Haus-Sitter, Haushüten, haussitter, haus sitter, house sitting, housesitting, house sitter, housesitter, house sitters, housesitters, house sit, housesit, sitter, sitters, pet sitting, pet sitters, petsitters, pet sit, dog lover, cat lover, home owner, homeowner, house owner, find house sitter, become house sitter, house sitting opportunities, house sitting services, house sitting jobs, housesitting jobs, house sitter jobs, housesitter jobs, house sit jobs, house minding, house minder, house sitting USA, house sitting America, house sitting Australia, house sitting England, house sitting UK, house sitting Europe, live in, free rent, rent free, cheap holiday, free accommodation, caretaker, caretaker jobs, caretaking, caretaking jobs, security, cat sitters, dog sitters, dog sit, dog sitting,  dog kennels, cat kennels, catteries, holiday, vacation, travel, traveling, travelling">
+<script type="text/javascript" src="/includes/javascript/onload.js"></script>
+<script type="text/javascript" src="/includes/javascript/ajax.js"></script>
+<script type="text/javascript">
+// Set path to PHP script for ajax calls
+var ajaxphpscript = '/includes/javascript/faqs_popupsb.php';
+</script>
+<script type="text/javascript">
+<!--
+// faq popup mashup
+faqpopup = {
+	name : "faqpop",
+	faq : null
+};
+var faqcontent = '<div class="body"><p class="faqpopupclosebox"><a href="#" id="closefaqbutton"><img src="/images/icons/close.gif" alt="" width="16" height="16" class="arrow">close</a></p><div id="ajaxmessage"></div></div>';
+faqpopup.init = function () {
+	if (!document.getElementById) return;
+	
+	// generate faq layer
+	this.faq = document.createElement ("div");
+	this.faq.setAttribute ("id", this.name);
+	document.body.appendChild (this.faq);
+	this.faq = document.getElementById (this.name);
+	var a;
+	var anchors = document.getElementsByTagName ("a");
+	for (var i = 0; i < anchors.length; i ++) {
+		a = anchors[i];
+		if (a.className == "faqpopup") {
+			a.onclick = function(evt) {
+				faqpopup.move(evt);
+				// ajax call	
+				sendRequestPost(this.title);
+				faqpopup.show(this.title); 
+				return false; 
+			};
+		}
+	}
+};
+//this gets the position sorted out
+faqpopup.move = function (evt) {
+	// determin screen dimensions
+	var screenwidth, screenheight;
+	if (self.innerHeight) // all except Explorer
+	{
+		screenwidth = self.innerWidth;
+		screenheight = self.innerHeight;
+	}
+	else if (document.documentElement && document.documentElement.clientHeight)
+		// Explorer 6 Strict Mode
+	{
+		screenwidth = document.documentElement.clientWidth;
+		screenheight = document.documentElement.clientHeight;
+	}
+	else if (document.body) // other Explorers
+	{
+		screenwidth = document.body.clientWidth;
+		screenheight = document.body.clientHeight;
+	}
+	
+	// determin mouse position
+	var x=0, y=0;
+	if (document.all) { // Explorer
+		x = (document.documentElement && document.documentElement.scrollLeft) ? document.documentElement.scrollLeft : document.body.scrollLeft;
+		y = (document.documentElement && document.documentElement.scrollTop) ? document.documentElement.scrollTop : document.body.scrollTop;
+		x += window.event.clientX;
+		y += window.event.clientY;
+	} else { // Mozilla
+		x = evt.pageX;
+		y = evt.pageY;
+	}
+	//check if tooltip fits screen width/height 
+	if ((x + 320) > screenwidth && (x - 320) > 10) {
+		x = x-320-24;
+	} else {
+		x = x;
+	};	
+	if ((y + 200) > screenheight) {
+		y = y-200-24;
+	} else {
+		y = y;
+	};
+	
+		
+	this.faq.style.left = (x+10) + "px";
+	this.faq.style.top = (y+10) + "px";
+};
+// show the faq
+faqpopup.show = function (text) {
+	if (!this.faq) return;
+	this.faq.innerHTML = faqcontent;
+	// Without the next line, Explorer5/Mac has a redraw problem.
+	this.faq.style.visibility = "visible";
+	this.faq.style.display = "block";
+	// generate background
+	var background;
+	background = document.createElement ("div");
+	background.setAttribute ("id", "faqpopbackground");
+	document.body.appendChild (background);
+	var pageheight = document.body.scrollHeight;
+	document.getElementById("faqpopbackground").style.height = pageheight+"px";
+	faqpopuphide();
+};
+// hide the faq
+function faqpopuphide() {
+	if (!document.getElementById) return false;
+	if (document.getElementById('faqpop')) {
+		document.getElementById('closefaqbutton').onclick = function() {
+			document.getElementById('faqpop').style.visibility = "hidden";
+			document.getElementById('faqpopbackground').style.visibility = "hidden";
+			document.getElementById('faqpop').style.display = "none";
+			document.getElementById('faqpopbackground').style.display = "none";
+			return false;
+		};
+		document.getElementById("faqpopbackground").onclick = function() {
+			document.getElementById('faqpop').style.visibility = "hidden";
+			document.getElementById('faqpopbackground').style.visibility = "hidden";
+			document.getElementById('faqpop').style.display = "none";
+			document.getElementById('faqpopbackground').style.display = "none";
+			return false;
+		};
+	} 
+}
+
+window.onload = function () {
+	faqpopup.init ();
+}
+-->
+</script><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="/css/default_styles.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 7]>
+<link href="/css/ie_styles.css" rel="stylesheet" type="text/css">
+<![endif]-->
+
 </head>
 
 <body>
@@ -84,32 +215,31 @@
 		 <div style="height:6px;"></div>
 <div class="leftcol"> 
   <div class="navlist"> 
-    <div class="dividerline"><span></span></div>
+    <div class="dividerline"><span>&nbsp;</span></div>
     <div class="bulletitem"><a title="" href="index.php"><img src="/images/icons/arrow_orange_right.gif" class="arrowbullet" alt="" width="8" height="9" align="middle" border="0">About our service</a></div>
-    <div class="dividerline"><span></span></div>
+    <div class="dividerline"><span>&nbsp;</span></div>
     <div class="bulletitem"><a title="Advice for house sitters" href="advice_house_sitters.php"><img src="/images/icons/arrow_orange_right.gif" class="arrowbullet" alt="" width="8" height="9" align="middle" border="0">Advice for House Sitters</a></div>
-    <div class="dividerline"><span></span></div>
+    <div class="dividerline"><span>&nbsp;</span></div>
     <div class="bulletitem"><a title="Advice for home owners" href="advice_home_owners.php"><img src="/images/icons/arrow_orange_right.gif" class="arrowbullet" alt="" width="8" height="9" align="middle" border="0">Advice for Home Owners</a></div>
-    <div class="dividerline"><span></span></div>
+    <div class="dividerline"><span>&nbsp;</span></div>
     <div class="bulletitem"><a title="Legal advice" href="advice_legal.php"><img src="/images/icons/arrow_orange_right.gif" class="arrowbullet" alt="" width="8" height="9" align="middle" border="0">House sitting agreement</a></div>
-    <div class="dividerline"><span></span></div>
+    <div class="dividerline"><span>&nbsp;</span></div>
     <div class="bulletitem"><a title="" href="register.php"><img src="/images/icons/arrow_orange_right.gif" class="arrowbullet" alt="" width="8" height="9" align="middle" border="0">Register 
       </a></div>
-    <div class="dividerline"><span></span></div>
+    <div class="dividerline"><span>&nbsp;</span></div>
     <div class="bulletitem"><a title="" href="login.php"><img src="/images/icons/arrow_orange_right.gif" class="arrowbullet" alt="" width="8" height="9" align="middle" border="0">Sign in</a></div>
-    <div class="dividerline"><span></span></div>
+    <div class="dividerline"><span>&nbsp;</span></div>
     <div class="bulletitem"><a title="" href="report_a_problem.php"><img src="/images/icons/arrow_orange_right.gif" class="arrowbullet" alt="" width="8" height="9" align="middle" border="0">Report a problem</a></div>
-    <div class="dividerline"><span></span></div>
+    <div class="dividerline"><span>&nbsp;</span></div>
     <div class="bulletitem"><a title="" href="testimonials.php"><img src="/images/icons/arrow_orange_right.gif" class="arrowbullet" alt="" width="8" height="9" align="middle" border="0">Testimonials</a></div>
-    <div class="dividerline"><span></span></div>
+    <div class="dividerline"><span>&nbsp;</span></div>
     <div class="bulletitem"><a title="" href="media.php"><img src="/images/icons/arrow_orange_right.gif" class="arrowbullet" alt="" width="8" height="9" align="middle" border="0">Media</a></div>
-    <div class="dividerline"><span></span></div>
+    <div class="dividerline"><span>&nbsp;</span></div>
     <div class="bulletitem"><a title="" href="links.php"><img src="/images/icons/arrow_orange_right.gif" class="arrowbullet" alt="" width="8" height="9" align="middle" border="0">Links</a></div>
-    <div class="dividerline"><span></span></div>
+    <div class="dividerline"><span>&nbsp;</span></div>
     <div class="bulletitem"><a title="" href="feedback.php"><img src="/images/icons/arrow_orange_right.gif" class="arrowbullet" alt="" width="8" height="9" align="middle" border="0">Feedback</a></div>
   </div>
 </div>
-
 
 <!-- end menu -->
 
@@ -122,7 +252,7 @@
  
  <!-- insert main page content here -->
  
-<div id="body">
+<div class="body">
  
   
 <div id="bluelist">
@@ -142,12 +272,13 @@
   in which it is stored and processed. MindMyHouse.com fully complies with the 
   eight principles of secure data management as set out in the Data Protection 
   Law 1998. </p>
-<p>This Privacy Policy should be read in partnership with the Conditions of Use 
-  document.</p>
+  <p>This Privacy Policy should be read in partnership with the Terms and
+Conditions  document.</p>
 <h2>Contents</h2>
 <p> Q. <a href="#q1">What information does MindMyHouse.com require from members?</a><br>
   Q. <a href="#q2">How does MindMyHouse.com use members’ information?</a><br>
-  Q. <a href="#q3">Who sees members’ personal information?</a><br>
+<span class="privacychanges">  Q. <a href="#q3a">Who sees home owner members’ personal information?</a><br>
+  Q. <a href="#q3b">Who sees house sitters members’ personal information?</a><br></span>
   Q. <a href="#q4">Will MindMyHouse.com be sending members any unsolicited material?</a><br>
   Q. <a href="#q5">What are cookies? Are they required?</a><br>
   Q. <a href="#q6">How secure are members’ account areas?</a><br>
@@ -161,6 +292,7 @@
   Q. <a href="#q12">When does this Privacy Policy not apply?</a><br>
   Q. <a href="#q13">What happens to members’ information after their membership expires?</a><br>
   Q. <a href="#q14">What happens to the information members provide when communicating with MindMyHouse.com?</a><br>
+  <span class="privacychanges">Q. <a href="#q17">What happens to the material members provide when using MindMyHouse.com's internal contact form system?</a><br></span>
   Q. <a href="#q15">How is members’ information protected under United Kingdom law?</a><br>
   Q. <a href="#q16">What are the contact details for MindMyHouse.com?</a></p>
   
@@ -180,7 +312,7 @@
   the house sitting services on offer, a credit or debit card number (if this 
   is the payment option chosen), a home address, a billing address which matches 
   that attached to the card used for payment.</p>
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p><strong> <a name="q2"></a>Q. How does MindMyHouse.com use members’ information?</strong></p>
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p><strong> <a name="q2"></a>Q. How does MindMyHouse.com use members’ information?</strong></p>
 <p> Information provided to the site in the course of becoming a member of MindMyHouse.com 
   will only be used to facilitate members’ full and effective use of the 
   site.</p>
@@ -196,25 +328,22 @@
   in order to track site usage patterns . This process will not identify any individual 
   member and will only be used in efforts to improve the site and services to 
   members.</p>
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q3"></a>Q. Who sees members’ personal information?</strong></p>
-<p> Only those people working for MindMyHouse.com will be able to see members’ 
-  personal information as it is supplied by members and stored in the site’s 
-  database. However, many elements of house sitter members’ personal information 
-  are viewable online by other registered MindMyHouse.com members. </p>
-<p> MindMyHouse.com recognizes that home owner members may like to preserve their 
-  anonymity until they are interviewing house sitting candidates directly. For 
-  this reason, home owner members’ email addresses are completely hidden 
-  from view online. Home owner members can only be contacted via a blank email 
-  contact form on the site. Only registered house sitter members will be able 
-  to contact home owner members in this way. However please note that MindMyHouse.com 
-  cannot safeguard your privacy if you choose to include personal details (eg. 
-  email address) in any adverts you create on the site.</p>
-<p> House sitter members’ contact details including first and last names, 
-  country of residence, phone numbers (if provided) and an email address can be 
-  seen by any person who joins MindMyHouse.com as a member. House sitter members’ 
-  home addresses are never displayed online nor given to any third party except 
-  when requested by the police in the interest of public safety. </p>
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q4"></a>Q. Will MindMyHouse.com be sending members any unsolicited 
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><div class="privacychanges"><p> <strong><a name="q3a"></a>Q. Who sees home owners members’ personal information?</strong></p>
+<p>Only those people working for MindMyHouse.com will be able to see members' personal information as it is supplied by members and stored in the site's database.</p>
+<p>MindMyHouse.com recognizes that home owner members may like to preserve their anonymity until they are interviewing house sitting candidates directly. For this reason, home owner members' email addresses are completely hidden from view online. Home owner members can only be contacted via a blank email contact form on the site. Only registered house sitter members will be able to contact home owner members in this way. However please note that MindMyHouse.com cannot safeguard your privacy if you choose to include personal details such as your name, email address or street address in any adverts you create and publish on the site. </p>
+
+<p>If home owners publish a sitter wanted advert, a map will accompany the advert that will show the city/town/location of the house sitting assignment. Please note that this map is limited in detail - the zoom function has been limited so that users can only see the city/town or area of the assignment. Details such as the street or postcode (zipcode) remain hidden.</p>
+</div>
+<div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><div class="privacychanges"><p> <strong><a name="q3b"></a>Q. Who sees house sitters members’ personal information?</strong></p>
+<p>Only those people working for MindMyHouse.com will be able to see members' personal information as it is supplied by members and stored in the site's database. However, many elements of house sitter members' personal information are viewable online by registered MindMyHouse.com home owner members.</p>
+
+<p>House sitter members' contact details including first and last names, country of residence, phone numbers (optional) and an email address are only visible online when house sitters create a sitter available advert. This information can then be seen by any person who joins MindMyHouse.com as a home owner member. House sitter members' home addresses are never displayed online nor given to any third party except when requested by the police in the interest of public safety.</p>
+
+<p>House sitter members who create and publish their own sitter available advert have the option of being included in MindMyHouse.com's Local Sitter Search. Registered home owner members will then be able to search for and see house sitters' city/town/area of residence (based on the address they used to register with the service) displayed on a map. </p>
+
+<p>Please note that this map is limited in detail – the zoom function has been limited so that home owners can only see very generally where in the town/city or area of residence the house sitter is located. Details such as the street or postcode (zipcode) remain hidden.</p>
+</div>
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q4"></a>Q. Will MindMyHouse.com be sending members any unsolicited 
   material?</strong></p>
 <p> MindMyHouse.com will not send members any spam or unrelated junkmail. However, 
   from time to time MindMyHouse.com may send out updates on its service. Members 
@@ -223,7 +352,7 @@
   members’ mailing list containing relevant material to its members. Members 
   will be able to unsubscribe from this mailing list by following the ‘unsubscribe’ 
   directions contained within each such email. </p>
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q5"></a>Q. What are cookies? Are they required?</strong></p>
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q5"></a>Q. What are cookies? Are they required?</strong></p>
 <p> A cookie is a small amount of data that MindMyHouse.com generates for each 
   member every time they log in to the site. MindMyHouse.com uses a temporary 
   cookie which contains only a single session identification number to allow a 
@@ -238,7 +367,7 @@
   will not be used by MindMyHouse.com to retrieve any information about members. 
   No other company has access to cookies placed on members’ computers by 
   MindMyHouse.com. </p>
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q6"></a>Q. How secure are members’ account areas?</strong></p>
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q6"></a>Q. How secure are members’ account areas?</strong></p>
 <p> MindMyHouse.com takes the security and privacy of its members’ information 
   seriously. In order to give members confidence in the privacy of their personal 
   account area on the site, each individual member account area is protected by 
@@ -253,7 +382,7 @@
 <p> MindMyHouse.com endeavours to ensure that the servers used to host the website 
   and data are secure. However, MindMyHouse.com cannot guarantee that unauthorised 
   access by third parties will not occur.</p>
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q7"></a>Q. How can members help safeguard the assurances 
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q7"></a>Q. How can members help safeguard the assurances 
   provided in this Privacy Policy?</strong></p>
 <p> Members need to ensure that they observe the following general protocol:</p>
 <ul>
@@ -262,7 +391,7 @@
   <li>Don’t let anyone log into MindMyHouse.com on your behalf if you don’t 
     trust them with your personal information</li>
 </ul>
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q8"></a>Q. How secure is members’ financial information 
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q8"></a>Q. How secure is members’ financial information 
   when they are paying for their MindMyHouse.com membership by credit or debit 
   card? </strong></p>
 <p> MindMyHouse.com uses the industry leader, PayPal for all online transactions. PayPal 
@@ -271,7 +400,7 @@
   transit and is safe from theft. Please note that when conducting a payment with 
   PayPal, their privacy policy will also apply in addition to the MindMyHouse.com 
   privacy policy.</p>
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q9"></a>Q. How can members access, update or delete their 
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q9"></a>Q. How can members access, update or delete their 
   information?</strong></p>
 <p> Members are able to access, update and delete their information at any time, 
   by logging into their own account area on the site with their own customisable 
@@ -279,16 +408,16 @@
   deletions to members’ information will be effective immediately. However, 
   MindMyHouse.com reserves the right to view and return any inappropriate material 
   to members for re-submission. Members are required to keep their information 
-  as current and accurate as possible under the terms of the Conditions of Use 
+  as current and accurate as possible under the terms of the Terms and Conditions of Use 
   document.</p>
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p><strong> <a name=""></a><a name="q10"></a>Q. Can someone else link to members’ 
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p><strong> <a name=""></a><a name="q10"></a>Q. Can someone else link to members’ 
   personal information on MindMyHouse.com from another website?</strong></p>
 <p> Some attempts at making shortcut links to particular pages on Mindmyhouse.com 
   may fail. This is because some of the pages in members’ account areas 
   are password protected. In order to access any of their own password-protected 
   information individual members must login to the site through the MindMyHouse.com 
   homepage. </p>
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q11"></a>Q. What is the policy regarding links to third party 
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q11"></a>Q. What is the policy regarding links to third party 
   sites?</strong></p>
 <p> Members may link to third party websites from within their personal sitter 
   available adverts although MindMyHouse.com reserves the right to remove the 
@@ -297,13 +426,13 @@
 <p> The onus is on members to check the privacy policy of the site they have linked 
   to for information on the security of any information they may submit to that 
   site. </p>
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q12"></a>Q. When does this Privacy Policy not apply?</strong></p>
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q12"></a>Q. When does this Privacy Policy not apply?</strong></p>
 <p> MindMyHouse.com may also contain links to other web sites and advertising. 
   MindMyHouse.com’s Privacy Policy does not apply once the user has left 
   the site for another website. The onus is on members to check the privacy policy 
   of the site they have linked to for information on the security of any information 
   they may submit to that site.</p>
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q13"></a>Q. What happens to members’ information after 
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q13"></a>Q. What happens to members’ information after 
   their membership expires?</strong></p>
 <p> MindMyHouse.com stores house sitter members’ information in the database 
   for a calendar year after membership expiry. If membership is resumed using 
@@ -316,7 +445,7 @@
   site. If home owner members wish to cancel their account on MindMyHouse.com 
   they can email <a href="mailto:support@mindmyhouse.com">support@mindmyhouse.com</a> 
   to arrange the removal of their membership account from the site.</p>
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q14"></a>Q. What happens to the information members provide 
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q14"></a>Q. What happens to the information members provide 
   when communicating with MindMyHouse.com?</strong></p>
 <p> MindMyHouse.com values all of the feedback provided by members. Information 
   submitted in this way will not be used in any way to compromise MindMyHouse.com’s 
@@ -328,7 +457,12 @@
   tales of house sitting experiences in general. Before any such material is published 
   on the site, MindMyHouse.com will expressly seek permission to do so from its 
   author.</p>
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div>
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div>  
+  <div class="privacychanges"><p><strong><a name="q17"></a>Q. What happens to the material members provide when using MindMyHouse.com's internal contact form system?</strong></p>
+<p>MindMyHouse monitors the communication made between members through its internal contact form system. This material remains confidential and is not passed on to any third party for any reason except when required by the police in the interests of public safety. This material is securely stored as per the requirements of the UK's Data Protection Act 1998.
+</p></div>
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div>
+
 <p> <strong><a name="q15"></a>Q. How is members’ information protected under 
   United Kingdom law?</strong></p>
 <p> The core business of MindMyHouse.com is providing a storage and retrieval 
@@ -360,7 +494,7 @@
     an adequate level of protection for the rights (in relation to the information) 
     of the individuals to whom the personal data relates.</li>
 </ol>
-<div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q16"></a>Q. What are the contact details for MindMyHouse.com?</strong></p>
+<div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top</a></div><p> <strong><a name="q16"></a>Q. What are the contact details for MindMyHouse.com?</strong></p>
 <p>If you have any comments, complaints or queries about your use of MindMyHouse.com 
   please don’t hesitate to contact us. We value your feedback!</p>
 <p> Please address your correspondence to:</p>
@@ -370,7 +504,7 @@
   London<br>
   W6 7RN<br>
   United Kingdom<br>
-  phone: +612 7371 1873<br>
+  phone: +612 8932 3597<br>
   email: <a href="mailto:support@mindmyhouse.com">support@mindmyhouse.com</a></p>
 <p>Thank you! <br>
 </p>
@@ -382,7 +516,7 @@
   
   
   
-  <div id="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top of page</a></div>
+  <div class="toplink"><a href="#top"><img src="/images/icons/arrow_orange_up.gif" alt="up to top of page" width="9" height="8" border="0" class="arrow">top of page</a></div>
 </td>
           <td valign="top" class="rightcol">   <!-- optional column - remove this image if right column is not required -->
    <br clear="all"><img src="/images/pixel.gif" alt="" width="180" height="1">
@@ -420,4 +554,4 @@ urchinTracker();
 
 
 	
-</body></html>
+<div id="faqpop"></div></body></html>
