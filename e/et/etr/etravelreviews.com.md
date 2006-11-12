@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etravelreviews.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613005921id_/http%3A//www.etravelreviews.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etravelreviews.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112132747id_/http%3A//www.etravelreviews.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Earth Travel Reviews
 
