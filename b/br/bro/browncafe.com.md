@@ -1,10 +1,116 @@
-> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324032410id_/http%3A//www.browncafe.com/statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112134444id_/http%3A//www.browncafe.com/privacy_statement.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Brown Cafe: UPS info for UPSers - Brown Cafe Privacy Statement
 
+|  **»[UPS Brown Cafe](http://www.browncafe.com/forum/search.php)**  
+---  
+  
+Brown Cafe  
+[](http://www.google.com/search)   
+
+» [Advanced Search](http://www.browncafe.com/forum/search.php)  
+  
+**» Site Navigation**  
+---  
+  
+[**Brown Cafe**](http://www.browncafe.com/)
+
+[**UPS News Search**](http://www.browncafe.com/ups_news.html)
+
+ 
+
+[FedEx News Etc.](http://www.browncafe.com/fedex_news.html)
+
+ 
+
+[Teamster News Etc.](http://www.browncafe.com/teamster_news.html)
+
+     
+
+[Black Sheep](http://www.browncafe.com/ups_union_black_sheep.html)
+
+     
+
+[UPS NMA](http://www.browncafe.com/ups_national_master_agreement.html)
+
+ 
+
+[Current Events](http://www.browncafe.com/current_events.html)
+
+[**UPS Stock**](http://www.browncafe.com/ups_stock.html)
+
+ 
+
+[Calculator](http://www.browncafe.com/cgi-bin/finances.cgi)
+
+[**UPSers**](http://www.browncafe.com/upsers.html)
+
+ 
+
+[Chatroom](http://www.browncafe.com/forum/misc.php?do=flashchat)
+
+ 
+
+[UPS Forums](http://www.browncafe.com/ups_discussion_boards.html)
+
+     
+
+[Brown Cafe Forum](http://www.browncafe.com/forum/)
+
+ 
+
+[Links](http://www.browncafe.com/links.html)
+
+ 
+
+[Downloads](http://www.browncafe.com/download.shtml)
+
+ 
+
+[Postcards](http://www.browncafe.com/sendcard)
+
+ 
+
+[Store](http://www.browncafe.com/cgi-bin/store/cpshop.cgi)
+
+ 
+
+[Poker](http://www.browncafe.com/poker.html)
+
+ 
+
+[Sudoku](http://www.browncafe.com/sudoku.html)
+
+[**Terms of Service**](http://www.browncafe.com/tos.html)
+
+ 
+
+[Privacy Policy](http://www.browncafe.com/privacy_statement.html)
+
+ 
+
+[Information Integrity](http://www.browncafe.com/information_integrity.html)
+
+ 
+
+[Disclaimer](http://www.browncafe.com/disclaimer.html)
+
+[**UPS**](http://www.ups.com/)
+
+ 
+
+[UPSers.com](http://www.upsers.com/)
+
+ 
+
+[Investor Relations](http://www.shareholder.com/ups/index.cfm)  
+  
+|  |  **»**  
+---  
+  
 ## Privacy Statement for Brown Cafe
 
-**Brown Cafe** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Brown Cafe](http://browncafe.com/)
+**Brown Cafe** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Brown Cafe](http://www.browncafe.com/)
 
 #### Information Automatically Logged
 
@@ -42,8 +148,6 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 #### Children's Guidelines
 
-Brown Cafe provides a Kid Stuff game area that is intended for use by the children in our community. This area requires no information from any user and is fully functional to the public. While we do not require any information from users of the site to use any of the features in Brown Cafe Kid Stuff we occassionally receive questions from children about how certain games function.
-
 We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children:
 
   1. We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.
@@ -65,38 +169,28 @@ If you have any questions about this privacy statement, the practices of this si
 
 [webmaster@browncafe.com](mailto:webmaster@browncafe.com)  
   
+|  |  **» Log in**  
 ---  
   
-[Stock](http://www.browncafe.com/stock.htm)
-
-| 
-
-[News](http://www.browncafe.com/news.shtml)
-
-| 
-
-**[B rownCafe](http://www.browncafe.com/)**
-
-| 
-
-[People](http://www.browncafe.com/people.htm)
-
-| 
-
-[Work](http://www.browncafe.com/work.htm)  
+User Name:  
   
-[Boards](http://www.browncafe.com/boards.htm)
-
-| 
-
-[Quotes](http://www.browncafe.com/stockport/stock_port.php)  
+Password:  
   
-[Our Privacy Policy](http://www.browncafe.com/statement.shtml) ~ [Information Integrity](http://www.browncafe.com/integrity.shtml) ~ [Terms of Service](http://www.browncafe.com/tos.shtml) ~ [Search](http://www.browncafe.com/search/search.pl) ****  
+Remember Me? 
+
+Not a member yet?  
+[Register Now!](http://www.browncafe.com/forum/register.php)  
   
-the fine print...
+**» Stats**  
+---  
+Members: 6,991  
+Threads: 40,973  
+Posts: 87,537  
+Top Poster: [BrownCafe](http://www.browncafe.com/forum/members/browncafe.html) (18,986)  
+  
+Welcome to our newest member, [tkolony](http://www.browncafe.com/forum/members/tkolony.html)  
+  
+All times are GMT -7. The time now is 06:44 AM.
 
-The information contained in this web site is believed to be reliable and while every effort is made to assure that the information is as accurate as possible, the owner of this site, and Brown Cafe disclaim any implied warranty or representation about it's accuracy, completeness or appropriateness for any particular purpose. This includes but is not limited to information provided by any third party which is accessed through this site via a hyperlink. By providing links to other sites, the owner of this site or Brown Cafe do not guarantee, approve or endorse the information or products available at these sites, nor does a link indicate any association with or endorsement by the linked site to the owner of this site or Brown Cafe. Any reference to specific products, companies or services does not necessarily constitute or imply recommendation or endorsement by the owner of this site or Brown Cafe.
+  
 
-Those persons who access this information assume full responsibility for the use of said information and understand and agree that the the owner of this site or Brown Cafe are not responsible or liable for any claim, loss or damage arising from the use of any information contained in this site.
-
-Selected content on the Brown Cafe web site is freely available. We do not claim this information as our own. If, for any reason, we provide information that is copyrighted, please let us know so that we can delete the content from our site.
