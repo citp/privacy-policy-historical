@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627110117id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedoutlet.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112224012id_/http%3A//www.emedoutlet.com/privacy_policy.php) for the most accurate reproduction.*
 
-# :: Emedoutlet :: Prescription Free Medicines at 80% Discount. Generic Drugs
+# Canadian Pharmacy Online, Cheap Online Mexican Pharmacy
 
 ---  
 **PRIVACY POLICY**  
