@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentcities.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205809id_/http%3A//apartmentcities.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentcities.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112060040id_/http%3A//www.apartmentcities.com/privacy.asp) for the most accurate reproduction.*
 
 # Apartments for Rent - PRIVACY POLICY by ApartmentCities.com
 
@@ -17,4 +17,4 @@ This site contains links to other sites. We are not responsible for the privacy 
 **Disclosure of Information**  
 We will never sell or share for consideration any personally identifiable information about you or your business to any third party without first receiving your permission.
 
-If you have any questions about this privacy policy, please e-mail us at [info@apartmentcities.com](mailto:info@apartmentcities.com)
+If you have any questions about this privacy policy, please contact us at **[Apartmentcities.com](https://web.archive.org/contactUs.asp)**
