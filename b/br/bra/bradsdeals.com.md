@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bradsdeals.com privacy policy that was archived on 2006-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060321182203id_/http%3A//www.bradsdeals.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bradsdeals.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112221208id_/http%3A//www.bradsdeals.com/privacy.cfm) for the most accurate reproduction.*
 
 # BradsDeals:: Privacy Policy
 
