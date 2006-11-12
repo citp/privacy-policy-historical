@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ultimaterollercoaster.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320085104id_/http%3A//www.ultimaterollercoaster.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimaterollercoaster.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112011355id_/http%3A//www.ultimaterollercoaster.com/info/privacy.shtml) for the most accurate reproduction.*
 
-# Ultimate Rollercoaster - Privacy Policy
+# Ultimate Rollercoaster | Privacy Policy
 
   |  **OUR PRIVACY STATEMENT**  
 It is our desire at Ultimate Rollercoaster (TM) to protect the privacy of our guests. This document describes our policy regarding information collected or received during your visit to our web site. Please note that the amount and type of information gathered will vary depending upon your usage.
@@ -75,7 +75,7 @@ Should exception to our information sharing policy exist, full disclosure will b
 
 In some situations we may collect and/or store your email address. Ultimate Rollercoaster is concerned about unsolicited email, otherwise known as Spam. Therefore, it is our policy not to sell or share any email address with third parties, unless consent is given or the intended use is clearly stated at the time of collection. However we do reserve the right to use your email address for internal use.
 
-On occasion you may receive email from Ultimate Rollercoaster for informative or promotional purposes. If at any time you wish to be removed from our mailing lists please visit our [Contact Us](https://web.archive.org/web/20060320085104id_/http%3A//www.ultimaterollercoaster.com/info/contact.shtml) page to send a request through email. Please include the email address to be removed and if applicable a copy of the message you received prompting your request to be removed. We promise to honor your request and remove your email address from any future mailings.
+On occasion you may receive email from Ultimate Rollercoaster for informative or promotional purposes. If at any time you wish to be removed from our mailing lists please visit our [Contact Us](https://web.archive.org/web/20061112011355id_/http%3A//www.ultimaterollercoaster.com/info/contact.shtml) page to send a request through email. Please include the email address to be removed and if applicable a copy of the message you received prompting your request to be removed. We promise to honor your request and remove your email address from any future mailings.
 
 **Advertising**
 
@@ -83,9 +83,15 @@ Ultimate Rollercoaster uses third parties and ad networks for the serving and/or
 
 For more information on how our third parties handle personal information related to the advertising on this site, please visit the web site for each of the following:
 
-Burst! Media, LLC - To find out more about how Burst! handles your personal information please consult the [Burst! Privacy Statement](http://www.burstmedia.com/release/privacy.asp).
+Burst! Media, LLC - To find out more about how Burst! handles your personal information please consult the [Burst! Privacy Statement](http://www.burstmedia.com/isl/index.asp?page=privacy).
 
-ValueClick - To find out more about how ValueClick handles your personal information please consult their [ValueClick Privacy Statement](http://valueclick.com/privacy.html).
+ValueClick - To find out more about how ValueClick handles your personal information please consult the [ValueClick Privacy Statement](http://www.valueclick.com/privacy.html).
+
+Tribal Fusion - To find out more about how Tribal Fusion handles your personal information please consult the [Tribal Fusion Privacy Statement](http://www.tribalfusion.com/TribalFusion/privacy.html).
+
+Casale Media - To find out more about how Casale Media handles your personal information please consult the [Casale Media Privacy Statement](http://www.casalemedia.com/privacy.html).
+
+Google AdSense - To find out more about how Google handles your personal information please consult the [Google Privacy Statement](http://www.google.com/privacy.html).
 
 **Hyperlinks**
 
@@ -109,4 +115,4 @@ Ultimate Rollercoaster can in no way guarantee your confidential use of this web
 
 **Questions**
 
-Please [Contact Us](https://web.archive.org/web/20060320085104id_/http%3A//www.ultimaterollercoaster.com/info/contact.shtml) with any questions you may have regarding this Privacy Policy.
+Please [Contact Us](https://web.archive.org/web/20061112011355id_/http%3A//www.ultimaterollercoaster.com/info/contact.shtml) with any questions you may have regarding this Privacy Policy. 
