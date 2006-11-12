@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theknot.com privacy policy that was archived on 2004-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041023013330id_/http%3A//theknot.com/au_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theknot.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112214645id_/http%3A//www.theknot.com/au_privacy.shtml) for the most accurate reproduction.*
 
 # The Knot: Privacy Policy
 
@@ -13,7 +13,7 @@
 ---  
 If you have questions or concerns regarding this statement, you should first contact The Knot Member Services by emailing [ membersupport@theknot.com](mailto:membersupport@theknot.com) and writing "Privacy Policy" in the subject line. You may also write to The Knot Member Services at 462 Broadway, Floor 6, New York, NY 10013 or call (212) 219-8555. 
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the [ "TRUSTe WatchDog Dispute Resolution Process"](http://www.truste.org/watchdog.html). TRUSTe will then serve as a liaison with The Knot to resolve your concerns.  
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the [ "TRUSTe WatchDog Dispute Resolution Process"](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with The Knot to resolve your concerns.  
   
 The first thing to remember about privacy is that there is only so much information that any website can collect without your answering of specific questions. The Knot logs IP addresses (in other words, the location of your computer on the Internet) for system administration, troubleshooting, and to examine overall traffic trends. (For example, IP addresses help us determine the percentage of people coming from various online gateways, such as Yahoo! or America Online.) This information, in aggregate form, is recorded for administrative purposes only. IP addresses are not linked to any personal information. 
 
@@ -24,7 +24,7 @@ For more information on cookies, please see our Cookie FAQ.
 You can browse The Knot and read our editorial content without registering or providing any personal information. However, in order to take advantage of our personalized services, you are required to provide us with information such as your name, email address, real-world address, wedding date, and role in the wedding. We collect similar information from users who choose to participate in our contests and promotional events. We always let you know before we collect any personal information from you.  
   
 Information we collect from your membership helps us to improve our content, customize certain pages for you, and update you about The Knot. From time to time, The Knot does share names, postal addresses, and demographic information with other pre-screened organizations that have specific direct mail product and service offers we think may be of interest to you. You may choose at any time to remove your name and address from these mailing lists by editing your privacy preferences (see paragraph below) or by letting us know via email to [membersupport@theknot.com](mailto:membersupport@theknot.com) (please include your name, address, and email).  
-You can access or update your personal information, including subscriptions to our email newsletters, at any time. To unsubscribe, you can follow the instructions on the bottom of each newsletter, edit your privacy preferences in your member profile at [http://www.theknot.com/profile](https://web.archive.org/web/20041023013330id_/http%3A//theknot.com/join/pl_profile1.aspx). If you would like to deactivate you membership with The Knot, you should contact The Knot Member Services by emailing [ membersupport@theknot.com](mailto:membersupport@theknot.com) and writing "Deactivate Membership" in the subject line. You may also write to The Knot Member Services at 462 Broadway, Floor 6, New York, NY 10013 or call (212) 219-8555.  
+You can access or update your personal information, including subscriptions to our email newsletters, at any time. To unsubscribe, you can follow the instructions on the bottom of each newsletter, edit your privacy preferences in your member profile at [http://www.theknot.com/profile](https://web.archive.org/web/20061112214645id_/http%3A//www.theknot.com/join/pl_profile1.aspx). If you would like to deactivate you membership with The Knot, you should contact The Knot Member Services by emailing [ membersupport@theknot.com](mailto:membersupport@theknot.com) and writing "Deactivate Membership" in the subject line. You may also write to The Knot Member Services at 462 Broadway, Floor 6, New York, NY 10013 or call (212) 219-8555.  
 The Knot contains links to other websites. We cannot be responsible for their content or for private information that you may choose to share with them. Please note: Information you release directly to parties who provide services to The Knot, such as any vendors in The Knot Shop or other sites you encounter on the Internet (even sites that are co-branded with The Knot) may be subject to different rules of use or disclosure. We encourage you to investigate and ask questions before disclosing personal information to third parties.  
 Your privacy is very important to us, but due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. Under certain circumstances, the government or third parties may unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can disclose any information about you to private entities, law enforcement, or other government officials as we, in our sole discretion, believe necessary or appropriate. 
 
@@ -48,9 +48,9 @@ If you want to prevent a third-party advertiser from collecting data, currently 
 
 3,600+ new members join TheKnot.com each day
 
-Exclusive wedding content provider to AOL, MSN, CompuServe, and Netscape
+Exclusive wedding content provider to MSN, CompuServe, and Netscape
 
-The only wedding brand found on the Internet's top three portals: AOL, MSN, and Yahoo!
+The only wedding brand found on the Internet's top three portals: MSN and Yahoo!
 
 Brand extensions in all media: Internet, magazines, books, and television
 
