@@ -1,0 +1,714 @@
+<!--The following is the downloaded HTML source of the bookins.com privacy policy that was archived on 2006-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061112142412id_/http%3A//bookins.com/aboutus.php%3Fstep%3D5) for the most accurate reproduction.-->
+
+<html><head>
+<title>Bookins Book Exchange, Swap Books, Free Bookswap, Free Books,Used Books, Paperback Swap</title>
+<meta name="keywords" content="Bookin, Bookins, book, book club, book swap, bookins swap, swap your books,  books, trade book, trade books, book exchange, book trader, hastle free trade, prepaid postage, unlimited trades, paperbackswap, titletrader, frugalreader">
+<meta name="description" content="Swap used books with other booklovers. Free membership. Hassle-free book trading.">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="revisit-after" content="7 Days">
+<link href="includes/css.css" rel="stylesheet" type="text/css">
+<link href="style.css" rel="stylesheet" type="text/css">
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script language="javascript1.2" src="script.js" type="text/javascript"></script>
+<script language="javascript" src="includes/commonFunctions.js"></script>
+<script language="javascript1.2" src="menu1.js" type="text/javascript"></script>
+    <script language="javascript">
+
+                function bookBigImage(isbn)
+                {
+                        ressaving = showModalDialog('bookBigImageDisplay.php', isbn, 'dialogWidth: 230px; dialogHeight: 300px; center: yes; resizable: no; scroll: no; status: no;');
+                }
+
+
+                //validate the number form
+                function validate()
+                {
+                                var txtHeadLine=Trim(document.frmReview.txtHeadLine.value);
+                                var txtReview=Trim(document.frmReview.txtReview.value);
+                                if(document.frmReview.txtHeadLine.value=="")
+                                {
+                                        alert("Your headline must be more than 5 characters");
+                                        document.frmReview.txtHeadLine.focus();
+                                        return false;
+                                }
+                                if(document.frmReview.txtReview.value=="")
+                                {
+                                        alert("Your comment must be more than 5 characters");
+                                        document.frmReview.txtReview.focus();
+                                        return false;
+                                }
+                                if(txtHeadLine.length<5)
+                                {
+                                        alert("Your headline must be more than 5 characters");
+                                        document.frmReview.txtHeadLine.focus();
+                                        return false;
+                                }
+
+                                if(txtReview.length<5)
+                                {
+                                        alert("Your comment must be more than 5 characters");
+                                        document.frmReview.txtReview.focus();
+                                        return false;
+                                }
+                                document.frmReview.submit();
+                }
+
+                //submit the form
+                function submitForm()
+                {
+                        document.frmReview.hidaction.value="";
+                        document.frmReview.submit();
+           }
+
+
+                function countWords()
+                {
+                        var txtReview=Trim(document.frmReview.txtReview.value);
+                        if(txtReview.length>1000)
+                        {
+                                document.frmReview.txtReview.value=txtReview.substring(0,1000);
+                                return false;
+                        }
+
+                }
+
+                function textCounter(field,cntfield,maxlimit)
+                {
+                                if (field.value.length > maxlimit)
+                                        field.value = field.value.substring(0, maxlimit);
+                                else
+                                        cntfield.value = field.value.length;
+                }
+
+
+                function unCheck()
+                {
+                                        document.frmReview.noThanks.checked=false;
+                }
+
+                function cleartxt()
+                {
+                                document.frmReview.txtAbout.value="";
+                }
+</script>
+</head>
+
+<body onload="menu_init()">
+<script type="text/javascript">
+
+var offsetfromcursorX=12 //Customize x offset of tooltip
+var offsetfromcursorY=10 //Customize y offset of tooltip
+
+var offsetdivfrompointerX=10 //Customize x offset of tooltip DIV relative to pointer image
+//var offsetdivfrompointerY=14 //Customize y offset of tooltip DIV relative to pointer image. Tip: Set it to (height_of_pointer_image-1).
+var offsetdivfrompointerY=14
+
+document.write('<div id="dhtmltooltip"></div>') //write out tooltip DIV
+document.write('<img id="dhtmlpointer" src="arrow2.gif">') //write out pointer image
+
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+if (ie||ns6)
+var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+var pointerobj=document.all? document.all["dhtmlpointer"] : document.getElementById? document.getElementById("dhtmlpointer") : ""
+
+function ietruebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function ddrivetip(thetext, thewidth, thecolor){
+if (ns6||ie){
+if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+tipobj.innerHTML=thetext
+enabletip=true
+return false
+}
+}
+
+function positiontip(e){
+if (enabletip){
+var nondefaultpos=false
+var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
+var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
+//Find out how close the mouse is to the corner of the window
+var winwidth=ie&&!window.opera? ietruebody().clientWidth : window.innerWidth-20
+var winheight=ie&&!window.opera? ietruebody().clientHeight : window.innerHeight-20
+
+var rightedge=ie&&!window.opera? winwidth-event.clientX-offsetfromcursorX : winwidth-e.clientX-offsetfromcursorX
+var bottomedge=ie&&!window.opera? winheight-event.clientY-offsetfromcursorY : winheight-e.clientY-offsetfromcursorY
+
+var leftedge=(offsetfromcursorX<0)? offsetfromcursorX*(-1) : -1000
+
+//if the horizontal distance isn't enough to accomodate the width of the context menu
+if (rightedge<tipobj.offsetWidth){
+//move the horizontal position of the menu to the left by it's width
+tipobj.style.left=curX-tipobj.offsetWidth+"px"
+nondefaultpos=true
+}
+else if (curX<leftedge)
+tipobj.style.left="5px"
+else{
+//position the horizontal position of the menu where the mouse is positioned
+tipobj.style.left=curX+offsetfromcursorX-offsetdivfrompointerX+"px"
+pointerobj.style.left=curX+offsetfromcursorX+"px"
+}
+
+//same concept with the vertical position
+if (bottomedge<tipobj.offsetHeight){
+tipobj.style.top=curY-tipobj.offsetHeight-offsetfromcursorY+"px"
+nondefaultpos=true
+}
+else{
+tipobj.style.top=curY+offsetfromcursorY+offsetdivfrompointerY+"px"
+pointerobj.style.top=curY+offsetfromcursorY+"px"
+}
+tipobj.style.visibility="visible"
+if (!nondefaultpos)
+pointerobj.style.visibility="visible"
+else
+pointerobj.style.visibility="hidden"
+}
+}
+
+function hideddrivetip(){
+if (ns6||ie){
+enabletip=false
+tipobj.style.visibility="hidden"
+pointerobj.style.visibility="hidden"
+tipobj.style.left="-1000px"
+tipobj.style.backgroundColor=''
+tipobj.style.width=''
+}
+}
+
+document.onmousemove=positiontip
+
+</script><div id="dhtmltooltip"></div><img id="dhtmlpointer" src="arrow2.gif">
+
+
+<table width="779" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="10" class="veryTopTD"><img src="images1/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr>
+    <td class="mainTD">
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" class="outerborder">
+      <tbody><tr>
+        <td>
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td width="28%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                          <td width="2%" height="8" align="left" valign="top"><img src="images1/topCornerLeft.jpg" width="8" height="8" alt=""></td>
+                          <td width="98%"><img src="images1/spacer.gif" width="1" height="1"></td>
+                        </tr>
+                        <tr>
+                          <td colspan="2"><a href="index.php" class="main"><img src="images1/logo.jpg" alt="" border="0"></a></td>
+                        </tr>
+        </tbody></table>
+	</td>
+             <td width="72%" valign="top">
+	<img src="images1/spacer.gif" height="18" width="1">	     			 
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	  <td width="99%" align="right" valign="top">
+	  	  &nbsp;&nbsp;&nbsp;
+<a href="userLogin.php" class="bookins12">Sign In</a>&nbsp;&nbsp;
+<!--
+<img src="images/arrow.jpg" width="12" height="10">&nbsp;<a href="userLogin.php" class="main">Members, Login Here</a>
+-->
+</td>
+	  <td width="1%" align="right" valign="top"><img src="images1/topCornerRight.jpg" width="8" height="27" alt=""></td>
+	</tr>
+	<tr>
+	  <td height="32" colspan="2">
+	&nbsp;</td>
+                        </tr>
+                        <tr valign="bottom">
+                          <td colspan="2" align="right"><span class="borderTop"><a href="#"> </a></span>
+
+
+                        <table cellspacing="0" cellpadding="0" width="530" border="0" class="borderBottom">
+                                <tbody>
+                                  <tr>
+                                    <td align="right"><!-- *** item 01 -->
+                                        <table width="115" border="0" cellpadding="0" cellspacing="0">
+                                          <tbody>
+                                            <tr>
+                                              <td width="7" rowspan="3"><img height="25" alt="" src="images1/item_out_left.gif" width="7" border="0" name="img_001_l"></td>
+                                              <td style="BACKGROUND: #99B2D5" height="1"></td>
+                                              <td width="7" rowspan="3"><img height="25" alt="" src="images1/item_out_right.gif" width="7" border="0" name="img_001_r"></td>
+                                            </tr>
+                                            <tr>
+                                              <td class="cl_td_out" id="td_001" onmouseover="menu_over(1);" onclick="menu_click(1)" ;="" onmouseout="menu_out(1);" align="center" height="23" style="background: rgb(203, 223, 251);"><a class="cl_menu" href="index.php">Home </a></td>
+                                            </tr>
+                                            <tr>
+                                              <td id="td_001_b" style="background: rgb(203, 223, 251);" height="1"></td>
+                                            </tr>
+                                          </tbody>
+                                      </table></td>
+                                    <td align="right"><table width="130" border="0" cellpadding="0" cellspacing="0">
+                                        <tbody>
+                                          <tr>
+                                            <td width="7" rowspan="3"><img height="25" alt="" src="images1/item_out_left.gif" width="7" border="0" name="img_002_l"></td>
+                                            <td style="BACKGROUND:#99B2D5" height="1"></td>
+                                            <td width="7" rowspan="3"><img height="25" alt="" src="images1/item_out_right.gif" width="7" border="0" name="img_002_r"></td>
+                                          </tr>
+                                          <tr>
+                                            <td class="cl_td_out" id="td_002" onmouseover="menu_over(2);" onclick="menu_click(2);" onmouseout="menu_out(2);" align="center" height="23" style="background: rgb(203, 223, 251);"><a href="how-online-book-trade-works" class="cl_menu">Learn More</a></td>
+                                          </tr>
+                                          <tr>
+                                            <td id="td_002_b" style="background: rgb(203, 223, 251);" height="1"></td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                        <!-- item 02 *** --></td>
+                                    <td align="right"><!-- *** item 03 -->
+                                        <table width="105" border="0" cellpadding="0" cellspacing="0">
+                                          <tbody>
+                                            <tr>
+                                              <td width="7" rowspan="3"><img height="25" alt="" src="images1/item_out_left.gif" width="7" border="0" name="img_003_l"></td>
+                                              <td style="BACKGROUND: #99B2D5" height="1"></td>
+                                              <td width="7" rowspan="3"><img height="25" alt="" src="images1/item_out_right.gif" width="7" border="0" name="img_003_r"></td>
+                                            </tr>
+                                            <tr>
+                                              <td class="cl_td_out" id="td_003" onmouseover="menu_over(3);" onclick="menu_click(3);" onmouseout="menu_out(3);" align="center" height="23" style="background: rgb(203, 223, 251);"><a href="books" class="cl_menu">Browse Books</a></td>
+                                            </tr>
+                                            <tr>
+                                              <td id="td_003_b" style="background: rgb(203, 223, 251);" height="1"></td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                        <!-- item 03 *** --></td>
+                                    <td align="right"><!-- *** item 04 -->
+                                        <table width="85" border="0" cellpadding="0" cellspacing="0">
+                                          <tbody>
+                                            <tr>
+                                              <td width="7" rowspan="3"><img height="25" alt="" src="images1/item_out_left.gif" width="7" border="0" name="img_004_l"></td>
+                                              <td style="BACKGROUND: #99B2D5" height="1"></td>
+                                              <td width="7" rowspan="3"><img height="25" alt="" src="images1/item_out_right.gif" width="7" border="0" name="img_004_r"></td>
+                                            </tr>
+                                            <tr>
+                                              <td class="cl_td_out" id="td_004" onmouseover="menu_over(4);" onclick="menu_click(4);" onmouseout="menu_out(4);" align="center" width="85" height="23" style="background: rgb(203, 223, 251);"><a class="cl_menu" href="wishbooks">My Wish List</a></td>
+                                            </tr>
+                                            <tr>
+                                              <td id="td_004_b" style="background: rgb(203, 223, 251);" height="1"></td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                        <!-- item 04 *** --></td>
+                                    <td align="right"><!-- *** item 05 -->
+                                        <table width="95" border="0" cellpadding="0" cellspacing="0">
+                                          <tbody>
+                                            <tr>
+                                              <td rowspan="3"><img height="25" alt="" src="images1/item_out_left.gif" width="7" border="0" name="img_005_l"></td>
+                                              <td style="BACKGROUND: #99B2D5" height="1"></td>
+                                              <td rowspan="3"><img height="25" alt="" src="images1/item_out_right.gif" width="7" border="0" name="img_005_r"></td>
+                                            </tr>
+                                            <tr>
+                                              <td class="cl_td_out" id="td_005" onmouseover="menu_over(5);" onclick="menu_click(5);" onmouseout="menu_out(5);" align="center" width="85" height="23" style="background: rgb(203, 223, 251);"><a class="cl_menu" href="tradebooks">My Trade List</a></td>
+                                            </tr>
+                                            <tr>
+                                              <td id="td_005_b" style="background: rgb(203, 223, 251);" height="1"></td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                        <!-- item 05 *** --></td>
+<input type="hidden" name="item_sel" class="Bluetext" value="">
+                                  </tr>
+                                </tbody>
+                            </table>
+			 </td>
+                        </tr>
+                    </tbody></table>
+		    
+		    </td>
+                  </tr>
+              </tbody></table>
+	     </td>
+           </tr>
+           <tr>
+              <td><img src="images1/spacer.gif" width="1" height="1"></td>
+           </tr>
+
+
+   <tr>
+    <td>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="202" valign="top"> <table width="202" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td align="center" valign="top"> <table width="84%" border="0" align="center" cellpadding="0" cellspacing="0">
+                   <tbody><tr>
+                <td>&nbsp;</td>
+              </tr>
+						<tr>
+						<td></td>
+						<td colspan="2" class="" align="left">
+						<a href="https://www.bookins.com/userRegistration.php" class="orangelink18">Join Free Now</a>
+						</td>
+						</tr>
+						<tr><td>&nbsp;</td>
+						</tr>
+
+                   <tr>
+                      <td height="10">&nbsp;</td>
+                      <td colspan="2" class="orangeheading" align="left"><a href="aboutus.php" class="bookinspoint1">About Us</a></td>
+                    </tr>
+
+                    <tr>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td height="12"></td>
+                      <td colspan="2" align="left"><a href="aboutus.php?step=6" class="bookinspoint1">Terms &amp; Privacy</a></td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td height="12"></td>
+                      <td colspan="2" align="left"><a href="/customerservice/desc/contactUs#contact" class="bookinspoint1">Contact
+                        Us</a></td>
+                    </tr>
+                    <tr>
+                      <td></td>
+                    </tr>
+              <tr> 
+                <td colspan="2" align="center"><img src="images/mybh.jpg" border="0"></td>
+              </tr>
+                  </tbody></table></td>
+              </tr>
+            </tbody></table></td>
+          <td valign="top"> <table width="500" height="0%" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td width="100%" height="100%" colspan="2" valign="top">
+                  <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                  <tbody><tr>
+                <td>&nbsp;</td>
+              </tr>
+
+                                        <tr align="left">
+                      <td colspan="2" class="welcomea">Bookins Customer Privacy Policy</td>
+                    </tr>
+                    <tr>
+                      <td align="right">&nbsp;</td>
+                      <td class="orangetext">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td height="5" colspan="2"></td>
+                    </tr>
+                    <tr>
+                      <td>&nbsp;</td>
+                      <td valign="top"> <table width="98%" border="0" cellspacing="0" cellpadding="0">
+                          <tbody><tr>
+                            <td valign="top"> <div align="justify" class="maintextnew">
+                                                                        Protecting your privacy is important to Bookins. We strive to keep your personal information confidential. By ensuring you are aware of, and understand, the Bookins Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
+                                                                </div></td>
+                          </tr>
+                                                        <tr>
+                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                         </tr>
+                                                   <tr>
+                            <td valign="top"> <div align="justify" class="maintextnew">
+                                                                        <b class="orangetext">Why we collect personal information</b><br>
+                                                                                Bookins collects and uses your personal information to give you superior customer service and to provide you with convenient book trading services. In addition, we use your personal information to keep you up to date on the latest service announcements, website updates, special offers, and other information related to your Bookins Membership. From time to time, we may also use your personal information to contact you to participate in a market research survey, so that we can gauge customer satisfaction and better refine our offering.
+                                                                </div></td>
+                          </tr>
+                                                  <tr>
+                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                         </tr>
+                                                <tr>
+                            <td valign="top"> <div align="justify" class="maintextnew">
+                                                                        <b class="orangetext">How we collect personal information </b><br>
+                                                                        We collect information about you in several ways. For example, we might ask for your contact information when you correspond with us, register for our service, or participate in an online survey. When you activate your Bookins Membership, we collect and store the information you provide in a secure database. To save you time and make our web services even easier to use, the system saves your information until it is required, at which point the system will automatically look up the information it needs.
+                                                                </div></td>
+                          </tr>
+                                                    <tr>
+                                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                                <td valign="top" class="maintextnew">
+                                                                        <b class="orangetext">When we disclose personal information </b><br>
+                                                                        <div align="justify">
+                                                                        Bookins is a person-to-person book exchange. Each time a book is to be shipped to you, your name and shipping address will appear to the sender on the one-time use label. The label is printed from our secure server, just prior to mailing the book. The shipper is obligated to use the shipping label in accordance with U.S. Postal Service regulations. Misuse of the postage we provide is a federal offense subject to severe penalties under the criminal laws of the United States, including 18 U.S.C. $1001 and 501. Bookins maintains stringent tracking and auditing procedures, and will report misuse and indication of misuse and mail-fraud to the U.S. Postal Service.</div>
+                                                                </td>
+                          </tr>
+                                                    <tr>
+                                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                                         <td height="5" colspan="2" class="maintextnew"><div align="justify">
+                                                                        At times we may be required by law or legal process to disclose your personal information. We may also disclose information about you if we believe that disclosure is necessary for the public interest.
+                                                                         </div></td>
+                                                        </tr>
+                                                          <tr>
+                                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                                <td valign="top" class="maintextnew">
+                                                                        <b class="orangetext">How we protect your personal information </b><br><div align="justify">
+                                                                        Bookins safeguards the security of the data you send us with physical, electronic, and managerial procedures. We urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
+                                                                </div></td>
+                          </tr>
+                                                    <tr>
+                                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+
+                                              <td height="5" colspan="2" class="maintextnew">
+                                                Bookins uses industry-standard
+                                                Secure Sockets Layer (SSL) encryption
+                                                on all web pages where personal
+                                                information is required. To activate
+                                                your Bookins Membership, you must
+                                                use an SSL-enabled browser such
+                                                as Netscape Navigator 3.0 or later,
+                                                or Internet Explorer. This protects
+                                                the confidentiality of your personal
+                                                and credit card information while
+                                                it is transmitted over the Internet.
+                                              </td>
+                                                        </tr>
+                                                           <tr>
+                                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                                <td valign="top" class="maintextnew">
+                                                                        <b class="orangetext">Access to your personal information  </b><br>
+                                                                        You always have access to the information we have about you. To review and update your personal information, Members can simply visit the "Account" section of our website after login. If you would like to review other personal information that Bookins may have about you, email us at  <a href="mailto:privacy@bookins.com" class="bookinspoint">privacy@Bookins.com</a>
+                                                                </td>
+                          </tr>
+                                                             <tr>
+                                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                                <td valign="top" class="maintextnew">
+                                                                        <b class="orangetext">Collecting other personal information.</b><br><div align="justify">
+                                                                                When you browse Bookins' website, you are able to do so anonymously. Generally, we don't collect personal information when you browse - not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using.
+                                                                </div></td>
+                          </tr>
+                                                <tr>
+                                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                                         <td height="5" colspan="2" class="maintextnew">
+                                                                                <div align="justify">
+                                                                        Like many websites, Bookins' website uses "cookie" technology. When you first connect to our site, the cookie identifies your browser with a unique, random number. The cookies we use do not reveal any personal information about you, except perhaps your first name so we can welcome you on your next visit. Cookies help us understand which parts of our websites are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns on our site so we can make the site even better.  </div>
+
+                                                                         </td>
+                                                        </tr>
+                                                        <tr>
+                                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                                         <td height="5" colspan="2" class="maintextnew">
+                                                                                <div align="justify">
+                                                                                        In some of our email to you, we use a "click-through URL." When you click one of these URLs, you pass through our web server before arriving at the website that is your destination. We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our customer communications.  </div>
+
+                                                                         </td>
+                                                        </tr>
+                                                        <tr>
+                                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                                <td valign="top" class="maintextnew">
+                                                                        <b class="orangetext">Our company wide commitment to privacy.</b><br><div align="justify">
+                                                                                        To make sure your personal information remains confidential, we communicate these privacy guidelines to every Bookins employee.
+                                                                </div></td>
+                           </tr>
+                                                   <tr>
+                                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                                         <td height="5" colspan="2" class="maintextnew">
+                                                                                <div align="justify">
+                                                                                        Bookins does not knowingly solicit personal information from children or send them requests for personal information.
+                                                                         </div></td>
+                                                        </tr>
+                                                        <tr>
+                                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                                         <td height="5" colspan="2" class="maintextnew">
+                                                                                <div align="justify">
+                                                                                        Bookins' website contains links to other sites. Bookins does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
+                                                                                </div>
+
+                                                                         </td>
+                                                        </tr>
+                                                        <tr>
+                                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                                         <td height="5" colspan="2" class="maintextnew">
+                                                                                <p align="justify">
+                                                                                If we are going to use your personal information differently from that stated at the time of collection, we will try to contact you via email using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner.
+
+                                                                                </p>
+
+                                                                         </td>
+                                                        </tr>
+                                                        <tr>
+                                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                                         <td height="5" colspan="2" class="maintextnew">
+                                                                                <p align="justify">
+                                                                                        The Bookins Customer Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes.
+
+                                                                                </p>
+
+                                                                         </td>
+                                                        </tr>
+<tr>
+                                                                         <td height="5" colspan="2">&nbsp;</td>
+                                                        </tr>
+                                                        <tr>
+                                                                         <td height="5" colspan="2" class="maintextnew">
+                                                                                <p align="justify">
+                                                                                Last updated August 16, 2005.</p>
+
+                                                                         </td>
+                                                        </tr>
+                                                   <tr>
+                        </tr></tbody></table></td>
+                    </tr>
+                  </tbody></table></td>
+
+
+
+ <td valign="top" width="100"></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+<tr>
+<td colspan="3">&nbsp;</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td valign="bottom" class="footerTD" height="10" align="center">
+&nbsp;
+<a href="how-online-book-trade-works" class="bookinspoint_footer">Learn More</a>
+&nbsp;
+|
+&nbsp;
+<a href="aboutus.php" class="bookinspoint_footer">About Us</a>
+&nbsp;
+|
+&nbsp;
+ <a href="rssfeed.php" class="bookinspoint_footer">RSS</a>&nbsp;<a href="rssfeed.php" class="bookinspoint_footer"><img src="./images/xml-rss.gif" border="0"></a>
+
+&nbsp;
+|
+&nbsp;
+<a href="pressandmedia.php" class="bookinspoint_footer">Press</a>
+&nbsp;
+|
+&nbsp;
+<a href="testimonial.php" class="bookinspoint_footer">Testimonials</a>
+&nbsp;
+|
+&nbsp;
+<a href="faq.php" class="bookinspoint_footer">Help</a>
+</td><td>
+</td></tr>
+
+<tr>
+<td valign="middle" class="footerTD" height="20" align="center">
+<a href="aboutus.php?step=6" class="bookinspoint_footer">Terms &amp; Privacy</a>
+&nbsp;
+|
+&nbsp;
+<a href="#" onclick="window.open('Bookins-Theme-Song.html','ThemeSong', 'resizable=no, scrollbars=no, top=100, left=380, height=110, width=300');" class="bookinspoint_footer">Play Our Song</a>
+<!--
+&nbsp;
+|
+&nbsp;
+<a href="books/desc/linkbuilding" class="bookinspoint_footer">Link to Us</a>
+-->
+</td></tr>
+
+<tr><td valign="middle" class="footerTD" height="20" align="center">&nbsp;</td></tr>
+<tr><td valign="middle" class="footerTD" height="20" align="center">Add Bookins.com to your online bookmark site:</td></tr>
+<tr><td valign="middle" class="footerTD" height="10" align="center">&nbsp;</td></tr>
+<tr><td valign="middle" class="footerTD" height="20" align="center">
+<a href="http://digg.com/submit?phase=2&amp;url=http://www.bookins.com"><img border="0" src="./images/bookmarks/1.gif"></a>&nbsp;
+<a href="http://www.blinklist.com/index.php?Action=Blink/addblink.php&amp;Description=&amp;Url=http://www.bookins.com.com&amp;Title=Swap+Books+Share+the+Joy"><img border="0" src="./images/bookmarks/2.gif"></a>&nbsp;
+<a href="http://del.icio.us/post?url=http://www.bookins.com&amp;title=Swap+Books+Share+the+Joy"><img border="0" src="./images/bookmarks/3.gif"></a>&nbsp;
+<a href="http://cgi.fark.com/cgi/fark/edit.pl?new_url=http://www.bookins.com&amp;new_comment=Swap+Books+Share+the+Joy&amp;linktype=Misc&amp;title=Swap+Books+Share+the+Joy"><img border="0" src="./images/bookmarks/4.gif"></a>&nbsp;
+<a href="http://ma.gnolia.com/bookmarklet/snap/add?url=http://www.bookins.com&amp;title=Swap+Books+Share+the+Joy"><img border="0" src="./images/bookmarks/5.gif"></a>&nbsp;
+<a href="http://www.furl.net/storeIt.jsp?u=http://www.bookins.com&amp;t=Swap+Books+Share+the+Joy"><img border="0" src="./images/bookmarks/6.gif"></a>&nbsp;
+<a href="http://reddit.com/submit?url=http://www.bookins.com&amp;title=Swap+Books+Share+the+Joy"><img border="0" src="./images/bookmarks/7.gif"></a>&nbsp;
+<a href="http://www.newsvine.com/_tools/seed&amp;save?u=http://www.bookins.com&amp;headline=Swap+Books+Share+the+Joy"><img border="0" src="./images/bookmarks/8.gif"></a>&nbsp;
+<a href="http://www.simpy.com/simpy/LinkAdd.do?href=http://www.bookins.com&amp;title=Swap+Books+Share+the+Joy"><img border="0" src="./images/bookmarks/9.gif"></a>&nbsp;
+<a href="http://www.spurl.net/spurl.php?url=http://www.bookins.com&amp;title=Swap+Books+Share+the+Joy"><img border="0" src="./images/bookmarks/10.gif"></a>&nbsp;
+<a href="http://www.shadows.com/features/tcr.htm?url=http://www.bookins.com&amp;title=Swap+Books+Share+the+Joy"><img border="0" src="./images/bookmarks/11.gif"></a>&nbsp;
+<a href="http://www.sync2it.com/addbm.php?url=http://www.bookins.com&amp;title=Swap+Books+Share+the+Joy"><img border="0" src="./images/bookmarks/12.gif"></a>&nbsp;
+<a href="http://synergy2.search.yahoo.com/myresults/bookmarklet?u=http://www.bookins.com&amp;t=Swap+Books+Share+the+Joy"><img border="0" src="./images/bookmarks/13.gif"></a>&nbsp;
+</td></tr>
+
+<tr><td valign="middle" class="footerTD" height="40" align="center">&nbsp;</td></tr>
+
+
+<tr>
+<td valign="middle" class="footerTD" height="20" align="center">
+©2006 Bookins &nbsp; U.S. Patent Pending
+</td></tr>
+</tbody></table>
+<!-- Google Analytics -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-295592-1";
+urchinTracker();
+</script>
+
+
+
+</body></html>
