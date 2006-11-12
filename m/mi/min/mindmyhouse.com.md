@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmyhouse.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615181023id_/http%3A//mindmyhouse.com/advice/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmyhouse.com privacy policy that was archived on 2006-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061112035401id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -8,13 +8,14 @@ MindMyHouse.com protects your privacy and respects your concerns about the secur
 
 MindMyHouse.com, being based in the United Kingdom (UK), complies with the UK’s Data Protection Laws. The UK’s Information Commissioner has been notified of the type of information collected on this website and the ways in which it is stored and processed. MindMyHouse.com fully complies with the eight principles of secure data management as set out in the Data Protection Law 1998. 
 
-This Privacy Policy should be read in partnership with the Conditions of Use document.
+This Privacy Policy should be read in partnership with the Terms and Conditions document.
 
 ## Contents
 
 Q. What information does MindMyHouse.com require from members?  
 Q. How does MindMyHouse.com use members’ information?  
-Q. Who sees members’ personal information?  
+Q. Who sees home owner members’ personal information?  
+Q. Who sees house sitters members’ personal information?  
 Q. Will MindMyHouse.com be sending members any unsolicited material?  
 Q. What are cookies? Are they required?  
 Q. How secure are members’ account areas?  
@@ -26,6 +27,7 @@ Q. What is the policy regarding links to third party sites?
 Q. When does this Privacy Policy not apply?  
 Q. What happens to members’ information after their membership expires?  
 Q. What happens to the information members provide when communicating with MindMyHouse.com?  
+Q. What happens to the material members provide when using MindMyHouse.com's internal contact form system?  
 Q. How is members’ information protected under United Kingdom law?  
 Q. What are the contact details for MindMyHouse.com?
 
@@ -47,13 +49,23 @@ Neither will MindMyHouse.com individually identify any member to a third party e
 
 MindMyHouse.com reserves the right to collate statistical data from members in order to track site usage patterns . This process will not identify any individual member and will only be used in efforts to improve the site and services to members.
 
-**Q. Who sees members’ personal information?**
+**Q. Who sees home owners members’ personal information?**
 
-Only those people working for MindMyHouse.com will be able to see members’ personal information as it is supplied by members and stored in the site’s database. However, many elements of house sitter members’ personal information are viewable online by other registered MindMyHouse.com members. 
+Only those people working for MindMyHouse.com will be able to see members' personal information as it is supplied by members and stored in the site's database.
 
-MindMyHouse.com recognizes that home owner members may like to preserve their anonymity until they are interviewing house sitting candidates directly. For this reason, home owner members’ email addresses are completely hidden from view online. Home owner members can only be contacted via a blank email contact form on the site. Only registered house sitter members will be able to contact home owner members in this way. However please note that MindMyHouse.com cannot safeguard your privacy if you choose to include personal details (eg. email address) in any adverts you create on the site.
+MindMyHouse.com recognizes that home owner members may like to preserve their anonymity until they are interviewing house sitting candidates directly. For this reason, home owner members' email addresses are completely hidden from view online. Home owner members can only be contacted via a blank email contact form on the site. Only registered house sitter members will be able to contact home owner members in this way. However please note that MindMyHouse.com cannot safeguard your privacy if you choose to include personal details such as your name, email address or street address in any adverts you create and publish on the site. 
 
-House sitter members’ contact details including first and last names, country of residence, phone numbers (if provided) and an email address can be seen by any person who joins MindMyHouse.com as a member. House sitter members’ home addresses are never displayed online nor given to any third party except when requested by the police in the interest of public safety. 
+If home owners publish a sitter wanted advert, a map will accompany the advert that will show the city/town/location of the house sitting assignment. Please note that this map is limited in detail - the zoom function has been limited so that users can only see the city/town or area of the assignment. Details such as the street or postcode (zipcode) remain hidden.
+
+**Q. Who sees house sitters members’ personal information?**
+
+Only those people working for MindMyHouse.com will be able to see members' personal information as it is supplied by members and stored in the site's database. However, many elements of house sitter members' personal information are viewable online by registered MindMyHouse.com home owner members.
+
+House sitter members' contact details including first and last names, country of residence, phone numbers (optional) and an email address are only visible online when house sitters create a sitter available advert. This information can then be seen by any person who joins MindMyHouse.com as a home owner member. House sitter members' home addresses are never displayed online nor given to any third party except when requested by the police in the interest of public safety.
+
+House sitter members who create and publish their own sitter available advert have the option of being included in MindMyHouse.com's Local Sitter Search. Registered home owner members will then be able to search for and see house sitters' city/town/area of residence (based on the address they used to register with the service) displayed on a map. 
+
+Please note that this map is limited in detail – the zoom function has been limited so that home owners can only see very generally where in the town/city or area of residence the house sitter is located. Details such as the street or postcode (zipcode) remain hidden.
 
 **Q. Will MindMyHouse.com be sending members any unsolicited material?**
 
@@ -89,7 +101,7 @@ MindMyHouse.com uses the industry leader, PayPal for all online transactions. Pa
 
 **Q. How can members access, update or delete their information?**
 
-Members are able to access, update and delete their information at any time, by logging into their own account area on the site with their own customisable password and following the relevant instructions. Any changes, additions or deletions to members’ information will be effective immediately. However, MindMyHouse.com reserves the right to view and return any inappropriate material to members for re-submission. Members are required to keep their information as current and accurate as possible under the terms of the Conditions of Use document.
+Members are able to access, update and delete their information at any time, by logging into their own account area on the site with their own customisable password and following the relevant instructions. Any changes, additions or deletions to members’ information will be effective immediately. However, MindMyHouse.com reserves the right to view and return any inappropriate material to members for re-submission. Members are required to keep their information as current and accurate as possible under the terms of the Terms and Conditions of Use document.
 
 **Q. Can someone else link to members’ personal information on MindMyHouse.com from another website?**
 
@@ -116,6 +128,10 @@ MindMyHouse.com’s home owner memberships do not expire in the same way as hous
 MindMyHouse.com values all of the feedback provided by members. Information submitted in this way will not be used in any way to compromise MindMyHouse.com’s obligations to members under the Privacy Policy. Feedback and other correspondence will be used in the constant effort to improve the site and the service provided to members. 
 
 However, MindMyHouse.com would very much like to publish, in part or in whole, selected members’ testimonials about the usefulness of the site and members’ tales of house sitting experiences in general. Before any such material is published on the site, MindMyHouse.com will expressly seek permission to do so from its author.
+
+**Q. What happens to the material members provide when using MindMyHouse.com's internal contact form system?**
+
+MindMyHouse monitors the communication made between members through its internal contact form system. This material remains confidential and is not passed on to any third party for any reason except when required by the police in the interests of public safety. This material is securely stored as per the requirements of the UK's Data Protection Act 1998. 
 
 **Q. How is members’ information protected under United Kingdom law?**
 
@@ -146,7 +162,7 @@ MindMyHouse.com **
 London  
 W6 7RN  
 United Kingdom  
-phone: +612 7371 1873  
+phone: +612 8932 3597  
 email: [support@mindmyhouse.com](mailto:support@mindmyhouse.com)
 
 Thank you!   
