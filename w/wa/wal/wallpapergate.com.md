@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wallpapergate.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021820id_/http%3A//www.wallpapergate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapergate.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113141630id_/http%3A//www.wallpapergate.com/privacy.html) for the most accurate reproduction.*
 
-# Wallpaper Gate - Top 100 Wallpapers
+# Wallpaper Gate - Privacy
 
 How To Contact Us
 
@@ -52,5 +52,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies,  
-please call us at ++49 40 82242266 or send us an [e-mail](mailto:info@wallpapergate.com).
+Should you have other questions or concerns about these privacy policies, please send us an [e-mail](mailto:info@wallpapergate.com).
