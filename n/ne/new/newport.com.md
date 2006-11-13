@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the newport.com privacy policy that was archived on 2006-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060317001703id_/http%3A//www.newport.com/store/help.aspx%3Fid%3D215%26lang%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newport.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113063833id_/http%3A//newport.com/store/help.aspx%3Fid%3D215%26lang%3D1033) for the most accurate reproduction.*
 
 # Newport Online Store | Help
+
+PRIVACY POLICY / INFORMATION SUBMITTED AND COLLECTED / USE OF INFORMATION
 
 It's important to Newport Corporation to help our customers and visitors to our web site retain their privacy when they take advantage of all the Internet has to offer.
 
