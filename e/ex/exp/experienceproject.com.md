@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experienceproject.com privacy policy that was archived on 2006-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060527173123id_/http%3A//experienceproject.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experienceproject.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113063233id_/http%3A//www.experienceproject.com/privacy.php) for the most accurate reproduction.*
 
 # The Experience Project : Privacy Policy
 
@@ -46,7 +46,7 @@ The Experience Project only shares personal information with other companies or 
 
   * We have your consent. We require opt-in consent for the sharing of any sensitive personal information. 
   * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. 
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms of Service](https://web.archive.org/web/20060527173123id_/http%3A//experienceproject.com/terms.php), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of The Experience Project, its users or the public as required or permitted by law. 
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms of Service](http://www.experienceproject.com/terms.php), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of The Experience Project, its users or the public as required or permitted by law. 
 
 
 
