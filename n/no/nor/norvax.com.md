@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norvax.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621180900id_/http%3A//norvax.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norvax.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113174510id_/http%3A//norvax.com/privacy.html) for the most accurate reproduction.*
 
 # Norvax - Privacy Policy
 
