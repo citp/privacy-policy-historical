@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printplanet.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615110322id_/http%3A//printplanet.com/docs.asp%3Ftitle%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printplanet.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113223613id_/http%3A//printplanet.com/docs.asp%3Ftitle%3Dprivacy_policy) for the most accurate reproduction.*
 
 # PrintPlanet.com | Learn - Teach - Debate : on the forefront of prepress, print production, post press, personalization printing, print buyer, consulting
 
