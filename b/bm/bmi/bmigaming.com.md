@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113014433id_/http%3A//www.bmigaming.com/privacy.htm) for the most accurate reproduction.*
 
 # Website Privacy Policy Page | From BMI Gaming: 1-800-PINBALL
 
@@ -101,21 +101,6 @@
 
 **
 
-[ ](http://www.bmigaming.com/mastergameselect.htm)
+[](http://www.bmigaming.com/mastergameselect.htm)
 
-| 
-
-**Signup below** to be notified via ** **about **upcoming sales, new products** & more !  
-  
----  
-****** **  
-  
-**
-
-* * *
-
-** National Distributors of Commercial Grade :  **  [Air Hockey](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-sports-airhockey.htm)  •  [ Foosball](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-sports-foosball.htm)  •  [Dart Machines](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-sports-darts.htm)  •  [Jukeboxes](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-jukebox.htm)  •  [Kiddy Games](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-kiddy.htm)  •  [Pinball Machines](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-pinball.htm)     
-  
-[ Photo Booths](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-arcade-photobooth.htm)  •  [Pool](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-sports-pooltables.htm)  •  [Poker Tables](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-casino.htm)  •  [ Redemption](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-arcade.htm)  •  [ Shuffleboard](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-sports-shuffleboard.htm)  •  [ Slot Machines](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-casino-slotmachines.htm)  •  [Sports Games](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-sports.htm)  •  [Vending](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-vending.htm)  •  [ Video Games](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/games-video.htm) + **  [More](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/mastergameselect.htm)**!     
-  
-Copyright © 2002-2006 ▪ BMI Gaming, Inc ▪ All Rights Reserved ▪ 1-800-PINBALL ▪  [Home](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/index.html)  |  [Search](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/search.htm)  |  [Site Map](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/sitemap.html)  |  [Contact](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/contact.htm)  |  [Privacy](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/privacy.htm)  |  [Terms Of Access](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/termsofaccess.htm)[](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/termsofaccess.htm)[](https://web.archive.org/web/20060615211203id_/http%3A//www.bmigaming.com/termsofaccess.htm)
+** [](https://web.archive.org/web/20061113014433id_/http%3A//www.bmigaming.com/termsofaccess.htm)
