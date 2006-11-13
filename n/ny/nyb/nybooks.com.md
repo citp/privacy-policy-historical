@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nybooks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615113615id_/http%3A//www.nybooks.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nybooks.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113233342id_/http%3A//www.nybooks.com/about/privacy) for the most accurate reproduction.*
 
 # The New York Review of Books: Privacy statement
 
