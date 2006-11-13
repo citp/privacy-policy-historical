@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2005-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051215160102id_/http%3A//news.netcraft.com/archives/2003/01/01/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113174946id_/http%3A//news.netcraft.com/privacy-statement) for the most accurate reproduction.*
 
 # Netcraft: Privacy Statement
 
@@ -14,7 +14,7 @@ Sometimes advertisers may use third party banner servers to display banners on o
 
   * **Cookies**
 
-Netcraft uses cookies in areas of the site requiring authentication, and as part of its banner serving system. 
+Netcraft uses cookies in areas of the site requiring authentication, and as part of its banner serving system. Cookies may also be used with some fill-in forms, to retain default values between visits. 
 
   * **Registration Forms**
 
@@ -38,8 +38,8 @@ The Toolbar collects the following information:
 
 
     * A unique identification reference is generated for each Toolbar installation. This is sent back to us when the Toolbar attempts to download updated versions of its software and is used for planning and licensing purposes. This is not sent as part of the Toolbar's normal operation when browsing the web. 
-    * Web sites (not URLs) visited when browsing the web. These are used to provide contextual reports and popularity ranking information for the site being browsed. 
-    * Secure hashes of URLs visited when browsing the web. These are used to defend against phishing sites by comparing the hash against a list of hashes of previously reported phishing URLs and blocking the page if a match is found. There is no other case in which we can determine the URL of the page you have visited from the hash which we receive. 
+    * Web sites (not URLs) visited when browsing the web. These are used to identify URLs that should be blocked within the site being visited and to provide contextual reports and popularity ranking information. 
+    * Very old versions of the toolbar also collected MD5 hashes of URLs visited. This has been discontinued in recent versions. 
     * The Toolbar does not collect any personal information except that described above. In particular, we do not collect personal information which can identify the browsing habits of individual users. 
   * **Use of Personal Information**
 
@@ -64,5 +64,4 @@ If you have any questions about this privacy statement, contact [webmaster@netcr
 
 
 
-Posted by at January 1, 2003 09:44 AM | [Subscribe](http://www.netcraft.com/cgi-bin/Survey/subscription)   
-
+Posted by at 09:44 AM UTC on Jan 1, 2003 in [About Netcraft](http://news.netcraft.com/archives/about_netcraft.html) | [Link to this article](http://news.netcraft.com/archives/2003/01/01/privacy_statement.html) | [Subscribe](http://www.netcraft.com/cgi-bin/Survey/subscription)
