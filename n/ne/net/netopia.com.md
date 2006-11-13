@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netopia.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013207id_/http%3A//netopia.com/corp/privacy_plain.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netopia.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113075542id_/http%3A//netopia.com/corp/privacy_plain.html) for the most accurate reproduction.*
 
 # Netopia - Directions to Netopia
 
