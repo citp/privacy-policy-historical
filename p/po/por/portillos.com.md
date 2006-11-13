@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portillos.com privacy policy that was archived on 2006-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060503230945id_/http%3A//www.portillos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portillos.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113094301id_/http%3A//www.portillos.com/privacy) for the most accurate reproduction.*
 
 # The Portillo Restaurant Group - Privacy Statement
 
@@ -46,7 +46,7 @@ The Portillo Restaurant Group
 2001 Spring Road, Suite 500   
 Oak Brook, IL 60523   
 (630) 954-3773   
-E-mail: [info@portillos.com](mailto:info@portillos.com)
+E-mail: [customerservice@portillos.com](mailto:customerservice@portillos.com)
 
 Your access and use of this site is subject to the above Privacy Statement and the Terms and Conditions and all applicable laws. By accessing and browsing this site, you accept, without limitation or qualification, these Terms and Conditions. The Portillo Restaurant Group may at any time revise its Privacy Statement and the Terms and Conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then current Privacy Statement and our Terms and Conditions. 
 
