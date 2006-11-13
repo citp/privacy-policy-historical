@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivateus.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615183348id_/http%3A//motivateus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivateus.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113203203id_/http%3A//motivateus.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Motivating Moments
 
@@ -79,7 +79,7 @@ Security for all personally identifiable information is extremely important to u
 
 **Motivating Moments LLC Commitment to Children's Privacy**
 
-Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act ("COPPA") and all other applicable laws. Please read our [Children's Privacy Policy](https://web.archive.org/web/20060615183348id_/http%3A//motivateus.com/child-privacy.htm).
+Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act ("COPPA") and all other applicable laws. Please read our [Children's Privacy Policy](https://web.archive.org/web/20061113203203id_/http%3A//motivateus.com/child-privacy.htm).
 
 We have Web pages designed especially for our younger users, primarily teens. While we make every effort to ensure that these Web sites are fun and age-appropriate for our younger audience, we believe that there is no substitute for proper parental supervision. Subscription to archived portion of the website for teens can be activated either on-line or off-line.
 
@@ -114,4 +114,4 @@ All Rights Reserved.
   
 **Have something you would like to share?  
 An insight that has helped you?  
-We invite you to [submit a quote](https://web.archive.org/web/20060615183348id_/http%3A//motivateus.com/form.htm).**
+We invite you to [submit a quote](https://web.archive.org/web/20061113203203id_/http%3A//motivateus.com/form.htm).**
