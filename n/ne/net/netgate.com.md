@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513131710id_/http%3A//www.netgate.com/privacy.php%3FosCsid%3D4e9710b6c0bfe3c0d953a75880648b66) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113185834id_/http%3A//www.netgate.com/privacy.php) for the most accurate reproduction.*
 
 # Netgate
 
