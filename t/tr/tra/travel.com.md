@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the travel.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618093741id_/http%3A//www.travel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113151347id_/http%3A//www.travel.com/privacy.html) for the most accurate reproduction.*
 
 # TRAVEL.com ® - About Us
 
-**Privacy Statement**  
+### **Privacy Statement**
+
+  
 
 
 TRAVEL.com does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. Currently, the only places where individual information is collected are our messaging/photo forums and when one submits their website URL to be listed at TRAVEL.com. This information is only used internally at TRAVEL.com, mainly for verification purposes and for statistical analysis to get a general idea of the background of our users. 
