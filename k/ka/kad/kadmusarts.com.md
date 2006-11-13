@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kadmusarts.com privacy policy that was archived on 2006-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060218063747id_/http%3A//kadmusarts.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kadmusarts.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113033216id_/http%3A//kadmusarts.com/information/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ KadmusArts automatically collects information about a user in two ways:
 > 
 > If you reject cookies, you may still use the Site, but you will not be able to post comments to the KadmusArts Forums or to the KadmusArts Blog. You may also have difficulty purchasing the books, music, videos and other items we recommend from the third party retailers linked to our Site.
 > 
-> **No Clear Gifs.** KadmusArts does not use [clear gifs](https://web.archive.org/web/20060218063747id_/http%3A//kadmusarts.com/information/cgifs.html), also called pixels, on the Site. However, we work with service providers that have different data collection practices. We encourage you to check the privacy policies of our service providers to learn more about their practices. 
+> **No Clear Gifs.** KadmusArts does not use [clear gifs](https://web.archive.org/web/20061113033216id_/http%3A//kadmusarts.com/information/cgifs.html), also called pixels, on the Site. However, we work with service providers that have different data collection practices. We encourage you to check the privacy policies of our service providers to learn more about their practices. 
 
 ### How Does KadmusArts Use the Information?
 
