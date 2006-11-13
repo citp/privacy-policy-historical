@@ -1,60 +1,121 @@
-> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008163253id_/http%3A//www.grohol.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113120436id_/http%3A//psychcentral.com/about/privacy.htm) for the most accurate reproduction.*
 
-# Grohol.com . Privacy statement
+# Psych Central - About: Privacy Policy
 
-The following site properties are governed by this Privacy Statement, and are online interactive services owned and managed by Liviant LLC: 
+## Psych Central Privacy Policy
 
-  * Grohol.com 
-  * PsychCentral.com 
-  * Enpsychlopedia.com 
-  * Liviant.com 
-  * Telepsych.org 
+Your privacy is important to us. This Policy applies to all of the services offered by Psych Central, its subsidiaries, and affiliated companies (collectively, Psych Central's "services"). If you have any questions about this Policy, please feel free to contact us through our website or write to us at: Chief Privacy Officer, Psych Central, PO Box 5464, Bradford MA 01835 USA.
 
-These sites currently do not collect any personally identifiable information regarding our visitors, except during the voluntary registration process for our discussion forums, or when a person emails us directly. 
+**Information we collect and how we use it**
 
-**Information Collection**   
-Liviant LLC is a private Delaware company owned exclusively by Dr. John M. Grohol. There are three ways we collect data on this Web site: 
+We offer a number of services that do not require you to register for an account or provide any personal information to us, such as accessing psychoeducational information found on Psych Central. In order to provide additional services, however, we may collect the following types of information:
 
-  * Discussion forums (Used for registration and posting only; active; voluntary) 
-  * Direct private emails to us (Used to reply to your email only; active; voluntary) 
-  * Statistical log information (Used for traffic trends analysis only; passive; involuntary) 
+  * **Information you provide** \- When you sign up for a Psych Central Account or other Psych Central service that requires registration (e.g., for our community, blogging services, etc.), we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other Psych Central services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+  * **Cookies** \- When you visit Psych Central, we send one or more cookies -- a small file containing a string of characters -- to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Psych Central features and services may not function properly if your cookies are disabled.
+  * **Server log information** \- When you use Psych Central services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+  * **User communications** \- When you send email or other communication to Psych Central, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+  * **Affiliated sites** \- We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Psych Central in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. Psych Central may sometimes may offer content that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Psych Central will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
+  * **Advertising services** – Psych Central may use its own internal ad server or a reputable third party to present or serve website advertisements. These internal or third party ad services may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. 
+  * **Links** \- Psych Central may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. 
+  * **Other sites** \- This Privacy Policy applies to websites and services that are owned and operated by Psych Central. We do not exercise control over the sites displayed as external links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
 
-All data collected and managed by Liviant LLC Web sites, as noted above, is used exclusively by Liviant LLC and is not shared with any third-party. All data except the statistical logs require active participation on your part. If you don't want to participate in our discussion forums or send us an email, we will not know anything personally-identifiable about you. Statistical log information, used only for aggregate analyses, is the only passive data method we use. As used by most Web sites online today, our Web server makes a note every time a computer accesses our server with the day, time, resource accessed, and resource referred by. We use this data to compile daily Web stats on our sites, and no personally identifiable information is available from this information. 
 
-If you fail to provide the requested information to register on our discussion forums or send us an email, you may be unable to actively participate in our forums, or receive a reply to your email. The only way to opt-out of our Web site traffic analysis is to stop visiting this Web site. 
 
-All data maintained by Liviant LLC Web sites is secured by industry-standard methods, such as requiring unique usernames and passwords, secure connections, and restricting access authorization levels to only appropriate personnel. 
+Psych Central only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
 
-**Choices and Consent**  
-You have a choice about how we use your information here. We've already told you that we only use the information you provide us for the intended purpose. We never place people on a mailing list or contact people for marketing or other purposes. We never share the information we collect on this Web site with other third-parties. But if you still want out, just email us and let us know. We'll remove all traces of your presence on our sites to the best of our abilities. 
+  * Providing our products and services to users, including the display of customized content and advertising; 
+  * Auditing, research and analysis in order to maintain, protect and improve our services;
+  * Ensuring the technical functioning of our network; and
+  * Developing new services. 
 
-**Viewing Your Account**  
-The only place you have an account with us is in our discussion forums on Grohol.com/PsychCentral.com. You are welcomed to view and edit your profile anytime by simply logging into the [discussion forums](http://forums.grohol.com/). 
 
-**Security of Your Data**  
-Hey, who wants data to be floating out in cyberspace without security? Not us, that's for sure. That's why all of our servers are located in physically-restricted collocation facilities, and are secured with strong usernames and passwords for administrative access. Databases are password-secured, and information is restricted to only authorized Liviant LLC personnel who need that information in order to perform their assigned duties and responsibilities. 
 
-**Discussion Forums**  
-During the voluntary registration process for our discussion forums, you may be asked for various identifying information, such as your name and e-mail address. **All** information gathered in this process is used exclusively for the registration process; this information is not shared with any third-party for any reason whatsoever. 
+You can find more information about how we process personal information by referring to the privacy notices for particular services.
 
-Additionally, users should be aware that when they voluntarily disclose personally identifiable information (e.g., user name, e-mail address) on the discussion forums of any Liviant LLC Web site, that information, along with any substantive information disclosed in the user's communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Liviant LLC.  **Funding & Advertising**  
-Some Liviant LLC Web sites, such as PsychCentral.com, work with third-parties that serves ads to this site. We have read and agree with the [DHN privacy policy](http://www.digitalhealthcare.com/privacy.html) (banner ads) and the [Google privacy policy](http://www.google.com/privacy.html) (text ads). We hate to tell you, but you should read them too. If you don't agree with their privacy policies, you will find a link at the end of it which allows you to quickly and easily opt out of the DHN advertising. 
+**Choices for personal information**
 
-All proceeds from monies collected from this Web site as an Amazon.com affiliate or from advertising are reinvested directly into the Web site. Any extra monies are donated to the [National Parkinson Foundation](http://www.parkinson.org/). If you would like to advertise on PsychCentral.com, please contact our advertising network partner: 
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
 
-**e-Healthcare Solutions**   
-[www.e-healthcaresolutions.com](http://www.e-healthcaresolutions.com/)   
-[sales@e-healthcaresolutions.com](mailto:sales@e-healthcaresolutions.com)   
-Phone: (908) 203-1350 
+If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent.
 
-You can also purchase text ads that will show up immediately through Google's [AdWords](http://www.google.com/adwords/) program. 
+You can decline to submit personal information to any of our services, in which case Psych Central may not be able to provide those services to you.
 
-Liviant LLC also receives fees associated with its [consulting](https://web.archive.org/consulting/) work for the behavioral healthcare industry, mainly in the areas of Internet infrastructure, architecture, information design, Web site development, and security. Liviant LLC has no additional funding sources or outside investors. 
+**Information sharing**
 
-**Affiliate Programs**  
-Some Liviant LLC Web sites may be members of affiliate programs, where the property receives a commission for each sale made from the program. No information is shared with the affiliate program, outside of the fact that the Web site referred the individual to the program. The only affiliate program currently active on PsychCentral.com is for Amazon.com, for book reviews. 
+Psych Central only shares personal information with other companies or individuals outside of Psych Central in the following limited circumstances:
 
-**Statistical Data**  
-All Liviant LLC Web sites reserve the right to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the properties. 
+  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
+  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Psych Central, its users or the public as required or permitted by law. 
 
-The foregoing policies are effective as of November 1, 1999, and were updated on March 1, 2002. Liviant LLC reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+
+
+If Psych Central becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
+
+We may share with third parties certain pieces of aggregated, non-personal information. Such information does not identify you individually.
+
+Please contact us at the address below for any additional questions about the management or use of personal data.
+
+**Information security**
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+
+We restrict access to personal information to Psych Central employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+**Data integrity**
+
+Psych Central processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+
+**Accessing and updating personal information**
+
+When you use Psych Central services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
+
+**Enforcement**
+
+Psych Central regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Psych Central's treatment of personal information by contacting us through this web site or by writing to us at: Chief Privacy Officer, Psych Central, PO Box 5464, Bradford MA 01835 USA.
+
+When we receive formal written complaints at this address, it is Psych Central's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Psych Central and an individual.
+
+**Changes to this policy**
+
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date.
+
+If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at: Chief Privacy Officer, Psych Central, PO Box 5464, Bradford MA 01835 USA.
+
+  
+
+
+### About Psych Central
+
+  * [General Information](https://web.archive.org/about/)
+  * [Press Releases](https://web.archive.org/about/press_releases/)
+  * [RSS Feeds Available](https://web.archive.org/about/rss.htm)
+  * [Investment Information](https://web.archive.org/about/investors.htm)
+  * [Advertising on Psych Central](https://web.archive.org/about/advertising.htm)
+  * [Awards We've Won](https://web.archive.org/about/awards.htm)
+
+
+
+**People**
+
+  * [John M. Grohol, Psy.D.](https://web.archive.org/about/official_bio.htm)   
+CEO & Publisher 
+  * [Staff & Contributors](https://web.archive.org/about/staff.htm)
+  * [Professional Advisory Board](https://web.archive.org/about/advisory_board.htm)
+
+
+
+**Policies**
+
+  * [Editorial Policy](https://web.archive.org/about/editorial_policy.htm)
+  * [Our Privacy Policy](https://web.archive.org/about/privacy.htm)
+  * [Link to Psych Central](https://web.archive.org/linktome.htm)
+
+  
+
+
+> Last reviewed:   
+>   On 13 Oct 2006   
+>   By John M. Grohol, Psy.D.  
+>    
+> 
