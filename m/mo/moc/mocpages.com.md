@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mocpages.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508015610id_/http%3A//www.mocpages.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mocpages.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113140254id_/http%3A//www.mocpages.com/about/privacy.php) for the most accurate reproduction.*
 
 # MOCpages.com : Privacy policy
 
@@ -12,7 +12,7 @@
 >> 
 >>   * **Information you give us:** We receive and store any information you enter on our web site or give us in any other way. Examples. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests and communicating with you. 
 >>   * **Automatic information:** We receive and store certain types of information whenever you interact with us. For example, like many web sites, we use "cookies," and we obtain certain types of information when your web browser accesses MOCpages.com. Examples. A number of companies offer utilities designed to help you visit web sites anonymously. Although we will not be able to provide you with a personalized experience at MOCpages.com if we cannot recognize you, we want you to be aware that these tools exist. 
->>   * **E-mail communications:** No one likes unsolicited e-mail. MOCpages will only send e-mail to confirm actions you take on our web site, to alert you to information about your account status, and to communicate with you about administrative issues. For example, account holders receive e-mail when a review is written on one of their creations. Another example: you can request a new password via e-mail if you've forgotten your password. If you do not want to receive e-mail or other mail from us, you can adjust your [notification preferences](https://web.archive.org/web/20060508015610id_/http%3A//www.mocpages.com/notifications_FORM.php). 
+>>   * **E-mail communications:** No one likes unsolicited e-mail. MOCpages will only send e-mail to confirm actions you take on our web site, to alert you to information about your account status, and to communicate with you about administrative issues. For example, account holders receive e-mail when a review is written on one of their creations. Another example: you can request a new password via e-mail if you've forgotten your password. If you do not want to receive e-mail or other mail from us, you can adjust your [notification preferences](https://web.archive.org/web/20061113140254id_/http%3A//www.mocpages.com/notifications_FORM.php). 
 >> 
 What about cookies? 
 >> 
@@ -36,7 +36,7 @@ Which information can I access?
 >> 
 >>   * As discussed above, you can always choose not to provide information, even though it might be needed to make an account or to take advantage of such MOCpages.com features as reviews, voting, or other features that may be released in the future. 
 >>   * You can add or update certain information on pages throughout your account. When you update information, we do not keep a copy of the prior version. 
->>   * If you do not want to receive e-mail or other mail from us, please adjust your [notification preferences](https://web.archive.org/web/20060508015610id_/http%3A//www.mocpages.com/notifications_FORM.php). (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of MOCpages.com, and it is your responsibility to review them for changes.) 
+>>   * If you do not want to receive e-mail or other mail from us, please adjust your [notification preferences](https://web.archive.org/web/20061113140254id_/http%3A//www.mocpages.com/notifications_FORM.php). (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of MOCpages.com, and it is your responsibility to review them for changes.) 
 >>   * The Help portion of the tool bar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use some important features if you do not use cookies. 
 >>   * The following are some products that offer anonymous browsing. [www.anonymizer.com](http://www.anonymizer.com/), [www.IDzap.com](http://www.idzap.com/), [www.somebody.net](http://www.somebody.net/), and [www.zeroknowledge.com](http://www.zeroknowledge.com/). We cannot vouch for the effectiveness of any of these products. 
 >>   * In addition, the Federal Trade Commission provides useful information about online privacy on its own Web site, [Site seeing on the Internet](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.html). 
@@ -69,3 +69,6 @@ Conditions of Use, Notices, and Revisions
 >  **Information you can access**
 >> 
 >> Examples of information you can access easily at MOCpages.com include personally identifiable information (including name, e-mail, password, communications preferences, and other settings); e-mail notification settings; the "Your Account" area (including your reviews, votes, and personal profile); all of the content that you have personally created (including your MOC's pages, your home page, links to images, and links to other sites.) 
+
+MOCpages is an unofficial, fan-created web service that is not sponsored by [](http://www.lego.com/).   
+©2002-2006 Sean Kenney LLC. [](https://web.archive.org/about/privacy.php) | [](https://web.archive.org/about/use.php)
