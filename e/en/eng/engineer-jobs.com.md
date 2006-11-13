@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineer-jobs.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618230417id_/http%3A//www.engineer-jobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineer-jobs.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113124434id_/http%3A//engineer-jobs.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Engineer Jobs. Careers in Engineering and Technology. Electrical Engineers. Mechanical Engineers. Chemical Engineers. Engineer-Jobs.com
 
