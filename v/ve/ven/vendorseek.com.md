@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the vendorseek.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621172107id_/http%3A//www.vendorseek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendorseek.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113234125id_/http%3A//www.vendorseek.com/privacy.asp) for the most accurate reproduction.*
 
-# VendorSeek Privacy Policy
+# VendorSeek - Receive free quotes for telemarketing services, fulfillment services and much more
 
-VendorSeek.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.VendorSeek.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+If you have questions or concerns regarding this statement, you should first contact Ken Wisnefski, Account Manager by writing to VendorSeek.com, 500 Birchfield Drive Suite 503, Mt. Laurel, NJ 08054. 
 
-If you have questions or concerns regarding this statement, you should first contact Jeff Solimando, Account Manager by writing to VendorSeek.com, 496 N. Kings Highway, Ste. 203 , Cherry Hill , New Jersey 08034 . If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
-
-## **YOUR PRIVACY IS OUR MAJOR CONCERN**. 
+### **YOUR PRIVACY IS OUR MAJOR CONCERN**. 
 
 The following policy details how we gather information, how that information is shared, and what practices VendorSeek.com implements to ensure your information is safe and protected. 
 
@@ -14,11 +12,11 @@ This privacy policy was last updated on January 12, 2005.
 
 Use of the site indicates agreement with the Privacy Policy. ****
 
-## **What information does VendorSeek.com gather?**
+### **What information does VendorSeek.com gather?**
 
 VendorSeek.com gathers information in order to bring business-to-business services to consumers, free of charge. VendorSeek.com considers business-specific information to include contact names, addresses, phone/fax numbers, e-mail/website addresses, and credit card numbers. Additionally, we create vendor profiles that may contain proprietary information. 
 
-## **Use of Information:**
+### **Use of Information:**
 
 VendorSeek.com gathers information in an attempt to introduce business-to-business vendors to consumers in order to satisfy their professional needs. 
 
@@ -90,7 +88,7 @@ Occasionally and in order to heighten your experience with VendorSeek.com, we ma
 
 We share aggregated demographic information about our user base with our customers. This information does not identify individual users. VendorSeek.com will refer business related information in leads to interested parties. VendorSeek.com never sells or releases company information to other parties unless it is directly related to a sales lead. 
 
-## **Agents:**
+### **Agents:**
 
 We use an outside credit card processing company to bill you for goods and services. This company does not retain, share, store or use personally identifiable information for any other purposes. 
 
