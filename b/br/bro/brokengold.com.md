@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokengold.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617034950id_/http%3A//www.brokengold.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokengold.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113183826id_/http%3A//brokengold.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Sell Used & Old Gold Jewelry, Online Scrap Gold & Broken Gold Trading - Broken Gold
 
@@ -10,7 +10,7 @@
 |    
 ---  
   
-[](https://web.archive.org/web/20060617034950id_/http%3A//www.brokengold.com/gold-package.php)  
+[](https://web.archive.org/web/20061113183826id_/http%3A//brokengold.com/gold-package.php)  
   
 PRIVACY POLICY 
 
