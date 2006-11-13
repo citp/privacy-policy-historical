@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the myitforum.com privacy policy that was archived on 2006-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060318205440id_/http%3A//myitforum.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitforum.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113141137id_/http%3A//myitforum.com/privacy.asp) for the most accurate reproduction.*
 
 # myITforum.com : Privacy Statement
 
-|  | Privacy Statement  
----  
-  
+|    
 myITforum.com reserves the right to change this policy at any time by notifying users through a notice posted on myITforum.com or by email, of the existence of a new privacy policy or any updates.
 
 **Registration**
@@ -23,4 +21,6 @@ You may occasionally get cookies from our advertisers. These cookies are sent fr
 
 **Removal from our Database**
 
-Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [rtrent@myitforum.com](mailto:rtrent@myitforum.com).
+Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [admin@myitforum.com](mailto:admin@myitforum.com).
+
+| 
