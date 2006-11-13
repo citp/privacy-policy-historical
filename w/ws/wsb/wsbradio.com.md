@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsbradio.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615123904id_/http%3A//wsbradio.com/common/inside/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsbradio.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113101431id_/http%3A//wsbradio.com/common/inside/privacy.html) for the most accurate reproduction.*
 
 # wsbradio.com: Inside wsbradio.com Privacy Policy
 
