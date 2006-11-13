@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proform.com privacy policy that was archived on 2006-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060311091835id_/http%3A//www.proform.com/webapp/wcs/stores/servlet/PoliciesView%3FlangId%3D-1%26storeId%3D10151%26catalogId%3D10851) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proform.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113034754id_/http%3A//www.proform.com/webapp/wcs/stores/servlet/PoliciesView%3FlangId%3D-1%26storeId%3D10151%26catalogId%3D10851) for the most accurate reproduction.*
 
 # ProForm : Policies
 
@@ -10,7 +10,9 @@
   
 [Ellipticals](https://web.archive.org/webapp/wcs/stores/servlet/Category2_-1_10151_10851_11612_Y)  
   
-[Strength](https://web.archive.org/webapp/wcs/stores/servlet/Category2_-1_10151_10851_11613_Y)  
+[Strength Training](https://web.archive.org/webapp/wcs/stores/servlet/Category2_-1_10151_10851_11613_Y)  
+  
+[Ab Machines](https://web.archive.org/webapp/wcs/stores/servlet/Category2_-1_10151_10851_17652_Y)  
   
 [Stationary Bikes](https://web.archive.org/webapp/wcs/stores/servlet/Category2_-1_10151_10851_11614_Y)  
   
@@ -21,6 +23,8 @@
 [Yoga & Pilates](https://web.archive.org/webapp/wcs/stores/servlet/Category2_-1_10151_10851_11652_Y)  
   
 [Closeouts](https://web.archive.org/webapp/wcs/stores/servlet/Category2_-1_10151_10851_11653_Y)  
+  
+[Blowout Specials](https://web.archive.org/webapp/wcs/stores/servlet/Category2_-1_10151_10851_18151_Y)  
   
 [Testimonials](https://web.archive.org/webapp/wcs/stores/servlet/TestimonialView?langId=-1&storeId=10151&catalogId=10851)  
   
