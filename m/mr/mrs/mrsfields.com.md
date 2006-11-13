@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023931id_/http%3A//www.mrsfields.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113135227id_/http%3A//www.mrsfields.com/privacy) for the most accurate reproduction.*
 
 # Mrs. Fields Privacy Policy - MrsFields.com
-
-Mrs. Fields® Gifts Inc. Online Privacy Policy
 
 We do not rent or sell your email address.
 
@@ -45,9 +43,8 @@ Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Roger Foisy  
 Mrs. Fields Gifts Inc.  
-440 West Lawndale Drive  
-Salt Lake City, Utah 84115  
-Phone: 1.800.COOKIES  
-RogerF@mrsfields.com
+1717 South 4800 West  
+Salt Lake City, Utah 84104  
+Phone: 1-800-COOKIES  
+webmaster@mrsfields.com
