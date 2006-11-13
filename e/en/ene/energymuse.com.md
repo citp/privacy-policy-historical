@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the energymuse.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616104901id_/http%3A//energymuse.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energymuse.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113074259id_/http%3A//energymuse.com/privacy.asp) for the most accurate reproduction.*
 
 # Necklaces, Bracelets, Earrings, Crystals, Gemstones, at Energy Muse Jewelry
 
-[](https://web.archive.org/web/20060616104901id_/http%3A//energymuse.com/catalog_request.asp)
+[](https://web.archive.org/web/20061113074259id_/http%3A//energymuse.com/catalog_request.asp)
 
 This privacy policy covers any personal information that EnergyMuse.com obtains from you when you use services on our site. This policy does not cover the practices of companies that EnergyMuse.com does not own or control, or the actions of people that EnergyMuse.com does not employ or manage.
 
