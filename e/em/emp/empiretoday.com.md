@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the empiretoday.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224433id_/http%3A//www.empiretoday.com/modules/privacy/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empiretoday.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113075143id_/http%3A//www.empiretoday.com/modules/privacy/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Empire Today - Carpets, Hardwood Flooring, Window Treatments
 
 This is the web site of Empire Today, LLC. Our postal address is: 
 
