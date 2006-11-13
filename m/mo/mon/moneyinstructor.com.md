@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyinstructor.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414014342id_/http%3A//www.moneyinstructor.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyinstructor.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113220042id_/http%3A//www.moneyinstructor.com/privacy.asp) for the most accurate reproduction.*
 
 # Money Instructor.com - Worksheets and Lesson Plans for Teachers
 
