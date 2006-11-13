@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030104id_/http%3A//www.evernote.com/en/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113015342id_/http%3A//www.evernote.com/en/about/privacy.php) for the most accurate reproduction.*
 
 # EverNote - Privacy Policy
 
