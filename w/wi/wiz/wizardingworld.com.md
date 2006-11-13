@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizardingworld.com privacy policy that was archived on 2006-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060319081907id_/http%3A//www.wizardingworld.com/legal/ww-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizardingworld.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113015920id_/http%3A//www.wizardingworld.com/legal/ww-privacy.html) for the most accurate reproduction.*
 
 # Wizarding World - Privacy policy
 
