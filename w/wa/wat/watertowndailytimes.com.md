@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watertowndailytimes.com privacy policy that was archived on 2006-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060405193537id_/http%3A//www.watertowndailytimes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watertowndailytimes.com privacy policy that was archived on 2006-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061113170308id_/http%3A//www.watertowndailytimes.com/privacy.php) for the most accurate reproduction.*
 
 # Watertown Daily Times: Covering Northern New York's Jefferson, Lewis, and St. Lawrence Counties
 
@@ -51,6 +51,6 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 
 |  | 
 
-LOWVILLE -- Testimony in the rape trial of Michael R. Paris, 34, Wilmington, Mass., is expected to conclude this morning with four character witnesses and closing statements. Mr. Paris was accused of raping a 30-year-old woman on Oct. 20, 2001, in the town of Croghan.
+Watertown High School group pictures will be taken at school Tuesday and Wednesday.
 
-[more »](https://web.archive.org/web/20060405193537id_/http%3A//www.watertowndailytimes.com/news_paragraphs.php)
+[more »](https://web.archive.org/web/20061113170308id_/http%3A//www.watertowndailytimes.com/news_paragraphs.php)
