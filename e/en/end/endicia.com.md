@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011827id_/http%3A//endicia.com/endicia-usa/Site/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114025535id_/http%3A//endicia.com/endicia-usa/Site/privacy.cfm) for the most accurate reproduction.*
 
 # Endicia Internet Postage - Privacy Statement
 
