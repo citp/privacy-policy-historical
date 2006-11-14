@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pscode.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627091818id_/http%3A//pscode.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pscode.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114010612id_/http%3A//pscode.com/vb/scripts/privacy.asp%3FlngWId%3D-1) for the most accurate reproduction.*
 
 # visual basic, vb, active server pages (ASP),java, javscript,c, c++, c__ , vbscript,active server pages, ASP, vbscript,SQL, database, informix, oracle, SQL Server,Perl, CGI,Delphi, PHP,Free source code for the taking. Over five million lines of programs.
 
