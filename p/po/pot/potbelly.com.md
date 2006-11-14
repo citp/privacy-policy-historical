@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619054747id_/http%3A//www.potbelly.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114051048id_/http%3A//www.potbelly.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Potbelly Privacy Policy
 
