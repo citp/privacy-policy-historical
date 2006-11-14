@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutmix.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025839id_/http%3A//www.shoutmix.com/shoutbox/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutmix.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114181250id_/http%3A//www.shoutmix.com/shoutbox/privacy) for the most accurate reproduction.*
 
 # ShoutMix - Free shoutbox hosting service.
 
