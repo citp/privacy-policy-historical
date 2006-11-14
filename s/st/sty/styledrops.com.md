@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styledrops.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614033958id_/http%3A//www.styledrops.com/interne/customers/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styledrops.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114053325id_/http%3A//www.styledrops.com/interne/customers/privacy.shtml) for the most accurate reproduction.*
 
 # Prada Gucci Fendi Tod's Hogan Designer Shoes Handbags and Apparel Made in Italy
 
