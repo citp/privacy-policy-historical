@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesstn.com privacy policy that was archived on 2006-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060517025742id_/http%3A//www.businesstn.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesstn.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114020224id_/http%3A//businesstn.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Cancellation Policy
 
