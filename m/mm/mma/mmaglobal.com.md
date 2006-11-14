@@ -1,43 +1,7 @@
-> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005925id_/http%3A//mmaglobal.com/modules/content/index.php%3Fid%3D69) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114013956id_/http%3A//mmaglobal.com/modules/content/index.php%3Fid%3D69) for the most accurate reproduction.*
 
 # MMA Global - Privacy Statement
 
-| About  
----  
-[Mission Statement](https://web.archive.org/modules/content/index.php?id=48)  
-[Board of Directors](https://web.archive.org/modules/content/index.php?id=9)  
-[Initiatives & Policy](https://web.archive.org/modules/content/index.php?id=118)  
-[MMA Worldwide Chapters](https://web.archive.org/modules/content/index.php?id=49)  
-[About the MMA](https://web.archive.org/modules/content/index.php?id=16)  
-[Join the MMA](https://web.archive.org/modules/content/index.php?id=59)  
-Info & Resources  
-[Industry Overview](https://web.archive.org/modules/content/index.php?id=51)  
-[Mobile Marketing Ecosystem](https://web.archive.org/modules/content/index.php?id=53)  
-[Articles](https://web.archive.org/modules/wfsection/index.php?category=18)  
-[Statistics/Resources](https://web.archive.org/modules/wfsection/index.php?category=25)  
-[Glossary](https://web.archive.org/modules/content/index.php?id=6)  
-[Case Studies](https://web.archive.org/modules/wfsection/index.php?category=1&submenu=case)  
-[Industry Links](https://web.archive.org/modules/content/index.php?id=55)  
-[Awards](https://web.archive.org/modules/content/index.php?id=119)  
-[Member Job Postings](https://web.archive.org/modules/wfsection/article.php?articleid=88)  
-MMA Initiatives & Policy  
-[Working Groups](https://web.archive.org/modules/content/index.php?id=3&submenu=groups)  
-[Code of Conduct](https://web.archive.org/modules/content/index.php?id=5)  
-[Best Practices](https://web.archive.org/modules/content/index.php?id=91)  
-[Standards](https://web.archive.org/modules/content/index.php?id=7)  
-Meetings & Events  
-[Event Calendar](https://web.archive.org/modules/piCal/)  
-[Mobile Marketing Forum](http://www.mobilemarketingforum.com/)  
-[Speaking Opportunities](https://web.archive.org/modules/content/index.php?id=11)  
-[Sponsorship Opportunities](https://web.archive.org/modules/content/index.php?id=12)  
-News Room  
-[Press Releases](https://web.archive.org/modules/news/index.php?storytopic=3&storynum=5&submenu=press) +  
-[MMA In The News](https://web.archive.org/modules/news/index.php?storytopic=6&storynum=5)  
-[Newsletters](https://web.archive.org/modules/news/index.php?storytopic=7&submenu=newsletter) +  
-[Logos](https://web.archive.org/modules/content/index.php?id=62)  
-Case Studies  
-[Case Studies](https://web.archive.org/modules/wfsection/index.php?category=1) +  
-  
 **Privacy**
 
 Most established ad sellers and marketers recognize this growing concern, and the realization that their brands will suffer if consumers believe their privacy is being violated. In the wireless space, consumers are even more sensitive since devices are more personal and travel with the consumer. 
@@ -85,15 +49,3 @@ To maintain compliance with MMA Privacy Guidelines, the MMA will undergo a priva
 
 **Mobile Marketing Association Contacts**  
 We can be reached via e-mail at [](mailto:mma@mmaglobal.com)[mma@mmaglobal.com](mailto:mma@mmaglobal.com) with privacy in the subject matter line. 
-
-| 
-
-[](mailto:laura.marriott@mmaglobal.com)
-
-JOIN THE MMA
-
-[](http://mmaglobal.com/modules/content/index.php?id=59)
-
-NEWSLETTER & ALERTS
-
-[](http://news.mmaglobal.com/page.cfm?name=subscribe)
