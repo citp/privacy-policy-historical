@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobissimo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615193129id_/http%3A//www.mobissimo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobissimo.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114154253id_/http%3A//www.mobissimo.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Mobissimo Travel | Privacy policy
 
-Thank you for visiting this Internet web site located at www.mobissimo.com ("Site"). This Privacy Policy details certain policies implemented throughout Mobissimo governing Mobissimo's use of personally identifiable information provided to Mobissimo via this Site. 
+Thank you for visiting this Internet web site located at www.mobissimo.com ("Site"). This Privacy Policy details certain policies implemented throughout Mobissimo governing Mobissimo's use of personally identifiable information provided to Mobissimo via this Site, as well as other information collected via this Site. 
 
   
   
@@ -14,7 +14,9 @@ You can generally visit our Site without revealing any personally identifiable i
   
 **Cookies**  
   
-We may use small text files called cookies to improve overall Site experience. Additionally, our search partners may use cookies during your visits to their External Web Sites (defined below) and their use of cookies may be subject to their own privacy policies. Mobissimo's search partners do not have access to Mobissimo's cookies. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies generally do not permit us to personally identify you. 
+We may use small text files called cookies to improve overall Site experience. A cookie is a piece of data stored on the user's hard drive containing information about the user. Cookies generally do not permit us to personally identify you. Additionally, our search partners may use cookies during your visits to their External Web Sites (defined below) and their use of cookies may be subject to their own privacy policies. Mobissimo's search partners do not have access to Mobissimo's cookies.
+
+We allow advertisers and other third parties to place cookies on this Site for the purpose of tracking some of the web searches, browsing and clicks made on this Site, customizing ads to you on this Site and other web sites you visit, and/or keeping track of your response to each ad. None of these third parties are able to use this information to identify you personally. One such company is AlmondNet. If you’d like to know more about AlmondNet’s privacy practices, please click here. 
 
   
   
@@ -47,8 +49,8 @@ In accordance with the Federal Children's Online Privacy Protection Act of 1998 
 Mobissimo provides you with the ability to review, correct and delete any of the personally identifiable information that you have provided to us. If you wish to review, correct or delete any information you have provided to us, you may contact Mobissimo by [email](mailto:webmaster@mobissimo.com), by telephone at 650-577-2300 or at the following postal address:   
 Mobissimo, Inc.   
 Attention: Webmaster   
-1631 Old Middlefield Way, Suite Z   
-Mountain View, CA 94043   
+984 Folsom St.   
+San Francisco, California 94107   
 
 
   
@@ -57,9 +59,9 @@ Mountain View, CA 94043
   
 Due to the Internet's rapidly evolving nature, Mobissimo may need to update this Privacy Policy from time to time. If so, Mobissimo will post its updated Privacy Policy on our Site so users are always aware of what personally identifiable information we may collect and how we may use this information. Mobissimo encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy. 
 
-This Privacy Policy was last updated: August 1, 2004 
+This Privacy Policy was last updated: April 12, 2006
 
-This Privacy Policy is effective as of: July 1, 2004 
+This Privacy Policy is effective as of: April 12, 2006
 
   
 
