@@ -1,194 +1,119 @@
-> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217104908id_/http%3A//bankwest.com.au/newsroom/Legal_Notices/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114071644id_/http%3A//bankwest.com.au/Legal_Info/Website_Security_and_Privacy_Statement) for the most accurate reproduction.*
 
-# BankWest - Privacy Policy
+# BankWest Website Privacy Statement
 
-| 
+### Our Privacy Policy
 
-| 
+We are bound by the National Privacy Principles (Principles) of the Privacy Act 1988 (Cth). This Security and Privacy Statement outlines our Privacy Policy and disclosure statement and explains how we protect the privacy of your personal information and sets out the matters which we are required to disclose under the Principles when you use our websites. You should also read our Privacy Policy and Disclosure Statement if you intend to obtain our products.
 
-This Privacy Policy applies to the Bank of Western Australia (ABN 22 050 494 454) ("BankWest") Australian Financial Services Licence Number 236872 and may also apply to a related body corporate of BankWest but only if we say that this Privacy Policy applies to that related body corporate ("Relevant Related Company").
+### About This Security and Privacy Statement
 
-The terms "we", "us" or "our" means BankWest or a Relevant Related Company (where applicable).
+This Security and Privacy Statement should be read with our Website Terms of Use.  We want you to be confident that you can use our websites safely - and certain that the information you share with us is protected and treated confidentially.
 
-The term "related body corporate" has the same meaning as given in the Corporations Act 2001 (Cth).
+It applies to our main website at [www.bankwest.com.au](https://web.archive.org/web/20061114071644id_/http://www.bankwest.com.au/index.aspx); which is operated by the Bank of Western Australia Ltd (ABN 22 050 494 454). It also applies to our BankWest extra Rewards website; which can be found at [bankwestextra.rewardscard.com.au](http://bankwestextra.rewardscard.com.au/), and which is operated on our behalf by Pinpoint Pty Ltd (ACN 002 693 656).
 
-We are bound by the National Privacy Principles ("Principles") of the Privacy Act, 1988 (Cth) and are committed to protecting personal information we may hold at any time in respect of any individual, in accordance with the requirements of those Principles. "Personal information" for the purposes of this Privacy Policy is information about and which identifies individuals. It includes information obtained from an individual or a third party and, for individual credit applicants and guarantors, includes anything about credit worthiness, standing, history and capacity which, under and in accordance with the Privacy Act may lawfully be exchanged. In general, we  will not use or disclose personal information collected about you otherwise than for a purpose set out in this Privacy Policy, for a purpose you would reasonably expect, a purpose required or permitted by law, or a purpose otherwise disclosed to, or authorised by, you.
+In this Security and Privacy Statement, the expressions **we** , **us** and **our** are a reference to Bank of Western Australia Limited and any related entity of the Bank of Western Australia Limited. A reference to our website is a reference to our main website or our Rewards website.
 
-We may, in connection with particular services we offer or provide to you, make other privacy disclosures to you or seek your authority to use your personal information in ways which are different from or more specific than those stated in this Privacy Policy. In the event of any inconsistency between the provisions of this Privacy Policy and those other disclosures, the other disclosures will prevail.
+It may also apply to services offered by us on other people's websites. Whenever that's the case, we'll put a note on those websites to let you know.
 
-### Personal Information Collected before 21 December 2001
+If we put such a note on another person's website, you agree to comply with this Security and Privacy Statement when accessing, viewing or using that website as if it was our website.
 
-The National Privacy Principles came into force on 21 December 2001 but some of the Principles have application to personal information collected prior to as well as after that date. This means that for personal information we hold, which was collected prior to 21 December 2001, we will, in accordance with those particular Principles:  
+Finally, in addition to this Security and Privacy Statement, there may be some specific security and privacy obligations that apply to us or to you for parts of our websites. We will notify you of these on those parts of our websites to which they apply. You must read such notices and you acknowledge and agree that those obligations apply in the same manner as this Security and Privacy Statement. If there is any inconsistency between what is said in this Security and Privacy statement and those notices, the obligations in the notice apply.
 
+### Security of Information
 
-  * take reasonable steps to ensure that such information, if used, is accurate, complete and up-to-date; 
+We take great care to preserve the security of cookie and personal information. If your browser is set up correctly, it should tell you whether the information you are sending us is secure (encrypted) or not (unencrypted). If it's secure, we currently use 128 bit SSL encryption.
 
-  * take reasonable steps to protect it from misuse, loss or unauthorised access, use or disclosure; 
+Although we regularly review developments in security and encryption, we do not guarantee that data and information transmitted over the Internet is totally secure. Therefore, when you send us information, you do so at your own risk. Once we've received it, we'll take reasonable steps to keep it secure while it's in our own systems.
 
-  * provide you with access to the information if we still use it; 
+### Information Collected
 
-  * not use any government identifier to identify you; and 
-
-  * only transfer such information overseas with your consent or as authorised by the Principles. 
-
-
-
-
-Except in so far as this Privacy Policy further addresses the particular Principles reflected in those five matters, the remainder of this document is concerned with personal information which is collected on or after 21 December 2001.
-
-### Collection of Personal Information
-
-We will not ordinarily collect any information about you except where you provide it to us or it is provided to us with your authority. 
-
-The types of personal information we collect generally includes your name, address, telephone number, email address, tax file number, date of birth, employment and income details and other financial details including credit history.
-
-In certain circumstances, we may also collect personal information about you which is sensitive. Sensitive information includes information about your health, religious or philosophical beliefs, membership of professional or trade associations or a criminal record. Unless the collection of sensitive information is required or permitted by or under law, we will obtain your consent to its collection. If the sensitive information relates directly to your ability to meet a financial obligation to us, you consent to our collection of it.  
-We will collect personal information directly from you when you open an account with us, complete an application form for one of our products or services, deal with us over the telephone or in person, send us a letter or visit our website. We may, for purposes of security, training, or information or transaction verification, listen to and/or record telephone calls to which you are a party with us.
-
-On occasions, we may need to collect personal information about you from third parties, such as credit reporting agencies, our business alliance partners, your agents or third party brokers. If your consent to this collection is required by law, we will first obtain your consent prior to collecting the information.
-
-We only collect personal information about you that is necessary for our functions and activities and, ordinarily, you will be told the purposes for which we collect that information when it is collected.
+We will not ordinarily collect any information about you except where you provide it to us or it is provided to us with your authority. We explain to you in this Security and Privacy Statement how we might collect information from our websites and what the information may be used for by us. We only collect personal information about you that is necessary for our functions and activities and, ordinarily, you will be told the purposes for which we collect that information when it is collected.
 
 As a general rule the collection of your personal information will be necessary for us to provide a product or service to you or to maintain our relationship with you.
 
-Additionally, the purposes for which we will generally collect and use your personal information will include:
+The information we collect about you depends on how you use our websites.
 
-  * complying with legislative and regulatory requirements; 
+If you visit an unsecured area, for example - that's to say one which doesn't require you to log on to read, browse or download information - our system will record the date and time of your visit, the pages you look at, and any information you download. We won't record any information which could identify you.  This information does not record your personal details.
 
-  * considering any application you make to us; 
+Although our websites offer you a number of interactive facilities including tools, home loan calculators, and online application forms, we will not use these facilities to capture any personal information which could identify you which you might enter while using any of them without your prior consent.
 
-  * performing our administrative operations, including accounting, risk management, record keeping, archiving, systems development and testing, credit scoring and staff training; 
+If you decide to complete an online application form, the personal information that you enter into the form will only be collected by us. If at any stage you cancel your application or log out prior to submitting it, the information you have entered up to that point will be automatically deleted.
 
-  * managing our rights and obligations in relation to external payment systems; 
+The types of personal information we collect generally from our online application forms are set out in our Privacy Policy.  In certain circumstances, we may also collect personal information about you which is sensitive. Sensitive information includes information about your health, religious or philosophical beliefs, membership of professional or trade associations or a criminal record. Unless the collection of sensitive information is required or permitted by or under law, we will obtain your consent to its collection. If the sensitive information relates directly to your ability to meet a financial obligation to us, you consent to our collection of it.
 
-  * conducting market or customer satisfaction research; 
+Our websites also contain links to the websites of other, third party providers of goods and services. If you visit such sites via any of our sites - and if those third parties collect information about you, we may get a copy of that information - or have access to it - as part of our arrangements with those third parties.
 
-  * developing, establishing and administering alliances and other arrangements (including rewards programs) with other organisations in relation to the promotion, administration and use of our respective products and services; 
+We may also share cookie information, information about your preferences or other information you have given the third party. You can't usually be identified from the shared information, but if you can, we'll ask you first before sharing it.
 
-  * developing and identifying products and services that may interest you; and  
-(unless you ask us not to) telling you about products and services. 
+You should also review the Privacy Policy and any disclosure statement which appears on a Third Party Website.
 
+### Advertising and Tracking
 
+We share personal information with our related bodies corporate.
 
+We use several advertising companies to devise and deliver our online advertising. This often involves serving banner adverts on third party websites.
 
-We also advise that each time our website is visited, we use cookies to record the date and time of access to the site and any information read or downloaded. The details recorded by the cookies are not information which identifies the user and therefore is not personal information. A cookie is a small text file placed on your computer hard drive by a web page server, which can then be accessed by our web servers. You may configure your web browser not to accept cookies, however this may mean that you are not able to make full use of our website.
+When you see one of our ads on a third party website, cookies and, in some cases, spotlight tags are sometimes used to collect information such as:
 
-### Personal Information About Third Parties
+  * the server your computer is logged onto.
+  * your browser type.
+  * the date and time of your visit.
+  * the performance of their marketing efforts.
 
-If at any time you supply us with personal information about another person (for example, a referee or a person to whom you may wish a payment to be directed), you should ensure that you are authorised to do so and you must agree to inform that person who we are, that we will use and disclose their personal information and that they may gain access to their personal information should we hold it.
 
-### Use and Disclosure of Personal Information
 
-We will not use or disclose information collected about you other than for a purpose made known to you, a purpose you would reasonably expect, a purpose required or permitted by or under any law or a purpose otherwise authorised by you. 
+  
+When you visit our website after seeing one of our ads on a third party website, information is collected on how you use our website. This might include which pages you view, and whether you start and complete an online application.
 
-You authorise us to disclose necessary information to related companies and to any agents or contractors who provide services to us in connection with the provision of products or services you have sought from us. These parties are prohibited from using your personal information except for the specific purpose for which we supply it to them.
+We also use tracking companies like Nielsen//NetRatings to collect information about how you use our websites. These companies also use cookies to collect information similar to that which is collected by advertising companies.
 
-Subject to what is permitted by law, the types of third parties we may disclose your personal information to include, where relevant:
+The tracking companies aggregate all the captured information and use it to study Internet user behaviour patterns. They don't include personal information in their studies and use the data mainly to measure advertising effectiveness and relative consumer interest in the various areas of our websites. As a general rule, no personal information is collected during this process. If, however, any information is automatically collected, the tracking companies are required under their arrangements with us, to maintain the privacy and confidentiality of that personal information.
 
-  * credit reporting agencies; 
+We may disclose the information collected, in an aggregate form only, to third parties including advertisers or potential advertisers.
 
-  * our agents, contractors, external advisers and external identification verification agencies whom we engage from time to time to carry out, or advise on, our functions and activities; 
+### Cookies
 
-  * your agents and contractors, including your finance broker, builder and settlement agent and your legal or financial adviser; 
+We use cookies to interact with your Internet browser so that we can continually improve our websites and learn how to provide you with a better and more customised service.
 
-  * your executor, administrator, trustee, guardian or attorney;  
-your referees; 
+A cookie is a small text file placed on your computer by our web page server. We can later retrieve it. Cookies are frequently used on websites and you can choose if and how they are accepted by configuring your preferences and options in your browser.
 
-  * regulatory bodies, government agencies, law enforcement bodies and courts;  
-any person or organisation who introduces you to us; 
+We use cookies for two different purposes.
 
-  * other organisations with whom we have alliances or arrangements (including rewards programs) for the purpose of promoting our respective products and services (and any agents used by us and our business partners in administering such an arrangement or alliance); 
+First of all, we allocate a cookie to each Internet browser that visits our websites. This doesn't allow us to collect personal information which would identify you, and instead, we use it to:
 
-  * anyone supplying goods or services to you in connection with a rewards program associated with the facility; 
+  * allocate a BankWest identification number to your Internet browser (but we cannot identify you from this number);
+  * determine if you have previously visited our website;
+  * identify pages you have accessed and third party websites you have visited
+  * manage security measures
 
-  * debt collecting agencies; 
 
-  * other financial institutions; 
 
-  * your franchiser (if applicable); 
+So, if you want to make full use of our websites, you'll need to set up your browser to accept cookies.
 
-  * external payment systems operators; 
+Secondly, we use cookies for security and personalisation. Bear in mind that if your browser is set up to reject all cookies you'll be unable to use the many secure services on our website that require cookies in order to allow you to participate. Those services include, for example:
 
-  * any mortgage insurer used by us and any reinsurer of any such mortgage insurer; 
+  * Online Banking
+  * Online Applications
 
-  * your and our insurers or prospective insurers and their underwriters; 
 
-  * your co-borrowers, sureties, and guarantors and co-guarantors and prospective co-borrowers,  sureties, and guarantors and co-guarantors; 
 
-  * any person considering purchasing the loan, guarantee or security, that person's advisers, persons involved in assessing the risks and funding of the purchase and, after purchase, the purchaser and any manager on an ongoing basis; 
+You may still be able to use some information-only pages if you choose not to accept cookies.
 
-  * any person to the extent necessary, in our view in order to carry out any instruction you give to the Bank;  
-(unless you tell us not to) other organisations (including our related bodies corporate) and their agents for the marketing of specific products and services. 
+### How we Handle Email
 
+We will store the content of any Email you send us. The content may be monitored by us for security issues - such as where Email abuse is suspected - and our response to you may be monitored to help us meet our quality assurance goals.
 
+### Use and Disclosure of Information
 
+We will only use or disclose personal information in accordance with our Privacy Policy or as otherwise notified to you.
 
-In some cases, we may need to transfer your personal information overseas. If we believe that the overseas third party is not subject to privacy obligations equivalent to those which apply to us we will seek your consent to transfer the information, except where the National Privacy Principles do not require us to do so.
+### Acceptance of, and Changes to our Security and Privacy Statment
 
-### Your Access to your Personal Information
+You acknowledge and accept that you use of our websites indicates your acceptance of our Terms of Use and Security and Privacy Statement.
 
-If at any time you wish to know what personal information we are holding about you, you are welcome to apply for your details by telephoning our Customer Help Centre on 13 17 18. 
+This is our current Security and Privacy Statement.  It replaces any other one which has appeared previously on our websites.  We may at any time vary the Security and Privacy Statement by publishing the changed version on the website.  By accepting our terms, you agree that we have provided you with sufficient notice of any changes and any subsequent access to, viewing or use by you of our website will constitute an acceptance of those changes.
 
-Under certain circumstances, we may not be able to tell you what personal information we hold about you. This includes where:
+### Gaining access to Information
 
-  * it would have an unreasonable impact on the privacy of other individuals; 
-
-  * the information relates to legal proceedings with you; 
-
-  * the information would reveal our commercially sensitive decision-making process; or 
-
-  * we are prevented by law from disclosing the information, or providing access would prejudice certain investigations. 
-
-
-
-
-We will charge a fee for accessing your personal information.
-
-We will take reasonable steps to ensure that your personal information is accurate, complete and up-to-date. If at any time you believe that personal information that we hold about you is inaccurate, incomplete or out of date, please advise us by telephoning our Customer Help Centre on 13 17 18 or call into any BankWest Customer Service Centre and we will take all reasonable steps to correct the information.
-
-### Security of your Personal Information
-
-We maintain strict procedures and standards and take all reasonable care to prevent unauthorised access to, and modification and disclosure of, your personal information. We will take all reasonable steps to protect your personal information from misuse and loss. 
-
-We also protect the security of your personal information when transmitted over the Internet between you and our webservers or to third parties by encrypting the data. However no data transmission over the Internet can be guaranteed as fully secure and accordingly, we cannot guarantee or warrant the security of any information you send to us using our on-line forms or products. You submit information over the Internet at your own risk.
-
-If we no longer need your information, we will destroy or de-identify it.
-
-### Direct Marketing
-
-We adhere to the Direct Marketing Code of Conduct produced by the Australian Direct Marketing Association (ADMA). 
-
-We will use your personal details, including any electronic addresses you provide to us, to provide you with information, and to tell you about products and services, including third party products and services which we consider may be of interest to you. We also provide your details to other organisations (including our related companies) but only for specific marketing purposes.
-
-If at any time you do not wish to receive further marketing information, you have the option to ask us not to send you any further information about products and services and not to disclose your information to other organisations for that purpose. You may do this by telephoning our Customer Help Centre on 13 17 18, or in the case of email marketing material, you may use an unsubscribe facility included with a commercial electronic message to withdraw your consent.
-
-### Government Identifiers
-
-We do not use your tax file number, Medicare number, pension number or any other government identifier as your account, policy or application number. We will only use and disclose these numbers for the purposes required by law.
-
-### Complaints about Breaches of Privacy
-
-If you believe that the privacy of your personal information has been compromised or is not being adequately protected, you should contact us by telephoning our Customer Help Centre on 13 17 18. We will make every effort to resolve your complaint internally.
-
-If we do not resolve your complaint to your satisfaction, you may apply to the Federal Privacy Commissioner to have your complaint investigated. For more information about how you may lodge a complaint with the Federal Privacy Commissioner, please contact the Commissioner's hotline service on 1300 363 992.
-
-### Changes to this Privacy Policy
-
-This statement sets out our Privacy Policy. It replaces any of our other Privacy Policies or website Privacy Policies to date. 
-
-Please note that this Privacy Policy may change from time to time. Our current Privacy Policy is available from our website, www.bankwest.com.au or at any BankWest Customer Service Centre or by telephoning our Customer Help Centre on 13 17 18.
-
-We encourage you to periodically review our Privacy Policy for any changes.
-
-### Our Internet Website
-
-This Privacy Policy applies to any website operated by us under the domain name www.bankwest.com.au  
-("the BankWest Website"), the website operated on our behalf by Pinpoint Pty Ltd ACN 002 693 656 under the domain name bankwestextra.rewardscard.com.au ("the Rewards Website") and any other website operated by us or on our behalf which we authorise to provide a link to this Privacy Policy. 
-
-When you use a link from the BankWest Website, or from any other website to which this Privacy Policy applies, to the websites of third parties, those websites are not subject to our privacy standards. Those third parties are responsible for informing you of their own privacy policies.
-
-If personal information about you is collected by third parties on any websites you have accessed through our website, we may also collect or have access to that information as part of our arrangement with those third parties.
-
-### Contacting Us
-
-If you have any questions regarding this Privacy Policy or would like more information about the way we manage your personal information, telephone our Customer Help Centre on 13 17 18.  | 
+We will, on request, provide you with personal information we have collected about you unless there is an exception which applies under the Principles. Unless there is an exception which applies under the Principles, you can gain access to the information we hold about you for the purpose of correcting or updating such information.  You can do so by calling us on 13 17 18.  We may recover from you the reasonable cost in supplying you with this information.  We will try and deal with your request within a reasonable time.
