@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solestruck.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618114821id_/http%3A//solestruck.com/assistance.do%3Fpage%3DPrivacySecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solestruck.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114154356id_/http%3A//www.solestruck.com/assistance.do%3Fpage%3DPrivacySecurity) for the most accurate reproduction.*
 
 # Solestruck Customer Assistance - Free Shipping on Qualified Orders and Free Returns.
 
@@ -19,13 +19,13 @@ There may be links to other websites from Solestruck.com. Solestruck does not co
 In order to protect the privacy of children on the Internet, we will not knowingly collect personally identifiable information from children under the age of 13 without the prior written consent of a parent or guardian. If we learn that a customer or registered user is actually under the age of 13, we will make every effort to delete all personal information for this person from our database, as our site is intended for adults over the age of 18.  
 **Ordering Over the Phone**
 
-If you prefer to order directly from Solestruck without using our website, you may call us toll-free at 1-800-494-1270. Our representatives are ready to take your order over the phone 24 hours a day, seven days a week.  
+If you prefer to order directly from Solestruck without using our website, you may call us toll-free at 1-800-494-1260. Our representatives are ready to take your order over the phone 24 hours a day, seven days a week.  
   
 **Solestruck Mailings**
 
 In order to keep our customers updated on our special offers, gifts, new items, and changes to our store, Solestruck may periodically send mail to registered users.  
   
-If you prefer not to receive Solestruck mailings and other communications, you may call our Customer Service department toll-free at 1-800-494-1270 and ask to be removed from our mailing list. Due to the nature of our mailing system, it may take six to eight weeks after removal from our mailing list to completely stop receiving mail.  
+If you prefer not to receive Solestruck mailings and other communications, you may call our Customer Service department toll-free at 1-800-494-1260 and ask to be removed from our mailing list. Due to the nature of our mailing system, it may take six to eight weeks after removal from our mailing list to completely stop receiving mail.  
 **Privacy Notice Changes**
 
 This notice replaces all previous disclosures we may have provided you about our information practices. We reserve the right to revise and modify this policy at any time without notice and to apply these changes in policy to information previously collected, where legally permissible. We will notify you of changes by posting the policy changes on our website. This privacy notice was last updated on May 11, 2004.  
@@ -39,6 +39,6 @@ Attention: Website Privacy
 P.O. Box 80069  
 Portland, Oregon 97280  
   
-Or call us at any time toll-free at 1-800-494-1270.  
+Or call us at any time toll-free at 1-800-494-1260.  
 The examples contained in our privacy notice are illustrations only, and are not intended to be exhaustive.  
 [ ](http://www.solestruck.com/)
