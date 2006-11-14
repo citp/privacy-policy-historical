@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalizer.com privacy policy that was archived on 2006-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060410175400id_/https%3A//www.naturalizer.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalizer.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114195234id_/http%3A//www.naturalizer.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Naturalizer Shoes
 
@@ -19,7 +19,8 @@ If you feel that we are not abiding by our posted privacy policy, you should fir
 **Naturalizer Consumer Care**   
 8300 Maryland Ave.   
 St. Louis, MO 63105   
-phone: 1-866-746-3748  
+phone from the US: **1-866-746-3748**  
+phone from Canada: **1-800-727-3036**  
 by Email, **[Click Here](http://www.naturalizeronline.com/suggestionbox.asp)**. 
 
 **Information Collection and Use:**  
