@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pwinsider.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614172144id_/http%3A//www.pwinsider.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwinsider.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114165300id_/http%3A//www.pwinsider.com/privacy.asp) for the most accurate reproduction.*
 
 # Pro Wrestling Insider - Pro Wrestling News Inside & Out
 
