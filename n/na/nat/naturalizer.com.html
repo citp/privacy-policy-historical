@@ -1,12 +1,16 @@
-<!--The following is the downloaded HTML source of the naturalizer.com privacy policy that was archived on 2006-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060410175400id_/https%3A//www.naturalizer.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the naturalizer.com privacy policy that was archived on 2006-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061114195234id_/http%3A//www.naturalizer.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Naturalizer Shoes</title>
 	<meta name="keywords" content="women's shoes, womens, boots, sandals, dress, casual, handbags, purses, footwear, wide width, narrow, Naturlaizer, size 5, size 11, Naturalizers, Naturalizeronline">
 	<meta name="Description" content="Shop Naturalizer for women's dress shoes, casual shoes, boots, sandals and handbags.">
 	
-	<link rel="stylesheet" href="/bdimages/css/naturalizer.css">
+
+	<!-- <link rel=stylesheet href="/bdimages/css/naturalizer.css">-->
+	
+    <link rel="stylesheet" href="/bdimages/css/naturalizer.css">
+    
 	<style>
 	
 		#content {
@@ -18,11 +22,55 @@
 			background-image: url(/bdimages/images/template/top-drop-shadow.jpg);
 		 	height: 14px;
 			width: 762px;
+			background-repeat: none;
 		}
 	
+	#topDrop {
+		background-repeat: no-repeat;
+		background-position: top;
+		background-color: white;
+	}
 	</style>
 <script type="text/javascript">
 <!--
+
+function getCookie(szName)
+{
+ 	var szValue =	  null;
+	if(document.cookie)	   //only if exists
+	{
+       	var arr = 		  document.cookie.split((escape(szName) + '=')); 
+       	if(2 <= arr.length)
+       	{
+           	var arr2 = 	   arr[1].split(';');
+       		szValue  = 	   unescape(arr2[0]);
+       	}
+	}
+	return szValue;
+} 
+
+function setCookie(szName, szValue, szExpires)
+{
+
+ 	var szCookieText = 	   escape(szName) + '=' + escape(szValue);
+//	szCookieText +=	 	   '; expires=' + escape(szExpires);
+	//szCookieText +=	 	   '; expires=365';
+	szCookieText += 	   '; PATH=/' ;
+	document.cookie = szCookieText;
+		
+}
+
+function SwapCurrency() {
+	if (getCookie('CurrencyType') == 'CAD') {
+		setCookie('CurrencyType', 'USD', 365);
+	} else {
+		
+		setCookie('CurrencyType', 'CAD', 365);
+	}
+	
+	// reload the page
+	window.location = window.location;
+}
 
 function newImage(arg) {
 	if (document.images) {
@@ -54,82 +102,159 @@ function preloadImages() {
 // -->
 </script></head>
 
+
 <body bgcolor="#FFFFFF" centermarginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
 
 <br>
-
+    
 <div id="wrapper">
 	<div id="mainBackground">
 		<div id="banner">
-			<table cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr>
-					<td>
-						<a href="/home.asp"><img src="/bdimages/images/template/naturalizer-logo.gif" border="0"></a></td>
-					<td>
-						<img src="/images/spacer.gif" width="387" height="1" border="0"></td>
-					<td>
-						<table cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr>
-								<td>
-									<a href="/shop_online/cart.asp"><img src="/bdimages/images/template/banner-shopping-bag.gif"></a></td>
-							</tr><tr>
-								<td>
-									<a href="/shop_online/wishlist_view.asp"><img src="/bdimages/images/template/banner-wish-list.gif"></a></td>
-							</tr><tr>
-								<td>
-									<a href="/joinlist.asp"><img src="/bdimages/images/template/banner-join-our-list.gif"></a></td>
-							</tr>
-						</tbody></table></td>
-					<td width="24">
-						<img src="/images/spacer.gif" width="24" height="1" border="0"></td>
-				</tr>
-			</tbody></table>
+			<!-- Header Include  -->
+<!--[if gte IE 6]>
+<script type="text/javascript" src="/bdimages/js/ieflash.js"></script>
+<![endif]-->
+
+<table width="762" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="headerTable">
+  <tbody><tr>
+    <td width="302" height="71" rowspan="2" align="left" valign="bottom"><img src="/bdimages/images/july06/spacer.gif" width="17" height="20"><a href="http://www.naturalizer.com"><img src="/bdimages/images/july06/logo.gif" alt="Naturalizer" width="266" height="48" border="0"></a></td>
+    <td width="460" height="35" align="right" valign="middle" class="topServiceNav"><table border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr align="right" valign="middle">
+        <td><a href="http://www.naturalizer.com"><img src="/bdimages/images/july06/top-icon-home.gif" alt="Home" width="17" height="17" border="0"></a><img src="/bdimages/images/july06/spacer.gif" width="5" height="17"></td>
+        <td><a href="http://www.naturalizer.com" class="topServiceLinks">home</a></td>
+        <td><img src="/bdimages/images/july06/spacer.gif" width="15" height="17"><a href="http://www.naturalizer.com/shop_online/cart.asp"><img src="/bdimages/images/july06/top-icon-bag.gif" alt="SHopping Bag" width="17" height="17" border="0"></a><img src="/bdimages/images/july06/spacer.gif" width="5" height="17"></td>
+        <td><a href="http://www.naturalizer.com/shop_online/cart.asp" class="topServiceLinks">shopping bag</a></td>
+        <td><img src="/bdimages/images/july06/spacer.gif" width="15" height="17"><a href="http://www.naturalizer.com/shop_online/wishlist_view.asp"><img src="/bdimages/images/july06/top-icon-wishlist.gif" alt="Wishlist" width="17" height="17" border="0"></a><img src="/bdimages/images/july06/spacer.gif" width="5" height="17"></td>
+        <td><a href="http://www.naturalizer.com/shop_online/wishlist_view.asp" class="topServiceLinks">wish list</a></td>
+        <td><img src="/bdimages/images/july06/spacer.gif" width="15" height="17"><a href="http://www.naturalizer.com/joinlist.asp"><img src="/bdimages/images/july06/top-icon-email.gif" alt="Join Email List" width="17" height="17" border="0"></a><img src="/bdimages/images/july06/spacer.gif" width="5" height="17"></td>
+        <td><a href="http://www.naturalizer.com/joinlist.asp" class="topServiceLinks">join email list</a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="36" align="right" valign="top" class="topServiceNav"><table border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <form id="frmSearch" name="frmSearch" method="get" action="/shop_online/catalog.asp"></form>
+		<td align="center" valign="middle">
+		<a href="javascript:SwapCurrency();"><img src="/bdimages/images/template/currencyUS.gif" id="currencyFlag" name="currencyFlag" border="0"></a>&nbsp;		</td>
+         <td><input name="keyword" onclick="this.value='';" type="text" class="searchBox" value="catalog # or keyword">
+          </td>
+          <td><img src="/bdimages/images/july06/spacer.gif" alt="" width="10px" height="10px">
+                <input src="/bdimages/images/july06/top-search-button.gif" type="image" alt="Search" width="65" height="18"></td>
+
+        
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+<script type="text/javascript">
+
+if (getCookie('CurrencyType') == 'CAD')
+{
+	document.getElementById("currencyFlag").src = "/bdimages/images/template/currencyCAN.gif";
+} 
+else 
+{
+	document.getElementById("currencyFlag").src = "/bdimages/images/template/currencyUS.gif";
+}
+
+</script>
+<!--End Header -->
+			
+			
 		</div>
 		<div align="right" id="topNav">
-			<table cellpadding="0" cellspacing="0" border="0" width="762">
-				<tbody><tr>
-					<td align="left">
-						<table cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr>
-								<td>
-									<a onmouseover="changeImages('tnavBoots', '/bdimages/images/template/tnav-shop-boots-over.gif'); return true;" onmouseout="changeImages('tnavBoots', '/bdimages/images/template/tnav-shop-boots.gif'); return true;" href="/shop_online/catalog.asp?class=boots"><img name="tnavBoots" id="tnavBoots" src="/bdimages/images/template/tnav-shop-boots.gif"></a></td>
-								<td>
-									<a onmouseover="changeImages('tnavCasual', '/bdimages/images/template/tnav-shop-casual-over.gif'); return true;" onmouseout="changeImages('tnavCasual', '/bdimages/images/template/tnav-shop-casual.gif'); return true;" href="/shop_online/catalog.asp?class=casual"><img name="tnavCasual" id="tnavCasual" src="/bdimages/images/template/tnav-shop-casual.gif"></a></td>
-								<td>
-									<a onmouseover="changeImages('tnavDress', '/bdimages/images/template/tnav-shop-dress-over.gif'); return true;" onmouseout="changeImages('tnavDress', '/bdimages/images/template/tnav-shop-dress.gif'); return true;" href="/shop_online/catalog.asp?class=dress"><img name="tnavDress" id="tnavDress" src="/bdimages/images/template/tnav-shop-dress.gif"></a></td>
-								<td>
-									<a onmouseover="changeImages('tnavSandals', '/bdimages/images/template/tnav-shop-sandals-over.gif'); return true;" onmouseout="changeImages('tnavSandals', '/bdimages/images/template/tnav-shop-sandals.gif'); return true;" href="/shop_online/catalog.asp?class=sandals"><img name="tnavSandals" id="tnavSandals" src="/bdimages/images/template/tnav-shop-sandals.gif"></a></td>
-								<td>	
-									<a onmouseover="changeImages('tnavHandbags', '/bdimages/images/template/tnav-shop-handbags-over.gif'); return true;" onmouseout="changeImages('tnavHandbags', '/bdimages/images/template/tnav-shop-handbags.gif'); return true;" href="/shop_online/catalog.asp?class=handbags"><img name="tnavHandbags" id="tnavHandbags" src="/bdimages/images/template/tnav-shop-handbags.gif"></a></td>
-								<td>
-									<a onmouseover="changeImages('tnavSale', '/bdimages/images/template/tnav-shop-sale-over.gif'); return true;" onmouseout="changeImages('tnavSale', '/bdimages/images/template/tnav-shop-sale.gif'); return true;" href="/shop_online/catalog.asp?OnSale=Y"><img name="tnavSale" id="tnavSale" src="/bdimages/images/template/tnav-shop-sale.gif"></a></td>
-							</tr>
-						</tbody></table></td>
-					<form name="frmSearch" method="GET" action="/shop_online/catalog.asp" target="_top"></form>
-					<td align="right" valign="top">
-						<table cellpadding="0" cellspacing="0" border="0">
-							<tbody><tr>
-								<td>
-									<input type="image" style="vertical-align: top;" src="/bdimages/images/template/tnav-search-label.gif"></td>									
-								<td>
-									<input onclick="this.value='';" style="vertical-align: top; margin-right: 3px;" value="  catalog # or keyword" type="text" id="keyword" name="keyword"></td>
-								<td>
-									<input type="image" style="vertical-align: top;" src="/bdimages/images/template/banner-go.gif"></td>
-							</tr>
-						</tbody></table></td>
-					<td width="24">
-						<img src="/images/spacer.gif" width="24" height="1" border="0"></td>
-				</tr>
-			</tbody></table>
+			<script type="text/JavaScript">
+<!--
+function mmLoadMenus() {
+  if (window.mm_menu_0627120324_0) return;
+      window.mm_menu_0627120324_0 = new Menu("root",80,20,"",11,"#BF8766","#F7E0D3","#F7E0D3","#BF8766","center","middle",3,0,500,-5,7,true,true,true,0,false,false);
+   mm_menu_0627120324_0.addMenuItem("<span&nbsp;style='cursor:default;cursor:arrow;'>NaturalSport&nbsp;&nbsp;</span>","location='/natural_sport.asp'");
+   mm_menu_0627120324_0.addMenuItem("<span&nbsp;style='cursor:default;cursor:arrow;'>MBT&nbsp;&nbsp;</span>","location='/mbt.asp'");
+   mm_menu_0627120324_0.hideOnMouseOut=true;
+   mm_menu_0627120324_0.bgColor='#F7E0D3';
+   mm_menu_0627120324_0.menuBorder=1;
+   mm_menu_0627120324_0.menuLiteBgColor='#F7E0D3';
+   mm_menu_0627120324_0.menuBorderBgColor='#F7E0D3';
+
+    window.mm_menu_0918152633_0 = new Menu("root",91,20,"",11,"#BF8766","#F7E0D3","#F7E0D3","#BF8766","center","middle",3,0,500,-5,7,true,true,true,0,true,true);
+   mm_menu_0918152633_0.addMenuItem("<span&nbsp;style='cursor:default;cursor:arrow;'>View&nbsp;All&nbsp;&nbsp;</span>","location='/shop_online/catalog.asp?class=handbags'");
+   mm_menu_0918152633_0.addMenuItem("<span&nbsp;style='cursor:default;cursor:arrow;'>Opale&nbsp;&nbsp;</span>","location='/opale.asp'");
+   mm_menu_0918152633_0.hideOnMouseOut=true;
+   mm_menu_0918152633_0.bgColor='#F7E0D3';
+   mm_menu_0918152633_0.menuBorder=1;
+   mm_menu_0918152633_0.menuLiteBgColor='#F7E0D3';
+   mm_menu_0918152633_0.menuBorderBgColor='#F7E0D3';
+
+mm_menu_0918152633_0.writeMenus();
+} // mmLoadMenus()
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script language="JavaScript" src="/bdimages/template/mm_menu.js"></script>
+
+<script language="JavaScript1.2">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(247, 224, 211); background-color: rgb(247, 224, 211); width: 84px; height: 45px;">
+  <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 43px; width: 82px; background-color: rgb(247, 224, 211);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 42px; width: 81px; background-color: rgb(247, 224, 211);">
+<div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-size: 11px; width: 80px; height: 20px; background-color: rgb(247, 224, 211); visibility: inherit;"><div id="menuItemText0" style="position:absolute;left:4px;top:3.5px;color:#BF8766;"><div id="menuItemText0Shim" style="position:absolute;top:1px;left:1px;right:-75px;text-align:center;visibility:visible;"><span&nbsp;style='cursor:default;cursor:arrow;'>NaturalSport&nbsp;&nbsp;</span&nbsp;style='cursor:default;cursor:arrow;'></div>&nbsp;</div>
+<div id="menuItemHilite0" style="position:absolute;left:4px;top:3.5px;color:#F7E0D3;visibility:hidden;"><div id="menuItemHilite0Shim" style="position: absolute; top: 1px; left: 1px; right: -75px; text-align: center; visibility: inherit;"><span&nbsp;style='cursor:default;cursor:arrow;'>NaturalSport&nbsp;&nbsp;</span&nbsp;style='cursor:default;cursor:arrow;'></div>&nbsp;</div></div><div id="menuItem1" style="position: absolute; left: 0px; top: 21px; font-size: 11px; width: 80px; height: 20px; background-color: rgb(247, 224, 211); visibility: inherit;"><div id="menuItemText1" style="position:absolute;left:4px;top:3.5px;color:#BF8766;"><div id="menuItemText1Shim" style="position:absolute;top:1px;left:1px;right:-75px;text-align:center;visibility:visible;"><span&nbsp;style='cursor:default;cursor:arrow;'>MBT&nbsp;&nbsp;</span&nbsp;style='cursor:default;cursor:arrow;'></div>&nbsp;</div>
+<div id="menuItemHilite1" style="position:absolute;left:4px;top:3.5px;color:#F7E0D3;visibility:hidden;"><div id="menuItemHilite1Shim" style="position: absolute; top: 1px; left: 1px; right: -75px; text-align: center; visibility: inherit;"><span&nbsp;style='cursor:default;cursor:arrow;'>MBT&nbsp;&nbsp;</span&nbsp;style='cursor:default;cursor:arrow;'></div>&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(247, 224, 211); background-color: rgb(247, 224, 211); width: 95px; height: 45px;">
+  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 43px; width: 93px; background-color: rgb(247, 224, 211);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 42px; width: 92px; background-color: rgb(247, 224, 211);">
+<div id="menuItem2" style="position: absolute; left: 0px; top: 0px; font-size: 11px; width: 91px; height: 20px; background-color: rgb(247, 224, 211); visibility: inherit;"><div id="menuItemText2" style="position:absolute;left:4px;top:3.5px;color:#BF8766;"><div id="menuItemText2Shim" style="position:absolute;top:1px;left:1px;right:-86px;text-align:center;visibility:visible;"><span&nbsp;style='cursor:default;cursor:arrow;'>View&nbsp;All&nbsp;&nbsp;</span&nbsp;style='cursor:default;cursor:arrow;'></div>&nbsp;</div>
+<div id="menuItemHilite2" style="position:absolute;left:4px;top:3.5px;color:#F7E0D3;visibility:hidden;"><div id="menuItemHilite2Shim" style="position: absolute; top: 1px; left: 1px; right: -86px; text-align: center; visibility: inherit;"><span&nbsp;style='cursor:default;cursor:arrow;'>View&nbsp;All&nbsp;&nbsp;</span&nbsp;style='cursor:default;cursor:arrow;'></div>&nbsp;</div></div><div id="menuItem3" style="position: absolute; left: 0px; top: 21px; font-size: 11px; width: 91px; height: 20px; background-color: rgb(247, 224, 211); visibility: inherit;"><div id="menuItemText3" style="position:absolute;left:4px;top:3.5px;color:#BF8766;"><div id="menuItemText3Shim" style="position:absolute;top:1px;left:1px;right:-86px;text-align:center;visibility:visible;"><span&nbsp;style='cursor:default;cursor:arrow;'>Opale&nbsp;&nbsp;</span&nbsp;style='cursor:default;cursor:arrow;'></div>&nbsp;</div>
+<div id="menuItemHilite3" style="position:absolute;left:4px;top:3.5px;color:#F7E0D3;visibility:hidden;"><div id="menuItemHilite3Shim" style="position: absolute; top: 1px; left: 1px; right: -86px; text-align: center; visibility: inherit;"><span&nbsp;style='cursor:default;cursor:arrow;'>Opale&nbsp;&nbsp;</span&nbsp;style='cursor:default;cursor:arrow;'></div>&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+</span>
+
+<!-- Top Navigation Include  --><table width="762" border="0" align="center" cellpadding="0" cellspacing="0" class="topTable">
+  <tbody><tr>
+    <td height="39" colspan="2" align="center" valign="bottom"><img src="/bdimages/images/july06/spacer.gif" width="17" height="39"><a href="http://www.naturalizer.com/shop_online/catalog.asp?searchsource=ADVANCED&amp;Class=%25&amp;Size=%25%25%25-%25&amp;Color=%25&amp;goButton.x=11&amp;goButton.y=7&amp;SortKey=P" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ViewAll','','/bdimages/images/july06/top-view-over.gif',1)"><img src="/bdimages/images/july06/top-view.gif" alt="View All" name="ViewAll" width="74" height="39" border="0" id="ViewAll"></a><img src="/bdimages/images/july06/spacer.gif" width="19" height="39"><a href="http://www.naturalizer.com/shop_online/catalog.asp?class=casual" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Casual','','/bdimages/images/july06/top-casual-over.gif',1)"><img src="/bdimages/images/july06/top-casual.gif" alt="Casual" name="Casual" width="60" height="39" border="0" id="Casual"></a><img src="/bdimages/images/july06/spacer.gif" width="17" height="39"><a href="http://www.naturalizer.com/shop_online/catalog.asp?class=dress" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Dress','','/bdimages/images/july06/top-dress-over.gif',1)"><img src="/bdimages/images/july06/top-dress.gif" alt="Dress" name="Dress" width="60" height="39" border="0" id="Dress"></a><img src="/bdimages/images/july06/spacer.gif" width="17" height="39"><a href="http://www.naturalizer.com/shop_online/catalog.asp?x=0&amp;y=0&amp;keyword=natural+sport" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Athletic','','/bdimages/images/july06/top-athletic-over.gif',1)"><img src="/bdimages/images/july06/top-athletic.gif" alt="Athletic" name="Athletic" width="67" height="39" border="0" id="Athletic" onmouseover="MM_showMenu(window.mm_menu_0627120324_0,-7,39,null,'Athletic')" onmouseout="MM_startTimeout();"></a><img src="/bdimages/images/july06/spacer.gif" width="18" height="39"><a href="http://www.naturalizer.com/shop_online/catalog.asp?class=handbags" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Handbags','','/bdimages/images/july06/top-handbags-over.gif',1)"><img src="/bdimages/images/july06/top-handbags.gif" alt="Handbags" name="Handbags" width="78" height="39" border="0" id="Handbags" onmouseover="MM_showMenu(window.mm_menu_0918152633_0,-7,39,null,'Handbags')" onmouseout="MM_startTimeout();"></a><img src="/bdimages/images/july06/spacer.gif" width="18" height="39"><a href="http://www.naturalizer.com/shop_online/catalog.asp?class=sandals" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Sandals','','/bdimages/images/july06/top-sandals-over.gif',1)"><img src="/bdimages/images/july06/top-sandals.gif" alt="Sandals" name="Sandals" width="63" height="39" border="0" id="Sandals"></a><img src="/bdimages/images/july06/spacer.gif" width="18" height="39"><a href="http://www.naturalizer.com/shop_online/catalog.asp?class=boots" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Boots','','/bdimages/images/july06/top-boots-over.gif',0)"><img src="/bdimages/images/july06/top-boots.gif" alt="Boots" name="Boots" width="51" height="39" border="0" id="Boots"></a><img src="/images/spacer.gif" width="17" height="39"><a href="http://www.naturalizer.com/shop_online/catalog.asp?NewArrival=Y" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('NewArrivals','','/bdimages/images/july06/top-new-over.gif',1)"><img src="/bdimages/images/july06/top-new.gif" alt="New Arrivals" name="NewArrivals" width="96" height="39" border="0" id="NewArrivals"></a><img src="/bdimages/images/july06/spacer.gif" width="17" height="39"><a href="http://www.naturalizer.com/shop_online/catalog.asp?OnSale=Y" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Sale','','/bdimages/images/july06/top-sale-over.gif',1)"><img src="/bdimages/images/july06/top-sale.gif" alt="Sale" name="Sale" width="39" height="39" border="0" id="Sale"></a><img src="/bdimages/images/july06/spacer.gif" width="16" height="39"></td>
+  </tr>
+  <tr>
+    <td height="1" colspan="2" bgcolor="#FFFFFF"><img src="/bdimages/images/july06/spacer.gif" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+
+<!-- End Top Navigation -->				
 		</div>
-		<div id="topDrop"></div>
+		
+		<table cellpadding="0" cellspacing="0" border="0" id="topDrop"><tbody><tr><td></td></tr></tbody></table>
 		<div id="content">		
 			<table id="Table_01" width="579" height="659" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td width="74" height="658" rowspan="2">&nbsp;
 	  </td>
 		<td>
-			<img src="/bdimages/images/privacy/privacy-policy.gif" width="316" height="64" alt=""></td>
+			<img src="http://a1079.g.akamai.net/7/1079/28296/NatStatic/www.naturalizer.com/bdimages/images/privacy/privacy-policy.gif" width="316" height="64" alt=""></td>
 		<td width="189" height="64" colspan="2">&nbsp;
 	  </td>
 	</tr>
@@ -148,7 +273,8 @@ function preloadImages() {
 			<p class="bodyPlusLS"><span class="bodyPlusLSsubHead"><strong>Naturalizer Consumer Care</strong></span> <br>
   8300 Maryland Ave. <br>
   St. Louis, MO 63105 <br>
-  phone: 1-866-746-3748<br>
+  phone from the US: <strong>1-866-746-3748</strong><br>
+  phone from Canada: <strong>1-800-727-3036</strong><br>
   by Email, <strong><a href="http://www.naturalizeronline.com/suggestionbox.asp" class="bodyLinks1">Click Here</a></strong>. </p>       <p></p>
 			<p class="bodyPlusLS"><span class="bodyPlusLSsubHead"><strong>Information Collection and Use:</strong></span><br>
   The naturalizer.com Web site is operated by Brown Shoe Company. Brown Shoe Company is the sole owner of the information collected on this site. This information is collected from users at several different points on the naturalizer.com Web site. This information will not be shared with, sold or rented to others i ways different from what is disclosed in this statement.</p>
@@ -192,48 +318,74 @@ function preloadImages() {
 	</tr>
 	<tr>
 		<td>
-			<img src="images/spacer.gif" width="74" height="1" alt=""></td>
+			<img src="http://a1079.g.akamai.net/7/1079/28296/NatStatic/www.naturalizer.com/images/spacer.gif" width="74" height="1" alt=""></td>
 		<td>
-			<img src="images/spacer.gif" width="316" height="1" alt=""></td>
+			<img src="http://a1079.g.akamai.net/7/1079/28296/NatStatic/www.naturalizer.com/images/spacer.gif" width="316" height="1" alt=""></td>
 		<td>
-			<img src="images/spacer.gif" width="114" height="1" alt=""></td>
+			<img src="http://a1079.g.akamai.net/7/1079/28296/NatStatic/www.naturalizer.com/images/spacer.gif" width="114" height="1" alt=""></td>
 		<td>
-			<img src="images/spacer.gif" width="75" height="1" alt=""></td>
+			<img src="http://a1079.g.akamai.net/7/1079/28296/NatStatic/www.naturalizer.com/images/spacer.gif" width="75" height="1" alt=""></td>
 	</tr>
 </tbody></table>
 
 		</div>
 	</div>
 	<div id="bottomNav">
-		<table cellpadding="0" cellspacing="0" border="0" width="762">
-			<tbody><tr>
-				<td>
-					<img src="/bdimages/images/template/bnav-shop.gif" width="65" height="45" alt="" border="0"></td>
-				<td>
-					<a onmouseover="changeImages('bnavCanada', '/bdimages/images/template/bnav-canada-over.gif'); return true;" onmouseout="changeImages('bnavCanada', '/bdimages/images/template/bnav-canada.gif'); return true;" href="/canada/"><img width="73" height="45" name="bnavCanada" id="bnavCanada" src="/bdimages/images/template/bnav-canada.gif"></a></td>
-				<td>
-					<a onmouseover="changeImages('bnavPhone', '/bdimages/images/template/bnav-phone-over.gif'); return true;" onmouseout="changeImages('bnavPhone', '/bdimages/images/template/bnav-phone.gif'); return true;" href="/shop_online/otherways.asp"><img width="88" height="45" name="bnavPhone" id="bnavPhone" src="/bdimages/images/template/bnav-phone.gif"></a></td>
-				<td>
-					<a onmouseover="changeImages('bnavStore', '/bdimages/images/template/bnav-store-over.gif'); return true;" onmouseout="changeImages('bnavStore', '/bdimages/images/template/bnav-store.gif'); return true;" href="/retail_search.asp"><img width="85" height="45" name="bnavStore" id="bnavStore" src="/bdimages/images/template/bnav-store.gif"></a></td>
-				<td width="100%">
-					<img src="/images/spacer.gif" width="77" height="45" alt="" border="0"></td>
-
-				<td>
-					<a onmouseover="changeImages('bnavPromo', '/bdimages/images/template/bnav-promo-over.gif'); return true;" onmouseout="changeImages('bnavPromo', '/bdimages/images/template/bnav-promo.gif'); return true;" href="/wishnwin.asp"><img width="157" height="45" name="bnavPromo" id="bnavPromo" src="/bdimages/images/template/bnav-promo.gif"></a></td> 
-				<td>
-					<a onmouseover="changeImages('bnavTrend', '/bdimages/images/template/bnav-trend-over.gif'); return true;" onmouseout="changeImages('bnavTrend', '/bdimages/images/template/bnav-trend.gif'); return true;" href="/fashion/trendwatch.asp"><img width="92" height="45" name="bnavTrend" id="bnavTrend" src="/bdimages/images/template/bnav-trend.gif"></a></td>
-				<td>
-					<a onmouseover="changeImages('bnavCatalog', '/bdimages/images/template/bnav-catalog-over.gif'); return true;" onmouseout="changeImages('bnavCatalog', '/bdimages/images/template/bnav-catalog.gif'); return true;" href="/requestcat.asp"><img width="125" height="45" name="bnavCatalog" id="bnavCatalog" src="/bdimages/images/template/bnav-catalog.gif"></a></td>
-			</tr>
-		</tbody></table>
+		<table width="762" border="0" align="center" cellpadding="0" cellspacing="0" class="bottomTable">
+<tbody><tr>
+<td colspan="2" bgcolor="#FFFFFF"><img src="/bdimages/images/july06/spacer.gif" width="1" height="1"></td>
+</tr>
+<tr>
+<td width="359" height="39" align="left" valign="top"><img src="/bdimages/images/july06/spacer.gif" width="10" height="10"><img src="/bdimages/images/july06/bottom-shop.gif" alt="Shop" width="55" height="39" border="0"><img src="/bdimages/images/july06/spacer.gif" width="7" height="10"><a href="http://www.naturalizer.com/canada/" onmouseover="MM_swapImage('Canada','','/bdimages/images/july06/bottom-canada-over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/bdimages/images/july06/bottom-canada.gif" alt="Canada" name="Canada" width="61" height="39" border="0" id="Canada"></a><img src="/bdimages/images/july06/spacer.gif" width="10" height="10"><a href="http://www.naturalizer.com/shop_online/otherways.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ByPhone','','/bdimages/images/july06/bottom-byphone-over.gif',1)"><img src="/bdimages/images/july06/bottom-byphone.gif" alt="By Phone" name="ByPhone" width="80" height="39" border="0" id="ByPhone"></a><img src="/bdimages/images/july06/spacer.gif" width="10" height="10"><a href="http://www.naturalizer.com/retail_search.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ByStore','','/bdimages/images/july06/bottom-bystore-over.gif',1)"><img src="/bdimages/images/july06/bottom-bystore.gif" alt="By Store" name="ByStore" width="76" height="39" border="0" id="ByStore"></a></td>
+<td width="403" height="39" align="right" valign="top"><a href="http://www.naturalizer.com/promos.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Promos','','/bdimages/images/july06/bottom-promos-over.gif',1)"><img src="/bdimages/images/july06/bottom-promos.gif" alt="Current Promotions" name="Promos" width="137" height="39" border="0" id="Promos"></a><img src="/bdimages/images/july06/spacer.gif" width="10" height="10"><a href="http://www.naturalizer.com/requestcat.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('RequestCatalog','','/bdimages/images/july06/bottom-catalog-over.gif',1)"><img src="/bdimages/images/july06/bottom-catalog.gif" alt="Request Catalog" name="RequestCatalog" width="118" height="39" border="0" id="RequestCatalog"></a><img src="/bdimages/images/july06/spacer.gif" width="10" height="10"></td>
+</tr>
+</tbody></table>
 	</div>
 	<div id="footerNavBackground">
 		<div id="footerNav">
-			<span class="footerHdr">My Account:</span><a href="/preferred/preferred_signup.asp">Sign Up</a>|<a href="/preferred/sign-in.asp">Sign In</a>|<a href="/requestcat.asp">Join Email</a>|<a href="/preferred/MyAccount.asp">Edit Account</a>|<a href="/shop_online/wishlist_view.asp">Wish List</a>|<a href="/shop_online/sharenat.asp">Refer A Friend</a><br>
-			<span class="footerHdr">Customer Service:</span><a href="/about_us.asp">About Us</a>|<a href="/suggestionbox.asp">Contact Us</a>|<a href="/shop_online/checksize.asp">Check My Size</a>|<a href="/retail_search.asp">Store Locator</a>|<a href="/shop_online/exchangepol.asp">Exchange Policy</a>|<a href="/shipping.asp">Shipping Info</a>|<a href="/PrivacyPolicy.asp">Privacy Policy</a>|<a href="/our_team/">Join Our Team</a>|<a href="/sitemap.asp">Sitemap</a>
+			<!-- Begin Footer --><table width="762" border="0" align="center" cellpadding="0" cellspacing="0" class="footerTable">
+  <tbody><tr>
+    <td width="300" align="left" valign="top" bgcolor="#FFFFFF">
+	  <div id="bottom-nav-col1">
+	  <img src="/bdimages/images/template/bottom-nav-about.gif" alt="About Naturalizer" width="153" height="16"><br>
+	  <a href="http://www.naturalizer.com/about_us.asp">About Us</a> | <a href="http://www.naturalizer.com/suggestionbox.asp">Contact Us</a> | <a href="http://www.naturalizer.com/retail_search.asp">Store Locator</a><br>
+	  <a href="http://www.naturalizer.com/PrivacyPolicy.asp">Privacy Policy</a> | <a href="http://www.naturalizer.com/our_team/">Join Our Team</a> | <a href="http://www.naturalizer.com/sitemap.asp">Sitemap</a></div>
+	</td>
+	<td width="182" align="left" valign="top" bgcolor="#ffffff">  
+	  <div id="bottom-nav-col2">
+	  <img src="/bdimages/images/template/bottom-nav-account.gif" alt="My Account" width="105" height="16"><br>
+	  <a href="https://www.naturalizer.com/preferred/preferred_signup.asp">Sign Up</a> | <a href="https://www.naturalizer.com/preferred/sign-in.asp">Sign In</a><br>
+	  <a href="http://www.naturalizer.com/requestcat.asp">Join Email</a> | <a href="https://www.naturalizer.com/preferred/MyAccount.asp">Edit Account</a></div>
+	</td>
+	<td width="280" align="left" valign="top">  
+	  <div id="bottom-nav-col3-us" style="display: block;">
+	  <img src="/bdimages/images/template/bottom-nav-service-us.gif" alt="U.S. Customer Service" width="219" height="16"><br>
+	  <a href="http://www.naturalizer.com/shipping.asp">Shipping</a> | <a href="http://www.naturalizer.com/shop_online/exchangepol.asp">Returns/Exchanges</a><br>
+	  <a href="http://www.naturalizer.com/shop_online/checksize.asp">Check My Size</a> | <a href="http://www.naturalizer.com/shop_online/wishlist_view.asp">Wish List</a> | <a href="http://www.naturalizer.com/shop_online/sharenat.asp">Refer A Friend</a> </div>
+	  <div id="bottom-nav-col3-cn" style="display: none;">
+	  <img src="/bdimages/images/template/bottom-nav-service-cn.gif" alt="U.S. Customer Service" width="219" height="16"><br>
+	  <a href="http://www.naturalizer.com/how_to_shop.asp">How to Shop Online</a> | <a href="http://www.naturalizer.com/how_to_shop.asp#ShippingCosts">Shipping</a> | <a href="http://www.naturalizer.com/how_to_shop.asp#ReturnPolicy">Returns</a><br>
+	  <a href="http://www.naturalizer.com/shop_online/checksize.asp">Check My Size</a> | <a href="http://www.naturalizer.com/shop_online/wishlist_view.asp">Wish List</a> | <a href="http://www.naturalizer.com/shop_online/sharenat.asp">Refer A Friend</a></div>
+	</td>
+  </tr>
+</tbody></table>
+
+<script language="javascript" type="text/javascript">
+<!--//
+if (getCookie('CurrencyType') == 'CAD') {
+    document.getElementById("bottom-nav-col3-cn").style.display = "block";
+    document.getElementById("bottom-nav-col3-us").style.display = "none";
+} else {
+    document.getElementById("bottom-nav-col3-us").style.display = "block";
+    document.getElementById("bottom-nav-col3-cn").style.display = "none";	
+}
+//-->
+</script> 
+<!-- End Footer -->
 		</div>
 	</div>
 </div>
+
 <br>
 <br>
 
@@ -242,7 +394,7 @@ function preloadImages() {
 <!-- SUBSITE:  -->
 <!-- URL: /privacypolicy.asp -->
 <!-- BEGIN HITBOX CODE--><!--WEBSIDESTORY CODE HBX1.3 (Universal)--><script language="javascript">var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}var hbx=_hbEvent("pv");hbx.vpc="HBX0103u";
-hbx.gn="ehg-shoes.hitbox.com";
+hbx.gn="cuc.naturalizer.com";
 hbx.mn="we74";
 hbx.epg="n";
 hbx.acct="DM550505CAAA93EN3";
@@ -281,9 +433,9 @@ hbx.hc3="-";
 hbx.hc4="-";
 hbx.hrf="";
 hbx.pec="";
-</script><script language="javascript1.1" defer="" src="HTTP://www.naturalizer.com/hitbox/hbx.js"></script><!-- END HITBOX CODE-->
+</script><script language="javascript1.1" defer="" src="HTTPS://www.naturalizer.com/hitbox/hbx.js"></script><!-- END HITBOX CODE-->
 <!-- END HITBOX INCLUDE -->
 
-<!--[STLWEB-PRD15]-->
+<!--[STLWEB06]-->
 
 </body></html>
