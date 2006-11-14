@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netlibrary.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615013442id_/http%3A//www.netlibrary.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlibrary.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114102034id_/http%3A//www.netlibrary.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # NetLibrary - Privacy Policy
 
@@ -54,11 +54,6 @@ You can review and change any of the personal information you provided by going 
 **Opt-Out Features**  
 It is important to NetLibrary that you control how we use the information you provide. 
 
-  * To tell us you don't want to receive communication from NetLibrary, such as email newsletters announcing new features, contests, or new content, opt out at registration or send an email to [privacy@NetLibrary.com](mailto:privacy@NetLibrary.com)
-  * You can decline to provide personal information to us. Please note that in some cases this will limit your interaction with NetLibrary. 
-
-
-
 **3\. Security**  
 NetLibrary uses industry-standard efforts to safeguard the confidentiality of all information, regardless of whether it identifies you or not. 
 
@@ -74,5 +69,3 @@ If you have any questions or concerns about privacy, please send email to [priva
 
 **6\. Notification of Changes**  
 If we decide to change our privacy policy we will give notice of the change so our end-users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. This notice may be given by any means, including, without limitation, by posting the changes on our web site; or by notifying end-users via email or conventional mail; or by some other reasonable means. Users always have the ability to opt-out of receiving communications from NetLibrary by editing their account or sending an email to [privacy@NetLibrary.com](mailto:privacy@NetLibrary.com). 
-
-| 
