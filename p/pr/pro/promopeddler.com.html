@@ -1,1219 +1,448 @@
-<!--The following is the downloaded HTML source of the promopeddler.com privacy policy that was archived on 2005-02-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050210145916id_/http%3A//www.promopeddler.com/Advertising/Privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the promopeddler.com privacy policy that was archived on 2006-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061114200515id_/http%3A//www.promopeddler.com/catalog/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><title>TITLE HERE</title> 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
-<meta name="description" content=" "> 
-<meta name="keywords" content=" "> 
-<meta name="rating" content="General"> 
-<meta name="distribution" content="global"> 
-<meta name="robots" content="all"><meta name="resource-type" content="document"> 
-<link rel="SHORTCUT ICON" href="/favicon.ico"> 
-<link href="/styles/style_sheet.css" rel="stylesheet" type="text/css"> 
-<!-- February 10, 2005, 8:54 am -->
-<script language="JavaScript"> 
-<!--
- var bName = navigator.appName;
- var bVer = parseInt(navigator.appVersion);
- var NS6 = (bName == "Netscape" && bVer >= 5);
- var NS4 = (bName == "Netscape" && bVer >= 4 && bVer < 5);
- var IE4 = (bName == "Microsoft Internet Explorer" && bVer >= 4);
- var NS3 = (bName == "Netscape" && bVer < 4);
- var IE3 = (bName == "Microsoft Internet Explorer" && bVer < 4);
- var intTop=62
- if (NS4) {intTop=61;}
- var intLeft=0
-// SHOW MENU
-function imgPos(imgName){
- img = getImage(imgName);
- imgLeft = getImagePageLeft(img); // LEFT POSITION
- intLeft=imgLeft
- return imgLeft;
-}
-function getImage(name) {
-  if (NS4 || NS6) {
-    return findImage(name, document);
-  }
-  if (IE4 || NS6)
-    return eval('document.all.' + name);
-  return null;
-}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Privacy Notice Promopeddler.com, Online On Time, Promotional Products</title>
+<base href="https://www.promopeddler.com/catalog/">
 
-function findImage(name, doc) {
-  var i, img;
-  for (i = 0; i < doc.images.length; i++)
-    if (doc.images[i].name == name)
-      return doc.images[i];
-  for (i = 0; i < doc.layers.length; i++)
-    if ((img = findImage(name, doc.layers[i].document)) != null) {
-      img.container = doc.layers[i];
-      return img;
-    }
-  return null;
-}
+<meta name="description" content="Promopeddler.com Privacy Notice Apparel,Automotive,Awards &amp; Recognition,Bags, Packs, &amp; Cases,Cards,Desktop &amp; Office,Business Accessories,Badges, Buttons, &amp; Pins,Beauty Products,Calendars &amp; Planners,Caps, Hats, &amp; Accessories,Clocks &amp; Watches,Computer Media &amp; Acces.,Drinkware,Corporate Gifts,Golf Accessories,Health &amp; Safety,Food &amp; Beverage,Games, Toys, &amp; Novelties,Home &amp; Housewares,Electronics &amp; Accessories,Jewelry,Magnets,Outdoor Items,Sports,Pocket &amp; Purse Items,Tools &amp; Hardware,Trade Show &amp; Conventions,Travel,Wine &amp; Spirit Accessories,Writing Instruments,Candy,Office Supplies,Holiday Items,">
+<meta name="keywords" content="Apparel,Automotive,Awards &amp; Recognition,Bags, Packs, &amp; Cases,Cards,Desktop &amp; Office,Business Accessories,Badges, Buttons, &amp; Pins,Beauty Products,Calendars &amp; Planners,Caps, Hats, &amp; Accessories,Clocks &amp; Watches,Computer Media &amp; Acces.,Drinkware,Corporate Gifts,Golf Accessories,Health &amp; Safety,Food &amp; Beverage,Games, Toys, &amp; Novelties,Home &amp; Housewares,Electronics &amp; Accessories,Jewelry,Magnets,Outdoor Items,Sports,Pocket &amp; Purse Items,Tools &amp; Hardware,Trade Show &amp; Conventions,Travel,Wine &amp; Spirit Accessories,Writing Instruments,Candy,Office Supplies,Holiday Items,Privacy Notice">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="templates/osC/stylesheet.css">
 
-function getImagePageLeft(img) {
-  var x, obj;
-  if (NS4 || NS6) {
-    if (img.container != null)
-      return img.container.pageX + img.x - 1;
-    else
-      return img.x - 1;
-  }
-  if (IE4) {
-    x = 0;
-    obj = img;
-    while (obj.offsetParent != null) {
-      x += obj.offsetLeft;
-      obj = obj.offsetParent;
-    }
-    x += obj.offsetLeft;
-    return x;
-  }
-  return -1;
-}
+<script type="text/javascript" src="/catalog/scripts/combined_scripts.js"></script>
 
-function getImagePageTop(img) {
-  var y, obj;
-  if (NS4 || NS6) {
-    if (img.container != null)
-      return img.container.pageY + img.y;
-    else
-      return img.y;
-  }
-  if (IE4) {
-    y = 0;
-    obj = img;
-    while (obj.offsetParent != null) {
-      y += obj.offsetTop;
-      obj = obj.offsetParent;
-    }
-    y += obj.offsetTop;
-    return y;
-  }
-  return -1;
-}
 
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
+<!-- Start ClickPath from Who's Calling -->
+<script language="Javascript">var PAGERESULT='888';</script>
+<script type="text/javascript" language="Javascript" src="/clickpathmedia.js"></script>
+<noscript>
+<img src="https://analyticssl.clickpathmedia.com/page_stats_v1.asp?aid=200104&js=no" width="1" height="1"></noscript>
+<!-- End ClickPath from Who's Calling -->
 
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
 </head>
-<body bgcolor="#DDDDE1" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" text="#000000">
-<!--//catalog map//-->
-<table height="1" width="100%" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td height="1" bgcolor="#666666">
-		<a href="/sitemap/cat_map.php">
-		<img src="/" width="100" height="1" border="0"></a></td>
+<body onload="breakout_of_frame()">
+<!-- warnings //-->
+<!-- warning_eof //-->
+<div id="commonTopBTS">
+<!-- BTSv1.2-final, current template: templates/osC/-->
+</div>
+<!-- header //-->
+<div align="right">
+	<strong id="pagetop">
+		Promotional Products &amp; Custom Promotion Items Imprinted!
+	</strong>
+</div>
+<div align="center">
+  <table id="header" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tbody><tr>
+      <td valign="middle" style="padding-left:7px; " width="325" rowspan="2"><table cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td valign="middle"><a href="/"><img src="images/main/logo_01.jpg" alt="Promotion Product @ Promopeddler.com" width="54" height="55" border="0"></a></td>
+            <td valign="middle"><a href="/"><img src="images/main/logo_02-r.gif" alt="Corporate Gifts @ Promopeddler.com" width="255" height="40" border="0"></a><br>
+              <span class="slogan" style="text-align:center"><b>Promotional Products Online, On Time!</b></span></td>
+          </tr>
+        </tbody></table></td>
+      <td width="100%"><table cellpadding="0" cellspacing="0" width="100%" border="0">
+          <tbody><tr>
+            <td width="40%" height="55"><img src="images/main/clear_spacer.gif" width="1" height="55" alt="spacer"></td>
+            <td width="60"><img src="images/main/phone.gif" width="51" height="51" align="middle" alt="Advertising Specialties, Call us Today!"></td>
+            <td class="headerphone">Promotion Experts Standing By:<br>
+<script language="JavaScript" type="text/javascript">DisplayPhoneText("NNN-NNN-NNNN");</script><noscript>1-800-946-3577</noscript><br><span style="font-size:smaller; ">Mon - Fri 6:00am - 5:00pm PST</span></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+	<tr>
+		<td height="22" align="right" valign="bottom">
+			<table cellpadding="0" cellspacing="0" border="0" id="tab_bar">
+				<tbody><tr>
+					<td><img src="images/main/tab_left.gif" width="16" height="22"></td>
+					<!--//tab buttons start//-->
+					<td class="tab"><a href="http://www.promopeddler.com/catalog/contact_us.php">Contact Us</a></td>
+					<td><img src="images/main/tab_seperator.gif" width="1" height="22"></td>
+					
+					<td class="tab"><a href="http://www.promopeddler.com/company/buyer_rewards.php">Buyer's Club</a></td>
+					<td><img src="images/main/tab_seperator.gif" width="1" height="22"></td>
+					
+					<td class="tab"><a href="http://www.promopeddler.com/bargains/">Bargains</a></td>
+					<td><img src="images/main/tab_seperator.gif" width="1" height="22"></td>
+					
+					<!--<td class="tab"><a href="#">My Account</a></td>
+					<td><img src="images/main/tab_seperator.gif" width="1" height="22"></td>-->
+					
+					<td class="tab"><a href="http://www.promopeddler.com/catalog/account.php">Register</a></td>
+					<td><img src="images/main/tab_seperator.gif" width="1" height="22"></td>
+					
+					<td class="tab"><a href="http://www.promopeddler.com/artwork/">Artwork</a></td>
+					<td><img src="images/main/tab_seperator.gif" width="1" height="22"></td>
+					
+					<td class="tab"><a href="http://www.promopeddler.com/artwork/decorating_types.php">Imprinting 101</a></td>
+					<td><img src="images/main/tab_seperator.gif" width="1" height="22"></td>
+					
+					<td class="tab"><a href="http://www.promopeddler.com/catalog/affiliate_info.php">Affiliates</a></td>
+					<td><img src="images/main/tab_seperator.gif" width="1" height="22"></td>
+					
+					<td class="tab"><a href="http://www.promopeddler.com/company/about_us.php">Company</a></td>
+					<!--//tab buttons end//-->
+					<td><img src="images/main/tab_right.gif" width="16" height="22"></td>
+				</tr>
+			</tbody></table></td>
 	</tr>
 </tbody></table>
-<!--//end catalog map//-->
-<script language="javascript1.1"><!--
-	js="1.1";
- //-->
-</script>
-<script language="JavaScript">
-<!--
-if (parent.frames.length > 0) 
-{
-parent.location.href = location.href;
-}
--->
-</script>
-<script language="javascript">
-<!--
-// SHOW MENU
-function shLayer(layerName){
- img = getImage("imgTabs");
- x = getImagePageLeft(img);
- y = getImagePageTop(img);
- menuTop = y + 13; // LAYER TOP POSITION
- if(layerName=='Sublay')
- {
-  menuTop = y + 77;
- }
- AboutL = x + 4 ; // 'about' LAYER LEFT POSITION
- FAQL = x + 76 ;  // 'Rat' LAYER LEFT POSITION
- jobL = x + 158 ;  // 'Job' LAYER LEFT POSITION
- SupportL = x + 269 ;  // 'Job' LAYER LEFT POSITION
- YourL = x + 288 ;  // 'Job' LAYER LEFT POSITION
-
-if (NS4 || IE4 || NS6) {
- if (timeOn != null) {
- clearTimeout(timeOn)
- hideLayer(onLayer)
- }
- if (NS4 || IE4) {
- eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="'+layerVis+'"');
- eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.top="'+menuTop+'"');
- eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.left="'+eval(layerName+'L')+'"');
- } 
- if (NS6) {
- eval(layerRef+'("'+layerName+'")'+styleSwitch+'.visibility="'+layerVis+'"');
- eval(layerRef+'("'+layerName+'")'+styleSwitch+'.top="'+menuTop+'"');
- eval(layerRef+'("'+layerName+'")'+styleSwitch+'.left="'+eval(layerName+'L')+'"');
- } 
- onLayer = layerName
- }
-}
-
- window.onerror = null;
- var menuActive = 0
- var menuOn = 0
- var onLayer
- var timeOn = null // LAYER SWITCHING CODE
-
-if (NS4 || IE4 || NS6) {
- if (navigator.appName == "Netscape" && !document.getElementById){
- layerStyleRef="layer.";
- layerRef="document.layers";
- styleSwitch="";
- layerVis="show";
- layerHid="hide";
- }
- else if (!document.all && document.getElementById) {
- layerStyleRef="layer.style.";
- layerRef="document.getElementById";
- styleSwitch=".style";
- layerVis="visible";
- layerHid="hidden";
-}
- else {
- layerStyleRef="layer.style.";
- layerRef="document.all";
- styleSwitch=".style";
- layerVis="visible";
- layerHid="hidden";
- }
-}// HIDE MENU
-function hideLayer(layerName){
- if (menuActive == 0) {
- if (NS4 || IE4) {
- eval(layerRef+'["'+layerName+'"]'+styleSwitch+'.visibility="'+layerHid+'"');
- }
- if (NS6) {
- eval(layerRef+'("'+layerName+'")'+styleSwitch+'.visibility="'+layerHid+'"');
- }
- }
-}// TIMER FOR BUTTON MOUSE OUT
-function btnTimer() {
- timeOn = setTimeout("btnOut()",1000)
-}// BUTTON MOUSE OUT
-function btnOut(layerName) {
- if (menuActive == 0) {
- hideLayer(onLayer)
- }
-}// MENU MOUSE OVER 
-function menuOver(itemName) {
- clearTimeout(timeOn)
- menuActive = 1
-}// MENU MOUSE OUT 
-function menuOut(itemName) {
- menuActive = 0 
- timeOn = setTimeout("hideLayer(onLayer)", 400)
-
- }// SET BACKGROUND COLOR 
-function setBgColor(layer, color) {
-  if (NS6){
-    eval('document.getElementById("'+layer+'").style.backgroundColor="'+color+'"');
-  }
-  else if (NS4){
-    eval('window.document.layers["'+layer+'"].document.bgColor="'+color+'"');
-	eval('window.document.layers["'+layer+'"].saveColor="'+color+'"');
-  }
-  else if (IE4){
-    eval('document.all.'+layer+'.style.backgroundColor="'+color+'"');
-  }
-}
-// -->
-</script>
-<div id="About" style="HEIGHT: 23px; POSITION: absolute; Z-INDEX: 1; visibility: hidden; left: 195px;; width: 328px"> 
-  <table width="75" border="0" cellpadding="0" cellspacing="0" class="font2">
-    <tbody><tr> 
-      <td bgcolor="#000000"> 
-        <table width="155" border="0" cellpadding="1" cellspacing="1" class="font2">
-          <tbody> 
-          <tr id="about1" bgcolor="#F3F3F3" height="20"> 
-            <td onmouseover="menuOver('rollimg2');setBgColor('about1','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('about1','#F3F3F3')">&nbsp; 
-              <a href="/Promotional_Products/Help.htm"><span class="font">Help</span></a></td>
-          </tr>
-
-	<tr id="about2" bgcolor="#F3F3F3" height="20">
-            <td onmouseover="menuOver('rollimg2');setBgColor('about2','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('about2','#F3F3F3')">&nbsp;
-	<a href="/Promotional_Products/FAQ.htm"><span class="font">FAQ</span></a></td>
-          </tr>
-
-          <tr id="about3" bgcolor="#F3F3F3" height="20">
-            <td onmouseover="menuOver('rollimg2');setBgColor('about3','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('about3','#F3F3F3')">&nbsp;
-	<a href="/Promotional_Products/Privacy.htm"><span class="font">Privacy</span></a></td>
-          </tr>
-
-          <tr id="about4" bgcolor="#F3F3F3" height="20"> 
-            <td onmouseover="menuOver('rollimg2');setBgColor('about4','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('about4','#F3F3F3')">&nbsp; 
-              <a href="/Promotional_Products/Sitemap.htm"><span class="font">Site Map</span></a></td>
-          </tr>
-          <tr id="about5" bgcolor="#F3F3F3" height="20"> 
-            <td onmouseover="menuOver('rollimg2');setBgColor('about5','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('about5','#F3F3F3')">&nbsp; 
-              <a href="/Promotional_Products/About_Us.htm"><span class="font">About 
-              Us</span></a></td>
-          </tr>
-          <tr id="about6" bgcolor="#F3F3F3" height="20"> 
-            <td onmouseover="menuOver('rollimg2');setBgColor('about6','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('about6','#F3F3F3')">&nbsp; 
-              <a href="/Promotional_Products/Contact_Us.htm"><span class="font">Contact 
-              Us</span></a></td>
-          </tr>
-          <tr id="about7" bgcolor="#F3F3F3" height="20"> 
-            <td onmouseover="menuOver('rollimg2');setBgColor('about7','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('about7','#F3F3F3')">&nbsp; 
-              <a href="http://www.bagpeddler.com" target="_blank"><span class="font">Bagpeddler.com</span></a></td>
-          </tr>
-          <tr id="about8" bgcolor="#F3F3F3" height="20">
-            <td onmouseover="menuOver('rollimg2');setBgColor('about8','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('about8','#F3F3F3')">&nbsp; 
-              <a href="/Contest.php?r=contest"><span class="font">Enter To Win $1,000!</span></a></td>
-          </tr>
-          <tr id="about9" bgcolor="#F3F3F3" height="20"> 
-
-            <td onmouseover="menuOver('rollimg2');setBgColor('about9','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('about9','#F3F3F3')">&nbsp; 
-              <a href="/Promotional_Products/Customer_Testimonials.htm"><span class="font">Customer 
-              Testimonials</span></a></td>
-
-          </tr>
-			 <tr id="about10" bgcolor="#F3F3F3" height="20"> 
-
-            <td onmouseover="menuOver('rollimg2');setBgColor('about10','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('about10','#F3F3F3')">&nbsp; 
-              <a href="/sitemap/cat_map.php"><span class="font">Catalog Map</span></a></td>
-
-          </tr>
-        </tbody></table>
-      </td>
-    </tr>
-  </tbody></table>
 </div>
-<div id="FAQ" style="HEIGHT: 23px; POSITION: absolute; Z-INDEX: 1; visibility: hidden; left: 196px;; width: 309px; top: 1px"> 
-  <table width="80" border="0" cellpadding="0" cellspacing="0" class="font2">
-    <tbody><tr> 
-      <td bgcolor="#000000"> 
-        <table width="170" border="0" cellpadding="1" cellspacing="1" class="font2">
-          <tbody> 
-          <tr id="fq2" bgcolor="#F3F3F3" height="20"> 
-            <td onmouseover="menuOver('rollimg2');setBgColor('fq2','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('fq2','#F3F3F3')">&nbsp; 
-              <a href="/Promotional_Products/Lead_Times.htm"><span class="font">Lead Times</span></a></td>
-          </tr>
-          <tr id="fq3" bgcolor="#F3F3F3" height="20"> 
-            <td onmouseover="menuOver('rollimg2');setBgColor('fq3','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('fq3','#F3F3F3')">&nbsp; 
-              <a href="/Promotional_Products/Imprint_Methods.htm"><span class="font">Imprint Methods</span></a></td>
-          </tr>
-          <tr id="fq4" bgcolor="#F3F3F3" height="20"> 
-            <td onmouseover="menuOver('rollimg2');setBgColor('fq4','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('fq4','#F3F3F3')">&nbsp; 
-              <a href="/Promotional_Products/Color_Chart.htm"><span class="font">PMS 
-              Color Chart</span></a></td>
-          </tr>
-          <tr id="fq5" bgcolor="#F3F3F3" height="20"> 
-            <td onmouseover="menuOver('rollimg2');setBgColor('fq5','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('fq5','#F3F3F3')">&nbsp; 
-              <a href="/Promotional_Products/Imprinting_Explained.htm"><span class="font">Imprinting Explained</span></a></td>
-          </tr>
-          <tr id="fq6" bgcolor="#F3F3F3" height="20"> 
-            <td onmouseover="menuOver('rollimg2');setBgColor('fq6','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('fq6','#F3F3F3')">&nbsp; 
-              <a href="/Promotional_Products/Artwork.htm"><span class="font">Artwork Requirements</span></a></td>
-          </tr>
-          <tr id="fq7" bgcolor="#F3F3F3" height="20"> 
-            <td onmouseover="menuOver('rollimg2');setBgColor('fq7','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('fq7','#F3F3F3')">&nbsp; 
-              <a href="/artwork"><span class="font">Upload your Logo/Artwork</span></a></td>
-          </tr>
-        </tbody></table>
-      </td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="job" style="HEIGHT: 23px; POSITION: absolute; Z-INDEX: 1; visibility: hidden; left: 195px;; width: 330px"> 
-  <table width="80" border="0" cellpadding="0" cellspacing="0" class="font2">
-    <tbody><tr> 
-      <td bgcolor="#000000"><table width="175" border="0" cellpadding="1" cellspacing="1" class="font2">
-          <tbody>
-            <tr id="job1" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('job1','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('job1','#F3F3F3')">&nbsp; 
-              <a href="/Vsample.php?r=vsample"><span class="font">Online Virtual Samples</span></a></td>
-            </tr>
-            <tr id="job2" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('job2','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('job2','#F3F3F3')">&nbsp; 
-              <a href="/Promotional_Products/Custom_Virtual_Samples.htm"><span class="font">Request A Custom Made <br>
-              &nbsp;&nbsp;Virtual Sample</span></a></td>
-            </tr>
-            <tr id="job3" bgcolor="#F3F3F3" height="20"> 
-             <td onmouseover="menuOver('rollimg2');setBgColor('job3','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('job3','#F3F3F3')">&nbsp; 
-              <a href="https://www.promopeddler.com/Promotional_Products/Sampleorderform.htm"><span class="font">Order Item&nbsp;Samples</span></a></td>
-            </tr>            
-        </tbody></table></td>
-    </tr>
-  </tbody></table>
-</div><div id="Support" style="HEIGHT: 215px; POSITION: absolute; Z-INDEX: 1; visibility: hidden; left: 174px;; top: 0px; width: 363px"> 
-  <table width="80" border="0" cellpadding="0" cellspacing="0" class="font2">
-<tbody><tr><td bgcolor="#000000" height="208"><table width="241" border="0" cellpadding="1" cellspacing="1" class="font2" height="203">
-<tbody><tr id="su1" bgcolor="#F3F3F3" height="20"><td onmouseover="menuOver('rollimg2');setBgColor('su1','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('su1','#F3F3F3')">&nbsp; 
-<a href="/Promotional_Products/Idea_center.htm"><span class="font">Ideas Home</span></a></td></tr>
-<tr id="su2" bgcolor="#F3F3F3" height="20"><td onmouseover="menuOver('rollimg2');setBgColor('su2','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('su2','#F3F3F3')">&nbsp; 
-<a href="/Promotional_Products/Event_Ideas.htm"><span class="font">Event Ideas</span></a></td>
-</tr><tr id="su3" bgcolor="#F3F3F3" height="20"><td onmouseover="menuOver('rollimg2');setBgColor('su3','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('su3','#F3F3F3')">&nbsp; 
-<a href="/Whats_New.php?r=whatsnew"><span class="font">What's New </span></a></td>
-</tr>
-          <tr id="su4" bgcolor="#F3F3F3" height="20"> 
-            <td onmouseover="menuOver('rollimg2');setBgColor('su4','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('su4','#F3F3F3')">&nbsp; 
-              <a href="/Promotional_Products/Promotional_Ideas.htm"><span class="font">Promotion Case Studies</span></a></td>
-          </tr>
-	 <tr id="su6" bgcolor="#F3F3F3" height="20"> 
-            <td onmouseover="menuOver('rollimg2');setBgColor('su6','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('su6','#F3F3F3')">&nbsp; 
-              <a href="/Online_Magazine.php?r=imprint"><span class="font">Online&nbsp;Magazine: Imprint Promotion </span></a></td>
-          </tr>
-
-          <tr id="su7" bgcolor="#F3F3F3" height="20"><td onmouseover="menuOver('rollimg2');setBgColor('su7','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('su7','#F3F3F3')" height="20">&nbsp;  <a href="/Online_Magazine.php?r=pcnews"><span class="font">Online Magazine: Promotion Connection</span></a>
-	<a href="#"><span class="font"></span></a></td></tr>
-
-
-          <tr id="su8" bgcolor="#F3F3F3" height="20"> 
-            <td onmouseover="menuOver('rollimg2');setBgColor('su8','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('su8','#F3F3F3')" height="20">&nbsp;  
-<a href="/Promotional_Products/Most_popular.htm"><span class="font">Promotional Items -&nbsp;Most popular</span></a></td>
-          </tr>
-        </tbody></table>
-      </td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="Your" style="HEIGHT: 23px; POSITION: absolute; Z-INDEX: 1; visibility: hidden; left: 195px;; width: 305px"> 
-  <table width="80" border="0" cellpadding="0" cellspacing="0" class="font2">
-    <tbody><tr> 
-      <td bgcolor="#000000"><table width="160" border="0" cellpadding="1" cellspacing="1" class="font2">
-          <tbody>
-            <tr id="ur1" bgcolor="#F3F3F3" height="20"> 
-              <td onmouseover="menuOver('rollimg2');setBgColor('ur1','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur1','#F3F3F3')">&nbsp; 
-              <a href="/Featured.php?r=featured"><span class="font">Seasonal 
-              picks</span></a></td>
-            </tr>
-            <tr id="ur2" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('ur2','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur2','#F3F3F3')">&nbsp; 
-              <a href="http://promopeddler.com/Printable/Screen_Printed_T_Shirts.htm"><span class="font">T 
-              Shirts</span></a></td>
-            </tr>
-			 <tr id="ur3" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('ur3','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur3','#F3F3F3')">&nbsp; 
-              <a href="http://promopeddler.com/Printable/Polo_Shirts.htm"><span class="font">Polo Shirts</span></a></td>
-            </tr>
-            <tr id="ur4" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('ur4','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur4','#F3F3F3')">&nbsp; 
-              <a href="http://promopeddler.com/Printable/Baseball_Caps.htm"><span class="font">Caps &amp; 
-              Hats</span></a></td>
-            </tr>
-			<tr id="ur5" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('ur5','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur5','#F3F3F3')">&nbsp; 
-              <a href="http://promopeddler.com/Printable/Golfing_Apparel.htm"><span class="font">Other 
-              Apparel</span></a></td>
-            </tr>
-			 <tr id="ur7" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('ur7','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur7','#F3F3F3')">&nbsp; 
-              <a href="http://promopeddler.com/Printable/Calendar_Magnets.htm"><span class="font">Magnets</span></a></td>
-            </tr>
-			<tr id="ur9" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('ur9','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur9','#F3F3F3')">&nbsp; 
-              <a href="http://promopeddler.com/Printable/Copper_Coffee_Mugs.htm"><span class="font">Mugs 
-              &amp; Cups</span></a></td>
-            </tr>
-            <tr id="ur10" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('ur10','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur10','#F3F3F3')">&nbsp; 
-              <a href="http://promopeddler.com/Printable/Wine_Glasses.htm"><span class="font">Other Glassware</span></a></td>
-            </tr>
-            <tr id="ur12" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('ur12','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur12','#F3F3F3')">&nbsp; 
-              <a href="http://promopeddler.com/Printable/Atomic_Clocks.htm"><span class="font">Desk Accessories</span></a></td>
-            </tr>
-            <tr id="ur14" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('ur14','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur14','#F3F3F3')">&nbsp; 
-              <a href="http://promopeddler.com/Printable/Business_Cases.htm"><span class="font">Padfolios &amp; Ringbinders</span></a></td>
-            </tr>
-			 <tr id="ur15" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('ur15','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur15','#F3F3F3')">&nbsp; 
-              <a href="http://promopeddler.com/Printable/Briefcase.htm"><span class="font">Briefcases</span></a></td>
-            </tr>
-            <tr id="ur16" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('ur16','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur16','#F3F3F3')">&nbsp; 
-              <a href="http://promopeddler.com/Printable/PDA_Case.htm"><span class="font">Pda Cases</span></a></td>
-            </tr>
-			<tr id="ur17" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('ur17','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur17','#F3F3F3')">&nbsp; 
-              <a href="http://promopeddler.com/Printable/Tool_Bags.htm"><span class="font">Bags &amp; totes</span></a></td>
-            </tr>
-			<tr id="ur18" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('ur18','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur18','#F3F3F3')">&nbsp; 
-              <a href="http://promopeddler.com/Printable/Laptop_Bag.htm"><span class="font">Laptop Cases</span></a></td>
-            </tr>
-            <tr id="ur19" bgcolor="#F3F3F3" height="20"> 
-              
-            <td onmouseover="menuOver('rollimg2');setBgColor('ur19','#EBEAD7')" onmouseout="menuOut('rollimg2');setBgColor('ur19','#F3F3F3')">&nbsp; 
-              <a href="http://promopeddler.com/Printable/Golf_Tees.htm"><span class="font">Golf Accessories</span></a></td>
-            </tr>
-        </tbody></table></td>
-    </tr>
-  </tbody></table>
-</div>
-<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0" class="border" background="../images/topbackimg.jpg" nowrap="">
+<table border="0" width="100%" cellspacing="0" cellpadding="1" id="breadcrumb">
   <tbody><tr>
-    <td><img src="../images/logo.jpg" alt="Promotional products" width="311" height="119"><img src="../images/topimg.jpg" alt="executive gifts" width="247" height="119"><img src="../images/topimg1.jpg" alt="Custom Items" width="220" height="119"></td>
+    <td>&nbsp;&nbsp;<a href="http://www.promopeddler.com" class="breadcrumbnav">Home</a> » <a href="http://www.promopeddler.com/catalog/index.php" class="breadcrumbnav">Catalog</a> » <a href="http://www.promopeddler.com/catalog/privacy.php" class="breadcrumbnav">Privacy Notice</a></td>
+    <td align="right">
+<a class="breadcrumbnav" href="https://www.promopeddler.com/catalog/account.php">My Account</a>&nbsp;|&nbsp;<a class="breadcrumbnav" href="http://www.promopeddler.com/catalog/shopping_cart.php">Cart Contents</a>&nbsp;|&nbsp;<a class="breadcrumbnav" href="https://www.promopeddler.com/catalog/checkout_shipping.php">Checkout</a>&nbsp;&nbsp;</td>
   </tr>
-  <tr>
-    <td>
-      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="table" align="left">
-        <tbody><tr> 
-          <td width="260" rowspan="4"><img src="../images/curve.jpg" alt="executive gifts" width="260" height="41"></td>
-          <td bgcolor="#C5C5C5"><img src="../images/spacer.gif" width="1" height="7"></td>
-        </tr>
-        <tr> 
-          <td bgcolor="7A7869"><img src="../images/spacer.gif" width="1" height="1"></td>
-        </tr>
-        <tr> 
-          <td height="24" background="../images/menbg.jpg" class="links" align="left">
-	&nbsp; &nbsp;<a class="links" href="/">Home</a>&nbsp;&nbsp;<img src="../images/dots.gif" name="imgTabs" width="6" height="4" id="imgTabs">
-	&nbsp;&nbsp;<a href="/about_us.htm" onmouseout="MM_swapImgRestore();menuOut('About')" onmouseover="shLayer('About')" class="links">About Us</a>
-	&nbsp;&nbsp;<img src="../images/dots.gif" width="6" height="4">
-	&nbsp;&nbsp;<a href="/imprinting.htm" onmouseout="MM_swapImgRestore();menuOut('FAQ')" onmouseover="MM_swapImage('Image111','','../images/promotions1.gif',1);shLayer('FAQ')" class="links">Imprinting</a>
-	&nbsp;&nbsp;<img src="../images/dots.gif" width="6" height="4">
-	&nbsp;&nbsp;<a href="/virtual_samples.htm" onmouseout="MM_swapImgRestore();menuOut(job)" onmouseover="MM_swapImage('Image81','','../images/aboutus1.gif',1);shLayer('job')" class="links">Virtual Samples</a>
-	&nbsp;&nbsp;<img src="../images/dots.gif" width="6" height="4">
-	&nbsp;&nbsp;<a href="/idea_source.htm" onmouseout="MM_swapImgRestore();menuOut(Support)" onmouseover="MM_swapImage('Image91','','../images/support1.gif',1);shLayer('Support')" class="links">Idea Source</a>
-	&nbsp;&nbsp;<img src="../images/dots.gif" width="6" height="4">
-	&nbsp;&nbsp;<a href="/specials.htm" onmouseout="MM_swapImgRestore();menuOut(Your)" onmouseover="MM_swapImage('Image101','','../images/urorder1.gif',1);shLayer('Your')" class="links">Specials</a>
-	</td>
-        </tr>
-        <tr> 
-          <td bgcolor="C4C4C4"><img src="../images/spacer.gif" width="1" height="9"></td>
-        </tr></tbody></table>
-</td></tr><tr><td valign="top" bgcolor="#FFFFFF"> <table align="left" cellpadding="0" cellspacing="0" bgcolor="#C6C3C6"> <tbody><tr> <td valign="top" width="148" height="127" bgcolor="#C6C3C6"> <img src="../images/leftimg.jpg" alt="custom items" width="148" height="127"></td> <td rowspan="2" width="100%" valign="top" bgcolor="#FFFFFF"> <img src="../images/fcurve.jpg" align="top" width="79" height="66"><center></center> <blockquote>
- <!--- content start --->
-<table width="90%" class="collapsetableborder" cellpadding="5"><tbody class="font"><tr><td bgcolor="#CCCC99" width="100%"><h2 align="center"><i><img src="../images/misc/promotional_privacy.gif" height="50"></i></h2></td></tr><tr><td align="center" height="28" width="100%"><div align="left"><b><font color="#CCCC99" size="4">&nbsp;&nbsp;<i><font size="5">Your Privacy Is Very Important To
-us!</font></i></font></b></div></td></tr><tr><td align="left" width="100%"><br><blockquote>Dear Valued
-Customer, <br><b><font size="4" color="#CCCC99">W</font></b>e understand, respect, and share your concern about
-privacy.  We want to assure you that Bagpeddler.com respects your privacy. We will absolutely not sell, rent, or
-loan any personally identifiable information regarding our valued customers to any third party. When an order is
-placed, we collect basic information including your name, home address, phone, and e-mail address. We use this
-information to confirm your order and to respond to any questions you may have. Where required, we also share
-this information with certain intermediaries (UPS, Authorize.net, Product Manufacturers) strictly to process and
-ship your order only. We fully trust these agencies, and have had several thousand trouble free transactions
-with our customers privacy kept confidential. We do not provide this information to any other parties. We do not
-acquire any more information about consumers than is required by law or is otherwise necessary to provide a high
-level of service efficiently and securely. We train all of our employees about the importance of privacy. We
-give access to information about customers only to those employees who require it to perform their jobs.
-<p></p><p><img src="http://www.bagpeddler.com/images/securekey.gif" width="126" height="60" align="left"><b><font size="4" color="#CCCC99">P</font></b>romopeddler.com has multiple security measures in
-place to protect the loss, misuse and alteration of the information that we collect. Due to constantly changing
-Internet secure transaction handling measures, we contract with OLM LLC. and Authorize.net to safely handle your
-128 Bit SSL encrypted web transactions. All orders are processed with Secure Sockets Layering 128 bit strong
-encryption technology on our OLM Safe-Order.net Secure Server using Thawte Secure Certificates. Your security is
-our top priority, we have contracted with OLM so that we are using the <u>Most</u> 100% Secure Technology
-available, our secure server is monitored 24 hours a day by firewalls and a human security specialist.
-Authorize.net, Inc., is the world's leading provider of Internet payment services and Secure electronic payment
-software. Authorize.net's Internet payment service enables merchants to accept payments Securely &amp;
-Conveniently and securely over the Internet, using their patented Transact-Secure. Encryption Technology, along
-with an Internet fraud detection service is powered by a patented neural network solution and proven profiling
-technology. This enables us provide you with the highest possible security. They will focus on what they do best
-handle your information safely, so we can focus on what we do best; providing you with the best possible bags
-buying experience! We have completed over 790,000 successful transactions using the methods listed above to
-safely handle the approval process for us, with no complaints or problems. We believe 110% in the ability of
-these companies we contract with to handle your information even more securely than we could, and with
-compliance with all of our privacy policies stated here. </p><p>&nbsp;<b><font size="4" color="#CCCC99">I</font></b>f requested, we will provide any information Only if required by law. We will make
-sure to notify you by e-mail if there ever is a compromise of these policies, or if we have been forced to share
-any information by law. </p><p>&nbsp;<b><font size="4" color="#CCCC99">I</font></b>f you have further questions
-about our privacy policy or have other comments on how we can improve your shopping experience, please do not
-hesitate to e-mail us using our contact page. Or call us Toll Free 888-466-7329. We always enjoy hearing from
-you! </p><p>&nbsp;<b><font size="4" color="#CCCC99">W</font></b>e want to assure you that your business is very
-important to us, we would never do anything to jeopardize your trust we strive very hard to earn. Your business
-is truly appreciated; thank you and we wish you the best success with your Promotional Product advertising
-campaigns!</p><p>Sincerely, </p> <p><img src="http://www.bagpeddler.com/images/signature.jpg" width="213" height="62" align="baseline"><br> Monte Baumgartner<br>President and
-Co-founder<br><br></p></blockquote></td></tr></tbody></table> 
-<!--- content end --->
-</blockquote></td></tr><tr><td rowspan="1" bgcolor="#C6C3C6" width="148" valign="top">
-<div id="talkLive">
-	<iframe src="/talklive.php" name="talkLive" width="148" marginwidth="0" height="165" marginheight="0" scrolling="No" frameborder="0" id="talkLive" allowtransparency="true"></iframe>
-</div>
+</tbody></table>
+<!-- header_eof //-->
 
-<!--- menu start  Last modified: October 12 2004 12:35:17 PM ----><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" class="table">
-<tbody><tr><td><img src="../images/leftimg1.gif" width="148" height="14"></td></tr><tr> <td height="180" class="leftbg1">
-<form method="GET" action="../Search.php">
-<input type="hidden" name="action" value="go">
-<input type="hidden" name="na" value="">
-<input type="hidden" name="py" value="n">
-<input type="hidden" name="mat" value="All">
-<input type="hidden" name="t" value="y">
-<input type="HIDDEN" name="dist" value="bagpeddler">
-<input type="hidden" name="header" value="no">
-<input type="hidden" name="footer" value="no">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Category:<br>&nbsp;&nbsp; &nbsp;
-<select name="cat" class="combo" style="width:106" font="" size="-8">
-<option value="All" selected="">All </option>
-<option value="Accessories/Findings">Acc./Findings </option>
-<option value="Acrylic Products">Acrylic Prodcts. </option>
-<option value="Air Fresheners">Air Fresheners </option>
-<option value="Airplanes-Toy">Airplanes-Toy </option>
-<option value="Alarms &amp; Protective Devices">Alarms - Custom </option>
-<option value="Albums">Albums </option>
-<option value="Antenna Accessories">Antenna Acc. </option>
-<option value="Aprons">Aprons </option>
-<option value="Arm Bands">Arm Bands </option>
-<option value="Art Services">Art Services </option>
-<option value="Ashtrays">Ashtrays - Custom </option>
-<option value="Auto Accessories">Auto Acc. Items </option>
-<option value="Auto Dash Accessories">Auto Dash Acc. </option>
-<option value="Auto Visor Accessories">Auto Visor Acc. </option>
-<option value="Auto/Travel Kits">Auto/Travel Kit </option>
-<option value="Awards">Awards - Custom </option>
-<option value="Awnings">Awnings13 </option>
-<option value="Baby Items">Baby Items &amp; Gifts </option>
-<option value="Badge Holders">Badge Holders </option>
-<option value="Badges &amp; Buttons">Badges/Buttons </option>
-<option value="Bag &amp; Box Sealers">Bag/Box Seal </option>
-<option value="Bags">Bags -Promotional</option>
-<option value="Balloon Accessories">Balloon Acc. </option>
-<option value="Balloons">Balloons </option>
-<option value="Balls">Balls - Promotional</option>
-<option value="Bandages">Bandages </option>
-<option value="Bandannas">Bandannas </option>
-<option value="Banks-Savings">Banks-Savings </option>
-<option value="Banners &amp; Pennants">Banner/Penn. </option>
-<option value="Bar Accessories">Bar Acc. </option>
-<option value="Barbecue Accessories">Barbecue Acc. </option>
-<option value="Barometers &amp; Hygrometers">Barometers </option>
-<option value="Bars">Bars - Custom</option>
-<option value="Basketball Sets">Basketball Sets </option>
-<option value="Baskets">Baskets - Gifts</option>
-<option value="Bathrobes">Bathrobes </option>
-<option value="Bathroom Accessories">Bathroom Acc. </option>
-<option value="Battery Rechargers &amp; Adapters">Battery Rechrgs. </option>
-<option value="Beauty Aids &amp; Health Products">Beauty Aids </option>
-<option value="Bells">Bells - Promotional</option>
-<option value="Belts">Belts - Custom</option>
-<option value="Beverage Holders-Insulated">Bev. Holders </option>
-<option value="Bibs">Bibs - Promotional</option>
-<option value="Bicycle Accessories">Bicycle Acc. </option>
-<option value="Binder Accessories">Binder Acc. </option>
-<option value="Binders">Binders - Custom</option>
-<option value="Binoculars">Binoculars </option>
-<option value="Blackboards">Blackboards </option>
-<option value="Blankets">Blankets </option>
-<option value="Blotters">Blotters </option>
-<option value="Boards">Boards </option>
-<option value="Book Ends">Book Ends </option>
-<option value="Bookmarks">Bookmarks </option>
-<option value="Books">Books </option>
-<option value="Bottle Holders">Bottle Holders </option>
-<option value="Bottle Stoppers">Bottle Stoppers </option>
-<option value="Caps - Bottles &amp; Cans">Bottle/Can Caps </option>
-<option value="Bottles">Bottles </option>
-<option value="Bowls">Bowls </option>
-<option value="Boxer Shorts">Boxer Shorts </option>
-<option value="Boxes">Boxes </option>
-<option value="Boxes &amp; Cases-Pencil">Boxes &amp; Cases </option>
-<option value="Briefcases">Briefcases </option>
-<option value="Brushes">Brushes </option>
-<option value="Buckets">Buckets </option>
-<option value="Buckles-Belt">Buckles-Belt </option>
-<option value="Bulletin Boards">Bulletin Boards </option>
-<option value="Bumper Stickers">Bumper Sticker </option>
-<option value="Business Card Holders">Bus. Card Holder </option>
-<option value="Business Cards">Business Cards </option>
-<option value="Calculators">Calculators </option>
-<option value="Calendar Pads">Calendar Pads </option>
-<option value="Calendars">Calendars </option>
-<option value="Cameras">Cameras </option>
-<option value="Camping Equipment &amp; Accessories">Camping Equip. </option>
-<option value="Candle Holders">Candle Holders </option>
-<option value="Candles">Candles </option>
-<option value="Candy">Candy &amp; Gifts </option>
-<option value="Candy Machines">Candy Mach. </option>
-<option value="Canisters">Canisters </option>
-<option value="Cans">Cans </option>
-<option value="Canteens">Canteens </option>
-<option value="Cap &amp; Hat Accessories">Cap &amp; Hat Acc. </option>
-<option value="Caps &amp; Hats">Caps &amp; Hats </option>
-<option value="Carafe Sets">Carafe Sets </option>
-<option value="Carafes">Carafes </option>
-<option value="Cards">Cards </option>
-<option value="Carts">Carts </option>
-<option value="Carving Sets">Carving Sets </option>
-<option value="Cases">Cases </option>
-<option value="Cassette Players">Cass.Players </option>
-<option value="Cassette Tapes">Cassette Tapes </option>
-<option value="Catalogs &amp; Catalog Sheets">Catalog/Sheet </option>
-<option value="Compact Disc Players">CD Players </option>
-<option value="Compact Disc Specialties">CD Specialties </option>
-<option value="Ceramic Spec-Custom Made">Ceramic Spec </option>
-<option value="Chairs">Chairs </option>
-<option value="Chalk">Chalk </option>
-<option value="Charts">Charts - Executive </option>
-<option value="Check Protectors">Check Covers </option>
-<option value="Cheering Accessories">Cheering Acc. </option>
-<option value="Chewing Gum">Chewing Gum </option>
-<option value="Chimes">Chimes </option>
-<option value="Chips-Poker">Chips-Poker </option>
-<option value="Christmas Decorations">Christmas Decr. </option>
-<option value="Cigar &amp; Cigarette Accessories">Cigars &amp; Acc. </option>
-<option value="Cleaners">Cleaners </option>
-<option value="Clipboards">Clipboards </option>
-<option value="Clippers">Clippers </option>
-<option value="Clips-Pen &amp; Pencil">Clips Pen/Pencil </option>
-<option value="Clips-Utility">Clips-Utility </option>
-<option value="Clocks">Clocks - Executive </option>
-<option value="Clothing">Clothing Products </option>
-<option value="Cloth Spec.-Custom Made">Clothing Custom </option>
-<option value="Clover Specialties">Clover Spec. </option>
-<option value="Coasters">Coasters </option>
-<option value="Coffee Pots">Coffee Pots </option>
-<option value="Coin Holders">Coin Holders </option>
-<option value="Coin Purses">Coin Purses </option>
-<option value="Coins, Tokens &amp; Medallions">Coins &amp; Tokens </option>
-<option value="Coloring Books">Coloring Books </option>
-<option value="Coloring Sets">Coloring Sets </option>
-<option value="Combs">Combs </option>
-<option value="Compact Discs">Compact Discs </option>
-<option value="Compacts">Compacts </option>
-<option value="Compasses">Compasses </option>
-<option value="Computer Accessories">Computer Acc. </option>
-<option value="Computer Software">Computer Soft. </option>
-<option value="Condoms">Condoms </option>
-<option value="Containers">Containers </option>
-<option value="Cookie Cutters">Cookie Cutters </option>
-<option value="Cookware">Cookware Gifts</option>
-<option value="Corkscrews">Corkscrews </option>
-<option value="Cosmetics">Cosmetics </option>
-<option value="Cots">Cots - Promotional</option>
-<option value="Coupon Keepers">Coupon Keep </option>
-<option value="Covers">Covers </option>
-<option value="Crayons">Crayons </option>
-<option value="Crystal Products">Crystal Products </option>
-<option value="Cups">Cups </option>
-<option value="Curtains, Draperies &amp; Shades">Curtain/Drape </option>
-<option value="Cushions">Cushions </option>
-<option value="Cutters">Cutters </option>
-<option value="Data Banks">Data Banks </option>
-<option value="Decals">Decals </option>
-<option value="Decanter Sets">Decanter Sets </option>
-<option value="Decanters">Decanters </option>
-<option value="Decorations">Decorations </option>
-<option value="Dental Floss">Dental Floss </option>
-<option value="Deodorizers">Deodorizers </option>
-<option value="Desk Accessories">Desk Acc. </option>
-<option value="Desk Pen Stands">Desk Pen Stand </option>
-<option value="Dials &amp; Slide Charts">Dial/Slide Chrts 
-        </option>
-<option value="Diaries/Journals">Diaries/Journals </option>
-<option value="Dice Specialties">Dice Spec. </option>
-<option value="Dishes">Dishes </option>
-<option value="Dispensers">Dispensers </option>
-<option value="Doctor &amp; Druggist Aids">Doctor Aids </option>
-<option value="Dog Tags">Dog Tags </option>
-<option value="Dolls">Dolls &amp; Gifts</option>
-<option value="Door Knockers">Door Knockers </option>
-<option value="Drawing Instruments">Drawing Instru. </option>
-<option value="Easels">Easels </option>
-<option value="Electronic Devices">Elec. Devices </option>
-<option value="Embedment Accessories">Embed. Acc. </option>
-<option value="Embedded Specialties-Custom Made">Embedded 
-        Spec </option>
-<option value="Embedments">Embedments </option>
-<option value="Emblems">Emblems </option>
-<option value="Embroidery">Embroidery </option>
-<option value="Emergency First Aid Kits">Emergency Kits </option>
-<option value="Emery Boards">Emery Boards </option>
-<option value="Envelopes">Envelopes </option>
-<option value="Erasers">Erasers </option>
-<option value="Exercisers">Exercisers </option>
-<option value="Eyeglass Accessories">Eyeglass Acc. </option>
-<option value="Eyeglass Cases &amp; Accessories">Eyeglass 
-        Acc. </option>
-<option value="Eyeglass Straps">Eyeglass Strap </option>
-<option value="Eyeglasses">Eyeglasses </option>
-<option value="Eyeglasses - 3D">Eyeglasses - 3D </option>
-<option value="Fans">Fans - Promotional</option>
-<option value="Figurines">Figurines </option>
-<option value="Files">Files - Executive</option>
-<option value="Flag Accessories">Flag Acc. </option>
-<option value="Flags">Flags - Custom</option>
-<option value="Flashlights">Flashlights </option>
-<option value="Flasks">Flasks </option>
-<option value="Flowers">Flowers - Gifts</option>
-<option value="Flying Saucers &amp; Discs">Flying Discs </option>
-<option value="Flyswatters">Flyswatters </option>
-<option value="Foam Novelties">Foam Novelties </option>
-<option value="Folders">Folders </option>
-<option value="Food Gifts">Food Gifts </option>
-<option value="Forks">Forks </option>
-<option value="Frames">Frames - Custom</option>
-<option value="Fresheners">Fresheners </option>
-<option value="Funnels">Funnels </option>
-<option value="Furniture">Furniture </option>
-<option value="Games">Games - Custom</option>
-<option value="Garters &amp; Leg Bands">Garter/Leg Band </option>
-<option value="Gauges">Gauges </option>
-<option value="Gavels">Gavels -Executive</option>
-<option value="Gift Baskets">Gift Baskets </option>
-<option value="Gift Collections">Gift Collections </option>
-<option value="Gift Wrap">Gift Wrap </option>
-<option value="Glass Specialties">Glass Spec. </option>
-<option value="Glasses-Drinking">Glasses-Drink </option>
-<option value="Globes">Globes </option>
-<option value="Gloves">Gloves </option>
-<option value="Goggles">Goggles </option>
-<option value="Golf Accessories">Golf Acc. </option>
-<option value="Gravy Boats">Gravy Boats </option>
-<option value="Greeting Cards">Greeting Cards </option>
-<option value="Grocery Aids">Grocery Aids </option>
-<option value="Hair Care">Hair Care </option>
-<option value="Halloween Decorations">Halloween Decr. </option>
-<option value="Hammocks">Hammocks </option>
-<option value="Handkerchiefs">Handkerchiefs </option>
-<option value="Handles">Handles </option>
-<option value="Hangers">Hangers </option>
-<option value="Headbands">Headbands </option>
-<option value="Headphones">Headphones </option>
-<option value="Headrests">Headrests </option>
-<option value="Heat Transfers">Heat Transfers </option>
-<option value="Highlighter Sets">Highlighter Sets </option>
-<option value="Holders">Holders </option>
-<option value="Holograms">Holograms </option>
-<option value="Holsters">Holsters </option>
-<option value="Hooks">Hooks - Executive</option>
-<option value="Horseshoe Specialties">Horseshoes </option>
-<option value="Hotel Amenities">Hotel Amenities </option>
-<option value="Humidors">Humidors - Executive</option>
-<option value="Ice Buckets">Ice Buckets </option>
-<option value="Ice Packs">Ice Packs </option>
-<option value="Ice Picks &amp; Crushers">Ice Pick/Crusher 
-        </option>
-<option value="Ice Scrapers">Ice Scrapers </option>
-<option value="ID Holders">ID Holders </option>
-<option value="Imprinting">Imprinting </option>
-<option value="Inflatables">Inflatables </option>
-<option value="Inflators">Inflators </option>
-<option value="Ink">Ink - Promotional </option>
-<option value="Invitations">Invitations </option>
-<option value="Jackets">Jackets </option>
-<option value="Jars">Jars - Promotional</option>
-<option value="Jewelry">Jewelry </option>
-<option value="Jewelry Boxes">Jewelry Boxes </option>
-<option value="Jewelry Rolls">Jewelry Rolls </option>
-<option value="Jugs">Jugs - Promotional </option>
-<option value="Kaleidoscopes">Kaleidoscopes </option>
-<option value="Kazoos">Kazoos </option>
-<option value="Key Cases">Key Cases </option>
-<option value="Key Holders">Key Holders </option>
-<option value="Key Reels">Key Reels </option>
-<option value="Key Tags">Key Tags </option>
-<option value="Keys">Keys </option>
-<option value="Kites">Kites </option>
-<option value="Kits">Kits - Promotional</option>
-<option value="Knives">Knives </option>
-<option value="Labels">Labels </option>
-<option value="Laminating Machines &amp; Supplies">Laminate 
-        Mach. </option>
-<option value="Laminated Spec-Custom Made">Laminate Spec </option>
-<option value="Lamps">Lamps </option>
-<option value="Lanterns">Lanterns </option>
-<option value="Lanyards">Lanyards </option>
-<option value="Lapel Pins">Lapel Pins </option>
-<option value="Lawn &amp; Garden Accessories">Lawn/Garden 
-        </option>
-<option value="Leather &amp; Sim. Leather Spec.-Custom Made">Leather 
-        Cust. </option>
-<option value="Leather Specialties">Leather Spec. </option>
-<option value="Leis">Leis - Promotional</option>
-<option value="Lenticular">Lenticular </option>
-<option value="Letter Openers">Letter Openers </option>
-<option value="Letters, Numerals &amp; Symbols">Letters/Numbers 
-        </option>
-<option value="Library Sets">Library Sets </option>
-<option value="License Holders">License Holders </option>
-<option value="License Plates &amp; Frames">License Plates 
-        </option>
-<option value="Licensees">Licensees </option>
-<option value="Lighters">Lighters </option>
-<option value="Lights">Lights </option>
-<option value="Lint Removers">Lint Removers </option>
-<option value="Lip Balm">Lip Balm </option>
-<option value="Lipsticks &amp; Lipstick Holders">Lipstick/Holder 
-        </option>
-<option value="Locks">Locks </option>
-<option value="Luggage">Luggage </option>
-<option value="Luggage Tags">Luggage Tags </option>
-<option value="Lunch Boxes/Kits">Lunch Box/Kit </option>
-<option value="Magnets">Magnets </option>
-<option value="Magnifiers">Magnifiers </option>
-<option value="Maps &amp; Atlases">Maps &amp; Atlases </option>
-<option value="Markers">Markers </option>
-<option value="Masks">Masks </option>
-<option value="Massagers">Massagers </option>
-<option value="Match-Folder Specialties">Match Spec. </option>
-<option value="Matches">Matches </option>
-<option value="Mats">Mats - Promotional</option>
-<option value="Measuring Devices">Measure Device </option>
-<option value="Measures">Measures </option>
-<option value="Medals">Medals </option>
-<option value="Medical Information Products">Medical Prdcts. 
-        </option>
-<option value="Megaphones">Megaphones </option>
-<option value="Cards-Membership">Membership </option>
-<option value="Memo Books">Memo Books </option>
-<option value="Memo Holders">Memo Holders </option>
-<option value="Memo Pad &amp; Paper Holders">Memo Pad </option>
-<option value="Memo Pads &amp; Cubes">Memo Pad/Cube </option>
-<option value="Menus &amp; Menu Covers">Menus &amp; Covers 
-        </option>
-<option value="Metal Specialties">Metal Spec. </option>
-<option value="Microphones &amp; Microphone Cubes">Microphone/Acc. 
-        </option>
-<option value="Miniatures &amp; Replicas">Minis/Replicas </option>
-<option value="Mirrors">Mirrors </option>
-<option value="Mitts">Mitts - Promotional</option>
-<option value="Money">Money </option>
-<option value="Money Clips">Money Clips </option>
-<option value="Money Converters">Money Convrtrs </option>
-<option value="Mouse Pads">Mouse Pads </option>
-<option value="Mug Trees &amp; Holders">Mug Holders </option>
-<option value="Mugs &amp; Steins">Mugs &amp; Steins </option>
-<option value="Musical Specialties">Musical Spec. </option>
-<option value="Nameplates">Nameplates </option>
-<option value="Napkin Rings &amp; Holders">Napkin Rings </option>
-<option value="Napkins">Napkins </option>
-<option value="Noisemakers">Noisemakers </option>
-<option value="Office Supplies">Office Supplies </option>
-<option value="Openers">Openers </option>
-<option value="Organizers">Organizers </option>
-<option value="Ornaments">Ornaments </option>
-<option value="Electric Outlet Protectors">Outlet Protectors 
-        </option>
-<option value="Packaging">Packaging </option>
-<option value="Paddles">Paddles </option>
-<option value="Pads">Pads -Promotional</option>
-<option value="Paint">Paint </option>
-<option value="Paint Stirrers">Paint Stirrers </option>
-<option value="Pajamas">Pajamas </option>
-<option value="Valuable Paper Holders">Paper Holders </option>
-<option value="Paper Specialties-Stock &amp; Custom">Paper 
-        Spec/Stck </option>
-<option value="Paperweights">Paperweights </option>
-<option value="Party Favors">Party Favors </option>
-<option value="Pocket Secretaries">Pckt. Secretaries </option>
-<option value="Pedometers">Pedometers </option>
-<option value="Pen Sets">Pen Sets </option>
-<option value="Pen &amp; Pencil Accessories">Pen/Pencil Acc. 
-        </option>
-<option value="Pen &amp; Pencil Holders">Pen/Pencil Hold. 
-        </option>
-<option value="Pen &amp; Pencil Sets">Pen/Pencil Sets </option>
-<option value="Pencil Tops">Pencil Tops </option>
-<option value="Pencils">Pencils </option>
-<option value="Pens">Pens -Promotional</option>
-<option value="Pepper Mills &amp; Pepper Mill Sets">Pepper 
-        Mill/Set </option>
-<option value="Pet Accessories">Pet Accessories </option>
-<option value="Phone Accessories">Phone Accys </option>
-<option value="Phone Calling Cards">Phone Cards </option>
-<option value="Diary &amp; Phone Index Sets">Phone Indexes 
-        </option>
-<option value="Phone Indexes">Phone Indexes </option>
-<option value="Phones">Phones </option>
-<option value="Photo Cards">Photo Cards </option>
-<option value="Photo Cubes">Photo Cubes </option>
-<option value="Picnic Baskets &amp; Kits">Pic. Basket/Kit 
-        </option>
-<option value="Picnic Coolers">Picnic Coolers </option>
-<option value="Pictures &amp; Paintings">Pics./Paintings </option>
-<option value="Pillows">Pillows </option>
-<option value="Pinatas">Pinatas </option>
-<option value="Pins">Pins </option>
-<option value="Pitcher Sets">Pitcher Sets </option>
-<option value="Pitchers">Pitchers </option>
-<option value="Place Mats">Place Mats </option>
-<option value="Planters">Planters </option>
-<option value="Plants">Plants </option>
-<option value="Plaque Accessories">Plaque Acc. </option>
-<option value="Plaques">Plaques </option>
-<option value="Plastic Molded Spec-Custom Made">Plastic Molded 
-        </option>
-<option value="Plastic Sheet Specs-Custom Made">Plastic Sheets 
-        </option>
-<option value="Plates">Plates </option>
-<option value="Playing Cards">Playing Cards </option>
-<option value="Pointers">Pointers </option>
-<option value="Polishers &amp; Dusters">Polisher/Duster </option>
-<option value="Portfolios">Portfolios </option>
-<option value="Post Cards">Post Cards </option>
-<option value="Pot Holders">Pot Holders </option>
-<option value="Potpourri">Potpourri </option>
-<option value="Pouches">Pouches </option>
-<option value="Pourers">Pourers </option>
-<option value="Promotions">Promotions </option>
-<option value="Punches">Punches </option>
-<option value="Puppets">Puppets </option>
-<option value="Purses">Purses </option>
-<option value="Puzzles &amp; Tricks">Puzzles &amp; Tricks 
-        </option>
-<option value="Racks">Racks </option>
-<option value="Racks &amp; Holders">Racks/Holders </option>
-<option value="Radios">Radios </option>
-<option value="Rainwear">Rainwear </option>
-<option value="Rattles">Rattles </option>
-<option value="Razors">Razors </option>
-<option value="Recorders">Recorders </option>
-<option value="Recycled Products">Recycled Prods. </option>
-<option value="Recycling Aids">Recycling Aids </option>
-<option value="Reflectors">Reflectors </option>
-<option value="Religious Goods">Religious Goods </option>
-<option value="Ribbons">Ribbons </option>
-<option value="Rubber Stamps">Rubber Stamps </option>
-<option value="Rulers">Rulers </option>
-<option value="Safety Products">Safety Prod.</option>
-<option value="Salad Sets">Salad Sets </option>
-<option value="Sandals">Sandals </option>
-<option value="Scales">Scales </option>
-<option value="Scarves">Scarves </option>
-<option value="Schedules-Sports">Schdules-Sport </option>
-<option value="Scissors &amp; Shears">Scissor/Shear </option>
-<option value="Scoops">Scoops </option>
-<option value="Scrapers">Scrapers </option>
-<option value="Screen Printing">Screen Printing </option>
-<option value="Seals">Seals </option>
-<option value="Seats-Folding">Seats-Folding </option>
-<option value="Seeds">Seeds - Custom</option>
-<option value="Select Gift Programs">Select Gift Prog. </option>
-<option value="Servers">Servers </option>
-<option value="Sewing Accessories">Sewing Acc. </option>
-<option value="Shakers">Shakers </option>
-<option value="Sharpeners">Sharpeners </option>
-<option value="Shaving Accessories">Shaving Acc. </option>
-<option value="Sheets &amp; Pillowcases">Sheet/Pillowcs. </option>
-<option value="Shirts">Shirts - Custom</option>
-<option value="Shoe Trees">Shoe Trees </option>
-<option value="Shoehorns">Shoehorns </option>
-<option value="Shoelaces">Shoelaces </option>
-<option value="Shoes">Shoes </option>
-<option value="Shovels">Shovels </option>
-<option value="Sign &amp; Display Accessories">Sign/Display 
-        Acc </option>
-<option value="Signs &amp; Displays">Signs/Displays </option>
-<option value="Slides &amp; Film Strips">Slides/Film Strips 
-        </option>
-<option value="Slippers">Slippers - Gifts</option>
-<option value="Snow Domes">Snow Domes </option>
-<option value="Snuffers">Snuffers </option>
-<option value="Soap">Soap - Executive</option>
-<option value="Socks">Socks - Custom</option>
-<option value="Special Packaging">Special Pack. </option>
-<option value="Sponges &amp; Sponge Holders">Sponge/Holder 
-        </option>
-<option value="Spoon Holders &amp; Rests">Spoon Rests </option>
-<option value="Spoons">Spoons </option>
-<option value="Sports Equipment &amp; Accessories">Sport Equip/ 
-        Acc </option>
-<option value="Sports Memorabilia">Sport Memor. </option>
-<option value="Squeegees">Squeegees </option>
-<option value="Stamp Pads">Stamp Pads </option>
-<option value="Stamps">Stamps </option>
-<option value="Stands">Stands </option>
-<option value="Staple Removers">Staple Removers </option>
-<option value="Staplers">Staplers </option>
-<option value="Stationery/Business Forms">Stationery </option>
-<option value="Steak Knives">Steak Knives </option>
-<option value="Stirrers &amp; Sticks-Drink">Stirrers &amp; 
-        Sticks </option>
-<option value="Stone Specialties-Custom Made">Stone Spec. 
-        </option>
-<option value="Stones">Stones </option>
-<option value="Stools">Stools </option>
-<option value="Stopwatches">Stopwatches </option>
-<option value="Straps">Straps </option>
-<option value="Straws">Straws </option>
-<option value="Stress Relievers &amp; Cards">Stress Relievers 
-        </option>
-<option value="Stuffed Animals-Fuzzy Creatures">Stuffed Animals 
-        </option>
-<option value="Sun Visors">Sun Visors </option>
-<option value="Sunglasses">Sunglasses </option>
-<option value="Suntan Lotions">Suntan Lotions </option>
-<option value="Sweaters">Sweaters </option>
-<option value="Swim Wear">Swim Wear </option>
-<option value="Switch Plates">Switch Plates </option>
-<option value="T-Shirts">T-Shirts </option>
-<option value="Tablecloths &amp; Tablecloth Sets">Tablecloth/Set 
-        </option>
-<option value="Tableware">Tableware </option>
-<option value="Tabs">Tabs </option>
-<option value="Tags">Tags </option>
-<option value="Tape">Tape </option>
-<option value="Tape Measures">Tape Measures </option>
-<option value="Tassels">Tassels </option>
-<option value="Tattoos">Tattoos </option>
-<option value="Tea or Coffee Sets">Tea/Coffee Sets </option>
-<option value="Telescopes">Telescopes </option>
-<option value="Televisions">Televisions </option>
-<option value="Physical &amp; Therapeutic Aids">Therapeutic 
-        Aids </option>
-<option value="Thermometers">Thermometers </option>
-<option value="Tiaras &amp; Crowns">Tiaras &amp; Crowns </option>
-<option value="Tie Clips">Tie Clips - Custom</option>
-<option value="Ties">Ties - Executive</option>
-<option value="Tiles">Tiles </option>
-<option value="Timers">Timers </option>
-<option value="Tins">Tins </option>
-<option value="Tissues">Tissues </option>
-<option value="Tool Kits">Tool Kits </option>
-<option value="Tools-Hardware">Tools-Hardware </option>
-<option value="Tools-Kitchen">Tools-Kitchen </option>
-<option value="Toothbrushes">Toothbrushes </option>
-<option value="Toothpicks">Toothpicks </option>
-<option value="Tops &amp; Spinners">Tops &amp; Spinners </option>
-<option value="Towelettes">Towelettes </option>
-<option value="Towels">Towels </option>
-<option value="Toys-Novelties">Toys-Novelties </option>
-<option value="Travel Accessories">Travel Acc. </option>
-<option value="Trays">Trays </option>
-<option value="Treasure Chest Promotions">Treasure Chests 
-        </option>
-<option value="Trees">Trees </option>
-<option value="Trivets">Trivets </option>
-<option value="Trophies &amp; Loving Cups">Trophies </option>
-<option value="Tweezers">Tweezers </option>
-<option value="Umbrellas">Umbrellas </option>
-<option value="Uniforms">Uniforms -Custom</option>
-<option value="Vases">Vases </option>
-<option value="Vests">Vests </option>
-<option value="Video Equipment Viewers">Video Equip. </option>
-<option value="Videos">Videos </option>
-<option value="Vinyl Plastic Specialties-Custom Made">Vinyl 
-        Plstc Spec </option>
-<option value="Voice Recorders">Voice Recorders </option>
-<option value="Walkie Talkie">Walkie Talkie </option>
-<option value="Wallets">Wallets </option>
-<option value="Wands &amp; Scepters">Wand/Scepter </option>
-<option value="Warmers">Warmers </option>
-<option value="Watch Fobs">Watch Fobs </option>
-<option value="Watches">Watches </option>
-<option value="Water">Water </option>
-<option value="Weather Instruments">Weather Instr. </option>
-<option value="Whistles">Whistles </option>
-<option value="Wine Chillers">Wine Chillers </option>
-<option value="Wine/Champagne">Wine/Chmpgn </option>
-<option value="Wood Specialties">Wood Specialty </option>
-<option value="Wrist Rests">Wrist Rests </option>
-<option value="Wristbands">Wristbands </option>
-<option value="Yardsticks">Yardsticks </option>
-<option value="Yo-Yos">Yo-Yos </option>
-<option value="Zipper Pullers">Zipper Pullers </option></select><br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keyword Search:<br> &nbsp;&nbsp;
-&nbsp; <input name="text" type="text" style="width:105" font="" size="-8">
-<input type="hidden" name="wt" value="all"><br>
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Price Range:<br> &nbsp;&nbsp;
-&nbsp; <select name="pr" class="combo" style="width:106" font="" size="-8">
-<option value="All" selected="">All </option>
-<option value="a">Under $.25 </option>
-<option value="b">$.25 - $.50 </option>
-<option value="c">$.50 - $.75 </option>
-<option value="d">$.75 - $1.00 </option>
-<option value="e">$1.00 - $1.75 </option>
-<option value="f">$1.75 - $2.50 </option>
-<option value="g">$2.50 - $5.00 </option>
-<option value="h">$5.00 - $10.00 </option>
-<option value="i">$10.00 - $25 </option>
-<option value="j">$25.00 - $50 </option>
-<option value="k">$50.00 - $100 </option>
-<option value="l">$100 - $150 </option>
-<option value="m">$150 - $250 </option>
-<option value="n">$250 - $500 </option>
-<option value="o">$500 - $1,000 </option>
-<option value="p"> Over $1,000 </option>
-      </select>
-      <br>
-      <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Production Time:<br> &nbsp;&nbsp; 
-      &nbsp; <select name="pt" class="combo" style="width:106" font="" size="-8">
-<option value="All" selected="">All 
-</option><option value="1 day">1 day 
-</option><option value="2 days">2 days 
-</option><option value="3 days">3 days 
-</option><option value="4 days">4 days 
-</option><option value="5 days">5 days 
-</option><option value="6 days">6 days 
-</option><option value="7 days">7 days 
-</option><option value="8 days">8 days 
-</option><option value="10 days">10 days 
-</option><option value="11 days">11 days 
-</option><option value="12 days">12 days 
-</option><option value="14 days">14 days 
-</option><option value="15 days">15 days 
-</option><option value="16 days">16 days 
-</option><option value="20 days">20 days 
-</option><option value="21 days">21 days 
-</option><option value="25 days">25 days 
-</option><option value="30 days">30 days 
-</option><option value="35 days">35 days 
-</option><option value="40 days">40 days 
-</option><option value="45 days">45 days 
-</option><option value="50 days">50 days 
-</option><option value="55 days">55 days 
-</option><option value="60 days">60 days 
-</option><option value="75 days">75 days 
-</option><option value="90 days">90 days 
-      </option></select></form></td></tr><tr> 
-      <td height="18" valign="top">
-<img src="../images/leftimg2.gif" width="148" height="18"></td></tr>
-<tr><td bgcolor="C4C4C4" height="146" valign="top"> 
-<div align="center"><br>
-      <input type="image" name="submit" src="../images/search.gif" width="119" height="30" border="0" alt="Search">
-      <a href="http://www.promopeddler.com"><img src="../images/reset.gif" width="119" height="30" border="0" alt="Reset"></a> 
-      <a href="http://www.promopeddler.com/Cart.php?r=cart"><img src="../images/cart.gif" alt="Shopping Cart" width="119" height="30" border="0"></a> 
-<table align="center">
-<tbody><tr>
-<form name="asinum" action="http://www.logomall.com/cgi-bin/detail.pl" method="post" target="mainFrame"></form>
-<td class="font" align="middle">
-Search by<br>Product Number<br>
-<input type="text" class="textfield" style="WIDTH: 50px; HEIGHT: 18px" name="asi">-<input type="text" class="textfield" style="WIDTH: 50px; HEIGHT: 18px" name="item"></td></tr>
-<tr>
-<td valign="top" align="middle"><input type="image" height="23" width="129" src="../images/search.jpg" border="0" name="submit" alt="Search by Product #"></td></tr></tbody></table>
-<img src="/images/support.gif" width="125" height="300">
-<br>
-<br>
-</div>
+<!-- body //-->
+<table width="100%" border="0" cellpadding="3" cellspacing="1">
+	<tbody><tr>
+		<td id="columnleft" valign="top">
+		<!--start left column-->
+		<table border="0" width="180" cellspacing="0" cellpadding="0">
+			 <!-- search //-->
+          <tbody><tr>
+            <td>
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td height="15" class="infoBoxCorner"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="15"></td>
+			<td width="100%" height="15" class="infoBoxHeading">Quick Find</td>
+			<td height="15" class="infoBoxCorner" nowrap="nowrap"><img src="images/infobox/corner_right.gif" border="0" alt="" width="11" height="15"></td>
+		</tr>
+		</tbody></table>
+              <table border="0" width="100%" cellspacing="0" cellpadding="0" class="infoBox">
+		<tbody><tr>
+			<td class="boxText"><form name="quick_find" action="http://www.promopeddler.com/cat/" method="post"><input type="text" name="text" size="15" maxlength="30">&nbsp;
+						<div style="position:relative; top:5px; display:inline; border:0px dotted #FF0000;">
+						<input type="image" src="includes/languages/english/images/buttons/button_quick_find.gif" alt="Quick Find Promotional Items" title=" Quick Find Promotional Items "></div><div class="nav" align="left">
+<img src="images/pointer_blue.gif" border="0" alt="Advanced Search">
+<a class="navlink" href="http://www.promopeddler.com/cat/">Advanced Search</a></div></form>
+<!-- search_eof //-->
 </td>
-    </tr>
-  </tbody></table>
+		</tr>
+            	</tbody></table>
+		<div class="boxbreak">&nbsp;</div>
+            </td>
+          </tr>
+</tbody></table><table cellspacing="0" cellpadding="0" width="180" border="0"><!-- categories //-->
+<tbody>
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td class="infoBoxCorner" height="15">
+<img height="15" alt="" src="images/infobox/corner_right_left.gif" width="11" border="0"></td>
+<td class="infoBoxHeading" width="100%" height="15">Categories</td>
+<td class="infoBoxCorner" nowrap="" height="15">
+<img height="15" alt="" src="images/infobox/corner_right.gif" width="11" border="0"></td></tr></tbody></table>
+<table class="infoBoxContents" cellspacing="0" cellpadding="3" width="100%" border="0">
+<tbody>
+<tr>
+<td class="boxText"><!-- INSERT NAV COLUMNS - DO NOT REMOVE THIS TAG --><a href="../cat/Custom+Apparel/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Apparel</b></a><br>
+<a href="../cat/Customized+Automotive/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Automotive</b></a><br>
+<a href="../cat/Custom+Awards+Recognition/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Awards &amp; Recognition</b></a><br>
+<a href="../cat/Custom+Printed+Badges/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Badges</b></a><br>
+<a href="../cat/Imprinted+Bags+Cases/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Bags &amp; Cases</b></a><br>
+<a href="../cat/Custom+Beauty+Products/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Beauty Products</b></a><br>
+<a href="../cat/Business+Accessories/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Business Accessories</b></a><br>
+<a href="../cat/Custom+Calendars+Planners/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Calendars &amp; Planners</b></a><br>
+<a href="../cat/Custom+Candy+Snacks/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Candy &amp; Snacks</b></a><br>
+<a href="../cat/Custom+Cards+Bookmarks/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Cards &amp; Bookmarks</b></a><br>
+<a href="../cat/Customized+Clocks/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Clocks</b></a><br>
+<a href="../cat/Computer+Media+Accessories/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Computer Media &amp; Acces.</b></a><br>
+<a href="../cat/Corporate+Gifts/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Corporate Gifts</b></a><br>
+<a href="../cat/Desktop+Office/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Desktop &amp; Office</b></a><br>
+<a href="../cat/Electronics+Accessories/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Electronics &amp; Accessories</b></a><br>
+<a href="../cat/Food+Beverage/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Food &amp; Beverage</b></a><br>
+<a href="../cat/Games+Novelties/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Games &amp; Novelties</b></a><br>
+<a href="../cat/Golf+Equipment+Accessories/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Golf Equipment</b></a><br>
+<a href="../cat/Caps+Hats+Headwear/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Hats &amp; Caps</b></a><br>
+<a href="../cat/Health+Safety/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Health &amp; Safety</b></a><br>
+<a href="../cat/Holiday+Items/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Holiday Items</b></a><br>
+<a href="../cat/Home+Housewares/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Home &amp; Housewares</b></a><br>
+<a href="../cat/Jewelry+Wristbands/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Jewelry &amp; Wristbands</b></a><br>
+<a href="../cat/Magnets+Magnetic+Items/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Magnets &amp; Magnetic Items</b></a><br>
+<a href="../cat/Mugs+Cups+Drinkware/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Mugs, Cups, &amp; Drinkware</b></a><br>
+<a href="../cat/Office+Supplies/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Office Supplies</b></a><br>
+<a href="../cat/Outdoor+Items/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Outdoor Items</b></a><br>
+<a href="../cat/Pens+Writing+Pencils/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Pens &amp; Writing Instruments</b></a><br>
+<a href="../cat/Pocket+Purse+Items/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Pocket &amp; Purse Items</b></a><br>
+<a href="../cat/Sports/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Sports</b></a><br>
+<a href="../cat/Tools+Hardware/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Tools &amp; Hardware</b></a><br>
+<a href="../cat/Trade+Show+Conventions/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Trade Show &amp; Conventions</b></a><br>
+<a href="../cat/Travel/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Travel</b></a><br>
+<a href="../cat/Watches+Timepieces/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Watches</b></a><br>
+<a href="../cat/Wine+Spirit+Accessories/"><img alt="" src="images/pointer_blue.gif" border="0"><b>Wine &amp; Spirit Accessories</b></a><br>
+<!-- END NAV COLUMNS - DO NOT REMOVE THIS TAG --></td></tr></tbody></table>
 
-</td></tr><tr><td colspan="3" height="22" width="100%" align="center" valign="center" bgcolor="#4d5452" class="links">Copyright © 2005 Promopeddler.com 
-<a href="../">Promotional Products</a> All Rights Reserved.</td></tr></tbody></table></td></tr></tbody></table>
+<!-- categories_eof //-->
+          </td></tr><tr>
+            <td>
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td height="15" class="infoBoxCorner"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="15"></td>
+			<td width="100%" height="15" class="infoBoxHeading">Sections</td>
+			<td height="15" class="infoBoxCorner" nowrap="nowrap"><img src="images/infobox/corner_right.gif" border="0" alt="" width="11" height="15"></td>
+		</tr>
+		</tbody></table>
+              <table border="0" width="100%" cellspacing="0" cellpadding="0" class="infoBox">
+		<tbody><tr>
+			<td class="boxText">
+	<table border="0" width="100%" cellspacing="0" cellpadding="1" class="infoBox">
+			<tbody><tr>
+				<td>
+	<div class="nav">
+		<img src="images/pointer_blue.gif" border="0" alt="Articles">
+		<a class="navlink" href="http://www.promopeddler.com/articles">Articles</a>
+	</div>
+		<div class="nav">
+		<img src="images/pointer_blue.gif" border="0" alt="Articles">
+		<a class="navlink" href="www.promopeddler.com/blog/index.php?option=com_content&amp;task=category&amp;sectionid=5&amp;id=14&amp;Itemid=31&quot;">Press Room</a>
+	</div>	
+	<div class="nav">
+		<img src="images/pointer_blue.gif" border="0" alt="In The News">
+		<a class="navlink" href="http://www.promopeddler.com/company/news/">In The News</a>
+	</div>
+	<div class="nav">
+		<img src="images/pointer_blue.gif" border="0" alt="Artwork Information">
+		<a class="navlink" href="http://www.promopeddler.com/artwork">Artwork Information</a>
+	</div>
+	<div class="nav">
+		<img src="images/pointer_blue.gif" border="0" alt="Promotional Blog">
+		<a class="navlink" href="http://www.promopeddler.com/blog/">Promotional Blog</a>
+	</div>
+	<div class="nav">
+		<img src="images/pointer_blue.gif" border="0" alt="Ask The Ideas Guru">
+		<a class="navlink" href="http://www.promopeddler.com/blog/index.php?option=com_content&amp;task=view&amp;id=12&amp;Itemid=26">Ask The Ideas Guru</a>
+	</div>
+	<div class="nav">
+		<img src="images/pointer_blue.gif" border="0" alt="Testimonials">
+		<a class="navlink" href="http://www.promopeddler.com/testimonials.html">Testimonials</a>
+	</div>
+	<div class="nav">
+		<img src="images/pointer_blue.gif" border="0" alt="Minimum Order Policy">
+		<a class="navlink" href="javascript:void(0)" onclick="window.open('/company/minimumorder.php','Minimum','width=465,height=650,top=25')">Minimum Order</a>
+	</div>
+	<div class="nav">
+		<img src="images/pointer_blue.gif" border="0" alt="Marketing Ideas">
+		<a class="navlink" href="http://www.promopeddler.com/ideas">Marketing Ideas</a>
+	</div>
+	<div class="nav">
+		<img src="images/pointer_blue.gif" border="0" alt="Top Sellers">
+		<a class="navlink" href="http://www.promopeddler.com/Promotional/">Top Sellers</a>
+	</div>
+	<div class="nav">
+		<img src="images/pointer_blue.gif" border="0" alt="Site Map">
+		<a class="navlink" href="http://www.promopeddler.com/sitemap/cat_map.php">Site Map</a>
+	</div></td>
+			</tr>
+		</tbody></table></td>
+		</tr>
+            	</tbody></table>
+		<div class="boxbreak">&nbsp;</div>
+            </td>
+          </tr>
+    </tbody></table>
+		<!-- left_navigation_eof //-->
+		</td>
+<!-- content //-->
+    <td width="100%" valign="top" id="mainContent">
+    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td><table border="0" width="100%" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td class="pageHeading">Privacy Notice</td>
+            <td class="pageHeading" align="right"><img src="images/table_background_specials.gif" border="0" alt="Privacy Notice" title=" Privacy Notice " width="50" height="30"></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+      </tr>
+      <tr>
+        <td><table border="0" width="100%" cellspacing="0" cellpadding="2">
+          <tbody><tr>
+            <td class="main"><blockquote><p>Dear Valued Customer,</p>
+<p>We understand, respect, and share your concerns about privacy. We want to
+assure you that Promopeddler.com respects your privacy. We will not
+sell, rent, or loan any personal information regarding our customers to
+any third parties.</p>
+ 
+<p>When an order is placed, we collect basic information
+including your name, home address, phone, and e-mail address. We use
+this information to confirm your order and to respond to any questions
+you may have. Where required, we also share this information with
+certain intermediaries (UPS, Authorize.net, Product Manufacturers)
+strictly to process and ship your order only. We fully trust these
+agencies, and have had trouble free transactions with
+our customers privacy kept confidential.</p>
+ 
+<p>We do not provide this information to any other parties. We do not acquire any more information
+about consumers than is required by law or is otherwise necessary to
+provide a high level of service efficiently and securely. We train all
+of our employees about the importance of privacy. We give access to
+information about customers only to those employees who require it to
+perform their jobs.</p>
+ 
+<p>Promopeddler.com has multiple security measures
+in place to protect the loss, misuse and alteration of the information
+that we collect. Due to constantly changing Internet secure transaction
+handling measures, we contract with Squaretrade® and Authorize.net to safely
+handle your 128 Bit SSL encrypted web transactions. All orders are
+processed with Secure Sockets Layering 128 bit strong encryption
+technology using Squaretrade® Secure Certificates.</p> 
+ 
+<p>Your security is our top priority, we have contracted
+with Squaretrade® so that we are using the highest level of secure technology
+available, our secure server is monitored 24 hours a day by firewalls
+and a human security specialist. Authorize.net, Inc., is the world's
+leading provider of internet payment services and secure electronic
+payment software. Authorize.net's Internet payment service enables
+merchants to accept payments securely &amp; conveniently over the Internet, using their patented Transact-Secure.</p>
+ 
+<p>Encryption Technology, along with an Internet fraud detection service is powered by
+a patented neural network solution and proven profiling technology. This
+enables us provide you with the highest possible security. They will
+focus on what they do best handle your information safely, so we can
+focus on what we do best; providing you with the best possible buying experience! We have completed over 790,000 successful transactions using the methods listed above to safely handle the
+approval process for us, with no complaints or problems. We believe 110%
+in the ability of the companies we contract with to handle your
+information even more securely than we could, and with compliance with
+all of our privacy policies stated here.</p>
+
+<p>If requested, we will provide any information, only if required by law. We will make sure to
+notify you by e-mail if there ever is a compromise of these policies, or
+if we have been forced to share any information by law.</p>
+
+<p>If you have further questions about our privacy policy or have other comments
+on how we can improve your shopping experience, please do not hesitate
+to e-mail us using our contact page. Or call us Toll Free 1-800-455-1350
+We always enjoy hearing from you!</p>
+
+<p>We want to assure you that your business is very important to us, we would never do anything to
+jeopardize the trust we strive very hard to earn. Your business is
+truly appreciated; thank you and we wish you the best success with your
+Promotional Product advertising campaigns!</p>
+
+<p>Sincerely,<br>Monte Baumgartner<br> President and Co-founder</p></blockquote></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+      </tr>
+		      <!--<tr>
+        <td><table border="0" width="100%" cellspacing="1" cellpadding="2" class="infoBox">
+          <tr class="infoBoxContents">
+            <td><table border="0" width="100%" cellspacing="0" cellpadding="2">
+              <tr>
+                <td width="10"><img src="images/pixel_trans.gif" border="0" alt="" width="10" height="1"></td>
+                <td align="right"><a href="http://www.promopeddler.com/catalog/index.php"><img src="includes/languages/english/images/buttons/button_continue.gif" border="0" alt="Continue" title=" Continue "></a></td>
+                <td width="10"><img src="images/pixel_trans.gif" border="0" alt="" width="10" height="1"></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>-->
+    </tbody></table>
+
+    </td>
+<!-- content_eof //-->
+    <td width="135" valign="top" id="columnright">
+		<table border="0" width="135" cellspacing="0" cellpadding="0">
+<!-- right_navigation //-->
+<script type="text/javascript">
+<!-- Begin
+function popUp(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=550,height=220,left = 217,top = 209');");
+}
+// End -->
+</script>
+          <tbody><tr>
+            <td>
+		<table border="0" width="100%" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td height="15" class="infoBoxCorner"><img src="images/infobox/corner_right_left.gif" border="0" alt="" width="11" height="15"></td>
+			<td width="100%" height="15" class="infoBoxHeading">Information</td>
+			<td height="15" class="infoBoxCorner" nowrap="nowrap"><img src="images/infobox/corner_right.gif" border="0" alt="" width="11" height="15"></td>
+		</tr>
+		</tbody></table>
+              <table border="0" width="100%" cellspacing="0" cellpadding="0" class="infoBox">
+		<tbody><tr>
+			<td class="boxText">
+	<table width="100%" cellpadding="3" cellspacing="0" border="0" class="infoBoxRight">
+			<tbody><tr>
+				<td>
+					<div class="nav">
+						<img src="images/pointer_right.gif" border="0" alt="Shipping &amp; Returns">
+						<a class="navlink" href="http://www.promopeddler.com/catalog/shipping.php"> Shipping &amp; Returns</a>
+					</div>
+					<div class="nav">
+						<img src="images/pointer_right.gif" border="0" alt="Privacy Notice">
+						<a class="navlink" href="http://www.promopeddler.com/catalog/privacy.php"> Privacy Notice</a>
+					</div>
+					<div class="nav">
+						<img src="images/pointer_right.gif" border="0" alt="Clothing Sizes">
+						<a class="navlink" href="javascript:void(0)" onclick="window.open('/company/clothing_size.php','Sizes','width=630,height=360')">Clothing Sizes</a>
+					</div>
+					<div class="nav">
+						<img src="images/pointer_right.gif" border="0" alt="Buyer Rewards FAQ">
+						<a class="navlink" href="http://www.promopeddler.com/company/buyer_rewards_faq.php">Buyer Rewards FAQ</a>
+					</div>
+					<div class="nav">
+						<img src="images/pointer_right.gif" border="0" alt="Conditions of Use">
+						<a class="navlink" href="http://www.promopeddler.com/catalog/conditions.php"> Conditions of Use</a>
+					</div>
+					<div class="nav">
+						<img src="images/pointer_right.gif" border="0" alt="Contact Us">
+						<a class="navlink" href="http://www.promopeddler.com/catalog/contact_us.php"> Contact Us</a>
+					</div></td>
+			</tr>
+		</tbody></table></td>
+		</tr>
+            	</tbody></table>
+		<div class="boxbreak">&nbsp;</div>
+            </td>
+          </tr>
+<tr><td align="center"><img src="/catalog/images/main/award3.gif" width="100" alt="Portland Business Journal's 100 Fastest Growing Private Companies"><br></td></tr><!-- right_navigation_eof //-->
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+<!-- body_eof //-->
+
+<!-- footer //-->
+<table border="0" width="100%" cellspacing="0" cellpadding="1">
+  <tbody><tr class="footer">
+    <td class="footer">&nbsp;&nbsp;Tuesday 14 November, 2006&nbsp;&nbsp;</td>
+    <td align="right" class="footer">&nbsp;&nbsp;21676115 requests since Friday 06 May, 2005&nbsp;&nbsp;</td>
+  </tr>
+</tbody></table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="center" class="smallText">Copyright © 1999 - 2006 Promopeddler.com <a href="http://www.promopeddler.com">Promotional Products &amp; Custom Items</a> All rights
+reserved.</td>
+	</tr>
+		<tr><td align="center" class="smallText">Product information provided by Advertising Specialty Institute <img src="/catalog/images/main/asi.gif" alt="ASI" width="30" height="17" align="absmiddle">© 1996 - 2006 All rights reserved.
+</td>
+  </tr>
+</tbody></table>
+<!-- footer_eof //-->
+<!--<br>-->
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-218266-1";
+urchinTracker();
+</script>
+
+
 </body></html>
