@@ -1,12 +1,16 @@
-<!--The following is the downloaded HTML source of the nationaltheatre.org.uk privacy policy that was archived on 2004-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041016084608id_/http%3A//www.nationaltheatre.org.uk%3Flid%3D2595) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationaltheatre.org.uk privacy policy that was archived on 2006-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061114204044id_/http%3A//www.nationaltheatre.org.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-  <meta name="GENERATOR" content="webbler 3.0.2 - http://tincan.co.uk/webbler">
+  <meta name="generator" content="webbler 3.1.1 - http://tincan.co.uk/webbler">
   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
   <link rel="SHORTCUT ICON" href="/favicon.ico">
   <title>National Theatre : Website Help : Privacy</title>
-  <!-- searchjs -->
+  <!-- nocache11 -->
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+<!-- nocache10 -->
+<meta http-equiv="Pragma" content="no-cache">
+<!-- searchjs -->
 
     <script language="Javascript" type="text/javascript">
     function clearBox(theform,defaultValue) {
@@ -17,58 +21,15 @@
       if (theform.query.value == "")
          theform.query.value = text;
     }
-   function checkSearch(theform,defaultValue){
+    function checkSearch(theform,defaultValue){
      if (theform.query.value == defaultValue){
        alert("Please enter a new search term");
-       return false; 
+       return false;
      } else {
        return true;
      }
-   }
-    </script>
-    <script language="Javascript" type="text/javascript">
-    function clearBox(theform,defaultValue) {
-      if (theform.query.value == defaultValue)
-        theform.query.value = "";
     }
-    function fillBox(theform,text) {
-      if (theform.query.value == "")
-         theform.query.value = text;
-    }
-   function checkSearch(theform,defaultValue){
-     if (theform.query.value == defaultValue){
-       alert("Please enter a new search term");
-       return false; 
-     } else {
-       return true;
-     }
-   }
     </script>
-<!-- metatags -->
-<meta name="keywords" content="">
-<!-- dhtml4 -->
-
-<script language="JavaScript" type="text/javascript">
-
-<!--
-
-if (document.layers){
-	left = Math.floor((window.innerWidth - 640) / 2);
-  document.write('<link rel="StyleSheet" href="styles/nn4.css" type="text/css">');
-	document.write('<style type="text/css">');
-  document.write('div#dhtmlmenu-4{left : ' + (left +20) + 'px;}');
-  document.write('<\/style>');
-} else {
-  document.write('<style type="text/css">');
-  //hide dhtmlmenu
-  document.write('div#dhtmlmenu-4{position : absolute;visibility : hidden;}');
-  document.write('<\/style>');
-}
-
-//-->
-
-</script><style type="text/css">div#dhtmlmenu-4{position : absolute;visibility : hidden;}</style>
-
 <!-- dhtmlmenu_javascript -->
 
 <script type="text/javascript">
@@ -96,7 +57,7 @@ function tidy(){
       document.layers[openNavs[i]].visibility = "hidden";
     } else {
       openNavs[i].style.visibility = "hidden";
-    } 
+    }
   }
   openNavs.length=0;
 }
@@ -142,8 +103,8 @@ function highlight(href, divName, fg, bg,color){
   href.style.backgroundColor = bg;
   href.style.color = fg;
 
-  div.style.backgroundColor = bg;
-  div.style.color = fg;
+//  div.style.backgroundColor = bg;
+//  div.style.color = fg;
 }
 
 function reveal2(menu, myparent, closeOther,menuSize,defaultTop,defaultLeft) {
@@ -165,7 +126,7 @@ function reveal2(menu, myparent, closeOther,menuSize,defaultTop,defaultLeft) {
     openNavs[(openNavs.length)] = menu;
   }
   // fix strange mac-IE bug
-	mymenu.style.top = "";
+//  mymenu.style.top = "";
   mymenu.style.visibility = "visible";
   openNavs[(openNavs.length)] = mymenu;
 }
@@ -180,7 +141,6 @@ function reveal(menu, myparent, closeOther,menuSize,defaultTop,defaultLeft) {
   }
 
   clearTimeout(NavBars);
-
   var avaiableHeight =0;
   var avaiableWidth =0;
 
@@ -210,11 +170,11 @@ function reveal(menu, myparent, closeOther,menuSize,defaultTop,defaultLeft) {
   if (navigator.appName.toLowerCase() == "microsoft internet explorer"  && agent.indexOf("mac") != -1){
   //if its a Mac - just use the hard-coded values (embedded in the page) and stop
     mymenu.style.left = defaultLeft;
-   // mymenu.style.top = defaultTop;
-   if (!defaultTop)
-			mymenu.style.top = "";
-   if (!defaultLeft)
-			mymenu.style.left = "";
+    mymenu.style.top = defaultTop;
+//   if (!defaultTop)
+//      mymenu.style.top = "";
+//   if (!defaultLeft)
+//      mymenu.style.left = "";
     mymenu.style.visibility = "visible";
     openNavs[(openNavs.length)] = mymenu;
     return;
@@ -260,27 +220,132 @@ function reveal(menu, myparent, closeOther,menuSize,defaultTop,defaultLeft) {
      document.layers[menu].left = left + pad;
      document.layers[menu].top = top;
    } else {
-     //window.status += " ("+left+":"+top+")";
+//     window.status = " ("+left+":"+top+")";
+     // needs tweaking, but needs to stay for now.
      mymenu.style.left = left;
      mymenu.style.position = "absolute";
      mymenu.style.top = top;
      mymenu.style.visibility = "visible";
-	  // alert(left+" "+mymenu.style.left+" "+mymenu+" "+mymenu.style.top);
+    // alert(left+" "+mymenu.style.left+" "+mymenu+" "+mymenu.style.top);
      openNavs[(openNavs.length)] = mymenu;
   }
 }
 
 </script>
-<!-- dhtml5 -->
+<!-- flipmenu -->
 
+    <script language="Javascript" type="text/javascript">
+
+    function flipMenuBlock(item) {
+      var el = document.getElementById("trunkcontent"+item);
+//      var closeel = document.getElementById("closetrunk"+item);
+      if (el.style.display == "block") {
+//        closeel.style.display = "none";
+        el.style.display = "none";
+      } else {
+//        closeel.style.display = "block";
+        el.style.display = "block";
+      }
+    }
+
+    </script>
+
+    
+<!-- adminjs -->
+<script language="Javascript" type="text/javascript" src="/codelib/js/powered.js"></script>
+
+
+<!-- template: ntmain.php -->
+
+<style type="text/css">
+ @import url("/styles/ntmain.css");
+ @import url("/styles/home.css");
+ @import url("/styles/ie5mac.css");
+ @import url("/styles/opera7.css");
+  @import url("/styles/visiting.css");
+ </style>
+
+<!--[if gte IE 6]>
+<link rel="stylesheet"
+href="/styles/ie6.css"
+type="text/css" />
+<![endif]-->
+
+<!--[if IE 5]>
+<link rel="stylesheet"
+href="/styles/ie5win.css"
+type="text/css" />
+<![endif]-->
+
+<!--**************JAVAscript for popups*************-->
+ <script language="Javascript" type="text/javascript" src="/codelib/js/jslib.js">
+ </script>
+ 
+<!--**************JAVAscript for styleswitcher*************-->
+<script type="text/javascript" src="/styles/styleswitcher.js">
+</script>
+
+<!--**************links to alternate CSS*************-->
+
+<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/styles/wnLg.css" title="Large Text" disabled="">
+<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/styles/wnLg2.css" title="Larger Text" disabled="">
+<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/styles/backgrounds/bkwhite.css" title="Background White" disabled="">
+<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/styles/backgrounds/bkpurple.css" title="Background Purple" disabled="">
+<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/styles/backgrounds/bkred.css" title="Background Red" disabled="">
+<link rel="alternate stylesheet" type="text/css" media="screen,print" href="/styles/backgrounds/bkgrey.css" title="Background Grey" disabled="">
+<!--**************links to alternate CSS*************-->
+
+<link href="/rss.php" rel="alternate" type="application/rss+xml">
+</head>
+
+<body>
+
+<div align="center">
+<a name="top"></a>
+<!-- start header table -->
+
+
+<script language="javascript">
+var host = new String(document.location.hostname);
+if (host.match("ajax") || host.match("nt-online")) {
+  document.location.hostname = 'www.nationaltheatre.org.uk';
+}
+</script>
+ 
+
+<!--HEADER TABLE starts-->
+
+<table cellpadding="0" cellspacing="0" border="0" id="mainborder">
+<tbody><tr valign="top">
+<td class="whiteright"><a href="/"><img src="/images/ntlogo.jpg" width="147" height="104" alt="National Theatre" border="0"></a></td>
+<td width="100%" rowspan="3">
+<!-- Array, 12505, 227 --><img src="/files/NEWheaderhomeyyKHGd.jpg" width="590" height="148" border="0" title="NT at night" alt="Photo of the NT at night"></td>
+</tr>
+<tr valign="middle">
+<td class="whitetopright"><div class="joinlogin"><a href="/tickets/account/login.aspx">REGISTER / LOGIN</a></div></td>
+</tr>
+<tr valign="middle">
+<td class="whitetopright"><div class="buytickets" id="buyticketsdiv"><a href="/buytickets" title="buy tickets">buy tickets</a></div></td>
+</tr>
+<!--MAIN MENU ROW-->
+<tr valign="middle">
+<td class="whitetopright">
+
+
+<!--- start dhtmlmenu whatsonmenu-->
+
+    
+<!-- hide option 1 5-->
+
+    
 <script language="JavaScript" type="text/javascript">
 
 <!--
 
 if (document.layers){
-	left = Math.floor((window.innerWidth - 640) / 2);
+  left = Math.floor((window.innerWidth - 640) / 2);
   document.write('<link rel="StyleSheet" href="styles/nn4.css" type="text/css">');
-	document.write('<style type="text/css">');
+  document.write('<style type="text/css">');
   document.write('div#dhtmlmenu-5{left : ' + (left +20) + 'px;}');
   document.write('<\/style>');
 } else {
@@ -294,505 +359,265 @@ if (document.layers){
 
 </script><style type="text/css">div#dhtmlmenu-5{position : absolute;visibility : hidden;}</style>
 
-<!-- dhtml11 -->
-
-<script language="JavaScript" type="text/javascript">
-
-<!--
-
-if (document.layers){
-	left = Math.floor((window.innerWidth - 640) / 2);
-  document.write('<link rel="StyleSheet" href="styles/nn4.css" type="text/css">');
-	document.write('<style type="text/css">');
-  document.write('div#dhtmlmenu-11{left : ' + (left +20) + 'px;}');
-  document.write('<\/style>');
-} else {
-  document.write('<style type="text/css">');
-  //hide dhtmlmenu
-  document.write('div#dhtmlmenu-11{position : absolute;visibility : hidden;}');
-  document.write('<\/style>');
-}
-
-//-->
-
-</script><style type="text/css">div#dhtmlmenu-11{position : absolute;visibility : hidden;}</style>
-
-<!-- dhtml8 -->
-
-<script language="JavaScript" type="text/javascript">
-
-<!--
-
-if (document.layers){
-	left = Math.floor((window.innerWidth - 640) / 2);
-  document.write('<link rel="StyleSheet" href="styles/nn4.css" type="text/css">');
-	document.write('<style type="text/css">');
-  document.write('div#dhtmlmenu-8{left : ' + (left +20) + 'px;}');
-  document.write('<\/style>');
-} else {
-  document.write('<style type="text/css">');
-  //hide dhtmlmenu
-  document.write('div#dhtmlmenu-8{position : absolute;visibility : hidden;}');
-  document.write('<\/style>');
-}
-
-//-->
-
-</script><style type="text/css">div#dhtmlmenu-8{position : absolute;visibility : hidden;}</style>
-
-<!-- dhtml9 -->
-
-<script language="JavaScript" type="text/javascript">
-
-<!--
-
-if (document.layers){
-	left = Math.floor((window.innerWidth - 640) / 2);
-  document.write('<link rel="StyleSheet" href="styles/nn4.css" type="text/css">');
-	document.write('<style type="text/css">');
-  document.write('div#dhtmlmenu-9{left : ' + (left +20) + 'px;}');
-  document.write('<\/style>');
-} else {
-  document.write('<style type="text/css">');
-  //hide dhtmlmenu
-  document.write('div#dhtmlmenu-9{position : absolute;visibility : hidden;}');
-  document.write('<\/style>');
-}
-
-//-->
-
-</script><style type="text/css">div#dhtmlmenu-9{position : absolute;visibility : hidden;}</style>
-
-<!-- dhtml10 -->
-
-<script language="JavaScript" type="text/javascript">
-
-<!--
-
-if (document.layers){
-	left = Math.floor((window.innerWidth - 640) / 2);
-  document.write('<link rel="StyleSheet" href="styles/nn4.css" type="text/css">');
-	document.write('<style type="text/css">');
-  document.write('div#dhtmlmenu-10{left : ' + (left +20) + 'px;}');
-  document.write('<\/style>');
-} else {
-  document.write('<style type="text/css">');
-  //hide dhtmlmenu
-  document.write('div#dhtmlmenu-10{position : absolute;visibility : hidden;}');
-  document.write('<\/style>');
-}
-
-//-->
-
-</script><style type="text/css">div#dhtmlmenu-10{position : absolute;visibility : hidden;}</style>
-
-<!-- nocache11 -->
-<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
-<!-- nocache10 -->
-<meta http-equiv="Pragma" content="no-cache">
-<!-- adminjs -->
-<script language="Javascript" type="text/javascript" src="/codelib/js/powered.js"></script>
-
-
-<!-- template: guides00.php -->
-
-<link rel="StyleSheet" href="styles/main.css" type="text/css">
-<link rel="StyleSheet" href="styles/information.css" type="text/css">
-<script language="JavaScript" type="text/javascript" src="js/lib.js"></script>
-<script type="text/javascript"> 
-var nav1Color = new Object();
- nav1Color.fg = 'white';
- nav1Color.bg='#CC3399';
- nav1Color.highfg='#CC3399';
-nav1Color.highbg='white';
-var nav2Color = nav1Color; 
-
-</script>
-<!-- start header table -->
-
-<script language="JavaScript" type="text/javascript">
-var search_navColor = nav1Color; 
-var subscribe_navColor = nav1Color; 
-var tickets_navColor = nav1Color; 
-var talk_shop_navColor = nav1Color;
-</script>
-<style type="text/css">
-#textonlylink {
- display: none;
-}
-#tincanlink{
-  display: none;
-}
-</style>
-</head>
-<body bgcolor="white">
-<a href="/cgi-bin/parser.pl" class="smgry" id="textonlylink">Text-only</a>
-<a name="top"></a>
-<div class="head">
-<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#990066">
-
-<tbody><tr bgcolor="#990066">
-<td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td width="2" rowspan="4"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="2" height="1"></td>
-<td width="102"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="102" height="1"></td>
-<td width="1"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td width="102"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="102" height="1"></td>
-<td width="1"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td width="102"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="102" height="1"></td>
-<td width="1"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td width="102"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="102" height="1"></td>
-<td width="1"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td width="102"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="102" height="1"></td>
-<td width="1"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td width="102"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="102" height="1"></td>
-<td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td></tr>
-<!-- NT LOGO -->
-
-<tr bgcolor="#990066"><td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td colspan="10" valign="top">&nbsp;<a href="/" id="ntou"><img src="images/logos/nationaltheatre990066.gif" width="188" height="19" alt="National Theatre" border="0" hspace="0" vspace="10"></a></td>
-<td><img src="images/spacer.gif" width="1" height="85" hspace="0" vspace="0" border="0" alt=""></td>
-<td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td></tr>
-
-<tr bgcolor="#990066"><td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td colspan="2">&nbsp;<span class="urhere">Sat 16 Oct</span></td>
-<td colspan="2">&nbsp;</td>
-<td colspan="7">&nbsp;<span class="urhere">
-
-<a href="/?lid=1">NT</a>&nbsp;:&nbsp;<a href="/?bid=22">Visiting</a>&nbsp;:&nbsp;<a href="/?bid=3">Website Help</a>&nbsp;:&nbsp;<a href="/?lid=2595">Privacy</a>
-
-</span></td>
-<td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td></tr>
-
-<tr bgcolor="#990066"><td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td colspan="11"><img src="images/spacer.gif" width="1" height="12" hspace="0" vspace="0" border="0" alt=""></td>
-<td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td></tr>
-
-<!--tr><td bgcolor="#ffffff"></td>
-<td colspan="6" bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td bgcolor="#ffffff"></td></tr -->
-
-<tr class="tdnav"><td class="tdnav" width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td width="2"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="2" height="1"></td>
-<td valign="bottom">
-<!--- start dhtmlmenu nav2-->
-
       <script type="text/javascript" language="Javascript">
-      if (!nav2top) var nav2top=0;
-      if (!nav2left) var nav2left=0;
-      if (!nav2Color) var nav2Color=0;
+      if (!whatsonmenutop) var whatsonmenutop=0;
+      if (!whatsonmenuleft) var whatsonmenuleft=0;
+      if (!whatsonmenuColor) var whatsonmenuColor=0;
       </script>
-      <div class="dhtmlmenuBar" onmouseover="reveal('dhtmlmenu-5', this, true,10,nav2top,nav2left  );
-navbarhighlight(this, 'anav21','red','white', nav2Color);" onmouseout="reSetTimeout('mo bar');navbarlowlight(this, 'anav21','white','red', nav2Color);" onclick="window.location='/?lid=29';">
-<a class="dhtmlmenuBar" href="/?lid=29" id="anav21" onmouseover="if (!document.layers) return; reveal('dhtmlmenu-5', this, true,10,nav2top,nav2left  );
-navbarhighlight(this, 'anav21','red','white', nav2Color);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'anav21','white','red', nav2Color);" onblur="reSetTimeout('blur')">WHAT'S ON</a></div>
+      <div class="dhtmlmenuBar" onmouseover="reveal('dhtmlmenu-5', this, true,9,whatsonmenutop,whatsonmenuleft  );
+navbarhighlight(this, 'awhatsonmenu1','red','white', whatsonmenuColor);" onmouseout="reSetTimeout('mo bar');navbarlowlight(this, 'awhatsonmenu1','white','red', whatsonmenuColor);" onclick="window.location='/?lid=29';">
+<a class="dhtmlmenuBar" href="/?lid=29" id="awhatsonmenu1" onmouseover="if (!document.layers) return; reveal('dhtmlmenu-5', this, true,9,whatsonmenutop,whatsonmenuleft  );
+navbarhighlight(this, 'awhatsonmenu1','red','white', whatsonmenuColor);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'awhatsonmenu1','white','red', whatsonmenuColor);" onblur="reSetTimeout('blur')">WHAT'S ON</a></div>
 <div id="dhtmlmenu-5" class="dhtmlmenu" onmouseover="clearTimeout(NavBars);" onmouseout="reSetTimeout('mo sub');">
 <div class="dhtdiv" onmouseover="highlight(this,
-      'anav22','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav22','white','red', nav2Color);" onclick="window.location='/?lid=171';"><a id="anav22" href="/?lid=171" onblur="highlight(this, 'anav22','white','red', nav2Color);">Productions</a></div>
+      'awhatsonmenu2','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu2','white','red', whatsonmenuColor);" onclick="window.location='/?lid=171';"><a id="awhatsonmenu2" href="/?lid=171" onblur="highlight(this, 'awhatsonmenu2','white','red', whatsonmenuColor);">Productions</a></div>
 <div class="dhtdiv" onmouseover="highlight(this,
-      'anav23','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav23','white','red', nav2Color);" onclick="window.location='/?lid=1355';"><a id="anav23" href="/?lid=1355" onblur="highlight(this, 'anav23','white','red', nav2Color);">Platforms</a></div>
+      'awhatsonmenu3','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu3','white','red', whatsonmenuColor);" onclick="window.location='/?lid=1355';"><a id="awhatsonmenu3" href="/?lid=1355" onblur="highlight(this, 'awhatsonmenu3','white','red', whatsonmenuColor);">Platforms</a></div>
 <div class="dhtdiv" onmouseover="highlight(this,
-      'anav24','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav24','white','red', nav2Color);" onclick="window.location='/?lid=1946';"><a id="anav24" href="/?lid=1946" onblur="highlight(this, 'anav24','white','red', nav2Color);">Exhibitions</a></div>
+      'awhatsonmenu4','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu4','white','red', whatsonmenuColor);" onclick="window.location='/?lid=1946';"><a id="awhatsonmenu4" href="/?lid=1946" onblur="highlight(this, 'awhatsonmenu4','white','red', whatsonmenuColor);">Exhibitions</a></div>
 <div class="dhtdiv" onmouseover="highlight(this,
-      'anav25','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav25','white','red', nav2Color);" onclick="window.location='/?lid=5380';"><a id="anav25" href="/?lid=5380" onblur="highlight(this, 'anav25','white','red', nav2Color);">Events</a></div>
+      'awhatsonmenu5','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu5','white','red', whatsonmenuColor);" onclick="window.location='/?lid=1821';"><a id="awhatsonmenu5" href="/?lid=1821" onblur="highlight(this, 'awhatsonmenu5','white','red', whatsonmenuColor);">Free&nbsp;Foyer&nbsp;Music</a></div>
 <div class="dhtdiv" onmouseover="highlight(this,
-      'anav26','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav26','white','red', nav2Color);" onclick="window.location='/?lid=1821';"><a id="anav26" href="/?lid=1821" onblur="highlight(this, 'anav26','white','red', nav2Color);">Free&nbsp;Foyer&nbsp;Music</a></div>
+      'awhatsonmenu6','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu6','white','red', whatsonmenuColor);" onclick="window.location='/?lid=18';"><a id="awhatsonmenu6" href="/?lid=18" onblur="highlight(this, 'awhatsonmenu6','white','red', whatsonmenuColor);">Backstage&nbsp;Tours</a></div>
 <div class="dhtdiv" onmouseover="highlight(this,
-      'anav27','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav27','white','red', nav2Color);" onclick="window.location='/?lid=18';"><a id="anav27" href="/?lid=18" onblur="highlight(this, 'anav27','white','red', nav2Color);">Backstage&nbsp;Tours</a></div>
+      'awhatsonmenu7','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu7','white','red', whatsonmenuColor);" onclick="window.location='/?lid=1950';"><a id="awhatsonmenu7" href="/?lid=1950" onblur="highlight(this, 'awhatsonmenu7','white','red', whatsonmenuColor);">On&nbsp;Tour&nbsp;&amp;&nbsp;West&nbsp;End</a></div>
 <div class="dhtdiv" onmouseover="highlight(this,
-      'anav28','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav28','white','red', nav2Color);" onclick="window.location='/?lid=1950';"><a id="anav28" href="/?lid=1950" onblur="highlight(this, 'anav28','white','red', nav2Color);">On&nbsp;Tour&nbsp;&amp;&nbsp;West&nbsp;End</a></div>
+      'awhatsonmenu8','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu8','white','red', whatsonmenuColor);" onclick="window.location='/?lid=29';"><a id="awhatsonmenu8" href="/?lid=29" onblur="highlight(this, 'awhatsonmenu8','white','red', whatsonmenuColor);">What's&nbsp;On&nbsp;This&nbsp;Week</a></div>
 <div class="dhtdiv" onmouseover="highlight(this,
-      'anav29','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav29','white','red', nav2Color);" onclick="window.location='/?lid=29';"><a id="anav29" href="/?lid=29" onblur="highlight(this, 'anav29','white','red', nav2Color);">What's&nbsp;On&nbsp;This&nbsp;Week</a></div>
-<div class="dhtdiv" onmouseover="highlight(this,
-      'anav210','zone','zone', nav2Color);" onmouseout="navbarlowlight(this, 'anav210','white','red', nav2Color);" onclick="window.location='/?lid=4099';"><a id="anav210" href="/?lid=4099" onblur="highlight(this, 'anav210','white','red', nav2Color);">Calendar</a></div>
+      'awhatsonmenu9','zone','zone', whatsonmenuColor);" onmouseout="navbarlowlight(this, 'awhatsonmenu9','white','red', whatsonmenuColor);" onclick="window.location='/?lid=4099';"><a id="awhatsonmenu9" href="/?lid=4099" onblur="highlight(this, 'awhatsonmenu9','white','red', whatsonmenuColor);">Calendar</a></div>
 </div>
 <!--- end dhtmlmenu -->
+
+
 </td>
-<td width="1"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td valign="bottom">
-<!--- start dhtmlmenu tickets_nav-->
-
-      <script type="text/javascript" language="Javascript">
-      if (!tickets_navtop) var tickets_navtop=0;
-      if (!tickets_navleft) var tickets_navleft=0;
-      if (!tickets_navColor) var tickets_navColor=0;
-      </script>
-      <div class="dhtmlmenuBar" onmouseover="
-navbarhighlight(this, 'atickets_nav1','red','white', tickets_navColor);" onmouseout="reSetTimeout('mo bar');navbarlowlight(this, 'atickets_nav1','white','red', tickets_navColor);" onclick="window.location='/?lid=2193';">
-<a class="dhtmlmenuBar" href="/?lid=2193" id="atickets_nav1" onmouseover="if (!document.layers) return; 
-navbarhighlight(this, 'atickets_nav1','red','white', tickets_navColor);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'atickets_nav1','white','red', tickets_navColor);" onblur="reSetTimeout('blur')">BUY TICKETS</a></div>
-
-<!--- end dhtmlmenu -->
-</td>
-<td width="1"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td class="tdnav">
-<!--- start dhtmlmenu nav1-->
-
-      <script type="text/javascript" language="Javascript">
-      if (!nav1top) var nav1top=0;
-      if (!nav1left) var nav1left=0;
-      if (!nav1Color) var nav1Color=0;
-      </script>
-      <div class="dhtmlmenuBar" onmouseover="reveal('dhtmlmenu-4', this, true,6,nav1top,nav1left  );
-navbarhighlight(this, 'anav11','red','white', nav1Color);" onmouseout="reSetTimeout('mo bar');navbarlowlight(this, 'anav11','white','zone', nav1Color);">
-<a class="dhtmlmenuBar" href="" id="anav11" onmouseover="if (!document.layers) return; reveal('dhtmlmenu-4', this, true,6,nav1top,nav1left  );
-navbarhighlight(this, 'anav11','red','white', nav1Color);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'anav11','white','zone', nav1Color);" onblur="reSetTimeout('blur')">EXPLORE</a></div>
-<div id="dhtmlmenu-4" class="dhtmlmenu" onmouseover="clearTimeout(NavBars);" onmouseout="reSetTimeout('mo sub');">
-<div class="dhtdiv" onmouseover="highlight(this,
-      'anav12','white','#CC3399', nav1Color);" onmouseout="navbarlowlight(this, 'anav12','white','zone', nav1Color);" onclick="window.location='/?lid=9';"><a id="anav12" href="/?lid=9" onblur="highlight(this, 'anav12','white','zone', nav1Color);">Visiting</a></div>
-<div class="dhtdiv" onmouseover="highlight(this,
-      'anav13','white','#66CC33', nav1Color);" onmouseout="navbarlowlight(this, 'anav13','white','zone', nav1Color);" onclick="window.location='/?lid=2';"><a id="anav13" href="/?lid=2" onblur="highlight(this, 'anav13','white','zone', nav1Color);">Learning</a></div>
-<div class="dhtdiv" onmouseover="highlight(this,
-      'anav14','white','#ff9900', nav1Color);" onmouseout="navbarlowlight(this, 'anav14','white','zone', nav1Color);" onclick="window.location='/?lid=26';"><a id="anav14" href="/?lid=26" onblur="highlight(this, 'anav14','white','zone', nav1Color);">Backstage</a></div>
-<div class="dhtdiv" onmouseover="highlight(this,
-      'anav15','white','#3399CC', nav1Color);" onmouseout="navbarlowlight(this, 'anav15','white','zone', nav1Color);" onclick="window.location='/?lid=2593';"><a id="anav15" href="/?lid=2593" onblur="highlight(this, 'anav15','white','zone', nav1Color);">Supporters</a></div>
-<div class="dhtdiv" onmouseover="highlight(this,
-      'anav16','white','#999999', nav1Color);" onmouseout="navbarlowlight(this, 'anav16','white','zone', nav1Color);" onclick="window.location='/?lid=16';"><a id="anav16" href="/?lid=16" onblur="highlight(this, 'anav16','white','zone', nav1Color);">Bookshop</a></div>
-</div>
-<!--- end dhtmlmenu -->
-</td>
-<td width="1"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td class="tdnav">
-<!--- start dhtmlmenu talk_shop_nav-->
-
-      <script type="text/javascript" language="Javascript">
-      if (!talk_shop_navtop) var talk_shop_navtop=0;
-      if (!talk_shop_navleft) var talk_shop_navleft=0;
-      if (!talk_shop_navColor) var talk_shop_navColor=0;
-      </script>
-      <div class="dhtmlmenuBar" onmouseover="
-navbarhighlight(this, 'atalk_shop_nav1','red','white', talk_shop_navColor);" onmouseout="reSetTimeout('mo bar');navbarlowlight(this, 'atalk_shop_nav1','white','red', talk_shop_navColor);" onclick="window.location='/?lid=2262';">
-<a class="dhtmlmenuBar" href="/?lid=2262" id="atalk_shop_nav1" onmouseover="if (!document.layers) return; 
-navbarhighlight(this, 'atalk_shop_nav1','red','white', talk_shop_navColor);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'atalk_shop_nav1','white','red', talk_shop_navColor);" onblur="reSetTimeout('blur')">TALKBACK</a></div>
-
-<!--- end dhtmlmenu -->
-</td>
-<td width="1"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td class="tdnav">
-<!--- start dhtmlmenu subscribe_nav-->
-
-      <script type="text/javascript" language="Javascript">
-      if (!subscribe_navtop) var subscribe_navtop=0;
-      if (!subscribe_navleft) var subscribe_navleft=0;
-      if (!subscribe_navColor) var subscribe_navColor=0;
-      </script>
-      <div class="dhtmlmenuBar" onmouseover="
-navbarhighlight(this, 'asubscribe_nav1','red','white', subscribe_navColor);" onmouseout="reSetTimeout('mo bar');navbarlowlight(this, 'asubscribe_nav1','white','red', subscribe_navColor);" onclick="window.location='/?lid=2593';">
-<a class="dhtmlmenuBar" href="/?lid=2593" id="asubscribe_nav1" onmouseover="if (!document.layers) return; 
-navbarhighlight(this, 'asubscribe_nav1','red','white', subscribe_navColor);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'asubscribe_nav1','white','red', subscribe_navColor);" onblur="reSetTimeout('blur')">JOIN / SUPPORT</a></div>
-
-<!--- end dhtmlmenu -->
-</td>
-<td width="1"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td class="tdnav">
-<!--- start dhtmlmenu search_nav-->
-
-      <script type="text/javascript" language="Javascript">
-      if (!search_navtop) var search_navtop=0;
-      if (!search_navleft) var search_navleft=0;
-      if (!search_navColor) var search_navColor=0;
-      </script>
-      <div class="dhtmlmenuBar" onmouseover="
-navbarhighlight(this, 'asearch_nav1','red','white', search_navColor);" onmouseout="reSetTimeout('mo bar');navbarlowlight(this, 'asearch_nav1','white','red', search_navColor);" onclick="window.location='/?lid=152';">
-<a class="dhtmlmenuBar" href="/?lid=152" id="asearch_nav1" onmouseover="if (!document.layers) return; 
-navbarhighlight(this, 'asearch_nav1','red','white', search_navColor);" onmouseout="if (!document.layers) return; reSetTimeout('a mo');navbarlowlight(this, 'asearch_nav1','white','red', search_navColor);" onblur="reSetTimeout('blur')">SEARCH</a></div>
-
-<!--- end dhtmlmenu -->
-</td>
-<td class="tdnav" width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td></tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody><tr valign="middle">
+<td><div class="menubutton_selected"><span class="visiting"><a href="/visiting">visiting</a></span></div></td>
+<td><div class="menubutton"><span class="education"><a href="/education">education</a></span></div></td>
+<td><div class="menubutton"><span class="backstage"><a href="/backstage">backstage</a></span></div></td>
+<td><div class="menubutton"><span class="supporters"><a href="/supporters">supporters</a></span></div></td>
+<td><div class="menubutton"><span class="bookshop"><a href="/bookshop">bookshop</a></span></div></td>
+<td width="100%"><div class="search"><form method="get" action="/?" name="search" id="search" onsubmit="return checkSearch(this,'Search NT');">
+       <input type="text" name="query" value="Search NT" maxlength="50" class="searchBoxinput" onfocus="clearBox(this.form,'Search NT');" onblur="fillBox(this.form,'Search NT');" size="30"><input type="hidden" name="lid" value="16254"><input type="submit" name="go" class="searchSubmit" value="GO"></form></div></td>
+</tr>
 </tbody></table>
-</div>
 
-
-<!-- TABLE 2 - start being white : START of main area table -->
-<div class="content">
-<a href="http://tincan.co.uk" class="smgry" id="tincanlink">Bespoke Advanced Websites</a>
-<table border="0" class="content" cellpadding="0" cellspacing="1">
-<!-- ROW 1 -->
-<tbody><tr>
-<td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
-<td width="2"><img src="images/spacer.gif" width="2" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td width="129"><img src="images/spacer.gif" width="149" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td width="1"><img src="images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td width="153"><img src="images/spacer.gif" width="153" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td width="153"><img src="images/spacer.gif" width="153" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td width="1"><img src="images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td width="149"><img src="images/spacer.gif" width="149" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td width="1"><img src="images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td>
+</td>
 </tr>
 
-<!-- ROW 2 -->
-<tr><td colspan="10" bgcolor="#ffffff"><img src="images/spacer.gif" width="1" height="6" hspace="0" vspace="0" border="0" alt=""></td></tr>
+</tbody></table>
 
-<!-- ROW 3 Vertical Spacers and TITLES : Section - Page - Also  -->
-<!-- TITLE: Trunk : Branch : Leaf -->
-<tr><td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td><td></td>
 
-<td valign="top" align="center"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="middle" class="titlecol1"> Visiting<img src="images/spacer.gif" width="1" height="15" hspace="0" vspace="0" border="0" alt=""></td></tr></tbody></table></td>
-
-<!-- vertical spacer  --><td><img src="images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-
-<!-- TITLE: Page --><td align="left" colspan="4"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="middle" align="left" class="titlepics"><b>Website Help</b> Privacy</td><td><img src="images/spacer.gif" width="1" height="10" hspace="0" vspace="0" border="0" alt=""></td></tr></tbody></table></td>
-
-<td></td><td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td></tr>
-<!-- END of ROW 3 -->
-
-<!-- ROW 4 : SPACER ROW -->
-<tr><td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td><td><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td colspan="6" background="/images/dotgrydot-hor.gif"><img src="/images/dotgrydot-hor.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td><td width="50%"><img src="/images/spacer.gif" border="0" hspace="0" vspace="0" width="1" height="1"></td></tr>
-<!-- END OF ROW 4 : END of SPACER ROW -->
 <!-- end header table -->
 
-<!-- ROW 5: lefthand menu, main text area and righthand menu  -->
-<!-- lefthand menu area --><tr><td width="50%"></td><td></td>
 
-<td align="left" valign="top">
-<!--LEFT HAND NAV TABLE starts -->
-<table border="0" cellpadding="0" cellspacing="0" width="149">
-<tbody><tr><td class="" colspan="2" rowspan="1" valign="top"><span class="rhm"><!-- cached: leaflist -->
+<!-- start main table -->
+<!--MAIN TABLE starts-->
+<table cellpadding="0" cellspacing="0" border="0" id="outertable">
+<tbody><tr valign="middle">
+<td height="35" width="149"><div class="date"><span class="zonewhatson">Tue 14 Nov</span></div></td>
+<td align="left" width="436"><h1>
 
-<span class="listitemgry_header"></span><ul class="leaflist"><!--title--><li class="listitemgry"><a href="/?lid=3361" class="listitemgrytitle">Website help</a></li><!--title--><li class="listitemgry"><a href="/?lid=152" class="listitemgrytitle">Search</a></li><!--title--><li class="listitemgry"><a href="/?lid=4" class="listitemgrytitle">About this site</a></li><!--title--><li class="listitemgry"><a href="/?lid=7" class="listitemgrytitle">Sitemap</a></li><!--title--><li class="listitemgry"><a href="/?lid=5" class="listitemgrytitle">Terms and Conditions</a></li><!--title--><li class="listitemgry"><a href="/?lid=2595" class="listitemgrytitle">Privacy</a></li></ul>
+<a href="/?lid=1">NT</a>&nbsp;:&nbsp;<a href="/?bid=22">Visiting</a>&nbsp;:&nbsp;<a href="/?bid=3">Website Help</a>&nbsp;:&nbsp;<a href="/?lid=2595" class="crumbleaf">Privacy</a>
 
-</span></td></tr>
-</tbody></table>
-<!--LEFT HAND NAV TABLE ends -->
-
+</h1></td>
+<td width="155" align="right">
+<div class="functions">
+<a class="normal" title="normal text" href="#" onclick="setActiveStyleSheet('', 1);return false;"><img src="/images/textnorm.gif" width="15" height="14" alt="normal text" border="0"></a>
+<a class="large" title="large text" href="#" onclick="setActiveStyleSheet('Large Text', 1);return false;"><img src="/images/textbg.gif" width="15" height="14" alt="large text" border="0"></a>
+<a class="large" title="larger text" href="#" onclick="setActiveStyleSheet('Larger Text', 1);return false;"><img src="/images/textbg2.gif" width="15" height="14" alt="larger text" border="0"></a>
+<a href="/textonly" title="text only"><img src="/images/textonly.gif" width="15" height="14" alt="text only" border="0"></a>
+<a href="/?lid=2595&amp;tmpl=ntmainprint" title="printer friendly"><img src="/images/printpage.gif" width="15" height="14" alt="printer friendly" border="0"></a>
+<a class="mailafriendlink" href="#" onclick="window.open('/?lid=12506&amp;uri=%2Fprivacy','mailafriend','width=400,height=420,toolbar=no,location=no,directories=no,status=no,menubar=no;scrollbars=no,copyhistory=no,resizable=no,screenx=100,screeny=100,left=100,top=100')"><img src="/images/email.gif" width="15" height="14" alt="e-mail this page to a friend" border="0" title="e-mail this page to a friend"></a>
+</div>
 </td>
-<!-- end of lefthand menu area -->
+</tr>
 
-<!-- Vertical spacer --><td rowspan="1" width="1" background="images/dotgrydot.gif"><img src="images/dotgrydot.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
+<tr valign="top">
+<td class="leftmenu">
+<ul class="namedmenu"><!--22 3 --><li class="itemstyle"><a href="/?bid=22">National Theatre</a></li>
+<!--23 3 --><li class="itemstyle"><a href="/?bid=23">How to get here</a></li>
+<!--28 3 --><li class="itemstyle"><a href="/?bid=28">Disability Access</a></li>
+<!--30 3 --><li class="itemstyle"><a href="/?bid=30">Food &amp; Drink</a></li>
+<!--31 3 --><li class="itemstyle"><a href="/?bid=31">Backstage Tours</a></li>
+<!--29 3 --><li class="itemstyle"><a href="/?bid=29">Bookshop</a></li>
+<!--179 3 --><li class="itemstyle"><a href="/?bid=179">Functions &amp; Private Hire</a></li>
+<!--25 3 --><li class="itemstyle"><a href="/?bid=25">Contact Details</a></li>
+<!--218 3 --><li class="itemstyle"><a href="/?bid=218">Hire Department</a></li>
+<!--33 3 --><li class="itemstyle"><a href="/?bid=33">Three theatres</a></li>
+<!--34 3 --><li class="itemstyle"><a href="/?bid=34">Virtual Tours</a></li>
+<!--84 3 --><li class="itemstyle"><a href="/?bid=84">Press Office</a></li>
+<!--24 3 --><li class="itemstyle"><a href="/?bid=24">Links</a></li>
+<!--27 3 --><li class="itemstyle"><a href="/?bid=27">FAQs</a></li>
+<li class="selecteditemstyle"><a href="/?bid=3">Website Help</a></li>
+</ul></td>
 
-<!-- main section -->
-<td align="left" valign="top" class="learntext" colspan="2">
+<td>
+<div class="maincontent">
 
-<!-- main section table -->
-<table border="0" cellpadding="5" cellspacing="0" width="300">
-<tbody><tr><td class="learnsubhdr"></td></tr>
-<tr><td class="learntext">
-<p>
 
 The National Theatre - Privacy Policy
 
-</p><p>
+<p></p>
 
 <b>1. Privacy commitment </b>
-<br>The nationaltheatre.org.uk website is owned and operated by The National Theatre. We are committed to safeguarding your privacy online and to this end have developed the following Privacy Policy to deal with issues which may concern you. Please read the Privacy Policy to understand how your personal information will be treated. This policy may change from time to time so please check it periodically. </p><p class="text">
+<br>The nationaltheatre.org.uk website is owned and operated by The National Theatre. We are committed to safeguarding your privacy online and to this end have developed the following Privacy Policy to deal with issues which may concern you. Please read the Privacy Policy to understand how your personal information will be treated. This policy may change from time to time so please check it periodically. <p></p>
 
 <br><b>2. Personal Information</b>
-<br>2.1 The details which you provide about yourself and any information which identifies you such as your name, address, email address, telephone number, country of residence and credit and debit card details ("Personal Information") will only be retained by us if you provide this information when using one of the services available on our website, such as posting a message on the Bulletin Board, subscribing to one of our email lists or when purchasing tickets.  Personal Information will be  held on our system and used for operational purposes such as the processing of bookings and orders in connection with our on-line ticket and book ordering services and for mailing list subscriptions.   </p><p class="text">
-In order to process a transaction, your Personal Information and card details may be passed to third party service providers.  Card details will only be used for the purpose of handling an individual transaction.</p><p class="text">
-The Personal Information you supply when you join one of our e-mail lists will be used by the National Theatre to keep you up-to-date with events and activities produced by the National Theatre. When purchasing tickets you are given the opportunity to opt in to receiving news and information from the National Theatre and other arts organisations. When joining one of our e-mail lists you are given the opportunity to opt in to receiving information from other arts organisations. The National Theatre will only pass on your Personal Information if the relevant box has been ticked. In these instances, we supply your Personal Information for one-off use by the other arts organisation. Each e-mail we send you offers you the opportunity to amend these preferences, or you can ask us to do this, by e-mailing <a href="mailto:marketing@nationaltheatre.org.uk." class="email">marketing@nationaltheatre.org.uk.</a></p><p class="text">
-2.2 If you would like to revise the information provided to us at any time, or feel what we currently have on record is incorrect, you may update the information by e-mailing <a href="mailto:marketing@nationaltheatre.org.uk." class="email">marketing@nationaltheatre.org.uk.</a></p><p class="text">
-2.3 We may from time to time ask you for further information in order to update our records or for particular purposes. We will always tell you how we will use any further information received from you.  From time to time we will need to send you our website and service announcement updates.</p><p class="text">
+<br>2.1 The details which you provide about yourself and any information which identifies you such as your name, address, email address, telephone number, country of residence and credit and debit card details ("Personal Information") will only be retained by us if you provide this information when using one of the services available on our website, such as posting a message on the Bulletin Board, subscribing to one of our email lists or when purchasing tickets.  Personal Information will be  held on our system and used for operational purposes such as the processing of bookings and orders in connection with our on-line ticket and book ordering services and for mailing list subscriptions.   <p></p>
+In order to process a transaction, your Personal Information and card details may be passed to third party service providers.  Card details will only be used for the purpose of handling an individual transaction.<p></p>
+The Personal Information you supply when you join one of our e-mail lists will be used by the National Theatre to keep you up-to-date with events and activities produced by the National Theatre. When purchasing tickets you are given the opportunity to opt in to receiving news and information from the National Theatre and other arts organisations. When joining one of our e-mail lists you are given the opportunity to opt in to receiving information from other arts organisations. The National Theatre will only pass on your Personal Information if the relevant box has been ticked. In these instances, we supply your Personal Information for one-off use by the other arts organisation. Each e-mail we send you offers you the opportunity to amend these preferences, or you can ask us to do this, by e-mailing <a href="mailto:marketing@nationaltheatre.org.uk" class="email">marketing@nationaltheatre.org.uk</a>.<p></p>
+2.2 If you would like to revise the information provided to us at any time, or feel what we currently have on record is incorrect, you may update the information by e-mailing <a href="mailto:marketing@nationaltheatre.org.uk" class="email">marketing@nationaltheatre.org.uk</a>.<p></p>
+2.3 We may from time to time ask you for further information in order to update our records or for particular purposes. We will always tell you how we will use any further information received from you.  From time to time we will need to send you our website and service announcement updates.<p></p>
 
 <br><b>3. Log files </b>
-<br>3.1 Every time someone visits our web site a log file is generated on our computer. </p><p class="text">
-3.2 The log file records the time and date of your visit, the files that were requested, your IP (Internet Protocol) address, the referrer URL (if provided) and the browser version.  We collect this information to help us diagnose problems and administer our systems and to audit the geographical make-up of users and how they have arrived at our site; that is, from what other sites have visitors arrived - this information being obtained from the referrer URL.  </p><p class="text">
-3.3 We do not normally link IP addresses to anything personally identifiable, which means that you remain anonymous even though we include your IP address in our aggregate information. However, we can and will attempt to use IP addresses to identify a user when we feel it is necessary to enforce compliance with our terms and conditions, or to protect our services and other users.</p><p class="text">
+<br>3.1 Every time someone visits our web site a log file is generated on our computer. <p></p>
+3.2 The log file records the time and date of your visit, the files that were requested, your IP (Internet Protocol) address, the referrer URL (if provided) and the browser version.  We collect this information to help us diagnose problems and administer our systems and to audit the geographical make-up of users and how they have arrived at our site; that is, from what other sites have visitors arrived - this information being obtained from the referrer URL.  <p></p>
+3.3 We do not normally link IP addresses to anything personally identifiable, which means that you remain anonymous even though we include your IP address in our aggregate information. However, we can and will attempt to use IP addresses to identify a user when we feel it is necessary to enforce compliance with our terms and conditions, or to protect our services and other users.<p></p>
 
 <br><b>4. Cookies</b>
-<br>Cookies are small pieces of information that are stored by your browser on your computer's hard drive. They make it possible for us to provide our online ticketing service and will enable us to identify registered users without needing to ask for registration details every time you access our site.  <!--Using cookies make accessing our site more convenient as you don't need to remember your username and password each time you enter.--> For more information on cookies, please visit:
+<br>Cookies are small pieces of information that are stored by your browser on your computer's hard drive. They make it possible for us to provide our online ticketing service.  <p></p>
+For more information on cookies, please visit:
 <br><a href="http://www.google.co.uk/search?hl=en&amp;q=cookies" class="url" target="_blank">www.google.co.uk/search?hl=en&amp;q=cookies</a>
 <br><a href="http://www.cookiecentral.com/faq/" class="url" target="_blank">www.cookiecentral.com/faq/</a>
-<br>Please note that we are not responsible for information available on these websites. </p><p class="text">
+<br>Please note that we are not responsible for information available on these websites. <p></p>
 
 <br><b>5. Use and disclosure of Personal Information</b>
-<br>5.1 If you contact us we reserve the right to keep a record of that correspondence and incorporate the information it contains into our database. </p><p class="text">
-5.2 If we are requested by the police or a regulatory or government authority investigating illegal activities to provide information concerning your activities whilst using the network we shall do so.  Similarly, we will disclose your Personal Information as part of a transaction whereby our company or business assets are transferred to a third party or if we are compelled to do so by law.  </p><p class="text">
+<br>5.1 If you contact us we reserve the right to keep a record of that correspondence and incorporate the information it contains into our database. <p></p>
+5.2 If we are requested by the police or a regulatory or government authority investigating illegal activities to provide information concerning your activities whilst using the network we shall do so.  Similarly, we will disclose your Personal Information as part of a transaction whereby our company or business assets are transferred to a third party or if we are compelled to do so by law.  <p></p>
 
 <br><b>6. How we protect information</b>
-<br>6.1 We take every precaution to protect your information.  To this end all Personal Information stored by us is kept on a server in a secure environment.  Only employees and approved contractors/developers we may appoint from time to time and who need the information to perform a specific job are granted access to personally identifiable information.</p><p class="text">
-6.2 Regular security reviews are held by us to ensure that the site remains safe and secure for your protection.</p><p class="text">
+<br>6.1 We take every precaution to protect your information.  To this end all Personal Information stored by us is kept on a server in a secure environment.  Only employees and approved contractors/developers we may appoint from time to time and who need the information to perform a specific job are granted access to personally identifiable information.<p></p>
+6.2 Regular security reviews are held by us to ensure that the site remains safe and secure for your protection.<p></p>
 
 <br><b>7. Surveys and Promotions</b>
-<br>From time to time we conduct surveys and promotions and may request information from you as part of these.  Participation in these is entirely voluntary and you therefore have a choice whether or not to disclose any information which might be required.  We may also ask you whether you would like to receive promotional emails and mailings from us about our other products or services.  Similarly, you are under no obligation to accept such information (see opt-out link above/below).  </p><p class="text">
+<br>From time to time we conduct surveys and promotions and may request information from you as part of these.  Participation in these is entirely voluntary and you therefore have a choice whether or not to disclose any information which might be required.  We may also ask you whether you would like to receive promotional emails and mailings from us about our other products or services.  Similarly, you are under no obligation to accept such information (see opt-out link above/below).  <p></p>
 
 <br><b>8. Correction/Updating Personal Information</b>
-<br>If your Personal Information changes or if you no longer wish to subscribe to the service, we will endeavour to correct, update or remove the Personal Information provided to us as speedily as possible. This can be done by emailing us at <a href="mailto:marketing@nationaltheatre.org.uk" class="email">marketing@nationaltheatre.org.uk</a> </p><p class="text">
+<br>If your Personal Information changes or if you no longer wish to subscribe to the service, we will endeavour to correct, update or remove the Personal Information provided to us as speedily as possible. This can be done by emailing us at <a href="mailto:marketing@nationaltheatre.org.uk" class="email">marketing@nationaltheatre.org.uk</a> <p></p>
 
 <br><b>9. Users Under 18</b>
 <br>If you are under 18, please ensure that you obtain your parent/guardian's consent beforehand whenever you provide Personal Information to the website.  Users without such consent are not allowed to provide us with Personal Information.
 <br>
 
+<p></p>
 
 
 
 
-Type your keyword(s) into the box below and click 'GO' (or press the return button on your keyboard):<br clear="all"><br clear="all"><br clear="all">
+<span class="hptodaydate">
+</span>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr>
-<td class="content" valign="top"><form method="get" action="/?" name="search" id="search" onsubmit="return checkSearch(this,'- Type search here -');">
-       <input type="hidden" name="lid" value="0">
-       <input type="text" name="query" value="- Type search here -" maxlength="50" class="searchBoxinput" onfocus="clearBox(this.form,'- Type search here -');" onblur="fillBox(this.form,'- Type search here -');" size="30"></form></td>
-<td class="content" valign="middle"><script type="text/javascript">document.writeln('&nbsp;&nbsp;<span class="go"><a href="javascript:document.forms[0].submit();">Go</a></span>');</script>&nbsp;&nbsp;<span class="go"><a href="javascript:document.forms[0].submit();">Go</a></span>
 
-<noscript><input type=image src="images/buttons/search-go-white.gif" width="20" height="20" hspace="0" vspace="0" border="0" alt="Go"></noscript></td></tr></tbody></table>
 
-</p><p>
-</p></td></tr></tbody></table>
-<!-- end of main section table -->
+
+<!--***** SEATING PLAN AND DATES starts *****-->
+<!--***** SEATING PLAN AND DATES ends *****-->
+
+<!-- LOG IN -->
+
+<!-- REGISTER -->
+
+<!-- PRODUCTION CREDITS -->
+
+<!-- ################ start of searchresults listing ################ -->
+<!-- ################ end of searchresults listing ################ -->
+
+<!-- IMAGE CREDITS -->
+
+<!-- BBS -->
+
+<!-- SITEMAP -->
+
+<!-- ASSETS FOR PODCASTING -->
+
+<!-- ATTACHMENTS -->
+
+</div>
+</td>
+<td class="rightcol">
+
+
+<!-- inbasket snippet --><!-- inbasket end -->
+
+<!-- RIGHT HAND IMAGE starts -->
+<!--new right image-->
+<!-- RIGHT HAND IMAGE ends -->
+<!-- RIGHT HAND IMAGE ends -->
+
+
+
+
+
+
+
+
+<p></p><span class="listitemgryheader">IN THIS SECTION</span><ul class="leaflist"><!--title--><li class="listitemgry"><a href="/?lid=3361" class="listitemgrytitle"><span>Website help</span></a></li><!--title--><li class="listitemgry"><a href="/?lid=4" class="listitemgrytitle"><span>About this site</span></a></li><!--title--><li class="listitemgry"><a href="/?lid=19967" class="listitemgrytitle"><span>What is RSS</span></a></li><!--title--><li class="listitemgry"><a href="/?lid=7" class="listitemgrytitle"><span>Sitemap</span></a></li><!--title--><li class="listitemgry"><a href="/?lid=5" class="listitemgrytitle"><span>Terms and Conditions</span></a></li><!--title--><li class="selected"><a href="/?lid=2595" class="selectedtitle"><span>Privacy</span></a></li></ul><p></p>
+<!--?=$data['righthandlogin']?-->
+<div class="rightlogin">
+      <!-- leaffield: righthandlogin -->
+<script language="Javascript" type="text/javascript">
+
+<!--
+if (!navigator.cookieEnabled) {
+  document.write('<div class="error">Cookies must be enabled in order to login</div>');
+}
+//-->
+</script>
+          </div>
+
+<!-- *****CALENDAR SEARCH*****-->
+<!-- *****CALENDAR SEARCH*****-->
+
+
+<!-- ***** Sponsor logo *****-->
+<br><br><br><br>
+<!-- ***** Sponsor logo *****-->
 
 </td>
-<!-- end of main section -->
+</tr>
+</tbody></table>
 
-<!-- vertical spacer  --><td><img src="images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
+<!-- end main table -->
 
-<td colspan="1" rowspan="1" valign="top">
-
-
-</td>
-<td></td><td width="50%"></td></tr>
 
 <!-- start footer table -->
-<!-- Row 6 onwards : Footer -->
-<tr>
-</tr><tr><td width="50%"></td>
-<td><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td>&nbsp;</td>
-<td rowspan="1" width="1" background="/images/dotgrydot.gif"><img src="/images/dotgrydot.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td colspan="3">&nbsp;</td>
-<td class="footer">
-<!-- SPONSOR starts -->
-<!-- SPONSOR ends -->
-<div align="right"><a href="#top" class="rhm">^ TOP</a></div></td>
-<td><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td width="50%"></td></tr>
 
-<!-- Row 7 -->
-<tr><td width="50%"><img src="images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td colspan="6" background="/images/dotgrydot-hor.gif"><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td width="50%"><img src="images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td></tr>
+<!--footer-->
+<table cellpadding="0" cellspacing="0" border="0" width="740">
+<tbody><tr valign="middle" class="footer">
+<td class="footerleft" width="148"><div><a href="./">© National Theatre 2006</a></div></td>
+<td class="footermain"><div>
 
-<!-- Row 8 -->
-<tr><td width="50%"></td>
-<td><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td colspan="6">
-
-<!-- logo and footer links table -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
-<td width="149"><a href="/"><img src="/images/logos/nt_logo-sm.gif" width="55" height="33" hspace="0" vspace="0" border="0" align="top" alt="The Royal National Theatre"></a></td>
-<td class="footer">
-ZONES: <a href="/?lid=29">What's On</a> · <a href="/?lid=9">Visiting</a> · <a href="/?lid=2">Learning</a> · <a href="/?lid=26">Backstage</a> · <a href="/?lid=2593">Join/Support</a><!--  &middot; <a href="/?type=leaf&field=title&value=New+Information">Experimental</a> --><br>
-
-SHOPS: <a href="/?lid=2284">Buy A Ticket</a> · <a href="/?lid=16">NT Bookshop</a> · <a href="/?lid=2262">NT Talkback</a><br>
-
-GUIDES: <a href="/?lid=152">Search</a> · <a href="/?lid=12">Contact</a> · <a href="/?lid=3361">Help?</a> · <a href="/?lid=5">©</a> · <a href="/?lid=1403">FAQ </a> · <a href="/?lid=7">Sitemap</a> · <a href="/?lid=1652">Accessibility</a> · <a href="/textonly">Text only</a> · <a href="/?lid=4">About the site</a></td>
-</tr></tbody></table>
-<!-- end of logo and footer links table -->
-
-</td>
-<td><img src="/images/spacer.gif" width="1" height="1" hspace="0" vspace="0" border="0" alt=""></td>
-<td width="50%"></td></tr></tbody></table><!-- end of 100% width table -->
-</div>
-<p>&nbsp;</p>
+<ul class="footerlinks"><li><a href="/termsandconditions">T&amp;Cs</a>::</li>
+<li><a href="/privacy">Privacy</a>::</li>
+<li><a href="/accessibility">Accessibility</a>::</li>
+<li><a href="/sitemap">Sitemap</a>::</li>
+<li><a href="/websitehelp">Website Help</a>::</li>
+<li><a href="/contact">Contact Us</a></li>
+</ul>
 
 
+<a href="#top" class="pagetop"><span></span></a></div></td>
+<td class="footerright"><div>Powered by <a href="http://tincan.co.uk/webbler" target="_blank">the webbler</a></div></td>
+</tr>
+</tbody></table>
+<!-- *** SUMMIT MEDIA LANDING PAGE CODE 3.0 *** -->
+<script language="JavaScript" type="text/javascript" defer="defer" src="https://tracking.summitmedia.co.uk/tracking/show.php?id=851398812&amp;location=LandPage&amp;domain=nationaltheatre.org.uk"></script>
+<noscript><img src="https://tracking.summitmedia.co.uk/tracking/log.php?id=851398812&loc=LandPage&domain=nationaltheatre.org.uk" border="0" width="1" height="1"></noscript>
+<!-- ^^^ SUMMIT MEDIA LANDING PAGE CODE 3.0 ^^^ -->
 
 
 <!-- end footer table -->
+</div>
 
 
-<!--<font style="{font-size:8;font-color:#cccccc}">89 db queries in 0.321058 seconds</font>--></body></html>
+
+
+
+
+
+<!--<font style="{font-size:8;font-color:#cccccc}">
+PCE:0.001606
+270 db queries in 0.668049 seconds</font>--></body></html>
