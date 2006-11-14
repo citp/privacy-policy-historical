@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2006-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060517125750id_/http%3A//www.mohela.com/Misc/Info/Info_PrivacyAct.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114134343id_/https%3A//www.mohela.com/Misc/Info/Info_PrivacyAct.asp) for the most accurate reproduction.*
 
 # MOHELA Privacy Policy
 
@@ -27,4 +27,4 @@ We do not sell or share customer information to nonaffiliated third parties for 
 _Security_  
 We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.  
    
-[Internet Privacy Policy](https://web.archive.org/web/20060517125750id_/http%3A//www.mohela.com/Misc/Info/Info_InternetPrivacyAct.asp)
+[Internet Privacy Policy](https://web.archive.org/web/20061114134343id_/https%3A//www.mohela.com/Misc/Info/Info_InternetPrivacyAct.asp)
