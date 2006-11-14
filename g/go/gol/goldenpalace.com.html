@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goldenpalace.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615201212id_/http%3A//goldenpalace.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldenpalace.com privacy policy that was archived on 2006-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061114072043id_/http%3A//www.goldenpalace.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript">
 <!--
@@ -68,8 +68,8 @@ function adjust() {
 			var dy=Math.abs(window.pageYOffset+floatY-lastY);
 			var d=Math.sqrt(dx*dx+dy*dy);
 			var c=Math.round(d/10);
-			// if (window.pageXOffset+floatX>lastX) {lastX=lastX+delayspeed+c;}
-			// if (window.pageXOffset+floatX<lastX) {lastX=lastX-delayspeed-c;}
+			if (window.pageXOffset+floatX>lastX) {lastX=lastX+delayspeed+c;}
+			if (window.pageXOffset+floatX<lastX) {lastX=lastX-delayspeed-c;}
 			if (window.pageYOffset+floatY>lastY) {lastY=lastY+delayspeed+c;}
 			if (window.pageYOffset+floatY<lastY) {lastY=lastY-delayspeed-c;}
 		}
@@ -101,8 +101,8 @@ function adjust() {
 			var dy=Math.abs(document.body.scrollTop+floatY-lastY);
 			var d=Math.sqrt(dx*dx+dy*dy);
 			var c=Math.round(d/10);
-			// if (document.body.scrollLeft+floatX>lastX) {lastX=lastX+delayspeed+c;}
-			// if (document.body.scrollLeft+floatX<lastX) {lastX=lastX-delayspeed-c;}
+			if (document.body.scrollLeft+floatX>lastX) {lastX=lastX+delayspeed+c;}
+			if (document.body.scrollLeft+floatX<lastX) {lastX=lastX-delayspeed-c;}
 			if (document.body.scrollTop+floatY>lastY) {lastY=lastY+delayspeed+c;}
 			if (document.body.scrollTop+floatY<lastY) {lastY=lastY-delayspeed-c;}
 		}
@@ -116,6 +116,22 @@ function adjust() {
 }
 
 function define(){
+
+	// get pos of logo_bottom.gif
+	if (NS4 || NS6){
+		xPos=eval('document.LogoBottom').x;
+		yPos=eval('document.LogoBottom').y;
+	}else if (IE4){
+		xPos = eval('document.LogoBottom').offsetLeft;
+		tempEl = eval('document.LogoBottom').offsetParent;
+		while (tempEl != null) {
+			xPos += tempEl.offsetLeft;
+			tempEl = tempEl.offsetParent;
+		}
+	}
+	ifloatX=xPos+576;
+	ifloatY=floatY;
+
 	if ((NS4) || (NS6)){ 
 		if (halign=="left") {floatX=ifloatX};
 		if (halign=="right") {floatX=window.innerWidth-ifloatX-layerwidth-20};
@@ -161,7 +177,8 @@ function define(){
 						<nobr>
 						<span class="ni_lang">						
 						<!-- Currency: -->
-						<img src="/images/curr_usd_on.gif" width="17" height="17" alt="" border="0" align="absmiddle"><a href="/cashier.php"><img src="/images/curr_euro_off.gif" width="17" height="17" alt="" border="0" align="absmiddle"></a><a href="/cashier.php"><img src="/images/curr_pound_off.gif" width="15" height="17" alt="" border="0" align="absmiddle"></a><a href="/cashier.php"><img src="/images/curr_yen_off.gif" width="15" height="17" alt="" border="0" align="absmiddle"></a><a href="/cashier.php"><img src="/images/curr_yuan_off.gif" width="19" height="17" alt="" border="0" align="absmiddle"></a><a href="/cashier.php"><img src="/images/curr_hkd_off.gif" width="32" height="17" alt="" border="0" align="absmiddle"></a>						</span>
+						<img src="/images/curr_usd_on.gif" width="17" height="17" alt="" border="0" align="absmiddle"><a href="/cashier.php"><img src="/images/curr_euro_off.gif" width="17" height="17" alt="" border="0" align="absmiddle"></a><a href="/cashier.php"><img src="/images/curr_pound_off.gif" width="15" height="17" alt="" border="0" align="absmiddle"></a><a href="/cashier.php"><img src="/images/curr_yen_off.gif" width="15" height="17" alt="" border="0" align="absmiddle"></a><a href="/cashier.php"><img src="/images/curr_yuan_off.gif" width="19" height="17" alt="" border="0" align="absmiddle"></a><a href="/cashier.php"><img src="/images/curr_hkd_off.gif" width="32" height="17" alt="" border="0" align="absmiddle"></a>						
+						</span>
 						</nobr>
 					</td>
 					<td><img src="/images/spacer.gif" width="20" height="1" alt=""></td>
@@ -213,6 +230,8 @@ function define(){
 				</tr>
 			</tbody></table>
 			
+			<img src="/images/spacer.gif" width="1" height="10" alt=""><br>
+			<img src="/images/goldenpalacetm.gif" width="132" height="67" alt=""><br>
 			<img src="/images/spacer.gif" width="1" height="10" alt=""><br>
 			<a href="/playnow.php"><img src="/images/payouts.gif" width="132" height="93" alt="" border="0"></a><br>
 			
@@ -382,7 +401,7 @@ function define(){
 		<td><img src="/images/spacer.gif" width="1" height="1" alt=""></td>
 		<td>
 			<img src="/images/spacer.gif" width="759" height="1" alt=""><br>
-			<span class="copyright">Copyright © 1997 - 2006 GoldenPalace.com. All Rights Reserved. Webmasters, remember to join our <a class="copyright" href="http://www.casinoblasters.com" target="_blank">Casino Affiliate Program</a>!<br>Read our <a class="copyright" href="/privacy.php">Privacy Statement</a>.</span>			<br><br><br>
+			<span class="copyright">Copyright © 2006 GoldenPalace.com  ™ . All Rights Reserved. Webmasters, remember to join our <a class="copyright" href="http://adv.casinoblasters.com/index.php?" target="_blank">Casino Affiliate Program</a>!<br>Read our <a class="copyright" href="/privacy.php">Privacy Statement</a>.</span>			<br><br><br>
 		</td>
 	</tr>
 </tbody></table>
@@ -402,22 +421,6 @@ if (NS4){
 if ((IE4) || (NS6)){
 	document.write('</DIV>');
 }
-
-// get pos of logo_bottom.gif
-if (NS4 || NS6){
-	xPos=eval('document.LogoBottom').x;
-	yPos=eval('document.LogoBottom').y;
-}else if (IE4){
-	xPos = eval('document.LogoBottom').offsetLeft;
-	tempEl = eval('document.LogoBottom').offsetParent;
-	while (tempEl != null) {
-		xPos += tempEl.offsetLeft;
-		tempEl = tempEl.offsetParent;
-	}
-}
-
-ifloatX=xPos+576;
-ifloatY=floatY;
 
 define();
 window.onresize=define;
@@ -448,6 +451,10 @@ document.write('<img width=1 height=1 border=0 hspace=0 '+'vspace=0 src="http://
 </script><img width="1" height="1" border="0" hspace="0" vspace="0" src="http://trax.inspectorclick.com/casinos/counter.php?a=gp&amp;agt=mozilla/5.0%20%28x11%3B%20linux%20x86_64%29%20applewebkit/537.36%20%28khtml%2C%20like%20gecko%29%20headlesschrome/69.0.3494.0%20safari/537.36&amp;img=./buttons/b5.jpg&amp;r=&amp;aN=Netscape&amp;lg=undefined&amp;OS=Linux%20x86_64&amp;aV=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;cd=24&amp;p=800x600&amp;je=false">
 <noscript><img width=1 height=1 border=0 hspace=0 vspace=0 src="http://trax.inspectorclick.com/casinos/counter.php?a=gp"></noscript>
 <!------------------------------------------------------- [End Tracking Code] -->
+
+
+
+
 
 
 </body></html>
