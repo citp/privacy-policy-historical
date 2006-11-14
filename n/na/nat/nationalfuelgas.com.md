@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalfuelgas.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322010042id_/http%3A//nationalfuelgas.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalfuelgas.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114171017id_/http%3A//www.nationalfuelgas.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # National Fuel Gas Company
 
