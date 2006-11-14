@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interwoven.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040724id_/http%3A//interwoven.com/company/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interwoven.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115001406id_/http%3A//interwoven.com/company/privacy_statement.html) for the most accurate reproduction.*
 
 # Interwoven Corporate - Privacy Statement
 
