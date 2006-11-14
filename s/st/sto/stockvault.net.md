@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockvault.net privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618041040id_/http%3A//www.stockvault.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockvault.net privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114135039id_/http%3A//www.stockvault.net/privacy.php) for the most accurate reproduction.*
 
 # Stockvault.net - Privacy Statement
 
@@ -30,4 +30,4 @@ We use your IP address to gather broad demographic information which allows us t
 
 **Contacting the Web Site  
 **  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by filling out [this form](https://web.archive.org/web/20060618041040id_/http%3A//www.stockvault.net/gallery/contact.php) or directly at: info(at)stockvault.net 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by filling out [this form](https://web.archive.org/web/20061114135039id_/http%3A//www.stockvault.net/gallery/contact-us.php) or directly at: info(at)stockvault.net 
