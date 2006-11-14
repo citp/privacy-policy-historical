@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621092004id_/http%3A//pure-mac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114024939id_/http%3A//www.pure-mac.com/privacy.html) for the most accurate reproduction.*
 
-# Pure Mac - Software For Macintosh
+# Privacy Statement for Pure-Mac.com
 
 * * *
 
   
-** Privacy Statement for Pure Mac **
+**Privacy Statement for Pure-Mac.com**
 
 **Pure Mac** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Pure Mac](http://www.pure-mac.com/)
 
@@ -15,7 +15,7 @@ We use your IP address to gather broad demographic information pretty much so we
 
 **Advertisers**
 
-We may use an outside ad company to display ads on our site. These ads may contain cookies. While Pure Mac does not use cookies, cookies received with banner ads may be collected by our ad company if we had one, and we do not have access to this information. 
+We may use an outside ad company to display ads on our site. These ads may contain cookies. While Pure Mac does not use cookies, cookies received with banner ads may be collected by our ad agency and we do not have access to this information. 
 
 **External Links**
 
