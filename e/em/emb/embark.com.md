@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embark.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613011007id_/http%3A//www.princetonreview.com/footer/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embark.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114193600id_/http%3A//www.princetonreview.com/footer/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | The Princeton Review
 
