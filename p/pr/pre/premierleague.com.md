@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premierleague.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406132121id_/http%3A//www.premierleague.com/fapl.rac%3Fcommand%3DforwardOnly%26nextPage%3DenBottomLinks%26link%3Dprivacy%26categoryCode%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierleague.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114082218id_/http%3A//www.premierleague.com/fapl.rac%3Fcommand%3DforwardOnly%26nextPage%3DenBottomLinks%26link%3Dprivacy%26categoryCode%3DPrivacyPolicy) for the most accurate reproduction.*
 
-# premierleague.com - premierleague.com
+# premierleague.com -
 
 **The privacy of your personal data is important to the FAPL. We will comply with our obligations under the Data Protection Act 1998 and related legislation (the "Act"). The following sets out what we do and what we do not do with the information we collect using this Website.**
 
