@@ -1,0 +1,1253 @@
+<!--The following is the downloaded HTML source of the pharmdaily.com privacy policy that was archived on 2006-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061114014320id_/http%3A//pharmdaily.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<link rel="stylesheet" type="text/css" href="/common/PharmDaily.css">
+<script language="JavaScript">
+function isPercent(str)
+{
+	var nNum = 0;			// Total numbers for currency value.
+	var nDecimal = 0;		// Total times a decimal point occurs.
+	var decPos = 0;			// Assigned value of numbers or positions after decimal point.
+	var i = 0;					// For forloop indexing.
+	var x = "";					// Assigned each indivual character in string.
+
+	//if (str == "")
+	//{
+	//	alert ("Empty value");
+	//	return false;
+	//}
+
+	for(i = 0; i < str.length; i++)
+	{
+		// Assign charater in substring to x.
+		x = str.substr(i, 1);
+		
+		if(x == ".")
+			nDecimal = nDecimal + 1; // Sum total times decimal point occurs.
+		else if(parseInt(x) >= 0 || parseInt(x) <= 9)
+			nNum = nNum + 1; // If the character is a number sum total times a number occurs.
+		else
+		{
+			// Error occurs if any other character value is in the string other than the valid characters.
+			alert("Invalid Percentage. Please enter a percentage between 0.00 and 100.00.");
+
+			return false;
+		} // end else
+	} // end for
+			
+	if(nDecimal > 1)
+	{
+		alert("Invalid Percentage. Please use only one decimal point.");
+		return false;
+	} // end if	
+	else if (nDecimal == 1)
+	{
+		// Get the number of numbers after the decimal point in the string if there is a decimal point present
+		decPos = (str.length - 1) - str.indexOf(".");
+
+		if(decPos > 2)
+		{
+			alert("Invalid Percentage. Please enter no more than two decimal places.");
+			return false;
+		} // end if
+	} // end if
+	
+	if ((parseFloat(str) > 100) || (parseFloat(str) < 0))
+	{
+		alert("Invalid Percentage. Please entered a valid percentage between 0 and 100.");
+		return false;
+	}
+	
+	return true;
+}
+
+function isPercentNull(str)
+{
+	var nNum = 0;			// Total numbers for currency value.
+	var nDecimal = 0;		// Total times a decimal point occurs.
+	var decPos = 0;			// Assigned value of numbers or positions after decimal point.
+	var i = 0;					// For forloop indexing.
+	var x = "";					// Assigned each indivual character in string.
+
+	if (str == "")
+	{
+		alert ("Invalid Percentage. Please enter a percentage between 0.00 and 100.00.");
+		return false;
+	}
+
+	for(i = 0; i < str.length; i++)
+	{
+		// Assign charater in substring to x.
+		x = str.substr(i, 1);
+		
+		if(x == ".")
+			nDecimal = nDecimal + 1; // Sum total times decimal point occurs.
+		else if(parseInt(x) >= 0 || parseInt(x) <= 9)
+			nNum = nNum + 1; // If the character is a number sum total times a number occurs.
+		else
+		{
+			// Error occurs if any other character value is in the string other than the valid characters.
+			alert("Invalid Percentage. Please enter a percentage between 0.00 and 100.00.");
+
+			return false;
+		} // end else
+	} // end for
+			
+	if(nDecimal > 1)
+	{
+		alert("Invalid Percentage. Please use only one decimal point.");
+		return false;
+	} // end if	
+	else if (nDecimal == 1)
+	{
+		// Get the number of numbers after the decimal point in the string if there is a decimal point present
+		decPos = (str.length - 1) - str.indexOf(".");
+
+		if(decPos > 2)
+		{
+			alert("Invalid Percentage. Please enter no more than two decimal places.");
+			return false;
+		} // end if
+	} // end if
+	
+	if ((parseFloat(str) > 100) || (parseFloat(str) < 0))
+	{
+		alert("Invalid Percentage. Please entered a valid percentage between 0 and 100.");
+		return false;
+	}
+	
+	return true;
+}
+
+
+function isCurrency(str)
+{
+	var nNum = 0;			// Total numbers for currency value.
+	var nDecimal = 0;		// Total times a decimal point occurs.
+	var nCommas = 0;		// Total times a comma occurs.
+	var sDollarVal = "";		// Assigned dollar amount with or without commas.
+	var decPos = 0;			// Assigned value of numbers or positions after decimal point.
+	var nNumCount = 0;		// Total number between commas.
+	var i = 0;					// For forloop indexing.
+	var x = "";					// Assigned each indivual character in string.
+
+	for(i = 0; i < str.length; i++)
+	{
+		// Assign charater in substring to x.
+		x = str.substr(i, 1);
+		
+		if(x == ".")
+			nDecimal = nDecimal + 1; // Sum total times decimal point occurs.
+		else if(x == ",")
+			nCommas = nCommas + 1; // Sum total times comma occurs.
+		else if(parseInt(x) >= 0 || parseInt(x) <= 9)
+			nNum = nNum + 1; // If the character is a number sum total times a number occurs.
+		else
+		{
+			// Error occurs if any other character value is in the string other than the valid characters.
+			alert("ERROR! \n\nYou have entered an illegal value!\nPlease enter only: " +
+				  "Commas, Decimal Points, and numbers between 0...9!");
+
+			return false;
+		} // end else
+	} // end for
+			
+	if(nDecimal > 1)
+	{
+		alert("ERROR! \n\nYou have entered more then one decimal point!\nPlease only enter one!");
+		return false;
+	} // end if	
+	else if (nDecimal == 1)
+	{
+		// Get the number of numbers after the decimal point in the string if there is a decimal point present
+		decPos = (str.length - 1) - str.indexOf(".");
+
+		if(decPos > 2)
+		{
+			alert("ERROR! \n\nYou have entered a currency of more than 2 decimal places!");
+			return false;
+		} // end if
+	} // end if
+	
+	// Get total number of dollar number(s), removing floating point numbers or cents.
+	nNum = nNum - decPos;
+	sDollarVal = str.substr(0, (nNum + nCommas)); 		
+	// Determine if a zero is the first number or if a comma is the first or last character in the string.
+	if(sDollarVal.indexOf("0") == 0 )
+	{
+		alert("ERROR! \n\nYou cannot start the dollar amount with a zero!");
+		return false;
+	}
+	else if(sDollarVal.indexOf(",") == 0)
+	{
+		alert("ERROR! \n\nYou cannot start the dollar amount with a comma!");
+		return false;
+	}
+	else if(sDollarVal.lastIndexOf(",") == (sDollarVal.length - 1))
+	{
+		alert("ERROR! \n\nYou cannot end the dollar amount with a comma!");
+		return false;
+	}
+	
+	if (nCommas != 0)
+	{
+		for(i = sDollarVal.length-1; i >= 0; i--)
+		{
+			// Assign charater in substring to x.
+			x = sDollarVal.substr(i, 1);
+				
+			if(parseInt(x) >= 0 || parseInt(x) <= 9)
+			{
+				nNumCount = nNumCount + 1;  // If x is a number add one to the number counter.
+
+				if (nNumCount > 3)
+				{
+					alert("ERROR! \n\nYou have a mis-placed comma!");
+					return false;
+				} // end if
+			}
+			else
+			{
+				if (nNumCount < 3)
+				{
+					alert("ERROR! \n\nYou have a mis-placed comma!");
+					return false;
+				} // end if
+									
+				nNumCount = 0;  // Reset the number counter back to zero.
+			} 
+		} // end for
+	}
+		
+	return true;
+}
+
+function isNumeric(str)
+	{
+	var MinusSign = "-";
+	var start = 0
+	var numstr = "0123456789.";
+	if (str.charAt(0) == MinusSign)
+	{
+	start = 1
+	}
+	if ((str.charAt(0) == MinusSign) && (str.length == 1))
+	{
+	return false;
+	}
+	for(var i = start;i < str.length; i++)
+		{
+		if(numstr.indexOf(str.charAt(i)) == -1)
+			{
+			return false;
+			}	 
+		}
+		return true;
+	}
+   
+function trim(str)
+	{
+	var str = str;
+	while('' + str.charAt(str.length - 1) == ' ')
+		{
+		str = str.substring(0,str.length-1);
+		}
+	return str;
+	}
+
+function isInteger(s){
+	var i;
+    for (i = 0; i < s.length; i++){   
+        // Check that current character is number.
+        var c = s.charAt(i);
+        if (((c < "0") || (c > "9"))) return false;
+    }
+    // All characters are numbers.
+    return true;
+}
+
+var dtCh= "/";
+var minYear=1900;
+var maxYear=2100;
+
+function stripCharsInBag(s, bag){
+	var i;
+    var returnString = "";
+    // Search through string's characters one by one.
+    // If character is not in bag, append to returnString.
+    for (i = 0; i < s.length; i++){   
+        var c = s.charAt(i);
+        if (bag.indexOf(c) == -1) returnString += c;
+    }
+    return returnString;
+}
+
+function daysInFebruary (year){
+    // February has 29 days in any year evenly divisible by four,
+    // EXCEPT for centurial years which are not also divisible by 400.
+    return (((year % 4 == 0) && ( (!(year % 100 == 0)) || (year % 400 == 0))) ? 29 : 28 );
+}
+function DaysArray(n) {
+	for (var i = 1; i <= n; i++) {
+		this[i] = 31
+		if (i==4 || i==6 || i==9 || i==11) {this[i] = 30}
+		if (i==2) {this[i] = 29}
+   } 
+   return this
+}
+
+function isDate(dtStr)
+	{
+	var daysInMonth = DaysArray(12)
+	var pos1=dtStr.indexOf(dtCh)
+	var pos2=dtStr.indexOf(dtCh,pos1+1)
+	var strMonth=dtStr.substring(0,pos1)
+	var strDay=dtStr.substring(pos1+1,pos2)
+	var strYear=dtStr.substring(pos2+1)
+	strYr=strYear
+	if (strDay.charAt(0)=="0" && strDay.length>1) strDay=strDay.substring(1)
+	if (strMonth.charAt(0)=="0" && strMonth.length>1) strMonth=strMonth.substring(1)
+	for (var i = 1; i <= 3; i++) {
+		if (strYr.charAt(0)=="0" && strYr.length>1) strYr=strYr.substring(1)
+	}
+	month=parseInt(strMonth)
+	day=parseInt(strDay)
+	year=parseInt(strYr)
+	if (pos1==-1 || pos2==-1){
+		return false
+	}
+	if (month<1 || month>12){
+		return false
+	}
+	if (day<1 || day>31 || (month==2 && day>daysInFebruary(year)) || day > daysInMonth[month]){
+		return false
+	}
+	if (strYear.length != 4 || year==0 || year<minYear || year>maxYear){
+		return false
+	}
+	if (dtStr.indexOf(dtCh,pos2+1)!=-1 || isInteger(stripCharsInBag(dtStr, dtCh))==false){
+		return false
+	}
+
+	return true
+	}
+
+function isEmail(str){
+	var atChk, atDupChk, dot, dotErr, dotAfterAt, commaChk, semiColonChk
+    	atChk = ( str.indexOf("@") < 1 || str.lastIndexOf("@") == ( str.length-1 ) ); // this checks whether the @ symbol exists and is not the 1st or last character 
+    	atDupChk = ( str.indexOf("@") != str.lastIndexOf("@") ); // this checks that there is only one @ symbol 
+    	dot = ( str.indexOf(".") < 1 || str.lastIndexOf(".") == ( str.length-1 ) ); // this checks whether the dot exists and is not the 1st or last character 
+    	dotErr = ( str.indexOf("..") != -1 || str.indexOf("@.") != -1 || str.indexOf(".@") != -1 ); // this checks that the user hasn't entered two dots together by mistake or a dot and @ together 
+    	dotAfterAt = ( str.indexOf(".",str.indexOf("@")+1) == -1 ); // this checks that there is a dot after the @ symbol 
+    	commaChk = ( str.indexOf(",") != -1 ); // this checks that there isn't a comma in the address 
+    	semiColonChk = ( str.indexOf(";") != -1 ); // this checks that there isn't a semi-colon in the address 
+    	if( ( str != "" ) && ( atChk || atDupChk || dot || dotErr || dotAfterAt || commaChk || semiColonChk ) ) { // there is an error with the e-mail address 
+               return false;
+    	}
+           return true;
+    }
+
+function highlightcell(obj){
+	obj.style.cursor = 'hand';
+	obj.style.background = "#DBDBCA";
+}
+
+function unhighlightcell(obj){
+	obj.style.background = "#EBEBE1";
+}
+	
+</script><script language="JavaScript">
+<!--
+//prload tab images
+if (document.images) {
+
+tab1 = new Image();
+tab1.src = "/common/images/tabs/tab1.gif";
+tab1_on = new Image();
+tab1_on.src = "/common/images/tabs/tab1_on.gif";
+tab2 = new Image();
+tab2.src = "/common/images/tabs/tab2.gif";
+tab2_on = new Image();
+tab2_on.src = "/common/images/tabs/tab2_on.gif";
+tab3 = new Image();
+tab3.src = "/common/images/tabs/tab3.gif";
+tab3_on = new Image();
+tab3_on.src = "/common/images/tabs/tab3_on.gif";
+tab4 = new Image();
+tab4.src = "/common/images/tabs/tab4.gif";
+tab4_on = new Image();
+tab4_on.src = "/common/images/tabs/tab4_on.gif";
+tab5 = new Image();
+tab5.src = "/common/images/tabs/tab5.gif";
+tab5_on = new Image();
+tab5_on.src = "/common/images/tabs/tab5_on.gif";
+tab6 = new Image();
+tab6.src = "/common/images/tabs/tab6.gif";
+tab6_on = new Image();
+tab6_on.src = "/common/images/tabs/tab6_on.gif";
+tab7 = new Image();
+tab7.src = "/common/images/tabs/tab7.gif";
+tab7_on = new Image();
+tab7_on.src = "/common/images/tabs/tab7_on.gif";
+tab8 = new Image();
+tab8.src = "/common/images/tabs/tab8.gif";
+tab8_on = new Image();
+tab8_on.src = "/common/images/tabs/tab8_on.gif";
+
+
+}
+
+function changeImages() {
+  if (document.images) {
+    for (var i=0; i<changeImages.arguments.length; i+=2) {
+      document[changeImages.arguments[i]].src = eval(changeImages.arguments[i+1] + ".src");
+    }
+  }
+}
+
+// -->
+</script>
+
+<title>PharmDaily.com .:. Daily Health and Wellness Updates</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style>
+<!--
+ li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+-->
+</style>
+</head>
+<body bgcolor="#E2E2E2" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="866" border="0" cellpadding="0" cellspacing="0" align="center">
+	<tbody><tr>
+		<td background="/images/left_border.jpg"><img src="/images/spacer.gif" width="3" height="43"></td>
+		<td bgcolor="#FFFFFF" height="43"><a href="/Index.asp"><img border="0" src="/images/pharmdaily_logo.jpg" width="176" height="43" alt="PharmDaily"></a></td>
+
+		
+		<td bgcolor="#FFFFFF" height="43" valign="middle" nowrap="" align="left">
+
+					<a class="StandardTab" href="/Category/1/Allergy.html">Allergy</a>
+						<font class="TabDots"> :: </font>
+					<a class="StandardTab" href="/Category/34/Blood_Pressure.html">Blood Pressure</a>
+						<font class="TabDots"> :: </font>
+					<a class="StandardTab" href="/Category/10/Diabetes.html">Diabetes</a>
+						<font class="TabDots"> :: </font>
+					<a class="StandardTab" href="/Category/14/Fitness.html">Fitness</a>
+						<font class="TabDots"> :: </font>
+					<a class="StandardTab" href="/Category/30/Seniors.html">Seniors</a>
+						<font class="TabDots"> :: </font>
+					<a class="StandardTab" href="/Category/31/Sex.html">Sex</a>
+						<font class="TabDots"> :: </font>
+					<a class="StandardTab" href="/Category/32/Sleep.html">Sleep</a>
+						<font class="TabDots"> :: </font>
+					<a class="StandardTab" href="/Category/15/Stomach.html">Stomach</a>
+						
+		</td>
+		<!--spacer-->
+		<td bgcolor="#FFFFFF"><img src="/images/spacer.gif" height="43" alt="" width="3"></td>
+		<td background="/images/right_border.jpg" align="right"><img src="/images/spacer.gif" width="3" height="43"></td>
+	</tr>
+	<tr>
+		<td background="/images/left_border.jpg"><img src="/images/spacer.gif" width="3" height="3"></td>
+		<td width="860" height="3" colspan="3" bgcolor="#C2C0B3"><img src="/images/spacer.gif" width="860" height="3"></td>
+		<td background="/images/right_border.jpg"><img src="/images/spacer.gif" width="3" height="3"></td>
+	</tr>	
+</tbody></table>
+<table width="866" border="0" cellpadding="0" cellspacing="0" align="center">
+	<tbody><tr>
+		<td background="/images/left_border.jpg"><img src="/images/spacer.gif" width="3" height="24"></td>
+		<td colspan="10" bgcolor="#FFFFFF" width="860" height="24" class="Breadcrumb">
+			&nbsp;&nbsp;&nbsp;<a class="Breadcrumb" href="/Index.asp">Home</a> &gt; Privacy Policy</td>
+		<td background="/images/right_border.jpg"><img src="/images/spacer.gif" width="3" height="24"></td>
+	</tr>
+	<tr>
+		<td background="/images/left_border.jpg"><img src="/images/spacer.gif" width="3" height="1"></td>
+		<td colspan="10" bgcolor="#FF9C03"><img src="/images/spacer.gif" width="860" height="1"></td>
+		<td background="/images/right_border.jpg"><img src="/images/spacer.gif" width="3" height="1"></td>
+	</tr>
+</tbody></table>
+<table width="866" border="0" cellpadding="0" cellspacing="0" align="center">	
+	<tbody><tr>
+		<td background="/images/left_border.jpg"><img src="/images/spacer.jpg" width="3"></td>
+		<td colspan="2" bgcolor="#FFFFFF" width="187" valign="top">
+
+			<!--Begin Category Table-->
+			<table width="187" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td width="187" height="4" colspan="4" bgcolor="#FFFFFF"><img src="/common/images/spacer.gif" width="187" height="4"></td>
+				</tr>
+				<tr>
+					<td width="187" colspan="4" bgcolor="#FFFFFF" align="center"><a href="/RegistrationThankYou.asp"><img src="/common/images/freesamples.jpg" border="0" alt="Free Samples"></a></td>
+				</tr>
+				<tr>
+					<td width="187" height="4" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="4"></td>
+				</tr>
+				<tr>
+					<td width="6" height="24" bgcolor="#FFFFFF"><img src="/common/images/spacer.gif" width="6" height="24"></td>
+					<td width="177" height="24" colspan="2" bgcolor="#F3F3F3" align="center" class="CategoryHeader">Choose a Topic</td>
+					<td width="4" height="24" bgcolor="#FFFFFF"><img src="/common/images/spacer.gif" width="4" height="24"></td>
+				</tr>
+				<tr>
+					<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+				</tr>
+				
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/1/Allergy.html" class="Category">Allergy / Respiratory</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/2/Alt_Med.html" class="Category">Alternative Medicine</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/3/Arthritis__Bones__Joints.html" class="Category">Arthritis, Bones &amp; Joints</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/34/Blood_Pressure.html" class="Category">Blood Pressure</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/4/Cancer.html" class="Category">Cancer</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/5/Care_Giving.html" class="Category">Care Giving</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/6/Circulatory_System.html" class="Category">Circulatory System</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/8/Cosmetic.html" class="Category">Cosmetic</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/9/Dental.html" class="Category">Dental / Oral</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/10/Diabetes.html" class="Category">Diabetes</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/12/Environmental_Health.html" class="Category">Environmental Health</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/13/Vision.html" class="Category">Eye Care / Vision</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/14/Fitness.html" class="Category">Fitness &amp; Exercise</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/15/Stomach.html" class="Category">Gastrointestinal Problems</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/16/General.html" class="Category">General Health</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/17/Head__Neck.html" class="Category">Head &amp; Neck</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/18/Technology.html" class="Category">Health &amp; Technology</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/19/Hearing.html" class="Category">Hearing</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/20/Heart.html" class="Category">Heart / Cardiovascular</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/21/Infectious_Disease.html" class="Category">Infectious Disease</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/23/Pediatrics.html" class="Category">Kids' Health</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/24/Mens.html" class="Category">Men's Health</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/25/Mental.html" class="Category">Mental Health</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/26/Neurological.html" class="Category">Neurological</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/27/Nutrition__Weight_Loss.html" class="Category">Nutrition / Vitamins</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/28/Pregnancy.html" class="Category">Pregnancy</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/29/Public_Health.html" class="Category">Public Health</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/30/Seniors.html" class="Category">Seniors</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/31/Sex.html" class="Category">Sexual Health</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/32/Sleep.html" class="Category">Sleep Disorders</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+					<!--Begin Category Row-->
+					<tr>
+						<td width="6" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="6" height="21"></td>
+						<td background="/images/category_background.jpg"><img src="/common/images/blue_bullet.gif" width="20" height="21"></td>
+						<td background="/images/category_background.jpg" width="157" height="21"><a href="/Category/33/Womens.html" class="Category">Women's Health</a></td>
+						<td width="4" height="21" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="4" height="21"></td>
+					</tr>
+					
+					<tr>
+						<td width="187" height="2" colspan="4" bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="187" height="2"></td>
+					</tr>
+					<!--End Category Row-->
+					
+			</tbody></table>
+			<!--End Category Table-->			
+
+		</td>
+		<td bgcolor="#FFFFFF" colspan="10" valign="top">		
+<!-- Begin Main Content Table-->
+<table id="MainContent" width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+<td id="col1" valign="top" width="673" style="padding-top: 24px; padding-left: 24px; padding-right: 24px; padding-bottom: 24px;">
+<p class="BoldHeader14" align="center"><u><span style="font-size:12.0pt;font-family:Arial;
+color:#666666">PharmDaily.com Privacy Policy</span></u></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">This privacy policy ("Policy") discloses the data collection and 
+use practices of Pharmdaily ("Pharmdaily") in connection with the Pharmdaily Web 
+site (the "Web Site") and all associated Pharmdaily products and services (the "Pharmdaily 
+Services"). </span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">Pharmdaily will not directly inform you of any changes to the 
+privacy policy which involve use of your personal information. If at anytime you 
+are dissatisfied with our service to you or are in disagreement with our terms 
+and conditions or privacy policy, you reserve the option to Opt-out of our 
+website and future communication. Pharmdaily may make non-significant changes to 
+our privacy policy and may not notify our members if said changes do not pertain 
+to the handling of personal information. </span></p>
+<p style="line-height: 12.0pt"><strong>
+<span style="font-size:10.0pt;font-family:Arial;color:#666666">What Information 
+We Collect/How We Use It</span></strong><span style="font-size:10.0pt;font-family:
+Arial;color:#666666"> </span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">We store and use the information you give us in accordance with 
+the terms of this Policy. Our registration form (or registration information you 
+provide our marketing partners if you joined Pharmdaily though one of our 
+partners) requests that you provide certain contact and profile information. 
+That information includes but may not be limited to: name, address, email 
+address, phone number, gender and birth date. Additional information may 
+include, but not be limited to, health and lifestyle information about you and 
+your family such as marital status and household information (spouse, children, 
+pets, etc.), ethnicity, education, income, occupation, purchasing habits, 
+reading habits, insurance, height, weight, physical and mental health conditions 
+and diseases, symptoms, treatments, medications, medical devices, vitamins, 
+health habits, participation in research surveys and clinical trials.</span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">In addition, we might receive information about you from outside 
+sources and add it to your Pharmdaily membership information. We do this to 
+improve personalization of our services (for example, providing better 
+newsletter content, advertising or special offers that we think will interest 
+you). </span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">We also may collect information such as the identification of the 
+server your computer is logged onto and whether you opened a Pharmdaily e-mail 
+delivered to you. We also may compare our customer list to lists received from 
+other companies, in an effort to avoid sending identical messages to our 
+members. You can add and modify the information you have provided by sending an 
+e-mail to
+<a style="font-family: Arial; color: #003399; font-weight: normal; text-decoration: underline; text-underline: single; border: 1.0pt none windowtext; padding: 0in" href="mailto:information@pharmdaily.com">
+<span style="border: medium none">information@pharmdaily.com</span></a> with 
+your requested changes. </span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">We use all this information in five ways: </span></p>
+<ul type="disc" style="margin-bottom: 0in">
+	<li class="MsoNormal" style="color: #666666; line-height: 12.0pt">
+	<span style="font-size:10.0pt;font-family:Arial">to provide you with 
+	personalized information via electronic delivery, telemarketing and/or 
+	direct mail. These may include personalized offers from 3<sup>rd</sup> party 
+	sources.</span></li>
+	<li class="MsoNormal" style="color: #666666; line-height: 12.0pt">
+	<span style="font-size:10.0pt;font-family:Arial">to send you targeted 
+	advertising via electronic delivery and/or direct mail; </span></li>
+	<li class="MsoNormal" style="color: #666666; line-height: 12.0pt">
+	<span style="font-size:10.0pt;font-family:Arial">to contact you for feedback 
+	and surveys via electronic delivery and/or direct mail; </span></li>
+	<li class="MsoNormal" style="color: #666666; line-height: 12.0pt">
+	<span style="font-size:10.0pt;font-family:Arial">to send you general and 
+	administrative information about your Pharmdaily membership via electronic 
+	delivery and/or direct mail; and </span></li>
+	<li class="MsoNormal" style="color: #666666; line-height: 12.0pt">
+	<span style="font-size:10.0pt;font-family:Arial">to provide your contact 
+	information to Pharmdaily marketing partners whose offer(s) you have 
+	selected to receive in order for them to send you special offers via 
+	electronic delivery, telemarketing and direct mail. </span></li>
+</ul>
+<p style="line-height: 12.0pt"><strong>
+<span style="font-size:10.0pt;font-family:Arial;color:#666666">Agents</span></strong><span style="font-size:10.0pt;font-family:Arial;color:#666666">
+</span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">We employ other companies and individuals to perform certain 
+functions on our behalf. These companies and individuals may include but are not 
+limited to pharmaceutical companies and their subsidiaries and affiliates, and 
+manufacturers of food and health-related and consumer-related products and 
+services and their subsidiaries and affiliates. Examples include sending direct 
+and electronic mail, removing duplicate information from customer lists, 
+analyzing data, and providing marketing analysis. These agents have access to 
+member personal information as needed to perform their functions for Pharmdaily.</span></p>
+<p style="line-height: 12.0pt"><strong>
+<span style="font-size:10.0pt;font-family:Arial;color:#666666">Third-party 
+Advertising</span></strong><span style="font-size:10.0pt;font-family:Arial;color:#666666">
+</span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">We use third-party advertising companies to serve ads when you 
+visit our Website. These companies may use information (not including your name, 
+address, email address or telephone number) about your visits to this and other 
+websites in order to provide advertisements about goods and services of interest 
+to you. If you would like to be removed from any 3<sup>rd</sup> party 
+advertising and solicitation through E-mail, telemarketing, or direct mail 
+please send your request to
+<a style="font-family: Arial; color: #003399; font-weight: normal; text-decoration: underline; text-underline: single; border: 1.0pt none windowtext; padding: 0in" href="mailto:remove@pharmdaily.com">
+<span style="border: medium none">remove@pharmdaily.com</span></a>&nbsp; </span></p>
+<p style="line-height: 12.0pt"><strong>
+<span style="font-size:10.0pt;font-family:Arial;color:#666666">Cookies</span></strong><span style="font-size:10.0pt;font-family:Arial;color:#666666">
+</span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">We use cookies on the site to deliver personalized content. Many 
+Web browsers are automatically set to accept cookies. You may change your 
+browser settings to either reject cookies or notify you when a cookie is about 
+to be placed on your computer. Please note, however, that rejecting cookies 
+while visiting the Pharmdaily Web Site may result in certain parts of the 
+Pharmdaily Web Site not operating correctly or as efficiently as if they were 
+allowed. <br>
+<br>
+We may use third-party advertising companies to serve ads on our behalf. These 
+companies may employ cookies and action tags (also known as single pixel gifs) 
+to measure advertising effectiveness. Any information that these third parties 
+collect via cookies and action tags is completely anonymous. </span></p>
+<p style="line-height: 12.0pt"><strong>
+<span style="font-size:10.0pt;font-family:Arial;color:#666666">E-mail Links</span></strong><span style="font-size:10.0pt;font-family:Arial;color:#666666">
+</span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">In some instances we may include certain links in our e-mails 
+that will allow us to monitor whether you access specific content or 
+advertisements contained in that e-mail. When you click on one of these links, 
+we will record that click and certain activities on the Web page associated with 
+that link. We may use this information for various purposes, such as to conduct 
+internal research on our users' demographics, interests, and behavior in and to 
+our e-mail advertisements and content, and to better understand and serve you.
+</span></p>
+<p style="line-height: 12.0pt"><strong>
+<span style="font-size:10.0pt;font-family:Arial;color:#666666">Disclosures</span></strong><span style="font-size:10.0pt;font-family:Arial;color:#666666">
+</span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">Pharmdaily may disclose information about you and your use of the 
+Pharmdaily Web Site and the Pharmdaily Services if Pharmdaily believes such 
+disclosure is reasonably necessary: (i) to comply with the law or legal process; 
+(ii) to protect or defend the rights or property of Pharmdaily or others; (iii) 
+to enforce the Pharmdaily Terms and Conditions or this Privacy Policy; and (iv) 
+to respond to claims that the content(s) of a communication violates the rights 
+of another. In addition Pharmdaily may share or transfer information about you 
+and that you provide to Pharmdaily, to one or more third party entities pursuant 
+to a sale, merger, assignment, joint venture or other transfer or disposition of 
+a portion, or all of, the assets or stock of Pharmdaily or its affiliated 
+entities, or as otherwise provided herein. </span></p>
+<p style="line-height: 12.0pt"><strong>
+<span style="font-size:10.0pt;font-family:Arial;color:#666666">Reports</span></strong><span style="font-size:10.0pt;font-family:Arial;color:#666666">
+</span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">We periodically prepare analyses and reports reflecting visitor 
+and member use of the Pharmdaily Web Site and Pharmdaily Service for our 
+internal use as well as for a limited number of our business partners. These 
+reports include aggregate (non-personal) information about Pharmdaily members, 
+and in certain instances, visitors to the Pharmdaily Web Site. The information 
+in these reports will not identify you individually. Our business partners who 
+have access to these reports will not be able to contact you from the 
+information contained in the reports. </span></p>
+<p style="line-height: 12.0pt"><strong>
+<span style="font-size:10.0pt;font-family:Arial;color:#666666">Links</span></strong><span style="font-size:10.0pt;font-family:Arial;color:#666666">
+</span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">The Pharmdaily Web Site, as well as the electronic messages sent 
+as part of the Pharmdaily Service, may contain links to other sites or services. 
+Pharmdaily is not responsible for the privacy practices or the content of such 
+third party sites. If you have a question about the privacy policy of those 
+other sites, please contact them directly. </span></p>
+<p style="line-height: 12.0pt"><strong>
+<span style="font-size:10.0pt;font-family:Arial;color:#666666">Removal</span></strong></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">To have all of your personally identifiable information removed 
+from our database, send an e-mail request to </span><b>
+<span style="font-size: 9.0pt; font-family: Arial; color: #666666; border: 1.0pt none windowtext; padding: 0in">
+<a style="font-family: Arial; color: #003399; font-weight: normal; text-decoration: underline; text-underline: single; border: 1.0pt none windowtext; padding: 0in" href="mailto:remove@Pharmdaily.com">
+remove@Pharmdaily.com</a></span></b><span style="font-size:10.0pt;font-family:Arial;color:#666666"> 
+and we will be happy to delete such information after we receive a request to 
+that effect. Please be advised that by requesting that your data be removed from 
+our database, you will be unsubscribed from the Pharmdaily Service. </span></p>
+<p style="line-height: 12.0pt"><strong>
+<span style="font-size:10.0pt;font-family:Arial;color:#666666">Updates</span></strong><span style="font-size:10.0pt;font-family:Arial;color:#666666">
+</span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">Pharmdaily may revise this Policy from time to time and at any 
+time in the future to (i) improve or modify the Pharmdaily Service, (ii) reflect 
+future developments in Pharmdaily data information gathering, storing and 
+release practices, (iii) comply with applicable laws, and (iv) reflect changes 
+in Pharmdaily business structure. Depending on the nature of the change, we will 
+notify users by e-mail (to the current e-mail address on file) and/or placing a 
+notice on the Pharmdaily Web Site. </span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">If you do not accept the terms of this Policy, we ask that you do 
+not register with Pharmdaily, or with any of our promotional partners.&nbsp; &nbsp;</span></p>
+<p style="line-height: 12.0pt"><strong>
+<span style="font-size:10.0pt;font-family:Arial;color:#666666">Contact Us</span></strong></p>
+<p style="line-height:12.0pt"><strong>
+<span style="font-size: 10.0pt; font-family: Arial; color: #666666; font-weight: normal">
+Pharmdaily.com is presented by Dedicated Marketing Solutions LLC.</span></strong><span style="font-size:10.0pt;font-family:Arial;color:#666666">
+</span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">If you have any questions about this privacy statement, the 
+practices of this site, or your dealings with this Web site, you can contact:
+</span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">Dedicated Marketing Solutions LLC.<br>
+12950 Culver Blvd.<br>
+Suite 120<br>
+Los Angles, CA 90066<br>
+<a style="font-family: Arial; color: #003399; font-weight: normal; text-decoration: underline; text-underline: single; border: 1.0pt none windowtext; padding: 0in" href="mailto:information@dedicatedla.com">
+<span style="border: medium none">information@dedicatedla.com</span></a></span></p>
+<p style="line-height:12.0pt">
+<span style="font-size:10.0pt;font-family:Arial;
+color:#666666">&nbsp;</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="BodyCopy12" align="justify">
+&nbsp;</p> 
+</td>
+
+</tr>
+</tbody></table>
+<!-- End Main Content Table-->
+		</td>
+		<td background="/images/right_border.jpg"><img src="/images/spacer.gif" width="3"></td>
+	</tr>
+
+<tr>
+	<td colspan="2" id="ArticleTools" valign="bottom" style="padding-left: 0px; padding-right: 4px; padding-top: 4px; padding-bottom: 3px">
+		<p>
+	</p></td>
+</tr>
+		
+
+	<tr>
+		<td background="/images/left_border.jpg"><img src="/images/spacer.gif" width="3" height="150" alt=""></td>
+		<td colspan="12">
+		<p></p>
+		<table id="footer" width="860" height="150" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td width="6" height="7" bgcolor="#FFFFFF">
+					<img src="/images/spacer.gif" width="6" height="7" alt=""></td>
+				<td width="847" height="7" bgcolor="#E5E2DB">
+					<img src="/images/spacer.gif" width="847" height="7" alt=""></td>
+				<td width="7" height="7" bgcolor="#FFFFFF">
+					<img src="/images/spacer.gif" width="7" height="7" alt=""></td>
+			</tr>
+			
+			<tr>
+				<td width="6" height="137" bgcolor="#FFFFFF">
+					<img src="/images/spacer.gif" width="6" height="137" alt=""></td>
+				<td width="847" height="137" bgcolor="#F0EFEA" align="center" valign="top">
+		<table cellspacing="0" width="100%" style="border: 0px solid #DDDDD3; padding-left: 4px; padding-right: 4px; padding-top: 4px; padding-bottom: 4px" id="table1">
+			<tbody><tr>
+				<td nowrap="" class="Footer" align="center" style="padding-top: 14px;">Subscribe to PharmDaily.com updates: &nbsp;&nbsp;&nbsp;
+					<a class="Link12" href="/RegistrationThankYou.asp"><img src="/common/images/email_icon.gif" border="0" alt="Subscribe via Email"></a> <a title="Subscribe via Email" class="Link12" href="/RegistrationThankYou.asp">Email</a>&nbsp;&nbsp;&nbsp;
+					<a class="Link12" href="/RSS/Default.asp"><img align="center" src="/common/images/rss_button.gif" border="0" alt="RSS Feed Information"></a>&nbsp;&nbsp;&nbsp;
+					<a class="Link12" href="/RSS/Default.asp"><img align="center" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif" border="0" alt="Add to My Yahoo!"></a>&nbsp;&nbsp;&nbsp;
+					<a class="Link12" href="/RSS/Default.asp"><img align="center" src="http://buttons.googlesyndication.com/fusion/add.gif" border="0" alt="Add to Google"></a>&nbsp;&nbsp;&nbsp;
+					<a class="Link12" href="/RSS/Default.asp"><img align="center" src="http://myfeeds.aolcdn.com/vis/myaol_cta1.gif" border="0" alt="My AOL"></a>&nbsp;&nbsp;&nbsp;
+					<a class="Link12" href="/RSS/Default.asp"><img align="center" src="/common/images/rss_mymsn.gif" border="0" alt="My MSN"></a></td>
+			</tr>
+		</tbody></table>
+
+
+				<br>
+
+					<a href="/Category/1/Allergy.html" class="Footer">Allergy</a> | <a href="/Category/2/Alt_Med.html" class="Footer">Alt Med</a> | <a href="/Category/3/Arthritis__Bones__Joints.html" class="Footer">Arthritis / Bones / Joints</a> | <a href="/Category/34/Blood_Pressure.html" class="Footer">Blood Pressure</a> | <a href="/Category/4/Cancer.html" class="Footer">Cancer</a> | <a href="/Category/8/Cosmetic.html" class="Footer">Cosmetic</a> | <a href="/Category/9/Dental.html" class="Footer">Dental</a> | <a href="/Category/10/Diabetes.html" class="Footer">Diabetes</a> | <a href="/Category/13/Vision.html" class="Footer">Vision</a><br><a href="/Category/14/Fitness.html" class="Footer">Fitness</a> | <a href="/Category/15/Stomach.html" class="Footer">Stomach</a> | <a href="/Category/16/General.html" class="Footer">General</a> | <a href="/Category/17/Head__Neck.html" class="Footer">Head &amp; Neck</a> | <a href="/Category/18/Technology.html" class="Footer">Technology</a> | <a href="/Category/19/Hearing.html" class="Footer">Hearing</a> | <a href="/Category/20/Heart.html" class="Footer">Heart</a> | <a href="/Category/21/Infectious_Disease.html" class="Footer">Infectious Disease</a> | <a href="/Category/23/Pediatrics.html" class="Footer">Pediatrics</a> | <a href="/Category/24/Mens.html" class="Footer">Men's</a> | <a href="/Category/25/Mental.html" class="Footer">Mental</a> | <a href="/Category/26/Neurological.html" class="Footer">Neurological</a><br><a href="/Category/27/Nutrition__Weight_Loss.html" class="Footer">Nutrition / Weight Loss</a> | <a href="/Category/28/Pregnancy.html" class="Footer">Pregnancy</a> | <a href="/Category/30/Seniors.html" class="Footer">Seniors</a> | <a href="/Category/31/Sex.html" class="Footer">Sex</a> | <a href="/Category/32/Sleep.html" class="Footer">Sleep</a> | <a href="/Category/33/Womens.html" class="Footer">Women's</a>
+
+					<span class="Footer"><br><br><br>Copyright 2006 Pharmdaily.com. All Rights Reserved.<br><br></span>
+
+					<a href="/Disclaimer.asp" class="Footer">Disclaimer</a> | 
+					<a href="/PrivacyPolicy.asp" class="Footer">Privacy Policy</a> | 
+					<a href="/ContactUs.asp" class="Footer">Contact Us</a><br><br>
+					<!--<img src="/images/spacer.gif" width="847" height="137" alt="">--></td>
+
+
+
+				<td width="7" height="137" bgcolor="#FFFFFF">
+					<img src="/images/spacer.gif" width="7" height="137" alt=""></td>
+			</tr>
+			<tr>
+				<td width="6" height="6" bgcolor="#FFFFFF">
+					<img src="/images/spacer.gif" width="6" height="6" alt=""></td>
+				<td width="847" height="6" bgcolor="#FFFFFF">
+					<img src="/images/spacer.gif" width="847" height="6" alt=""></td>
+				<td width="7" height="6" bgcolor="#FFFFFF">
+					<img src="/images/spacer.gif" width="7" height="6" alt=""></td>
+			</tr>
+		</tbody></table></td>
+		<td background="/images/right_border.jpg"><img src="/images/spacer.gif" width="3" height="150" alt=""></td>
+	</tr>
+	<tr>
+		<td width="3" height="4"><img width="3" height="4" src="/images/footer_left_corner.jpg"></td>
+		<td colspan="12" background="/images/footer_bg.jpg" width="860" height="4"><img src="/images/spacer.gif" width="860" height="4" alt=""></td>
+		<td width="3" height="4"><img width="3" height="4" src="/images/footer_left_corner.jpg"></td>
+	</tr>
+	
+	<tr>
+		<td>
+			<img src="/images/spacer.gif" width="3" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="176" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="11" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="74" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="84" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="84" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="84" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="39" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="45" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="84" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="84" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="84" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="11" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="3" height="1" alt=""></td>
+	</tr>
+</tbody></table>
+<br><br><br>
+
+
+</body></html>
