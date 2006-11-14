@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greendiary.com privacy policy that was archived on 2006-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060613234257id_/http%3A//greendiary.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greendiary.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114122720id_/http%3A//www.greendiary.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Environment Blog - Latest news, information and analysis on the environment - global warming, pollution, conservation and sustainable development.
+# Privacy Policy - Environment Blog - Greendiary can be a converging point of latest news, information and analysis on our planet's dynamic environment - be it global warming, pollution, climate change, conservation, ecology or sustainable development...
 
 This privacy statement covers all of the Instablogs sites. Please read this statement carefully before using proceeding to access Instablogs Sites. Your use of Instablogs Sites indicates your agreement to abide by the Terms in effect.
 
