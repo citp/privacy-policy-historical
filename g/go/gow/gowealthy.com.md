@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowealthy.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615230706id_/http%3A//gowealthy.com/site/policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowealthy.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114091221id_/http%3A//gowealthy.com/site/policy/index.asp) for the most accurate reproduction.*
 
 # Policy :: Gowealthy.com
 
@@ -65,7 +65,7 @@ Gowealthy provides users third party cookies only for Ranking.com. Ranking.com p
 Like most standard Web site servers we use log files. Whenever the user visits Gowealthy, our web browser automatically receives and record anonymous information. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 **Third Party Advertising**  
-Gowealthy uses third-party ad servers to serve the advertisements that you see on the pages of our site. If you would like to know more about the information gathering practices of our third-party ad servers, please [click here](http://www.linkshare.com/home/privacy.shtml) for linkshare.com and [here](http://www.cj.com/privacy.asp) for cj.com 
+Gowealthy uses third-party ad servers to serve the advertisements that you see on the pages of our site. If you would like to know more about the information gathering practices of our third-party ad servers, please [click here](http://www.linkshare.com/home/privacy.shtml) for linkshare.com and [here](http://www.cj.com/privacy.html) for cj.com 
 
 top
 
