@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacrosse.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615035516id_/http%3A//www.lacrosse.org/info/privacypolicy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrosse.org privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115001726id_/http%3A//www.lacrosse.org/info/privacypolicy.phtml) for the most accurate reproduction.*
 
 # US Lacrosse -- US Lacrosse Privacy Policy
 
