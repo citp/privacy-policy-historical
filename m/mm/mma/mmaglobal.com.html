@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mmaglobal.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615005925id_/http%3A//mmaglobal.com/modules/content/index.php%3Fid%3D69) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mmaglobal.com privacy policy that was archived on 2006-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061114013956id_/http%3A//mmaglobal.com/modules/content/index.php%3Fid%3D69) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
           <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
@@ -43,16 +43,208 @@ a.calfoot
           //--></script><script type="text/javascript" src="http://mmaglobal.com/include/xoops.js"></script><script type="text/javascript"><!--
           //-->
           </script>
+
+<style type="text/css">
+.menu1{
+background-color:#8A9EA9;
+margin-left:0px;
+padding-left:5px;
+padding-right:5px;
+padding-top:3px;
+padding-bottom: 3px;
+display:block;
+text-decoration: none;
+color: #FFFFFF;
+font-size:11px;
+font-weight:bold;
+border-bottom: solid 1px #FFFFFF;
+}
+
+ .submenu{
+background-color:#DCE1E4;
+display: block;
+margin-left: 5px;
+padding-top: 3px;
+padding-bottom: 3px;
+padding-left: 7px;
+color: #4D606D;
+font-size:11px;
+border-bottom: solid 1px #FFFFFF;
+}
+
+ .subsubmenu{
+background-color:#EFF5F9;
+display: block;
+margin-left: 5px;
+padding-top: 3px;
+padding-bottom: 3px;
+padding-left: 15px;
+color: #4D606D;
+font-size:11px;
+border-bottom: solid 1px #FFFFFF;
+}
+
+.hide{
+display: none;
+}
+
+.show{
+display: block;
+}
+</style>
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+menu_status = new Array();
+
+function showHide(theid){
+    if (document.getElementById) {
+    var switch_id = document.getElementById(theid);
+
+        if(menu_status[theid] != 'show') {
+           //switch_id.className = 'show';
+           showhideobject(theid,'t');
+           menu_status[theid] = 'show';
+        }else{
+           //switch_id.className = 'hide';
+           showhideobject(theid,'f');
+           menu_status[theid] = 'hide';
+        }
+    }
+}
+
+function URLEncode(thisvalue)
+{
+	// The Javascript escape and unescape functions do not correspond
+	// with what browsers actually do...
+	var SAFECHARS = "0123456789" +					// Numeric
+					"ABCDEFGHIJKLMNOPQRSTUVWXYZ" +	// Alphabetic
+					"abcdefghijklmnopqrstuvwxyz" +
+					"-_.!~*'()";					// RFC2396 Mark characters
+	var HEX = "0123456789ABCDEF";
+
+	var plaintext = thisvalue;
+	var encoded = "";
+	for (var i = 0; i < plaintext.length; i++ ) {
+		var ch = plaintext.charAt(i);
+	    if (ch == " ") {
+		    encoded += "+";				// x-www-urlencoded, rather than %20
+		} else if (SAFECHARS.indexOf(ch) != -1) {
+		    encoded += ch;
+		} else {
+		    var charCode = ch.charCodeAt(0);
+			if (charCode > 255) {
+			    alert( "Unicode Character '" 
+                        + ch 
+                        + "' cannot be encoded using standard URL encoding.\n" +
+				          "(URL encoding only supports 8-bit characters.)\n" +
+						  "A space (+) will be substituted." );
+				encoded += "+";
+			} else {
+				encoded += "%";
+				encoded += HEX.charAt((charCode >> 4) & 0xF);
+				encoded += HEX.charAt(charCode & 0xF);
+			}
+		}
+	} // for
+
+	return encoded;
+};
+
+function showhideobject(objid, show_p){
+   var element;
+   var found = 0;
+   if (document.getElementById) {
+   // IE 5.5+, NS6+, Opera 6+
+      if (document.getElementById(objid)) {
+         found = 1;
+         element = document.getElementById(objid).style;
+      }
+   } else if (document.layers) {
+      // NS4
+      if (document.layers[objid]) {
+         found = 1;
+         element = document.layers[objid];
+      }
+   } else if (document.all) {
+      // IE < 5.5, Opera 5(?)
+      if (document.all.objid) {
+         found = 1;
+         element = document.all.objid.style;
+      }
+   }
+   if (found==1) {
+      if ((show_p && show_p=='t') || (!show_p && element.display == 'none')) {
+         element.display = 'block';
+         element.position = 'static';
+         element.visibility = 'visible';
+      } else {
+         element.display = 'none';
+         element.position = 'absolute';
+         element.visibility = 'hidden';
+      }
+   }
+}
+
+function getObj(name)
+{
+  if (document.getElementById)
+  {
+  	this.obj = document.getElementById(name);
+	this.style = document.getElementById(name).style;
+  }
+  else if (document.all)
+  {
+	this.obj = document.all[name];
+	this.style = document.all[name].style;
+  }
+  else if (document.layers)
+  {
+   	this.obj = document.layers[name];
+   	this.style = document.layers[name];
+  }
+}
+
+// To avoid DOM incompatibilities in IE4.
+
+function init()
+{
+        theiframe = new getObj('contentiframe').obj;
+}
+
+moz=document.getElementById&&!document.all;
+mozHeightOffset=20;
+
+function resize_iframe(){
+   document.getElementById("contentiframe").height=100;
+   document.getElementById('contentiframe').height=window.frames["contentiframe"].document.body.scrollHeight+(moz?mozHeightOffset:0);
+}
+//-->
+</script>
+
   </head>
   <body style="background-image: url(http://mmaglobal.com/themes/mma//images/constants/background2.gif)">
     <div style="width: 772px;padding:3px;"> 
-  <div align="right" class="toplinks"><img src="http://mmaglobal.com/themes/mma/images/header/uk.gif" width="23" height="12" align="absmiddle"> 
-    <a href="http://www.mmaglobal.co.uk/" target="_blank">UK</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="http://mmaglobal.com/themes/mma/images/FRAN001.gif" width="18" height="12" align="absmiddle"> 
-    <a href="http://www.mmafrance.org" target="_blank">FRANCE</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="http://mmaglobal.com/themes/mma/images/SPAN001.gif" width="18" height="12" align="absmiddle"> 
-    <a href="http://www.mmaspain.com" target="_blank">SPAIN</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="http://mmaglobal.com/themes/mma/images/AUST001.gif" width="18" height="12" align="absmiddle"> 
-    <a href="http://www.mma-austria.org/" target="_blank">AUSTRIA</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/modules/contact/"></a><a href="/modules/content/index.php?id=68">CONTACT 
-    US</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/modules/content/index.php?id=69">PRIVACY</a></div>
+  <div align="right" class="toplinks"> 
+    <!--
+    <img src="http://mmaglobal.com/themes/mma/images/header/uk.gif" width="23" height="12" align="absmiddle"><a href="http://www.mmaglobal.co.uk/" target="_blank">UK</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <img src="http://mmaglobal.com/themes/mma/images/FRAN001.gif" width="18" height="12" align="absmiddle"><a href="http://www.mmafrance.org" target="_blank">FRANCE</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <img src="http://mmaglobal.com/themes/mma/images/SPAN001.gif" width="18" height="12" align="absmiddle"><a href="http://www.mmaspain.com" target="_blank">SPAIN</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <img src="http://mmaglobal.com/themes/mma/images/AUST001.gif" width="18" height="12" align="absmiddle"><a href="http://www.mma-austria.org/" target="_blank">AUSTRIA</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    -->
+    <a href="/emea/"><img src="http://mmaglobal.com/themes/mma/images/emea.jpg" width="122" height="22" align="absmiddle"></a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="/apac/"><img src="http://mmaglobal.com/themes/mma/images/apac.jpg" width="122" height="22" align="absmiddle"></a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="/cala/"><img src="http://mmaglobal.com/themes/mma/images/cala.jpg" width="122" height="22" align="absmiddle"></a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="/modules/content/index.php?id=68">CONTACT US</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/modules/content/index.php?id=69">PRIVACY</a></div>
 </div>            <script language="JavaScript"> function openWindow(url) { popupWin = window.open(url, 'openWin', "width=400, height=250, scrollbars=yes"); } </script>
+
 <table width="778" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
   	<td width="273"></td>
@@ -86,6 +278,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 }
 //-->
 </script>
+
 <table width="778" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td width="166" valign="top" bgcolor="#DCE1E4">
@@ -101,266 +294,138 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     </form><a href="http://mmaglobal.com/search.php">Advanced Search</a>
 </td>
   </tr>
-</tbody></table>                  <table width="100%" border="0" cellspacing="0" cellpadding="0" class="mainmenu">
-  <tbody><tr> 
-    <td class="title">About</td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=48">Mission Statement</a></td>
-  </tr>
-  <!--
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=8">Member Profiles</a></td>
-  </tr>
-  -->
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=9">Board of Directors</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=118">Initiatives &amp; Policy</a></td>
-  </tr>
-  <!--
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=1">Privacy</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=9">Careers</a></td>
-  </tr>
-  -->
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=49">MMA Worldwide Chapters</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=16">About the MMA</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=59">Join the MMA</a></td>
-  </tr>
-  <tr> 
-    <td class="title">Info &amp; Resources</td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=51">Industry Overview</a></td>
-  </tr>
-  <!--<tr>
-    <td class="item"><a href="#">FAQs</a></td>
-  </tr>-->
-    <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=53">Mobile Marketing Ecosystem</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/wfsection/index.php?category=18">Articles</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/wfsection/index.php?category=25">Statistics/Resources</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=6">Glossary</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/wfsection/index.php?category=1&amp;submenu=case">Case Studies</a></td>
-  </tr>
-  <!--<tr>
-    <td class="item"><a href="#">Carrier/Handset Info</a></td>
-  </tr>-->
-  <!--<tr>
-    <td class="item"><a href="#">Publications</a></td>
-  </tr>-->
-  <!--<tr>
-    <td class="item"><a href="#">Mobile Marketing Basics</a></td>
-  </tr>-->
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=55">Industry Links</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=119">Awards</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/wfsection/article.php?articleid=88">Member Job Postings</a></td>
-  </tr>
-  <tr> 
-    <td class="title">MMA Initiatives &amp; Policy</td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=3&amp;submenu=groups">Working Groups</a></td>
-  </tr>
-  <tr id="groups" style="display:none"> 
+</tbody></table>                  <table width="166" border="0" cellpadding="0" cellspacing="0" bgcolor="#c0c0c0">
+  <tbody><tr>
     <td>
-    <div class="subitem"><a href="/modules/content/index.php?id=154">Academic Outreach</a></div>
-    <div class="subitem"><a href="/modules/content/index.php?id=1&amp;submenu=groups">Ad Standards</a></div>
-    <div class="subitem"><a href="/modules/content/index.php?id=219&amp;submenu=groups">Advocacy</a></div>
-    <div class="subitem"><a href="/modules/content/index.php?id=58&amp;submenu=groups">Best Practices</a></div>
-    <div class="subitem"><a href="/modules/content/index.php?id=57&amp;submenu=groups">Metrics</a></div>
-    <div class="subitem"><a href="/modules/content/index.php?id=56&amp;submenu=groups">Mobile Search</a></div>
-    <div class="subitem"><a href="/modules/content/index.php?id=220&amp;submenu=groups">Mobile Video &amp; Television</a></div>
-    <div class="subitem"><a href="/modules/content/index.php?id=221&amp;submenu=groups">Off Portal Content</a></div>
-    <div class="subitem"><a href="/modules/content/index.php?id=115&amp;submenu=groups">Privacy &amp; Preference&nbsp;</a></div>
-    <div class="subitem"><a href="/modules/content/index.php?id=116&amp;submenu=groups">Short Code</a></div>
-    <div class="subitem"><a href="/modules/content/index.php?id=117&amp;submenu=groups">Technical Standards</a></div>
-    <div class="subitem"><a href="/modules/wfsection/article.php?articleid=43">MMA Internal Committees</a></div>
-    </td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=5">Code of Conduct</a></td>
-  </tr>
-  <!--
-  <tr id="conduct" style="display:none"> 
-    <td class="subitem"><a href="/modules/content/index.php?id=5&submenu=conduct">Code of Conduct</a></td>
-  </tr>
-  -->
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=91">Best Practices</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=7">Standards</a></td>
-  </tr>
-  <!--
-  <tr id="standard" style="display:none"> 
-    <td><div class="subitem"><a href="/modules/content/index.php?id=7&submenu=standard">SMS</a></div>
-      <div class="subitem"><a href="/modules/content/index.php?id=7&submenu=standard">WAP</a></div>
-      <div class="subitem"><a href="/modules/content/index.php?id=7&submenu=standard">MMS</a></div>
-      <div class="subitem"><a href="/modules/content/index.php?id=7&submenu=standard">LBS</a></div>
-      <div class="subitem"><a href="/modules/content/index.php?id=7&submenu=standard">JAVA/BREW/FLASH</a></div></td>
-  </tr>-->
-  <tr> 
-    <td class="title">Meetings &amp; Events</td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/piCal/">Event Calendar</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="http://www.mobilemarketingforum.com/" target="_blank">Mobile Marketing Forum</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=11">Speaking Opportunities</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=12">Sponsorship Opportunities</a></td>
-  </tr>
-  <tr> 
-    <td class="title">News Room</td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/news/index.php?storytopic=3&amp;storynum=5&amp;submenu=press">Press Releases</a> +</td>
-  </tr>
-  <tr id="press" style="display:none"> 
-    <td><div class="subitem"><a href="/modules/news/index.php?storytopic=4&amp;storynum=5&amp;submenu=press">Archived Press Releases 
-        2003</a></div>
-      <div class="subitem"><a href="/modules/news/index.php?storytopic=5&amp;storynum=5&amp;submenu=press">Archived Press Releases 
-        2002</a></div></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/news/index.php?storytopic=6&amp;storynum=5">MMA In The News</a></td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/news/index.php?storytopic=7&amp;submenu=newsletter">Newsletters</a> +</td>
-  </tr>
-  <tr id="newsletter" style="display:none"> 
-    <td>
-      <div class="subitem"><a href="http://news.mmaglobal.com/" target="_blank">Issue #10</a></div>
-      <div class="subitem"><a href="/external/messenger/06_March_MMA_Messenger.html" target="_blank">Issue #9</a></div>
-      <div class="subitem"><a href="/external/messenger/06_February_MMA_Messenger.html" target="_blank">Issue #8</a></div>
-      <div class="subitem"><a href="/external/messenger/06_January_MMA_Messenger.html" target="_blank">Issue #7</a></div>
-      <div class="subitem"><a href="/external/messenger/05_November_MMA_Messenger.html" target="_blank">Issue #6</a></div>
-      <div class="subitem"><a href="/external/messenger/05_October_MMA_Messenger.html" target="_blank">Issue #5</a></div>
-      <div class="subitem"><a href="/external/messenger/05_September_MMA_Messenger.html" target="_blank">Issue #4</a></div>
-      <div class="subitem"><a href="/external/messenger/05_April_MMA_Messenger.html" target="_blank">Issue #3</a></div>
-      <div class="subitem"><a href="/external/messenger/05_March_MMA_Messenger.html" target="_blank">Issue #2</a></div>
-      <div class="subitem"><a href="/external/messenger/index.html" target="_blank">Issue #1</a></div>
-	  </td>
-  </tr>
-  <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=62">Logos</a></td>
-  </tr>
-  <tr> 
-    <td class="title">Case Studies</td>
-  </tr>
-    <tr> 
-    <td class="item"><a href="/modules/wfsection/index.php?category=1">Case Studies</a> +</td>
-  </tr>
-
-  <tr id="case" style="display:none"> 
-    <td><div class="subitem"><a href="/modules/wfsection/viewarticles.php?category=2">Automotive</a></div>
-		<div class="subitem"><a href="/modules/wfsection/viewarticles.php?category=5">B2B</a></div>
-		<div class="subitem"><a href="/modules/wfsection/viewarticles.php?category=6">Chat/Social Communities</a></div>
-		<div class="subitem"><a href="/modules/wfsection/viewarticles.php?category=7">Consumer Packaged Goods</a></div>
-		<div class="subitem"><a href="/modules/wfsection/viewarticles.php?category=8">Financial</a></div>
-		<div class="subitem"><a href="/modules/wfsection/viewarticles.php?category=9">Fundraising/Non-Profit</a></div>
-		<div class="subitem"><a href="/modules/wfsection/viewarticles.php?category=10">General</a></div>
-		<div class="subitem"><a href="/modules/wfsection/viewarticles.php?category=11">Information Services</a></div>
-		<div class="subitem"><a href="/modules/wfsection/viewarticles.php?category=12">Leisure/Travel</a></div>
-		<div class="subitem"><a href="/modules/wfsection/viewarticles.php?category=13">Media &amp; Entertainment</a></div>
-		<div class="subitem"><a href="/modules/wfsection/viewarticles.php?category=14">Pharmaceutical/Healthcare</a></div>
-		<div class="subitem"><a href="/modules/wfsection/viewarticles.php?category=15">Publishing</a></div>
-		<div class="subitem"><a href="/modules/wfsection/viewarticles.php?category=16">Retail</a></div>
-		<div class="subitem"><a href="/modules/wfsection/viewarticles.php?category=17">Sports</a></div>
+	<a href="/save_perf.php?menuItemRemove=mymenu2+mymenu3+mymenu4+mymenu5+mymenu6+mymenu7+mymenu8+mymenu9+mymenu10&amp;menuItem=mymenu1+mysubmenu1+mysubmenu2&amp;url=" class="menu1" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=324');">About the MMA</a>
+    <div id="mymenu1" class="hide">
+        <a href="/modules/content/index.php?id=48" class="submenu">Mission &amp; Objectives</a>
+        <a href="/modules/content/index.php?id=306" class="submenu">Letter from the MMA</a>	
+        <a href="/modules/content/index.php?id=49" class="submenu">MMA Worldwide Chapters</a>	
+        <a href="/modules/content/index.php?id=9" class="submenu">Officers &amp; Board of Directors</a>
+        <a href="/save_perf.php?menuItem=mysubmenu1&amp;url=" class="submenu" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=8');">MMA Members</a>
+		<div id="mysubmenu1" class="hide">
+        	<a href="/modules/wfsection/article.php?articleid=501" class="subsubmenu">Member List</a>	
+		</div>
+        <a href="/modules/content/index.php?id=59" class="submenu">Member Benefits</a>
+        <a href="/modules/content/index.php?id=68" class="submenu">MMA Contacts</a>
+        <a href="/modules/content/index.php?id=307" class="submenu">FAQs</a>
+	<a href="/modules/content/index.php?id=60" class="submenu">How to join the MMA</a>
+        <a href="/save_perf.php?menuItem=mysubmenu2&amp;url=" class="submenu" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=119');">MMA Awards</a>
+		<div id="mysubmenu2" class="hide">
+        	<a href="/modules/content/index.php?id=382" class="subsubmenu">2006 Finalists</a>
+        	<a href="/modules/content/index.php?id=300" class="subsubmenu">About</a>	
+		<a href="/modules/content/index.php?id=301" class="subsubmenu">Entry Categories</a>	
+		<a href="/modules/content/index.php?id=302" class="subsubmenu">Guidelines</a>	
+		<a href="/modules/content/index.php?id=303" class="subsubmenu">Submit Entry</a>
+		<a href="/modules/content/index.php?id=352" class="subsubmenu">Judges</a>
+		<a href="/modules/content/index.php?id=304" class="subsubmenu">Awards Dinner</a>	
+		<a href="/modules/content/index.php?id=305" class="subsubmenu">Past Winners</a>	
+		</div>
+		<a href="/modules/content/index.php?id=308" class="submenu">Promotional Opportunities</a>
+    </div>
+<a href="/save_perf.php?menuItemRemove=mymenu1+mymenu3+mymenu4+mymenu5+mymenu6+mymenu7+mymenu8+mymenu9+mymenu10&amp;menuItem=mymenu2&amp;url=" class="menu1" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=325');">MMA Messenger</a>
+    <div id="mymenu2" class="hide">
+        <a href="http://news.mmaglobal.com/page.cfm?name=subscribe" target="_blank" class="submenu">Receive our Newsletter!</a>
+    </div>
+<a href="/save_perf.php?menuItemRemove=mymenu2+mymenu1+mymenu4+mymenu5+mymenu6+mymenu7+mymenu8+mymenu9+mymenu10&amp;menuItem=mymenu3+mysubmenu3+mysubmenu4+mysubmenu5&amp;url=" class="menu1" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=326');">MMA Committee &amp; Action Teams</a>
+    <div id="mymenu3" class="hide">
+        <a href="/save_perf.php?menuItem=mysubmenu3&amp;url=" class="submenu" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=3');">Committees</a>
+		<div id="mysubmenu3" class="hide" style="display: block; position: static; visibility: visible;">
+        	<a href="/modules/content/index.php?id=154" class="subsubmenu">Academic Outreach</a>
+		<a href="/modules/content/index.php?id=219" class="subsubmenu">Advocacy</a>
+		<a href="/modules/content/index.php?id=58" class="subsubmenu">Best Practices</a>
+		<a href="/modules/content/index.php?id=369" class="subsubmenu">m-commerce</a>
+		<a href="/modules/content/index.php?id=57" class="subsubmenu">Metrics</a>
+		<a href="/modules/content/index.php?id=1" class="subsubmenu">Mobile Advertising</a>
+		<a href="/modules/content/index.php?id=56" class="subsubmenu">Mobile Search</a>
+		<a href="/modules/content/index.php?id=220" class="subsubmenu">Mobile Video &amp; Television</a>
+		<a href="/modules/content/index.php?id=116" class="subsubmenu">Short Code</a>
+		<a href="/modules/wfsection/article.php?articleid=43" class="subsubmenu">MMA Internal Committees</a>
+		</div>
+        <a href="/save_perf.php?menuItem=mysubmenu4&amp;url=" class="submenu" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=309');">Special Interest Groups</a>
+		<div id="mysubmenu4" class="hide">
+        	<a href="/modules/content/index.php?id=221" class="subsubmenu">Off Portal Content</a>
+		<a href="/modules/content/index.php?id=117" class="subsubmenu">Technical Standards</a>
+		</div>
+        <a href="/save_perf.php?menuItem=mysubmenu5&amp;url=" class="submenu" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=310');">Task Forces</a>
+		<div id="mysubmenu5" class="hide">
+        	<a href="/modules/content/index.php?id=311" class="subsubmenu">Mobile Promotions</a>
+		<a href="/modules/content/index.php?id=115" class="subsubmenu">Privacy &amp; Preference</a>
+		</div>
+    </div>
+<a href="/save_perf.php?menuItemRemove=mymenu2+mymenu3+mymenu1+mymenu5+mymenu6+mymenu7+mymenu8+mymenu9+mymenu10&amp;menuItem=mymenu4&amp;url=" class="menu1" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=118');">MMA Guidelines &amp; Policy</a>
+    <div id="mymenu4" class="hide">
+        <a href="/modules/content/index.php?id=5" class="submenu">MMA Code of Conduct</a>
+        <a href="/modules/content/index.php?id=91" class="submenu">Consumer Best Practices Guidelines</a>
+        <a href="/modules/content/index.php?id=312" class="submenu">Mobile Advertising Guidelines</a>
+        <a href="/modules/content/index.php?id=313" class="submenu">Information Briefs &amp; Educational Tools</a>
+    </div>
+<a href="/save_perf.php?menuItemRemove=mymenu2+mymenu3+mymenu4+mymenu1+mymenu6+mymenu7+mymenu8+mymenu9+mymenu10&amp;menuItem=mymenu5&amp;url=" class="menu1" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=314');">Consumer</a>
+    <div id="mymenu5" class="hide">
+        <a href="/modules/content/index.php?id=315" class="submenu">Consumer Information</a>
+        <a href="/modules/content/index.php?id=316" class="submenu">MMA Consumer Initiatives</a>
+    </div>
+<a href="/save_perf.php?menuItemRemove=mymenu2+mymenu3+mymenu4+mymenu5+mymenu1+mymenu7+mymenu8+mymenu9+mymenu10&amp;menuItem=mymenu6+mysubmenu6&amp;url=" class="menu1" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=317');">Information &amp; Resources</a>
+    <div id="mymenu6" class="hide">
+        <a href="/modules/content/index.php?id=51" class="submenu">Mobile Marketing Industry Overview</a>
+        <a href="/modules/content/index.php?id=53" class="submenu">Mobile Marketing Ecosystem</a>
+		<a href="/save_perf.php?menuItem=mysubmenu6&amp;url=" class="submenu" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=318');">MMA International Journal of Mobile Marketing</a>
+		<div id="mysubmenu6" class="hide">
+        	<a href="/modules/content/index.php?id=330" class="subsubmenu">Call for Papers</a>
+        	<a href="/modules/content/index.php?id=371" class="subsubmenu">2006 Editions</a>
+        	<a href="/modules/content/index.php?id=372" class="subsubmenu">2007 Editions</a>
+		</div>
+		<a href="/modules/news/index.php?storytopic=7" class="submenu">MMA Mobile Messenger</a>
+		<a href="/modules/wfsection/index.php?category=1" class="submenu">MMA Member Case Studies</a>
+		<a href="/modules/wfsection/index.php?category=18" class="submenu">Articles</a>
+		<a href="/modules/wfsection/index.php?category=25" class="submenu">Statistics &amp; Resources</a>
+		<a href="/modules/wfsection/article.php?articleid=88" class="submenu">Member Job Postings</a>
+		<a href="/modules/content/index.php?id=6" class="submenu">Glossary</a>
+		<a href="/modules/content/index.php?id=55" class="submenu">Industry Links</a>
+		<a href="/modules/liaise/?form_id=3" class="submenu">Speaking Opportunities</a>
+		<a href="/modules/content/index.php?id=12" class="submenu">Sponsorship Opportunities</a>
+    </div>
+<a href="/save_perf.php?menuItemRemove=mymenu2+mymenu3+mymenu4+mymenu5+mymenu6+mymenu1+mymenu8+mymenu9+mymenu10&amp;menuItem=mymenu7+mysubmenu7&amp;url=" class="menu1" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=319');">Events</a>
+    <div id="mymenu7" class="hide">
+        <a href="http://www.mobilemarketingforum.com" target="_blank" class="submenu">Mobile Marketing Forum</a>
+        <a href="/save_perf.php?menuItem=mysubmenu7&amp;url=" class="submenu" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=320');">Annual General Meeting</a>
+		<div id="mysubmenu7" class="hide">
+		<a href="/modules/content/index.php?id=374" class="subsubmenu">Venue</a>
+		<a href="/modules/content/index.php?id=375" class="subsubmenu">Agenda</a>
+		<a href="/modules/content/index.php?id=376" class="subsubmenu">Register</a>
+		<a href="/modules/content/index.php?id=377" class="subsubmenu">Sponsorships</a>
+		</div>
+		<a href="http://www.mobilemarketingforum.com/?q=node/97" target="_blank" class="submenu">2006 Awards Ceremony</a>
+		<a href="/modules/piCal/" class="submenu">Event Calendar</a>
+		<a href="/modules/content/index.php?id=342" class="submenu">Webinars</a>
+    </div>
+<a href="/save_perf.php?menuItemRemove=mymenu2+mymenu3+mymenu4+mymenu5+mymenu6+mymenu7+mymenu1+mymenu9+mymenu10&amp;menuItem=mymenu8&amp;url=" class="menu1" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=321');">News</a>
+    <div id="mymenu8" class="hide">
+        <a href="/modules/news/index.php?storytopic=3&amp;storynum=5" class="submenu">MMA Press Releases</a>
+        <a href="/modules/content/index.php?id=62" class="submenu">Press Kit</a>
+		<a href="/modules/news/index.php?storytopic=7" class="submenu">MMA Mobile Messenger</a>
+		<a href="/modules/news/index.php?storytopic=6&amp;storynum=5" class="submenu">MMA In The News</a>
+		<a href="/modules/wfsection/viewarticles.php?category=29" class="submenu">Member Press Releases</a>
+    </div>
+<a href="/save_perf.php?menuItemRemove=mymenu2+mymenu3+mymenu4+mymenu5+mymenu6+mymenu7+mymenu8+mymenu1+mymenu10&amp;menuItem=mymenu9&amp;url=" class="menu1" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=322');">Membership Information</a>
+    <div id="mymenu9" class="hide">
+        <a href="/modules/content/index.php?id=60" class="submenu">Information</a>
+        <a href="/modules/content/index.php?id=59" class="submenu">Member Benefits</a>
+		<a href="/uploads/Membership_Forms/Membership_Application_v3_07_05.pdf" target="_blank" class="submenu">Application Form</a>
+    </div>
+<a href="/save_perf.php?menuItemRemove=mymenu2+mymenu3+mymenu4+mymenu5+mymenu6+mymenu7+mymenu8+mymenu9+mymenu1+mymenu10&amp;menuItem=mymenu10&amp;url=" class="menu1" onclick="this.href=this.href+URLEncode('/modules/content/index.php?id=323');">MMA Member Tools</a>
+    <div id="mymenu10" class="hide" style="display: block; position: static; visibility: visible;">
+        <a href="/user.php" class="submenu">Member Login</a>
+        <a href="/modules/liaise/?form_id=2" class="submenu">Post Job Description</a>
+	<a href="/modules/rmdp/" class="submenu">Upload/Download Area</a>
+    </div>
 	</td>
   </tr>
-  <!--
-  <tr> 
-    <td class="title">Membership</td>
-  </tr>
-    <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=59">Join Today</a></td>
-  </tr>
-    <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=60">Levels of Membership</a></td>
-  </tr>
-    <tr> 
-    <td class="item"><a href="/modules/content/index.php?id=8">MMA Members</a></td>
-  </tr>
-    <tr> 
-    <td class="item"><a href="/user.php">Member Login</a></td>
-  </tr>
-  -->
 </tbody></table>
-<script language="JavaScript" type="text/JavaScript">
-var qs = location.search.substring(1);
-  var nv = qs.split('&');
-  var url = new Object();
-  for(i = 0; i < nv.length; i++)
-  {
-    eq = nv[i].indexOf('=');
-    url[nv[i].substring(0,eq).toLowerCase()] = unescape(nv[i].substring(eq + 1));
-  }
-
-if(url.submenu){
-	trow = document.getElementById(url.submenu);
-	trow.style.display = "block";
-}
-</script>                  <table width="100%" border="0" cellspacing="0" cellpadding="0" class="mainmenu">
-  <tbody><tr> 
-    <td class="title">Membership</td>
-  </tr>
-  <tr>
-    <td class="item">
-      <a href="/modules/content/index.php?id=59">Join Today</a>
-</td>
-  </tr>
-  <tr>
-    <td class="item">
-      <a href="/modules/content/index.php?id=60">Levels of Membership</a>
-</td>
-  </tr>
-  <tr>
-    <td class="item">
-      <a href="/modules/content/index.php?id=8">MMA Members</a>
-</td>
-  </tr>
-  <tr>
-    <td class="item">
-      <a href="/uploads/Membership_Forms/Membership_Application_v3_07_05.pdf">Membership Application</a>
-</td>
-  </tr>
-  <tr>
-    <td class="item">
-      <a href="/user.php">Member Login</a>
-</td>
-  </tr>
-</tbody></table>            <!-- End left blocks loop -->
+            <!-- End left blocks loop -->
     </td>
-    <td valign="top">
-        <div class="content">
+    <td valign="top" id="centerCcolumn"><table border="0" cellpadding="5" cellspacing="0"><tbody><tr><td>
         <!-- End display center blocks -->
                 
           <img height="50" src="http://mmaglobal.com/themes/mma/images/modules/content/about.gif"><br><br><br><strong>Privacy</strong> 
@@ -400,16 +465,14 @@ if(url.submenu){
 <!-- end comments loop -->
 </div>
 
-        </div>
-        
-    </td>
+    </td></tr></tbody></table></td>
         <td valign="top" align="right" width="153">
     <!-- Start left blocks loop -->
                   <div class="blockContent"><img src="&lt;{$xoops_imageurl}&gt;images/spacer.gif" width="19" height="3"><br>
 <table border="0" cellspacing="0" cellpadding="1" width="100%" style="line-height:normal;">
 <!-- header part -->
   <tbody><tr>
-     <td nowrap="nowrap" colspan="7" align="center" bgcolor="#D6DDE3" valign="middle" style="padding:3px; vertical-align:middle;"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-5-31"><img src="http://mmaglobal.com/modules/piCal/images/default/miniarrowleft.gif" width="18" height="14" border="0" alt="Last Month" title="Last Month"></a><font color="#687B85"><b><span class="calhead">JUN 2006 EVENTS</span></b></font><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-7-1"><img src="http://mmaglobal.com/modules/piCal/images/default/miniarrowright.gif" width="18" height="14" border="0" alt="Next Month" title="Next Month"></a></td>
+     <td nowrap="nowrap" colspan="7" align="center" bgcolor="#D6DDE3" valign="middle" style="padding:3px; vertical-align:middle;"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-10-31"><img src="http://mmaglobal.com/modules/piCal/images/default/miniarrowleft.gif" width="18" height="14" border="0" alt="Last Month" title="Last Month"></a><font color="#687B85"><b><span class="calhead">NOV 2006 EVENTS</span></b></font><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-12-1"><img src="http://mmaglobal.com/modules/piCal/images/default/miniarrowright.gif" width="18" height="14" border="0" alt="Next Month" title="Next Month"></a></td>
   </tr>
   <tr>
     <td width="100%" class="calframe" style="border:solid 1px #D6DDE3;">
@@ -432,53 +495,53 @@ if(url.submenu){
               <td><span class="calbody"><img src="http://mmaglobal.com/modules/piCal/images/default/spacer.gif" alt="" width="20" height="12"></span></td>
               <td><span class="calbody"><img src="http://mmaglobal.com/modules/piCal/images/default/spacer.gif" alt="" width="20" height="12"></span></td>
               <td><span class="calbody"><img src="http://mmaglobal.com/modules/piCal/images/default/spacer.gif" alt="" width="20" height="12"></span></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-1&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">1</span></font></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-2&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">2</span></font></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-3&amp;smode=Monthly" class="calbody"><span class="calbody">3</span></a></td>
+              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-4&amp;smode=Monthly" class="calbody"><span class="calbody">4</span></a></td>
+
+        </tr>
+        <tr>
+          <!-- daily loop -->
+              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-5&amp;smode=Monthly" class="calbody"><span class="calbody">5</span></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-6&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">6</span></font></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-7&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">7</span></font></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-8&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">8</span></font></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-9&amp;smode=Monthly" class="calbody"><span class="calbody">9</span></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-10&amp;smode=Monthly" class="calbody"><span class="calbody">10</span></a></td>
+              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-11&amp;smode=Monthly" class="calbody"><span class="calbody">11</span></a></td>
+
+        </tr>
+        <tr>
+          <!-- daily loop -->
+              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-12&amp;smode=Monthly" class="calbody"><span class="calbody">12</span></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-13&amp;smode=Monthly" class="calbody"><span class="calbody">13</span></a></td>
+              <td align="center" bgcolor="#DCE1E4"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-14&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">14</span></font></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-15&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">15</span></font></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-16&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">16</span></font></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-17&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">17</span></font></a></td>
+              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-18&amp;smode=Monthly" class="calbody"><span class="calbody">18</span></a></td>
+
+        </tr>
+        <tr>
+          <!-- daily loop -->
+              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-19&amp;smode=Monthly" class="calbody"><span class="calbody">19</span></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-20&amp;smode=Monthly" class="calbody"><span class="calbody">20</span></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-21&amp;smode=Monthly" class="calbody"><span class="calbody">21</span></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-22&amp;smode=Monthly" class="calbody"><span class="calbody">22</span></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-23&amp;smode=Monthly" class="calbody"><span class="calbody">23</span></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-24&amp;smode=Monthly" class="calbody"><span class="calbody">24</span></a></td>
+              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-25&amp;smode=Monthly" class="calbody"><span class="calbody">25</span></a></td>
+
+        </tr>
+        <tr>
+          <!-- daily loop -->
+              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-26&amp;smode=Monthly" class="calbody"><span class="calbody">26</span></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-27&amp;smode=Monthly" class="calbody"><span class="calbody">27</span></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-28&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">28</span></font></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-29&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">29</span></font></a></td>
+              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-11-30&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">30</span></font></a></td>
               <td><span class="calbody"><img src="http://mmaglobal.com/modules/piCal/images/default/spacer.gif" alt="" width="20" height="12"></span></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-1&amp;smode=Monthly" class="calbody"><span class="calbody">1</span></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-2&amp;smode=Monthly" class="calbody"><span class="calbody">2</span></a></td>
-              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-3&amp;smode=Monthly" class="calbody"><span class="calbody">3</span></a></td>
-
-        </tr>
-        <tr>
-          <!-- daily loop -->
-              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-4&amp;smode=Monthly" class="calbody"><span class="calbody">4</span></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-5&amp;smode=Monthly" class="calbody"><span class="calbody">5</span></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-6&amp;smode=Monthly" class="calbody"><span class="calbody">6</span></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-7&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">7</span></font></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-8&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">8</span></font></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-9&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">9</span></font></a></td>
-              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-10&amp;smode=Monthly" class="calbody"><span class="calbody">10</span></a></td>
-
-        </tr>
-        <tr>
-          <!-- daily loop -->
-              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-11&amp;smode=Monthly" class="calbody"><span class="calbody">11</span></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-12&amp;smode=Monthly" class="calbody"><span class="calbody">12</span></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-13&amp;smode=Monthly" class="calbody"><span class="calbody">13</span></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-14&amp;smode=Monthly" class="calbody"><span class="calbody">14</span></a></td>
-              <td align="center" bgcolor="#DCE1E4"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-15&amp;smode=Monthly" class="calbody"><span class="calbody">15</span></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-16&amp;smode=Monthly" class="calbody"><span class="calbody">16</span></a></td>
-              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-17&amp;smode=Monthly" class="calbody"><span class="calbody">17</span></a></td>
-
-        </tr>
-        <tr>
-          <!-- daily loop -->
-              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-18&amp;smode=Monthly" class="calbody"><span class="calbody">18</span></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-19&amp;smode=Monthly" class="calbody"><span class="calbody">19</span></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-20&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">20</span></font></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-21&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">21</span></font></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-22&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">22</span></font></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-23&amp;smode=Monthly" class="calbody"><span class="calbody">23</span></a></td>
-              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-24&amp;smode=Monthly" class="calbody"><span class="calbody">24</span></a></td>
-
-        </tr>
-        <tr>
-          <!-- daily loop -->
-              <td align="center" bgcolor="#FCFDFE"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-25&amp;smode=Monthly" class="calbody"><span class="calbody">25</span></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-26&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">26</span></font></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-27&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">27</span></font></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-28&amp;smode=Monthly" class="calbody"><font color=""><span class="calbody" style="text-decoration:underline;color: #A83640">28</span></font></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-29&amp;smode=Monthly" class="calbody"><span class="calbody">29</span></a></td>
-              <td align="center" bgcolor="#FFFFFF"><a href="http://mmaglobal.com/modules/piCal/index.php?caldate=2006-6-30&amp;smode=Monthly" class="calbody"><span class="calbody">30</span></a></td>
               <td><span class="calbody"><img src="http://mmaglobal.com/modules/piCal/images/default/spacer.gif" alt="" width="20" height="12"></span></td>
 
         </tr>
@@ -503,29 +566,29 @@ if(url.submenu){
   </tr>
 </tbody></table>
 </div>                  <div class="blockContent"><div class="eventTitle">UPCOMING EVENTS</div><div class="event">
+	        
+	           <img border="0" src="http://mmaglobal.com/modules/piCal/images/default/dot_allday.gif"> 14th NOV
+	           <a href="http://mmaglobal.com/modules/piCal/index.php?smode=Daily&amp;action=View&amp;event_id=00000128&amp;caldate=2006-11-14" class="calsummary_allday">Mobile TV</a>
+               
+<hr size="1">
 	       
-	           <img border="0" src="http://mmaglobal.com/modules/piCal/images/default/dot_future.gif"> 20th JUN 7:30 am--
-	            <a href="http://mmaglobal.com/modules/piCal/index.php?smode=Daily&amp;action=View&amp;event_id=00000113&amp;caldate=2006-6-15" class="calsummary">DM Days New York Conference &amp; Expo</a>
+	           <img border="0" src="http://mmaglobal.com/modules/piCal/images/default/dot_future.gif"> 15th NOV 11:00 am--
+	            <a href="http://mmaglobal.com/modules/piCal/index.php?smode=Daily&amp;action=View&amp;event_id=00000145&amp;caldate=2006-11-14" class="calsummary">MMA Webinar: Mobile Marketing Futures, Sponsored by VeriSign, Inc.</a>
 	            
 <hr size="1">
 	        
-	           <img border="0" src="http://mmaglobal.com/modules/piCal/images/default/dot_allday.gif"> 21st JUN
-	           <a href="http://mmaglobal.com/modules/piCal/index.php?smode=Daily&amp;action=View&amp;event_id=00000114&amp;caldate=2006-6-15" class="calsummary_allday">ITU New Initiatives Workshop</a>
+	           <img border="0" src="http://mmaglobal.com/modules/piCal/images/default/dot_allday.gif"> 16th NOV
+	           <a href="http://mmaglobal.com/modules/piCal/index.php?smode=Daily&amp;action=View&amp;event_id=00000130&amp;caldate=2006-11-14" class="calsummary_allday">III Mobile VAS Conference</a>
                
 <hr size="1">
-	        
-	           <img border="0" src="http://mmaglobal.com/modules/piCal/images/default/dot_allday.gif"> 26th JUN
-	           <a href="http://mmaglobal.com/modules/piCal/index.php?smode=Daily&amp;action=View&amp;event_id=00000112&amp;caldate=2006-6-15" class="calsummary_allday">Wireless Leadership Summit</a>
-               
-<hr size="1">
-	        
-	           <img border="0" src="http://mmaglobal.com/modules/piCal/images/default/dot_allday.gif"> 12th JUL
-	           <a href="http://mmaglobal.com/modules/piCal/index.php?smode=Daily&amp;action=View&amp;event_id=00000110&amp;caldate=2006-6-15" class="calsummary_allday">Off-Deck Mobile Content</a>
-               
+	       
+	           <img border="0" src="http://mmaglobal.com/modules/piCal/images/default/dot_future.gif"> 28th NOV 9:00 am--
+	            <a href="http://mmaglobal.com/modules/piCal/index.php?smode=Daily&amp;action=View&amp;event_id=00000124&amp;caldate=2006-11-14" class="calsummary">Mobile Marketing Forum</a>
+	            
 <hr size="1">
            <table border="0" cellspacing="0" cellpadding="0" width="100%">
             <tbody><tr>
-             <td align="right"><small>11 more item(s)</small></td>
+             <td align="right"><small>7 more item(s)</small></td>
             </tr>
            </tbody></table>
 </div></div>                  <div class="blockContent"><br>
@@ -543,19 +606,19 @@ if(url.submenu){
     <td bgcolor="#D6DDE3"><table width="100%" border="0" cellspacing="0" cellpadding="4" bgcolor="white">
               <tbody><tr>
           <td valign="top"><img src="http://mmaglobal.com/themes/mma/images/modules/news/news_bullet.gif"></td>
-          <td width="100%" align="left"><a href="http://mmaglobal.com/modules/news/article.php?storyid=67">MMA’s Mobile Marketing Forum Spotlights Success of Mobile Channel</a> (2006/6/14)</td>
+          <td width="100%" align="left"><a href="http://mmaglobal.com/modules/news/article.php?storyid=80">MOBILE MARKETING ASSOCIATION RELEASES UPDATE TO MOBILE ADVERTISING GUIDELINES</a> (2006/11/13)</td>
         </tr>
               <tr>
           <td valign="top"><img src="http://mmaglobal.com/themes/mma/images/modules/news/news_bullet.gif"></td>
-          <td width="100%" align="left"><a href="http://mmaglobal.com/modules/news/article.php?storyid=66">Mobile Marketing Association Launches The International Journal of Mobile Market</a> (2006/6/9)</td>
+          <td width="100%" align="left"><a href="http://mmaglobal.com/modules/news/article.php?storyid=79">MOBILE MARKETING ASSOCIATION ANNOUNCES 2006 AWARD FINALISTS</a> (2006/11/2)</td>
         </tr>
               <tr>
           <td valign="top"><img src="http://mmaglobal.com/themes/mma/images/modules/news/news_bullet.gif"></td>
-          <td width="100%" align="left"><a href="http://mmaglobal.com/modules/news/article.php?storyid=65">Growing Mobile Marketing Association Membership Reinforces Strength of Industry</a> (2006/6/1)</td>
+          <td width="100%" align="left"><a href="http://mmaglobal.com/modules/news/article.php?storyid=78">Annual Mobile Marketing Forum Event Reinforces Year of Growth in EMEA</a> (2006/10/16)</td>
         </tr>
               <tr>
           <td valign="top"><img src="http://mmaglobal.com/themes/mma/images/modules/news/news_bullet.gif"></td>
-          <td width="100%" align="left"><a href="http://mmaglobal.com/modules/news/article.php?storyid=64">Mobile Marketing Association Opens Global Headquarters</a> (2006/5/31)</td>
+          <td width="100%" align="left"><a href="http://mmaglobal.com/modules/news/article.php?storyid=77">Mobile Marketing Association Announces Mobile Marketing Forum In Turkey</a> (2006/9/28)</td>
         </tr>
        
       </tbody></table></td>
@@ -569,5 +632,35 @@ if(url.submenu){
     <td align="center" class="item"><a href="/modules/content/index.php?id=16">About</a> | <a href="/modules/content/index.php?id=59">Membership</a> 
       | <a href="/modules/content/index.php?id=118">Initiatives</a> | <a href="/modules/piCal/">Meetings</a> | <a href="/modules/news/">News</a> </td>
   </tr>
-</tbody></table>      
+</tbody></table>
+
+<script type="text/javascript">
+<!--
+showhideobject('mysubmenu3','t');
+showhideobject('mymenu10','t');
+
+//-->
+</script>    
+<script language="JavaScript" type="text/JavaScript">
+var qs = location.search.substring(1);
+var nv = qs.split('&');
+var url = new Object();
+for(i = 0; i < nv.length; i++)
+{
+	eq = nv[i].indexOf('=');
+    url[nv[i].substring(0,eq).toLowerCase()] = unescape(nv[i].substring(eq + 1));
+}
+
+if(url.submenu){
+	trow = document.getElementById(url.submenu);
+	trow.style.display = "block";
+}
+
+if(url.subsubmenu){
+	trow = document.getElementById(url.subsubmenu);
+	trow.style.display = "block";
+}
+</script>
+
+  
 </body></html>
