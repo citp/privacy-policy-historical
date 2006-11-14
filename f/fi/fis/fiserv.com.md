@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiserv.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616150743id_/http%3A//fiserv.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiserv.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114085727id_/http%3A//www.fiserv.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Fiserv - Privacy Policy
 
