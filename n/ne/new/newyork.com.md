@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyork.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427051753id_/http%3A//newyork.com/privacy.html%3Fcat%3Dmain) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyork.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114221442id_/http%3A//www.newyork.com/privacy.html%3Fcat%3Dmain) for the most accurate reproduction.*
 
 # NewYork.com
 
