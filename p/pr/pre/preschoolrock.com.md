@@ -1,0 +1,18 @@
+> *The following text is extracted and transformed from the preschoolrock.com privacy policy that was archived on 2006-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061114091553id_/http%3A//preschoolrock.com/index.php/privacy_policy) for the most accurate reproduction.*
+
+# PreschoolRock.com - Privacy Policy
+
+PreschoolRock.com will not obtain information about you when you visit our site, unless you affirmatively choose to provide such information to PreschoolRock.com or its writers. 
+
+When you visit our site, we automatically collect and store only the following information about you, which does not contain personally identifiable information: 
+
+Your host name or IP address   
+The domain from which you access our site   
+The time, day, month and year you access our site   
+The browser you are using 
+
+We use this information to monitor the number of users to the different pages of our site, and to help us make our site more useful to future users. We do not sell or transfer to third parties any of information that we collect from every user. 
+
+If you identify yourself by sending email to the PreschoolRock.com or its editorial staff, you also may agree to provide personal identification information in that communication. If you choose to submit personal-identification information, we may use this information for marketing purposes. This information is retained by PreschoolRock.com. 
+
+If you have any questions about the Privacy Policy, please send an email to info(at)preschoolrock(dot)com.
