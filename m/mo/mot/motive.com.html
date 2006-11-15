@@ -1,1390 +1,263 @@
-<!--The following is the downloaded HTML source of the motive.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615051205id_/http%3A//motive.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the motive.com privacy policy that was archived on 2006-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061115193549id_/http%3A//motive.com/privacy.asp) for the most accurate reproduction.-->
 
-<html lang="en,ja"><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta http-equiv="Content-Language" content="en,ja">		
-		<!--Run Location : PROD-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>		
+					
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	
+		<meta http-equiv="Content-Language" content="en">				
+				<title>Privacy Policy</title>
+		<meta name="title" content="Privacy Policy">
+		
+		<meta name="robots" content="index,follow">
+<!--http://www.motive.com/-->
+<!--Run Location : PROD-->
 <!--remote Address : 216.110.85.134-->
 <!--remote Host : 216.110.85.134-->
-<!--Machine : www-1-->
-<script language="javascript" type="text/javascript" src="/include/flash_detect.js">
-<!--
-	function getFlashVersion() { return null; };
-//-->
-</script>
-<script language="javascript">
-<!--
-	//DATE DISPLAY AT TOP, AND IN COPYRIGHT FOOTER TEXT
-	
-	var this_weekday_name_array = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")	//predefine weekday names
-	var this_month_name_array = new Array("January","February","March","April","May","June","July","August","September","October","November","December")	//predefine month names
-	
-	var this_date_timestamp=new Date()	//get current day-time stamp
-	
-	var this_weekday = this_date_timestamp.getDay()	//extract weekday
-	var this_date = this_date_timestamp.getDate()	//extract day of month
-	var this_month = this_date_timestamp.getMonth()	//extract month
-	var this_year = this_date_timestamp.getYear()	//extract year
-	
-	if (this_year < 1000)
-		this_year+= 1900;	//fix Y2K problem
-	if (this_year==101)
-		this_year=2001;		//fix Netscape browsers - it displays the year as being the year 101!
-	
-	var this_date_string = this_weekday_name_array[this_weekday] + ", " + this_month_name_array[this_month] + " " + this_date + ", " + this_year	//concat long date string
-	
-	//END DATE CODE
-	
-	var cursorposY;
-	var cursorposX;
-
-	if(document.layers)
-	{
-		document.captureEvents(Event.MOUSEUP);
-	}
-
-	document.onmouseup = getcursorpos;
-
-	function getcursorpos(evt)
-	{
-		if(document.all)
-		{
-			cursorposY = window.event.clientY;
-			cursorposX = window.event.clientX;
-		}
-		else
-		{
-			cursorposY = evt.pageY;
-			cursorposX = evt.pageX;
-			document.routeEvent(Event.MOUSEUP);
-		}
-
-		return true;
-	}
-
-	function viewcustomer(formname,selectname){
-		var thevalue;
-
-		if(selectname == '' || selectname == null)
-			selectname = 'customers';
-
-		if(formname == '' || formname == null)
-			formname = 'customerform';
-
-		thevalue = document.forms[formname].elements[selectname].options[document.forms[formname].elements[selectname].selectedIndex].value;
-		if(thevalue != 0)
-			window.location.href="/customers/bios/bio.asp?customer=" + thevalue;
-	}
-
-	function selectcustomer(){
-		var i;
-
-		var thecustomer;
-
+<!--Machine : www-2-->						
+		<link rel="stylesheet" type="text/css" href="/include/css/styles.css" media="screen,print">
+		<!--[if lte IE 6]>
+		<link rel="stylesheet" href="/include/css/lteie6.css" type="text/css" media="screen,print">
+		<![endif]-->		
+		<script language="javascript" type="text/javascript" src="/include/flash_detect.js">
+		<!--
+			function getFlashVersion() { return null; };
+		//-->
+		</script>
+		<script type="text/javascript" language="javascript">			
+			var customer = "";
+			var partner = "";	
+			var rootURL = "http://www.motive.com";	
+			var rootURLIR = "http://ir.motive.com";
+			var section = "";					
+		</script>
 		
-	}
-	
-	function viewpartner(formname,selectname){
-		var thevalue;
-
-		if(selectname == '' || selectname == null)
-			selectname = 'partners';
-
-		if(formname == '' || formname == null)
-			formname = 'partnerform';
-
-		thevalue = document.forms[formname].elements[selectname].options[document.forms[formname].elements[selectname].selectedIndex].value;
-		if(thevalue != 0)
-			window.location.href="/partners/directory/profile.asp?partner=" + thevalue;
-	}
-
-	function selectpartner(){
-		var i;
-
-		var thepartner;
-
+			<script language="javascript" src="/include/clientFunctions.js" type="text/javascript"></script>
+			<script language="javascript" src="/include/topNav.js" type="text/javascript"></script>
 		
-	}
-
-/*
-	function viewpartner(){
-			var thevalue;
-			var list;
-
-			//list = document.forms.partnerfinder.selectList;
-			thevalue = document.forms['partnerfinder'].elements['partners'].options[document.forms['partnerfinder'].elements['partners'].selectedIndex].value;
-			if(thevalue != 0)
-				window.location.href="/partners/directory/profile.asp?partner=" + thevalue;
-		}
-
-
-	function selectpartner(){
-		var i;
-
-		var thepartner;
-
+			<!--[if gte IE 5.5]>
+			<script language="javascript" src="/include/nav/dhtml.js" type="text/javascript"></script>
+			<![endif]-->					
 		
-	}
-*/
-
-	function checkForMomentum(evt)
-	{
-		var leftVal;
-		var widthVal;
-		var heightVal;
-		var topVal;
-
-		widthVal = 222;
-		heightVal = 190;
-
-		if(document.all)
-		{
-			leftVal = cursorposX; //(document.body.scrollLeft + document.body.clientWidth  - widthVal - 15) + (screen.width - document.body.clientWidth)/2;
-			topVal = cursorposY;
-		}
-		else
-		{
-			leftVal = cursorposX; //(self.pageXOffset + self.innerWidth - widthVal - 25) + (screen.width - self.outerWidth)/2;
-			topVal = cursorposY;
-		}
-
-		window.open("http://www.motive.com/library/getNameAndEmail.asp?typeID=momentum","checkForMomentum","top=" + topVal + ",left=" + leftVal + ",height=" + heightVal + ",width=" + widthVal);
-	}
-
-	function motivemedia(movie,movieid,group)
-	{
-		var browser;
-		var windowvar;
-		var leftVal;
-		var topVal;
-		var winWidth;
-		var winHeight;
-
-		var leftVal = 50;
-		var topVal = 50;
-
-		if(document.all)
-			browser = "ie";
-		else if((!document.layers) && (navigator.userAgent.indexOf('Netscape')!=-1))
-			browser = "ns6";
-		else
-			browser = "other";
-/*
-		winWidth = 765;
-	 	winHeight = 368;
-
-	 	if(document.all)
-		{
-
-			leftVal = document.body.scrollLeft + Math.floor((document.body.clientWidth/2) - (winWidth/2));
-
-			topVal =  document.body.scrollTop + Math.floor((document.body.clientHeight/2) - (winHeight/2));
-
-		}
-		else
-		{
-			leftVal =  self.pageXOffset + Math.floor((self.innerWidth/2) - (winWidth/2) - 15);
-			topVal =  self.pageYOffset  + Math.floor((self.innerHeight/2) - (winHeight/2) - 15);
-		}
-*/
-
-		if(movie == "" || movie == null || movie == "0")
-		{
-			windowvar = window.open("http://www.motive.com/motivemedia/motivemedia.asp?group=customer&movie=0&movieid=0&browser=" + browser,"motivemedia","height=368,width=765,top=" + topVal + ",left=" + leftVal);
-			//windowvar = window.open("http://www.motive.com/motivemedia/motivemedia.asp?group=customer&browser=" + browser,"motivemedia","height=382,width=483,top=50,left=50");
-		}
-		else
-		{
-			group = group.replace(/ /i,"");
-			windowvar = window.open("http://www.motive.com/motivemedia/motivemedia.asp?movie=" + movie + "&movieid=" + movieid + "&group=" + group + "&browser=" + browser,"motivemedia","height=368,width=765,top=" + topVal + ",left=" + leftVal);
-		}
-
-	}
-
-	function openFlashWindow(url,width,height) {
-		var tempVar;
-		var tempWinVar;		
-		var leftVal = (screen.width - width) / 2;
-		var topVal = (screen.height - height) / 2;		
-		tempWinVar = window.open(url,"flashWindow","width=" + width + ",height=" + height + ",left=" + leftVal + ",top=" + topVal);				
-		
-	}
-	
-	var flashCode;
-	flashCode = '';
-	
-	function execFlashContent(altContent,altDestination,promptInstall)
-	{
-		var confirmAnswer;
-		
-		confirmAnswer = window.confirm("To view this page as it was intended, would you like to install the Macromedia Flash Player?");
-		if(confirmAnswer){
-			//document.write(flashCode);		
-			document.all.flashContent.innerHTML=flashCode;
-		} else {
-			if(promptInstall == "altContent"){
-				document.all.flashContent.innerHTML=altContent;
-				//document.write(altContent);			
-			} else if(promptInstall == "altDestination"){
-				window.location.href=altDestination;
-			}
-		}
-	}
-
-	function getFlash(flashURL,width,height,name,bgcolor,minFlashVersion,altContent,altDestination,promptInstall){
-		var confirmAnswer;
-		//var flashCode;
-		var timerVar;
-		
-		flashCode = '	<OBJECT	classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
-							'				codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"' +
-							'				WIDTH="' + width + '"' +
-							'				HEIGHT="' + height + '"' +
-							'				id="' + name + '">' +
-							'		<PARAM	NAME=movie' +
-							'				VALUE="' + flashURL + '">' +
-							'		<PARAM	NAME=quality' +
-							'				VALUE=high>' +
-							'		<PARAM	NAME=bgcolor' +
-							'				VALUE=' + bgcolor + '>' +
-							'		<PARAM	NAME=wmode' +
-							'				VALUE=opaque>' +
-							'		<EMBED	src="' + flashURL + '"' +
-							'				quality="high"' +
-							'				bgcolor="' + bgcolor + '"' +
-							'				WIDTH="' + width + '"' +
-							'				HEIGHT="' + height + '"' +
-							'				NAME="' + name + '"' +
-							'				TYPE="application/x-shockwave-flash"' +
-							'				PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
-		
-		if(getFlashVersion() >= minFlashVersion){
-			document.write(flashCode);
-		} else {
-			if(promptInstall != ""){					
-				if(document.all){		
-					document.write("<div id='flashContent'>"+altContent+"</div>");						
-					window.setTimeout("execFlashContent('"+altContent+"','"+altDestination+"','"+promptInstall+"');",1000);			
-				}else{				
-					confirmAnswer = window.confirm("To view the Motive home page as it was intended, would you like to install the Macromedia Flash Player?");
-					if(confirmAnswer){
-						document.write(flashCode);		
-					} else {
-						if(promptInstall == "altContent"){
-							document.write(altContent);			
-						} else if(promptInstall == "altDestination"){
-							document.write(altContent);
-							window.location.href=altDestination;
-						}
-					}
-				}
-			} else {			
-				if(altContent !=""){
-					document.write(	altContent);			
-				} else {
-					window.location.href=altDestination;
-				}
-			}
-		}
-	}
-
-
-
-	function openspotlight(url)
-	{
-		 var sizestring;
-		 var positionstring;
-		 var leftVal;
-		 var topVal;
-		 var winWidth;
-		 var winHeight;
-
-		 positionstring = "left=0,top=0";
-
-		 if(url.search(/vn_spotlight.html/i) != -1)
-		 	sizestring = "width=450,height=300";
-		 else if(url.search(/spotlight_accenture.html/i) != -1)
-		 	sizestring = "width=500,height=250";
-		 else if(url.search(/MotiveBroadJump/i) != -1)
-		 {
-		 	winWidth = 502;
-		 	winHeight = 272;
-
-		 	if(document.all)
-			{
-				leftVal = document.body.scrollLeft + Math.floor((document.body.clientWidth/2) - (winWidth/2));
-				topVal =  document.body.scrollTop + Math.floor((document.body.clientHeight/2) - (winHeight/2));
-			}
-			else
-			{
-				leftVal =  self.pageXOffset + Math.floor((self.innerWidth/2) - (winWidth/2) - 15);
-				topVal =  self.pageYOffset  + Math.floor((self.innerHeight/2) - (winHeight/2) - 15);
-			}
-
-		 	sizestring = "width=" + winWidth + ",height=" + winHeight;
-		 	positionstring = "left=" + leftVal + ",top=" + topVal;
-		 }
-		 else
-		 	sizestring = "width=800,height=600";
-
-		 mywin = window.open(url, 'SpotlightWindow', 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,' + sizestring + ',' + positionstring);
-	}
-
-	function openImage(url,width,height)
-	{
-		width+=20;
-		height+=60;
-		var leftVal = (screen.width - width) / 2;
-		var topVal = (screen.height - height) / 2;		
-		var htmlString = "<html><head><link rel='stylesheet' type='text/css' href='/css/wwwmotive.css'><title>Motive, Inc.</title></head><body " +
-						" marginheight='0' " +
-						"	topmargin='0' " +
-						"	rightmargin='0' " +
-						"	bottommargin='0' " +
-						"	vspace='0' " +
-						"	marginwidth='0' " +
-						"	leftmargin='0' " +
-						"	hspace='0' " +
-						"	style='margin:0; padding:0;'><br>" +
-							"<center><a href='javascript:window.close();'>close this window</a></center><br>" +
-							"<center><img src='" + url + "' border='0'></center>" +
-							"</body></html>";
-		var newWindow = window.open("","imageWindow","width=" + width + ",height=" + height + ",left=" + leftVal + ",top=" + topVal);	
-		newWindow.document.write(htmlString);
-	}
-
-	function gotolink(inbound,url)
-	{
-
-		if((url.search(/spotlight.html/i) == -1) && (url.search(/spotlight_/i) == -1)){
-			if(inbound != 'Y' && url.search(/motivation/) == -1){
-
-				url=url.replace(/#/gi,"~");
-
-				window.open("http://www.motive.com/include/outbound.asp?url=" + url,"Outbound","height=600,width=800,top=5,left=5,resizable");
-
-			}
-			else{
-
-				window.location.href=url;
-
-			}
-		}
-		else{
-			openspotlight(url);
-		}
-	}
-
-
-
-	/*Handle stupid Netscape 4 onload/resize bug*/
-
-	NS4 = document.layers;
-
-   	if (NS4) {
-
-		origWidth = innerWidth;
-		origHeight = innerHeight;
-
-   	}
-
-	function reDo() {
-
-		if (innerWidth != origWidth || innerHeight != origHeight)
-			location.reload();
-	}
-
-	if (NS4) onresize = reDo;
-
-	/*End handling of NS4 bug*/
-
-
-
-	
-
-//-->
-</script>
-			<title>Privacy Policy</title>
-
-<script language="javascript">
-<!--
-	img1 = new Image(5,5);
-	img1.src = '/images/ENG/common/spacer.gif';
-
-	img2 = new Image(5,5);
-	img2.src = '/images/ENG/common/dottedarrow_right_blue.gif';
-
-	img3 = new Image(5,5);
-	img3.src = '/images/ENG/common/dottedarrow_down_blue.gif';
-
-	var currentItemID = 0;
-
-	function mouseOverLeftNavItem(itemID)
-	{
-		if(itemID != currentItemID)
-			document.images['bullet_' + itemID].src=img2.src;
-	}
-
-	function mouseOutLeftNavItem(itemID)
-	{
-		if(itemID != currentItemID)
-			document.images['bullet_' + itemID].src=img1.src;
-	}
-
-	function mouseOverLeftNavHeading()
-	{
-		//alert(document.images.bulletheading.name);
-		//alert(document.images.bulletheading.src);
-		//alert(img2.src.toString());
-		document.images.bullet_heading.src = img2.src;
-	}
-
-	function mouseOutLeftNavHeading()
-	{
-		document.images.bullet_heading.src = img3.src;
-	}
-
-	function getLeftNavBullet(itemID,itemTitle)
-	{
-		if(itemTitle == 'Privacy Policy')
-		{
-			currentItemID = itemID;
-			document.write("<img name='bullet_' src='/images/ENG/common/dottedarrow_right_black.gif' border='0' height='5' width='5' vspace='5'><br>".replace(/bullet_/,'bullet_' + itemID));
-			//return "<img name='bullet_' src='/images/ENG/common/dottedarrow_right_black.gif' border='0' height='5' width='5' vspace='5'><br>".replace(/bullet_/,'bullet_' + itemID);
-		}
-		else
-		{
-			document.write("<img name='bullet_' src='/images/ENG/common/spacer.gif' border='0' height='5' width='5' vspace='5'><br>".replace(/bullet_/,'bullet_' + itemID));
-			//return "<img name='bullet_' src='/images/ENG/common/spacer.gif' border='0' height='5' width='5' vspace='5'><br>".replace(/bullet_/,'bullet_' + itemID);
-		}
-	}
-	function setLeftNavLinkColor(itemID,itemTitle)
-	{
-		if(itemTitle == 'Privacy Policy')
-		{
-			if(document.all)
-				document.all['leftNavLink_' + itemID].style.color = '#000000';
-		}
-	}
-//-->
-</script>
-		<style>
-			body {	
-	background-color: #ffffff;
-}
-
-P  {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : normal;
-	color : 595959;
-}
-
-.prtitle{
-	font-size: 14px;
-	font-family: Verdana;
-	font-weight:bold;
-	color: 000000;
-	line-height : 16px;
-}
-
-
-.prsubtitle{
-	font-size: 11px;
-	font-family: Verdana;
-	font-weight:bold;
-	color: 000000;
-	line-height : 16px;
-}
-
-
-.ptext {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : normal;
-	color : 595959;
-
-}
-
-input{
-	
-	font-family:verdana;
-	font-size:10px;
-	
-
-}
-
-select{
-	font-family:verdana;
-	font-size:10px;
-}
-
-textarea{
-	font-family:verdana;
-	font-size:10px;
-	
-
-}
-
-A  {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : normal;
-	color : 00589E;
-	text-decoration : none;
-}
-
-A.agency  {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : normal;
-	color : 00589E;
-	text-decoration : underline;
-}
-
-a.agency:hover{
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : normal;
-	color : 00589E;
-	text-decoration : underline;
-}
-
-A:hover{
-	color: #00589E;
-	text-decoration:underline;
-}
-
-B	{
-	font-weight : bold
-}
-
-.textLeaded  {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : normal;
-	color : 595959;
-	line-height : 16px
-}
-
-.textlessleaded{
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : normal;
-	color : 595959;
-	line-height : 13px
-
-}
-
-.textSmall  {
-	font-family : Verdana;
-	font-size : 10px;
-	font-weight : normal;
-	color : 595959;
-	line-height:14px;
-	
-}
-
-.breadcrumbOff  {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : bold;
-	color : 999999;
-	text-decoration: none
-}
-
-.breadcrumbarrow {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : bold;
-	color : 999999;
-	text-decoration: none
-
-}
-
-.breadcrumbarrowon {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : bold;
-	color : 666666;
-	text-decoration: none
-
-}
-
-A.breadcrumbOff:hover  {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : bold;
-	color : 999999;
-	text-decoration: underline
-}
-
-.breadcrumbOn  {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : bold;
-	color : 666666;
-	text-decoration: none
-}
-
-A.breadcrumbOn:hover  {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : bold;
-	color : 666666;
-	text-decoration: underline
-}
-
-.homelink {
-	font-family : Verdana;
-	font-size : 10px;
-	font-weight : normal;
-	color : 595959;
-	text-decoration: none;
-	line-height:16px;
-
-}
-
-A.homelink:hover {
-	font-family : Verdana;
-	font-size : 10px;
-	font-weight : normal;
-	color : 00589E;
-	text-decoration: underline;
-	line-height:16px;
-}
-
-.listlink  {
-	font-family : Verdana;
-	font-size : 10px;
-	font-weight : normal;
-	color : 595959;
-	text-decoration:none;
-	line-height:14px;
-}
-
-A.listlink:hover  {
-	font-family : Verdana;
-	font-size : 10px;
-	font-weight : normal;
-	color : 00589E;
-	text-decoration:underline;
-	line-height:14px;
-}
-
-.leftNavLink  {
-	font-family : Verdana;
-	font-size : 9.5px;
-	font-weight : normal;
-	color : 00589E;
-	text-decoration:none;
-	line-height:14px;
-}
-
-A.leftNavLink:hover  {
-	font-family : Verdana;
-	font-size : 9.5px;
-	font-weight : normal;
-	color : 00589E;
-	text-decoration:none;
-	line-height:14px;
-}
-
-.leftNavHeader {
-	font-family:verdana;
-	font-size:9.5px;
-	font-weight:bold;
-	color: 00589E;	
-	text-decoration:none;
-}
-
-A.leftNavHeader:hover {
-	font-family:verdana;
-	font-size:9.5px;
-	font-weight:bold;
-	color: 00589E;
-	text-decoration:none;
-}
-
-.rightBlockHeader{
-	font-family:verdana;
-	font-size:9.5px;
-	font-weight:bold;
-	color:#7F7F7F;
-}
-.bodylistlink {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : normal;
-	color : 000000;
-	text-decoration:none;
-}
-
-A.bodylistlink:hover {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : normal;
-	color : 000000;
-	text-decoration:underline;
-}
-
-.listtext {
-	font-family : Verdana;
-	font-size : 10px;
-	font-weight : normal;
-	color : 666666;
-	text-decoration:none;
-}
-
-.maintitle	{
-	font-family : Verdana;
-	font-size : 16px;
-	font-weight : bold;
-	color : 000000;
-	text-decoration: none;
-	letter-spacing: .1em;
-}
-
-A.maintitle:hover	{
-	font-family : Verdana;
-	font-size : 16px;
-	font-weight : bold;
-	color : 000000;
-	text-decoration: none;
-	letter-spacing: .1em;
-}
-
-.orangelink {
-	font-family : Verdana;
-	font-size : 10px;
-	font-weight : bold;
-	color : 996600;
-	text-decoration: underline;
-}
-
-.globalNav  {
-	font-family : Verdana;
-	font-size : 10px;
-	font-weight : normal;
-	color : 999999;
-	text-decoration: none;
-	
-}
-
-A.globalNav:hover  {
-	font-family : Verdana;
-	font-size : 10px;
-	font-weight : normal;
-	color : 00589E;
-	text-decoration: underline;
-	
-}
-
-.linkYellow  {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : bold;
-	color : 996600;
-	text-decoration : underline;
-}
-
-.linkLarge  {
-	font-family : Verdana;
-	font-size : 12px;
-	font-weight : bold;
-	color : 595959;
-}
-
-.linkSmall  {
-	font-family : Verdana;
-	font-size : 10px;
-	font-weight : normal;
-	color : 595959;
-	text-decoration:none;
-}
-
-.linkSmaller {
-	font-family : Verdana;
-	font-size : 9.5px;
-	font-weight : normal;
-	color : 595959;
-	text-decoration:none;
-}
-
-.linkNormal  {
-	font-family : Verdana;
-	font-size : 11px;
-	font-weight : normal;
-	color : 595959;
-}
-
-.linkNormalNoU {
-	font-family:Verdana;
-	font-size: 11px;
-	font-weight:normal;
-	color : #595959;
-	text-decoration:none;
-}
-
-a.linkNormalNoU:hover {
-	font-family:Verdana;
-	font-size:11px;
-	font-weight:normal;
-	color : #595959;
-	text-decoration:underline;
-}
-
-.linkbigger{
-	font-family : Verdana;
-	font-size : 12px;
-	font-weight : normal;
-	color : 595959;
-}
-
-.titleOne	{
-	font-family : Verdana;
-	font-size : 15px;
-	font-weight : bold;
-	line-height:19px;
-	color : 000000;
-}
-
-.titleTwo	{
-	font-family : Verdana;
-	font-size : 14px;
-	font-weight : bold;
-	color : 000000;
-	
-}
-
-.titlethree{
-	font-family : Verdana;
-	font-size : 12px;
-	font-weight : bold;
-	color : 000000;
-
-}
-
-.copyright {  
-	font-family: Verdana;
-	font-size: 10px;
-	line-height: 12px;
-	color: #aaaaaa;
-}
-.copyright a {
-	font-family: Verdana;
-	font-size: 10px;
-	line-height: 12px;
-	color: #00589E;
-	font-weight:normal;
-}
-
-.copyright a:hover {
-	text-decoration:underline;
-}
-
-.bodylistlabel{
-	font-family : Verdana;
-	font-size : 10px;
-	font-weight : normal;
-	font-size:7.01pt;
-	color:#999999;
-	text-transform:capitalize;
-}
-
-
-.bodylistrow0 {
-	background-color:white;
-}
-
-
-.bodylistrow1 {
-	background-color:e7e7e7;
-}
-
-.rowColor0 {
-	color : black;
-	background-color : white;
-	font-size : 10px;
-}
-.rowColor1 {
-	color : black;
-	background-color : e7e7e7;
-	font-size : 10px;
-}
-
-.rowaltColor0 {
-	color : black;
-	background-color : e7e7e7;
-	font-size : 10px;
-}
-.rowaltColor1 {
-	color : black;
-	background-color : white;
-	font-size : 10px;
-}
-
-.eventrowcolor0{
-	font-family: Verdana;
-	color : black;
-	background-color : white;
-	font-size : 11px;
-	
-}
-
-.eventrowcolor1{
-	font-family: Verdana;
-	color : black;
-	background-color : e9e9e9;
-	font-size : 11px;
-	
-}
-
-.mediatext{
-	font-family:verdana;
-	font-size:10px;
-	font-weight:normal;
-	text-decoration:none;
-	color:black;
-}
-
-a.mediatext:hover{
-	font-family:verdana;
-	font-size:10px;
-	font-weight:normal;
-	text-decoration:none;
-	color:black;
-}
-
-.mediaheading{
-	font-family:verdana;
-	font-size:11px;
-	font-weight:bold;
-	color:#00589E;	
-}
-
-a.medialinkoff{
-	font-family:verdana;
-	font-size:10px;
-	font-weight:normal;
-	color:black;
-	text-decoration:none;
-	line-height:14px;
-}
-
-a.medialinkoff:hover{
-	font-family:verdana;
-	font-size:10px;
-	font-weight:normal;
-	color:black;
-	text-decoration:underline;
-	line-height:14px;
-}
-
-a.medialinkon{
-	font-family:verdana;
-	font-size:10px;
-	font-weight:normal;
-	color:#ffffff;
-	text-decoration:none;
-	line-height:14px;
-}
-
-a.medialinkon:hover{
-	font-family:verdana;
-	font-size:10px;
-	font-weight:normal;
-	color:#ffffff;
-	text-decoration:underline;
-	line-height:14px;
-}
-
-a.medialink{
-	font-family:verdana;
-	font-size:7.01pt;
-	font-weight:normal;
-	color:black;
-	text-decoration:underline;
-}
-
-a.medialink:hover{
-	font-family:verdana;
-	font-size:7.01pt;
-	font-weight:normal;
-	color:black;
-	text-decoration:underline;
-}
-
-.textBlueSmall{
-	font-family:verdana;
-	font-size:10px;
-	font-weight:normal;
-	line-height:16px;
-	color:#00589E;
-}
-
-.textBlue{
-	font-family:verdana;
-	font-size:11px;
-	font-weight:normal;
-	line-height:16px;
-	color:#00589E;
-}
-
-.smallplainlink {
-	font-family : Verdana;
-	font-size : 10px;
-	font-weight : normal;
-	color : 595959;
-	text-decoration: none;
-	line-height:13px;
-
-}
-
-A.smallplainlink:hover {
-	font-family : Verdana;
-	font-size : 10px;
-	font-weight : normal;
-	color : 595959;
-	text-decoration: none;
-	line-height:13px;
-}
-		</style>		
 	</head>
-	<body marginheight="0" topmargin="0" rightmargin="0" bottommargin="0" vspace="0" marginwidth="0" leftmargin="0" hspace="0" style="margin:0; padding:0;" bgcolor="">			
-		
+	<body>			
 <!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
 <!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-motive.hitbox.com";
-
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM540608P1ZM87EN3";//ACCOUNT NUMBER(S)
-hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
-hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="auto";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-
-//SEGMENTS AND FUNNELS
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
-
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-
-//INSERT CUSTOM EVENTS
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" defer="" src="/include/hbx/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
-			<script type="text/javascript">
-			//HV Menu- by Ger Versluis (http://www.burmees.nl/)
-			//Submitted to Dynamic Drive (http://www.dynamicdrive.com)
-			//Visit http://www.dynamicdrive.com for this script and more
-				
-				// added by TH on 7/1/2003
-				// sets path of navigation images, which is determined by language code
-				var navImagePath = "/images/ENG/nav/";
-				var navURLPath = "http://www.motive.com";
-				
-				// used to manually select a top nav button, using the zero based index of the button. -1 = not used
-				//var navOverrideSelectedButton = -1;
-				
-				function Go(){return}
-			</script>
-			<script type="text/javascript" src="/include/navigation/menu_config.js"></script>
-			
-					<script type="text/javascript" src="/include/navigation/menu_arrays_ENG.js"></script>
-			
-			<script type="text/javascript" src="/include/navigation/menu_com.js"></script>
-			<noscript>Your browser does not support script</noscript>
-		
-		<table width="762" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td width="761" align="left" valign="top">
-					<table width="761" border="0" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td width="381" align="left" valign="top">
-								<table width="381" cellpadding="0" cellspacing="0" border="0">
-									<tbody><tr>
-										<td height="13" align="left" valign="top" colspan="2">
-											<img src="/images/ENG/spacer.gif" height="13" width="381" border="0"><br>
-										</td>
-									</tr>
-									<tr>
-										<td align="left" valign="top" width="8">
-											<img src="/images/ENG/spacer.gif" height="1" width="8" border="0"><br>
-										</td>
-										<td align="left" valign="top" width="373">
-											<a href="/"><img src="/images/ENG/header/logo_motive.gif" border="0"></a><br>
-										</td>
-									</tr>
-								</tbody></table>
-							</td>
-							<td width="370" align="left" valign="top">
-								<table width="370" cellpadding="0" cellspacing="0" border="0">
-									<tbody><tr>
-										<td height="8" align="left" valign="top">
-											<img src="/images/ENG/spacer.gif" height="8" width="370" border="0"><br>
-										</td>
-									</tr>
-									<tr>
-										<td align="right" valign="top" class="globalNav" nowrap="">
-											<a href="/index.asp" class="globalNav">home</a> | <a href="/contact.asp" class="globalNav">contact</a> | <a href="/sitemap.asp" class="globalNav">site map</a> | <a href="/company/careers/careers.asp" class="globalNav">careers</a>
-										</td>
-									</tr>
-									<tr>
-										<td height="9" align="left" valign="top">
-											<img src="/images/ENG/spacer.gif" height="9" width="1" border="0"><br>
-										</td>
-									</tr>
-									<!--<tr>
-										<td height="19" align="left" valign="top">
-											<img src="/images/ENG/spacer.gif" height="19" width="1" border="0"><br>
-										</td>
-									</tr>-->																	
-									<tr><form name="langCodeForm" action="/privacy.asp" method="post"></form>
-										<td align="right" valign="top" class="textSmall" nowrap="">
-										<img src="/images/ENG/spacer.gif" width="1" height="15" border="0"><br>
-										</td>
-										<input type="hidden" name="serverFunctionCall" value="changeLanguageCode">
-									
-									</tr>
-								</tbody></table>
-							</td>
-							<td width="8" align="left" valign="top">
-								<img src="/images/ENG/spacer.gif" height="1" width="8" border="0"><br>
-							</td>
-						</tr>
-					</tbody></table>			
-					<table width="761" border="0" cellpadding="0" cellspacing="0">
-						<tbody><tr>
-							<td height="9" align="left" valign="top">
-								<img src="/images/ENG/spacer.gif" height="9" width="761" border="0"><br>
-							</td>
-						</tr>
-					</tbody></table>
-			<table width="761" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td height="70" width="345" align="left" valign="top" bgcolor="#7F7F7F">
-					
-						<img src="/images/ENG/header/heading_privacy.gif" height="70"><br>
-					</td>
-					<td>
-						<img src="/images/ENG/header/header_generic.gif" height="70"><br>
-					</td>
-					<td width="100%" bgcolor="#C9C7A6">
-						&nbsp;
-					</td>
-				</tr>
-				<tr>
-					<td height="1" width="345">
-						<img src="/images/ENG/spacer.gif" height="1" width="345" border="0"><br>
-					</td>
-					<td height="1">
-						<img src="/images/ENG/spacer.gif" height="1" width="1" border="0"><br>
-					</td>
-					<td height="1">
-						<img src="/images/ENG/spacer.gif" height="1" width="1" border="0"><br>
-					</td>
-				
-			</tr></tbody></table>	
-			
-			<table width="760" height="22" cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr>
-			  		<td width="760" height="22">			  			
-			  			<div id="MenuPos" style="position:relative; width:760; height:22; z-index: 100;"></div></td>
-			  	</tr>
-			</tbody></table>
-			
-			<table width="761" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					
-							<td width="125" height="20" align="left" valign="top">
-								<img src="/images/ENG/spacer.gif" border="0" height="20" width="125"><br>
-							</td>
-							<td width="15" height="20" align="left" valign="top">
-								<img src="/images/ENG/spacer.gif" border="0" height="20" width="15"><br>
-							</td>
-					
-								<td width="606" height="20" align="left" valign="top">
-									<img src="/images/ENG/spacer.gif" border="0" height="20" width="606"><br>
-								</td>
-								<td width="15" height="20" align="left" valign="top">
-									<img src="/images/ENG/spacer.gif" border="0" height="20" width="15"><br>
-								</td>
-					
-							</tr>
-							<tr>
-								<td align="left" valign="top">
-									<table cellpadding="0" cellspacing="0" border="0">
-										<tbody><tr>
-											<td colspan="2" height="1" align="left" valign="top" bgcolor="#999999">
-												<img src="/images/ENG/spacer.gif" width="1" height="1"><br>
-											</td>
-										</tr>
-										<tr>
-											<td width="12" height="2" align="left" valign="top">
-												<img src="/images/ENG/spacer.gif" width="12" height="2"><br>
-											</td>
-											<td width="100%" height="2" align="left" valign="top">
-												<img src="/images/ENG/spacer.gif" width="1" height="2"><br>
-											</td>
-										</tr>
-										<tr>
-											<td width="12" height="5" align="left" valign="top">
-												<img src="/images/ENG/spacer.gif" width="12" height="5"><br>
-											</td>
-											<td align="left" valign="top">
-												<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td align="left" valign="top" class="leftNavHeader">
-			
-					<a class="leftNavHeader" onmouseover="javascript:mouseOverLeftNavHeading();" onmouseout="javascript:mouseOutLeftNavHeading();" href="">Motive.com</a>
-			
-
-		</td>
-		<td align="right" valign="top">
-			<img name="bullet_heading" src="/images/ENG/common/dottedarrow_down_blue.gif" border="0" height="5" width="5" vspace="5"><br>
-		</td>
-	</tr>
-	<tr>
-		<td align="left" valign="top">
-			<img src="/images/ENG/common/spacer.gif" height="15" width="1"><br>
-		</td>
-	</tr>
-	<tr>
-		<td align="left" valign="top">
-		
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-		
-	<tbody><tr>
-		<td align="left" valign="top" width="3">
-			<img src="/images/spacer.gif" border="0" width="3" height="1"><br>
-		</td>
-		<td align="left" valign="top" width="5">
-			<script language="javascript">
-				getLeftNavBullet(3661,'Contact');
-			</script><img name="bullet_3661" src="/images/ENG/common/spacer.gif" border="0" height="5" width="5" vspace="5"><br>			
-		</td>
-		<td align="left" valign="top" width="5">
-			<img src="/images/spacer.gif" border="0" width="5" height="1"><br>
-		</td>
-		<td align="left" valign="top" class="leftNavLink">
-			<a href="/contact.asp" class="leftNavLink" id="leftNavLink_3661" onmouseover="javascript:mouseOverLeftNavItem(3661);" onmouseout="javascript:mouseOutLeftNavItem(3661);">Contact</a>			
-			<script language="javascript">
-				setLeftNavLinkColor(3661,'Contact');
-			</script>
-		</td>
-	</tr>
-	<tr>
-		<td height="10" valign="top" align="left" colspan="4">
-			<img src="/images/spacer.gif" border="0" height="10" width="1"><br>
-		</td>
-	</tr>
-		
-	<tr>
-		<td align="left" valign="top" width="3">
-			<img src="/images/spacer.gif" border="0" width="3" height="1"><br>
-		</td>
-		<td align="left" valign="top" width="5">
-			<script language="javascript">
-				getLeftNavBullet(3663,'Privacy Policy');
-			</script><img name="bullet_3663" src="/images/ENG/common/dottedarrow_right_black.gif" border="0" height="5" width="5" vspace="5"><br>			
-		</td>
-		<td align="left" valign="top" width="5">
-			<img src="/images/spacer.gif" border="0" width="5" height="1"><br>
-		</td>
-		<td align="left" valign="top" class="leftNavLink">
-			<a href="/privacy.asp" class="leftNavLink" id="leftNavLink_3663" onmouseover="javascript:mouseOverLeftNavItem(3663);" onmouseout="javascript:mouseOutLeftNavItem(3663);">Privacy Policy</a>			
-			<script language="javascript">
-				setLeftNavLinkColor(3663,'Privacy Policy');
-			</script>
-		</td>
-	</tr>
-	<tr>
-		<td height="10" valign="top" align="left" colspan="4">
-			<img src="/images/spacer.gif" border="0" height="10" width="1"><br>
-		</td>
-	</tr>
-		
-	<tr>
-		<td align="left" valign="top" width="3">
-			<img src="/images/spacer.gif" border="0" width="3" height="1"><br>
-		</td>
-		<td align="left" valign="top" width="5">
-			<script language="javascript">
-				getLeftNavBullet(3664,'Site Map');
-			</script><img name="bullet_3664" src="/images/ENG/common/spacer.gif" border="0" height="5" width="5" vspace="5"><br>			
-		</td>
-		<td align="left" valign="top" width="5">
-			<img src="/images/spacer.gif" border="0" width="5" height="1"><br>
-		</td>
-		<td align="left" valign="top" class="leftNavLink">
-			<a href="/sitemap.asp" class="leftNavLink" id="leftNavLink_3664" onmouseover="javascript:mouseOverLeftNavItem(3664);" onmouseout="javascript:mouseOutLeftNavItem(3664);">Site Map</a>			
-			<script language="javascript">
-				setLeftNavLinkColor(3664,'Site Map');
-			</script>
-		</td>
-	</tr>
-	<tr>
-		<td height="10" valign="top" align="left" colspan="4">
-			<img src="/images/spacer.gif" border="0" height="10" width="1"><br>
-		</td>
-	</tr>
+<script language="javascript" type="text/javascript">
+var hbxaccountnumber="DM540608P1ZM87EN3";
+var hbxpagename="PUT+PAGE+NAME+HERE";
+var hbxcontentcategory="CONTENT+CATEGORY";
+var searchkeywords = "";
+var searchresults = "";
+</script>
+<script language="javascript1.1" type="text/javascript" src="/include/hbx/hbx_page_code.js"></script>
+<script language="javascript1.1" type="text/javascript" defer="" src="/include/hbx/hbx.js"></script>
+<!--END WEBSIDESTORY CODE-->	
+<div id="container">
+<div id="innercontainer">
+<div id="top">
 	
-</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-											</td>
-										</tr>
-									</tbody></table>
-								</td>
-								<td align="left" valign="top">
-									<img src="/images/ENG/spacer.gif" border="0" height="300" width="15"><br>
-								</td>
-								<td align="left" valign="top" class="textLeaded">			
-									<span class="titleTwo">Motive Privacy Policy</span><br>
-		  <p><b>Motive,
+	<div id="globalNav">
+	<a href="/index.asp" class="globalNav">home</a> | <a href="/aboutmotive/contact/contact.asp" class="globalNav">contact</a> | <a href="/sitemap.asp" class="globalNav">site map</a> | <a href="/aboutmotive/careers/careers.asp" class="globalNav">careers</a>
+	</div>	
+	<div id="top-logo">
+		<a href="/" name="&amp;lid=Motive"><img src="/images/ENG/header/logo_motive.gif" alt="MOTIVE"></a>
+	</div>
+	<div id="top-search">
+		
+		<!-- BEGIN SEARCH -->			
+		<form name="search" style="padding:0px;margin:0px;" action="http://www-search.motive.com/search" method="get">		
+	        <input type="hidden" name="site" value="www">
+	        <input type="hidden" name="client" value="www">
+	        <input type="hidden" name="proxystylesheet" value="www">
+	        <input type="hidden" name="output" value="xml_no_dtd">
+			<div class="label">SEARCH</div>
+			<div class="search"><input name="q" type="text"></div>
+		</form>				
+		<!-- END SEARCH -->
+		
+	</div>	
+	<div id="top-nav">		
+		
+		<script type="text/javascript" language="javascript">document.write(topNav);</script><ul id="navmenu">  <li><a title="Our Solutions" href="http://www.motive.com/solutions/solutions.asp" class="first" hbxrootmenuid="//Our Solutions" hbxrootmenuorientation="down" name="&amp;lid=//Our Solutions"><img src="http://www.motive.com/images/ENG/nav/solutions.gif" alt="Our Solutions"></a>  	<ul>  		<li><a href="http://www.motive.com/solutions/solutions.asp" name="&amp;lid=//Our Solutions//Overview">Overview</a></li>		  		<li><a href="http://www.motive.com/solutions/highspeeddata/highspeeddata.asp" name="&amp;lid=//Our Solutions//High-Speed Data">High-Speed Data</a></li>		  		<li><a href="http://www.motive.com/solutions/homenetworking/homenetworking.asp" name="&amp;lid=//Our Solutions//Home Networking">Home Networking</a></li>		  		<li><a href="http://www.motive.com/solutions/iptv/iptv.asp" name="&amp;lid=//Our Solutions//IPTV">IPTV</a></li>		  		<li><a href="http://www.motive.com/solutions/msm/msm.asp" name="&amp;lid=//Our Solutions//Mobile Service Management">Mobile Service Management</a></li>		  		<li><a href="http://www.motive.com/solutions/standardstechtalk/standardstechtalk.asp" name="&amp;lid=//Our Solutions//Standards: Tech Talk">Standards: Tech Talk</a></li>		  		<li><a href="http://www.motive.com/solutions/cec/cec.asp" name="&amp;lid=//Our Solutions//Customer Experience Center">Customer Experience Center</a></li>		  	</ul>  </li>  <li><a title="Our Customers" href="http://www.motive.com/customers/customers.asp" hbxrootmenuid="//Our Customers" hbxrootmenuorientation="down" name="&amp;lid=//Our Customers"><img src="http://www.motive.com/images/ENG/nav/customers.gif" alt="Our Customers"></a>    <ul>		        		<li><a href="http://www.motive.com/customers/customers.asp" name="&amp;lid=//Our Customers//Overview">Overview</a></li>		      <li><a href="http://www.motive.com/customers/motivecustomercouncil/motivecustomercouncil.asp" name="&amp;lid=//Our Customers//Motive Customer Council">Motive Customer Council</a></li>		            </ul>  </li>		  <li><a style="width:127px;" title="Partner Network" href="http://www.motive.com/partners/partners.asp" hbxrootmenuid="//Partner Network" hbxrootmenuorientation="down" name="&amp;lid=//Partner Network"><img src="http://www.motive.com/images/ENG/nav/partners.gif" alt="Partner Network"></a>    <ul>		        		<li><a href="http://www.motive.com/partners/partners.asp" name="&amp;lid=//Partner Network//Overview">Overview</a></li>			  <li><a href="http://www.motive.com/partners/cpe/cpe.asp" class="parent" hbxrootmenuid="//Partner Network//CPE" hbxrootmenuorientation="right" name="&amp;lid=//Partner Network//CPE">CPE</a>	      <ul class="larger">	      	<li><a href="http://www.motive.com/partners/cpe/motivesmartverificationprogram.asp" name="&amp;lid=//Partner Network//CPE//MotiveSmart Verification Program">MotiveSmart Verification Program</a></li>		      	      </ul>      </li>      <li><a href="http://www.motive.com/partners/resellers/resellers.asp" name="&amp;lid=//Resellers">Resellers</a></li>      <li><a href="http://www.motive.com/partners/systemintegrators/systemintegrators.asp" name="&amp;lid=//System Integrators">System Integrators</a></li>      <li><a href="http://www.motive.com/partners/industryalliances/industryalliances.asp" name="&amp;lid=//Industry Alliances">Industry Alliances</a></li>    </ul>  </li>  <li><a style="width:105px;" title="About Motive" href="http://www.motive.com/aboutmotive/aboutmotive.asp" hbxrootmenuid="//About Motive" hbxrootmenuorientation="down" name="&amp;lid=//About Motive"><img src="http://www.motive.com/images/ENG/nav/aboutmotive.gif" alt="About Motive"></a>  	<ul class="smaller">  		<li><a class="smaller" href="http://www.motive.com/aboutmotive/aboutmotive.asp" name="&amp;lid=//About Motive//Overview">Overview</a></li>		  		<li><a style="cursor:default;" class="parent smaller" hbxrootmenuid="//About Motive//Corporate Information" hbxrootmenuorientation="right" name="&amp;lid=//About Motive//Corporate Information">Corporate Information</a>  			<ul>  				<li><a href="http://www.motive.com/aboutmotive/corporateinformation/factsataglance.asp">Facts at a Glance</a></li>  				<li><a href="http://www.motive.com/aboutmotive/corporateinformation/managementteam.asp">Management Team</a></li>  				<li><a href="http://www.motive.com/aboutmotive/corporateinformation/boardofdirectors.asp">Board of Directors</a></li>  			</ul>  		</li>  		<li><a class="smaller" href="http://www.motive.com/newsevents/newsevents.asp" name="&amp;lid=//About Motive//News and Events">News &amp; Events</a>  		</li><li><a href="https://web.archive.org/web/20070322222404/http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-irhome" class="parent smaller" hbxrootmenuid="//About Motive//Investor Relations" hbxrootmenuorientation="right" name="&amp;lid=//About Motive//Investor Relations">Investor Relations</a>  			<ul>  				<li><a href="https://web.archive.org/web/20070322222404/http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-irhome" name="&amp;lid=//About Motive//Investor Relations//Corporate Profile">Corporate Profile</a></li>  				<li><a href="https://web.archive.org/web/20070322222404/http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-stockQuote" name="&amp;lid=//About Motive//Investor Relations//Stock Information">Stock Information</a></li>  				<li><a href="http://www.motive.com/newsevents/pressreleases/pressreleases.asp" name="&amp;lid=//About Motive//Investor Relations//Recent News">Recent News</a></li>  				<li><a href="https://web.archive.org/web/20070322222404/http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-secD" name="&amp;lid=//About Motive//Investor Relations//SEC Filings">SEC Filings</a></li>  				<li><a href="https://web.archive.org/web/20070322222404/http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-govHighlights" name="&amp;lid=//About Motive//Investor Relations//Corporate Governance">Corporate Governance</a></li>  				<li><a href="https://web.archive.org/web/20070322222404/http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-analysts" name="&amp;lid=//About Motive//Investor Relations//Analysts">Analysts</a></li>  				<li><a href="https://web.archive.org/web/20070322222404/http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-faq" name="&amp;lid=//About Motive//Investor Relations//Investor FAQ">Investor FAQ</a></li>  				<li><a href="https://web.archive.org/web/20070322222404/http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-infoReq" name="&amp;lid=//About Motive//Investor Relations//Request Information">Request Information</a></li>  			</ul>  		</li>  		<li><a class="smaller" href="http://www.motive.com/aboutmotive/careers/careers.asp" name="&amp;lid=//About Motive//Careers">Careers</a></li>  		<li><a class="smaller" href="http://www.motive.com/aboutmotive/contact/contact.asp" name="&amp;lid=//About Motive//Contact">Contact</a></li>  	</ul>  </li>		  <li><a title="News and Events" href="http://www.motive.com/newsevents/newsevents.asp" class="last" hbxrootmenuid="//News and Events" hbxrootmenuorientation="down" name="&amp;lid=//News and Events"><img src="http://www.motive.com/images/ENG/nav/newsevents.gif" alt="News and Events"></a>  	<ul class="smaller">      <li><a class="smaller" href="http://www.motive.com/newsevents/pressreleases/pressreleases.asp" name="&amp;lid=//News and Events//Press Releases">Press Releases</a></li>      <li><a class="smaller" href="http://www.motive.com/newsevents/coverage/coverage.asp" name="&amp;lid=//News and Events//Coverage">Coverage</a></li>		           <li><a class="smaller" href="http://www.motive.com/newsevents/presskit/presskit.asp" name="&amp;lid=//News and Events//Press Kit">Press Kit</a></li>      <li><a class="smaller" href="https://web.archive.org/web/20070322222404/http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-alerts" name="&amp;lid=//News and Events//E-mail Alerts">E-mail Alerts</a></li>      <li><a class="smaller" href="http://www.motive.com/newsevents/prcontacts/prcontacts.asp" name="&amp;lid=//News and Events//PR Contacts">PR Contacts</a></li>    </ul>  </li></ul>		
+		<noscript>
+		
+			<ul id="navmenu">
+				<li>
+				<a title="Our Solutions" href="/solutions/solutions.asp"  hbxrootmenuid="//Our Solutions" hbxrootmenuorientation="down" name="&amp;lid=//Our Solutions" class="first"><img src="/images/ENG/nav/solutions.gif" alt="Our Solutions"></a>
+					<ul>
+						<li><a href="/solutions/solutions.asp" name="&amp;lid=//Our Solutions//Overview">Overview</a></li>		
+						<li><a href="/solutions/highspeeddata/highspeeddata.asp" name="&amp;lid=//Our Solutions//High-Speed Data">High-Speed Data</a></li>		
+						<li><a href="/solutions/homenetworking/homenetworking.asp" name="&amp;lid=//Our Solutions//Home Networking">Home Networking</a></li>		
+						<li><a href="/solutions/iptv/iptv.asp" name="&amp;lid=//Our Solutions//IPTV">IPTV</a></li>		
+						<li><a href="/solutions/cec/cec.asp" name="&amp;lid=//Our Solutions//Customer Experience Center">Customer Experience Center</a></li>		
+					</ul>
+				</li>
+				<li><a title="Our Customers" href="/customers/customers.asp" hbxrootmenuid="//Our Customers" hbxrootmenuorientation="down" name="&amp;lid=//Our Customers" ><img src="/images/ENG/nav/customers.gif" alt="Our Customers"></a>
+				  <ul>		      
+						<li><a href="/customers/customers.asp" name="&amp;lid=//Our Customers//Overview">Overview</a></li>		
+				    <li><a href="/customers/motivecustomercouncil/motivecustomercouncil.asp" name="&amp;lid=//Our Customers//Motive Customer Council">Motive Customer Council</a></li>		        
+				  </ul>
+				</li>		
+				<li><a style="width:127px;" title="Partner Network" href="/partners/partners.asp" hbxrootmenuid="//Partner Network" hbxrootmenuorientation="down" name="&amp;lid=//Partner Network" ><img src="/images/ENG/nav/partners.gif" alt="Partner Network"></a>
+				  <ul  >		      
+						<li><a href="/partners/partners.asp" name="&amp;lid=//Partner Network//Overview">Overview</a></li>		
+				<li><a href="/partners/cpe/cpe.asp" class="parent" hbxrootmenuid="//Partner Network//CPE" hbxrootmenuorientation="right" name="&amp;lid=//Partner Network//CPE">CPE</a>
+				<ul class="larger">
+					<li><a href="/partners/cpe/motivesmartverificationprogram.asp" name="&amp;lid=//Partner Network//CPE//MotiveSmart Verification Program">MotiveSmart Verification Program</a></li>		      
+				</ul>
+				    </li>
+				    <li><a href="/partners/resellers/resellers.asp" name="&amp;lid=//Resellers">Resellers</a></li>
+				    <li><a href="/partners/systemintegrators/systemintegrators.asp" name="&amp;lid=//System Integrators">System Integrators</a></li>
+				    <li><a href="/partners/industryalliances/industryalliances.asp" name="&amp;lid=//Industry Alliances">Industry Alliances</a></li>
+				  </ul>
+				</li>
+				<li><a style="width:105px;" title="About Motive" href="/aboutmotive/aboutmotive.asp" hbxrootmenuid="//About Motive" hbxrootmenuorientation="down" name="&amp;lid=//About Motive" ><img src="/images/ENG/nav/aboutmotive.gif" alt="About Motive"></a>
+					<ul class="smaller">
+						<li><a class="smaller" href="/aboutmotive/aboutmotive.asp" name="&amp;lid=//About Motive//Overview">Overview</a></li>		
+						<li><a style="cursor:default;" class="parent smaller" hbxrootmenuid="//About Motive//Corporate Information" hbxrootmenuorientation="right" name="&amp;lid=//About Motive//Corporate Information">Corporate Information</a>
+							<ul>
+								<li><a href="/aboutmotive/corporateinformation/factsataglance.asp">Facts at a Glance</a></li>
+								<li><a href="/aboutmotive/corporateinformation/managementteam.asp">Management Team</a></li>
+								<li><a href="/aboutmotive/corporateinformation/boardofdirectors.asp">Board of Directors</a></li>
+							</ul>
+						</li>
+						<li><a class="smaller" href="/newsevents/newsevents.asp" name="&amp;lid=//About Motive//News and Events">News & Events</a>
+						<li><a href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-irhome" class="parent smaller" hbxrootmenuid="//About Motive//Investor Relations" hbxrootmenuorientation="right" name="&amp;lid=//About Motive//Investor Relations">Investor Relations</a>
+							<ul>
+								<li><a href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-irhome" name="&amp;lid=//About Motive//Investor Relations//Corporate Profile">Corporate Profile</a></li>
+								<li><a href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-stockQuote" name="&amp;lid=//About Motive//Investor Relations//Stock Information">Stock Information</a></li>
+								<li><a href="/newsevents/pressreleases/pressreleases.asp" name="&amp;lid=//About Motive//Investor Relations//Recent News">Recent News</a></li>
+								<li><a href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-secD" name="&amp;lid=//About Motive//Investor Relations//SEC Filings">SEC Filings</a></li>
+								<li><a href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-govHighlights" name="&amp;lid=//About Motive//Investor Relations//Corporate Governance">Corporate Governance</a></li>
+								<li><a href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-analysts" name="&amp;lid=//About Motive//Investor Relations//Analysts">Analysts</a></li>
+								<li><a href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-faq" name="&amp;lid=//About Motive//Investor Relations//Investor FAQ">Investor FAQ</a></li>
+								<li><a href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-infoReq" name="&amp;lid=//About Motive//Investor Relations//Request Information">Request Information</a></li>
+							</ul>
+						</li>
+						<li><a class="smaller" href="/aboutmotive/careers/careers.asp" name="&amp;lid=//About Motive//Careers">Careers</a></li>
+						<li><a class="smaller" href="/aboutmotive/contact/contact.asp" name="&amp;lid=//About Motive//Contact">Contact</a></li>
+					</ul>
+				</li>		
+				<li><a title="News and Events" href="/newsevents/newsevents.asp" hbxrootmenuid="//News and Events" hbxrootmenuorientation="down" name="&amp;lid=//News and Events" class="last"><img src="/images/ENG/nav/newsevents.gif" alt="News and Events"></a>
+					<ul class="smaller">
+				    <li><a class="smaller" href="/newsevents/pressreleases/pressreleases.asp" name="&amp;lid=//News and Events//Press Releases">Press Releases</a></li>
+				    <li><a class="smaller" href="/newsevents/coverage/coverage.asp" name="&amp;lid=//News and Events//Coverage">Coverage</a></li>		     
+				    <li><a class="smaller" href="/newsevents/events/events.asp" name="&amp;lid=//News and Events//Events">Events</a></li>
+				    <li><a class="smaller" href="/newsevents/presskit/presskit.asp" name="&amp;lid=//News and Events//Press Kit">Press Kit</a></li>
+				    <li><a class="smaller" href="http://ir.motive.com/phoenix.zhtml?c=123001&amp;p=irol-alerts" name="&amp;lid=//News and Events//E-mail Alerts">E-mail Alerts</a></li>
+				    <li><a class="smaller" href="/newsevents/prcontacts/prcontacts.asp" name="&amp;lid=//News and Events//PR Contacts">PR Contacts</a></li>
+				  </ul>
+				</li>
+			</ul>
+		
+		</noscript>
+		
+	</div>		
+	
+	<div id="top-header">
+		
+			<img src="/images/ENG/header/header_generic.jpg">
+		
+	</div>
+	
+</div>
+		<div id="leftnav">
+			<ul>
+			
+				<li><a href="/" class="header">Motive.com</a></li>
+			
+
+<li><a href="/aboutmotive/contact/contact.asp">Contact</a></li>
+
+<li><a href="/sitemap.asp">Site Map</a></li>
+
+<li><a href="/aboutmotive/careers/careers.asp">Careers</a></li>
+
+<li><a href="/privacy.asp" class="selected">Privacy Policy</a></li>
+	
+			</ul>			
+		</div>
+	
+				<div id="content" class="wrap">	
+			<p class="titleTwo">Motive Privacy Policy</p>		  
+<p><b>COMMITMENT TO YOUR PRIVACY</b></p>
+<p>This site is owned and operated by Motive, Inc (“Motive”).  We understand you value your privacy.  At Motive, we want to make your experience online satisfying and safe.  This statement governs information you provide to us or we learn from your use of this website and tells you how we may collect, use, and in some instances share this information.</p>
+<p><b>INFORMATION MOTIVE COLLECTS</b></p>
+<p>Motive gathers two types of information about this website’s users: </p>
+<ul>
+<li>Personal information that users provide through optional, voluntary submissions, such as email and online registration forms to Motive.  Personal information means any information that may be used to identify an individual, including, but not limited to, your name, home address, telephone number, and e-mail address.  The types and amount of personal information collected for these activities will vary depending on the activity or service for which you have registered or accessed the website. </li>
+<li>Motive also gathers non-personal information through aggregated tracking information derived mainly by tallying page views throughout our sites.  This non-personal information collected includes click-throughs, IP addresses, and usage data.  This non-personal information allows us to better tailor our content to site users’ needs.  </li>
+</ul>
+<p><b>HOW MOTIVE COLLECTS AND USES PERSONAL INFORMATION</b></p>
+<p><b>Motive.com</b><br>
+Users of the Motive website may provide personal information through registration forms on the Motive website.  This registration creates a unique identifier which generates a cookie so the Motive website will remember when you return to our website.  The cookie does not contain personal information.  We collect this information to process your inquiries, respond to your requests, and improve our services.  The personal information collected is not used for any means beyond what is made known to you at the time of collection or as otherwise stated in this policy.  You may opt-out of future communications at any time.
+</p>
+<p><b>My.motive</b><br>
+Customers of Motive are provided with the ability to access our customer extranet at my.motive.com.  A name and email address is required to create an account and customers have the option to provide additional personal information.  The personal information collected is used to contact customers and to provide customers with updates on their projects, documents, and support tickets.  In addition, registered users of my.motive may choose to create a profile and participate in our Customer Council.  The personal information entered into this profile is available to all members of the Customer Council.  If you would prefer your personal information to be available to members of the Customer Council please do not create a Customer Council profile.
+</p>
+<p><b>Motive Solution Hosting Services</b><br>
+Motive also provides data hosting services for other service providers.  Service providers transfer to Motive their customer data for the purpose of processing such information on the service provider’s behalf and at their direction.  Motive’s hosting services are provided on a confidential basis to each service provider.  Motive processes the data received from the services providers in accordance with the service provider’s instructions.  The service providers collect, use and disclose personal information in accordance with their own privacy policies.  Motive adheres to the Safe Harbor principles negotiated between the United States and the EU regarding data protection with regard to customer and personal data transferred to Motive from service providers who utilize our services.  
+</p>
+<p><b>Usage tracking</b><br>
+We track product usage data to improve the services we offer to our users.  We collect user traffic patterns throughout our site.  This information is collected to help improve site flow and usability.  In addition, we track click-through information, including IP addresses, to our site from the reports and emails we sent to our customers.  This is done to gauge the effectiveness of our marketing campaigns and to discourage fraudulent use.  However, we do not correlate this information with the personal information of individual users.  
+</p>
+<p><b>Cookies</b><br>
+We may place a text file called a “cookie” in the browser files of your computer.  The cookie itself does not contain personal information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided.  The only personal information a cookie can contain is information you supply yourself.  A cookie can't read data off your hard disk or read cookie files created by other sites.  Motive may use cookies to track user traffic patterns (as described above).  In addition, Motive uses encrypted cookies to authenticate the user on each page after the user logs onto the website.  You can refuse cookies by turning them off in your browser.  If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie.  You do not need to have cookies turned on to use this site.  Motive solution hosting services does not use cookies.
+</p>
+<p><b>Children</b><br>
+Consistent with the federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requiring parental consent.  Any person who provides their personal information to Motive through this web site represents that they are 13 years of age or older.
+</p>
+<p><b>User Access</b><br>Users have access to their personal information and may update their information on the website. 
+</p>
+<p>
+If you wish to be provided with a copy of all the personal information which Motive holds about you, please contact Motive – see section "CONTACTING MOTIVE" below.  End users of service providers who utilize Motive solution hosting services may access their data through their service provider.
+</p>
+<p><b>MOTIVE TRANSFER AND INFORMATION SHARING POLICY</b></p>
+<p>
+We provide information we receive from you to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf for performing the Service and other purposes identified above.  We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.  We do not share personal information collected on this web site with third parties for their direct marketing purposes.  Motive does not otherwise share personal information about site users with third parties unless doing so is appropriate to carry out a user’s request or it reasonably believes that doing so is legally required or is in Motive’s interest to protect its property or other legal rights or the rights or property of others.  Motive shares non-personal information in anonymous aggregate form with third parties.  This non-personal information is used by third parties to help Motive improve the Website and Motive service.
+</p>
+<p><b>Merger or Bankruptcy</b><br>
+If Motive should ever file for bankruptcy or have its assets sold to or merge with another entity, information Motive receives from you from this Site is a Motive asset and may be transferred.
+</p>
+<p><b>INTERNATIONAL VISITORS AND CUSTOMERS</b></p>
+<p>
+This web site is hosted in the United States and is intended for United States visitors. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and by providing your personal data you consent to:
+</p>
+<ul>
+<li>the use of your personal data for the purposes identified above in accordance with this Privacy Policy; and</li>
+<li>the transfer of your personal data to the United States as indicated above. </li>
+</ul>
+<p><b>SAFE HARBOR CERTIFICATION</b></p>
+<p>
+Motive adheres to the Safe Harbor principles negotiated between the United States and the EU regarding data protection with regard to customer data and personal data Motive receives when you register for its services or use its web site.  Accordingly, when you visit this web site or provide personal data to Motive, we have taken steps to ensure the adequate protection of the processing of your personal data. 
+</p>
+<p><b>SECURITY</b></p>
+<p>While Motive does take steps to ensure that your personal data is protected against unauthorized or unlawful use and accidental loss or damage, no data transmissions over the Internet can be guaranteed to be 100% secure.  Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.  Once we receive your transmission, we make reasonable efforts to ensure security on our systems.  We use secure server software (SSL) and firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
+</p>
+<p>
+If Motive learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps.  By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site.  Motive may post a notice on our web site if a security breach occurs.  If this happens, you will need a web browser enabling you to view the Motive.com web site.  Motive may also send an email to you at the email address you have provided to us in these circumstances.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.  To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at <a href="mailto:privacy@motive.com">privacy@motive.com</a>.
+</p>
+<p><b>CHANGES AND UPDATES</b></p>
+<p>We may occasionally update this Privacy Policy.  When we do, we will also revise the “last updated” date on the Privacy Policy.  For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change.  We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the Personal Information we collect.  Your continued use of this web site constitutes your agreement to this Privacy Statement and any updates.
+</p>
+<p><b>CONTACTING MOTIVE</b></p>
+<p>
+If you have any questions, comments, or concerns about this Privacy Policy, please email us at <a href="mailto:privacy@motive.com">privacy@motive.com</a>
+</p>
+<p>
+<b>Postal Mail Address:</b><br>
+Motive, Inc.<br>
+ATTN: General Counsel<br>
+12515 Research Blvd.<br>
+Building 5<br>
+Austin, Texas 78759-2247
+</p>
+<p>
+If you have a privacy concern regarding Motive or this policy and if you cannot satisfactorily resolve it through the use of this web site you should then write to: <a href="mailto:privacy@motive.com">privacy@motive.com</a>. In the event that we are still unable to resolve your concerns Motive is committed to cooperating to achieve a proper resolution of your privacy concerns.
+</p>
+<p>[Last Updated:  09/07/2006]</p>
+
+<!--<p><b>Motive,
 		  Inc.</b> recognizes the importance of protecting the privacy of information
 		  we may collect from our online visitors. To this end, we are committed
 		  to using our best efforts to respect the privacy of our online visitors.
@@ -1397,114 +270,43 @@ hbx.pec="";//ERROR CODES
 		  information that you do not specifically provide us. Any information you
 		  provide us is used to improve the navigation of our Web sites. Furthermore,
 		  Motive does not believe in sending e-mail ("spam") to people that do
-		  not wish to receive it. </p>									
-								<br><img src="/images/ENG/spacer.gif" width="1" height="20" border="0">
-							</td>
-							
-									<td width="15">
-										<img src="/images/ENG/spacer.gif" width="15" height="2"><br>
-									</td>
-																
-						</tr>
-					</tbody></table>
-					
-					<table width="761" cellpadding="0" cellspacing="0" border="0">
-						<tbody><tr>
-							<td height="1" align="left" valign="top" bgcolor="#999999">
-								<img src="/images/ENG/spacer.gif" height="1" width="1" border="0"><br>
-							</td>
-						</tr>
-					</tbody></table>
-					<table width="761" cellpadding="0" cellspacing="0" border="0">
-						<tbody><tr>
-							<td height="3" align="left" valign="top">
-								<img src="/images/ENG/spacer.gif" height="3" width="1" border="0"><br>
-							</td>
-						</tr>
-					</tbody></table>
-					<table width="761" cellpadding="0" cellspacing="0" border="0">
-						<tbody><tr>
-							<td width="15">
-								<img src="/images/ENG/spacer.gif" width="15" height="35"><br>
-							</td>
-							<td height="35" width="245" valign="middle" class="textLeaded" nowrap="">
-								<table cellpadding="0" cellspacing="0" border="0">
-									<tbody><tr>
-										<td height="4">
-											<img src="/images/ENG/spacer.gif" width="1" height="4"><br>
-										</td>
-									</tr>
-									<tr>
-										<td valign="top" class="textLeaded">
-											<a href="/customers/customers.asp"><img src="/images/ENG/footer/text_customerlogos.gif" border="0"></a><br>
-										</td>
-									</tr>
-									<tr>
-										<td height="4">
-											<img src="/images/ENG/spacer.gif" width="1" height="4"><br>
-										</td>
-									</tr>
-								</tbody></table>
-							</td>
-							<td height="35">
-								<img src="/images/ENG/spacer.gif" width="25" height="35"><br>
-							</td>
-							<td height="35" align="left" valign="top">
-								<a href="/customers/customers.asp"><img src="/images/ENG/footer/animation_customerlogos.gif" border="0"></a><br>
-							</td>
-							<td height="35" width="10">
-								<img src="/images/ENG/spacer.gif" height="35" width="10" border="0"><br>
-							</td>
-						</tr>
-					</tbody></table>
-					<table width="761" cellpadding="0" cellspacing="0" border="0">
-						<tbody><tr>
-							<td height="3" align="left" valign="top">
-								<img src="/images/ENG/spacer.gif" height="3" width="1" border="0"><br>
-							</td>
-						</tr>
-					</tbody></table>
-					
-					<table width="761" cellpadding="0" cellspacing="0" border="0">
-						<tbody><tr>
-							<td height="1" align="left" valign="top" bgcolor="#999999">
-								<img src="/images/ENG/spacer.gif" height="1" width="1" border="0"><br>
-							</td>
-						</tr>
-					</tbody></table>
-				</td>
-				<td width="1" align="left" valign="top" bgcolor="#999999">
-					<img src="/images/ENG/spacer.gif" height="1" width="1" border="0"><br>
-				</td>
-			</tr>
-		</tbody></table>
-		<table width="761" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td height="20" align="left" valign="top">
-					<img src="/images/ENG/spacer.gif" height="20" width="1" border="0"><br>
-				</td>
-			</tr>
-		</tbody></table>
-		<table width="761" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td width="13">
-					<img src="/images/ENG/spacer.gif" width="13" height="2">
-				</td>
-				<td valign="top" align="left" class="copyright">
-					Copyright © <script language="JavaScript">document.write(this_year)</script>2020 Motive, Inc. All rights reserved. None of the text or images on this page may be reproduced without the express  written consent of Motive. Please read our <a href="/privacy.asp">privacy policy</a>.
-				</td>
-				<td width="13">
-					<img src="/images/ENG/spacer.gif" width="13" height="2">
-				</td>
-			</tr>
-		</tbody></table>
-		<table width="761" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td height="500" align="left" valign="top">
-					<img src="/images/ENG/spacer.gif" height="500" width="1" border="0"><br>
-				</td>
-			</tr>
-		</tbody></table>
-		
-	
-<div style="position: absolute; visibility: visible; background-color: rgb(76, 76, 76); width: 761px; height: 22px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 101; top: 123px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(76, 76, 76); text-align: left; width: 103px; height: 22px; left: 0px; top: 0px;"><img src="/images/ENG/nav/btn_solutions_off.gif" name="Menu1i"><img src="/images/ENG/nav/spacer.gif" style="position: absolute; width: 0px; height: 0px; top: 20px; left: 101px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(76, 76, 76); text-align: left; width: 104px; height: 22px; left: 103px; top: 0px;"><img src="/images/ENG/nav/btn_products_off.gif" name="Menu2i"><img src="/images/ENG/nav/spacer.gif" style="position: absolute; width: 0px; height: 0px; top: 20px; left: 102px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(76, 76, 76); text-align: left; width: 99px; height: 22px; left: 207px; top: 0px;"><img src="/images/ENG/nav/btn_services_off.gif" name="Menu3i"><img src="/images/ENG/nav/spacer.gif" style="position: absolute; width: 0px; height: 0px; top: 20px; left: 97px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(76, 76, 76); text-align: left; width: 109px; height: 22px; left: 306px; top: 0px;"><img src="/images/ENG/nav/btn_customers_off.gif" name="Menu4i"><img src="/images/ENG/nav/spacer.gif" style="position: absolute; width: 0px; height: 0px; top: 20px; left: 107px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(76, 76, 76); text-align: left; width: 100px; height: 22px; left: 415px; top: 0px;"><img src="/images/ENG/nav/btn_partners_off.gif" name="Menu5i"><img src="/images/ENG/nav/spacer.gif" style="position: absolute; width: 0px; height: 0px; top: 20px; left: 98px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(76, 76, 76); text-align: left; width: 120px; height: 22px; left: 515px; top: 0px;"><img src="/images/ENG/nav/btn_company_off.gif" name="Menu6i"><img src="/images/ENG/nav/spacer.gif" style="position: absolute; width: 0px; height: 0px; top: 20px; left: 118px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(76, 76, 76); text-align: left; width: 126px; height: 22px; left: 635px; top: 0px;"><img src="/images/ENG/nav/btn_newsevents_off.gif" name="Menu7i"><img src="/images/ENG/nav/spacer.gif" style="position: absolute; width: 0px; height: 0px; top: 20px; left: 124px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 250px; height: 133px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Solutions Overview</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Broadband Service Providers<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 243px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Consumer Technology Manufacturers<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 243px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Enterprise IT<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 243px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 76px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Enterprise Software Vendors<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 243px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 95px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Enterprise Hardware Vendors<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 243px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 114px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Outsourcers<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 243px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 225px; height: 114px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Total Broadband Care</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">OnDemand for Broadband</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Small Business Broadband</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Subscriber Policy Management</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 76px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Home Networking</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 95px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">CPE Management</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 225px; height: 19px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Consumer PC Support</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 225px; height: 19px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">J2EE Application Management</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 225px; height: 38px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Remote Application Services</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">On-Demand Application Profiling</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 225px; height: 19px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Remote Infrastructure Services</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 225px; height: 57px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Application Outsourcing Services</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Desktop Outsourcing Services</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Remote Infrastructure Management</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 250px; height: 95px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Products Overview</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Broadband Management<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 243px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Application Management<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 243px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Systems Service Management<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 243px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 76px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Technology Behind Our Products</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 215px; height: 114px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 215px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Motive Broadband Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 215px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Motive Customer Service Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 215px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Motive Business Class Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 215px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Motive Business Support Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 215px; height: 19px; left: 0px; top: 76px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Motive Usage Policy Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 215px; height: 19px; left: 0px; top: 95px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Motive Edge Device Manager</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 215px; height: 76px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 215px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Motive Profile</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 215px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Motive Triage</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 215px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Motive Resolution</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 215px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Motive Model Builder</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 215px; height: 57px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 215px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Motive Enterprise Service Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 215px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Motive Remote Service Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 215px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Motive Desktop Manager</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 210px; height: 133px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Services Overview</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Technical Deployment</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Business Optimization Services</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Education and Training</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 76px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Managed Services</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 95px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Customer Care</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 114px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Customer Experience Center</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 140px; height: 38px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 140px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Customers Overview</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 140px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Success Stories</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 220px; height: 76px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 220px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Partners Overview</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 220px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Communications Partners</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 220px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">High-Tech Partners</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 220px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Resellers</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 190px; height: 114px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 190px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Company Overview</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 190px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Self-Management Defined</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 190px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Management Team</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 190px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Board of Directors</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 190px; height: 19px; left: 0px; top: 76px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Investor Relations</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 190px; height: 19px; left: 0px; top: 95px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Careers</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 180px; height: 95px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 180px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">News &amp; Events Overview</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 180px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Press Room</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 180px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Coverage</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 180px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Press Releases</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 180px; height: 19px; left: 0px; top: 76px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Tradeshows &amp; Conferences</div></div></body></html>
+		  not wish to receive it. </p>-->
+<!--
+<div id="leftnavtest">
+<ul>
+	<li><a href="#" class="header">Test Nav Header</a></li>
+	<li><a href="#">Test Nav Item 1</a></li>
+	<li><a href="#">Test Nav Item 2 really long</a></li>
+	<li><a href="#">Privacy Policy</a></li>
+	<li><a href="#">Test Nav Item 4</a></li>
+	<li><a href="#">Test Nav Item 5</a></li>
+</ul>
+</div>
+-->
+
+
+</div>
+
+	<div id="footer">
+		<div id="footer-label">
+			<a href="/customers/customers.asp" name="&amp;lid=Learn+how+our+customers+define+success:"><img src="/images/ENG/footer/text_customerlogos.gif" border="0"></a>
+		</div>
+		<div id="footer-logos">
+			<a href="/customers/customers.asp" name="&amp;lid=Motive+Customers"><img src="/images/ENG/footer/animation_customerlogos.gif" border="0"></a>
+		</div>
+	</div>
+	<div id="boiler-plate">
+	Copyright © <script language="JavaScript" type="text/javascript">document.write(this_year)</script>2020 Motive, Inc. All rights reserved. None of the text or images on this page may be reproduced without the express  written consent of Motive. Please read our <a href="/privacy.asp">privacy policy</a>.
+	</div>
+
+</div></div>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-509771-1";
+urchinTracker();
+</script>
+
+
+</body></html>
