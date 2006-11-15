@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leasticoulddo.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616014400id_/http%3A//www.leasticoulddo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leasticoulddo.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115193800id_/http%3A//www.leasticoulddo.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Least I Could Do » Home Page
 
@@ -43,7 +43,7 @@ The content of this web-site-graphics, text and other elements-is © Copyright 2
 
 |  |  All content & images are © Blind Ferret Entertainment.  
 [Privacy Policy](http://www.leasticoulddo.com/privacy_policy.php) | [Advertising](http://www.leasticoulddo.com/advertise.php) |  Site design by Leaking Faucet Studio  
-Webmaster: Scot Lincicome   
+Webmasters: Scot Lincicome and Ryan McCahan   
 ---|---  
   
 |  |  |  |  |   
