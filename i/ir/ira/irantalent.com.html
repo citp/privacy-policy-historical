@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the irantalent.com privacy policy that was archived on 2006-03-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060329023926id_/http%3A//www.irantalent.com/home/cntPrivacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the irantalent.com privacy policy that was archived on 2006-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061115190232id_/http%3A//www.irantalent.com/home/cntPrivacy.php) for the most accurate reproduction.-->
 
 <html><head><script src="/__utm.js"></script>
 
@@ -86,8 +86,8 @@ A.link:hover
 
 A.homelink:hover
 {
-	color: #FFFFFF;
-	text-decoration: underline;
+	color: #D3A414;
+	text-decoration: none;
 	font-family: verdana, Helvetica, sans-serif;
 }
 
@@ -282,111 +282,350 @@ newwin1 = window.open(pageName, "win", "toolbar=false, status=false, menubar=fal
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
 	<td width="12%" valign="top" align="left" height="100%">
+<script language="JavaScript" type="">
+
+function chkform(form)
+{
+	if(form.uname.value == "")
+	{
+		alert("Please enter your Email Address");
+		form.uname.focus();
+		return false;
+	}
+	if(form.passwd.value == "")
+	{
+		alert("Please enter your Password");
+		form.passwd.focus();
+		return false;
+	}
+	else
+	{
+		return true;
+	}
+}
+
+function chkform12(form)
+{
+	if(form.uname.value == "")
+	{
+		alert("Please enter username !");
+		form.uname.focus();
+		return false;
+	}
+	if(form.passwd.value == "")
+	{
+		alert("Please enter password !");
+		form.passwd.focus();
+		return false;
+	}
+	else
+	{
+		return true;
+	}
+}
+
+
+function handleEmployerLogin()
+{	
+	if (document.getElementById("Employer_Login").style.display == "none")
+	{
+		document.getElementById("Employer_Login").style.display = "block";
+		document.getElementById("Candidate_Login").style.display = "none";
+
+		document.getElementById("canOpened").style.display = "none";
+		document.getElementById("canClosed").style.display = "block";
+
+
+		document.getElementById("empOpened").style.display = "block";
+		document.getElementById("empClosed").style.display = "none";
+
+	}
+
+	else if (document.getElementById("Employer_Login").style.display == "block")
+	{
+		document.getElementById("Employer_Login").style.display = "none";
+		
+		document.getElementById("empOpened").style.display = "none";
+		document.getElementById("empClosed").style.display = "block";
+	}
+
+}
+
+function handleCandidateLogin()
+{	
+	if (document.getElementById("Candidate_Login").style.display == "none")
+	{
+		document.getElementById("Candidate_Login").style.display = "block";
+		document.getElementById("Employer_Login").style.display = "none";
+
+		document.getElementById("empOpened").style.display = "none";
+		document.getElementById("empClosed").style.display = "block";
+
+		document.getElementById("canOpened").style.display = "block";
+		document.getElementById("canClosed").style.display = "none";
+	}
+
+	else if (document.getElementById("Candidate_Login").style.display == "block")
+	{
+		document.getElementById("Candidate_Login").style.display = "none";
+
+		document.getElementById("canOpened").style.display = "none";
+		document.getElementById("canClosed").style.display = "block";
+	}
+}
+
+
+</script> 
+
+<style type="text/css">
+		.canloginfield { background: url(../images1/Username.bmp) #fff no-repeat 4px 5px}
+		.emploginfield { background: url(../images1/Username.bmp) #fff no-repeat 4px 5px }
+		.passwordfield { background: url(../images1/Password.bmp) #fff no-repeat 4px 5px }
+</style>
+
 <table width="100%" cellspacing="0" cellpadding="0" border="0" height="100%" bgcolor="#406FB7">
 <tbody><tr><td width="100%" valign="top" height="100%" bgcolor="#406FB7">
-<table border="0" cellpadding="0" cellspacing="0" height="100%" width="146">
+<table border="0" cellpadding="0" cellspacing="0" width="146">
 <tbody><tr><td valign="TOP" align="LEFT" width="393" height="1" bgcolor="#FFFFFF">
-<spacer type="block" width="1" height="1"></spacer></td></tr>
-<tr><td bgcolor="#406FB7"></td></tr>
-
-
-	<!-- <tr><td align="center" class=ta width="100%" valign="top" bgcolor="#406FB7">
-	
-	<FONT SIZE="2" COLOR=#ffffff><BR><BR>IranTalent.com is under a technical maintenance for about one hour. Please come back later. 
-<BR><BR>
-	Sorry for the inconvenience this may have caused. 
-</FONT>
-	</td></tr>
+</td>
+<td bgcolor="#406FB7"></td></tr>
+<!-- <CENTER><FONT style="font-size:9pt" COLOR="white"><BR><BR>IranTalent.com is under maintenance. Please come back in an hour. <BR><BR>Sorry for the inconvenience.<BR><BR></FONT></CENTER> 
  -->
-<!--------------------------- Sign Up Box  -->
-			<tr height="30"><td bgcolor="#406FB7">
-			<p align="left"><b><font size="1" face="Verdana" color="#D3A414">
-			</font></b>&nbsp;&nbsp;<!--IMG SRC="../images1/arrow3.gif"  valign="top"--> <a href="canCandidates-Add1.php" class="homelink"><font size="2" face="Verdana" valign="top">Sign up</font></a><input type="hidden" name="f" value="c"><font style="font-size:8pt" face="Verdana" color="#FFFFFF">&nbsp;if you are &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></p><center><font style="font-size:8pt" face="Verdana" color="#FFFFFF">a new Candidate</font></center><p></p></td>
-			</tr><tr><td align="left"><font size="2" face="Verdana" color="#FFFFFF">
-			</font></td>
-			</tr>
-	<tr><td valign="TOP" align="LEFT" width="393" height="7" bgcolor="">
-	<spacer type="block" width="1" height="7"></spacer></td></tr>
-	<tr><td valign="TOP" align="LEFT" width="393" height="1" bgcolor="#FFFFFF">
-	<spacer type="block" width="1" height="1"></spacer></td></tr>
-	<tr><td valign="TOP" align="LEFT" width="393" height="7" bgcolor="">
-	<spacer type="block" width="1" height="7"></spacer></td></tr>
-<!--------------------------- /Sign up  Box ---------------------------->
-<!-------------------------- Candidate Sign In Box -->
-		<script language="JavaScript">
 
-		function chkform(form)
-		{
-			if(form.uname.value == "")
-			{
-				alert("Please enter username !");
-				form.uname.focus();
-				return false;
-			}
-			if(form.passwd.value == "")
-			{
-				alert("Please enter password !");
-				form.passwd.focus();
-				return false;
-			}
-			else
-			{
-				return true;
-			}
-		}
-		</script>
-		<form method="post" action="check_user.php" onsubmit="return chkform(this);"></form>
-		<tr>
-		<td height="10">
-				<p align="left"><font size="2" face="Verdana"><font style="font-size:8pt" color="#FFFFFF">&nbsp;&nbsp;Login</font><font style="font-size:8pt" color="#FFFFFF"> if you are a  &nbsp;&nbsp;registered Candidate:<br>
-				<br>
-				</font></font></p></td>
-		</tr>
-		<tr>
-					<td bgcolor="#406FB7" align="left">
-			
-				<table border="0" cellspacing="0" cellpadding="0">
-				  <tbody><tr>
-					<td width="100%"><font size="2" face="Verdana" color="#FFFFFF" align="left">&nbsp;&nbsp;Username </font></td>
-				  </tr>
-				  <tr>
-					<td width="100%">&nbsp;&nbsp;<input class="textbox" type="text" name="uname" size="14" align="left"></td>
-				  </tr>
-				  <tr>
-					<td width="100%"><font size="2" face="Verdana" color="#FFFFFF">&nbsp;&nbsp;Password</font></td>
-				  </tr>
-				  <tr>
-					<td width="100%">&nbsp;&nbsp;<input class="textbox" type="password" name="passwd" size="14"><br>
-					<input type="hidden" name="nf" value="">
-					</td>
-				  </tr>
-				</tbody></table>
+
+<!-- ........................ Sign Up Box 
+<TR><td bgcolor="#406FB7" align='center'>
+&#160;&#160;<a href="canCandidates-Add1.php" class="homelink"><font size="2" face="Verdana" >Sign up</font></a>
+<font style="font-size:8pt" face="Verdana" color="#FFFFFF"> if you are&#160;&#160;&#160;&#160;&#160; a new Candidate</font><BR><BR>
+</TD></tr>
+<!--  ............. End of Sign up  Box -->
+
+<!-- ........................ Sign Up Box -->
+<tr><td class="ta" bgcolor="#406FB7" !align="center">
+<center><form method="get" action="canCandidates-Add1.php">
+<br><font style="font-size:10pt" color="#FFFF33"><b>New Candidate?</b></font><br><br>
+<input type="submit" value=" Join Now " style="background-color: #E5E5E5; background-repeat: repeat; background-attachment: scroll; width: 85; height: 25; border: 1px solid #4F6686; background-position: 0% 50%; font-family: Arial, Helvetica, sans-serif; font-size: 11; color: #223550;">
+<!-- <INPUT TYPE="hidden" name="path" value="jobalert"> -->
+</form>
+</center>
+<font style="font-size:8pt" color="#FFFF33">
+<!-- <FONT style="font-size:8pt"  color="#CC9933" >&nbsp;&nbsp;&nbsp;&raquo;&nbsp;</font><A class=link2 HREF="canCandidates-Add1.php?path=cv"><FONT style="font-size:8pt"  color="#FFEE33" >Build your CV</A><BR><BR>
+<FONT style="font-size:8pt"  color="#CC9933" >&nbsp;&nbsp;&nbsp;&raquo;&nbsp;</font><A class=link2 HREF="canCandidates-Add1.php?path=join"><FONT style="font-size:8pt"  color="#FFEE33" >Register for jobs</A> -->
+<br><br><br><br>
+</font></td></tr>
+<!--  ............. End of Sign up  Box -->
+
+
+
+
+<!-- ........................ Sign Up Box 
+<TR><td class=ta bgcolor="#406FB7" align='center'>
+<form method=get action="canCandidates-Add1.php">
+<BR><FONT style="font-size:10pt"  color="#FFFF33" ><B>New Candidate?</B></FONT><BR><BR>
+<input type="submit" value=" Join Now " style='background-color: #E5E5E5; background-repeat: repeat; background-attachment: scroll; width: 65; height: 28; border: 1px solid #4F6686; background-position: 0% 50%; FONT-WEIGHT: bold; font-family: Arial, Helvetica, sans-serif; font-size: 12; color: #223550;'>
+<INPUT TYPE="hidden" name="path" value="join">
+</form>
+</TD></tr>
+<!--  ............. End of Sign up  Box -->
+
+<tr><td valign="TOP" align="LEFT" width="393" height="1" bgcolor="#FFFFFF"></td><td bgcolor="#406FB7"></td></tr>
+
+
+
+<!-- ........................ Job Alert Box 
+<TR><td class=ta bgcolor="#406FB7" align='center'>
+<form method=get action="canCandidates-Add1.php">
+<BR><FONT style="font-size:10pt"  color="#FFFF33" ><B>New Candidate?</B></FONT><BR><BR> 
+<input type="submit" value=" Receive Job Alerts " style='background-color: #E5E5E5; background-repeat: repeat; background-attachment: scroll; width: 125; height: 20; border: 1px solid #4F6686; background-position: 0% 50%; font-family: Arial, Helvetica, sans-serif; font-size: 11; color: #223550;'>
+<INPUT TYPE="hidden" name="path" value="jobalert">
+</form>
+</TD></tr>
+<!--  ............. End of Job Alert Box -->
+<!-- 
+<TR><TD VALIGN = "TOP" 	ALIGN = "LEFT" 	WIDTH = "393" 	height="1"	BGCOLOR="#FFFFFF"></TD><td bgcolor="#406FB7"></td></TR>
+ -->
+
+<!-- ........................ CV Box 
+<TR><td class=ta bgcolor="#406FB7" align='center'>
+<form method=get action="canCandidates-Add1.php">
+<input type="submit" value=" Build Your CV " style='background-color: #E5E5E5; background-repeat: repeat; background-attachment: scroll; width: 125; height: 20; border: 1px solid #4F6686; background-position: 0% 50%; font-family: Arial, Helvetica, sans-serif; font-size: 11; color: #223550;'>
+<INPUT TYPE="hidden" name="path" value="cv">
+</form>
+</TD></tr>
+<!--  ............. End of CV Box -->
+
+
+<!-- ........................ Candidate Sign In Box  -->
+</tbody></table><span id="canClosed">
+</span><table border="0" cellpadding="0" cellspacing="0" width="146">
+<!-- <TR><td align="left"><font size="2" face="Verdana" color="#FFFFFF">
+</font></td></TR>
+<TR><TD VALIGN = "TOP" 	ALIGN = "LEFT" 	WIDTH = "393" 	height="7"	BGCOLOR="#406FB7">
+</TD></TR> 
+<TR><TD VALIGN = "TOP" 	ALIGN = "LEFT" 	WIDTH = "393" 	height="1"	BGCOLOR="#FFFFFF">
+</TD></TR>
+ -->
+ <tbody><tr><td valign="TOP" align="LEFT" width="393" height="7" bgcolor="#406FB7">
+</td></tr>
+
+</tbody></table><table border="0" cellpadding="2" cellspacing="2" width="146">
+<tbody><tr> <td bgcolor="#406FB7">
+<p align="left"><font size="1" face="Verdana" color="#FFFF33" !color="#D3A414">
+</font><a href="javascript:handleCandidateLogin()" class="homelink"><font style="font-size:8pt" face="Verdana"><img src="../images1/expand.JPG" border="0">  <font style="font-size:8pt" face="Verdana" color="#FFFF33" !color="#D3A414"><!--!B-->Candidate Login</font></font></a><font style="font-size:8pt" face="Verdana"><br></font></p><font style="font-size:8pt" face="Verdana">
+</font></td></tr> 
+</tbody></table>
+
+
+<span id="canOpened" style="DISPLAY: none">
+<table border="0" cellpadding="2" cellspacing="2" width="146">
+<tbody><tr> <td bgcolor="#406FB7">
+<p align="left"><b><font size="1" face="Verdana" color="#D3A414">
+</font><a href="javascript:handleCandidateLogin()" class="homelink"><font style="font-size:8pt" face="Verdana"><img src="../images1/close.JPG" border="0">  <font style="font-size:8pt" face="Verdana" color="#FFFF33" !color="#D3A414">Candidate Login</font></font></a></b><font style="font-size:8pt" face="Verdana"><br></font></p><font style="font-size:8pt" face="Verdana">
+</font></td></tr> 
+</tbody></table>
+</span>
+
+<span id="Candidate_Login" style="DISPLAY: none">
+<table border="0" cellpadding="0" cellspacing="0" width="146">
+<!-- Login Box 2 -->
+<!--<TR>
+<td height="10" align=left>
+		<font size="2" face="Verdana"><font style="font-size:8pt" color="#FFFFFF">&#160;&#160; Login if you are a<BR> &#160;&#160; registered Candidate:<br>
+		<br>
+		</font></font></TD>
+</TR>-->
+<tbody><tr>
+			<td bgcolor="#406FB7" align="left">
+		<form method="post" action="check_user.php" onsubmit="return chkform(this);">
+		<table border="0" cellspacing="0" cellpadding="0">
+		  <!--<tr>
+			<td width="100%">
+			<font size="2" face="Verdana" color="#FFFFFF" >&#160;&#160;Email </font></td>
+		  </tr>-->
+		  <tbody><tr>
+			<td width="100%">&nbsp;&nbsp;<input class="canloginfield" type="text" name="uname" size="16" onfocus="this.style.backgroundImage='none'" onblur="if (this.value == '') {this.style.backgroundImage='url(../images1/Username.bmp)'}" align="left"></td>
+		  </tr>
+		  <!--<tr>
+			<td width="100%"><font size="2" face="Verdana" color="#FFFFFF">&#160;&#160;Password</font></td>
+		  </tr>-->
+		  <tr>
+			<td width="100%">&nbsp;&nbsp;<input class="passwordfield" type="password" name="passwd" size="16" onfocus="this.style.backgroundImage='none'" onblur="if (this.value == '') {this.style.backgroundImage='url(../images1/Password.bmp)'}"><br>
+			<!--<CENTER><input type="image"  SRC="../images1/talent-17-1-2k3_23N.jpg" ></CENTER>-->
+			<center><input type="submit" value="Login" style="background-color: #D5D5D7; background-repeat: repeat; background-attachment: scroll; width: 35; height: 18; border: 1px solid #4F6686; background-position: 0% 50%; FONT-WEIGHT: bold; font-family: Arial, Helvetica, sans-serif; font-size: 10; color: #223550;"></center>
+			<input type="hidden" name="nf" value="">
 			</td>
-		</tr>
-		<tr>
-				<td align="center">
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="image" src="../images1/talent-17-1-2k3_23N.jpg" width="54" height="25" border="0"></td>
-		</tr>
-		<tr>
-					<td bgcolor="#406FB7">
-						<p align="center"><b><font size="1" face="Verdana" color="#D3A414"><br>
-				<br>
-				</font><a href="canOutbound-ForgotPassword.php" class="homelink"><font !size="2" style="font-size:8pt" face="Verdana">Forgot
-				password?</font></a></b><br><br></p>
+		  </tr>
+		</tbody></table>
+		</form>
+	</td>
+</tr>
+<tr>
+<td bgcolor="#406FB7">
+<p align="center"><font size="1" face="Verdana" color="#FFCC33"></font><a href="canOutbound-ForgotPassword.php" class="homelink"><font style="font-size:7pt" face="Verdana" color="#FFCC33">Forgot password?</font></a><br></p>
+</td>
+</tr> 
+<!-- End of Login Box 2 -->
+</tbody></table>
+</span>
+<table border="0" cellpadding="0" cellspacing="0" width="146">
+<tbody><tr><td align="left"><font size="2" face="Verdana" color="#FFFFFF">
+</font></td></tr>
+<tr><td valign="TOP" align="LEFT" width="393" height="7" bgcolor="#406FB7">
+</td></tr> 
+<tr><td valign="TOP" align="LEFT" width="393" height="1" bgcolor="#FFFFFF">
+</td></tr>
+<tr><td valign="TOP" align="LEFT" width="393" height="7" bgcolor="#406FB7">
+</td></tr>
+</tbody></table>
+<!-- ........................ Candidate Sign In ........................ -->
+<!-- ........................ Employer Login Link ........................-->
+<span id="empClosed">
+<table border="0" cellpadding="2" cellspacing="2" width="146">
+<tbody><tr> 
+<td bgcolor="#406FB7">
+<p align="left"><font size="1" face="Verdana" color="#D3A414">
+</font><a href="javascript:handleEmployerLogin()" class="homelink"><font style="font-size:8pt" face="Verdana"><!--BR--><img src="../images1/expand.JPG" border="0">  <font style="font-size:8pt" face="Verdana" color="#FFFF33" !color="#D3A414"><!--!B-->Employer Login</font></font></a><font style="font-size:8pt" face="Verdana"><br></font></p><font style="font-size:8pt" face="Verdana">
+</font></td></tr>
+</tbody></table>
+</span>
+
+<span id="empOpened" style="DISPLAY: none">
+<table border="0" cellpadding="2" cellspacing="2" width="146">
+<tbody><tr> 
+<td bgcolor="#406FB7">
+<p align="left"><b><font size="1" face="Verdana" color="#D3A414">
+</font><a href="javascript:handleEmployerLogin()" class="homelink"><font style="font-size:8pt" face="Verdana"><!--BR--><img src="../images1/close.JPG" border="0">  <font style="font-size:8pt" face="Verdana" color="#FFFF33" !color="#D3A414">Employer Login</font></font></a><font style="font-size:8pt" face="Verdana"><br></font></b></p><font style="font-size:8pt" face="Verdana">
+</font></td></tr>
+</tbody></table>
+</span>
+
+<span id="Employer_Login" style="DISPLAY: none">
+
+
+<!-- Login Box 1 -->
+<table border="0" cellpadding="0" cellspacing="0" width="146">
+
+<!--<TR>
+<td height="10" align=left>
+		<font size="2" face="Verdana"><font style="font-size:8pt" color="#FFFFFF">&#160;&#160; Login if you are a<BR> &#160;&#160; registered Candidate:<br>
+		<br>
+		</font></font></TD>
+</TR>-->
+<tbody><tr>
+			<td bgcolor="#406FB7" align="left">
+		<!--<form method=post action="check_user.php" onsubmit="return chkform(this);">-->
+		<form method="post" action="check_user.php" onsubmit="return chkform12(this);">
+		<table border="0" cellspacing="0" cellpadding="0">
+		  <!--<tr>
+			<td width="100%">
+			<font size="2" face="Verdana" color="#FFFFFF" >&#160;&#160;Email </font></td>
+		  </tr>-->
+		  <tbody><tr>
+			<td width="100%">&nbsp;&nbsp;<input class="emploginfield" type="text" name="uname" size="16" align="left" onfocus="this.style.backgroundImage='none'" onblur="if (this.value == '') {this.style.backgroundImage='url(../images1/Username.bmp)'}"></td>
+		  </tr>
+		  <!--<tr>
+			<td width="100%"><font size="2" face="Verdana" color="#FFFFFF">&#160;&#160;Password</font></td>
+		  </tr>-->
+		  <tr>
+			<td width="100%">&nbsp;&nbsp;<input class="passwordfield" type="password" name="passwd" onfocus="this.style.backgroundImage='none'" onblur="if (this.value == '') {this.style.backgroundImage='url(../images1/Password.bmp)'}" size="16"><br>
+			<!--<CENTER><input type="image"  SRC="../images1/talent-17-1-2k3_23N.jpg" ></CENTER>-->
+			<center><input type="submit" value="Login" style="background-color: #D5D5D7; background-repeat: repeat; background-attachment: scroll; width: 35; height: 18; border: 1px solid #4F6686; background-position: 0% 50%; FONT-WEIGHT: bold; font-family: Arial, Helvetica, sans-serif; font-size: 10; color: #223550;"></center>
+			<input type="hidden" name="from_empr" value="true">
 			</td>
-		</tr>
-		
-	<!--------------------------Candidate Sign In ------------------------------------>
-	<!--------------------------Employer Login Link-->
-	<tr><td valign="TOP" align="LEFT" width="393" height="1" bgcolor="#FFFFFF">
-	<spacer type="block" width="1" height="1"></spacer></td></tr>
-	<tr><td bgcolor="#406FB7"></td></tr>
-	<tr> <td bgcolor="#406FB7">
-	<p align="center"><b><font size="1" face="Verdana" color="#D3A414"><br><br>
-	</font><a href="empPages-Entrance.php" class="homelink"><font !size="2" style="font-size:8pt" face="Verdana">Employers Login</font></a></b></p>
-	</td></tr> 
-	<!--------------------------/Employer Login Link ------------------------------------>
+		  </tr>
+		</tbody></table>
+		</form>
+	</td>
+</tr>
+<tr>
+<td bgcolor="#406FB7">
+<p align="center"><font size="1" face="Verdana" color="#FFCC33"></font><a href="empOutbound-ForgotPassword.php" class="homelink"><font style="font-size:7pt" face="Verdana" color="#FFCC33">Forgot password?</font></a><br></p>
+</td>
+</tr>
+<!-- End of Login Box 1 -->
+
+</tbody></table>
+</span>
+<!-- ......................../Employer Login Link ........................ -->
+
+<table border="0" cellpadding="0" cellspacing="0" width="146">
+<tbody><tr><td align="left"><font size="2" face="Verdana" color="#FFFFFF">
+</font></td></tr>
+<tr><td valign="TOP" align="LEFT" width="393" height="7" bgcolor="#406FB7">
+</td></tr> 
+<tr><td valign="TOP" align="LEFT" width="393" height="1" bgcolor="#FFFFFF">
+</td></tr>
+<tr><td valign="TOP" align="LEFT" width="393" height="7" bgcolor="#406FB7"></td></tr>
+
+
+
+<tr><td align="center" bgcolor="#406FB7">
+<br><br><br><br><br><br><br>
+</td></tr>
 <tr><td bgcolor="#406FB7" height="100%">&nbsp;</td></tr>
+<tr><td bgcolor="#406FB7" align="center"><font size="1" color="white">
+</font>
+</td></tr>
 </tbody></table>
 </td>
 </tr>
@@ -562,7 +801,7 @@ A.link2:hover
 				<table align="CENTER" valign="center" width="95%" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr valign="CENTER" height="90%" bgcolor="#FFDDFF">
 					<td align="left"><font style="font-size:8pt">
-<br><br><b>Reference:</b><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="100%" align="center"><form method="get" action="canPositions-ViewList.php"><font size="1"><input type="text" name="pos_ref" maxlength="50" size="15" class="textbox" value="">&nbsp;&nbsp;<input type="submit" name="sub" value="GO" style="background-color: #D5D5D7; background-repeat: repeat; background-attachment: scroll; width: 24; height: 18; border: 1px solid #4F6686; background-position: 0% 50%; FONT-WEIGHT: bold; font-family: Arial, Helvetica, sans-serif; font-size: 9; color: #223550;"><input type="hidden" name="from_possearch" value="true"></font></form></td></tr></tbody></table><br><b>Select by Location:</b><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;frmPositionCountry=90009000000000">Outside Iran&nbsp;(13</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;frmPositionCountry=10001000000000">Iran&nbsp;(39</a>)</font></td></tr></tbody></table><br><br><b>Select by Job Category:</b><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=1">Accounting &amp; Finance&nbsp;(3</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=22">Administration &amp; Secretarial&nbsp;(5</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=29">Engineering - Civil &amp; Architecture&nbsp;(2</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=30">Engineering - Electrical &amp; Electronic&nbsp;(16</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=32">Engineering - Mechanical &amp; Aeronautical&nbsp;(2</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=33">Engineering - Mining, Geology &amp; Materials&nbsp;(2</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=40">HR, Recruitment &amp; Training&nbsp;(2</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=60">Industrial Management / Engineering&nbsp;(1</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=57">IT - Network Administration&nbsp;(3</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=42">IT - Software &amp; Web Development&nbsp;(6</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=47">Purchasing &amp; Procurement&nbsp;(2</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=58">Safety &amp; Environment&nbsp;(1</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=50">Sales &amp; Marketing&nbsp;(5</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=52">Translation&nbsp;(1</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="canPositions-ViewList.php?from_search=true&amp;jobcat=53">Transport, Logistics &amp; Warehousing&nbsp;(1</a>)</font></td></tr></tbody></table>					
+<br><br><b>Reference:</b><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="100%" align="center"><form method="get" action="canPositions-ViewList-s.php"><font size="1"><input type="text" name="pos_ref" maxlength="50" size="15" class="textbox" value="">&nbsp;&nbsp;<input type="submit" name="sub" value="GO" style="background-color: #D5D5D7; background-repeat: repeat; background-attachment: scroll; width: 24; height: 18; border: 1px solid #4F6686; background-position: 0% 50%; FONT-WEIGHT: bold; font-family: Arial, Helvetica, sans-serif; font-size: 9; color: #223550;"><input type="hidden" name="from_possearch" value="true"></font></form></td></tr></tbody></table><br><b>Select by Location:</b><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-con90009000000000-1.html">Outside Iran&nbsp;(6</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-con10001000000000-1.html">Iran&nbsp;(38</a>)</font></td></tr></tbody></table><br><br><b>Select by Job Category:</b><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat1-1.html">Accounting &amp; Finance&nbsp;(2</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat22-1.html">Administration &amp; Secretarial&nbsp;(4</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat25-1.html">Creative Arts &amp; Design&nbsp;(1</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat28-1.html">Engineering - Chemical, Petrochemical &amp; Food&nbsp;(1</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat29-1.html">Engineering - Civil &amp; Architecture&nbsp;(1</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat30-1.html">Engineering - Electrical &amp; Electronic&nbsp;(3</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat32-1.html">Engineering - Mechanical &amp; Aeronautical&nbsp;(2</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat39-1.html">Healthcare -  Physician&nbsp;(2</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat38-1.html">Healthcare - Pharmaceutical &amp; Other&nbsp;(1</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat40-1.html">HR, Recruitment &amp; Training&nbsp;(2</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat42-1.html">IT - Software &amp; Web Development&nbsp;(1</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat46-1.html">Police, military &amp; security services&nbsp;(1</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat47-1.html">Purchasing &amp; Procurement&nbsp;(4</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat58-1.html">Safety &amp; Environment&nbsp;(1</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat50-1.html">Sales &amp; Marketing&nbsp;(16</a>)</font></td></tr><tr valign="top"><td><img src="../images1/li5.gif"></td><td class="tv"><font size="1"><a class="link2" href="jobs-cat53-1.html">Transport, Logistics &amp; Warehousing&nbsp;(2</a>)</font></td></tr></tbody></table>					
 		<br><br><br>					</font></td>
 				</tr>
 
@@ -604,7 +843,7 @@ A.link2:hover
 		<td class="tv" valign="center"><a href="cntPrivacy.php" class="footerlink"><font size="1"><b>Privacy Policy</b></font></a>&nbsp;<img border="0" src="../images1/spacer.gif" width="4" height="4"> &nbsp; </td>
 	</tr>
 	<tr>
-		<td align="center" valign="top" class="tv" colspan="6" height="20"><font size="1" color="#CDCDCD"><b>Copyright ©  2003 - 2006, IranTalent.com All Rights Reserved.</b></font></td>
+		<td align="center" valign="top" class="tv" colspan="6"><font size="1" color="#CDCDCD"><b>IranTalent.com – Iran Jobs, Recruitment and Job Search Advice. Copyright ©  2003-2006<br><br></b></font></td>
 	</tr>
 	</tbody></table>
 	</td>
