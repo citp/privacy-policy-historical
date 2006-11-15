@@ -1,0 +1,191 @@
+<!--The following is the downloaded HTML source of the lafitness.com privacy policy that was archived on 2006-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061115202349id_/http%3A//www.lafitness.com/Pages/privacyPolicy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+		<title>LA Fitness</title>
+		<link href="Styles/style.css" type="text/css" rel="stylesheet">
+			<link href="Styles/navigation.css" type="text/css" rel="stylesheet">
+	</head>
+	<body class="bodyWithBar">
+		<form name="Form1" method="post" action="privacyPolicy.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQzODc1NTM3OA9kFgICAQ9kFgICAQ9kFhoCAQ8PFgIeB1Zpc2libGVoZGQCAw8PFgIfAGhkZAIFDxYCHwBoZAIKDxYCHwBoZAIMDxYCHwBoZAITDxYCHgVjbGFzcwUDdGFiZAIVDxYCHwEFA3RhYmQCFw8WAh8BBQN0YWJkAhkPFgIfAQUDdGFiZAIbDxYCHwEFA3RhYmQCHQ8WAh8BBQt0YWJTZWxlY3RlZGQCHw8WAh8BBQN0YWJkAiEPFgIfAGcWDgIBDxYCHwBoZAIDDxYCHwBoZAIFDxYCHwBoFgQCAw8WAh8AaGQCBw8WAh8AaGQCBw8WAh8AaGQCCQ8WAh8AaGQCCw8WAh8AZ2QCDQ8WAh8AaGRkcFhf2bxh30JZzMzee998Nd0k7FM=">
+
+		    <div id="divMain" class="divMainClass">
+			    
+<script language="javascript" type="text/javascript">
+
+    function clearText()
+    {
+        var txtZipCode = document.getElementById("Menu_txtZipCode");
+        if (txtZipCode.value == "-enter zip-")
+            txtZipCode.value="";
+    }
+    
+    function validateZipCode()
+    {
+        var txtZipCode = document.getElementById("Menu_txtZipCode");
+        var result = true;
+
+        if(txtZipCode.value == "" || txtZipCode.value == "-enter zip-" )
+        {
+            alert("Please enter your ZIP code.");
+            txtZipCode.focus();
+            result = false;
+        }
+        else if (txtZipCode.value.length != 5 || isNaN(txtZipCode.value))
+        {
+            alert("Please provide a valid 5 digit ZIP code.");
+            txtZipCode.focus();
+            result = false;
+        }        
+        
+        return result;
+    }
+
+    function doEnter(obj)
+    {
+        if (validateZipCode()) 
+        { 
+            document.location.href='FindClubResultsZip.aspx?zipCode=' + obj.value; 
+        } 
+    }
+</script>
+<div id="header">
+	<div id="top">
+	    <table border="0" cellpadding="0" cellspacing="0" width="99%">
+	        <tbody><tr>
+	            <td align="left">
+	                   <a href="../Pages/Default.aspx">
+	                        <embed src="../FlashFiles/logoZoom.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="182" height="80">
+	                   </a>
+	            </td>
+	            <td align="right" valign="bottom" style="padding-bottom: 5px;">
+	                <table>
+	                <tbody><tr>
+	                <td>
+	                    
+                         
+                        <a href="Default.aspx?displayHome=true" id="Menu_lnkHome" class="Quick_link_nav">Home</a><label id="Menu_lblHome"> |</label>
+                         
+			            <a href="Login.aspx" id="Menu_lnkLogin" class="Quick_link_nav">Member Login</a><label id="Menu_lblLogin"> |</label>
+			            <a href="findClub.aspx" id="Menu_lnkFindClub" class="Quick_link_nav">Find a Club</a>&nbsp;
+			            <input type="text" onfocus="clearText();" id="Menu_txtZipCode" name="Menu_txtZipCode" class="enter_zip" size="12" maxlength="11" value="-enter zip-" onkeypress="if(event.which != null) { if (event.which==13) { doEnter(this); return false; } } else { if (event.keyCode==13) { doEnter(this);  event.returnValue = false; }  }">
+			            <a href="javascript:location.href='FindClubResultsZip.aspx?zipCode=' + document.getElementById('Menu_txtZipCode').value" onclick="return validateZipCode();" id="Menu_btnGo">
+			                <img src="Images/go.jpg" alt="" class="Quick_link_nav" align="bottom">
+			            </a>
+			         </td>
+			        </tr>    
+			        </tbody></table>
+	            </td>
+	        </tr>
+	    </tbody></table>
+	</div>
+	<div id="toolbar">
+		<div id="Menu_whyJoin" class="tab">
+			<div class="tabBorderLeft">&nbsp;</div>
+			<a href="../Pages/whyjoin.aspx">Why Join?</a>
+			<div class="tabBorderRight">|</div>
+		</div>
+		<div id="Menu_findClub" class="tab">
+			<div class="tabBorderLeft">&nbsp;</div>
+			<a href="../Pages/findclub.aspx">Find a Club</a>
+			<div class="tabBorderRight">|</div>
+		</div>
+		<div id="Menu_memberServices" class="tab">
+			<div class="tabBorderLeft">&nbsp;</div>
+			<a href="../Pages/memberServices.aspx">Member Services</a>
+			<div class="tabBorderRight">|</div>
+		</div>
+		<div id="Menu_classesPrograms" class="tab">
+			<div class="tabBorderLeft">&nbsp;</div>
+			<a href="../Pages/classesPrograms.aspx">Classes &amp; Programs</a>
+			<div class="tabBorderRight">|</div>
+		</div>
+		<div id="Menu_corporate" class="tab">
+			<div class="tabBorderLeft">&nbsp;</div>
+			<a href="../Pages/corporate.aspx">Corporate Wellness</a>
+			<div class="tabBorderRight">|</div>
+		</div>
+		<div id="Menu_about" class="tabSelected">
+			<div class="tabBorderLeft">&nbsp;</div>
+			<a href="../Pages/about.aspx">About LA Fitness</a>
+			<div class="tabBorderRight">|</div>
+		</div>
+		<div id="Menu_faq" class="tab">
+			<div class="tabBorderLeft">&nbsp;</div>
+			<a href="../Pages/faq.aspx">FAQ </a>
+			<div class="tabBorderRight">&nbsp;</div>
+		</div>
+	</div>
+	<div id="Menu_subTab" class="subTabLine">
+		
+		
+		
+		
+		
+		<div id="Menu_aboutSubMenu" class="tabOptions">
+		    <a href="../Pages/WhoWeAre.aspx">Who We Are</a> 
+		    | 
+		    <a href="../Pages/Opportunities.aspx">Business Opportunities</a> 
+		    | 
+		    <a href="../Pages/Employment.aspx">Employment</a> 
+		    | 
+		    <a href="../Pages/ContactUs.aspx">Contact Us</a>
+		</div>
+		
+	</div>
+</div>
+
+    			
+			    <div id="divLeftBar" class="leftContent">
+			        <embed src="../FlashFiles/sideBar_v.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="78" height="591">
+			    </div>
+			    
+			    <div id="divCenterContent" class="centerContent">
+			    	<h1>Privacy Policy</h1>
+            <p style="text-align:justify">
+                LAF is committed to providing users of its Site with an understanding of how LAF gathers and uses information, as well as the precautions taken by LAF to protect information concerning its Users. This Privacy Policy is incorporated into and is a part of the Terms and Conditions of Use; it describes LAF's policies and procedures for the collection and use of personal information provided by the User as well as non-personally identifiable information. 
+            </p>
+            <p style="text-align:justify; font-weight:bold">
+                Personally identifiable information.
+            </p>
+            <p style="text-align:justify">
+                LAF collects personally identifiable information directly from the User only when the User voluntarily enters information, or when the User requests or agrees that LAF send the User information or materials. The types of personally and mobile identifiable information LAF collects include e-mail address, full name, full address, work phone numbers, age, gender and viewing preferences. LAF currently uses the information for the purposes of providing the User with information requested by the User, and service information, and to allow the User to voluntarily participate in promotions, contests or sweepstakes. LAF may also use personally identifiable information to process user requests and/or to send the User communications from LAF such as news, information and promotional offers. If the User requests information for certain offers, promotions, contests or sweepstakes, LAF may forward the User's personal information to a third party for the purposes of supporting LAF in these services. In the interest of enhancing our service, LAF has business relationships with third parties. Certain of these relationships include the sharing of your personal information with such third parties. 
+            </p>
+            <p style="text-align:justify">
+                LAF may disclose your personal and account information to respond to court subpoenas, court orders, or other legal processes, as required by law, or to establish or exercise LAF legal rights or defend against legal claims. Your personal and account information may also be disclosed in connection with a sale of some or all of the LAF business or a merger with another entity. As an added protection to the User's privacy concerning personally identifiable information collected by LAF, the User may request that his or her information be changed, corrected or deleted from our databases by writing us at: Consumer Web Site Officer, L.A. Fitness International, LLC, 8105 Irvine Center Drive, Suite 200, Irvine, CA 92618, or by accessing the "contact us" link on our homepage. 
+            </p>
+            <p style="text-align:justify; font-weight:bold">
+                Use of Cookies and non-personally identifiable information. 
+            </p>
+            <p style="text-align:justify">
+                By using the Site, the User makes available to LAF certain non-personally identifiable information (such as the domain name and type of the User's internet server and browser, which pages of the Site the User accesses, and the length of access). This statement explains how LAF uses such information, and how the User can restrict the use and collection of non-personally identifiable information from "cookies." 
+            </p>
+            <p style="text-align:justify">
+                A "cookie" is a bit of text information stored on the hard drive of your computer by an internet web server when you visit the Site. The User can choose not to accept cookies, but in so doing, the User may not be able to access the LAF Site. Refer to the Help information in your browser or internet provider site or software for instructions on how to disable cookies, or to be notified when a cookie is set. LAF may use "cookies" to track usage of the Site, User interactions with the Site, and to customize the Site. 
+            </p>
+            <p style="text-align:justify">
+                LAF may use the non-personally identifiable information that is collected by LAF to improve the design and content of LAF's site and to enable LAF to personalize your Internet experience. Also, LAF may use this information in the aggregate to analyze site usage, as well as to offer user products, programs, or services. 
+            </p>
+			    </div>
+    			<div id="rightContent" class="rightContent">
+			     </div>
+			 </div>
+			 
+<div class="footer">
+	<p class="pFooter">
+	    <a href="privacyPolicy.aspx" class="footer_links">Privacy Policy</a> | 
+	    <a href="termsAndConditions.aspx" class="footer_links">Terms &amp; Conditions</a> |	 
+	    <a href="siteMap.aspx" class="footer_links">Site Map</a> | 
+	    <a href="ContactUs.aspx" class="footer_links">Contact Us</a>
+	</p>
+	<p class="copyright_text">
+	    © 2006 L.A. Fitness International, LLC. All rights reserved.
+	</p>
+</div>
+
+
+        </form>
+    
+
+</body></html>
