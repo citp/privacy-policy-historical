@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623125819id_/http%3A//www.invaluable.com/about/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116003532id_/http%3A//invaluable.com/about/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Invaluable > About Invaluable > Privacy Policy
 
@@ -90,7 +90,7 @@ Invaluable provides the following options for telling us about your preferences,
 
   * You can email us at [customer.services@invaluable.com](mailto:customer.services@invaluable.com)
   * You can send a letter to us at the following postal address: Invaluable Ltd, Ground Floor, 34 Medina Road, Cowes, Isle of Wight, PO31 7DA, United Kingdom. 
-  * You can call the following telephone number: +44 0800 018 0209, or +44 01983 826 000 or fax us at +44 01983 826 206. 
+  * You can call the following telephone number: +44 0800 376 8592, or +44 01983 826 000 or fax us at +44 01983 826 206. 
 
 
 
