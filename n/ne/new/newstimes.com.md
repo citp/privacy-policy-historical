@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the newstimes.com privacy policy that was archived on 2006-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060527031556id_/http%3A//www.newstimeslive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstimes.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115045733id_/http%3A//www.newstimes.com/info/privacy.php) for the most accurate reproduction.*
 
-# NewstimesLIVE.com Subscriptions
+# News Times Live PRIVACY POLICY
 
-**This privacy policy was last updated 03/12/06**
+PRIVACY POLICY
+
+ **This privacy policy was last updated 03/12/06**
 
 Ottaway Newspapers, Inc., the parent company of Ottaway Newspaper Group, and its affiliates (collectively referred to as "Ottaway", "we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using their respective web sites (the "The News-Times "). This Privacy Policy describes how we treat personal information received about you when you visit The News-Times. 
 
