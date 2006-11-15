@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriott.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005023id_/http%3A//www.marriott.com/privacy.mi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriott.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115201150id_/http%3A//marriott.com/privacy.mi) for the most accurate reproduction.*
 
 # View information on the Marriott corporation, including our internet privacy policy
 
@@ -25,12 +25,12 @@ When we need to collect personally identifiable information from you to provide 
 
 4) send you periodic satisfaction or market research surveys. 
 
-You can opt out of marketing emails at any time. You can also [opt out](https://web.archive.org/profile/email/unsubscribeChallenge.mi) of Marriott research surveys. The same types of information would be requested to complete a gift certificate purchase, register for a Marriott Rewards promotion, enter a sweepstakes or online game, to enroll in the [Marriott Rewards program](https://web.archive.org/web/20060615005023id_/http%3A//www.marriott.com/privacy.mi?WT_Ref=mi_footer#Question4) or to redeem Marriott Rewards points. On occasion, we use third parties to provide us with additional contact information about you given the information you provided to us directly. For example, if we know your name and postal address, we may use a third party to provide us with your email address. We would then use this information for market analysis and marketing purposes.   
+You can opt out of marketing emails at any time. You can also [opt out](https://web.archive.org/profile/email/unsubscribeChallenge.mi) of Marriott research surveys. The same types of information would be requested to complete a gift certificate purchase, register for a Marriott Rewards promotion, enter a sweepstakes or online game, to enroll in the [Marriott Rewards program](https://web.archive.org/web/20061115201150id_/http%3A//marriott.com/privacy.mi?WT_Ref=mi_footer#Question4) or to redeem Marriott Rewards points. On occasion, we use third parties to provide us with additional contact information about you given the information you provided to us directly. For example, if we know your name and postal address, we may use a third party to provide us with your email address. We would then use this information for market analysis and marketing purposes.   
   
  Back to top  
 **Reservations**
 
-The personally identifiable information you provide to us for making a reservation is made available to the applicable hotel for the purpose of meeting your reservation request.  After making a reservation or completing your stay at a Marriott hotel, unless you tell us otherwise, the information you provide will be used by us for marketing of Marriott hotels and other Marriott products.  Marriott may use the services of  third-party mail houses for the sole purpose of mailing materials.   
+The personally identifiable information you provide to us for making a reservation is made available to the applicable hotel for the purpose of meeting your reservation request.  After making a reservation or completing your stay at a Marriott hotel, unless you tell us otherwise, the information you provide will be used by us for marketing of Marriott hotels and other Marriott products.  Marriott may use the services of third-party mail houses for the sole purpose of mailing materials.   
   
  Back to top  
 **Creating a Personal Account**
@@ -170,7 +170,7 @@ If you are a customer who resides in the State of California, you have the righ
  Back to top  
 **Other Marriott Sites Within Marriott.com**
 
-Within Marriott.com are numerous other Marriott Web sites that are accessible from links within Marriott.com or via separate URLs.  Namely, these Web sites are: marriottrewards.com, jwmarriotthotels.com, fairfieldinn.com, marriotthotels.com, newworldhotels.com, renaissancehotels.com, residenceinn.com, springhillsuites.com, towneplace.com, towneplacesuites.com, conferencecenters.com, courtyard.com, execustay.com, , marriottfoundation.org, careers.marriott.com, marriottnewsroom.com,  marriott.com/investor and executiveresidences.com.   
+Within Marriott.com are numerous other Marriott Web sites that are accessible from links within Marriott.com or via separate URLs.  Namely, these Web sites are: marriottrewards.com, jwmarriotthotels.com, fairfieldinn.com, marriotthotels.com, newworldhotels.com, renaissancehotels.com, residenceinn.com, springhillsuites.com, towneplace.com, towneplacesuites.com, conferencecenters.com, courtyard.com, execustay.com, marriottfoundation.org, careers.marriott.com, marriottnewsroom.com, marriott.com/investor and executiveresidences.com.   
   
  Back to top  
 **Marriott.com Changes to Your Privacy Rights**
