@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the webgains.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620023711id_/http%3A//www.webgains.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webgains.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115230636id_/http%3A//www.webgains.com/privacy.html) for the most accurate reproduction.*
 
-# webgains.com :: uk affiliate network - top affiliate programs
+# 
 
-## Webgains Privacy Policy
+## Webgains Privacy Policy>
 
 At webgains we constantly strive to better the services that we provide. Within that development process, the protection of data of all kinds is one of the key considerations. This Privacy Policy Document lays out the key elements of how we collect, store and transfer personal data. Webgains is registered under the Data Protection Act 1998 and conforms to the eight principles of good practice.
 
 **What personally identifiable information is collected by webgains?**
 
-Webgains collects and holds personal data (e.g. name, address, telephone number etc) of every person who has successfully registered on the website [www.webgains.com](http://www.webgains.com/) as an affiliate or a merchant. In addition, webgains may collect contact details given by you in order for us to supply you with more information. Webgains does not collect information about you unless you specifically provide it to us. As a necessary condition of registration, you consent to webgains collecting and holding such information to allow us to fulfil our obligations to you. We do not rent or sell your personally identifiable information to other companies or individuals, unless we have your consent.
+Webgains collects and holds personal data (e.g. name, address, telephone number etc) of every person who has successfully registered on the website [www.webgains.com](http://www.webgains.com/) as an affiliate or a merchant. In addition, webgains may collect contact details given by you in order for us to supply you with more information. Webgains does not collect information about you unless you specifically provide it to us. As a necessary condition of registration, you consent to webgains collecting and holding such information to allow us to fulfil our obligations to you. We do not rent or sell your personally identifiable information to other companies or individuals, unless we have your consent. 
 
 **How do we use this information?**
 
-Webgains will only use the information that you have provided to us for the reason that you have provided the information. Hence, if you provide us with your cv during the process of applying for a job with webgains, we will only use that information within the context of assessing your suitability for that particular job.
+Webgains will only use the information that you have provided to us for the reason that you have provided the information. Hence, if you provide us with your cv during the process of applying for a job with webgains, we will only use that information within the context of assessing your suitability for that particular job. 
 
 With the exception of statutory requests, should any material changes be made to the way in which we use that information, webgains will notify you by email of that change at least 14 days before the change of use.
 
@@ -43,8 +43,8 @@ What about other links on this site?
 **  
 Can I ask for a copy of my data?**
 
-Yes. Please send an email to , or a stamped self-addressed envelope with a covering letter to webgains Ltd, Vigilant House, 120 Wilton Road, London SW1V 1JZ
+Yes. Please send an email to , or a stamped self-addressed envelope with a covering letter to Webgains Ltd, Dragon Court, 27-29 Macklin Street, London WC2B 5LX 
 
 **Can I ask you to change or delete my data?**
 
-Yes. Please send an email to , or a stamped self-addressed envelope with a covering letter to webgains Ltd, Vigilant House, 120 Wilton Road, London SW1V 1JZ
+Yes. Please send an email to , or a stamped self-addressed envelope with a covering letter to Webgains Ltd, Dragon Court, 27-29 Macklin Street, London WC2B 5LX 
