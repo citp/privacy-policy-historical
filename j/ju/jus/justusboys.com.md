@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justusboys.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210702id_/http%3A//www.justusboys.com/2004/02/justusboyscom_privacy_policy_1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justusboys.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115010052id_/http%3A//justusboys.com/2004/02/justusboyscom_privacy_policy_1.html) for the most accurate reproduction.*
 
-# JustUsBoys.Com Privacy Policy from Just Us Boys - Entertainment For Gay Men
+# Just Us Boys - Entertainment For Gay Men
 
 **Your Personal Information is Safe**  
 We support the rights of adults to explore entertainment and sexuality on the Internet in a private and secure environment. As a visitor of JustUsBoys.com, you will have peace-of-mind knowing that any information you share privately with us will be kept strictly confidential. This includes, but is not limited to, your name, e-mail address, address, phone number, or personal information regarding the use of this site. If information is collected from you, the information will only be used to provide the products and services you've requested, to provide customer service, or to share news about our service offerings.
