@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namesecure.com privacy policy that was archived on 2005-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051114021600id_/http%3A//namesecure.com/en_US/index.jhtml%3B%24sessionid%24V0ONQTYAADJMICQBDZECNXQKAEPEOJYG%3Fcat%3Dnull%26subCat%3DpoliciesPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namesecure.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115020539id_/https%3A//www.namesecure.com/pages/privacy-policy.jhtml) for the most accurate reproduction.*
 
 # Domain name privacy policy for NameSecure | NameSecure
 
