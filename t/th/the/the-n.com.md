@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-n.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615102902id_/http%3A//www.the-n.com/footerPage.php%3Fid%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-n.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115015645id_/http%3A//www.the-n.com/footerPage.php%3Fid%3D53) for the most accurate reproduction.*
 
 # The N: Privacy Policy/Your California Privacy Rights
 
@@ -9,7 +9,7 @@ The-n.com is a site where people can come to play games, answer polls, and have 
 At the-n.com, your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personally identifiable information we collect at our site. This privacy notice applies only to personally identifiable information collected at www.the-n.com and does not cover, unless otherwise specifically stated, any information collected by any other Web site or offline. 
 
 **Information Collection**   
-To fulfill your requests for information, enable you to participate in our site offerings, and to provide you with opportunities to learn about other products and services in which we think you might be interested, we ask that you provide us with certain personally identifiable information. The types of personally identifiable information that may be collected at this site include: name, address, e-mail address, phone number, credit card or other payment information, and information about your interests in and use of various products, programs, and services. 
+To fulfill your requests for information, enable you to participate in our site offerings, and to provide you with opportunities to learn about other products and services in which we think you might be interested, we ask that you provide us with certain personally identifiable information during the registration process. To become a registered user you must be at least thirteen (13) years old. The types of personally identifiable information that may be collected at this site include: name, address, e-mail address, phone number, credit card or other payment information, and information about your interests in and use of various products, programs, and services. 
 
 _Non-personally identifiable information_  
 We also may collect certain non-personally identifiable information when you visit many of our Web pages, such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 2000 or Mac OS), and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
@@ -44,7 +44,7 @@ We may sometimes offer content (e.g., contests, sweepstakes, or promotions) that
 We use a reputable third party to present or serve the advertisements that you may see at our Web pages. Our privacy notice does not cover any use of information that a third-party ad server may have collected from you. For more information on this site’s use of such third-party ad servers, please [click here](http://www.networkadvertising.org/). 
 
 **Cookies**   
-To enhance your experience with our site, many of our Web pages use "cookies." Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
+To enhance your experience with our site, many of our Web pages use "cookies." Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
 We use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our Web pages (e.g., to recognize you by name when you return to our site), or enable you to use shopping carts on our site. We also may use cookies to offer you products, programs, or services. 
 
@@ -57,9 +57,9 @@ We have put in place appropriate physical, electronic, and managerial procedures
 To access the personally identifiable information that this site has collected about you online, or to correct factual errors in such information, please log into your profile and edit your information accordingly. 
 
 **Children’s Privacy**   
-Visitors to this site may participate in many activities without providing any personally identifiable information. However, if a user wants to participate in certain of our interactive features, we may ask the user to register and provide us with the following types of information: name, e-mail address and age information. If a visitor self-identifies as under 13 years of age, we will either collect no personally identifiable information from that individual, inform the child that a parent’s verifiable consent is required, or we will collect the e-mail address of the user’s parent in addition to the user’s e-mail address. We use the parent’s e-mail address to seek the parent’s verifiable consent or notify the parent of his/her child’s online activities and enable the parent to unsubscribe his/her child from a newsletter or other similar activity. If a user is under 13, we will not condition his/her participation in an online activity on the disclosure of more information than is reasonably necessary to participate in the activity. We do not share children’s information with outside third parties not bound by this privacy notice for their own marketing purposes. 
+Visitors to this site may participate in many activities without providing any personally identifiable information. However, if a user wants to participate in certain of our interactive features, we may ask the user to register and provide us with the following types of information: name, e-mail address and age information. All such registered users must be at least thirteen (13) years old. 
 
-If you would like to review any personally identifiable information that we have collected online from your child, have this information deleted, and/or request that there be no further collection or use of your child’s information or if you have questions about these information practices, you may contact us at, Privacy Coordinator, Noggin LLC 1633 Broadway, New York, NY 10013, (212) 846-2543 or [viewer.services@noggin.com](mailto:viewer.services@noggin.com). 
+If you would like to review any personally identifiable information that we have collected online from your child, have this information deleted, and/or request that there be no further collection or use of your child’s information or if you have questions about these information practices, you may contact us at: Privacy Coordinator, Noggin LLC, 1633 Broadway, 7th floor, New York, NY 10019, (212) 846-2543 or [viewer.services@the-n.com](mailto:viewer.services@the-n.com). 
 
 Children should check with their parent or guardian before entering any information on any Web site, and we urge parents and guardians to discuss with their kids restrictions regarding the online release of personally identifiable information to anyone they don’t know. 
 
@@ -71,17 +71,17 @@ If you have any questions, comments or concerns regarding The N’s privacy noti
 
 Privacy Coordinator   
 Noggin LLC   
-1633 Broadway   
-New York, NY 10013   
+1633 Broadway, 7th floor   
+New York, NY 10019   
 (212) 846-2543   
-[viewer.services@noggin.com](mailto:viewer.services@noggin.com)
+[viewer.services@the-n.com](mailto:viewer.services@the-n.com)
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**   
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Noggin and The N who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [CAprivacy@noggin.com](mailto:CAprivacy@noggin.com) or write us: 
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Noggin and The N who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [CAprivacy@the-n.com](mailto:CAprivacy@the-n.com) or write us: 
 
 Noggin / The N Privacy Rights  
-1633 Broadway, 7-204  
+1633 Broadway, 7th floor  
 New York, NY 10019
 
 **Effective Date:**   
-This notice was updated on or about February 03, 2005
+This notice was updated on or about August 1, 2006
