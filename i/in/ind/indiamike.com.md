@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiamike.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203646id_/http%3A//www.indiamike.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiamike.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115211356id_/http%3A//www.indiamike.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# IndiaMike.com - Privacy Policy
+# India Travel Forum | IndiaMike.com - Privacy Policy
 
 As a responsible website IndiaMike.com is committed to safeguarding your online privacy. Please do read the following policy to understand how your private information will be treated while you make full use of our site. This policy may change from time to time so please come back to check periodically. IndiaMike.com or its subsidiary may collect the information explained herein under.
 
