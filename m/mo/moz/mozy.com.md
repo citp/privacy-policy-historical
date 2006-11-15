@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozy.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616031725id_/http%3A//mozy.com/mozy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozy.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115232031id_/http%3A//mozy.com/mozy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,9 +18,9 @@ We **will not** sell or market the email addresses of registered Users to third 
 
 We **will not** view the files that you backup using the Mozy backup service.
 
-We **may** view your file system information (file names, sizes, types, etc.) to provide personalized content and services.
+We **may** view your file system information (file extensions, sizes etc. but **not** your file contents) to provide personalized content and services such as contextual advertisements.
 
-We **may** use your Personal Data to provide personalized content and services.
+We **may** use your Personal Data (eg. your zipcode - but **not** your file contents) to provide personalized content and services such as contextual advertisements.
 
 You acknowledge and agree that Berkeley Data Systems may provide you with advertising and promotional material and other information from Berkeley Data Systems and on behalf of third parties via email. If you do not want to receive such material, you must terminate your account and cease use of the Software and Service. We may also send you administrative communications regarding your account or the Service.
 
@@ -105,4 +105,4 @@ American Fork, UT 84003
 
 **REGISTRATION OR USE OF THE SERVICE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY**
 
-Effective Date September 15, 2005
+Effective Date September 25, 2006
