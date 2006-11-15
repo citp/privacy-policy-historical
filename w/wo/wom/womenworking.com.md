@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenworking.com privacy policy that was archived on 2006-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060326205941id_/http%3A//womenworking.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenworking.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115195507id_/http%3A//www.womenworking.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Women Working - Privacy Statement
 
@@ -24,9 +24,11 @@ This Privacy Policy is subject to change. If changes occur, they will be posted 
 Helene Lerner, Creative Expansions, Inc.
 
 Helene Lerner - Team Leader  
-Lisa Beebe - Webmaster  
-Tim Johnson - Webmaster  
-Gina Carey - Writer  
+Gail Lubin - Editor  
+Nicole Ferraro - Writer  
+Soma Ghoshal - Writer  
+Kathleen Hennessy - Writer  
+Kayla Rakowski - Writer  
 
 
   
