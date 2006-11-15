@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msexchange.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615040521id_/http%3A//www.msexchange.org/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msexchange.org privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115205923id_/http%3A//www.msexchange.org/pages/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,14 +45,3 @@ If you wish to update or correct your personal information, please use our conta
 If our information practices change in a significant way, we will post and highlight the policy changes.
 
 _This privacy policy has last been updated on 26 April 2006._
-
-## Featured Links*
-
-
-
-
-**Become an MSExchange.org member!**  
-Discuss your Exchange Server issues  
-with thousands of other Exchange experts. 
-
-[Click here](http://forums.msexchange.org/register.aspx) to join! 
