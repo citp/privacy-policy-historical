@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202722id_/http%3A//misco.co.uk/about/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116145538id_/http%3A//www.misco.co.uk/about/privacystatement.htm) for the most accurate reproduction.*
 
 # Misco.co.uk - Security and Privacy
-
-**Welcome to Misco** , [Click here](https://web.archive.org/microsites/sony?affiliate=4053 "Click here") for the latest Sony offers, [Click here to Register](https://web.archive.org/myaccount/register.htm "Click here to Register") or [Click here to login](https://web.archive.org/myaccount/login.aspx?returnurl=%2fabout%2fprivacy.aspx "Click here to login").
 
 Security and Privacy
 
@@ -82,8 +80,6 @@ Third parties serve cookies via this site. These are used for the following purp
 Use of Web Beacons.  
 Some of our Web pages may contain electronic images known as Web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign.    
 Disabling/Enabling Cookies.  
-Some of our Web pages may contain electronic images known as Web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign. 
-
 You have the ability to accept or decline cookies by modifying the settings in your browser. However, you will not be able to use our site if cookies are disabled. 
 
 There are a number of ways to manage cookies. If you use different computers in different locations you will need to ensure that each [browser](http://www.allaboutcookies.org/faqs/browser.html "click to visit AllAboutCookies.org") is adjusted to suit your cookie preferences. 
