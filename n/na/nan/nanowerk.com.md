@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanowerk.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629012212id_/http%3A//www.nanowerk.com/n_privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanowerk.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116061826id_/http%3A//www.nanowerk.com/n_privacy_statement.html) for the most accurate reproduction.*
 
 # Nanowerk - Privacy Statement
 
@@ -22,6 +22,6 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 **V. OUR COMMITMENT TO CHILDREN’S PRIVACY**  
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our web site from those we actually know are under 13, and no part of our web site is structured to attract anyone under 13.   
 **VI. HOW TO CONTACT US**  
-Should you have other questions or concerns about these privacy policies, please call us at 1-800-942-5414 or send us an e-mail at webmaster@nanowerk.com.   
+Should you have other questions or concerns about these privacy policies, please call us at 1-808-741-1739 or send us an e-mail at webmaster@nanowerk.com.   
   
 This site allows you to research nanoparticles from our extensive _**Nanomaterial Database™**_ and then link directly to an item's manufacturer(s). 
