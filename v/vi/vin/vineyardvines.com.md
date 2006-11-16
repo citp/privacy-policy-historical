@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vineyardvines.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414235807id_/http%3A//www.vineyardvines.com/index.cfm/fuseaction/content.page/nodeID/f15b39d3-a4ee-4b6a-a3dc-3a409ad64152) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vineyardvines.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116095634id_/http%3A//www.vineyardvines.com/index.cfm/fuseaction/content.page/nodeID/f15b39d3-a4ee-4b6a-a3dc-3a409ad64152) for the most accurate reproduction.*
 
 # Vineyard Vines Privacy Policy
 
