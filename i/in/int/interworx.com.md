@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interworx.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615044432id_/http%3A//interworx.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interworx.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116225543id_/http%3A//interworx.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy | InterWorx Cluster Panel
+# Our Privacy Policy | InterWorx Control Panel
 
 We have authored this privacy policy so you, our clients, know what information is gathered as you browse our site and when you order and why we gather such information. If you have any questions or concerns regarding this policy please e-mail privacy@nexcess.net or call 1.866.NEXCESS. 
 
