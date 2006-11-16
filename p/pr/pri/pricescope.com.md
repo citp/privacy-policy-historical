@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricescope.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615175908id_/http%3A//www.pricescope.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricescope.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116204644id_/http%3A//www.pricescope.com/privacy.asp) for the most accurate reproduction.*
 
 # Pricescope Privacy Policy
 
