@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaelbaisden.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619103019id_/http%3A//abcradio.go.com/story%3Fid%3D212) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelbaisden.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116020037id_/http%3A//abcradio.go.com/story%3Fid%3D212) for the most accurate reproduction.*
 
 # Privacy Policy/Your California Privacy Policy Rights
 
