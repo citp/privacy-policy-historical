@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exploretalent.com privacy policy that was archived on 2006-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060515012042id_/http%3A//exploretalent.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploretalent.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116065552id_/http%3A//exploretalent.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy Modeling Auditions & Casting ExploreTalent agents pageants search
+# Privacy Policy Modeling Auditions & Casting ExploreTalent open calls modeling bikini model
 
 Explore Talent Privacy Policy
 
