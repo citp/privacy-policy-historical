@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altontowers.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615221829id_/http%3A//www.altontowers.com/resort/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altontowers.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116060347id_/http%3A//www.altontowers.com/resort/privacy.asp) for the most accurate reproduction.*
 
 # Alton Towers
 
