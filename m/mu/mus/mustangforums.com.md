@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mustangforums.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506151617id_/http%3A//www.mustangforums.com/includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mustangforums.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116171515id_/http%3A//www.mustangforums.com/includes/privacy.asp) for the most accurate reproduction.*
 
 # Mustang Forums
 
@@ -59,119 +59,92 @@ If you have any questions about this privacy policy, the practices of the Mustan
 
 [Contact Form](https://web.archive.org/contact/)  
   
+| 
+
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=956&url=http://www.undergroundmustang.com/)  
+  
+---|---  
   
 | Featured Vendors  
 ---  
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=596&url=http://www.chipsv6specialties.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=228&url=http://www.stangmods.com)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=17&url=http://www.ssd4u.com)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=694&url=http://www.magnaflow.com/01american.asp)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=651&url=http://www.customwheelsdirect.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=660&url=http://www.carbonware.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=417&url=http://www.vintagewheelsus.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=653&url=http://www.evoperform.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=681&url=http://www.lethalperformance.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=700&url=http://www.pypesexhaust.com)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=455&url=http://www.neweraperformanceparts.com)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=607&url=http://www.texashotrods.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=614&url=http://stores.channeladvisor.com/verociousmotorsports/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=705&url=http://www.americanracing.com/06ola/mustangforums)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=11&url=http://www.pypesexhaust.com)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=673&url=http://www.badshoeproductions.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=450&url=http://www.autobadges.com/)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=777&url=http://www.haneymotorsport.com)
-
-* * *
-
-[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=21&url=http://www.v6mustangStuff.com)
-
-* * *
-
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1000&url=http://www.obsessivedetail.com)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=21&url=http://www.v6mustangStuff.com)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=450&url=http://www.autobadges.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=228&url=http://www.stangmods.com)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=968&url=http://www.thedrivenman.com/KE/Ford/index.htm)  
+  
 [](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=328&url=http://www.brsparts.com)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=777&url=http://www.haneymotorsport.com)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=607&url=http://www.texashotrods.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=455&url=http://www.neweraperformanceparts.com)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=821&url=http://www.pfyc.com/pc/FM1002/FMEXT/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=856&url=http://www.tunableinduction.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=984&url=http://www.apsisusa.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=681&url=http://www.lethalperformance.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1019&url=http://www.absolutepoker.com/br/mustangforums)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=17&url=http://www.ssd4u.com)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=694&url=http://www.magnaflow.com/01american.asp)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1032&url=http://www.bossproducts.us/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=955&url=http://www.americanmuscle.com)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=339&url=http://www.baltimorestreetmods.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=653&url=http://www.evoperform.com/)  
+  
+[](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=614&url=http://stores.channeladvisor.com/verociousmotorsports/)|   
   
 Ride of the Month  
 ---  
-May 2006  
-[](https://web.archive.org/MemberRides/showRide.asp?ID=113)  
-[1965 Custom Fastback](https://web.archive.org/MemberRides/showRide.asp?ID=113 "1965 Custom Fastback")  
+November 2006  
+[](https://web.archive.org/MemberRides/showRide.asp?ID=167)  
+[1965 Mustang Restomod](https://web.archive.org/MemberRides/showRide.asp?ID=167 "1965 Mustang Restomod")  
   
 
 
 Top 10 Posters  
 ---  
-| [dan04cobra](https://web.archive.org/showprofile.asp?memID=1627)| 9263  
+| [soaring](https://web.archive.org/showprofile.asp?memID=10034)| 11597  
 ---|---  
-[nanaki](https://web.archive.org/showprofile.asp?memID=8734)| 7642  
-[hotrods_n_bo](https://web.archive.org/showprofile.asp?memID=4028)| 7531  
-[soaring](https://web.archive.org/showprofile.asp?memID=10034)| 6734  
-[2000si](https://web.archive.org/showprofile.asp?memID=2973)| 6317  
-[tims 88gt](https://web.archive.org/showprofile.asp?memID=11994)| 6205  
-[jonbeast](https://web.archive.org/showprofile.asp?memID=12010)| 5930  
-[sidewayz6.0](https://web.archive.org/showprofile.asp?memID=4168)| 5625  
-[mikehawke](https://web.archive.org/showprofile.asp?memID=6591)| 5577  
-[obsol3te](https://web.archive.org/showprofile.asp?memID=4154)| 5575  
+[dan04cobra](https://web.archive.org/showprofile.asp?memID=1627)| 11033  
+[88bluegt](https://web.archive.org/showprofile.asp?memID=22718)| 10246  
+[hotrods_n_bo](https://web.archive.org/showprofile.asp?memID=4028)| 9693  
+[nanaki](https://web.archive.org/showprofile.asp?memID=8734)| 9408  
+[mustangman02](https://web.archive.org/showprofile.asp?memID=11285)| 7805  
+[pro50sc](https://web.archive.org/showprofile.asp?memID=29779)| 7450  
+[tims 88gt](https://web.archive.org/showprofile.asp?memID=11994)| 7436  
+[sidewayz6.0](https://web.archive.org/showprofile.asp?memID=4168)| 7432  
+[03yellowpony](https://web.archive.org/showprofile.asp?memID=17569)| 7426  
   
-Newest Vendors  
+New Vendors  
 ---  
-| [American Racing](http://www.americanracing.com/)  
----  
-[AutoBadges.com](http://www.autobadges.com/)  
-[Bad Shoe Productions](http://www.badshoeproductions.com/)  
-[Brenspeed.com](http://www.brenspeed.com/)  
-[BRS Parts](http://www.brsparts.com/)  
-[CarbonWare](http://www.carbonware.com/)  
-[CHiP'S V6 Specialties LLC](http://www.chipsv6specialties.com/)  
-[Custom Wheels Inc.](http://www.customwheelsdirect.com/)  
-[Evolution Performance](http://www.evoperform.com/)  
-[Haney Motorsports](http://www.haneymotorsport.com/)
+[AMSOIL - Performance Oil Technology](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1041&url=http://www.hypertracker.com/go/perfoiltech/mustang480/)  
+[The Tire Rack](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1033&url=http://www.tirerack.com/a.jsp?a=BD8&url=/shoes/)  
+[Boss Products](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1032&url=http://www.bossproducts.us/)  
+[Absolute Poker](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1019&url=http://www.absolutepoker.com/br/mustangforums)  
+[Obsessive Detail](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=1000&url=http://www.obsessivedetail.com)  
+[Wyotech](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=998&url=http://www.search4wyotech.com/?s_id=345)  
+[Apsis](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=984&url=http://www.apsisusa.com/)  
+[Atomic Performance](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=975&url=http://www.atomicperformance.com/)  
+[The Driven Man](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=968&url=http://www.thedrivenman.com/KE/Ford/index.htm)  
+[Underground Mustang](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=956&url=http://www.undergroundmustang.com/)  
+[Tunable Induction](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=856&url=http://www.tunableinduction.com/)  
+[Nitrous Dealer](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=855&url=http://www.nitrousdealer.com)  
+[AEM](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=832&url=http://www.aempower.com)  
+[PFYC.com](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=821&url=http://www.pfyc.com)  
+[Haney Motorsports](http://www.autoforumuniverse.com/ads/Redirect.aspx?AdID=777&url=http://www.haneymotorsport.com)
