@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021908id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116041123id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# Yelp - Privacy Policy
+# Privacy Policy - Yelp
 
 ## Yelp Privacy policy
+
+**The effective date of this Agreement is October 10, 2006.**
 
 Yelp is an online application that helps people find local services they can trust by soliciting and aggregating reviews. To accomplish this, our users write reviews about local services that are posted to the Yelp Site. These reviews can then be accessed and read by other Yelp users. For the purposes of this Privacy Policy, a "user" is defined as someone using the Yelp Site, and a "friend" is defined as someone you have explicitly invited to share reviews with you. To fulfill the purpose of our site, we need to display a limited amount of personal information, so that users are able to evaluate the trustworthiness of a particular review.
 
@@ -24,7 +26,7 @@ Browser-type related information, IP address, requested URL, referring URL, and 
 
 ### III. Transfer of Information
 
-We may sell your reviews to third parties. Your first name and last initial, profile photo and any personally identifiable information you have included in your reviews may be transferred to such third parties and displayed on their websites in connection with such third parties’ publication of your reviews. 
+We may sell your reviews to third parties. Your first name and last initial, profile photo, any submitted photos of businesses, and any personally identifiable information you have included in your reviews may be transferred to such third parties and displayed on their websites in connection with such third parties’ publication of your reviews. 
 
 Except as set forth in this Privacy Policy, we do not sell, rent, share, trade or give away any of your personal information. Yelp will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoenas, court orders, or other legal processes. Further, Yelp may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or to enforce or apply the terms and conditions of this Privacy Policy. 
 
