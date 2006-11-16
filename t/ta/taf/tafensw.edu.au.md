@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tafensw.edu.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615191827id_/http%3A//www.tafensw.edu.au/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafensw.edu.au privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116123312id_/http%3A//www.tafensw.edu.au/legal/privacy.htm) for the most accurate reproduction.*
 
 # TAFE NSW - Legal
 
 The Department of Education and Training ('the Department'), including TAFE NSW, is subject to the NSW Privacy and Personal Information Protection Act 1998. The Department's Privacy Code of Practice produced in accordance with section 31 of the Act indicates how the Department will comply with the Information Protection Principles (IPPs) in the NSW Privacy and Personal Information Protection Act 1998 and any modifications to the IPPs as they apply to the Department.
 
-The following sets out how the Department will deal with personal information related to the content and use of its web sites. This statement applies to all pages on the Department's or T AFE NSW site, unless otherwise indicated.
+The following sets out how the Department will deal with personal information related to the content and use of its web sites. This statement applies to all pages on the Department's or TAFE NSW site, unless otherwise indicated.
 
 ##  1\. Collection of personal information
 
@@ -87,4 +87,4 @@ As there may be specific legal provisions relating to the use of information sub
 
 Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time.
 
-We would be pleased to receive any [comments or suggestions on this policy](https://web.archive.org/web/20060615191827id_/http%3A//www.tafensw.edu.au/contact/webmaster.htm).
+We would be pleased to receive any [comments or suggestions on this policy](https://web.archive.org/web/20061116123312id_/http%3A//www.tafensw.edu.au/contact/webmaster.htm).
