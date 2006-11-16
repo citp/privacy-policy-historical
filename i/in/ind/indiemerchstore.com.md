@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiemerchstore.com privacy policy that was archived on 2006-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060504064328id_/http%3A//www.indiemerchstore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiemerchstore.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116043930id_/http%3A//www.indiemerchstore.com/privacy) for the most accurate reproduction.*
 
 # indiemerchstore.com - Privacy Policy
 
