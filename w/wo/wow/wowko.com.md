@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowko.com privacy policy that was archived on 2006-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060526233513id_/http%3A//www.wowko.com/privacy.html%3FwowkoSid%3Df5c58d9b769f4fc9b61eca1b6ea032b5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowko.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116082715id_/http%3A//www.wowko.com/privacy.html%3FwowkoSid%3Da37398440458e79ca4a65ef0f92d684e) for the most accurate reproduction.*
 
 # Wowko,Buy wow gold,world of warcraft gold,Lineage II Adena,EverQuest II,EvE Online,FFXI Gil,Star Wars,Diablo II Items and more.....
 
@@ -38,7 +38,7 @@ If you do not want Wowko to communicate with you about other offers regarding Wo
 
 #### Internet Protocol (IP) Address
 
-Your current IP address (209.237.238.224) has been stored.  
+Your current IP address (72.20.99.48) has been stored.  
 Your information is safe with us!
 
 #### Cookies
