@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wow.com privacy policy that was archived on 2006-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060527014011id_/http%3A//wow.com/redir%3Fsrc%3DPTL%26clickedItemURN%3Dhttp%253A%252F%252Fwww.aol.com%252Faolnetwork%252Faol_pp.html%26clickedItemDescription%3DprivacyLink) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116050109id_/http%3A//wow.com/redir%3Fsrc%3DPTL%26clickedItemURN%3Dhttp%253A%252F%252Fwww.aol.com%252Faolnetwork%252Faol_pp.html%26clickedItemDescription%3DprivacyLink) for the most accurate reproduction.*
 
 # Privacy Policy - About AOL
 
