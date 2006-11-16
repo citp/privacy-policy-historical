@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolplayers.com privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426042340id_/http%3A//www.poolplayers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolplayers.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116174458id_/http%3A//www.poolplayers.com/privacy.html) for the most accurate reproduction.*
 
 # APA Privacy Policy
 
