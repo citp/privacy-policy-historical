@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolbarn.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619020655id_/http%3A//www.toolbarn.com/cgi-bin/support.cgi/82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolbarn.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116035436id_/http%3A//www.toolbarn.com/cgi-bin/support.cgi/82) for the most accurate reproduction.*
 
 # Support at ToolBarn.com
 
@@ -82,8 +82,8 @@ To opt-out of receiving marketing communications from us:
 4) Send a request with your current contact information to:
 
 > ToolBarn.Com / ToolPartsDirect.com  
->  6620 F St.  
->  Omaha, NE 68117  
+>  7820 l St.  
+>  Omaha, NE 68127  
 > 
 
 If you send an e-mail or letter request, please be sure to include your full name, address, phone number and e-mail address and indicate specifically what type of marketing communications you wish to stop receiving. This will ensure we identify you correctly in our systems and accurately process your opt-out request. Please note that due to production and mailing timelines, it may take up to 10 business days for e-mails and up to six weeks for direct mail to make the requested change. Until that change takes effect, you may still receive marketing communications from us. 
