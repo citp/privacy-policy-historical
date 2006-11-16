@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tutorialoutpost.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204021453id_/http%3A//www.tutorialoutpost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialoutpost.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116083420id_/http%3A//tutorialoutpost.com/privacy) for the most accurate reproduction.*
 
-# Tutorial Outpost - Photoshop Tutorials, Flash Tutorials, 3D Studio Max Tutorials
+# Privacy Policy | Tutorial Outpost
 
 TutorialOutpost.com and it's affiliates value your privacy. We do not share any information we receive from you, including your e-mail address and/or name. Our advertisers abide by this same policy. **
 
@@ -12,28 +12,19 @@ Yes, this website uses cookies.
 
 **What types of information does this website collect?**
 
-We collect the following types of information: 
-
-  * Internet contact information such email addresses.
-
-
+We collect the following types of information:  
+â€¢ Internet contact information such email addresses.
 
 **Why is this website collecting the information?**
 
-We collect the information for the following purposes: 
-
-  * For website administration purposes.
-  * To evaluate, review, or improve the website.
-
-
+We collect the information for the following purposes:  
+â€¢ For website administration purposes.  
+â€¢ To evaluate, review, or improve the website.
 
 **Who will receive the information?**
 
-The information will be shared with the following parties: 
-
-  * Our internal staff.
-
-
+The information will be shared with the following parties:  
+â€¢ Our internal staff.
 
 **How long will the information be kept?**
 
