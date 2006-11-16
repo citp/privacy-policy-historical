@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the n2growth.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629213914id_/http%3A//www.n2growth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n2growth.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116232147id_/http%3A//www.n2growth.com/privacy.php) for the most accurate reproduction.*
 
-# Corporate Branding Services-Brand Identity,Corporate Identity Services,Branding Corporate Services,Brand Building Services,Strategic Growth Services
+# N2growth, Mike Myatt, privacy , Coaching, CEO Coaching, Executive Coaching, Branding and Strategic Growth Services
 
 N2growth ("N2") registration forms request certain contact and profile information (same as user name, e-mail address, profession, and so forth). The requested information is required in order to receive N2 services. The required information is clearly marked as such on the registration page. N2 tracks the open-rates of our HTML e-mails and certain click behavior from those e-mails to help us identify which portions of our newsletters are most popular with our readers. N2 uses this information in the following limited ways: 
 
