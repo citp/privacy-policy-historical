@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the merrell.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417225357id_/http%3A//www.merrell.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrell.com privacy policy that was archived on 2006-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061116151243id_/http%3A//www.merrell.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Merrell
+# Merrell® - Let¹s get outside
 
 |   
 ---  
@@ -27,4 +27,4 @@ Information collected on this website will be used according to the following gu
   
 ---  
   
-[Caught Wearing Merrells?](https://web.archive.org/web/20060417225357id_/http%3A//www.merrell.com/CaughtWearingMerrells.aspx)
+[Caught Wearing Merrells?](https://web.archive.org/web/20061116151243id_/http%3A//www.merrell.com/CaughtWearingMerrells.aspx)
