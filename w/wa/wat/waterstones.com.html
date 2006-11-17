@@ -1,0 +1,751 @@
+<!--The following is the downloaded HTML source of the waterstones.com privacy policy that was archived on 2006-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061117121845id_/http%3A//www.waterstones.com/waterstonesweb/navigate.do%3FpPageID%3D100000019) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		
+
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+		<meta http-equiv="PRAGMA" content="NO-CACHE">
+		
+		
+
+
+<title>Welcome to Waterstones.com</title>
+<meta name="description" content="Waterstone's UK's leading bookseller, with millions of titles covering every subject. Free delivery on orders over £15.">
+<meta name="keywords" content="books, novels, biography, sci-fi, computing books, childrens books, book blog, find Waterstone's stores, Waterstone's booksellers, art and photography books, audio books, books on cd, business books, finance, books, graphic novels, crime novels, true crime, educational books, textbooks, dictionaries, recipe books, food and drink books, fiction, stories, short stories, fairy tales, health books, diet books, pregnancy guides, history books, gardening books, diy books, humour books, little books, joke books, mbs, mind body spirit, tv tie-ins, film adaptations, pet books, dog books, cat books, children's books, childrens picture books, board books, bath books, cloth books, books on tape, poetry books, belle letters, quiz books, crossword books, crossword dictionaries, reference books, encyclopaedias, romance, scientific text books, medical books, almanacs, football books, cricket books, tennis books, diaries, travel guides, phrase books, students books, manga titles, celebrity chefs, golf books, sailing books, paperbacks, hardbacks, first editions, signed copies, limited editions, ebooks, maps, atlases, chicklit, hmv group, ottakars, ottakers, high street book shop, uk book shops, book sellers, books online, book signings, readings, book clubs, print on demand, study guides, cheat cards, revision books, exam guides, cheat books, strategy guides, erotica, war stories, gift books, gift editions, christening bibles, bibles, Koran, torah, politics books, economics books, gay and lesbian literature, mysteries, detective fiction, literary criticism, money guides, financial guides, mba guides, good study guides, bedtime stories">
+			 
+
+
+		
+		<link rel="search" type="application/opensearchdescription+xml" title="Waterstone's Search" href="http://www.waterstones.com/waterstonesweb/scripts/openSearch.xml">
+	
+		<!-- INSTANCE: WS -->
+		<!-- WEB-HOST: WATXNDWAS2 -->
+		<link href="favicon.ico" rel="Shortcut Icon" type="image/x-icon">
+		<link href="http://www.waterstones.com/waterstonesweb/theme/screen.css" rel="stylesheet" type="text/css" media="screen,projection">
+		
+		
+		
+		<!--[if lte IE 6]><link href="theme/ie.css" rel="stylesheet" type="text/css" media="screen,projection" /><![endif]-->
+		<!--[if IE 7]><link href="theme/ie7.css" rel="stylesheet" type="text/css" media="screen,projection" /><![endif]-->
+		<link href="http://www.waterstones.com/waterstonesweb/theme/disabled.css" rel="stylesheet" type="text/css" media="screen,projection">
+		<link href="http://www.waterstones.com/waterstonesweb/theme/print.css" rel="stylesheet" type="text/css" media="print">
+		<script language="JavaScript" src="http://www.waterstones.com/waterstonesweb/scripts/global.js"></script>
+		<script language="JavaScript" src="http://www.waterstones.com/waterstonesweb/scripts/waterstones.js"></script>
+
+		
+
+
+
+<script type="text/javascript">
+<!--
+
+// global variables
+var KC_ENTER = 13;
+var validEmailChars    = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_-.@";
+
+function isEmailValid( eAddr ) {
+	var i;
+  	var c;
+ 	var elen = eAddr.length;
+  
+  	if (	(eAddr.indexOf("@") == -1) || 
+  			(eAddr.indexOf(".") == -1) || 
+  			(eAddr.indexOf(".") == elen-1) )  {
+  			return false;
+  	}
+
+  	for (i = 0; i < elen; i++) {   
+    	c = eAddr.charAt(i);
+    	if (validEmailChars.indexOf(c) == -1) {
+    		return false;
+    	}
+    	
+    	if (c == "@" || c == ".")
+		{
+			if ((i == 0) ||
+           		(i == (elen -1)) ||
+           		(validEmailChars.indexOf(eAddr.charAt((i - 1))) >= 64) ||
+           		(validEmailChars.indexOf(eAddr.charAt((i + 1))) >= 64) ) {
+           		return false;
+           	}
+		}
+   	}
+
+  	return true;	
+}
+
+function showAddressFinder(frm, searchPostcode, searchHouse) {
+	var url = "http://www.waterstones.com/waterstonesweb/displayAddressFinder.do?frm=";
+
+	if(searchPostcode) {
+		url = "http://www.waterstones.com/waterstonesweb/doAddressSearch.do?frm=";	
+	}
+		
+	url = url + frm;
+	
+	if(searchPostcode) {
+		if(removeSpaces) {
+			url = url + "&txtPostcode=" + escape(removeSpaces(searchPostcode));	
+		}
+		else {
+			url = url + "&txtPostcode=" + escape(searchPostcode);			
+		}
+		url = url + "&txtHouse=" + escape(searchHouse);			
+		url = url + "&resultsOnly=true";	
+	}	
+	
+	var features = "height=400, width=800, status";
+	var finderWindow = window.open( url, "winAddressFinder", features );
+	finderWindow.focus();
+}
+
+
+/*	-------------------------------------------------------------
+	function getYears()
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	Description:	outputs all years as a srop down select
+	
+	difference = the suplied value is the difference to apply to start year
+	direction = 1 is ascending, 0 is descending
+	
+	returns : currentYear  to (currentYear - difference)
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
+	function getYears( difference, direction)
+	{	
+		var curdate = new Date();
+		var thisYear = curdate.getFullYear();	
+		
+		text = '<select name="year" id="year"><option value="" >Year</option>';
+		
+		if ( direction == 1 )
+			for (i=thisYear; i > thisYear - difference; i--) 		
+			{
+		   		text += '\n<option value="' + i + '">'+ i +'</option>';
+			}
+		else
+			for (i=thisYear - difference ; i <= thisYear ; i++) 		
+			{
+		   		text += '\n<option value="' + i + '">'+ i +'</option>';
+			}
+		
+		text += '</select>';
+		document.write(text);			
+	}									
+	
+/*	-------------------------------------------------------------
+	function getDayOfTheMonth()
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	Description:	gets the days of the month
+	returns : 1 to 31
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
+	function getDayOfTheMonth()
+	{	
+		text = '<select name="day" id="day"><option value="" >Day</option>';
+		for (i=1;i<32;i+=1) 
+		{
+			if ( i < 10 ) 
+		   		text += '\n<option value="0' + i + '">0'+ i+'</option>';
+		   	else
+		   		text += '\n<option value="' + i + '">'+ i+'</option>';
+		}
+		text += '</select>';
+		document.write(text);			
+	}
+
+/*	-------------------------------------------------------------
+	function getMonthsOfTheYear()
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	Description:	outputs all the months of the year as a drop down select
+	returns : 1 to 12
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -	*/
+	function getMonthsOfTheYear( sizeToShow )
+	{	
+	
+		var months = new Array("January", "February", "March", "April","May", "June", "July", "August", "September","October", "November", "December");				
+		text = '<select name="month" id="month"><option value="" >Month</option>';
+		for (i=1;i<13;i+=1) 
+		{
+			if (sizeToShow > 0)
+			{
+				thisMonth = months[i-1].substring( 0, sizeToShow );
+			}
+		
+			if ( i < 10 ) 
+		   		text += '\n<option value="0' + i + '">'+ thisMonth+'</option>';
+		   	else
+		   		text += '\n<option value="' + i + '">'+ thisMonth +'</option>';
+		}
+		text += '</select>';
+		document.write(text);			
+	}
+
+	// Double click form submit protection
+	var isFormSubmitted = false;
+
+	function checkFormNotSubmitted()
+	{
+	    if (isFormSubmitted)
+	    {
+	        return (false);
+	    }
+	    else
+	    {
+	        isFormSubmitted = true;
+	
+	        return (true);
+	    }
+	}
+
+//-->
+</script>
+	</head>
+
+	<!-- START WEBSITE BASE LAYOUT ONE COL BODY -->
+	<body class="one-col">
+		<div id="container">
+			<ul id="accessibility">
+				<li><a href="#content-primary" accesskey="q">Skip to page content</a></li>
+				<li><a href="#nav-primary" accesskey="w">Skip to primary navigation</a></li>
+				<li><a href="#side-nav" accesskey="e">Skip to secondary navigation</a></li>
+			</ul>
+			
+			
+
+
+
+
+<!-- START HEADER LAYOUT -->
+<div id="header">
+	
+
+
+
+
+	<a href="http://www.waterstones.com/waterstonesweb/home.do" class="logo"><img src="/waterstonesweb/graphics/global/branding_logo.gif" alt="Waterstone's" class="logo"></a>	
+
+
+<!-- Primary Navigation -->
+<ul id="nav-primary">
+	<li class="first"><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=1003" accesskey="1">What's new</a></li>						
+	
+	<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=1005" accesskey="2">Bestsellers</a></li>
+	
+	<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=1001" accesskey="3">Coming soon</a></li>			
+	
+	<li><a href="http://www.waterstones.com/waterstonesweb/displayEventHome.do" accesskey="4">Events</a></li>
+	
+	<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?ctx=10029" accesskey="5">Children's</a></li>
+	
+	<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=1014" accesskey="6">Students</a></li>
+	
+	<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=1002" accesskey="7">News</a></li>
+	
+	<li><a href="http://www.waterstones.com/waterstonesweb/offers.do" accesskey="8">Offers</a></li>
+</ul>
+		
+<!-- Navigation Support -->
+<ul id="nav-support">
+	<li>
+		
+			<a href="http://www.waterstones.com/waterstonesweb/home.do">Home</a>
+		
+	</li>
+		
+						
+		<li><a href="https://www.waterstones.com/waterstonesweb/displayLogin.do?specificRedirect=/displayMyDetails.do">Sign in</a></li>
+	
+		<li><a href="https://www.waterstones.com/waterstonesweb/displayLogin.do?specificRedirect=/displayMyDetails.do">My account</a></li>
+	
+	
+	
+	
+	<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000005">Help</a></li>
+			
+	
+
+
+
+
+
+
+
+
+	<li class="basket">
+		<a href="http://www.waterstones.com/waterstonesweb/basket.do">
+		<span class="my-basket">My <strong>basket</strong></span> 
+							
+				<span class="hi-light">16</span> items</a>
+						
+			<ul> <!-- start product info -->
+				<li>						
+					<!-- PRODUCT INFORMATION -->
+										
+						<span class="hi-light">16</span> items - Total: 
+											
+					<span class="hi-light">£ 154.13</span>
+				</li>
+				<li>
+					<a href="http://www.waterstones.com/waterstonesweb/basket.do">
+						<img src="/waterstonesweb/graphics/global/navsupport_expand_btn.gif" alt="Expand Basket">	
+					</a>
+				</li>
+				<li>
+					<a href="https://www.waterstones.com/waterstonesweb/purchase.do">
+						<img src="/waterstonesweb/graphics/global/navsupport_checkout_btn.gif" alt="Checkout">
+					</a>
+				</li>
+			</ul>  <!-- end  product info -->
+			
+	</li>
+</ul>  <!--  closes UL started in header-->
+
+<!-- JavaScript for Send To Friend (to bypass caching) - in basket.jsp -->
+<script type="text/javascript">
+	function showSendToFriend()
+	{
+		var isLoggedIn = false;
+		
+		if (isLoggedIn)
+		{
+			showObject('sendtofriend');
+			return false;
+		}
+		else
+		{
+			showObject('sendtofriend-nologin');
+			return false;
+		}
+	}
+
+	function hideSendToFriend()
+	{
+		var isLoggedIn = false;
+		
+		if (isLoggedIn)
+		{
+			hideObject('sendtofriend');
+			return false;
+		}
+		else
+		{
+			hideObject('sendtofriend-nologin');
+			return false;
+		}
+	}
+</script>
+<!-- End of Send To Friend JavaScript -->
+		
+</div><!-- closes #header-->
+<!-- END HEADER LAYOUT -->
+
+			
+
+
+
+
+
+<!-- START HOME LEFT MARGIN LAYOUT -->
+<div id="nav-secondary">
+
+
+		
+
+
+	
+
+<script type="text/javascript">
+	function validateSimpleSearch()
+	{
+		var searchString = document.getElementById('uiSimpleSearch').value;
+
+		if ((searchString == 'Enter keywords...') || (stripleadingtrailingblanks(searchString).length < 1))
+		{
+			return (false);
+		}
+		
+		return (true);
+	}
+</script>
+
+<form id="searchbox" name="simpleSearchFrm" action="http://www.waterstones.com/waterstonesweb/simpleSearch.do" method="get" onsubmit="return validateSimpleSearch();">		
+	<fieldset>
+		<legend>Book&nbsp;<span class="hi-light">search</span></legend>	
+		<label class="keywords">
+			<span>Keywords</span>
+			<input name="simpleSearchString" id="uiSimpleSearch" type="text" maxlength="50" value="" onfocus="clearField(this,'Enter keywords...');" onblur="resetField(this,'Enter keywords...');">										
+		</label>
+		<label class="categories">
+			<span>Categories</span>
+			<select name="searchType" id="uiSimpleSearchCategory">
+				<option value="0">All categories</option>
+				<option value="1">ISBN</option>
+				<option value="2">Author</option>
+				<option value="3">Title</option>
+			</select>
+		</label>				
+		<input name="Image1" type="image" src="/waterstonesweb/graphics/global/searchbox_go.gif" alt="Go" class="button">
+		<p><a href="http://www.waterstones.com/waterstonesweb/displayAdvancedSearch.do">Advanced search</a></p>			
+	</fieldset>
+</form><!-- closes #searchbox-->
+
+
+		<!-- START LEFT MARGIN COMPONENTS -->
+		
+
+
+	
+
+
+
+<div class="side-nav">
+	<h2>Help menu</h2>
+	<ul>
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=1082" title="Accessibility statement">Accessibility statement</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=200000162" title="Affiliate progamme">Affiliate progamme</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/displayMailUs.do" title="Contact us">Contact us</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000007" title="FAQs">FAQs</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=200000049" title="Free delivery offers">Free delivery offers</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000013" title="International shoppers">International shoppers</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000006" title="New customers">New customers</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000011" title="Pricing and payments">Pricing and payments</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000019" title="Privacy policy" class="active">Privacy policy</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000010" title="Product availability">Product availability</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000014" title="Returning items">Returning items</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000015" title="Search tips">Search tips</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000012" title="Security">Security</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000008" title="Shipping information">Shipping information</a></li>
+
+
+
+
+
+			<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000018" title="Terms and conditions">Terms and conditions</a></li>
+
+
+
+
+
+			<li class="last"><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000017" title="Wish lists">Wish lists</a></li>
+
+
+	</ul>
+</div><!-- closes .sub-nav --> 
+
+		<!-- END LEFT MARGIN COMPONENTS -->
+</div> <!-- close nav-secondary -->
+<!-- END HOME LEFT MARGIN LAYOUT -->
+			
+
+
+
+
+<!-- START 1 COL MAGAZINE CONTENT LAYOUT -->
+<div id="content">
+	<div id="promotion">
+		
+
+
+	</div>
+	<div id="content-primary">
+		
+
+
+	
+
+
+<h1 class="main-heading">
+			
+		Privacy <span class="hi-light">policy</span>
+		
+	
+</h1>
+ 
+
+	
+
+
+
+
+
+<div class="paragraph">
+<p><em><img src="http://www3.waterstones.com/wat/images/special/mag/help_intro.jpg" alt="picture of booksellers" width="300" height="320" class="right overflow-right"></em></p>
+<p><b>Waterstone's Privacy Policy</b>
+</p>
+<p>Waterstone's Booksellers Limited ("Waterstone's"), 
+are committed to ensuring that your privacy is protected. This policy 
+explains how we use the information we collect about you and the procedures 
+that we have in place to safeguard your privacy whilst you use the website.</p>
+<p>We will only use the information 
+that we collect about you lawfully (in accordance with the Data Protection 
+Act 1998). </p>
+<p><b>The information we collect 
+and how we use it</b></p>
+<p>When you register with Waterstone's 
+and/or place an order, we need to know your name, delivery address, 
+credit or debit card number and expiry date, e-mail address and telephone 
+number. This information allows us to fulfil your order and notify you 
+of the status of your order. All orders are fulfilled using a third party service provider and we will therefore pass on your details to that service provider so that they can deliver your goods to you. That third party service provider has undertaken to us that they will protect that information, will not pass it on, not use it for any other purpose than to deliver your ordered goods to you.</p>
+<p>We may also ask you to give 
+us optional contact information, for example your mobile number and 
+demographic information like your age.</p>
+<p>If you subscribe to our mailing 
+lists for pre-orders and other information, you will be asked to specify 
+the areas in which you are interested so that we can tailor the information 
+which we send to you to cover the topics and books which we believe 
+you might be interested in.</p>
+
+<p>We may, from time to time, 
+send with your ordered products, inserts advertising the goods or services 
+of unrelated third party companies. We do not pass on your personal 
+data to these third party companies.</p>
+<p>We may also use your information 
+for the purpose of providing you with information about any special 
+offers, author signings and other events or features of our website which we think may be of interest 
+to you and for related marketing purposes.</p>
+<p>We use your IP address to help 
+diagnose problems with our server and to administer our website. Your 
+IP address is also used to help identify you and your details on our 
+database.</p>
+<p>We monitor customer traffic 
+on an aggregate basis in order to help us develop and improve our website 
+for the benefit of our customers. In order to enhance your use of the 
+website you will be given a session ID which will only last for the 
+duration of that visit to the site. Each time you visit the site you 
+will have a different session ID.</p>
+
+<p>By submitting your information 
+you consent to the use of that information as set out in this Policy. 
+If we change our Privacy Policy we will post the changes on this page 
+so that you may be aware of them. We will also e-mail you should we 
+make any changes and give you a chance to ask us not to use your information 
+in that way. Because the Internet infrastructure is global, and it is 
+not possible to predict the routes that information sent over the Internet 
+will take, the information you provide may be transferred temporarily 
+via a route which takes it outside the European Economic Area as it 
+passes between you and us. By submitting your information you consent 
+to this transfer.</p>
+<p><b>Opt in / Opt out</b></p>
+<p>If at any time you wish to 
+receive information about any other product areas which you currently 
+do not receive, or you wish to stop receiving some or all of the information 
+that we currently send, you may amend or remove your preferences by 
+clicking on 'Sign in' at the top of any page. Alternatively, please 
+unsubscribe yourself from the mailing lists by logging on to 'My account' 
+and follow the instructions there. If you have any queries about how 
+to use the mailing preference system, please <a href="http://www.waterstones.com/waterstonesweb/displayMailUs.do">Contact us</a>. </p>
+
+<p><b>Cookies</b></p>
+<p>Our site uses cookies to keep 
+track of your visits to our website. A cookie is a small file that can 
+be stored by your browser on your computer's hard drive. We may use 
+these to do a number of things.</p>
+<p>We use cookies to deliver contents 
+specific to your interest and to save your password so that you don't 
+have to re-enter it every time you visit our site.</p>
+<p>Cookies help us to recognise 
+when you next visit our website and note the advertisements displayed 
+to you. This allows us to tailor the service we provide to your preferences.</p>
+<p>You can usually change your 
+browser so that it will not accept cookies.</p>
+<p><b>Security of your information</b></p>
+<p>We follow strict security procedures 
+in the storage and disclosure of information which you have given us. 
+This is to prevent unauthorised access or unlawful processing of your 
+personal information. We keep your information confidential and store 
+it on a secure server which is password protected and hidden behind 
+a firewall from the outside world. We use secure socket layer software 
+(SSL) to encrypt all of your personal information including your credit 
+card number and your name and address. Waterstone's internal procedures 
+cover the storage, access and disclosure of your information.</p>
+<p>The Verisign Secure Site Program 
+allows you to learn more about web sites you visit before you submit 
+any confidential information. When you see a Verisign logo, clicking 
+on it will verify that this website is secure.</p>
+<p><b>Non-disclosure to third 
+parties</b></p>
+
+<p>Unless we have your express 
+consent, we will only disclose your personal data to third parties if 
+this is required for the purpose of completing your transaction with 
+us. This is subject to the proviso that we may disclose or transfer 
+your data to a partner company where you have supplied information via 
+a site which is co-branded with that partner company or to members of 
+our own group. If personally identifying data about you may be shared 
+with a partner company, we will tell you before we collect or transfer 
+the data so that you may opt out of this transfer if you wish.</p>
+<p>We use your information only 
+as set out in this Policy and will not sell, rent or pass your information 
+on to others for marketing purposes without your express consent.</p>
+<p>Waterstone's may however 
+provide aggregate statistics about its customers, sales traffic patterns 
+and related site information to reputable third-party vendors and relevant 
+affiliate partners, but these statistics will include no personally 
+identifying information. We may also release account information where 
+we believe in good faith that this release is reasonably necessary to 
+comply with the law.</p>
+
+<p><b>Your consent</b></p>
+<p>By submitting your information 
+and using our website, you consent to the collection, storage and processing 
+of your personal information by us in the manner set out in this Policy. 
+If we change our Privacy Policy we will post the changes on this website 
+so that you are always aware of what information we collect, how we 
+use and under what circumstances we disclose it. We will also email 
+you should we make any changes to give you a chance to ask us not to 
+use your information in that way.</p>
+
+
+
+</div> 
+
+	</div>
+</div><!-- closes #content -->
+<!-- END MAGAZINE CONTENT LAYOUT -->
+
+			
+
+
+<div id="footer">
+	<p>© Waterstone's Booksellers Limited</p>
+	<ul>
+		<li class="first"><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000002">About Waterstone's</a></li>
+		<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000008">Delivery Information</a></li>
+		<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000019">Privacy Policy</a></li>
+		<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=100000018">Terms and Conditions</a></li>
+		<li><a href="http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=1009">Careers</a></li>
+		<li><a href="http://www.waterstones.com/waterstonesweb/displayMailUs.do">Contact Us</a></li>
+	</ul>  
+	<div class="cleaner"></div>
+</div>
+<!-- END FOOTER -->
+		</div>
+		<!-- closes container -->
+	
+		
+			
+
+<!-- START OF SDC Advanced Tracking Code -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- $DateTime: 2005/12/15 15:37:36 $ -->
+
+
+
+<script type="text/javascript"><!--
+
+
+
+			additionalPageParameters = additionalPageParameters + "&" + "pType" + "=" + "Catalogue";
+			additionalPageParameters = additionalPageParameters + "&" + "WT.ti" + "=" + "Waterstones.com";
+
+
+	if(wtParameterArray){	
+		for (parameter in wtParameterArray) {
+			parameterName = parameter;
+			parameterValue = wtParameterArray[parameter];
+			additionalParameters = additionalParameters + "&" + parameterName + "=" + parameterValue;
+		}
+	}
+dcsVar();
+dcsMeta();
+dcsFunc("dcsAdv");
+dcsTag();
+ 
+//-->
+</script>
+
+<noscript>
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcszvdi9hoifwzj8z5nosjjah_6i9k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+</noscript>
+<!-- END OF SmartSource Data Collector  TAG -->
+		
+
+
+
+		
+
+		
+		
+		
+			
+
+<!-- Start Of Atlas Tracking -->
+
+<!-- End Of Atlas Tracking -->
+		
+		
+		
+	
+	<!-- END WEBSITE BASE LAYOUT ONE COL BODY -->
+
+</body></html>
