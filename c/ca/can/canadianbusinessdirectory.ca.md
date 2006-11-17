@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the canadianbusinessdirectory.ca privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617224502id_/http%3A//canadianbusinessdirectory.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianbusinessdirectory.ca privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117190652id_/http%3A//www.canadianbusinessdirectory.ca/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - canadianbusinessdirectory.ca
 
   |  |  **  
-  [Home Page](https://web.archive.org/index.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
+  [Home Page](https://web.archive.org/index.php)
 
-  [Browse By Location](https://web.archive.org/provincedir.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
+  [Browse By Location](https://web.archive.org/provincedir.php)
 
-  [Browse By Categories](https://web.archive.org/categories.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
+  [Browse By Categories](https://web.archive.org/categories.php)
 
-  [Search](https://web.archive.org/search.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
+  [Search](https://web.archive.org/search.php)
 
-  [Advertise With Us](https://web.archive.org/advertise.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
+  [Advertise With Us](https://web.archive.org/advertise.php)
 
-  [Contact Us](https://web.archive.org/contact.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
+  [Contact Us](https://web.archive.org/contact.php)
 
-  [Your Account](https://web.archive.org/login.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
+  [Your Account](https://web.archive.org/login.php)
 
-  [Business Tools](https://web.archive.org/business-tools.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
+  [Business Tools](https://web.archive.org/business-tools.php)
 
-  [Latest Additions](https://web.archive.org/latest-companies.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
+  [Latest Additions](https://web.archive.org/latest-companies.php)
 
-  [Link To Us](https://web.archive.org/linking.php?PHPSESSID=ac1e93775201fb79f99ad05caca05622)
+  [Link To Us](https://web.archive.org/linking.php)
 
   Add To Favorites
 
