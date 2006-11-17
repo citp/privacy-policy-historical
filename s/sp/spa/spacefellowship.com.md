@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacefellowship.com privacy policy that was archived on 2006-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060521124718id_/http%3A//www.spacefellowship.com/PrivacyRights.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacefellowship.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117055906id_/http%3A//www.spacefellowship.com/PrivacyRights.php) for the most accurate reproduction.*
 
 # The Space Fellowship
 
