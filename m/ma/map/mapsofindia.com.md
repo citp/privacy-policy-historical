@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapsofindia.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625201227id_/http%3A//mapsofindia.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsofindia.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117122959id_/http%3A//mapsofindia.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - MapsofIndia.com
 
@@ -25,7 +25,7 @@ During many promotions offers you may be requested for additional information fr
 
 Third Party Data & Data Comparisons: Under confidentiality agreements, MapsOfIndia.com may match user information with third party data. Also, MapsOfIndia.com discloses patterned user statistics in order to describe our services to prospective partners, advertisers, and or other third parties, and for other lawful purposes. 
 
-**Miscellaneous:** MapsOfIndia.com may also disclose user information in such cases where we have reason to believe that disclosure of this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Compare Infobase Pvt. Ltd's or MapsOfIndia.com’s rights or property, other MapsOfIndia.com users, or anyone else that could be harmed by such activities. MapsOfIndia.com may disclose user information when we believe in good faith that the law or law-enforcing agency requires it. 
+**Miscellaneous:** MapsOfIndia.com may also disclose user information in such cases where we have reason to believe that disclosure of this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Compare Infobase Limited's or MapsOfIndia.com’s rights or property, other MapsOfIndia.com users, or anyone else that could be harmed by such activities. MapsOfIndia.com may disclose user information when we believe in good faith that the law or law-enforcing agency requires it. 
 
 **5\. Do I have choices or controls regarding collection, use, and distribution of my identifiable information?**
 
