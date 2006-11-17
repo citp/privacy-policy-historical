@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saferpay.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072910id_/http%3A//www.saferpay.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saferpay.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117130048id_/http%3A//www.saferpay.com/policy.asp) for the most accurate reproduction.*
 
 # Saferpay - Virtual Payment Solutions - fast and secure web payment
 
