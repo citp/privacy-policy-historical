@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the thehousedesigners.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614101832id_/http%3A//www.thehousedesigners.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehousedesigners.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117185155id_/http%3A//www.thehousedesigners.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
+
+|  |  |   
+  | 
 
 TheHouseDesigners.com is strongly committed to preserving the privacy of its customers. This privacy statement lets you know about our policies for the collection and use of information about you and your transactions with us. 
 
@@ -12,3 +15,5 @@ Our order form asks you to give us information specific to that order, including
 
 **Security**  
 All of our transactions automatically take place on a secure server. All of your personal information is encrypted before it is transmitted over the Internet. None of our customers has ever reported fraudulent use of a credit card as a result of purchases made at TheHouseDesigners.com. 
+
+| 
