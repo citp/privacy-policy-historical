@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pooltracker.com privacy policy that was archived on 2006-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060322193433id_/http%3A//www.pooltracker.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pooltracker.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117023156id_/http%3A//www.pooltracker.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# Best Football Pools including NFL Football Pools and College Football Pools
+# Pooltracker: privacy policy
 
-Privacy policy
+ 
 
 At Pooltracker we respect and protect your privacy. Our site is a safe environment for anyone who visits and purchases. We are committed to providing you with the best possible online service and experience as well as the best services. The purpose of this policy statement is to fully share with you: 
 
