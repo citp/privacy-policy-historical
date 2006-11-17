@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619051727id_/http%3A//www.royalmint.com/RoyalMint/web/site/Services/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117061158id_/http%3A//www.royalmint.com/RoyalMint/web/site/Services/privacypolicy.asp) for the most accurate reproduction.*
 
 # British Royal Mint - Privacy Policy
 
