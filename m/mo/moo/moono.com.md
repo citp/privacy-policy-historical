@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moono.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615010801id_/http%3A//www.moono.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moono.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117063239id_/http%3A//www.moono.com/privacy.cfm) for the most accurate reproduction.*
 
 # Free celebrity pictures, news, biographies, posters, movie reviews - Moono.com
 
