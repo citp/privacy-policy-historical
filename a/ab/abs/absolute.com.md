@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolute.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615230509id_/http%3A//www.absolute.com/PDF/Absolute_Software_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolute.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117015400id_/http%3A//www.absolute.com/PDF/Absolute_Software_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
