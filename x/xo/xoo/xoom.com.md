@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314210811id_/https%3A//www.xoom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117085304id_/https%3A//www.xoom.com/privacy) for the most accurate reproduction.*
 
 # Xoom: Privacy Policy
 
-This Privacy Disclosure explains the privacy policies of MetaBank and Xoom Corporation (each, a "Provider"). We are committed to protecting our customers privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties.
+This Privacy Disclosure is effective as of June 14, 2006, and explains the privacy policies of MetaBank and Xoom Corporation (each, a "Provider"). We are committed to protecting our customers' privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties. You should read this Privacy Policy in its entirety. Certain sections may apply differently to residents of different jurisdictions. 
 
 ### DEFINITIONS
 
-**We, our, and us** means MetaBank and Xoom Corporation if you are a resident of Connecticut, Maine, Pennsylvania, Rhode Island, and West Virginia. **We, our, and Us** means Xoom Corporation alone if you are a resident of any other jurisidiction.
+**We, our, and us** means MetaBank and Xoom Corporation 
 
 **You and your** means customers who access and use this Web site and the services associated with it pursuant to the applicable [Terms of Service](https://web.archive.org/static/tos.html).
 
