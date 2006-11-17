@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spywareterminator.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513184643id_/http%3A//spywareterminator.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spywareterminator.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117145644id_/http%3A//www.spywareterminator.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Spyware Terminator - Privacy Policy
 
@@ -20,21 +20,9 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING ANY OF THE SERVICES, YOU REP
 
 Visiting and using Crawler Services may result in Crawler receiving performance and usage information (such as search term, time of day, browser type, default language setting, IP address, an anonymous identifier). This information will not be used to personally identify you.
 
-## Personally Identifiable Information
-
-Some of Crawler services require registration in order to create an account. The registration information typically asked for includes your name, email address and account password. This information is necessary to initiate as well as continually use the account. Searches using alternate search engines such as MSN, Google, and Yahoo through the Crawler toolbar are relayed through our servers, however, we don't collect any search specific or user related information.
-
-## Cookies
-
-Cookies are small files that contain information that a website uses to store user preferences and settings. You can reset your browser to control cookies; however, some Crawler services may not function properly if cookies are refused. Searches using alternate search engines such as MSN, Google, and Yahoo through the Crawler toolbar are relayed through our servers, however, we don't collect any search specific or user related information.
-
 ## Sharing of Information
 
 Crawler does not collect any personally identifiable information unless provided by you, and we will not share, rent or sell any of your personally identifiable information provided by you. We may share aggregated non-personally identifiable information with third parties outside of Crawler. Aggregate non-personally identifiable information is recorded about users and collected into groups so that it no longer reflects or references an individually identifiable user. We may disclose some information in response to subpoenas, court orders, or other legal requirements.
-
-## Advanced SiteRank Feature
-
-View [privacy policy](http://www.spywareterminator.com/legal/advanced_privacy.aspx) on the SiteRank feature.
 
 ## Policy Changes
 
