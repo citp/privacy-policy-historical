@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thegreenbutton.com privacy policy that was archived on 2006-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060118230233id_/http%3A//thegreenbutton.com/content.aspx%3Ffile%3Dprivacy.htm%26pname%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenbutton.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117013421id_/http%3A//thegreenbutton.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# The Green Button™ | PrivacyPolicy
+# The Green Button
+
+## Privacy Policy
 
 This Privacy Policy discloses the online privacy practices for The Green Button, Inc. and its affiliates (collectively, "TGB") and applies to the information we collect through www.thegreenbutton.com (the "Site"). By accessing and/or using the Site, you are consenting to the collection, storage, and disclosure of data as described in this Privacy Policy. 
 
@@ -12,23 +14,23 @@ An Internet Protocol (IP) address is a number that is automatically assigned to 
 
 **Cookies**
 
-The Site is developed using Active Server Pages (ASP), and we use per-session "cookies" (pieces of data your browser stores in your computer's memory at TGBs request) to establish user sessions on our server. We use the cookies to carry information about usage from page to page through the Site. TGB does not use cookies to retrieve personal information about you from your computer. 
+The Site is developed using Active Server Pages (ASP), and we use per-session "cookies" (pieces of data your browser stores in your computer's memory at TGB’s request) to establish user sessions on our server. We use the cookies to carry information about usage from page to page through the Site. TGB does not use cookies to retrieve personal information about you from your computer. 
 
 Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. If you disable cookies, your browser may experience some erratic behavior on some portions of the Site. 
 
 **Personal Information**
 
-When you sign up to receive updates from us via the Site, we will ask you to provide us with information, including, your name, address, email address, phone number, mailing address and membership status (Personal Information). 
+When you sign up to receive updates from us via the Site, we will ask you to provide us with information, including, your name, address, email address, phone number, mailing address and membership status (“Personal Information”). 
 
 **Use of Personal Information**
 
-Except as provided below under Disclosures for Legal Reasons, we will not sell, trade or otherwise provide Personal Information to any third party other than to entities affiliated with TGB that are subject to similar restrictions as set forth in this Privacy Policy. We will use Personal Information only for the purposes of sending you updates and information regarding the Site. We may compile and provide aggregate statistics about our Site visitors to third parties, but these statistics will not include any Personal Information. 
+Except as provided below under “Disclosures for Legal Reasons”, we will not sell, trade or otherwise provide Personal Information to any third party other than to entities affiliated with TGB that are subject to similar restrictions as set forth in this Privacy Policy. We will use Personal Information only for the purposes of sending you updates and information regarding the Site. We may compile and provide aggregate statistics about our Site visitors to third parties, but these statistics will not include any Personal Information. 
 
 **Use of Submission Information**
 
 Any other information other than Personal Information we collect through the Site (including, without limitation feedback regarding the Site or any comments, ideas and suggestions you provide) is referred to in this Privacy Policy as "Submission Information." 
 
-As described in our [Terms of Use](https://web.archive.org/content.aspx?file=terms.htm&pname=TermsOfUse), TGB does not accept or collect Submission Information on a confidential or proprietary basis. Consequently, we are free to use Submission Information for any purpose whatsoever. 
+As described in our [Terms of Use](file:///content.aspx?file=terms.htm&pname=TermsOfUse), TGB does not accept or collect Submission Information on a confidential or proprietary basis. Consequently, we are free to use Submission Information for any purpose whatsoever. 
 
 **Disclosures to Third Parties**
 
