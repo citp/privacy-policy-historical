@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the electronicproducts.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202335id_/http%3A//www.hearstelectroweb.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicproducts.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118001435id_/http%3A//www.hearstelectroweb.com/privacy.htm) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-**Hearst Electronics Group Privacy Policy**
+_Purpose of this Privacy Policy_
 
 This privacy policy describes how The Hearst Electronics Group (“HEG”), a division of Hearst Communications, Inc., treats the personally identifiable information that is collected about you when you visit the web sites to which this policy is linked. 
 
@@ -12,7 +12,7 @@ _What is Personally Identifiable Information_
 
 _Information This Privacy Policy Does Not Apply To_
 
-This privacy policy does not apply to information collected about you by anyone except HEG and only applies to the web sites to which this policy is linked.  Any information you provide when you visit web sites other than those covered by this policy (including other web sites affiliated with Hearst) is subject to the privacy policies of the organizations who run and/or own those web sites. Except as set forth specifically herein, this policy  does not apply to information you may provide to us offline.
+This privacy policy does not apply to information collected about you by anyone except HEG and only applies to the web sites to which this policy is linked.  Any information you provide when you visit web sites other than those covered by this policy (including other web sites affiliated with Hearst) is subject to the privacy policies of the organizations who run and/or own those web sites. This policy does not apply to information you may provide to us off-line.
 
 _Collection of Personally Identifiable Information_
 
@@ -24,21 +24,21 @@ If you make postings to any bulletin boards we may host from time to time, that 
 
 In addition, HEG may share or disclose personally identifiable information about you to other companies or individuals when:
 
-·         You have registered on one of our sites and/or subscribed to one of our publications, in which case your information may be shared with third parties whose products you have researched or reviewed in editorial data or to whose websites you have linked.
+·        You have registered on one of our sites, in which case your information may be shared with third parties  from whom you have researched product information or to whose website you have linked;
 
-·         we utilize third party service providers to provide products, services or functions on our behalf (such as sending emails, newsletters or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them;
+·        we utilize third party service providers to provide products, services or functions on our behalf (such as sending emails, newsletters or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them;
 
-·         we authorize third parties, such as advertisers and others who may have products we think might be of interest to you, to use our mailing lists to contact you off-line (in that event, we do not share your e-mail address);
+·        we authorize third parties, such as advertisers and others who may have products we think might be of interest to you, to use our mailing lists to off-line (in that event, we do not share your e-mail address); 
 
-·         we have contacted you in advance to notify you that we may  furnish you e-mail messages on behalf of  third parties and you have not opted out of receiving such messages;
+·        we have contacted you in advance to notify you that we may  furnish you e-mail messages on behalf of  third parties and you have not opted out of receiving such messages;
 
-·         the entity to whom the information is disclosed is one under control of, or under common control with HEG (for these purposes, a company controlling 20% or more of the voting stock of another entity shall be deemed to control such entity);
+·        the entity to whom the information is disclosed is one under control of, or under common control with HEG (for these purposes, a company controlling 20% or more of the voting stock of another entity shall be deemed to control such entity);
 
-·         we need to protect our legal rights (for example, if we are trying to collect money you owe us);
+·        we need to protect our legal rights (for example, if we are trying to collect money you owe us);
 
-·         we must comply with applicable laws, regulations, or legal or regulatory process; or
+·        we must comply with applicable laws, regulations, or legal or regulatory process; or
 
-·         in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by the web sites to which this policy applies.
+in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by the web sites to which this policy applies.
 
 HEG also shares web site usage information about visitors to our web sites with reputable third parties  for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. 
 
@@ -70,10 +70,10 @@ If you’re worried about your children’s activities or their privacy on our s
 
 _Non-U.S. Users_
 
- If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using this web site, you consent to this transfer. You also consent to the adjudication of any disputes arising in connection with this website in the federal and state courts of, and in accordance with the laws of, the state of the United States in which the editorial staff of this website primarily does business.
+If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using this web site, you consent to this transfer. 
 
 _Changes to Privacy Policy and Notice_
 
-HEG may change this policy from time to time in its discretion.  Your continued use of our sites or publications indicates your consent to this privacy policy and any amended versions of it.  If you have any questions or concerns about use of your personally identifiable information, please contact us at [privacy@hearstelectroweb.com](mailto:privacy@hearstelectroweb.com) with your comments.
+HEG may change this policy from time to time in its discretion.  Your continued use of our sites indicates your consent to this privacy policy and any amended versions of it.  If you have any questions or concerns about use of your personally identifiable information, please contact us at privacy@hearstelectroweb.com.
 
-This policy was last updated on 2/5/2005
+This policy was last updated on August 25, 2006.
