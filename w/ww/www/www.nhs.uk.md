@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.nhs.uk privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619211637id_/http%3A//www.nhs.uk/england/privacyStatement.cmsx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.nhs.uk privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117180949id_/http%3A//www.nhs.uk/england/privacyStatement.cmsx) for the most accurate reproduction.*
 
 # Privacy Statement
 
