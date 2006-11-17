@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mrrebates.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220337id_/http%3A//www.mrrebates.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrrebates.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117062746id_/http%3A//www.mrrebates.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Mr. Rebates - Privacy Policy
 
-#### 
-
-#### Personal Data  
+**Personal Data**  
 Only a user's email address is collected when users provide registration to Mr. Rebates. You agree that Mr. Rebates may send you periodical emails promoting coupons and specials from the Mr. Rebates merchant base that may be of interest to you. All Mr. Rebates email newsletters can be opted out of by simply clicking on a link within each email to remove your email address from the list.  Email addresses are never shared or sold to third-party marketers or third-party agencies. 
 
 When a rebate check is sent to a Mr. Rebates member, it is necessary for the member to supply his/her postal address.  All postal address information is kept in the strictest confidence in our secure database system.  Postal address information is not shared or sold to third parties.
@@ -36,5 +34,5 @@ It is important to note that Mr. Rebates contains links to sites other than Mr. 
 
 Mr. Rebates reserves the right to change this privacy policy at any time and users will be notified of any changes made.
 
-**USE OF THIS SITE SIGNIFIES YOUR CONSENT TO THIS ONLINE PRIVACY POLICY AND THE TERMS AND CONDITIONS OF USE.  
- **
+**USE OF THIS SITE SIGNIFIES YOUR CONSENT TO THIS ONLINE PRIVACY POLICY AND THE TERMS AND CONDITIONS OF USE.**  
+ 
