@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wireclub.com privacy policy that was archived on 2006-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060312025843id_/http%3A//www.wireclub.com/Other/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wireclub.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117222705id_/http%3A//www.wireclub.com/Other/privacy.aspx) for the most accurate reproduction.*
 
 # WireClub - Free Chat, Dating, Blogs, Friends & More
 
