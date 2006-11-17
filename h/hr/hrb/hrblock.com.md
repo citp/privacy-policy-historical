@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrblock.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628224907id_/https%3A//taxes.hrblock.com/hrblock/includes/legal/privacypolicy.html%3FWT.svl%3D602) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrblock.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117065454id_/https%3A//taxes.hrblock.com/hrblock/includes/legal/privacypolicy.html%3FWT.svl%3D602) for the most accurate reproduction.*
 
 # H&R BLOCK PRIVACY POLICY FOR SOFTWARE AND WEB-BASED TAX SERVICES
 
