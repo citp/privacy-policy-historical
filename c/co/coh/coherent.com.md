@@ -1,83 +1,41 @@
-> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2006-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060312001618id_/http%3A//coherent.com/Home/index.cfm%3Ffuseaction%3Dforms.page%26PageID%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117083129id_/http%3A//coherent.com/Home/index.cfm%3Ffuseaction%3Dforms.page%26PageID%3D4) for the most accurate reproduction.*
 
-# Coherent Inc.
+# Coherent Inc. : Coherent Privacy Statement
 
-Coherent Privacy Statement
+Coherent Inc. values the privacy of those who provide private personal information to the Company. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to information privacy. Coherent Inc. has voluntarily certified that it meets the United States Department of Commerce Safe Harbor Standards for adequate privacy protection.
 
-**Coherent, Inc. Privacy Statement**
+**_Information Collection_**
 
-Coherent is committed to protecting your privacy, so you can visit most pages on our site without providing information about yourself. However, sometimes we need information to provide services that you request, and this privacy statement explains data collection in those situations. 
+**EXTERNAL INFORMATION SOURCES (Customer Inquiries)**
 
-**Collection of your personal information**
+Coherent only will collect personally identifiable information (such as name, title, company name, address, telephone number, or e-mail address) that is voluntarily provided through our website or e-mail correspondence. We will collect general information (such as the type of browser used, the files requested, and the domain name and country which requests information) to improve our Web site and better meet customer needs.
 
-Generally, we request personal information when you are entering a contest, ordering e-mail newsletters, signing up for an event or training, or purchasing products. 
+**Use of Information**
 
-Personal information is usually limited to name, e-mail address, and phone number, unless other information is needed to provide the service you requested.
+Before we collect any personally identifiable information, we will provide an explanation for the possible use of the data. The information supplied will be used by Coherent to respond to inquiries, supply requested information on Coherent Inc. products and services, or track orders placed with Coherent.  Authorized third parties may be utilized by Coherent Inc. to collect, track and process such information. If you have submitted personal information to Coherent electronically and would like it removed or modified, please [contact us.](http://www.coherent.com/Home/index.cfm?fuseaction=forms.feedback) We will use reasonable efforts to comply with your request.
 
-Coherent also collects information about your computer hardware and software, including your IP address, browser types, operating system, domain name, access times and Web site addresses. We use this information to maintain the quality of our Web site, and to obtain general statistics regarding its use.
+**INTERNAL INFORMATION SOURCES (Employee Data)**
 
-Coherent also collects information about which pages customers visit. Only a unique ID number identifies this site visitation data, and it is never linked with personal information.
+Coherent is the sole owner of the information collected from its employees and applicants for employment. Coherent will not sell or share this information with third parties in ways different from what is disclosed in this privacy policy statement.  Coherent only collects personal data that is relevant and necessary to legitimate human resources business functions.
 
-**Use of your personal information**
+Personal information collected by Coherent from employees and applicants for employment is maintained at its corporate offices in Santa Clara, California in the United States as well as the local office of the employee. Among other things, Coherent collects and maintains personal information on current and former employees for legitimate corporate business purposes, such as processing payroll, collecting resumes to fill vacant positions, and maintaining accurate benefits records. 
 
-We use your personal information for the following purposes:
+Coherent does not request or gather any information regarding political opinions, religion, philosophy, union membership, or sexual preferences. To the extent Coherent maintains information on an individual's medical health or ethnicity (as legally required of U.S. employees and U.S. applicants for employment), consistent with this policy, Coherent will not disclose such information to third parties.
 
-To ensure our site is relevant to your needs.
+**Security**
 
-To make the site easier to use by eliminating the need to enter information more than once.
+Coherent is committed to protecting personal information from loss, misuse, disclosure, alteration, unauthorized access and destruction. Coherent takes all reasonable precautions to safeguard the confidentiality of personally identifiable information.
 
-To complete online purchases. 
+**Compliance**
 
-To deliver newsletters, product literature, news of events, training schedules, software updates, etc.
+Coherent conforms to the U.S. Department of Commerce Safe Harbor Principles through self-assessment. We make every effort to ensure privacy and encourage you to contact us at any time if you feel we are not in compliance with the Safe Harbor Principles.  In the event we are unable to resolve an issue regarding our compliance, we will contact the appropriate Data Protection Authorities to expeditiously resolve the complaint.
 
-We merge site-visitation data with anonymous demographic information for research purposes, and may use this information to provide more relevant content. 
+**Updating or Correcting Information**
 
-Unless otherwise stated on the Site, we will share your personal information only with associated financial institutions, in order to verify credit information for an online purchase or to establish an account. 
+Any employee wishing to review or update their personal information can do so by contacting their local Human Resources Department. 
 
-Coherent will disclose your personal information only in special cases, such as: (i) to comply with valid legal requirements, such as a law, regulation, search warrant, subpoena or court order; or (ii) when Coherent believes that disclosing this information is necessary to identify, contact or bring legal action against someone who, intentionally or unintentionally, may be causing injury or harm to Coherent users or other persons, or may be violating the Terms and Conditions of Use for this site.
+**OTHER IMPORTANT INFORMATION**
 
-If you do not want Coherent to communicate with you about other Coherent products, programs, events or services, by e-mail, postal mail, or telephone, you can select the "Do not wish to receive marketing messages from Coherent" option when prompted.
+The Coherent Inc. Web site may contain links to other sites. We do not endorse or otherwise accept responsibility for the content or privacy policies of those sites. Additionally, some of our Web pages may contain "cookies," which are data that may be sent to your Web browser and stored on your computer. This allows our server to "recognize" you when you visit our Web site in the future. Most Web browsers can be configured to not accept cookies, or to notify you if a cookie is sent to you. 
 
-Your personal information may be stored and processed in the United States or any other country in which Coherent or its affiliates, subsidiaries or agents maintain facilities. By using this site, you consent to any such transfer of information outside of your country. Coherent abides by the safe harbor framework as set forth by the U.S. Department of Commerce, regarding the collection, use and retention of data from the European Union.
-
-**Security of your personal information**
-
-Coherent is committed to protecting your personal information. We use various security technologies to protect your personal information from unauthorized access, use or disclosure. When we transmit sensitive information (such as a credit card number) over the Internet, we use encryption, such as the Secure Socket Layer (SSL) protocol.
-
-**Non-personally identifiable information**  
- **Internet Protocol (IP) Address**
-
-A unique number, called an Internet Protocol (IP) address, identifies every computer on the Internet. Each time you connect to the Internet, your machine is assigned an IP address. We use your IP address to help diagnose problems with our Site, to more efficiently administer the Site, and to better tailor it to your needs. 
-
-**Cookies**
-
-When you enter our Site, we create your profile, assign you a personal identification number, and then send this personal identification number back to your hard drive in the form of a "cookie." 
-
-This cookie is a very small bit of code (a few kilobytes) that contains no personal information. But, this code is uniquely yours and allows you to navigate our Site without having to fill out registration forms with information you have already provided (as long as you are using the same computer from which you initially supplied the information).
-
-Other cookies, written as you navigate our Site, allow us to remember what is in your on-line shopping cart and provide you with the proper pricing for your location (U.S, Europe, Asia, etc.). 
-
-If you are interrupted before finalizing an on-line purchase, the contents of your order will be preserved for up to two weeks. 
-
-Should you delete these cookies, you would simply provide your contact information again, but would "lose" the contents of your shopping cart.
-
-Should you decide to set your browser to reject cookies, you can still browse the Site, but on-line ordering and item prices will not be available. 
-
-We do not sell customer lists or "cookie swap" with other companies. 
-
-**Changes to this statement**
-
-Coherent, Inc. will occasionally update this privacy statement. When we do, we will revise the "last updated" date on this page. For material changes to this statement, Coherent, Inc. will notify you by placing prominent notice on the Web site.
-
-**Contact Information**
-
-If you believe Coherent, Inc. has not adhered to this Privacy Policy, or if you have questions regarding the policy, please contact Coherent, Inc. at:
-
-Coherent, Inc.  
-5100 Patrick Henry Dr.  
-Santa Clara, CA 95054  
-Attention: Legal Department  
-(408) 764-4000  
-[coherentonline@coherentinc.com](mailto:coherentonline@coherentinc.com)
-
-Rev. 10/24/03
+_The practices described in this privacy policy statement are current personal data protection policies, as of October, 2001. Coherent Inc. reserves the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages._
