@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsfw.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627202119id_/http%3A//nsfw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsfw.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117135518id_/http%3A//www.nsfw.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NSFW | Not Safe For Work
 
