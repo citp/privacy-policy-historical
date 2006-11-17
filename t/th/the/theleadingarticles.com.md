@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the theleadingarticles.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618040133id_/http%3A//www.theleadingarticles.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theleadingarticles.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117114807id_/http%3A//www.theleadingarticles.com/static_privacy.html) for the most accurate reproduction.*
 
-# privacy TheLeadingArticles.com
-
-Our Article Directory Privacy Policy
+# privacy @ TheLeadingArticles.com
 
 The Leading Articles will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us in the quote or order form. 
 
 No personally identifiable information is exchanged with any outside parties, read more below.
 
-**Our Commitment to Your Privacy**
+ **Our Commitment to Your Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every page of our web site
 
-**The Information We Collect**
+ **The Information We Collect**
 
 This notice applies to all information collected or submitted on The Leading Articles web site. On the contact information page you can submit a request for more information, free quote or an initial consultation. The types of personal information collected on this page is: 
 
@@ -28,6 +26,4 @@ We use the information you provide about yourself when submitting an information
 
 Please direct any "privacy policy" questions to The Leading Articles per the 
 
-[contact page](http://www.theleadingarticles.com/index.php?pagedb=contactus) for Review and Response, Thank You
-
-| 
+[contact page](http://www.theleadingarticles.com/index.php?pagedb=contactus) for Review and Response, Thank You!
