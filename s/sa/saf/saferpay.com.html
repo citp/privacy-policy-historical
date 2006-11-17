@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the saferpay.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615072910id_/http%3A//www.saferpay.com/policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saferpay.com privacy policy that was archived on 2006-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061117130048id_/http%3A//www.saferpay.com/policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.01 transitional//en"><html><head>
-	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="content-script-type" content="text/javascript">
 	<meta http-equiv="content-style-type" content="text/css">
 	<meta http-equiv="pragma" content="no-cache">
@@ -38,6 +38,7 @@
 	
 	<link rel="P3Pv1" href="http://www.saferpay.com/w3c/p3p.xml">
 	<link rel="stylesheet" type="text/css" href="http://www.saferpay.com/includes/style.asp">
+	<script src="includes/AC_RunActiveContent.js" type="text/javascript"></script>
 	
 		<meta name="DESCRIPTION" lang="en" content="{Sample.Description.policy.asp}">
 		<title>Saferpay - Virtual Payment Solutions - fast and secure web payment</title>
@@ -52,8 +53,8 @@
 		}
 	//-->
 	</style>
-	<script language="JavaScript" type="text/javascript">
-	<!--
+	<script language="javascript" type="text/javascript">
+	/* <![CDATA[ */	
 		if (document.images){
 			var mark_off = new Image();
 			var mark_on	= new Image();
@@ -145,6 +146,20 @@
 			if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 		}
 		
+		function NewWindow_URLEncode(mypage, refId, cardNr, customerId, langId, userId, scriptName, myname, w, h, scroll) {
+			var strBar = ""
+			if(navigator.platform == "MacPPC")
+			{
+				strBar = ',menubar=yes,toolbar=yes'
+			}
+			var winl = (screen.width - w) / 2;
+			var wint = (screen.height - h) / 2;
+			winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable'+strBar
+		    mypage = mypage + "?refId=" + refId + "&cardNr=" + escape(cardNr) + "&customerId=" + customerId + "&langId=" + langId + "&userId=" + userId + "&scriptName=" + scriptName;
+			win = window.open(mypage, myname, winprops)
+			if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+		}
+		
 		function InputClear(obj,val)
 		{
 			if (document.getElementById(obj).value == val)
@@ -152,7 +167,7 @@
 				document.getElementById(obj).value = '';
 			}
 		}
-	//-->
+	/* ]]> */
 	</script>
 	</head>   	
 
@@ -362,10 +377,10 @@
 		<td><img src="http://www.saferpay.com/images/space.gif" width="162" height="1" border="0"></td>
 		
 			</tr></tbody></table>
-			<script language="javascript">
-			<!--
+			<script language="javascript" type="text/javascript">
+			/* <![CDATA[ */	
 				jsfSetLastClicked('mark_0menuname390');
-			//-->
+			/* ]]> */
 			</script>
 			
 			<br><br>
@@ -502,17 +517,20 @@
 	</tbody></table>
 	
 		<!-- etracker PARAMETER 2.3 -->
-		<script type="text/javascript">
+		<script language="javascript" type="text/javascript">
+		/* <![CDATA[ */	
 		var et_easy     = 0;
 		var et_ssl      = 0;
-		var et_pagename = "[EN]%20Datenschutz";
-		var et_areas    = "Über uns";
+		var et_pagename = "Datenschutz";
+		var et_areas    = "ï¿½ber uns";
 		var et_ilevel   = 0;
+		/* ]]> */
 		</script>
 		<!-- etracker PARAMETER END -->
 
 		<!-- etracker URL PARAMETER 2.3 -->
-		<script type="text/javascript"><!--
+		<script language="javascript" type="text/javascript">
+		/* <![CDATA[ */	
 		var et_up=''; function et_pQ(param){var ll,fl, pV, rS; var qS=
 		document.location.search; pV=""; if(qS.length>1){ qS=qS.substr
 		(1);fl=qS.indexOf(param);if(fl!=-1){fl+=param.length + 1;ll=qS
@@ -527,10 +545,12 @@
 		typeof( et_target )!="unknown") if (tt = et_pQ("et_target") ||
 		et_target!="" ){ tv = et_pQ("et_tval"); to = et_pQ("et_tonr");
 		ts=et_pQ("et_tsale");}
-		//--></script>
+		/* ]]> */
+		</script>
 		<!-- etracker URL PARAMETER 2.3 END -->
 		<!-- etracker CODE 2.3 -->
-		<script type="text/javascript"><!--
+		<script language="javascript" type="text/javascript">
+		/* <![CDATA[ */	
 		var et_server = "http://www.etracker.de";
 		var et_sslserver = "http://www.etracker.de";
 		var et_referer = et_server + '/app?et=', cex = '';
@@ -577,8 +597,14 @@
 		'.innerWidth;et_ih=window.innerHeight;}');}et_co = (navigator.
 		cookieEnabled==true?1:(navigator.cookieEnabled==false?2:0));if
 		(navigator.language)et_la=navigator.language;else if(navigator
-		.userLanguage  )  et_la  =  navigator.userLanguage;  </script>
-		<script type="text/javascript"> et_eC( 'kbg1PK' );</script><a target="_blank" href="http://www.etracker.de/app?et=kbg1PK"><img border="0" alt="" src="http://www.etracker.de/cnt.php?v=2.3&amp;java=y&amp;tc=1580470628191&amp;et=kbg1PK&amp;et_ilevel=0&amp;swidth=800&amp;sheight=600&amp;siwidth=1366&amp;siheight=768&amp;scookie=1&amp;scolor=24&amp;p=undefined&amp;et_areas=%DCber%20uns&amp;et_target=,0,0,0,0&amp;et_pagename=%5BEN%5D%2520Datenschutz&amp;et_url=https%3A//web.archive.org/web/20060615072910id_/http%253A//www.saferpay.com/policy.asp&amp;slang=en-US"></a>
+		.userLanguage  )  et_la  =  navigator.userLanguage;  
+		/* ]]> */
+		</script>
+		<script language="javascript" type="text/javascript">
+		/* <![CDATA[ */	
+		et_eC( 'kbg1PK' );
+		/* ]]> */
+		</script><a target="_blank" href="http://www.etracker.de/app?et=kbg1PK"><img border="0" alt="" src="http://www.etracker.de/cnt.php?v=2.3&amp;java=y&amp;tc=1580470619197&amp;et=kbg1PK&amp;et_ilevel=0&amp;swidth=800&amp;sheight=600&amp;siwidth=1366&amp;siheight=768&amp;scookie=1&amp;scolor=24&amp;p=undefined&amp;et_areas=%EF%BF%BDber%20uns&amp;et_target=,0,0,0,0&amp;et_pagename=Datenschutz&amp;et_url=https%3A//web.archive.org/web/20061117130048id_/http%253A//www.saferpay.com/policy.asp&amp;slang=en-US"></a>
 
 		<!-- etracker CODE NOSCRIPT -->
 		<noscript>
