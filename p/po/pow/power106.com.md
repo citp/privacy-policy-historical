@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the power106.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619152234id_/http%3A//www.power106.com/station/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the power106.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117010506id_/http%3A//www.power106.com/station/privacy.aspx) for the most accurate reproduction.*
 
 # .::: Power 106 FM Where Hip-Hop Lives :::.
 
-Privacy Policy   
+Privacy Policy  
 General KPWR-FM (POWER 106) and its affiliates respect your privacy and believe the best way to serve you on the Internet is with honesty, accountability and adherence to legal standards. We are sensitive to the issue of privacy and have structured our online activities to maximize your control over the disclosure of your own personally identifiable information. This Privacy Policy supplements our general Terms of Use, which we also urge you to read. By using our Web site (the "Site"), you agree to be bound by the terms of this Privacy Policy and by the Terms of Use. We may change this Privacy Policy at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the Site immediately. 
 
   
@@ -13,10 +13,9 @@ KPWR-FM may collect two types of information about you: personally identifiable 
 
 You may be required to register or otherwise voluntarily provide personally identifiable information to have access to some features of the Site. You always may choose not to provide the personally identifiable information, but this may lead to decreased functionality of the Site for you and our inability to provide you with certain products or services. We also may request you to voluntarily provide personally identifiable information that is not required to access features of our site. This information enables KPWR-FM to make general improvements to the Site and better serve your specific interests.
 
-KPWR-FM may transparently collect aggregate information through the use of cookies or by other means. We use this information to assess general usage patterns, administer and make improvements to the Site and collect demographic information useful in some way to KPWR-FM and our business partners. We hope that by using Aggregate Information, we can update the Site to make it more useful to you and other users. We, and our business partners, reserve the right to use, maintain, update, disclose and/or sell Aggregate Information. 
+KPWR-FM may transparently collect aggregate information through the use of cookies or by other means. We use this information to assess general usage patterns, administer and make improvements to the Site and collect demographic information useful in some way to KPWR-FM and our business partners. We hope that by using Aggregate Information, we can update the Site to make it more useful to you and other users. We, and our business partners, reserve the right to use, maintain, update, disclose and/or sell Aggregate Information.
 
-
-What We Will and Will Not Do With the Information You Provide  
+  
 KPWR-FM uses information generally to compile statistical data, keep in contact with users and provide them with a better interactive experience.
 
 We may use your information specifically for the following purposes: to provide easy access every time you return to the site without requiring re-entry of registration information; to keep you informed about products and services in which you may have interest; to complete business transactions; to contact you as part of a promotion; to allow you to make a posting on the Site; to administer individual accounts; to provide customer support; to meet legal requirements; to provide Internet security; and/or to analyze the collected information. Also, in the event that we are involved in a sale of a substantial portion of our business assets, customer information may be among the transferred assets.
@@ -44,9 +43,9 @@ Our site offers "auto login" which allows users to enter member areas of our sit
   
 If you have any concerns about privacy procedures at our Web site or wish to access or modify your personally identifiable information collect at the Site:
 
- •  Email us your privacy concerns [BY CLICKING HERE](mailto:power106la@aol.com?Subject=PRIVACY%20POLICY%20INFO)  
- •  Write us at: Attn: Privacy/Power106.fm, KPWR-FM, 2600 West Olive Ave, Burbank, CA 91505  
- •  Call us at: [818-953-4200]   
- •  Fax us at: [818-848-0961] 
+• Email us your privacy concerns BY [CLICKING HERE](mailto:power106info@power106.com?Subject=Privacy%20Policy)  
+• Write us at: Attn: Privacy/Power106.fm, KPWR-FM, 2600 West Olive Ave, Burbank, CA 91505  
+• Call us at: [818-953-4200]   
+• Fax us at: [818-848-0961] 
 
 Please make any communications as complete and descriptive as possible, and we will attempt to respond promptly to your concerns.
