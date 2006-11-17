@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jesuswalk.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320120254id_/http%3A//www.joyfulheart.com/admin/privacy_policy_popup.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesuswalk.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117121106id_/http%3A//www.joyfulheart.com/admin/privacy_policy_popup.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
