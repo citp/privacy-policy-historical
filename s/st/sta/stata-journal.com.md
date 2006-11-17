@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stata-journal.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616163648id_/http%3A//stata-journal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stata-journal.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117195432id_/http%3A//stata-journal.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy notice
 
@@ -14,7 +14,6 @@ This privacy notice is provided by [StataCorp LP](http://www.stata.com/). Orders
   * Sometimes we receive a request from a customer who wants to be told of other Stata users at their institution. We do not give out this information without first getting your permission, and we seek permission for each instance. 
   * When you order from us, we send email to confirm that we received the order, another email to confirm that the order was processed, and a third to provide you with tracking information and to confirm that the items were shipped. We do not send unsolicited email to our customers. 
   * Purchase information is transferred to Stata using a secure connection. 
-
 
 
 
