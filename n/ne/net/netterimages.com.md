@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netterimages.com privacy policy that was archived on 2006-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060328014447id_/http%3A//netterimages.com/customer/privacy.htm%3Fhpr%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netterimages.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117160822id_/http%3A//www.netterimages.com/customer/privacy.htm) for the most accurate reproduction.*
 
 # Netter Medical Artwork - Privacy Policy
 
@@ -34,7 +34,7 @@ in response to subpoenas, court orders, or legal process, or to establish or exe
 
 ACCESS AND CHANGES TO YOUR REGISTRATION INFORMATION
 
-Registered Users may access their identified contact information and other Registration Information and correct any discrepancies or update information by clicking the "Edit My Details" link under ÒMy AccountÓ. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users. 
+Registered Users may access their identified contact information and other Registration Information and correct any discrepancies or update information by clicking the "Edit My Details" link under "My Account". The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users. 
 
 RETENTION OF PERSONAL INFORMATION 
 
@@ -66,6 +66,6 @@ Fax: 1-800-568-5136
 
 If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personal information is being handled, please contact our Customer Service Center. Disputes under this privacy policy will be resolved by our Customer Service Center, which will use commercially reasonable efforts to promptly investigate, and if necessary, to correct any problem. 
 
-Last revised: October 3, 2005
+Last revised: May 19, 2006
 
 Copyright © 2005, Elsevier Inc. All rights reserved. 
