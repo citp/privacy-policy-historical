@@ -1,7 +1,18 @@
-> *The following text is extracted and transformed from the nzdating.com privacy policy that was archived on 2006-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060506052859id_/http%3A//www.nzdating.com/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzdating.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117142946id_/http%3A//www.nzdating.com/general/privacy.aspx) for the most accurate reproduction.*
 
 # NZDating - New Zealands premier NZ dating and friendship service
 
+|  | 
+
+You are here : [NZDating](https://web.archive.org/) > Privacy Statement
+
+  
+|   
+---  
+| | **NZDating Privacy Statement**  
+NZDating takes your privacy seriously, here is our privacy statement  
+  
+| [](https://web.archive.org/join/)  
   
 NZDating has created this privacy statement in order to demonstrate our firm commitment to our members privacy. The following discloses our information gathering and dissemination practices for the NZDating website. 
 
@@ -71,3 +82,6 @@ New Zealand
 Or use our [**contact form**](https://web.archive.org/general/contact.aspx)
 
 Please note: we do not provide email addresses to prevent automated spamming engines collecting them. If you need an email address please use webmaster at NZDating.co.nz, replacing the at and spaces with the @ sign. 
+
+|   
+
