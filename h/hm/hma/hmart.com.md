@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hmart.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616043324id_/http%3A//www.hmart.com/cs/cs_privacy_policy.asp%3Floc%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmart.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117100812id_/http%3A//www.hmart.com/cs/cs_privacy_policy.asp%3Floc%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Hmart.com - Quality Asian Grocery and Much More...
 
