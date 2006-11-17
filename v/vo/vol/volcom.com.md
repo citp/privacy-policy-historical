@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volcom.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617204103id_/http%3A//volcom.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volcom.com privacy policy that was archived on 2006-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061117112909id_/http%3A//www.volcom.com/privacy.asp) for the most accurate reproduction.*
 
 # Volcom | Youth Against Establishment
 
@@ -47,7 +47,7 @@ If you want to opt-out, delete or modify your personal information, please visit
 We may from time to time need to amend this policy, due to changes in regulations and to keep up with new developments and possibilities on the internet. We therefore reserve the right at our discretion to make these changes and ask you to check this page periodically, as you are bound by these changes when visiting our website.
 
 **How you can contact us**  
-If you have any questions or comments relating to our website and/or the privacy policy, please click here or write to us: Volcom, 1740 Monrovia Avenue, Costa Mesa, CA 92627. You may also contact us via telephone at (940) 646-2175. 
+If you have any questions or comments relating to our website and/or the privacy policy, please click here or write to us: Volcom, 1740 Monrovia Avenue, Costa Mesa, CA 92627. You may also contact us via telephone at (949) 646-2175. 
 
 **Your consent**  
 By using the Volcom websites you signify that you agree to the terms of this Privacy Policy. If you do not agree with the terms of our Privacy Policy, please do not provide us with personal information and leave this website.
