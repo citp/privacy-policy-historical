@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615032159id_/http%3A//www.nationalservice.gov/home/privacy_policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118084333id_/http%3A//www.nationalservice.gov/home/privacy_policy/index.asp) for the most accurate reproduction.*
 
 # Corporation for National and Community Service
 
@@ -18,6 +18,22 @@ If you browse through our site or download information, we automatically collect
 
 Sometimes we use "session cookies," which are small amounts of information stored on your computer to secure the connection during your visit. After you turn off your computer or stop using the internet, the cookies are erased. 
 
+### Privacy Impact Assessments
+
+Privacy Impact Assessments (PIAs) have been completed for the CNCS general support system and all major applications. 
+
+The Corporation collects and maintains a limited amount of personally identifiable information from applications for Corporation national and community service programs. This information is used to process the application and subsequently manage and support service participants. The process for collecting and maintaining personally identifiable information within the Corporation’s Network, Momentum, ACRPS, ESPAN, and LASSIE information systems meets the requirements set by OMB Memorandum 03-22.* 
+
+To obtain a copy of a PIA for an information system, please contact: 
+
+Rudy Mazariegos  
+Chief Information Officer and Senior Agency Official for Privacy  
+Corporation for National and Community Service  
+1201 New York Avenue, NW  
+Washington DC 20525
+
+* Personally Identifiable Information (PII) is defined by OMB as any information about an individual maintained by an agency, including, but not limited to, education, financial transactions, medical history, and criminal or employment history and information which can be used to distinguish or trace an individual's identity, such as their name, social security number, date and place of birth, mother’s maiden name, biometric records, etc., including any other personal information which is linked or linkable to an individual.
+
 ### Sending Us an E-mail
 
 If you decide to send us personally identifying information, such as in an e-mail, that information may be subject to disclosure. It will be handled in accordance with the Privacy Act and the Freedom of Information Act, which restrict our use of it, yet permits certain disclosures. 
@@ -28,7 +44,7 @@ Corporation for National and Community Service
 1201 New York Ave., NW  
 Washington DC 20525  
 202-606-5000  
-[webmaster@cns.gov](mailto:webmaster@cns.gov)
+[mailto:webmaster@cns.gov ](mailto:webmaster@cns.gov)
 
 * * *
 
