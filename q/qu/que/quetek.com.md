@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quetek.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050400id_/http%3A//quetek.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quetek.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118113900id_/http%3A//www.quetek.com/privacy.htm) for the most accurate reproduction.*
 
 # File recovery and data recovery software - QueTek Consulting Corporation
 
