@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njng.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622145705id_/http%3A//www.njng.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njng.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118194333id_/http%3A//www2.njng.com/privacy) for the most accurate reproduction.*
 
 # New Jersey Natural Gas - Privacy Statement
 
