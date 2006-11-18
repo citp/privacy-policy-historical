@@ -1,66 +1,70 @@
-> *The following text is extracted and transformed from the goaliemonkey.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goaliemonkey.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/privacypolicy.html) for the most accurate reproduction.*
 
 # GoalieMonkey.com - #1 Online Hockey Goalie Equipment Store Privacy Policy
 
-|  [Goalie Monkey HOME](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/index.html)  
+|  [Goalie Monkey HOME](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/index.html)  
 ---  
  [My Basket](http://order.store.yahoo.com/cgi-bin/wg-order?yhst-90879101131287)  
- [Customer Feedback](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/customer-feedback.html)  
- [Hockey Equipment](http://www.hockeymonkey.com/)  
+ [Customer Feedback](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/customer-feedback.html)  
+ [Ice Hockey Equipment](http://www.hockeymonkey.com/)  
+ [Roller Equipment](http://www.rollerhockeymonkey.com/)  
  [Lacrosse Equipment](http://www.lacrossemonkey.com/)  
- [Clearance Outlet](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goalieclearance.html)  
- [Goalie Leg Pads](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goalielegpads.html)  
-   [Sr. Goalie Leg Pads](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/srgoalpads.html)  
-   [Jr. Goalie Leg Pads](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/jrgoalpads.html)  
-   [Goalie Leg Pad Accessories](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/accessories-straps.html)  
- [Goalie Blockers](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goalieblockers.html)  
-   [Sr. Goalie Blockers](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/srgoalblockers.html)  
-   [Jr. Goalie Blockers](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/jrgoalblockers.html)  
- [Goalie Catch Gloves](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goaliegloves.html)  
-   [Sr. Goalie Catch Gloves ](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/srgoalgloves.html)  
-   [Jr. Goalie Catch Gloves](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/jrgoalgloves.html)  
- [Goalie Chest & Arm Protection](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goaliechestarm.html)  
-   [Sr. Chest & Arm Protectors](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/srgoalchestprotectors.html)  
-   [Jr. Chest & Arm Protectors](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/jrgoalchestprotectors.html)  
- [Goalie Pants](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goaliepants.html)  
-   [Sr. Goalie Pants](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/srgoalpants.html)  
-   [Jr. Goalie Pants](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/jrgoalpants.html)  
- [Goalie Skates](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goalieskates.html)  
-   [Sr. Goalie Skates](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/srgoalskates.html)  
-   [Jr. Goalie Skates](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/jrgoalskates.html)  
-   [Goalie Skate Accessories](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/skateaccessories.html)  
- Goalie Sticks  
-   [Goalie Sticks](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goaliesticks.html)  
- [Goalie Masks](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goaliemasks.html)  
-   [Goalie Masks](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goaliemasks.html)  
-   [Goalie Mask Accessories](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goalmaskaccessories.html)  
- [Goalie Equipment Bags](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goaliebags.html)  
-   [Goalie Equipment Bags](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goaliebags.html)  
- [Goalie Jocks & Undergarments](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goaljocks.html)  
-   [Jocks & Undergarments](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goaljocks.html)  
- [Goalie Jerseys & Apparel](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goaliejerseys.html)  
-   [Jerseys & Apparel](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goaliejerseys.html)  
- [Goalie Accessories](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/accessories.html)  
-   [Goalie Mask Accessories](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goalmaskaccessories.html)  
-   [Goalie Knee & Thigh Guards](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goalkneethighguards.html)  
-   [Goalie Skate Accessories](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/skateaccessories.html)  
-   [Goalie Leg Pad Accessories](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/accessories-straps.html)  
-   [Goalie Throat, Neck Protection](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/throat-neckprotectors.html)  
-   [Other Goalie Accessories](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/othergoalaccessories.html)  
+ [Clearance Outlet](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goalieclearance.html)  
+ [Goalie Combo Packages](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goalie-protective-combos.html)  
+ [Goalie Leg Pads](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goalielegpads.html)  
+   [Sr. Goalie Leg Pads](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/srgoalpads.html)  
+   [Jr. Goalie Leg Pads](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/jrgoalpads.html)  
+   [Goalie Leg Pad Accessories](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/accessories-straps.html)  
+ [Goalie Blockers](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goalieblockers.html)  
+   [Sr. Goalie Blockers](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/srgoalblockers.html)  
+   [Jr. Goalie Blockers](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/jrgoalblockers.html)  
+ [Goalie Catch Gloves](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goaliegloves.html)  
+   [Sr. Goalie Catch Gloves ](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/srgoalgloves.html)  
+   [Jr. Goalie Catch Gloves](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/jrgoalgloves.html)  
+ [Goalie Chest & Arm Protection](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goaliechestarm.html)  
+   [Sr. Chest & Arm Protectors](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/srgoalchestprotectors.html)  
+   [Jr. Chest & Arm Protectors](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/jrgoalchestprotectors.html)  
+ [Goalie Pants](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goaliepants.html)  
+   [Sr. Goalie Pants](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/srgoalpants.html)  
+   [Jr. Goalie Pants](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/jrgoalpants.html)  
+ [Goalie Skates](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goalieskates.html)  
+   [Sr. Goalie Skates](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/srgoalskates.html)  
+   [Jr. Goalie Skates](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/jrgoalskates.html)  
+   [Goalie Skate Accessories](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/skateaccessories.html)  
+ [Goalie Sticks](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goaliesticks.html)  
+   [Sr. Goalie Sticks](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/srgoaliesticks.html)  
+   [Jr. Goalie Sticks](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/jrgoaliesticks.html)  
+ [Goalie Masks](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goaliemasks.html)  
+   [Goalie Masks](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goaliemasks.html)  
+   [Goalie Mask Accessories](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goalmaskaccessories.html)  
+ [Goalie Equipment Bags](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goaliebags.html)  
+   [Goalie Equipment Bags](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goaliebags.html)  
+ [Goalie Jocks & Undergarments](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goaljocks.html)  
+   [Jocks & Undergarments](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goaljocks.html)  
+ [Goalie Jerseys & Apparel](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goaliejerseys.html)  
+   [Jerseys & Apparel](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goaliejerseys.html)  
+ [Goalie Accessories](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/accessories.html)  
+   [Goalie Mask Accessories](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goalmaskaccessories.html)  
+   [Goalie Knee & Thigh Guards](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goalkneethighguards.html)  
+   [Goalie Skate Accessories](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/skateaccessories.html)  
+   [Goalie Leg Pad Accessories](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/accessories-straps.html)  
+   [Goalie Throat, Neck Protection](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/throat-neckprotectors.html)  
+   [Other Goalie Accessories](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/othergoalaccessories.html)  
  Goalie Equipment Related  
-   [Custom Goalie Equipment](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/customorder.html)  
-   [Guaranteed Best Price](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/guaranteed-best-price.html)  
-   [Goal Tending Schools](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/goaltendschools.html)  
-   [Sizing Info](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/sizinginfo.html)  
-   [Store Location](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/storelocations.html)  
-   [Store Info](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/info.html)  
-   [Currency Converter](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/currencyconv.html)  
+   [Personal Spec Form](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/personal-spec-form.html)  
+   [Custom Goalie Equipment](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/customorder.html)  
+   [Guaranteed Best Price](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/guaranteed-best-price.html)  
+   [Goal Tending Schools](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/goaltendschools.html)  
+   [Sizing Info](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/sizinginfo.html)  
+   [Store Locations](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/storelocations.html)  
+   [Store Info](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/info.html)  
+   [Currency Converter](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/currencyconv.html)  
   
   
- [](https://web.archive.org/web/20060622042332id_/http%3A//goaliemonkey.com/ind.html)  
+ [](https://web.archive.org/web/20061118152114id_/http%3A//goaliemonkey.com/ind.html)  
 | 
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._ Hockey Monkey |  | **** |   
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._ Goalie Monkey |  | **** |   
 ---|---|---  
 | **Yahoo! shopping means Privacy and Security:**  
 ---  
@@ -78,7 +82,7 @@ Goalie Monkey is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering 
   
 **  
 **  
-|    
+|   
 **The Yahoo! Shopping Merchant Rating system:**  
   
 What is the Yahoo! Merchant rating system? The rating system guarantees that the merchants you deal with provide superior customer service. Anyone that does not provide consistently good customer service is not allowed to be a Yahoo! Shopping store. Yahoo! Shopping takes this rating system very seriously. 
