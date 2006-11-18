@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2006-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060216001659id_/http%3A//wikimediafoundation.org/wiki/Wikimedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118154653id_/http%3A//wikimediafoundation.org/wiki/Wikimedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Wikimedia Foundation
 
 ### From the Wikimedia Foundation
 
-* * *
+    _This version of the[Privacy policy](http://meta.wikimedia.org/wiki/Privacy_policy "meta:Privacy_policy") was approved in June 2006 by the [Board of Trustees](https://web.archive.org/wiki/Board_of_Trustees "Board of Trustees"). Discussion and proposed changes are welcome on the [talk page at Meta](http://meta.wikimedia.org/wiki/talk:Privacy_policy "meta:talk:Privacy_policy")._
 
-    _This version of the[Privacy policy](http://meta.wikimedia.org/wiki/Privacy_policy "meta:Privacy policy") was recently approved by the [Board of Trustees](https://web.archive.org/wiki/Board_of_Trustees "Board of Trustees"). Discussion and proposed changes are welcome on the [talk page at Meta](http://meta.wikimedia.org/wiki/talk:Privacy_policy "meta:talk:Privacy policy")._
-
-    _It is requested that this noticed be translated and linked from the[footer](https://web.archive.org/wiki/MediaWiki:Copyright "MediaWiki:Copyright") of every page._
+    _It is requested that this notice is translated and linked from the[footer](https://web.archive.org/wiki/MediaWiki:Copyright "MediaWiki:Copyright") of every page._
 
 ## Contents
 
@@ -50,11 +48,13 @@ When you publish a page in the wiki, you may be logged in or not.
 
 If you are logged in, you will be identified by your user name. This may be your real name if you so choose, or you may choose to publish under a pseudonym, whatever user name you selected when you created your account.
 
-If you have not logged in, you will be identified by your network IP address. This is a series of four numbers which identifies the internet address from which you are contacting the wiki. Depending on your connection, this number may be traceable only to a large internet service provider, or specifically to your school, place of business, or home. It may be possible that the origin of this IP address could be used in conjunction with any interests you express implicitly or explicitly by editing articles to identify you even by private individuals.
+If you have not logged in, you will be identified by your network IP address. This is a series of four numbers which identifies the Internet address from which you are contacting the wiki. Depending on your connection, this number may be traceable only to a large Internet service provider, or specifically to your school, place of business, or home. It may be possible that the origin of this IP address could be used in conjunction with any interests you express implicitly or explicitly by editing articles to identify you even by private individuals.
 
-It may be either difficult or easy for a motivated individual to connect your network IP address with your real-life identity. Therefore if you are very concerned about privacy, you may wish to log in and publish under a pseudonym. When using a pseudonym, your IP address will not be available to the public, but it will be stored on the wiki servers for a relatively short amount of time. Thus it will be available to developers and may be released under certain circumstances (see below).
+It may be either difficult or easy for a motivated individual to connect your network IP address with your real-life identity. Therefore if you are very concerned about privacy, you may wish to log in and publish under a pseudonym.
 
-If you use a company mail server from home or telecommute and use a DSL or cable internet connection, it is likely to be very easy for your employer to identify your IP address and find all of your IP based Wikimedia project contributions. Using a user name is a better way of preserving your privacy in this situation. However, remember to disconnect yourself after using a pseudonym to avoid allowing others to use your identity.
+When using a pseudonym, your IP address will not be available to the public except in cases of abuse, including vandalism of a wiki page by you or by another user with the same IP address. In all cases, your IP address will be stored on the wiki servers and can be seen by Wikimedia's server administrators and by users who have been granted "[CheckUser](http://meta.wikimedia.org/wiki/CheckUser "meta:CheckUser")" access. Your IP address, and its connection to any usernames that share it may be released under certain circumstances (see below).
+
+If you use a company mail server from home or telecommute and use a DSL or cable Internet connection, it is likely to be very easy for your employer to identify your IP address and find all of your IP based Wikimedia project contributions. Using a user name is a better way of preserving your privacy in this situation. However, remember to log out or disconnect yourself after each session using a pseudonym on a shared computer, to avoid allowing others to use your identity.
 
 ### Cookies
 
@@ -64,13 +64,13 @@ More cookies may be set when you log in, to avoid typing in your user name (or o
 
 ### Passwords
 
-Many aspects of the Wikimedia projects community interactions depend on the reputation and respect that is built up through a history of valued contributions. User passwords are the only guarantee of the integrity of a user's edit history. All users are encouraged to select strong passwords and to never share them. No one shall knowingly expose the password of another user to public release either directly or indirectly.
+Many aspects of the Wikimedia projects' community interactions depend on the reputation and respect that is built up through a history of valued contributions. User passwords are the only guarantee of the integrity of a user's edit history. All users are encouraged to select strong passwords and to never share them. No one shall knowingly expose the password of another user to public release either directly or indirectly.
 
 ## Private logging
 
 Every time you visit a web page, you send a lot of information to the web server. Most web servers routinely maintain access logs with a portion of this information, which can be used to get an overall picture of what pages are popular, what other sites link to this one, and what web browsers people are using. It is not the intention of the Wikimedia projects to use this information to keep track of legitimate users.
 
-These logs are used to produce the [site statistics pages](http://meta.wikimedia.org/stats/ "http://meta.wikimedia.org/stats/"); the raw log data is not made public, and is normally discarded after about two weeks.
+These logs are used to produce the [site statistics pages](http://meta.wikimedia.org/wiki/Statistics "http://meta.wikimedia.org/wiki/Statistics"); the raw log data is not made public, and is normally discarded after about two weeks.
 
 Here's a sample of what's logged for one page view:
     
@@ -81,17 +81,17 @@ Here's a sample of what's logged for one page view:
     "Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/85.7 (KHTML, like Gecko) Safari/85.5"
     
 
-Log data may be examined by developers in the course of solving technical problems, in tracking down badly-behaved web spiders that overwhelm the site, or very rarely to correlate usernames and network addresses of edits in investigating abuse of the wiki.
+Log data may be examined by developers in the course of solving technical problems and in tracking down badly-behaved web spiders that overwhelm the site. IP addresses of users, derived either from those logs or from records in the database are frequently used to correlate usernames and network addresses of edits in investigating abuse of the wiki, including the suspected use of malicious "sockpuppets" (duplicate accounts), vandalism, harassment of other users, or disruption of the wiki.
 
 ### Policy on release of data derived from page logs
 
-It is the policy of Wikimedia that personally identifiable data collected in the server logs will not be released by the developers who have access to it, except as follows:
+It is the policy of Wikimedia that personally identifiable data collected in the server logs, or through records in the database via the CheckUser feature, may be released by the system administrators or users with CheckUser access, in the following situations:
 
   1. In response to a valid subpoena or other compulsory request from law enforcement
   2. With permission of the affected user
-  3. To Jimbo Wales, his legal counsel, or his designee, when necessary for investigation of abuse complaints.
+  3. To the chair of Wikimedia Foundation, his legal counsel, or his designee, when necessary for investigation of abuse complaints.
   4. Where the information pertains to page views generated by a spider or bot and its dissemination is necessary to illustrate or resolve technical issues.
-  5. Where the user has been vandalising articles or persistently behaving in a disruptive way, data may be released to assist in the targetting of IP blocks, or to assist in the formulation of a complaint to relevant Internet Service Providers
+  5. Where the user has been vandalising articles or persistently behaving in a disruptive way, data may be released to assist in the targeting of IP blocks, or to assist in the formulation of a complaint to relevant Internet Service Providers
   6. Where it is reasonably necessary to protect the rights, property or safety of the Wikimedia Foundation, its users or the public.
 
 
@@ -106,49 +106,54 @@ Wikimedia will not sell or share private information, such as email addresses, w
 
 ## Security of information
 
-The Wikimedia Foundation makes no guarantee against unauthorized access to any information you provide. This information will be available to all [developers](http://meta.wikimedia.org/wiki/developers "m:developers") with access to the servers.
+The Wikimedia Foundation makes no guarantee against unauthorized access to any information you provide. This information may be available to anyone with access to the servers. A partial list of those people can be found in the [developers](http://meta.wikimedia.org/wiki/developers "m:developers") list.
 
 ## E-mail, mailing lists and IRC
 
 ### E-mail
 
-You may provide your e-mail address in your Preferences. This allows other logged-in users may send email to you through the wiki (unless you disable this in your preferences). Your address will not be revealed to them unless you respond, or possibly if the email bounces. The email address may be used by the Wikimedia Foundation to communicate with users on a wider scale.
+You may provide your e-mail address in your Preferences and enable other logged-in users to send email to you through the wiki. Your address will not be revealed to them unless you respond, or possibly if the email bounces. The email address may be used by the Wikimedia Foundation to communicate with users on a wider scale.
 
-If you do not provide an email address, you will not be able to reset your password if you forget it. However, you may contact one of Wikimedia's developers to enter a new mail address in your preferences.
+If you do not provide an email address, you will not be able to reset your password if you forget it. However, you may contact one of the Wikimedia server administrators to enter a new mail address in your preferences.
 
 You can remove your email address from your preferences at any time to prevent it being used.
 
 ### Mailing lists
 
-If you subscribe to one of the project [mailing lists](http://mail.wikimedia.org/ "http://mail.wikimedia.org/"), your address will be exposed to any other subscriber. The list archives of most of Wikimedia's mailing lists are public, and your address may find itself quoted in messages. The list archives are also archived by Gmane services. Mails are usually not deleted or modified, but it may be done in extreme cases.
+If you subscribe to one of the project [mailing lists](http://mail.wikimedia.org/ "http://mail.wikimedia.org/"), your address will be exposed to any other subscriber. The list archives of most of Wikimedia's mailing lists are public, and your address may find itself quoted in messages. The list archives are also archived by Gmane and other services. Mails are usually not deleted or modified, but it may be done in extreme cases.
 
 ### Information email addresses
 
-Some email addresses (see below) may forward mail to a team of volunteers trusted by the community to use a ticket system (OTRS) to view them and answer them. Mail sent to the system is not publicly visible, but is visible to this group of Wikimedia editors. By sending a mail to one of these addresses, your address may become public within this group. The OTRS team may discuss the contents of your mail with other contributors in order to best answer your query.
+Some email addresses (see below) may forward mail to a team of volunteers trusted by the Foundation to use a ticket system such as OTRS to view them and answer them. Mail sent to the system is not publicly visible, but is visible to this group of Wikimedia volunteers. By sending a mail to one of these addresses, your address may become public within this group. The ticket system team may discuss the contents of your mail with other contributors in order to best answer your query.
 
-Addresses that direct to OTRS system are:
+Addresses that direct to the ticket system system include:
 
-  * info-de@wikipedia.org
-  * info-en@wikipedia.org
+  * info-de AT wikipedia DOT org
+  * info-en AT wikipedia DOT org
+  * info-es AT wikipedia DOT org
+  * info-fr AT wikipedia DOT org
+  * info-it AT wikipedia DOT org
+  * info-nl AT wikipedia DOT org
+  * info-pl AT wikipedia DOT org
 
 
 
-Mail to board@wikimedia.org or to board member's private addresses may also be forwarded to the OTRS team.
+Mail to board AT wikimedia DOT org or to board members' private addresses may also be forwarded to the OTRS team.
 
 ### IRC
 
-[IRC channels](http://meta.wikimedia.org/wiki/IRC_channels "m:IRC channels") are not officially part of Wikimedia proper. By participating to an IRC channel, your IP address will be exposed to other participants. Different channels have different policies on whether logs may be published.
+[IRC channels](http://meta.wikimedia.org/wiki/IRC_channels "m:IRC_channels") are not officially part of Wikimedia proper. By participating in an IRC channel, your IP address may be exposed to other participants. Different channels have different policies on whether logs may be published.
 
 ## User data
 
-Data on users, such as the times at which they edited and the number of edits they have made are publicly available via "user contributions" lists, and occasionally in aggregated forms published by other users.
+Data on users, such as the times at which they edited and the number of edits they have made are publicly available via "user contributions" lists, and in aggregated forms published by other users.
 
 ### Removal of user accounts
 
-Once created, user accounts can not be removed. It may be possible for a developer to change the username on an account, but you will need to request this yourself. The Wikimedia Foundation does not guarantee that a name will be changed on request. See [meta:Right to vanish](http://meta.wikimedia.org/wiki/Right_to_vanish "meta:Right to vanish") for further details.
+Once created, user accounts will not be removed. It may be possible for a username to be changed (depending on the policies of your local wiki and on the number of edits you have). The Wikimedia Foundation does not guarantee that a name will be changed on request.
 
 Whether specific user information is deleted is dependant on the deletion policies of the project that contains the information.
 
 ## Deletion of content
 
-Deleting text from Wikimedia projects does not really delete them. In normal articles, anyone can look at a previous version and see what was there. If an article is "deleted", any sysop/administrator, meaning almost anyone trusted not to abuse the deletion capability, can see what was deleted. Only a developer can permanently delete information from the Wikimedia projects and there is no guarantee this will happen except in response to legal action.
+Removing text from Wikimedia projects does not permanently delete it. In normal articles, anyone can look at a previous version and see what was there. If an article is "deleted", any user with "administrator" access on the wiki, meaning almost anyone trusted not to abuse the deletion capability, can see what was deleted. Information can be permanently deleted by those people with access to the servers, but there is no guarantee this will happen except in response to legal action.
