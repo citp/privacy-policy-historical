@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the barco.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616124051id_/http%3A//www.barco.com/AboutBarco/en/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barco.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118071924id_/http%3A//www.barco.com/AboutBarco/en/privacy.asp) for the most accurate reproduction.*
 
 # Barco | Privacy policy
 
-****Barco values your interest in our firm and products and your visit to our internet site. This privacy statement is made available to you in order to make you aware of how Barco collects and uses individual identifying information of visitors to Barco’s website. Barco respects and protects the privacy of the individuals that visit the Barco website and individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission as explained in this privacy policy. 
+Barco values your interest in our firm and products and your visit to our internet site. This privacy statement is made available to you in order to make you aware of how Barco collects and uses individual identifying information of visitors to Barco’s website. 
+
+Barco respects and protects the privacy of the individuals that visit the Barco website and individually identifiable information about you is not willfully disclosed to any third party without first receiving your permission as explained in this privacy policy. 
 
 **What information do we collect and for which purposes?  
 ** On the Barco website(s), personal details are collected from the forms on our website that you are required to fill in whenever you order a product or service, subscribe to a newsletter, request information, make use of a service offered by means of the web site or participate in survey or contest. **** ****
