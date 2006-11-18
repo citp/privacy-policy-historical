@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goneclicking.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615150203id_/http%3A//goneclicking.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goneclicking.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118182703id_/http%3A//goneclicking.com/privacy.php) for the most accurate reproduction.*
 
 # Gone Clicking
 
@@ -12,7 +12,7 @@ Gone Clicking may require the use of cookies to store login session information.
 
 Gone Clicking merely serves as a directory of other websites and is therefore not responsible for the privacy practices and/or content of those websites. 
 
-Financial information is used solely to bill the user for products and/or services. All personal, credit card, and bank account information is transferred by separate institution (i.e. PayPal.com or StormPay.com) over secure SSL encrypted Internet connections and is not stored on Gone Clicking servers.
+Financial information is used solely to bill the user for products and/or services. All personal, credit card, and bank account information is transferred by separate institution (i.e. PayPal.com or SafePay) over secure SSL encrypted Internet connections and is not stored on Gone Clicking servers.
 
   
 
