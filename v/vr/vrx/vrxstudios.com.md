@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vrxstudios.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622000431id_/http%3A//vrxstudios.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrxstudios.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118043148id_/http%3A//vrxstudios.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - VRX Studios
 
