@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the policeauctions.com privacy policy that was archived on 2005-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051018170119id_/http%3A//www.policeauctions.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policeauctions.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118224058id_/http%3A//www.policeauctions.com/privacy.php) for the most accurate reproduction.*
 
-# #1 PoliceAuctions.com
+# Privacy Policy
 
 **Police Auctions.com Privacy Statement**
 
