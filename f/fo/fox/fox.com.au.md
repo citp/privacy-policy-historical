@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222410id_/http%3A//www.fox.com.au/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox.com.au privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118084941id_/http%3A//www.fox.com.au/footer/privacy_policy) for the most accurate reproduction.*
 
 # FOX - Privacy Policy
 
