@@ -1,21 +1,16 @@
-> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2006-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060419013121id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118104122id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
 
 # TamiyaUSA.com Privacy Statement
 
-[](https://web.archive.org/product/outlet.php)
-
-  
-
-
 [](https://web.archive.org/product/rcpss.php)
 
-  
 |   
 ---  
-| 4/11 [Tamiya/Con 2006 Results](https://web.archive.org/articles/feature.php?article-id=190) |   
-| 4/10 [TRF415MSX Wins Again: Marc Rheinard wins 2006 pre-Championship ](http://www.afmodels.com/world2/index.htm) |   
-| 4/4 [Builders Showcase #7](https://web.archive.org/articles/feature.php?article-id=188) |   
-| 12/1 [TCS 2006 Rules Posted](https://web.archive.org/tcs_races/index.php) |   
+| 11/2 [Builders Showcase #14](https://web.archive.org/articles/feature.php?article-id=248) |   
+| 11/2 [Tamiya Halloween Enduro results!](https://web.archive.org/web/20061118104122id_/http%3A//www.tamiyausa.com/articles/feature.php?article-id=247) |   
+| 10/27 [RC 30th Anniversary](https://web.archive.org/articles/feature.php?article-id=246) |   
+| 10/26 [November Tamiya Calendars](https://web.archive.org/product/stuff.php) |   
+| 9/1 [F-350 High-Lift Ultimate Build Contest](https://web.archive.org/web/20061118104122id_/http%3A//www.tamiyausa.com/articles/feature.php?article-id=237) |   
 [More News...](https://web.archive.org/news/index.php) |   
 |  |   
 ---|---  
