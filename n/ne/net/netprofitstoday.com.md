@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netprofitstoday.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064850id_/http%3A//netprofitstoday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netprofitstoday.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118172054id_/http%3A//netprofitstoday.com/privacy.html) for the most accurate reproduction.*
 
-# RosalindGardner.com - Privacy Statement
+# Privacy Statement
 
 NetProfitsToday.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **NetProfitsToday.com**. 
 
@@ -8,7 +8,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 This site contains links to other sites. **NetProfitsToday.com** is not responsible for the privacy practices or the content of such Web sites. 
 
-**NetProfitsToday.com** employs the services of Aweber for the 'Net Profits Coach' newsletter. Aweber and **NetProfitsToday.com** agree not to sell or rent the email addresses of any List Owner or List Member to any third party.
+**NetProfitsToday.com** employs the services of Aweber for the 'Net Profits Today' newsletter. Aweber and **NetProfitsToday.com** agree not to sell or rent the email addresses of any List Owner or List Member to any third party.
 
 ******Public Forums**
 
@@ -18,13 +18,15 @@ This site may make chat rooms, forums, message boards, and/or news groups availa
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to NetProfitsToday.com by [clicking here.](https://web.archive.org/web/20060615064850id_/http%3A//netprofitstoday.com/contact.html)
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to NetProfitsToday.com by [clicking here.](https://web.archive.org/web/20061118172054id_/http%3A//netprofitstoday.com/_contact/)
 
 **Correct/Update**
 
-This site gives users the following options for changing and modifying information previously provided. Change or modify information [here](https://web.archive.org/web/20060615064850id_/http%3A//netprofitstoday.com/contact.html).
+This site gives users the following options for changing and modifying information previously provided. Change or modify information [here](https://web.archive.org/web/20061118172054id_/http%3A//netprofitstoday.com/_contact/).
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact [contact us.](https://web.archive.org/web/20060615064850id_/http%3A//netprofitstoday.com/contact.html)  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact [contact us.](https://web.archive.org/web/20061118172054id_/http%3A//netprofitstoday.com/_contact/)  
 
+
+* * *
