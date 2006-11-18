@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619025842id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickies.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118033403id_/http%3A//www.dickies.com/web/policy.asp) for the most accurate reproduction.*
 
 # Dickies® ~ Privacy Policy
 
@@ -98,45 +98,29 @@ All individuals submitting unsolicited ideas agree to the following:**
 PRIVACY SUPPORT   
 If you have any further inquires related to this privacy policy, please contact us with your request at [customerservice@dickies.com](mailto:customerservice@dickies.com)
 
-Return  |   Summer Wear  
----  
-| [](https://web.archive.org/wc2/category_whatsnew.asp)  
-|   
-  What's New in June  
+Return  |   *Holiday Bonus*  
 ---  
 | 
 
-TOP STORIES
-
-2006 Dickies 500 Race for the Riches!  
-[ [read more](https://web.archive.org/web/news/top_stories.asp#Dickies500) ]
-
-TOP STORIES
+Free Standard Shipping from Nov 15th thru Jan 15th within the continental U.S. Applies to Standard, Military APO/FPO and PO Box shipping. |   
+  What's New in November  
+---  
+| 
 
 [](https://web.archive.org/web/redirect.asp?target=http%3A%2F%2Fwww%2Eworkeroftheyear%2Ecom%2F)
 
-The nominations are all in!  
-[ [read more](https://web.archive.org/web/news/top_stories.asp#AWOTYSearch) ]
+And the winner is...  
+[ [read more](https://web.archive.org/web/news/top_stories.asp#AWOTYvote) ]
 
-NEWS STAND
+"Who won the Dickies Race for the Riches?"  
+[ [read more](https://web.archive.org/web/news/top_stories.asp#Dickies500) ]
 
-"US WEEKLY" and "PEOPLE" both snapped Britney and Kevin in Dickies  
-[ [read more](https://web.archive.org/web/news/magazines.asp) ]
+Free Gas
 
-MUSIC
+[](https://web.archive.org/web/gas/default.asp)
 
-Trick Daddy in a gray Dickies matched set  
-[ [read more](https://web.archive.org/web/news/music.asp) ]
-
-MOVIES
-
-"The Break Up," starring Jennifer Aniston and Vince Vaughn  
-[ [read more](https://web.archive.org/web/news/movies.asp) ]
-
-TV
-
-VH1's "Best Week Ever" Paul Scheer wearing Dickies  
-[ [read more](https://web.archive.org/web/news/tv.asp) ]
+Buy some Dickies and we'll buy the gas!  
+[ [read more](https://web.archive.org/web/gas/default.asp) ]
 
 PauseResume **::** [More News](https://web.archive.org/web/news/default.asp)
 
