@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamworklive.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615174521id_/http%3A//www.teamworklive.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamworklive.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118165007id_/http%3A//www.teamworklive.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # TeamWork Live - Privacy Policy
 
@@ -11,7 +11,6 @@ CollectiveSoft takes your privacy seriously. This policy outlines how we treat t
 
   * The data you enter into a CollectiveSoft service belongs to you. We will never sell or share your data.
   * We don't share your information with third parties for marketing purposes.
-  * We don't send you unsolicited communications for marketing purposes.
   * We or other users of the site may provide links to third party websites, which may have different privacy practices. We are not responsible for, nor have any control over, the privacy policies of those third party websites.
 
   
