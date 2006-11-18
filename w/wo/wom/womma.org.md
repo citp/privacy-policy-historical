@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619222052id_/http%3A//womma.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118155846id_/http%3A//www.womma.org/privacy.htm) for the most accurate reproduction.*
 
 # WOMMA: Word of Mouth Marketing Association
 
@@ -6,7 +6,7 @@ This is the web site of Word of Mouth Marketing Association, Inc..
 
 Our postal address is 333 W. North Avenue, #500, Chicago, IL 60610.  
 We can be reached via email at info@womma.com.  
-You can reach us by telephone at 312-335-0035
+You can reach us by telephone at 312-853-4400
 
 For each visitor to our web page, our web server automatically recognizes only the consumer's domain name (where possible), but not the email address.
 
