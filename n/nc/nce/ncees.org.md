@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncees.org privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614152922id_/http%3A//www.ncees.org/introduction/about_ncees/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncees.org privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118160910id_/http%3A//www.ncees.org/introduction/about_ncees/privacy_statement.php) for the most accurate reproduction.*
 
 # Privacy Statement - NCEES
 
@@ -25,5 +25,5 @@ PO Box 1686
 (280 Seneca Creek Road)  
 Clemson, SC 29633
 
-Phone: (864) 654-5459  
+Phone: (864) 624-5459  
 E-mail: [pfenno@ncees.org](mailto:pfenno@ncees.org)
