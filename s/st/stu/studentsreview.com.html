@@ -1,16 +1,78 @@
-<!--The following is the downloaded HTML source of the studentsreview.com privacy policy that was archived on 2003-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031209130909id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studentsreview.com privacy policy that was archived on 2006-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061118053724id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
-<link rel="STYLESHEET" type="text/css" href="http://www.studentsreview.com/sr.css">
-<title>College Reviews : StudentsReview : Over 13100
- Student Reviews!!!</title>
+<html><head>
+<link rel="STYLESHEET" type="text/css" href="http://www2.studentsreview.com/sr.css">
+<title>College Reviews: StudentsReview : Over 44000
+ College Reviews!</title>
    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
    <meta name="GENERATOR" content="Mozilla/4.04 [en] (WinNT; I) [Netscape]">
    <meta name="Author" content="StudentsReview.com UltraForce team">
    <meta name="Keywords" content="Review, USNEWS, University, ranking, information, Love University, Hate University, evaluate, critique, college, review, university, financial aid, advice, graduate,  alumni, higher education, studentsreview.com, studentsreview, reviewcollege.com, Princeton Review, campus safety, survey, college students, chat,  students, internships, discussion groups, Jobs, sports,  graduate schools, clubs,  grades, tests, college life, fraternities, sororities, religion,  colleges, resumes, jobs, money, UCSD, Penn State,  Ohio State, Notre Dame, UCLA, NYU, SDSU, Cal State, MIT, Harvard, Michigan State, University of Illinois, University of Florida,  soul mate, medicine, fashion, library, technology, reviews, music CDs">
    <meta name="Description" content="Reviews of colleges by students, What do students say? Reviews of U.S. 2-year 4-year community colleges by college students and alumni.  H.s. students, see what current students and alumni have to say about the colleges you're interested in!  College students and alumni, review your college and help out prospective students!">
-<script language="JavaScript" src="http://www.studentsreview.com/overlib.js"></script>
+<style type="text/css">
+   html,body{
+      margin:0;
+      padding:0;
+      height:100%;
+      border:none
+   }
+// table { height: 100%; }
+table.left { height: 100%; }
+table.content { height: 100%; }
+</style>
+	<meta name="MSSmartTagsPreventParsing" content="TRUE">
+<script language="JavaScript" src="http://www2.studentsreview.com/overlib.js"></script>
+<script language="Javascript">
+// AutoBlink
+// Puts Google's Autolink on the Blink :)
+// (c) 2005 Chris Ridings   http://www.searchguild.com
+// Redistribute at will but leave this message intact
+// -
+// 5th March - Implemented speed enhancement suggested by the guy who wrote
+// http://www.dougaltoolbar.com/
+// -
+// 5th March - Added additional elements to reduce machine load
+// 5th March - Added option to not remove links but to 
+// rewrite ISBN links as amazon affiliate links!
+// Fill in the following
+// if you wish to do this. e.g.  var amazonaffiliate="goodlookingco-20"
+// Leave as is to remove links in the normal way
+var amazonaffiliate="";
+
+var linkcount;
+function checklinks() {
+ if (!(linkcount==document.links.length)) {
+   // Something changed the links!
+   // Iterate for an id of _goog
+   for (i=0; i < document.links.length; i++) {
+	if (document.links[i].id.substring(0,5)=="_goog") {
+	// If we find an id of _goog then do something
+		if (amazonaffiliate=="") { 
+			// No affiliate id defined so remove the links
+			var tr = document.links[i].parentTextEdit.createTextRange();
+			tr.moveToElementText(document.links[i]);
+			tr.execCommand("Unlink",false);
+			tr.execCommand("Unselect",false);
+			i--;
+		} else {
+			// An affiliate id defined so rewrite ISBN links
+			if (document.links[i].href.indexOf("isbn")>0) {
+var isbn=document.links[i].href.substring(document.links[i].href.indexOf("text")+5,document.links[i].href.length);
+document.links[i].href="http://www.amazon.com/exec/obidos/external-search?search-type=ss&tag=" + amazonaffiliate + "&keyword=" + isbn + "&index=books";
+			}
+		}
+	}
+   }
+  }
+  linkcount = document.links.length;
+  setTimeout("checklinks()",500);
+}
+if (document.getElementById && document.createElement) {
+	linkcount=document.links.length;
+	setTimeout("checklinks()",500);
+}
+</script>
 <script>
 
 function contact_form(){
@@ -39,33 +101,44 @@ function change_U_top(){
 		parent.TEMP.document.location = name_;
 	}
 	}
+
+// ---------------
+function setColor(clr,el) 
+{
+	el.style.backgroundColor=clr;
+}
+
 </script>
+<style type="text/css">
+<!--
+
+A.menu{ border: solid 1px #FFFFFF; }
+
+A:hover.menu{
+  border: solid 1px #EE6060; // #6983B3;
+  background-color: #FFF0F0; // #E1E4F2;
+  text-decoration:none;
+  color: #FF0000;
+}
+//-->
+</style>
+
 </head>
-<body bgcolor="CDC0B0" topmargin="0" rightmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+<body margins="0" topmargin="0" leftmargin="0" rightmargin="0">
 <div id="overDiv" style="position:absolute; visibility:hide;z-index:1;"></div>
-<!-- #003e62 -->
-
-<!---
-various accepted colors of green and blue:
-
--->
-<center>
-&nbsp;<br>
-<table width="736" cellpadding="0" cellspacing="0" border="0" align="center">
-
-<!--? $tfcount = `cat tfcount.txt`; ?-->
-<tbody><tr>
-<td colspan="3">&nbsp;<font size="4" face="Arial" color="880000"><b>StudentsReview :: <!--? if ($sr_title) { echo $sr_title; } else { ?--> <!--  Welcome  -->Over <!--? echo $tfcount; ?-->13100
- College Reviews  <!--? } ?--></b></font>
-<hr> <!-- 8B7D6B -->
-<!-- <p>&nbsp;8B7D6B -->
-</td>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td bgcolor="#FFFFFF" valign="top" width="277" style="width: 277px;"><img src="/1ptrans.gif" height="1" width="277"></td>
+<td colspan="2"><img src="/1ptrans.gif" height="1" width="523"></td>
 </tr>
-
 <tr>
-<td colspan="3">
-<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
-	<form action="http://www.studentsreview.com/cgi-bin/search.pl" method="post" target="_top"></form>
+<td colspan="3" bgcolor="#FFFFFF"><img src="/1ptrans.gif" width="5"><font size="4" color="#880000"><b>StudentsReview :: Over 44000
+ College Reviews!</b></font><br>
+<table width="170" cellpadding="0" cellspacing="1" border="0" bgcolor="#880000">
+<tbody><tr><td bgcolor="#EE0000"><img src="/1ptrans.gif" height="1" border="0"></td></tr>
+</tbody></table><!-- <img src='/1ptrans.gif' height='3' border='0'> -->
+<table width="100%" cellpadding="2" cellspacing="0" border="0" align="center">
+	<form action="http://www2.studentsreview.com/cgi-bin/search.pl" method="post" target="_top"></form>
+
 	<input type="hidden" name="HEADER" value="http://www.studentsreview.com/menu_header.shtml">
 	<input type="hidden" name="FOOTER" value="http://www.studentsreview.com/menu_footer_wrap.shtml">
 	<input type="hidden" name="SITE" value="studentsreview.com">
@@ -73,260 +146,691 @@ various accepted colors of green and blue:
 	<input type="hidden" name="RANGE" value="20">
 	<tbody><tr><td valign="top">
 	
-	<div align="left">&nbsp;<a href="http://www.studentsreview.com"><font color="fffaf0">[Home]</font></a>&nbsp;<a href="http://www.studentsreview.com/faq.shtml"><font color="fffaf0">[Faq]</font></a>&nbsp;<a href="http://www.studentsreview.com/helpus.shtml"><font color="fffaf0">[Help us]</font></a></div>
-	
-	</td><td valign="top">
-	<div align="right"><font color="8B7D6B">Search for University or Topic:&nbsp;<font face="Arial" size="2"><input type="textbox" size="20" name="SEARCH">&nbsp;<input type="submit" value="go"></font></font></div><font color="8B7D6B">
+	<div align="left">&nbsp;<font color="#B70000"> [<a href="http://www.studentsreview.com" class="menu" target="_top"><font color="#880000"><img src="/1ptrans.gif" width="2" border="0">Home<img src="/1ptrans.gif" width="2" border="0"></font></a>]<img src="/1ptrans.gif" width="2" border="0">[<a href="http://www.studentsreview.com/faq.shtml" class="menu" target="_top"><font color="#880000"><img src="/1ptrans.gif" width="2" border="0">Faq<img src="/1ptrans.gif" width="2" border="0"></font></a>]<img src="/1ptrans.gif" width="2" border="0">[<a href="https://www2.studentsreview.com/members/" class="menu" target="_top"><font color="#880000"><img src="/1ptrans.gif" width="2" border="0">Members<img src="/1ptrans.gif" width="2" border="0"></font></a>]<img src="/1ptrans.gif" width="100" height="1" border="0"><!--[<a href='' 
+class='menu'><font color='fffaf0'><img src='/1ptrans.gif' width='2' border='0'>Login<img src='/1ptrans.gif' 
+width='2' border='0'></font></a>]--><!--<a href="http://www.studentsreview.com/helpus.php3"><font 
+color='fffaf0'>[Help out!]</font></a>&nbsp;<a href="http://www2.studentsreview.com/members/"><font 
+color='fffaf0'>[Members-Login]</font></a>--></font></div><font color="#B70000">
+
+
+	</font></td><td valign="top">
+	<div align="right"><font color="000000">Search for University<!-- or Topic-->:&nbsp;<font face="Arial" size="2"><input type="textbox" size="20" name="SEARCH">&nbsp;<input type="submit" value="go"></font></font></div><font color="000000">
 	</font></td></tr>
 	
 </tbody></table>
-<p>&nbsp;
-</p></td>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="3" bgcolor="#EC0419"><img src="/1ptrans.gif" height="6"></td>
+</tr>
+
+<tr>
+<td colspan="3" bgcolor="#D80014"><img src="/1ptrans.gif" height="6"></td>
+</tr>
+
+<tr>
+<td colspan="3" bgcolor="#FFFFFF"><img src="/1ptrans.gif" height="3"></td>
+</tr>
+
+<tr>
+<td colspan="3" bgcolor="#B30313"><img src="/1ptrans.gif" height="3"></td>
+</tr>
+<tr>
+<td colspan="3" bgcolor="#7F000C"><img src="/1ptrans.gif" height="4"></td>
+</tr>
+
+
+
+<tr>
+<td colspan="3" bgcolor="#FFFFFF">
+<!-- community, books, fun -->
+
+<!-- DHTML Menu Builder Loader Code START -->
+<div id="DMBRI" style="position:absolute;">
+<img src="/menus/images/dmb_i.gif" name="DMBImgFiles" width="1" height="1" border="0" alt="">
+<img src="/menus/dmb_m.gif" name="DMBJSCode" width="1" height="1" border="0" alt="">
+</div>
+<script language="JavaScript" type="text/javascript">
+var rimPath=null;var rjsPath=null;var rPath2Root=null;function InitRelCode(){var iImg;var jImg;var tObj;if(!document.layers){iImg=document.images['DMBImgFiles'];jImg=document.images['DMBJSCode'];tObj=jImg;}else{tObj=document.layers['DMBRI'];if(tObj){iImg=tObj.document.images['DMBImgFiles'];jImg=tObj.document.images['DMBJSCode'];}}if(!tObj){window.setTimeout("InitRelCode()",700);return false;}rimPath=_gp(iImg.src);rjsPath=_gp(jImg.src);rPath2Root=rjsPath+"../";return true;}function _purl(u){return xrep(xrep(u,"%%REP%%",rPath2Root),"\\","/");}function _fip(img){if(img.src.indexOf("%%REL%%")!=-1) img.src=rimPath+img.src.split("%%REL%%")[1];return img.src;}function _gp(p){return p.substr(0,p.lastIndexOf("/")+1);}function xrep(s,f,n){if(s) s=s.split(f).join(n);return s;}InitRelCode();
+</script>
+<script language="JavaScript" type="text/javascript">
+function LoadMenus() {if(!rjsPath){window.setTimeout("LoadMenus()", 1);return false;}var navVer = navigator.appVersion;
+if(navVer.substr(0,3) >= 4)
+if((navigator.appName=="Netscape") && (parseInt(navigator.appVersion)==4)) {
+document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + "http://www2.studentsreview.com/menus/" + 'nsmenu.js"><\/script\>');
+} else {
+document.write('<' + 'script language="JavaScript" type="text/javascript" src="' + "http://www2.studentsreview.com/menus/" + 'iemenu.js"><\/script\>');
+}return true;}LoadMenus();</script><script language="JavaScript" type="text/javascript" src="http://www2.studentsreview.com/menus/iemenu.js"></script>
+<!-- DHTML Menu Builder Loader Code END -->
+
+<img border="0" src="http://www.studentsreview.com/1ptrans.gif" width="600" height="3" name="MENUANCHOR" align="right">
+<img border="0" src="http://www.studentsreview.com/1ptrans.gif" height="10" width="790">
+
+
+
+
+</td>
+</tr>
+
+<tr>
+<td bgcolor="#82020E" valign="top" width="277" style="width: 277px;"><img src="http://www2.studentsreview.com/sr_newlogo_2005_sm.jpg" border="0"></td>
+<td bgcolor="#82020E" valign="bottom" colspan="2">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr>
+<td colspan="3" bgcolor="#FFFFFF"><img src="/1ptrans.gif" height="9" width="1"></td>
+</tr>
+
+<tr>
+<td colspan="3" bgcolor="#B30313"><img src="/1ptrans.gif" height="16" width="1"></td>
+</tr>
+<tr>
+<td colspan="3" bgcolor="#FF0017"><img src="/1ptrans.gif" height="2" width="1"></td>
+</tr>
+
+<tr bgcolor="#82020E">
+<td></td>
+
+<td valign="middle">
+<table align="center" cellpadding="2" border="0" cellspacing="0">
+<tbody><tr><td>
+
+<table>
+<form action="http://www.studentsreview.com/typesearch.php3" method="post"></form>
+<tbody><tr><td>
+<!-- <br><select name="CLASSIFICATION" style="color:green;font-size:16px;font-weight:bold; width:300" size="1"> -->
+<font face="Arial" color="#FFFFFF"><b>Look for Schools</b></font>
+<br><select name="CLASSIFICATION" style="color:#000000;font-size:10px;" size="1">
+<option value="">All Schools</option>
+<option value="">---------------------: By student body </option>
+<option value="Mostly African American, or d_blacknonhispanic>60">Mostly African American</option>
+<option value="Mostly Caucasian, or d_whitenonhispanic>60">Mostly Caucasian (white)</option>
+<option value="Mostly Female, or Female>60">Mostly Female</option>
+<option value="Mostly Male, or Male>60">Mostly Male</option>
+<option value="">---------------------: By school size </option>
+
+<option value="Big Schools (> 10000 students), or (Ugrad + Grad)>9900">Big: &nbsp;10,000+ </option>
+<option value="Medium Size Schools (2000 < 10000), or ((Ugrad + Grad)>1900 AND (Ugrad + Grad)<10100)">Med: 
+2,000 - 10,000 </option>
+<option value="Small Schools (< 2000 students), or ((Ugrad + Grad)<2100 AND (Ugrad + Grad)>1)">Sm: 
+&nbsp;&nbsp;&lt; 2,000 </option>
+<option value="">---------------------: By school type </option>
+<option value="Schools of art% music% and design">Art, music, &amp; design</option>
+<option value="Schools of business and management">Business &amp; management</option>
+<option value="Christian and Bible Colleges, or Classification_1='Christian' and not PUID">Christian and Bible 
+Colleges</option>
+
+<option value="Schools of engineering and technology">Engineering Schools</option>
+<option value="Schools of law">Law Schools</option>
+<option value="Medical schools and medical centers">Medical schools</option>
+<option value="Teachers colleges">Teachers colleges</option>
+<option value="Theological seminaries">Theological/faith seminaries</option>
+<option value="Associate's Colleges">Associate's Colleges</option>
+<option value="Baccalaureate Colleges-General">General Colleges</option>
+<option value="Baccalaureate Colleges-Liberal Arts">Liberal Arts Colleges </option>
+<option value="Doctoral/Research Universities">Doctoral/Research Universities</option>
+
+<option value="Master's Colleges and Universities">Master's Colleges/Universities</option>
+<option value="Other separate health profession schools">Other health prof. schools</option>
+<option value="Tribal colleges and universities">Tribal colleges/univ.</option>
+<option value="Other specialized institutions">Other specialized</option>
+
+</select>
+<center>
+<select name="STATE" style="color:#000000;font-size:10px;" size="1">
+<option value="NC' or state='NJ' or state='DC' or state='VA' or state='WV' or state='PA' or state='MD,East" selected="">East</option>
+<option value="MI' or state='IL' or state='WI' or State='MO' or state='OH' or state='KY' or state='IN' or 
+state='IA' or state='MN,Midwest">Midwest</option>
+<option value="ME' or state='VT' or state='NH' or state='CT' or state='DE' or state='MA' or 
+state='NY,North/East">North/East</option>
+
+<option value="WA' or state='OR' or state='MT' or state='ID' or state='AK' or state='CO,Northwest">Northwest</option>
+<option value="AL' or State='KS' or State='MS' or State='FL' or State='GA' or State='SC' or State='LA' or 
+State='TN' or State='AR,South/East">South/East</option>
+<option value="CA' or state='NV' or state='AZ' or state='UT' or state='HI' or state='TX' or 
+state='NM,Southwest">Southwest</option>
+
+<option value="">Any State</option>
+<option value="AK">AK </option>
+<option value="AL">AL </option>
+<option value="AR">AR </option>
+<option value="AS">AS </option>
+
+<option value="AZ">AZ </option>
+<option value="CA">CA </option>
+<option value="CO">CO </option>
+<option value="CT">CT </option>
+<option value="DC">DC </option>
+<option value="DE">DE </option>
+<option value="FL">FL </option>
+<option value="FM">FM </option>
+<option value="GA">GA </option>
+
+<option value="GU">GU </option>
+<option value="HI">HI </option>
+<option value="IA">IA </option>
+<option value="ID">ID </option>
+<option value="IL">IL </option>
+<option value="IN">IN </option>
+<option value="KS">KS </option>
+<option value="KY">KY </option>
+<option value="LA">LA </option>
+
+<option value="MA">MA </option>
+<option value="MD">MD </option>
+<option value="ME">ME </option>
+<option value="MH">MH </option>
+<option value="MI">MI </option>
+<option value="MN">MN </option>
+<option value="MO">MO </option>
+<option value="MP">MP </option>
+<option value="MS">MS </option>
+
+<option value="MT">MT </option>
+<option value="NC">NC </option>
+<option value="ND">ND </option>
+<option value="NE">NE </option>
+<option value="NH">NH </option>
+<option value="NJ">NJ </option>
+<option value="NM">NM </option>
+<option value="NV">NV </option>
+<option value="NY">NY </option>
+
+<option value="OH">OH </option>
+<option value="OK">OK </option>
+<option value="OR">OR </option>
+<option value="PA">PA </option>
+<option value="PR">PR </option>
+<option value="PW">PW </option>
+<option value="RI">RI </option>
+<option value="SC">SC </option>
+<option value="SD">SD </option>
+
+<option value="TN">TN </option>
+<option value="TX">TX </option>
+<option value="UT">UT </option>
+<option value="VA">VA </option>
+<option value="VI">VI </option>
+<option value="VT">VT </option>
+<option value="WA">WA </option>
+<option value="WI">WI </option>
+<option value="WV">WV </option>
+
+<option value="WY">WY </option>
+<option value="Canada">Canada </option>
+
+</select> &nbsp; <input type="submit" value="Search" name="SEARCH" style="color:#000000;font-size:10px;" size="1">
+</center>
+
+</td></tr>
+
+</tbody></table>
+
+</td></tr>
+
+
+<tr><td>
+
+<!-- <img src='/1ptrans.gif' height='8' width='280'><br> -->
+<font face="Arial" color="#FFFFFF"><b>or look for a specific school</b></font><br>
+
+<iframe src="http://www.studentsreview.com/univ_quickjump.php3?state=" name="iscroll1" width="275" height="56" clip="0,0,510,50" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" bgcolor="#77010A">
+<ILAYER name="nscroll1" id="nscroll1" SRC="http://www.studentsreview.com/univ_quickjump.php3?state" width=275 height=56 clip="0,0,510,50"  marginwidth="0" marginheight="0" frameborder="0" scrolling="no" bgcolor='#77010A'>
+<center><b><font color='red'>The university selector is not visible by this browser.</font></b></center>
+
+</ILAYER></iframe>
+</td></tr>
+<!-- <img src='/1ptrans.gif' height='8' width='280'><br> -->
+
+	<form action="http://www.studentsreview.com/typesearch.php3" method="post"></form>
+<tr><td>
+<font face="Arial" color="#FFFFFF"><b>or within distance of city</b></font>
+<br>
+<select name="DISTANCE" style="color:#000000;font-size:10px;" size="1">
+<option value="1">1mi</option>
+<option value="5">5mi</option>
+<option value="10">10mi</option>
+
+<option value="20">20mi</option>
+<option value="30">30mi</option>
+<option value="40">40mi</option>
+<option value="50">50mi</option>
+<option value="60">60mi</option>
+<option value="70">70mi</option>
+<option value="80">80mi</option>
+<option value="90">90mi</option>
+<option value="100">100mi</option>
+
+<option value="150">150mi</option>
+<option value="200">200mi</option>
+<option value="200">250mi</option>
+</select>
+<input type="textbox" name="DCITY" size="11" style="color:#000000;font-size:10px;" value="(city)" onclick="if (this.value=='(city)') { this.value='';}">
+<select name="DSTATE" style="color:#000000;font-size:10px;" size="1">
+<option value="AK">AK </option>
+<option value="AL">AL </option>
+<option value="AR">AR </option>
+<option value="AS">AS </option>
+
+<option value="AZ">AZ </option>
+<option value="CA">CA </option>
+<option value="CO">CO </option>
+<option value="CT">CT </option>
+<option value="DC">DC </option>
+<option value="DE">DE </option>
+<option value="FL">FL </option>
+<option value="FM">FM </option>
+<option value="GA">GA </option>
+
+<option value="GU">GU </option>
+<option value="HI">HI </option>
+<option value="IA">IA </option>
+<option value="ID">ID </option>
+<option value="IL">IL </option>
+<option value="IN">IN </option>
+<option value="KS">KS </option>
+<option value="KY">KY </option>
+<option value="LA">LA </option>
+
+<option value="MA">MA </option>
+<option value="MD">MD </option>
+<option value="ME">ME </option>
+<option value="MH">MH </option>
+<option value="MI">MI </option>
+<option value="MN">MN </option>
+<option value="MO">MO </option>
+<option value="MP">MP </option>
+<option value="MS">MS </option>
+
+<option value="MT">MT </option>
+<option value="NC">NC </option>
+<option value="ND">ND </option>
+<option value="NE">NE </option>
+<option value="NH">NH </option>
+<option value="NJ">NJ </option>
+<option value="NM">NM </option>
+<option value="NV">NV </option>
+<option value="NY">NY </option>
+
+<option value="OH">OH </option>
+<option value="OK">OK </option>
+<option value="OR">OR </option>
+<option value="PA">PA </option>
+<option value="PR">PR </option>
+<option value="PW">PW </option>
+<option value="RI">RI </option>
+<option value="SC">SC </option>
+<option value="SD">SD </option>
+
+<option value="TN">TN </option>
+<option value="TX">TX </option>
+<option value="UT">UT </option>
+<option value="VA">VA </option>
+<option value="VI">VI </option>
+<option value="VT">VT </option>
+<option value="WA">WA </option>
+<option value="WI">WI </option>
+<option value="WV">WV </option>
+
+<option value="WY">WY </option>
+
+</select>
+<input type="submit" value="Search" name="SEARCH" style="color:#000000;font-size:10px;" size="1">
+
+</td></tr>
+
+</tbody></table>
+
+
+</td>
+
+<td valign="middle">
+
+<table align="center" cellpadding="0" border="0" cellspacing="0" width="100%">
+<tbody><tr><td>
+<font size="3" face="Arial" color="#FFFFFF"><b>&gt; Rate Your School!</b></font>
+<br><a href="/index_r_u.html" target="_top"><font color="#ffffff">undergraduate</font></a><font color="#ffffff">, 
+<a href="/index_r_g.html" target="_top"><font color="#ffffff">graduate</font></a><font color="#ffffff">, 
+<a href="/index_r_a.html" target="_top"><font color="#ffffff">alumni</font></a><font color="#ffffff">
+<br><a href="/review_m.php3" target="_top"><font color="#ffffff">medical school</font></a><font color="#ffffff">, 
+<a href="/review_distance_education.php3" target="_top"><font color="#ffffff">distance ed.</font></a><font color="#ffffff">
+
+<p><font size="3" face="Arial" color="#FFFFFF"><b>&gt; Upload a Pic!</b></font>
+<br><a href="http://www.studentsreview.com/index_gb_p.html" target="_top"><font color="#ffffff">campus photo</font></a><font color="#ffffff">, <a href="http://www.studentsreview.com/add_studentgroup.php3" target="_top"><font color="#ffffff">student group!</font></a><font color="#ffffff">
+
+</font></font></p><p><font color="#ffffff"><font color="#ffffff"><a href="http://www.studentsreview.com/professors/" target="_top"><font size="3" face="Arial" color="#FFFFFF"><b>&gt; Rate Your Professors</b></font>
+<br><font color="#ffffff">Are your grades meaningful?</font></a>
+<br><img src="/1ptrans.gif" height="8" width="255">
+
+</font></font></p></font></font></font></font></font></td></tr>
+</tbody></table>
+
+
+</td>
+
+</tr>
+
+
+</tbody></table>
+
+</td>
+
 </tr>
 
 
 
 
-<!--
-
-<font size="1">	Answers to the questions students wished they had known to ask.</div></td>
-
--->
+<tr>
+<td colspan="3" bgcolor="#F00319"><img src="/1ptrans.gif" height="5" width="1"></td>
+</tr>
 
 <tr>
+<td colspan="3" bgcolor="#FFFFFF"><img src="/1ptrans.gif" height="7" width="1"></td>
+</tr>
+
+<tr>
+<td colspan="3" bgcolor="#F00016"><img src="/1ptrans.gif" height="3"></td>
+</tr>
+
+<tr>
+<td colspan="3" bgcolor="#B30313"><img src="/1ptrans.gif" height="4"></td>
+</tr>
 
 
-<td valign="top">
-<img src="/image_rotation/sr5_1.gif" border="0"><!--? if (! $nodate) { require("randompic.php3"); } ?--><table bgcolor="#FFF5EE" border="0" cellpadding="2" cellspacing="0" width="100%"> 
-                    <tbody><tr bgcolor="#82020E">
-                      <td>
-                        <center><font color="#fffaf0" face="Arial" size="2"> - Resources - </font></center></td></tr>
-                    <tr>
-                      <td><a href="http://www.studentsreview.com/surveys.shtml"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/surveys.shtml"><font size="3"><b>Submit a Review</b></font>
-                         </a></li></font></td></tr>
 
-                    <tr><td><img src="1ptrans.gif" height="5" border="0"></td></tr>
+<tr>
+<td colspan="3" bgcolor="#82020E"><img src="/1ptrans.gif" height="7"></td>
+</tr>
+
+
+
+
+
+</tbody></table>
+<table width="800" align="center" cellspacing="0" border="0" cellpadding="1" bgcolor="#FFFFFF" class="content">
+
+
+<tbody><tr>
+<td colspan="5" bgcolor="#FFFFFF">
+&nbsp;
+<div align="right"><i><font color="red">Answers to the questions students wished they had <u>known</u> to ask.</font></i></div>
+
+<!--
+<i>"Choosing a college is such an important step in life, I think that any reliable information available to help students is a godsend."</i> -- Stephanie Galvani - Reed College, OR
+-->
+&nbsp;
+</td>
+</tr>
+
+
+
+<tr>
+<td width="120" valign="top" bgcolor="#ffffff" rowspan="3">
+
+
+
+
+
+
+
+
+<table bgcolor="#FFF5EE" border="0" cellpadding="2" cellspacing="0" width="100%"> 
+
+<tbody><tr bgcolor="880000"><td><!-- #FF3030 -->
+<center><font color="#FFFFFF"><b>Resources</b></font></center>
+</td></tr>
+<tr bgcolor="880000"><td>
+<table width="100%" bgcolor="#FFF5EE">
+<tbody><tr>
+                      <td><center><a href="http://www.studentsreview.com/surveys.shtml">
+<font face="Arial" size="2">
+                        <font size="3"><b>Submit a Review</b></font>
+                         </font></a></center></td></tr>
+
+<tr><td><img src="/1ptrans.gif" height="5" border="0"></td></tr>
 
                     <tr>
                       <td><a href="http://www.studentsreview.com/college_rankings.html"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/college_rankings.html">The SR College Rankings</a></li></font></td></tr>
+
+                        Dynamic Rankings</font></a></td></tr>
+
 
                     <tr>
                       <td><a href="http://www.studentsreview.com/compare.php3"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/compare.php3">Compare Schools</a></li></font></td></tr>
-
-                    <tr>
-                      <td><a href="http://www.studentsreview.com/usnews.shtml"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/usnews.shtml">USNews 2001 &amp; SR</a></li></font></td></tr>
-
-				<tr><td><img src="1ptrans.gif" height="5" border="0"></td></tr>
-
-<!--
-                    <TR>
-                      <TD><A href="http://www.studentsreview.com/results.php3"><FONT face=Arial size=2>
-                        <LI>View All Data (slow) </A></LI></FONT></TD></TR> -->
+                        <b>Compare U's</b></font></a></td></tr>
 
 
-           
 
-
-                    <tr>
-                      <td><a href="http://www.studentsreview.com/summer_prog.shtml"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/summer_prog.shtml">HS&nbsp;Summer&nbsp;Programs </a></li></font></td></tr>
-
-	<tr>
-                      <td><a href="http://srd.yahoo.com/drst/38279200/*http://www.studentsreview.com/salary.shtml"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="http://srd.yahoo.com/drst/38279200/*http://www.studentsreview.com/salary.shtml">Job Types and Salaries<i></i> </a></li></font></td></tr>
+          
 
                     <tr>
                       <td><a href="http://www.studentsreview.com/docs/major.shtml"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/docs/major.shtml">What is that Major<i>?</i> </a></li></font></td></tr>
+                        About that Major<i>?</i> </font></a></td></tr>
 
-				<tr><td><img src="1ptrans.gif" height="5" border="0"></td></tr>
+<tr>
+                      <td><a href="http://www.studentsreview.com/salary.shtml"><font face="Arial" size="2">
+                        Job and Salaries<i></i> </font></a></td></tr>
+<!--
+                    <TR>
+                      <TD><A href="http://www.studentsreview.com/resources.shtml"><FONT face=Arial size=2>
+                        Articles + Links </A></LI></FONT></TD></TR>
+-->
 
-                    <tr>
-                      <td><a href="http://www.studentsreview.com/contact_center.php3"><font face="Arial" size="2">
+</tbody></table>
 
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/contact_center.php3">Ask Alumni<i>!</i> </a></li></font></td></tr>
-
-         <tr>
-                      <td><a href="http://www.studentsreview.com/msg_board.php3"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/msg_board.php3">College Discussion</a></li></font></td></tr>
-
-                    <tr>
-                      <td><a href="http://www.studentsreview.com/resources.shtml"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/resources.shtml">Articles + Links </a></li></font></td></tr>
-
-
-                    <tr>
-                      <td><a href="http://www.studentsreview.com/EssayHelp/"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/EssayHelp/">Sample Essays &amp; Help </a></li></font></td></tr>
-
+</td></tr>
 
 		</tbody></table>
 
 
 &nbsp;
-                  <table bgcolor="#FFF5EE" border="0" cellpadding="2" cellspacing="0" width="100%">
-                    <tbody>
-                    <tr>
-                      <td bgcolor="#880000">
-                        <center><font color="#fffaf0" face="Arial" size="2">- Community - </font></center></td></tr>
-			<tr><td><a href="http://www.collegehighway.com" target="_top">
-				<font face="Arial" size="2"></font></a><font face="Arial" size="2"><li><a href="http://www.collegehighway.com" target="_top">CollegeHighway</a></li></font></td></tr>
 
-			<tr><td>
-			<a href="http://www.ratemyprofessors.com/" target="_top">
-<font face="Arial" size="2"></font></a><font face="Arial" size="2"><li><a href="http://www.ratemyprofessors.com/" target="_top">Rate&nbsp;My&nbsp;Professors</a></li></font>
-			</td></tr>
+<table bgcolor="#FFF5EE" border="0" cellpadding="2" cellspacing="0" width="100%"> 
+
+
+<tbody><tr bgcolor="880000"><td>
+<center><font color="#FFFFFF"><b>Featured</b></font></center>
+</td></tr>
+<tr bgcolor="880000"><td>
+<table width="100%" bgcolor="#FFF5EE">
+
+
+                    <tbody><tr>
+                      <td><a href="http://www.studentsreview.com/forward.php3?url=http://www2.studentsreview.com/members/score_compare/scorecompare.php3"><font face="Arial" size="2">
+                        My Chances?</font></a></td></tr>
+
+
+
+
+
 <!--
-			<tr><td>
-			<a href="http://iamcollege.com/" target="_top">
-<FONT face=Arial size=2><LI>I Am College</a></li></font>
-			</td></tr>
+                    <TR>
+                      <TD><A href="http://www.studentsreview.com/forward.php3?url=http://studentsreview.searchforclasses.com/prepop.asp?vendor=CD143"><FONT face=Arial size=2>
+                        Career Schools</A></LI></FONT></TD></TR>
 -->
 
-			<tr><td>
-			<a href="http://www.internationalstudent.com" target="_top">
-<font face="Arial" size="2"></font></a><font face="Arial" size="2"><li><a href="http://www.internationalstudent.com" target="_top">International&nbsp;Student</a></li></font>
-			</td></tr>
+
+<tr>
+                      <td>
+<a href="http://www.studentsreview.com/forward.php3?url=http://www.anrdoezrs.net/click-1497265-876226">
+<font face="Arial" size="2">Admissions 
+Essay Help</font></a><font face="Arial" size="2">
+</font></td></tr>
+
+<tr><td>
+<a href="http://www.jdoqocy.com/click-1497265-10382744" target="_blank">$5000 for School</a>
+</td></tr>
 
 
-                        <tr><td>
-                        <a href="http://door.library.uiuc.edu/edx/rankgen.htm" target="_top">
-<font face="Arial" size="2"></font></a><font face="Arial" size="2"><li><a href="http://door.library.uiuc.edu/edx/rankgen.htm" target="_top">UIUC Rankings Guide</a></li></font>
-                        </td></tr>
+<tr>
+                      <td><img src="/1ptrans.gif" height="6"></td></tr>
+
+
+<tr><td>
+<script type="text/javascript"><!--
+google_ad_client = "pub-6708781069945773";
+google_alternate_color = "FFF5EE";
+google_ad_width = 120;
+google_ad_height = 90;
+google_ad_format = "120x90_0ads_al";
+google_ad_channel ="8101833383";
+google_color_border = "FFF5EE";
+google_color_bg = "FFF5EE";
+google_color_link = "0000FF";
+google_color_text = "0000FF";
+google_color_url = "0000FF";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</td></tr>
 
 
 
+
+
+<tr>
+                      <td><img src="/1ptrans.gif" height="6"></td></tr>
+
+
+<tr>
+                      <td>
+<a href="http://www.studentdoc.com/student-loans-c.html"><font face="Arial" size="2">Loan Consolidation</font></a><font face="Arial" size="2">
+</font></td></tr>
+
+
+
+
+<!--
+
+
+                    <TR>
+                      <TD><A href="http://www.studentsreview.com/forward.php3?url=http://aftrk.com/c/c?b=26339&h=16578&sh=315487"><FONT face=Arial size=2>
+                        South University</A></LI></FONT></TD></TR>
+
+-->
+
+
+
+</tbody></table>
+
+</td></tr>
+
+		</tbody></table>
+
+
+&nbsp;
+
+
+
+
+                  <table bgcolor="#FFFFFF" border="0" cellpadding="2" cellspacing="0" width="100%">
+                    <tbody>
+                    <tr bgcolor="#880000">
+                      <td><center><font color="#FFFFFF" face="Arial" size="2"><b>Summer</b></font></center></td></tr>
+
+<tr bgcolor="#880000"><td>
+<table width="100%" bgcolor="#FFF5EE">
+
+
+                    <tbody><tr bgcolor="FFFDAF">
+                      <td><a href="http://www.studentsreview.com/summer_prog.shtml"><font face="Arial" size="2">
+                        HS Summer Programs </font></a></td></tr>
                                                 <tr><td>
-                        <a href="http://www.college-scholarships.com" target="_top">
-                        <font face="Arial" size="2"></font></a><font face="Arial" size="2"><li><a href="http://www.college-scholarships.com" target="_top">College-Scholarships</a></li></font>
+                        <a href="http://www.studentsreview.com/internships.php3" target="_top">
+
+                        <font face="Arial" size="2">Internship Post</font></a>
                         </td></tr>
 
-                                                <tr><td>
-                        <a href="http://www.eduslash.com" target="_top">
-                        <font face="Arial" size="2"></font></a><font face="Arial" size="2"><li><a href="http://www.eduslash.com" target="_top">EDU Slash</a></li></font>
-                        </td></tr>
-
-                                                <tr><td>
-                        <a href="http://www.campusnut.com" target="_top">
-                        <font face="Arial" size="2"></font></a><font face="Arial" size="2"><li><a href="http://www.campusnut.com" target="_top">The Campus Nut</a></li></font>
-                        </td></tr>
-                        <tr><td>
-                        <a href="http://www.collegestories.com/" target="_top">
-                        <font face="Arial" size="2"></font></a><font face="Arial" size="2"><li><a href="http://www.collegestories.com/" target="_top">College Stories</a></li></font>
-                        </td></tr>
+</tbody></table>
+</td></tr>
 
                                              </tbody>
                    </table>
 
+
+
+<!--
 &nbsp;
                         
-                  <table bgcolor="#FFF5EE" border="0" cellpadding="2" cellspacing="0" width="100%">
-                    <tbody>
-                    <tr>
-                      <td bgcolor="#880000">
-                        <center><font color="#fffaf0" face="Arial" size="2"> - StudentsReview - </font></center></td></tr>
-                   <tr>
-                      <td><a href="http://www.studentsreview.com/methodologies.shtml" target="_top"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/methodologies.shtml" target="_top">Data Methodologies </a></li></font></td></tr>
-                    <tr>
-                      <td><a href="http://www.studentsreview.com/about_survey.shtml" target="_top"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/about_survey.shtml" target="_top">About the Survey </a></li></font></td></tr>
-<!--
+                  <TABLE bgColor=#FFF5EE border=0 cellPadding=2 cellSpacing=0 width="100%">
+                    <TBODY>
+                    <TR bgColor=#880000>
+                      <TD background="/taba.gif">&nbsp;<FONT color=#fffaf0 face=Arial size=2>StudentsReview</FONT></TD></TR></TR>
+                   <TR>
+                      <TD><A href="http://www.studentsreview.com/methodologies.shtml" target=_top><FONT face=Arial size=2>
+                        <LI>Data Methodologies </A></LI></FONT></TD></TR>
                     <TR>
-                      <TD><A href="http://www.studentsreview.com/u_list.php3" target=_top><FONT face=Arial size=2>
-                        <LI>Full University List </A></LI></FONT></TD></TR>
+                      <TD><A href="http://www.studentsreview.com/about_survey.shtml" target=_top><FONT face=Arial size=2>
+                        <LI>About the Survey </A></LI></FONT></TD></TR>
+
 -->
 
+
+
+
 <!--
+&nbsp;
+                  <TABLE bgColor=#FFF5EE border=0 cellPadding=2 cellSpacing=0 width="100%">
+                    <TBODY>
+                    <TR bgColor=#880000>
+                      <TD><center><FONT color=#ee3030 face=Arial size=2>For Universities</FONT></TD></TR></TR>
 
-					<tr>
-						<td>
-					<a href="http://www.studentsreview.com/article.shtml" target="_top">
-					<font face="Arial" size="2"><li>
-						Write an Article!
-					</a>
-					</td>
-				</tr>	-->
-                    <tr>
-                      <td><a href="http://www.studentsreview.com/ppolicy.shtml"><font face="Arial" size="2">
+<tr bgcolor='000000'><td>
+<table width='100%' bgcolor=#FFF5EE>
+                    <TR>
+                      <TD><A href="https://www.studentsreview.com/univ/profile.php3" target=_top><FONT face=Arial size=2>
 
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/ppolicy.shtml">Privacy Policy </a></li></font></td></tr><!--
-				<tr>
-						<td>
-					<a href="http://www.studentsreview.com/about.html">
-					<font face="Arial" size="2"><li>Us	</a>
-					</td>
-					</tr>-->
-			</tbody>
-		</table>
+                        University Profile </A></LI></FONT></TD></TR>
+
+                    <TR>
+                      <TD><A href="http://www.studentsreview.com/univ/profile_summer.php3" target=_top><FONT face=Arial size=2>
+                        Summer Program Profile </A></LI></FONT></TD></TR>
+
+                    <TR>
+                      <TD><A href="http://www.studentsreview.com/univ/addlisting.php3" target=_top><FONT face=Arial size=2>
+                        School not Listed?</A></LI></FONT></TD></TR>
+
+                    <TR>
+                      <TD><A href="http://www.studentsreview.com/univ/uobject.shtml" target=_top><FONT face=Arial size=2>
+                        Object to Data? </A></LI></FONT></TD></TR>
+
+</table>
+</td></tr>
+
+</TBODY></TABLE>
+-->
 
 &nbsp;
-                  <table bgcolor="#FFF5EE" border="0" cellpadding="2" cellspacing="0" width="100%">
+<table bgcolor="#FFF5EE" border="0" cellpadding="0" cellspacing="0" width="100%">
                     <tbody>
-                    <tr>
-                      <td bgcolor="#880000">
-                        <center><font color="#fffaf0" face="Arial" size="2">- For Universities - </font></center></td></tr>
-                    <tr>
-                      <td><a href="https://www.studentsreview.com/univ/profile.php3" target="_top"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="https://www.studentsreview.com/univ/profile.php3" target="_top"><!-- Modify --> University Profile </a></li></font></td></tr>
-
-                    <tr>
-                      <td><a href="http://www.studentsreview.com/univ/addlisting.php3" target="_top"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/univ/addlisting.php3" target="_top">University not Listed?</a></li></font></td></tr>
-
-                    <tr>
-                      <td><a href="http://www.studentsreview.com/univ/uobject.shtml" target="_top"><font face="Arial" size="2">
-                        </font></a><font face="Arial" size="2"><li><a href="http://www.studentsreview.com/univ/uobject.shtml" target="_top">Object to Data? </a></li></font></td></tr>
-                    </tbody></table>
-
-
-
-&nbsp;
-
-</td>
-<td><img src="/1ptrans.gif" width="15" border="0"></td><!-- Bar  background="/images/v_bar.gif"-->
-<td bgcolor="ffffff" valign="top" width="550">
-<!-- SRCONTENT -->
-
-
-
-<table align="center" cellpadding="0" cellspacing="0" width="100%" bgcolor="CDC0B0" border="0">
-<tbody><tr><td>
-<table cellpadding="1" cellspacing="1" bgcolor="#8B7D6B" border="0">
-<tbody><tr><!-- #ffe0e0 FFEFD5 -->
-<td bgcolor="FFEFDB">&nbsp;<a href="http://www.studentsreview.com/college_search.html" onmouseover="overlib('Search for a University by Major, sport, club and then compare', CAPTION, 'UltraSearch')" onmouseout="nd()">UltraSearch</a>&nbsp;</td>
-<td bgcolor="f0f0f0">&nbsp;<a href="http://grad.studentsreview.com/" onmouseover="overlib('Search for a grad school by field, degree, or specific research', CAPTION, 'Grad Schools')" onmouseout="nd()">Grad Schools</a>&nbsp;</td>
-<td bgcolor="f0f0f0">&nbsp;<a href="http://www.studentsreview.com/professors/" onmouseover="overlib('Rate your professors and find out about their research', CAPTION, 'Rate Professors')" onmouseout="nd()">Professors</a>&nbsp;</td> 
-<!--
-<td bgcolor='f0f0f0'>&nbsp;<a href='http://www.studentsreview.com/MA/MIT_i.html'>Ultra-Search</a>&nbsp;</td>
--->
-<td bgcolor="f0f0f0">&nbsp;<a href="http://www.studentsreview.com/choosing_career.php3" onmouseover="overlib('Job salaries by job or major, job satisfaction, contact alumni', CAPTION, 'Career')" onmouseout="nd()">Career Chooser</a>&nbsp;</td>
-<td bgcolor="f0f0f0">&nbsp;<a href="http://www.studentsreview.com/college_rankings.html" onmouseover="overlib('Find the top schools, and even rank them by your own preferences', CAPTION, 'Rankings')" onmouseout="nd()">Rankings</a>&nbsp;</td>
-
-
-
-
+                    <tr bgcolor="#880000">
+                      <td>
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/cb11400a.cgi/v=2.0S/sz=125x125A/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
+</script><script src="http://www.burstnet.com/cgi-bin/ads/cb11400a.cgi/v=2.0S/sz=125x125A/50038/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/cb11400a-map.cgi/ns/v=2.0S/sz=125x125A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/cb11400a.cgi/ns/v=2.0S/sz=125x125A/" border="0" alt="Click Here"></a>
+</noscript>
+<!-- END BURST CODE -->
+	</td>
 </tr>
 </tbody></table>
-</td></tr>
-</tbody></table>
 
 
 
-<font size="2" color="2020a0"><b>We got mentioned!</b>  
-Thanks to the <a href="http://www.studentsreview.com/press/washpost/A41245-2002Nov26.html"><u>Washington Post</u></a> and <a href="http://www.collegemagazine.com/"><u>College Magazine!</u></a> <!--for mentioning us to everyone !--></font>
 
 
 
-&nbsp;<p>
+</td>
 
+<td rowspan="3"><img src="/1ptrans.gif" width="10"></td>
 
-<!-- SR CONTENT -->
+<td valign="top" bgcolor="#ffffff">
 
+<!--? include_once("header.php3"); ?-->
 
 <!-- STUDENTSREVIEW.COM ABOUT THE SURVEY -->
 
@@ -375,76 +879,224 @@ Thanks to the <a href="http://www.studentsreview.com/press/washpost/A41245-2002N
 
 
 
-&nbsp;<br>
+</td>
+
+<td rowspan="3"><img src="/1ptrans.gif" width="10"></td>
+<!-- #880000 -->
+<td width="120" valign="top" bgcolor="#FFFFFF" rowspan="3">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="height: 100%;">
+<tbody><tr><td valign="top">
+<div width="120" style="width: 120px">
+
+</div>
+<br>&nbsp;<br>
+<center>
+<!-- SR BOOKS -->
+<a href="http://www.studentsreview.com/forward.php3?url=http://www.amazon.com/exec/obidos/redirect?link_code=as2&amp;path=ASIN/1425932398&amp;tag=studentsrevie-20&amp;camp=1789&amp;creative=9325"><img src="/34214.png" border="1" width="120"></a> 
+</center></td></tr>
+<tr><td valign="bottom">
+<img src="/1ptrans.gif" height="60">
+</td></tr>
+</tbody></table>
 
 
-                        </p><center>
-<!--
-MIT Homepage:<br>
+</td>
+</tr>
 
-<a href="http://web.mit.edu/"><img src="http://web.mit.edu/interface/mit.gif" alt="mit" width=42 height=24 border=0></a><br><small><i> Comments and questions to 
-<a href="mailto:beracah@mit.edu">beracah@mit.edu</a><br> or to <A HREF="mailto:sradmin@studentsreview.com">sradmin@studentsreview.com</A><br></i></small>
--->
+<!-- SPACER -->
+<tr>
+<td>
+<img src="/1ptrans.gif" height="10" border="0">
+</td>
+</tr>
 
-                        Send Comments/Suggestions to: <a href="mailto:sradmin@studentsreview.com">sradmin@studentsreview.com</a>.
 
-                        <center>
-                        <hr noshade="" width="500">
-                        <font face="Arial,sans-serif" size="1">Copyright
-© 2000, 2001, 2002, 2003. Students Review, Inc. All Rights Reserved.</font>
-                        </center>
+<!-- bottom footer ad space -->
+
+<tr>
+
+<!-- bgcolor='#880000'  -->
+<td style="height: 60px;">
+<center>
+<!-- ad 1 -->
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-6708781069945773";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_channel ="2954609439";
+google_ad_type="text_image";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_url = "333333";
+google_color_text = "333333";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center></td>
+
+<!-- column continues here. -->
+
+</tr>
+
+
+
+
+
+
+
+</tbody></table>
+
+
+
+
 
 &nbsp;
-<!-- BANNER_1 -->
-
-<center><a href="http://www.ratemyprofessors.com"><img src="/rmp1.gif"></a></center>
 
 
 
-</center></td><!-- END DATA -->
 
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td colspan="3" bgcolor="#EA0213"><img src="/1ptrans.gif" height="10"></td>
+</tr>
+
+
+
+
+<tr>
+<td colspan="3" bgcolor="#FFFFFF"><img src="/1ptrans.gif" height="4"></td>
+</tr>
+
+<tr>
+<td colspan="3" bgcolor="#AB020E"><img src="/1ptrans.gif" height="6"></td>
 </tr>
 
 </tbody></table>
 
-<br>
-<br>
-<!--
-<center>
-<font color="#ee2065">the obligatory banner exchange...</a>
-<br>
--->
-<!-- BANNER_2 -->
 
-<!--e-bannerx.com code begin-->
-<!--
-<IFRAME src="http://www.e-bannerx.com:8888/adrevolver/banner?place=497&cpy=1" width="468" height="60" scrolling="no" frameborder=1 bgcolor="#880025" STYLE="border-color: black;">
-<SCRIPT>
-//
--->
-<!--
-//var rndnum = Math.round(Math.random() * 1000);
-//document.write('<A href="http://www.e-bannerx.com:8888/adrevolver/href?place=497&rnd=' + rndnum + '" target="_blank">');
-//document.write('<IMG src="http://www.e-bannerx.com:8888/adrevolver/banner?img&place=497&rnd=' + rndnum + '" width="468" height="60" border=0 alt="e-bannerx.com" ismap></A>');
-// -->
-<!--
-</SCRIPT>
-<NOSCRIPT>
-<A href="http://www.e-bannerx.com:8888/adrevolver/href?place=497&rnd=1000"  target="_blank">
-<IMG src="http://www.e-bannerx.com:8888/adrevolver/banner?img&place=497&rnd=1000" width="468" height="60" border=0 alt="AdRevolver" ismap></A>
-</NOSCRIPT>
-</IFRAME>
--->
-<!--e-bannerx.com code end-->
+
+
+
+<!-- about us stuff -->
+<table width="100%">
+<tbody><tr><td bgcolor="#FFFFFF">
+
+<font size="1" color="#880000">&nbsp;
+
+                        </font><center><font size="1" color="#880000">
+<a href="">About Us</a> | <a href="/advertisers.shtml">Advertise!</a> | <a href="http://www.studentsreview.com/press/">Press</a> | <a href="http://www.studentsreview.com/ppolicy.shtml">Privacy</a>
 
 <br>
+                        Send Comments/Suggestions to: <a href="mailto:sradmin@studentsreview.com">sradmin@studentsreview.com</a>.
+
+                        <center>
+                        <hr width="500">
+                        <font face="Arial,sans-serif" size="1">Copyright
+© 2000-2005. Students Review, Inc. All Rights Reserved.</font>
+                        </center>
+&nbsp;</font>
+</center></td></tr>
+</tbody></table>
+
 &nbsp;
-<center>College reviews and University reviews and ratings by students and for students</center>
-<br> <center><a href="http://www.studentsreview.com/ultrasearch.php3">UltraSearch  College 
-Search</a></center>
-<br> <center><a href="http://www.studentsreview.com/rank_em.php3">College 
-Rankings</a></center>
 
 
 
-</center></body></html>
+
+
+
+
+
+
+
+<!-- ad 2 -->
+
+<table align="center" cellpadding="2" cellspacing="0" border="0" bgcolor="#880000"><tbody><tr><td>
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<!--
+<script language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ba11400a.cgi/v=2.0S/sz=468x60B/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
+
+</script><noscript><a href="http://www.burstnet.com/ads/ba11400a-map.cgi/ns/v=2.0S/sz=468x60B/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ba11400a.cgi/ns/v=2.0S/sz=468x60B/" border="0" alt="Click Here"></a>
+</noscript>
+-->
+<!-- END BURST CODE -->
+</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+<br>
+
+<br>
+
+<center>
+College reviews and University reviews and ratings by students and for students</center>
+<br> <center><a href="http://www.studentsreview.com/ultrasearch.php3">UltraSearch  College Search</a>, <a href="http://www.studentsreview.com/rank_em.php3">College Rankings</a>, <a href="http://www.studentsreview.com/links.php3">Misc Links</a>, <a href="http://career.studentsreview.com/">Career, Online, and Distance Learning Schools</a>
+<p>
+<a href="http://www.studentsreview.com/salary_by_major.php3">Salary by Major</a>,
+
+<a href="http://www.studentsreview.com/satisfaction_by_major.php3">Job Satisfaction by Major</a>,
+<a href="http://www.studentsreview.com/unemployment_by_major.php3">Unemployment by Major</a>,
+<a href="http://scholarships.studentsreview.com/">Scholarship Search</a><br>
+<a href="http://www.studentsreview.com/college_search.html">College Search</a>,
+<a href="http://www.studentsreview.com/professors/">Professor Reviews</a>,
+<a href="http://grad.studentsreview.com/">Graduate Reviews</a>,
+<a href="http://www.studentsreview.com/official_rankings.php3">SR Official Rankings</a>
+</p></center>
+<p><font color="#6f6b65" size="1">
+
+
+</font></p><p><font color="#6f6b65" size="1">
+</font></p><center><font color="#6f6b65" size="1">
+<font size="1">
+<script language="javascript">f6();</script>
+<script language="JavaScript">
+var iFr;
+function AdSenseLog()
+ { 
+    var theAd=""+ escape(window.status.substring(6)) ;
+    var format=queryString('format',iFr.src);
+    var channel=queryString('channel',iFr.src);
+    var bug = new Image();
+    var thetitle='/ppolicy.shtml';
+    bug.src = '/googlelog.php3?ref=' + document.referrer + '&url=' +theAd +'&title=' + thetitle+ '&format=' + format +'&channel='+channel ; 
+}  
+ 
+function queryString(item, source)
+{
+   var itemLoc=source.indexOf(item);
+   var newSrc=source.substring(itemLoc);
+   var endLoc=newSrc.indexOf("&");
+   var lstSrc=newSrc.substring(0,endLoc);
+   var itm=lstSrc.substring(item.length+1);
+   return itm;
+} 
+ 
+ var elements; 
+ elements = document.getElementsByTagName("iframe"); 
+
+ for (var i = 0; i < elements.length; i++) 
+ { 
+   if(elements[i].src.indexOf('googlesyndication.com') > -1) 
+   { 
+     elements[i].attachEvent("onfocus",AdSenseLog) 
+     iFr=elements[i];
+   } 
+ } 
+  
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+
+
+<!--? include_once("footer.php3"); ?--></font></font></center></body></html>
