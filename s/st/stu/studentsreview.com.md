@@ -1,32 +1,13 @@
-> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209130909id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentsreview.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118053724id_/http%3A//www.studentsreview.com/ppolicy.shtml) for the most accurate reproduction.*
 
-# College Reviews : StudentsReview : Over 13100 Student Reviews!!!
+# College Reviews: StudentsReview : Over 44000 College Reviews!
 
-|  \- Resources -   
----  
-[ ](http://www.studentsreview.com/surveys.shtml)
-* [**Submit a Review** ](http://www.studentsreview.com/surveys.shtml)  
-[ ](http://www.studentsreview.com/college_rankings.html)
-* [The SR College Rankings](http://www.studentsreview.com/college_rankings.html)  
-[ ](http://www.studentsreview.com/compare.php3)
-* [Compare Schools](http://www.studentsreview.com/compare.php3)  
-[ ](http://www.studentsreview.com/usnews.shtml)
-* [USNews 2001 & SR](http://www.studentsreview.com/usnews.shtml)  
-[ ](http://www.studentsreview.com/summer_prog.shtml)
-* [HS Summer Programs ](http://www.studentsreview.com/summer_prog.shtml)  
-[ ](http://srd.yahoo.com/drst/38279200/*http://www.studentsreview.com/salary.shtml)
-* [Job Types and Salaries __](http://srd.yahoo.com/drst/38279200/*http://www.studentsreview.com/salary.shtml)  
-[ ](http://www.studentsreview.com/docs/major.shtml)
-* [What is that Major _?_ ](http://www.studentsreview.com/docs/major.shtml)  
-[ ](http://www.studentsreview.com/contact_center.php3)
-* [Ask Alumni _!_ ](http://www.studentsreview.com/contact_center.php3)  
-[ ](http://www.studentsreview.com/msg_board.php3)
-* [College Discussion](http://www.studentsreview.com/msg_board.php3)  
-[ ](http://www.studentsreview.com/resources.shtml)
-* [Articles + Links ](http://www.studentsreview.com/resources.shtml)  
-[ ](http://www.studentsreview.com/EssayHelp/)
-* [Sample Essays & Help ](http://www.studentsreview.com/EssayHelp/)  
-        |  **We got mentioned!** Thanks to the [_Washington Post_](http://www.studentsreview.com/press/washpost/A41245-2002Nov26.html) and [_College Magazine!_](http://www.collegemagazine.com/)  
+ 
+
+_Answers to the questions students wished they had _known_ to ask._
+
+   
+      |  | 
 
 Students Review, Inc. Privacy Policy
 
@@ -53,11 +34,5 @@ As always, it is the individuals right and duty to remain fully aware of the inf
 
 Additionally, in the unlikely circumstance, where there is third party distribution of individually identifiable information, collected online from the individual, unrelated to the purpose for which it was collected, the individual will be given a clear opportunity to opt out of information submission. 
 
-   
-
-
-Send Comments/Suggestions to: [sradmin@studentsreview.com](mailto:sradmin@studentsreview.com). 
-
-* * *
-
-Copyright © 2000, 2001, 2002, 2003. Students Review, Inc. All Rights Reserved.   [](http://www.ratemyprofessors.com/)
+|  |  |  [](http://www.studentsreview.com/forward.php3?url=http://www.amazon.com/exec/obidos/redirect?link_code=as2&path=ASIN/1425932398&tag=studentsrevie-20&camp=1789&creative=9325)  
+---
