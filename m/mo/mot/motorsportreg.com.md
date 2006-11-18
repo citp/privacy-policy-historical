@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the motorsportreg.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618010335id_/http%3A//motorsportreg.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsportreg.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118222347id_/http%3A//www.motorsportreg.com/privacy.cfm) for the most accurate reproduction.*
 
 # MotorsportReg.com : Privacy Policy
-
-ATTENTION! Your web browser does not support [common web standards](http://www.webstandards.org/upgrade/) due to its age! As a result, some things on this and other sites may be out of place or look broken.
-
-The best way to correct this is to download (our favorite) modern browser [Mozilla Firefox](http://www.mozilla.org/) for Windows, Mac or Linux. You could also download the latest versions of [Microsoft Internet Explorer](http://www.microsoft.com/ie/) for Windows, [Opera](http://www.opera.com/) for Windows, Mac and Unix or [Safari for Mac](http://www.apple.com/safari/). Your overall Internet experience will be improved and you'll be glad you did!
 
 ## Privacy First!
 
@@ -12,9 +8,9 @@ The best way to correct this is to download (our favorite) modern browser [Mozil
 
 First and foremost understand that MotorsportReg.com, operated by [Pukka Software](http://www.pukkasoft.com/), works as hard as possible to protect your privacy as if it were our own. 
 
-Because we gather certain types of information about MotorsportReg.com ("Pukka") users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. Questions regarding this policy should be directed to [customer service](https://web.archive.org/web/20060618010335id_/http%3A//motorsportreg.com/contact.cfm). NOTE: Pukka cannot accept information from individuals who are under 16 years of age without first obtaining express parental consent. 
+Because we gather certain types of information about MotorsportReg.com ("Pukka") users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. Questions regarding this policy should be directed to [customer service](https://web.archive.org/web/20061118222347id_/http%3A//www.motorsportreg.com/contact.cfm). NOTE: Pukka cannot accept information from individuals who are under 16 years of age without first obtaining express parental consent. 
 
-#### 1\. Capture and Use of Information.
+#### 1\. Capture and Use of Information
 
 Registration 
 
@@ -36,10 +32,12 @@ By registering with our service, you give us permission to send you information 
 
 Pukka may disclose information if we believe, in good faith, that it is necessary in order to: (a) comply with the law, (b) enforce the terms and conditions of this Agreement, or (c) protect the rights of you or us, to the extent that such disclosure is not otherwise prohibited by any law or regulation. 
 
-#### 3\. General Privacy Information.
+#### 3\. General Privacy Information
 
-Pukka may make various public forums (such as message boards, chat rooms or news groups) available to its users. When you disclose personal information in such public forums, that information can be collected and used by others in various ways, including by sending unsolicited messages. You are solely responsible for any postings you make on public forums on Pukka, and for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. Further, the Pukka web site contains links to partners, advertisers and third party Internet sites and services that may collect data in connection with registrations, promotions, e-commerce, etc. Pukka is also linked to by certain partner web sites. Each of the web sites (linked from Pukka, or linking to Pukka) each have separate privacy and data collection practices, independent of Pukka, and Pukka has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such Web sites. We try our best to do business with reputable merchants but we cannot enforce nor endorse other company practices. 
+Pukka may make various public forums or interactive areas (such as message boards, chat rooms or blogs) available to its users. When you disclose personal information in such public forums, that information can be collected and used by others in various ways, including by sending unsolicited messages. You are solely responsible for any postings you make on public forums on Pukka, and for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. Further, the Pukka web site contains links to partners, advertisers and third party Internet sites and services that may collect data in connection with registrations, promotions, e-commerce, etc. Pukka is also linked to by certain partner web sites. Each of the web sites (linked from Pukka, or linking to Pukka) have separate privacy and data collection practices, independent of Pukka, and Pukka has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such Web sites. We try our best to do business with reputable merchants but we cannot enforce nor endorse other company practices. 
 
-#### 4\. Security.
+Understand that registering for events will provide your complete personal profile to the organization running an event. While Pukka guarantees our usage of your information under this agreement, the organizations who use the Pukka services may have a different privacy policy and Pukka makes no guarantees about their use of your information. _This is the same situation as mailing a paper registration form to the organization._
+
+#### 4\. Security
 
 Pukka uses a variety of security measures to maintain the safety of your personal information. Personal information collected on Pukka is stored in a secure operating environment that is not available to the public. All credit card, checking account and registration information supplied by users is transmitted via industry-standard 128-bit Secure Socket Layer (SSL) technology. Pukka's technology department conducts frequent site-security audits. 
