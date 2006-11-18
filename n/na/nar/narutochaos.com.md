@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the narutochaos.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224414id_/http%3A//narutochaos.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutochaos.com privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118011719id_/http%3A//narutochaos.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Naruto Chaos – Naruto Anime and Manga Downloads
 
