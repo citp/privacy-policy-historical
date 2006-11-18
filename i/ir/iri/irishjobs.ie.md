@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615033208id_/http%3A//www.irishjobs.ie/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishjobs.ie privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118080629id_/http%3A//www.irishjobs.ie/about/privacy.asp) for the most accurate reproduction.*
 
 # Irish Jobs - Irish Jobs Privacy Policy
 
