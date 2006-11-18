@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncsecu.org privacy policy that was archived on 2006-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060216103125id_/http%3A//www.ncsecu.org/FooterLinks.aspx%3FName%3DcntlPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsecu.org privacy policy that was archived on 2006-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061118085744id_/http%3A//www.ncsecu.org/FooterLinks.aspx%3FName%3DcntlPrivacy) for the most accurate reproduction.*
 
 # State Employees' Credit Union
 
