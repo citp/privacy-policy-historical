@@ -1,123 +1,30 @@
-<!--The following is the downloaded HTML source of the memory-of.com privacy policy that was archived on 2006-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060425050225id_/http%3A//www.memory-of.com/Public/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the memory-of.com privacy policy that was archived on 2006-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061119163144id_/http%3A//www.memory-of.com/Public/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>Memory-of.com - Cherish your loved one with a memorial site</title>
+<title>"Memory-of" Privacy Policy</title>
 
-<meta name="description" content="A memorial website is a great way to celebrate the
-life of a beloved one who has passed away. Share your loved one's life
-story, legacy, photographs and audio/video clips. Visitors can light a memorial
-candle, offer their condolences, pay tribute, and relate their thoughts,
-experiences and memories.">
+<meta name="description" content="A memorial website is a great way to celebrate the life of a beloved one who has passed away. Share your loved one's life story, legacy, photographs and audio/video clips. Visitors can light a memorial candle, offer their condolences, pay tribute, and relate their thoughts, experiences and memories.">
 
-<meta name="keywords" content="memorial website, memory of, Bereaved, bereavement, condolence messages, deceased,
-condolence cards, death notices, deceased, died, funeral cards, gravestone,
-grief death, grieving, headstones, mourning, obits, online obituaries,
-tombstone">
+<meta name="keywords" content="memorial website,memory of,bereaved,bereavement,condolence messages,deceased,condolence cards,death notices,deceased,died,funeral cards,gravestone,grief death, grieving,headstones, mourning,obits,online obituaries,tombstone">
 
 <link rel="SHORTCUT ICON" href="http://www.memory-of.com/Localization/En/Images/favicon.ico">
 
-<script language="JavaScript">
+<!-- AcriveX control for IE -->
+<script language="JavaScript" type="text/javascript" src="http://www.memory-of.com/Inc/adx.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.memory-of.com/Inc/siteFunctions.js"></script>
 
-function pviiClassNew(obj, new_style){obj.className=new_style;}
-//-- OPEN POP UP ---
-function openNewWindow(file_name, window_name, width, height){x=screen.width;y=screen.height;window.open(file_name,window_name, "width="+width+", height="+height+", scrollbars=yes, top="+(y/2-(height/2))+", left="+(x/2-(width/2))+", resizable=0");}
+<!-- Methods that being preprocess by the asp.net -->
+<script language="javascript" type="text/javascript">
 function disableResubmit(frm,disableObj){disableObj.value='Wait...';disableObj.disabled=true;frm.submit();}
-
-function showDetails(obj,show,numberOfPictures)
-{
-	var obj2 = document.all[obj.id+"_content"];
-	if (show)
-	{		
-		obj.style.display='none';obj2.style.display="";
-		try{BgMediaPlayer.Play();}catch(ex){}
-	}
-	else
-	{
-		obj.style.display="";obj2.style.display='none';
-		try{BgMediaPlayer.Play();}catch(ex){}
-	}
-}
-
-function CheckFieldLength(nField,nMaxSize,evt)
-{
-	if(nField.value.length>nMaxSize && evt.keyCode!=8 && evt.keyCode!=32 && evt.keyCode!=46)
-	{
-		alert('Content exceeds length allowed');
-		nField.focus();
-		nField.value = nField.value.substring(0,nMaxSize+1);	
-		evt.returnValue = false;		
-	}	
-}
-
-function CheckOnPaste(nField,nMaxSize,evt)
-{
-	var txt = window.clipboardData.getData('Text');	
-	if (txt.length>nMaxSize){alert('Content exceeds length allowed');nField.focus();evt.returnValue = false;}
-	else nField.value=txt;
-}
-
-function MM_preloadImages() { 
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_swapImgRestore() { 
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_findObj(n, d) { 
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { 
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-
-//--Used for site music background ---
-
-function StopPlayingBgMusic()
-{
-	try
-	{
-		StopBgButton.style.display='none';PlayBgButton.style.display='';SpeakerOff.style.display='';SpeakerOn.style.display='none';BgMediaPlayer.Stop();
-	}
-	catch(ex)
-	{
-		//
-	}
-}
-
-//--JAVASCRIPT COOKIES  HANDLER ---
-
-function Get_Cookie(name) {
-    var start = document.cookie.indexOf(name+"=");
-    var len = start+name.length+1;
-    if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
-    if (start == -1) return null;
-    var end = document.cookie.indexOf(";",len);
-    if (end == -1) end = document.cookie.length;
-    return unescape(document.cookie.substring(len,end));
-}
-
-function Set_Cookie(name,value) {
-	try
-	{
-	 document.cookie = name + "=" +escape(value);
-    }
-    catch(ex)
-    {
-		
-    }
-}
-
-function Delete_Cookie(name) {if (Get_Cookie(name)) document.cookie = name + "=" + ";expires=Thu, 01-Jan-1970 00:00:01 GMT";}
+function CheckFieldLength(nField,nMaxSize,evt){if(nField.value.length>nMaxSize && evt.keyCode!=8 && evt.keyCode!=32 && evt.keyCode!=46){alert('Content exceeds length allowed');nField.focus();nField.value = nField.value.substring(0,nMaxSize+1);evt.returnValue=false;}}
+function CheckOnPaste(nField,nMaxSize,evt){var txt = window.clipboardData.getData('Text');if (txt.length>nMaxSize){alert('Content exceeds length allowed');nField.focus();evt.returnValue = false;}else nField.value=txt;}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-359600-4";
+_udn="memory-of.com";
+urchinTracker();
 </script>
 <link href="../Localization/En/styles/style.css" rel="stylesheet" type="text/css">
 
@@ -176,7 +83,7 @@ function pviiClassNew(obj, new_style) {
               <tbody><tr> 
                 <td width="10">&nbsp;</td>
                 <td width="611" valign="middle" style="padding-bottom:6px">
-                  <marquee direction="left" scrolldelay="20" scrollamount="2" behavior="scroll" height="20" width="100%" onmouseout="this.start()" onmouseover="this.stop()"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://timothy-tesauro.memory-of.com" target="29528" class="toplink"><span class"toplink"="">Jessica Heinsius  His Girlfriend  lit a candle in memory of TIMOTHY TESAURO: "everyday is another ..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://destiny-hager.memory-of.com" target="31861" class="toplink"><span class"toplink"="">Wendy-Christopher &amp;.  Noelle Ward's Mommy  lit a candle in memory of Destiny Hager: "My deepest sympathy ..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://ourbelovedmother-gioi-ngo.memory-of.com" target="28006" class="toplink"><span class"toplink"="">Tuyet Nga Huynh  Youe Daughter  lit a candle in memory of GIOI NGO: "Ma phu ho cho chan c..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://kayleigh-erceg.memory-of.com" target="19359" class="toplink"><span class"toplink"="">SELMA FLYNN  BOBBO'S MOM  lit a candle in memory of Kayleigh Erceg: "Angels help us visua..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://crystal-earnhart.memory-of.com" target="23394" class="toplink"><span class"toplink"="">Marlene Bohn  Erics Mom  lit a candle in memory of Crystal Earnhart: "Crystal shine brite ..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://jessica-rankin.memory-of.com" target="10720" class="toplink"><span class"toplink"="">Mischelle Seigle lit a candle in memory of Jessica Rankin: "Jess, I miss you. Yo..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://kourtney-williams.memory-of.com" target="31934" class="toplink"><span class"toplink"="">SELMA FLYNN  BOBBO'S MOM  lit a candle in memory of Kourtney Williams: "Angels help us visua..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://ralph-reynoso.memory-of.com" target="30902" class="toplink"><span class"toplink"="">Rose  lit a candle in memory of Ralph Reynoso Jr.: "I love you Ralphie, ..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://eric-bohn.memory-of.com" target="2280" class="toplink"><span class"toplink"="">Mom ^i^  Love You Angel  lit a candle in memory of Eric Bohn: "Eric Moms needs ur s..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://amanda-rhoades.memory-of.com" target="26429" class="toplink"><span class"toplink"="">Friend Of Jimmy   lit a candle in memory of Amanda Rhoades: "To the Rhoades famil..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://ralph-reynoso.memory-of.com" target="30902" class="toplink"><span class"toplink"="">Rose  lit a candle in memory of Ralph Reynoso Jr.: "Ralphie, all I do is..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://carroll-ledoux.memory-of.com" target="3051" class="toplink"><span class"toplink"="">Laura Ludlum lit a candle in memory of Deborah Carroll- LeDoux: "Another year gone, y..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://angel-kelsey.memory-of.com" target="32466" class="toplink"><span class"toplink"="">SELMA FLYNN  BOBBO'S MOM  lit a candle in memory of Kelsey Murphy: "Angels help us visua..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://michael-alex-conn.memory-of.com" target="16699" class="toplink"><span class"toplink"="">Jeff Agin lit a candle in memory of MICHAEL CONN: "God's Blessings to y..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://al-yablon.memory-of.com" target="32580" class="toplink"><span class"toplink"="">Debra Daniels lit a candle in memory of Al Yablon: "Quite birds in circl..."</span></a></td></tr></tbody></table></marquee>
+                  <marquee direction="left" scrolldelay="20" scrollamount="2" behavior="scroll" height="20" width="100%" onmouseout="this.start()" onmouseover="this.stop()"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://alexander-mal.memory-of.com" target="46863" class="toplink"><span class"toplink"="">Rob Mal lit a candle in memory of Alexander Mal: "he is with us in our..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://joe-scaife.memory-of.com" target="6317" class="toplink"><span class"toplink"="">Stephanie Scaife lit a candle in memory of Joe Scaife: "Daddy as we get clos..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://matthew-pascarella.memory-of.com" target="25255" class="toplink"><span class"toplink"="">Mommy  lit a candle in memory of Matthew Pascarella: "Hey Matt!! Just thin..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://acacia-cleri.memory-of.com" target="47115" class="toplink"><span class"toplink"="">Cindy Santaite lit a candle in memory of Acacia Cleri: "I love  &amp; miss you m..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://april-love.memory-of.com" target="18610" class="toplink"><span class"toplink"="">Zzy Zzy lit a candle in memory of April Love: "0"</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://georgie-palfrey-wardle.memory-of.com" target="47104" class="toplink"><span class"toplink"="">Danny Wardle lit a candle in memory of Georgie Palfrey Wardle: "Missing you lots xxx"</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://william-elliott-jr.memory-of.com" target="44623" class="toplink"><span class"toplink"="">Aunt Kathy  Walters lit a candle in memory of William Elliott Jr: "hello buddy im sitn ..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://amanda-forsyth.memory-of.com" target="36694" class="toplink"><span class"toplink"="">Soona Mujalli lit a candle in memory of Amanda Forsyth: "amanda my panda i mi..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://Stanislaw-Skalski.memory-of.com" target="15154" class="toplink"><span class"toplink"="">Peter Jozefowicz lit a candle in memory of Stanislaw Skalski: "We are all proud of ..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://nicholaszanfinijr.memory-of.com" target="34866" class="toplink"><span class"toplink"="">Mom  lit a candle in memory of NICHOLAS ZANFINI,JR.: "nicky, its 15 months..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://joshua-omvig.memory-of.com" target="26145" class="toplink"><span class"toplink"="">Giulia De Vivo  lit a candle in memory of Joshua Omvig: "Happy Birthday, Josh..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://richard-morganflash.memory-of.com" target="8801" class="toplink"><span class"toplink"="">Todd Morganflash lit a candle in memory of Richard Morganflash: "happy 40th anniv it ..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://amber-morrow.memory-of.com" target="29571" class="toplink"><span class"toplink"="">Worlwide Candle  Lighting<!--3 lit a candle in memory of Amber Morrow: "DEC.10 7pm for all o..."</span--></span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://lisa-thompson.memory-of.com" target="46167" class="toplink"><span class"toplink"="">Shellie Dreiling-hughes lit a candle in memory of Lisa Thompson: "lisa fly with the an..."</span></a></td><td width="15" align="center" valign="bottom"><img src="../Localization/En/images/top-candle.gif"></td><td align="left" valign="bottom" nowrap="" style="padding: 0 30 1 5" class="middleText"><a href="http://windycheryl.memory-of.com" target="45028" class="toplink"><span class"toplink"="">Mama  lit a candle in memory of Windy Bright: "Today is your big br..."</span></a></td></tr></tbody></table></marquee>
                 </td>
                 <td width="10">&nbsp;</td>
               </tr>
@@ -193,8 +100,7 @@ function pviiClassNew(obj, new_style) {
   </tr>
   <tr> 
     <td width="148" align="left" valign="top" background="../Localization/En/Images/menu-bg.gif"> 
-      
-<script language="JavaScript" type="text/JavaScript">
+      <script language="JavaScript" type="text/JavaScript">
 <!--
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
@@ -222,49 +128,49 @@ function MM_swapImage() { //v3.0
 </script>
 
 
-<table width="148" background="../Localization/En/Images/menu-bg.gif" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="148" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr><td>
 <table width="145" border="0" align="left" cellpadding="0" cellspacing="0">
         <tbody><tr> 
           <td><img src="../Localization/En/Images/header11.jpg"></td>
         </tr>
         <tr> 
-          <td><a href="http://www.memory-of.com/Public/Default.aspx"><img src="../Localization/En/Images/right_menu1_off.gif" name="HomePage" border="0" id="HomePage" onmouseover="MM_swapImage('HomePage','','../Localization/En/Images/right_menu1_on.gif',1);" onmouseout="MM_swapImgRestore();"></a></td>
+          <td><a href="http://www.memory-of.com/public"><img src="../Localization/En/Images/right_menu1_off.gif" name="HomePage" border="0" id="HomePage" onmouseover="MM_swapImage('HomePage','','../Localization/En/Images/right_menu1_on.gif',1);" onmouseout="MM_swapImgRestore();" alt="Memorial Homepage"></a></td>
         </tr>
         <tr> 
-          <td><img src="../Localization/En/Images/menu-separator.gif"></td>
+          <td class="menuNuvDividers"></td>
         </tr>
         <tr> 
-          <td><a href="http://www.memory-of.com/Public/CreateSite.aspx"><img src="../Localization/En/Images/right_menu2_off.gif" name="CreateSite" border="0" id="CreateSite" onmouseover="MM_swapImage('CreateSite','','../Localization/En/Images/right_menu2_on.gif',1);" onmouseout="MM_swapImgRestore();"></a></td>
+          <td><a href="http://www.memory-of.com/Public/createsite.aspx"><img src="../Localization/En/Images/right_menu2_off.gif" name="CreateSite" border="0" id="CreateSite" onmouseover="MM_swapImage('CreateSite','','../Localization/En/Images/right_menu2_on.gif',1);" onmouseout="MM_swapImgRestore();" alt="Create Site"></a></td>
+        </tr>
+        <tr> 
+          <td class="menuNuvDividers"></td>
         </tr>
         <tr>
-          <td><img src="../Localization/En/Images/menu-separator.gif"></td>
-        </tr>
-        <tr>
-          <td><a href="http://www.memory-of.com/Public/SympathyGift.aspx"><img src="../Localization/En/Images/right_menu12_off.gif" name="SympathyGift" border="0" id="SympathyGift" onmouseover="MM_swapImage('SympathyGift','','../Localization/En/Images/right_menu12_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+          <td><a href="http://www.memory-of.com/Public/giftshop.aspx"><img src="../Localization/En/Images/right_menu12_off.gif" name="GiftShop" border="0" id="GiftShop" onmouseover="MM_swapImage('GiftShop','','../Localization/En/Images/right_menu12_on.gif',1)" onmouseout="MM_swapImgRestore()" alt="Gift Shop"></a></td>
         </tr>
         <tr> 
-          <td><img src="../Localization/En/Images/menu-separator.gif"></td>
+          <td class="menuNuvDividers"></td>
         </tr>
         <tr> 
           <td><img src="../Localization/En/Images/right_menu3_off.gif" border="0"></td>
         </tr>
         <tr> 
           <td height="142" align="left" valign="top"> 
-            <form action="http://www.memory-of.com/Public/Search.aspx" name="RightSearchForm" id="RightSearchForm" method="post">
+            <form action="http://www.memory-of.com/Public/search.aspx" name="RightSearchForm" id="RightSearchForm" method="post">
               <input type="hidden" name="Command" id="Command" value="ActivateSearch">
               <table border="0" cellspacing="0" cellpadding="0" class="leftMenuSearchTable">
                 <tbody><tr>
                   <td height="20" valign="bottom" nowrap="" class="smallText">First Name:</td>
                 </tr>
                 <tr>
-                  <td height="20" valign="bottom"><input type="text" name="SearchFirstName" class="inputTextLeftMenu" style="width: 110; height: 20;"></td>
+                  <td height="20" valign="bottom"><input type="text" name="SearchFirstName" class="inputTextLeftMenu" style="width:110px; height:20px;"></td>
                 </tr>
                 <tr>
                   <td height="20" valign="bottom" nowrap="" class="smallText">Last Name:</td>
                 </tr>
                 <tr>
-                  <td height="20" valign="bottom"><input type="text" name="SearchLastName" class="inputTextLeftMenu" style="width: 110; height: 20;"></td>
+                  <td height="20" valign="bottom"><input type="text" name="SearchLastName" class="inputTextLeftMenu" style="width:110px; height:20px;"></td>
                 </tr>
                 <tr>
                   <td height="30" valign="bottom" align="right"><input type="submit" name="findIt" value="Search" class="button"></td>
@@ -275,52 +181,62 @@ function MM_swapImage() { //v3.0
               </tbody></table>
             </form></td>
         </tr>
-        <tr>
-          <td><img src="../Localization/En/Images/menu-separator.gif"></td>
-        </tr>
-        <tr>
-          <td><a href="http://www.memory-of.com/Forums/"><img src="../Localization/En/Images/right_menu11_off.gif" name="Forums" border="0" id="Forums" onmouseover="MM_swapImage('Forums','','../Localization/En/Images/right_menu11_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-        </tr>
         <tr> 
-          <td><img src="../Localization/En/Images/menu-separator.gif"></td>
-        </tr>
-        <tr> 
-          <td><a href="http://www.memory-of.com/Public/FAQ.aspx"><img src="../Localization/En/Images/right_menu5_off.gif" name="FAQ" border="0" id="FAQ" onmouseover="MM_swapImage('FAQ','','../Localization/En/Images/right_menu5_on.gif',1);" onmouseout="MM_swapImgRestore()"></a></td>
-        </tr>
-        <tr> 
-          <td><img src="../Localization/En/Images/menu-separator.gif"></td>
+          <td class="menuNuvDividers"></td>
         </tr>
         <tr>
-          <td><a href="http://www.memory-of.com/Public/Features.aspx"><img src="../Localization/En/Images/right_menu10_off.gif" name="Features" border="0" id="Features" onmouseover="MM_swapImage('Features','','../Localization/En/Images/right_menu10_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+          <td><a href="http://www.memory-of.com/Public/giftshopflowers.aspx"><img src="../Localization/En/Images/right_menu13_off.gif" name="GiftShopFlowers" border="0" id="GiftShopFlowers" onmouseover="MM_swapImage('GiftShopFlowers','','../Localization/En/Images/right_menu13_on.gif',1);" onmouseout="MM_swapImgRestore()" alt="Gift Shop Flowers"></a></td>
+        </tr>
+        <tr> 
+          <td class="menuNuvDividers"></td>
         </tr>
         <tr>
-          <td><img src="../Localization/En/Images/menu-separator.gif"></td>
+          <td><a href="http://www.memory-of.com/Forums/"><img src="../Localization/En/Images/right_menu11_off.gif" name="Forums1" border="0" id="Forums" onmouseover="MM_swapImage('Forums1','','../Localization/En/Images/right_menu11_on.gif',1)" onmouseout="MM_swapImgRestore()" alt="Grief Forums"></a></td>
         </tr>
         <tr> 
-          <td><a href="http://www.memory-of.com/Public/Testimonials.aspx"><img src="../Localization/En/Images/right_menu9_off.gif" name="Testimonials" border="0" id="Testimonials" onmouseover="MM_swapImage('Testimonials','','../Localization/En/Images/right_menu9_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+          <td class="menuNuvDividers"></td>
         </tr>
         <tr> 
-          <td><img src="../Localization/En/Images/menu-separator.gif"></td>
-        </tr>
-        
-        
-        <tr> 
-          <td><a href="http://www.memory-of.com/Public/Info.aspx"><img src="../Localization/En/Images/right_menu4_off.gif" name="Info" border="0" id="Info" onmouseover="MM_swapImage('Info','','../Localization/En/Images/right_menu4_on.gif',1);" onmouseout="MM_swapImgRestore();"></a></td>
+          <td><a href="http://www.memory-of.com/Public/faq.aspx"><img src="../Localization/En/Images/right_menu5_off.gif" name="FAQ" border="0" id="FAQ" onmouseover="MM_swapImage('FAQ','','../Localization/En/Images/right_menu5_on.gif',1);" onmouseout="MM_swapImgRestore()" alt="FAQ"></a></td>
         </tr>
         <tr> 
-          <td><img src="../Localization/En/Images/menu-separator.gif"></td>
+          <td class="menuNuvDividers"></td>
+        </tr>
+        <tr>
+          <td><a href="http://www.memory-of.com/Public/features.aspx"><img src="../Localization/En/Images/right_menu10_off.gif" name="Features" border="0" id="Features" onmouseover="MM_swapImage('Features','','../Localization/En/Images/right_menu10_on.gif',1)" onmouseout="MM_swapImgRestore()" alt="Features"></a></td>
         </tr>
         <tr> 
-          <td><a href="http://www.memory-of.com/Public/Affiliations.aspx"><img src="../Localization/En/Images/right_menu6_off.gif" name="Affiliations" border="0" id="Affiliations" onmouseover="MM_swapImage('Affiliations','','../Localization/En/Images/right_menu6_on.gif',1);" onmouseout="MM_swapImgRestore();"></a></td>
+          <td class="menuNuvDividers"></td>
         </tr>
         <tr> 
-          <td><img src="../Localization/En/Images/menu-separator.gif"></td>
+          <td><a href="http://www.memory-of.com/Public/testimonials.aspx"><img src="../Localization/En/Images/right_menu9_off.gif" name="Testimonials" border="0" id="Testimonials" onmouseover="MM_swapImage('Testimonials','','../Localization/En/Images/right_menu9_on.gif',1)" onmouseout="MM_swapImgRestore()" alt="Testimonials"></a></td>
         </tr>
         <tr> 
-          <td><a href="http://www.memory-of.com/Public/Contact.aspx"><img src="../Localization/En/Images/right_menu8_off.gif" name="Contact" border="0" id="Contact" onmouseover="MM_swapImage('Contact','','../Localization/En/Images/right_menu8_on.gif',1);" onmouseout="MM_swapImgRestore();"></a></td>
+          <td class="menuNuvDividers"></td>
+        </tr>       
+        <tr> 
+          <td><a href="http://www.memory-of.com/Public/info.aspx"><img src="../Localization/En/Images/right_menu4_off.gif" name="Info" border="0" id="Info" onmouseover="MM_swapImage('Info','','../Localization/En/Images/right_menu4_on.gif',1);" onmouseout="MM_swapImgRestore();" alt="Info"></a></td>
         </tr>
         <tr> 
-          <td><img src="../Localization/En/Images/menu-separator.gif"></td>
+          <td class="menuNuvDividers"></td>
+        </tr>
+        <tr> 
+          <td><a href="http://www.memory-of.com/Public/affiliations.aspx"><img src="../Localization/En/Images/right_menu6_off.gif" name="Affiliations" border="0" id="Affiliations" onmouseover="MM_swapImage('Affiliations','','../Localization/En/Images/right_menu6_on.gif',1);" onmouseout="MM_swapImgRestore();" alt="Affiliations"></a></td>
+        </tr>
+        <tr> 
+          <td class="menuNuvDividers"></td>
+        </tr>
+        <tr>
+          <td><a href="http://www.memory-of.com/Public/press.aspx"><img src="../Localization/En/Images/right_menu14_off.gif" alt="" name="Press" border="0" id="Press" onmouseover="MM_swapImage('Press','','../Localization/En/Images/right_menu14_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+        </tr>       
+        <tr> 
+          <td class="menuNuvDividers"></td>
+        </tr>
+        <tr> 
+          <td><a href="http://www.memory-of.com/Public/contact.aspx"><img src="../Localization/En/Images/right_menu8_off.gif" name="Contact" border="0" id="Contact" onmouseover="MM_swapImage('Contact','','../Localization/En/Images/right_menu8_on.gif',1);" onmouseout="MM_swapImgRestore();" alt="Contact"></a></td>
+        </tr>
+        <tr> 
+          <td class="menuNuvDividers"></td>
         </tr>
         <tr>
           <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" class="otherSitesTable">
@@ -338,9 +254,20 @@ function MM_swapImage() { //v3.0
             </tbody></table></td>
         </tr>
         <tr>
-          <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0" class="otherSitesTable">
+          <td align="left" valign="top" style="padding-top:40px; padding-left:15px"><img src="../Localization/En/Images/leftpromoTop.gif" alt="" width="123" height="5"><br>
+<script language="JavaScript" type="text/javascript">
+<!--
+var activex = "<object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0' width='123' height='160'><param name='movie' value='../Localization/En/Flash/leftpromo.swf?GetURL=GiftShop.aspx'><param name='quality' value='high'><param name='menu' value='false'><embed src='../Localization/En/Flash/leftpromo.swf?GetURL=GiftShop.aspx' width='123' height='160' quality='high' pluginspage='http://www.macromedia.com/go/getflashplayer' type='application/x-shockwave-flash' menu='false'></embed></object> "
+deliverActiveX(activex);
+//-->
+</script>
+              <br>
+              <img src="../Localization/En/Images/leftpromoBottom.gif" alt="" width="123" height="5"></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top" style="padding-bottom:40px;"><table border="0" cellspacing="0" cellpadding="0" class="otherSitesTable">
             <tbody><tr>
-              <td><img src="../Localization/En/Images/other-sites_header2.gif"></td>
+              <td><img src="../Localization/En/Images/other-sites_header2.gif" alt=""></td>
             </tr>
             <tr>
               <td align="center" valign="middle" class="otherSitesCell middleText" style="line-height:20px">We need<br>
@@ -348,14 +275,13 @@ function MM_swapImage() { //v3.0
       <a href="http://www.memory-of.com/Public/Recruitment.aspx" class="smallWhiteText" style="text-decoration:underline">Please click here</a></td>
             </tr>
             <tr>
-              <td><img src="../Localization/En/Images/other-sites_footer.gif"></td>
+              <td><img src="../Localization/En/Images/other-sites_footer.gif" alt=""></td>
             </tr>
           </tbody></table></td>
         </tr>
       </tbody></table>
 </td></tr>
 </tbody></table>
-
 
     </td>
     <td width="449" rowspan="2" align="center" valign="top" class="whiteBG" style="padding: 20 16 20 16">
@@ -431,7 +357,7 @@ function MM_swapImage() { //v3.0
       <table width="100%" border="0" cellspacing="0" cellpadding="0" name="albomeTitle">
         <tbody><tr><td style="padding: 0 0 0 11"><table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr><td align="left" valign="top" width="1%"><img src="../Localization/En/Images/news-title-left.gif"></td><td align="center" valign="middle" nowrap="" class="newsMenuBG">Recent Sites</td><td align="right" valign="top" width="1%"><img src="../Localization/En/Images/news-title-right.gif"></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-						        <tbody><tr><td><a href="http://destiny-hager.memory-of.com" target="31861"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Destiny&nbsp;Hager</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://destiny-hager.memory-of.com" target="31861"><img src="../Uploads/Pictures/2006/4/13/MiniPic632805511245000000.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Angela Hager on 04/13/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://destiny-hager.memory-of.com" target="31861" class="sitelinkNew">destiny-hager</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://donald-martin.memory-of.com" target="31895"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Donald&nbsp;Martin</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://donald-martin.memory-of.com" target="31895"><img src="../Uploads/Pictures/2006/4/15/MiniPic632807012658125000.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Angie Smith on 04/14/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://donald-martin.memory-of.com" target="31895" class="sitelinkNew">donald-martin</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://kourtney-williams.memory-of.com" target="31934"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Kourtney&nbsp;Williams</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://kourtney-williams.memory-of.com" target="31934"><img src="../Uploads/Pictures/2006/4/17/MiniPic632808765343437500.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Michell Garcia on 04/14/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://kourtney-williams.memory-of.com" target="31934" class="sitelinkNew">kourtney-williams</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://shawna-cyr.memory-of.com" target="31959"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Shawna&nbsp;Cyr</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://shawna-cyr.memory-of.com" target="31959"><img src="../Uploads/Pictures/2006/4/16/MiniPic632808111037812500.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Megan Mills on 04/15/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://shawna-cyr.memory-of.com" target="31959" class="sitelinkNew">shawna-cyr.memory-of.com</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://kayla-watson14.memory-of.com" target="32024"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Kayla&nbsp;Watson</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://kayla-watson14.memory-of.com" target="32024"><img src="../Uploads/Pictures/2006/4/24/MiniPic632814358526562500.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Niki Sloan on 04/16/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://kayla-watson14.memory-of.com" target="32024" class="sitelinkNew">kayla-watson14</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://brendan-giblin.memory-of.com" target="32051"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Brendan&nbsp;Giblin</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://brendan-giblin.memory-of.com" target="32051"><img src="../Uploads/Pictures/2006/4/16/MiniPic632808259143593750.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Karen Lowry on 04/16/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://brendan-giblin.memory-of.com" target="32051" class="sitelinkNew">brendan-giblin</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://jp-walters.memory-of.com" target="32069"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">James "JP"&nbsp;Walters</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://jp-walters.memory-of.com" target="32069"><img src="../Uploads/Pictures/2006/4/17/MiniPic632808735243281250.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Christina Walters on 04/17/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://jp-walters.memory-of.com" target="32069" class="sitelinkNew">jp-walters.memory-of.com</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://anjelique-augustin.memory-of.com" target="32100"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Anjelique&nbsp;Augustin</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://anjelique-augustin.memory-of.com" target="32100"><img src="../Uploads/Pictures/2006/4/17/MiniPic632808968900625000.JPG" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Elizabeth Augustin on 04/17/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://anjelique-augustin.memory-of.com" target="32100" class="sitelinkNew">anjelique-augustin</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://christopherandnoelle.memory-of.com" target="32107"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Christopher And Noelle&nbsp;Ward</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://christopherandnoelle.memory-of.com" target="32107"><img src="../Uploads/Pictures/2006/4/18/MiniPic632809250452031250.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Wendy Ward on 04/17/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://christopherandnoelle.memory-of.com" target="32107" class="sitelinkNew">christopherandnoelle</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://alex-rohr.memory-of.com" target="32140"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Alex&nbsp;Rohr</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://alex-rohr.memory-of.com" target="32140"><img src="../Uploads/Pictures/2006/4/18/MiniPic632809776343593750.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Mandy Gerber on 04/18/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://alex-rohr.memory-of.com" target="32140" class="sitelinkNew">alex-rohr.memory-of.com</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://lucas-fredrick.memory-of.com" target="32238"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Lucas&nbsp;Fredrick</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://lucas-fredrick.memory-of.com" target="32238"><img src="../Uploads/Pictures/2006/4/19/MiniPic632810470839375000.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Jennifer Fredrick on 04/19/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://lucas-fredrick.memory-of.com" target="32238" class="sitelinkNew">lucas-fredrick</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://augusto-camara.memory-of.com" target="32361"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Augusto&nbsp;Camara</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://augusto-camara.memory-of.com" target="32361"><img src="../Uploads/Pictures/2006/4/21/MiniPic632811867423125000.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Jorge Camara on 04/21/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://augusto-camara.memory-of.com" target="32361" class="sitelinkNew">augusto-camara</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://angel-kelsey.memory-of.com" target="32466"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Kelsey&nbsp;Murphy</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://angel-kelsey.memory-of.com" target="32466"><img src="../Uploads/Pictures/2006/4/22/MiniPic632813228899218750.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by India Morgan on 04/22/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://angel-kelsey.memory-of.com" target="32466" class="sitelinkNew">angel-kelsey.memory-of.com</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://angellina-atchley-2005.memory-of.com" target="32494"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">ANGELLINA&nbsp;ATCHLEY</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://angellina-atchley-2005.memory-of.com" target="32494"><img src="../Uploads/Pictures/2006/4/23/MiniPic632813551330468750.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by DAWN ELMORE on 04/23/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://angellina-atchley-2005.memory-of.com" target="32494" class="sitelinkNew">angellina-atchley-2005</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td></td></tr></tbody></table></td></tr></tbody></table>
+						        <tbody><tr><td><a href="http://rory-adams.memory-of.com" target="46148"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Rory&nbsp;Adams</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://rory-adams.memory-of.com" target="46148"><img src="../Uploads/Pictures/2006/11/7/MiniPic632984904459843750.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Carla Hannibal on 11/06/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://rory-adams.memory-of.com" target="46148" class="sitelinkNew">rory-adams.memory-of.com</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://lei-xun.memory-of.com" target="46158"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Xun&nbsp;Lei</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://lei-xun.memory-of.com" target="46158"><img src="../Uploads/Pictures/2006/11/11/MiniPic632988411323906250.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Friend Lei on 11/06/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://lei-xun.memory-of.com" target="46158" class="sitelinkNew">lei-xun.memory-of.com</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://lisa-thompson.memory-of.com" target="46167"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Lisa&nbsp;Thompson</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://lisa-thompson.memory-of.com" target="46167"><img src="../Uploads/Pictures/2006/11/7/MiniPic632985365607187500.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Rhonda Bartles on 11/06/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://lisa-thompson.memory-of.com" target="46167" class="sitelinkNew">lisa-thompson</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://jeffrey-schulz.memory-of.com" target="46207"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Jeffrey&nbsp;Schulz</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://jeffrey-schulz.memory-of.com" target="46207"><img src="../Uploads/Pictures/2006/11/6/MiniPic632984477492812500.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Tammy King on 11/06/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://jeffrey-schulz.memory-of.com" target="46207" class="sitelinkNew">jeffrey-schulz</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://susannah-odushola.memory-of.com" target="46231"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Susannah&nbsp;Odushola</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://susannah-odushola.memory-of.com" target="46231"><img src="../Uploads/Pictures/2006/11/8/MiniPic632986009350937500.JPG" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Gideon/Ronke Odus+(h)+Ola on 11/07/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://susannah-odushola.memory-of.com" target="46231" class="sitelinkNew">susannah-odushola</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://elva-aggiano.memory-of.com" target="46245"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Elva&nbsp;Aggiano</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://elva-aggiano.memory-of.com" target="46245"><img src="../Uploads/Pictures/2006/11/7/MiniPic632985162665625000.JPG" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Natalia Aggiano on 11/07/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://elva-aggiano.memory-of.com" target="46245" class="sitelinkNew">elva-aggiano.memory-of.com</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://jessica-mirabilekramer.memory-of.com" target="46254"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Jessica&nbsp;Mirabile-Kramer</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://jessica-mirabilekramer.memory-of.com" target="46254"><img src="../Uploads/Pictures/2006/11/7/MiniPic632985041050937500.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Gina Henricksen on 11/07/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://jessica-mirabilekramer.memory-of.com" target="46254" class="sitelinkNew">jessica-mirabilekramer</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://bill-ripke.memory-of.com" target="46515"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Bill&nbsp;Ripke</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://bill-ripke.memory-of.com" target="46515"><img src="../Uploads/Pictures/2006/11/10/MiniPic632987633345312500.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Dan Ripke on 11/10/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://bill-ripke.memory-of.com" target="46515" class="sitelinkNew">bill-ripke.memory-of.com</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://jerrod-miyaki.memory-of.com" target="46592"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Jerrod&nbsp;Miyaki</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://jerrod-miyaki.memory-of.com" target="46592"><img src="../Uploads/Pictures/2006/11/13/MiniPic632990242123437500.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Jytte Ellison on 11/11/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://jerrod-miyaki.memory-of.com" target="46592" class="sitelinkNew">jerrod-miyaki</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://dave-dickinson.memory-of.com" target="46757"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">David&nbsp;Dickinson</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://dave-dickinson.memory-of.com" target="46757"><img src="../Uploads/Pictures/2006/11/13/MiniPic632990310804687500.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Garnet Jenkins on 11/13/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://dave-dickinson.memory-of.com" target="46757" class="sitelinkNew">dave-dickinson</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://darnell-williams-jr.memory-of.com" target="46799"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Darnell&nbsp;Williams Jr.</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://darnell-williams-jr.memory-of.com" target="46799"><img src="../Uploads/Pictures/2006/11/14/MiniPic632991274676718750.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Janelle Williams on 11/14/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://darnell-williams-jr.memory-of.com" target="46799" class="sitelinkNew">darnell-williams-jr</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://shae-evans.memory-of.com" target="46855"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Shae&nbsp;Evans</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://shae-evans.memory-of.com" target="46855"><img src="../Uploads/Pictures/2006/11/14/MiniPic632991266134843750.JPG" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Chloe Fry on 11/14/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://shae-evans.memory-of.com" target="46855" class="sitelinkNew">shae-evans.memory-of.com</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://alexander-mal.memory-of.com" target="46863"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Alexander&nbsp;Mal</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://alexander-mal.memory-of.com" target="46863"><img src="../Uploads/Pictures/2006/11/14/MiniPic632991367213593750.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Rachie Mal on 11/14/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://alexander-mal.memory-of.com" target="46863" class="sitelinkNew">alexander-mal</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td><a href="http://johnny-m-rodriguez.memory-of.com" target="47048"></a><table width="100%" border="0" cellspacing="0" cellpadding="0" class="newsframe"><tbody><tr align="left"><td colspan="2" valign="bottom" class="newsTicker newsTickerText">Johnny&nbsp;Rodriguez</td></tr><tr><td colspan="2" height="9"></td></tr><tr onmouseover="pviiClassNew(this,'bgDark')" onmouseout="pviiClassNew(this,'bgLight')" class="bgLight"><td width="38" align="center" valign="top"><a href="http://johnny-m-rodriguez.memory-of.com" target="47048"><img src="../Uploads/Pictures/2006/11/16/MiniPic632993139201093750.jpg" border="0" hspace="9"></a></td><td align="left" valign="top" class="regTextSmall" style="padding: 0 9 0 0">Memorial website created by Lezette Rodriguez on 11/16/2006.</td></tr><tr><td colspan="2" align="left" valign="bottom" class="bgLight" style="padding: 0 9 4 9"><a href="http://johnny-m-rodriguez.memory-of.com" target="47048" class="sitelinkNew">johnny-m-rodriguez</a></td></tr></tbody></table></td></tr><tr><td style="padding: 0 0 0 11" class="newsBG"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="newsSeparator" height="6"></td></tr></tbody></table></td></tr><tr><td></td></tr></tbody></table></td></tr></tbody></table>
     </td>
   </tr>
   <tr> 
@@ -439,10 +365,10 @@ function MM_swapImage() { //v3.0
   </tr>
   <tr> 
     <td colspan="3"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" class="footer">
+      <table width="778" border="0" cellspacing="0" cellpadding="0" class="footer tableframe" align="center">
   <tbody><tr> 
     <td class="footerDecorLeft">&nbsp;</td>
-    <td align="center" valign="top" class="smallText footerFrame" style="padding: 5 50 5 50">
+    <td align="center" valign="top" class="smallText footerFrame" style="padding: 5px 50px 5px 50px">
 	  <a href="http://www.memory-of.com/Public/Default.aspx" class="bottomlink"><span class="nowrap">Home</span></a>&nbsp;| 
       <a href="http://www.memory-of.com/Public/CreateSite.aspx" class="bottomlink"><span class="nowrap">Create a Memorial Website</span></a>&nbsp;| 
       <a href="http://www.memory-of.com/Public/Search.aspx" class="bottomlink"><span class="nowrap">Search Memorials</span></a>&nbsp;| 
@@ -463,13 +389,12 @@ function MM_swapImage() { //v3.0
     <td colspan="3" align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="footerBottomTable">
         <tbody><tr> 
           <td width="40%" class="footerBottomDecorLeft"></td>
-          <td width="20%" align="center" valign="middle" nowrap="" class="smallTextReg footerBottomBG" style="padding: 0 20 0 20">Copyright © 2006, Library of Life Trust and content owners</td>
-          <td width="40%" align="right" valign="bottom" style="padding: 0 10 0 10" class="footerBottomDecorRight"><a href="http://www.libraryoflife.org" target="_blank" alt="Library of Life Trust"><img src="../Localization/En/Images/LOL-logo.gif" width="104" height="20" border="0"></a></td>
+          <td width="20%" align="center" valign="middle" nowrap="" class="smallTextReg footerBottomBG" style="padding: 0 20px 0 20px">Copyright © 2006, Library of Life Trust and content owners</td>
+          <td width="40%" align="right" valign="bottom" style="padding: 0 10px 0 10px" class="footerBottomDecorRight"><a href="http://www.libraryoflife.org" target="_blank"><img src="../Localization/En/Images/LOL-logo.gif" width="104" height="20" alt="Library of Life Trust"></a></td>
         </tr>
       </tbody></table></td>
   </tr>
 </tbody></table>
-
     </td>
   </tr>
 </tbody></table>
