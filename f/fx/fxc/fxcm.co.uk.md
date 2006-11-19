@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213950id_/http%3A//www.fxcm.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119111619id_/http%3A//fxcm.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Currency Trading, Forex Trading, Forex, Online Currency Trading
 
