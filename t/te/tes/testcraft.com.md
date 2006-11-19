@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testcraft.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320151843id_/http%3A//testcraft.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testcraft.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119125850id_/http%3A//www.testcraft.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Testcraft - Privacy Statement
 
