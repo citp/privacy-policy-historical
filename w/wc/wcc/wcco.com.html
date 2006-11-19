@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the wcco.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615042039id_/http%3A//wcco.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wcco.com privacy policy that was archived on 2006-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061119044530id_/http%3A//wcco.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- templateok --><head>
 
 <!--<meta http-equiv="content-type" content="text/html; charset=utf-8" />-->
+
 
 
 
@@ -38,16 +39,22 @@
 
 <meta name="copyright" content="2006">
 
-<link rel="stylesheet" type="text/css" href="http://static.viacomlocalnetworks.com/css/screen.css" media="screen, projection">
-<link rel="stylesheet" type="text/css" href="http://static.viacomlocalnetworks.com/css/print.css" media="print, handheld">
+<link rel="stylesheet" type="text/css" media="screen, projection" href="http://static.viacomlocalnetworks.com/css/screen.css">
+<link rel="stylesheet" type="text/css" media="print, handheld" href="http://static.viacomlocalnetworks.com/css/print.css">
 
 <script type="text/javascript" src="http://static.viacomlocalnetworks.com/js/cbs.js"></script>
 <script type="text/javascript" src="http://static.viacomlocalnetworks.com/js/progLayout.js"></script>
+
+
+
 <script type="text/javascript" src="http://static.viacomlocalnetworks.com/js/ads.js"></script>
+
+
+
 
 <!--remove-->
 <!--timestamp-->
-<!--Thu, 15 Jun 2006 00:20:39 EDT-->
+<!--Sat, 18 Nov 2006 23:45:30 EST-->
 <!--end timestamp-->
 <!--/remove-->
 
@@ -73,77 +80,60 @@ var SiteName = "wcco.dayport.com";
 var VLNFlag = 0;
 var VLNParent = "";
 
-function LaunchSyndicateArticle(ArtId,template,CustId,ContId)
+function LaunchSyndicateArticle(ArtId,template,CustId,ContId,CatID)
 {
   var SiteRegExp = new RegExp('@' + SiteName.replace(/\//g,"\\/"),"gi");
   var ArtString=ArtId.toString().replace(SiteRegExp,"");
-  var TemplateFile="";
   var Customer_ID="";
   var Contract_ID="";
-  var ParentFile="wcco4player.htm";
-  var kWidth = 0;
-  var kHeight = 0;
-  var winName = "WCCOViewer";
+  var Category_ID="";  
+  var TemplateFile="";
+  var URLstring="";
+//  var ParentFile="";
+
+  kWidth = 764;
+  kHeight = 449;
+  var winName = "VideoViewer";
   var page;
 
-  if ((template != '') && (typeof template != "undefined"))
-  {
-     TemplateFile = '&tf='+template;
-     switch (template)
-     {      
-        case "weatherviewer.tpl":
-          ParentFile = "";
-          kWidth = 470;
-          kHeight = 497;
-          winName = "WCCOWeatherViewer";
-          break;
+URLstring = "&PreloadContract_DefID=1&Contract_DefID=2";
 
-       case "lastflagviewer.tpl":
-          Contract_ID = "&Contract_DefID=3&PreloadContract_DefID=4";
-          ParentFile = "lastflagraiser.htm";
-          kWidth = 620;  
-          kHeight = 356;
-          winName = "LastFlagRaiser";
-          break;
+if ((template!= '') && (typeof template!= "undefined")) {
+TemplateFile = '&tf='+template;
+}else{
+TemplateFile = '&tf=video_player.tpl';
+}
 
-        case "NoAds":
-          TemplateFile = '';
-          ArtString = ArtString + '&NoAds=true';
-          break;
-     }
-  }
-  
-  if ((CustId != '') && (typeof CustId != "undefined"))
-  {
-    if (CustId.charAt(0) == "-")
-      Customer_ID = '&ExCust='+CustId.slice(1);
-    else      
-      Customer_ID = '&Customer_ID='+CustId;
-  }
-  
-  if ((ContId != '') && (typeof ContId != "undefined") && (ContId == "0"))
-    Contract_ID = '&NoAds=true';
-  else if ((ContId != '') && (typeof ContId != "undefined")) 
-    Contract_ID = '&Contract_ID='+ContId;
-  
-  if (ParentFile == "")
-    page = "http://wcco.dayport.com/viewer/viewerpage.php?Art_ID=" + ArtString + TemplateFile + Customer_ID + Contract_ID;  
-  else
-    page = "http://wccoimg.dayport.com/htm/"+ParentFile+"?Art_ID=" + ArtString + TemplateFile + Customer_ID + Contract_ID;
 
-  if (VLNFlag == 1)
-  {
-    if (VLNParent == "")
-       page = "http://vln.dayport.com/viewer/viewerpage.php?Refer=" + SiteName + "&Art_ID=" + ArtString + TemplateFile + Customer_ID + Contract_ID;
-    else
-       page = "http://vlnimg.dayport.com/htm/"+VLNParent+"?Refer=" + SiteName + "&Art_ID=" + ArtString + TemplateFile + Customer_ID + Contract_ID;
-  }
+if ((CatID != '') && (typeof CatID != "undefined")) {	
+	switch(CatID) {
+		case "14":
+			URLstring = "&PreloadContract_DefID=1&Contract_DefID=5";
+			break;		
+		default:
+			URLstring = "";
+	} 
+}
 
-  if (kWidth == 0)
-    kWidth = 620;  
+	if ((CustId != '') && (typeof CustId != "undefined"))
+        {
+          if (CustId.charAt(0) == "-")
+            Customer_ID = '&ExCust='+CustId.slice(1);
+          else      
+            Customer_ID = '&Customer_ID='+CustId;
+        }
   
-  if (kHeight == 0) 
-    kHeight = 356;
+	if ((ContId != '') && (typeof ContId != "undefined") && (ContId == "0"))
+		Contract_ID = '&NoAds=true';
+	else if ((ContId != '') && (typeof ContId != "undefined")) 
+		Contract_ID = '&Contract_ID='+ContId;  	
+	
+	if ((CatID != '') && (typeof CatID != "undefined"))
+		Category_ID = '&Category_ID='+CatID;
+	else
+		Category_ID = '&Category_ID=5';
+	
+	page = "http://wcco.dayport.com/viewer/viewerpage.php?Art_ID=" + ArtString + TemplateFile + URLstring + Customer_ID + Contract_ID + Category_ID;
 
   var xPosition = screen.width/2-(kWidth/2);
   var yPosition = screen.height/2-(kHeight/2);
@@ -153,7 +143,7 @@ function LaunchSyndicateArticle(ArtId,template,CustId,ContId)
   kWin.opener = self;
   kWin.focus();
   //kWin.moveTo(xPosition, yPosition);  
-  //return null;
+  //return true;
 }
 
 </script>
@@ -164,56 +154,6 @@ function LaunchSyndicateArticle(ArtId,template,CustId,ContId)
 
 
 
-  
-		
-		<script language="JavaScript">var oassitepage='wcco.com/privacy/privacy';</script>
-		
-		<script language="Javascript">
-			OAS_url = 'http://oas.vtsgonline.com/RealMedia/ads/'; 
-			OAS_sitepage = oassitepage;
-		  OAS_rn = '001234567890'; 
-		  OAS_rns ='1234567890'; 
-			OAS_rn = new String (Math.random());
-		  OAS_rns = OAS_rn.substring (2, 11); 
-		</script>
-		
-		<script language="JavaScript">
-		<!--
-			_version=10;
-		//-->	
-		</script>
-		
-		
-		<script language="JavaScript1.1">
-		<!--
-			_version=11;
-		//-->	
-		</script>
-		
-		<script language="JavaScript">
-		<!--
-		  function OAS_AD (OAS_pos) {
-		    var OAS_Position = OAS_pos;
-		    if (_version == 11) {
-		 			OAS_RICH(OAS_pos);
-		    }
-		    else if (_version < 11) {
-					OAS_NORMAL(OAS_pos);
-		    }
-		  }
-		
-		  function OAS_RICH(Position) { 
-				document.write('<SCRIPT LANGUAGE="Javascript1.1" SRC="' + OAS_url + 'adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + Position + '"><\/SCRIPT>');	  	
-		  }
-		
-			function OAS_NORMAL(Position) {
-		  	document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + Position + '">');
-				document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + Position + '"><\/A>');
-		  }
-		
-		//-->
-		</script>
-	
 
 
 
@@ -246,6 +186,12 @@ function LaunchSyndicateArticle(ArtId,template,CustId,ContId)
 </head>
 
 <body class="storypage">
+
+
+
+
+
+
 
 
 <!--shared body here-->
@@ -377,10 +323,24 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
 </dl>
 <dl>
 <dt>WCCO Central</dt>
-<dd><a href="http://wcco.com/community">Community</a></dd>
 <dd><a href="http://wcco.com/minnesotaliving">Minnesota Living</a></dd>
 <dd><a href="http://wcco.jobdig.com">Careers</a></dd>
+<dd><a href="http://wcco.com/realestate">Real Estate</a></dd>
 <dd><a href="http://wcco.com/techcenter">Tech Center</a></dd>
+</dl>
+<dl>
+<dl>
+
+<dt>Just 4 You</dt>
+<dd><a href="http://wcco.com/community">Community</a></dd>
+<dd><a href="http://wcco.com/calendar">Calendar</a></dd>
+<dd><a href="http://wcco.com/contests">Contests</a></dd>
+<dd><a href="http://wcco.com/lottery">Lottery Results</a></dd>
+<dt>Collections</dt>
+<dd><a href="http://wcco.com/video">Video</a></dd>
+<dd><a href="http://wcco.com/slideshows">Slideshows</a></dd>
+<dd><a href="http://wcco.com/blogs">Blogs</a></dd>
+<!--<dd><a href="" tal:attributes="href string:${here/portal_url}/webcams">Webcams</a></dd>-->
 </dl>
 <dl>
 <dl>
@@ -389,7 +349,6 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
 <dd><a href="http://www.match.com/viacom/index.aspx?channel=wcco">Dating</a></dd>
 <dd><a href="http://tripadvisor.wcco.com/">Travel</a></dd>
 <dd><a href="http://wcco.autobytel.com">Autos</a></dd>
-<dd><a href="http://www.livingchoices.com/home/search.aspx?refer=vcomwcco&amp;mid=5120">Real Estate</a></dd>
 <dd><a href="http://search.wcco.com/?__LOGIC=1111&amp;CITY=Minneapolis&amp;STATE=MN&amp;section=Yellow+Pages">Yellow Pages</a></dd>
 <dd><a href="http://search.wcco.com/?__LOGIC=1111&amp;section=Dining&amp;SearchString=">Restaurants</a></dd>
 <dd><a href="http://www.movietickets.com/default.asp?afid=WCCO">Movie Listings</a></dd>
@@ -401,28 +360,9 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
 <dd><a href="http://realfamiliesrealfun.com/wcco">Family</a></dd>
 <dd><a href="http://www.yourbabytoday.com/wcco">New Baby</a></dd>
 </dl>
-<dl>
-<dt>Collections</dt>
-<dd><a href="http://wcco.com/video">Video</a></dd>
-<dd><a href="http://wcco.com/slideshows">Slideshows</a></dd>
-<dd><a href="http://wcco.com/blogs">Blogs</a></dd>
-<!--<dd><a href="" tal:attributes="href string:${here/portal_url}/webcams">Webcams</a></dd>-->
-</dl>
-<dl>
-<dt>Just 4 You</dt>
-<dd><a href="http://wcco.com/calendar">Calendar</a></dd>
-<dd><a href="http://wcco.com/contests">Contests</a></dd>
-<dd><a href="http://wcco.com/lottery">Lottery Results</a></dd>
-</dl></dl>
+<dl></dl></dl></dl>
 
 
-	
-		<script language="JavaScript"> 
-		<!--
-		OAS_AD('Left1'); 
-		//--> 
-		</script><script language="Javascript1.1" src="http://oas.vtsgonline.com/RealMedia/ads/adstream_jx.ads/wcco.com/privacy/privacy/1177048723@Left1"></script>
-	
 	
 
 <dl>
@@ -434,6 +374,7 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
 <dt>About Us</dt>
 <dd><a href="http://wcco.com/info">Station Info</a></dd>
 <dd><a href="http://wcco.com/contact">Contact Us</a></dd>
+<dd><a href="http://static.wcco.viacomlocalnetworks.com/~wcco/advertise/">Advertise</a></dd>
 <dd><a href="http://wcco.com/jobs">WCCO-TV Jobs</a></dd>
 </dl>
 <dl>
@@ -547,14 +488,12 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
 <a href="http://wcco.com/video" style="font-family:georgia, serif; font-size:14px; color:#444;"><img src="http://static.viacomlocalnetworks.com/wcco/img/logo_small.gif" alt="WCCO-TV - Minnesota's Breaking News, Video, Weather, Traffic and Sports"> Video&nbsp;</a>
 
 </td><td valign="top"><div align="right" style="padding: 0px 0px 10px 0px"><a href="#" style="font-size:10px; color:#444; font-weight: bold;">
-	
-		<script language="JavaScript"> 
-		<!--
-		OAS_AD('Position1'); 
-		//-->
-		</script><script language="Javascript1.1" src="http://oas.vtsgonline.com/RealMedia/ads/adstream_jx.ads/wcco.com/privacy/privacy/1177048723@Position1"></script>
-	 
   
+	
+		
+			<script language="JavaScript">var dcIFrame=false;dcSiteName='cbs.wcco';dcZone='privacy';if (dcSiteName=='cbs.wbz4') {dcSiteName = 'cbs.wbz';} else if (dcSiteName=='cbs.krua') {dcSiteName='test.krua';dcIFrame=true;} dcAd(dcSiteName,dcZone,'videosponsorbutton','mod=video;pg=privacy;',dcIFrame);</script>
+		
+	
 
 
 </a></div></td></tr></tbody></table>
@@ -592,12 +531,10 @@ fo.write('flashcontent_video');
 	<div class="nopadblock" id="bigad">
 		<h4>Advertisement</h4>
 		
-			<script language="JavaScript"> 
-			<!--
-			OAS_AD('Right1'); 
-			//--> 
-			</script><script language="Javascript1.1" src="http://oas.vtsgonline.com/RealMedia/ads/adstream_jx.ads/wcco.com/privacy/privacy/1177048723@Right1"></script>
 		
+			
+				<script language="JavaScript">var dcIFrame=false;dcSiteName='cbs.wcco';dcZone='privacy';if (dcSiteName=='cbs.wbz4') {dcSiteName = 'cbs.wbz';} else if (dcSiteName=='cbs.krua') {dcSiteName='test.krua';dcIFrame=true;} dcAd(dcSiteName,dcZone,'messaging','loc=1;pg=privacy;',dcIFrame);</script>
+			
 		
 	</div>
 
@@ -642,13 +579,6 @@ fo.write('flashcontent_video');
 <p id="copyright">© MMVI, CBS Broadcasting Inc. All Rights Reserved.</p>
 </div>
 
-	
-		<script language="JavaScript"> 
-		<!--
-		OAS_AD('Position3'); 
-		//--> 
-		</script><script language="Javascript1.1" src="http://oas.vtsgonline.com/RealMedia/ads/adstream_jx.ads/wcco.com/privacy/privacy/1177048723@Position3"></script>
-	
 	
 
 
