@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the memory-of.com privacy policy that was archived on 2006-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060425050225id_/http%3A//www.memory-of.com/Public/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memory-of.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119163144id_/http%3A//www.memory-of.com/Public/Privacy.aspx) for the most accurate reproduction.*
 
-# Memory-of.com - Cherish your loved one with a memorial site
+# "Memory-of" Privacy Policy
 
 This privacy policy sets out the type of personal information that we - the Library of Life Foundation Limited and the Library of Life Trust - collect, what we use it for and the rights that you have in relation to this information. By using this website, you accept the terms of this privacy policy.
 
