@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myplan.com privacy policy that was archived on 2006-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060518080642id_/http%3A//www.myplan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplan.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119092612id_/http%3A//www.myplan.com/privacy.php) for the most accurate reproduction.*
 
 # MyPlan.com :: Privacy Policy
 
@@ -44,10 +44,13 @@ Email Communications\--MyPlan.com may use your contact information to periodical
 
 Other\--Most other uses of personal information involve aggregate data usage, such as statistical studies and research as well as the development of new products and services. Personal information is also collected and used to complete a transaction such as the purchase of an assessment test license. Note: Credit card and banking information is never stored on our servers; it is merely transmitted to our payment gateway at Authorize.net via 56-bit Secure Sockets Layer encryption.
 
+SHARED ACCESS TO TEST RESULTS  
+MyPlan.com allows users to share their career assessment test results with others (including but not limited to the owner of a group license). The choice of whether to share such information and with whom is completely at the discretion of the user. MyPlan.com merely facilitates this sharing of personal information at the direction of the user. Any abuse, grievance, harm, intrusion, or damage that ensues from this exchange of information is the responsibility of the user who expressly requested that such information be shared.
+
 SHARING OF INFORMATION   
 We will not knowingly sell, share, loan, rent or otherwise transfer your personal information other than in accordance with the terms set forth in this Privacy Policy.
 
-MyPlan.com will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by MyPlan.com, whether or not a response is required by applicable law; (2) to enforce the MyPlan.com Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of our service. We may, however, share broad aggregate demographic data and related usage information with the public or our business partners. This aggregate information does not contain any personal information which can identify any individual user.
+MyPlan.com will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by MyPlan.com, whether or not a response is required by applicable law; (2) to enforce the MyPlan.com Terms of Use Agreement or to protect our rights; (3) to protect the safety of members of the public and users of our service; or (4) to oblige the user’s expressed desire to share career assessment test results with others. We may, however, share broad aggregate demographic data and related usage information with the public or our business partners. This aggregate information does not contain any personal information which can identify any individual user.
 
 SECURITY   
 Security of data is of paramount importance to us. MyPlan.com has rigorous security measures in place to protect against the loss, misuse, theft, and/or unauthorized alteration of information under our control. You are the only user authorized to update your profile, unless you provide your password information to another party. 
@@ -61,7 +64,7 @@ Physical Security of Servers\--Our servers are housed in a co-location facility 
 While we take every reasonable and practical measure to ensure the privacy and protection of your data, you should recognize that no data transmission over the Internet can be guaranteed to be 100% secure. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
 REVIEWING AND UPDATING PERSONAL INFORMATION  
-You can update your personal information by clicking on the "Account" tab at the top of every MyPlan.com page, or by following the instructions included in any e-mail message you receive from MyPlan.com. Users who are experiencing problems with updating their information should contact us at [support@myplan.com](mailto:support@myplan.com), and we will try to resolve your problems immediately.
+You can update your personal information by clicking on the "Account" tab at the top of every MyPlan.com page, or by following the instructions included in any e-mail message you receive from MyPlan.com. Users who are experiencing problems with updating their information should contact us at , and we will try to resolve your problems immediately.
 
 COMMUNITY AREAS  
 Please be aware that whenever you voluntarily post public information to discussion boards, user reviews, or other community areas of our site, that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
@@ -81,5 +84,5 @@ CHANGES TO OUR PRIVACY POLICY
 From time to time, we may make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. Users are bound by any minor changes to the policy when they use our site after changes have been posted. If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify users by using the word “Updated” next to the Privacy Policy link found at the bottom of every MyPlan.com page (including the home page), and keep such notice posted on our website for 30 days.
 
 QUESTION & COMMENTS  
-MyPlan.com welcomes your comments regarding this Privacy Policy. If you have questions about this policy or believe that we have not adhered to it, please contact us at [corp@myplan.com](mailto:corp@myplan.com) (MyPlan.com, L.L.C., 11901 Susan Dr., Granada Hills, CA 91344).  
+MyPlan.com welcomes your comments regarding this Privacy Policy. If you have questions about this policy or believe that we have not adhered to it, please contact us at  (MyPlan.com, L.L.C., 11901 Susan Dr., Granada Hills, CA 91344).  
 
