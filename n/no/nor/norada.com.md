@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615172102id_/http%3A//norada.com/privacy.360%3Fsite%3DNorada) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119123447id_/http%3A//www.norada.com/privacy.360%3Fsite%3DNorada) for the most accurate reproduction.*
 
 # None
 
