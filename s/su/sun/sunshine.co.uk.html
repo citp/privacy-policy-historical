@@ -1,20 +1,21 @@
-<!--The following is the downloaded HTML source of the sunshine.co.uk privacy policy that was archived on 2006-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060505235725id_/http%3A//www.sunshine.co.uk/Sunshine-Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sunshine.co.uk privacy policy that was archived on 2006-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061119232415id_/http%3A//www.sunshine.co.uk/Sunshine-Privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
-<title>Privacy Policy</title>
+<title>Sunshine Privacy Policy</title>
+<meta name="keywords" content="Help topics, privacy policy, Holiday questions, faq, prices low, transfers included, Sunshine holidays">
+<meta name="description" content="Sunshine Privacy Policy. Sunshine holidays do not sell or use your information for any other use except for what is listed on the privacy statement. ">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta http-equiv="EXPIRES" content="0">
-<meta name="AUTHOR" content="Sunshine">
-<meta name="COPYRIGHT" content="Copyright (c) 2006 by Sunshine">
-<meta name="KEYWORDS" content="Cheap Holidays with Sunshine">
-<meta name="DESCRIPTION" content="Cheap Holidays with Sunshine">
+<meta http-equiv="expires" content="0">
+<meta name="author" content="Sunshine">
+<meta name="copyright" content="Copyright (c) 2006 by Sunshine">
 <meta name="ROBOTS" content="ALL">
 <link rel="shortcut icon" href="http://www.sunshine.co.uk/favicon.ico" type="image/x-icon">
 <link rel="ICON" href="http://www.sunshine.co.uk/favicon.ico" type="image/x-icon">
 <link rel="StyleSheet" href="http://www.sunshine.co.uk/includes/style.css" type="text/css">
 <script language="javascript" src="http://www.sunshine.co.uk/includes/common.js" type="text/javascript"></script>
-<script language="javascript" src="http://www.sunshine.co.uk/includes/dfetch.js" type="text/javascript"></script>
+<script language="javascript" src="http://www.sunshine.co.uk/includes/base.js" type="text/javascript"></script>
+<script language="javascript" src="http://www.sunshine.co.uk/holidays/holfetch.js" type="text/javascript"></script>
 <script language="javascript" src="http://www.sunshine.co.uk/includes/search.js" type="text/javascript"></script>
 <script language="javascript" src="http://www.sunshine.co.uk/includes/calendarc.js" type="text/javascript"></script>
 </head>
@@ -22,15 +23,17 @@
 <table width="750" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td rowspan="3" width="286">
-			<a href="http://www.sunshine.co.uk/"><img src="http://www.sunshine.co.uk/images/header.gif" alt="Privacy Policy" title="Privacy Policy" width="286" height="94"></a></td>
+			<a href="http://www.sunshine.co.uk/"><img src="http://www.sunshine.co.uk/images/header.gif" alt="Sunshine Privacy Policy" title="Sunshine Privacy Policy" width="286" height="94"></a></td>
 		<td width="435" height="23">
 			</td>
 		<td rowspan="3">
 			<img src="http://www.sunshine.co.uk/images/headerend.gif" alt="" width="29" height="94"></td>
 	</tr>
 	<tr>
-		<td width="435" height="32" bgcolor="#FE8712" align="left"><div id="toptab"> <img src="http://www.sunshine.co.uk/images/redspot.gif" border="0"> <a href="http://www.sunshine.co.uk/Destinations.html" class="toptab">destinations</a>
+		<td width="435" height="32" bgcolor="#FE8712" align="left"><div id="toptab"> &nbsp;&nbsp;<img src="http://www.sunshine.co.uk/images/redspot.gif" border="0"> <a href="http://www.sunshine.co.uk/Destinations.html" class="toptab">destinations</a>
+		&nbsp;&nbsp;<img src="http://www.sunshine.co.uk/images/redspot.gif" border="0"> <a href="http://www.sunshine.co.uk/holidays/" class="toptab">holidays</a>
 		&nbsp;&nbsp;<img src="http://www.sunshine.co.uk/images/redspot.gif" border="0"> <a href="http://www.sunshine.co.uk/hotels/" class="toptab">hotels</a>
+		&nbsp;&nbsp;<img src="http://www.sunshine.co.uk/images/redspot.gif" border="0"> <a href="http://www.sunshine.co.uk/flights/" class="toptab">flights</a>
 
 	</div></td>
 	</tr>
@@ -42,7 +45,26 @@
 			<tbody><tr>
 				<td width="217" valign="top" align="center">
 					<table width="217" valign="top" align="center" cellpadding="0" cellspacing="0">
-					<tbody><tr><td><script>showSearch('','','','','','','','','','','','','','',false,'');</script>		</td></tr><tr><td><div align="center" style="padding:10px 0px 10px 0px;"><img height="84" width="120" src="http://www.sunshine.co.uk/images/abta-atol.gif" alt="ABTA, ATOL protected travel site" title="ABTA, ATOL protected travel site"></div>
+					<tbody><tr><td>
+      	<script>
+      	function cType(news)
+      	{
+      	     setCookie('stype', news.substring(0,3),'','/','www.sunshine.co.uk');
+      	     if(location.href.indexOf('/hotels/')!=-1&&news!='flights')
+	             gElm('typeform').action=location.href;
+	         else
+	           gElm('typeform').action='/'+news;
+      	     
+      	     gElm('typeform').submit();
+      	}
+      	</script>
+      	<table cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr>
+      	<td style="background-image:url('http://www.sunshine.co.uk/images/menu.gif');padding:7px;background-repeat:repeat-y;" align="center" valign="top">
+      	<form method="post" id="typeform">
+            <div align="center" class="toptab" style=" white-space:nowrap;"><input style="border:none;" checked="checked" type="radio" name="stype" onclick="cType('holidays');">holidays<input style="border:none;" type="radio" name="stype" onclick="cType('hotels');">hotels<input style="border:none;" type="radio" name="stype" onclick="cType('flights');">flights&nbsp;</div>
+        </form></td></tr></tbody></table><script>showSearch('','','','','','','','','','','','','','',true,'');</script>		
+</td></tr><tr><td><div align="center" style="padding:10px 0px 10px 0px;"><img height="84" width="120" src="http://www.sunshine.co.uk/images/abta-atol.gif" alt="ABTA, ATOL protected travel site" title="ABTA, ATOL protected travel site"></div>
 						<table cellpadding="0" cellspacing="0" width="100%">
 						<tbody><tr>
 						<td align="center" height="48" valign="top" background="http://www.sunshine.co.uk/images/newsletter-menu-top.gif">
@@ -70,15 +92,14 @@
 		<tbody><tr>
 			<td width="32" height="32" background="http://www.sunshine.co.uk/images/footerl.gif"></td>
 			<td align="center" width="686" height="32" bgcolor="#FE8712"><a class="headerlink" href="http://www.sunshine.co.uk/">home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="headerlink" href="http://www.sunshine.co.uk/Sunshine-FAQ.html">faqs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="headerlink" href="http://www.sunshine.co.uk/Sunshine-Terms-And-Conditions.html">terms and conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="headerlink" href="http://www.sunshine.co.uk/Sunshine-Help.html">contact us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="headerlink" href="http://www.sunshine.co.uk/Destinations.html">sitemap</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="headerlink" href="http://www.sunshine.co.uk/Sunshine-Privacy.html">privacy statement</a>&nbsp;&nbsp;|&nbsp;&nbsp;© copyright 2006</td>
-			<td width="29" height="32" background="http://www.sunshine.co.uk/images/footerr.gif">
-		</td>
-		</tr>
+			<td width="29" height="32" style="background-image:url(http://www.sunshine.co.uk/images/footerr.gif);background-repeat:no-repeat;">
+		</td></tr>
 		</tbody></table>
 		</td></tr>
 		<tr><td colspan="3" align="center"><br>sunshine.co.uk and Happy Holidayz are trading names of the Freedom Travel Group Limited. <br>Registered in England 3816981. VAT no. 150 5755 73. Registered office: Hamil Road, Burslem, Stoke On Trent ST6 1AJ. <br>The Freedom Travel Group Limited is a subsidiary of United Co-operatives Limited.</td></tr><tr><td colspan="3">
 		<table align="left" cellpadding="0" cellspacing="0" width="100%">
 		<tbody><tr>
-			<td align="left" width="100%"><br><br><br><div align="center">Hotels: <a href="http://www.sunshine.co.uk/Sitemap-Canary_Islands.html" class="headerlink">Canary Islands</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Cyprus.html" class="headerlink">Cyprus</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Egypt.html" class="headerlink">Egypt</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Greece.html" class="headerlink">Greece</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Madeira.html" class="headerlink">Madeira</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Malta.html" class="headerlink">Malta</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Portugal.html" class="headerlink">Portugal</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Spain.html" class="headerlink">Spain</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Tunisia.html" class="headerlink">Tunisia</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Turkey.html" class="headerlink">Turkey</a>&nbsp;&nbsp;&nbsp;</div>
+			<td align="left" width="100%"><br><br><br><div align="center" style="width:90%;">Hotels: <a href="http://www.sunshine.co.uk/Sitemap-Barbados.html" class="headerlink">Barbados</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Bulgaria.html" class="headerlink">Bulgaria</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Canary_Islands.html" class="headerlink">Canary Islands</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Croatia.html" class="headerlink">Croatia</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Cyprus.html" class="headerlink">Cyprus</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Dominican_Republic.html" class="headerlink">Dominican Republic</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Egypt.html" class="headerlink">Egypt</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Greece.html" class="headerlink">Greece</a>&nbsp;&nbsp;&nbsp;<br><a href="http://www.sunshine.co.uk/Sitemap-Grenada.html" class="headerlink">Grenada</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Italy.html" class="headerlink">Italy</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Madeira.html" class="headerlink">Madeira</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Malta.html" class="headerlink">Malta</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Mexico.html" class="headerlink">Mexico</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Morocco.html" class="headerlink">Morocco</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Portugal.html" class="headerlink">Portugal</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Spain.html" class="headerlink">Spain</a>&nbsp;&nbsp;&nbsp;<br><a href="http://www.sunshine.co.uk/Sitemap-Tunisia.html" class="headerlink">Tunisia</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-Turkey.html" class="headerlink">Turkey</a>&nbsp;&nbsp;&nbsp;<a href="http://www.sunshine.co.uk/Sitemap-United_States.html" class="headerlink">United States</a>&nbsp;&nbsp;&nbsp;</div>
 			</td>
 		</tr>
 	</tbody></table>
