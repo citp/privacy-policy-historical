@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techworld.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618104202id_/http%3A//www.techworld.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techworld.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119060128id_/http%3A//www.techworld.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Techworld.com
 
-[](http://idg2.bta.com/surveys/wsb.dll/tracyf/techworlduser.htm)
+**Editorial team 2006 // business**
 
 Keep up-to-date with the latest IT and Networking solutions, events and industry opportunities by e-mail, delivered straight to your inbox.
 
