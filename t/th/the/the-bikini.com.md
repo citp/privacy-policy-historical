@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615045245id_/http%3A//the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119200349id_/http%3A//the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # the- bikini .com: extreme bikinis for sexy women. Thongs, mini, brazilian, sheer, tiny bikini
 
   
+
+
+Model Contris
+
+[](https://web.archive.org/contributions/)  
+You can contribute too!  
+[Models !](https://web.archive.org/contributions/)  
+
+
   
   
   
@@ -45,7 +54,6 @@ Paypal
 
 |   
 ---  
-  
   
   
   
@@ -106,4 +114,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20060615045245id_/http%3A//the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20061119200349id_/http%3A//the-bikini.com/contact/). 
