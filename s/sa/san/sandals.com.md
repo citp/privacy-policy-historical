@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandals.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004031id_/http%3A//www.sandals.com/general/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandals.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119231223id_/http%3A//www.sandals.com/general/privacy.cfm) for the most accurate reproduction.*
 
 # Couples All-Inclusive Resorts
 
