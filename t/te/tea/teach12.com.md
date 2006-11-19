@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teach12.com privacy policy that was archived on 2006-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060512140832id_/http%3A//www.teach12.com/ttc/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teach12.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119032846id_/http%3A//www.teach12.com/ttc/Privacy.asp) for the most accurate reproduction.*
 
 # The Teaching Company - Privacy Policy
 
@@ -69,7 +69,7 @@ If you are not a registered user, please contact us through one of the means lis
 **E-mail:** [custserv@teachco.com ](mailto:custserv@teachco.com)
 
 **Phone** : 1-800-TEACH-12 (1-800-832-2412)   
-Our office hours are 9:00 a.m. to 9:00 p.m. Eastern Time, Monday through Friday; and 9:00 a.m. to 5:00 p.m. Eastern Time, Saturday. 
+Our office hours are 9 a.m. to 9 p.m., Eastern Time, Monday through Friday; and 9 a.m. to 5 p.m. Eastern Time, Saturday. 
 
 **Fax:** 703-378-3819 
 
