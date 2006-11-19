@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the darkthrone.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210649id_/http%3A//darkthrone.com/privacy.dt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkthrone.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119220052id_/http%3A//darkthrone.com/privacy.dt) for the most accurate reproduction.*
 
-# Dark Throne (beta) Privacy
+# Dark Throne Privacy
 
 **Overview**
 
