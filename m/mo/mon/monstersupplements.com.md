@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monstersupplements.com privacy policy that was archived on 2006-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060212060029id_/http%3A//monstersupplements.com/store/general_detail-6-lang-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstersupplements.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120001154id_/http%3A//monstersupplements.com/store/general_detail-6-lang-1.html) for the most accurate reproduction.*
 
-# privacy policy : Monstersupplements - The cheapest sports supplement site on the Net.
+# privacy policy : sports supplements and bodybuilding products at discount prices - Monster Supplements.com
 
 **Our Commitment to Privacy**
 
@@ -86,4 +86,4 @@ Please remember that when you use a link to go from our Web site to another Web 
   
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. 
 
-[Pin this page to MyMenu](https://web.archive.org/web/20060212060029id_/http%3A//monstersupplements.com/store/mymenu_pin_to.php?url=http://www.monstersupplements.com/store/general_detail-6-lang-1.html&title=Privacy%20Policy&return_link=http://www.monstersupplements.com/store/general_detail-6-lang-1.html)
+[Pin this page to MyMenu](https://web.archive.org/web/20061120001154id_/http%3A//monstersupplements.com/store/mymenu_pin_to.php?url=http://www.monstersupplements.com/store/general_detail-6-lang-1.html&title=Privacy%20Policy&return_link=http://www.monstersupplements.com/store/general_detail-6-lang-1.html)
