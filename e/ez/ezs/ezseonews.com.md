@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezseonews.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223124id_/http%3A//ezseonews.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezseonews.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119093043id_/http%3A//ezseonews.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ If you send a friend an email from this site or if you send the url or one of ou
 
 **INFORMATION OBTAINED FROM VOLUNTARY VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER SURVEYS**
 
-Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used for general solicitation for commercial purposes and that such information will be shared with joint venture partners, affiliates, marketing organization or used by the site itself for product design or solicitation purposes. 
+Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used by the site itself for product design or solicitation purposes. We will never sell or give away your email address to any other company. 
 
 **INFORMATION OBTAINED FROM ELECTRONIC MEANS AND 'COOKIES'**
 
@@ -72,7 +72,7 @@ Cookies can be used to electronically gather information about you. Again, it ma
 
 **HOW INFORMATION MAY BE USED**
 
-The use of information as described below may or may not be how information that is collected is customarily used by this site. While actual use of any information collected may be used quite conservatively, you must assume that it is not. You must assume that information collected is shared with other persons or entities for commercial purposes. While this is uncommon in practice, you must assume that it is as you make your decision whether or not to view or interact with this website. This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information. This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with. 
+Information collected by this site is never sold or rented to any other company, though we may use it to send you mailings you requested.
 
 **INFORMATION THAT IS NOT SHARED**
 
@@ -100,7 +100,7 @@ This Privacy Policy is dynamic. It will continually change. You may not assume t
 
 **LATEST UPDATE**
 
-This Privacy Policy was last updated on: **10th March 2006**
+This Privacy Policy was last updated on: **3rd July 2006**
 
 **COPYRIGHT**
 
