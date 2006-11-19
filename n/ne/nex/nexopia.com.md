@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the nexopia.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615030739id_/http%3A//www.nexopia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexopia.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119133903id_/http%3A//www.nexopia.com/privacy.php) for the most accurate reproduction.*
 
 # Nexopia
 
-  
 Our Commitment To Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our on line information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, you will find a link to it at the bottom of every page on Nexopia.com.
@@ -37,7 +36,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 How You Can Access Or Correct Your Information
 
-You can access all your personally identifiable information that we collect on line and maintain by viewing your Profile as the world sees it by click on the My Profile link in the top menu of any page. You can also email privacy@nexopia.com to request to see all the information will hold about you.
+You can access all your personally identifiable information that we collect on line and maintain by viewing your Profile as the world sees it by click on the My Profile link in the top menu of any page. You can also email privacy@nexopia.com to request to see all the information will hold about you. 
 
 You can correct factual errors in your personally identifiable information by logging into your account using your username and password and editing the information in question.
 
@@ -49,7 +48,7 @@ Should you have other questions or concerns about these privacy policies, please
 
 Third Party Advertising
 
-We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here](http://www.networkadvertising.org/optout_nonppii.asp)
+We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ please click here](http://www.networkadvertising.org/optout_nonppii.asp)
 
 Third Party Cookies
 
