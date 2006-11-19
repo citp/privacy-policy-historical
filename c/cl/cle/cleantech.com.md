@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cleantech.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618163116id_/http%3A//cleantech.com/index.cfm%3FpageSRC%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleantech.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119212509id_/http%3A//cleantech.com/index.cfm%3FpageSRC%3DPrivacyPolicy) for the most accurate reproduction.*
 
-# Cleantech Venture Network - Privacy Policy
+# Cleantech Venture Network® - Privacy Policy
 
 **Who We Are > Privacy Policy**
 
 _**WEBSITE PRIVACY POLICY***_
 
-Cleantech Venture Network ("us," "we" "our" or "Cleantech") created this Web Site Privacy Policy ("Privacy Policy") in order to ensure the confidence of visitors and customers ("you" or "your") of and to our Web site (the "Site"), and to demonstrate our commitment to fair information practices and the protection of privacy. 
+Cleantech Venture Network® ("us," "we" "our" or "Cleantech") created this Web Site Privacy Policy ("Privacy Policy") in order to ensure the confidence of visitors and customers ("you" or "your") of and to our Web site (the "Site"), and to demonstrate our commitment to fair information practices and the protection of privacy. 
 
 **1\. Types of Information Collected**
 
@@ -50,4 +50,4 @@ Cleantech Venture Network ("us," "we" "our" or "Cleantech") created this Web Sit
 
 * * *
 
-© Copyright 2006, Cleantech Venture Network™ - All rights reserved
+© Copyright 2006, Cleantech Venture Network® \- All rights reserved
