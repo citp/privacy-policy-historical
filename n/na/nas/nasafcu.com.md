@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nasafcu.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626164549id_/http%3A//nasafcu.com/l2.aspx%3Fci%3D123) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasafcu.com privacy policy that was archived on 2006-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061119092704id_/http%3A//nasafcu.com/l2.aspx%3Fci%3D123) for the most accurate reproduction.*
 
 # Privacy Pledge
 
-[](https://web.archive.org/web/20060626164549id_/http%3A//nasafcu.com/l2.aspx?ci=77) [](https://web.archive.org/web/20060626164549id_/http%3A//nasafcu.com/homepage.aspx "Home Page")  
+[](https://web.archive.org/web/20061119092704id_/http%3A//nasafcu.com/l2.aspx?ci=77) [](https://web.archive.org/web/20061119092704id_/http%3A//nasafcu.com/homepage.aspx "Home Page")  
 |  |   
-|  ASK US NOW | [CONTACT US](https://web.archive.org/web/20060626164549id_/http%3A//nasafcu.com/l2.aspx?ci=257) | SEARCH THE SITE  
+|  ONLINE CHAT | [CONTACT US](https://web.archive.org/web/20061119092704id_/http%3A//nasafcu.com/l2.aspx?ci=257) | [SEARCH THE SITE](http://www.nasafcu.com/l2.aspx?ci=928)  
   
   
 ---|---  
@@ -171,7 +171,7 @@ Register your residential and cell phone numbers online at **www.donotcall.gov**
 
   
   
-[](https://web.archive.org/web/20060626164549id_/http%3A//nasafcu.com/l2.aspx?ci=894)  
-[](https://web.archive.org/web/20060626164549id_/http%3A//nasafcu.com/l2.aspx?ci=719)  
+[](https://web.archive.org/web/20061119092704id_/http%3A//nasafcu.com/l2.aspx?ci=900)  
+[](https://web.archive.org/web/20061119092704id_/http%3A//nasafcu.com/l2.aspx?ci=901)  
 |    
 
