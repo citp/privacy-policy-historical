@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the thegamecreators.com privacy policy that was archived on 2006-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060620065811id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamecreators.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120040449id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy) for the most accurate reproduction.*
 
 # The Game Creators - Privacy Policy
 
 Order Online
 
-[](https://web.archive.org/web/20060620065811id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=7&f=order)
+[](https://web.archive.org/web/20061120040449id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=3&f=order)
 
 Newsletter
 
-**Issue 41** is out now  
-[](https://web.archive.org/web/20060620065811id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter)  
+**Issue 46** is out now  
+[](https://web.archive.org/web/20061120040449id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter)  
 Sign up now for our free monthly newsletter 
 
 Forums
 
-Join thousands of game developers in our forums and browse over 870,000 messages.
+Join tens of thousands of game developers in our forums, and read over 1 million messages.
 
 Product Index
 
@@ -45,7 +45,7 @@ Our site's registration form requires users to give us contact information (like
 
 Contact information from the registration forms is used to get in touch with the customer when necessary.
 
-No mailings will be sent to you other than ones to do with your order. If you wish to opt-in to our mailing list you can do so by [clicking here](https://web.archive.org/web/20060620065811id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter).
+No mailings will be sent to you other than ones to do with your order. If you wish to opt-in to our mailing list you can do so by [clicking here](https://web.archive.org/web/20061120040449id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter).
 
 Financial information that is collected is used to bill the user for products and services by the Share-It and PayPal services. At no time does The Game Creators Limited see your card or bank details.
 
@@ -53,7 +53,7 @@ Our site uses an order form for customers to request information, products, and 
 
 Contact information from the order forms is used to get in touch with the visitor when necessary.
 
-No mailings will be sent to you other than ones to do with your order. If you wish to opt-in to our mailing list you can do so by [clicking here](https://web.archive.org/web/20060620065811id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter).
+No mailings will be sent to you other than ones to do with your order. If you wish to opt-in to our mailing list you can do so by [clicking here](https://web.archive.org/web/20061120040449id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter).
 
 This site contains links to other sites. The Game Creators Limited are not responsible for the privacy practices or the content of such Web sites and you visit them at your own risk.
 
@@ -63,7 +63,7 @@ This site gives users the following options for changing and modifying informati
 
 You can edit your details by using the User Control Panel after logging into the site. If you do not have a User Account then no details can be changed.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using our [feedback form](https://web.archive.org/web/20060620065811id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?m=contact_feedback).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us using our [feedback form](https://web.archive.org/web/20061120040449id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?m=contact_feedback).
 
 Last Updated: 24 July 2003
 
@@ -71,36 +71,36 @@ Last Updated: 24 July 2003
 
 Latest Releases
 
-[DBPro Upgrade 6.1](https://web.archive.org/web/20060620065811id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=2&f=upgrade_6_1)  
-[Dark A.I.](https://web.archive.org/web/20060620065811id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=2&f=dark_ai)  
-[Animated Sprite Pack](https://web.archive.org/web/20060620065811id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=0&f=sprite_pack_1)  
-[Dark Voices](https://web.archive.org/web/20060620065811id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=2&f=dark_voices)  
-[3D World Studio](http://3dworldstudio.thegamecreators.com/)  
-[Unity (Lua) for DBPro](https://web.archive.org/web/20060620065811id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=2&f=lua)  
+[ConvSEO](https://web.archive.org/web/20061120040449id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=2&f=convseo)  
+[DarkGDK .NET](https://web.archive.org/web/20061120040449id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=21&f=dgdk_net)  
+[FPSC Model Pack 5](http://www.fpscreator.com/pack5.html)  
+[DBPro Upgrade 6.3](https://web.archive.org/web/20061120040449id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=2&f=upgrade_6_3)  
+[STYX for DBPro](https://web.archive.org/web/20061120040449id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=2&f=styx)  
+[Dark Physics](http://darkphysics.thegamecreators.com/)  
 
 
-Newsletter - 41
+Newsletter - 46
 
-[](https://web.archive.org/web/20060620065811id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter)
+[](https://web.archive.org/web/20061120040449id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?gf=newsletter)
 
-In this issue: Dark AI Compo, Dark Physics, Gem Towers, Retro Remakes, 2 Tutorials and much more
-
-Quick Poll
-
-**What is your favourite gaming genre?**
+PhysX Compo Results, 4 Tutorials, FPSC Model Pack 5, Game Videos & stacks more.
 
 Special Offer
 
-[](https://web.archive.org/web/20060620065811id_/http%3A//www.thegamecreators.com/%3Fgf%3Dprivacy_policy?s=13&f=order)
+[](http://darkbasicpro.thegamecreators.com/?f=hands_on_vol2)
+
+Quick Poll
+
+**Which next-gen console do you plan to buy?**
 
 User Showcase
 
 The games shown below were created with DarkBASIC and DarkBASIC Professional
 
+[](http://darkbasicpro.thegamecreators.com/?m=showcase_view&i=212 "Gigahertz Race")  
 [](http://darkbasicpro.thegamecreators.com/?m=showcase_view&i=228 "Star Thing")  
-[](http://darkbasic.thegamecreators.com/?m=showcase_view&i=62 "Billy Bouncer")  
-[](http://darkbasicpro.thegamecreators.com/?m=showcase_view&i=225 "Soul Captor")  
-[](http://darkbasic.thegamecreators.com/?m=showcase_view&i=120 "3D Map Editor")  
-[](http://darkbasic.thegamecreators.com/?m=showcase_view&i=67 "Meteor Storm 2")  
+[](http://darkbasic.thegamecreators.com/?m=showcase_view&i=115 "Sherman 2")  
+[](http://darkbasic.thegamecreators.com/?m=showcase_view&i=65 "DarkEDIT 1.56")  
+[](http://darkbasic.thegamecreators.com/?m=showcase_view&i=135 "Zwischenzug")  
   
 ---|---|---
