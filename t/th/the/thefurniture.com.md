@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefurniture.com privacy policy that was archived on 2006-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060517060222id_/http%3A//www.thefurniture.com/store/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefurniture.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120042111id_/http%3A//www.thefurniture.com/store/privacy-policy.asp) for the most accurate reproduction.*
 
 # TheFurniture.com :: Privacy and Security Policy
 
