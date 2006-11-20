@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kalooga.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206035040id_/http%3A//www.kalooga.com/index.php%3Fpage%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalooga.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120153827id_/http%3A//www.kalooga.com/index.php%3Fpage%3Dpp) for the most accurate reproduction.*
 
 # Kalooga Inc.
 
 #### Privacy Policy
 
-By using Kalooga search you agree to be bound by the terms and conditions outlined in the [Terms of Service](https://web.archive.org/web/20050206035040id_/http%3A//www.kalooga.com/index.php%3Fpage%3Dpp?page=tos) (TOS). The Kalooga Privacy Policy is part of the Kalooga TOS. Kalooga reserves the right to change it's Terms of Service and it's search service at any time without any notice or any liability to anyone. Changes will be put on the website with immediate effect.
+By using Kalooga search you agree to be bound by the terms and conditions outlined in the [Terms of Service](https://web.archive.org/web/20061120153827id_/http%3A//www.kalooga.com/index.php%3Fpage%3Dpp?page=tos) (TOS). The Kalooga Privacy Policy is part of the Kalooga TOS. Kalooga reserves the right to change it's Terms of Service and it's search service at any time without any notice or any liability to anyone. Changes will be put on the website with immediate effect.
 
 Kalooga has a strict privacy policy, which aims to respect and protect the privacy of those that use Kalooga's search engine. Information which is identifiable as being information about you is not disclosed to any third party without first receiving your permission, except in cases where Kalooga is required to do so by a valid legal process. 
 
