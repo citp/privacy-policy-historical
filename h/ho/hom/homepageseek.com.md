@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homepageseek.com privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630070325id_/http%3A//www.homepageseek.com/about.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepageseek.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120074940id_/http%3A//www.homepageseek.com/about.htm) for the most accurate reproduction.*
 
 # Homepageseek Privacy Statement
 
