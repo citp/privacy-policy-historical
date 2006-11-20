@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617071311id_/http%3A//www.wachovia.com/privacy/1%2C%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120141047id_/http%3A//www.wachovia.com/privacy/1%2C%2C%2C00.html) for the most accurate reproduction.*
 
 # Wachovia Privacy Statement
 
@@ -223,11 +223,11 @@ Direct Marketing Association 
 P.O. Box 643   
 Carmel, NY 10512
 
-[DMA Email Preference Service](http://www.dmaconsumers.org/optoutform_emps.shtml)  
+[DMA Email Preference Service](http://www.dmaconsumers.org/optoutform_emps.shtml)†  
 
 To limit telemarketing calls from companies outside of Wachovia, you may add your telephone number to the National Do Not Call list through the following Web site:
 
-[donotcall.gov](http://www.donotcall.gov/)
+[donotcall.gov](http://www.donotcall.gov/)†
 
 If you are a Wachovia customer, some Wachovia companies may contact you by telephone about Wachovia products and services even if you have registered your telephone number with the National Do Not Call list. To direct Wachovia not to contact you by telephone to offer its products or services, please see the section titled Your Choices as a Customer.
 
