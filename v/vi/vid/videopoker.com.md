@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videopoker.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616211603id_/http%3A//videopoker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videopoker.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120071031id_/http%3A//www.videopoker.com/privacy) for the most accurate reproduction.*
 
 # VideoPoker.com Privacy Policy
 
