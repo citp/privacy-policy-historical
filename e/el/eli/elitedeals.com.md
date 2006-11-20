@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitedeals.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615224112id_/http%3A//www.elitedeals.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitedeals.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120050034id_/http%3A//elitedeals.com/privacypolicy.html) for the most accurate reproduction.*
 
 # - EliteDeals.com
 
