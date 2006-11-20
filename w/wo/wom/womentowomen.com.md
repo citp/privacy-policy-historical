@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2006-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060316000240id_/http%3A//www.womentowomen.com/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120014009id_/http%3A//www.womentowomen.com/legal.asp) for the most accurate reproduction.*
 
 # Legal/Privacy
 
