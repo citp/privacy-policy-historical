@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomsonlocal.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622224527id_/http%3A//thomsonlocal.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomsonlocal.com privacy policy that was archived on 2006-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061121003029id_/http%3A//www.thomsonlocal.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # ThomsonLocal.com the home of the Thomson Local online
 
