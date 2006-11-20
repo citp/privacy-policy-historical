@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrbeer.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619134434id_/http%3A//mrbeer.com/privacy.php%3Fmenu%3Dsub1%26mactive%3D0%26subactive%3D-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrbeer.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120082849id_/http%3A//mrbeer.com/privacy.php%3Fmenu%3Dsub1%26mactive%3D0%26subactive%3D-1) for the most accurate reproduction.*
 
 # Mr. Beer - America's favorite home brewing kit
 
