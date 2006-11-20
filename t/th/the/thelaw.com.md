@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623223442id_/http%3A//www.thelaw.com/content/view/33/62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2006-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061120102438id_/http%3A//www.thelaw.com/faqs/site-legal-policies/privacy-policy.html) for the most accurate reproduction.*
 
-# TheLaw.com - Free Legal Advice from Lawyers, Attorneys, Resources, Information - Privacy Policy
+# TheLaw.com - Free Legal Advice from Lawyers & Attorneys - Privacy Policy
 
-Written by [ Administrator ](http://www.thelaw.com/component/option,com_comprofiler/task,userProfile/user,62/)      
-Tuesday, 06 December 2005    | |  |  |  |  |  [](http://www.thelaw.com/forums/)  
----|---|---|---|---  
+Written by [Administrator](http://www.thelaw.com/component/option,com_comprofiler/Itemid,0/task,userProfile/user,62/)     
+Tuesday, 06 December 2005   
   
 **Privacy Policy v. 1.12**
 
