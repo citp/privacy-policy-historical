@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the proflowers.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214091759id_/http%3A//www.providecommerce.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proflowers.com privacy policy that was archived on 2006-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061121063751id_/http%3A//www.providecommerce.com/privacy.aspx) for the most accurate reproduction.*
 
 # Provide Commerce Privacy Policy at PRVD.com
 
 | 
 
-[](https://web.archive.org/web/20051214025831id_/http://www.prvd.com/CustomerOfferings_Proflowers.aspx)
+[](https://web.archive.org/web/20061201025733id_/http://www.prvd.com/CustomerOfferings_Proflowers.aspx)
 
-[](https://web.archive.org/web/20051214025831id_/http://www.prvd.com/CustomerOfferings_CherryMoonFarms.aspx)
+[](https://web.archive.org/web/20061201025733id_/http://www.prvd.com/CustomerOfferings_CherryMoonFarms.aspx)
 
-[](https://web.archive.org/web/20051214025831id_/http://www.prvd.com/CustomerOfferings_UptownPrime.aspx)
+[](https://web.archive.org/web/20061201025733id_/http://www.prvd.com/CustomerOfferings_UptownPrime.aspx)
+
+[](https://web.archive.org/web/20061201025733id_/http://www.prvd.com/CustomerOfferings_SecretSpoon.aspx)
 
 |  | 
 
@@ -18,7 +20,7 @@
 
 **Overview**
 
-Provide Commerce, Inc. ("Provide Commerce," "we" or "us") is committed to protecting our customers' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of each of our websites located at, or linked to, the URLs [www.proflowers.com](http://www.proflowers.com/), [www.uptownprime.com](http://www.uptownprime.com/), [www.cherrymoonfarms.com](http://www.cherrymoonfarms.com/), [www.secretspoon.com](http://www.secretspoon.com/), [www.providecommerce.com](http://www.providecommerce.com/) and [www.prvd.com](http://www.prvd.com/), and through the use of any of our co-branded sites we maintain with one or more of our business partners (which website contains a link to these terms and conditions or whose URL address contains any of the root URLs "www.proflowers.com/", "www.cherrymoonfarms.com/", "www.uptownprime.com/", "www.providecommerce.com/" or "www.prvd.com/") (collectively, our "Sites"). Please read this privacy policy ("Policy") carefully to understand how we will use and protect your personal information. We will never share your personal information with anyone except as described in this Policy. Changes to this Policy will be announced on each of our Sites at least ten (10) days in advance, so please check back periodically.
+Provide Commerce, Inc. ("Provide Commerce," "we" or "us") is committed to protecting our customers' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of each of our websites located at, or linked to, the URLs [www.proflowers.com](http://www.proflowers.com/), [www.uptownprime.com](http://www.uptownprime.com/), [www.cherrymoonfarms.com](http://www.cherrymoonfarms.com/), [www.secretspoon.com](http://www.secretspoon.com/), [www.providecommerce.com](http://www.providecommerce.com/) and [www.prvd.com](http://www.prvd.com/), and through the use of any of our co-branded sites we maintain with one or more of our business partners (which website contains a link to this privacy policy or whose URL address contains any of the root URLs "www.proflowers.com/", "www.cherrymoonfarms.com/", "www.uptownprime.com/", "www.secretspoon.com/", "www.providecommerce.com/" or "www.prvd.com/") (collectively, our "Sites"). Please read this privacy policy ("Policy") carefully to understand how we will use and protect your personal information. We will never share your personal information with anyone except as described in this Policy. Changes to this Policy will be announced on each of our Sites at least ten (10) days in advance, so please check back periodically.
 
 Questions regarding this Policy should be directed to [info@providecommerce.com](mailto:info@providecommerce.com) or we may also be contacted directly at the following address:
 
@@ -109,7 +111,7 @@ From time to time, we may utilize the services of third-party survey providers t
 
 We also utilize third-party providers for our same-day florist delivery service, wine sales and certain date collection and reminder services. We make sure to disclose such relationships to you on the website pages where any such information is being collected from you. Unless otherwise disclosed to you, any such third-party providers collect information from you solely on our behalf.
 
-In addition, we currently employ one or more third-party service partners that track the traffic on our Sites. However, the only information that may be gathered by such third parties is Non Personally Identifiable Information.
+In addition, we currently employ one or more third-party service partners that track the traffic on our Sites. However, the only information that may be gathered by such third parties is Non Personally Identifiable Information with the exception of email addresses. For more information about how our third party service partner tracks traffic on our sites, as well as information on how to opt-out of certain aspects of such tracking, please click here: <http://www.websidestory.com/privacy/privacy-policy.html>.
 
 ****
   4. **With whom do we share your information?**
@@ -182,7 +184,7 @@ If you have any questions about this Policy, the practices of any of our Sites, 
 ****
   12. **Policy changes.**
 
-This Policy was last changed on March 15, 2005. If we make changes to any terms or conditions of the Policy, the changes will be posted on this portion of the Sites so that you will always know what information we gather, how we might use that information, to whom we will disclose it and what choices you have. Any change, modification, addition or removal of portions of this Policy will be announced on our Sites at least ten (10) days before it is implemented. Please be sure to check this page before proceeding to use any of our Sites.
+This Policy was last changed on December 30, 2005. If we make changes to any terms or conditions of the Policy, the changes will be posted on this portion of the Sites so that you will always know what information we gather, how we might use that information, to whom we will disclose it and what choices you have. Any change, modification, addition or removal of portions of this Policy will be announced on our Sites at least ten (10) days before it is implemented. Please be sure to check this page before proceeding to use any of our Sites.
 
 
 |   
