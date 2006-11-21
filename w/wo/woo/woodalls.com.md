@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodalls.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615082334id_/http%3A//www.woodalls.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodalls.com privacy policy that was archived on 2006-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061121175131id_/http%3A//www.woodalls.com/help/privacy.cfm) for the most accurate reproduction.*
 
 # Woodall's...Camping & RVing in the Great Outdoors!
 
