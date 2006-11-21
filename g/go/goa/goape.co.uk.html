@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goape.co.uk privacy policy that was archived on 2006-02-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060208162446id_/http%3A//www.goape.co.uk/Page.asp%3FM%3D1%26Page%3D57) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goape.co.uk privacy policy that was archived on 2006-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061121031738id_/http%3A//www.goape.co.uk/Page.asp%3FM%3D1%26Page%3D8) for the most accurate reproduction.-->
 
 <html><head>
 <title>Go Ape high ropes forest adventure course, challenging corporate groups, families, friends and schools</title>
@@ -57,20 +57,150 @@
 <link href="images/goape.css" rel="stylesheet" type="text/css">
 <script>
 			function checkAvailabiltyValidation(){
-				if (document.CheckAvailabilty.oLocation.value == "") {
+				if (document.Form1.oLocation.value = "SELECT") {
 					alert("Please select a location");
 					return false;
 				}
 				return true;
 			}
 		</script>
-
-
-<style type="text/css"> <!-- A:link {color:#CCFF00; text-decoration: none} A:visited {color:#CCFF00} A:hover {color:#FF6633} A:active {color:#CCFF00} --> </style>
-<script language="JavaScript" type="text/JavaScript">
+<script type="text/javascript">
 <!--
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
+function CheckForAtLeastOneAdult() {
+	
+	//var Dateselected
+	//TESTING CODE FROM ANDY
+	//Dateselected = document.Form1.oDay.value + "/" + document.Form1.oMonth.value + "/" + document.Form1.oYear.value;
+	//alert (Dateselected )
+	//checkDate()
+	//alert ("is this a legitimate date? " + checkDate());
+	//alert ("is this a future date? " + isfutureDate());
+
+	var oadults 
+	var NoAdolescents
+	var oChildren
+	var ototal
+	
+	oadults = document.Form1.NoAdults.value
+	NoAdolescents = document.Form1.NoAdolescents.value
+	oChildren = document.Form1.NoChildren.value
+
+	ototal = parseInt(oadults) + parseInt(NoAdolescents) + parseInt(oChildren)
+	//alert(ototal)
+
+	if (ototal > 12) {
+	alert("Bookings can only be made online for up to 12 persons. Please contact the booking office for larger bookings.")
+	return false
+	}
+
+	var legitimate_date 
+	legitimate_date = checkDate()
+	
+	var isfuture_date 
+	isfuture_date = isfutureDate()
+
+
+	if (legitimate_date == false) {
+	alert("This is not a legitimate date. Please reselect")
+	return false
+	}
+	
+	if (isfuture_date == false){
+	alert("This is not a future date. Please reselect")
+	return false
+	}
+
+	if (document.Form1.NoAdults.value < 1){
+	alert("You must have at least one adult to participate")
+	return false
+	}	
+	
+	
+	
+	if((parseInt(document.Form1.NoChildren.value) / parseInt(document.Form1.NoAdults.value)) > 2){
+		alert('You must have at least 1 adult, for every 2 `under 16` year olds')
+	return false
+	}
+
+	if(((parseInt(document.Form1.NoChildren.value) + parseInt(document.Form1.NoAdolescents.value)) / parseInt(document.Form1.NoAdults.value)) > 5) {
+		alert('You must have at least 1 adult, for every 5 `under 18` year olds')
+	return false
+	}
+	
+	
+	return true
+	}
+	
+	
+	
+	
+	
+	var monthLength = new Array(31,28,31,30,31,30,31,31,30,31,30,31);
+
+function checkDate(name)
+{
+	var x = document.forms[0].elements;
+	var day = parseInt(document.Form1.oDay.value);
+	var month = parseInt(document.Form1.oMonth.value);
+	var year = parseInt(document.Form1.oYear.value);
+
+	if (!day || !month || !year)
+		return false;
+
+	if (year/4 == parseInt(year/4))
+		monthLength[1] = 29;
+
+	if (day > monthLength[month-1])
+		return false;
+
+	monthLength[1] = 28;
+
+	var now = new Date();
+	now = now.getTime(); //NN3
+
+	var dateToCheck = new Date();
+	dateToCheck.setYear(year);
+	dateToCheck.setMonth(month-1);
+	dateToCheck.setDate(day);
+	var checkDate = dateToCheck.getTime();
+
+	var futureDate = (now < checkDate);
+	var pastDate = (now > checkDate);
+
+	return true
+}
+
+function isfutureDate(name)
+{
+	var x = document.forms[0].elements;
+	var day = parseInt(document.Form1.oDay.value);
+	var month = parseInt(document.Form1.oMonth.value);
+	var year = parseInt(document.Form1.oYear.value);
+
+	if (!day || !month || !year)
+		return false;
+
+	if (year/4 == parseInt(year/4))
+		monthLength[1] = 29;
+
+	if (day > monthLength[month-1])
+		return false;
+
+	monthLength[1] = 28;
+
+	var now = new Date();
+	now = now.getTime(); //NN3
+
+	var dateToCheck = new Date();
+	dateToCheck.setYear(year);
+	dateToCheck.setMonth(month-1);
+	dateToCheck.setDate(day);
+	var checkDate = dateToCheck.getTime();
+
+	var futureDate = (now < checkDate);
+	var pastDate = (now > checkDate);
+
+	return futureDate
 }
 
 function MM_preloadImages() { //v3.0
@@ -96,203 +226,346 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 //-->
+</script><script language="JavaScript">
+
+function WriteVersion()
+{
+document.login.javacheck.value = "TEST"
+}
+
+</script>
+
+<style type="text/css"> 
+<!-- A:link {
+	text-decoration: none;
+	color: #FF6633;
+} body {
+	background-color: #FFFFFF;
+}
+.style3 {font-size: 12px}
+.style4 {font-family: Verdana, Arial, Helvetica, sans-serif}
+.style6 {font-style: normal; line-height: normal; font-variant: normal; text-decoration: none; ?); cursor: hand; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small;}
+.style8 {color: #FF6633; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-decoration: none; font-size: xx-small; }
+.style9 {font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; color: #CCFF00; text-decoration: none; ?); cursor: hand; font-size: x-small;}
+.style10 {font-size: x-small; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-decoration: none; cursor: hand; font-family: Verdana, Arial, Helvetica, sans-serif; }
+.style14 {
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:visited {
+	color: #FF6633;
+}
+a:hover {
+	color: #FF6633;
+}
+a:active {
+	color: #FF6633;
+}
+.style15 {	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-decoration: none;
+	font-size: xx-small;
+	color: #FF6633;
+	font-weight: bold;
+}
+.style18 {font-style: normal; line-height: normal; font-variant: normal; text-decoration: none; font-size: xx-small; color: #FF6633;}
+--> 
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
 </script>
 </head>
 
 
 
-<body bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('images/nav/on_r1_c2.gif','images/nav/on_r1_c3.gif','images/nav/on_r1_c4.gif','images/nav/on_r1_c5.gif','images/nav/on_r1_c6.gif','images/nav/on_r1_c7.gif','images/nav/on_r1_c8.gif','images/nav/on_r1_c9.gif','images/nav/on_r1_c10.gif')">
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <div align="center"> 
-  <table width="740" border="0" cellspacing="0" cellpadding="0">
+  <table width="740" border="0" align="center" cellpadding="0" cellspacing="0">
     <tbody><tr> 
-      <td width="237"><div align="left"><a href="Pages.asp?M=1&amp;Page=29"><img src="images/titbar.gif" width="209" height="90" border="0"></a></div></td>
-      <td width="353"><div align="center"><font color="#CCFF00" size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong>High 
-          Wire Forest Adventure</strong> -<br>
-          Tourist Attraction of the Year 2003</font></div></td>
-      <td width="112"> <div align="right"> 
-          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="92" height="67">
-            <param name="movie" value="images/test.swf">
-            <param name="quality" value="high">
-            <param name="BGCOLOR" value="#000000">
-            <embed src="images/test.swf" width="92" height="67" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" bgcolor="#000000"></object>
-        </div></td>
-      <td width="38">&nbsp;</td>
+      <td height="94" valign="top"><div align="left"><a href="Index.asp?Page=1"><img src="layout/header.gif" width="740" height="90" border="0"></a></div></td>
     </tr>
     <tr> 
-      <td colspan="4"><table border="0" cellpadding="0" cellspacing="0" width="740">
+      <td><table border="0" cellpadding="0" cellspacing="0" width="740">
           <!-- fwtable fwsrc="navbar3.png" fwbase="off.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
           <tbody><tr> 
-            <td><img src="images/nav/spacer.gif" width="8" height="1" border="0" alt=""></td>
-            <td><img src="images/nav/spacer.gif" width="45" height="1" border="0" alt=""></td>
-            <td><img src="images/nav/spacer.gif" width="97" height="1" border="0" alt=""></td>
-            <td><img src="images/nav/spacer.gif" width="38" height="1" border="0" alt=""></td>
-            <td><img src="images/nav/spacer.gif" width="61" height="1" border="0" alt=""></td>
-            <td><img src="images/nav/spacer.gif" width="53" height="1" border="0" alt=""></td>
-            <td><img src="images/nav/spacer.gif" width="45" height="1" border="0" alt=""></td>
-            <td><img src="images/nav/spacer.gif" width="49" height="1" border="0" alt=""></td>
-            <td><img src="images/nav/spacer.gif" width="115" height="1" border="0" alt=""></td>
-            <td><img src="images/nav/spacer.gif" width="79" height="1" border="0" alt=""></td>
-            <td><img src="images/nav/spacer.gif" width="139" height="1" border="0" alt=""></td>
-            <td><img src="images/nav/spacer.gif" width="11" height="1" border="0" alt=""></td>
-            <td><img src="images/nav/spacer.gif" width="1" height="1" border="0" alt=""></td>
+            <td width="45"><img src="images/nav/spacer.gif" width="45" height="1" border="0" alt=""></td>
+            <td width="98"><img src="images/nav/spacer.gif" width="97" height="1" border="0" alt=""></td>
+            <td width="38"><img src="images/nav/spacer.gif" width="38" height="1" border="0" alt=""></td>
+            <td width="62"><img src="images/nav/spacer.gif" width="61" height="1" border="0" alt=""></td>
+            <td width="54"><img src="images/nav/spacer.gif" width="53" height="1" border="0" alt=""></td>
+            <td width="45"><img src="images/nav/spacer.gif" width="45" height="1" border="0" alt=""></td>
+            <td width="50"><img src="images/nav/spacer.gif" width="49" height="1" border="0" alt=""></td>
+            <td width="116"><img src="images/nav/spacer.gif" width="115" height="1" border="0" alt=""></td>
+            <td width="80"><img src="images/nav/spacer.gif" width="79" height="1" border="0" alt=""></td>
+            <td width="141"><img src="images/nav/spacer.gif" width="139" height="1" border="0" alt=""></td>
+            <td width="11"><img src="images/nav/spacer.gif" width="11" height="1" border="0" alt=""></td>
           </tr>
-          <tr> 
-            <td><img name="off_r1_c1" src="images/nav/off_r1_c1.gif" width="8" height="24" border="0" alt=""></td>
-            <td><a href="http://www.goape.co.uk/Pages.asp?M=1&amp;Page=29"><img src="images/nav/off_r1_c2.gif" alt="Return to Home Page" name="Home" width="45" height="24" border="0" id="Home" onmouseover="MM_swapImage('Home','','images/nav/on_r1_c2.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-            <td><a href="section.asp?M=1&amp;S=4&amp;Page=6"><img src="images/nav/off_r1_c3.gif" alt="About Go Ape!" name="About" width="97" height="24" border="0" id="About" onmouseover="MM_swapImage('About','','images/nav/on_r1_c3.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-            <td><a href="section.asp?M=1&amp;S=12&amp;Page=63"><img src="images/nav/off_r1_c4.gif" alt="Eco" name="Eco" width="38" height="24" border="0" id="Eco" onmouseover="MM_swapImage('Eco','','images/nav/on_r1_c4.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-            <td><a href="booking.asp?M=1&amp;S=5&amp;Page=7"><img src="images/nav/off_r1_c5.gif" alt="Booking" name="Booking" width="61" height="24" border="0" id="Booking" onmouseover="MM_swapImage('Booking','','images/nav/on_r1_c5.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-            <td><a href="section.asp?M=1&amp;S=6&amp;Page=14"><img src="images/nav/off_r1_c6.gif" alt="Safety" name="Safety" width="53" height="24" border="0" id="Safety" onmouseover="MM_swapImage('Safety','','images/nav/on_r1_c6.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-            <td><a href="FAQs.asp?M=1"><img src="images/nav/off_r1_c7.gif" alt="FAQs" name="FAQs" width="45" height="24" border="0" id="FAQs" onmouseover="MM_swapImage('FAQs','','images/nav/on_r1_c7.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-            <td><a href="pages.asp?M=1&amp;S=7&amp;Page=13"><img src="images/nav/off_r1_c8.gif" alt="Press" name="Press" width="49" height="24" border="0" id="Press" onmouseover="MM_swapImage('Press','','images/nav/on_r1_c8.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-            <td><a href="Quotes.asp?FormQuotes_Sorting=1&amp;FormQuotes_Sorted=1&amp;m=1"><img src="images/nav/off_r1_c9.gif" alt="Customer Quotes" name="Quotes" width="115" height="24" border="0" id="Quotes" onmouseover="MM_swapImage('Quotes','','images/nav/on_r1_c9.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-            <td><a href="section.asp?M=1&amp;S=8&amp;Page=8"><img src="images/nav/off_r1_c10.gif" alt="Contact Us" name="Contact" width="79" height="24" border="0" id="Contact" onmouseover="MM_swapImage('Contact','','images/nav/on_r1_c10.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
-            <td><a href="booking.asp?M=1&amp;S=5&amp;Page=7"><img src="images/nav/off_r1_c11.gif" alt="Book Online Now!" name="Bookonline" width="139" height="24" border="0" id="Bookonline"></a></td>
-            <td><img name="off_r1_c12" src="images/nav/off_r1_c12.gif" width="11" height="24" border="0" alt=""></td>
-            <td><img src="images/nav/spacer.gif" width="1" height="24" border="0" alt=""></td>
+          <tr>
+            <td height="38" colspan="11" valign="top"><a href="http://www.goape.co.uk/Pages.asp?M=1&amp;Page=29"></a>
+              <table width="740" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td width="10" height="24" bgcolor="#330033"><div align="left"><img src="layout/off_r1_c1.gif" width="8" height="24"></div></td>
+                  <td width="696" height="24" bgcolor="#330033"><div align="left">
+                      <script language="JavaScript" src="menu.js"></script><div id="imcontainer10" style="width: 634px; height: 21px;"><div id="imcontainer20"><div style="display: block;" id="imouter0"><ul id="imenus0" style="width:632px"><li style="width:56px;" id="ulitem0z0"><a href="http://www.goape.co.uk/index_.asp?page=1" id="ulaitem0z0">Home</a></li><li style="width:112px;" id="ulitem0z1"><a href="http://www.goape.co.uk/About.asp?Page=2&amp;S=1&amp;V=1" id="ulaitem0z1">About Go Ape!</a>	<div align="left" style="z-index: 1;"><div style="width:150px;top:6px;left:2px;" class="imsubc"><ul style="" id="x1ub0z1">	<li id="ulitem0z1z0"><a href="http://www.goape.co.uk/About.asp?Page=2&amp;V=1&amp;S=1" id="ulaitem0z1z0">About Go Ape!</a></li>	<li id="ulitem0z1z1"><a href="http://www.goape.co.uk/gallery/gallery.asp?Image=19" id="ulaitem0z1z1">Gallery</a></li>	<li id="ulitem0z1z2"><a href="http://www.goape.co.uk/About.asp?Page=27&amp;V=1&amp;S=1" id="ulaitem0z1z2">Safety</a></li>	<li id="ulitem0z1z3"><a href="http://www.goape.co.uk/About.asp?Page=41&amp;V=1&amp;S=1" id="ulaitem0z1z3">Working for Go Ape!</a></li>	<li id="ulitem0z1z4"><a href="http://www.goape.co.uk/About.asp?Page=43&amp;V=1&amp;S=1" id="ulaitem0z1z4">Schools and Scouts</a></li>	<li id="ulitem0z1z5"><a href="http://www.goape.co.uk/About.asp?Page=47&amp;V=1&amp;S=1" id="ulaitem0z1z5">Prices</a></li>	<li id="ulitem0z1z6"><a href="http://www.goape.co.uk/FAQ.asp?Type=1&amp;V=1&amp;S=1" id="ulaitem0z1z6">FAQs</a></li>	<li id="ulitem0z1z7"><a href="http://www.goape.co.uk/Testimonials.asp?Type=1&amp;V=1&amp;S=1&amp;Page=28" id="ulaitem0z1z7">Testimonials</a></li>	</ul></div></div></li><li style="width:71px;" id="ulitem0z2"><a href="http://www.goape.co.uk/Booking.asp?Page=3&amp;S=3&amp;V=1" id="ulaitem0z2">Booking</a></li><li style="width:137px;" id="ulitem0z3"><a href="http://www.goape.co.uk/Page.asp?Page=4" id="ulaitem0z3">Go Ape! Locations</a>	<div align="left" style="z-index: 1;"><div style="width:230px;top:6px;left:4px;" class="imsubc"><ul style="" id="x1ub0z3">	<li id="ulitem0z3z0"><a href="http://www.goape.co.uk/Site.asp?Site=10" id="ulaitem0z3z0">Alice Holt Woodland Park, Surrey</a></li>	<li id="ulitem0z3z1"><a href="http://www.goape.co.uk/Site.asp?Site=11" id="ulaitem0z3z1">Bedgebury Forest, Kent</a></li>	<li id="ulitem0z3z2"><a href="http://www.goape.co.uk/Site.asp?Site=8" id="ulaitem0z3z2">Dalby Forest, North Yorkshire</a></li>	<li id="ulitem0z3z3"><a href="http://www.goape.co.uk/Site.asp?Site=6" id="ulaitem0z3z3">Delamere Forest, Cheshire</a></li>	<li id="ulitem0z3z4"><a href="http://www.goape.co.uk/Site.asp?Site=7" id="ulaitem0z3z4">Forest of Dean, Gloucestershire</a></li>	<li id="ulitem0z3z5"><a href="http://www.goape.co.uk/Site.asp?Site=2" id="ulaitem0z3z5">Grizedale Forest, Cumbria</a></li>	<li id="ulitem0z3z6"><a href="http://www.goape.co.uk/Site.asp?Site=4" id="ulaitem0z3z6">Moors Valley, Dorset</a></li>	<li id="ulitem0z3z7"><a href="http://www.goape.co.uk/Site.asp?Site=9" id="ulaitem0z3z7">Poole's Cavern, Buxton, Derbyshire</a></li>	<li id="ulitem0z3z8"><a href="http://www.goape.co.uk/Site.asp?Site=3" id="ulaitem0z3z8">Sherwood Forest, Nottinghamshire</a></li>	<li id="ulitem0z3z9"><a href="http://www.goape.co.uk/Site.asp?Site=1" id="ulaitem0z3z9">Swinley Forest, Bracknell, Berkshire</a></li>	<li id="ulitem0z3z10"><a href="http://www.goape.co.uk/Site.asp?Site=5" id="ulaitem0z3z10">Thetford Forest, East Anglia</a></li>	</ul></div></div></li><li style="width:155px;" id="ulitem0z4"><a href="http://www.goape.co.uk/Corporate.asp?Page=5&amp;S=5&amp;V=1" id="ulaitem0z4">Corporate Packages</a>	<div align="left" style="z-index: 1;"><div style="width:169px;top:7px;left:3px;" class="imsubc"><ul style="" id="x1ub0z4">	<li id="ulitem0z4z0"><a href="http://www.goape.co.uk/Corporate.asp?Page=5&amp;S=5&amp;V=1" id="ulaitem0z4z0">Corporate Groups</a></li>	<li id="ulitem0z4z1"><a href="http://www.goape.co.uk/Corporate.asp?Page=17&amp;V=1&amp;S=5" id="ulaitem0z4z1">Terms &amp; Conditions</a></li>	<li id="ulitem0z4z2"><a href="http://www.goape.co.uk/Corporate.asp?Page=18&amp;V=1&amp;S=5" id="ulaitem0z4z2">Risk Acknowledgement</a></li>	<li id="ulitem0z4z3"><a href="http://www.goape.co.uk/Corporate.asp?Page=19&amp;V=1&amp;S=5" id="ulaitem0z4z3">Customise Your Day</a></li>	<li id="ulitem0z4z4"><a href="http://www.goape.co.uk/cFAQ.asp?V=1&amp;S=5&amp;Type=2" id="ulaitem0z4z4">FAQs</a></li>	<li id="ulitem0z4z5"><a href="http://www.goape.co.uk/CorporateB.asp?V=1&amp;S=5" id="ulaitem0z4z5">Booking Enquiry</a></li>	</ul></div></div></li><li style="width:58px;" id="ulitem0z5"><a href="http://www.goape.co.uk/News.asp" id="ulaitem0z5">News</a>	<div align="left" style="z-index: 1;"><div style="width:104px;top:4px;left:3px;" class="imsubc"><ul style="" id="x1ub0z5">	<li id="ulitem0z5z0"><a href="http://www.goape.co.uk/News.asp" id="ulaitem0z5z0">News</a></li>	<li id="ulitem0z5z1"><a href="http://goapeblog.blogspot.com/" id="ulaitem0z5z1">Blog</a></li>	</ul></div></div></li><li style="width:43px;" id="ulitem0z6"><a href="http://www.goape.co.uk/Page.asp?Page=6&amp;S=4&amp;V=1" id="ulaitem0z6">Shop</a></li></ul><div style="clear:left;"></div></div></div></div><style id="ssimenus0" type="text/css">#ulitem0z0{float:left;}#ulitem0z1{float:left;}#ulitem0z2{float:left;}#ulitem0z3{float:left;}#ulitem0z4{float:left;}#ulitem0z5{float:left;}#ulitem0z6{float:left;}#imcontainer10{text-align:left;z-index:899;position:relative;display:block}#imcontainer20{position:absolute;}#imenus0,#imenus0 ul{margin:0;list-style:none;}#imouter0{text-align:left;background-color:#330033; border-style:solid; border-color:#330033; border-width:1px; padding:0px; }BODY #imouter0{}#imenus0{padding:0px;}#imenus0 ul{padding:0px;background-color:#ff8000; border-style:solid; border-color:#ff8000; border-width:2px; padding:5px; margin:0px; position:relative;top:0px;left:0px;}BODY #imenus0 ul{}#imenus0 li div{position:absolute;}#imenus0 li .imsubc{position:absolute;visibility:hidden;}#imenus0 li.ishow li  .imsubc,#imenus0 li.ishow li li  .imsubc,#imenus0 li.ishow li li li  .imsubc,#imenus0 li.ishow li li li li  .imsubc,#imenus0 li.ishow li li li li li  .imsubc,#imenus0 li.ishow li li li li li li  .imsubc,#imenus0 li.ishow li li li li li li li  .imsubc,#imenus0 li.ishow li li li li li li li li  .imsubc,#imenus0 li.ishow li li li li li li li li li  .imsubc{visibility:hidden;}#imenus0 li.ishow .imsubc,#imenus0 li li.ishow .imsubc,#imenus0 li li li.ishow .imsubc,#imenus0 li li li li.ishow .imsubc,#imenus0 li li li li li.ishow .imsubc,#imenus0 li li li li li li.ishow .imsubc,#imenus0 li li li li li li li.ishow .imsubc,#imenus0 li li li li li li li li.ishow .imsubc,#imenus0 li li li li li li li li li.ishow .imsubc{visibility:visible;}#imenus0,#imenus0 li{font-size:1px;}#imenus0,#imenus0 ul{text-decoration:none;}#imenus0 ul li a.ihover{background-color:#330033; color:#ffffff; }#imenus0 li a.ihover{background-color:#330033; color:#ff8000; }#imenus0 li a.iactive{}#imenus0 ul li a.iactive{}#imenus0 li a.iactive div img{visibility:visible;}#imenus0 a{display:block;position:relative;font-size:12px;color:#ffffff; text-align:left; font-family:Arial; font-size:13px; font-weight:bold; font-style:normal; text-decoration:none; border-style:none; border-color:#330033; border-width:0px; padding:2px 5px; }#imenus0 a img{border-width:0px;}BODY #imenus0 a{}#imenus0 ul a{display:block; font-size:12px;color:#111111; text-align:left; font-size:12px; font-weight:normal; font-style:normal; text-decoration:none; border-style:none; border-color:#000000; border-width:1px; padding:2px 5px; }BODY #imenus0 ul a{}#imenus0 li{cursor:pointer;}#imenus0 .ulmba{position:absolute;font-size:1px;border-style:solid;border-color:#000000;border-width:1px;undefined}</style>
+                      <noscript>
+                      <a href="Index.asp?Page=1"><img src="layout/off_r1_c2.gif" width="40" height="24" border="0"></a><a href="About.asp?Page=2&S=1&V=1"><img src="layout/off_r1_c3.gif" width="102" height="24" border="0"></a><a href="Booking.asp?Page=3&S=3&V=1"><img src="layout/off_r1_c4.gif" width="62" height="24" border="0"></a><a href="Page.asp?Page=4"><img src="layout/off_r1_c5.gif" width="116" height="24" border="0"></a><a href="Corporate.asp?Page=5&S=5&V=1"><img src="layout/off_r1_c6.gif" width="73" height="24" border="0"></a><a href="News.asp"><img src="layout/off_r1_c7.gif" width="47" height="24" border="0"></a><a href="Page.asp?Page=6&S=4&V=1"><img src="layout/off_r1_c8.gif" width="46" height="24" border="0"></a><a href="Booking.asp?Page=3&S=3&V=1"></a>
+                      </noscript>
+                  </div></td>
+                  <td width="34" height="24" bgcolor="#330033"><div align="right"><a href="Booking.asp?Page=3&amp;S=3&amp;V=1"></a><img src="layout/off_r1_c11.gif" width="11" height="24"></div></td>
+                </tr>
+              </tbody></table>
+            <br></td>
+          </tr>
+          
+          <tr>
+            <td colspan="11"><table width="740" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td width="170" valign="top"><div align="center">
+                  <style type="text/css">
+<!--
+.style14 {	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	font-weight: bold;
+}
+-->
+</style>
+                </div>
+                  <div align="center">
+                    <table width="201" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr valign="top" bgcolor="#330033">
+                        <td height="12" valign="top"><img src="R1.gif" width="201" height="5" align="top"></td>
+                      </tr>
+                      <tr bgcolor="#330033">
+                        <td bgcolor="#330033"><div align="center">
+                            <table width="183" height="180" border="0" cellpadding="0" cellspacing="0">
+                              <tbody><tr>
+                                <td><span class="style4"><strong><font color="#FFFFFF"> <span class="style9">
+                                  
+                                  
+                                  <!--BeginFormSites-->
+                                  </span></font> </strong></span><span class="style10"><strong><font color="#FFFFFF"><a href="Corporate.asp?Page=5&amp;S=5&amp;V=1" class="style14"> Book Online:<br>
+                                  <br>
+                                  </a></font></strong></span>
+                                  <form id="Form1" name="CheckAvailabilty" action="https://www.opencontact-secure.co.uk/ONLINE_BOOKING_SYSTEM/online_Day.asp" method="post">
+                                    <table width="96%" border="0" align="center" cellpadding="0" cellspacing="2">
+                                      <tbody>
+                                        <tr>
+                                          <td valign="middle"><font color="white" size="2" face="Verdana, Arial, Helvetica, sans-serif" style="FONT-SIZE: 8pt; FONT-FAMILY: tahoma,verdana,arial">When are you planning to Go Ape? </font></td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="middle"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
+                                            <select id="oDay" style="FONT-SIZE: 8pt; FONT-FAMILY: tahoma,verdana,arial" name="oDay">
+                                              <option value="1">1</option>
+                                              <option value="2">2</option>
+                                              <option value="3">3</option>
+                                              <option value="4">4</option>
+                                              <option value="5">5</option>
+                                              <option value="6">6</option>
+                                              <option value="7">7</option>
+                                              <option value="8">8</option>
+                                              <option value="9">9</option>
+                                              <option value="10">10</option>
+                                              <option value="11">11</option>
+                                              <option value="12">12</option>
+                                              <option value="13">13</option>
+                                              <option value="14">14</option>
+                                              <option value="15">15</option>
+                                              <option value="16">16</option>
+                                              <option value="17">17</option>
+                                              <option value="18">18</option>
+                                              <option value="19">19</option>
+                                              <option value="20">20</option>
+                                              <option value="21">21</option>
+                                              <option value="22">22</option>
+                                              <option value="23">23</option>
+                                              <option value="24">24</option>
+                                              <option value="25">25</option>
+                                              <option value="26">26</option>
+                                              <option value="27">27</option>
+                                              <option value="28">28</option>
+                                              <option value="29">29</option>
+                                              <option value="30">30</option>
+                                              <option value="31">31</option>
+                                            </select>
+                                            <select id="select3" style="FONT-SIZE: 8pt; FONT-FAMILY: tahoma,verdana,arial" name="oMonth">
+                                              <option value="1">Jan</option>
+                                              <option value="2">Feb</option>
+                                              <option value="3">Mar</option>
+                                              <option value="4">Apr</option>
+                                              <option value="5">May</option>
+                                              <option value="6">Jun</option>
+                                              <option value="7">Jul</option>
+                                              <option value="8">Aug</option>
+                                              <option value="9">Sep</option>
+                                              <option value="10">Oct</option>
+                                              <option value="11">Nov</option>
+                                              <option value="12">Dec</option>
+                                            </select>
+                                            <select id="select2" style="FONT-SIZE: 8pt; FONT-FAMILY: tahoma,verdana,arial" name="oYear">
+                                              <option value="2006">2006</option>
+                                            </select>
+                                          </font></td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="middle"><font color="white" size="2" face="Verdana, Arial, Helvetica, sans-serif" style="FONT-SIZE: 8pt; FONT-FAMILY: tahoma,verdana,arial">Which course? </font></td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="middle"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
+                                            <select id="select" style="FONT-SIZE: 8pt; FONT-FAMILY: tahoma,verdana,arial" name="oLocation">
+                                              <option selected="">Select course...</option>
+                                              <option value="THETFORD FOREST">THETFORD FOREST</option>
+                                              <option value="GRIZEDALE FOREST">GRIZEDALE FOREST</option>
+                                              <option value="MOORS VALLEY">MOORS VALLEY</option>
+                                              <option value="SHERWOOD PINES">SHERWOOD PINES</option>
+                                              <option value="BRACKNELL">BRACKNELL</option>
+                                              <option value="DEAN">FOREST OF DEAN</option>
+                                              <option value="DELAMERE">DELAMERE FOREST</option>
+                                            </select>
+                                          </font></td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="middle"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
+                                            <select id="NoAdults" style="FONT-SIZE: 8pt; FONT-FAMILY: tahoma,verdana,arial" name="NoAdults">
+                                              <option value="0">0</option>
+                                              <option value="1">1</option>
+                                              <option value="2">2</option>
+                                              <option value="3">3</option>
+                                              <option value="4">4</option>
+                                              <option value="5">5</option>
+                                              <option value="6">6</option>
+                                              <option value="7">7</option>
+                                              <option value="8">8</option>
+                                              <option value="9">9</option>
+                                              <option value="10">10</option>
+                                              <option value="11">11</option>
+                                              <option value="12">12</option>
+                                            </select>
+                                            <font style="FONT-SIZE: 8pt; FONT-FAMILY: tahoma,verdana,arial" color="white">Number of Adults </font></font> </td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="middle"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
+                                            <select id="NoAdolescents" style="FONT-SIZE: 8pt; FONT-FAMILY: tahoma,verdana,arial" name="NoAdolescents">
+                                              <option value="0">0</option>
+                                              <option value="1">1</option>
+                                              <option value="2">2</option>
+                                              <option value="3">3</option>
+                                              <option value="4">4</option>
+                                              <option value="5">5</option>
+                                              <option value="6">6</option>
+                                              <option value="7">7</option>
+                                              <option value="8">8</option>
+                                              <option value="9">9</option>
+                                              <option value="10">10</option>
+                                              <option value="11">11</option>
+                                              <option value="12">12</option>
+                                              <option value="13">13</option>
+                                              <option value="14">14</option>
+                                              <option value="15">15</option>
+                                            </select>
+                                            <font style="FONT-SIZE: 8pt; FONT-FAMILY: tahoma,verdana,arial" color="white">No. of 16 or 17 year olds</font></font> </td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="middle"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
+                                            <select id="NoChildren" style="FONT-SIZE: 8pt; FONT-FAMILY: tahoma,verdana,arial" name="NoChildren">
+                                              <option value="0">0</option>
+                                              <option value="1">1</option>
+                                              <option value="2">2</option>
+                                              <option value="3">3</option>
+                                              <option value="4">4</option>
+                                              <option value="5">5</option>
+                                              <option value="6">6</option>
+                                              <option value="7">7</option>
+                                              <option value="8">8</option>
+                                              <option value="9">9</option>
+                                              <option value="10">10</option>
+                                              <option value="11">11</option>
+                                              <option value="12">12</option>
+                                              <option value="13">13</option>
+                                              <option value="14">14</option>
+                                              <option value="15">15</option>
+                                            </select>
+                                            <font style="FONT-SIZE: 8pt; FONT-FAMILY: tahoma,verdana,arial" color="white"> No. 10 to 15 year olds</font></font> <font size="2" face="Verdana, Arial, Helvetica, sans-serif">
+                                            <input id="javacheck" type="hidden" maxlength="4" size="4" name="javacheck">
+                                          </font></td>
+                                        </tr>
+                                        <tr>
+                                          <td valign="middle"><div align="center"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"> <br>
+                                                    <input name="button1" type="submit" class="CorpFormBIGButt" id="button1" style="FONT-SIZE: 10pt; FONT-FAMILY: tahoma,verdana,arial" onclick="return CheckForAtLeastOneAdult(); return checkAvailabiltyValidation()" value="Begin Booking" ?writeversion()?="">
+                                          </font></div></td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </form></td>
+                              </tr>
+                            </tbody></table>
+                        </div></td>
+                      </tr>
+                      <tr bgcolor="#330033">
+                        <td valign="bottom"><div align="right"><img src="R2.gif" width="201" height="5"></div></td>
+                      </tr>
+                    </tbody></table>
+                  </div>
+                  <br>                </td><td width="570" valign="top"><table width="97%" border="0" align="right" cellpadding="0" cellspacing="0">
+                    <tbody><tr valign="top">
+                      <td><div align="left"><font color="#FF6633" size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong>Privacy Policy</strong></font></div></td>
+                    </tr>
+                    <tr valign="top">
+                      <td><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><br>
+                        </font>
+                          <div align="justify" class="style3"><span class="style4">                          <div>1&nbsp;Where you make a booking with us we require certain personal information to allow us to process your booking.&nbsp; This includes your name, address, telephone number, email address, credit card or debt card number and card expiry date or information relating to your company or organisation in the case of a group booking.</div>
+<div>&nbsp;</div>
+<div>2&nbsp;We may have to pass on certain details to a company or organisation (our insurers, for example) in order that your booking can be processed.</div>
+<div>&nbsp;</div>
+<div>3&nbsp;Go Ape may contact you (either directly or through our authorised direct marketing agents) from time to time with details of our products, services or special offers or other information we think you may find interesting and may pass your data to selected third parties for their marketing purposes.</div>
+<div>&nbsp;</div>
+<div>4&nbsp;If you do not wish your personal information to be used for direct marketing purposes please tick the box on the Disclaimer you will be required to sign before participating in the Activities (as defined in the Booking Terms and Conditions).</div>
+<div>&nbsp;</div>
+<div>5&nbsp;We may be required to provide information by law as permitted by the Data Protection Act or by a legal authority recognised by the European Union.</div>
+<div>&nbsp;</div>
+<div>6&nbsp;For your protection we are registered under the Data Protection Act 1998 and have given all appropriate notifications to the Information Commissioner.</div>
+<div>&nbsp;</div>
+<div>7&nbsp;If you have not previously objected to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to our Data Protection Compliance Officer at Go Ape, Hargrave Hall, Bury St Edmunds, Suffolk IP29 5HH or emailing us at <a href="mailto:info@goape.co.uk">info@goape.co.uk</a>.</div>
+<div>&nbsp;</div>
+<div>8&nbsp;You may request details of personal information that we hold about you under the Data Protection Act 1998.&nbsp;&nbsp; A small fee will be payable.&nbsp;&nbsp; This fee will not exceed £10 per data subject.&nbsp;&nbsp; If you would like a copy of the information held on you please write to our Data Protection Compliance Officer at Go Ape, Hargrave Hall, Bury St Edmunds, Suffolk IP29 5HH or email us at <a href="mailto:info@goape.co.uk">info@goape.co.uk</a>.</div>
+<div>&nbsp;</div>
+<div>9&nbsp;If you believe that any information we are holding on you is incorrect or incomplete, please write to our Data Protection Compliance Officer at Go Ape, Hargrave Hall, Bury St Edmunds, Suffolk IP29 5HH or email us at <a href="mailto:info@goape.co.uk">info@goape.co.uk</a>.&nbsp; We will promptly correct any information which is found to be incorrect.<br></div></span></div></td>
+                    </tr>
+                    <tr valign="top">
+                      <td>&nbsp;</td>
+                    </tr>
+                  </tbody></table>
+                  <br></td>
+              </tr>
+            </tbody></table></td>
           </tr>
         </tbody></table></td>
     </tr>
   </tbody></table>
+  <span class="style8"><br>
+  <img src="high-wire-forest-adventure-go-ape.gif" alt="Go Ape High Wire Forest Adventure" width="740" height="1"><br>
+  <a href="Page.asp?M=1&amp;Page=24"><br></a><span class="style18"><a href="Page.asp?M=1&amp;Page=24"><span class="style4">Contact Us</span></a></span><span class="style4">&nbsp;&nbsp;·&nbsp;&nbsp;</span><span class="style18"><span class="style4"><a href="Page.asp?M=1&amp;Page=25">Feedback</a></span></span><span class="style4">&nbsp;&nbsp;·&nbsp;&nbsp;<a href="Page.asp?M=1&amp;page=7">Booking Terms &amp; Conditions</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="Page.asp?M=1&amp;Page=8">Privacy Policy</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="Page.asp?M=1&amp;Page=9">Website Terms of Use </a></span><br>
+<br>
   <br>
-  <table width="740" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr> 
-      <td width="170" valign="top"> 
-        <table width="201" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr valign="top" bgcolor="#330033"> 
-            <td width="95"><img src="corner1.gif" width="10" height="5"></td>
-            <td width="106"><div align="right"><img src="corner2.gif" width="10" height="5"></div></td>
-          </tr>
-          <tr bgcolor="#330033"> 
-            <td colspan="2"><div align="center"> 
-                <table width="183" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr> 
-                    <td><strong><font color="#FFFFFF"> <span class="goape"> 
-                      
-                      
-                      
-                      </span></font> </strong> <span class="goape"> 
-                      
-                      <font color="#FFFFFF"><a href="Sites.asp?M=1&amp;E=1&amp;Site=1" class="goape">Bracknell Forest</a>&nbsp;</font> 
-                      <br>
-                      
-                      <font color="#FFFFFF"><a href="Sites.asp?M=1&amp;E=2&amp;Site=2" class="goape">Grizedale Forest</a>&nbsp;</font> 
-                      <br>
-                      
-                      <font color="#FFFFFF"><a href="Sites.asp?M=1&amp;E=3&amp;Site=3" class="goape">Sherwood Forest</a>&nbsp;</font> 
-                      <br>
-                      
-                      <font color="#FFFFFF"><a href="Sites.asp?M=1&amp;E=4&amp;Site=4" class="goape">Moors Valley</a>&nbsp;</font> 
-                      <br>
-                      
-                      <font color="#FFFFFF"><a href="Sites.asp?M=1&amp;E=5&amp;Site=5" class="goape">Thetford Forest</a>&nbsp;</font> 
-                      <br>
-                      
-                      
-                      <font color="#FFFFFF"> 
-                      
-                      
-                      
-                      </font><strong><font color="#CCFF00" size="2" face="Arial, Helvetica, sans-serif"><br>
-                      </font><font color="#FFFFFF"> 
-                      
-                      <a href="Groups.asp?S=10&amp;M=1&amp;Page=70" class="goape">Corporate 
-                      Packages</a><a href="Groups.asp?S=10&amp;M=1&amp;Page=36" class="goape"></a> <br>
-                      <a href="Photos.asp?Image=8&amp;M=1" class="goape">Photo Gallery</a> 
-                      <br>
-                      
-                      
-                      </font> </strong> 
-                      
-                      <font color="#FFFFFF"><a href="Pages.asp?M=1&amp;Page=10" class="goape">Information for Schools, Scouts, Guides &amp; Cadets</a><br>
-                      </font> 
-                      
-                      <font color="#FFFFFF"><a href="Pages.asp?M=1&amp;Page=20" class="goape">Gift Vouchers</a><br>
-                      </font> 
-                      
-                      <font color="#FFFFFF"><a href="Pages.asp?M=1&amp;Page=24" class="goape">Working for Go Ape!</a><br>
-                      </font> 
-                      
-                      <font color="#FFFFFF"><a href="Pages.asp?M=1&amp;Page=53" class="goape">Order/Download Leaflets</a><br>
-                      </font> 
-                      
-                      
-                      <font color="#FFFFFF"> 
-                      
-                      
-                      
-                      </font></span></td>
-                  </tr>
-                </tbody></table>
-              </div></td>
-          </tr>
-          <tr bgcolor="#330033"> 
-            <td><img src="corner3.gif" width="10" height="5"></td>
-            <td><div align="right"><img src="corner4.gif" width="10" height="5"></div></td>
-          </tr>
-        </tbody></table>
-      <br>
-        <table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
-          <tbody><tr> 
-            <td width="43">&nbsp;</td>
-            <td width="104">&nbsp;</td>
-            <td width="43">&nbsp;</td>
-          </tr>
-          <tr> 
-            <td colspan="3" valign="top"><div align="left"><span class="goapeLight"><font color="#C9C994"><img src="images/quote_l7.gif" width="33" height="24" align="left">'I would just like to say how great I think Go Ape is!!! I went last November for my friend's birthday and we all had an amazing time!! I enjoyed it so much that I am coming for my 14th birthday - tomorrow!! Me and my friends are so excited, and looking forward to a great day.' <img src="images/quote_r7.gif" width="33" height="27" align="texttop"><br>
-                <font size="1">Alex, Thetford</font> </font></span></div></td>
-          </tr>
-          <tr> 
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td><div align="right"></div></td>
-          </tr>
-        </tbody></table>
-        <br> 
-        <table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
-          <tbody><tr> 
-            <td valign="top"><div align="left" class="goapeLightSm"> 
-                <p><font size="1"><a href="Page.asp?M=1&amp;page=56" class="goapeLightSm">Booking 
-                  Terms &amp; Conditions</a></font><font color="#C9C994" size="1"><br>
-                  </font><font size="1"><a href="Page.asp?M=1&amp;Page=57" class="goapeLightSm">Privacy 
-                  Policy</a></font><font color="#C9C994" size="1"><br>
-                  </font><font size="1"><a href="Page.asp?M=1&amp;Page=58" class="goapeLightSm">Website 
-                  Terms of Use</a></font></p>
-              </div></td>
-          </tr>
-        </tbody></table>
-        <br> </td>
-      <td width="579" valign="top"><table width="97%" border="0" align="right" cellpadding="0" cellspacing="0">
-          <tbody><tr valign="top"> 
-            <td> <div align="left"><font color="#FF6633" size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong>Privacy Policy</strong><br>
-                </font></div></td>
-          </tr>
-          <tr valign="top"> 
-            <td><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><br>
-              <p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -36pt; TEXT-ALIGN: justify"><font face="Verdana, Arial, Helvetica, sans-serif">1 <span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Where you make a booking with us we require certain personal information to allow us to process your booking.<span style="mso-spacerun: yes">&nbsp; </span>This includes your name, address, telephone number, email address, credit card or debt card number and card expiry date or information relating to your company or organisation in the case of a group booking.</font></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -36pt; TEXT-ALIGN: justify"><!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p><font face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></o:p></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -36pt; TEXT-ALIGN: justify"><font face="Verdana, Arial, Helvetica, sans-serif">2<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>We may have to pass on certain details to a company or organisation (our insurers, for example) in order that your booking can be processed.</font></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -36pt; TEXT-ALIGN: justify"><o:p><font face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></o:p></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -36pt; TEXT-ALIGN: justify"><font face="Verdana, Arial, Helvetica, sans-serif">3<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Go Ape may contact you (either directly or through our authorised direct marketing agents) from time to time with details of our products, services or special offers or other information we think you may find interesting and may pass your data to selected third parties for their marketing purposes.</font></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify"><o:p><font face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></o:p></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -36pt; TEXT-ALIGN: justify"><font face="Verdana, Arial, Helvetica, sans-serif">4<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>If you do not wish your personal information to be used for direct marketing purposes please tick the box on the Disclaimer you will be required to sign before participating in the Activities (as defined in the Booking Terms and Conditions).</font></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify"><o:p><font face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></o:p></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -36pt; TEXT-ALIGN: justify"><font face="Verdana, Arial, Helvetica, sans-serif">5<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>We may be required to provide information by law as permitted by the Data Protection Act or by a legal authority recognised by the European Union.</font></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify"><o:p><font face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></o:p></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -36pt; TEXT-ALIGN: justify"><font face="Verdana, Arial, Helvetica, sans-serif">6<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>For your protection we are registered under the Data Protection Act 1998 and have given all appropriate notifications to the Information Commissioner.</font></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify"><o:p><font face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></o:p></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -36pt; TEXT-ALIGN: justify"><font face="Verdana, Arial, Helvetica, sans-serif">7<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>If you have not previously objected to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to our Data Protection Compliance Officer at Go Ape, Hargrave Hall, Bury St Edmunds, Suffolk IP29 5HH or emailing us at </font><a href="mailto:chiefgorilla@goape.co.uk"><font face="Verdana, Arial, Helvetica, sans-serif">info@goape.co.uk</font></a><font face="Verdana, Arial, Helvetica, sans-serif">.</font></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify"><o:p><font face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></o:p></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -36pt; TEXT-ALIGN: justify"><font face="Verdana, Arial, Helvetica, sans-serif">8<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>You may request details of personal information that we hold about you under the Data Protection Act 1998.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>A small fee will be payable.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>This fee will not exceed £10 per data subject.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>If you would like a copy of the information held on you please write to our Data Protection Compliance Officer at Go Ape, Hargrave Hall, Bury St Edmunds, Suffolk IP29 5HH or email us at </font><a href="mailto:chiefgorilla@goape.co.uk"><font face="Verdana, Arial, Helvetica, sans-serif">info@goape.co.uk</font></a><font face="Verdana, Arial, Helvetica, sans-serif">.</font></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -36pt; TEXT-ALIGN: justify"><o:p><font face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></o:p></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -36pt; TEXT-ALIGN: justify"><font face="Verdana, Arial, Helvetica, sans-serif">9<span style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>If you believe that any information we are holding on you is incorrect or incomplete, please write to our Data Protection Compliance Officer at Go Ape, Hargrave Hall, Bury St Edmunds, Suffolk IP29 5HH or email us at </font><a href="mailto:chiefgorilla@goape.co.uk"><font face="Verdana, Arial, Helvetica, sans-serif">info@goape.co.uk</font></a><font face="Verdana, Arial, Helvetica, sans-serif">.<span style="mso-spacerun: yes">&nbsp; </span>We will promptly correct any information which is found to be incorrect.</font></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -36pt; TEXT-ALIGN: justify"><o:p><font face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></o:p></p><br>
-              <br>
-              </font></td>
-          </tr>
-        </tbody></table></td>
-    </tr>
-  </tbody></table>
+  </span><br>
+  <p>&nbsp;</p>
 </div>
 
 </body></html>
