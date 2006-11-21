@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsvine.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202106id_/http%3A//www.newsvine.com/_cms/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsvine.com privacy policy that was archived on 2006-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061121071623id_/http%3A//www.newsvine.com/_cms/info/privacypolicy) for the most accurate reproduction.*
 
 # Newsvine - Newsvine Privacy Policy
 
@@ -52,7 +52,7 @@ Our Site contains links to other Web sites. Links from our Site to other sites o
 
 ## Choice and Access
 
-To opt-out of receiving communications from us, or to request access to or that we correct or delete your personal information, we provide you with the following options: (1) follow the "Unsubscribe" instructions contained in the communication from us; (2)email us at [privacy@newsvine.com](mailto:privacy@newsvine.com); or (3) write to us at the following address with your request:
+To opt-out of receiving communications from us, or to request access to or that we correct or delete your personal information, we provide you with the following options: (1) follow the "Unsubscribe" instructions contained in the communication from us; (2)email us at [newsvineprivacy@newsvine.com](mailto:newsvineprivacy@newsvine.com?subject=Newsvine%20-%20Privacy%20Policy); or (3) write to us at the following address with your request:
 
 Newsvine, Inc.  
 101 Elliott Ave. West  
@@ -79,7 +79,7 @@ We will modify this Policy if our privacy practices materially change in the fut
 
 ## Questions / Additional Information
 
-If you have any questions about this Policy, or the practices of or your dealings with the Site, please contact us at the following address or email us at [privacy@newsvine.com](mailto:privacy@newsvine.com):
+If you have any questions about this Policy, or the practices of or your dealings with the Site, please contact us at the following address or email us at [newsvineprivacy@newsvine.com](mailto:newsvineprivacy@newsvine.com?subject=Newsvine%20-%20Privacy%20Policy):
 
 Newsvine, Inc.  
 101 Elliott Ave. West  
