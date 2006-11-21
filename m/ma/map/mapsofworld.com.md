@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mapsofworld.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023512id_/http%3A//mapsofworld.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsofworld.com privacy policy that was archived on 2006-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061121155355id_/http%3A//www.mapsofworld.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MapsOfWorld.com
 
 **Privacy Policy**
 
-We at MapsOfWorld.com a subsidiary of Compare Infobase Pvt. Ltd are committed to safeguarding your online privacy. Please do read the following policy to understand how your private information will be treated while you make full use of our e-shopping or other offerings. This policy may change from time to time so please come back to check periodically. Compare Infobase Pvt. Ltd or its subsidiary MapsOfWorld.com may collect the information explained herein under. 
+We at MapsOfWorld.com a subsidiary of Compare Infobase Limited are committed to safeguarding your online privacy. Please do read the following policy to understand how your private information will be treated while you make full use of our e-shopping or other offerings. This policy may change from time to time so please come back to check periodically. Compare Infobase Limited or its subsidiary MapsOfWorld.com may collect the information explained herein under. 
 
 **1\. What identifiable information is collected from me?**  
 MapsOfWorld.com may collect information in one or more ways from different parts of our network of Web sites. 
@@ -44,10 +44,10 @@ During many promotions offers you may be requested for additional information fr
 
 **Third Party Data & Data Comparisons:** Under confidentiality agreements, MapsOfWorld.com may match user information with third party data. Also, MapsOfWorld.com discloses patterned user statistics in order to describe our services to prospective partners, advertisers, and or other third parties, and for other lawful purposes. 
 
-**Miscellaneous:** MapsOfWorld.com may also disclose user information in such cases where we have reason to believe that disclosure of this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Compare Infobase Pvt. Ltd痴 rights or property, other MapsOfWorld.com users, or anyone else that could be harmed by such activities. MapsOfWorld.com may disclose user information when we believe in good faith that the law or law-enforcing agency requires it. 
+**Miscellaneous:** MapsOfWorld.com may also disclose user information in such cases where we have reason to believe that disclosure of this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Compare Infobase Limited痴 rights or property, other MapsOfWorld.com users, or anyone else that could be harmed by such activities. MapsOfWorld.com may disclose user information when we believe in good faith that the law or law-enforcing agency requires it. 
 
 **5\. Do I have choices or controls regarding collection, use, and distribution of my identifiable information?**  
-Upon your express interest about receiving offers or information from MapsOfWorld.com and our partners under confidentiality, may occasionally send you e-mail or postal mail about products and services that we feel may be of interest to you and only if you indicated that you welcome these offers. Any time you can easily unsubscribe from Compare Infobase Pvt. Ltd痴 mailing list and no longer receive such offers and mailings. 
+Upon your express interest about receiving offers or information from MapsOfWorld.com and our partners under confidentiality, may occasionally send you e-mail or postal mail about products and services that we feel may be of interest to you and only if you indicated that you welcome these offers. Any time you can easily unsubscribe from Compare Infobase Limited痴 mailing list and no longer receive such offers and mailings. 
 
 On some types of MapsOfWorld.com promotions, we will ask for your email address in order to update you on your score, entries, and status in prize drawings. Your participation in these types of promotions, may automatically enlist you to receive promotion-related email. Sometime these promotion-related emails may include targeted advertisements. 
 
@@ -69,7 +69,7 @@ Do keep in mind that whenever you voluntarily disclose personal information onli
 Finally, you are solely responsible for maintaining the secrecy of your passwords and/or any registration information. Please be careful and responsible on your own whenever you're online. 
 
 **9\. Is there any children's privacy?**  
-Yes, the safety of children is very important to us. Children should always ask a parent for permission before sending personal information to Compare Infobase Pvt. Ltd, or to anyone online for that matter. MapsOfWorld.com does not share personal information about users under the age of 13 with third parties under any circumstances unless there is a special situation and such information is requested by law enforcing agency and we do not sell or rent personal information about any of our users, regardless of their age. In addition, MapsOfWorld.com will not send any direct email offers to users who indicate they are under the age of 13 without first obtaining their parents' permission. 
+Yes, the safety of children is very important to us. Children should always ask a parent for permission before sending personal information to Compare Infobase Limited, or to anyone online for that matter. MapsOfWorld.com does not share personal information about users under the age of 13 with third parties under any circumstances unless there is a special situation and such information is requested by law enforcing agency and we do not sell or rent personal information about any of our users, regardless of their age. In addition, MapsOfWorld.com will not send any direct email offers to users who indicate they are under the age of 13 without first obtaining their parents' permission. 
 
 **10\. Additional Information**  
 Any more questions or clarifications regarding this statement should be directed to [**contactus@mapsofworld.com**](mailto:contactus@mapsofworld.com)
