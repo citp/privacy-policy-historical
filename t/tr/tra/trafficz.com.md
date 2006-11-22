@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficz.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011121id_/http%3A//trafficz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficz.com privacy policy that was archived on 2006-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061122052722id_/http%3A//trafficz.com/privacy.php) for the most accurate reproduction.*
 
 # TrafficZ.com - Privacy Policy
 
