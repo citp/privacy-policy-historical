@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainright.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625212941id_/http%3A//www.trainright.com/folders.asp%3Faction%3Ddisplay%26uid%3D184) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainright.com privacy policy that was archived on 2006-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061122061222id_/http%3A//www.trainright.com/folders.asp%3Faction%3Ddisplay%26uid%3D184) for the most accurate reproduction.*
 
 # Carmichael Training Systems - Coaches and Camps for Cycling, Multisport, Running, and Aerobic | Privacy Policy
 
@@ -46,7 +46,7 @@ The security of your personal information is very important to us and we are com
 
 Please note that whenever you submit any information to us in connection with any CTS related service, you consent to CTS’s processing of this information in the United States as necessary to provide the services in which you are participating.
 
-If you have any questions, comments, criticisms, or complaints about the CTS privacy policy and/or the way it affects you, please feel free to [contact us.](https://web.archive.org/web/20060625212941id_/http%3A//www.trainright.com/finder.asp?page=Contact+Us)
+If you have any questions, comments, criticisms, or complaints about the CTS privacy policy and/or the way it affects you, please feel free to [contact us.](https://web.archive.org/web/20061122061222id_/http%3A//www.trainright.com/finder.asp?page=Contact+Us)
 
   
 
