@@ -1,32 +1,29 @@
-> *The following text is extracted and transformed from the trustcobank.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206073038id_/http%3A//www.trustcobank.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustcobank.com privacy policy that was archived on 2006-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061122173723id_/http%3A//trustcobank.com/privacy.php) for the most accurate reproduction.*
 
-# Trustco Bank - Privacy Statement
+# Trustco Bank: Home - Privacy
 
-  **  
-** Notice of Your Financial Privacy Rights
+## Privacy Statement
 
- **At Trustco we respect your privacy  
-**This privacy policy describes our efforts to assure the safeguarding of your personal information. At Trustco we know that keeping customer information secure must always be held as a top priority.
+Thank you for visiting the Trustco Bank. This website is designed to make it easier and more efficient for Trustco Bank customers to interact with us. Like all online resources, we recognize that visitors to this website are concerned about their privacy. Trustco Bank is committed to preserving your privacy when visiting this website.
 
-**Information we collect  
-**We may collect nonpublic personal information about you from some or all of the following sources:  
-   Information we receive from you on applications or other forms including: your name, address, social security number, assets and income.  
-   Information about your transactions with us, our affiliates, or others, including: your account balance, payment history, parties to transactions and credit card usage.  
-   Information we receive from a consumer reporting agency concerning your credit history.
+This policy describes Trustco Bank privacy practices regarding information collected from visitors to this website. This policy describes what data is collected and how that information is used. Trustco Bank may, at its sole discretion, change modify, add, or delete portions of this policy. Because this privacy policy only applies to this website, you should examine the privacy policy of any website you access through this website. 
 
-**Information we disclose  
-**We do not disclose any information about customers or former customers except as permitted by law.  
-   We do not sell customer lists or individual customer information. Sometimes we exchange certain information about our customers with selected credit reporting agencies when it's legally required (for example in response to a subpoena), to comply with a legally permitted inquiry by a government agency or regulator, to prevent fraud, or to third parties in order to process a customer initiated transaction.
+Information Collected When You Visit this Website When visiting this website automatically collects and stores the following information about your visit:
 
-**Our security measures  
-**We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you.  
-   We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic information.
+The Internet Protocol address and domain name of your Internet service provider. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer, which can be used to direct internet traffic to you; The type of browser and operating system you used; The date and time you visited this site; The web pages or services you accessed at this site; and The URL or web site address of the web site you visited prior to coming to this website and from which any web page on this site was linked. This information is used to improve this website's content and to help Trustco Bank understand how people are using this website. This information is collected for statistical analysis, to determine what information is of most and least interest to our visitors, and to identify system performance or problem areas. The information is not collected for commercial marketing purposes and Trustco Bank does not sell or distribute the information collected from this website for commercial marketing purposes.
 
-**We value your business  
-**We want you to feel comfortable banking with Trustco for many years to come. That means you need to be able to count on us for the protection of your privacy. It's also important for us to keep you informed concerning the use of information you provide to us.  
-   It is a good idea to safeguard your personal information by taking precautions. Protect your account, PIN and customer access numbers. Never disclose confidential information to unknown callers.
+Information Collected When You Email this Website If during your visit to this website you send an email to Trustco Bank, your email address and the contents of your email will be collected.
 
-If you have any questions or concerns about the integrity of your account information, please call or stop by to talk with any of our Branch Managers.  
-For phone inquiries, call (518) 377-3311.
+The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us.
 
-This summary updates and replaces any other notices about our privacy policy. This notice is not part of your account agreements.
+Your email address and the information contained in your email will be used to respond to you, to address issues you identify, to further improve this website, or to forward your email to another agency for appropriate action. Your email address is not collected for commercial marketing purposes and Trustco Bank does not sell or distribute your email address for commercial marketing purposes.
+
+Personal Information and Choice "Personal information" is information about an individual (e.g. an individual's name, address, and phone number). A domain name or Internet Protocol address is not considered personal information.
+
+Personal information is not collected through this website unless you send an email to Trustco Bank through this website. If you do not communicate with this website it does not affect your ability to use any other features of this website.
+
+Currently, Trustco Bank does not knowingly collect personal information from children or create profiles of children through this website. People are cautioned that the collection of personal information provided by any individual in an email will be treated the same as information given by an adult, and may, if not protected by federal or City law, be subject to public access. Trustco Bank encourages parents and teachers to be involved in children's Internet activities and guide the children whenever children are asked to provide personal information on-line.
+
+Disclosure of Information Collected Through This Website Information collected through this website, personal or otherwise, may, if not protected by federal or City law, be subject to disclosure pursuant to law, such as the Freedom of Information Law (FOIL), or court order.
+
+Additionally, Trustco Bank may disclose personal information to federal, state, or city law enforcement authorities to enforce its rights against unauthorized access or attempted unauthorized access to Trustco Bank information.
