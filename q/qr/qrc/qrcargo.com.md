@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qrcargo.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618021306id_/http%3A//www.qrcargo.com/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qrcargo.com privacy policy that was archived on 2006-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061122162309id_/http%3A//www.qrcargo.com/%3Fprivacy) for the most accurate reproduction.*
 
 # Qatar Airways Cargo
 
