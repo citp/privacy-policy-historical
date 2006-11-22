@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelgrove.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617133913id_/http%3A//travelgrove.com/html/bottom_bar/privacy_policy.php%3FidReferral%3D%26adid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelgrove.com privacy policy that was archived on 2006-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061122084238id_/http%3A//travelgrove.com/html/bottom_bar/privacy_policy.php%3FidReferral%3D%26adid%3D) for the most accurate reproduction.*
 
 # Travelgrove Privacy Policy
 
@@ -41,7 +41,7 @@ We do not sell individual customer names or other private profile information to
 
 _Opt Out Policy_  
 At anytime, you will be able to unsubscribe to GROVEZINE through the "My Account" link, accessible through the "My Grove" link on Travelgrove's home page (www.Travelgrove.com).  
-As a member or contest entrant you will occasionally receive e-mail updates from us about fare sales in your area, special offers, new Travelgrove Inc services, and other noteworthy news items. We hope you will find these updates interesting and informative. Of course, if you would rather not receive them, please contact us at member@Travelgrove.com. Travelgrove Inc reserves the right to limit membership to those who will accept e-mails. Members will be notified via e-mail prior to any actions taken. 
+As a member or contest entrant you will occasionally receive e-mail updates from us about fare sales in your area, special offers, new Travelgrove Inc services, and other noteworthy news items. We hope you will find these updates interesting and informative. Of course, if you would rather not receive them, please contact us at member(at)Travelgrove.com. Travelgrove Inc reserves the right to limit membership to those who will accept e-mails. Members will be notified via e-mail prior to any actions taken. 
 
 _How can you access, update or correct your information?_  
 At any time, you can view and/or update your GROVEZINE subscriptions. You can also update your personal profile, which includes member registration and travel preferences information, through the "My Account" link, accessible through the "My Grove" link on our home page at www.Travelgrove.com.
@@ -51,7 +51,7 @@ Travelgrove contains links to other Web sites. Please note that when you click o
 
 In addition to the circumstances described above, Travelgrove Inc may disclose member information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of Travelgrove Inc or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities.
 
-Any material changes in the way Travelgrove Inc uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices to info@Travelgrove.com. Please reference the privacy policy in your subject line. Travelgrove Inc will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. 
+Any material changes in the way Travelgrove Inc uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices to info(at)travelgrove.com. Please reference the privacy policy in your subject line. Travelgrove Inc will attempt to respond to all reasonable concerns or inquiries within five business days of receipt. 
 
   
 
