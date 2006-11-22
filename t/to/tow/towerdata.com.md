@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the towerdata.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205161256id_/http%3A//www.towerdata.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towerdata.com privacy policy that was archived on 2006-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061122013220id_/http%3A//www.towerdata.com/company/privacy_policy.html) for the most accurate reproduction.*
 
-# Find, Verify, & Correct Email Addresses
-
-|    
----|---  
-  | 
+# TowerData Privacy Policy
 
 The TowerData Privacy Policy is our way of ensuring the safety and accuracy of Internet users' personal information, whether gathered on this site, by our clients, or by our partners.
 
@@ -12,7 +8,7 @@ We are in the email business and understand the importance of personal informati
 
 **How We Gather Information**
 
-TowerData is in the business of intermediating between consumers who wish to receive highly valuable promotions and offers of goods and services and companies who offer those promotions, goods and services. We collect only the information you voluntarily give us when you register on our website, www.towerdata.com.
+TowerData is in the business of intermediating between consumers who wish to receive highly valuable promotions, goods and services and companies who offer those promotions, goods and services. We collect only the information you voluntarily give us when you register on our website, www.towerdata.com.
 
 In addition, we also obtain information from our business partners and clients. We mandate that any company that provides us with data certify that the data represents permissible email data. If we become aware that the data is not in compliance we will terminate our relationship with that company immediately.
 
@@ -24,16 +20,14 @@ TowerData utilizes industry leading data security solutions and has implemented 
 
 We may disclose personal information when required by law or in the good faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our website.
 
-**You Can Control the Use of Your Information**  
-
+**You Can Control the Use of Your Information**
 
 At any time, you have the right to choose not to receive offers from any of our partners or TowerData. You can do this by notifying that partner through return email that you wish to not receive such information in the future from that partner or from towerdata.com.
 
 **The Use of Cookies**
 
-We do not use "cookies" to collect personal information, and we do not use cookies to retrieve information from your computer for purposes that are unrelated to the website or your interaction with the website.
+A "cookie" is a small data file transferred by a Web site to your computer's hard drive. TowerData sends cookies when you visit our site or register for certain services. Accepting cookies does not give us access to your personal information, but we may use the cookies to identify your computer. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly.
 
-**General**  
+**General**
 
-
-TowerData is a business-to-business site and is not directed to children under the age of 13. Similarly, TowerData's services are not directed to nor intended for anyone under the age of 13. Whether for itself or for its clients, TowerData will not knowingly collect or maintain personally identifiable information from or about anyone under 13. 
+TowerData is a business-to-business site and is not directed to children under the age of 13. Similarly, TowerData's services are not directed to nor intended for anyone under the age of 13. Whether for itself or for its clients, TowerData will not knowingly collect or maintain personally identifiable information from or about anyone under 13.
