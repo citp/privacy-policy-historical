@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netserveafrica.com privacy policy that was archived on 2006-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060328074059id_/http%3A//www.netserveafrica.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netserveafrica.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123090358id_/http%3A//netserveafrica.com/support/privacy.php) for the most accurate reproduction.*
 
 # NetServeAfrica Support
 
@@ -96,7 +96,9 @@ NetServeAfrica takes your privacy seriously. Please read the following to learn 
 
 Effective Date: January 01, 2006 
 
+|    
+| 
+
 |   
-|  |   
   
 | 
