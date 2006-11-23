@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uberphones.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614165027id_/http%3A//www.uberphones.com/2006/01/privacy_policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberphones.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123013424id_/http%3A//www.uberphones.com/2006/01/privacy_policy/index.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
