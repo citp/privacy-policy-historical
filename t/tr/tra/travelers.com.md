@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelers.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014149id_/http%3A//www.travelers.com/w3c/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelers.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123193706id_/http%3A//www.travelers.com/w3c/legal/privacypolicy.html) for the most accurate reproduction.*
 
 # Travelers Property Casualty - Privacy Notice
 
@@ -83,11 +83,11 @@ If you have any questions about the right of access to or correction of your fil
 Please include a copy (not the original) of personal ID, such as your driver's license.
 
 **WE THANK YOU FOR LETTING US SERVE YOUR INSURANCE NEEDS.**  
-This notice is effective April 2005 and is given by The Travelers Indemnity Company, and its property and casualty insurance affiliates, members of the St. Paul Travelers group of companies. This notice applies to current and former customers and may be amended at any time. The amended notice will be sent to customers and will also be placed on Travelers web sites.
+This notice is effective July 2006 and is given by The Travelers Indemnity Company, and its property and casualty insurance affiliates, members of the St. Paul Travelers group of companies. This notice applies to current and former customers and may be amended at any time. The amended notice will be sent to customers and will also be placed on Travelers web sites.
 
 A statement concerning our use of Insurance Score is available upon request for Oregon residents.
 
-PL-10582 Rev. 11-05 
+PL-10582 Rev. 07-06 
 
 |   
 ---  
