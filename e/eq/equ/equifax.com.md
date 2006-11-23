@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equifax.com privacy policy that was archived on 2006-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060324052130id_/https%3A//www.econsumer.equifax.com/consumer/sitepage.ehtml%3Fforward%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123100046id_/https%3A//www.econsumer.equifax.com/consumer/sitepage.ehtml%3Fforward%3Dprivacy_policy%26partner_cd%3DPPSS1) for the most accurate reproduction.*
 
 # Equifax Personal Solutions: Credit Reports, Credit Scores, Protection Against Identity Theft and more
 
@@ -6,7 +6,7 @@
 
 For more than 100 years, Equifax has been a catalyst for commerce by bringing businesses and consumers together. Equifax also provides products and services that bring businesses together with other businesses. We have built our reputation on our commitment to deliver reliable information to our customers (both businesses and consumers) and to protect the privacy and confidentiality of personal information about consumers. We also protect the sensitive information about businesses. Safeguarding the privacy and security of information, both online and offline is a top priority for Equifax.
 
-This privacy policy applies Equifax's commitment to privacy in an online setting. This privacy policy applies to the following Equifax U.S. web sites: [www.equifax.com](http://www.equifax.com/), [www.econsumer.equifax.com](http://www.econsumer.equifax.com/), [www.mycrediteducation.com](http://www.mycrediteducation.com/), [http://fact.econsumer.equifax.com](https://fact.econsumer.equifax.com/fact/landing.ehtml) and [www.equifax.com/CoolOnCredit](http://www.equifax.com/CoolOnCredit/). This privacy policy applies to both individual consumers and certain business organizations that use these web sites. 
+This privacy policy applies Equifax's commitment to privacy in an online setting. This privacy policy applies to the following Equifax U.S. web sites: [www.equifax.com](http://www.equifax.com/ "equifax.com"), [www.econsumer.equifax.com](http://www.econsumer.equifax.com/ "econsumer.equifax.com"), [www.mycrediteducation.com](http://www.mycrediteducation.com/ "mycrediteducation.com"), [http://fact.econsumer.equifax.com](https://fact.econsumer.equifax.com/fact/landing.ehtml "fact.econsumer.equifax.com") and [www.equifax.com/CoolOnCredit](http://www.equifax.com/CoolOnCredit/ "cooloncredit"). This privacy policy applies to both individual consumers and certain business organizations that use these web sites. 
 
 We take reasonable steps to:
 
@@ -104,7 +104,7 @@ _"Business organization identifiable information"_ is information we collect fro
 
 ### NON-APPLICABILITY OF PRIVACY POLICY TO COMMERCIAL USE
 
-### KEEPING UP-TO-DATE ON CHANGES TO THE EQUIFAX PRIVACY POLICY
+### KEEPING UP-TO -DATE ON CHANGES TO THE EQUIFAX PRIVACY POLICY
 
 ### HOW TO CONTACT US WITH QUESTIONS OR COMMENTS
 
