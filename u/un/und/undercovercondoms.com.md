@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the undercovercondoms.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615035257id_/http%3A//www.undercovercondoms.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undercovercondoms.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123060037id_/http%3A//www.undercovercondoms.com/privacy.asp) for the most accurate reproduction.*
 
 # Undercover Condoms - Privacy Policy
 
-|  |  |   
+| [Condoms by Brand](https://web.archive.org/condom_brands.asp "Condoms by Brand") | [Condoms by Type](https://web.archive.org/condom_styles.asp "Condoms by Type") | [Dental Dams](https://web.archive.org/Condoms/Types/Dental-Dams/15/dental-dams.html "Dental Dams") | [Personal Lubricants](https://web.archive.org/lubricants-by-category.asp "Personal Lubricants") | [Female Contraceptives](https://web.archive.org/Condoms/Types/Contraceptives/68/contraceptives.html "Foams & Gels")  
+---|---|---|---|---  
+  
+  
+|  |   
   
 |  | [](http://www.truste.org/ivalidate.php?url=www.undercovercondoms.com&sealid=101)  
 ---|---  
@@ -15,7 +19,7 @@ From the moment you place your order, you can rely on the following:
   * We will never sell your email, phone number, or any other of your personal information to any individual or entity outside of our company.
 
 For a full disclosure of how our site uses cookies and other privacy-related information,   
-see our [P3P Privacy Information.](https://web.archive.org/p3p/undercoverprivacy.html) |   
+see our [P3P Privacy Information.](http://www.undercovercondoms.com/p3p/undercoverprivacy.html) |   
 ---|---  
 Privacy Statement
 
