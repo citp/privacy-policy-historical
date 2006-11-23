@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-appliance.com privacy policy that was archived on 2006-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060521083339id_/http%3A//www.us-appliance.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-appliance.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123121221id_/http%3A//us-appliance.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
