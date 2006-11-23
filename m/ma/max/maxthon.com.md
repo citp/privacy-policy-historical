@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxthon.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615103249id_/http%3A//www.maxthon.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxthon.com privacy policy that was archived on 2006-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061123141632id_/http%3A//www.maxthon.com/support/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Maxthon Browser, Tabbed Browser with Popup Blocker, Ads Filter, Mouse Guesture and Super Drag&Drop
 
