@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telligent.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615064220id_/http%3A//telligent.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telligent.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124110838id_/http%3A//telligent.com/privacystatement) for the most accurate reproduction.*
 
 # Terms / Privacy : privacy statement
 
