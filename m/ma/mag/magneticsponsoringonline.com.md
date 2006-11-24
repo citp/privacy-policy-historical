@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magneticsponsoringonline.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203953id_/http%3A//magneticsponsoringonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magneticsponsoringonline.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124131023id_/http%3A//magneticsponsoringonline.com/privacy.php) for the most accurate reproduction.*
 
-# Internet Profit Course - The Step-By-Step Replace Your Job Internet Income Course!
+# - Login
 
 ### PRIVACY POLICY
 
