@@ -1,28 +1,30 @@
-> *The following text is extracted and transformed from the smartshopper.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622034343id_/http%3A//www.smartshopper.com/SmartShopper/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartshopper.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124234030id_/http%3A//www.smartshopper.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SmartShopper.com - Privacy Policy
 
-This Privacy Policy covers the use of the website [www.smartshopper.com](http://www.smartshopper.com/) and the SmartShopper software and comparative service provided therein (collectively: "SmartShopper"), which are owned by Smartshopper.com, Inc. To learn more about us, go to <http://www.smartshopper.com/smartshopper/Company>. 
+This Privacy Policy covers the use of the website [ www.smartshopper.com](http://www.smartshopper.com/) and the SmartShopper software and comparative service provided therein (collectively: "SmartShopper"), which are owned by Smartshopper Ltd. To learn more about us, go to [ http://www.smartshopper.com/smartshopper/Company](http://www.smartshopper.com/smartshopper/Company). 
 
 At SmartShopper, we’re committed to your privacy and your privacy is safe with us. Our Privacy Policy is simple: 
 
 **What do we do?**
 
-  * When you visit a shopping or travel website, the SmartShopper software connects to our servers to check for product and travel information, better prices and alternative offers for the product or travel deal you were interested in, in order to present them to you. For that end, the software transmits to our servers only the URL of the e-commerce or travel site you are visiting or the search term you typed in search engines.
+  * When you visit a recognized shopping or travel website, the SmartShopper software connects to our servers to check for product and travel information, better prices and alternative offers for the product or travel service you were interested in, in order to present them to you. 
+  * The sites on which SmartShopper operates are only sites which we have examined, cataloged and approved as safe for the user, and the software maintains a regularly-updated “white list” of such sites. The software does not track or transmit any data when you visit sites which are not on that "white list". 
+  * The software transmits to our servers only the URL of the e-commerce or travel site you are visiting or the search term you typed in on these e-commerce or travel sites. In some of the pages our software also transmits data about the products or the travel information presented on the page, in order to provide you with related information and comparative offers. 
   * We offer you comparative product and travel deals, as well as additional product and travel information, from the most trusted vendors on the net.
 
 
 
 **What we don't do:**
 
-  * We do **not** collect any personally identifiable information ("PII") about you.
-  * We do **not** trade, rent or sell PII to third parties.
-  * We do **not** transmit to our servers any information about your searches or website visits, except for information about visits to e-commerce sites and searches performed on such sites or in search engines. When such information is transmitted to our servers, it is processed only for the purpose of performing the comparative service and **nothing** else is being done with it.
-  * We do **not** display popups on your computer.
+  * We do not collect any personally identifiable information ("PII") about you. 
+  * We do not trade, rent or sell PII to third parties. We do not disclose the URLs visited by you to anybody else. 
+  * We do not transmit to our servers any information about your searches or website visits, except for information about visits to e-commerce and travel sites, and searches performed on such sites. When such information is transmitted to our servers, it is processed only for the purpose of performing the comparative service and nothing else is being done with it. 
+  * We do not display popups on your computer.
 
 
 
-**Learn more about safe surfing** and online shopping from the [Federal Trade Commission](http://www.ftc.gov/bcp/conline/pubs/alerts/glblalrt.htm). 
+**Learn more about safe surfing** and online shopping from the [ Federal Trade Commission](http://www.ftc.gov/bcp/conline/pubs/alerts/glblalrt.htm). 
 
 **WHAT INFORMATION DO WE COLLECT?**
 
@@ -30,7 +32,7 @@ _(a) Anonymous Aggregate Information_
 
 SmartShopper collects and stores aggregated anonymous information about the e-commerce or travel web pages its users view and the data they enter in search engine search fields while using the SmartShopper software (the “Service”). SmartShopper uses this information to determine which alternative offers and additional product or travel information to display on your browser window pane. 
 
-The SmartShopper software does **not** send to our servers any information about the web pages you view unless you are visiting one of the e-commerce or travel sites that we have examined and catalogued. For every such e-commerce or travel web page you view while using the Service, the SmartShopper software transmits from your computer to the SmartShopper server and stores the following information: your Internet Protocol (IP) Address; the Full Uniform Resource Locator (URL) of the web page you are visiting; general information about your browser and your computer's operating system; your SmartShopper cookie number and the date and time the above information is logged. We also collect and store the following SmartShopper usage statistics: what is clicked on the browser window pane; the amount of time the Service is used during each session; which keyword searches are performed within the application search box and what alternative results are received during any given session. 
+The SmartShopper software does not send to our servers any information about the web pages you view unless you are visiting one of the e-commerce or travel sites that we have examined and catalogued. For every such e-commerce or travel web page you view while using the Service, the SmartShopper software transmits from your computer to the SmartShopper server and stores the following information: your Internet Protocol (IP) Address; the Full Uniform Resource Locator (URL) of the web page you are visiting; general information about your browser and your computer's operating system; your SmartShopper cookie number and the date and time the above information is logged. We also collect and store the following SmartShopper usage statistics: what is clicked on the browser window pane; the amount of time the Service is used during each session; which keyword searches are performed within the application search box and what alternative results are received during any given session. 
 
 If you are only visiting our site ([www.smartshopper.com](http://www.smartshopper.com/)), we collect the following information: the URL of the web page from which you came; the date and time of each page you view; the name of and information about any advertisement that brought you to our web site; and computer and connection information. If the URL of the page from which you came contains any PII about you, we will not attempt to determine your identity by analyzing the URL in any way. Also the IP address of the computer from which you arrived to our site is recorded by the web server; this is an automated information collection as done by any web server, and we do not store this information for any type of use. 
 
@@ -72,7 +74,11 @@ In the event that SmartShopper sells substantially all of its assets or is acqui
 
 From time to time, we employ other companies and individuals to perform functions on our behalf, such as technical support services. To perform those functions, it may be necessary for them to obtain access to SmartShopper’s databases and servers, which may contain PII about users. They may not use such access or information for any purpose other than that for which such companies and individuals are retained. 
 
-2\. _Anonymous Information_ \- SmartShopper works with third party providers to serve comparative offers when you visit our web site and use the Service, including the browser window pane. We may share anonymous web site usage information about the Service, including the browser window pane, with such companies for the purpose of managing and targeting comparative offers and for market research analysis on our web sites and the Service. For these purposes, we and our third party providers may note some of the pages you visit on our web sites, and while using the Service, trough the use of clear gifs. As indicated above, the cookies and clear gifs are not tied to any PII and we cannot identify your personal information through them. 
+2\. _Anonymous Information_ \- SmartShopper works with third party providers to serve comparative offers when you visit our web site and use the Service, including the browser window pane. We may share anonymous web site usage information about the Service, including the browser window pane, with such companies for the purpose of managing and targeting comparative offers and for market research analysis on our web sites and the Service. For these purposes, we and our third party providers may note some of the pages you visit on our web sites, and while using the Service, trough the use of clear gifs. As indicated above, the cookies and clear gifs are not tied to any PII and we cannot identify your personal information through them. SmartShopper does not place any restrictions on usage of this anonymous information by its third-party partners. 
+
+**AGE REQUIREMENT**
+
+You must be at least 18 years of age to use the Software. By accepting the terms of this Agreement and using Software, you represent that you are over the age of 18. If you are under 18 years of age, but are at least 13 years of age or older, your parent or legal guardian must accept the terms of this Agreement on your behalf.
 
 **CHILDREN’S PRIVACY**
 
@@ -94,18 +100,18 @@ This window gives users the option of changing and modifying information previou
 
 **REMOVAL OF THE SMARTSHOPPER SOFTWARE**
 
-If you are having technical or other difficulty with the SmartShopper comparative shopping application, please contact our support team at [support@smartshopper.com.](mailto:support@smartshopper.com)To remove the SmartShopper comparative shopping application you will need to uninstall the software using Microsoft's Windows control panel add/remove software function (by removing the entry "smartshopper"). 
+If you are having technical or other difficulty with the SmartShopper comparative shopping application, please contact our support team at [ support@smartshopper.com.](mailto:support@smartshopper.com) To remove the SmartShopper comparative shopping application you will need to uninstall the software using Microsoft's Windows control panel add/remove software function (by removing the entry "smartshopper"). 
 
 **INFORMATION SECURITY**
 
 SmartShopper undertakes reasonable physical, electronic and procedural security measures in order to protect against the loss, misuse and alteration of the information under our control. We restrict access to the database that contains PII to a limited number of employees who may access that information only for legitimate business or legal purposes. Those employees are instructed and trained to maintain the database while safeguarding the privacy of users. While we strive to protect your personal information, we cannot absolutely guarantee the security of any information you transmit to us or from our online products or services. 
 
-**CHANGES TO THIS PRIVACY POLICY** >
+**CHANGES TO THIS PRIVACY POLICY**
 
 SmartShopper is constantly evolving. New features are continuously being added to the site and software. With these improvements, our Privacy Policy may evolve. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy on the SmartShopper homepage and website, on the SmartShopper application, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
 
 **HOW TO CONTACT US ABOUT PRIVACY**
 
-If you have any questions about this Privacy Policy, the practices of this site and Service, or your dealings with this web site, you can email us at: [privacy@SmartShopper.com](mailto:privacy@SmartShopper.com)
+If you have any questions about this Privacy Policy, the practices of this site and Service, or your dealings with this web site, you can email us at: [ privacy@SmartShopper.com](mailto:privacy@SmartShopper.com)
 
-**This privacy policy was last updated on March 19, 2006.**
+**This privacy policy was last updated on October 15, 2006.**
