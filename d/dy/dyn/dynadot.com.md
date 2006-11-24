@@ -1,30 +1,45 @@
-> *The following text is extracted and transformed from the dynadot.com privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417205841id_/http%3A//www.dynadot.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynadot.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124180604id_/http%3A//www.dynadot.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Dynadot LLC
 
-[](https://web.archive.org/) | [Home](https://web.archive.org/) | [My Account](https://web.archive.org/account/) | [Shopping Cart](https://web.archive.org/order/cart.html) | [Help](https://web.archive.org/help/)  
-[Welcome](https://web.archive.org/)   [Domain Names](https://web.archive.org/domain/search.html)   [Web Hosting](https://web.archive.org/web_hosting/about.html)   [Resources](https://web.archive.org/resource/article/)   [Company](https://web.archive.org/company/about.html)  
-|          
-  
+**_Privacy Policy_**
+
+Welcome to the Dynadot web design, web hosting, and domain name registration service ("Service").  The Service is made available subject to this Privacy Policy.  By using the Service, you agree, without limitation or qualification, to be bound by this Privacy Policy.  This policy may be updated from time to time, so please check back here periodically.
+
 **What information is collected?**
 
 When opening an account, the Service collects your name, e-mail address, mailing address, phone number, and fax number. We collect this information because it may be necessary to contact you about your account. Also, if you are registering a domain name, this information is required by ICANN.
 
-If you are placing an order, the Service collects your credit card number and/or other billing information. This information is used only to collect payment for services rendered.
+In addition, when you open an account, the Service asks you to create a username and password.  The Service uses your username for identification purposes only, and uses your password for verification of your identity only.
 
- **What information is shared?**
+If you are placing an order, the Service collects your credit card number and/or other billing information. This information is used only to collect payment for services rendered.  If you are placing an order or logging in to your customer account, the Service may log your IP address as a security measure.  If you purchase digital (SSL) certificate services, the Service also collects information about your subject domain name registration.
 
-The Service does not share your information with anyone except when absolutely necessary. If you are registering a domain name, your contact information will be listed on the public Whois service. This listing is required by ICANN. When placing an order, we submit your billing information to the payment processor. Otherwise all information is kept private. We do not sell information to mailing lists, or send advertisements on behalf of other companies. 
+If you choose to participate in our Refer-A-Friend program or other promotions to tell others about our website, we will ask you to provide your friend's name and email address.  The Service stores this information for the sole purpose of sending a one-time email to your friend.
 
-Though the Service makes every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us. ([Subpoena Policy](https://web.archive.org/subpoena_policy.html))
+If you submit a complaint to us about our Service or about any one of our customers, the Service collects your name and contact information, which may be used in our investigation.
 
- **What emails will you send me?**
+**What information is shared?**
 
-We send emails updating you on the status of your order. We may email you a renewal notice if a domain or service is about to expire. We may email you about a matter directly concerning your account. We may email you if we update a policy that affects your account. If you registered a domain name, we will send you an email once a year to remind you to update your contact information, as required by ICANN. We may also send you a Dynadot newsletter periodically, but you have the option of disabling this feature.
+The Service does not share your information with any external third parties except when absolutely necessary, as listed here in this Privacy Policy, or when authorized by you. We do not sell information to mailing lists, or send advertisements on behalf of other companies.
 
- **Do you use "cookies"?**
+If you are registering a domain name, your contact information will be listed on the public Whois service.  This listing is required by ICANN. When placing an order, we submit your billing information to the payment processor. 
 
-The Service uses cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies only. Once a user closes the browser, the session cookie simply terminates. We use cookies to remember where you are in our website. For example, by setting a cookie when you sign into your account, we know that you are an authorized user. If you reject the cookie, you will not be able to enter the account area of the site.  
-  
-[Contact Us](https://web.archive.org/company/contact.html)   [Prices](https://web.archive.org/company/prices.html)   [Privacy Policy](https://web.archive.org/privacy_policy.html)   [Service Agreement](https://web.archive.org/registration_agreement.html)   [Dispute Policy](https://web.archive.org/icann_dispute.html)   [Copyright Complaint](https://web.archive.org/copyright_policy.html)   [Report Spam](https://web.archive.org/spam_policy.html)   [Whois](https://web.archive.org/whois.html)  
-Copyright © 2002-2006 Dynadot LLC. All rights reserved.
+If you are purchasing a digital (SSL) certificate, all information that you provide us that forms the content of a digital certificate will be "published" on the internet.  Publication of digital certificates in an accessible location (a repository) is an integral part of enabling the widespread use of digital certificates.  Your digital certificate will be published in our repository, or that of the providing vendor, so that a third party may access, review, and rely upon your digital certificate.  You should have no expectation of privacy regarding the content of your digital certificate.  The exact information that appears in a digital certificate varies depending on the type of certificate you purchase.  Generally, this information includes your name or company name, the subject domain name, country, status of certificate validity, and dates of certificate validity.
+
+If you use a forum or bulletin board tool on our website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  The Service generates a user ID to be associated with your account that is unique and different from your account username, for the specific purpose of allowing you to use these forums without disclosing your account information.  The user ID may contain information related to your physical location or name initials.  You have the option of changing your forum user ID in your account settings.  The Service is not responsible for the personally identifiable information you submit in these forums.
+
+If you purchase websites, website templates, site building software, web hosting, or other such website services, you should be aware that any personally identifiable information you submit on any such web pages can be read, collected, or used by third parties, and could be used to send you unsolicited messages.  The Service is not responsible for the personally identifiable information you disclose using any of these services.
+
+If you submit a complaint to us about our Service or about any one of our customers, the Service reserves the right to share your name and contact information with the party against whom you are lodging the complaint, or with a law enforcement agency, as we deem necessary in our sole discretion.
+
+Though the Service makes every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us. (Please see our _Subpoena Policy_.)
+
+**What emails and postal mails will you send me?**
+
+We send emails updating you on the status of your order. We may email you a renewal notice if a domain or service is about to expire. We may email you about a matter directly concerning your account. We may email you if we update a policy that affects your account. If you registered a domain name, we will send you an email once a year to remind you to update your contact information, as required by ICANN.  We may also send you a Dynadot newsletter periodically, but you have the option of disabling this feature by changing your account settings. 
+
+If you purchased our Privacy Service with your domain name registration, we may forward emails and postal mails to you at your account contact information.  If you choose to participate in our Refer-A-Friend program or other promotions to tell others about our website, we may email you on the status of your participation in such programs or promotions.  We will also send your friend a one-time email about our website, listing you as the referrer.  If you submit a complaint or other form of communication to us, we may email you a reply or status update.
+
+**Do you use "cookies"?**
+
+The Service uses cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We use cookies to remember where you are in our web site. For example, by setting a cookie when you sign into your account, we know that you are an authorized user. If you reject the cookie, you will not be able to enter the account area of the site.
