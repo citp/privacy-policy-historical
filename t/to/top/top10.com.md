@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513053950id_/http%3A//www.top10.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124195058id_/http%3A//top10.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
