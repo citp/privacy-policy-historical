@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepapermillstore.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072009id_/http%3A//www.thepapermillstore.com/pages.php%3Fpageid%3D147) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepapermillstore.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124134805id_/http%3A//www.thepapermillstore.com/pages.php%3Fpageid%3D147) for the most accurate reproduction.*
 
 # We Guarantee Your Privacy and Value Your Trust
 
