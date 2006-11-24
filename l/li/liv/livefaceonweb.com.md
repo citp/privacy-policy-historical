@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livefaceonweb.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615222529id_/http%3A//livefaceonweb.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livefaceonweb.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124164014id_/http%3A//www.livefaceonweb.com/ps.aspx) for the most accurate reproduction.*
 
 # LiveFaceOnWeb.com
 
@@ -36,7 +36,7 @@ We are committed to resolving disputes within 24-48 hours. If problems arise, us
 CONTACT INFORMATION   
 If site users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-LiveFaceOnWeb, LLC.  
+LiveFaceOnWeb, LLC  
 1300 Industrial Boulevard, Suite 202  
 Southampton, PA 18966  
 U.S.A.  
