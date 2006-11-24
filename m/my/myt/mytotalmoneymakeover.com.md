@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytotalmoneymakeover.com privacy policy that was archived on 2006-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060515161338id_/https%3A//www.mytotalmoneymakeover.com/index.cfm%3Fevent%3DdisplayMytmmoPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytotalmoneymakeover.com privacy policy that was archived on 2006-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061124173511id_/https%3A//www.mytotalmoneymakeover.com/index.cfm%3Fevent%3DdisplayMytmmoPrivacyPolicy) for the most accurate reproduction.*
 
-# MyTotalMoneyMakeover.com Your Proven Plan For F - Flash Player Installation
+# MyTotalMoneyMakeover.com Your Proven Plan For Financial Fitness.
 
 **Our Policy Behind Our Privacy Policy**  
 My Total Money Makeover refuses to make you read through pages and pages of boring text about a policy that does nothing but trick you into NOT reading it. We have chosen to make our privacy policy clear and concise enough that you will read it and feel comfortable on our site, knowing that we have every intention to protect your privacy.
@@ -17,6 +17,8 @@ We do not use the information you provide us for any purpose unless otherwise co
 We make every effort to keep our subscribers informed of special events, news, and offers that are happening or available. Periodically, announcements are released via email. 
 
 Note: Your information will be subjected to submission if ordered by a court of law.
+
+We may feature some of the powerful stories from the "My Journal" section of this Web site in our promotional materials. If we decide to feature your story, we will contact you for permission before using it in any way. Hey, we respect your right to privacy and to stay out of the limelight if you so choose.
 
 **Security**  
 We are determined to keep your information private. We have even added measures to protect your personal information in transitions. For example, when you supply us with your debit card or checking account information to make a purchase, your information is encrypted to insure a safe and secure transaction. Your payment information is temporarily stored on a secure server before processing. All of the customer data we collect is protected against unauthorized access through (1) the use of vendors that specialize in providing secure online payment solutions and by (2) not allowing your account/payment information to be accessed via the Internet.
