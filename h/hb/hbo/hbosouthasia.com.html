@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the hbosouthasia.com privacy policy that was archived on 2006-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060507200136id_/http%3A//hbosouthasia.com/hbo/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hbosouthasia.com privacy policy that was archived on 2006-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061125061041id_/http%3A//hbosouthasia.com/hbo/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">    
+	<meta name="verify-v1" content="djbSJYGxk5MeBeH30k+P1nIsAZCM5LYmEY4B7BJlmDQ=">
 	<title>HBO Asia: About HBO Asia</title>       
 	<link href="/stylesheets/hbo_theme1_bgd1.css" media="all" rel="Stylesheet" type="text/css">
 	<script src="/javascripts/prototype.js" type="text/javascript"></script>
@@ -12,13 +13,14 @@
 	<script src="/javascripts/blocks.js" type="text/javascript"></script>
 	<script src="/javascripts/site.js" type="text/javascript"></script>
 	<script src="/javascripts/CalendarPopup.js" type="text/javascript"></script>
+	<script src="/javascripts/video.js" type="text/javascript"></script>
 </head>
-<body>
+<body onload="doPageLoad();">
 <div id="container">
 
 <div id="header">
 	<div id="header_logo">
-		<a href="/hbo"><img src="/images/hbo/bgd1/header_logo_hbo.gif" width="162" height="64" alt="HBO Asia"></a>
+		<a href="/hbo"><img src="/images/hbo/bgd1/header_logo_hbo.gif" width="166" height="87" alt="HBO Asia"></a>
 	</div><!-- /logo -->
 	<div id="header_country">
 		<span>SINGAPORE</span>
@@ -123,34 +125,34 @@
 	
 	<!-- COUNTRY -->
 	<div id="sidebar_country">
-	<form id="change_country_sb" action="/hbo/change_country" method="post">
-		
-		<select id="country_select_sb_hbo" name="country" onchange="change_country_sb_hbo();">
-		<option value="" selected="selected">Select Country</option>
+	<form id="sb_change_country" action="/hbo/change_country" method="post">
+		<select id="sb_country_select" name="country" onchange="change_country();">
+			<option value="" selected="selected">Select Country/Language</option>
 			<option value="BD">Bangladesh</option>
-<option value="BN">Brunei</option>
-<option value="KH">Cambodia</option>
-<option value="CN">China</option>
-<option value="HK">Hong Kong</option>
-<option value="IN">India</option>
-<option value="ID">Indonesia</option>
-<option value="MO">Macau</option>
-<option value="MY">Malaysia</option>
-<option value="MD">Maldives</option>
-<option value="MN">Mongolia</option>
-<option value="NP">Nepal</option>
-<option value="PK">Pakistan</option>
-<option value="PW">Palau</option>
-<option value="PG">Papua New Guinea</option>
-<option value="PH">Philippines</option>
-<option value="SG">Singapore</option>
-<option value="KR">South Korea</option>
-<option value="LK">Sri Lanka</option>
-<option value="TW">Taiwan</option>
-<option value="TH">Thailand</option>
-<option value="VN">Vietnam</option>
+			<option value="BN">Brunei</option>
+			<option value="KH">Cambodia</option>
+			<option value="CN">China</option>
+			<option value="CNc">China (中文)</option>
+			<option value="HK">Hong Kong</option>
+			<option value="IN">India</option>
+			<option value="ID">Indonesia</option>
+			<option value="MO">Macau</option>
+			<option value="MY">Malaysia</option>
+			<option value="MD">Maldives</option>
+			<option value="MN">Mongolia</option>
+			<option value="NP">Nepal</option>
+			<option value="PK">Pakistan</option>
+			<option value="PW">Palau</option>
+			<option value="PG">Papua New Guinea</option>
+			<option value="PH">Philippines</option>
+			<option value="SG">Singapore</option>
+			<option value="KR">South Korea</option>
+			<option value="LK">Sri Lanka</option>
+			<option value="TW">Taiwan</option>
+			<option value="TWc">Taiwan (中文)</option>
+			<option value="TH">Thailand</option>
+			<option value="VN">Vietnam</option>
 		</select>
-		
 	</form>
 </div><div class="clearing3"></div>
 	<!-- /COUNTRY -->
