@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natively.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616005303id_/http%3A//natively.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natively.com privacy policy that was archived on 2006-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061125172158id_/http%3A//www.natively.com/Privacy.asp) for the most accurate reproduction.*
 
 # Natively - Dictionary and Translation Software, Award Winning Language learning tools
 
@@ -18,7 +18,7 @@ Natively checks for the following information when using Natively software:
 your operating system, Natively Software version, browser version, connectivity, and information regarding your use and the configuration of the Natively Software ("Parameters"). Parameters are collected in order to provide you with the Software and Services subject to the provisions hereof;  
   
 Payment Collection Information:  
-when purchasing a subscription using your credit card, you will be asked to submit data such as the credit card number. Darlingo.com uses the most updated information security technology, whose purpose is to protect your credit card details during the transmission of data stored on the servers. This SSL technology ('Secure Sockets Layers'), secures billions of dollars' worth of transactions over the internet. Darlingo.com uses a mediator for the purpose of clearing all credit card transactions.  
+when purchasing a subscription using your credit card, you will be asked to submit data such as the credit card number. Natively.com uses the most updated information security technology, whose purpose is to protect your credit card details during the transmission of data stored on the servers. This SSL technology ('Secure Sockets Layers'), secures billions of dollars' worth of transactions over the internet. Natively.com uses a mediator for the purpose of clearing all credit card transactions.  
   
 Additional Information Collected:  
 When contacting Natively.com through the 'Contact' option, we use the submitted information and email address to answer questions or problems concerning the Nativeky.com site. Additionally, some information (such as IP address, browser, computer type and operating system) is stored automatically. This kind of information helps us answer your questions, especially those concerning technical difficulties. Filing such information concerning content allows diagnosis of problems related to our servers, security management and demographic attribution. We also collect such information at times for internal business needs that are not accessible to anyone outside Natively.com. We will disclose this information only if required to do so by law.  
