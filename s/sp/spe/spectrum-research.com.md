@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spectrum-research.com privacy policy that was archived on 2003-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031010145328id_/http%3A//www.spectrum-research.com/mainsite/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectrum-research.com privacy policy that was archived on 2006-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061125072311id_/http%3A//www.spectrum-research.com/V2/privacy-policy.asp) for the most accurate reproduction.*
 
-# Spectrum Research's Privacy Policy
+# Spectrum Research, Inc. - Privacy Policy
 
-Spectrum Research recognizes the importance of protecting the privacy of all information provided by users of our web sites and all of our customers. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by Spectrum Research.INFORMATION COLLECTION AND USE  
+Spectrum Research, Inc. recognizes the importance of protecting the privacy of all information provided by users of our web sites and all of our customers. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by Spectrum Research, Inc.INFORMATION COLLECTION AND USE  
 Spectrum Research collects information from our website users and customers. In this section of our privacy policy, we will describe the type of information we collect and how we use it to provide better services to our customers.Registration and Ordering  
 When signing up for certain selected services or products, users must first register. During registration, users are required to give their contact information (such as name, e-mail address, mailing address and phone number). We also may collect demographic information (such as job title and purchasing responsibilities, company information and professional certification). For internal purposes, we use this information to communicate with users and provide requested services, and, for our website visitors, to provide a more personalized experience on our site. We use aggregate demographic information about our audience to improve our service, for marketing purposes and/or industry reporting purposes.
 
@@ -43,9 +43,9 @@ If we change our privacy policy, we will post those changes on this page so our 
 
 For questions about this privacy statement, the practices of this site or any dealings with Spectrum Research, contact us at:
 
-Spectrum Research  
-847 Percy Warner Blvd.  
-Nashville, TN 37205  
-615-352-0490  
-dougm@spectrum-research.com  
+Spectrum Research, Inc.  
+1601 High Forrest Court  
+Nashville, TN 37221  
+615-646-1530
 
+This site ©Copyright Spectrum Research and Spectrum Research, Inc. 2000-2006 All Rights Reserved. Reproduction of any part of this website or software herein without prior written permission is strictly prohibited. 
