@@ -1,33 +1,96 @@
-> *The following text is extracted and transformed from the instrumentpro.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407220523id_/http%3A//www.instrumentpro.com/c-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instrumentpro.com privacy policy that was archived on 2006-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061125233824id_/http%3A//instrumentpro.com/c-Privacy) for the most accurate reproduction.*
 
 # Privacy - Instrument Pro
 
 |  |   
 ---  
-|  |   
-[Guitars](http://www.instrumentpro.com/guitars.html "Guitars")  
+|   
+[Guitars:](https://web.archive.org/guitars.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
 ---  
-[Bass](http://www.instrumentpro.com/bass-guitar.html "Bass Guitar")  
-[Drums](http://www.instrumentpro.com/drums.html "Drums")  
-[Keyboards](http://www.instrumentpro.com/digital-piano.html "Digital Piano")  
-[Recording](http://www.instrumentpro.com/recording-equipment.html "Recording")  
-[Live Sound](http://www.instrumentpro.com/live-sound.html "Live Sound")  
-[DJ & Lighting](http://www.instrumentpro.com/dj-and-lighting.html "DJ & Lighting")  
-[Sheet Music](http://www.instrumentpro.com/sheetmusic.html "Sheet Music")  
-[Manufacturers](http://www.instrumentpro.com/manufacturers.html "Manufacturers")  
+[Electric Guitar](https://web.archive.org/electric-guitars/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Acoustic Guitar](https://web.archive.org/acoustic-guitars/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Guitar Packages](https://web.archive.org/guitar-packages/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Other Stringed](https://web.archive.org/other-instruments/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Guitar Amplifiers](https://web.archive.org/guitar-amplifiers/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Guitar Effects](https://web.archive.org/guitar-effects/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Guitar Wireless Systems](https://web.archive.org/c-guitar-wireless-systems?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Guitar Accessories](https://web.archive.org/guitar-accessories/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Guitar Books & Videos](https://web.archive.org/c-guitar-books-videos?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Bass Guitars:](https://web.archive.org/bass-guitar.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Electric Bass](https://web.archive.org/electric-bass/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Acoustic Bass](https://web.archive.org/acoustic-bass/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Bass Packages](https://web.archive.org/bass-packages/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Bass Amplifiers](https://web.archive.org/bass-amplifiers/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Bass Effects](https://web.archive.org/bass-effects/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Bass Wireless Systems](https://web.archive.org/c-bass-wireless-systems?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Bass Accessories](https://web.archive.org/bass-accessories/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Bass Books & Videos](https://web.archive.org/c-bass-books-videos?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Drums:](https://web.archive.org/drums.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Acoustic Drums](https://web.archive.org/acoustic-drums/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Electronic Drums](https://web.archive.org/electric-drums/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[World/Latin Percussion](https://web.archive.org/latin-drums/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Drum Machines](https://web.archive.org/c-drum-machines?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Hardware](https://web.archive.org/c-drum-hardware?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Snare Drums](https://web.archive.org/web/20061125233824id_/http%3A//instrumentpro.com/c-drum-snare?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Cymbals](https://web.archive.org/cymbals/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Accessories](https://web.archive.org/drum-accessories/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Keyboards:](https://web.archive.org/digital-piano.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Keyboard Synthesizers](https://web.archive.org/c-keyboard-synthesizers?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Digital Pianos](https://web.archive.org/digital-pianos/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Keyboard Amplifiers](https://web.archive.org/c-keyboard-amplifiers?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Keyboard Controllers](https://web.archive.org/c-keyboard-controllers?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Keyboard Modules & Samplers](https://web.archive.org/c-keyboard-modules-samplers?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Software & Plug-Ins](https://web.archive.org/c-keyboard-software-plugins?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Theremins](https://web.archive.org/c-theremins?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Keyboard Cases & Stands](https://web.archive.org/Keyboard-Cases-Stands/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Keyboard Accessories](https://web.archive.org/Keyboard-Accessories/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Recording:](https://web.archive.org/recording-equipment.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Multitrack Recorder](https://web.archive.org/multitrack-recorder/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Computer Hardware](https://web.archive.org/web/20061125233824id_/http%3A//instrumentpro.com/c-recording-computer-hardware?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Recording Microphones](https://web.archive.org/c-recording-microphones?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Recording Computer Software](https://web.archive.org/web/20061125233824id_/http%3A//instrumentpro.com/c-recording-computer-software?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Recording Mixers](https://web.archive.org/recording-mixers/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Studio Monitors](https://web.archive.org/studio-monitors/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Recording Headphones](https://web.archive.org/headphones/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Recording Signal Processors](https://web.archive.org/recording-signal-processors/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Recording Accessories](https://web.archive.org/recording-accessories/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Live Sound:](https://web.archive.org/live-sound.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Live Sound Mixers](https://web.archive.org/live-sound-mixers/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[PA Speakers](https://web.archive.org/speakers/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Power Amplifiers](https://web.archive.org/c-live-sound-power-amplifiers?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Live Sound Microphones](https://web.archive.org/live-sound-microphones/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Wireless Microphones](https://web.archive.org/c-live-sound-wireless-microphones?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Signal Processing](https://web.archive.org/live-sound-signal-processing/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Karaoke](https://web.archive.org/karaoke/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Live Sound Cases & Stands](https://web.archive.org/live-sound-cases/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Live Sound Accessories](https://web.archive.org/live-sound-accessories/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[DJ Gear:](https://web.archive.org/dj-gear/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Turntables](https://web.archive.org/c-dj-turntables?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[CD Players](https://web.archive.org/c-dj-cd-players?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[DJ Mixers](https://web.archive.org/c-dj-mixers?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[DJ Systems](https://web.archive.org/c-dj-systems?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[DJ Microphones](https://web.archive.org/c-dj-microphones?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[DJ Headphones](https://web.archive.org/c-dj-headphones?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[DJ Cartridges](https://web.archive.org/c-dj-cartridges?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[DJ Speakers](https://web.archive.org/c-dj-speakers?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[DJ Power Amplifiers](https://web.archive.org/c-dj-power-amplifiers?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Groove Machines](https://web.archive.org/c-dj-groove-machines?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[DJ Cases & Stands](https://web.archive.org/c-dj-cases-stands?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[DJ Accessories](https://web.archive.org/c-dj-accessories?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Lighting Equipment:](https://web.archive.org/lighting-equipment/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Effects Lighting](https://web.archive.org/c-lighting-effects-lighting?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Stage Lighting](https://web.archive.org/c-lighting-stage-lighting?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Laser Lighting](https://web.archive.org/c-lighting-laser-lighting?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Special Effects](https://web.archive.org/c-lighting-special-effects?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Fog, Snow, & Bubble Machines](https://web.archive.org/c-lighting-fog-snow-bubble-machines?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Lighting Accessories](https://web.archive.org/c-lighting-accessories?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Band Instruments:](https://web.archive.org/Band-Instruments/index.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Brass](https://web.archive.org/C-Band-Brass?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Woodwind](https://web.archive.org/C-Band-Woodwinds?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Stringed Instruments](https://web.archive.org/C-Band-Stringed-Instruments?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Accessories](https://web.archive.org/C-Band-Accessories?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276)  
+[Manufacturers](https://web.archive.org/manufacturers.html?PHPSESSID=c1fd5db91ddf55d1784d66a5daba5276 "Manufacturers")  
   
-  
-
-
-[Great Gift Ideas  
-Under $100](http://www.instrumentpro.com/C-under100.html "Great Music Instrument Gift Ideas Under $100")
-
-[Great Gift Ideas  
-Under $500](http://www.instrumentpro.com/C-under500.html "Great Music Instrument Gift Gift Ideas Under $500")
-
-[Great Gift Ideas  
-Under $1000](http://www.instrumentpro.com/C-under1000.html "Great Music Instrument Gift Gift Ideas Under $1000")
-
 | 
 
 Effective November 5th, 2004 
@@ -75,10 +138,4 @@ Effective November 5th, 2004
 
   
   
-|    
-  
-  
-[](http://www.instrumentpro.com/C-newsletter.html "Privacy - Click Here to Join Our Free Newsletter")  
-[](http://www.instrumentpro.com/C-MusicalFreedom "Privacy - Click Here to Apply for an InstrumentPro Credit Card. No Payments for 6 months")  
-  
-[](http://www.guitartips.com.au/cgibin/affiliates/click.cgi?id=557 "Privacy - Guitar tips - Online guitar lessons") [](http://stores.ebay.com/instrumentprocom "Privacy - Click Here to Shop our EBAY Store. Deeply Discounted Instruments.") [](https://web.archive.org/search.php?q=gift+certificate&store=1&Search_Type=AND "Privacy - Click Here for Gift Certificates. Let them get the gift they want!")
+| 
