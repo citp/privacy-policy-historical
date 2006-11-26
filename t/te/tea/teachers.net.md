@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the teachers.net privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810012308id_/http%3A//teachers.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachers.net privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126151730id_/http%3A//teachers.net/privacy.html) for the most accurate reproduction.*
 
 # Teachers.Net - PRIVACY STATEMENT
 
-|  [](http://teachers.net/cgi-bin/banner/redirect.cgi?http://ad.doubleclick.net/clk;5797093;8003999;dqumhttp://www.canter.net/special/wbisu03/index.cfmqumbi_s=%esid!&468x60_apr03_d.gif) [Click here](http://teachers.net/cgi-bin/banner/redirect.cgi?http://ad.doubleclick.net/clk;5797093;8003999;dqumhttp://www.canter.net/special/wbisu03/index.cfmqumbi_s=%esid!&468x60_apr03_d.gif) This privacy statement is applicable to Teachers.Net, Administrators.Net, and associated regional affiliate websites (e.g. California.Teachers.Net, Australian.Teachers.Net, etc.). 
+| 
+
+This privacy statement is applicable to Teachers.Net, Administrators.Net, and associated regional affiliate websites (e.g. California.Teachers.Net, Australian.Teachers.Net, etc.). 
 
 Teachers.Net certifies full compliance with the Children's Online Privacy Protection Act (COPPA) and other applicable federal regulations regarding on-line privacy. Teachers.Net does not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. For example, such personally identifiable information may be gathered from a contest or sweepstakes registration, the registration process for subscription sites or services and in connection with content submissions, community postings (e.g., chat and bulletin boards), suggestions, voting/polling activities and transactional areas. Personally identifiable information on individual users will not be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. At such points of collection, the user will have the opportunity to indicate whether he or she would like to "opt out" of receiving promotional and/or marketing information about other products, services and offerings from Teachers.Net and/or any third parties. Further, notwithstanding any opt out of promotional information by the user, Teachers.Net reserves the right to contact a subscriber regarding account status, changes to the subscriber agreement and other matters relevant to the underlying service and/or the information collected. 
 
@@ -17,3 +19,15 @@ Users should be aware that non-personal information and data may be automaticall
 Upon request, Teachers.Net will allow any user to "opt out" of further promotional contacts at any time. Additionally upon request, Teachers.Net will use reasonable efforts to allow users to update/correct personal information previously submitted which the user states is erroneous to the extent such activities will not compromise privacy or security interests. Also, upon a user's request, Teachers.Net will use commercially reasonable efforts to functionally delete the user and his or her personal information from its database; however, it may be impossible to delete a user's entry without some residual information because of backups and records of deletions. 
 
 The foregoing policies are effective as of April 18, 1999. Teachers.Net reserves the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+
+**DMCA Safe Harbor Provision**
+
+In accordance with section 512 of the Digital Millennium Copyright Act (DMCA), Teachers.Net designates the following as agent for notification of potential violations of the DMCA: 
+
+Bob Reap  
+C/O Teachers.Net  
+3820 Haines Street Suite 1  
+San Diego, California 92109  
+(858) 272-3274  
+Email: webmaster at teachers.net 
+
