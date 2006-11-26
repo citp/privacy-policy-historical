@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the goodmagazine.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618035218id_/http%3A//goodmagazine.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodmagazine.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126135936id_/http%3A//www.goodmagazine.com/about/privacy) for the most accurate reproduction.*
 
 # GOOD MAGAZINE | What Matters
 
 [](https://web.archive.org/)
-
-GOOD Magazine  
-What Matters
 
 ## Privacy Policy
 
