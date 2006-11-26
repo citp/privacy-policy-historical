@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webguru-india.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618141140id_/http%3A//www.webguru-india.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webguru-india.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126120022id_/http%3A//webguru-india.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Webguru-India.com - Privacy Policy and Terms of Service
 
-This legal notice pertains to web site “www.webguru-india.com” here after referred to as “[webguru](https://web.archive.org/web/20060618141140id_/http%3A//www.webguru-india.com/about-us.htm)” or “this Web site” or “this site”.
+This legal notice pertains to web site “www.webguru-india.com” here after referred to as “[webguru](https://web.archive.org/web/20061126120022id_/http%3A//webguru-india.com/about-us.htm)” or “this Web site” or “this site”.
 
 **Welcome**
 
@@ -63,19 +63,7 @@ The WebGuru Web site, the information and materials on this Web site, and the so
 2\. All the graphic designs like logo, stationery etc. and websites created by webguru for its clients will be sent to the respective clients only through e-mail or FTP upload.  
 3\. Orders once placed cannot be terminated or transferred 
 
-**Money Back Guarantee**
-
-We are committed to deliver you a satisfactory design.   
-In case you are not satisfied with the design, please let us know during the development procedure. We will refund the advance amount received from you for the project.  
-Refund will not take place:  
-• Once you have taken the delivery of the design.  
-• Once you have approved your design.  
-• If we have begun working on samples approved by you and made more than one changes for you.  
-• For the amount paid by you towards Domain Name Registration and Website Hosting, as these amounts are directly paid to the Hosting companies.  
-• If the company we are designing for closes, changes its name or their activity, or changes the description of the logo.  
-• If we do not hear back from you for more than 30 days. 
-
-**How to Contact Us**
+**How to Contact Us ?**
 
 If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please use "contact us" link on this Web site.
 
