@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the woodweb.com privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626120452id_/http%3A//woodweb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodweb.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126195739id_/http%3A//www.woodweb.com/privacypolicy.html) for the most accurate reproduction.*
 
 # WOODWEB's Privacy Policy
-
-[Return to previous page](http://www.woodweb.com/cgi-bin/page_revision/include_form.pl?action=build_revision_form&filename=privacypolicy)
 
 Your use of the WOODWEB Web Site or Services constitutes your agreement to this privacy policy and consent to the terms herein and in the [User Agreement](https://web.archive.org/useragreement.html). Unless otherwise defined in this privacy policy, the defined terms shall have the meaning set forth in the [User Agreement](https://web.archive.org/useragreement.html).
 
@@ -51,5 +49,3 @@ If you have any questions regarding this privacy policy you can contact WOODWEB 
 **Miscellaneous**
 
 WOODWEB may from time to time change this privacy policy with or without notice, so please check it regularly for any changes or updates. For future reference, WOODWEB will make a link to the current privacy policy available to you on your screen when you are on our Site. Your use of the Site or Services constitutes your agreement to this privacy policy and [User Agreement](https://web.archive.org/useragreement.html) and your assent to any modification thereto.
-
-[Return to previous page](http://www.woodweb.com/cgi-bin/page_revision/include_form.pl?action=build_revision_form&filename=privacypolicy)
