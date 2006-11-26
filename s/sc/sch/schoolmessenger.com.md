@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolmessenger.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072053id_/http%3A//schoolmessenger.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolmessenger.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126185642id_/http%3A//schoolmessenger.com/privacy_policy.html) for the most accurate reproduction.*
 
 # SchoolMessenger -- Empowering educators with parent-notification solutions and services
 
@@ -34,18 +34,4 @@ You may update the information that you provide us through this website by conta
 
 * * *
 
-SchoolMessenger  
-5274 Scotts Valley Drive  
-Scotts Valley, CA 95066  
-Tel: 831-477-0293  
-Fax: 831-477-0211  
-[**www.schoolmessenger.com**](http://www.schoolmessenger.com/)
-
-|  | **Offices**  
----  
-Call 800-477-1940 or email [**sales@schoolmessenger.com**](mailto:sales@schoolmessenger.com) today. For further _[**contact information, Click here**](https://web.archive.org/web/20060615072053id_/http%3A//schoolmessenger.com/contact_us.html)_[ ****](https://web.archive.org/web/20060615072053id_/http%3A//schoolmessenger.com/contact_us.html)  
-**Partners**  
-SchoolMessenger values the relationships it has formed with leading technology companies and education associations. [**Read more** ****](https://web.archive.org/web/20060615072053id_/http%3A//schoolmessenger.com/partners.html)  
-**Urban Success Story**  
-Learn how SchoolMessenger became the standard for parent notification in the nation's largest school system.  
-[**Read more**](https://web.archive.org/web/20060615072053id_/http%3A//schoolmessenger.com/urban_success_story.html)
+| 
