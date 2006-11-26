@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drfuhrman.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203757id_/http%3A//www.drfuhrman.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drfuhrman.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126133423id_/http%3A//www.drfuhrman.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Dr Fuhrman - Eat to Live Program - Normalize Weight, Reverse Disease, Live Healthier and Longer
 
