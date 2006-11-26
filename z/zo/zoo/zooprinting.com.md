@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooprinting.com privacy policy that was archived on 2006-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060516151635id_/http%3A//www.zooprinting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooprinting.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126082901id_/http%3A//www.zooprinting.com/privacy.html) for the most accurate reproduction.*
 
 # Zoo Printing - Full Color Business Cards For $41
 
