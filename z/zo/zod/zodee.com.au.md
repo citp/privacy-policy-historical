@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zodee.com.au privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614010009id_/http%3A//www.zodee.com.au/customer_service/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zodee.com.au privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126100824id_/http%3A//www.zodee.com.au/customer_service/privacy.asp) for the most accurate reproduction.*
 
 # Customer Service - Privacy Policy
 
@@ -24,4 +24,4 @@ Mailing List
 When you join the Zodee® club you are automatically added to our mailing list. If you prefer not to receive updates from Zodee®, you can unsubscribe in the members area of the website.   
 External Links   
 This site contains links to external websites and Zodee® Pty Ltd cannot be held responsible for the Privacy Policies of those sites.   
-See also: [Security](https://web.archive.org/customer_service/security.asp) [Terms & Conditions](https://web.archive.org/customer_service/terms.asp)
+See also: [Security](https://web.archive.org/customer_service/security.asp) [Terms & Conditions](https://web.archive.org/customer_service/terms.asp)
