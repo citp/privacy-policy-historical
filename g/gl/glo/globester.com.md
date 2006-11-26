@@ -1,78 +1,86 @@
-> *The following text is extracted and transformed from the globester.com privacy policy that was archived on 2001-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010306041327id_/http%3A//globester.com/globester/privacystatement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globester.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126040405id_/http%3A//globester.com/globester/pages/usermgmt/privacypol.jsp) for the most accurate reproduction.*
 
-# Privacy Statement
+# Globester Travel-Airline Consolidator for Discount International Airfares, Cheap Flights and Ticket deals to Europe, Africa, Middle-East, Asia, Australia, New Zealand, South America and Central America
 
-**[](http://click.linksynergy.com/fs-bin/stat?id=afyvWyHgWcE&offerid=18170.10000003&type=4&subid=0)
+|   
+  
+Globester's Privacy Policy and YOU
 
-PRIVACY STATEMENT
+Welcome to the Privacy Policy page of the [www.globester.com](http://www.globester.com/) website. We encourage you to read the entire contents as we understand that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of your personal information
 
-**
+As a valued and respected customer of the www.globester.com web site, we recognize the importance of **protecting your personal information** with the highest standards and best practices of organizations doing business on the Internet. We are always conscious of your personal privacy when you transact with us.
 
-This privacy statement discloses the privacy practices for **globester.com** of **GLOBAL INTERNET ASSICIATES** (GIA Enterprises) website.
+This **Privacy Policy** describes the practices that apply to the www.gobester.com web site, including, specifically, the information we collect about you, when and how we collect that information, and what we do with that information. Here are the FACTS: 
 
-**Information Collection and Use  
-**GIA Enterprises is the sole owner of the information collected on this site. We will not sell, share, or rent this informatio to others in ways different from what is disclosed in this statement. GIA Enterprises collects information from our users at several different points on our website.
+  * We will NOT collect personally identifiable information like your name, e-mail and mailing address and telephone number ("Personal Information") without your **knowledge and permission**  
 
-**Registration**  
-In order to use this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but encouraged so we can provide a more personalized experience on our site.
+  * We will allow you to view, correct or remove your Personal Information and other information associated with your registration as a user of our site   
 
-**Order**  
-We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+  * We will take reasonable steps to protect the security of the Personal Information we collect from you. 
 
-**Cookies**  
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+  
+  |   
+So, what Information do we collect? |    
+  |    
+We collect your personal information when you - 
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+  * Become an www.globester.com member 
+  * Complete a traveler profile 
+  * Purchase travel 
+  * Participate in a survey, contest, or sweepstakes 
+  * Contact www.globester.com 
 
-**Log Files**  
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+  
+  |   
+Member information |    
+  
+www.globester.com collects your Member/User ID, password, and e-mail address when you register to become a member of our web site.   
+  
+  |   
+Traveler profile information |    
+  
+www.globester.com collects your full name and contact number when a travel reservation is made. We also collect information about your preferences, including meal requests, seat selection, frequent flyer/hotel/car rental programs and membership numbers, and ticketing options.
 
-**Sharing**  
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
+When someone other than yourself is accompanying you on travel purchased through www.globester.com, we may collect their personal information and travel preferences. You should obtain the consent of other individuals prior to providing www.globester.com with their full names, contact numbers, e-mail addresses, and travel preferences, as they will be unable to directly access our systems to view or change any information you provide on their behalf.  
+  
+  |   
+Travel purchase information  |    
+  
+www.globester.com collects the billing address of the credit card that is used to purchase travel. We will also collect credit card information, including card number, card type, cardholder name, and expiration date, in order to bill you for travel purchased through our secure web site. Please view our Credit Card Guarantee for additional information on www.globester.com's commitment to protecting your credit card security.  
+  
+  |   
+Contests and sweepstakes information  |    
+  
+Occasionally, www.globester.com may offer you and other site visitors an opportunity to participate in a contest or sweepstakes. Information collected by www.globester.com when you participate in a contest or sweepstakes may include your full name, e-mail address, phone number and street address.  
+  
+  |   
+Surveys |    
+  
+www.globester.com may offer you and other site visitors an opportunity to participate in surveys regarding your experience with our site. For our members, we may also send these surveys via e-mail. You are under no obligation to respond to any survey, and you may unsubscribe from receiving these e-mail surveys by following the unsubscribe instructions in any e-mail survey you receive. Information collected by www.globester.com when you participate in a survey may include your full name, e-mail address, phone number and street address.  
+  
+  |   
+Contacting www.globester.com |    
+  
+www.globester.com your full name, Member ID, e-mail address, and/or contact number whenever you submit a question or suggestion, or request assistance with viewing your itinerary, logging on to www.globester.com, or accessing your account.   
+  
+  |   
+Cookies |    
+  
+A cookie is a small file stored on your computer's hard drive, which is used to enhance your visit to www.globester.com and provide you with information tailored to your needs. It stores user preference information, keeps track of a purchase transaction during a session on www.globester.com, and enhances site security. For instance, cookies allow you to visit pages within a site without having to reintroduce yourself. 
 
-These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+You may elect to refuse cookies. Please refer to your browser instructions to learn more about cookie functions. Be advised that, by refusing to accept a cookie, you will not be able to access many travel services and planning tools offered by www.globester.com. 
 
-**Links**  
-This web site contains links to other sites. Please be aware that we GIA Enterprises are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+In addition, when you arrive at or leave the www.globester.com web site, we automatically receive the web address of the site that you came from or are going to. We also collect information on which pages of our web site you visit while you are on the site, the type of browser you use and the times you access our web site. We use this information only to try to understand your preferences better and to manage the load on our servers, so as to improve our service and your experience with www.globester.com. We do not track the web sites that you visit before or after you leave our site.   
+  
+  |   
+Sharing of Personal Information and Disclosure |    
+  
+www.globester.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-**Newsletter**  
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
-
-**Surveys & Contests**  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
-
-**Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. GIA Enterprises will automatically send the friend a one-time email inviting them to visit the site. The friend may contact GIA Enterprises at [unsubscribe@globester.com](mailto:unsubscribe@globester.com) to request the removal of this information from their database.
-
-**Security**  
-This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’.
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers’ information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
-
-**Supplementation of Information**  
-In order for this website to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources.
-
-For example, to determine if our customers qualify for one of our credit cards, we use their name and social security number to request a credit report. Once we determine a user’s credit-worthiness, this document is destroyed. 
-
-(or) 
-
-In order for this website to enhance its ability to tailor the site to an individual’s preference, we combine information about the purchasing habits of users with similar information from our partners, to create a personalized user profile. When a user makes a purchase from any of our partner companies, the companies collect and share that purchase information with us so we can tailor the site to our users’ preferences. 
-
-**Special Offers**  
-Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. 
-
-**Site and Service Updates**  
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
-
-**Correction/Updating Personal Information:**  
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, the user can email our Customer Support at [support@globester.com](mailto:support@globester.com) and we will correct, update or remove that user’s personal data provided to us.
-
-**Choice/Opt-out**  
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists. 
-
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [support@globester.com](mailto:support@globester.com). Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
-
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
-
-[](http://click.linksynergy.com/fs-bin/click?id=afyvWyHgWcE&offerid=13772.10000027&type=4&subid=0)
+[www.globester.com ](http://www.globester.com/) only discloses your Personal Information to those travel providers that you decide to make arrangements with through our site. For example, when you purchase an airline ticket or book a hotel room or reserve a car, we will provide the airline, hotel or car rental agency, as the case may be, with the Personal Information needed to process your transaction. We use our reasonable efforts to ensure that these travel providers will also protect your Personal Information. We contract with other companies to perform various functions necessary to operate our business - for example, to deliver tickets, ship items and process credit cards. We will share with these other companies only that Personal Information they require to fulfill your orders. These companies agree that they will not use or disclose that Personal Information for any other purpose.  
+  
+  |   
+  
+* Over time, this policy can and will be revised as new features are added to the [www.globester.com ](http://www.globester.com/) web site and/or as we incorporate your valued suggestions and feedback. Thank you and have a SAFE journey!!   
+  
+  | 
