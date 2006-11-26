@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinnacle.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615095404id_/http%3A//pinnacle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnacle.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126023958id_/http%3A//pinnacle.com/privacy) for the most accurate reproduction.*
 
 # PDSi | Privacy Policy
 
@@ -54,7 +54,7 @@ The PDSi Web site contains links to other Web sites. PDSi is not responsible for
 
 We can help you determine what your needs are based on your specific situation. Contact us and we’ll discuss all of our options and how they can help your company.
 
- [Get started today!](https://web.archive.org/web/20060615095404id_/http://www.pinnacle.com/requestinfo/ "Find a service.")
+ [Get started today!](https://web.archive.org/web/20061126023958id_/http://www.pinnacle.com/requestinfo/ "Find a service.")
 
 ### PDSi is committed to compliance with the RoHS Directive (DIRECTIVE 2002/95/EC) from the European Union (EU). 
 
@@ -70,4 +70,4 @@ Specializing in high-density embedded-computing platforms, PDSi has a proven tra
 
 The goal of PDSi’s product lifecycle services is to integrate the design, manufacturing, production and support functions into a seamless and cohesive process.
 
- [Learn more](https://web.archive.org/web/20060615095404id_/http://www.pinnacle.com/services/lifecycle/ "Find a service.")
+ [Learn more](https://web.archive.org/web/20061126023958id_/http://www.pinnacle.com/services/lifecycle/ "Find a service.")
