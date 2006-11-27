@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the tallemu.com privacy policy that was archived on 2006-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060116144908id_/http%3A//www.tallemu.com/index.php%3Farea%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tallemu.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127054817id_/http%3A//www.tallemu.com/Privacy-Policy.php) for the most accurate reproduction.*
 
-# Online-Armor
+# Online Armor - Privacy Policy
 
 Tall Emu Pty Ltd Privacy Policy 
-
-* * *
 
 **1  May 2005 **
 
@@ -12,14 +10,14 @@ What information do we store and Why?
 
 We store as little information as necessary to provide you with the services you receive from us. 
 
-**Billing and Account Management** **  
-** We store your name, telephone number and address and email details for billing and account management purposes. 
+**Billing and Account Management**  
+We store your name, telephone number and address and email details for billing and account management purposes. 
 
-Piracy protection **  
-** When you install Online Armor we take a non-identifiable fingerprint of your hardware. This is used soley to ensure you do not install Online Armor on more machines than your licence key permits. 
+**Piracy protection**  
+When you install Online Armor we take a non-identifiable fingerprint of your hardware. This is used soley to ensure you do not install Online Armor on more machines than your licence key permits. 
 
-**Website  
-**Our website and forums may use session cookies to enhance your browsing experience. These are not stored persistently, unless you request that the forum remembers your username and password. Session cookies and forum cookies are in no way linked with any other information we hold.  To prevent idiots from filling our forums full of nonsense, our forum software logs IP addresses.  These also don't identify you and aren't linked with anything outside of the forum system. 
+**Website**  
+Our website and forums may use session cookies to enhance your browsing experience. These are not stored persistently, unless you request that the forum remembers your username and password. Session cookies and forum cookies are in no way linked with any other information we hold.  To prevent idiots from filling our forums full of nonsense, our forum software logs IP addresses.  These also don't identify you and aren't linked with anything outside of the forum system. 
 
 **What do we do with this information?**  
 We use information you provide as described above only. If you opt to allow anonymous information regarding the programs you block or trust to be shared with us, we store the following piece of information: 
@@ -44,4 +42,4 @@ Your name name, telephone number and address and email details are stored in a 
 **How do we communicate with you?**  
 We will communicate with you via email. It will be for the purpose of service announcements and/or billing reminders only.  We also communicate with our customers in the public forums. 
 
-For more information Please [contact us](https://web.archive.org/web/20060116144908id_/http%3A//www.tallemu.com/index.php?area=contact_us)
+For more information Please [contact us ](https://web.archive.org/web/20061127054817id_/http%3A//www.tallemu.com/Contact-Us.php)
