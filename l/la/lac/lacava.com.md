@@ -1,6 +1,65 @@
-> *The following text is extracted and transformed from the lacava.com privacy policy that was archived on 2006-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060105142553id_/http%3A//www.lacava.com/HTML/Privacy%2520statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacava.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/HTML/Privacy%2520statement.htm) for the most accurate reproduction.*
 
 # Lacavadesign.com
+
+**1.888.522.2823 **  
+
+
+| 
+
+* * *  
+  
+---  
+  
+[HOME PAGE](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/index.htm)  
+  
+* * *  
+  
+[COLLECTIONS](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/product%20collections.htm)  
+  
+* * *  
+  
+[ONLINE LITERATURE,  
+SERVICE PARTS  
+DISCONTINUED PRODUCTS](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/HTML/online.htm)  
+  
+* * *  
+  
+[INQUIRIES](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/HTML/questionnaire.htm)  
+  
+* * *  
+  
+[LACAVA PROFILE](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/HTML/about%20lacava.htm)  
+  
+* * *  
+  
+[CONTACT INFO](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/HTML/contacts.htm)  
+  
+* * *  
+  
+[TERMS AND CONDITIONS](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/HTML/terms%20and%20conditions%20.htm)  
+  
+* * *  
+  
+[LACAVA BUSINESS ETHICS](https://web.archive.org/web/20061127230902id_/http%3A//www.lacavadesign.com/HTML/Business%20ethics.htm)  
+  
+* * *  
+  
+[SHOW ORDER DETAILS](http://order.store.yahoo.com/cgi-bin/wg-order?yhst-53061245039550)  
+  
+* * *  
+  
+LACAVA  
+BATHROOM DESIGN
+
+LACAVA  
+BATHROOM DESIGN
+
+LACAVA  
+BATHROOM DESIGN
+
+LACAVA  
+BATHROOM DESIGN
 
 ** Lacava LLC Privacy Statement  
 **Updated: April 22, 2005 
