@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201303id_/http%3A//www.motherjones.com/about/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127080443id_/http%3A//www.motherjones.com/about/admin/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
-
-[](https://secure.ga3.org/03/donate_now)
-
-* * *
-
-* * *
-
-* * *
-
-| 
 
   
 
@@ -69,27 +59,20 @@ Please note that this does not apply to e-mail addresses collected in our discus
 
 If you believe our site is not adhering to the privacy policy outlined above, please contact us at the above address, phone number, or e-mail address. 
 
-  
+[ Good Books, Bad Coffee ](http://www.goodbooksbadcoffee.com/NASApp/store/IndexJsp?lid=ad_20061122_goodbooks)   
+A quirky and fiercely independent bookstore – a thoughtful oasis in the heart of the reddest state of the union. 
 
+[ Donate Today! ](https://secure.ga3.org/03/donate_now?lid=ad_20061122_donate)   
+Mother Jones reporting stays independent because of contributions from people like you. 
 
-\----Advertisement----
+[ New York Times Home Delivery ](http://ad.doubleclick.net/clk;57403522;14801818;c?http://homedelivery.nytimes.com/HDS/SubscriptionAcquisition.do?mode=SubscriptionAcquisition&ExternalMediaCode=W15HA)   
+Stay informed with home delivery of the NY Times. Read acclaimed articles daily, for as low as $3.15/week. 
 
-[ Freedom and Responsibility ](http://www.n4bz.org/freedom.htm?lid=ad_20060614_freedom)   
-Do you understand the awesome trust that evolution placed on the shoulders of man the moment it made man free? LOOK 
+[ Jail.org Inmate Search ](http://jail.org/?lid=ad_20061122_jail)   
+Criminal records, instant public records & people search & current court records. www.jail.org 
 
-[ Peter White Cycle ](http://www.peterwhitecycles.com/?lid=ad_20060614_peterwhite)   
-Bicycles aren't toys. With our bright, safe, no-battery bicycle lights, fenders, racks, bags and clothing, you may not need a car. 
+[ Subscribe Now! ](https://www.kable.com/pub/mrjs/subAllCusT01.asp?laf=SEVX1&lid=ad_20061122_subscribe)   
+Don't lose sight of the facts. Every issue of Mother Jones is loaded with hard-hitting reporting you can't afford to miss. 
 
-[ Progressive Poll: Win an iPod! ](http://alternet.org/voteprogressive?lid=ad_20060614_alternet)   
-AlterNet needs your vote for Best Progressive Website & Best Progressive Pundit! Enter to win $500 cash or an iPod! 
-
-[ Vanguard Fiction! ](http://www.starchiefpress.com/?lid=ad_20060614_starchief)   
-CASTLING "The Story of the Power of Hemp" TIMING "9-11 Truth and Chief Joseph's Return" 
-
-[ Alonovo.com ](http://www.motherjones.com/cgi-bin/alonovo.pl?lid=ad_20060615_alonovo)   
-Tired of Neocon Businesses Ruining Society? Lets stop supporting them with our purchases - visit alonovo.com. 
-
-[ DIAMONDS WITH A CONSCIENCE ](http://securityjewelers.com/canadia.html?lid=ad_20060614_diamonds)   
-100% NATURAL DIAMONDS MINED CUT AND POLISHED IN CANADAS NORTHWEST TERITORY. 1 800 251 2222 
-
-\----Advertisement----
+[ False-Flag Terror ](http://www.starchiefpress.com/?lid=ad_20061122_starchief)   
+It remains the warmonger darling. "Remember the Maine!" Tonkin...Northwoods to 9-11, to...? Experience Rand Clifford's latest novel, TIMING. 
