@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perpetuumsoft.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619064534id_/http%3A//www.perpetuumsoft.com/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perpetuumsoft.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127112403id_/http%3A//www.perpetuumsoft.com/Privacy.aspx%3Flang%3Den) for the most accurate reproduction.*
 
 # Perpetuum Software LLC, Analytical data processing and visualization components for .NET and ASP.NET
 
