@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trivita.com privacy policy that was archived on 2006-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060511213913id_/http%3A//www.trivita.com/2006/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trivita.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127024455id_/http%3A//www.trivita.com/2006/privacy.aspx) for the most accurate reproduction.*
 
-# TriVita | The Healthy Living Company
+# TriVita - Privacy
 
 _Last Revised on October 26, 2005._
 
@@ -25,6 +25,8 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 If you reject all cookies, you will not be able to use TriVita services that require you to "log on," and you may not be able to take full advantage of all offerings. However, there may be some TriVita products and services that do not require that you accept cookies. 
 
 **TriVita uses its own cookies for a number of purposes, including to:**
+
+| 
 
 |  Access your information when you "log on," so that we can provide you with customized content in certain online areas;  
 ---|---  
