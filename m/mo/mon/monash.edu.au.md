@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monash.edu.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210742id_/http%3A//monash.edu.au/legals/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monash.edu.au privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128001712id_/http%3A//monash.edu.au/legals/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement (Monash University)
 
