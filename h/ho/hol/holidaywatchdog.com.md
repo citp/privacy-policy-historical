@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaywatchdog.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619185412id_/http%3A//www.holidaywatchdog.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaywatchdog.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127214010id_/http%3A//www.holidaywatchdog.com/Privacy.html) for the most accurate reproduction.*
 
 # Holiday Watchdog - Privacy Statement
 
