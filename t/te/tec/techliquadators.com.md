@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techliquadators.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615075402id_/http%3A//www.bestbuy.com/site/olspage.jsp%3Fid%3Dcat12098%26entryURLType%3D%26categoryId%3Dcat10011%26type%3Dpage%26entryURLID%3D%26contentId%3D1043363533588) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techliquadators.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127075318id_/http%3A//www.bestbuy.com/site/olspage.jsp%3Fid%3Dcat12098%26entryURLType%3D%26categoryId%3Dcat10011%26type%3Dpage%26entryURLID%3D%26contentId%3D1043363533588) for the most accurate reproduction.*
 
 # BestBuy.com Help: <Topic>
 
@@ -56,9 +56,6 @@ Minneapolis, MN 55440
   
 ---|---  
   
-Privacy Policy  
-
-
   
 
 
