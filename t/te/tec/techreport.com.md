@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619211751id_/http%3A//www.techreport.com/page.x%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techreport.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127133359id_/http%3A//techreport.com/page.x%3Fpg%3Dprivacypolicy) for the most accurate reproduction.*
 
 # The Tech Report
 
@@ -6,19 +6,19 @@
 
 [](https://web.archive.org/reviews/)
 
-[Computex 2006](https://web.archive.org/etc/2006q2/computex/index.x?pg=1)  
+[Corsair's Dominator memory modules](https://web.archive.org/reviews/2006q4/corsair-dominator/index.x?pg=1)  
   
-[Western Digital's Raptor WD1500ADFD hard drive](https://web.archive.org/reviews/2006q2/raptor-wd1500/index.x?pg=1)  
+[A first look at Intel's quad-core Xeon processors](https://web.archive.org/etc/2006q4/clovertown/index.x?pg=1)  
   
-[GeForce 7600 cards go head to head](https://web.archive.org/reviews/2006q2/geforce-7600s/index.x?pg=1)  
+[Valve's Source engine goes multi-core](https://web.archive.org/etc/2006q4/source-multicore/index.x?pg=1)  
   
-[NVIDIA's GeForce 7950 GX2 graphics card](https://web.archive.org/reviews/2006q2/geforce-7950-gx2/index.x?pg=1)  
+[Nvidia's GeForce 8800 graphics processor](https://web.archive.org/reviews/2006q4/geforce-8800/index.x?pg=1)  
   
-[AMD's Socket AM2 processors](https://web.archive.org/reviews/2006q2/socket-am2/index.x?pg=1)  
+[Nvidia's nForce 680i SLI chipset](https://web.archive.org/reviews/2006q4/nforce680i/index.x?pg=1)  
   
-[Seagate's Barracuda 7200.10 hard drive](https://web.archive.org/reviews/2006q2/barracuda-7200.10/index.x?pg=1)  
+[Exploring EAX with onboard audio](https://web.archive.org/etc/2006q4/onboard-eax/index.x?pg=1)  
   
-[GeForce 7900 series graphics cards compared](https://web.archive.org/reviews/2006q2/geforce-7900s/index.x?pg=1)  
+[Intel's Core 2 Extreme QX6700 processor](https://web.archive.org/reviews/2006q4/core2-qx6700/index.x?pg=1)  
   
 **[More...](https://web.archive.org/reviews/)** | 
 
@@ -65,18 +65,18 @@ damage@techreport.com
 
 | 
 
-[Friday night topic: Colonizing space?](https://web.archive.org/redir_comments.x?id=10194)  
+[Can the PC compete in the living room?](https://web.archive.org/redir_comments.x?id=11314)  
   
-[We could use a Conroe](https://web.archive.org/redir_comments.x?id=10184)  
+[Saturday science subject: ITER agreement signed](https://web.archive.org/redir_comments.x?id=11317)  
   
-[Vista Premium requirements to steepen by June '07](https://web.archive.org/redir_comments.x?id=10177)  
+[Apple to include Blu-ray drives in future Macs?](https://web.archive.org/redir_comments.x?id=11308)  
   
-[Poll: How far have you overclocked your CPU?](https://web.archive.org/redir_comments.x?id=10182)  
+[AMD congratulates Nintendo on Wii](https://web.archive.org/redir_comments.x?id=11301)  
   
-[Computex 2006](https://web.archive.org/redir_comments.x?id=10189)  
+[Ageia makes PhysX SDK freely available](https://web.archive.org/redir_comments.x?id=11309)  
   
-[NVIDIA faces AGP, inventory hurdles](https://web.archive.org/redir_comments.x?id=10160)  
+[Office 2007 to cripple itself if activation fails](https://web.archive.org/redir_comments.x?id=11291)  
   
-[Analyst says Intel shares are 'dead money'](https://web.archive.org/redir_comments.x?id=10159)  
+[OCZ introduces water-cooled memory](https://web.archive.org/redir_comments.x?id=11296)  
   
 **[More...](https://web.archive.org/)**
