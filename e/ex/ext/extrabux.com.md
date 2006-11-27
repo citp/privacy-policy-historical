@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extrabux.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616144431id_/http%3A//www.extrabux.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extrabux.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127225940id_/http%3A//www.extrabux.com/privacy) for the most accurate reproduction.*
 
 # Extrabux
 
