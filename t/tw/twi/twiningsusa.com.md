@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twiningsusa.com privacy policy that was archived on 2006-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060430142934id_/http%3A//www.twiningsusa.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiningsusa.com privacy policy that was archived on 2006-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061127224025id_/http%3A//www.twiningsusa.com/Privacy.php) for the most accurate reproduction.*
 
 # Celebrating 300 years of tradition and taste | TwiningsUSA.com
 
