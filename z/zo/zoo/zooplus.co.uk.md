@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2006-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060405211613id_/http%3A//www.zooplus.co.uk/web/content/content.jsp%3Fkey%3DEN.PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128154205id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Welcome to zooplus.co.uk
 
@@ -33,4 +33,4 @@ During your shopping session at zooplus we transfer a permanent cookie onto your
 Cookies can be activated via the help function of most Web browsers. For detailed information please click here. 
 
 **The zooplus guarantee**  
-All zooplus products are covered by a 2-year guarantee. 
+All zooplus products are covered by a 2-year warranty. 
