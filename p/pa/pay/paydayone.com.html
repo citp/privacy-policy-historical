@@ -1,0 +1,638 @@
+<!--The following is the downloaded HTML source of the paydayone.com privacy policy that was archived on 2006-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061128062041id_/http%3A//www.paydayone.com/modules/privacypolicy/default.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- BEGIN: HEAD --><head id="ctl00_htmlHead"><title>
+	Privacy Policy | PayDay One | The Smarter Cash Advance
+</title><link id="ctl00_metaCssFile" href="../../assets/styles/base.css" rel="stylesheet" type="text/css">
+
+
+
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+   //'if (true){
+   if(false){
+        window.name = "main";
+        MM_openBrWindow('http://www.paydayone.com/bankholidaypop.asp','pop','scrollbars=yes,resizable=yes,width=400,height=350');
+    }
+//-->
+</script>
+
+
+
+
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+
+window.name = "main";
+/* Open Calander web control page to choose dates*/
+function OpenCalendar(path,field,form,olddate,Post)
+// - Path = Relative path to the Calendar.aspx page from page calling calendar
+// - Field = Name of input type field where date is to be populated from calendar 
+// - Form = Name of form on calling page that contains the input type field
+// - OldDate = Date that was in input type field when calendar link button was clicked
+// - Post = (0 = Do not automatically post page back, 1 = Automatically post page back)  User 0 if you do not want page to post back. For instance if user is to choose a date range & must populate two or more date fields before requesting results.
+{
+	window.open(path + '/Calendar.aspx?fieldname=' + field + '&formname=' + form + '&date=' + olddate + '&Postback=' + Post,'','width=220,height=230,left=200,top=250,resizable');
+}
+
+var isNN = (navigator.appName.indexOf("Netscape")!=-1);
+function autoTab2(input,len, e) {
+	var keyCode = (isNN) ? e.which : e.keyCode; 
+	var filter = (isNN) ? [0,8,9] : [0,8,9,16,17,18,37,38,39,40,46];
+	if (input.value.length >= len && !containsElement(filter,keyCode)) {
+		input.value = input.value.slice(0, len);
+		input.form[(getIndex(input)+1) % input.form.length].focus();
+	}
+	function containsElement(arr, ele) {
+		var found = false, index = 0;
+		while (!found && index < arr.length)
+			if (arr[index] == ele)
+				found = true;
+			else
+				index++;
+		return found;
+	}
+	function getIndex(input) {
+		var index = -1, i = 0, found = false;
+		while (i < input.form.length && index == -1)
+			if (input.form[i] == input) 
+				index = i;
+			else 
+				i++;
+		return index;
+	}
+	return true;
+}
+
+function CookiesEnabledCheck2(pageName) {
+	//alert(navigator.appName);
+	//alert(navigator.cookieEnabled);
+	if (navigator.appName == 'Netscape') {
+		if (parseInt(navigator.appVersion) > 4) {
+			if (!navigator.cookieEnabled) {
+				location.href = '../../CookiesDisabled.aspx?Browser=Netscape&PrevPage=' + pageName;
+			}
+		}
+	}
+	else if (navigator.appName == 'Microsoft Internet Explorer') {	
+		if (!navigator.cookieEnabled) {
+			location.href = '../../CookiesDisabled.aspx?Browser=IE&PrevPage=' + pageName;
+		}
+	}
+	else if (navigator.cookieEnabled != undefined) {
+		if (!navigator.cookieEnabled) {
+			location.href = '../../CookiesDisabled.aspx?Browser=' + navigator.appName + '&PrevPage=' + pageName;
+		}
+	}
+	return true;
+}
+
+//-->
+</script>
+
+
+<meta name="keywords" content="Privacy Policy, PayDay One, The Smarter Cash Advance, privacy, policy, payday, smart, cash advance, cash, advance, customer information, customer, information"><meta name="description" content="At PayDay One your privacy is important to us. This Privacy Policy describes the information we collect and how we use that information and applies if you have applied for service with PayDay One, or if you are a current or former customer."><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="title" content="Privacy Policy | PayDay One | The Smarter Cash Advance"><style type="text/css">
+	.atlas__delta { font-family:Lucida Console; }
+
+</style></head>
+<!-- END: HEAD -->
+
+<!-- BEGIN: BODY-->
+<body onload="MM_preloadImages('http://www.paydayone.com/assets/images/home_over.gif',
+                            'http://www.paydayone.com/assets/images/how_it_works_over.gif',
+                            'http://www.paydayone.com/assets/images/my_account_over.gif',
+                            'http://www.paydayone.com/assets/images/privacy_over.gif',
+                            'http://www.paydayone.com/assets/images/faqs_over.gif',
+                            'http://www.paydayone.com/assets/images/returning_user_log_in_over.gif',
+                            'http://www.paydayone.com/assets/images/new_customer_sign_up_over.gif',
+                            'http://www.paydayone.com/assets/images/contact_us_over.gif',
+                            'http://www.paydayone.com/assets/images/help_over.gif')">
+
+    
+
+    <form name="aspnetForm" method="post" action="default.aspx" id="aspnetForm">
+<input type="hidden" name="ticket" id="ticket" value="633002736409219267">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRk56lfFmpqrDexqo2womudLrZioWU=">
+
+
+<script src="/WebResource.axd?d=harq8E7lPXePGsfn_SvuQK9oAXAyrcAGbZMsnkQYczunL5xe_h6tCfiJ_MChd8crUVk7KvLuhILiBb_cteAF7EoCQkVAAnIcERwUyyqOpWJf63X3F5_PB5vmwpzJplBX0&amp;t=632875313480000000" type="text/javascript"></script>
+<script src="/WebResource.axd?d=harq8E7lPXePGsfn_SvuQK9oAXAyrcAGbZMsnkQYczunL5xe_h6tCfiJ_MChd8crUVk7KvLuhILiBb_cteAF7LR9nGdiE3n8HkVX3n9hsNs1&amp;t=632875313480000000" type="text/javascript"></script>    
+    
+    <div>
+    
+        <!-- BEGIN: PAGE PERIMETER TABLE -->
+        <table align="center" cellpadding="0" cellspacing="0" id="container">
+        
+            <!-- BEGIN: MASTER PAGES DEVELOPER ROW - REMOVE BEFORE TEST OR RELEASE -->
+            
+            <!-- END: MASTER PAGES DEVELOPER ROW - REMOVE BEFORE TEST OR RELEASE -->
+
+            <!-- BEGIN: PRIMARY PAGE ROW -->
+            <tbody><tr>
+            
+                <!-- BEGIN: LEFT (NAVIGATION) COLUMN -->
+                <td valign="top" id="lcol">
+                
+                    <!-- BEGIN: UPPER LEFT LOGO CONTENT PLACE HOLDER -->
+                    
+                    
+                        <!-- BEGIN: DEFAULT CONTENT -->
+                        
+
+
+
+<!-- BEGIN: HEADER LOGO -->
+<a href="../../default.aspx" id="ctl00_UpperLeftLogoContentPlaceHolder_ctlHeaderLogo_HomePageHyperlink">
+    <img id="ctl00_UpperLeftLogoContentPlaceHolder_ctlHeaderLogo_imgDefPageLogoNav" src="../../assets/images/PayDay_One_Logo.gif" alt="PayDay One - The Smarter Cash Advance" border="0" height="131" width="205">
+</a>
+<!-- END: HEADER LOGO -->
+
+
+
+                        <!-- END: DEFAULT CONTENT -->
+                        
+                    
+                    <!-- END: UPPER LEFT LOGO CONTENT PLACE HOLDER -->
+                    
+                    <!-- BEGIN: LEFT COLUMN CONTENT PLACE HOLDER -->
+                    
+                    
+                        <!-- BEGIN: DEFAULT CONTENT -->
+                        
+                        
+                        
+
+
+
+<!-- BEGIN: CUSTOMER SIGNON NAVIGATION BAR -->
+
+<a href="http://www.paydayone.com/modules/registration/default.aspx" onmouseover="MM_swapImage('new_customer','','http://www.paydayone.com/assets/images/new_customer_sign_up_over.gif',1)" onmouseout="MM_swapImgRestore()">    
+    <img src="../../assets/images/new_customer_sign_up.gif" id="ctl00_LeftColumnContentPlaceHolder_ctlSignonNavigationBar_new_customer" name="new_customer" alt="New Customer Sign Up" width="205" height="39" border="0" title="New Customer Sign Up">
+</a>
+
+<a href="http://www.paydayone.com/modules/login/default.aspx" onmouseover="MM_swapImage('returning_user','','http://www.paydayone.com/assets/images/returning_user_log_in_over.gif',1)" onmouseout="MM_swapImgRestore()">    
+    <img src="../../assets/images/returning_user_log_in.gif" id="ctl00_LeftColumnContentPlaceHolder_ctlSignonNavigationBar_returning_user" name="returning_user" alt="Returning User Log In" width="205" height="39" border="0" title="Returning User Log In">
+</a>
+
+<!-- END: CUSTOMER SIGNON NAVIGATION BAR -->
+
+
+
+                        
+                        
+                        
+                        
+
+
+
+<!-- BEGIN: COLUMN NAVIGATION TABLE -->
+<table border="0" cellspacing="0" cellpadding="0" id="snav">
+<tbody><tr><td class="nav" id=""><img src="http://www.paydayone.com/assets/images/arrow.gif" width="7" height="8" border="0">&nbsp;<a href="http://www.paydayone.com/modules/state/states.aspx" class="link_nav">Loan Cost and Terms</a>
+</td></tr><tr><td class="divider"></td></tr>
+<tr><td class="nav" id=""><img src="http://www.paydayone.com/assets/images/arrow.gif" width="7" height="8" border="0">&nbsp;<a href="http://www.paydayone.com/24_7_fax_free.aspx" class="link_nav">Why is FaxFree Important</a>
+</td></tr><tr><td class="divider"></td></tr>
+<tr><td class="nav" id=""><img src="http://www.paydayone.com/assets/images/arrow.gif" width="7" height="8" border="0">&nbsp;<a href="http://www.paydayone.com/referral.aspx" class="link_nav">$10 Referral Bonus</a>
+</td></tr><tr><td class="divider"></td></tr>
+<tr><td class="nav" id=""><img src="http://www.paydayone.com/assets/images/arrow.gif" width="7" height="8" border="0">&nbsp;<a href="http://www.paydayone.com/what_is_payday_loan.aspx" class="link_nav">What is a Payday Loan</a>
+</td></tr><tr><td class="divider"></td></tr>
+<tr><td class="nav" id=""><img src="http://www.paydayone.com/assets/images/arrow.gif" width="7" height="8" border="0">&nbsp;<a href="http://www.paydayone.com/testimonials.aspx" class="link_nav">Testimonials</a>
+</td></tr><tr><td class="divider"></td></tr>
+<tr><td class="nav" id=""><img src="http://www.paydayone.com/assets/images/arrow.gif" width="7" height="8" border="0">&nbsp;<a href="http://www.paydayone.com/12steps.aspx" class="link_nav">12-Steps Out of Debt</a>
+</td></tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr><td><br><br></td></tr>
+<tr><td colspan="2" align="center"><a href="http://www.paydayone.com\funding.aspx"><img src="http://www.paydayone.com/assets/images/bankholiday_11232006_100x72.gif" border="0"></a></td></tr>
+</tbody></table>
+<!-- END: COLUMN NAVIGATION TABLE -->
+
+
+
+                        
+                                            
+                        
+                        
+
+
+
+<!-- BEGIN: FUNDING INFORMATION -->
+
+<!-- END: FUNDING INFORMATION -->
+
+
+
+                        
+                        
+                        <!-- END: DEFAULT CONTENT -->
+                        
+                    
+                    <!-- END: LEFT COLUMN CONTENT PLACE HOLDER -->
+
+                    <!-- BEGIN: LEFT COLUMN BOTTOM CONTENT PLACE HOLDER -->
+                    
+                        <!-- BEGIN: DEFAULT CONTENT -->
+                        <!-- NOTHING HERE -->                        
+                        <!-- END: DEFAULT CONTENT -->
+                    
+                    <!-- END: LEFT COLUMN BOTTOM CONTENT PLACE HOLDER -->
+                <!--BEGIN ROI TRACKING Code-->
+<script language="javascript" src="https://track.roiservice.com/track/track.aspx?ROIID=939492107949225"></script>
+<script language="javascript">
+
+	if (typeof(ROIID) + '' != 'undefined') {
+		TrackEvent('paydayoneHome', 0);
+	}
+</script>
+<!--END ROI TRACKING Code-->                
+
+
+<!-- Tag for Activity Group: general, Activity: SecureGenericLandingPage -->
+
+<!-- Start of DoubleClick Spotlight Tag: Please do not remove-->
+<!-- Activity Name for this tag is:SecureGenericLandingPage -->
+<!-- Web site URL where tag should be placed: http://www.paydayok.com -->
+<!-- Creation Date:10/6/2006 -->
+<script language="JavaScript">
+var axel = Math.random()+"";
+var a = axel * 10000000000000;
+document.write('<IMG SRC="https://ad.doubleclick.net/activity;src=1304694;type=gener944;cat=secur850;ord='+ a + '?" WIDTH=1 HEIGHT=1 BORDER=0>');
+</script><img src="https://ad.doubleclick.net/activity;src=1304694;type=gener944;cat=secur850;ord=5848331253159.939?" width="1" height="1" border="0">
+<noscript>
+<IMG SRC="https://ad.doubleclick.net/activity;src=1304694;type=gener944;cat=secur850;ord=1?" WIDTH=1 HEIGHT=1 BORDER=0>
+</noscript>
+<!-- End of DoubleClick Spotlight Tag: Please do not remove-->
+
+
+
+                </td>
+                <!-- END: LEFT COLUMN -->
+                
+                <!-- BEGIN: RIGHT (PRIMARY) COLUMN -->
+                <td valign="top" id="rcol">
+
+                    <!-- BEGIN: HEADING NAVIGATION CONTENT PLACE HOLDER -->
+                    
+                    
+                        <!-- BEGIN: DEFAULT CONTENT: HEADING NAVIGATION TABLE -->
+                        
+
+<!-- BEGIN: HEADING NAVIGATION TABLE -->
+<table width="1%" border="0" cellpadding="0" cellspacing="0" id="pnav"> 
+    <tbody><tr>        
+        <!-- BEGIN: HOME TAB -->
+        <td><a href="../../default.aspx" id="ctl00_HeadingNavigationContentPlaceHolder_ctlHeaderNavBar_HomeHyperLink">
+                <img src="../../assets/images/home.gif" id="ctl00_HeadingNavigationContentPlaceHolder_ctlHeaderNavBar_home" name="home" alt="Home" width="47" height="20" border="0" vspace="0" title="Return to the home page..."></a></td>
+        <!-- END: HOME TAB -->
+        
+        <!-- BEGIN: HOW IT WORKS TAB -->
+        <td><a href="../howitworks/default.aspx" id="ctl00_HeadingNavigationContentPlaceHolder_ctlHeaderNavBar_HowItWorksHyperLink"><img src="../../assets/images/how_it_works.gif" id="ctl00_HeadingNavigationContentPlaceHolder_ctlHeaderNavBar_how_it_works" name="how_it_works" alt="How It Works" width="84" height="20" border="0" vspace="0" title="Learn how our payday loans save you money."></a></td>
+        <!-- END: HOW IT WORKS TAB -->
+
+        <!-- BEGIN: MY ACCOUNT TAB -->
+        <td><a href="../myaccount/default.aspx" id="ctl00_HeadingNavigationContentPlaceHolder_ctlHeaderNavBar_MyAccountHyperLink"><img src="../../assets/images/my_account.gif" id="ctl00_HeadingNavigationContentPlaceHolder_ctlHeaderNavBar_my_account" name="my_account" alt="My Account" width="78" height="20" border="0" vspace="0" title="Access your payday loan account here."></a></td>
+        <!-- END: MY ACCOUNT TAB -->
+
+        <!-- BEGIN: PRIVACY POLICY TAB -->
+        <td><a href="default.aspx" id="ctl00_HeadingNavigationContentPlaceHolder_ctlHeaderNavBar_PrivacyHyperLink"><img src="../../assets/images/privacy.gif" id="ctl00_HeadingNavigationContentPlaceHolder_ctlHeaderNavBar_privacy" name="privacy" alt="Privacy Policy" width="84" height="20" border="0" vspace="0" title="Peruse our disclosures and privacy statements about our payday loans."></a></td>
+        <!-- END: PRIVACY POLICY TAB -->
+
+        <!-- BEGIN: HELP TAB -->
+        <td><a href="../faq/default.aspx" id="ctl00_HeadingNavigationContentPlaceHolder_ctlHeaderNavBar_FaqHyperLink"><img src="../../assets/images/help.gif" id="ctl00_HeadingNavigationContentPlaceHolder_ctlHeaderNavBar_help" name="help" alt="Help" width="39" height="20" border="0" vspace="0" title="Need help with our payday loan system? Get it here."></a></td>
+        <!-- END: HELP TAB -->
+        
+        <!-- BEGIN: SECURITY TAB -->
+        <td><a href="../../security.aspx" id="ctl00_HeadingNavigationContentPlaceHolder_ctlHeaderNavBar_SecurityHyperLink"><img src="../../assets/images/security.gif" id="ctl00_HeadingNavigationContentPlaceHolder_ctlHeaderNavBar_security" name="security" alt="Security" width="59" height="20" border="0" vspace="0" title="Security"></a></td>
+        <!-- END: SECURITY TAB -->
+
+        <!-- BEGIN: CONTACT TAB -->
+        <td><a href="../../contactus.aspx?from=/modules/privacypolicy/default.aspx" id="ctl00_HeadingNavigationContentPlaceHolder_ctlHeaderNavBar_ContactHyperLink"><img src="../../assets/images/contact_us.gif" id="ctl00_HeadingNavigationContentPlaceHolder_ctlHeaderNavBar_contactus" name="contactus" alt="Contact Us" width="100" height="20" border="0" vspace="0" title="We are here for you."></a></td>
+        <!-- END: CONTACT TAB -->
+
+    </tr>
+</tbody></table>
+
+<!-- BEGIN: WEBTRENDS TRACKING -->
+<script language="javascript" type="text/javascript" src="http://www.paydayone.com/assets/scripts/webtrend.js">
+</script>
+<noscript>
+<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsg97x2310000sxksf6644dw_5y8t/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.0">
+</noscript>
+<!-- END: WEBTRENDS TRACKING -->
+
+<!-- END: HEADING NAVIGATION TABLE -->
+
+
+                        <!-- END: DEFAULT CONTENT: HEADING NAVIGATION TABLE -->
+                        
+                    
+                    <!-- END: HEADING NAVIGATION CONTENT PLACE HOLDER -->
+
+                    <!-- BEGIN: HEADING BANNER IMAGE TABLE -->
+                    <table border="0" cellspacing="0" cellpadding="0" id="tblHeaderBannerImage">
+                        <tbody><tr>
+                            <td id="content">
+
+                                <!-- BEGIN: HEADING BANNER CONTENT -->
+                                
+
+                                    
+                                    <!-- BEGIN: DEFAULT CONTENT-->
+                                        <a id="ctl00_HeaderBannerContentPlaceHolder_AdRotator1" target="_top"><img src="/assets/banners/michellemarketing.jpg" alt="PayDay One - The Smarter Cash Advance" border="0"></a>
+                                    <!-- END: DEFAULT CONTENT -->
+                                    
+
+                                
+                                <!-- END: HEADING BANNER CONTENT -->
+                                
+                                <!-- BEGIN: HEADING BANNER FOOTER CONTENT PLACE HOLDER -->
+                                
+
+                                    
+
+                                
+                                <!-- END: HEADING BANNER FOOTER CONTENT PLACE HOLDER -->
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <!-- END: HEADING BANNER IMAGE TABLE -->
+
+                    <!-- BEGIN: PRIMARY CONTENT TABLE -->
+                    <table width="100%" border="0" cellpadding="0" cellspacing="0" id="meat" class="meat">
+                        
+                        <tbody><tr>
+
+                            <!-- BEGIN: PRIMARY CONTENT COLUMN -->
+                            <td>
+
+                                <!-- BEGIN: PRIMARY CONTENT PLACE HOLDER -->
+                                
+
+                                    <!-- BEGIN: DEFAULT CONTENT -->
+                                        
+                                        <h1>Privacy Policy</h1>
+    <h2>
+        PayDay One Privacy Policy</h2>
+    <p>
+        At PayDay One your privacy is important to us. This Privacy Policy describes the
+        information we collect and how we use that information and applies if you have applied
+        for service with PayDay One, or if you are a current or former customer.</p>
+<br>
+    <p>
+        <b style="font-size: 11px;">PROTECTING THE PRIVACY OF CUSTOMER INFORMATION</b>
+            </p><p style="font-weight: 400;">
+                We are committed to protecting your privacy and to implementing technology that
+                gives you the most powerful and secure online experience. We maintain physical,
+                electronic, and procedural safeguards that comply with federal standards to transmit
+                and store information about you. For instance, we use computer virus protection
+                software, firewalls, and the strongest Secure Socket Layer (SSL) for data transmission
+                to ensure that your information is secure. In addition, we are constantly evaluating
+                new advances in security technology and techniques to provide the best possible
+                protection for information about you.</p>
+       <p></p> 
+       
+       <p>
+        <b style="font-size: 11px;">INFORMATION WE COLLECT ABOUT YOU</b>
+            </p><p style="font-weight: 400;">
+                We collect "nonpublic personal information" about you from several sources:</p>
+            <div id="security">
+                <ul>
+                    <li>Information you provide on your application</li>
+                    <li>Transaction and experience information with us</li>
+                    <li>Information from a consumer reporting agency</li>
+                    <li>Non-personally identifiable information such as URL and TCP/IP information</li>
+                </ul>
+            </div>
+        <p></p>
+        
+        <p>
+        <b style="font-size: 11px;">HOW WE USE INFORMATION WE COLLECT</b>
+            </p><p style="font-weight: 400;">
+                The information we collect about you is primarily used to provide services to you
+                and contact you regarding administrative notices. We may also use your information
+                to resolve disputes, troubleshoot problems, and enforce our agreements with you,
+                including our Terms and Conditions, Application Agreement, Loan Agreement, and this
+                Privacy Policy. Although we may disclose information we collect and retain, its
+                use will be limited to what we reasonably believe is appropriate and necessary to
+                carry on our business and to provide the quality of service you expect and deserve.</p>
+        <p></p>
+        <p>
+        <b style="font-size: 11px;">PARTIES TO WHOM WE DISCLOSE</b>
+            </p><p style="font-weight: 400;">
+                We do not sell, trade, or rent your information to others without your express consent,
+                except as set forth below or otherwise allowed by law. We only provide these parties
+                the information they need to provide services, and they are prohibited from using
+                the information for any other purpose.</p>
+            <div id="Div1">
+                <ul>
+                    <li><b>Information we share with Affiliates:</b><br>
+                        Some of our services are provided using our affiliates, and we share nonpublic personal
+                        information with them.</li>
+                    <li><b>Information we share with Third Parties:</b><br>
+                        We use certain non-affiliated third parties as service providers, and we share nonpublic
+                        personal information with them.</li>
+                    <li><b>Information we share with Financial Institutions:</b><br>
+                        We may disclose information we collect to financial institutions with whom we have
+                        a marketing and servicing agreement such as banks and our affiliates.</li>
+                </ul>
+            </div> <br>
+        <p></p>
+       
+        <p>
+        <b style="font-size: 11px;">CHOICES REGARDING COLLECTION, USE, AND DISTRIBUTION</b>
+            </p><p style="font-weight: 400;">
+                We may send you email regarding our service from time to time. If you do not wish
+                to receive these emails, simply logon to your account on <a href="http://www.paydayone.com">
+                    www.PayDayOne.com</a> and "opt-out" of this service. We may send out periodic
+                emails informing you of technical service issues related to a service you requested.
+                You will not be able to choose to unsubscribe from these mailings as they are considered
+                an essential part of the service you have chosen.</p>
+        <p></p>
+        <p>
+        <b style="font-size: 11px;">ACCURACY OF YOUR ACCOUNT INFORMATION</b>
+            </p><p style="font-weight: 400;">
+                We have established procedures to ensure that your financial information is accurate,
+                current and complete, in keeping with reasonable industry standards. We continually
+                strive to maintain complete and accurate information about you and your accounts.
+                Should you ever believe that our records contain inaccurate or incomplete information
+                about you, please notify us. We will investigate your concerns and correct any information
+                we determine to be inaccurate.</p>
+            <p style="font-weight: 400;">
+                You may change your information on your application online by logging into the website
+                and selecting "Update Info."</p>
+        <p></p>
+        <p>
+        <b style="font-size: 11px;">CHANGES TO THIS PRIVACY POLICY</b>
+            </p><p style="font-weight: 400;">
+                Since circumstances and technologies change, we reserve the right to change or remove
+                portions of our Privacy Policy at any time without prior notification. If the changes
+                are substantial, such as adding a category of information that we will disclose
+                to a third party, we will notify existing customers by email and give them an appropriate
+                time period to opt out of the disclosure.</p>
+        <p></p>
+        <p>
+        <b style="font-size: 11px;">ADDITIONAL SECURITY PRECAUTIONS</b>
+            </p><p style="font-weight: 400;">
+                You also have a significant role in protecting your information. <b>No one can see or
+                    edit your personal information without knowing your email address and password;
+                    do not share these with others.</b> If you use this site you are responsible
+                for maintaining the confidentiality of your account, password, and restricting access
+                to your computer. You agree to accept responsibility for all activities that occur
+                under your account and password.</p>
+        <p></p>
+        <p>
+        <b style="font-size: 11px;">"COOKIE" POLICY</b>
+            </p><p style="font-weight: 400;">
+                To ensure we are publishing content customers need and want, PayDayOne.com collects
+                aggregated site-visitation statistics using cookies. We do not track individuals'
+                use of the site. When someone visits the site, a cookie is placed on the customer's
+                machine (if the customer accepts cookies). If you choose to not have your browser
+                accept cookies from the PayDayOne.com Web site, you will not be able to subscribe
+                to the service offerings on the site.</p>
+        <p></p>
+        <p>
+        <b style="font-size: 11px;">WHO DO YOU CONTACT WITH QUESTIONS?</b>
+            </p><p style="font-weight: 400;">
+                If you have any questions about this Privacy Policy, the practices of this site,
+                or your dealings with this site, please contact us by sending a letter to:</p>
+            <blockquote>
+                PayDay One<br>
+                Attn: Privacy Compliance Officer<br>
+                2207 Concord Pike #604<br>
+                Wilmington, DE 19803 or<br>
+                Sending us an e-mail at: <a href="mailto:support@paydayone.com">customersupport@paydayone.com</a>
+            </blockquote>
+        <p></p>
+                                    <!-- END: DEFAULT CONTENT -->
+                            
+                                
+                                <!-- END: PRIMARY CONTENT PLACE HOLDER -->
+
+                            </td>
+                            <!-- END: PRIMARY CONTENT COLUMN -->
+
+                        </tr>
+                    </tbody></table>
+                    <!-- END: PRIMARY CONTENT TABLE -->
+              
+                </td>
+                <!-- END: RIGHT (PRIMARY) COLUMN -->
+                
+            </tr>
+            <!-- END: PRIMARY PAGE ROW -->
+
+            <!-- BEGIN: FULL PAGE WIDTH CONTENT ROW -->
+            <tr>
+                <td colspan="2" id="pageWidthMeat">
+                    <!-- BEGIN: FULL PAGE WIDTH CONTENT CELL -->
+                    
+                        <!-- BEGIN: DEFAULT CONTENT -->
+                        <!-- NOTHING HERE -->                        
+                        <!-- END: DEFAULT CONTENT -->
+                    
+                    <!-- END: FULL PAGE WIDTH CONTENT CELL -->
+                </td>
+            </tr>
+            <!-- END: FULL PAGE WIDTH CONTENT ROW -->
+
+            <!-- BEGIN: PAGE FOOTER ROW -->
+            <tr>
+                <td colspan="2" id="footer">
+                    <!-- BEGIN: PAGE FOOTER CONTENT PLACE HOLDER -->
+                                            
+                        <!-- BEGIN: DEFAULT CONTENT -->
+                        
+
+
+
+<!--BEGIN: FOOTER CONTENT -->
+
+<!--BEGIN: FOOTER NAV LINKS -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>        
+        <td class="copy_footer" colspan="2" align="left" valign="top">
+            <a href="../../default.aspx" id="ctl00_FooterContentPlaceHolder_ctlFooterNavigationBar_HomeHyperlink" class="link_footer">Home</a> | 
+            <a href="../HowItWorks/default.aspx" id="ctl00_FooterContentPlaceHolder_ctlFooterNavigationBar_HowItWorksHyperlink" class="link_footer">How It Works</a> | 
+            <a href="../MyAccount/default.aspx" id="ctl00_FooterContentPlaceHolder_ctlFooterNavigationBar_MyAccountHyperlink" class="link_footer">My Account</a> | 
+            <a href="default.aspx" id="ctl00_FooterContentPlaceHolder_ctlFooterNavigationBar_PrivacyHyperlink" class="link_footer">Privacy Policy</a> | 
+            <a href="../faq/default.aspx" id="ctl00_FooterContentPlaceHolder_ctlFooterNavigationBar_HelpHyperlink" class="link_footer">Help</a><br>           
+            <a href="../../contactus.aspx?from=/Default.aspx" id="ctl00_FooterContentPlaceHolder_ctlFooterNavigationBar_ContactUsHyperlink" class="link_footer">Contact Us</a> |  
+            <a href="../state/states.aspx" id="ctl00_FooterContentPlaceHolder_ctlFooterNavigationBar_LicenseAndFeesHyperlink" class="link_footer">License and Fee Schedule</a> | 
+            <a href="../../security.aspx" id="ctl00_FooterContentPlaceHolder_ctlFooterNavigationBar_SecurityHyperlink" class="link_footer">Security</a> | 
+            <a href="../Login/default.aspx" id="ctl00_FooterContentPlaceHolder_ctlFooterNavigationBar_LoginHyperlink" class="link_footer">Login</a> | 
+            <a href="../../sitemap.aspx" id="ctl00_FooterContentPlaceHolder_ctlFooterNavigationBar_SiteMapHyperlink" class="link_footer">Site Map</a>
+            <br>
+        </td>
+        <td class="copy_footer" rowspan="2" align="left">
+            <a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.PAYDAYONE.COM&amp;lang=en" tabindex="0" target="VRSN_Splash"><img src="../../assets/images/verisign_logo2.gif" id="ctl00_FooterContentPlaceHolder_ctlFooterNavigationBar_VerisignLogoImage" name="seal" oncontextmenu="return false;" alt="This Web site has chosen one or more VeriSign SSL Certificate or online payment solutions to improve the security of e-commerce and other confidential communication" border="0"></a>
+        </td>
+    </tr>
+    <tr>
+        <td class="copy_footer" align="left" valign="top">            
+            ©-2006 
+            PayDay One All Rights Reserved. - 
+            <span id="ctl00_FooterContentPlaceHolder_ctlFooterNavigationBar_lblWebServer">2</span> 
+        </td>    
+    </tr>    
+</tbody></table>
+
+<!--END: FOOTER NAV LINKS -->
+<!--END: FOOTER CONTENT -->
+
+                        <!-- END: DEFAULT CONTENT -->
+                    
+                    <!-- END: PAGE FOOTER CONTENT PLACE HOLDER -->
+                </td>
+            </tr>
+            <!-- END: PAGE FOOTER ROW -->
+
+        </tbody></table>
+        <!-- END: PAGE PERIMETER TABLE -->
+
+    </div>
+    
+<script type="text/xml-script">
+<page xmlns:script="http://schemas.microsoft.com/xml-script/2005">
+  <components>
+    <pageRequestManager id="_PageRequestManager" updatePanelIDs="" asyncPostbackControlIDs="" scriptManagerID="ctl00$scriptManager" form="aspnetForm" />
+  </components>
+</page></script>
+<script type="text/javascript">
+</script>
+</form>
+
+
+<!-- END: BODY-->
+
+
+<!-- END: HTML -->
+
+
+
+</body></html>
