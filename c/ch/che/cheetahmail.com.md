@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheetahmail.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214954id_/http%3A//www.cheetahmail.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheetahmail.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128192647id_/http%3A//www.cheetahmail.com/corp/privacy.html) for the most accurate reproduction.*
 
 # CheetahMail: An Experian Company
 
@@ -7,7 +7,7 @@
 **Effective Date: September 1, 2004**  
 CheetahMail, an Experian Company, offers a diverse range of email-related technology services for our clients. As a member of the Experian corporate family, we are dedicated to a similar set of fair information values for our clients and user-recipients of our services. This privacy policy applies to our corporate website, CheetahMail.com, and serves as our privacy commitment to our corporate clients. 
 
-For user-recipients of CheetahMail services, including all email recipients, please refer to CheetahMail's User Policy Guide. 
+For user-recipients of CheetahMail services, including all email recipients, please refer to [CheetahMail's User Policy Guide](https://web.archive.org/web/20061128192647id_/http%3A//www.cheetahmail.com/corp/user_policy_guide.html). 
 
 **Corporate Email Client Anti-Spam Policy:**  
 Clients of CheetahMail have agreed to not send unsolicited commercial email through our systems. Any client who violates this agreement is subject to privacy review, services termination and potential legal action. 
