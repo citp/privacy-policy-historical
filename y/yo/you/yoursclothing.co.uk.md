@@ -1,21 +1,35 @@
-> *The following text is extracted and transformed from the yoursclothing.co.uk privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623155227id_/http%3A//yoursclothing.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursclothing.co.uk privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128052559id_/http%3A//yoursclothing.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Yours Plus Size Clothing, Lingerie & Accessories
+# Yours Plus Size Clothing and Accessories
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully in accordance with the Data Protection Act 1998. We collect information about you for two reasons: firstly, to process your order and second, to provide you with the best possible service. We will not e-mail you in the future unless you have given us your consent. We will give you the chance to refuse any marketing email from us. The type of information we will collect about you includes:
+Yours Clothing are totally committed to protecting the privacy of our site visitors and customers. The Yours Clothing team members are customers themselves of other Internet sites and fully appreciate and respect the importance of privacy on the Internet. We will not disclose information about our customers to third parties except where it is a necessary part of providing a service to you - e.g. arranging for a product to be sent to you.
 
-:: your name
+**Your Consent**  
+We will not rent or sell your name, address, email address, credit card information or personal information to any third party (excluding partners from whom you may have linked to our site) without your permission. If you have purchased from our store, subscribed to one of our newsletters and entered any of our competitions, or advised us of your email address, postal address & telephone number we may occasionally update you on news and special opportunities via email, post & telephone.
 
-:: address phone number
+**Communication & Marketing**  
+By becoming a member of Yours Clothing and providing Yours Clothing with your email, postal address, telephone number you consent to receive communication from us about our latest products and special offers (Our emails refer to your Yours Clothing membership and the products & services we offer including clothes, jewellery, accessories etc.) which we think may be of interest to you, the information may also be used to notify you of products and services of third parties, which may be of interest to you.
 
-:: email address
+**Opting out of Communication**  
+All Yours Clothing members have the option to opt-out of receiving marketing communications from us and/or selected third parties.
 
-:: credit/debit card details
+**Checking your details**  
+If you wish to verify the details you have submitted to Yours Clothing you may do so by contacting us via the email address, telephone number or address given below. Our security procedures mean that we may request proof of identity before we reveal information. This proof of identity will take the form of your email address and password submitted upon registration. We would strongly recommend that you do not use the browser's password memory function as that would permit other people using your terminal to access your personal information - write it down and keep it somewhere safe.
 
-We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.
+**What are Cookies?**  
+A cookie is a small information file that is sent to your computer and is stored on your hard drive. If you have registered with us then your computer will store an identifying cookie which will save you time each time you re-visit Yours Clothing, by remembering your email address for you. You can change the settings on your browser to prevent cookies being stored on your computer without your explicit consent.
 
-The personal information which we hold will be held securely in accordance with our internal security policy and the law. If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first.
+**Contacting us**  
+We are always pleased to hear from our customers (even if it is a complaint!). We are always grateful for any time you spend providing us with the knowledge we need to ensure our customers are completely satisfied - we want you to return to the site and to recommend us to your friends and family. If you have any questions or feedback about this statement please do not hesitate to contact a customer service representative of the Yours Clothing team, who will be delighted to answer any questions you may have.
 
-We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
+You can contact customer service via email - [customerservice@yoursclothing.co.uk](mailto:customerservice@yoursclothing.co.uk)  
+[ www.yoursclothing.co.uk](http://www.yoursclothing.co.uk/) : [www.sizeup.co.uk](http://www.sizeup.co.uk/)
 
 [](http://www.worldpay.co.uk/)
+
+  
+Peterborough Webb Estate  
+Oundle Road  
+Woodston  
+Peterborough  
+PE2 9QR
