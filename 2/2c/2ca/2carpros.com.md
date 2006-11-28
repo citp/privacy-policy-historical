@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 2carpros.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616003440id_/http%3A//www.2carpros.com/kpages/2carpros-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2carpros.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128124539id_/http%3A//www.2carpros.com/kpages/2carpros-privacy.htm) for the most accurate reproduction.*
 
 # 2CarPros.com Privacy Information
+
+****** ** **2CarPros.com Privacy Information**
 
 2CarPros.com has a firm commitment to the privacy of our visitors. Because the World Wide Web allows a level of information exchange not previously possible with other media, we believe it is important for our visitors to understand how our website collects information and how that information is used.
 
@@ -23,4 +25,4 @@ This site has security measures in place to protect the loss, misuse and alterat
 **Disclaimer**  
 The information found in the Professional Mechanics Online website is not intended to replace the advice of your automobile mechanic and is not a substitute for a thorough diagnostic inspection by a qualified professional mechanic. No vehicle repair should be attempted without a thorough knowledge of the mechanics of the repair and the risks involved. The purpose of this website is to educate and inform. No claim or guarantee is intended to the accuracy of the information on this site although every attempt has been made to verify the accuracy of all information with the exception of the pubic forum. 
 
-If you have any question or comments about 2Carpros.com please contact us -  [ Here](https://web.archive.org/web/20060616003440id_/http%3A//www.2carpros.com/kpages/contact-us.htm)
+If you have any question or comments about 2Carpros.com please contact us -  [ Here](https://web.archive.org/web/20061128124539id_/http%3A//www.2carpros.com/kpages/contact-us.htm)
