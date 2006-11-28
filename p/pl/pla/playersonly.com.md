@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the playersonly.com privacy policy that was archived on 2006-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060414231357id_/http%3A//playersonly.com/misc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playersonly.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128091922id_/http%3A//www.playersonly.com/misc/privacy.php) for the most accurate reproduction.*
 
-# PlayersOnly Sportsbook and Casino. Sexiest sportsbook on the planet
+# Best online betting promotions and bonuses on the net at PlayersOnly.com
 
 [](https://web.archive.org/printable/privacy.html)
-
-**Privacy Statement for www.playersonly.com**
 
 Playersonly has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.playersonly.com.
 
@@ -44,8 +42,8 @@ Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-1\. email support@playersonly.com  
-2\. call the following telephone number: 1-800-388-0456
+1\. email support@playersonly.com.  
+2\. call the following telephone number: 1-800-388-0456. We **DO NOT** accept wagers over the phone. Our phone services are strictly for Customer Service queries and **NOT** for wagering purposes.
 
 **Contacting the Web Site  
 **If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
