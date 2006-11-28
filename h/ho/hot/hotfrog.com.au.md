@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotfrog.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204839id_/http%3A//www.hotfrog.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfrog.com.au privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128234512id_/http%3A//www.hotfrog.com.au/Privacy.aspx) for the most accurate reproduction.*
 
 # Hotfrog Privacy
 
@@ -20,10 +20,10 @@ If you do not wish to provide the information we request, we will tell you what 
 
 We will only disclose personal information in accordance with the Act. This means that it will be disclosed if:
 
-  * we told you when collecting it that it would be disclosed for that purpose or for a related purpose that you would reasonably expect; 
-  * we have your consent; 
-  * it is part of business assets which we are selling; 
-  * we are required by law to disclose it; or 
+  * we told you when collecting it that it would be disclosed for that purpose or for a related purpose that you would reasonably expect;
+  * we have your consent;
+  * it is part of business assets which we are selling;
+  * we are required by law to disclose it; or
   * it is otherwise permitted under the Act 
 
 
