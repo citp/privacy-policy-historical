@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the treatment-centers.net privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614125159id_/http%3A//www.treatment-centers.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treatment-centers.net privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128231608id_/http%3A//www.treatment-centers.net/privacy.html) for the most accurate reproduction.*
 
 # Treatment-Centers.net - Policies, Privacy & Health Information Practices
 
 ADMISSIONS/INQUIRIES  
 To talk with any of our Admissions Departments please call one of the phone numbers listed on the Admissions page of the particular facility’s website or our main number at 408-210-4910.  
 EMAIL  
-Each facility has a **Contact Us** email address to message us during normal business hours or for leaving a message for response on the next business day.  
+Our Company has a **Contact** email address to message us during normal business hours or for leaving a message for response on the next business day.  
 CLIENT/ PATIENT RIGHTS POLICY  
 In accordance with prevailing state and national licensing and accreditation standards, each participant receiving services from an alcohol and/or drug program shall have rights which include, but are not limited to, the following: 
 
@@ -130,8 +130,8 @@ We reserve the right to change our practices and to make the new provisions effe
   
 FOR MORE KNOWLEDGE ABOUT PROTECTED HEALTH INFORMATION OR TO REPORT A PROBLEM  
   
-If have questions and would like additional information, you may contact Treatment-Centers.net Corporate Compliance Officer at: 408-210-4910 or 561-254-4873.
+If have questions and would like additional information, you may contact Treatment-Centers.net Corporate Compliance Officer at: 408-210-4910.
 
-If you believe your privacy rights have been violated, you can file a complaint with the Department of Health and Human Services/ Office for Civil Rights (HHS/OCR) by email at [orchidrecoverycomplaint@hhs.gov](mailto:ocrcomplaint@hhs.gov) or by calling the national Office at 202-205-8725 and asking for the OCR Health Information Privacy Complaint Form and/or for the appropriate Regional OCR Office.
+If you believe your privacy rights have been violated, you can file a complaint with the Department of Health and Human Services/ Office for Civil Rights (HHS/OCR) by email at [info@hhs.gov](mailto:ocrcomplaint@hhs.gov) or by calling the national Office at 202-205-8725 and asking for the OCR Health Information Privacy Complaint Form and/or for the appropriate Regional OCR Office.
 
 However, communications that are sent directly to the Department of HHS/OCR are maintained by them for historical purposes, as required by law. Those communications are archived on a monthly basis, but are also protected by the Privacy Act, which restricts their use while permitting certain disclosures. There will be no retaliation for filing a complaint.
