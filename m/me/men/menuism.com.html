@@ -1,0 +1,1174 @@
+<!--The following is the downloaded HTML source of the menuism.com privacy policy that was archived on 2006-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061128144410id_/http%3A//www.menuism.com/about/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+        <title>menuism - Privacy
+        </title>
+        <meta name="description" content="Menuism Privacy Policy.">
+        <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+
+        <script src="/javascripts/prototype.js?1164700823?1164700823" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1164700823?1164700823" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1164700823?1164700823" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1164700823?1164700823" type="text/javascript"></script>
+<script src="/javascripts/application.js?1164700823?1164700823" type="text/javascript"></script>
+        <script src="/javascripts/domready.js?1164700823?1164700823" type="text/javascript"></script>
+        <script src="/javascripts/mf_lightbox.js?1164700823?1164700823" type="text/javascript"></script>
+        <script src="/javascripts/niftycube.js?1164700823?1164700823" type="text/javascript"></script>
+        <script src="/javascripts/overlib_mini.js?1164700823?1164700823" type="text/javascript"></script>
+        <script src="/javascripts/overlib_cssw3c.js?1164700823?1164700823" type="text/javascript"></script>
+        
+<script type="text/javascript">
+var tabberOptions = {manualStartup:true};
+</script>
+        <script src="/javascripts/tabber-minimized.js?1164700823?1164700823" type="text/javascript"></script>
+
+      		<link href="/stylesheets/niftyCorners.css?1164700841?1164700841" media="screen" rel="Stylesheet" type="text/css">
+     			<link href="/stylesheets/lightbox-mod.css?1164700841?1164700841" media="screen" rel="Stylesheet" type="text/css">
+      		
+      		
+      		<link href="/stylesheets/tab-image.css?1164700841?1164700841" media="screen" rel="Stylesheet" type="text/css">
+      		
+<!--[if gte IE 5]>
+<link href="/stylesheets/style_ie.css?1164700841?1164700841" media="screen" rel="Stylesheet" type="text/css" />
+<![endif]-->
+       <link href="/stylesheets/main.css?1164700841?1164700841" media="screen" rel="Stylesheet" type="text/css"> 
+       <link href="/stylesheets/search_results.css?1164700841?1164700841" media="screen" rel="Stylesheet" type="text/css"> 
+
+       
+
+  <script type="text/javascript">
+    Event.onDOMReady(function() {
+     //corners
+		  	LoadRoundedCorners();
+		  	//modal
+	  		Lightbox.init();
+        //Event.observe($('box'), 'keyup', quitLightbox, false);
+	    //for tabs
+	    tabberAutomatic();
+					// for tags
+					init_tags();
+		    //for loading maps
+			
+        		   
+            var currentTime = new Date();
+            createCookie("c_time", currentTime.getDate() + ',' + currentTime.getHours() + ',' + currentTime.getMinutes(), 1);
+        
+    
+        focusErrorFields();
+    });  
+    var menu_item_index = 0;
+    var loading_message = "<p style=\'margin-top:20px;text-align:center;font-weight:bold;\'>Your order is on its way... <img alt=\"Big_star_animated\" src=\"/images/big_star_animated.gif?1164700840?1164700840\" /></p><br/><br/>";
+    var cloudlet_ids_to_real_ids = []; // associative array to list the multiple instances of cloudlets matching this id.
+ </script>  
+
+    </head>
+    <body>
+
+<div id="container">
+	<div id="header">
+
+	    <div id="menuism-logo">
+	<a href="http://www.menuism.com/"><img alt="Logo_beta_background" height="52" src="/images/logo_beta_background.png?1164700840?1164700840" width="142"></a>
+	
+</div>
+<div id="menuism-tagline">rate what you ate. <strong><a href="/about/tour">Learn how.  Take a Tour!</a></strong>
+</div>
+
+<div id="user-points" style="border:2px solid; border-color:#ffae30; margin: 5px; display:none">
+
+Log in or create an account to earn points and give tips! 
+
+<br>
+<br>
+<p>
+<em>Points</em> are earned by participating on the site.  
+You can <strong>use <em>points</em> to <em>tip</em>* other users</strong> when you like their work!  
+The highest <em>tip givers</em> and <em>receivers</em> will be recognized.
+</p>
+<p>
+* You can tip up to 3 per post.
+</p>
+</div>
+	    
+<div id="header-links">
+  <ul>
+          <li><a href="/cities/home" title="Go to your home city">Home City</a></li>
+		
+		  <li><a href="https://www.menuism.com/login">Login</a></li>
+		  <li><a href="https://www.menuism.com/user/signup">Sign Up</a></li>
+		
+        
+		  <li class="bright-text"><a href="#" onclick="Lightbox.showBoxByID('feedback-add-form', 700, 500); return false;" title="Provide Feedback">Feedback</a></li>
+  </ul>
+</div>
+
+<div id="feedback-add-form" class="feedback-floating-form" style="display:none">
+    <div id="feedback-form-result" class="feedback-floating-form" style="display:none"></div>
+
+
+<form action="/feedbacks/create_new" id="feedback-form-form" method="post" onsubmit="new Ajax.Request('/feedbacks/create_new', {asynchronous:true, evalScripts:true, onLoading:function(request){Element.show('indicator-image-for-form-feedback-form-form');formLoading('feedback-form-form');}, parameters:Form.serialize(this)}); return false;">
+    <!--[form:feedback]-->
+<b>Thanks for caring!  Your opinions help Foodha achieve Menuism!</b>
+
+<p><label for="feedback_title">Title</label><br>
+<input id="feedback_title" name="feedback[title]" size="33" type="text"></p>
+
+
+<p><label for="feedback_email">Email</label><br>
+<input id="feedback_email" name="feedback[email]" size="33" type="text" value=""></p>
+
+
+<p><label for="feedback_category">What's This About?</label><br>
+<select id="feedback_category" name="feedback[category]"><option value="likes">What I like</option>
+<option value="dislike">What I don't like</option>
+<option value="bug">This isn't working</option>
+<option value="usability">I couldn't figure out how to</option>
+<option value="UI">Something looks funny</option>
+<option value="suggestion">You guys should do this!</option>
+<option value="data">This data is wrong</option>
+<option value="question">I've got a question</option>
+<option value="general">Something else</option></select></p>
+
+<p><label for="feedback_body">Description</label><br>
+<textarea cols="50" id="feedback_body" name="feedback[body]" rows="8"></textarea></p>
+<!--[eoform:feedback]-->
+
+
+    <p>
+    <input class="submit" name="commit" type="submit" value="Create">    
+	 	
+	<img alt="Indicator" id="indicator-image-for-form-feedback-form-form" src="/images/indicator.gif?1164700840?1164700840" style="display:none">
+    </p>
+</form>
+
+
+</div>
+
+	</div>
+	<div id="core">
+        <div id="content-header">
+			<div id="logo" style="text-align:center;"> 
+
+
+</div>	
+
+<div id="content-header-middle">
+	<div id="infobanner-head">
+	</div>
+	<div id="infobanner">
+	    <div id="infobanner-text">
+            
+    	        <span id="info-banner-section">
+    
+<script>
+    var num_banner_items = 2; 
+    var banner_index = 1; //starting at 1 because we show 1 from the start
+    var banner_delay = 20;
+</script>
+
+
+<div style="display:block" id="info-banner-item-index-blognews">
+    <script src="http://feeds.feedburner.com/MenuismBlog?format=sigpro" type="text/javascript"></script><noscript>Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/MenuismBlog"></a> </noscript>
+</div>
+
+
+    
+    <div style="display:none;" id="info-banner-item-index-0">
+        Achieve menuism.  Fulfill your hunger.
+        
+    </div>
+    
+
+<script>
+	   var item_ids = $A(['info-banner-item-index-blognews', 'info-banner-item-index-0']);	
+    function show_next_banner() {
+        mod_index = banner_index % num_banner_items;
+//        show_id = 'info-banner-item-index-mod_index'.gsub("mod_index", mod_index);
+        show_id = item_ids[mod_index];
+        show_and_hide_elements(show_id, item_ids);
+        banner_index++;
+    }
+    var periodic_banner = new PeriodicalExecuter(show_next_banner, banner_delay);
+</script>
+</span>
+
+           
+	    </div>
+	</div>
+	<div id="infobanner-tail">
+	</div>
+	
+	<div id="header-search-browse-box" class="nav_full_border">
+	    
+
+<div id="browse-link-info" style="display:none;">
+View and browse cuisines and popular tags.  More frequently used tags are displayed in larger fonts.  Choose one or more tags, and remember to hit "Go!"
+</div>
+
+<div id="search-browse-forms">
+	
+	<form action="/searching/do_search" method="post" name="search_form">
+	
+    <table style="width:100%;">
+        <tbody><tr>
+            <td class="search-querystring-column"> 
+            <script type="text/javascript">
+                defaultQueryValue = 'Find food by restaurant, tags, dish';
+            </script>
+			<input id="current_query_querystring" maxlength="70" name="current_query[querystring]" onfocus="if (this.value==defaultQueryValue) this.value='';" size="45" type="text" value="Find food by restaurant, tags, dish">
+        
+                      <div class="tag-list-auto-complete" id="current_query_querystringauto-tag-list" style="display:none"></div>
+      <script type="text/javascript">
+          var taglist = ['Fondue', 'Mexican', 'Argentinean', 'Brazilian', 'Colombian', 'Chilean', 'Latin American', 'Puerto Rican', 'Seafood', 'Hot Dogs', 'Soups', 'Ice Cream', 'Southwestern', 'Steakhouse', 'Vegan', 'Kosher', 'Vegetarian', 'Noodle Shop', 'Middle Eastern', 'Other', 'Afghan', 'Lebanese', 'South American', 'Pizza', 'English', 'French', 'German', 'Venezuelan', 'Indian', 'African', 'Indonesian', 'Japanese', 'Korean', 'Ethiopian', 'Thai', 'Moroccan', 'Sushi', 'Asian', 'Tibetan', 'Chinese', 'Caribbean', 'Dim Sum', 'Cuban', 'Malaysian', 'Jamaican', 'Vietnamese', 'European', 'Austrian', 'Filipino', 'Belgian', 'Greek', 'Irish', 'Italian', 'Mediterranean', 'Spanish', 'Turkish', 'Hungarian', 'Swedish', 'Russian', 'Scandinavian', 'Portuguese', 'Swiss', '25 For $25', 'Expensive', 'Delivery', 'Takeout', 'Breakfast', 'MS Prime', 'Lunch', 'Pasta', 'Spicy', 'Armenian', 'Lincoln Park', 'Teriyaki', 'Burrito', 'Happy hour', 'Prix Fixe', 'Cheap', 'All you can eat', 'Crowded', 'Boba', 'Valet', 'Pub', 'Patio', 'CMS', 'Tacos', 'Gelato', 'Meat-and-Three', 'Chocolate', 'BBQ', 'Drinks', 'Cafe', 'Downtown', 'Salads', 'Shakes', 'Lunch buffet', 'Polynesian', 'Buffet', 'Live music', 'South Loop', 'Brewery', 'Beer', 'Carry-out', 'Groups', 'Fancy', 'Sake', 'Romantic', 'Dinner', 'Santana Row', 'Mag mile', 'Desserts', 'American', 'International', 'Cajun', 'Fusion', 'Sandwiches', 'Persian', 'Hawaiian', 'Cambodian', 'Chinatown', 'Late Night', 'Chowder', 'Free wi-fi', 'Lincoln square', 'Sashimi', 'Crepes', 'Burmese', 'Bar', 'Taiwanese', 'Byob', 'Trendy', 'Brunch', 'Fast Food', 'Hamburgers', 'Health Food', 'Coffeehouse', 'Diner', 'Deli', 'Soul Food', 'Donuts', 'Tapas', 'Smoothies', 'Bagels', 'Bakeries', 'Barbecue', 'Californian', 'Family Fare', 'Cheesesteak'];
+          new Autocompleter.Local('current_query_querystring', 'current_query_querystringauto-tag-list', taglist, {minChars:1,frequency:0.05,fullSearch:true, partialSearch:true, ignoreCase:true,tokens:[',']});
+      </script>		       
+
+        			
+			</td><td>in
+			</td>
+			
+			<td class="search-location-column">		
+			<input id="current_query_locationstring" maxlength="50" name="current_query[locationstring]" size="20" type="text" value="CHICAGO, IL">
+			      <div class="tag-list-auto-complete" id="current_query_locationstringauto-tag-list" style="display:none"></div>
+      <script type="text/javascript">
+          var taglist = ['Chicago, IL', 'New York, NY', 'Philadelphia, PA', 'San Diego, CA', 'San Francisco, CA', 'Seattle, WA', 'Cupertino, CA'];
+          new Autocompleter.Local('current_query_locationstring', 'current_query_locationstringauto-tag-list', taglist, {minChars:1,frequency:0.05,fullSearch:true, partialSearch:true, ignoreCase:true});
+      </script>		       
+
+			
+			<input id="hiddencurrent_query_locationstring" name="hiddencurrent_query_locationstring" type="hidden" value="CHICAGO, IL">
+            </td>
+            <td rowspan="2" style="vertical-align:top">
+                <input onclick="if ($('current_query_querystring').value == defaultQueryValue) {$('current_query_querystring').value = '';} " src="/images/go_button.gif?1164700840?1164700840" style="border: none; " type="image">    
+			</td>
+		</tr>
+        <tr>
+            <td class="search-querystring-column"> 
+                <span id="search-options">
+                    <span id="show_tags" class="search-query-helper-links">
+                	     [ <a href="#" onclick="document.search_form.current_query_querystring.value = ''; observeQuery(null); $('search_type_search_menu_items').checked = false;; return false;">Clear</a> | <a href="#" onclick="Element.hide('show_tags'); Element.show('tag_tabs'); Element.show('hide_tags'); select_tag_subtab('cuisines'); ; return false;" onmouseout="return nd();" onmouseover="overlib($('browse-link-info').innerHTML, VAUTO, CSSW3C, DIVCLASS, 'blurb-floating-preview');">Browse tags</a> ]
+            	    </span> 
+            	     <span id="hide_tags" style="display:none" class="search-query-helper-links">
+            	     [ <a href="#" onclick="document.search_form.current_query_querystring.value = ''; observeQuery(null);; return false;">Clear</a> | <a href="#" onclick="Element.hide('hide_tags'); Element.hide('tag_tabs'); Element.show('show_tags'); ; return false;" onmouseout="return nd();" onmouseover="overlib($('browse-link-info').innerHTML, VAUTO, CSSW3C, DIVCLASS, 'blurb-floating-preview');">Hide tags</a> ]
+                     </span> 
+                    <span class="search-example">e.g. Red Robin, sushi</span>
+                    <span style="float:left; margin-left: 20px; margin-right:5px;">
+                        <input id="search_type_search_menu_items" name="search_type[search_menu_items]" type="checkbox" value="1"><input name="search_type[search_menu_items]" type="hidden" value="0"> Search dishes
+                    </span>	 
+                </span>
+                
+                <span id="user-search-options" class="search-example" style="display:none;">Screenname or first name, e.g. Foodbuddha or John</span>
+                <span class="search-users">
+                    <input id="search_type_user_search" name="search_type[user_search]" onclick="if (this.checked) {Element.show('user-search-options'); Element.hide('search-options'); if ($('current_query_querystring').value == defaultQueryValue) $('current_query_querystring').value = ''; } else {Element.show('search-options'); Element.hide('user-search-options')};" type="checkbox" value="1"><input name="search_type[user_search]" type="hidden" value="0"> Find a user
+                </span>	
+	        </td>
+	        <td>&nbsp;</td>
+	        <td class="search-location-column"> 
+              <span class="search-example">e.g. Chicago, IL or 60605</span>
+              <!--<label for="current_query[locationstring]"><strong>Around</strong>&nbsp;&nbsp;(<a href="#" onclick="Lightbox.showBoxByAJAX('/location/edit_user_locations', 700, 400);; return false;" title="Edit locations">Edit</a>)</label>-->
+            </td>
+	        <!--<td>&nbsp;</td>-->
+        </tr>
+
+    </tbody></table>    
+	</form>
+</div>
+
+<div class="tabber tag-content-panes" id="tag_tabs" style="display:none">
+
+ 
+<script type="text/javascript">
+        var tag_names = ['25 For $25', 'All you can eat', 'Bar', 'BBQ', 'Beer', 'Boba', 'Breakfast', 'Brewery', 'Brunch', 'Buffet', 'Burrito', 'Byob', 'Cafe', 'Cantonese', 'Cheap', 'Chinatown', 'Chocolate', 'CMS', 'Crepes', 'Crowded', 'Delivery', 'Downtown', 'Drinks', 'Expensive', 'Fancy', 'Fondue', 'Free wi-fi', 'Fusion', 'Gelato', 'Groups', 'American', 'Asian', 'Bagels', 'Bakeries', 'Barbecue', 'Chinese', 'Coffeehouse', 'Deli', 'Desserts', 'Diner', 'Donuts', 'Family Fare', 'Fast Food', 'French', 'Hamburgers', 'Ice Cream', 'Indian', 'International', 'Italian', 'Japanese', 'Mexican', 'Pizza', 'Seafood', 'Soul Food', 'Soups', 'Steakhouse', 'Sushi', 'Thai', 'Vegetarian', 'Vietnamese']
+        var tag_ids = ['tag-cloudlet-id-aDECtaAH8r24EmabBlKsEs', 'tag-cloudlet-id-aZL5w0lnCr27TFabBlKsEs', 'tag-cloudlet-id-dQfSg2naCr27D5abBlKsEs', 'tag-cloudlet-id-bdDy9ivZSr27DqabBlKsEs', 'tag-cloudlet-id-cNNz40j8ur27t7abBlKsEs', 'tag-cloudlet-id-a_FS8kkaKr24GQabBlKsEs', 'tag-cloudlet-id-ajUxRgj1Cr24nLabBlKsEs', 'tag-cloudlet-id-ck5ipIkair25j4abBlKsEs', 'tag-cloudlet-id-dzvuhQkaKr24GQabBlKsEs', 'tag-cloudlet-id-bxakoaloKr27TFabBlKsEs', 'tag-cloudlet-id-aX9WCMjZCr26nDabBlKsEs', 'tag-cloudlet-id-dx_0kSm_er27UKabBlKsEs', 'tag-cloudlet-id-bdvdkmsZSr26JwabBlKsEs', 'tag-cloudlet-id-aVHAGwta4r24syabBlKsEs', 'tag-cloudlet-id-aYhlHkjZCr26nDabBlKsEs', 'tag-cloudlet-id-dbek2moqSr254-abBlKsEs', 'tag-cloudlet-id-bcSlNspVer2789abBlKsEs', 'tag-cloudlet-id-b7pkxYx2qr27njabBlKsEs', 'tag-cloudlet-id-dLKOWik_qr25gbabBlKsEs', 'tag-cloudlet-id-a_0GIQkaKr24GQabBlKsEs', 'tag-cloudlet-id-aJ2Lg0pPar242rabBlKsEs', 'tag-cloudlet-id-bm4OD8BPar27uWabBlKsEs', 'tag-cloudlet-id-bdQAqkj2ar24FeabBlKsEs', 'tag-cloudlet-id-afoKOokMer24pwabBlKsEs', 'tag-cloudlet-id-cVmCw4o2ur253EabBlKsEs', 'tag-cloudlet-id-a4lsxKl1Wr25_7abBlKsEs', 'tag-cloudlet-id-dH341UshCr26ZGabBlKsEs', 'tag-cloudlet-id-d0zkLKj10r24nLabBlKsEs', 'tag-cloudlet-id-bcLc-ipVer2789abBlKsEs', 'tag-cloudlet-id-cVHsGGjZ0r27PHabBlKsEs', 'tag-cloudlet-id-d-19lAjLar25CmabBlKsEs', 'tag-cloudlet-id-abllUgjLer25CmabBlKsEs', 'tag-cloudlet-id-d_m1gQjLar25CmabBlKsEs', 'tag-cloudlet-id-d_pKJqjLar25CmabBlKsEs', 'tag-cloudlet-id-d_svbYjLar25CmabBlKsEs', 'tag-cloudlet-id-abnpVajLer25CmabBlKsEs', 'tag-cloudlet-id-d_AvfwjLar25CmabBlKsEs', 'tag-cloudlet-id-d_Df5ijLar25CmabBlKsEs', 'tag-cloudlet-id-d--3nWjLar25CmabBlKsEs', 'tag-cloudlet-id-d_bN04jLar25CmabBlKsEs', 'tag-cloudlet-id-d_H40gjLar25CmabBlKsEs', 'tag-cloudlet-id-d_W_YGjLar25CmabBlKsEs', 'tag-cloudlet-id-d_2b6sjLar25CmabBlKsEs', 'tag-cloudlet-id-ab4s3CjLer25CmabBlKsEs', 'tag-cloudlet-id-d_6kb4jLar25CmabBlKsEs', 'tag-cloudlet-id-aag8QIjLer25CmabBlKsEs', 'tag-cloudlet-id-abAdW4jLer25CmabBlKsEs', 'tag-cloudlet-id-d-5xN4jLar25CmabBlKsEs', 'tag-cloudlet-id-acdWRQjLer25CmabBlKsEs', 'tag-cloudlet-id-abElWGjLer25CmabBlKsEs', 'tag-cloudlet-id-aa-LZ0jLer25CmabBlKsEs', 'tag-cloudlet-id-aayKwKjLer25CmabBlKsEs', 'tag-cloudlet-id-aaC79qjLer25CmabBlKsEs', 'tag-cloudlet-id-d_eycojLar25CmabBlKsEs', 'tag-cloudlet-id-aaE_cEjLer25CmabBlKsEs', 'tag-cloudlet-id-aaIO66jLer25CmabBlKsEs', 'tag-cloudlet-id-abK0EejLer25CmabBlKsEs', 'tag-cloudlet-id-abIWQCjLer25CmabBlKsEs', 'tag-cloudlet-id-aaMWRojLer25CmabBlKsEs', 'tag-cloudlet-id-abv8tujLer25CmabBlKsEs']
+</script>
+    <div id="browse_subtab_help_section" class="tabbertab">
+								<h3>How to find food</h3>
+								<ul>
+								    <li>
+								       Enter a location
+								    </li>
+								    <li>
+								       Type in search terms or browse tags for ideas
+								    </li>
+								    <li>
+								       Click 'Go!' to start your search
+								    </li>
+								</ul> 
+				</div>
+    <div id="browse_subtab_section_popular" class="tabbertab tagcloud">
+        <h3>Popular</h3>
+		
+<strong></strong>
+
+
+  
+<span id="tag-cloudlet-id-aDECtaAH8r24EmabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('25 For $25', 'tag-cloudlet-id-aDECtaAH8r24EmabBlKsEs', true);; return false;" title="25 For $25">25 For $25</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-aZL5w0lnCr27TFabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('All you can eat', 'tag-cloudlet-id-aZL5w0lnCr27TFabBlKsEs', true);; return false;" title="All you can eat">All you can eat</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-dQfSg2naCr27D5abBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Bar', 'tag-cloudlet-id-dQfSg2naCr27D5abBlKsEs', true);; return false;" title="Bar">Bar</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-bdDy9ivZSr27DqabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('BBQ', 'tag-cloudlet-id-bdDy9ivZSr27DqabBlKsEs', true);; return false;" title="BBQ">BBQ</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-cNNz40j8ur27t7abBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Beer', 'tag-cloudlet-id-cNNz40j8ur27t7abBlKsEs', true);; return false;" title="Beer">Beer</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-a_FS8kkaKr24GQabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Boba', 'tag-cloudlet-id-a_FS8kkaKr24GQabBlKsEs', true);; return false;" title="Boba">Boba</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-ajUxRgj1Cr24nLabBlKsEs51" style="font-size: 13px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Breakfast', 'tag-cloudlet-id-ajUxRgj1Cr24nLabBlKsEs', true);; return false;" title="Breakfast">Breakfast</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-ck5ipIkair25j4abBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Brewery', 'tag-cloudlet-id-ck5ipIkair25j4abBlKsEs', true);; return false;" title="Brewery">Brewery</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-dzvuhQkaKr24GQabBlKsEs51" style="font-size: 13px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Brunch', 'tag-cloudlet-id-dzvuhQkaKr24GQabBlKsEs', true);; return false;" title="Brunch">Brunch</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-bxakoaloKr27TFabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Buffet', 'tag-cloudlet-id-bxakoaloKr27TFabBlKsEs', true);; return false;" title="Buffet">Buffet</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-aX9WCMjZCr26nDabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Burrito', 'tag-cloudlet-id-aX9WCMjZCr26nDabBlKsEs', true);; return false;" title="Burrito">Burrito</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-dx_0kSm_er27UKabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Byob', 'tag-cloudlet-id-dx_0kSm_er27UKabBlKsEs', true);; return false;" title="Byob">Byob</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-bdvdkmsZSr26JwabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Cafe', 'tag-cloudlet-id-bdvdkmsZSr26JwabBlKsEs', true);; return false;" title="Cafe">Cafe</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-aVHAGwta4r24syabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Cantonese', 'tag-cloudlet-id-aVHAGwta4r24syabBlKsEs', true);; return false;" title="Cantonese">Cantonese</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-aYhlHkjZCr26nDabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Cheap', 'tag-cloudlet-id-aYhlHkjZCr26nDabBlKsEs', true);; return false;" title="Cheap">Cheap</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-dbek2moqSr254-abBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Chinatown', 'tag-cloudlet-id-dbek2moqSr254-abBlKsEs', true);; return false;" title="Chinatown">Chinatown</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-bcSlNspVer2789abBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Chocolate', 'tag-cloudlet-id-bcSlNspVer2789abBlKsEs', true);; return false;" title="Chocolate">Chocolate</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-b7pkxYx2qr27njabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('CMS', 'tag-cloudlet-id-b7pkxYx2qr27njabBlKsEs', true);; return false;" title="CMS">CMS</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-dLKOWik_qr25gbabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Crepes', 'tag-cloudlet-id-dLKOWik_qr25gbabBlKsEs', true);; return false;" title="Crepes">Crepes</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-a_0GIQkaKr24GQabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Crowded', 'tag-cloudlet-id-a_0GIQkaKr24GQabBlKsEs', true);; return false;" title="Crowded">Crowded</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-aJ2Lg0pPar242rabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Delivery', 'tag-cloudlet-id-aJ2Lg0pPar242rabBlKsEs', true);; return false;" title="Delivery">Delivery</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-bm4OD8BPar27uWabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Downtown', 'tag-cloudlet-id-bm4OD8BPar27uWabBlKsEs', true);; return false;" title="Downtown">Downtown</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-bdQAqkj2ar24FeabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Drinks', 'tag-cloudlet-id-bdQAqkj2ar24FeabBlKsEs', true);; return false;" title="Drinks">Drinks</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-afoKOokMer24pwabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Expensive', 'tag-cloudlet-id-afoKOokMer24pwabBlKsEs', true);; return false;" title="Expensive">Expensive</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-cVmCw4o2ur253EabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Fancy', 'tag-cloudlet-id-cVmCw4o2ur253EabBlKsEs', true);; return false;" title="Fancy">Fancy</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-a4lsxKl1Wr25_7abBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Fondue', 'tag-cloudlet-id-a4lsxKl1Wr25_7abBlKsEs', true);; return false;" title="Fondue">Fondue</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-dH341UshCr26ZGabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Free wi-fi', 'tag-cloudlet-id-dH341UshCr26ZGabBlKsEs', true);; return false;" title="Free wi-fi">Free wi-fi</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-d0zkLKj10r24nLabBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Fusion', 'tag-cloudlet-id-d0zkLKj10r24nLabBlKsEs', true);; return false;" title="Fusion">Fusion</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-bcLc-ipVer2789abBlKsEs51" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Gelato', 'tag-cloudlet-id-bcLc-ipVer2789abBlKsEs', true);; return false;" title="Gelato">Gelato</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-cVHsGGjZ0r27PHabBlKsEs51" style="font-size: 13px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Groups', 'tag-cloudlet-id-cVHsGGjZ0r27PHabBlKsEs', true);; return false;" title="Groups">Groups</a>
+
+</span>
+
+
+
+
+
+<script type="text/javascript">
+    var rgcloudletids51 = ['tag-cloudlet-id-aDECtaAH8r24EmabBlKsEs', 'tag-cloudlet-id-aZL5w0lnCr27TFabBlKsEs', 'tag-cloudlet-id-dQfSg2naCr27D5abBlKsEs', 'tag-cloudlet-id-bdDy9ivZSr27DqabBlKsEs', 'tag-cloudlet-id-cNNz40j8ur27t7abBlKsEs', 'tag-cloudlet-id-a_FS8kkaKr24GQabBlKsEs', 'tag-cloudlet-id-ajUxRgj1Cr24nLabBlKsEs', 'tag-cloudlet-id-ck5ipIkair25j4abBlKsEs', 'tag-cloudlet-id-dzvuhQkaKr24GQabBlKsEs', 'tag-cloudlet-id-bxakoaloKr27TFabBlKsEs', 'tag-cloudlet-id-aX9WCMjZCr26nDabBlKsEs', 'tag-cloudlet-id-dx_0kSm_er27UKabBlKsEs', 'tag-cloudlet-id-bdvdkmsZSr26JwabBlKsEs', 'tag-cloudlet-id-aVHAGwta4r24syabBlKsEs', 'tag-cloudlet-id-aYhlHkjZCr26nDabBlKsEs', 'tag-cloudlet-id-dbek2moqSr254-abBlKsEs', 'tag-cloudlet-id-bcSlNspVer2789abBlKsEs', 'tag-cloudlet-id-b7pkxYx2qr27njabBlKsEs', 'tag-cloudlet-id-dLKOWik_qr25gbabBlKsEs', 'tag-cloudlet-id-a_0GIQkaKr24GQabBlKsEs', 'tag-cloudlet-id-aJ2Lg0pPar242rabBlKsEs', 'tag-cloudlet-id-bm4OD8BPar27uWabBlKsEs', 'tag-cloudlet-id-bdQAqkj2ar24FeabBlKsEs', 'tag-cloudlet-id-afoKOokMer24pwabBlKsEs', 'tag-cloudlet-id-cVmCw4o2ur253EabBlKsEs', 'tag-cloudlet-id-a4lsxKl1Wr25_7abBlKsEs', 'tag-cloudlet-id-dH341UshCr26ZGabBlKsEs', 'tag-cloudlet-id-d0zkLKj10r24nLabBlKsEs', 'tag-cloudlet-id-bcLc-ipVer2789abBlKsEs', 'tag-cloudlet-id-cVHsGGjZ0r27PHabBlKsEs'];
+    
+    for (var i = 0; i < rgcloudletids51.length; i++) {
+        tagid = rgcloudletids51[i];
+        modified_tagid = tagid + 51;
+        if (!cloudlet_ids_to_real_ids[tagid]) {
+            cloudlet_ids_to_real_ids[tagid] = []
+        }
+        cloudlet_ids_to_real_ids[tagid].push(modified_tagid);
+        //GLog.write("pushed " + modified_tagid + " onto array at index " + tagid + ": " + cloudlet_ids_to_real_ids[tagid]);
+    }
+    //GLog.write("pushed " + rgcloudletids51.length + " tags into the array with tail " + 51);
+</script>
+	</div>
+    <div id="browse_subtab_section_cuisines" class="tabbertab tabbertabdefault tagcloud">
+        <h3>Cuisines</h3>
+		
+<strong></strong>
+
+
+  
+<span id="tag-cloudlet-id-d-19lAjLar25CmabBlKsEs306" style="font-size: 17px;">
+    
+   
+        <a href="#" onclick="toggle_tag('American', 'tag-cloudlet-id-d-19lAjLar25CmabBlKsEs', true);; return false;" title="American">American</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-abllUgjLer25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Asian', 'tag-cloudlet-id-abllUgjLer25CmabBlKsEs', true);; return false;" title="Asian">Asian</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-d_m1gQjLar25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Bagels', 'tag-cloudlet-id-d_m1gQjLar25CmabBlKsEs', true);; return false;" title="Bagels">Bagels</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-d_pKJqjLar25CmabBlKsEs306" style="font-size: 13px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Bakeries', 'tag-cloudlet-id-d_pKJqjLar25CmabBlKsEs', true);; return false;" title="Bakeries">Bakeries</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-d_svbYjLar25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Barbecue', 'tag-cloudlet-id-d_svbYjLar25CmabBlKsEs', true);; return false;" title="Barbecue">Barbecue</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-abnpVajLer25CmabBlKsEs306" style="font-size: 15px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Chinese', 'tag-cloudlet-id-abnpVajLer25CmabBlKsEs', true);; return false;" title="Chinese">Chinese</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-d_AvfwjLar25CmabBlKsEs306" style="font-size: 13px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Coffeehouse', 'tag-cloudlet-id-d_AvfwjLar25CmabBlKsEs', true);; return false;" title="Coffeehouse">Coffeehouse</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-d_Df5ijLar25CmabBlKsEs306" style="font-size: 16px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Deli', 'tag-cloudlet-id-d_Df5ijLar25CmabBlKsEs', true);; return false;" title="Deli">Deli</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-d--3nWjLar25CmabBlKsEs306" style="font-size: 13px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Desserts', 'tag-cloudlet-id-d--3nWjLar25CmabBlKsEs', true);; return false;" title="Desserts">Desserts</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-d_bN04jLar25CmabBlKsEs306" style="font-size: 13px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Diner', 'tag-cloudlet-id-d_bN04jLar25CmabBlKsEs', true);; return false;" title="Diner">Diner</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-d_H40gjLar25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Donuts', 'tag-cloudlet-id-d_H40gjLar25CmabBlKsEs', true);; return false;" title="Donuts">Donuts</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-d_W_YGjLar25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Family Fare', 'tag-cloudlet-id-d_W_YGjLar25CmabBlKsEs', true);; return false;" title="Family Fare">Family Fare</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-d_2b6sjLar25CmabBlKsEs306" style="font-size: 21px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Fast Food', 'tag-cloudlet-id-d_2b6sjLar25CmabBlKsEs', true);; return false;" title="Fast Food">Fast Food</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-ab4s3CjLer25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('French', 'tag-cloudlet-id-ab4s3CjLer25CmabBlKsEs', true);; return false;" title="French">French</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-d_6kb4jLar25CmabBlKsEs306" style="font-size: 15px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Hamburgers', 'tag-cloudlet-id-d_6kb4jLar25CmabBlKsEs', true);; return false;" title="Hamburgers">Hamburgers</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-aag8QIjLer25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Ice Cream', 'tag-cloudlet-id-aag8QIjLer25CmabBlKsEs', true);; return false;" title="Ice Cream">Ice Cream</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-abAdW4jLer25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Indian', 'tag-cloudlet-id-abAdW4jLer25CmabBlKsEs', true);; return false;" title="Indian">Indian</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-d-5xN4jLar25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('International', 'tag-cloudlet-id-d-5xN4jLar25CmabBlKsEs', true);; return false;" title="International">International</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-acdWRQjLer25CmabBlKsEs306" style="font-size: 14px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Italian', 'tag-cloudlet-id-acdWRQjLer25CmabBlKsEs', true);; return false;" title="Italian">Italian</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-abElWGjLer25CmabBlKsEs306" style="font-size: 13px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Japanese', 'tag-cloudlet-id-abElWGjLer25CmabBlKsEs', true);; return false;" title="Japanese">Japanese</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-aa-LZ0jLer25CmabBlKsEs306" style="font-size: 16px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Mexican', 'tag-cloudlet-id-aa-LZ0jLer25CmabBlKsEs', true);; return false;" title="Mexican">Mexican</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-aayKwKjLer25CmabBlKsEs306" style="font-size: 18px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Pizza', 'tag-cloudlet-id-aayKwKjLer25CmabBlKsEs', true);; return false;" title="Pizza">Pizza</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-aaC79qjLer25CmabBlKsEs306" style="font-size: 13px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Seafood', 'tag-cloudlet-id-aaC79qjLer25CmabBlKsEs', true);; return false;" title="Seafood">Seafood</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-d_eycojLar25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Soul Food', 'tag-cloudlet-id-d_eycojLar25CmabBlKsEs', true);; return false;" title="Soul Food">Soul Food</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-aaE_cEjLer25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Soups', 'tag-cloudlet-id-aaE_cEjLer25CmabBlKsEs', true);; return false;" title="Soups">Soups</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-aaIO66jLer25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Steakhouse', 'tag-cloudlet-id-aaIO66jLer25CmabBlKsEs', true);; return false;" title="Steakhouse">Steakhouse</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-abK0EejLer25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Sushi', 'tag-cloudlet-id-abK0EejLer25CmabBlKsEs', true);; return false;" title="Sushi">Sushi</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-abIWQCjLer25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Thai', 'tag-cloudlet-id-abIWQCjLer25CmabBlKsEs', true);; return false;" title="Thai">Thai</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-aaMWRojLer25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Vegetarian', 'tag-cloudlet-id-aaMWRojLer25CmabBlKsEs', true);; return false;" title="Vegetarian">Vegetarian</a>
+
+</span>
+
+  
+<span id="tag-cloudlet-id-abv8tujLer25CmabBlKsEs306" style="font-size: 12px;">
+    
+   
+        <a href="#" onclick="toggle_tag('Vietnamese', 'tag-cloudlet-id-abv8tujLer25CmabBlKsEs', true);; return false;" title="Vietnamese">Vietnamese</a>
+
+</span>
+
+
+
+
+
+<script type="text/javascript">
+    var rgcloudletids306 = ['tag-cloudlet-id-d-19lAjLar25CmabBlKsEs', 'tag-cloudlet-id-abllUgjLer25CmabBlKsEs', 'tag-cloudlet-id-d_m1gQjLar25CmabBlKsEs', 'tag-cloudlet-id-d_pKJqjLar25CmabBlKsEs', 'tag-cloudlet-id-d_svbYjLar25CmabBlKsEs', 'tag-cloudlet-id-abnpVajLer25CmabBlKsEs', 'tag-cloudlet-id-d_AvfwjLar25CmabBlKsEs', 'tag-cloudlet-id-d_Df5ijLar25CmabBlKsEs', 'tag-cloudlet-id-d--3nWjLar25CmabBlKsEs', 'tag-cloudlet-id-d_bN04jLar25CmabBlKsEs', 'tag-cloudlet-id-d_H40gjLar25CmabBlKsEs', 'tag-cloudlet-id-d_W_YGjLar25CmabBlKsEs', 'tag-cloudlet-id-d_2b6sjLar25CmabBlKsEs', 'tag-cloudlet-id-ab4s3CjLer25CmabBlKsEs', 'tag-cloudlet-id-d_6kb4jLar25CmabBlKsEs', 'tag-cloudlet-id-aag8QIjLer25CmabBlKsEs', 'tag-cloudlet-id-abAdW4jLer25CmabBlKsEs', 'tag-cloudlet-id-d-5xN4jLar25CmabBlKsEs', 'tag-cloudlet-id-acdWRQjLer25CmabBlKsEs', 'tag-cloudlet-id-abElWGjLer25CmabBlKsEs', 'tag-cloudlet-id-aa-LZ0jLer25CmabBlKsEs', 'tag-cloudlet-id-aayKwKjLer25CmabBlKsEs', 'tag-cloudlet-id-aaC79qjLer25CmabBlKsEs', 'tag-cloudlet-id-d_eycojLar25CmabBlKsEs', 'tag-cloudlet-id-aaE_cEjLer25CmabBlKsEs', 'tag-cloudlet-id-aaIO66jLer25CmabBlKsEs', 'tag-cloudlet-id-abK0EejLer25CmabBlKsEs', 'tag-cloudlet-id-abIWQCjLer25CmabBlKsEs', 'tag-cloudlet-id-aaMWRojLer25CmabBlKsEs', 'tag-cloudlet-id-abv8tujLer25CmabBlKsEs'];
+    
+    for (var i = 0; i < rgcloudletids306.length; i++) {
+        tagid = rgcloudletids306[i];
+        modified_tagid = tagid + 306;
+        if (!cloudlet_ids_to_real_ids[tagid]) {
+            cloudlet_ids_to_real_ids[tagid] = []
+        }
+        cloudlet_ids_to_real_ids[tagid].push(modified_tagid);
+        //GLog.write("pushed " + modified_tagid + " onto array at index " + tagid + ": " + cloudlet_ids_to_real_ids[tagid]);
+    }
+    //GLog.write("pushed " + rgcloudletids306.length + " tags into the array with tail " + 306);
+</script>
+	</div>
+	
+
+	
+</div>
+
+<script type="text/javascript">
+    new tabberObj({div:document.getElementById('tag_tabs')});	
+</script>
+
+	</div>
+</div>
+
+
+        </div>  
+        <div id="under-content-header">
+        </div>
+        <div id="content">
+			
+
+
+
+<div id="flash-error-message" style="display:none;">
+
+  
+
+  
+
+  
+
+  
+
+</div>
+			<div class="about-text">
+
+  <p align="right"><b>Effective 
+Date: 9/1/2006</b> <br></p>
+<p><b>Two Bit Operation Privacy 
+Notice</b> <br></p>
+
+<p>This website is owned and operated 
+by Two Bit Operation.  This privacy notice explains what information 
+is collected from those who visit their website, and how that information 
+is used, disclosed, and protected.  This notice applies solely 
+to information collected from this website. <br></p>
+<p><b>What types of information 
+are collected from users?</b> <br></p>
+<ul><p><b>Personally 
+identifiable information:</b>  information that is directly identifiable with 
+a specific person, such as name, address, phone number, email address, location, 
+screenname, network or online activities. <br></p></ul>
+
+<ul><p>Two Bit Operation will 
+not collect information from minors under 13 without parental consent, 
+in accordance with the Child Online Privacy Protection Act.</p></ul>
+<p>
+</p>
+<ul><p><b>Aggregate and non-personal 
+information:  </b> </p></ul>
+<ul><p><b>Cookies:</b>  Like 
+many companies, we use "cookies" on our website. Cookies are 
+bits of text that are placed on your computer's hard drive when you 
+visit certain websites. Cookies may enhance your online experience by 
+saving your preferences while you are visiting a particular site.   <br>
+
+</p></ul>
+<ul><p>When you visit our website, 
+cookies are placed on your computer. We use cookies to tell us, for 
+example, whether you've visited us before or if you're a new visitor 
+and to help us identify site features which you may have the greatest 
+interest. We collect this information to enhance your experience on 
+our website.  We may use cookies in general to collect information 
+to determine how to improve our sites by seeing which areas, features, 
+and products are most popular; to personalize the site and make recommendations 
+based on products you have liked in the past as well as to improve the 
+site experience; and to complete transactions you have requested. Advertisers 
+that serve ads on our Web sites may also use their own cookies.</p></ul>
+<ul><p><b>Javascript:</b>  
+Certain pages on our site contain javascript which allows 
+third parties to obtain information such as the IP address of the computer 
+that downloaded the page on which the javascript appears, 
+the URL of the page on which the javascript appears, 
+the time the page containing the javascript was viewed, 
+the type of browser used to view the page, and the information in cookies 
+set by the third party.</p></ul>
+<ul><p>Two Bit Operation uses 
+third-party advertising companies that utilize javascript 
+to collect certain anonymous information about an Internet user's 
+visit to our Web site. This allows companies to 
+better understand the traffic patterns within their Web sites and recognize 
+visitors generated from online and e-mail advertising campaigns. They 
+also allow advertisers to understand the response patterns in online 
+advertising.</p></ul>
+<p><b>How and when is personally 
+identifiable information collected?</b> <br></p>
+<ul><p>We 
+collect information when you sign up, use, or request information about 
+our services, or otherwise communicate with Two Bit Operation via Internet or other wireless 
+device.  Some information is automatically collected whenever you interact 
+with Two Bit Operation's website, such as IP address and the type 
+of browser you use.  We may also receive information about you from other 
+sources such as credit or marketing information.   <br></p></ul>
+<ul><p>In general, we use "personally 
+identifiable" information to market and provide services, to anticipate 
+and resolve problems with your service, or to create and inform you 
+of services that better meet your needs. For example, by understanding 
+how you use our Web site, we are able to customize and personalize your 
+experience or we may be able to provide information we think will interest 
+you or enable you to conduct transactions more easily. <br>
+
+</p></ul>
+<p><b>How do we use personally 
+identifiable information?</b></p>
+<ul><p>We may use the information 
+you provide to contact you from time to time. For example, we may (i) 
+send you promotional materials and other communications you request, 
+(ii) respond to your comments or questions, or (iii) contact you if 
+needed while processing a product or service you requested through our 
+website. We also may use the information you provide to contact you 
+for your opinions on Two Bit Operation products or the website.</p></ul>
+<ul><p>We also use personally-identifiable 
+information about you to improve our website features and content and 
+to analyze website usage. In addition, we use personally-identifiable 
+information for market research purposes. We also may use personally-identifiable 
+information about you to deliver content that is customized to your 
+interests as we understand them from the information you've provided 
+to us and your activities on the site.</p></ul>
+<ul><p>Your screenname, gravatar 
+(personal icon), and any reviews or comments you submit will also be 
+displayed on your personal profile page, and individual restaurant review 
+pages.  If you include personally-identifiable information in your 
+screenname, gravatar, reviews or comments, or other information displayed 
+on your personal profile page, then you are consenting to allow that 
+information to be displayed on the website.</p></ul>
+<p><b>How do we share personally 
+identifiable information?</b></p>
+<ul><p>Two Bit Operation is NOT 
+in the business of selling personally identifiable information to others 
+and we disclose "personally identifiable" information only 
+in the following ways: </p></ul>
+
+<ul><p><b>With your consent:  </b>
+We may obtain your consent to disclose personally  identifiable information 
+in a number ways, including in writing; verbally; online by clicking 
+a button; through the use of a dialing string or button on a wireless 
+device or handset; or at the time of initiation or use of any service 
+when your consent is part of the required terms and conditions to use 
+the service. Sometimes your consent is implicit. For example, if you 
+purchase a product through our Web site and request that it be shipped 
+to your home, you implicitly consent to our disclosure of your name 
+and address to a third-party shipping company to complete delivery and 
+your charge card number to the bank to collect payment. </p></ul>
+<ul><p><b>Transaction processing:  </b>
+We disclose personally identifiable information to third parties as 
+necessary to complete a transaction or perform a service in our behalf. 
+When the third party acts solely in our behalf, such as a billing service 
+vendor, Two Bit Operation will restrict their use and disclosure of 
+personally identifiable information. That means that such third party, 
+acting solely on our behalf, will not be permitted to disclose "personally 
+identifiable" information to another third party without your consent.  <br>
+ <br>
+Our services may let you 
+take advantage of services and products offered by other companies. 
+In those cases, information about you received by those third parties 
+will be governed by their privacy policies. </p></ul>
+
+<ul><p><b>Business transfers:  </b>
+In the event that Two Bit Operation is involved in a merger, acquisition, 
+insolvency, bankruptcy, or receivership, personally identifiable customer 
+information may be transferred as one of the business assets in the 
+transaction.</p></ul>
+<ul><p><b>Information released 
+in compliance with the law:  </b>
+We release personally identifiable and other account information when 
+we believe release is appropriate to comply with the law (e.g., a lawful 
+subpoena, E-9-1-1 information); to enforce or apply our customer agreements; 
+to initiate, render, bill, and collect for services; or to protect our 
+rights or property, or to protect users of those services and other 
+carriers from fraudulent, abusive, or unlawful use of, or subscription 
+to, such services; or if we reasonably believe that an emergency involving 
+immediate danger of death or serious physical injury to any person requires 
+disclosure of communications or justifies disclosure of records without 
+delay. </p></ul>
+<p><b>How do we protect personally 
+identifiable information?</b> <br></p>
+<ul><p>The security of personally-identifiable 
+information is important to us. We maintain administrative, technical 
+and physical safeguards to protect against unauthorized use, disclosure, 
+alteration or destruction of the personally-identifiable information 
+we collect on this website. <br></p></ul>
+<p><b>How do 
+we share aggregate and non-personal information?</b> <br>
+
+</p>
+<ul><p>We sell aggregate and non-personal 
+information about customer activity and opinions as a market research 
+service to restaurants or any other parties interested in the data.  
+The data will be anonymous, so personally identifiable information will 
+not be included in that research. <br></p></ul>
+<p><b>Updates to this privacy 
+notice:  </b> </p>
+<ul><p>We may change or update portions of this privacy notice at any time. Please 
+review these terms regularly so you are aware of any changes or updates 
+to the notice. We will indicate the notice's effective date on the 
+first page of the notice. <br></p></ul>
+
+
+</div>  
+		</div>
+		<div id="footer">
+			
+    <dl class="cities-footer">
+        <dt>More Cities</dt>
+        
+            <dd><a href="http://www.menuism.com/cities/US/IL/Chicago">Chicago</a></dd>
+        
+            <dd><a href="http://www.menuism.com/cities/US/NY/New+York">New York</a></dd>
+        
+            <dd><a href="http://www.menuism.com/cities/US/PA/Philadelphia">Philly</a></dd>
+        
+            <dd><a href="http://www.menuism.com/cities/US/CA/San+Diego">San Diego</a></dd>
+        
+    </dl>
+    <dl class="cities-footer">
+        <dt>&nbsp;</dt>
+        
+            <dd><a href="http://www.menuism.com/cities/US/CA/San+Francisco">San Francisco</a></dd>
+        
+            <dd><a href="http://www.menuism.com/cities/US/WA/Seattle">Seattle</a></dd>
+        
+            <dd><a href="http://www.menuism.com/cities/US/CA/Cupertino">Silicon Valley</a></dd>
+        
+        <dd><a href="/city/random_city" title="Click to view a random city!">RaNdOM</a></dd>    
+    </dl>
+    <dl>
+        <dt>
+            Site Links
+        </dt>
+	    <dd>
+    		<a href="/">Home</a>
+	    </dd>
+	    <dd>
+			<a href="/users">Top Users</a>
+   		</dd>
+	    <dd>
+			<a href="http://www.menuism.com/reviews">Reviews</a>&nbsp;/&nbsp;<a href="/ratewhatyouate" rel="nofollow" target="_top" title="Rate what you ate!">Write!</a>
+   		</dd>
+	    <dd>
+			<a href="/restaurant/add_restaurant">Add Restaurant</a>
+   		</dd>
+    </dl>
+    <dl>
+        <dt>About</dt>
+   		<dd>
+   		   <a href="/about">About</a>&nbsp;/&nbsp;<a href="/about/contact">Contact</a>
+   		</dd>
+   		<dd>
+   		   <a href="/about/privacy">Privacy</a>
+   		</dd>   		
+        <dd><a href="/about/legal">Terms of Use</a></dd>
+   		<dd>
+   		   <a href="/about/faq">FAQ</a>&nbsp;/&nbsp;<a href="http://blog.menuism.com">Blog</a>
+   		</dd>
+	</dl>
+    <dl style="position:relative">
+        <dt>Spread the Word!</dt>
+        <dd>
+                <a href="/about/shop" title="Buy a shirt!">Buy a shirt!</a>
+                <a href="/about/shop" style="position:absolute; right:-45px;top:5px;" title="Buy a shirt!"><img alt="Menuism_shirt_thumbnail" src="/images/menuism_shirt_thumbnail.gif?1164700840?1164700840"></a>
+        </dd>
+        <dd>
+            <a href="/shared">Blog badge and widgets!</a>
+        </dd>
+        <dd>
+            <a href="/shared"><img alt="Menuism_80_15_badge" src="/images/menuism_80_15_badge.png?1164700840?1164700840" style="vertical-align:bottom" title="Download and add this badge to your website"></a>
+        </dd>
+    </dl>
+<p style="text-align:center;clear:both;padding-top:10px;">
+        © 2006 <a href="http://www.twobitoperation.com">Two-Bit Operation LLC</a>&nbsp;
+<!--
+        <a href="http://www.shareasale.com/r.cfm?B=69506&U=189445&M=10198"><img src="/images/80x15-TextDrive.png" size="80x15" style="vertical-align:middle;"/></a>
+        &nbsp;-->
+        <span style="vertical-align:middle;">
+            
+
+<span class="bookmarking_line">
+<span class="bookmarking_item">
+    <a rel="nofollow" class="bookmarking_link" href="http://del.icio.us/post?url=http://www.menuism.com/about/privacy&amp;title=Privacy" title="del.icio.us:Add Menuism">
+        <img src="/images/bookmarking/delicious.png" class="bookmarking_icon" alt="del.icio.us:Add Menuism">
+    </a>
+</span>
+<span class="bookmarking_item">
+    <a rel="nofollow" class="bookmarking_link" href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.menuism.com/about/privacy&amp;t=Privacy" title="Y!:Add Menuism">
+        <img src="/images/bookmarking/yahoo.png" class="bookmarking_icon" alt="Y!:Add Menuism">
+    </a>
+</span>
+<span class="bookmarking_item">
+    <a rel="nofollow" class="bookmarking_link" href="http://ma.gnolia.com/bookmarklet/add?url=http://www.menuism.com/about/privacy&amp;title=Privacy" title="magnolia:Add Menuism">
+        <img src="/images/bookmarking/magnolia.png" class="bookmarking_icon" alt="magnolia:Add Menuism">
+    </a>
+</span>
+
+        <script>
+        function fbs_click() {
+        u=location.href;
+        t=document.title;
+        window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
+        return false;
+        }
+    </script>
+    <a href="http://www.facebook.com/share.php?u=http://www.menuism.com/about/privacy" onclick="return fbs_click()" target="_blank" title="facebook:Add Menuism">
+        <img src="/images/bookmarking/facebook.gif" class="bookmarking_icon" alt="facebook:Add Menuism">
+    </a>
+
+</span>
+
+        </span>
+        &nbsp;
+        
+            <!-- Site Meter -->
+<script type="text/javascript" src="http://s26.sitemeter.com/js/counter.js?site=s26menuism">
+</script>
+<noscript>
+<a href="http://s26.sitemeter.com/stats.asp?site=s26menuism" target="_top">
+<img src="http://s26.sitemeter.com/meter.asp?site=s26menuism" alt="Site Meter" border="0"/></a>
+</noscript>
+<!-- Copyright (c)2006 Site Meter -->    
+        
+</p>
+		</div>  
+	</div>
+</div>
+
+
+
+    	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+		_uacct = "UA-283904-2";
+		urchinTracker();
+	</script>
+
+
+
+
+
+</body></html>
