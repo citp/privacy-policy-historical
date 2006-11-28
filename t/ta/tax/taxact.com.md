@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the taxact.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619075322id_/http%3A//www.taxact.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxact.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128131241id_/http%3A//www.taxact.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # TaxACT Privacy Policy Statement
+
+| 
 
 **www.taxact.com** is the web site of **2nd Story Software, Inc.**
 
@@ -107,3 +109,12 @@ If, however, we are going to use users' personally identifiable information (inc
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
 _Last Updated: December 22, 2005_
+
+| 
+
+| 
+
+**Your information is Private & Secure**
+
+|   
+---|---
