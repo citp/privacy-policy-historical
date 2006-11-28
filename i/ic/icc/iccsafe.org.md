@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccsafe.org privacy policy that was archived on 2006-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060417192545id_/http%3A//www.iccsafe.org/help/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccsafe.org privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128024306id_/http%3A//www.iccsafe.org/help/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # ICC Online | Help
 
@@ -99,9 +99,10 @@ Contact ICC
 \- [Board of Dir.  
 ](https://web.archive.org/news/about/bod.html)\- [District offices](https://web.archive.org/help/contact1.html)  
 \- [Field Offices](https://web.archive.org/help/contact2.html)  
-\- [Headquarters  
-](https://web.archive.org/help/contact1.html)\- [Quick Contacts](https://web.archive.org/help/contact.html)  
+\- [Headquarters](https://web.archive.org/help/contact1.html)  
+\- [Quick Contacts](https://web.archive.org/help/contact.html)  
 \- [Senior Staff](https://web.archive.org/help/contact1.html#staff)  
+\- [Staff Liaisons](https://web.archive.org/membership/contact_map.html)  
 \- [Subsidiaries](https://web.archive.org/help/contact1.html#subsidiaries)
 
   
@@ -109,6 +110,6 @@ Contact ICC
 
 [Find a Government Relations representative in your area](https://web.archive.org/government/contact-GR.html)
 
-[](https://web.archive.org/cgi-bin/bpgo.pl?to=516&from=%2Fhelp%2FPrivacyPolicy.html&set=ruleset)
+[](https://web.archive.org/cgi-bin/bpgo.pl?to=514&from=%2Fhelp%2FPrivacyPolicy.html&set=ruleset)
 
 | 
