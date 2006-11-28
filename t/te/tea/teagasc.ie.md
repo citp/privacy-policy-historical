@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teagasc.ie privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618130923id_/http%3A//www.teagasc.ie/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teagasc.ie privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128175306id_/http%3A//www.teagasc.ie/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # Teagasc - Privacy Statement
 
