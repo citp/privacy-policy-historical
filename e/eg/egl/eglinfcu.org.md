@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2006-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060630024647id_/http%3A//eglinfcu.org/disclosures.asp%3Fdis%3D14%26nav%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128032846id_/http%3A//www.eglinfcu.org/disclosures.asp%3Fdis%3D14%26nav%3D1) for the most accurate reproduction.*
 
 # Eglin Federal Credit Union
 
@@ -21,7 +21,7 @@ We are committed to taking reasonable steps to protect the privacy of EFCU membe
 
 This statement updates and replaces any other notices about our privacy policy. 
 
-If you have any questions about our commitment to your privacy, please contact our [compliance officer](mailto:securityandcompliance@eglinfcu.org). 
+If you have any questions about our commitment to your privacy, please contact our [compliance officer](https://www.eglinfcu.org/hbhtml/SecureMail/secureMail.asp?m=11). 
 
 Eglin Federal Credit Union  
 838 Eglin Pkwy NE   
@@ -31,4 +31,4 @@ www.eglinfcu.org
 1-800-367-6159  
 Member Services Ext. 1402
 
-[Back](https://web.archive.org/web/20060630024647id_/http%3A//eglinfcu.org/disclosures.asp?dis=1.1&nav=2)
+[Back](https://web.archive.org/web/20061128032846id_/http%3A//www.eglinfcu.org/disclosures.asp?dis=1.1&nav=2)
