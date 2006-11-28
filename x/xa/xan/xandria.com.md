@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xandria.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315081614id_/http%3A//xandria.com/info/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xandria.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128050255id_/http%3A//www.xandria.com/info/privacy/default.asp) for the most accurate reproduction.*
 
-# Adult Sex Toys, Vibrators, Dildos - Xandria Collection
+# Privacy Policy - Xandria Collection
 
 Your privacy is of the utmost importance to us. We, therefore, feel you should fully understand the terms and conditions surrounding the capture and use of information on our website. This privacy statement discloses what information we gather, how we use it, and how to correct or change it. 
 
@@ -19,7 +19,7 @@ Contact Information
 **Information You Provide Directly To Us...**
 
 **...via Order Form**  
-To process your order, we require your name, billing address, phone number, email address (If you want to receive and e-mail confirmation of your order), shipping address and credit card information. We use this information to process your order and, if any questions should arise, to contact you about your order. In general, we will try to contact you first by email and only if that fails, or if time is critical, will we try to contact you by phone. We share this information, and only that information which is absolutely necessary, with those third parties that are involved in the processing of your order. For example, the financial institution that issued your credit card and the shipping carrier that delivers your order. If you supply us with your postal address in this manner, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please follow our opt-out instructions. 
+To process your order, we require your name, billing address, phone number, email address (If you want to receive and e-mail confirmation of your order), shipping address and credit card information. We use this information to process your order and, if any questions should arise, to contact you about your order. In general, we will try to contact you first by email and only if that fails, or if time is critical, will we try to contact you by phone. We share this information, and only that information which is absolutely necessary, with those third parties that are involved in the processing of your order. For example, the financial institution that issued your credit card and the shipping carrier that delivers your order. If you supply us with your postal address in this manner, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, place the text **DO NOT MAIL** in the comment section of the billing page. If you have previously placed an order and do not wish to receive any mailing, please follow our opt-out instructions. 
 
 **...via Email**  
 Should you decide to contact us via email, we will use your email address solely to send you a reply. 
@@ -57,14 +57,17 @@ Under the Fair Credit Billing Act, your bank cannot hold you liable for more tha
 We may include links to other sites and if you decide to follow those links, we can't be responsible for the privacy policies and content of those sites. Generally, we will let you know when a link goes to another site. **Order information:**   
 To make any changes to your order, please contact us via email or phone and we will be happy to assist you. 
 
-**Newsletter subscription:**  
-To subscribe or unsubscribe from our newsletter, or change your email address, please visit the [Newsletter](https://web.archive.org/talk/newsletterinfo.asp) subscription page and use the available online forms. You may also unsubscribe via email by following the instructions printed at the bottom of every newsletter. 
+**Email Subscriptions:**  
+To subscribe or unsubscribe from our newsletter or promotional emails, please visit the [Email Subscription](https://web.archive.org/info/email.asp) page and use the available online forms. You may also unsubscribe via email by following the instructions printed at the bottom of every email. 
 
 **Newsletter subscription:**  
-To unsubscribe from our newsletter, please visit the [Newsletter](https://web.archive.org/talk/newsletterinfo.asp) subscription page and use the available online forms. You may also unsubscribe via email by following the instructions printed at the bottom of every newsletter. 
+To unsubscribe from our newsletter via email, please follow the instructions printed at the bottom of every newsletter. You may also unsubscribe online by using our [Unsubscribe](https://web.archive.org/info/unsubscribe.asp) page. 
 
-**Promotional E-Mail:**   
-To unsubscribe from our promotional e-mail list, please follow the instructions printed at the bottom of each e-mail. 
+**Promotional E-Mail Lists:**   
+To unsubscribe from our promotional e-mail lists via email, please follow the instructions printed at the bottom of each e-mail. You may also unsubscribe online by using our [Unsubscribe](https://web.archive.org/info/unsubscribe.asp) page. 
+
+**Catalog:**   
+To remove your address from our mailing list, please send an email to [remove@xandria.com](mailto:remove@xandria.com) with your name and address. If you would like a confirmation that we have processed your request, your must explicitly ask for the confirmation in your email. Please understand that due to the lead time involved with these mailings, it is possible to receive an additional mailing after you have submitted your request. 
 
 **Affiliates**  
 Affiliates are other websites that have agreed to place a Xandria link or ad on their site in return for percentage-based compensation for all orders that originate from their site. 
@@ -83,17 +86,12 @@ A method by which information transmitted across the Internet is scrambled to th
 
 In compliance with the Federal Labeling and Record-Keeping Law (also known as 18 U.S.C. 2257), all models located within our domain were 18 years of age or older during the time of photography. All content and images are in full compliance with the requirements of 18 U.S.C. 2257 and associated regulations. If you have any questions about this privacy statement, the practices of this site, wish to have information about you deleted, opt-out of mailings, or want to place an order via a method other than the Internet, you can contact us at: 
 
-Xandria.com  
 Lawrence Research Group  
-P.O. Box 319005  
-San Francisco, CA 94131 
+5375 Procyon St, Suite 102  
+Las Vegas, NV 89118 
 
 Email: [info@xandria.com](mailto:info@xandria.com)  
 Phone: 800-242-2823  
-Fax: 415-468-3912 
+Fax: 702-895-6629 
 
-Copyright 2000 Lawrence Research Group 
-
-For extreme privacy on your desktop computer, Xandria Recommends [Privacy View!](http://www.privacyview.com/product_overview.aspx?a_id=1040)
-
-[](http://www.privacyview.com/product_overview.aspx?a_id=1040)
+Copyright 2006 Lawrence Research Group 
