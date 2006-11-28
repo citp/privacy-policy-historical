@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paybycash.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622034959id_/http%3A//paybycash.com/customer/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paybycash.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129002758id_/http%3A//paybycash.com/customer/privacy.php) for the most accurate reproduction.*
 
 # PayByCash™
 
-[Last updated on February 8, 2005]
+[Last updated on September 22, 2006]
 
 [](http://www.truste.org/ivalidate.php?url=www.paybycash.com&sealid=101)
 
@@ -45,9 +45,13 @@ We request information from the user on our order form. A user must provide cont
 The information provided to us by the user is used only to secure that user's account on the content provider's (e.g., subscription online game) site that user is using PayByCash™ to subscribe to. The information is used only to ensure we can collect payment from the customer, and to contact the customer in the event there is a problem with their account, or to respond to customer inquiries. 
 
 **Cookies**  
-A cookie is a piece of data stored on the user’s computer tied to information about the user. PayByCash.com does set session cookies on your computer. These session cookies only hold data while you are actively using our site and expire once you leave our web site or when you close your browser. We do not tie Personally Identifiable Information (PII) to session cookies. PayByCash does not set persistent cookies on your computer. PayByCash.com does not work with third party advertisers who will set a cookie on your computer. 
+A cookie is a piece of data stored on the user’s computer tied to information about the user. PayByCash.com uses cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
-**Profile**  
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+
+We set a persistent cookie to enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but your some of your preferences may not be maintained from one visit to the next.
+
+******Profile**  
 We do not store information collected through third parties to create a profile of our users. A "profile" is stored information kept on individual users that details their viewing preferences. PayByCash.com does not use persistent cookies nor in any way store information on the user's computer that could be used to build a customer profile. Internet Payment Solutions, Inc., uses log files only to track web site usage. These log files do not contain information that is tied to unique users or their use of our site. 
 
 **Third Party Advertising**  
@@ -125,4 +129,4 @@ AStec Center
 Charlottesville, VA 22902  
 USA 
 
-Via contact information found on our Web site at: [http://www.paybycash.com/company/contact_us.php](https://web.archive.org/web/20060622034959id_/http%3A//paybycash.com/company/contact_us.php)
+Via contact information found on our Web site at: [http://www.paybycash.com/company/contact_us.php](https://web.archive.org/web/20061129002758id_/http%3A//paybycash.com/company/contact_us.php)
