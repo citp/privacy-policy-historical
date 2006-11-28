@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primelocation.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615231139id_/http%3A//primelocation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primelocation.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128123318id_/http%3A//www.primelocation.com/privacy-policy) for the most accurate reproduction.*
 
 # Primelocation
 
