@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020020id_/http%3A//techsmith.com/company/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128035527id_/http%3A//www.techsmith.com/company/privacy_policy.asp) for the most accurate reproduction.*
 
 # TechSmith Corporation - Privacy Policy
 
@@ -49,9 +49,9 @@ Membership into our forums is voluntary. When you provide your username, passwor
 
 * * *
 
-### **Mailing List**
+### **Newsletters**
 
-Subscription to the mailing list is voluntary. By providing your e-mail address, you are agreeing that TechSmith can send you important information about our products, including announcements of new releases. You may update your e-mail address or unsubscribe via Web form at any time at [http://www.techsmith.com/mail/update.asp](https://web.archive.org/community/subscription.asp).
+Subscription to a TechSmith newsletter is voluntary. By providing your e-mail address, you are agreeing that TechSmith can send you important information about our products, including announcements of new releases. You may update your e-mail address or unsubscribe via Web form at any time at [http://www.techsmith.com/community/subscription.asp](https://web.archive.org/community/subscription.asp).
 
 * * *
 
