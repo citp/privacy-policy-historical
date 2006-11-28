@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usac.org privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616191941id_/http%3A//www.universalservice.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usac.org privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128154031id_/http%3A//www.usac.org/privacy.aspx) for the most accurate reproduction.*
 
 # USAC Privacy Policy - USAC
 
@@ -8,7 +8,7 @@
 
 USAC is a private, not for profit organization that administers the universal service support mechanisms under the authorization and oversight of the Federal Communications Commission (FCC). Members of the public may visit USAC's web site without identifying themselves or providing any individual information. However, many users choose to provide additional information to USAC electronically - most notably by filing certain forms or other data online. USAC makes public certain information received from those individual entities. For example, in administering the Rural Health Care and Schools and Libraries Universal Service Support Mechanisms, USAC regularly posts on its web site requests for services on behalf of schools, libraries, and rural health care providers to assist them in complying with the mechanisms' competitive bidding requirements. In addition, USAC posts a list of funding commitments to schools, libraries, and rural health care providers by individual applicants. USAC encourages visitors to its web site to use the information posted for its intended purposes; however, applicants should be aware that there is no guarantee that visitors to USAC's web site will do so. 
 
-USAC does not sell any of the information it receives from participants in the universal service support mechanisms or use any such information for marketing or sales purposes (other than posting requests for services for competitive bidding purposes, as described above). USAC uses information it receives solely for purposes of administering the universal service support mechanisms. In addition, USAC may disclose such information to the FCC (pursuant to 47 C.F.R. § 54.702(l)) or other authorized parties including pursuant to inquiries received under applicable law.
+USAC uses information it receives solely for purposes of administering the Universal Service Fund and the universal service support mechanisms. In addition, USAC may disclose information to the FCC pursuant to 47 C.F.R. § 54.702(j) or other authorized parties including pursuant to inquiries received under applicable law.
 
 ### Freedom of Information Act Requests
 
