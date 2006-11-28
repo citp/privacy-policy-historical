@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223528id_/http%3A//www.visitflorida.com/cms/index.php/id%3D622) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128223600id_/http%3A//www.visitflorida.com/cms/d/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-**You are here:**   [Home](https://web.archive.org/) / [Tools](https://web.archive.org/cms/index.php/id=617) / Privacy Policy
+**You are here:**   [Home](https://web.archive.org/) / [Tools](https://web.archive.org/cms/d/tools.php) / Privacy Policy
 
 Privacy Policy  
 
