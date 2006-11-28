@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivisimo.com privacy policy that was archived on 2006-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060520032944id_/http%3A//vivisimo.com/html/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivisimo.com privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128191235id_/http%3A//vivisimo.com/html/privacy) for the most accurate reproduction.*
 
 # Vivísimo // Vivísimo, Inc. Web Search Services Privacy Policy
 
@@ -40,4 +40,4 @@ If you have any comments or questions about your privacy, please contact us at [
 
 ### Copyright and Trademark
 
-All contents of this Web site are: Copyright (c) 2000 - 2006 Vivísimo, Inc. All rights reserved. The Vivísimo and Clusty marks that appear throughout the Vivísimo Web Search Services belong to Vivísimo, Inc. and are protected by trademark laws. To seek permission to use any of the Vivísimo marks, please contact us at [clusty@vivisimo.com](mailto:clusty@vivisimo.com).
+All contents of this Web site are: Copyright (c) Vivísimo, Inc. All rights reserved. The Vivísimo and Clusty marks that appear throughout the Vivísimo Web Search Services belong to Vivísimo, Inc. and are protected by trademark laws. To seek permission to use any of the Vivísimo marks, please contact us at [clusty@vivisimo.com](mailto:clusty@vivisimo.com).
