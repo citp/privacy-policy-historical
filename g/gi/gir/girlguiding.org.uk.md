@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the girlguiding.org.uk privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616152621id_/http%3A//www.girlguiding.org.uk/xq/asp/sID.135/qx/new/about/article.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlguiding.org.uk privacy policy that was archived on 2006-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061128062446id_/http%3A//www.girlguiding.org.uk/xq/asp/sID.135/qx/whoweare/article.asp) for the most accurate reproduction.*
 
-# Girlguiding UK - About Us - Our Privacy Policy
+# Girlguiding UK - Who we are - Our Privacy Policy
 
 ##### Introduction
 
@@ -10,7 +10,7 @@ Girlguiding UK is committed to protecting your privacy. This policy details the 
 
 We collect some basic information from you in order to improve your browsing experience here at the Girlguiding UK website. With the exception of the provisions set out in this policy statement, we will not release any personal information to a third party under any circumstances unless expressly authorised to do so by you, or if we are obliged to do so by law.
 
-All information will be dealt with in accordance with the Data Protection Act 1998 and we will always aim to meet current Internet best practices. To find out more about Data Protection, please read our [Data Protection Policy](https://web.archive.org/xq/asp/sID.358/aID.803/qx/new/about/article.asp) .
+All information will be dealt with in accordance with the Data Protection Act 1998 and we will always aim to meet current Internet best practices. To find out more about Data Protection, please read our [Data Protection Policy](https://web.archive.org/xq/asp/sID.358/aID.803/qx/whoweare/article.asp) .
 
 ##### The information we collect from you
 
@@ -34,15 +34,17 @@ If you register with us, you also provide us with the following personal informa
 
 
 
-We collect this information in order to identify you on any subsequent visit to the Girlguiding UK website and to allow us to notify you of any important service announcements or significant website updates. If you do not wish to receive any such contact from us, you can choose not to by editing your personal details on the [My Personal Details](https://web.archive.org/new/members/editDetails.asp) page. 
+We collect this information in order to identify you on any subsequent visit to the Girlguiding UK website and to allow us to notify you of any important service announcements or significant website updates. If you do not wish to receive any such contact from us, you can choose not to by editing your personal details on the [My Personal Details](https://web.archive.org/members/editDetails.asp) page. 
 
-If you take part in our online [forum pilot](https://web.archive.org/forum) between 1 September and 31 October 2005 you will additionally need to provide us with the following personal information so that we may match your details to our offline Adult Membership Database (AMD):
+If you are an active member of Girlguiding UK you will be able to access our secure members area. To do this, you will need to upgrade your account by providing us with the following personal information:
 
   * Registration number 
-  * Home address and postcode 
-  * Contact telephone, fax and email details 
+  * Postcode 
+  * Date of birth 
 
 
+
+This will enable us to match your details to our offline Adult Membership Database (AMD).
 
 If you apply for more details of Guiding activities in your area, we will also request the following information in order to locate your nearest Girlguiding UK representatives: 
 
@@ -115,7 +117,7 @@ Any person found to be using credit cards fraudulently on this website will be p
 
 ##### Viewing your personal information
 
-You can view, edit or remove this personal information at any time by [logging into the Girlguiding UK website](https://web.archive.org/new/members/login.asp) and clicking on [My Personal Details](https://web.archive.org/new/members/editDetails.asp) link on the left-hand-side of the page.
+You can view, edit or remove this personal information at any time by [logging into the Girlguiding UK website](https://web.archive.org/members/login.asp) and clicking on [My Personal Details](https://web.archive.org/members/editDetails.asp) link on the left-hand-side of the page.
 
 You also have the legal right to request a copy of the information we hold about you, and to have any inaccuracies corrected, by submitting a written request to: 
 
@@ -134,9 +136,9 @@ Any cookie we store on your computer is set to expire three months after your la
 
 ##### Our contact with you
 
-When you register with us, you are given the option to subscribe to one or all of our email newsletters via the [My Subscriptions](https://web.archive.org/new/members/subscriptions.asp) page.
+When you register with us, you are given the option to subscribe to one or all of our email newsletters via the [My Subscriptions](https://web.archive.org/members/myaccount/default.asp#mysubs) page.
 
-If you would rather not receive any such contact from us, you can [log in to the website](https://web.archive.org/new/members/login.asp) and edit your preferences by clicking on [My Subscriptions](https://web.archive.org/new/members/subscriptions.asp) link on the left-hand-side of the page. You can also achieve this by following the unsubscribe instructions on any email newsletter you receive from us. 
+If you would rather not receive any such contact from us, you can [log in to the website](https://web.archive.org/members/login.asp) and edit your preferences by clicking on [My Subscriptions](https://web.archive.org/members/myaccount/default.asp#mysubs) link on the left-hand-side of the page. You can also achieve this by following the unsubscribe instructions on any email newsletter you receive from us. 
 
 ##### Contacting Us
 
@@ -147,7 +149,7 @@ Girlguiding UK,
 17-19 Buckingham Palace Road,  
 London SW1W 0PT. 
 
-Alternatively you can email the Web Manager at [website@girlguiding.org.uk](mailto:website@girlguiding.org.uk) or telephone +44 207 592 1820. 
+Alternatively you can email the Web Manager at [web@girlguiding.org.uk](mailto:web@girlguiding.org.uk) or telephone +44 207 592 1820. 
 
 ##### Your consent
 
@@ -155,11 +157,11 @@ By using the Girlguiding UK website you consent to the provisions detailed in th
 
 ##### Disclaimer
 
-We cannot be responsible for any information you disclose in public community areas of the Girlguiding UK website or those that are listed in our [Website Directory](https://web.archive.org/new/members/websitedirectory.asp). This can be viewed or collected by any third party and you should always be wary of publishing any personal information in public community areas.
+We cannot be responsible for any information you disclose in public community areas of the Girlguiding UK website or those that are listed in our [Website Directory](https://web.archive.org/members/websitedirectory.asp). This can be viewed or collected by any third party and you should always be wary of publishing any personal information in public community areas.
 
-We also encourage you to read the privacy policy of any websites listed in our [Website Directory](https://web.archive.org/new/members/websitedirectory.asp) that you choose to visit so you may understand what information is collected from you and for what purpose.
+We also encourage you to read the privacy policy of any websites listed in our [Website Directory](https://web.archive.org/members/websitedirectory.asp) that you choose to visit so you may understand what information is collected from you and for what purpose.
 
-Girlguiding UK cannot be held responsible for the policies of any third party website listed in our [Website Directory](https://web.archive.org/new/members/websitedirectory.asp) and you access these websites at your own risk. 
+Girlguiding UK cannot be held responsible for the policies of any third party website listed in our [Website Directory](https://web.archive.org/members/websitedirectory.asp) and you access these websites at your own risk. 
 
 ##### Changes to this privacy policy
 
@@ -167,8 +169,13 @@ We reserve the right to amend this policy at any time in response to your feedba
 
 If you have registered with us and checked the box 'May we contact you', you will receive an email detailing any changes to this policy when they happen. Regardless of whether you are registered, we encourage you to review this policy periodically to ensure you are aware of the information we collect from you.
 
- **This policy was last updated 25 August 2005.**
-
-© The Guide Association,  
+© The Girlguiding UK,  
 17-19 Buckingham Palace Road,  
 London SW1W 0PT
+
+  
+
+
+Was this article helpful to you? 
+
+Report errors on this page.
