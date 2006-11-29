@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615213433id_/http%3A//physioroom.com/shop/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129064805id_/http%3A//physioroom.com/shop/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | PhysioRoom.com: Sports Injury Shop, News & Advice
 
 | 
 
+[](https://web.archive.org/shop/index.php?main_page=shop_help#delivery)
+
   
-[](https://web.archive.org/fantasyleague/thegame.php)
+
 
 |  | Our Privacy Policy  
 ---  
@@ -21,7 +23,7 @@ Information submitted via the Ask the Experts section will be regarded as confid
 When you do provide us with personal data, we may use that information in the following ways, unless stated otherwise:  
 \- we may store and process that information to better understand your needs and how we can improve our products and services;  
 \- we (or a fulfillment house or other third party on our behalf in connection with a promotion) may use that information to contact you;  
-\- information submitted via the PhysioRoom.com shop may be passed to Ultra Truflow Limited for the purpose of order fulfillment;  
+\- information submitted via the PhysioRoom.com shop may be passed to Trueshopping Limited for the purpose of order fulfillment;  
 \- and/or we may provide other third parties with summary, but not individual, information about visitors to our site.
 
 We do not now and do not intend to sell, rent or market personal data about you to third parties unless you have given us permission to do so (e.g. by checking the appropriate box when submitting a form to us).
@@ -43,7 +45,7 @@ When you view our Website, we may store some information on your computer in the
 | Secure Shopping  
 ---  
   
-We use 128 bit encryption technology to keep your order and payment details safe.  
+We use full 128-bit encryption technology to keep your order and payment details safe.  
   
   | © Copyright PhysioRoom.com 2001-2006. All rights reserved. |    
 ---|---|---  
