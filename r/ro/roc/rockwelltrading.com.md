@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618120147id_/http%3A//www.rockwelltrading.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129021122id_/http%3A//www.rockwelltrading.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Futures Trading Systems - How to start trading successfully with e-mini trading systems.
 
@@ -12,7 +12,7 @@ We will not distribute personal information to advertisers, sponsors or vendors.
 
 We will give you the opportunity to update information you provide to us to ensure that it is accurate and reflects your continued interest in the services provided by Rockwell Trading, Inc. This information assures that we provide up-to-date, appropriate, high-quality information to you.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at [ info@rockwelltrading.com](mailto:info@rockwelltrading.com=unsubscribe).
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at [ support@rockwelltrading.com](mailto:support@rockwelltrading.com=unsubscribe).
 
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
