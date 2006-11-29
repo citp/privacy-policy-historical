@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edfinancial.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014508id_/http%3A//www.edfinancial.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfinancial.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129204530id_/http%3A//www.edfinancial.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Edfinancial
 
@@ -95,4 +95,4 @@ Knoxville, TN 37922
   
 ---  
   
-all rights reserved © 2003-2004
+all rights reserved © 2006
