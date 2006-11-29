@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202530id_/http%3A//www.hollywood.com/about_us/info/id/468709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showtimes.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129083629id_/http%3A//www.hollywood.com/about_us/info/id/468709) for the most accurate reproduction.*
 
 # Privacy Statement for Hollywood.com :: Hollywood.com
 
