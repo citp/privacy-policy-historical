@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2006-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060323163934id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129100201id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
 
 # gantthead.com Privacy Policy
 
@@ -121,29 +121,22 @@ Last updated July 11, 2005.
 |  | sponsored announcements and special offers |   
 | 
 
-**More than 60% of software projects in the U.S. fail, and poor requirements is one of the top 5 reasons.** Are your projects at risk? MKS offers you a truly unique solution. Download your free white paper: **[An Innovative Approach to Managing Software Requirements](http://www.gantthead.com/redirect/clickCount.cfm?ID=228567)**
+**Looking for integrated IT process management? Following CMMI or ITIL?** Learn how to bridge these process methodologies, delivering them as one IT application process under one application management framework. **[Free MKS white paper: "It's All About Process"](http://www.gantthead.com/redirect/clickCount.cfm?ID=233631)**
 
-**[Download a FREE Trial](http://www.gantthead.com/redirect/clickCount.cfm?ID=228960)** \- **Just Released: W E B T I M E S H E E T 6.5** a simple intuitive tool to:  
-\- Organize and track activities, resources, time and expenses  
-\- Track Estimates Vs. Actuals  
+**Attention gantthead readers: Web TimeSheet 7.1 JUST RELEASED!**  
+A simple intuitive tool to:  
+\- Organize and track activities, resources, time, expenses and projects  
+\- Track estimates vs. actuals  
 \- Track project costs against your budget  
+\- Full integration with MS Project  
+Be one of the first to **[DOWNLOAD a FREE TRIAL](http://www.gantthead.com/redirect/clickCount.cfm?ID=230622)**. 
 
-
-**Realizing Enterprise Architecture - A proven method for getting started** Join us for this exclusive Webcast to learn how you can realize the benefits of an Enterprise Architecture, quickly and easily.  
-April 6, 2006 – 11:00 am EST  
-**[Click here to register now](http://www.gantthead.com/redirect/clickCount.cfm?ID=230171)**
-
-**Read the new **[IDC white paper](http://www.gantthead.com/redirect/clickCount.cfm?ID=229816)** , compliments of Borland, on Project Portfolio and Application Life-Cycle Management.** This is a must read for IT leaders tackling the strategic and operational challenges of IT business alignment, off-shoring, outsourcing and regulatory compliance. 
-
-**Keep Projects On-Time and On-Budget with Intuit's QuickBase.** Get up and running fast. **[Free, 30-day Trial](http://www.gantthead.com/redirect/clickCount.cfm?ID=229932)**  
--Manage projects your way with a flexible, Web-based tool.  
--Spend less time consolidating files and info.  
--Take action with automated notifications.  
-
+**eProject PPM6 - Market's Newest & Most Complete Web-Based Project Management Solution**  
+**_Find out why customers are raving!_** Over 100 new features -- _everything_ you need to select, staff and manage projects across your various user-roles, departments and workgroups. **[Request a Free Demo Today!](http://www.gantthead.com/redirect/clickCount.cfm?ID=234035)**
 
 |   
 ---|---|---  
   
-"No snowflake in an avalanche ever feels responsible."  
+"Too bad all the people who know how to run the country are busy driving taxi cabs and cutting hair."   
 ---  
 \- George Burns
