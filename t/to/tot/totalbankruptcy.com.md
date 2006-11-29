@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalbankruptcy.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617231541id_/http%3A//totalbankruptcy.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalbankruptcy.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129224824id_/http%3A//www.totalbankruptcy.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Total Bankruptcy - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ### Last Updated: March 2005
 
-TotalBankruptcy.com is committed to safeguarding the privacy of everyone who uses this website. Accordingly, we have developed this privacy policy to explain to you what information we collect about you, the steps we take to keep this information private and secure, and what we do with this information. This privacy statement is part of our Terms and Conditions, which can be viewed in full by [clicking here](https://web.archive.org/web/20060617231541id_/http%3A//totalbankruptcy.com/terms_conditions.asp). By visiting this website, you agree to be bound by the terms of this policy. If you do not agree with the terms of this policy, please do not use this website.
+TotalBankruptcy.com is committed to safeguarding the privacy of everyone who uses this website. Accordingly, we have developed this privacy policy to explain to you what information we collect about you, the steps we take to keep this information private and secure, and what we do with this information. This privacy statement is part of our Terms and Conditions, which can be viewed in full by [clicking here](https://web.archive.org/web/20061129224824id_/http%3A//www.totalbankruptcy.com/terms_conditions.asp). By visiting this website, you agree to be bound by the terms of this policy. If you do not agree with the terms of this policy, please do not use this website.
 
 ### What types of information about you do we collect through this website?
 
