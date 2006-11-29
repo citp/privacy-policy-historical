@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the forex.com privacy policy that was archived on 2006-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060515195601id_/http%3A//forex.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129111407id_/http%3A//www.forex.com/privacy_policy.html) for the most accurate reproduction.*
 
-# FOREX.com | Online Currency Trading | Forex Mini Accounts | Forex Quotes and Resources
+# FOREX.com > Privacy Policy
 
-GAIN Capital Group's Privacy Statement
+  
+
 
 Protecting the privacy and safeguarding the personal and financial information of our clients and website visitors is one of our highest priorities. The following Privacy Statement explains how GAIN Capital Group collects and protects your information. References to "GAIN Capital Group" in this Privacy Statement include all GAIN Capital Group companies and divisions, including FOREX.com.
 
@@ -56,4 +57,4 @@ In the event GAIN Capital Group materially changes this Privacy Statement, the r
 
 VeriSign is a trademark of VeriSign, Inc. All rights reserved.
 
-__Last Updated: May 9, 2006__
+_Last Updated: May 9, 2006_
