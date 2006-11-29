@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617224923id_/http%3A//myfooddiary.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfooddiary.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129022515id_/http%3A//www.myfooddiary.com/privacy.asp) for the most accurate reproduction.*
 
 # My Food Diary :: Privacy Policy
 
@@ -21,6 +21,9 @@ We will send emails to you as necessary to keep you informed on the status of yo
 **Tell-A-Friend**  
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  We do not store this information and will not distribute it to any third parties.
 
+**Affiliates**  
+In order to join our Affiliate Program, you will need to provide your contact information and Web site address.  We use this information to aid in the tracking of and payment for the referrals received from your Web site.  Your information will not be distributed to any third parties.  Affiliates will not have access to our members' Personally Identifiable Information (PII).
+
 ### Uses of Information
 
 We collect billing & contact information and personal food, exercise, and body data.  We recognize that this information is highly personal and we take several precautions to help protect you and your personal information.  We do not distribute your personally identifiable information to any third parties -- except when required to process your order (e.g., credit card processors and shipping companies).
@@ -40,10 +43,7 @@ We may also publish analyses of the data collected on our Web site.  For exampl
 **Personally identifiable information:**  
 We only share Personally Identifiable Information when required to complete your order.  For example, we send your billing information to our credit card processor.  If we are shipping a package, we will provide your postal address to our shipping company.
 
-We will not sell or distribute your personal information to third parties when not required to complete your order.
-
-**Agents**  
-We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services.  These companies do not retain, share, store or use personally identifiable information for any other purposes.
+We will not sell or distribute your personal information to third parties when not required to complete your order. 
 
 **Legal Disclaimer**  
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
@@ -106,4 +106,4 @@ MyFoodDiary.com
 1030 Monarch Street, Ste. 120  
 Lexington, KY 40513
 
-Last Updated on 10/31/2005 
+Last Updated on 11/9/2006 
