@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the seekdragon.com privacy policy that was archived on 2006-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060424014822id_/http%3A//seekdragon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekdragon.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129153513id_/http%3A//www.seekdragon.com/privacy.html) for the most accurate reproduction.*
 
-# Seek Dragon - Privacy Policy
+# Seek Dragon Asian Business Directory - Privacy Policy
 
-Privacy Policy
+PRIVACY POLICY
 
-Information Collected
-
-SeekDragon.com has created this privacy statement in order to demonstrate our firm commitment to privacy. SeekDragon.com uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. SeekDragon.com 's registration form requires users to give us contact information (like their name, address, and email address). SeekDragon.com uses member contact information from the registration form to send the member information about our company and email announcements.
-
-Members may opt-out of membership; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We collect personal off-line information for the sole purpose of paying members for earnings from our program. This site contains links to other sites. SeekDragon.com is not responsible for the privacy practices or the content of such Web sites. SeekDragon.com uses a sign-up form for new members. We collect visitor's contact information (like their email address, address, and name). The member's contact information is used to get in touch with the member when necessary.  
+COMMITMENT TO YOUR PRIVACY This site is owned and operated by SeekDragon.com. Your privacy on the Internet is of the utmost importance to us. At SeekDragon.com, we want to make your experience online satisfying and safe.  
+SeekDragon.com respects your privacy.  We have a firm commitment to you to protect your privacy.   
   
-Choice/Opt-Out:  
-SeekDragon.com provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. SeekDragon.com gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Log in to your account and click the "Cancel Account." Link.  
+Collection of  Information  
   
- If you have any questions about this privacy statement, please [Contact Us](http://www.seekdragon.com/ppc-customer.htm).
+Contact information from all forms (including name, email address, etc.) is used to process listings and mail confirmations of listings posted and expired to our customers.  At no time will we share any of this information with any person, group, entity, or company, or organization.  
+  
+Information Sharing and Disclosure  
+  
+SeekDragon.com takes your privacy seriously. We will not sell or rent any of your information to anyone. However, we will disclose your information if necessary to satisfy any applicable law, regulation, legal process or governmental request, or protect our legal right, or if the information relates to actual or threatened harmful conduct, or personal safety of users of SeekDragon.com, its web sites, or the public.By using this site, you consent to the collection and use of this information by SeekDragon.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.  
+
