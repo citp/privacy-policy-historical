@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the gantthead.com privacy policy that was archived on 2006-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060323163934id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gantthead.com privacy policy that was archived on 2006-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061129100201id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.-->
 
-<html><head></head><body topmargin="0" leftmargin="0"><font class="timeline">
+<html><head></head><body topmargin="0" leftmargin="0" style="margin:0 0 0 0;"><font class="timeline">
 
 
 </font>
@@ -44,20 +44,20 @@ var topfontWeight='bold';//(bold or normal)
 //menu items
 
 
-droplength = 9; //length dropdown comes down from top of images
-dropleft = -2; //length dropdown moves to the left for each image
+droplength = 10; //length dropdown comes down from top of images
+dropleft = -4; //length dropdown moves to the left for each image
 
 var menuFrameColor='FFFFFF';
 var menuBgColor='000000';
-var menuFontColor='0099FF';
-var menuOverBgColor='0099FF';
-var menuOverFontColor='000000'; //(can be the same as menuFontColor)
+var menuFontColor='41B1FC';
+var menuOverBgColor='41B1FC';
+var menuOverFontColor='FFFFFF'; //(can be the same as menuFontColor)
 
 
 var specialMenuBgColor='0099FF';
 var specialMenuFontColor='FFFFFF';
 var specialMenuOverBgColor='0099FF';
-var specialMenuOverFontColor='000000'; //(can be the same as menuFontColor)
+var specialMenuOverFontColor='FFFFFF'; //(can be the same as menuFontColor)
 
 
 
@@ -91,64 +91,74 @@ ganttmenu = new menubar(35) // 35 is where the top will be
 
 //Departments
 
-ganttmenu.add('Departments','/departments/departments.cfm')
-ganttmenu.subadd('Departments','/departments/departmentPage.cfm?ID=1','business intelligence')
-ganttmenu.subadd('Departments','/departments/departmentPage.cfm?ID=11','career development')
-ganttmenu.subadd('Departments','/departments/departmentPage.cfm?ID=2','customer relationship management')
-ganttmenu.subadd('Departments','/departments/departmentPage.cfm?ID=7','e-commerce')
-ganttmenu.subadd('Departments','/departments/departmentPage.cfm?ID=16','extreme project management')
-ganttmenu.subadd('Departments','/departments/departmentPage.cfm?ID=3','knowledge management')
-ganttmenu.subadd('Departments','/departments/departmentPage.cfm?ID=4','package selection &amp;','implementation')
-ganttmenu.subadd('Departments','/departments/departmentPage.cfm?ID=8','process improvement')
-ganttmenu.subadd('Departments','/departments/departmentPage.cfm?ID=12','program management','office')
-ganttmenu.subadd('Departments','/departments/departmentPage.cfm?ID=13','project portfolio', 'management')
-ganttmenu.subadd('Departments','/departments/departmentPage.cfm?ID=6','project management')
-ganttmenu.subadd('Departments','/departments/departmentPage.cfm?ID=5','web services and', 'application development')
-ganttmenu.subadd('Departments','/departments/departmentPage.cfm?ID=10','workforce management')
+ganttmenu.add('Departments','/departments/')
+ganttmenu.subadd('Departments','/project-management/','PROJECT MANAGEMENT')
+ganttmenu.subadd('Departments','/business-intelligence','business intelligence')
+ganttmenu.subadd('Departments','/career-development/','career development')
+ganttmenu.subadd('Departments','/customer-relationship-management/','customer relationship management')
+ganttmenu.subadd('Departments','/e-commerce/','e-commerce')
+ganttmenu.subadd('Departments','/extreme-project-management','extreme project management')
+ganttmenu.subadd('Departments','/knowledge-management/','knowledge management')
+ganttmenu.subadd('Departments','/package-selection-and-implementation/','package selection &amp;','implementation')
+ganttmenu.subadd('Departments','/process-improvement/','process improvement')
+ganttmenu.subadd('Departments','/program-management-office/','program management','office')
+ganttmenu.subadd('Departments','/project-portfolio-management/','project portfolio', 'management')
+ganttmenu.subadd('Departments','/web-services-and-application-development/','web services and', 'application development')
+ganttmenu.subadd('Departments','/workforce-management/','workforce management')
 
 
 //Processes
 
-ganttmenu.add('Processes','/process/processMain.cfm')
-ganttmenu.subadd('Processes','/process/processMain.cfm?ID=2-5870-2','application solution')
-ganttmenu.subadd('Processes','/process/processMain.cfm?ID=2-2357-2','data warehouse')
-ganttmenu.subadd('Processes','/process/processMain.cfm?ID=2-16259-2','business re-engineering')
-ganttmenu.subadd('Processes','/process/processMain.cfm?ID=2-1-2','distributed application','development')
-ganttmenu.subadd('Processes','/process/processMain.cfm?ID=2-12009-2','information engineering')
-ganttmenu.subadd('Processes','/process/processMain.cfm?ID=2-6833','information strategy','planning')
-ganttmenu.subadd('Processes','/process/processMain.cfm?ID=2-21343-2','JPACE project management')
-ganttmenu.subadd('Processes','/process/processMain.cfm?ID=2-19516-2','RAD - rapid application','development')
-ganttmenu.subadd('Processes','/process/processMain.cfm?ID=2-9333-2','siebel implementation')
-ganttmenu.subadd('Processes','/process/processMain.cfm?ID=2-7768-2','value stream assessment')
-ganttmenu.subadd('Processes','/process/processMain.cfm?ID=2-8435-2','web development')
-ganttmenu.subadd('Processes','/process/processMain.cfm?ID=2-9164-2','web maintenance')
+ganttmenu.add('Processes','/processes/')
+ganttmenu.subadd('Processes','/content/processes/9483.cfm','application solution')
+ganttmenu.subadd('Processes','/content/processes/9076.cfm','data warehouse')
+ganttmenu.subadd('Processes','/content/processes/10965.cfm','business re-engineering')
+ganttmenu.subadd('Processes','/content/processes/8615.cfm','distributed application','development')
+ganttmenu.subadd('Processes','/content/processes/10210.cfm','emergency fix process')
+ganttmenu.subadd('Processes','/content/processes/10402.cfm','information engineering')
+ganttmenu.subadd('Processes','/content/processes/7278.cfm','information strategy','planning')
+ganttmenu.subadd('Processes','/content/processes/11506.cfm','JPACE project management')
+ganttmenu.subadd('Processes','/content/processes/11715.cfm','project HEADWAY')
+ganttmenu.subadd('Processes','/content/processes/11306.cfm','RAD - rapid application','development')
+ganttmenu.subadd('Processes','/content/processes/10278.cfm','maintenance process')
+ganttmenu.subadd('Processes','/content/processes/9906.cfm','siebel implementation')
+ganttmenu.subadd('Processes','/content/processes/9714.cfm','value stream assessment')
+ganttmenu.subadd('Processes','/content/processes/9768.cfm','web development')
+ganttmenu.subadd('Processes','/content/processes/9869.cfm','web maintenance')
 ganttmenu.subadd('Processes','/process/microprocessMain.cfm','MICROPROCESSES')
 	
 
    // Downloads
    
-ganttmenu.add('Downloads','')
+ganttmenu.add('Downloads','/downloads/')
 ganttmenu.subadd('Downloads','/newOnGantthead.cfm','newest downloads')
-ganttmenu.subadd('Downloads','/templates/templateMain.cfm','deliverables')
-ganttmenu.subadd('Downloads','/projectPlans/projectPlansMain.cfm','project plans')
-ganttmenu.subadd('Downloads','/presentations/presentationMain.cfm','presentations')
-ganttmenu.subadd('Downloads','/checklists/checklistMain.cfm','checklists')  
+ganttmenu.subadd('Downloads','/deliverables/','deliverables')
+ganttmenu.subadd('Downloads','/project-plans/','project plans')
+ganttmenu.subadd('Downloads','/presentations/','presentations')
+ganttmenu.subadd('Downloads','/checklists/','checklists')  
 
 // Articles   
 ganttmenu.add('Articles','')
-ganttmenu.subadd('Articles','/articles/articlesMain.cfm','articles home')
-ganttmenu.subadd('Articles','/RPM.cfm','real project','management')
-ganttmenu.subadd('Articles','/Guru.cfm','gantthead gurus')
-ganttmenu.subadd('Articles','/PMP.cfm','project management','in practice') 
-
-
+ganttmenu.subadd('Articles','/articles/','articles home')
+ganttmenu.subadd('Articles','/articles/editorial-topics/Advice-Anecdotes-and-Case-Studies/','Advice, Anecdotes and Case Studies')
+ganttmenu.subadd('Articles','/articles/editorial-topics/Applying-PM-Principles/','Applying PM Principles')
+ganttmenu.subadd('Articles','/articles/editorial-topics/Focus-On/','Focus On')
+ganttmenu.subadd('Articles','/articles/editorial-topics/How-To/','How To')
+ganttmenu.subadd('Articles','/articles/editorial-topics/Leadership-Soft-Skills/','Leadership/Soft Skills')
+ganttmenu.subadd('Articles','/articles/editorial-topics/PM-101/','PM 101')
+ganttmenu.subadd('Articles','/articles/editorial-topics/PM-Perspective/','PM Perspective')
+ganttmenu.subadd('Articles','/articles/editorial-topics/Project-Management-in-Practice/','Project Management in Practice')
+ganttmenu.subadd('Articles','/articles/editorial-topics/Security/','Security')
+ganttmenu.subadd('Articles','/articles/editorial-topics/Technology-Trends/','Technology Trends')
    
   // Reference
    
-ganttmenu.add('Reference','')
-ganttmenu.subadd('Reference','/books/booksMain.cfm','books')
-ganttmenu.subadd('Reference','/whitePapers/whitePaperMain.cfm','white papers')
-ganttmenu.subadd('Reference','/events/eventMain.cfm','events') 
+ganttmenu.add('Reference','/reference/')
+ganttmenu.subadd('Reference','/books/','books')
+ganttmenu.subadd('Reference','/white-papers/','white papers')
+ganttmenu.subadd('Reference','/events/','events') 
+ganttmenu.subadd('Reference','/process/processMain.cfm?ID=11836','PMBOK&reg;')
+ganttmenu.subadd('Reference','/wiki/techniques','Techniques Wiki')
   
  // AboutUs
    
@@ -157,6 +167,7 @@ ganttmenu.subadd('AboutUs','/aboutus.cfm','about us')
 ganttmenu.subadd('AboutUs','/privacy.cfm','privacy policy')
 ganttmenu.subadd('AboutUs','/userAgreement.cfm','user agreement')  
 ganttmenu.subadd('AboutUs','/membership.cfm','membership') 
+ganttmenu.subadd('AboutUs','/shop/shopMain.cfm','gantthead shop') 
 ganttmenu.subadd('AboutUs','/page.cfm?ID=190774','gantthead Media','Center')
 ganttmenu.subadd('AboutUs','/advertise.cfm','advertise on gantthead')  
 ganttmenu.subadd('AboutUs','/page.cfm?ID=192846','publish on gantthead')  
@@ -166,26 +177,26 @@ ganttmenu.subadd('AboutUs','mailto:contactus@gantthead.com','contact us')
 
 // Discussions
 
-ganttmenu.add('Discussions','/discussions/discussionMain.cfm')
-ganttmenu.subadd('Discussions','/discussion.cfm?ID=806','project management','central')
-ganttmenu.subadd('Discussions','/discussion.cfm?ID=1362','process improvement')
+ganttmenu.add('Discussions','/discussions/')
+ganttmenu.subadd('Discussions','/content/discussions/806.cfm','project management','central')
+ganttmenu.subadd('Discussions','/content/discussions/1362.cfm','process improvement')
 ganttmenu.subadd('Discussions','/discussions/discussionRules.cfm', 'discussion rules')
 ganttmenu.subadd('Discussions','/discussions/discussionMain.cfm?all=1','list all','discussions')
 
 // Tools and Training
 
-ganttmenu.add('Toolsntraining','/tools/toolMain.cfm')
-ganttmenu.subadd('Toolsntraining','/tools/toolMain.cfm','Tools')
+ganttmenu.add('Toolsntraining','')
+ganttmenu.subadd('Toolsntraining','/tools-directory/','Tools')
 
 
-ganttmenu.subadd('Toolsntraining','/redirect/clickCount.cfm?ID=224295','MKS Integrity Suite') 
+ganttmenu.subadd('Toolsntraining','/redirect/clickCount.cfm?ID=231111','MKS Integrity Suite') 
+ganttmenu.subadd('Toolsntraining','/content/pages/232699.cfm','project HEADWAY') 
 
-ganttmenu.subadd('Toolsntraining','/training/trainingMain.cfm','Training')
+ganttmenu.subadd('Toolsntraining','/training-directory/','Training')
 ganttmenu.subadd('Toolsntraining','/searchResult.cfm?searchType=training','search all training', 'programs by function')
 
 
-	ganttmenu.subadd('Toolsntraining','/redirect/clickCount.cfm?ID=195806','Global Knowledge') 
-ganttmenu.subadd('Toolsntraining','/redirect/clickCount.cfm?ID=229924','AMA') 
+	ganttmenu.subadd('Toolsntraining','/redirect/clickCount.cfm?ID=230396','Management Concepts') 
 
 
 
@@ -203,83 +214,82 @@ ganttmenu.activate()
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="000000">
 <tbody><tr>
-	<td height="151" width="179"><a href="http://www.gantthead.com"><img src="/images/splash/splash2_01.gif" height="151" width="179" border="0"></a></td>
-	<td height="151" bgcolor="000000" valign="top" align="left">
-	<table border="0" height="151" cellpadding="0" cellspacing="0" width="100%" "="">
-	<tbody><tr>
-		<td height="54" align="center"><a href="http://www.gantthead.com"><img src="/images//new4/logo3.gif" border="0" alt="gantthead.com Privacy Policy"></a></td>
-	</tr>
-	<tr>
-		<td valign="middle" height="97" align="center">
-		
-		
-		
-		
 
-<center>
-
-<a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=230414&amp;replaceString=03231134&amp;offSite=2" target="_blank"><img src="http://www.gantthead.com/content/advertising/PPM_S06_bnr_468x60.gif" border="0"></a> 
-</center>
-
-
-
-		
-		</td>
-	</tr>
-	</tbody></table>
+		<td height="70" width="83"><a href="http://www.gantthead.com"><img src="/images/heads/11.gif" height="70" width="83" border="0"></a></td>
 	
+		<td height="70" width="83"><a href="http://www.gantthead.com"><img src="/images/heads/8.gif" height="70" width="83" border="0"></a></td>
 	
-		
+		<td height="70" bgcolor="000000" valign="middle" align="middle">
+	<a href="http://www.gantthead.com"><img src="/images//new5/logo.gif" border="0" alt="gantthead.com Privacy Policy"></a></td>
+	
+		<td height="70" width="83"><a href="http://www.gantthead.com"><img src="/images/heads/19.gif" height="70" width="83" border="0"></a></td>
+	
+		<td height="70" width="83"><a href="http://www.gantthead.com"><img src="/images/heads/15.gif" height="70" width="83" border="0"></a></td>
+	
+</tr>
+</tbody></table>
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" height="1">
+<tbody><tr>
+	
+	<td bgcolor="FFFFFF" height="1"><img src="/images/onepixel.gif"></td>
+</tr>
+</tbody></table> 
+<table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="000000" height="12">
+<tbody><tr>
+	
+	<td align="left" width="12%"><span id="menuspan1" style="POSITION: relative"><a href="/departments/" onmouseover="javascript:{hideV();show(0,'menuspan1');}"><img src="/images/new5/departments.gif" border="0" name="img1" height="12"></a></span></td>
+	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
+	<td align="left" width="12%"><span id="menuspan2" style="POSITION: relative"><a href="/processes/" onmouseover="javascript:{hideV();show(1,'menuspan2');}"><img src="/images/new5/processes.gif" name="img2" border="0" height="12"></a></span></td>
+	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
+	<td align="left" width="12%"><span id="menuspan3" style="POSITION: relative"><a href="/downloads/" onmouseover="javascript:{hideV();show(2,'menuspan3');}"><img src="/images/new5/downloads.gif" name="img3" border="0" height="12"></a></span></td>
+	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
+	<td align="left" width="12%"><span id="menuspan8" style="POSITION: relative"><a href="/tools/" onmouseover="javascript:{hideV();show(7,'menuspan8');}"><img src="/images/new5/toolsntraining.gif" border="0" name="img8" height="12"></a></span></td>
+	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
+	<td width="10"><img src="/images/onepixel.gif" width="10"></td>
+</tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" height="1">
+<tbody><tr>
+	
+	<td bgcolor="FFFFFF" height="1"><img src="/images/onepixel.gif"></td>
+</tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="000000" height="12">
+<tbody><tr>
+	
+	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
+	<td align="left" width="12%"><span id="menuspan4" style="POSITION: relative"><a href="/articles/" onmouseover="javascript:{hideV();show(3,'menuspan4');}"><img src="/images/new5/articles.gif" border="0" name="img4" height="12"></a></span></td>
+	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
+	<td align="left" width="12%"><span id="menuspan7" style="POSITION: relative"><a href="/discussions/" onmouseover="javascript:{hideV();show(6,'menuspan7');}"><img src="/images/new5/discussions.gif" border="0" name="img7" height="12"></a></span></td>
+	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
+	<td align="left" width="12%"><span id="menuspan5" style="POSITION: relative"><a href="/reference/" onmouseover="javascript:{hideV();show(4,'menuspan5');}"><img src="/images/new5/reference.gif" border="0" height="12"></a></span></td>
+	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
+	<td align="left" width="12%"><span id="menuspan6" style="POSITION: relative"><a href="/aboutus.cfm" onmouseover="javascript:{hideV();show(5,'menuspan6');}"><img src="/images/new5/aboutus.gif" border="0" height="12"></a></span></td>
+	<td width="10"><img src="/images/onepixel.gif" width="10"></td>
+</tr>
+</tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" height="1">
+<tbody><tr>
+	
+	<td bgcolor="FFFFFF" height="1"><img src="/images/onepixel.gif"></td>
+</tr>
+</tbody></table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="EAF5F5">
+<tbody><tr>
+<td valign="top" width="125" align="right">
+	
+</td>
+<td width="1" bgcolor="6699CC"><img src="/images/onepixel.gif"></td> 
+<td width="16" bgcolor="474E5F" valign="top" align="right"><img src="/images/onepixel.gif" height="2"><br><img src="/images/new4/arrow2.gif" width="13"></td>
+	<td bgcolor="474E5F">
+	
+		<h1>gantthead.com Privacy Policy</h1>
 	
 	</td>
-	</tr>
-</tbody></table>
-
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%" height="1">
-<tbody><tr>
-	<td height="1" width="179"><img src="/images/splash/splash2_02.gif" height="1" width="179"></td>
-	<td bgcolor="FFFFFF" height="1"><img src="/images/onepixel.gif"></td>
-</tr>
-</tbody></table>
-<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="000000" height="12">
-<tbody><tr>
-	<td height="12" width="179"><img src="/images/splash/splash2_03.gif" height="12" width="179"></td>
-	<td align="left" width="12%"><span id="menuspan1" style="POSITION: relative"><a href="/departments/departments.cfm" onmouseover="javascript:{hideV();show(0,'menuspan1');}"><img src="/images/new4/departments.gif" border="0" name="img1" height="12"></a></span></td>
-	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
-	<td align="left" width="12%"><span id="menuspan2" style="POSITION: relative"><a href="/process/processMain.cfm" onmouseover="javascript:{hideV();show(1,'menuspan2');}"><img src="/images/new4/processes.gif" name="img2" border="0" height="12"></a></span></td>
-	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
-	<td align="left" width="12%"><span id="menuspan3" style="POSITION: relative"><a href="/downloadMain.cfm" onmouseover="javascript:{hideV();show(2,'menuspan3');}"><img src="/images/new4/downloads.gif" name="img3" border="0" height="12"></a></span></td>
-	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
-	<td align="left" width="12%"><span id="menuspan8" style="POSITION: relative"><a href="/tools/toolMain.cfm" onmouseover="javascript:{hideV();show(7,'menuspan8');}"><img src="/images/new4/toolsntraining.gif" border="0" name="img8" height="12"></a></span></td>
-	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
-	<td width="10"><img src="/images/onepixel.gif" width="10"></td>
-</tr>
-</tbody></table>
-<table border="0" cellspacing="0" cellpadding="0" width="100%" height="1">
-<tbody><tr>
-	<td height="1" width="179"><img src="/images/splash/splash2_04.gif" height="1" width="179"></td>
-	<td bgcolor="FFFFFF" height="1"><img src="/images/onepixel.gif"></td>
-</tr>
-</tbody></table>
-<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="000000" height="12">
-<tbody><tr>
-	<td height="12" width="179"><img src="/images/splash/splash2_05.gif" height="12" width="179"></td>
-	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
-	<td align="left" width="12%"><span id="menuspan5" style="POSITION: relative"><a href="/referenceMain.cfm" onmouseover="javascript:{hideV();show(4,'menuspan5');}"><img src="/images/new4/reference.gif" border="0" height="12"></a></span></td>
-	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
-	<td align="left" width="12%"><span id="menuspan7" style="POSITION: relative"><a href="/discussions/discussionMain.cfm" onmouseover="javascript:{hideV();show(6,'menuspan7');}"><img src="/images/new4/discussions.gif" border="0" name="img7" height="12"></a></span></td>
-	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
-	<td align="left" width="12%"><span id="menuspan4" style="POSITION: relative"><a href="/articles/articlesMain.cfm" onmouseover="javascript:{hideV();show(3,'menuspan4');}"><img src="/images/new4/articles.gif" border="0" name="img4" height="12"></a></span></td>
-	<td align="left" width="12%"><img src="/images/onepixel.gif"></td>
-	<td align="left" width="12%"><span id="menuspan6" style="POSITION: relative"><a href="/aboutus.cfm" onmouseover="javascript:{hideV();show(5,'menuspan6');}"><img src="/images/new4/aboutus2.gif" border="0" height="12"></a></span></td>
-	<td width="10"><img src="/images/onepixel.gif" width="10"></td>
-</tr>
-</tbody></table>
-<table border="0" cellspacing="0" cellpadding="0" width="100%" height="11">
-<tbody><tr>
-	<td height="11" width="179" align="left"><img src="/images/splash/splash2_06.gif" height="11" width="179"></td>
-	<td bgcolor="FFFFFF" height="11"><img src="/images/onepixel.gif"></td>
+	
 </tr>
 </tbody></table>
 
@@ -290,10 +300,7 @@ ganttmenu.activate()
 
 
 <table border="0" width="100%" cellpadding="0" cellspacing="0">
-
-
-<tbody><tr><td colspan="3" height="4"><img src="/images/onepixel.gif"></td></tr>
-<tr>
+<tbody><tr>
 	<td width="2"><img src="/images/onepixel.gif"></td>
 	<td><font class="toolbartext">
 	
@@ -316,34 +323,15 @@ ganttmenu.activate()
 			
 		
 		
-	</td></tr></tbody></table>
-	<br>
-	
-	
-	
-	<table border="0" width="100%" cellpadding="2" cellspacing="0">
-		<tbody><tr><td valign="top" width="13"><img src="/images/new4/arrow.gif"></td>
-			<td><font class="toolbartexttitle">what's new</font></td>
-		</tr>
-		</tbody></table>
-		<table border="0" width="100%" cellpadding="0" cellspacing="0">
-		<tbody><tr><td width="8"><img src="/images/onepixel.gif"></td>
-		<td>
-		<font class="toolbartext">
-		<b>&nbsp;-&nbsp;<font size="1"><a href="/redirect/clickCount.cfm?ID=208836">Gantthead Vendor Offers</a></font></b><br>
-		<b>&nbsp;-&nbsp;<font size="1"><a href="http://www.gantthead.com/training/trainingMain.cfm">Gantthead Training Section</a></font></b><br>
+		<br><img src="/images/onepixel.gif" height="5"><br>
+		<font class="toolbartext"><b><a href="/shop/cartDisplay.cfm" class="toolbartext"><img src="/images/cart.gif" border="0" align="texttop"> view cart</a></b></font>
 		
-		
-		</font>
-		</td></tr></tbody></table>
+	</td></tr></tbody></table><br><br>
 	
-		<br>
-			
 		
 					
 		
 		
-	<br>
 		<table border="0" width="100%" cellpadding="2" cellspacing="0">
 		<tbody><tr><td valign="top" width="13"><img src="/images/new4/arrow.gif"></td>
 			<td><font class="toolbartexttitle">vendor events</font></td>
@@ -359,22 +347,15 @@ ganttmenu.activate()
 			<td> 
 <table border="0">
 		<tbody><tr>
-			<td><font face="Arial, Verdana" style="font-size:10px">
-			<b>March 2006 - <i><a href="/event.cfm?ID=230076">IT Management and Governance Best Practices: Transforming IT into a Strategic Business Asset</a></i> </b> </font></td>
+			<td><font size="-2">
+			<b>Oct 2006 - Mar 2007 - <i><a href="/content/events/233593.cfm">RMC Project Management Training Courses </a></i> </b> </font></td>
 			</tr>
 </tbody></table> 
 
 <table border="0">
 		<tbody><tr>
-			<td><font face="Arial, Verdana" style="font-size:10px">
-			<b>May 15 - 19, 2006 - <i><a href="/event.cfm?ID=230097">STAREAST 2006</a></i> </b> </font></td>
-			</tr>
-</tbody></table> 
-
-<table border="0">
-		<tbody><tr>
-			<td><font face="Arial, Verdana" style="font-size:10px">
-			<b>April 6, 2006  - <i><a href="/event.cfm?ID=230175">Realizing Enterprise Architecture - A proven method for getting started</a></i> </b> </font></td>
+			<td><font size="-2">
+			<b>various dates - <i><a href="/content/events/233917.cfm">Rally Software Development - Certified ScrumMaster Training </a></i> </b> </font></td>
 			</tr>
 </tbody></table> 
 </td>
@@ -551,25 +532,19 @@ Last updated July 11, 2005. </p>
 		<table border="0" width="100%" cellpadding="10" cellspacing="0">
 			<tbody><tr><td>
 				
-	<b>More than 60% of software projects in the U.S. fail, and poor requirements is one of the top 5 reasons.</b> Are your projects at risk?  MKS offers you a truly unique solution. Download your free white paper: <b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=228567" target="_blank">An Innovative Approach to Managing Software Requirements</a></b> 
+	<b>Looking for integrated IT process management? Following CMMI or ITIL?</b> Learn how to bridge these process methodologies, delivering them as one IT application process under one application management framework. <b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=233631" target="_blank">Free MKS white paper: "It's All About Process"</a></b> 
 				<p>
-			<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=228960" target="_blank">Download a FREE Trial</a></b> - <b>Just Released: W E B T I M E S H E E T 6.5</b> a simple intuitive tool to:<br>
-- Organize and track activities, resources, time and expenses<br>
-- Track Estimates Vs. Actuals<br>
+			<b>Attention gantthead readers: Web TimeSheet 7.1 JUST RELEASED!</b><br>
+A simple intuitive tool to:<br>
+- Organize and track activities, resources, time, expenses and projects<br>
+- Track estimates vs. actuals<br>
 - Track project costs against your budget<br>
+- Full integration with MS Project<br>
+Be one of the first to <b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=230622" target="_blank">DOWNLOAD a FREE TRIAL</a></b>.
 
 				</p><p>
-			<b>Realizing Enterprise Architecture - A proven method for getting started</b> Join us for this exclusive Webcast to learn how you can realize the benefits of an Enterprise Architecture, quickly and easily.<br>
-April 6, 2006 – 11:00 am EST<br>
-<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=230171" target="_blank">Click here to register now</a></b>
-
-				</p><p>
-			<b>Read the new <b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=229816" target="_blank">IDC white paper</a></b>, compliments of Borland, on Project Portfolio and Application Life-Cycle Management.</b> This is a must read for IT leaders tackling the strategic and operational challenges of IT business alignment, off-shoring, outsourcing and regulatory compliance. 
-				</p><p>
-			<b>Keep Projects On-Time and On-Budget with Intuit's QuickBase.</b> Get up and running fast. <b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=229932" target="_blank">Free, 30-day Trial</a></b><br> 
--Manage projects your way with a flexible, Web-based tool.<br>
--Spend less time consolidating files and info.<br>
--Take action with automated notifications.<br> 
+			<b>eProject PPM6 - Market's Newest &amp; Most Complete Web-Based Project Management Solution</b><br>
+<b><i>Find out why customers are raving!</i></b> Over 100 new features -- <i>everything</i> you need to select, staff and manage projects across your various user-roles, departments and workgroups. <b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=234035" target="_blank">Request a Free Demo Today!</a></b> 
 				</p><p>
 			
 			</p></td>
@@ -586,7 +561,8 @@ April 6, 2006 – 11:00 am EST<br>
 </p><center> 
 <table border="0" cellpadding="5" cellspacing="0">
 <tbody><tr>
-	<td><font class="whimsey">"No snowflake in an avalanche ever feels responsible."</font></td>
+	<td><font class="whimsey">"Too bad all the people who know how to run the country are busy driving taxi cabs and cutting hair." 
+</font></td>
 </tr>
 
 <tr>
@@ -606,8 +582,9 @@ April 6, 2006 – 11:00 am EST<br>
 <td width="5" bgcolor="FFFFFF" valign="top"><img src="/images/onepixel.gif"></td>
 
 <td width="1" bgcolor="6699CC" valign="top">
-	<table border="0" cellpadding="0" cellspacing="0" height="14" width="1" bgcolor="FFFFFF">
-	<tbody><tr><td><img src="/images/onepixel.gif"></td></tr></tbody></table>
+	<table border="0" cellpadding="0" cellspacing="0" height="2" width="1" bgcolor="FFFFFF">
+	<tbody><tr><td><img src="/images/onepixel.gif"></td></tr>
+	</tbody></table> 
 </td>
 
 
@@ -618,34 +595,37 @@ April 6, 2006 – 11:00 am EST<br>
 
 
 
-<table border="0" width="100%" height="100%" cellpadding="0" cellspacing="0">
+<table border="0" width="166" height="100%" cellpadding="0" cellspacing="0">
 <tbody><tr>
-	<td colspan="3" bgcolor="FFFFFF" valign="top"><img src="/images/new4/righttop2.gif"></td>
+	<td colspan="3" bgcolor="FFFFFF" valign="top" height="2"><img src="/images/onepixel.gif"></td>
 </tr>
+<tr>
+	<td colspan="3" bgcolor="6699CC" valign="top" height="1"><img src="/images/onepixel.gif"></td>
+</tr> 
 <tr>
 	<td width="3"><img src="/images/onepixel.gif"></td>
 	<td valign="top" height="100%">
-	
+	<img src="/images/onepixel.gif" height="10">
 	
 		<table border="0" width="100%" cellpadding="0" cellspacing="0">
 		<form method="POST" action="/searchResult.cfm"></form>
 		<tbody><tr>
 			<td width="3"><img src="/images/onepixel.gif"></td>
-			<td><input type="text" size="12" name="searchstring" style="width: 105px; FONT-FAMILY: Arial; FONT-SIZE: 10px; height: 17px">
+			<td><input type="text" size="12" name="searchstring" style="width: 105px; FONT-FAMILY: Arial; FONT-SIZE: 10px; height: 17px; border-color: #990000;border-style: solid; border-width: 1px; padding-left: 2px;">
 			</td>
 			<td width="1"><img src="/images/onepixel.gif"></td>
 			<td><nobr><input type="image" value="search" src="/images/new4/searchbutton.gif" border="0"></nobr></td>
 		</tr>
+		<tr>
+			<td width="3"><img src="/images/onepixel.gif"></td>
+			<td align="center"><a href="/searchResult.cfm" class="toolbartexttitle"><font class="toolbartexttitle" style="font-size: 11px">advanced search</font></a></td>
+			<td colspan="2"></td>
+		</tr>
 		
 		</tbody></table>
-		<center><a href="/searchResult.cfm"><font class="toolbartexttitle">advanced search</font></a>
-	<br><img src="/images/onepixel.gif" height="2"><br>
-	<a href="javascript:navpop('/navigationPanel.cfm');"><font class="toolbartexttitle">gantthead at-a-glance</font></a><br>
-	<img src="/images/onepixel.gif" height="2"><br>
-	<a href="javascript:{flashpop('/flash/navigating.cfm')}"><font class="toolbartexttitle">gantthead tour</font></a><font class="toolbartexttitle">
-	</font></center><font class="toolbartexttitle">
+	
 
-	<img src="/images/onepixel.gif" height="3">
+	<img src="/images/onepixel.gif" height="10"><br>
 	
 	
 	
@@ -669,27 +649,24 @@ April 6, 2006 – 11:00 am EST<br>
 	<tbody><tr>
 		<td><img src="/images/onepixel.gif" width="1"></td>
 		<td>
-		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=229817" target="_blank"><font style="font-size:11px">Borland</font></a></b> 
+		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=234036" target="_blank"><font style="font-size:11px">Borland Whitepaper</font></a></b>
+
 			<br>
-		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=230478" target="_blank"><font style="font-size:11px">Global Knowledge</font></a></b> 
+		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=232595" target="_blank"><font style="font-size:11px">eProject</font></a></b> 
 			<br>
 		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=18974" target="_blank"><font style="font-size:11px">Headstrong</font></a></b> 
 			<br>
-		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=229084" target="_blank"><font style="font-size:11px">Intuit QuickBase</font></a></b> 
-			<br>
 		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=229656" target="_blank"><font style="font-size:11px">Mercury</font></a></b> 
 			<br>
-		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=224291" target="_blank"><font style="font-size:11px">MKS Integrity Suite</font></a></b> 
+		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=231110" target="_blank"><font style="font-size:11px">MKS Integrity</font></a></b> 
 			<br>
-		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=229149" target="_blank"><font style="font-size:11px">Pacific Edge</font></a></b> 
-			<br>
-		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=230401" target="_blank"><font style="font-size:11px">ProSight</font></a></b> 
-			<br>
-		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=230172" target="_blank"><font style="font-size:11px">Telelogic</font></a></b> 
+		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=232862" target="_blank"><font style="font-size:11px">Project HEADWAY</font></a></b> 
 			<br>
 		<b><a href="http://www.Replicon.com/a/_lp.asp?utm_source=gantthead&amp;utm_medium=ppc&amp;utm_campaign=side+listing" target="_blank"><font style="font-size:11px">Replicon TimeSheet</font></a></b> 
 			<br>
-		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=229822" target="_blank"><font style="font-size:11px">RMC Project Mgmt</font></a></b> 
+		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=233591" target="_blank"><font style="font-size:11px">RMC Project Management</font></a></b> 
+			<br>
+		<b><a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=233244" target="_blank"><font style="font-size:11px">Tenrox</font></a></b> 
 			<br>
 		
 		</td>
@@ -704,14 +681,14 @@ April 6, 2006 – 11:00 am EST<br>
 	<center>
 	
 		
-		  		<br><br>
+		  		<br>
 		  		<!--- front page side slot ad---->
 				
 				
 
 <center>
 
-<a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=211283&amp;replaceString=03231134&amp;offSite=2" target="_blank"><img src="http://www.gantthead.com/images/premiummembershipad.gif" border="0"></a> 
+<a href="http://www.gantthead.com/redirect/clickCount.cfm?ID=233844&amp;replaceString=11290501&amp;offSite=2" target="_blank"><img src="http://www.gantthead.com/content/advertising/BU2_120x600_20K1.gif" border="0"></a> 
 </center>
 
 
@@ -739,21 +716,21 @@ April 6, 2006 – 11:00 am EST<br>
 				<table border="0">
 					<tbody><tr>
 					<td><font face="Arial, Verdana" style="font-size:10px">
-					<b><a href="javascript:{customPopup(630,600,'yes','yes','/advertising/vendorOffersEmailView.cfm?ID=3777');}">Mercury - Attend Mercury Webcast on ITIL Best Practices and IT Governance </a> </b></font></td>
+					<b><a href="javascript:{customPopup(630,600,'yes','yes','/advertising/vendorOffersEmailView.cfm?ID=4699');}">IBM - 45-minute IBM Webcast shows how to improve testing efficiencies. </a> </b></font></td>
 					</tr>
 				</tbody></table> 
 			
 				<table border="0">
 					<tbody><tr>
 					<td><font face="Arial, Verdana" style="font-size:10px">
-					<b><a href="javascript:{customPopup(630,600,'yes','yes','/advertising/vendorOffersEmailView.cfm?ID=3788');}">Learning Beam - Improved Team Cohesion, Reduced Conflict, Repeatable Success -- Now Online</a> </b></font></td>
+					<b><a href="javascript:{customPopup(630,600,'yes','yes','/advertising/vendorOffersEmailView.cfm?ID=4711');}">RMC - Improve Your Project Management Skill Set </a> </b></font></td>
 					</tr>
 				</tbody></table> 
 			
 				<table border="0">
 					<tbody><tr>
 					<td><font face="Arial, Verdana" style="font-size:10px">
-					<b><a href="javascript:{customPopup(630,600,'yes','yes','/advertising/vendorOffersEmailView.cfm?ID=3780');}">Borland - Boost the Strategic Value of IT Operations </a> </b></font></td>
+					<b><a href="javascript:{customPopup(630,600,'yes','yes','/advertising/vendorOffersEmailView.cfm?ID=4682');}">RMC - Improve Your Project Management Skill Set </a> </b></font></td>
 					</tr>
 				</tbody></table> 
 			
@@ -778,33 +755,12 @@ April 6, 2006 – 11:00 am EST<br>
 			
 			<font class="favoritespanel">
 			
- 			
-				<table border="0">
-					<tbody><tr>
-					<td><font face="Arial, Verdana" style="font-size:10px">
-					<b><a href="javascript:{customPopup(525,600,'yes','yes','/newsletterArchive/newsletterArchiveView.cfm?ID=3791');}">03/22/2006 - Extreme PM</a> </b></font></td>
-					</tr>
-				</tbody></table> 
-			
-				<table border="0">
-					<tbody><tr>
-					<td><font face="Arial, Verdana" style="font-size:10px">
-					<b><a href="javascript:{customPopup(525,600,'yes','yes','/newsletterArchive/newsletterArchiveView.cfm?ID=3711');}">03/08/2006 - PMOs of Value</a> </b></font></td>
-					</tr>
-				</tbody></table> 
-			
-				<table border="0">
-					<tbody><tr>
-					<td><font face="Arial, Verdana" style="font-size:10px">
-					<b><a href="javascript:{customPopup(525,600,'yes','yes','/newsletterArchive/newsletterArchiveView.cfm?ID=3664');}">02/22/2006 - EVA Road Show</a> </b></font></td>
-					</tr>
-				</tbody></table> 
-			 
+ 			 
 			<br>
 			<b><a href="/newsletterArchive/newsletterArchive.cfm">See all Archived Newsletters</a></b><br>
 					
 			
-	</font></font></font></font></td>
+	</font></font></font></td>
 	<td width="3"><img src="/images/onepixel.gif"></td>
 	</tr>
 	</tbody></table>
@@ -851,7 +807,7 @@ April 6, 2006 – 11:00 am EST<br>
 Copyright © 2006 <a href="/default.cfm"><font style="color:000000;text-decoration:none">gantthead.com</font></a>&nbsp;  All rights reserved.<br>
 <a href="/aboutus.cfm">About Us</a> |
 <a href='javascript:popup("/customerService/customerServiceNewIssue.cfm")'>Send Feedback</a> | 
-<a href="/privacy.cfm">Privacy Policy</a> | <a href="/userAgreement.cfm">User Agreement</a> | <a href="mailto:customerservice@gantthead.com">Contact Us</a> | <a href="/hat.cfm">Hat</a><br>
+<a href="/privacy.cfm">Privacy Policy</a> | <a href="/userAgreement.cfm">User Agreement</a> | <a href="mailto:customerservice@gantthead.com">Contact Us</a> | <a href="/shop/shopMain.cfm">Shop</a> | <a href="/hat.cfm">Hat</a> <br>
 <a href="/advertise.cfm">Advertise on gantthead</a> | 
 <a href="/publish.cfm">Publish on gantthead</a> | <a href="/templateToSubmit.cfm">Submit a Template</a> | <a href="/membership.cfm">Membership</a><br>
 
