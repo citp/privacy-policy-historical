@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamicbusiness.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072817id_/http%3A//www.dynamicbusiness.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicbusiness.com.au privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129142430id_/http%3A//www.dynamicbusiness.com.au/privacy.php) for the most accurate reproduction.*
 
 # DBC-web site design, ebusiness application development, flash design, web consulting, web content management, corporate web site design, ebusiness consultant, web site usability, web programming, web design brisbane, cdrom,dvd,extranet
 
