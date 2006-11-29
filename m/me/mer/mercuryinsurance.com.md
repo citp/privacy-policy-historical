@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615115456id_/http%3A//about.mercuryinsurance.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129075425id_/http%3A//about.mercuryinsurance.com/privacy.asp) for the most accurate reproduction.*
 
 # Mercury Insurance Services
 
   
 |    
 |    
-Mercury Insurance Group Privacy Statement Mercury General Insurance works with Yahoo!, Google and Overture to research certain usage and activities on our web site on our behalf. Yahoo!, Google and Overture use web beacons to conduct this research. The information collected through these web beacons is used to find out more about our users, including user demographics and usage patterns, for more accurate reporting and to improve the effectiveness of our marketing. Information recorded through the use of these web beacons is aggregated and then shared with us. No personally identifiable information about you is shared by Yahoo!, Google or Overture with Mercury General Insurance as a result of this research. If you prefer that Yahoo!, Google and Overture not record information by means of these web beacons on the Mercury General Insurance web site, please visit [Yahoo!](http://privacy.yahoo.com/privacy/us/pixels/details.html), [Google](http://www.google.com/intl/en/privacy.html), or [Overture](http://docs.yahoo.com/info/privacy/us/yas.html) in order to opt out.
+Mercury Insurance Group Privacy Statement Mercury Insurance Group works with Yahoo!, Google and Overture to research certain usage and activities on our web site on our behalf. Yahoo!, Google and Overture use web beacons to conduct this research. The information collected through these web beacons is used to find out more about our users, including user demographics and usage patterns, for more accurate reporting and to improve the effectiveness of our marketing. Information recorded through the use of these web beacons is aggregated and then shared with us. No personally identifiable information about you is shared by Yahoo!, Google or Overture with Mercury General Insurance as a result of this research. If you prefer that Yahoo!, Google and Overture not record information by means of these web beacons on the Mercury General Insurance web site, please visit [Yahoo!](http://privacy.yahoo.com/privacy/us/pixels/details.html), [Google](http://www.google.com/intl/en/privacy.html), or [Overture](http://docs.yahoo.com/info/privacy/us/yas.html) in order to opt out.
 
 Mercury and its affiliated companies appreciate the trust you place in us when you ask us to help protect you and your assets. You trust us with your private, personal information when you purchase insurance from us. We are committed to protecting your private information. Mercury does not sell information about you to others.
 
@@ -22,11 +22,11 @@ We collect personal information about you from:
 
 We treat your information with respect and concern for your privacy. We do not disclose any nonpublic personal information about our customers or former customers to anyone, except as permitted by law.
 
-For example, we may share any or all of your information with our affiliated companies and independent Mercury representatives and Independent Insurance Agents/Brokers authorized to sell Mercury products. We may also disclose any or all information we have collected about you to companies that perform services on our behalf with whom we have joint marketing agreements.
+For example, we may share any or all of your information with our affiliated companies. We may also disclose any or all information we have collected about you to companies that perform services on our behalf.
 
 When we make this type of disclosure it is done to service your Mercury account or policy, or to inform you about Mercury products and services. Before disclosing your information, we require these companies to promise to keep it confidential and use it only for the transaction we request.
 
-The Independent Insurance Agents/Brokers authorized to sell Mercury products and services are not Mercury employees and not subject to Mercury’s Privacy Policy. Because they have a unique business relationship with you, they may have additional personal information about you that Mercury does not have. They may use this information differently than Mercury. Contact your Mercury Agent/Broker or advisor to learn more about their privacy practices
+The Independent Insurance Agents/Brokers authorized to sell Mercury products and services are not Mercury employees and are subject to Mercury’s Privacy Policy only insofar as they sell or service our products. Because they have a unique business relationship with you, they may have additional personal information about you that Mercury does not have. They may use this information differently than Mercury. Contact your Mercury Agent/Broker or advisor to learn more about their privacy practices.
 
 **Information collected**  
 Mercury collects personal information (for example, name, address, e-mail address, telephone number or social security number) on our web site only when you voluntarily provide it to us. Only your Internet domain is recognized when you visit our website; your individual e-mail address is not.
@@ -47,7 +47,7 @@ Mercury has security measures in place to protect the loss, misuse, and alterati
 **Links to other sites**  
 MercuryInsurance.com contains links to other web sites. These other web sites are not under Mercury's direct control, and they may collect information about you that Mercury does not. We are not responsible for the privacy practices or the content of linked web sites.
 
-We limit employee access to customer information to those employees with a legitimate business reason for such access. We maintain physical, electronic and procedural safeguards to protect your personal information from being accessed by unauthorized persons.
+We limit employee access to customer information to those employees with a legitimate business reason for such access. We maintain physical, electronic and procedural safeguards to protect your personal information from being accessed by unauthorized persons. We also conduct regular risk assessment, risk management and control, and oversight of our service providers to assure the effectiveness of these safeguards.
 
 Mercury obtains medical information only in connection with specific products or claims. We will not use or share personally identifiable medical information for any purpose other than the underwriting or administration of your policy, claim or account, or as otherwise disclosed to you when the information is collected.
 
@@ -78,7 +78,6 @@ Please be aware that we may periodically update or revise this Statement. Please
 **American Mercury Insurance Company** _ **Oregon**_  
 **American Mercury Insurance Company** _ **Pennsylvania**_  
 **Mercury Insurance Company of Florida** _ **Texas**_  
-**Concord Insurance Services, Inc**  
 **Mercury County Mutual Insurance Company**  
 **American Mercury Insurance Company**  
 **American Mercury Lloyds Insurance Company** _ **Virginia**_  
