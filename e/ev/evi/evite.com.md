@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evite.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615001357id_/http%3A//www.evite.com/pages/custservice/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evite.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129052748id_/http%3A//www.evite.com/pages/custservice/privacy.jsp) for the most accurate reproduction.*
 
 # Evite - View our privacy policy.
 
