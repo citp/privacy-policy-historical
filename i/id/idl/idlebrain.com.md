@@ -1,27 +1,104 @@
-> *The following text is extracted and transformed from the idlebrain.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212094224id_/http%3A//www.idlebrain.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idlebrain.com privacy policy that was archived on 2006-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061129015509id_/http%3A//www.idlebrain.com/privacy.html) for the most accurate reproduction.*
 
-# Idle Brain
+# Idlebrain.com Privacy Policy
 
-**
+Idlebrain.com wants you to:
 
-**
+1\. Feel comfortable using our web sites   
+2\. Feel secure submitting information to us   
+3\. Contact us with your questions or concerns about privacy on this site   
+4\. Know that by using our sites you are consenting to the collection of certain data 
 
-Privacy Statement for Idlebrain.com
+WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?
 
-******
+We may collect certain anonymous information in standard usage logs through our Web server, including: computer-identification information obtained from "cookies", sent to your browser from a
 
-Idlebrain.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Idlebrain.com. 
+1\. Web server and stored on your hard drive   
+2\. An IP address, assigned to the computer which you use   
+3\. The domain server through which you access our service   
+4\. The type of computer you're using   
+5\. The type of web browser you're using 
 
-We use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to gather broad demographic information, such as country of origin. 
+We may collect the following personally identifiable information about you:
 
-Through surveys and newsletter registration, our site may request users to give us contact, demographic, and/or financial information (such as their name, locale, gender, age, income level and email address). The demographic information is used to enhance user experience so we can be more content specific. The contact information is used to notify users of new content, for surveys and newsletters, via email. Financial information that is collected is used primarily for in-house statistics, advertising, and marketing target information. 
+1\. Name   
+2\. Email address   
+3\. ZIP/Postal code   
+4\. Demographic profile (like your age, gender,occupation,education and durables owned)   
+5\. Interests (such as news, sports, travel and so on)   
+6\. Financial information (like account or credit card numbers)   
+7\. Opinions of features on our website(s). 
 
-We run contests on our site in which we ask visitors for contact information (such as their name and email address) and demographic information (such as their zip code, age, and/or income level). The user's contact information is used to contact the visitor when necessary, such as if they win a contest or to notify users of upcoming contests. There are three primary types of contests:   
-(1.) We host solely and all information that is collected stays in-house.   
-(2.) We may share address information with third party for shipping purposes.   
-(3.) In some rare instances, a third party may host the contest and all information is then shared.   
-In our contest registration, we give our users the opportunity to sign up for the Idlebrain.com newsletter. However, users may opt-out of receiving future mailings by selecting the "unsubscribe" link at the bottom of the newsletter. 
+WHO COLLECTS THE INFORMATION?
 
-This site contains links to other sites. Idlebrain.com is not responsible for the privacy practices or the content of such websites. Public Forums in this site contains message boards, and/or news groups available to its users. We request users to give us contact information, such as name, email, address, occupation, and interests to be a registered bulletin board user. This information is optional and not necessary to post messages. This information may be used by the administrator to send the user email notices. However, users may opt-out of receiving future mailings. Please remember that any information that is disclosed in these areas becomes public information and users should exercise caution when deciding to disclose personal information. 
+1\. We will collect anonymous traffic information from you when you visit our site.   
+2\. We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey or contest.   
+3\. Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.   
+4\. The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites.   
+5\. We may make chat rooms, forums, instant messenger and message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone. 
 
-**
+HOW'S THE INFORMATION USED?
+
+We use personal information to:
+
+1\. Help us provide personalized features   
+2\. Tailor our sites to your interest   
+3\. Get in touch with you when necessary 
+
+We use contact information internally to:
+
+1\. Direct our efforts for product improvement   
+2\. Contact you as a survey respondent   
+3\. Notify you if you win any contest   
+4\. Send you promotional materials from our contest sponsors or advertisers 
+
+Generally, we use anonymous traffic information to:
+
+1\. Remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective   
+2\. Recognize your access privileges to our Web sites   
+3\. Track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings   
+4\. Make sure that you don't see the same ad repeatedly   
+5\. Help diagnose problems with our server   
+6\. Administer our Web sites   
+7\. Track your session so that we can understand better how people use our sites 
+
+WITH WHOM WILL YOUR INFORMATION BE SHARED?
+
+We will not disclose any of your personally identifiable information to third parties unless:
+
+1\. We have your permission   
+2\. Special circumstances such as compliance with legal authorities require disclosure 
+
+We will not use your financial information for any purpose other than to complete a transaction with you. We share survey contact information with advertisers on an aggregate basis only.
+
+WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION?
+
+Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register.
+
+Upon request, we will remove your personally identifiable information from our database, thereby canceling your registration. See contact information below.
+
+If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.
+
+All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to http://www.cookiecentral.com/faq/.
+
+WHAT SECURITY PROCEDURES ARE IN PLACE TO PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION?
+
+To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel.
+
+Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
+
+IN WHAT WAYS CAN THIRD PARTY ADVERTISING WORK?
+
+We use a few third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+
+In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
+
+HOW CAN YOU CORRECT INACCURACIES IN THE INFORMATION?
+
+To correct or update any information you have provided, our sites give you the following options for changing:
+
+Send an e-mail to webmaster at idlebrain dot com
+
+POLICY UPDATES
+
+We reserve the right to change or update these policies at any time upon reasonable notice, effective immediately upon posting to this site.
