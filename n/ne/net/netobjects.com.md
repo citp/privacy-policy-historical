@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the netobjects.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020816id_/http%3A//netobjects.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netobjects.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130031055id_/http%3A//www.netobjects.com/html/privacy.html) for the most accurate reproduction.*
 
 # NetObjects - Privacy Policy
 
-**Website Pros Privacy Statement**
-
-Website Pros respects the privacy of the visitors of its website, the home page of which is located at [http://www.netobjects.com.](http://www.netobjects.com./)
+Website Pros Privacy StatementWebsite Pros respects the privacy of the visitors of its website, the home page of which is located at [http://www.netobjects.com.](http://www.netobjects.com./)
 
 This Privacy Statement is intended to inform you of our policies and practices regarding the collection, use and disclosure of any personal information you submit to us through our website. “Personal Information” is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
 
