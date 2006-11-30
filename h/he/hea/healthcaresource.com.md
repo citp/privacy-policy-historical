@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcaresource.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615050006id_/http%3A//healthcaresource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcaresource.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130025845id_/http%3A//www.healthcaresource.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
