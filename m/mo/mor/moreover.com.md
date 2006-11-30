@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moreover.com privacy policy that was archived on 2006-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060411134531id_/http%3A//w.moreover.com/site/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreover.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130121811id_/http%3A//w.moreover.com/site/company/privacy.html) for the most accurate reproduction.*
 
 # Moreover : Company
 
