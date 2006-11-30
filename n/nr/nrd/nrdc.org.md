@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrdc.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615233639id_/http%3A//www.nrdc.org/action/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrdc.org privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130185114id_/http%3A//www.nrdc.org/action/privacy.asp) for the most accurate reproduction.*
 
 # NRDC Privacy Policy
 
@@ -16,10 +16,10 @@ To forward an article, postcard or action alert you must enter your name, your e
 In addition to information you enter when sending messages to friends and decision-makers from NRDC's website, you may submit information directly to NRDC for purposes including donating, subscribing to an email bulletin or entering a contest. NRDC will not disclose this information to anyone except in accordance with any rules you agree to as a contestant and, as described above, to manage our website and database with the help of service providers, who are subject to a non-disclosure agreement.
 
 **Reviewing and Updating Your Information**  
-You can review and update the information we have on record for you by going to NRDC's [Subscriber Profile Editor](http://www.nrdcaction.org/profileEditor/). If it's your first time using the profile editor, you'll need to provide your email address on the log-in page so we can send you a password.
+You can review and update the information we have on record for you by going to NRDC's [Subscriber Profile Editor](http://www.nrdconline.org/nrdc/smp). If it's your first time using the profile editor, you'll need to provide your email address on the log-in page so we can send you a password.
 
 **Communications from NRDC**  
-If you have opted to receive any of our publications by email you are able at any time to unsubscribe by following the directions that appear [here](http://www.nrdcaction.org/join/subscribe.asp) and in the email publication itself or by contacting NRDC (a link to our contact information appears at the foot of this page).
+If you have opted to receive any of our publications by email you are able at any time to unsubscribe by following the directions that appear [here](http://www.nrdcaction.org/subscribe.html) and in the email publication itself or by contacting NRDC (a link to our contact information appears at the foot of this page).
 
 When you provide NRDC with your email address and mailing address we may contact you to ask you to become a member of NRDC. You can choose not to receive such requests by contacting our membership department at [membership@nrdc.org](mailto:membership@nrdc.org).
 
