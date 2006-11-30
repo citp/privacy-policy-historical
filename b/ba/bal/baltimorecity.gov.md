@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimorecity.gov privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204183314id_/http%3A//www.baltimorecity.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimorecity.gov privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130115434id_/http%3A//www.baltimorecity.gov/privacy.html) for the most accurate reproduction.*
 
 # BaltimoreCity.gov: Privacy Statement
 
@@ -42,4 +42,4 @@ Furthermore, this site takes reasonable measures to maintain the confidentiality
 
 If you have comments or questions about our privacy policy, please e-mail the site's administrator at [webmaster@baltimorecity.gov](mailto:webmaster@baltimorecity.gov).
 
-[Home Page](https://web.archive.org/web/20050204183314id_/http%3A//www.baltimorecity.gov/news/index.html) • [Terms of Use](https://web.archive.org/web/20050204183314id_/http%3A//www.baltimorecity.gov/policy.html)
+[Home Page](https://web.archive.org/web/20061130115434id_/http%3A//www.baltimorecity.gov/news/index.html) • [Terms of Use](https://web.archive.org/web/20061130115434id_/http%3A//www.baltimorecity.gov/policy.html)
