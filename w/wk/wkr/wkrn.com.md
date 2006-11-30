@@ -1,65 +1,58 @@
-> *The following text is extracted and transformed from the wkrn.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207144704id_/http%3A//www.wkrn.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkrn.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130133826id_/http%3A//www.wkrn.com/node/2510) for the most accurate reproduction.*
 
-# This Station’s Privacy Policy
+# PRIVACY POLICY | WKRN.COM
 
-**This Station’s Privacy Policy**   
-Email story to a friend    
-This station provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this station's site (the "Web site"). Because the success of this station is dependent on building and maintaining goodwill with our customers, this station and WorldNow (hereinafter collectively referred to as "we" or “us” or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
+[ Posted on February 2, 2006, 07:07 pm ]
 
-Although we respect the privacy of all those who visit the Web site and use our online services, we do collect information from our Web site's members and visitors. This Privacy Policy governs your interaction with the Web site, and your registration for and use of this station's online services. Except as set forth within this Privacy Policy and this Web Site's Terms of Service and/or other published guidelines, we do not release personally identifiable information about this Web site's members and visitors without their permission.
+**PRIVACY POLICY**
 
-Please note that we review these privacy practices from time to time, and that these practices are therefore subject to change. We ask that you periodically review this page to ensure continuing familiarity with the most current version of this Web site's Privacy Policy. To contact us about privacy issues, to report a violation of this Web site's Privacy Policy, or to raise any other issue regarding the Web site, please e-mail us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
+Young Broadcasting of Nashville, LLC ("WKRN-TV") is committed to protecting the privacy of our customer's personal information. This statement applies with respect to the information that we collect from the WKRN-TV Web site, located at WKRN.com. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
-**The information we gather**
+**I. INFORMATION COLLECTED**
 
-We gather two types of information about this Web site's users:
+We collect non-personally identifiable information about you in a number of ways, including tracking your activities through your IP address, computer settings or most-recently visited URL. We may also ask you to provide certain non-personally identifiable information about yourself, such as your age, household income, buying preferences, etc. We do not collect any personally identifiable information about you unless you voluntarily submit such information to us, by, for example, filling out a survey or registration form. The types of information that may be requested include your name, address, e-mail address, and telephone number.
 
-(1) **Non-personally identifiable information:** When visitors come to the Web site, we collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which hyperlinks were "clicked." Collecting such information involves the logging of IP addresses, operating system and browser software used by each visitor to the Web site. Although such information is not personally identifiable, we can determine from the IP address a visitor's Internet Service Provider and the geographic location of his or her point of connectivity.
+**II. USE OF INFORMATION**
 
-The non-personally identifiable information we collect helps us diagnose problems with our server, administer the Web site, identify the most popular areas of the Web site, and determine the effectiveness of our promotional activities. In addition, we may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements.
+In general, we will only use the information you provide to us for the purpose for which such information was provided. We may also use this information to deliver to you information about our WKRN-TV and promotional material from some of our partners, trend analysis, pattern detection, and site administration. Your information may also be used to contact you when necessary and may be shared with other companies that may want to contact you with offers consistent with your stated preferences. Users may opt-out of receiving future mailings from WKRN-TV and other entities by following the instructions set forth in the opt-out section below.   
+Non-personal demographic and profile data is used to tailor your experience at our site, showing you content we think you might be interested in. This information may also be shared with advertisers on an aggregate non-personal basis.
 
-For the same purposes, we use "cookies"---that is, small text files placed on your computer's hard drive---to help us determine the type of content and sites to which you link, the length of time you spend at any particular area of the Web site, and your usage of our services offered via the Web site. Cookies also tell us which advertising you have seen on the Web site.  We use an outside advertising company to display advertisements on the Web site that may contain cookies ("banner ads"). These banner ads collect information stored by the advertising company and we do not have access to this information.
+**III. USE OF IP ADDRESSES**
 
-Essentially, cookies are your identification cards for our computers, or servers, that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus. Cookies allow us to serve you better and more efficiently, and to personalize your experience at the Web site. Nevertheless, you should be able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser.
+We use your IP Address to help diagnose problems with our server, and to administer our Web site.
 
-(2) **Personally identifiable information:** In certain areas of the Web site, such as online surveys and contests, the Web site may require---that you provide this station with personally identifiable information (including, for example, zip code, age, income, and e-mail address, and when applicable, credit card information). WorldNow, as host of the Web site, has access to this information. In addition, when registering to set up an account to use certain services of the Web site such as e-mail, chat rooms, and forums, or to receive certain newsletters or specifically targeted information ("Services"), we do require that you provide both your name and your current, valid e-mail address.
+**IV. USE OF COOKIES**
 
-We do not knowingly collect personally identifiable information from children (defined herein as minors younger than 13 years of age) without obtaining parental consent. Before registering for an account to use the Services of the Web site, we ask that all minors have their parents read our Privacy Policy. Before and during the registration process, we encourage all minors to include a parent or guardian in the process.
+When you view our Web site we might store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a Web site as easily as possible. We use cookies to deliver content specific to your interests and to prevent you from reentering all your registration data at each connection.   
+We use an outside advertisement server WKRN-TV to display ads on our site. These ads may contain cookies. The advertisement server WKRN-TV may collect cookies received with outside banner ads. We do not have access to information that would confirm the use of cookies by the advertisement server WKRN-TV.
 
-We do not control the acts of this Web site's members or visitors. All members and visitors should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guestbook, or other forum, the information may be collected and used by others to send that person unsolicited e-mail from other parties outside this station or WorldNow. In the event that you encounter any user on this Web site who is improperly collecting or using information about you or other users, please contact [Info@WorldNow.com](mailto:Info@WorldNow.com).
+**V. SECURITY**
 
-**How we use (and do not use) the information we gather**
+Our site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all reasonable steps to insure the safety of your personal information.
 
-Please take some time to familiarize yourself with the different ways we use the information that we gather. Keep in mind that, while we encourage all third parties involved---including its affiliates and advertisers---to adhere to our policies regarding the privacy of this Web site's visitors and members and to otherwise handle personal information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from us or independently. Nevertheless, in the event you encounter any third party associated with, or who claims association with us who you feel is improperly collecting or using information about you, please contact [Info@WorldNow.com](mailto:Info@WorldNow.com); we will be happy to forward your message to the third party.
+**VI. OTHER WEB SITES; LINKS**
 
-(1) **How we use (and do not use) non-personally identifiable information:** We use non-personally identifiable information in aggregate form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of the Web site's members and visitors, and by measuring demographics and interests regarding specific areas of the Web site. We provide statistical information based on this data to advertisers, affiliates, and other current and potential business partners. We also use the aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their web sites.
+Our Web site contains links to other Web sites. WKRN-TV is not responsible for the privacy practices or the content of such Web sites.
 
-The Web site may contain links to other Internet web sites, including co-branded or other affiliated sites that may or may not be owned or operated by us. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such web sites, including such sites' use of any information (such as IP number, browser type, or operating system) collected when visitors to the web site click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those sites.
+**VII. CORRECT; UPDATE**
 
-(2) **How we use (and do not use) personally identifiable information:** We provide notice to potential registrants of this Web site whose personally identifiable information will be collected during the registration process. Such notice is provided simultaneously with your registration with this website; moreover, this Privacy Policy itself serves as notice that such information is collected under those circumstances. Although you may not "opt out" of the registration process if you wish to have access to Services, you may choose to "opt out" of receiving promotional materials from us and/or its affiliates, advertisers, or other business partners. If you do not "opt out" of receiving such promotional materials, we reserve the right to release any personally identifiable registration information regarding you to third parties who provide goods or services that we believe may be of interest to you. We will not release your credit card information to third parties unless necessary to complete a transaction between you and such a third party. If you decide that you would like to discontinue receiving promotional information from such third parties, please contact those third parties directly, or contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
+WKRN-TV allows its users the option to change or modify information previously provided. This may be done through the following methods:   
+(1) e-mail the information to WKRN.com   
+(2) visit the Customer Service section of the site and follow the   
+appropriate instructions.   
+Unfortunately, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or corrected in our records.
 
-We limit our own e-mail contact and solicitations to those customers who have not "opted out" of receiving such communications. The solicitations are limited in that they, among other things, will clearly indicate the originator of the e-mail and provide the customer with a method of "opting out" of receiving future communications of a similar nature.
+**VIII. CHOICE; OPT OUT**
 
-In addition, we sometimes use individual data to "target" advertising to decide which advertisements and sponsor messages to show to which members. As an example, if Sponsor XYZ wishes to display their advertising only to female members of this Web site, we use member registration data to ensure that Sponsor XYZ's ads are displayed only to female members.
+You may opt-out of receiving communications from our partners, and from us, by the following means:   
+(1) send an e-mail to WKRN.com   
+(2) visit the Customer Service section of the site and follow   
+the appropriate instructions.
 
-Finally, we may use individual members' data to "pre-populate" forms which are displayed for the purpose of collecting individual data by us and/or our sponsors. In no case does pre-populating a form transfer any data to any advertiser or third party. Only if the member voluntarily requests that such data be transferred will any transfer take place---for example, if/when a member clicks a "submit form" button or other button.
+**IX. PUBLIC FORUMS**
 
-We reserve the right to release any and all information contained within our access logs concerning any visitor or member when that visitor or member is in violation of our Terms of Service or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, even without a subpoena, warrant, or other court order, and to release such information in response to discovery requests, or in response to any circumstance which we, in our sole discretion, deem an emergency. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution.
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-If and when we sponsor promotions or sweepstakes, or third parties sponsor promotions or sweepstakes in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the promotion or sweepstakes. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular promotion or sweepstakes.
+**Contacting us:**
 
-**Security**
-
-All information gathered on the Web site is stored within a WorldNow controlled database accessible only to us to protect the loss, misuse, or alteration of the information under our control. However, as effective as any security measure implemented by us may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
-
-**Changing/deleting personal information**
-
-If you would like to have your personally identifiable information changed or removed from our database, please contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to recontact former customers or users of this Web site.
-
-**Third-Party Ad Serving**
-
-We use third-party advertising companies to serve ads when you visit our web site.  These companies may use information (not including your name, address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know you choices about not having this information used by these companies, please contact us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
-
-**Questions?**
-
-Questions regarding this Privacy Policy should be directed to us at [Info@WorldNow.com](mailto:Info@WorldNow.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at WKRN.com.
