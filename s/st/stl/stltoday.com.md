@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210119id_/http%3A//www.stltoday.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stltoday.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130082337id_/http%3A//www.stltoday.com/help/privacy-policy) for the most accurate reproduction.*
 
 # STLtoday - Help Center - Privacy Policy
 
@@ -27,7 +27,7 @@ An IP address is a number assigned to your computer when you connect to the Inte
 
 STLtoday.com
 
-collects IP addresses and related information for the purposes of system administration, to assess the traffic to our site, to report aggregate information to our advertisers, and to maintain and improve our site. We do not link IP addresses to your personally identifiable information. We can and will use IP addresses, however, to identify a user when we feel it is necessary to enforce compliance with our terms of service or to protect our service, site, customers or others.
+collects IP addresses and related information for the purposes of system administration, to assess the traffic to our site, to report aggregate information to our advertisers, and to maintain and improve our site. We do not link IP addresses to your personally identifiable information. We can and will use IP addresses, however, to identify a user when we feel it is necessary to enforce compliance with our terms of service or to protect our service, site, customers or others. 
 
 **Use Of Cookies**
 
@@ -63,19 +63,19 @@ If you want to change, correct or update your registration information and prefe
 
 **CHILDREN UNDER THE AGE OF 13 YEARS**
 
-In accordance with the Children’s Online Privacy Protection Act (COPPA), STLtoday.com will not accept personally identifiable information from a child under the age of 13 without a parent’s or guardian’s prior consent. STLtoday.com will also allow the parent or guardian of a registered user under the age of 13 to review, update, change, delete or refuse to permit further collection of any and all information collected by STLtoday.com. A child’s personally identifiable information will be treated with the same care and respect as an adult’s information. To change, update, review, delete or refuse to permit further collection of your child's information, please send an e-mail to sitehelp@STLtoday.com, call STLtoday.com's Customer Support at (314) 552-1403, or send a letter via postal mail to:
+In accordance with the Children’s Online Privacy Protection Act (COPPA), STLtoday.com will not accept personally identifiable information from a child under the age of 13 without a parent’s or guardian’s prior consent. STLtoday.com will also allow the parent or guardian of a registered user under the age of 13 to review, update, change, delete or refuse to permit further collection of any and all information collected by STLtoday.com. A child’s personally identifiable information will be treated with the same care and respect as an adult’s information. To change, update, review, delete or refuse to permit further collection of your child's information, please send an e-mail to sitehelp@STLtoday.com, call STLtoday.com's Customer Support at (314) 657-3300, or send a letter via postal mail to:
 
 STLtoday.com  
 c/o Customer Support  
-400 South Fourth Street  
-St. Louis, MO 63102
+900 N. Tucker Blvd.  
+St. Louis, MO 63101
 
-To register a child under the age of 13, please fill out the following form, fax the form to STLtoday.com at (314) 552-1403 or mail it to:
+To register a child under the age of 13, please fill out the following form, fax the form to STLtoday.com at (314) 657-3301 or mail it to:
 
 STLtoday.com  
 c/o Customer Support   
-400 South Fourth Street  
-St. Louis, MO 63102
+900 N. Tucker Blvd.  
+St. Louis, MO 63101
 
 **LINKS TO OTHER SITES**
 
@@ -85,7 +85,7 @@ These other sites may send their own cookies to users, collect data or solicit p
 
 **HOW YOU MAY CHANGE OR CORRECT YOUR INFORMATION**
 
-f you want to change, correct or update your registration information and preferences to which you have previously opted-in, please login on any forum page and select "Profile" from the list on the right-hand side of the page. Make the desired revisions in your profile and save. To eliminate your registration from the STLtoday.com database e-mail your request to sitehelp@stltoday.com, call STLtoday.com’s Customer Support at (314) 552-1403 or send your request to STLtoday.com, c/o Customer Support, 400 South Fourth Street, Suite 1200, St. Louis, MO 63102 and the necessary revision(s) will be made. This provision applies only to registration information collected via our web site.
+If you want to change, correct or update your registration information and preferences to which you have previously opted-in, please login on any forum page and select "Profile" from the list on the right-hand side of the page. Make the desired revisions in your profile and save. To eliminate your registration from the STLtoday.com database e-mail your request to sitehelp@stltoday.com, call STLtoday.com’s Customer Support at (314) 657-3300 or send your request to STLtoday.com, c/o Customer Support, 900 N. Tucker Blvd., St. Louis, MO 63101 and the necessary revision(s) will be made. This provision applies only to registration information collected via our web site.
 
 **SECURITY PROCEDURES WE USE**
 
