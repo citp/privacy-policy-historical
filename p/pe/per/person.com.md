@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the person.com privacy policy that was archived on 2006-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060614122418id_/http%3A//person.com/faka.phtml%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the person.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130162610id_/http%3A//person.com/faka.phtml%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Person.com: Frequently Asked Questions
 
@@ -6,8 +6,8 @@
 
 [](https://web.archive.org/)
 
-|  |   
----  
+|  |  |  |  |  [make us your homepage]() |  |  [202135 members](https://web.archive.org/new/search.personals.phtml) |  |  [2014 members online](https://web.archive.org/new/search.personals.phtml?onlineOnly=1) |  |  [bookmark us]() |  |  [support](https://web.archive.org/support.phtml?msection=support)  
+---|---|---|---|---|---|---|---|---|---|---  
 |  |  | 
 
 **Keeping your privacy is very important to us.**
