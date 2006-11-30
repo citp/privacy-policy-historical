@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetchfido.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615175718id_/http%3A//www.fetchfido.co.uk/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchfido.co.uk privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130035811id_/http%3A//fetchfido.co.uk/home/privacy.htm) for the most accurate reproduction.*
 
 # Privicy Policy
 
@@ -16,6 +16,6 @@ The site fully agrees and complies to [COPPA](http://www.ftc.gov/bcp/conline/pub
 
 Fetchfido contains links to other sites, Fetchfido is not responsible for the privacy practices or the content of such Web sites.
 
-Please [email](mailto:paul@fetchfido.co.uk) if you have any questions.
+Please [email](mailto:fetchfido@gmail.com) if you have any questions.
 
 \------------------------------------------------------------------------
