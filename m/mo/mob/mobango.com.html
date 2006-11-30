@@ -1,18 +1,19 @@
-<!--The following is the downloaded HTML source of the mobango.com privacy policy that was archived on 2006-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060620155614id_/http%3A//mobango.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mobango.com privacy policy that was archived on 2006-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061130171410id_/http%3A//www.mobango.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8)">
+
 <link rel="shortcut icon" type="image/gif" href="/images/ico_littlemo.gif">
-<title>MOBANGO - Share your mobile media with friends:  free mp3 ringtones, mobile video, photos, software for your cell phone</title>
-	<meta name="description" content="Upload, download, share mobile content for all cell phones with friends and family">
-	<meta name="keywords" content="ringtones, free ringtones, mp3 ringtones, mp3 tones, mobile games, free mobile games, wallpapers, mobile downloads, free downloads, community, mobile community, cell phone, cell, cell phone ringtones, cell phone games, friends, networking, share, sharing photos, sharing mp3, sharing ringtones,  polyphonic, mobilephone, cell phone downloads, realtones, true tones, images, photos, pictures, mobile images, mobile photos, blog, blogs, social network, 3g, mobile software, mobile video, video, video phone, sharing, wap site, groups, mobile groups, WAP, wallpaper, real music ringtones, free ringers, mobile content, mobile services, mobile users, pics, join, camera phone, O2, T-Mobile, Sprint, Verizon, AT&amp;T, ATT, Cingular, Vodafone, Movistar, TIM, Motorola, Nokia, Samsung, Ericsson, Sony, LG, Siemens, SonyEricsson, BenQ">
+			<title>MOBANGO - Tools &amp; software</title>
+		
+	<meta name="description" content="Tools &amp;amp; software">
+	<meta name="keywords" content="ringtones, free ringtones, mp3 ringtones, mp3 tones, mobile games, free mobile games, wallpapers, mobile downloads, free downloads, community, mobile community, cell phone, cell, cell phone ringtones, cell phone games, friends, networking, share, sharing photos, sharing mp3, sharing ringtones, polyphonic, mobilephone, cell phone downloads, realtones, true tones, images, photos, pictures, mobile images, mobile photos, blog, blogs, social network, 3g, mobile software, mobile video, video, video phone, sharing, wap site, groups, mobile groups, WAP, wallpaper, real music ringtones, free ringers, mobile content, mobile services, mobile users, pics, join, camera phone, O2, T-Mobile, Sprint, Verizon, AT&amp;T, ATT, Cingular, Vodafone, Movistar, TIM, Motorola, Nokia, Samsung, Ericsson, Sony, LG, Siemens, SonyEricsson, BenQ">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
 
 <link rel="stylesheet" type="text/css" href="/css/mobango.css">
 
-<script language="JavaScript" src="/js/mobango.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://mobango.com/js/mobango.js" type="text/javascript"></script>
 <script language="Javascript" type="text/javascript">
 <!--
 function trim(s)
@@ -23,16 +24,35 @@ function trim(s)
            { s = s.substring(0,s.length-1); }
       return s;
     }
-function check()
+function check(adult)
 {
-	document.keysrch.submit();
+	//document.keysrch.submit();
+	var search_url;
+	var key = document.getElementById('key').value;
+	if(adult == 1)
+		search_url = '/view/search.php?search=key&adult=1&key='+key;
+	else
+		search_url = '/view/search.php?search=key&key='+key;
+	//alert(search_url);
+	window.location.href=search_url;
     return true;
+}
+function chkEnter(e,adult){
+	if(e.keyCode == 13) {
+		if(adult==1)
+			check(1);
+		else 
+			check();
+	}
 }
 -->
 </script>
 
 </head>
-<body><div id="layout">
+<body>
+<div id="layout">
+<!--10.0.3.32-->
+	<div><img src="/pv/pv_template1.gif" width="0" height="0" alt=""></div>
 	<a href="/"><img src="/images/mobango_logo.gif" title="Welcome to Mobango Home" border="0" class="mlogo" alt=""></a>
 	<div id="main-crumbs"><a href="/signup/">Sign up</a>  | <a href="/help/">Help</a> |  <a href="/login/">Login</a> </div>
 
@@ -40,9 +60,9 @@ function check()
 		  <ul>
 		  			<li><a href="/">Home</a></li>
 			<li><a href="/mobile_stuff/">Mobile Stuff</a></li>
-			<li><a href="/ugc/">Destinations</a></li>
+			<li><a href="/ugc/">Categories</a></li>
 			<li><a href="/view/friend.php">Friends</a></li>
-			<li><a href="/resource/">Resources</a></li>
+			<li><a href="/resource/">Tools</a></li>
 			<li><a href="/view/upload.php">Upload</a></li>
 		 		 </ul>
 	</div>
@@ -55,15 +75,17 @@ function check()
   </div>
 <div id="search-bar">
 	<div class="rounded"><div><div><div>
-		 	<form action="/view/search.php?search=key" method="post" class="f-left" name="keysrch" onsubmit="return check();">
-	 	 	<label class="lbl-search">Search Mobango</label>
-		<input name="key" type="text" class="txt-search" title="Search" alt="Key Search" value="" maxlength="50">
+	 <form action="/view/search.php?search=key&amp;adult=1" method="get" class="f-left" name="keysrch">
+	 <label class="lbl-search">Search Mobango</label>
+	 	<input type="hidden" name="search" value="key">
+				<input name="key" id="key" type="text" class="txt-search" title="Search" alt="Key Search" value="" maxlength="50">
 		<table class="btn-search btn-font" align="center" border="0" cellpadding="0" cellspacing="0">
 				 <tbody><tr>
 				<td width="10">
 				<img src="/images/btn_01.gif" width="10" height="22" alt=""></td>
 				<td bgcolor="#3366CC">
-				<a href="#" class="btn-link" onclick="return check();">Search</a></td>
+									<a href="#" class="btn-link" onclick="return check();">Search</a></td>
+					
 				<td width="10">
 				<img src="/images/btn_03.gif" width="10" height="22" alt=""></td>
 				</tr> </tbody>
@@ -72,13 +94,13 @@ function check()
        	 </form>
 	</div></div></div></div>
 </div>
-<!--<form name="dummy" action="" method="post"></form>-->
+	
 <div class="bread-crumbs"><a href="/">Home</a> &gt; </div>
+<div class="heading"><span class="headtxt">PRIVACY</span></div>
 <div class="terms-des">
 	<ul>
-		<!--<br/><br/>-->
-		<li><font style="font-size: 16px; "><b>PRIVACY</b></font></li>
-		<li><hr></li>
+	<!--<li ><font style="font-size: 16px; "><b>PRIVACY</b></font></li>
+		<li><hr /></li>-->
 		<li><font style="color:#003399; ">Dear Registered User,<br>
  Your privacy is very important to us. That is why privacy protection will
 ALWAYS be a high priority at Mobango. We are committed to protecting the privacy
@@ -106,40 +128,59 @@ Please refer to the section <a href="../view/termsofservices.php" class="orange1
   
 <br clear="all">
   <img src="/images//blank.gif" alt=""><br clear="all">
+	
 <div id="footer">
 <div class="foot-form">
- 	 	<form action="/view/search.php?search=key" method="post" name="footkeysrch" onsubmit="return footcheck();">
-	 	<label class="bl-bold">Search Mobango</label><br>
-	<input name="key" type="text" class="foot-txtbx" title="Text box" alt="Key Search" value="" maxlength="50"><br><img src="/images/blank.gif" alt=""><br clear="all">
+	<label class="bl-bold">Search Mobango</label><br>
+			<input name="footkey" id="footkey" type="text" class="foot-txtbx" title="Text box" alt="Key Search" value="" maxlength="50" onkeypress="chkEnterfoot(event)">
+		<br><img src="/images/blank.gif" alt=""><br clear="all">
 	<table class="btn-font" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 				<td width="10" height="22">
 				<img src="/images/btn_01.gif" width="10" height="22" alt=""></td>
 				<td bgcolor="#3366CC">
-				<a href="#" class="btn-link" onclick="return footcheck();">Search</a></td>
+									<a href="#" class="btn-link" onclick="return check();">Search</a></td>
+						
 				<td width="10" height="22">
 				<img src="/images/btn_03.gif" width="10" height="22" alt=""></td>
 				</tr>
 		</tbody></table>
-  </form> 
-
 </div>
 
 <div class="foot-mid">
- <a href="/"><strong>Home</strong></a> | <a href="/mobile_stuff/"><strong>Mobile Stuff</strong></a> | <a href="/ugc/"><strong>Destinations</strong></a> | <a href="/view/friend.php"><strong>Friends</strong></a> | <a href="/resource/"><strong>Resources</strong></a> | <a href="/view/upload.php"><strong>Upload</strong></a> <br>
+ <a href="/"><strong>Home</strong></a> | <a href="/mobile_stuff/"><strong>Mobile Stuff</strong></a> | <a href="/ugc/"><strong>Categories</strong></a> | <a href="/view/friend.php"><strong>Friends</strong></a> | <a href="/resource/"><strong>Tools</strong></a> | <a href="/view/upload.php"><strong>Upload</strong></a> <br>
  
 <script language="Javascript" type="text/javascript">
 <!--
-function footcheck()
+
+function footcheck(adult)
 {
-	    document.footkeysrch.submit();
-	    return true;
+	//document.keysrch.submit();
+	var search_url;
+	var key = document.getElementById('footkey').value;
+	if(adult == 1)
+		search_url = '/view/search.php?search=key&adult=1&key='+key;
+	else
+		search_url = '/view/search.php?search=key&key='+key;
+	//alert(search_url);
+	window.location.href=search_url;
+    return true;
+}
+function chkEnterfoot(e,adult){
+	if(e.keyCode == 13) {
+		if(adult==1)
+			footcheck(1);
+		else 
+			footcheck();
+	}
 }
 -->
 </script>
 
 
 
+<div style="align:center;color:#3367CD;margin: 20px 0;">
+Partners: <a href="http://www.thefreesite.com/" target="_blank">Thefreesite.com</a></div>
  </div>
 <div class="lt-align">
 	<a href="/"><img src="/images/foot_logo.gif" alt="Mobango" border="0"></a><br>
