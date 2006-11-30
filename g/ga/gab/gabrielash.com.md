@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gabrielash.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509050536id_/http%3A//www.gabrielash.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gabrielash.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130144514id_/http%3A//www.gabrielash.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Gabriel Ash Privacy Statement
 
@@ -14,7 +14,7 @@ Please tick the appropriate box if you do not wish to receive information about:
 
 **The Company's products or services**
 
-Or alternatively, you may opt-out by sending the Company an e-mail at enquiries@gabrielash.com calling us on 0800 085 1652, or writing to the Company at the following address: Gabriel Ash Monument Farm, Farndon, Chester, CH3 6QP . 
+Or alternatively, you may opt-out by sending the Company an e-mail at enquiries@gabrielash.com calling us on 0845 434 8897, or writing to the Company at the following address: Gabriel Ash Monument Farm, Farndon, Chester, CH3 6QP . 
 
 The Company may also use and disclose information in aggregate (so that no individuals are identified) for marketing and strategic development purposes. 
 
