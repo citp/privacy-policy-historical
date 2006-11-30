@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anhosting.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629010225id_/http%3A//www.anhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anhosting.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130051312id_/http%3A//anhosting.com/privacy.php) for the most accurate reproduction.*
 
 # AN Hosting - Powerful, award-winning hosting for just $6.95 per month
 
@@ -9,7 +9,7 @@ This is the web site of AN Hosting.
 Our postal for legal and privacy issues is satellite office: 
 
 AN Hosting  
-223 West Jackson Blvd. Suite 600  
+223 West Jackson Blvd. Suite 1014  
 Chicago, IL 60606 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
