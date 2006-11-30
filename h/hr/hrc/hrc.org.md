@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrc.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231055007id_/http%3A//hrc.org/Content/NavigationMenu/About_HRC/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrc.org privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130060001id_/http%3A//www.hrc.org/Content/NavigationMenu/About_HRC/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # HRC | Privacy Policy
 
