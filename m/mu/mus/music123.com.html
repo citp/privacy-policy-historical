@@ -1,198 +1,1388 @@
-<!--The following is the downloaded HTML source of the music123.com privacy policy that was archived on 2006-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060619213954id_/http%3A//www.music123.com/customerservice/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the music123.com privacy policy that was archived on 2006-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061130083505id_/http%3A//www.music123.com/CustomerService/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<html><head><title>Music123 : Customer Service</title><script src="/Scripts/Header.js"></script><link rel="SHORTCUT ICON" href="Icon/Music123.ico"><link href="/Music123.css" type="text/css" rel="stylesheet"></head><body vlink="#0000FF" bgcolor="#AFABA1"><div align="center">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td align="center">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link id="ctl00_Favicon" rel="SHORTCUT ICON" href="http://www.music123.com/favicon.ico"><link href="../App_Themes/default/Default.css" type="text/css" rel="stylesheet"><link href="../App_Themes/default/wwbw-old.css" type="text/css" rel="stylesheet"><title>
+	Privacy Policy
+</title></head>
+<body>
+    
+    
 
-<table width="850" border="0" cellspacing="0" cellpadding="0">
-  <!--- this row establishes the top line and corners ---->
+<noscript>
+<img id="ctl00_Mercent_imgMercentReferralAndTraffic" src="http://cdn.mercent.com/image.ashx?merchantID=Music123" border="0" />
+</noscript>
+    
+<script type="text/javascript">
+var w_strDetect = navigator.userAgent.toLowerCase();
+var w_strOS;
+var w_strBrowser;
+var w_strVersion;
+var w_strMatchString;
+var w_intPlaceHolder;
+var w_blnIE;
+
+if (checkIt('konqueror'))
+{
+	w_strBrowser = "Konqueror";
+	w_strOS = "Linux";
+}
+else if (checkIt('opera'))
+{
+	w_strBrowser = "Opera";
+}
+else if (checkIt('webtv'))
+{
+	w_strBrowser = "WebTV";
+}
+else if (checkIt('icab'))
+{
+	w_strBrowser = "iCab";
+}
+else if (checkIt('msie'))
+{
+	w_strBrowser = "Internet Explorer";
+}
+else if (!checkIt('compatible'))
+{
+	w_strBrowser = "Netscape Navigator"
+	w_strVersion = w_strDetect.charAt(8);
+}
+else
+{
+	w_strBrowser = "An unknown browser";
+}
+
+if (!w_strVersion)
+{
+	w_strVersion = w_strDetect.charAt(w_intPlaceHolder + w_strMatchString.length);
+}
+
+if (!w_strOS)
+{
+	if (checkIt('linux'))
+	{
+		w_strOS = "Linux";
+	}
+	else if (checkIt('x11')) 
+	{
+		w_strOS = "Unix";
+	}
+	else if (checkIt('mac')) 
+	{
+		w_strOS = "Mac";
+	}
+	else if (checkIt('win')) 
+	{
+		w_strOS = "Windows";
+	}
+	else 
+	{
+		w_strOS = "an unknown operating system";
+	}
+}
+
+function checkIt(string)
+{
+	w_intPlaceHolder = w_strDetect.indexOf(string) + 1;
+	w_strMatchString = string;
+	return w_intPlaceHolder;
+}
+
+w_blnIE = ((w_strBrowser == "Internet Explorer") && (w_strVersion >= 4));
+
+var w_sFunctionName = '';
+var w_bProcessing = false;
+var w_xhttpLogin = new ActiveXObject("Microsoft.XMLHTTP");
+
+/*
+*/
+function buildOptions(sNames, sValues, objSelect, bSingleEmpty)
+{
+  var myUndef;
+  if(bSingleEmpty == myUndef)
+  {
+	bSingleEmpty = true;
+  }
+
+  var nOptionCount = objSelect.length;
+  for(var i=0; i < nOptionCount; i++)
+  {
+ 	objSelect.options.remove(0);
+  }
+		
+  var aNames = sNames.split('~');
+  var aValues = sValues.split('~');
+  var nLength = aNames.length;
+  if(nLength != aValues.length)
+  {
+	alert('Error: buildOptions - sNames and sValues length are not the same.');
+	return;
+  }
+  nLength--;  // Hanging '~' makes length 1 too long
+	
+  var objElem;
+  if(bSingleEmpty)
+  {
+	objElem = document.createElement('OPTION');
+	objSelect.options.add(objElem);
+  }
+		
+  for(var i=0; i < nLength; i++)
+  {
+	objElem = document.createElement('OPTION');
+	objElem.text = aNames[i];
+	objElem.value = aValues[i];
+	objSelect.options.add(objElem);
+  }
+}
+
+/* 
+*  Allow a press of the Enter key to submit the form
+*  Add onKeyPress="return checkForEnter(event);" to form inputs
+*  Requires page to have submitForm() function
+*/
+function checkForEnter(e)
+{
+  var intKeyCode;
+	
+  if( window.event ) intKeyCode = window.event.keyCode;
+  else if( e ) intKeyCode = e.which;
+  else return true;
+
+  if(intKeyCode == 13)
+  {
+	if( submitForm() )
+	{
+ 		CheckLogin('document.forms[0].submit()');
+	}
+	return false;
+  }
+  else
+  {
+	return true;
+  }
+}
+
+// Determine if the user is logged in
+function CheckLogin(sFunctionName)
+{
+  w_sFunctionName = sFunctionName;
+  w_bProcessing = false;
+  w_xhttpLogin.Open ("POST", "wsIsLoggedIn.asp");
+  w_xhttpLogin.onReadyStateChange = CheckLoginComplete;
+  w_xhttpLogin.Send ("<ROOT/>");
+}
+
+// Complete the asynchronous CheckLogin
+function CheckLoginComplete()
+{
+  if((w_xhttpLogin.readyState == 4) && !w_bProcessing)
+  {
+  	w_bProcessing = true;
+	var sReturn = w_xhttpLogin.responseText;
+	if(sReturn == 'TRUE')
+ 	{
+		eval(w_sFunctionName);
+	}
+	else
+	{
+		StartLogin();
+	}
+  }
+}
+
+// Display the given error message
+function displayError(sError)
+{
+  alert(sError);
+}
+
+// Format number as a string in $xxx,xxx format
+function formatCurrency(anynum) 
+{
+   var dNum;		// Decimal number
+   var strDec;		// Decimal string
+
+   dNum=Math.round(anynum);
+   strDec=dNum+'';
+
+   //--- Adds comma in thousands place.
+   if (dNum>=1000) {
+      dLen=strDec.length;
+      strDec=parseInt(""+(dNum/1000))+","+strDec.substring(dLen-3,dLen);
+   }
+
+   //-- Adds comma in millions place.
+   if (dNum>=1000000) {
+      dLen=strDec.length;
+      strDec=parseInt(""+(dNum/1000000))+","+strDec.substring(dLen-7,dLen);
+   }
+   retval = strDec;
+   //-- Put numbers in parentheses if negative.
+   if (anynum<0) {retval="("+retval+")"}
+   return "$"+retval;
+}
+
+// Format number as a string in xxx,xxx.xx format
+function formatDecimal(anynum) 
+{
+   var nWork;		// Work number
+   var strDec;		// Decimal string
+   var strPeriod;	// Period string
+   var strWork;		// Work string
+   anynum=eval(anynum);
+   nWork=Math.abs((Math.round(anynum*100)/100));
+   strWork = "" + nWork;
+   if (strWork.indexOf(".")==-1)
+   { 
+	strWork+=".00" 
+   }
+   strDec=strWork.substr(0,strWork.indexOf("."));
+   dNum=strDec-0;
+   strPeriod=strWork.substr(strWork.indexOf("."));
+   while (strPeriod.length<3)
+   {
+	strPeriod+="0"
+   }
+
+   //--- Adds comma in thousands place.
+   if (dNum>=1000) {
+      dLen=strDec.length
+      strDec=parseInt(""+(dNum/1000))+","+strDec.substring(dLen-3,dLen)
+   }
+
+   //-- Adds comma in millions place.
+   if (dNum>=1000000) {
+      dLen=strDec.length
+      strDec=parseInt(""+(dNum/1000000))+","+strDec.substring(dLen-7,dLen)
+   }
+   retval = strDec + strPeriod 
+
+   return retval
+}
+
+// Return the value of the selected checkbox 
+function getCheckboxValue(controlArray)
+{
+  var intLoop;	// Loop control
+
+  for( intLoop = 0; intLoop < controlArray.length; intLoop++ )
+  {
+	if( controlArray[intLoop].checked == true )
+	{
+		return controlArray[intLoop].value;
+	}
+  }
+
+  return "";
+}
+
+// Return trimmed value or NULL if empty
+function getNullableTextValue(strValue)
+{
+  strValue = replaceDblQuotes(strValue);
+  if( trim(strValue).length > 0 )
+  {
+	return trim(strValue);
+  }
+  else
+  {
+	return "NULL";
+  }
+}
+
+// The the value of the selected radio button in the control array
+function getRadioValue(controlArray)
+{
+  var intLoop;	// Loop control
+
+  for( intLoop = 0; intLoop < controlArray.length; intLoop++ )
+  {
+	if( controlArray[intLoop].checked == true )
+	{
+		return controlArray[intLoop].value;
+	}
+  }
+
+  return "";
+}
+
+// Get the selected option
+function getSelectValue(dropDown)
+{
+  if(dropDown.selectedIndex == -1)
+  {
+	// Nothing Selected
+	return '';
+  }
+  else
+  {
+	return dropDown.options[dropDown.selectedIndex].value;
+  }
+}
+
+// Set the visibility property to hide the form contained
+// in the given span or div reference
+function hideSpan(strFormWrapper)
+{
+  if( document.layers && document.layers[strFormWrapper] != null )
+  {	// NN4
+	document.layers[strFormWrapper].visibility = 'hide';
+  }
+  else if( document.all && !document.getElementById )
+  {	// IE4
+	document.all[strFormWrapper].style.visibility = 'hidden';
+  }
+  else
+  {	// IE5+, NN6
+	document.getElementById(strFormWrapper).style.visibility = 'hidden';
+  }
+}
+
+// Set the visibility property to hide the form contained
+// in the given span or div reference
+function clearSpan(strFormWrapper)
+{
+  if( document.layers && document.layers[strFormWrapper] != null )
+  {	// NN4
+	document.layers[strFormWrapper].innerHTML = '';
+  }
+  else if( document.all && !document.getElementById )
+  {	// IE4
+	document.all[strFormWrapper].innerHTML = '';
+  }
+  else
+  {	// IE5+, NN6
+	document.getElementById(strFormWrapper).innerHTML = '';
+  }
+}
+
+// Log the user out
+function Logout()
+{
+  w_bProcessing = false;
+  w_xhttpLogin.Open ("POST", "wsLogout.asp");
+  w_xhttpLogin.onReadyStateChange = LogoutComplete;
+  w_xhttpLogin.Send ("<ROOT/>");	
+}
+
+function LogoutComplete()
+{
+  if((w_xhttpLogin.readyState == 4) && !w_bProcessing)
+  {
+	w_bProcessing = true;
+	alert('Logged out');
+  }
+}
+
+// Open a new window and display the given URL
+function openNewWindow(url)
+{
+  window.open(url, "", "height=500, width=800, toolbar=no, resizable=no, status=no, titlebar=no, menubar=no, scrollbars=yes", true);
+}
+
+// Replace double quotes with a single quote
+function replaceDblQuotes(strInput)
+{
+  return strInput.replace(/"/g,'\'');
+}
+
+// Replace XML special characters w/ their delimited value
+function replaceSpecialChars(strInput)
+{
+  strInput = replaceDblQuotes(strInput);	// Replace " with '
+  strInput = strInput.replace(/&/g,'&amp;');	// Replace first
+  strInput = strInput.replace(/</g,'&lt;');	
+  strInput = strInput.replace(/>/g,'&gt;');
+  strInput = strInput.replace(/'/g,'&apos;');
+  strInput = trim(strInput);
+
+  return strInput;
+}
+
+// Select the checkbox in the control array that
+// equals the given value
+function setCheckboxValue(controlArray, strValue)
+{
+  var intLoop;	// Loop control
+  for( intLoop = 0; intLoop < controlArray.length; intLoop++ )
+  {
+	if( controlArray[intLoop].value == strValue )
+	{
+		controlArray[intLoop].checked = true;
+		return;
+	}
+	else
+	{
+		controlArray[intLoop].checked = false;
+	}
+  }
+}
+
+// Set the desired radio button in the control array
+function setRadioValue(controlArray, strValue)
+{
+  var intLoop;	// Loop control
+  for( intLoop = 0; intLoop < controlArray.length; intLoop++ )
+  {
+	if( controlArray[intLoop].value == strValue)
+	{
+		controlArray[intLoop].checked = true;
+		return;
+	}
+	else
+	{
+		controlArray[intLoop].checked = false;
+	}
+  }
+}
+
+// Set the selected option
+function setSelectValue(dropDown, sValue)
+{
+  var intLoop;	// Loop control
+  for( intLoop = 0; intLoop < dropDown.options.length; intLoop++ )
+  {
+	if( dropDown.options[intLoop].value == sValue )
+	{
+		dropDown.options[intLoop].selected = true;
+		return;
+	}
+  }
+}
+
+// Set the visibility property to show the form contained
+// in the given span or div reference
+function showSpan(strFormWrapper)
+{
+  if( document.layers && document.layers[strFormWrapper] != null )
+  {	// NN4
+	document.layers[strFormWrapper].visibility = 'show';
+  }
+  else if( document.all && !document.getElementById )
+  {	// IE4
+	document.all[strFormWrapper].style.visibility = 'visible';
+  }
+  else
+  {	// IE5+, NN6
+	document.getElementById(strFormWrapper).style.visibility = 'visible';
+  }
+}
+
+// Log the user in to the system
+function StartLogin()
+{
+  var sMessage = 'You have been logged out due to inactivity, please login to continue.';
+  var bReturn = showModalDialog("modalLogin.htm",sMessage,"help:no; dialogWidth:300px; dialogHeight:180px; status:no");
+  if(bReturn)
+  {
+	eval(w_sFunctionName);
+  }
+}
+
+// Are regular expressions supported?
+function supportRegExp()
+{
+  if (window.RegExp) 
+  {
+	var tempStr = "a";
+	var tempReg = new RegExp(tempStr);
+	if (tempReg.test(tempStr)) { return true; }
+  }
+  return false;
+}
+
+// Trim leading and trailing spaces
+function trim(strValue)
+{
+  return strValue.replace(/(^\s*)|(\s*$)/g, "");
+}
+
+// Remove dashes '-' from the given string
+function unDash(sString)
+{
+  return sString.replace(/\D/g,'');
+}
+
+var w_sFunctionName = '';
+var w_bProcessing = false;
+var w_xhttpLogin = new ActiveXObject("Microsoft.XMLHTTP");
+
+/*
+*/
+function buildOptions(sNames, sValues, objSelect, bSingleEmpty)
+{
+  var myUndef;
+  if(bSingleEmpty == myUndef)
+  {
+	bSingleEmpty = true;
+  }
+
+  var nOptionCount = objSelect.length;
+  for(var i=0; i < nOptionCount; i++)
+  {
+ 	objSelect.options.remove(0);
+  }
+		
+  var aNames = sNames.split('~');
+  var aValues = sValues.split('~');
+  var nLength = aNames.length;
+  if(nLength != aValues.length)
+  {
+	alert('Error: buildOptions - sNames and sValues length are not the same.');
+	return;
+  }
+  nLength--;  // Hanging '~' makes length 1 too long
+	
+  var objElem;
+  if(bSingleEmpty)
+  {
+	objElem = document.createElement('OPTION');
+	objSelect.options.add(objElem);
+  }
+		
+  for(var i=0; i < nLength; i++)
+  {
+	objElem = document.createElement('OPTION');
+	objElem.text = aNames[i];
+	objElem.value = aValues[i];
+	objSelect.options.add(objElem);
+  }
+}
+
+/* 
+*  Allow a press of the Enter key to submit the form
+*  Add onKeyPress="return checkForEnter(event);" to form inputs
+*  Requires page to have submitForm() function
+*/
+function checkForEnter(e)
+{
+  var intKeyCode;
+	
+  if( window.event ) intKeyCode = window.event.keyCode;
+  else if( e ) intKeyCode = e.which;
+  else return true;
+
+  if(intKeyCode == 13)
+  {
+	if( submitForm() )
+	{
+ 		CheckLogin('document.forms[0].submit()');
+	}
+	return false;
+  }
+  else
+  {
+	return true;
+  }
+}
+
+// Determine if the user is logged in
+function CheckLogin(sFunctionName)
+{
+  w_sFunctionName = sFunctionName;
+  w_bProcessing = false;
+  w_xhttpLogin.Open ("POST", "wsIsLoggedIn.asp");
+  w_xhttpLogin.onReadyStateChange = CheckLoginComplete;
+  w_xhttpLogin.Send ("<ROOT/>");
+}
+
+// Complete the asynchronous CheckLogin
+function CheckLoginComplete()
+{
+  if((w_xhttpLogin.readyState == 4) && !w_bProcessing)
+  {
+  	w_bProcessing = true;
+	var sReturn = w_xhttpLogin.responseText;
+	if(sReturn == 'TRUE')
+ 	{
+		eval(w_sFunctionName);
+	}
+	else
+	{
+		StartLogin();
+	}
+  }
+}
+
+// Display the given error message
+function displayError(sError)
+{
+  alert(sError);
+}
+
+// Format number as a string in $xxx,xxx format
+function formatCurrency(anynum) 
+{
+   var dNum;		// Decimal number
+   var strDec;		// Decimal string
+
+   dNum=Math.round(anynum);
+   strDec=dNum+'';
+
+   //--- Adds comma in thousands place.
+   if (dNum>=1000) {
+      dLen=strDec.length;
+      strDec=parseInt(""+(dNum/1000))+","+strDec.substring(dLen-3,dLen);
+   }
+
+   //-- Adds comma in millions place.
+   if (dNum>=1000000) {
+      dLen=strDec.length;
+      strDec=parseInt(""+(dNum/1000000))+","+strDec.substring(dLen-7,dLen);
+   }
+   retval = strDec;
+   //-- Put numbers in parentheses if negative.
+   if (anynum<0) {retval="("+retval+")"}
+   return "$"+retval;
+}
+
+// Format number as a string in xxx,xxx.xx format
+function formatDecimal(anynum) 
+{
+   var nWork;		// Work number
+   var strDec;		// Decimal string
+   var strPeriod;	// Period string
+   var strWork;		// Work string
+   anynum=eval(anynum);
+   nWork=Math.abs((Math.round(anynum*100)/100));
+   strWork = "" + nWork;
+   if (strWork.indexOf(".")==-1)
+   { 
+	strWork+=".00" 
+   }
+   strDec=strWork.substr(0,strWork.indexOf("."));
+   dNum=strDec-0;
+   strPeriod=strWork.substr(strWork.indexOf("."));
+   while (strPeriod.length<3)
+   {
+	strPeriod+="0"
+   }
+
+   //--- Adds comma in thousands place.
+   if (dNum>=1000) {
+      dLen=strDec.length
+      strDec=parseInt(""+(dNum/1000))+","+strDec.substring(dLen-3,dLen)
+   }
+
+   //-- Adds comma in millions place.
+   if (dNum>=1000000) {
+      dLen=strDec.length
+      strDec=parseInt(""+(dNum/1000000))+","+strDec.substring(dLen-7,dLen)
+   }
+   retval = strDec + strPeriod 
+
+   return retval
+}
+
+// Return the value of the selected checkbox 
+function getCheckboxValue(controlArray)
+{
+  var intLoop;	// Loop control
+
+  for( intLoop = 0; intLoop < controlArray.length; intLoop++ )
+  {
+	if( controlArray[intLoop].checked == true )
+	{
+		return controlArray[intLoop].value;
+	}
+  }
+
+  return "";
+}
+
+// Return trimmed value or NULL if empty
+function getNullableTextValue(strValue)
+{
+  strValue = replaceDblQuotes(strValue);
+  if( trim(strValue).length > 0 )
+  {
+	return trim(strValue);
+  }
+  else
+  {
+	return "NULL";
+  }
+}
+
+// The the value of the selected radio button in the control array
+function getRadioValue(controlArray)
+{
+  var intLoop;	// Loop control
+
+  for( intLoop = 0; intLoop < controlArray.length; intLoop++ )
+  {
+	if( controlArray[intLoop].checked == true )
+	{
+		return controlArray[intLoop].value;
+	}
+  }
+
+  return "";
+}
+
+// Get the selected option
+function getSelectValue(dropDown)
+{
+  if(dropDown.selectedIndex == -1)
+  {
+	// Nothing Selected
+	return '';
+  }
+  else
+  {
+	return dropDown.options[dropDown.selectedIndex].value;
+  }
+}
+
+// Set the visibility property to hide the form contained
+// in the given span or div reference
+function hideSpan(strFormWrapper)
+{
+  if( document.layers && document.layers[strFormWrapper] != null )
+  {	// NN4
+	document.layers[strFormWrapper].visibility = 'hide';
+  }
+  else if( document.all && !document.getElementById )
+  {	// IE4
+	document.all[strFormWrapper].style.visibility = 'hidden';
+  }
+  else
+  {	// IE5+, NN6
+	document.getElementById(strFormWrapper).style.visibility = 'hidden';
+  }
+}
+
+// Set the visibility property to hide the form contained
+// in the given span or div reference
+function clearSpan(strFormWrapper)
+{
+  if( document.layers && document.layers[strFormWrapper] != null )
+  {	// NN4
+	document.layers[strFormWrapper].innerHTML = '';
+  }
+  else if( document.all && !document.getElementById )
+  {	// IE4
+	document.all[strFormWrapper].innerHTML = '';
+  }
+  else
+  {	// IE5+, NN6
+	document.getElementById(strFormWrapper).innerHTML = '';
+  }
+}
+
+// Log the user out
+function Logout()
+{
+  w_bProcessing = false;
+  w_xhttpLogin.Open ("POST", "wsLogout.asp");
+  w_xhttpLogin.onReadyStateChange = LogoutComplete;
+  w_xhttpLogin.Send ("<ROOT/>");	
+}
+
+function LogoutComplete()
+{
+  if((w_xhttpLogin.readyState == 4) && !w_bProcessing)
+  {
+	w_bProcessing = true;
+	alert('Logged out');
+  }
+}
+
+// Open a new window and display the given URL
+function openNewWindow(url)
+{
+  window.open(url, "", "height=500, width=800, toolbar=no, resizable=no, status=no, titlebar=no, menubar=no, scrollbars=yes", true);
+}
+
+// Replace double quotes with a single quote
+function replaceDblQuotes(strInput)
+{
+  return strInput.replace(/"/g,'\'');
+}
+
+// Replace XML special characters w/ their delimited value
+function replaceSpecialChars(strInput)
+{
+  strInput = replaceDblQuotes(strInput);	// Replace " with '
+  strInput = strInput.replace(/&/g,'&amp;');	// Replace first
+  strInput = strInput.replace(/</g,'&lt;');	
+  strInput = strInput.replace(/>/g,'&gt;');
+  strInput = strInput.replace(/'/g,'&apos;');
+  strInput = trim(strInput);
+
+  return strInput;
+}
+
+// Select the checkbox in the control array that
+// equals the given value
+function setCheckboxValue(controlArray, strValue)
+{
+  var intLoop;	// Loop control
+  for( intLoop = 0; intLoop < controlArray.length; intLoop++ )
+  {
+	if( controlArray[intLoop].value == strValue )
+	{
+		controlArray[intLoop].checked = true;
+		return;
+	}
+	else
+	{
+		controlArray[intLoop].checked = false;
+	}
+  }
+}
+
+// Set the desired radio button in the control array
+function setRadioValue(controlArray, strValue)
+{
+  var intLoop;	// Loop control
+  for( intLoop = 0; intLoop < controlArray.length; intLoop++ )
+  {
+	if( controlArray[intLoop].value == strValue)
+	{
+		controlArray[intLoop].checked = true;
+		return;
+	}
+	else
+	{
+		controlArray[intLoop].checked = false;
+	}
+  }
+}
+
+// Set the selected option
+function setSelectValue(dropDown, sValue)
+{
+  var intLoop;	// Loop control
+  for( intLoop = 0; intLoop < dropDown.options.length; intLoop++ )
+  {
+	if( dropDown.options[intLoop].value == sValue )
+	{
+		dropDown.options[intLoop].selected = true;
+		return;
+	}
+  }
+}
+
+// Set the visibility property to show the form contained
+// in the given span or div reference
+function showSpan(strFormWrapper)
+{
+  if( document.layers && document.layers[strFormWrapper] != null )
+  {	// NN4
+	document.layers[strFormWrapper].visibility = 'show';
+  }
+  else if( document.all && !document.getElementById )
+  {	// IE4
+	document.all[strFormWrapper].style.visibility = 'visible';
+  }
+  else
+  {	// IE5+, NN6
+	document.getElementById(strFormWrapper).style.visibility = 'visible';
+  }
+}
+
+// Log the user in to the system
+function StartLogin()
+{
+  var sMessage = 'You have been logged out due to inactivity, please login to continue.';
+  var bReturn = showModalDialog("modalLogin.htm",sMessage,"help:no; dialogWidth:300px; dialogHeight:180px; status:no");
+  if(bReturn)
+  {
+	eval(w_sFunctionName);
+  }
+}
+
+// Are regular expressions supported?
+function supportRegExp()
+{
+  if (window.RegExp) 
+  {
+	var tempStr = "a";
+	var tempReg = new RegExp(tempStr);
+	if (tempReg.test(tempStr)) { return true; }
+  }
+  return false;
+}
+
+// Trim leading and trailing spaces
+function trim(strValue)
+{
+  return strValue.replace(/(^\s*)|(\s*$)/g, "");
+}
+
+// Remove dashes '-' from the given string
+function unDash(sString)
+{
+  return sString.replace(/\D/g,'');
+}
+</script>
+    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0NzAwMjAyMQ9kFgJmD2QWBAIFD2QWAgIBDw8WAh4ISW1hZ2VVcmwFNWh0dHA6Ly9jZG4ubWVyY2VudC5jb20vaW1hZ2UuYXNoeD9tZXJjaGFudElEPU11c2ljMTIzZGQCCQ9kFggCAQ9kFgwCDQ8PFgYeBFRleHQFFVZpZXcgQ2FydCAoIDAgSXRlbXMgKR4JRm9udF9Cb2xkZx4EXyFTQgKAEGRkAg8PDxYCHgtOYXZpZ2F0ZVVybAUXfi9XaXNobGlzdC9EZWZhdWx0LmFzcHhkZAIRDw8WAh4HVmlzaWJsZWhkZAITDw8WAh8FaGRkAhUPDxYEHwQFPn4vTG9naW4uYXNweD9SZXR1cm5VUkw9JTJmQ3VzdG9tZXJTZXJ2aWNlJTJmUHJpdmFjeVBvbGljeS5hc3B4HwEFBUxvZ2luZGQCGw8WAh4LXyFJdGVtQ291bnQCDxYeZg9kFgICAQ8PFgQfBAUifi9BY2Nlc3Nvcmllcy1kNjQrNDI5NDkwOTU1Mi5tdXNpYx8BBQtBY2Nlc3Nvcmllc2RkAgIPZBYCAgEPDxYEHwQFIX4vQW1wbGlmaWVycy1kNjQrNDI5NDkwOTAwNC5tdXNpYx8BBQpBbXBsaWZpZXJzZGQCBA9kFgICAQ8PFgQfBAUcfi9CcmFzcy1kNjQrNDI5NDkwODQ1NC5tdXNpYx8BBQVCcmFzc2RkAgYPZBYCAgEPDxYEHwQFMX4vQ29tcHV0ZXItSGFyZHdhcmUtU29mdHdhcmUtZDY0KzQyOTQ5MDc5NzUubXVzaWMfAQUaQ29tcHV0ZXIgSGFyZHdhcmUvU29mdHdhcmVkZAIID2QWAgIBDw8WBB8EBSR+L0RKLS0tTGlnaHRpbmctZDY0KzQyOTQ5MDc1MzIubXVzaWMfAQUNREogJiBMaWdodGluZ2RkAgoPZBYCAgEPDxYEHwQFHn4vR3VpdGFycy1kNjQrNDI5NDkwNzI5OC5tdXNpYx8BBQdHdWl0YXJzZGQCDA9kFgICAQ8PFgQfBAUpfi9Ib21lLUF1ZGlvLS0tVmlkZW8tZDY0KzQyOTQ5MDY5NjgubXVzaWMfAQUSSG9tZSBBdWRpbyAmIFZpZGVvZGQCDg9kFgICAQ8PFgQfBAUgfi9LZXlib2FyZHMtZDY0KzQyOTQ5MDY4NjQubXVzaWMfAQUJS2V5Ym9hcmRzZGQCEA9kFgICAQ8PFgQfBAUhfi9MaXZlLVNvdW5kLWQ2NCs0Mjk0OTA2NzE2Lm11c2ljHwEFCkxpdmUgU291bmRkZAISD2QWAgIBDw8WBB8EBSR+L011c2ljYWwtR2lmdHMtZDY0KzQyOTQ5MDYzNTMubXVzaWMfAQUNTXVzaWNhbCBHaWZ0c2RkAhQPZBYCAgEPDxYEHwQFIX4vUGVyY3Vzc2lvbi1kNjQrNDI5NDkwNjI1NC5tdXNpYx8BBQpQZXJjdXNzaW9uZGQCFg9kFgICAQ8PFgQfBAUgfi9SZWNvcmRpbmctZDY0KzQyOTQ5MDYwMTAubXVzaWMfAQUJUmVjb3JkaW5nZGQCGA9kFgICAQ8PFgQfBAUifi9TaGVldC1NdXNpYy1kNjQrNDI5NDkwNTg0OS5tdXNpYx8BBQtTaGVldCBNdXNpY2RkAhoPZBYCAgEPDxYEHwQFK34vU3RyaW5nZWQtSW5zdHJ1bWVudHMtZDY0KzQyOTQ5MDU0MzIubXVzaWMfAQUUU3RyaW5nZWQgSW5zdHJ1bWVudHNkZAIcD2QWAgIBDw8WBB8EBSB+L1dvb2R3aW5kcy1kNjQrNDI5NDkwNTA1MS5tdXNpYx8BBQlXb29kd2luZHNkZAIFD2QWBAIDDw9kFgIeCm9ua2V5cHJlc3MFOHJldHVybiBjbGlja0J1dHRvbihldmVudCwnY3RsMDBfTGVmdE5hdkFkbWluX2J0blNlYXJjaCcpZAINDw8WAh8EBSt+L1NlYXJjaC9EZWZhdWx0LmFzcHg/TmU9MTImTj02NCs0Mjk0OTM5OTI3ZGQCIQ9kFgICAQ9kFgJmD2QWBGYPZBYEAgEPFgIfBWhkAgMPFgIfAQWHUDx0YWJsZSB3aWR0aD0iMTAwJSIgYmdjb2xvcj0iI0ZGRkZGRiI+DQogICAgICA8dHI+DQogICAgICAgIDx0ZCBjbGFzcz0iMTBwdCI+PGEgaHJlZj0iLi4vV2VsY29tZS5hc3B4IiBjbGFzcz0iMTBwdCI+SG9tZTwvYT4gPGI+PjwvYj4NCiAgICA8Yj5GQVE8L2I+PC90ZD4NCiAgICAgIDwvdHI+DQogICAgICAgIDx0cj4NCiAgICAgICAgICA8dGQgYmFja2dyb3VuZD0iLi4vaW1hZ2VzL2dydW5nZV9saW5lX3doaXRlLmdpZiIgYm9yZGVyPSIwIiBoZWlnaHQ9IjMiPjwvdGQ+DQogICAgICAgIDwvdHI+DQo8L3RhYmxlPg0KPGJyPg0KPHRhYmxlIHdpZHRoPSI1MzUiIGJvcmRlcj0iMCI+DQogIDx0cj4NCiAgICA8dGQgYmdjb2xvcj0iI0ZGRkZGRiI+PHRhYmxlIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iMCI+DQogICAgICA8dHI+DQogICAgICAgIDx0ZD48cD48Yj4gT3VyIFByaXZhY3kgUG9saWN5IDwvYj48L3A+PC90ZD4NCiAgICAgIDwvdHI+DQogICAgICA8dHI+DQogICAgICAgIDx0ZD48cD48aW1nIHdpZHRoPSIxIiBoZWlnaHQ9IjEwIiBzcmM9Ii9pbWFnZXMvY2xpcF9pbWFnZTAwMi5naWYiPjwvcD4NCiAgICAgICAgICAgIDxwPjxpPkVmZmVjdGl2ZSBEYXRlOiBTZXB0ZW1iZXIgMXN0LCAyMDA1IDwvaT48L3A+DQogICAgICAgICAgICA8cD4mbmJzcDsgPC9wPjwvdGQ+DQogICAgICA8L3RyPg0KICAgICAgPHRyPg0KICAgICAgICA8dGQ+PHA+IFlvdXIgcHJpdmFjeSBpcyBpbXBvcnRhbnQgdG8gdXMuIE11c2ljMTIzIGlzIGNvbW1pdHRlZCB0byByZXNwZWN0aW5nIHlvdXIgcHJpdmFjeSBhbmQgdGhlIGFwcHJvcHJpYXRlIG1hbmFnZW1lbnQgb2YgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24geW91IHNoYXJlIHdpdGggdXMuIDwvcD4NCiAgICAgICAgICAgIDxwPiBQbGVhc2UgcmVhZCB0aGUgZm9sbG93aW5nIHBvbGljeSB0byB1bmRlcnN0YW5kIGhvdyB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHdpbGwgYmUgdHJlYXRlZCBhcyB5b3UgbWFrZSBmdWxsIHVzZSBvZiBvdXIgbWFueSBvZmZlcmluZ3MuIDwvcD4NCiAgICAgICAgICAgIDxwIGNsYXNzPSIxMnB0Qm9sZCI+IFBlcnNvbmFsIEluZm9ybWF0aW9uIGFib3V0IEN1c3RvbWVycyBnYXRoZXJlZCBieSBNdXNpYzEyMyA8L3A+DQogICAgICAgICAgICA8dWw+DQogICAgICAgICAgICAgIDxsaT4gUHVyY2hhc2VzICZuZGFzaDsgV2hlbiBvcmRlcmluZywgeW91IHdpbGwgY3JlYXRlIGEgcGVyc29uYWwgYWNjb3VudC4gVGhyb3VnaCB0aGlzIGFjY291bnQsIHlvdSBwcm92aWRlIGNlcnRhaW4gdHlwZXMgb2YgaW5mb3JtYXRpb24gc3VjaCBhcyBwaHlzaWNhbCBhZGRyZXNzLCB0ZWxlcGhvbmUgbnVtYmVyLCBlbWFpbCBhZGRyZXNzLCBjcmVkaXQgY2FyZCBudW1iZXIgYW5kIGV4cGlyYXRpb24gZGF0ZS4gV2l0aG91dCB0aGlzIGluZm9ybWF0aW9uLCBhbiBvcmRlciBjYW5ub3QgYmUgc2hpcHBlZCBhbmQvb3IgYmlsbGVkLiBBbiBlbWFpbCBtYXkgYmUgc2VudCB0byB5b3UsIG9yIGEgcGhvbmUgY2FsbCBtYWRlIGlmIHRoZXJlIGlzIGFueSB0cm91YmxlIHByb2Nlc3NpbmcgeW91ciBvcmRlci4gUGVyc29uYWwgZGVtb2dyYXBoaWMgZGF0YSwgc3VjaCBhcyBhZ2UsIGdlbmRlciwgYW5kIGluY29tZSBhcmUgb3B0aW9uYWwuIFRoZXkgYXJlIG5vdCByZXF1aXJlZCB0byBicm93c2UgdGhlIHNpdGUsIGNyZWF0ZSBhbiBhY2NvdW50LCBvciB0byBvcmRlciBmcm9tIHVzLiA8Yj48L2I+PC9saT4NCiAgICAgICAgICAgICAgPGxpPiBFLSBNYWlsIE5ld3NsZXR0ZXIgJm5kYXNoOyBXZSBjb2xsZWN0IHlvdXIgZW1haWwgYWRkcmVzcyAod2hpY2ggY291bGQgYmUgbW9yZSB0aGFuIG9uZSBkZXBlbmRpbmcgb24geW91ciBkZXNpcmUpLiBTcGVjaWFsIGFubm91bmNlbWVudHMgYW5kIG9mZmVycyBleGNsdXNpdmUgdG8gZW1haWwgcmVjaXBpZW50cyBhcmUgZW1haWxlZC4gVGhlIG5ld3NsZXR0ZXIgYWxsb3dzIHlvdSB0byBlZGl0IGFjY291bnQgaW5mb3JtYXRpb24sIGNoYW5nZSB0aGUgdHlwZSBvZiBhbm5vdW5jZW1lbnRzIGFuZCBvZmZlcnMgcmVjZWl2ZWQsIGFuZCBjaGFuZ2UgdGhlIGZvcm1hdCBvZiB0aGUgbWVzc2FnZSAoZnJvbSB0ZXh0IG9ubHkgdG8gdGV4dCBhbmQgZ3JhcGhpY3MpLiBFYWNoIG1lc3NhZ2UgYWxzbyBhbGxvd3MgeW91IHRvIGltbWVkaWF0ZWx5IHVuc3Vic2NyaWJlIGZyb20gZnV0dXJlIGVtYWlsIG1lc3NhZ2VzLiBBdCB0aGUgdGltZSBvZiBlbWFpbCBuZXdzbGV0dGVyIHJlZ2lzdHJhdGlvbiB5b3UgbWF5IGJlIGFza2VkIHdoZXRoZXIgeW91IHdvdWxkIGxpa2UgdG8gcmVjZWl2ZSBzcGVjaWFsIG9mZmVycyBmcm9tIGFwcHJvdmVkIHBhcnRuZXJzLiBUaGlzIG9wdGlvbiBtYXkgYWx3YXlzIGJlIGVkaXRlZCBhdCB0aGUgbmV3c2xldHRlciBzaWduLXVwIHBhZ2UgLiA8L2xpPg0KICAgICAgICAgICAgICA8bGk+IENhdGFsb2cgUmVnaXN0cmF0aW9uIC0gV2UgY29sbGVjdCB5b3VyIG5hbWUgYW5kIGFkZHJlc3MgaW4gb3JkZXIgdG8gbWFpbCB5b3UgYSBjYXRhbG9nLiBUaGUgcmVjZWl2aW5nIG9wdGlvbnMgbWF5IGFsd2F5cyBiZSBlZGl0ZWQgYXQgdGhlIGNhdGFsb2cgc2lnbi11cCBwYWdlIC4gRm9yIHByaW50IGNhdGFsb2cgcmVnaXN0cmFudHMsIHdlIG1heSBzaGFyZSB5b3VyIG5hbWUgYW5kIG1haWxpbmcgYWRkcmVzcyB3aXRoIGEgZmV3IGNhcmVmdWxseSBzZWxlY3RlZCBtYXJrZXRpbmcgcGFydG5lcnMuIFRvIG9wdCBvdXQgb2Ygc2hhcmluZyB0aGlzIGluZm9ybWF0aW9uLCBwbGVhc2UgY2FsbCBvdXIgY3VzdG9tZXIgc2VydmljZSBkZXB0IG9yIGVtYWlsIHZpYSBjb250YWN0IHVzLjxiPjwvYj48L2xpPg0KICAgICAgICAgICAgICA8bGk+IFN1cnZleXMgJmFtcDsgQ29udGVzdHMgLSBGcm8gbSB0aW1lLXRvLXRpbWUgdGhpcyBzaXRlIHJlcXVlc3RzIGluZm9ybWF0aW9uIGZyb20geW91IHZpYSBzdXJ2ZXlzIG9yIGNvbnRlc3RzLiBQYXJ0aWNpcGF0aW9uIGluIHRoZXNlIHN1cnZleXMgb3IgY29udGVzdHMgaXMgY29tcGxldGVseSB2b2x1bnRhcnkuIENvbnRhY3QgaW5mb3JtYXRpb24gd2lsbCBiZSB1c2VkIHRvIG5vdGlmeSB0aGUgd2lubmVycyBhbmQgYXdhcmQgcHJpemVzLiBTdXJ2ZXkgaW5mb3JtYXRpb24gd2lsbCBiZSB1c2VkIGZvciBwdXJwb3NlcyBvZiBtb25pdG9yaW5nIG9yIGltcHJvdmluZyB0aGUgdXNlIGFuZCBzYXRpc2ZhY3Rpb24gb2YgdGhpcyBzaXRlLiA8L2xpPg0KICAgICAgICAgICAgICA8bGk+IFdpc2ggTGlzdHMgJm5kYXNoOyBXaGVuIGNvbXBpbGluZyBhIFdpc2ggTGlzdCwgb3IgZ2lmdCByZWdpc3RyeSwgd2UgbWF5IGNvbGxlY3QgbmFtZSwgYWRkcmVzcywgdGVsZXBob25lIG51bWJlciwgeW91ciBlbWFpbCwgYW5kIHRoZSByZWNpcGllbnQgZW1haWwgYWRkcmVzcy4gVGhpcyBmZWF0dXJlIGlzIG9wdGlvbmFsIGFuZCBjYW4gYmUgYWNjZXNzZWQgdGhyb3VnaCB5b3VyIHBlcnNvbmFsIGFjY291bnQuIDwvbGk+DQogICAgICAgICAgICAgIDxsaT4gUmV2aWV3cyAmbmRhc2g7IFdlIG9mZmVyIGN1c3RvbWVycyB0aGUgYWJpbGl0eSB0byByYXRlIGFuZCB3cml0ZSByZXZpZXdzIG9uIG1lcmNoYW5kaXNlLiBJZiB5b3UgY2hvb3NlIHRvIHBhcnRpY2lwYXRlIHdlIHdpbGwgY29sbGVjdCBhIGJyaWVmIGNvbW1lbnQsIHlvdXIgbmFtZSB5b3Ugd2lzaCB0byBkaXNwbGF5IGFuZCBiYXNpYyBpbmZvcm1hdGlvbiByZWdhcmRpbmcgeW91ciBtdXNpY2FsIGJhY2tncm91bmQuIDwvbGk+DQogICAgICAgICAgICAgIDxsaT4gTG9nIEZpbGVzIC0gRm9yIGVhY2ggdmlzaXRvciB0byBvdXIgc2l0ZSwgdGhlIHdlYiBzZXJ2ZXIgYXV0b21hdGljYWxseSByZWNvZ25pemVzIGFuZCBjb2xsZWN0cywgd2hlcmUgcG9zc2libGUsIHRoZSBkb21haW4gbmFtZS9JUCBhZGRyZXNzLCBwYWdlcyB2aXNpdGVkLCBsZW5ndGggb2YgdmlzaXQsIGFuZCBvdGhlciBnZW5lcmFsIHVzYWdlIGRhdGEuIFRoaXMgaW5mb3JtYXRpb24gaXMgbm90IGxpbmtlZCB0byBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbi4gSXQgaXMgY29sbGVjdGVkIGFuZCBzdG9yZWQgd2l0aCB0aGUgc2FtZSBpbmZvcm1hdGlvbiBmcm9tIGFsbCB2aXNpdG9ycyBpbiBhIGxvZyBmaWxlLiBUaGlzIGxvZyBmaWxlIGlzIHRoZW4gdXNlZCB0byBkZXRlcm1pbmUgZ2VuZXJhbCBzaXRlIHVzYWdlIHBhdHRlcm5zIGFuZCB0byBhbmFseXplIHRyZW5kcyBzbyB0aGF0IGEgbW9yZSB1c2VmdWwsIHN0cmVhbWxpbmVkIGV4cGVyaWVuY2UgbWF5IGJlIHByb3ZpZGVkLjxiPjwvYj48L2xpPg0KICAgICAgICAgICAgICA8bGk+IENvb2tpZXMgLSBBIGNvb2tpZSBpcyBhIHBpZWNlIG9mIGRhdGEsIG9yIGFscGhhbnVtZXJpYyBpZGVudGlmaWVyLCBzdG9yZWQgb24geW91ciBjb21wdXRlciZyc3F1bztzIGhhcmQgZHJpdmUuIENvb2tpZXMgYWxsb3cgdXMgdG8gb3B0aW1pemUgeW91ciBleHBlcmllbmNlIG9uIHRoZSBzaXRlLiBGb3IgaW5zdGFuY2UsIGJ5IHNldHRpbmcgYSBjb29raWUsIHlvdSB3b3VsZCBub3QgaGF2ZSB0byBsb2cgaW4gYSBwYXNzd29yZCBtb3JlIHRoYW4gb25jZSwgdGhlcmVieSBzYXZpbmcgdGltZS4gVXNhZ2Ugb2YgYSBjb29raWUgaXMgaW4gbm8gd2F5IGxpbmtlZCB0byBhbnkgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24gd2hpbGUgb24gdGhpcyBzaXRlLiBPbmNlIHlvdSBjbG9zZSB5b3VyIGJyb3dzZXIsIHRoZSBjb29raWUgc2ltcGx5IHRlcm1pbmF0ZXMuIElmIHlvdSByZWplY3QgdGhlIGNvb2tpZSwgeW91IG1heSBzdGlsbCB1c2UgdGhpcyBzaXRlLiBIb3dldmVyLCB5b3VyIHVzYWdlIGluIHNvbWUgYXJlYXMgb2YgdGhlIHNpdGUgbWF5IGJlIGxpbWl0ZWQuPGI+PC9iPjwvbGk+DQogICAgICAgICAgICA8L3VsPg0KICAgICAgICAgICAgPHAgY2xhc3M9IjEycHRCb2xkIj4gSG93IFdlIFVzZSBZb3VyIEluZm9ybWF0aW9uIDwvcD4NCiAgICAgICAgICAgIDxwPiBUaGUgaW5mb3JtYXRpb24gZ2F0aGVyZWQgaXMgc3RvcmVkIGFuZCB2aWV3ZWQgY29sbGVjdGl2ZWx5LiBUaGUgZGF0YSBhbGxvd3MgdXMgdG8gYmV0dGVyIHVuZGVyc3RhbmQgeW91ciBpbnRlcmVzdHMsIGhlbHAgdXMgcGVyc29uYWxpemUgYW5kIHByb3ZpZGUgbW9yZSBhcHByb3ByaWF0ZSBwcm9kdWN0IG9mZmVyaW5ncyBhbGwgaW4gYW4gZWZmb3J0IHRvIGNvbnRpbnVhbGx5IGltcHJvdmUgeW91ciBzaG9wcGluZyBleHBlcmllbmNlLiA8L3A+DQogICAgICAgICAgICA8cD48Yj4gU2hhcmluZyBvZiBJbmZvcm1hdGlvbiA8L2I+PC9wPg0KICAgICAgICAgICAgPHA+IFdlIG1heSBhdCB0aW1lcyBzaGFyZSBhZ2dyZWdhdGVkIGRlbW9ncmFwaGljIGluZm9ybWF0aW9uIHdpdGggY2FyZWZ1bGx5IHNlbGVjdGVkIHBhcnRuZXJzIGFuZCBhZHZlcnRpc2Vycy4gVGhpcyBkYXRhIGlzIG5vdCBsaW5rZWQgdG8gYW55IHBlcnNvbmFsIGluZm9ybWF0aW9uIHRoYXQgY2FuIGlkZW50aWZ5IGFueSBpbmRpdmlkdWFsIHBlcnNvbi4gVGhpcyBzaXRlIG1heSBhdCB0aW1lcyBtYWtlIGNoYXQgcm9vbXMsIGZvcnVtcywgbWVzc2FnZSBib2FyZHMsIGFuZC9vciBuZXdzIGdyb3VwcyBhdmFpbGFibGUuIFBsZWFzZSByZW1lbWJlciB0aGF0IGFueSBpbmZvcm1hdGlvbiB0aGF0IGlzIGRpc2Nsb3NlZCBpbiB0aGVzZSBhcmVhcyBiZWNvbWVzIHB1YmxpYyBpbmZvcm1hdGlvbi4gQ2F1dGlvbiBzaG91bGQgYmUgZXhlcmNpc2VkIHdoZW4gZGVjaWRpbmcgdG8gZGlzY2xvc2UgcGVyc29uYWwgaW5mb3JtYXRpb24uIFdlIHdpbGwgbm90IHNlbGwsIHNoYXJlLCBub3IgcmVudCB0aGlzIGluZm9ybWF0aW9uIHRvIGFueSB0aGlyZCBwYXJ0eSBtYXJrZXRlciB3aXRob3V0IHlvdXIgZXhwcmVzcyBrbm93bGVkZ2UgYW5kIGNvbnNlbnQgYXMgb3V0bGluZWQgaW4gdGhpcyBzdGF0ZW1lbnQuIEFzIHdlIGNvbnRpbnVlIHRvIGRldmVsb3Agb3VyIGJ1c2luZXNzLCB3ZSBtYXkgc2VsbCBvciBidXkgc3RvcmVzIG9yIGFzc2V0cy4gSW4gc3VjaCB0cmFuc2FjdGlvbnMsIGN1c3RvbWVyIGluZm9ybWF0aW9uIGdlbmVyYWxseSBpcyBvbmUgb2YgdGhlIHRyYW5zZmVycmVkIGJ1c2luZXNzIGFzc2V0cy4gQXQgdGhhdCB0aW1lLCBpbmZvcm1hdGlvbiBtYXkgYmUgc2hhcmVkIHdpdGggdGhlIHBhcmVudCwgc3Vic2lkaWFyeSBvciBtZXJnZXIgcGFydG5lciBpbnZvbHZlZCBpbiB0aGUgdHJhbnNhY3Rpb24uIFdlIGFsc28gcmVzZXJ2ZSB0aGUgcmlnaHQgdG8gc2VsbCBvdXIgaW50ZXJlc3QgaW4gbWVtYmVyc2hpcCBpbmZvcm1hdGlvbiBhcyBhIHNlcGFyYXRlIGFzc2V0IG9mIHRoZSBjb3Jwb3JhdGlvbiBpbiB0aGUgZXZlbnQgb2YgYSBtYWpvciByZXN0cnVjdHVyaW5nIG9yIHNpbWlsYXIgY29ycG9yYXRlIGV2ZW50LiA8Yj48L2I+PC9wPg0KICAgICAgICAgICAgPHVsPg0KICAgICAgICAgICAgICA8bGk+PGI+IEFnZW50cyAmbmRhc2g7IDwvYj4gV2UgbWF5IGF0IHRpbWVzIGVtcGxveSBvdGhlciBjb21wYW5pZXMgYW5kIGluZGl2aWR1YWxzIHRvIHBlcmZvcm0gZnVuY3Rpb25zIG9uIG91ciBiZWhhbGYuIEV4YW1wbGVzIGluY2x1ZGUgb3JkZXIgZnVsZmlsbG1lbnQsIHNoaXBtZW50IG9mIGdvb2RzLCBhbmQgY3JlZGl0IGNhcmQgcHJvY2Vzc2luZyB0byBiaWxsIHlvdSBmb3IgdGhvc2UgZ29vZHMgYW5kIHNlcnZpY2VzLiBUaGVzZSBjb21wYW5pZXMgZG8gbm90IHJldGFpbiwgc2hhcmUsIHN0b3JlIG5vciB1c2UgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24gZm9yIGFueSBzZWNvbmRhcnkgcHVycG9zZXMuIDwvbGk+DQogICAgICAgICAgICA8L3VsPg0KICAgICAgICAgICAgPHA+IENvcnJlY3RpbmcgJmFtcDsgVXBkYXRpbmcgWW91ciBJbmZvcm1hdGlvbiA8YnI+DQogICAgICAgIElmIHRoZXJlIGlzIGEgY2hhbmdlIHRvIGJlIG1hZGUgdG8geW91ciBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiAtIHN1Y2ggYXMgYSB6aXAgY29kZSwgZW1haWwgYWRkcmVzcywgb3IgYXJlYSBjb2RlIGNoYW5nZXMgLSBzdWNoIGVkaXRpbmcgbWF5IGJlIGRvbmUgYnkgYWNjZXNzaW5nIE15IEFjY291bnQgYW5kIGNsaWNraW5nIG9uIEVkaXQuIDwvcD4NCiAgICAgICAgICAgIDxwPiA8c3BhbiBjbGFzcz0iMTJwdEJvbGQiPk9wdGluZy1PdXQgPC9zcGFuPjxicj4NCiAgICAgICAgWW91IGFyZSBnaXZlbiB0aGUgb3Bwb3J0dW5pdHkgdG8gb3B0LW91dCBvZiBoYXZpbmcgaW5mb3JtYXRpb24gdXNlZCBmb3IgcHVycG9zZXMgbm90IGRpcmVjdGx5IHJlbGF0ZWQgdG8gdGhpcyBzaXRlIGF0IHRoZSBwb2ludCB3aGVyZSB0aGUgaW5mb3JtYXRpb24gaXMgYXNrZWQuIElmIHlvdSBubyBsb25nZXIgd2lzaCB0byByZWNlaXZlIG91ciBuZXdzbGV0dGVyLCBjYXRhbG9nIG9yIHByb21vdGlvbmFsIG1hdGVyaWFscyBmcm9tIG91ciBwYXJ0bmVycywgeW91IG1heSBvcHQtb3V0IG9mIHJlY2VpdmluZyB0aGVzZSBjb21tdW5pY2F0aW9ucyBieSBmb2xsb3dpbmcgdGhlIHNwZWNpZmljIGRpcmVjdGlvbnMgaW5jbHVkZWQgaW4gZXZlcnkgZW1haWwgbWVzc2FnZSBvciBieSB1cGRhdGluZyBZb3VyIFByZWZlcmVuY2VzIHVuZGVyIE15IEFjY291bnQgLiBZb3UgY2FuIGFsc28gdW5zdWJzY3JpYmUgZnJvbSBvdXIgZW1haWwgbmV3c2xldHRlcnMgb24gdGhlIG5ld3NsZXR0ZXIgc2lnbi11cCBwYWdlIGFuZCB1bnN1YnNjcmliZSBmcm9tIG91ciBjYXRhbG9nIG9uIHRoZSBjYXRhbG9nIHNpZ24tdXAgcGFnZS4gPC9wPg0KICAgICAgICAgICAgPHA+IDxzcGFuIGNsYXNzPSIxMnB0Qm9sZCI+U2VjdXJpdHkgPC9zcGFuPjxicj4NCiAgICAgICAgV2UgdGFrZSBldmVyeSBwcmVjYXV0aW9uIHRvIHByb3RlY3QgeW91ciBwcml2YWN5LiBXaGVuIHlvdSBzdWJtaXQgc2Vuc2l0aXZlIGluZm9ybWF0aW9uIHZpYSB0aGUgd2Vic2l0ZSwgdGhlIGluZm9ybWF0aW9uIGlzIHByb3RlY3RlZCBib3RoIG9ubGluZSBhbmQgb2ZmbGluZS4gV2hlbiBzZW5zaXRpdmUgaW5mb3JtYXRpb24gc3VjaCBhcyBhIGNyZWRpdCBjYXJkIG51bWJlciBpcyByZXF1aXJlZCwgdGhhdCBpbmZvcm1hdGlvbiBpcyB0cmFuc21pdHRlZCB3aXRoIHRoZSBtb3N0IGFkdmFuY2VkIGVuY3J5cHRpb24gc29mdHdhcmUgaW4gdGhlIGluZHVzdHJ5IC0gU1NMLiBBbGwgcGVyc29uYWwgaW5mb3JtYXRpb24gaXMgcHJvdGVjdGVkIG9mZmxpbmUgYXMgd2VsbCBpbiBvdXIgcmVzdHJpY3RlZCBvZmZpY2VzLiBPbmx5IGVtcGxveWVlcyB3aG8gbmVlZCB0aGUgaW5mb3JtYXRpb24gdG8gcGVyZm9ybSBhIHNwZWNpZmljIGpvYiAoZm9yIGV4YW1wbGUsIGEgYmlsbGluZyBzcGVjaWFsaXN0IG9yIGEgY3VzdG9tZXIgc2VydmljZSByZXByZXNlbnRhdGl2ZSkgYXJlIGdyYW50ZWQgYWNjZXNzIHRvIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uLiBUaGUgY29tcHV0ZXJzIG9uIHdoaWNoIGluZm9ybWF0aW9uIGlzIHN0b3JlZCBhcmUga2VwdCBpbiBhIHNlY3VyZSBhbmQgY2xvc2VseSBtb25pdG9yZWQgZW52aXJvbm1lbnQuPGJyPg0KICAgICAgICAgICAgPC9wPg0KICAgICAgICAgICAgPHA+IDxzcGFuIGNsYXNzPSIxMnB0Qm9sZCI+Q2hpbGRyZW4gPC9zcGFuPjxicj4NCiAgICAgICAgV2UgZG8gbm90IHNlbGwgcHJvZHVjdHMgZm9yIHB1cmNoYXNlIGJ5IGNoaWxkcmVuLiBXZSBzZWxsIGNoaWxkcmVuJ3MgcHJvZHVjdHMgZm9yIHB1cmNoYXNlIGJ5IGFkdWx0cyBhcyBhIHNtYWxsIHBlcmNlbnRhZ2Ugb2Ygb3VyIGJ1c2luZXNzLiBJZiB5b3UgYXJlIHVuZGVyIDEzLCB5b3UgbWF5IHVzZSB0aGlzIHNpdGUgb25seSB3aXRoIGV4cHJlc3MgcGVybWlzc2lvbiBvZiBhIHBhcmVudCBvciBndWFyZGlhbi4gQ2hpbGRyZW4gdW5kZXIgMTMgbWF5IG5vdCByZWdpc3RlciBvbiBvdXIgc2l0ZSB3aXRob3V0IHRoZSBleHByZXNzIHdyaXR0ZW4gY29uc2VudCBvZiBhIHBhcmVudCBvciBndWFyZGlhbi4gPC9wPg0KICAgICAgICAgICAgPHA+IDxzcGFuIGNsYXNzPSIxMnB0Qm9sZCI+V2hlbiBMZWF2aW5nIFRoaXMgU2l0ZSA8L3NwYW4+PGJyPg0KICAgICAgICBUaGlzIHdlYiBzaXRlIGNvbnRhaW5zIGxpbmtzIHRvIG90aGVyLCBub24tYWZmaWxpYXRlZCBzaXRlcy4gUGxlYXNlIGJlIGF3YXJlIHRoYXQgd2UgYXJlIG5vdCByZXNwb25zaWJsZSBmb3IgdGhlIHByaXZhY3kgcHJhY3RpY2VzIG9mIHN1Y2ggb3RoZXIgc2l0ZXMuIFdlIGVuY291cmFnZSB5b3Ugd2hlbiB5b3UgbGVhdmUgdGhpcyBzaXRlIHRvIHJlYWQgdGhlIHByaXZhY3kgc3RhdGVtZW50cyBvZiBlYWNoIGFuZCBldmVyeSB3ZWIgc2l0ZSB0aGF0IGNvbGxlY3RzIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uLiBUaGlzIHByaXZhY3kgc3RhdGVtZW50IGFwcGxpZXMgc29sZWx5IHRvIGluZm9ybWF0aW9uIGNvbGxlY3RlZCBieSB0aGlzIHdlYiBzaXRlLiA8L3A+DQogICAgICAgICAgICA8cD4gPHNwYW4gY2xhc3M9IjEycHRCb2xkIj5Qcml2YWN5IE5vdGljZSBhbmQgUmV2aXNpb25zPC9zcGFuPiA8YnI+DQogICAgICAgIFdlIGJlbGlldmUgb3VyIFBvbGljeSBwcm92aWRlcyB5b3Ugd2l0aCB0aGUgc2FmZXN0IHNob3BwaW5nIGV4cGVyaWVuY2UgcG9zc2libGUuIFNpbmNlIG9mZmVyaW5ncyBhbmQgdGVjaG5vbG9naWVzIGNoYW5nZSwgd2UgcmVzZXJ2ZSB0aGUgcmlnaHQgdG8gY2hhbmdlLCBtb2RpZnksIGFkZCBvciByZW1vdmUgcG9ydGlvbnMgb2Ygb3VyIFByaXZhY3kgUG9saWN5IGF0IGFueSB0aW1lIHdpdGhvdXQgcHJpb3Igbm90aWNlLiBXZSBtYXkgZS1tYWlsIHBlcmlvZGljIHJlbWluZGVycyBvZiBvdXIgbm90aWNlcyBhbmQgY29uZGl0aW9ucywgdW5sZXNzIHlvdSBoYXZlIGluc3RydWN0ZWQgdXMgbm90IHRvLCBidXQgeW91IHNob3VsZCBjaGVjayBvdXIgV2ViIHNpdGUgZnJlcXVlbnRseSB0byBzZWUgcmVjZW50IGNoYW5nZXMuIDwvcD4NCiAgICAgICAgICAgIDxwPiBJZiB5b3UgaGF2ZSBhbnkgcXVlc3Rpb25zIGFib3V0IHRoZSBzZWN1cml0eSBvZiBvdXIgd2Vic2l0ZSwgb3IgeW91ciBwcml2YWN5LCBwbGVhc2UgY29udGFjdCB1cy4gPC9wPjwvdGQ+DQogICAgICA8L3RyPg0KICAgIDwvdGFibGU+ICAgIA0KICAgICAgPHA+JmxhcXVvOyA8YSBocmVmPSJGQVEuYXNweCIgY2xhc3M9IjEwcHQiPnJldHVybiB0byBGQVEgbGlzdCA8L2E+PC9wPjwvdGQ+PC90cj4NCjwvdGFibGU+DQo8cD4mbmJzcDs8L3A+ZAIBD2QWAgIBDxBkZWRkAiUPZBYCAicPDxYEHwQFQmh0dHA6Ly93d3cuYml6cmF0ZS5jb20vcmF0aW5nc19ndWlkZS9jdXN0X3Jldmlld3NfX21pZC0tMjU1MjcuaHRtbB8ABThodHRwOi8vbWVkYWxzLmJpenJhdGUuY29tL21lZGFscy9keW5hbWljLzI1NTI3X21lZGFsLmdpZmRkGAIFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRxjdGwwMCRMZWZ0TmF2QWRtaW4kYnRuU2VhcmNoBSJjdGwwMCRtYWluQ29udGVudCRWaWV3ZXIxJFZpZXdNb2RlDw9kZmTmeMhleR6VOlyaa5Q4g+pqx9AfwA==">
+
+
+<script src="http://cdn.mercent.com/js/tracker.js" type="text/javascript"></script>
+<script src="../coremetrics/v40/eluminate.js" type="text/javascript"></script>
+<script src="../coremetrics/cmdatatagutils.js" type="text/javascript"></script>
+        <div>
+            <table cellpadding="0" cellspacing="0" border="0" width="100%" style="vertical-align: middle;
+                text-align: center">
+                <tbody><tr>
+                    <td align="center">
+                        <table cellpadding="0" cellspacing="0" border="0" style="width: 850px">
+                            <tbody><tr>
+                                <td>
+                                    
+<table width="850px" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="4"><img src="/images/music123/m123_upper_l_corner.gif" width="4" height="7" border="0" alt=""></td>
-    <td background="/images/music123/m123_upper_line.gif" width="842"><img src="/images/music123/m123_spacer.gif" width="1" height="7" border="0" alt=""></td>
-    <td width="4"><img src="/images/music123/m123_upper_r_corner.gif" width="4" height="7" border="0" alt=""></td>
-  </tr>
-  <!--- this row holds the sales phone numbers, customer service nav, and holds the lines for surrounding the left and right of the lower table ----->
-  <tr>
-    <td background="/images/music123/m123_left_line.gif" rowspan="4"><img src="/images/music123/m123_spacer.gif" width="4" height="1" border="0" alt=""></td>
-    <td class="upperNav">
-      <table width="842" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="324"><img src="/images/music123/m123_phonenumbers.gif" width="324" height="21" border="0" alt=""></td>
-          <td width="218"><img src="/images/music123/m123_spacer.gif" width="210" height="1" border="0" alt=""></td>
-          <td width="286" align="right" valign="bottom" class="White"><img src="/images/music123/top_cart.gif" width="307" height="24" border="0" usemap="#Cart_Header">
-            <map name="Cart_Header" id="Cart_Header">
-              <area shape="rect" coords="3,2,72,22" href="http://www.music123.com/myaccount/cart.aspx">
-              <area shape="rect" coords="75,3,118,21" href="http://www.music123.com/wishlist/">
-              <area shape="rect" coords="120,3,163,21" href="http://www.music123.com/myaccount/accountoverview.aspx">
-              <area shape="rect" coords="166,3,192,22" href="http://www.music123.com/customerservice/faq.aspx">
-              <area shape="rect" coords="195,3,238,21" href="http://www.music123.com/myaccount/LogOff.aspx">
-              <area shape="rect" coords="241,3,304,21" href="http://www.music123.com/customerservice/contactus.aspx">
-            </map>
-          <img src="/images/music123/m123_spacer.gif" width="10" height="1" border="0" alt=""></td>
-        </tr>
-      </tbody></table>
-    </td>
-    <td background="/images/music123/m123_right_line.gif" rowspan="4"><img src="/images/music123/m123_spacer.gif" width="4" height="1" border="0" alt=""></td>
-  </tr>
-  <!--- two pixel spacer --->
-  <tr>
-    <td><img src="/images/music123/m123_spacer.gif" width="1" height="2" border="0" alt=""></td>
+    <td><img id="ctl00_Header1_imgBorderUpperLeft" src="../Images/m123_upper_l_corner.gif" height="7" width="4" border="0"></td>
+    <td><img id="ctl00_Header1_imgBorderUpperMiddle" src="../Images/m123_upper_line.gif" height="7" width="842" border="0"></td>
+    <td><img id="ctl00_Header1_imgBorderUpperRight" src="../Images/m123_upper_r_corner.gif" height="7" width="4" border="0"></td>
   </tr>
   <tr>
-    <td>
-    <!---- begin header links ---->
-      <table width="842" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td class="blackBG" width="144"><a href="http://www.music123.com/"><img src="/images/music123/m123_v3_logo.gif" width="144" height="68" border="0" alt=""></a></td>
-          <td class="blackBG" width="590">
-            <table width="590" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td><div align="center"><a href="http://www.music123.com/Guitars-d14.music" class="WhiteBold">Guitars </a><span class="WhiteBold">|</span> <a href="http://www.music123.com/Amplifiers-d12.music" class="WhiteBold">Amplifiers </a><span class="WhiteBold"> | </span><a href="http://www.music123.com/Keyboards-d15.music" class="WhiteBold"> Keys / Synth </a><span class="WhiteBold"> | </span><a href="http://www.music123.com/Drums-d16.music" class="WhiteBold"> Drums </a><span class="WhiteBold">| </span><a href="http://www.music123.com/Live-Sound-d1.music" class="WhiteBold">Live Sound </a><span class="WhiteBold"> | </span><a href="http://www.music123.com/Software-d4.music" class="WhiteBold"> Computers</a><span class="WhiteBold"> | </span><a href="http://www.music123.com/DJ---Lighting-d2.music" class="WhiteBold"> DJ / Lighting </a><span class="WhiteBold"> |  <a href="http://www.music123.com/Live-Sound-d17.music" class="WhiteBold">Recording</a></span></div></td>
-              </tr>
-              <tr>
-                <td class="WhiteBold"><img src="/images/music123/m123_spacer.gif" width="1" height="5" border="0" alt=""></td>
-              </tr>
-              <tr>
-                <td><div align="center"><a href="http://www.music123.com/customerservice/guitarsale.aspx" class="WhiteBold">Custom Guitars </a><span class="WhiteBold"> | </span><a href="http://www.music123.com/Woodwinds-d19.music" class="WhiteBold"> </a><a href="http://www.music123.com/Home-Audio-Video-d6175.music" class="WhiteBold">Home A/V</a><span class="WhiteBold"> | </span><a href="http://www.music123.com/Woodwinds-d19.music" class="WhiteBold">Woodwinds </a><span class="WhiteBold">| </span><a href="http://www.music123.com/Brass-d13.music" class="WhiteBold">Brass</a><span class="WhiteBold"> | </span><a href="http://www.music123.com/Stringed-Instruments-d18.music" class="WhiteBold"> Strings </a><span class="WhiteBold"> | </span><a href="http://www.music123.com/Sheet-Music-d5534.music" class="WhiteBold">Sheet Music </a><span class="WhiteBold"> </span><span class="WhiteBold"> | </span><a href="http://www.music123.com/Accessories-d11.music" class="WhiteBold"> Accessories</a><span class="WhiteBold"> | </span><a href="http://www.music123.com/Musical-Gifts-d22.music" class="WhiteBold"> Gifts</a></div></td>
-              </tr>
+  <td class="leftBg"><img id="ctl00_Header1_imgBorderLeft" src="../Images/m123_left_line.gif" height="10" width="4" border="0"></td>
+  <td><table cellpadding="0" cellspacing="0" border="0" width="842px">
+    <tbody><tr>
+        <td colspan="3">
+            <table width="100%" border="0" cellpadding="2" cellspacing="0">
+                <tbody><tr class="headerbgb">
+                    <td class="headerPhone" style="padding-left: 15px; text-align:left">
+                        <img id="ctl00_Header1_imgPhone" src="../Images/m123_phonenumbers.gif" border="0"></td>
+                    <td style="padding-left:15px" align="right" valign="middle">
+                        <span class="header">
+                            <a id="ctl00_Header1_lnkCart" title="View Cart" class="headerCartLink" href="../Checkout/Cart.aspx" style="display:inline-block;"><img id="ctl00_Header1_imgCart" src="../Images/nav/topnav_cart.gif" border="0"></a>
+                            <a id="ctl00_Header1_lnkCartText" class="headerCartLink" href="../Checkout/cart.aspx"><b>View Cart ( 0 Items )</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                            <a id="ctl00_Header1_lnkWishList" class="headerCartLink" href="../Wishlist/Default.aspx">Wish List</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                            
+                            
+                            <a id="ctl00_Header1_lnkLogoff" class="headerCartLink" href="../Login.aspx?ReturnURL=%2fCustomerService%2fPrivacyPolicy.aspx">Login</a>
+                        </span>
+                    </td>					
+                </tr>
             </tbody></table>
-          </td>
-          <td class="blackBG" width="108"><a href="http://www.music123.com/outlet"><img src="/images/music123/m123_head_outlet.gif" width="108" height="68" border="0" alt=""></a></td>
-        </tr>
-      </tbody></table>
-    <!---- end header links ---->
-    </td>
-  </tr>
-  <!--- two pixel spacer --->
-  <tr>
-    <td><img src="/images/music123/m123_spacer.gif" width="1" height="2" border="0" alt=""></td>
+        </td>
+    </tr>
+    <tr>
+        <td><img id="ctl00_Header1_imgSpacerPhone" src="../Images/m123_spacer.gif" height="2" width="1" border="0"></td>
+    </tr>
+    <tr class="headerbg">
+        <td style="width:144px"><a id="ctl00_Header1_lnkHome" href="../Welcome.aspx" style="display:inline-block;"><img id="ctl00_Header1_imgHome" src="../Images/m123_v3_logo.gif" border="0"></a>
+			</td>
+        <td style="width:650px;" class="header" align="center">
+            
+                    <a id="ctl00_Header1_rptDivision_ctl00_lnkDivisionName" class="header" href="../Accessories-d64+4294909552.music">Accessories</a>
+                    <span class="header">| </span>
+                
+                    <a id="ctl00_Header1_rptDivision_ctl02_lnkDivisionName" class="header" href="../Amplifiers-d64+4294909004.music">Amplifiers</a>
+                    <span class="header">| </span>
+                
+                    <a id="ctl00_Header1_rptDivision_ctl04_lnkDivisionName" class="header" href="../Brass-d64+4294908454.music">Brass</a>
+                    <span class="header">| </span>
+                
+                    <a id="ctl00_Header1_rptDivision_ctl06_lnkDivisionName" class="header" href="../Computer-Hardware-Software-d64+4294907975.music">Computer Hardware/Software</a>
+                    <span class="header">| </span>
+                
+                    <a id="ctl00_Header1_rptDivision_ctl08_lnkDivisionName" class="header" href="../DJ---Lighting-d64+4294907532.music">DJ &amp; Lighting</a>
+                    <span class="header">| </span>
+                
+                    <a id="ctl00_Header1_rptDivision_ctl10_lnkDivisionName" class="header" href="../Guitars-d64+4294907298.music">Guitars</a>
+                    <span class="header">| </span>
+                
+                    <a id="ctl00_Header1_rptDivision_ctl12_lnkDivisionName" class="header" href="../Home-Audio---Video-d64+4294906968.music">Home Audio &amp; Video</a>
+                    <span class="header">| </span>
+                
+                    <a id="ctl00_Header1_rptDivision_ctl14_lnkDivisionName" class="header" href="../Keyboards-d64+4294906864.music">Keyboards</a>
+                    <span class="header">| </span>
+                
+                    <a id="ctl00_Header1_rptDivision_ctl16_lnkDivisionName" class="header" href="../Live-Sound-d64+4294906716.music">Live Sound</a>
+                    <span class="header">| </span>
+                
+                    <a id="ctl00_Header1_rptDivision_ctl18_lnkDivisionName" class="header" href="../Musical-Gifts-d64+4294906353.music">Musical Gifts</a>
+                    <span class="header">| </span>
+                
+                    <a id="ctl00_Header1_rptDivision_ctl20_lnkDivisionName" class="header" href="../Percussion-d64+4294906254.music">Percussion</a>
+                    <span class="header">| </span>
+                
+                    <a id="ctl00_Header1_rptDivision_ctl22_lnkDivisionName" class="header" href="../Recording-d64+4294906010.music">Recording</a>
+                    <span class="header">| </span>
+                
+                    <a id="ctl00_Header1_rptDivision_ctl24_lnkDivisionName" class="header" href="../Sheet-Music-d64+4294905849.music">Sheet Music</a>
+                    <span class="header">| </span>
+                
+                    <a id="ctl00_Header1_rptDivision_ctl26_lnkDivisionName" class="header" href="../Stringed-Instruments-d64+4294905432.music">Stringed Instruments</a>
+                    <span class="header">| </span>
+                
+                    <a id="ctl00_Header1_rptDivision_ctl28_lnkDivisionName" class="header" href="../Woodwinds-d64+4294905051.music">Woodwinds</a>
+            
+        </td>
+        <td align="right">
+		<a id="ctl00_Header1_lnkOutlet" href="../OutletStore/FeaturedItems.aspx" style="display:inline-block;"><img id="ctl00_Header1_imgOutlet" src="../Images/m123_head_outlet.gif" height="68" width="108" border="0"></a>
+            </td>
+    </tr>
+    <tr>
+        <td><img id="ctl00_Header1_img_SpacerMenu" src="../Images/m123_spacer.gif" height="2" width="1" border="0"></td>
+    </tr>
+</tbody></table></td>
+  <td class="rightBg"><img id="ctl00_Header1_imgBorderRight" src="../Images/m123_right_line.gif" height="10" width="4" border="0"></td>
   </tr>
 </tbody></table>
-<table width="850" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<!----- this td cell sets the grunge line on the left, and forces it to remain the same height as the table it surrounds ---->
-		<td background="/images/music123/m123_left_line.gif" width="4"><img src="/images/music123/m123_spacer.gif" width="4" height="400" border="0" alt=""></td>
-<td align="center" width="151" valign="top" class="leftNav">
 
-<table width="151" border="0" cellspacing="0" cellpadding="0">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center">
+                                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                                        <tbody><tr>
+                                            <td class="leftBg">
+                                                <img id="ctl00_imgBorderLeft" src="../Images/m123_left_line.gif" height="10" width="4" border="0"></td>
+                                            <td style="width: 150px; margin-left: 5px; vertical-align: top; background-color: #313031;
+                                                height: 272px;">
+                                                
+<table cellpadding="0" cellspacing="0" width="150" class="leftnavbg" style="border:0">
+    <tbody><tr>
+        <td style="width: 145px" valign="top">
+            <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                <tbody><tr>
+                    <td style="width: 145px; padding-left:5px;" align="left"><img id="ctl00_LeftNavAdmin_imgSearch" title="Search" src="../Images/nav/search_head.gif" alt="Search" height="25" width="100" border="0"></td>
+                </tr>
+                <tr>
+                    <td align="right" style="width: 152px; padding-right: 10px;">
+                    <input name="ctl00$LeftNavAdmin$txtSearch" type="text" id="ctl00_LeftNavAdmin_txtSearch" class="textbox" onkeypress="return clickButton(event,'ctl00_LeftNavAdmin_btnSearch')"></td>
+                </tr>
+                <tr>
+                    <td align="right" style="width: 152px; padding-right: 10px;">
+                    <input type="image" name="ctl00$LeftNavAdmin$btnSearch" id="ctl00_LeftNavAdmin_btnSearch" src="../Images/nav/button_search.gif" alt="Search" border="0"></td>
+                </tr>
+                <tr>
+                    <td align="left" style="width: 145px; padding-top:5px; padding-left:8px;"><a id="ctl00_LeftNavAdmin_lnkByBrand" class="whiteLink" href="../Brand/Default.aspx">Search By Brand</a></td>
+                </tr>
+                <tr>
+                        <td align="left" style="width: 152px">
+                        
+                            </td>
+                </tr>
+                <tr>
+                    <td style="width: 145px;" align="center">
+                        <div id="ctl00_LeftNavAdmin_pnlStartShopping">
+	
+                        <hr style="color: #FFFFFF; width:95px; height:1px; background-color: #FFFFFF; border: 0px solid #FFFFFF;">
+                            <img id="ctl00_LeftNavAdmin_imgStartShopping" src="../Images/leftNav_StartShopping.gif" border="0">
+                        
+</div>
+                        </td>
+                </tr>
+                <tr>
+                    <td align="left" style="width: 145px; padding-left:15px;">    
+                        <a id="ctl00_LeftNavAdmin_lnkByNewProducts" class="shopByNav" href="../Search/Default.aspx?Ne=12&amp;N=64+4294939927"></a></td>
+                </tr>
+                
+                <tr>
+                    <td>
+                        <div id="ctl00_LeftNavAdmin_pnlStaticLeftNav">
+	
+                            
+<div style="text-align: left">
+  <table width="100%" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td align="center" class="blackBG">
-  <!---- global search ---->
-      <table width="140" border="0" cellspacing="0" cellpadding="2">
-	    <form name="globalsearchcombo" method="get" action="/search/" id="Form1"></form>
-        <tbody><tr>
-          <td colspan="2"><img src="/images/search_head.gif" width="100" height="25" border="0" alt=""></td>
+    <td colspan="2" style="padding-top:5px; padding-left:12px;"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkStaticNav_Guitars" class="whiteHdr" href="../Guitars-d64+4294907298.music">Guitars </a></td>
+  </tr>
+  <tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_ulDot1"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_ElectricGuitars" class="whiteLink" href="../Electric-Guitars-c64+4294907210.music">Electric Guitars </a></td>
+  </tr>
+  <tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img1"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_BassGuitars" class="whiteLink" href="../Bass-Guitars-c64+4294907271.music">Bass Guitars</a></td>
+  </tr>
+  <tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img2"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_AcousticGuitars" class="whiteLink" href="../Acoustic-Guitars-c64+4294907297.music">Acoustic Guitars</a></td>
+  </tr>
+  
+  <tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img4"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_GuitarEffects" class="whiteLink" href="../Guitar---Bass-Effects-c64+4294907144.music">Guitar &amp; Bass Effects</a></td>
+  </tr>
+  <tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img5"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_GuitarAccessories" class="whiteLink" href="../Guitar-Accessories-c64+4294907140.music">Guitar Accessories</a></td>
+  </tr>
+  <tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img6"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_MoreGuitars" class="whiteLink" href="../Guitars-d64+4294907298.music">More..</a></td>
+  </tr>
+    <tr>
+    <td colspan="2" style="padding-top:5px; padding-left:12px;"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_Drums" class="whiteHdr" href="../Percussion-d64+4294906254.music">Drums &amp; Percussion </a></td>
+        </tr>
+        <tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img18"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_DrumSets" class="whiteLink" href="../Drums-c64+4294906201.music">Drum Sets </a></td>
+        </tr>
+        <tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img19"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_ElectronicDrumSets" class="whiteLink" href="../Electronic-Drums-c64+4294906158.music">Electronic Drums</a></td>
         </tr>
         
         <tr>
-          <td><input type="text" name="src" size="13"></td>
-          <td valign="middle"><input type="image" src="/images/search/Music123/button_go.gif" width="35" height="19"></td>
-        </tr>
-		
-      </tbody></table>
-    <!---- end global search ---->
-    </td>
-  </tr>
-  <!---- horizontal rule ----->
-  <tr>
-    <td class="blackBG"><hr width="95" size="1" color="#cccccc" noshade=""></td>
-  </tr>
-  <tr>
-    <td align="center" class="blackBG">
-    <!---- shop by: brand, new, clearance, etc ---->
-      <table width="140" border="0" cellspacing="0" cellpadding="2">
-        <tbody><tr>
-          <td><img src="/images/shop_head.gif" width="100" height="25" border="0" alt=""></td>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img22"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_Cymbals" class="whiteLink" href="../Cymbals-c64+4294906241.music">Cymbals</a></td>
+      </tr><tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img23"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_MoreDrums" class="whiteLink" href="../Percussion-d64+4294906254.music">More..</a></td>
+	</tr>
+	<tr>
+    <td colspan="2" style="padding-top:5px; padding-left:12px;"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_Recording" class="whiteHdr" href="../Recording-d64+4294906010.music">Recording &amp; Live Sound</a></td>
+        </tr><tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img24"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_Microphones" class="whiteLink" href="../Microphones-c64+4294905935.music">Microphones </a></td>
+        </tr><tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img25"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_Mixers" class="whiteLink" href="../Mixers-c64+4294905927.music">Mixers</a></td>
+        </tr><tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img26"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_Software" class="whiteLink" href="../Multitrack-Recording-Software-c64+4294905918.music">Recording Software</a></td>
+        </tr><tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img27"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_Recorders" class="whiteLink" href="../Recorders-c64+4294905905.music">Recorders</a></td>
+        </tr><tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img28"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_PASystems" class="whiteLink" href="../PA-Systems-c64+4294906502.music">PA Systems</a></td>
+        </tr><tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img29"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_WirelessSystems" class="whiteLink" href="../Wireless-Systems-c64+4294906468.music">Wireless Systems</a></td>
+        </tr><tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img30"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_DJGear" class="whiteLink" href="../DJ---Lighting-d64+4294907532.music">DJ Gear</a></td>
+        </tr><tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img31"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_Lighting" class="whiteLink" href="../Lighting-c64+4294907465.music">Lighting</a></td>
+      </tr><tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img32"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_moreRecording" class="whiteLink" href="../Recording-d64+4294906010.music">More..</a></td>
+    </tr>
+	<tr>
+    <td colspan="2" style="padding-top:5px; padding-left:12px;"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkStaticNav_Amplifiers" class="whiteHdr" href="../Amplifiers-d64+4294909004.music">Amplifiers </a></td>
+    </tr>
+    <tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img7"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_ElectricGuitarAmps" class="whiteLink" href="../Guitar-Amps-c64+4294908740.music">Electric Guitar Amps </a></td>
+    </tr>
+    <tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img8"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_BassGuitarAmps" class="whiteLink" href="../Bass-Amps-c64+4294908884.music">Bass Guitar Amps</a></td>
+    </tr>
+    
+    <tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img12"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_MoreAmps" class="whiteLink" href="../Amplifiers-d64+4294909004.music">More..</a></td>
+    </tr>
+    <tr>
+    <td colspan="2" style="padding-top:5px; padding-left:12px;"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_Keyboards" class="whiteHdr" href="../Keyboards-d64+4294906864.music">Keyboards </a></td>
         </tr>
         <tr>
-          <td>
-            <p><a href="/brand/brandlist.aspx" class="White">&gt; by brand</a><br>
-              <a href="/search/?days=7" class="White">&gt; by new products</a><br>
-              <a href="/outlet/" class="White">&gt; by clearance</a><br>
-              <a href="/MyAccount/Cart.aspx#catalogquickform" class="White">&gt; by quick order form</a><br>
-              <a href="/MyAccount/giftcert.aspx" class="White">&gt; gift certificates</a><br>
-              <a href="/WishList/" class="White">&gt; wishlists</a><br>
-              <a href="/customerservice/buyguides/buyguide_index_music123.aspx" class="White">&gt; view buying guides </a><br>
-            </p>
-          </td>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img13"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_DigitalPianos" class="whiteLink" href="../Digital-Pianos-c64+4294906858.music">Digital Pianos </a></td>
         </tr>
         <tr>
-          <td><img src="/images/m123_spacer.gif" width="1" height="5" border="0" alt=""></td>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img14"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_PortableKeyboards" class="whiteLink" href="../Portable-Keyboards-c64+4294906820.music">Portable Keyboards</a></td>
         </tr>
-      </tbody></table>
-    </td>
+        <tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img15"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_ProKeyboardsSynths" class="whiteLink" href="../Pro-Keyboards-c64+4294906811.music">Pro Keyboards &amp; Synths</a></td>
+        </tr>
+        <tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img17"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_MoreKeyboards" class="whiteLink" href="../Keyboards-d64+4294906864.music">More..</a></td>
+    </tr>
+        
+    <tr>
+    <td colspan="2" style="padding-top:5px; padding-left:12px;"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_BandOrchestra" class="whiteHdr" href="../Woodwinds-d64+4294905051.music">Band &amp; Orchestra</a></td>
+        </tr><tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img33"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_Woodwinds" class="whiteLink" href="../Woodwinds-d64+4294905051.music">Woodwinds </a></td>
+        </tr><tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img34"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_Brass" class="whiteLink" href="../Brass-d64+4294908454.music">Brass</a></td>
+        </tr><tr>
+    <td style="width:15px; padding-top:2px; padding-left:5px" align="center" valign="top"><img src="../Images/ulDot.gif" id="ctl00_LeftNavAdmin_StaticLeftNav_Img35"></td>
+    <td style="width:120px; text-indent:-5px; padding-left:5px"><a id="ctl00_LeftNavAdmin_StaticLeftNav_lnkstaticNav_Orchestra" class="whiteLink" href="../Stringed-Instruments-d64+4294905432.music">Orchestral Strings</a></td>
   </tr>
+    </tbody></table>
+</div>
+                        
+</div>
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td align="left" style="width:152px">
+                        
+                    <br>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+     
 </tbody></table>
-<!--- newsletter value prop ---->
-<table width="151" border="0" cellspacing="0" cellpadding="0">
-  <!---- horizontal rule ----->
-  <tbody><tr>
-    <td class="blackBG"><hr width="95" size="1" color="#cccccc" noshade=""></td>
-  </tr>
-  <tr>
-    <td align="center" class="blackBG">
-    <!---- shop by: brand, new, clearance, etc ---->
-      <table width="140" border="0" cellspacing="0" cellpadding="2">
-	  <form method="post" action="/customerservice/subscription.aspx" name="newsletterform"></form>
-        <tbody><tr>
-          <td class="11ptWhite" colspan="2">Newsletter Sign-up:</td>
-        </tr>
-        <tr>
-          <td width="78" valign="middle"><input type="hidden" name="fromsignup" value="1">
-            <input type="text" name="subscribe" size="13" maxlength="50" value="email address" onfocus="this.value='';"></td>
-          <td width="54" align="left" valign="middle" style="padding-left:2px"><input type="image" src="/images/search/Music123/button_go.gif" width="35" height="19"></td>
-		</tr>
-        <tr>
-          <td colspan="2"><img src="/images/m123_spacer.gif" width="1" height="5" border="0" alt=""></td>
-        </tr>
-	  
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-<table width="150" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td align="center">
-      <table width="140" border="0" cellspacing="0" cellpadding="2">
-        <tbody><tr>
-          <td><a href="/customerservice/contactus.aspx" class="white"><b> Expert Advice</b></a><br>
-<span class="white">We're musicians helping musicians. </span><br><br>
-            <p></p>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-</td>
-<td align="center" width="540" valign="top" bgcolor="#FFFFFF">
 
-<link href="../m123%20New%20Website%20Work/Music123.css" rel="stylesheet" type="text/css">
 
+                                                <br>
+                                                <div style="padding-left: 10px">
+                                                    <img id="ctl00_imgWhyM123" src="../Images/leftNav_WhyM123.gif" border="0"></div>
+                                                
+<div style="text-align: left">
+    <table width="100%" cellpadding="1" cellspacing="1">
+        <tbody><tr>
+            <td colspan="2" align="left" style="padding-left:10px">
+                <a id="ctl00_Newsletter_lnkEmailNewsletter" class="AdvertControlTitle" href="NewsletterSignUp.aspx">&gt; Get Special Offers</a><br>
+                <span id="ctl00_Newsletter_lblEmailNewsletter" class="AdvertControlLable">Sign up for email updates</span>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
 
-<table id="Table_01" width="532" height="189" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td colspan="3"><img src="/images/header_faq_01.jpg" width="532" height="39" alt=""></td>
-  </tr>
-  <tr>
-    <td><img src="/images/header_faq_02.jpg" width="278" height="89" alt=""></td>
-    <td><img src="/images/header_faq_03.jpg" width="218" height="89" alt=""></td>
-    <td><img src="/images/header_faq_04.jpg" width="36" height="89" alt=""></td>
-  </tr>
-  <tr>
-    <td colspan="3"><img src="/images/header_faq_05.jpg" width="532" height="61" alt=""></td>
-  </tr>
-</tbody></table>
-<table width="100%" bgcolor="#FFFFFF">
+                                                <br>
+                                                
+<div style="text-align: left">
+    <table width="100%" cellpadding="1" cellspacing="1">
+        <tbody><tr>
+            <td colspan="2" align="left" style="padding-left:10px">
+                <a id="ctl00_LowPrice_lnkLowPriceGuarantee" class="AdvertControlTitle" href="csReturn_commitment.aspx">&gt; 45/45/100 Guarantee</a><br>
+                <span id="ctl00_LowPrice_lblLowPriceGuarantee1" class="AdvertControlLable">45 day low price guarantee</span><br>
+                <span id="ctl00_LowPrice_lblLowPriceGuarantee2" class="AdvertControlLable">45 day return policy</span><br>
+                <span id="ctl00_LowPrice_lblLowPriceGuarantee3" class="AdvertControlLable">100% satisfaction</span>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+                                                <br>
+                                                
+<div style="text-align: left">
+    <table width="100%" cellpadding="1" cellspacing="1">
+        <tbody><tr>
+            <td colspan="2" align="left" style="padding-left:10px">
+                <a id="ctl00_ExpertAdvice_lnkExpertAdvice" class="AdvertControlTitle" href="ContactUs.aspx">&gt; Expert Advice</a><br>
+                <span id="ctl00_ExpertAdvice_lblExpertAdvice" class="AdvertControlLable">We're musicians helping musicians.</span>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+                                                <br>
+                                                
+<div style="text-align: left">
+    <table width="100%" cellpadding="1" cellspacing="1">
+        <tbody><tr>
+            <td colspan="2" align="left" style="padding-left:10px">
+                <a id="ctl00_TheCard_lnkGetTheCard" class="AdvertControlTitle" href="csShop_creditapp.aspx">&gt; Play Now Pay Later</a><br>
+                <span id="ctl00_TheCard_lblGetTheCard" class="AdvertControlLable">Get interest-free financing with the Music123 credit card</span>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+                                                <br>
+                                                
+<div style="text-align: center">
+    <table width="100%" cellpadding="1" cellspacing="1">
+        <tbody><tr>
+            <td colspan="2" align="left" style="padding-left:10px">
+                <a id="ctl00_EmailFriend_lnkSendPage" class="AdvertControlTitle" href="EmailPageToFriend.aspx">&gt; Send This page to a friend</a>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+                                                <br>
+                                                
+<div style="text-align: left">
+    <table width="100%" cellpadding="1" cellspacing="1">
+        <tbody><tr>
+            <td colspan="2" align="left" style="padding-left:10px">
+                <a id="ctl00_Catalog_lnkFreeCatalog" class="AdvertControlTitle" href="CatalogSignUp.aspx">&gt; Get our Free Catalog</a><br>
+                <span id="ctl00_Catalog_lblFreeCatalog" class="AdvertControlLable">All of our inventory, right at your doorstep.</span>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+                                                <br>
+                                                
+<div style="text-align: left">
+    <table width="100%" cellpadding="1" cellspacing="1">
+        <tbody><tr>
+            <td colspan="2" align="left" style="padding-left: 10px">
+                <a id="ctl00_BuyingGuides_lnkBuyingGuide" class="whiteHdr" href="BuyGuides/BuyGuide_main.aspx">&gt; Browse Buying Guides</a><br>
+                <span id="ctl00_BuyingGuides_lblBuyingGuide" class="AdvertControlLable">Learn what's right for you</span>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+
+                                                <!-- 
+<div style="text-align: left">
+    <table width="100%" cellpadding="1" cellspacing="1">
+        <tr>
+            <td colspan="2" align="left" style="padding-left:10px">
+                <a id="ctl00_GiftCert_lnkGiftCertificate" class="AdvertControlTitle">> Send a Gift Certificate</a><br />
+                <span id="ctl00_GiftCert_lblGiftCertificate" class="AdvertControlLable">Surprise someone with our gift certificate.</span>
+            </td>
+        </tr>
+    </table>
+</div>
+                                            <br /> -->
+                                                
+<div style="text-align: left">
+    <table width="100%" cellpadding="1" cellspacing="1">
+        <tbody><tr>
+            <td colspan="2" align="center">
+                <a id="ctl00_TradeIn_lnkTradeInProgram" href="csShop_tradein.aspx"><img id="ctl00_TradeIn_imgTradeIn" src="../Images/AdvertControls/tradein_music123.jpg" border="0"></a>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+                                                <br>
+                                                
+<div style="text-align: left">
+    <table width="100%" cellpadding="1" cellspacing="1">
+        <tbody><tr>
+            <td colspan="2" align="center">
+                <a id="ctl00_MGG_lnkMusicGearGarage" href="MusicGearGarage.aspx"><img id="ctl00_MGG_imgMGG" src="../Images/AdvertControls/mgg_music123.jpg" border="0"></a>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+                                                <br>
+                                                
+<div style="text-align: left">
+    <table width="100%" cellpadding="1" cellspacing="1">
+        <tbody><tr>
+            <td style="width:152px; padding-top:10px; padding-bottom:10px" align="center">
+            <!-- Scan Alert -->
+            <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.music123.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.music123.com/22.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime."></a><br><br>
+        </td>
+        </tr>
+    </tbody></table>
+</div>
+                                            </td>
+                                <!--<td style="width: 20px; background-image: url(~/Images/spacer.gif); background-repeat: repeat; background-attachment: fixed;"><img id="ctl00_imgSpacer" src="../Images/spacer.gif" width="20" border="0" /></td>-->
+                                <td style="background-color: White; text-align: left; vertical-align: top; width: 692px;
+                                    height: 272px">
+                                    <table cellpadding="5" cellspacing="0" border="0" width="100%">
+                                        <tbody><tr>
+                                            <td>
+                                                
+    
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            
+            <tbody><tr>
+                <td colspan="2">
+                    <table width="100%" bgcolor="#FFFFFF">
       <tbody><tr>
-        <td class="10pt"><a href="/" class="10pt">Home</a> <b>&gt;</b>
-
+        <td class="10pt"><a href="../Welcome.aspx" class="10pt">Home</a> <b>&gt;</b>
     <b>FAQ</b></td>
       </tr>
         <tr>
-          <td background="/images/grunge_line_white.gif" border="0" height="3"></td>
+          <td background="../images/grunge_line_white.gif" border="0" height="3"></td>
         </tr>
 </tbody></table>
 <br>
@@ -244,271 +1434,96 @@
             <p> If you have any questions about the security of our website, or your privacy, please contact us. </p></td>
       </tr>
     </tbody></table>    
-      <p>« <a href="/customerservice/faq.aspx" class="10pt">return to FAQ list </a></p></td></tr>
+      <p>« <a href="FAQ.aspx" class="10pt">return to FAQ list </a></p></td></tr>
 </tbody></table>
-<p>&nbsp;</p>
-</td>
-<td align="center" width="151" valign="top">
-<!---- contest VP ---->
-<!---- this is where the put contest call will go ---->
-<table width="150" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="150" height="189" hspace="0" vspace="0">
-      <param name="movie" value="/Contest/banner/bannerRotation.swf">
-      <param name="quality" value="high"><param name="LOOP" value="false">
-      <embed src="/Contest/banner/bannerRotation.swf" width="150" height="189" hspace="0" vspace="0" loop="false" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" play="true">
-    </object></td>
-  </tr>
-</tbody></table><table width="150" border="0" cellspacing="0" cellpadding="0">
-<!--- sheet music search area: title "Find Sheet Music" will NOT load division name, it would be too long in some cases ---->
-	<tbody><tr>
-		<td align="center" class="blackBG">
-			<form name="sheetmusic" action="/search/" method="get">
-			<table width="146" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td align="center"><img src="/images/valueprops/music123/m123_search_sheet_head.gif" width="146" height="25" border="0" alt="Search our sheet music collection"></td>
-				</tr>
-				<tr>
-					<td align="center">
-					<select name="dd" class="rightnav_select">
-					<option value="All">All Styles</option>
-					<option value="954730283">Sheet Music Viewers</option>
-					<option value="954729760">Classical</option>
-					<option value="954729761">Pop</option>
-					<option value="954729762">Rock</option>
-					<option value="954729763">Jazz</option>
-					<option value="954729764">Contemporary Christian</option>
-					<option value="954729765">All-Time Favorites</option>
-					<option value="954729766">Traditional</option>
-					<option value="954729767">Movies/Television</option>
-					<option value="954729768">Musicals</option>
-					<option value="954729769">Country</option>
-					<option value="954729770">Adult Contemporary</option>
-					<option value="954729771">Gospel</option>
-					<option value="954729772">Concert Band</option>
-					<option value="954729773">Methods</option>
-					<option value="954729774">World Music</option>
-					<option value="954729775">R&amp;B/Soul</option>
-					<option value="954729776">Latin</option>
-					<option value="954729777">Hip-Hop</option>
-
-					</select>
-					</td>
-				</tr>
-				<tr>
-					<td><img src="images/m123_spacer.gif" width="1" height="4" border="0" alt=""></td>
-				</tr>
-				<tr>
-					<td align="center">
-					<select name="modid" class="rightnav_select">
-					<option value="All">All Instruments</option>
-					<option value="29"> Bass</option>
-					<option value="30"> Bassoon</option>
-					<option value="31"> Brass</option>
-					<option value="32"> Cello</option>
-					<option value="33"> Clarinet</option>
-					<option value="34"> Concert Band</option>
-					<option value="35"> Flute</option>
-					<option value="36"> Guitar</option>
-					<option value="37"> Guitar/Vocal</option>
-					<option value="38"> Harp</option>
-					<option value="39"> Oboe</option>
-					<option value="40"> Orchestra</option>
-					<option value="41"> Organ</option>
-					<option value="42"> Piano</option>
-					<option value="43"> Piano/Vocal</option>
-					<option value="44"> Saxophone</option>
-					<option value="49"> Trombone</option>
-					<option value="45"> Trumpet</option>
-					<option value="47"> Viola</option>
-					<option value="46"> Violin</option>
-					<option value="48"> Vocal</option>
-					</select>
-					</td>
-				</tr>
-				<tr>
-					<td><img src="images/m123_spacer.gif" width="1" height="4" border="0" alt=""></td>
-				</tr>
-				<tr>
-					<td align="right"><input type="image" src="/images/search/music123/button_search.gif"></td>
-				</tr>
-				<tr>
-					<td><img src="images/m123_spacer.gif" width="1" height="4" border="0" alt=""></td>
-				</tr>
-			</tbody></table>
-			</form>
-		</td>
-	</tr>
-<!--- end sheet music search area ---->
-</tbody></table><!---- 45 / 45 / 100 guarantee VP ---->
-      <table width="135" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td><img src="/images/m123_spacer.gif" width="1" height="10" border="0" alt=""></td>
-        </tr>
-      </tbody></table>
-      <table width="135" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td><img src="/images/m123_spacer.gif" width="1" height="4" border="0" alt=""></td>
-        </tr>
-        <tr>
-          <td><a href="/customerservice/CustomerServicePage_commitment.aspx" class="rightnav_select"><b>45/45/100</b></a></td>
-        </tr>
-        <tr>
-          <td>45 Day price guarantee<br>45 Day return policy<br>100% Satisfaction Guaranteed</td>
-        </tr>
-        <tr>
-          <td><img src="/images/m123_spacer.gif" width="1" height="4" border="0" alt=""></td>
-        </tr>
-      </tbody></table>
-	  <br><!--- email a friend value prop ---->
-		<table width="135" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td><a href="/customerservice/creditapp.aspx"><img src="/images/valueprops/music123/m123_credit_card_head.gif" width="101" height="15" border="0" alt=""></a></td>
-				</tr>
-				<tr>
-					<td><img src="images/m123_spacer.gif" width="1" height="2" border="0" alt=""></td>
-				</tr>
-				<!---- 6 months same as cash text ----->
-				<tr>
-					<td>Music123 Offers<br> 6 Months No Interest<br><a href="/customerservice/creditapp.aspx">More &gt;&gt;&gt;</a></td>
-				</tr>
-				<!---- default text to be used when above text is no longer used ----->
-				<!-- <tr>
-					<td>Music123 Offers Up to 12 Months No Interest!</td>
-				</tr> -->
-				<tr>
-					<td><img src="images/m123_spacer.gif" width="1" height="2" border="0" alt=""></td>
-				</tr>
-				<tr>
-					<td align="center"><a href="/customerservice/creditapp.aspx"><img src="/images/valueprops/music123/m123_credit_card.gif" width="70" height="45" border="0" alt=""></a></td>
-				</tr>
-				<tr>
-					<td><img src="images/m123_spacer.gif" width="1" height="2" border="0" alt=""></td>
-				</tr>
-			</tbody></table>
-			
-		<!--- email a friend value prop ---->
-		<form name="email_a_friend" method="get" action="/customerservice/emailfriend.aspx">
-          <input type="hidden" name="url" value="<%=getURL()%>">
-		  <table width="146" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td><img src="/images/valueprops/music123/m123_emailfriend_head.gif" width="146" height="25" border="0" alt=""></td>
-				</tr>
-				<tr>
-					<td><img src="images/m123_spacer.gif" width="1" height="2" border="0" alt=""></td>
-				</tr>
-			</tbody></table>
-			<table width="135" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td>Enter your friend's email address below to send.</td>
-				</tr>
-				<tr>
-					<td><input type="text" name="email" size="15" maxlength="50" value="friend's_email" class="datacellsmtext" onfocus="this.value='';"></td>
-				</tr>
-				<tr>
-					<td><img src="images/m123_spacer.gif" width="1" height="2" border="0" alt=""></td>
-				</tr>
-				<tr>
-					<td align="right"><input type="image" src="/images/button_send.gif"></td>
-				</tr>
-				<tr>
-					<td><img src="images/m123_spacer.gif" width="1" height="4" border="0" alt=""></td>
-				</tr>
-			</tbody></table>
-		</form>
-		<!--- newsletter value prop ---->
-    <form method="post" action="/customerservice/subscription.aspx" name="newsletterform">
-      <table width="146" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td><img src="/images/valueprops/music123/m123_newsletter_head.gif" width="146" height="25" border="0" alt=""></td>
-        </tr>
-        <tr>
-          <td><img src="images/m123_spacer.gif" width="1" height="2" border="0" alt=""></td>
-        </tr>
-      </tbody></table>
-      <table width="135" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td>Get Music123's e-mail newsletter and be the first to learn about our hottest deals!</td>
-        </tr>
-        <tr>
-          <td><input type="hidden" name="fromsignup" value="1">
-                <input type="text" name="subscribe" size="15" maxlength="50" value="your email address" onfocus="this.value='';"></td>
-        </tr>
-        <tr>
-          <td><img src="/images/m123_spacer.gif" width="1" height="2" border="0" alt=""></td>
-        </tr>
-        <tr>
-          <td align="right"><input type="image" src="/images/button_send.gif"></td>
-        </tr>
-        <tr>
-          <td><img src="/images/m123_spacer.gif" width="1" height="4" border="0" alt=""></td>
-        </tr>
-      </tbody></table>
-      </form></td>
-		<td background="/images/music123/m123_right_line.gif" width="4"><img src="/images/music123/m123_spacer.gif" width="4" height="1" border="0" alt=""></td>
-	</tr>
-</tbody></table>
-
-<table width="850" border="0" cellspacing="0" cellpadding="0">
-  <!--- this row establishes the bottom line and corners ---->
-  <tbody><tr>
-    <td width="4"><img src="/images/music123/m123_lower_l_corner.gif" width="4" height="7" border="0" alt=""></td>
-    <td background="/images/music123/m123_lower_line.gif" width="792"><img src="/images/music123/m123_spacer.gif" width="1" height="7" border="0" alt=""></td>
-    <td width="4"><img src="/images/music123/m123_lower_r_corner.gif" width="4" height="7" border="0" alt=""></td>
-  </tr>
-  <!--- footer ---->
-</tbody></table>
-<table width="887" border="0" cellspacing="0" cellpadding="0">
-  <!--- footer ---->
-  <tbody><tr>
-    <td colspan="3" align="center" class="10pt">
-      <p><a href="/" class="10pt">home</a> | <a href="/customerservice/contactus.aspx" class="10pt">contact</a> | <a href="/customerservice/aboutus.aspx" class="10pt">about us</a> | <a href="/wishlist/" class="10pt">wishlist</a> | <a href="/customerservice/faq.aspx" class="10pt">FAQ's</a> | <a href="/customerservice/privacy.aspx" class="10pt">privacy policy</a> | <a href="/customerservice/careers_music123.aspx" class="10pt">careers</a> | <a href="/contest/winners.aspx" class="10pt">contests</a> | <a href="/outlet/" class="10pt">outlet</a> | <a href="/customerservice/music123/affiliate.aspx" class="10pt">affiliates</a> | <a href="/customerservice/antispam.aspx" class="10pt">spam policy</a> | <a href="/MyAccount/giftcert.aspx" class="10pt">gift certificates</a> | <a href="/customerservice/music123/resources.aspx" class="10pt">resources</a> | <a href="/customerservice/sitemap.aspx" class="10pt">sitemap</a>      </p>
-      <p>
-      <table width="625" border="0" align="center" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-              <td width="100%" height="55">
-			  <div align="center">
-			  <img src="http://www.music123.com/images/footer/music123/footer.jpg" width="439" height="55" vspace="10" border="0" usemap="#footer">
-                <map name="footer">
-                  <area shape="rect" coords="381,2,436,53" href="/Gibson-p220.music">
-                  <area shape="rect" coords="86,3,380,53" href="/customerservice/paytypes.aspx">
-                  <area shape="rect" coords="1,2,84,53" href="javascript:vsignpopUp('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.MUSIC123.COM&amp;lang=en')">
-              </map>
-			   <!-- BEGIN: BizRate Medal (125x73 pixels) -->
-				<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--25527.html" target="http://www.bizrate.com">
-				<img src="http://medals.bizrate.com/medals/dynamic/25527_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" align="top" border="0" target="_blank"></a>
-				<!-- END: BizRate Medal (125x73 pixels) -->
-				</div>
-			  </td>
+<p>&nbsp;</p></td>
             </tr>
-      </tbody></table>
-      <br>
-      </p><p align="center">
-        © 2006 Music123<br>
-        Music123 is not responsible for typographical errors in pricing or product specification inaccuracies in our catalog or web site. Prices are subject to change without notice.      </p>
-    <p></p></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center"><img src="/images/music123/m123_spacer.gif" width="1" height="10" border="0" alt=""></td>
+        </tbody></table>
+    
+
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                                <td class="rightBg">
+                                    <img id="ctl00_imgBorderRight" src="../Images/m123_right_line.gif" height="10" width="4" border="0"></td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center">
+                        
+
+<table width="850px" align="center" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><img id="ctl00_Footer1_imgBorderLowerLeft" src="../Images/m123_lower_l_corner.gif" height="7" width="4" border="0"></td>
+    <td><img id="ctl00_Footer1_imgBorderLowerMiddle" src="../Images/m123_lower_line.gif" height="7" width="842" border="0"></td>
+    <td><img id="ctl00_Footer1_imgBorderLowerRight" src="../Images/m123_lower_r_corner.gif" height="7" width="4" border="0"></td>
   </tr>
 </tbody></table>
-<map name="footer">
-  <area shape="rect" coords="3,2,86,53" href="javascript:vsignpopUp('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.MUSIC123.COM&amp;lang=en')">
-  <area shape="rect" coords="87,3,377,50" href="/customerservice/paytypes.aspx">
-  <area shape="rect" coords="379,2,458,51" href="http://www.bizrate.com/merchant/reports/index.xpml?mid=25527" target="bizrate">
-  <area shape="rect" coords="465,2,523,51" href="/Gibson-p220.music">
-</map><script language="javascript">
-function handle(){return true;}
-window.onerror=handle;
-var fc_host='www.music123.com';
-document.write('<scr'+'ipt '
-+'src="'+((location.protocol=='http:')?'http://a644.g.akamai.net/f/644/67/3h/':'https://a248.e.akamai.net/f/248/67/3h/ssl-')
-+'hints.netflame.cc/service/sc'+'ript/'+fc_host+'"></scr'+'ipt>');
-function fcce(){if (typeof(fcnf)!="undefined") fcnf();}
-var fcfn=window.onload;
-function fcco(){window.setTimeout("fcce();", 100);fcfn();}
-window.onload= null==fcfn ? fcce:fcco;
-</script><script src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/www.music123.com"></script>		</td>
-	</tr>
+<table align="center" cellpadding="0" cellspacing="0" style="border:0; width:100%; text-align:center">
+    <tbody><tr>
+        <td class="footer">
+            <a id="ctl00_Footer1_lnkHome" class="footer" href="../Welcome.aspx">Home</a>&nbsp;|&nbsp;
+            <a id="ctl00_Footer1_lnkContactUs" class="footer" href="ContactUs.aspx">Contact us</a>&nbsp;|&nbsp;
+            <a id="ctl00_Footer1_lnkAboutUs" class="footer" href="AboutUs.aspx">About Us</a>&nbsp;|&nbsp;
+            <a id="ctl00_Footer1_lnkRetailStore" class="footer" href="RetailStore.aspx">Retail Store</a>&nbsp;|&nbsp;
+            <a id="ctl00_Footer1_lnkFAQ" class="footer" href="FAQ.aspx">FAQ</a>&nbsp;|&nbsp;
+            <a id="ctl00_Footer1_lnkPrivacyPolicy" class="footer" href="PrivacyPolicy.aspx">Privacy Policy</a>&nbsp;|&nbsp;
+            <a id="ctl00_Footer1_lnkContests" class="footer" href="../Contest/ContestsList.aspx">Contests</a>&nbsp;|&nbsp;
+            <a id="ctl00_Footer1_lnkOutlet" class="footer" href="../OutletStore/FeaturedItems.aspx">Outlet</a>&nbsp;|&nbsp;
+            <a id="ctl00_Footer1_lnkAffiliates" class="footer" href="Affiliates.aspx">Affiliates</a>&nbsp;|&nbsp;
+            <a id="ctl00_Footer1_lnkSpamPolicy" class="footer" href="SpamPolicy.aspx">Spam Policy</a>&nbsp;|&nbsp;
+            <a id="ctl00_Footer1_lnkRewards" class="footer" href="https://music123.instorecard.com/signup/music123" target="_blank">Rewards Program</a>&nbsp;|&nbsp;
+            <a id="ctl00_Footer1_lnkSiteMap" class="footer" href="SiteMap.aspx">Site Map</a>
+        </td>
+    </tr>
+    <tr>
+        <td><img id="ctl00_Footer1_imgSpacerFooter" src="../Images/m123_spacer.gif" height="5" width="1" border="0"></td>
+    </tr>
+    <tr align="center">
+        <td style="height: 55px">
+        <table style="width:550px; text-align:center" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+        <td>
+            <a id="ctl00_Footer1_lnkFooterVerisign" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.MUSIC123.COM&amp;lang=en" target="_blank"><img id="ctl00_Footer1_imgFooterVerisign" src="../Images/footer/footer_verisign.jpg" border="0"></a></td>
+        <td>
+            <a id="ctl00_Footer1_lnkFooterPayTypes" href="csShop_paytypes.aspx"><img id="ctl00_Footer1_imgFooterPaytypes" src="../Images/footer/footer_paytypes.jpg" border="0"></a></td>
+        <td>
+            <a id="ctl00_Footer1_lnkFooterGSA" href="../Search/Default.aspx?Ntk=Default&amp;Ntx=mode+matchall&amp;Ntt=Gibson"><img id="ctl00_Footer1_imgFooterGibson" src="../Images/footer/footer_gibson.jpg" border="0"></a></td>
+        <td>
+            <a id="ctl00_Footer1_lnkFooterBizRate" alt="BizRate Customer Certified (GOLD) Site" href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--25527.html" target="BizRate"><img src="http://medals.bizrate.com/medals/dynamic/25527_medal.gif" border="0"></a></td>
+            </tr>
+            </tbody></table>
+            </td></tr>
 </tbody></table>
-</div></body></html>
+                    </td>
+                </tr>
+            </tbody></table>
+            </td> </tr>
+            <tr>
+                <td align="center">
+                    
+<table style="width:100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td>&nbsp;</td></tr>
+<tr><td align="center" class="copyright">© MUSIC123 2006..<br>
+    <img id="ctl00_Copyright1_imgDisclaimer" src="../Images/disclaimer.gif" border="0"></td></tr>
+</tbody></table>
+                </td>
+            </tr>
+            </tbody></table>
+        </div>
+    
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKJ6L3aAgKLtJixBwK0y6ryA/nMZJJYdU0MR07jCWR61zFu8mce">
+
+<script type="text/javascript">
+<!--
+mr_merchantID='Music123'; mr_Track();
+			cmSetProduction();
+			cmCreatePageviewTag('Privacy Policy', '10000');
+			// -->
+</script>
+<script language="javascript">function clickButton(e, buttonid) { var bt = document.getElementById(buttonid); if (typeof bt == 'object'){  if(navigator.appName.indexOf("Netscape") > (-1)){   if (e.keyCode == 13){    bt.click();    return false;   }  } if (navigator.appName.indexOf("Microsoft Internet Explorer") > (-1)){  if (event.keyCode == 13){   bt.click();   return false; } } } } </script></form>
+
+
+</body></html>
