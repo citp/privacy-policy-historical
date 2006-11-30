@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the music123.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619213954id_/http%3A//www.music123.com/customerservice/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music123.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130083505id_/http%3A//www.music123.com/CustomerService/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Music123 : Customer Service
+# Privacy Policy
 
 Your privacy is important to us. Music123 is committed to respecting your privacy and the appropriate management of personally identifiable information you share with us. 
 
