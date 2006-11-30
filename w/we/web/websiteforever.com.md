@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websiteforever.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615164918id_/http%3A//websiteforever.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteforever.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130075954id_/http%3A//www.websiteforever.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # WebsiteForever
 
