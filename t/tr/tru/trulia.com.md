@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623154951id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130033255id_/http%3A//www.trulia.com/privacy) for the most accurate reproduction.*
 
 # Trulia Real Estate Search - Privacy Policy
 
@@ -23,6 +23,8 @@ We use the information we collect to help you:
 
   * find the most relevant information by organizing the Web site optimally
   * find relevant residential real estate-related news and information via email (if you have registered your email address)
+
+
 
 You can control whether you receive such emails by following the instructions at the end of each email we send. You may also opt-out by sending an email to privacy@trulia.com We may also use the information you provide to allow us to contact you for administrative purposes; for example, to tell you about changes to our privacy policy. 
 
