@@ -1,13 +1,51 @@
-> *The following text is extracted and transformed from the bedroomfurniturenmore.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622115924id_/http%3A//www.bedroomfurniturenmore.com/scripts/page.asp%3FidPage%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedroomfurniturenmore.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130222149id_/http%3A//www.bedroomfurniturenmore.com/scripts/page.asp%3FidPage%3D6) for the most accurate reproduction.*
 
-# tv stands,plasma and bello,bdi
+# Bedroom Furniture, Dressers and Night Stands
 
-Audio Video Furniture (“AVF”) respects the privacy of its visitors. This Privacy Policy explains how AVF treats your personal information that AVF collects and receives, including information related to your use of AVF products and services. 
+**PRIVACY POLICY**
 
-AVF collects your personal information, when you register, or when you visit our web pages. AVF may combine information about you that we have with information we obtain from business partners or other companies. When you register we may ask for demographic information.
+**Personal Information**
 
-AVF receives and records information on our servers from your browser, including your IP address, AVF cookie information, and the page you request. 
+At CymaxStores, we understand and share your concern about privacy. We do everything in our power to ensure that any information you share with us remains confidential. We will not solicit your information. 
 
-**Changes in our Privacy Policy.** We may update this policy from time to time and will notify you accordingly by sending a notice via your email address in your AVF account. 
+  
+**Information Collected**
 
-If you have questions or suggestions, please [contact us](https://web.archive.org/scripts/contact.asp).
+However, we do collect certain types of information for internal use. These include, but are not limited to, information on items browsed and pages visited, IP addresses, and cookie information. We store and analyze this information to ensure that our sites continue to offer products and services with you in mind.
+
+When you place an order with us, we collect information such as your name, address, telephone number, email address and credit card information. In the process of filling your order, when required, we do share this information with certain outside parties such as carriers, distribution centers and product manufacturers. The personal information that CymaxStores retains is strictly used to confirm and process your order and to be in contact with you should the need arise. During the ordering process, you will be sent three emails to: confirm your order, confirm that the method of payment has been approved and give you a tracking number once the order has been shipped.
+
+Throughout our sites, you will find the “Email A Friend” feature that allows you to share product details or “Best Seller” information with your friends. Email addresses provided through the use of this feature are used strictly to direct email communication, and are not retained in our database. They are never used for any other purpose other than the original intention.
+
+  
+**Cookies**
+
+Acceptance of cookies is not a requirement to browse any of our websites. However, when you click on “add to cart” it does require the acceptance of cookies. Our site uses these cookies to keep track of the items in your cart so that you don't have to re-enter the information each time you visit. Cookies are never used to store sensitive information like customer names, addresses, passwords or credit card numbers. If you object to enabling cookies on your browser or are otherwise unable to use cookies, but would like to purchase an item from one of our websites, you can place your order by calling our toll free number (866) 740-9830. Please note that any information you provide over the telephone is still subject to our Privacy Policy.
+
+**Consent**
+
+When you register for “CyDeals” on any of our websites, you are giving your approval to us to keep you informed of any special sales or promotions that may be of interest to you. Any information you provide in this regard is completely voluntary. This is the only time CymaxStores will send you promotional material. When you visit any of our web pages or register online for special offers, updates and sale alerts, we may ask for demographic information, such as the number of people in your household, age and gender. We may also combine any information about you that we have with other information from our business partners or other companies and affiliates.
+
+**Opting Out or Unsubscribing**
+
+If for any reason you no longer wish to receive correspondence from us or you do not want us to provide any information as outlined in our Privacy Policy, please send an email to info@cymaxstores.com with ‘UNSUBSCRIBE’ in the subject line. You may opt out from receiving communications from CymaxStores at any time.
+
+  
+**Security**
+
+CymanxStores has security measures in place to protect the loss, misuse and alteration of the information that we collect. This site uses a Thawte SSL (secure socket layer encryption) 123 Certificate which employs industry standards to ensure secure communications by encrypting all data to and from any of our websites. Thawte has checked and verified the site’s registered domain name. We use your internet Protocol (IP) address to help identify you and your shopping cart, and to gather demographic information.
+
+When you place an order with CymaxStores, and enter your email address, you are automatically assigned an account with us. You can come back at any time and log into your account with your email address, and all of the data in your account will be accessible, in the event that you wish to change any of your contact information or you wish to place future orders with us. No credit card information is ever stored.
+
+**Changes to Privacy Policy**
+
+Changes to our Privacy Policy, in whole or in part, will be indicated on our website. As well, we will notify you accordingly by sending a notice via your email address listed in your CymaxStores account. If you have further questions about CymaxStores’ Privacy Policy or have other comments on how we can improve your shopping experience with us, please do not hesitate to contact us!
+
+Thank you for your continued patronage.
+
+  
+**CymaxStores.com**
+
+  
+For more information on our company and the products we offer, please visit us at www.cymaxstores.com.  
+
