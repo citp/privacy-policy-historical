@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616074902id_/http%3A//www.biggerbras.com/biggerbras-com-customer-privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130031401id_/http%3A//www.biggerbras.com/biggerbras-com-customer-privacy-policy.shtml) for the most accurate reproduction.*
 
 # Biggerbras.com, Customer, Privacy Policy
 
@@ -20,7 +20,7 @@ When You Click the Checkout Button
 You are directed to the secure checkout page at our transaction processor (Plug-n-Pay). All secure transactions are handled on the Plug-n-Pay secure web pages. Your credit card information is protected on the Plug-n-Pay secured server and is used only for processing your order. BGB does not store credit card data or order data on its website. 
 
 Packaging  
-BGB mails your package in a plain white poly-vinyl envelope, a standard Post Office priority box, or a plain brown box. The return label reads: BGB - 2 Ilene Ct. - Bldg. 1, Unit 19 - Hillsborough, NJ 08844. No indication of the contents of the package is visible on the package except for the word "clothing" and the value of the contents when needed for Canadian, European or other international customs stickers.
+BGB mails your package in a plain white poly-vinyl envelope, a standard Post Office priority box, or a plain brown box. The return label reads: BGB - 115 Stryker Lane, Unit 9 - Hillsborough, NJ 08844. No indication of the contents of the package is visible on the package except for the word "clothing" and the value of the contents when needed for Canadian, European or other international customs stickers.
 
 Email  
 An email acknowledgement is sent when an order is placed on our web site. Additional emails may follow to inform you of the status of your order. If you do not receive these emails, you may have accidentally typed the wrong email address into your order (call us and we'll correct it), or your service provider or spam-blocker software may key on words such as "bra" or "lingerie" and put your confirmation into your spam box. If this is the case, take the necessary steps to allow these emails if you are interested in your order status.
@@ -39,6 +39,8 @@ Cookies
 Our web site uses cookie technology to place items in your shopping cart and provide an enhanced shopping experience. If you disabled cookies in the past, please make sure that you have cookies enabled (the default setting when you installed your browser software) on your browser in order to place your order online. If you do not wish to enable cookies, please phone in your order.
 
 Cookies are also used by some of the search engines such as Overture to help us determine which "keywords" are searched most frequently by our customers making purchases. This information remains anonymous and is a tally only of specific keywords.
+
+Big Girls' Bras uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners. These files enable our ad management partners to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us or by another advertiser, or advertising partner. With both cookies and Spotlight technology, the information that we collect and analyze is anonymous and not personally identifiable. It does not contain your name, address, telephone number, credit card information, or email address.
 
 Additionally, a cookie may be used so that our web site "remembers" who you are when you use one of our premium services so that only information that is important to you is displayed. No personally identifying information is ever collected using cookies.
 
