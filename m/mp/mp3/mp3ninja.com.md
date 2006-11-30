@@ -1,0 +1,26 @@
+> *The following text is extracted and transformed from the mp3ninja.com privacy policy that was archived on 2006-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061130021252id_/http%3A//www.mp3ninja.com/index/faq/category3/6) for the most accurate reproduction.*
+
+# mp3ninja.com - nice mp3 download collection. Legal, secure mp3 service. Ordered mp3 content with search.
+
+**We take your privacy seriously.**
+
+**1\. Private information  
+**
+
+We collect personally identifiable information, such as your name, email address, postal address, phone number and credit card information when you provide it to us. From time to time, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us. In accordance with common practice accepted by the industry, our site also collects statistics on customers' IP addresses. Information on IP addresses can also be used to control the legality of payments. This feature is made only for your privacy and payment transfers safety. The Site Administration agrees not to abuse this data and not to disclose it (unless agreed with the user beforehand). 
+
+**2\. Cookies**
+
+Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information. Disabling cookies may lead to the inability to access those parts of the Site which require authorization. 
+
+**3\. Finanncial Information**
+
+In order to pay for Site Services, user provides information on the method of payment (e.g., credit card details, etc.) to a payment transfer company that has a contract with MediaServices. 
+
+All details of your methods of payments are UNAVAILABLE to the Site Administration.
+
+All online credit card payments to our site are made through credit card transaction processing system [ASSIST](http://www.assist.ru/eng/index.html "ASSIST.RU") that are well-known and secure. You will be offered to learn more about those systems before you make a payment. 
+
+To make sure that you are safely secured please visit our patment system web site:   
+<http://www.assist.ru/eng/about/security.htm>  
+
