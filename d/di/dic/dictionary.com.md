@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200554id_/http%3A//dictionary.reference.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dictionary.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201110905id_/http%3A//dictionary.reference.com/help/privacy.html) for the most accurate reproduction.*
 
-# Dictionary.com/Privacy Policy
-
-## Privacy Policy
+# Dictionary.com
 
 The following discloses our privacy policy for this web site: Dictionary.com. We take your privacy concerns seriously and we strive to earn and keep your trust. Please do not hesitate to contact us with your questions and concerns (contact information is provided below).
 
@@ -50,13 +48,13 @@ This Web site meets the guidelines of [TRUSTe's](http://www.truste.org/) Childre
 We use outside ad companies to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Here is a list of advertising networks with whom we have relationships:
 
   * [Advertising.com](https://web.archive.org/go/http://www.advertising.com/)
-  * [Be Free](https://web.archive.org/go/http://www.befree.com/)
-  * [ClickAgents](https://web.archive.org/go/http://clickagents.com/)
   * [Commission Junction](https://web.archive.org/go/http://www.commissionjunction.com/)
   * [Fastclick](https://web.archive.org/go/http://www.fastclick.com/)
-  * [LinkShare](https://web.archive.org/go/http://www.linkshare.com/)
-  * [QuinStreet](https://web.archive.org/go/http://www.quinstreet.com/)
+  * [Google](https://web.archive.org/go/http://www.google.com/)
+  * [Revenue Science](https://web.archive.org/go/http://www.revenuescience.com/)
+  * [Tacoda](https://web.archive.org/go/http://www.tacoda.com/)
   * [Tribal Fusion](https://web.archive.org/go/http://www.tribalfusion.com/)
+  * [Zedo](https://web.archive.org/go/http://www.zedo.com/)
 
 
 
@@ -75,8 +73,8 @@ We also offer the option to permanently [opt-out](https://web.archive.org/go/htt
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-> Lexico Publishing Group, LLC  
->  Attn: Customer Service  
->  65 Pine Avenue #319  
->  Long Beach, CA 90802  
->  [E-mail](https://web.archive.org/help/contact.html)
+Lexico Publishing Group, LLC  
+Attn: Customer Service  
+65 Pine Avenue #319  
+Long Beach, CA 90802  
+[E-mail](https://web.archive.org/help/contact.html)
