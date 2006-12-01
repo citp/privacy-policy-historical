@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winferno.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618234805id_/http%3A//winferno.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winferno.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201020727id_/http%3A//www.winferno.com/privacy.aspx) for the most accurate reproduction.*
 
 # Winferno Software's Privacy Policy
 
@@ -8,6 +8,7 @@
 [> _Private IE_](http://www.winferno.com/privateie.aspx)  
 [> _Research Desk_](http://www.winferno.com/researchdesk2005.aspx)  
 [> _Snap Zip_](http://www.winferno.com/snapzip.aspx)  
+  
   
 Being a member has it's benefits - you'll get special savings, important product updates and more! **Would you like to become a member?  
 It's free.**  
