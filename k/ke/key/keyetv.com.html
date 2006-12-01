@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the keyetv.com privacy policy that was archived on 2006-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060505081151id_/http%3A//keyetv.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the keyetv.com privacy policy that was archived on 2006-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061201155734id_/http%3A//keyetv.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- templateok --><head>
 
 <!--<meta http-equiv="content-type" content="text/html; charset=utf-8" />-->
+
 
 
 
@@ -38,15 +39,23 @@
 
 <meta name="copyright" content="2006">
 
-<link rel="stylesheet" type="text/css" href="http://static.viacomlocalnetworks.com/css/screen.css" media="screen, projection">
-<link rel="stylesheet" type="text/css" href="http://static.viacomlocalnetworks.com/css/print.css" media="print, handheld">
+<link rel="stylesheet" type="text/css" media="screen, projection" href="http://static.viacomlocalnetworks.com/css/screen.css">
+<link rel="stylesheet" type="text/css" media="print, handheld" href="http://static.viacomlocalnetworks.com/css/print.css">
 
 <script type="text/javascript" src="http://static.viacomlocalnetworks.com/js/cbs.js"></script>
 <script type="text/javascript" src="http://static.viacomlocalnetworks.com/js/progLayout.js"></script>
 
+
+
+<script language="JavaScript">var zone='privacy';</script>
+<script type="text/javascript" src="http://static.viacomlocalnetworks.com/js/adsIframe.js"></script>
+
+
+
+
 <!--remove-->
 <!--timestamp-->
-<!--Fri, 05 May 2006 04:11:51 EDT-->
+<!--Fri, 01 Dec 2006 10:57:34 EST-->
 <!--end timestamp-->
 <!--/remove-->
 
@@ -72,64 +81,58 @@ var SiteName = "keye.dayport.com";
 var VLNFlag = 0;
 var VLNParent = "";
 
-function LaunchSyndicateArticle(ArtId,template,CustId,ContId)
+function LaunchSyndicateArticle(ArtId,template,CustId,ContId,CatID)
 {
   var SiteRegExp = new RegExp('@' + SiteName.replace(/\//g,"\\/"),"gi");
   var ArtString=ArtId.toString().replace(SiteRegExp,"");
-  var TemplateFile="";
   var Customer_ID="";
   var Contract_ID="";
-  var ParentFile="keye42player.htm";
-  var kWidth = 0;
-  var kHeight = 0;
-  var winName = "KEYEViewer";
+  var Category_ID="";  
+  var TemplateFile="";
+  var URLstring="";
+//  var ParentFile="";
+
+  kWidth = 764;
+  kHeight = 449;
+  var winName = "VideoViewer";
   var page;
 
-  if ((template != '') && (typeof template != "undefined"))
-  {
-     TemplateFile = '&tf='+template;
-     switch (template)
-     {
-        case "weatherviewer.tpl":
-          ParentFile = "";
-          kWidth = 470;
-          kHeight = 497;
-          winName = "KEYEWeatherViewer";
-          break;
-     }
-  }
-  
-  if ((CustId != '') && (typeof CustId != "undefined"))
-  {
-    if (CustId.charAt(0) == "-")
-      Customer_ID = '&ExCust='+CustId.slice(1);
-    else      
-      Customer_ID = '&Customer_ID='+CustId;
-  }
-  
-  if ((ContId != '') && (typeof ContId != "undefined") && (ContId == "0"))
-    Contract_ID = '&NoAds=true';
-  else if ((ContId != '') && (typeof ContId != "undefined")) 
-    Contract_ID = '&Contract_ID='+ContId;
-  
-  if (ParentFile == "")
-    page = "http://keye.dayport.com/viewer/viewerpage.php?Art_ID=" + ArtString + TemplateFile + Customer_ID + Contract_ID;
-  else
-    page = "http://keyeimg.dayport.com/htm/"+ParentFile+"?Art_ID=" + ArtString + TemplateFile + Customer_ID + Contract_ID;
+URLstring = "&PreloadContract_DefID=1&Contract_DefID=2";
 
-  if (VLNFlag == 1)
-  {
-    if (VLNParent == "")
-       page = "http://vln.dayport.com/viewer/viewerpage.php?Refer=" + SiteName + "&Art_ID=" + ArtString + TemplateFile + Customer_ID + Contract_ID;
-    else
-       page = "http://vlnimg.dayport.com/htm/"+VLNParent+"?Refer=" + SiteName + "&Art_ID=" + ArtString + TemplateFile + Customer_ID + Contract_ID;
-  }
+if ((template!= '') && (typeof template!= "undefined")) {
+TemplateFile = '&tf='+template;
+}else{
+TemplateFile = '&tf=video_player.tpl';
+}
 
-  if (kWidth == 0)
-    kWidth = 620;  
+
+if ((CatID != '') && (typeof CatID != "undefined")) {	
+	switch(CatID) {
+		
+		default:
+			URLstring = "";
+	} 
+}
+
+	if ((CustId != '') && (typeof CustId != "undefined"))
+        {
+          if (CustId.charAt(0) == "-")
+            Customer_ID = '&ExCust='+CustId.slice(1);
+          else      
+            Customer_ID = '&Customer_ID='+CustId;
+        }
   
-  if (kHeight == 0) 
-    kHeight = 356;
+	if ((ContId != '') && (typeof ContId != "undefined") && (ContId == "0"))
+		Contract_ID = '&NoAds=true';
+	else if ((ContId != '') && (typeof ContId != "undefined")) 
+		Contract_ID = '&Contract_ID='+ContId;  	
+	
+	if ((CatID != '') && (typeof CatID != "undefined"))
+		Category_ID = '&Category_ID='+CatID;
+	else
+		Category_ID = '&Category_ID=5';
+	
+	page = "http://keye.dayport.com/viewer/viewerpage.php?Art_ID=" + ArtString + TemplateFile + URLstring + Customer_ID + Contract_ID + Category_ID;
 
   var xPosition = screen.width/2-(kWidth/2);
   var yPosition = screen.height/2-(kHeight/2);
@@ -139,59 +142,7 @@ function LaunchSyndicateArticle(ArtId,template,CustId,ContId)
   kWin.opener = self;
   kWin.focus();
   //kWin.moveTo(xPosition, yPosition);  
-  return true;
-}
-</script>
-
-
-
-
-<script language="JavaScript">var oassitepage='keyetv.com/privacy/privacy';</script>
-
-<script language="Javascript">
-	OAS_url = 'http://oas.vtsgonline.com/RealMedia/ads/'; 
-	OAS_sitepage = oassitepage;
-  OAS_rn = '001234567890'; 
-  OAS_rns ='1234567890'; 
-	OAS_rn = new String (Math.random());
-  OAS_rns = OAS_rn.substring (2, 11); 
-</script>
-
-<script language="JavaScript">
-<!--
-	_version=10;
-//-->	
-</script>
-
-
-<script language="JavaScript1.1">
-<!--
-	_version=11;
-//-->	
-</script>
-
-<script language="JavaScript">
-<!--
-  function OAS_AD (OAS_pos) {
-    var OAS_Position = OAS_pos;
-    if (_version == 11) {
- 			OAS_RICH(OAS_pos);
-    }
-    else if (_version < 11) {
-			OAS_NORMAL(OAS_pos);
-    }
   }
-
-  function OAS_RICH(Position) { 
-		document.write('<SCRIPT LANGUAGE="Javascript1.1" SRC="' + OAS_url + 'adstream_jx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + Position + '"><\/SCRIPT>');	  	
-  }
-
-	function OAS_NORMAL(Position) {
-  	document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + Position + '">');
-		document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + Position + '"><\/A>');
-  }
-
-//-->
 </script>
 
 
@@ -201,6 +152,9 @@ function LaunchSyndicateArticle(ArtId,template,CustId,ContId)
 
 
 
+
+
+<script language="JavaScript" src="http://static.viacomlocalnetworks.com/js/hbxadditions.js"></script>
 
 
 
@@ -225,6 +179,12 @@ function LaunchSyndicateArticle(ArtId,template,CustId,ContId)
 </head>
 
 <body class="storypage">
+
+
+
+
+
+
 
 
 <!--shared body here-->
@@ -323,6 +283,7 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
 
 
 <dl id="primarynav">
+<dd style="height:23px" id="navwirelessdd"><a href="http://keyetv.com/wireless" id="navwireless" style="margin-left:0px;padding-left: 0px"><img src="http://static.viacomlocalnetworks.com/images/wireless/nav_wireless.gif" style="height:23px;width:90px;margin:0;padding:0;border: none;"></a></dd>
 <dd><a href="http://keyetv.com/homepage" id="navmain">Home</a></dd>
 <dd><a href="http://keyetv.com/local" id="navlocal">Local News</a></dd>
 <dd><a href="http://keyetv.com/national" id="navworld">U.S. &amp; World</a></dd>
@@ -346,26 +307,29 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
 <dd><a href="http://keyetv.com/links">Featured Links</a></dd>
 <dd><a href="http://keyetv.com/health">Medical Watch</a></dd>
 <dd><a href="http://keyetv.com/investigates">Investigates</a></dd>
+<dd><a href="http://keyetv.com/indepth">In Depth</a></dd>
 <dd><a href="http://keyetv.com/morningnews">Morning News</a></dd>
-<dd><a href="http://keyetv.com/campaign2006">Campaign 2006</a></dd>
+<dd><a href="http://keyetv.com/longhornfootball">Longhorn Football</a></dd>
+<dd><a href="http://keyetv.com/holidays">Holiday</a></dd>
+<!--<dd><a href="" tal:attributes="href string:${here/portal_url}/bestofthebest">Best of the Best</a></dd>-->
 <dd><a href="http://keyetv.com/bios">News Team</a></dd>
 <dd><a href="http://keyetv.com/programming">TV Schedule</a></dd>
 <dd><a href="http://keyetv.com/lottery">Lottery Results</a></dd>
+<dd><a href="http://keyetv.com/silverapple">Silver Apple</a></dd>
 </dl>
 <dl>
 <dt>Services</dt>
-<dd><a href="http://www.careerbuilder.com/?lr=CBCBS_KEYE&amp;siteid=cbs_KEYE001">Careers</a></dd>
+<dd><a href="http://cbs.monster.com/?WT.mc_n=cbsid;AUS">Careers</a></dd>
 <dd><a href="http://keye.viacom.bizrate.com/index__rf--eye000.html">Shopping</a></dd>
 <dd><a href="http://www.match.com/viacom/index.aspx?channel=keye">Dating</a></dd>
 <dd><a href="http://tripadvisor.keyetv.com/">Travel</a></dd>
 <dd><a href="http://keye.autobytel.com">Autos</a></dd>
-<dd><a href="http://www.keye.4austinrealestate.com/index.cfm?fuseaction=content.start&amp;pageid=FEE86B9B-2B3B-2DB2-802814687A4D4F5C">Real Estate</a></dd>
+<dd><a href="http://www.livingchoices.com/home/search.aspx?refer=vcomkeye&amp;mid=0640">Real Estate</a></dd>
+<!--http://www.keye.4austinrealestate.com/index.cfm?fuseaction=content.start&pageid=FEE86B9B-2B3B-2DB2-802814687A4D4F5C-->
 <dd><a href="http://search.keyetv.com/?__LOGIC=1112&amp;CITY=Austin&amp;STATE=TX&amp;section=Yellow+Pages">Yellow Pages</a></dd>
 <dd><a href="http://search.keyetv.com/?__LOGIC=1112&amp;pg=1&amp;section=Restaurants">Restaurants</a></dd>
 <dd><a href="http://www.movietickets.com/default.asp?afid=KEYE">Movie Listings</a></dd>
-<dd><a href="http://keyetv.com/maps">Maps/Directions</a></dd>
-<dd><a href="http://www.shutterfly.com/brands/KEYE/redirect.jsp">Photo Center</a></dd>
-<dd><a href="http://keyetv.com/coupons">Coupons</a></dd>
+<dd><a href="http://microsite.coupons.com/gmsa/sighub.asp?PID=12017&amp;zid=xm86&amp;nid=21">Coupons</a></dd>
 </dl>
 <dl>
 <dt>Lifestyle</dt>
@@ -387,11 +351,7 @@ navigator.appVersion)==4)document.write("<\!"+"--")</script><noscript>
 </dl>
 
 
-<script language="JavaScript"> 
-<!--
-OAS_AD('Left1'); 
-//--> 
-</script><script language="Javascript1.1" src="http://oas.vtsgonline.com/RealMedia/ads/adstream_jx.ads/keyetv.com/privacy/privacy/1904457364@Left1"></script>
+	
 
 <dl>
 <dt>Other Ways to Get News</dt>
@@ -402,6 +362,7 @@ OAS_AD('Left1');
 <dt>About Us</dt>
 <dd><a href="http://keyetv.com/info">Station Info</a></dd>
 <dd><a href="http://keyetv.com/contact">Contact Us</a></dd>
+<dd><a href="http://keyetv.com/advertise">Advertise</a></dd>
 <dd><a href="http://keyetv.com/jobs">Jobs</a></dd>
 </dl>
 <dl>
@@ -409,13 +370,6 @@ OAS_AD('Left1');
 <dd><a href="http://www.cbsnews.com">CBSnews.com</a></dd>
 <dd><a href="http://www.cbs.com">CBS.com</a></dd>
 </dl>
-
-
-<script language="JavaScript"> 
-<!--
-OAS_AD('Left2'); 
-//--> 
-</script><script language="Javascript1.1" src="http://oas.vtsgonline.com/RealMedia/ads/adstream_jx.ads/keyetv.com/privacy/privacy/1904457364@Left2"></script>
 
 </div>
 
@@ -520,17 +474,20 @@ EFFECTIVE DATE:  The most recent version of this Privacy Policy, as revised, is 
 
 <a href="http://keyetv.com/video" style="font-family:georgia, serif; font-size:14px; color:#444;"><img src="http://static.viacomlocalnetworks.com/keye/img/logo_small.gif" alt="CBS 42: Austin's Source for Breaking News, Weather, and Sports"> Video&nbsp;</a>
 
-</td><td valign="top"><div align="right" style="padding: 0px 0px 10px 0px"><a href="#" style="font-size:10px; color:#444; font-weight: bold;"><script type="text/javascript">  
-<!--
-OAS_AD('Position1'); 
-//--> 
-</script><script language="Javascript1.1" src="http://oas.vtsgonline.com/RealMedia/ads/adstream_jx.ads/keyetv.com/privacy/privacy/1904457364@Position1"></script>
+</td><td valign="top"><div align="right" style="padding: 0px 0px 10px 0px"><a href="#" style="font-size:10px; color:#444; font-weight: bold;">
+  
+	
+		
+			<script language="JavaScript">var dcIFrame=true;dcSiteName='cbs.keye';dcZone='privacy';if (dcSiteName=='cbs.wbz4') {dcSiteName = 'cbs.wbz';} else if (dcSiteName=='cbs.krua') {dcSiteName='test.krua';dcIFrame=true;} dcRichAd(dcSiteName,dcZone,'videosponsorbutton','mod=video;pg=privacy;',dcIFrame,150,31);</script>
+		
+	
+
 
 </a></div></td></tr></tbody></table>
 			
 <!-- wrap flash -->
 <div style="margin:0 -10px -10px -10px;">
-<div id="flashcontent_video">
+<div id="minvplayer">
 You need the latest Flash player to view CBS 42: Austin's Source for Breaking News, Weather, and Sports video content.
 <br>
 <a href="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">Click here</a> to download.
@@ -539,10 +496,18 @@ Click here to <a href="?detectflash=false">bypass this detection</a> if you alre
 </div>
 <script type="text/javascript">
 // <![CDATA[
-	var fo = new FlashObject('http://keyetv.com/content/file_file_150112948', 'Main', '310', '350', 7, '#ffffff');
+	var fo = new FlashObject('http://keyetv.com/content/file_file_299160059', 'minvplayer', '310', '350', 7, '#ffffff');
 	fo.addParam('allowScriptAccess', 'sameDomain');
 	fo.addParam('wmode', 'opaque');
+        fo.addVariable('CBS_viewAllUrl', 'http://keyetv.com/video');	
+        fo.addVariable('CBS_adsCompanionScript', 'resetAds');
+        fo.addVariable('CBS_adsTileId', '1');
 	fo.addVariable('CBS_configPath', 'http://keyetv.com/content/file_file_321125759');
+
+
+
+fo.addVariable('CBS_adsZoneId', 'privacy');
+
 
 
 
@@ -551,21 +516,22 @@ fo.addVariable('CBS_categoryID', '5');
 
 
 
-fo.write('flashcontent_video');
+fo.write('minvplayer');
 	// ]]>
 	</script>
 	</div><!-- flash wrap -->
 </div>
 
 
-<div class="nopadblock" id="bigad">
-<h4>Advertisement</h4>
-<script language="JavaScript"> 
-<!--
-OAS_AD('Right1'); 
-//--> 
-</script><script language="Javascript1.1" src="http://oas.vtsgonline.com/RealMedia/ads/adstream_jx.ads/keyetv.com/privacy/privacy/1904457364@Right1"></script>
-</div>
+	<div class="nopadblock" id="bigad">
+		<h4>Advertisement</h4>
+		
+		
+			
+				<script language="JavaScript">var dcIFrame=true;dcSiteName='cbs.keye';dcZone='privacy';if (dcSiteName=='cbs.wbz4') {dcSiteName = 'cbs.wbz';} else if (dcSiteName=='cbs.krua') {dcSiteName='test.krua';dcIFrame=true;} dcAd(dcSiteName,dcZone,'messaging','loc=1;pg=privacy;',dcIFrame);</script>
+			
+		
+	</div>
 
 
 
@@ -603,14 +569,17 @@ OAS_AD('Right1');
 <li><a href="http://keyetv.com/eeo">EEO Public File</a></li>
 <li><a href="http://www.v-chip.org/" target="_blank">A Parent's Guide to TV Ratings</a></li>
 <li><a href="http://www.cbslocal.com">CBS Television Stations Digital Media</a></li>
+<li><a href="http://keyetv.com/resources_spidermap/">Site Map</a></li>
 </ul>
 <p id="copyright">© MMVI, CBS Stations Group of Texas L.P. All Rights Reserved.</p>
 </div>
 
+	
+
+
 
 </div><!--wrap-->
 </div><!--sub-->
-
 
 
 
