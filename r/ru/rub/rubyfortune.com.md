@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubyfortune.com privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624113345id_/http%3A//rubyfortune.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubyfortune.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201194609id_/http%3A//www.rubyfortune.com/privacy.asp) for the most accurate reproduction.*
 
 # Ruby Fortune Casino
 
