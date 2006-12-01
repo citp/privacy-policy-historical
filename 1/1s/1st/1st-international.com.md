@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616125200id_/http%3A//www.1st-international.com/singlesinformation/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201052649id_/http%3A//1st-international.com/singlesinformation/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement for 1st International Marriage Network.
 
