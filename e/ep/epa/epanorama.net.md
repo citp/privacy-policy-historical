@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epanorama.net privacy policy that was archived on 2006-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060418010409id_/http%3A//www.epanorama.net/index.php%3Findex%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epanorama.net privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201073432id_/http%3A//www.epanorama.net/index.php%3Findex%3Dprivacy) for the most accurate reproduction.*
 
 # ePanorama.net
 
