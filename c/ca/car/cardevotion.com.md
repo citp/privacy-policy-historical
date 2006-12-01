@@ -1,0 +1,53 @@
+> *The following text is extracted and transformed from the cardevotion.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201102420id_/http%3A//www.cardevotion.com/contact/Privacy.asp) for the most accurate reproduction.*
+
+# CarDevotion.com: Find a Car
+
+This privacy policy ("Policy") discloses the data collection and use practices of CarDevotion ("CarDevotion") in connection with the CarDevotion Web site (the "Web Site") and all associated CarDevotion products and services (the "CarDevotion Services").
+
+CarDevotion will not directly inform you of any changes to the privacy policy which involve use of your personal information. If at anytime you are dissatisfied with our service to you or are in disagreement with our terms and conditions or privacy policy, you reserve the option to Opt-out of our website and future communication. CarDevotion may make non-significant changes to our privacy policy and may not notify our members if said changes do not pertain to the handling of personal information.
+
+**What Information We Collect/How We Use It**
+
+We store and use the information you give us in accordance with the terms of this Policy. Our registration form (or registration information you provide our marketing partners if you joined Pharmdaily though one of our partners) requests that you provide certain contact and profile information. That information includes but may not be limited to: name, address, email address, phone number, gender and birth date.
+
+**Cookies**
+
+We use cookies on the site to deliver personalized content. Many Web browsers are automatically set to accept cookies. You may change your browser settings to either reject cookies or notify you when a cookie is about to be placed on your computer. Please note, however, that rejecting cookies while visiting the CarDevotion Web Site may result in certain parts of the CarDevotion Web Site not operating correctly or as efficiently as if they were allowed.
+
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
+
+**E-mail Links**
+
+In some instances we may include certain links in our e-mails that will allow us to monitor whether you access specific content or advertisements contained in that e-mail. When you click on one of these links, we will record that click and certain activities on the Web page associated with that link. We may use this information for various purposes, such as to conduct internal research on our users' demographics, interests, and behavior in and to our e-mail advertisements and content, and to better understand and serve you.
+
+**Disclosures**
+
+CarDevotion may disclose information about you and your use of the CarDevotion Web Site and the CarDevotion Services if CarDevotion believes such disclosure is reasonably necessary: (i) to comply with the law or legal process; (ii) to protect or defend the rights or property of CarDevotion or others; (iii) to enforce the CarDevotion Terms and Conditions or this Privacy Policy; and (iv) to respond to claims that the content(s) of a communication violates the rights of another. In addition CarDevotion may share or transfer information about you and that you provide to CarDevotion, to one or more third party entities pursuant to a sale, merger, assignment, joint venture or other transfer or disposition of a portion, or all of, the assets or stock of CarDevotion or its affiliated entities, or as otherwise provided herein.
+
+**Reports**
+
+We periodically prepare analyses and reports reflecting visitor and member use of the CarDevotion Web Site and CarDevotion Service for our internal use as well as for a limited number of our business partners. These reports include aggregate (non-personal) information about CarDevotion members, and in certain instances, visitors to the CarDevotion Web Site. The information in these reports will not identify you individually. Our business partners who have access to these reports will not be able to contact you from the information contained in the reports.
+
+**Links**
+
+The CarDevotion Web Site, as well as the electronic messages sent as part of the CarDevotion Service, may contain links to other sites or services. CarDevotion is not responsible for the privacy practices or the content of such third party sites. If you have a question about the privacy policy of those other sites, please contact them directly.
+
+**Removal**
+
+To have all of your personally identifiable information removed from our database, send an e-mail request to [remove@cardevotion.com](mailto:remove@cardevotion.com) and we will be happy to delete such information after we receive a request to that effect. Please be advised that by requesting that your data be removed from our database, you will be unsubscribed from the CarDevotion Service.
+
+**Updates**
+
+CarDevotion may revise this Policy from time to time and at any time in the future to (i) improve or modify the CarDevotion Service, (ii) reflect future developments in CarDevotion data information gathering, storing and release practices, (iii) comply with applicable laws, and (iv) reflect changes in CarDevotion business structure. Depending on the nature of the change, we will notify users by e-mail (to the current e-mail address on file) and/or placing a notice on the CarDevotion Web Site.
+
+**Contact Us**
+
+CarDevotion.com is presented by Dedicated Marketing Solutions LLC.
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+
+Dedicated Marketing Solutions LLC.  
+12950 Culver Blvd.  
+Suite 120  
+Los Angles, CA 90066  
+[information@dedicatedla.com](mailto:information@dedicatedla.com)
