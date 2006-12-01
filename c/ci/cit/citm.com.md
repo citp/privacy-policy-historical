@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citm.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616032703id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citm.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201043126id_/http%3A//secure.checksinthemail.com/consumer_privacy.aspx) for the most accurate reproduction.*
 
 # Checks In The Mail - Personal Checks, Business Checks, Address Labels, Photo Checks.
 
@@ -76,11 +76,16 @@ Click the image below to view the certificate information provided at Verisign's
 
 * * *
 
-> Should customers need to modify personal or financial information you may do so by contacting us: E-mail [info@citm.com](mailto:info2@citm.com)
+> Should customers need to modify personal or financial information you may do so by contacting us: 
+
+    1. E-mail [info@citm.com](mailto:info2@citm.com)
+    2. Call the following telephone number: (866) 639-2432
+
+
 
 * * *
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  Matt Wier Checks In The Mail, Inc. 2435 Goodwin Lane New Braunfels, TX 78135 [mwier@checksinthemail.com](mailto:mwier@checksinthemail.com) 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  Checks In The Mail, Inc. 2435 Goodwin Lane New Braunfels, TX 78135 Tel. 1-800-733-4443 [info@checksinthemail.com](mailto:info@checksinthemail.com) 
 
 
-Last Updated 2002.09.01
+Last Updated 2006.11.22
