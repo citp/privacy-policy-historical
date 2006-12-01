@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starbucks.com.sg privacy policy that was archived on 2006-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060501170556id_/http%3A//www.starbucks.com.sg/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucks.com.sg privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201133746id_/http%3A//www.starbucks.com.sg/moby/cms/privacy.html) for the most accurate reproduction.*
 
-# Starbucks Coffee Singapore - Privacy Policy
+# Starbucks Coffee Singapore - Privacy
 
 Privacy Policy
 
