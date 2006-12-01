@@ -1,80 +1,69 @@
-> *The following text is extracted and transformed from the travelsmith.com privacy policy that was archived on 2006-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060624005722id_/http%3A//www.travelsmith.com/ts/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsmith.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201041136id_/http%3A//www.travelsmith.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D131%26path%3D1%252C3%252C129%252C131) for the most accurate reproduction.*
 
-# Privacy Policy
+# TravelSmith - Your Privacy Rights
 
-  * Process and track your orders 
-  * Send catalogs you have requested and mailings that may be of interest to you, provided you have not requested otherwise 
-  * Send exclusive e-mail offers of new product announcements and special promotions, provided you have not opted out of receiving these notifications 
-  * Send order and shipping confirmation e-mails
+TravelSmith Privacy Policy
 
-You may terminate communications at any time by notifying us. 
+**We are committed to providing a safe and secure shopping experience, and we respect and protect your personal information.** Any information collected at travelsmith.com is used solely for the purpose of improving our services for you. 
 
-back to top
+**Collected Information  
+Non-Personally Identifiable Information: **We track and analyze non-personally identifiable information on our site in order to find problems and improve our service. 
 
-**How does TravelSmith use cookies?**  
-Cookies are small files that are placed on your computer from a web server. We use cookies to keep track of your shopping cart and to customize your shopping experience. We do not use "third-party" cookies (cookies that are placed on your computer by a web server other than the site you are visiting). 
+**Personal Information:** We collect information such as your name, billing and shipping addresses, phone number, email address, and credit-card information in order to process your orders with us. When you set up an online account with us, we request a password to allow you secure access. 
 
-back to top
+We use the information we receive to process and track your orders, send catalogs you have requested and mailings that may be of interest to you, provided you have not requested otherwise, and send order and shipping confirmation e-mails. 
 
-**Is information supplied to or received from third parties?**  
-To better serve you and to enhance your shopping experience, we may supplement the information listed above with data that is publicly available and with data we receive from other reputable sources whose privacy policies meet the Direct Marketing Association's requirements. From time to time, we may share our postal mailing list with carefully selected providers of goods and services that may be of interest to you provided you have not requested otherwise. (If you prefer not to receive mailings from these providers, you can notify us at any time.) Also, on rare occasions, we may disclose specific information upon governmental request in order to assist with fraud protection or investigation. Information is not provided to these agencies or companies for marketing or commercial purposes. 
-
-TravelSmith does not sell, trade, or rent your e-mail address. 
-
-back to top
-
-**How do we protect your information?**  
+**Protecting Your Information**   
 We use encryption and/or physical, procedural, and electronic security measures to protect against the loss, misuse, and alteration of data used by our system. 
 
-back to top
+**Email and Phone Privacy**   
+We will never release your email or phone numbers to anyone else. You may join or unsubscribe from TravelSmith emails at any time. 
 
-**What is TravelSmith's policy on sending promotional e-mail?**  
-If you have requested to receive promotional e-mails from TravelSmith, we may send you e-mail to offer you our best and most current shopping opportunities. If when placing your order or catalog request online, you have already requested not to receive e-mails, you do not need to send us an additional request. 
+TravelSmith does not rent or sell email addresses or phone numbers to third parties. 
 
-We do not send "SPAM", or unsolicited commercial e-mail, from our systems. If we receive a "SPAM" complaint about one of our promotional e-mail campaigns, we will communicate this complaint to our e-mail delivery provider. If you receive unwanted, unsolicited e-mail sent via our delivery system or purporting to be sent via our system, please forward a copy of that e-mail with your comments to [service@travelsmith.com](mailto:service@travelsmith.com) for review. 
+We will only use your email address to communicate with you about the status of your order, unless you specify that you would like to receive special offers by email. If you sign up for these offers, you can remove your name from our list at any time. 
 
-back to top
+We will use your phone number to communicate with you about your order if we are unable to reach you by email. 
 
-**How can I request to stop receiving your promotional e-mails?**  
-Every e-mail message sent through our system contains a link to a webpage where you can request to stop receiving e-mail from us. You can also send an e-mail to [service@travelsmith.com](mailto:service@travelsmith.com) with "No E-mails" in the subject line and your name and mailing address in the body of the e-mail. Finally, you can also call 800-950-1600 and request to be taken off of our promotional e-mail list. 
+**Promotional Emails**   
+If you have requested to receive promotional emails from TravelSmith, we may send you email to offer you our best and most current shopping opportunities, exclusive offers, and web-only sales. If when placing your order or catalog request online, you have already requested not to receive emails, you do not need to send us an additional request. 
 
-back to top
+We do not send SPAM (unsolicited commercial email) from our systems. If we receive a SPAM complaint about one of our promotional email campaigns, we will communicate this complaint to our email delivery provider. If you receive unwanted, unsolicited email sent via our delivery system or purporting to be sent via our system, please forward a copy of that email with your comments to service@travelsmith.com for review. 
 
-**How can I take my name off of your catalog mailing list?**  
-If you no longer wish to receive our catalog you can send an e-mail to [service@travelsmith.com](mailto:service@travelsmith.com) with "No Catalogs" in the subject line and your name and address in the body of the e-mail. You can also call 800-950-1600 and request to be taken off of our catalog mailing list. Because we plan our mailings in advance, it may take several weeks for your request to become effective. 
+**Unsubscribing from Email**   
+Every email message sent through our system contains a link to a webpage where you can request to stop receiving email from us. You can also send an email to service@travelsmith.com with "No Emails" in the subject line and your name and mailing address in the body of the email. Finally, you can also call 800-950-1600 and request to be taken off of our promotional email list. 
 
-back to top
+**Information Supplied To, or Received From, Third Parties**   
+To better serve you and to enhance your shopping experience, we may supplement the information listed above with data that is publicly available and with data we receive from other reputable sources whose privacy policies meet the Direct Marketing Association's requirements. From time to time, we may share our postal mailing list with carefully selected providers of goods and services that may be of interest to you provided you have not requested otherwise (If you prefer not to receive mailings from these providers, you can notify us at any time). Also, on rare occasions, we may disclose specific information upon governmental request in order to assist with fraud protection or investigation. Information is not provided to these agencies or companies for marketing or commercial purposes. 
 
-**How can I request that you not share my name and address with other catalog companies?**  
-From time to time, we may share our postal mailing list with carefully selected providers of goods and services that may be of interest to you provided you have not requested otherwise. If you do not wish to receive these offers, you can send an e-mail to [service@travelsmith.com](mailto:service@travelsmith.com) with "Do Not Share" in the subject line and your name and address in the body of the e-mail. You can also call 800-950-1600 and request that your address not be shared. 
+TravelSmith does not sell, trade, or rent your email address. 
 
-back to top
+**Use of Cookies**   
+Cookies are small files that are placed on your computer from a web server. We use cookies to keep track of your shopping cart and to customize your shopping experience. We do not use "third-party" cookies (cookies that are placed on your computer by a web server other than the site you are visiting). 
 
-**How do you protect the privacy of children using the TravelSmith website?**  
+**Unsubscribe from Catalog Mailing List**   
+If you no longer wish to receive our catalog you can send an email to service@travelsmith.com with "No Catalogs" in the subject line and your name and address in the body of the email. You can also call 800-950-1600 and request to be taken off of our catalog mailing list. Because we plan our mailings in advance, it may take several weeks for your request to become effective. 
+
+**Request Mailing Information Not be Shared**   
+From time to time, we may share our postal mailing list with carefully selected providers of goods and services that may be of interest to you provided you have not requested otherwise. If you do not wish to receive these offers, you can send an email to service@travelsmith.com with "Do Not Share" in the subject line and your name and address in the body of the email. You can also call 800-950-1600 and request that your address not be shared. 
+
+**Children’s Privacy**   
 The TravelSmith website is intended for the use of adults age 18 or older. We do not knowingly collect the personal information of children under the age of 18. 
 
-back to top
+**Our Print Catalog**   
+Once you purchase an item from our web site, we may send you our print catalog. If you do not wish to receive any catalogs, please send an email to service@travelsmith.com with "No Catalogs" in the subject line and your name and address in the body of the email. 
 
-**Our Print Catalog**  
-Once you purchase an item from our web site, we may send you our print catalog. If you do not wish to receive any catalogs, please notify us. 
-
-back to top
-
-**In Summary**  
+**In Summary**   
 We are committed to protecting your privacy. We use the information that we collect from you on our web site primarily to improve the content of our web site in order to enhance your overall shopping experience. 
 
-back to top
-
-**Your Consent**  
+**Your Consent**   
 By using our web site, you consent to the collection and use of this information by TravelSmith. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of how we use the information that we collect, and under what circumstances we disclose it. 
 
-Our address is:  
-TravelSmith  
-60 Leveroni Court  
-Novato, CA 94949
+Our address is:   
+TravelSmith Outfitters   
+60 Leveroni Court   
+Novato, CA 94949 
 
-We can be reached via e-mail at [service@travelsmith.com](mailto:service@travelsmith.com) or by telephone at 800-950-1600. 
+We can be reached via email at service@travelsmith.com or by telephone at 800-950-1600. 
 
-Effective October 12, 2004, v.4 
-
-back to top
+Effective September 2006 
