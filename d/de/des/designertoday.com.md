@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designertoday.com privacy policy that was archived on 2005-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051016043159id_/http%3A//www.designertoday.com/tabindex-4/tabid-61/DesktopDefault.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designertoday.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201042831id_/http%3A//www.designertoday.com/Info/Privacy.Policy.aspx) for the most accurate reproduction.*
 
-# Designer Today - Privacy Policy
+# Privacy Policy
 
 **Privacy Statement for DesignerToday.com  
 **  
