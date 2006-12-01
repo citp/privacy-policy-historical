@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alldaychemist.com privacy policy that was archived on 2006-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060422070247id_/http%3A//www.alldaychemist.com/site_html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldaychemist.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201134649id_/http%3A//www.alldaychemist.com/site_html/privacy.html) for the most accurate reproduction.*
 
 # Welcome!!!
 
