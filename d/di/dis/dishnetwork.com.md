@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the dishnetwork.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618074819id_/http%3A//dishnetwork.com/content/aboutus/privacy_notice/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishnetwork.com privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201025543id_/http%3A//dishnetwork.com/content/aboutus/privacy_notice/index.shtml) for the most accurate reproduction.*
 
 # DISH Network -- Subscriber Privacy Notice
 
-As a subscriber to the DISH Network satellite television service provided by EchoStar, you are entitled under Section 338(i) of the Communications Act of 1934 (the “Communications Act”) to know the following:  
+[Spanish Privacy Policy](https://web.archive.org/downloads/pdf/programming/espanol/DISH_Network_Subscriber_Privacy_Notice_Spanish.pdf)
 
+As a subscriber to the DISH Network satellite television service provided by EchoStar, you are entitled under Section 338(i) of the Communications Act of 1934 (the “Communications Act”) to know the following:
 
   * the limitations imposed by the Communications Act upon satellite carriers in the collection and disclosure of personally identifiable information about subscribers;
   * the nature of personally identifiable information we collect and the nature of the use of such information;
