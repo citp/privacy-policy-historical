@@ -1,62 +1,71 @@
-> *The following text is extracted and transformed from the scoutstuff.org privacy policy that was archived on 2005-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050415002234id_/http%3A//www.scoutstuff.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutstuff.org privacy policy that was archived on 2006-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061201125504id_/http%3A//www.scoutstuff.org/BSASupply/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - www.scoutstuff.org
+# BSA Privacy Policy
 
-The Boy Scouts of America is committed to respecting and protecting the personal privacy of its members and those who visit its Web site. It is our policy to acquire personal information from users only by overt and voluntary means, only when it is in the interest of the user to provide it, and to utilize this information only for the purpose it was provided.
+**Scoutstuff.org Privacy Statement**
 
-The information that follows explains the kinds of information the BSA Web site collects, how it is used, the conditions under which it is made available to third parties, how information is maintained, and our compliance with the Children's Online Privacy Protection Act.
+This privacy policy explains how Boy Scouts of America's Scoutstuff.org Website collects, uses, and discloses the information of users of the Scoutstuff.org (the "Scoutstuff.org Website," or "our Website"). 
 
-## What information does this site collect?
+**Collecting your information**
 
-This site collects anonymous data that is not indicative of and cannot be traced to an individual without the cooperation of their Internet Service Provider. This data includes information about the user's remote IP address, referral data (which page "linked" to the present request), and the browser software's user-agent string. This information is accepted passively from the HTTP headers that are sent from the user when requesting any file from the server. Other anonymous data entered by the user may be collected in a common repository, including terms entered into the search engine, ZIP codes entered into the council locator, etc.
+Information is collected through the Scoutstuff.org Website. Please note that we may correlate and supplement this data with both aggregate and personally identifiable information gathered from other divisions or companies. For example, we may collect personally identifiable information and information relating to customer purchases in National Scout Shops, and then shares this information for use at Scoutstuff.org. 
 
-Personally identifiable data is collected only by means of form interfaces on the site, into which the user must voluntarily enter the information requested. This information is requested only when it is necessary to accomplish the overt purpose indicated by the interface containing the form that requests it. Such for interfaces require only the information reasonably necessary to accomplish the overt purpose indicated on the interface.
+The personal information you may provide to Scoutstuff.org or in National Scout Shops is separate and distinct from any personal member information that you may have provided to the Boy Scouts of America through your local council. Therefore, updating or submitting personal information at Scoutstuff.org does not update information in Boy Scouts of America membership files. Should you need to update your membership information, please contact your local council. 
 
-No attempt is made to covertly or "quietly" collect personally identifiable information, nor are cookies or any other tracking technology used for the purpose of coordinating information that a user may opt to enter in various interfaces on the site.
+**Important:** Boy Scouts of America voluntarily complies with the Children's Online Privacy Protection Act (COPPA) of 1998 and does not use its Website to collect any personally identifiable information for children under 13 years of age. When we request personally identifiable information to create an account on scoutstuff.org, we take all reasonable and customary measures to gain parent or guardian permission prior to accepting information from children under the age of 13 years of age, up to and including denying children the age of 13 the ability, whenever possible, from creating an account. When ""name", "email address" and "date of birth" is requested for account approval by a parent or guardian, this information is temporarily stored, pending such approval. In the event that the parent or guardian declines access to the child or does not respond to the approval request within 10-days, the information is deleted from our files. 
 
-## What organization is collecting the information?
+**Information collected through our Website**
 
-Information entered by site visitors is retrieved directly by the Boy Scouts of America, National Council: 1325 West Walnut Hill Lane, Post Office Box 152079, Irving, TX, 75015-2079 - telephone (972) 580-2000.
+When you register for the Scoutstuff.org Website we collect personally identifiable information, including (but not limited to) your name, physical address, email address, phone numbers, and billing information. All of this information is mandatory for online ordering; while you can register at Scoutstuff.org without providing this information, we will be unable to accept and fulfill orders from you without it. We may also collect personally identifiable information through purchase forms, surveys, contests, emails we receive from you, and your other interactions with our Website. 
 
-## How does the BSA use the information it collects?
+When you use our Website we may collect a variety of technical data, which we store in both aggregate and, if you are registered with Scoutstuff.org, personally identifiable forms. This data includes (but is not limited to) your IP address (a unique number that identifies your access account on the Internet), domain, and Web browser information. We may track the page you visited before coming to the Scoutstuff.org Website and the page you link to when you leave the Scoutstuff.org Website, which of our pages you access, and how long you spend on each page. 
 
-The anonymous information collected is used to monitor the usage of this Web site and the interests of those who use it. Data such as the volume of traffic to the server, the number of visitors a certain section of the site receives each month, or the most popular search terms are analyzed to derive general statistics about the site's reach and the audience's usage patterns.
+The Scoutstuff.org Website uses "cookies," which are small pieces of information stored on your computer. Cookies let our Website recognize previous visitors to our web page, record a visitor's progress from page to page, and recall certain information a visitor entered previously. For instance, a cookie may store your password, or note that you're interested in camping gear. You can choose to decline our cookies (e.g., by setting your browser to reject cookies), but if you do, some parts of the Scoutstuff.org Website may not operate properly. We may also use tracking images and applets to collect the same information. 
 
-Personally identifiable information is used only for the express purpose for which it was submitted. For example, if a user enters their contact information in the "review a distributor" form, it will be used only to contact them regarding their submission (if follow-up is done at all).
+We do not allow third parties to collect aggregate and other anonymous information about our visitors through the Scoutstuff.org Website. Nor do we sell, trade or otherwise exchange personal information you provide with any third party who are not under confidentiality obligations regarding the information. 
 
-## With whom does the BSA share the information that is collected?
+Finally, note that our Website may contain inks to other websites on the Internet. Please remember that when you click on one of these links, you are leaving our Website and entering another. Again, we are not responsible for the privacy practices or the content of these other websites, and encourage you to read their privacy statements (which may differ from ours). 
 
-The BSA does not share personally identifiable information about its web site visitors with anyone.
+**Using your information**
 
-Reports, statistics, and other analyses of aggregate anonymous information may be shared within the organization or provided to third parties at the sole discretion of the Boy Scouts of America. This information does not include any personally identifiable information.
+This section describes how we use and disclose the information we collect. 
 
-Exception: the Boy Scouts of America reserves the right to use all information at its disposal and to share this information with ISPs and other third parties as necessary to investigate any incident of misuse or abuse of its site, server, or information systems.
+We use aggregate information about your behavior and computer equipment to improve the performance of our Website, and to evaluate your reaction to the content and design of our Website. We may use personally identifiable information to customize the content and layout of our Website's pages for you, to store your Scoutstuff.org account information, to record Scoutstuff.org Website session information (such as items you have added to your shopping cart or wish list) order status, and to store your purchase history. 
 
-## How does the BSA maintain the information it collects?
+We may also use personally identifiable and aggregate information for a variety of marketing and promotional purposes. For instance, we may use what we have learned about your preferences to alert you to new areas when you return to our Website, or to help us target product placements to your particular interests. 
 
-In most cases, personally identifiable information is not maintained. Once it has been used for its intended purpose, it is deleted. Because of the brevity of this interval, no mechanism is provided to enable users to alter or delete information they have submitted.
+We do not intentionally share your personally identifiable information, except as required by law or in cases where it is necessary to share this information to investigate any incident of misuse or abuse of our website, server or other information systems. 
 
-## How does the BSA comply with the Children's Online Privacy Protection Act (COPPA) of 1998?
+From time to time we may send you emails related to your Scoutstuff.org Website accounts. At various points during your visits to Scoutstuff.org you are provided opportunities to indicate an interest in receiving email about special offers and other promotional information. If you do not wish to receive special offers and promotional information email from us, please let us know by un-checking the "email notification" request box under the "My Account" section on the Scoutstuff.org Website or on your registration forms. You may also opt out of this promotional email list after you have registered by contacting us (using the contact information below), or by following the "opt out" instructions that may be included in the emails you receive. 
 
-The Boy Scouts of America does not use its Web site to collect any personally identifiable information from children under 13 years of age. Any interface that requests personally identifiable information that appears on an interface that can be expected to be viewed by children under 13 years of age is accompanied by a notice that submissions cannot be accepted from usersunder 13 years of age. Where "age" or "date of birth" is requested, no information will be stored or transmitted unless the response indicates that the user is 13 years of age or older.
+If you supply us with your postal address you may receive periodic mailings from us related to your Scoutstuff.org Website or other Boy Scouts of America programs or activities. We may also mail you information about new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by un-checking the appropriate box on the Scoutstuff.org Website. 
 
-Providing personal information is _never_ a prerequisite for accessing any of the content or resources on this Web site. Specifically, refusal to provide personal information via a Web interface will never result in a user being denied access to any on-line content or resource he would be able to access were the information submitted.
+If you supply us with your telephone numbers, you will only receive telephone contact from us regarding orders you have placed online. 
 
-## Policy Modifications and Deviations
+Please note that the date of your most recent opt in/out request will supersede prior requests. 
 
-We may modify this privacy policy and will post those changes here. If the privacy policy changes in the future, we will not any personal information you have submitted to us under the current Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+Upon your reasonable request via the contact information below (and subject to our security practices), we will provide you with access to your contact information (for example, name, address, phone number), financial information, unique identifier information (for example, customer number or password), and transaction information (for example, when and what you purchased from our Website). If you're a registered Scoutstuff.org Website member, you can sign in and access your Website account information from the Website "My Account" page. 
 
-It may be necessary to deviate from this general policy in unique instances and for specific purposes. In such instances, a link will be provided to a description of the deviation. This link will be placed where it can be reasonable expected to be noticed prior to submitting any information for which this privacy policy is modified or exempted in any way.
+Upon your reasonable request via the contact information below (and subject to our security practices), we also offer you the ability to correct inaccuracies in your contact information, financial information, unique identifiers, transaction information, and any communications that you have directed to our Website. If you're a registered Scoutstuff.org Website member, you can sign in and correct your personal information from the "My Account" page on our Website. 
 
-* * *
+**Security**
 
-| 
+Any Scoutstuff.org Website accounts you may have are password-protected. We recommend that you do not divulge your password to anyone. Your Scoutstuff.org account is password protected. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. 
 
-BOY SCOUTS OF AMERICA  
-SUPPLY DIVISION • NATIONAL DISTRIBUTION CENTER  
-P.O. Box 7143, Charlotte, NC 28241-7143 1-800-323-0732
+We have instituted security measures in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you. In addition, we always use industry-standard encryption technologies when transferring and receiving customer data exchanged with our Website. 
 
-<http://www.scoutstuff.org/>
+Please keep in mind, however, that no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit using our Website, and you transmit such information at your own risk. Scoutstuff.org further does not assume responsibility for use or disclosure of your information that are the result of unauthorized or illegal access to our systems or those of our vendors or partners. 
 
-|   
----|---|---
+**Contact information**
+
+Inquiries and requests relating to the Scoutstuff.org Website policy should be sent by email to scoutstuffprivacy@netbsa.org. You can also reach us at our mailing address: 
+
+Scoutstuff.org Privacy   
+Boy Scouts of America   
+Supply Group   
+P. O. Box 7143   
+Charlotte, NC 28231-7143 
+
+**Policy changes**
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If we make such a change, we will post a notice on the Scoutstuff.org Website. If you are concerned about how your information is used, please check our Website periodically to review our current privacy policy. 
