@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therawfoodworld.com privacy policy that was archived on 2006-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060529051139id_/http%3A//www.rawveganbooks.com/privacy.php%3FosCsid%3D4422421ccfc0a98e0b485ab079432de9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therawfoodworld.com privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202223408id_/http%3A//www.rawveganbooks.com/privacy.php) for the most accurate reproduction.*
 
 # Raw Vegan Books :
 
