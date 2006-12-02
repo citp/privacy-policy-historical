@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theengineer.co.uk privacy policy that was archived on 2006-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060213193030id_/http%3A//www.theengineer.co.uk/StaticPages/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theengineer.co.uk privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202075516id_/http%3A//www.theengineer.co.uk/StaticPages/Privacy.htm) for the most accurate reproduction.*
 
 # The Engineer Online - [Technology & innovation: engineering, engineering news, engineering info, engineering jobs, engineer jobs, latest technology, mechanical engineering, technology news]
 
@@ -6,7 +6,7 @@ At Centaur we take privacy very seriously. Throughout the data collection proces
 
 **Purposes for which information is collected**
 
-All data collected at this site is regulated by the UK Data Protection Act. Centaur Communications, our parent company, is duly registered as a data collector for various purposes under the Act. In the case of The Engineer Online, data collected may be used for two purposes. First, for the purpose of providing any service requested by you. Second, for the purpose of direct marketing by Centaur and other companies. This implies that we may from time to time send you information about Centaur products, magazines, or conferences, and that we may pass your name and address on to other companies whose products we believe you might be interested in. As of 31 March 2000 (in accordance with the revised Data Protection Act 1998) you must actively give your consent for this at the time the information is collected. We will not use your information if this consent is not given.
+All data collected at this site is regulated by the UK Data Protection Act. [Centaur Media PLC](http://www.centaur.co.uk/), our parent company, is duly registered as a data collector for various purposes under the Act. In the case of The Engineer Online, data collected may be used for two purposes. First, for the purpose of providing any service requested by you. Second, for the purpose of direct marketing by Centaur and other companies. This implies that we may from time to time send you information about Centaur products, magazines, or conferences, and that we may pass your name and address on to other companies whose products we believe you might be interested in. As of 31 March 2000 (in accordance with the revised Data Protection Act 1998) you must actively give your consent for this at the time the information is collected. We will not use your information if this consent is not given.
 
 **Your right to 'opt out'**
 
@@ -18,4 +18,4 @@ By submitting your email address to us, you agree to allow us to use this addres
 
 **For more information**
 
-This statement is a summary and does not represent a complete statement of intent on behalf of Centaur Communications in respect of information privacy. If you require more information, please [mail us](mailto:dan.king@centaur.co.uk) with your comments and we will do our best to answer you as quickly as possible.
+This statement is a summary and does not represent a complete statement of intent on behalf of Centaur Media PLC in respect of information privacy. If you require more information, please [mail us](mailto:sean.marshall@centaur.co.uk) with your comments and we will do our best to answer you as quickly as possible.
