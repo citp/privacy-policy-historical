@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visiondirect.com privacy policy that was archived on 2006-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060605074137id_/http%3A//visiondirect.custhelp.com/cgi-bin/visiondirect.cfg/php/enduser/std_adp.php%3Fp_faqid%3D281) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiondirect.com privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202073738id_/http%3A//visiondirect.custhelp.com/cgi-bin/visiondirect.cfg/php/enduser/std_adp.php%3Fp_faqid%3D281) for the most accurate reproduction.*
 
 # Answer
 
