@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ccmixter.org privacy policy that was archived on 2005-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051216202023id_/http%3A//ccmixter.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccmixter.org privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202095038id_/http%3A//ccmixter.org/privacy) for the most accurate reproduction.*
 
-# ccMixter
+# ccMixter CCMIXTER PRIVACY POLICY
 
 This Privacy Policy explains the collection, use, and disclosure of "personal information" by Creative Commons, a Massachusetts Corporation, with its principal place of business at 543 Howard Street, San Francisco, 94150, USA, and its agents of users and visitors to the website available at [http://ccmixter.org](http://ccmixter.org/) ("ccMixter"). As used in this policy, "personal information" means information that would allow a party to identify you, such as, for example, your full name, address, telephone number, or email address. 
 
