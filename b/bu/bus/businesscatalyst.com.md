@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the businesscatalyst.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619092556id_/http%3A//www.businesscatalyst.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesscatalyst.com privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202113425id_/http%3A//businesscatalyst.com/privacypolicy) for the most accurate reproduction.*
 
 # Business Catalyst
 
+Our Privacy Policy  
 Business Catalyst respects your privacy and is committed to protecting your personal information that you provide to us. This statement explains our policies and practices regarding the use and disclosure of your personal information by Business Catalyst. Please note that, Business Catalyst reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how Business Catalyst collects and uses personal information. By using our web site, you consent to the collection and use of your personal information by Business Catalyst as explained below. 
 
 1\. **Personal Information**. You have complete control over your personal information. In general, you can visit our web site without providing us with any personal information. However, there are instances where we must have your personal information in order for us to grant you an access to our protected and secured sites. This information may include registration data (your name, address, email address, phone number, title, etc.), information request data and response data ("User Information"). When you receive your confirmation email or when you receive any email from the list server, you will be given instructions on how to remove yourself from the list.
@@ -20,4 +21,4 @@ Business Catalyst respects your privacy and is committed to protecting your pers
 
 8\. **Terms of Use**. Please also see our [Terms of Use](https://web.archive.org/TermsofUse), which describes the restrictions, disclaimers, indemnification and limitation of liability governing the use of the entire Business Catalyst web site.
 
-9\. **General**. If you have questions regarding our Privacy Statement, please contact Business Catalyst via our [Contact Us](https://web.archive.org/Company/ContactUs.htm) page.
+9\. **General**. If you have questions regarding our Privacy Statement, please contact Business Catalyst via our [Contact Us](https://web.archive.org/Company/Contact.htm) page.
