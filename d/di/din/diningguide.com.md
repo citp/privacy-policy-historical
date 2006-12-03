@@ -1,52 +1,8 @@
-> *The following text is extracted and transformed from the diningguide.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204827id_/http%3A//metroguide-inc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diningguide.com privacy policy that was archived on 2006-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061203023306id_/http%3A//metroguide-inc.com/privacy.html) for the most accurate reproduction.*
 
-# MetroGuide: Privacy Policy
+# MetroGuide Privacy Policy
 
-  * [MetroGuide](http://metroguide.net/)
-  * [LodgingGuide](http://lodgingguide.com/)
-  * · [HotelGuide](http://hotelguide.net/)
-  * · [CondoGuide](http://condominiumguide.com/)
-  * [EventGuide](http://eventguide.com/)
-  * [VenueGuide](http://venueguide.com/)
-  * [NightGuide](http://nightguide.com/)
-  * [RetailGuide](http://retailguide.com/)
-  * [DiningGuide](http://diningguide.com/)
-  * [AttractionGuide](http://attractionguide.com/)
-  * [FareGuide](http://fareguide.com/)
-  * [PortofCallGuide](http://portofcallguide.com/)
-  * [CruiseShipGuide](http://cruiseshipguide.com/)
-  * [CarRentalGuide](http://carrentalguide.com/)
-
-
-
-  * [About Us](http://metroguide-inc.com/)
-  * [Advertising](http://metroguide-inc.com/products_and_services/advertising.html)
-  * [Content Licensing](http://metroguide-inc.com/products_and_services/content_licensing.html)
-  * [Press Releases](http://metroguide-inc.com/press_releases/)
-  * [Join Our Team](http://metroguide-inc.com/company/join.html)
-  * Privacy Policy
-  * [Terms](http://metroguide-inc.com/terms.html)
-  * [Publications](http://metroguide-inc.com/products_and_services/publications.html)
-  * [Link Exchange](http://metroguide-inc.com/link_policy.html)
-  * [Client Login](http://metromanager.com/)
-
-
-
-  * [Hotel Reviews](http://reviews.hotelguide.net/recent.asp?sid=hg&m=999&s=mg|hp&id=35&p=lnv)
-  * [Dining Reviews](http://reviews.diningguide.com/recent.asp?sid=dg&m=999&s=mg|hp&id=36&p=lnv)
-
-
-
-  * [Guía de Hoteles](http://guia-de-hoteles.com/)
-  * [Guía de Restaurantes](http://guia-de-restaurantes.com/)
-  * [Guía de Eventos](http://guia-de-eventos.com/)
-  * [Guía de Atracciones](http://guia-de-atracciones.com/)
-
-
-
-  * [DiningChannel](http://diningchannel.com/)
-  * [HotelChannel](http://hotelchannel.com/)
-  * [RomanceChannel](http://romancechannel.com/)
+What's New at MetroGuide
 
 | 
 
@@ -68,20 +24,22 @@ We do not disclose information about your individual visits or information that 
 
 ## Privacy Policy Changes
 
-If you have any questions or concerns about this privacy policy, our practices, or your dealings with us, please [click here](http://forms.metromanager.com/asp/ContactMG.asp?s=mg|privacy&p=em). 
+If you have any questions or concerns about this privacy policy, our practices, or your dealings with us, please [click here](http://forms.metromanager.com/asp/ContactMG.asp?s=mg|hp&p=hnv). 
 
 You can also send us mail at:  
-MetroGuide.com, Inc., c/o Legal Department, 3990 Sheridan Street, Suite 107, Hollywood, FL 33021. 
+MetroGuide.com, Inc.  
+c/o Legal Department  
+3990 Sheridan Street, Suite 107  
+Hollywood, FL 33021. 
+
+[MetroGuide](http://metroguide.com/) > [About](http://metroguide-inc.com/) > Privacy Policy 
+
+« Top of Page
 
 | 
 
-|   | 
+| | 
 
-_© 1996-2006,[MetroGuide.com, Inc.](http://metroguide.com/)_ | [Privacy Policy](http://metroguide-inc.com/privacy.html) | [Terms and Conditions](http://metroguide-inc.com/terms.html)
-
-MetroGuide, LodgingGuide, HotelGuide, CondominiumGuide, DiningGuide, EventGuide, NightGuide, RetailGuide, FareGuide, CruiseGuide, AttractionGuide, CarRentalGuide, VenueGuide, TheaterGuide and "Your Guide for Life" are service marks of MetroGuide.com, Inc. TouchGuide, HotelGuide Network and Metropolitan Networks are registered trademarks of MetroGuide.com, Inc.  
-All other trademarks are the property of their respective owners. 
-
-To Contact Us At MetroGuide: [Click Here](http://forms.metromanager.com/asp/ContactMG.asp?s=mg|privacy&p=f1). 
+Copyright © 1996-2006, MetroGuide.com, Inc. All Rights Reserved. MetroSyndicate, MetroConnect, MetroListing, MetroPoints and MetroRewards are service marks of MetroGuide.com, Inc. MetroGuide Network is a registered service mark of MetroGuide.com, Inc.
 
 | 
