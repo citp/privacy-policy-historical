@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stumpsprom.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307213108id_/http%3A//www.stumpsprom.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumpsprom.com privacy policy that was archived on 2006-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061203015406id_/http%3A//www.stumpsprom.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
 
-# Stumps Prom
+# Prom Decorations, Prom Themes, Prom Supply, Prom Favors – Stumps Prom and Party
 
 ### Site Security
 
@@ -35,7 +35,7 @@
 
 ### Privacy Policy
 
-> > Revised March 2004
+> > Revised April 2005
 >> 
 >> We want you to know that we respect your privacy and value you as a customer. To this end, we have initiated policies to ensure that your personal information is handled safely and responsibly.
 >> 
@@ -82,7 +82,9 @@
 >>> _Or call us at:_  
 >  1-800-227-2789
 >> 
->> We will occasionally share our customers’ mailing information with select companies that we feel might be of interest to you. If you prefer that we do not share your name, simply mail or e-mail us your name and mailing address. Again, be sure to provide your exact name and address so that we may identify you correctly.
+>> We will occasionally share our customers’ mailing and other information with select companies that we feel might be of interest to you, but we will never share any personally identifiable information we collect from you without your consent. If you prefer that we do not share your name, simply mail or e-mail us your name and mailing address. Again, be sure to provide your exact name and address so that we may identify you correctly.
+>> 
+>> We may employ other companies to provide similar marketing services on our behalf. With our approval, these third parties may also place “cookies” for analysis purposes. These third-party companies will have access to the information needed to perform their functions but cannot use that information for any other purpose. These third-party companies will only have access to non-personal information about your visit or transaction, such as the URLS which lead you to and around our site, pages visited, the product(s) purchased, and the amount spent; these companies will not have access to information that will allow them to personally identify you.
 >> 
 >> To remove your name from mailing lists of other printed catalogs that belong to the Direct Marketing Association, write to:
 >>
