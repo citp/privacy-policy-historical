@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the stevemadden.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623073657id_/http%3A//www.stevemadden.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevemadden.com privacy policy that was archived on 2006-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061203052656id_/http%3A//www.stevemadden.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Steve Madden
 
-|  |  |  | Privacy Policy  
+|  |  |  |  |   
 ---  
-|  |  |  |  | 
+   
+  |  |  |  |  | 
 
 Thank you for accessing the web site ("Site") of Steve Madden Ltd. which can be found at www.stevemadden.com. The information below ALSO relates to any use of our LIVE CHAT. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.  
   
