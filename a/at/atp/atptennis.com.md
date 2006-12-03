@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the atptennis.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615212316id_/http%3A//www.atptennis.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atptennis.com privacy policy that was archived on 2006-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061203014410id_/http%3A//www.atptennis.com/en/privacypolicy) for the most accurate reproduction.*
 
 # ATPtennis.com - Privacy Policy
+
+  
+|  |    
+  
+
 
 ATP Tour, Inc. and its members (collectively "ATP") are committed to protecting your privacy. Please read this Privacy Policy, as well as our [Terms of Use Agreement] for more details about how we use information you submit to the Website. This Privacy Policy, together with the Terms of Use Agreement, constitute the entire agreement between you and ATP. By your use of the Website you consent to be governed by this Privacy Policy. 
 
@@ -43,3 +48,7 @@ This Web site is a general audience Web site. We do not knowingly collect and/or
 If, in the future, ATP collects Personal Information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998. 
 
 ©2003 ATP Tour, Inc. All Rights Reserved. 
+
+  
+|  |    
+
