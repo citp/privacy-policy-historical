@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwebsolutions.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619051001id_/http%3A//softwebsolutions.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwebsolutions.com privacy policy that was archived on 2006-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061203050701id_/http%3A//softwebsolutions.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Softweb Solutions - Offshore software development, outsourcing offshore services
 
