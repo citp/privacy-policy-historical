@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orbitz.com privacy policy that was archived on 2006-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060628203948id_/http%3A//www.orbitz.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitz.com privacy policy that was archived on 2006-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061204111602id_/http%3A//www.orbitz.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
 
 # Orbitz: Privacy Policy
 
@@ -21,7 +21,7 @@ Your privacy is very important to Orbitz LLC ("we" or "us"). This Privacy Policy
 
 **Your California Privacy Rights**
 
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us at: customerservice@orbitz.com, or write to us at: Customer Service, Orbitz LLC, 500 West Madison Avenue, Suite 1000, Chicago, IL 60661 with a reference to California Disclosure Information. 
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us at: customerservice@orbitz.com, or write to us at: Customer Service, Orbitz LLC, 500 West Madison Street, Suite 1000, Chicago, IL 60661 with a reference to California Disclosure Information. 
 
 We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year. 
 
@@ -292,19 +292,19 @@ _How to access, modify or delete your Personal Information_
 
 > **Cookies and pixel tags**
 >
->> A Cookie is a small text file that our computer sends to your computer, and that your computer sends back to us each time you make a request from our Site. A cookie contains a unique identification number that identifies the visitor's browser, but not necessarily the visitor. A pixel tag is a small graphic image similar to a cookie. 
+>> A Cookie is a small text file that our computer sends to your computer, and that your computer sends back to us each time you make a request from our Site. A cookie contains a unique identification number that identifies the visitor's browser, but not necessarily the visitor. A pixel tag is a small graphic image similar to a cookie.
 >> 
->> When you access our Site, our computer may seek to place "cookies" or "pixel tags" on your personal computer to collect Session Data. Cookies and pixel tags help us recognize you when you visit our Site again. Unless a visitor specifically informs us of his/her identity (e.g. by registering with us), we will not know who the individual visitor is.
+>> When you access our Site, our computer may seek to place "cookies" or "pixel tags" on your personal computer to collect Session Data. Cookies and pixel tags are used to help us recognize you when you visit our Site again, or to help us customize your online experience. Unless a visitor specifically informs us of his/her identity (e.g. by registering with us), we will not know who the individual visitor is.
 >> 
 >> Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. You can learn more about the use of cookies by visiting [http://networkadvertising.org](http://networkadvertising.org/) or <http://en.wikipedia.org/wiki/HTTP_cookie>.
 >> 
 >> If you decide not to accept our cookies, you will be able to access those parts of our Site that are available to the general public, but you will not be able to access many of the Products and Services offered at our Site.
 > 
-> **Third Party Advertisers**
+> **Third Parties and Advertising**
 >
->> Third parties advertise on our Site. We do not share any Personal Information about you with these advertisers unless you give us permission to do so, separate from any permission you provide during the Member registration process. These advertisers may seek to use cookies and pixel tags to track Session Data about the ads you have seen and types of things in which you appear interested. These advertisers may also use combined information about your visits to our Site and other sites in order to provide advertisements about related goods and services that may be of interest to you. 
+>> Third parties advertise on our Site, and we also contract with third parties to serve ads across the Internet. These third parties may serve ads about our products or services, or third party products or services in which, based on your Session Data, we or our business partners believe you may be interested. While we may share Session Data with third parties to help facilitate the serving of these ads, we do not share any Personal Information about you unless you give us permission to do so, separate from any permission you provide during the Member registration process. These third parties may seek to use cookies and pixel tags, including those collected on our Site, to track Session Data about the ads you have seen and types of things in which you appear interested. These third parties may also use combined information about your visits to our Site and other sites in order to provide advertisements about related goods and services that may be of interest to you.
 >> 
->> When you click on one of these advertisers' links, you are leaving our Site and entering another site. We are not responsible for such third party's sites. You should carefully review the privacy statements of any other site you visit, because those privacy statements will apply to your visit to that site, and may be very different from our policy.
+>> When you click on a third party advertisers' link from our Site, you will be taken off of our Site and will enter the third party's site. We are not responsible for such third party's sites. You should carefully review the privacy statements of any other site you visit, because those privacy statements will apply to your visit to that site, and may be very different from our policy.
 >> 
 >> **Opting-Out**
 >> 
@@ -344,7 +344,7 @@ _Changes to the Privacy Policy_
 > ---|---  
 > Mailing address:| Chief Privacy Officer  
 >  Orbitz LLC  
->  500 West Madison Avenue, Suite 1000, Chicago, IL 60661  
+>  500 West Madison Street, Suite 1000, Chicago, IL 60661  
 > Telephone:| 888-656-4546 (within the United States)  
 >  701-280-5683 (Outside the United States).   
   
