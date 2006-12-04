@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ojr.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004248id_/http%3A//www.ojr.org/ojr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojr.org privacy policy that was archived on 2006-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061204011041id_/http%3A//www.ojr.org/ojr/privacy) for the most accurate reproduction.*
 
 # OJR.org Privacy Policy
+
+| 
 
 Online Journalism Review has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering practices.
 
@@ -30,4 +32,90 @@ Los Angeles, CA 90089-0281, USA
 
 Phone: 213-740-0948
 
-©1999-2006 USC Annenberg Online Journalism Review.
+| 
+
+### Join OJR
+
+[Log-In](http://www.ojr.org/ojr/people/login.cfm)  
+[Register](http://www.ojr.org/ojr/people/register.cfm)  
+[Submit Story](http://www.ojr.org/ojr/submit/)  
+
+
+### [OJR Delivered](http://www.ojr.org/ojr/people/subscribe.cfm)
+
+[Get OJR by E-mail](http://www.ojr.org/ojr/people/subscribe.cfm)  
+[ Article Feed](http://www.ojr.org/ojr/stories/rss.xml)  
+[](http://add.my.yahoo.com/content?.intl=us&url=http%3A//www.ojr.org/ojr/stories/rss.xml)  
+[ Save This Page](http://del.icio.us/post)  
+
+
+### [How-to Guides](http://www.ojr.org/ojr/wiki/)
+
+[Earning Revenue](http://www.ojr.org/ojr/wiki/make_money/)  
+[Ethics](http://www.ojr.org/ojr/wiki/ethics/)  
+[Events Calendar](http://www.ojr.org/ojr/wiki/calendar/)  
+[Publishing Tools](http://www.ojr.org/ojr/wiki/tools/)  
+[Reporting](http://www.ojr.org/ojr/wiki/reporting/)  
+[Shooting Video](http://www.ojr.org/ojr/wiki/video/)  
+[Writing](http://www.ojr.org/ojr/wiki/writing/)  
+
+
+### [OJR Archives](https://web.archive.org/ojr/stories/)
+
+[grassroots journalism](https://web.archive.org/archive.cfm?topic=grassroots%20journalism)  
+[entrepreneurial journalism](https://web.archive.org/archive.cfm?topic=entrepreneurial%20journalism)  
+[tools](https://web.archive.org/archive.cfm?topic=tools)  
+[newspaper blogs](https://web.archive.org/archive.cfm?topic=newspaper%20blogs)  
+[revenue](https://web.archive.org/archive.cfm?topic=revenue)  
+[website design](https://web.archive.org/archive.cfm?topic=website%20design)  
+[discussion boards](https://web.archive.org/archive.cfm?topic=discussion%20boards)  
+[journalism education](https://web.archive.org/archive.cfm?topic=journalism%20education)  
+[political blogs](https://web.archive.org/archive.cfm?topic=political%20blogs)  
+[news aggregators](https://web.archive.org/archive.cfm?topic=news%20aggregators)  
+[OJR conference](https://web.archive.org/archive.cfm?topic=OJR%20conference)  
+[The Los Angeles Times](https://web.archive.org/archive.cfm?topic=The%20Los%20Angeles%20Times)  
+[blog networks](https://web.archive.org/archive.cfm?topic=blog%20networks)  
+[Bob Cauthorn](https://web.archive.org/archive.cfm?topic=Bob%20Cauthorn)  
+[censorship](https://web.archive.org/archive.cfm?topic=censorship)  
+[content management systems](https://web.archive.org/archive.cfm?topic=content%20management%20systems)  
+[mergers and acquisitions](https://web.archive.org/archive.cfm?topic=mergers%20and%20acquisitions)  
+[NorthwestVoice.com](https://web.archive.org/archive.cfm?topic=NorthwestVoice%2Ecom)  
+[online video](https://web.archive.org/archive.cfm?topic=online%20video)  
+[photojournalism](https://web.archive.org/archive.cfm?topic=photojournalism)  
+[press freedom](https://web.archive.org/archive.cfm?topic=press%20freedom)  
+[search engine optimization](https://web.archive.org/archive.cfm?topic=search%20engine%20optimization)  
+[student spotlight](https://web.archive.org/archive.cfm?topic=student%20spotlight)  
+[Washingtonpost.com](https://web.archive.org/archive.cfm?topic=Washingtonpost%2Ecom)  
+[wikis](https://web.archive.org/archive.cfm?topic=wikis)  
+[YourHub](https://web.archive.org/archive.cfm?topic=YourHub)  
+[Anthony Moor](https://web.archive.org/archive.cfm?topic=Anthony%20Moor)  
+[Bakersfield Californian](https://web.archive.org/archive.cfm?topic=Bakersfield%20Californian)  
+[blog syndication](https://web.archive.org/archive.cfm?topic=blog%20syndication)  
+[Bluffton Today](https://web.archive.org/archive.cfm?topic=Bluffton%20Today)  
+[China](https://web.archive.org/archive.cfm?topic=China)  
+[Chris Nolan](https://web.archive.org/archive.cfm?topic=Chris%20Nolan)  
+[copyright law](https://web.archive.org/archive.cfm?topic=copyright%20law)  
+[Flash](https://web.archive.org/archive.cfm?topic=Flash)  
+[Google](https://web.archive.org/archive.cfm?topic=Google)  
+[Great Britain](https://web.archive.org/archive.cfm?topic=Great%20Britain)  
+[Len Apcar](https://web.archive.org/archive.cfm?topic=Len%20Apcar)  
+[Lisa Stone](https://web.archive.org/archive.cfm?topic=Lisa%20Stone)  
+[New West](https://web.archive.org/archive.cfm?topic=New%20West)  
+[Nick Denton](https://web.archive.org/archive.cfm?topic=Nick%20Denton)  
+[obscenity](https://web.archive.org/archive.cfm?topic=obscenity)  
+[Rocky Mountain News](https://web.archive.org/archive.cfm?topic=Rocky%20Mountain%20News)  
+[The New York Times on the Web](https://web.archive.org/archive.cfm?topic=The%20New%20York%20Times%20on%20the%20Web)  
+[women bloggers](https://web.archive.org/archive.cfm?topic=women%20bloggers)  
+[Yahoo News](https://web.archive.org/archive.cfm?topic=Yahoo%20News)  
+
+
+### [Staff](http://www.ojr.org/ojr/wiki/)
+
+Editor:  
+[Robert Niles](http://www.ojr.org/ojr/people/robert/)
+
+Contributing writers:  
+[Sarah Colombo](http://www.ojr.org/ojr/people/secolombo/)  
+[Sandeep Junnarkar](http://www.ojr.org/ojr/people/sandeepjunnarkar/)  
+[Jonathan Morgan](http://www.ojr.org/ojr/people/nateboy007/)  
+[Kim Pearson](http://www.ojr.org/ojr/people/KimPearson/)
