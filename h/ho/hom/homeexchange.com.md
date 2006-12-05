@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622210105id_/http%3A//www.homeexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeexchange.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201511id_/http%3A//www.homeexchange.com/privacy.php) for the most accurate reproduction.*
 
-# HomeExchange.com - The premier international home exchange and home swap service
+# HomeExchange.com
 
 ****HomeExchange.com Privacy
 
