@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridamoves.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615223113id_/http%3A//www.floridamoves.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridamoves.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224859id_/http%3A//floridamoves.com/privacy.aspx) for the most accurate reproduction.*
 
 # Coldwell Banker Residential Real Estate Inc. presents FloridaMoves.com, the real estate site serving all of Florida
 
