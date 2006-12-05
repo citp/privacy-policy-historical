@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trafficattheraces.com privacy policy that was archived on 2006-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060420184924id_/http%3A//www.trafficattheraces.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficattheraces.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215701id_/http%3A//www.trafficattheraces.com/privacy.php) for the most accurate reproduction.*
 
-# TrafficAtTheRaces
+# Free Website Traffic
 
 **Traffic At The Races Privacy Policy
 
@@ -8,8 +8,8 @@ Traffic At The Races will not sell or pass on any information you give when join
 
 We will contact you with updates offers and relevent information as well as a newsletter as part of our service. If you wish not to receive these then you can delete your account at anytime.
 
-Newsletters will contain advertising from third parties along with relevent updates and news.
+Newsletters and mail outs will contain advertising from third parties along with relevent updates and news.
 
-Any financial information will be used only for purchases from this site and by the relevent payment processors (paypal/stormpay) we do not store sensitive information on our servers.
+Any financial information will be used only for purchases from this site and by the relevent payment processor (paypal) we do not store sensitive information on our servers.
 
 **
