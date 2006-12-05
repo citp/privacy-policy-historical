@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkcitytheatre.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615041958id_/http%3A//www.newyorkcitytheatre.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkcitytheatre.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231332id_/http%3A//www.newyorkcitytheatre.com/privacy.html) for the most accurate reproduction.*
 
 # New York City Theatre - Privacy Policy
 
