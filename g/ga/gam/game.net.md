@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the game.net privacy policy that was archived on 2006-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060530062117id_/http%3A//shop.game.net/help/firsttime.aspx%23privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206001603id_/http%3A//www.game.co.uk/help/firsttime.aspx%23privacystatement) for the most accurate reproduction.*
 
 # GAME: First Time
 
 ###  FIRST TIME HELP|   
 ---|---  
   
-## GAME.NET PRIVACY STATEMENT
+## GAME.CO.UK PRIVACY STATEMENT
 
 At GAME we are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). Our data protection registration is Z8299010.
 
@@ -27,7 +27,7 @@ Your order history and profile
 
 We will never collect sensitive information about you without your explicit consent.
 
-The information we hold will be accurate and up to date. You can check the information that we hold about you by contacting our [Customer Services](https://web.archive.org/web/20060530062117id_/http%3A//shop.game.net/help/help/CustService.aspx) department.
+The information we hold will be accurate and up to date. You can check the information that we hold about you by contacting our [Customer Services](https://web.archive.org/web/20061206001603id_/http%3A//www.game.co.uk/help/help/CustService.aspx) department.
 
 If you find any inaccuracies we will delete or correct them.
 
@@ -41,12 +41,12 @@ We currently partner with Mad4Games Ltd in order to supply mobile games, they ar
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. Should you wish to browse anonymously please contact us and request a link that we can send you to exclude you from web tracking. 
 
-If you have any questions/ comments about privacy, you should contact our [Customer Services](https://web.archive.org/web/20060530062117id_/http%3A//shop.game.net/help/help/CustService.aspx) department. If you contact us for details of existing information that we hold about you it is important that you quote your original email address, as used at the time you first contacted us. We may be unable to trace your details without this.  
+If you have any questions/ comments about privacy, you should contact our [Customer Services](https://web.archive.org/web/20061206001603id_/http%3A//www.game.co.uk/help/help/CustService.aspx) department. If you contact us for details of existing information that we hold about you it is important that you quote your original email address, as used at the time you first contacted us. We may be unable to trace your details without this.  
 
 
 ## SECURE SHOPPING
 
-You don't have to worry about the safety of your credit card information when shopping at GAME.NET. We use encryption technology to ensure that any information you transmit during the ordering process is secure. Our servers are secured to protect all personal information including credit card numbers, your address and any products you may order. GAME.NET has been certified as an Authentic SiteSeal Site and displays the SiteSeal logo to prove it. 
+You don't have to worry about the safety of your credit card information when shopping at GAME.CO.UK. We use encryption technology to ensure that any information you transmit during the ordering process is secure. Our servers are secured to protect all personal information including credit card numbers, your address and any products you may order. GAME.CO.UK has been certified as an Authentic SiteSeal Site and displays the SiteSeal logo to prove it. 
 
 If you still do not feel comfortable sending your credit card information over the Internet, and prefer to place the order by phone with a GAME Customer Services Representative, simply call **0871 200 1221** (*Calls cost 10p per minute; calls from mobiles and some networks may be higher). Hours of Operation: Monday to Saturday, 9am to 6pm.
 
@@ -64,9 +64,9 @@ The imrg Code sets out basic standards for e-retailing. It is a manifestation of
 ##   
 SEARCH TIPS
 
-To perform a search on GAME.NET, use the search box on the top left of every page. When typing a name to search for, be general. For example, if you want to find the game Quake III, just type in "Quake". This would find all of the games that contain Quake in the title, among them Quake III. 
+To perform a search on GAME.CO.UK, use the search box on the top left of every page. When typing a name to search for, be general. For example, if you want to find the game Quake III, just type in "Quake". This would find all of the games that contain Quake in the title, among them Quake III. 
 
-If you'd like to browse for a certain type of game on your favourite platform, but don't have a specific title in mind - click here to use our [advanced search](http://shop.game.net/search.aspx).
+If you'd like to browse for a certain type of game on your favourite platform, but don't have a specific title in mind - click here to use our [advanced search](http://www.game.co.uk/search.aspx).
 
 ##   
 CONTACTING US
@@ -78,8 +78,8 @@ CONTACTING US
 
 **Online:**
 
-|  | [Support form](http://shop.game.net/help/CustService.aspx)  
-Returns - [returns@game.net](mailto:Returns@GAME.NET)  
+|  | [Support form](http://www.game.co.uk/help/CustService.aspx)  
+Returns - [returns@GAME.CO.UK](mailto:Returns@GAME.CO.UK)  
 |   
 |  |  |  |   
 | **Fax:  
@@ -90,12 +90,12 @@ Returns - [returns@game.net](mailto:Returns@GAME.NET)
 (*Calls cost 10p per minute; calls from mobiles and some networks may be higher)  
 |   
 |  |  |  |   
-| **Post:** |  | GAME.NET  
+| **Post:** |  | GAME.CO.UK  
 Freepost SCE4702  
 PO Box 6594  
 Basingstoke  
 RG21 6ZP  
 |   
   
-[Return to Help](http://shop.game.net/help/help.aspx)  
+[Return to Help](http://www.game.co.uk/help/help.aspx)  
 
