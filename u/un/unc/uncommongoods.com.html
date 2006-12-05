@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the uncommongoods.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615055306id_/http%3A//www.uncommongoods.com/help/help.jsp%3Ftopic%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uncommongoods.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205215516id_/http%3A//www.uncommongoods.com/help/help.jsp%3Ftopic%3Dprivacy) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
     <title>UncommonGoods: Help</title>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
     <meta name="Keywords" content="Uncommon">
 
@@ -21,15 +23,15 @@
 
 </script>
 
-    <link rel="stylesheet" type="text/css" href="/css/style.css" title="style">
+    <link rel="stylesheet" type="text/css" href="/css/style_new.css" title="style">
 
     <link rel="stylesheet" type="text/css" href="/css/menu_style.css" title="style">
 
     <script language="JavaScript" type="text/javascript" src="/jscript/utility_functions.js"></script>
 
-    <script language="JavaScript" type="text/javascript" src="/jscript/menu_constants.js"></script>
+    <script language="JavaScript" type="text/javascript" src="/jscript/menu_constants_new.js"></script>
 
-    <script language="JavaScript" type="text/javascript" src="/jscript/menu_builder.js"></script>
+    <script language="JavaScript" type="text/javascript" src="/jscript/menu_builder_new.js"></script>
 
     <script language="JavaScript" type="text/javascript" src="/jscript/form_checker.js"></script>
 
@@ -41,17 +43,97 @@
 
     <script language="JavaScript" type="text/javascript" src="/jscript/open_window.js"></script>
 
+    <script language="JavaScript" type="text/javascript" src="/jscript/email_sign_up.js"></script>
+
     <script language="JavaScript" type="text/javascript" src="/jscript/verisign_pop.js"></script>
 
-<script language="JavaScript" type="text/javascript" src="/jscript/menu_info.js"></script></head><body onload="Expand(); SetCategory();" bgcolor="#FFFFFF" alink="#009933" link="#336699" vlink="#333333" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">undefinedundefinedundefinedundefinedundefinedundefinedundefinedundefined
+<script language="JavaScript" type="text/javascript">
 
-  
+<!--
 
-  
+  function submitGiftFinder()
+
+  {
+
+    var browser = navigator.appName;
+
+    var recipient = document.giftFinder.recipient;
+
+    var occasion = document.giftFinder.occasion;
+
+    var price = document.giftFinder.price;
+
+    var category = document.giftFinder.category;
+
+
+
+    if(recipient.options[recipient.selectedIndex].value == 0 && occasion.options[occasion.selectedIndex].value == 0 && price.options[price.selectedIndex].value == 0 && category.options[category.selectedIndex].value == 0)
+
+    {
+
+      //alert('please choose at least one recipient, occasion, price range, or category');
+
+
+
+      var error = document.getElementById("gift_finder_error");
+
+      if(browser != 'Microsoft Internet Explorer')
+
+      {
+
+        error.firstChild.nodeValue='Please choose at least one recipient, occasion, price range, or category above.';
+
+      } else {
+
+        error.innerText='Please choose at least one recipient, occasion, price range, or category above.';
+
+      }
+
+      return false;
+
+    }
+
+    return true;
+
+  }
+
+  var keywordCount = 0;
+
+  var emailCount = 0;
+
+
+
+  function clickclear(field, text)
+
+  {
+
+    if(field.value == text)
+
+    {
+
+      field.value = "";
+
+    }
+
+  }
+
+//-->
+
+</script>
+
+  </head>
+
+  <body onload="Expand(); SetCategory();" bgcolor="#4A4A5A" alink="#009933" link="#336699" vlink="#333333" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
 
 <!-- PAGE IS LIVE AND GOOD -->
 
-  <table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <table width="995" cellspacing="0" cellpadding="0" border="0">
+
+
+
+
+
+
 
 
 
@@ -64,37 +146,279 @@
 
 <tbody><tr>
 
-  <td rowspan="3" valign="top" class="leftside" width="185">
+  <td rowspan="3" valign="top" class="leftside" width="185"><a href="http://www.uncommongoods.com"><img src="/images/new_nav/logo.gif" width="193" height="139" alt="uncommongoods" border="0"></a>
 
-    <a href="http://www.uncommongoods.com">
+    
 
-      <img src="/images/nav/logo_left_main.gif" width="185" height="92" alt="uncommongoods" border="0">
+          <table cellpadding="0" cellspacing="0" border="0">
 
-    </a>
+            <tbody><tr>
+
+              <td class="leftside" width="33" height="5"></td>
+
+              <td class="leftside" width="140" height="5"></td>
+
+              <td class="leftside" width="20" height="5"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33"><img src="/images/new_nav/light_blue_spacer.gif" width="33" height="1" border="0"></td>
+
+              <td class="leftside" width="160" colspan="2"><img src="/images/new_nav/search.gif" width="160" height="15" border="0"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33" height="5"></td>
+
+              <td class="leftside" width="140" height="5"></td>
+
+              <td class="leftside" width="20" height="5"></td>
+
+            </tr>
+
+            <form name="SimpleSearchForm" action="/search/search.jsp" method="POST" onsubmit="if (CheckForm(this)) { return doCatSearch(this, false); } else { return false; }"></form>
 
 
 
-<br><br>
+<input type="hidden" name="basket_height" value="0">
 
-<center>
+<input type="hidden" name="basket_total" value="0.0">
 
-<!-- START SCANALERT CODE -->
+<input type="hidden" name="basket_items" value="0">
 
-<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=uncommongoods.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/uncommongoods.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a>
+<input type="hidden" name="basket_recipients" value="0">
 
-<!-- END   SCANALERT CODE -->
+<input type="hidden" name="basket" value="false">
 
-<br><br>
+<input type="hidden" name="sessionid" value="bK_LBk-y4I34ZRqNu9">
 
-</center>
+
+
+            <tr>
+
+              <td class="leftside" width="33"></td>
+
+              <td class="leftside" width="140"><input type="text" name="keywords" maxlength="35" style="width: 140px" value="keyword / item #" onclick="clickclear(this, 'keyword / item #')"></td>
+
+              <td class="leftside" width="20"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33" height="5"></td>
+
+              <td class="leftside" width="140" height="5"></td>
+
+              <td class="leftside" width="20" height="5"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33"></td>
+
+              <td class="leftside" width="140" align="right"><input type="image" src="/images/new_nav/search_submit.gif" width="82" height="19" border="0" alt="submit search"></td>
+
+              <td class="leftside" width="20"></td>
+
+            </tr>
+
+            
+
+            <tr>
+
+              <td class="leftside" width="33" height="10"></td>
+
+              <td class="leftside" width="140" height="10"></td>
+
+              <td class="leftside" width="20" height="10"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33"></td>
+
+              <td class="leftside" width="160" colspan="2"><img src="/images/new_nav/find_the_perfect_gift.gif" width="160" height="20" border="0" alt="find the perfect gift"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33" height="5"></td>
+
+              <td class="leftside" width="140" height="5"></td>
+
+              <td class="leftside" width="20" height="5"></td>
+
+            </tr>
+
+            <form name="giftFinder" action="/gift/finder.jsp" onsubmit="return submitGiftFinder()"></form>
+
+            <input type="hidden" name="psycho" value="0">
+
+            <input type="hidden" name="sort" value="sales">
+
+            <tr>
+
+              <td class="leftside" width="33"></td>
+
+              <td class="leftside" width="140"><select name="recipient" style="width: 140px">
+
+                <option value="0">all recipients
+
+                </option><option value="77">baby up to 12 months</option><option value="85">business associate</option><option value="82">couple</option><option value="86">family</option><option value="84">father</option><option value="88">gardener</option><option value="75">her</option><option value="76">him</option><option value="78">kids 1 to 3 years</option><option value="79">kids 3 to 5 years</option><option value="80">kids 5+ years</option><option value="83">mother</option><option value="87">pet lover</option><option value="81">teens
+
+              </option></select></td>
+
+              <td class="leftside" width="20"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33" height="2"></td>
+
+              <td class="leftside" width="140" height="2"></td>
+
+              <td class="leftside" width="20" height="2"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33"></td>
+
+              <td class="leftside" width="140"><select name="price" style="width: 140px">
+
+                <option value="0">all prices
+
+                </option><option value="1">under $25</option><option value="2">$25 to $50</option><option value="3">$50 to $75</option><option value="4">$75 to $100</option><option value="5">$100 to $150</option><option value="6">over $150 
+
+              </option></select></td>
+
+              <td class="leftside" width="20"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33" height="2"></td>
+
+              <td class="leftside" width="140" height="2"></td>
+
+              <td class="leftside" width="20" height="2"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33"></td>
+
+              <td class="leftside" width="140"><select name="occasion" style="width: 140px">
+
+                <option value="0">all occasions
+
+                </option><option value="49">anniversary</option><option value="59">baby shower</option><option value="50">birthday</option><option value="68">christmas</option><option value="51">congratulations</option><option value="73">easter</option><option value="61">engagement</option><option value="75">father's day</option><option value="76">fourth of july</option><option value="52">get well</option><option value="62">graduation</option><option value="65">halloween</option><option value="67">hanukkah</option><option value="58">host / hostess</option><option value="53">housewarming</option><option value="54">just because</option><option value="69">kwanzaa</option><option value="74">mother's day</option><option value="55">new baby</option><option value="63">new pet</option><option value="70">new year</option><option value="72">passover</option><option value="64">sympathy</option><option value="56">thank you</option><option value="66">thanksgiving</option><option value="71">valentine's day</option><option value="57">wedding</option><option value="60">wedding shower
+
+              </option></select></td>
+
+              <td class="leftside" width="20"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33" height="2"></td>
+
+              <td class="leftside" width="140" height="2"></td>
+
+              <td class="leftside" width="20" height="2"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33"></td>
+
+              <td class="leftside" width="140"><select name="category" style="width: 140px">
+
+                <option value="0">all categories
+
+                </option><option value="-38">accessories</option><option value="35">albums &amp; frames</option><option value="10187">bags</option><option value="108">barware</option><option value="15">bath &amp; body</option><option value="14">bed &amp; bath</option><option value="126">bracelets</option><option value="5">candles</option><option value="36">cards &amp; journals</option><option value="134">clocks</option><option value="136">coasters &amp; linens</option><option value="10082">cuff links</option><option value="144">decks &amp; games</option><option value="155">decorative bowls</option><option value="-32">desktop</option><option value="-16">dining</option><option value="17">dishware</option><option value="124">earrings</option><option value="10188">for baby</option><option value="79">for couples</option><option value="42">for her</option><option value="133">for him</option><option value="53">for kids</option><option value="161">for pet lovers</option><option value="10189">for teens</option><option value="29">furniture</option><option value="117">garden</option><option value="18">glassware</option><option value="-4">home decor</option><option value="-10001">jewelry</option><option value="10184">keepsake boxes</option><option value="6">lamps</option><option value="67">mugs, etc.</option><option value="125">necklaces</option><option value="10186">office gadgets</option><option value="10185">office tools</option><option value="10182">outdoor dining</option><option value="145">paperweights</option><option value="127">pins &amp; rings</option><option value="138">sculptures</option><option value="20">serveware</option><option value="43">travel</option><option value="19">utensils</option><option value="26">vases</option><option value="154">wall art</option><option value="10024">watches
+
+              </option></select></td>
+
+              <td class="leftside" width="20"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33" height="5"></td>
+
+              <td class="leftside" width="140" height="5"></td>
+
+              <td class="leftside" width="20" height="5"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33"></td>
+
+              <td class="leftside" width="140" align="right"><input type="image" src="/images/new_nav/gift_finder_submit.gif" width="72" height="34" border="0" alt="submit gift finder"></td>
+
+              <td class="leftside" width="20"></td>
+
+            </tr>
+
+            
+
+            <tr>
+
+              <td class="leftside" width="33" height="5"></td>
+
+              <td class="leftside" width="140" height="5"></td>
+
+              <td class="leftside" width="20" height="5"></td>
+
+            </tr>
+
+            <tr>
+
+              <td class="leftside" width="33"></td>
+
+              <td class="leftside" width="140"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><p id="gift_finder_error"> </p></font></td>
+
+              <td class="leftside" width="20"></td>
+
+            </tr>
+
+
+
+
+
+          
+
+          </tbody></table>
+
+    <br><br>
+
+        
 
   </td>
 
-  <td valign="top" width="20"><img src="/images/nav/logo_top.gif" width="20" height="20" border="0"></td>
 
 
+<td colspan="2" class="shopnav" valign="top" height="24" align="left"><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td class="shopnav"><img src="http://www.uncommongoods.com/images/new_nav/top_left_block.gif" width="44" height="24" border="0" alt="spacer"><a href="http://www.uncommongoods.com"><img src="http://www.uncommongoods.com/images/new_nav/home_off.gif" width="50" height="24" alt="home" border="0"></a><a href="http://www.uncommongoods.com/fam/fam.jsp?pageId=70"><img src="http://www.uncommongoods.com/images/new_nav/this_just_in_off.gif" width="83" height="24" alt="this just in" border="0"></a><!--<A HREF="http://www.uncommongoods.com/account/account.jsp"><IMG SRC="http://www.uncommongoods.com/images/new_nav/my_account_off.gif" WIDTH=91 HEIGHT=24 ALT="account" BORDER="0"></A>--><a href="http://www.uncommongoods.com/wish/list.jsp"><img src="http://www.uncommongoods.com/images/new_nav/wish_list_off.gif" width="67" height="24" alt="wish list" border="0"></a><a href="http://www.uncommongoods.com/gift/registry.jsp"><img src="http://www.uncommongoods.com/images/new_nav/gift_registry_off.gif" width="89" height="24" alt="gift registry" border="0"></a><a href="http://www.uncommongoods.com/help/help.jsp"><img src="http://www.uncommongoods.com/images/new_nav/customer_service_off.gif" width="121" height="24" alt="customer service" border="0"></a></td><td align="right" valign="middle" class="shopnav"><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="FFFFFF">Call us toll-free at 888.365.0056.  We're here 24/7.&nbsp;&nbsp;&nbsp;&nbsp;</font></td></tr></tbody></table></td>
 
-<td colspan="3" class="shopnav" width="100%" valign="top" height="20" align="left"><a href="http://www.uncommongoods.com"><img src="/images/nav/shopnav_home.gif" width="65" height="20" alt="home" border="0"></a></td>
+
 
 </tr>
 
@@ -102,33 +426,23 @@
 
 
 
-    <td colspan="3" class="homenav" valign="top" height="30"><img src="/images/nav/home-S_top.gif" width="7" height="30" border="0"><a href="/subcat/subcat.jsp?subcatId=4"><img src="/images/nav/4_subcat_off.gif" width="87" height="30" alt="home decor" border="0"></a><a href="/subcat/subcat.jsp?subcatId=16"><img src="/images/nav/16_subcat_off.gif" width="48" height="30" alt="dining" border="0"></a><a href="/subcat/subcat.jsp?subcatId=16"><img src="/images/nav/32_subcat_off.gif" width="58" height="30" alt="desktop" border="0"></a><a href="/subcat/subcat.jsp?subcatId=10001"><img src="/images/nav/10001_subcat_off.gif" width="53" height="30" alt="jewelry" border="0"></a><a href="/subcat/subcat.jsp?subcatId=38"><img src="/images/nav/38_subcat_off.gif" width="76" height="30" alt="accessories" border="0"></a><a href="/subcat/subcat.jsp?subcatId=54"><img src="/images/nav/54_subcat_off.gif" width="74" height="30" alt="collections" border="0"></a><a href="/subcat/subcat.jsp?subcatId=25"><img src="/images/nav/25_subcat_off.gif" width="66" height="30" alt="occasions" border="0"></a><a href="/subcat/subcat.jsp?subcatId=44"><img src="/images/nav/44_subcat_off.gif" width="40" height="30" alt="gifts" border="0"></a></td>
+<td class="shopnav" valign="top" height="24"><a href="http://www.uncommongoods.com/subcat/subcat.jsp?subcatId=4"><img src="http://www.uncommongoods.com/images/new_nav/4_subcat_off.gif" width="101" height="24" alt="home decor" border="0"></a><a href="http://www.uncommongoods.com/subcat/subcat.jsp?subcatId=16"><img src="http://www.uncommongoods.com/images/new_nav/16_subcat_off.gif" width="69" height="24" alt="dining" border="0"></a><a href="http://www.uncommongoods.com/subcat/subcat.jsp?subcatId=16"><img src="http://www.uncommongoods.com/images/new_nav/32_subcat_off.gif" width="78" height="24" alt="desktop" border="0"></a><a href="http://www.uncommongoods.com/subcat/subcat.jsp?subcatId=10001"><img src="http://www.uncommongoods.com/images/new_nav/10001_subcat_off.gif" width="73" height="24" alt="jewelry" border="0"></a><a href="http://www.uncommongoods.com/subcat/subcat.jsp?subcatId=38"><img src="http://www.uncommongoods.com/images/new_nav/38_subcat_off.gif" width="96" height="24" alt="accessories" border="0"></a><a href="http://www.uncommongoods.com/subcat/subcat.jsp?subcatId=54"><img src="http://www.uncommongoods.com/images/new_nav/54_subcat_off.gif" width="93" height="24" alt="collections" border="0"></a><a href="http://www.uncommongoods.com/subcat/subcat.jsp?subcatId=25"><img src="http://www.uncommongoods.com/images/new_nav/25_subcat_off.gif" width="86" height="24" alt="occasions" border="0"></a><a href="http://www.uncommongoods.com/subcat/subcat.jsp?subcatId=44"><img src="http://www.uncommongoods.com/images/new_nav/44_subcat_off.gif" width="59" height="24" alt="gifts" border="0"></a></td>
 
-      <td class="rightside" valign="top" width="125">
+<td width="147"><a href="http://www.uncommongoods.com/basket/basket.jsp"><img src="http://www.uncommongoods.com/images/new_nav/shopping_basket_off.gif" width="147" height="24" alt="shopping basket" border="0"></a></td>
 
-        <img src="/images/right_nav/search_top.gif" width="70" height="18" alt="search" border="0" hspace="6" vspace="4">
 
-        <a href="#" onclick="if (CheckForm(document.forms.SimpleSearchForm)) { doCatSearch(document.SimpleSearchForm); document.SimpleSearchForm.submit() }"><img src="/images/right_nav/go_button_right.gif" width="25" height="25" alt="go!" border="0"></a>
-
-        <br>
-
-      </td>
-
-    
 
   </tr>
 
-  <tr height="100">
+  <tr>
 
-    <td valign="top" width="20">
+    <td valign="top" height="450" width="655">
 
-      <img src="/images/nav/home-S_bottom.gif" width="20" height="62" border="0">
+    <table><tbody><tr><td height="5"></td></tr></tbody></table>
 
-    </td>
+         
 
-    <td valign="top" align="center" height="530">
-
-      <br>
+<center>
 
       
 <table width="450" cellspacing="0" cellpadding="0" border="0">
@@ -358,7 +672,7 @@ If you decide you no longer wish to receive communications from us, you can opt 
 At the bottom of every e-mail we send out is a line that reads: If you prefer not to receive e-mails from us, please e-mail us at  <a href="mailto:remove@uncommongoods.com">remove@uncommongoods.com.</a> Clicking on the link displays a mail form that has 'please remove' in the subject line.  If you hit the send button, your name will be automatically removed from our e-mail list.
   <li type="1"><b>Calling customer service</b></li><br>
         If you prefer to speak to us live, please call us at 888-365-0056.
-        UncommonGoods is open 8am to 1am ET Monday through Friday and 9am to 12am ET Saturday and Sunday.  If you don't reach us, please leave us a message with your name and telephone number. We will respond to e-mail and voice mail promptly.
+        UncommonGoods is open 24 hours a day until December 24<!--7am to 2am ET Monday through Friday and 9am to 12am ET Saturday and Sunday-->.  If you don't reach us, please leave us a message with your name and telephone number. We will respond to e-mail and voice mail promptly.
 
   <li type="1"><b>Sending a note to:</b><br>
 UncommonGoods<br>
@@ -376,140 +690,281 @@ Customer Service<br>
   </tr>
 </tbody></table>
 
-      <img src="/images/transparent.gif" width="475" height="1" border="0"><br><br>
+</center>
 
-      <img src="/images/transparent.gif" width="1" height="70" border="0">
+      <br><br>
 
     </td>
 
-    <td width="20"><img src="/images/transparent.gif" width="20" height="1" border="0"></td>
-
-    <td class="rightside" valign="top" width="125">
-
-
-
-<form name="SimpleSearchForm" action="/search/search.jsp" method="POST" onsubmit="if (CheckForm(this)) { return doCatSearch(this); } else { return false; }">
-
- &nbsp;
-
-<input type="text" name="keywords" size="14" maxlength="35">
-
-<br>
-
-<img src="/images/right_nav/sidenav_search.gif" type="submit" width="130" height="15" border="0">
-
-</form>
+    <td class="rightside" valign="top" width="147">
 
     
-
-<br>
-
-      <!-- BEGIN HumanClick Button Code -->
-
-             <table border="0" cellspacing="0" cellpadding="0">
-
-               <tbody><tr>
-
-                <td class="rightside" align="center">
-
-                  <a href="http://server.iad.liveperson.net/hc/49111037/?cmd=file&amp;file=visitorWantsToChat&amp;site=49111037&amp;byhref=1" target="chat49111037" onclick="window.open('http://server.iad.liveperson.net/hc/49111037/?cmd=file&amp;file=visitorWantsToChat&amp;site=49111037','chat49111037','width=472,height=320');return false;"><img src="http://server.iad.liveperson.net/hc/49111037/?cmd=repstate&amp;site=49111037&amp;imageUrl=http://www.uncommongoods.com/images/humanclick/&amp;ver=1" name="hcIcon" width="120" height="43" border="0"></a>
-
-                </td></tr>
-
-             </tbody></table>
-
-             <br>
-
-      <!-- END HumanClick Button code -->
-
-<form action="/item/item.jsp" method="post" name="smallBasket">
-
-          <!-- Shipping Deadline
-
-          <A HREF="javascript:openWin('/shipping/deadline_pop.jsp');">
-
-          <IMG SRC="`"/images/right_nav/" + request.getParameter("catId") + "sidenav_shipping.gif"`" WIDTH=120 HEIGHT=41 ALT="Shipping Deadlines" BORDER="0"></A>
-
-          -->
-
-
-
-<!--
-
-          <A HREF="javascript:openWin('/shipping/deadline_pop.jsp');"><IMG SRC="/images/right_nav/sidenav_shipping.gif" WIDTH=120 HEIGHT=41 ALT="Shipping Deadlines" BORDER="0"></A>
-
--->
-
-    
-
-          <a href="http://www.uncommongoods.com/basket/basket.jsp"><img src="/images/right_nav/sidenav_checkout.gif" width="120" height="21" alt="checkout" border="0"></a>
-
-          <br>
-
-          <a href="http://www.uncommongoods.com/basket/basket.jsp"><img src="/images/right_nav/sidenav_basket.gif" width="120" height="21" alt="shopping basket" border="0"></a>
-
-          <br>
-
-      
-
-          <a href="http://www.uncommongoods.com/wish/list.jsp"><img src="/images/right_nav/sidenav_wish_list.gif" width="120" height="21" alt="wish list" border="0"></a>
-
-          <br>
-
-          <a href="http://www.uncommongoods.com/gift/registry.jsp"><img src="/images/right_nav/sidenav_gift_registry.gif" width="120" height="21" alt="gift registry" border="0"></a>
-
-          <br>
-
-
-
-
-
-
-
-
-<input type="hidden" name="submitted" value="1">
-<input type="hidden" name="action" value="remove">
-<input type="hidden" name="removeSku" value="">
-<input type="hidden" name="removeRecipient" value="">
-<input type="hidden" name="itemId" value="null">
-<input type="hidden" name="currentPage" value="">
-
-
-      
-
-
 
   
 
-          <a href="http://www.uncommongoods.com/help/help.jsp"><img src="/images/right_nav/sidenav_help.gif" width="120" height="21" alt="help" border="0"></a>
+<table border="0" cellpadding="0" cellspacing="0" width="147">
 
-          <br>
+  <tbody><tr>
 
-          <a href="http://www.uncommongoods.com/about/about.jsp"><img src="/images/right_nav/sidenav_about_us.gif" width="120" height="21" alt="about us" border="0"></a>
+    <td width="5" height="50" class="babyblue"><img border="0" src="/images/new_nav/basket_total_left.gif" alt="spacer"></td>
 
-          <br>
+    <td width="20" class="babyblue"></td>
 
-          <a href="http://www.uncommongoods.com/affiliates/affiliates.jsp"><img src="/images/right_nav/sidenav_affiliates.gif" width="120" height="21" alt="affiliates" border="0"></a>
+    <td class="babyblue" valign="middle" width="97"><font size="1" color="#000000" face="Verdana, Helvetica, Arial, sans-serif">0 items<br>0 recipients<br>subtotal: <b>$0.00</b></font>
 
-          <br>
+    </td>
 
-          <a href="http://www.uncommongoods.com/help/feedback.jsp"><img src="/images/right_nav/sidenav_feedback.gif" width="120" height="21" alt="feedback" border="0"></a>
+    <td width="20" class="babyblue"></td>
 
-          <br>
+    <td width="5" height="50" class="babyblue"><img border="0" src="/images/new_nav/basket_total_right.gif" alt="spacer"></td>
 
-          <a href="http://www.uncommongoods.com/catalog/catalog.jsp"><img src="/images/right_nav/sidenav_catalog.gif" width="120" height="21" alt="catalog" border="0"></a>
+  </tr>
 
-          
+  
 
-          <br>
+  <tr>
 
-<center><img src="images/clear.gif" border="0" width="1" height="11"><br><a href="javascript:openWin('http://www.uncommongoods.com/awards/bizrate.jsp')"><img src="/images/partners/bizrate_circle.gif" border="0"></a><br><img src="images/clear.gif" border="0" width="1" height="20"><br><font size="1" face="Verdana, Arial, Helvetica, sans-serif, Geneva"><a class="black" href="javascript:openWin('http://www.uncommongoods.com/awards/bizrate.jsp')">thank you customers!</a></font></center>
+    <td colspan="5" class="babyblue"><img src="http://www.uncommongoods.com/images/new_nav/basket_scroller_bottom_a.gif" border="0" alt="spacer"></td>
 
-    
+  </tr>
 
-</form>
+  <tr>
 
-          <br><br>
+    <td colspan="5" class="babyblue"><a href="http://www.uncommongoods.com/basket/basket.jsp?source=mini"><img src="http://www.uncommongoods.com/images/new_nav/basket_scroller_bottom_b.gif" border="0" alt="spacer"></a></td>
+
+  </tr>
+
+  <tr>
+
+    <td colspan="5" class="babyblue"><img src="http://www.uncommongoods.com/images/new_nav/basket_scroller_bottom_c.gif" border="0" alt="spacer"></td>
+
+  </tr>
+
+</tbody></table>
+
+      
+
+<table border="0" cellpadding="0" cellspacing="0">
+
+  <tbody><tr>
+
+    <td height="12" colspan="2" class="leftside"></td>
+
+  </tr>
+
+  <tr>
+
+    <td class="leftside" width="13"></td>
+
+    <td class="leftside"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;&nbsp;<a href="javascript:openWinSize('/shipping/deadline_pop.jsp', 350, 445)" class="white">holiday shipping</a><br>&nbsp;&nbsp;<a href="javascript:openWinSize('/shipping/deadline_pop.jsp', 350, 445)" class="white">deadlines</a></font></td>
+
+  </tr>
+
+  <tr>
+
+    <td height="12" colspan="2" class="leftside"></td>
+
+  </tr>
+
+  <tr>
+
+    <td class="leftside" width="13"></td>
+
+    <td class="leftside">
+
+      <a href="http://server.iad.liveperson.net/hc/49111037/?cmd=file&amp;file=visitorWantsToChat&amp;site=49111037&amp;byhref=1" target="chat49111037" onclick="window.open('http://server.iad.liveperson.net/hc/49111037/?cmd=file&amp;file=visitorWantsToChat&amp;site=49111037','chat49111037','width=472,height=320');return false;" class="white"><img src="http://www.uncommongoods.com/images/new_nav/chat_with_us.gif" border="0" width="121" height="34" alt="chat with us"></a>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+  </tr><tr>
+
+    <td height="24" colspan="2" class="leftside"></td>
+
+  </tr>
+
+  <tr>
+
+    <td class="leftside" width="13"></td>
+
+    <td class="leftside">
+
+      <img src="http://www.uncommongoods.com/images/new_nav/sign_up_for_our_email.gif" border="0" width="117" height="15" alt="sign up for our email">
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+              <form action="/" method="POST" name="sign_up" onsubmit="return signUp(this);"></form>
+
+    <td class="leftside" width="13"></td>
+
+    <td class="leftside">
+
+      <input type="text" name="email" maxlength="50" style="width: 121px" value="enter email address" onclick="clickclear(this, 'enter email address')">
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td height="4" colspan="2" class="leftside"></td>
+
+  </tr>
+
+  <tr>
+
+    <td class="leftside" width="13"></td>
+
+    <td class="leftside" align="right">
+
+      <input type="image" src="http://www.uncommongoods.com/images/new_nav/email_submit.gif" border="0" width="72" height="19">
+
+    </td>
+
+              
+
+  </tr>
+
+  <tr>
+
+    <td height="12" colspan="2" class="leftside"></td>
+
+  </tr>
+
+  <tr>
+
+    <td class="leftside" width="13"></td>
+
+    <td class="leftside">
+
+      <a href="/catalog/catalog.jsp"><img src="http://www.uncommongoods.com/images/new_nav/request_a_catalog.gif" border="0" width="111" height="19" alt="request a catalog"></a>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td height="8" colspan="2" class="leftside"></td>
+
+  </tr>
+
+  <tr>
+
+    <td class="leftside" width="13"></td>
+
+    <td class="leftside">
+
+      <a href="http://www.uncommongoods.com/about/about.jsp"><img src="http://www.uncommongoods.com/images/new_nav/about_us.gif" border="0" width="64" height="11"></a>
+
+    </td>
+
+  </tr>
+
+  <tr>
+
+    <td height="140" colspan="2" class="leftside"></td>
+
+  </tr>
+
+  <tr>
+
+    <td class="leftside" width="13"></td>
+
+    <td class="leftside">
+
+      <table cellpadding="0" cellspacing="0" border="0">
+
+        <tbody><tr>
+
+          <td class="leftside" width="10"></td>
+
+          <td class="leftside">
+
+          <img src="/images/new_nav/delicious.small.gif" border="0">
+
+          </td>
+
+          <td class="leftside" width="5"></td>
+
+          <td class="leftside">
+
+          <font size="1" face="Verdana, Arial, Helvetica, sans-serif">
+
+          <a class="white" href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=700,height=400'); return false;">save this page<br>on del.icio.us</a>
+
+          </font>
+
+          </td>
+
+        </tr>
+
+      </tbody></table>
+
+    </td>
+
+  </tr>
+
+</tbody></table>
+
+
+
+             
+
+<br><br>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+  <tbody><tr>
+
+    <td align="center" class="leftside">
+
+          <a href="javascript:openWinSize('http://www.bbbonline.org/cks.asp?id=1060804145029310', 700, 560)"><img src="http://www.uncommongoods.com/images/new_nav/bbb.gif" width="90" height="32" border="0" alt="better business bureau"></a>
+
+    </td>
+
+  </tr>
+
+  <tr><td class="leftside" height="8"></td></tr>
+
+  <tr>
+
+    <td align="center" class="leftside">
+
+      <a href="javascript:openWin('http://www.uncommongoods.com/awards/bizrate.jsp')"><img src="http://www.uncommongoods.com/images/new_nav/bizrate.gif" width="82" height="120" border="0" alt="bizrate"></a>
+
+    </td>
+
+  </tr>
+
+  <tr><td class="leftside" height="8"></td></tr>
+
+  <tr>
+
+    <td align="center" class="leftside">
+
+<!-- START SCANALERT CODE -->
+
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=uncommongoods.com"><img width="115" height="32" border="0" src="http://images.scanalert.com/meter/uncommongoods.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a>
+
+<!-- END   SCANALERT CODE -->
+
+    </td>
+
+  </tr>
+
+  <tr><td class="leftside" height="8"></td></tr>
+
+</tbody></table>
+
+
 
         </td>
 
@@ -517,39 +972,305 @@ Customer Service<br>
 
       <tr>
 
-        <td colspan="5" width="100%" height="40" class="bottomnav">
+        <td height="40" class="bottomnav"></td>
+
+        <td height="40" class="bottomnav" align="CENTER">
 
           <font size="1" color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif">
 
-            <div valign="center"><img src="/images/transparent.gif" width="200" height="1" border="0">Shop UncommonGoods for creatively designed and unusual home accessories and gifts.</div>
+            Shop UncommonGoods for creatively designed and unusual home accessories and gifts.
 
           </font>
 
         </td>
 
+        <td height="40" class="bottomnav"></td>
+
       </tr>
 
       <tr>
 
-        <td colspan="5" width="100%" class="leftside">
+        <td colspan="3" class="leftside">
 
-          <font size="1" face="Verdana, Arial, Helvetica, sans-serif">
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
 
-          &nbsp;©2000, UncommonGoods™, L.L.C. All rights reserved.
+            <tbody><tr><td class="leftside" colspan="2" height="5"></td></tr>
 
-          &nbsp;&nbsp;&nbsp;<a href="http://www.uncommongoods.com/help/help.jsp?topic=privacy">Privacy policy</a>
+            <tr>
 
-          &nbsp;&nbsp;&nbsp;<a href="http://www.uncommongoods.com/help/policies.jsp?topic=policies">Terms and Conditions</a>
+              <td class="leftside" align="left">
 
-          &nbsp;&nbsp;&nbsp;<a href="http://www.uncommongoods.com/map/map.jsp">Site map</a>
+                <b><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="000066">&nbsp;&nbsp;&nbsp;<a class="darkblue" href="http://www.uncommongoods.com/help/help.jsp?topic=privacy">Privacy Policy</a>
 
-          </font><br>
+                &nbsp;&nbsp;&nbsp;<a class="darkblue" href="http://www.uncommongoods.com/help/policies.jsp?topic=policies">Terms and Conditions</a>
+
+                &nbsp;&nbsp;&nbsp;<a class="darkblue" href="http://www.uncommongoods.com/affiliates/affiliates.jsp">Affiliate Program</a>
+
+                &nbsp;&nbsp;&nbsp;<a class="darkblue" href="http://www.uncommongoods.com/map/map.jsp">Site map</a></font></b>
+
+              </td>
+
+              <td class="leftside" align="right">
+
+                <b><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="000066">Order By Phone: 888.365.0056&nbsp;&nbsp;&nbsp;</font></b>
+
+              </td>
+
+            </tr>
+
+            <tr><td class="leftside" colspan="2" height="5"></td></tr>
+
+            <tr>
+
+              <td class="leftside" align="left">
+
+                <b><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="000066">&nbsp;&nbsp;&nbsp;©2000, UncommonGoods™, L.L.C. All rights reserved.</font></b>
+
+              </td>
+
+              <td class="leftside" align="right">
+
+                <b><font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="000066">24 hours a day until December 24<!--Monday - Friday 7 AM - 2 AM, Saturday - Sunday 9 AM - Midnight EST-->&nbsp;&nbsp;&nbsp;</font></b>
+
+              </td>
+
+            </tr>
+
+            <tr><td class="leftside" colspan="2" height="5"></td></tr>
+
+          </tbody></table>
 
         </td>
 
       </tr>
 </tbody></table>
 
+<script language="JavaScript" type="text/javascript" src="/jscript/menu_info_new.js"></script><div id="top4" align="right" class="" style="position:absolute; left:193px; top:24px; width:2px; height:24px; z-index:1; background-color:#739942; visibility:visible; " onmouseover="showFamilies('4');" onmouseout="hideFamilies('4');" onclick="">
+<a href="http://www.uncommongoods.com/subcat/subcat.jsp?source=menu&amp;pageId=4"><img name="img4" src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/4_subcat_off.gif" alt="home decor" border="0"></a></div>
+<div id="drp4" align="right" class="pcNetscapeStyle" style="position:absolute; left:193px; top:48px; width:150px; height:261px; z-index:2; background-color:#739942; visibility:hidden; " onmouseover="showFamilies('4');" onmouseout="hideFamilies('4');" onclick="">
+<div id="aro4" align="right" class="" style="position:absolute; left:0px; top:0px; width:150px; height:9px; z-index:3; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_generic_arrow.gif" height="9" width="150"></div>
+<div id="fam5" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:9px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=5');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=5">candles&nbsp;</a></div><div id="bar5" align="right" class="" style="position:absolute; left:0px; top:28px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam6" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:33px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=6');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=6">lamps&nbsp;</a></div><div id="bar6" align="right" class="" style="position:absolute; left:0px; top:52px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam26" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:57px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=26');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=26">vases&nbsp;</a></div><div id="bar26" align="right" class="" style="position:absolute; left:0px; top:76px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam155" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:81px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=155');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=155">decorative bowls&nbsp;</a></div><div id="bar155" align="right" class="" style="position:absolute; left:0px; top:100px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam138" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:105px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=138');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=138">sculptures&nbsp;</a></div><div id="bar138" align="right" class="" style="position:absolute; left:0px; top:124px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam154" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:129px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=154');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=154">wall art&nbsp;</a></div><div id="bar154" align="right" class="" style="position:absolute; left:0px; top:148px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam29" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:153px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=29');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=29">furniture&nbsp;</a></div><div id="bar29" align="right" class="" style="position:absolute; left:0px; top:172px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam14" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:177px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=14');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=14">bed + bath&nbsp;</a></div><div id="bar14" align="right" class="" style="position:absolute; left:0px; top:196px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam117" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:201px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=117');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=117">garden&nbsp;</a></div><div id="bar117" align="right" class="" style="position:absolute; left:0px; top:220px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam30" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:225px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=30');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=30">doormats&nbsp;</a></div><div id="bar30" align="right" class="" style="position:absolute; left:0px; top:244px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div></div>
+<div id="top16" align="right" class="" style="position:absolute; left:294px; top:24px; width:2px; height:24px; z-index:1; background-color:#739942; visibility:visible; " onmouseover="showFamilies('16');" onmouseout="hideFamilies('16');" onclick="">
+<a href="http://www.uncommongoods.com/subcat/subcat.jsp?source=menu&amp;pageId=16"><img name="img16" src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/16_subcat_off.gif" alt="dining" border="0"></a></div>
+<div id="drp16" align="right" class="pcNetscapeStyle" style="position:absolute; left:294px; top:48px; width:150px; height:213px; z-index:2; background-color:#739942; visibility:hidden; " onmouseover="showFamilies('16');" onmouseout="hideFamilies('16');" onclick="">
+<div id="aro16" align="right" class="" style="position:absolute; left:0px; top:0px; width:150px; height:9px; z-index:3; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_generic_arrow.gif" height="9" width="150"></div>
+<div id="fam17" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:9px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=17');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=17">dishware&nbsp;</a></div><div id="bar17" align="right" class="" style="position:absolute; left:0px; top:28px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam20" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:33px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=20');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=20">serveware&nbsp;</a></div><div id="bar20" align="right" class="" style="position:absolute; left:0px; top:52px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam19" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:57px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=19');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=19">utensils&nbsp;</a></div><div id="bar19" align="right" class="" style="position:absolute; left:0px; top:76px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam136" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:81px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=136');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=136">coasters + linens&nbsp;</a></div><div id="bar136" align="right" class="" style="position:absolute; left:0px; top:100px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam18" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:105px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=18');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=18">glassware&nbsp;</a></div><div id="bar18" align="right" class="" style="position:absolute; left:0px; top:124px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam108" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:129px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=108');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=108">barware&nbsp;</a></div><div id="bar108" align="right" class="" style="position:absolute; left:0px; top:148px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam67" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:153px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=67');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=67">mugs&nbsp;</a></div><div id="bar67" align="right" class="" style="position:absolute; left:0px; top:172px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10182" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:177px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10182');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10182">outdoor dining&nbsp;</a></div><div id="bar10182" align="right" class="" style="position:absolute; left:0px; top:196px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div></div>
+<div id="top32" align="right" class="" style="position:absolute; left:363px; top:24px; width:2px; height:24px; z-index:1; background-color:#739942; visibility:visible; " onmouseover="showFamilies('32');" onmouseout="hideFamilies('32');" onclick="">
+<a href="http://www.uncommongoods.com/subcat/subcat.jsp?source=menu&amp;pageId=32"><img name="img32" src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/32_subcat_off.gif" alt="desktop" border="0"></a></div>
+<div id="drp32" align="right" class="pcNetscapeStyle" style="position:absolute; left:363px; top:48px; width:150px; height:213px; z-index:2; background-color:#739942; visibility:hidden; " onmouseover="showFamilies('32');" onmouseout="hideFamilies('32');" onclick="">
+<div id="aro32" align="right" class="" style="position:absolute; left:0px; top:0px; width:150px; height:9px; z-index:3; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_generic_arrow.gif" height="9" width="150"></div>
+<div id="fam35" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:9px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=35');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=35">albums + frames&nbsp;</a></div><div id="bar35" align="right" class="" style="position:absolute; left:0px; top:28px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam144" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:33px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=144');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=144">books, decks, games&nbsp;</a></div><div id="bar144" align="right" class="" style="position:absolute; left:0px; top:52px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam36" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:57px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=36');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=36">cards + journals&nbsp;</a></div><div id="bar36" align="right" class="" style="position:absolute; left:0px; top:76px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10184" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:81px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10184');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10184">keepsake boxes&nbsp;</a></div><div id="bar10184" align="right" class="" style="position:absolute; left:0px; top:100px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam145" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:105px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=145');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=145">paperweights&nbsp;</a></div><div id="bar145" align="right" class="" style="position:absolute; left:0px; top:124px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam134" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:129px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=134');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=134">clocks&nbsp;</a></div><div id="bar134" align="right" class="" style="position:absolute; left:0px; top:148px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10185" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:153px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10185');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10185">office tools&nbsp;</a></div><div id="bar10185" align="right" class="" style="position:absolute; left:0px; top:172px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10186" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:177px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10186');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10186">office gadgets&nbsp;</a></div><div id="bar10186" align="right" class="" style="position:absolute; left:0px; top:196px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div></div>
+<div id="top10001" align="right" class="" style="position:absolute; left:441px; top:24px; width:2px; height:24px; z-index:1; background-color:#739942; visibility:visible; " onmouseover="showFamilies('10001');" onmouseout="hideFamilies('10001');" onclick="">
+<a href="http://www.uncommongoods.com/subcat/subcat.jsp?source=menu&amp;pageId=10001"><img name="img10001" src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/10001_subcat_off.gif" alt="jewelry" border="0"></a></div>
+<div id="drp10001" align="right" class="pcNetscapeStyle" style="position:absolute; left:441px; top:48px; width:150px; height:165px; z-index:2; background-color:#739942; visibility:hidden; " onmouseover="showFamilies('10001');" onmouseout="hideFamilies('10001');" onclick="">
+<div id="aro10001" align="right" class="" style="position:absolute; left:0px; top:0px; width:150px; height:9px; z-index:3; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_generic_arrow.gif" height="9" width="150"></div>
+<div id="fam125" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:9px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=125');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=125">necklaces&nbsp;</a></div><div id="bar125" align="right" class="" style="position:absolute; left:0px; top:28px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam126" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:33px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=126');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=126">bracelets&nbsp;</a></div><div id="bar126" align="right" class="" style="position:absolute; left:0px; top:52px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam124" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:57px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=124');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=124">earrings&nbsp;</a></div><div id="bar124" align="right" class="" style="position:absolute; left:0px; top:76px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam127" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:81px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=127');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=127">pins + rings&nbsp;</a></div><div id="bar127" align="right" class="" style="position:absolute; left:0px; top:100px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10082" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:105px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10082');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10082">cufflinks&nbsp;</a></div><div id="bar10082" align="right" class="" style="position:absolute; left:0px; top:124px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10024" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:129px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10024');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10024">watches&nbsp;</a></div><div id="bar10024" align="right" class="" style="position:absolute; left:0px; top:148px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div></div>
+<div id="top38" align="right" class="" style="position:absolute; left:514px; top:24px; width:2px; height:24px; z-index:1; background-color:#739942; visibility:visible; " onmouseover="showFamilies('38');" onmouseout="hideFamilies('38');" onclick="">
+<a href="http://www.uncommongoods.com/subcat/subcat.jsp?source=menu&amp;pageId=38"><img name="img38" src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/38_subcat_off.gif" alt="accessories" border="0"></a></div>
+<div id="drp38" align="right" class="pcNetscapeStyle" style="position:absolute; left:514px; top:48px; width:150px; height:261px; z-index:2; background-color:#739942; visibility:hidden; " onmouseover="showFamilies('38');" onmouseout="hideFamilies('38');" onclick="">
+<div id="aro38" align="right" class="" style="position:absolute; left:0px; top:0px; width:150px; height:9px; z-index:3; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_generic_arrow.gif" height="9" width="150"></div>
+<div id="fam15" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:9px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=15');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=15">bath + body&nbsp;</a></div><div id="bar15" align="right" class="" style="position:absolute; left:0px; top:28px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10187" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:33px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10187');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10187">bags&nbsp;</a></div><div id="bar10187" align="right" class="" style="position:absolute; left:0px; top:52px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam43" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:57px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=43');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=43">travel&nbsp;</a></div><div id="bar43" align="right" class="" style="position:absolute; left:0px; top:76px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam133" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:81px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=133');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=133">for him&nbsp;</a></div><div id="bar133" align="right" class="" style="position:absolute; left:0px; top:100px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam42" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:105px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=42');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=42">for her&nbsp;</a></div><div id="bar42" align="right" class="" style="position:absolute; left:0px; top:124px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam79" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:129px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=79');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=79">for couples&nbsp;</a></div><div id="bar79" align="right" class="" style="position:absolute; left:0px; top:148px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10188" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:153px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10188');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10188">for baby&nbsp;</a></div><div id="bar10188" align="right" class="" style="position:absolute; left:0px; top:172px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam53" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:177px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=53');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=53">for kids&nbsp;</a></div><div id="bar53" align="right" class="" style="position:absolute; left:0px; top:196px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10189" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:201px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10189');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10189">for teens&nbsp;</a></div><div id="bar10189" align="right" class="" style="position:absolute; left:0px; top:220px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam161" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:225px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=161');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=161">for pet lovers&nbsp;</a></div><div id="bar161" align="right" class="" style="position:absolute; left:0px; top:244px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div></div>
+<div id="top54" align="right" class="" style="position:absolute; left:610px; top:24px; width:2px; height:24px; z-index:1; background-color:#739942; visibility:visible; " onmouseover="showFamilies('54');" onmouseout="hideFamilies('54');" onclick="">
+<a href="http://www.uncommongoods.com/subcat/subcat.jsp?source=menu&amp;pageId=54"><img name="img54" src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/54_subcat_off.gif" alt="collections" border="0"></a></div>
+<div id="drp54" align="right" class="pcNetscapeStyle" style="position:absolute; left:610px; top:48px; width:150px; height:189px; z-index:2; background-color:#739942; visibility:hidden; " onmouseover="showFamilies('54');" onmouseout="hideFamilies('54');" onclick="">
+<div id="aro54" align="right" class="" style="position:absolute; left:0px; top:0px; width:150px; height:9px; z-index:3; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_generic_arrow.gif" height="9" width="150"></div>
+<div id="fam70" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:9px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=70');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=70">this just in&nbsp;</a></div><div id="bar70" align="right" class="" style="position:absolute; left:0px; top:28px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam75" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:33px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=75');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=75">gallery&nbsp;</a></div><div id="bar75" align="right" class="" style="position:absolute; left:0px; top:52px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam148" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:57px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=148');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=148">recycled&nbsp;</a></div><div id="bar148" align="right" class="" style="position:absolute; left:0px; top:76px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10190" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:81px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10190');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10190">inspirational&nbsp;</a></div><div id="bar10190" align="right" class="" style="position:absolute; left:0px; top:100px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam151" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:105px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=151');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=151">modern design&nbsp;</a></div><div id="bar151" align="right" class="" style="position:absolute; left:0px; top:124px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam45" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:129px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=45');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=45">our favorites&nbsp;</a></div><div id="bar45" align="right" class="" style="position:absolute; left:0px; top:148px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam66" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:153px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=66');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=66">sale&nbsp;</a></div><div id="bar66" align="right" class="" style="position:absolute; left:0px; top:172px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div></div>
+<div id="top25" align="right" class="" style="position:absolute; left:703px; top:24px; width:2px; height:24px; z-index:1; background-color:#739942; visibility:visible; " onmouseover="showFamilies('25');" onmouseout="hideFamilies('25');" onclick="">
+<a href="http://www.uncommongoods.com/subcat/subcat.jsp?source=menu&amp;pageId=25"><img name="img25" src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/25_subcat_off.gif" alt="occasions" border="0"></a></div>
+<div id="drp25" align="right" class="pcNetscapeStyle" style="position:absolute; left:703px; top:48px; width:150px; height:189px; z-index:2; background-color:#739942; visibility:hidden; " onmouseover="showFamilies('25');" onmouseout="hideFamilies('25');" onclick="">
+<div id="aro25" align="right" class="" style="position:absolute; left:0px; top:0px; width:150px; height:9px; z-index:3; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_generic_arrow.gif" height="9" width="150"></div>
+<div id="fam110" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:9px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=110');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=110">for grad&nbsp;</a></div><div id="bar110" align="right" class="" style="position:absolute; left:0px; top:28px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10122" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:33px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10122');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10122">housewarming&nbsp;</a></div><div id="bar10122" align="right" class="" style="position:absolute; left:0px; top:52px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam50" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:57px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=50');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=50">wedding&nbsp;</a></div><div id="bar50" align="right" class="" style="position:absolute; left:0px; top:76px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam112" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:81px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=112');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=112">baby shower&nbsp;</a></div><div id="bar112" align="right" class="" style="position:absolute; left:0px; top:100px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10191" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:105px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10191');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10191">just because&nbsp;</a></div><div id="bar10191" align="right" class="" style="position:absolute; left:0px; top:124px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10192" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:129px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10192');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10192">well wishes&nbsp;</a></div><div id="bar10192" align="right" class="" style="position:absolute; left:0px; top:148px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10142" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:153px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10142');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10142">halloween&nbsp;</a></div><div id="bar10142" align="right" class="" style="position:absolute; left:0px; top:172px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div></div>
+<div id="top44" align="right" class="" style="position:absolute; left:789px; top:24px; width:2px; height:24px; z-index:1; background-color:#739942; visibility:visible; " onmouseover="showFamilies('44');" onmouseout="hideFamilies('44');" onclick="">
+<a href="http://www.uncommongoods.com/subcat/subcat.jsp?source=menu&amp;pageId=44"><img name="img44" src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/44_subcat_off.gif" alt="gifts" border="0"></a></div>
+<div id="drp44" align="right" class="pcNetscapeStyle" style="position:absolute; left:679px; top:48px; width:150px; height:309px; z-index:2; background-color:#739942; visibility:hidden; " onmouseover="showFamilies('44');" onmouseout="hideFamilies('44');" onclick="">
+<div id="aro44" align="right" class="" style="position:absolute; left:0px; top:0px; width:150px; height:9px; z-index:3; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/44_arrow.gif" height="9" width="150"></div>
+<div id="fam133" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:9px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=133');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=133">for him&nbsp;</a></div><div id="bar133" align="right" class="" style="position:absolute; left:0px; top:28px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam42" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:33px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=42');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=42">for her&nbsp;</a></div><div id="bar42" align="right" class="" style="position:absolute; left:0px; top:52px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10188" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:57px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10188');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10188">for baby&nbsp;</a></div><div id="bar10188" align="right" class="" style="position:absolute; left:0px; top:76px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam53" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:81px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=53');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=53">for kids&nbsp;</a></div><div id="bar53" align="right" class="" style="position:absolute; left:0px; top:100px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10189" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:105px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10189');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10189">for teens&nbsp;</a></div><div id="bar10189" align="right" class="" style="position:absolute; left:0px; top:124px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam161" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:129px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=161');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=161">for pet lovers&nbsp;</a></div><div id="bar161" align="right" class="" style="position:absolute; left:0px; top:148px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam46" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:153px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=46');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=46">under $25&nbsp;</a></div><div id="bar46" align="right" class="" style="position:absolute; left:0px; top:172px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam47" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:177px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=47');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=47">under $50&nbsp;</a></div><div id="bar47" align="right" class="" style="position:absolute; left:0px; top:196px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam10194" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:201px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10194');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=10194">under $75&nbsp;</a></div><div id="bar10194" align="right" class="" style="position:absolute; left:0px; top:220px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam48" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:225px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=48');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=48">under $100&nbsp;</a></div><div id="bar48" align="right" class="" style="position:absolute; left:0px; top:244px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam49" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:249px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=49');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=49">splurge&nbsp;</a></div><div id="bar49" align="right" class="" style="position:absolute; left:0px; top:268px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div><div id="fam93" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:273px; width:150px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=93');">
+<a class="whiteLink" href="http://www.uncommongoods.com/fam/fam.jsp?source=menu&amp;pageId=93">gift certificates&nbsp;</a></div><div id="bar93" align="right" class="" style="position:absolute; left:0px; top:292px; width:150px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="150"></div></div>
+<div id="tophome" align="right" class="" style="position:absolute; left:237px; top:0px; width:2px; height:24px; z-index:1; background-color:#739942; visibility:visible; " onmouseover="showMenus('home');" onmouseout="hideMenus('home');" onclick="">
+<a href="http://www.uncommongoods.com/"><img name="imghome" src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/home_off.gif" alt="home" border="0"></a></div>
+<div id="drphome" align="right" class="pcNetscapeStyle" style="position:absolute; left:237px; top:24px; width:225px; height:21px; z-index:2; background-color:#739942; visibility:hidden; " onmouseover="showMenus('home');" onmouseout="hideMenus('home');" onclick="">
+<div id="arohome" align="right" class="" style="position:absolute; left:0px; top:0px; width:225px; height:9px; z-index:3; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_generic_arrow.gif" height="9" width="225"></div>
+</div>
+<div id="topthis_just_in" align="right" class="" style="position:absolute; left:287px; top:0px; width:2px; height:24px; z-index:1; background-color:#739942; visibility:visible; " onmouseover="showMenus('this_just_in');" onmouseout="hideMenus('this_just_in');" onclick="">
+<a href="http://www.uncommongoods.com/fam/fam.jsp?source=tab&amp;pageId=70"><img name="imgthis_just_in" src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/this_just_in_off.gif" alt="this_just_in" border="0"></a></div>
+<div id="drpthis_just_in" align="right" class="pcNetscapeStyle" style="position:absolute; left:287px; top:24px; width:225px; height:21px; z-index:2; background-color:#739942; visibility:hidden; " onmouseover="showMenus('this_just_in');" onmouseout="hideMenus('this_just_in');" onclick="">
+<div id="arothis_just_in" align="right" class="" style="position:absolute; left:0px; top:0px; width:225px; height:9px; z-index:3; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_generic_arrow.gif" height="9" width="225"></div>
+</div>
+<div id="topwish_list" align="right" class="" style="position:absolute; left:370px; top:0px; width:2px; height:24px; z-index:1; background-color:#739942; visibility:visible; " onmouseover="showMenus('wish_list');" onmouseout="hideMenus('wish_list');" onclick="">
+<a href="http://www.uncommongoods.com/wish/list.jsp"><img name="imgwish_list" src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/wish_list_off.gif" alt="wish_list" border="0"></a></div>
+<div id="drpwish_list" align="right" class="pcNetscapeStyle" style="position:absolute; left:370px; top:24px; width:225px; height:21px; z-index:2; background-color:#739942; visibility:hidden; " onmouseover="showMenus('wish_list');" onmouseout="hideMenus('wish_list');" onclick="">
+<div id="arowish_list" align="right" class="" style="position:absolute; left:0px; top:0px; width:225px; height:9px; z-index:3; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_generic_arrow.gif" height="9" width="225"></div>
+</div>
+<div id="topgift_registry" align="right" class="" style="position:absolute; left:437px; top:0px; width:2px; height:24px; z-index:1; background-color:#739942; visibility:visible; " onmouseover="showMenus('gift_registry');" onmouseout="hideMenus('gift_registry');" onclick="">
+<a href="http://www.uncommongoods.com/gift/registry.jsp"><img name="imggift_registry" src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/gift_registry_off.gif" alt="gift_registry" border="0"></a></div>
+<div id="drpgift_registry" align="right" class="pcNetscapeStyle" style="position:absolute; left:437px; top:24px; width:225px; height:21px; z-index:2; background-color:#739942; visibility:hidden; " onmouseover="showMenus('gift_registry');" onmouseout="hideMenus('gift_registry');" onclick="">
+<div id="arogift_registry" align="right" class="" style="position:absolute; left:0px; top:0px; width:225px; height:9px; z-index:3; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_generic_arrow.gif" height="9" width="225"></div>
+</div>
+<div id="topcustomer_service" align="right" class="" style="position:absolute; left:526px; top:0px; width:2px; height:24px; z-index:1; background-color:#739942; visibility:visible; " onmouseover="showMenus('customer_service');" onmouseout="hideMenus('customer_service');" onclick="">
+<a href="http://www.uncommongoods.com/help/help.jsp"><img name="imgcustomer_service" src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/customer_service_off.gif" alt="customer_service" border="0"></a></div>
+<div id="drpcustomer_service" align="right" class="pcNetscapeStyle" style="position:absolute; left:526px; top:24px; width:225px; height:93px; z-index:2; background-color:#739942; visibility:hidden; " onmouseover="showMenus('customer_service');" onmouseout="hideMenus('customer_service');" onclick="">
+<div id="arocustomer_service" align="right" class="" style="position:absolute; left:0px; top:0px; width:225px; height:9px; z-index:3; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_generic_arrow.gif" height="9" width="225"></div>
+<div id="fam/help/help.jsp" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:9px; width:225px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/help/help.jsp');">
+<a class="whiteLink" href="http://www.uncommongoods.com/help/help.jsp">FAQs&nbsp;</a></div><div id="bar/help/help.jsp" align="right" class="" style="position:absolute; left:0px; top:28px; width:225px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="225"></div><div id="fam/help/send_help.jsp" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:33px; width:225px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/help/send_help.jsp');">
+<a class="whiteLink" href="http://www.uncommongoods.com/help/send_help.jsp">help@uncommongoods.com&nbsp;</a></div><div id="bar/help/send_help.jsp" align="right" class="" style="position:absolute; left:0px; top:52px; width:225px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="225"></div><div id="fam/help/feedback.jsp" align="right" class="pcNetscapeStyle" style="position:absolute; left:0px; top:57px; width:225px; height:19px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="familyItemOver(this);" onmouseout="familyItemOut(this);" onclick="goTo('http://www.uncommongoods.com/help/feedback.jsp');">
+<a class="whiteLink" href="http://www.uncommongoods.com/help/feedback.jsp">feedback@uncommongoods.com&nbsp;</a></div><div id="bar/help/feedback.jsp" align="right" class="" style="position:absolute; left:0px; top:76px; width:225px; height:5px; z-index:4; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_menu_break.gif" "="" height="5" width="225"></div></div>
+<div id="topshopping_basket" align="right" class="" style="position:absolute; left:848px; top:24px; width:2px; height:24px; z-index:1; background-color:#739942; visibility:visible; " onmouseover="showMenus('shopping_basket');" onmouseout="hideMenus('shopping_basket');" onclick="">
+<a href="http://www.uncommongoods.com/basket/basket.jsp?source=tab"><img name="imgshopping_basket" src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/shopping_basket_off.gif" alt="shopping_basket" border="0"></a></div>
+<div id="drpshopping_basket" align="right" class="pcNetscapeStyle" style="position:absolute; left:848px; top:48px; width:225px; height:21px; z-index:2; background-color:#739942; visibility:hidden; " onmouseover="showMenus('shopping_basket');" onmouseout="hideMenus('shopping_basket');" onclick="">
+<div id="aroshopping_basket" align="right" class="" style="position:absolute; left:0px; top:0px; width:225px; height:9px; z-index:3; background-color:#739942; visibility:inherit; " onmouseover="" onmouseout="" onclick="">
+<img src="https://web.archive.org/web/20070220030558/http://www.uncommongoods.com/images/new_nav/3_generic_arrow.gif" height="9" width="225"></div>
+</div>
 
 
 
@@ -599,10 +1320,20 @@ urchinTracker();
 <!-- iBehavior -->
 
 
+<!-- KeywordMax -->
+<!-- <script language="JavaScript" type="text/javascript" defer="defer"
+src="http://keywordmax.com/tracking/show.php?id=496105466&location=Home"></script>
+<noscript>
+<img src="http://keywordmax.com/tracking/log.php?id=496105466&loc=Home"
+border="0" width="1" height="1">
+</noscript> -->
+<!-- KeywordMax -->
+
 
 <!-- 
        START CONFIRMATION PAGE ONLY
 -->
+
 
 
 
