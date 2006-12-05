@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imsa.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615112226id_/http%3A//imsa.edu/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsa.edu privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206002555id_/http%3A//imsa.edu/site/privacy.php) for the most accurate reproduction.*
 
 # IMSA®: Privacy Policy for Websites Under Domain imsa.edu
 
 ## Preamble
 
-Pursuant to the fundamental philosophy of the American constitutional form of government, it is declared to be the public policy of the Illinois Mathematics and Science Academy® that all persons are entitled to full and complete information regarding the affairs of government and the official acts and policies of those who represent them as public officials and public employees. The access to this information is not intended to be used to violate individual privacy, nor to further a commercial enterprise, nor to disrupt the duly-undertaken work of any public body independent of the fulfillment of any of rights of the people to access to information.
+Pursuant to the fundamental philosophy of the American constitutional form of government, it is declared to be the public policy of the Illinois Mathematics and Science Academy® that all persons are entitled to full and complete information regarding the affairs of government and the official acts and policies of those who represent them as public officials and public employees. The access to this information is not intended to be used to violate individual privacy, nor to further a commercial enterprise, nor to disrupt the duly-undertaken work of any public body independent of the fulfillment of any of the rights of the people to access the information.
 
 ## Sharing of Information
 
