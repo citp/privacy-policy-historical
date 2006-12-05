@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buyonlinenow.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205556id_/http%3A//www.buyonlinenow.com/information.asp%3Fbdy%3Dprivacysecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyonlinenow.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000243id_/http%3A//www.buyonlinenow.com/information.asp%3Fbdy%3Dprivacysecurity) for the most accurate reproduction.*
 
-# Office Supplies - Save online at BuyOnlineNow.com - 22,000+ office supplies, office furniture, printer supplies + school supplies in stock for fast delivery.
+# BuyOnlineNow.com – Online Office Supplies Superstore.
 
 Your Privacy
 
