@@ -1,14 +1,56 @@
-> *The following text is extracted and transformed from the gov.sk.ca privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605082733id_/http%3A//www.gov.sk.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.sk.ca privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214141id_/http%3A//www.gov.sk.ca/privacy) for the most accurate reproduction.*
 
 # Government of Saskatchewan - Privacy Statement
 
-  
-The Government of Saskatchewan is committed to protecting your privacy. Its entire operations, including this web site, are subject to [ "The Freedom of Information and Protection of Privacy Act (1992)"](http://www.saskjustice.gov.sk.ca/legislation/summaries/freedomofinfoact.shtml). This law is based on the principles contained in the Canadian Standards Association's 1996 [Model Code for the Protection of Personal Information.](http://www.csa.ca/standards/privacy/default.asp?load=code#model%20code) The simplest way to gain an understanding of the Saskatchewan Government's approach to privacy is to read the on-line [CSA Privacy Principles](http://www.csa.ca/standards/privacy/code/Default.asp?articleID=5286). 
+The Government of Saskatchewan is committed to protecting your privacy. Its entire operations, including this web site, are subject to _The Freedom of Information and Protection of Privacy Act_. 
 
-When you visit a Government of Saskatchewan website, the server may automatically collect and retain a limited amount of data essential to the efficient operation and security of that site. An automated process may analyze this data and a statistical report may be created to help us identify usage trends and improve our service. Under no circumstances does the Government of Saskatchewan use such information to identify or track individual users.
+## Collection, Use and Disclosure of Personal Information
 
-Some Government of Saskatchewan websites may distribute a small file to your computer, called a "cookie". Such files allow us to provide you with personalized information on your future visits to our websites; they are not used for any other purpose.
+This website **does not** automatically gather personal information about you. We will only collect this type of information if you voluntarily supply it. 
 
-When you voluntarily send us electronic mail or complete an electronic form that includes identifying information about yourself, we will keep a record of this information so that we can respond to your inquiry.
+If you provide us your personal information, it will only be used or disclosed for the purposes for which it was collected or, in limited circumstances, in accordance with _The Freedom of Information and Protection of Privacy Act_. 
 
-If you have further concerns about privacy in the operations of the Government of Saskatchewan please contact the [Freedom of Information and Protection of Privacy Office.](http://www.saskjustice.gov.sk.ca/foi/default.shtml)
+If you do not wish to provide personal information via the Internet or you wish to obtain services via other means (i.e. in-person or via the telephone), please contact us at: 
+    
+    
+    Information Technology Office
+    8th Floor
+    2101 Scarth Street
+    Regina, SK  S4P 2H9
+    Telephone: (306) 787-8880
+    Fax:       (306) 787-5718
+    
+
+The Government of Saskatchewan may monitor network traffic to identify unauthorized attempts to upload, delete or change information, or otherwise cause damage. We record the Internet Protocol (IP) address of the computer that has contacted our web sites, the date and time of the visit and the pages visited. We make no attempt to link these addresses with the identity of individuals visiting our site unless an attempt to damage the site has been detected or we are legally obligated to do so by law. 
+
+## Security
+
+Information collected is maintained in a secure environment. 
+
+## Cookies
+
+Some Government of Saskatchewan websites may distribute a small file to your browser, called a "cookie". Such files allow us to provide you with personalized information on your future visits to our websites; they are not used for any other purpose. If you wish, you may change the settings on your web browser to deny cookies or to warn you when cookies will be deposited. 
+
+## More Information
+
+Questions or concerns regarding our management of this privacy statement may be directed to: 
+    
+    
+    Information Technology Office  
+    Freedom of Information and Privacy Coordinator
+    8th Floor
+    2101 Scarth Street
+    Regina, SK  S4P 2H9 
+    Telephone: (306) 787-1134
+    Fax:       (306) 787-5718
+    
+
+If you are not satisfied with our response to your privacy concern, you may wish to contact the: 
+    
+    
+    Saskatchewan Information and Privacy Commissioner
+    503-1801 Hamilton Street
+    Regina, SK  S4P 4B4
+    Telephone: (306) 787-8350
+    Fax:       (306) 798-1603
+    
