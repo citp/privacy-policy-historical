@@ -1,0 +1,222 @@
+<!--The following is the downloaded HTML source of the simple-talk.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205220357id_/http%3A//www.simple-talk.com/privacy-policy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" href="http://www.simple-talk.com/App_Themes/main.css" type="text/css">
+    <script language="javascript">
+        function siteSearch(e, strUrl, strSearchParam, strSearchControl)
+        {
+        	if (e.keyCode == 13)
+	        {
+	            // force a mouseover
+	            btnSearchOver();
+	            
+                // let the click event do the work
+	            return(doSiteSearch(strUrl, strSearchParam, strSearchControl));
+            }
+            else
+            {
+                // allow further processing
+                return(true);
+            } 
+        }
+        var m_over = false;
+        function btnSearchOver() { m_over = true; }
+        function btnSearchOut() { m_over = false; }
+        function doSiteSearch(strUrl, strSearchParam, strSearchControl)
+        {
+        	if (m_over == true)
+	        {
+                // get the text and strip any spaces
+                var strText = document.getElementById(strSearchControl).value;
+                while (strText.substring(0,1) == ' ') strText = strText.substring(1,strText.length);
+                while (strText.substring(strText.length-1,strText.length) == ' ') strText = strText.substring(0,strText.length-1);
+      
+                // add the parameters
+                strUrl = strUrl + "?" + strSearchParam + "=" + encodeString(strText);
+             
+                // now navigate
+                document.location.href = strUrl;
+            }
+                            
+            // stop further processing
+            return(false);
+        }        
+        function encodeString(plaintext)
+        {
+            var encodedtext = "";
+            for (var i=0; i<plaintext.length; i++)
+            {
+                if (plaintext.charAt(i) == " ")
+                    encodedtext += "+";
+                else
+                    encodedtext += plaintext.charAt(i);
+            }
+            return(escape(encodedtext));
+        }
+    </script>
+<title>
+	Privacy Policy
+</title></head>
+<body>
+<form name="aspnetForm" method="post" action="page.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0MjY0OTY5ODZkGAMFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ9jdGwwMCRidG5TZWFyY2gFBl9fUGFnZQ8UKwADZGVlZAURY3RsMDAkTmF2aWdhdGlvbjEPFCsAAmRkZA==">
+</div>
+
+    <div class="site">
+        <div class="page">
+            <div class="header">
+                <div class="search">
+					<div class="redgate">Simple Talk is a service from <a href="http://www.red-gate.com/">Red Gate Software</a></div>
+					<div class="searchform"><table align="right"><tbody><tr><td><input name="ctl00$txtSearch" type="text" id="ctl00_txtSearch" class="txtSearch" onkeydown="return(siteSearch(event,'http://www.simple-talk.com/search/default.aspx','search','ctl00_txtSearch'));"></td><td><input type="image" name="ctl00$btnSearch" id="ctl00_btnSearch" class="btnSearch" onmouseover="btnSearchOver();" onmouseout="btnSearchOut();" src="http://www.simple-talk.com/images/interface/btn_search_56x19.gif" onclick="return(doSiteSearch('http://www.simple-talk.com/search/default.aspx','search','ctl00_txtSearch'));" style="border-width:0px;"></td></tr></tbody></table></div>
+				</div>
+                <div class="logo"><a id="ctl00_lnkGotoHome" href="http://www.simple-talk.com/default.aspx"><img src="http://www.simple-talk.com/images/interface/1px.gif" width="250" height="55"></a></div>
+            </div>
+            
+<div class="mainnav">
+    <div class="primarynav">
+        <a id="ctl00_Navigation1_lnkGotoHome" href="http://www.simple-talk.com/default.aspx">Home</a>
+        <a id="ctl00_Navigation1_lnkGotoSql" href="http://www.simple-talk.com/sql/">SQL</a>
+        <a id="ctl00_Navigation1_lnkGotoNet" href="http://www.simple-talk.com/dotnet/">.NET</a>
+        <a id="ctl00_Navigation1_lnkGotoOpinion" href="http://www.simple-talk.com/opinion/">Opinion</a>
+        <a id="ctl00_Navigation1_lnkGotoBlogs" href="http://www.simple-talk.com/community/blogs/">Blogs</a>
+        <a id="ctl00_Navigation1_lnkGotoForums" href="http://www.simple-talk.com/community/forums/">Forums</a>
+        <a id="ctl00_Navigation1_lnkGotoAbout" href="http://www.simple-talk.com/about.aspx">About</a>
+    </div>
+     <div class="membernav">
+        
+        <span id="ctl00_Navigation1_panAnonymous"><a id="ctl00_Navigation1_lnkLogin" href="http://www.simple-talk.com/community/login.aspx?ReturnUrl=%2fprivacy-policy.aspx">Sign in</a>
+            &nbsp;|&nbsp;<a id="ctl00_Navigation1_lnkJoin" href="http://www.simple-talk.com/community/user/CreateUser.aspx?ReturnUrl=%2fprivacy-policy.aspx">Join</a></span>
+        &nbsp;|&nbsp;<a id="ctl00_Navigation1_lnkHelp" href="http://www.simple-talk.com/community/languages/en-US/docs/faq.aspx">Help</a>
+        
+    </div>
+</div>
+<div class="subnav">
+    
+</div>
+            <div class="maincontent">
+                
+  <div class="article">
+    <br><br>
+    <div class="articletitle">Privacy Policy</div>
+    <div class="clear"></div>
+	<p><strong>1.1 General Information<br></strong>Simple-Talk.com and Red Gate Software (together "Simple-Talk.com") owns and is responsible for the content of <a href="http://www.Simple-Talk.com">www.Simple-Talk.com</a>. </p>
+<p><strong>1.2 Simple-Talk.com Privacy Statement<br></strong>Simple-Talk.com&nbsp; will use any personal information collected from this website (<a href="http://www.Simple-Talk.com">www.Simple-Talk.com</a>) in accordance with the Data Protection Act 1998. Further details on the UK Data Protection Act can be found at the website of The Office of the Data Protection Commissioner. Simple-Talk.com.com has taken appropriate measures to keep secure and personal information given by user of this site.</p>
+<p><strong>1.3 What information do we collect and why?<br></strong>The information collected on this site includes:</p>
+<p>1.3.1 Users’ IP address, which is automatically logged by our web server. IP addresses are used to observe users’ interest in this website (number of visits, etc)</p>
+<p>1.3.2 Cookies are very small text files saved to your computer used to track user navigation around a website. At <a href="http://www.Simple-Talk.com">www.Simple-Talk.com</a> session cookies are used to store information on which advertisements have been seen by a user. Some Simple-Talk.com sites also use persistent cookies which are permanently stored on the users’ computer. Simple-Talk.com will use such cookies to identify unique users to our sites. They are not cross-referenced with any other information such that an individual person could be identified.</p>
+<p>Simple-Talk.com may use a third party to serve advertisements on our sites. The advertisers may use cookies to track the number of users responding to the campaign. Simple-Talk.com does not have access to or control of cookies placed by third parties.</p>
+<p>Disabling/Enabling Cookies – users have the ability to accept or disable cookies by modifiying the settings in their browser. Disabling cookies however may mean that some functionality may be affected.<br>For further directions on how to disable cookies please click here <a href="http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html">http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html</a></p>
+<p>1.3.3 E-mail addresses and/or other contact details which users voluntarily provide in order to:<br>(a) receive information from the Simple-Talk.com and its owner Red Gate software.<br>(b) register for competitions and other premium content<br>(c) participate in discussion forums (see below).<br>Simple-Talk.com will not disclose voluntarily provided details to third parties or use the information in any other way without prior consent. On all pages where personal data is collected, specific details on the use of this information will be provided.</p>
+<p><strong>1.4 Your rights<br></strong>You have the right to access your information held by Simple-Talk.com and where necessary, to have it amended. You can also request not to receive marketing information from Simple-Talk.com. For more details, please contact: Data Protection, Simple-Talk.com, The Jeffreys Building, St John's Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom or email <a href="mailto:privacy@simple-talk.com">privacy@simple-talk.com</a>.</p>
+<p><br><strong>1.5 Forums<br></strong>Users are reminded that forums are for public discussion. Any personal information supplied by users during these discussions is widely accessible. Simple-Talk.com is not responsible for the content posted by users of these services.</p>
+<p><strong>1.6 Links to other websites<br></strong>This website contains links to other sites that are completely unrelated to Simple-Talk.com. This privacy statement does not apply to these sites nor are we responsible for the content and practices of these websites.</p>
+  </div>
+
+            </div>
+            <div class="rightcolumn">
+                
+    <div class="sidepanels">
+        
+        
+
+<div class="widget" id="recentarticles">
+    <div class="header"><a id="ctl00_RightColumn_ArticlesLatest1_lnkHeader"><img src="http://www.simple-talk.com/images/interface/1px.gif" width="300" height="30" alt="" title="Phil Factor - the wilder shores of transact sql"></a></div>
+    <div class="middle">
+        <div class="widgetcontent">
+            
+                    <strong><a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl00_lnkArticle1" href="http://www.simple-talk.com/sql/sql-tools/towards-the-self-documenting-sql-server-database/">Towards the Self-Documenting SQL Server Database</a></strong><br>
+                    <img src="http://www.simple-talk.com/images/interface/w_icon_article_9x11.jpg" alt="" width="9" height="11">&nbsp;William Brewer investigates an unsung hero in SQL Server, extended properties, and shows how to use...&nbsp;<a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl00_lnkArticle2" href="http://www.simple-talk.com/sql/sql-tools/towards-the-self-documenting-sql-server-database/">Read more...</a><br><br>
+                
+                    <strong><a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl01_lnkArticle1" href="http://www.simple-talk.com/sql/sql-server-2005/encryption-without-the-confusion/">Encryption without the Confusion</a></strong><br>
+                    <img src="http://www.simple-talk.com/images/interface/w_icon_article_9x11.jpg" alt="" width="9" height="11">&nbsp;Eric Brown demonstrates some practical encryption techniques in SQL Server 2005, to protect both your...&nbsp;<a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl01_lnkArticle2" href="http://www.simple-talk.com/sql/sql-server-2005/encryption-without-the-confusion/">Read more...</a><br><br>
+                
+                    <strong><a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl02_lnkArticle1" href="http://www.simple-talk.com/sql/database-administration/automating-common-sql-server-tasks-using-dmo/">Automating Common SQL Server Tasks using DMO</a></strong><br>
+                    <img src="http://www.simple-talk.com/images/interface/w_icon_article_9x11.jpg" alt="" width="9" height="11">&nbsp;Phil Factor's DMO automation procedures provide a valuable additon to any DBAs toolkit.&nbsp;<a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl02_lnkArticle2" href="http://www.simple-talk.com/sql/database-administration/automating-common-sql-server-tasks-using-dmo/">Read more...</a><br><br>
+                
+                    <strong><a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl03_lnkArticle1" href="http://www.simple-talk.com/opinion/opinion-pieces/on-training-your-it-manager/">On Training Your IT Manager</a></strong><br>
+                    <img src="http://www.simple-talk.com/images/interface/w_icon_article_9x11.jpg" alt="" width="9" height="11">&nbsp;A keen new manager, with ambitions to make his mark, can cause all sorts of unpleasantness in the...&nbsp;<a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl03_lnkArticle2" href="http://www.simple-talk.com/opinion/opinion-pieces/on-training-your-it-manager/">Read more...</a><br><br>
+                
+                    <strong><a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl04_lnkArticle1" href="http://www.simple-talk.com/sql/database-administration/creating-csv-files-using-bcp-and-stored-procedures/">Creating CSV Files Using BCP and Stored Procedures</a></strong><br>
+                    <img src="http://www.simple-talk.com/images/interface/w_icon_article_9x11.jpg" alt="" width="9" height="11">&nbsp;Nigel Rivett demonstrates some core techniques for extracting SQL Server data into CSV files, focussing...&nbsp;<a id="ctl00_RightColumn_ArticlesLatest1_repArticles_ctl04_lnkArticle2" href="http://www.simple-talk.com/sql/database-administration/creating-csv-files-using-bcp-and-stored-procedures/">Read more...</a><br><br>
+                
+        </div>
+    </div>
+    <div class="footer"></div>
+</div>
+        
+<div class="widget" id="BlogTalk">
+    <div class="header"><a id="ctl00_RightColumn_BlogTalkImage1_lnkHeader" href="http://www.simple-talk.com/community/blogs/"><img src="http://www.simple-talk.com/images/interface/1px.gif" width="315" height="50" alt="" title="All Blogs"></a></div>
+    <div class="middle">
+        <div class="bloglinks">
+            
+                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl00_lnkBlog" title="Damon" href="http://www.simple-talk.com/community/blogs/damon_armstrong/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl00_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=2140" alt="Damon" style="height:83px;width:65px;border-width:0px;"></a>
+                    
+                
+                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl01_lnkBlog" title="Phil Factor" href="http://www.simple-talk.com/community/blogs/philfactor/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl01_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=2126" alt="Phil Factor" style="height:83px;width:65px;border-width:0px;"></a>
+                    
+                
+                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl02_lnkBlog" title="Richard Mitchell" href="http://www.simple-talk.com/community/blogs/richard/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl02_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=2113" alt="Richard Mitchell" style="height:83px;width:65px;border-width:0px;"></a>
+                    
+                
+                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl03_lnkBlog" title="JesseLiberty" href="http://www.simple-talk.com/community/blogs/jesse_liberty/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl03_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=4371" alt="JesseLiberty" style="height:83px;width:65px;border-width:0px;"></a>
+                    <br id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl03_ctlSpacer"><br>
+                
+                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl04_lnkBlog" title="Bart Read" href="http://www.simple-talk.com/community/blogs/bart/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl04_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=2110" alt="Bart Read" style="height:83px;width:65px;border-width:0px;"></a>
+                    
+                
+                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl05_lnkBlog" title="David Atkinson" href="http://www.simple-talk.com/community/blogs/david_atkinson/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl05_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=6052" alt="David Atkinson" style="height:83px;width:65px;border-width:0px;"></a>
+                    
+                
+                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl06_lnkBlog" title="ClaireB" href="http://www.simple-talk.com/community/blogs/claireb/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl06_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=4167" alt="ClaireB" style="height:83px;width:65px;border-width:0px;"></a>
+                    
+                
+                    <a id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl07_lnkBlog" title="Neil Davidson" href="http://www.simple-talk.com/community/blogs/neil_davidson/default.aspx"><img id="ctl00_RightColumn_BlogTalkImage1_repBloggers_ctl07_imgBlogger" src="http://www.simple-talk.com/community/users/avatar.aspx?userid=2117" alt="Neil Davidson" style="height:83px;width:65px;border-width:0px;"></a>
+                    
+                
+        </div>
+    </div>
+    <div class="footer"></div>
+</div>
+        
+      <div class="widget" id="WhyJoin">
+        <div class="header"><a id="ctl00_RightColumn_WhyJoin1_LoginView1_lnkJoin1" href="http://www.simple-talk.com/community/user/CreateUser.aspx?ReturnUrl=%2fprivacy-policy.aspx"><img src="http://www.simple-talk.com/images/interface/1px.gif" width="315" height="50" alt="" title="Join Simple Talk"></a></div>
+        <div class="middle">
+          <div class="widgetcontent">
+		<a id="ctl00_RightColumn_WhyJoin1_LoginView1_lnkJoin2" href="http://www.simple-talk.com/community/user/CreateUser.aspx?ReturnUrl=%2fprivacy-policy.aspx"><img src="http://www.simple-talk.com/images/interface/icon_newsletter_54x43.jpg" alt="" width="54" height="43" class="paper" align="left" title="Join Simple Talk"></a>
+		Over 105,000 Microsoft professionals subscribe to the Simple-Talk technical journal. Join today, it's fast, simple, free and secure.<br><br>
+		    <div class="joinbutton"><a id="ctl00_RightColumn_WhyJoin1_LoginView1_lnkJoin3" href="http://www.simple-talk.com/community/user/CreateUser.aspx?ReturnUrl=%2fprivacy-policy.aspx"><img src="http://www.simple-talk.com/images/interface/btn_join_117x19.jpg" alt="Join Simple Talk" width="117" height="19"></a></div>
+          </div>
+        </div>
+        <div class="footer"></div>
+      </div>
+    
+    </div>
+
+                <div class="clear"></div><br>
+            </div>
+            <div class="clear"></div><br>
+            
+<div class="pagefooter">
+  <div class="pagefooternavright">
+    <a id="ctl00_Footer1_lnkGotoPrivacy" href="http://www.simple-talk.com/privacy-policy.aspx">Privacy policy</a> |
+    <a id="ctl00_Footer1_lnkGotoTerms" href="http://www.simple-talk.com/terms-and-conditions.aspx">Terms and conditions</a> |
+    <a href="http://www.red-gate.com/" target="_blank">©2006 Red Gate Software</a>
+  </div>
+  <div class="pagefooternavleft">
+    <a id="ctl00_Footer1_lnkGotoSitemap" href="http://www.simple-talk.com/site-map.aspx">Site map</a> |
+    <a id="ctl00_Footer1_lnkGotoAuthor" href="http://www.simple-talk.com/become-an-author.aspx">Become an author</a> |
+    <a id="ctl00_Footer1_lnkGotoContact" href="http://www.simple-talk.com/contact-us.aspx">Contact us</a>
+  </div>
+</div>
+        </div>
+    </div>
+</form>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-90206-4";
+urchinTracker();
+</script>
+
+
+</body></html>
