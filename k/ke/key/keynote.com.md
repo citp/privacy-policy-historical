@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keynote.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615023854id_/http%3A//keynote.com/legal/privacy_tpl.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keynote.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206005648id_/http%3A//keynote.com/legal/privacy_tpl.html) for the most accurate reproduction.*
 
 # Keynote
 
