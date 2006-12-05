@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epson.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615200855id_/http%3A//www.epson.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.com.au privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201648id_/http%3A//epson.com.au/privacypolicy.asp) for the most accurate reproduction.*
 
 # Epson Australia - Privacy Policy
 
@@ -60,7 +60,9 @@ Please note that Epson will not share, rent, sell or otherwise disclose your Per
 
 However, Epson may disclose general information about its customers and Site members to third parties such as advertisers and business partners. For example, we might disclose that a certain percent of Site users is in a particular age bracket or is a PC or Macintosh user.
 
-In any event, Epson will not disclose Personal Information to a third party without first seeking and obtaining your consent, except as explained below.
+Epson may also disclose Personal Information to independent research agencies who have been contracted to act on behalf of Epson, for the sole purpose of instructing them to conduct product or customer research. Such agencies will be bound not to use or disclose Person Information for any other purpose.
+
+Otherwise, Epson will not disclose Personal Information to a third party without first seeking and obtaining your consent, except in the circumstances explained below.
 
 If you purchase a Product on-line, Epson does not retain your credit card details on its sites. When Can We Disclose Information to Third Parties?
 
