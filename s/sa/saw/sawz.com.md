@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the sawz.com privacy policy that was archived on 2006-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060315025147id_/http%3A//www.sawz.com/index.php%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sawz.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231735id_/http%3A//sawz.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# sawzcom web wide services > Privacy
-
-## Privacy
-
-**Privacy Policy (We won't spam you!)
+# sawzcom internet solutions-Privacy> Shared Hosting Php MySQL EMail Ruby
 
 sawzcom web wide services ("sawzcom") has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of our consulting services, online services, websites, and web services ("Services").
 
@@ -81,8 +77,3 @@ Note that key-loggers, viruses, or other surveillance devices can intercept logi
 12\. Questions
 
 Any questions concerning this Privacy Policy may be directed to [privacy@sawz.com](mailto:privacy@sawz.com).
-
-**
-
-Previous page: [All Features](http://www.sawz.com/index.php?page=All_Features)   
-Next page: [Terms of Service](http://www.sawz.com/index.php?page=TOS)
