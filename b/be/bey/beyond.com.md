@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beyond.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615201827id_/http%3A//beyond.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyond.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232144id_/http%3A//beyond.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# Beyond.com Careers - Search Jobs, Post your Resume, Find People
+# Job Search - Search Jobs, Post your Resume - Beyond.com
 
 If you have questions or concerns regarding this statement, please contact us. 
 
