@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204835id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205183110id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
 
 # The University of Texas at Austin Web Privacy Policy
 
@@ -11,7 +11,7 @@ As part of our commitment to maintain the privacy of our Web users, The Universi
 
 
 
-The University of Texas at Austin also complies with the Family Educational Rights and Privacy Act (FERPA), which prohibits the release of education records without student permission. For more details on FERPA, currently enrolled students should see the [University's General Information Catalog](http://www.utexas.edu/student/registrar/catalogs/gi05-06/app/appc09.html). Although FERPA regulations apply only to UT Austin students, The University of Texas is equally commited to protecting the privacy of all visitors to our Web site. 
+The University of Texas at Austin also complies with the Family Educational Rights and Privacy Act (FERPA), which prohibits the release of education records without student permission. For more details on FERPA, currently enrolled students should see the [University's General Information Catalog](http://www.utexas.edu/student/registrar/catalogs/gi06-07/app/appc09.html). Although FERPA regulations apply only to UT Austin students, The University of Texas is equally commited to protecting the privacy of all visitors to our Web site. 
 
 * * *
 
@@ -38,11 +38,21 @@ Our Web servers generate temporary logs that contain the following information:
 
 
 
-The data is used in aggregate by system administrators and Web content managers to tune the Web site for its efficiency and is not ordinarily associated with specific individuals. Raw data from the Web server logs is only shared with the content manager of each Web site. Summary reports produced from the logs help Web publishers determine what Web browsers and pages are most popular. For example, if the aggregate reports show a particular Web page is very popular or used more by freshmen than by seniors, we use this information to customize the content of that page and make it easier to find. 
+The data is used in aggregate by system administrators and Web content managers to tune the Web site for its efficiency and is not ordinarily associated with specific individuals. Raw data from the Web server logs is only shared with the content manager of each Web site. Summary reports produced from the logs help Web publishers determine what Web browsers and pages are most popular. For example, if the aggregate reports show a particular Web page is very popular or used more by freshmen than by seniors, we use this information to customize the content of that page and make it easier to find.
+
+#### Third-party content
+
+Some pages within the utexas.edu domain may contain content that is served from external third parties. For example, a utexas.edu Web site might include a graphic logo or a script from a third party. Specifically, the following code within a utexas.edu page would represent an example of third party content:
+
+` <img src="http://www.other-org.com/logo.gif" alt="Sample" /> `
+
+In this example, logo.gif would be third party content served from a Web server outside the utexas.edu domain (www.other-org.com in this case). Third party content in utexas.edu is not limited to graphics, but this is the most frequent use.
+
+The University of Texas does not transmit any information to these third parties as part of such requests. However, when you visit utexas.edu pages that contain third party content, information such as your IP address, date, browser, and requested page are transmitted from your computer to that third party. The University of Texas at Austin is not responsible for the privacy practices of these external third parties.
 
 ### Cookies
 
-Cookies are small pieces of data stored by the Web browser. Cookies are often used to remember information about preferences and pages you have visited. For example, when you visit some sites on the Web you might see a "Welcome Back" message. The first time you visited the site a cookie was probably set on your computer; when you return, the cookie is read again. You can refuse to accept cookies, can disable cookies, and remove cookies from your hard drive. In Netscape Navigator, choose **Edit** and **Preferences** to manage your cookie settings, in Internet Explorer select **Tools** and **Internet Options**.
+Cookies are small pieces of data stored by the Web browser. Cookies are often used to remember information about preferences and pages you have visited. For example, when you visit some sites on the Web you might see a "Welcome Back" message. The first time you visited the site a cookie was probably set on your computer; when you return, the cookie is read again. You can refuse to accept cookies, can disable cookies, and remove cookies from your hard drive. In Mozilla Firefox, choose **Tools** and **Options** and click on the Cookies tab to manage your cookie settings, in Internet Explorer select **Tools** and **Internet Options**.
 
 The University of Texas Web servers use cookies in the centralized authentication system called UT EID. These cookies are used so you will not have to repeatedly enter user names and passwords when you go to different parts of the Web site. You are normally required to enter a UT EID when you request data about yourself or to ensure that you are a member of the University community. For example, students who want to check their admission status or staff members who complete time sheets, must enter their UT EID so the system knows who is requesting the data. This login process uses Secure Sockets Layer (SSL) so the user name and password are encrypted between the Web browser and our Web server. 
 
@@ -62,7 +72,7 @@ Several sites within The University of Texas at Austin enable you to pay for pro
 
 The University of Texas at Austin does, upon explicit request of users, share information with other parties and gather information from other private data providers. For example, the University receives test scores from testing agencies and will send transcripts to other schools. This is done only at the request of users (persons to whom the information applies). Unless specifically required under public information requests filed under the Texas Public Information Act, it is against University policy to release confidential information gathered through the Web, such as pages visited, or personalized preferences. For example, the University's portal, UT Direct, enables users to customize the content they see on their personal page. This information cannot be shared with external third parties.
 
-Consistent with FERPA, we do not release personal student information, other than public directory information, to other parties unless we receive explicit written authorization to do so. UT Austin students can read more about directory information in the [University's General Information Catalog](http://www.utexas.edu/student/registrar/catalogs/gi05-06/app/appc09.html). Examples of directory information include first and last name, address, and date of birth. Enrolled students can restrict release of their directory information by contacting the Office of the Registrar.
+Consistent with FERPA, we do not release personal student information, other than public directory information, to other parties unless we receive explicit written authorization to do so. UT Austin students can read more about directory information in the [University's General Information Catalog](http://www.utexas.edu/student/registrar/catalogs/gi06-07/app/appc09.html). Examples of directory information include first and last name, address, and date of birth. Enrolled students can restrict release of their directory information by contacting the Office of the Registrar.
 
 ### Public Forums 
 
