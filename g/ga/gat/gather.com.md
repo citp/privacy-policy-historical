@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gather.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210129id_/http%3A//www.gather.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gather.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215713id_/http%3A//www.gather.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Gather
-
-Gather Privacy Policy
 
 At Gather, Inc. ("Gather"), we strive to develop innovative products and services to benefit our users and registered users ("Members"). We recognize that privacy is an important issue, so we design and operate our products and services with your privacy in mind. This Privacy Policy outlines the types of personal information we may collect when you use our service ("Service"), which is further described in the Terms of Service ("TOS") available at <http://www.gather.com/userTerms.jsp>, as well as some of the steps we take to secure it.
 
@@ -75,8 +73,8 @@ At Gather, Inc. ("Gather"), we strive to develop innovative products and service
 
 **Your Ability to Edit and Delete Account Information**
 
-  * You may edit your Member account and related Personal Information at any time by visiting <http://www.gather.com/editAccount.jsp>.
-  * You may delete your Member account by visiting <http://www.gather.com/deleteAccount.jsp>.
+  * You may edit your Member account and related personal information at any time by visiting <http://www.gather.com/editAccount.jsp>.
+  * You may delete your member account by sending an email to [support@gather.com](mailto:support@gather.com).
 
 
 
