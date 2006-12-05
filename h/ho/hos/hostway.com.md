@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostway.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214634id_/http%3A//www.hostway.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostway.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205234416id_/http%3A//www.hostway.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # Hostway's Privacy Statement
 
@@ -26,9 +26,7 @@ For prospective and existing customers and partners, once you choose to provide 
 When you visit our Web site, our Web server collects basic user information about you that includes your ISP's domain, the time you accessed our Web site, and the pages from within our Web site that you visit and is not personally identifiable information except as needed to prevent fraud or abuse of the system.  
 When you sign up for Hostway's services, you provide us with both contact and payment information.  Contact information typically includes your name, address, and phone number.  Payment information typically includes your credit card number.
 
-While you are a Hostway customer, we manage information with regard to your account status, choice of services, and customer logs.  In addition, we may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.
-
-While you are a Hostway customer, we manage information with regard to your account status, choice of services, and customer logs.  In addition, we may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.   
+While you are a Hostway customer, we manage information with regard to your account status, choice of services, and customer logs.  In addition, we may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.  
   
 How do we use this information?  
 Hostway does not trade, rent or sell your personal information to any other organization or third party. 
