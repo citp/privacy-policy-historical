@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firetrust.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616000546id_/http%3A//firetrust.com/firetrustprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firetrust.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206002251id_/http%3A//firetrust.com/firetrustprivacypolicy.html) for the most accurate reproduction.*
 
 # Email Security, Anti-spam, Anti Virus Software, MailWasher creators:
 
@@ -16,7 +16,7 @@ By using this site or any services provided through the site, you expressly cons
 
 **Your email address**
 
-We collect your email address to either generate a registration code for your purchased product and/or to contact you regarding your purchase and/or to keep you informed of updates and product announcements. Your email address is never passed to 3rd parties except in the event of product announcements for which we use a 3rd party email sending service provided by one of our ecommerce payment providers, element5.com 
+We collect your email address to either generate a registration code for your purchased product and/or to contact you regarding your purchase and/or to keep you informed of updates and product announcements. Your email address is never passed to 3rd parties. 
 
 We honour all unsubscribe requests and you can unsubscribe at any time to the emails we send you by clicking the unsubscribe link in our announcement emails or by proceeding to http://www.firetrust.com/user and amending your profile there. 
 
