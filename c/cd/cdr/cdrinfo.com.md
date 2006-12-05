@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618205957id_/http%3A//cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212451id_/http%3A//www.cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
 
 # Privacy Statement for CdrInfo.com
 
@@ -46,23 +46,23 @@ CdrInfo.com is poised into helping all our users preserve their own on-line priv
 In any case, CdrInfo.com preserves the right to review by itself any non-open source advertisement code (non-javascript or non-html banners such as "rich media" like flash, shockwave, java, activeX, etc). In case an advertiser chooses not to conform with this peer reviewed, open code practice, CdrInfo.com can, at any time, terminate any related campaign, at no further advertiser notice, at the sole expenses of the offending advertiser and without any single refund!
 
 |  |  [ **Octave  
-CD DVD Duplicators** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.octave.com%2f)  
+CD DVD Duplicators** ](http://www.octave.com/)  
 ---  
 [ **Primera DVD / CD  
-Duplicators** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.primera.com%2f)  
-[ **Primera Europe, CD / DVD  
-Duplizierer und Drucker** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.primeraeurope.com%2f)  
+Duplicators** ](http://www.primera.com/)  
+[ **Primera Europe CD / DVD  
+Duplizierer und Drucker** ](http://www.primeraeurope.com/)  
 [ **DVD CD Duplicators  
 MF Digital** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.mfdigital.com%2f "MF Digital, industry leader of duplication solutions")  
-[ **CD DVD Duplication  
-ProAction Media** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.proactionmedia.com%2f "ProAction Media, CD and DVD Duplication")  
 [ **Microboards  
 Disc Copiers/Printers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.microboards.com%2f "CD and DVD Copiers and Printers")  
 [ **CD Duplicators  
 DVD Duplicators by Disc Makers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.discmakers.com%2fduplicators "CD Duplicators - DVD Duplicators by Disc Makers")  
-[ **RPA - CD & DVD  
-Duplication Equipment** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.riverproaudio.co.uk%2f "RPA - CD & DVD Duplication Equipment")  
 [ **Blank DVDs  
 from Disc Makers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.discmakers.com%2fshop%2f "Blank DVDs from Disc Makers")  
 [ **AVI to DVD** ](http://www.vso-software.fr/products/convert_x_to_dvd "AVI to DVD")   
-[ **burning software** ](http://www.vso-software.fr/ "burning software")
+[ **burning software** ](http://www.vso-software.fr/ "burning software")  
+[ **CD DVD Duplicators**   
+**by Vinpower** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.vinpowerdigital.com%2f "CD DVD Duplicators by Vinpower")  
+[ **Noble House CD & DVD**   
+**Duplicators/Printers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.noblehousecd.com%2f "Noble House CD & DVD Duplicators/Printers")
