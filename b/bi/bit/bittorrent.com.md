@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2006-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060522234215id_/http%3A//bittorrent.com/privacy.myt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bittorrent.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205191632id_/http%3A//www.bittorrent.com/privacy.html) for the most accurate reproduction.*
 
 # BitTorrent
+
+## _Privacy Policy_
 
 BitTorrent.com, and the other websites and intellectual property and proprietary information associated therewith (the "Sites"), and the various services provided through the Sites (the "Services"), are owned and operated by BitTorrent, Inc., its affiliates and subsidiaries ("we" "us" or "BitTorrent"). BitTorrent is committed to respecting the privacy rights and concerns of all users of our Sites and Services (we refer to the Sites and Services collectively as the "BitTorrent Features"). As such, we have established and implemented this privacy policy to inform visitors to the Sites and users of the Services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy. 
 
 ### What information does BitTorrent collect and how does BitTorrent use it?
 
-  * Gathering and Use of Anonymous Information
-
-Each time a visitor comes to a Site, we collect some limited information that your browser makes available whenever you visit a website to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.
-
-In addition to collecting these types of information, BitTorrent collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the Sites, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but BitTorrent will not disclose your individual identity or personal data without your permission.
-
+  * Gathering and Use of Anonymous Information  
+  
+Each time a visitor comes to a Site, we collect some limited information that your browser makes available whenever you visit a website to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.  
+  
+In addition to collecting these types of information, BitTorrent collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our sites (e.g. tracking where traffic comes from, how traffic flows within the Sites, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but BitTorrent will not disclose your individual identity or personal data without your permission.  
+  
 In the event that you provide us with answers to voluntary survey questions, we may present this information to our advertisers and partners, in the form of grouped statistics compiled from our users' answers to such questions. 
-
-  * Gathering and Use of Personally Identifiable Information
-
-You may visit the BitTorrent Features without any registration at all. However, from time to time, we may enable certain additional functionality to the BitTorrent Features, whereby you will have to create a user account. When you register and create an account, we may require you to provide us your contact information including your name, address, phone number and e-mail address, and other demographic information (such as date of birth, gender, age and interests) from time to time. Your user name and password will be used so you can securely access and maintain your account. BitTorrent may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to its members and visitors improved content and features.
-
-We may use the information we collect to tailor your experience through the BitTorrent Features by displaying content according to your interests and preferences, providing a faster method for you to access your account and submit information to us, sending you information about us and promotional material from some of our partners, and allowing us to contact you, if necessary.
-
-By registering for the BitTorrent Features, when applicable, you agree to receive e-mails from us from time to time. We may use the information we collect to occasionally notify you about important functionality changes to the BitTorrent Features, new products and services available through the BitTorrent Features, and special offers we think you'll find valuable.
-
+  * Gathering and Use of Personally Identifiable Information  
+  
+You may visit the BitTorrent Features without any registration at all. However, from time to time, we may enable certain additional functionality to the BitTorrent Features, whereby you will have to create a user account. When you register and create an account, we may require you to provide us your contact information including your name, address, phone number and e-mail address, and other demographic information (such as date of birth, gender, age and interests) from time to time. Your user name and password will be used so you can securely access and maintain your account. BitTorrent may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to its members and visitors improved content and features.  
+  
+We may use the information we collect to tailor your experience through the BitTorrent Features by displaying content according to your interests and preferences, providing a faster method for you to access your account and submit information to us, sending you information about us and promotional material from some of our partners, and allowing us to contact you, if necessary.  
+  
+By registering for the BitTorrent Features, when applicable, you agree to receive e-mails from us from time to time. We may use the information we collect to occasionally notify you about important functionality changes to the BitTorrent Features, new products and services available through the BitTorrent Features, and special offers we think you'll find valuable.  
+  
 Notwithstanding any other term of this Privacy Policy, we may release any personal information we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety. 
-
 
 
 
