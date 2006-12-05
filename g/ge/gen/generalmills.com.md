@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generalmills.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615185020id_/http%3A//www.generalmills.com/corporate/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generalmills.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205205325id_/http%3A//www.generalmills.com/corporate/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # General Mills: Privacy
 
@@ -79,7 +79,7 @@ We reserve the right to change or replace this Privacy Policy at our sole discre
 
 ### Your consent to the terms of this Privacy Policy
 
-Your consent to the terms of this Privacy Policy By using this website, you signify your assent to all of the terms of this Privacy Policy and our [ Terms of Use](https://web.archive.org/web/20060615185020id_/http%3A//www.generalmills.com/corporate/legal/legal.aspx). If you do not agree with any term of this Privacy Policy or our [Terms of Use](https://web.archive.org/web/20060615185020id_/http%3A//www.generalmills.com/corporate/legal/legal.aspx), please do not use this site or submit any personally identifiable information. 
+Your consent to the terms of this Privacy Policy By using this website, you signify your assent to all of the terms of this Privacy Policy and our [ Terms of Use](https://web.archive.org/web/20061205205325id_/http%3A//www.generalmills.com/corporate/legal/legal.aspx). If you do not agree with any term of this Privacy Policy or our [Terms of Use](https://web.archive.org/web/20061205205325id_/http%3A//www.generalmills.com/corporate/legal/legal.aspx), please do not use this site or submit any personally identifiable information. 
 
 ### How to contact us
 
