@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romancestuck.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623103526id_/http%3A//www.romancestuck.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancestuck.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232025id_/http%3A//www.romancestuck.com/privacy.htm) for the most accurate reproduction.*
 
 # RomanceStuck Privacy Policy
 
@@ -18,4 +18,12 @@ For privacy policies for other **RomanceStuck** services offered via other compa
 
 **UNDER NO CIRCUMSTANCES WILL ROMANCESTUCK SHARE YOUR EMAIL ADDRESS WITH A THIRD PARTY.**
 
-If you have any questions, about this privacy statement, our online practices, or your dealings with our web sites, you can contact: [webmaster.com](mailto:webmaster.com)
+If you have any questions, about this privacy statement, our online practices, or your dealings with our web sites, you can contact: [webmaster@romancestuck.com](http://www.romancestuck.com/contactus.php)
+
+[](http://www.digg.com/submit?phase=2&url=http://www.romancestuck.com/privacy.htm) [Digg this page](http://www.digg.com/submit?phase=2&url=http://www.romancestuck.com/privacy.htm)
+
+ Email this Page   
+ Print this Page   
+ Bookmark this Page   
+[](http://www.romancestuck.com/phpBB2/index.php) [Discuss this Page](http://www.romancestuck.com/phpBB2/index.php)   
+[](http://www.romancestuck.com/submit-ideas.htm) [Submit your ideas](http://www.romancestuck.com/submit-ideas.htm)
