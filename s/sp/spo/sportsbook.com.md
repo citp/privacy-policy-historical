@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305013227id_/http%3A//www.sportsbook.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231903id_/http%3A//sportsbook.com/info/privacy.php) for the most accurate reproduction.*
 
-# Casino, Online Casino, Gambling, Bet, Sportsbook
+# Privacy Statement
 
-Sportsbook.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.sportsbook.com.
+|   
+---|---  
+  
+Sportsbook.com, The Largest Sportsbook and Casino on the Planet, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.sportsbook.com.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. When placing a wager, or logging onto our secure server, your IP address is tracked against your user id for the dual purposes of preventing fraud, and creating an audit trail. This information is not used or accessed for any other purpose. 
 
@@ -21,7 +24,7 @@ Our online surveys ask visitors for contact information (like their email addres
 
 We run contests on our site in which we ask visitors for contact information (like their email address).
 
-**Security**
+### Security
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
@@ -29,40 +32,24 @@ Our user database is stored on a remote offsite server, in a secured database. I
 
 Personal information is submitted using high security 128bit encryption. Any wagers or transactions being performed on the database are done using high security 128bit encryption. 
 
-**Children's Guidelines**  
-
-
-www.sportsbook.com does:1\. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
-
-2\. NOT collect personally identifiable offline contact information without prior parental consent
-
-3\. NOT distribute to third parties any personally identifiable information with out prior parental consent
-
-4\. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent
-
-5\. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
-
-**Choice/Opt-Out  
-**Sportsbook.com 
+### Choice/Opt-Out  
+Sportsbook.com
 
 Only provides users the opportunity to opt-out of receiving communications from us.
 
-Sportsbook.com gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+Sportsbook.com gives users the following option for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-1\. You can send email to majordomo@sportsbook.com com with the words: "unsubscribe sportsbook-list" in the body of the message.
+1\. You can visit the following URL: <http://www.sportsbook.com/list/> and enter the e-mail address you want to remove from our list
 
-2\. You can visit the following URL: http://www.sportsbook.com/list/ 
+### Correct/Update
 
-**Correct/Update**   
 This site gives users the following options for changing and modifying information previously provided. 
 
-1\. email support@sportsbook.com  
+1\. email [support@Sportsbook.com](mailto:support@Sportsbook.com)  
 2\. call the following telephone number: 1.800.996.5152
 
-**Contacting the Web Site  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+### Contacting the Web Site
 
-Internet Opportunity Entertainment Ltd  
-St. Johns, Antigua, West Indies  
-[privacy@sportsbook.com](mailto:privacy@sportsbook.com)  
-1.800.632.6088
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  
+[privacy@Sportsbook.com](mailto:privacy@Sportsbook.com)  
+1.800.632.6088 
