@@ -1,28 +1,15 @@
-> *The following text is extracted and transformed from the wordreference.com privacy policy that was archived on 2005-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051123050350id_/http%3A//www.wordreference.com/english/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordreference.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205185045id_/http%3A//www.wordreference.com/english/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # WordReference.com Privacy Policy
 
-i | 
-
-**  
-Word  
-Reference  
-.com**
-
-[Home](https://web.archive.org/web/20051123050350id_/http%3A//www.wordreference.com/index.htm) [  
-FAQ](https://web.archive.org/web/20051123050350id_/http%3A//www.wordreference.com/english/FAQ.htm)  
-[About Us  
-](https://web.archive.org/web/20051123050350id_/http%3A//www.wordreference.com/english/Privacy%20Policy.htm)
-
-| a | 
-
+  
 WordReference.com Privacy Policy  
   
-WordReference.com, and its affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
+WordReference.com is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
 
 **Consumer Information    
 **  
-WordReference.com does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, WordReference.com does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by WordReference.com is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers. 
+WordReference.com does not collect any personally identifiable information about you such as name, address, phone number.  E-mails are only used if you register as a member of the forums. However, WordReference.com does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by WordReference.com is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers. 
 
 In some cases, we will also collect information on your preferred target language for translations.  This is only used for making the site easier to use and possibly ad targeting.
 
@@ -34,4 +21,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 **  
 WordReference.com, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. WordReference.com cannot use these cookies to personally identify you in any way.  If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. If you wish to opt out of the data collection, please refer to the link above or write us at the address below.
 
-If you have any additional questions about WordReference.com's dedication to consumer privacy, please search for and then ask your question in the [WordReference language forums](http://forum.wordreference.com/).
+If you have any additional questions about WordReference.com's dedication to consumer privacy, please write the site administrator through the "Contact Us" form in the [WordReference language forums](http://forum.wordreference.com/).
