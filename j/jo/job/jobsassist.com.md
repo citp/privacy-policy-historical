@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsassist.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203350id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsassist.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221350id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,21 +23,14 @@
 > 
 > Protecting your privacy is one of our highest priorities, but as with all Web sites, ours may be vulnerable to service interruptions, intentional attacks, or other events that may compromise the security of our site and the information contained therein (including that which you provide). Accordingly, by submitting such information, you acknowledge and agree that VyomWorld.com is not responsible for any direct or consequential damages that may result from such events. 
 > 
-> If you have any questions about this privacy statement, the practices of this site, or your dealings with the Webmaster-Affiliates.net Web site, please contact us at [support@vyomworld.com](mailto:support@vyomworld.com). 
+> If you have any questions about this privacy statement, the practices of this site, or your dealings with the www.VyomWorld.com Web site, please contact us at [support@vyomworld.com](mailto:support@vyomworld.com). 
 
   
 
 
-| **Download Cool Waterfall Screensaver to your Desktop**  
----  
-  
-| **Tranquil Falls - Peaceful Waterfall ScreenSaver for your Desktop  
-  
-**Bring peace to your desktop. Waterfalls don't get more zen than this - as the waters descend, a ladybug wanders and a leaf drifts.Includes soundtrack of nature's own music.Only available at Screensavers.com - and yours free for download!  
-  
-**[Part Time Jobs - For Students, Freshers, Experienced & Housewives!](http://www.jobsassist.com/hyip.html)**
+**[Looking for Job? Upload your resume here for MAXIMUM Exposure!](http://www.vyomworld.com/go/redir.asp?adv=1007)**
 
   
   
-  
-
+|   
+---|---
