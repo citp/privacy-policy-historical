@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comptia.org privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626060850id_/http%3A//comptia.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comptia.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205201345id_/http%3A//www.comptia.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # The Computing Technology Industry Association
 
@@ -7,11 +7,11 @@
 
 **CompTIA's Commitment To Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. We never collect or maintain information at our Web site from those we actually know are under the age of 13, and no part of our Web site is structured to attract anyone under the age of 13.   
-How To Access or Update Your Information
+**  
+How To Access or Update Your Information**  
+You can access or change your personal information that we collect online and maintain. To do this, log in to the member's area of the site with your corporate ID number and password. If you cannot remember your corporate ID or password, [contact us](mailto:loginquestions@comptia.org). 
 
-You can access or change your personal information that we collect online and maintain. To do this, login to the member's area of the site with your corporate ID number and password. If you cannot remember you corporate ID or password, [contact us](mailto:loginquestions@comptia.org). 
-
-The Information We Collect   
+**The Information We Collect**   
 This notice applies to all information collected or submitted on our Web site. On some pages, you can order products, services, make requests, apply for membership, participate in surveys, or register for events, seminars or conferences. The types of personal information collected at these pages may include: 
 
   * Name,
@@ -46,7 +46,7 @@ Finally, we use non-identifying and aggregate information to better design our W
 To the extent that you submit or otherwise provide information on our Web site for the purpose of registering for any event, seminar or conference, such information (other than any credit/debit card information) may be shared with other attendees, sponsors and/or exhibitors at such event, seminar or conference for networking and other promotional purposes. Such information may be used or publicly disclosed by such attendees, sponsors and exhibitors in their discretion. We do not control the use or disclosure of such information by such attendees, sponsors and exhibitors. 
 
 **Opt-Out Policy**  
-If you would like to opt-out of the sharing of your personally identifiable information submitted on our Web site with third parties, contact us and indicate your unwillingness to share such information with third parties. 
+If you would like to opt-out of the sharing of your personally identifiable information submitted on our Web site with third parties, [contact us](mailto:loginquestions@comptia.org) and indicate your unwillingness to share such information with third parties. 
 
 If you would like to opt-out of receiving any direct marketing information from us, [contact us](mailto:loginquestions@comptia.org) and indicate that you do not consent to the use by CompTIA of your personally identifiable information for marketing purposes.
 
