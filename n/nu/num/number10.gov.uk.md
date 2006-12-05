@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615082807id_/http%3A//www.number10.gov.uk/output/Page52.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193705id_/http%3A//www.number10.gov.uk/output/Page52.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
