@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everestpoker.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629031135id_/http%3A//everestpoker.com/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everestpoker.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203430id_/http%3A//everestpoker.com/en/policies/privacy.html) for the most accurate reproduction.*
 
-# Everest Poker is the best online poker room for European, Asian, and US high stakes and free play poker
+# Everest Poker is the best online poker room for European and Asian high stakes and free play poker
 
 Privacy Policy
 
