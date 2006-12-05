@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reporo.com privacy policy that was archived on 2006-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060611005638id_/http%3A//www.reporo.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reporo.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222354id_/http%3A//www.reporo.com/privacy.jsp) for the most accurate reproduction.*
 
-# Reporo - - Shop on your mobile - - Privacy policy -
+# Reporo - - Text and Chat for FREE, for Ever - - Privacy policy -
 
 ### Privacy Policy
 
