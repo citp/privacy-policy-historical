@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visajourney.com privacy policy that was archived on 2005-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051211065539id_/http%3A//www.visajourney.com/forums/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visajourney.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000629id_/http%3A//www.visajourney.com/forums/index.php%3Fautocom%3Dcustom%26page%3Dprivacy) for the most accurate reproduction.*
 
-# VisaJourney.com : Marriage and Family Immigration to the USA (K Visa)
+# VisaJourney.com -> Privacy Policy
 
 **VisaJourney.com Privacy Policy  
 ****
@@ -8,7 +8,7 @@
 Information Collection and Use
 
 **  
-VisaJourney.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from that disclosed in this statement. VisaJourney.com collects information from members at several different points on our website.  
+VisaJourney.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from that disclosed in this statement and in the [Terms of Service](http://www.visajourney.com/forums/index.php?autocom=custom&page=terms). VisaJourney.com collects information from members at several different points on our website.  
 **  
 Registration**  
 In order to use this website, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide some information (such as demographic information) but encouraged in order that we may provide a more personalized experience on our site. 
@@ -43,4 +43,8 @@ Your personally identifiable information is always accessible by you and can be 
 **Notification of Changes**  
 Notification of changes to our privacy policy are sent to members by way of email announcements. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. During registration members are permitted to opt-out of administrator mailings. Should you choose not to receive these announcements, VisaJourney.com can not be held responsible for notifying you of any changes made to this policy.
 
- _last updated: 2/29/04_ ****
+ _last updated: 2/29/04_ ****  
+  
+Custom Pages v2.0.0 © Copyright 2006 Michael Corcoran.
+
+[](http://www.invisionboard.com/) © 2006  IPS, Inc. 
