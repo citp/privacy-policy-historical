@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the givex.com privacy policy that was archived on 2006-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060529184656id_/http%3A//web.givex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givex.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213252id_/http%3A//web.givex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Givex Corporation
 
-[](http://server.iad.liveperson.net/hc/6458418/?cmd=file&file=visitorWantsToChat&site=6458418&byhref=1&imageUrl=http://web.givex.com/images/lp "Chat with Us Live")
+[](http://server.iad.liveperson.net/hc/6458418/?cmd=file&file=visitorWantsToChat&site=6458418&byhref=1&imageUrl=http://web.givex.com/images/lp)
+
+    
+
+  *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   * 
 
  
 
 | 
 
-by [admin](http://web.givex.com/author/admin) —  last modified  2006-02-03 08:47 
+by [admin](http://web.givex.com/author/admin) —  last modified  2006-10-25 10:59 
 
 **YOUR CONSENT TO THIS PRIVACY POLICY**
 
