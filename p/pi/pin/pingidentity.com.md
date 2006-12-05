@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingidentity.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621082431id_/http%3A//www.pingidentity.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingidentity.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206003939id_/http%3A//www.pingidentity.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ping Identity Corporation
 
