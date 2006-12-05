@@ -1,38 +1,68 @@
-> *The following text is extracted and transformed from the frappr.com privacy policy that was archived on 2005-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051214204855id_/http%3A//www.frappr.com/%3Fa%3Ddoc%26section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frappr.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224339id_/http%3A//www.frappr.com/%3Fa%3Ddoc%26section%3Dprivacy) for the most accurate reproduction.*
 
-# Frappr!
+# Frappr Maps
 
-| 1.|  **About Frappr and the Information We Collect**  
-Frappr is an online mapping tool used to show where a group's members currently are. Frappr does not collect any information on the site for the purpose of selling to third parties. All information entered into the site is used exclusively for Frappr's purpose of displaying the zip code location of a group's members.  
+  
+  
+---  
+  
+| **Privacy Policy**  
+---  
+| 1.| Privacy Policy  
+---|---  
+2.| What We Collect  
+3.| How We Use Your Information  
+4.| Controlling Your Personal Information  
+5.| Transfer of Information  
+6.| Other's Information  
+7.| Cookies  
+8.| Other Companies' Privacy Policies  
+9.| Security  
+10.| Additional Questions  
+| 1.|  **Privacy Policy**  
+Welcome to Frappr!, a service operated by Rising Concepts LLC (hereinafter referred to as "Frappr!") which includes Frappr! software, content, related documentation, information on the Frappr! domain, and information made available by users to each other through the Frappr! software (collectively, the "Service"). Your privacy is important to us and as described in this Privacy Policy, we have designed the Service to protect information about you from unauthorized disclosure to others. This Privacy Policy explains how we collect, use and, in certain circumstances, share your personal identifying information when you use the Service, whether on our website or through a tool on someone else's website. Please read this Privacy Policy carefully, and if you have any questions, feel free to contact us. 
+
+From time to time, we may update the Privacy Policy and we will post a notice of significant changes on the website www.Frappr!.com. By using the Service, you explicitly consent to the collection and use of your personal information as outlined in this Privacy Policy, including any such amendments. You should visit this page periodically to review any changes to the Privacy Policy.   
+  
 ---|---  
  |    
-2.|  **Information Collected by Frappr**  
-Frappr collects user-submitted information for the purpose of displaying the locations of a group's members. Frappr also collects information that is not personally identifiable and not submitted directly by users, such as browser type and IP address. This information is gathered for all users to the site.  
+2.|  **What We Collect**  
+When you register to become a member of Frappr!, we collect your name, email address and other personal information that you submit. As part of your personal profile, you may choose to make available to us additional personal information such as gender, age, occupation, hobbies, interests, zip code, etc., as well as other content, such as blogs (web logs), titles in your media library and photos. It is entirely up to you whether you want to submit this additional information, and whether you would like to make it available to other members. The Service allows Admins of a Frappr! Group to choose not to list their Group in the directory by going to "Settings" and selecting the appropriate option. However, Frappr! has no responsibility for how people who are allowed to view your personal information or content use that material. 
+
+When you invite new members into your Group or send messages through the Frappr! service, we collect and maintain on secure servers the information associated with those messages, including email addresses and content. In addition, we collect certain non-personally identifiable information and certain technical information about your computer, such as such as browser type and IP address. 
+
+Finally, in order to provide the best possible service and to allow us to make certain reports on web casting of images, we collect aggregate information about your use of the Service.   
+  
  |    
-3.|  **Use of Information Obtained by Frappr**  
-Frappr collects user-submitted information for the purpose of displaying the locations of a group's members. We use server, IP and browser type for site administration.  
+3.|  **How We Use Your Information**  
+We make your profile and other user information (other than your email address and password) available to other users. If you are in a Group, your Group Admin may restrict access to certain information by adjusting the privacy settings set as part of your/your Group's profile. Your user name will be identified to us and to any recipient of messages you send through the Service. We also use your name, email address and other information on our system to notify you of new product releases, service notifications, content that may be of interest, and solicit your feedback and input. If you use Frappr! to access and/or modify an account you may have with another service provider, any information you enter (such as usernames) will be used solely in the course of accessing that account, or allowing such modification, and will not be saved in your publicly available profile. 
+
+You understand and agree that we may access, preserve, and disclose your personal information and the contents of your account if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to avoid liability, to comply with legal process, such as a search warrant, subpoena, statute, or court order, or to protect our rights and property, or that of our affiliates or the public. Frappr! may also delete certain content in whole or in part if Frappr! determines, in its sole discretion, that such content constitutes an "Infringing Posting" or a "Prohibited Posting" as defined in our [Terms of Use](http://www.frappr.com/?a=doc&section=tou). 
+
+We also use non-personally identifiable information and certain technical information about your computer in order to operate, maintain and manage the Service.   
+  
  |    
-4.|  **Spam Policy**  
-Email addresses will never be sold to anyone, and they will not be used for spam or any other purpose outside of the site itself.  
+4.|  **Controlling Your Personal Information**  
+As with any internet service, you should use care when disclosing your personal information to strangers. Be advised that if you send messages or post material containing personal information, that information may be collected and used by others. You can edit your profile and other information at any time through the Frappr! Software.. 
+
+You can terminate your account at any time which will remove your profile and other personal information from view. Frappr!, however, may (but is not obligated to) keep information about you that is on its system following your termination. Contact Frappr! to terminate your account or for any other questions about your personal information.   
+  
  |    
-5.|  **How can I control the privacy of my Frappr Site?**  
-Admins of a Group may choose to make their Group unbrowsable by going to .Edit Groups. and selecting the appropriate option.  
+5.|  **Transfer of Information**  
+We reserve the right to transfer your personal information in the event of a transfer of ownership of Frappr!, such as acquisition by or merger with another company.  
  |    
-6.|  **Links**  
-This site may contain links to other websites. Frappr is not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.  
+6.|  **Other's Information**  
+If you invite another person to join Frappr!, we will ask for that person's name and email address. We use this information to contact and, if necessary, remind that person that he or she has been invited to join Frappr!. All invitees are provided with the option not to receive further invitations from Frappr!. We may disclose such information if required to do so in order to comply with valid legal process, as described above.  
  |    
-7.|  **Use of Cookies**  
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the users close the browser. We do not and will not use cookies to collect private information from any user.  
+7.|  **Cookies**  
+We send "cookies" to your computer and use such cookies as described here. A cookie is a piece of data that identifies you as a unique user. We use cookies to improve the quality of our service and make the service easier to use for our members. In order to provide you a seamless experience during a particular login session, we store information about that session in cookies.  
  |    
-8.|  **Changing Information**  
-Frappr users may modify a Group.s information at any time by logging into their account. Information will be updated immediately and old information will never be displayed to any user of the site.  
+8.|  **Other Companies' Privacy Policies**  
+Frappr! may contain links to other web sites, including websites operated by affiliates of Frappr!. These other sites maintain their own policies regarding cookies and the collection and use of personal information. It is up to you to review those policies yourself. In addition, the Frappr! website may contain .gadgets. or other software provided by other companies (including affiliates of Frappr!). Before you use those gadgets or other software, it is up to you to review the associated policies yourself.  
  |    
-9.|  **Third Party Advertising**  
-Advertisements that appear on this web site are delivered to users by our advertising partners. Our advertising partners may set cookies. Doing this allows the advertising network to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising network to deliver targeted advertisements that they believe will be of most interest to you. Frappr does not have access to or control of the cookies that may be placed by the third party advertising servers of ad networks. This privacy statement covers the use of cookies by Frappr and does not cover the use of cookies by any of its advertisers.  
+9.|  **Security**  
+We use industry standard security measures to protect your information so that it is not made available to unauthorized parties. If you have any questions regarding which measures and techniques we use, feel free to contact us. You should be aware, however, that Frappr! cannot guarantee that third parties will not acquire unauthorized access to your information. You should read our [Terms of Use](http://www.frappr.com/?a=doc&section=tou) regarding the limitations on Frappr!'s obligations.  
  |    
-10.|  **Changes in Our Privacy Policy**  
-We reserve the right to change our privacy policy at any time. If we do this, we will post the changes on our web site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we are going to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users by placing a notice on our site or via e-mail.  
- |    
-11.|  **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please [contact us](mailto:contact@risingconcepts.com).  
+10.|  **Additional Questions**  
+Again, feel free to contact us by sending an email to [Webmaster@Frappr.com](mailto:Webmaster@Frappr.com), any time, if you have further questions about Frappr! and/or its privacy policies.  
  |  
