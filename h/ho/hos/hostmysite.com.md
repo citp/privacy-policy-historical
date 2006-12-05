@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the hostmysite.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615211557id_/http%3A//hostmysite.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmysite.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213256id_/http%3A//hostmysite.com/privacypolicy) for the most accurate reproduction.*
 
-# HostMySite.com -- Web Hosting Services from $8.95/mo
-
-  
-
+# HostMySite.com -- Web Hosting Services from $2.95/mo
 
 The following policy dictates the manner in which HostMySite collects and uses information gathered from users of this (each, a "User").
 
