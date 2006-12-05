@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the womenontheirway.com privacy policy that was archived on 2006-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060409193041id_/http%3A//www.wyndham.com/privacystatement/info.wnt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenontheirway.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205200618id_/http%3A//www.wyndham.com/privacystatement/info.wnt) for the most accurate reproduction.*
 
 # Wyndham Hotels & Resorts - Privacy Policy
 
 ---  
-Wyndham Worldwide Privacy Policy   
+Wyndham Hotels and Resorts, LLC Privacy Policy   
   
-This site is owned and operated by Wyndham Worldwide. Here at Wyndham Worldwide, we recognize that many visitors to our Site are concerned about both the information they provide to us and how we treat that information. So we've developed the Privacy Policy described below. We may update or change the Privacy Policy from time to time, so please check in occasionally. 
+This site is owned and operated by Wyndham Hotels and Resorts, LLC. Here at Wyndham Hotels and Resorts, LLC, we recognize that many visitors to our Site are concerned about both the information they provide to us and how we treat that information. So we've developed the Privacy Policy described below. We may update or change the Privacy Policy from time to time, so please check in occasionally. 
 
-If you have any questions about our Privacy Policy, you can contact us at: Wyndham Worldwide 
+If you have any questions about our Privacy Policy, you can contact us at: Wyndham Hotels and Resorts, LLC 
 
 **1950 Stemmons Freeway  
 Suite 6001   
@@ -18,7 +18,7 @@ Attention: Corporate-Legal Department
 Our office is open from 9 a.m. - 5 p.m. Central Time, Monday through Friday. Please feel free to e-mail us anytime at webmaster@wyndham.com. We'll be happy to answer your questions or hear your concerns.   
   
 Our Policy   
-Wyndham Worldwide respects the privacy of every individual who visits our Site or responds to our interactive advertisements. At our Site, we don't collect personally identifiable information from individuals unless he or she provides it to us voluntarily and knowingly. 
+Wyndham Hotels and Resorts, LLC respects the privacy of every individual who visits our Site or responds to our interactive advertisements. At our Site, we don't collect personally identifiable information from individuals unless he or she provides it to us voluntarily and knowingly. 
 
 We don't require you to register or provide information to us in order to view our Site.   
   
@@ -42,7 +42,7 @@ We use personally identifiable information supplied by you ONLY as follows:
   
 **You may "opt out" at any time.**
 
-You may notify Wyndham at any time that you no longer wish to receive Marketing opportunities. You may do so by writing to Wyndham at Wyndham Worldwide, 1950 Stemmons Freeway Suite 6001, Dallas, Texas 75207, Attention: Marketing/eCommerce Dept: Email Removal. Or you may telephone Wyndham at 1-866-850-3070 , or email [ customerservice@wyndham.com](mailto:customerservice@wyndham.com) with a request to " remove."   
+You may notify Wyndham at any time that you no longer wish to receive Marketing opportunities. You may do so by writing to Wyndham at Wyndham Hotels and Resorts, LLC, 1950 Stemmons Freeway Suite 6001, Dallas, Texas 75207, Attention: Marketing/eCommerce Dept: Email Removal. Or you may telephone Wyndham at 1-866-850-3070 , or email [ customerservice@wyndham.com](mailto:customerservice@wyndham.com) with a request to " remove."   
   
 **We limit third party access to personally identifiable information.**
 
