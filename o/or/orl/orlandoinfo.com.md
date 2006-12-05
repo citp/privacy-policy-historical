@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orlandoinfo.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615202804id_/http%3A//orlandoinfo.com/other/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orlandoinfo.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205191102id_/http%3A//orlandoinfo.com/other/privacy) for the most accurate reproduction.*
 
 # Orlando Travel & Visitors Bureau - Orlando Florida Vacation - Dining, Hotels, & Attractions
 
@@ -42,7 +42,7 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 **Children**
 
-Orlandoinfo.com does not knowingly collect Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe that orlandoinfo.com has Personally Identifiable Information about anyone under the age of 13, please contact us at [_feedback@orlandocvb.com_](https://web.archive.org/web/20060615202804id_/http://orlandoinfo.com/other/privacy/feedback@orlandocvb.com).
+Orlandoinfo.com does not knowingly collect Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe that orlandoinfo.com has Personally Identifiable Information about anyone under the age of 13, please contact us at [_feedback@orlandocvb.com_](https://web.archive.org/web/20061205191102id_/http://www.orlandoinfo.com/other/privacy/feedback@orlandocvb.com).
 
 **Changes to Our Privacy Policy**
 
