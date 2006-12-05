@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the ittoolbox.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203700id_/http%3A//www.ittoolbox.com/privacy/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ittoolbox.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224829id_/http%3A//www.ittoolbox.com/privacy/privacy_policy.asp) for the most accurate reproduction.*
 
-# ITtoolbox Privacy Policy
+# ITtoolbox - Privacy Policy
 
-  
 We at ITtoolbox know you take your privacy seriously. Information about our users is an important part of our business and it is necessary that we collect certain information if users wish to utilize advanced ITtoolbox features. We are not in the business of selling user information to others. We share information only as described below.  
   
 **What this Privacy Policy Covers**  
@@ -12,7 +11,7 @@ This privacy policy covers our treatment of personally identifiable information 
 ITtoolbox is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this privacy statement.  
   
 **Creating an ITtoolbox User ID**  
-ITtoolbox enables members to create ITtoolbox User IDs, which allows them to control their personal information and whether it should be made public or private. This also allows members to identify themselves with their contributions to any ITtoolbox Web site and to manage their ITtoolbox e-mail-based subscriptions. During registration, a member is required to provide his or her contact information (such as name, e-mail address, state, country, and zip code), as well as some basic demographic information (such as role, title, business focus/industry, company size, purchasing influence, and company revenue). By doing so, we can provide a more personalized experience on our site. Once you register with ITtoolbox and sign in to our services, you are no longer anonymous to ITtoolbox administrators.  
+ITtoolbox enables members to create ITtoolbox User IDs, which allows them to control their personal information and whether it should be made public or private. This also allows members to identify themselves with their contributions to any ITtoolbox Web site and to manage their ITtoolbox e-mail-based subscriptions. During registration, a member is required to provide his or her contact information (such as name, e-mail address, state, country, and zip code), as well as some basis demographic information (such as role, title, business focus/industry, company size, purchasing influence, and company revenue). By doing so, we can provide a more personalized experience on our site. Once you register with ITtoolbox and sign in to our services, you are no longer anonymous to ITtoolbox administrators.  
   
 **Cookies**  
 A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cookies that ITtoolbox creates that are stored on the user’s hard drive do not store any personally identifiable information.  
