@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615002219id_/http%3A//sfgate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfgate.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205222534id_/http%3A//www.sfgate.com/pages/privacy) for the most accurate reproduction.*
 
 # SFGate: Privacy Policy
 
@@ -19,7 +19,7 @@ We may also from time to time make our customer lists available for direct marke
 
 Please review this policy for changes from time to time, and contact us if you have any questions.
 
-This policy was last updated on May 17, 2005.
+This policy was last updated on November 9, 2006.
 
 **TOPICS THIS STATEMENT COVERS**  
 ---  
@@ -61,7 +61,7 @@ The Chronicle requires registration for these features on SFGate.com:
 * Email Alerts (classified ads meeting your search criteria, emailed to you) 
 * Email Newsletters 
 * JobFair resume uploads 
-* We recommend but do not currently require registration to place a WebAd or OnSale ad. 
+* We recommend but do not currently require registration to place a WebAd. 
 
 The SFGate.com registration form requires users to provide an email address, year of birth, gender and zip code, and requests other information, such as name, address and phone number. 
 
@@ -88,7 +88,7 @@ Our web sites use order forms when customers purchase services from us. We colle
 
 Any financial information provided by users is sent via a secure server and encrypted for user protection. The Chronicle does not store or retain credit card numbers after a purchase has been completed. The Chronicle uses the industry standard SSL security protocol to encrypt all information you submit. While no system can be guaranteed to be 100% secure, this protocol is designed to ensure that sensitive data, such as credit card numbers, addresses, phone numbers, etc. can not be read or intercepted in transit. 
 
-**WebAds and OnSale ads:** SFGate's online-only classified ads require contact information in all cases and credit card information when the ad is not free. 
+**WebAds:** SFGate's online-only classified ads require contact information in all cases and credit card information when the ad is not free. 
 
 Ads require: 
 
@@ -96,7 +96,7 @@ Contact Info: In order to process your web-only ad, we require your name, addres
 
 Ad information: Any information that you include in the text of your ad will be seen by the public. SFGate has no control over how this information is used by readers of SFGate. For that reason, please think carefully about the type of personal information you include in the text of your ad. 
 
-Credit Card Info: Credit Card transactions for The Chronicle WebAd and OnSale ads are processed by Verisign. Neither SFGate nor Verisign retain your credit card information. Please see the [Verisign privacy policy](http://www.verisign.com/truste/index.html) for more information on how they handle privacy issues. 
+Credit Card Info: Credit Card transactions for The Chronicle's WebAd ads are processed by Verisign. Neither SFGate nor Verisign retain your credit card information. Please see the [Verisign privacy policy](http://www.verisign.com/truste/index.html) for more information on how they handle privacy issues. 
 
 **FEEDBACK FORMS**:  
 The Chronicle features an online [feedback page](https://web.archive.org/feedback) to assist users in directing their feedback to the correct party. 
@@ -129,14 +129,14 @@ We run contests on our site in which we ask visitors for contact information (li
 **CLASSIFIEDS:**  
 The following terms apply to certain areas in the classified ad pages:
 
-1\. WebAds and OnSale ads  
-WebAds are online-only classified ads. When you place a WebAd, we require your contact information in all cases and your credit card billing information in cases where your ad is not free. OnSale ads appear next to articles and require contact information and billing information. 
+1\. WebAds  
+WebAds are online-only classified ads. When you place a WebAd, we require your contact information in all cases and your credit card billing information in cases where your ad is not free. 
 
 > Contact Info: In order to process your ad, we require your name, address, city, state, zip, phone number and email address. We will only use this contact information to contact you regarding your ad. This information will be kept private and will not be sold to any third party. 
 > 
 > Ad info: Any information that you include in the text of your ad will be seen by the public. The Chronicle has no control over how this information is used our readers. For that reason, please think carefully about the type of personal information you include in the text of your ad. 
 > 
-> Credit Card Info: Credit Card transactions for The Chronicle WebAds and OnSale ads are processed by Verisign. Neither The Chronicle nor Verisign retain your credit card information. Please see the [Verisign privacy policy](http://www.verisign.com/truste/index.html) for more information on how they handle privacy issues. 
+> Credit Card Info: Credit Card transactions for The Chronicle WebAds ads are processed by Verisign. Neither The Chronicle nor Verisign retain your credit card information. Please see the [Verisign privacy policy](http://www.verisign.com/truste/index.html) for more information on how they handle privacy issues. 
 > 
 > Photos: When placing a WebAd, you will have the option of inserting photos into your ad. Photo hosting and processing is managed by Internet Pictures Corporation (iPix). These photos will only be displayed in your ad and will not be used for any other purpose. 
 
@@ -163,17 +163,11 @@ Third party web sites may appear in a new window, or they may appear in a frame.
 
     
 
-**Advariant:**  
-Advariant allows The Chronicle advertisers to create their own banner advertisements to run on The Chronicle web sites. For more information on this service, please see [this page](http://mm0.advariant.com/mm/index.jsp?affiliate=sfgate). For the Advariant privacy policy, please see [this page](http://mm0.advariant.com/mm/OutsidePrivacy.jsp;jsessionid=aaa4NQ3tT6rC5m?affiliate=amazingmedia&uid=notLoggedIn). 
-
 **AllBusiness:**  
 AllBusiness provides information for small businesses. They are featured on the SFGate [Business page](https://web.archive.org/business/). Please see their [privacy page](http://www.allbusiness.com/include/privacy.asp). 
 
 **Astrology 3D:**  
 Astrology 3D provides Horoscope information to our users. Their privacy policy can be found [here](http://astrology3d.com/sfgate/privacy.html). 
-
-**Bank Rate Monitor:**  
-Bank Rate Monitor provides financial information. Their privacy policy is located [here](http://www.bankrate.com/coinfo/privacy.asp).
 
 **CareerSite:**  
 CareerSite (a.k.a. NowHiring.com) posts recruitment classifieds. Job Seekers can create resumes and cover letters and apply to jobs. Employers can place online-only jobs and review applicant resumes. View the CareerSite [Privacy Policy](http://www.nowhiring.com/employer/privacy.html). 
@@ -181,10 +175,10 @@ CareerSite (a.k.a. NowHiring.com) posts recruitment classifieds. Job Seekers can
 **Chronicle Books:**  
 Chronicle Books, along with SFGate.com, was previously owned by the Chronicle Publishing Company, but is no longer owned by the San Francisco Chronicle. For more information, please go [here](https://www.chroniclebooks.com/help/).
 
-**DoubleClick:**  
-DoubleClick is a service we use to display advertising on our web sites.
+**Open Ad Stream:**  
+Open Ad Stream is a service provied by 24/7 Real Media we use to display advertising on our web sites.
 
-DoubleClick's Privacy Policy is located [here](http://www.doubleclick.com/us/about_doubleclick/privacy/). However, please note that their policy discusses issues which may not apply to SFGate. SFGate will always disclose our policies for collecting individual information and will allow our users to opt-out of having that information collected. DoubleClick does use cookies in order to serve ads. You can opt-out of having DoubleClick cookies set on your browser. Information on how to do this is located [here](http://www.doubleclick.com/us/about_doubleclick/privacy/).
+24/7 Real Media's Privacy Policy is located [here](http://www.247realmedia.com/privacy.html). However, please note that their policy discusses issues which may not apply to SFGate. SFGate will always disclose our policies for collecting individual information and will allow our users to opt-out of having that information collected. 24/7 Real Media does use cookies in order to serve ads.
 
 **eNature:**  
 eNature provides a service where you can enter your zip code and email address to receive information about wildlife in your area. As a default, you will be subscribed to receive newsletters and offers from eNature. You can opt of of this selection when you submit your information. The information you submit will go directly to eNature and will not be stored by The Chronicle. It will be used in accordance with the [eNature privacy policy](http://www.enature.com/about/privacy.asp). 
@@ -193,7 +187,7 @@ eNature provides a service where you can enter your zip code and email address t
 Financial content provides stock information for web sites of The Chronicle. Users can search for quote information, and can also set up accounts to manage their portfolios. Information related to managing portfolios is stored by Financial Content and not by The Chronicle. Please see the Financial Content [privacy policy](http://www.financialcontent.com/web/privacy.html) for more information. 
 
 **Gabriels:**  
-Gabriels Technology Solutions hosts online Real Estate listings for The Chronicle. You can sign up for email alerts, in order to receive notification of Real Estate listings. Your name and email address are required. 
+Gabriels Technology Solutions hosts online Real Estate and Automotive listings for The Chronicle. You can sign up for email alerts, in order to receive notification of Real Estate and Auto listings. Your name and email address are required. 
 
 **Great Schools:**  
 Great schools offers information about schools. Some content is free and some requires a subscription. Please see their [privacy policy](http://sfgate.greatschools.net/cgi-bin/static/privacy.inc/CA). 
@@ -225,9 +219,6 @@ Roundpoint provides a service that allows users to download San Francisco Chroni
 **Salary.com:**  
 Salary.com provides employment information. You may be asked for personally identifiable information if you choose to use certain Salary.com features. Please see the Salary.com [Privacy Policy](http://sfgatejobs.salary.com/salarywizard/docs/salwizhtmls/privacy_policy.html). **Stubhub:**  
 Stubhub allows users to purchase tickets for events. [More information on this service](http://sfgate.stubhub.com/). Stubhub's [privacy policy](http://sfgate.stubhub.com/?gSec=help&gAct=general&helpSec=privacy_policy). 
-
-**Ticketmaster:**  
-Ticketmaster is a Chronicle/SFGate partner for the Chronicle Extra Access program. The Ticketmaster privacy policy is located [here](http://www.ticketmaster.com/h/privacy.html?pagefrom=hm_h_e1). 
 
 **Travidia:**  
 Travidia hosts the [PersonalShopper](http://personalshopper.sfgate.com/) service for SFGate. If you save a PersonalShopper email alert, the information is stored on the SFGate web site. If you set a location preference, there will be a cookie set on your computer to remember the preference. 
