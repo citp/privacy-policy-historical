@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canoekayak.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210120id_/https%3A//media.primediamags.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canoekayak.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205205700id_/https%3A//media.primediamags.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Primedia Consumer Privacy Policy
 
