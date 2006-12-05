@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game.co.uk privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623010431id_/http%3A//www.game.co.uk/help/firsttime.aspx%23privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206001603id_/http%3A//www.game.co.uk/help/firsttime.aspx%23privacystatement) for the most accurate reproduction.*
 
 # GAME: First Time
 
@@ -27,7 +27,7 @@ Your order history and profile
 
 We will never collect sensitive information about you without your explicit consent.
 
-The information we hold will be accurate and up to date. You can check the information that we hold about you by contacting our [Customer Services](https://web.archive.org/web/20060623010431id_/http%3A//www.game.co.uk/help/help/CustService.aspx) department.
+The information we hold will be accurate and up to date. You can check the information that we hold about you by contacting our [Customer Services](https://web.archive.org/web/20061206001603id_/http%3A//www.game.co.uk/help/help/CustService.aspx) department.
 
 If you find any inaccuracies we will delete or correct them.
 
@@ -41,7 +41,7 @@ We currently partner with Mad4Games Ltd in order to supply mobile games, they ar
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. Should you wish to browse anonymously please contact us and request a link that we can send you to exclude you from web tracking. 
 
-If you have any questions/ comments about privacy, you should contact our [Customer Services](https://web.archive.org/web/20060623010431id_/http%3A//www.game.co.uk/help/help/CustService.aspx) department. If you contact us for details of existing information that we hold about you it is important that you quote your original email address, as used at the time you first contacted us. We may be unable to trace your details without this.  
+If you have any questions/ comments about privacy, you should contact our [Customer Services](https://web.archive.org/web/20061206001603id_/http%3A//www.game.co.uk/help/help/CustService.aspx) department. If you contact us for details of existing information that we hold about you it is important that you quote your original email address, as used at the time you first contacted us. We may be unable to trace your details without this.  
 
 
 ## SECURE SHOPPING
