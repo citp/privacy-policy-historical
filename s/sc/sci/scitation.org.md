@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scitation.org privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231125753id_/http%3A//www.aip.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scitation.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204643id_/http%3A//www.aip.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - American Institute of Physics
 
@@ -19,7 +19,7 @@ Notice to EU Users: The server for www.aip.org is located in the United States. 
 
 ## How collected information is used 
 
-The primary purpose of gathering information is to allow AIP to link a name and contact information to a user ID or browsing experience. Once you have provided appropriate information, you will be enabled to use a variety of products or personalized services, and to access online help or support. AIP has a policy to use or sell its customer lists only for the delivery of information deemed of potential relevance or interest to members of the physics community. AIP offers an option to remove your information from any list that might be sold or given to another organization. 
+The primary purpose of gathering information is to allow AIP to link a name and contact information to a user ID or browsing experience. Once you have provided appropriate information, you will be enabled to use a variety of products or personalized services, and to access online help or support. AIP has a policy to use or sell its customer lists only for the delivery of information deemed of potential relevance or interest to members of the physics community. AIP offers an option to remove your information from any list that might be sold or given to another organization. To do so, please contact the appropriate [AIP department](http://www.aip.org/aip/staff.jsp) with which the list is associated.
 
 ## How we work to keep information secure
 
@@ -35,15 +35,19 @@ A cookie is a piece of data stored on the user's hard drive that sometimes links
 
 ## Disclosure of aggregated and other information
 
-We use IP addresses and other user information to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. We may share aggregated (i.e., non-individual) demographic information with our partners and advertisers. We use one or more outside credit card processing companies to bill users for goods and services and we will disclose your personally identifiable information to these companies as needed to process your orders and to respond to your requests
+We use IP addresses and other user information to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. We may share aggregated (i.e., non-individual) demographic information with our partners and advertisers. We use one or more outside credit card processing companies to bill users for goods and services and we will disclose your personally identifiable information to these companies as needed to process your orders and to respond to your requests.
 
 ## Links
 
-AIP sites contains links to other sites, and other sites have links to AIP. Please be aware that AIP is not responsible for the privacy practices (or other practices, goods, services, or content) of other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each web site that collects personally identifiable information. This privacy statement applies solely to information collected by AIP. 
+AIP sites contain links to other sites, and other sites have links to AIP. Please be aware that AIP is not responsible for the privacy practices (or other practices, goods, services, or content) of other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each web site that collects personally identifiable information. This privacy statement applies solely to information collected by AIP. 
 
 ##  Discussion forums 
 
 Users who participate in AIP online forums or discussions may have their messages or postings edited for size and/or content. Submissions to such forums explicitly grant such editorial rights to AIP staff who reserve the right to remove inappropriate submissions. By participating in an online forum or discussion, you consent to our use or disclosure of any content you submit.
+
+## Protection of Children's Personal Information
+
+AIP sites are general audience sites and do not knowingly collect any personal information from children. 
 
 ##  Notification of changes 
 
