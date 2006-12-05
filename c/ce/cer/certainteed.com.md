@@ -1,16 +1,11 @@
-> *The following text is extracted and transformed from the certainteed.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220810id_/http%3A//www.certainteed.com/certainteed/undefined/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certainteed.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205193100id_/http%3A//www.certainteed.com/certainteed/undefined/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-|       | | [ROOFING](https://web.archive.org/CertainTeed/Undefined/Roofing/)| [INSULATION](https://web.archive.org/CertainTeed/Undefined/Insulation/)| [SIDING](https://web.archive.org/CertainTeed/Undefined/Siding/)| [WINDOWS](https://web.archive.org/CertainTeed/Undefined/Windows/)| [FOUNDATIONS](https://web.archive.org/CertainTeed/Undefined/Foundations/)| [FENCE/RAILING/DECK](https://web.archive.org/CertainTeed/Undefined/FenceDeckRail/)| [PIPE](https://web.archive.org/CertainTeed/Undefined/Pipe/)|         
----|---|---|---|---|---|---|---|---|---  
-|  |  |    
-  
----  
-  
-[](http://team.certainteed.com/)  
-  
-|   
+|       | | | [ROOFING](https://web.archive.org/CertainTeed/Undefined/Roofing/)| | [VINYL SIDING](https://web.archive.org/CertainTeed/Undefined/Siding/)| | [FIBER CEMENT SIDING](https://web.archive.org/CertainTeed/Undefined/FiberCementSiding/)| | [WINDOWS](https://web.archive.org/CertainTeed/Undefined/Windows/default.htm)| | [PIPE](https://web.archive.org/CertainTeed/Undefined/Pipe/)| | [FOUNDATIONS](https://web.archive.org/CertainTeed/Undefined/Foundations/)|         
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+      | | | [INSULATION](https://web.archive.org/CertainTeed/Undefined/Insulation/)| | [FENCE/RAILING/DECK](https://web.archive.org/CertainTeed/Undefined/FenceDeckRail/)| | [MILLWORK](https://web.archive.org/CertainTeed/Undefined/Millwork/)| | [WALLS](https://web.archive.org/CertainTeed/Undefined/Walls/)| | [CEILINGS](https://web.archive.org/CertainTeed/Undefined/Ceilings/)| |  |         
+|  |   
 ---  
   
   
