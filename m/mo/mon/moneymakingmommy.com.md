@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2006-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060612224049id_/http%3A//www.moneymakingmommy.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225430id_/http%3A//www.moneymakingmommy.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
   
-Privacy Policy Statement
+PRIVACY POLICY STATEMENT
 
 | 
 
@@ -12,14 +12,14 @@ _Online Media Center_
 ---  
   
   
-Read more about MoneyMakingMommy and it's owner Kelly Land in our Online Media Center. [ _Click Here_](https://web.archive.org/web/20060612224049id_/http%3A//www.moneymakingmommy.com/media-room/index.htm)
+Read more about MoneyMakingMommy and it's owner Kelly Land in our Online Media Center. [ _Click Here_](https://web.archive.org/web/20061205225430id_/http%3A//www.moneymakingmommy.com/media-room/index.htm)
 
 Thank you for visiting MoneyMakingMommy.com.
 
 Looking for a customized advertising campaign with us?  
 Feel free to 
 
-[ _contact us_](https://web.archive.org/web/20060612224049id_/http%3A//www.moneymakingmommy.com/contact.htm) to discuss your needs.   
+[ _contact us_](https://web.archive.org/web/20061205225430id_/http%3A//www.moneymakingmommy.com/contact.htm) to discuss your needs.   
   
 This is the web site of ** MoneyMakingMommy.com, Inc**.
 
@@ -27,7 +27,7 @@ Our postal address is
 **PO Box 2128**  
 **Weaverville, NC 28787**
 
-We can be reached via e-mail at staff*moneymakingmommy.com  
+We can be reached via e-mail at: [_Contact Form_](https://web.archive.org/web/20061205225430id_/http%3A//www.moneymakingmommy.com/contact.htm)  
 or you can reach us by telephone at 800-836-5675
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
@@ -62,7 +62,8 @@ If you feel that this site is not following its stated information policy, you m
 
 By visiting MoneyMakingMommy.com, it's understood that your have read both our disclaimer and our privacy policy. Thank you. 
 
-Additional Information 
+  
+ADDITIONAL INFORMATION 
 
 We provide a disclaimer as well. You may view it at the following link:   
 [ http://www.moneymakingmommy.com/disclaimer.htm](http://www.moneymakingmommy.com/disclaimer.htm)
