@@ -1,480 +1,251 @@
-<!--The following is the downloaded HTML source of the olivetree.com privacy policy that was archived on 2006-03-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060313144542id_/http%3A//www.olivetree.com/store/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the olivetree.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205213319id_/http%3A//www.olivetree.com/store/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.-->
 
 <html><head>
-<title>
-Olive Tree Bible Software
- :: Support 
-</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Olive Tree Bible Software - Privacy Statement</title>
 <meta name="description" content="NIV, Olive Tree Bible Software for Palm, PocketPC, Smartphone, Blackberry and Symbian , Windows CE and Handspring Visor Devices and PDA's. electronic bible, handheld bible software, microsoft reader bible, smartphone">
-<meta name="keywords" content="NIV palm, NIV pocket bible, NIV pocket pc, NIV, NKJV, NASB, bible software, bible reader, bible search, bible study software, smartphone, electronic bible, handheld bible software, microsoft reader bible, online bible, Smartphone, Blackberry and Symbian, palm bible, palm bible reader, palm bible software, palm os, palm os program, palm os software, pc bible, pda bible, pda bible software, pocket pc bible, web bible, window ce software">
-
-
-<link rel="stylesheet" href="/store/skin1/skin1.css">
-<script language="JavaScript1.3" src="/store/skin1/copybilling.js"></script>
-</head>
-<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
-
-<script type="text/javascript" language="JavaScript 1.2">
+<meta name="keywords" content="NIV palm, NIV pocket bible, NIV pocket pc, NIV, NKJV, NASB, bible software, bible reader, bible search, bible study software, smartphone, electronic bible, handheld bible software, microsoft reader bible, online bible, Smartphone, Blackberry and Symbian ,
+palm bible, palm bible reader, palm bible software, palm os, palm os program, palm os software, pc bible, pda bible, pda bible software, pocket pc bible, web bible,
+window ce software.">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
 <!--
-
-//
-// Enviroment identificator
-//
-var localIsDOM = document.getElementById?true:false;
-var localIsJava = navigator.javaEnabled();
-var localIsStrict = document.compatMode=='CSS1Compat';
-var localPlatform = navigator.platform;
-var localVersion = "0";
-var localBrowser = "";
-if(window.opera && localIsDOM) {
-	localBrowser = "Opera";
-	if(navigator.userAgent.search(/^.*Opera.([\d.]+).*$/) != -1)
-		localVersion = navigator.userAgent.replace(/^.*Opera.([\d.]+).*$/, "$1");
-	else if(window.print)
-		localVersion = "6";
-	else
-		localVersion = "5";
-} else if(document.all && document.all.item)
-	localBrowser = 'MSIE';
-if(navigator.appName=="Netscape") {
-	if(!localIsDOM) {
-		localBrowser = 'Netscape';
-		localVersion = navigator.userAgent.replace(/^.*Mozilla.([\d.]+).*$/, "$1");
-		if(localVersion != '')
-			localVersion = "4";
-	} else if(navigator.userAgent.indexOf("Safari") >= 0)
-		localBrowser = 'Safari';
-	else if(navigator.userAgent.indexOf("Netscape") >= 0)
-		localBrowser = 'Netscape';
-	else if(navigator.userAgent.indexOf("Firefox") >= 0)
-		localBrowser = 'Firefox';
-	else 
-		localBrowser = 'Mozilla';
-	
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
 }
-if(navigator.userAgent.indexOf("MSMSGS") >= 0)
-	localBrowser = "WMessenger";
-else if(navigator.userAgent.indexOf("e2dk") >= 0)
-	localBrowser = "Edonkey";
-else if(navigator.userAgent.indexOf("Gnutella") + navigator.userAgent.indexOf("Gnucleus") >= 0)
-	localBrowser = "Gnutella";
-else if(navigator.userAgent.indexOf("KazaaClient") >= 0)
-	localBrowser = "Kazaa";
-
-if(localVersion == '0' && localBrowser != '') {
-	var rg = new RegExp("^.*"+localBrowser+".([\\d.]+).*$");
-	localVersion = navigator.userAgent.replace(rg, "$1");
-}
-var localIsCookie = ((localBrowser == 'Netscape' && localVersion == '4')?(document.cookie != ''):navigator.cookieEnabled);
-
-//
-// Opener/Closer HTML block
-//
-function visibleBox(id,skipOpenClose) {
-	elm1 = document.getElementById("open"+id);
-	elm2 = document.getElementById("close"+id);
-	elm3 = document.getElementById("box"+id);
-
-	if(!elm3)
-		return false;
-
-	if (skipOpenClose) {
-		elm3.style.display = (elm3.style.display == "")?"none":"";
-	} else if(elm1) {
-		if (elm1.style.display == "") {
-			elm1.style.display = "none";
-			if(elm2)
-				elm2.style.display = "";
-			elm3.style.display = "none";
-		} else {
-			elm1.style.display = "";
-			if(elm2)
-				elm2.style.display = "none";
-			elm3.style.display = "";
-		}
-	}
-}
-
-//
-// URL encode
-//
-function urlEncode(url) {
-	return url.replace(/\s/g, "+").replace(/&/, "&amp;").replace(/"/, "&quot;")
-}
-
-//
-// Substitute
-//
-function substitute(lbl) {
-var x, rg;
-	for(x = 1; x < arguments.length; x+=2) {
-		if(arguments[x] && arguments[x+1]) {
-			rg = new RegExp("\\{\\{"+arguments[x]+"\\}\\}", "gi");
-			lbl = lbl.replace(rg,  arguments[x+1]);
-			rg = new RegExp('~~'+arguments[x]+'~~', "gi");
-			lbl = lbl.replace(rg,  arguments[x+1]);
-		}
-	}
-	return lbl;
-}
-
--->
+MM_reloadPage(true);
+// -->
 </script>
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
-  <tbody><tr>
-    <td valign="top">
-<table style="background-image:url(/images/Logo_Header.jpg); background-repeat:no-repeat;" border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr> 
-		<td align="left" colspan="10" height="70">&nbsp;
-			
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+
+<!-- Header table with logo and byline -->
+<!--sphider_noindex-->
+<table width="800" border="0" cellpadding="0" cellspacing="0" summary="Header Table">
+	<tbody><tr class="logo">
+		<td height="91" valign="top">&nbsp;
+			<a href="/" target="_parent">
+				<img style="border-style:none;position:absolute;top:0px;left:0px;" border="0" width="254" height="76" src="/images/Logo_new.gif" alt="Olive Tree Bible Software">
+			</a>
+			<div id="main_navigation_bar">
+				<div id="main_navigation_link"><a href="/bible/" target="_parent">Online Bible Search</a></div>
+				<div id="main_navigation_link">|</div>
+				<div id="main_navigation_link"><a href="/help/" target="_parent">Support</a></div>
+				<div id="main_navigation_link">|</div>
+				<div id="main_navigation_link"><a href="/store/secure_login.php" target="_parent">My Account</a></div>
+			</div>
 		</td>
 	</tr>
-	<tr align="right">
-		<td width="415" height="20">&nbsp;</td>
-						<td id="Home" class="Tab" style="background-image:url(/store/skin1/images/tab1.gif); cursor:pointer;" onclick="window.location='http://www.olivetree.com';" onmouseover="window.status='http://www.olivetree.com';">
-	<b><span class="TabText"><a href="http://www.olivetree.com">Home</a></span></b>
-</td>
-<td width="1"><img src="/store/skin1/images/spacer.gif" width="1"></td>
-								<td id="Checkout" class="Tab" style="background-image:url(/store/skin1/images/tab1.gif); cursor:pointer;" onclick="window.location='cart.php';" onmouseover="window.status='cart.php';">
-	<b><span class="TabText"><a href="cart.php">Checkout</a></span></b>
-</td>
-<td width="1"><img src="/store/skin1/images/spacer.gif" width="1"></td>
-												<td id="Support" class="Tab" style="background-image:url(/store/skin1/images/tab1.gif); cursor:pointer;" onclick="window.location='http://www.olivetree.com/help/';" onmouseover="window.status='http://www.olivetree.com/help/';">
-	<b><span class="TabText"><a href="http://www.olivetree.com/help/">Support</a></span></b>
-</td>
-<td width="1"><img src="/store/skin1/images/spacer.gif" width="1"></td>
-								<td id="Login" class="Tab" style="background-image:url(/store/skin1/images/tab1.gif); cursor:pointer;" onclick="window.location='http://www.olivetree.com/store/secure_login.php';" onmouseover="window.status='http://www.olivetree.com/store/secure_login.php';">
-	<b><span class="TabText"><a href="http://www.olivetree.com/store/secure_login.php">Login</a></span></b>
-</td>
-<td width="1"><img src="/store/skin1/images/spacer.gif" width="1"></td>
-						<td height="20">&nbsp;</td>
+</tbody></table>
+<!--/sphider_noindex-->
+
+<!-- Navigation bar table -->
+<!--sphider_noindex-->
+<table width="800" height="22" border="0" cellpadding="0" cellspacing="0" summary="Navigation Bar Table">
+	<tbody><tr class="nav_bar"> 
+		<td class="navlink"><a href="/store/catalog/English-Bibles-p-1-c-262.html" target="_parent">Bibles</a></td>
+		<td class="navlink_divider">|</td>
+		<td class="navlink"><a href="/store/catalog/Bible-Study-Tools-p-1-c-261.html" target="_parent">&nbsp;Study Tools</a></td>
+		<td class="navlink_divider">|</td>
+		<td class="navlink"><a href="/store/catalog2/Bundles-p-1-c-260.html" target="_parent">&nbsp;Collections</a></td>
+		<td class="navlink_divider">|</td>
+		<td class="navlink"><a href="/store/catalog/Academic-Resources-p-1-c-278.html" target="_parent">Academic</a></td>
+		<td class="navlink_divider">|</td>
+		<td class="navlink"><a href="/store/catalog/Daily-Devotionals-p-1-c-267.html" target="_parent">Devotionals</a></td>
+		<td class="navlink_divider">|</td>
+		<td class="navlink"><a href="/store/catalog/eBooks-p-1-c-269.html" target="_parent">Christian eBooks</a></td>
+		<td class="navlink_divider">|</td>
+		<td class="navlink"><a href="/store/catalog/Free-Downloads-p-1-c-265.html" target="_parent">Free Items</a></td>
+	</tr>
+</tbody></table>
+<!--/sphider_noindex-->
+<div id="main">
+
+<!-- Title Table -->
+
+	<table width="800" border="0" cellspacing="0" cellpadding="5" summary="Title Table">
+		<tbody><tr>
+			<td>
+				<h1 id="title">Privacy Statement</h1>
+				<hr>
+			</td>
+		</tr>
+	</tbody></table>
+
+<!-- Main Body Table -->
+
+	<table width="800" border="0" cellpadding="5" cellspacing="0" summary="Main Body Table">		
+		<tbody><tr>
+			<!-- Image on the lefts side of the main body -->
+			
+			<td class="press_nav" valign="top">
+			
+				<!-- Press Navigation Links -->
+				<!--sphider_noindex-->
+<div class="link_box">
+	<h2>Customer Support</h2>
+	<span class="link"><a href="/help/">Contact Form</a></span><br>
+	<span class="link"><a href="/help/kb/">Knowledge Base/FAQs</a></span><br>
+	<span class="link"><a href="/help/manuals/">Manuals</a></span><br>
+	<span class="link"><a href="/download/">Downloads</a></span><br><br>
+	
+	<span class="link"><a href="/help/formatting.php">Formatting Notes</a></span><br><br>
+	
+	<span class="link"><a href="/help/terms.php">Terms / EULA</a></span><br>
+	<span class="link"><a href="/help/privacy.php">Privacy Statement</a></span><br>
+</div>
+<!--<div class="link_box">
+	<h2>BibleReader Manuals</h2>
+	<div align="center" style="background-color:#ffffcc;text-align:center;margin:0px;"><span class="link" style="color:red;margin:0px;"><b>NEW!!</b></span></div>
+	<span class="link"><b>Palm OS</b></span><br>
+	<span class="link">&nbsp;&nbsp;<a href="/help/manuals/html/palm/" target="_blank">HTML</a></span>
+	<span class="link">&nbsp;&nbsp;PDF <i>(coming)</i></span><br>
+	<br>
+	<span class="link"><b>PocketPC</b></span><br>
+	<span class="link">&nbsp;&nbsp;<a href="/help/manuals/html/ppc/" target="_blank">HTML</a></span>
+	<span class="link">&nbsp;&nbsp;PDF <i>(coming)</i></span><br>
+</div>-->
+
+<!--/sphider_noindex-->				
+			</td>
+						
+			
+			
+			<!-- Links on the right side of the main body -->
+			
+			<td style="line-height:20px;" valign="top">
+				
+				
+				
+					<h2>Online Privacy and Credit Card Protection Policy</h2>
+					<p>
+						At Olive Tree Bible Software we want you to feel safe and secure when you provide us 
+						with your personal information online. For this reason we use Secure Socket 
+						Layer (SSL) technology to encrypt your credit card and other sensitive information 
+						when you make product purchases or request technical assistance. The process 
+						of encryption prevents unauthorized individuals from viewing your information 
+						as it is securely transmitted over the internet. Once received, your credit 
+						card information is not transmitted over the internet again. Even with the 
+						very best protection policies and safeguard procedures in place, there is 
+						always the remote possibility of fraud. If you believe unauthorized use of 
+						your credit information has occurred, follow the <a href="http://www.ftc.gov/bcp/conline/pubs/credit/atmcard.htm">reporting 
+						procedures</a> defined by your credit card's issuing bank and contact us immediately. 
+						Most credit card companies cover all charges that result form unauthorized 
+						use of your credit card or may limit your liability to $50.
+					</p>
+					
+					<p>
+						Our store is very secure. At checkout you can see the little gold lock is closed and that 
+						indicates SSL is being used for the transaction. SSL is short for Secure Sockets Layer, a protocol 
+						developed by Netscape for transmitting private documents via the Internet. SSL works by using 
+						a public key to encrypt data that is transferred over the SSL connection. Both Netscape Navigator 
+						and Internet Explorer support SSL, and many Websites use the protocol to protect confidential user 
+						information, such as credit card numbers. By convention, URLs that require an SSL connection start 
+						with https: instead of http:
+					</p>
+					
+					<h2>OUR COMMITMENT TO PRIVACY</h2>
+					
+					<p>
+						Your privacy is important to us. To better protect your privacy we provide this 
+						notice explaining our online information practices and the choices you can 
+						make about the way your information is collected and used. It applies to all 
+						information you submit, such as your name, address, e-mail address, telephone 
+						number and credit card number. We use the information you provide when placing 
+						an order to complete that order, and when assisting with support issues. We 
+						do not share this information with outside parties. You can review information 
+						about you that we have collected online and maintain by writing us at <a href="mailto:support@olivetree.com">support@olivetree.com</a>. 
+						You can also call to request factual correction in your information. To better 
+						safeguard your information, we will take reasonable steps to verify your identity 
+						before granting access or making corrections.
+					</p>
+					
+					<h2>OUR COMMITMENT TO DATA SECURITY</h2>
+					
+					<p>
+						To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use 
+						of information, we have put in place appropriate physical, electronic, and 
+						managerial procedures to safeguard and secure the information we collect online. 
+					</p>
+					
+					<h2>CONTACTING OLIVE TREE BIBLE SOFTWARE</h2>
+					
+					<p>
+						Please note that whenever you submit any information to us in connection with any 
+						OliveTree.com related services, you consent to Olive Tree Bible Software's 
+						processing of this information in the United States as necessary to provide 
+						the services in which you are participating. If you have any questions, comments, 
+						criticisms, or complaints about OliveTree.com's privacy policy and/or the 
+						way it affects you, please feel free to <a href="mailto:support@olivetree.com">email 
+						us</a>.
+					</p>
+				
+				
+				
+			</td>
+		</tr>
+	</tbody></table>
+				
+</div>
+
+
+<!-- Footer table contains copyright information -->
+<!--sphider_noindex-->
+<!-- suggest script -->
+<style type="text/css">@import url("/search/include/js_suggest/SuggestFramework.css");</style>
+<script type="text/javascript" src="/search/include/js_suggest/SuggestFramework.js"></script>
+<script type="text/javascript">window.onload = initializeSuggestFramework;</script>
+<!-- /suggest script -->
+
+<table width="800" border="0" cellpadding="5" cellspacing="0" summary="Footer Table">
+ 	<tbody><tr>
+		<td style="text-align:center;padding-bottom:0px;">
+			<form action="/search/search.php" method="get">
+				<table border="0" cellpadding="0" cellspacing="5" summary="Search Fields">
+					<tbody><tr>
+						<td><input style="font-size:10px;height:20px;" type="text" name="query" id="query" size="30" value="" action="/search/include/js_suggest/suggest.php" columns="2" autocomplete="off" delay="500"><br><div id="querySuggestList" class="SuggestFramework_List" style="position: absolute; z-index: 1; width: 187px; overflow-wrap: break-word; cursor: default; display: none;"></div></td>
+						<td><input style="height:20px;" type="submit" value="Search"><input type="hidden" name="search" value="1"></td>
+					</tr>
+				</tbody></table>
+			</form>
+		</td>
+	</tr>
+	<tr>
+		<td class="center" align="center" width="100%" style="font-size:10px;padding-top:0px;">
+			<a href="/">Home</a> 
+			&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/store/catalog/Products-p-1-c-259.html">Products</a>
+			&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/smartphone/">BibleReader</a> 
+			&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/bible/">Online Bible Search</a>
+			&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/help/">Support</a>
+			&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/press/aboutot.php">Company</a>
+			&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a href="/store/secure_login.php">My Account</a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3" class="copyright">Copyright © 1998-2006 Olive Tree Bible Software</td>  
 	</tr>
 </tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr> 
-<td colspan="2" class="VertMenuBorder"><img src="/store/skin1/images/spacer.gif" width="1" height="1" border="0"></td>
-</tr>
-<tr> 
-<td class="HeadLine" style="background-image:url(/store/skin1/images/gradient_headline.gif);" height="22">
-	<span class="subtabs"><a href="http://www.olivetree.com/handheld/Palm/">Palm OS</a></span>
-	<span class="subtabs"><a href="http://www.olivetree.com/handheld/WinCE/">Pocket PC</a></span>
-	<span class="subtabs"><a href="http://www.olivetree.com/smartphone/">Symbian OS</a></span>
-	<span class="subtabs"><a href="http://www.olivetree.com/smartphone/">Smartphone</a></span>
-	<span class="subtabs"><a href="http://www.olivetree.com/smartphone/blackberry/">BlackBerry</a></span>
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+<!--
+_uacct = "UA-369697-1";
+urchinTracker();
+-->
+</script>
 
-</td>
-<td class="HeadLine" style="background-image:url(/store/skin1/images/gradient_headline.gif);" align="right">
-
-&nbsp;
-</td>
-</tr>
-<tr> 
-<td colspan="2" class="VertMenuBorder"><img src="/store/skin1/images/spacer.gif" width="1" height="1" border="0"></td>
-</tr>
-<tr>
-	<td colspan="2" valign="middle" height="10"> <!-- height="32"> -->
-<table cellspacing="0" cellpadding="0" border="0" width="100%"> <!-- height="18"> -->
-<tbody><tr>
-	<td><img src="/store/skin1/images/spacer.gif" border="0" width="1"></td> <!-- height="18"></TD> -->
-</tr>
-</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-<!-- main area -->
-<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
-<tbody><tr>
-<td width="6" rowspan="2">&nbsp;</td>
-<td width="150" valign="top">
- 
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr> 
-<td class="VertMenuBorder"> 
-<table border="0" cellpadding="1" cellspacing="1" width="100%">
-<tbody><tr> 
-<td class="VertMenuTitle" style="background-image:url(/store/skin1/images/gradient_small.gif);">
-<font class="VertMenuBoxNewsTitle">Categories</font>
-</td>
-</tr>
-<tr> 
-<td class="VertMenuBox"> 
- <table border="0" cellpadding="5" cellspacing="0" width="100%">
- <tbody><tr> 
- <td> 
-    
-       
-         <font class="CategoriesList"><a href="home.php?cat=259" class="VertMenuItems">Products</a></font><br> 
-          
-          
-          
-          
-          
-             
-            <font class="SubcategoriesList" size="1">&nbsp;&nbsp;<a href="home.php?cat=262" class="VertMenuItems" style="font-size: xx-small;">English Bibles</a></font><br><font class="SubcategoriesList" size="1">&nbsp;&nbsp;<a href="home.php?cat=278" class="VertMenuItems" style="font-size: xx-small;">Academic Resources</a></font><br><font class="SubcategoriesList" size="1">&nbsp;&nbsp;<a href="home.php?cat=261" class="VertMenuItems" style="font-size: xx-small;">Bible Study Tools</a></font><br><font class="SubcategoriesList" size="1">&nbsp;&nbsp;<a href="home.php?cat=267" class="VertMenuItems" style="font-size: xx-small;">Daily Devotionals</a></font><br><font class="SubcategoriesList" size="1">&nbsp;&nbsp;<a href="home.php?cat=269" class="VertMenuItems" style="font-size: xx-small;">eBooks</a></font><br><font class="SubcategoriesList" size="1">&nbsp;&nbsp;<a href="home.php?cat=260" class="VertMenuItems" style="font-size: xx-small;">Bundles</a></font><br><font class="SubcategoriesList" size="1">&nbsp;&nbsp;<a href="home.php?cat=265" class="VertMenuItems" style="font-size: xx-small;">Free Downloads</a></font><br><font class="SubcategoriesList" size="1">&nbsp;&nbsp;<a href="home.php?cat=266" class="VertMenuItems" style="font-size: xx-small;">Non-English Resources</a></font><br> 
- 
-          
-          
-       
-         <font class="CategoriesList"><a href="home.php?cat=270" class="VertMenuItems">Platforms</a></font><br> 
-          
-          
-          
-          
-          
-             
-            <font class="SubcategoriesList" size="1">&nbsp;&nbsp;<a href="home.php?cat=271" class="VertMenuItems" style="font-size: xx-small;">Palm OS</a></font><br><font class="SubcategoriesList" size="1">&nbsp;&nbsp;<a href="home.php?cat=275" class="VertMenuItems" style="font-size: xx-small;">Pocket PC</a></font><br><font class="SubcategoriesList" size="1">&nbsp;&nbsp;<a href="home.php?cat=273" class="VertMenuItems" style="font-size: xx-small;">Smartphone</a></font><br><font class="SubcategoriesList" size="1">&nbsp;&nbsp;<a href="home.php?cat=276" class="VertMenuItems" style="font-size: xx-small;">Symbian OS</a></font><br><font class="SubcategoriesList" size="1">&nbsp;&nbsp;<a href="home.php?cat=274" class="VertMenuItems" style="font-size: xx-small;">BlackBerry</a></font><br> 
- 
-          
-          
-       
-    
- 
-<br></td></tr>
- </tbody></table>
-</td></tr>
-</tbody></table>
-</td></tr>
-</tbody></table>
-<!--<BR>-->
-<br>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr> 
-<td class="VertMenuBorder"> 
-<table border="0" cellpadding="1" cellspacing="1" width="100%">
-<tbody><tr> 
-<td class="VertMenuTitle" style="background-image:url(/store/skin1/images/gradient_small.gif);">
-<font class="VertMenuBoxNewsTitle">Customer Login</font>
-</td>
-</tr>
-<tr> 
-<td class="VertMenuBox"> 
- <table border="0" cellpadding="5" cellspacing="0" width="100%">
- <tbody><tr> 
- <td><table border="0" cellpadding="0" cellspacing="0" width="100%">
-
-<form action="https://www.olivetree.com/store/include/login.php" method="post" name="authform"></form>
-<input type="hidden" name="xid" value="b888eb9dbce8c16ca6c23d62433cfb3d">
- <tbody><tr>
-<td>
-<a href="https://www.olivetree.com/store/secure_login.php" class="VertMenuItems"><font class="VertMenuItems">Secure login </font></a>
-</td>
-</tr>
- <tr>
-<td height="24" nowrap="" class="VertMenuItems">
-<a href="register.php" class="VertMenuItems"><font class="VertMenuItems">Register </font></a>
-</td>
-</tr>
-<tr>
-<td height="24" nowrap="" class="VertMenuItems">
-<a href="help.php?section=Password_Recovery" class="VertMenuItems">Recover password</a>
-</td>
-</tr>
-
-<tr>
-<td class="VertMenuItems" align="right">
-<br>
-<a href="/store/help.php?section=business&amp;js=y" class="SmallNote">If Javascript is enabled in your browser click here</a>
-</td>
-</tr>
-
-</tbody></table>
-<br></td></tr>
- </tbody></table>
-</td></tr>
-</tbody></table>
-</td></tr>
-</tbody></table>
-
-<!--<BR>-->
-<br>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr> 
-<td class="VertMenuBorder"> 
-<table border="0" cellpadding="1" cellspacing="1" width="100%">
-<tbody><tr> 
-<td class="VertMenuTitle" style="background-image:url(/store/skin1/images/gradient_small.gif);">
-<font class="VertMenuBoxNewsTitle">Your Account</font>
-</td>
-</tr>
-<tr> 
-<td class="VertMenuBox"> 
- <table border="0" cellpadding="5" cellspacing="0" width="100%">
- <tbody><tr> 
- <td><table border="0" cellpadding="1" cellspacing="0">
-<tbody><tr>
-<td rowspan="2" width="23">
-<img border="0" src="/store/skin1/images/cart_empty.gif" width="19" height="16"></td>
-<td class="VertMenuItems"><center><b>Cart is empty</b></center></td>
-</tr>
-<tr>
-<td class="VertMenuItems"></td>
-</tr>
-</tbody></table>
-<hr size="1" noshade="" class="VertMenuHr"><a href="cart.php" class="VertMenuItems">View cart</a><br>
-<a href="cart.php?mode=checkout" class="VertMenuItems">Checkout</a><br>
-<hr size="1" noshade="" class="VertMenuHr">
-
-<br></td></tr>
- </tbody></table>
-</td></tr>
-</tbody></table>
-</td></tr>
-</tbody></table>
-<!--<BR>-->
-<br>
-<!--<BR>-->
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr> 
-<td class="VertMenuBorder"> 
-<table border="0" cellpadding="1" cellspacing="1" width="100%">
-<tbody><tr> 
-<td class="VertMenuTitle" style="background-image:url(/store/skin1/images/gradient_small.gif);">
-<font class="VertMenuBoxNewsTitle">Support</font>
-</td>
-</tr>
-<tr> 
-<td class="VertMenuBox"> 
- <table border="0" cellpadding="5" cellspacing="0" width="100%">
- <tbody><tr> 
- <td><a href="help.php?section=FAQ" class="VertMenuItems">Knowledge Base/FAQs</a><br>
-<a href="help.php?section=contactus" class="VertMenuItems">Contact us</a><br>
-<a href="help.php?section=Password_Recovery" class="VertMenuItems">Recover password</a><br>
-<a href="help.php?section=business" class="VertMenuItems">Privacy statement</a><br>
-<a href="/press/pressroom.htm" class="VertMenuItems">Press Room</a><br>
-<br></td></tr>
- </tbody></table>
-</td></tr>
-</tbody></table>
-</td></tr>
-</tbody></table>
-<!--<BR>-->
-<br>
-<!--- START SCANALERT CODE --->
-<div align="center"><a target="_blank" href="//www.scanalert.com/RatingVerify?ref=www.olivetree.com">
-<img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.olivetree.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;">
-</a> 
-</div>
-<!--- END   SCANALERT CODE --->
-<!--<BR>-->
-<br>
-<img src="/store/skin1/images/spacer.gif" width="150" height="1" border="0">
-</td>
-<td width="20">&nbsp;</td>
-<td valign="top">
-<!-- central space -->
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td align="left">
-<font class="NavigationPath">
-<a href="/store/index.html" class="NavigationPath">Storefront</a>&nbsp;::&nbsp;<a href="help.php" class="NavigationPath">Support </a></font>
-</td>
-<td align="right">
-&nbsp;
-</td></tr></tbody></table>
-<br><br>
+<!--/sphider_noindex-->
 
 
-<h1 align="center">Support </h1>
-<p>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr> 
-<!-- old tag
-<TD height="15" class="DialogTitle" background="/store/skin1/images/dialog_bg_n.gif" valign="bottom">&nbsp;&nbsp;Privacy statement</TD> -->
-<td height="15" class="DialogTitle" valign="bottom" style="background-image:url(/store/skin1/images/gradient_large.gif);">&nbsp;&nbsp;Privacy statement</td></tr>
-
-<tr><td class="DialogBorder"><table border="0" cellpadding="10" cellspacing="1" width="100%">
-<tbody><tr><td class="DialogBox">	<b>Online Privacy and Credit Card Protection Policy</b>
-<br>
-<br>
-
-	At Olive Tree Bible Software we want you to feel safe and secure when you provide us 
-    with your personal information online. For this reason we use Secure Socket 
-    Layer (SSL) technology to encrypt your credit card and other sensitive information 
-    when you make product purchases or request technical assistance. The process 
-    of encryption prevents unauthorized individuals from viewing your information 
-    as it is securely transmitted over the internet. Once received, your credit 
-    card information is not transmitted over the internet again. Even with the 
-    very best protection policies and safeguard procedures in place, there is 
-    always the remote possibility of fraud. If you believe unauthorized use of 
-    your credit information has occurred, follow the <a href="http://www.ftc.gov/bcp/conline/pubs/credit/atmcard.htm">reporting 
-    procedures</a> defined by your credit card's issuing bank and contact us immediately. 
-    Most credit card companies cover all charges that result form unauthorized 
-    use of your credit card or may limit your liability to $50.
-<br><br>
-	Our store is very secure. At checkout 
-    you can see the little gold lock is closed and that indicates SSL is being 
-    used for the transaction.<br>
-	SSL is short for Secure Sockets Layer, a protocol developed by Netscape 
-	for transmitting private documents via the Internet. SSL works by using 
-	a public key to encrypt data that is transferred over the SSL connection. 
-	Both Netscape Navigator and Internet Explorer support SSL, and many Websites 
-	use the protocol to protect confidential user information, such as credit 
-	card numbers. By convention, URLs that require an SSL connection start 
-	with https: instead of http:. 
-<br><br>
-	<b>OUR COMMITMENT TO PRIVACY</b>
-<br><br>
-	Your privacy is important to us. To better protect your privacy we provide this 
-    notice explaining our online information practices and the choices you can 
-    make about the way your information is collected and used. It applies to all 
-    information you submit, such as your name, address, e-mail address, telephone 
-    number and credit card number. We use the information you provide when placing 
-    an order to complete that order, and when assisting with support issues. We 
-    do not share this information with outside parties. You can review information 
-    about you that we have collected online and maintain by writing us at <a href="mailto:support@olivetree.com">support@olivetree.com</a>. 
-    You can also call to request factual correction in your information. To better 
-    safeguard your information, we will take reasonable steps to verify your identity 
-    before granting access or making corrections.
-<br><br>
-	<b>OUR COMMITMENT TO DATA SECURITY</b>
-<br><br>
-	To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use 
-    of information, we have put in place appropriate physical, electronic, and 
-    managerial procedures to safeguard and secure the information we collect online. 
-<br><br>
-	<b>CONTACTING OLIVE TREE BIBLE SOFTWARE</b>
-<br><br>
-	Please note that whenever you submit any information to us in connection with any 
-    OliveTree.com related services, you consent to Olive Tree Bible Software's 
-    processing of this information in the United States as necessary to provide 
-    the services in which you are participating. If you have any questions, comments, 
-    criticisms, or complaints about OliveTree.com's privacy policy and/or the 
-    way it affects you, please feel free to <a href="mailto:support@olivetree.com">email 
-    us</a>.
-
-&nbsp;
-</td></tr>
-</tbody></table></td></tr>
-</tbody></table>
-
-
-<!-- /central space -->
-&nbsp;
-</p></td>
-<td width="20">&nbsp;</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr><td height="100%"><img src="/store/skin1/images/spacer.gif" width="1" height="1"></td></tr>
-<tr>
-<td>
-<table border="0" width="100%" cellpadding="0" cellspacing="0" align="left">
-<tbody><tr><td class="VertMenuBorder"><img src="/store/skin1/images/spacer.gif" width="1" height="1" alt=""><br></td></tr>
-<tr height="22" valign="middle" align="right">
-<td class="Bottom">
-<table border="0" width="100%" cellpadding="0" cellspacing="0"><tbody><tr>
-<td class="Bottom" align="center">Copyright © 1998-2006 Olive Tree Bible Software&nbsp;&nbsp;</td>
-</tr></tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td></tr>
-</tbody></table>
 
 </body></html>
