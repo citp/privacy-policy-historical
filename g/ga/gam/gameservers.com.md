@@ -1,17 +1,20 @@
-> *The following text is extracted and transformed from the gameservers.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616205748id_/http%3A//www.clanservers.com/policy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameservers.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224253id_/http%3A//www.gameservers.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Clan Servers - Game Server Hosting Rental
+# GameServers.com : Privacy Policy
 
-**** Privacy Policy for Clanservers.com
+   
+**Privacy Policy for GameServers.com
 
 Effective Date ___9/2/2005___  
-Last Updated: ___9/20/2005___
+Last Updated: ___5/01/2006___
+
+**
 
 **I. General**
 
 **** A. The operative parties referred to in this policy are COMPANY and you, the user of this site.
 
-1\. Clanservers Hosting, LLC, is the publisher and operator of the web site [www.clanservers.com](http://www.clanservers.com/). Hereinafter referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Clanservers Hosting, LLC. d/b/a [www.clanservers.com](http://www.myniteshift.com/). Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to [www.clanservers.com](http://www.myniteshift.com/).
+1\. ClanServers Hosting, LLC, is the publisher and operator of the web site [www.GameServers.com](http://www.gameservers.com/). Hereinafter referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to ClanServers Hosting, LLC. d/b/a [www.GameServers.com](http://www.myniteshift.com/). Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to [www.GameServers.com](http://www.myniteshift.com/).
 
 2\. **You, the User** – As the user of this site, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the site shall be referred to in applicable second-person pronouns.
 
@@ -21,7 +24,7 @@ B. This Privacy Policy describes how we use information received about you when 
 
 
 
-****The Children’s Online Privacy Protection Act applies to the online collection of personal information from children under the age of 13. Clanservers.com does not collect any personal information about children under the age of 13. Children under the age of 13 are not authorized to access or use our services without the direct involvement of a parent or legal guardian. Personal information about the parent or legal guardian may be collected in accordance with this privacy policy. Any personal information about children under the age of 13 that is inadvertently collected will be purged immediately upon discovery of such information. If you have reason to believe that any personal information about children under the age of 13 has been transmitted to us, immediately send an e-mail to[COPPA@clanservers.com](mailto:COPPA@clanservers.com) reporting this transmittal of information. We will endeavor to purge any such information as soon as possible. If you are a parent or legal guardian of a child under the age of 13 and you have reason to believe that your child has accessed our site in violation of our policies, you should also contact us at [COPPA@clanservers.com](mailto:coppa@clanservers.com) so that we may audit our records in order to remove your child or protectee’s personal information from our records.
+****The Children’s Online Privacy Protection Act applies to the online collection of personal information from children under the age of 13. GameServers.com does not collect any personal information about children under the age of 13. Children under the age of 13 are not authorized to access or use our services without the direct involvement of a parent or legal guardian. Personal information about the parent or legal guardian may be collected in accordance with this privacy policy. Any personal information about children under the age of 13 that is inadvertently collected will be purged immediately upon discovery of such information. If you have reason to believe that any personal information about children under the age of 13 has been transmitted to us, immediately send an e-mail to[COPPA@GameServers.com](mailto:COPPA@gameservers.com) reporting this transmittal of information. We will endeavor to purge any such information as soon as possible. If you are a parent or legal guardian of a child under the age of 13 and you have reason to believe that your child has accessed our site in violation of our policies, you should also contact us at [COPPA@GameServers.com](mailto:coppa@clanservers.com) so that we may audit our records in order to remove your child or protectee’s personal information from our records.
 
 **II. Revisions to this Policy**
 
@@ -43,7 +46,7 @@ D. **Browsers -** Browsers are visitors to the site who never enter into any act
 
 A **. Passive Collection** – We use cookies to collect information about you in order to enhance your experience on the site. The information collected in our cookies includes, but is not limited to, your user IP address, your Guest IDs, your geographic location and other session data.
 
-B. **Active Collection** – we collect information from you when you complete registration forms to sign up for your membership on our Site. Locations for such collection are registration pages, such as https:\www.clanservers.com\order\step2.php but we reserve the right to add additional information collection portals.
+B. **Active Collection** – we collect information from you when you complete registration forms to sign up for your membership on our Site. Locations for such collection are registration pages, such as https:\www.GameServers.com\order\step2.php but we reserve the right to add additional information collection portals.
 
 **V**. **How we use your information**
 
@@ -67,7 +70,7 @@ It is our policy not to use or share the personal information about Visitors or 
 
 **VI.** **Transmittals from Us**
 
-We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting [remove@](mailto:remove@myniteshift.com)cla nservers.com or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account.
+We may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting [remove@](mailto:remove@myniteshift.com)game servers.com or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your account.
 
 If you provide your information to us, use the Site, or subscribe to any of our services, you will have created a commercial relationship with us. In having done so, you understand that even unsolicited commercial email sent from us or our affiliates is not SPAM as that term is defined under the law.
 
@@ -85,8 +88,8 @@ We take measures, including data encryption, to protect the transmission of all 
 
 **VII.** **How to Access or Modify Your Information**.
 
-We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at at http://www.clanservers.com/contact_us/.
+We offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact our Customer Service Department at at http://www.GameServers.com/contact_us/.
 
 **VIII.** **Where to Direct Questions About Our Privacy Policy**.
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us at http://www.clanservers.com/contact_us/.
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us at http://www.GameServers.com/contact_us/.
