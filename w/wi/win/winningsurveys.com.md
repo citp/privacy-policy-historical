@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winningsurveys.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615034550id_/http%3A//www.winningsurveys.com/privacy.cfm%3Fnolinks%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningsurveys.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205204206id_/http%3A//www.winningsurveys.com/privacy.cfm%3Fnolinks%3D1) for the most accurate reproduction.*
 
 # WinningSurveys.com
 
