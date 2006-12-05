@@ -1,54 +1,55 @@
-> *The following text is extracted and transformed from the importers.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604092015id_/http%3A//importers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the importers.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203940id_/http%3A//www.importers.com/privacy.php) for the most accurate reproduction.*
 
-# Importers.com | Connecting Importers and Exporters Around the Globe
-
-  
-
-
-  
-
-
-Join our mailing list and receive information about Importers.com offers, contests, and promotions.  
-
+# Free International Trade Leads
 
 | 
 
-> **PRIVACY STATEMENT**
-> 
-> **Importers.com** is committed to our visitors and to protecting their privacy. We value our visitors and endeavor to create an enjoyable and valuable experience when visiting our network of sites. The following Privacy Policy applies to all visitors to the Importers.com network of sites, and to all referrals made by our visitors.
-> 
-> **What information we collect:**  
->  The Importers.com network of sites currently asks visitors for information in a variety of ways. First, there is a general survey posted that does not require the submission of any personal information. Second, when you enter our contest, we ask for your name, e-mail address, age range, gender, country and zip/postal code to qualify as an entry. Third, we ask general interest questions in our survey questionnaire as a means for visitors to obtain additional entries into the contest.
-> 
-> **How the customer information is used:**  
->  Information collected from the contest entry, survey questions and through any other forum helps us develop the design, content and features of our sites. We may also use the information we collect to email you every now and then about upcoming contests and developments on the sites within our network, or news and/or promotions from our partners. 
-> 
-> **Customer Protection:**  
->  Importers.com takes all measures to provide a safe environment with security procedures in place to ensure proper storage and careful retrieval of information so that nothing improper happens to your personal information while under our control. 
-> 
-> **What we do with your information:**  
->  Your privacy is a very sensitive subject for us and we take it very seriously. So our privacy policy is pretty simple, we will not sell, barter, give away or rent your personal information to any third party outside of Communcate.com, Inc. and its properties. Importers.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third parties, but these statistics will include no personally identifying information.
-> 
-> **Cookies:**  
->  "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information.  
->  We use cookies to store visitor's preferences, record session information, record user specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to the site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
-> 
-> **Contests:**  
->  Importers.com runs contests across the network from time to time. Please refer to the Contest Rules and Regulations for details about each contest.
-> 
-> **Your consent:**  
->  By using our Web site and submitting your information to the Importers.com network, you consent to the collection and use of this information by Importers.com, Inc. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. If you are not comfortable with any of the changes to our Privacy Policy, you will have the opportunity of un-submitting your information from our network at any time.
-> 
-> **Links:**  
->  Some sites within our network contain links to other sites. Importers.com is not responsible for the privacy practices or the content of such Web sites. If you have a question about the privacy policy of those web sites, please visit them directly.
-> 
-> **Contacting us:**  
->  If you have any questions about our Privacy Policy, our site practices, or your personal experience dealing with this web site, you can contact our offices at: 
-> 
-> [Importers.com Inc](http://www.cmnn.com/)  
->  600 - 1100 Melville St.  
->  Vancouver, B.C. Canada  
->  V6E 4A6  
->  Toll Free: 1-800-645-9251  
->  Tel. (604) 648-0552  
->  Fax (604) 681-3490
+At Importers.com, the privacy and confidence of our members is of utmost importance. Importers.com will NOT sell nor lease any contact information - such as address, telephone number, etc. - provided by members. We collect no personal information about you when you visit our site, except that which you choose to provide to us. 
+
+**Security Measures**   
+Business and contact information, along with TradeMail messages sent/received are only accessible to members through Username and Password protected sections. TradeStaff recommend that you do not divulge your password to anyone. Our personnel will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Remember to sign out of your account and close your browser window when you have finished your session. Do NOT provide your Username nor Password to any organization or individual that requests it.
+
+No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secured. As a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us and you do so at your own risk.
+
+**Information Collection and Use**  
+Importers.com is the sole owner of the information collected on this site. Since the purpose of Importers.com is to promote business requirements and offerings, by registering a business, members expressly agree that this information can be published on Importers.com and in Importers.com promotional materials. 
+
+Member business and contact information will be published on Importers.com according to our [Terms of Use](https://web.archive.org/web/20061205203940id_/http%3A//www.importers.com/terms.php). Importers.com shall NOT sell or lease member business or contact information to any other organization for financial or promotional purposes.
+
+Importers.com does reserve the right to cooperate with law enforcement inquires and other third parties to enforce laws, intellectual property and other rights when, in its sole discretion, it believes in good faith such information is required to assist such parties. Importers.com also reserves the right to share business and contact information with Internet Fraud authorities for all BANNED members, without penalty.
+
+**Public Access to Information**   
+Please remember that any information you disclose becomes public information and you should exercise caution when deciding to disclose personally-identifying information. For your security and convenience, the information provided to Importers.com will be made available to Users in a controlled manner, according to our [Terms of Use](https://web.archive.org/web/20061205203940id_/http%3A//www.importers.com/terms.php). Only Premium and Client Members can view contact information for members.
+
+FREE Listed Members are ONLY permitted to provide contact information in the sections designated for contact information. Listed Members that put contact information in their TradeProfile, TradeProducts and/or TradeLeads may be "NOT Listed", Restricted and/or BANNED. 
+
+|    
+| 
+
+TradeSuccess  
+  
+---  
+|  |   
+  
+---|---  
+  
+  
+Premium Members get **up to 50 times more** email inquiries than Free Members. 
+
+**Want more contacts?**
+
+[](http://www.importers.com/membership.php)  
+  
+  
+
+
+TradeServices  
+  
+---  
+|  **SC Britcom System SRL**  
+---  
+[](https://web.archive.org/Exporter/ID.147354/SC_Britcom_System_SRL.html)  
+Up to 75% Off Top Quality ‘As New’ domestic appliances. We sell prestigious named brands such as Kenwood, Tefal, Krups,...   
+  
+[ ](https://web.archive.org/Exporter/ID.147354/SC_Britcom_System_SRL.html)  
+
