@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solestop.com privacy policy that was archived on 2006-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060508083531id_/http%3A//solestop.com/phpcode/web/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solestop.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206004112id_/http%3A//www.solestop.com/phpcode/web/privacy.php) for the most accurate reproduction.*
 
 # Solestop.com! Buy Brand Name Shoes Online!
 
