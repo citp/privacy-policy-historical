@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchmarketingstandard.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615025208id_/http%3A//www.searchmarketingstandard.com/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmarketingstandard.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205214431id_/http%3A//www.searchmarketingstandard.com/%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
