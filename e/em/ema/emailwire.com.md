@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailwire.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627164849id_/http%3A//www.emailwire.com/cgi-bin/news/db.cgi%3Fdb%3Dcustomer%26uid%3Ddefault%26template%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailwire.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231621id_/http%3A//www.emailwire.com/cgi-bin/news/db.cgi%3Fdb%3Dcustomer%26uid%3Ddefault%26template%3Dprivacy) for the most accurate reproduction.*
 
 # Emailwire.com: Press Releases; Press Release Distribution Service
 
@@ -46,12 +46,7 @@ San Diego, CA 92105
 
 | 
 
-|  **Affiliation**  
----  
-  
-[](http://www.bbbonline.org/cks.asp?id=104012814561239272) [ ](http://www.wliinc3.com/cgi/foxweb.dll/wlx/cs/wlxmblogo?eidcomp=HlJkG2KrHR&ec=rl4ko2mrmR&type=SD)  
-  
-**Featured Clients**  
+|  **Featured Clients**  
 ---  
   
 **For Journalists**  
