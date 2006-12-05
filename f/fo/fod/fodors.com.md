@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615205427id_/http%3A//fodors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fodors.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223017id_/http%3A//fodors.com/about/privacy) for the most accurate reproduction.*
 
 # Fodor's Travel Guides | Contact Information
 
