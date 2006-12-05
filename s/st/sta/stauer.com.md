@@ -1,25 +1,36 @@
-> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2005-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051023215302id_/http%3A//www.nextten.com/securityandprivacy/SecurityandPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206000125id_/http%3A//www.stauer.com/homepagebottomlinks/privacy/privacy.aspx) for the most accurate reproduction.*
 
-# NeXtten - Security and Privacy
+# Stauer Watches - Privacy
 
-|   
+The Stauer Collection
+
+Stauer Choice Picks
+
+[Stauer Presidio Watch](http://www.stauer.com/?sectionpath=1/233/234&pageid=964)  
+Built from a rare vintage 1928 design, this beautiful tonneau styled case and etched dial surround a jeweled automatic movement crafted from over 300 separate parts.
+
+New at Stauer
+
+[Australian Pacific Golden Pearl Collection](https://web.archive.org/?sectionpath=1/240/247&pageid=997)  
+By extracting the seed pearl from young oyster shells and speeding up the process in the lab, we coated these natural seed pearls with nacre from the inside of the giant shells, and were able to produce the breathtaking hand-coated Australian Pacific Pearl.
+
+  
+
+
+[](http://www.nextten.com/)
+
 | 
 
-| [](https://web.archive.org/customerservice/guarantee.aspx)  
----  
-|   
-| 
-
   
 
 
 |   
 ---  
-NextTen knows that you care how your personal information is used and shared, and we appreciate your trust that we will do so with sensitivity to your needs and desires. This notice describes our privacy policy. By visiting NextTen, you are accepting the practices described in this Privacy Notice.  
+Stauer knows that you care how your personal information is used and shared, and we appreciate your trust that we will do so with sensitivity to your needs and desires. This notice describes our privacy policy. By visiting Stauer, you are accepting the practices described in this Privacy Notice.  
   
 ---  
   
-### What Personal Information About Customers Does NextTen Gather?
+### What Personal Information About Customers Does Stauer Gather?
 
 |   
 The information we learn from our customers helps us personalize and improve your shopping experience with NextTen. Here are the types of information we gather.   
@@ -28,7 +39,7 @@ The information we learn from our customers helps us personalize and improve you
 ---  
   
   * Information You Give Us: We receive and store any information that you enter on our Web site or give to us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. 
-  * E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from NextTen if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences.
+  * E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Stauer if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. 
 
   
   
@@ -39,23 +50,23 @@ The information we learn from our customers helps us personalize and improve you
 |   
   
   * Cookies are alphanumeric identifiers that are sent to your computer's hard drive through your Web browser to enable systems to recognize your browser. These cookies help us identify return visitor volume but do not store any personal information about the user. 
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of NextTen's coolest features, and we recommend that you leave them turned on. 
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Stauer's coolest features, and we recommend that you leave them turned on. 
 
   
   
 ---  
   
-### Does NextTen Share the Information It Receives?
+### Does Stauer Share the Information It Receives?
 
 |   
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries NextTen, Inc. We follow practices at least as protective as those described in this Privacy Notice.  
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Stauer, Inc. We follow practices at least as protective as those described in this Privacy Notice.  
   
 ---  
   
   * Agents: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
-  * Promotional Offers: Sometimes we send offers to selected groups of NextTen customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your Customer Communication Preferences. 
-  * Protection of NextTen and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply other agreements; or protect the rights, property, or safety of NextTen, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
-  * With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+  * Promotional Offers: Sometimes we send offers to selected groups of Stauer customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your Customer Communication Preferences. 
+  * Protection of Stauer and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply other agreements; or protect the rights, property, or safety of Stauer, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
+  * With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
   
   
@@ -66,7 +77,7 @@ Information about our customers is an important part of our business, and we are
 |   
   
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. Click here for more information on how to sign off.
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. Click here for more information on how to sign off. 
 
   
   
@@ -75,7 +86,7 @@ Information about our customers is an important part of our business, and we are
 ### Which Information Can I Access?
 
 |   
-NextTen gives you access to a broad range of information about your account and your interactions with NextTen for the limited purpose of viewing and, in certain cases, updating that information.  
+Stauer gives you access to a broad range of information about your account and your interactions with Stauer for the limited purpose of viewing and, in certain cases, updating that information.  
   
 ---  
   
@@ -83,11 +94,20 @@ NextTen gives you access to a broad range of information about your account and 
 
 |   
   
-  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of NextTen. 
-  * If you do not want to receive e-mail or other mail from us, please contact us at 1-888-333-2012 or email customerservice@nextten.com
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use many important features if you do not use cookies.
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of Stauer. 
+  * If you do not want to receive e-mail or other mail from us, please contact us at 1-888-333-2012 or email stauer@amsi-corp.com 
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use many important features if you do not use cookies. 
 
   
+  
+---  
+  
+### Stauer's Affiliate Program
+
+|   
+We selectively partner with other web sites to boost mutual business development and to enhance the shopping experience. In forming these partnerships, we strive to achieve increased success for our company and for our partners. 
+
+If you feel that your website could enhance our ability to acquire customers, and you would like to be considered for a partnership or affiliate relationship with Stauer, please visit Commission Junction and mention your interest in becoming a Stauer partner.  
   
   
 
