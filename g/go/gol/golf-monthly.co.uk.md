@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the golf-monthly.co.uk privacy policy that was archived on 2006-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060426051658id_/http%3A//golf-monthly.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golf-monthly.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205200518id_/http%3A//www.ipcmedia.com/privacy.php) for the most accurate reproduction.*
 
-# Golf Monthly Online: Privacy policy
+# Privacy Policy - IPC Media - The UK's leading consumer magazine publisher
 
-IPC Media Limited will use the information provided by you in the course of our dealing with you to process your requests and orders and in order to provide a more personalised web-surfing and shopping experience.
+IPC Media Limited will use the information provided by you in the course of our dealing with you to process your requests and orders and in order to provide a more personalised web-surfing and shopping experience. 
 
 We may collect anonymous information about your use of this website from cookies and by the use of pixel tags. We may match this information with any other data you have given us for the purposes of fulfilling your orders and other requests, tailoring our site to help you, sending you appropriate marketing communications and maintaining our records. A cookie is a short piece of data which is sent from a web server to a web browser when that browser visits the server's site. Pixel tags are used to read cookies. Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser. However some of the cookies sent to your browser will help us to save you time, for example by remembering your contact details when you are making an order for the second time - this means that you will not have to complete your contact details section again unless they have changed. In addition you may find that some parts of the site will not function properly if you refuse cookies. 
 
@@ -17,5 +17,4 @@ Please note that clicking on to links and banner advertisements may result in yo
 This privacy policy may be changed by IPC Media Limited at any time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. IPC Media Limited will ensure that your personal information is treated with the utmost respect and in accordance with Directive 95/46/EC on the protection of individuals with regard to processing of personal data and on the free movement of such data. 
 
 © IPC Media Ltd. 2002   
-All rights reserved.  
-
+All rights reserved.
