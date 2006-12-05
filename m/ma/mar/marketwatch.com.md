@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marketwatch.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208181114id_/http%3A//cbs.marketwatch.com/support/privacy.asp%3Fsiteid%3Dmktw) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketwatch.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221619id_/http%3A//www.marketwatch.com/support/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://www.truste.org/validate/12548) MarketWatch, Inc. Privacy Policy – Updated 4/3/03
+[](http://www.truste.org/ivalidate.php?url=www.marketwatch.com&sealid=101) MarketWatch, Inc. Privacy Policy – Updated 4/3/03
 
-MarketWatch is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers MarketWatch’s Web sites, CBS MarketWatch.com and BigCharts.com. Because these Web sites want to demonstrate their commitment to users’ privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe. The following practices are reviewed by TRUSTe:
+MarketWatch is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers MarketWatch’s Web sites, MarketWatch.com and BigCharts.com. Because these Web sites want to demonstrate their commitment to users’ privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe. The following practices are reviewed by TRUSTe:
 
 1\. What personally identifiable information MarketWatch collects.
 
@@ -22,7 +22,7 @@ MarketWatch is a licensee of the TRUSTe Privacy Program. TRUSTe is an independen
 
 8\. How users can correct any inaccuracies in the information. 
 
-If users have questions or concerns regarding this statement, they should first contact MarketWatch customer service at mwfeedback@marketwatch.com. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed within 14 days, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If users have questions or concerns regarding this statement, they should first contact MarketWatch customer service at mwfeedback@marketwatch.com. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed within 14 days, they should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
 Scope
 
@@ -48,7 +48,7 @@ In short, the information you provide us can help us to understand how to make o
 
 How do you update the information you provided during registration?
 
-To update or correct the personally identifiable information that you shared with us during registration, sign into your member account on the Web site using your member ID and password. Once signed in, click on "edit account" and follow the steps to edit your member profile and to confirm your changes.
+To update or correct the personally identifiable information that you shared with us during registration, sign into your member account on the Web site using your e-mail and password. Once signed in, click on "edit account" and follow the steps to edit your member profile and to confirm your changes.
 
 Opting-Out. Here is how it works at MarketWatch: 
 
@@ -68,7 +68,7 @@ Lastly, there may be a third party cookie in MarketWatch emails that is generate
 
 Discussions and Forums. Here's how it works at MarketWatch:
 
-When posting to the Discussions on our Web site, please understand that you are posting to the public. Your message board profile, if you provided one, is available for other message board users to view, though you can update your message board profile at any time after you have signed into your member account on the Web site using your member ID and password.
+When posting to the Discussions on our Web site, please understand that you are posting to the public. Your message board profile, if you provided one, is available for other message board users to view, though you can update your message board profile at any time after you have signed into your member account on the Web site using your e-mail and password.
 
 What information do we gather? 
 
