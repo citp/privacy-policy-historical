@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultramercial.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615014828id_/http%3A//ultramercial.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultramercial.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210315id_/http%3A//www.ultramercial.com/privacy.html) for the most accurate reproduction.*
 
 # Ultramercial -- Products -- Entremercial
 
