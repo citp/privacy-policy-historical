@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainroseherbs.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004334id_/http%3A//www.mountainroseherbs.com/privicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainroseherbs.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205191707id_/http%3A//www.mountainroseherbs.com/privicy.php) for the most accurate reproduction.*
 
 # Mountain Rose Herbs | Privicy Policy
 
@@ -32,8 +32,8 @@ We only monitor our web logs, which assist us in determining possible page incom
 
 For more information on our privacy and security policies please contact Shawn Donnille at [shawn@mountainroseherbs.com](mailto:shawn@mountainroseherbs.com)
 
-**Go to top of page** **[Affiliate Program](http://www.mountainroseherbs.com/affiliate/affiliate.php)            [Wholesale Opportunities](http://www.mountainroseherbs.com/wholesale.php)            [Employment Opportunities](http://www.mountainroseherbs.com/employ.php) **
+**Go to top of page** [Affiliate Program](http://www.mountainroseherbs.com/affiliate/affiliate.php)            [Wholesale Opportunities](http://www.mountainroseherbs.com/wholesale.php)            [Employment Opportunities](http://www.mountainroseherbs.com/employ.php)
 
-**[Our Privacy and Security Policy](http://www.mountainroseherbs.com/privicy.php)           [Our Return Policy](http://www.mountainroseherbs.com/return.php)           [Quality Control](http://www.mountainroseherbs.com/bulkherb/quality.php) **
+[Our Privacy and Security Policy](http://www.mountainroseherbs.com/privicy.php)           [Our Return Policy](http://www.mountainroseherbs.com/return.php)           [Quality Control](http://www.mountainroseherbs.com/bulkherb/quality.php)
 
 **_These pages are best viewed while sipping tea_**
