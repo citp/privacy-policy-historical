@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2006-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060627071927id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224301id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
 
 # Free Indian Astrology Sites : Cyber Astro
 
-At Cyber Astro, Ltd. we take the privacy of the information you provide us very seriously. This statement demonstrates our firm commitment to our privacy policy. Please read this carefully to understand how we use any information you provide us at [www.cyberastro.com](http://www.cyberastro.com/). 
+| At Cyber Astro, Ltd. we take the privacy of the information you provide us very seriously. This statement demonstrates our firm commitment to our privacy policy. Please read this carefully to understand how we use any information you provide us at [www.cyberastro.com](http://www.cyberastro.com/). 
 
   * Cyber Astro, Ltd. guarantees complete confidentiality of our members’ identity, horoscope details and the prediction details. 
   * Cyber Astro, Ltd. further guarantees that no direct or indirect use will be made by Cyber Astro about any aspect of life, as revealed in the horoscope of a member, except for the explicit purpose of communicating the horoscope charts and predictions back to the member. 
   * We do not sell or rent your personally identifiable information to anyone. 
   * We allow members to access their users profiles and change information, as they deem necessary.
 
-Since new items will get added to our services as we modify and expand, we suggest that you check back from time to time in order to understand how we treat your information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what personal information we collect, how we use it and under what circumstances we disclose it. Your continued use of the site will constitute your acknowledgment of our Privacy Policy.
-
+|   
+---|---  
+Since new items will get added to our services as we modify and expand, we suggest that you check back from time to time in order to understand how we treat your information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what personal information we collect, how we use it and under what circumstances we disclose it. Your continued use of the site will constitute your acknowledgment of our Privacy Policy.  
 This document is rather long because we want to give our users all the facts about our privacy policy. The items below provide an index to the information that follows: 
 
   * _What personal information do we collect, and what choices do you have in not providing the information?_
