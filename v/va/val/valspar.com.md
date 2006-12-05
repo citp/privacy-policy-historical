@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valspar.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618164916id_/http%3A//www.valspar.com/val/etc/priv.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valspar.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221833id_/http%3A//www.valspar.com/val/etc/priv.jsp) for the most accurate reproduction.*
 
 # Valspar
 
