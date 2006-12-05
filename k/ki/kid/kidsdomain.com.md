@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsdomain.com privacy policy that was archived on 2006-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060617041345id_/http%3A//corporate.kaboose.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsdomain.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223010id_/http%3A//corporate.kaboose.com/privacy.html) for the most accurate reproduction.*
 
 # Kaboose - About Kaboose
 
@@ -53,7 +53,7 @@ This site uses cookie and tracking technology. A cookie is a small amount of dat
 
 **Third Party Advertising**
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please click here.
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", [please click here](http://www.doubleclick.com/us/about_doubleclick/privacy/).
 
 **Third Party Cookies**
 
@@ -91,8 +91,8 @@ Kaboose Inc.
 505 University Avenue  
 Suite 1400  
 Toronto, ON  
-M5G 1X3   
-Canada
+M5G 1X3  
+Canada 
 
 To contact Kaboose by e-mail please click here. 416-593-6489
 
