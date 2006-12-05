@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011916id_/http%3A//www.about.sensis.com.au/legal/privacy.php%3Fref%3Dwpft) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231322id_/http%3A//www.about.sensis.com.au/legal/privacy.php%3Fref%3Dwpft) for the most accurate reproduction.*
 
 # Sensis - A Leading directory, advertising and information provider
 
 Protecting your privacy
 
-Updated January 2006 
+Updated November 2006 
 
 Sensis Pty Ltd ("Sensis") is committed to providing you with the highest levels of customer service. This includes protecting your privacy. Sensis is bound by the Privacy Act 1988 (Cth), which sets out a number of principles concerning the protection of your personal information. 
 
@@ -23,7 +23,7 @@ Occasionally, you may need to provide personal information about other individua
 How we collect personal information   
 Sensis collects personal information in a number of ways, including: 
 
-  * directly from you, when you provide information by phone, in marketing coupons or application forms or when you submit information to us through our websites (eg by email or [cookies](https://web.archive.org/web/20060615011916id_/http%3A//www.about.sensis.com.au/legal/cookies.php)); 
+  * directly from you, when you provide information by phone, in marketing coupons or application forms or when you submit information to us through our websites (eg by email or [cookies](https://web.archive.org/web/20061205231322id_/http%3A//www.about.sensis.com.au/legal/cookies.php)); 
   * from third parties such as our related companies, carriage service providers, credit reporting agencies or your representatives; 
   * from publicly available sources of information; 
   * from the organisations identified below under "When we disclose your personal information"; 
@@ -73,10 +73,15 @@ In addition, we may disclose your personal information to:
   * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (eg securitisation); and 
   * other telecommunication and information service providers (eg if you obtain services from other providers, we may need to disclose your information for billing purposes). 
 
+Your personal information and our related companies  
+Sensis is a wholly owned subsidiary of Telstra and also operates a group of subsidiary companies which includes the Trading Post Group and Universal Publishers Pty Ltd ("Related Companies"). 
+
+Sensis may share your personal information with the Related Companies to assist them with their business development and to market their own products and services to you. The Related Companies will use and disclose your personal information in accordance with their privacy policies. If you want to know more about the Related Companies, their areas of business and their commitment to privacy, please contact us. (see '[How to contact us](http://about.sensis.com.au/legal/privacy.php#contact)' below). 
+
 Sensis' web sites  
 Sensis provides products and services via our various web sites. When you visit our sites, our web servers record anonymous information such as the time, date and URL of the request. This information assists us to improve the structure of our web sites and monitor their performance. 
 
-Sensis may use '[cookies](https://web.archive.org/web/20060615011916id_/http%3A//www.about.sensis.com.au/legal/cookies.php)' on various web sites. [Cookies](https://web.archive.org/web/20060615011916id_/http%3A//www.about.sensis.com.au/legal/cookies.php) are an industry standard and most major web sites use them. A cookie is a small text file that our web sites may place on your computer. Usually, cookies are used as a means for our web sites to remember your preferences. As such, cookies are designed to improve your experience of our web sites. 
+Sensis may use '[cookies](https://web.archive.org/web/20061205231322id_/http%3A//www.about.sensis.com.au/legal/cookies.php)' on various web sites. [Cookies](https://web.archive.org/web/20061205231322id_/http%3A//www.about.sensis.com.au/legal/cookies.php) are an industry standard and most major web sites use them. A cookie is a small text file that our web sites may place on your computer. Usually, cookies are used as a means for our web sites to remember your preferences. As such, cookies are designed to improve your experience of our web sites. 
 
 In some cases, cookies may collect and store personal information about you. Sensis extends the same privacy protection to your personal information, whether gathered via cookies or from other sources. Most internet browsers are pre-set to accept cookies, however you can adjust your Internet browser to disable cookies or to warn you when cookies are being used. However, if you disable cookies, you may not be able to access certain areas of our web sites or take advantage of the improved web site experience that cookies offer. 
 
