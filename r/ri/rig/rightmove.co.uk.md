@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205190229id_/http%3A//www.rightmove.co.uk/privacy.rsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightmove.co.uk privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205232541id_/http%3A//www.rightmove.co.uk/privacy.rsp%3Fhpt%3Df5) for the most accurate reproduction.*
 
 # UK Estate agents with homes, houses & property for sale on rightmove.co.uk
 
 ## Who we are
 
-'We' are Rightmove.co.uk Ltd, Lavells House, 31 Hockliffe Street, Leighton Buzzard, Bedfordshire, LU7 1EZ. Company Registration Number: 03997679. We are registered under the Data Protection Act 1998, number Z4726900. We provide this website to subscribing estate agents and new homes developers to display properties they are marketing. We are not estate agents ourselves. [More about Rightmove the company](http://www.rightmove.co.uk/rm/template/publicsite%2Caboutus%2CAboutRightmove.vm).
+'We' are Rightmove plc, Grafton Court, Snowdon Drive, Milton Keynes, MK6 1AJ. Company Registration Number: 03997679. We are registered under the Data Protection Act 1998, number Z4726900. We provide this website to subscribing estate agents and new homes developers to display properties they are marketing. We are not estate agents ourselves. [More about Rightmove the company](http://www.rightmove.co.uk/template/publicsite%2Caboutus%2CAboutRightmove.vm).
 
 ## Introduction
 
 We are committed to protecting your privacy. This policy explains how and for what purposes we use the information collected about you via www.rightmove.co.uk (referred to below as "this Site"). Please read this privacy policy carefully. By using this Site and any services we offer via this Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site.
 
-If you have any queries or comments about the policy or our use of your personal information, please get in touch with us by emailing us at [privacy@rightmove.co.uk](mailto:privacy@rightmove.co.uk) or writing to The Privacy Manager at Lavells House, 31 Hockliffe Street, Leighton Buzzard, Bedfordshire, LU7 1EZ.
+If you have any queries or comments about the policy or our use of your personal information, please get in touch with us by emailing us at [privacy@rightmove.co.uk](mailto:privacy@rightmove.co.uk) or writing to The Privacy Manager at Grafton Court, Snowdon Drive, Milton Keynes, MK6 1AJ.
 
 In general, we use the information we collect about you to:
 
@@ -43,15 +43,15 @@ When you use the 'email a friend' feature of this Site we record which propertie
 
 ### Registering with us
 
-If you [register](http://www.rightmove.co.uk/rm/action/RegistrationAction?update=false) with us, we save the details you provide and use them to enable us to personalise the service we offer to you. You can update '[your details](http://www.rightmove.co.uk/rm/action/RegistrationAction?update=true)' at any time via the site. When you are signed in, we automatically pre-fill your saved details on the "contact agent" forms should you wish to use this element of the service we offer to you.
+If you [register](http://www.rightmove.co.uk/action/RegistrationAction?update=false) with us, we save the details you provide and use them to enable us to personalise the service we offer to you. You can update '[your details](http://www.rightmove.co.uk/action/RegistrationAction?update=true)' at any time via the site. When you are signed in, we automatically pre-fill your saved details on the "contact agent" forms should you wish to use this element of the service we offer to you.
 
 ### Saving properties
 
-If you [register](http://www.rightmove.co.uk/rm/action/RegistrationAction?update=false) with us and '[save properties](http://www.rightmove.co.uk/rm/action/PropertyShortlistAction?eventsubmit_doviewshortlist=1)' you are interested in, we can identify which properties you have saved. We do not make this individual information available to our member agents or third parties.
+If you [register](http://www.rightmove.co.uk/action/RegistrationAction?update=false) with us and '[save properties](http://www.rightmove.co.uk/action/PropertyShortlistAction?eventsubmit_doviewshortlist=1)' you are interested in, we can identify which properties you have saved. We do not make this individual information available to our member agents or third parties.
 
 ### Using the 'email updates'
 
-If you [register](http://www.rightmove.co.uk/rm/action/RegistrationAction?update=false) with us and use the '[your email updates](http://www.rightmove.co.uk/rm/action/EmailUpdatesAction?eventsubmit_doviewsettings=1&rl=true&n_eml=upd_tab)' feature to receive notification when new properties matching your criteria are added to this Site, we record the settings you use and which properties have been sent to you. We do not make any information about any property that has been sent to you available to our member agents or third parties. If you are signed in when you send an email to an estate agent, we include your settings to help the estate agent to provide more personalised services to you.
+If you [register](http://www.rightmove.co.uk/action/RegistrationAction?update=false) with us and use the '[your email updates](http://www.rightmove.co.uk/action/EmailUpdatesAction?eventsubmit_doviewsettings=1&rl=true&n_eml=upd_tab)' feature to receive notification when new properties matching your criteria are added to this Site, we record the settings you use and which properties have been sent to you. We do not make any information about any property that has been sent to you available to our member agents or third parties. If you are signed in when you send an email to an estate agent, we include your settings to help the estate agent to provide more personalised services to you.
 
 ## Who has access to the information you provide or we collect
 
@@ -59,7 +59,7 @@ We retain access to all personal information that we have collected from you.
 
 When our service is available via the websites of our partners, those partners may have access to your information. Their use of your personal information is governed by their privacy policies. We are not responsible for the privacy policies and practices of any other websites, even if you access them using links from this Site or if you can access this Site or use our services from them. We therefore recommend that you check the policy of each site that you visit and make sure that you are comfortable with the terms of such policies before providing any personal information.
 
-If you have consented on '[your details](http://www.rightmove.co.uk/rm/action/RegistrationAction?update=true)' page or the appropriate email form, we may provide any of the information we collect to carefully screened third parties to contact you regarding products or services that we think may be of interest to you. If you change your mind about being contacted by these third parties in the future, please email us at [privacy@rightmove.co.uk](mailto:privacy@rightmove.co.uk) and tell us.
+If you have consented on '[your details](http://www.rightmove.co.uk/action/RegistrationAction?update=true)' page or the appropriate email form, we may provide any of the information we collect to carefully screened third parties to contact you regarding products or services that we think may be of interest to you. If you change your mind about being contacted by these third parties in the future, please email us at [privacy@rightmove.co.uk](mailto:privacy@rightmove.co.uk) and tell us.
 
 If our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
 
@@ -67,7 +67,7 @@ We will not otherwise disclose, sell or distribute your information to any third
 
 ## Access to, changing or removing the information we hold
 
-Registered users of this Site can update their information, change settings or cancel their membership on their '[your details](http://www.rightmove.co.uk/rm/action/RegistrationAction?update=true)' page once signed in.
+Registered users of this Site can update their information, change settings or cancel their membership on their '[your details](http://www.rightmove.co.uk/action/RegistrationAction?update=true)' page once signed in.
 
 Non-registered and registered users of this Site can request we provide them with a copy of the personally identifiable information we hold via [talk-to-us@rightmove.co.uk](mailto:talk-to-us@rightmove.co.uk). You may ask us to make any necessary changes to ensure that such information is accurate and kept up-to-date. We may charge a small administration fee to cover the data search, preparation and delivery.
 
@@ -83,7 +83,7 @@ Like all websites, our servers automatically record 'log files' containing infor
 
 We follow strict security procedures to ensure that your personal information is not damaged, destroyed, or disclosed to a third party without your permission and to prevent unauthorised access to it. The computers that store the information are kept in a secure facility with restricted physical access and we use secure firewalls and other measures to restrict electronic access.
 
-All of the information we collect or record is restricted to our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. We will explicitly ask you when we need information to identify you. We may require you to co-operate with our security checks before we disclose information to you. You can update the personal information that you give us at any time by viewing '[your details](http://www.rightmove.co.uk/rm/action/RegistrationAction?update=true)' page.
+All of the information we collect or record is restricted to our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. We will explicitly ask you when we need information to identify you. We may require you to co-operate with our security checks before we disclose information to you. You can update the personal information that you give us at any time by viewing '[your details](http://www.rightmove.co.uk/action/RegistrationAction?update=true)' page.
 
 Your information will not be transferred outside of the European Economic Area.
 
