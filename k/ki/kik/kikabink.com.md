@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kikabink.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616014015id_/http%3A//kikabink.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikabink.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192047id_/http%3A//kikabink.com/privacy.htm) for the most accurate reproduction.*
 
 # Kikabink - Privacy Policy
 
-Last updated: 31 January 2005
+Last updated: 15 December 2005
 
 **1\. Protecting your privacy**
 
@@ -12,7 +12,7 @@ Kikabink (“Kikabink”, “we” or “us”) is committed to protecting your 
 
 Personal information held by Kikabink may include your name, date of birth, address, telephone number, email address, bank account or credit card details (if purchasing a product or service from us), occupation, and a Kikabink username or password (if applicable). We also hold details of Kikabink products and services you have acquired, as well as certain details about your personal interests. 
 
-If you choose not to provide certain personal information (e.g. your email address), we may not be able to provide you with the products or services you have requested, or the levels of service on which we pride ourselves. 
+If you choose not to provide certain personal information (e.g. your email address), we may not be able to provide you with the products or services you have requested, or the levels of service on which we pride ourselves.
 
 **3\. How we collect personal information**
 
@@ -60,7 +60,7 @@ Kikabink will only send you marketing and promotional material sent via email if
 
 **5\. When we disclose your personal information**
 
-Kikabink will not sell, rent or disclose your personal information to anyone except where:
+Kikabink will not sell, rent or disclose your personal information except where:
 
 (a) it is necessary for us to provide our products and services to you – for example, where we need to disclose your personal information to organizations outside of Kikabink in order for them to carry out Kikabink’s: 
 
@@ -109,11 +109,11 @@ We may use “cookies” on our websites to help remember your preferences, and 
 
 In some cases, cookies may collect and store personal information about you. Kikabink extends the same privacy protection to your personal information, whether gathered via cookies or from other sources. You can adjust your Internet browser to disable cookies or to warn you when cookies are being used. However, if you disable cookies, you may not be able to access certain areas of our websites or take advantage of the improved website experience that cookies offer.
 
-Kikabink also collects information stored in web server logs. This includes your Internet Protocol (IP) addresses, web browser type and Operating System. IP addresses are assigned to computers on the Internet to uniquely identify them within the global Internet network. Kikabink collects and manages this information as part of the service of providing website usage statistics, Internet session management and for security purposes.
+Kikabink also collects Internet Protocol (IP) addresses. IP addresses are assigned to computers on the Internet to uniquely identify them within the global Internet network. Kikabink collects and manages IP addresses as part of the service of providing Internet session management and for security purposes.
 
 **7\. Help us to ensure we hold accurate information**
 
-Kikabink takes all reasonable steps to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. To help us do this you need to:
+Kikabink takes all reasonable steps to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. To help us do this you need to: 
 
   * let Kikabink know if there are any errors in your personal information; and
 
@@ -124,12 +124,10 @@ Kikabink takes all reasonable steps to ensure that the personal information we c
 
 **8\. You can access your personal information**
 
-You may access your personal information, subject to some exceptions allowed by law. For security reasons, you need to put your request in writing. You can either send it to us by mail, or email it to us at privacy@kikabink.com.
+You may access your personal information, subject to some exceptions allowed by law. For security reasons, you need to put your request in writing. You can either send it to us by mail, or email it to us. 
 
 Kikabink reserves the right to charge a fee for searching for and providing access to your information.
 
 **9\. How to contact us**
 
 If you have any questions in relation to privacy, please write to us or call Kikabink between 9.00am and 5.00pm, Monday to Friday, Australian Eastern time.
-
-Back To Top
