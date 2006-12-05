@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2006-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060622080938id_/http%3A//www.studyabroad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221316id_/http%3A//www.studyabroad.com/privacy.html) for the most accurate reproduction.*
 
 # Studyabroad.com Privacy Policy
 
 **EDUCATIONAL DIRECTORIES UNLIMITED WEBSITE PRIVACY POLICY**
 
-Protecting your privacy online is a main concern at Educational Directories Unlimited The following Educational Directories Unlimited privacy policy informs how we respect your privacy and protect any information you may provide us while visiting our site or utilizing any of our services. 
+Protecting your privacy online is a main concern at Educational Directories Unlimited. The following Educational Directories Unlimited privacy policy informs how we respect your privacy and protect any information you may provide us while visiting our site or utilizing any of our services. 
 
 Educational Directories Unlimited (EDU) allows full access to our online information free of charge and without requiring registration. Users may opt to register with Educational Directories Unlimited through our StudentProspector.com service. This service allows prospective students to store profiles on our servers. Profiles can then be submitted to educational institutions as the user chooses. Profiles may also be accessed by educational institutions and related businesses, according to the preferences selected by the user and stored with the profile. 
 
@@ -55,7 +55,7 @@ Educational Directories Unlimited does not intend to collect information from ch
 
 **Aggregate Information about our users**
 
-We routinely gather information about the use of our web sites by all of our users collectively. Our server logs provide us with information such as what pages are being visited most, what domains our visitors are coming from (i.e. aol.com), when our servers are busiest, and what websites are referring users to us. This information helps us to improve our services and to evaluate our marketing efforts. We only use such data anonymously and aggregately. This information may be shared with third parties, but only in the aggretate. 
+We routinely gather information about the use of our by all of our users collectively. Our server logs provide us with information such as what pages are being visited most, what domains our visitors are coming from (i.e. aol.com), when our servers are busiest, and what websites are referring users to us. This information helps us to improve our services and to evaluate our marketing efforts. We only use such data anonymously and aggregately. This information may be shared with third parties, but only in the aggretate. 
 
 **'Cookies'**
 
@@ -75,7 +75,7 @@ Employees within Educational Directories Unlimited with access to your informati
 
 Third parties which access your data are instructed and agree to utilize such information only in adherence to this Privacy Policy, however EDU is not responsible for the actions of third parties.
 
-Our web sites also contain links to other sites. The privacy policies of linked sites may differ from those of EDU. 
+Our also contain links to other sites. The privacy policies of linked sites may differ from those of EDU. 
 
 **Contact details**
 
