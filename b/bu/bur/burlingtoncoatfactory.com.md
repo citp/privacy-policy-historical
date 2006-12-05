@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the burlingtoncoatfactory.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616205108id_/http%3A//www.burlingtoncoatfactory.com/IWStoreBCF.process%3Ftem%3Dprivacy.tem) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burlingtoncoatfactory.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205220435id_/http%3A//www.burlingtoncoatfactory.com/IWStoreBCF.process%3Ftem%3Dprivacy.tem) for the most accurate reproduction.*
 
 # BurlingtonCoatFactory.com
 
   
 Our Privacy Policy
 
-We respect your privacy and are committed to protecting it. We will never sell or rent your personal information (i.e. name, address, telephone number, billing and payment information, and email address) with any third party unless you give us your express permission. We will share your information for business purposes, such as to fulfill your order, verify your credit card information, protect you from fraud, as well as to better serve you and improve our website. This may involve a third party such as an address verification service or banking institution. In certain circumstances, we may share your information in response to valid legal processes or if it is required by law.
+We respect your privacy and are committed to protecting it. We will share your information for business purposes, such as to fulfill your order, verify your credit card information, protect you from fraud, as well as to better serve you and improve our website. This may involve a third party such as an address verification service or banking institution. In certain circumstances, we may share your information in response to valid legal processes or if it is required by law. We may share information with carefully selected vendors, business partners, and other organizations which are not part of the Burlington Coat Factory family. These companies and organizations may use the information we share to provide special opportunities and offers to you.
 
 Links to Other Sites
 
@@ -31,7 +31,7 @@ If you choose to join our mailing list when you place an order, we may periodica
 
 Children Under 13 Years of Age
 
-It is not our intent to collect personal information about children under the age of 13. A child who is 13 but not yet 18 years of age may use this website only if a parent or legal guardian agrees to be bound by the website's [Terms of Use](https://web.archive.org/web/20060616205108id_/http%3A//www.burlingtoncoatfactory.com/IWStoreBCF.process?tem=termsofuse.tem) on the child's behalf. Children under 13 years of age may not use this website.
+It is not our intent to collect personal information about children under the age of 13. A child who is 13 but not yet 18 years of age may use this website only if a parent or legal guardian agrees to be bound by the website's [Terms of Use](https://web.archive.org/web/20061205220435id_/http%3A//www.burlingtoncoatfactory.com/IWStoreBCF.process?tem=termsofuse.tem) on the child's behalf. Children under 13 years of age may not use this website.
 
 Cookies and other Computer Information
 
@@ -51,4 +51,4 @@ Notices and Changes
 
 Because our business changes all the time, so does our Privacy Policy and our Security Notice. Please check our website for changes. If you have questions or concerns with respect to our Privacy Policy or our Security Notice, please feel free to [contact us](http://wwwsrc.coat.com/contact/contactus_online_form.shtml?Problem=Other&Subject=Other+questions+and+comments&submit.x=16&submit.y=6). 
 
-Last Updated: March 9, 2005
+Last Updated: June 27, 2006
