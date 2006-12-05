@@ -1,35 +1,39 @@
-<!--The following is the downloaded HTML source of the channelregister.co.uk privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615025346id_/http%3A//www.channelregister.co.uk/Design/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the channelregister.co.uk privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205182748id_/http%3A//www.channelregister.co.uk/Design/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta http-equiv="Content-Script-Type" content="text/javascript">
   <script src="/Design/javascript/form_prompt.js" type="text/javascript"></script>
-  <script src="/Design/javascript/vcl.js" type="text/javascript"></script>
 
 <base href="http://www.channelregister.co.uk/">
 
 <link rel="up" title="Channel Register" href="/">
-  <script type="text/javascript" src="http://a.as-eu.falkag.net/dat/dlv/aslmain.js"></script>
-  <link rel="search" type="application/opensearchdescription+xml" title="El Reg search" href="http://www.theregister.co.uk/Design/page/search.osd">
+  <script type="text/javascript">
+    (function () {
+      var url = 'http://uk.nir.regaccount.com/?g=c\x26g=a\x26s=c/chl.misc';
+      if (typeof RegId != 'undefined')
+        url += '\x26s=a/' + RegId;
+      document.write('\x3Cscript src="' + url + '" type="text/javascript">\x3C/script>');
+    })();
+  </script><script src="http://uk.nir.regaccount.com/?g=c&amp;g=a&amp;s=c/chl.misc" type="text/javascript"></script>
+  <script src="/Design/javascript/aprep.js" type="text/javascript"></script>
+  <link rel="search" type="application/opensearchdescription+xml" title="Channel Reg Search" href="/Design/page/search.osd">
+  <link rel="microsummary" href="/microsummary.txt" type="text/plain; charset=utf-8">
   <link rel="SHORTCUT ICON" href="/favicon.ico">
   <link rel="stylesheet" type="text/css" title="Channel Register default colours" href="/Design/style/colour/Reg_default.css" media="screen, projection">
 
   <link rel="stylesheet" type="text/css" href="/style_picker/layout" media="screen, projection">
   <link rel="stylesheet" type="text/css" href="/Design/style/small_screen.css" media="handheld">
-  <title>
+    <title>
 Your Privacy and Channel Register</title>
  </head>
  <body>
   <div id="VisiblePage">
    <p class="NoCSS"><a href="#Content">Skip to content</a></p>
-
-   <table width="100%" id="MastheadTop">
+   <table id="MastheadTop">
     <tbody><tr>
-     <td><strong><img src="/Design/graphics/icons/vulture_bullet_16.gif" height="16" width="16" alt=""><span id="MastheadSloganWithImage">Biting the hand that feeds IT</span>
-</strong></td>
-     <td>
-      <ul>
+     <td>      <ul>
        <li><a href="http://www.theregister.co.uk/">The Register</a></li>
        <li><a href="http://www.regdeveloper.co.uk/">Reg Developer</a></li>
        <li><a href="http://www.reghardware.co.uk/">Reg Hardware</a></li>
@@ -37,65 +41,53 @@ Your Privacy and Channel Register</title>
        <li><a href="http://go.theregister.com/k/eventsnav">Events</a></li>
        <li><a href="http://downloads.theregister.co.uk/">Downloads</a></li>
       </ul>
-     </td>
-     <td>
-      <form id="MastheadSearch" action="http://forms.theregister.co.uk/search/" name="search" method="get">
-       <input type="text" id="q" name="q" size="12">
-      </form>
-      <script type="text/javascript">
-       SetPromptText('q', 'Search');
-      </script>
-     </td>
+</td>
+     <td align="right"><form class="SearchForm" action="http://search.channelregister.co.uk/" name="search" method="get" style="display:inline">
+<table class="Search"><tbody><tr><td>
+  <img src="/Design/graphics/MSN_Search/live_logo.png" width="96" height="21" alt="Windows Live™">
+  <label title="Search the web with Windows Live™">
+    <input type="radio" name="mode" value="web">
+    <span>Web</span>
+  </label>
+  <label title="Search The Register">
+    <input type="radio" name="mode" value="site" checked="checked">
+    <span>Site</span>
+  </label>
+  <input type="text" id="q" name="q" size="12">
+</td></tr></tbody></table>
+</form>
+<script type="text/javascript">SetPromptText('q', 'Search');</script>
+</td>
     </tr>
    </tbody></table>
 
 
    <div id="LeaderBoard"><script type="text/javascript">
-
- if (getQueryVar('Top_Ads_kid')) {
-   Ads_kid=getQueryVar('Top_Ads_kid');
- } else {
-   Ads_kid=0;
- }
-
- Ads_prf='vcl=' + GetCookie('vcl') + ';cel=';
- if (typeof(ExcA)!='undefined') {
-   Ads_prf+= ExcA;
- }
-
- var fss = 0; 
- for (var ind=0; location.href.length>ind; ind=ind+1) {
-   if(location.href.substring(ind,ind+1)=="/") {fss=fss+1;}
- } 
- if (fss==7) {
-   Ads_prf+=';page_type=article';
- } else {
-   Ads_prf+=';page_type=index'; 
- }
-
- Ads_bid=0; Ads_xl=0; Ads_yl=0; Ads_opt=0; Ads_wrd=''; Ads_sec=0;
-
+ document.write('\x3Cscript src="http://ad.uk.doubleclick.net/adj/reg.channel.4159/misc;pos=top;' + excats + GetVCs() + 'ptype=' + ptype + ';site=uk;maid=' + maid + ';test=' + test + ';sz=728x90;tile=2;ord=' + rand + '?" type="text/javascript">\x3C\/script>');
 </script>
+<noscript>
+ <a href="http://ad.uk.doubleclick.net/jump/reg.channel.4159/misc;pos=top;site=uk;sz=728x90;tile=2;ord=n4PH3tRk6jcAAEFkayQAAAKp?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.channel.4159/misc;pos=top;site=uk;sz=728x90;tile=2;ord=n4PH3tRk6jcAAEFkayQAAAKp?" width="728" height="90" border="0" alt="" /></a>
+</noscript>
 
-<script type="text/javascript" src="http://a.as-eu.falkag.net/dat/cjf/00/13/45/48.js"></script>
-<noscript><a href="http://sel.as-eu.falkag.net/sel?cmd=lnk&amp;dat=565088&amp;opt=0&amp;wrd=&amp;prf=&amp;rdm=20060315" target="_blank"><img src="http://sel.as-eu.falkag.net/sel?cmd=ban&amp;dat=565088&amp;opt=0&amp;rdm=20060315" alt="Click here" border="0" /></a></noscript>
 </div>
 
 
    <div id="AllButTop"><div id="Sponsor">
-<script type="text/javascript">
-ord=Math.random()*10000000000000000;
-document.write('<script src="http://ad.uk.doubleclick.net/adj/reg_test/regchannel_counter_test;sz=1x1;ord=' + ord + '?" type="text/javascript"><\/script>');
-</script><script src="http://ad.uk.doubleclick.net/adj/reg_test/regchannel_counter_test;sz=1x1;ord=9289622182945724?" type="text/javascript"></script>
-<noscript><a href="http://ad.uk.doubleclick.net/jump/reg_test/regchannel_counter_test;sz=1x1;ord=123456789?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg_test/regchannel_counter_test;sz=1x1;ord=123456789?" width="1" height="1" border="0" alt=""></a></noscript>
+ <script type="text/javascript">
+  document.write('\x3Cscript src="http://ad.uk.doubleclick.net/adj/reg.channel.4159/misc;pos=mast;' + excats + GetCookie('vcs') + 'ptype=' + ptype + ';site=uk;maid=' + maid + ';test=' + test + ';sz=120x60;tile=1;ord=' + rand + '?" type="text/javascript">\x3C\/script>');
+ </script>
+ <noscript>
+  <a href="http://ad.uk.doubleclick.net/jump/reg.channel.4159/misc;pos=mast;site=uk;sz=120x60;tile=1;ord=n4PH3tRk6jcAAEFkayQAAAKp?" target="_blank"><img src="http://ad.uk.doubleclick.net/ad/reg.channel.4159/misc;pos=mast;site=uk;sz=120x60;tile=1;ord=n4PH3tRk6jcAAEFkayQAAAKp?" width="120" height="60" border="0" alt="" /></a>
+ </noscript>
 </div>
+
     <h1 id="Masthead">
      <a href="/"><img src="/Design/graphics/Reg_default/channel_logo.png" alt="Channel Register" title="Site homepage" width="330" height="50"></a>
     </h1>
 
     <div id="NavRow">
      <div id="SectionMenu">
-      <ul><li><span><span><span><a href="/">Home</a></span></span></span></li><li><span><span><span><a href="/distribution/">Distribution</a></span></span></span></li><li><span><span><span><a href="/hardware/">Hardware</a></span></span></span></li><li><span><span><span><a href="/pc_builder/">PC Builder</a></span></span></span></li><li><span><span><span><a href="/market_news/">Market News</a></span></span></span></li><li><span><span><span><a href="/reseller/">Reseller</a></span></span></span></li><li><span><span><span><a href="/security/">Security</a></span></span></span></li><li><span><span><span><a href="/services/">Services</a></span></span></span></li><li><span><span><span><a href="/software/">Software</a></span></span></span></li>
+      <ul><li><span><span><span><a href="/">Home</a></span></span></span></li><li><span><span><span><a href="/distribution/">Distribution</a></span></span></span></li><li><span><span><span><a href="/hardware/">Hardware</a></span></span></span></li><li><span><span><span><a href="/servers_storage/">Servers/Storage</a></span></span></span></li><li><span><span><span><a href="/pc_builder/">PC Builder</a></span></span></span></li><li><span><span><span><a href="/market_news/">Market News</a></span></span></span></li><li><span><span><span><a href="/reseller/">Reseller</a></span></span></span></li><li><span><span><span><a href="/security/">Security</a></span></span></span></li><li><span><span><span><a href="/services/">Services</a></span></span></span></li><li><span><span><span><a href="/software/">Software</a></span></span></span></li>
       </ul>
      </div>
     </div>
@@ -264,6 +256,7 @@ SW9 8BJ</p>
 <img src="http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-theregister&amp;cg=0" alt="" />
 </noscript>
 
+<script type="text/javascript" src="http://www.theregister.co.uk/Design/javascript/alignment.js"></script>
 
  
 
