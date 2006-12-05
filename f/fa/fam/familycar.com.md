@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familycar.com privacy policy that was archived on 2006-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060621201545id_/http%3A//familycar.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familycar.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215100id_/http%3A//www.familycar.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
