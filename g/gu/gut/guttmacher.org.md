@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2006-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060626181050id_/http%3A//guttmacher.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guttmacher.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213414id_/http%3A//www.guttmacher.org/about/privacy.html) for the most accurate reproduction.*
 
 # Guttmacher Institute: Privacy Policy
 
@@ -30,7 +30,7 @@ The Guttmacher Institute follows a strict opt-in policy; that is, you must affir
 
 ## EMAIL LISTS - PRACTICES AND POLICIES
 
-The Guttmacher Institute uses Intellicontact Pro, a permission-based email messaging service provider, to administer its multiple email lists. Intellicontact Pro is a product of the Broadwick Corporation of Chapel Hill, NC. For more information on the Broadwick Corporation and Intellicontact Pro visit <http://www.intellicontact.com/company>. 
+The Guttmacher Institute uses Intellicontact Pro, a permission-based email messaging service provider, to administer its multiple email lists. Intellicontact Pro is a product of the Broadwick Corporation of Chapel Hill, NC. For more information on the Broadwick Corporation and Intellicontact Pro visit <http://www.intellicontact.com/>. 
 
 Intellicontact Pro includes reporting and tracking features that allow the Guttmacher Institute to monitor the effectiveness of its online communication efforts. Intellicontact's MessageStats software records and reports the number of recipients who opened a message and the email addresses of those recipients. (Note: the Guttmacher Institute holds no information other than an email address for its email list subscribers. Name, contact information and/or affiliation are not required during subscription opt-in). MessageStats records the number of click-throughs on each link within a message as well as the number of times the email message was forwarded by a recipient. It also records the email addresses of the "forward to" recipients. the Guttmacher Institute will not access the "forward to" information. 
 
