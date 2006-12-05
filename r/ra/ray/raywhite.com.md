@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raywhite.com privacy policy that was archived on 2006-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060623011641id_/http%3A//www.raywhite.com/cgi-bin/rw/doc_manager.pl%3Ft%3Dview%26aid%3D184%26c%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raywhite.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205235712id_/http%3A//www.raywhite.com/cgi-bin/rw/doc_manager.pl%3Ft%3Dview%26aid%3D184%26c%3D19) for the most accurate reproduction.*
 
 # Property - Australia - New Zealand - South East Asia - Ray White Real Estate
 
@@ -38,7 +38,9 @@ Our site from time to time may contain links to other websites. Please note that
 ** If you ever wish to know what, if any, personal information we hold about you, or you wish to correct any personal information we may hold about you, you may access and correct such information by contacting us via the details provided below.
 
 **CONTACTING US  
-** We want to develop a continuing and trusted relationship with you. If at any time you have questions regarding this Privacy Policy or any practices or dealings relating to this site then please don't hesitate to contact us at [info@raywhite.com](mailto:info@raywhite.com).
+** We want to develop a continuing and trusted relationship with you. If at any time you have questions regarding this Privacy Policy or any practices or dealings relating to this site then please don't hesitate to contact us at [privacy@raywhite.com](mailto:privacy@raywhite.com).
 
 **HOW OFTEN SHOULD YOU CHECK THIS PRIVACY POLICY?  
 ** We may make changes to this Privacy Policy from time to time, so you may like to check it each time you visit the site.
+
+If at any time you have questions regarding this Privacy Policy or any practices or dealings relating to this site then please don't hesitate to contact our privacy officer at Ray White (Real Estate) Pty Ltd GPO BOX 2433, Brisbane Queensland, 4001; Telephone (07) 3231 2200; Facsimile (07) 3236 9141; Email: privacy[@raywhite.com](mailto:info@raywhite.com "mailto:info@raywhite.com")
