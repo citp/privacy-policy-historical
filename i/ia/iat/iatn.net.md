@@ -1,49 +1,6 @@
-> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615233924id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iatn.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205211241id_/http%3A//www.iatn.net/privacy.html) for the most accurate reproduction.*
 
 # iATN - Privacy Policy
-
-[**NAVIGATE  
-iATN**](http://www.iatn.net/sitemap.asp)
-
-[Site Map](http://www.iatn.net/sitemap.asp)
-
-[Main Menu](http://www.iatn.net/)
-
-[About iATN](http://www.iatn.net/overviews/)
-
-[Membership  
-Overview](http://www.iatn.net/overviews/tab_basicmembership.asp?navBar=basic)
-
-[Join iATN](http://www.iatn.net/join/)
-
-[Shop Finder](http://www.iatn.net/shopfinder/)
-
-[Member  
-Directory](http://www.iatn.net/dir/)
-
-[Members  
-Only](http://members.iatn.net/)
-
-[Industry  
-Sponsors](http://www.iatn.net/atn/)
-
-[Need Help?](http://www.iatn.net/pubhelp.asp)
-
-[Contact Us](http://www.iatn.net/contact.html)
-
-[iATN Careers](http://www.iatn.net/jobs/)
-
-[Press Kit](http://www.iatn.net/press/)
-
-|   | 
-
-### 
-
-Privacy Policy
-
-Revision 1.0.3 \- March 8, 2004
-
-* * *
 
 ### Summary of our Policy
 
@@ -64,7 +21,7 @@ By accessing iATN, you are accepting the practices described in this privacy pol
 
 ### **What Personal Information Does iATN Gather?**
 
-The information we receive from members helps us personalize and continually improve the network. Here are the types of information we gather: 
+The information we receive from members helps us personalize and continually improve the network. Here are the types of information we gather:
 
   * **Information You Give Us** : We receive and store any information you enter on our web site or give to us in any other way. Some of the most common situations in which this occurs include: registering to join iATN, upgrading your account to sponsorship status, updating your account settings, submitting a message to the network (including the forums, TechMail help requests, file library, chat rooms, etc.), replying to a TechMail help request sent by another member, purchasing something from the iATN Store, corresponding with iATN staff, and more. 
 
@@ -139,7 +96,7 @@ In addition, this same personal information is displayed, to some extent, with a
 
 ### **What Information Can I Access?**
 
-We provide an [Account Settings](http://members.iatn.net/config/) page where registered members can view their personal information stored on iATN. Most of this information can be updated by members from that same location. (Note that when you update information, we usually keep a copy of the prior version for our records.) If there is any personal information listed in that area which you cannot change directly, such as your name, please contact iATN Support ([]()). 
+We provide an [Account Settings](http://members.iatn.net/config/) page where registered members can view their personal information stored on iATN. Most of this information can be updated by members from that same location. (Note that when you update information, we usually keep a copy of the prior version for our records.) If there is any personal information listed in that area which you cannot change directly, such as your name, please contact iATN Support ([]()).
 
 ### **What Choices Do I Have?**
 
@@ -178,7 +135,7 @@ This policy and the [Terms of Use](http://www.iatn.net/disclaim.html) will most 
 
   * [Member Agreement (Made When Registering)](http://www.iatn.net/join/)
   * [iATN Guidelines](http://www.iatn.net/guide.html)
-  * [iATN Membership Overview](http://www.iatn.net/overviews/tab_basicmembership.asp?navBar=basic)
+  * [iATN Membership Overview](http://www.iatn.net/standard-membership/)
 
 
 
@@ -198,5 +155,3 @@ This policy and the [Terms of Use](http://www.iatn.net/disclaim.html) will most 
   * **Revision 1.0.2 (December 29, 2003)** We added this revision history section to track changes to our privacy policy. We added links to [our page discussing the email we send](http://www.iatn.net/nospam.html) to this privacy policy.
 
 
-
-> * * *
