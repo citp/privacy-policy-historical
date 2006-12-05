@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicrecords.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203631id_/http%3A//www.sonymusic.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicrecords.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202530id_/http%3A//www.sonymusic.com/privacy/index.html) for the most accurate reproduction.*
 
 # Sony Music USA
 
