@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320052749id_/http%3A//www.ncr.com/en/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205225624id_/http%3A//www.ncr.com/en/privacy.htm) for the most accurate reproduction.*
 
 # NCR - Privacy Policy and Data Protection Principles
 
