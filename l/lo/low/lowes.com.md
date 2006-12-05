@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022504id_/http%3A//www.lowes.com/lowes/lkn%3Faction%3DtopicSelect%26topic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowes.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205213600id_/http%3A//www.lowes.com/lowes/lkn%3Faction%3DtopicSelect%26topic%3Dprivacy) for the most accurate reproduction.*
 
 # Need Help?
 
@@ -62,7 +62,7 @@ If you ever need to view, change, update or delete any of your registration info
 
 If at anytime you no longer wish to receive newsletters from Lowes.com, click here to send an e-mail to [remove@lowes.com](mailto:remove@lowes.com) and type REMOVE FROM NEWSLETTER LIST in the subject line. You may also choose this option in the "My Account" section on the left-hand side of the screen.
 
-If you want to be removed from all Lowe's marketing, choose one of the following options: send an e-mail to [remove@lowes.com](mailto:remove@lowes.com) and type REMOVE FROM ALL MARKETING in the subject line; call 1-800-44-LOWES; or send your request by mail to: Lowe's Customer Care, PO Box 1111, N. Wilkesboro, NC 28659. Remember to include you name, address and phone number in the request. 
+If you want to be removed from all Lowe's marketing, choose one of the following options: send an e-mail to [remove@lowes.com](mailto:remove@lowes.com) and type REMOVE FROM ALL MARKETING in the subject line; call 1-800-44-LOWES; or send your request by mail to: Lowe's Customer Care, PO Box 1111, N. Wilkesboro, NC 28659. Remember to include your name, address and phone number in the request. 
 
 4\. Online Ordering Information
 
