@@ -1,25 +1,14 @@
-> *The following text is extracted and transformed from the schooloutfitters.com privacy policy that was archived on 2006-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060625021122id_/http%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooloutfitters.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212849id_/http%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy at School Outfitters
 
-| 
-
-  
-
-
-**Did you find what you were looking for on this page?**
-
-  
-
-
-| 
-
-[](http://www.truste.org/ivalidate.php?url=www.schooloutfitters.com&sealid=101)
+|  | 
 
 ## Our Privacy Policy
 
-School Outfitters is a leading retailer of school furniture and equipment, with our headquarters located at 4950 Franklin Avenue, Norwood, OH 45212. We want you to be comfortable shopping with us, so we go to great lengths to protect your privacy and ensure the security of the information you provide us. And we want you to understand and feel comfortable with the information we collect, how we keep it safe and the circumstances under which we might share it. 
-
+| School Outfitters is a leading retailer of school furniture and equipment, with our headquarters located at 4950 Franklin Avenue, Norwood, OH 45212. We want you to be comfortable shopping with us, so we go to great lengths to protect your privacy and ensure the security of the information you provide us. And we want you to understand and feel comfortable with the information we collect, how we keep it safe and the circumstances under which we might share it. | [](http://www.truste.org/ivalidate.php?url=www.schooloutfitters.com&sealid=101)  
+---|---  
+  
 ## What information do we collect?
 
 **Information you provide** \- School Outfitters may collect and store any information you provide to our website or phone representatives. For example, we typically keep a record of the information you provide us when you create an account, place an order, email, call or fax us. This helps us process and track your orders for you. It also helps us provide you with a more personalized experience if you shop with us again. We keep track of such things as: 
@@ -78,6 +67,4 @@ If you have questions or concerns regarding this statement, you should first con
 
 We reserve the right to modify our privacy statement at any time, so please review it frequently. We will post any changes here, on our homepage and in other appropriate places so you'll always know what information we collect, how we use it, and under what circumstances we share it. If we make material changes to our policy, we will notify you here, by email or by means of a notice on our homepage.
 
-LAST UPDATED February 2, 2006.  
-  
----|---
+LAST UPDATED February 2, 2006.
