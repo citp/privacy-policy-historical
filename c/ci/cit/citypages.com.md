@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the citypages.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616203749id_/http%3A//citypages.com/contactus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypages.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210303id_/http%3A//citypages.com/contactus/privacy.asp) for the most accurate reproduction.*
 
 # City Pages - Contact Us
 
 .
 
 [](https://web.archive.org/contactus/ "Back to Contact Us page")
+
+Effective as of October 3, 2006 
 
 #### Village Voice Media
 
@@ -14,7 +16,11 @@ Village Voice Media respects your privacy. Our privacy policy for this site foll
 
 #### Personally Identifiable Information
 
-We do track how our visitors use this site so that we can see what people like and don't like. We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters. We will not, however, release your name, e-mail address or any other personal information to anyone else outside Village Voice Media unless we have your consent, we are under a legal order to do so, or there is an emergency involving danger to a person or property. **This means that we will not provide our advertisers or anyone else outside Village Voice Media with any information specific to you unless we have your consent.** The only Village Voice Media employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution. 
+We do track how our visitors use this site so that we can see what people like and don't like. We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters, which may include contests, surveys and newsletters for certain third parties. 
+
+We will not, however, release your name, e-mail address or any other personal information to anyone else outside Village Voice Media unless we have your consent, we are under a legal order to do so, or there is an emergency involving danger to a person or property. This means that we will not provide our advertisers or anyone else outside Village Voice Media with any information specific to you unless we have your consent. 
+
+If you chose to provide your personally identifiable information for the purposes of a third-party contest, survey, or newsletter, you consent shall be deemed to be given for the release of your personally identifiable information with regard to that third party only, in addition to Village Voice Media. The only Village Voice Media employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution. 
 
 We occasionally have third party agents, subsidiaries, affiliates, and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. They have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using or altering this data in anyway other than to provide the requested services to the Site. 
 
