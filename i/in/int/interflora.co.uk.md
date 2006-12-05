@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2006-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060207075553id_/http%3A//www.interflora.co.uk/page.xml%3Fpage_name%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206002602id_/http%3A//www.interflora.co.uk/page.xml%3Fpage_name%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Privacy Policy
 
 Interflora British Unit is committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 & subsequent revisions thereof). We collect information about you for three reasons: to process your order (including payment authorisation), to provide you with the best possible service and to assist in developing the sites content. 
 
