@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezibuy.com.au privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615220100id_/http%3A//www.ezibuy.com.au/Information/5000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezibuy.com.au privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205202235id_/http%3A//www.ezibuy.com.au/Information/5000) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,8 @@ We only collect personal details relevant to the goods and services we provide. 
 
 Examples of such personal information we collect are:
 
-Name  
+Name
+
 Address  
 Telephone and mobile telephone number  
 Email address  
@@ -19,7 +20,7 @@ Records of Correspondence
 Password (if applicable)  
 Payment Details (if applicable)
 
-When you visit our web site we collect personal information if you open an on-line account, or through your purchase of a product. We may also retain the content of any email message that you send to us. Any personal information contained in your message will only be used or disclosed in ways set out in this Privacy Policy
+When you visit our web site we collect personal information if you open an on-line account, or through your purchase of a product. We may also retain the content of any email message that you send to us. Any personal information contained in your message will only be used or disclosed in ways set out in this Privacy Policy to help enhance your web shopping experience.
 
 You must obtain the consent of any third person whose personal information you provide to us.
 
@@ -29,13 +30,13 @@ Your personal information may be used by us for the purpose disclosed at the tim
 
 - to administer your account;
 
-- to conduct appropriate checks for credit-worthiness and for fraud;
+\- to conduct appropriate checks for credit-worthiness and for fraud;
 
-- for internal purposes (i.e. procedures, risk management, staff training, reviews, billing);
+\- for internal purposes (i.e. procedures, risk management, staff training, reviews, billing);
 
-- to promote and market EziBuy's and its business partner's products and services to you; 
+\- to promote and market EziBuy's and its business partners products and services to you; 
 
-- to help us to develop the website to be useful to you; or
+\- to help us to develop the website to be useful to you; or
 
 - as otherwise permitted by law.
 
@@ -45,9 +46,9 @@ Your personal details we have collected may be:
 
 - used by us to deliver you marketing information about our products and services that we believe may be of interest to you;
 
-- disclosed to organisations outside of EziBuy in relation to EziBuy providing its products and services to you. These organisations include EziBuy's mailing operations, its service providers or officers (for trouble shooting, compliance auditing and maintenance purposes). These organisations will treat your personal information securely, are subject to privacy policies and procedures equivalent to our Privacy Policy , and will only use your personal information to market products or services determined by EziBuy as appropriate for its valued customers; and 
+\- disclosed to organisations outside of EziBuy in relation to EziBuy providing its products and services to you. These organisations include EziBuy's mailing operations, its service providers or officers (for trouble shooting, compliance auditing and maintenance purposes). These organisations will treat your personal information securely, are subject to privacy policies and procedures equivalent to our Privacy Policy , and will only use your personal information to market products or services determined by EziBuy as appropriate for its valued customers; and 
 
-- disclosed to our business partners (such as financial services or insurance companies) for them to offer their products and services to you. We may disclose scrambled credit card details to our business partners, but they will only use those details for transactions with your consent ob tained at the time of purchase. Our business partners will treat your personal information securely, and are subject to privacy policies and procedures equivalent to our Privacy Policy.
+\- disclosed to our business partners (such as financial services or insurance companies) for them to offer their products and services to you. We may disclose scrambled credit card details to our business partners, but they will only use those details for transactions with your consent ob tained at the time of purchase. Our business partners will treat your personal information securely, and are subject to privacy policies and procedures equivalent to our Privacy Policy.
 
 If you do not want us to use or disclose your personal information for direct marketing purposes then please contact us by telephoning 1800 148 148 or emailing [mail@ezibuy.com.au](mailto:mail@ezibuy.com.au) and we will ensure that your name is removed from our mailing list in the manner requested. 
 
@@ -71,4 +72,4 @@ If you have any questions or complaints in relation to your personal information
 
 If you are not satisfied with how we have handled your personal information, you are entitled to lodge a complaint in accordance with applicable legislation.
 
-We may change this policy from time to time and will notify you by posting an updated version of this Privacy Policy on our website. This document represents our Privacy Policy as at 22nd May 2006.
+We may change this policy from time to time and will notify you by posting an updated version of this Privacy Policy on our website. This document represents our Privacy Policy as at 3rd July 2006.
