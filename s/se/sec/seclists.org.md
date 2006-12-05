@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seclists.org privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615005306id_/http%3A//www.insecure.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seclists.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223348id_/http%3A//insecure.org/privacy.html) for the most accurate reproduction.*
 
 # Insecure.org Privacy Policy
 
@@ -44,7 +44,7 @@ If you send us your IP address in a support request or fingerprint submission re
 
 **Surveys and other information requests**
 
-We may occasionally post surveys and other forms requesting information. We will not share personally identifiable information from these forms unless we say otherwise on the survey/form. We may share aggregate data about the answers. For example, [here](http://seclists.org/lists/nmap-hackers/2003/Apr-Jun/0011.html) are the results of one of our surveys. 
+We may occasionally post surveys and other forms requesting information. We will not share personally identifiable information from these forms unless we say otherwise on the survey/form. We may share aggregate data about the answers. For example, [here](http://seclists.org/nmap-hackers/2003/Apr-Jun/0011.html) are the results of one of our surveys. 
 
 **Your consent and changes to the privacy policy**
 
