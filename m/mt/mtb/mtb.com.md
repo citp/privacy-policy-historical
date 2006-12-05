@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtb.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615020959id_/http%3A//mandtbank.com/customerservice/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtb.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206002341id_/http%3A//www.mandtbank.com/customerservice/privacy.cfm) for the most accurate reproduction.*
 
 # M&T Bank : Customer Service
 
@@ -80,7 +80,7 @@ _Back to Top_
 
 **Companies Outside the M&T Family**
 
-If we believe an outside company can help us meet your needs, we may hire it to perform specialized functions for us, such as printing checks or producing ATM and debit cards. We may also engage outside companies to assist us with activities such as data processing and collections, or in otherwise managing our business. Also, we may partner with other financial institutions to offer, endorse or sponsor financial products or services jointly, as we do with the M&T Bank Visa card (for which we partner with MBNA - one of the nation’s largest credit card issuers). Other examples include our relationships with mortgage brokers and insurance agents. And sometimes we select companies to provide you with products and services we don’t offer ourselves - products and services we believe are of value, such as credit insurance. In all the situations referenced here, we share the information we obtain about you (as described previously) only to the extent necessary to allow these companies to perform services for us, or to provide you with products or services.
+If we believe an outside company can help us meet your needs, we may hire it to perform specialized functions for us, such as printing checks or producing ATM and debit cards. We may also engage outside companies to assist us with activities such as data processing and collections, or in otherwise managing our business. Also, we may partner with other financial institutions to offer, endorse or sponsor financial products or services jointly, as we do with the M&T Bank Credit Card (for which we partner with FIA Card Services, N.A. - one of the nation’s largest credit card issuers). Other examples include our relationships with mortgage brokers and insurance agents. And sometimes we select companies to provide you with products and services we don’t offer ourselves - products and services we believe are of value, such as credit insurance. In all the situations referenced here, we share the information we obtain about you (as described previously) only to the extent necessary to allow these companies to perform services for us, or to provide you with products or services.
 
 We are extremely selective when choosing outside companies to become our partners. We realize that it’s our relationship with you that’s on the line - not theirs. So we require them to conform to our own strict confidentiality and privacy standards. An outside company is never allowed to sell your information, or to use it for any purpose other than providing the specific product or service we intended the company to provide.
 
@@ -94,7 +94,7 @@ At M&T, we understand how important it is to protect your personal and financial
 
 Within M&T, we educate our employees about the importance of confidentiality and privacy, and we train them in related policies and procedures. We also take appropriate disciplinary measures whenever necessary to enforce these rules.
 
-Due to the unique nature of Internet transactions, M&T has additional safeguards and procedures in place to protect your personal and financial information on the Internet. For more details, [please click here](https://web.archive.org/web/20060615020959id_/http%3A//mandtbank.com/customerservice/Internet_privacy.cfm).
+Due to the unique nature of Internet transactions, M&T has additional safeguards and procedures in place to protect your personal and financial information on the Internet. For more details, [please click here](https://web.archive.org/web/20061206002341id_/http%3A//www.mandtbank.com/customerservice/Internet_privacy.cfm).
 
 _Back to Top_
 
@@ -146,7 +146,7 @@ _Back to Top_
 
 **Making Your Choices**
 
-If you’d like to limit the amount of your information shared within the M&T family and/or with outside companies, you can do so now using our ["opt out" form](https://services.mandtbank.com/customerservice/privacy/optout.cfm). You will need to provide your M&T account number and your Social Security number to put the limitation on information sharing into effect.
+If you’d like to limit the amount of your information shared within the M&T family and/or with outside companies, you can do so now using our ["opt out" form](https://services.mandtbank.com/customerservice/privacy/optout.cfm) or by calling us at 1-800-785-3162. You will need to provide your M&T account number and your Social Security number to put the limitation on information sharing into effect.
 
 When we receive your request, we will process it promptly. Please note that at the time you make your request, programs that involve information sharing may already be underway, but your name will be removed from such programs in the future.
 
