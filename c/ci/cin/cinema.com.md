@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the cinema.com privacy policy that was archived on 2005-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051217231407id_/http%3A//www.cinema.com/legal/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinema.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206005407id_/http%3A//www.cinema.com/legal/privacy.phtml) for the most accurate reproduction.*
 
 # Privacy Statement @ Cinema.com
-
-[](https://web.archive.org/competition/index.phtml)
-
-| 
 
 Cinema.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and for the website www.cinema.com.
 
@@ -24,6 +20,4 @@ Community: This site contains message boards, and news groups available to its u
 
 Third Party Cookies: In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-This policy may change from time to time so please check back periodically. Please contact Cinema.com Limited if you have any questions about this privacy statement, the practices of this site, or your dealings with the website, you can contact us at: Cinema.com Limited, Thorpe Arch Grange, Thorpe Arch, Wetherby, LS23 7BA, United Kingdom, Or email us at [feedback@cinema.com](mailto:feedback@cinema.com).  
-  
----|---
+This policy may change from time to time so please check back periodically. Please contact Cinema.com Limited if you have any questions about this privacy statement, the practices of this site, or your dealings with the website, you can contact us at: Cinema.com Limited, Thorpe Arch Grange, Thorpe Arch, Wetherby, LS23 7BA, United Kingdom.
