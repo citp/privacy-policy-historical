@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the gotwebhost.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615011254id_/http%3A//gotwebhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotwebhost.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205212050id_/http%3A//gotwebhost.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Got Web Host
 
 Includes uses of  
 5 different nameservers
 
-[](https://web.archive.org/web/20060615011254id_/http%3A//gotwebhost.com/web_hosting.html)
+[](https://web.archive.org/web/20061205212050id_/http%3A//gotwebhost.com/web_hosting.html)
 
   * 2000 Mb Storage
   * 5 Class C IP's
@@ -14,11 +14,11 @@ Includes uses of
 
 
 
-[$79.00/Month](https://web.archive.org/web/20060615011254id_/http%3A//gotwebhost.com/web_hosting.html)
+[$79.00/Month](https://web.archive.org/web/20061205212050id_/http%3A//gotwebhost.com/web_hosting.html)
 
 Great first dedicated server. AMD 2000+. 
 
-[](https://web.archive.org/web/20060615011254id_/http%3A//gotwebhost.com/dedicated-servers.html)
+[](https://web.archive.org/web/20061205212050id_/http%3A//gotwebhost.com/dedicated-servers.html)
 
   * 40 GB hard drive
   * 1 IP
@@ -27,12 +27,12 @@ Great first dedicated server. AMD 2000+.
 
 
 
-[$79.00/Month](https://web.archive.org/web/20060615011254id_/http%3A//gotwebhost.com/dedicated-servers.html)
+[$79.00/Month](https://web.archive.org/web/20061205212050id_/http%3A//gotwebhost.com/dedicated-servers.html)
 
 Make your own  
 private nameservers.
 
-[](https://web.archive.org/web/20060615011254id_/http%3A//gotwebhost.com/hosting.html)
+[](https://web.archive.org/web/20061205212050id_/http%3A//gotwebhost.com/hosting.html)
 
   * 40 GB HD
   * 48 IP's - 8 subnets
@@ -41,7 +41,7 @@ private nameservers.
 
 
 
-[$249.00/Month](https://web.archive.org/web/20060615011254id_/http%3A//gotwebhost.com/hosting.html)
+[$249.00/Month](https://web.archive.org/web/20061205212050id_/http%3A//gotwebhost.com/hosting.html)
 
 ### SEO HOST  |  Call Toll Free: 888-467-8532
 
