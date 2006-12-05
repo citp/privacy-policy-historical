@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bruceclay.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615215855id_/http%3A//www.bruceclay.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bruceclay.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221529id_/http%3A//www.bruceclay.com/privacy.htm) for the most accurate reproduction.*
 
 # bruceclay.com - Privacy Statement
 
@@ -15,7 +15,7 @@ This notice applies to all information collected or submitted on the [company na
 >  Email address   
 >  Phone number   
 >  Credit/Debit Card Information ONLY if you are subscribing / purchasing online   
->  Additional info appropriate to projects being managed or serviced be Bruce Clay, Inc.
+>  Additional info appropriate to projects being managed or serviced by Bruce Clay, Inc. or international region offices.
 
 * * *
 
@@ -55,4 +55,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ## How To Contact Us
 
-**Should you have other questions or concerns about these privacy policies, please call us at 1-805-517-1900 or send us an email to[our support team](https://web.archive.org/contactform.htm). Additional information can be found below.**
+**Should you have other questions or concerns about these privacy policies, please call us at 1-805-517-1900 or send an email to[our support team](https://web.archive.org/contactform.htm). Additional information can be found below.**
