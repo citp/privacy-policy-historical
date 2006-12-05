@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619010626id_/http%3A//www.ibsgroup.org/main/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205221320id_/http%3A//www.ibsgroup.org/main/privacy.shtml) for the most accurate reproduction.*
 
-# Irritable Bowel Syndrome (IBS): Privacy Policy
+# Irritable Bowel Syndrome Privacy Policy
 
 ## The Irritable Bowel Syndrome Self Help and Support Group Respects Your Privacy
 
