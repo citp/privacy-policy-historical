@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedway.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616142250id_/http%3A//speedway.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedway.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210214id_/http%3A//www.speedway.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Speedway SuperAmerica: Privacy Statement
 
