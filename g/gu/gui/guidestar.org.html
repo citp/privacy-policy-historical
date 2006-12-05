@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the guidestar.org privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615010842id_/http%3A//www.guidestar.org/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guidestar.org privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205202723id_/http%3A//www.guidestar.org/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>GuideStar - Privacy Policy</title>
@@ -10,22 +10,6 @@
 <script src="/js/sifr.js" type="text/javascript">
 </script>
 <script src="/js/date.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-<!--
-var theNewsWin = null;
-
-function newsWin(theNewsUrl) {
-
-	if (theNewsWin != null) {
-		// The following line may be used to test that the variable is being set correctly.
-		//alert("Closed Window!");
-		theNewsWin.close();
-	}
-
-	var theNewsWin = window.open(theNewsUrl,"GuideStarNews","scrollbars=yes,resizable=yes,HEIGHT=400,WIDTH=600,status=yes,toolbar=yes,directories=yes,menubar=yes,location=no");
-}
--->
 </script>
 <script type="text/javascript">
 
@@ -62,6 +46,23 @@ function O0000(O0OO0O,OOO0O0O){return(eval("\x74\x79\x70\x65\x6f\x66\x20"+O0OO0O
 </script>
 
 <script type="text/javascript">
+<!--
+var theNewsWin = null;
+
+function newsWin(theNewsUrl) {
+
+	if (theNewsWin != null) {
+		// The following line may be used to test that the variable is being set correctly.
+		//alert("Closed Window!");
+		theNewsWin.close();
+	}
+
+	var theNewsWin = window.open(theNewsUrl,"GuideStarNews","scrollbars=yes,resizable=yes,HEIGHT=400,WIDTH=600,status=yes,toolbar=yes,directories=yes,menubar=yes,location=yes");
+}
+-->
+</script>
+
+<script type="text/javascript">
 
 /****************************************************
      Author: Eric King
@@ -92,17 +93,19 @@ if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 
 <!-- ************ begin page header  ************  -->
 <div id="header">
-<a href="/index.jsp" title="Return to GuideStar's home page."><img src="/images/logo.gif" alt="GuideStar logo" width="178" height="36" class="logo"></a>
-<!-- WEB05 -->
+<a href="/pqNewSearch.do?type=new&amp;partner=guidestar" title="Return to GuideStar's home page."><img src="/images/logo.gif" alt="GuideStar logo" width="178" height="36" class="logo"></a>
+<!-- WEB03 -->
 
 <!-- ************ begin NOT LOGGED IN messages  ************  -->
 
 
-
-
 <p class="learnmore">Connecting people with nonprofit information</p>
 
-<p class="signup"><a href="https://commerce.guidestar.org/GuideStar/newaccount.aspx&#10;&#10;">Register</a>  to access our complete database of nonprofit organizations.</p>
+
+
+
+
+
 
 <!-- ************ end NOT LOGGED IN messages  ************  -->
 
@@ -115,7 +118,7 @@ if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 <li><a href="https://commerce.guidestar.org/GuideStar/newaccount.aspx&#10;&#10;" title="Sign up to access more information. It's free.">Register</a></li>
 
 <li><a href="https://commerce.guidestar.org/GuideStar/basket.aspx?userid=&#10;&#10;" title="See your pending purchases.">Shopping Cart</a></li>
-<li><a href="/help/" title="FAQs, tutorials, glossary, site map, search tips">Help</a></li>
+
 </ul>
 
 
@@ -125,7 +128,7 @@ if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 
 <div id="guidestarit">
 
-<form class="search" method="post" action="/pqShowResults.do?type=guidestarIt&amp;partner=guidestar" name="guidestarisForm" onsubmit="return ntptSubmitTag( this, 'pv=1' );">
+<form class="search" method="post" action="/pqShowFastResults.do?type=guidestarIt&amp;partner=guidestar&amp;source=topboxmain" name="guidestarisForm" onsubmit="return ntptSubmitTag( this, 'pv=1' );">
 <fieldset>
 <label for="searchfield" id="guidestaritlabel">GuideStar It!0--
 </label>
@@ -136,7 +139,7 @@ if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 
 </div>
 
-<p class="forminfo"><span class="forminfo2"><a href="/pqCriteriaEntry.do?type=new&amp;partner=guidestar&amp;source=topnav" title="Find nonprofit organizations in our database.">Advanced Search</a></span> <span style="padding-left:10px;"><a href="/disclaimer.jsp" title="Permitted and prohibited uses of GuideStar">Terms of Use</a></span></p> 
+<p class="forminfo"><span class="forminfo2"><a href="/pqCriteriaEntry.do?type=new&amp;partner=guidestar&amp;source=topnav" title="Find nonprofit organizations in our database.">Advanced Search</a></span> </p> 
 
 <!-- ************ end guidestarit search section  ************  -->
 
@@ -149,18 +152,18 @@ if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 <div id="nav">
 
 <ul id="mainnav">
-<li id="using"><a href="/using/" title="See what's right for you: GuideStar Premium, Select, Basic.">using</a></li>
+<li id="using"><a href="/using/index.jsp?source=dnusing" title="See what's right for you: GuideStar Premium, Select, Basic.">using</a></li>
 <li id="products"><a href="https://commerce.guidestar.org/GuideStar/default.aspx?userid=&#10;&#10;" title="Explore our on-line and custom solutions.">products</a></li>
-<li id="support"><a href="/funding/give2gs.jsp" title="As a nonprofit, we rely on your generous support.">support</a></li>
+<li id="support"><a href="/funding/give2gs.jsp?source=dnsupport" title="As a nonprofit, we rely on your generous support.">support</a></li>
 
-<li id="classifieds"><a href="http://members.guidestar.org/GsEdit/classifiedIndex.do" title="Find out how you can help nonprofits.">classifieds</a></li>
-<li id="resources"><a href="/npo/" title="Update your nonprofit organization's report-it's free!">resources</a></li>
+<li id="classifieds"><a href="http://members.guidestar.org/GsEdit/classifiedIndex.do?source=dnclassifieds" title="Find out how you can help nonprofits.">classifieds</a></li>
+<li id="resources"><a href="/npo/index.jsp?source=dnresources" title="Update your nonprofit organization's report-it's free!">resources</a></li>
 </ul>
 
 <ul id="utilnav">
-<li id="news"><a href="/news/" title="See our news releases, articles, and newsletter.">news</a></li>
-<li id="about"><a href="/about/" title="GuideStar's mission, philosophy, management, and partners">about</a></li>
-<li id="contact"><a href="/contactus/mail.jsp" title="Our addresses, phone number, and operating hours">contact</a></li>
+<li id="news"><a href="/news/index.jsp?source=dnnews" title="See our news releases, articles, and newsletter.">news</a></li>
+<li id="about"><a href="/about/index.jsp?source=dnabout" title="GuideStar's mission, philosophy, management, and partners">about</a></li>
+<li id="contact"><a href="/contactus/mail.jsp?source=dncontact" title="Our addresses, phone number, and operating hours">contact</a></li>
 </ul>
 
 </div> <!-- nav -->
@@ -235,19 +238,24 @@ if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 <!-- ************ begin footer ************  -->
 
 <div id="footer">
-<p class="updated"><script language="JavaScript">document.write(this_date_string)</script></p>
+<p class="updated"><script type="text/javascript">document.write(this_date_string1)</script></p>
 <p class="footnav"><a href="/index.jsp" title="Return to GuideStar's home page.">Home</a> | 
 
 
 <a href="/login.jsp" title="Edit your organization's GuideStar listing-it's free! ">Update Your Nonprofit Report</a>
 
 
- | <a href="/news/newsletter/index.jsp" title="Sign up for the GuideStar Newsletter">Newsletter</a> | <a href="/sitemap.jsp" title="Categorical links to information on our site.">Site Map</a> | <a href="mailto:customerservice@guidestar.org" title="E-mail Customer Service.">E-mail Us</a></p>
+ | <a href="/news/newsletter/index.jsp" title="Sign up for the GuideStar Newsletter">Newsletter</a> | <a href="/sitemap.jsp" title="Categorical links to information on our site.">Site Map</a> | <a href="mailto:customerservice@guidestar.org" title="E-mail Customer Service.">E-mail Us</a> | <a href="/help/" title="FAQs, tutorials, glossary, site map, search tips">Help</a></p>
 
 <p class="copyright">GuideStar is the registered trademark and operating name of Philanthropic Research, Inc., a 501(c)(3) nonprofit organization.
-Copyright © 2006, Philanthropic Research, Inc. All Rights Reserved. <a href="/privacy.jsp" title="We protect your privacy.">Privacy Policy</a> | <a href="/legal.jsp" title="Copyright/trademark information; how to link to GuideStar">Legal Notices</a></p>
+Copyright © 2006, Philanthropic Research, Inc. All Rights Reserved. <a href="/privacy.jsp" title="We protect your privacy.">Privacy Policy</a> | <a href="/legal.jsp" title="Copyright/trademark information; how to link to GuideStar">Legal Notices</a> | <a href="/disclaimer.jsp" title="Permitted and prohibited uses of GuideStar">Terms of Use</a></p>
 </div>
-
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-946060-1";
+urchinTracker();
+</script>
 
 <!-- ************ end footer  ************  -->
 
