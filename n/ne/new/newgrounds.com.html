@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2006-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060615001309id_/http%3A//newgrounds.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newgrounds.com privacy policy that was archived on 2006-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061205234049id_/http%3A//www.newgrounds.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Newgrounds Privacy Statement</title>
@@ -9,8 +9,23 @@
 
 <!---------- BEGIN GLOBAL HEADER ---------->
 <a name="top"></a>
-<script language="JavaScript">
-<!--
+
+<script type="text/javascript" src="/js/genericfunctions.js"></script>
+<script type="text/javascript" src="/js/ajaxagent.js"></script>
+<script type="text/javascript" src="/js/loginheader.js"></script>
+<script type="text/javascript" src="/js/formutils.js"></script>
+<script type="text/javascript">
+
+	// ========================= Load the navbar image swaps ===========================
+	function NGRollOver(name)
+	{
+		document.images[name].src = eval(name + "on.src");
+	}
+
+	function NGRollOut(name)
+	{
+		document.images[name].src = eval(name + "off.src");
+	}
 
 	function InitNGRolls(num)
 	{
@@ -27,50 +42,12 @@
 	}
 
 	InitNGRolls(8);
+	// ======================= End of navbar image swap code ============================
 
-	function NGRollOver(name)
-	{
-		document.images[name].src = eval(name + "on.src");
-	}
-
-	function NGRollOut(name)
-	{
-		document.images[name].src = eval(name + "off.src");
-	}
-
-	function GetHeightWidth(height, width)
-	{
-		var xposition=0, yposition=0, text;
-
-		if((parseInt(navigator.appVersion) >= 4))
-		{
-			xposition = (screen.width - width) / 2;
-			yposition = (screen.height - height) / 2;
-		}
-
-		text = "height=" + height + ",width=" + width + ",screenx=" + xposition + ",screeny=" + yposition + ",left=" + xposition + ",top=" + yposition;
-		return(text);
-	}
-
-	function LookForCook(this_name)
-	{
-		var our_cookies = document.cookie;
-		var pos = (our_cookies.indexOf(this_name)+this_name.length+1);
-
-		if(our_cookies.substring(pos,(pos+1)) == "Y")
-		{
-			return("Y");
-		} else
-		{
-			return("N");
-		}
-	}
-
-	function LookForThisCook(this_name)
-	{
-		return(ReturnCookie(this_name));
-	}
-
+	// ==================== Code for handling the AJAX login box ========================
+	var u_cookie = "NG_GG_username";
+	var p_cookie = "NG_GG_userpass";
+	
 	function ReturnCookie(this_name)
 	{
 		var parts = document.cookie.split(';');
@@ -87,105 +64,65 @@
 			}
 		}
 
-		return(-1);
+		// If we're here, we didn't find the cookie
+		return(null);
 	}
-
-	function DoEncEmail(dom, recip, name)
+	
+	function DivSwap(old_div_id, new_div_id)
 	{
-		var dom_parts = dom.split("|");
-
-		document.write('<a href="mailto:');
-		document.write(recip + "@");
-
-		for(var i=(dom_parts.length-1); i>=0; i--)
+		var old_div = document.getElementById(old_div_id);
+		var new_div = document.getElementById(new_div_id);
+		
+		if((old_div) && (new_div))
 		{
-			document.write(dom_parts[i]);
-			if(i!=0)
-			{
-				document.write(".");
-			}
-		}
-		document.write('">' + name + '</a>');
-	}
-
-	function CheckSearch()
-	{
-		if(document.search.terms.value.length == 0)
-		{
-			alert("You must enter search terms before clicking \"Search NG\".");
-			return(false);
-		}
-		return(true);
-	}
-
-	function OpenProfileWin(user_id)
-	{
-		window.open('/gold/profile/template.php3?id=' + user_id, 'profile' + user_id, GetHeightWidth(400, 490) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
-	}
-
-	function OpenGGWin()
-	{
-		window.open('/gold/login.php', 'goldwin');
-	}
-
-	function OpenSignupWin()
-	{
-		window.open('/gold/signup.php', 'signupwin');
-	}
-
-	function OpenForgotPassWin()
-	{
-		window.open('/forgotpass.html', 'fpwin', GetHeightWidth(250, 400) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
-	}
-
-	function OpenTellFriendWin(topic, url)
-	{
-		window.open('/tellfriend.php3?title=' + escape(topic) + '&url=' + escape(url), 'tfwin', GetHeightWidth(450, 450) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
-	}
-
-	function OpenFlash(file, height, width, url, name)
-	{
-		window.open('/show_flash.php?file=' + file + '&height=' + height + '&width=' + width + '&url=' + url + '&name=' + name, name, GetHeightWidth(height + 42, width) + ',location=0,menubar=0,resizable=0,scrollbars=0,status=0,titlebar=0,toolbar=0,hotkeys=0');
-	}
-
-	function CheckMainLoginForm()
-	{
-		if(document.mainformlogin.username.value.length == 0)
-		{
-			alert("You must enter your username before you can log in.");
-			document.mainformlogin.username.focus();
-			return(false);
-		}
-		else if(document.mainformlogin.userpass.value.length == 0)
-		{
-			alert("You must enter your password before you can log in.");
-			document.mainformlogin.userpass.focus();
-			return(false);
-		}
-
-		document.mainformlogin.submit();
-	}
-
-	function DoStuff()
-	{
-		if(document.mainformlogin.username.value.length == 0)
-		{
-			document.mainformlogin.username.focus();
-		} else
-		{
-			document.mainformlogin.userpass.focus();
+			new_div.style.display = "block";
+			old_div.style.display = "none";
 		}
 	}
-
-	function OpenRememberExplainWin()
+	
+	function IsSoftLoggedIn()
 	{
-		window.open('/gold/explainremember.html', 'explwin', GetHeightWidth(350, 400) + ',location=0,menubar=0,resizable=0,scrollbars=1,status=0,titlebar=0,toolbar=0,hotkeys=0');
+		return((ReturnCookie(u_cookie) != null) && (ReturnCookie(p_cookie) != null));
 	}
 
-//-->
+	function LoadLoginBox()
+	{
+		// Let's make sure the browser isn't preserving some weird state
+		if(!(typeof request_in_progress == "undefined"))
+		{
+			// This variable may not have been loaded yet, since it's coming from a .js file
+			request_in_progress = false;
+		}
+	
+		// Always see if they've got a username cookie to put as a default value in the login box
+		var username = ReturnCookie(u_cookie);
+		if(username != null)
+		{
+			document.forms["loginboxform"].elements["username"].value = username;
+		}
+	
+		// Now swap in the appropriate box
+		if(!(IsSoftLoggedIn()))		// They're not logged in, so show the login form
+		{
+			DivSwap("loginbox", "loginbox_notloggedin");
+		}
+		else						// They are logged in, so show their account options
+		{
+			// Gotta do this here, so the username displays properly on page refreshes
+			SetLoggedInUsername(username);
+			
+			DivSwap("loginbox", "loginbox_loggedin");
+		}
+	}
+	
+	function SetLoggedInUsername(name)
+	{
+		document.getElementById("loginbox_username").firstChild.data = name;
+	}
+	// ========================= End of AJAX login box code =============================
+
 </script>
 <style type="text/css">
-<!--
 
 FORM { margin-bottom : 0px; margin-top : 0px; }
 
@@ -294,9 +231,93 @@ a.header:active { color: #ffab0d; }
 	font-size: 9px;
 }
 
-//-->
-</style>
+.loginbox {
+	font-family: Arial,Helvetica;
+	font-size: 10px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	padding: 4px;
+	margin-left: 1px;
+}
 
+.loginput {
+	width: 145px;
+	height: 18px;
+	font-size: 10px;
+	background: #fc0;
+	color: black;
+	border: 2px solid #fc0;
+	margin-bottom: 6px; *margin-bottom: 1px;
+	}
+
+#loginbox_notloggedin {
+	display: none;
+	padding-top: 1em;
+}
+
+#loginbox_loggedin {
+	display: none;
+	padding-top: 1.5em;
+}
+
+#loginbox_username {
+	font-weight: bold;
+	font-style: italic;
+}
+
+#login_submitbutton {		/* Ugly hack for IE 6 */
+	height: 7px;
+	width: 7px;
+	background-color: #000000;
+	border: #000000 1px solid;
+	display: none;
+	_display: inline;
+}
+
+#loginbox_animation_login {
+	display: none;
+	font-family: Arial,Helvetica;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: left;
+	padding-left: 8px;
+}
+
+#loginbox_animation_logout {
+	display: none;
+	margin-top: 1em;
+	text-align: left;
+}
+
+a.clickableText
+{
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.clickableText:visited
+{
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.clickableText:hover
+{
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a.clickableText:active
+{
+	color: #ffffff;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+</style>
 
 <table border="0" cellpadding="0" cellspacing="0" width="770" align="center">
 	<tbody><tr>
@@ -341,110 +362,72 @@ a.header:active { color: #ffab0d; }
 				</tbody></table>
 				</td>
 				<td valign="top"><img src="/images2006/spacer.gif" width="5" height="5"></td>
-				<td width="165" valign="top" align="right">
-				<table border="0" cellpadding="8" cellspacing="0" width="163">
-					<tbody><tr>
-						<td align="center" valign="middle" class="font_header">
-
-
-						<script language="javascript">
-						<!--
-
-							var logged_in_name = ReturnCookie('NG_GG_username');
-
-							if(LookForThisCook('logged_in') != 1)
-							{
-								document.write('<form method="POST" action="/gold/login.php" name="mainformlogin" onSubmit="return(CheckMainLoginForm());">');
-								document.write('<input type="hidden" name="action" value="1">');
-								document.write('<input type="hidden" name="l" value="');
-								document.write(window.location.pathname);
-								if(window.location.search != "")
-								{
-									document.write(escape(window.location.search));
-								}
-								document.write('">');
-								document.write('<table border="0" cellpadding="0" cellspacing="0">');
-								document.write('<tr>');
-								document.write('<td class="font_small_header"><font color="#FFFFFF">&gt;</font> <a href="/gold/signup.php"><font color="#FFCC00">Not a member? SIGN UP!</font></a><br><font color="#FFFFFF">&gt;</font> <a href="/gold/forgotpass.php3"><font color="#FFCC00">Forgot Login?</font></a><br><img src="/images2006/spacer.gif" width="5" height="10"></td>');
-								document.write('</tr>');
-								document.write('<tr>');
-								document.write('<td><img src="/images2006/head_username.gif" width="59" height="8"><br>');
-								document.write('<input type="text" name="username" size="24" maxlength="20" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,204,0); color: rgb(0,0,0); border: 1px solid rgb(255,204,0)" value="');
-								if(logged_in_name != -1)
-								{
-									document.write(logged_in_name);
-								}
-								document.write('"><br>');
-								document.write('<img src="/images2006/spacer.gif" width="5" height="6"><br>');
-								document.write('<img src="/images2006/head_password.gif" width="60" height="8"><br>');
-								document.write('<input type="password" name="userpass" size="24" maxlength="10" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,204,0); color: rgb(0,0,0); border: 1px solid rgb(255,204,0)"></td>');
-								document.write('</tr>');
-								document.write('<tr>');
-								document.write('<td><img src="/images2006/spacer.gif" width="5" height="6"></td>');
-								document.write('</tr>');
-								document.write('<tr>');
-								document.write('<td align="center">');
-								document.write('<table border="0" cellpadding="0" cellspacing="0" width="100%">');
-								document.write('<tr>');
-								document.write('<td><input type="checkbox" name="remember" value="on"></td>');
-								document.write('<td class="font_small_header" nowrap>Save! [<a href="javascript:OpenRememberExplainWin();">?</a>]</td>');
-								document.write('<td width="50%" align="right"><input type="image" name="jackin" src="/images2006/jack_in.gif" align="absbottom" width="71" height="18"></td>');
-								document.write('</tr>');
-								document.write('</table>');
-								document.write('</td>');
-								document.write('</tr>');
-								document.write('</table>');
-								document.write('</form>');
-							} else
-							{
-								document.write('<br/>Logged in as <b><i>' + logged_in_name + '</i></b>.');
-								document.write('<br/><img src="/images2006/spacer.gif" width="2" height="10"><br/><center><a href="/gold/login.php"><img src="/images2006/acct_opt.gif" width="84" height="18" border="0"></a>');
-								document.write('<br/><img src="/images2006/spacer.gif" width="2" height="10"><br/><a href="/pm/"><img src="/images2006/inbox.gif" width="84" height="18" border="0"></a>');
-								document.write('<br/><img src="/images2006/spacer.gif" width="2" height="10"><br/><a href="/gold/logout.php?');
-								document.write(window.location.pathname);
-								if(window.location.search != "")
-								{
-									document.write(escape(window.location.search));
-								}
-								document.write('"><img src="/images2006/logout.gif" width="84" height="18" border="0"></a></center>');
-							}
-
-						//-->
-						</script><form method="POST" action="/gold/login.php" name="mainformlogin" onsubmit="return(CheckMainLoginForm());"><input type="hidden" name="action" value="1"><input type="hidden" name="l" value="/web/20060615001309id_/http%3A//newgrounds.com/privacy.html"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="font_small_header"><font color="#FFFFFF">&gt;</font> <a href="/gold/signup.php"><font color="#FFCC00">Not a member? SIGN UP!</font></a><br><font color="#FFFFFF">&gt;</font> <a href="/gold/forgotpass.php3"><font color="#FFCC00">Forgot Login?</font></a><br><img src="/images2006/spacer.gif" width="5" height="10"></td></tr><tr><td><img src="/images2006/head_username.gif" width="59" height="8"><br><input type="text" name="username" size="24" maxlength="20" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,204,0); color: rgb(0,0,0); border: 1px solid rgb(255,204,0)" value=""><br><img src="/images2006/spacer.gif" width="5" height="6"><br><img src="/images2006/head_password.gif" width="60" height="8"><br><input type="password" name="userpass" size="24" maxlength="10" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,204,0); color: rgb(0,0,0); border: 1px solid rgb(255,204,0)"></td></tr><tr><td><img src="/images2006/spacer.gif" width="5" height="6"></td></tr><tr><td align="center"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><input type="checkbox" name="remember" value="on"></td><td class="font_small_header" nowrap="">Save! [<a href="javascript:OpenRememberExplainWin();">?</a>]</td><td width="50%" align="right"><input type="image" name="jackin" src="/images2006/jack_in.gif" align="absbottom" width="71" height="18"></td></tr></tbody></table></td></tr></tbody></table></form>
-						<noscript><form method="POST" action="/gold/login.php" name="mainformlogin" onSubmit="return(CheckMainLoginForm());">
-						<input type="hidden" name="action" value="1">
+				<td width="165" valign="top" align="center" class="font_header">
+					<div id="loginbox" class="loginbox" style="display: none;">checking login status...</div>
+					<div id="loginbox_notloggedin" class="loginbox" style="display: block;">
+						<form name="loginboxform" method="post" action="/gold/account.php" onsubmit="AttemptLogin();return(false);">
+						
 						<table border="0" cellpadding="0" cellspacing="0">
-							<tr>
-								<td class="font_small_header"><img src="/images2006/arrow_sm.gif" width="8" height="9"><font color="#FFFFFF"><i>Grounds Gold Sign-In!</i></font><br>
-								<img src="/images2006/arrow_sm.gif" width="8" height="9"><a href="/gold/signup.php">Not a member? SIGN UP!</a><br><img src="/images2006/spacer.gif" width="5" height="10"></td>
-							</tr>
-							<tr>
-								<td><img src="/images2006/head_username.gif" width="59" height="8"><br>
-								<input type="text" name="username" size="24" maxlength="20" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,204,0); color: rgb(0,0,0); border: 1px solid rgb(255,204,0)"><br>
+						<tbody><tr>
+							<td class="font_small_header">
+								<font color="#FFFFFF">&gt;</font> <a href="/gold/signup.php"><font color="#FFCC00">Not a member? SIGN UP!</font></a><br>
+								<font color="#FFFFFF">&gt;</font> <a href="/gold/forgotpass.php3"><font color="#FFCC00">Forgot Login?</font></a>&nbsp;<input type="submit" id="login_submitbutton" value="Submit"><br>
+							</td>
+						</tr>
+						<tr>
+							<td><img src="/images2006/spacer.gif" width="7" height="7"></td>
+						</tr>
+						<tr>
+							<td>
+								<img src="/images2006/head_username.gif" width="59" height="8"><br>
+								<input type="text" name="username" size="24" maxlength="20" class="loginput"><br>
 								<img src="/images2006/spacer.gif" width="5" height="6"><br>
 								<img src="/images2006/head_password.gif" width="60" height="8"><br>
-								<input type="password" name="userpass" size="24" maxlength="10" style="font-family: Arial; font-size: 8pt; background-color: rgb(255,204,0); color: rgb(0,0,0); border: 1px solid rgb(255,204,0)"></td>
-							</tr>
-							<tr>
-								<td><img src="/images2006/spacer.gif" width="5" height="6"></td>
-							</tr>
-							<tr>
-								<td align="center">
-								<table border="0" cellpadding="0" cellspacing="0" width="100%">
-									<tr>
-										<td width="50%" class="font_small_header"><img src="/images2006/arrow_sm.gif" width="8" height="9"><a href="/gold/forgotpass.php3">Forgot info?</a></td>
-										<td width="50%" align="right"><input type="image" name="jackin" src="/images2006/jack_in.gif" align="absbottom" width="71" height="18"></td>
+								<input type="password" name="userpass" size="24" maxlength="10" class="loginput">
+							</td>
+						</tr>
+						<tr>
+							<td><img src="/images2006/spacer.gif" width="5" height="5"></td>
+						</tr>
+
+						<tr>
+							<td align="center">
+								<div id="loginbox_button"> 
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+									<tbody><tr>
+										<td><input type="checkbox" name="remember" id="remember" value="on"></td>
+										<td class="font_small_header" nowrap="">
+											<a class="clickableText" href="javascript:HandleClick('remember');">Save!</a> [<a href="javascript:OpenRememberExplainWin();">?</a>] 
+										</td>
+										<td width="50%" align="right">
+											<input type="image" name="jackin" src="/images2006/jack_in.gif" align="absbottom" width="71" height="18">
+										</td>
 									</tr>
-								</table>
-								</td>
-							</tr>
-						</table>
-						</form></noscript>
-
-
-						</td>
-					</tr>
-				</tbody></table>
+									</tbody></table>
+								</div>
+								<div id="loginbox_animation_login">
+									Logging In
+								</div>
+							</td>
+						</tr>
+						</tbody></table>
+												
+						</form>
+					</div>
+					<div id="loginbox_loggedin" class="loginbox">
+						Logged in as <span id="loginbox_username">.</span>.<br>
+						<img src="/images2006/spacer.gif" width="2" height="10"><br>
+						<div align="center">
+							<a href="/gold/account.php"><img src="/images2006/acct_opt.gif" width="84" height="18" border="0"></a><br>
+							<img src="/images2006/spacer.gif" width="2" height="10"><br>
+							<a href="/pm/"><img src="/images2006/inbox.gif" width="84" height="18" border="0"></a><br>
+							<img src="/images2006/spacer.gif" width="2" height="10"><br>
+							<a href="/gold/logout.php" onclick="AttemptLogout();return(false);"><img src="/images2006/logout.gif" width="84" height="18" border="0"></a>
+							<div id="loginbox_animation_logout">
+								Logging Out
+							</div>
+						</div>
+					</div>
 				</td>
 				<td valign="top" align="center"><img src="/images2006/spacer.gif" width="3" height="5"></td>
 			</tr>
@@ -485,13 +468,7 @@ a.header:active { color: #ffab0d; }
 			<tbody><tr>
 				<td width="15"><img src="/layout04/newhf/banner_left.gif" width="12" height="100"></td>
 				<td width="100%" background="/layout04/newhf/banner_mid.gif" align="center">
-				<script language="JavaScript">
-				<!--
-
-				var ng_chars = new Array("/iframe_tribalfusion.html", "/iframe_casale.html", "/iframe_casale.html", "/iframe_shizmoo.html");
-				document.write('<iframe src="' + ng_chars[Math.floor((Math.random()*ng_chars.length))] + '" scrolling="no" frameborder="no" align="center" height = "90px" width = "728px"></iframe>');
-
-				//--></script><iframe src="/iframe_tribalfusion.html" scrolling="no" frameborder="no" align="center" height="90px" width="728px"></iframe><noscript><iframe src="/iframe_track.html" scrolling="no" frameborder="no" align="center" height = "90px" width = "728px"></iframe></noscript>
+				<iframe src="http://ads.newgrounds.com/ads.php?t=1&amp;s=et" scrolling="no" frameborder="no" align="center" height="90px" width="728px"></iframe>
 				</td>
 				<td width="26"><img src="/layout04/newhf/banner_right.gif" width="23" height="100"></td>
 			</tr>
@@ -500,6 +477,10 @@ a.header:active { color: #ffab0d; }
 	</tr>
 	<tr>
 		<td background="/layout04/newhf/bg_full.gif" align="center">
+		
+			<script type="text/javascript">
+				LoadLoginBox();
+			</script>
 		<!---------- END GLOBAL HEADER ---------->
 
 
@@ -869,7 +850,7 @@ Contacting the Web Site
 					var ng_chars = new Array("/iframe_comotion.html", "/iframe_comotion2.html");
 					document.write('<iframe src="' + ng_chars[Math.floor((Math.random()*ng_chars.length))] + '" scrolling="no" frameborder="no" align="center" height = "90px" width = "728px"></iframe>');
 
-				//--></script><iframe src="/iframe_comotion.html" scrolling="no" frameborder="no" align="center" height="90px" width="728px"></iframe><noscript><iframe src="/iframe_comotion2.html" scrolling="no" frameborder="no" align="center" height = "90px" width = "728px"></iframe></noscript></td>
+				//--></script><iframe src="/iframe_comotion2.html" scrolling="no" frameborder="no" align="center" height="90px" width="728px"></iframe><noscript><iframe src="/iframe_comotion2.html" scrolling="no" frameborder="no" align="center" height = "90px" width = "728px"></iframe></noscript></td>
 				<td width="13" background="/layout04/newhf/ad_right.gif" align="center"><img src="/layout04/newhf/ad_spacer.gif" width="13" height="5"></td>
 			</tr>
 		</tbody></table>
@@ -880,6 +861,13 @@ Contacting the Web Site
 	</tr>
 </tbody></table>
 <!---------- END GLOBAL FOOTER ---------->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-850825-1";
+urchinTracker();
+</script>
  
 
 </body></html>
