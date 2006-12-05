@@ -1,21 +1,25 @@
-> *The following text is extracted and transformed from the harmony-central.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204802id_/http%3A//www.harmony-central.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmony-central.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205203800id_/http%3A//www.harmony-central.com/privacy.html) for the most accurate reproduction.*
 
 # Harmony Central® Privacy Statement
 
-|    
+| 
+
+SEARCH
+
   
- or   
+[advanced search](http://search.harmony-central.com/search?access=p&sort=date%3AD%3AL%3Ad1&output=xml_no_dtd&site=default_collection&ie=UTF-8&oe=UTF-8&client=default_frontend&proxystylesheet=default_frontend&ip=66.178.161.114&proxycustom=%3CADVANCED/%3E)  
+  
 ---  
   
   
    
 **NEW!!**
 
-  * [Articles](https://web.archive.org/articles/tips/)
+  * [Library](https://web.archive.org/articles/)
   * [Buying Guides](https://web.archive.org/ElectronicMusicianGuides/)
-  * [Radio Central](https://web.archive.org/RadioCentral/)
-  * [New Products](https://web.archive.org/Newp/)
-  * [What's New](https://web.archive.org/New/)
+  * [Theater](https://web.archive.org/theater/)
+  * [New Products](https://web.archive.org/newproducts/)
+  * [Shopping](https://web.archive.org/shopping/)
 
 **HIGHLIGHTS**
 
