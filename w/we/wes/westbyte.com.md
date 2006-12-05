@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the westbyte.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615022029id_/http%3A//www.westbyte.com/index.phtml%3Fpage%3Dprivacy%26tmp%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westbyte.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224131id_/http%3A//www.westbyte.com/index.phtml%3Fpage%3Dprivacy%26tmp%3D1) for the most accurate reproduction.*
 
 # WestByte | Privacy
 
 **WestByte Privacy Practices**  
-This statement discloses the privacy practices for the WestByte Web site. Questions regarding this statement should be directed to WestByte at: [info@westbyte.com](mailto:info@westbyte.com).
+This statement discloses the privacy practices for the WestByte Web site. Questions regarding this statement should be directed to WestByte at: .
 
 **Personal Information**  
 At WestByte we respect your right to privacy and we understand that, as a visitor to westbyte.com, you prefer to control your own personal information and preferences. For this reason, we may ask you to register or to provide personal information and preferences when you visit certain areas of westbyte.com, download free software, request information, or subscribe to WestByte newsletter.
@@ -23,4 +23,4 @@ The information gathered for the WestByte User Forums is completely voluntary. A
 **Links**  
 In some areas of the website, WestByte may choose to link to another website. We cannot be responsible for any of the content on these external sites. We are also not responsible for the privacy policies in place on that site.
 
-If you have any questions or comments about our privacy practices, you can contact us at: [info@westbyte.com](mailto:info@westbyte.com). 
+If you have any questions or comments about our privacy practices, you can contact us at: . 
