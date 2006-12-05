@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616202105id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britannica.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205184733id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
 
 # Encyclopædia Britannica, Inc. Corporate Site
 
@@ -61,9 +61,9 @@ We currently contract with several online partners to help manage and optimize o
 
   * **Personal Information** Britannica uses Personal Information for: allowing Britannica site Users to obtain an account and to receive communications they request; making ongoing enhancements to the Britannica sites; marketing and promotional purposes (for example, offering Users the opportunity to take advantage of special promotions for Britannica products and services (See " _Subscriber Communications_ " and " _Offers from Our Business Partners_ " below)); and evaluating Web site usage by analyzing and otherwise using Personal Information and related data in the aggregate, but not with respect to any individual Britannica site User. In addition, with respect to Britannica site Users located outside North America, we may share pertinent Personal Information with our local subsidiaries. Please click on the following links to review privacy policies of our local subsidiaries: 
 
-[UK Privacy Policy](http://britannicashop.britannica.co.uk/cgi-bin/britannicashop.storefront/3eb0382c0a437fac273fc0a8029606b3/UserTemplate/4#privacy)
+[UK Privacy Policy](http://www.britannica.co.uk/BritannicaCoUK_Info_Privacy.htm)
 
-[Australian Privacy Policy](http://www.britannica.com.au/PrivacyPolicy)
+[Australian Privacy Policy](http://www.britannica.com.au/pages.asp?page=/pages/privacy.asp)
 
 Britannica does not sell or otherwise permit third parties to use any individually identifiable Personal Information about any Britannica site User without an express and informed consent of such User. Nor does Britannica include in any of the Britannica sites any functionality for performing "reverse searches" to identify Web site Users from their e-mail addresses. However, as discussed below, Britannica reserves the right to analyze and utilize Personal Information in order to more effectively optimize the User experience and to present certain opportunities to Users for their benefit. Britannica also reserves the right to share with its partners and third parties some Personal Information provided that such use of Personal Information does not violate any expectations of privacy of or agreement with any Britannica site User. Britannica has adopted this Privacy Policy to inform Britannica site Users of how it collects, stores, and uses Personal Information. Britannica's intent is to balance its legitimate business interests in collecting and using Personal Information in order to continuously improve Britannica products and services against the reasonable expectations of privacy of its Users.
 
