@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicksor.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616194832id_/http%3A//clicksor.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksor.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205184809id_/http%3A//www.clicksor.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Clicksor online advertising service privacy policy.
 
@@ -14,17 +14,14 @@ At Clicksor™, We may use cookies to:
 
   * We will not use cookies to identify, monitor or track any personally identifiable information.
   * Our cookies do not contain any personally identifiable information about you.
-  * We do not merge or associate our cookie information with any other visitor's confidential identifiable data obtained by us or from the 3rd parties. You also have flexible choices in respect to cookies. By simply modifying your browser preferences, you have the right to choose whether:
-  * To accept all cookies,
-  * To be notified when a cookie is set,
-  * To reject all cookies. For more information on how to modify your browser settings in order to block or filter cookies, please visit <http://www.cookiecentral.com/faq/>.
+  * We do not merge or associate our cookie information with any other visitor's confidential identifiable data obtained by us or from the 3rd parties. You also have flexible choices in respect to cookies. By simply modifying your browser preferences, you have the right to choose whether to accept all cookies, to be notified when a cookie is set or to reject all cookies. For more information on how to modify your browser settings in order to block or filter cookies, please visit <http://www.cookiecentral.com/faq/>.
 
 
 
 However, please note that if you reject some or all cookies, your experience at our sites and on other sites throughout the web may not be completed. Some sites require cookies to function, such as those with e-commerce features. In addition, if you disable cookies, you will not be eligible to take advantage of personalized content delivery offered by us or other Internet sites.
 
 **Third Party Cookies At Our Sites**  
-While we use cookies in other parts of our website, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain. Please contact the Payment Services provider for more information as noted ablove.
+While we use cookies in other parts of our website, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain. Please contact the Payment Services provider for more information as noted above.
 
 **Registration Forms**  
 Our site's registration form requires users to provide contact information (such as their name, email, and postal address). This contact information is only used to get in touch with the customer when necessary and is never sold or shared. 
@@ -34,4 +31,4 @@ This site contains links to other sites. Clicksor™ is not responsible for the 
 webmaster@clicksor.com](mailto:webmaster@clicksor.com)
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your concern about this website, please contact: [webmaster@clicksor.com](mailto:webmaster@clicksor.com)
+If you have any questions about this privacy statement, the practices of this site, or concerns about this website, please contact: [webmaster@clicksor.com](mailto:webmaster@clicksor.com)
