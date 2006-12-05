@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the halliburton.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615204822id_/http%3A//halliburton.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halliburton.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205231634id_/http%3A//www.halliburton.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 PRIVACY STATEMENT
 
-**IMPORTANT:** Please read the following and the [Terms and Conditions of Use](https://web.archive.org/web/20060615204822id_/http%3A//halliburton.com/legal.jsp) before accessing and using this Site.
+**IMPORTANT:** Please read the following and the [Terms and Conditions of Use](https://web.archive.org/web/20061205231634id_/http%3A//www.halliburton.com/legal.jsp) before accessing and using this Site.
 
 Thank you for visiting www.halliburton.com. We hope that you will find this website ("Site") helpful and informative.
 
-Halliburton is strongly committed to respecting the privacy of all persons using this website ("Site"), and the protection of any personal information which we may collect and which you may choose to share with us. Such personal information will be used in accordance with the disclosures in this Privacy Statement, which is part of and incorporated into the Terms and Conditions of Use of this [Site](https://web.archive.org/web/20060615204822id_/http%3A//halliburton.com/legal.jsp).
+Halliburton is strongly committed to respecting the privacy of all persons using this website ("Site"), and the protection of any personal information which we may collect and which you may choose to share with us. Such personal information will be used in accordance with the disclosures in this Privacy Statement, which is part of and incorporated into the Terms and Conditions of Use of this [Site](https://web.archive.org/web/20061205231634id_/http%3A//www.halliburton.com/legal.jsp).
 
 **Exclusive Disclosures Pertaining to Use of Personal Information.** Please note that this Privacy Statement pertains exclusively to information which you provide to us in the course of your use and access of the Site, and does not alter or affect the terms and conditions of any other agreement that you may have or enter into with any Halliburton entity for any given product or service. The latter agreement will continue to govern that specific legal relationship with Halliburton. However, some pages on this Site or areas of this Site with restricted access ("Secured Sites", including project extranets or sites engaged in e-commerce) or in foreign locations may require the application of additional or special privacy disclosures, which will be posted on the home page of that Site.
 
@@ -38,4 +38,4 @@ Last Updated: 04/01/2002
 
 Back to Top
 
-[Printer Friendly Version of this Page](https://web.archive.org/web/20060615204822id_/http%3A//halliburton.com/privacy.jsp?printMe&newsurl=null)
+[Printer Friendly Version of this Page](https://web.archive.org/web/20061205231634id_/http%3A//www.halliburton.com/privacy.jsp?printMe&newsurl=null)
