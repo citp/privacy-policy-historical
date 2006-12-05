@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619185342id_/http%3A//members.driverguide.com/index.php%3Faction%3Ddoc%26page%3Dhome__docs__privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210542id_/http%3A//members.driverguide.com/index.php%3Faction%3Ddoc%26page%3Dhome__docs__privacy) for the most accurate reproduction.*
 
 # DriverGuide.com
 
@@ -86,7 +86,9 @@ Or by physical mail at:
 DriverGuide.com  
 c/o iCentric Corporation  
 6601 Center Drive West, Suite 500  
-Los Angeles, CA 90045, USA 
+Los Angeles, CA 90045, USA
+
+(310) 348-8120 
 
 Or by using our [Feedback Form](http://members.driverguide.com/index.php?action=feedback)
 
@@ -94,6 +96,8 @@ Or by using our [Feedback Form](http://members.driverguide.com/index.php?action=
 
 To report email abuse, please use our [Feedback Form](http://members.driverguide.com/index.php?action=feedback)   
 Or by email at: [abuse@DriverGuide.com](mailto:abuse@DriverGuide.com) or [postmaster@DriverGuide.com](mailto:postmaster@DriverGuide.com)
+
+Website hosted by RackSpace.com ****
 
 ## **11\. Premium Memberships**
 
