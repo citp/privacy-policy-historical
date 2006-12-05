@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrology-online.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629222846id_/http%3A//www.astrology-online.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrology-online.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215345id_/http%3A//www.astrology-online.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -56,4 +56,4 @@ We care about children and understand that they have special privacy needs. Ther
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[Click here to send email to webmaster](https://web.archive.org/feedbackaolnospam.htm)
+[Click here to send email to webmaster](http://www.astrology-online.com/feedbackaolnospam.htm)
