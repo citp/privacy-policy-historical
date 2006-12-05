@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuartweitzman.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615021713id_/https%3A//www.stuartweitzman.com/customerservice/policies.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuartweitzman.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205215910id_/http%3A//www.stuartweitzman.com/customerservice/privacy.asp) for the most accurate reproduction.*
 
 # Stuart Weitzman | Customer Service | Our Policies
 
@@ -9,50 +9,67 @@
   
 
 
-Returns Policy
-
-Stuart Weitzman accepts returned merchandise within 14 days from the date of purchase. A return shipping label is enclosed with each product. Return shipping charges will be paid by Stuart Weitzman. All merchandise must be returned unworn and in the original packing. Customers are asked to specify the reason for the return on the return form included with the original shipment. Credit will be issued upon inspection of the product. Refunds issued will be for the price of the merchandise plus tax if applicable. Shipping charges are non-refundable.
-
-If you are returning your shoes in order to get a different size, please return the incorrect pair for credit first. Then, please order the style again through the website. 
-
-Stuart Weitzman will pay return shipping charges on domestic orders only. We do not allow returns or exchanges on international orders. 
-
-Sale items are final sale. The 14 day return policy applies for regularly priced merchandise only. There are no returns or exchanges on sale merchandise.
-
-Shipping Policy
-
-Orders shipped via Regular, 3 Day Select, 2nd Day Air, or Overnight UPS are processed Monday through Friday. All orders for Overnight, 2nd Day and 3-Day delivery will be processed and shipped the next business day. Regular UPS delivery may take up to 1 week in some areas. Please note that we are unable to ship to P.O. Boxes.
-
-All overnight orders must be received by 12pm. If we are unable to ship your air order, we will send an e-mail notification. Business days only.
-
-| Our Shipping Rates | Overnight | 2nd Day Air | 3 Day Select | Regular UPS  
----|---|---|---|---  
-Domestic Shipping: | $25.00 per item | $18.00 per item | $13.00 per item | $6.00 per item  
-Shipping to Alaska/Hawaii: | _not available_ | $18.00 per item | _not available_ | _not available_  
-Shipping to Canada: | $40.00 per item | $25.00 per item | _not available_ | $10.00 per item  
-**International Shipping:** Shipping rates apply by country and will be added to the cost of the merchandise. The customer is responsible for importation charges. Please note that we can only accept orders placed with matching billing and shipping addresses for payment by American Express.  
-  
-Payment Policy
-
-Payment must be made by credit card, in US dollars only. We accept American Express, Visa and Master Card for orders originating in and shipping to the United States and Canada. We accept American Express for all other international orders.
-
-Cancellation and Back Order Policy
-
-If we are unable to fulfill your order within the time frame outlined, you will receive either an e-mail or a telephone call giving you the approximate time and availability to fulfill your order.
-
 Privacy Policy
 
-Stuart Weitzman takes your privacy concerns seriously, and we make every reasonable effort to protect your privacy and provide a safe, secure online shopping experience.
+Stuart Weitzman takes your privacy concerns seriously. Accordingly, we have posted this Privacy Policy in order to explain our practices and the choices you have with respect to the collection, use and disclosure of any information collected during your visit to  (this “Web Site”). This Privacy Policy covers only information collected at this Web Site, and does not cover any information collected offline or at any other Web site.
 
-  * Stuart Weitzman will not share, distribute, or sell your personal information to outside organizations.
-  * We will inform you about why we are collecting personal information and how we intend to use it.
-  * We collect and store your name, address, and other basic information in order to fulfill and bill your online orders.
-  * We collect information about your fashion preferences to help us develop and customize products that better meet your needs.
-  * Your member address, login and Wish List information are password-protected. Only you have access to this information and you control who has access to your Wish List information. You may update your address and login information at any time.
-  * We take every measure to ensure that all credit card information and other personal data are kept with the highest standards of safety, security, and confidentiality.
+**Categories of Personally Identifiable Information We Collect**
+
+Generally, you may browse our Web Site without providing any personally identifiable information. However, we may ask that you provide information, including personally identifiable information, at various times and locations on this Web Site. For example, if you decide to register as a Member, you will be asked to provide information such as your name, e-mail address, mailing address, and telephone number. To protect your personal information, Members must also enter a password. Further, if you place an order on this Web Site, we will request information such as your delivery and billing address and credit card number and expiration date. Additionally, we may collect information about your fashion preferences to help us develop and customize products to better meet your needs. If you prefer that we not collect any personally identifiable information from you, please do not provide us with any such information. When you submit your personally identifiable and other information on this Web Site, you are giving your consent to the collection, use and disclosure of such information as set forth in this Privacy Policy.
+
+**Use and Disclosure of Your Personally Identifiable Information**
+
+When you provide us with your personally identifiable information, we may use such information to notify you of sales, special events, and other information that may be of interest to our customers. We also use your personally identifiable information to manage our Member Registry, fulfill and bill your orders, and communicate with you about the status of orders. We may also share your personally identifiable information with our affiliates who may use your information for similar purposes.
+
+We will not share, distribute, or sell your personal information to unrelated third parties, except under the following circumstances:
+
+  * Compliance with Law and Fraud Protection. We may disclose any information, including personally identifiable information, we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. We may also exchange information, including personally identifiable information, with other companies and organizations for credit fraud protection, risk reduction and related activities.
+  * Fulfillment of Services. We may retain other companies and individuals to perform functions consistent with our Privacy Policy on our behalf. Examples include customer support specialists, Web hosting companies, fulfillment companies (e.g., companies that fill product orders or coordinate mailings), data analysis firms and email service providers. Such third parties may be provided with access to personally identifiable information needed to perform their functions, but may not use such information for any other purpose.
+  * Surveys and Other Special events. If you elect to participate in any promotions, sweepstakes, surveys, questionnaires, auctions or other events during your visit to our Web Site, the rules or terms and conditions for those events may indicate that your personally identifiable information will be shared with third parties. By choosing to participate in and submitting your personally identifiable information in connection with such events, you consent to disclosure of your personally identifiable information to such third parties as set forth in the terms and conditions governing such events.
 
 
 
-Security Statement
+**Non-Personally Identifiable Information**
 
-Orders on our site are encrypted by SSL (Secure Sockets Layer) technology, the industry-standard security protocol. We then store your credit card and other sensitive information "offline" — on machines not connected to the Internet — so only our customer service staff can access the details.
+In connection with your visit to this Web Site, we may collect and disclose various categories of non-personally identifiable information, including aggregate statistics generated from visitors of our Web Site. Any such information disclosed to unrelated third parties will not contain your personally identifiable information.
+
+**Business Transfers**
+
+In the conduct of our business, we might sell certain of our assets. In such transactions, user information, including personally identifiable information, generally is one of the transferred business assets, and by submitting your personal information on this Web Site you agree that your data may be transferred to such parties in these circumstances.
+
+**Updating Your Information and Preferences**
+
+As a Member, you have the option of receiving e-mail notices from us of sales, special events and other information that may be of interest to our customers. You can change this option at any time by logging in to your Member account and selecting the Update E-Mail Preferences option located within the Account Information area of our Web Site. You can also update your credit card information along with your billing and mailing addresses using the same portion of the Web Site. Please note that such requests may take up to ten (10) business days to process.
+
+**Cookies and other Internet Technologies**
+
+Our Web Site uses cookies and other technology used by web browsers, e-mail programs, and back-end servers to distinguish you from other visitors, track your IP address and usage of our Web Site, and to identify the name of the Web site from which you linked to this Web Site. This information is used to help us serve you better by improving our Web Site design, as well as our products, services, and promotions. Your email address will only be included in the cookie if you register with us. Non-personally identifiable information obtained through cookies or other commonly used technologies may be shared with or obtained by service providers on our behalf.
+
+**Links**
+
+This Web Site may contain links to or from other Web sites. Please be aware that we are not responsible for the privacy practices of other Web sites. We encourage you to read the privacy policies of other Web sites that you link to from this Web Site or otherwise visit.
+
+**Children**
+
+This Web Site is intended for use by adults only. We will not knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental consent. If we become aware that an individual is under the age of 13 and has submitted any information through this Web Site for any purpose without prior verifiable parental consent, we will delete his or her information from our files.
+
+**Policy Changes**
+
+We reserve the right to change this policy and to apply any changes to information previously collected, to the extent permitted by law. If the policies described in this privacy policy change in the future in any material respect, we will notify you by posting the revised policy on our Web Site.
+
+Effective Date: This policy was last updated on March [ ], 2006.
+
+**General**
+
+This Privacy Policy replaces all previous disclosures we may have provided you about our information practices associated with this Web Site. Also, please note that the examples contained in this Privacy Policy are illustrations only and are not intended to be exhaustive.
+
+**Jurisdiction**
+
+Stuart Weitzman is headquartered in the United States of America, and this site is operated in the United States. The laws of the State of New York govern these terms and conditions and your use of the site, and you irrevocably consent to the jurisdiction of the courts located in New York for any action to enforce these terms and conditions. Stuart Weitzman recognizes that it is possible for you to obtain access to this site from any jurisdiction in the world, but Stuart Weitzman has no practical ability to prevent such access. This site has been designed to comply with the laws of New York and of the United States. If any material on this site, or your use of the site, is contrary to the laws of the place where you are when you access it, the site is not intended for you, and Stuart Weitzman asks you not to use the site. You are responsible for informing yourself of the laws of your jurisdiction and complying with them.
+
+**Comments or Questions**
+
+We value your input. If you have any questions or comments regarding our Privacy Policy, please contact us at:
+
+Fax: 212-582-6388   
+E-mail: [questions@stuartweitzman.com](mailto:questions@stuartweitzman.com)
