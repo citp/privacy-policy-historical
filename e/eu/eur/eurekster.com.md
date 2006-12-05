@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurekster.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615203418id_/http%3A//eurekster.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurekster.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210400id_/http%3A//www.eurekster.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Eurekster Privacy Policy
 
