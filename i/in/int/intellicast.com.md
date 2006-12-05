@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615012605id_/http%3A//www.intellicast.com/IcastPage/LoadPage.aspx%3Floc%3Dusa%26seg%3DAboutUS%26prodgrp%3DAbout%26product%3DPrivacy%26prodnav%3Dnone) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellicast.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192637id_/http%3A//www.intellicast.com/IcastPage/LoadPage.aspx%3Floc%3Dusa%26seg%3DAboutUS%26prodgrp%3DAbout%26product%3DPrivacy%26prodnav%3Dnone) for the most accurate reproduction.*
 
 # Intellicast's Privacy Policy for UnitedStates
 
