@@ -1,11 +1,22 @@
-> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2006-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060610044237id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205033139id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
 
 # AutoBarn.com Info
 
-|  [ ](http://www.autobarn.net/index.html)  
+| 
+
+[ ](http://www.autobarn.net/index.html)  
+  
 ---  
- Free Shipping: **$150+**    
-| | [](https://web.archive.org/web/20060610044237id_/http%3A//www.autobarn.net/index.html)
+**CALL TOLL FREE:  
+1-888-484-9560**  
+**Customer    
+Testimonials**  
+---  
+  
+"Went with Autobarn because quite honestly they had what I was looking for, and I got my order promptly. Very happy."   
+**Aug 31, 2006**  
+  
+| | [](https://web.archive.org/web/20061205033139id_/http%3A//www.autobarn.net/index.html)
 
 **AutoBarn.com Privacy Policy** | **We are committed to maintaining your privacy.**  
 To demonstrate our commitment to your privacy, AutoBarn.com has developed a Privacy Policy to engender trust and confidence in our site and the Internet by encouraging full disclosure and informed consent. This statement discloses the privacy practices for the AutoBarn.com web site. Questions regarding this statement should be directed to AutoBarn.com [Customer Service](mailto:customerservice@autobarn.com).  
@@ -70,4 +81,17 @@ Attention: Customer Service
   
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._  
   
-|  
+| 
+
+Extended Holiday   
+Sales and Support Hours  
+Monday - Friday: 8:00AM - 8:00PM  
+Saturday: 10:00AM - 3:00PM  
+Sunday: 12:00PM - 6:00PM  
+  **CALL TOLL FREE:  
+1-888-484-9560**
+
+| [](http://www.autobarn.net/info.html)  
+---|---  
+  
+ 
