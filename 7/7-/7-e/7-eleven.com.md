@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the 7-eleven.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615210637id_/http%3A//www.7-eleven.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7-eleven.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205033311id_/http%3A//www.7-eleven.com/about/privacy.asp) for the most accurate reproduction.*
 
 # 7-Eleven: Privacy Policy
 
 **_Introduction_**
 
-7-Eleven, Inc., the operator of this web site, is committed to preserving the privacy of those who visit our 7-eleven.com site. This document, as our official Privacy Policy, will outline how we gather and utilize various sources of information obtained during your visit to 7-eleven.com. This Privacy Statement applies solely to information collected at this particular web site. 
+7-Eleven, Inc., the operator of this web site, is committed to preserving the privacy of those who visit our 7-eleven.com or Slurpee.com site. This document, as our official Privacy Policy, will outline how we gather and utilize various sources of information obtained during your visit to 7-eleven.com or Slurpee.com. This Privacy Statement applies solely to information collected at this particular web site. 
 
 **_Links to Third Party Sites_**
 
-We may make content or services from other Web sites including our affiliated or co-branded Web sites available to you from links located on 7-eleven.com. These "other" domains (web sites) are not controlled by 7-Eleven, Inc. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every web site that collects personally identifiable information. Visiting sites linked from 7-eleven.com is at your own risk. 
+We may make content or services from other Web sites including our affiliated or co-branded Web sites available to you from links located on 7-eleven.com or Slurpee.com. These "other" domains (web sites) are not controlled by 7-Eleven, Inc. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every web site that collects personally identifiable information. Visiting sites linked from 7-eleven.com or Slurpee.com is at your own risk. 
 
 **_Information Collected_**
 
@@ -29,7 +29,7 @@ Our site may pass a "cookie" (a string of information that is sent by a web site
 
 **_Children's Privacy_**
 
-7-Eleven.com does not collect personally identifiable information from children under 13 years old. 
+7-Eleven.com nor Slurpee.com collects personally identifiable information from children under 13 years old. 
 
 **_Security_**
 
@@ -37,18 +37,18 @@ This site has security measures in place designed to help protect against the lo
 
 **_Policy Modifications_**
 
-Please check this page periodically for changes to this Privacy Policy. We reserve the right to modify this policy as we deem appropriate by posting a new privacy policy at this location. If we decide to change our current policy to any significant degree, we will not use your personal information under the new policy in a manner that is materially inconsistent with this current Privacy Policy without your prior consent. Thank you for patronizing 7-eleven.com. 
+Please check this page periodically for changes to this Privacy Policy. We reserve the right to modify this policy as we deem appropriate by posting a new privacy policy at this location. If we decide to change our current policy to any significant degree, we will not use your personal information under the new policy in a manner that is materially inconsistent with this current Privacy Policy without your prior consent. Thank you for patronizing 7-eleven.com and/or Slurpee.com. 
 
 **_Comments and Questions_**
 
 If you have any questions, comments or concerns about our Privacy Policy, you may contact us at the following address: 
 
 > 7-Eleven, Inc.  
->  Attn: 7-Eleven.com Webmaster  
->  2711 North Haskell Drive  
->  Dallas, Texas 75204  
+>  Attn: 7-Eleven.com/Slurpee.com Webmaster  
+>  P.O. Box 711  
+>  Dallas, TX 75221-0711  
 >  webmaster@7-11.com  
 > 
 
-This policy was last updated on: 3/11/02 10:58:45 AM  
-Copyright © 7-Eleven, Inc. 2002. All rights reserved. 
+This policy was last updated on: 8/31/04 9:58:45 AM  
+Copyright © 7-Eleven, Inc. 2004. All rights reserved. 
