@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yankeemagazine.com privacy policy that was archived on 2006-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060502011513id_/http%3A//www.yankeemagazine.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yankeemagazine.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210505id_/http%3A//www.yankeemagazine.com/privacy/index.php) for the most accurate reproduction.*
 
 # Yankee Magazine - Privacy Policy
 
@@ -15,6 +15,8 @@ We use cookies to enhance your visit to our site and for internal reporting. If 
 For information you provide to us, we will not rent or share your contact information outside of Yankee Publishing Inc. without your permission -- with two exceptions: when you enter a sweepstakes on our Web site we offer it to the establishment(s) that provides the sweepstakes prize; and if you subscribe to YANKEE Magazine the information you provide follows the guidelines listed below in "Print Subscribers Privacy Policy." 
 
 Yankee Publishing Inc. is composed of different operating groups. Any information we save about you will be shared among these operating groups. Occasionally you may receive offers from these operating groups, to remove your name from those lists, follow the instructions within the communication. 
+
+We have contracted with Yahoo! Search Marketing to monitor certain pages of our website for the purpose of reporting web traffic, statistics, advertisement 'click-throughs,' and/or other activities on our website. No personally identifiable data is collected by or transferred to Yahoo! Search Marketing. Where authorized by us, Yahoo! Search Marketing may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. However, if you choose, you may opt-out from Yahoo! Search Marketing's collection of such information outside of the Yahoo! network of websites, by clicking on the following link: <http://docs.yahoo.com/info/privacy/us/ysmt.html>. 
 
 **Print Subscribers Privacy Policy**
 
@@ -33,5 +35,4 @@ Thank you for your interest in YANKEE Magazine, YankeeMagazine.com and NewEnglan
 
 Yankee Publishing Inc., publishers of: YANKEE Magazine, the _Yankee Magazine Travel Guide to New England,_ _The Old Farmer's Almanac,_ and _The Old Farmer's Almanac All-Seasons Garden Guide._
 
-On the Web at: [www.YankeeMagazine.com,](http://www.yankeemagazine.com/) [www.NewEngland.com,](http://www.newengland.com/) and [www.Almanac.com](http://www.almanac.com/)   
-
+On the Web at: [www.YankeeMagazine.com,](http://www.yankeemagazine.com/) [www.NewEngland.com,](http://www.newengland.com/) and [www.Almanac.com](http://www.almanac.com/)
