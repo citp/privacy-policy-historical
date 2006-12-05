@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2006-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060618034134id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commerceonline.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205210904id_/http%3A//www.commerceonline.com/privacy_policy/index.cfm) for the most accurate reproduction.*
 
 # Commerce Bank - Privacy Policy
 
   
 **Privacy & Security**  
-Commerce Bancorp, Inc., consists of a number of related companies called affiliates. These affiliated companies consist of the Commerce Banks, Commerce Capital Markets, Inc., Commerce Insurance Services, Inc., In the state of New York, insurance services are offered through Commerce Insurance Brokerage Services, and Commerce Insurance Brokerage Services/New York, Inc. In order to bring you the financial products and services you want and expect, information about current and former customers is shared among the Commerce-affiliated companies. 
+Commerce Bancorp, Inc., consists of a number of related companies called affiliates. These affiliated companies consist of the Commerce Banks, Commerce Capital Markets, Inc., and Commerce Banc Insurance Services, Inc. In order to bring you the financial products and services you want and expect, information about current and former customers is shared among the Commerce-affiliated companies. 
 
 This notice provides detail about the information we collect and disclose, and explains how we handle privacy as it relates to you and your accounts. 
 
