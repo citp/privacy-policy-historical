@@ -1,7 +1,14 @@
-> *The following text is extracted and transformed from the thenewstribune.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320082819id_/http%3A//www.thenewstribune.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewstribune.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205191427id_/http%3A//www.thenewstribune.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Privacy policy | TheNewsTribune.com | Tacoma, WA
 
+| 
+
+| 
+
+Tacoma, WA - January 30, 2020  
+---  
+  
 **Privacy Policy**  
 Effective Date: January 28, 2004.
 
@@ -92,4 +99,4 @@ TheNewsTribune.com supports P3P, the Platform for Privacy Preferences, which all
 **General**  
 In the event of the sale or merger of The News Tribune Company and/or The McClatchy Company, ownership of the information described in this Privacy Policy will be transferred to the acquiring or successor company.
 
-TheNewsTribune.com endorses and abides by the privacy principles approved by the Interactive Services Association and the Direct Marketing Association. If you have any questions or comments about our policies, we may be reached at TheNewsTribune.com, P.O. Box 11,000, Tacoma, WA, 98411, at (253) 552-7000 or at [webmaster@thenewstribune.com](mailto:webmaster@thenewstribune.com). 
+TheNewsTribune.com endorses and abides by the privacy principles approved by the Interactive Services Association and the Direct Marketing Association. If you have any questions or comments about our policies, we may be reached at TheNewsTribune.com, P.O. Box 11,000, Tacoma, WA, 98411, at (253) 552-7000 or at [webmaster@thenewstribune.com](mailto:webmaster@thenewstribune.com).
