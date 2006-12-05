@@ -1,44 +1,64 @@
-> *The following text is extracted and transformed from the townhall.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615004606id_/http%3A//www.townhall.com/townhall/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the townhall.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205192837id_/http%3A//www.townhall.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Townhall.com :: Privacy Policy
+# Townhall.com::Home::Privacy Policy
 
-**Townhall.com's Privacy Policy**  
-Your privacy on the Internet is important to us. As part of the operation and customization feature of townhall.com, we gather certain types of information from users, and we would like to explain the types of information we gather, what we do with them, and how to correct or change the information.
+Your online privacy is a priority for Townhall.com and we are taking every effort to protect any personal information that you provide. This privacy policy has been created to answer any questions you may have regarding our use of information collected and how information is being collected and protected.
 
-**Information Collected By townhall.com**  
-townhall.com collects two types of information from users: personal data such as zip code, email address and demographic information; and aggregated data such as information about traffic patterns on townhall.com (for example, how many users log on to townhall.com on a daily basis). 
+What information is being collected at Townhall.com? 
 
-**Personal Data**  
-townhall.com allows users to write and send email to their elected officials. Since messages generally are more credible-and therefore more effective-when the author's name and home address are included in the message, townhall.com has provided a template that allows users to input this information neatly on the top of their message. townhall.com does not store or save this information in any way. It is only used one time to stamp the message with the sender's information.
+The only personal information collected is information you give us. Townhall.com offers multiple opportunities for you to sign up for email alerts and sign up for your personal action center. We do not collect or maintain any personal information unless you provide us with your name, address, zip code, and email address.
 
-**Aggregated Information**  
-Aggregated information, such as which pages users visit, is collected through various means. One of these ways is through an IP address, a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you request a page from townhall.com, our servers log your IP address. townhall.com does not link IP addresses to anything personally identifiable, so although your session will be logged, your session will remain anonymous to us. townhall.com collects IP addresses for the purposes of system administration and to provide aggregate data to advertisers about the volume of use on townhall.com.
+**How we use log files to better serve you.**   
+We use log files to assess the aggregate level of traffic to Townhall.com including what pages people are visiting, and to diagnose any potential problems with the Web site. This log file does contain an “Internet Protocol” or IP address that gives us insight on the general geographic area that visitors are coming from but not information on a specific individual. 
 
-**Use of Cookies**  
-townhall.com uses cookies to automate the process of logging on to certain areas of the site. The townhall.com cookie is a small data file stored on your computer that contains a single, randomly assigned user ID number. By recognizing this ID number, townhall.com can automatically provide you with the personalized content which you requested. Cookies can neither read any other files on your computer, nor damage your computer. Most browsers are initially set to accept cookies. If you'd prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent.
+We ask that children under 13 do not submit their information. In accordance with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA) Townhall.com does not knowingly collect information from children. We encourage parents to participate actively in their children’s Internet experience.
 
-**Advertising on townhall.com**  
-Our ad server may combine demographic data from your registration information with non-personally identifiable information about your clickstream on the townhall.com site. This allows us to serve you targeted advertisements. This ad targeting information is not transferable to other websites. As always, your personally identifiable information will be protected. Townhall.com also uses DoubleClick for some of its ad serving. For information on DoubleClick, visit their privacy statement
+We do not retain information when you forward a message unless you request us to do so. Townhall.com contains numerous opportunities for a visitor to forward documents, photos, and messages to friends and family. This information is only used to forward that visitor’s message and is not retained by Townhall.com unless you request it. We save email addresses as a personal service to our users. Under NO circumstances will Townhall.com send messages to our users list directly.
 
-**Use of Information Collected by townhall.com**  
-townhall.com uses both the personal and aggregated information we collect for multiple purposes. The information is used to improve the content of the site, to customize the content and/or layout of the site for each individual user, and if requested, to provide information services by email to the user. After registration, users will receive a single email message confirming registration. townhall.com will never disclose your personally identifiable information to a third party unless required to do so by court order, law or governmental agency
+How is the information collected at Townhall.com used? 
 
-. 
+We personalize the website and email communications. When you offer your personal information for email alerts or to participate in our activism efforts we use your information to personalize and customize Web pages and emails from Townhall.com to you, we also use the information to credit individuals for their actions taken.
 
-**Information Security at townhall.com**  
-townhall.com employees understand the need for user privacy and the company has appointed a privacy policy administrator to monitor privacy practices. Access to user data is strictly limited and can only be accessed by specific individuals who have the necessary username and password combination. A log is maintained to record who has accessed the data. This log is checked at least weekly for possible security breaches.
+**All email communications are opt-in.**  
+Townhall.com acquires no personal or registration data about our users except what you explicitly and voluntarily provide (ie. opt-in). We reserve the right to use this information specifically for the purposes related to your registration and generally for any necessary future communication regarding your registration or status. 
 
-**Children and Privacy**  
-townhall.com encourages parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. In general, townhall.com will not contain content that is reasonably considered unsuitable for children.
+As part of your free subscription, from time to time we will deliver messages from our partners that we believe would be of specific interest to you. If you would prefer not to receive these occasional messages we will discontinue them at your request. 
 
-**Links to Other Sites**  
-It is important to note that townhall.com contains links to sites other than townhall.com, and that those sites may not follow the same privacy policies as townhall.com. For instance, if you click on an advertisement on townhall.com, this will take you away from townhall.com to an entirely different site.
+We do not disclose personally identifying information except as provided for by this policy. 
 
-**Changes to the Privacy Policy**  
-townhall.com reserves the right to change the policy on use of information collected. Any changes in policy will be noted in a revised privacy policy statement and will be posted at least 30 days prior to implementation. You may direct any privacy policy questions to privacy@townhall.com. 
+We do share personally identifying information to the following third parties or for the following purposes: Within the Corporate Enterprise of Salem Communications, firms that are “Standing in the shoes” of Salem Communications for provision of certain goods and services, Sponsor Partners, Content Partners, Third Party and Network Advertisers, for necessary purposes in the purchase, merger, or sale of the business, for safety and security purposes, and to comply with the request of any Law Enforcement authority. 
 
-**Third Party Advertising**  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+Is my information secure? 
 
- **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser.
+**Protecting information you provide via Townhall.com.**   
+Townhall.com makes every effort to protect your information from the moment you begin to enter your information to when it is stored on our secure servers. Townhall.com uses a secure socket layer (SSL) – with the highest level of encryption commercially available – on pages where Web site visitors sign up for email news or register for our activism tools.
+
+Strict security measures are in place to protect the loss, misuse and alteration of any and all information pertaining to Townhall.com. In addition, Townhall.com is run on servers located in a secure server room and locked in a rack. Staff is onsite 24 hours a day, monitoring equipment and services.
+
+**Use of cookies and protecting your privacy.**   
+We do make use of cookies to personalize and customize your interaction with Townhall.com and to provide you with the best possible online experience. A cookie is a tiny text file that is placed on your hard drive when you voluntarily register with Townhall.com. These text files do not contain any personal information and can not be used by Townhall.com or anyone else to obtain any information that you do not voluntarily provide. Occasionally, our advertisers will also place cookies on your browser when you click on their ads from our site. This enables them to track the effectiveness of their ads. In most cases, cookies will only be placed when the ad is served to the page you're viewing. 
+
+**Townhall.com links to other sites:**  
+Our site may contain links to other Web sites and servers. Townhall.com is not responsible for the content or privacy practices of linked Web sites; nor should a link from Townhall.com be construed as an endorsement of that site’s content, services or practices.
+
+Can I change my information or opt out of campaign mailings? 
+
+**Use your password to edit your personal information:**   
+When you sign up for email news and to our action center you automatically receive a user name and password. You can change your password or have it resent to your email account at any time. This password can be used to edit your personal information at any time. To edit your information or to have your password resent to your registered email address please go to: [http://www.Townhall.com/secure/login.aspx](http://www.townhall.com/secure/login.aspx).
+
+**How to unsubscribe from our email list.**  
+All sign ups for email communications and other features of Townhall.com are completely voluntary. At the bottom of every news alert email is an opportunity to unsubscribe from our mailings. You may also unsubscribe by sending an email to info@Townhall.com with the word “unsubscribe” in the subject line or call Townhall.com at 703-247-6046.
+
+How do I contact Townhall.com? 
+
+**Contact information for Townhall.com.** If you have any questions, comments or concerns please contact Townhall.com by sending an email to[ info@Townhall.com](mailto:info@Townhall.com), calling us at **703-247-6046** or writing to:
+
+Townhall.com  
+1901 N. Moore Street, Suite 205  
+Arlington, Virginia 22209
+
+Will this privacy policy change? 
+
+We reserve the right to revise or update this privacy policy at any time. While we do not intend to make any changes to this policy we do reserve the right to do so. If any changes to this privacy policy are made the date that the revised or updated policy is posted to Townhall.com will appear at the bottom of the page.
+
+_(Posted August 11, 2006)_
