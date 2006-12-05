@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615072745id_/http%3A//intralinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205224544id_/http%3A//www.intralinks.com/privacy-policy) for the most accurate reproduction.*
 
-# IntraLinks Privacy Policy
+# IntraLinks Legal Notices
 
 This site also includes hyperlinks to other websites neither owned nor managed by IntraLinks. IntraLinks is not associated with these third-party websites and does not review their privacy policies. We cannot guarantee the privacy of any information that may be obtained by third parties at these other websites. We strongly encourage you to review the privacy policies of any website you visit before supplying personally identifiable information through that website. 
 
@@ -27,7 +27,7 @@ IntraLinks may use aggregate log information it collects from visitors to better
 Any information provided to IntraLinks through our website is considered confidential by IntraLinks, unless it is publicly available or has already been provided to us without any confidentiality obligation. IntraLinks takes appropriate and reasonable precautions and has implemented appropriate managerial and technical procedures to protect the security of information provided to us by visitors to our website. The information you provide is used only by those IntraLinks employees who have a reasonable business need to access to your information to assist you with your request. Top
 
  **How can I change, update, or delete the information I've provided?**  
-If you wish to change or update any information you have provided to IntraLinks, or would like us to delete such information from our records, please contact us at []()info@intralinks.com or call us at 212 543 7700. Top
+If you wish to change or update any information you have provided to IntraLinks, or would like us to delete such information from our records, please contact us at []()info@intralinks.com or call us at 212 543 7700. Top
 
  **Does IntraLinks use "cookies"?**  
 "Cookies" are small pieces of information that are stored by your web browser on your computer's hard drive. Cookies can be used to remember certain information about you in order to customize the information you see during visits to a website and/or to collect information about your visit. 
