@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ikarma.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615071048id_/http%3A//ikarma.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikarma.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206003411id_/http%3A//www.ikarma.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - iKarma
 
 Last updated: May 23, 2006 
 
-This is the Privacy Statement of iKarma.com. We understand that our members and Web site visitors are concerned about the privacy of information. We have established policies and procedures concerning the collection, use and security of your information that will help protect your privacy. Our Privacy Statement is designed to help us serve our members and visitors while maintaining strict privacy and security standards.
+This is the Privacy Statement of iKarma. We understand that our members and Web site visitors are concerned about the privacy of information. We have established policies and procedures concerning the collection, use and security of your information that will help protect your privacy. Our Privacy Statement is designed to help us serve our members and visitors while maintaining strict privacy and security standards.
 
 **How can you reach us?**  
 Our postal address is: 
@@ -13,13 +13,13 @@ Our postal address is:
   1203 Town Center Dr. #212  
   Jupiter , FL 33458 
 
-Reach us via email at [info@ikarma.com](https://web.archive.org/aboutus/contactus.asp?MainShow=6&SubMenu=6&typeid=26&mailto=info), by telephone at (561) 427-7285 or by fax at (561) 427-7881. 
+Reach us via email at [info@ikarma.com](https://web.archive.org/aboutus/contactus.asp?mailto=info), by telephone at (561) 427-7285 or by fax at (561) 427-7881. 
 
 **What information do we collect from our Web site visitors?**
 
 For each visitor to our Web site, our Web server collects: 
 
-Cookies and IP Addresses. Cookies are data files that websites store on your computer's hard drive. Cookies allow iKarma to analyze site use, target ads, store your preferences/passwords (if you've registered) and personalize your experience (including tracking your site use to do so). Use of cookies can be rejected or modified by configuring most web browsers. If you're not registered, rejecting cookies won't noticeably affect your experience on iKarma.com. You must accept cookies to access iKarma.com as a registered user.
+Cookies and IP Addresses. Cookies are data files that websites store on your computer's hard drive. Cookies allow iKarma to analyze site use, target ads, store your preferences/passwords (if you've registered) and personalize your experience (including tracking your site use to do so). Use of cookies can be rejected or modified by configuring most web browsers. If you're not registered, rejecting cookies won't noticeably affect your experience on iKarma. You must accept cookies to access iKarma as a registered user.
 
 Your access provider assigns an IP address to your computer when you use the Internet. We log each IP address that accesses the site, along with referring/destination URLs. We use this data, as well as other data in our databases, to analyze site and user behavior, troubleshoot technical problems, resolve disputes, address complaints and prepare aggregated reports that we share with others. We collect aggregate information on what pages consumers access or visit.
 
@@ -84,6 +84,6 @@ If you are age 12 and under, please do not use the site or provide any data to u
 **Enforcement**
 
 If you feel that this site is not following its stated information policy, you may contact:  
-· iKarma.com at our addresses or phone number.  
+· iKarma at our addresses or phone number.  
 · State or local consumer protection office.  
 · The Federal Trade Commission by phone at 202-FTC-HELP ( 202-382-4357 )  or electronically at [FTC Consumer Complaint Form ](https://rn.ftc.gov/dod/wsolcq$.startup?Z_ORG_CODE=PU01). 
